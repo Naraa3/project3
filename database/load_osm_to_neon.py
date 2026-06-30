@@ -7,7 +7,7 @@ engine = create_engine(DATABASE_URL)
 
 # Read the cleaned CSV
 
-df = pd.read_csv("etl/france_osm_hotels_restaurants_clean.csv")
+df = pd.read_csv("data/clean/france_osm_hotels_restaurants_clean.csv")
 
 print(f"Rows to upload: {len(df)}")
 

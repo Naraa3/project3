@@ -2,23 +2,19 @@ import time
 import requests
 import pandas as pd
 
-url = "https://overpass-api.de/api/interpreter"
+url = "https://overpass.kumi.systems/api/interpreter"
 
 headers = {
     "User-Agent": "TourInsight/1.0 (student project)"
 }
 
 cities = [
-    "Paris",
     "Marseille",
+    "Paris",
     "Lyon",
     "Toulouse",
     "Nice",
-    "Nantes",
-    "Montpellier",
-    "Strasbourg",
-    "Bordeaux",
-    "Lille"
+    "Nantes"
 ]
 
 all_rows = []
@@ -54,23 +50,42 @@ for city in cities:
 
     for el in elements:
         tags = el.get("tags", {})
+
+        category = tags.get("tourism") or tags.get("amenity")
+        lat = el.get("lat")
+        lon = el.get("lon")
+
+        street_address = " ".join(filter(None, [
+            tags.get("addr:housenumber"),
+            tags.get("addr:street")
+        ]))
+
+        full_address = ", ".join(filter(None, [
+            street_address,
+            tags.get("addr:postcode"),
+            tags.get("addr:city")
+        ]))
+
         all_rows.append({
             "osm_id": el.get("id"),
             "osm_type": el.get("type"),
-            "city": city,
             "name": tags.get("name"),
-            "category": tags.get("tourism") or tags.get("amenity"),
-            "lat": el.get("lat"),
-            "lon": el.get("lon")
+            "category": category,
+            "city": city,
+            "address": full_address,
+            "postcode": tags.get("addr:postcode"),
+            "website": tags.get("website"),
+            "lat": lat,
+            "lon": lon
         })
 
     print(f"{city}: {len(elements)} rows")
-    time.sleep(2)
+    time.sleep(15)
 
 df = pd.DataFrame(all_rows)
 
 print(df.head())
 print("TOTAL ROWS:", len(df))
 
-df.to_csv("etl/france_osm_hotels_restaurants.csv", index=False)
-print("Saved file: etl/france_osm_hotels_restaurants.csv")
+df.to_csv("data/raw/france_osm_hotels_restaurants.csv", index=False)
+print("Saved file: data/raw/france_osm_hotels_restaurants.csv")

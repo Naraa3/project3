@@ -1,7 +1,7 @@
 import pandas as pd
 
-input_file = "etl/france_osm_hotels_restaurants.csv"
-output_file = "etl/france_osm_hotels_restaurants_clean.csv"
+input_file = "data/raw/france_osm_hotels_restaurants.csv"
+output_file = "data/clean/france_osm_hotels_restaurants_clean.csv"
 
 df = pd.read_csv(input_file)
 
