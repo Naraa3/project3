@@ -1,0 +1,15 @@
+# Virtual Environment
+project3/
+env/
+
+# Data files (we don't want raw data bloating our GitHub repo)
+data/
+*.csv
+*.json
+
+# Environment variables (for API keys later)
+.env
+
+# Python
+__pycache__/
+*.pyc
