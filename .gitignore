@@ -12,4 +12,7 @@ data/
 
 # Python
 __pycache__/
-*.pyc
+*.pyclogs/ 
+__pycache__/ 
+.env 
+*.log 
