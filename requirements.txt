@@ -1,2 +1,9 @@
 pandas==2.2.0
 requests==2.31.0
+SQLAlchemy
+pandas
+streamlit
+psycopg 
+psycopg2 
+psycopg2-binary
+openrouteservice

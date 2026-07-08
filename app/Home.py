@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 from sqlalchemy import create_engine
+from dotenv import load_dotenv
+import os
 
 st.set_page_config(
     page_title="TourInsight",
@@ -8,8 +10,8 @@ st.set_page_config(
     layout="wide"
 )
 
-DATABASE_URL = "postgresql://neondb_owner:npg_MBG4insD6VQe@ep-old-recipe-atuuayxa-pooler.c-9.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
-
+#Get data from Neon
+DATABASE_URL = os.getenv("DATABASE_URL")
 engine = create_engine(DATABASE_URL)
 
 st.title("🇫🇷 TourInsight")

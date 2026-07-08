@@ -4,15 +4,25 @@ from sqlalchemy import create_engine
 import folium
 from folium.plugins import MarkerCluster
 from streamlit_folium import st_folium
+import openrouteservice
+from dotenv import load_dotenv
+import os
+
 
 st.set_page_config(
     page_title="Explore France | TourInsight",
     layout="wide"
 )
 
-# Connection with Neon DB
-DATABASE_URL = "postgresql://neondb_owner:npg_MBG4insD6VQe@ep-old-recipe-atuuayxa-pooler.c-9.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
+# Connection with Neon DB and OpenRouteService API
+load_dotenv()
+
+DATABASE_URL = os.getenv("DATABASE_URL")
+ORS_API_KEY = os.getenv("ORS_API_KEY")
+
 engine = create_engine(DATABASE_URL)
+ors_client = openrouteservice.Client(key=ORS_API_KEY)
+
 
 @st.cache_data
 def load_data():
@@ -30,7 +40,7 @@ weather_df = load_weather()
 
 
 st.title("Explore France")
-st.write("Explore Hotels and Restaurants across major French cities")
+st.write("Find Hotels and Restaurants across major French cities")
 
 # Sidebar filters
 st.sidebar.header("Filters")
@@ -121,21 +131,121 @@ else:
 
 st.divider()
 
-# Table
-st.subheader("Results")
+# Directions section
+st.subheader("Get Directions")
 
-table_df = filtered_df.copy()
+destination_options = filtered_df.dropna(subset=["lat", "lon"]).copy()
 
-table_df["address"] = table_df["address"].fillna("—")
+if len(destination_options) > 0:
+    destination_options["display_name"] = (
+        destination_options["name"].fillna("Unknown")
+        + " - "
+        + destination_options["category"].fillna("")
+        + " - "
+        + destination_options["city"].fillna("")
+    )
 
-table_df = table_df.rename(columns={
-    "name": "Name",
-    "category": "Category",
-    "address": "Address",
-    "city": "City"
-})
+    origin = st.text_input(
+        "Enter your starting point",
+        placeholder="Example: Lyon Part-Dieu, Paris Gare du Nord..."
+    )
 
-st.dataframe(
-    table_df[["Name", "Category", "Address", "City"]],
-    use_container_width=True
-)
+    selected_destination = st.selectbox(
+        "Choose a destination",
+        destination_options["display_name"]
+    )
+
+    destination_row = destination_options[
+        destination_options["display_name"] == selected_destination
+    ].iloc[0]
+
+    destination_lat = destination_row["lat"]
+    destination_lon = destination_row["lon"]
+
+    travel_mode = st.selectbox(
+        "Travel mode",
+        ["Driving", "Walking", "Cycling"]
+    )
+
+    mode_dict = {
+        "Driving": "driving-car",
+        "Walking": "foot-walking",
+        "Cycling": "cycling-regular"
+    }
+
+    if origin:
+        google_transit_url = (
+            "https://www.google.com/maps/dir/?api=1"
+            f"&origin={origin}"
+            f"&destination={destination_lat},{destination_lon}"
+            "&travelmode=transit"
+        )
+
+        st.link_button("Open public transport directions", google_transit_url)
+
+    if st.button("Show Route"):
+        if origin:
+            try:
+                geocode = ors_client.pelias_search(
+                    text=origin,
+                    country="FR",
+                    size=1
+                )
+
+                origin_coords = geocode["features"][0]["geometry"]["coordinates"]
+
+                destination_coords = [
+                    destination_lon,
+                    destination_lat
+                ]
+
+                route = ors_client.directions(
+                    coordinates=[origin_coords, destination_coords],
+                    profile=mode_dict[travel_mode],
+                    format="geojson"
+                )
+
+                route_coords = route["features"][0]["geometry"]["coordinates"]
+                route_line = [[coord[1], coord[0]] for coord in route_coords]
+
+                distance_km = route["features"][0]["properties"]["segments"][0]["distance"] / 1000
+                duration_min = route["features"][0]["properties"]["segments"][0]["duration"] / 60
+
+                st.success(
+                    f"Route found: {distance_km:.2f} km, about {duration_min:.0f} minutes"
+                )
+
+                route_map = folium.Map(
+                    location=[destination_lat, destination_lon],
+                    zoom_start=13,
+                    tiles="CartoDB dark_matter"
+                )
+
+                folium.Marker(
+                    location=[origin_coords[1], origin_coords[0]],
+                    popup="Origin",
+                    icon=folium.Icon(color="green", icon="play")
+                ).add_to(route_map)
+
+                folium.Marker(
+                    location=[destination_lat, destination_lon],
+                    popup=destination_row["name"],
+                    icon=folium.Icon(color="red", icon="flag")
+                ).add_to(route_map)
+
+                folium.PolyLine(
+                    route_line,
+                    weight=5,
+                    opacity=0.8
+                ).add_to(route_map)
+
+                st_folium(route_map, width=1100, height=550)
+
+            except Exception as e:
+                st.error("Could not calculate route. Try a more specific starting address.")
+                st.write(e)
+        else:
+            st.warning("Please enter a starting point first.")
+
+else:
+    st.warning("No destinations available for this selection.")
