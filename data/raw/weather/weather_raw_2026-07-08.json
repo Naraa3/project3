@@ -2,7 +2,7 @@
     {
         "latitude": 48.86,
         "longitude": 2.3599997,
-        "generationtime_ms": 0.18548965454101562,
+        "generationtime_ms": 0.26297569274902344,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -18,14 +18,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 30.8,
-            "relative_humidity_2m": 26,
+            "temperature_2m": 32.1,
+            "relative_humidity_2m": 27,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 5.4
+            "wind_speed_10m": 5.5
         },
         "daily_units": {
             "time": "iso8601",
@@ -88,7 +88,7 @@
     {
         "latitude": 43.3,
         "longitude": 5.369999,
-        "generationtime_ms": 0.7482767105102539,
+        "generationtime_ms": 0.6811618804931641,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -104,14 +104,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 36.2,
-            "relative_humidity_2m": 19,
+            "temperature_2m": 34.0,
+            "relative_humidity_2m": 31,
             "precipitation": 0.0,
             "rain": 0.0,
-            "weather_code": 0,
-            "wind_speed_10m": 24.2
+            "weather_code": 3,
+            "wind_speed_10m": 22.5
         },
         "daily_units": {
             "time": "iso8601",
@@ -131,12 +131,12 @@
                 "2026-07-14"
             ],
             "temperature_2m_max": [
-                37.3,
+                37.4,
                 32.5,
                 28.9,
                 33.6,
-                30.1,
-                31.2,
+                29.6,
+                31.0,
                 31.5
             ],
             "temperature_2m_min": [
@@ -145,8 +145,8 @@
                 23.8,
                 23.4,
                 25.5,
-                23.9,
-                25.5
+                23.8,
+                24.6
             ],
             "precipitation_sum": [
                 0.0,
@@ -174,7 +174,7 @@
     {
         "latitude": 45.760002,
         "longitude": 4.8399997,
-        "generationtime_ms": 0.4545450210571289,
+        "generationtime_ms": 0.2504587173461914,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -190,14 +190,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 33.8,
+            "temperature_2m": 35.2,
             "relative_humidity_2m": 21,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 8.3
+            "wind_speed_10m": 11.3
         },
         "daily_units": {
             "time": "iso8601",
@@ -260,7 +260,7 @@
     {
         "latitude": 43.6,
         "longitude": 1.44,
-        "generationtime_ms": 0.30553340911865234,
+        "generationtime_ms": 0.3420114517211914,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -276,10 +276,10 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 29.9,
-            "relative_humidity_2m": 52,
+            "temperature_2m": 33.0,
+            "relative_humidity_2m": 40,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
@@ -346,7 +346,7 @@
     {
         "latitude": 43.72,
         "longitude": 7.2599998,
-        "generationtime_ms": 0.46896934509277344,
+        "generationtime_ms": 0.2778768539428711,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -362,14 +362,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 28.4,
-            "relative_humidity_2m": 64,
+            "temperature_2m": 28.6,
+            "relative_humidity_2m": 67,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 1,
-            "wind_speed_10m": 8.9
+            "wind_speed_10m": 9.5
         },
         "daily_units": {
             "time": "iso8601",
@@ -432,7 +432,7 @@
     {
         "latitude": 47.22,
         "longitude": -1.5500002,
-        "generationtime_ms": 0.5083084106445312,
+        "generationtime_ms": 0.7719993591308594,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -448,14 +448,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 34.5,
-            "relative_humidity_2m": 20,
+            "temperature_2m": 36.1,
+            "relative_humidity_2m": 17,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 3.8
+            "wind_speed_10m": 6.1
         },
         "daily_units": {
             "time": "iso8601",
@@ -475,12 +475,12 @@
                 "2026-07-14"
             ],
             "temperature_2m_max": [
-                37.5,
+                37.6,
                 39.0,
                 40.0,
                 41.1,
-                37.9,
-                33.8,
+                37.6,
+                36.0,
                 28.8
             ],
             "temperature_2m_min": [
@@ -489,8 +489,8 @@
                 27.0,
                 29.5,
                 30.5,
-                24.4,
-                20.9
+                24.5,
+                21.4
             ],
             "precipitation_sum": [
                 0.0,
@@ -499,7 +499,7 @@
                 0.0,
                 0.0,
                 0.0,
-                6.9
+                1.8
             ],
             "precipitation_probability_max": [
                 0,
@@ -518,7 +518,7 @@
     {
         "latitude": 48.58,
         "longitude": 7.7599998,
-        "generationtime_ms": 0.2079010009765625,
+        "generationtime_ms": 0.2607107162475586,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -534,14 +534,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 28.1,
-            "relative_humidity_2m": 41,
+            "temperature_2m": 28.0,
+            "relative_humidity_2m": 43,
             "precipitation": 0.0,
             "rain": 0.0,
-            "weather_code": 3,
-            "wind_speed_10m": 12.9
+            "weather_code": 2,
+            "wind_speed_10m": 15.6
         },
         "daily_units": {
             "time": "iso8601",
@@ -604,7 +604,7 @@
     {
         "latitude": 43.62,
         "longitude": 3.8799996,
-        "generationtime_ms": 0.31316280364990234,
+        "generationtime_ms": 0.2522468566894531,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -620,14 +620,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 40.1,
+            "temperature_2m": 40.7,
             "relative_humidity_2m": 10,
             "precipitation": 0.0,
             "rain": 0.0,
-            "weather_code": 0,
-            "wind_speed_10m": 16.4
+            "weather_code": 1,
+            "wind_speed_10m": 12.6
         },
         "daily_units": {
             "time": "iso8601",
@@ -690,7 +690,7 @@
     {
         "latitude": 44.84,
         "longitude": -0.58000016,
-        "generationtime_ms": 0.5486011505126953,
+        "generationtime_ms": 0.22995471954345703,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -706,14 +706,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 30.7,
-            "relative_humidity_2m": 55,
+            "temperature_2m": 32.7,
+            "relative_humidity_2m": 49,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 6.0
+            "wind_speed_10m": 6.6
         },
         "daily_units": {
             "time": "iso8601",
@@ -776,7 +776,7 @@
     {
         "latitude": 50.638,
         "longitude": 3.0449998,
-        "generationtime_ms": 0.4181861877441406,
+        "generationtime_ms": 0.28133392333984375,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -792,14 +792,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 28.9,
-            "relative_humidity_2m": 42,
+            "temperature_2m": 30.1,
+            "relative_humidity_2m": 39,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 9.0
+            "wind_speed_10m": 10.8
         },
         "daily_units": {
             "time": "iso8601",
@@ -819,22 +819,22 @@
                 "2026-07-14"
             ],
             "temperature_2m_max": [
-                30.6,
-                32.2,
-                30.6,
-                31.7,
-                33.3,
+                30.9,
+                31.9,
+                30.2,
+                31.2,
+                32.8,
                 33.8,
                 34.5
             ],
             "temperature_2m_min": [
                 18.5,
-                19.2,
-                20.8,
-                19.7,
-                21.7,
-                23.0,
-                24.2
+                19.6,
+                20.7,
+                19.3,
+                20.9,
+                22.6,
+                22.9
             ],
             "precipitation_sum": [
                 0.0,
@@ -851,8 +851,8 @@
                 0,
                 0,
                 2,
-                10,
-                16
+                0,
+                6
             ]
         },
         "city": "Lille",
@@ -862,7 +862,7 @@
     {
         "latitude": 48.12,
         "longitude": -1.6800003,
-        "generationtime_ms": 0.8296966552734375,
+        "generationtime_ms": 0.6290674209594727,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -878,14 +878,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 32.6,
-            "relative_humidity_2m": 22,
+            "temperature_2m": 33.9,
+            "relative_humidity_2m": 19,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 3.5
+            "wind_speed_10m": 6.1
         },
         "daily_units": {
             "time": "iso8601",
@@ -909,8 +909,8 @@
                 37.4,
                 38.1,
                 39.9,
-                37.2,
-                37.4,
+                36.1,
+                37.5,
                 29.3
             ],
             "temperature_2m_min": [
@@ -919,8 +919,8 @@
                 26.3,
                 25.4,
                 28.4,
-                26.4,
-                21.1
+                26.9,
+                22.4
             ],
             "precipitation_sum": [
                 0.0,
@@ -929,7 +929,7 @@
                 0.0,
                 0.0,
                 0.0,
-                8.4
+                0.6
             ],
             "precipitation_probability_max": [
                 0,
@@ -948,7 +948,7 @@
     {
         "latitude": 49.260002,
         "longitude": 4.04,
-        "generationtime_ms": 0.19693374633789062,
+        "generationtime_ms": 0.19848346710205078,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -964,14 +964,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 29.8,
+            "temperature_2m": 30.8,
             "relative_humidity_2m": 34,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 11.0
+            "wind_speed_10m": 12.7
         },
         "daily_units": {
             "time": "iso8601",
@@ -1034,7 +1034,7 @@
     {
         "latitude": 49.5,
         "longitude": 0.099999905,
-        "generationtime_ms": 0.19466876983642578,
+        "generationtime_ms": 7.23719596862793,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -1050,14 +1050,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 24.8,
-            "relative_humidity_2m": 59,
+            "temperature_2m": 26.1,
+            "relative_humidity_2m": 53,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 8.4
+            "wind_speed_10m": 10.3
         },
         "daily_units": {
             "time": "iso8601",
@@ -1120,7 +1120,7 @@
     {
         "latitude": 45.44,
         "longitude": 4.3799996,
-        "generationtime_ms": 0.21374225616455078,
+        "generationtime_ms": 5.306124687194824,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -1136,14 +1136,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 32.1,
-            "relative_humidity_2m": 22,
+            "temperature_2m": 33.2,
+            "relative_humidity_2m": 21,
             "precipitation": 0.0,
             "rain": 0.0,
-            "weather_code": 0,
-            "wind_speed_10m": 14.3
+            "weather_code": 1,
+            "wind_speed_10m": 15.8
         },
         "daily_units": {
             "time": "iso8601",
@@ -1206,7 +1206,7 @@
     {
         "latitude": 43.12,
         "longitude": 5.9300003,
-        "generationtime_ms": 0.7139444351196289,
+        "generationtime_ms": 0.8389949798583984,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -1222,14 +1222,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 29.3,
+            "temperature_2m": 29.2,
             "relative_humidity_2m": 65,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 2,
-            "wind_speed_10m": 12.3
+            "wind_speed_10m": 14.2
         },
         "daily_units": {
             "time": "iso8601",
@@ -1249,12 +1249,12 @@
                 "2026-07-14"
             ],
             "temperature_2m_max": [
-                29.7,
+                29.6,
                 31.5,
                 32.6,
                 32.8,
-                30.7,
-                32.2,
+                30.5,
+                31.5,
                 32.6
             ],
             "temperature_2m_min": [
@@ -1263,8 +1263,8 @@
                 23.9,
                 24.4,
                 25.0,
-                24.3,
-                26.7
+                24.1,
+                25.4
             ],
             "precipitation_sum": [
                 0.0,
@@ -1292,7 +1292,7 @@
     {
         "latitude": 45.18,
         "longitude": 5.72,
-        "generationtime_ms": 0.2789497375488281,
+        "generationtime_ms": 0.37384033203125,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -1308,14 +1308,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 35.3,
-            "relative_humidity_2m": 17,
+            "temperature_2m": 35.7,
+            "relative_humidity_2m": 14,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 24.7
+            "wind_speed_10m": 25.7
         },
         "daily_units": {
             "time": "iso8601",
@@ -1378,7 +1378,7 @@
     {
         "latitude": 47.32,
         "longitude": 5.0399995,
-        "generationtime_ms": 0.3541707992553711,
+        "generationtime_ms": 0.20968914031982422,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -1394,14 +1394,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 32.1,
-            "relative_humidity_2m": 17,
+            "temperature_2m": 33.2,
+            "relative_humidity_2m": 21,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 7.7
+            "wind_speed_10m": 11.0
         },
         "daily_units": {
             "time": "iso8601",
@@ -1464,7 +1464,7 @@
     {
         "latitude": 47.48,
         "longitude": -0.5600002,
-        "generationtime_ms": 0.3737211227416992,
+        "generationtime_ms": 0.27310848236083984,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -1480,14 +1480,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 32.0,
-            "relative_humidity_2m": 19,
+            "temperature_2m": 34.0,
+            "relative_humidity_2m": 17,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 0.4
+            "wind_speed_10m": 1.3
         },
         "daily_units": {
             "time": "iso8601",
@@ -1550,7 +1550,7 @@
     {
         "latitude": 43.84,
         "longitude": 4.36,
-        "generationtime_ms": 0.1970529556274414,
+        "generationtime_ms": 0.24116039276123047,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -1566,14 +1566,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 39.0,
+            "temperature_2m": 39.9,
             "relative_humidity_2m": 11,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 13.6
+            "wind_speed_10m": 11.3
         },
         "daily_units": {
             "time": "iso8601",
@@ -1636,7 +1636,7 @@
     {
         "latitude": 43.52,
         "longitude": 5.44,
-        "generationtime_ms": 0.3094673156738281,
+        "generationtime_ms": 0.3075599670410156,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -1652,14 +1652,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 37.1,
-            "relative_humidity_2m": 16,
+            "temperature_2m": 38.2,
+            "relative_humidity_2m": 13,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 1,
-            "wind_speed_10m": 31.0
+            "wind_speed_10m": 31.9
         },
         "daily_units": {
             "time": "iso8601",
@@ -1722,7 +1722,7 @@
     {
         "latitude": 43.94,
         "longitude": 4.7999997,
-        "generationtime_ms": 0.31816959381103516,
+        "generationtime_ms": 0.24211406707763672,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -1738,14 +1738,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 37.7,
-            "relative_humidity_2m": 15,
+            "temperature_2m": 38.8,
+            "relative_humidity_2m": 14,
             "precipitation": 0.0,
             "rain": 0.0,
-            "weather_code": 0,
-            "wind_speed_10m": 22.0
+            "weather_code": 1,
+            "wind_speed_10m": 21.7
         },
         "daily_units": {
             "time": "iso8601",
@@ -1808,7 +1808,7 @@
     {
         "latitude": 45.9,
         "longitude": 6.1199994,
-        "generationtime_ms": 0.3647804260253906,
+        "generationtime_ms": 0.3000497817993164,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -1824,14 +1824,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 32.8,
-            "relative_humidity_2m": 18,
+            "temperature_2m": 33.5,
+            "relative_humidity_2m": 20,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 8.1
+            "wind_speed_10m": 11.5
         },
         "daily_units": {
             "time": "iso8601",
@@ -1894,7 +1894,7 @@
     {
         "latitude": 43.55,
         "longitude": 7.0200005,
-        "generationtime_ms": 0.5916357040405273,
+        "generationtime_ms": 0.5776882171630859,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -1910,14 +1910,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 28.8,
-            "relative_humidity_2m": 65,
+            "temperature_2m": 29.1,
+            "relative_humidity_2m": 63,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 12.7
+            "wind_speed_10m": 11.6
         },
         "daily_units": {
             "time": "iso8601",
@@ -1937,12 +1937,12 @@
                 "2026-07-14"
             ],
             "temperature_2m_max": [
-                29.1,
+                29.2,
                 29.7,
                 33.4,
                 32.4,
-                32.2,
-                33.9,
+                31.9,
+                33.2,
                 35.0
             ],
             "temperature_2m_min": [
@@ -1951,8 +1951,8 @@
                 26.0,
                 25.4,
                 25.1,
-                25.6,
-                27.6
+                24.9,
+                26.0
             ],
             "precipitation_sum": [
                 0.0,
@@ -1980,7 +1980,7 @@
     {
         "latitude": 43.58,
         "longitude": 7.129999,
-        "generationtime_ms": 1.0265111923217773,
+        "generationtime_ms": 1.0770559310913086,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -1996,9 +1996,9 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 29.2,
+            "temperature_2m": 29.5,
             "relative_humidity_2m": 62,
             "precipitation": 0.0,
             "rain": 0.0,
@@ -2023,12 +2023,12 @@
                 "2026-07-14"
             ],
             "temperature_2m_max": [
-                29.4,
+                29.5,
                 32.2,
                 30.9,
                 30.8,
-                32.0,
-                33.9,
+                31.2,
+                33.2,
                 35.0
             ],
             "temperature_2m_min": [
@@ -2037,8 +2037,8 @@
                 26.4,
                 25.8,
                 25.5,
-                25.6,
-                27.6
+                24.9,
+                26.0
             ],
             "precipitation_sum": [
                 0.0,
@@ -2066,7 +2066,7 @@
     {
         "latitude": 43.48,
         "longitude": -1.5600004,
-        "generationtime_ms": 0.5289316177368164,
+        "generationtime_ms": 0.8362531661987305,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -2082,14 +2082,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 25.3,
-            "relative_humidity_2m": 71,
+            "temperature_2m": 25.7,
+            "relative_humidity_2m": 69,
             "precipitation": 0.0,
             "rain": 0.0,
-            "weather_code": 2,
-            "wind_speed_10m": 12.4
+            "weather_code": 1,
+            "wind_speed_10m": 12.7
         },
         "daily_units": {
             "time": "iso8601",
@@ -2109,12 +2109,12 @@
                 "2026-07-14"
             ],
             "temperature_2m_max": [
-                25.4,
+                25.7,
                 25.8,
                 26.8,
                 34.8,
-                37.9,
-                26.6,
+                38.6,
+                25.9,
                 27.9
             ],
             "temperature_2m_min": [
@@ -2123,8 +2123,8 @@
                 22.6,
                 22.6,
                 23.0,
-                22.5,
-                22.1
+                22.6,
+                22.3
             ],
             "precipitation_sum": [
                 0.0,
@@ -2133,7 +2133,7 @@
                 0.0,
                 0.0,
                 0.3,
-                0.6
+                0.0
             ],
             "precipitation_probability_max": [
                 0,
@@ -2152,7 +2152,7 @@
     {
         "latitude": 46.16,
         "longitude": -1.1500006,
-        "generationtime_ms": 0.6805658340454102,
+        "generationtime_ms": 1.0533332824707031,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -2168,14 +2168,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 29.1,
-            "relative_humidity_2m": 59,
+            "temperature_2m": 29.7,
+            "relative_humidity_2m": 58,
             "precipitation": 0.0,
             "rain": 0.0,
-            "weather_code": 0,
-            "wind_speed_10m": 9.9
+            "weather_code": 1,
+            "wind_speed_10m": 9.2
         },
         "daily_units": {
             "time": "iso8601",
@@ -2195,12 +2195,12 @@
                 "2026-07-14"
             ],
             "temperature_2m_max": [
-                31.6,
+                32.2,
                 38.3,
                 37.4,
                 29.6,
-                38.5,
-                32.9,
+                37.5,
+                32.3,
                 25.8
             ],
             "temperature_2m_min": [
@@ -2209,8 +2209,8 @@
                 24.3,
                 23.1,
                 23.6,
-                23.0,
-                21.5
+                24.0,
+                22.0
             ],
             "precipitation_sum": [
                 0.0,
@@ -2218,8 +2218,8 @@
                 0.0,
                 0.0,
                 0.0,
-                0.6,
-                9.3
+                0.0,
+                4.5
             ],
             "precipitation_probability_max": [
                 0,
@@ -2238,7 +2238,7 @@
     {
         "latitude": 48.08,
         "longitude": 7.36,
-        "generationtime_ms": 0.2982616424560547,
+        "generationtime_ms": 0.18918514251708984,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -2254,14 +2254,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 30.3,
-            "relative_humidity_2m": 32,
+            "temperature_2m": 31.4,
+            "relative_humidity_2m": 30,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 3,
-            "wind_speed_10m": 8.7
+            "wind_speed_10m": 9.9
         },
         "daily_units": {
             "time": "iso8601",
@@ -2324,7 +2324,7 @@
     {
         "latitude": 43.489998,
         "longitude": -1.4700003,
-        "generationtime_ms": 0.9180307388305664,
+        "generationtime_ms": 0.7547140121459961,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -2340,14 +2340,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 27.2,
-            "relative_humidity_2m": 62,
+            "temperature_2m": 28.1,
+            "relative_humidity_2m": 59,
             "precipitation": 0.0,
             "rain": 0.0,
-            "weather_code": 2,
-            "wind_speed_10m": 12.2
+            "weather_code": 1,
+            "wind_speed_10m": 12.3
         },
         "daily_units": {
             "time": "iso8601",
@@ -2367,12 +2367,12 @@
                 "2026-07-14"
             ],
             "temperature_2m_max": [
-                28.3,
+                28.4,
                 32.0,
                 26.9,
                 34.8,
-                38.1,
-                26.8,
+                38.7,
+                26.1,
                 28.1
             ],
             "temperature_2m_min": [
@@ -2381,8 +2381,8 @@
                 22.7,
                 22.7,
                 23.1,
-                22.7,
-                22.2
+                22.8,
+                22.4
             ],
             "precipitation_sum": [
                 0.0,
@@ -2391,7 +2391,7 @@
                 0.0,
                 0.0,
                 0.3,
-                0.6
+                0.0
             ],
             "precipitation_probability_max": [
                 0,
@@ -2410,7 +2410,7 @@
     {
         "latitude": 42.69,
         "longitude": 2.8899994,
-        "generationtime_ms": 0.920414924621582,
+        "generationtime_ms": 0.6252527236938477,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -2426,14 +2426,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 40.2,
+            "temperature_2m": 40.9,
             "relative_humidity_2m": 9,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 20.2
+            "wind_speed_10m": 22.1
         },
         "daily_units": {
             "time": "iso8601",
@@ -2453,12 +2453,12 @@
                 "2026-07-14"
             ],
             "temperature_2m_max": [
-                40.8,
+                40.9,
                 39.1,
                 30.6,
                 29.6,
                 28.8,
-                32.4,
+                31.6,
                 28.5
             ],
             "temperature_2m_min": [
@@ -2467,8 +2467,8 @@
                 21.5,
                 21.5,
                 20.4,
-                21.8,
-                23.4
+                22.2,
+                23.7
             ],
             "precipitation_sum": [
                 0.0,
@@ -2496,7 +2496,7 @@
     {
         "latitude": 43.21,
         "longitude": 2.3499994,
-        "generationtime_ms": 0.4324913024902344,
+        "generationtime_ms": 1.0813474655151367,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -2512,14 +2512,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 34.7,
-            "relative_humidity_2m": 31,
+            "temperature_2m": 37.4,
+            "relative_humidity_2m": 19,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 27.7
+            "wind_speed_10m": 24.9
         },
         "daily_units": {
             "time": "iso8601",
@@ -2539,12 +2539,12 @@
                 "2026-07-14"
             ],
             "temperature_2m_max": [
-                39.2,
+                39.1,
                 40.5,
                 36.7,
                 36.9,
-                35.0,
-                33.7,
+                34.9,
+                32.9,
                 32.5
             ],
             "temperature_2m_min": [
@@ -2552,9 +2552,9 @@
                 24.8,
                 24.6,
                 24.3,
-                25.8,
-                23.5,
-                23.1
+                25.5,
+                22.9,
+                22.6
             ],
             "precipitation_sum": [
                 0.0,
@@ -2582,7 +2582,7 @@
     {
         "latitude": 43.68,
         "longitude": 4.6199994,
-        "generationtime_ms": 0.24044513702392578,
+        "generationtime_ms": 0.3077983856201172,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -2598,14 +2598,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 37.6,
+            "temperature_2m": 38.7,
             "relative_humidity_2m": 14,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 17.4
+            "wind_speed_10m": 19.6
         },
         "daily_units": {
             "time": "iso8601",
@@ -2668,7 +2668,7 @@
     {
         "latitude": 45.920002,
         "longitude": 6.86,
-        "generationtime_ms": 0.278472900390625,
+        "generationtime_ms": 0.37300586700439453,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -2684,9 +2684,9 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 26.6,
+            "temperature_2m": 27.3,
             "relative_humidity_2m": 25,
             "precipitation": 0.0,
             "rain": 0.0,
@@ -2754,7 +2754,7 @@
     {
         "latitude": 49.44,
         "longitude": 1.0999999,
-        "generationtime_ms": 0.5197525024414062,
+        "generationtime_ms": 0.2664327621459961,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -2770,14 +2770,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 30.4,
-            "relative_humidity_2m": 39,
+            "temperature_2m": 31.7,
+            "relative_humidity_2m": 37,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 5.2
+            "wind_speed_10m": 7.5
         },
         "daily_units": {
             "time": "iso8601",
@@ -2840,7 +2840,7 @@
     {
         "latitude": 47.4,
         "longitude": 0.6799998,
-        "generationtime_ms": 0.24974346160888672,
+        "generationtime_ms": 0.43022632598876953,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -2856,14 +2856,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 32.0,
-            "relative_humidity_2m": 21,
+            "temperature_2m": 33.9,
+            "relative_humidity_2m": 16,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 5.0
+            "wind_speed_10m": 7.9
         },
         "daily_units": {
             "time": "iso8601",
@@ -2926,7 +2926,7 @@
     {
         "latitude": 47.9,
         "longitude": 1.8999996,
-        "generationtime_ms": 0.30863285064697266,
+        "generationtime_ms": 0.29277801513671875,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -2942,14 +2942,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 30.4,
-            "relative_humidity_2m": 26,
+            "temperature_2m": 32.2,
+            "relative_humidity_2m": 25,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 5.3
+            "wind_speed_10m": 6.5
         },
         "daily_units": {
             "time": "iso8601",
@@ -3012,7 +3012,7 @@
     {
         "latitude": 48.7,
         "longitude": 6.18,
-        "generationtime_ms": 0.1964569091796875,
+        "generationtime_ms": 0.2034902572631836,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -3028,14 +3028,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 29.0,
-            "relative_humidity_2m": 37,
+            "temperature_2m": 30.2,
+            "relative_humidity_2m": 34,
             "precipitation": 0.0,
             "rain": 0.0,
-            "weather_code": 0,
-            "wind_speed_10m": 8.7
+            "weather_code": 2,
+            "wind_speed_10m": 12.5
         },
         "daily_units": {
             "time": "iso8601",
@@ -3098,7 +3098,7 @@
     {
         "latitude": 49.12,
         "longitude": 6.18,
-        "generationtime_ms": 0.3504753112792969,
+        "generationtime_ms": 0.7317066192626953,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -3114,14 +3114,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 28.6,
-            "relative_humidity_2m": 38,
+            "temperature_2m": 29.0,
+            "relative_humidity_2m": 39,
             "precipitation": 0.0,
             "rain": 0.0,
-            "weather_code": 3,
-            "wind_speed_10m": 11.0
+            "weather_code": 2,
+            "wind_speed_10m": 12.4
         },
         "daily_units": {
             "time": "iso8601",
@@ -3184,7 +3184,7 @@
     {
         "latitude": 47.24,
         "longitude": 6.02,
-        "generationtime_ms": 0.20229816436767578,
+        "generationtime_ms": 0.18417835235595703,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -3200,14 +3200,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 31.0,
-            "relative_humidity_2m": 26,
+            "temperature_2m": 32.3,
+            "relative_humidity_2m": 21,
             "precipitation": 0.0,
             "rain": 0.0,
-            "weather_code": 1,
-            "wind_speed_10m": 6.9
+            "weather_code": 0,
+            "wind_speed_10m": 9.2
         },
         "daily_units": {
             "time": "iso8601",
@@ -3270,7 +3270,7 @@
     {
         "latitude": 45.78,
         "longitude": 3.08,
-        "generationtime_ms": 0.3752708435058594,
+        "generationtime_ms": 0.2881288528442383,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -3286,14 +3286,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 33.6,
-            "relative_humidity_2m": 21,
+            "temperature_2m": 35.3,
+            "relative_humidity_2m": 14,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 1,
-            "wind_speed_10m": 6.8
+            "wind_speed_10m": 15.4
         },
         "daily_units": {
             "time": "iso8601",
@@ -3356,7 +3356,7 @@
     {
         "latitude": 48.65,
         "longitude": -2.0300007,
-        "generationtime_ms": 2.0172595977783203,
+        "generationtime_ms": 0.6651878356933594,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -3372,14 +3372,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 21.1,
-            "relative_humidity_2m": 82,
+            "temperature_2m": 21.0,
+            "relative_humidity_2m": 83,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 11.3
+            "wind_speed_10m": 11.4
         },
         "daily_units": {
             "time": "iso8601",
@@ -3399,12 +3399,12 @@
                 "2026-07-14"
             ],
             "temperature_2m_max": [
-                21.4,
+                21.5,
                 25.5,
                 33.0,
                 32.5,
-                26.7,
-                30.6,
+                26.3,
+                28.4,
                 26.1
             ],
             "temperature_2m_min": [
@@ -3413,7 +3413,7 @@
                 21.4,
                 22.1,
                 21.3,
-                25.5,
+                24.3,
                 21.6
             ],
             "precipitation_sum": [
@@ -3423,7 +3423,7 @@
                 0.0,
                 0.0,
                 0.0,
-                0.6
+                0.0
             ],
             "precipitation_probability_max": [
                 0,
@@ -3442,7 +3442,7 @@
     {
         "latitude": 43.1,
         "longitude": -0.05000019,
-        "generationtime_ms": 0.9421110153198242,
+        "generationtime_ms": 0.45096874237060547,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -3458,14 +3458,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 29.0,
-            "relative_humidity_2m": 56,
+            "temperature_2m": 30.7,
+            "relative_humidity_2m": 48,
             "precipitation": 0.0,
             "rain": 0.0,
-            "weather_code": 0,
-            "wind_speed_10m": 8.6
+            "weather_code": 2,
+            "wind_speed_10m": 5.7
         },
         "daily_units": {
             "time": "iso8601",
@@ -3485,12 +3485,12 @@
                 "2026-07-14"
             ],
             "temperature_2m_max": [
-                34.2,
+                34.0,
                 37.6,
                 32.6,
                 35.2,
-                37.0,
-                33.0,
+                36.9,
+                31.3,
                 29.9
             ],
             "temperature_2m_min": [
@@ -3499,8 +3499,8 @@
                 20.4,
                 21.4,
                 26.9,
-                20.1,
-                17.6
+                21.2,
+                18.7
             ],
             "precipitation_sum": [
                 0.0,
@@ -3528,7 +3528,7 @@
     {
         "latitude": 49.42,
         "longitude": 0.23999977,
-        "generationtime_ms": 0.48160552978515625,
+        "generationtime_ms": 0.2434253692626953,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -3544,14 +3544,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 23.9,
-            "relative_humidity_2m": 61,
+            "temperature_2m": 24.9,
+            "relative_humidity_2m": 56,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 8.8
+            "wind_speed_10m": 10.1
         },
         "daily_units": {
             "time": "iso8601",
@@ -3614,7 +3614,7 @@
     {
         "latitude": 49.36,
         "longitude": 0.07999992,
-        "generationtime_ms": 0.20682811737060547,
+        "generationtime_ms": 0.19299983978271484,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -3630,14 +3630,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 24.9,
-            "relative_humidity_2m": 55,
+            "temperature_2m": 25.5,
+            "relative_humidity_2m": 56,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 11.5
+            "wind_speed_10m": 11.9
         },
         "daily_units": {
             "time": "iso8601",
@@ -3700,7 +3700,7 @@
     {
         "latitude": 47.58,
         "longitude": 1.3399997,
-        "generationtime_ms": 0.6537437438964844,
+        "generationtime_ms": 0.3180503845214844,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -3716,14 +3716,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 32.5,
-            "relative_humidity_2m": 22,
+            "temperature_2m": 34.4,
+            "relative_humidity_2m": 19,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 6.0
+            "wind_speed_10m": 8.2
         },
         "daily_units": {
             "time": "iso8601",
@@ -3786,7 +3786,7 @@
     {
         "latitude": 47.42,
         "longitude": 0.98,
-        "generationtime_ms": 0.19657611846923828,
+        "generationtime_ms": 0.48732757568359375,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -3802,14 +3802,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 33.2,
-            "relative_humidity_2m": 19,
+            "temperature_2m": 34.9,
+            "relative_humidity_2m": 17,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 6.6
+            "wind_speed_10m": 10.2
         },
         "daily_units": {
             "time": "iso8601",
@@ -3872,7 +3872,7 @@
     {
         "latitude": 44.88,
         "longitude": 1.2199998,
-        "generationtime_ms": 0.7703304290771484,
+        "generationtime_ms": 0.38433074951171875,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -3888,14 +3888,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 30.9,
-            "relative_humidity_2m": 52,
+            "temperature_2m": 34.0,
+            "relative_humidity_2m": 38,
             "precipitation": 0.0,
             "rain": 0.0,
-            "weather_code": 0,
-            "wind_speed_10m": 7.1
+            "weather_code": 1,
+            "wind_speed_10m": 9.2
         },
         "daily_units": {
             "time": "iso8601",
@@ -3958,7 +3958,7 @@
     {
         "latitude": 49.04,
         "longitude": 3.9599996,
-        "generationtime_ms": 0.23806095123291016,
+        "generationtime_ms": 0.25093555450439453,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -3974,14 +3974,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 30.6,
-            "relative_humidity_2m": 32,
+            "temperature_2m": 31.6,
+            "relative_humidity_2m": 30,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 11.3
+            "wind_speed_10m": 13.2
         },
         "daily_units": {
             "time": "iso8601",
@@ -4044,7 +4044,7 @@
     {
         "latitude": 43.78,
         "longitude": 7.4999995,
-        "generationtime_ms": 0.3846883773803711,
+        "generationtime_ms": 0.23615360260009766,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -4060,14 +4060,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 27.0,
-            "relative_humidity_2m": 73,
+            "temperature_2m": 27.3,
+            "relative_humidity_2m": 72,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 1,
-            "wind_speed_10m": 6.9
+            "wind_speed_10m": 5.8
         },
         "daily_units": {
             "time": "iso8601",
@@ -4130,7 +4130,7 @@
     {
         "latitude": 43.27,
         "longitude": 6.6399994,
-        "generationtime_ms": 0.5114078521728516,
+        "generationtime_ms": 0.5973577499389648,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -4146,14 +4146,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 28.8,
-            "relative_humidity_2m": 65,
+            "temperature_2m": 29.3,
+            "relative_humidity_2m": 62,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 15.8
+            "wind_speed_10m": 15.9
         },
         "daily_units": {
             "time": "iso8601",
@@ -4173,12 +4173,12 @@
                 "2026-07-14"
             ],
             "temperature_2m_max": [
-                29.2,
+                29.3,
                 29.1,
                 31.1,
                 30.8,
-                31.2,
-                33.4,
+                30.6,
+                32.4,
                 33.1
             ],
             "temperature_2m_min": [
@@ -4186,9 +4186,9 @@
                 24.6,
                 24.8,
                 25.5,
-                25.5,
-                22.4,
-                24.1
+                25.2,
+                22.0,
+                22.5
             ],
             "precipitation_sum": [
                 0.0,
@@ -4216,7 +4216,7 @@
     {
         "latitude": 41.9375,
         "longitude": 8.75,
-        "generationtime_ms": 0.1996755599975586,
+        "generationtime_ms": 0.33462047576904297,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -4232,14 +4232,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 29.0,
-            "relative_humidity_2m": 60,
+            "temperature_2m": 29.4,
+            "relative_humidity_2m": 54,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 11.4
+            "wind_speed_10m": 12.2
         },
         "daily_units": {
             "time": "iso8601",
@@ -4259,8 +4259,8 @@
                 "2026-07-14"
             ],
             "temperature_2m_max": [
-                29.6,
-                32.5,
+                29.5,
+                32.4,
                 32.4,
                 34.1,
                 31.8,
@@ -4302,7 +4302,7 @@
     {
         "latitude": 42.625,
         "longitude": 9.4375,
-        "generationtime_ms": 0.8016824722290039,
+        "generationtime_ms": 0.596165657043457,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -4318,14 +4318,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 28.9,
-            "relative_humidity_2m": 66,
+            "temperature_2m": 29.2,
+            "relative_humidity_2m": 63,
             "precipitation": 0.0,
             "rain": 0.0,
-            "weather_code": 2,
-            "wind_speed_10m": 10.9
+            "weather_code": 1,
+            "wind_speed_10m": 10.5
         },
         "daily_units": {
             "time": "iso8601",
@@ -4345,8 +4345,8 @@
                 "2026-07-14"
             ],
             "temperature_2m_max": [
-                29.4,
-                30.4,
+                29.3,
+                30.0,
                 29.7,
                 29.7,
                 30.6,
@@ -4355,7 +4355,7 @@
             ],
             "temperature_2m_min": [
                 22.9,
-                23.3,
+                23.1,
                 23.8,
                 23.6,
                 24.3,
@@ -4388,7 +4388,7 @@
     {
         "latitude": 48.64,
         "longitude": -1.5100002,
-        "generationtime_ms": 1.4170408248901367,
+        "generationtime_ms": 0.5049705505371094,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -4404,14 +4404,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 20.6,
-            "relative_humidity_2m": 89,
+            "temperature_2m": 21.2,
+            "relative_humidity_2m": 81,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 19.3
+            "wind_speed_10m": 21.2
         },
         "daily_units": {
             "time": "iso8601",
@@ -4435,9 +4435,9 @@
                 28.8,
                 34.7,
                 36.7,
-                36.0,
-                37.2,
-                27.7
+                34.4,
+                36.7,
+                27.1
             ],
             "temperature_2m_min": [
                 15.1,
@@ -4445,7 +4445,7 @@
                 23.6,
                 24.3,
                 24.6,
-                26.6,
+                25.4,
                 22.1
             ],
             "precipitation_sum": [
@@ -4455,7 +4455,7 @@
                 0.0,
                 0.0,
                 0.0,
-                8.4
+                0.6
             ],
             "precipitation_probability_max": [
                 0,
@@ -4474,7 +4474,7 @@
     {
         "latitude": 48.8,
         "longitude": 2.12,
-        "generationtime_ms": 0.26988983154296875,
+        "generationtime_ms": 0.8057355880737305,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -4490,14 +4490,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 30.2,
-            "relative_humidity_2m": 32,
+            "temperature_2m": 31.4,
+            "relative_humidity_2m": 29,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 6.2
+            "wind_speed_10m": 9.0
         },
         "daily_units": {
             "time": "iso8601",
@@ -4560,7 +4560,7 @@
     {
         "latitude": 49.42,
         "longitude": 0.23999977,
-        "generationtime_ms": 0.2315044403076172,
+        "generationtime_ms": 0.2828836441040039,
         "utc_offset_seconds": 7200,
         "timezone": "Europe/Paris",
         "timezone_abbreviation": "GMT+2",
@@ -4576,14 +4576,14 @@
             "wind_speed_10m": "km/h"
         },
         "current": {
-            "time": "2026-07-08T13:15",
+            "time": "2026-07-08T14:30",
             "interval": 900,
-            "temperature_2m": 23.9,
-            "relative_humidity_2m": 61,
+            "temperature_2m": 24.9,
+            "relative_humidity_2m": 56,
             "precipitation": 0.0,
             "rain": 0.0,
             "weather_code": 0,
-            "wind_speed_10m": 8.8
+            "wind_speed_10m": 10.1
         },
         "daily_units": {
             "time": "iso8601",
