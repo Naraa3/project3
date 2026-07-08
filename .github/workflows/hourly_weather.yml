@@ -23,7 +23,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install pandas sqlalchemy pg8000 requests psycopg2-binary
+          pip install pandas sqlalchemy pg8000 requests psycopg2-binary dotenv
 
       - name: Run weather ETL
         run: |
