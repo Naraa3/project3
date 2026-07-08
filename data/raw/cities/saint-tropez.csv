@@ -1,0 +1,62 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+388267668,node,Les Salins,restaurant,Saint-Tropez,"340 Route des Salins, 83990",83990,https://lessalins.com/,43.2563976,6.6904665
+701236215,node,Crêperie Bretonne,restaurant,Saint-Tropez,,,,43.2733925,6.6390411
+1291363086,node,Lou Riou,hotel,Saint-Tropez,,,,43.2618822,6.6858078
+1343795011,node,Plage des Graniers,restaurant,Saint-Tropez,,,,43.2706729,6.6478429
+1350718013,node,Le Byblos,hotel,Saint-Tropez,,,https://www.byblos.com/,43.2704133,6.6437502
+2389843622,node,Le Gorille,restaurant,Saint-Tropez,,,,43.2720145,6.6393495
+2389868583,node,Hôtel de la Ponche,hotel,Saint-Tropez,"5 Rue des Remparts, 83990, Saint Tropez",83990,http://laponche.com,43.2730799,6.6408761
+2389868584,node,Bòu,restaurant,Saint-Tropez,"26 Quai Frédéric Mistral, 83990, Saint Tropez",83990,http://bou-restaurant.com,43.2737718,6.6389189
+3129813780,node,À L'amitié,restaurant,Saint-Tropez,"17 Rue de la Ponche, 83990",83990,,43.2733223,6.6405953
+3129819024,node,Le Schpountz,restaurant,Saint-Tropez,1,,,43.2720051,6.6412812
+3740112650,node,L’Opéra,restaurant,Saint-Tropez,"Résidence du Port, 83990",83990,,43.2715538,6.6370794
+4256559689,node,Château de la Messardière,hotel,Saint-Tropez,83990,83990,,43.2540029,6.657822
+4256563089,node,Cheval Blanc,hotel,Saint-Tropez,,,https://www.chevalblanc.com/fr/maison/st-tropez/,43.266483,6.6265656
+4444758579,node,Le Bailli,restaurant,Saint-Tropez,,,,43.2720019,6.6392527
+4965927073,node,,restaurant,Saint-Tropez,"17 Quai Frédéric Mistral, 83990, Saint-Tropez",83990,,43.273448,6.6390266
+4965937526,node,L'Escale,restaurant,Saint-Tropez,"9 Quai Jean Jaurès, 83990, Saint-Tropez",83990,https://escale-st-tropez.com/,43.2728092,6.6389735
+4965949176,node,Le Quai,restaurant,Saint-Tropez,"22 Quai Jean Jaurès, 83990, Saint-Tropez",83990,http://www.lequaisaint-tropez.com/fr/,43.2724122,6.6391008
+4965953793,node,Le Girelier,restaurant,Saint-Tropez,"Quai Jean Jaurès, 83990, Saint-Tropez",83990,https://www.legirelier.fr/fr,43.272517,6.6390651
+4965958975,node,Marcellino,restaurant,Saint-Tropez,"19 Quai Jean Jaurès, 83990, Saint-Tropez",83990,,43.2726235,6.6390353
+5649006364,node,Pizzeria Bruno,restaurant,Saint-Tropez,,,,43.2727844,6.6395639
+5701362922,node,"El Mad Bar, Vins, Tapas",restaurant,Saint-Tropez,,,,43.2697012,6.6387368
+5701368121,node,Le Bikini,restaurant,Saint-Tropez,,,,43.2610037,6.6299867
+5774329647,node,Le Café,restaurant,Saint-Tropez,,,,43.2697752,6.6416497
+6237755588,node,GAÏO,restaurant,Saint-Tropez,"4 Rue du 11 Novembre 1918, 83990",83990,,43.2714159,6.6369051
+6535519285,node,Le Sporting,restaurant,Saint-Tropez,Saint-Tropez,,,43.2699868,6.6401963
+6564915365,node,Au Caprice des Deux,restaurant,Saint-Tropez,40 Rue du Portail Neuf,,,43.2716205,6.6408151
+6564915366,node,Bistro Pastis,restaurant,Saint-Tropez,18 Rue Henri Seillon,,,43.2703748,6.6365679
+6815816206,node,La Petite Plage,restaurant,Saint-Tropez,9 Quai Jean Jaurès,,https://www.lapetiteplage-saint-tropez.com/,43.2729301,6.6388538
+7254848021,node,Le Mandala,hotel,Saint-Tropez,,,,43.268291,6.6466713
+7254874996,node,Rivéa,restaurant,Saint-Tropez,,,,43.2698045,6.6431678
+7254875002,node,Café des Arts,restaurant,Saint-Tropez,,,,43.2699784,6.6420486
+7254883203,node,B&B Italia,hotel,Saint-Tropez,,,,43.2691382,6.6442657
+8069687763,node,Hôtel de Paris,hotel,Saint-Tropez,,,https://hoteldeparis-sainttropez.com,43.2696662,6.6359514
+8069687764,node,Le Pationata,restaurant,Saint-Tropez,,,,43.270089,6.6356336
+9065273367,node,Gandhi,restaurant,Saint-Tropez,3 Allée du Quai de l’Epi,,,43.2715032,6.6355091
+9065273538,node,Pearl Beach,restaurant,Saint-Tropez,,,,43.2666601,6.6254858
+9091348617,node,Saint-Tropez,restaurant,Saint-Tropez,"20 Rue Étienne Berny, 83990",83990,https://www.casacrilamaisondesjumeaux.com/fr/,43.2702433,6.6391053
+11090096005,node,Clandestino Saint Tropez,restaurant,Saint-Tropez,"15 Rue de la Citadelle, 83990",83990,,43.2722034,6.6408176
+11231198462,node,Salama,restaurant,Saint-Tropez,1 Chemin des Conquettes,,https://www.salama-saint-tropez.com/,43.2674635,6.6391823
+12126371215,node,La Table de La Messardière,restaurant,Saint-Tropez,,,https://airelles.com/fr/destination/chateau-de-la-messardiere-hotel/restaurants/la-table-saint-tropez-restaurant,43.2536162,6.6586887
+12143045502,node,"La PeSQuière, Le Mazagran et Lou Revelen",restaurant,Saint-Tropez,Place du Revelin,,https://www.lapesquiere.fr/,43.2733271,6.6408603
+12194433941,node,,restaurant,Saint-Tropez,,,,43.272963,6.6388704
+12194449141,node,,restaurant,Saint-Tropez,,,,43.2732327,6.6407207
+12194460532,node,,restaurant,Saint-Tropez,,,,43.2731673,6.6407525
+12200925786,node,Louis Vitton,restaurant,Saint-Tropez,,,,43.2703147,6.6410484
+12330729526,node,,restaurant,Saint-Tropez,,,,43.27106,6.6368337
+12330730341,node,La Perla d'Asie,restaurant,Saint-Tropez,,,,43.2674192,6.6304627
+12330740008,node,,hotel,Saint-Tropez,,,,43.2667605,6.6289757
+12330748666,node,,restaurant,Saint-Tropez,,,,43.2711615,6.6368423
+12330962247,node,,hotel,Saint-Tropez,,,,43.2722015,6.6415108
+12330964825,node,,restaurant,Saint-Tropez,,,,43.2729817,6.639386
+12331080076,node,,hotel,Saint-Tropez,,,,43.2670026,6.6296443
+12331081603,node,,restaurant,Saint-Tropez,,,,43.2650071,6.6251321
+12331194887,node,,restaurant,Saint-Tropez,,,,43.2681725,6.6304812
+12390992902,node,Hotel des Lices,hotel,Saint-Tropez,"10 Avenue Augustin Grangeon, 83990",83990,,43.2686026,6.640606
+12655880975,node,Matsuhisa,restaurant,Saint-Tropez,,,https://airelles.com/fr/destination/chateau-de-la-messardiere-hotel/restaurants/matsuhisa-saint-tropez-restaurant,43.2534753,6.6583845
+12655880976,node,Palladio,restaurant,Saint-Tropez,,,https://airelles.com/fr/destination/chateau-de-la-messardiere-hotel/restaurants/airelles-restaurant-palladio,43.2537636,6.658399
+12655881053,node,La Table du Chef,restaurant,Saint-Tropez,,,https://airelles.com/fr/destination/chateau-de-la-messardiere-hotel/restaurants/le-jardin-du-chef,43.2535408,6.6589199
+12992303404,node,Aux Deux Frères,restaurant,Saint-Tropez,,,,43.2724876,6.6398081
+13730614605,node,Le Clemenceau,restaurant,Saint-Tropez,,,,43.2700208,6.6402735
+13825426801,node,FATTO BENE SAINT TROPEZ,restaurant,Saint-Tropez,"46 Avenue du Général Leclerc, 83990",83990,http://fattobenepizza.wixsite.com,43.2678892,6.6317294

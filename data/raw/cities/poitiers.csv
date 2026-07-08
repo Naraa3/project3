@@ -1,0 +1,216 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+250381542,node,,restaurant,Poitiers,,,,46.6441884,0.7566111
+491571441,node,Maurice,restaurant,Poitiers,Rue Carnot,,,46.5791526,0.3385164
+491571451,node,La fabrique à pâtes,restaurant,Poitiers,,,,46.5794649,0.3392916
+491571454,node,Le Bureau,restaurant,Poitiers,,,,46.5792361,0.3393268
+491941533,node,Rouge Basilic,restaurant,Poitiers,10 Rue de Magenta,,,46.579616,0.339951
+522090159,node,Memphis,restaurant,Poitiers,,,,46.5748421,0.3721769
+527335861,node,Holly's Diner,restaurant,Poitiers,"258 Avenue du 8 Mai 1945, 86000, Poitiers",86000,,46.548244,0.2988569
+530784438,node,Wok,restaurant,Poitiers,,,,46.5507628,0.2988519
+534218417,node,Le plat d'Argent,hotel,Poitiers,,,,46.5809293,0.3400086
+658725376,node,La Serrurerie,restaurant,Poitiers,,,https://www.laserrurerie.com/,46.580753,0.3406312
+830673203,node,Miam !,restaurant,Poitiers,,,,46.6710773,0.3706586
+830673204,node,L'Atelier des Saveurs,restaurant,Poitiers,,,,46.6711312,0.3704384
+830673205,node,La Crêpe Volante,restaurant,Poitiers,,,,46.670256,0.3701546
+830673207,node,Le Quai Gourmand,restaurant,Poitiers,,,,46.6691647,0.3663924
+835721352,node,Hôtel Central,hotel,Poitiers,,,,46.579918,0.3399745
+835721655,node,Saveurs d'Asie,restaurant,Poitiers,37 Place du Maréchal Leclerc,,,46.579948,0.339774
+1046255538,node,La Boucherie,restaurant,Poitiers,,,,46.6492558,0.363992
+1048737198,node,Quality Hotel Alisée Poitiers Nord,hotel,Poitiers,"14 Rue du Commerce, 86360, Chasseneuil-du-Poitou",86360,www.hotelalisee.fr,46.6490423,0.3649201
+1097753765,node,ibis Styles Poitiers Nord,hotel,Poitiers,215 Avenue de Paris,,,46.614828,0.3482692
+1097754317,node,Le Patio,restaurant,Poitiers,,,,46.614629,0.3483228
+1297400357,node,Taxi Brousse,restaurant,Poitiers,,,,46.5769648,0.3447751
+1297400383,node,Chez Mémé Guiguite,restaurant,Poitiers,,,,46.5832959,0.3427292
+1304068428,node,RU Cafétéria Thémis,restaurant,Poitiers,,,,46.571146,0.3802897
+1304068444,node,RU Cafétéria des Lettre,restaurant,Poitiers,,,,46.5701592,0.3819158
+1314573797,node,Brasserie les Deux Palais,restaurant,Poitiers,2 Route de Poitiers,,,46.4770598,0.522135
+1314573815,node,Chez Jean Mi,restaurant,Poitiers,,,,46.5429421,0.4151322
+1323914365,node,Wasabi,restaurant,Poitiers,,,,46.5808116,0.3410868
+1334366567,node,"Le Carré des Officiers, Bar – Brasserie – Pizzas",restaurant,Poitiers,,,http://www.lecarre-des-officiers-restaurant-pizzeria-86.com/,46.5985143,0.3221845
+1387955243,node,Le Pince Oreille,restaurant,Poitiers,,,https://www.lepinceoreille.fr/,46.5879912,0.3414046
+1392914256,node,The Garden,restaurant,Poitiers,,,,46.5807385,0.3374582
+1395865775,node,La tab' des vins,restaurant,Poitiers,2 Rue de Mauroc,,,46.549869,0.3421847
+1400071709,node,Baïla pizza,restaurant,Poitiers,"13 Pont Saint-Cyprien, 86000",86000,https://www.bailapizza.fr/,46.5757362,0.3459032
+1491665040,node,Levant,restaurant,Poitiers,,,,46.5813147,0.3334485
+1491791495,node,Les 3 Boulevards,restaurant,Poitiers,,,,46.5816746,0.333687
+1575982389,node,Le Montagnard,restaurant,Poitiers,1 Rue de la Celle,,,46.5790469,0.3442204
+1588412280,node,Astral,hotel,Poitiers,,,http://www.hotel-astral.com/,46.5818926,0.3340987
+1588412282,node,Hôtel Astral,restaurant,Poitiers,,,http://www.hotel-astral.com/,46.5819136,0.3340234
+1588412284,node,Hôtel Le Régina,restaurant,Poitiers,,,http://hotel-restaurant-etape.le-regina.com/,46.5820168,0.3340413
+1588412286,node,Le Rooftop,restaurant,Poitiers,,,,46.5839121,0.337585
+1588412287,node,Le Printania,restaurant,Poitiers,,,,46.582103,0.3341239
+1588412290,node,Le Régina,hotel,Poitiers,,,http://hotel-restaurant-etape.le-regina.com/,46.5819943,0.3340963
+1596671138,node,Le Trait d'Union,restaurant,Poitiers,,,,46.587148,0.3527467
+1596671140,node,Le Moulin de La Glacière,restaurant,Poitiers,,,,46.5873256,0.3519843
+1700016289,node,Le Montmidi,restaurant,Poitiers,,,,46.5780755,0.3190181
+1716181346,node,Diwan,restaurant,Poitiers,Rue Carnot,,,46.5789405,0.338464
+1716234668,node,RU Roche D'Argent,restaurant,Poitiers,,,,46.5787246,0.3485538
+1724247331,node,Notre Dame de pique,restaurant,Poitiers,185 Grand Rue,,,46.5826862,0.34516
+1808815838,node,K resto,restaurant,Poitiers,,,,46.5721975,0.3681308
+1853961820,node,Aux Quatr' Épices,restaurant,Poitiers,,,,46.5655604,0.3414911
+1853961828,node,Le Lonjoie,restaurant,Poitiers,4 Chemin des Lonjoies,,,46.5630043,0.3511588
+1860843776,node,Les Archives,restaurant,Poitiers,14 Rue Edouard Grimaud,,,46.5828549,0.3399655
+1917431966,node,Manhattan Café,restaurant,Poitiers,26 Place Alphonse Lepetit,,,46.5831099,0.3413783
+1917431977,node,L'Istanbul,restaurant,Poitiers,14 Place Charles de Gaulle,,,46.5833469,0.3451414
+1917431978,node,La Vingélique,restaurant,Poitiers,37 Rue Carnot,,https://le-vingelique-poitiers.eatbu.com/,46.5785823,0.3383296
+1917432082,node,Ibis Hôtel Poitiers Centre,hotel,Poitiers,,,,46.5783934,0.3388373
+1930989107,node,Ithri,restaurant,Poitiers,,,,46.574691,0.3787689
+1930989110,node,Relais de Provence,restaurant,Poitiers,,,,46.5659054,0.358863
+1930989111,node,Petit Panda,restaurant,Poitiers,31 Rue du Panier Vert,,,46.5636269,0.3554004
+2002486549,node,Lee & Co Food,restaurant,Poitiers,,,,46.5858714,0.3655301
+2142685863,node,Ibis Budget,hotel,Poitiers,,,,46.5505609,0.3039759
+2166689409,node,Le Centre Poitou - Restaurant,restaurant,Poitiers,39 Route Nationale,,,46.4850638,0.1849817
+2166715149,node,Le Palais - Bar Restaurant,restaurant,Poitiers,"49 Route Nationale, 86600",86600,,46.4854008,0.1854793
+2234831117,node,Restaurants & Bars Le Mythic,restaurant,Poitiers,4 Place de l'Église,,,46.5163855,0.5637269
+2253185574,node,La Forestine,restaurant,Poitiers,,,,46.5678134,0.6210217
+2253208219,node,,restaurant,Poitiers,,,,46.5235927,0.5590171
+2258407969,node,Le Continental,hotel,Poitiers,,,https://www.continental-poitiers.com/index.php,46.5816012,0.3340558
+2258467142,node,Le Terminus,hotel,Poitiers,,,http://www.hotel-leterminus.com/pages/chambre.php,46.581567,0.333644
+2296297132,node,Château du Clos de la Ribaudière,restaurant,Poitiers,,,,46.6509584,0.376668
+2296297133,node,Château du Clos de la Ribaudière,hotel,Poitiers,,,,46.6510469,0.3767588
+2327721627,node,Hôtel F1,hotel,Poitiers,18 Rue du Commerce,,,46.6498707,0.364995
+2378974572,node,Pizza du Square,restaurant,Poitiers,,,,46.5692031,0.6446823
+2399490959,node,Ibis Styles Poitiers Centre,hotel,Poitiers,"7 Rue Victor Hugo, Poitiers",,,46.5806417,0.3381292
+2412887595,node,La Patate et le Sarazin,restaurant,Poitiers,72 Avenue de Bordeaux,,,46.6735055,0.3757933
+2461311430,node,La Cour des Bouffons,restaurant,Poitiers,,,,46.5850152,0.3458195
+2485267357,node,Les cours du Clain,hotel,Poitiers,"117 Chemin de la Grotte à Calvin, Poitiers",,,46.5624365,0.3227762
+2549772529,node,Auberge Vindobriga,restaurant,Poitiers,"20 Place Raoul Peret, Vendeuvre-du-Poitou",,,46.7351685,0.3105936
+2581257128,node,Gourmandizz Pizza,restaurant,Poitiers,11 Rue Léopold Sedar Senghor,,https://www.gourmandizz-pizza.fr,46.5788341,0.3202939
+2785298645,node,Figuig,restaurant,Poitiers,177 Rue du Faubourg du Pont Neuf,,,46.5727086,0.3591998
+3123414922,node,Le Saoufé,restaurant,Poitiers,,,,46.5704051,0.3601639
+3177940319,node,Le Saint-Valentin,restaurant,Poitiers,11 Place du Puits,,,46.4207437,0.0407781
+3460437987,node,Château de Périgny,hotel,Poitiers,,,https://www.chateau-perigny.com/,46.6351572,0.1965331
+3460437991,node,,restaurant,Poitiers,,,,46.6352261,0.1964927
+3474705394,node,Kyriad,hotel,Poitiers,,,,46.6640939,0.3719826
+3647313400,node,Yakido,restaurant,Poitiers,,,,46.573903,0.3295655
+3670090527,node,Bar Snack,restaurant,Poitiers,,,,46.72079,0.4586177
+3764314863,node,Le Chapeau Rouge,hotel,Poitiers,1 Rue de Chypre,,,46.4326759,0.1187967
+3764314864,node,Le Bistroquet,hotel,Poitiers,34 Avenue de Poitiers,,,46.4387563,0.1306952
+3764314865,node,Le Bistroquet,restaurant,Poitiers,,,,46.4388085,0.1307354
+3822792979,node,Tennis,restaurant,Poitiers,,,https://www.stadepoitevintennis.fr/index.php/20-les-breves/histoire-du-club/bar-restauration,46.568988,0.375886
+4145418842,node,Chez Simon,restaurant,Poitiers,,,,46.5835418,0.3419928
+4145418843,node,Chez Jean Michel,restaurant,Poitiers,13 Rue de Magenta,,,46.5790423,0.3400069
+4233573176,node,,hotel,Poitiers,,,,46.5175586,0.3300189
+4696152379,node,Première Classe,hotel,Poitiers,9 Allée de la Détente,,,46.6578802,0.3684335
+4893724234,node,Le Pourquoi Pas,restaurant,Poitiers,"7 Avenue de Saumur, 86170, Neuville de Poitou",86170,,46.6845836,0.26289
+5114919982,node,Sweet Time & Company,restaurant,Poitiers,,,,46.5824547,0.3438321
+5436022071,node,Chez Ngim,restaurant,Poitiers,,,,46.597829,0.3247225
+5532151989,node,,restaurant,Poitiers,,,,46.5620948,0.0505809
+5541161791,node,,restaurant,Poitiers,,,,46.5261477,0.2791954
+5630902151,node,Au Feu de Bois,restaurant,Poitiers,,,,46.7922555,0.1853782
+5717132621,node,Auberge du Château,restaurant,Poitiers,"28 Place Pierre d'Amboise, 86130, Dissay",86130,,46.6987798,0.4287116
+5801223153,node,Oki,restaurant,Poitiers,Rue Carnot,,,46.578831,0.3387539
+5835456950,node,La Petite Roquette,restaurant,Poitiers,21 Place Charles de Gaulle,,,46.5829678,0.3438072
+5874121231,node,Baïla Pizza,restaurant,Poitiers,22 Route de Parthenay,,,46.5986539,0.3246181
+5903853132,node,Château de Dissay Restaurant,restaurant,Poitiers,"111 Place Pierre d'Amboise, 86130, Dissay",86130,https://chateaudedissay.com/,46.6998421,0.4285183
+5903853134,node,Château de Dissay Hôtel,hotel,Poitiers,"111 Place Pierre d'Amboise, 86130, Dissay",86130,https://chateaudedissay.com/,46.6995829,0.4282658
+5906209084,node,Chez Stef,restaurant,Poitiers,"1 Allée des Érables, 86130, Dissay",86130,,46.7044739,0.4051787
+5906716286,node,Le Chalet Fleuri,hotel,Poitiers,"31 Avenue Aristide Briand, 86300",86300,,46.5668684,0.6400531
+6032291687,node,Brasserie du palais,restaurant,Poitiers,,,,46.5830926,0.3412834
+6049799485,node,Le Ravaillac's,restaurant,Poitiers,,,,46.4265265,0.2612044
+6154432204,node,Chapon Fin,hotel,Poitiers,Rue Lebascles,,,46.5798225,0.3407607
+6318225152,node,Ô poirion,restaurant,Poitiers,,,,46.3593924,0.0557329
+6318360195,node,Happy'z,restaurant,Poitiers,"258 Avenue du 8 Mai 1945, 86000, Poitiers",86000,,46.5483995,0.299131
+6587828989,node,Sushi Kyo,restaurant,Poitiers,,,,46.5742155,0.3742623
+6718286385,node,Le Comptoir à Moustaches,restaurant,Poitiers,Rue Carnot,,,46.5789874,0.3389862
+7143554129,node,Gare aux papilles,restaurant,Poitiers,"4 Boulevard des Frères Lumière, 86360, Chasseneuil-du-Poitou",86360,,46.6617722,0.3602238
+7143554130,node,Chill n' Burger,restaurant,Poitiers,"4 Boulevard des Frères Lumière, 86360, Chasseneuil-du-Poitou",86360,,46.6617124,0.3603217
+7175718299,node,Le Lion d'Or,hotel,Poitiers,8 Rue du Marché,,,46.5689639,0.6459054
+7176691352,node,Les Choucas,restaurant,Poitiers,21 Rue des Puys,,,46.5711107,0.6484696
+7176691360,node,La Belle Époque,restaurant,Poitiers,1 Rue Saint Pierre,,,46.5696798,0.6487191
+7185464160,node,A Casa,restaurant,Poitiers,"14 Place Charles VII, 86000, Poitiers",86000,,46.5844741,0.3422365
+7185464169,node,Tacos & Co,restaurant,Poitiers,,,,46.580341,0.3390359
+7265567231,node,Courtepaille,restaurant,Poitiers,,,,46.7018122,0.371545
+7494688800,node,Les 4 grillades,restaurant,Poitiers,"4 Allée de la Régie, 86580, vouneuil sous biard",86580,,46.5633247,0.2991729
+7613395367,node,L'Escale,restaurant,Poitiers,105 Rue de la Bugellerie,,,46.6023956,0.3270513
+7613445601,node,Le Tajine,restaurant,Poitiers,,,,46.6017816,0.3256914
+7613515480,node,Le Mandé Massa,restaurant,Poitiers,,,,46.6017291,0.3266542
+7616722039,node,Hôtel Restaurant du Cheval Blanc,hotel,Poitiers,3 Rue de la Barre,,https://cheval-blanc-clovis.fr/fr,46.6396153,0.1653127
+7616722040,node,Les Wisigoths,restaurant,Poitiers,16 Rue Gambetta,,,46.640861,0.166459
+7668784606,node,Délices Sénégalaises,restaurant,Poitiers,,,,46.5890212,0.3571871
+7761562065,node,,restaurant,Poitiers,,,,46.5341397,0.4770224
+7761562066,node,,hotel,Poitiers,,,,46.5341223,0.4769856
+7837200717,node,La Tour d'Abain,restaurant,Poitiers,2 Rue de la Gannerie,,https://latourdabain.zenchef.com/,46.7681325,0.2426843
+7985328549,node,,restaurant,Poitiers,,,,46.8114447,0.1641835
+8094338861,node,Saigon Exotique,restaurant,Poitiers,125 Route de Nouaille,,https://dcoupons.fr/enseigne/saigon-exotique-route-de-nouaille/,46.566021,0.3637558
+8176484217,node,Moulin de la Norée,restaurant,Poitiers,"5 Rue de l’Ermitage, 86589, Biard",86589,https://moulindelanoree.fr/,46.575189,0.3017813
+8291582007,node,Le Sainte-Catherine,restaurant,Poitiers,10 Rue de Chypre,,https://le-sainte-catherine-86600.jimdofree.com/,46.4325916,0.119428
+8305387812,node,Auberge de la Tannerie,restaurant,Poitiers,,,https://www.aubergedelatannerie.fr/,46.5592142,0.0731777
+8307644165,node,La P'tite Fringale,restaurant,Poitiers,,,,46.4935227,-0.0076024
+8635414621,node,L'assiet' Sympa,restaurant,Poitiers,,,,46.5919648,0.3598827
+8818672117,node,The Roof Poitiers - Maison de l'escalade,restaurant,Poitiers,"11 Rue de la Demi-Lune, 86000, Poitiers",86000,https://poitiers.theroof.fr/,46.5974463,0.3237008
+8830053617,node,CHICKEN FACTORY'S,restaurant,Poitiers,,,,46.5771193,0.3740084
+8891935427,node,Le Julienois,restaurant,Poitiers,,,,46.5587529,0.5076567
+8891935430,node,L'Ardoise,restaurant,Poitiers,,,,46.5587248,0.5059961
+8922128561,node,L'Ouvrière,restaurant,Poitiers,"5 bis Place de la Mairie, 86360, Montamisé",86360,,46.6207646,0.4226609
+8976558618,node,Fast Hôtel,hotel,Poitiers,,,,46.6748111,0.3762007
+8976558718,node,Family Hôtel,hotel,Poitiers,,,,46.6771807,0.378889
+8992024879,node,Baila Pizza Autentico,restaurant,Poitiers,"304 Avenue de la Liberté, 86180, Buxerolles",86180,,46.6087453,0.3639523
+9081933270,node,Bouillon Carnot,restaurant,Poitiers,,,,46.5786023,0.3380219
+9081933271,node,Oh Le bistro,restaurant,Poitiers,,,,46.57867,0.3387232
+9122596082,node,Le Don Camillo,restaurant,Poitiers,"23 Place Charles VII, 86000, Poitiers",86000,https://le-don-camillo-snack-poitiers.eatbu.com/?lang=fr#,46.5846172,0.342047
+9400330555,node,Le Relais du Clain,restaurant,Poitiers,2 Avenue de Paris,,,46.730867,0.4396
+9505184092,node,Brasserie Hurons,restaurant,Poitiers,"9 Rue Théodore Lefebvre, 86073, Poitiers",86073,,46.5688526,0.3874587
+9507197526,node,CAFÉTÉRIA LA THÉRIAQUE,restaurant,Poitiers,,,https://www.crous-poitiers.fr/restaurant/cafeteria-la-theriaque/,46.5607512,0.3792209
+9688120173,node,Beyrouth,restaurant,Poitiers,"41 Rue Sadi Carnot, 86000, Poitiers",86000,https://www.restaurant-beyrouth.fr,46.5783912,0.3378973
+9732381493,node,Le Bon chez nous,restaurant,Poitiers,"22B Route Nationale, 86600, Coulombiers",86600,https://le-bon-chez-nous.fr,46.4835455,0.1842114
+9925599088,node,Saint Pierre et le loup,restaurant,Poitiers,15 Rue Saint Pierre,,,46.5702327,0.6487839
+9950930631,node,Noa Binh,restaurant,Poitiers,,,,46.5699518,0.6429228
+9950934851,node,Resto Gusto,restaurant,Poitiers,7 Rue du Montauban,,,46.5698144,0.6428839
+10008594192,node,La Cascade,restaurant,Poitiers,,,,46.6703791,0.3671653
+10027912370,node,Le Bistro,restaurant,Poitiers,,,https://hotel-alteora-site-du-futuroscope.com/,46.6583627,0.3648748
+10075139947,node,Melting Bowl,restaurant,Poitiers,,,,46.6624141,0.3600842
+10113625467,node,Novotel Poitiers Futuroscope,hotel,Poitiers,,,,46.6700726,0.3620714
+10113625472,node,Novotel Poitiers Futuroscope,hotel,Poitiers,,,,46.6690759,0.3611737
+10124271381,node,Le Bistrô de Saint-Benoît,restaurant,Poitiers,6 Rue du Square,,,46.5503604,0.343546
+10126997717,node,B&B hotel Poitiers aeroport,hotel,Poitiers,,,,46.5867557,0.3133279
+10176184208,node,Baïla Pizza,restaurant,Poitiers,"3 bis, 86130, Saint-Georges-lès-Baillargeaux",86130,https://www.bailapizza.fr/,46.6688958,0.4014273
+10200132596,node,Olivetto,restaurant,Poitiers,,,https://loliveto-poitiers.fr/,46.5541084,0.3058268
+10713113477,node,Matt & Mimie Pizzeria,restaurant,Poitiers,12 bis Route de Béruges,,http://mattetmimiepizzeria.metro.rest,46.5312833,0.2623962
+11029505503,node,Grand Ours,restaurant,Poitiers,,,,46.5835953,0.3442354
+11101213382,node,Chaudron du farfadet,restaurant,Poitiers,"86410, Dienné",86410,https://www.defiplanet.com/,46.4486147,0.5627269
+11101213383,node,Snack Defiplanet',restaurant,Poitiers,"86410, Dienné",86410,https://www.defiplanet.com/,46.4462349,0.5600675
+11134406220,node,Sushi Kyo,restaurant,Poitiers,,,,46.6646222,0.3702269
+11734689737,node,Saigon exotique,restaurant,Poitiers,8 Rue du Marché Notre Dame,,,46.582874,0.3433027
+11734712235,node,Le nid de cigognes,restaurant,Poitiers,10 Rue du Marché Notre Dame,,,46.5828355,0.3432888
+11739021657,node,Viet café,restaurant,Poitiers,,,,46.5788956,0.3388561
+11739040109,node,Miandodo,restaurant,Poitiers,9 Rue de Magenta,,,46.5795549,0.3402193
+11739127103,node,Asian street food,restaurant,Poitiers,,,,46.5810461,0.3390475
+11740632394,node,Balme,restaurant,Poitiers,,,,46.5793836,0.338928
+11918187269,node,Autour Du Grill,restaurant,Poitiers,"230 Avenue de Paris, 86000",86000,https://autourdugrill86.fr,46.6177795,0.3518868
+11987996790,node,Casa Giovanni,restaurant,Poitiers,2 Rue des Frères Lumière,,https://casa-giovanni.fr/,46.6111172,0.3672727
+12092290925,node,La Gazette,restaurant,Poitiers,1 Rue Gambetta,,,46.5829209,0.3420038
+12139409278,node,Fireho,restaurant,Poitiers,,,,46.5505606,0.3031905
+12139409279,node,Hôtel Ibis,hotel,Poitiers,,,,46.5505489,0.3034975
+12139420602,node,Bistro Régent,restaurant,Poitiers,199 Avenue du 8 Mai 1945,,,46.548744,0.301089
+12139420673,node,Restaurant Wok 86,restaurant,Poitiers,238 Avenue du 8 Mai 1945,,,46.5526281,0.3041523
+12139420676,node,Campanile,restaurant,Poitiers,228 Avenue du 8 Mai 1945,,,46.5530337,0.3046136
+12139420705,node,Gambas Royale,restaurant,Poitiers,21 Rue de Chaumont,,,46.555918,0.3041943
+12139622708,node,Fink,restaurant,Poitiers,,,,46.5532793,0.2968087
+12143727508,node,Saïgon Exotique,restaurant,Poitiers,,,,46.5839921,0.3132495
+12143727518,node,Le Rendez-Vous,restaurant,Poitiers,4 Rue Annet Ségeron,,,46.584947,0.3136656
+12146082215,node,Ngim's,restaurant,Poitiers,,,,46.5632582,0.3639446
+12194415899,node,Case Canella,restaurant,Poitiers,,,,46.6108487,0.3671432
+12194415917,node,,restaurant,Poitiers,,,,46.6081763,0.3643118
+12252333103,node,Le Relais de la Piazoterie,restaurant,Poitiers,,,,46.4987298,0.2030637
+12584614413,node,Au Top du Roulier,restaurant,Poitiers,38 Rue des Entrepreneurs,,,46.6173214,0.3462101
+12655561069,node,Les 7 Tours,restaurant,Poitiers,,,,46.7377922,0.2804716
+12731687001,node,Le Binjamin,restaurant,Poitiers,"1004 Rn 910, 86130",86130,https://lebinjamin.com/,46.7145733,0.4135965
+12952104343,node,Villa Gambetta,restaurant,Poitiers,12 Rue Gambetta,,,46.5828005,0.3414203
+12999446809,node,La Locomotive,restaurant,Poitiers,32 Boulevard du Grand Cerf,,,46.5863611,0.3382931
+13013563124,node,Le Dakota,restaurant,Poitiers,13 Avenue de Paris,,,46.4318387,0.263658
+13037975501,node,Pacific - Specialites Asiatiques,restaurant,Poitiers,25 Rue Arthur Ranc,,,46.5822533,0.3379989
+13171829101,node,Taj Mahal,restaurant,Poitiers,"78 Rue de la Cathédrale, 86000",86000,https://taj-mahal-poitiers.fr/,46.5823802,0.3440458
+13208977188,node,Le Sanglier Qui Fume,restaurant,Poitiers,"22 Place Joffre, 86170",86170,,46.6848201,0.2451987
+13231725944,node,Aux 974 Saveurs,restaurant,Poitiers,,,https://aux974saveurs.fr/,46.5835408,0.3440805
+13266477602,node,Première Classe,hotel,Poitiers,"7 Allée de la Détente, 86360",86360,,46.6581114,0.3690589
+13267086785,node,Atlantic,restaurant,Poitiers,,,,46.6649899,0.370152
+13289159779,node,La Cuisine de Marie,restaurant,Poitiers,,,,46.6690153,0.3598861
+13289159780,node,Le Jules,restaurant,Poitiers,,,,46.6681012,0.3598422
+13353338625,node,Château de Marconnay,restaurant,Poitiers,,,https://www.restaurantduchateaudemarconnay.com/,46.5179762,-0.0144167
+13357674744,node,Krousti Sabaidi,restaurant,Poitiers,,,,46.6146597,0.3490827
+13423660038,node,Fleur d'oranger,restaurant,Poitiers,1 Rue Jean Mace,,,46.5889546,0.3433033
+13614659701,node,Ethic Etapes Archipel Lac de Saint-Cyr,hotel,Poitiers,,,,46.7212552,0.4558318
+13739976713,node,LUNA Street food viet,restaurant,Poitiers,,,,46.6626476,0.3603811
+13739976729,node,Munch Lab,restaurant,Poitiers,"5 Avenue Gustave Eiffel, 86360, Chasseneuil-du-Poitou",86360,,46.6591528,0.362219
+13884423402,node,Natsukaya,restaurant,Poitiers,Rue des Charmes,,https://www.natsukaya.fr/,46.576421,0.3077054

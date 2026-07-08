@@ -1,0 +1,495 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+255728482,node,Marco Polo,restaurant,Dijon,,,https://www.marcopolodijon.com/,47.3201157,5.0359844
+255731744,node,Mano De Pina,restaurant,Dijon,,,,47.3201768,5.0360003
+256276605,node,L'Édito,restaurant,Dijon,,,https://www.restaurant-ledito-dijon.fr/,47.3233936,5.0350105
+256396180,node,En Face la Cité,restaurant,Dijon,Dijon,,,47.3183319,5.0306434
+262373880,node,La Braserade,restaurant,Dijon,,,,47.3286912,5.0416721
+262552103,node,La Bon'Heure,restaurant,Dijon,"Avenue Aristide Briand, 21000, Dijon",21000,,47.330747,5.0487599
+266015694,node,Refuge des Pirates,restaurant,Dijon,,,http://refugedespirates.fr/,47.3515791,5.0580714
+477615741,node,Kyriad Dijon Sud Longvic,hotel,Dijon,,,https://dijon-sud-longvic.kyriad.com,47.2717815,5.0452097
+477615919,node,greet Hotel Dijon Sud Longvic,hotel,Dijon,,,https://all.accor.com/hotel/C0T5/index.fr.shtml,47.2715764,5.0440596
+703548676,node,Holiday Inn,hotel,Dijon,,,,47.3554713,5.0514677
+890307278,node,Soleil de Tunis,restaurant,Dijon,"21 Rue de la Manutention, 21000, Dijon",21000,,47.3164899,5.0343803
+890307287,node,Les Remparts,restaurant,Dijon,,,,47.3167042,5.0342326
+890307292,node,Le Pharaon,restaurant,Dijon,,,,47.3175444,5.0340926
+890307330,node,Le piano qui fume,restaurant,Dijon,,,https://www.lepianoquifume.com/,47.3190328,5.0373275
+890307348,node,Chambouletous,restaurant,Dijon,,,,47.3191481,5.0374992
+890727690,node,Dallo Zio,restaurant,Dijon,,,,47.316085,5.0379425
+891812235,node,Le Shanti,restaurant,Dijon,,,http://leshanti.unblog.fr/,47.3176605,5.0348679
+891812240,node,L'Âge de Raisin,restaurant,Dijon,"67 Rue Berbisey, 21000, Dijon",21000,https://age-de-raisin.fr/,47.3176791,5.0349417
+891812242,node,Sushi King,restaurant,Dijon,,,,47.3187817,5.0350738
+891812262,node,L'Epicerie & Cie,restaurant,Dijon,,,https://www.restaurant-lepicerie.fr/,47.3189632,5.0356921
+893208553,node,Le Cercle,restaurant,Dijon,,,https://www.lecerclerestaurant.com/,47.3184235,5.0332223
+893208592,node,Mustard Hostel,hotel,Dijon,Dijon,,https://mustardhostel.com/,47.3191667,5.0337378
+893208595,node,L'Émile Brochettes,restaurant,Dijon,,,https://www.lemilebrochettes-dijon.fr/,47.3187154,5.0352085
+893208607,node,Le Resto,restaurant,Dijon,,,,47.3188404,5.0350217
+893208617,node,Le Zola,restaurant,Dijon,,,https://le-zola-dijon.eatbu.com/,47.3188929,5.0349705
+893208621,node,La Pizz Zola,restaurant,Dijon,"6 Place Émile Zola, 21000",21000,https://la-pizz-zola-restaurant-dijon.eatbu.com/,47.3189321,5.034931
+893208625,node,Le Maharaja,restaurant,Dijon,,,,47.3192515,5.0348764
+895350839,node,La Fine Heure,restaurant,Dijon,,,,47.3190652,5.0373717
+902330148,node,Maison Philippe Le Bon,hotel,Dijon,,,,47.3183998,5.0379965
+902330149,node,La Closerie,restaurant,Dijon,,,,47.3184475,5.0380434
+905520191,node,Le Gril' Laure,restaurant,Dijon,,,,47.3211751,5.0338636
+905520220,node,Hostellerie du Chapeau Rouge,hotel,Dijon,"5 Rue Michelet, 21000, Dijon",21000,https://www.chapeau-rouge.fr/fr/chambres-et-suites-hotel-charme-dijon,47.321321,5.0357327
+1345107024,node,Aki,restaurant,Dijon,,,https://www.aki2010.com/,47.3187386,5.0357743
+1377668596,node,La barca,restaurant,Dijon,,,,47.3054238,5.1016543
+1377770198,node,Le Tire Bouchon,restaurant,Dijon,,,https://restaurant-letirebouchon.fr/,47.3101009,5.0946329
+1377806294,node,S&S Grill,restaurant,Dijon,"61 Rue d'York, 21000, Dijon",21000,,47.3353881,5.060158
+1377820226,node,Chez Septime,restaurant,Dijon,"11 Avenue Junot, 21000, Dijon",21000,https://www.chezseptime.fr/,47.3227267,5.0545021
+1377827136,node,L'Escargotière,hotel,Dijon,"120 Avenue Roland Carraz, 21300, Chenôve",21300,https://www.hotel-escargotiere.fr/,47.2881856,5.0125637
+1377827315,node,La Véranda,restaurant,Dijon,"120 Avenue Roland Carraz, 21300, Chenôve",21300,https://www.hotel-escargotiere.fr/restaurant-chenove-dijon.html,47.2881038,5.0124993
+1379416441,node,Les Moulins Bleus,restaurant,Dijon,,,,47.3228631,5.0404883
+1379434383,node,Le 314,restaurant,Dijon,,,https://www.brochettesetcie.com/dijon/,47.3233747,5.0392379
+1379434385,node,Le Café du Marché,restaurant,Dijon,,,,47.3231378,5.0395075
+1379434388,node,Rochangul - Cuisine Ouïghour,restaurant,Dijon,,,,47.3228941,5.0382499
+1379434389,node,DZ'envies,restaurant,Dijon,,,https://dzenvies.com/,47.3238157,5.0393736
+1379434396,node,La Menuiserie,restaurant,Dijon,"28 Rue des Godrans, 21000, Dijon",21000,https://www.lamenuiseriedijon.fr/,47.3244558,5.038778
+1379434397,node,Le Bistrot des Halles,restaurant,Dijon,,,https://lebistrotdeshalles.fr/fr/,47.3242829,5.0397017
+1379434399,node,Sublime,restaurant,Dijon,,,https://www.sublimerestaurant.net/,47.3244851,5.0386061
+1379434402,node,Chez Gaston,restaurant,Dijon,,,,47.3236379,5.0393225
+1380588067,node,Il Ristorante,restaurant,Dijon,,,,47.3130284,5.0951918
+1383431252,node,Auberge de la Charme,restaurant,Dijon,,,,47.3756859,4.8989149
+1383431260,node,La Ferme du Coucou,hotel,Dijon,,,,47.3752833,4.9003333
+1383431264,node,Le Sabayon,restaurant,Dijon,,,,47.37565,4.8990833
+1392538814,node,Les Feuillus,restaurant,Dijon,,,,47.6186886,5.0137628
+1399447182,node,Hôtel ibis budget Dijon Saint-Apollinaire,hotel,Dijon,"6 Rue des Longènes, 21850, Saint-Apollinaire",21850,,47.329585,5.0772478
+1401835493,node,Chez Grand-Mère,restaurant,Dijon,"3, 21560, Couternon",21560,,47.3314369,5.1497164
+1402205112,node,La Musarde,restaurant,Dijon,"7 rue des riottes, 21121",21121,https://www.lamusarde.fr/,47.3642389,4.9928973
+1404428151,node,Pizza du bourg,restaurant,Dijon,"639 Route de Gray, 21850, Saint-Apollinaire",21850,https://www.pizzadubourg.com/,47.3316949,5.0844555
+1415905527,node,Le Méditerranéen,restaurant,Dijon,,,,47.3293565,5.0429751
+1419915122,node,Spica,restaurant,Dijon,"48 Rue de la Préfecture, 21000, Dijon",21000,https://www.restaurantspica.com/,47.3247128,5.0425512
+1422149578,node,Hôtel Darcy,hotel,Dijon,,,https://hotel-darcy.fr/,47.3230455,5.0349886
+1422149594,node,Restaurant de la Porte Guillaume,restaurant,Dijon,,,https://hotel-darcy.fr/restaurant/,47.3230701,5.0350001
+1423824919,node,IBIS Arquebuse,hotel,Dijon,"15A Avenue Albert 1er, 21000, Dijon",21000,,47.3221929,5.0238833
+1430869839,node,O'Bareuzai,restaurant,Dijon,,,,47.3225869,5.0390516
+1460282831,node,Le Coin Repas,restaurant,Dijon,,,,47.3109273,5.0529502
+1460287411,node,Le Burguignon,restaurant,Dijon,,,https://instagram.com/le.burguignon?igshid=YmMyMTA2M2Y=,47.3131536,5.0568291
+1483540615,node,Brasserie la Cantine,restaurant,Dijon,"6 Avenue Alain Savary, 21000, Dijon",21000,https://www.crous-bfc.fr/restaurant/brasserie-la-cantine/,47.3137746,5.0681104
+1493118985,node,BollyWood lounge,restaurant,Dijon,,,,47.3193665,5.0333094
+1495892275,node,La Cloche,restaurant,Dijon,,,,47.3240207,5.0340914
+1501152100,node,Chalet Du Steak,restaurant,Dijon,58 Rue de Longvic,,,47.2836044,5.0226604
+1501152111,node,La Cantine de la Côte,restaurant,Dijon,"355 Avenue Jean Moulin, 21160, Marsannay-la-Côte",21160,,47.2799992,5.0203273
+1509645516,node,Pourquoi pas ?,restaurant,Dijon,,,https://www.pourquoipas-dijon.com/,47.3195294,5.0356031
+1515593465,node,Min'Chine,restaurant,Dijon,,,,47.3224315,5.0252287
+1521709631,node,Kyriad Dijon-Mirande,hotel,Dijon,"12 Rue Pierre de Coubertin, 21000, Dijon",21000,,47.3114876,5.0802798
+1522361322,node,Campanile Dijon Est,hotel,Dijon,"1 Rue La Fleuriée, 21850, Saint-Apollinaire",21850,http://www.campanile-dijon-est-saint-apollinaire.fr,47.3305413,5.0771002
+1538137976,node,Hôtel des Allées,hotel,Dijon,,,,47.3107725,5.046236
+1538219779,node,Le Sauvage,restaurant,Dijon,,,,47.3190994,5.0338976
+1545706265,node,Le Lion d'Or,restaurant,Dijon,,,,47.405647,5.0174493
+1633233131,node,Chez Ti,restaurant,Dijon,,,,47.3179566,5.0351258
+1633233134,node,Aux Délices d'Annaba,restaurant,Dijon,,,https://www.lepetitgascon.fr/,47.317982,5.0351838
+1637581988,node,Parapluie,restaurant,Dijon,,,https://www.parapluie-dijon.com/,47.3188736,5.0337622
+1669831140,node,Hôtel du Stade,restaurant,Dijon,,,,47.3217469,5.0532768
+1882605632,node,,restaurant,Dijon,,,,47.2421434,5.2195476
+1886807385,node,Hôtel de France,hotel,Dijon,,,,47.2421743,5.2177854
+2039800554,node,Les Tramways,restaurant,Dijon,,,https://bistrot-des-tramways.business.site/,47.3247416,5.052054
+2048123785,node,La Criée,restaurant,Dijon,"4 Rue de la Glacière, 21850, Saint-Apollinaire",21850,https://restaurant.lacriee.com/44-la-criee-dijon,47.3260493,5.0759575
+2048123815,node,Courtepaille,restaurant,Dijon,,,,47.326042,5.0752134
+2086879834,node,Domaine de Pont de Pany,restaurant,Dijon,,,,47.2958314,4.810567
+2105765793,node,Pizz'Artistes,restaurant,Dijon,,,,47.3280356,5.0534268
+2146284863,node,Le Noti,restaurant,Dijon,,,https://noti-dijon.fr/,47.3281961,5.0493107
+2163325429,node,L'Bout d'la Rue,restaurant,Dijon,,,https://restaurant-lboutdlarue.com/,47.3240783,5.044031
+2163346974,node,Cafétéria Droit-Lettre,restaurant,Dijon,,,https://www.crous-bfc.fr/restaurant/cafet-droit-lettres/,47.3140916,5.0646816
+2164614904,node,Flunch,restaurant,Dijon,,,,47.3117632,5.1033827
+2164615348,node,Royal Quétigny,restaurant,Dijon,,,,47.3116806,5.1026736
+2185115119,node,Restaurant Le Bourguignon,restaurant,Dijon,,,https://www.le-bourguignon.com/,47.4661095,5.2702052
+2185150519,node,Le Renard'eau,restaurant,Dijon,,,https://www.auberge-renardeau-21.fr/restaurant,47.4681677,5.2703703
+2210348070,node,Hôtel Victor Hugo,hotel,Dijon,23 Rue des Fleurs,,http://hotelvictorhugo-dijon.com/,47.3264795,5.0337117
+2295254785,node,Chez Léon,restaurant,Dijon,,,https://www.restochezleon.fr/,47.32471,5.0388085
+2342144086,node,,restaurant,Dijon,,,,47.1933873,5.3870314
+2342144101,node,Des Marronniers,restaurant,Dijon,,,,47.3043871,5.4175132
+2342144103,node,La Taverne,restaurant,Dijon,,,,47.3044841,5.4169343
+2342144114,node,,restaurant,Dijon,,,,47.3049528,5.4114781
+2424051715,node,La Musarde,hotel,Dijon,,,,47.3643006,4.992892
+2471248904,node,Salsapelpa,restaurant,Dijon,"1 Rue Marceau, 21000, Dijon",21000,,47.3275519,5.0447265
+2482018429,node,Wok 30,restaurant,Dijon,,,,47.3214973,5.0541864
+2504497269,node,Caffé Cosi,restaurant,Dijon,,,,47.3242312,5.0402675
+2539265191,node,La Jeanne Brasserie,restaurant,Dijon,,,https://www.lajeanne-brasserie.fr,47.3259673,5.0451191
+2563070125,node,Sushi Feist,restaurant,Dijon,,,,47.3237606,5.0312207
+2568987296,node,L'Arôme,restaurant,Dijon,,,https://www.restaurant-aromedijon.com/,47.3258256,5.0452384
+2568987318,node,Le Palazzio,restaurant,Dijon,"18 Place de la République, 21000",21000,https://le-palazzio-dijon.eatbu.com/?lang=fr,47.3259061,5.045234
+2617457576,node,Campanile,hotel,Dijon,,,,47.3233226,5.0296721
+2637616581,node,Le Patio,restaurant,Dijon,,,https://le-patio-restaurant-quetigny.metro.bar/?lang=fr#,47.3107003,5.1052619
+2639535617,node,La Flambée,hotel,Dijon,,,https://laflambee.fr/,47.2884602,5.0988673
+2639535618,node,La Flambée,restaurant,Dijon,,,https://laflambee.fr/,47.2885791,5.0987447
+2655160183,node,Bowling,restaurant,Dijon,,,,47.2785866,5.0072203
+2670271041,node,Régal Pizza,restaurant,Dijon,,,,47.3260378,5.0288993
+2704020290,node,Le Saint-Antoine,hotel,Dijon,"32 Rue de Franche-Comté, 21760, Lamarche-sur-Saône",21760,https://www.le-saint-antoine.fr/,47.2769903,5.3843638
+2704020296,node,Restaurant Le Nymphéa,restaurant,Dijon,"21760, Lamarche-sur-Saône",21760,,47.2760045,5.3877952
+2731946074,node,Océania - Le Jura,hotel,Dijon,,,,47.3236616,5.0303097
+2731950464,node,Hôtel de Paris,hotel,Dijon,,,,47.323373,5.0301872
+2731952076,node,La Scala,restaurant,Dijon,,,,47.3233608,5.0300771
+2731954494,node,Le Comptoir,restaurant,Dijon,,,,47.3233382,5.0298098
+2884850310,node,La Dame d'Aquitaine,restaurant,Dijon,,,https://www.ladamedaquitaine.fr/,47.3202027,5.0368261
+2891210013,node,Palais Nippon,restaurant,Dijon,"18 Avenue Garibaldi, 21000, Dijon",21000,https://www.palaisnippon.com/,47.3281271,5.0442922
+2918974905,node,Restaurant Hôtel du Corbeau,hotel,Dijon,"1 Rue de Berbis, 21130, Auxonne",21130,https://www.lecorbeau-auxonne.com,47.1942971,5.3879551
+2921555828,node,Kyriad,hotel,Dijon,"7-9 Rue Docteur Albert Rémy, 21000",21000,https://www.kyriaddijon.com,47.3228642,5.0298303
+2921600704,node,Caveau de Saulx,restaurant,Dijon,13,,https://www.lecaveaudesaulx.fr/,47.3251914,5.0457332
+2921600782,node,Hôtel le Chambellan,hotel,Dijon,92,,https://www.hotel-chambellan.com/,47.3217325,5.0451601
+2923414657,node,Les Bistrottines,restaurant,Dijon,"170 Avenue Victor Hugo, 21000, Dijon",21000,,47.3345555,5.0152462
+3012240657,node,Thai & Dijon,restaurant,Dijon,,,,47.3250885,5.0451574
+3024706472,node,L'autrement,restaurant,Dijon,,,,47.3342836,5.077603
+3172251461,node,Ristorante Del Arte,restaurant,Dijon,"1 Allée Olivier de la Marche, 21160, Marsannay-la-Côte",21160,https://www.delarte.fr/restaurant-italien-pizzeria-dijon-marsannay-la-cote.html,47.28035,5.0190599
+3413218326,node,Le Shamrat,restaurant,Dijon,"9 Rue Marceau, 21000, Dijon",21000,,47.3279603,5.0451585
+3413220017,node,Le Bora,restaurant,Dijon,"8 Petite Rue de Pouilly, 21000, Dijon",21000,,47.327961,5.0446128
+3423517057,node,La Grasihade,restaurant,Dijon,"43 Allée de la Cude, 21370, Velars-sur-Ouche",21370,,47.3180455,4.9174795
+3449110481,node,Le Ptit bouchon Dijonnais,restaurant,Dijon,,,https://leptitbouchondijonnais.fr/,47.32587,5.0484561
+3449110482,node,Terre & Mer,restaurant,Dijon,,,,47.3265145,5.0465986
+3449110483,node,La Bourgogne,restaurant,Dijon,"20 Place de la République, 21000",21000,https://www.brasserielabourgogne.com/,47.3259627,5.0455955
+3449150850,node,Sakura Sushi,restaurant,Dijon,,,https://www.sakurasushidijon.com/,47.3206637,5.0432217
+3449150852,node,Le Grenier café,restaurant,Dijon,"Rue des Bons Enfants, 21000, Dijon",21000,,47.3208328,5.0426933
+3449248918,node,Au Moulin à Vent,restaurant,Dijon,,,,47.3222514,5.0392346
+3449248920,node,Brasserie François,restaurant,Dijon,,,,47.3230997,5.0398111
+3449300666,node,Restaurant Gustave,restaurant,Dijon,,,,47.32325,5.0402804
+3449300667,node,Chez Copains,restaurant,Dijon,,,,47.3233387,5.0402988
+3449300669,node,Les Fils à Maman,restaurant,Dijon,,,https://www.lesfilsamaman.com/restaurants/dijon/,47.3236842,5.0403967
+3449300670,node,Au Jardin des Halles,restaurant,Dijon,,,,47.323976,5.0404718
+3453754219,node,Chez Tonton,restaurant,Dijon,,,,47.3200061,5.0394988
+3453754220,node,L‘AbenFant,restaurant,Dijon,,,https://restaurantlabenfant.fr/,47.3199803,5.0397934
+3453754221,node,Monique boire et manger,restaurant,Dijon,,,https://www.moniqueboireetmanger.fr/,47.319907,5.0398175
+3481141393,node,B&B Hôtel,hotel,Dijon,,,https://www.hotel-bb.com/fr/-/hotelByName.htm?id=4706,47.3228478,5.0368823
+3541476986,node,Kyriad Prestige,hotel,Dijon,,,,47.3235873,5.0296779
+3606611561,node,Le Petit Roi de la Lune,restaurant,Dijon,,,https://www.lepetitroidelalune.fr/,47.3199683,5.0399997
+3662761465,node,Pizza Dell'Is,restaurant,Dijon,"7 Place de la République, 21120, Is-sur-Tille",21120,,47.5237466,5.1126334
+3681022145,node,La Brasserie,restaurant,Dijon,,,,47.3326977,5.0688474
+3683996790,node,La Fontaine du Bonheur,restaurant,Dijon,,,,47.2782605,5.0167125
+3719738500,node,L'Auberge du Moulin Thibel,restaurant,Dijon,21410,21410,,47.2639239,4.7686529
+3719774826,node,Le FAim Bien,restaurant,Dijon,"1 Place de la Mairie, 21410, Barbirey-sur-Ouche",21410,https://lefaimbien.eatbu.com,47.2530531,4.755626
+3742930727,node,Ristorante Del Arte,restaurant,Dijon,"1B Rue du Cap Vert, 21800, Quetigny",21800,https://www.delarte.fr/restaurant-italien-pizzeria-dijon-quetigny.html,47.3124101,5.0909556
+3774040915,node,Le Cheval Blanc,restaurant,Dijon,,,,47.52412,5.110969
+3774083584,node,Ô Dix d'Is,restaurant,Dijon,"10 Rue Dominique Ancemot, 21120, Is-sur-Tille",21120,https://restaurant-odixdis.fr/,47.5229828,5.1129152
+3818623782,node,Campanile,hotel,Dijon,,,https://dijon-congres-clemenceau.campanile.com/fr-fr/,47.3286624,5.0593041
+3841495918,node,Le Central (Ibis Styles),hotel,Dijon,"3 Place Grangier, 21000, Dijon",21000,https://www.hotel-ibiscentral-dijon.fr/,47.3230963,5.037305
+4047457830,node,Cafeteria Gabriel,restaurant,Dijon,Esplanade Erasme,,,47.3161926,5.0657349
+4079717534,node,L'Évidence,restaurant,Dijon,,,https://restaurant-levidence-dijon.com/,47.3218065,5.0467479
+4079717535,node,Akdeniz,restaurant,Dijon,,,,47.3218395,5.0465801
+4079717536,node,Masami,restaurant,Dijon,,,http://www.restaurantmasami.com/site/,47.3215475,5.0478199
+4097537975,node,Le café du pont,restaurant,Dijon,,,,47.3191268,5.0221621
+4102090579,node,Les Garçons,restaurant,Dijon,,,https://chezpierreetjules.eatbu.com/,47.3188104,5.0343983
+4110220363,node,Le Puits XV,restaurant,Dijon,,,http://www.lepuitsxv.com,47.3488187,4.7725807
+4113584690,node,Le Patara,restaurant,Dijon,"69 Rue de Mazy, 21160, Marsannay-la-Côte",21160,https://www.facebook.com/people/Restaurant-Le-Patara/61572493381893/,47.2708992,4.9885297
+4119503374,node,My Wok,restaurant,Dijon,,,,47.3267179,5.0464831
+4119503378,node,Le Rameau,restaurant,Dijon,,,https://brasserie-lerameau.fr,47.3276409,5.0489276
+4119503380,node,Le Château Bourgogne,restaurant,Dijon,,,https://www.hotel-mercure-dijon.fr/chateau-bourgogne,47.328036,5.0509739
+4119503382,node,Hôtel Mercure Dijon Centre Clemenceau,hotel,Dijon,,,https://www.hotel-mercure-dijon.fr/chateau-bourgogne,47.3280259,5.0511022
+4119503385,node,Pizz N' Go,restaurant,Dijon,,,https://www.pizzngo.com/,47.3302768,5.0434392
+4126782262,node,Brasserie de l'Hôtel de Ville,restaurant,Dijon,,,,47.3209529,5.0411897
+4126782271,node,Le Pré aux Clercs,restaurant,Dijon,,,https://www.lepreauxclercs.fr/,47.3209167,5.0415421
+4133802326,node,Le Potimarron,restaurant,Dijon,,,,47.3180885,5.0270771
+4240788347,node,Appart'hôtel Odalys Les Cordeliers,hotel,Dijon,"3-5 Rue Turgot, 21000, Dijon",21000,https://www.odalys-vacances.com/location-campagne/bourgogne-et-ain/dijon/les-cordeliers.html,47.3182618,5.0403622
+4240930934,node,Le Bouchon du Palais,restaurant,Dijon,,,https://www.bouchondupalais.fr/,47.3205545,5.0415561
+4240930935,node,Le Carpe Diem,restaurant,Dijon,,,,47.3205192,5.0415125
+4243610729,node,Le Petit Central,restaurant,Dijon,,,,47.3230171,5.0372848
+4244754293,node,L'Un des Sens,restaurant,Dijon,,,https://lundessens-dijon.fr/,47.3224447,5.0432754
+4244761693,node,La Licorne,restaurant,Dijon,,,,47.322703,5.0406881
+4244761891,node,In Teglia,restaurant,Dijon,,,,47.3226147,5.0435465
+4244809289,node,Speakeasy,restaurant,Dijon,,,https://www.restaurant-speakeasy.fr/,47.3235051,5.0403754
+4245669592,node,Au Gré de mes Envies,restaurant,Dijon,,,http://www.augredemesenviesdijon.fr/,47.3206678,5.040863
+4245669594,node,Loiseau des Ducs,restaurant,Dijon,,,,47.3207666,5.0411946
+4245757490,node,Villa Vauban,restaurant,Dijon,,,,47.3205481,5.0409788
+4245763391,node,Restaurant Bistronomique,restaurant,Dijon,,,,47.3209014,5.0411433
+4247467289,node,Hôtel des Ducs,hotel,Dijon,,,,47.3218086,5.0437173
+4314647469,node,Aparthotel Adagio Access,hotel,Dijon,"33 Rue de Mulhouse, 21000, Dijon",21000,,47.3257335,5.0492284
+4314647471,node,Fado à Mesa,restaurant,Dijon,,,https://www.facebook.com/FadoAMesa,47.3237299,5.0446847
+4314658544,node,Le Marrakech,restaurant,Dijon,,,,47.3196401,5.0355259
+4396697736,node,Anshu,restaurant,Dijon,,,,47.3243727,5.0294897
+4396697739,node,New Delhices,restaurant,Dijon,,,,47.3243206,5.0302491
+4396697741,node,Sushi Park,restaurant,Dijon,,,,47.3243945,5.0289432
+4396697744,node,Phö Dijon,restaurant,Dijon,,,,47.3243161,5.0303779
+4460234338,node,Koki,restaurant,Dijon,,,https://kokidijon.fr,47.344707,5.0454698
+4469021135,node,Memphis,restaurant,Dijon,,,,47.2859871,5.019832
+4475976473,node,The Little Italy,restaurant,Dijon,,,https://www.thelittleitaly-shop.com/#dijon,47.32311,5.042976
+4510857247,node,L'Auguste,restaurant,Dijon,"6 Rue Auguste Comte, 21000, Dijon",21000,,47.3236087,5.0441858
+4519548205,node,Hôtel Chateaubriand,hotel,Dijon,,,,47.3233828,5.0306726
+4562727394,node,Ibis Budget Dijon Centre Clemenceau,hotel,Dijon,,,https://all.accor.com/hotel/B1R3/index.fr.shtml,47.3295089,5.0518391
+4565189708,node,Le Bistingo,restaurant,Dijon,,,,47.3239185,5.0357119
+4571085800,node,L'instant,restaurant,Dijon,,,,47.3409397,5.0674148
+4690682413,node,3 Brasseurs,restaurant,Dijon,,,,47.3126659,5.0902355
+4690682414,node,La Boucherie,restaurant,Dijon,,,,47.3124176,5.090421
+4700127470,node,Piccolina,restaurant,Dijon,,,,47.3389811,5.0384279
+4719165668,node,Le Phénicien,restaurant,Dijon,,,https://www.restaurant-lephenicien.fr/,47.3218265,5.0466435
+4720404009,node,O'summum,restaurant,Dijon,,,,47.3215967,5.0475897
+4728550685,node,La botte,restaurant,Dijon,,,,47.3106456,5.2789012
+4734602303,node,Le Petit Vatel,restaurant,Dijon,,,,47.3145276,5.047776
+4734602308,node,Émile,restaurant,Dijon,,,,47.3153076,5.0457359
+4734602311,node,Akatsuki,restaurant,Dijon,,,https://restaurant-akatsuki.fr/,47.315377,5.0450898
+4734603027,node,Jaïpur,restaurant,Dijon,,,,47.3155624,5.0455861
+4734603030,node,Le Sommatino,restaurant,Dijon,,,,47.3159106,5.0449489
+4734603031,node,Village Mandarin,restaurant,Dijon,,,,47.3159585,5.044852
+4734603033,node,Origine,restaurant,Dijon,"10 Place du Président Wilson, 21000, Dijon",21000,https://www.restaurantstephanederbord.fr/,47.315922,5.0442541
+4734603034,node,Hôtel Wilson,hotel,Dijon,,,,47.3159496,5.0443215
+4735183607,node,Sorebo,restaurant,Dijon,,,,47.4217547,5.1718972
+4736362784,node,O P'tit Repere Du Gout,restaurant,Dijon,,,,47.3136889,4.8605786
+4736374984,node,L'Auberge Gourmande,restaurant,Dijon,,,,47.3176088,4.9146386
+4738384722,node,Les Saveurs d'Asie,restaurant,Dijon,"64 Rue Antoine Masson, 21130, Auxonne",21130,https://les-saveurs-d-asie.edan.io/,47.1930872,5.3871962
+4738384725,node,Star Pizza,restaurant,Dijon,,,,47.1941775,5.384189
+4738384727,node,Z'uber Pizza,restaurant,Dijon,,,,47.1935199,5.3860885
+4738384736,node,Au P'tit Bouchon,restaurant,Dijon,,,,47.2934151,5.39997
+4738384742,node,L'Escale,restaurant,Dijon,,,,47.2600488,5.287116
+4738384761,node,Le Relais d'Arc,restaurant,Dijon,,,,47.3468034,5.191917
+4738384763,node,Le Grill,restaurant,Dijon,,,,47.3447173,5.1902585
+4738384764,node,Pizz'Arc,restaurant,Dijon,,,,47.3445244,5.1914694
+4775400399,node,Le relais des fac,restaurant,Dijon,,,,47.3139382,5.0622994
+4779191024,node,Chez Fleurot,hotel,Dijon,,,,47.2621074,5.0758801
+4809745036,node,Relais de la Sans Fond,hotel,Dijon,,,,47.2434778,5.0563989
+4880784866,node,Greet,restaurant,Dijon,,,,47.2717242,5.0441013
+4964612943,node,My spicy snack,restaurant,Dijon,,,,47.3301529,5.0447286
+4990041561,node,Les Molidors,restaurant,Dijon,"24 Rue Constant Pierrot, 21000, Dijon",21000,,47.3153923,5.0615658
+5042905930,node,L'Atelier,restaurant,Dijon,,,,47.3558303,5.0369637
+5042910191,node,Appart'city,hotel,Dijon,,,,47.3547401,5.0376913
+5042953829,node,Campanile,hotel,Dijon,,,,47.3561266,5.0452655
+5052721598,node,Au Bureau,restaurant,Dijon,,,,47.3267067,5.0434079
+5066265757,node,La Causerie des Mondes,restaurant,Dijon,,,,47.3199884,5.0401019
+5066401109,node,Coin Cuisine,restaurant,Dijon,,,,47.2923163,5.0207064
+5095769699,node,Casa Antonio,restaurant,Dijon,,,,47.3568914,5.0316216
+5095769700,node,Wokasie Dijon,restaurant,Dijon,,,,47.3559173,5.0313965
+5095769701,node,Le Bistrot du Coin Caché,restaurant,Dijon,"3 Rue du Pré Potet, 21121, Ahuy",21121,https://www.le-coin-cache.fr/,47.3575966,5.0350039
+5095769704,node,Loup Blanc,restaurant,Dijon,,,,47.3567966,5.0353235
+5095769705,node,L'Aqueduc,restaurant,Dijon,,,,47.3571539,5.0353493
+5095769711,node,Le Cellier d'Clem,restaurant,Dijon,,,,47.3553539,5.0352094
+5095769712,node,Le Coq en Pâte,restaurant,Dijon,,,,47.3539323,5.0351836
+5107747687,node,Buffet d'Asie,restaurant,Dijon,,,,47.2840335,5.0190844
+5107747693,node,LA CICCIOLINA,restaurant,Dijon,,,https://la-cicciolina-restaurant.eatbu.com/?lang=fr,47.2956463,5.0181851
+5107747694,node,Le Boucanier,restaurant,Dijon,,,,47.2958839,5.0182309
+5139462563,node,La P'tite Fringale,restaurant,Dijon,,,,47.578563,5.3976032
+5141805483,node,Hôtel Vertigo,hotel,Dijon,3 Rue Devosge,,https://www.vertigohoteldijon.com/fr/,47.3244015,5.0343132
+5150710994,node,Alfred Burgers & Vins,restaurant,Dijon,,,https://www.alfredburgers.fr/,47.3193415,5.0350457
+5164625403,node,Le Palmier,restaurant,Dijon,,,,47.3352682,5.044523
+5164625410,node,La Petite Istanbul,restaurant,Dijon,,,,47.3338249,5.0438445
+5164625419,node,Le Concept,restaurant,Dijon,,,,47.3349337,5.0419535
+5227082727,node,American way,restaurant,Dijon,,,,47.3650598,5.0498311
+5227082729,node,Le Cordina by Tom,restaurant,Dijon,,,,47.366007,5.0503508
+5227082730,node,Le Parc,restaurant,Dijon,,,,47.3658425,5.0502705
+5264685414,node,L'Hémicycle,restaurant,Dijon,,,https://restaurant-hemicycle.fr/,47.3211861,5.040826
+5287754854,node,Le National,restaurant,Dijon,,,,47.3173089,5.0430817
+5366076236,node,Auberge des Tilleuls,restaurant,Dijon,,,,47.4065445,5.0172899
+5459449699,node,Bar Brasserie De La Tille,restaurant,Dijon,,,,47.1368679,5.3414458
+5533132230,node,La Papaye Verte,restaurant,Dijon,"4 Rue Marceau, 21000, Dijon",21000,http://www.la-papaye-verte.fr,47.3274121,5.0449013
+5538423011,node,Sushi-King,restaurant,Dijon,,,,47.3189741,5.0346398
+5591153355,node,Acqua e Farina,restaurant,Dijon,,,https://pizzeria-acquaefarina.fr/,47.322831,5.0398643
+5637296217,node,Le Savignien,restaurant,Dijon,,,,47.4296804,5.0517026
+5644375732,node,Le Pinocchio,restaurant,Dijon,"Route d'Athée, 21130, Auxonne",21130,,47.1988218,5.3822869
+5647101971,node,Popotes,restaurant,Dijon,,,https://popotes.fr/popotes-cantine-respectueuse-ouvre-bientot-ses-portes-a-dijon/,47.3284039,5.0498445
+5731060579,node,100Dô,restaurant,Dijon,,,http://restaurant100do.com,47.3189771,5.0440023
+5731063508,node,Chamas Tacos,restaurant,Dijon,"7 Place Saint-Michel, 21000, Dijon",21000,https://chamas-tacos.com/dijon-saint-michel/,47.3213427,5.0451265
+5731638972,node,Da Adriano,restaurant,Dijon,,,https://www.da-adriano.fr/,47.3212751,5.0359428
+5731664412,node,Popotes,restaurant,Dijon,,,,47.3224171,5.0408529
+5740739801,node,La 34S,restaurant,Dijon,"2225 Chemin de Champagne, 21410",21410,https://www.la34s.fr/,47.2776138,4.7836566
+5797929653,node,Le Bellevue,restaurant,Dijon,"30 Rue de la Libération, 21540, Sombernon",21540,,47.3050768,4.7014357
+5802994433,node,Hôtel de l'Orée des Charmes,hotel,Dijon,"56 Rue d'Avau, 21540, Blaisy-Bas",21540,,47.3733906,4.740574
+5803933353,node,Osaka,restaurant,Dijon,,,http://www.osakadijon.fr,47.3227193,5.0397951
+5830304043,node,Academy's Loft,hotel,Dijon,,,,47.3185295,5.0337338
+5863069669,node,Le Dauphine,restaurant,Dijon,,,,47.3213128,5.0390004
+5863293259,node,Azerole,restaurant,Dijon,,,https://azerole-dijon.fr/,47.3181936,5.0356664
+5884600435,node,l'Imprévu,restaurant,Dijon,,,,47.3924283,5.3089955
+5915894590,node,Abyssinia,restaurant,Dijon,,,https://www.abyssinia-ethiopia.fr,47.3272049,5.0494426
+5969202917,node,So,restaurant,Dijon,,,https://guide.michelin.com/fr/fr/bourgogne-franche-comte/dijon/restaurant/so,47.3196321,5.0409599
+6019936835,node,Miam Pizza Longvic,restaurant,Dijon,,,https://www.facebook.com/profile.php?id=61571250447513&mibextid=ZbWKwL,47.2860075,5.0636433
+6038823336,node,Le neuf bis,restaurant,Dijon,,,http://www.le9bis.fr/,47.3201053,5.0529149
+6043550359,node,Hotel Inn,hotel,Dijon,14 Avenue de Bourgogne,,,47.3117762,5.1052481
+6084242123,node,ABE,restaurant,Dijon,,,,47.3101727,5.0259709
+6084242124,node,Un pied chez La Marinette,restaurant,Dijon,,,,47.3103052,5.0260166
+6096439321,node,Le Vendôme,restaurant,Dijon,,,,47.3024885,5.0221427
+6134832502,node,Saveurs de Porto,restaurant,Dijon,,,,47.3441184,5.0457085
+6153979085,node,Hôtel du Palais,hotel,Dijon,,,,47.3194716,5.042377
+6192291159,node,Samouraï sushis,restaurant,Dijon,,,,47.3229549,5.0436617
+6247093569,node,Le Tablier,restaurant,Dijon,"1 Rue du Châtel, 21110, Rouvres-en-Plaine",21110,https://le-tablier-restaurant.eatbu.com/?lang=fr,47.2376038,5.1419087
+6247532684,node,Bangkok Factory,restaurant,Dijon,,,,47.3188998,5.0357708
+6296773556,node,Boui-Boui,restaurant,Dijon,"1 Rue Neuve, 21160",21160,,47.2707779,4.9890086
+6347153190,node,Kebab des facultés,restaurant,Dijon,"19 Rue Louis Boulanger, 21000, Dijon",21000,,47.3155101,5.0640917
+6533988749,node,Le coin caché,restaurant,Dijon,,,https://www.le-coin-cache.fr/,47.3290742,5.0388001
+6541960618,node,Restaurant 23,restaurant,Dijon,,,,47.5656672,5.4366822
+6542538490,node,La Tour,restaurant,Dijon,,,,47.5255592,5.3702097
+6542546142,node,L'Entre-Pot,restaurant,Dijon,,,,47.5278961,5.3760271
+6549212961,node,La Pinocchio,restaurant,Dijon,,,,47.1988124,5.3822662
+6557903695,node,"Hôtel Restaurant ""Castel Burgond / Les Trois Ducs""",restaurant,Dijon,,,,47.3429428,5.0011907
+6644328573,node,Sakura So' Ramen,restaurant,Dijon,,,,47.3230855,5.0354622
+6723685338,node,Le P'tit Dij,restaurant,Dijon,,,https://brasserieleptitdij.eatbu.com,47.3266891,5.0514782
+6761273418,node,Bistrot L’Essentiel,restaurant,Dijon,"12 Rue Audra, 21000, Dijon",21000,,47.3256631,5.0343258
+7040780122,node,Auberge Campagnarde,hotel,Dijon,,,,47.4412826,4.7880154
+7040780123,node,Relais de la Source,hotel,Dijon,,,https://www.relaisdelasource.com/,47.440992,4.7884487
+7216213743,node,L'Aspérule,restaurant,Dijon,,,,47.3248138,5.0450367
+7309284712,node,Kpizz,restaurant,Dijon,"9 Route de Fontaine-Française, 21490",21490,,47.3501432,5.1294165
+7405134740,node,Au Bois Tordu,restaurant,Dijon,,,,47.3058638,5.0598595
+7415886417,node,In Teglia,restaurant,Dijon,"3 Rue de l'Aqueduc Darcy, 21121, Ahuy",21121,,47.3562723,5.0352891
+7462552328,node,My Wok,restaurant,Dijon,,,https://www.my-wok.com/dijon-cap-nord,47.3413667,5.062344
+7476890245,node,Les Gourmands Disent,restaurant,Dijon,"36 Rue de Fontaine-lès-Dijon, 21000, Dijon",21000,,47.3325605,5.0270507
+7798175273,node,Restaurant Le Relais,restaurant,Dijon,,,https://www.hotelrestaurantlerelaisbeze.com/,47.4669191,5.2695243
+7803271625,node,L'Escale,restaurant,Dijon,,,,47.3411647,5.0381528
+8015643672,node,Paulette,restaurant,Dijon,,,https://www.paulette-restaurant.com/,47.3238864,5.039393
+8111336645,node,Viet's Corner,restaurant,Dijon,,,,47.3215092,5.0540117
+8194478178,node,Les Mijoteuses,restaurant,Dijon,,,,47.3086284,5.0243703
+8194510697,node,La baraque,restaurant,Dijon,"29 Rue des Frères Montgolfier, 21300, Chenôve",21300,,47.2971772,5.0218357
+8219605547,node,Ittshin Izakaya,restaurant,Dijon,,,https://www.ittshinrestaurants.com,47.3268981,5.0468887
+8245230442,node,Toasty Brunch,restaurant,Dijon,,,,47.3197587,5.0396119
+8293660020,node,Les Petits Oignons,restaurant,Dijon,,,,47.3216628,5.0473474
+8410857837,node,Gallery 412,restaurant,Dijon,,,,47.3552908,5.0508364
+8509617478,node,Ittshin Ramen - République,restaurant,Dijon,2 Boulevard Georges Clemenceau,,,47.3267991,5.0465713
+8580690133,node,Hôtel des Halles,hotel,Dijon,,,https://www.hoteldeshalles-dijon.com/,47.3255595,5.0367851
+8587075800,node,Bobun Monge,restaurant,Dijon,,,,47.3184103,5.032953
+8599546944,node,Central Sushi,restaurant,Dijon,,,,47.3234853,5.0314896
+8696911409,node,Torikara san,restaurant,Dijon,,,,47.324738,5.0450049
+8712791741,node,La table d'Arc,restaurant,Dijon,,,,47.3473986,5.1814626
+8718597026,node,Le comptoir gourmand,restaurant,Dijon,,,,47.6166146,4.916984
+8721051447,node,L'atelier de Sophie,restaurant,Dijon,,,,47.3994419,5.3166351
+8721051448,node,Le Café de la place,restaurant,Dijon,,,,47.3991587,5.317142
+8728126953,node,Hôtel République,hotel,Dijon,,,,47.3256862,5.0447244
+8728526339,node,La Crêpitante,restaurant,Dijon,,,,47.3236294,5.0433778
+8731635991,node,So lunch,restaurant,Dijon,,,,47.3272795,5.0493906
+8731635992,node,My Roll's Chez Rosie,restaurant,Dijon,,,https://www.myrollsdijon.com,47.3276069,5.0491098
+8735825321,node,Le Jacquemart,hotel,Dijon,,,,47.3235554,5.0435638
+8735825333,node,La Maison des Cariatides,restaurant,Dijon,"28 Rue Chaudronnerie, 21000, Dijon",21000,https://www.maisondescariatides.com/,47.3228898,5.0440946
+8818281382,node,Le Montchapet,hotel,Dijon,,,,47.3273197,5.0333565
+8848963625,node,Le 75,restaurant,Dijon,,,,47.3393522,5.0464427
+8923062741,node,Jiu,restaurant,Dijon,,,https://app.aji-code.com/place/252178,47.3187321,5.0352882
+8932724760,node,Burger restaurant,restaurant,Dijon,,,,47.3266181,5.0401177
+8951584670,node,Hôtel du Stade,hotel,Dijon,,,,47.3217486,5.0532288
+8985946017,node,Le Nid,restaurant,Dijon,61 Rue des Godrans,,,47.3224783,5.0384475
+8993709865,node,Holly's Diner,restaurant,Dijon,,,,47.3128732,5.0902639
+9041217541,node,Malo,restaurant,Dijon,,,,47.3233862,5.0355917
+9043603375,node,Les Docks de Bourgogne,restaurant,Dijon,"7 Avenue Albert 1er, 21000, Dijon",21000,https://www.lesdocksdebourgogne.fr,47.3224172,5.0253954
+9043630597,node,Le Chamois,restaurant,Dijon,"16 Avenue Garibaldi, 21000, Dijon",21000,https://www.restaurantlechamoisdijon.fr/,47.3279419,5.0443032
+9053363798,node,Kisoro,restaurant,Dijon,,,,47.3243855,5.0293918
+9151990243,node,Les Cornichons,restaurant,Dijon,"42 Avenue de Stalingrad, 21000, Dijon",21000,http://www.lavapeur.com/brasserie,47.3459421,5.0597678
+9282954849,node,Eat Salad,restaurant,Dijon,,,,47.3566782,5.0392595
+9320496279,node,Le New Colonial,restaurant,Dijon,,,,47.3290509,5.0383976
+9340586689,node,Restaurant William Frachot,restaurant,Dijon,,,https://www.chapeau-rouge.fr/fr/restaurant-gastronomique-dijon,47.3212699,5.0357882
+9376527438,node,Eat salad,restaurant,Dijon,,,,47.3229859,5.0369428
+9438171782,node,Le Gustave,restaurant,Dijon,,,https://lyc-lecastel-dijon.eclat-bfc.fr/la-vie-de-l-etablissement/restaurants-pedagogiques/,47.31066,5.0364722
+9442805146,node,Oh !! Casse Croute,restaurant,Dijon,,,,47.3285159,5.054391
+9505171432,node,My Thaï,restaurant,Dijon,,,,47.3234097,5.0306576
+9562122199,node,L'alsacien Dijon,restaurant,Dijon,,,https://www.lalsacien.com/restaurant-alsacien-flammekueche-dijon/,47.3231337,5.0366033
+9730420070,node,La Table des Climats,restaurant,Dijon,,,https://www.latabledesclimats.fr/,47.317084,5.0304203
+9730420073,node,Hilton,hotel,Dijon,,,,47.3165095,5.030179
+9735132127,node,Holiday Inn Express,hotel,Dijon,,,,47.326962,5.0762383
+9737359417,node,Le Brasserie Des Loges,restaurant,Dijon,,,,47.3210501,5.043004
+9769036518,node,Bouillon Notre-Dame,restaurant,Dijon,,,,47.3226737,5.04096
+9784662486,node,Madeleine Café,restaurant,Dijon,,,https://madeleinecafe.fr/,47.3226954,5.042899
+9883059623,node,Le Trappeur,restaurant,Dijon,,,https://letrappeur-dijon.net,47.3180942,5.0415178
+9885509252,node,Sushi d'or,restaurant,Dijon,,,https://www.sushidordijon.com/,47.3209854,5.0398547
+9908227734,node,Sartaj,restaurant,Dijon,,,,47.3189356,5.0371857
+9908227736,node,Al Tarboush,restaurant,Dijon,68 Rue Berbisey,,,47.3184538,5.0364447
+9908227738,node,Chez l'Ben,restaurant,Dijon,,,,47.3178117,5.0352296
+9910078917,node,Bangkok Factory,restaurant,Dijon,,,,47.3306452,5.0432357
+9974166062,node,Xich Lô,restaurant,Dijon,,,,47.3237257,5.0310727
+10007245708,node,Meurette & Persillé,restaurant,Dijon,,,,47.317272,5.0296521
+10045981219,node,Awan Dimsum,restaurant,Dijon,,,,47.3184667,5.0356452
+10058425983,node,Aux baguettes d'or,restaurant,Dijon,,,,47.3150009,5.0994262
+10069862989,node,Rotisserie Nilamin,restaurant,Dijon,,,,47.3290617,5.0385747
+10077614230,node,Meridio,restaurant,Dijon,,,,47.319985,5.0396515
+10077624631,node,Le Kassoumay,restaurant,Dijon,,,,47.3188917,5.0371227
+10079435875,node,Mon Amie Suzette,restaurant,Dijon,,,,47.3224074,5.0391519
+10079594759,node,Lucilla – Le Clan des Mamma,restaurant,Dijon,,,https://www.leclandesmamma.com/lucilla-dijon/,47.3239791,5.0386028
+10079594761,node,Fu Yun,restaurant,Dijon,,,,47.323702,5.0385151
+10079704300,node,Les 3 Bures,restaurant,Dijon,,,http://www.les3bures.com/,47.3242935,5.039619
+10080283082,node,Place d’Italie,restaurant,Dijon,"4-6 Place des Cordeliers, 21000, Dijon",21000,https://placeditaliedijon.fr/,47.3191146,5.0404047
+10111282768,node,Saison,restaurant,Dijon,,,https://www.saison-restaurant.fr/,47.3228563,5.0438508
+10131924284,node,La cantine de la Fourmilière,restaurant,Dijon,,,https://www.lafourmiliere-dijon.fr/,47.332857,5.0422941
+10214689126,node,Kyriad Prestige Dijon Nord Valmy,hotel,Dijon,"Impasse aux Charmes d'Asnières, 21000, Dijon",21000,https://prestige-dijon-nord.kyriad.com,47.360422,5.0496171
+10308687826,node,Trilogie et saveurs,restaurant,Dijon,78 Rue Vannerie,,https://trilogie-saveurs.eatbu.com/,47.3221985,5.0451983
+10589393665,node,Hôtel Thurot,hotel,Dijon,,,,47.3265675,5.0281856
+10612639492,node,Slice Pizza,restaurant,Dijon,,,,47.3189089,5.0338091
+10665701962,node,Chez Mes Sœurs,restaurant,Dijon,,,,47.3227203,5.0405963
+10674876060,node,Ganesh Akash,restaurant,Dijon,,,,47.324354,5.0433941
+10678286011,node,Côté Sushi,restaurant,Dijon,,,https://cotesushi.com/restaurants/3789-cote-sushi-dijon,47.3235222,5.0392912
+10680682180,node,Mezze du Liban,restaurant,Dijon,"31 Rue Chabot-Charny, 21000, Dijon",21000,,47.3204606,5.0431657
+10771298557,node,,hotel,Dijon,,,,47.3496404,5.0731958
+10784440481,node,3 Brasseurs,restaurant,Dijon,,,https://restaurants.3brasseurs.com/fr/3-brasseurs-dijon-toison-d-or,47.3561314,5.051854
+10816701854,node,Pizza Saint-Sauveur,restaurant,Dijon,,,,47.3024893,5.1329077
+10820454316,node,La Rotisserie des Halles,restaurant,Dijon,,,https://www.larotisseriedeshallesdijon.fr/,47.3231314,5.0396934
+10832420187,node,Quetign'eat,restaurant,Dijon,,,,47.3136957,5.1109917
+10844529929,node,ChanhChhay,restaurant,Dijon,,,,47.321689,5.0472449
+10846826110,node,Nuage,restaurant,Dijon,,,,47.3199369,5.0363328
+10852736607,node,Clos des Saveurs,restaurant,Dijon,,,https://le-clos-des-saveurs.eatbu.com/?lang=fr,47.3227772,5.0453505
+10862665065,node,Tomah'grill,restaurant,Dijon,,,,47.3078899,5.1058169
+10939040152,node,Cave,restaurant,Dijon,,,https://cave.restaurant/,47.3220653,5.0454502
+10975951837,node,Simone,restaurant,Dijon,,,,47.324062,5.0385821
+11080997117,node,Factory Crepes,restaurant,Dijon,,,,47.3231446,5.0327432
+11080999181,node,My wok,restaurant,Dijon,,,,47.3231543,5.032771
+11081006195,node,Pho Viet,restaurant,Dijon,,,,47.3251994,5.0449822
+11108206162,node,Taj Mahal,restaurant,Dijon,,,,47.3204868,5.0414643
+11271529947,node,Hôtel Lamartine,hotel,Dijon,,,,47.3210192,5.0399114
+11355478169,node,La Mia Cucina,restaurant,Dijon,,,,47.3446218,5.0644394
+11409756512,node,Cibo,restaurant,Dijon,,,https://www.cibo.restaurant,47.3219045,5.0454523
+11462554677,node,A la bonne heure,restaurant,Dijon,,,,47.3560464,5.0518157
+11466111062,node,Le Central,restaurant,Dijon,,,,47.3230489,5.0375799
+11466120064,node,Brasserie François,restaurant,Dijon,,,,47.3229152,5.0397198
+11466120462,node,Le p'tit Zinc,restaurant,Dijon,,,,47.3227952,5.0400628
+11489645853,node,Comptoir de la cité,restaurant,Dijon,,,https://www.lecomptoirdelacite.fr/,47.3175413,5.0305226
+11578480639,node,La Chouchou,restaurant,Dijon,"42 Rue Amiral Pierre, 21000, Dijon",21000,,47.3032251,5.0583353
+11595002291,node,La P'tite Trattoria,restaurant,Dijon,,,,47.3218744,5.0497516
+11601973037,node,Royal Buffet,restaurant,Dijon,"3 Impasse de Reggio, 21000, Dijon",21000,https://royalbuffetdijon.fr/,47.3392648,5.0682379
+11642134694,node,Dadas Food,restaurant,Dijon,,,,47.3475334,5.1841831
+11814139686,node,,restaurant,Dijon,,,,47.3633468,4.8982923
+11824196214,node,Gîte Amazonia Dijon,hotel,Dijon,,,https://www.giteamazoniadijon.fr,47.3300918,5.0564262
+11900429204,node,In Teglia,restaurant,Dijon,"4 Rue Guillaume Tell, 21000, Dijon",21000,,47.326761,5.0285732
+11945136556,node,Nomad Hôtel,hotel,Dijon,"30 Rue des Perrières, 21000, Dijon",21000,https://www.nomad-hotels.com/hotel/nomad-hotel-dijon,47.3245517,5.0274029
+11979103021,node,Residhome Dijon Cité des Vignes,hotel,Dijon,1 Avenue de l'Ouche,,https://www.residhome.com/residence-hoteliere-aparthotel-dijon-400.html,47.3183701,5.0282237
+12014601539,node,Table du Cap,restaurant,Dijon,,,https://www.restaurant-tableducap-dijon.fr/,47.3425284,5.0674105
+12033476364,node,ibis Styles Dijon Sud Domaine de Beauregard,hotel,Dijon,,,https://all.accor.com/hotel/B7R6/index.fr.shtml,47.2717163,5.0427975
+12033532044,node,Chez Cocotte & Moustache,restaurant,Dijon,,,,47.277652,5.0571234
+12175008678,node,La Cave se Rebiffe,restaurant,Dijon,,,,47.3226229,5.045559
+12208504747,node,Aloft Dijon,hotel,Dijon,,,,47.3236121,5.037034
+12209806401,node,Café Du Crucifix,restaurant,Dijon,"8 Rue Nationale, 21800, Crimolois",21800,,47.2752207,5.1201127
+12214765925,node,Chez Mes Sœurs,restaurant,Dijon,,,https://www.chezmessoeurs.fr,47.3520333,5.0429973
+12227998893,node,Pizza Bonaparte,restaurant,Dijon,,,,47.1912314,5.3919436
+12254999642,node,Döner Kebab,restaurant,Dijon,,,,47.3024779,5.050477
+12256311417,node,La Montagne,restaurant,Dijon,,,,47.3896736,4.9370151
+12293580215,node,Genlis Pizza,restaurant,Dijon,,,,47.2414056,5.2195587
+12306954164,node,O Comaven,restaurant,Dijon,,,,47.3231805,5.0385359
+12412746378,node,Royal Kebab,restaurant,Dijon,,,,47.194307,5.3885369
+12430188102,node,Le Petit Blanc,restaurant,Dijon,,,,47.4004653,5.1423294
+12488018811,node,Dédé Restaurant,restaurant,Dijon,,,,47.3148467,5.0503959
+12488626714,node,Dédé Restaurant,restaurant,Dijon,54 Boulevard Voltaire,,,47.3148467,5.0503959
+12504358906,node,Bar de la Terrasse,restaurant,Dijon,,,,47.1867522,5.3983441
+12520226015,node,Le Rougail,restaurant,Dijon,,,https://lacuisinedehanta.fr/,47.2946982,5.0062166
+12541355972,node,Gina,restaurant,Dijon,,,https://www.restaurant-gina.com/,47.3235777,5.0393087
+12617824682,node,Le chat qui pense,restaurant,Dijon,,,,47.3197036,5.0356262
+12626490001,node,Curieuses,restaurant,Dijon,,,,47.3208993,5.033937
+12638763609,node,Domaine de la Roche,restaurant,Dijon,"36 Grande Rue, 21490, Clénay",21490,https://domainedelaroche-restaurant.com/,47.4040632,5.121147
+12640631101,node,Italisamo,restaurant,Dijon,,,https://italisamo.com/,47.3058273,5.0988489
+12656964466,node,Le Jardin De Faustine,restaurant,Dijon,,,,47.2916891,5.0990937
+12662537991,node,Résidence Orfea Dijon,hotel,Dijon,"35 Cour de la Gare Pierre Semard, 21000, Dijon",21000,,47.3236182,5.0262911
+12769147370,node,Chez Odile,restaurant,Dijon,"5 Rue Docteur André Brulet, 21000, Dijon",21000,,47.3262944,5.0577294
+12770422563,node,Le pré Saint Georges,restaurant,Dijon,,,,47.6336585,4.8717408
+12836998251,node,Frantalia,restaurant,Dijon,,,,47.3062376,5.0985497
+12865230376,node,Turnip,restaurant,Dijon,,,https://www.turnip-dijon.com/,47.3200275,5.0386488
+12915278591,node,La Hulotte,restaurant,Dijon,,,,47.4683017,5.2685905
+12915618584,node,Hotel Le Relais,hotel,Dijon,,,https://www.hotelrestaurantlerelaisbeze.com/,47.4669571,5.2694945
+12915618585,node,Auberge Le Renard'eau,hotel,Dijon,,,https://www.auberge-renardeau-21.fr/hotel,47.4683131,5.2703889
+12915618586,node,Hotel Le Bourguignon,hotel,Dijon,,,https://www.le-bourguignon.com/,47.4661445,5.2700069
+13017857146,node,Best Western Dijon Quetigny,hotel,Dijon,,,,47.3123145,5.0899784
+13028646368,node,P&P,restaurant,Dijon,,,,47.3577968,5.0517405
+13036061797,node,ibis Styles Dijon Sud Domaine de Beauregard,hotel,Dijon,,,https://all.accor.com/hotel/B7R6/index.fr.shtml,47.2712475,5.0427813
+13036061798,node,La Table de Beauregard,restaurant,Dijon,,,,47.2712114,5.0432248
+13036061799,node,Le Cosy,restaurant,Dijon,,,,47.2722065,5.0463218
+13036061800,node,L'Authentique,restaurant,Dijon,,,https://www.restaurant-lauthentique.fr/,47.2725794,5.0476343
+13073559474,node,Summus,restaurant,Dijon,,,,47.3091636,4.710537
+13092883353,node,Valentine et Hugo,restaurant,Dijon,,,,47.3203731,5.0411353
+13096394661,node,Tran,restaurant,Dijon,,,,47.3579086,5.0519163
+13152295562,node,Le Marta,restaurant,Dijon,,,,47.3266224,5.0465741
+13175065902,node,Les Epleumiens,restaurant,Dijon,"267 Route de Gray, 21850",21850,,47.3309327,5.0799148
+13230628682,node,Restaurant de l'Horloge,restaurant,Dijon,,,,47.3561844,5.0518161
+13230630634,node,My Wok,restaurant,Dijon,,,,47.3562361,5.0517526
+13305325797,node,Le Crusoé,restaurant,Dijon,,,https://lecrusoe.fr,47.3013615,5.0506094
+13345167820,node,Da Vincy,restaurant,Dijon,,,,47.1879066,5.398271
+13386288356,node,Comptoir du green,restaurant,Dijon,,,,47.310735,5.0901438
+13389678982,node,I Fratelli,restaurant,Dijon,,,https://ifratellidijon.fr/,47.3381934,5.063411
+13395938136,node,Auberge du Vieux Pressoir,restaurant,Dijon,,,https://www.aubergeduvieuxpressoir.com/index.php,47.2933579,5.0012854
+13419257705,node,Relais de la Source,restaurant,Dijon,,,https://www.relaisdelasource.com/le-restaurant/,47.4409612,4.7883707
+13420760900,node,La Clairière,restaurant,Dijon,,,https://www.restogitelaclairiere.com/,47.4550453,4.8827496
+13484012344,node,l'etaP,restaurant,Dijon,,,https://souber.fr/letap/,47.2710444,5.0597888
+13611092063,node,Maison L'Essentiel,restaurant,Dijon,,,https://restaurant-lessentiel-dijon.fr/,47.3296156,5.0242499
+13774962067,node,Pica Pica,restaurant,Dijon,,,https://www.picapica-dijon.fr/,47.3213952,5.038427
+13839289409,node,Le 38,restaurant,Dijon,,,https://www.mlebrunch.com,47.3146945,5.0469719
+13840507910,node,Ô Palais,restaurant,Dijon,,,,47.3303782,5.0564713
+13850964071,node,Africkanisch,restaurant,Dijon,,,,47.3238592,5.0293411
+13852400221,node,Kinomai,restaurant,Dijon,,,,47.3257614,5.0287946
+13990488351,node,O' Crousti Poulet,restaurant,Dijon,,,https://ocroustipouletoriginal.com/restaurant/dijon,47.3215187,5.048037
+13990500182,node,O' Crousti Poulet,restaurant,Dijon,,,https://ocroustipouletoriginal.com/restaurant/dijon,47.3386956,5.0675922
+13990875221,node,Bohébon,restaurant,Dijon,,,,47.3558217,5.0509672
+13990875223,node,It-Trattoria,restaurant,Dijon,,,,47.3559706,5.0515896
+13992895369,node,Crêp'Eat,restaurant,Dijon,,,,47.3559901,5.0515052
+13992895373,node,Pizza Paolo,restaurant,Dijon,,,,47.356176,5.0518325
+13992895374,node,Only Gan,restaurant,Dijon,,,,47.3562343,5.0517027
+13992895375,node,Mistral,restaurant,Dijon,,,,47.3562748,5.0515695

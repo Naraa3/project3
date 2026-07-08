@@ -1,0 +1,905 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+243723242,node,La Taverne de Saint-Malo,restaurant,Strasbourg,,,https://www.tavernedesaintmalo.fr/,48.6024117,7.7542772
+243739472,node,B&B HOTEL,hotel,Strasbourg,,,hotel-bb.com,48.6043709,7.7589583
+243740026,node,Hôtel Kyriad,hotel,Strasbourg,,,,48.6052558,7.7591943
+251005717,node,L'Écrin des Saveurs,restaurant,Strasbourg,,,https://www.ecrinsaveurs.com/,48.5594435,7.7515147
+263359311,node,Li & Li,restaurant,Strasbourg,,,,48.5650342,7.7644758
+263359317,node,Au Cheval Blanc,restaurant,Strasbourg,,,https://au-cheval-blanc-strasbourg.edan.io/,48.5660853,7.7689462
+288171145,node,Brasserie Louise,restaurant,Strasbourg,1 Rue de la Brigade Alsace-Lorraine,,,48.5764146,7.7536619
+288171147,node,À l'Ancienne Douane,restaurant,Strasbourg,,,,48.5795031,7.7500512
+288171148,node,Flam's,restaurant,Strasbourg,"19 Rue d'Austerlitz, 67000, Strasbourg",67000,https://flams.fr/index.php/nos-restaurants/flams-strasbourg-austerlitz/,48.5783919,7.7527939
+288890519,node,Le Najiba,restaurant,Strasbourg,"6 Route d'Oberhausbergen, 67200, Strasbourg",67200,https://www.restaurant-le-najiba.com/,48.5913473,7.7235394
+289483542,node,Le Monastir,restaurant,Strasbourg,,,,48.5912413,7.7548478
+393401407,node,Père Benoit,hotel,Strasbourg,,,http://www.hotel-perebenoit.com,48.5323253,7.6351034
+393401408,node,Steinkeller,restaurant,Strasbourg,,,http://www.hotel-perebenoit.com,48.5322247,7.6350739
+432826549,node,La Louisiane,restaurant,Strasbourg,,,https://www.hotel-montagne-verte-strasbourg.com/restaurant-proche-centre-historique-strasbourg-alsace,48.5726312,7.7288194
+471431749,node,Le Fossile,restaurant,Strasbourg,,,,48.5785496,7.7537573
+474726529,node,Léonor,hotel,Strasbourg,"11 Rue de la Nuée Bleue, 67000, Strasbourg",67000,,48.5859515,7.7473073
+475337701,node,Pfifferbriader,restaurant,Strasbourg,14 Place du Marché aux Cochons de Lait,,https://www.winstublepfiff.com/,48.580241,7.7511713
+475345638,node,Hôtel des Arts,hotel,Strasbourg,10,,,48.5803478,7.7513161
+475378678,node,Crep'ess,restaurant,Strasbourg,5,,,48.5831007,7.7551949
+476032564,node,Au Cruchon,restaurant,Strasbourg,"11 Rue des Pucelles, 67000, Strasbourg",67000,https://restaurant-le-cruchon.eatbu.com/?lang=fr,48.5839052,7.7538938
+476622524,node,Zuem Strissel,restaurant,Strasbourg,5,,,48.5801763,7.7507716
+476622543,node,Zehnerglock,restaurant,Strasbourg,"4 Rue du Vieil Hôpital, 67000",67000,,48.5804363,7.7505462
+477829059,node,Le Platz,restaurant,Strasbourg,6;7,,,48.581161,7.7502537
+481251218,node,Les Savons d'Hélène,restaurant,Strasbourg,,,,48.5820439,7.7442385
+485869849,node,One Street,restaurant,Strasbourg,49,,,48.5789511,7.7430828
+486378215,node,Pierrofino,restaurant,Strasbourg,,,,48.5928239,7.7231069
+488478799,node,L'III Apart,hotel,Strasbourg,1,,https://www.alillapart.com,48.5793376,7.7515457
+488631647,node,Sushido,restaurant,Strasbourg,"10 Quai des Bateliers, 67000",67000,,48.5799143,7.7523904
+488631656,node,Palais de Chine,restaurant,Strasbourg,"13 Quai des Bateliers, 67000",67000,,48.5800907,7.7527353
+488631662,node,Maharaja,restaurant,Strasbourg,"15 Quai des Bateliers, 67000",67000,https://maharaja.fr,48.5801937,7.7529872
+488631667,node,Aux Trois Chevaliers,restaurant,Strasbourg,,,,48.5795603,7.7517584
+493774595,node,Le Purgatoire,restaurant,Strasbourg,,,https://lepurgatoire.alsace/,48.5795454,7.7574719
+498332915,node,La maison d'Orient,restaurant,Strasbourg,6,,,48.5814837,7.7706614
+501820179,node,Tandem,hotel,Strasbourg,"2 Place de la Gare, 67000, Strasbourg",67000,https://hotel-tandem.fr,48.5838183,7.735011
+501836911,node,Hôtel Le Bristol,hotel,Strasbourg,,,,48.5838692,7.7357832
+501836914,node,Arok,hotel,Strasbourg,,,,48.583931,7.7360759
+501850511,node,Restaurant Brasserie L'Anatolie (Titan),restaurant,Strasbourg,,,,48.5839098,7.7370412
+505383839,node,de:ja,restaurant,Strasbourg,,,https://www.deja-restaurant.com,48.5873526,7.7685662
+506375258,node,Anatolian garden,restaurant,Strasbourg,,,,48.5852473,7.7775658
+513196770,node,Au Cygne,hotel,Strasbourg,38,,,48.4875952,7.7150023
+536733107,node,Resto Kool,restaurant,Strasbourg,,,,48.5744969,7.7256192
+538810549,node,L'Eveil des Sens,restaurant,Strasbourg,,,,48.5809118,7.7433053
+538810591,node,Le Thomasien,restaurant,Strasbourg,,,,48.5807528,7.7432108
+538823823,node,Fischerstub,restaurant,Strasbourg,,,https://www.fischerstub.fr/,48.5998931,7.7428636
+538823847,node,Le Forum,hotel,Strasbourg,,,,48.6009767,7.7448523
+538823848,node,La Cour des Brasseurs,restaurant,Strasbourg,,,,48.6008918,7.7447936
+538843837,node,Cave Schutzenberger,restaurant,Strasbourg,,,,48.6019672,7.745551
+538843843,node,Chez Lili,restaurant,Strasbourg,,,,48.6022303,7.7454139
+538862422,node,Le Massala,restaurant,Strasbourg,,,https://lemassala.fr/,48.6029189,7.7463249
+538862425,node,Chez Chevin,restaurant,Strasbourg,,,,48.6029431,7.7460315
+538992246,node,Aux Quatre Vents,restaurant,Strasbourg,"15 Rue de la Mairie, 67300, Schiltigheim",67300,,48.6042118,7.7477054
+549859969,node,Le Schluthfeld,restaurant,Strasbourg,,,,48.568482,7.7513216
+558989303,node,La Couscousserie,restaurant,Strasbourg,,,,48.6141763,7.7468779
+559009302,node,A la Victoire,hotel,Strasbourg,,,,48.6140925,7.7487456
+559741400,node,Restaurant Napoli,restaurant,Strasbourg,,,,48.5671552,7.7586566
+559741401,node,Lard et Crème,restaurant,Strasbourg,,,https://lard-et-creme.fr/,48.5672116,7.7588658
+560110764,node,Le Divanoo,restaurant,Strasbourg,,,https://www.divanoo.eu/,48.6133231,7.7515715
+560843038,node,Au Bon Coin,restaurant,Strasbourg,,,,48.6146813,7.7328688
+560843039,node,Belfiore,restaurant,Strasbourg,,,,48.6148906,7.732736
+560843048,node,Asian Box Epicerie,restaurant,Strasbourg,,,,48.616215,7.7323449
+560862254,node,Le Scala,restaurant,Strasbourg,,,,48.565476,7.7592597
+561515733,node,A l'Orientale,restaurant,Strasbourg,,,,48.567166,7.7666388
+563973404,node,Au Rocher du Sapin,restaurant,Strasbourg,,,,48.6142405,7.7494747
+564910236,node,Au Bistro du Quai,restaurant,Strasbourg,"11 Quai des Pêcheurs, 67000, Strasbourg",67000,https://aubistrotduquai.fr/,48.5831183,7.7580969
+564910240,node,Mlle 10,restaurant,Strasbourg,,,,48.5830212,7.7579472
+564957173,node,Place de la République,restaurant,Strasbourg,,,,48.6141173,7.7571021
+566133399,node,La Taverne du Quai,restaurant,Strasbourg,"5 Quai de la Bruche, 67000, Strasbourg",67000,,48.5810541,7.7391981
+566133507,node,Au Petit Bois Vert,restaurant,Strasbourg,,,,48.5809397,7.7389403
+567243983,node,Côté Lac,restaurant,Strasbourg,"2 Place de Paris, 67300",67300,https://www.cote-lac.com/,48.6106992,7.7116144
+572451796,node,Le Männele,restaurant,Strasbourg,,,https://lemannele.fr/,48.5979981,7.7609014
+574447019,node,L'Amuse Bouche,restaurant,Strasbourg,,,,48.5882141,7.7577757
+583243084,node,La Rotonde,restaurant,Strasbourg,,,,48.5923955,7.7247856
+585297768,node,L'Albatros,restaurant,Strasbourg,"36 Route d'Oberhausbergen, 67200, Strasbourg",67200,http://www.albatrosresto.com/,48.5920367,7.7198865
+589018818,node,Crêperie Le Moulin Du Diable,restaurant,Strasbourg,29 Rue Finkwiller,,,48.5790691,7.7416235
+597296436,node,La Grande Vitesse,restaurant,Strasbourg,,,,48.5827572,7.7333949
+597329597,node,Pho Kim Saigon,restaurant,Strasbourg,,,,48.5856856,7.7403486
+597452452,node,Au Crocodile,restaurant,Strasbourg,10,,,48.5836422,7.7474524
+599573218,node,La Vignette,restaurant,Strasbourg,29,,https://www.lavignette-strasbourg-robertsau.com,48.6038566,7.7852661
+602633042,node,L'Ottoman,restaurant,Strasbourg,"1A Rue du Doubs, 67100, Strasbourg",67100,,48.5687888,7.7355286
+610318717,node,Ristorante Francesca,restaurant,Strasbourg,,,https://www.francesca.com/,48.5852265,7.7561596
+613667908,node,Maï Thai,restaurant,Strasbourg,,,,48.573824,7.79378
+614559186,node,Ibis,hotel,Strasbourg,"1 Rue de Sébastopol, 67000, Strasbourg",67000,https://all.accor.com/hotel/0640/index.fr.shtml,48.5859733,7.7429105
+614559347,node,Novotel Strasbourg Centre Halles,hotel,Strasbourg,"4 Quai Kléber, 67000, Strasbourg",67000,https://all.accor.com/hotel/0439/index.fr.shtml,48.5858909,7.7427238
+617835449,node,Colbert,restaurant,Strasbourg,"127 Route de Mittelhausbergen, 67200, Strasbourg",67200,https://restaurant-colbert.com/,48.5959275,7.7165137
+617835456,node,Le Pavot,restaurant,Strasbourg,,,,48.5955635,7.7173091
+619787401,node,Kimga,restaurant,Strasbourg,,,https://restaurant-kimga.eatbu.com/,48.5925625,7.7160178
+620845078,node,Chez Gopi,restaurant,Strasbourg,,,,48.6002886,7.7118435
+620845080,node,La Villa d'Asie,restaurant,Strasbourg,,,,48.6001447,7.712173
+621430467,node,La Taverne,restaurant,Strasbourg,,,,48.6017829,7.7088902
+621842919,node,Au Plaisirs d'Asie,restaurant,Strasbourg,58,,,48.5975803,7.7363495
+621842993,node,À l'Abattoir,restaurant,Strasbourg,16,,,48.5996775,7.7344013
+621843168,node,Mermoz,restaurant,Strasbourg,,,,48.6003044,7.7396005
+622052388,node,Les Plaisirs Gourmands,restaurant,Strasbourg,"35 Route du Général de Gaulle, 67300, Schiltigheim",67300,https://les-plaisirs-gourmands.com,48.6005629,7.7391378
+625536927,node,Secrets de table,restaurant,Strasbourg,"39 Rue du 22 Novembre, 67000",67000,,48.582732,7.744598
+634730406,node,San-Marco,restaurant,Strasbourg,,,,48.5625516,7.6991498
+642228673,node,Saveurs & Saisons,restaurant,Strasbourg,239,,,48.5244391,7.708172
+642433842,node,Au Boin Coin,restaurant,Strasbourg,261,,,48.5228092,7.707102
+643987163,node,Shamrock,restaurant,Strasbourg,196,,,48.5212892,7.7051266
+648527096,node,La Tankstell,restaurant,Strasbourg,81 Avenue de Strasbourg,,https://www.latankstell.fr/,48.5398043,7.7339974
+650101119,node,Le Gaulois,restaurant,Strasbourg,20,,,48.5336051,7.7324019
+655432094,node,Le Percheron,restaurant,Strasbourg,,,,48.5456698,7.709826
+658443482,node,Le Belle Vue,restaurant,Strasbourg,,,,48.5402929,7.7103723
+661188943,node,Restaurant Monteleone,restaurant,Strasbourg,,,,48.5886991,7.7469221
+661316613,node,L’Hôtel Roses,hotel,Strasbourg,,,,48.5816356,7.7565275
+661527396,node,Yapan sushi,restaurant,Strasbourg,,,,48.5858895,7.7469782
+661545902,node,Diana Dauphine,hotel,Strasbourg,"30 Rue de la Première Armée, 67000, Strasbourg",67000,,48.5762742,7.7523193
+664308928,node,Ayutthaya,restaurant,Strasbourg,,,,48.5328494,7.6907007
+665114429,node,Pizza Palmariva,restaurant,Strasbourg,,,,48.5425801,7.7076285
+665391166,node,Novotel Café Restaurant,restaurant,Strasbourg,,,,48.5859483,7.7428459
+665411137,node,La Cantinella,restaurant,Strasbourg,,,https://lacantinella.eatbu.com/?lang=fr,48.5864645,7.6958892
+665425426,node,La Semoule d'Or,restaurant,Strasbourg,"40 Rue Boecklin, 67000, Strasbourg",67000,,48.5992641,7.7789862
+665425427,node,La Cocotte,restaurant,Strasbourg,,,,48.6008113,7.7816408
+665487214,node,Les Sales Gosses,restaurant,Strasbourg,,,,48.5915102,7.7514518
+665535030,node,Le Colmar,hotel,Strasbourg,,,,48.583462,7.7381972
+666115064,node,Au Diable Bleu,restaurant,Strasbourg,"1 Rue Saint-Guillaume, 67000",67000,,48.5823712,7.7574478
+666115080,node,Beijing,restaurant,Strasbourg,,,,48.5828189,7.7577686
+666115086,node,Les Culottées,restaurant,Strasbourg,,,,48.5833624,7.7583281
+676652246,node,Les Jambons de Marinette,restaurant,Strasbourg,"28 Route de Strasbourg, 67960, Entzheim",67960,https://www.lesjambonsdemarinette.fr/,48.531388,7.634499
+676652258,node,Buerehof,restaurant,Strasbourg,,,,48.5336615,7.635669
+680173041,node,Maison des Tanneurs,restaurant,Strasbourg,,,,48.5814052,7.7418088
+686683461,node,La Table Chaude,restaurant,Strasbourg,,,,48.6010795,7.7388606
+686683479,node,Odouro,restaurant,Strasbourg,,,,48.6022444,7.7387256
+686683481,node,Banelao,restaurant,Strasbourg,2 Route de Hausbergen,,https://www.banelao.fr/,48.6056881,7.7364325
+706612446,node,Au Tilleul,hotel,Strasbourg,,,,48.6141032,7.6951615
+706612495,node,Au Tilleul,restaurant,Strasbourg,"5 Rue de Strasbourg, 67206",67206,https://www.autilleul.fr/,48.6143453,7.6950584
+739667755,node,Auberge du Hans,hotel,Strasbourg,,,,48.6330955,7.7537715
+739667765,node,Au Fil de l'Eau,restaurant,Strasbourg,,,,48.6332105,7.7537138
+741546692,node,La Croix d'Or,restaurant,Strasbourg,"8 Place du Général de Gaulle, 67460",67460,https://www.alacroixdor.fr/la-croix-dor-cuisine-traditionnelle.html,48.6353085,7.7416021
+742346371,node,Le Cyrano,restaurant,Strasbourg,,,https://restaurantlecyrano.fr,48.5884905,7.7405237
+759949705,node,L'Argentoratum,restaurant,Strasbourg,,,,48.5814595,7.7400856
+760638824,node,P'tite fontaine,restaurant,Strasbourg,,,,48.5814307,7.7391863
+760639085,node,À la Vieille Tour,restaurant,Strasbourg,,,,48.5812816,7.7393778
+761648332,node,Aux Portes du Kochersberg,restaurant,Strasbourg,,,,48.6122568,7.667838
+763501163,node,À l'Étrier,restaurant,Strasbourg,,,,48.6492292,7.7520505
+763501168,node,À l'Étrier,hotel,Strasbourg,,,,48.6493173,7.7520045
+765910276,node,À l'Aigle d'Or,hotel,Strasbourg,,,,48.6488033,7.7532414
+765910330,node,Aux Petits Oignons,restaurant,Strasbourg,,,,48.6477493,7.7551939
+775973297,node,Zuem Ysehuet,restaurant,Strasbourg,,,,48.589762,7.7633251
+823724205,node,Restaurant À l'Ange,restaurant,Strasbourg,,,https://restaurantalange.com/,48.4899919,7.6632114
+823724206,node,Restaurant de la Gare,restaurant,Strasbourg,,,https://restaurantgarelipsheim.com/,48.4904613,7.6726466
+872175035,node,Cour du Corbeau,hotel,Strasbourg,,,,48.5788165,7.7526179
+872175040,node,Au Potiron,restaurant,Strasbourg,"24 Rue Sainte-Madeleine, 67000, Strasbourg",67000,https://au-potiron.eatbu.com,48.5788826,7.7548356
+872175044,node,Brasserie Au Canon,restaurant,Strasbourg,"1 Place du Corbeau, 67000",67000,,48.5790157,7.7517065
+872484525,node,L'Ancienne Chapelle,restaurant,Strasbourg,,,,48.5790387,7.7542842
+872484611,node,Gavroche,restaurant,Strasbourg,,,,48.5785215,7.7529674
+872484627,node,Le Cosy,restaurant,Strasbourg,,,,48.5790483,7.7534775
+872484632,node,La Laguna,restaurant,Strasbourg,,,https://www.lalagunastrasbourg.fr,48.5789076,7.7534433
+872484637,node,Le Banquet des Sophistes,restaurant,Strasbourg,"5 Rue d'Austerlitz, 67000, Strasbourg",67000,,48.5787778,7.7520738
+872484653,node,Italian Trattoria,restaurant,Strasbourg,,,,48.5783306,7.7525186
+872597568,node,Restaurant Les Wackes - Elsassich Bistrot,restaurant,Strasbourg,,,,48.5791726,7.7583471
+872597600,node,Ganesha,restaurant,Strasbourg,,,https://restaurantganesha.com/,48.5794233,7.7580999
+873923061,node,Persia,restaurant,Strasbourg,,,https://restaurant-persia.eatbu.com,48.5789318,7.7603116
+897018890,node,Brasserie Chez Louise,restaurant,Strasbourg,,,,48.5999432,7.699612
+899426124,node,Au Pont Saint-Martin,restaurant,Strasbourg,,,https://www.pont-saint-martin.com/,48.580024,7.742842
+899484491,node,À l'Étoile,restaurant,Strasbourg,,,,48.6056413,7.6865073
+914450249,node,La Grange,restaurant,Strasbourg,,,,48.5570411,7.6140536
+939503570,node,Brasserie de la Gare,restaurant,Strasbourg,,,,48.6121383,7.742874
+941870966,node,Le Petit Régal,restaurant,Strasbourg,"1A Place de l'Église, 67300, Schiltigheim",67300,,48.6068626,7.748973
+944541246,node,Au Cheval Blanc,restaurant,Strasbourg,"25 Rue Principale, 67300, Schiltigheim",67300,,48.6062053,7.7518767
+1057156699,node,Auberge d'Eschau,restaurant,Strasbourg,30a,,,48.488378,7.7301009
+1093791512,node,Le Jardin Secret,restaurant,Strasbourg,,,,48.6648596,7.8251948
+1135179382,node,Au Boeuf Rouge,restaurant,Strasbourg,24,,,48.5780639,7.6878643
+1135201199,node,Doy Doy Eckbo,restaurant,Strasbourg,23,,,48.5778778,7.688071
+1159011380,node,Carcasse,restaurant,Strasbourg,,,https://www.restaurant-carcasse.fr,48.5847016,7.6669501
+1164930639,node,Au Tivoli,restaurant,Strasbourg,,,,48.6005497,7.7806349
+1179939502,node,La Bierstub,restaurant,Strasbourg,,,,48.5869994,7.7409898
+1192318668,node,Restaurant au Bois Vert,restaurant,Strasbourg,,,,48.5848962,7.6469191
+1198986427,node,Monte Cristo,restaurant,Strasbourg,,,,48.576702,7.7681118
+1207544365,node,Le New Capri,restaurant,Strasbourg,,,,48.5912148,7.7462119
+1207947905,node,Le Pacha,restaurant,Strasbourg,,,,48.5858995,7.7497346
+1207948031,node,La Chaumière,restaurant,Strasbourg,,,,48.5857975,7.7498371
+1207948057,node,Sushi Opera & Pokés Bowls,restaurant,Strasbourg,,,https://sushi-opera.business.site/,48.5858469,7.7497926
+1207948084,node,Chez Camille,restaurant,Strasbourg,,,,48.5854282,7.7502311
+1210189149,node,Les Innocents,restaurant,Strasbourg,,,,48.5892468,7.74941
+1210189154,node,Sushi's,restaurant,Strasbourg,,,https://www.resto-sushis.com/strasbourg_vosges,48.5899569,7.7493576
+1210841389,node,Chez Victor,restaurant,Strasbourg,,,https://www.chezvictor-tribunal.fr,48.5889616,7.7476801
+1210841531,node,Pierrofino,restaurant,Strasbourg,,,,48.5907626,7.7478287
+1211016688,node,L'Atelier,restaurant,Strasbourg,,,https://www.latelier-restaurant-strasbourg.fr/,48.5889872,7.7528608
+1211141262,node,Phanthong,restaurant,Strasbourg,"13 Rue des Orphelins, 67000, Strasbourg",67000,,48.5788175,7.7549181
+1212831049,node,Les toqués du coin,restaurant,Strasbourg,,,,48.5924874,7.7564838
+1214771804,node,Tong Yuen,restaurant,Strasbourg,,,,48.5901452,7.7443672
+1219111220,node,Le Roi et son Fou,restaurant,Strasbourg,,,,48.5810081,7.7496943
+1230002120,node,FivePizza,restaurant,Strasbourg,,,,48.5774045,7.7686145
+1230002130,node,Romulus,restaurant,Strasbourg,,,,48.5772023,7.7666944
+1230015656,node,Hôtel Esplanade,hotel,Strasbourg,,,,48.5814055,7.7698608
+1239973771,node,Brasserie d'El,restaurant,Strasbourg,,,,48.6072295,7.7228724
+1246670006,node,Au Gobelet d'Or,restaurant,Strasbourg,,,http://augobelet.free.fr/index.htm,48.577184,7.7282545
+1246670071,node,La Vallée du Kashmir,restaurant,Strasbourg,,,https://www.la-vallee-du-kashmir.com/,48.5906336,7.7442589
+1246670079,node,La Fougère / Thach Thao,restaurant,Strasbourg,,,,48.5914929,7.7414231
+1248867872,node,Ibis Styles,hotel,Strasbourg,"1 Quai de Paris, 67000, Strasbourg",67000,https://all.accor.com/hotel/9085/index.fr.shtml,48.584133,7.741344
+1249709890,node,Le grand Shanghai,restaurant,Strasbourg,,,https://legrandshanghai.fr/,48.5840803,7.743117
+1249709892,node,La Grande Muraille,restaurant,Strasbourg,"29 Rue du Vieux Marché aux Vins, 67000, Strasbourg",67000,https://www.restaurantlagrandemuraille.fr,48.5841953,7.7425797
+1249709918,node,Moody's Break,restaurant,Strasbourg,"27 Rue du Vieux Marché aux Vins, 67000, Strasbourg",67000,,48.5840824,7.7421595
+1249709932,node,Le Resto du Boucher,restaurant,Strasbourg,"25 Rue du Jeu des Enfants, 67000",67000,https://www.restoduboucher.fr,48.5836615,7.742267
+1249709972,node,Le Bartholdi,restaurant,Strasbourg,"31 Rue du Vieux Marché aux Vins, 67000, Strasbourg",67000,,48.5842812,7.7429469
+1249709975,node,OKII,restaurant,Strasbourg,"29 Rue du Vieux Marché aux Vins, 67000, Strasbourg",67000,https://okii.fr/,48.5842146,7.7426668
+1249709988,node,Les Chefs d’Oeuvre d'Alsace,restaurant,Strasbourg,,,,48.5825797,7.7394326
+1250274846,node,Au Brasseur,restaurant,Strasbourg,"22 Rue des Veaux, 67000, Strasbourg",67000,http://www.aubrasseur.fr,48.5826016,7.755537
+1250345388,node,Le Schnockeloch,restaurant,Strasbourg,"1 Quai Saint-Jean, 67000, Strasbourg",67000,,48.5827794,7.7381002
+1251333567,node,Au Lion,restaurant,Strasbourg,,,,48.5795041,7.6064216
+1262415928,node,Restaurant la Victoire,restaurant,Strasbourg,,,,48.5839859,7.7588914
+1263063443,node,Le Petit Beefbar,restaurant,Strasbourg,"15 Quai Koch, 67000, Strasbourg",67000,https://beefbar.com/petit-beefbar-strasbourg,48.587421,7.7584394
+1263657406,node,Gutenberg,hotel,Strasbourg,,,,48.5811106,7.7476902
+1268893437,node,Au cheval noir,restaurant,Strasbourg,,,https://www.auchevalnoir.eu/,48.6506279,7.7004994
+1268893561,node,D'Steinmuehl,restaurant,Strasbourg,,,,48.6494214,7.7017262
+1284494154,node,La Tocante,restaurant,Strasbourg,,,https://www.restaurant-latocante.fr/,48.6653374,7.7195026
+1284499004,node,Flam's,restaurant,Strasbourg,"1 Route de Strasbourg, 67550, Vendenheim",67550,https://www.flams.fr/restaurant_vendenheim.html,48.6673634,7.7197127
+1294190200,node,Perle d'orient,restaurant,Strasbourg,11 d,,,48.6735683,7.7172852
+1295721316,node,Ce cher Hans,restaurant,Strasbourg,"10 Route de Brumath, 67550, Vendenheim",67550,http://www.ce-cher-hans.fr/,48.6717209,7.7183914
+1295723131,node,Maison Rouge,restaurant,Strasbourg,"2 Route de Brumath, 67550, Vendenheim",67550,https://www.restaurantmaisonrouge.fr/,48.6699979,7.7190098
+1313169293,node,Au Boudoir de Ly,restaurant,Strasbourg,,,,48.6428898,7.7068552
+1318578523,node,Relais de la Poste,hotel,Strasbourg,,,https://relais-poste.com,48.6609121,7.8230747
+1318633019,node,Au Raisin,restaurant,Strasbourg,,,,48.6448128,7.7218734
+1319782750,node,Restaurant à la Gare,restaurant,Strasbourg,,,,48.6447732,7.7205277
+1342544037,node,Aux Armes de Strasbourg,restaurant,Strasbourg,,,,48.5809152,7.7486397
+1352190839,node,La Mésange,restaurant,Strasbourg,"1 Rue de Dambach, 67100, Strasbourg",67100,,48.5672382,7.7710236
+1353480970,node,Le Chapitre,restaurant,Strasbourg,"95 Rue de Bâle, 67100",67100,,48.5672555,7.7654376
+1354006040,node,Restaurant Beyrouth,restaurant,Strasbourg,"39 Route du Polygone, 67100, Strasbourg",67100,https://www.restaurant-beyrouth-strasbourg.fr/,48.5695135,7.7569105
+1354006065,node,Annam,restaurant,Strasbourg,"44 Route du Polygone, 67100, Strasbourg",67100,,48.5693955,7.7566418
+1445515555,node,Le Continent,restaurant,Strasbourg,,,,48.5794134,7.7140128
+1493316445,node,Hôtel Golf du Kempferhof,hotel,Strasbourg,,,,48.4594067,7.7425665
+1499753689,node,La Croisée des Chemins,restaurant,Strasbourg,,,,48.4914122,7.6800242
+1522736101,node,L’Osthof,restaurant,Strasbourg,,,,48.6818335,7.6929641
+1527903988,node,A la Turca,restaurant,Strasbourg,"Rue Vincent Scotto, 67400",67400,,48.5333016,7.7222262
+1536267616,node,Hôtel d'Alsace,hotel,Strasbourg,"Route de Lyon, 67400",67400,,48.5280534,7.7105117
+1536267633,node,Les Terrasses d'Illkirch,restaurant,Strasbourg,"Route de Lyon, 67400",67400,,48.5280121,7.7104876
+1536268179,node,À l'Agneau,restaurant,Strasbourg,"185 Route de Lyon, 67400",67400,,48.5281906,7.7104989
+1537346561,node,Auberge du Cerf,restaurant,Strasbourg,"Route de Lyon, 67400",67400,,48.5196677,7.7052877
+1556159631,node,Hôtel ClapClap,hotel,Strasbourg,,,,48.5825209,7.7368729
+1558601771,node,La Piazza,restaurant,Strasbourg,,,https://www.pizzeria-la-piazza.fr/,48.5805192,7.7491694
+1574659065,node,Hôtel de la Cathédrale,hotel,Strasbourg,,,,48.5817658,7.7496533
+1588595149,node,Bistrot Coco,restaurant,Strasbourg,,,https://bistrot-coco.fr,48.5796772,7.7487681
+1588615427,node,Le Dahu,restaurant,Strasbourg,,,,48.5795494,7.7487306
+1588700043,node,Iberica,restaurant,Strasbourg,,,https://www.iberica.restaurant/,48.579458,7.7490095
+1588707744,node,La Hache,restaurant,Strasbourg,,,https://la-hache.com/,48.5794778,7.7491519
+1602682569,node,Les Baguettes d'Or,restaurant,Strasbourg,,,,48.5803052,7.7571043
+1605656225,node,L'Oignon,restaurant,Strasbourg,,,,48.5814162,7.7414354
+1610637913,node,Aux Trois Fleurs,restaurant,Strasbourg,"19 Route de Lyon, 67400, Illkirch-Graffenstaden",67400,,48.5371085,7.7277606
+1639772971,node,La Bonne Source,restaurant,Strasbourg,,,https://www.facebook.com/people/Restaurant-La-Bonne-Source/100063562091760/,48.5631982,7.7597003
+1639772974,node,Ishtar,restaurant,Strasbourg,,,,48.5623499,7.7629019
+1639772983,node,Le Croque Bedaine,restaurant,Strasbourg,,,,48.5648776,7.7598971
+1646121488,node,Le Cannibale,restaurant,Strasbourg,,,,48.5694329,7.7357608
+1659083600,node,Brasserie Trois Épis,restaurant,Strasbourg,,,,48.6068687,7.7362875
+1659083610,node,Brasserie À la Cave Profonde,restaurant,Strasbourg,,,https://caveprofonde.fr/fr,48.6070558,7.735581
+1661950919,node,Pizzeria Resto Jad,restaurant,Strasbourg,"75 Avenue de la Forêt Noire, 67000, Strasbourg",67000,,48.5808567,7.7768578
+1709950738,node,Restaurant À la Charrue,restaurant,Strasbourg,,,,48.6806847,7.6946546
+1716670625,node,La Corde à Linge,restaurant,Strasbourg,,,https://www.lacordealinge.com/,48.5812297,7.7425872
+1716679049,node,Régent Petite France,hotel,Strasbourg,"5 Rue des Moulins, 67000",67000,https://regent-petite-france.com/,48.5808512,7.7419549
+1716726154,node,Hannong,hotel,Strasbourg,,,,48.5828606,7.7431496
+1716874571,node,Le Baeckeoffe d'Alsace,restaurant,Strasbourg,"14 Rue des Moulins, 67000",67000,https://baeckeoffe.com,48.5803444,7.7419655
+1716908649,node,La Foglia,restaurant,Strasbourg,"6 Rue François-Xavier Richter, 67000, Strasbourg",67000,https://www.lafogliastrasbourg.fr/,48.5887162,7.7791607
+1770233386,node,Café Broglie,restaurant,Strasbourg,,,,48.5842702,7.7494539
+1796171139,node,Le Grillon,restaurant,Strasbourg,,,,48.661691,7.821613
+1796172742,node,O'Pizzicato,restaurant,Strasbourg,,,,48.6636321,7.8226602
+1818052924,node,Le K,restaurant,Strasbourg,"2 Avenue de l'Europe, 67300",67300,,48.6118298,7.7136285
+1846887362,node,Le Tarbouche,restaurant,Strasbourg,,,,48.5812772,7.7570802
+1865702225,node,Chez Paulette,restaurant,Strasbourg,,,,48.5684293,7.7547779
+1889477149,node,Du Lac Du Baggersee,restaurant,Strasbourg,"Rue du Baggersee, Strasbourg",,,48.5428703,7.7480452
+1907030735,node,Aux Trois Cigognes,restaurant,Strasbourg,,,,48.563154,7.7621079
+1907030736,node,Le Rajustant,restaurant,Strasbourg,,,,48.562988,7.7641868
+1907954552,node,Au Coq Blanc,restaurant,Strasbourg,,,,48.6034067,7.7836902
+1907977817,node,Au Pont d'Anvers,restaurant,Strasbourg,,,,48.5839505,7.7751816
+1970477047,node,Hôtel Beaucour,hotel,Strasbourg,,,,48.5786482,7.7514785
+1970477053,node,Rasoi,restaurant,Strasbourg,"2 Rue des Bouchers, 67000, Strasbourg",67000,https://rasoistrasbourg.com,48.5789316,7.7511137
+1987095938,node,Nemrut,restaurant,Strasbourg,,,,48.5840072,7.7367918
+1988923503,node,Thai Square,restaurant,Strasbourg,,,https://thaisquare.eatbu.com/,48.586884,7.7431944
+2000610942,node,Shahi Pakwan,restaurant,Strasbourg,"43 Rue Finkwiller, 67000, Strasbourg",67000,https://restaurantshahipakwan.com/take-away/,48.5789479,7.7426477
+2001604212,node,L'Instant Plaisir,restaurant,Strasbourg,,,,48.5658419,7.7589622
+2001604213,node,La Table Verte,restaurant,Strasbourg,"73 Rue Principale, 67206",67206,https://www.latableverte.com/,48.6146468,7.6947095
+2015872088,node,Milano Torino MiTo,restaurant,Strasbourg,"8 Place d'Austerlitz, 67000",67000,,48.577673,7.7524258
+2031541816,node,Restaurant de la Gare,restaurant,Strasbourg,,,,48.666595,7.7172684
+2031541828,node,Villa de Chine,restaurant,Strasbourg,,,,48.6701824,7.7068531
+2035907991,node,La Locomotive,restaurant,Strasbourg,,,,48.6309888,7.7194421
+2035907992,node,Pizzeria San Angelo,restaurant,Strasbourg,,,,48.6312341,7.7194112
+2093998061,node,Hôtel Maison Rouge,hotel,Strasbourg,,,,48.5823357,7.7458717
+2095562598,node,Steakhouse District,restaurant,Strasbourg,,,,48.5819992,7.7471831
+2095562601,node,Le Square Delicatessen,restaurant,Strasbourg,,,,48.5823339,7.7470122
+2095562603,node,Il Forno,restaurant,Strasbourg,,,https://www.trattoria-ilforno.fr,48.5823829,7.7464553
+2182370494,node,Flam's,restaurant,Strasbourg,"29 Rue des Frères, 67000, Strasbourg",67000,https://www.flams.fr/restaurant_strasbourg.html,48.5830935,7.753627
+2204804205,node,Hôtel Ibis Strasbourg Centre Petite France,hotel,Strasbourg,,,,48.582582,7.7372178
+2263125802,node,Au Saint-Sépulcre,restaurant,Strasbourg,,,,48.5824051,7.7491559
+2270579612,node,Au Petit Mezze,restaurant,Strasbourg,,,,48.5817694,7.7458012
+2270579647,node,Le Petit Bouillon Pharamond,restaurant,Strasbourg,,,,48.5815553,7.7461081
+2270579671,node,S'Thomas Stuebel,restaurant,Strasbourg,,,,48.5808658,7.7438944
+2298841226,node,Adam's Hotel,hotel,Strasbourg,,,,48.5579851,7.6922482
+2360773122,node,Ibis Budget,hotel,Strasbourg,,,,48.5850581,7.7365913
+2360773125,node,Etc Hôtel,hotel,Strasbourg,,,,48.5807781,7.7461575
+2360773133,node,Hôtel Royal Lutecia,hotel,Strasbourg,,,,48.5900077,7.7515914
+2360773146,node,La Cruche d'Or,hotel,Strasbourg,,,,48.5797961,7.7495877
+2360773151,node,Le Kléber Hôtel,hotel,Strasbourg,,,,48.5837567,7.7449251
+2360773156,node,Mercure,hotel,Strasbourg,,,,48.5853439,7.7366121
+2360773175,node,Au cerf d'or,hotel,Strasbourg,,,,48.5778296,7.7493903
+2360896586,node,Hôtel Couvent du Franciscain,hotel,Strasbourg,,,,48.5880068,7.7462497
+2360896593,node,Hôtel de Rohan,hotel,Strasbourg,,,,48.5808998,7.7504131
+2360896600,node,Hôtel de l'Orangerie,hotel,Strasbourg,,,,48.5904289,7.7684455
+2360896614,node,Le 21ème Strasbourg,hotel,Strasbourg,,,,48.5831684,7.7440553
+2360896623,node,Le Grillon,hotel,Strasbourg,,,,48.583877,7.7377251
+2360896628,node,Mercure Strasbourg Centre,hotel,Strasbourg,,,,48.5848822,7.745438
+2360896650,node,Régent Contades,hotel,Strasbourg,,,,48.5856863,7.7582817
+2360896655,node,Sofitel Strasbourg Grande Île,hotel,Strasbourg,"4 Place Saint-Pierre-le-Jeune, 67000, Strasbourg",67000,,48.5850791,7.7461228
+2361234421,node,Ibis Styles,hotel,Strasbourg,"Rue du Maire Kuss, Strasbourg",,,48.5841823,7.7368039
+2361234422,node,Hôtel de l'Ill,hotel,Strasbourg,,,,48.5806264,7.7550351
+2377733603,node,7hotel&SPA,hotel,Strasbourg,67400,67400,https://7hotel.fr/,48.522947,7.739176
+2460847773,node,Le Madras,restaurant,Strasbourg,,,,48.5811465,7.7429424
+2479333761,node,Adagio Petite France,hotel,Strasbourg,"27 Rue de Wasselonne, 67000",67000,https://www.adagio-city.com/fr/hotel-8446-aparthotel-adagio-access-strasbourg-petite-france/index.shtml,48.5792213,7.7322955
+2479333783,node,Mensa,restaurant,Strasbourg,,,,48.5818285,7.732936
+2479333787,node,Le Prince,restaurant,Strasbourg,,,,48.5819638,7.7329485
+2479376241,node,Marco Polo,restaurant,Strasbourg,,,,48.5795785,7.7398837
+2479376242,node,Au Fantassin,restaurant,Strasbourg,,,,48.5810152,7.7391147
+2481697928,node,Ondine,restaurant,Strasbourg,,,,48.5816229,7.7430021
+2486686641,node,The Public House,restaurant,Strasbourg,,,,48.5795137,7.7606206
+2510316836,node,Le Jardin du Pourtales,restaurant,Strasbourg,,,,48.606056,7.7994747
+2510776894,node,Au Coucou des Bois,restaurant,Strasbourg,,,,48.5298891,7.7736068
+2511959416,node,Chez l'Oncle Freddy,restaurant,Strasbourg,9 Rue des Moulins,,https://www.chezlonclefreddy.com/,48.5801733,7.742461
+2511959420,node,La bedaine,restaurant,Strasbourg,,,https://www.facebook.com/LaBedaine/,48.5800091,7.7425508
+2527308435,node,Le 2 - Franchi Pescara,restaurant,Strasbourg,8 Avenue de l'Europe,,https://le-2-franchi-pescara.eatbu.com/,48.5950333,7.7744028
+2556379975,node,Brasserie Les Haras,restaurant,Strasbourg,,,https://les-haras-brasserie.com/,48.5776507,7.742889
+2592090674,node,Pizz'à Gogo,restaurant,Strasbourg,,,https://www.pizzagogo67.fr/,48.4902111,7.6796183
+2595500450,node,Restaurant Irina,restaurant,Strasbourg,"5 Rue du Barrage, 67300, Schiltigheim",67300,https://restaurant-irina-schiltigheim.fr/,48.6038512,7.7511109
+2612160834,node,La Corne d'Or,restaurant,Strasbourg,,,,48.5798386,7.7481108
+2613090221,node,Hôtel Patricia,hotel,Strasbourg,"1 a Rue du Puits, 67000, Strasbourg",67000,https://www.hotelpatricia.fr,48.5796651,7.7468558
+2628198576,node,La Pid'zz,restaurant,Strasbourg,"Route de Lyon, 67400",67400,,48.5372614,7.7281003
+2656224607,node,Chez Yvonne,restaurant,Strasbourg,"10 Rue du Sanglier, 67000",67000,https://www.tripadvisor.co.nz/Restaurant_Review-g187075-d877689-Reviews-Chez_Yvonne-Strasbourg_Bas_Rhin_Grand_Est.html,48.5827666,7.7494911
+2656224618,node,La Vetta,restaurant,Strasbourg,,,,48.5825895,7.7496906
+2656224622,node,Le Torricelli,restaurant,Strasbourg,,,,48.5816656,7.742093
+2656224626,node,Salon de thé Grand'Rue,restaurant,Strasbourg,,,https://www.salondethegrandrue.fr/,48.5818239,7.7423203
+2669740558,node,La Petite Mairie,restaurant,Strasbourg,,,,48.584484,7.751358
+2676660697,node,Dolsot,restaurant,Strasbourg,,,,48.5836706,7.7541176
+2676662296,node,Ô Brazil,restaurant,Strasbourg,"13 Rue du Jeu des Enfants, 67000, Strasbourg",67000,https://www.restaurant-obrazil-strasbourg.fr/,48.5834202,7.7412714
+2676665040,node,Huntun & Mian,restaurant,Strasbourg,"9 Rue des Frères, 67000, Strasbourg",67000,https://www.huntunetmian.com/,48.5827324,7.7522481
+2755562691,node,Block'Out,restaurant,Strasbourg,,,,48.5905258,7.699338
+2765618624,node,Koholã Espace Européen - poke & salad bar,restaurant,Strasbourg,"2 Rue de Dublin, 67300, Schiltigheim",67300,https://www.kohola.fr/,48.6127192,7.710677
+2780843660,node,Le Dix,restaurant,Strasbourg,10,,,48.584455,7.7365257
+2793209877,node,Au pont corbeau,restaurant,Strasbourg,,,,48.5789585,7.7502894
+2813387658,node,L'Homme Sauvage,restaurant,Strasbourg,,,,48.5695071,7.7650893
+2831364858,node,La Cloche à Fromage,restaurant,Strasbourg,,,http://www.laclocheafromage.com/,48.5805925,7.7486497
+2831364859,node,Schatzi,restaurant,Strasbourg,,,,48.5799655,7.7494121
+2835258110,node,Chan Chira,restaurant,Strasbourg,,,,48.5815258,7.7414234
+2835258112,node,Lohkäs,restaurant,Strasbourg,,,https://lohkas.com/,48.5816068,7.7417249
+2836748467,node,Ali Baba,restaurant,Strasbourg,20,,,48.5787337,7.7425716
+2839437601,node,La Choucrouterie,restaurant,Strasbourg,,,,48.5779935,7.7452071
+2839437602,node,Le Bistrot des Copains,restaurant,Strasbourg,"12 Quai Finkwiller, 67000",67000,,48.5786352,7.7449231
+2877576443,node,Flunch,restaurant,Strasbourg,,,,48.5441146,7.7399735
+2884916648,node,L’Entrecôte Cathédrale,restaurant,Strasbourg,,,https://www.entrecotecathedrale.fr/,48.5801763,7.7490402
+2911187824,node,La Boucherie,restaurant,Strasbourg,,,,48.5739592,7.764492
+2911189480,node,Léon de Bruxelles,restaurant,Strasbourg,,,,48.5740817,7.7631214
+2923906880,node,À l'Étoile d'Or,restaurant,Strasbourg,,,,48.6234015,7.6996251
+2931514522,node,Le comptoir de Breuil,restaurant,Strasbourg,,,,48.5843566,7.7515273
+2933447121,node,Mercure Strasbourg Saint-Jean,hotel,Strasbourg,,,,48.5835336,7.7380039
+2967660519,node,La Bolée de Cidre,restaurant,Strasbourg,,,,48.5820239,7.7431127
+2987788771,node,Pizzeria Sarda,restaurant,Strasbourg,,,,48.6030827,7.7828372
+2987788776,node,Le Violon d'Ingres,restaurant,Strasbourg,,,https://www.le-violon-dingres.com/,48.6039281,7.7821029
+2987788804,node,Sushi's,restaurant,Strasbourg,,,https://www.resto-sushis.com,48.5989377,7.7784591
+2987788809,node,Sandkicht,restaurant,Strasbourg,,,,48.5960521,7.7837109
+2987788811,node,Du Côté de chez Anne,restaurant,Strasbourg,,,,48.5958011,7.7849058
+2999530473,node,La pierre à Pizz's,restaurant,Strasbourg,,,,48.6082865,7.6839394
+3014786795,node,Le Sultan,restaurant,Strasbourg,"7 Passage de la Pomme de Pin, 67000, Strasbourg",67000,,48.583882,7.7470301
+3027129062,node,Memphis,restaurant,Strasbourg,,,,48.5739862,7.7641141
+3032950330,node,Harmonie Bowl and Juice,restaurant,Strasbourg,,,https://www.harmoniebowlandjuice.com,48.5830585,7.7548925
+3033297224,node,Hôtel Les Haras,hotel,Strasbourg,,,https://les-haras-hotel.com/,48.5770537,7.742996
+3033303912,node,Petite Gallia,restaurant,Strasbourg,,,https://www.crous-strasbourg.fr/restaurant/cafeteria-la-petite-gallia/,48.5840458,7.7598766
+3036687943,node,Fink'Stuebel,restaurant,Strasbourg,,,,48.5788177,7.742645
+3046492388,node,L'oro di napoli,restaurant,Strasbourg,,,https://pizzeria-lorodinapoli.fr/,48.5645789,7.7663081
+3046492389,node,Les 15 saveurs,restaurant,Strasbourg,,,,48.5645606,7.7663676
+3049131161,node,Brasserie Au Télégraphe,restaurant,Strasbourg,,,,48.5791344,7.7589662
+3049162321,node,La Patrie,restaurant,Strasbourg,,,,48.5798043,7.7609463
+3049301880,node,Abbiocco,restaurant,Strasbourg,,,https://www.abbiocco.fr/,48.5784548,7.7605944
+3049349834,node,Le Luxe,restaurant,Strasbourg,,,,48.5801352,7.7578612
+3049357858,node,Acerola,restaurant,Strasbourg,"Rue du Renard Prêchant, Strasbourg",,,48.5793864,7.7573302
+3074364226,node,Come A Roma,restaurant,Strasbourg,"58 Avenue de la Forêt Noire, 67000;67100;67200",67000;67100;67200,https://www.comearoma.com/,48.5833541,7.77141
+3074364740,node,Essen Snack,restaurant,Strasbourg,,,,48.5832585,7.7712783
+3098283503,node,Le Barbu,restaurant,Strasbourg,,,,48.5816897,7.7457464
+3098283504,node,Mamama,restaurant,Strasbourg,,,,48.5819074,7.7452456
+3098283507,node,Les Fines Gueules,restaurant,Strasbourg,,,,48.5831194,7.7422754
+3164266833,node,Le Boucanier,restaurant,Strasbourg,"1 Place de la Liberté, 67300, Schiltigheim",67300,https://le-boucanier.eatbu.com,48.6060666,7.7530673
+3182489533,node,Scuzi Mamma,restaurant,Strasbourg,,,,48.5819361,7.7466876
+3184155258,node,La Fignette,restaurant,Strasbourg,,,,48.5824457,7.7426664
+3184155259,node,Winstub S'kaechele,restaurant,Strasbourg,,,,48.5822938,7.7427168
+3234049485,node,Villa de Jade,restaurant,Strasbourg,"3 A Rue du Fort, 67118, Geispolsheim",67118,,48.5220419,7.6915418
+3248268261,node,Le Tablier,restaurant,Strasbourg,"22 Route de Strasbourg, 67960, Entzheim",67960,,48.5314999,7.6335201
+3262154329,node,Le 8,restaurant,Strasbourg,,,,48.5724013,7.7469602
+3273958427,node,Kaboul cuisine,restaurant,Strasbourg,,,,48.5824581,7.7362858
+3293108674,node,La Table du Gayot,restaurant,Strasbourg,8 Place du Marché Gayot,,,48.5827037,7.7535521
+3303757915,node,La Panthère,restaurant,Strasbourg,,,https://restaurantlapanthere.com/,48.6065254,7.734315
+3334049276,node,Eater,restaurant,Strasbourg,"19 Rue des Frères, 67000, Strasbourg",67000,,48.5828795,7.7528213
+3334049279,node,Tentations,restaurant,Strasbourg,,,,48.5828443,7.7535024
+3428438776,node,Le Troquet des Kneckes,restaurant,Strasbourg,,,,48.5814704,7.7439789
+3428438778,node,Ristorante Paradiso,restaurant,Strasbourg,,,,48.5791618,7.7426939
+3464906630,node,Le Bistrot d'Antoine,restaurant,Strasbourg,,,,48.5835613,7.7552779
+3467071927,node,Chez Yang,restaurant,Strasbourg,"135 Route de Lyon, 67400",67400,,48.5319153,7.7170954
+3467071928,node,La Table d'Olivier,restaurant,Strasbourg,"Route de Lyon, 67400",67400,,48.5319054,7.716894
+3500037034,node,Tsim Sha Tsui,restaurant,Strasbourg,,,,48.5829483,7.7541307
+3506150415,node,La Crêpe Gourmande,restaurant,Strasbourg,,,,48.580064,7.7491031
+3506150416,node,La vieille enseigne,restaurant,Strasbourg,,,,48.5800111,7.7491654
+3506150417,node,Chez Rita,restaurant,Strasbourg,,,,48.5799464,7.7492286
+3506150418,node,Bastardo,restaurant,Strasbourg,,,,48.5802811,7.7489569
+3506150422,node,Au Gutenberg,restaurant,Strasbourg,,,,48.5809764,7.7487312
+3510214756,node,BonBao,restaurant,Strasbourg,,,https://www.bonbao.fr,48.5810287,7.7429382
+3510214757,node,Caveau Gurtlerhoft,restaurant,Strasbourg,"13 Place de la Cathédrale, 67000",67000,,48.5817648,7.7495182
+3574974710,node,Le Jardin de l'Orangerie,restaurant,Strasbourg,Parc de l'Orangerie,,http://www.jardinorangerie.fr,48.5902076,7.776191
+3602705202,node,La Binchstub Gayot,restaurant,Strasbourg,6 Rue du Tonnelet Rouge,,,48.583175,7.7527276
+3753358364,node,Tsuta Ramen,restaurant,Strasbourg,,,,48.5849368,7.7536644
+3771834275,node,Au Drôle de Zèbre,restaurant,Strasbourg,,,,48.5788164,7.7175881
+3778154957,node,Ristorante Del Arte,restaurant,Strasbourg,"Avenue de Strasbourg, 67400",67400,,48.5452924,7.7406005
+3787990755,node,Naoko,restaurant,Strasbourg,,,,48.5851276,7.7365868
+3791427175,node,Le Clou,restaurant,Strasbourg,,,,48.5827107,7.749111
+3818331777,node,Au Quai de l'Ill,restaurant,Strasbourg,,,,48.5791542,7.7516276
+3901702744,node,Le nika,restaurant,Strasbourg,,,,48.5819084,7.7418264
+3906376849,node,Manicook,restaurant,Strasbourg,"1 Rue du Colonel Lilly, 67640, Fegersheim",67640,,48.5031129,7.6945721
+3976168201,node,Bo & Bun,restaurant,Strasbourg,"2 Rue de la Mairie, 67300, Schiltigheim",67300,https://www.bobun.asia/,48.6040722,7.7501836
+3982028237,node,Da Giorgio,restaurant,Strasbourg,,,,48.5223421,7.6912677
+4058724554,node,Pierres et Gamelles,restaurant,Strasbourg,"19 Rue de la Glacière, 67300, Schiltigheim",67300,https://www.brasseriedelaar.fr/,48.6052248,7.7578879
+4080268773,node,Georgian House,restaurant,Strasbourg,"8a Rue Principale, 67300, Schiltigheim",67300,,48.6073396,7.7516048
+4080268774,node,L'Imaginaire,restaurant,Strasbourg,"42 Rue Principale, 67300, Schiltigheim",67300,https://www.limaginaire.fr/,48.604631,7.7506434
+4080268777,node,Taj Mahal,restaurant,Strasbourg,"20 Rue Principale, 67300",67300,https://tajmahal-strasbourg.com/,48.6065809,7.7519961
+4080268779,node,À la Couronne,restaurant,Strasbourg,,,,48.607865,7.7520932
+4080325253,node,Les Marmitons,restaurant,Strasbourg,"9 Rue de la Glacière, 67300",67300,https://lesmarmitons.fr,48.6059121,7.7548579
+4086630088,node,Chez Cô Hai,restaurant,Strasbourg,,,,48.5775479,7.7490825
+4087213845,node,La Cerise,restaurant,Strasbourg,"13 Rue Neuve, 67300",67300,https://laceriseschilick.fr/,48.6042973,7.753285
+4088875737,node,Lamian,restaurant,Strasbourg,,,https://lamian.fr/,48.5824925,7.7550625
+4104002200,node,Hibiki,restaurant,Strasbourg,,,,48.6040233,7.7497812
+4135090994,node,Au Dauphin,restaurant,Strasbourg,,,,48.5818387,7.7495237
+4165743782,node,La Bouture,restaurant,Strasbourg,,,,48.5741608,7.7618934
+4173480149,node,Résidence Cerise,hotel,Strasbourg,,,http://www.cerise-hotels-resorts.com/fr/cerise-strasbourg-presentation.html,48.560353,7.7457428
+4185510603,node,La Maison Kammerzell,hotel,Strasbourg,"16 Place de la Cathédrale, 67000, Strasbourg",67000,,48.5819549,7.7497693
+4220761790,node,Le Tire-Bouchon,restaurant,Strasbourg,"5 Rue des Tailleurs de Pierre, 67000, Strasbourg",67000,https://www.letirebouchon.fr,48.5805549,7.75059
+4226135689,node,Boki Boki,restaurant,Strasbourg,,,,48.5830848,7.7439911
+4254036590,node,B&B Hôtel,hotel,Strasbourg,,,https://www.hotel-bb.com/fr/-/hotelByName.htm?id=0495,48.66236,7.72163
+4265938849,node,La Maison à Pizza,restaurant,Strasbourg,,,https://lamaisonapizza.com/,48.6061497,7.7533541
+4265938850,node,S'kästele,restaurant,Strasbourg,,,,48.6063358,7.7530476
+4273041060,node,Zomsa,restaurant,Strasbourg,,,,48.5821653,7.7432273
+4283758819,node,Totoro,restaurant,Strasbourg,"1 Avenue de l'Europe, 67300, Schiltigheim",67300,https://www.restaurant-totoro.com/,48.6098846,7.7125884
+4340714389,node,Aux Quatre Cigognes,restaurant,Strasbourg,,,,48.5801999,7.7508275
+4340714391,node,L'Alsako — Munsterstuewel,restaurant,Strasbourg,,,,48.5804893,7.7512069
+4362535373,node,Allo Pad Thaï,restaurant,Strasbourg,,,https://allopadthai.com/,48.5815373,7.7464451
+4375566369,node,À la braise,restaurant,Strasbourg,"17 B Rue Louis Pasteur, 67300, Schiltigheim",67300,https://www.alabraise.fr/,48.6008161,7.7515637
+4382987293,node,Umami,restaurant,Strasbourg,,,https://www.restaurant-umami.com,48.5809302,7.7430415
+4406504965,node,La Grande Dame,restaurant,Strasbourg,,,,48.5814204,7.7495466
+4408251053,node,Say Cheese,restaurant,Strasbourg,,,,48.582899,7.7541476
+4431452831,node,City Résidence Strasbourg Centre,hotel,Strasbourg,,,https://www.cityresidence.fr/fr/residence/strasbourg,48.5891298,7.7387437
+4432157559,node,A la Carpe,restaurant,Strasbourg,"2 Rue du Chemin de Fer, 67460",67460,https://www.restaurant-a-la-carpe.com/,48.6352685,7.738528
+4435870322,node,La Nouvelle poste,restaurant,Strasbourg,"12 Rue du Parchemin, 67000, Strasbourg",67000,,48.5846134,7.75422
+4435908276,node,Villa Casella,restaurant,Strasbourg,,,https://www.villacasella.fr/,48.5801899,7.747901
+4454645362,node,Le Bistronome,restaurant,Strasbourg,"27 Rue Vauban, 67000, Strasbourg",67000,,48.5807283,7.7740784
+4463100737,node,Pasta e ravioli,restaurant,Strasbourg,,,https://pasta-e-ravioli.fr/,48.5808701,7.7565462
+4463103424,node,Le Vintage,restaurant,Strasbourg,,,https://www.letheier.fr/,48.5803131,7.7464601
+4463108021,node,Sonar Bangla,restaurant,Strasbourg,"19 Rue de la Course, 67000, Strasbourg",67000,,48.5829698,7.7361545
+4485376868,node,Pop & Lino,restaurant,Strasbourg,,,,48.5834555,7.7533317
+4485615062,node,Brunchie,restaurant,Strasbourg,,,https://www.brunchiestrasbourg.com,48.5792841,7.7578439
+4486170508,node,Casa Due,restaurant,Strasbourg,,,,48.578562,7.7589783
+4486525647,node,Matsumotoya,restaurant,Strasbourg,"13 Rue des Veaux, 67000, Strasbourg",67000,,48.5823495,7.7548179
+4498935680,node,Il Girasole,restaurant,Strasbourg,,,http://www.ilgirasole.fr/,48.5785612,7.7490728
+4500301771,node,Nina,restaurant,Strasbourg,"23 Route du Polygone, 67100, Strasbourg",67100,,48.5703773,7.7566466
+4500311860,node,La Maison des Mezzés,restaurant,Strasbourg,,,,48.5784628,7.7545301
+4500980737,node,La Grappa,restaurant,Strasbourg,,,https://lagrappa.fr/,48.5836145,7.7403861
+4508664517,node,Aedaen Place Brasserie,restaurant,Strasbourg,,,,48.5825169,7.7417651
+4538699662,node,Chez Aladdin,restaurant,Strasbourg,,,,48.5403706,7.7678406
+4548119724,node,Suzanne,restaurant,Strasbourg,,,,48.582703,7.7439917
+4552263197,node,Brasserie Le Stern,restaurant,Strasbourg,,,https://www.facebook.com/pages/Brasserie-Le-Stern,48.5760415,7.754542
+4558140616,node,Le Stras,restaurant,Strasbourg,"9 Rue des Dentelles, 67000, Strasbourg",67000,,48.5810888,7.7430373
+4566926232,node,Yangguofu,restaurant,Strasbourg,"39 Rue des Frères, 67000, Strasbourg",67000,https://www.yangguofueurope.com/,48.58312,7.7540987
+4594699365,node,Iskandar,restaurant,Strasbourg,"6 Place du Vieux Marché aux Vins, 67000",67000,https://www.restaurantiskandar.fr,48.5835949,7.7415652
+4594699366,node,22 Mai - Pizzo Social Club,restaurant,Strasbourg,"2 Grand'Rue, 67000, Strasbourg",67000,https://www.22maipizza.com/,48.5826117,7.7390546
+4594699368,node,Kohola,restaurant,Strasbourg,,,,48.5783511,7.7528726
+4594699369,node,Vert Olive,restaurant,Strasbourg,"3 Rue de la Brigade Alsace-Lorraine, 67000, Strasbourg",67000,http://restaurant-vertolive.fr,48.5772658,7.7536008
+4598296539,node,Mandala,restaurant,Strasbourg,,,https://www.mandala-strasbourg.fr,48.5855074,7.7404577
+4598296540,node,East Canteen,restaurant,Strasbourg,,,,48.5791202,7.7544244
+4600450608,node,Santa Elena,restaurant,Strasbourg,,,,48.5821096,7.7443914
+4600677774,node,Habibi,restaurant,Strasbourg,,,,48.5775631,7.7711949
+4600677791,node,Snack Traiteur Libanais,restaurant,Strasbourg,"8 Rue de Leicester, 67000, Strasbourg",67000,http://lelibanais-esplanade.fr/,48.5776125,7.7712041
+4604739188,node,A l'Oberservatoire,restaurant,Strasbourg,1 Rue Kirstein,,https://www.alobservatoireresto.com/,48.582273,7.771699
+4613004712,node,Holy Moly,restaurant,Strasbourg,,,https://www.holymolystrasbourg.fr/,48.5835812,7.7615403
+4614043774,node,Chez les Lùschtig,restaurant,Strasbourg,,,,48.581824,7.7426872
+4614044843,node,Le paradis du fruit,restaurant,Strasbourg,,,,48.5830272,7.7462815
+4614171301,node,Les Semailles,restaurant,Strasbourg,,,,48.6571585,7.837113
+4614281483,node,Il Forchettone,restaurant,Strasbourg,,,,48.655935,7.8385997
+4614304043,node,Au Pont de l'Ill,restaurant,Strasbourg,,,https://aupontdelill.com/,48.6550753,7.8314351
+4614387717,node,Bistro Polo,restaurant,Strasbourg,,,https://www.bistropolo.fr,48.582014,7.7456624
+4614387727,node,L'Épicerie,restaurant,Strasbourg,,,,48.5818275,7.7468861
+4619370470,node,Houmous & Co,restaurant,Strasbourg,,,,48.5799045,7.7478294
+4626054115,node,PNY Grand’Rue,restaurant,Strasbourg,,,,48.5817355,7.7435886
+4638360865,node,La Cour des chasseurs,restaurant,Strasbourg,,,https://www.lacourdeschasseurs.fr/,48.6542196,7.8298778
+4668485568,node,Le Monceau,restaurant,Strasbourg,,,https://www.lemonceau.fr/,48.5798567,7.7448622
+4668485572,node,Trattoria da Giovanni,restaurant,Strasbourg,,,,48.5799747,7.7462253
+4676785079,node,Restaurant Aristide,restaurant,Strasbourg,,,,48.5675983,7.7742685
+4691175038,node,Shahi Mahal,restaurant,Strasbourg,,,,48.5786766,7.7547698
+4696193406,node,Momo Tibétain,restaurant,Strasbourg,,,https://momo-tibetain.fr,48.5825604,7.7395453
+4696298723,node,Au pékin,restaurant,Strasbourg,,,,48.5816082,7.7746666
+4696298724,node,Lady Sushi Strasbourg,restaurant,Strasbourg,74 Avenue de la Forêt Noire,,https://lady-sushi.fr/restaurants/strasbourg/,48.5822831,7.7733651
+4715854736,node,Pho Asia,restaurant,Strasbourg,"1 Rue des Dentelles, 67000, Strasbourg",67000,,48.5813176,7.7427107
+4715863743,node,1741,restaurant,Strasbourg,,,,48.5805139,7.7536241
+4752240915,node,Brasserie La Choppe,restaurant,Strasbourg,"19 Rue du Faubourg National, 67000, Strasbourg",67000,,48.5824662,7.7355551
+4752463123,node,La Binchstub Broglie,restaurant,Strasbourg,,,,48.5851302,7.7495748
+4765262156,node,Caupona,restaurant,Strasbourg,,,https://www.caupona.fr,48.5812909,7.7451931
+4781211057,node,Lagrange Apart’Hotel,hotel,Strasbourg,"5 c Boulevard du Président Wilson, 67000",67000,http://www.lagrange-city-strasbourg.com/,48.5874405,7.7380859
+4817232278,node,La Petite Alsace,restaurant,Strasbourg,"23 Rue du Bain aux Plantes, 67000, Strasbourg",67000,https://lapetitealsace.com,48.5816248,7.7415638
+4817232280,node,Au tribunal,restaurant,Strasbourg,,,,48.5874275,7.7477496
+4831185264,node,Yume Sushi,restaurant,Strasbourg,,,https://yume-sushi.fr/,48.5828946,7.7393039
+4833415230,node,Alambar,restaurant,Strasbourg,,,,48.5838744,7.7410259
+4833564536,node,Dim Sum Sam,restaurant,Strasbourg,,,,48.5793656,7.7604766
+4843584758,node,Le Rimini,restaurant,Strasbourg,"1 Rue des Veaux, 67000, Strasbourg",67000,https://riministrasbourg.fr/,48.5817337,7.7535038
+4851081122,node,La Pizza de Nico,restaurant,Strasbourg,"44 Rue du Vieux Marché aux Vins, 67000, Strasbourg",67000,,48.5840955,7.7433715
+4924829138,node,Madeleine,restaurant,Strasbourg,,,,48.5792055,7.7543467
+4929565424,node,Le Kuhn,restaurant,Strasbourg,"11 Rue Thiergarten, 67000, Strasbourg",67000,https://lekuhn.com/,48.5848679,7.7376281
+4935910571,node,Au Cygne,restaurant,Strasbourg,,,,48.6075942,7.7498764
+4956353864,node,Pizza des Deux Rives - Neudorf,restaurant,Strasbourg,,,https://pizzadesdeuxrives.fr/,48.5700038,7.7773999
+4968835230,node,Namaste,restaurant,Strasbourg,,,https://lenamaste.fr,48.5874692,7.7460547
+4968835231,node,L'Orchidea,restaurant,Strasbourg,"6 Rue du Faubourg de Pierre, 67000, Strasbourg",67000,https://www.lorchidea.fr/,48.5873302,7.7465075
+4968835232,node,Sakhang,restaurant,Strasbourg,8 Rue du Faubourg de Pierre,,https://sakhang.com/,48.5873902,7.7464664
+4996650523,node,La Marseillaise,restaurant,Strasbourg,,,,48.5852804,7.7501135
+5000831837,node,Le Galopin,restaurant,Strasbourg,,,,48.5821247,7.7421112
+5037062157,node,Graffateria,restaurant,Strasbourg,"17 Rue Déserte, 67000, Strasbourg",67000,,48.5833473,7.7356892
+5037078691,node,Al Diwan,restaurant,Strasbourg,,,https://www.restaurant-aldiwan.fr/,48.5820313,7.757103
+5037090017,node,Cinnamon,restaurant,Strasbourg,,,https://cinnamonrestaurant.fr/,48.5796657,7.7480542
+5069564938,node,La Maison de Damas,restaurant,Strasbourg,"11 Allée Robert Théophile Debus, 67300, Schiltigheim",67300,https://www.maison-de-damas.fr/,48.6091677,7.7497519
+5070944136,node,À la Tête de Lard,restaurant,Strasbourg,"3 Rue Hannong, 67000",67000,,48.5834778,7.7428749
+5072349084,node,Perles de Saveurs,restaurant,Strasbourg,,,,48.5812619,7.7430409
+5075908013,node,La Fabrique,restaurant,Strasbourg,"32 Rue de la Gare, 67300, Schiltigheim",67300,https://www.lafabrique-restaurant.com/fr/,48.6114063,7.7471249
+5091627933,node,Brasserie les Glacières,restaurant,Strasbourg,,,,48.5771488,7.7415599
+5095777220,node,Chez Madame Ha,restaurant,Strasbourg,"12 Rue Saint-Charles, 67300, Schiltigheim",67300,https://chezmadameha.wixsite.com/website,48.6052325,7.7417343
+5097838660,node,Ô 30,restaurant,Strasbourg,"30 Rue des Juifs, 67000, Strasbourg",67000,https://o30restaurant.fr/,48.5838648,7.7532326
+5097838661,node,La Casserole,restaurant,Strasbourg,,,,48.5834879,7.7526372
+5097838662,node,La Table de Christophe,restaurant,Strasbourg,,,,48.5837398,7.7530623
+5102798996,node,Capricciosa,restaurant,Strasbourg,,,,48.581448,7.7567419
+5132843921,node,Au petit tonnelier,restaurant,Strasbourg,,,,48.5801144,7.7492917
+5171061121,node,Au Cèdre,restaurant,Strasbourg,,,,48.5788891,7.756841
+5171061321,node,New Delhi,restaurant,Strasbourg,,,,48.5801049,7.7575875
+5174505922,node,Floderer,restaurant,Strasbourg,,,,48.5836198,7.7472776
+5190658223,node,Baan Thaï,restaurant,Strasbourg,,,,48.5838459,7.738486
+5190858432,node,Le Mikado,restaurant,Strasbourg,"11 Quai Turckheim, 67000, Strasbourg",67000,https://mikadostrasbourg.fr/,48.582444,7.7388086
+5279419719,node,Pierre-Bois et Feu,restaurant,Strasbourg,,,,48.5812513,7.7528383
+5309033272,node,L'Epicier Grand Cru,restaurant,Strasbourg,,,,48.5820578,7.7418172
+5317216163,node,Hanedan,restaurant,Strasbourg,"32 Avenue Aristide Briand, 67100, Strasbourg",67100,,48.5684718,7.7770194
+5443670573,node,Chez Michel,restaurant,Strasbourg,,,,48.5325979,7.7055007
+5443670574,node,Auberge de L'Écluse,restaurant,Strasbourg,33,,,48.5454645,7.7313168
+5443670575,node,Au Raisin,restaurant,Strasbourg,,,,48.518309,7.707149
+5443670577,node,La Croix de Savoie,restaurant,Strasbourg,,,,48.5319289,7.7172882
+5443670582,node,Restaurant du Chasseur,restaurant,Strasbourg,"70 Route de Lyon, 67400, Illkirch-Graffenstaden",67400,http://hotellechasseur.fr/,48.5325613,7.7195078
+5443670583,node,Hôtel du Chasseur,hotel,Strasbourg,"70 Route de Lyon, 67400, Illkirch-Graffenstaden",67400,http://hotellechasseur.fr/,48.5325848,7.7195
+5443670585,node,K-Soii,restaurant,Strasbourg,,,,48.5240139,7.7078736
+5483441898,node,Restaurant des 3 Merlettes,restaurant,Strasbourg,,,,48.6024451,7.7382137
+5517947093,node,Montempo Apparthotel,hotel,Strasbourg,,,https://www.montempo.fr/,48.5793907,7.7300362
+5534605555,node,adagio Aparthotel Strasbourg,hotel,Strasbourg,,,,48.5842248,7.7456251
+5546509574,node,La Pizza de Nico,restaurant,Strasbourg,"24 Rue de la République, 67800, Hœnheim",67800,https://lapizzadenico.com/restaurant/hoenheim/,48.6209058,7.755796
+5586499122,node,Le Saint-Fiacre,restaurant,Strasbourg,,,,48.6087333,7.7797782
+5598505490,node,Le Jean-Sébastien Bach,hotel,Strasbourg,,,,48.5881334,7.7783934
+5640388675,node,Bistro Athéna,restaurant,Strasbourg,,,,48.5918681,7.7114019
+5720678334,node,Cerf d'Or,hotel,Strasbourg,,,,48.5775654,7.7492392
+5742803288,node,Okko Hotels Strasbourg Centre,hotel,Strasbourg,"42 Rue du Bassin d'Austerlitz, 67100, Strasbourg",67100,https://www.okkohotels.com/en/hotels/okko-hotels-strasbourg-presquile-malraux,48.5739703,7.7659165
+5745975191,node,Au Gourmet de l'Orangerie,restaurant,Strasbourg,,,,48.5885047,7.7661583
+5745976541,node,Bésame Mucho,restaurant,Strasbourg,"10 Rue Fritz Kiener, 67000, Strasbourg",67000,,48.5832794,7.7608237
+5746530896,node,Asie Gourmand,restaurant,Strasbourg,,,,48.5815298,7.761236
+5781073577,node,Bella Casa,restaurant,Strasbourg,"40 Rue des Bouchers, 67000, Strasbourg",67000,https://menu.tillersystems.com/59094/bella-casa,48.577797,7.7503828
+5783798887,node,Tonneau,restaurant,Strasbourg,,,https://restaurant-tonneau.fr/,48.5832243,7.7440983
+5783814773,node,Bar O Centre,restaurant,Strasbourg,,,,48.5831445,7.7440369
+5783902966,node,Lamian,restaurant,Strasbourg,"20 Rue du Fossé des Tanneurs, 67000, Strasbourg",67000,https://lamian.fr/,48.5832186,7.7438512
+5817350201,node,Pétrin,restaurant,Strasbourg,"Rue Emmanuel Levinas, 67100, Strasbourg",67100,https://petrin-bistrot-du-boulanger.eatbu.com/,48.5729457,7.7675637
+5819124722,node,Sushi House,restaurant,Strasbourg,"25 Route de Bischwiller, 67800, Bischheim",67800,http://sushihouse67.fr,48.6131772,7.7515634
+5821333064,node,Le Cheval Blanc,restaurant,Strasbourg,,,,48.6141443,7.7514764
+5824090661,node,O'Pizzicato,restaurant,Strasbourg,,,https://opizzicato.fr,48.6155812,7.7530361
+5853220923,node,Indiana Café,restaurant,Strasbourg,,,,48.5738635,7.7660966
+5853329103,node,Aux Magots,restaurant,Strasbourg,"35 Route de l'Hôpital, 67100, Strasbourg",67100,https://aux-magots.business.site/,48.5711471,7.7509121
+5853329104,node,Shoon,restaurant,Strasbourg,"51 Route de l'Hôpital, 67100, Strasbourg",67100,https://www.shoon.fr,48.5701101,7.7511621
+5854818029,node,Nemea Appart'Hôtel,hotel,Strasbourg,,,,48.5696491,7.7792377
+5873788939,node,Les Chauvins,restaurant,Strasbourg,,,https://www.restaurant-les-chauvins.fr/,48.5834207,7.7531797
+5899009407,node,Le cornichon masqué,restaurant,Strasbourg,,,,48.5824648,7.7532545
+5899020605,node,La Cantina,restaurant,Strasbourg,"Place du Marché Gayot, 67000, Strasbourg",67000,https://www.lacantinarestaurant.fr/,48.5825176,7.7534438
+5899223185,node,Crep'Mili,restaurant,Strasbourg,,,,48.5832756,7.753912
+5901554876,node,Le Relais - Mangatama,restaurant,Strasbourg,,,,48.583666,7.7354103
+5915839699,node,Origami Lifestyle,hotel,Strasbourg,16 Rue du Bataillon de Marche 24,,https://www.hotel-origami.com/,48.5911094,7.7273928
+5918134985,node,Little World,restaurant,Strasbourg,,,,48.5790126,7.7428447
+5927077385,node,Papa Lisa,restaurant,Strasbourg,,,https://restaurant-papalisa.business.site/,48.5588491,7.737747
+5965786343,node,Tzatzi,restaurant,Strasbourg,,,,48.5819084,7.7456552
+6005280285,node,Hôtel Weber,hotel,Strasbourg,,,,48.5809375,7.7320395
+6042232803,node,Boccaccio,restaurant,Strasbourg,,,,48.5787516,7.7422704
+6043768837,node,La Pizza de Nico,restaurant,Strasbourg,"2 place de Paris, 67300, Schiltigheim",67300,https://lapizzadenico.com/restaurant/la-pizza-de-nico-schiltigheim/,48.6108074,7.7117818
+6088093299,node,l'italiano,restaurant,Strasbourg,,,https://litaliano-restaurant.eatbu.com/?lang=fr,48.563987,7.7527241
+6111692431,node,Restaurant du Centre Culturel St-Thomas,restaurant,Strasbourg,,,,48.5952329,7.7794578
+6113992487,node,Adonis Hôtel Strasbourg,hotel,Strasbourg,,,https://www.adonis-hotel-strasbourg.com/,48.5884912,7.7570902
+6121945554,node,Bistrot Saint-Florent,restaurant,Strasbourg,"31 Rue de la Libération, 67200, Strasbourg",67200,https://bistrotsaintflorent.fr/,48.5965026,7.7209335
+6130609024,node,L'Assiette du Vin,restaurant,Strasbourg,"154 Route de Bischwiller, 67300, Schiltigheim",67300,https://www.assietteduvin.com/,48.6095715,7.750655
+6178434535,node,Akabe,restaurant,Strasbourg,"17 Boulevard de Lyon, 67000, Strasbourg",67000,,48.5762282,7.7316146
+6183192676,node,Autre Part,restaurant,Strasbourg,,,,48.5915958,7.7520508
+6183620906,node,Abyssinia,restaurant,Strasbourg,,,,48.583574,7.7370098
+6192528689,node,Au Wacken,restaurant,Strasbourg,"1 Rue des Contades, 67300, Schiltigheim",67300,https://www.auwacken.fr/,48.6005643,7.7544674
+6226677454,node,Les GaRnements,restaurant,Strasbourg,,,https://www.les-garnements.fr/,48.5526794,7.7489855
+6243945071,node,IchiNiSan&GO,restaurant,Strasbourg,,,https://ichinisanandgo.com/,48.5844931,7.7432304
+6262751726,node,O'Pizzicato,restaurant,Strasbourg,"17 Allée des Forgerons, 67960, Entzheim",67960,https://opizzicato.fr/entzheim,48.5416523,7.6524628
+6283100186,node,Le Zinc,restaurant,Strasbourg,,,,48.5443263,7.6270325
+6283100187,node,L'Atelier Gourmand,restaurant,Strasbourg,,,,48.5444107,7.6277727
+6360458981,node,Au Soleil,restaurant,Strasbourg,,,,48.5796311,7.6872568
+6400364590,node,Les Opportunistes,restaurant,Strasbourg,,,https://lesopportunistes.fr/,48.5804453,7.7568972
+6407297096,node,Resto Sushi's,restaurant,Strasbourg,"39 Presqu'Île André Malraux, 67000, Strasbourg",67000,https://www.resto-sushis.com/strasbourg_black_swans,48.5739084,7.7654038
+6429437897,node,Life Renaissance,hotel,Strasbourg,,,,48.5838029,7.7450854
+6444924335,node,La pizza de Nico,restaurant,Strasbourg,,,https://lapizzadenico.com/restaurants/,48.5299199,7.730931
+6557948388,node,Le Frangin,restaurant,Strasbourg,,,,48.5830927,7.7538182
+6574892138,node,À la Charrue,restaurant,Strasbourg,,,,48.579324,7.6010874
+6598102687,node,Au Cygne d'Abondance,restaurant,Strasbourg,,,,48.5051175,7.6074073
+6598102688,node,Au Boeuf,hotel,Strasbourg,,,,48.5049798,7.607013
+6598102689,node,Au Boeuf,restaurant,Strasbourg,,,,48.5049345,7.6067528
+6612642831,node,Les Colonnes,restaurant,Strasbourg,,,,48.5888042,7.6880546
+6634211242,node,La Fabrique à Miam,restaurant,Strasbourg,,,http://www.lafabriqueamiam.fr,48.5897278,7.7462349
+6666598149,node,La Fanthaïsie,restaurant,Strasbourg,,,,48.5831992,7.742805
+6720638401,node,Foca & Brother's,restaurant,Strasbourg,"49 Route de l'Hôpital, 67100, Strasbourg",67100,,48.5702099,7.7511648
+6735600135,node,Resto' U FEC,restaurant,Strasbourg,,,https://www.fec-strasbourg.org/le-restaurant-universitaire/,48.5829442,7.7544849
+6771885766,node,Mazar,restaurant,Strasbourg,"3 A Allée des Forgerons, 67960, Entzheim",67960,,48.5386886,7.6468589
+6789170785,node,L'Italien du Coin,restaurant,Strasbourg,,,https://www.italienducoin.com/,48.5857793,7.7402668
+6854861685,node,La Cuiller à Pot,restaurant,Strasbourg,,,,48.5787474,7.7424423
+6898531585,node,Pompete,restaurant,Strasbourg,,,,48.5798473,7.7495126
+6960264707,node,Le Météor,restaurant,Strasbourg,,,https://lemeteor.fr/,48.5825918,7.7409307
+6974342792,node,Brit Hotel Le Lodge,hotel,Strasbourg,,,https://lodge-hotel-strasbourg.fr/,48.5876732,7.6974071
+6974342793,node,Aux délices de Didier,restaurant,Strasbourg,,,,48.5880724,7.697399
+7067466700,node,Osaka,restaurant,Strasbourg,,,,48.5837818,7.7433343
+7089160915,node,Falafilo,restaurant,Strasbourg,,,,48.5830482,7.744392
+7174570465,node,Le Laurier,restaurant,Strasbourg,,,,48.5794281,7.7482816
+7196935549,node,Chez Georges,restaurant,Strasbourg,"20 Rue Pierre de Coubertin, 67000, Strasbourg",67000,https://chez-georges-strasbourg.eatbu.com,48.6011642,7.7698955
+7289385395,node,Le Verdict,restaurant,Strasbourg,,,https://www.le-verdict.fr,48.5875971,7.7476517
+7347045493,node,Cigkofte Komagene,restaurant,Strasbourg,"2 Rue de Sélestat, 67300, Schiltigheim",67300,,48.6067624,7.7369961
+7383478434,node,Mon Resto Plaisir,restaurant,Strasbourg,"10 Rue du Lieutenant Lespagnol, 67810, Holtzheim",67810,http://monrestoplaisir.fr/,48.5578153,7.6432145
+7385958218,node,L'Orchidesia,restaurant,Strasbourg,"5 Rue de Franche-Comté, 67100, Strasbourg",67100,,48.551219,7.7516284
+7441841026,node,Sugoi Sushi,restaurant,Strasbourg,"32 Boulevard de la Marne, 67000, Strasbourg",67000,https://www.sugoi-sushi-strasbourg.fr/,48.586174,7.7762082
+7497004369,node,Bowl’Amie,restaurant,Strasbourg,"1 Rue Alice Guy, 67100, Strasbourg",67100,https://bowlamie.fr/,48.5732474,7.7661095
+7499330677,node,Séjours & Affaires Kléber,hotel,Strasbourg,,,,48.5834084,7.7426552
+7556871429,node,Elite Steak House,restaurant,Strasbourg,,,https://www.elitesteakhouse.fr/,48.5569124,7.7341497
+7671665557,node,Doy Doy,restaurant,Strasbourg,"23 Rue de Friedolsheim, 67200, Strasbourg",67200,,48.5662447,7.7084774
+7704342189,node,Chez Zimmer,restaurant,Strasbourg,,,,48.6587282,7.8261412
+7706730672,node,Au Petit Pont,hotel,Strasbourg,"1 Quai des Bateliers, 67610, La Wantzenau",67610,,48.6549717,7.8320175
+7737597488,node,Keis atelier,restaurant,Strasbourg,,,,48.5792142,7.7606792
+7744311271,node,Lalibela,restaurant,Strasbourg,"74 Avenue de Colmar, 67100, Strasbourg",67100,,48.5694126,7.7536547
+7769643785,node,Pizza Gourmand,restaurant,Strasbourg,"16Bis Rue des Vignes, 67400",67400,,48.5228769,7.7181295
+7810589490,node,Le Massala Dhaba,restaurant,Strasbourg,231 Route de Lyon,,https://lemassaladhaba.fr/,48.525253,7.7086224
+7815512123,node,Fashion Crêpe,restaurant,Strasbourg,,,,48.5833959,7.7358938
+7815512128,node,La Palme d'Or,restaurant,Strasbourg,"9 Rue Thiergarten, 67000, Strasbourg",67000,,48.584672,7.737595
+7815512129,node,WOK Sushi 168,restaurant,Strasbourg,,,,48.5850055,7.7375925
+7815512130,node,Saint-Augustin,hotel,Strasbourg,,,,48.5848725,7.7378414
+7815512133,node,Le Petit Casa,restaurant,Strasbourg,,,,48.5852858,7.7378816
+7851613642,node,Au Romain,restaurant,Strasbourg,,,,48.5783267,7.7009205
+7851613645,node,Trio,restaurant,Strasbourg,,,,48.5778662,7.7046803
+7884463886,node,Al Mandaloun,restaurant,Strasbourg,,,,48.5768746,7.7707714
+7885204292,node,Emporio Casella,restaurant,Strasbourg,,,,48.5896221,7.7678456
+7897148370,node,Resto Onel,restaurant,Strasbourg,"8 Rue de Leicester, 67000, Strasbourg",67000,https://alzaum7.wixsite.com/monsite-1,48.5776957,7.7707987
+7897153640,node,Mr.Fondue,restaurant,Strasbourg,"8 Rue de Leicester, 67000, Strasbourg",67000,,48.5779433,7.7707036
+7897184016,node,Bunsik Dragon,restaurant,Strasbourg,Cour d'Oxford,,,48.5775185,7.7711862
+7982209120,node,Jabiru Café,restaurant,Strasbourg,,,,48.5787794,7.7587478
+7991655222,node,O'Kuri,restaurant,Strasbourg,,,,48.5869638,7.7678717
+8082534093,node,Ô Street Food,restaurant,Strasbourg,"101 Route de Mittelhausbergen, 67200, Strasbourg",67200,,48.5949071,7.7183432
+8173781658,node,Taikin,restaurant,Strasbourg,"55 Presqu'Île André Malraux, 67100, Strasbourg",67100,https://taikin.fr/,48.5736056,7.7655219
+8455588502,node,Meeting Asian,restaurant,Strasbourg,,,,48.5726807,7.7559843
+8455588503,node,Bol'inn,restaurant,Strasbourg,,,,48.5728368,7.7563616
+8455588506,node,Les Tontons Flambeurs,restaurant,Strasbourg,,,https://tontonsflambeurs.fr,48.5725695,7.7560218
+8461186020,node,Ibis Budget Centre République,hotel,Strasbourg,,,,48.5914459,7.7540664
+8545027633,node,Old Wild West,restaurant,Strasbourg,,,https://www.oldwildwest.fr/code/26571/strasbourg-s-p-coeur-alsace,48.6528573,7.7341282
+8545027649,node,Burgard,restaurant,Strasbourg,,,,48.6510313,7.7325203
+8545027650,node,Waffle Factory,restaurant,Strasbourg,,,,48.6508319,7.7323405
+8689515208,node,L'Anatolie,restaurant,Strasbourg,,,,48.6089461,7.7463545
+8733850097,node,AMIS,restaurant,Strasbourg,,,,48.583498,7.7440542
+8852731302,node,Live Sushi,restaurant,Strasbourg,,,,48.5783939,7.7492578
+8869354217,node,Le B,restaurant,Strasbourg,,,,48.5913485,7.7498735
+8913085583,node,Aparthotel Adagio Access,hotel,Strasbourg,,,https://all.accor.com/hotel/8406/index.fr.shtml,48.5378653,7.7332323
+8950409746,node,MÂY,restaurant,Strasbourg,"1 Rue de Berne, 67000",67000,,48.5779355,7.7543137
+8953179201,node,Ô Baozi,restaurant,Strasbourg,,,http://www.obaozi.fr/,48.5840364,7.7436766
+8974736669,node,Le Café Potager,restaurant,Strasbourg,,,https://www.lecafepotager.com/,48.582422,7.7461626
+8986803415,node,Chez Ani,restaurant,Strasbourg,"26 Rue Thiergarten, 67000, Strasbourg",67000,https://www.privateaser.com/lieu/41909-chez-ani,48.5854789,7.7379102
+9002151506,node,Wok Chef,restaurant,Strasbourg,,,,48.5849863,7.7370476
+9009508383,node,La Case de L'Isle Bourbon,restaurant,Strasbourg,,,https://restaurant-la-case-de-lisle-bourbon.business.site/,48.5823775,7.7405219
+9016965256,node,Comme Chez Soi,restaurant,Strasbourg,,,http://www.chezsoi-traiteur.com/nos-lieux-receptifs/le-restaurant-comme-chez-soi/,48.5537947,7.7373641
+9016984512,node,Andromède,restaurant,Strasbourg,,,,48.557589,7.7375667
+9016994755,node,Le Mekane,restaurant,Strasbourg,,,,48.5567044,7.7394039
+9019330329,node,Brasserie l'Ours Blanc,restaurant,Strasbourg,"52 Rue du Jeu des Enfants, 67000, Strasbourg",67000,https://brasserie-loursblanc.com,48.5838087,7.7434493
+9021990975,node,Les Saveurs du Midi,restaurant,Strasbourg,,,,48.5824275,7.7402457
+9021990976,node,Au Fond de la Théière,restaurant,Strasbourg,,,https://au-fond-de-la-theiere.eatbu.com,48.5823878,7.7404648
+9021990980,node,Mamaroux,restaurant,Strasbourg,,,,48.5823029,7.7413747
+9022454747,node,N°51,restaurant,Strasbourg,,,,48.5821657,7.7419699
+9022668371,node,Avobowl,restaurant,Strasbourg,,,https://www.avobowl.fr/,48.5819718,7.7430705
+9023010239,node,Sichuan,restaurant,Strasbourg,"18 Rue du Fossé des Tanneurs, 67000, Strasbourg",67000,https://restaurant-sichuan.fr,48.5834264,7.7439956
+9023166708,node,Streeat,restaurant,Strasbourg,,,,48.5866067,7.7430958
+9032573331,node,Elsass Food,restaurant,Strasbourg,,,,48.5815598,7.7436697
+9035853423,node,Waffle Factory,restaurant,Strasbourg,,,https://restaurants.wafflefactory.com/fr/grand-est/bas-rhin/strasbourg/waffle-factory-strasbourg-grandes-arcades-37,48.5819546,7.7477748
+9036183674,node,Tortilla,restaurant,Strasbourg,,,,48.582949,7.7468228
+9061661770,node,Tamil,restaurant,Strasbourg,,,https://www.restaurant-tamil.fr/,48.5799102,7.7462464
+9090484277,node,Au Poilu,restaurant,Strasbourg,"23 Route des Romains, 67200, Strasbourg",67200,https://www.aupoilu67.fr/,48.5799236,7.7188504
+9143953104,node,AK Vigie,restaurant,Strasbourg,"2 Rue du Maréchal Foch, 67540, Ostwald",67540,https://www.facebook.com/pages/category/Brewery/LAK-la-VIGIE-106232844113735/,48.5428318,7.709305
+9201087507,node,Royal Grand Buffet,restaurant,Strasbourg,,,,48.5178258,7.7011733
+9217135343,node,Les Lampions,restaurant,Strasbourg,,,https://leslampions.fr/,48.5817224,7.7565046
+9229907159,node,Gulja Uyghur,restaurant,Strasbourg,"54 Rue de Ribeauvillé, 67100, Strasbourg",67100,,48.5654799,7.7718177
+9297337691,node,New's café,restaurant,Strasbourg,,,,48.59102,7.7097859
+9405318066,node,Sushi & More,restaurant,Strasbourg,,,,48.5834901,7.7381168
+9411322948,node,Dostoïevski,restaurant,Strasbourg,"106 Rue du Général Conrad, 67000, Strasbourg",67000,https://restodosto.com/,48.5903669,7.7862788
+9423299119,node,Bagerhoff,restaurant,Strasbourg,"13 Rue de la Brigade Alsace-Lorraine, 67000, Strasbourg",67000,,48.5761162,7.7544343
+9534506969,node,Rainbow poke bowl,restaurant,Strasbourg,,,https://www.facebook.com/rainbowpokebowl/,48.5807313,7.7571501
+9580179454,node,Merguez Azoulay,restaurant,Strasbourg,16 Rue de la Kurvau,,,48.5712933,7.7666196
+9602676105,node,Damasquino,restaurant,Strasbourg,"33 Rue du Jeu des Enfants, 67000, Strasbourg",67000,,48.5838007,7.7427749
+9612974089,node,Hôtel Strasbourg Montagne Verte,hotel,Strasbourg,14 Rue des corroyeurs,,https://www.hotel-montagne-verte-strasbourg.com/,48.5725938,7.7286751
+9623735827,node,Woke & Poke Bowl,restaurant,Strasbourg,,,,48.5885775,7.746966
+9634256664,node,Hôtel Restaurant de Paris,hotel,Strasbourg,"2 Rue de Paris, 67116, Reichstett",67116,https://www.hotel-de-paris.net/,48.6538559,7.7518919
+9635000249,node,Makin Thai Strasbourg,restaurant,Strasbourg,,,https://www.makin-thai.com/,48.585898,7.7057318
+9641679580,node,Bún Tastic,restaurant,Strasbourg,,,https://buntastic.fr,48.5821189,7.7431897
+9653880139,node,La Perle Bleue,restaurant,Strasbourg,,,,48.5721035,7.7138459
+9669797801,node,Le Petit Faubourg,restaurant,Strasbourg,"2b Rue du Faubourg de Saverne, 67000, Strasbourg",67000,https://le-petit-faubourg.fr/,48.5848862,7.7408663
+9671975224,node,Kohola Schiltigheim,restaurant,Strasbourg,,,https://www.kohola.fr/,48.600275,7.742233
+9671980852,node,La Mésopotamie,restaurant,Strasbourg,,,,48.5774164,7.7520842
+9677644704,node,Bella Vita,restaurant,Strasbourg,"3 rue Prechter, 67000, Strasbourg",67000,https://www.bellavita.family/,48.5830189,7.7583227
+9772067528,node,,restaurant,Strasbourg,,,,48.5502311,7.699664
+9822561569,node,Terra Pizzas,restaurant,Strasbourg,,,https://www.terrapizzas.fr/,48.6460057,7.7221079
+9865481589,node,Yami sushi,restaurant,Strasbourg,12 Boulevard de Dresde,,https://www.yamisushi.fr/,48.5988619,7.7643983
+9874269272,node,Vanilla Restaurant,restaurant,Strasbourg,96,,https://vanilla-restaurant.fr/,48.6179387,7.7546507
+9875144971,node,Pianogrill,restaurant,Strasbourg,"8 Place Saint-Étienne, 67000, Strasbourg",67000,https://www.pianogrillrestaurant.fr/,48.5835346,7.7544882
+9888160715,node,Mont Liban,restaurant,Strasbourg,,,,48.588404,7.7459451
+9909667321,node,Verrine & Vapeur,restaurant,Strasbourg,"1b Rue de l'Hôpital Militaire, 67000, Strasbourg",67000,https://www.verrine-vapeur.com,48.5776484,7.7585338
+9924741656,node,Restaurant solidaire Emmaüs,restaurant,Strasbourg,"14 Rue de l'Atome, 67800, Bischheim",67800,https://emmausmundo.wordpress.com/restaurant-solidaire/,48.6308592,7.7745038
+9925564417,node,Au Sanglier,restaurant,Strasbourg,,,,48.5826755,7.7497694
+9936179279,node,Bistrot de la Vigie,restaurant,Strasbourg,"9 Rue Pierre et Marie Curie, 67540, Ostwald",67540,https://www.bistrot-vigie.fr/,48.5345892,7.6981403
+9956825117,node,1387,restaurant,Strasbourg,,,https://www.restaurantle1387.com/,48.5823661,7.7458172
+10012015863,node,Comfort Hôtel,hotel,Strasbourg,"14 Rue des Corroyeurs, 67200, Strasbourg",67200,https://comfort-hotel-strasbourg.hotel-mix.de,48.5728809,7.7288677
+10029194825,node,Sa Ki Bon,restaurant,Strasbourg,,,https://www.sakibon.fr,48.586697,7.7396183
+10031987792,node,La grosse Baloche,restaurant,Strasbourg,,,,48.5785827,7.7546489
+10032075430,node,Abbiocco,restaurant,Strasbourg,,,https://www.abbiocco.fr/,48.5816207,7.7558719
+10034829017,node,Wan Chai,restaurant,Strasbourg,"12 Rue des Écrivains, 67000",67000,,48.5826026,7.7528107
+10047382914,node,Namsan Maru,restaurant,Strasbourg,,,,48.5812481,7.7619666
+10056545085,node,AC Hôtel,hotel,Strasbourg,4 Boulevard de Dresde,,,48.5988785,7.7631436
+10075023482,node,Terroir & Co,restaurant,Strasbourg,"4 Place Saint-Pierre-le-Jeune, 67000, Strasbourg",67000,http://www.terroir-and-co.fr,48.5852314,7.7460816
+10082138733,node,Kaijoo Hotel,hotel,Strasbourg,,,,48.583355,7.7417913
+10082465782,node,Sushi Koi,restaurant,Strasbourg,,,,48.5786724,7.744525
+10086531847,node,L'Impasse,restaurant,Strasbourg,"16 Rue du Maréchal Foch, 67450, Mundolsheim",67450,https://limpasse.eatbu.com,48.6301033,7.7155006
+10090330298,node,Darness,restaurant,Strasbourg,"14 Rue du Faubourg de Saverne, 67000, Strasbourg",67000,https://www.darness.fr,48.5855605,7.740419
+10127531778,node,Lucullus,restaurant,Strasbourg,"15 Rue Jacques Peirotes, 67000, Strasbourg",67000,,48.5763075,7.7546619
+10154734010,node,Au Marché Gare,restaurant,Strasbourg,"55 Rue du Marché-Gare, 67200, Strasbourg",67200,,48.5972711,7.7345985
+10178111998,node,Koa Thai,restaurant,Strasbourg,,,https://koathai.fr/,48.5840155,7.7377407
+10203608318,node,Brasserie K Strasbourg,restaurant,Strasbourg,,,https://brasserie-k.com/,48.5838468,7.7353839
+10204239492,node,UMAI Ramen,restaurant,Strasbourg,,,https://umai-ramen.fr,48.5785356,7.7545656
+10223324304,node,Le Limoncello,restaurant,Strasbourg,"29 Route des Romains, 67200, Strasbourg",67200,,48.5798527,7.7182376
+10228564414,node,Les Pizzas de la Marne,restaurant,Strasbourg,,,,48.5868159,7.7769428
+10233570348,node,Seoul Station,restaurant,Strasbourg,,,https://www.seoulstation-coreen.com/,48.5830018,7.7538259
+10235703513,node,East Canteen,restaurant,Strasbourg,,,https://eastcanteen.com/,48.58188,7.7430357
+10250474613,node,SSK Sushi,restaurant,Strasbourg,,,,48.5855034,7.7399782
+10255764515,node,Maison Franchi,restaurant,Strasbourg,,,,48.591863,7.7578523
+10255785610,node,Wabi Sabi,restaurant,Strasbourg,,,,48.5880266,7.7562716
+10259399373,node,O Royaume,restaurant,Strasbourg,"39 Route des Romains, 67200, Strasbourg",67200,,48.5797133,7.7173066
+10280164409,node,Cercle Mess de Strasbourg,hotel,Strasbourg,"17 Place Broglie, 67000",67000,,48.5857793,7.7510959
+10289512607,node,Restaurant Cap de l'eau,restaurant,Strasbourg,,,,48.5871984,7.7060344
+10291250268,node,Yuki,restaurant,Strasbourg,,,https://yuki-cafe-restaurant.com/,48.5803818,7.7316431
+10291250269,node,Teranga,restaurant,Strasbourg,,,,48.5804505,7.7316873
+10296813416,node,Restaurant Athena,restaurant,Strasbourg,,,,48.5911629,7.709709
+10300123687,node,Ranna Ghor,restaurant,Strasbourg,,,,48.5802877,7.7565913
+10300125950,node,Restaurant L’Archipel,restaurant,Strasbourg,"4 Boulevard de Dresde, 67000, Strasbourg",67000,https://ac-strasbourg.naoshotel.com/restaurant-larchipel/,48.5988714,7.7628443
+10314400799,node,Les Funambules,restaurant,Strasbourg,,,https://www.restaurantlesfunambules.com,48.5870033,7.7677385
+10316465973,node,VOCO,hotel,Strasbourg,"9 Rue des Magasins, 67000, Strasbourg",67000,https://www.ihg.com/voco/hotels/fr/fr/strasbourg/sxbtg/hoteldetail,48.5896198,7.7393926
+10538959813,node,Kansaï Sushi,restaurant,Strasbourg,"18 Rue des Soeurs, 67000, Strasbourg",67000,https://www.kansaisushi.fr/strasbourg,48.5828645,7.7536597
+10556292407,node,Yamas,restaurant,Strasbourg,,,https://lnk.bio/yamas-restaurant-grec,48.5811715,7.7528816
+10586595320,node,Da Zio,restaurant,Strasbourg,,,,48.5793211,7.7604172
+10602404919,node,A L'aigle D'or,restaurant,Strasbourg,,,,48.6574937,7.8296638
+10633928988,node,L’Épicurien,restaurant,Strasbourg,"9 Rue de Berne, 67000, Strasbourg",67000,https://restaurant-lepicurien.eatbu.com,48.5773576,7.7553077
+10690045068,node,Hotel-D,hotel,Strasbourg,,,,48.5879794,7.7472434
+10697086372,node,Restaurant TBS,restaurant,Strasbourg,,,,48.5444734,7.7730232
+10697086378,node,L'orient Express Restaurant,restaurant,Strasbourg,,,,48.5441839,7.7658928
+10718358112,node,Manchon-mas Jesus,restaurant,Strasbourg,9 Rue du Roethig,,,48.5661126,7.7019023
+10718358114,node,Ibis Aéroport,hotel,Strasbourg,,,,48.5608178,7.6931641
+10732191183,node,Mama Bubbele,restaurant,Strasbourg,,,https://mama-bubbele.fr/,48.5794604,7.7516718
+10745035132,node,Aux Tuileries,restaurant,Strasbourg,,,,48.6121598,7.7332436
+10757412796,node,Les Restaurants Du Cœur Fringale,restaurant,Strasbourg,"Rue du Rempart, 67000, Strasbourg",67000,https://ad67.restosducoeur.org/centres-departementaux/ad67-centre-dactivites-strasbourg-5/,48.5891422,7.7345766
+10778056807,node,Chère Amie,restaurant,Strasbourg,"5 Avenue de la Marseillaise, 67000, Strasbourg",67000,https://chere-amie.fr,48.5853038,7.7566841
+10902224541,node,Casa Fusco,restaurant,Strasbourg,,,,48.5875401,7.7476926
+10928630564,node,Le Tandoor Restaurant Indien,restaurant,Strasbourg,"98 Route de la Wantzenau, 67000, Strasbourg",67000,https://le-tandoor.fr/,48.6096551,7.7802968
+10949369195,node,Sascha Chicken2,restaurant,Strasbourg,,,https://sachachicken2.business.site/,48.6292701,7.7670675
+10959490707,node,Restaurant - Le Spot Du Fort,restaurant,Strasbourg,5,,https://www.le.spotdufort.fr/,48.5117615,7.7177638
+11059199059,node,Oro,restaurant,Strasbourg,,,,48.5808033,7.7461533
+11091391495,node,Au Bonheur d’Asie,restaurant,Strasbourg,,,https://aubonheurdasie.eatbu.com,48.6632206,7.719547
+11092358926,node,City Résidence Strasbourg Access,hotel,Strasbourg,,,https://www.cityresidence.fr/fr/residence/strasbourg-access,48.5899732,7.7397379
+11093247742,node,Les P'tites Cocottes,restaurant,Strasbourg,,,https://lesptitescocottes.fr/,48.5824064,7.7530833
+11097595182,node,La Table 54 Bis,restaurant,Strasbourg,"1 Passage des Argonautes, 67100, Strasbourg",67100,,48.573289,7.7707169
+11099271445,node,O Sud,restaurant,Strasbourg,,,,48.6573345,7.7273914
+11099875579,node,L'Odeur du Pays,restaurant,Strasbourg,,,,48.5790095,7.7419153
+11099963115,node,Pizza Pro,restaurant,Strasbourg,,,,48.5640768,7.7054175
+11160412367,node,Bande à Part,restaurant,Strasbourg,"4 Rue Pierre Bucher, 67000, Strasbourg",67000,https://bande-a-part-restaurant.fr/,48.5850708,7.7557121
+11183997833,node,Best Western Plus Villa d'Est,hotel,Strasbourg,,,,48.5922427,7.7457961
+11196125916,node,La table afghane,restaurant,Strasbourg,"183 Route du Polygone, 67100",67100,https://la-table-afghane-strasbourg.fr/fr,48.5604493,7.7645367
+11221840600,node,Aroma Sweet,restaurant,Strasbourg,,,,48.5826653,7.7378718
+11232361557,node,L'Ambassade,restaurant,Strasbourg,"7 Rue du Vieux Marché aux Poissons, 67000, Strasbourg",67000,https://www.ambassade-strasbourg.fr/,48.5801735,7.7497012
+11243727901,node,Bachué,restaurant,Strasbourg,"6, 67000, Strasbourg",67000,https://bachue.fr/,48.5787443,7.7543954
+11251263443,node,Les saveurs de l'Atlas,restaurant,Strasbourg,,,,48.6091678,7.7343374
+11290490200,node,La 3ème mi-temps,restaurant,Strasbourg,,,,48.6519745,7.7331102
+11296249869,node,Le Grand Tigre,restaurant,Strasbourg,,,,48.5821819,7.7373421
+11336065521,node,Bistrot Dékalé,restaurant,Strasbourg,"5 Rue de la Coopérative, 67000, Strasbourg",67000,,48.5747115,7.7884797
+11356470269,node,Hôtel des XV,hotel,Strasbourg,46 Rue du Conseil des Quinze,,,48.589294,7.7828454
+11368757569,node,Hey Mama,restaurant,Strasbourg,,,https://heymama-foodandculture.com/,48.5835716,7.7542302
+11394691870,node,Au Bœuf,restaurant,Strasbourg,"25 Rue du Général Leclerc, 67115",67115,http://www.restaurantaubœuf.fr,48.4703654,7.7244829
+11518449701,node,OTO,restaurant,Strasbourg,13 Rue des Couples,,https://oto-strasbourg.fr/,48.5791489,7.7531479
+11518706866,node,La Grange du Gloecksberg,restaurant,Strasbourg,,,,48.5048741,7.6038051
+11543361959,node,Pizza Cosy,restaurant,Strasbourg,,,https://www.pizzacosy.fr/pizzerias/pizza-cosy-strasbourg/,48.5700262,7.7625547
+11591179601,node,Saveurs de l'Himalaya,restaurant,Strasbourg,,,,48.5799063,7.7483249
+11595374805,node,Brasserie Au Salto,restaurant,Strasbourg,,,,48.5613134,7.7660404
+11602390439,node,Planet Lunch,restaurant,Strasbourg,,,,48.5650429,7.7519252
+11608155812,node,Crêp'eat,restaurant,Strasbourg,,,,48.5735892,7.7581788
+11610391450,node,L'île de l'oiseau,restaurant,Strasbourg,,,,48.5762868,7.7576106
+11610391451,node,Sheherazade,restaurant,Strasbourg,,,,48.5770697,7.7552566
+11610391466,node,Blue Sky,restaurant,Strasbourg,,,,48.5784977,7.7525978
+11610439172,node,Chili Thaï Lanna,restaurant,Strasbourg,,,,48.5787155,7.7518933
+11613448022,node,Appart'City Strasbourg Centre,hotel,Strasbourg,"11 Rue de Molsheim, 67000, Strasbourg",67000,https://www.appartcity.com/fr/destinations/alsace/strasbourg/strasbourg-centre.html,48.5777056,7.7340104
+11652436889,node,Le Diable au Thym,restaurant,Strasbourg,"43 Rue Principale, 67300, Schiltigheim",67300,https://www.le-diable-au-thym.com/,48.6050409,7.7512248
+11665244666,node,Salambôo Amilkar,restaurant,Strasbourg,,,,48.5823697,7.7546627
+11672061261,node,Au Passé Retrouvé,restaurant,Strasbourg,"7 Rue Baldung Grien, 67000, Strasbourg",67000,https://www.facebook.com/Mouradova,48.5898946,7.7535463
+11673193846,node,Aedaen Place Pizzeria,restaurant,Strasbourg,,,https://www.aedaen-place.com/la-pizzeria/,48.5826124,7.7417647
+11681740363,node,Tibet Gourmand,restaurant,Strasbourg,,,,48.5814454,7.7427995
+11697212219,node,Origan Pizza,restaurant,Strasbourg,,,,48.5691728,7.7577444
+11700773089,node,La Traversière,restaurant,Strasbourg,"14 Rue Traversière, 67100, Strasbourg",67100,,48.5625793,7.7640575
+11730604061,node,Les 4 saveurs,restaurant,Strasbourg,,,,48.5683193,7.7571979
+11730623061,node,Resto,restaurant,Strasbourg,,,,48.5679263,7.7572874
+11730644158,node,Fleck & Co,restaurant,Strasbourg,,,https://www.fleckandco.com/,48.5688741,7.7582512
+11730820840,node,Fayrouz,restaurant,Strasbourg,,,,48.5654908,7.7524088
+11736877268,node,Hadiqa,restaurant,Strasbourg,"14 Rue du Vieux Marché aux Vins, 67000, Strasbourg",67000,,48.583656,7.7412206
+11767372484,node,Kooma,restaurant,Strasbourg,,,https://kooma-strasbourg.fr/,48.5811514,7.7580737
+11775679009,node,Casa Julia,restaurant,Strasbourg,32,,,48.4883235,7.7154193
+11786867568,node,SSAM,restaurant,Strasbourg,,,,48.5816747,7.7570671
+11800346521,node,Red Lantern,restaurant,Strasbourg,,,https://redlantern.fr/,48.5836092,7.7420656
+11811802643,node,à l'Etoile,restaurant,Strasbourg,1,,,48.4874835,7.7155448
+11824409299,node,Trattoria del Amore,restaurant,Strasbourg,7,,,48.4823894,7.7306293
+11861667568,node,Sushi House,restaurant,Strasbourg,,,,48.5684101,7.7571247
+11861680072,node,Buewewasser,restaurant,Strasbourg,,,,48.5677215,7.757584
+11861680073,node,Cave d'Espagne,restaurant,Strasbourg,,,,48.5675196,7.7577148
+11861680077,node,Sain Sushi,restaurant,Strasbourg,,,,48.567145,7.7579434
+11920273469,node,Kébab Vosges Délices,restaurant,Strasbourg,"15 Rue des Vosges, 67540",67540,,48.5426199,7.7078971
+11937531869,node,La vie,restaurant,Strasbourg,,,,48.5813404,7.7612503
+11948301855,node,Le Ksar,restaurant,Strasbourg,,,,48.5363128,7.7097059
+11991483362,node,La Dolce Vita,restaurant,Strasbourg,,,,48.5324232,7.7190845
+12014367093,node,La Bravade,restaurant,Strasbourg,1,,,48.5107478,7.7267511
+12019756130,node,Les jardins de Babylone,restaurant,Strasbourg,,,,48.5774252,7.7551983
+12026524624,node,Miriné,restaurant,Strasbourg,,,,48.5829479,7.7413347
+12030659722,node,L'évasion,restaurant,Strasbourg,,,https://resto-levasion.fr/,48.524778,7.7350175
+12058850128,node,Brasserie De Boulevard,restaurant,Strasbourg,"1 Rue de Marlenheim, 67000, Strasbourg",67000,,48.5778918,7.7310658
+12066138765,node,Le Faubourg de Pierre,restaurant,Strasbourg,,,,48.5892392,7.7451119
+12066185170,node,B-Mama,restaurant,Strasbourg,,,,48.5887057,7.7457774
+12066185176,node,Le Paname,restaurant,Strasbourg,,,,48.5879607,7.7458325
+12091513428,node,Ko Tao,restaurant,Strasbourg,"25 Rue de l'Elbe, 67100, Strasbourg",67100,,48.5728342,7.7702751
+12150459701,node,Rest'au 21,restaurant,Strasbourg,"21 Rue du Maréchal Lefèbvre, 67100",67100,https://m.facebook.com/100058705309294/,48.5603198,7.7434676
+12180230382,node,Ristorante Italiano da Pietro,restaurant,Strasbourg,,,https://www.ristoranteitalianodapietro.com,48.5801441,7.7467438
+12213915108,node,La Roue d'Or,restaurant,Strasbourg,,,https://restaurantlarouedor-strasbourg.eatbu.com/?lang=fr,48.6191986,7.7903574
+12213915109,node,La Casa Père et Fils,restaurant,Strasbourg,,,https://lacasa-robertsau.fr/,48.6174725,7.788278
+12222224301,node,Chez Tante Liesel,restaurant,Strasbourg,,,,48.5809864,7.7430066
+12260643168,node,Hôtel Château de Pourtalès,hotel,Strasbourg,"161 Rue Mélanie, 67100, Strasbourg",67100,https://www.destination-pourtales.fr/,48.6084588,7.7998703
+12290292201,node,Bibeless',restaurant,Strasbourg,,,,48.5824504,7.7532487
+12337419801,node,Bistrot des Rosiers,restaurant,Strasbourg,"68 Rue de Zurich, 67000",67000,,48.5785909,7.7589582
+12400140271,node,Restaurant universitaire Le Stift,restaurant,Strasbourg,"1bis Quai Saint-Thomas, 67000, Strasbourg",67000,https://www.foyers-etudiants-strasbourg.org/resto-u-strasbourg/,48.5793291,7.7455346
+12410039464,node,La Graffateria,restaurant,Strasbourg,,,,48.5833278,7.7357294
+12416076933,node,Au Bon Vivant,restaurant,Strasbourg,"4 Place du Marché aux Cochons de Lait, 67000, Strasbourg",67000,https://www.aubonvivant.eu/,48.5804265,7.7508678
+12507878701,node,Izumi,restaurant,Strasbourg,,,https://izumi-ramen.fr/,48.5843914,7.7457647
+12568160303,node,Les Complices,restaurant,Strasbourg,"18 Rue Principale, 67300",67300,,48.6067045,7.7520199
+12600493828,node,La petite Ethiopie,restaurant,Strasbourg,"28 Rue du Faubourg National, 67000, Strasbourg",67000,https://www.lapetiteethiopie.fr/,48.5824942,7.7367879
+12701764691,node,Foudre Feu,restaurant,Strasbourg,,,https://foudrefeu.fr/,48.5805191,7.7572583
+12728755970,node,Chez Cosette,restaurant,Strasbourg,,,https://www.chezcosette.com,48.6407384,7.7109641
+12736177460,node,Le Pavot,restaurant,Strasbourg,"113 Route de Mittelhausbergen, 67200, Strasbourg",67200,https://www.instagram.com/lepavot_strasbourg/,48.5955482,7.7173061
+12751837346,node,Tibetan Peace Restaurant,restaurant,Strasbourg,4 Rue du Renard Prêchant,,,48.5794151,7.7571499
+12778361399,node,Au bon coin d'Alsace,restaurant,Strasbourg,,,,48.5868676,7.7682164
+12873052701,node,Chez Paulette,restaurant,Strasbourg,"18 Rue du Neufeld, 67100",67100,,48.5684335,7.7547837
+12888733472,node,Picobello,restaurant,Strasbourg,"21 Rue des Frères, 67000, Strasbourg",67000,https://www.restaurant-lepicobello.com/,48.5829046,7.7529299
+12921465823,node,Le Bistrot des Cocottes,restaurant,Strasbourg,,,,48.5821659,7.7466778
+12981709950,node,,restaurant,Strasbourg,,,,48.6498535,7.8084838
+13053445654,node,Rooftop Kooma,restaurant,Strasbourg,,,,48.5810864,7.7580031
+13060759412,node,Little Wok,restaurant,Strasbourg,,,,48.5812823,7.7568801
+13073970587,node,Peach,restaurant,Strasbourg,,,,48.5769401,7.7517466
+13084827042,node,Hanuri,restaurant,Strasbourg,,,https://www.hanuri.fr/,48.5770375,7.7516538
+13098565002,node,L’Aygui,restaurant,Strasbourg,,,https://restaurant-aygui.fr/,48.584767,7.740501
+13124544301,node,Dan,restaurant,Strasbourg,"5 Rue Albert Camus, 67205",67205,,48.604267,7.7016046
+13142131217,node,Appart'hôtel Citadines Kléber Strasbourg,hotel,Strasbourg,54 Rue du Jeu des Enfants,,https://www.discoverasr.com/fr/citadines/france/citadines-kleber-strasbourg,48.5838538,7.7435769
+13194045299,node,La Crêperie Illkirch,restaurant,Strasbourg,"156 Route de Lyon, 67400, Illkirch-Graffenstaden",67400,https://www.creperie-delices.fr/,48.5257826,7.708348
+13195655483,node,Uncle Bram's,restaurant,Strasbourg,"10 Rue Jean Monnet, 67300, Schiltigheim",67300,,48.6052186,7.7586126
+13207629410,node,Marjane Pizz's,restaurant,Strasbourg,"7 Rue du Petit Marais, 67200, Lingolsheim",67200,,48.5620801,7.6948134
+13207650613,node,L'Ethique,restaurant,Strasbourg,"306 Route de Schirmeck, 67200, Lingolsheim",67200,https://lethiquedotfr.wordpress.com/,48.5616226,7.6947974
+13207650614,node,Cuisine d'Antan,restaurant,Strasbourg,"59 Rue du Maréchal Foch, 67380, Lingolsheim",67380,https://www.cuisine-d-antan.fr/,48.5578972,7.6858029
+13207650615,node,L'ID restaurant,restaurant,Strasbourg,"11 Rue du Château, 67380, Lingolsheim",67380,https://restaurant-id.com/,48.5554823,7.6820293
+13207650616,node,Le Foch,restaurant,Strasbourg,"106 Rue du Maréchal Foch, 67380, Lingolsheim",67380,https://restaurantlefoch.eatbu.com/,48.556302,7.6804929
+13207688743,node,Sushi House Lingolsheim,restaurant,Strasbourg,"24 Rue du Maréchal Foch, 67380, Lingolsheim",67380,https://sushihouse67.fr/,48.5595794,7.6903069
+13207688744,node,Seun Sèp,restaurant,Strasbourg,"55 Rue du Maréchal Foch, 67380, Lingolsheim",67380,,48.5584014,7.6863423
+13208697400,node,Kyriad,hotel,Strasbourg,"59 Rue du Maréchal Foch, 67380, Lingolsheim",67380,https://strasbourg-sud-lingolsheim.kyriad.com/,48.557954,7.6855226
+13208758807,node,firstfood.fr,restaurant,Strasbourg,,,,48.5579019,7.6854222
+13241558608,node,Au Bureau,restaurant,Strasbourg,,,https://www.aubureau.fr/restaurant-brasserie/au-bureau-strasbourg,48.5740496,7.7635087
+13252546978,node,Azuki,restaurant,Strasbourg,,,https://azukistrasbourg.fr,48.5870972,7.7674252
+13267344408,node,Cucci,restaurant,Strasbourg,,,,48.5831696,7.7546027
+13278122001,node,Hey Mama Gare,restaurant,Strasbourg,8 Petite Rue de la Course,,https://heymama-restaurant.com,48.5832146,7.7357214
+13343670401,node,La Knackerie,restaurant,Strasbourg,,,https://www.laknackerie.com,48.5813934,7.7492741
+13344467102,node,Au Coin des Pucelles,restaurant,Strasbourg,,,,48.5842128,7.7537659
+13344473201,node,Honesty,restaurant,Strasbourg,,,,48.5788224,7.7434611
+13395480865,node,Les 7 Pains,restaurant,Strasbourg,"8 Rue de l'Arc-en-Ciel, 67000, Strasbourg",67000,https://federation-de-charite.org/etablissements/les-7-pains/,48.5839898,7.7546267
+13413179409,node,Bistrot Paprika,restaurant,Strasbourg,,,https://bistrotpaprika.fr/,48.5824832,7.7188549
+13421721304,node,Jib Bab,restaurant,Strasbourg,,,,48.5904647,7.7496894
+13428441391,node,La Table de Mokka,restaurant,Strasbourg,"5 Rue Clément, 67000, Strasbourg",67000,https://mokka-strasbourg.fr/,48.5872039,7.7433724
+13511671981,node,Brio,restaurant,Strasbourg,"9 Rue Hannong, 67000, Strasbourg",67000,https://bar-brio.com/,48.5830407,7.7430241
+13513990718,node,Geppetto,restaurant,Strasbourg,,,,48.5831264,7.7542469
+13681790481,node,TIGERMILK,restaurant,Strasbourg,"19 Rue des Francs-Bourgeois, 67000, Strasbourg",67000,https://tigermilkrestaurants.com/fr/restaurants/strasbourg/,48.5814692,7.7464598
+13713218301,node,Le Carné,restaurant,Strasbourg,"28 Rue Kuhn, 67000, Strasbourg",67000,https://www.xn--lecarn-gva.fr/,48.5849822,7.7369629
+13720580201,node,Levanthym - Sajerie Deli,restaurant,Strasbourg,,,https://www.levanthym.fr/,48.5827517,7.7577139
+13729097701,node,La Table de Geispolsheim,restaurant,Strasbourg,"1 Rue de Verdun, 67118",67118,https://latabledegeispolsheim.fr/,48.518935,7.6836614
+13740116233,node,Il Ristorante,restaurant,Strasbourg,"Rue du 23 Novembre, 67118, Geispolsheim",67118,https://www.ilristorante.fr/il-ristorante-strasbourg-la-vigie/,48.5328244,7.6920648
+13754449701,node,Cueillette,restaurant,Strasbourg,"7 Rue du Renard Prêchant, 67000, Strasbourg",67000,https://www.cueillette-strasbourg.fr/,48.5793215,7.7577885
+13767159276,node,Le Jasmin,restaurant,Strasbourg,,,https://lejasminstrasbourg.shop,48.5873306,7.7686372
+13837719601,node,Le Coin des Saveurs,restaurant,Strasbourg,"81 Avenue Jean Jaurès, 67100",67100,,48.5673497,7.7723359
+13856904180,node,Hôtel des Anges,hotel,Strasbourg,,,,48.5809806,7.7494241
+13856904181,node,La Rizière,restaurant,Strasbourg,,,https://la-riziere.fr,48.5831039,7.7550131
+13887460844,node,,restaurant,Strasbourg,,,,48.6126075,7.7760692
+13895477801,node,La belle bête,restaurant,Strasbourg,"9a Rue Georges Laufenburger, 67400",67400,https://labellebete.com,48.5254418,7.7081776
+13947176202,node,Ichiban Ramen,restaurant,Strasbourg,"5 Boulevard de Dresde, 67000, Strasbourg",67000,https://www.ichibanramen.fr/fr/,48.5994588,7.762781
+13968750201,node,L'Impasto,restaurant,Strasbourg,"154 Route de Lyon, 67400",67400,https://www.pizzeria-impasto.fr,48.5281916,7.7101162
+13978548978,node,Le Spitze,restaurant,Strasbourg,"15 Rue des Dentelles, 67000, Strasbourg",67000,https://www.lebouclierdor.com/restaurant-le-spitze/,48.5807985,7.7434036
+13979687860,node,La Marne,restaurant,Strasbourg,,,,48.6139947,7.7512608
+13989943074,node,Le Caveau de Schiltigheim,restaurant,Strasbourg,"8 a Rue Principale, 67300, Schiltigheim",67300,https://caveau-de-schiltigheim.fr/,48.6071694,7.7519618

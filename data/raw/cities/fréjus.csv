@@ -1,0 +1,83 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+1485189857,node,Bar Restaurant de l'Estérel,restaurant,Fréjus,,,,43.5263381,6.8375161
+1485189860,node,La Table d'Amanda,restaurant,Fréjus,,,,43.5289479,6.820393
+1485189875,node,L'Estirado des Adrets,restaurant,Fréjus,,,,43.5153181,6.8108121
+1485189876,node,Le Relais des Adrets,restaurant,Fréjus,,,,43.5257564,6.8140276
+1485189884,node,,hotel,Fréjus,,,,43.5152666,6.8109435
+1867006875,node,Le cadet Rousselle,restaurant,Fréjus,83600,83600,,43.4333473,6.732871
+1867007918,node,L'Arénas,hotel,Fréjus,,,,43.4324168,6.7331214
+1998480626,node,La Rose des Sables,restaurant,Fréjus,,,,43.4218484,6.7451718
+1998578771,node,L'Hippocampe,restaurant,Fréjus,,,,43.422892,6.7483794
+1999649016,node,Au Moussaillon,restaurant,Fréjus,,,,43.4229067,6.7497525
+2000001576,node,Le Bœuf sur le Quai,restaurant,Fréjus,,,,43.4232848,6.7461642
+2000007691,node,Le César,restaurant,Fréjus,,,https://www.restaurantlecesar.com/,43.4224837,6.748731
+2106144757,node,,restaurant,Fréjus,,,,43.4340207,6.7353904
+2106180927,node,,restaurant,Fréjus,,,,43.4228631,6.7493808
+2929612274,node,Zenitude Hôtel et Résidence,hotel,Fréjus,"566 Via Aurelia, 83600, Fréjus",83600,https://zenitude-hotel-residences.com/residences/12/153/frejus-3-la-tour-de-mare.htm,43.4549828,6.7607546
+3415605815,node,Sépia,restaurant,Fréjus,"37 Quai de Marc Antoine, 83600, Fréjus",83600,https://www.sepiafrejus.fr/,43.4228613,6.7485464
+3483672093,node,B&B Hôtel,hotel,Fréjus,"Z.I. La Palud - Nationale 7, 83600, Fréjus",83600,https://www.hotel-bb.com/fr/hotel/frejus-puget-sur-argens,43.4389688,6.7133581
+3790781834,node,Auberge des Adrets,hotel,Fréjus,,,https://www.auberge-adrets.com/,43.5138172,6.827071
+4071335389,node,Chicken',restaurant,Fréjus,"116 Avenue de Verdun, 83600, Fréjus",83600,www.lamaisondupouletfrejus.fr,43.4329494,6.7308526
+4711367522,node,,restaurant,Fréjus,Rue des Combattants d'Afrique du Nord,,,43.4503691,6.7273058
+4711367523,node,,restaurant,Fréjus,Rue des Combattants d'Afrique du Nord,,,43.4505775,6.7277606
+5153599248,node,Brasserie Le Palais,restaurant,Fréjus,,,,43.4340242,6.7369079
+5154748312,node,Les Micocouliers,restaurant,Fréjus,,,,43.4331149,6.7359729
+5154748313,node,Crêperie des Délices,restaurant,Fréjus,,,,43.4327182,6.7366954
+5154748314,node,Le Jardin de Jules,restaurant,Fréjus,,,,43.4332438,6.7361806
+5154748315,node,Brasserie Hermès,restaurant,Fréjus,,,,43.4328863,6.7363916
+5154917247,node,Ibis Budget Fréjus Centre et Plage,hotel,Fréjus,,,,43.4303437,6.7560505
+5154987139,node,L'Absolu,restaurant,Fréjus,,,,43.4331023,6.7358015
+5154987140,node,Le Jardin de l'Aréna,restaurant,Fréjus,,,,43.4324218,6.7332284
+5155134103,node,Grand Café de l'Esterel,restaurant,Fréjus,,,,43.432584,6.733441
+5349379948,node,A Casa Serena,restaurant,Fréjus,,,,43.5258027,6.81384
+5691489427,node,Instan't,restaurant,Fréjus,,,,43.449714,6.7556587
+5753968245,node,La Cave Blanche,restaurant,Fréjus,,,,43.433517,6.7363809
+5769115974,node,Chez Mam's,restaurant,Fréjus,,,,43.4242945,6.7580602
+5769119067,node,La Crêperie d'Émilie,restaurant,Fréjus,,,,43.4249747,6.7612794
+5769119068,node,Les Sablettes,restaurant,Fréjus,,,https://www.lessablettes-fréjus.fr/,43.4244587,6.7617059
+5769119170,node,Saveur d'Asie,restaurant,Fréjus,,,,43.4248054,6.7601818
+5769119171,node,La Moule Joyeuse,restaurant,Fréjus,,,,43.4242808,6.7579574
+5769119269,node,Kazaar,restaurant,Fréjus,,,,43.4238866,6.7582483
+6290769909,node,Ocean Drive,restaurant,Fréjus,,,,43.3983591,6.729269
+6564914485,node,À Table!,restaurant,Fréjus,"137 Rue Grisolle, 83600",83600,,43.4323182,6.7370045
+6652865396,node,La Bocca,restaurant,Fréjus,,,,43.4250073,6.7618434
+6652866551,node,Vésuve,restaurant,Fréjus,,,,43.4250121,6.7625487
+6652883325,node,Vach' et Moi,restaurant,Fréjus,,,,43.4249079,6.762715
+6779853593,node,Le Milano,restaurant,Fréjus,,,,43.4225439,6.7529973
+6855125571,node,La Cave Romaine,restaurant,Fréjus,114 Rue de Camelin,,,43.4320153,6.7355197
+6943284415,node,Let's Wok,restaurant,Fréjus,"146 Rue Georges Besse, 83600, Fréjus",83600,,43.4381641,6.7177287
+7070436311,node,Le Flore,hotel,Fréjus,,,,43.4322963,6.7357296
+7070443710,node,Le Basilic,restaurant,Fréjus,,,,43.4322686,6.7366194
+7393231297,node,Sushi Klub,restaurant,Fréjus,,,,43.432412,6.734924
+7394073348,node,La Terrasse Du Capitou,restaurant,Fréjus,,,,43.4682405,6.7343476
+7394182412,node,Excel Café Restaurant,restaurant,Fréjus,,,,43.4649963,6.7316841
+7743209544,node,L'amandier,restaurant,Fréjus,,,,43.4327873,6.7370902
+7743209578,node,Vie Del Gusto,restaurant,Fréjus,,,,43.4321598,6.7358736
+7743234797,node,La Riviera,restaurant,Fréjus,,,,43.432098,6.7364496
+7743234806,node,L'Entrée des Artistes,restaurant,Fréjus,,,,43.4324008,6.7372461
+8951736584,node,Le 7th Heaven,restaurant,Fréjus,123 Boulevard de la Libération,,,43.4244484,6.7586495
+8976437617,node,Brasero,restaurant,Fréjus,,,,43.4228207,6.7486263
+9047560854,node,La Terrasse,restaurant,Fréjus,,,,43.3993344,6.7150234
+9098275065,node,Joy's Pizza,restaurant,Fréjus,1623 Rue des Combattants d'Afrique du Nord,,,43.4502174,6.7269753
+9162773977,node,Le Merou Ardent,restaurant,Fréjus,,,,43.4245186,6.7589877
+10086631548,node,Le Catalogne,hotel,Fréjus,,,,43.3817518,6.7210613
+11077365205,node,Le caractere,restaurant,Fréjus,"342 Avenue de la Corniche d'Azur, 83370",83370,,43.3911886,6.7273465
+11089763106,node,La Tarantella,restaurant,Fréjus,"558 Boulevard Honoré de Balzac, 83370",83370,https://www.latarantella.fr/,43.3871915,6.7206139
+11904558207,node,Le Comptoir D'Adriano,restaurant,Fréjus,,,https://www.facebook.com/p/Le-Comptoir-DAdriano-100043096547579/,43.4430098,6.7530432
+11913922042,node,Le P'tit Resto,restaurant,Fréjus,,,,43.4260202,6.7608554
+12070173769,node,Kokonut,restaurant,Fréjus,,,,43.4003758,6.7301736
+12361235504,node,L'Envie,restaurant,Fréjus,"565 Grande Rue, 83600, Bagnols-en-Forêt",83600,,43.5371618,6.6989471
+12361235505,node,Les Remèdes de Bacchus,restaurant,Fréjus,"545 Grande Rue, 83600, Bagnols-en-Forêt",83600,,43.5372541,6.6987306
+12361235506,node,En Face,restaurant,Fréjus,"539 Grande Rue, 83600, Bagnols-en-Forêt",83600,https://brasserie-en-face-bagnol.eatbu.com/?lang=fr,43.5373105,6.6986318
+12361235507,node,Le Bistrot,restaurant,Fréjus,"513 Grande Rue, 83600, Bagnols-en-Forêt",83600,,43.5373546,6.6984361
+12379480102,node,Le Central,restaurant,Fréjus,1075 Avenue de la Corniche d'Azur,,,43.3858767,6.7231566
+12894661025,node,Le Cosy,hotel,Fréjus,,,,43.39159,6.7269538
+12894668976,node,L'Émeraude,restaurant,Fréjus,,,,43.3918349,6.7282933
+13071257943,node,Madre Mio,restaurant,Fréjus,,,,43.466127,6.7630247
+13159908609,node,Da Gennaro,restaurant,Fréjus,,,,43.4305767,6.7362156
+13306169440,node,,restaurant,Fréjus,,,,43.3925203,6.7278101
+13306210094,node,,restaurant,Fréjus,,,,43.3914121,6.7276821
+13306210098,node,,restaurant,Fréjus,,,,43.3801861,6.7196392
+13306211305,node,,restaurant,Fréjus,,,,43.390543,6.7263316
+13306213359,node,,restaurant,Fréjus,,,,43.3911363,6.7267872
+13709049201,node,Les Copains d'Abord,restaurant,Fréjus,,,,43.4323385,6.7355738

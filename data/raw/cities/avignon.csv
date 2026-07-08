@@ -1,0 +1,394 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+302666367,node,Le Bercail,restaurant,Avignon,"162 Chemin des Canotiers, 84000, Avignon",84000,https://www.restaurant-lebercail.fr/,43.9551681,4.8109671
+302848749,node,La Moutardier du Pape,restaurant,Avignon,,,,43.9511134,4.8062789
+302848756,node,Café In et Off,restaurant,Avignon,5 Place du Palais,,,43.9505934,4.8062246
+302848757,node,Hôtel du Palais des Papes,hotel,Avignon,3 Place du Palais,,https://www.hotel-avignon.com/,43.9504553,4.8061318
+302848803,node,L'idylle du Palais,restaurant,Avignon,,,,43.9502787,4.8058974
+302848804,node,Restaurant Festicafé,restaurant,Avignon,8,,,43.9503708,4.8058835
+302852529,node,Léo Léa,restaurant,Avignon,,,,43.9497935,4.8064
+302852530,node,La Civette,restaurant,Avignon,,,,43.9497594,4.8067616
+302852531,node,Brasserie de L’Horloge,restaurant,Avignon,,,,43.9495845,4.8063335
+302852532,node,L'Opéra Café,restaurant,Avignon,24 Place de l'Horloge,,,43.9495224,4.8063324
+302852533,node,La Sperlongaise,restaurant,Avignon,7 Rue de Mons,,,43.9494317,4.8063309
+302852534,node,Le Forum,restaurant,Avignon,20 Place de l'Horloge,,,43.9493214,4.806329
+302852535,node,Brasserie de l'hôtel de ville,restaurant,Avignon,18 Place de l'Horloge,,,43.9491764,4.8062598
+302852536,node,La brasse,restaurant,Avignon,26 Bis Place de l'Horloge,,,43.9491348,4.8062598
+302852538,node,Le Jacquemart,restaurant,Avignon,,,,43.9490612,4.8062596
+303075922,node,Milano,restaurant,Avignon,21 bis Place Crillon,,https://www.restaurantlemilano.fr,43.9500886,4.8026676
+303075926,node,La Scène,restaurant,Avignon,19 Place Crillon,,,43.9500459,4.8030038
+303075927,node,Le Café de la Comédie,restaurant,Avignon,15 Place Crillon,,,43.9500611,4.8031359
+303075928,node,Le Crillon,restaurant,Avignon,,,https://www.restaurantlecrillon.fr/,43.9500515,4.8032302
+303075942,node,La Ferugoulo,restaurant,Avignon,10 Rue du Rempart du Rhône,,https://www.laferigoulo.net/,43.9508762,4.8030956
+303075943,node,Le Goût du jour,restaurant,Avignon,20 Rue Saint-Étienne,,https://www.legoutdujour84.com,43.9505582,4.8042523
+303080515,node,Aux saveurs partagé,restaurant,Avignon,,,,43.9514349,4.8181578
+419423773,node,La maison,restaurant,Avignon,4 Rue Grivolas,,,43.9471397,4.8094645
+634159515,node,La Margelle,restaurant,Avignon,,,,43.9577326,4.9329766
+634159516,node,La Bougie,restaurant,Avignon,,,,43.9564813,4.9303909
+908718091,node,Bistrot de l'Industrie,restaurant,Avignon,,,,43.9183825,5.0492932
+908777822,node,La Table de Ninou,restaurant,Avignon,22b Quai Rouget de L'Isle,,,43.9179876,5.0506068
+913112554,node,Lou Nego Chin,restaurant,Avignon,,,,43.9195793,5.0544138
+913112555,node,Le Bouchon,restaurant,Avignon,9 Quai Jean Jaurès,,,43.9196439,5.0545415
+919763602,node,Le Saint-Antoine,restaurant,Avignon,"203 Avenue de Saint-Antoine, 84800, L'Isle-sur-la-Sorgue",84800,,43.9342744,5.0652111
+932280542,node,Le Jardin du Quai,restaurant,Avignon,,,,43.9175332,5.0485458
+932280547,node,Agora,restaurant,Avignon,,,,43.9176354,5.052568
+932280564,node,Rose d'Asie,restaurant,Avignon,,,,43.9183952,5.0526266
+974706463,node,Restaurant universitaire - CROUS,restaurant,Avignon,,,,43.9106016,4.8905776
+975425852,node,Au bout d’la Rue,restaurant,Avignon,164 Rue de la Carreterie,,https://au-bout-dla-rue.eatbu.com/?lang=fr,43.9512726,4.8186136
+1323384241,node,Bistrot de Saumane,restaurant,Avignon,,,,43.9361193,5.1056523
+1324046033,node,Lou Fanaü,restaurant,Avignon,,,,43.9218884,5.1273956
+1325547501,node,Au Chineur,restaurant,Avignon,"2 Esplanade Robert Vasse, 84800, L'Isle-sur-la-Sorgue",84800,,43.9181712,5.05234
+1340915744,node,Restaurant des Carmes,restaurant,Avignon,,,,43.951122,4.8129123
+1342314967,node,Les Deux J & Cie,restaurant,Avignon,,,,43.9163848,4.8893057
+1342314968,node,La Mijote,restaurant,Avignon,"775 Route de l'Aérodrome, 84140, Montfavet",84140,,43.9164806,4.8886395
+1342620540,node,La Maison Sur La Sorgue,hotel,Avignon,,,,43.9194994,5.0528319
+1387633387,node,L'atelier,restaurant,Avignon,,,,43.9287903,4.8390519
+1426761239,node,Les 3 bonheurs,restaurant,Avignon,,,,43.948121,4.806881
+1427774354,node,Le Vintage,restaurant,Avignon,10 Rue Galante,,https://levintageavignon.com/,43.9479009,4.8066153
+1445366513,node,Croq Nem Le Tai,restaurant,Avignon,"15 Boulevard Raspail, Avignon",,https://www.croqnemletai.com/,43.9443786,4.8036793
+1449993078,node,Via Roma,restaurant,Avignon,,,,43.977951,4.871234
+1450013006,node,La Criée,restaurant,Avignon,,,,43.9797065,4.8721226
+1450077429,node,Le Rieti,restaurant,Avignon,,,,43.9754642,4.8698975
+1455841953,node,Flunch,restaurant,Avignon,,,,43.9208729,4.8679066
+1475017448,node,Hôtel la Tapy,hotel,Avignon,,,,43.9759313,4.8831702
+1499756194,node,L'espressi,restaurant,Avignon,,,,44.0082097,4.8737624
+1501550058,node,La Casa de la Brochette,restaurant,Avignon,,,,43.9375058,4.8103894
+1506324533,node,Hôtel Bagatelle le Pavillon Bleu,hotel,Avignon,,,http://www.aubergebagatelle.fr/,43.9532098,4.7994121
+1509853505,node,La Mirande,restaurant,Avignon,"4, 84000, Avignon",84000,https://www.la-mirande.fr/fr/restaurant-avignon-provence.html,43.9500891,4.8077073
+1538398619,node,ti amo ti ...,restaurant,Avignon,"5 Place Jérusalem, Avignon",,,43.948426,4.808631
+1539742950,node,La Canoa,restaurant,Avignon,"50 Rue des Fourbisseurs, 84000, Avignon",84000,,43.947366,4.80767
+1539822047,node,Casa nostra,restaurant,Avignon,3 Place Jérusalem,,,43.948416,4.808693
+1540755551,node,Le Domus,restaurant,Avignon,"45 Cours Jean Jaurès, 84000",84000,,43.943974,4.8056507
+1540763737,node,Alizea Paris-Nice,hotel,Avignon,"38 Cours Jean Jaurès, 84000",84000,https://www.hotelalizea.com/,43.9449119,4.8053323
+1540763738,node,Pomelo,restaurant,Avignon,36 Cours Jean Jaurès,,,43.9448173,4.805335
+1540773137,node,Restaurant Viet-Nam,restaurant,Avignon,Avignon,,,43.9483441,4.806096
+1540784850,node,Restaurant Le central,restaurant,Avignon,"35, 84000",84000,,43.9454974,4.8057417
+1583689290,node,Pizz'Eric,restaurant,Avignon,,,,43.9182913,5.049527
+1589738970,node,El Rancho,restaurant,Avignon,,,,43.981429,4.879019
+1598870938,node,L'essentiel,restaurant,Avignon,,,,43.949267,4.804275
+1603233054,node,Coin Caché,restaurant,Avignon,"5 Place Saint-Pierre, Avignon",,,43.9494783,4.8080957
+1706776913,node,Café brasserie des Sports,restaurant,Avignon,"Avenue de la Gare, 84370",84370,,44.0407111,4.8949378
+1706778952,node,El Meson,restaurant,Avignon,"Boulevard du 8 Mai 1945, 84370, Bédarrides",84370,,44.0409533,4.8946591
+1706779057,node,Le Brennus,restaurant,Avignon,17 Avenue de la Gare,,,44.0408887,4.8935996
+1706781729,node,Café hotel restaurant de l'Ouvèze,hotel,Avignon,"Quai de l'Ouvèze, 84370, Bédarrides",84370,,44.0393838,4.8972029
+1706782598,node,Le numéro 3,restaurant,Avignon,13 Quai de l'Ouvèze,,,44.0392094,4.8986642
+1763841281,node,Moloko,restaurant,Avignon,,,,43.947567,4.803425
+1763842963,node,Le cochon bleu,restaurant,Avignon,9 Rue d'Annanelle,,https://restaurant-lecochonbleu.fr/,43.947256,4.802696
+1763844182,node,La cour d'honneur,restaurant,Avignon,,,,43.946964,4.803198
+1792828408,node,Le Moulin Gourmand,restaurant,Avignon,,,,43.9280677,4.995249
+1792828441,node,,restaurant,Avignon,,,,43.9279576,4.9961878
+1792828452,node,,restaurant,Avignon,,,,43.9277316,4.9933124
+1792828495,node,,restaurant,Avignon,,,,43.9290355,4.9954528
+1794321493,node,Pollen,restaurant,Avignon,,,,43.947715,4.804011
+1796937756,node,Gnocchi Della Mamma,restaurant,Avignon,27 Rue Carnot,,,43.949233,4.810316
+1796949593,node,Saigon food,restaurant,Avignon,5 Rue et Place du Portail Matheron,,,43.949499,4.811814
+1807596965,node,Asie garden,restaurant,Avignon,,,,43.921923,4.865566
+1807627584,node,Brasserie la pergola,restaurant,Avignon,,,,43.921122,4.865091
+1821454458,node,Le bistrot des sales gosses,restaurant,Avignon,"7 Rue Figuière, Avignon",,,43.94715,4.806969
+1823134214,node,Pinocchio,restaurant,Avignon,,,,43.946603,4.806022
+1823308171,node,Resto Raj Mahal,restaurant,Avignon,,,,43.947271,4.806113
+1823308977,node,Mamma mia,restaurant,Avignon,"1 Rue Saint-Antoine, Avignon",,,43.947321,4.806646
+1823310141,node,Italie là-bas,restaurant,Avignon,,,,43.947622,4.806435
+1823313561,node,Restaurant d'ici et d'ailleurs,restaurant,Avignon,1 Rue Etroite,,,43.94825,4.806457
+1823313695,node,Xuan,restaurant,Avignon,"6 Rue Galante, 84000, Avignon",84000,https://www.facebook.com/xuanavignon/,43.948154,4.806495
+1823314333,node,Tanoshii,restaurant,Avignon,"8 Rue Galante, 84000, Avignon",84000,,43.948005,4.806544
+1823317013,node,Côté goût,restaurant,Avignon,,,,43.9482076,4.8066357
+1823318332,node,La cigale,restaurant,Avignon,,,,43.94813,4.806318
+1823351040,node,Kouk,restaurant,Avignon,"6 Rue du Général Leclerc, 84000, Avignon",84000,,43.948881,4.810369
+1823351623,node,Éphèse,restaurant,Avignon,"2 Rue Général Leclerc, 84000, Avignon",84000,,43.9490568,4.8104694
+1823766549,node,Pizz'Alif,restaurant,Avignon,325,,https://pizzalif.com,43.9273429,4.7902347
+1823780929,node,La Grande muraille,restaurant,Avignon,"270 Chemin de Ramatuel, Avignon",,,43.929774,4.790716
+1824082705,node,Le kiwi,restaurant,Avignon,,,,43.983729,4.86037
+1824390008,node,Le Cul De Poule,restaurant,Avignon,"2 Place des Carmes, 84000, Avignon",84000,https://www.leculdepoule.fr/,43.9502063,4.8132223
+1825085830,node,Café Saint-Jean,restaurant,Avignon,8 Rue du Général Leclerc,,,43.9486521,4.8101891
+1825720399,node,Graines de piment,restaurant,Avignon,,,,43.947836,4.807237
+1825720724,node,Naka,restaurant,Avignon,"4 Place de la Principale, Avignon",,,43.947921,4.807151
+1825771001,node,Le verso,restaurant,Avignon,"3 Place Nicolas Saboly, 84000, Avignon",84000,,43.949068,4.807138
+1825773732,node,Jab's bar,restaurant,Avignon,,,,43.948927,4.807389
+1826447943,node,Le Petit Napolitain,restaurant,Avignon,40 Boulevard Limbert,,https://lepetitnapolitain84.com/,43.949904,4.8199595
+1826474687,node,Citron pressé,restaurant,Avignon,4 Rue Guillaume Puy,,,43.950334,4.813935
+1826483900,node,Au canard de Pékin,restaurant,Avignon,,,https://restaurants.subway.com/fr/france/avignon/3-rue-de-la-carreterie,43.949942,4.812723
+1826503479,node,Ripert,restaurant,Avignon,,,,43.9477222,4.8086497
+1852842354,node,Le terminus,restaurant,Avignon,,,,43.918024,5.047386
+1852925698,node,Meinado,restaurant,Avignon,"7043 Route de Marseille, 84000, Avignon",84000,,43.889682,4.9140211
+1885412932,node,Le bistro Bodeguita,restaurant,Avignon,"18 Boulevard Limbert, Avignon",,,43.945778,4.817017
+1935225364,node,Pizzeria Napoli,restaurant,Avignon,,,,43.9622209,4.8594084
+1935233878,node,L’ottoman,restaurant,Avignon,,,,43.9634521,4.858483
+1935241715,node,Le Libanais,restaurant,Avignon,,,https://lelibanais.fr/,43.9557273,4.8426392
+1935885670,node,Pizza de la Place,restaurant,Avignon,,,,43.9415457,4.9054431
+1935889106,node,Le 16,restaurant,Avignon,,,,43.9417774,4.90676
+1941870965,node,Hostellerie le Château,restaurant,Avignon,,,,43.921968,5.1282014
+1962556990,node,Le Barrio,restaurant,Avignon,13 Rue des Infirmières,,,43.9513568,4.8127606
+1962560304,node,Pizz & food,restaurant,Avignon,,,,43.9522517,4.8118032
+1962664822,node,La Cuisine de Papa,restaurant,Avignon,"7 Rue Racine, 84000",84000,http://lacuisinedepapa.fr,43.949866,4.804835
+2021333613,node,La Livrée du Palais,hotel,Avignon,,,,43.9494949,4.8112137
+2021469691,node,Subito,restaurant,Avignon,,,,43.9505773,4.8040984
+2028522494,node,Cherry´s,restaurant,Avignon,,,,43.9845527,4.8875136
+2032725207,node,La Guinguette,restaurant,Avignon,"1494 Avenue Voltaire Garcin, 84800, L'Isle-sur-la-Sorgue",84800,https://www.la-guinguette.com/,43.9169985,5.0719019
+2059729435,node,Moma sushi,restaurant,Avignon,1 Rue Jean-Henri Fabre,,,43.945122,4.806109
+2059747263,node,Le Molière,restaurant,Avignon,3 Rue Agricol Perdiguier,,,43.944163,4.807402
+2059747850,node,Les tables de La Fontaine,restaurant,Avignon,62 Place des Corps Saints,,,43.9445118,4.8074954
+2059749274,node,L'épicerie de Ginette,restaurant,Avignon,1 Rue Paul Manivet,,,43.944462,4.807885
+2059749446,node,Burger will,restaurant,Avignon,"2 Rue Paul Manivet, Avignon",,,43.94433,4.8080371
+2059750000,node,La princière,restaurant,Avignon,23 Place des Corps Saints,,https://la-princiere-avignon.eatbu.com/,43.9445317,4.8078157
+2059750529,node,L'Agape,restaurant,Avignon,"19 Place des Corps Saints, Avignon",,,43.944578,4.807788
+2059752413,node,Le pili,restaurant,Avignon,34 Place des Corps Saints,,,43.944652,4.807472
+2059765622,node,L’atelier de Bélinda,restaurant,Avignon,,,,43.944625,4.807775
+2092350820,node,La Fourchette,restaurant,Avignon,,,,43.9513695,4.8055805
+2123610716,node,Les Arts,restaurant,Avignon,1 Rue Favart,,,43.9489723,4.8062595
+2123610929,node,Vert citron,restaurant,Avignon,,,,43.949028,4.8062596
+2123711029,node,Restaurant interadministratif,restaurant,Avignon,,,,43.943529,4.807533
+2174783216,node,Palais Bab Mansour,restaurant,Avignon,"37 Rue Saint-Michel, Avignon",,,43.9431861,4.8086025
+2211167327,node,Le pavillon bleu,restaurant,Avignon,"25 Allée Antoine Pinay, 84000, Avignon",84000,https://www.lepavillonbleu-avignon.com/,43.9530337,4.7997604
+2212789280,node,La Planque - Bar à jeux,restaurant,Avignon,"19 Rue des Lices, 84000, Avignon",84000,https://www.instagram.com/laplanqueavignon,43.9451568,4.8087127
+2212811761,node,Lou piadina,restaurant,Avignon,,,,43.9503825,4.8128156
+2212815017,node,Au Jardin des Carmes,restaurant,Avignon,"21 Place des Carmes, 84000, Avignon",84000,http://www.aujardindescarmes.fr,43.9507491,4.8126738
+2212822456,node,Hygge,restaurant,Avignon,"25 Place des Carmes, 84000, Avignon",84000,,43.950963,4.8126489
+2241171600,node,fou de fafa,restaurant,Avignon,17 Rue des Trois Faucons,,https://www.restaurantfoudefafa.com,43.9458871,4.807711
+2292608636,node,L'Auberge de Bonpas,restaurant,Avignon,,,,43.8889755,4.9187961
+2303511046,node,L'ardéchois perché,restaurant,Avignon,"5 Place Louis Pasteur, 84000, Avignon",84000,,43.949169,4.8147583
+2303531866,node,Vezzo pizza,restaurant,Avignon,,,,43.945444,4.8142142
+2303534704,node,Bar La brasserie,restaurant,Avignon,,,,43.9447878,4.8140839
+2303535891,node,numéro 75,restaurant,Avignon,,,,43.9448237,4.8144653
+2303817989,node,Le square,restaurant,Avignon,Cours Jean Jaurès,,,43.9445757,4.8064913
+2314153286,node,Baryum,restaurant,Avignon,,,,43.9457298,4.8077228
+2314153299,node,Restaurant le 26,restaurant,Avignon,,,,43.9455984,4.8074839
+2314153303,node,Maison de Coto,restaurant,Avignon,16-18,,,43.9457759,4.807574
+2314153305,node,Le Joat,restaurant,Avignon,19 Rue des Trois Faucons,,,43.9458,4.8077105
+2314171792,node,Tulipe,restaurant,Avignon,,,,43.946307,4.8076067
+2314192823,node,Le petit Cabestan,restaurant,Avignon,,,,43.9467447,4.808711
+2345368592,node,Le potard,restaurant,Avignon,"19 Place de la Principale, 84000",84000,,43.9477342,4.8075945
+2428281104,node,Le Lutrin,restaurant,Avignon,,,,43.9502767,4.8060355
+2428283964,node,Restaurant Christian Etienne,restaurant,Avignon,10 Rue de Mons,,,43.9500978,4.8069199
+2428344132,node,Hiély Lucullus,restaurant,Avignon,,,,43.9484036,4.8060647
+2466645768,node,Les Nevons,hotel,Avignon,,,,43.9175685,5.0548064
+2493737741,node,L'isle de la beauté,restaurant,Avignon,,,,43.9191626,5.053494
+2504757126,node,Indian Food,restaurant,Avignon,"Rue des Teinturiers, Avignon",,,43.9454884,4.8128184
+2504757896,node,Art’è gusto,restaurant,Avignon,,,,43.9452328,4.8130257
+2504757897,node,Maïnama,restaurant,Avignon,35 Rue des Teinturiers,,,43.9451451,4.8131166
+2504759654,node,L'offset,restaurant,Avignon,,,https://www.loffset.com/,43.9449021,4.8132232
+2504761237,node,Le zinzolin,restaurant,Avignon,1 Rue de la Tarasque,,https://www.le-zinzolin-restaurant-avignon.com/,43.9448998,4.813692
+2504765409,node,Le chapelier toqué,restaurant,Avignon,"71 Rue Guillaume Puy, Avignon",,,43.9452961,4.8141943
+2504769715,node,Gandhi,restaurant,Avignon,,,,43.9453827,4.8142057
+2504795094,node,San Marino,restaurant,Avignon,,,,43.9511867,4.8153382
+2512533426,node,La kasba des halles,restaurant,Avignon,,,,43.9470655,4.8104774
+2512533823,node,La fabrique,restaurant,Avignon,52 Rue de la Bonneterie,,,43.9470894,4.8099362
+2512538273,node,Cabane dOléron,restaurant,Avignon,,,,43.9472834,4.8099659
+2646583706,node,Courtepaille,restaurant,Avignon,,,https://restaurants.courtepaille.com/restaurant-avignon-aerodrome-id93,43.9034027,4.8966258
+2649595340,node,La Manutention,restaurant,Avignon,"4 Escaliers Sainte-Anne, 84000, Avignon",84000,,43.9515615,4.808509
+2677104995,node,,restaurant,Avignon,,,,43.9416646,4.9048835
+2689754193,node,Équinoxe,restaurant,Avignon,"190 B Rue du Grand Gigognan, Avignon",,,43.9300077,4.7819008
+2690243066,node,La Potinière,restaurant,Avignon,145 Rue du 12ème Régiment de Zouaves,,,43.9296835,4.7768877
+2874202773,node,Indochine,restaurant,Avignon,,,,43.9774121,4.8730429
+2937784253,node,La Vanne Marel,restaurant,Avignon,"Rue des Bourgades, 84800, Fontaine-de-Vaucluse",84800,https://lavannemarel.fr,43.9217033,5.1275983
+2949629417,node,Bella vita,restaurant,Avignon,,,,43.9195125,5.0516342
+3018707207,node,La boucherie,restaurant,Avignon,,,,43.9262607,4.8442237
+3018759334,node,Bistro Régent,restaurant,Avignon,,,,43.9285163,4.8387972
+3029499038,node,Wafu Ramen,restaurant,Avignon,"20 Rue du Vieux-Sextier, 84000, Avignon",84000,,43.9481801,4.8086625
+3029507097,node,Mecha Uma,restaurant,Avignon,"29 Rue du Vieux-Sextier, 84000, Avignon",84000,,43.9482869,4.8085643
+3029570985,node,Chez Nine,restaurant,Avignon,5 Rue des Fourbisseurs,,,43.9485088,4.8082981
+3045351751,node,La détente,restaurant,Avignon,,,,44.0090673,4.8731122
+3060991041,node,La font de Lauro,hotel,Avignon,"Chemin de la gaffe, 84800, Saumane",84800,https://www.hotel-la-font-de-lauro.fr/,43.9190625,5.1018851
+3105062944,node,La Table de Sorgues,restaurant,Avignon,72 Avenue du 8 Mai 1945,,,44.0078986,4.8724716
+3421595302,node,Les Bulleuses,restaurant,Avignon,60 Place des Corps Saints,,,43.9444247,4.8074648
+3515659038,node,Restaurant Pollen,restaurant,Avignon,"28bis Rue Joseph Vernet, 84000, Avignon",84000,,43.9494192,4.8034948
+3707008933,node,,hotel,Avignon,,,,47.9701124,-67.0506388
+3766906711,node,La Table de Saint-Louis,restaurant,Avignon,,,,43.9440079,4.8044377
+3766921061,node,Première édition,restaurant,Avignon,13 Rue Théodore Aubanel,,,43.9465639,4.8062571
+3798160110,node,Le Petit Bédarridais,restaurant,Avignon,,,,44.0413643,4.8985799
+3867380896,node,Sapori di Calabria,restaurant,Avignon,13 Rue du Rateau,,,43.9458257,4.8123705
+3872687186,node,Chez Gabin,restaurant,Avignon,2325 Avenue d'Orange,,,44.0285317,4.873963
+3899031466,node,C'est Ici,restaurant,Avignon,,,,43.9836551,4.8713867
+3903205364,node,,restaurant,Avignon,,,,44.0209424,4.8915092
+4017225696,node,Memphis,restaurant,Avignon,140 Rue Paul Éluard,,,43.9301505,4.836838
+4137545289,node,Le comptoir MBC,restaurant,Avignon,4 Rue Félix Gras,,,43.9486121,4.8039213
+4339134983,node,Restaurant Le Vieux-Marché,restaurant,Avignon,"117 Route 132 Est, G0C 2E0",G0C 2E0,,48.1359701,-66.3128459
+4350016270,node,Vivotto,restaurant,Avignon,"775 Route de l'Aérodrome, 84140, Montfavet",84140,,43.9165356,4.8883159
+4375388356,node,Chez Mamie,restaurant,Avignon,20 Rue de la Croix,,http://www.chez-mamie-restaurant-avignon.com/la-carte-chez-mamie-restaurant-avignon,43.949293,4.8109045
+4423249589,node,Le Carré d'Herbes,restaurant,Avignon,13 Avenue des Quatre Otages,,,43.9184075,5.0542349
+4423474110,node,La kasba,restaurant,Avignon,"69, 84000, Avignon",84000,https://www.lakasbadupalais.fr/,43.946971,4.8104797
+4471543040,node,Le Coude à Coude,restaurant,Avignon,"37 Rue Saraillerie, 84000",84000,,43.9472023,4.8072682
+4486802653,node,Appart'Hôtel Les Cordeliers,hotel,Avignon,"49, 84000, Avignon",84000,http://www.cordeliers-avignon.com,43.944192,4.8114824
+4614486997,node,Le hom art,restaurant,Avignon,,,,43.916167,4.8902069
+4614486999,node,Dubble  Food Avignon Agroparc,restaurant,Avignon,,,https://www.dubble-food.com/restaurants/avignon-agroparc,43.916144,4.8903116
+4614492759,node,Le Tholéan,restaurant,Avignon,1171 B Route de l'Aérodrome,,,43.9162432,4.8898586
+4660471155,node,Le petit chaudron,restaurant,Avignon,,,,43.9405626,4.8015189
+4672176892,node,Le bistro,restaurant,Avignon,,,,43.9514854,4.8087243
+4672216712,node,Le Petit Gourmand,restaurant,Avignon,"37 Rue du Vieux Sextier, 84000, Avignon",84000,,43.9482553,4.8089052
+4672216957,node,L'ardoise,restaurant,Avignon,28 Rue du Vieux Sextier,,,43.9480565,4.809448
+4672228898,node,L'Italienne au Chapeau Rouge,restaurant,Avignon,"21 Rue du Chapeau Rouge, 84000, Avignon",84000,,43.9486528,4.8112392
+4778982939,node,Mamma Corsica,restaurant,Avignon,"35 Rue Saint-Jean le Vieux, 84000, Avignon",84000,https://www.mamma-corsica.fr/,43.9482382,4.8112066
+4786462824,node,MAM'S,restaurant,Avignon,"6 Rue Général Leclerc, 84000, Avignon",84000,www.facebook.com/MAMS-185802452248304/,43.9490007,4.8104382
+4843725646,node,Chez Marie,restaurant,Avignon,4 Rue Louis Pasteur,,https://www.restaurantchezmarie.fr,43.9494179,4.8125421
+4843734434,node,Le Citron Vert,restaurant,Avignon,"12, 84000, Avignon",84000,www.facebook.com/LeCitronVertAvignon/,43.9493966,4.8127299
+4873749302,node,Au jasmin,restaurant,Avignon,,,,43.9482936,4.8109108
+4885343221,node,Café des Négociants,restaurant,Avignon,"20 Avenue d'Avignon, 84140",84140,,43.9360062,4.8713938
+4936750622,node,La fourchette,restaurant,Avignon,"17 Bis Rue Racine, Avignon",,,43.9502441,4.804871
+4936764321,node,L’arlequin,restaurant,Avignon,17 Bis Rue Racine,,https://arlequin.restaurant/,43.9501133,4.804845
+4938276021,node,Ma belle cuisine,restaurant,Avignon,3 Bis Rue Félix Gras,,,43.9485887,4.8040652
+4940164022,node,La Table Hot,restaurant,Avignon,3 Rue Mazan,,https://latablehot.fr/,43.9498356,4.8035893
+4960168124,node,La Cour du Louvre,restaurant,Avignon,"21 Rue Saint-Agricol, 84000",84000,https://www.restaurantlacourdulouvre.fr/,43.9485286,4.8043715
+4975257060,node,Estaminet Arômes et Tentations,restaurant,Avignon,,,,43.9499339,4.8033977
+4999128624,node,Brasserie La civette,restaurant,Avignon,,,,43.949261,4.8060955
+4999665524,node,L'amista,restaurant,Avignon,24 Rue de la Bonneterie,,,43.9480477,4.8087305
+4999734721,node,Lôc Ańh,restaurant,Avignon,,,,43.9479223,4.8088205
+5004840623,node,Madame Ho,restaurant,Avignon,,,,43.947782,4.8113812
+5016299351,node,Ô léopard,restaurant,Avignon,4 Bis,,,43.9489259,4.808985
+5019410021,node,Nawak,restaurant,Avignon,123 Rue de la Carreterie,,,43.9515982,4.8162597
+5019690573,node,Sur les planches,restaurant,Avignon,,,,43.9492336,4.8102282
+5019700708,node,Chez Lulu,restaurant,Avignon,,,,43.9490956,4.810449
+5019735662,node,Le 47. Glaces artisanales,restaurant,Avignon,,,,43.9493104,4.8110567
+5034630740,node,Pizza Cosy,restaurant,Avignon,"72 Route de Montfavet, 84000, Avignon",84000,https://pizzacosy.fr/pizzeria-avignon,43.9409038,4.8260668
+5039007652,node,Bibiche Avignon,restaurant,Avignon,"7 Place Cloître Saint-Pierre, 84000",84000,https://www.instagram.com/bibiche.avignon.restaurant/,43.9496108,4.8082041
+5039007653,node,Le cloître,restaurant,Avignon,,,,43.9495668,4.8082926
+5052366018,node,Restaurant Cap à la mer,restaurant,Avignon,,,,48.1045026,-66.1272907
+5081543921,node,Tendance bistrot,restaurant,Avignon,,,,43.920437,5.0188577
+5087849963,node,Le Riad,restaurant,Avignon,17 Rue Galante,,https://www.le-riad-restaurant-avignon.com,43.9477859,4.8067952
+5088500721,node,Violette,restaurant,Avignon,"5 Rue Violette, 84000",84000,,43.9449529,4.8041802
+5088929266,node,Vivotto,restaurant,Avignon,2 Rue Pavot,,https://vivotto.com/,43.9453428,4.8074092
+5100453121,node,L'épicerie,restaurant,Avignon,"2 Rue des Ciseaux d'Or, 84000",84000,,43.9493936,4.8077705
+5100716950,node,U sushi,restaurant,Avignon,22 Rue du Vieux Sextier,,,43.9481107,4.8090181
+5102059502,node,Domaine de Rhodes,hotel,Avignon,,,https://www.domainederhodes.com/,43.9746517,4.8325316
+5109031348,node,Nobushi,restaurant,Avignon,,,,43.9156438,4.8895427
+5109031352,node,Le Bistrot Trèfle,restaurant,Avignon,1045 Route de l'Aérodrome,,,43.9155633,4.8891882
+5109031355,node,L'Espanade,hotel,Avignon,,,,43.9156268,4.8890722
+5109066404,node,Daddy Bar,restaurant,Avignon,,,,43.9419652,4.8225537
+5137149811,node,Chez Marie,restaurant,Avignon,"39 Boulevard de la Libération, 84450, Saint-Saturnin-lès-Avignon",84450,,43.9565603,4.9308208
+5224513134,node,Napoli Mia,restaurant,Avignon,8 Ter Route de Montfavet,,,43.9426746,4.8208179
+5224513922,node,L'Escargot,restaurant,Avignon,7,,,43.9431156,4.8189667
+5318172048,node,Ju'ste chez moi,restaurant,Avignon,"Place Charles de Gaulle, 84700, Sorgues",84700,,44.0076018,4.8731046
+5327752877,node,Le Cèdre,restaurant,Avignon,8 Rue du Rempart du Rhône,,http://www.restaurant-le-cedre.com/,43.9507859,4.8029891
+5344615303,node,Chez Lisette,restaurant,Avignon,,,,43.9493428,4.8085695
+5636603202,node,Bar-restaurant La Croisière,restaurant,Avignon,,,,43.9515958,4.8276368
+5688034122,node,La Figuière,restaurant,Avignon,,,,43.9224803,5.1273191
+5754326122,node,HB Restaurant,restaurant,Avignon,12 Route de Morières,,,43.9509824,4.8290416
+5796139831,node,Le Gecko,restaurant,Avignon,"84, 84000, Avignon",84000,www.facebook.com/geckoavignon,43.946028,4.8118152
+5796142525,node,Chez Angelo,restaurant,Avignon,7 Rue des Teinturiers,,,43.9459228,4.8122176
+5841368563,node,Chez Sergio,restaurant,Avignon,,,,43.9503261,4.8128333
+5844606773,node,Lanna thaï,restaurant,Avignon,34 Rue des Fourbisseurs,,,43.9476453,4.8078946
+5846230733,node,Anaho poké,restaurant,Avignon,"24, 84000",84000,,43.9477596,4.8085238
+5884593085,node,Bibendum,restaurant,Avignon,"17 Rue du Collège d'Annecy, 84000, Avignon",84000,,43.9454607,4.8046009
+5912787185,node,Le Marin d'eau douce,restaurant,Avignon,215 Rue Du Quai,,,48.1044445,-66.129939
+6100214385,node,Isabella,restaurant,Avignon,,,,43.9180834,5.0523112
+6150077042,node,Angkor Apsara,restaurant,Avignon,44 Boulevard Saint-Roch,,,43.9422763,4.8073088
+6219462848,node,Au chineur,restaurant,Avignon,78 Place des Corps Saints,,,43.9437515,4.8073209
+6227550821,node,L'aparté,restaurant,Avignon,"1 Avenue des Quatre Otages, 84800, L'Isle-sur-la-Sorgue",84800,http://www.restaurantlaparte.com/,43.9193159,5.055039
+6293067789,node,Le lapin blanc,restaurant,Avignon,80 Rue de la Bonneterie,,https://www.le-lapin-blanc-restaurant-avignon.com,43.9462671,4.8117166
+6310052222,node,Marcel à Table,restaurant,Avignon,,,,43.9850575,4.885351
+6325471104,node,Espace Brésil,restaurant,Avignon,"49, 84000, Avignon",84000,,43.9505912,4.8141267
+6325485028,node,Al Quds,restaurant,Avignon,32 Rue de la Carreterie,,,43.9502402,4.8137122
+6325505252,node,La Machine à Écrire,restaurant,Avignon,,,,43.9503724,4.8131909
+6325582264,node,La cuisine des copains,restaurant,Avignon,,,,43.9492156,4.80859
+6347320706,node,Vamos,restaurant,Avignon,"38, 84000, Avignon",84000,,43.9478976,4.8095745
+6367506441,node,Pizzeria Le Ristretto,restaurant,Avignon,39 Rue de la Saraillerie,,,43.9471271,4.8072711
+6411606885,node,Couscousserie de l'horloge,restaurant,Avignon,,,,43.9491757,4.8063033
+6411650683,node,Carré du palais,restaurant,Avignon,,,,43.9502024,4.8063592
+6449262887,node,Le Gout Pile,restaurant,Avignon,,,,43.9793842,4.905031
+6511783293,node,Crok'Isle,restaurant,Avignon,,,,43.9186271,5.0521458
+6539845022,node,Hôtel du Parc,hotel,Avignon,,,https://www.hotelrestaurantduparc.fr,43.9214739,5.1275213
+6539845023,node,Restaurant du Park,restaurant,Avignon,,,https://www.hotelrestaurantduparc.fr,43.9213753,5.1275602
+6542899485,node,Château bahia,hotel,Avignon,152 Boulevard Perron,,https://chateaubahia.com/,48.0967101,-66.5237504
+6542899585,node,Auberge du château bahia,hotel,Avignon,Boulevard Perron,,https://chateaubahia.com,48.0946731,-66.522321
+6559867700,node,Au Petit Détour,restaurant,Avignon,"1 Rue Palapharnerie, 84000, Avignon",84000,,43.9519404,4.8121154
+6615470886,node,Château Bahia,hotel,Avignon,,,,48.0978103,-66.5224695
+6639831500,node,,restaurant,Avignon,,,,43.8752129,5.0771854
+6723967163,node,Chez Casimir,restaurant,Avignon,"19 rue de l'Église, Matapédia, Matapédia",,https://facebook.com/casimiraubergecafe,47.9729375,-66.951252
+6782514558,node,Ô Papilles,restaurant,Avignon,"10 Place des Châtaignes, 84000, Avignon",84000,https://opapilles.fr/,43.9493204,4.808649
+6785786105,node,Meinado,restaurant,Avignon,"Le pont de Bonpas Route de Marseille, 84000, Avignon",84000,,43.8896978,4.91396
+6810816010,node,Coeur d'artichaut,restaurant,Avignon,6 Place de la Principale,,https://www.coeurdartichautavignon.com/,43.9477916,4.8073578
+6848153328,node,Le Petit Bangkok,restaurant,Avignon,,,,43.9416978,4.9062546
+6860598887,node,Café Terrasse Grands Dignitaires,restaurant,Avignon,,,,43.9508635,4.8072115
+6927531691,node,Restaurant Campanile Avignon Sud,restaurant,Avignon,,,,43.925733,4.8510358
+6931182222,node,de l'autre côté...,restaurant,Avignon,,,,44.0044734,4.929133
+6934661907,node,Restaurant du Mas de Cure Bourse,restaurant,Avignon,,,,43.9012826,5.0339606
+6935093653,node,"Bleu Mer, hôtel & résidences",hotel,Avignon,"496 Boulevard Perron, Carleton-sur-Mer",,,48.1076223,-66.1321876
+6938815856,node,Auberge de Cassagne,restaurant,Avignon,,,,43.9608115,4.8742783
+6939730982,node,Restaurant L’Olivier,restaurant,Avignon,,,,43.9765086,4.8725477
+7014651924,node,El Asador,restaurant,Avignon,,,,43.9830417,4.873823
+7014675063,node,Le Saint-Laurent,restaurant,Avignon,,,,43.9835979,4.8741158
+7014675064,node,Villa Food House,restaurant,Avignon,,,,43.9835449,4.8742823
+7014675065,node,Salad & Co,restaurant,Avignon,,,,43.9833986,4.8744015
+7014682913,node,Italian Trattoria,restaurant,Avignon,,,,43.9834112,4.873709
+7014682914,node,Ayako Sushi,restaurant,Avignon,,,,43.9835159,4.873788
+7014682915,node,Ambassade de Bretagne,restaurant,Avignon,,,,43.9835878,4.8739405
+7043169447,node,Restaurant l’orient,restaurant,Avignon,,,,44.0127037,4.8718817
+7103973091,node,Umut grill,restaurant,Avignon,,,,43.9549585,4.8384633
+7116168033,node,Restaurant mer noire,restaurant,Avignon,,,,43.9615842,4.8577186
+7156192579,node,Terra mia,restaurant,Avignon,,,,43.9123814,4.8810246
+7402775138,node,Restaurant Philip,restaurant,Avignon,,,,43.9197374,5.1316857
+7575386993,node,Hôtel du Poète,hotel,Avignon,,,,43.9211285,5.1270416
+7741432008,node,Carré Rond,restaurant,Avignon,,,,43.9196177,5.0544787
+7787264027,node,La Civette,restaurant,Avignon,,,,43.949711,4.80639
+7812576811,node,Petit grand,restaurant,Avignon,72 Place des Corps Saints,,,43.9440441,4.8073596
+7847202557,node,Cap de l’eau,restaurant,Avignon,13 Avenue Eisenhower,,,43.9399968,4.7979963
+7893495414,node,Mamma airport,restaurant,Avignon,,,,43.9055351,4.8979923
+7941701396,node,L'Osteria,restaurant,Avignon,,,,43.9473161,4.8064516
+8021772609,node,Le 46,restaurant,Avignon,44,,https://le46avignon.com/,43.9515397,4.8057954
+8021786943,node,Le batelier fou,restaurant,Avignon,,,,43.9520372,4.8056065
+8031623790,node,L’impro,restaurant,Avignon,6 Rue de l'Olivier,,,43.9475415,4.8106598
+8039569798,node,Modern afghan food,restaurant,Avignon,73 Rue de la Bonneterie,,,43.9469047,4.8107193
+8059052136,node,Ò délices,restaurant,Avignon,8 Rue Jean-Henri Fabre,,,43.9451299,4.8069021
+8740222110,node,Restaurant universitaire centre ville,restaurant,Avignon,,,,43.9490155,4.817761
+8740222111,node,Cafétéria CROUS,restaurant,Avignon,,,,43.9491169,4.817635
+8844403733,node,Le Rendez-Vous,restaurant,Avignon,"130 Avenue de la Petite Marine, 84800, L'Isle-sur-la-Sorgue",84800,,43.9215661,5.0266932
+8844403743,node,Sushi no sekai,restaurant,Avignon,,,,43.9214385,5.0275035
+9033474094,node,La Salsa,restaurant,Avignon,2 Rue du Petit Grenier,,,43.9456259,4.8126617
+9080085519,node,L’Oiseau,restaurant,Avignon,,,,43.9511748,4.8139696
+9157955614,node,Label JD,restaurant,Avignon,,,,43.9465646,4.8112372
+9219754478,node,Factory,restaurant,Avignon,,,,43.9789242,4.8734972
+9223216795,node,Brasseries des MIN,restaurant,Avignon,,,,43.9334881,4.83392
+9223216797,node,Mine des Saveurs,restaurant,Avignon,,,,43.933584,4.8345559
+9355723537,node,Une Marguerite à Table,restaurant,Avignon,,,,43.9458093,4.809129
+9399659038,node,Hostellerie Baie Bleue,hotel,Avignon,,,,48.1085327,-66.1336341
+9399659054,node,Hôtel Manoir Belle Plage,hotel,Avignon,,,,48.1087432,-66.1343035
+9399659181,node,Aquamer Thalasso-Spa,hotel,Avignon,,,,48.098659,-66.1001428
+9463754718,node,Brasserie du Théâtre,restaurant,Avignon,36 Cours Jean Jaurès,,,43.9449286,4.805376
+9582928439,node,O.R Olive et Raisin,restaurant,Avignon,,,,43.9190285,5.0540927
+9587657974,node,MDF,restaurant,Avignon,,,,43.9461707,4.8116865
+9596673997,node,béou,restaurant,Avignon,"9 Rue Violette, Avignon",,,43.9452738,4.8037519
+9781439763,node,Le Trinquet des Carmes,restaurant,Avignon,,,,43.949997,4.8128232
+9824258300,node,Hôtel de Cambis,hotel,Avignon,26 Rue de la République,,,43.9453086,4.8053675
+9860167823,node,Le Lieu,restaurant,Avignon,"4, 84000, Avignon",84000,https://www.lelieuavignon.fr,43.9457643,4.8121288
+9888550324,node,Restaurant Bayon,restaurant,Avignon,"98 Avenue de Tarascon, 84000, Avignon",84000,,43.9330774,4.8096918
+9895406939,node,Bodhari,restaurant,Avignon,80 Rue de la Bonneterie,,,43.9461382,4.8118721
+9905037861,node,Bistronomik,restaurant,Avignon,,,,43.939098,4.9056638
+9968192496,node,UBON Thaï Restaurant,restaurant,Avignon,"24 Bis Rue des Lices, 84000, Avignon",84000,,43.9450273,4.8086718
+9969773609,node,Lam's,restaurant,Avignon,,,,43.9443473,4.8150287
+10096213318,node,Agastache,restaurant,Avignon,"Place Xavier Battini, 84800",84800,https://agastache-restaurant.fr/,43.9198069,5.0535391
+10135255601,node,Cell’s Patio,restaurant,Avignon,,,,43.9479494,4.8115095
+10169240547,node,La Chapelle,restaurant,Avignon,,,,43.9508718,4.8190126
+10690598607,node,Ju'ste Chez Moi,restaurant,Avignon,1045;160,,,43.9165364,4.8086937
+10720473143,node,Le Patio,restaurant,Avignon,,,,43.9425889,4.8023453
+10726293487,node,Imperial bus diner,restaurant,Avignon,,,,44.0354091,4.8785299
+10846806890,node,Fritkot,restaurant,Avignon,"543 Route de L'Isle-sur-la-Sorgue, 84250, Le Thor",84250,https://www.fritesbelges.fr/,43.9246362,5.0081655
+10991753583,node,O’Meydan,restaurant,Avignon,,,,43.9283631,4.792298
+11021246603,node,Restaurant du Cap à la Mer,restaurant,Avignon,597,,,48.102737,-66.1247974
+11035406836,node,La Maison de Sylvanie,restaurant,Avignon,,,,43.980025,4.9454128
+11065129831,node,Cantina Lasalle,restaurant,Avignon,,,,43.9493838,4.816933
+11187919132,node,La Pinsa di Anton,restaurant,Avignon,,,,43.9271749,5.0628291
+11242279956,node,Cantine clé de sol,restaurant,Avignon,475 Route 132 est,,,48.1225357,-66.2882538
+11290497262,node,Le mon plaisir,restaurant,Avignon,,,,43.9529077,4.8708564
+11294330762,node,Residella house,hotel,Avignon,,,,43.981837,4.8614824
+11465920265,node,L'Eat Aliano,restaurant,Avignon,,,,44.0123758,4.8725899
+11524622368,node,Come A Roma,restaurant,Avignon,"16 Place de la Principale, 84000, Avignon",84000,,43.9474725,4.8074759
+11538253313,node,Cœur d'Artichaut,restaurant,Avignon,"187 Avenue Pierre Semard, 84000, Avignon",84000,,43.9283119,4.8430881
+11645436692,node,Italian queen,restaurant,Avignon,44 Cours Jean Jaurès,,,43.9439432,4.8052668
+11867240370,node,Golf de Saumane,restaurant,Avignon,"Chemin des Muletiers, 84800",84800,,43.9232756,5.0963113
+11887338331,node,Le Murano,restaurant,Avignon,,,,43.9285883,4.8349692
+11928687855,node,La vieille fontaine - Hôtel d'Europe,restaurant,Avignon,"12 Place Crillon, 84000, Avignon",84000,,43.9503713,4.803458
+12162147553,node,Ô Chalet,restaurant,Avignon,410 Rue du Petit Gigognan,,,43.9308444,4.7865167
+12180511101,node,La Nouvelle Forge,restaurant,Avignon,,,,43.9623074,4.8608876
+12241676829,node,Les 4 saisons,restaurant,Avignon,,,,44.0044251,4.9273689
+12431010292,node,Le quai des saveurs,restaurant,Avignon,1 Porte de la République,,,43.9423297,4.8048952
+12734393065,node,Maison de la Tour,restaurant,Avignon,9 Rue de la Tour,,https://www.maisondelatour.fr/,43.9521978,4.8161088
+12795208801,node,Confidentiel,restaurant,Avignon,,,,43.9852275,4.8881764
+12995325917,node,,restaurant,Avignon,,,,43.9288272,4.7841753
+13030609839,node,La Pizza,restaurant,Avignon,"336 Route de Realpanier, 84270, Vedène",84270,https://restaurantlapizza.fr/,43.9542609,4.8974975
+13051917246,node,La Guinguette BonoBrousse,restaurant,Avignon,3424 Chemin Île d'Oiselay,,,44.0236816,4.8406304
+13052481601,node,Chez Seb,restaurant,Avignon,,,,48.1761395,-65.9813378
+13180515388,node,Casse-Croûte Chez Mamie Yoyo,restaurant,Avignon,"125 Boulevard Inter-Provincial, Pointe-à-la-Croix",,,48.0264944,-66.6997921
+13180562200,node,Restaurant Chez Claudine,restaurant,Avignon,"22 Boulevard Perron Est, Pointe-à-la-Croix",,,48.0343197,-66.7020365
+13255551160,node,Sushi wan,restaurant,Avignon,60 Rue Pélisserie,,,44.0105725,4.8726266
+13592678121,node,The big Fred,restaurant,Avignon,,,,43.9227374,5.129237
+13740199598,node,Comptoir des Frangines,restaurant,Avignon,230 Chemin du Pont Blanc,,https://www.comptoirdesfrangines.com,43.978869,4.88851
+13878853510,node,Honoré brunch,restaurant,Avignon,"11 Avenue des Quatre Otages, 84800, L'Isle-sur-la-Sorgue",84800,https://www.honorebrunch.fr/,43.9184058,5.0543775
+13952718101,node,Côté Sorgue,restaurant,Avignon,,,,43.9181053,5.0561634

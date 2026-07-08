@@ -1,0 +1,21 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+1721289692,node,Hôtel des voyageurs,hotel,Rocamadour,"Place de la Gare, 46500, Rocamadour",46500,https://www.hoteldesvoyageurs.eu,44.818027,1.656597
+3703540446,node,Amadour Hôtel,hotel,Rocamadour,Place de l'Europe,,https://www.amadour-hotel.com/,44.8046989,1.6273447
+4961889661,node,Terminus des Pèlerins,hotel,Rocamadour,85,,,44.7989795,1.6179107
+4992578321,node,Les jardins de la louve,restaurant,Rocamadour,,,,44.7981982,1.6172557
+5003504789,node,La terrasse Sainte-Marie,restaurant,Rocamadour,"Place des Senhals, 46500, Rocamadour",46500,,44.7989021,1.6175608
+5111748374,node,Hôtel Bellevue,hotel,Rocamadour,,,,44.8033469,1.627366
+5111748380,node,Bellevue,restaurant,Rocamadour,,,,44.803884,1.6272204
+5111748382,node,Au Panorama,restaurant,Rocamadour,,,,44.8041229,1.6272271
+5439455685,node,Gite du Cantou,hotel,Rocamadour,,,https://www.notre-dame-du-calvaire.fr/nos-offres-evenements/accueil-et-hebergement/le-gite-du-cantou-de-rocamadour/,44.7979871,1.6164742
+5887693686,node,Envies de Terroirs,restaurant,Rocamadour,"Rue de la Couronnerie, 46500",46500,,44.7996218,1.6182669
+5887693785,node,La Maison de Famille,restaurant,Rocamadour,,,,44.7998591,1.6183486
+7414347690,node,La Table du Curé,restaurant,Rocamadour,"Rue de la Couronnerie, 46500",46500,https://www.latableducure-rocamadour.com/,44.7991709,1.618027
+7923653846,node,Belvédère,restaurant,Rocamadour,,,,44.8038869,1.6267534
+8915841160,node,Le bella roc,hotel,Rocamadour,,,,44.8049035,1.6228984
+8915841161,node,Le bella roc,restaurant,Rocamadour,,,,44.8048991,1.6230295
+10025018950,node,Le Quercygnac,restaurant,Rocamadour,place Bernard de Ventadour,,,44.8014854,1.6195421
+11122031896,node,En Bas d’la rue,restaurant,Rocamadour,,,,44.7988414,1.6178082
+11133470339,node,Beau Site,restaurant,Rocamadour,,,,44.8000808,1.6184216
+11197262649,node,Le lion d'or,hotel,Rocamadour,,,,44.8012782,1.6193228
+13662212635,node,Le Roc du Berger,restaurant,Rocamadour,"Route d'Alvignac, 46500, Rocamadour",46500,https://www.rocduberger.fr/,44.8129122,1.6386753

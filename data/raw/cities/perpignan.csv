@@ -1,0 +1,526 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+286884621,node,Hôtel Mercure Centre,hotel,Perpignan,,,,42.702372,2.8949365
+286884664,node,Ibis Perpignan Centre,hotel,Perpignan,Perpignan,,,42.6992258,2.8866982
+286887634,node,Dali Hotel,hotel,Perpignan,"18 Boulevard Jean Bourrat, 66000, Perpignan",66000,https://dalihotel.fr/,42.7009377,2.901387
+308993860,node,Crêperie Bretonne,restaurant,Perpignan,,,,42.6969854,2.892057
+309002844,node,La Pause par Secrets de Pain,restaurant,Perpignan,,,,42.69881,2.8911863
+309521768,node,Bibiche Pancakes,restaurant,Perpignan,12 Rue du Théâtre,,,42.6983097,2.8966495
+309523259,node,Konfusius,restaurant,Perpignan,,,,42.7026473,2.8925989
+309525667,node,Café Vienne,restaurant,Perpignan,,,https://cafe-vienne.fr/,42.6981798,2.8925137
+367830258,node,La Passerelle,restaurant,Perpignan,1 Cours François Palmarole,,https://www.restaurant-lapasserelle.com/,42.7022772,2.8945481
+367831333,node,La Galinette,restaurant,Perpignan,23 Rue Jean Payra,,,42.7024685,2.8931453
+442529145,node,Mas de l'Alzine,hotel,Perpignan,,,,42.8006214,2.7201246
+459765435,node,Ibis Budget Perpignan nord-Mas de la Garrigue,hotel,Perpignan,"7 Rue Alfred Sauvy, 66600, Rivesaltes",66600,https://www.all.accord.com,42.7820475,2.9006406
+952228960,node,Cafétéria,restaurant,Perpignan,,,,42.6820272,2.9003044
+992585190,node,Kosmo Restaurant,restaurant,Perpignan,,,,42.683351,2.9021513
+1042846733,node,B&B Hotels,hotel,Perpignan,8 Boulevard Thomas Wilson,,,42.7017832,2.8959717
+1295105286,node,Le Sud,restaurant,Perpignan,12 Rue Louis Bausil,,,42.6992879,2.9014623
+1415979973,node,La Casa Pardal,restaurant,Perpignan,,,http://www.restaurant-lacasapardal.com/,42.773479,3.0384042
+1430455176,node,Les Copains,restaurant,Perpignan,"1 Boulevard de la Côte Radieuse, 66140, Canet-en-Roussillon",66140,,42.679569,3.0335939
+1430455177,node,La Guinguette,restaurant,Perpignan,,,,42.6796085,3.0335429
+1430519913,node,Kimchi Kimchi,restaurant,Perpignan,5 Rue des Fabriques-Nadal,,,42.7000305,2.8942082
+1665782420,node,Pizza Raó,restaurant,Perpignan,10 Rue du 11 Novembre,,,42.6361105,2.9151406
+1716852808,node,Le Petit Moka Pizzeria Brasserie,restaurant,Perpignan,,,,42.6981579,2.8950324
+1749714290,node,Ô belles gambettes,restaurant,Perpignan,2 Rue Font-Froide,,https://o-belles-gambettes.eatbu.com/,42.6998262,2.8959362
+1785354949,node,Le bon coin,restaurant,Perpignan,,,,42.7046598,3.0215744
+1791112838,node,Kyriad Prestige,hotel,Perpignan,"35 Boulevard Saint-Assiscle, 66000",66000,https://prestige-perpignan.kyriad.com,42.6967641,2.8782711
+1891854207,node,The Citrus,restaurant,Perpignan,"4 Route de Perpignan, 66330, Cabestany",66330,https://www.thecitrus.eu/,42.6845924,2.9349624
+1930986471,node,Coq au Riz,restaurant,Perpignan,,,,42.6996839,2.8977439
+1946248375,node,Fricaccia Italian Street Food,restaurant,Perpignan,,,https://fricaccia.fr/,42.6949604,2.887688
+1998879018,node,Lou Barral,restaurant,Perpignan,2 Rue Maréchal Joffre,,,42.8475895,2.7797194
+2019680917,node,Au Mas,restaurant,Perpignan,"Avenue Maréchal Joffre, 66250",66250,,42.7728457,2.9861013
+2133702557,node,Petra's Café,restaurant,Perpignan,,,,42.6997058,2.8876961
+2143717728,node,Le Figuier,restaurant,Perpignan,7 Rue du Figuier,,,42.6993015,2.8978796
+2299926540,node,Hippopotamus,restaurant,Perpignan,,,,42.6988461,2.8920278
+2337899468,node,Pizzeria Snack - El Comédor,restaurant,Perpignan,,,,42.7915808,3.0347704
+2441903605,node,Multi-Services Le Presbytère,restaurant,Perpignan,,,http://www.calce.fr/fr/information/6137/le-presbytere,42.7587145,2.754112
+2461204740,node,Fasthotel,hotel,Perpignan,,,,42.6854668,2.8631244
+2465198790,node,Domaine de Rombeau,restaurant,Perpignan,,,,42.7595039,2.8732736
+2558470650,node,Le Bar à Lait,restaurant,Perpignan,Avenue du Général Guillaut,,,42.6901854,2.8937615
+2825115927,node,Omega Burger,restaurant,Perpignan,,,https://omegaburger.fr/,42.6688956,2.8998607
+2825115928,node,New Delhi,restaurant,Perpignan,,,https://www.restaurantnewdelhi.fr/,42.6687785,2.8999096
+2825137665,node,Hôtel La Fauceille,hotel,Perpignan,,,https://www.lafauceille.com/,42.6695763,2.8976935
+2881927947,node,Le Casablanca,restaurant,Perpignan,,,,42.785505,3.0378692
+3037444958,node,Maya Club,restaurant,Perpignan,,,,42.7509274,2.9969046
+3037444959,node,Zaza Club,restaurant,Perpignan,,,,42.7582551,3.0377005
+3073334436,node,Le Brasilia,restaurant,Perpignan,,,,42.7083545,3.0362061
+3111754848,node,La Casalinga,restaurant,Perpignan,18 Promenade de la Côte Vermeille,,,42.6917561,3.0350299
+3122024626,node,Lou Grilladou,restaurant,Perpignan,,,,42.6957044,2.8834494
+3135358757,node,Hôtel de la Mer,hotel,Perpignan,43 Avenue Annibal,,https://www.hotel-port-barcares.fr/,42.8048673,3.0370211
+3135358758,node,Restaurant de la Mer,restaurant,Perpignan,43 Avenue Annibal,,,42.8048509,3.0370721
+3135418793,node,Le Flot Clair,restaurant,Perpignan,,,,42.803745,3.0373444
+3135419336,node,La Cabane à Cactus,restaurant,Perpignan,"Avenue Annibal, 66420",66420,,42.80354,3.037338
+3147298382,node,La Langouste Qui Chante,restaurant,Perpignan,,,https://lalangoustequichante.com/,42.7864625,3.0369653
+3149586028,node,Le Jardin des Embruns,restaurant,Perpignan,"6 Boulevard de la Salanque, 66420",66420,https://www.lejardindesembruns.fr/,42.78424,3.0357419
+3149587130,node,La Cuisine des Filles,restaurant,Perpignan,11 Boulevard de la Salanque,,,42.7844539,3.0351677
+3172244667,node,Ristorante Del Arte,restaurant,Perpignan,,,https://www.delarte.fr/,42.6808398,2.8949118
+3483653493,node,B&b Hôtel Perpignan Sud Porte D'Espagne,hotel,Perpignan,,,,42.6592801,2.8848482
+3483654193,node,B&b Hôtel,hotel,Perpignan,,,,42.7434373,2.8933313
+3512772483,node,,restaurant,Perpignan,,,,42.7837837,3.0238472
+3512784336,node,,restaurant,Perpignan,,,,42.7861245,3.0246247
+3531319445,node,Catalogne Café,restaurant,Perpignan,,,https://www.restaurant-catalogne-cafe-perpignan.fr/,42.6988798,2.8880605
+3546445895,node,B&b Hôtel Perpignan Saint-Charles,hotel,Perpignan,3429 Avenue Julien Panchot,,,42.6772505,2.8503282
+3551249406,node,Le dom's,restaurant,Perpignan,,,,42.7610434,2.8810482
+3575058595,node,La Baraquette,restaurant,Perpignan,,,,42.7666759,3.038061
+3575058597,node,Miami beach,restaurant,Perpignan,,,,42.7672967,3.0333725
+3575058598,node,Le Nomad,restaurant,Perpignan,,,,42.7673183,3.038075
+3596400277,node,Art i Show,restaurant,Perpignan,,,,42.7547704,2.992106
+3596400278,node,Le régent des Cardo,restaurant,Perpignan,,,,42.7549063,2.9928073
+3603023368,node,La brasserie du Port,restaurant,Perpignan,66420,66420,,42.796022,3.0369326
+3684163510,node,,restaurant,Perpignan,,,,42.7763336,3.0283215
+3705483205,node,Le P tit Resto,restaurant,Perpignan,,,,42.6971864,2.893269
+3723647560,node,Ibis budget Perpignan Centre,hotel,Perpignan,,,,42.7014219,2.8893628
+3723647562,node,Suite Novotel Perpinyà Mediterrània ****,hotel,Perpignan,,,,42.7013091,2.8892761
+3741805760,node,Campanile Perpignan,hotel,Perpignan,,,,42.6640967,2.8853518
+3773040157,node,Ristorante Del Arte,restaurant,Perpignan,,,,42.7095509,2.8850054
+3785031471,node,Mondial Hotel Perpignan **,hotel,Perpignan,,,,42.6999514,2.8889753
+3819324358,node,Café de la Paix,restaurant,Perpignan,Perpignan,,,42.6979762,2.8923091
+3937279695,node,El Porró,restaurant,Perpignan,,,,42.7342854,3.0317361
+3937284825,node,El Pica Pica,restaurant,Perpignan,,,,42.7341357,3.0368296
+3937286724,node,Al Grill,restaurant,Perpignan,,,,42.7341712,3.0336244
+3937291596,node,L'Entrepotes,restaurant,Perpignan,,,,42.7342953,3.0315913
+3937323017,node,Carpe Diem,restaurant,Perpignan,,,,42.7284751,3.0380074
+4063846359,node,La cantine Latina,restaurant,Perpignan,,,https://cantinelatina.com/,42.696394,2.9068142
+4116609696,node,Le Miramar,restaurant,Perpignan,"1 Rue des Alpes, 66140, Canet-en-Roussillon",66140,https://www.lemiramar66.com/,42.6920713,3.0349507
+4116610000,node,Brasserie Le Plaza,restaurant,Perpignan,"4 Avenue de la Méditerranée, 66140, Canet-en-Roussillon",66140,,42.6935472,3.0352092
+4285697089,node,La Mer à Table,restaurant,Perpignan,"Quai Alain Gerbault, 66420",66420,,42.7990672,3.0373065
+4307143029,node,Ibis Perpignan nord Rivesaltes,hotel,Perpignan,7 Rue Alfred Sauvy,,https://www.all.accor.com,42.7826745,2.9010518
+4307249101,node,Signorizza,restaurant,Perpignan,,,,42.7795568,2.8985199
+4307249103,node,Kyriad Direct Perpignan Nord Aéroport,hotel,Perpignan,"2 Rue Olivier de Serres - Mas de la Garrigue sud, 66600, Rivesaltes",66600,https://www.groupe-hotelier.com,42.7792428,2.8987339
+4307249104,node,Premiere classe Perpignan nord,hotel,Perpignan,"4 Rue Olivier de Serres - Mas de la Garrigue Sud, 66600, Rivesaltes",66600,https://groupe-hotelier.com,42.7791505,2.8993961
+4317368245,node,L'horizon,restaurant,Perpignan,"1 Voie des Flamants Roses, 66140",66140,,42.6746538,3.0334181
+4333535783,node,La Suite,restaurant,Perpignan,8,,,42.6977119,2.8954166
+4333556524,node,Le Petit Pastis,restaurant,Perpignan,,,,42.7014998,2.8910696
+4333556526,node,Le Ben Aqui,restaurant,Perpignan,,,,42.7011475,2.8903426
+4333556527,node,Le Riad,restaurant,Perpignan,,,,42.7011839,2.8904057
+4337627689,node,Château La Tour Apollinaire,hotel,Perpignan,,,,42.708856,2.8893616
+4341047876,node,A côté du Ben Aqui,restaurant,Perpignan,,,,42.7011051,2.8902452
+4341047880,node,Le petit monde,restaurant,Perpignan,1 Rue de l'Ecole,,,42.7017565,2.8926136
+4341047882,node,L'Indochine,restaurant,Perpignan,13 Rue Claude Rouget-de-Lisle,,,42.7014895,2.8920194
+4341047883,node,Le Dragon,restaurant,Perpignan,,,,42.7018009,2.8926042
+4341047885,node,Les Délices du Liban,restaurant,Perpignan,,,,42.7008833,2.8897047
+4341060735,node,Le Vauban,restaurant,Perpignan,,,,42.6992427,2.8920459
+4370937017,node,La plage gourmande,restaurant,Perpignan,"10 Promenade de la Côte Vermeille, 66140",66140,https://www.laplagegourmande.fr/,42.6924456,3.0350023
+4460698195,node,Hôtel de la Loge,hotel,Perpignan,,,,42.6995487,2.8942406
+4492579259,node,Chez Muima,restaurant,Perpignan,,,,42.705136,3.0066942
+4492579260,node,Valentino,restaurant,Perpignan,,,,42.7051202,3.0070724
+4560399189,node,Le Garriane,restaurant,Perpignan,,,,42.6968379,2.8806415
+4561870091,node,Hôtel l'Express,hotel,Perpignan,,,,42.6966264,2.8807796
+4561897290,node,Happy Grill Restaurant,restaurant,Perpignan,,,,42.6985685,2.8957332
+4561898990,node,Napoli,restaurant,Perpignan,,,,42.6988215,2.8875037
+4572909169,node,Le Bug,restaurant,Perpignan,,,,42.7342261,3.0326008
+4573248521,node,Zaza Kebab,restaurant,Perpignan,26 Avenue de la Méditerranée,,,42.7252602,3.0381349
+4573363716,node,Creperie Catalane,restaurant,Perpignan,,,,42.72611,3.0386691
+4573369459,node,L'Indalo,restaurant,Perpignan,5 Boulevard du Front de Mer,,,42.7264682,3.0386548
+4573371779,node,Sol y Mar,restaurant,Perpignan,29 Avenue de la Méditerranée,,,42.72555,3.0388881
+4573374251,node,Y Sem Be,restaurant,Perpignan,,,,42.7282651,3.0381049
+4573386021,node,L'Entrevue,restaurant,Perpignan,,,,42.7301409,3.0225812
+4573461643,node,Chez Gubbi,restaurant,Perpignan,,,https://chezgubbi.my.canva.site/,42.7272088,3.0164055
+4573588169,node,Le Caraibe,restaurant,Perpignan,,,,42.6923135,3.0350023
+4598165090,node,La Rencontre,restaurant,Perpignan,,,,42.6997254,2.8956178
+4677063983,node,Ponte Vecchio,restaurant,Perpignan,,,,42.7007636,2.8924317
+4823239287,node,Le Plaza,restaurant,Perpignan,4 Avenue de la Méditerranée,,,42.6936642,3.03516
+4831014742,node,Le Carré,restaurant,Perpignan,32 Boulevard Joseph Cassanyes,,,42.6959113,3.0352637
+4831014745,node,La Maison,restaurant,Perpignan,,,,42.6960846,3.0350905
+4831014746,node,Sole Mio,restaurant,Perpignan,,,,42.6960612,3.0358363
+4831014788,node,Le Taureau sur le Toit,restaurant,Perpignan,,,,42.6947246,3.0349607
+4831014791,node,Le Blue Lagoon,restaurant,Perpignan,,,,42.6943737,3.0349781
+4834701583,node,La Canne à sucre,restaurant,Perpignan,,,https://la-canneasucre.fr/,42.6914411,3.0350049
+4834701591,node,La Baie d'Asie,restaurant,Perpignan,,,,42.6918228,3.0350352
+4834701592,node,La Siesta,restaurant,Perpignan,14 Promenade de la Côte Vermeille,,,42.6919001,3.0350489
+4885851928,node,Le Palais des Saveurs,restaurant,Perpignan,,,,42.7012451,2.9406615
+4885851929,node,Le Chalet,restaurant,Perpignan,,,,42.7027156,2.942877
+4885851932,node,Bistro Régent,restaurant,Perpignan,,,,42.7021045,2.9430004
+4898248027,node,Le 17,restaurant,Perpignan,,,,42.7006297,2.8964953
+4902311019,node,My little warung,restaurant,Perpignan,Avenue Maréchal Leclerc,,,42.7017662,2.8923061
+4933953421,node,La Fabrik,restaurant,Perpignan,53,,,42.7004957,2.888327
+4934476124,node,La Cantine,restaurant,Perpignan,,,,42.6977121,2.8941686
+4940446880,node,Mèo Mèo,restaurant,Perpignan,,,,42.6977485,2.8950098
+4971932447,node,Hôtel de France,hotel,Perpignan,Quai Sadi Carnot,,,42.7001694,2.8936448
+4975294185,node,Le Punjab,restaurant,Perpignan,2 Avenue du Palais-des-Expositions,,,42.7043136,2.8929133
+5022605148,node,L'Absix,restaurant,Perpignan,"2 Rue de la Cerdagne, 66280, Saleilles",66280,https://www.restaurant-labsix.fr/,42.6574008,2.9266473
+5071393911,node,Espi,restaurant,Perpignan,43 bis,,,42.7000376,2.8926699
+5102883775,node,Casa Sansa,restaurant,Perpignan,,,,42.6999483,2.8944829
+5102883776,node,Guapo,restaurant,Perpignan,11 Rue des Fabriqués Couvertes,,https://instagram.com/guapo_perpignan,42.7001306,2.8943439
+5102903987,node,Chez les copains,restaurant,Perpignan,,,,42.6991102,2.8966525
+5140931977,node,Le Capuccino,restaurant,Perpignan,,,,42.6909729,2.9107301
+5143557099,node,Auberge du Cellier,hotel,Perpignan,,,https://www.aubergeducellier.fr/,42.7491419,2.6786899
+5161392107,node,El Gringo,restaurant,Perpignan,,,,42.7091311,2.8475432
+5161394130,node,Crêperie,restaurant,Perpignan,,,,42.709207,2.8446637
+5211830812,node,La Roma,restaurant,Perpignan,,,,42.6985255,2.891846
+5300717822,node,Boniface - La 7ème vague,restaurant,Perpignan,,,,42.6640623,2.9048128
+5323565579,node,La Cave à Fromage,restaurant,Perpignan,,,,42.6972168,2.8933234
+5372391450,node,L'Anamar,restaurant,Perpignan,,,,42.6403683,2.904721
+5536450822,node,Domaine La Marche,restaurant,Perpignan,"15 Avenue Armand Claret, 66600, Salses-le-Château",66600,,42.8353603,2.9193053
+5620755624,node,Le Lamparo,restaurant,Perpignan,4 Avenue du Paquebot des Sables,,https://le-lamparo66.com/,42.8298394,3.0412303
+5638476606,node,O Panda,restaurant,Perpignan,,,,42.775116,2.9075896
+5638476620,node,Bistro Régent,restaurant,Perpignan,,,,42.7748832,2.9091016
+5638477022,node,Le Boeuf en folie,restaurant,Perpignan,,,,42.7752723,2.9097986
+5638477049,node,Poivre Rouge,restaurant,Perpignan,,,,42.7755747,2.9072726
+5638477052,node,La Pataterie,restaurant,Perpignan,,,,42.7754213,2.9075014
+5645951039,node,Le Pied-à-Terre,restaurant,Perpignan,,,,42.8270347,3.0385361
+5654135287,node,L'Atelier Salade...,restaurant,Perpignan,5 Place André Grétry,,,42.6995612,2.8967656
+5664654013,node,New Delhi,restaurant,Perpignan,,,,42.6967176,2.8818643
+5765953500,node,Brasserie de la Gare,restaurant,Perpignan,1 Avenue du Général de Gaulle,,,42.6965144,2.8802619
+5765953501,node,Hôtel Paris Barcelone,hotel,Perpignan,1 Avenue du Général de Gaulle,,,42.6967165,2.8802307
+5780106485,node,Nem 66,restaurant,Perpignan,,,,42.6959154,2.8907248
+5881497755,node,Le petit Mogador,restaurant,Perpignan,,,,42.7012884,2.8916711
+5901943005,node,,restaurant,Perpignan,,,,42.7052018,3.0168239
+5911623532,node,Crêpes Coquette,restaurant,Perpignan,22 Avenue de la Catalogne,,,42.6967278,3.0331458
+5935766323,node,C'Wok,restaurant,Perpignan,,,,42.7755648,2.9194839
+5998340222,node,New Saigon,restaurant,Perpignan,93 Rue du Maréchal Foch,,,42.6941702,2.8884561
+6010508320,node,Ly' Picerie de Vincent,restaurant,Perpignan,,,,42.6972021,2.8925921
+6010508321,node,Le Concubin,restaurant,Perpignan,6 Rue des Augustins,,https://www.leconcubin.fr/,42.6972321,2.8926672
+6125417523,node,Via del Vi,restaurant,Perpignan,,,,42.7008594,2.8896329
+6318379792,node,Le Sol an' Flot,restaurant,Perpignan,,,,42.6977515,3.0359975
+6318709954,node,Le Dauphin,restaurant,Perpignan,"Promenade de la Côte Vermeille, 66140, Canet en Roussillon",66140,https://lacarte.menu/restaurants/canet-en-roussillon/le-dauphin-34,42.7012732,3.0364712
+6409156981,node,Les Vedettes,restaurant,Perpignan,"15 Promenade de la Côte Vermeille, 66140, Canet-en-Roussillon",66140,,42.6955545,3.0358074
+6427610086,node,Chez Christopher,restaurant,Perpignan,"10 Rue du Capcir, 66280, Saleilles",66280,https://chezchristopher.fr/,42.6592676,2.9279874
+6427610098,node,Le Globe,restaurant,Perpignan,"16 Rue de la Cerdagne, 66280, Saleilles",66280,,42.6562259,2.9288403
+6463188016,node,Villa Duflot Perpignan,hotel,Perpignan,,,,42.6739149,2.8852758
+6463188017,node,Holiday Inn,hotel,Perpignan,,,https://www.ihg.com/holidayinn/hotels/fr/fr/perpignan/pgfra/hoteldetail,42.6820319,2.8933462
+6463188019,node,Brit Hotel Porta d'Espanya,hotel,Perpignan,,,,42.6597252,2.8849156
+6463188020,node,Hôtel Première Classe Perpignan Sud,hotel,Perpignan,10 Rue du Docteur Bouillaud,,,42.6596997,2.8838652
+6478491046,node,Espace Wok,restaurant,Perpignan,"2000 Avenue d'Espagne, 66000, Perpignan",66000,,42.6698976,2.8837472
+6555851806,node,Chez Marius,restaurant,Perpignan,9 Boulevard de la Côte Vermeille,,,42.7858024,3.0374853
+6562299587,node,Chez Sébastien,restaurant,Perpignan,29 Rue du Castillet,,,42.7011767,2.8976589
+6642886924,node,Ambiance Kebab,restaurant,Perpignan,,,,42.6858323,3.0343862
+6721817541,node,Allantoine,restaurant,Perpignan,,,,42.7685973,2.8692736
+6771625307,node,Hôtel Balladins,hotel,Perpignan,,,,42.6964539,2.8807969
+6771769718,node,NYX,hotel,Perpignan,,,,42.697567,2.8851604
+6772056483,node,Le Tire Bouchon,restaurant,Perpignan,,,,42.6967439,2.8819463
+6863330735,node,Le Bistrot du Midi,restaurant,Perpignan,,,,42.7023151,2.9454548
+6900185566,node,Casa Del Sol,restaurant,Perpignan,"10 Place Louis Esparre, 66350, Toulouges",66350,,42.6714483,2.8318039
+6976519686,node,Brasserie Le Foulon,restaurant,Perpignan,6,,,42.6959757,2.8767996
+7028748806,node,Le Jean,restaurant,Perpignan,,,,42.6967947,2.8772206
+7135166086,node,Chez Bonal'O,restaurant,Perpignan,,,,42.7316071,2.9330609
+7260776244,node,Pita Corner,restaurant,Perpignan,,,,42.7004722,3.0363569
+7276735645,node,Le Petit Marrakech,restaurant,Perpignan,"3 Avenue de Toulouse, 66140, Canet-en-Roussillon",66140,https://www.lepetitmarrakech.fr/,42.6796552,3.0334439
+7425844654,node,Le soler pizza,restaurant,Perpignan,,,,42.6818744,2.7959424
+7425844659,node,Mam thai food & sushis,restaurant,Perpignan,,,,42.6814173,2.791768
+7952415987,node,Pizza Bonici - Cabestany,restaurant,Perpignan,66330,66330,,42.67971,2.940103
+7980886785,node,Naan Fromage,restaurant,Perpignan,14 Rue du Théâtre,,,42.698351,2.8968177
+7982101085,node,Tandoori Indian,restaurant,Perpignan,,,,42.6983001,2.8968565
+8002740916,node,Pizza du Mas,restaurant,Perpignan,,,,42.6847079,2.9348125
+8013519248,node,La Pizza di Gastonello,restaurant,Perpignan,,,https://www.lapizzadigastonello.fr/,42.6870591,2.9215753
+8043005818,node,Bisou Concept Food,restaurant,Perpignan,,,,42.6811736,2.9335146
+8066742438,node,Brasserie Moustach',restaurant,Perpignan,,,,42.6908628,2.9209777
+8066742446,node,Le Bistrot,restaurant,Perpignan,,,,42.6890628,2.9200899
+8066742470,node,Donatella,restaurant,Perpignan,,,https://www.restodonatella.fr/,42.6857702,2.9187434
+8069540605,node,Brasserie Balthazar,restaurant,Perpignan,2000 Avenue d'Espagne,,,42.6699265,2.8843524
+8069540606,node,Le Florida,restaurant,Perpignan,,,,42.6701148,2.8838776
+8094754139,node,Restaurant Nashi,restaurant,Perpignan,,,,42.6815377,2.9334684
+8111298504,node,Arriba Arriba,restaurant,Perpignan,,,,42.7020255,2.9409885
+8111298510,node,Le Ruscino,restaurant,Perpignan,,,,42.7012681,2.9405057
+8111495856,node,Les II Mas,hotel,Perpignan,,,https://www.les2mas.com/,42.6915292,2.9320752
+8185402230,node,Namaste,restaurant,Perpignan,,,https://namaste-masguerido.business.site/,42.6909078,2.9226799
+8185402241,node,Sushi Sakura,restaurant,Perpignan,,,https://www.sushisakura.fr/,42.6908451,2.9234532
+8207204673,node,Le Chaudron Cabestany,restaurant,Perpignan,"20 Avenue André Ampère, 66330, Cabestany",66330,https://www.lechaudron66.com/,42.6902217,2.9201574
+8250181174,node,Les Catherinettes,restaurant,Perpignan,,,,42.7014237,2.940522
+8255967139,node,La Poissonnerie,restaurant,Perpignan,,,,42.6376682,2.9224301
+8316520623,node,Le Boogie's Bar,restaurant,Perpignan,"2 Place Martinique, 66420",66420,,42.8149522,3.0204406
+8461546456,node,L'art de vivre,restaurant,Perpignan,9 Place Martinique,,,42.8151403,3.0209826
+8477089554,node,À Table,restaurant,Perpignan,,,http://atable.meabilis.fr/,42.6874236,2.9193562
+8563935395,node,La Diligence du Château,restaurant,Perpignan,49 Avenue Général de Gaulle,,,42.8323075,2.9193176
+8638767692,node,,restaurant,Perpignan,,,,42.7084124,2.8461748
+8645224346,node,Yum Yum,restaurant,Perpignan,,,,42.7171232,2.8402994
+8645224350,node,Mas Alégria,restaurant,Perpignan,,,,42.7169977,2.8397506
+8652274831,node,Les Portes du Lac,restaurant,Perpignan,,,,42.7178608,2.854992
+8652782051,node,Rotisserie Trattoria Bonici,restaurant,Perpignan,,,,42.7169898,2.846346
+8691361637,node,La Comedia,restaurant,Perpignan,"28 Avenue de Saint-Nazaire, 66140, Canet-en-Roussillon",66140,,42.703875,3.0037126
+8740139029,node,Salses Pizza,restaurant,Perpignan,52 Avenue Général de Gaulle,,,42.832486,2.9196596
+8740139031,node,Chez Jean-Louis,restaurant,Perpignan,,,,42.8311248,2.9189777
+8750817321,node,,restaurant,Perpignan,,,,42.6237955,2.8209583
+8895318237,node,Le Régina,hotel,Perpignan,132 Boulevard Hippolyte Tixador,,https://leregina-canet.fr,42.6843617,3.0338537
+8916499377,node,Vostra Italia,restaurant,Perpignan,,,,42.6867561,2.9216282
+8920069717,node,Can Marcel,restaurant,Perpignan,"101 Promenade de la Côte Vermeille, 66140",66140,,42.7007201,3.0363967
+8956686046,node,Tuk Tuk,restaurant,Perpignan,"6 Avenue des Palmiers, 66000, Perpignan",66000,,42.6996542,2.8874268
+8977452780,node,Restaurant Lazare Escarguel,restaurant,Perpignan,Rue Lazare Escarguel,,,42.6994769,2.8936855
+8987867034,node,Côté plage Beach club,restaurant,Perpignan,,,https://www.club-de-plage-canet.fr/,42.6989949,3.0371995
+8987867041,node,Chill'out beach,restaurant,Perpignan,,,https://www.chilloutbeach.com/,42.6976874,3.0370139
+8987867042,node,Club O'Zipo Camp,restaurant,Perpignan,,,https://ozipocampcanet.wixsite.com/my-site-1,42.6972134,3.0364427
+8987867045,node,Gondolys club,restaurant,Perpignan,,,https://www.instagram.com/gondolysclub/,42.6944137,3.0367315
+8987867059,node,Sea-Line,restaurant,Perpignan,,,https://www.facebook.com/Sealinecanet,42.6915221,3.0361903
+8987867061,node,L'Eden club plage,restaurant,Perpignan,,,,42.6901449,3.0361429
+8987867063,node,La Cala Restaurant-Club de Plage,restaurant,Perpignan,,,https://lacalabeach.fr/,42.6887012,3.0361084
+8987867066,node,Les Voiles Blanches,restaurant,Perpignan,,,https://www.lesvoilesblanches-canet-66.fr/,42.6863169,3.0355625
+8987867071,node,Ô Pieds Nus,restaurant,Perpignan,,,,42.6845092,3.0355102
+8987867075,node,Bikini Beach - Canet,restaurant,Perpignan,,,https://bikini-beach-canet-en-roussillon.eatbu.com/,42.6818585,3.0352971
+8987867082,node,La Plage en Famille,restaurant,Perpignan,,,http://www.laplageenfamille.eatbu.com/,42.6802082,3.0350959
+8987867084,node,Le Kiaora Beachclub,restaurant,Perpignan,,,,42.6785591,3.0349671
+8987867086,node,Naudo Beach Club,restaurant,Perpignan,,,,42.6721633,3.0345553
+8987867087,node,,restaurant,Perpignan,,,,42.6733821,3.0347568
+8987867088,node,,restaurant,Perpignan,,,,42.6748845,3.0348086
+8999063138,node,El Patcho,restaurant,Perpignan,"Place du Tertre, 66420",66420,https://el-patcho-bar-restaurant-le-barcares.eatbu.com/?lang=fr,42.833742,3.0401849
+8999063139,node,La Pomme d'Api,restaurant,Perpignan,"Place du Tertre, 66420",66420,,42.8339483,3.0405347
+8999063160,node,Le Tertre,restaurant,Perpignan,1 Place du Tertre,,,42.833619,3.0396796
+8999770292,node,Le Bistrot du Marché,restaurant,Perpignan,,,,42.6927111,2.9194591
+9031130507,node,Maison Espiago,restaurant,Perpignan,,,,42.6988338,2.8913738
+9045205917,node,Le grand café de la bourse,restaurant,Perpignan,2 Place de la Loge,,,42.6997952,2.8947923
+9171884825,node,Yori Izakaya,restaurant,Perpignan,63 Avenue Maréchal Leclerc,,,42.7002532,2.8874207
+9407099655,node,Restaurant du personnel,restaurant,Perpignan,,,,42.7274421,2.8902143
+9457425462,node,Buffalo Grill,restaurant,Perpignan,,,,42.660049,2.8838511
+9519438609,node,Ti Paille-en-queue,restaurant,Perpignan,,,,42.6540233,2.8318537
+9519588270,node,Casa Pépé,restaurant,Perpignan,,,,42.6621155,2.844527
+9543412392,node,Auberge du Mas Chabry,restaurant,Perpignan,,,,42.6687218,2.8533245
+9545165008,node,La Brasserie,restaurant,Perpignan,,,,42.6684087,2.9898168
+9563536820,node,Yuki Sushi,restaurant,Perpignan,,,,42.6665036,2.9174548
+9563536821,node,Omega Burger,restaurant,Perpignan,,,,42.6661781,2.9172939
+9563536822,node,La table des secrets,restaurant,Perpignan,,,,42.6660933,2.9170686
+9563536825,node,Le Casablanca,restaurant,Perpignan,,,,42.6667146,2.91742
+9566855167,node,Les délices de Saleilles,restaurant,Perpignan,,,https://www.les-delices-de-saleilles-restaurant-perpignan.com/,42.6553297,2.9535212
+9612435381,node,Le Commerce,restaurant,Perpignan,,,,42.7723039,2.6993832
+9697645142,node,La Pâta Pizza,restaurant,Perpignan,,,https://lapatapizzadelsol@gmail.com,42.6396425,2.8712028
+9697645148,node,La Casa Pizza,restaurant,Perpignan,12 Avenue du Roussillon,,,42.6402907,2.8709983
+9700684506,node,Le Mooréa,restaurant,Perpignan,3 Impasse Serge Blanco,,,42.6407001,2.9066201
+9700684507,node,Lac i va bé,restaurant,Perpignan,,,,42.640706,2.9060903
+9705956020,node,La cabane,restaurant,Perpignan,"8 Place Jean Payra, 66180",66180,,42.636519,2.9154707
+9706003200,node,Dolce Vita,restaurant,Perpignan,,,,42.6373438,2.9139774
+9733544713,node,Pizza Romane,restaurant,Perpignan,,,,42.7549569,2.9937228
+9751176994,node,La Table de Thomas,restaurant,Perpignan,,,https://www.latabledethomas.com,42.6561276,2.9070948
+9766658368,node,La page blanche,restaurant,Perpignan,2 Rue Alfred Sauvy,,,42.6421577,2.8790476
+9848756218,node,Lenny's Pizza,restaurant,Perpignan,,,,42.6236992,2.8127863
+9848756228,node,La Beau Dégâts,restaurant,Perpignan,6 Place de la Poste,,,42.62562,2.8136131
+9848756233,node,Noellia bar restaurant,restaurant,Perpignan,,,,42.62349,2.8127233
+9862229438,node,Le Vigatane,restaurant,Perpignan,,,,42.7069574,3.0081832
+9870616012,node,El Silex,restaurant,Perpignan,,,,42.8161425,2.7490337
+9870714455,node,Le Petit Gris,restaurant,Perpignan,,,,42.8146254,2.736431
+9870795279,node,Le moulin à soufre,restaurant,Perpignan,,,https://www.restaurant-moulinasoufre.fr/,42.7580108,2.8661469
+9911737518,node,Chez Massimo,restaurant,Perpignan,Rue de l'Ange,,,42.6982328,2.8933801
+9925050823,node,Le Robinson,restaurant,Perpignan,,,,42.7666665,2.8685506
+9945614794,node,Château de Jau,restaurant,Perpignan,,,https://www.chateaudejau.com,42.7785312,2.7392301
+9963795059,node,Le Castell,restaurant,Perpignan,13 Rue de la Tour Carrée,,,42.7063247,3.0076135
+9970176517,node,Pizza Luna,restaurant,Perpignan,,,,42.6235113,2.7699266
+9973142534,node,Crêperie bretonne de la Colline,restaurant,Perpignan,,,https://www.creperie66.com/creperie-de-la-colline-des-loisirs/,42.7022937,3.0189979
+10024937582,node,La Rotonde,restaurant,Perpignan,8 Place Jean Payra,,,42.6983981,2.8890342
+10024937602,node,Chez Gubbi,restaurant,Perpignan,,,https://chezgubbi.my.canva.site/,42.702103,2.8958088
+10024937611,node,Pizza Aldo,restaurant,Perpignan,36 Boulevard Aristide Briand,,,42.694734,2.9014762
+10031331130,node,Pizzeria Da Nando,restaurant,Perpignan,,,,42.6994572,2.8898469
+10031729244,node,Pizza Time,restaurant,Perpignan,59 Avenue Maréchal Juin,,,42.6876727,2.9001706
+10031729258,node,Noor Cheese Naan,restaurant,Perpignan,,,,42.6942476,2.8894875
+10031729267,node,L'Hibiscus,restaurant,Perpignan,"11 Rue Maximilien de Sully, 66000, Perpignan",66000,,42.6979423,2.8894036
+10031729269,node,Minami,restaurant,Perpignan,,,,42.6977979,2.8894868
+10061294593,node,Le 35,restaurant,Perpignan,,,,42.7339753,3.0334188
+10084928737,node,Dragon Wok,restaurant,Perpignan,,,,42.7342423,2.8891743
+10086511368,node,O'Grill,restaurant,Perpignan,,,,42.6884149,2.8963566
+10086511376,node,La Pause Délice,restaurant,Perpignan,,,,42.687784,2.9003202
+10086511380,node,L'Ardoise,restaurant,Perpignan,30 Avenue du Maréchal Koenig,,,42.6873084,2.9022112
+10086759641,node,Viet Nam,restaurant,Perpignan,54 Boulevard Aristide Briand,,,42.6933254,2.9001416
+10086759655,node,Ok Pizza,restaurant,Perpignan,,,,42.6912283,2.8987625
+10108701975,node,Naïve,restaurant,Perpignan,2 bis Rue des Cardeurs,,https://www.instagram.com/naivedeperpignan/?hl=fr,42.6993603,2.8956774
+10108733518,node,La Famille,restaurant,Perpignan,3 bis Rue François-Marie Voltaire,,https://m.facebook.com/lafamillerestau/,42.6980211,2.8945094
+10115969903,node,Au coin gourmand,restaurant,Perpignan,,,,42.7009991,2.894585
+10115969905,node,Txoko,restaurant,Perpignan,,,,42.7008863,2.89464
+10115986722,node,Italia Mia,restaurant,Perpignan,14 Place Hyacinthe Rigaud,,,42.6979758,2.8969031
+10115986728,node,Les Petits Délices,restaurant,Perpignan,,,,42.6952515,2.8943322
+10115986742,node,L'Estudiantine,restaurant,Perpignan,3 Rambla du Vallespir,,,42.6851879,2.9027275
+10116050572,node,Les Platanes,restaurant,Perpignan,2 Cours François Palmarole,,,42.7022121,2.8946011
+10119425338,node,Sushi Mey,restaurant,Perpignan,,,,42.6994818,2.89016
+10119425349,node,L'Intermède,restaurant,Perpignan,3 Rue Pierre Rameil,,,42.7005172,2.8917787
+10119425353,node,Pizza Cosy,restaurant,Perpignan,,,,42.7005408,2.8911833
+10119425356,node,Le Petit Comité,restaurant,Perpignan,24 Boulevard Georges Clemenceau,,,42.7007168,2.8908071
+10119425357,node,Eat Sushi,restaurant,Perpignan,24 bis Boulevard Georges Clemenceau,,,42.7006978,2.8906897
+10119425383,node,,restaurant,Perpignan,,,,42.6996592,2.889181
+10296717178,node,Sagí,restaurant,Perpignan,3 Rue Fabriqués d'en Nadals,,https://sagi-taverna.fr/,42.6999705,2.8942544
+10296743087,node,Baston Restaurant & Cave,restaurant,Perpignan,72 Avenue Louis Torcartis,,https://baston-restaurant.fr/,42.7033289,2.8874329
+10568729351,node,Le Grain de Folie,restaurant,Perpignan,71 Avenue Maréchal Leclerc,,,42.7001274,2.8869058
+10589033986,node,La table de Babeth,restaurant,Perpignan,5 Rue Léon Levavasseur,,https://latabledebabeth.eatbu.com/,42.6922288,2.8497646
+10616332885,node,La brasserie du burger,restaurant,Perpignan,,,,42.7343197,2.8889044
+10673536367,node,Gust'I Pizza,restaurant,Perpignan,,,https://www.gustipizza.fr/,42.6843047,2.8104504
+10704422506,node,Le For’Hom,restaurant,Perpignan,1 Avenue Jean Badia,,,42.8151977,2.7482336
+10704422508,node,L'étape,restaurant,Perpignan,,,,42.8137786,2.7450927
+10713051212,node,Le Sujet,restaurant,Perpignan,2 Place Albert de Belgique,,https://lesujet-restaurant.fr/,42.6959531,2.8829405
+10720916444,node,O'Gourmet,restaurant,Perpignan,,,,42.6843381,2.8500187
+10720916446,node,O'Gourmet,restaurant,Perpignan,31 Rue de Munich,,,42.6841035,2.8511117
+10894089838,node,Tiki restaurant,restaurant,Perpignan,,,,42.7787044,3.0295148
+10894090007,node,,restaurant,Perpignan,,,,42.7813995,3.0226578
+10894983491,node,,restaurant,Perpignan,,,,42.774385,3.0228429
+10894983573,node,,restaurant,Perpignan,,,,42.7749687,3.0184776
+10919659309,node,La Taverne Bretonne,restaurant,Perpignan,Rue des Fabriques-d'En-Nabot,,https://www.latavernebretonne.fr/,42.7001227,2.8939698
+10936668674,node,Pizz' À Petotes,restaurant,Perpignan,,,,42.7539776,2.8574753
+10936668676,node,Ô Bistrot d'Aquí,restaurant,Perpignan,11 Rue de l'Europe,,,42.7553641,2.8575316
+11026602295,node,Chiang May Express,restaurant,Perpignan,14 Boulevard Aristide Briand,,,42.6958317,2.9025098
+11032402629,node,La maison de marie,restaurant,Perpignan,,,,42.6988426,2.8876381
+11096827001,node,La table des Z’amis,restaurant,Perpignan,,,,42.7627599,3.0224057
+11097465955,node,Flunch,restaurant,Perpignan,,,,42.7765295,2.9136012
+11097465964,node,Dicapo,restaurant,Perpignan,,,,42.7766225,2.9137688
+11097465994,node,Le Sant Jordi,restaurant,Perpignan,,,,42.775804,2.9142255
+11097465998,node,Le Petit Moka,restaurant,Perpignan,,,,42.775991,2.9142201
+11134768811,node,Pizzas du monde,restaurant,Perpignan,41 Avenue Général Gilles,,,42.6956604,2.919302
+11172145081,node,Yegg,restaurant,Perpignan,3 Rue Adjudant-Pilote Paratilla,,,42.6979433,2.8947007
+11172145082,node,Miam,restaurant,Perpignan,,,https://miamcollectif.org,42.6972575,2.8942386
+11197559504,node,El Teatro,restaurant,Perpignan,2 Rue du Théâtre,,,42.6981499,2.8958341
+11212347716,node,L'évasion,restaurant,Perpignan,3429 Avenue Julien Panchot,,,42.6771954,2.8493053
+11488408576,node,Frida's Vegan,restaurant,Perpignan,"24 Place Hyacinthe Rigaud, 66000, Perpignan",66000,https://fridasperpignan.fr,42.6978931,2.8971607
+11494492040,node,Sanils,restaurant,Perpignan,,,,42.694673,3.0356864
+11494495276,node,La table des copains,restaurant,Perpignan,,,,42.6950502,3.0356978
+11494499263,node,,restaurant,Perpignan,,,,42.6961099,3.03584
+11494499599,node,Torcatis,restaurant,Perpignan,15 Promenade de la Côte Vermeille,,,42.6955186,3.0357945
+11494506806,node,Di Gavirate,restaurant,Perpignan,,,,42.6972834,3.0359151
+11494719007,node,Hôtel Saint-Georges,hotel,Perpignan,45 Promenade de la Côte Vermeille,,,42.6977016,3.0359436
+11494721047,node,La Table,restaurant,Perpignan,,,,42.6982017,3.0360244
+11494732231,node,Dimanche Canet,restaurant,Perpignan,,,,42.6997063,3.036211
+11494732538,node,La Guérandaise,restaurant,Perpignan,,,,42.700127,3.0363499
+11494733314,node,L'R de rien,restaurant,Perpignan,47 Promenade de la Côte Vermeille,,,42.6978688,3.0360073
+11494762880,node,Une histoire de pain,restaurant,Perpignan,,,,42.6991903,3.036211
+11494777070,node,Les Frayettes,restaurant,Perpignan,93 Promenade de la Côte Vermeille,,,42.7000869,3.0363487
+11494794224,node,Pain & Co,restaurant,Perpignan,,,,42.7008688,3.0364261
+11494800919,node,Snack en folie,restaurant,Perpignan,,,,42.7007593,3.0364056
+11505558396,node,La Berbère,restaurant,Perpignan,"23 Rue des Embruns, 66000, Perpignan",66000,,42.6970579,2.9157037
+11505558402,node,La pizzeria dei Tatuati,restaurant,Perpignan,"100 Rue Paul Rubens, 66000, Perpignan",66000,,42.6957676,2.9182723
+11505558407,node,Le Bellagio,restaurant,Perpignan,"2130 Avenue du Languedoc, 66000, Perpignan",66000,,42.7395039,2.8924626
+11649336988,node,Crêperie 66,restaurant,Perpignan,,,https://www.creperie66.com/creperie-balande/,42.6668724,2.916221
+11649336989,node,La Pizza d'en Face,restaurant,Perpignan,,,https://la-pizza-d-en-face.eatbu.com/,42.6663537,2.9165268
+11697141188,node,Ô Liban,restaurant,Perpignan,6 Rue Mailly,,https://o-liban.metro.rest,42.698601,2.8932252
+11708934276,node,4 Miau,restaurant,Perpignan,,,,42.6975887,2.8944418
+11757441776,node,Hello,restaurant,Perpignan,,,,42.6935264,2.9305331
+11818465958,node,Gogui,restaurant,Perpignan,,,,42.6976625,2.8951445
+11818513784,node,Tokyo Menya,restaurant,Perpignan,,,,42.6982451,2.8905669
+11830217036,node,La pause,restaurant,Perpignan,235 Avenue d'Espagne,,,42.6864478,2.8963727
+11851733150,node,Coco de la Mer,restaurant,Perpignan,,,,42.7675327,3.0277315
+11851733195,node,Côté Cour,restaurant,Perpignan,,,,42.7658154,3.0278556
+11865715282,node,Casa Boem,restaurant,Perpignan,,,https://casaboem.com/,42.762426,3.0214378
+11876855064,node,L'Alizé Catalan,restaurant,Perpignan,,,https://www.lalizecatalan.fr/,42.7998269,3.0381918
+11895150893,node,Les buffets d'Orient,restaurant,Perpignan,948 Chemin de la Fossella (vc 213),,,42.6691999,2.8978399
+11918432471,node,Léo et Lizette,restaurant,Perpignan,,,https://leoetlizette.fr/,42.6641289,2.9033786
+11926006718,node,Au comptoir des vignobles,restaurant,Perpignan,,,,42.6801963,3.0333397
+11926007214,node,Sud paëlla,restaurant,Perpignan,,,,42.6799336,3.0328073
+11926016181,node,Tashinow,restaurant,Perpignan,2 Promenade Charles Trénet,,,42.6795111,3.0336691
+11928621068,node,Citron vert,restaurant,Perpignan,10 Promenade de la Côte Radieuse,,,42.6814319,3.0339635
+11952484646,node,Ô pale,restaurant,Perpignan,1 c Chemin du Mas Richemont,,https://lopale-restaurant.fr/,42.6401294,2.9039412
+11952484647,node,Maja,restaurant,Perpignan,,,,42.6402532,2.9042269
+12025501085,node,Le Front de Mer,restaurant,Perpignan,"11 Boulevard du Golfe du Lion, 66420",66420,https://www.lefrontdemer-barcares.fr/,42.7875882,3.0376286
+12051678600,node,Ô numéro vin,restaurant,Perpignan,,,,42.7748752,2.909482
+12051678607,node,Crêperie bretonne,restaurant,Perpignan,,,https://www.un-air-de-bretagne66.fr/,42.7750229,2.9103309
+12051678608,node,Sakura,restaurant,Perpignan,,,https://www.sakurajaponais-66.com/,42.7751587,2.9103228
+12073547018,node,Le Reviens'y,restaurant,Perpignan,,,,42.6822062,2.7938808
+12092219205,node,Maison Gaïa,hotel,Perpignan,,,https://hotel-maison-gaia.com/fr/,42.7532095,2.9920216
+12123022511,node,,restaurant,Perpignan,,,,42.765279,3.0319443
+12138426053,node,La bodega des anges,restaurant,Perpignan,,,,42.6957896,2.918812
+12174943672,node,Le Galion,hotel,Perpignan,20bis Avenue du Grand Large,,,42.689108,3.0321105
+12178547910,node,Hôtel Les Sables,hotel,Perpignan,25 Rue Vallée du Rhône,,,42.6890844,3.0337203
+12179812910,node,Poke wave,restaurant,Perpignan,"13 Avenue du Général Charles de Gaulle, 66000, Perpignan",66000,https://poke-wave.com/,42.6969109,2.8819
+12193967466,node,Le Perroquet,restaurant,Perpignan,,,,42.6965314,2.8803886
+12264542528,node,El Suquet,restaurant,Perpignan,,,,42.7500065,2.6779778
+12285134382,node,La causerie,restaurant,Perpignan,,,,42.7168346,2.8399211
+12286124595,node,Royal Pizza,restaurant,Perpignan,,,https://royal-pizzas.fr/,42.7190824,2.8476048
+12372504868,node,Flunch,restaurant,Perpignan,,,,42.6692973,2.8811674
+12373601011,node,,restaurant,Perpignan,,,,42.6997165,2.897896
+12373712969,node,,restaurant,Perpignan,,,,42.6977595,2.8956757
+12507790351,node,Bar tabac de l'Union,restaurant,Perpignan,,,,42.7583207,2.9557514
+12507790354,node,Pizza Claira,restaurant,Perpignan,,,https://pizzaclaira.fr/,42.7580937,2.9554329
+12525879132,node,Bowl d'air,restaurant,Perpignan,,,,42.6888717,2.9210788
+12549466964,node,Pizz'Avenue,restaurant,Perpignan,,,,42.6660374,2.9850127
+12587998941,node,L'assiette Catalane,restaurant,Perpignan,,,http://www.assiettecatalane.com/,42.6986214,2.8900099
+12601215466,node,Guapo,restaurant,Perpignan,,,https://guapo-perpignan.eatbu.com/,42.7000748,2.8942536
+12601215467,node,L'Attablée,restaurant,Perpignan,2 ter Rue des Fabriques-Nadal,,https://lattablee.fr/,42.6999463,2.8942741
+12601216220,node,La Droguerie,restaurant,Perpignan,37 Rue des Augustins,,,42.6975721,2.8943009
+12639304538,node,L'escale,restaurant,Perpignan,,,,42.7329735,2.8673539
+12644341601,node,La Cellera,restaurant,Perpignan,18 Rue du Ball,,,42.7002005,2.8236486
+12645507761,node,La guinguette de Louis,restaurant,Perpignan,,,,42.7284006,2.9927015
+12802213500,node,La Picada,restaurant,Perpignan,,,,42.8166249,2.7491161
+12809329947,node,Restaurant Julia,restaurant,Perpignan,,,,42.6973144,3.0300124
+12827811596,node,,restaurant,Perpignan,,,https://hotelmaricel.com/restaurant,42.692855,3.0348009
+12861275903,node,La Thaïlande — Buffet à volonté,restaurant,Perpignan,72 Chemin de la Fossella (vc 213),,,42.6735164,2.8902891
+12863077406,node,Casa Aldo,restaurant,Perpignan,1158 Chemin de la Fossella (vc 213),,,42.6685377,2.8991726
+12870774779,node,Le Meltin' Pâtes,restaurant,Perpignan,,,https://lemeltinpates.fr/,42.7344462,2.890445
+12870774780,node,Casa Portuguesa,restaurant,Perpignan,,,https://www.casa-portuguesa.fr/,42.7343496,2.8903645
+12873211301,node,Alexander Hôtel,hotel,Perpignan,,,,42.7005671,2.8913902
+12875843452,node,O' Rebond Favorable,restaurant,Perpignan,,,,42.7746073,2.9621461
+12875843460,node,Le Banian,restaurant,Perpignan,,,https://pizzalebanian.com/,42.7860755,2.9678665
+12881586751,node,Viet Nguyen,restaurant,Perpignan,,,,42.6783394,2.94423
+12889489109,node,Mamma Mia,restaurant,Perpignan,,,,42.6998248,2.8923091
+12902892579,node,La Table du Mas,restaurant,Perpignan,840 Avenue d'Espagne,,https://www.latabledumas.fr/,42.6818173,2.8936891
+12912077401,node,Pizza Mia,restaurant,Perpignan,,,,42.6807044,3.0338989
+12923551877,node,La Fringale,restaurant,Perpignan,,,,42.8045643,3.0376525
+12925316062,node,L'Oriental,restaurant,Perpignan,,,,42.8034611,3.0370158
+12960031262,node,Belle Bête,restaurant,Perpignan,,,,42.6505485,2.8358601
+12999832445,node,Fratelli Pizza,restaurant,Perpignan,3 Rue de la Couloumine,,,42.662057,2.8445443
+13011956593,node,Chez Poupette,restaurant,Perpignan,10 Avenue de la Grande Plage,,,42.8336409,3.0415712
+13012149315,node,,restaurant,Perpignan,,,,42.8330083,3.0423792
+13012176622,node,Lap's Club,restaurant,Perpignan,,,,42.8292602,3.041585
+13015853906,node,Le mouton bleu,restaurant,Perpignan,,,,42.7861913,3.0385639
+13019618189,node,Chez sacha,restaurant,Perpignan,6 Place Martinique,,,42.8150428,3.0206667
+13019618190,node,Bo Chelli,restaurant,Perpignan,,,,42.8148244,3.0213511
+13047937201,node,Arigato,restaurant,Perpignan,0 Passage Puig,,,42.7345992,2.8905214
+13047937401,node,Les Halles 5,restaurant,Perpignan,,,https://www.les5elements.com/les-halles-5,42.7306342,2.8953969
+13049765428,node,Ma Cocotte,restaurant,Perpignan,,,,42.7543176,2.9928412
+13078154747,node,L'épicentre,restaurant,Perpignan,25 Allée des Chênes,,,42.6879265,2.8393838
+13081804991,node,La guinguette de Clairfont,restaurant,Perpignan,,,,42.6650244,2.8389345
+13084847888,node,Manat,restaurant,Perpignan,,,,42.7008236,2.8964199
+13089314354,node,Le Romarin,restaurant,Perpignan,,,,42.7905831,3.0365037
+13096110592,node,Chris & Co. - Bistrot Gourmand,restaurant,Perpignan,"3 Avenue de Toulouse, 66140, Canet-en-Roussillon",66140,https://chrisandco.eatbu.com/,42.6799868,3.0330743
+13096110593,node,BOBUN BUBBLE TEA,restaurant,Perpignan,"12 Avenue de Toulouse, 66140, Canet-en-Roussillon",66140,,42.6801949,3.0336087
+13096110594,node,Ô P'TIT PORTUGAIS,restaurant,Perpignan,"12 Promenade de la Côte Radieuse, 66140, Canet-en-Roussillon",66140,,42.6801484,3.0337261
+13096110595,node,La Paillote,restaurant,Perpignan,"12 Promenade de la Côte Radieuse, 66140, Canet-en-Roussillon",66140,,42.680511,3.0339001
+13096110596,node,Anne de Bretagne,restaurant,Perpignan,"12 Promenade de la Côte Radieuse, 66140, Canet-en-Roussillon",66140,https://creperie-anne-de-bretagne-canet-en-roussillon.eatbu.com/,42.6807875,3.0339177
+13096110597,node,La Pizzathèque,restaurant,Perpignan,"12 Promenade de la Côte Radieuse, 66140, Canet-en-Roussillon",66140,https://pizzatheque-canet.fr/,42.6809143,3.0339316
+13096110598,node,Le Grill,restaurant,Perpignan,"10 Promenade de la Côte Radieuse, 66140, Canet-en-Roussillon",66140,,42.6816643,3.0339935
+13104441262,node,Go Pizza,restaurant,Perpignan,,,https://www.gopizza66.fr/,42.6962594,2.9068771
+13104441263,node,Everest,restaurant,Perpignan,60 Avenue Jean Mermoz,,,42.6963497,2.9080904
+13104441265,node,Pizza Mermoz,restaurant,Perpignan,,,,42.6963016,2.9083009
+13109040902,node,,restaurant,Perpignan,4 Rue Louis Joseph Gay-Lussac,,,42.6920589,2.9191936
+13125094385,node,Ezz Hotel,hotel,Perpignan,,,,42.6982997,3.035388
+13125186421,node,La Pierre Chaude,restaurant,Perpignan,,,,42.6982986,3.0360418
+13125186422,node,Saiko Sushi,restaurant,Perpignan,,,,42.6993897,3.036237
+13129580030,node,Black And White Burger,restaurant,Perpignan,,,https://restaurants.bnwburger.com/perpignan-vauban/,42.6995567,2.8923053
+13141213901,node,O'QG,restaurant,Perpignan,"Rue Ludovic Massé, 66450",66450,,42.6409889,2.8778306
+13153742593,node,E-ko guinguette,restaurant,Perpignan,,,https://www.ekoland.fr/,42.6899971,2.9226865
+13167512296,node,Wok-home Bompas,restaurant,Perpignan,,,,42.7296281,2.9358119
+13176956452,node,Galex d'Aqui,restaurant,Perpignan,,,https://m.facebook.com/100092007422305/,42.7696073,2.873323
+13181982245,node,"Relax'Otel, & Spa Le Barcarès",hotel,Perpignan,Avenue Thalassa,,https://www.relaxotel-restaurant-spa.fr,42.8393154,3.0387734
+13207439678,node,Food Truck Chez Tino,restaurant,Perpignan,,,https://www.chez-tino.fr/,42.7353751,2.9300572
+13208224395,node,Le petiot,restaurant,Perpignan,,,https://www.lepetiot.fr/,42.6888009,2.9186739
+13227928303,node,Como en Casa,restaurant,Perpignan,,,,42.7051531,3.0067205
+13235396036,node,Le Bouchon Catalan,restaurant,Perpignan,,,https://le-bouchon-catalan.eatbu.com/,42.6948089,3.0334215
+13235396040,node,Le comptoir de mamie Bigoude,restaurant,Perpignan,16 Rue des Pyrénées,,https://canet-en-roussillon.comptoirmamiebigoude.com/restaurant-breton-canet-en-roussillon,42.6952357,3.032881
+13235396041,node,La Cantina della Pasta,restaurant,Perpignan,28 Avenue de la Méditerranée,,https://cantinadellapasta.eatbu.com/,42.6951736,3.0328676
+13273905214,node,Les Antiquaires,restaurant,Perpignan,,,,42.6985046,2.8975314
+13274217903,node,Mabuhay Cuisine,restaurant,Perpignan,5 Place André Grétry,,,42.6996169,2.8969045
+13274217904,node,La Maison Libanaise,restaurant,Perpignan,,,,42.6995103,2.896884
+13290419301,node,Casa de Miguel,restaurant,Perpignan,12 Boulevard Sadi Carnot,,,42.7496243,2.8107049
+13299206659,node,Bella Ciao,restaurant,Perpignan,4 Rue du Capcir,,,42.6945118,3.0348043
+13306994881,node,Hibou,restaurant,Perpignan,,,,42.7004321,2.8955409
+13322827154,node,Le Stand-Up,restaurant,Perpignan,,,,42.7730235,2.8319554
+13322827158,node,Pizza Benito,restaurant,Perpignan,,,,42.7755357,2.8364997
+13333439801,node,La demeure catalane,restaurant,Perpignan,3 Rue d'Espira,,,42.7524344,2.811868
+13337237001,node,Pizza La Royale,restaurant,Perpignan,,,,42.721383,2.8855151
+13360228901,node,Le Grilladin,restaurant,Perpignan,17 Rue des Genets d'Or,,,42.7007726,3.0314211
+13362464445,node,Pasta Basta,restaurant,Perpignan,,,,42.6984006,2.892863
+13372968674,node,Casa Portuguesa,restaurant,Perpignan,36 Avenue du Palais-des-Expositions,,https://www.casa-portuguesa.fr/,42.7051287,2.8944675
+13393111751,node,Le 860,restaurant,Perpignan,,,https://www.lafauceille.com/restaurant-perpignan.php,42.669667,2.8976172
+13460795101,node,La Découverte,restaurant,Perpignan,"9 Rue de l'École, 66000",66000,,42.7020919,2.8925835
+13460799401,node,Les Saisons,restaurant,Perpignan,"6 Rue Camille Desmoulins, 66000",66000,,42.7010046,2.8907446
+13516610301,node,FIKA,restaurant,Perpignan,"3 Rue Emmanuel Brousse, 66000",66000,,42.6994534,2.8937508
+13517373901,node,Bacán,restaurant,Perpignan,,,,42.6977198,2.8949203
+13520238544,node,La Jardinerie,restaurant,Perpignan,,,,42.662194,2.8344941
+13520256951,node,Royal d'Asie,restaurant,Perpignan,,,,42.6435876,2.8805396
+13587937001,node,Les Cabochons,restaurant,Perpignan,10 Rue Louis Mouillard,,,42.7285107,2.8765375
+13587937301,node,B&W,hotel,Perpignan,,,,42.7281061,2.8769215
+13605157701,node,La Cases de Tony,restaurant,Perpignan,,,,42.7787247,2.7895653
+13612604035,node,Maménakané,restaurant,Perpignan,9 Rue des Pêcheurs,,https://mamenakane.fr/,42.7037089,2.8867623
+13624946665,node,Pizza Aureliano,restaurant,Perpignan,,,,42.6552668,2.9527595
+13626966301,node,Le petit Tibet,restaurant,Perpignan,3 Avenue du Lycée,,https://le-petit-tibet.jimdofree.com/,42.6962618,2.8872323
+13645451892,node,Campanile Perpignan Nord aéroport,hotel,Perpignan,"1 Rue Alfred Sauvy - Mas de la Garrigue Nord, 66600, Rivesaltes",66600,https://www.groupe-hotelier.com/,42.7811517,2.8993229
+13645563679,node,Novotel Perpignan Rivesaltes,hotel,Perpignan,"7 Rue Alfred Sauvy, 66600, Rivesaltes",66600,https://all.accor.com,42.782317,2.900642
+13647838677,node,Bam !,restaurant,Perpignan,70 Avenue Louis Torcatis,,https://bam-restaurant.com/,42.7033512,2.8875613
+13649894435,node,Botanic,restaurant,Perpignan,27 Boulevard Joseph Cassanyes,,https://botaniccanet.fr/,42.6957753,3.0351233
+13680448174,node,Resto B,restaurant,Perpignan,,,,42.6972165,2.8837668
+13683146370,node,Le Pams restaurant,restaurant,Perpignan,,,,42.7289917,2.9340161
+13685845029,node,"Les Délices de la Plage,",restaurant,Perpignan,7 Boulevard du Golfe du Lion,,,42.7875776,3.0374947
+13686085633,node,Oh Kakou,restaurant,Perpignan,"12 Boulevard de la Côte Vermeille, 66420",66420,,42.7858933,3.0372774
+13688246498,node,Viet Thai,restaurant,Perpignan,14 Avenue de la Grande Plage,,,42.8339975,3.0404477
+13690639190,node,Le Chat Rouge,restaurant,Perpignan,Place du Tertre,,,42.8340321,3.040463
+13692209954,node,Le Palmier,restaurant,Perpignan,16 Place Martinique,,,42.814957,3.021407
+13694473633,node,Buena vista,restaurant,Perpignan,"Promenade Tobago, 66420",66420,,42.8127929,3.0210541
+13716305302,node,La Boca du Chât’ô,restaurant,Perpignan,21 Avenue Armand Claret,,https://labocaduchato.fr/,42.8359126,2.9199474
+13716360845,node,SabaïDee Sushi,restaurant,Perpignan,,,https://sabaidee-sushi.fr/,42.6641151,2.8203522
+13786707573,node,Les Halles du Mas Guérido,restaurant,Perpignan,,,,42.6922993,2.9222533
+13825231155,node,O Cabanon,restaurant,Perpignan,6 Avenue des Marendes,,,42.7343766,3.0306174
+13906298018,node,Le Local,restaurant,Perpignan,52 promenade côte vermeille,,https://www.instagram.com/le_l0cal/,42.6898957,3.0348659
+13927231100,node,La Table de Mamie,restaurant,Perpignan,,,,42.7314368,2.8914052
+13927275202,node,Le Bistroquet,restaurant,Perpignan,,,,42.7555793,2.9930965
+13931757306,node,TukTuk Club,restaurant,Perpignan,Quai des Chalutiers,,https://www.tuktukclub.fr/,42.7950964,3.0402403
+13965846901,node,Le jardin,restaurant,Perpignan,,,,42.7625251,3.0220691
+13992771671,node,La Napolitana,restaurant,Perpignan,,,https://lanapolitana.fr/,42.7027579,2.8934059
+13993726090,node,Big Papa,restaurant,Perpignan,,,,42.7017494,3.0339333

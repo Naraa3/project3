@@ -1,0 +1,1366 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+249105071,node,Pas Du Loup,hotel,Nice,,,,44.1841219,7.1606392
+268114263,node,Capitole,hotel,Nice,06240,06240,,43.7432923,7.4269563
+270629256,node,Chez Massimo,restaurant,Nice,,,,43.7622201,7.480362
+272541505,node,Bocca Fina,restaurant,Nice,,,,43.7647333,7.4824042
+273248512,node,O Cantinho Da Saudade,restaurant,Nice,,,,43.7438606,7.4257252
+273251096,node,Villa Boeri,hotel,Nice,06240,06240,,43.7439668,7.4279048
+275401913,node,Auberge de Thiéry,restaurant,Nice,,,,43.9785636,7.0309495
+276848684,node,Le Méridien Nice,hotel,Nice,,,https://www.marriott.com/en-us/hotels/ncemd-le-meridien-nice/overview/,43.6952803,7.2659583
+276848703,node,Mercure,hotel,Nice,,,https://all.accor.com/hotel/0360/index.en.shtml,43.6952606,7.2654843
+297042186,node,Monsigny,hotel,Nice,,,https://www.hotelmonsignynice.com/,43.7078542,7.2630537
+297042189,node,Byakko,hotel,Nice,,,,43.7052888,7.2679018
+297594243,node,Hôtel Mercure Nice Centre Notre Dame,hotel,Nice,,,https://all.accor.com/hotel/1291/index.fr.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps,43.7036872,7.2665991
+298829846,node,Ibis,hotel,Nice,,,,43.7050221,7.2670323
+300891074,node,H64el,hotel,Nice,,,,43.7051698,7.2653585
+300891081,node,Lakmi,hotel,Nice,,,,43.702866,7.2670729
+300891176,node,Nice Riviera,hotel,Nice,,,https://www.hotel-nice-riviera.com/fr/,43.7000429,7.26952
+300891199,node,Hôtel Apollinaire Nice,hotel,Nice,25 Boulevard Dubouchage,,https://www.apollinaire-nice.com,43.7014002,7.2711347
+310593075,node,La Maison Libanaise,restaurant,Nice,,,,43.708402,7.2611232
+310593083,node,Au grill d'or,restaurant,Nice,,,,43.7080533,7.2599731
+311348421,node,Hôtel Parisien,hotel,Nice,10 Rue Vernier,,https://hotel-nice-parisien.com,43.7073661,7.2617106
+311348760,node,Le Castello,restaurant,Nice,,,,43.7070087,7.2571234
+311362246,node,Hôtel Lafayette,hotel,Nice,,,,43.699235,7.2701296
+311362294,node,Hôtel Helvétique,hotel,Nice,,,,43.6991106,7.2705337
+311362296,node,Le Seize,hotel,Nice,,,https://hotelseize.fr/,43.699227,7.2710954
+311362297,node,Hôtel Masséna,hotel,Nice,,,,43.6986462,7.2710334
+311362304,node,Univers Hôtel,hotel,Nice,,,https://www.hotelunivers-nice.com,43.6987972,7.2688843
+311362319,node,Palm,hotel,Nice,,,,43.6981829,7.2647525
+311362331,node,Hôtel Roosevelt,hotel,Nice,,,https://hotelroosevelt.fr/,43.6990499,7.2658588
+313186331,node,La Voglia,restaurant,Nice,,,https://www.lavoglia.com/,43.6956094,7.2733957
+364682397,node,Le Cessole,restaurant,Nice,"101 Boulevard de Cessole, 06100, Nice",06100,https://www.brasserielecessole.com,43.7201356,7.2514778
+372836000,node,Hôtel Carnot,hotel,Nice,"8 Boulevard Carnot, 06300, Nice",06300,,43.6981054,7.2875375
+373343489,node,Crazy Wok,restaurant,Nice,,,http://crazy-wok.com,43.7041992,7.2650561
+373343492,node,Shalimar,restaurant,Nice,,,,43.7029095,7.2695469
+373343498,node,Le Pacific,restaurant,Nice,,,,43.7089068,7.2629424
+384744931,node,Hippopotamus,restaurant,Nice,,,https://restaurants.hippopotamus.fr/hippopotamus-steakhouse-4844a550f049,43.6976371,7.2705424
+384744938,node,Rodizio,restaurant,Nice,,,,43.6978837,7.2714504
+384744977,node,Hôtel Lorrain,hotel,Nice,,,,43.6988856,7.2740128
+384744991,node,La Favola,restaurant,Nice,,,https://la-favola.com/,43.6958859,7.2737237
+439226954,node,Chez Freddy,restaurant,Nice,,,https://chezfreddy.fr/,43.6954533,7.2751668
+439226955,node,Le Safari,restaurant,Nice,,,https://www.restaurantsafari.fr/,43.6956626,7.2762711
+446960213,node,Chez André,restaurant,Nice,,,,43.7099276,7.257238
+449076318,node,L'Union,restaurant,Nice,"1 Rue Michelet, Nice",,,43.7145597,7.2611569
+449085162,node,Le Gambetta,restaurant,Nice,,,https://brasserielegambetta.fr,43.7099994,7.261526
+453141895,node,Alba Hotel,hotel,Nice,,,,43.7038916,7.2656768
+453141938,node,Bollywood Lollywood,restaurant,Nice,,,https://www.bollywoodlollywood.fr/,43.6983071,7.2688463
+456953031,node,Albert Ier,hotel,Nice,,,,43.6958465,7.2693077
+456953050,node,Beau Rivage,hotel,Nice,,,https://www.hotelnicebeaurivage.com/,43.69559,7.2700035
+456978897,node,Nice Garden Hotel,hotel,Nice,,,,43.6975063,7.2626938
+456991955,node,Nice Cote d'Azur,hotel,Nice,18 Avenue Durante,,https://www.hotelnicecotedazur.com/en/,43.7034213,7.2631626
+456991957,node,Hôtel Durante,hotel,Nice,,,https://www.hotel-durante.com/,43.7032126,7.2632269
+458747089,node,Villa Saint-Hubert,hotel,Nice,,,,43.7124693,7.2611567
+458905899,node,L'Original,restaurant,Nice,,,,43.7049139,7.2562781
+458969331,node,Les Cigales,hotel,Nice,,,,43.6975222,7.2616499
+458996386,node,Holiday Inn,hotel,Nice,,,https://www.ihg.com/holidayinn/hotels/us/en/nice/ncefr/hoteldetail,43.6996635,7.2644836
+458996395,node,Carlton,hotel,Nice,,,https://www.hotel-carlton-nice.com/,43.6994168,7.2634631
+458996441,node,Boscolo,hotel,Nice,,,https://boscolocollection.com/nice/,43.7000212,7.2656593
+460644681,node,Le Florence,hotel,Nice,,,https://www.hotel-florence-nice.com,43.7008884,7.2670489
+460644694,node,Hôtel Boréal,hotel,Nice,,,https://hotelboreal.fr/,43.7007419,7.2665326
+461817216,node,Hôtel de Berne,hotel,Nice,,,,43.7050853,7.2644492
+461817222,node,Espérance,hotel,Nice,,,,43.7049336,7.2648084
+461817476,node,Nice Cosy Hotel,hotel,Nice,,,,43.7044452,7.2645086
+461828739,node,d'Ostende,hotel,Nice,,,,43.7040531,7.2651921
+461828740,node,Amaryllis,hotel,Nice,,,,43.7040136,7.2650703
+461829756,node,Hôtel Saint Georges,hotel,Nice,,,,43.7019716,7.2654134
+464798360,node,Hôtel Servotel,hotel,Nice,06670,06670,http://www.servella.fr,43.7888914,7.2163648
+465035447,node,Lu Fran Calin,restaurant,Nice,,,https://lu-francalin.fr/,43.697377,7.2756962
+465035450,node,Le Romarin,restaurant,Nice,,,,43.69742,7.2758706
+465249886,node,Nice Azur Riviera,hotel,Nice,,,,43.7058785,7.2672358
+467184723,node,Villa Rose,hotel,Nice,,,,43.7147143,7.2581454
+469796862,node,Evelia,hotel,Nice,,,,43.7017803,7.2569569
+469796871,node,Villa Bougainville,hotel,Nice,,,,43.702756,7.2592657
+469796873,node,So'Co,hotel,Nice,,,,43.702825,7.2594021
+469796892,node,Antarès,hotel,Nice,,,,43.704943,7.2641785
+469796898,node,Maison JIN,restaurant,Nice,,,,43.7045569,7.2633064
+480687177,node,Hôtel Vendôme,hotel,Nice,"26 Rue Pastorelli, 06000, Nice",06000,,43.7010738,7.2714083
+485249894,node,Mezza Rosa,restaurant,Nice,4 Rue de Suisse,,https://mezzarosa.com/,43.7035002,7.2654888
+488577391,node,L'Ecurie,restaurant,Nice,,,,43.6976575,7.2752788
+488714990,node,Paganini,hotel,Nice,,,,43.7038908,7.2629085
+488714994,node,Hôtel du Midi,hotel,Nice,,,,43.7039269,7.2631683
+488715018,node,Voyageur Nissart,restaurant,Nice,,,http://www.voyageurnissart.com/home.php,43.7037601,7.2633233
+488715048,node,Interlaken,hotel,Nice,,,,43.7040975,7.2626169
+488715237,node,Villa Otero,hotel,Nice,58 Rue Hérold,,https://www.villa-otero.com/,43.7023982,7.2591945
+530728215,node,Lépante,hotel,Nice,,,,43.7033016,7.2707133
+530728217,node,Metà e metà,restaurant,Nice,,,https://meta-e-meta-restaurant-nice.eatbu.com/,43.7037492,7.2699507
+539387779,node,Chez Pipo,restaurant,Nice,,,https://www.chezpipo.fr/fr/,43.6999467,7.2855034
+546559154,node,Mamma Mia,restaurant,Nice,,,https://mammamia-saleya.com/,43.695588,7.2766805
+546559155,node,Acchiardo,restaurant,Nice,,,https://eater.space/restaurant-acchiardo,43.6965124,7.2771436
+557143033,node,L'Embuscade,restaurant,Nice,"6 Place du Général de Gaulle, 06450, Saint-Martin-Vésubie",06450,,44.0702669,7.2568657
+573359413,node,Royal Kebab,restaurant,Nice,,,,43.6984196,7.2780114
+615700066,node,Alcôve Hôtel,hotel,Nice,,,,43.6959016,7.2540783
+638523896,node,Campanile,hotel,Nice,,,https://www.hotel-campanile-nice.fr/,43.7020415,7.2797827
+640250651,node,La Socca d'Or,restaurant,Nice,,,,43.7005837,7.2856803
+707729988,node,Ibis Styles,hotel,Nice,06310,06310,https://www.accorhotels.com/,43.7062577,7.33105
+764646115,node,New Indien,restaurant,Nice,"9 Boulevard de la République, 06240, Beausoleil",06240,https://newindien.com/,43.7424615,7.4252547
+764646137,node,,restaurant,Nice,,,,43.7428057,7.4257596
+768193452,node,Le Biancheri,restaurant,Nice,5 Place Biancheri,,,43.93768,7.5140854
+780409815,node,Hôtel Carlton,hotel,Nice,06310,06310,,43.7044895,7.3290151
+780424352,node,Le Havre Bleu,hotel,Nice,06310,06310,,43.7055939,7.3274365
+871711962,node,Hôtel Méditerranée,hotel,Nice,,,,43.7753336,7.5010957
+930079300,node,Le Pellegrini,restaurant,Nice,,,,43.7033251,7.282243
+930414229,node,La Taverna,restaurant,Nice,,,,43.9741671,7.3125134
+932106155,node,Auberge du Bon Puits,hotel,Nice,,,,43.9423322,7.2830068
+936896594,node,Le Piccadilly,restaurant,Nice,,,,43.76066,7.482755
+936913696,node,Reine d'azur,hotel,Nice,,,,43.759052,7.482436
+936919697,node,,restaurant,Nice,,,,43.7587436,7.4822886
+936937358,node,Victoria,hotel,Nice,06190,06190,,43.7576312,7.4813786
+936940038,node,Fellini,restaurant,Nice,,,,43.7574158,7.4812734
+936955480,node,Pizza Plage,restaurant,Nice,,,,43.7577007,7.4806216
+936961365,node,Hôtel Le Grand Cap,hotel,Nice,"06190, Roquebrune-Cap-Martin",06190,,43.7582942,7.4797144
+937862323,node,Lou Casteù,restaurant,Nice,,,,43.6960422,7.279792
+940377387,node,Ibis Nice Centre Gare,hotel,Nice,,,,43.7036759,7.2606098
+943755956,node,La Bonne Auberge,hotel,Nice,,,,43.9374046,7.514498
+944381161,node,Bar des Alpins,restaurant,Nice,,,,43.9381923,7.5145488
+963302995,node,La Môme Riviera,restaurant,Nice,,,,43.7515447,7.4875182
+996912985,node,Da Andrea,restaurant,Nice,,,,43.7077135,7.2637057
+1015772245,node,Ibis Nice Aéroport,hotel,Nice,,,,43.6714179,7.2240176
+1088555711,node,Au Rendez-vous des Amis,restaurant,Nice,,,,43.7438622,7.2650643
+1130923412,node,La Merenda,restaurant,Nice,,,https://lamerenda.net/,43.6964898,7.2731012
+1134619386,node,Alfred Burger,restaurant,Nice,,,https://alfredburger.com/,43.6982559,7.2778393
+1134619732,node,Le Bar du Coin,restaurant,Nice,,,,43.6982791,7.2777497
+1134619778,node,Pamir,restaurant,Nice,,,https://delicity.com/pamir,43.6982287,7.277932
+1273809854,node,Castérino,restaurant,Nice,,,,44.0987481,7.5061479
+1313519869,node,Auberge du Moulin,restaurant,Nice,,,,44.0932178,7.0514969
+1313520016,node,Le Païsot,restaurant,Nice,,,,44.0926685,7.0504044
+1324217699,node,Chez Palmyre,restaurant,Nice,,,,43.6981201,7.277542
+1377323631,node,ProvAmi,restaurant,Nice,,,,43.7085881,7.2626058
+1394106045,node,Hôtel de Sestrières,hotel,Nice,,,,44.2842268,6.8659034
+1394106046,node,Les 3 marmottes,restaurant,Nice,,,,44.2844167,6.8666
+1395868617,node,Château Eza,hotel,Nice,,,,43.7276864,7.3609672
+1395868622,node,La Chèvre d'Or,hotel,Nice,,,,43.727424,7.3620834
+1399574908,node,,restaurant,Nice,"Tire-Boeuf, 06470",06470,,44.0663771,6.8579319
+1399603986,node,Auberge de la Roche Grande,hotel,Nice,,,,44.1878507,6.7484678
+1424362945,node,Le Magnan,restaurant,Nice,,,https://www.lemagnan-brasserie.fr/,43.6911019,7.244813
+1426365232,node,Les Jardins du Capitole,restaurant,Nice,,,https://www.lesjardinsducapitole.com/,43.6936733,7.2549218
+1445374663,node,Delhi Belhi,restaurant,Nice,,,https://delhi-belhi.com/,43.6959739,7.2758954
+1454789591,node,Trocadero,hotel,Nice,,,https://www.hoteltrocadero.net/,43.7043625,7.2639034
+1464035842,node,Le Relais du Mercantour,restaurant,Nice,,,,44.0960552,6.9865477
+1466827610,node,Le Bon coin,restaurant,Nice,,,,43.9553961,6.890992
+1472873823,node,,restaurant,Nice,,,,43.9776791,7.3911616
+1472873824,node,Le Ranch,hotel,Nice,,,,43.9777379,7.3910511
+1472998384,node,,restaurant,Nice,,,,43.9114988,7.2317392
+1486397327,node,Lou Gesu,restaurant,Nice,,,https://lou-gesu.eatbu.com,43.6968412,7.277096
+1486397336,node,Indian Lounge,restaurant,Nice,,,https://www.restaurant-indianlounge-nice.com/fr,43.6968957,7.2772261
+1490950274,node,Le Saint-Yves,hotel,Nice,,,,43.8000519,7.4618771
+1510993734,node,Claridge's,hotel,Nice,06500,06500,,43.775941,7.498173
+1511069551,node,ORLY,hotel,Nice,"06500, Menton",06500,,43.7826798,7.5118153
+1531872899,node,,restaurant,Nice,,,,-15.8307471,-47.9332097
+1536320948,node,Hôtel Cronstadt,hotel,Nice,3 Rue Cronstadt,,,43.6947325,7.2573167
+1572600443,node,Le Bataclan,hotel,Nice,06660,06660,,44.224499,6.932383
+1572617935,node,Lou Ben Manja,hotel,Nice,,,,44.254974,6.923983
+1573051131,node,Helios,restaurant,Nice,,,,43.6981309,7.2761677
+1573479274,node,Hôtel Ibis Budget Nice Palais Nikaia,hotel,Nice,"06000, Nice",06000,,43.6809105,7.1997776
+1580761621,node,Hôtel Druos,hotel,Nice,,,https://www.hoteldruos.com/,44.1832877,7.1620328
+1583877950,node,Le Relais du Sel,restaurant,Nice,,,,43.8780112,7.4510591
+1583877951,node,,restaurant,Nice,,,,43.8787074,7.4482488
+1606578014,node,Les Palmiers,restaurant,Nice,1 Avenue des Palmiers Henry Dunant,,http://www.restaurant-les-palmiers.fr/,43.7328623,7.2716745
+1608196640,node,La Baleine Joyeuse,restaurant,Nice,,,,43.6983756,7.3069184
+1633638988,node,Le Grand Chelem,restaurant,Nice,"63 Boulevard Gorbella, Nice",,https://le-grand-chelem-restaurant-nice.eatbu.com,43.7234232,7.2558629
+1642784259,node,Mister Pizza,restaurant,Nice,23 Boulevard Gorbella,,,43.7197275,7.2564533
+1659175416,node,Auberge de l'aire Saint-Michel,restaurant,Nice,2 Chemin de Chateaurenard,,,43.7436267,7.2631619
+1659213531,node,Restaurant Simon,restaurant,Nice,,,,43.7438761,7.2646293
+1660780420,node,Restaurant Chez Cotton,restaurant,Nice,,,,43.7684037,7.3999693
+1661467109,node,Le Biscarra,restaurant,Nice,18 Rue Biscarra,,,43.7026434,7.2683206
+1661467113,node,Le Cenac,restaurant,Nice,18 bis Rue Biscarra,,,43.7025558,7.268056
+1661467151,node,Vin sur Vin,restaurant,Nice,18 bis Rue Biscarra,,,43.70262,7.2682493
+1662277146,node,Chez Tanh,restaurant,Nice,,,,43.7048938,7.2693932
+1674910163,node,Le Cocodile,restaurant,Nice,,,,43.693877,7.2557502
+1675957964,node,Hôtel La Vallée Blanche,hotel,Nice,06470,06470,,44.0953676,6.9295257
+1714546663,node,L'Oursin bleu,restaurant,Nice,"11 Quai de l'Amiral Courbet, 06230, Villefranche-sur-Mer",06230,,43.703862,7.3122323
+1714546678,node,La Mère Germaine,restaurant,Nice,"7;9 Quai de l'Amiral Courbet, 06230, Villefranche-sur-Mer",06230,,43.7036914,7.3121706
+1714546721,node,espuma,restaurant,Nice,"17 Promenade des Marinières, 06230, Villefranche-sur-Mer",06230,,43.7066076,7.3136834
+1714546738,node,Lou Bantry,restaurant,Nice,"13 Quai de l'Amiral Courbet, 06230, Villefranche-sur-Mer",06230,https://restaurant-lou-bantry.fr/,43.704022,7.3123663
+1714561393,node,Le Cosmo,restaurant,Nice,11 Place Amélie-Pollonais,,,43.7031814,7.3115199
+1715875722,node,Le Trastevere,restaurant,Nice,"7 Quai de l'Amiral Courbet, 06230, Villefranche-sur-Mer",06230,,43.7035792,7.3121318
+1715875723,node,Spalato,restaurant,Nice,"5 Quai de l'Amiral Courbet, 06230, Villefranche-sur-Mer",06230,,43.7035016,7.3120916
+1715875729,node,La Pizze,restaurant,Nice,,,,43.7033561,7.3109346
+1716093372,node,Marechiaro,restaurant,Nice,,,,43.7027646,7.3112326
+1716144002,node,Le Calypso,restaurant,Nice,,,,43.7029475,7.3118284
+1716376996,node,Le Mayssa,restaurant,Nice,"Place wilson, 06230",06230,https://www.mayssabeach.fr/,43.7024273,7.3121915
+1723213265,node,La Régence,hotel,Nice,,,,43.7028171,7.308511
+1749731304,node,Mi-Am,restaurant,Nice,,,,43.7045184,7.2632049
+1751120351,node,Académie Culinaire Escom,restaurant,Nice,"32 Avenue d'Estienne d'Orves, Nice",,,43.7002203,7.2501908
+1753034675,node,Le Prieuré,hotel,Nice,,,,44.0583512,7.5867956
+1754232447,node,Le Terminus,hotel,Nice,06540,06540,,44.0059555,7.5550589
+1755364166,node,La Cabraïa,restaurant,Nice,,,,43.8776508,7.447607
+1755364226,node,Le Flavie,restaurant,Nice,,,,43.9399362,7.5160465
+1756229647,node,Righi,restaurant,Nice,,,,43.7988634,7.4631309
+1756229661,node,Beau Séjour,restaurant,Nice,,,,43.7865301,7.4437149
+1756229662,node,Bistrot de l'Orme,restaurant,Nice,,,,43.7869032,7.4436532
+1756249551,node,La Grotte,restaurant,Nice,,,http://www.restaurantlagrotte.eu/,43.7649846,7.45908
+1756249566,node,Les Deux Frères,hotel,Nice,"1 Place des Deux Frères, 06190, Roquebrune-Cap-Martin",06190,https://www.lesdeuxfreres.com/,43.7650097,7.4587763
+1758862701,node,Auberge Provençale,hotel,Nice,,,,43.7755996,7.5045243
+1758862702,node,Le Bouquet Garni,restaurant,Nice,,,,43.775336,7.5043042
+1758862704,node,L'Occitan,restaurant,Nice,,,,43.775526,7.5065808
+1758862705,node,Les Saveurs d'Éléonore,restaurant,Nice,,,,43.7755415,7.5069674
+1758862706,node,Le Vesuvio,restaurant,Nice,,,,43.775871,7.5075527
+1759785868,node,Monte Carlo Beach Hotel,hotel,Nice,,,https://www.montecarlosbm.com/en/hotel-monaco/monte-carlo-beach,43.7509573,7.4442146
+1782362044,node,L'Escalinada,restaurant,Nice,,,https://www.escalinada.fr/,43.6996311,7.2789959
+1793430602,node,Les Merisiers,restaurant,Nice,,,,43.9346046,7.3637103
+1793430647,node,La Terrasse,restaurant,Nice,,,,43.9331038,7.3619691
+1794191142,node,Le Yéti,hotel,Nice,,,,43.9893244,7.4020444
+1794216803,node,"L'authion, Chez ""Jean-Jean""",restaurant,Nice,,,,43.9875864,7.3997107
+1794275452,node,Chalet-Club L'Albaréa,hotel,Nice,,,,43.9228879,7.3600839
+1794275501,node,,restaurant,Nice,,,,43.9228338,7.3599016
+1794350313,node,,restaurant,Nice,,,,43.8836414,7.3607169
+1837011697,node,Villa Genesis,hotel,Nice,,,,43.7689665,7.4905936
+1837011698,node,Le Dauphin,hotel,Nice,,,,43.7686757,7.4913453
+1837011699,node,Pavillon Impérial,hotel,Nice,06500,06500,,43.7693908,7.4917153
+1837011700,node,Princess & Richmond,hotel,Nice,,,,43.7699671,7.493264
+1837011701,node,Riva,hotel,Nice,,,,43.7697907,7.4930124
+1837011702,node,de Londres,hotel,Nice,,,,43.7715217,7.4954637
+1867139329,node,Bozzi,restaurant,Nice,,,,43.6963806,7.2735614
+1867139343,node,Don Carlo,restaurant,Nice,,,https://le-don-carlo-nice.fr,43.7008173,7.2667931
+1867139362,node,Fleur de Jade,restaurant,Nice,,,https://fleurdejade.com,43.7027095,7.2641
+1867139371,node,La Matta,restaurant,Nice,,,,43.6959719,7.273498
+1867139372,node,Food City,restaurant,Nice,,,,43.7027069,7.2642426
+1867139406,node,Phnom Penh,restaurant,Nice,,,,43.6970199,7.2725391
+1867139425,node,Attimi,restaurant,Nice,,,https://attimi.fr,43.6966341,7.2712472
+1867521930,node,Esatitude,hotel,Nice,"3 Rue de Roquebillière, 06000, Nice",06000,,43.7151165,7.289523
+1871154941,node,Le Riz,restaurant,Nice,,,,43.709988,7.2601302
+1871154944,node,Asia House,restaurant,Nice,,,,43.7100035,7.2596314
+1871804515,node,Chez Mireille,restaurant,Nice,,,https://paella-chez-mireille-nice.eatbu.com,43.7064756,7.267129
+1888427839,node,Table Marine,restaurant,Nice,,,,43.6975859,7.2865104
+1888427841,node,La Vigna,restaurant,Nice,,,https://www.restaurant-la-vigna.com/,43.6981256,7.2866038
+1888437563,node,Yose,restaurant,Nice,,,https://www.yoserestaurant.fr/,43.7005612,7.2838616
+1893836462,node,Gîte communal de Bousieyas,hostel,Nice,,,,44.322158,6.8611149
+1901937170,node,Lou Pilha Leva,restaurant,Nice,,,,43.6981152,7.2767178
+1914012353,node,Le Gioffredo,restaurant,Nice,,,,43.6987174,7.2713164
+1920715817,node,La Caravelle,restaurant,Nice,"3 Rue de l'Église, 06230, Villefranche-sur-Mer",06230,,43.7035435,7.3117024
+1922208880,node,Le Boréal,restaurant,Nice,,,,43.7074875,7.262853
+1922208906,node,Le 5 Amour,restaurant,Nice,,,,43.707865,7.2636053
+1922256282,node,Alice and I,restaurant,Nice,,,https://aliceandi.fr/,43.707227,7.2602677
+1922275416,node,7 Villermont,restaurant,Nice,,,https://le-7-villermont-restaurant-nice.eatbu.com,43.7091017,7.2645472
+1922275421,node,La table de Mamane,restaurant,Nice,,,https://www.latabledemamane.fr/,43.7090128,7.2642921
+1941671036,node,Le Bistrot des Docks,restaurant,Nice,,,,43.7102806,7.2624642
+1941671045,node,Asia Libération,restaurant,Nice,,,,43.7103122,7.2625857
+1950490039,node,La Route du Miam,restaurant,Nice,"1 Rue Molière, 06100, Nice",06100,,43.7129847,7.2614073
+1950618077,node,Crêperie Niçoise,restaurant,Nice,,,https://www.la-creperie-nicoise-restaurant-nice.fr/,43.7002256,7.2645449
+1973773928,node,,restaurant,Nice,,,,43.9273143,7.1308431
+2000541979,node,Côté Sud,restaurant,Nice,"2 Rue du Professeur Maurice Sureau, 06000",06000,,43.7156513,7.2717644
+2000541985,node,La gaîté nallino,restaurant,Nice,72 Avenue Cap de Croix,,http://lagaitenallino.fr/,43.7327655,7.2763094
+2016702985,node,Riviera Collection,hotel,Nice,,,https://www.hotelrivieracollection.com/,43.7007357,7.2593018
+2018625017,node,L'Auberge de La Penne,restaurant,Nice,"Rue du Pontis, 06260, La Penne",06260,,43.9279394,6.9478446
+2031585904,node,Chez Green Turtle,restaurant,Nice,"30 Boulevard Jean-Baptiste Vérany, 06300, Nice",06300,,43.7132112,7.2840528
+2031598989,node,Da Lina,restaurant,Nice,"1 Rue Maréchal Vauban, Nice",,,43.7121984,7.2850465
+2031997078,node,La Rosticceria,restaurant,Nice,,,,43.7004585,7.2852507
+2057420420,node,Lou Pantaïl,restaurant,Nice,,,https://www.loupantail.com/,43.7141228,7.2624237
+2066937735,node,Chez Marie-Ange,restaurant,Nice,,,,43.7020185,7.2599372
+2066937736,node,Le Tchitchou,restaurant,Nice,,,,43.7015659,7.2629134
+2066937742,node,La Langouste,restaurant,Nice,,,https://lalangouste.fr,43.7020124,7.2655251
+2066937743,node,Le Tono,restaurant,Nice,,,https://www.letono.fr/,43.7017506,7.2640373
+2073399830,node,Eelam,restaurant,Nice,,,,43.7064124,7.288816
+2088357236,node,Bar Tabac des Alpes,restaurant,Nice,,,,44.0894381,6.853298
+2104717477,node,Le Socle,restaurant,Nice,,,https://lesocle.eatbu.com,43.7019254,7.2830173
+2139416984,node,Chez Emy-Ly,restaurant,Nice,,,,43.678808,7.2278675
+2142854307,node,Hôtel Villa Victorine,hotel,Nice,,,https://hotel-villa-victorine.com/,43.6758726,7.2254943
+2142856699,node,Pizza Fiorentina,restaurant,Nice,"29 Avenue Sainte-Marguerite, Nice",,,43.6774187,7.2225009
+2144379514,node,Les Amoureux,restaurant,Nice,,,,43.7008256,7.2856503
+2147839885,node,Hôtel Azur,hotel,Nice,,,,43.6795253,7.230144
+2157576481,node,Lib,restaurant,Nice,,,,43.6802994,7.2306419
+2169413507,node,Hermitage Du Col D'Eze,restaurant,Nice,"1951 Avenue des Diables Bleus, 06360",06360,https://restaurant-le-v.com/,43.7314276,7.3415312
+2169413508,node,,hotel,Nice,,,,43.7315129,7.3416796
+2191417713,node,Bay Baie,restaurant,Nice,,,,43.6795156,7.2299775
+2191422039,node,Fuzion,restaurant,Nice,,,,43.6795024,7.2288321
+2194222406,node,Le Golfe Bleu (apparthotel),hotel,Nice,,,,43.7611128,7.4547007
+2195368716,node,Pourquoi Pas,restaurant,Nice,,,,43.7106392,7.33582
+2199974319,node,Le Potiron Gourmet,restaurant,Nice,,,https://www.lepotirongourmet.com/,43.6804714,7.2298376
+2206369001,node,Le Mesclun,restaurant,Nice,,,https://www.le-mesclun-nice.com/,43.6805299,7.2306966
+2206370195,node,La Socca,restaurant,Nice,,,,43.6805725,7.2307529
+2206385969,node,Cuisine des Iles,restaurant,Nice,,,,43.6780507,7.2266243
+2214889319,node,May Ly,restaurant,Nice,,,https://www.mayly.fr/,43.6808962,7.230454
+2249045268,node,Le Kiff,restaurant,Nice,,,,43.7065435,7.2874622
+2262896672,node,Le Carras,restaurant,Nice,,,,43.6810615,7.2306223
+2268020924,node,La Fiancée du Pirate,hotel,Nice,,,,43.7067753,7.3021397
+2268031792,node,Saint-Michel,hotel,Nice,,,,43.7154497,7.3262802
+2268053619,node,Domaine du Mont Leuze,hotel,Nice,,,,43.7210546,7.3177543
+2268054128,node,Maeva Palais de la Marine,hotel,Nice,,,,43.7050465,7.3127493
+2278551895,node,Saveur d'Azur,restaurant,Nice,,,,43.7055286,7.2868883
+2287697676,node,Chez Yanny,restaurant,Nice,,,,43.6757379,7.2242674
+2295788661,node,Les Arcades,restaurant,Nice,,,https://pizzeria-les-arcades.eatbu.com,43.6988873,7.2841113
+2295791468,node,Fjord,restaurant,Nice,,,https://www.fjord.fr/,43.6990744,7.2841179
+2304269025,node,Le galet,restaurant,Nice,"3 Promenade des Anglais, 06000, Nice",06000,https://www.galet-plage.com,43.6946388,7.2660282
+2307709056,node,Café de Turin,restaurant,Nice,,,https://www.cafedeturin.fr/,43.7005778,7.2795676
+2307709058,node,Senso,restaurant,Nice,,,,43.6975703,7.274706
+2307709059,node,eat SUSHI,restaurant,Nice,,,,43.6977423,7.2750628
+2308178847,node,La Barque Bleue,restaurant,Nice,,,https://restaurant-la-barque-bleue.fr/,43.6974706,7.2864854
+2308187790,node,Pizza du Mont Boron,restaurant,Nice,"4 Boulevard Maurice Maeterlinck, 06300, Nice",06300,,43.6879204,7.2961579
+2315345296,node,Le Gelas,hotel,Nice,,,,44.0679987,7.2556032
+2315708002,node,Ostan Hôtel Boutique,hotel,Nice,"Place du Général Corniglion Molinier, 06450, Roquebillière",06450,,44.0123263,7.3080442
+2324226130,node,Nuvoletta,restaurant,Nice,,,https://nuvoletta.fr/,43.7010114,7.2760162
+2346762103,node,Les Deux Chefs,restaurant,Nice,,,,43.7093336,7.2571298
+2376995808,node,Nice Pam Hôtel,hotel,Nice,,,https://www.nice-pam-hotel.com/,43.7031813,7.2851242
+2376996487,node,Brasserie Gal,restaurant,Nice,,,,43.7033487,7.285316
+2377005541,node,L'Uzine,restaurant,Nice,,,https://www.luzine-restaurant.com/,43.6994799,7.2839247
+2377360691,node,Le Stéphanois,hotel,Nice,,,,44.256227,6.9248199
+2377360694,node,La Potinerie,restaurant,Nice,,,,44.255258,6.9253572
+2377360695,node,Bar Restaurant de la Poste,restaurant,Nice,,,,44.2553758,6.9255133
+2379426861,node,Le Québec,restaurant,Nice,,,https://www.brasserie-quebec-nice.com/,43.6968064,7.2653958
+2379428518,node,La Trattoria,restaurant,Nice,37 Rue de France,,https://latrattoria-nice.fr/fr,43.6958736,7.2617319
+2385493159,node,Le San Juan,restaurant,Nice,"7 Boulevard Franck Pilatte, Nice",,http://www.lesanjuan.com/,43.694328,7.287683
+2386309639,node,La Claire Fontaine,restaurant,Nice,,,,43.6971762,7.2765397
+2389181396,node,Epiro,restaurant,Nice,,,,43.6948192,7.2866931
+2389396684,node,,restaurant,Nice,,,,43.6935054,7.3255211
+2390691619,node,Saint Georges,restaurant,Nice,,,https://bistrotsaintgeorges.fr,43.695318,7.2864813
+2392131801,node,Les Pêcheurs,restaurant,Nice,,,https://lespecheurs.com/,43.6964898,7.2861772
+2402327616,node,Le Buffet de la Gare,restaurant,Nice,,,http://www.le-buffet-de-la-gare.com/,43.760563,7.2027353
+2423461508,node,Le Chamois d'Or,restaurant,Nice,"4 Aveue du Général de Gaulle, 06660, Saint-Étienne-de-Tinée",06660,,44.2552686,6.9258366
+2423461509,node,Lou Ben Manja,restaurant,Nice,"Place San Menth, 06660, Saint-Étienne-de-Tinée",06660,https://www.loubenmanja.com/restaurant.php,44.2575311,6.9247285
+2450694261,node,Roq'N'Bar,restaurant,Nice,"3 Avenue Philippe Corniglion Molinier, 06450, Roquebillière",06450,,44.0114754,7.3071407
+2451288612,node,Le RDV Vésubien,restaurant,Nice,"Place du Général Corniglion Molinier, 06450, Roquebillière",06450,,44.0127499,7.3081549
+2461805988,node,Chez Michel,restaurant,Nice,,,https://www.chezmichel.fr,43.7905616,7.2310503
+2461822378,node,Amoretti,restaurant,Nice,,,https://www.restaurant-amoretti.com/,43.7893767,7.2154553
+2461822383,node,Servella,restaurant,Nice,,,https://www.servella.fr/,43.7899285,7.216228
+2504772190,node,Hostellerie Jérôme,hotel,Nice,"20 Rue du Comté de Cessole, 06320, La Turbie",06320,,43.7449565,7.4004061
+2512898291,node,La Villa d'Este,restaurant,Nice,,,https://www.villadeste-nice.com,43.697796,7.2679444
+2530933301,node,Pub/Restaurant/Hôtel,hotel,Nice,,,,43.9104132,6.9792684
+2561894919,node,Le Léopard,restaurant,Nice,,,https://restoleopard.fr,43.7048021,7.2638579
+2638566244,node,Thai Fine,restaurant,Nice,,,https://thaifine-streetfood.com/,43.705763,7.2823685
+2671854127,node,Marriott Hotel Riviera Monaco,hotel,Nice,Port de Cap d'Ail,,https://www.marriott.com/hotels/travel/mcmcd-riviera-marriott-hotel-la-porte-de-monaco,43.7264602,7.4148524
+2686110742,node,Onakaya,restaurant,Nice,,,https://onaka-group.com/onakaya/,43.6980012,7.2675345
+2686110745,node,Renée,restaurant,Nice,,,https://renee-nice.com/,43.6949489,7.2624099
+2779377537,node,Iberica,restaurant,Nice,,,,43.7020668,7.2770552
+2779377566,node,Garden,restaurant,Nice,"17 Rue Gioffredo, Nice",,,43.701661,7.2763226
+2779377570,node,L'Atelier,restaurant,Nice,,,https://www.l-atelier-restaurant-nice.com/,43.7016199,7.2762919
+2781033938,node,La Gauloise,restaurant,Nice,,,https://www.restaurant-lagauloise.fr,43.7089625,7.2629136
+2783277613,node,Les Epicuriens,restaurant,Nice,,,https://www.les-epicuriens-restaurant-nice.com/,43.7006079,7.2729034
+2783300038,node,Bistrot de l'Opéra,restaurant,Nice,,,https://bistrotdelopera.fr/,43.695865,7.2729532
+2783300045,node,Bocca Nissa,restaurant,Nice,,,https://www.boccanissa.com,43.695841,7.2731754
+2783300054,node,CaSa Leya,restaurant,Nice,,,https://www.casaleya.com/,43.6955801,7.2737565
+2783304560,node,La Lupita,restaurant,Nice,,,,43.6968394,7.2744312
+2837453478,node,Les pins d'Alep,restaurant,Nice,,,https://lespinsdalep.fr,43.6965515,7.2867357
+2866432389,node,H33 Hôtel,hotel,Nice,,,,43.7004353,7.2706956
+2867269950,node,Le Barbecue,restaurant,Nice,,,,43.6988396,7.2786543
+2910572883,node,The Jay,hotel,Nice,,,,43.6968987,7.2603456
+2942100301,node,La Taverne des Pirates,restaurant,Nice,"1 Avenue Kellermann, 06450, Saint-Martin-Vésubie",06450,,44.0697485,7.2563664
+2943187901,node,Ibis Budget Nice Californie Lenval,hotel,Nice,"58-60 Avenue de la Californie, 06000, Nice",06000,https://all.accor.com/hotel/2075/index.fr.shtml,43.6892582,7.2403791
+2970886580,node,Cassini,restaurant,Nice,,,,43.8578354,7.1969802
+2970886583,node,Des 2 Vallées,restaurant,Nice,,,,43.8604439,7.1986214
+2970886584,node,Des 2 Vallées,hotel,Nice,,,,43.8604834,7.1986017
+3039344236,node,Castel,restaurant,Nice,"8 Quai des États-Unis, Nice",,https://www.castelplage.com,43.6944015,7.2783606
+3039344237,node,Chez Juliette,restaurant,Nice,,,,43.6971617,7.2767556
+3039344238,node,China Park,restaurant,Nice,,,,43.6959826,7.2612495
+3039344248,node,Splash,restaurant,Nice,,,,43.6973034,7.2768217
+3039344249,node,Etna Rosso,restaurant,Nice,,,,43.6974304,7.2768458
+3039344566,node,Ruhl Plage,restaurant,Nice,"1 Promenade des Anglais, Nice",,https://ruhlplage.com/,43.6946032,7.2648694
+3040165092,node,La Perouse,hotel,Nice,,,https://www.hotel-la-perouse.com/en/,43.6938855,7.2792993
+3050886637,node,La plage,restaurant,Nice,,,,43.6650495,7.2131096
+3051015150,node,Carne e Verdura,restaurant,Nice,"62 Rue Arson, 06300",06300,,43.7046185,7.2891692
+3058212779,node,Grimaldi,hotel,Nice,,,https://www.le-grimaldi.com/en/,43.6992512,7.2646925
+3065954279,node,La Vallière,hotel,Nice,,,http://www.hotel-lavalliere.com/,44.1422682,6.7602582
+3085402572,node,Le Lunel,restaurant,Nice,,,,43.6958983,7.2832603
+3086428365,node,Aubergerie del Campo,restaurant,Nice,,,http://www.aubergerie.fr,43.9154883,7.2589015
+3086812834,node,L'hôtellerie de la Madone,hotel,Nice,,,http://www.madonedutelle.com,43.9115245,7.2317192
+3086851031,node,Auberge Utelloise,restaurant,Nice,,,,43.9169639,7.2477958
+3086858579,node,Martinon,restaurant,Nice,,,,43.9186573,7.2450063
+3101122826,node,La Bergerie,restaurant,Nice,,,,44.0127844,7.3072555
+3118272204,node,Cave Washington,restaurant,Nice,,,,43.6955557,7.2542075
+3118274975,node,Yass Restaurant,restaurant,Nice,,,,43.6951305,7.2553579
+3127810562,node,Le Trimaran,restaurant,Nice,,,https://creperieletrimarannice.eatbu.com/,43.6986764,7.278323
+3128451853,node,Hôtel L'Oasis,hotel,Nice,,,https://www.hotelniceoasis.com,43.7010772,7.2599563
+3143987802,node,Table d'hôtes du Rousset,restaurant,Nice,"163 Route de la Combe, 06260, Ascros",06260,,43.9215118,7.0125572
+3239708938,node,Restaurant Le Village,restaurant,Nice,"Place de l'Église, 06910",06910,,43.8716951,6.9643528
+3246911017,node,Socca chez René,restaurant,Nice,,,,43.7000159,7.2789193
+3253327422,node,Les 3 saveurs,restaurant,Nice,"23 Boulevard Gorbella, Nice",,,43.719635,7.256516
+3290657731,node,Aparthotel Adagio,hotel,Nice,,,,43.6878483,7.2392171
+3333916614,node,Le Chantecler,restaurant,Nice,,,https://www.hotel-negresco-nice.com/les-restaurants/le-chantecler/,43.6944586,7.2580822
+3338961193,node,L'Antre Potes,restaurant,Nice,,,,43.7292974,7.3617797
+3338963133,node,Piccola Italia,restaurant,Nice,,,https://restaurantpiccolaitalia.com,43.6978983,7.2765005
+3372827671,node,De Suède,hotel,Nice,,,,43.6966657,7.2654936
+3372830235,node,La Rossettisserie,restaurant,Nice,,,https://www.larossettisserie.com/,43.6975249,7.2764159
+3414025695,node,Pizza l'Authentique,restaurant,Nice,"18 Rue de Prato, 06500, Menton",06500,,43.7747544,7.4985964
+3430015560,node,Hôtel Campanile Nice Aéroport,hotel,Nice,459-461 Promenade des Anglais,,https://nice-aeroport.campanile.com,43.6670993,7.2149138
+3448053429,node,Epicerie La Maritza,restaurant,Nice,"Place du Village, 06260, Ascros",06260,https://ascros.blogspot.com/,43.9208327,7.0141697
+3478560470,node,Nice Excelsior,hotel,Nice,,,https://www.excelsiornice.com/,43.7033314,7.2622905
+3478560473,node,Belle Meunière,hotel,Nice,,,https://www.bellemeuniere.com/,43.7035734,7.2621625
+3479297745,node,La Régence,restaurant,Nice,2 Avenue Prince Albert Ier de Monaco,,,43.7461708,7.4009174
+3479297752,node,La Cave Turbiasque,restaurant,Nice,3 Place Théodore de Banville,,,43.7455057,7.4006257
+3511223721,node,Restaurant Dante,restaurant,Nice,,,https://restaurantdante.fr/,43.6957445,7.2551552
+3545215290,node,La Terrasse,restaurant,Nice,,,http://www.restaurant-la-terrasse-laturbie.fr/,43.744657,7.3998419
+3545240802,node,Aux Amis d'Auguste,restaurant,Nice,"9 Route de Menton, 06320, La Turbie",06320,https://auxamisdauguste.eatbu.com/?lang=en,43.7469446,7.4015494
+3559664494,node,Edmond's Hôtel,hotel,Nice,87 Avenue du 3 Septembre,,http://www.hotel-edmonds.com/,43.7232149,7.3964691
+3559664495,node,Edmond's,restaurant,Nice,87 Avenue du 3 Septembre,,https://www.capresort.com/reservation-brasserie-edmonds/,43.7232135,7.3964161
+3559664499,node,Hôtel de Monaco,hotel,Nice,"1 Avenue Pierre Weck, 06320, Cap-d'Ail",06320,https://hoteldemonaco.com/,43.7220492,7.3960809
+3559664500,node,Aux Délices,restaurant,Nice,,,,43.7232222,7.3967453
+3559713712,node,Miramar,hotel,Nice,"126 Avenue du 3 Septembre, 06320, Cap-d'Ail",06320,https://miramarhotel.fr/,43.7228964,7.3956421
+3559713723,node,Normandy,hotel,Nice,6 Allée des Orangers,,https://hotelnormandy.no/,43.7225576,7.3955523
+3566457845,node,Auberge Lo Robur,restaurant,Nice,"38 Rue Centrale, 06420, Roure",06420,,44.0886508,7.0859197
+3609765342,node,Le Saint-Jean,restaurant,Nice,,,,43.6890962,7.3337411
+3613536311,node,Uvita,restaurant,Nice,,,https://www.uvita-plage.com/,43.7245009,7.4110388
+3635754892,node,Aparthotel Adagio Access Nice Magnan,hotel,Nice,,,https://www.adagio-city.com/fr/hotel-8383-aparthotel-adagio-access-nice-magnan/index.shtml,43.6911136,7.2438143
+3667697906,node,Asia Food,restaurant,Nice,,,https://www.asiafood79.com/,43.7001761,7.287358
+3667750841,node,Brasserie du Col,restaurant,Nice,90 Corniche André de Joly,,,43.7057342,7.3009651
+3679141193,node,La Pizza Cresci,restaurant,Nice,,,https://www.pizza-cresci-nice.com,43.6969703,7.2652916
+3696363325,node,Brasserie du Port,restaurant,Nice,,,,43.6988538,7.2844931
+3719966518,node,Le Regain,restaurant,Nice,"20 Place Saint-Laurent, 06830, Revest-les-Roches",06830,,43.8813392,7.1562275
+3725163498,node,,restaurant,Nice,,,,44.1174619,6.9072631
+3725163502,node,Hôtel du Col de Crous,hotel,Nice,,,,44.1174966,6.9073228
+3725268697,node,,restaurant,Nice,,,,44.0903624,6.9694162
+3725309032,node,,hotel,Nice,,,,44.0819686,7.1066862
+3725339589,node,Le Pous Café,restaurant,Nice,"4 Place du Champas, 06420",06420,,44.064103,7.131239
+3732100652,node,La Capeline,restaurant,Nice,,,,43.8650447,7.1053741
+3742288525,node,Le Gaglio,restaurant,Nice,,,https://www.legaglio.com,43.6991875,7.2778287
+3748231694,node,La Frégate,hotel,Nice,,,,43.6903569,7.3330244
+3748231697,node,Passable,restaurant,Nice,,,,43.6933888,7.3253831
+3782252257,node,Green Ecolodge,hotel,Nice,,,,44.0655657,7.2266019
+3784851054,node,Au petit libanais,restaurant,Nice,,,,43.7074666,7.262717
+3798363062,node,Sa Sa No,restaurant,Nice,,,,43.7699969,7.4934396
+3830788870,node,NAP,hotel,Nice,,,https://www.hotel-nap.com,43.7000846,7.2688625
+3830946413,node,Di Piu,restaurant,Nice,,,https://dipiu.fr/,43.6953993,7.2733207
+3830977309,node,Taverne Masséna,restaurant,Nice,,,https://www.taverne-massena-nice.com/,43.6972416,7.2662741
+3830986957,node,The Taste,restaurant,Nice,,,,43.6975396,7.2756248
+3851556787,node,Le Garibeuil,restaurant,Nice,,,,44.0922883,6.9300282
+3876751102,node,El Almacen,restaurant,Nice,,,,43.7090472,7.2628496
+3878587731,node,Doma,restaurant,Nice,,,,43.7060833,7.2686361
+3886080862,node,Les Sens,restaurant,Nice,,,https://www.les-sens-nice.fr/,43.7002905,7.2701743
+3889061999,node,La Tartane,restaurant,Nice,,,https://latartane.eatbu.com,43.6963516,7.2867029
+3898673351,node,Les Copains,restaurant,Nice,,,,43.699783,7.2852172
+3898673353,node,Le Borghese,restaurant,Nice,,,,43.6993111,7.2851297
+3932768989,node,Tradiswiss,restaurant,Nice,,,https://www.tradiswiss.ch/nice/,43.6961295,7.2640622
+3932889264,node,La Vague,restaurant,Nice,,,https://lavaguenice.fr,43.6967078,7.2618255
+3932889266,node,Le Séjour Café,restaurant,Nice,,,https://www.sejourcafe.com/,43.6989337,7.2649109
+3932889268,node,JAN,restaurant,Nice,,,https://janonline.com/restaurantjan/,43.6998235,7.2848055
+3943060842,node,L'Oliveto,restaurant,Nice,Boulevard du Maréchal Leclerc,,,43.7300036,7.3616692
+3943148925,node,La Villa d'Èze,restaurant,Nice,,,,43.7299474,7.3619883
+3943148926,node,Hôtel du Golfe,hotel,Nice,,,,43.7299905,7.3620604
+3943282206,node,Chez Hehe,restaurant,Nice,,,,43.7301183,7.3622957
+3943290758,node,Arc En Ciel,hotel,Nice,06360,06360,,43.7294412,7.3615534
+3943644377,node,Vieux Port Nice,hotel,Nice,,,,43.7003551,7.2830971
+3943758467,node,La Troubadour,restaurant,Nice,,,,43.7280505,7.3620474
+3943964094,node,Château Eza Restaurant,restaurant,Nice,,,,43.7277152,7.3610456
+3944026912,node,La Taverne,restaurant,Nice,6 Carriera Plana,,https://www.lataverne-eze.fr/,43.7278074,7.3616933
+3944049624,node,,restaurant,Nice,,,,43.7278438,7.361627
+3944158197,node,Le Nid d'Aigle,restaurant,Nice,"1 Rue du Château, 06360",06360,https://www.leniddaigle-eze.com/,43.7279385,7.3615652
+3944245572,node,Le Mas Provencal,restaurant,Nice,,,,43.7305152,7.3627056
+3978381580,node,La terrasse de Cimiez,restaurant,Nice,1 Avenue Ratti,,,43.7104079,7.2763766
+3995551626,node,Les Alizés,hotel,Nice,"11 Rue Alexandre Barety, 06260, Puget-Theniers",06260,alize-hotel.fr,43.95504,6.8907944
+4022091802,node,Le P'tit Flocon,restaurant,Nice,"56 Avenue de Malhira, 06660, Auron",06660,,44.2252419,6.931113
+4022091803,node,Le White,restaurant,Nice,"19 Place Centrale, 06660, Auron",06660,,44.2247499,6.9314808
+4030235050,node,Nice Etoile,hotel,Nice,,,,43.7029424,7.269178
+4030235052,node,Kumano,restaurant,Nice,,,https://restaurant-kumano.fr/,43.7027402,7.2690366
+4031025192,node,La Meranda,restaurant,Nice,,,,44.0961126,6.9302291
+4031025194,node,L'Etable,restaurant,Nice,,,,44.0952524,6.9316324
+4037285174,node,Eataly Budget,restaurant,Nice,8 Avenue Pierre Isnard,,https://www.eatalybudget.fr/,43.6808191,7.1996991
+4038452384,node,Auberge Saint Martin,restaurant,Nice,,,,44.0631851,7.6140405
+4038452385,node,Fleur des Alpes,restaurant,Nice,,,,44.0633267,7.6139619
+4041721019,node,La guérite,restaurant,Nice,,,,44.1845408,7.1595301
+4041721020,node,La marmotte,restaurant,Nice,,,,44.1849012,7.1594366
+4041721021,node,Le Yéti,restaurant,Nice,,,,44.1845853,7.159503
+4065627084,node,Le Cabanon,restaurant,Nice,,,https://www.capresort.com/le-cabanon/,43.7195146,7.4052531
+4093312039,node,Meublé Alp'Azur,hotel,Nice,,,,43.7123154,7.2625396
+4151986768,node,Khla,hotel,Nice,31 Rue Paganini,,https://www.hotelkhla.com,43.7043469,7.2636937
+4163766889,node,Chez Tonton David,restaurant,Nice,,,https://www.chez-tonton-david-restaurant-nice.com/,43.7000532,7.2842801
+4163766895,node,Le Bistrot de Jan,restaurant,Nice,,,https://janonline.com/le-bistrot-de-jan/,43.6998169,7.2848909
+4163766896,node,La Fromagerie,restaurant,Nice,,,,43.6997962,7.285076
+4195863391,node,Hostel Baccarat,hotel,Nice,,,,43.7048309,7.2645616
+4200656353,node,La Roquebrunoise,restaurant,Nice,,,,43.7658378,7.4582379
+4208919983,node,Le Bouchon,restaurant,Nice,"34 Rue Monseigneur Alfred Daumas, 06300, Nice",06300,https://www.lebouchonnice.fr,43.711694,7.2909991
+4225736803,node,Riviera,hotel,Nice,,,http://www.hotel-riviera.fr/,43.7059794,7.3337884
+4225736807,node,La Table de la Réserve,restaurant,Nice,,,https://www.reservebeaulieu.com/luxury-hotel/french-gastronomic-restaurant/la-table-de-la-reserve/,43.7058087,7.3348111
+4225736808,node,La Réserve de Beaulieu & Spa,hotel,Nice,,,https://www.reservebeaulieu.com/,43.7057299,7.3353227
+4226599976,node,Elsa,restaurant,Nice,,,https://www.montecarlosbm.com/en/restaurant-monaco/elsa,43.7508359,7.4442197
+4226615443,node,Jondal à La Vigie,restaurant,Nice,,,https://www.montecarlosbm.com/fr/restaurant-monaco/jondal-a-la-vigie,43.7499511,7.4448463
+4248807978,node,La Trinquette,restaurant,Nice,"30 Avenue du Général de Gaulle, 06230, Villefranche-sur-Mer",06230,https://www.restaurant-trinquette-villefranche.com/,43.699802,7.3087182
+4263296693,node,Restaurant chez math,restaurant,Nice,"1 Place Adolphe Conil, 06260, Puget-Théniers",06260,,43.9555471,6.8937003
+4277224790,node,Anjuna Beach Resort,restaurant,Nice,"1 Avenue de la Liberté, 06360 Èze, Франция",,,43.7190601,7.3524336
+4278141288,node,Le Meurice,hotel,Nice,,,,43.6965944,7.2657327
+4279092294,node,La Belle Vue,hotel,Nice,"45-47 Avenue Gabriel Hanotaux, 06190, Roquebrune-Cap-Martin",06190,http://www.labellevuercm.com/,43.7636682,7.4605273
+4301698789,node,Blue Beach,restaurant,Nice,"31 Promenade des Anglais, 06000, Nice",06000,https://www.bluebeach.fr/,43.6941927,7.2597603
+4315668206,node,La Margueria,restaurant,Nice,"19 Avenue du 16 Septembre 1947, 06430",06430,,44.0882738,7.5933554
+4316697595,node,Le P'tit Chez Soi,restaurant,Nice,"29 Avenue du 16 Septembre 1947, 06430",06430,,44.0887439,7.5929523
+4316767527,node,Charme Regency,hotel,Nice,,,https://www.hotelregencymonaco.com/,43.7596323,7.4518752
+4316767528,node,La Réserve de la Mala,restaurant,Nice,,,https://www.capresort.com/la-reserve-de-la-mala/la-reserve-de-la-mala-restaurant/,43.7222722,7.3906813
+4316767605,node,Le Roquebrune,hotel,Nice,,,http://www.leroquebrune.com/,43.7597611,7.4520286
+4316767606,node,Eden plage Mala,restaurant,Nice,,,http://www.edenplagelamala.com/,43.7225717,7.3904188
+4324871710,node,L'Altra Casa,restaurant,Nice,,,,43.7098687,7.2615231
+4330022383,node,Europizza 2000,restaurant,Nice,"193 Avenue Aristide Briand, 06190, Roquebrune-Cap-Martin",06190,,43.76505,7.4831074
+4350890138,node,Paneolio,restaurant,Nice,,,,43.6995666,7.2781465
+4350890139,node,Cave de la Tour,restaurant,Nice,,,https://cavedelatour.com,43.6996643,7.2784167
+4350890141,node,Le VLT,restaurant,Nice,,,https://restaurant-le-vlt-nice.fr,43.6995388,7.2783762
+4350890142,node,Villa La Tour,hotel,Nice,,,,43.699529,7.2784487
+4364429390,node,Chez Georges,restaurant,Nice,,,,43.9465049,7.1842049
+4364517280,node,La Brasserie,restaurant,Nice,,,,44.2250739,6.931153
+4364517281,node,La Galléon,restaurant,Nice,,,,44.2255963,6.9304259
+4364517694,node,La Bergerie,restaurant,Nice,,,,44.2191865,6.9256869
+4410656363,node,,restaurant,Nice,"16 Rue de May, 06230, Villefranche-sur-Mer",06230,,43.7040901,7.3113654
+4415622513,node,La Pinède,restaurant,Nice,"10 Avenue Raymond Gramaglia, 06320, Cap-d'Ail",06320,https://www.lapinederestaurant.com,43.7202175,7.3942409
+4423573862,node,Le Duc,restaurant,Nice,,,https://westminster-nice.com/fr/page/restaurant-le-duc-hotel-restaurant-nice.21432.html,43.6947997,7.2606522
+4434954594,node,,hotel,Nice,,,,44.1860953,7.0528115
+4437160601,node,Brasserie Le Majestic,restaurant,Nice,,,,43.7743033,7.4961765
+4437160605,node,Brasserie Theirs,restaurant,Nice,,,,43.7738337,7.4953986
+4437187295,node,L'adresse,restaurant,Nice,,,,43.7633196,7.4854729
+4462810591,node,Adagio Aparthotel,hotel,Nice,,,,43.7426904,7.4256354
+4497134305,node,Le 36 Bonap,restaurant,Nice,,,,43.7004706,7.2850921
+4497134330,node,Influence,restaurant,Nice,,,,43.7007053,7.2839994
+4498308556,node,Kalos,restaurant,Nice,,,https://kalosnice.com/order,43.7008146,7.2824646
+4498785612,node,Posto 17,restaurant,Nice,,,https://posto-17-nice.fr,43.7008689,7.2827975
+4498785617,node,Peixes,restaurant,Nice,,,https://www.peixes.fr/,43.7007353,7.2818093
+4498785619,node,Alhambar,restaurant,Nice,,,,43.7007235,7.2816243
+4514089490,node,Le Maquis,restaurant,Nice,,,https://www.lemaquisnice.fr/,43.6967062,7.2755302
+4550918558,node,La Cave Nature,restaurant,Nice,17 Rue du Poilu,,,43.7038942,7.3116562
+4570685875,node,La Dolce Vita,restaurant,Nice,,,,43.7816616,7.5110766
+4570685876,node,Le Panama Plage,restaurant,Nice,,,,43.7814533,7.5106566
+4586072689,node,O Corcovado,restaurant,Nice,,,,43.6960514,7.260883
+4588746090,node,Z,restaurant,Nice,,,https://www.zrestauranttapas.com/,43.6952362,7.2611332
+4681296096,node,Les Marmottes,restaurant,Nice,,,,44.0960053,6.9303874
+4681296110,node,Le Tremplin,restaurant,Nice,,,,44.0952682,6.9315357
+4688949144,node,Blast,restaurant,Nice,,,http://www.blast-nice.com,43.6953037,7.2765865
+4690881990,node,La Vallée Blanche,hotel,Nice,,,,44.0879892,6.9398692
+4692100381,node,restaurent du Sapet,restaurant,Nice,,,,44.0952717,6.9307771
+4692100387,node,L'Italiano,restaurant,Nice,,,,44.0943238,6.9327458
+4692100388,node,Le Refuge,restaurant,Nice,,,,44.0942906,6.9328204
+4692100862,node,Terrasses du soleil,restaurant,Nice,,,,44.0953112,6.9312872
+4717138328,node,Amore,restaurant,Nice,,,https://bistrot-de-la-mairie.eatbu.com,43.6958662,7.2718071
+4717139157,node,Fine Geule,restaurant,Nice,,,https://finegueule.fr/,43.696034,7.2718379
+4717150194,node,La Cantine de Jo,restaurant,Nice,,,https://www.cantinedejo.com/,43.6963627,7.2721598
+4717255857,node,Le Frog,restaurant,Nice,,,https://www.le-frog-restaurant-nice.com/,43.6955026,7.2721772
+4717261057,node,Le Grand Balcon,restaurant,Nice,,,https://www.le-grand-balcon-restaurant-nice.com/,43.6956566,7.2719784
+4717589053,node,Bistrot Jennifer,restaurant,Nice,,,https://www.bistrotdejennifer.com/,43.6955921,7.2736196
+4718731782,node,La Storia,restaurant,Nice,,,https://www.lastorianice.com/,43.6956816,7.2760566
+4718731787,node,La Cambuse,restaurant,Nice,,,https://www.lacambuse.com/,43.6957229,7.2755514
+4762824158,node,La Fleur de Thym,restaurant,Nice,"3 Rue Charles Alunni, 06390",06390,http://www.fleurdethymcontes.fr,43.8084704,7.3158476
+4762891090,node,Le Lodge,restaurant,Nice,,,https://www.lelodgenice.fr,43.6963502,7.2652521
+4762891091,node,Chez Ritho,restaurant,Nice,,,https://ritho.fr/,43.6961809,7.2652805
+4762891092,node,Annette,restaurant,Nice,,,,43.6960993,7.2652942
+4762891096,node,Soho,restaurant,Nice,,,https://soho-nice.fr/,43.6965407,7.2652372
+4763851339,node,Boccaccio,restaurant,Nice,,,https://www.boccaccio-nice.com/,43.6976786,7.2684824
+4764936014,node,Hôtel Felix,hotel,Nice,,,http://hotel-felix.nicehotelnice.com/fr/,43.6968593,7.2655096
+4764950422,node,Le Petit Café de France,restaurant,Nice,,,,43.69641,7.2639655
+4767119356,node,La Rotonde,restaurant,Nice,,,https://www.hotel-negresco-nice.com/en/restaurants/rotonde-brasserie,43.6943991,7.2577595
+4768361532,node,O'Palermo,restaurant,Nice,,,,43.6971371,7.2660752
+4768361540,node,Le petit Trianon,hotel,Nice,11 Rue Paradis,,https://www.lepetittrianon.fr/,43.6973591,7.2671607
+4768361544,node,1847,restaurant,Nice,,,https://le1847.fr,43.6974479,7.2668684
+4801289365,node,La Peche à la Vigne,restaurant,Nice,,,,43.6995911,7.2828536
+4852259624,node,Le Bedouin - Chez Michel,restaurant,Nice,,,,43.7028284,7.2688697
+4852259724,node,La Planxa,restaurant,Nice,28 Rue d'Angleterre,,https://www.laplanxa.fr/,43.7050136,7.2648194
+4852260921,node,Le Panier,restaurant,Nice,,,https://www.restaurantlepanier.com/,43.6958141,7.2767095
+4852365324,node,L'Agua,restaurant,Nice,,,,43.6961989,7.2869132
+4887457348,node,Au vieux Four,restaurant,Nice,,,https://auvieuxfour-nice.com/,43.7014194,7.283538
+4904087000,node,Hotel-restaurant le Village,hotel,Nice,"Place de l'Église, 06910",06910,,43.8716856,6.9643042
+4930432605,node,Lalqila,restaurant,Nice,"7 Boulevard Carnot, Nice",,,43.6983254,7.2874297
+4983299021,node,Auberge Quintessence,restaurant,Nice,,,,44.0996549,7.0228317
+4985180022,node,Anao Beach,restaurant,Nice,"Avenue Fernand Dunan, 06310",06310,https://anaoplage.fr/,43.7028557,7.3300749
+5010850838,node,Hôtel du Centre,hotel,Nice,"12 Place de la République, 06430",06430,https://www.hotel-du-centre-tende.fr/,44.0874938,7.5934828
+5025864008,node,Little Italy,restaurant,Nice,,,,43.6887502,7.3339614
+5025868868,node,Le Cadillac,restaurant,Nice,,,,43.6888196,7.3340953
+5041693421,node,Le Balico,restaurant,Nice,Place aux Herbes,,,43.7757789,7.5068736
+5043098988,node,Le Mozart,restaurant,Nice,,,,43.7002311,7.2621289
+5043098991,node,Le Victor Hugo,restaurant,Nice,,,,43.6983319,7.2589545
+5060092821,node,Le Bistrot d'Antoine,restaurant,Nice,,,,43.6963914,7.2761835
+5060092921,node,Le Fonétic,restaurant,Nice,"107 Boulevard de Cessole, 06100, Nice",06100,https://www.lefonetic.com/,43.7206905,7.2512764
+5060119521,node,Maizon,restaurant,Nice,,,,43.7019798,7.2780597
+5060275721,node,Bistrot Gourmand,restaurant,Nice,,,https://www.bistrotgourmand.net/,43.6959834,7.2698625
+5060321528,node,Les Cocottes,restaurant,Nice,"38 Boulevard de la Madeleine, 06000",06000,,43.6957453,7.2426822
+5076303470,node,1-2-3 Pizza,restaurant,Nice,"26 Avenue Saint-Sylvestre, 06100, Nice",06100,https://www.123pizzanice.com/,43.7253912,7.2488855
+5130886962,node,Casablanca,restaurant,Nice,"3 Rue Pierre Grilli, Nice",,,43.7054452,7.255834
+5130914183,node,Thym & Olives,restaurant,Nice,,,,43.7050196,7.2562753
+5130914187,node,L'Escale,restaurant,Nice,,,,43.7053366,7.2559641
+5206841824,node,Brasserie Borriglione,restaurant,Nice,,,https://brasserieborriglione.fr,43.7134985,7.2618105
+5213215165,node,La Béoua d'Afi,restaurant,Nice,"Rue Saint-Joseph, 06380, Sospel",06380,,43.8775063,7.4491596
+5218748907,node,Hôtel Narev's,hotel,Nice,,,,43.776799,7.5036578
+5239188908,node,Casarella,restaurant,Nice,"15 Rue Grimaldi, 06190",06190,,43.764833,7.4592928
+5242923110,node,Auberge des Gorges de Daluis,restaurant,Nice,,,,44.0269144,6.8116741
+5273498925,node,Mi Casa,restaurant,Nice,,,,43.6977308,7.2757808
+5348034938,node,Le Grec Imperial,restaurant,Nice,"25 Avenue de Pessicart, Nice",,https://legrecimperial.com/,43.7089029,7.2524661
+5348050809,node,La Friterie,restaurant,Nice,"2 Rue Cros de Capeu, Nice",,https://www.la-friterie-c-est-arrive-pres-de-chez-vous.fr,43.7095696,7.2552442
+5365590543,node,Lao Viet,restaurant,Nice,,,,43.7022108,7.2646623
+5365608372,node,Pasta Basta,restaurant,Nice,,,,43.6962981,7.2761151
+5401302981,node,Pain & Cie,restaurant,Nice,,,,43.6958107,7.273455
+5401302989,node,Zari,restaurant,Nice,,,,43.695348,7.2763107
+5401302996,node,Le Bateleur,restaurant,Nice,,,https://www.lebateleur.com/,43.6953919,7.2757769
+5401302997,node,Campo di Fiori,restaurant,Nice,,,https://campodifiorinice.com/,43.6954237,7.2755107
+5401303003,node,Meraki,restaurant,Nice,,,,43.6954722,7.2749722
+5401303006,node,Savoia Caffe,restaurant,Nice,,,https://savoiacaffe.eatbu.com,43.6952855,7.2743546
+5436112415,node,table d'hôtes,restaurant,Nice,,,,43.7528672,7.3817101
+5436112416,node,hôtellerie,hotel,Nice,,,,43.7529835,7.3816779
+5465560582,node,Pastoral,hotel,Nice,,,,43.7054255,7.2659209
+5466274576,node,Le Vigneto,restaurant,Nice,,,,43.8094484,7.1874108
+5489074324,node,Gigi Tavola,restaurant,Nice,,,https://www.gigitavola.com/,43.6977029,7.2865268
+5489085521,node,Nonna,restaurant,Nice,,,https://www.nonnarestaurant.fr/,43.6909095,7.3338724
+5538535708,node,,restaurant,Nice,,,,44.1146515,7.5660294
+5592933935,node,La Table de Patrick Raingeard Eze,restaurant,Nice,,,https://www.capestel.com/en/restaurant/,43.7183276,7.3743999
+5599134363,node,Hôtel & Spa La Villa Cap Ferrat,hotel,Nice,,,http://www.hotel-villa-cap-ferrat.com,43.6915672,7.3303765
+5612690021,node,Popote,restaurant,Nice,,,https://popotebistrot.com,43.6954363,7.2753328
+5615246678,node,Le Bistro du Port,restaurant,Nice,,,https://le-bistrot-du-port-nice.eatbu.com,43.6947469,7.2829325
+5615246679,node,Le Bombay Palace,restaurant,Nice,,,https://www.lebombaypalace.fr/,43.6945488,7.2828662
+5618020856,node,La Coccinelle,restaurant,Nice,,,https://lacoccinelle.000webhostapp.com/,43.6933373,7.2508682
+5618159724,node,Polly and Cie,restaurant,Nice,"6 Avenue du Ray, Nice",,https://www.pollyandcie.com/,43.7209311,7.2612245
+5620206104,node,Waynakh,restaurant,Nice,,,https://waynakh.fr/fr,43.6960384,7.2567372
+5620206110,node,Titi,restaurant,Nice,,,,43.6950324,7.2550517
+5620791218,node,La Loca,restaurant,Nice,,,,43.7862113,7.5277675
+5623112954,node,Nooris,restaurant,Nice,,,https://www.nooris.com/fr/,43.6974352,7.2654573
+5623112962,node,BA MA,restaurant,Nice,,,https://bama-nice.com/,43.6972385,7.2623211
+5623112963,node,Fun Sushi,restaurant,Nice,,,https://www.funsushinice.fr/,43.6972175,7.2622501
+5623112964,node,Deli Roll,restaurant,Nice,,,,43.6971693,7.2620231
+5623112981,node,O'Crazy,restaurant,Nice,,,,43.6947386,7.2541967
+5642031321,node,Yafo,restaurant,Nice,,,,43.7011498,7.2725889
+5667374326,node,Café Beyrouth,restaurant,Nice,,,https://beyrouthcafe.com/,43.6973257,7.2627028
+5667384026,node,Le Local,restaurant,Nice,,,,43.698974,7.2855711
+5675165021,node,La Coupole,restaurant,Nice,"Avenue de Verdun, 06500",06500,,43.7733313,7.4976523
+5676201122,node,Le Petit Lascaris,restaurant,Nice,,,,43.6981657,7.2775691
+5677528123,node,Paris Palace,restaurant,Nice,,,,43.7733249,7.4998885
+5677528124,node,La Fabrique,restaurant,Nice,,,,43.7734176,7.5000686
+5677541823,node,La Gourmandise,restaurant,Nice,,,,43.7736214,7.5006997
+5684022022,node,Auberge Lou Poumié,restaurant,Nice,,,,44.0316655,7.0351894
+5697157946,node,Le Petit Prince,restaurant,Nice,,,,43.7662964,7.4887106
+5710602875,node,Hôtel Richelieu,hotel,Nice,"26 Rue Partouneaux, 06500, Menton",06500,https://www.richelieu-menton.com/,43.7747633,7.4993548
+5745287213,node,Chez Pipo,restaurant,Nice,,,,43.6650696,7.2139709
+5784883053,node,Café de Nice,restaurant,Nice,,,,43.6973446,7.2657379
+5801155366,node,La Maison de la Tour,restaurant,Nice,"Grand Place, 06420, La Tour",06420,,43.946792,7.1841692
+5851719407,node,Le Lido,restaurant,Nice,,,,43.775654,7.5066025
+5863070162,node,Le Bar des Oiseaux,restaurant,Nice,,,,43.6969354,7.2749341
+5871745885,node,Indian Take Away,restaurant,Nice,"10 Rue Albini, 06190",06190,http://www.iniantakeaway.com,43.7655464,7.4838285
+5884323855,node,Ma cave,restaurant,Nice,"25 Boulevard Saint-Roch, 06300, Nice",06300,,43.7114578,7.292574
+5884323856,node,L'auberg'in,restaurant,Nice,"2 Traverse Giacobi, 06300, Nice",06300,https://restaurantlaubergin.com/,43.7110912,7.2922337
+5936890218,node,Chez Tonton,restaurant,Nice,"Port de Cap d'Ail, 06320, Monaco",06320,,43.7257002,7.414126
+5959435989,node,La Fa Mi,restaurant,Nice,"2 Avenue Thiers, 06500",06500,,43.7742767,7.4951104
+5968325064,node,Realamen,restaurant,Nice,,,,43.696364,7.2650442
+6028526988,node,Le Chaudron,hotel,Nice,06310,06310,,43.7022103,7.3271018
+6041704641,node,La Table du Maroc,restaurant,Nice,,,,43.7026933,7.2655661
+6156549485,node,Splendid Hotel,hotel,Nice,,,,43.7024378,7.2287961
+6239574292,node,Hely,restaurant,Nice,,,,43.7005419,7.287934
+6355252486,node,Le Grand Cafe de France,restaurant,Nice,,,,43.6992549,7.2686614
+6426422059,node,Campanile Nice Aéroport,restaurant,Nice,459-461 Promenade des Anglais,,https://nice-aeroport.campanile.com,43.6670369,7.2146188
+6426422060,node,Amethis,restaurant,Nice,"455 Promenade des Anglais, Nice",,,43.6674166,7.2141909
+6426422061,node,L'entre 2,restaurant,Nice,"455 Promenade des Anglais, Nice",,,43.6674599,7.2138822
+6426422062,node,Le First Restaurant,restaurant,Nice,"455 Promenade des Anglais, Nice",,https://lefirstrestaurant.fr/,43.66842,7.2143328
+6426422063,node,L'Etna,restaurant,Nice,455 Promenade des Anglais,,,43.6676597,7.2142134
+6426422064,node,Lettuce & co,restaurant,Nice,"455 Promenade des Anglais, Nice",,https://commande.lettuceandco.fr/home/places,43.6677221,7.2143659
+6426422065,node,La Bonne Pause,restaurant,Nice,"455 Promenade des Anglais, Nice",,https://www.labonne-pause.fr/,43.6676999,7.2144707
+6426422067,node,Maï cuisine,restaurant,Nice,"455 Promenade des Anglais, Nice",,https://www.maicuisine.fr/,43.6689093,7.2146951
+6426422068,node,Novotel Café,restaurant,Nice,"455 Promenade des Anglais, Nice",,,43.6670977,7.2140966
+6438393794,node,Le Central,restaurant,Nice,2 Rue de Suisse,,https://lecentral-nice.com/,43.7035529,7.2656523
+6445550087,node,Amélia,restaurant,Nice,,,,43.6967495,7.2715843
+6445550089,node,L’Eau de Vie,restaurant,Nice,,,https://www.restaurant-eaudevie.fr/,43.7016512,7.2757035
+6445567088,node,L’epicerie Georges,restaurant,Nice,,,,43.6961158,7.2770004
+6445662385,node,Le Bocal,restaurant,Nice,,,,43.6991284,7.2720793
+6448545466,node,Le Vauban,hotel,Nice,,,,43.7017582,7.3095815
+6462062886,node,Franchin,restaurant,Nice,,,,43.6963914,7.2641986
+6473975394,node,Le Saint-Yves,restaurant,Nice,,,,43.8000117,7.4618878
+6482810145,node,Lucky Régal',restaurant,Nice,"83 Avenue du 3 Septembre, 06320, Cap-d'Ail",06320,https://www.luckyregal.com,43.7231713,7.3972391
+6490743585,node,Bocca Fina,restaurant,Nice,Place Adrien Barralis,,,43.8838606,7.3608073
+6579204815,node,,restaurant,Nice,,,,44.0707435,7.2551541
+6579622985,node,Casa Tua,restaurant,Nice,,,,43.6959426,7.2771954
+6580023942,node,Restaurant Le Coste de la Fontaine,restaurant,Nice,,,,43.9562514,6.894367
+6580174251,node,La Villa Nice Promenade,hotel,Nice,,,,43.6948826,7.2551635
+6597453778,node,Refuge de la Gordolasque,restaurant,Nice,,,,44.0562854,7.3877062
+6597477526,node,,restaurant,Nice,,,,44.048241,7.3806131
+6611074340,node,L'Ô à la bouche,restaurant,Nice,"Promenade du Lac du Boréon, 06450, Saint-Martin-Vésubie",06450,,44.1130188,7.2890575
+6635204700,node,Da Rossana,restaurant,Nice,"36 Basse Corniche, 06360",06360,,43.7192489,7.3513305
+6637125049,node,Le Pratois,restaurant,Nice,,,,44.3227639,6.8845023
+6637226097,node,Saveurs de Montagne,restaurant,Nice,,,,44.2842362,6.8665718
+6641195886,node,Chez Mori's,restaurant,Nice,,,https://www.chez-moris.com,43.6965942,7.264744
+6641353918,node,Hôtel Napoléon,hotel,Nice,"7 Avenue de la Victoire, 06320, La Turbie",06320,https://www.hotel-napoleon.com/site/fr/accueil/,43.7455242,7.3996077
+6641400132,node,Restaurant Pizzeria,restaurant,Nice,,,,43.8647169,7.2941029
+6643918660,node,L'Exocet,restaurant,Nice,,,,43.7748402,7.5049645
+6665147485,node,Le Rocher,restaurant,Nice,,,https://le-rocher-moules-frites-nice.fr/,43.6939297,7.2821593
+6665520585,node,Chez Thérésa,restaurant,Nice,,,https://theresa-nice.com/,43.6970806,7.2772566
+6684991411,node,Vacancéole - Résidence Les Gorges Rouges,hotel,Nice,,,https://www.vacanceole.com/location-vacances/26-residence-les-gorges-rouges-guillaumes,44.0903352,6.8508902
+6705097386,node,Food’Èze,restaurant,Nice,,,,43.7276447,7.3549475
+6705097387,node,Le Bistro de l'étoile,restaurant,Nice,"2 Place Charles II d'Anjou, 06230, Villefranche-sur-Mer",06230,,43.7040571,7.3101902
+6726699286,node,Le Canon,restaurant,Nice,,,https://www.lecanon.fr/,43.6970513,7.2603512
+6726699385,node,Da Mitchou,restaurant,Nice,9 Promenade de la Mer,,,43.7809511,7.5099151
+6764942685,node,La Cucina,restaurant,Nice,,,,43.6963308,7.264757
+6774298211,node,Le Grand Cafe de France,restaurant,Nice,,,https://legrandcafedefrance.fr,43.6964783,7.2641817
+6796803987,node,La petite épicerie,restaurant,Nice,,,,43.9872276,7.5530186
+6797191187,node,Les Incompris,restaurant,Nice,"7 et 8 Quai Gordon Bennett, 06500, Menton",06500,https://www.lesincompris.com/,43.776681,7.5084393
+6798243185,node,Madamepizza,restaurant,Nice,,,,43.6903022,7.3338291
+6803061706,node,Auberge du Pont vieux,hotel,Nice,"3 Avenue Jean Médecin, 06308",06308,,43.8776318,7.4492927
+6805217711,node,Le Millésisme,restaurant,Nice,,,https://www.restaurant-millesime.fr/,43.7038457,7.2836001
+6823202886,node,Mamma Roma,restaurant,Nice,,,https://www.mammaroma.fr/fr/home,43.6985694,7.2715009
+6844064808,node,Lao Vientiane,restaurant,Nice,,,https://laovientiane.fr/,43.6972847,7.26252
+6866407968,node,21 Paysans,restaurant,Nice,"2 Rue Valperga, 06000, Nice",06000,,43.7043031,7.2707927
+6877909112,node,Lou Balico,restaurant,Nice,,,https://loubalico.com/,43.7013624,7.2776451
+6888800985,node,Panda Chine,restaurant,Nice,,,https://pandachine.com/,43.6969855,7.2747334
+6924617950,node,Paper plane,restaurant,Nice,,,https://www.paperplanenice.com/,43.6998369,7.2732469
+6953181342,node,La Table Alziari,restaurant,Nice,,,,43.6995184,7.2790673
+6965518376,node,Les Palmeria,restaurant,Nice,,,,43.7028818,7.3112351
+6965634655,node,La Belle Etoile,restaurant,Nice,,,,43.7041615,7.3114255
+6965634657,node,La Cuisine,restaurant,Nice,15 Rue du Poilu,,,43.7038406,7.3116361
+6965634658,node,La Tavola,restaurant,Nice,11 Rue du Poilu,,,43.7036855,7.3115408
+6965634659,node,Le Mekong,restaurant,Nice,7 Rue de l'Église,,,43.7036894,7.3112807
+6965634660,node,La Grignotière,restaurant,Nice,,,https://www.la-grignotiere-restaurant-villefranche-sur-mer.com/,43.7034005,7.3112324
+6968271321,node,Novotel Suites Nice Airport,hotel,Nice,125 Boulevard René Cassin,,https://all.accor.com/hotel/6513/index.fr.shtml#section-location,43.6692375,7.2157672
+6968271351,node,Ibis Styles Nice Aéroport Arénas,hotel,Nice,127 Boulevard René Cassin,,https://all.accor.com/hotel/7008/index.fr.shtml,43.6696934,7.2159147
+6978745001,node,Marbella,hotel,Nice,120 Boulevard Carnot,,https://marbella.hotelnice.org,43.6922005,7.293283
+6986352132,node,La Praria,restaurant,Nice,"21 Promenade des Marinières, 06230, Villefranche-sur-Mer",06230,https://la-praia.metro.bar/?lang=fr,43.7065804,7.3172781
+6986352134,node,Alma Goût Méditerranée - Villefranche,restaurant,Nice,,,https://www.privateaser.com/lieu/47789-alma,43.7049729,7.3128211
+6988820378,node,African Queen,restaurant,Nice,,,,43.7102148,7.3355936
+7015264836,node,Davisto,restaurant,Nice,"18 Rue Saint-Philippe, 06000, Nice",06000,https://www.davisto.net/,43.6954577,7.2552412
+7023702316,node,Le Mandarin,restaurant,Nice,,,,43.6965408,7.2618628
+7026996485,node,Le Café de la Fontaine,restaurant,Nice,,,,43.7456177,7.4001812
+7036040421,node,Le Virginie,restaurant,Nice,,,https://www.levirginie.com/,43.7052882,7.289528
+7036065758,node,La Corderie,restaurant,Nice,"20 Quai de la Corderie, 06230, Villefranche-sur-Mer",06230,,43.6976581,7.3065876
+7042266079,node,Chez Cane,restaurant,Nice,"317 Avenue de Fabron, Nice",,https://chezcane.com/,43.697667,7.2092445
+7052737785,node,Le Saëtone,restaurant,Nice,,,https://restaurant-le-saetone.eatbu.com,43.7040044,7.2642328
+7093689786,node,Carpe Diem,restaurant,Nice,,,,43.6969662,7.2767485
+7096559386,node,Au Bureau,restaurant,Nice,,,https://www.aubureau.fr/restaurant/?ville=Au%20Bureau%20Nice,43.6966419,7.2649819
+7097850959,node,Le Lotus,restaurant,Nice,,,,43.7017642,7.2605841
+7097850960,node,Le Keter,restaurant,Nice,,,https://keternice.fr/,43.7017754,7.2605103
+7098416555,node,Sentimi,restaurant,Nice,,,https://sentimi.fr/,43.7013366,7.2794968
+7098519652,node,Le Napoléon,restaurant,Nice,,,,43.7014818,7.279854
+7098520512,node,Little Boho,restaurant,Nice,,,,43.7014263,7.2795414
+7098526601,node,Campo Caffé,restaurant,Nice,,,,43.7015184,7.2797436
+7099728463,node,La Tapenade,restaurant,Nice,,,,43.6964242,7.2759913
+7099812753,node,Le Rossini,restaurant,Nice,,,https://lerossini.fr/fr,43.7010554,7.2563934
+7099812760,node,New Bharati,restaurant,Nice,,,https://newbharati.com/,43.7013351,7.2570596
+7103266987,node,Babbo Mio,restaurant,Nice,,,,43.7009754,7.2831699
+7103266988,node,Bistrot Dalpozzo,restaurant,Nice,,,https://www.bistro-dalpozzo-restaurant-nice.com/,43.6967726,7.261811
+7103267086,node,Vabbuò,restaurant,Nice,,,,43.6961253,7.2608506
+7119253795,node,Le Bard'O,restaurant,Nice,,,https://www.le-bardo.com/,43.6950796,7.2830439
+7119267093,node,Safran,restaurant,Nice,,,https://www.restaurant-safran.com/,43.6948394,7.2829635
+7142810492,node,Le Barachois,restaurant,Nice,,,https://fr-fr.facebook.com/pg/Le-Barachois-Nice-457759737720367/,43.7012671,7.2569882
+7174507585,node,L'Autobus,restaurant,Nice,142 Avenue de Gairaut,,,43.7339606,7.2616404
+7178660387,node,Le Magenta,restaurant,Nice,,,https://lemagentanice.fr/fr,43.6976604,7.2669314
+7194997185,node,Magnolia Café,restaurant,Nice,,,https://magnolia-cafe-restaurant-nice.fr,43.7007664,7.2820571
+7214770580,node,Palais Thai,restaurant,Nice,,,,43.6954996,7.2550118
+7214770941,node,Le Rocher Noir,restaurant,Nice,,,,43.6955614,7.2549873
+7214771824,node,Le Curry,restaurant,Nice,,,https://www.lecurry-nice.com/,43.6954249,7.2550415
+7233617866,node,Saj,restaurant,Nice,,,https://restosaj.com,43.6965699,7.2770552
+7234052298,node,Les Chaudrons,restaurant,Nice,23 Place de Provence,,,44.0900823,6.8531717
+7234052299,node,La Regence,restaurant,Nice,,,,44.0900953,6.8535666
+7234052300,node,Le Central,restaurant,Nice,18 Place de Provence,,,44.0899867,6.8536083
+7235355174,node,Brasserie Le Heinz,restaurant,Nice,,,,43.9876802,7.5511517
+7235496637,node,Arome,hotel,Nice,,,https://aromehotelnice.com/,43.6960286,7.2566729
+7274029585,node,Chabrol,restaurant,Nice,,,https://www.le-chabrol-restaurant-nice.com/,43.6996979,7.2852
+7276136980,node,Mirazur,restaurant,Nice,,,https://www.mirazur.fr/,43.7859123,7.5280996
+7293075363,node,Lou San Jean,restaurant,Nice,"11 Rue des Communes de France, 06660, Saint-Étienne-de-Tinée",06660,,44.2546674,6.924935
+7293133031,node,La Taca d'Oli,restaurant,Nice,,,,44.2248057,6.9312334
+7295317345,node,Lou Ben Manja,hotel,Nice,"2 Chemin San Peire, 06660, Saint-Étienne-de-Tinée",06660,,44.2574877,6.9246891
+7296202912,node,La Vieille Crêpe,restaurant,Nice,,,http://www.lavieillecrepe.com/,43.6966037,7.2763167
+7387454812,node,Sakura Sushi,restaurant,Nice,"57 Boulevard de Cessole, 06100, Nice",06100,https://sakura-sushi.fr/,43.716611,7.2531527
+7399378649,node,Le Miramonti,restaurant,Nice,,,https://www.lemiramonti.fr/,44.0896218,7.5933561
+7515244578,node,Restaurant du Golf - Le Birdie,restaurant,Nice,,,,44.1047963,6.9400296
+7628803585,node,3 Brasseurs,restaurant,Nice,,,https://restaurants.3brasseurs.com/fr/3-brasseurs-nice,43.6962395,7.2700257
+7637892086,node,Banh Mei,restaurant,Nice,,,,43.6972281,7.277838
+7684647086,node,Clay,restaurant,Nice,,,https://leclay.fr/,43.7006156,7.2816924
+7698887286,node,L'Oliveraie,restaurant,Nice,"58 Route Félix Garel, 06670",06670,,43.7597596,7.2306018
+7698901585,node,L'Escapade,restaurant,Nice,"2 Rue François Plesent, 06670",06670,,43.7638792,7.2219223
+7712005416,node,La Pignatiera,restaurant,Nice,,,,43.7099468,7.2637779
+7725641349,node,Galinetta,restaurant,Nice,,,https://galinettanice.fr/,43.7007658,7.2772528
+7745493285,node,Casa Elli,restaurant,Nice,,,,43.6974581,7.265665
+7747389585,node,Le P'tit Resto,restaurant,Nice,,,https://www.le-ptit-resto-nice.com/,43.6965995,7.2765025
+7772522086,node,Pappagallo,restaurant,Nice,,,https://www.pappagallo.co/,43.7010769,7.2820096
+7775742887,node,Carré d'Or,restaurant,Nice,,,,43.6978582,7.2668593
+7778296673,node,Brise Marine,hotel,Nice,,,https://www.hotel-brisemarine.com/,43.6872303,7.3386033
+7778310588,node,Nuit de Saïgon,restaurant,Nice,"24 Avenue du 3 Septembre, 06320, Cap-d'Ail",06320,https://nuit-de-saigon-restaurant-cap-dail.eatbu.com/,43.7250662,7.4095521
+7778315837,node,La Cambuse,restaurant,Nice,,,,43.7245389,7.4181081
+7778331621,node,Le Cabanon,restaurant,Nice,,,http://plagedubuse.com/,43.7598619,7.4577941
+7778336200,node,La Voile d’Or,hotel,Nice,,,https://www.lavoiledor.fr/,43.6881114,7.3369635
+7778344337,node,La Veranda,restaurant,Nice,,,https://www.fourseasons.com/capferrat/dining/restaurants/la_veranda/,43.6770543,7.331864
+7778349840,node,Naos Beach,restaurant,Nice,,,https://www.naosbeach.com/,43.7239296,7.4105833
+7779445543,node,La différAnce,restaurant,Nice,,,https://www.ladifferance.com/,43.7529964,7.4467288
+7779472302,node,LC food,restaurant,Nice,06320,06320,,43.7269043,7.4115982
+7779492519,node,Le Cap,restaurant,Nice,,,https://www.fourseasons.com/capferrat/dining/restaurants/le_cap/,43.6767533,7.3314763
+7784230602,node,Glacier Creperie Bretonne,restaurant,Nice,,,,43.723207,7.3968574
+7796500344,node,Deli Bo,restaurant,Nice,,,,43.7068468,7.3156546
+7802055759,node,Pin-pin,restaurant,Nice,,,,43.7004881,7.2825811
+7806684304,node,Gîte de Roya,restaurant,Nice,,,,44.1894771,6.9285366
+7814893186,node,Snack chez coco,restaurant,Nice,,,,44.08195,7.1066557
+7818206298,node,Le Garnier,restaurant,Nice,,,https://legarnier.com,43.7101905,7.2561789
+7834502495,node,A’Trego,restaurant,Nice,,,https://www.restaurantatrego.com/,43.724903,7.413489
+7835808578,node,Villa Azur,hotel,Nice,,,https://www.villazurcapdail.com/,43.7242228,7.4037224
+7841445680,node,Olympia,hotel,Nice,,,,43.7431609,7.426845
+7843223331,node,La Récréation Champêtre,restaurant,Nice,,,,43.7584515,7.3404178
+7860841195,node,Gite Le Corborant,hotel,Nice,,,,44.2535,6.92719
+7876966853,node,Pho 38,restaurant,Nice,,,https://pho-38-nice.fr/en,43.6950071,7.2549739
+7896347771,node,Chamois d'Or,hotel,Nice,,,,44.0971684,7.5067669
+8016625586,node,Le Rossetti,restaurant,Nice,,,,43.697426,7.2763158
+8016625685,node,Le Clocher,restaurant,Nice,,,,43.6973727,7.2760998
+8016886153,node,Restaurant du Club Nautique de Nice,restaurant,Nice,"50 Boulevard Franck Pilatte, 06300, Nice",06300,https://clubnautique-restaurant.com/,43.6921266,7.2899653
+8036515101,node,Hôtel Delcloy,hotel,Nice,,,,43.7016027,7.3276655
+8046961695,node,Les Plaisirs,restaurant,Nice,"2 Puada Dau Gourguet, 06440",06440,,43.7781897,7.3823062
+8047795586,node,Chez Davia,restaurant,Nice,,,https://www.chezdavia.com/,43.6991033,7.2648218
+8047838886,node,A Buteghinna,restaurant,Nice,,,https://www.abuteghinna.fr/,43.6973885,7.2746051
+8050006412,node,Casa Fuego,restaurant,Nice,80 bis Boulevard de Garavan,,https://www.casafuego.fr,43.7862346,7.527709
+8259785986,node,Maïdo,restaurant,Nice,,,https://www.restaurant-maido.fr/,43.6994936,7.2740896
+8445821614,node,Le Blanche Neige,hotel,Nice,,,,44.0946097,6.9316564
+8445838918,node,Le Valbergan,restaurant,Nice,6 Route de Péone,,,44.0953137,6.9285898
+8560894485,node,Les Arcades,restaurant,Nice,13,,,44.0151642,7.3200027
+8783532475,node,Baia Bella,restaurant,Nice,,,https://www.baiabella.com/,43.7113652,7.3370389
+8824492720,node,Yelo,hotel,Nice,,,,43.7048487,7.2650795
+8831815021,node,Indian Food Corner,restaurant,Nice,"16 Boulevard Saint-Roch, 06300, Nice",06300,,43.7098125,7.2930012
+8842976319,node,Babel Babel,restaurant,Nice,,,https://www.babelbabel.fr/,43.6951499,7.2758402
+8844760797,node,Lou trambalan,restaurant,Nice,"8 Rue de Sospel, 06300, Nice",06300,,43.7097432,7.2922169
+8848593917,node,Le château,restaurant,Nice,Place Docteur Paul Simon,,,43.786788,7.2758383
+8849723898,node,Lou Nieu d'Aigle,restaurant,Nice,Lieuche,,,43.9952342,7.0161591
+8862642732,node,Bristol,hotel,Nice,,,,43.7042329,7.2639203
+8865826700,node,Nha Trang,restaurant,Nice,"6 Rue Jean André, 06300, Nice",06300,,43.7113322,7.2922634
+8870163971,node,Beauséjour,hotel,Nice,,,,43.830824,7.3286916
+8871342717,node,Figue & Olive,restaurant,Nice,"152 Cal de Spagnol Soutran, 06200, Nice",06200,,43.6956714,7.201132
+8887791113,node,Korner's,restaurant,Nice,"4 Avenue François Mitterrand, Nice",,https://korners.fr/,43.709986,7.285915
+8895683578,node,Oceanosa,restaurant,Nice,,,https://oceanosa.com/,43.695708,7.2561013
+8933002151,node,The Spot,restaurant,Nice,10 Place Centrale,,,44.2253498,6.9319243
+8954208917,node,Gusti,restaurant,Nice,28 Rue d'Angleterre,,,43.7047749,7.2647787
+8960177417,node,Hôtel Amour Beach,restaurant,Nice,"47 Promenade des Anglais, Nice",,https://www.hotelamouralaplage.fr/,43.6933525,7.2560225
+8996649617,node,Le petit sospellois,restaurant,Nice,"3 Rue des Caves, 06380",06380,,43.8772608,7.4475661
+9002257817,node,Vingt4,restaurant,Nice,,,https://www.levingt4.fr/,43.7003129,7.264518
+9011293819,node,La Vieille Maison,restaurant,Nice,"18 Avenue de la Liberté, 06360",06360,,43.7224798,7.3563762
+9095193121,node,Hostellerie d'Aspremont,hotel,Nice,"3 Place B. Garino, 06790, Aspremont",06790,http://www.hostellerie-aspremont.com/,43.7846726,7.2434569
+9096807393,node,Chez Joëlle,restaurant,Nice,,,,44.0926876,7.0504213
+9097673985,node,West End,hotel,Nice,,,https://www.hotel-westend.com/,43.6947963,7.2595912
+9118025855,node,Hôtel du Centre,hotel,Nice,,,https://www.hotelducentre-nice.com/,43.7035846,7.2656975
+9153330662,node,Les Terrasses du Parc Impérial,restaurant,Nice,"5 Avenue Suzanne Lenglen, 06000, Nice",06000,https://les-terrasses-du-parc-imperial-40.webself.net/accueil,43.7048208,7.2524191
+9224838454,node,Hôtel du Pin Nice Port,hotel,Nice,,,https://www.hotel-nice-port.com/en,43.700472,7.2830964
+9229513910,node,Il paesello,restaurant,Nice,,,,43.7041819,7.2678372
+9229532369,node,Les Balancelles,restaurant,Nice,,,https://lesbalancelles.com/,43.7042241,7.2700877
+9229539989,node,Tasty Trame,restaurant,Nice,,,,43.7044302,7.2689911
+9229541177,node,L'appart,restaurant,Nice,,,https://restaurant-lappart.fr/,43.7039651,7.2682092
+9236758015,node,La Pignata,restaurant,Nice,"242 Avenue de Fabron, Nice",,https://lapignata-nice.zenchef.com/,43.6909134,7.2137077
+9269447720,node,Chez Jo,restaurant,Nice,,,,43.6953677,7.2542251
+9321219489,node,La Petite Maison,restaurant,Nice,,,,43.6958155,7.2708314
+9353486417,node,Cok Bafa,restaurant,Nice,,,,43.7081223,7.2609756
+9366158168,node,Café de Paris,restaurant,Nice,,,https://www.cafe-de-paris-restaurant-nice.com/,43.6951093,7.2650367
+9366158169,node,Balthazar,restaurant,Nice,,,,43.6951664,7.2652277
+9376527916,node,La ficelle,restaurant,Nice,"33 Avenue Émile Henriot, Nice",,https://laficelle.business.site/,43.6943904,7.244967
+9376595524,node,La Nice Etoilée,restaurant,Nice,,,,43.6932554,7.2464223
+9380199323,node,Beirut Grill House,restaurant,Nice,,,,43.7034125,7.2644596
+9380199324,node,Nha trang,restaurant,Nice,,,,43.7033166,7.2644784
+9466273357,node,Unic Bar,restaurant,Nice,"328 Route de la Tinée, 06420, La Tour",06420,,43.9614587,7.1541632
+9466426651,node,La Sartaïo,restaurant,Nice,,,,44.0422589,7.1291344
+9480616226,node,Le Khelcom,restaurant,Nice,,,https://www.khelcom.fr/,43.7079243,7.2626826
+9520340212,node,Au Refuge,restaurant,Nice,504 Boulevard Georges Pompidou,,,44.2268594,6.9297137
+9520395717,node,Le Galion,restaurant,Nice,,,,44.2258449,6.9298568
+9522611317,node,Le Stéphanois,restaurant,Nice,,,,44.2563378,6.9248311
+9535067787,node,La Goulette,restaurant,Nice,,,,43.7035843,7.256002
+9577685617,node,Origines,restaurant,Nice,,,https://www.originesrestaurant-nice.com/,43.70151,7.2740799
+9577746917,node,Apopino,restaurant,Nice,,,https://www.apopinorestaurant.com,43.6990484,7.2648501
+9627166334,node,O'tejo,restaurant,Nice,,,https://le-restaurant-otejo.webnode.fr/,43.7063595,7.2671931
+9627166337,node,Labottega,restaurant,Nice,,,,43.7059801,7.2656918
+9627968849,node,Poco Loco,restaurant,Nice,,,,43.6962469,7.2619286
+9631664514,node,Akoya,restaurant,Nice,,,,43.7090155,7.2646064
+9652192817,node,Peppino,restaurant,Nice,,,,43.6977372,7.2763713
+9652228217,node,La Taverna du 9,restaurant,Nice,,,,43.6989632,7.2709762
+9652785082,node,Le Félix Faure,restaurant,Nice,,,,43.8589827,7.2301103
+9653733917,node,Chaud-Vin,restaurant,Nice,,,,43.698405,7.2714713
+9673958446,node,Brasserie du Cap,restaurant,Nice,,,,43.7760956,7.5073527
+9673958447,node,La Vita'mine,restaurant,Nice,,,,43.7762422,7.5073437
+9689821712,node,Le faubourg Montmartre,restaurant,Nice,32 Rue Pertinax,,,43.7049766,7.2658139
+9689821713,node,Royal Kashmir,restaurant,Nice,30 Rue Pertinax,,https://www.royalkashmir-nice.fr/,43.7050427,7.2660125
+9689821716,node,Djourdjoura,restaurant,Nice,19 Rue Pertinax,,,43.7050892,7.266695
+9695350020,node,Tandoori Flame,restaurant,Nice,,,,43.6983354,7.2768348
+9695648133,node,Sawasdee,restaurant,Nice,,,https://www.sawasdee-nice.fr/,43.6976194,7.2753496
+9695658199,node,Route des Inde,restaurant,Nice,,,https://www.route-des-inde-restaurant-nice.com/,43.6974744,7.2755828
+9729265421,node,La Goëlette,restaurant,Nice,"230 Nouveau Port Saint-Jean-Cap-Ferrat, 06230, Saint-Jean-Cap-Ferrat",06230,https://lagoelette-saintjeancapferrat.fr/,43.6897104,7.3340869
+9763762339,node,Ambrosia,restaurant,Nice,"Port de plaisance, 06310, Beaulieu-sur-Mer",06310,,43.7105434,7.3357628
+9770729932,node,Le Fabuleux Destin,restaurant,Nice,"Quai du Ponant, 06310, Beaulieu-sur-Mer",06310,,43.7098463,7.3355187
+9774733879,node,Pierre et Vacances - Résidence Les Citronniers,hotel,Nice,,,,43.7749616,7.4993223
+9774733881,node,Pierre et Vacances - Résidence Les Rivages du Parc,hotel,Nice,,,,43.772867,7.4971685
+9793784317,node,Au Contes est bon,restaurant,Nice,,,,43.810176,7.3138728
+9804781708,node,La Boulisterie Club,restaurant,Nice,,,https://www.laboulisterie.com/club,43.6998571,7.2844051
+9815821417,node,Ikko Ramen,restaurant,Nice,,,https://ikkoramen.com/,43.6971078,7.2748738
+9816592018,node,Twenty Campus,hotel,Nice,,,https://www.twenty-campus.com/fr/residences/tc-nice-valrose/,43.7149793,7.2626423
+9831594017,node,Le Temps d‘un été,restaurant,Nice,"25 Promenade des Anglais, Nice",,https://www.letempsdunete-plage.fr/,43.6944023,7.2613301
+9839492217,node,La Crêpe,restaurant,Nice,6 Rue Trenca,,https://m.facebook.com/La-Cr%C3%AApe-%C3%A0-lEnvers-459251127933490/,43.77546,7.5048211
+9842142819,node,Le Bistrot des Jardins,restaurant,Nice,14 Avenue Boyer,,https://le-bistrot-des-jardins.fr,43.775125,7.4962853
+9847576418,node,Esprit d'Azur,hotel,Nice,,,,43.7051434,7.2829492
+9871126209,node,Les Mélèzes,restaurant,Nice,,,,44.0978918,7.5058754
+9877388418,node,Terra Madre,restaurant,Nice,,,https://terramadrenicerestaurant.com/,43.6950824,7.2636835
+9887848572,node,L'avalanche,restaurant,Nice,,,,44.1851967,7.1591102
+9887853129,node,La Raclette,restaurant,Nice,,,,44.1851245,7.1591946
+9936055917,node,Le Bistrot de Banville,restaurant,Nice,Place Théodore de Banville,,,43.7456026,7.4008171
+9942434420,node,L'Orangerie,restaurant,Nice,,,,43.7753574,7.5033496
+9943439759,node,À la Table Du Marche,restaurant,Nice,,,https://www.alatabledumarche.com/,43.7102482,7.2586493
+9947483963,node,NÂGA Street-food,restaurant,Nice,"76 Boulevard de la Madeleine, 06000, Nice",06000,https://naga-streetfood.com/,43.6977488,7.2407963
+9954255398,node,Le Deck,restaurant,Nice,,,https://www.montecarlosbm.com/en/hotel-monaco/monte-carlo-beach/restaurants,43.7517432,7.4438789
+9969679344,node,Deli',restaurant,Nice,5 Rue du Château,,,43.7280213,7.361535
+9991571194,node,Chez Frankie,restaurant,Nice,,,,44.0711718,7.2228608
+9991571195,node,La Barquette,restaurant,Nice,06420,06420,https://valdeblore-la-colmiane.stationverte.com/fr/la-barquette_t204211.html,44.0711359,7.2230412
+10004974715,node,Cumin et Cannelle,restaurant,Nice,,,https://www.cuminetcannelle.com/fr,43.7084862,7.2620579
+10005110361,node,La Pampa,restaurant,Nice,,,,43.7818895,7.5112341
+10005140717,node,Le Stanley,restaurant,Nice,"6 Place du Cap, 06500, Menton",06500,https://www.le-stanley-restaurant-menton.com/,43.7759743,7.5076868
+10006626017,node,Chez Paulette,restaurant,Nice,,,,43.7008545,7.2827101
+10056958982,node,Le Garibaldi,restaurant,Nice,,,https://legaribaldi-nice.fr/fr,43.7009204,7.2810539
+10069025315,node,Casa Nissa,restaurant,Nice,,,https://www.casa-nissa.com/,43.6981455,7.2703274
+10073564218,node,Le Panama,restaurant,Nice,,,https://www.lepanama-nice.com/,43.7003322,7.2807497
+10075369304,node,Gina,restaurant,Nice,,,https://restaurantgina.com,43.6975045,7.2695026
+10078385907,node,Le Siècle,restaurant,Nice,,,https://www.hotel-westend.com/restaurant-le-siecle/,43.6946664,7.2597581
+10078386724,node,Le Liber'tea,restaurant,Nice,,,https://www.lelibertea.com/,43.6980223,7.2672307
+10078386725,node,La Fontaine,restaurant,Nice,,,,43.6978449,7.2672871
+10078386726,node,Maison Margaux,restaurant,Nice,,,,43.6977848,7.2673394
+10084914627,node,Oscar,restaurant,Nice,,,https://oscar-restaurant-nice.com/fr,43.6974333,7.2667345
+10084914628,node,Share Inn,hotel,Nice,,,,43.6972917,7.2663885
+10084914631,node,La Riviera,restaurant,Nice,,,,43.6970057,7.2657837
+10087629252,node,Le Petit Beefbar,restaurant,Nice,,,https://beefbar.com/petit-beefbar-nice/,43.6957999,7.2704186
+10087629256,node,Hôtel de la mer,hotel,Nice,,,https://hoteldelamernice.com/,43.6961015,7.2705151
+10092377299,node,Soluna,restaurant,Nice,,,,43.696229,7.2642354
+10092377300,node,Le Garden Grill,restaurant,Nice,,,https://garden-grill.fr/,43.6962915,7.2645184
+10092377301,node,La Femme de boulanger,restaurant,Nice,,,,43.6963551,7.2649234
+10095715185,node,Mercure Nice Marché aux Fleurs,hotel,Nice,,,https://all.accor.com/hotel/0962/index.fr.shtml,43.6952603,7.2721506
+10095715189,node,Noto,restaurant,Nice,,,,43.6956113,7.2704085
+10101454046,node,La Grande Brune,restaurant,Nice,,,,43.6950891,7.2639728
+10101454050,node,Loka,restaurant,Nice,,,,43.696563,7.2646183
+10101454051,node,Solara,hotel,Nice,,,,43.6964874,7.2643702
+10101454053,node,La Villa Massenet,restaurant,Nice,,,,43.6963274,7.2642159
+10101454058,node,Matsuri,restaurant,Nice,,,https://matsuri.fr/fr/restaurants,43.6974493,7.2655651
+10101454066,node,Deck,hotel,Nice,,,,43.6972131,7.2650844
+10102762618,node,Villa d'Isa,restaurant,Nice,,,,43.7104301,7.2617161
+10103304232,node,Pinocchio,restaurant,Nice,,,,43.6940507,7.2565201
+10103304234,node,Le Prom,restaurant,Nice,,,,43.6950388,7.2627421
+10114971366,node,Büma,restaurant,Nice,,,,43.6980514,7.2656214
+10120197182,node,Le Yen,restaurant,Nice,,,https://leyen.fr/restaurant-nice/,43.6968052,7.2717989
+10139253355,node,Le Petit Palais,restaurant,Nice,,,,43.6970241,7.2735849
+10150915075,node,Villa Victoria,hotel,Nice,,,https://www.villa-victoria.com/,43.6986097,7.2617994
+10150915076,node,Nespo,restaurant,Nice,,,https://www.nespo-restaurant.com/,43.6985835,7.260246
+10150915077,node,Best Western Plus Brice Garden,hotel,Nice,,,,43.6979799,7.2604589
+10150915078,node,Hôtel Busby,hotel,Nice,,,,43.6980971,7.2616276
+10150915080,node,Le Verdi,restaurant,Nice,,,,43.6995041,7.2614613
+10150915086,node,Hôtel Victor Hugo,hotel,Nice,,,,43.697682,7.2578554
+10156448676,node,Pera,restaurant,Nice,,,,43.6973381,7.2744354
+10156448682,node,O'Morena,restaurant,Nice,,,,43.697349,7.275138
+10156614992,node,La Civette Garibaldi,restaurant,Nice,,,,43.7004526,7.2792524
+10156614999,node,Le Cèdre,restaurant,Nice,,,,43.7069548,7.2830785
+10156615001,node,Arito Sushi,restaurant,Nice,,,https://www.arito-sushi.com/,43.7061973,7.2826537
+10178610978,node,Le Raja,restaurant,Nice,,,https://www.leraja-nice.fr/,43.6952957,7.2831195
+10178610979,node,Yans,restaurant,Nice,,,,43.6951404,7.2830643
+10178610981,node,Eden Garden,restaurant,Nice,,,https://eden-garden-bar.business.site/,43.6946598,7.2829034
+10189048466,node,La Cantine de Mémé,restaurant,Nice,,,https://www.lacantinedememe.fr/,43.6987301,7.2669947
+10204502413,node,Allo Liban,restaurant,Nice,37 Boulevard Auguste Raynaud,,https://allo-liban.com/fr,43.7132341,7.2585848
+10214996741,node,Marechiaro,restaurant,Nice,,,https://marechiaro.fr/,43.6960483,7.2860254
+10267033709,node,La Popote d'Ondine,restaurant,Nice,,,,43.6996248,7.2709089
+10289393963,node,Rumah Bali,restaurant,Nice,,,,43.6994894,7.2588867
+10294009273,node,Arkose Cantine,restaurant,Nice,,,https://arkose.com/nice/cantine,43.7060772,7.193753
+10308708904,node,Tony,restaurant,Nice,,,,43.7765357,7.5076879
+10536657843,node,Le Coffee,restaurant,Nice,,,https://le-coffee-restaurant-pizzeria.business.site,43.6919113,7.2469331
+10571502709,node,Sixsa,restaurant,Nice,,,https://restaurantsixsa.com/,43.6990572,7.2709265
+10572661110,node,Deli Bao,restaurant,Nice,,,,43.6976784,7.2662379
+10596473696,node,La Vela,restaurant,Nice,"58 Promenade des Anglais, 06000",06000,http://www.lavela-plage.com,43.6922836,7.2515065
+10596473697,node,Marcel,restaurant,Nice,,,https://www.marcelbistrochic.com/,43.6967783,7.2752164
+10655805712,node,Snack Mod's,restaurant,Nice,83 Boulevard de Cessole,,,43.7181055,7.2524732
+10659648216,node,La Villa,hotel,Nice,,,https://hotel-villa-nice-centre.com/,43.6992276,7.2644829
+10659648227,node,Musain,restaurant,Nice,,,,43.6995349,7.26549
+10661818425,node,l'Alchimie,restaurant,Nice,,,https://www.lalchimie-restaurant.com/,43.6989591,7.2644789
+10676051402,node,Daar Djerba,restaurant,Nice,,,,43.6957476,7.2605742
+10676051403,node,Hôtel de la Fontaine,hotel,Nice,,,,43.695733,7.2605038
+10678742038,node,il vicoletto,restaurant,Nice,,,https://www.il-vicoletto.fr/,43.6967793,7.2642884
+10678742039,node,Ya Habibi,restaurant,Nice,,,,43.6966813,7.2643943
+10678742043,node,Côté Lounge,restaurant,Nice,,,https://www.cote-lounge-restaurant-nice.com/,43.6967764,7.2647832
+10680962294,node,Ô Mai,restaurant,Nice,,,http://www.omai-nice.com,43.7001583,7.2703569
+10680962299,node,Aromate,restaurant,Nice,,,https://laromate.fr,43.6992993,7.2699223
+10680962303,node,Le Daily-Ric,restaurant,Nice,,,,43.6993671,7.2705379
+10684250163,node,Le 3e,restaurant,Nice,,,https://www.le-3e-bar-restaurant-nice.com,43.6952298,7.2629982
+10685786723,node,Panisse,restaurant,Nice,,,,43.7008923,7.269575
+10686280171,node,Ya Habibi,restaurant,Nice,,,https://restaurant-yahabibi.com/,43.6959987,7.2633831
+10686280175,node,Demi Lune,restaurant,Nice,,,https://restaurant-demilune.com/,43.6951522,7.2635964
+10686905777,node,Olive & Artichaut,restaurant,Nice,,,https://oliveartichaut.com/,43.6964992,7.2759971
+10688291778,node,Pezza,restaurant,Nice,18 bis Rue Biscarra,,,43.7026816,7.2684344
+10688291779,node,Zeste Restaurant & Bar,restaurant,Nice,18 Rue Biscarra,,https://www.zeste-restaurant.com/,43.7027087,7.2685189
+10691081165,node,Le P'tit Chez Nous,restaurant,Nice,,,,43.6978778,7.2645432
+10695151018,node,Le Felix Faure,restaurant,Nice,,,https://lefelixfaure.fr/,43.6980921,7.2723417
+10695151019,node,L'Horloge,restaurant,Nice,,,https://hotel-aston.com/restaurant-3/,43.6980213,7.2720279
+10695151022,node,Le Clin d'oeil,restaurant,Nice,,,https://leclindoeil-restaurant.com/,43.6981096,7.2716215
+10697552183,node,Petit Louvre,hotel,Nice,,,,43.7033442,7.2677632
+10697557441,node,Le Terre del Sud,restaurant,Nice,,,https://leterredelsud.fr/fr,43.6963287,7.2619103
+10702617088,node,La Pairolière,restaurant,Nice,,,,43.6996057,7.2787669
+10705054618,node,B&B Hotel Nice Aéroport Arenas,hotel,Nice,,,https://www.hotel-bb.com/fr/hotel/nice-aeroport-arenas,43.6701427,7.2160909
+10705125049,node,Café Noir,restaurant,Nice,,,,43.6960268,7.2707981
+10706956642,node,Mets and Café,restaurant,Nice,28 Rue Assalit,,,43.7056226,7.2659138
+10712150510,node,Peixes,restaurant,Nice,,,https://www.peixes.fr/,43.6960162,7.2710489
+10712593550,node,Seen,restaurant,Nice,,,https://seennice.com,43.6968694,7.2682554
+10721673533,node,Piperno,restaurant,Nice,,,https://piperno.fr/restaurants/4293-piperno-nice-saleya,43.6958434,7.2741563
+10731270796,node,Indian Curry & Tandoori,restaurant,Nice,,,,43.6962014,7.2608223
+10737970555,node,Nikaïa,restaurant,Nice,52 Avenue Pierre Isnard,,,43.6867172,7.1982228
+10741074912,node,Carmela,restaurant,Nice,,,https://www.carmela-restaurant.com/,43.6955023,7.2769766
+10753022859,node,Sushi Iko,restaurant,Nice,,,,43.6936018,7.2515337
+10756759909,node,Eatsa,restaurant,Nice,,,https://eatsa.fr/,43.7004693,7.2707504
+10766674531,node,Villa Rivoli,hotel,Nice,,,,43.6969422,7.2588207
+10796924839,node,L'entrepot,restaurant,Nice,,,,43.9410431,7.4125091
+10804995966,node,Meat House,restaurant,Nice,,,,43.7061972,7.2663044
+10886122612,node,Casa nostra pizzeria,restaurant,Nice,,,,43.7781356,7.4715662
+10917714805,node,Auberge du Prieuré,restaurant,Nice,"22 Place de l'Église, 06670",06670,,43.8215034,7.2389155
+10923821809,node,Lou Pastrouil,restaurant,Nice,,,https://loupastrouil.fr,43.6968751,7.27432
+10923821810,node,Mamie Jany,restaurant,Nice,,,,43.6976447,7.2681668
+10924831711,node,Comptoir du Marché,restaurant,Nice,,,https://www.comptoirdumarche.fr/,43.6974968,7.2750103
+10925760944,node,Anantara,hotel,Nice,,,https://www.anantara.com/en/plaza-nice,43.6967774,7.268246
+10926177382,node,Le Tire Bouchon,restaurant,Nice,,,https://www.le-tire-bouchon.com/,43.6965732,7.2753941
+10926244971,node,O'Staff,restaurant,Nice,,,https://restaurant-o-staff-nice.fr,43.700871,7.2669357
+10926279781,node,Lyonnais,hotel,Nice,,,,43.7026539,7.2655966
+10926982345,node,Le Bistro d'Aqui,restaurant,Nice,,,https://www.bistrodaqui-nice.com/,43.696835,7.2753468
+10926982347,node,Marinette,restaurant,Nice,,,https://www.restaurantmarinette.fr/,43.6970645,7.2753254
+10926982352,node,Ville de Sienne,restaurant,Nice,,,,43.6969117,7.2750648
+10929276384,node,Pachamama,restaurant,Nice,,,,43.6976994,7.2762458
+10929360563,node,Mascareignes,restaurant,Nice,,,https://mascareignes-cafe.fr/,43.6965371,7.2763208
+10929360568,node,Bella Ciao,restaurant,Nice,,,,43.6962949,7.2769935
+10931864868,node,Kesar,restaurant,Nice,,,,43.7012675,7.2662558
+10936280403,node,Angelo,restaurant,Nice,,,https://boscolocollection.com/nice/en/angelo-terra-ditalia-restaurant/,43.6999596,7.2655034
+10937003735,node,Mets Vins Chics,restaurant,Nice,,,,43.7293741,7.3618269
+10940665607,node,BBS,restaurant,Nice,,,,43.6894191,7.3336516
+10945663806,node,Chez malika,restaurant,Nice,"5 Rue Honoré Augier, 06190",06190,,43.7646353,7.4849418
+10959575288,node,Bistrot Rossetti,restaurant,Nice,,,,43.6973144,7.2766332
+10959575293,node,Dona,restaurant,Nice,,,,43.6976393,7.2768954
+10968260278,node,L'alternative,restaurant,Nice,,,,44.0701306,7.1753705
+10969661707,node,Le Banthai,restaurant,Nice,,,https://lebanthai.fr/,43.6970382,7.2771455
+10970555469,node,Casa Becchio,restaurant,Nice,,,,43.6982366,7.2729103
+10970555471,node,Saporedipane,restaurant,Nice,,,,43.6984131,7.2736318
+10970897103,node,Seaside Cafe,restaurant,Nice,4 Avenue Denis Semeria,,,43.6896492,7.3333656
+10973347452,node,La P'tite Cocotte,restaurant,Nice,,,https://www.la-ptitecocotte-nice.com/,43.6991679,7.27896
+10973907417,node,Perlone,restaurant,Nice,1 Rue Defly,,,43.7015894,7.2777846
+10973907420,node,Cibo,restaurant,Nice,,,,43.7018875,7.2775405
+10973907461,node,Battambang Food,restaurant,Nice,12 Avenue Saint-Jean-Baptiste,,https://battambang-food.com/,43.7021987,7.2782218
+10974532761,node,Les Compagnons de la Grappe,restaurant,Nice,,,https://lescompagnonsdelagrappe.com/,43.7002257,7.2807337
+10974532771,node,Roze,restaurant,Nice,11 Place Garibaldi,,,43.7005437,7.2808557
+10976172203,node,La Treille,restaurant,Nice,,,,43.6993279,7.2790781
+10977101566,node,Palais Saleya,hotel,Nice,,,https://www.palaissaleya.com/,43.6970745,7.2742796
+10982611860,node,Rouge,restaurant,Nice,2 Rue de Foresta,,https://rouge-restaurant.fr/,43.6972394,7.2827118
+10984926136,node,Chez Les Garçons,restaurant,Nice,28 Rue Catherine Segurane,,https://www.chezlesgarcons.fr/,43.6984169,7.2821492
+10992398775,node,La Trattoria,restaurant,Nice,,,,43.7736134,7.4973675
+11007276949,node,Le Bam chez Agnes,restaurant,Nice,4 Rue Martin Seytour,,,43.7004198,7.2824833
+11010740105,node,O'Braisé,restaurant,Nice,17 Avenue François Mitterrand,,https://www.obraise-restaurants.fr/detail-restaurant/restaurant-o-braise-nice,43.7099883,7.2881916
+11011216610,node,Novotel Nice Aeroport Arenas,hotel,Nice,"455 Promenade des Anglais, 06000",06000,,43.667112,7.2142531
+11014685870,node,l'insolent,restaurant,Nice,26 Boulevard Victor Hugo,,,43.6993594,7.2635883
+11014685874,node,Miamici,restaurant,Nice,,,,43.6996122,7.2644731
+11017483595,node,L'Evelina,restaurant,Nice,,,,43.6972466,7.2751944
+11017531397,node,La Cave du Fromager,restaurant,Nice,,,https://www.lacavedufromager.fr/,43.696723,7.276796
+11018973475,node,Zeniro,restaurant,Nice,,,https://www.zenirorestaurants.com,43.7014842,7.2793463
+11026484720,node,Nuances,restaurant,Nice,,,https://www.nuances-restaurant.com/,43.6991907,7.2835292
+11026484722,node,Jadis,restaurant,Nice,,,,43.6991475,7.2838625
+11027171845,node,Ruines,restaurant,Nice,,,,43.699036,7.2860411
+11027171846,node,Peche chez Bati,restaurant,Nice,,,,43.6989163,7.2855616
+11028323205,node,Lavomatique,restaurant,Nice,,,https://lavomatique-restaurant.business.site/,43.6975472,7.2761753
+11029527552,node,Bella Bay,restaurant,Nice,,,https://bella-bay.fr/,43.6982489,7.269713
+11062073205,node,Bocca Mar,restaurant,Nice,15 Promenade des Anglais,,https://www.boccamar.com/,43.6945033,7.2631344
+11076482374,node,La Faïss'a Pizzz,restaurant,Nice,2 Avenue Jean Médecin,,,43.8779538,7.4471579
+11077306630,node,La vie est belle,restaurant,Nice,,,,43.8773127,7.4473164
+11077306635,node,L'estabi,restaurant,Nice,,,,43.877118,7.4494824
+11077306645,node,Le Cerf,restaurant,Nice,,,,43.8783785,7.4493908
+11080430372,node,Le Picoun,restaurant,Nice,"15 Avenue Jean Médecin, 06380, Sospel",06380,https://picoun.fr/,43.8777514,7.4479756
+11082694355,node,Pizzburger Dinner,restaurant,Nice,,,,43.8771033,7.4487806
+11083930064,node,lagom,restaurant,Nice,,,,43.7758101,7.5042008
+11118514878,node,Restaurant L'Hippocampe,restaurant,Nice,44 Avenue Sir Winston Churchill,,https://www.hippocampe-restaurant.com/,43.7540604,7.4847586
+11118566230,node,Loulou Pirate,restaurant,Nice,46 Avenue Winston Churchill,,https://www.loulou-pirate.com/,43.7556752,7.4830554
+11128425205,node,Hôtel Menton Riviera,hotel,Nice,"57 Avenue de Sospel, 06505",06505,,43.7799737,7.4934923
+11133404405,node,Twenty Business Flats - Résidence Hôtelière,hotel,Nice,,,https://www.twentybusinessflats.com/,43.7092792,7.2922632
+11149697673,node,Diva,restaurant,Nice,,,,43.6879893,7.3358132
+11149800428,node,Green Meridia,restaurant,Nice,"25 Avenue Simone Veil, 06200, Nice",06200,https://green-meridia.eatbu.com/,43.679958,7.2038764
+11149800429,node,O'Grill Bleu,restaurant,Nice,"25 Avenue Simone Veil, 06200, Nice",06200,,43.6798779,7.203327
+11149874959,node,Chez Tonton,restaurant,Nice,"208 Boulevard du Mercantour, 06200, Nice",06200,,43.6785734,7.2030902
+11149874960,node,Brasserie St Vincent,restaurant,Nice,"83 Avenue Simone Veil, 06200, Nice",06200,https://www.facebook.com/stvincentbrasserie/,43.684379,7.202238
+11149874961,node,Lou papa,restaurant,Nice,"54 Avenue Simone Veil, 06200, Nice",06200,https://agencemd.wixstudio.com/loupapa,43.6832328,7.2037097
+11157927391,node,Le Bavastro,restaurant,Nice,,,https://lebavastro.com/,43.7007445,7.285405
+11162779707,node,Asie Riviera,restaurant,Nice,,,https://www.nicetnl.fr/project/cafe-delfino/,43.7064314,7.2869232
+11165679894,node,La Maison de Marie,restaurant,Nice,,,https://www.lamaisondemarie.com/,43.6975273,7.2687006
+11172454205,node,Delizi,restaurant,Nice,,,https://delizidalpozzo.fr/,43.6971817,7.2617201
+11172454206,node,Ma Yucca,restaurant,Nice,,,https://mayucca.fr/,43.6969707,7.2609476
+11172454208,node,Toné Géorgien,restaurant,Nice,,,https://tonegeorgien.business.site/,43.6971324,7.2605701
+11187616302,node,Maison Joia,restaurant,Nice,,,https://maison-joia.com/,43.6994796,7.2567353
+11192648024,node,L'Antica,restaurant,Nice,,,https://lantica.fr/fr,43.7007444,7.2614345
+11192648025,node,Aria,hotel,Nice,,,,43.7008574,7.2614063
+11192678837,node,Tavlyn,restaurant,Nice,19 Avenue Auber,,https://www.instagram.com/tavlyn_nice/,43.7016597,7.2615458
+11200461847,node,Berlin,restaurant,Nice,8 Avenue Durante,,,43.7022482,7.2626837
+11200461852,node,Le Buggy,restaurant,Nice,6 Avenue Durante,,,43.7019307,7.2627072
+11203485861,node,Saint Gothard,hotel,Nice,,,,43.703987,7.2639598
+11203485866,node,66,hotel,Nice,,,,43.704625,7.2644573
+11203485867,node,Gusti,restaurant,Nice,37 bis Rue d'Angleterre,,,43.7046938,7.2645459
+11210620856,node,Tonton Barbac,restaurant,Nice,,,https://www.privateaser.com/lieu/48168-tonton-barbac,43.7146819,7.2623511
+11241175269,node,Cave Marta,restaurant,Nice,,,,43.6982047,7.2659495
+11242196311,node,Giorgia,restaurant,Nice,,,,43.6978167,7.2711914
+11249128546,node,Lou Pistou,restaurant,Nice,,,,43.6965582,7.2731148
+11266253652,node,Le Millefonds,restaurant,Nice,,,,44.0666376,7.2010781
+11286174299,node,Caruso,restaurant,Nice,,,,43.6975317,7.2748985
+11286468013,node,Omura,restaurant,Nice,,,,43.6974396,7.2663108
+11286468016,node,Socca Da Titin,restaurant,Nice,,,,43.6976156,7.2666893
+11315116886,node,Téta Marie,restaurant,Nice,,,https://www.tetamarie.com/,43.6961719,7.2617176
+11315116887,node,Hanoï Opéra,restaurant,Nice,,,,43.6962408,7.2617018
+11327813720,node,l'antidote,restaurant,Nice,,,https://lantidotenice.fr,43.6963502,7.2616792
+11332898376,node,MI U MI,restaurant,Nice,,,,43.6977484,7.2757022
+11341136851,node,Wilson,restaurant,Nice,21 Rue de l'Hôtel des Postes,,,43.700263,7.2735997
+11341643561,node,Kavkaz,restaurant,Nice,16 Boulevard François Grosso,,,43.6961442,7.2518148
+11343356028,node,Léoléa,restaurant,Nice,,,,43.6895207,7.3342417
+11357612336,node,Le Bistrot de Jeff,restaurant,Nice,26 Rue Alberti,,https://www.lebistrotdejeffnice.com,43.7006174,7.2714304
+11357612340,node,L'Ovale,restaurant,Nice,,,,43.7006053,7.2711213
+11361323458,node,Le Montalbano,restaurant,Nice,21 Rue Delille,,,43.7021114,7.2744182
+11361323461,node,Le My,restaurant,Nice,16 Rue Foncet,,https://www.le-my.com/,43.7014638,7.2731034
+11361378971,node,Le Relax,restaurant,Nice,,,,43.7012898,7.2728808
+11366352078,node,Citron d'or,restaurant,Nice,"39 Avenue de Verdun, 06500, Menton",06500,,43.7753661,7.4951572
+11368530082,node,Apulia,restaurant,Nice,10 Rue Gioffredo,,,43.7024426,7.2765561
+11368530096,node,La Table de Brice,restaurant,Nice,16 Rue Delille,,,43.7017431,7.2759338
+11370378584,node,Caffe Gambetta,restaurant,Nice,,,,43.698765,7.2560392
+11377220591,node,Basilic & Co,restaurant,Nice,26 Rue Pastorelli,,,43.7009388,7.2715639
+11377220599,node,Flaveur,restaurant,Nice,25 Rue Gubernatis,,,43.7013005,7.2718374
+11377220607,node,Gillou,restaurant,Nice,30 Rue Alberti,,,43.70103,7.2711877
+11392843796,node,Xitlali,restaurant,Nice,,,https://www.xitlali.fr/,43.6990418,7.2833523
+11392843800,node,Asian Factory,restaurant,Nice,,,https://asianfactory.fr/,43.7009264,7.2830212
+11392843801,node,Prima Volta,restaurant,Nice,,,https://primavoltanice.fr/,43.7010075,7.2833973
+11392843802,node,L'Antica Trottoria,restaurant,Nice,,,https://anticatrattoria-nice.fr/fr,43.7009863,7.2844516
+11392843804,node,Les Agitateurs,restaurant,Nice,,,https://www.lesagitateurs.com/,43.7005164,7.2843652
+11402941302,node,Le Poppy,restaurant,Nice,,,,43.7023802,7.2884324
+11403973249,node,La Campagne,restaurant,Nice,,,,43.7323165,7.3895759
+11409414963,node,Residhome Appart Hotel Nice Promenade,hotel,Nice,3-5 Boulevard François Grosso,,https://www.residhome.com/residence-hoteliere-aparthotel-nice-263.html,43.6949358,7.2517943
+11460973976,node,Chez Max,restaurant,Nice,,,,43.6960005,7.2653107
+11494802535,node,La Pizza Sale e Pepe,restaurant,Nice,,,,43.702254,7.2733938
+11494802539,node,Bistrot Poète,restaurant,Nice,,,,43.701999,7.273202
+11496952881,node,That's Amore,restaurant,Nice,6 Avenue de Pessicart,,https://m.facebook.com/thatsamorenice/,43.7095705,7.2553872
+11497574859,node,Ammi,hotel,Nice,,,https://www.ammihotels.com/ammi-vieux-nice,43.6993579,7.2779375
+11497594950,node,Göz,restaurant,Nice,4 Rue Pierre Dévoluy,,https://goz-nice.fr/,43.7033292,7.274118
+11506512732,node,l'Olivier,restaurant,Nice,13 Rue Biscarra,,https://lolivier-nice.eatbu.com,43.7028139,7.2692719
+11506512733,node,Asia Cook,restaurant,Nice,,,,43.7027141,7.2689728
+11506774909,node,Nomad,restaurant,Nice,,,,43.6989628,7.2776002
+11513439396,node,Sushi Ya,restaurant,Nice,16 Rue Biscarra,,http://sushiya-nice.fr/,43.7029051,7.2690774
+11514317098,node,La Bonne Étoile,restaurant,Nice,,,https://labonneetoile-nice.fr/,43.7033423,7.27066
+11521816698,node,Sushi Arson,restaurant,Nice,,,https://sushiarson.com,43.701981,7.2851852
+11521816701,node,La Flara,restaurant,Nice,,,https://www.laflara.fr,43.7003021,7.2855466
+11522341242,node,Gioia,restaurant,Nice,,,https://www.gioianice.fr/,43.7024135,7.272107
+11522370986,node,Le Sun Sea,restaurant,Nice,3 Rue Valperga,,,43.7043079,7.2701644
+11528454616,node,Hit à Nissa !,restaurant,Nice,,,,43.7039709,7.2699621
+11542816338,node,La Grande Bleue,restaurant,Nice,,,,43.702552,7.2645958
+11554321878,node,Odalys Les Hauts de la Principauté,hotel,Nice,"31 Boulevard du Général Leclerc, 06240, Beausoleil",06240,https://www.odalys-vacances.com/location-mer/cote-d-azur/beausoleil/les-hauts-de-la-principaute.html,43.7452757,7.4282433
+11556727870,node,Los Amigos,restaurant,Nice,21 Avenue Auguste Vérola,,,43.7106397,7.1937524
+11560814430,node,Le Carino,restaurant,Nice,12 Avenue Notre-Dame,,,43.7044931,7.2691626
+11631032022,node,Berco,restaurant,Nice,,,https://www.berco-nice.com/,43.6973334,7.2749005
+11634218211,node,Comme un dimanche,restaurant,Nice,,,https://www.commeundimanche-nice.com,43.6998035,7.2849856
+11638526010,node,Assalit,restaurant,Nice,24 Rue Assalit,,,43.7058383,7.2665408
+11638526015,node,Le Leviathan,restaurant,Nice,29 Boulevard Raimbaldi,,,43.7061039,7.2660392
+11638526016,node,Rajmahal,restaurant,Nice,8 Rue Saint-Siagre,,https://rajmahal-nice.fr,43.7059314,7.2659433
+11649418161,node,La Maison WM,restaurant,Nice,18 bis Rue Pertinax,,https://wmnice06.wixsite.com/website,43.7056245,7.267672
+11649418164,node,Culiacan Taco,restaurant,Nice,48 Rue Lamartine,,,43.7056852,7.2668854
+11659176668,node,Le Nubuck,restaurant,Nice,18 Rue Assalit,,https://www.nubuck06.fr/,43.7061451,7.2674641
+11663207623,node,Côté Marais,restaurant,Nice,,,,43.6973892,7.2750219
+11663207634,node,Pirouette,restaurant,Nice,,,https://lesagitateurs.com/pirouette,43.7004822,7.2849602
+11673192056,node,Aradhana,restaurant,Nice,,,https://aradhana.fr/,43.700132,7.2873523
+11685357388,node,Maison F.,restaurant,Nice,,,https://www.restaurant-maisonf.com/,43.6953093,7.2859231
+11685357390,node,Le Pass'Port,restaurant,Nice,,,https://lepassportnice.com/,43.6954664,7.2859606
+11685357392,node,O'Cap,restaurant,Nice,,,,43.6956021,7.2859955
+11685357394,node,l'Orée du Port,restaurant,Nice,,,,43.695798,7.2860116
+11685357402,node,La Goelette,restaurant,Nice,,,,43.6965824,7.2862315
+11708608329,node,La Charbonnade,restaurant,Nice,,,https://la-charbonnade-nice.eatbu.com,43.6980548,7.277607
+11734397569,node,Quilombo,restaurant,Nice,4 Place Guynemer,,,43.6941989,7.2823471
+11751679217,node,Indigo,restaurant,Nice,,,,43.7015809,7.2884941
+11769273606,node,L'Heteroclite,restaurant,Nice,,,,43.697043,7.2767694
+11778581369,node,Civette de la Prefecture,restaurant,Nice,,,,43.6963783,7.2762718
+11780659950,node,Mother India,restaurant,Nice,,,https://motherindia.fr,43.6959953,7.2770631
+11795677295,node,Taouk,restaurant,Nice,,,https://taouknice.com/,43.6959483,7.2760096
+11802254451,node,Barbacane,restaurant,Nice,,,,43.6957039,7.2759171
+11802254452,node,Cose Cosi,restaurant,Nice,,,,43.69599,7.2755992
+11807301737,node,Onice,restaurant,Nice,,,https://www.restaurantonice.com/,43.6987866,7.2827938
+11809889154,node,L'Opera plage,restaurant,Nice,,,,43.6947343,7.2724973
+11826224847,node,Al Capone,restaurant,Nice,,,,43.6981154,7.2713533
+11840453069,node,Kooc Bao,restaurant,Nice,"1 Rue Biscarra, 06000",06000,https://www.kooc-bao.com/,43.7032204,7.2704277
+11840468369,node,Kooc Tea,restaurant,Nice,"9 Avenue du Maréchal Foch, 06000",06000,https://www.kooc-tea.com/,43.7036036,7.270048
+11841706274,node,Ou Pastre,restaurant,Nice,"Rue Trenca, 06500",06500,https://ou-pastre.eatbu.com/?lang=en#menu,43.7753116,7.5047208
+11848295931,node,Les Deux Canailles,restaurant,Nice,,,https://www.lesdeuxcanailles.com/,43.6982977,7.2715196
+11850666025,node,Brasserie de Castillon,restaurant,Nice,,,https://www.brasseriedecastillon.com,43.6990744,7.2837049
+11871959561,node,L'Olivula,restaurant,Nice,"13 Quai de l'Amiral Courbet, 06230, Villefranche-sur-Mer",06230,https://www.olivula-restaurant.fr,43.7039403,7.3122765
+11871959562,node,Dry,restaurant,Nice,"17 Quai de l'Amiral Courbet, 06230, Villefranche-sur-Mer",06230,https://www.dryrestaurant.com,43.7041179,7.3124534
+11871959563,node,Ancora,restaurant,Nice,"1 Quai de la Corderie, 06230, Villefranche-sur-Mer",06230,https://www.ancoravillefranche.fr/,43.6994878,7.3086526
+11876481028,node,Le Boudoir,restaurant,Nice,,,https://leboudoirnice.fr,43.6989236,7.2712058
+11876481029,node,Lou Tape,restaurant,Nice,,,https://www.loutape-nice.com/,43.6988329,7.2712608
+11879452567,node,Tigermilk,restaurant,Nice,,,https://tigermilkrestaurants.com,43.6998965,7.2693162
+11881893452,node,Le Patio,restaurant,Nice,,,https://www.hotel-la-perouse.com/restaurant-bar-terrasse/,43.693913,7.279416
+11881893453,node,Farago on the Roof,restaurant,Nice,,,https://www.faragoontheroof.com/,43.6940286,7.2530353
+11881893454,node,La Terrasse,restaurant,Nice,,,https://www.laterrasse-nice.com/,43.6952104,7.2657904
+11886403579,node,Provenciaga,restaurant,Nice,,,,43.6983665,7.2734414
+11893131393,node,Salette,restaurant,Nice,,,https://www.salette-restaurant.fr,43.7006679,7.2846364
+11898796575,node,La Plage,restaurant,Nice,,,https://www.hotel-negresco-nice.com/en/LE-NEGRESCO-BEACH,43.6938257,7.2579825
+11901113634,node,À l'infini,restaurant,Nice,,,,43.7045381,7.2903142
+11901125568,node,Le Richelieu,restaurant,Nice,,,,43.7039065,7.2902226
+11910508969,node,Alexandra,hotel,Nice,,,,43.756418,7.4819571
+11917509008,node,Grill house,restaurant,Nice,,,https://grillhousenice.com/,43.6995287,7.2864193
+11917932465,node,Asie Riviera,restaurant,Nice,,,,43.7005993,7.2868233
+11918060838,node,So'bella,restaurant,Nice,,,https://sobellarestaurant.com/,43.7013022,7.2872131
+11919734617,node,"La Table ""à"" Julie",restaurant,Nice,,,https://www.la-table-a-julie-restaurant-nice.com/,43.7033672,7.2884777
+11919850727,node,Le Eleven,restaurant,Nice,,,,43.7043424,7.2887644
+11919974124,node,L'Esterel,restaurant,Nice,,,https://lesterel.com,43.7050341,7.2891318
+11921600669,node,D'AQUÌ,restaurant,Nice,,,,43.698923,7.2835427
+11944750174,node,Bangkok,restaurant,Nice,,,,43.6969315,7.2656442
+11951937035,node,Club Inn,hotel,Nice,,,,43.6959696,7.2637171
+11952024570,node,Servella,restaurant,Nice,1 Avenue Auguste Vérola,,https://servella-restaurant-epicerie.com/,43.7108484,7.1962233
+11961118126,node,La Verrière,restaurant,Nice,,,,43.7078582,7.2631779
+11961118134,node,L'Instant,restaurant,Nice,,,https://www.linstant-nice.com/,43.708465,7.261981
+11970552671,node,Yaal,restaurant,Nice,16 Rue des Combattants d'Afrique du Nord,,,43.7069023,7.2598755
+11970552672,node,D'Art Bnet's,restaurant,Nice,6 Rue des Combattants d'Afrique du Nord,,https://www.dartbnets.fr,43.7063189,7.2598287
+11976414548,node,L'Atelier du Carnivore,restaurant,Nice,,,,43.6967074,7.2770649
+11978668929,node,Maison De Re,restaurant,Nice,23 Rue Marceau,,https://maison-de-re.com,43.7073007,7.265608
+11978781769,node,Ratapignata,restaurant,Nice,63 Avenue du Ray,,,43.7252238,7.2528494
+11978842572,node,La Marsa,restaurant,Nice,,,,43.6951103,7.2564449
+11980516673,node,Frisson,restaurant,Nice,,,,43.6975861,7.275543
+11983804650,node,Verdant,restaurant,Nice,21 Rue de l'Hôtel des Postes,,,43.7002156,7.2734863
+11985583107,node,Nissa Tamoul,restaurant,Nice,,,https://www.nissatamoul.com/,43.7045333,7.2888703
+11987672508,node,Basilic & Co,restaurant,Nice,,,https://basilic-and-co.com/restaurants/pizzeria-nice/,43.7090089,7.2606674
+11991752811,node,Flowers,restaurant,Nice,3 Rue Provana de Leyni,,,43.7024497,7.2713743
+12020527275,node,Big Pickle Cafe,restaurant,Nice,24 Rue Fontaine de la Ville,,https://www.bigpicklecafe.com/,43.7015918,7.2897992
+12057945970,node,Lyõde,restaurant,Nice,"8 Promenade de la Mer, 06500, Menton",06500,,43.7809537,7.5097388
+12064857376,node,King Sushi & Wok,restaurant,Nice,,,https://kingsushiandwok.com/,43.7043237,7.2819855
+12085369969,node,Jojo's,restaurant,Nice,,,https://jojo-s.fr/,43.7060264,7.2677616
+12088482469,node,Utopia,restaurant,Nice,"6 Rue Delille, 06000",06000,https://utopia-nice.com/,43.701286,7.2771497
+12091882719,node,Darcom,restaurant,Nice,,,,43.7033111,7.2640068
+12091892644,node,Restaurant Solidaire - Face06,restaurant,Nice,,,,43.703843,7.2641351
+12091892647,node,La Terrasse,restaurant,Nice,,,,43.7027238,7.2652513
+12091902376,node,China Town,restaurant,Nice,,,,43.7034897,7.2639855
+12091903561,node,Le Soleil d'Asie,restaurant,Nice,,,,43.7035675,7.2639692
+12091904807,node,Cave à Jazz,restaurant,Nice,,,,43.7037376,7.2646133
+12091910063,node,China 12,restaurant,Nice,,,,43.7039326,7.2636248
+12091919197,node,Zen,restaurant,Nice,,,,43.7035868,7.264453
+12091919726,node,Ishtar,restaurant,Nice,29 Rue Paganini,,,43.7041207,7.2637327
+12091925666,node,L'Oli,restaurant,Nice,,,,43.7341605,7.3026825
+12091926514,node,Real Tacos,restaurant,Nice,,,,43.7046884,7.2647619
+12091926515,node,Baguettes d'argent,restaurant,Nice,26 Rue d'Angleterre,,,43.7042086,7.264691
+12092011106,node,So.Casa,restaurant,Nice,,,,43.8775459,7.4480235
+12105771742,node,Lou Pitchoun,restaurant,Nice,"34 Rue Docteur Cagnoli, 06450, Saint-Martin-Vésubie",06450,,44.0691782,7.2565076
+12105867082,node,La Treille,restaurant,Nice,"68 Rue Docteur Cagnoli, 06450, Saint-Martin-Vésubie",06450,https://la-treille-restaurant-saint-martin-vesubie.eatbu.com/,44.070091,7.2571009
+12118377776,node,Solenzara,restaurant,Nice,4 Promenade Robert Schuman,,https://plage-solenzara.fr,43.7640697,7.486783
+12148001242,node,L'Escapade,hotel,Nice,15 Boulevard Lcl Marcel Pourchier,,,44.0950187,6.9884953
+12148018670,node,Génépi Hotel,hotel,Nice,,,,44.0946838,6.9890059
+12148116712,node,Le Restaurant,restaurant,Nice,12 Rue du Comté de Beuil,,,44.095138,6.9875233
+12148175831,node,Le Grand Cerf,restaurant,Nice,,,,44.0998289,6.9876101
+12157307779,node,DoubleTree by Hilton Nice Centre Iconic,hotel,Nice,,,https://www.hilton.com/en/hotels/ncefrdi-doubletree-nice-centre-iconic/,43.7050612,7.2634499
+12171847845,node,Dragon d'asie,restaurant,Nice,,,,43.6679077,7.213548
+12181811601,node,Mange Voyage Aime,restaurant,Nice,,,,43.7035191,7.2854349
+12211209041,node,La Casbah,restaurant,Nice,"3 Rue du Docteur Albert Balestre, 06000, Nice",06000,https://lacasbah-nice.fr/,43.7025692,7.2694522
+12229276270,node,Ao House,restaurant,Nice,,,,43.7043853,7.285
+12252840068,node,La Medusa,restaurant,Nice,,,,43.8218896,7.1911062
+12299354804,node,Gounod,hotel,Nice,,,https://www.gounod-nice.fr/,43.6991407,7.2600277
+12299771699,node,Le Bistrot des Serruriers,restaurant,Nice,,,,43.6973635,7.2783076
+12299771700,node,Hôtel du Couvent,hotel,Nice,,,https://www.hotelducouvent.com/,43.697649,7.2786449
+12299789913,node,Colita,restaurant,Nice,,,,43.698988,7.2816993
+12299789916,node,Palais Segurane,hotel,Nice,,,https://www.palaissegurane.com/,43.6988455,7.2818682
+12299918301,node,Biera d'Aqui,restaurant,Nice,"63 Avenue Cernuschi, 06500",06500,https://biera-daqui-06.fr/,43.7741506,7.4893856
+12301580101,node,Le Bonjour,restaurant,Nice,,,,43.7097456,7.2612751
+12301922902,node,Gare du Sud,restaurant,Nice,,,,43.7092744,7.2612541
+12314304088,node,Braise,restaurant,Nice,,,,43.7097263,7.2612011
+12320485366,node,Jardin d'Afrique,restaurant,Nice,,,,43.7076565,7.2659178
+12320485384,node,Yelo Mozart,hotel,Nice,,,https://www.sonder.com/en-gb/destinations/nice/yelo-mozart/c37093,43.6998888,7.262152
+12323023277,node,,restaurant,Nice,,,,43.7844646,7.5197096
+12323065094,node,,restaurant,Nice,,,,43.7747735,7.5045353
+12323068363,node,,restaurant,Nice,,,,43.7734672,7.5001926
+12323073037,node,,restaurant,Nice,,,,43.7774065,7.5075864
+12323081317,node,,restaurant,Nice,,,,43.7844646,7.5197096
+12323086770,node,,restaurant,Nice,,,,43.7769329,7.5078204
+12323093832,node,,hotel,Nice,,,,43.774759,7.50391
+12323095648,node,,restaurant,Nice,,,,43.7775125,7.5075376
+12323193521,node,La Flamme D'Or,restaurant,Nice,31 Boulevard de la Madeleine,,,43.6958696,7.2420492
+12323368757,node,,restaurant,Nice,,,,43.7712924,7.4960075
+12323421905,node,,restaurant,Nice,,,,43.7274285,7.4114871
+12327342134,node,Essamba Long Courrier,restaurant,Nice,,,,43.7059576,7.2655849
+12327342140,node,Piccolo Mondo,restaurant,Nice,,,https://www.piccolo-mondo-restaurant-nice.fr/,43.7001661,7.264577
+12329420922,node,Biogstore,restaurant,Nice,,,https://biogstore.com/,43.7027169,7.2675103
+12345759468,node,Le Frenchie,restaurant,Nice,,,,43.7042265,7.2843329
+12345759469,node,Chefoo,restaurant,Nice,,,,43.7042966,7.284375
+12345759480,node,Adagio,hotel,Nice,,,https://www.adagio-city.com/fr/hotel-B2H8-aparthotel-adagio-nice-centre/index.shtml,43.7051382,7.2848902
+12365246053,node,Taulissa,restaurant,Nice,,,,43.6965194,7.2666005
+12365246054,node,Le Victoria,hotel,Nice,,,https://maison-albar-hotels-le-victoria.com/,43.6964506,7.2664838
+12378437126,node,La Dinette,restaurant,Nice,,,,43.6985997,7.2669706
+12382053291,node,Shazi,restaurant,Nice,,,https://www.shazi.fr/,43.6962033,7.261169
+12382541837,node,Hôtel Liberty,hotel,Nice,5 bis Rue Berlioz,,,43.6991173,7.2590257
+12390598946,node,El Kantaoui,restaurant,Nice,,,,43.7060453,7.2562256
+12390598953,node,Khae Sarap,restaurant,Nice,,,https://khaesarap-nice.com/,43.7060133,7.2573575
+12398101809,node,Le Golden,restaurant,Nice,,,https://www.casinosbarriere.com/fr/nice/le-golden-restaurant.html,43.6953587,7.2658159
+12402681348,node,Mani,restaurant,Nice,,,,43.6963134,7.2650722
+12404539198,node,Le Taj'Nice,restaurant,Nice,,,,43.6945753,7.256455
+12404584611,node,Lido,hotel,Nice,,,https://www.nicehome.studio/,43.6951861,7.2578752
+12407323505,node,Grillades de l'Avenue,restaurant,Nice,,,,43.7035178,7.2815055
+12407323516,node,Armavir,restaurant,Nice,,,https://armavir-nice.fr/fr,43.7037805,7.2810146
+12416520988,node,Vogue d'Asie,restaurant,Nice,,,,43.6991897,7.2656013
+12452885355,node,L'Ormeau,restaurant,Nice,,,,43.8035114,7.4968708
+12475649333,node,Le Schuss,restaurant,Nice,,,,44.176668,7.1553792
+12497967653,node,L'Oiseau d'Été,restaurant,Nice,,,,43.6966307,7.2618427
+12507224737,node,Relais Acropolis,hotel,Nice,,,https://www.hotel-relais-acropolis.com/,43.7056008,7.2822706
+12529701546,node,Carlos & Maria,restaurant,Nice,,,,43.7086279,7.2561908
+12531990812,node,Le Libey,restaurant,Nice,,,,43.709988,7.2589052
+12533779248,node,La Tonnelle,restaurant,Nice,,,https://la-tonnelle.eatbu.com,43.7048227,7.2559614
+12543956348,node,Canoun Dou Miejou,restaurant,Nice,,,,43.7033646,7.2821297
+12563738104,node,Hôtel des Dames,hotel,Nice,,,,43.7050162,7.283385
+12585286052,node,Castel,restaurant,Nice,,,,43.7035222,7.2839114
+12596574903,node,Délices de Corse,restaurant,Nice,,,,43.7048397,7.284012
+12596574904,node,Giovanni,restaurant,Nice,,,,43.704895,7.2837994
+12600570934,node,Les Acacias,restaurant,Nice,,,,43.9547728,6.911023
+12600893891,node,Chez Margot,restaurant,Nice,,,,43.7019142,7.2853987
+12603434080,node,La Chaumière,restaurant,Nice,"384 Boulevard de l'Observatoire, 06300, Nice",06300,https://la-chaumiere-nice.com/,43.7167876,7.3122506
+12612795001,node,Jacques en terrasse,restaurant,Nice,,,,43.6954903,7.2747158
+12633138933,node,,restaurant,Nice,,,,43.7627106,7.4804047
+12636217905,node,Le Figuier,restaurant,Nice,"51 Rue de Roquebillière, 06300, Nice",06300,https://lefiguiernice.fr/,43.7103749,7.2881407
+12660867858,node,Chez Garpo,restaurant,Nice,,,,43.7116399,7.2650756
+12660888927,node,Cave Villermont,restaurant,Nice,,,,43.7109235,7.2631913
+12674264382,node,Pompette,restaurant,Nice,,,,43.700599,7.2814921
+12674264394,node,Les Filous,restaurant,Nice,,,,43.7037524,7.2868954
+12674264400,node,Chez Angelo,restaurant,Nice,,,,43.7044141,7.287289
+12681090425,node,Bouchet,restaurant,Nice,,,https://coquillagesbouchetnice.fr/,43.6990754,7.2855912
+12685399101,node,Mian,restaurant,Nice,,,,43.7035781,7.2815752
+12685556802,node,Kagura,restaurant,Nice,,,,43.7045735,7.2642575
+12687171804,node,Maison Joia,restaurant,Nice,,,https://maison-joia.com,43.6993693,7.2743442
+12692888296,node,MAMA Shelter Nice,hotel,Nice,21 Boulevard de Riquier,,https://mamashelter.com/nice/,43.7028789,7.2890237
+12692888297,node,Grazie Mille,restaurant,Nice,,,,43.7032027,7.2893214
+12698919692,node,La Casa di Gadia,restaurant,Nice,,,,43.720223,7.2962435
+12698976212,node,Bienvenue en Asie,restaurant,Nice,"12 Rue Alberti, 06000, Nice",06000,https://bienvenue-en-asie.com/,43.6995738,7.2720065
+12712865771,node,La Grillade Niçoise,restaurant,Nice,,,,43.7074683,7.2840839
+12713012172,node,Le Grand Aigle,restaurant,Nice,"14 Avenue François Mitterrand, 06300, Nice",06300,,43.7098011,7.2866307
+12717045336,node,Al Vecchio Forno,restaurant,Nice,39 Quai Bonaparte,,,43.7777906,7.5073984
+12717062934,node,,restaurant,Nice,,,,43.7785496,7.5071501
+12717072406,node,,restaurant,Nice,,,,43.7808117,7.5089474
+12717073622,node,restaurant Primo,restaurant,Nice,25 Quai Bonaparte,,,43.7771504,7.5077109
+12742153335,node,Le Joseph,restaurant,Nice,,,,43.7110495,7.192499
+12742153338,node,Gigi Tavola,restaurant,Nice,,,,43.7105415,7.1930489
+12742153339,node,Hôtel Isidore,hotel,Nice,27 Avenue Auguste Vérola,,https://www.soniho.com/hotels/hotel-isidore/,43.7105328,7.1929336
+12768426701,node,Les mimosas du cours,restaurant,Nice,,,https://www.lesmimosasducours.com/,43.6952932,7.2767877
+12778309593,node,La Melina,restaurant,Nice,,,,43.7070516,7.283375
+12778329709,node,Amande & Pistache,restaurant,Nice,,,,43.7066619,7.2833186
+12778843537,node,Hôtel de Belgique,hotel,Nice,,,,43.7751906,7.4944884
+12782563321,node,Da Franci,restaurant,Nice,,,,43.7754025,7.5051057
+12802524879,node,,restaurant,Nice,,,,44.0895908,6.8532501
+12812009001,node,La Vela,restaurant,Nice,,,,43.6928811,7.253577
+12821080873,node,Jan et Djina,restaurant,Nice,,,,43.7837174,7.2430973
+12823752636,node,Couleurs Café,restaurant,Nice,,,,43.7072683,7.2866178
+12829706616,node,Le Garçons,restaurant,Nice,Villefranche-sur-Mer,,,43.7039017,7.3117573
+12834049929,node,Le Soleia,hotel,Nice,,,https://www.lesoleiahotel.com/,43.6986674,7.2602126
+12895070262,node,Le Petit Bouchon,restaurant,Nice,,,,43.6934587,7.251163
+12914013199,node,Danemark,hotel,Nice,,,https://www.hotel-danemark.com,43.6944104,7.2506842
+12994665430,node,Le Goût des Crêpes,restaurant,Nice,,,https://restaurants-de-france.fr/fr/le-gout-des-crepes-nice-2155592.html,43.702883,7.2709325
+13018703349,node,Le Rendez Vous,restaurant,Nice,"54 Rue Docteur Cagnoli, 06450, Saint-Martin-Vésubie",06450,,44.069759,7.2568607
+13018707094,node,La Cave,restaurant,Nice,"60 Rue Docteur Cagnoli, 06450, Saint-Martin-Vésubie",06450,,44.0698926,7.2569745
+13018796191,node,La Dame De Cœur,restaurant,Nice,"20 Rue Docteur Cagnoli, 06450, Saint-Martin-Vésubie",06450,,44.068833,7.2561767
+13028289222,node,Resto Paysan,restaurant,Nice,"401 Promenade Georges Clemenceau, 06540, Breil-sur-Roya",06540,,43.941628,7.5177786
+13041052501,node,Bella Vista,restaurant,Nice,"1 Place Saint-Jean, 06450",06450,https://le-bellavista.fr/,44.0534934,7.2533611
+13058579255,node,La Perle Noir - MENTON,restaurant,Nice,"7 Porte de France, 06500, Menton",06500,,43.7790808,7.5070044
+13063203763,node,Le Bizcott de la Casa Roya,restaurant,Nice,"37 Boulevard Rouvier, 06540, Breil sur Roya",06540,,43.9366347,7.5139327
+13121607373,node,La halte de Gairaut,restaurant,Nice,"141 Avenue de Gairaut, 06100",06100,https://lahaltedegairaut.fr,43.7341032,7.2618409
+13145218722,node,Yelo,hotel,Nice,,,,43.690967,7.2449094
+13150821125,node,Restaurant du Club Bouliste,restaurant,Nice,,,,43.7271866,7.4133912
+13176492456,node,La Pétanque,restaurant,Nice,,,,43.6977471,7.3065912
+13180392678,node,La cave de Peixes,restaurant,Nice,,,,43.699751,7.2811378
+13183777178,node,Asia Sushi & Wok,restaurant,Nice,,,,43.7105019,7.2560527
+13185791735,node,La délicieuse,restaurant,Nice,,,,43.7044217,7.2559415
+13185824670,node,Le Mékong,restaurant,Nice,,,,43.7067065,7.2559291
+13186501753,node,Wok Viet,restaurant,Nice,25 Avenue Alfred Borriglione,,https://www.facebook.com/WokVietNice,43.7132668,7.2615728
+13198537840,node,,restaurant,Nice,,,,43.9409566,7.4134849
+13200945353,node,Le Mahou,restaurant,Nice,,,,43.7045845,7.2815675
+13250260853,node,Issa,restaurant,Nice,,,,43.6977471,7.1982776
+13256378909,node,MARMAR,restaurant,Nice,,,,43.6993474,7.2846681
+13256378910,node,Épicentre,restaurant,Nice,,,https://restaurant-epicentre.com,43.6990647,7.2857191
+13267047921,node,,restaurant,Nice,,,,43.721412,7.2605694
+13267065312,node,Pizza Square,restaurant,Nice,,,,43.7159998,7.2613062
+13267089873,node,Ramen Litolito,restaurant,Nice,,,,43.7160361,7.2612989
+13285150357,node,Calade,restaurant,Nice,,,,43.6844395,7.234886
+13306710101,node,Nhà Quê,restaurant,Nice,2 Place Saetone,,,43.7038795,7.2646936
+13337920591,node,Chez Papy André,restaurant,Nice,,,https://chezpapyandre.com/,43.698079,7.2771778
+13347785892,node,Smokemeat,restaurant,Nice,,,https://smokmeat-nice.fr/fr,43.696181,7.2860525
+13376754374,node,L’Authentique,restaurant,Nice,,,https://lauthentiquepizza.com/la-carte-pizzeria-liberation/,43.7113582,7.2587864
+13377931266,node,Ambassador,hotel,Nice,,,https://hotelambassador-nice.com/en/,43.6964845,7.2660318
+13516500617,node,La Cabane,restaurant,Nice,,,,44.2325996,6.8893523
+13522521627,node,Les Tilleuls,restaurant,Nice,,,,43.9745746,7.3122044
+13522867392,node,Lou Gust,restaurant,Nice,,,,43.9745701,7.3113496
+13556470476,node,Sushi Sun,restaurant,Nice,75 Avenue Simone Veil,,,43.6841239,7.2023653
+13570676548,node,L’inizio,restaurant,Nice,342 Avenue Sainte-Marguerite,,https://restaurant-inizio.fr,43.6970119,7.199768
+13577416201,node,Mont Goût,restaurant,Nice,7 Rue de Prato,,https://www.instagram.com/montgout/,43.7740651,7.4995165
+13577441001,node,Le Rouge-gorge,restaurant,Nice,5 Rue Max Barel,,https://www.instagram.com/lerougegorge_restaurant/,43.7750497,7.5018889
+13618444694,node,Nemea,hotel,Nice,,,https://en.nemea-appart-hotel.com/france/paca-region/alpes-maritimes/nice/riviera-nice-aeroport-11,43.6704541,7.2227345
+13618470432,node,,restaurant,Nice,,,,43.7840662,7.5164546
+13618507993,node,,restaurant,Nice,,,,43.7763634,7.5076089
+13618510581,node,,restaurant,Nice,,,,43.702883,7.3294458
+13623209261,node,O'Select,restaurant,Nice,,,,43.6793016,7.2284755
+13645041848,node,Iceberg,restaurant,Nice,,,,43.7757578,7.5054081
+13665785142,node,Cow Club,restaurant,Nice,,,,44.1831907,7.1612459
+13666240961,node,Brasserie Cantina De La Bourse,restaurant,Nice,,,,43.6988562,7.2779386
+13675232912,node,Koyo,restaurant,Nice,,,https://www.koyonice.com/,43.7031492,7.2672585
+13684107002,node,Le Siècle Royal,restaurant,Nice,"6 Avenue Gustave Eiffel, 06200",06200,,43.7086573,7.1908605
+13694806522,node,Le Lilly's,restaurant,Nice,,,,43.8008262,7.4615327
+13703291536,node,Jamie Oliver's Pizzeria,restaurant,Nice,,,,43.6590693,7.2059704
+13720253017,node,Greet,hotel,Nice,,,https://all.accor.com/hotel/C229/index.fr.shtml,43.6701872,7.2223507
+13720253024,node,René cantine,restaurant,Nice,,,,43.6705024,7.2219202
+13720495902,node,Grand Café des Fleurs,restaurant,Nice,,,https://www.grandcafedesfleurs.com/,43.6958651,7.2739682
+13721357901,node,Colombale,restaurant,Nice,,,,43.7729425,7.4993095
+13815609732,node,Estivale,restaurant,Nice,,,,43.6597975,7.2058407
+13885396901,node,Residhome Apparthotel,hotel,Nice,455 Promenade des Anglais,,,43.6683548,7.2132184
+13888425725,node,,restaurant,Nice,,,,44.0722659,7.1676095
+13888425726,node,Lou Sangàri,restaurant,Nice,,,,44.0718554,7.168213
+13904752363,node,Cibo,restaurant,Nice,,,,43.7151959,7.2616544
+13966116918,node,Le p'tit gourmet,restaurant,Nice,"10 Place Carnot, 06440, Peille",06440,,43.8030677,7.4013133

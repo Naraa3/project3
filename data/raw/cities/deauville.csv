@@ -1,0 +1,54 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+1830266293,node,Au 121,restaurant,Deauville,,,,49.3561505,0.0711281
+1830266295,node,Les Petits Princes,restaurant,Deauville,,,https://brasserie-lespetitsprinces.com/fr/,49.3594887,0.0749307
+1830266305,node,Le patio,hotel,Deauville,,,,49.3562369,0.0706727
+1861607605,node,Bar du Soleil,restaurant,Deauville,,,,49.3608048,0.0667471
+1861607608,node,Le Brummel,restaurant,Deauville,,,,49.3592509,0.0692724
+1864496142,node,Hôtel du Polo,hotel,Deauville,33 Boulevard Mauger,,https://du-polo.hotels-deauville.com/fr/,49.3582694,0.0795311
+1864496161,node,La Côte Fleurie,hotel,Deauville,55 Avenue de la République,,https://www.hoteldelacotefleurie.com/fr/,49.3580621,0.0763262
+1864496184,node,Le Chantilly,hotel,Deauville,,,,49.3582894,0.0762637
+1864496202,node,Marion,restaurant,Deauville,14800,14800,,49.3585643,0.0769134
+1864496205,node,Le Pur Sang,restaurant,Deauville,14 Rue de l'Avenir,,,49.3582181,0.0788493
+1864496232,node,Santa Lucia,restaurant,Deauville,,,,49.3592532,0.0796513
+2441146558,node,L'essentiel,restaurant,Deauville,29 Rue Mirabeau,,https://lessentieldeauville.com/,49.3600808,0.0793646
+2967132769,node,Berbère Club,restaurant,Deauville,,,,49.3592486,0.0769693
+3415116108,node,Il Parasole,restaurant,Deauville,,,,49.3592757,0.0725986
+3415175193,node,L'Institution,restaurant,Deauville,"79 Rue Général Leclerc, 14800, Deauville",14800,,49.3593407,0.0724105
+3415175394,node,Le Drakkar,restaurant,Deauville,,,https://www.ledrakkar-deauville.com/,49.3594306,0.0734671
+3415201995,node,Yacht Café,restaurant,Deauville,,,,49.3605741,0.0781992
+3415274893,node,Ibis,hotel,Deauville,9 Quai de la Marine,,https://all.accor.com/hotel/0795/index.fr.shtml,49.3603643,0.0805689
+3415274895,node,Le Berbère,restaurant,Deauville,11 Quai de la Marine,,,49.3602335,0.0806756
+3415274896,node,Mercure,hotel,Deauville,,,,49.3611253,0.0799864
+5353288380,node,Villa Odette,hotel,Deauville,,,,49.3576642,0.0737654
+7683180486,node,La Cantine de Deauville,restaurant,Deauville,"90 Rue Eugène Colas, 14800, Deauville",14800,http://lacantinedeauville.fr/,49.3596008,0.0733833
+9709246815,node,L'Odyssée,restaurant,Deauville,2 Rue Désiré le Hoc,,https://www.lodyssee-deauville.fr/,49.3599874,0.0807881
+9709265724,node,Augusto,restaurant,Deauville,,,https://www.restaurant-augusto.com/,49.3596808,0.0784345
+9709296677,node,Villa Leona,restaurant,Deauville,,,,49.3599219,0.079565
+9721876417,node,Maximin Hellio,restaurant,Deauville,"64 Rue Gambetta, 14800, Deauville",14800,,49.3591011,0.0768938
+9738300243,node,Week-end,restaurant,Deauville,,,,49.3607013,0.0761723
+9738435617,node,Almoria,hotel,Deauville,,,,49.3585859,0.0777916
+10123266082,node,Chez Clairon,restaurant,Deauville,,,,49.3602434,0.0769046
+10123267534,node,Le comptoir & la table,restaurant,Deauville,"1 Quai de la Marine, 14800, Deauville",14800,https://lecomptoiretlatable.fr/,49.3625196,0.0791468
+10172316117,node,,hotel,Deauville,,,,49.3603406,0.0738004
+10206775151,node,La Plancha,restaurant,Deauville,"57 Avenue de la République, 14800, Deauville",14800,https://laplancha-deauville.com/,49.3580142,0.0761949
+10209347646,node,La Terrasse,restaurant,Deauville,,,,49.3620774,0.0699672
+10300292176,node,Le Bouillon Morny,restaurant,Deauville,"7 Rue Breney, 14800, Deauville",14800,https://www.bouillonmorny.fr,49.3603165,0.0787973
+10928622510,node,Novotel,hotel,Deauville,"17 Boulevard Eugène Cornuché, 14800, Deauville",14800,,49.3611626,0.0724525
+11462394970,node,Marie-Anne,hotel,Deauville,,,,49.3579032,0.0750663
+11470109971,node,Les Planches,restaurant,Deauville,,,https://www.lesplanches-deauville.fr/,49.3593879,0.0728154
+12175049986,node,Le Deauville,restaurant,Deauville,"3 Quai Louis Breguet, 14800, Deauville",14800,https://restaurantledeauville.com/,49.3631185,0.0807227
+12176236625,node,La Presqu'île,restaurant,Deauville,"1 Place Françoise Sagan, 14800, Deauville",14800,https://lapresquiledeauville.fr/,49.3613428,0.0827423
+12224132476,node,La maison d'Ama,restaurant,Deauville,"17 Quai de l'Impératrice Eugénie, 14800, Deauville",14800,,49.3620544,0.0816337
+12224132477,node,Nicci,restaurant,Deauville,"15 Quai de l'Impératrice Eugénie, 14800, Deauville",14800,,49.3619257,0.0817197
+12224132478,node,Honorine,restaurant,Deauville,"Quai de l'Impératrice Eugénie, 14800, Deauville",14800,https://honorinedeauville.com,49.3610512,0.0822612
+13040797201,node,Goélia,hotel,Deauville,,,,49.3600151,0.0733513
+13108361733,node,La Station,restaurant,Deauville,,,,49.360622,0.0832207
+13164858601,node,Chez Miocque,restaurant,Deauville,,,,49.3594166,0.0731035
+13267302576,node,Le Pied Marin,restaurant,Deauville,,,,49.3657574,0.0720129
+13305966780,node,L'Etoile,restaurant,Deauville,,,,49.360346,0.0775641
+13336980100,node,Belle Époque,restaurant,Deauville,,,https://www.hotelsbarriere.com/deauville/le-normandy/restaurants-et-bars/belle-epoque,49.3601726,0.0712703
+13360114814,node,Ibis Kitchen,restaurant,Deauville,9 Quai de la Marine,,https://all.accor.com/hotel/0795/index.fr.shtml#section-facilities,49.3604972,0.0804645
+13442416830,node,Le Hibouville,restaurant,Deauville,,,https://www.lehibouville-deauville.fr/,49.3600176,0.077232
+13449979409,node,Ital' Burger,restaurant,Deauville,,,,49.3611418,0.0783894
+13716051889,node,Pizza Campione,restaurant,Deauville,"38 Rue Olliffe, 14800, Deauville",14800,,49.3602973,0.076568
+13931420236,node,Le paddoc,restaurant,Deauville,,,,49.3522704,0.0731205

@@ -1,0 +1,25 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+1395868617,node,Château Eza,hotel,Èze,,,,43.7276864,7.3609672
+1395868622,node,La Chèvre d'Or,hotel,Èze,,,,43.727424,7.3620834
+2169413507,node,Hermitage Du Col D'Eze,restaurant,Èze,"1951 Avenue des Diables Bleus, 06360",06360,https://restaurant-le-v.com/,43.7314276,7.3415312
+2169413508,node,,hotel,Èze,,,,43.7315129,7.3416796
+3338961193,node,L'Antre Potes,restaurant,Èze,,,,43.7292974,7.3617797
+3943060842,node,L'Oliveto,restaurant,Èze,Boulevard du Maréchal Leclerc,,,43.7300036,7.3616692
+3943148925,node,La Villa d'Èze,restaurant,Èze,,,,43.7299474,7.3619883
+3943148926,node,Hôtel du Golfe,hotel,Èze,,,,43.7299905,7.3620604
+3943282206,node,Chez Hehe,restaurant,Èze,,,,43.7301183,7.3622957
+3943290758,node,Arc En Ciel,hotel,Èze,06360,06360,,43.7294412,7.3615534
+3943758467,node,La Troubadour,restaurant,Èze,,,,43.7280505,7.3620474
+3943964094,node,Château Eza Restaurant,restaurant,Èze,,,,43.7277152,7.3610456
+3944026912,node,La Taverne,restaurant,Èze,6 Carriera Plana,,https://www.lataverne-eze.fr/,43.7278074,7.3616933
+3944049624,node,,restaurant,Èze,,,,43.7278438,7.361627
+3944158197,node,Le Nid d'Aigle,restaurant,Èze,"1 Rue du Château, 06360",06360,https://www.leniddaigle-eze.com/,43.7279385,7.3615652
+3944245572,node,Le Mas Provencal,restaurant,Èze,,,,43.7305152,7.3627056
+4277224790,node,Anjuna Beach Resort,restaurant,Èze,"1 Avenue de la Liberté, 06360 Èze, Франция",,,43.7190601,7.3524336
+5592933935,node,La Table de Patrick Raingeard Eze,restaurant,Èze,,,https://www.capestel.com/en/restaurant/,43.7183276,7.3743999
+6635204700,node,Da Rossana,restaurant,Èze,"36 Basse Corniche, 06360",06360,,43.7192489,7.3513305
+6705097386,node,Food’Èze,restaurant,Èze,,,,43.7276447,7.3549475
+9011293819,node,La Vieille Maison,restaurant,Èze,"18 Avenue de la Liberté, 06360",06360,,43.7224798,7.3563762
+9969679344,node,Deli',restaurant,Èze,5 Rue du Château,,,43.7280213,7.361535
+10937003735,node,Mets Vins Chics,restaurant,Èze,,,,43.7293741,7.3618269
+11403973249,node,La Campagne,restaurant,Èze,,,,43.7323165,7.3895759

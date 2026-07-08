@@ -1,0 +1,1460 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+26859071,node,Hôtel Plage Saint Jean,hotel,Marseille,,,https://www.hotelplagestjean.com/,43.1882396,5.6311575
+364617238,node,Le Drip's,hotel,Marseille,"98 Avenue Elsa Triolet, 13008, Marseille",13008,,43.2472169,5.390419
+364622149,node,Coquille,restaurant,Marseille,,,,43.2930532,5.3729519
+388275061,node,Hôtel Terminus Saint-Charles,hotel,Marseille,,,https://www.hotelterminusmarseille.fr/,43.3012773,5.3801979
+388275064,node,New Hotel Select,hotel,Marseille,,,,43.2988642,5.3812103
+449112905,node,L'entrecôte,restaurant,Marseille,14 Avenue de la Corse,,,43.2897722,5.3651216
+451721412,node,Post Café,restaurant,Marseille,,,,43.2979857,5.3738753
+451721413,node,Soleil pressé,restaurant,Marseille,,,,43.2996918,5.3739974
+462035640,node,"Chez Éric, le lagon bleu",restaurant,Marseille,,,,43.3850248,5.5749548
+513732929,node,Chez Fonfon,restaurant,Marseille,13007,13007,https://www.chez-fonfon.com/,43.2855413,5.3514289
+513732930,node,Chez Jeannot,restaurant,Marseille,,,,43.2852755,5.3516406
+535284094,node,Le Planète,restaurant,Marseille,,,,43.2999183,5.3762793
+601530328,node,La Cantinetta,restaurant,Marseille,"24, Marseille",,,43.2953347,5.3824602
+621188166,node,La Cantine,restaurant,Marseille,,,,43.2924179,5.3729467
+621240682,node,La Scaletta,restaurant,Marseille,,,,43.2921837,5.3727745
+622302235,node,Au Vieux Moulin,restaurant,Marseille,,,,43.3392449,5.4078064
+624784787,node,La Rotonde,hotel,Marseille,,,,43.1766095,5.6062003
+627616768,node,La Grotte,restaurant,Marseille,,,,43.338386,5.407488
+747035354,node,Ashourya,restaurant,Marseille,"26 Cours Julien, 13006, Marseille",13006,https://ashourya.fr,43.2952729,5.3824967
+747035376,node,Al Jennah,restaurant,Marseille,,,,43.2948807,5.3827108
+775581585,node,Le moulin de Gèmenos,restaurant,Marseille,195 Route de Saint Pons,,http://www.moulin-gemenos.fr,43.297688,5.632709
+775593908,node,Le Fer à cheval,restaurant,Marseille,4 Cour des Granges,,,43.2945623,5.6280807
+793080141,node,B&B Hotel,hotel,Marseille,"8 Avenue Elsa Triolet, 13008, Marseille",13008,,43.2472873,5.3899763
+805672733,node,Villa M Marseille,hotel,Marseille,19 Place Louis Bonnefon,,https://www.hotelvillam-marseille.com/,43.2548821,5.3817612
+991811825,node,Marmarita,restaurant,Marseille,,,,43.293686,5.3870407
+991811838,node,La Chola,restaurant,Marseille,,,,43.2937391,5.3871971
+1042891987,node,Food & Friends,restaurant,Marseille,,,,43.2646675,5.3798778
+1042892080,node,Dubble,restaurant,Marseille,Avenue du Prado,,https://www.dubble-food.com/3-43-37-restauration-dubble-food-dubble_marseille_rond-point.html,43.2757132,5.3890752
+1126788250,node,Sake,restaurant,Marseille,,,,43.2898714,5.3822535
+1126788267,node,Sushi Resto,restaurant,Marseille,,,,43.2897953,5.3823123
+1151748865,node,Le Kribien - Chez Magloire,restaurant,Marseille,,,,43.2936215,5.3863771
+1250893404,node,Le Joli Port,restaurant,Marseille,,,,43.2970084,5.3717617
+1251015705,node,La Villa,restaurant,Marseille,"1 Impasse Gardey, Marseille",,,43.2727058,5.3871038
+1279191315,node,Le grain de sel,restaurant,Marseille,,,,43.2917697,5.3731687
+1290866489,node,Ciao Marcello,restaurant,Marseille,"4 Rue du Lacydon, 13002, Marseille",13002,,43.2968982,5.3692349
+1298830639,node,Le Petit Nice Passedat,hotel,Marseille,"Anse de Maldormé - Corniche J.F Kennedy, 13007, Marseille",13007,http://www.passedat.fr/?anchor=!home#!home,43.2802191,5.3520689
+1315189230,node,Brasserie Le Pharo,restaurant,Marseille,,,,43.2919147,5.3588186
+1315189232,node,Victor Café,restaurant,Marseille,71 Impasse Clerville,,,43.2920045,5.3598003
+1315189241,node,Le Châlet,restaurant,Marseille,,,,43.2938991,5.3594296
+1315196681,node,Gabian,restaurant,Marseille,"89 Boulevard Charles Livon, 13007",13007,,43.2918776,5.3583546
+1317056327,node,Bar Terminus,restaurant,Marseille,,,,43.2916579,5.3588616
+1317056329,node,Novotel,hotel,Marseille,,,https://all.accor.com/hotel/0911/index.fr.shtml,43.2928441,5.3601504
+1319273247,node,Hôtel Saint-Louis,hotel,Marseille,,,http://maison-saintlouis.com/,43.2959868,5.3786967
+1319273248,node,Chez Sauveur,restaurant,Marseille,,,https://www.chezsauveur.fr/,43.2955584,5.3790198
+1333734720,node,Etap Hotel,hotel,Marseille,,,,43.2922209,5.3736588
+1342448095,node,Le Relais 50,restaurant,Marseille,,,http://www.relais50.com/,43.2965602,5.372677
+1342450373,node,La Residence du Vieux Port,hotel,Marseille,,,https://www.hotel-residence-marseille.com/,43.2965597,5.3727464
+1345284472,node,Hôtel Belle-Vue,hotel,Marseille,,,https://www.hotelbellevuemarseille.com/,43.2964908,5.3719774
+1345284476,node,La Caravelle,restaurant,Marseille,"34 Quai du Port, 13002",13002,https://www.lacaravelle-marseille.com/,43.2964951,5.3720473
+1354154305,node,La Femme du Boucher,restaurant,Marseille,"10, Marseille",,,43.2878438,5.3833142
+1355118991,node,Le 13,restaurant,Marseille,13 Quai de Rive Neuve,,,43.293043,5.370913
+1361021565,node,La Nautique,restaurant,Marseille,,,,43.2934722,5.369793
+1410954166,node,Hôtel Ibis Marseille Euroméditerranée,hotel,Marseille,,,,43.3079702,5.3676485
+1429403428,node,Le Château Sormiou,restaurant,Marseille,"Route du Feu de la Calanque de Sormiou, 13009, Marseille",13009,http://lechateausormiou.fr/index.html,43.2109455,5.4194489
+1448514092,node,La Bonne mer,restaurant,Marseille,,,,43.2831591,5.3734061
+1490551264,node,Le Grain de Sable,restaurant,Marseille,,,,43.2993756,5.3775615
+1493475298,node,Les Dauphins,restaurant,Marseille,178 Corniche President John F Kennedy,,,43.2748529,5.3598686
+1496704065,node,Le Scorpion,restaurant,Marseille,,,,43.2928427,5.3828464
+1513994385,node,Le Jardin des Vestiges,restaurant,Marseille,,,,43.2964261,5.3746408
+1513994386,node,New Hôtel Le Quai Vieux-Port,hotel,Marseille,,,,43.2960728,5.3748366
+1513994387,node,Les lumières,restaurant,Marseille,,,https://www.instagram.com/leslumieres_marseille/,43.2978397,5.3715849
+1516598688,node,Hôtel Lutetia,hotel,Marseille,,,http://www.lutetia-marseille.com/,43.2988254,5.382838
+1532880145,node,Chez Didier & Brigitte,restaurant,Marseille,,,,43.2892334,5.3876749
+1536393929,node,Le Peano,restaurant,Marseille,,,,43.2929429,5.3735585
+1552506161,node,Le Baobab,restaurant,Marseille,,,,43.2997968,5.3843248
+1558637641,node,Les 3 Frères,restaurant,Marseille,,,,43.3024303,5.4940587
+1576165849,node,Le Cigalon,restaurant,Marseille,9 Boulevard Louis Pasteur,,https://www.cigalon-latreille.fr/,43.314295,5.5117023
+1583328918,node,Le Grim'O,restaurant,Marseille,65 Rue de l'Audience,,,43.2960004,5.4870901
+1583328968,node,Canard Laqué,restaurant,Marseille,,,,43.2959654,5.4871838
+1600583561,node,Chez Noël,restaurant,Marseille,,,,43.2987426,5.3851893
+1600583578,node,Le Fémina,restaurant,Marseille,,,,43.2962731,5.3785882
+1633046478,node,Zafer,restaurant,Marseille,12,,,43.2996527,5.3820885
+1633793186,node,Tumulte,restaurant,Marseille,"2 Rue Pastoret, 13006",13006,,43.2934401,5.3839387
+1653249116,node,La Mesa Latina,restaurant,Marseille,"20 Cours Julien, 13006, Marseille",13006,,43.2954574,5.382417
+1653249118,node,Tabla,restaurant,Marseille,"106 Cours Julien, 13006, Marseille",13006,https://tablamarseille.fr/,43.2927708,5.3834447
+1653249119,node,Mariposas,restaurant,Marseille,,,https://mariposasvege.com,43.2928811,5.3833399
+1654552780,node,Les Terrasses du Midi,restaurant,Marseille,,,,43.341701,5.4344028
+1659144188,node,Le Golfe,hotel,Marseille,,,,43.2144564,5.535194
+1681454316,node,Adagio Access Saint-Charles,hotel,Marseille,,,https://www.adagio-city.com/,43.304614,5.3819205
+1682298866,node,Chez Etienne,restaurant,Marseille,,,,43.3000804,5.3699607
+1693726759,node,Casa Dipaulo,restaurant,Marseille,,,,43.3186812,5.4037691
+1696440251,node,Sushi West,restaurant,Marseille,,,,43.317439,5.4052737
+1710309596,node,Chez le Belge,restaurant,Marseille,,,,43.2098052,5.3724162
+1711816854,node,La Tasca,restaurant,Marseille,,,https://www.latasca.fr/,43.2931475,5.3915985
+1713114304,node,Les Arcenaulx,restaurant,Marseille,"25 Cours d'Estienne d'Orves, 13001, Marseille",13001,https://www.les-arcenaulx.com/,43.2924641,5.3731304
+1720313907,node,Chez Aldo,restaurant,Marseille,,,,43.2327525,5.3538963
+1727495478,node,Café Simon,restaurant,Marseille,,,,43.2927904,5.372876
+1727495479,node,L'Aromat,restaurant,Marseille,,,https://www.laromat.com/,43.2920996,5.3738405
+1740568729,node,Hôtel Européen,hotel,Marseille,"25, Marseille",,,43.2987849,5.3807161
+1740887252,node,Campanile Marseille - Saint-Antoine,hotel,Marseille,,,https://www.campanile.com/fr/hotels/campanile-marseille-saint-antoine,43.3799533,5.3556176
+1788246532,node,Hostellerie de la Crémaillère,hotel,Marseille,,,,43.256664,5.5658244
+1788273975,node,,restaurant,Marseille,,,,43.2566249,5.5656134
+1795620066,node,"Restaurant ""Pinocchio""",restaurant,Marseille,,,,43.26646,5.5859069
+1796098734,node,Le Printemps,restaurant,Marseille,,,,43.3030683,5.3789118
+1796883510,node,La table du chef,restaurant,Marseille,,,,43.2531537,5.4226293
+1796966048,node,"Restaurant ""Les Tilleuls""",restaurant,Marseille,,,,43.2528333,5.421149
+1797919718,node,"Restaurant ""Le Gepetto""",restaurant,Marseille,241 Place Louis Nazury,,,43.2574338,5.4186936
+1797920585,node,Au Royaume de la Chantilly,restaurant,Marseille,12 Avenue de la Panouse,,,43.2563358,5.4202913
+1798577940,node,Cantine du Midi,restaurant,Marseille,Rue Bernard,,,43.31068,5.3871622
+1817427789,node,B&b Hôtel,hotel,Marseille,"52, Marseille",,https://www.hotel-bb.com/fr/hotels/marseille-centre-la-joliette.htm,43.3050143,5.3679433
+1820486490,node,Bar restaurant de l'autoroute,restaurant,Marseille,,,,43.301566,5.375922
+1823113429,node,Restaurant Pinocchio,restaurant,Marseille,,,,43.2453823,5.4157141
+1836760286,node,El Sol,restaurant,Marseille,,,,43.2150045,5.5370888
+1836768431,node,Le Cendrillon,restaurant,Marseille,,,,43.2136619,5.5388742
+1836768644,node,Le Perroquet,restaurant,Marseille,,,,43.2135212,5.5387486
+1842949399,node,Hôtel bar restaurant Le Valentinois,restaurant,Marseille,"38, Marseille",,,43.2891223,5.4666003
+1864088453,node,Flunch,restaurant,Marseille,,,,43.292138,5.592212
+1864123594,node,Pizza Paï,restaurant,Marseille,,,,43.292521,5.592227
+1864130170,node,Planetalis,restaurant,Marseille,,,,43.292374,5.592249
+1864130563,node,Chinasia fast food,restaurant,Marseille,,,,43.29287,5.591427
+1864140194,node,Hôtel relais des Brasseurs,hotel,Marseille,"1125 Avenue des Paluds, 13400, Aubagne",13400,https://www.hotel-relais-aubagne.com/,43.2908947,5.5938459
+1867565237,node,Victoria Garden,hotel,Marseille,,,,43.1902896,5.6496967
+1867566014,node,La crique,restaurant,Marseille,,,,43.1881267,5.6472559
+1867579197,node,Santa Maria,restaurant,Marseille,,,,43.1893509,5.6432219
+1868944130,node,Le parpaing qui flotte,restaurant,Marseille,"3 Rue Goudard, 13005",13005,,43.2949731,5.3941733
+1871316010,node,Le bambino,restaurant,Marseille,,,,43.2965047,5.3908802
+1883487962,node,Marengo Bistroquet,restaurant,Marseille,"1, Marseille",,,43.2911508,5.3841064
+1883487967,node,L'Astoria,restaurant,Marseille,,,,43.2913634,5.3828294
+1883712814,node,Le Relais de la Magdeleine,hotel,Marseille,,,,43.2988589,5.6245669
+1886609582,node,Le Petit Angkor,restaurant,Marseille,,,,43.2918939,5.3729117
+1886610762,node,L'innattendu,restaurant,Marseille,"Rue de la Paix, 13001, Marseille",13001,,43.292225,5.3729273
+1910580775,node,Simply food,restaurant,Marseille,,,,43.2902594,5.378294
+1933740918,node,Zaaki,restaurant,Marseille,85 Boulevard Chave,,,43.2954606,5.3923674
+1933746721,node,Le 3/4,restaurant,Marseille,"139, Marseille",,,43.2956096,5.3950055
+1933751858,node,Georges,restaurant,Marseille,"115 Boulevard Chave, 13005, Marseille",13005,,43.2955295,5.3937556
+1933758739,node,Chaleur,restaurant,Marseille,"67 Boulevard Chave, 13005, Marseille",13005,https://www.instagram.com/chaleur.marseille/,43.295397,5.3912951
+1933775254,node,La Cuisine de Gagny,restaurant,Marseille,"153 Boulevard Chave, Marseille",,,43.2956477,5.3956492
+1933794886,node,Kortchma,restaurant,Marseille,30,,,43.2939122,5.3848412
+1933795432,node,Adonis du Liban,restaurant,Marseille,10,,,43.294205,5.3846508
+1933796321,node,O'Pakistan,restaurant,Marseille,11,,,43.2941289,5.3848063
+1941573716,node,La cantine des docks,restaurant,Marseille,,,,43.304338,5.36675
+1941593657,node,spok.,restaurant,Marseille,,,,43.299157,5.37201
+1941634528,node,Le Davico brasserie,restaurant,Marseille,,,,43.295054,5.375499
+1941635042,node,Café du commerce,restaurant,Marseille,,,,43.294897,5.37555
+1941638012,node,Cafe Garnier,restaurant,Marseille,,,,43.294878,5.375455
+1941638717,node,Hôtel Carré Vieux-Port,hotel,Marseille,6 Rue Beauvau,,https://www.hotel-carre-vieux-port.com,43.294923,5.375049
+1941641133,node,Hôtel Europe,hotel,Marseille,,,,43.294573,5.375202
+1941646766,node,Sanremo,restaurant,Marseille,,,,43.294491,5.37484
+1941647179,node,Life hôtel VP,hotel,Marseille,,,,43.294409,5.374869
+1941647578,node,L'entrecote,restaurant,Marseille,,,,43.29437,5.374862
+1941648303,node,Maisons du Monde hôtel,hotel,Marseille,43 Quai des Belges,,https://marseille.maisonsdumondehotel.com,43.2940799,5.3746395
+1941648390,node,La Marinière,restaurant,Marseille,,,,43.294068,5.374496
+1941847112,node,La Brasserie,restaurant,Marseille,,,,43.2949405,5.3746537
+1942086831,node,Le Mistral,hotel,Marseille,8 Avenue des Goumiers,,https://www.hotel-marseille.org/le-mistral.fr.html?from=2026-03-22&to=2026-03-23&adults=2&children=0&clirder=1&_1774087911455#rooms,43.2477635,5.3751567
+1951024439,node,Pizz'Adore,restaurant,Marseille,,,,43.3557271,5.4868177
+1951057722,node,,restaurant,Marseille,,,,43.3569976,5.4863979
+1951063017,node,New Hotel Marseille,hotel,Marseille,,,,43.2918903,5.360065
+1951069418,node,Les terrasses de Saint-Mitre,restaurant,Marseille,,,,43.3423915,5.4162215
+1954738313,node,Ibis Budget,hotel,Marseille,,,,43.2952999,5.4009602
+1965153165,node,Snack Gimy,restaurant,Marseille,,,,43.2766966,5.4192538
+1977547168,node,Le Plat Provencal,restaurant,Marseille,,,,43.2928369,5.3726787
+1982739669,node,Via-Roma,restaurant,Marseille,,,,43.2482237,5.3752741
+1992825610,node,El Santo Cachón,restaurant,Marseille,"40 Rue Ferrari, Marseille",,,43.2937085,5.3889192
+2001201532,node,La Mama,restaurant,Marseille,,,,43.2929442,5.3849086
+2001201533,node,Pavillon Thaï,restaurant,Marseille,,,,43.2928071,5.3850668
+2010627425,node,Caterine,restaurant,Marseille,,,,43.2920928,5.385215
+2010715820,node,Chez Ida,restaurant,Marseille,,,,43.2937855,5.3862742
+2012646264,node,Signature,restaurant,Marseille,2 Place Marius Razzenti,,,43.2764984,5.3943243
+2016443128,node,Chez Nosia,restaurant,Marseille,,,,43.3009694,5.3833536
+2016443154,node,Nihao,restaurant,Marseille,16a Rue de la Grande Armée,,,43.3006933,5.3839539
+2019893912,node,Castell York,restaurant,Marseille,,,,43.2861996,5.3832084
+2019893919,node,Jin Jiang Express,restaurant,Marseille,,,,43.2859356,5.3844234
+2019893926,node,Massena,restaurant,Marseille,1 Avenue Jules Cantini,,https://massenacafe.com/,43.2857371,5.3843462
+2019893936,node,Nady,hotel,Marseille,,,,43.2869033,5.3854114
+2024544245,node,La Source de Jade,restaurant,Marseille,3,,,43.2926784,5.3841658
+2024606530,node,Papà Fredo,restaurant,Marseille,,,,43.2943761,5.3829771
+2026369726,node,Lotus Express,restaurant,Marseille,,,,43.2943556,5.3851723
+2026369886,node,Lacaille Restaurant,restaurant,Marseille,,,,43.2944153,5.3850653
+2027966585,node,Brasserie la Joliette,restaurant,Marseille,,,,43.304504,5.366105
+2027989412,node,Au pagalio,restaurant,Marseille,,,,43.302199,5.366119
+2028064238,node,Chez Mama Africa,restaurant,Marseille,,,,43.2943201,5.3809419
+2030400907,node,Le Colysée,restaurant,Marseille,,,,43.3643335,5.4970585
+2038033356,node,El Paseo,restaurant,Marseille,,,,43.29366,5.3853554
+2039908842,node,Gin Khao,restaurant,Marseille,Marseille,,https://ginkhao.fr/,43.2957504,5.3771632
+2041086111,node,Rajasthan,restaurant,Marseille,,,,43.2915325,5.3846136
+2059563924,node,Le jardin d'à côté,restaurant,Marseille,"65, Marseille",,https://www.lejardindacote.com/,43.2933789,5.3837631
+2059612345,node,Côté Cours,restaurant,Marseille,"79 Cours Julien, 13006",13006,https://www.bistronomie-yasmine.fr,43.2929413,5.3839138
+2059612361,node,Il Caffe,restaurant,Marseille,,,,43.29351,5.3837131
+2070345398,node,Hôtel Kyriad,hotel,Marseille,,,,43.2806082,5.3996615
+2071827955,node,La Ferme,restaurant,Marseille,,,,43.3155464,5.5378931
+2085794783,node,Yamato,restaurant,Marseille,,,https://yamatoresto.fr/,43.2922053,5.3840116
+2087444104,node,L'Alegria,restaurant,Marseille,139,,,43.2908008,5.3674825
+2087471326,node,La Villa Madie,restaurant,Marseille,"Avenue du Revestel, Cassis",,https://lavillamadie.com,43.2111019,5.5449357
+2103599852,node,Déjeuner en Ville,restaurant,Marseille,,,,43.2967864,5.3733549
+2103599856,node,Le Miramar,restaurant,Marseille,,,,43.296504,5.3732014
+2103604495,node,Madie Les Galinettes,restaurant,Marseille,,,,43.2959825,5.3675516
+2104634479,node,Trattoria Marco,restaurant,Marseille,,,,43.2966905,5.3705318
+2104666286,node,Le Poulpe,restaurant,Marseille,,,,43.2961292,5.368974
+2104666287,node,Le Disque Bleu,restaurant,Marseille,,,,43.2961478,5.3691457
+2104666288,node,Au Bout du Quai,restaurant,Marseille,"1 Avenue Saint-Jean, 13002, Marseille",13002,https://au-bout-du-quai-marseille.eatbu.com/?lang=fr&bit.ly%2Fabdq-g-sw=,43.2955262,5.36482
+2104666289,node,La Cuisine au Beurre,restaurant,Marseille,,,,43.29617,5.3693632
+2109207081,node,So... Marseille,restaurant,Marseille,,,,43.2955602,5.3653032
+2113097670,node,Ibis Styles,hotel,Marseille,"28, Marseille",,,43.3011242,5.3808095
+2115079381,node,Chez Soi,restaurant,Marseille,5,,https://chez-soi-marseille.eatbu.com/,43.2967419,5.3802868
+2115079521,node,La Goulette,restaurant,Marseille,,,,43.2956441,5.3779578
+2116957969,node,Ko-Ishi,restaurant,Marseille,"25, Marseille",,,43.2925228,5.3756732
+2116958048,node,Les Panisses,restaurant,Marseille,"23, Marseille",,http://lespanisses.fr,43.2925634,5.3757375
+2116958129,node,La Part des Anges,restaurant,Marseille,,,,43.2924307,5.3753939
+2117029215,node,Marcello,restaurant,Marseille,29,,,43.292616,5.372097
+2119952244,node,La Voile De Marco,restaurant,Marseille,116,,,43.2960286,5.3681596
+2120175327,node,Entre Terre et Mer,restaurant,Marseille,13,,https://lafourchette.com/,43.2992565,5.3687373
+2120175343,node,Au coeur du Panier,restaurant,Marseille,18,,,43.2993416,5.3684255
+2120589428,node,Le Hippie Chic Café,restaurant,Marseille,"2 Boulevard Jacques Saadé Quai de la Joliette, 13002, Marseille",13002,,43.3042459,5.3653537
+2120669979,node,Le Clan Les Cigales,restaurant,Marseille,8,,,43.2999846,5.3691257
+2120985535,node,Hotel Terminus,hotel,Marseille,"59 Bd des dames, 13002, Marseille",13002,,43.3030742,5.3660429
+2121214963,node,Dubble,restaurant,Marseille,,,https://www.dubble-food.com/3-43-1-restauration-dubble-food-dubble_marseille_joliette.html,43.3044459,5.3665895
+2136336640,node,Les Mets des Saintes,restaurant,Marseille,,,http://www.restaurantlartmonia.com/,43.2918357,5.3726644
+2137516953,node,Maurice,restaurant,Marseille,,,https://www.maurice-marseille.com/fr,43.289157,5.3872921
+2141553958,node,Pulcinella,restaurant,Marseille,9-11,,http://www.lapulcinella.com/,43.2983068,5.3757006
+2147029136,node,Escale Oceania,hotel,Marseille,,,,43.295639,5.3748188
+2171924392,node,Au Falafel,restaurant,Marseille,"5, Marseille",,https://www.aufalafel.com/,43.2929148,5.3761642
+2171924394,node,Le Mas,restaurant,Marseille,,,,43.2928771,5.3759899
+2174798901,node,L'Origan,restaurant,Marseille,"149, Marseille",,,43.3085325,5.4001437
+2174798902,node,La Table de Guy,restaurant,Marseille,"145 Avenue des Chartreux, Marseille",,,43.3083923,5.400097
+2229589457,node,B&B HOTEL Marseille Prado Parc des Expositions,hotel,Marseille,"6 Rue de Cassis, 13008, Marseille",13008,https://www.hotel-bb.com/fr/hotel/marseille-prado-parc-des-expositions,43.279421,5.3891528
+2235663010,node,L'Ecailler,restaurant,Marseille,,,,43.2932757,5.3734477
+2241170118,node,Ibis,hotel,Marseille,,,,43.2916887,5.3820584
+2241170433,node,La Terrasse du Panier,restaurant,Marseille,,,,43.29958,5.3680444
+2259964682,node,Soir d'Asie,restaurant,Marseille,,,,43.3037488,5.3677052
+2261440018,node,Novotel,hotel,Marseille,,,,43.3086696,5.3678263
+2261496753,node,Comptoir des Docks,restaurant,Marseille,,,,43.3087654,5.3670956
+2261517530,node,Dock of the Bay,restaurant,Marseille,35,,http://www.restaurant-marseille-dockofthebay.fr/,43.3085922,5.3674695
+2262572278,node,Montgrand,hotel,Marseille,50,,,43.2913316,5.3766135
+2264300321,node,Brocéliande,restaurant,Marseille,,,,43.2929798,5.3731913
+2264300323,node,La Ferme,restaurant,Marseille,,,,43.2932689,5.3732489
+2264300325,node,Le Cours,restaurant,Marseille,"30, 13001",13001,,43.2926927,5.3725305
+2264300326,node,Le Cigalon,restaurant,Marseille,,,,43.2927507,5.3727148
+2268236772,node,Fuxia l'épicerie,restaurant,Marseille,,,,43.2931384,5.372738
+2268236773,node,L'annexe,restaurant,Marseille,,,,43.2934972,5.3730635
+2268236774,node,L'esquinade,restaurant,Marseille,,,,43.2933971,5.3732099
+2268236776,node,Le Côte de Boeuf,restaurant,Marseille,,,,43.2922742,5.3723216
+2268236777,node,Les 5 continents,restaurant,Marseille,,,,43.2922996,5.3724337
+2268370124,node,Ginseng,restaurant,Marseille,,,,43.2923988,5.3728776
+2296383112,node,Ibis,hotel,Marseille,,,,43.2908595,5.4948753
+2303498408,node,Les plaisirs de l'orient,restaurant,Marseille,,,,43.3546421,5.3332387
+2337845637,node,Gîte des Loubets,hotel,Marseille,,,,43.2927925,5.4689747
+2352033248,node,Bouillant,restaurant,Marseille,,,,43.2969937,5.3610907
+2360846594,node,Rice Street Vieux Port,restaurant,Marseille,20 Rue de la Paix Marcel Paul,,https://www.ricestreet.fr/,43.2927845,5.3725024
+2364946068,node,La Kahena,restaurant,Marseille,,,,43.2964752,5.3741968
+2365855778,node,Le ventre de l'architecte,hotel,Marseille,,,,43.2614958,5.396232
+2368312850,node,Le Fair Play,restaurant,Marseille,111 Boulevard Michelet,,,43.2671521,5.3947583
+2375838292,node,L’atelier des Artistes,restaurant,Marseille,,,,43.2919602,5.3846916
+2375838294,node,Snack Pizzeria Notre-Dame,restaurant,Marseille,,,,43.2919908,5.3846071
+2375892952,node,Debussy,restaurant,Marseille,,,,43.2930234,5.373938
+2375892953,node,Bistrot l'Horloge,restaurant,Marseille,"11 Cours d'Estienne d'Orves, Marseille",,https://bistrotlhorloge.eatbu.com,43.2927817,5.3745337
+2375892955,node,Le Phonographe,restaurant,Marseille,,,,43.2930605,5.3741063
+2375892956,node,Le Pointu,restaurant,Marseille,,,,43.2931014,5.374283
+2375892960,node,Polikarpov,restaurant,Marseille,,,https://lepolikarpov.com/,43.2930417,5.3740221
+2375892963,node,O'sud,restaurant,Marseille,,,,43.2929922,5.3737946
+2376480395,node,Beans Marseille Brunch,restaurant,Marseille,"13 Place Notre-Dame-du-Mont, 13006, Marseille",13006,https://beansmarseille.com/,43.2921022,5.3842973
+2378877014,node,Le Commodore,restaurant,Marseille,,,http://www.restaurant-glacier-lecommodore.com/,43.2790384,5.3043725
+2379123244,node,O FANETTE,restaurant,Marseille,"11 Place Notre-Dame-du-Mont, 13006, Marseille",13006,,43.2921271,5.3842422
+2379123248,node,Matza,restaurant,Marseille,"13 Place Notre-Dame-du-Mont, 13006, Marseille",13006,https://www.matza.fr/,43.292086,5.3843428
+2385129962,node,Les Tamaris,restaurant,Marseille,"40 Boulevard de la Calanque de Samena, Marseille",,https://www.restaurantlestamaris.com/,43.2286661,5.3496522
+2394376865,node,ID Fixe,restaurant,Marseille,,,,43.2937107,5.3829163
+2394376867,node,L'Escalié,restaurant,Marseille,,,,43.2934772,5.3829313
+2408318940,node,La Bella Pizza,restaurant,Marseille,,,,43.291713,5.384286
+2411216673,node,WOOD La Cantine Gourmande,restaurant,Marseille,8,,,43.2967539,5.3704837
+2418162621,node,Aux Demoiselles du Mont,restaurant,Marseille,,,,43.2918722,5.3839982
+2429318480,node,Au Chantier,restaurant,Marseille,,,,43.1722941,5.6072433
+2459834252,node,L'Oli Bé,restaurant,Marseille,"14, Marseille",,,43.3000947,5.3861863
+2590099744,node,Brasserie Le Terminus,restaurant,Marseille,,,,43.2763622,5.3947924
+2590099746,node,Maison Campo,restaurant,Marseille,2 Place Marius Razzenti,,,43.2764,5.394372
+2591460033,node,Mk's African kitchen,restaurant,Marseille,153 Rue Horace Bertin,,,43.2960873,5.3959392
+2598173070,node,Label'Ferme,restaurant,Marseille,88,,https://www.rotisserie-labelferme.fr/,43.2498953,5.3818132
+2645349799,node,,restaurant,Marseille,,,,43.334293,5.3582685
+2682321635,node,Bar Manolo,restaurant,Marseille,"12, Marseille",,,43.2993271,5.3687531
+2761510021,node,Le Kaliente,restaurant,Marseille,,,,43.3565245,5.3572536
+2806207797,node,Brasserie La Suite,restaurant,Marseille,,,,43.3536221,5.338441
+2811941761,node,Casa Roma,restaurant,Marseille,5 Rue Brémond,,,43.2152771,5.5368024
+2822274192,node,Le Balagan,restaurant,Marseille,99 Rue du Rouet,,https://balagan-marseille.fr/,43.2805094,5.3899776
+2822275288,node,La Rizière,restaurant,Marseille,113,,,43.2801257,5.3903719
+2822276732,node,Appart'City,hotel,Marseille,1 Rue Vandel,,,43.2799988,5.3906227
+2822280855,node,Le Café Thai,restaurant,Marseille,136 Rue du Rouet,,https://lecafethai.fr,43.2788252,5.3918525
+2822287680,node,Le 163,restaurant,Marseille,163,,,43.2779885,5.3926907
+2822291433,node,Casanostra,restaurant,Marseille,195 Rue du Rouet,,,43.2768412,5.3941231
+2841631329,node,Nguyen Hoang,restaurant,Marseille,"6, Marseille",,,43.2982995,5.3710822
+2841633942,node,New Dalat,restaurant,Marseille,"3, Marseille",,,43.2981134,5.3706724
+2841640331,node,La Goulette,restaurant,Marseille,"145, Marseille",,,43.2907132,5.3670917
+2841931136,node,Love sushi,restaurant,Marseille,,,,43.246456,5.4027865
+2841931137,node,Le jardin,restaurant,Marseille,,,,43.2463188,5.4026949
+2841931138,node,L'Odyssée,restaurant,Marseille,,,,43.2473485,5.4014189
+2862082917,node,L'Algéroise,restaurant,Marseille,,,,43.3118317,5.3724436
+2862082932,node,Rafraf,restaurant,Marseille,,,,43.3116869,5.3726505
+2866310390,node,Les Grandes Tables,restaurant,Marseille,41 b,,https://www.lafriche.org/la-friche/lieux/les-grandes-tables/,43.3102775,5.3911244
+2866851703,node,Maloca,restaurant,Marseille,"47 Rue Fortuné Jourdan, 13003, Marseille",13003,,43.3113604,5.3869823
+2878130113,node,Bistrot Alexandre,restaurant,Marseille,,,,43.3254041,5.3819679
+2878130115,node,Le New Barroco,restaurant,Marseille,,,,43.325601,5.3815958
+2878130116,node,L’EFL Café,restaurant,Marseille,,,,43.3254215,5.3816157
+2903500747,node,Brasserie de Pas de Trets,restaurant,Marseille,,,,43.387705,5.6003741
+2905778435,node,Auberge de Pichauris,restaurant,Marseille,,,https://www.auberge-de-pichauris.com/,43.3713087,5.5356883
+2937784257,node,Monsieur Brun,restaurant,Marseille,2 Quai Calendal,,,43.2148635,5.5365828
+2958176921,node,Le Rostand,restaurant,Marseille,,,,43.2874534,5.380745
+2973016536,node,Le Bouchon Provençal,restaurant,Marseille,,,,43.293049,5.371451
+3045261155,node,L'Oxford,restaurant,Marseille,,,,43.3439316,5.4397476
+3045263256,node,La Table d'Augustin,restaurant,Marseille,,,http://www.latabledaugustin.fr/,43.3432169,5.4469259
+3055471833,node,Hôtel-Restaurant Le Clos des Arômes,restaurant,Marseille,"10 Rue Abbé Paul Mouton, 13260, Cassis",13260,,43.2161168,5.5380364
+3057637134,node,Yacht Club de Cassis,restaurant,Marseille,,,,43.2132044,5.5355823
+3057637233,node,Les Roches Blanches,hotel,Marseille,,,,43.2113542,5.5293442
+3057637433,node,Le Comptoir du Naïo,restaurant,Marseille,6 Quai Carnot,,,43.214219,5.5348242
+3057637533,node,Le Bistro,restaurant,Marseille,8 Avenue de l'Amiral Ganteaume,,https://www.le-bistro-restaurant-cassis.com/,43.2140656,5.5346157
+3078060133,node,Sofitel Vieux Port,hotel,Marseille,"36, Marseille",,,43.2926593,5.3606074
+3100545599,node,Best Western Cœur de Cassis,hotel,Marseille,2 Rue Pierre Eydin,,https://www.bestwestern.fr/fr/hotel-Cassis-Best-Western-Coeur-De-Cassis-93882,43.2145219,5.5402333
+3105395330,node,Dayo,restaurant,Marseille,"40a, Marseille",,,43.2969019,5.3671656
+3105395331,node,Chez Angèle,restaurant,Marseille,"50, Marseille",,,43.296902,5.366896
+3172251361,node,Ristorante Del Arte,restaurant,Marseille,"31, Marseille 1er Arrondissement",,https://www.delarte.fr/restaurant-italien-pizzeria-marseille-vieux-port.html,43.2945732,5.3748344
+3182859597,node,Waroeng Bali,restaurant,Marseille,"15, Marseille",,https://waroengbali.com/,43.2837108,5.3837532
+3182902879,node,Le Yen Seiiki,restaurant,Marseille,,,http://www.leyenprado.fr/,43.2830198,5.3849187
+3194279756,node,Sushi Sashimi,restaurant,Marseille,"12 Avenue Frédéric Chevillon, 13380, Plan-de-Cuques",13380,,43.3452618,5.4612091
+3204079819,node,Le Pacifique,restaurant,Marseille,,,https://www.lepacifique.fr/,43.2898344,5.4401777
+3204079820,node,Les Muriers,restaurant,Marseille,,,,43.2901372,5.4411167
+3204621456,node,Bar Marseillais,restaurant,Marseille,,,,43.2899556,5.4412078
+3274585766,node,Pizza La Juliana,restaurant,Marseille,,,,43.2730373,5.4104982
+3317149485,node,Hôtel Sylvabelle,hotel,Marseille,,,http://www.hotel-sylvabelle-marseille.com,43.2888835,5.377581
+3326665456,node,Pizza La Patronne,restaurant,Marseille,,,https://lapatronne.eatbu.com/,43.2877651,5.3823376
+3369357423,node,Nem de la Millière,restaurant,Marseille,"Boulevard de la Millière, 13011, Marseille",13011,,43.2834141,5.5000906
+3369399041,node,Tan A,restaurant,Marseille,"1 Avenue Alice, 13400, Aubagne",13400,https://www.restaurant-tana.com/,43.2830342,5.5333676
+3369421528,node,Black Angus,restaurant,Marseille,"195 Route des Trois Lucs à La Valentine, 13011, Marseille",13011,,43.3013608,5.477182
+3370637730,node,,restaurant,Marseille,,,,43.2737355,5.4141282
+3374843142,node,Black & White,restaurant,Marseille,,,,43.2815072,5.3814507
+3391011714,node,Le 444,restaurant,Marseille,,,,43.3147247,5.3708862
+3391011715,node,Le Dessus du Panier,restaurant,Marseille,,,,43.3147063,5.3708178
+3404570685,node,Le Comptoir d'Endoume,restaurant,Marseille,"33 Rue d'Endoume, Marseille",,,43.2902775,5.3664624
+3406079996,node,L'Escalier,restaurant,Marseille,,,,43.2151109,5.5371719
+3439591713,node,Du côté d'Antalia,restaurant,Marseille,99 Avenue de Saint Antoine,,,43.3706045,5.3560967
+3451549135,node,Hôtel Liautaud,hotel,Marseille,,,,43.2140274,5.5384666
+3451568706,node,Hôtel Cassitel,hotel,Marseille,,,,43.2136593,5.538976
+3451640394,node,Don Camillo,restaurant,Marseille,,,,43.2146613,5.5359255
+3451640395,node,La Vieille Auberge,restaurant,Marseille,,,,43.2146246,5.5357974
+3451666766,node,Chez César,restaurant,Marseille,,,,43.2149438,5.537238
+3451666767,node,Chez Gilbert,restaurant,Marseille,19 Quai des Baux,,https://www.chezgilbert.net/,43.2148366,5.537403
+3451666768,node,César la suite...,restaurant,Marseille,,,,43.2145174,5.5377103
+3451666770,node,L'Oustau de la Mar,restaurant,Marseille,,,,43.2149226,5.5372943
+3451666771,node,La Girandole,restaurant,Marseille,,,,43.2146311,5.5377943
+3451666772,node,Le Canaille,restaurant,Marseille,,,,43.2149724,5.5371679
+3451666774,node,Le Grand Bleu,restaurant,Marseille,12 Quai des Baux,,,43.2146449,5.5375934
+3451679604,node,La Stazione,restaurant,Marseille,39 Avenue Victor Hugo,,https://lastazione-cassis.com/,43.2147377,5.5395161
+3451679606,node,Marco Polo,restaurant,Marseille,,,,43.2150399,5.5369518
+3451705015,node,La Voûte,restaurant,Marseille,,,,43.2142946,5.5381527
+3451705016,node,Le Bonaparte,restaurant,Marseille,,,,43.2148076,5.538759
+3451705018,node,Le Chaudron,restaurant,Marseille,,,,43.2147569,5.5392978
+3451705020,node,Brasserie Le Mistral,restaurant,Marseille,,,http://www.lemistralcassis.com/,43.2132939,5.5386855
+3451705022,node,Les Frangines,restaurant,Marseille,,,,43.214806,5.5392585
+3451716763,node,La Storia di Vincenzo,restaurant,Marseille,7 Quai des Baux,,,43.2144491,5.5378707
+3463451830,node,Occitan,restaurant,Marseille,,,,43.3762216,5.6067024
+3463451831,node,,hotel,Marseille,,,,43.3763503,5.6070296
+3474857497,node,B&b Hôtel Marseille La Valentine,hotel,Marseille,,,https://www.hotel-bb.com/fr/-/hotelByName.htm?id=4409,43.2883139,5.4814242
+3480753834,node,B&B Hôtel,hotel,Marseille,42 Rue de Ruffi,,https://www.hotel-bb.com/fr/hotels/marseille-euromed.htm,43.3112389,5.371737
+3481123293,node,B&b Hôtel,hotel,Marseille,"Rue Pascal Xavier Coste, 13016, Marseille",13016,https://www.hotel-bb.com/fr/-/hotelByName.htm?id=0572,43.3604518,5.3373541
+3481129193,node,B&b Hôtel,hotel,Marseille,"250 Avenue du Château de Jouques, 13420, Gémenos",13420,https://www.hotel-bb.com/fr/hotels/aubagne-gemenos.htm,43.2797248,5.6121257
+3516272052,node,Pizzeria Roma,restaurant,Marseille,,,,43.2891167,5.5728854
+3535291153,node,La Table Cinq,restaurant,Marseille,"8 Avenue des Chartreux, Marseille",,http://www.latable5.com/,43.3029223,5.3974757
+3535291155,node,SuandShi,restaurant,Marseille,"Boulevard de la Blancarde, Marseille",,,43.3027735,5.3970368
+3535421378,node,Il Cuoco,restaurant,Marseille,"5, Marseille",,,43.2995311,5.371082
+3535421379,node,Vinoneo,restaurant,Marseille,"6, Marseille",,http://www.vinoneo.fr/,43.2978337,5.3693324
+3535549268,node,Toma,restaurant,Marseille,"19, Marseille",,,43.2918143,5.3742516
+3539250758,node,Brasserie de la Poste,restaurant,Marseille,214 Avenue Roger Salengro,,,43.3192719,5.367643
+3539250761,node,Le Vargas,restaurant,Marseille,,,,43.3187699,5.367635
+3594068733,node,Alex Hôtel,hotel,Marseille,,,https://www.alex-hotel.fr/,43.3015627,5.3796123
+3594068735,node,Hôtel Le Panoramique,hotel,Marseille,,,,43.3012237,5.3798961
+3594068736,node,Hôtel Windsor,hotel,Marseille,,,,43.3013134,5.3807919
+3594277008,node,El Chourouk,restaurant,Marseille,,,,43.301791,5.3779007
+3594277009,node,El-Bahdja,restaurant,Marseille,,,,43.30192,5.3792338
+3606665478,node,Trois Etoiles du Lyon,restaurant,Marseille,186 Rue de Lyon,,,43.329426,5.3656363
+3609102053,node,Le Cyberyann Café,restaurant,Marseille,,,,43.2914293,5.3798352
+3609134042,node,Al dente,restaurant,Marseille,,,,43.2893564,5.3798023
+3609139801,node,Fraîcheur d'Asie,restaurant,Marseille,,,,43.2894902,5.3794477
+3609139802,node,Le Félicie,restaurant,Marseille,,,,43.2895175,5.3799237
+3610260412,node,Le Petit Caboulot,restaurant,Marseille,,,,43.2893255,5.3788714
+3612875503,node,Chez Sylvie,restaurant,Marseille,84 Rue de Ruffi,,,43.313068,5.3705971
+3631319152,node,Indochine,restaurant,Marseille,,,,43.2859272,5.5813916
+3634336619,node,Hoki Sushi,restaurant,Marseille,,,,43.363399,5.3466015
+3636748080,node,Café Hôtel Edmond,hotel,Marseille,31 rue Dragon,,https://www.hoteledmondrostand.com/,43.2881731,5.3804391
+3638685183,node,Le Comptoir Dugommier,restaurant,Marseille,,,http://comptoirdugommier.fr,43.2985311,5.381148
+3638692572,node,Les Babines de Mars,restaurant,Marseille,135 Rue Consolat,,http://paa.ge/lesbabinesdemars.fr,43.3026043,5.392375
+3647443701,node,Wake Up,restaurant,Marseille,,,,43.3090758,5.3727008
+3662684493,node,Clos des Arômes,hotel,Marseille,"10 Rue Abbé Paul Mouton, 13260, Cassis",13260,,43.2161402,5.5380069
+3683681579,node,Le 3 Farfalle,restaurant,Marseille,"14 Place Joseph Rau, 13400, Aubagne",13400,https://le-3-farfalle.org,43.2916438,5.5699572
+3717633486,node,Le Terroir Corse,restaurant,Marseille,,,,43.2918394,5.3840568
+3717636775,node,Baskawaï,restaurant,Marseille,"4, Marseille",,,43.2921128,5.383543
+3719979009,node,Pizza Gégé,restaurant,Marseille,,,,43.3555807,5.410095
+3724763715,node,Les délices de Rania,restaurant,Marseille,,,,43.3353672,5.4202637
+3768685633,node,Green Bear Coffee,restaurant,Marseille,"123, Marseille",,https://www.greenbearcoffee.com/,43.2985345,5.3828308
+3768730553,node,l'Arôme,restaurant,Marseille,9,,http://www.flashtaville.com/restaurants/marseille06/l-arome.html#_=_,43.2942657,5.384722
+3770283182,node,Le Bar à Vrac,restaurant,Marseille,,,https://baravrac.com/,43.2992195,5.3844977
+3779480022,node,La Bolognaise,restaurant,Marseille,,,,43.3310066,5.4275062
+3780623743,node,Urbanfood,restaurant,Marseille,"Avenue de la Rose, 13013, Marseille",13013,,43.328371,5.4258731
+3790446324,node,Le Palais d'Asie,restaurant,Marseille,33 Boulevard Luce,,https://www.lepalaisdasiemarseille.fr/,43.257388,5.3945271
+3790471135,node,Le Petit Naples,restaurant,Marseille,,,,43.3598435,5.3163606
+3790471136,node,Lou Chambri,restaurant,Marseille,,,,43.3598598,5.3162965
+3790492606,node,Hôtel Victory,hotel,Marseille,"23, Marseille",,,43.2986713,5.3807394
+3790494525,node,Da Paolo,restaurant,Marseille,,,,43.2474885,5.3973815
+3799422419,node,O'Bistrot d'Arménie,restaurant,Marseille,,,,43.2858379,5.4799674
+3799504087,node,L'Odyssée,hotel,Marseille,,,,43.2916413,5.4791279
+3804455751,node,L'Esplaï du Grand Bar des Goudes,restaurant,Marseille,13008,13008,,43.2151721,5.3459702
+3805462228,node,Restaurant Saf Saf,restaurant,Marseille,,,,43.2974118,5.379323
+3807748866,node,Côté Rue,restaurant,Marseille,,,,43.2973716,5.3660837
+3814418205,node,Oscar's bagels,restaurant,Marseille,"8, Marseille",,,43.2935367,5.3723866
+3819939250,node,Bar le Berlioz,restaurant,Marseille,"37, Marseille",,,43.2897565,5.385306
+3821145293,node,Snack Pizzeria L'Arche,restaurant,Marseille,,,,43.3484153,5.3590927
+3830903302,node,,restaurant,Marseille,,,,43.3367256,5.3628023
+3837547583,node,Bar Nautic,restaurant,Marseille,,,http://www.tripadvisor.fr/Restaurant_Review-g187253-d2337008-Reviews-or10-Nautic_Bar-Marseille_Bouches_du_Rhone_Provence.html#REVIEWS,43.2131252,5.4433468
+3884913209,node,Le palais de la major,restaurant,Marseille,,,,43.2990328,5.3638487
+3893473657,node,Casa Consolat,restaurant,Marseille,"1, Marseille",,http://casaconsolat.org/,43.2996555,5.3860854
+3896650823,node,Pizza Sandwichs,restaurant,Marseille,,,,43.2943055,5.4340801
+3906578983,node,Gerarh,restaurant,Marseille,,,https://gerarh.fr/,43.2945608,5.3828907
+3932162122,node,Snack de La Pomme,restaurant,Marseille,,,,43.290207,5.4415405
+3938499328,node,Brasserie La Peace'In,restaurant,Marseille,,,,43.2310006,5.5379292
+3966843106,node,,restaurant,Marseille,,,,43.3693917,5.6490152
+3990059702,node,La Loco,restaurant,Marseille,,,,43.2338736,5.552541
+3992084768,node,L'Orchidée,restaurant,Marseille,,,,43.2839778,5.4356744
+4009662395,node,Le Classico,restaurant,Marseille,,,,43.2696294,5.4265251
+4016684178,node,Chez Paul,restaurant,Marseille,,,,43.2737743,5.4300916
+4048287529,node,Brasserie L'Embarcadère,restaurant,Marseille,"Place Albert Londres, 13002, Marseille",13002,http://www.brasserielembarcadere.fr/,43.2984089,5.3637868
+4064793661,node,Le Saint-Giniez,restaurant,Marseille,355 Avenue du Prado,,,43.27003,5.3880315
+4066799527,node,Brasserie O' Parc,restaurant,Marseille,,,https://www.brasserieoparc.fr/,43.2716056,5.3930975
+4073347225,node,Sur le pouce,restaurant,Marseille,,,,43.3029058,5.3694142
+4082454780,node,Les Saveurs du Falafel,restaurant,Marseille,,,,43.2828316,5.3859087
+4087718751,node,EasySushi,restaurant,Marseille,,,,43.2886346,5.3932607
+4087718753,node,Délices de Baille,restaurant,Marseille,174 Boulevard Baille,,,43.2885579,5.3942251
+4087718754,node,L'Antre 2,restaurant,Marseille,,,,43.2909895,5.3933457
+4087718757,node,Hailo,restaurant,Marseille,13005,13005,,43.2886956,5.3947971
+4109316466,node,L'Étoile de Beyrouth,restaurant,Marseille,,,,43.2850901,5.3897776
+4109316472,node,Pizza Marius,restaurant,Marseille,,,,43.2850593,5.389852
+4122998106,node,Hong Kong 2,restaurant,Marseille,2 Place Edmond Audran,,,43.3090756,5.4017753
+4127983359,node,Chez Lili,restaurant,Marseille,"9 Place Pierre Brossolette, Marseille",,,43.3068498,5.4005454
+4163134289,node,AC Hotel Marriott,hotel,Marseille,,,,43.2686164,5.3943303
+4171583187,node,La Marine des Goudes,restaurant,Marseille,,,,43.2153037,5.3465249
+4182817409,node,Royal Asia,restaurant,Marseille,65 Boulevard de Plombieres,,,43.3153138,5.3840597
+4184087491,node,Ibis,hotel,Marseille,,,,43.2841036,5.3859
+4202071655,node,Goûtez la Provence,restaurant,Marseille,,,,43.2964679,5.6284929
+4227047019,node,La Solelade,restaurant,Marseille,,,,43.247285,5.4240961
+4227920094,node,L'Escapade,restaurant,Marseille,,,,43.3339775,5.4073684
+4232144290,node,Le petit plat,restaurant,Marseille,,,,43.2730913,5.3914072
+4235312884,node,La Fontaine,restaurant,Marseille,,,,43.2848987,5.3858482
+4235386307,node,Corner café,restaurant,Marseille,,,,43.2929187,5.3799108
+4235386312,node,Brasserie Glacier Le Cortes,restaurant,Marseille,,,,43.2915086,5.3807697
+4235386315,node,Dubble,restaurant,Marseille,,,,43.2907408,5.3792392
+4235395049,node,Le Régent,restaurant,Marseille,,,,43.2943244,5.3769698
+4239668610,node,Chez Paulette,restaurant,Marseille,,,,43.2377418,5.3615737
+4241584589,node,Dayeon,restaurant,Marseille,"4, Marseille",,,43.2905706,5.3816202
+4242742589,node,Hôtel du Pharo,hotel,Marseille,5 Place du Quatre Septembre,,,43.2884023,5.3593207
+4262898934,node,Modern Sushi,restaurant,Marseille,,,,43.3429032,5.4085493
+4274489769,node,Urban Kitchen,restaurant,Marseille,,,https://www.urban-kitchen.fr/,43.2832409,5.3904366
+4290912667,node,L'Olympe,restaurant,Marseille,"10 Rue Augustin Aubert, Marseille",,,43.2687714,5.4028399
+4291405589,node,l'Air du Temps,restaurant,Marseille,"300 Route Nationale, 13400",13400,http://www.restaurant-airdutemps.fr,43.3236683,5.5950047
+4302847956,node,Brasserie-tabac du rond point,restaurant,Marseille,,,,43.250487,5.4031471
+4309402527,node,B&B Hôtel Marseille Prado Vélodrome,hotel,Marseille,6 Allée Marcel Leclerc,,https://www.hotel-bb.com/fr/hotels/marseille-prado-velodrome.htm,43.2683926,5.3946735
+4315409673,node,Le Bistrot à Vin,restaurant,Marseille,,,,43.2926044,5.3760181
+4315409674,node,Lilin,restaurant,Marseille,,,www.lilin-raviolis.com,43.2925903,5.3753621
+4315409676,node,Spok,restaurant,Marseille,"7, Marseille",,https://www.spok.fr/,43.2928602,5.3761822
+4332951105,node,Casa Manuel 1,hotel,Marseille,,,,43.1790669,5.5975592
+4348197091,node,Bus parada 5,hotel,Marseille,,,,43.2662075,5.586088
+4348203389,node,Bus parada1,hotel,Marseille,,,,43.3906026,5.5978886
+4352651688,node,Bar Restaurant des Chutes Lavie,restaurant,Marseille,,,,43.3157955,5.3986182
+4360643135,node,Kuai Le Express,restaurant,Marseille,53 Boulevard de Sainte Marguerite,,,43.2687964,5.4043696
+4360706143,node,Hippopotamus,restaurant,Marseille,,,,43.2922529,5.5921854
+4360706147,node,Le National,hotel,Marseille,,,,43.2471097,5.5912562
+4360718953,node,L'Escalet,restaurant,Marseille,"21 Quai François Mitterrand, 13600",13600,,43.1734187,5.6057296
+4360719022,node,La Boucherie,restaurant,Marseille,"1125 Avenue des Paluds, 13400, Aubagne",13400,https://www.la-boucherie.fr/Restaurant/la-boucherie-aubagne-13/,43.290923,5.5935518
+4360719023,node,Yatay,restaurant,Marseille,,,,43.2929129,5.5907592
+4360719029,node,L'Atelier Gourmand,restaurant,Marseille,,,,43.1734859,5.6057524
+4366975590,node,Music Hotel,hotel,Marseille,12,,,43.290921,5.3817436
+4374349386,node,La Folle Epoque,restaurant,Marseille,"10, Marseille",,,43.2911226,5.3792783
+4374349387,node,Ezio,restaurant,Marseille,"12, Marseille",,,43.2910607,5.3793152
+4374349388,node,Grand Bar Pierre,restaurant,Marseille,"16, Marseille",,,43.2909276,5.3793818
+4374886394,node,La Quinta,restaurant,Marseille,"10 Avenue Louis Julien, 13600",13600,,43.214949,5.6330123
+4376947654,node,La Marmite,restaurant,Marseille,,,,43.2929771,5.3776757
+4379191637,node,Snack Pizzeria Rama,restaurant,Marseille,,,,43.3241063,5.4036517
+4396418908,node,L'Entre Pots,restaurant,Marseille,13001,13001,,43.3002474,5.3865411
+4401243512,node,L'Actuel,restaurant,Marseille,,,,43.3061005,5.3931477
+4405959292,node,Le Centuple,restaurant,Marseille,23 Allée Léon Gambetta,,,43.2992908,5.3827426
+4405959295,node,Golda,restaurant,Marseille,Marseille,,,43.299321,5.3823303
+4405959300,node,Mésopotamie Restaurant,restaurant,Marseille,,,,43.2993616,5.3814974
+4416005713,node,Le Fantastique,restaurant,Marseille,,,,43.2873394,5.3896722
+4426184192,node,Ô lapin blanc,restaurant,Marseille,,,,43.2489052,5.3817526
+4426810910,node,Chez Michel,restaurant,Marseille,"6, Marseille",,https://www.restaurant-michel-13.fr/,43.2907009,5.356069
+4426912790,node,La Vieille Pelle,restaurant,Marseille,"39, Marseille",,,43.2964759,5.3658679
+4427776456,node,Le Quai du 7ème,restaurant,Marseille,"38, Marseille",,,43.2923922,5.3672774
+4430423952,node,Kaboul Fast Food,restaurant,Marseille,,,,43.3075105,5.3818418
+4430509406,node,point chaud traiteur,restaurant,Marseille,,,,43.3074344,5.3822397
+4463345819,node,Le Moga,restaurant,Marseille,,,,43.3009027,5.3882331
+4463345825,node,Ô ha noi,restaurant,Marseille,13001,13001,,43.3004297,5.388458
+4477293478,node,Meo Midnight,restaurant,Marseille,,,,43.2935259,5.3817421
+4524956220,node,Restaurant de la Cité de la Cosmétique,restaurant,Marseille,,,,43.3429259,5.3708808
+4528496329,node,Une table au sud,restaurant,Marseille,"2, Marseille",,https://www.unetableausud.com/,43.2963677,5.373659
+4528496653,node,l'Alcyone,restaurant,Marseille,"1, Marseille",,,43.2984993,5.3702123
+4535006489,node,Tako-San,restaurant,Marseille,"36, Marseille",,,43.2996146,5.3668782
+4535046089,node,Okaäsan,restaurant,Marseille,9,,,43.2942315,5.3847572
+4551112308,node,Taste,restaurant,Marseille,"151, Marseille",,http://tasterestaurant.fr/,43.3435353,5.364586
+4560696392,node,Le Paki,restaurant,Marseille,"51 Place Jean Jaurès, 13005, Marseille",13005,,43.294321,5.3869752
+4567712948,node,Restaurant Du Centre Equestre,restaurant,Marseille,,,,43.2362946,5.367627
+4574040337,node,Hippopotamus Marseille la Valentine,restaurant,Marseille,,,https://restaurant.hippopotamus.fr/restaurant/marseille-la-valentine/143,43.2893233,5.4806831
+4581974105,node,Restaurant la Rouvière,restaurant,Marseille,,,,43.2531841,5.4227033
+4585327357,node,Seven Set Park,restaurant,Marseille,,,http://www.seven7park.fr/,43.3019246,5.4928509
+4591323691,node,L'Étincelle,restaurant,Marseille,,,,43.3609019,5.3132416
+4591323693,node,La Plage,restaurant,Marseille,,,,43.3608514,5.3134931
+4591323694,node,La Rade,restaurant,Marseille,,,,43.3608152,5.3135612
+4591323703,node,Le Duplex,restaurant,Marseille,,,,43.3606067,5.3142699
+4605492530,node,Bar Restaurant La Corsoise,restaurant,Marseille,,,,43.3083203,5.3700016
+4629705575,node,Les Saveurs du Sénégal,restaurant,Marseille,,,,43.2947087,5.3802667
+4629705576,node,Chez Youcef,restaurant,Marseille,,,,43.2948772,5.3802504
+4680622615,node,Fidèle,restaurant,Marseille,29,,https://fidele-restaurant-marseille.fr/,43.2975862,5.3846328
+4713564662,node,Le monumental,restaurant,Marseille,,,,43.2985071,5.3807421
+4713564948,node,Ghomrassen,restaurant,Marseille,,,,43.2986272,5.3807214
+4714763925,node,Chez Marco,restaurant,Marseille,,,,43.1696712,5.6002905
+4714884126,node,Bar Restaurant Pizzeria de la Garde,restaurant,Marseille,,,,43.1713764,5.6027577
+4714902214,node,Corniche du Liouquet,hotel,Marseille,,,,43.1813694,5.669243
+4716749815,node,L'Argentin Grill,restaurant,Marseille,"2, Marseille",,http://www.argentin-grill.com/,43.2858798,5.3848251
+4743590243,node,Mercure Centre Vieux Port,hotel,Marseille,,,,43.2986125,5.3751931
+4764597123,node,Cesar Place,restaurant,Marseille,,,,43.2928184,5.3720255
+4764599711,node,Le Sri Ganesh,restaurant,Marseille,,,https://www.sriganesh.fr/,43.2926692,5.3721084
+4764599835,node,Travers,restaurant,Marseille,,,,43.2929333,5.3719986
+4764600996,node,Le Nam Viet,restaurant,Marseille,,,,43.2927631,5.3720514
+4764603324,node,Paule et Kopa,restaurant,Marseille,,,,43.2922069,5.3720484
+4764605526,node,La Crêpe au Carré,restaurant,Marseille,,,,43.292181,5.3718635
+4764606931,node,Le Bistrot des Dames,restaurant,Marseille,,,,43.2923153,5.3717768
+4764607797,node,Le Bon Burger,restaurant,Marseille,,,,43.2925887,5.3716738
+4777343721,node,Prosper,restaurant,Marseille,,,,43.2946811,5.3843258
+4796697726,node,La Poissonnerie,restaurant,Marseille,85,,,43.2815126,5.360701
+4822485124,node,Restaurant de l'UNM,restaurant,Marseille,34,,,43.2934602,5.3604913
+4844538728,node,Les Buffets du Vieux-Port,restaurant,Marseille,"158, Marseille",,https://www.lesbuffetsduvieuxport.com/,43.2959748,5.3670845
+4846089448,node,Chez riz,restaurant,Marseille,"23 Rue Sauveur Tobelem, Marseille",,,43.2879584,5.3636106
+4846674722,node,Sur Le Pouce,restaurant,Marseille,"2 Rue des Convalescents, 13001",13001,,43.2997873,5.3785445
+4870093281,node,L'Inattendue,restaurant,Marseille,"8 Rue Hoche, 13400, Aubagne",13400,http://www.l-inattendue-restaurant-aubagne.com,43.2918523,5.5697324
+4870093284,node,Dragon de Jade,restaurant,Marseille,"1 Place Joseph Rau, 13400, Aubagne",13400,,43.2918697,5.5698814
+4870093285,node,Luzumaki Artisan sushi,restaurant,Marseille,"21 Boulevard Jean Jaurès, 13400, Aubagne",13400,,43.2924895,5.5701548
+4870093286,node,Nikki Sushi,restaurant,Marseille,"3 Traverse de l'Huveaune, 13400, Aubagne",13400,,43.2939005,5.5680502
+4876293621,node,Le Repaire,restaurant,Marseille,,,,43.2137477,5.6305586
+4876408022,node,,restaurant,Marseille,"Avenue Léo Lagrange, 13600",13600,,43.1963523,5.6313329
+4918463632,node,Chez Ze,restaurant,Marseille,,,https://www.chez-ze.com/,43.2246768,5.4168244
+4922701766,node,Pizza 26,restaurant,Marseille,,,,43.2975727,5.3975613
+4932256303,node,Hôtel de France,hotel,Marseille,,,,43.3021954,5.3794548
+4951187124,node,Le Petit Pernod,restaurant,Marseille,,,,43.2964615,5.3732997
+4951205723,node,L'Hyppocampe,restaurant,Marseille,,,,43.2965289,5.3730654
+5020212275,node,Le Petit Nice Passedat,restaurant,Marseille,"16 Rue des Braves, Marseille",,,43.2801442,5.3519239
+5041218622,node,Le Levant,restaurant,Marseille,"18 Boulevard de la Liberté, 13001",13001,https://www.lamanne.fr/,43.3007314,5.3821114
+5041218623,node,Tapas Rojas,restaurant,Marseille,,,,43.3031003,5.3895603
+5041232621,node,Aux Antipodes,restaurant,Marseille,26,,,43.2926788,5.3753307
+5041270622,node,L'évidence,restaurant,Marseille,"2 Rue Elemir Bourges, 13004",13004,,43.2987388,5.4015153
+5041285221,node,La Table du Fort,restaurant,Marseille,8,,https://www.latabledufort.fr/,43.2928004,5.3712189
+5059169223,node,Dilatante,restaurant,Marseille,,,,43.2789052,5.3037137
+5062367604,node,L'Orchidée,restaurant,Marseille,"121 Boulevard Beaurivage, 13600, La Ciotat",13600,https://www.hotelmiramarlaciotat.fr/restaurant/,43.1865743,5.6214471
+5062367605,node,Miramar,hotel,Marseille,"121 Boulevard Beaurivage, 13600, La Ciotat",13600,https://www.hotelmiramarlaciotat.fr/,43.1866926,5.6215118
+5070023986,node,,restaurant,Marseille,,,,43.297263,5.3685045
+5070023987,node,L'Effet Clochette,restaurant,Marseille,,,,43.2974242,5.3687329
+5070785802,node,L'Hyppocampe,restaurant,Marseille,,,,43.3616888,5.3080819
+5085316737,node,Potala Korner,restaurant,Marseille,"5, Marseille",,,43.2987086,5.3656722
+5113533922,node,Le Tchitchou,restaurant,Marseille,,,,43.2975219,5.3975703
+5119639619,node,Chez Yassine,restaurant,Marseille,"8a Rue d'Aubagne, Marseille",,https://www.chezyassine.com/,43.2956591,5.3788513
+5119842628,node,B&b Hôtel Marseille Les Ports,hotel,Marseille,7,,https://www.hotel-bb.com/fr/hotels/marseille-les-ports.htm,43.3236637,5.3638645
+5130614315,node,Le Club,restaurant,Marseille,,,,43.343021,5.4466398
+5132892030,node,L'inattendu,restaurant,Marseille,,,,43.316867,5.3776918
+5132940899,node,La Cave à Sushi,restaurant,Marseille,"22 Cours Voltaire, 13400, Aubagne",13400,,43.2952318,5.5687478
+5132940904,node,La Table de Voltaire,restaurant,Marseille,"12 Cours Voltaire, 13400, Aubagne",13400,,43.2947743,5.5687622
+5132958111,node,Zeu Burgers,restaurant,Marseille,"5 Rue Colonel de Roux, 13400, Aubagne",13400,,43.2948989,5.5675859
+5135670644,node,Le Need's,restaurant,Marseille,,,,43.2931213,5.3721
+5135673388,node,Le Blanc Bleu,restaurant,Marseille,,,,43.2930917,5.3723489
+5137416832,node,Le Florentin,restaurant,Marseille,"14 Cours Maréchal Foch, 13400, Aubagne",13400,,43.2935547,5.5680055
+5137416837,node,Tutti Quanti,restaurant,Marseille,"50 Rue de la République, 13400, Aubagne",13400,,43.2916021,5.5691109
+5137425921,node,L'Albizia,restaurant,Marseille,"11 Place Joseph Rau, 13400, Aubagne",13400,,43.2917381,5.5700387
+5139621781,node,Bebelito,restaurant,Marseille,,,,43.2489583,5.4174034
+5141491540,node,La Baie du Dragon,restaurant,Marseille,8,,,43.2920507,5.383662
+5141525728,node,Ashourya,restaurant,Marseille,,,https://ashourya.fr/,43.3015554,5.387485
+5147896148,node,Staycity Aparthotels Marseille,hotel,Marseille,"4, Marseille",,,43.3005013,5.3747782
+5148076777,node,Santa Gusto,restaurant,Marseille,275 Avenue du Prado,,,43.2734737,5.3911971
+5148084974,node,Negresko,restaurant,Marseille,6 Rue Negresko,,,43.2703968,5.3921353
+5181596457,node,Le Tchap’s,restaurant,Marseille,,,,43.2822588,5.4299825
+5188583893,node,Restaurant de la Renaissance,restaurant,Marseille,,,,43.2815269,5.4255077
+5193941531,node,Rodizio Brazil,restaurant,Marseille,,,,43.297252,5.3735596
+5193941544,node,Double Cuisson,restaurant,Marseille,,,,43.2966707,5.3740338
+5203786351,node,Shuriken Sushi,restaurant,Marseille,137 Rue de Rome,,,43.2893687,5.3819634
+5204378430,node,Pizza Béa,restaurant,Marseille,,,,43.3430635,5.4691992
+5204401264,node,La Maison Toscane,restaurant,Marseille,,,,43.3431378,5.4657863
+5204401265,node,Le 44,restaurant,Marseille,,,,43.3426839,5.4683587
+5228191449,node,Ambassade de Bretagne,restaurant,Marseille,,,,43.3059858,5.3661523
+5263997199,node,Les Délices d'Orient,restaurant,Marseille,"8 Boulevard Jean Jaurès, 13400",13400,,43.2922677,5.5698651
+5264086752,node,L’Argilla - Restaurant L'Atelier Culinaire,restaurant,Marseille,"61 Rue de la République, 13400, Aubagne",13400,,43.2910138,5.5699936
+5269708960,node,Le Borsalino,restaurant,Marseille,"3 Boulevard Jean Jaurès, 13400, Aubagne",13400,http://www.restaurant-borsalino.com/,43.2922774,5.5692619
+5294044269,node,L'Entre deux,restaurant,Marseille,"12 Rue Rastègue, 13400, Aubagne",13400,,43.2927903,5.5684805
+5294387640,node,Le Taj,restaurant,Marseille,"2 Avenue des Platanes, 13400, Aubagne",13400,https://restaurant-letaj.com/,43.284569,5.5470867
+5294421931,node,Les enfants gâtés,restaurant,Marseille,"2435 Route de la Légion, 13400, Aubagne",13400,https://www.lesenfantsgates.net,43.2868099,5.5319742
+5294488488,node,Loberge Resto Club,restaurant,Marseille,,,,43.2880638,5.574956
+5294620837,node,L'Envie des Mets,restaurant,Marseille,"Rue Moussard, 13400, Aubagne",13400,,43.2924435,5.5687118
+5310125722,node,Shanghai Kitchen,restaurant,Marseille,,,https://www.facebook.com/ShanghaiKitchen/,43.2932433,5.374241
+5310285828,node,l'Oustau,hotel,Marseille,Place Frédéric Mistral,,,43.3521765,5.4385055
+5310285848,node,Café de lla Place,restaurant,Marseille,,,,43.3518978,5.4390807
+5310285850,node,Délicia Pizza,restaurant,Marseille,59 Rue Centrale,,,43.352122,5.4397089
+5310286909,node,La Table Marseillaise,restaurant,Marseille,Impasse Ramelle,,,43.3522438,5.4383856
+5310287084,node,Les Mezzés,restaurant,Marseille,,,,43.3517345,5.4387394
+5310287085,node,Le Fil à la Pâte,restaurant,Marseille,,,,43.3516891,5.438797
+5310287091,node,La Table d'Arménie,restaurant,Marseille,29,,,43.3517603,5.4401529
+5310287572,node,Baie d'Along,restaurant,Marseille,16 Boulevard Bara,,,43.3516652,5.4399101
+5310506023,node,,restaurant,Marseille,,,,43.2955711,5.3653689
+5329616458,node,Restaurant la rosee,restaurant,Marseille,"120 Avenue Loulou Delfieu, 13400, Aubagne",13400,,43.2924641,5.5654215
+5329637510,node,Restaurant le Mandé,restaurant,Marseille,"115 Passerelle d'Accès du Parking du McDonald's, 13500, Aubagne",13500,,43.293614,5.5638225
+5329642870,node,Restaurant la cadette,restaurant,Marseille,"120 Avenue du 8 Mai, Aubagne",,,43.2941552,5.5653359
+5331378895,node,Restauran farafina,restaurant,Marseille,"142, 13000, Aubagne",13000,,43.3098648,5.5340461
+5339998840,node,Pallet's CAFE,restaurant,Marseille,"50 Avenue Cesar Boy, Marseille",,,43.295833,5.4820812
+5340008312,node,Le jardin caché,restaurant,Marseille,"20 Avenue Cesar Boy, Marseille",,,43.2966136,5.4832296
+5340013176,node,Best Pizza,restaurant,Marseille,"1 Rue de l'Audience, Marseille",,,43.2970922,5.4839971
+5340024214,node,Tomo Sushi,restaurant,Marseille,5,,,43.2970524,5.4841776
+5340029626,node,La Brasserie,restaurant,Marseille,5,,,43.296991,5.4842459
+5340036804,node,L'Un Des Sens,restaurant,Marseille,"5 Rue de l'Audience, Marseille",,,43.2969814,5.4843331
+5340041609,node,Nikki Sushi,restaurant,Marseille,"54, Marseille",,,43.2961997,5.4861285
+5340044041,node,Pizza Du Village,restaurant,Marseille,"2, Marseille",,,43.2962435,5.4868487
+5340046921,node,Le New First,restaurant,Marseille,"106, Marseille",,,43.2954684,5.4881533
+5340051318,node,Suandshi,restaurant,Marseille,,,,43.29504,5.4891424
+5341411811,node,Le Pacifique 2,restaurant,Marseille,"17, Marseille",,,43.2961053,5.4894627
+5405765486,node,Le Castel,restaurant,Marseille,,,,43.3575086,5.3369007
+5405765487,node,Sumo Suhi Bar,restaurant,Marseille,120,,https://mysumo.fr/,43.3580131,5.3380319
+5428991900,node,Hôtel Duc,hotel,Marseille,,,http://www.duchotel.sitew.fr/,43.2985522,5.3807319
+5431537323,node,L'écume des glaces,restaurant,Marseille,"8 Place Sadi Carnot, 13600",13600,https://ecumedesglaces.e-monsite.com/,43.1748361,5.6086499
+5516794255,node,chez vallè,restaurant,Marseille,,,,43.283642,5.3749958
+5519810618,node,Les Trottoirs Marseillais,restaurant,Marseille,,,,43.2431596,5.3698406
+5519912632,node,Le Carré,restaurant,Marseille,,,,43.2433294,5.36959
+5533534983,node,Court Circuit,restaurant,Marseille,,,,43.2919362,5.384772
+5534080781,node,Le Grand Pin,restaurant,Marseille,430 Avenue de Mazargues,,,43.2568072,5.3939949
+5537809334,node,Le Petit Pondichery,restaurant,Marseille,"42 Boulevard Philippon, 13004, Marseille",13004,,43.3028257,5.3959997
+5537934550,node,Noudjoum,restaurant,Marseille,,,,43.3010071,5.3773871
+5541113892,node,Cirta,restaurant,Marseille,,,,43.3007585,5.3759126
+5566947472,node,Saveur du Paradis,restaurant,Marseille,,,,43.2728949,5.4105762
+5592877410,node,Wadina,restaurant,Marseille,,,https://www.restaurantwadina.com/,43.2862957,5.377544
+5599130221,node,Brasserie des Congrès,restaurant,Marseille,"10 Centre Vie Agora, 13400",13400,http://lescongres.com,43.2867448,5.6027029
+5599151921,node,Trattoria e Capricci,restaurant,Marseille,"Chemin des Paluds, 13400",13400,,43.2925082,5.5921511
+5600549922,node,Chez Marylou,restaurant,Marseille,"24 Rue Granoux, 13004",13004,https://www.facebook.com/maryloumarseille/,43.2986464,5.3988793
+5605211605,node,Le Soleil,restaurant,Marseille,,,,43.3008039,5.3770009
+5612345322,node,La Passarelle,restaurant,Marseille,,,,43.2919778,5.3672245
+5628777176,node,El Kahina,restaurant,Marseille,,,,43.3007336,5.3765768
+5661128654,node,Le Royal,restaurant,Marseille,,,,43.3008175,5.3770821
+5664606042,node,Le Capitole,restaurant,Marseille,,,,43.3008273,5.3779451
+5720851837,node,Le Peroquet,restaurant,Marseille,,,,43.1738973,5.6092953
+5725491164,node,La Tete d'Ail,restaurant,Marseille,13 Boulevard Anatole France,,https://m.facebook.com/La-Tete-Dail-710042809032564/,43.1752942,5.6102729
+5726266825,node,Les Lavandes,hotel,Marseille,,,,43.1768315,5.6065496
+5743534864,node,Snack express,restaurant,Marseille,,,,43.2962326,5.3762145
+5758052013,node,Friterie Werner & Co,restaurant,Marseille,Marseille,,http://www.frieteriewernerandco.com,43.2969804,5.3818079
+5785292453,node,O’Provencal,restaurant,Marseille,7,,,43.2946951,5.379146
+5785292454,node,Fleur de Sel,restaurant,Marseille,3,,,43.2892212,5.3757363
+5785295653,node,Oaï,restaurant,Marseille,"40 Rue Sainte, 13001",13001,,43.2923564,5.3743793
+5788227253,node,Bistro Regent Marseille,restaurant,Marseille,25,,,43.2933027,5.373381
+5795578741,node,Le Melo,restaurant,Marseille,,,,43.2939298,5.3829821
+5795578742,node,Chez Roger,restaurant,Marseille,,,,43.2965248,5.3723763
+5795682167,node,Hôtel le Rose Thé,hotel,Marseille,"247 Boulevard Beaurivage, 13600, La Ciotat",13600,https://www.hotel-rosethe.com/fr,43.1871752,5.6229517
+5795682168,node,Crepérie,restaurant,Marseille,,,,43.1874059,5.6250543
+5795682169,node,Chez Sophie,restaurant,Marseille,,,,43.1752884,5.6074921
+5809254855,node,Manureva,restaurant,Marseille,9,,,43.2899412,5.4794932
+5809288753,node,Le Newport,restaurant,Marseille,79/81,,,43.2455183,5.3738756
+5814607454,node,Down town,restaurant,Marseille,32,,,43.323769,5.4526378
+5815425649,node,Zaÿ Zaÿ,restaurant,Marseille,"134 Rue Paradis, 13006, Marseille",13006,https://www.instagram.com/zayzay.restaurant/,43.287616,5.3791319
+5817418405,node,Collins,restaurant,Marseille,,,,43.2964623,5.3715778
+5817421113,node,Les Templiers,restaurant,Marseille,,,,43.2965232,5.37441
+5817421516,node,Le Mistral,restaurant,Marseille,,,,43.2961906,5.3694916
+5817465847,node,Dubble,restaurant,Marseille,,,,43.2893572,5.3959367
+5822477586,node,O saveurs du Liban,restaurant,Marseille,"1, Marseille",,https://www.osaveursduliban.com/,43.2935688,5.3735235
+5824103358,node,Chez Mama Africa,restaurant,Marseille,,,https://chezmamaafricamarseille.fr/,43.2951013,5.3830245
+5842447185,node,Yasmine,restaurant,Marseille,25,,,43.2961286,5.3679445
+5843718126,node,Bracelet d'argent,restaurant,Marseille,,,,43.2979315,5.3714364
+5858835897,node,Le Bistro'Quai,restaurant,Marseille,,,,43.2147414,5.5375308
+5878692908,node,Black Friday,restaurant,Marseille,,,,43.2943298,5.3807499
+5891161015,node,,restaurant,Marseille,,,,43.1867087,5.6217518
+5903699153,node,Le ventre de la baleine,restaurant,Marseille,,,https://labaleinemarseille.com/,43.2936542,5.3836796
+5911116744,node,Hôtel Le Rocher,hotel,Marseille,,,,43.2462812,5.4181749
+5913412890,node,Grill Boucherie,restaurant,Marseille,,,,43.2500113,5.4046753
+5930775684,node,Aras,restaurant,Marseille,,,,43.3129966,5.3844595
+5934068820,node,Novotel,hotel,Marseille,,,,43.2806859,5.3872905
+5954314169,node,L'Athelia,restaurant,Marseille,"14 Avenue des Sorbiers, 13600, La Ciotat",13600,http://www.athelia13.fr/,43.2050801,5.6024228
+5976725358,node,Pizza Pasta,restaurant,Marseille,,,,43.2558839,5.5664432
+5983836878,node,Bistro Vénitien,restaurant,Marseille,,,,43.2947186,5.3832045
+5988199645,node,K'Fete du Monde,restaurant,Marseille,,,http://aajt.fr/AAJT/index.php?p=k_fete_des_mondes,43.3051372,5.3812976
+6005431651,node,The Jungle,restaurant,Marseille,,,,43.2881345,5.376602
+6030132992,node,Ibis Budget,hotel,Marseille,,,,43.2925289,5.3734984
+6030739730,node,L'ancre du panier,restaurant,Marseille,,,,43.2993034,5.3683116
+6031903349,node,Le Montmartre,restaurant,Marseille,,,,43.2975982,5.3659036
+6031903638,node,Le vieux panier,restaurant,Marseille,,,,43.2974461,5.3655208
+6031903639,node,Au Lampard,restaurant,Marseille,,,,43.2975278,5.3659192
+6031928974,node,Cedar,restaurant,Marseille,,,,43.2978064,5.3655684
+6031932646,node,La caveau su théâtre,restaurant,Marseille,26 Place de Lenche,,,43.2975943,5.3654834
+6036712072,node,Le Bistrot de Nino,restaurant,Marseille,1 Quai Jean Jacques Barthélémy,,https://www.le-bistrot-de-nino-restaurant-cassis.com/,43.2148019,5.5364336
+6106474679,node,Chez PP,restaurant,Marseille,13012,13012,,43.3012115,5.4315153
+6118499602,node,Le Moulin des Paluds,restaurant,Marseille,"80 Avenue de la Fleuride, 13400, Aubagne",13400,,43.2831376,5.6048836
+6129966104,node,Bar Tranquille,restaurant,Marseille,,,,43.3252412,5.3741799
+6139186986,node,Pastels World,restaurant,Marseille,,,,43.2951779,5.3798595
+6145441225,node,Marmara,restaurant,Marseille,,,,43.299899,5.3858401
+6163137643,node,Les blés d'or,restaurant,Marseille,,,,43.304663,5.3763951
+6170637394,node,ô Nem,restaurant,Marseille,,,http://onem.fr/,43.3027954,5.3977874
+6170638066,node,Chez Vincent,restaurant,Marseille,3 Boulevard de la Blancarde,,,43.302874,5.397141
+6185320685,node,Bistrot O’Prado,restaurant,Marseille,1 Boulevard Perier,,,43.2797429,5.3868374
+6205261811,node,Oscar,restaurant,Marseille,24,,,43.2965375,5.3724829
+6206100427,node,Soleil d'Asie,restaurant,Marseille,"2 Avenue Marius Ghirardelli, 13830, Roquefort-la-Bédoule",13830,https://www.soleil-dasie.com/,43.2471925,5.5907648
+6210210086,node,Le Debouche,restaurant,Marseille,,,,43.3014752,5.3875524
+6216223075,node,Verteurasia Valentine Bio,restaurant,Marseille,"800 Avenue du Château de Jouques, 13420, Gémenos",13420,https://www.verteurasia.fr/,43.2810933,5.619242
+6258990576,node,La Cave d'Alexandre,restaurant,Marseille,93,,,43.2894233,5.3876728
+6321157970,node,La Croix de Malte,hotel,Marseille,54 Boulevard Jean Jaurès,,https://www.croix-de-malte.com/,43.1773438,5.6101285
+6327125206,node,Oyster Bar,restaurant,Marseille,,,,43.1759376,5.6104092
+6328537700,node,For'eat,restaurant,Marseille,Rue Gaston de Flotte,,,43.2976279,5.427411
+6328743147,node,Loulou la Malice,restaurant,Marseille,,,,43.1742457,5.6101253
+6332080239,node,Maison Buon,restaurant,Marseille,,,https://www.maisonbuon.com/,43.2914832,5.373851
+6409052707,node,La Capsule,restaurant,Marseille,,,,43.2906614,5.4216919
+6409052712,node,Le 555,restaurant,Marseille,,,,43.2906338,5.4210881
+6416533292,node,La Boucle,restaurant,Marseille,,,,43.3012036,5.5101659
+6419094525,node,Le Pèbre d'Aï,restaurant,Marseille,,,https://www.lepebredai.fr/,43.3013826,5.5122748
+6425530043,node,L'eau des Collines,hotel,Marseille,,,https://www.hotel-eau-des-collines.fr/,43.3051265,5.5060413
+6434134382,node,Au Jardin de la Clue,restaurant,Marseille,,,https://restaurantjardindelaclue.fr/,43.3095771,5.5033853
+6446013989,node,L’Equinoxe,restaurant,Marseille,,,,43.2549337,5.3754904
+6446118786,node,Le Panier a Burgers,restaurant,Marseille,,,,43.3004229,5.40016
+6446220685,node,Bistrot 13B,restaurant,Marseille,,,,43.2922203,5.3751327
+6446255385,node,Chez Nous,restaurant,Marseille,,,,43.2917941,5.3841391
+6446275585,node,CornBread,restaurant,Marseille,,,,43.2939744,5.3849078
+6446286985,node,Le Corto,restaurant,Marseille,,,,43.2917459,5.3842231
+6465399785,node,Le Bistro Du Panier,restaurant,Marseille,,,,43.2969239,5.3672497
+6465446985,node,BoboLivo,restaurant,Marseille,,,,43.2965948,5.3668133
+6473742739,node,Mame Diarra,restaurant,Marseille,3O,,https://mame-diarra-marseille.fr/fr,43.2959142,5.3810383
+6473758877,node,Marseille Euromed,hotel,Marseille,118 Rue de Ruffi,,https://www.appartcity.com/fr/destinations/provence-alpes-cote-d-azur/marseille/marseille-euromed.html,43.314766,5.3696055
+6517947904,node,ubud-bali,restaurant,Marseille,,,,43.2855508,5.3823162
+6553299246,node,La Rôtisserie des Saveurs,restaurant,Marseille,"130, Marseille",,,43.3271275,5.3640577
+6554684281,node,Le Bestouan,restaurant,Marseille,,,,43.2131337,5.5312881
+6565151913,node,,restaurant,Marseille,,,,43.3271183,5.3627149
+6571076606,node,Planet Sushi,restaurant,Marseille,,,,43.2843676,5.3841883
+6571078195,node,Vapiano,restaurant,Marseille,20 Avenue du Prado,,,43.2844493,5.3841254
+6571113289,node,Wasabi,restaurant,Marseille,,,,43.2845135,5.3853216
+6575039791,node,Marmites & Vapeur,restaurant,Marseille,,,,43.2929014,5.3726383
+6577703036,node,Gold Eagles,restaurant,Marseille,,,https://www.goldeagles.fr/,43.2891889,5.4806209
+6589753096,node,Le Tire-Bouchon,restaurant,Marseille,,,,43.2952055,5.3829433
+6589753097,node,Bistro du Cours,restaurant,Marseille,"13, Marseille",,,43.295141,5.382968
+6598752385,node,L'Escalier Restaurant,restaurant,Marseille,,,,43.2152589,5.5371193
+6604942973,node,120°C,restaurant,Marseille,,,https://www.120c.fr,43.2893059,5.3970028
+6627597553,node,Restaurant Thien Huong,restaurant,Marseille,,,,43.3083767,5.4370355
+6627601793,node,C'Thaï,restaurant,Marseille,78 Avenue du Vingt Quatre Avril 1915,,,43.3078551,5.4321747
+6631640472,node,Rendez-Vous,restaurant,Marseille,,,https://rendezvous-traiteur.eatbu.com,43.3010155,5.3974194
+6655677585,node,l'Oleas,restaurant,Marseille,"Cours Julien, 13006",13006,http://loleas.blogspot.com,43.2947645,5.3831738
+6669549585,node,O’Bidul,restaurant,Marseille,79,,,43.29199,5.3807056
+6691863718,node,Maracana pizzeria,restaurant,Marseille,,,,43.3218885,5.3806237
+6700838091,node,Street Pizz',restaurant,Marseille,,,,43.2887131,5.4555498
+6723039744,node,Monsieur Georges,restaurant,Marseille,175 Avenue du Prado,,,43.2779352,5.3886906
+6723044815,node,L'Élite Istambul,restaurant,Marseille,,,,43.2779919,5.3886574
+6723056951,node,Le Kilt,restaurant,Marseille,,,,43.2782237,5.3885321
+6737202810,node,L'Escale,restaurant,Marseille,,,,43.2447921,5.3723963
+6737202811,node,Le Lagon Bleu,restaurant,Marseille,,,,43.2444454,5.3717195
+6737202812,node,Saona Beach,restaurant,Marseille,,,,43.2445211,5.3718953
+6737202813,node,P.Kitchen,restaurant,Marseille,,,,43.2443157,5.3712878
+6738889487,node,Hong Kong 3,restaurant,Marseille,,,,43.3352988,5.4508039
+6742439553,node,Kitchenwok,restaurant,Marseille,,,http://cafe-yushu.com/,43.3401325,5.4564781
+6766431732,node,Marinelli,restaurant,Marseille,,,,43.2443363,5.3703437
+6766454555,node,Ô Beach,restaurant,Marseille,,,,43.2442008,5.3707359
+6778012385,node,Le Cap,restaurant,Marseille,"5 Avenue Victor Hugo, 13600",13600,,43.1778281,5.6095706
+6779257019,node,Boccascena,restaurant,Marseille,,,,43.3108452,5.3676072
+6794518682,node,,restaurant,Marseille,,,,43.3261191,5.3565913
+6830949224,node,La maison de fabiana,restaurant,Marseille,"8 Cours Barthélémy, 13400, Aubagne",13400,,43.2928571,5.5669709
+6836650508,node,La Marmite Joyeuse,restaurant,Marseille,33 Boulevard National,,https://www.marmitejoyeuse.org/,43.3026191,5.3865093
+6842710636,node,Hôtel Trianon,hotel,Marseille,12 Rue de la Grande Armée,,,43.3005137,5.3841095
+6860035444,node,Le Comptoir Bellevue,restaurant,Marseille,,,,43.2964759,5.3720023
+6860035445,node,Le Grand Comptoir de Paris,restaurant,Marseille,,,,43.2964707,5.3719306
+6860035446,node,Massilia,hotel,Marseille,,,https://www.massilia-hotel.fr/,43.3006848,5.3801197
+6862790012,node,Les Trésors du Liban,restaurant,Marseille,,,https://www.lestresorsduliban.fr/,43.2620951,5.4040099
+6865774280,node,Hôtel du Coq,hotel,Marseille,,,,43.3008568,5.3856754
+6877510027,node,La Passerellle,restaurant,Marseille,,,,43.3207873,5.3791675
+6878567283,node,Le taxi,restaurant,Marseille,,,,43.2991603,5.3859643
+6889094797,node,Casa Brandi chez Marco e Luigi,restaurant,Marseille,,,,43.2863592,5.3775119
+6898227629,node,Les Amis,restaurant,Marseille,2 Cours de Lorraine,,,43.3230674,5.382704
+6909653939,node,La Maisonette d'Odette,hotel,Marseille,,,,43.1750724,5.6082199
+6912384509,node,La Belle Étoile,restaurant,Marseille,,,,43.3176396,5.3814313
+6918410690,node,La girafe Apparthotel,hotel,Marseille,,,,43.2840658,5.5136206
+6964916888,node,Au bonheur de Saïgon,restaurant,Marseille,"19 Boulevard Anatole France, 13600",13600,,43.1757485,5.610326
+6964916890,node,La Pêcherie,restaurant,Marseille,"41 Quai François Mitterrand, 13600",13600,,43.1720261,5.6056919
+6964916891,node,Le Ricochet,restaurant,Marseille,"18 des combattants, 13600",13600,,43.1745666,5.6077687
+6964916892,node,côté jardin,restaurant,Marseille,,,,43.1886971,5.627177
+6964916893,node,Courtepaille,restaurant,Marseille,"Avenue de la Tramontane, 13600",13600,,43.2054732,5.6020999
+6964916989,node,Le Nautique,restaurant,Marseille,,,,43.1868687,5.6284473
+6964917087,node,La table de Jeanne,restaurant,Marseille,"29 Quai François Mitterrand, 13600",13600,,43.1729076,5.605637
+6964917089,node,Comme en Italie,restaurant,Marseille,"6 Place Sadi Carnot, 13600",13600,,43.174777,5.6087295
+6964917185,node,La tête d'ail,restaurant,Marseille,"13 Boulevard Anatole France, 13600",13600,,43.1753047,5.6102292
+6964917187,node,Le Phare,restaurant,Marseille,Quai Général de Gaulle,,,43.174732,5.6072153
+6983370975,node,Comptoir libanais,restaurant,Marseille,,,,43.2421113,5.3966502
+7012713782,node,L'indécis,restaurant,Marseille,3 Rue Bravet,,,43.2900502,5.3985503
+7029335861,node,Daxxia,restaurant,Marseille,"680 Avenue Émile Bodin, 13600, La Ciotat",13600,,43.1907435,5.6032645
+7054970446,node,Hôtel d'Anjou,hotel,Marseille,,,,43.2967119,5.3840431
+7054970450,node,Hôtel des Platanes,hotel,Marseille,,,,43.2969932,5.3823483
+7054970452,node,Hôtel Panoramique,hotel,Marseille,,,,43.2992636,5.3798294
+7054970455,node,Hôtel Ariana,hotel,Marseille,,,,43.2972091,5.3823324
+7054970472,node,Hôtel Sainte-Marie,hotel,Marseille,,,,43.2986812,5.3768271
+7054970475,node,La Raclette,restaurant,Marseille,,,,43.2948725,5.3831163
+7086367098,node,Volodia,restaurant,Marseille,44,,,43.2991175,5.3663497
+7096089401,node,Maman Shelter,restaurant,Marseille,64,,,43.2904755,5.3890056
+7104203452,node,Aparthotel Adagio Access Marseille Prado Périer,hotel,Marseille,"161 Avenue du Prado, Marseille",,https://www.adagio-city.com/de/hotel-8402-aparthotel-adagio-access-marseille-prado-perier/index.shtml,43.2786071,5.3886546
+7104753923,node,Taste,restaurant,Marseille,,,,43.2928229,5.3751756
+7110830786,node,Sud Pizza,restaurant,Marseille,88,,,43.3006898,5.3668257
+7112360325,node,L'absinthe,restaurant,Marseille,,,,43.2945195,5.3995439
+7160896685,node,Le 66,restaurant,Marseille,"515 Avenue du 21 Août 1944, 13400, Aubagne",13400,,43.2870438,5.5616248
+7177901585,node,Le Sloop,restaurant,Marseille,"3 Quai François Mitterrand, 13600",13600,,43.1745592,5.6065923
+7190137243,node,O'Kwat,restaurant,Marseille,,,,43.3621927,5.3150472
+7208201033,node,Dandy’o,restaurant,Marseille,,,,43.3101876,5.3678217
+7208201912,node,Healthy by nature,restaurant,Marseille,,,,43.3105084,5.3679166
+7234965440,node,La Pâte à Pizza,restaurant,Marseille,3 Rue Saint Pierre,,,43.2939087,5.3870623
+7247225071,node,La Ola,restaurant,Marseille,"12 Rue Vian, 13006",13006,,43.2944299,5.3837869
+7261787169,node,Le petit jardin,restaurant,Marseille,,,,43.2476324,5.3753247
+7276187486,node,Ma Cuisine du Marché,restaurant,Marseille,"28 Rue Fougasse, 13600",13600,,43.1750365,5.6056078
+7276418385,node,Hemingway's,restaurant,Marseille,"13 Place Sadi Carnot, 13600",13600,,43.1747407,5.6083251
+7282898013,node,,restaurant,Marseille,,,,43.2606422,5.5742256
+7328145385,node,,restaurant,Marseille,,,,43.3477589,5.465008
+7331907274,node,La Diva,restaurant,Marseille,,,,43.3520104,5.4757672
+7332186482,node,Vapiano,restaurant,Marseille,,,,43.2889691,5.4816142
+7332987258,node,Amista,restaurant,Marseille,,,,43.2899438,5.480611
+7334168261,node,Pizzeria l'artisanale,restaurant,Marseille,,,,43.2820841,5.4296413
+7335111040,node,,restaurant,Marseille,,,,43.2855297,5.4805466
+7335780315,node,La Piraterie,restaurant,Marseille,118 Avenue des Peintres Roux,,,43.3031492,5.4730609
+7343837560,node,,restaurant,Marseille,,,,43.3453578,5.4253936
+7346029773,node,Delicia Rôtisserie,restaurant,Marseille,,,,43.3512199,5.4384699
+7414618360,node,Romy,restaurant,Marseille,,,,43.2913154,5.3855344
+7568857277,node,MyBurgerBox,restaurant,Marseille,"82, Marseille",,,43.2846211,5.3817481
+7614761186,node,Le Caribou,restaurant,Marseille,,,,43.2933101,5.3726766
+7614761385,node,La Daurade,restaurant,Marseille,8 Rue Fortia,,https://www.la-daurade-restaurant-marseille.fr,43.2934492,5.3733846
+7616506347,node,Le miniut,restaurant,Marseille,Marseille,,,43.2902431,5.3662594
+7617210780,node,Les délices de Babylone,restaurant,Marseille,,,,43.2924679,5.5655892
+7621888782,node,Hako,restaurant,Marseille,218 Chemin du Roucas Blanc,,,43.280873,5.3687954
+7621890271,node,Baan Thai,restaurant,Marseille,,,,43.2821041,5.3737883
+7621890273,node,Maison Vauban,restaurant,Marseille,,,,43.2823936,5.3740814
+7707713584,node,Ate Qu'enfim,restaurant,Marseille,"6, Marseille",,https://www.atequenfim-restaurant-portugais.fr/,43.2866144,5.3904181
+7719557085,node,Café Populaire,restaurant,Marseille,"110, Marseille",,https://fr-fr.facebook.com/cafe.populaire.3/,43.2887918,5.3786203
+7749927816,node,La vague,restaurant,Marseille,,,,43.1868981,5.6230245
+7749927817,node,Paula,restaurant,Marseille,,,,43.2920736,5.5686285
+7749927822,node,Le bouchon,restaurant,Marseille,,,,43.2946216,5.5672286
+7749927831,node,Zia Concetta,restaurant,Marseille,1 Rue de Guin,,,43.2918149,5.5699492
+7749927836,node,Restaurant du château,restaurant,Marseille,,,,43.2955721,5.5024544
+7752785819,node,Dubble,restaurant,Marseille,"10 Rue Henry Cousinou, Marseille",,https://www.dubble-food.com/restaurants/marseille-capelette,43.2793467,5.4055462
+7770163799,node,Tuba,hotel,Marseille,"Boulevard Alexandre Delabre, 13008, Marseille",13008,https://tuba-club.com/,43.2179289,5.3457796
+7793830239,node,Chez Paul,restaurant,Marseille,,,,43.2151587,5.3456499
+7793984354,node,Le Nautica des goudes,restaurant,Marseille,,,,43.2151885,5.3462141
+7797691380,node,Restaurant Pizzeria du Roy d'Espagne,restaurant,Marseille,"6, Marseille",,https://www.thefork.fr/restaurant/restaurant-du-roy-d-espagne-r396933,43.2414666,5.3875483
+7813551885,node,Le Ziguinchor,restaurant,Marseille,20,,https://restaurant-ziguinchor.com/,43.2936866,5.3846454
+7813803786,node,L'eau à la bouche,restaurant,Marseille,120 Corniche President John F Kennedy,,,43.2829033,5.3503198
+7827681786,node,Langoustine,restaurant,Marseille,,,,43.2934966,5.3735365
+7829025644,node,Pizzeria Chez Dédé,restaurant,Marseille,,,,43.2959969,5.3977136
+7829025645,node,Lou Granjoun,restaurant,Marseille,,,,43.2959393,5.397721
+7843180630,node,Regard Café,restaurant,Marseille,,,,43.2978543,5.3634913
+7843180643,node,Brasserie du littoral,restaurant,Marseille,,,,43.3011396,5.3644811
+7859266729,node,Quanta Café,restaurant,Marseille,"60, Marseille",,,43.3596442,5.3385102
+7875575772,node,Le Bergo,restaurant,Marseille,"12 Place Georges Clemenceau, 13420, Gémenos",13420,,43.2959695,5.6289279
+7893785860,node,Pizza TiTi,restaurant,Marseille,,,https://www.pizza-titi.com/,43.3601292,5.3151332
+7897276285,node,Chez Loury,restaurant,Marseille,,,,43.2932821,5.3736321
+7917562288,node,La Table,restaurant,Marseille,"248 Avenue des Paluds, 13400, Aubagne",13400,https://panierdequartier.fr/la-table/,43.2863943,5.602968
+7925474560,node,Crep' on fire,restaurant,Marseille,,,,43.2876903,5.4644778
+7925474613,node,Long châu,restaurant,Marseille,,,,43.287456,5.465662
+7931369992,node,O Milieu,restaurant,Marseille,"248 Avenue des Paluds, 13400, Aubagne",13400,,43.2868138,5.6030916
+7931369993,node,O'Regal,restaurant,Marseille,"248 Avenue des Paluds, 13400, Aubagne",13400,,43.2863808,5.6032699
+7931960491,node,Green is better,restaurant,Marseille,"248 Avenue des Paluds, 13400, Aubagne",13400,https://www.greensurmesure.fr/,43.2866118,5.6018949
+7931960508,node,Le Bol d'Air,restaurant,Marseille,,,https://www.boldair-leresto.net/,43.2863286,5.6028766
+7931960509,node,Le Crystal,restaurant,Marseille,"19 Avenue des Paluds, 13400, Aubagne",13400,https://www.le-crystal.eatbu.com,43.2844945,5.6015085
+7931960512,node,La Kandide,restaurant,Marseille,"248 Avenue des Paluds, 13783, Aubagne",13783,,43.2863164,5.6033112
+7933887657,node,Memphis Coffee,restaurant,Marseille,"572 Avenue des Caniers, 13400, Aubagne",13400,https://www.memphis.coffeel.com/,43.2892911,5.5930621
+7934538580,node,Massilia Café,restaurant,Marseille,,,,43.2968807,5.3741256
+7937395359,node,Le Morrison,restaurant,Marseille,,,,43.28255,5.613024
+7944651755,node,Murano,restaurant,Marseille,"50 Voie Ariane, 13600, La Ciotat",13600,,43.2009598,5.593434
+7982804464,node,Les 2 L,restaurant,Marseille,"63 Avenue de la Plaine Brunette, 13600, La Ciotat",13600,,43.2006451,5.5953245
+7997257335,node,Mademoiselle Fifi,restaurant,Marseille,,,,43.2797888,5.4124685
+7997575689,node,Les Minots,restaurant,Marseille,"36 Quai François Mitterrand, 13600",13600,,43.1722936,5.6056158
+8002195590,node,Rocky pop,hotel,Marseille,"60, Marseille",,,43.2828743,5.3872954
+8022634567,node,Popote,restaurant,Marseille,"112 Avenue du Vent d'Aut, 13400, Aubagne",13400,https://www.popote-box.com/,43.2889254,5.5947583
+8037536735,node,Le cochon terrible,restaurant,Marseille,,,,43.3566456,5.4879643
+8044150899,node,L'Entrecôte,restaurant,Marseille,,,,43.307523,5.4235036
+8045278106,node,Ctc Artisan Restaurateur - Le Campus,restaurant,Marseille,,,,43.3612711,5.3405872
+8047211343,node,Courtepaille,restaurant,Marseille,,,,43.2908104,5.4948383
+8047413809,node,Ibis Marseille Timone,restaurant,Marseille,,,,43.292563,5.4016242
+8047413846,node,Le Vizille,restaurant,Marseille,,,,43.2887568,5.399799
+8059204115,node,La Maison des raviolis,restaurant,Marseille,28,,http://www.la-maison-des-raviolis.fr/site/index.html,43.247515,5.4005102
+8059209360,node,La Maison des Raviolis - Italie,restaurant,Marseille,14 Rue d'Italie,,https://www.la-maison-des-raviolis.fr/,43.2902737,5.3817502
+8065963189,node,Tuba,hotel,Marseille,2,,https://tuba-club.com/,43.2179069,5.3458697
+8071999799,node,Le Portugais,restaurant,Marseille,"39, Marseille",,,43.2939766,5.400532
+8071999811,node,Braserie de l'Océan,restaurant,Marseille,,,,43.2928211,5.3999097
+8108433184,node,Le Cafouch aux Saveurs,restaurant,Marseille,"21 Rue Gaston Castel, 13016, Marseille",13016,https://www.lecafouch.com/,43.356434,5.3351493
+8108667712,node,Multi Restauration Méditerranée,restaurant,Marseille,"21, Marseille",,https://www.multirestauration.com/,43.3593191,5.3395481
+8116369082,node,Ourea,restaurant,Marseille,,,https://www.ourea-restaurant.com,43.2906135,5.3734652
+8116416890,node,Yima,restaurant,Marseille,,,,43.2952311,5.3798106
+8117427405,node,La petite Italie,restaurant,Marseille,"139 Rue Rabelais, 13016, Marseille",13016,,43.3594659,5.3321215
+8164680678,node,Pizza Zazza,restaurant,Marseille,125 Avenue de Toulon,,,43.2848861,5.3932109
+8164680690,node,Pizzeria Buona Sera,restaurant,Marseille,172 Avenue de Toulon,,,43.2847465,5.3936823
+8165683317,node,Le 37,restaurant,Marseille,,,,43.17224,5.6056317
+8176522569,node,Master Café,restaurant,Marseille,,,,43.2929992,5.4525447
+8328700638,node,Ice Park,restaurant,Marseille,,,,43.26483,5.3737284
+8341407929,node,Le Céleste,hotel,Marseille,"Place du Mistral, Marseille",,,43.3092757,5.3892763
+8391843707,node,Restaurant Apave,restaurant,Marseille,,,,43.3606546,5.3220663
+8426660399,node,Tak'away,restaurant,Marseille,1 Avenue Docteur Emmanuel Agostini,,,43.2148388,5.5394466
+8438797336,node,Le Petit Dugo,restaurant,Marseille,,,https://petitdugo.fr/,43.2983665,5.3812189
+8467987830,node,Le Toigou,restaurant,Marseille,162 Avenue de Mazargues,,https://www.letoigou.fr/,43.2652456,5.3904223
+8468092886,node,La Ruche,restaurant,Marseille,"128 Rue Sainte, Marseille",,http://www.laruche-marseille.fr/,43.290876,5.3669126
+8475740438,node,Fine Cocott,restaurant,Marseille,,,,43.2913165,5.3814077
+8475740439,node,Oeuf,restaurant,Marseille,"7 Place de Rome, 13006",13006,https://berniecoffee.fr/,43.2914319,5.3809959
+8475740450,node,Le petit Chamarel,restaurant,Marseille,,,,43.2914499,5.3818854
+8475740457,node,Waldorf of Marseille,restaurant,Marseille,,,,43.2911782,5.3816264
+8475740472,node,Hôtel Massilia,hotel,Marseille,,,,43.291305,5.382631
+8475740473,node,Le petit Chamarel,restaurant,Marseille,,,,43.2912475,5.3820027
+8475740475,node,Soul,restaurant,Marseille,12 Rue du Théâtre-Français,,,43.297207,5.3823549
+8475740488,node,Hôtel Baron Amédée Armand,hotel,Marseille,,,,43.2916297,5.3817782
+8475740489,node,Chez Diego,restaurant,Marseille,1 Boulevard Louis Salvator,,https://chezdiego.eatbu.com,43.2910458,5.3811857
+8475740494,node,Papyrus,restaurant,Marseille,,,,43.290808,5.3813024
+8518294533,node,Burger's banquet,restaurant,Marseille,,,,43.2935449,5.3761661
+8518294550,node,Pizzeria di Venezia,restaurant,Marseille,,,,43.2943577,5.3750439
+8521203795,node,La Terrasse des Embruns,restaurant,Marseille,355 Corniche President John F Kennedy,,,43.2713536,5.3629857
+8532266123,node,La Casertane,restaurant,Marseille,,,,43.292862,5.3753441
+8575522963,node,Babbo,restaurant,Marseille,,,,43.3005674,5.4772762
+8601906915,node,La Table du 12em,restaurant,Marseille,70 Rue Saint Jean du Desert,,,43.2990744,5.4364139
+8601941432,node,Italia Pizza,restaurant,Marseille,,,,43.3033551,5.4308791
+8652900369,node,Emilio,restaurant,Marseille,"70 Avenue de Mazargues, Marseille",,https://www.facebook.com/Emilio-168344943287853/,43.2680609,5.3888944
+8698400660,node,Mama Ghana,restaurant,Marseille,,,,43.2948183,5.3814624
+8721177228,node,ChungChun Ricedog Coréen,restaurant,Marseille,,,,43.3042601,5.3671151
+8736460265,node,Bombay-Hanoï,restaurant,Marseille,77 Boulevard Sakakini,,,43.2949998,5.401222
+8797915715,node,Jour Vieux Port,restaurant,Marseille,,,https://cmdfrance.jour.fr/fr/shops/healthy/marseille-vieuxport,43.2955012,5.3746031
+8798011762,node,Escale Oceania,hotel,Marseille,,,,43.2955429,5.3747234
+8831978318,node,"L'Alveola, Pizza al taglio",restaurant,Marseille,,,https://www.lalveola.com/,43.2440569,5.371432
+8852512684,node,La Brasserie de Cadolive,restaurant,Marseille,,,,43.396331,5.5442228
+8866906266,node,Spok (Notre Dame),restaurant,Marseille,,,https://www.spok.fr/,43.2869078,5.3740255
+8866911515,node,Sepia,restaurant,Marseille,,,https://restaurant-sepia.com,43.2894632,5.3686026
+8866927530,node,Sushi street café,restaurant,Marseille,,,sushistreetcafe.fr,43.2891686,5.3727627
+8866934212,node,Les halles de la Major,restaurant,Marseille,,,leshallesdelamajor.com,43.299384,5.3639759
+8866937953,node,Casa Ortega,hotel,Marseille,,,casa-ortega.fr,43.3017257,5.3793604
+8866939975,node,Spok (La Timone),restaurant,Marseille,,,https://www.spok.fr/,43.2899867,5.39793
+8866953176,node,Le présage,restaurant,Marseille,99 Traverse de la rose,,https://lepresage.fr/,43.3447104,5.438763
+8866958471,node,Spok (Herriot),restaurant,Marseille,62,,https://www.spok.fr/,43.272031,5.3871312
+8866960962,node,La cantine bio (Gémenos),restaurant,Marseille,,,https://satoriz.fr,43.2978099,5.5985289
+8866967197,node,Pension Edelweiss,hotel,Marseille,,,https://pension-edelweiss.fr/,43.3000345,5.3817244
+8867654817,node,Les Jardins de Lola,restaurant,Marseille,"3 Avenue Fernand Gassion, 13600",13600,,43.1764183,5.605537
+8880341663,node,Au Cœur du 17,restaurant,Marseille,15 Rue Jean-Eugene Paillas,,,43.2786367,5.4065917
+8888046306,node,Brasserie L'Atypique,restaurant,Marseille,,,,43.2792264,5.4124027
+8888046311,node,Rive Gauche,restaurant,Marseille,,,,43.2790809,5.4136004
+8902097617,node,MS Club,restaurant,Marseille,9 Boulevard Gay Lussac,,https://www.ms-club.fr/,43.3325837,5.3741406
+8904672715,node,Marafiki,restaurant,Marseille,"34 Rue du Refuge, 13002",13002,https://www.marafiki-restaurant.fr/,43.2985367,5.3677017
+8919525951,node,Comptoir Longchamp,restaurant,Marseille,,,,43.3038569,5.3929927
+8944460094,node,L'Escale des Docks,restaurant,Marseille,,,,43.3158842,5.3670587
+8949516653,node,La cucina di Nini,restaurant,Marseille,,,,43.3044316,5.3654337
+8954244845,node,Ibis Budget,hotel,Marseille,"248 Avenue des Paluds, 13685, Aubagne",13685,https://all.accor.com/hotel/5274/index.fr.shtml,43.286351,5.6024723
+8956995122,node,Brasserie Le Portis,restaurant,Marseille,,,,43.2968274,5.3678221
+8957273950,node,L'Estaca,restaurant,Marseille,,,,43.3635741,5.3099911
+8972723917,node,Paulette's,restaurant,Marseille,,,,43.2957896,5.3664766
+8974809017,node,Magnolia,restaurant,Marseille,,,,43.2945326,5.3855357
+8977123718,node,Le Phocea,restaurant,Marseille,,,,43.2792181,5.3050723
+8989818609,node,La mère buonavista,restaurant,Marseille,,,,43.28502,5.383862
+8989853724,node,Brasserie Paulaner,restaurant,Marseille,,,,43.2851136,5.3838015
+8990886544,node,fivepizza,restaurant,Marseille,,,,43.2972411,5.3731857
+9017482956,node,Bella Pizza,restaurant,Marseille,,,,43.2366496,5.3623923
+9017485600,node,Coquillages de Montredon,restaurant,Marseille,"79 Avenue de la Madrague de Montredon, 13008",13008,,43.2361494,5.3620853
+9029107646,node,Maison boa,hotel,Marseille,7 Mauvestis,,https://maison-boa.worhot.com/,43.2994896,5.3688214
+9043112618,node,Le Comptoir aux Huiles by Delucce,restaurant,Marseille,38,,https://le-comptoir-aux-huiles-by-delucce.business.site/,43.298838,5.366557
+9044846683,node,La Bonne Mère,restaurant,Marseille,19 Rue Michel Arnaud,,,43.2150269,5.5382895
+9047228015,node,Ô REV,restaurant,Marseille,,,,43.2148552,5.5383539
+9048059735,node,Corton Beach,restaurant,Marseille,Avenue du Revestel,,https://www.cortonbeachcortonkayakcassis.com/,43.2107026,5.5443443
+9048127235,node,Tripletta,restaurant,Marseille,,,,43.291917,5.3848591
+9051015144,node,Poissonnerie Laurent,restaurant,Marseille,5 Quai Jean Jacques Barthélémy,,,43.2147228,5.5361966
+9054265536,node,Nouveau Oriental Grill's,restaurant,Marseille,,,,43.3116552,5.3776566
+9054339105,node,Le Capados,restaurant,Marseille,242 Boulevard National,,,43.3107506,5.3787584
+9054436502,node,Tandoori food,restaurant,Marseille,,,,43.3099786,5.3795703
+9056061248,node,Modo PIZZA,restaurant,Marseille,"1 Rue Mathieu Stilatti, 13003, Marseille",13003,,43.308567,5.3773335
+9056140471,node,La marmite du régal,restaurant,Marseille,,,,43.3084741,5.3772136
+9057192693,node,,restaurant,Marseille,,,,43.3084621,5.3812269
+9081877444,node,B52 café,restaurant,Marseille,,,,43.2878098,5.5245676
+9124102961,node,Regain,restaurant,Marseille,"53 Rue Saint Pierre, Marseille",,https://www.regain-marseille.com/,43.2931594,5.3893126
+9186747681,node,Otto Marseille,restaurant,Marseille,150,,https://restaurantotto.fr/,43.2717951,5.3867386
+9192921457,node,Le Blum,restaurant,Marseille,,,https://www.blumcanebiere.com/,43.2987898,5.3835162
+9207708742,node,L'Avidita,restaurant,Marseille,"112, Marseille",,https://www.facebook.com/laviditamarseille/,43.2810724,5.3922659
+9207708743,node,Steak Lounge,restaurant,Marseille,"112 Avenue Jules Cantini, Marseille",,https://www.facebook.com/SteakLoungeMarseille/,43.2809813,5.3924397
+9207708744,node,Brothers,restaurant,Marseille,"100 Avenue Jules Cantini, Marseille",,https://www.facebook.com/brothersrestaurantcantini/,43.2816645,5.3911422
+9216483771,node,Côté Sushi,restaurant,Marseille,359,,,43.2697991,5.3875853
+9216596557,node,Hôtel Mercure Marseille Centre Prado Vélodrome,hotel,Marseille,11 Avenue de Mazargues,,https://all.accor.com/hotel/3004/index.fr.shtml,43.269637,5.3882703
+9216627137,node,Un jardin en ville,restaurant,Marseille,20 Avenue de Mazargues,,https://unjardinenville.fr/,43.2692375,5.3879442
+9235227417,node,La roquette,restaurant,Marseille,,,,43.2911273,5.3685115
+9253751460,node,Elyssa,restaurant,Marseille,27,,https://www.elyssa-restaurant.fr/,43.2927339,5.3689063
+9276128990,node,Set,restaurant,Marseille,,,,43.2622906,5.3945151
+9277867307,node,My Little Warung,restaurant,Marseille,19,,https://www.mylittlewarung.com/restaurant/marseille-dromel/,43.2690634,5.4036717
+9332083543,node,Le Daily,restaurant,Marseille,,,https://ledailygolf.fr/,43.2562736,5.3822836
+9332083556,node,Roma Pizza,restaurant,Marseille,"159 Avenue Clot-Bey, 13008",13008,http://romapizza.fr,43.2559629,5.3825156
+9332853490,node,La Terrasse,restaurant,Marseille,85 Boulevard de Sainte Marguerite,,,43.2683751,5.4059166
+9349387917,node,Le Golfe,restaurant,Marseille,"14 Boulevard Anatole France, 13600",13600,,43.175409,5.6102239
+9351014269,node,Venus,restaurant,Marseille,79,,,43.2832598,5.3750299
+9357711873,node,Gran Café,restaurant,Marseille,158,,,43.2713908,5.3869065
+9370418445,node,SU and SHI,restaurant,Marseille,,,https://www.suandshi.com/,43.2979143,5.5954051
+9387998854,node,Les Membres,restaurant,Marseille,,,,43.2900791,5.3659577
+9393420921,node,Le Flash,restaurant,Marseille,61 Rue Augustin Aubert,,,43.2663098,5.4032128
+9435338828,node,Mississipi,restaurant,Marseille,,,,43.2676305,5.7305378
+9435341398,node,Tombstone Saloon,restaurant,Marseille,,,,43.2680818,5.7292067
+9440428310,node,Zenitude Hôtel-Résidences Marseille Saint-Charles,hotel,Marseille,"10, Marseille",,https://www.zenitude-hotel-residences.com/residences/marseille-saint-charles/,43.3019386,5.3764947
+9442215700,node,O'Dakar,restaurant,Marseille,"122 Avenue de la Viste, 13015, Marseille",13015,,43.3592463,5.3578156
+9442215707,node,Mevlana Restaurant,restaurant,Marseille,,,,43.3559394,5.3568502
+9449263581,node,La Rostantine,restaurant,Marseille,44,,,43.2873146,5.381352
+9453259143,node,Meininger Hotel,hotel,Marseille,"25 Rue de Forbin, 13002",13002,https://meininger-hotels.com,43.3056563,5.3710775
+9462708897,node,Gilberte et Marguerite,restaurant,Marseille,,,https://www.gilberteetmarguerite.com/,43.3039658,5.3676494
+9503496156,node,Marseille en face,restaurant,Marseille,2 Rue du Chateau d'If,,,43.2797575,5.3261403
+9510861151,node,Maison Boheme,restaurant,Marseille,,,https://restaurantmaisonboheme.fr/,43.2843464,5.3830961
+9513605009,node,Claudia Ristorante,restaurant,Marseille,,,,43.2853376,5.3770978
+9514377197,node,Maga,restaurant,Marseille,,,,43.2850512,5.3846494
+9514393252,node,Kyo,restaurant,Marseille,15 Avenue du Prado,,https://www.kiosßui.com/,43.2846643,5.3848871
+9516546026,node,Le 24,restaurant,Marseille,24 Rue Falque,,,43.2843847,5.3826702
+9516550263,node,Montevideo,restaurant,Marseille,,,,43.2864333,5.3782377
+9516556627,node,JP Noodle Bar,restaurant,Marseille,,,,43.2866721,5.3794373
+9527318247,node,Cocobongo,restaurant,Marseille,,,,43.2647237,5.3737707
+9550360017,node,Pizza Cosy,restaurant,Marseille,"101 Rue de la République, 13002",13002,,43.3040221,5.3676061
+9551406917,node,Fresh Box,restaurant,Marseille,"17 Rue Jean Trinquet, 13002",13002,,43.3010976,5.3708267
+9551993517,node,Au Deux Guingois,restaurant,Marseille,"25 Rue du Chevalier Roze, 13002",13002,,43.2984708,5.3713821
+9566462052,node,Le Pensez-y,restaurant,Marseille,,,,43.3121155,5.4650785
+9566867122,node,Le Baron Perché,restaurant,Marseille,45 Rue Chateaubriand,,,43.2864045,5.3593645
+9571635720,node,Il Canaletto,restaurant,Marseille,,,,43.2937205,5.3740458
+9574758396,node,La Terrasse du 8ème,restaurant,Marseille,27 Avenue Alexandre Dumas,,,43.2639009,5.3899132
+9578985829,node,Son-Thuy,restaurant,Marseille,108 Corniche President John F Kennedy,,,43.2834044,5.3499942
+9581654683,node,Le Mumedia,restaurant,Marseille,,,,43.371152,5.3551448
+9581654684,node,Restaurant Pizzeria chez Moussa,restaurant,Marseille,,,,43.3715492,5.355955
+9594252117,node,Apsara,restaurant,Marseille,"151 Rue Sainte, 13007",13007,,43.2906508,5.3666882
+9616283851,node,Le Cabanon de l'Estaque,restaurant,Marseille,,,,43.3602439,5.2957452
+9621058146,node,Le Capucin,restaurant,Marseille,,,https://www.brasserielecapucin.com/,43.2966263,5.3788863
+9633396726,node,Au Bord de l'Eau,restaurant,Marseille,,,,43.2322418,5.3539456
+9634033731,node,L'Aristocrate,restaurant,Marseille,"109 Avenue de la Viste, 13015, Marseille",13015,,43.3590276,5.3575717
+9634033738,node,Chiken Food,restaurant,Marseille,,,,43.3565768,5.3572588
+9642905500,node,Arkose,restaurant,Marseille,101 Boulevard Michelet,,,43.2676164,5.3952833
+9643383878,node,High Cube Marseille,restaurant,Marseille,"Rue de Shangaï, 13016, Marseille",13016,,43.3606543,5.3471329
+9645956569,node,,restaurant,Marseille,,,,43.2653731,5.408513
+9668035222,node,Le Julien,restaurant,Marseille,114 Rue Paradis,,,43.2886942,5.3787024
+9668050173,node,Suchic,restaurant,Marseille,,,,43.2866156,5.3829154
+9668051934,node,Hôtel Paradis,hotel,Marseille,115 Rue Paradis,,,43.2887686,5.3788422
+9668054411,node,Le Zénith,restaurant,Marseille,,,,43.2865713,5.3827685
+9668080597,node,New Delhi,restaurant,Marseille,,,,43.2866507,5.3830539
+9670555017,node,Montgrand Réception,hotel,Marseille,,,,43.2911101,5.3763809
+9672083451,node,Le 24 Poke Bowl,restaurant,Marseille,46 Rue Breteuil,,,43.2889943,5.3762798
+9679625417,node,Le Diamant,restaurant,Marseille,,,,43.2942144,5.3837633
+9681311695,node,TANTAKY,restaurant,Marseille,,,,43.2884096,5.3830313
+9683204825,node,Le Dauphin,restaurant,Marseille,,,,43.2792104,5.3052948
+9686721893,node,Pizzeria Baffi,restaurant,Marseille,"15 Route de la Gavotte, 13015, Marseille",13015,,43.3742282,5.354383
+9697141286,node,Splendido,restaurant,Marseille,,,,43.2976312,5.3732979
+9697856683,node,Placette,restaurant,Marseille,"22 Rue de la Guirlande, 13002, Marseille",13002,,43.2972633,5.370649
+9700122691,node,Le Pavillon du Thé,restaurant,Marseille,"13010, Marseille",13010,,43.2805148,5.3949331
+9702977682,node,La Véranda,restaurant,Marseille,,,,43.3503061,5.3411742
+9703831117,node,Le Diamant Noir,restaurant,Marseille,,,https://lediamantnoir-marseille.fr/,43.2942168,5.3837934
+9724466444,node,Carlotta With,restaurant,Marseille,,,,43.283374,5.3748088
+9730062736,node,Restaurant les Sept Thèmes,restaurant,Marseille,149 Avenue du 8 Mai 1945,,,43.3981596,5.3654257
+9732429717,node,Bistro Régent,restaurant,Marseille,13400,13400,,43.2974892,5.5953406
+9803477679,node,Ékume,restaurant,Marseille,139 Rue Sainte,,,43.2908133,5.3675543
+9809424917,node,La Marine,restaurant,Marseille,"40 Quai François Mitterrand, 13600",13600,,43.1720819,5.6056841
+9857346911,node,,restaurant,Marseille,,,https://www.cirm-math.com/restaurant.html,43.2299873,5.4433005
+9859973248,node,EatSalad,restaurant,Marseille,,,,43.2980304,5.595406
+9859973249,node,KOOK Trattoria,restaurant,Marseille,,,,43.2976334,5.595391
+9876441617,node,L'Ile Verte,restaurant,Marseille,"Calanque St Pierre, 13600",13600,,43.161427,5.617601
+9893689917,node,Massilia,restaurant,Marseille,,,,43.2996446,5.3693873
+9923183797,node,Le Par Azar,restaurant,Marseille,,,,43.2975988,5.3709341
+9928878761,node,Le Bousti,restaurant,Marseille,60 Rue des Trois Frères Barthélémy,,https://lebousti.fr,43.2934088,5.3867827
+9929575746,node,Ummagumma,restaurant,Marseille,,,,43.2940014,5.3847835
+9929575747,node,Les Trois Rois,restaurant,Marseille,,,,43.294053,5.3847466
+9929575748,node,Palais de l'Inde,restaurant,Marseille,,,,43.2941623,5.3846726
+9929575749,node,Belle Île en Mer,restaurant,Marseille,,,,43.2943641,5.384534
+9929610026,node,Avanti Popolo,restaurant,Marseille,,,,43.2929989,5.383885
+9936931050,node,Kitch & Cook,restaurant,Marseille,,,,43.1756946,5.6059145
+9937291800,node,Bustan,restaurant,Marseille,,,,43.1801166,5.6122664
+9976592151,node,Maison des Nines,restaurant,Marseille,,,,43.2957602,5.3789589
+10013441860,node,Figure,restaurant,Marseille,90 Bd Vauban,,https://instagram.com/figuremarseille,43.2831517,5.3745631
+10013719753,node,Cantoche,restaurant,Marseille,13 Rue Haxo,,https://www.cantochemarseille.com/,43.294014,5.3772283
+10017557030,node,Le Pénard,restaurant,Marseille,,,,43.2961203,5.3866716
+10025390923,node,Moon,restaurant,Marseille,rue de Rome,,,43.2868291,5.3830839
+10047608038,node,,restaurant,Marseille,,,,43.2938442,5.4787863
+10049647242,node,Busan,restaurant,Marseille,,,,43.2857179,5.3849033
+10054116672,node,Le Madraguin,restaurant,Marseille,,,,43.2320772,5.3556003
+10065557479,node,Calendal,restaurant,Marseille,,,,43.2152255,5.5367712
+10086790689,node,Les Jardins du Cloître de Marseille,restaurant,Marseille,,,https://lesjardinsducloitredemars.fr/,43.335579,5.4233903
+10101479717,node,Odalys Canebiere,hotel,Marseille,9 Rue Sénac de Meilhan,,,43.2980028,5.3838029
+10135763581,node,Pub Marina,restaurant,Marseille,,,,43.2789348,5.3039293
+10135820763,node,Lou Frieu,restaurant,Marseille,48 Rue Martin Brignaudy Prolongee,,,43.2789662,5.3042592
+10139425611,node,L'hostellerie,restaurant,Marseille,,,,43.335719,5.481921
+10200588388,node,La Calabria,restaurant,Marseille,"6 Traverse de Tubie, 13240, Septèmes-les-Vallons",13240,https://la-calabria.eatbu.com,43.4089397,5.3659451
+10315214753,node,Hôtel Azur,hotel,Marseille,"24 Cours Franklin Roosevelt, Marseille",,,43.2988798,5.3870888
+10315214755,node,L'Évêché,restaurant,Marseille,,,,43.2979502,5.3658108
+10604208142,node,J'aime Sushi,restaurant,Marseille,,,,43.2681879,5.3888417
+10604529430,node,Le Wagon,restaurant,Marseille,,,,43.2058857,5.6272674
+10604529477,node,Le Saint-Estève,restaurant,Marseille,,,,43.2067244,5.6296168
+10604529478,node,Le Saint-Estève,hotel,Marseille,,,,43.2071702,5.6294326
+10631223407,node,So’,restaurant,Marseille,,,,43.3271699,5.3638266
+10631223413,node,Le Palace,restaurant,Marseille,,,,43.3271264,5.3636581
+10657707305,node,Georgia,restaurant,Marseille,"45 Rue Sainte, 13001",13001,,43.2921773,5.3741852
+10731729507,node,Restaurant Quartier Libre,restaurant,Marseille,"13 Rue Glandevès, 13001",13001,https://quartierlibre-marseille.fr/fr,43.2935635,5.3751695
+10739171220,node,QUIETum,restaurant,Marseille,,,,43.307948,5.3707587
+10745482645,node,La Cave à Jambon,restaurant,Marseille,,,,43.255344,5.4080167
+10751767025,node,La Serenata,restaurant,Marseille,,,https://www.laserenata.fr/,43.2476859,5.3747244
+10753171748,node,Le bar du théâtre,restaurant,Marseille,,,,43.309265,5.367547
+10760868942,node,Ashoka,restaurant,Marseille,,,https://www.restaurant-ashoka.com/,43.2930627,5.3737508
+10772668068,node,Coin Cantine,restaurant,Marseille,213 Boulevard de Sainte Marguerite,,,43.2639174,5.4105838
+10798056955,node,Maison Bao,restaurant,Marseille,,,,43.2900803,5.3821154
+10853049983,node,Ciel - rooftop,restaurant,Marseille,,,https://www.ciel-rooftop.com/marseille,43.293787,5.3774216
+10865944788,node,C'est bon,restaurant,Marseille,"11 Avenue du Maréchal Foch, 13004, Marseille",13004,https://cestbon-marseille.fr/,43.3020259,5.3978265
+10870012805,node,Lynn Dalaga - mode et restauration,restaurant,Marseille,,,,43.2319966,5.3552488
+10876201335,node,O-Pho 187,restaurant,Marseille,,,,43.2946739,5.3749394
+10879517281,node,Le Salon Provençal,restaurant,Marseille,1,,,43.3356724,5.4822181
+10894991928,node,Robato,restaurant,Marseille,"63 Allée Léon Gambetta, 13001, Marseille",13001,https://robato-ramen.fr,43.2992134,5.3844017
+10896351823,node,Latté,restaurant,Marseille,16 Rue de l'Évêché,,https://lattemarseille.fr/fr,43.2981824,5.3659923
+10896374244,node,Strega,restaurant,Marseille,,,,43.2999299,5.3688755
+10896384469,node,Hododa,restaurant,Marseille,"15 Rue de l'Évêché, 13002, Marseille",13002,https://www.hododa.com,43.2981972,5.3659002
+10896387594,node,O Puits Gourmand,restaurant,Marseille,,,,43.2996992,5.3674882
+10896390605,node,,restaurant,Marseille,27A Rue du Panier,,,43.2993405,5.3679041
+10942364105,node,Waffle Factory,restaurant,Marseille,9 Avenue de Saint Antoine,,,43.3634892,5.3467101
+10942364506,node,Crep'eat,restaurant,Marseille,,,,43.3639197,5.349342
+10942364805,node,Le Trocadéro,restaurant,Marseille,,,,43.3638729,5.3485394
+10957068831,node,Arrosoir,restaurant,Marseille,,,,43.3030192,5.3661606
+10961451148,node,La ciergerie,restaurant,Marseille,,,https://laciergerie.eatbu.com/,43.2913014,5.3850553
+10961451149,node,La nena,restaurant,Marseille,,,https://www.instagram.com/lanena_marseille/,43.2921397,5.3834983
+10961451150,node,Oyat,restaurant,Marseille,,,https://oyat-traiteur.com/,43.2927854,5.3803116
+10963925838,node,Le Commis d'Office,restaurant,Marseille,,,,43.2929564,5.3775808
+10963925839,node,L'heure de Marseille,restaurant,Marseille,,,,43.2953086,5.3765541
+10963925840,node,Le Palmier,restaurant,Marseille,42 Rue Vacon,,,43.2948394,5.3770079
+10968685751,node,Feu Viet,restaurant,Marseille,194 Avenue des Chartreux,,,43.3106993,5.4009348
+10968685752,node,Butcher's,restaurant,Marseille,49 Boulevard d'Arras,,,43.3091739,5.4012753
+10968685764,node,L'instant,restaurant,Marseille,,,,43.3096998,5.4007235
+10969091910,node,Before au Balcon,restaurant,Marseille,,,,43.1808835,5.6124013
+10975249762,node,Resid'hotel,hotel,Marseille,7 Square des Frères Ambrogiani,,,43.2810856,5.3880734
+10975272107,node,Le Relais Corse,restaurant,Marseille,49 Avenue du Prado,,,43.2834303,5.3855914
+10979414305,node,Restaurant les pia pia,restaurant,Marseille,"9 Quai Ganteaume, 13600",13600,,43.1739861,5.6091209
+10981538605,node,La Bazarette,restaurant,Marseille,,,,43.298304,5.3661826
+11014301206,node,Terroir et marée,restaurant,Marseille,,,,43.2230622,5.5439375
+11014301805,node,Au doyen,restaurant,Marseille,,,,43.2957951,5.3666501
+11014487605,node,L’Oliveraie,restaurant,Marseille,,,,43.2929109,5.371528
+11049087805,node,Cali Kitchen,restaurant,Marseille,,,https://calikitchen.fr/,43.2945638,5.3770578
+11049371306,node,,restaurant,Marseille,,,,43.3069787,5.3655188
+11051472437,node,Le Cigale,restaurant,Marseille,92-94 Quai du Port,,,43.296089,5.3687123
+11055602105,node,Sa mesa sarda,restaurant,Marseille,"1 Boulevard Queirel, 13010",13010,,43.2827606,5.4331871
+11064486120,node,Namaste,restaurant,Marseille,,,,43.2836196,5.3854639
+11069902007,node,Borely,restaurant,Marseille,,,,43.2543631,5.3755389
+11069902008,node,Ha noi pho,restaurant,Marseille,,,,43.2557987,5.3758867
+11069907112,node,Borely,restaurant,Marseille,,,,43.2542436,5.3754222
+11069907113,node,Chez Quan,restaurant,Marseille,,,,43.2540695,5.3753639
+11069910809,node,Bharati,restaurant,Marseille,,,,43.2543048,5.3753775
+11069910810,node,hotellerie-restaurant,restaurant,Marseille,,,,43.2617126,5.3753874
+11069911308,node,La Grande Italia,restaurant,Marseille,,,,43.2542317,5.3752174
+11074965003,node,SportBeach,restaurant,Marseille,,,,43.255779,5.3756606
+11107322410,node,Les rigoles,restaurant,Marseille,13001,13001,,43.3022471,5.3903775
+11110340620,node,Crown Pizza,restaurant,Marseille,,,,43.1739689,5.6058183
+11115979461,node,Sushi Room,restaurant,Marseille,52 Rue Vacon,,https://www.sushi-room.fr/,43.2947502,5.3766805
+11116448025,node,Le Bistrot d'Alberto,restaurant,Marseille,,,,43.2946187,5.3768674
+11116764755,node,Bring Me My Coffee,restaurant,Marseille,,,,43.2970392,5.364546
+11119491637,node,Le Métro,restaurant,Marseille,,,,43.3200321,5.3676407
+11122132896,node,Piccolo,restaurant,Marseille,,,,43.2946713,5.3769878
+11122173579,node,Dakao,restaurant,Marseille,,,,43.2950564,5.3761723
+11122596289,node,Sidi Bou Saïd,restaurant,Marseille,,,,43.2942594,5.3751542
+11122661268,node,Italian Trattoria,restaurant,Marseille,,,,43.2941999,5.3749677
+11124318926,node,Chez Marinette,restaurant,Marseille,25 Rue Joel Recher,,,43.2876507,5.3625393
+11132236820,node,Le Faucon,restaurant,Marseille,22 Rue de Lyon,,,43.3240913,5.3675032
+11136473672,node,Pizzeria Etna,restaurant,Marseille,"444 Avenue de Montolivet, 13012, Marseille",13012,,43.318315,5.4245786
+11139613805,node,NH Collection Marseille,hotel,Marseille,,,,43.3024523,5.368841
+11165205073,node,,restaurant,Marseille,,,,43.2797508,5.3261111
+11166413178,node,"le 460 ""bistro burger""",restaurant,Marseille,"460 Boulevard Henri Tasso, 13190, allauch",13190,https://www.facebook.com/profile.php?id=100094260721822,43.3414957,5.4732543
+11171651541,node,Sous les lampions,restaurant,Marseille,,,,43.1722028,5.6056591
+11171666452,node,La Cantine Ciotadenne,restaurant,Marseille,,,,43.1721278,5.6056748
+11171680276,node,The Cotton Club,restaurant,Marseille,,,,43.1751431,5.6108302
+11171840732,node,Jardin Kché,restaurant,Marseille,,,,43.248195,5.4011517
+11178658069,node,Lion bonjour,restaurant,Marseille,,,,43.293225,5.375267
+11178666939,node,Oil and Wax,restaurant,Marseille,,,,43.2931648,5.3753012
+11178669183,node,Les Bavards - Bouillonnerie de l'opéra,restaurant,Marseille,,,,43.2932808,5.375247
+11181202003,node,La Virgule,restaurant,Marseille,,,,43.1801861,5.6124403
+11181224641,node,Brasserie di Babbo,restaurant,Marseille,,,,43.1801706,5.6123139
+11181226966,node,AQO,restaurant,Marseille,208 Avenue Président Wilson,,https://www.restaurant-la-ciotat.fr/accueil-aqo/,43.1800757,5.6123348
+11186426456,node,Restaurant des amis,restaurant,Marseille,,,,43.3022323,5.3740985
+11188394745,node,Les Terasses de la Mer Chez Marco,restaurant,Marseille,,,,43.1841393,5.6169723
+11190556763,node,L'Écrin de Verdure,restaurant,Marseille,659 Avenue de Mazargues,,,43.2507188,5.3954961
+11190562843,node,Kioto Sushi,restaurant,Marseille,,,,43.2476172,5.4002946
+11190562844,node,L'Assiette Orientale,restaurant,Marseille,,,,43.2470044,5.4016585
+11190564268,node,Boostan,restaurant,Marseille,,,,43.2469305,5.4018046
+11192677205,node,O'Carrefour,restaurant,Marseille,,,,43.1828277,5.612795
+11200796573,node,L'enseigne 117,restaurant,Marseille,"117 Rue Sainte, 13007",13007,,43.2910361,5.3686816
+11202311661,node,Bar à manger,restaurant,Marseille,,,,43.3020885,5.3682113
+11224735237,node,Bouillabaisse Turfu,restaurant,Marseille,"1 Rue Pythéas, 13001",13001,,43.2943883,5.3757164
+11240913196,node,Au Grain Desiré,restaurant,Marseille,,,,43.2941325,5.3771992
+11263427175,node,Trattoria del Sud da Vicenzo,restaurant,Marseille,420 Avenue de Mazargues,,https://www.trattoriadelsud.fr/,43.2571758,5.3941103
+11278135802,node,Le Turf,restaurant,Marseille,412 Avenue de Mazargues,,,43.2576234,5.3942519
+11278136436,node,La Civette,restaurant,Marseille,416 Avenue de Mazargues,,,43.2574288,5.3941847
+11297513832,node,Mauvaise Herbe,restaurant,Marseille,6 Rue Haxo,,,43.2944419,5.3769411
+11307449795,node,Ramen Go,restaurant,Marseille,,,,43.2881511,5.3826494
+11307500053,node,Le Siam,restaurant,Marseille,,,,43.2410787,5.3637046
+11328850869,node,Le consolat,restaurant,Marseille,,,,43.3017211,5.3908219
+11352380469,node,La poule noire,restaurant,Marseille,,,,43.2919302,5.3732305
+11355399213,node,Homer Lobster,restaurant,Marseille,,,,43.2908083,5.377806
+11368727880,node,La Balagne,restaurant,Marseille,51 Promenade Georges Pompidou,,,43.2650491,5.3737454
+11369581716,node,Viaghji,restaurant,Marseille,138 Rue Vallon des Auffes Prolongee,,,43.2855133,5.3514726
+11369593634,node,Beau Rivage,restaurant,Marseille,,,,43.285155,5.3513284
+11372347223,node,Luzumaki,restaurant,Marseille,3310 Route de la Ciotat,,,43.2665984,5.5855128
+11373407769,node,Pause café cantine,restaurant,Marseille,"38 Rue Papety, 13007",13007,,43.2907758,5.3569092
+11373992603,node,La Maronaise,restaurant,Marseille,,,,43.2638922,5.3740751
+11373992622,node,Baladi,restaurant,Marseille,,,,43.2646799,5.3739063
+11374482069,node,Tripletta,restaurant,Marseille,"41 Rue Papety, 14007",14007,,43.29055,5.3561078
+11379661977,node,By Food Grillades,restaurant,Marseille,,,,43.2995792,5.3781725
+11381210769,node,Io e Te,restaurant,Marseille,"37 Rue de Suez, 13007",13007,,43.291197,5.3571692
+11385566168,node,Le sampiero,restaurant,Marseille,,,,43.3085836,5.3707391
+11385594570,node,Le quai gourmand,restaurant,Marseille,,,,43.3080642,5.3706905
+11386471031,node,La cantine de Jeannine,restaurant,Marseille,,,,43.286775,5.386344
+11389428032,node,Senju sushi,restaurant,Marseille,,,,43.2868846,5.3901255
+11389521740,node,Mia Nonna,restaurant,Marseille,"87, 13006, Marseille",13006,https://mianonna.order.dish.co/menus,43.2849949,5.3906641
+11389667669,node,Le plan de a à z,restaurant,Marseille,,,,43.2984405,5.3825974
+11389696569,node,Le Refuge,restaurant,Marseille,22 Rue du Refuge,,,43.2982808,5.3675113
+11393129771,node,Cali Sushi,restaurant,Marseille,"26 Avenue Pasteur, 13007",13007,,43.2905786,5.3590702
+11400029940,node,Brasserie l'Opera,restaurant,Marseille,4 Rue Corneille,,,43.2936802,5.3753644
+11428666671,node,Nul Part Ailleurs,restaurant,Marseille,"18 Quai de Rive-Neuve, 13007, Marseille",13007,https://www.restaurantnulpartailleurs.com/,43.292968,5.3704041
+11428887669,node,Maison M&R,restaurant,Marseille,40 Rue Cesar Aleman,,,43.2902015,5.3565419
+11428887769,node,Le Romarin,restaurant,Marseille,13007,13007,,43.2901077,5.3571662
+11433145531,node,Piou,restaurant,Marseille,,,,43.2916725,5.3746594
+11473209170,node,Les 2 z'elles,restaurant,Marseille,,,,43.2880016,5.5441008
+11473219169,node,Le chalet des pommiers,restaurant,Marseille,,,,43.2879418,5.5445284
+11482652645,node,oh!bowls,restaurant,Marseille,9 Rue Borde,,https://www.ohbowls.fr/,43.2784077,5.3893065
+11482656548,node,Nina Sushi,restaurant,Marseille,9 Rue Borde,,https://ninasushi.com/,43.2784321,5.3893727
+11486572089,node,La Broche Tourne,restaurant,Marseille,,,,43.2785303,5.3923359
+11486730147,node,My Little Warung,restaurant,Marseille,,,https://www.mylittlewarung.com/la-carte/?lang=en,43.2875861,5.3829554
+11486778470,node,Le Nippon,restaurant,Marseille,40 Avenue des Goums,,,43.2900146,5.5596313
+11486784969,node,Hong Kong,restaurant,Marseille,40 Avenue des Goums,,,43.2901018,5.5597179
+11491756669,node,Le Jade,restaurant,Marseille,,,,43.2830201,5.5328241
+11495049070,node,Yuko Ramen,restaurant,Marseille,13 Avenue du Maréchal Foch,,,43.3019283,5.3979615
+11502895401,node,Le P'tit Léo,restaurant,Marseille,175 Avenue du Prado,,,43.2780123,5.3886247
+11503749065,node,Trattoria Partenope,restaurant,Marseille,,,,43.2995946,5.3664822
+11503759076,node,K'nafa,restaurant,Marseille,14 Gourjon,,,43.3047905,5.3684765
+11509145670,node,Le cercle rouge,restaurant,Marseille,,,,43.2972918,5.3854763
+11511158169,node,Cafi Shop,restaurant,Marseille,30 Boulevard Georges Clemenceau,,,43.2999398,5.3975386
+11513993569,node,KIN - Libala,restaurant,Marseille,,,,43.2937248,5.3784639
+11521916962,node,Basilic & Co Marseille (République),restaurant,Marseille,"93 Rue de la République, 13002, Marseille",13002,https://basilic-and-co.com/restaurants/pizzeria-marseille-republique/,43.303186,5.3683022
+11534007657,node,Melan Grill,restaurant,Marseille,,,,43.2967492,5.3779318
+11539376645,node,Bozen,restaurant,Marseille,,,,43.277163,5.3891024
+11539389035,node,Le Murano,restaurant,Marseille,229 Avenue du Prado,,,43.2756039,5.3899921
+11539393998,node,Le Batavia,restaurant,Marseille,,,,43.2767501,5.389342
+11557167269,node,Poissonnerie Kennedy,restaurant,Marseille,245 Corniche du Président John Fitzgerald Kennedy,,,43.2813949,5.3515417
+11572328769,node,Jour Euromed,restaurant,Marseille,,,https://cmdfrance.jour.fr/fr/shops/healthy/marseille-euromed,43.3106339,5.3679773
+11572341969,node,Jour Les Docks,restaurant,Marseille,,,https://cmdfrance.jour.fr/fr/shops/healthy/marseille-lesdocks,43.3059765,5.3662908
+11584796142,node,Emile,restaurant,Marseille,279 Avenue du Prado,,,43.2733967,5.3912292
+11618114747,node,La Casa du Burger,restaurant,Marseille,,,,43.2904531,5.5961724
+11634774560,node,La Table d'Émilie,restaurant,Marseille,12 Avenue Fresnel,,,43.25009,5.5464796
+11645294412,node,Odalys City Prado Castellane,hotel,Marseille,,,,43.2796217,5.3904882
+11665782741,node,Manureva,restaurant,Marseille,,,,43.2811631,5.3882967
+11665923493,node,NKI Sushi,restaurant,Marseille,,,,43.281228,5.3894233
+11745810523,node,Casa Mia,restaurant,Marseille,,,,43.2840683,5.4358513
+11761726435,node,,restaurant,Marseille,"Avenue du 24 Avril 1915, 13012, Marseille",13012,,43.3085666,5.436224
+11770163522,node,500 Degrés Pizza,restaurant,Marseille,"30 Honoré d'Estienne d'Orves, 13001, Marseille",13001,https://500degres-pizza.com/,43.2929488,5.3732517
+11772628526,node,Pho Vietnam,restaurant,Marseille,221 Boulevard de la Liberation General de Monsabert,,https://phovietnam.fr,43.3025405,5.3954553
+11778639069,node,La bastide de Massimo,restaurant,Marseille,,,,43.3054069,5.4048715
+11782593872,node,Le Starlight,restaurant,Marseille,"112 Avenue de Hambourg, 13008, Marseille",13008,,43.2478645,5.3906191
+11787347469,node,Bistrot Baya,restaurant,Marseille,,,,43.302194,5.3868767
+11787422269,node,Face à la mer (Restaurant-Pizzeria),restaurant,Marseille,"227 Avenue Pierre Mendès France, 13008",13008,,43.2502513,5.3754717
+11787424869,node,Pacha Grill - Restaurant Marseille,restaurant,Marseille,"227 Avenue Pierre Mendès France, 13008",13008,,43.2501085,5.3754139
+11792818401,node,Les délices du Prado,restaurant,Marseille,"275 Avenue du Prado, 13008, Marseille",13008,,43.2734326,5.3912124
+11799845069,node,Boon Mi Food,restaurant,Marseille,,,https://boonmi.sumupstore.com/,43.3019617,5.3910649
+11810304531,node,Maisons du Monde suites,hotel,Marseille,37 Rue Francis Davso,,https://marseille.maisonsdumondehotel.com,43.2932562,5.3771072
+11817252886,node,Pure Braise,restaurant,Marseille,,,,43.333601,5.481437
+11820108269,node,Le 100,restaurant,Marseille,,,,43.2829884,5.3787237
+11833530369,node,La Nonna D’Oro,restaurant,Marseille,,,,43.2145951,5.5357083
+11835036569,node,Lima Lemon,restaurant,Marseille,,,,43.2852533,5.3825562
+11851312115,node,Cuisine Verticale Pizzeria,restaurant,Marseille,88 Boulevard Camille Flammarion,,,43.3067488,5.3949231
+11860709839,node,Jaipur,restaurant,Marseille,,,,43.2938612,5.3736585
+11860709841,node,Le Marseillais,restaurant,Marseille,,,,43.2938365,5.3735612
+11878326069,node,Jade d'Asie,restaurant,Marseille,"34 Avenue de Saint-Just, 13004",13004,,43.3137634,5.4027398
+11921981356,node,Frères Brioche,restaurant,Marseille,,,,43.2940471,5.3761202
+11932545458,node,Minots,restaurant,Marseille,,,,43.296403,5.3709594
+11932557691,node,Vente a emporter,restaurant,Marseille,,,,43.2965177,5.3723077
+11932566463,node,New Terrasse,restaurant,Marseille,,,,43.296362,5.370551
+11932597183,node,La Table Libanaise,restaurant,Marseille,,,,43.2966951,5.3706045
+11932711965,node,Poulet Braisè,restaurant,Marseille,,,,43.2978192,5.3735475
+11933035150,node,Djerba,restaurant,Marseille,,,,43.2953794,5.3767371
+11938982389,node,L'Osteria,restaurant,Marseille,,,,43.28221,5.3854348
+11953142569,node,Perséphone,restaurant,Marseille,"place Georges clémenceau, 13420",13420,,43.2952869,5.6275964
+11953175969,node,Perséphone,restaurant,Marseille,"9 Place Georges Clemenceau, 13420",13420,,43.296163,5.6289562
+11971481432,node,Seik,restaurant,Marseille,,,,43.2926916,5.3720823
+11982413232,node,hôtel Ozea,hotel,Marseille,,,,43.2986017,5.3858977
+12000489710,node,Chrimol Street,restaurant,Marseille,,,,43.174783,5.6081403
+12053786963,node,Bianco,restaurant,Marseille,,,,43.2885205,5.3725301
+12101944060,node,Pizza au feu de bois,restaurant,Marseille,,,,43.2000914,5.5890024
+12114406601,node,Shin Ramen,restaurant,Marseille,Avenue de Laute,,,43.2917442,5.562381
+12117274757,node,Kaz Kreol,restaurant,Marseille,,,,43.2955608,5.3855595
+12117277229,node,Bo' RESTO,restaurant,Marseille,,,,43.2958747,5.3856253
+12117289879,node,Durum kebab,restaurant,Marseille,,,,43.2960745,5.3813242
+12117307960,node,Pernod Ricard Club,hotel,Marseille,,,,43.2956363,5.3746499
+12117352289,node,Bazile,restaurant,Marseille,,,,43.3003936,5.3814742
+12117424421,node,Sahmaran,restaurant,Marseille,,,,43.3003633,5.3818901
+12120260769,node,Hotel Beausoleil,hotel,Marseille,,,,43.299249,5.3834367
+12120272745,node,Le Gambetta,restaurant,Marseille,,,,43.2995479,5.3821825
+12122535414,node,L'écaillerie,restaurant,Marseille,28 Rue d'Endoume,,,43.2900977,5.3661764
+12128637028,node,La Pâte à Pizza,restaurant,Marseille,,,,43.2957734,5.3861576
+12128647366,node,Cocotero,restaurant,Marseille,47 Rue de Suez,,,43.2911121,5.3563482
+12132576854,node,Brasserie Les Allees,restaurant,Marseille,,,,43.2981509,5.3816164
+12134105198,node,Les Collègues,restaurant,Marseille,,,,43.2311199,5.5542176
+12140094284,node,Petit Tunis,restaurant,Marseille,,,,43.2975221,5.3813733
+12141643447,node,Ô Bobar,restaurant,Marseille,,,,43.2810896,5.3821557
+12141643448,node,Risotto'go,restaurant,Marseille,,,,43.2830293,5.3810476
+12141648978,node,Sous le Figuier,restaurant,Marseille,97 Boulevard Perier,,,43.2785403,5.3807024
+12144318030,node,Le Printemps,hotel,Marseille,,,,43.3030424,5.3788547
+12145490801,node,Thaiwoke,restaurant,Marseille,"25 Boulevard Baille, 13006",13006,https://www.thaiwoke.fr/contact,43.2868629,5.3866765
+12149810045,node,Cassis et Romarin,restaurant,Marseille,,,,43.2152044,5.5388681
+12151909304,node,La Plage Bleue,restaurant,Marseille,,,,43.205387,5.5187312
+12158219025,node,Chez Bébert,restaurant,Marseille,,,,43.2645688,5.7408919
+12170662592,node,Umi Sushi,restaurant,Marseille,"1 Boulevard Sainte-Anne, 13008, Marseille",13008,,43.2565075,5.3938309
+12170662593,node,Rôtisserie César,restaurant,Marseille,"3 Boulevard Sainte-Anne, 13008, Marseille",13008,https://rotisserie-cesar.fr/,43.2565661,5.3937906
+12170711107,node,Pizza Sainte Anne,restaurant,Marseille,"1 Boulevard de Sainte Anne, 13008, Marseille",13008,https://pizzasainteanne.com/,43.2564323,5.393826
+12176637803,node,La Quinta,restaurant,Marseille,,,,43.3625823,5.4874135
+12198366037,node,Cassis et Romarin,restaurant,Marseille,,,,43.2152082,5.5388585
+12198922662,node,Nòu,restaurant,Marseille,2 Rue Dumarsais,,,43.2938056,5.3770681
+12222494904,node,Hotel Bellevue Marseille,hotel,Marseille,,,https://hotelbellevuemarseille.com/,43.2964951,5.3720778
+12228000417,node,Trattoria Portofino,restaurant,Marseille,,,,43.3012999,5.3645256
+12229129494,node,mavrommàtis,restaurant,Marseille,,,,43.270472,5.3929762
+12229404801,node,Brasserie Le Soleil,restaurant,Marseille,,,,43.2948145,5.3746972
+12247907585,node,Restaurant de la baie des anges,restaurant,Marseille,,,,43.1909944,5.6542737
+12248207501,node,L'Escale,restaurant,Marseille,Quai du Port Île Ratonneau,,,43.2789516,5.3040975
+12259424162,node,Lulo Bar,restaurant,Marseille,,,,43.2936068,5.3828626
+12288360128,node,Limmat,restaurant,Marseille,41 Rue Jean-Baptiste Estelle,,https://www.limmatmarseille.com/,43.2935602,5.3826847
+12292185155,node,Saveurs Latines,restaurant,Marseille,,,,43.2144525,5.5388585
+12292185156,node,La Défonce,restaurant,Marseille,,,,43.2145833,5.5380311
+12292185157,node,À Table,restaurant,Marseille,,,,43.2146786,5.5386485
+12292185158,node,Le Romarin,restaurant,Marseille,,,,43.2146133,5.5387129
+12294208814,node,Elmina,restaurant,Marseille,,,,43.1729556,5.605658
+12294208823,node,Nazareth,restaurant,Marseille,,,,43.1745934,5.6076372
+12294208825,node,La Dame de La Ciotat,restaurant,Marseille,,,,43.1729964,5.6056644
+12294762839,node,La Pizzeria della Stazione,restaurant,Marseille,4 Rue Raphaël Ponson,,https://www.pizzeria-stazione-cassis.com/,43.2145045,5.5398152
+12294762841,node,Le Poisson Rouge,restaurant,Marseille,Impasse Farine,,https://lepoissonrougerestaurantcassis.com/,43.214219,5.5390156
+12304298284,node,Limmat,restaurant,Marseille,,,,43.2935561,5.3826941
+12318004698,node,,restaurant,Marseille,,,,43.2998281,5.3676405
+12346669793,node,Trésors d'Arménie,restaurant,Marseille,475 Avenue de Mazargues,,,43.2568576,5.3941557
+12371673759,node,La Rhumerie,restaurant,Marseille,,,,43.2541457,5.375159
+12371673778,node,Les Voiles M,restaurant,Marseille,,,,43.2551135,5.3754222
+12371673784,node,Le Bistingo,restaurant,Marseille,,,,43.2539961,5.3752192
+12371673786,node,L'Indigo Café,restaurant,Marseille,,,,43.2552086,5.3754466
+12386231670,node,Yafel,restaurant,Marseille,"1 Boulevard Théodore Thurner, Marseille",,https://yafelmarseille.fr,43.2922114,5.3829467
+12399893353,node,Kaïts Pita Bar,restaurant,Marseille,8 Rue Thieux,,https://kaitskitchen.fr/fr,43.258545,5.3933186
+12408546607,node,Couleurs de Shimatani,restaurant,Marseille,,,,43.1752257,5.6099263
+12409384073,node,Le Bar 1917,restaurant,Marseille,,,,43.280227,5.3518997
+12409419966,node,La Releve,restaurant,Marseille,,,,43.2895027,5.3664986
+12412849060,node,Chez Papa,restaurant,Marseille,,,,43.2918432,5.3844355
+12430024701,node,La Gratinée,restaurant,Marseille,"120 Avenue du Marché d'Intérêt National, 13014",13014,,43.3384073,5.3810253
+12438369401,node,THE 716,restaurant,Marseille,"134 Rue Peyssonnel, 13002",13002,,43.3145032,5.3688011
+12453502331,node,Yerevan,restaurant,Marseille,,,,43.2918076,5.4792762
+12473762796,node,Appart'City Confort La Ciotat,hotel,Marseille,"57 Passage Jean d'Huart, 13600, La Ciotat",13600,,43.1724961,5.6049885
+12517805301,node,Lemaitre Ivoire,restaurant,Marseille,,,,43.2996521,5.382828
+12520992660,node,Pizze & Sfizi,restaurant,Marseille,153 Rue Sainte,,https://www.pizze-e-sfizi.fr/,43.290637,5.366574
+12525087855,node,Signorino,restaurant,Marseille,"329 Avenue Jules Ferry, 13600, La Ciotat",13600,https://signorino.eatbu.com,43.1834999,5.6031761
+12567393402,node,Chez Tamar,restaurant,Marseille,"56 Rue de l'Évêché, 13002",13002,https://chez-tamar.eatbu.com/?lang=fr,43.2995376,5.3664648
+12570989621,node,Les Beaux Mets,restaurant,Marseille,,,https://www.lesbeauxmets-marseille.fr/,43.2348923,5.4133365
+12571192902,node,Nua,restaurant,Marseille,,,,43.2998179,5.3692334
+12600875516,node,Le Petit Nice Passedat - La Marina,hotel,Marseille,16 Rue des Braves,,,43.2802921,5.3516252
+12600875529,node,O'Canotier,restaurant,Marseille,,,,43.2811337,5.3519384
+12648186415,node,Cô Bây,restaurant,Marseille,26 Rue du Rouet,,https://app.cookie.menu/restaurants/661e642dc724a3074efb922a#661e672dc724a38b42fb9e66,43.2846117,5.3852898
+12666644544,node,,restaurant,Marseille,,,,43.3701093,5.356174
+12676754834,node,O’ Max Grillades,restaurant,Marseille,2 Boulevard de Paris,,,43.3055849,5.3728375
+12677212834,node,Zin Zin,restaurant,Marseille,18 Rue Guy de Combaud Roquebrune,,https://www.instagram.com/zinzin_cantine_marseille/,43.2881895,5.3632833
+12677254322,node,Bel di Brunch,restaurant,Marseille,26,,,43.2859077,5.3871623
+12679788301,node,Inci Restaurant,restaurant,Marseille,"33 Boulevard Philippon, 13004",13004,,43.3029599,5.396331
+12692734813,node,yoj,restaurant,Marseille,,,,43.3061732,5.365129
+12693771548,node,Le Roy René,restaurant,Marseille,,,,43.3070425,5.3640229
+12717069669,node,Azad,restaurant,Marseille,,,,43.4051498,5.5298942
+12734677867,node,Le Saint Jean Plage,restaurant,Marseille,Avenue de Saint Jean,,,43.1874412,5.631795
+12759691369,node,Plats d'Asire,restaurant,Marseille,"41 Boulevard Jeanne d'Arc, 13005, Marseille",13005,,43.2939301,5.4008099
+12766454301,node,Dérive,restaurant,Marseille,"51 Rue de Suez, 13007",13007,,43.2911013,5.3562202
+12791268002,node,Mercato by winesucker,restaurant,Marseille,"36 Rue de La Loubière, 13006",13006,,43.291279,5.3870423
+12791608801,node,À Moro,restaurant,Marseille,"3 Rue Venture, 13001",13001,,43.2930153,5.3781821
+12794369364,node,La Brasserie du Village,restaurant,Marseille,,,,43.2892803,5.4986123
+12794933123,node,Les délices de l'ouest africain,restaurant,Marseille,,,,43.2932926,5.3820904
+12800751930,node,Lido Saigón,restaurant,Marseille,,,,43.2634362,5.3741694
+12800774387,node,Bombay Grill,restaurant,Marseille,79 Promenade Georges Pompidou,,,43.2635462,5.3741196
+12800805600,node,L'Opium,restaurant,Marseille,,,,43.2640122,5.3740237
+12802664203,node,CIOT Thaï,restaurant,Marseille,,,,43.175664,5.6103107
+12802866754,node,Riz d'or,restaurant,Marseille,21 Avenue des Chartreux,,,43.3036504,5.3977078
+12803660001,node,la Cachette,restaurant,Marseille,24 Rue de la Guirlande,,,43.2974156,5.3706117
+12806190883,node,Club César,restaurant,Marseille,,,,43.2896644,5.3761627
+12806290102,node,Livingston,restaurant,Marseille,"5 Rue Crudère, 13006",13006,,43.2942988,5.3840358
+12806292301,node,Ripaille,restaurant,Marseille,"56 Rue de Lorette, 13002",13002,,43.3000886,5.3696564
+12820866277,node,Le Saint Victor,restaurant,Marseille,126 Boulevard de la Corderie,,,43.2900002,5.366491
+12857264601,node,Le Maïa,restaurant,Marseille,,,,43.1871835,5.623469
+12868337602,node,La Fringale,restaurant,Marseille,5 Rue Pasteur,,,43.2146427,5.5380717
+12905841122,node,La cantine solaire du Présage,restaurant,Marseille,,,https://lepresage.fr/wp/la-guinguette-solaire/,43.3120158,5.3971016
+12919175201,node,Safia cuisine de Yema,restaurant,Marseille,"13 Rue Rouget de Lisle, 13001",13001,,43.2953633,5.3776859
+12920174122,node,La boite a panisse,restaurant,Marseille,,,,43.2967816,5.3674303
+12920635004,node,Délices Viet-Nam,restaurant,Marseille,,,,43.3098232,5.4086112
+12959202902,node,El Barrio Marsella,restaurant,Marseille,14a Rue d'Aubagne,,,43.2954075,5.3792254
+12961178401,node,IPPON MARSEILLE,restaurant,Marseille,"7 Rue Lulli, 13001",13001,,43.2928548,5.376164
+12976986256,node,Yassou greek pita,restaurant,Marseille,"36 Grand Rue, 13002, Marseille",13002,https://www.instagram.com/yassou_marseille,43.2979277,5.3713722
+12979446201,node,Gambetta Hôtel,hotel,Marseille,"49 Allée Léon Gambetta, 13001",13001,,43.2992123,5.3837591
+12996942098,node,Hôtel de Toulon,hotel,Marseille,,,,43.2972564,5.383054
+13028556461,node,Hotel Gambetta,hotel,Marseille,,,,43.2992433,5.3837822
+13037534947,node,La Palestine de Gaza,restaurant,Marseille,"82 Rue Curiol, 13001",13001,,43.2959972,5.3852909
+13046166801,node,PROSPER,restaurant,Marseille,"2 Rue des Trois Rois, 13006",13006,,43.2946195,5.3843253
+13046190401,node,GRENAT,restaurant,Marseille,"57 Rue Grignan, 13006",13006,,43.2917516,5.3755368
+13046230203,node,Koutouki,restaurant,Marseille,"7 Boulevard de la Libération - Général de Monsabert, 13001",13001,,43.2994135,5.386031
+13051899702,node,Le Riviera,restaurant,Marseille,"4 Place Pierre Brossolette, 13004",13004,,43.3067088,5.3999228
+13051911101,node,Mimas,restaurant,Marseille,"3 Place Pierre Brossolette, 13004",13004,,43.3068911,5.3999265
+13054280636,node,Les Deux Minots,restaurant,Marseille,46 Avenue du Garlaban,,,43.4258751,5.5882939
+13105559994,node,La Casbah Des Halles,restaurant,Marseille,,,,43.2928788,5.3732808
+13105559995,node,L'écailler Des Halles,restaurant,Marseille,,,,43.2928687,5.3732337
+13105617642,node,Vapiano,restaurant,Marseille,,,,43.3060315,5.3635456
+13110772701,node,Saray grill,restaurant,Marseille,,,,43.2996626,5.3806054
+13110772801,node,Chez Yassine,restaurant,Marseille,,,,43.2995474,5.3806141
+13123657901,node,Gros Bao,restaurant,Marseille,"3 Cours Saint-Louis, 13001",13001,,43.2961177,5.3782633
+13123749901,node,Hôtel de l'Ariana,hotel,Marseille,"12 Rue du Théâtre-Français, 13001",13001,,43.2972394,5.3823372
+13123750001,node,L'Abidjanais,restaurant,Marseille,"10 Rue du Théâtre-Français, 13001",13001,,43.2972616,5.3823247
+13137130795,node,François coquillages,restaurant,Marseille,,,,43.2843206,5.3850754
+13181112315,node,La Bonne Chaire,restaurant,Marseille,,,,43.2587139,5.4169554
+13207723601,node,Les Terrasses du Barjaqueur,restaurant,Marseille,"30 Cours Honoré d'Estienne d'Orves, 13001, Marseille",13001,,43.2926735,5.3724452
+13270122056,node,,restaurant,Marseille,,,,43.211256,5.4234745
+13284603002,node,Le Columbia,restaurant,Marseille,,,,43.2700281,5.3865871
+13287768201,node,Restaurant Le Palmier,restaurant,Marseille,"14 Rue Martial Reynaud, 13016",13016,,43.3607695,5.3144333
+13290907902,node,John Silver,restaurant,Marseille,"6 Rue Fort Notre Dame, 13007",13007,https://www.tripadvisor.fr/Restaurant_Review-g187253-d33261944-Reviews-John_Silver_Original_Bistroffee-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d.html,43.2924823,5.3709967
+13291362201,node,Le Palais du Maharajah,restaurant,Marseille,"151 Route des Trois Lucs à La Valentine, 13011",13011,,43.3041891,5.4744994
+13306300602,node,Kima,restaurant,Marseille,24 Place aux Huiles,,,43.2925593,5.3717097
+13316689629,node,,restaurant,Marseille,,,,43.1912489,5.6020969
+13326753801,node,le libanais contemporain,restaurant,Marseille,"30 Rue Fortia, 13001",13001,,43.291732,5.3741314
+13326784801,node,La Palestine,restaurant,Marseille,"24 Rue Mazenod, 13002",13002,,43.3025729,5.365803
+13338270145,node,Les Plaisirs de Carthage,restaurant,Marseille,13 Rue Belle Ombre,,https://les-plaisirs-de-carthage-marseille.eatbu.com/,43.2694596,5.4086125
+13366938501,node,Iwao,restaurant,Marseille,"27 Rue Sainte, 13001",13001,,43.2925145,5.3755862
+13376371685,node,Coco,restaurant,Marseille,,,,43.2937582,5.3753245
+13383096702,node,Tilt,restaurant,Marseille,Rue Crillon,,,43.2900583,5.3979478
+13383910576,node,The Roof Kitchen,restaurant,Marseille,"305 Rue Albert Einstein, 13013",13013,https://www.theroofkitchen.fr/,43.3466429,5.448643
+13393440901,node,Marokko Street,restaurant,Marseille,"21 Rue d'Italie, 13006",13006,https://marokkostreet.com/,43.2900994,5.3820847
+13393910936,node,Le 36,restaurant,Marseille,2 Rue du Grand Cavaillon,,,43.296061,5.6292875
+13395877402,node,El Cholo,restaurant,Marseille,"4 Rue Saint-Pierre, 13006",13006,,43.2938658,5.386867
+13395903002,node,O'carioca,restaurant,Marseille,"13 Rue Vian, 13006",13006,,43.2944418,5.3839168
+13429168927,node,La Mule,restaurant,Marseille,,,,43.1891971,5.6292619
+13429168928,node,Le Carpe Diem,restaurant,Marseille,,,,43.1892133,5.6294048
+13452441674,node,¿Wine not?,restaurant,Marseille,,,,43.2143527,5.6321558
+13457623828,node,Roha,restaurant,Marseille,"5 Rue Pierre Dupré, 13008, Marseille",13008,https://www.roharestaurant.fr/,43.281844,5.3853546
+13461013301,node,La Bottega,restaurant,Marseille,"84 Rue Perrin-Solliers, 13006",13006,https://labottegapizzeria.fr/,43.2876673,5.3863673
+13503794882,node,B.A.O,restaurant,Marseille,36 Avenue Joseph Vidal,,,43.2532981,5.3802226
+13512692139,node,Marseille bb,restaurant,Marseille,,,,43.3015594,5.3758246
+13519197301,node,Sparacello,restaurant,Marseille,"14 Rue du Jeune Anacharsis, 13001",13001,,43.2942273,5.3767955
+13524223155,node,Ristoriana,restaurant,Marseille,,,,43.2967356,5.3671574
+13547027730,node,Le vieux pizzaïolo,restaurant,Marseille,53 Rue Liandier,,,43.278565,5.3924678
+13585102696,node,Y'a un Resto,restaurant,Marseille,,,,43.2879722,5.3837712
+13625019501,node,La table d'Égypte,restaurant,Marseille,23 Boulevard de la Libération - Général de Monsabert,,,43.2996123,5.3866646
+13648261715,node,Restaurant Universitaire École Centrale,restaurant,Marseille,"38 Rue Frédéric Joliot Curie, 13013, Marseille",13013,https://www.crous-aix-marseille.fr/restaurant/ru-ecole-centrale-3/,43.34266,5.4383219
+13659307586,node,Restaurant le Patio,restaurant,Marseille,,,,43.2154773,5.5367872
+13659307592,node,Hôtel des Calanques,hotel,Marseille,,,,43.2136473,5.5395404
+13659307593,node,Snack Le Repaire,restaurant,Marseille,,,,43.2136485,5.5394619
+13659307612,node,Hôtel Eden Cassis,hotel,Marseille,"Avenue du Revestel, 13260, Cassis",13260,https://www.hotel-eden-cassis.com/,43.2135165,5.5427916
+13666988707,node,Hotel Anora,hotel,Marseille,,,,43.3012372,5.379999
+13666988709,node,La Grillade Dathènes,restaurant,Marseille,,,,43.2996296,5.3806165
+13703245405,node,Molto Mucho,restaurant,Marseille,,,,43.1748395,5.6084865
+13724819997,node,Naandi's,restaurant,Marseille,116 Boulevard Baille,,,43.2877897,5.3914271
+13737028378,node,Jacqueline,restaurant,Marseille,,,https://www.instagram.com/jacqueline__marseille,43.2889102,5.3802
+13741927822,node,Jo's Burger,restaurant,Marseille,"33 Rue Sainte, 13001, Marseille",13001,https://lesburgersdejo.com/,43.2924454,5.3752842
+13759040611,node,L'escale Marocaine,restaurant,Marseille,"33 Boulevard de Plombières, 13003, Marseille",13003,,43.314767,5.386025
+13788352302,node,La Cuisine de l'Arc,restaurant,Marseille,"5 Rue de l'Arc, 13001",13001,https://www.lacuisinedelarc.fr/page/3383929-accueil,43.29452,5.3798512
+13796146601,node,Yam by Nour,restaurant,Marseille,"86 Cours Julien, 13006",13006,,43.2930282,5.3832153
+13796193501,node,Wok & rolls,restaurant,Marseille,,,,43.2944102,5.3842049
+13796193601,node,Pezzo di Pizza,restaurant,Marseille,438 Avenue de Montolivet,,,43.3182703,5.4244412
+13806986601,node,Les Petites Cantines (Marseille),restaurant,Marseille,"36 Rue Barbaroux, 13001",13001,https://linktr.ee/lespetitescantinesmarseille,43.2983693,5.3870541
+13825226201,node,Makhlouf,restaurant,Marseille,"109 Rue Paradis, 13006",13006,,43.2889317,5.378773
+13825253401,node,Durum,restaurant,Marseille,"19 Rue Saint-Michel, 13006",13006,,43.2933241,5.3857174
+13825491601,node,Easy Sushi,restaurant,Marseille,3100 Route de la Légion,,https://www.easysushi.fr,43.2884763,5.5243057
+13853753201,node,La casa del pizza,restaurant,Marseille,"20 Boulevard Baudelaire, 13005",13005,,43.2941614,5.4081159
+13854275486,node,Chez Claudélina,restaurant,Marseille,30 Place de la Liberation,,,43.4047103,5.5455636
+13868433697,node,Le 100,restaurant,Marseille,,,,43.3031515,5.4033199
+13871064308,node,Restaurant Bio Les Ondines,restaurant,Marseille,,,,43.299704,5.3839827
+13871071836,node,Gold Beef,restaurant,Marseille,,,,43.3003662,5.3896136
+13871092572,node,Bamboche,restaurant,Marseille,172 b Boulevard de la Liberation General de Monsabert,,,43.3019183,5.3943231
+13873910480,node,Le Boomerang,restaurant,Marseille,108 Chemin de l'Ortolan,,,43.4036868,5.5320464
+13876203401,node,Gaza Palestine,restaurant,Marseille,82 Rue Curiol,,,43.296101,5.3854509
+13876699826,node,Le Mattilio,restaurant,Marseille,,,,43.4008119,5.5620182
+13894761601,node,Chez Ferrato,restaurant,Marseille,"15 Rue Antoine Maille, 13005",13005,,43.2866319,5.3928294
+13894762401,node,Chez Ferrato,restaurant,Marseille,"15 Rue Antoine Maille, 13005",13005,,43.2866319,5.3928294
+13894769401,node,Chez Ferrato,restaurant,Marseille,"15 Rue Antoine Maille, 13005",13005,,43.2866319,5.3928294
+13897279601,node,Quelle belle Journée,restaurant,Marseille,"2 Rue d'Iéna, 13006",13006,https://fr.restaurantguru.com/QUELLE-BELLE-JOURNEE-Marseille,43.2855875,5.3900073
+13905075615,node,Hotel Gallieni,hotel,Marseille,12,,,43.3016086,5.3760707
+13909864464,node,Hotel Marsiho by HappyCulture,hotel,Marseille,"16 Cours Belsunce, 13001, Marseille",13001,https://www.hotel-marsiho.com/,43.2973492,5.3775919
+13925893201,node,Koujina Express,restaurant,Marseille,"2 Boulevard Chave, 13005",13005,https://www.chezyassine.com/,43.2948708,5.3873858
+13927066801,node,Douceur piquante,restaurant,Marseille,"11 Rue Guy Môquet, 13001",13001,,43.2968487,5.3819686
+13947550078,node,A la Libanaise,restaurant,Marseille,"27 rue Désirée Clary, Marseille",,,43.3083973,5.3701839
+13948513018,node,Tête d'ail,restaurant,Marseille,"19 Rue d'Aubagne, 13001, Marseille",13001,,43.2954877,5.3794176
+13965785071,node,Love Dessert,restaurant,Marseille,"155 Avenue de La Rose, 13013, Marseille",13013,http://lovedessert.fr/,43.3286326,5.4261261
+13965785083,node,,restaurant,Marseille,,,,43.3280625,5.4252101
+13968474039,node,Hôtel du Mucem by Esteem,hotel,Marseille,"22 Rue Mazenod, 13002, Marseille",13002,https://www.hotel-mucem.com/,43.3024809,5.3657786
+13972563702,node,tête d'ail,restaurant,Marseille,"19 Rue d'Aubagne, 13001",13001,,43.2954434,5.3794691
+13988026201,node,el gouffa,restaurant,Marseille,44 Rue Bernard du Bois,,,43.3017279,5.3773632
+13988834201,node,casa rubini,restaurant,Marseille,"2 Rue Méry, 13002",13002,,43.2980459,5.3709287

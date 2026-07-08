@@ -1,0 +1,341 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+324340257,node,Le Pha,restaurant,Sarlat-la-Canéda,,,,44.9186002,0.9244432
+330979973,node,"L'Abreuvoir, Crêperie",restaurant,Sarlat-la-Canéda,,,,44.9199857,0.9275614
+333769378,node,,hotel,Sarlat-la-Canéda,,,,45.0936895,1.2220489
+495478391,node,Auberge médiévale,restaurant,Sarlat-la-Canéda,,,,44.8801183,0.9474752
+849649819,node,Le Petit Léon,restaurant,Sarlat-la-Canéda,,,https://www.restaurantlepetitleon.fr/,45.0104154,1.0899391
+869123344,node,La Petite Tonnelle,restaurant,Sarlat-la-Canéda,,,,44.8406158,1.1425736
+869146408,node,Taverne des Remparts,restaurant,Sarlat-la-Canéda,,,,44.8404963,1.1461535
+869146472,node,Restaurant - Comptoir d'Olivier,restaurant,Sarlat-la-Canéda,,,,44.8334414,1.1531978
+870501927,node,L'Escale,restaurant,Sarlat-la-Canéda,,,,44.8249894,0.9898029
+872537735,node,Le Relais de la Menaurie,restaurant,Sarlat-la-Canéda,,,,44.6418248,1.0367978
+875691863,node,,restaurant,Sarlat-la-Canéda,,,,44.8826336,1.433986
+972358987,node,Le Basilic,restaurant,Sarlat-la-Canéda,"40 Rue de Paris, 24260",24260,,44.920756,0.9272577
+972359021,node,Da Francesco,restaurant,Sarlat-la-Canéda,,,,44.922316,0.9277103
+1166535185,node,Le Cygne,restaurant,Sarlat-la-Canéda,,,,44.9188336,0.9243573
+1166535189,node,Le Cygne,hotel,Sarlat-la-Canéda,,,,44.9188336,0.9242231
+1168149251,node,Royal Vézère,restaurant,Sarlat-la-Canéda,,,,44.9180837,0.9265162
+1168162008,node,Royal Vézère,hotel,Sarlat-la-Canéda,,,,44.9182145,0.9263797
+1168431206,node,Hôtel de Paris,hotel,Sarlat-la-Canéda,,,,44.919329,0.9269068
+1170281703,node,Le Menhir,restaurant,Sarlat-la-Canéda,,,,44.9219892,0.9277779
+1170323129,node,Brasserie Oscar,restaurant,Sarlat-la-Canéda,,,,44.9178587,0.9280041
+1373109328,node,Hôtel du Parc,hotel,Sarlat-la-Canéda,"36 Route de la Princesse d'Annam, 24290, Thonac",24290,http://hotel-du-parc.net,45.0217733,1.1181885
+1373109427,node,Oli Montignac,restaurant,Sarlat-la-Canéda,"2 Rue Lafitte, 24290, Montignac-Lascaux",24290,,45.0659049,1.1624354
+1386349755,node,Auberge du Peyrol,restaurant,Sarlat-la-Canéda,,,,45.0048015,1.109581
+1386627391,node,La Sivade,restaurant,Sarlat-la-Canéda,,,,44.869133,1.0454719
+1474639012,node,Relais des Cinq Châteaux,restaurant,Sarlat-la-Canéda,,,,44.8336317,1.1610213
+1474639166,node,,hotel,Sarlat-la-Canéda,,,,44.833692,1.1609787
+1499931040,node,Rochebois,hotel,Sarlat-la-Canéda,,,https://www.rochebois.com/,44.8315401,1.2393227
+1739434388,node,Ferme Auberge du Grand Coderc,restaurant,Sarlat-la-Canéda,,,,45.1855156,1.1183174
+1761174910,node,Restaurant de la Poste,restaurant,Sarlat-la-Canéda,,,,45.0106664,1.0894419
+1765098176,node,,restaurant,Sarlat-la-Canéda,,,,45.0000224,1.1016054
+1765129448,node,Auberge du Pont,restaurant,Sarlat-la-Canéda,,,,45.0107417,1.0890529
+1867305653,node,Les Terrasses du Céou,restaurant,Sarlat-la-Canéda,,,,44.7887603,1.1705632
+1871938927,node,Le Belvédère,restaurant,Sarlat-la-Canéda,,,,44.803888,1.2147389
+1871938936,node,L'Esplanade,restaurant,Sarlat-la-Canéda,,,https://www.esplanade-perigord.com,44.8035644,1.2139691
+1884435367,node,Le Tournepique,restaurant,Sarlat-la-Canéda,,,,44.813983,1.1514303
+1917693892,node,Hôtel altica Sarlat,hotel,Sarlat-la-Canéda,"24, 24200, Sarlat-la-Canéda",24200,,44.8757427,1.2121488
+2298038678,node,Hôtel du Pont,hotel,Sarlat-la-Canéda,"24250, Groléjac",24250,https://www.hoteldupont.fr/,44.8237906,1.2878448
+2298052581,node,Hôtel Archambeau,hotel,Sarlat-la-Canéda,"2 Rue de la Mairie, 24290, Thonac",24290,https://www.hotel-restau-archambeau.com/,45.0222365,1.1164146
+2318250268,node,Gueule et Gosier,restaurant,Sarlat-la-Canéda,"1, 24200",24200,,44.889751,1.2173928
+2318250381,node,La Couleuvrine,hotel,Sarlat-la-Canéda,1,,,44.8905395,1.2183262
+2318250444,node,La Couleuvrine,restaurant,Sarlat-la-Canéda,,,,44.890503,1.2183372
+2318281539,node,La Rapière,restaurant,Sarlat-la-Canéda,,,,44.8887318,1.2164784
+2339781784,node,Jardins d'Eyrignac,restaurant,Sarlat-la-Canéda,,,,44.9392045,1.3160166
+2409777841,node,Quai 21,restaurant,Sarlat-la-Canéda,21 Quai Merilhou,,,45.0659586,1.1622119
+2421047276,node,L'Assiette Sarladaise,restaurant,Sarlat-la-Canéda,"4, 24200",24200,,44.8899843,1.2179727
+2421047277,node,Le Dénicheur,restaurant,Sarlat-la-Canéda,,,,45.1415811,1.0662424
+2421047300,node,Pizza Bambou,restaurant,Sarlat-la-Canéda,1 Rue Eugène Leroy,,,45.1407591,1.0712839
+2594051131,node,Lou Dotze,restaurant,Sarlat-la-Canéda,,,https://www.facebook.com/creperieloudotze/,44.8888022,1.2165
+2612818700,node,Le Bistro de l'Octroi,restaurant,Sarlat-la-Canéda,,,,44.8939659,1.2152993
+2815879828,node,l'Auberge de Nailhac,restaurant,Sarlat-la-Canéda,,,,45.226612,1.15217
+2850590791,node,Les Glycines,restaurant,Sarlat-la-Canéda,,,,44.9409034,1.0073647
+2953805482,node,criquettamus,restaurant,Sarlat-la-Canéda,,,,44.8907124,1.2151046
+2953818511,node,Le Petit Manoir,hotel,Sarlat-la-Canéda,"3, 24200, Sarlat-la-Canéda",24200,https://lepetitmanoir-hotel.com,44.8901521,1.2158847
+3263794169,node,Le Saint-Albert,hotel,Sarlat-la-Canéda,Place Pasteur,,https://www.hotelsaintalbert.com/,44.8863316,1.2166997
+3357455206,node,Lo Gorissado,restaurant,Sarlat-la-Canéda,"Le Pontou, 24200, Saint-André-d'Allas",24200,http://lo-gorissado.com/,44.8674348,1.1626017
+3379547352,node,Residence Le Hameau Du Moulin,hotel,Sarlat-la-Canéda,,,,45.0566413,1.1617822
+3386050460,node,Au Grand Hôtel de Sarlat,hotel,Sarlat-la-Canéda,"93 Avenue de Selves, 24200",24200,,44.8951431,1.2146453
+3386050463,node,La Madelaine,hotel,Sarlat-la-Canéda,,,,44.8914034,1.2149522
+3386050466,node,Chez Manija,restaurant,Sarlat-la-Canéda,,,,44.8915886,1.2149616
+3386050477,node,Hôtel Montaigne,hotel,Sarlat-la-Canéda,,,,44.8860691,1.2171406
+3575439859,node,,restaurant,Sarlat-la-Canéda,,,,44.9042578,1.2824954
+3575449211,node,Kinoux'S Hôtel Restaurant,restaurant,Sarlat-la-Canéda,,,,44.9048903,1.2867991
+3630836190,node,,restaurant,Sarlat-la-Canéda,,,,45.2535294,1.1369497
+3630875540,node,L'Estaminet,restaurant,Sarlat-la-Canéda,"Le Bourg, 24390, Badefols-d'Ans",24390,,45.2288747,1.1969449
+3655589281,node,Le Relais de Nadaillac,restaurant,Sarlat-la-Canéda,,,,45.0396926,1.3961161
+3655589282,node,Relais de Nadaillac,hotel,Sarlat-la-Canéda,,,,45.0396616,1.3961849
+3678438770,node,Aux Berges de la Vézère,restaurant,Sarlat-la-Canéda,,,https://www.restaurant-montignac.fr/,45.0655501,1.1645801
+3730899851,node,Au p'tit Bonheur,restaurant,Sarlat-la-Canéda,"Millac, 24370",24370,https://www.camping-auptitbonheur.com/,44.8990919,1.4031609
+3743411856,node,Restaurant du Château,restaurant,Sarlat-la-Canéda,,,,44.9076155,0.9670628
+3743411859,node,L'Auberge de la Rode,restaurant,Sarlat-la-Canéda,,,,44.8016555,1.2147023
+3743412325,node,Auberges des Platanes,restaurant,Sarlat-la-Canéda,,,,44.82551,1.1833652
+3787196869,node,Mentalo,restaurant,Sarlat-la-Canéda,,,,44.9347026,1.0160662
+3787201759,node,Restaurant Au Vieux Moulin,restaurant,Sarlat-la-Canéda,,,,44.9352182,1.0148153
+3787551757,node,Hôtel de la Beune,hotel,Sarlat-la-Canéda,2 Rue du Moulin Bas,,https://www.moulindelabeune.com,44.9350426,1.0151907
+3787611420,node,Hôtel Les Falaises,hotel,Sarlat-la-Canéda,Avenue de la Préhistoire,,,44.937267,1.0120287
+3793781122,node,La Table Des Saveurs,restaurant,Sarlat-la-Canéda,,,,45.0818393,1.3591032
+3793872639,node,Au Petit Gourmand,restaurant,Sarlat-la-Canéda,,,,44.9537649,1.3862705
+3793872640,node,Le Duo,restaurant,Sarlat-la-Canéda,,,,44.9740402,1.3216577
+3797840003,node,L'Escapade,restaurant,Sarlat-la-Canéda,,,,44.8843369,1.3534281
+3806657700,node,,restaurant,Sarlat-la-Canéda,,,,44.9917034,0.9433777
+3810445210,node,Vézère Lodge,hotel,Sarlat-la-Canéda,"10 Route de Campagne, 24260, Le Bugue",24260,,44.9063459,0.9457333
+3860743164,node,Le Sigoules,restaurant,Sarlat-la-Canéda,,,,44.8813998,1.2170955
+3861333958,node,Le Grand Bleu,restaurant,Sarlat-la-Canéda,43 Avenue de la Gare,,https://www.legrandbleu.eu/,44.8777456,1.2194467
+3861333959,node,Les Chênes Verts,restaurant,Sarlat-la-Canéda,,,,44.8776336,1.2316059
+3883388893,node,,restaurant,Sarlat-la-Canéda,,,,44.912984,1.2655593
+3916560654,node,Hôtel Meysset,hotel,Sarlat-la-Canéda,,,,44.9006224,1.203148
+4019169519,node,Auberge D'Imbes,restaurant,Sarlat-la-Canéda,,,,45.010072,1.2697654
+4052890813,node,,restaurant,Sarlat-la-Canéda,,,,44.8692757,1.0427749
+4052890833,node,La Taverne,restaurant,Sarlat-la-Canéda,,,,44.8693631,1.042386
+4107545853,node,Auberge du Roc,hotel,Sarlat-la-Canéda,,,,44.7055287,1.1255384
+4139232444,node,Résidence Le Clos du Rocher,hotel,Sarlat-la-Canéda,,,,44.9332604,1.0151866
+4141148815,node,Les Bastides de Lascaux - Résidence Lagrange-Prestige,hotel,Sarlat-la-Canéda,,,,45.0623065,1.1706707
+4175729908,node,A L'Ancre De Salut,restaurant,Sarlat-la-Canéda,,,,44.8828409,0.8889846
+4239545707,node,"Le ""B M""",restaurant,Sarlat-la-Canéda,,,,44.8205835,1.2911974
+4274070193,node,Les Combarelles Restaurant,restaurant,Sarlat-la-Canéda,,,,44.9454602,1.0447026
+4280249089,node,Le Relais d'Ans,restaurant,Sarlat-la-Canéda,,,,45.2709386,1.0584615
+4301781087,node,L'esterel,restaurant,Sarlat-la-Canéda,"Le Bourg, 24620, Marquay",24620,,44.9435744,1.1342124
+4341056891,node,Pourquoi Pas,restaurant,Sarlat-la-Canéda,"14 Place d'Armes, 24170",24170,,44.7760209,1.0081723
+4361212404,node,Brasserie de la Halle,restaurant,Sarlat-la-Canéda,,,https://www.perigordnoir-valleedordogne.com/fr/restaurants/restaurant/brasserie-de-la-halle,44.7760586,1.0075005
+4364710217,node,Le Plaisance,restaurant,Sarlat-la-Canéda,,,,44.8273473,1.22243
+4364710218,node,Le Plaisance,hotel,Sarlat-la-Canéda,,,,44.8273891,1.2225378
+4364718362,node,La Table du Passeur,restaurant,Sarlat-la-Canéda,,,,44.9358262,1.0126078
+4364718363,node,Hostellerie du Passeur,hotel,Sarlat-la-Canéda,,,,44.935643,1.0129344
+4398106526,node,Bellevue,restaurant,Sarlat-la-Canéda,,,,45.0551191,1.1750763
+4398464291,node,Belle Etoile,hotel,Sarlat-la-Canéda,"24250, La Roque-Gageac",24250,https://www.hotel-belle-etoile-dordogne.fr/,44.8258773,1.1824629
+4398464292,node,L'Auberge des Platanes,hotel,Sarlat-la-Canéda,"24250, La Roque-Gageac",24250,https://www.aubergedesplatanes.com/,44.8257608,1.1827794
+4413848639,node,Brasserie du Château,restaurant,Sarlat-la-Canéda,,,https://www.milandes.com/la-brasserie/,44.8237148,1.1140085
+4419053458,node,Le Manoir des Cèdres,hotel,Sarlat-la-Canéda,,,,45.0504997,0.9719607
+4739278184,node,Au Puits Gourmand,restaurant,Sarlat-la-Canéda,,,,44.9327517,1.2528759
+4791566824,node,Le Welcome,restaurant,Sarlat-la-Canéda,,,,44.8691665,1.0420201
+4817783724,node,Les Machicoulis,restaurant,Sarlat-la-Canéda,,,,44.8149944,1.1472472
+4848416273,node,Le moulin de Mitou,hotel,Sarlat-la-Canéda,,,,45.102174,1.1502799
+4927559174,node,Le Clos Roussillon,hotel,Sarlat-la-Canéda,,,http://www.closroussillon-perigord.com/,44.8300043,1.2167332
+4959579852,node,Inter-Hotel Albizia,hotel,Sarlat-la-Canéda,,,,44.9292245,1.2046471
+4959579854,node,Losmoz,restaurant,Sarlat-la-Canéda,,,https://www.bowlinglosmoz24.fr/,44.929931,1.2046443
+4971133976,node,La renaissance,restaurant,Sarlat-la-Canéda,,,https://www.tripadvisor.fr/Restaurant_Review-g1931451-d7256117-Reviews-Restaurant_la_Renaissance-Rouffignac_Saint_Cernin_de_Reilhac_Dordogne_Nouvelle_A.html,45.0459673,0.9792282
+4971133977,node,La Renaissance,hotel,Sarlat-la-Canéda,,,https://www.facebook.com/larenaissance24?fref=ts,45.045909,0.9791515
+5007840621,node,Le Relais du Soleil d'Or,hotel,Sarlat-la-Canéda,,,,45.0642044,1.1620137
+5092026029,node,La Terrasse,restaurant,Sarlat-la-Canéda,"Route de la Bénéchie, 24200, Sarlat-la-Canéda",24200,,44.8846099,1.1854074
+5313143321,node,Étoile kebab,restaurant,Sarlat-la-Canéda,,,,44.8904606,1.2154256
+5313159422,node,L'adresse,restaurant,Sarlat-la-Canéda,,,,44.890072,1.2177242
+5313159424,node,Hà Tiên,restaurant,Sarlat-la-Canéda,,,,44.890186,1.2178168
+5314026111,node,Le Régent,restaurant,Sarlat-la-Canéda,,,,44.8897812,1.2165899
+5314026495,node,La Petite Borie,restaurant,Sarlat-la-Canéda,,,,44.8881274,1.2167937
+5314026561,node,Hôtel des recollets,hotel,Sarlat-la-Canéda,,,,44.8898798,1.2151828
+5315336265,node,L'Envie des Mets,restaurant,Sarlat-la-Canéda,,,,44.7261373,1.1461915
+5320023729,node,Gang of pizza,restaurant,Sarlat-la-Canéda,22 Avenue Victor Hugo,,,45.1299829,1.3009341
+5462772225,node,Le Présidial,restaurant,Sarlat-la-Canéda,,,,44.8894431,1.2177812
+5691673722,node,Auberge Le Mirandol,restaurant,Sarlat-la-Canéda,7,,https://www.lemirandol.fr,44.8906444,1.2161604
+5773015853,node,Le Malraux,restaurant,Sarlat-la-Canéda,,,,44.8891127,1.2164567
+5792641153,node,O’ Plaisir des Sens,restaurant,Sarlat-la-Canéda,,,,44.8126052,1.2101475
+5808539296,node,Délices de Lucco,restaurant,Sarlat-la-Canéda,,,,44.8691161,1.0432787
+5808539299,node,,restaurant,Sarlat-la-Canéda,,,,44.8692054,1.0435563
+5808539309,node,5cypriens,restaurant,Sarlat-la-Canéda,,,,44.8690514,1.0446104
+5809114957,node,,restaurant,Sarlat-la-Canéda,,,,44.8699354,1.0439721
+5841593086,node,Aux saveurs des jardins,restaurant,Sarlat-la-Canéda,,,,45.1262393,1.3031188
+5843580841,node,Le kiosque à pizza,restaurant,Sarlat-la-Canéda,,,,44.9151956,0.9246985
+5858390875,node,Le Puits Fleuri,restaurant,Sarlat-la-Canéda,,,,45.0398325,0.9860459
+5879269385,node,Pizzeria des Templiers,restaurant,Sarlat-la-Canéda,,,,44.8019123,1.2162807
+5885180185,node,L'entrepôte,restaurant,Sarlat-la-Canéda,"3, 24200",24200,,44.8898131,1.216316
+5892636951,node,La Plage,restaurant,Sarlat-la-Canéda,,,,44.8138032,1.1520424
+5895726686,node,Le Centenaire,restaurant,Sarlat-la-Canéda,,,,44.8376132,1.2482806
+5896409488,node,Le Martin-Pêcheur,restaurant,Sarlat-la-Canéda,,,,45.0102878,1.0882059
+5901900386,node,Auberge de la Salamandre,restaurant,Sarlat-la-Canéda,"6, 24200",24200,,44.8906034,1.2160064
+5901900387,node,Le Bistrot,restaurant,Sarlat-la-Canéda,"14, 24200",24200,https://www.le-bistrot-sarlat.com/,44.8890225,1.2166813
+5901916385,node,L'auberge de Ravilhon,restaurant,Sarlat-la-Canéda,2,,,44.890749,1.2152361
+6048790106,node,Café de la Mairie,restaurant,Sarlat-la-Canéda,,,,44.9362636,1.0131918
+6246247764,node,Le Cygne de l'Espérance,restaurant,Sarlat-la-Canéda,"1 Impasse des Hirondelles, 24220, Allas-les-Mines",24220,,44.8364984,1.0701779
+6279196237,node,Le Payzac,restaurant,Sarlat-la-Canéda,,,,45.1261607,1.3827157
+6429165260,node,Tryskel,restaurant,Sarlat-la-Canéda,,,,45.0650766,1.1615921
+6442549187,node,Le patio,restaurant,Sarlat-la-Canéda,,,,44.8261949,1.1820198
+6486067586,node,Le Jardin des Consuls,restaurant,Sarlat-la-Canéda,,,,44.8906191,1.2157628
+6533613701,node,,restaurant,Sarlat-la-Canéda,,,,45.0241434,0.9976346
+6552272397,node,Auberge Lacombe,restaurant,Sarlat-la-Canéda,,,,44.9150148,1.108447
+6631248028,node,La Maison de Campagne,restaurant,Sarlat-la-Canéda,"D706, 24260, Campagne",24260,,44.9075548,0.9673601
+6694330986,node,l’Espirit Sarlat,restaurant,Sarlat-la-Canéda,,,,44.8813805,1.2157975
+6726533429,node,L'Echappée,restaurant,Sarlat-la-Canéda,,,,44.7764294,1.0086378
+6726676857,node,Le Madelon,restaurant,Sarlat-la-Canéda,,,,44.7762696,1.0056349
+6726732154,node,Le Home,restaurant,Sarlat-la-Canéda,,,,44.7764432,1.00529
+6726734083,node,Le Home,hotel,Sarlat-la-Canéda,,,,44.7764205,1.0052787
+6950432339,node,Le Chalet,restaurant,Sarlat-la-Canéda,,,,44.8263557,1.2253701
+6958836510,node,Aux 3 Sens,restaurant,Sarlat-la-Canéda,"15, 24200, Sarlat-la-Canéda",24200,,44.8902148,1.2181681
+6964162291,node,Le bouche à oreille,restaurant,Sarlat-la-Canéda,42 Avenue Victor Hugo,,,45.1301638,1.2993731
+6964162293,node,Le Rapoutet,restaurant,Sarlat-la-Canéda,48 Rue Jean Macé,,,45.1304722,1.2989466
+6980885560,node,Le Carré d'As,restaurant,Sarlat-la-Canéda,42 Avenue Victor Hugo,,,45.1300988,1.2997474
+7302513201,node,Chez David,restaurant,Sarlat-la-Canéda,,,,44.8159946,1.2202024
+7367600833,node,L'Aquitalie,restaurant,Sarlat-la-Canéda,,,,44.8028922,1.2145565
+7415923667,node,Au peti Rouff,restaurant,Sarlat-la-Canéda,,,,45.047489,0.9780419
+7415923668,node,L'Innatendu,restaurant,Sarlat-la-Canéda,,,,45.0506043,0.9719452
+7438805385,node,L'Ansemble,restaurant,Sarlat-la-Canéda,,,https://restaurant-l-ansemble-ste-eulalie-ans.fr,45.2468503,1.0174959
+7699495385,node,Le Donjon,restaurant,Sarlat-la-Canéda,,,,44.8406966,1.1455059
+7704832186,node,Le troubadour,restaurant,Sarlat-la-Canéda,,,https://www.letroubadour-hautefort.fr/,45.259322,1.144134
+7712162952,node,Chez Cathy,restaurant,Sarlat-la-Canéda,"Place Marquis Jacques François, 24390, Hautefort",24390,https://www.chez-cathy.rest,45.2594284,1.1485197
+7761365670,node,Hôtel Le Renoir,hotel,Sarlat-la-Canéda,2,,https://www.hotel-renoir-sarlat.com/,44.8850759,1.2168406
+7840926706,node,Le Moulin de Mitou,restaurant,Sarlat-la-Canéda,,,,45.1020099,1.149475
+7846692699,node,,restaurant,Sarlat-la-Canéda,,,,44.906387,0.974588
+7856670763,node,Auberge Médiévale,hotel,Sarlat-la-Canéda,,,https://www.auberge-medievale.fr,44.8800939,0.9475212
+7902493385,node,L'Entre 2,restaurant,Sarlat-la-Canéda,,,,44.8889823,1.2163501
+7941884559,node,Le Relais du Paysan,restaurant,Sarlat-la-Canéda,,,,44.883241,1.3516305
+7941890974,node,Le Rouffillac,restaurant,Sarlat-la-Canéda,,,,44.8670873,1.3563927
+7993126791,node,Mozzica,restaurant,Sarlat-la-Canéda,,,,45.0657525,1.1615325
+7993126792,node,Les pilotis,restaurant,Sarlat-la-Canéda,,,,45.065959,1.1626605
+7993126793,node,L'édulis,restaurant,Sarlat-la-Canéda,,,,45.0643489,1.1635043
+8583247694,node,Restaurant Celoma,restaurant,Sarlat-la-Canéda,27 Route des Eyzies,,,45.0224136,1.1170365
+8827018668,node,,restaurant,Sarlat-la-Canéda,,,,44.7501261,1.1103886
+8828045768,node,La papeterie Pizzas,restaurant,Sarlat-la-Canéda,,,,45.1294565,1.2277658
+8833170241,node,Le Marquee,restaurant,Sarlat-la-Canéda,,,https://www.lemarquee.fr/,45.1420277,1.1948691
+8838079644,node,Chez Serge,restaurant,Sarlat-la-Canéda,,,,45.1332448,1.2122042
+8919598291,node,Les Pot'irons,restaurant,Sarlat-la-Canéda,,,,45.1503742,1.1235049
+8930522206,node,Sawadee,restaurant,Sarlat-la-Canéda,,,https://www.restaurant-thai-dordogne.com/,44.8032921,1.2036484
+8930574626,node,"La Traverse ""Chez les filles""",hotel,Sarlat-la-Canéda,,,,44.8013532,1.2036318
+8930582559,node,La Promenade,restaurant,Sarlat-la-Canéda,,,,44.8003433,1.203825
+8930585364,node,La Boca,restaurant,Sarlat-la-Canéda,,,,44.8023257,1.2035482
+8945947157,node,Hostellerie de la Commanderie,restaurant,Sarlat-la-Canéda,,,,45.1167028,1.2282358
+8948719389,node,La Dînette crêperie et cie.,restaurant,Sarlat-la-Canéda,,,,44.9405359,1.0078017
+8983886034,node,O Saint-Cantereau,restaurant,Sarlat-la-Canéda,,,,45.1570838,1.0158637
+8983911782,node,Le Croquant,restaurant,Sarlat-la-Canéda,,,http://restaurant-le-croquant.com/,45.0654635,1.096119
+8989702117,node,Savie,restaurant,Sarlat-la-Canéda,,,,44.9136182,1.0683052
+8993767817,node,Les Chevaliers de la Tour,restaurant,Sarlat-la-Canéda,"15, 24200, Sarlat la Canéda",24200,,44.8892526,1.2163025
+9009691194,node,Auberge du Parc,restaurant,Sarlat-la-Canéda,,,,45.2590957,1.1434837
+9025020817,node,cabanoix et châtaignes,restaurant,Sarlat-la-Canéda,,,,44.802127,1.2150227
+9026410845,node,O'Soleil d'or,restaurant,Sarlat-la-Canéda,,,,44.8264337,1.1809442
+9026410846,node,Le Fat Pig,restaurant,Sarlat-la-Canéda,,,,44.8265288,1.1806085
+9027192207,node,Au jard'in d'O,restaurant,Sarlat-la-Canéda,,,https://www.aujardindo.fr/,45.1277735,1.3328813
+9031485517,node,Chez le Gaulois,restaurant,Sarlat-la-Canéda,,,,44.8891469,1.2165702
+9034783542,node,Bar du Chateau,restaurant,Sarlat-la-Canéda,,,,44.815303,1.1478338
+9034783543,node,La Cour de Récré,restaurant,Sarlat-la-Canéda,,,,44.815309,1.1468788
+9034783544,node,Les Tilleuls,restaurant,Sarlat-la-Canéda,,,,44.8155054,1.1471327
+9040894548,node,Le Peche de Malet,hotel,Sarlat-la-Canéda,,,,44.8281289,1.2515584
+9040894549,node,Le Peche de Malet,restaurant,Sarlat-la-Canéda,,,,44.8281165,1.2517303
+9111518308,node,L'Aventure,restaurant,Sarlat-la-Canéda,,,,45.2590573,1.1483864
+9189769403,node,,restaurant,Sarlat-la-Canéda,,,,44.823914,1.2506792
+9191210560,node,,restaurant,Sarlat-la-Canéda,,,,44.8633818,1.3737316
+9658074112,node,La Romane Pizzas,restaurant,Sarlat-la-Canéda,,,,44.8895665,1.2156174
+9658074854,node,Namasté,restaurant,Sarlat-la-Canéda,,,,44.8896689,1.2154928
+9662847470,node,Le P'tit Gouyat,restaurant,Sarlat-la-Canéda,,,,45.0560379,1.1533758
+9666132632,node,Laugerie Basse,restaurant,Sarlat-la-Canéda,,,,44.9486652,0.9981918
+9672340211,node,,restaurant,Sarlat-la-Canéda,,,,44.8222707,1.1873445
+9797242695,node,La Festival,restaurant,Sarlat-la-Canéda,,,,44.8898658,1.2165918
+9797291562,node,La Petite Brasserie,restaurant,Sarlat-la-Canéda,"D704, 24200 Sarlat-la-Canéda",,,44.8786085,1.2170662
+9890981963,node,Les Tontons Burgers,restaurant,Sarlat-la-Canéda,,,,44.8883217,1.216379
+9902412017,node,Auberge de Pech Mortier,restaurant,Sarlat-la-Canéda,,,,44.9422435,1.1695867
+9904646517,node,Ferme auberge des Marthres,restaurant,Sarlat-la-Canéda,,,https://www.aubergedesmarthres.com/,44.943588,1.3460052
+9917683390,node,,restaurant,Sarlat-la-Canéda,"194 Route de la Pagaie, 24220, Vézac",24220,,44.8194636,1.1548334
+9951639348,node,Belle Étoile,restaurant,Sarlat-la-Canéda,"24250, La Roque-Gageac",24250,https://hotel-belle-etoile-dordogne.fr/le-restaurant/,44.8258999,1.1823673
+9951643313,node,La Chaumière,restaurant,Sarlat-la-Canéda,,,,45.0645709,1.1639739
+9955663507,node,La Clé de Voute,restaurant,Sarlat-la-Canéda,,,,44.8896832,1.2161246
+9955664665,node,Turquoise,restaurant,Sarlat-la-Canéda,,,,44.8895113,1.2157592
+9955668671,node,Le Snack au Fournil,restaurant,Sarlat-la-Canéda,,,,44.8389377,1.1486329
+9955680314,node,Le Moulin des Chevaliers,restaurant,Sarlat-la-Canéda,,,,44.8894418,1.2163284
+9955681002,node,La Belle Époque,restaurant,Sarlat-la-Canéda,,,,44.8896233,1.2159449
+9955690242,node,La fontaine,restaurant,Sarlat-la-Canéda,,,,44.8882139,1.2170865
+9955694027,node,Lou Podel,restaurant,Sarlat-la-Canéda,,,,44.8879135,1.2159154
+9955695398,node,Buffet d'Asie,restaurant,Sarlat-la-Canéda,,,,44.8745691,1.21156
+9955695399,node,Chez Ozil,restaurant,Sarlat-la-Canéda,,,,44.8892658,1.2160125
+9955698105,node,Brasserie Costa,restaurant,Sarlat-la-Canéda,,,,44.8896207,1.2168317
+9955698124,node,Hôtel Dieu,restaurant,Sarlat-la-Canéda,,,,44.8898039,1.2161774
+9968582125,node,Sarlat,hotel,Sarlat-la-Canéda,10,,,44.8856419,1.2298642
+9975110390,node,Domaine Lacoste,restaurant,Sarlat-la-Canéda,,,,44.8405759,1.2765409
+9997907964,node,,restaurant,Sarlat-la-Canéda,,,,44.9028274,1.2119315
+9999543919,node,Le Médiéval,restaurant,Sarlat-la-Canéda,,,,44.8879956,1.2166054
+9999610119,node,La lanterne,restaurant,Sarlat-la-Canéda,"3, 24200, Sarlat-la-Canéda",24200,,44.8891471,1.2171088
+9999614417,node,Côté cour,restaurant,Sarlat-la-Canéda,,,,44.8883635,1.2169146
+9999704217,node,Pizza Fénélon,restaurant,Sarlat-la-Canéda,,,,44.8900978,1.2178276
+10000003420,node,Le Malraux,restaurant,Sarlat-la-Canéda,,,,44.8891717,1.2162614
+10000007019,node,La Cour des Poètes,restaurant,Sarlat-la-Canéda,,,,44.8893397,1.2162624
+10000007119,node,La Cour des Poètes,restaurant,Sarlat-la-Canéda,,,,44.8892971,1.216509
+10000007317,node,L'Imprévu,restaurant,Sarlat-la-Canéda,,,,44.8895359,1.216117
+10002020622,node,Le Bistrot,restaurant,Sarlat-la-Canéda,,,,44.801258,1.2143437
+10002020626,node,Les Caves du Château,restaurant,Sarlat-la-Canéda,,,,44.8020001,1.2148558
+10002022217,node,Comptoir d'Annam,restaurant,Sarlat-la-Canéda,,,,44.8015763,1.2143381
+10004494720,node,Hôtel Pontet,hotel,Sarlat-la-Canéda,,,https://www.hostellerie-maleville.com/,44.8408134,1.1426425
+10004495728,node,Hôtel Restaurant du Château,hotel,Sarlat-la-Canéda,,,https://www.dordogne-perigord-tourisme.fr/offres/hotel-restaurant-du-chateau-beynac-et-cazenac-fr-2938615/,44.8398761,1.1422656
+10004495729,node,Restaurant Maleville,restaurant,Sarlat-la-Canéda,,,,44.8396824,1.1422088
+10004496318,node,Toute la Ô,restaurant,Sarlat-la-Canéda,,,,44.8406128,1.1468949
+10008817920,node,Les Courtines,restaurant,Sarlat-la-Canéda,,,,44.8269839,1.1796043
+10008819519,node,Chez Tom,restaurant,Sarlat-la-Canéda,,,,44.8262786,1.1813338
+10011816829,node,Villa des consuls,hotel,Sarlat-la-Canéda,"3, 24200, Sarlat-la-Canéda",24200,https://www.villaconsuls.fr/en,44.8900615,1.2153934
+10011816831,node,Coin-coin,restaurant,Sarlat-la-Canéda,"5, 24200, Sarlat-la-Canéda",24200,https://coincoin-sarlat.fr,44.8910465,1.2156856
+10011816832,node,Le Buffet de la Traverse,restaurant,Sarlat-la-Canéda,"3, 24200, Sarlat-la-Canéda",24200,https://buffet-traverse-sarlat.fr/,44.8908924,1.215518
+10011816833,node,Le petit bistrot,restaurant,Sarlat-la-Canéda,"7, 24200, Sarlat-la-Canéda",24200,https://www.lepetitbistrot-sarlat.com/,44.8883288,1.2166875
+10147304828,node,Restaurant Les Ventoulines,restaurant,Sarlat-la-Canéda,Route des Ventoulines,,,44.7842276,1.2257514
+10165551649,node,L'Oriënt,restaurant,Sarlat-la-Canéda,,,,44.8749013,1.2245947
+10165779496,node,Abbys Hôtel,hotel,Sarlat-la-Canéda,"213 Rue de la Croix Verte, 24200, Sarlat La Canéda",24200,,44.864523,1.2536953
+10775745471,node,La PIZZ'à Dina,restaurant,Sarlat-la-Canéda,"24200, Saint-Vincent-le-Paluel",24200,https://la-pizza-dina.business.site/?utm_source=gmb&utm_medium=referral,44.8713323,1.2864929
+10878167005,node,Nosco,restaurant,Sarlat-la-Canéda,7 Rue du Moulin,,https://www.restaurantnosco.fr/,44.936063,1.0148483
+10947491848,node,Le Flannagan's,restaurant,Sarlat-la-Canéda,"8 Rue Lafitte, 24290, Montignac-Lascaux",24290,,45.0661174,1.1631792
+10947491908,node,La Roseraie,hotel,Sarlat-la-Canéda,,,https://www.laroseraie-hotel.com/,45.0664839,1.1639333
+10968937273,node,Le Petit Leon,restaurant,Sarlat-la-Canéda,"Route de la Vallée, 24290, Saint-Léon-sur-Vézère",24290,https://restaurantlepetitleon.fr/english,45.0103429,1.099538
+11034252266,node,Café des sports,restaurant,Sarlat-la-Canéda,,,,44.7761947,1.0075062
+11043020926,node,La table du rond point,restaurant,Sarlat-la-Canéda,,,,44.8234536,0.9871548
+11064708167,node,Lidentïque,restaurant,Sarlat-la-Canéda,,,https://www.tripadvisor.fr/Restaurant_Review-g424992-d24020341-Reviews-L_identique-Carsac_Aillac_Sarlat_la_Caneda_Dordogne_Nouvelle_Aquitaine.html,44.8400289,1.2756075
+11064740096,node,Pizza Dimi,restaurant,Sarlat-la-Canéda,4423,,https://m.facebook.com/Pizza-Dimi-100070938001453/,44.8403324,1.2755384
+11065395016,node,La source,restaurant,Sarlat-la-Canéda,,,,44.8132323,1.151495
+11067275698,node,Pizzas à emporter,restaurant,Sarlat-la-Canéda,,,,44.7968175,1.204136
+11068789252,node,Rôtisserie,restaurant,Sarlat-la-Canéda,,,,44.8226413,1.1102837
+11069411744,node,Les Chambres de la Voie Verte,hotel,Sarlat-la-Canéda,,,https://www.leschambresdelavoieverte.com/,44.840252,1.275658
+11072754323,node,Lunch café,restaurant,Sarlat-la-Canéda,54 Rue du Barry,,,45.0590529,1.1666545
+11075696567,node,Petit Saigon,restaurant,Sarlat-la-Canéda,,,,44.8921349,1.2151748
+11075696568,node,O Comptoir,restaurant,Sarlat-la-Canéda,,,,44.8910909,1.2160147
+11075701204,node,La pâte à Max,restaurant,Sarlat-la-Canéda,,,,44.8920889,1.2151768
+11077570384,node,Le Médiéval,restaurant,Sarlat-la-Canéda,,,,44.7763699,1.0063334
+11077592495,node,Le petit Paris,restaurant,Sarlat-la-Canéda,,,,44.7419986,1.191735
+11077607035,node,la Cantine,restaurant,Sarlat-la-Canéda,,,,44.7417689,1.1929264
+11077612231,node,Hôtel Clément V,restaurant,Sarlat-la-Canéda,,,,44.7763376,1.0071035
+11077614512,node,Le Calascio Pizza,restaurant,Sarlat-la-Canéda,,,,44.7763924,1.0075749
+11084176810,node,Mamie’M,restaurant,Sarlat-la-Canéda,,,,44.885442,0.8890717
+11085659947,node,Le Syana,restaurant,Sarlat-la-Canéda,2 Rue du Musée,,,44.9360413,1.0133264
+11085684655,node,Restaurant Le Syana,restaurant,Sarlat-la-Canéda,,,,44.9359504,1.0136091
+11085686301,node,Le Don Camillo,restaurant,Sarlat-la-Canéda,,,,44.9359339,1.0140733
+11085706693,node,Snack,restaurant,Sarlat-la-Canéda,,,,44.9363278,1.0164652
+11085865710,node,Le Roc Breizg,restaurant,Sarlat-la-Canéda,,,,44.936762,1.0126735
+11139722334,node,Chez Fany,restaurant,Sarlat-la-Canéda,,,,45.066805,1.1624839
+11139722335,node,L'Emboscado,restaurant,Sarlat-la-Canéda,,,,45.0668853,1.1624023
+11208131337,node,Hôtel Le Cro-Magnon,hotel,Sarlat-la-Canéda,"54 Avenue de la Préhistoire, 24620",24620,,44.9399857,1.010019
+11219273238,node,Manoir d'Hautegente,hotel,Sarlat-la-Canéda,,,,45.0914949,1.2648051
+11449940492,node,Au coup de Silex,restaurant,Sarlat-la-Canéda,4 Rue du Musée,,,44.9359506,1.0136217
+11449941028,node,La Lanterne Chambre d’hôtes,hotel,Sarlat-la-Canéda,9,,,44.8891567,1.2178268
+11818027397,node,Au Taravelou,restaurant,Sarlat-la-Canéda,,,,45.1565418,1.1920819
+11869240528,node,Le Bled,restaurant,Sarlat-la-Canéda,,,,44.8827948,1.2177592
+11874175879,node,Périgord sushi & wok,restaurant,Sarlat-la-Canéda,,,,44.8814447,1.2172939
+11874196613,node,Mama-momo,restaurant,Sarlat-la-Canéda,,,,44.8807652,1.2154302
+11874203064,node,Ibis,hotel,Sarlat-la-Canéda,,,,44.8812478,1.2154977
+11874224020,node,Le Renoir,hotel,Sarlat-la-Canéda,,,,44.8850567,1.2164391
+11874226382,node,Délicatessen en Périgord,restaurant,Sarlat-la-Canéda,,,,44.884796,1.2163802
+11895710866,node,La Treille,hotel,Sarlat-la-Canéda,,,,44.8272293,1.2229319
+11901837509,node,Ô Faim Goût'R Mets,restaurant,Sarlat-la-Canéda,"44 Rue Notre-Dame, 24550, Villefranche-du-Périgord",24550,https://ofaimgoutrmets.wixsite.com,44.6303011,1.0769788
+11901865632,node,La Bastide,hotel,Sarlat-la-Canéda,"85 Route de Cahors, 24550, Villefranche-du-Périgord",24550,https://www.logishotels.com/fr/hotel/-253487?partid=1535,44.6289961,1.0806028
+11954035407,node,,restaurant,Sarlat-la-Canéda,,,,44.7351441,1.2947525
+12052531949,node,Le Clos du Moulin,restaurant,Sarlat-la-Canéda,,,,45.1023708,1.2632071
+12057896067,node,Hôtellerie de l’Abbaye,hotel,Sarlat-la-Canéda,,,,45.0631833,1.2472902
+12061453005,node,La Table du Coly,restaurant,Sarlat-la-Canéda,,,,45.091321,1.2649752
+12061453006,node,La Table de Jean,restaurant,Sarlat-la-Canéda,,,,45.0867935,1.2673697
+12085756072,node,La chèvre et le chou,restaurant,Sarlat-la-Canéda,,,,44.8892159,1.2170798
+12086953979,node,Restaurant du Manoire,restaurant,Sarlat-la-Canéda,,,https://www.campingdumanoire.com/,45.1257882,0.9779931
+12091695301,node,Chez Canta,restaurant,Sarlat-la-Canéda,,,,45.1295076,1.3047306
+12095876384,node,,restaurant,Sarlat-la-Canéda,,,,44.828429,1.2661904
+12096734730,node,,restaurant,Sarlat-la-Canéda,,,,44.8284289,1.2661903
+12096824415,node,Aux Délices d'Aliénor,restaurant,Sarlat-la-Canéda,,,,44.8885237,1.2153062
+12102166882,node,Le coin crêpe,restaurant,Sarlat-la-Canéda,,,,44.8922925,1.21539
+12137498396,node,La Terrasse du Pont Vieux,restaurant,Sarlat-la-Canéda,19 Place de la Libération,,,45.1292951,1.3048967
+12139409667,node,Le Plamon,restaurant,Sarlat-la-Canéda,,,,44.890321,1.2161951
+12141817079,node,Le Regal,restaurant,Sarlat-la-Canéda,,,,44.9739971,1.3199302
+12198659435,node,des idées à la noix,restaurant,Sarlat-la-Canéda,,,,44.8022935,1.2134994
+12571491144,node,La Taverne,restaurant,Sarlat-la-Canéda,,,,44.8155228,1.1480646
+12609968238,node,Le Boïdicou,restaurant,Sarlat-la-Canéda,"Le Bourg, 24290, Thonac",24290,https://le-boidicou-restaurant.eatbu.com/,45.0223991,1.1169337
+12917128940,node,O'Petit Détour,restaurant,Sarlat-la-Canéda,"Le bourg, 24120, La Dornac",24120,,45.081686,1.3592095
+12950235639,node,"Café des Arts ""L'école buissonnière""",gallery,Sarlat-la-Canéda,,,,44.8308571,1.2258002
+12977807642,node,La Petite Table,restaurant,Sarlat-la-Canéda,,,,44.7424678,1.2619592
+12977807740,node,Le Colombier,restaurant,Sarlat-la-Canéda,,,,44.8243173,1.2102295
+13029650008,node,,restaurant,Sarlat-la-Canéda,,,,44.8239781,1.1630884
+13092800587,node,Auberge des Tilleuls,restaurant,Sarlat-la-Canéda,,,,44.8307964,1.03062
+13113021478,node,Restaurant scolaire,restaurant,Sarlat-la-Canéda,,,https://www.stcrepincarlucet.fr/regroupement-pedagogique-intercommunal-rpi-de-proissans-saint-crepin-et-carlucet/,44.963648,1.2737727
+13338042383,node,Hôtel Confort Le Moulin Rouge,hotel,Sarlat-la-Canéda,,,,45.1272023,1.3232172
+13338042385,node,Bistrot du Moulin Rouge,restaurant,Sarlat-la-Canéda,,,,45.1279481,1.3236808
+13338571138,node,Mozz'Art,restaurant,Sarlat-la-Canéda,7 Avenue Jean Jaurès,,,45.1305611,1.3019377
+13381351579,node,Domaine de Monrecour,restaurant,Sarlat-la-Canéda,,,,44.8388035,1.118534
+13410122019,node,Ferme Auberge de la Garrigue Haute,restaurant,Sarlat-la-Canéda,,,https://www.lagarriguehaute.fr/,44.9006268,1.304023
+13866185616,node,Aux multiples saveurs,restaurant,Sarlat-la-Canéda,"8 Place de la Liberté, 24550, Villefranche-du-Périgord",24550,https://aux-multiples-saveurs.eatbu.com,44.6307947,1.0757206
+13949780101,node,La maison du passeur,restaurant,Sarlat-la-Canéda,"Impasse de la Cale, 24370",24370,,44.8517948,1.3363937

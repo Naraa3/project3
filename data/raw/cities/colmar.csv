@@ -1,0 +1,239 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+243495090,node,B & B hotel,hotel,Colmar,,,,48.1126379,7.3676609
+247105450,node,Aux Amis de la Lauch,restaurant,Colmar,,,,48.0559665,7.3514552
+260422019,node,Brasserie des Arcades,restaurant,Colmar,"Grand'Rue, 68000, Colmar",68000,https://arcades.pagesperso-orange.fr/,48.0770025,7.3601363
+266643987,node,Le Flamm's,restaurant,Colmar,,,,48.0781074,7.3581941
+293726584,node,Hôtel l'Europe,hotel,Colmar,,,https://www.hotel-europe-colmar.com/,48.0772762,7.4038329
+300141209,node,Auberge du Geisbach,guest_house,Colmar,Luttenbach,,http://www.geisbach.fr,48.0204604,7.1187932
+300145832,node,Aux Deux Clefs,hotel,Colmar,12 Rue de l'Altenhof,,http://auxdeuxclefs.hotels-kempf.com,48.0146001,7.0651862
+301207452,node,Ferme-Auberge Les Trois Fours,guest_house,Colmar,,,https://www.auberge-des-trois-fours.com/,48.053337,7.0245321
+302362367,node,Ferme Auberge Kahlenwasen,guest_house,Colmar,Luttenbach près Munster,,https://www.tourisme-alsace.com/fr/231001097-Ferme-auberge-du-Kahlenwasen.html,47.9889696,7.124078
+325004638,node,Ferme Auberge Deybach (Schnepfenried),restaurant,Colmar,"Le Schnepfenried, 68380, Mittlach",68380,https://www.ferme-auberge-deybach.fr/,47.9908022,7.0405139
+411065335,node,Ferme Auberge du Schiessroth,restaurant,Colmar,Metzeral,,https://www.jds.fr/metzeral/ferme-auberge-alsace/ferme-auberge-du-schiessroth-le-gaschney-metzeral-haut-rhin-2132_L,48.0294309,7.0325765
+411065417,node,Le Schallern,guest_house,Colmar,"Gaschney, 68380, Muhlbach-sur-Munster",68380,https://www.leschallern.com,48.0374534,7.0400761
+411065418,node,Ferme Auberge Hinterberg,guest_house,Colmar,,,https://www.vallee-munster.eu/fr/gourmande/fermes-auberges-vallee-munster/F231000931_ranch-auberge-hinterberg-metzeral.html,48.018259,7.0508952
+467405854,node,Ferme-Auberge Strohberg,restaurant,Colmar,"68230, Wasserbourg",68230,https://www.ferme-auberge-strohberg.com/,47.9828305,7.1325653
+467407680,node,Auberge du Boenlesgrab,restaurant,Colmar,,,,47.976901,7.1477459
+469373086,node,Ferme Auberge du Braunkopf,restaurant,Colmar,,,http://www.auberge-braunkopf.com,48.0229098,7.0644044
+496239839,node,Gaertlesrain,restaurant,Colmar,Soultzeren,,https://www.jds.fr/soultzeren/ferme-auberge-alsace/auberge-gaertlesrain-soultzeren-haut-rhin-2127_L,48.089015,7.0686673
+568321307,node,Ferme Auberge Wassmatt,guest_house,Colmar,"134 Wassmatt, 68230, Wasserbourg",68230,http://www.ferme-auberge-wassmatt.com/,47.9946506,7.1373414
+599392343,node,Les Deux Cléfs,hotel,Colmar,,,https://www.2clefs.com/,48.0872617,7.2777119
+609628471,node,Restaurant le Zinc,restaurant,Colmar,"45 Grand'Rue, 68000",68000,https://www.lezinccolmar.fr/,48.0748936,7.357441
+614311651,node,Crêperie CrêP'Stub,restaurant,Colmar,,,,48.0753613,7.3592922
+614720266,node,La cochonaille,restaurant,Colmar,"1 Rue de la Grenouillère, 68000, Colmar",68000,,48.0775069,7.361524
+658603930,node,Via Roma,restaurant,Colmar,,,,48.07473,7.3439514
+658611175,node,Le Rendez-Vous de Chasse,restaurant,Colmar,,,,48.0725616,7.3476104
+658611176,node,L'Auberge,restaurant,Colmar,,,,48.0726774,7.3477154
+681555268,node,ibis Styles Colmar Centre,hotel,Colmar,,,,48.0768229,7.3553763
+685084711,node,Hostellerie Groff - Aux deux clefs,hotel,Colmar,,,,48.0413152,7.5394405
+738241085,node,Hôtel restaurant Panorama,hotel,Colmar,,,https://www.hotel-panorama-alsace.com/,48.0601877,7.1359925
+895655251,node,Caveau Saint-Pierre,restaurant,Colmar,,,,48.0729377,7.3571515
+899484970,node,Ferme Auberge du Kastelberg,restaurant,Colmar,,,https://www.ferme-auberge-kastelberg.fr/,48.0148286,7.0116296
+906764500,node,Ferme Auberge du Ried,restaurant,Colmar,,,https://www.aubergeduried.fr/,48.0039078,7.13396
+928060353,node,Ferme-Auberge du Lameysberg,restaurant,Colmar,Breitenbach,,https://www.jds.fr/breitenbach-haut-rhin/musee/ferme-lameysberg-musee-du-fromage-de-munster-breitenbach-haut-rhin-1700_L,48.0026031,7.1105792
+977824683,node,Fast Hotel,hotel,Colmar,,,,48.1284632,7.3610163
+1131677835,node,Restaurant Le Panoramic,restaurant,Colmar,,,https://fr.restaurant-le-panoramic.fr/,47.9860881,7.0487476
+1247193372,node,Hôtel Ibis,hotel,Colmar,,,,48.0779121,7.4029882
+1255529808,node,La Bonne Tourte,restaurant,Colmar,,,,48.0171778,7.5294974
+1256679259,node,La Clef des Champs,hotel,Colmar,,,,48.0401557,7.5443544
+1256679777,node,l'Arlequin,restaurant,Colmar,,,,48.040433,7.5443586
+1265138564,node,Le Colombier,hotel,Colmar,,,,48.0738104,7.358225
+1265168883,node,A l'Echevin,restaurant,Colmar,,,,48.0737254,7.3567506
+1268459870,node,B & B hotel,hotel,Colmar,,,,48.1128355,7.3651714
+1268459891,node,La Boucherie,restaurant,Colmar,,,,48.1124723,7.3650885
+1270253832,node,Auberge et Chalets de la Wormsa,chalet,Colmar,"72 Rue de l'Altenhof, 68380, Metzeral",68380,https://alsace-chalets.fr,48.0108864,7.0532324
+1451092801,node,L'olivier,restaurant,Colmar,2 Rue Saint-Grégoire,,https://lolivier-munster.com/,48.0407623,7.136105
+1484320518,node,Restaurant de la Poste,restaurant,Colmar,,,,48.0272847,7.501747
+1658059316,node,d'Melichkann,restaurant,Colmar,,,,48.1246432,7.4781346
+1668557409,node,La Cigogne,restaurant,Colmar,,,,48.0941164,7.3744738
+1671207816,node,Au P'tit Munster,restaurant,Colmar,,,,48.0409506,7.1381317
+1712386957,node,Ferme-Auberge Rothenbrunnen,guest_house,Colmar,"68380, Sondernach",68380,https://www.rothenbrunnen.fr/,47.9826277,7.1194643
+1731396571,node,Auberge du Steinwasen,guest_house,Colmar,"Route des Crêtes, 68380, Metzeral",68380,http://steinwasen.free.fr/,47.9940505,6.9857868
+1738545520,node,Café la Coccinelle,restaurant,Colmar,,,,48.1161758,7.5327851
+1767711098,node,Restaurant de la Hardt,restaurant,Colmar,,,,48.0979668,7.3364878
+1865773754,node,Restaurant Pfeffel,restaurant,Colmar,,,,48.0799834,7.3562339
+1929251016,node,Hôtel Quatorze,hotel,Colmar,,,,48.0762613,7.3565002
+2001013191,node,Le 3,restaurant,Colmar,,,,48.0768891,7.3587843
+2274264116,node,Bistrot des Lavandières,restaurant,Colmar,"12 Rue Saint-Jean, 68000, Colmar",68000,,48.0742152,7.3569345
+2274264141,node,Le Schongauer,restaurant,Colmar,,,,48.0765091,7.3581147
+2295909198,node,Ferme Auberge du Gaschney,restaurant,Colmar,"Le Gaschney, 68380, Muhlbach-sur-Munster",68380,https://www.fermeaubergealsace.fr/fr/nos-fermes-auberges/fermes-auberges-haute-alsace/F231001872_ferme-auberge-du-gaschney-muhlbach-sur-munster/,48.0337497,7.0449014
+2302157484,node,A la Ville de Nancy,hotel,Colmar,"48 Rue Vauban, 68000, Colmar",68000,,48.0794638,7.3624917
+2377063499,node,Hôtel Restaurant Bar Valneige,hotel,Colmar,"21 Rue Principale, 68380, Mittlach",68380,https://www.hotelrestaurantvalneige.fr/,48.0037942,7.033587
+2442569163,node,"La Tropezienne, Pizzeria",restaurant,Colmar,,,,48.0519331,7.205048
+2630574193,node,Le Flory,restaurant,Colmar,"5 Rue Mangold, 68000, Colmar",68000,,48.0773957,7.359891
+2660977749,node,Le Soleil d'Or,restaurant,Colmar,,,,48.0130233,7.0716522
+2665181247,node,L'île au saveur gastronomique,restaurant,Colmar,,,,48.0848992,7.3569206
+2665263752,node,O Pizza,restaurant,Colmar,,,,48.0819681,7.3524568
+2668192558,node,L'Incontournable,restaurant,Colmar,,,,48.0780072,7.3625633
+2702400612,node,Restaurant de la Tour,restaurant,Colmar,,,,48.0864635,7.2782612
+2726836496,node,La Pataterie,restaurant,Colmar,,,,48.0964687,7.369795
+2741685396,node,Milligusto,restaurant,Colmar,,,https://www.milligusto.com/,48.0962073,7.3692559
+2820233895,node,La Rose Rouge,restaurant,Colmar,,,,48.0069562,7.3831361
+2827567502,node,Les Remparts,restaurant,Colmar,,,,48.018016,7.5307018
+2835118553,node,La Grangelière,restaurant,Colmar,,,https://la-grangeliere-eguisheim.eatbu.com/,48.0418791,7.3045626
+2835118554,node,Le Pavillon Gourmand,restaurant,Colmar,101 Rue du Rempart Sud,,http://pavillon-gourmand.fr,48.0431801,7.3044998
+2935854850,node,Le Petit Schlossberg,restaurant,Colmar,"2 Rue de l'Ange, 68000, Colmar",68000,https://www.le-petit-schlossberg.com/,48.0782956,7.3611256
+3143647129,node,Ferme Auberge Bichstein (Position estimée/visée !),restaurant,Colmar,Soultzeren,,https://www.jds.fr/soultzeren/ferme-auberge-alsace/auberge-bichstein-soultzeren-haut-rhin-2126_L,48.0749309,7.0950779
+3143730030,node,Ferme Auberge au Grand Hêtre,restaurant,Colmar,,,https://www.jds.fr/metzeral/ferme-auberge-alsace/ferme-auberge-grand-hetre-schnepfenried-metzeral-haut-rhin-2090_L,47.9900422,7.0479438
+3143816961,node,Ferme Auberge Wettstein,restaurant,Colmar,Soultzeren,,https://www.jds.fr/soultzeren/ferme-auberge-alsace/auberge-du-wettstein-soultzeren-haut-rhin-2135_L,48.0872539,7.112616
+3172252962,node,Ristorante Del Arte,restaurant,Colmar,"Cinéma CGR, 68000, Colmar",68000,https://www.delarte.fr/restaurant-italien-pizzeria-colmar-cinema-cgr.html,48.0816667,7.355782
+3201790665,node,New Wok Tao,restaurant,Colmar,,,,48.0730827,7.4068286
+3296170496,node,Stammtisch,restaurant,Colmar,,,,48.0865917,7.2781973
+3456334462,node,Restaurant Aux Abeilles,restaurant,Colmar,"25 Route de Gunsbach, 68140, Munster",68140,,48.0439482,7.1524995
+3458722017,node,Colmarappart,hotel,Colmar,,,,48.0764474,7.3596985
+3560684223,node,Oh Happy Day,restaurant,Colmar,,,,48.0805692,7.3573518
+3618136262,node,Restaurant vingt-sept,restaurant,Colmar,,,,48.074718,7.3453184
+3618164931,node,Le Grain,restaurant,Colmar,,,,48.080904,7.3465912
+3618284522,node,Pizzeria le Sorrento,restaurant,Colmar,,,,48.0834278,7.3402202
+3618284528,node,Pizza aux 4 saisons,restaurant,Colmar,,,,48.0850378,7.3389729
+3619696130,node,La Storia,restaurant,Colmar,,,,48.0680109,7.3443769
+3621361580,node,Odalys Appart' Hotel La Rose d'Argent Colmar,hotel,Colmar,,,,48.0788247,7.3656154
+3803109286,node,A la Ville de Colmar,hotel,Colmar,,,,48.0721438,7.2927019
+3914081864,node,La Table de Louise,restaurant,Colmar,,,,48.0792696,7.351988
+3914107878,node,Matoine Bistrot vivant,restaurant,Colmar,,,,48.0792033,7.3599949
+3914128984,node,L'Un des Sens,restaurant,Colmar,,,,48.076028,7.3560442
+3914128985,node,Les Racines,restaurant,Colmar,,,,48.0778421,7.362786
+3914163789,node,La Cocotte de Grand-Mère,restaurant,Colmar,,,,48.0775528,7.3561914
+4187444396,node,,hotel,Colmar,,,,48.0788138,7.3571103
+4195684046,node,Salon de Thé de la Boulangerie Marx,restaurant,Colmar,,,,48.0428615,7.305728
+4213390142,node,Schwendi Bier- un Wistub,restaurant,Colmar,,,,48.0762968,7.3595789
+4242832839,node,Europe,restaurant,Colmar,,,,48.0779278,7.3302841
+4311490091,node,Caveau du Vigneron,restaurant,Colmar,5 Grand'Rue,,https://caveau-du-vigneron.fr/,48.0866986,7.2773547
+4505716689,node,Le Mamie Nova,restaurant,Colmar,"44 Rue Vauban, 68000, Colmar",68000,,48.0793861,7.3622475
+4541087789,node,L'Amandine,restaurant,Colmar,,,https://amandine.alsace,48.0779054,7.3581038
+4568791890,node,La Strada,restaurant,Colmar,,,,48.0647478,7.4159
+4594398132,node,l'Etoile,restaurant,Colmar,,,,48.0778965,7.3304259
+4599693702,node,La Boîte à Sel,hotel,Colmar,11 Rue Due Rhin,,https://laboiteasel.net/,48.0334854,7.5495612
+4599693703,node,La Boîte à Sel,restaurant,Colmar,,,,48.0335143,7.5495798
+4725409089,node,Chez Lucien,hotel,Colmar,"2 Rue de la Brasserie, 68920",68920,,48.0730188,7.2912853
+4887434444,node,Ô cordon bleu,restaurant,Colmar,,,https://www.ocordonbleu68.fr/,48.076167,7.355368
+4893419471,node,L'Abreuvoir,restaurant,Colmar,,,https://www.labreuvoirturckheim.fr/,48.0865479,7.2778331
+4893419472,node,Brasserie Gourmandizes & Co,restaurant,Colmar,,,,48.086741,7.2778079
+4922191481,node,Le Comptoir de Georges,restaurant,Colmar,"1 Place des Six Montagnes Noires, 68000, Colmar",68000,,48.0739955,7.3570053
+4922332100,node,Restaurant Kastenwald,restaurant,Colmar,,,,48.0273806,7.5014046
+4958020815,node,Restaurant des Amis de la Nature,restaurant,Colmar,,,,48.0297074,7.1129943
+4972590921,node,La baie de Tien Sa,restaurant,Colmar,,,,48.0812676,7.3577158
+4973369323,node,coulmoer,restaurant,Colmar,,,,48.0754232,7.3587012
+5000716321,node,Taverne Médiévale,restaurant,Colmar,"5 Rue de Ribeaupierre, 68125",68125,,48.1252991,7.3660843
+5027986621,node,Restaurant Au Vieux Porche,restaurant,Colmar,"16 Rue des Trois-Châteaux, 68420",68420,https://www.auvieuxporche.fr/,48.0423858,7.3038218
+5037097934,node,Lüser Stub,restaurant,Colmar,,,,48.0731397,7.3576268
+5054370134,node,Restaurant au Chaudron,restaurant,Colmar,,,,48.075507,7.3588233
+5079043210,node,Caveau Heuhaus - Bar Restaurant Winstub,restaurant,Colmar,,,,48.0428149,7.3052242
+5079043211,node,Hôtel Auberge des Trois Châteaux,hotel,Colmar,26 Grand'Rue,,https://www.auberge-3-chateaux.fr/,48.0430651,7.3058103
+5079043212,node,Le Caveau des Douceurs,restaurant,Colmar,6 Rue du Château,,https://caveaudesdouceurs.fr/,48.042459,7.3059243
+5079043213,node,Hostellerie du Château,hotel,Colmar,,,https://eguisheim-hostellerie-du-chateau.fr/,48.0424832,7.3062864
+5079043214,node,La Taverne du Chateau,restaurant,Colmar,,,,48.0428096,7.3066767
+5079043216,node,A. Edel,restaurant,Colmar,,,,48.0427988,7.3062193
+5528490095,node,Au Soleil Levant,restaurant,Colmar,,,,48.0765453,7.3561838
+5615181921,node,Vecchia Romagna,restaurant,Colmar,,,,48.0534466,7.329708
+5627958047,node,Djerba La Douce,restaurant,Colmar,"1A Rue Mangold, 68000, Colmar",68000,,48.0774774,7.3603318
+5807929496,node,Winstub Le Cygne,restaurant,Colmar,,,,48.0800573,7.3506904
+5826327245,node,Le Fer Rouge,restaurant,Colmar,,,https://leferrouge.alsace/,48.075983,7.3586503
+5858707802,node,Pension Le Châlet,restaurant,Colmar,"1 Route du Ried, 68380, Luttenbach-près-Munster",68380,https://le-chalet-luttenbach.com/,48.0316054,7.1189663
+5992726285,node,L'île aux tacos,restaurant,Colmar,,,,48.0849978,7.3570524
+5992901385,node,Le Stam,restaurant,Colmar,"1 Place des Dominicains, 68000",68000,,48.0782473,7.3573186
+6047201514,node,La Maison,hotel,Colmar,"Col de la Schlucht, 68140, Stosswhir",68140,,48.0635346,7.0234716
+6328529504,node,Collis Martis,restaurant,Colmar,,,,48.0979057,7.3554406
+6414636897,node,Version Originale 68,restaurant,Colmar,,,,48.0745326,7.360531
+6422009733,node,Le Bistrot des Copains,restaurant,Colmar,,,,48.0770276,7.357729
+6582196960,node,La Perle des Vosges,restaurant,Colmar,"22 Route du Gaschney, 68380, Muhlbach-sur-Munster",68380,,48.0277686,7.080043
+6582196961,node,La Perle des Vosges,hotel,Colmar,"22 Route du Gaschney, 68380, Muhlbach-sur-Munster",68380,,48.0277354,7.0802447
+6635746277,node,Roma,restaurant,Colmar,,,,48.0864033,7.2752511
+6635805547,node,Little Italy,restaurant,Colmar,,,,48.0864413,7.275433
+6641119694,node,La Pizza du Coin,restaurant,Colmar,"10 Place de la Gare, 68000, Colmar",68000,https://lapizzadenico.com/restaurant/restaurant-italien-colmar-gare/,48.073309,7.3475593
+6665003486,node,Au tonneau d'or,restaurant,Colmar,,,,48.1128881,7.4218219
+6694248645,node,Mamma Giovanna,restaurant,Colmar,,,,48.0772121,7.3566733
+6734234986,node,Chambre du Monde,hotel,Colmar,"10 Place de la Mairie, 68000",68000,,48.0800523,7.3578343
+6735202187,node,Casa Gina,restaurant,Colmar,,,https://www.facebook.com/epiceriecasagina/,48.0727261,7.290452
+6822526351,node,Hôtel Novotel Suites Colmar Centre,hotel,Colmar,,,,48.0715602,7.3604219
+6852401764,node,La Stub,restaurant,Colmar,,,,48.0749397,7.357192
+6935569593,node,Restaurant Winstub la Schlitte,restaurant,Colmar,7,,,48.0394743,7.1398871
+6935967550,node,Winstub S’Stewla,restaurant,Colmar,"3 Rue Alfred Hartmann, 68140",68140,,48.0410923,7.1390501
+7005859285,node,L’atelier De Bene,restaurant,Colmar,,,,48.0417716,7.3065589
+7006667297,node,Le Petit Tanneur,restaurant,Colmar,,,,48.0757111,7.3591382
+7090811085,node,Les délices du Maroc,restaurant,Colmar,5 Place de la Mairie,,https://lesdelicesdumaroccolmar.fr/,48.0796652,7.3575863
+7168267788,node,Jadis et Gourmande,restaurant,Colmar,,,,48.0758516,7.3585275
+7209049771,node,Café Restaurant Schongauer,restaurant,Colmar,"Place d'Unterlinden, Colmar",,https://www.musee-unterlinden.com/visites-et-activites/cafe-restaurant-schongauer/,48.080365,7.3556834
+7230513485,node,Flamm'Anna,restaurant,Colmar,"21 Quai de la Poissonnerie, 68000, Colmar",68000,,48.0745068,7.360453
+7322177517,node,La Table de Catherine,restaurant,Colmar,,,,48.0412012,7.5401076
+7354659983,node,Au rendez-vous de 22h08,restaurant,Colmar,"44 Grand'Rue, 68230, Turckheim",68230,,48.0865803,7.2755755
+7448377350,node,Auberge aux quatre saisons,restaurant,Colmar,40,,https://www.auberge4saisonsmunster.fr/,48.041627,7.1339406
+7448377366,node,La Dolce Vita,restaurant,Colmar,,,http://www.dolcevitamunster.com/,48.0411077,7.1360766
+7448377371,node,La table des Malker,restaurant,Colmar,4 Grand'Rue,,,48.0412377,7.1367264
+7448621513,node,Le Ramloc,restaurant,Colmar,,,,48.0768413,7.3615983
+7448729484,node,L'atelier des Saveurs,restaurant,Colmar,,,,48.0746423,7.3572515
+7781532506,node,,restaurant,Colmar,,,,48.0921938,7.4337794
+7993096321,node,Cuit Lu Cru,restaurant,Colmar,,,,48.0745552,7.3595661
+7993096322,node,Tabula Rasa,restaurant,Colmar,"22 Avenue de la République, 68000, Colmar",68000,,48.077058,7.3526322
+7993116354,node,Hammana Café,restaurant,Colmar,,,,48.0792658,7.3551664
+8034183672,node,La Soï,restaurant,Colmar,,,https://lasoi.fr/,48.0763265,7.358456
+8034224075,node,Chez Hansi,restaurant,Colmar,,,https://www.brasseriechezhansi.fr/,48.0761507,7.3586143
+8035341457,node,Le Palais des Pandas,restaurant,Colmar,"1 Rue du Pourquoi Pas, 68600, Volgelsheim",68600,https://restaurant-le-soleil-du-rhin.business.site/,48.0108813,7.5408068
+8112240148,node,La Romantica,restaurant,Colmar,,,,48.0763713,7.3592736
+8718721286,node,La Casa Pizza,restaurant,Colmar,,,https://la-casa-pizza.edan.io/,48.0183623,7.5277826
+9089424840,node,Adriatico,restaurant,Colmar,,,,48.0797932,7.3628955
+9089424842,node,Pizzeria Da Maurizio,restaurant,Colmar,,,,48.079781,7.3619204
+9089424843,node,Au Petit Vauban,restaurant,Colmar,"15 Rue Vauban, 68000, Colmar",68000,,48.0785239,7.361288
+9124207739,node,Lucca e dintorni,restaurant,Colmar,,,,48.0790221,7.3598616
+9162302020,node,Au Chasseur,restaurant,Colmar,"4 Rue du Chasseur, 68000, Colmar",68000,https://www.restaurant-auchasseur.fr/,48.0771043,7.3613266
+9165752878,node,La Baie d'Halong,restaurant,Colmar,,,,48.0784829,7.3606828
+9311762630,node,Crêp’ôz,restaurant,Colmar,,,,48.0802735,7.3563895
+9311767317,node,La Petite Alsace,restaurant,Colmar,,,,48.0802271,7.3563698
+9507999726,node,Hôtel Roess,hotel,Colmar,"16 Route du Linge, 68140, Hohrod",68140,https://www.hotel-roess.fr/,48.0649245,7.1357506
+9905770039,node,La Planque,restaurant,Colmar,"6 Rue Rapp, 68140, Munster",68140,https://la-planque.jimdosite.com/,48.0406816,7.1323148
+10072740222,node,Hani,restaurant,Colmar,2 Rue Saint-Louis,,https://hani-neufbrisach.fr/hani-restaurant/,48.0167514,7.5286305
+10124204441,node,L'Esprit Libre,restaurant,Colmar,,,,48.0810866,7.3940546
+10197366517,node,Husseren Collections,hotel,Colmar,,,,48.0350168,7.2762147
+10286404309,node,Le palais gourmand,restaurant,Colmar,"14 Grand'Rue, 68000, Colmar",68000,,48.0772285,7.360217
+10554658485,node,Ô tour du Grill,restaurant,Colmar,,,,48.1070555,7.3711923
+10746251963,node,Dagsbourg,restaurant,Colmar,,,https://pizzeria-le-dagsbourg.fr/,48.0436286,7.3066226
+10798809670,node,Brasserie Winstub,restaurant,Colmar,,,,48.077927,7.402913
+11020587111,node,Kanpai Sushi,restaurant,Colmar,,,,48.0180353,7.5295602
+11051119361,node,La trot à fromage,restaurant,Colmar,,,,48.0426805,7.3055366
+11074915105,node,Sushia,restaurant,Colmar,"3 Rue du Mouton, 68000, Colmar",68000,https://sushia.fr/,48.0776986,7.3596679
+11150962770,node,Dussourd,restaurant,Colmar,,,,48.0779657,7.3568655
+11196155652,node,La Place 23,restaurant,Colmar,,,,48.0777231,7.3576783
+11285642813,node,Bö & Zine,restaurant,Colmar,,,,48.080607,7.3638949
+11311230207,node,La Taverne de Schongauer,restaurant,Colmar,,,,48.0795197,7.3620868
+11311290981,node,Savannah Café Restaurant,restaurant,Colmar,"30 Rue Vauban, 68000, Colmar",68000,,48.0789276,7.3617247
+11311294802,node,Suki,restaurant,Colmar,"6 Rue Vauban, 68000, Colmar",68000,,48.0782115,7.3612501
+11328009541,node,,restaurant,Colmar,,,,48.0852848,7.320585
+11405775292,node,Le Florentin,restaurant,Colmar,,,,48.0084523,7.3842093
+11463459869,node,Le Palmyre,restaurant,Colmar,1 Rue du Canard,,,48.0744386,7.3567768
+11472948572,node,Brasserie du Musée,restaurant,Colmar,,,,48.0789786,7.3564917
+11765868103,node,La Villa des Saveurs,restaurant,Colmar,"14 Route de Sainte-Croix en Plaine, 68280",68280,,48.0409842,7.409965
+11795253844,node,A la Schtouwa,restaurant,Colmar,,,,48.1271797,7.3694589
+11865702163,node,La Fusion,restaurant,Colmar,"14 Place d'Armes Général de Gaulle, 68600, Neuf-Brisach",68600,,48.0171254,7.528782
+11901220290,node,Maison Rouge,restaurant,Colmar,,,,48.0748545,7.3588336
+11901220294,node,La Taverne,restaurant,Colmar,,,,48.0751825,7.3582993
+11901871858,node,Au Bureau,restaurant,Colmar,,,,48.0821031,7.3556885
+11958852969,node,Muang Thai,restaurant,Colmar,"21 Rue de la 5e Division Blindée, 68000",68000,,48.0825579,7.3553614
+11976533093,node,La Plage,restaurant,Colmar,"68600, Vogelgrun",68600,https://laplage-iledurhin.fr/,48.0235897,7.5781277
+12002732644,node,Le Saint Cru,restaurant,Colmar,,,,48.0183326,7.3750038
+12075233681,node,Turkuaz,restaurant,Colmar,,,,48.0108261,7.5555081
+12078050431,node,Le théâtre,restaurant,Colmar,,,,48.0795296,7.3542577
+12144197050,node,Brasserie des Tanneurs,restaurant,Colmar,"12 Rue des Tanneurs, 68000, Colmar",68000,https://www.brasserie-des-tanneurs.fr/,48.0752913,7.3593562
+12273279717,node,l'Europeen,restaurant,Colmar,,,,48.0230255,7.5780717
+12492863811,node,Airlunch,restaurant,Colmar,10 Rue Émile Schwoerer,,https://m.facebook.com/100085023201475/,48.1019544,7.367249
+12610472757,node,Sushi Chez Na ＆ Hana Kiri,restaurant,Colmar,39 Cours Sainte-Anne,,https://hanakiri.fr/fr/#home,48.0806695,7.3574116
+12625800585,node,Pizza Dos,restaurant,Colmar,"8 Rue du Mouton, 68000, Colmar",68000,,48.0775991,7.3602335
+12855645501,node,Marché Frais,restaurant,Colmar,106 Route de Bâle,,,48.0655369,7.3617174
+12899644142,node,Pizza Malice,restaurant,Colmar,,,https://www.pizzamalice.fr/,48.0398019,7.1294354
+12901734533,node,Restaurant Aras,restaurant,Colmar,,,,48.0816443,7.3911478
+13015780602,node,Winstub Factory,restaurant,Colmar,42 Grand'Rue,,https://www.winstub-factory.com/,48.076315,7.3592194
+13016852927,node,Les Bateliers,restaurant,Colmar,,,,48.0738057,7.3572289
+13019156802,node,Nagoya,restaurant,Colmar,,,,48.0791656,7.3558189
+13074873850,node,kas'fratz,restaurant,Colmar,"7 Rue du Château, 68420, Eguisheim",68420,,48.0423675,7.3063401
+13088868896,node,Little Italy,restaurant,Colmar,"12 Rue des Prêtres, 68000, Colmar",68000,https://www.litalypizza.fr/,48.0781239,7.3589676
+13247458862,node,La P'tite Etoile,restaurant,Colmar,,,,48.0169147,7.5293821
+13267263890,node,La Pergola,restaurant,Colmar,,,,48.076838,7.3574838
+13268374049,node,La Kilbe,restaurant,Colmar,"37 Route de Neuf-Brisach, 68000, Colmar",68000,https://www.la-kilbe.com,48.0801036,7.3658172
+13282846214,node,Hostellerie du Pape,restaurant,Colmar,,,,48.0422276,7.3095426
+13367927002,node,Le Silex,restaurant,Colmar,,,,48.0823037,7.3520323
+13367943874,node,Winstub Unterlinden,restaurant,Colmar,,,,48.0799772,7.3561341
+13390644187,node,Le Maharaja,restaurant,Colmar,"82 Grand'Rue, 68000, Colmar",68000,,48.0744978,7.3568245
+13444694083,node,Le coin du meunier,restaurant,Colmar,1 place de l'école,,http://www.lecoindumeunier.com/,48.0193914,7.3284543
+13444736335,node,Lyd'île,restaurant,Colmar,1 rue des papeteries,,,48.0841743,7.3505608
+13825102502,node,Aux Armes de Colmar,restaurant,Colmar,"2b Rue Rapp, 68000",68000,,48.0792369,7.3590872
+13891474421,node,Au Koifhus,restaurant,Colmar,,,,48.0759841,7.3596705
+13894162534,node,La petite colmarienne,restaurant,Colmar,"25 Rue Vauban, 68000, Colmar",68000,,48.0788472,7.3614873

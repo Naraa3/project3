@@ -1,0 +1,623 @@
+osm_id,osm_type,name,category,city,address,post code,website,lat,lon
+317901840,node,La Terrasse,restaurant,Béziers,,,,43.3122972,3.3641955
+425698210,node,L'Ellispe,restaurant,Béziers,,,,43.2847806,3.445475
+425698218,node,Au Grau Coquillage,restaurant,Béziers,Place de la République,,,43.2849161,3.4460213
+425698223,node,Bella Vita,restaurant,Béziers,7 bis Quai Commandant Meric,,,43.2839731,3.4448697
+425698270,node,Les Ondines,restaurant,Béziers,"1 Boulevard du Front de Mer, Agde",,,43.2831463,3.4448469
+427696051,node,Le Grand Café,restaurant,Béziers,"1 Avenue de Cassan, Roujan",,,43.5051848,3.3101604
+428589538,node,Hôtel Le Languedoc,hotel,Béziers,,,,43.307909,3.4796271
+429711397,node,La Pergola,restaurant,Béziers,8 Passage des Boutiques,,,43.2846228,3.4449117
+429711398,node,Le Bahia,restaurant,Béziers,1 Quai Commandant Meric,,,43.284462,3.4448373
+429711399,node,Mon P'tit Hôtel,hotel,Béziers,12 Quai Commandant Meric,,https://monptithotel.fr,43.2842344,3.444848
+429711400,node,La Perle Bleue,restaurant,Béziers,,,,43.2836883,3.4448106
+429711773,node,Les Amandiers,hotel,Béziers,,,,43.3112297,3.4820019
+429711774,node,Saigon,restaurant,Béziers,,,,43.3110595,3.4816521
+429711790,node,Giacomo,restaurant,Béziers,5 Rue de l'Hotel du Cheval Blanc,,,43.3139934,3.4686623
+431074753,node,Latitude 43 By Les P’tits Potes,restaurant,Béziers,"1 Place Neuve, Magalas",,,43.4713614,3.2225047
+431074757,node,La Tramontane,restaurant,Béziers,,,,43.4716497,3.2229768
+431216195,node,Auberge du Caroux,restaurant,Béziers,,,,43.5669333,2.9595292
+431418841,node,L'Horizon,restaurant,Béziers,,,,43.2830529,3.4479624
+431419318,node,Hôtel Araur,hotel,Béziers,"1 Avenue de Vias, Agde",,https://www.hotelaraur.com/,43.3142708,3.4672654
+431419322,node,La Chaumière,hotel,Béziers,,,,43.3105137,3.4640422
+431419324,node,Le K' Lamar,restaurant,Béziers,,,,43.286342,3.4432066
+431580144,node,Le Plazza,restaurant,Béziers,,,,43.312639,3.4705755
+432451556,node,Bar Brasserie Le Commerce,restaurant,Béziers,,,,43.3143794,3.4697494
+432451557,node,La Calade,restaurant,Béziers,,,,43.3150979,3.4707357
+461306899,node,Lou Pas d'Oc,restaurant,Béziers,,,,43.2631271,3.3257423
+461306922,node,La Villa,restaurant,Béziers,,,,43.2627055,3.321701
+461791716,node,L'Harmonie,restaurant,Béziers,,,,43.2845904,3.2803275
+471822037,node,Auberge de Combes,restaurant,Béziers,,,,43.6026195,3.0459998
+475881190,node,La Palmeraie,restaurant,Béziers,,,,43.2903678,3.4188891
+493771812,node,La Forge,restaurant,Béziers,22 Avenue Abbe Tarroux,,,43.6177359,3.1557736
+497527728,node,Les Palmiers,restaurant,Béziers,10 bis,,https://lespalmiers.restaurant/,43.4607697,3.423482
+500265421,node,La Rapière,restaurant,Béziers,,,,43.6155501,3.1597629
+608446629,node,Domaine de Saint-Apolis,hotel,Béziers,Saint-Apolis,,,43.414167,3.4371004
+617404213,node,Campanile,hotel,Béziers,,,,43.3341046,3.2763786
+618441172,node,Première classe,hotel,Béziers,1 Rue de l'Acropole,,,43.3337344,3.2756808
+627069352,node,Le Terminus,restaurant,Béziers,,,,43.3516914,2.9539861
+630483382,node,Le Vieux Logis,restaurant,Béziers,,,,43.3137652,3.4189449
+630486994,node,L'Amandine,restaurant,Béziers,,,,43.312517,3.418324
+721432284,node,Auberge au Fil de l'Eau,hotel,Béziers,,,,43.5568461,2.9120139
+766570820,node,Auberge,restaurant,Béziers,,,,43.4852882,2.8978204
+793900476,node,Pizzeria Le Triangle,restaurant,Béziers,,,,43.2336737,3.2597695
+836310509,node,Le Balcon,restaurant,Béziers,,,,43.6008224,2.7041669
+836310631,node,La Petite Table Tranquille,restaurant,Béziers,,,,43.6012185,2.7037812
+862169924,node,Bar & Brasserie Le Figuier,restaurant,Béziers,,,,43.3165091,2.6364252
+881197182,node,Le Petit Nice,restaurant,Béziers,,,,43.5002663,3.0300584
+910829219,node,La Gardianne,restaurant,Béziers,,,,43.2908144,3.3624512
+1314305769,node,Cafe de la Paix,restaurant,Béziers,,,,43.3125201,3.4185004
+1347469571,node,La Taverne,restaurant,Béziers,18 Quai de la Trinquette,,,43.2824001,3.5139998
+1347469577,node,Le Petit Comptoir,restaurant,Béziers,14 Quai de la Trinquette,,,43.2823501,3.5140598
+1347469580,node,News Café,restaurant,Béziers,40 Rue de la Gabelle,,,43.2857896,3.5096903
+1347469602,node,Mer & Sable,restaurant,Béziers,6 Quai de la Trinquette,,,43.2822501,3.5142297
+1347469607,node,La Table de Marthe,restaurant,Béziers,12 Quai de la Trinquette,,,43.2823301,3.5140998
+1360748894,node,Hôtel Le Mirador,hotel,Béziers,"4 Boulevard du Front de Mer, Portiragnes",,,43.2777361,3.3637108
+1399543511,node,,restaurant,Béziers,,,,43.332388,2.7969309
+1413600202,node,Crêperie La Grange,restaurant,Béziers,16 Quai Jean Miquel,,,43.2838701,3.5128702
+1413600205,node,L'Arlequin,restaurant,Béziers,54 Quai Jean Miquel,,,43.284771,3.5114996
+1413600207,node,La Pâte à Crêpe,restaurant,Béziers,1 Place Agde Marine,,,43.2836208,3.51325
+1413600209,node,Miami Prime,restaurant,Béziers,56 Quai Jean Miquel,,,43.2849302,3.5112197
+1413600216,node,Nautilus,restaurant,Béziers,52 Quai Jean Miquel,,,43.28465,3.5116795
+1413600220,node,Quai n°XV,restaurant,Béziers,60 Quai Jean Miquel,,,43.28499,3.5109201
+1474248926,node,Me Gusta Tapas,restaurant,Béziers,60 Avenue Président Wilson,,,43.3353496,3.2261527
+1474248932,node,Memphis,restaurant,Béziers,,,,43.3354901,3.2254569
+1477537490,node,La Dolce Vita - Chez Francesco,restaurant,Béziers,,,,43.488443,2.7603467
+1477537495,node,Le Somail,restaurant,Béziers,,,,43.4887629,2.757347
+1502695544,node,,restaurant,Béziers,,,,43.2326791,3.2619644
+1623634690,node,Brasserie Saint-Roch,restaurant,Béziers,,,,43.2821738,3.2805075
+1623852389,node,Restaurant Touy,restaurant,Béziers,,,,43.6063018,2.7990318
+1654231024,node,restaurant Barba,restaurant,Béziers,,,,43.3565611,3.2399638
+1715157429,node,L'explorateur,restaurant,Béziers,3 Place Jean Jaures,,https://www.explorateur-agde.fr/,43.3143086,3.4693553
+1721611241,node,Les Agapes,restaurant,Béziers,,,,43.3920313,3.101976
+1729681214,node,Sun Beach,restaurant,Béziers,,,,43.2998895,3.5357459
+1739857546,node,Christophe Colomb,restaurant,Béziers,52 Quai de la Trinquette,,,43.2829402,3.5131594
+1739857563,node,L'Ami Louis,restaurant,Béziers,12 Quai Di Dominico,,,43.2847903,3.5093005
+1739857565,node,MacMoules,restaurant,Béziers,44 Quai de la Trinquette,,,43.2828501,3.5133106
+1739857566,node,La Créoline,restaurant,Béziers,42 Quai de la Trinquette,,,43.2827901,3.5134096
+1739857567,node,La Marine,restaurant,Béziers,8-12 Quai du Beaupré,,,43.2831974,3.5131669
+1739857568,node,La Table de K'NA,restaurant,Béziers,13 Rue de la Gabelle,,,43.2845501,3.5094503
+1739857573,node,O Phil d'Elo,restaurant,Béziers,24 Quai Di Dominico,,,43.2845001,3.5094997
+1739857575,node,Les Étolies Basques,restaurant,Béziers,36 Quai de la Trinquette,,,43.28268,3.5135601
+1796467009,node,La Bodega,restaurant,Béziers,,,,43.2955167,3.5253346
+1796467085,node,Ô 2 Frères,restaurant,Béziers,1 Allée de la Flânerie,,,43.2826654,3.51941
+1885836479,node,La Voûte,restaurant,Béziers,,,,43.8034723,3.1114773
+1885836481,node,Le Relais de Ceilhes,hotel,Béziers,,,,43.802769,3.1111942
+1913693233,node,Le Tiki,restaurant,Béziers,,,,43.2669184,3.3360481
+1915818137,node,Le Pacific,restaurant,Béziers,,,,43.2668302,3.3353445
+1915865857,node,Le Cristal,restaurant,Béziers,42 Allée Paul Riquet,,,43.3421077,3.2168196
+1917284209,node,Les Jours Heureux,restaurant,Béziers,"6 Boulevard Jean Moulin, Valras-Plage",,,43.2460495,3.2940646
+1917284216,node,Les III Pachas,restaurant,Béziers,"Allées Charles de Gaulle, Valras-Plage",,,43.2469617,3.2942838
+1961427513,node,Concorde,hotel,Béziers,"7 Rue Solferino, Béziers",,http://www.hotel-concorde-beziers.com,43.3438337,3.2175832
+1961427526,node,Hôtel de France,hotel,Béziers,"36 Rue Boïeldieu, Béziers",,https://www.hotel-2-france.com/,43.3434845,3.2174154
+2091895656,node,Ma Ferme,restaurant,Béziers,,,,43.2665231,3.2871735
+2122991817,node,La Suite,restaurant,Béziers,39 Avenue Émile Claparède,,,43.3441879,3.229248
+2144065978,node,L'Avenue,restaurant,Béziers,21 Avenue Victor Hugo,,,43.3167988,3.4664943
+2147047655,node,La Ribote,restaurant,Béziers,9 Rue de l'Amour,,https://laribote.com/,43.312945,3.4685205
+2170964777,node,Ô Petits Bontemps,restaurant,Béziers,"Avenue Jean Moulin, Béziers",,,43.348244,3.223234
+2173079953,node,Hôtel de Vigniamont,hotel,Béziers,5 Rue Massillon,,,43.4597797,3.4216515
+2188934500,node,La Brasserie d'Abeilhan,restaurant,Béziers,"4 Place General de Gaulle, Abeilhan",,https://www.brasserie-abeilhan.fr,43.4500054,3.2947885
+2226860829,node,Le Conti,restaurant,Béziers,,,,43.4591689,3.42506
+2226860833,node,La Mamita,restaurant,Béziers,,,,43.4606556,3.4234801
+2226878330,node,L'Estacade,restaurant,Béziers,9 Rue de l'Estacade,,,43.2742607,3.5098954
+2226878334,node,Méditerrannée,restaurant,Béziers,,,,43.2744284,3.5096514
+2241304697,node,Delice Corner,restaurant,Béziers,21 Rue de l'Estacade,,,43.2740264,3.5102602
+2260217658,node,Le New Port,restaurant,Béziers,"Port de plaisance, Colombiers",,https://www.facebook.com/newport.colombiers,43.3135437,3.1429189
+2277014039,node,Les Meulières,restaurant,Béziers,"4 Place occitane, La Livinière",,https://lesmeulieres.fr/,43.3171191,2.6358505
+2286973712,node,L'Hacienda,restaurant,Béziers,,,http://www.restaurantlhacienda.fr/,43.3813273,3.4159122
+2362667495,node,Les Fleurs d'Olargues,restaurant,Béziers,Pont du DIable,,http://www.fleurs-de-olargues.com/,43.5565342,2.9107775
+2362675129,node,Hotel Bar Restaurant Laissac-Speiser,restaurant,Béziers,,,,43.5567975,2.9162335
+2386517037,node,All'Italienne,restaurant,Béziers,,,,43.3834896,3.4665481
+2386517047,node,La Noria,restaurant,Béziers,14 Avenue de la Gardie,,,43.3862668,3.4701107
+2386517049,node,La Table de Florensac,restaurant,Béziers,9 Avenue Alexandre Laval,,https://www.latabledeflorensac.fr/,43.3849645,3.4632404
+2399512111,node,,restaurant,Béziers,,,,43.2736454,3.508442
+2402447653,node,Le Floride,restaurant,Béziers,4 Rue de la Toison d'Or,,,43.2755288,3.5088191
+2402447716,node,,restaurant,Béziers,,,,43.2772961,3.5098169
+2402522453,node,La Bonne Mère,restaurant,Béziers,6 Allée des Phocéèns,,,43.2750766,3.5125064
+2404188817,node,,restaurant,Béziers,,,,43.2795134,3.5018983
+2415758320,node,Au rendez-vous des bateliers,restaurant,Béziers,,,,43.2920902,3.3717442
+2417733030,node,Ibis Styles Béziers Centre,hotel,Béziers,"33 Avenue Camille Saint-Saëns, Béziers",,https://all.accor.com/hotel/5639/index.en.shtml,43.3424582,3.2206825
+2454456601,node,La Galiote,hotel,Béziers,,,,43.3142248,3.4692772
+2454456604,node,La Marina,restaurant,Béziers,26 Rue Andre Chassefieres,,https://www.restaurantlamarinaagde.fr/,43.3124064,3.466782
+2454456608,node,La Place,restaurant,Béziers,,,,43.3120273,3.4669599
+2454456611,node,Mare Nostrum,restaurant,Béziers,24 Rue Andre Chassefieres,,https://restaurant-marenostrum.com/,43.3126048,3.4669319
+2456150167,node,,restaurant,Béziers,,,,43.2903588,3.4278444
+2457262891,node,Le Molière,hotel,Béziers,,,,43.460478,3.4255722
+2457262896,node,Le Broc,restaurant,Béziers,Rue Calquieres Basses,,,43.459035,3.4270572
+2457262902,node,Le Jardin,restaurant,Béziers,,,,43.4611531,3.4232671
+2457262906,node,Le Vieux Coq,restaurant,Béziers,,,,43.4611941,3.4230556
+2464336513,node,Le Lodge Crêperie,restaurant,Béziers,,,,43.292275,3.4179098
+2464336552,node,The Brasserie,restaurant,Béziers,"Avenue de la Méditerranée, Vias",,,43.2931185,3.4176976
+2465022319,node,La Vigne Gourmande,restaurant,Béziers,,,,43.3374302,3.2239509
+2468759261,node,L'auberge Provençale,restaurant,Béziers,15 Allées Général Charles de Gaulle,,,43.2469533,3.2936883
+2470012825,node,Le Relais Bleu,hotel,Béziers,,,,43.325696,3.0419295
+2470012867,node,Vinauberge,hotel,Béziers,,,https://www.vinauberge.com/,43.3059469,3.0766854
+2470024242,node,Auberge de la Croisade,restaurant,Béziers,,,https://www.auberge-de-la-croisade.com,43.3145999,2.9566926
+2510595891,node,La Batelière,restaurant,Béziers,"Quai Élie Amouroux, Capestang",,,43.3314381,3.0421219
+2510810320,node,Le Provence,restaurant,Béziers,"Place Jean Jaurès, Capestang",,,43.3277785,3.0442095
+2511801431,node,La Tour Sarrasine,restaurant,Béziers,"27 Boulevard Paul Riquet, Poilhes",,https://tour-sarrasine.cover.page,43.3065523,3.0772233
+2517135915,node,La Cremade - Pizzeria,restaurant,Béziers,,,,43.3175861,3.2814551
+2519093638,node,L'auberge,restaurant,Béziers,,,,43.5859525,2.8776263
+2519093639,node,L'auberge,hotel,Béziers,,,,43.585973,2.8774624
+2590658960,node,Galimar,hotel,Béziers,4 Chemin de Roucarasse,,http://www.galimar.fr/,43.5912882,3.085106
+2590658961,node,Galimar,restaurant,Béziers,17 Boulevard Saint-Michel,,http://www.galimar.fr/,43.591351,3.0851045
+2590882474,node,Belleville,hotel,Béziers,,,,43.5952473,3.0823503
+2590882475,node,Belleville,restaurant,Béziers,,,,43.5953309,3.0823527
+2590882488,node,La Cigale,restaurant,Béziers,,,,43.5966363,3.0802411
+2590882492,node,Les Marronniers,restaurant,Béziers,3 Avenue Capus,,,43.5964078,3.0809305
+2590882495,node,Rev'Hôtel,hotel,Béziers,1 Impasse Alzieu,,,43.5954744,3.0824251
+2590882496,node,Rev'Hôtel,restaurant,Béziers,,,,43.5955109,3.0824251
+2590882517,node,La Terraza,restaurant,Béziers,,,,43.594557,3.0821437
+2590939838,node,Hôtel des Thermes,hotel,Béziers,6 Rue du Docteur Privat,,https://hoteldesthermes-lamalou.fr,43.5943652,3.0806159
+2590939840,node,Hôtel des Thermes,restaurant,Béziers,2 Avenue Georges Clémenceau,,https://hoteldesthermes-lamalou.fr,43.5942533,3.0807597
+2622894313,node,D'Âme Crêpe,restaurant,Béziers,,,,43.3539972,2.7466275
+2622894318,node,La Table des Troubadours,restaurant,Béziers,,,,43.353988,2.7458633
+2622894319,node,La Terrasse,restaurant,Béziers,,,,43.3541427,2.7460776
+2694809195,node,Allo'thentic,restaurant,Béziers,74 Avenue Georges Clémenceau,,,43.3476789,3.2192813
+2699036929,node,La Capitelle,restaurant,Béziers,,,,43.5902288,3.1019303
+2706804063,node,,restaurant,Béziers,,,,43.3917919,3.1031274
+2792745909,node,Le Relais des Oliviers,restaurant,Béziers,,,,43.5401742,3.1830883
+2952313850,node,Freeman Pizza,restaurant,Béziers,"2 Boulevard des Matelots, Agde",,,43.2935724,3.5288329
+2952318793,node,Waiki Beach,restaurant,Béziers,"2 Boulevard des Matelots, Agde",,https://www.waikibeach.com/,43.2938213,3.5260679
+2957527663,node,Le Fitkot,restaurant,Béziers,,,https://www.facebook.com/pages/Le-fritkot/189196381119024,43.2464759,3.2941765
+2978918727,node,L'Aromaé,restaurant,Béziers,,,,43.4232101,3.1627409
+2980869885,node,Chez Clairette,restaurant,Béziers,,,,43.2762778,3.4917754
+2980869888,node,le Thoma's,restaurant,Béziers,1 Rue du Pacifique,,,43.2762124,3.4917239
+2982455281,node,Flunch,restaurant,Béziers,,,,43.3451757,3.2418121
+3023351227,node,Le Delphinium,restaurant,Béziers,13 Avenue des Elysées,,,43.2411683,3.2807109
+3023351228,node,Chez Francky,restaurant,Béziers,13 Avenue des Elysées,,,43.2409778,3.2807588
+3023354134,node,Pizza Casino Beach,restaurant,Béziers,13 Avenue des Elysées,,,43.2408355,3.2808518
+3066706992,node,L'Ortensia,restaurant,Béziers,"2 Rue du Château, Saint-Gervais-sur-Mare",,https://www.restaurant-ortensia.com/,43.6507135,3.0411074
+3069779926,node,La Comédie de Pézenas,hotel,Béziers,"18 Rue Denfert Rochereau, Pézenas",,https://www.la-comedie-de-pezenas.com/,43.4583919,3.4232535
+3069784477,node,Côté Mas,restaurant,Béziers,"Route de Villeveyrac, Montagnac",,https://www.cote-mas.fr/,43.4891034,3.5175531
+3102808348,node,BierKulture,restaurant,Béziers,,,,43.4807549,3.4829474
+3102808349,node,L'esplanade,restaurant,Béziers,25 Avenue du 11 Novembre,,,43.4799259,3.4826499
+3183714647,node,La Grillade,hotel,Béziers,,,,43.3062053,3.1648873
+3183714648,node,La Grillade,restaurant,Béziers,,,,43.3062869,3.164773
+3206190558,node,Pizzeria Cecilia,restaurant,Béziers,"580 Chemin de Quarante, maureilhan",,,43.3529708,3.1223033
+3224059766,node,L'Escampette,restaurant,Béziers,12 Place Lieutenant Paul Gauffre,,,43.5342792,3.3310879
+3224059767,node,Le Very'Table,restaurant,Béziers,6 Rue de Saint-Alban,,,43.5338791,3.3322714
+3254573161,node,Äponem - Auberge du Presbytère,restaurant,Béziers,1 Rue de l'Église,,https://www.aponem-aubergedupresbytere.fr/,43.5544858,3.2985132
+3258719361,node,L'Escale,restaurant,Béziers,,,,43.5123169,3.2728776
+3269734435,node,,restaurant,Béziers,,,,43.3438524,3.258084
+3269734486,node,La Coupole,restaurant,Béziers,23 Rue du Commandant Kieffer,,,43.3416816,3.2619649
+3437669316,node,Auberge Minervoise,restaurant,Béziers,,,,43.3379052,2.8188611
+3437746147,node,Auberge des Amis,restaurant,Béziers,,,,43.3379387,2.8171853
+3481175093,node,B&B Hôtel,hotel,Béziers,"Parc actipolis, Villeneuve-lès-Béziers",,https://www.hotel-bb.com/fr/-/hotelByName.htm?id=4423,43.3337581,3.2751542
+3498239987,node,Château de Lunas,restaurant,Béziers,"Promenade des Platanettes, Lunas-les-Châteaux",,http://chateaudelunas.fr/,43.7071814,3.1945859
+3498239992,node,Le Bouchon d'Orb,restaurant,Béziers,,,,43.7088639,3.1947371
+3560640523,node,Le Mistral,restaurant,Béziers,,,,43.2818995,3.2802941
+3564081575,node,Brasserie FOP's,restaurant,Béziers,,,,43.2818053,3.280757
+3646928936,node,La TB,restaurant,Béziers,77 Allée de la Flânerie,,,43.2839521,3.5168948
+3665226673,node,La Caravelle,restaurant,Béziers,,,,43.2770779,3.495661
+3665226674,node,Les copains d'abord,restaurant,Béziers,,,,43.2776989,3.4952815
+3666398385,node,Pizza Pino,restaurant,Béziers,,,,43.2776475,3.4953482
+3666405926,node,Les Jardins de l'Alhambra,restaurant,Béziers,,,,43.2811272,3.4987171
+3666418778,node,Chez Gégé,restaurant,Béziers,,,,43.2853388,3.5112296
+3666418779,node,La Casa Nostra,restaurant,Béziers,67 Avenue des Sergents,,,43.2854677,3.5112832
+3666418780,node,Le Monde des Grillades,restaurant,Béziers,14 Place Terrisse,,,43.2856097,3.5112625
+3666418783,node,La Pixturi,restaurant,Béziers,10 Place Terrisse,,,43.2857146,3.5111532
+3666418784,node,Au Blé Noir,restaurant,Béziers,67 Avenue des Sergents,,,43.2853779,3.5112618
+3672241711,node,Le Quai d'Eux,restaurant,Béziers,78 Mail de Rochelongue,,,43.2764324,3.4838035
+3672259466,node,cece Pizza,restaurant,Béziers,,,,43.2760252,3.4856261
+3672259467,node,Les Trésors de la mer,restaurant,Béziers,8 Rue Raffanel,,,43.2760643,3.4856583
+3746332448,node,Auberge des Consuls,restaurant,Béziers,,,,43.6006479,2.7027975
+3746332450,node,La Commanderie,restaurant,Béziers,,,,43.6010174,2.7036032
+4014635140,node,Hôtel In Situ,hotel,Béziers,"Avenue du 22 Août 1944, Béziers",,,43.3435997,3.222749
+4023734600,node,Pizzeria Le Cardinal,restaurant,Béziers,10 Avenue du Pont Vieux,,,43.338409,3.2050328
+4023751239,node,Le Balthus,restaurant,Béziers,"Rue Guibal, Béziers",,,43.3437902,3.215279
+4032631889,node,P'tit Dej Hôtel Beziers,hotel,Béziers,,,https://www.ptitdejhotel-beziers-est.com/,43.3294815,3.2879002
+4080594248,node,,restaurant,Béziers,,,,43.2361784,3.2595078
+4083318993,node,Les Enfants Terribles,restaurant,Béziers,"28 Boulevard de la République, Villeneuve-lès-Béziers",,https://restaurant-hotel-lesenfantsterribles34.fr/,43.3157246,3.2808199
+4089823504,node,Ristorante Del Arte,restaurant,Béziers,"51 Avenue de la Voie Domitienne, Béziers",,https://www.delarte.fr/restaurants/1284-beziers,43.3479072,3.2519773
+4296933751,node,,restaurant,Béziers,,,,43.2763641,3.4920987
+4298821834,node,,restaurant,Béziers,,,,43.3892637,3.4633726
+4301240139,node,Vivaldi,restaurant,Béziers,,,,43.2754699,3.4849134
+4301251234,node,Les Roches Marines,restaurant,Béziers,1 Mail de Rochelongue,,,43.2752805,3.4851733
+4301251237,node,L'Oasis,restaurant,Béziers,,,,43.2755715,3.4854737
+4301251241,node,Pizz'Avenue,restaurant,Béziers,,,,43.2757336,3.4852698
+4301258479,node,La perle de la mer,restaurant,Béziers,5 Rue Noel Blascher,,,43.2760255,3.4865842
+4301258481,node,Pizzeria de Leonelli,restaurant,Béziers,Rue Raffanel,,,43.2762111,3.4866351
+4301263481,node,La moule en Fête,restaurant,Béziers,,,,43.2766085,3.4840309
+4301782998,node,Le Corail,restaurant,Béziers,,,,43.2758772,3.4851331
+4301787639,node,Le Palmier d'Or,restaurant,Béziers,,,,43.275967,3.484963
+4303261765,node,Pizzeria di Leonelli,restaurant,Béziers,,,,43.276226,3.4860489
+4307388039,node,La Cabane du Pêcheur,restaurant,Béziers,1 Rue de la Capitainerie,,,43.2742626,3.5091799
+4307398759,node,Le Solo,restaurant,Béziers,,,,43.2797185,3.5166429
+4307823931,node,Au Bonheur du Goût,restaurant,Béziers,,,,43.2741824,3.5100387
+4307823932,node,Au Soleil,restaurant,Béziers,,,,43.274116,3.5101406
+4307827467,node,Le Nautic,restaurant,Béziers,,,,43.2743659,3.5097302
+4307827469,node,Da Peppino,restaurant,Béziers,9 Rue de l'Estacade,,,43.2741412,3.5100977
+4308786090,node,La Villa Guy & Spa,hotel,Béziers,"2 Rue verdi, Béziers",,https://lavillaguy.com/,43.3429084,3.2250865
+4312457017,node,La Galinière,restaurant,Béziers,,,,43.3263025,3.044771
+4329040890,node,La Marmite du Pecheur,restaurant,Béziers,3 Boulevard Jean Dauga,,https://www.la-marmite-du-pecheur.com/,43.2482836,3.2952522
+4329050689,node,La Madrague,restaurant,Béziers,27 Boulevard Jean Dauga,,,43.2497645,3.2959727
+4329131970,node,L'Infini,restaurant,Béziers,,,,43.2747051,3.4867761
+4335113293,node,Mary’s,restaurant,Béziers,,,,43.2939932,3.525797
+4335113294,node,Les Jardins du 16,restaurant,Béziers,,,,43.2956222,3.5288328
+4335130191,node,Le Bangkok,restaurant,Béziers,3 Avenue des Matelots,,,43.2955506,3.5287994
+4335183489,node,Istar,restaurant,Béziers,,,,43.2940772,3.5261509
+4335183689,node,L’air marin,restaurant,Béziers,,,,43.2955068,3.5286179
+4335189589,node,Le Boudoir,restaurant,Béziers,Avenue de la Joliette,,,43.2953461,3.5248497
+4335376896,node,Le Baskin,restaurant,Béziers,,,,43.2935614,3.5289903
+4336608793,node,Cow Girl,restaurant,Béziers,,,,43.2942877,3.5257278
+4357959497,node,,hotel,Béziers,7 Rue Jean-Paul Poumayrac,,,43.2756026,3.4822511
+4377110682,node,L'Ocre Rouge,restaurant,Béziers,"12 Place de la Croix, Hérépian",,http://www.locrerouge.fr,43.5926048,3.1165501
+4459073591,node,La Cave,restaurant,Béziers,Place de l'Ormeau,,,43.3535723,2.7770411
+4470121760,node,Petit Pierre,restaurant,Béziers,"22 Avenue Pierre Verdier, Béziers",,,43.344297,3.2308641
+4470126604,node,Buffet La Fraicheur,restaurant,Béziers,"Avenue Pierre Verdier, Béziers",,,43.3450185,3.2370943
+4498735332,node,Chez Paul,restaurant,Béziers,,,,43.4618061,3.423385
+4498735334,node,Le Galiese,restaurant,Béziers,,,,43.4615581,3.4231823
+4620680575,node,Aux 2 Rivières,restaurant,Béziers,"5 Rue du Caire, Minerve",,,43.353414,2.7473117
+4623160709,node,La Montagne,restaurant,Béziers,,,,43.3139689,3.1400513
+4695459711,node,La Lapinière,restaurant,Béziers,,,,43.3124429,3.1731652
+4695675201,node,Resto des potos,restaurant,Béziers,6 Rue de l'Artisanat,,,43.3064794,3.1676875
+4695675243,node,Brasserie Canté Café,restaurant,Béziers,,,,43.310334,3.1698943
+4720673530,node,A boire et à manger,restaurant,Béziers,,,,43.4300347,3.1875397
+4721045723,node,La Cuisine de Bassac,restaurant,Béziers,,,,43.4404968,3.2072761
+4722241427,node,Palais de Shayan,restaurant,Béziers,,,,43.3431931,3.2130378
+4722241428,node,Le Patio,restaurant,Béziers,,,https://restaurant-patio.fr,43.3438968,3.2132665
+4722241430,node,L'Alchimie,restaurant,Béziers,"2 Place de la Madeleine, Béziers",,,43.344651,3.2126084
+4722241431,node,Les Caves de la Madeleine,restaurant,Béziers,2 Place de la Madeleine,,,43.3445948,3.2125648
+4722241432,node,Au Soleil,restaurant,Béziers,,,,43.3447114,3.2126673
+4722241445,node,Le Taj Mahal,restaurant,Béziers,,,,43.347837,3.2165145
+4722289296,node,Les Bons Amis,restaurant,Béziers,16 Rue Docteur Vernhes,,,43.3418115,3.2112953
+4722289303,node,Pizzeria Aux Trois Arches,restaurant,Béziers,,,,43.3420372,3.2114699
+4722289304,node,Le XVIII,restaurant,Béziers,,,,43.3420733,3.211596
+4722289305,node,Le Petit Marais,restaurant,Béziers,,,,43.3421191,3.2117516
+4722289307,node,Le Vieux Siège,restaurant,Béziers,6 Place des Trois Six,,https://www.facebook.com/levieuxsiege/,43.3421013,3.2125284
+4722289308,node,le bistrot de l'hotel de ville beziers,restaurant,Béziers,"8 place des trois six, beziers",,,43.3420467,3.2125753
+4722289309,node,Le Trois Six,restaurant,Béziers,"10 Place des Trois Six, Béziers",,https://www.facebook.com/Le-Trois-Six-580760852105305/,43.3420048,3.2126115
+4722289310,node,Le Forum,restaurant,Béziers,,,,43.3419604,3.2126504
+4722289324,node,Le Millefeuille,restaurant,Béziers,,,,43.3419076,3.2129989
+4722363892,node,Les Louis,restaurant,Béziers,,,,43.3418204,3.2102731
+4725696435,node,Pizzacozy,restaurant,Béziers,,,,43.3451298,3.2153998
+4725696722,node,Los amigos,restaurant,Béziers,16 Avenue Maréchal Joffre,,,43.3403847,3.2174762
+4726429757,node,Pizza Hut,restaurant,Béziers,,,,43.3593624,3.3458894
+4795716022,node,Le Bistronome,restaurant,Béziers,Rue Charles Barthès,,https://www.lebistronome34.com/,43.4884733,2.7587503
+4832325089,node,Burger & Bianca,restaurant,Béziers,42 Rue Paul Riquet,,,43.3444404,3.2131452
+4833518680,node,Hôtel le XIX,hotel,Béziers,"19 Place Jean Jaurès, Béziers",,http://www.hoteldixneuf.com,43.3411987,3.2153146
+4859884231,node,Le Bistrot de la Vière,restaurant,Béziers,,,,43.3817021,3.4010343
+4860721395,node,L'Écluse,restaurant,Béziers,"16 Avenue Pierre Bérégovoy, Villeneuve-lès-Béziers",,https://www.restaurant-ecluse-beziers.fr/,43.3230118,3.2644544
+4868217868,node,Ibis,hotel,Béziers,,,,43.3348514,3.2781533
+4868222504,node,Ibis Budget,hotel,Béziers,,,,43.3354087,3.278149
+4883817473,node,Pizza di Mario,restaurant,Béziers,,,,43.4605827,3.4234367
+4893834121,node,Hana sushi,restaurant,Béziers,2 Rue Aristide Rouzière,,,43.4607606,3.4241062
+4922465451,node,Auberge La Resse,hotel,Béziers,,,,43.5976379,2.6938485
+4970923624,node,King Pizza,restaurant,Béziers,,,,43.2817668,3.4975476
+4973931421,node,La Plage,restaurant,Béziers,2 Passage du Soleil Levant,,,43.2827704,3.5204009
+4978088227,node,Aquabouff,restaurant,Béziers,,,,43.2808065,3.494796
+4978088228,node,La Parenthèse,restaurant,Béziers,,,,43.285492,3.5091309
+5002047226,node,Donna Louisa - Pizzeria Artisanale Grill au Feu de Bois,restaurant,Béziers,2 bis Rue de l'Occitanie,,,43.3239534,3.3055072
+5031624821,node,La Paillotte,restaurant,Béziers,,,,43.2780561,3.3573871
+5031624921,node,Marie Jack,restaurant,Béziers,"Place du Bicentenaire, Portiragnes",,https://www.facebook.com/Restaurant-Marie-Jack-229684950404840/,43.2781465,3.3574704
+5036205924,node,L'Imprévu,restaurant,Béziers,"Place du Bicentenaire, Portiragnes",,https://www.facebook.com/limprevuportiragnes/menu/?locale=fr_FR,43.2783138,3.3575725
+5040765344,node,IL Catanese,restaurant,Béziers,7 Boulevard du Onze Novembre,,https://m.facebook.com/IL-Catanese-Italiensicilienpizzeriaouvert-a-lann%C3%A9e-150160456306/,43.2438045,3.2879095
+5058817869,node,Aux Petits Oignons,restaurant,Béziers,,,,43.2850857,2.7283256
+5059795785,node,Restaurant Bel / Parc Hotel,restaurant,Béziers,,,,43.2824637,2.7307643
+5059848017,node,Restaurant L'Écluse,restaurant,Béziers,"2 Écluse d'Ognon, Olonzac",,,43.2694309,2.7386715
+5060456356,node,Restaurant 33,restaurant,Béziers,,,,43.2903416,3.1270288
+5060468953,node,Restaurant Bar Acropole,restaurant,Béziers,,,,43.2897449,3.1284062
+5141345785,node,Le Restaurant des 9 Écluses,restaurant,Béziers,,,,43.3302283,3.1981293
+5148479108,node,La Baraka,restaurant,Béziers,34 Avenue Camille Saint Saëns,,,43.3422373,3.2205686
+5193687924,node,O grain de Sel,restaurant,Béziers,,,,43.2848085,3.4449124
+5193687925,node,Le Ponton,restaurant,Béziers,19 Quai Commandant Meric,,,43.2847328,3.444909
+5313907522,node,La cantine,restaurant,Béziers,,,,43.285502,3.510656
+5313907823,node,Le Thai,restaurant,Béziers,,,,43.285734,3.511014
+5387958021,node,Le Jardin d’Eden,hotel,Béziers,Boulevard des Matelots,,,43.2951328,3.5298674
+5473241239,node,Le Voilis,hotel,Béziers,,,http://www.voilis.com/,43.2831604,3.4489107
+5557505922,node,La Jetée,restaurant,Béziers,,,,43.2839926,3.5077576
+5559829664,node,Lou Recantou,restaurant,Béziers,Rue de la Tramontane,,,43.2766271,3.3578945
+5559840681,node,L‘Amirada,restaurant,Béziers,Avenue de la Méditerranée,,https://www.lamirada.fr/,43.3214815,3.2888566
+5602381221,node,L'Ardoise,restaurant,Béziers,3 Rue Lambert Maurel,,https://lardoisedumarche.com/,43.2839219,3.4496075
+5610121974,node,La Lampisterie,restaurant,Béziers,Piste Verte,,,43.5564934,2.9167676
+5613328717,node,China Town,restaurant,Béziers,,,,43.3422664,3.2198857
+5613328932,node,L'hôtel particulier,hotel,Béziers,,,,43.343721,3.2224187
+5613328936,node,La Charnière,restaurant,Béziers,,,,43.3415746,3.2152326
+5613328946,node,Renato,restaurant,Béziers,,,,43.3436287,3.2173296
+5613328953,node,Hôtel Paul Riquet,hotel,Béziers,1 Rue Victor Hugo,,,43.3412989,3.2182293
+5613328954,node,Octopus,restaurant,Béziers,,,https://restaurant-octopus.com,43.3426491,3.2175624
+5613328955,node,Endroit,restaurant,Béziers,33 Avenue Emile Claparède,,,43.3441368,3.228646
+5613328962,node,Osakaya,restaurant,Béziers,,,,43.341883,3.2190893
+5613328973,node,Basilic & Co,restaurant,Béziers,,,,43.3414195,3.2181571
+5613328989,node,Hôtel California,hotel,Béziers,5 Boulevard Jean Jaurès,,,43.3406742,3.2169397
+5613328995,node,Le Victor,restaurant,Béziers,,,,43.3420165,3.2165712
+5613328997,node,Le grill des Arènes,restaurant,Béziers,,,,43.344213,3.2292162
+5613328999,node,Indochine,restaurant,Béziers,,,,43.3420121,3.2197061
+5613329000,node,Le Conti,restaurant,Béziers,,,,43.3422329,3.2176614
+5613329009,node,Karam pizzeria,restaurant,Béziers,,,,43.3425013,3.2217066
+5613329010,node,Au pif rouge,restaurant,Béziers,,,,43.3420549,3.2137658
+5613329013,node,Eben Ezer,restaurant,Béziers,,,,43.3437694,3.2179687
+5613329016,node,Au pays des magrets,restaurant,Béziers,,,,43.3433444,3.2237512
+5613329020,node,Le pouss pouss,restaurant,Béziers,,,,43.34388,3.2277112
+5666725916,node,Patio d‘Oc,restaurant,Béziers,,,,43.2814899,3.2805624
+5667877192,node,La Table de Rive gauche,restaurant,Béziers,,,,43.2813528,3.2918027
+5667877193,node,lou serinhanot,restaurant,Béziers,10 Place de la Libération,,,43.2823933,3.2801441
+5667877194,node,Cantinho Brasileiro,restaurant,Béziers,,,,43.2825884,3.2800961
+5670550824,node,Le Méditerranée,restaurant,Béziers,,,,43.2830987,3.4534452
+5670559022,node,Thaï Phitsanulok,restaurant,Béziers,6 Avenue de Saint Vincent,,,43.2831405,3.4537784
+5682995821,node,L'Ambassade,restaurant,Béziers,,,,43.3367535,3.2197731
+5683038221,node,Dolce Vita,restaurant,Béziers,,,,43.3367203,3.2199543
+5683107323,node,Le Shangai,restaurant,Béziers,,,,43.3221236,3.2871784
+5686010069,node,Le Lapin de Baluffe,restaurant,Béziers,,,,43.2910129,3.4639507
+5688729337,node,L'Arrivage,restaurant,Béziers,,,,43.2856728,3.5108688
+5688729338,node,Sea Side,restaurant,Béziers,,,,43.2855485,3.510758
+5700035052,node,Tête d'anchois,restaurant,Béziers,"19 Rue de la Foire, Caux",,https://tetedanchois.fr/,43.507129,3.3678198
+5720418857,node,La Gam'L,restaurant,Béziers,,,,43.284523,3.4533224
+5795915802,node,Le Mathi's,restaurant,Béziers,22 Allées Paul Riquet,,,43.3434518,3.2159777
+5803541113,node,L'Especiaria,restaurant,Béziers,,,,43.2898521,2.7661189
+5808889453,node,La Belle Époque,restaurant,Béziers,,,,43.460568,3.4225084
+5812892363,node,La guinguette,restaurant,Béziers,1 Avenue Carrion de Nizas,,,43.4643536,3.4234535
+5844761448,node,Les Pieds dans le Plat,restaurant,Béziers,,,,43.459292,3.4227584
+5923934187,node,L'Assiette d'Anatole,restaurant,Béziers,,,,43.45923,3.4227342
+5923978686,node,Chez Hansi,restaurant,Béziers,,,,43.4595436,3.4226524
+6149273415,node,Lou Pradal,hotel,Béziers,,,,43.5507508,2.6891867
+6153726938,node,Relais Chantovent,restaurant,Béziers,17 Grand Rue,,,43.3541753,2.7469525
+6155902289,node,Le Poisson Verre,restaurant,Béziers,5 Rue de la Foire,,,43.460034,3.4232547
+6155982985,node,Piaaz L'Entracte,restaurant,Béziers,,,,43.4592081,3.4247741
+6155982987,node,La Ripaille,restaurant,Béziers,2 Rue de la Foire,,,43.4601315,3.4232755
+6315882386,node,Brasserie Pizzeria,restaurant,Béziers,,,,43.3036539,3.4844955
+6512140876,node,Chez Mamitta,restaurant,Béziers,8 Boulevard du Front de Mer,,,43.283114,3.4460613
+6539435730,node,Café-Brasserie du Midi,restaurant,Béziers,,,,43.4605957,3.425025
+6548112408,node,Brasserie le Concept,restaurant,Béziers,,,,43.3137828,3.4683276
+6550037555,node,La plage,restaurant,Béziers,,,,43.2830681,3.4486238
+6550037556,node,Velicio,restaurant,Béziers,27 Boulevard du Front de Mer,,,43.2830579,3.4487551
+6720807178,node,Le 120,restaurant,Béziers,10 Rue Conti,,,43.459512,3.4242306
+6724795496,node,Chez Ricardo,restaurant,Béziers,5 Chemin du Front de Mer,,,43.2813429,3.5200234
+6887277080,node,Le Pitchoun,restaurant,Béziers,3 Place Saint-Clair,,,43.2848323,3.5121661
+7295278093,node,La Rouquette,restaurant,Béziers,,,,43.3668992,3.0502322
+7308994478,node,La Boufanelle,restaurant,Béziers,,,,43.3650809,3.2477608
+7501712233,node,Auberge de l'Espinouse,hotel,Béziers,,,https://aubergeespinouse.fr/,43.6064129,2.7976293
+7523253431,node,Château St Pierre de Serjac,hotel,Béziers,,,,43.4705473,3.2506181
+7618449488,node,Chez Graziella,restaurant,Béziers,2 Place de la Republique,,,43.2847207,3.4454761
+7633225536,node,Le Hype,restaurant,Béziers,,,,43.2833639,3.444771
+7682721654,node,Ché Olive,restaurant,Béziers,,,,43.3721761,3.0102168
+7692473906,node,l'Orangerie,restaurant,Béziers,,,,43.3435033,3.2152831
+7699856957,node,Chez Olivia,restaurant,Béziers,,,,43.7054669,3.1872198
+7705357114,node,Auberge Gourmande,restaurant,Béziers,Lunas-les-Châteaux,,,43.7075155,3.1934633
+7831651053,node,Le Pourquoi Pas,restaurant,Béziers,,,https://lepourquoipas.eu,43.3252603,2.9945791
+7895088587,node,Café de la Paix,restaurant,Béziers,,,,43.422082,2.9466781
+7906132471,node,Maison Carne,restaurant,Béziers,"Place Jean Jaurès, Béziers",,,43.3419252,3.2161884
+8017165992,node,La Bohemia,restaurant,Béziers,,,,43.293445,3.5291853
+8123686519,node,Les chalets de la plage,hotel,Béziers,,,,43.2784839,3.363301
+8254947402,node,La Tour,restaurant,Béziers,4 Rue Marcelle Huc et Resistants,,,43.3297148,3.1204666
+8382460159,node,Chez l'Éclusier,restaurant,Béziers,"Port de plaisance, Colombiers",,https://restaurantchezleclusier.eatbu.com,43.3136929,3.1423097
+8382460165,node,Le Camion Marius,restaurant,Béziers,"15 Rue du Pin, Montady",,https://www.facebook.com/lecamionMarius/,43.3335354,3.1283179
+8483411841,node,Guinguette de la Laiterie,restaurant,Béziers,,,https://la-guinguette-de-la-laiterie.business.site/,43.344597,3.2072644
+8542090497,node,Le Yucca,restaurant,Béziers,Chemin du Verdale,,,43.5981004,3.0827479
+8542660675,node,L'Orangeraie,restaurant,Béziers,,,,43.3852186,3.1654492
+8548763311,node,Chai Christine Cannac,restaurant,Béziers,3 Square Robert Schuman,,,43.6154312,3.1596649
+8662731899,node,Ô K’mil Délices,restaurant,Béziers,"31 Avenue Charles de Gaulle, Montady",,https://okmildelices.com,43.3375193,3.1360706
+8664493668,node,Bar Restaurant des Amis Tito,restaurant,Béziers,"5 Place de la République, Puisserguier",,,43.3681639,3.0410414
+8724558328,node,Le Saint-Martin,restaurant,Béziers,"1 Rue des Chandelles, Agde",,,43.2842708,3.5077077
+8749809822,node,Mon restaurant d’été,restaurant,Béziers,,,,43.2709446,3.3297932
+8816585202,node,Le Thai de Castigno,restaurant,Béziers,,,,43.3972168,2.8887661
+8824350325,node,Damejane,restaurant,Béziers,880 Route de Pézenas,,,43.5645235,3.1894521
+8833129291,node,Château de Siran,hotel,Béziers,,,https://www.chateau-de-siran.com/fr/,43.3128056,2.6620737
+8864977748,node,La Mécanique des Frères Bonano,restaurant,Béziers,,,,43.5784057,3.0231906
+8865081743,node,Lo T’chapaïre,restaurant,Béziers,,,,43.5658009,2.9578608
+8865081755,node,La Rodge,restaurant,Béziers,,,,43.5665038,2.9611921
+8910602259,node,Au P‘tit Gaulois,restaurant,Béziers,,,,43.2391439,3.2779392
+8910613540,node,Sasu Bella Sicilia,restaurant,Béziers,15 Avenue des Elysées,,,43.2392548,3.2781484
+8929318890,node,Nudisme Interdit,restaurant,Béziers,,,,43.2753948,3.4954437
+8929320169,node,Jungle Beach,restaurant,Béziers,2 Impasse des Sargasses,,,43.2752501,3.4988784
+8929337915,node,Bianca Beach,restaurant,Béziers,,,,43.2754967,3.4968258
+8929337916,node,Plage du Golf,restaurant,Béziers,,,,43.2749651,3.5007245
+8941940443,node,Le bivouac qui fume,restaurant,Béziers,,,,43.4530232,3.4213636
+8969188734,node,La Barraquita,restaurant,Béziers,,,,43.5646494,2.9749211
+9008388907,node,El Chupito,restaurant,Béziers,,,,43.266272,3.3325768
+9008554413,node,Ô Délices des Campeurs...,restaurant,Béziers,,,,43.2685086,3.3328187
+9009615560,node,Restaurant Le Saint-Pierre,restaurant,Béziers,,,,43.2930236,3.4170317
+9031393137,node,L'Esclop,restaurant,Béziers,,,,43.523675,2.8280979
+9037268368,node,L'Artichaud,restaurant,Béziers,1 Avenue de l'Espinouse,,,43.5934396,3.1141291
+9037268372,node,,restaurant,Béziers,,,,43.5928933,3.1150961
+9069595782,node,Guinguette du mil'yeux,restaurant,Béziers,,,,43.5688792,2.9823164
+9070568407,node,L'atelier 7,restaurant,Béziers,7 Avenue du Martinet,,,43.5810385,3.0127546
+9100740879,node,Restaurant de l'Orb,restaurant,Béziers,1 Rue du Pied de Poule,,,43.4496375,3.0482977
+9138622924,node,,restaurant,Béziers,,,,43.2887501,3.1280947
+9215953110,node,La Guinguette,restaurant,Béziers,,,,43.2193269,3.2329277
+9269544465,node,Lady Sushi,restaurant,Béziers,"3 Rue des Garrigues, Agde",,https://lady-sushi.fr,43.3071322,3.490284
+9387925309,node,Restaurant Le Saint-Germain,restaurant,Béziers,,,,43.4586451,3.4150931
+9387925310,node,Hôtel Le Saint-Germain,hotel,Béziers,,,https://www.hotel-saint-germain-pezenas.com/,43.458761,3.4150556
+9403147281,node,Le chantier,restaurant,Béziers,,,,43.6121611,3.1706136
+9562566111,node,L'Avenette Gourmande,restaurant,Béziers,,,,43.7574284,3.1011128
+9581811462,node,Le Seven,restaurant,Béziers,2 Rue des Vaisseaux,,,43.2834314,3.5198535
+9621476022,node,Le Somail,hotel,Béziers,,,,43.4887606,2.7572599
+9678054646,node,Le Grand Bleu,restaurant,Béziers,2 Passage du Soleil Levant,,,43.2830839,3.5199648
+9679719125,node,Côté Sud,restaurant,Béziers,,,,43.3439044,3.2115258
+9692065434,node,L'Escale,restaurant,Béziers,,,,43.3375931,3.2182076
+9692065435,node,Le Revelois,hotel,Béziers,,,https://le-revelois-hotel-beziers.hotelmix.fr,43.3376067,3.2181948
+9692074257,node,Hôtel Alma Unic,hotel,Béziers,41 Rue Guilhemon,,,43.3427313,3.2192275
+9692119287,node,Hôtel Confort,hotel,Béziers,3 Rue Etienne Marcel,,,43.3410167,3.2186133
+9692119288,node,Hôtel Champ de Mars,hotel,Béziers,,,,43.3474781,3.2199517
+9692162633,node,Hôtel Terminus,hotel,Béziers,,,,43.3370059,3.2187011
+9692162634,node,Hôtel Imperator,hotel,Béziers,,,,43.3429069,3.2163066
+9692162635,node,Hôtel des Poètes,hotel,Béziers,,,https://www.beziers-mediterranee.com/hotel/hotel-des-poetes/,43.3393127,3.2186763
+9692162636,node,Hôtel d'Angleterre,hotel,Béziers,,,,43.3415424,3.2152095
+9709100896,node,O'Bella Ciao,restaurant,Béziers,"Avenue de la Tramontane, Portiragnes",,,43.2768178,3.357631
+9760337598,node,Le Vauban,restaurant,Béziers,15 Rue du Chateau,,https://levauban-capestang.fr/,43.3283876,3.0458984
+9782370821,node,Aux Caz'elles,restaurant,Béziers,5 Place de la Fontaine,,,43.5058751,3.457354
+9862685217,node,Au vieux Puits,restaurant,Béziers,,,,43.3038483,3.3359197
+9866159118,node,La Gibrine,restaurant,Béziers,,,,43.2783635,3.357683
+9868667017,node,Les Voiles,restaurant,Béziers,,,,43.2731218,3.3520276
+9871117756,node,Brasserie du Port,restaurant,Béziers,,,,43.248484,3.2953425
+9871671105,node,Bamboo Beach,restaurant,Béziers,,,,43.2787021,3.3640172
+9871671108,node,La Voile Blanche,restaurant,Béziers,,,,43.2781602,3.3642559
+9871671114,node,La 7ème Vague,restaurant,Béziers,,,,43.277797,3.3639836
+9871671115,node,Saveurs du Sud,restaurant,Béziers,4 Boulevard du Front de Mer,,,43.2776701,3.3637194
+9871818617,node,Le Buddha,restaurant,Béziers,,,,43.2765879,3.3581893
+9871818718,node,L'Effet Mer,restaurant,Béziers,,,,43.276841,3.3581936
+9871943419,node,Le KF,restaurant,Béziers,4 Boulevard du Front de Mer,,,43.2777462,3.3638877
+9871944819,node,Le Provençal,restaurant,Béziers,,,,43.2778665,3.3614757
+9874043118,node,Les Dunes,restaurant,Béziers,,,,43.2856035,3.4431515
+9874054417,node,L'Ancre Marine,restaurant,Béziers,,,,43.285835,3.443137
+9874054517,node,Coté Soleil,restaurant,Béziers,7 Rue Vincent Brignole,,,43.285626,3.4427825
+9874637517,node,Le Tama,restaurant,Béziers,13 Rue du Commandant Malet,,,43.2863926,3.442756
+9874637518,node,La perle Orientale,restaurant,Béziers,,,,43.2864424,3.4427578
+9876494018,node,Le petit Baigneur,restaurant,Béziers,18 Rue Andre Chassefieres,,,43.3129383,3.4671617
+9876516417,node,L'Amiral,restaurant,Béziers,2 Rue Andre Chassefieres,,,43.3135048,3.4677195
+9877434442,node,Le Jardin des Sablons,restaurant,Béziers,,,,43.280304,3.3638358
+9880956495,node,Mira-Mar,hotel,Béziers,,,,43.2462353,3.2942395
+9886724396,node,Le Jardin des Délices,restaurant,Béziers,,,https://le-jardin-des-delices-restaurant-portiragnes.eatbu.com/,43.3003647,3.3320586
+9955425420,node,Le Mississippi,restaurant,Béziers,,,,43.2934838,3.5292146
+9961084966,node,Bagatelle,restaurant,Béziers,,,,43.294112,3.5260038
+9961099565,node,Le piment vert,restaurant,Béziers,,,,43.2939324,3.5256498
+9964685818,node,,restaurant,Béziers,,,,43.2953838,3.5283895
+9979768032,node,,restaurant,Béziers,,,,43.4041599,2.6317017
+9986405028,node,L'O Berge,restaurant,Béziers,,,,43.3173557,3.3044024
+10052886819,node,Le Ty Zac,restaurant,Béziers,5 Allée Géneral de Gaulle,,,43.2839652,2.7314426
+10059243227,node,Le bistrot d'Hervé,restaurant,Béziers,,,,43.3108515,3.4734652
+10116038277,node,Auberge du Pont de Réals,restaurant,Béziers,,,,43.4369329,3.0999282
+10199034136,node,Le Grain de Riz,restaurant,Béziers,,,https://www.facebook.com/AliceGrainDeRiz/,43.4544389,3.4219707
+10210137048,node,Sushi Verdun,restaurant,Béziers,,,,43.4570487,3.4252959
+10215270308,node,Le Pezenas,restaurant,Béziers,17 Rue Raspail,,,43.4599586,3.4229259
+10215281327,node,Les Cordeliers,restaurant,Béziers,,,,43.4627197,3.4247646
+10292932489,node,Le Bistrot,restaurant,Béziers,"3 Impasse Pépi Pagés, Caux",,https://www.facebook.com/profile.php?id=100087969219959,43.5081476,3.3704567
+10304124929,node,Le Suprême,restaurant,Béziers,,,,43.461249,3.4189704
+10315347061,node,Le Bistro Barrière,restaurant,Béziers,,,https://www.casinosbarriere.com/fr/cap-d-agde/bistro-barriere.html,43.2883078,3.5087666
+10316540346,node,La Casa Mo'a,restaurant,Béziers,,,,43.4210381,3.161965
+10316540384,node,La Table de Mel,restaurant,Béziers,,,,43.4221733,3.1601357
+10536651604,node,L'Étape,restaurant,Béziers,,,,43.2953243,3.2172936
+10538940293,node,L'Assiette du Boucher,restaurant,Béziers,,,,43.4509854,3.4173153
+10576633655,node,Le Relais Bleu,restaurant,Béziers,,,,43.3257138,3.0418825
+10586665131,node,Le Johane,restaurant,Béziers,,,,43.3439393,3.2116456
+10587288745,node,Cave,restaurant,Béziers,,,,43.5005254,3.029321
+10591067549,node,Brasserie Molière,restaurant,Béziers,,,https://www.brasserie-moliere-pezenas.fr/,43.4607918,3.4244009
+10593099857,node,Casa Lemon,restaurant,Béziers,6 Rue Four de la Ville,,,43.4611679,3.422199
+10722462978,node,Tacos Time,restaurant,Béziers,"4 Avenue François Curée, Pézenas",,,43.4578327,3.4220612
+10745327694,node,Aux Diablotins,restaurant,Béziers,7 Rue du 4 Septembre,,,43.3136751,3.4717548
+10745327695,node,Than Resto,restaurant,Béziers,,,,43.3135026,3.4716761
+10798886935,node,La Fourchette Libanaise,restaurant,Béziers,2 Rue du Mont Saint Loup,,https://www.lafourchettelibanaise.com/,43.3135165,3.4725028
+10801470245,node,JLC,restaurant,Béziers,,,,43.2849927,3.446095
+10903243873,node,Pizzette,restaurant,Béziers,"2 Rue Victor de Moléon, Agde",,https://www.pizzette.fr,43.3086014,3.4925999
+10936396885,node,La paranthèse,restaurant,Béziers,,,,43.2250155,3.2431549
+10951329977,node,Pizz'Bessanaise,restaurant,Béziers,6 Rue des Caves,,,43.3610356,3.4257665
+10956782513,node,Le LucaToni,restaurant,Béziers,,,,43.2477479,3.2943263
+10992701985,node,L’Ô de Vie,restaurant,Béziers,"23 Boulevard Jean Moulin, Valras-Plage",,https://www.lodevie.fr,43.2445412,3.2909047
+10992701986,node,Le Sépia,restaurant,Béziers,"28 Rue Frédéric Mistral, Valras-Plage",,https://www.restaurant-sepia-valras.fr,43.2439415,3.2891242
+11017482818,node,La Case Créole,restaurant,Béziers,,,,43.2975275,3.5237585
+11077737874,node,Pizza Pasta,restaurant,Béziers,"310 Avenue Ingarrigues, Lignan-sur-Orb",,,43.37928,3.1748836
+11080289980,node,Le Dali,restaurant,Béziers,2 Allées Général Charles de Gaulle,,,43.2465748,3.294668
+11083171106,node,Les Vagues,restaurant,Béziers,124 Chemin du Littoral Prolonge,,,43.277003,3.4705272
+11091684100,node,Le Waleli's,restaurant,Béziers,"1 Avenue du Mas Viel, Servian",,,43.4205305,3.3129195
+11096964964,node,La Franquette,restaurant,Béziers,,,,43.2736276,3.1727544
+11099110105,node,Le Glacier,restaurant,Béziers,1 Plan de la Fontaine,,,43.2722247,3.1726382
+11107803434,node,,restaurant,Béziers,,,,43.2962624,3.4181052
+11109184969,node,,restaurant,Béziers,,,https://aire-camping-car-vias.com/,43.3141917,3.3716245
+11134145272,node,,restaurant,Béziers,,,https://lascours34.fr/,43.7988908,3.0752207
+11160425897,node,Les chambres du Prieuré,hotel,Béziers,,,https://www.restaurant-delauzun.com/hotel,43.4827882,3.4115459
+11160425898,node,Restaurant de Lauzun,restaurant,Béziers,,,https://www.restaurant-delauzun.com/les-restaurants/restaurant,43.4825191,3.4115104
+11162705005,node,Le Rajasthan,restaurant,Béziers,Port Soleil,,,43.2961286,3.5232884
+11162798606,node,Plaisirs et crustacés,restaurant,Béziers,,,,43.2958907,3.5241372
+11226878023,node,La Petite Abbaye,restaurant,Béziers,,,,43.5923703,3.0823879
+11226892267,node,Hôtel de Ma Tante,hotel,Béziers,,,,43.5921755,3.0822672
+11236676106,node,We Sush'U,restaurant,Béziers,,,,43.4551855,3.4079753
+11248001305,node,Les suites de Peyrat,hotel,Béziers,,,,43.4617402,3.423351
+11262639733,node,Cap & Mestra,restaurant,Béziers,"71 bis La Promenade, Puissalicon",,,43.4577029,3.2370587
+11262658254,node,Chez Louka,restaurant,Béziers,"97 Avenue de Béziers, Puissalicon",,https://www.chezlouka.com,43.458136,3.2334548
+11264655293,node,Don Papa,restaurant,Béziers,"4 Rue Saint-Laurent, Magalas",,,43.4716842,3.2226267
+11265151136,node,Cabaret Le Show Bizz,restaurant,Béziers,"1 Rue de l'Audacieuse 2, Magalas",,https://leshowbizz.fr,43.4689705,3.2072785
+11278147634,node,L'Alba,restaurant,Béziers,13 Quai Commandant Meric,,,43.2842696,3.4448708
+11282021848,node,Lou Baralet,restaurant,Béziers,"74 bis Avenue de Pézenas, Roujan",,https://lou-baralet-restaurant-roujan.eatbu.com,43.5027095,3.3153561
+11282021863,node,Le Petit Péché,restaurant,Béziers,"8 Avenue de Caux, Roujan",,,43.5046523,3.3132511
+11282042073,node,Pitchou Pizza,restaurant,Béziers,"10 Rue de l'Hôpital, Roujan",,https://www.pitchoupizza.com/,43.5054107,3.3104385
+11298183384,node,Ô délices de Jeff,restaurant,Béziers,"1 Place du Bicentenaire, Portiragnes",,,43.2785428,3.3579269
+11341892169,node,Auberge du Cabarétou,restaurant,Béziers,Riols,,,43.5313472,2.7574029
+11350717931,node,Les Muriers d'Avène,restaurant,Béziers,,,,43.7541989,3.1106641
+11361669232,node,,restaurant,Béziers,,,,43.4607511,3.4244936
+11361669233,node,,restaurant,Béziers,,,,43.46058,3.4247902
+11362443911,node,Pizz'Avène,restaurant,Béziers,,,,43.7573185,3.1005352
+11362450719,node,L'Épicurien d'Orb,restaurant,Béziers,11 Rue de la Tine,,,43.6938058,3.1649674
+11366195915,node,Bar des Artistes,restaurant,Béziers,,,,43.5789273,3.0612938
+11519806563,node,Thaï Udon Thani,restaurant,Béziers,,,,43.4603947,3.4215809
+11519832977,node,Le Wet State,restaurant,Béziers,,,,43.4605056,3.4219661
+11556765773,node,Café de l'Union,restaurant,Béziers,"10, Nizas",,,43.5123007,3.4076291
+11649527521,node,Le Cèdre du Liban,restaurant,Béziers,"60 Allées Paul Riquet, Béziers",,,43.3402084,3.2181208
+11662869672,node,,restaurant,Béziers,,,,43.3453906,3.2191946
+11668875536,node,Les Agapes,hotel,Béziers,1 Boulevard Pasteur,,,43.392067,3.1020083
+11691471434,node,La Victoire,restaurant,Béziers,,,,43.3410563,3.2183857
+11716970802,node,Fleurs d'Asie,restaurant,Béziers,3 Avenue Georges Clémenceau,,,43.3452931,3.2158498
+11724176370,node,Brasserie Gusto,restaurant,Béziers,,,,43.322282,3.2877888
+11735325553,node,Noodles,restaurant,Béziers,36 Allées Paul Riquet,,,43.3424486,3.2166552
+11735348548,node,La Perle d'Asie,restaurant,Béziers,,,,43.3468501,3.2182263
+11735360647,node,La Paillote,restaurant,Béziers,32 Allées Paul Riquet,,,43.3426271,3.2165298
+11735362109,node,Le Pacha,restaurant,Béziers,26 bis Allées Paul Riquet,,,43.3430438,3.2162663
+11735365690,node,LadySushi,restaurant,Béziers,,,,43.3441363,3.2155608
+11735366343,node,Le Petit Ju,restaurant,Béziers,18 Allées Paul Riquet,,,43.3437625,3.2158102
+11735369476,node,Pica Pica,restaurant,Béziers,20 Boulevard Jean Jaurès,,,43.3413545,3.2154478
+11735370278,node,El Maestro,restaurant,Béziers,50 Allées Paul Riquet,,,43.3407339,3.2177719
+11738617231,node,Le palais de Djenna,restaurant,Béziers,9 bis,,,43.313076,3.4188449
+11738652307,node,La remise à Christian,restaurant,Béziers,,,,43.3125525,3.4190175
+11759059728,node,,restaurant,Béziers,,,,43.2855292,2.7284526
+11807002761,node,La Flambée,restaurant,Béziers,,,,43.3494825,3.2209841
+11860306685,node,Ciboulette et Chocolat,restaurant,Béziers,,,https://cibouletteetchocolat.wordpress.com/,43.4611928,3.4209145
+11918526056,node,La Scène,restaurant,Béziers,,,,43.3065689,3.206373
+11921654649,node,La Tonnelle,restaurant,Béziers,,,https://pizza-la-tonnelle.com/,43.3568158,3.1239058
+11969215016,node,L'Amphitryon,restaurant,Béziers,5 Rue Marechal de Plantavit,,,43.4616372,3.4235147
+11972403597,node,La Cour Pavée,restaurant,Béziers,,,,43.4588117,3.4255054
+11972403604,node,Les Marronniers,restaurant,Béziers,,,,43.4565745,3.4241579
+11984233587,node,La Pomme d'Amour,restaurant,Béziers,,,,43.4612373,3.4232873
+11984233598,node,L'Arc-en-ciel,restaurant,Béziers,,,,43.4608469,3.4230353
+11984233603,node,Le Napolitain,restaurant,Béziers,,,,43.4611062,3.4226755
+11984233638,node,Royal,restaurant,Béziers,,,,43.4609246,3.4232296
+12002747594,node,Casa Lorca,restaurant,Béziers,,,,43.4610665,3.423709
+12002747607,node,La Fabrique,restaurant,Béziers,,,,43.4608515,3.4240063
+12035492557,node,La Table du Gatinié,restaurant,Béziers,,,,43.576049,3.068792
+12089046046,node,Le Marius,restaurant,Béziers,,,,43.2470374,3.2935824
+12089092725,node,Chez Penda,restaurant,Béziers,,,,43.2473143,3.2934069
+12089116044,node,Le Pélican,restaurant,Béziers,,,,43.2472623,3.2939875
+12090387199,node,Chez Yaya,restaurant,Béziers,,,,43.2731312,3.1722612
+12094083515,node,Casa Ditta,restaurant,Béziers,23 Boulevard Gambetta,,,43.2463038,3.2937747
+12128156426,node,Courtepaille,restaurant,Béziers,,,,43.3676918,3.2224676
+12153540601,node,La Bodega,restaurant,Béziers,,,,43.2953116,3.5251663
+12157570301,node,O Caprices,restaurant,Béziers,4 Avenue de Port Ambonne,,,43.2958407,3.5229514
+12160223797,node,Hot n' Spicy Too,restaurant,Béziers,2 Avenue d'Amphitrite,,,43.2956463,3.5252278
+12160420501,node,L’envie,restaurant,Béziers,,,,43.295407,3.5285784
+12160514401,node,Ghymnos,restaurant,Béziers,,,,43.294978,3.5285633
+12161665801,node,Le troquet de René,restaurant,Béziers,4 bis Rue des Nereides,,,43.2974398,3.527657
+12177327695,node,Pizza's Milano,restaurant,Béziers,,,,43.3366879,3.2545401
+12177426116,node,L'odyssée,restaurant,Béziers,,,,43.3372536,3.2541499
+12177426120,node,Au Bouddha gourmet,restaurant,Béziers,,,,43.3370459,3.25463
+12287763846,node,,restaurant,Béziers,,,,43.2355388,3.2683585
+12361809618,node,La Table du Mineur,restaurant,Béziers,,,,43.6786901,3.0947366
+12390531631,node,La Table des Vignerons,restaurant,Béziers,,,,43.4442648,3.3833092
+12474202327,node,Hanoi,restaurant,Béziers,,,,43.2851639,3.5118094
+12621041754,node,Brasserie Glacier,restaurant,Béziers,,,,43.3071963,3.4905833
+12623898657,node,Le Magellan,restaurant,Béziers,25 Impasse du Globe,,https://www.lemagellancapdagde.com/,43.2818147,3.5139602
+12748973501,node,Grand Café Occitan,restaurant,Béziers,7 Rue de l'Occitanie,,https://www.grandcafeoccitan.com/,43.3291737,2.6001391
+12861133641,node,Vertueux,restaurant,Béziers,4 Place Louis Bessière,,,43.3136653,3.4695701
+12883086646,node,"Épicerie,café,restau Le Local",restaurant,Béziers,3 Rue de la République,,,43.6163528,3.1576005
+12902167629,node,Sanuki Sushi,restaurant,Béziers,,,,43.4267266,3.3002888
+12912857601,node,Sunpa Restaurant,restaurant,Béziers,,,,43.2978186,3.3472808
+12923765841,node,,restaurant,Béziers,,,,43.602889,2.6808312
+12923765842,node,,hotel,Béziers,,,,43.6029437,2.6806438
+12951280262,node,The Fresh Food Factory,restaurant,Béziers,,,https://thefreshfoodfactory.fr/,43.4590881,3.4241746
+12951470597,node,Ou Es-Tu Ginger,restaurant,Béziers,Rue Calquieres Basses,,,43.4583459,3.4283018
+12953620688,node,Krousthaï Asian Food,restaurant,Béziers,,,,43.4569701,3.4252108
+12987868678,node,Buffalo Grill,restaurant,Béziers,,,,43.3604721,3.3438756
+12987868679,node,Ciao,restaurant,Béziers,,,,43.3604748,3.344131
+13016755436,node,Saveurs d'Asie,restaurant,Béziers,4 Boulevard Maréchal Juin,,,43.3491042,3.2396618
+13028556957,node,,restaurant,Béziers,,,,43.3119004,3.3643968
+13031159159,node,La Croix Blanche,restaurant,Béziers,,,,43.489427,2.7584972
+13042791230,node,Les platanes,restaurant,Béziers,Poilhes,,https://tour-sarrasine.cover.page,43.3073341,3.0774213
+13047950801,node,Goélia,hotel,Béziers,,,,43.2780636,3.3557687
+13056376240,node,Ô fagot,restaurant,Béziers,,,,43.2433915,3.2849277
+13070638101,node,Le Bistrot de Colombier,restaurant,Béziers,,,,43.31323,3.1432404
+13162999560,node,"The Originals City, Hôtel Le Pavillon",hotel,Béziers,,,,43.3302629,3.2875707
+13175386431,node,Cap India,restaurant,Béziers,12 Rue du 4 Septembre,,,43.3129698,3.4709942
+13363810626,node,L'échoppe,restaurant,Béziers,"28 Rue Paul Riquet, Béziers",,https://echoppe-resto.fr,43.3438093,3.212481
+13392931717,node,La Trattoria,restaurant,Béziers,,,,43.3451049,3.2414525
+13410410110,node,Florès Food,restaurant,Béziers,2 Place de l'Imbaisse,,,43.5791559,3.0615868
+13689954257,node,Les Valseuses,restaurant,Béziers,"5 Place de la République, Caux",,,43.5065775,3.3686339
+13705110005,node,La Casa de la Mamé,restaurant,Béziers,34 Rue Droite,,,43.3961988,3.4170077
+13715655001,node,L' Éclipse,restaurant,Béziers,,,,43.2328251,3.2615998
+13766585828,node,Le Moulin de Pézenas,hotel,Béziers,,,https://amazing.katestravelexperience.eu/le-moulin-de-pezenas-pezenas123456789-france?correlationID=cae28d02-3387-41c7-9260-51d66a252e40,43.4344084,3.4245195
+13784456402,node,La Plancha des Halles,restaurant,Béziers,12 Place Pierre Semard,,,43.3432818,3.2119023
+13784456501,node,Hallegria,restaurant,Béziers,12 Place Pierre Semard,,,43.3435232,3.2119767
+13785099533,node,L'Escale,hotel,Béziers,6 Place de la Republique,,,43.2849732,3.4457597
+13810861801,node,La Marianne,restaurant,Béziers,13 Boulevard Pasteur,,https://www.la-marianne.fr/,43.3164321,3.2817435
+13825297716,node,Les amis d'Oc,restaurant,Béziers,47 Avenue Capitaine Pierre Azema,,,43.4806596,3.4847965
+13897216001,node,Ô Malice,restaurant,Béziers,,,,43.5612164,2.9734306
+13935079585,node,L'imprévu,restaurant,Béziers,,,,43.2945659,3.2625204
+13935122725,node,Le Nouvel Air,restaurant,Béziers,,,,43.2943536,3.2625216
+13935251436,node,La Table D'Amaya,restaurant,Béziers,,,,43.2942846,3.2623609
+13978084709,node,La Madragde,restaurant,Béziers,"44 Rue de la Gabelle, Le Cap d'Agde",,http://www.facebook.com/Restaurant-La-Madragde-152896331407439/,43.2856132,3.5094401

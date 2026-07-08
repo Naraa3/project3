@@ -1,0 +1,279 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+271932491,node,Hôtel F1,hotel,Carcassonne,,,,43.2050015,2.4088309
+459712306,node,Ibis Budget Carcassonne Salvaza,hotel,Carcassonne,,,,43.2045699,2.3102898
+475337328,node,La Bergerie,restaurant,Carcassonne,,,,43.2970726,2.3113286
+636870692,node,À la Fortune du Pot,restaurant,Carcassonne,80 Route de Ségala,,,43.354528,1.8229725
+838059191,node,d'Alibert,restaurant,Carcassonne,"Place de la Mairie, 11160, Caunes-Minervois",11160,,43.3271759,2.5281873
+842380195,node,Le comptoir,restaurant,Carcassonne,,,,43.2163172,2.351635
+842429706,node,Le Rialto,restaurant,Carcassonne,,,,43.2162918,2.3527696
+842430813,node,Restaurant Hanoi,restaurant,Carcassonne,,,,43.2162918,2.352842
+842454205,node,La Divine Comédie,restaurant,Carcassonne,,,,43.2140165,2.3548015
+842454911,node,Le Central,hotel,Carcassonne,27 Boulevard Jean Jaurès,,,43.2139617,2.3548214
+842459190,node,Royal Hotel,hotel,Carcassonne,22 Boulevard Jean Jaurès,,https://www.auroyal-hotel-carcassonne.com,43.2136841,2.3556315
+842459462,node,Brasserie du Palais,restaurant,Carcassonne,,,,43.2135278,2.3556598
+842475310,node,Hôtel Ibis centre Carcassonne,hotel,Carcassonne,,,https://all.accor.com/hotel/1371/index.fr.shtml,43.2115807,2.3574205
+842490557,node,Le Dôme,restaurant,Carcassonne,,,,43.2103179,2.3553164
+849972287,node,La Grande Fontaine,restaurant,Carcassonne,,,,43.327395,2.5262099
+851752882,node,La Marbrerie,restaurant,Carcassonne,,,,43.3272844,2.5243489
+851840910,node,Auberge de la Clamoux,guest_house,Carcassonne,,,,43.3157647,2.4622265
+852751212,node,Pataterie,restaurant,Carcassonne,,,,43.2362764,2.3668928
+862146125,node,L'Oustal à Citou,restaurant,Carcassonne,"31 Avenue de l'Argent-Double, 11160, Citou",11160,,43.3763732,2.5415714
+884918504,node,Le Bistro,restaurant,Carcassonne,"2 Avenue du Maréchal Joffre, 11000, Carcassonne",11000,,43.2168499,2.3520616
+884919966,node,Saquette by Fred Carcassonne,restaurant,Carcassonne,,,https://www.saquettebyfredcarcassonne.com,43.2170837,2.352062
+884920263,node,Hôtel Le Bistrol,hotel,Carcassonne,7 Avenue Maréchal Foch,,,43.2171275,2.3524761
+884920319,node,La Rotonde,restaurant,Carcassonne,,,,43.216291,2.3521226
+885163723,node,New Shangai,restaurant,Carcassonne,"270 Rue Paul Henri Mouton, 11000, Carcassonne",11000,,43.2035917,2.3109343
+902324513,node,Chambre de Hôtes - Côte Cité,hotel,Carcassonne,,,,43.2094277,2.3643177
+912613575,node,Restaurant du japon,restaurant,Carcassonne,1095 Boulevard Denis Papin,,https://restaurantdujapon.fr,43.2094006,2.3259963
+913079741,node,L'Excalibure,restaurant,Carcassonne,,,,43.2090497,2.3259929
+913079742,node,Buffet d'Asie,restaurant,Carcassonne,,,,43.2089011,2.326213
+1014739976,node,Hôtel du Centre et du Lauragais,hotel,Carcassonne,,,https://www.le-centre-hotel.fr/,43.317864,1.9529003
+1351112792,node,Hotel domaine de Camboyer,hotel,Carcassonne,"Camboyer, 11320, Montferrand",11320,https://domainedecamboyer.com/,43.3929308,1.8110542
+1361049917,node,Belle Époque,restaurant,Carcassonne,,,,43.3180058,1.9544704
+1395166560,node,Le Relais de Riquet,restaurant,Carcassonne,,,,43.3411006,1.834645
+1479313633,node,Brasserie du Donjon,restaurant,Carcassonne,,,,43.2063421,2.3632805
+1479321063,node,Hôtel Mercure Porte de la Cité,hotel,Carcassonne,"18 Rue Camille Saint-Saëns, 11000, Carcassonne",11000,https://all.accor.com/hotel/1622/index.fr.shtml,43.2068308,2.3695757
+1479329410,node,Chez Saskia,restaurant,Carcassonne,,,,43.2059229,2.3629052
+1479338043,node,Hôtel le Donjon - Maison des Remparts,hotel,Carcassonne,,,,43.2075562,2.3642005
+1479398825,node,Jardin de l'Évêque,restaurant,Carcassonne,,,,43.2057117,2.36302
+1483299005,node,Hôtel Espace Cité,hotel,Carcassonne,132 Rue Trivalle,,https://www.hotel-espace-cite.fr,43.2084233,2.3678651
+1483299030,node,Hôtel ibis Styles Carcassonne La Cité 3 étoiles,hotel,Carcassonne,2 Rue Darius Milhaud,,https://www.accorhotels.com/fr/hotel-A480-ibis-styles-carcassonne-la-cite/index.shtml,43.2074606,2.3725262
+1483299031,node,Résidence cerise Carcassonne Sud,hotel,Carcassonne,"1 Rue Darius Milhaud, 11000, Carcassonne",11000,https://www.cerise-hotels-residences.com/cerise-carcassonne-sud/,43.2076418,2.3731082
+1641805506,node,La cuisines des Garrigues,restaurant,Carcassonne,,,,43.2109109,2.3429967
+1643022718,node,Le Longchamp,restaurant,Carcassonne,"20 Place Carnot, 11000",11000,,43.2128706,2.3515815
+1643022751,node,Le Saint-Roch,restaurant,Carcassonne,,,,43.2132774,2.3511807
+1643070217,node,La Casa,restaurant,Carcassonne,,,,43.2127769,2.3523915
+1643202424,node,Casablanca,restaurant,Carcassonne,,,,43.2131112,2.3552926
+1643202426,node,Le Foudre,restaurant,Carcassonne,"51 Rue du Pont Vieux, 11000, Carcassonne",11000,,43.211485,2.3558996
+1643202427,node,La Table du Marie,restaurant,Carcassonne,"51 Rue du Pont Vieux, 11000, Carcassonne",11000,,43.2115394,2.3558155
+1643202430,node,Tribe Hôtel,hotel,Carcassonne,"2 Rue des Trois Couronnes, 11000, Carcassonne",11000,https://tribehotels.com/fr/france/carcassonne/,43.2103155,2.3577664
+1643202431,node,Thang Long,restaurant,Carcassonne,,,,43.2114455,2.3559777
+1694629739,node,Restaurant Arc-en-ciel,restaurant,Carcassonne,,,,43.3164239,1.9439916
+1694641287,node,Hôtel de France,hotel,Carcassonne,2 Avenue Frédéric Mistral,,,43.3206056,1.9537028
+1694654779,node,Hôtel du Canal,hotel,Carcassonne,,,,43.3151701,1.9490955
+1694658337,node,Le tirou,restaurant,Carcassonne,"90 Avenue Monseigneur de Langle, 11400, Castelnaudary",11400,,43.3126253,1.96571
+1694658362,node,Tassili,restaurant,Carcassonne,,,,43.319949,1.9551347
+1694660149,node,Au vrai cassoulet,restaurant,Carcassonne,,,,43.319919,1.9534934
+1694660158,node,Restaurant Dolce Vita,restaurant,Carcassonne,24 Avenue des Pyrénées,,,43.313409,1.9593013
+1694681412,node,Le Ptit Moka,restaurant,Carcassonne,33 Place de Verdun,,,43.3191351,1.955101
+1694727175,node,New Sushi,restaurant,Carcassonne,2 Rue Soumet,,,43.3183524,1.9546192
+1722653140,node,Chez Fred,restaurant,Carcassonne,31 Boulevard Omer Sarraut,,https://www.chez-fred.fr/,43.2160691,2.3503349
+1722670095,node,Restaurant La Vicomté - Hôtel Mercure,restaurant,Carcassonne,18 Rue Camille Saint-Saëns,,http://www.mercure-carcassonne.fr,43.2065757,2.3695964
+1722695403,node,Restaurant Hostellerie Etienne,restaurant,Carcassonne,1 Chemin de Saint-Jammes,,http://www.hostellerieetienne.com,43.345567,1.8544447
+1722798166,node,Restaurant Auberge du Dominicain,restaurant,Carcassonne,Avenue du Lauragais,,https://www.aubergedudominicain.com/,43.2005447,2.141714
+1722807863,node,Les Terrasses de la Cité,restaurant,Carcassonne,"Place Marcou, 11000, Carcassonne",11000,https://les-terrasses-de-la-cite-carcassonne.eatbu.com,43.2063952,2.3647238
+1728791790,node,La Poissonnerie Moderne,restaurant,Carcassonne,Avenue Pierre Curie,,http://www.la-poissonnerie-moderne.com,43.2097609,2.4435308
+1764176298,node,Le Platane,restaurant,Carcassonne,,,,43.2248731,2.2555947
+1858233462,node,Château Lavail,hotel,Carcassonne,,,,43.3496326,1.8709543
+1858708181,node,Restaurant Inter Administratif de Carcassonne (RIAC),restaurant,Carcassonne,16,,,43.2140713,2.3512255
+1874258144,node,L'Île aux oiseaux,restaurant,Carcassonne,,,,43.2549879,2.12729
+1880051715,node,L'Hermitage,hotel,Carcassonne,,,,43.4338186,2.0397831
+1913023131,node,O delices,restaurant,Carcassonne,,,,43.207532,2.3643424
+2010858594,node,La Montagne Noire,hotel,Carcassonne,,,,43.3695632,2.2809105
+2117358625,node,Maison du Cassoulet,hotel,Carcassonne,"24 Cours de la République, 11400, Castelnaudary",11400,https://maisonducassoulet.com/,43.3176071,1.9531423
+2126200114,node,Ô fil de l'Ô,hotel,Carcassonne,69 Avenue du Languedoc,,,43.2044622,2.5509758
+2133010086,node,Clos Saint-Loup,hotel,Carcassonne,,,,43.2350018,2.1190449
+2136225951,node,Auberge du Pigné,hotel,Carcassonne,,,,43.231546,2.1297009
+2136436926,node,La Table Ronde des Chevaliers,restaurant,Carcassonne,,,,43.2526371,2.1778586
+2145194526,node,Auberge Montplaisir,restaurant,Carcassonne,"D 6113, 11150",11150,,43.2610519,2.13085
+2164551456,node,Le Grilladou,hotel,Carcassonne,"14 Grand Rue, 11320",11320,http://www.legrilladou.com/hotel.html,43.346483,1.8523449
+2164551457,node,Le Grilladou,restaurant,Carcassonne,,,,43.3464571,1.8524075
+2228951308,node,Au petit gazouillis,restaurant,Carcassonne,5 Rue de l'Arcade,,https://gersanelia.site-solocal.com/,43.3198441,1.9538285
+2228953427,node,L'Italiano,restaurant,Carcassonne,17 Rue des Carmes,,,43.3196344,1.9539612
+2312544845,node,La Table Cathare,restaurant,Carcassonne,,,http://www.latablecathare.com/,43.1847393,2.0345071
+2316887642,node,Castel Chambres,hotel,Carcassonne,"Avenue des Pins, 11600, Malves-en-Minervois",11600,https://castelchambres.com/,43.2535044,2.4420997
+2399300061,node,La Cantine du Curé,restaurant,Carcassonne,"16 Avenue de l'Abbaye, 11160, Caunes-Minervois",11160,https://www.lacantineducure.com/,43.3254791,2.5270378
+2399300065,node,La Mangeoire,restaurant,Carcassonne,,,,43.3265742,2.5263577
+2409012131,node,Château de Jouarres,hotel,Carcassonne,,,,43.2635983,2.6990483
+2417733029,node,Résidence Adonis - La Barbacane,hotel,Carcassonne,15 Rue de la Barbacane,,https://www.adonis-residence-carcassonne.com/,43.2048161,2.3602152
+2430980541,node,Le 37,restaurant,Carcassonne,"37 Rue Trivalle, 11000, Carcassonne",11000,https://www.le37carcassonne.fr,43.2091406,2.3624897
+2446316152,node,Auberge du Château,hotel,Carcassonne,,,,43.1677792,2.3268427
+2446316155,node,Auberge du Château,restaurant,Carcassonne,,,,43.167909,2.326461
+2451856113,node,La Maison,restaurant,Carcassonne,11600,11600,,43.2684895,2.3994222
+2465022282,node,Le blé noir,restaurant,Carcassonne,"15 Rue de Verdun, 11000",11000,,43.2126005,2.3541096
+2465022295,node,Bloc G,restaurant,Carcassonne,"11000, Carcassonne",11000,,43.2096752,2.3608383
+2465022308,node,Le Pas sage,restaurant,Carcassonne,"15 Rue Trivalle, 11000, Carcassonne",11000,,43.2093175,2.3615628
+2470468946,node,Les Deux Acacias,hotel,Carcassonne,,,,43.2812753,2.0862504
+2481654324,node,Au Four Saint-Louis,restaurant,Carcassonne,,,https://www.aufoursaintlouis.com/en/au-four-saint-louis-restaurant/,43.2059327,2.3632028
+2493621335,node,Le Quai 21,restaurant,Carcassonne,21 Quai du Port,,,43.3156481,1.9519142
+2493621339,node,Le cassoulet Gourmand,restaurant,Carcassonne,19 Quai du Port,,https://www.lecassouletgourmand.com/,43.3156359,1.9521698
+2496435774,node,Le Languedoc,restaurant,Carcassonne,,,,43.2109847,2.3451899
+2497875256,node,Le Moulin,restaurant,Carcassonne,,,,43.2072191,2.4492241
+2644779050,node,M11,restaurant,Carcassonne,"Avenue des Corbières, 11800, Monze",11800,http://restaurantm11.com/,43.1581234,2.4596072
+2697788835,node,Le Cathare,restaurant,Carcassonne,1,,,43.2137906,2.3531719
+2780547479,node,La Rougeanne,hotel,Carcassonne,"5 Avenue de la Rougeanne, 11170, Moussoulens",11170,,43.2786703,2.2280544
+2810931206,node,Le Trouvère,restaurant,Carcassonne,"1 Place Marcou, 11000, Carcassonne",11000,,43.2066163,2.364589
+2810931574,node,Le Menestrel,restaurant,Carcassonne,"Place Marcou, 11000, Carcassonne",11000,,43.2066971,2.3647237
+2822300401,node,La Table Ronde,restaurant,Carcassonne,,,,43.2060464,2.3647293
+2858252161,node,Les Ardeillès,restaurant,Carcassonne,,,https://lesardeilles.com/,43.4047181,2.5379093
+3053891215,node,Auberge du Diable au Thym,restaurant,Carcassonne,"21 Route des Châteaux, 11600, Lastours",11600,https://www.lediableauthym.com/,43.3344346,2.3783431
+3053891216,node,Le Puits du Trésor,restaurant,Carcassonne,"21 Route des Châteaux, 11600, Lastours",11600,https://lepuitsdutresor.com/,43.3342796,2.3780897
+3450075554,node,Auberge de Dame Carcas,restaurant,Carcassonne,,,https://www.damecarcas.com,43.2067135,2.3643267
+3574047094,node,Mademoiselle Naturozen,restaurant,Carcassonne,,,,43.2127134,2.355088
+3590077851,node,Les Trois Fontaines,restaurant,Carcassonne,,,,43.4158625,2.3009591
+3698764479,node,Hôtel Montségur,hotel,Carcassonne,1 Avenue Bunau Varilla,,,43.2122086,2.3446578
+3785042567,node,Hôtel de la Bastide,hotel,Carcassonne,"81 Rue de la Liberté, 11000, Carcassonne",11000,http://www.hoteldelabastide.com,43.2156744,2.3496505
+3811620166,node,,restaurant,Carcassonne,,,,43.2016244,2.3294819
+3811620173,node,Le Bistrot d'Auriac,restaurant,Carcassonne,,,,43.1914046,2.3355308
+3811620175,node,Première Classe,hotel,Carcassonne,,,https://carcassonne.premiereclasse.com,43.2065113,2.3125338
+3811620179,node,Le Domaine d'Auriac,restaurant,Carcassonne,,,,43.1913264,2.3362067
+3811620180,node,Kyriad,hotel,Carcassonne,,,,43.208212,2.312158
+3832222657,node,Ristorante Del Arte,restaurant,Carcassonne,"Lieu dit Planeto Nord, 11000, Carcassonne",11000,https://www.delarte.fr/restaurant-italien-pizzeria-carcassonne.html,43.2014962,2.3145318
+3832810509,node,Auberge La Calèche,restaurant,Carcassonne,1 Rue de la Croix,,https://www.auberge-la-caleche.com/,43.3619111,1.9594452
+4170125440,node,Les Snackeurs,restaurant,Carcassonne,"39 Rue Prosper Estieu, 11400, Castelnaudary",11400,https://les-snackeurs-castel.com/,43.3160188,1.9516688
+4206454189,node,Moulin de la Ganguise,hotel,Carcassonne,"30 Chemin de la Ganguise, 11410, Molleville",11410,,43.3085287,1.8304642
+4253563501,node,Le Ménestrel,restaurant,Carcassonne,"Place Marcou, 11000, Carcassonne",11000,,43.2066845,2.3648692
+4253563503,node,Le flagrant des lices,restaurant,Carcassonne,,,,43.2064946,2.3646241
+4253563504,node,Le cachotier,restaurant,Carcassonne,"Place Marcou, 11000, Carcassonne",11000,https://www.le-cachotier.fr/,43.2064507,2.364633
+4253563505,node,La table des consuls,restaurant,Carcassonne,,,,43.2064251,2.3648673
+4261250029,node,Taverne du Château,restaurant,Carcassonne,"2 Rue Cros Mayrevieille, 11000, Carcassonne",11000,,43.2068266,2.3645192
+4319712396,node,Le petit Marcou,restaurant,Carcassonne,,,,43.2066813,2.3650572
+4327049327,node,Hôtel Restaurant Le Top du Roulier,hotel,Carcassonne,8 Avenue du Languedoc,,https://www.le-top-capendu.fr/,43.1878784,2.5579878
+4484716563,node,L'Arganier,restaurant,Carcassonne,,,,43.2103196,2.4428453
+4484716564,node,Poissonnerie Moderne,restaurant,Carcassonne,,,,43.2096941,2.4437761
+4484716569,node,Trattoria Napoli,restaurant,Carcassonne,,,,43.209621,2.4442354
+4497524275,node,L'Artigice,restaurant,Carcassonne,,,,43.2513708,2.6536408
+4497524280,node,Le Rivassel,restaurant,Carcassonne,,,,43.2485499,2.659657
+4559766351,node,Pizzéria La Taverne du Château,restaurant,Carcassonne,,,,43.3585918,2.1689933
+4780918421,node,Cuisine at Anetta,restaurant,Carcassonne,,,http://anetta.fr/,43.2223911,2.3370974
+4800510564,node,Domaine de Palats,hotel,Carcassonne,"11800, Laure-Minervois",11800,https://domainedepalatz.com/,43.2854644,2.5137586
+4822377122,node,La Marquière,restaurant,Carcassonne,"13 Rue Saint-Jean, 11000, Carcassonne",11000,https://www.lamarquiere.com/,43.2080518,2.3643315
+4822430922,node,Le Clos des Framboisiers,restaurant,Carcassonne,"8 Rue des Framboisiers, 11000",11000,,43.2190882,2.3590621
+4822481522,node,Comte Roger,restaurant,Carcassonne,"14 Rue Saint-Louis, 11000, Carcassonne",11000,https://www.comteroger.com/,43.2062091,2.3634081
+4822482921,node,Le Jardin de l'Estagnol,restaurant,Carcassonne,"1 Rue Benjamin Franklin, 11000",11000,https://jardindelestagnol.com/,43.2151252,2.3352515
+4822506321,node,Le Chaudron,restaurant,Carcassonne,"6 Rue Saint-Jean, 11000",11000,https://aji-restaurants.com/le-chaudron-2/?,43.2079125,2.3644627
+4991823180,node,CAZI del MAR,restaurant,Carcassonne,"3 Place du 19 mars 1962, 11570, Cazilhac",11570,,43.182876,2.3657209
+5054062842,node,Restaurant La Rive Belle,restaurant,Carcassonne,,,,43.2375119,2.288259
+5143944366,node,La Rencontre,restaurant,Carcassonne,"6 Place des Tilleuls, 11170, Montolieu",11170,https://www.larencontre-montolieu.fr,43.309344,2.2155704
+5143944370,node,Casquette et Châpeau,restaurant,Carcassonne,"2 Place de la Liberté, 11170, Montolieu",11170,https://www.casquetteetchapeau.fr,43.3104916,2.2142504
+5351235166,node,A nous 2,restaurant,Carcassonne,,,,43.3604554,2.2174627
+5535344181,node,Saint-Martin,restaurant,Carcassonne,,,,43.228123,2.3970561
+5708186423,node,Le-Bis-Troquet,restaurant,Carcassonne,"22 Rue Chartran, 11000",11000,,43.2122549,2.3514224
+5849841686,node,Le relais des chevaliers,restaurant,Carcassonne,,,,43.2065077,2.3636955
+5893731054,node,L'Auberge du Bout du Monde,restaurant,Carcassonne,,,https://www.leboutdumonde.fr/auberge.html,43.3759939,2.0763454
+6256273087,node,La Cotte de Mailles,restaurant,Carcassonne,2 Rue Saint-Jean,,http://www.restolacottedemailles.com/index.htm,43.2076375,2.3644494
+6257872185,node,La Barbacane,restaurant,Carcassonne,Place Auguste-Pierre Pont,,https://www.cite-hotels.com/hotels/hotel-de-la-cite/restaurant-la-barbacane/,43.2057185,2.3627221
+6258083885,node,Restaurant Bourdasso,restaurant,Carcassonne,,,https://www.bourdasso.com,43.1498855,2.4966904
+6258222186,node,Domaine Michaud,restaurant,Carcassonne,,,https://www.domainemichaud.eu/en/restaurant/,43.1589962,2.265175
+6335220510,node,Hôtel du Pont-Vieux,hotel,Carcassonne,,,https://www.hotelpontvieux.com,43.2090468,2.3617756
+6516068485,node,La Table du Rebombier,restaurant,Carcassonne,"1 chemin des violettes lieu dit du rebombier sud, 11390",11390,https://latabledurebombier.e-monsite.com/,43.3455664,2.2426626
+6673029018,node,Auberge des lices,restaurant,Carcassonne,"3 Rue Raymond Roger Trencavel, 11000, Carcassonne",11000,https://www.aubergedeslices.com/,43.2053183,2.3636369
+6681782085,node,Enjoy,restaurant,Carcassonne,11000,11000,,43.2055449,2.3646851
+6681866385,node,Les copains d'abord,restaurant,Carcassonne,,,,43.2074798,2.3646021
+6696593586,node,La Cybèle,restaurant,Carcassonne,,,,43.3155303,1.9516449
+6770239359,node,Le 104,restaurant,Carcassonne,"104 Rue de Verdun, 11000, Carcassonne",11000,https://www.resto104.fr,43.2127258,2.3480276
+6783490876,node,Apostrophe,restaurant,Carcassonne,"12 Rue des Pyrénées, 11170, Montolieu",11170,https://www.apostrophe-hotel.fr,43.3087246,2.2175095
+6784889178,node,Chapters,restaurant,Carcassonne,"5 Rue de la Mairie, 11170, Montolieu",11170,https://restaurantchapters.fr/,43.310005,2.214704
+6784894813,node,Thé and Co,restaurant,Carcassonne,"3, 11170, Montolieu",11170,,43.3115439,2.2151016
+6785035876,node,La Table Fermière,restaurant,Carcassonne,,,http://tablefermiere.com/TableFermiere.html,43.3051645,2.1688369
+6786659899,node,À la Prise d'Alzeau,restaurant,Carcassonne,,,http://www.prisedalzeau.com,43.3967169,2.2266505
+6789337227,node,Maison de Mallast,restaurant,Carcassonne,"19 Rue Nationale, 11170, Montolieu",11170,https://www.maisondemallast.com,43.3097103,2.2145598
+6888035183,node,Stratto,restaurant,Carcassonne,,,,43.2196474,2.2168884
+7231179685,node,La Crêperie de la Trivalle,restaurant,Carcassonne,,,,43.2091416,2.3633956
+7277585047,node,Histoire gourmande,restaurant,Carcassonne,97 Boulevard Barbès,,,43.2101891,2.3468156
+7620326344,node,La girouette,restaurant,Carcassonne,,,,43.2064227,2.3650179
+7620329797,node,Restaurant du petit puits,restaurant,Carcassonne,,,,43.2054897,2.364373
+7620330254,node,Joseph,restaurant,Carcassonne,,,,43.2056377,2.3645282
+7620331814,node,Le trauquet,restaurant,Carcassonne,,,,43.2055027,2.364494
+7620335876,node,La table des remparts,restaurant,Carcassonne,,,,43.2075239,2.364259
+7620345290,node,L'escargot,restaurant,Carcassonne,,,https://restaurant-lescargot.com/,43.207296,2.3640745
+7676806185,node,Le Jardin en Ville,restaurant,Carcassonne,5 Rue des Framboisiers,,https://www.lejardinenville.fr/,43.2196586,2.3588034
+7687035493,node,,restaurant,Carcassonne,,,,43.2003534,2.3535083
+7700105567,node,Le Comptoir des Halles,restaurant,Carcassonne,24 Rue du 143e Rgt d'Infanterie,,,43.3189791,1.9533928
+7703676737,node,Le petit Oasis,restaurant,Carcassonne,,,,43.319511,1.9533563
+7780252964,node,Le Plô,restaurant,Carcassonne,,,,43.2059019,2.3644745
+7819524386,node,,restaurant,Carcassonne,,,,43.2294357,2.3851825
+7822242787,node,Le Jardin d'été,restaurant,Carcassonne,,,,43.2092132,2.3603704
+7822254685,node,Le Réservoir,restaurant,Carcassonne,"11 Rue Trivalle, 11000, Carcassonne",11000,,43.2094391,2.3614609
+8230892524,node,Château de Floure,hotel,Carcassonne,,,https://www.chateau-de-floure.com/,43.1831397,2.490991
+8531211717,node,Cantine Scolaire,restaurant,Carcassonne,,,,43.2807776,2.2309526
+8647532727,node,L'arbre du voyageur,restaurant,Carcassonne,,,,43.1736109,2.3872429
+8907157694,node,La Bonne Planque,hotel,Carcassonne,"Chemin de la Planque, 11400, Mas-Saintes-Puelles",11400,,43.3207872,1.9135636
+9020316495,node,La Halte Romaine,restaurant,Carcassonne,,,,43.2394653,2.2276367
+9124752544,node,Happy snack,restaurant,Carcassonne,,,,43.2096882,2.442664
+9137177012,node,Auberge des Ducs d'Oc,restaurant,Carcassonne,,,https://www.auberge-des-ducs-doc.fr,43.2066089,2.3644653
+9137314736,node,Le sénéchal,restaurant,Carcassonne,,,,43.2071443,2.3642582
+9137649474,node,Le Jardin du Carcassès,restaurant,Carcassonne,"Rue Dame Carcas, 11000, Carcassonne",11000,,43.2054392,2.3633429
+9217851995,node,Le Couvent,hotel,Carcassonne,31 Rue du Quatre Septembre,,https://www.au-couvent.fr,43.2149325,2.351535
+9242670294,node,Le jardin de la tour,restaurant,Carcassonne,,,,43.2065095,2.3632722
+9287122017,node,Freaks,restaurant,Carcassonne,"30 Rue de Verdun, 11000",11000,,43.2127013,2.3530944
+9432979147,node,Dinner 118,restaurant,Carcassonne,"4 Chemin de la Plaine, 11250, Rouffiac-d'Aude",11250,https://fr-fr.facebook.com/pages/category/Diner/Diner-118-908079972578087/,43.1254062,2.2969532
+9500814173,node,Lauthier le Haut,restaurant,Carcassonne,11390,11390,https://lelauthier.com,43.331106,2.2414477
+9505925217,node,La Pizz’ Castelnaudary,restaurant,Carcassonne,"40 Route de Saint Martin Lalande, 11400",11400,,43.3061571,1.9808051
+9727885717,node,Hôtel Townhouse,hotel,Carcassonne,11000,11000,https://carcassonnetownhouse.com/,43.2098602,2.3569104
+9733425817,node,La Taverne Moderne,restaurant,Carcassonne,"43 Rue Trivalle, 11000, Carcassonne",11000,,43.209118,2.3627542
+9735800276,node,Le Rideau Rouge,restaurant,Carcassonne,,,,43.2110773,2.352424
+9779234247,node,O deliz cafe,restaurant,Carcassonne,54 Rue Trivalle,,,43.2089891,2.362675
+9901457148,node,Chez David,restaurant,Carcassonne,49 Rue General Dejean,,,43.3176785,1.9542889
+9914157703,node,Hôtel de l'Octroi,hotel,Carcassonne,143 Rue Trivalle,,https://www.hoteloctroi.com/fr/hotel-3-etoiles-carcassonne,43.2086976,2.3682481
+9914157705,node,Le Verre d'Un,restaurant,Carcassonne,,,,43.2127026,2.3553836
+9914157707,node,Bistro Vibes,restaurant,Carcassonne,,,,43.2131278,2.3523631
+9926600501,node,Le Patio,restaurant,Carcassonne,"5 Rue du Grand Puits, 11000, Carcassonne",11000,,43.2076022,2.364886
+9926622942,node,La Demeure du Cassoulet,restaurant,Carcassonne,"7 Rue du Grand Puits, 11000, Carcassonne",11000,,43.2075658,2.3645814
+9926990195,node,Le Trivalou,restaurant,Carcassonne,"69 Rue Trivalle, 11000, Carcassonne",11000,,43.2093271,2.3636939
+9926990196,node,Le Vintage,restaurant,Carcassonne,"36 Rue Trivalle, 11000, Carcassonne",11000,,43.2090175,2.3619657
+9937254939,node,Comptoir Ludique,restaurant,Carcassonne,"24 Rue de la République, 11000, Carcassonne",11000,,43.214261,2.3512479
+9955568763,node,La Casa,restaurant,Carcassonne,,,,43.2348053,2.3656571
+9955568764,node,Bistro Régent,restaurant,Carcassonne,,,,43.2346839,2.3664725
+9959976537,node,Le Victoria,restaurant,Carcassonne,,,,43.2346071,2.366243
+10097278245,node,L'Ambrosia,restaurant,Carcassonne,,,,43.2584237,2.2521573
+10166174817,node,Café de la place,restaurant,Carcassonne,,,,43.0890259,2.5197233
+10180284317,node,Ô trois cinq sept,restaurant,Carcassonne,,,,43.2134825,2.351323
+10747010898,node,Chez Seb,restaurant,Carcassonne,"10 Avenue Pierre Loti, 11800, Trèbes",11800,,43.2107491,2.4436857
+10910826533,node,Vins de Dagne,restaurant,Carcassonne,2 Rue Pietonne,,,43.128836,2.5576083
+10983660150,node,Chez Seb,restaurant,Carcassonne,,,,43.2102674,2.4434612
+11102702905,node,Enfants terribles,restaurant,Carcassonne,,,,43.2131831,2.3511804
+11107443745,node,Maloka,restaurant,Carcassonne,,,,43.3632311,2.4604391
+11182966040,node,Agapé,restaurant,Carcassonne,15 Rue des Trois Couronnes,,,43.2102132,2.3561991
+11210074359,node,Restaurant Le Castel,restaurant,Carcassonne,"Chemin de Villarlong, 11600, Villarzel-Cabardès",11600,https://chateauvillarlong.com/fr/restaurant-le-castel/,43.281843,2.4773164
+11210790692,node,Le bistrot d'Alice,restaurant,Carcassonne,26 Rue Chartran,,https://www.lebistrotdalice.fr/,43.21238,2.3514012
+11794200008,node,L'oustal Padel,restaurant,Carcassonne,,,,43.2124896,2.2946734
+11869771107,node,Hôtel de la Prade,hotel,Carcassonne,11150,11150,https://www.chateaulaprade.fr,43.2620109,2.113012
+11870106321,node,Les Cabanes dans les bois,hotel,Carcassonne,,,https://lescabanesdanslesbois.fr/,43.2436778,2.4169302
+11878898169,node,Pizza Bella,restaurant,Carcassonne,"Avenue Saint-Louis, 11620",11620,,43.2556312,2.3648446
+11993657812,node,Club 41,restaurant,Carcassonne,"51 Rue du Pont Vieux, 11000, Carcassonne",11000,,43.2115029,2.355835
+12020437163,node,Ô Brice B,restaurant,Carcassonne,115 Rue de la Barbacane,,,43.2090827,2.3604227
+12021270641,node,T'as ta pizza ?,restaurant,Carcassonne,,,,43.1880733,2.564908
+12026816369,node,L'Ecu D'or,restaurant,Carcassonne,"7 Rue Porte d'Aude, 11100",11100,,43.2064964,2.3631784
+12088949969,node,FloridaBlanca,restaurant,Carcassonne,,,http://floridablanca.fr,43.2092641,2.361379
+12106031747,node,Fazzoletti,restaurant,Carcassonne,,,,43.209143,2.3629804
+12112316071,node,Les Chevaliers,hotel,Carcassonne,,,https://www.sowell.fr/hotel/les-chevaliers/,43.2111396,2.3581776
+12112316072,node,Hôtel du Roi & Spa,hotel,Carcassonne,,,https://www.hotelduroi.com,43.2108451,2.3581764
+12122056011,node,Brasserie Café Lucien,restaurant,Carcassonne,,,https://cafelucien.fr,43.2072037,2.3652036
+12377461358,node,"Tel mère, tel fils",restaurant,Carcassonne,10 Route de Narbonne,,https://www.facebook.com/p/Telle-mère-tel-fils-Restaurant-Barbaira-61556586000725,43.1857149,2.5115516
+12686611352,node,Maison du Cassoulet,restaurant,Carcassonne,"6 Rue du Grand Puits, 11000, Carcassonne",11000,https://maisonducassoulet.com/carcassonne/,43.2075262,2.3650447
+12709379401,node,Le Clos Saint Loup,hotel,Carcassonne,"69 Avenue du Razès, 11150",11150,,43.2350378,2.1188878
+12714533801,node,Hotel Audotel,hotel,Carcassonne,"113 Route Nationale, 11000",11000,https://hotel-audotel.com,43.2053807,2.4076753
+12753712448,node,Chez Bouca,restaurant,Carcassonne,,,,43.252485,2.3661766
+12862615802,node,Chez Modeste,restaurant,Carcassonne,"3 Place du Marche, 11700, Puichéric",11700,,43.2232596,2.6240607
+12872882521,node,Restaurant-Café de la Montagne Noire,restaurant,Carcassonne,"13 Avenue Maurice Sarrault, 11310, Saissac",11310,,43.3602902,2.1695189
+12877253625,node,Au Bureau,restaurant,Carcassonne,,,,43.2077761,2.3926258
+12877476192,node,Le Lauranais,restaurant,Carcassonne,"23 Grand Rue, 11800, Laure-Minervois",11800,,43.2717897,2.5201261
+12896384767,node,L'Arzenais,restaurant,Carcassonne,"65 Place de la Mairie, 11290, Arzens",11290,https://bar-restaurant-arzenais.fr/,43.1993204,2.2108379
+12896532149,node,Pizzeria la 33,restaurant,Carcassonne,"26 Avenue du Razès, 11290, Lavalette",11290,,43.18478,2.2672495
+12966681032,node,Territoires de France,restaurant,Carcassonne,,,,43.1785578,2.5407452
+12997893302,node,Restaurant de l'Aude,restaurant,Carcassonne,,,,43.2092998,2.441815
+13013793364,node,Pizzeria L'Orbiela,restaurant,Carcassonne,"2 Rue Jean Ferrat, 11600, Conques-sur-Orbiel",11600,,43.2669238,2.3972611
+13014366520,node,Auberge de l'Orbiel,restaurant,Carcassonne,"16 Route des Quatre Châteaux, 11600, Lastours",11600,,43.3335965,2.3794937
+13030721978,node,Nénuphar,restaurant,Carcassonne,,,,43.3226006,1.9485988
+13030872635,node,Bella Italia,restaurant,Carcassonne,67 Avenue François Mitterrand,,,43.3156338,1.9563977
+13070665001,node,Cédrat,restaurant,Carcassonne,,,,43.3267301,2.527904
+13098903846,node,El Champo,restaurant,Carcassonne,,,,43.206191,2.4333915
+13134551101,node,Au lard et au cochon,restaurant,Carcassonne,2 Rue Denisse,,,43.2128848,2.3527392
+13250155842,node,Le logis des remparts,hotel,Carcassonne,,,,43.2081051,2.3640968
+13250160189,node,La rapière,restaurant,Carcassonne,,,,43.2082546,2.3670526
+13250176864,node,A la fortune du Plô,restaurant,Carcassonne,,,,43.205306,2.3644578
+13250189887,node,La Table d'Alaïs,restaurant,Carcassonne,32,,https://table-alais.fr/fr/accueil-restaurant/,43.2061798,2.3647214
+13250189888,node,Le Créneau,restaurant,Carcassonne,,,https://le-creneau-carcassonne.fr,43.2078484,2.3639358
+13250189889,node,Le Saint-Jean,restaurant,Carcassonne,,,https://www.le-saint-jean.eu/,43.2078405,2.3635508
+13250189890,node,Adélaïde,restaurant,Carcassonne,,,,43.2075944,2.3638543
+13250189891,node,L'Ostal des Troubadours,restaurant,Carcassonne,"5 Rue Viollet le Duc, 11000",11000,https://ostal.net,43.2072527,2.3640488
+13384329856,node,Linh Chi,restaurant,Carcassonne,,,,43.2101875,2.3563776
+13411002866,node,Buffalo Grill,restaurant,Carcassonne,,,,43.2003796,2.3126319
+13428615496,node,Miyagi,restaurant,Carcassonne,,,,43.2117646,2.3561004
+13461258677,node,,hotel,Carcassonne,,,,43.4049711,1.9506443
+13513197158,node,La Boîte à Léon,restaurant,Carcassonne,,,,43.1781958,2.3768316
+13623153712,node,Brasserie Roc Ouest,restaurant,Carcassonne,,,,43.2070229,2.3099673
+13909050208,node,Snack Chez Théo,restaurant,Carcassonne,,,,43.2432742,2.1145261
+13965781401,node,Chez Dorina,restaurant,Carcassonne,"17 Rue Gambetta, 11400",11400,https://maps.app.goo.gl/EMP6aVxojcc4o4ka9?g_st=ac,43.3191594,1.9545079
+13983357654,node,Chez Bruna,restaurant,Carcassonne,,,,43.2168519,2.3535004

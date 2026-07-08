@@ -1,0 +1,117 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+270629256,node,Chez Massimo,restaurant,Menton,,,,43.7622201,7.480362
+272541505,node,Bocca Fina,restaurant,Menton,,,,43.7647333,7.4824042
+871711962,node,Hôtel Méditerranée,hotel,Menton,,,,43.7753336,7.5010957
+936896594,node,Le Piccadilly,restaurant,Menton,,,,43.76066,7.482755
+936913696,node,Reine d'azur,hotel,Menton,,,,43.759052,7.482436
+936919697,node,,restaurant,Menton,,,,43.7587436,7.4822886
+936937358,node,Victoria,hotel,Menton,06190,06190,,43.7576312,7.4813786
+936940038,node,Fellini,restaurant,Menton,,,,43.7574158,7.4812734
+936955480,node,Pizza Plage,restaurant,Menton,,,,43.7577007,7.4806216
+936961365,node,Hôtel Le Grand Cap,hotel,Menton,"06190, Roquebrune-Cap-Martin",06190,,43.7582942,7.4797144
+963302995,node,La Môme Riviera,restaurant,Menton,,,,43.7515447,7.4875182
+1490950274,node,Le Saint-Yves,hotel,Menton,,,,43.8000519,7.4618771
+1510993734,node,Claridge's,hotel,Menton,06500,06500,,43.775941,7.498173
+1511069551,node,ORLY,hotel,Menton,"06500, Menton",06500,,43.7826798,7.5118153
+1756229647,node,Righi,restaurant,Menton,,,,43.7988634,7.4631309
+1756229661,node,Beau Séjour,restaurant,Menton,,,,43.7865301,7.4437149
+1756229662,node,Bistrot de l'Orme,restaurant,Menton,,,,43.7869032,7.4436532
+1756249551,node,La Grotte,restaurant,Menton,,,http://www.restaurantlagrotte.eu/,43.7649846,7.45908
+1756249566,node,Les Deux Frères,hotel,Menton,"1 Place des Deux Frères, 06190, Roquebrune-Cap-Martin",06190,https://www.lesdeuxfreres.com/,43.7650097,7.4587763
+1758862701,node,Auberge Provençale,hotel,Menton,,,,43.7755996,7.5045243
+1758862702,node,Le Bouquet Garni,restaurant,Menton,,,,43.775336,7.5043042
+1758862704,node,L'Occitan,restaurant,Menton,,,,43.775526,7.5065808
+1758862705,node,Les Saveurs d'Éléonore,restaurant,Menton,,,,43.7755415,7.5069674
+1758862706,node,Le Vesuvio,restaurant,Menton,,,,43.775871,7.5075527
+1759785868,node,Monte Carlo Beach Hotel,hotel,Menton,,,https://www.montecarlosbm.com/en/hotel-monaco/monte-carlo-beach,43.7509573,7.4442146
+1837011697,node,Villa Genesis,hotel,Menton,,,,43.7689665,7.4905936
+1837011698,node,Le Dauphin,hotel,Menton,,,,43.7686757,7.4913453
+1837011699,node,Pavillon Impérial,hotel,Menton,06500,06500,,43.7693908,7.4917153
+1837011700,node,Princess & Richmond,hotel,Menton,,,,43.7699671,7.493264
+1837011701,node,Riva,hotel,Menton,,,,43.7697907,7.4930124
+1837011702,node,de Londres,hotel,Menton,,,,43.7715217,7.4954637
+2194222406,node,Le Golfe Bleu (apparthotel),hotel,Menton,,,,43.7611128,7.4547007
+3414025695,node,Pizza l'Authentique,restaurant,Menton,"18 Rue de Prato, 06500, Menton",06500,,43.7747544,7.4985964
+3798363062,node,Sa Sa No,restaurant,Menton,,,,43.7699969,7.4934396
+4200656353,node,La Roquebrunoise,restaurant,Menton,,,,43.7658378,7.4582379
+4226599976,node,Elsa,restaurant,Menton,,,https://www.montecarlosbm.com/en/restaurant-monaco/elsa,43.7508359,7.4442197
+4226615443,node,Jondal à La Vigie,restaurant,Menton,,,https://www.montecarlosbm.com/fr/restaurant-monaco/jondal-a-la-vigie,43.7499511,7.4448463
+4279092294,node,La Belle Vue,hotel,Menton,"45-47 Avenue Gabriel Hanotaux, 06190, Roquebrune-Cap-Martin",06190,http://www.labellevuercm.com/,43.7636682,7.4605273
+4316767527,node,Charme Regency,hotel,Menton,,,https://www.hotelregencymonaco.com/,43.7596323,7.4518752
+4316767605,node,Le Roquebrune,hotel,Menton,,,http://www.leroquebrune.com/,43.7597611,7.4520286
+4330022383,node,Europizza 2000,restaurant,Menton,"193 Avenue Aristide Briand, 06190, Roquebrune-Cap-Martin",06190,,43.76505,7.4831074
+4437160601,node,Brasserie Le Majestic,restaurant,Menton,,,,43.7743033,7.4961765
+4437160605,node,Brasserie Theirs,restaurant,Menton,,,,43.7738337,7.4953986
+4437187295,node,L'adresse,restaurant,Menton,,,,43.7633196,7.4854729
+4570685875,node,La Dolce Vita,restaurant,Menton,,,,43.7816616,7.5110766
+4570685876,node,Le Panama Plage,restaurant,Menton,,,,43.7814533,7.5106566
+5041693421,node,Le Balico,restaurant,Menton,Place aux Herbes,,,43.7757789,7.5068736
+5218748907,node,Hôtel Narev's,hotel,Menton,,,,43.776799,7.5036578
+5239188908,node,Casarella,restaurant,Menton,"15 Rue Grimaldi, 06190",06190,,43.764833,7.4592928
+5620791218,node,La Loca,restaurant,Menton,,,,43.7862113,7.5277675
+5675165021,node,La Coupole,restaurant,Menton,"Avenue de Verdun, 06500",06500,,43.7733313,7.4976523
+5677528123,node,Paris Palace,restaurant,Menton,,,,43.7733249,7.4998885
+5677528124,node,La Fabrique,restaurant,Menton,,,,43.7734176,7.5000686
+5677541823,node,La Gourmandise,restaurant,Menton,,,,43.7736214,7.5006997
+5697157946,node,Le Petit Prince,restaurant,Menton,,,,43.7662964,7.4887106
+5710602875,node,Hôtel Richelieu,hotel,Menton,"26 Rue Partouneaux, 06500, Menton",06500,https://www.richelieu-menton.com/,43.7747633,7.4993548
+5851719407,node,Le Lido,restaurant,Menton,,,,43.775654,7.5066025
+5871745885,node,Indian Take Away,restaurant,Menton,"10 Rue Albini, 06190",06190,http://www.iniantakeaway.com,43.7655464,7.4838285
+5959435989,node,La Fa Mi,restaurant,Menton,"2 Avenue Thiers, 06500",06500,,43.7742767,7.4951104
+6473975394,node,Le Saint-Yves,restaurant,Menton,,,,43.8000117,7.4618878
+6643918660,node,L'Exocet,restaurant,Menton,,,,43.7748402,7.5049645
+6726699385,node,Da Mitchou,restaurant,Menton,9 Promenade de la Mer,,,43.7809511,7.5099151
+6797191187,node,Les Incompris,restaurant,Menton,"7 et 8 Quai Gordon Bennett, 06500, Menton",06500,https://www.lesincompris.com/,43.776681,7.5084393
+7276136980,node,Mirazur,restaurant,Menton,,,https://www.mirazur.fr/,43.7859123,7.5280996
+7778331621,node,Le Cabanon,restaurant,Menton,,,http://plagedubuse.com/,43.7598619,7.4577941
+7779445543,node,La différAnce,restaurant,Menton,,,https://www.ladifferance.com/,43.7529964,7.4467288
+8050006412,node,Casa Fuego,restaurant,Menton,80 bis Boulevard de Garavan,,https://www.casafuego.fr,43.7862346,7.527709
+9673958446,node,Brasserie du Cap,restaurant,Menton,,,,43.7760956,7.5073527
+9673958447,node,La Vita'mine,restaurant,Menton,,,,43.7762422,7.5073437
+9774733879,node,Pierre et Vacances - Résidence Les Citronniers,hotel,Menton,,,,43.7749616,7.4993223
+9774733881,node,Pierre et Vacances - Résidence Les Rivages du Parc,hotel,Menton,,,,43.772867,7.4971685
+9839492217,node,La Crêpe,restaurant,Menton,6 Rue Trenca,,https://m.facebook.com/La-Cr%C3%AApe-%C3%A0-lEnvers-459251127933490/,43.77546,7.5048211
+9842142819,node,Le Bistrot des Jardins,restaurant,Menton,14 Avenue Boyer,,https://le-bistrot-des-jardins.fr,43.775125,7.4962853
+9942434420,node,L'Orangerie,restaurant,Menton,,,,43.7753574,7.5033496
+9954255398,node,Le Deck,restaurant,Menton,,,https://www.montecarlosbm.com/en/hotel-monaco/monte-carlo-beach/restaurants,43.7517432,7.4438789
+10005110361,node,La Pampa,restaurant,Menton,,,,43.7818895,7.5112341
+10005140717,node,Le Stanley,restaurant,Menton,"6 Place du Cap, 06500, Menton",06500,https://www.le-stanley-restaurant-menton.com/,43.7759743,7.5076868
+10308708904,node,Tony,restaurant,Menton,,,,43.7765357,7.5076879
+10886122612,node,Casa nostra pizzeria,restaurant,Menton,,,,43.7781356,7.4715662
+10945663806,node,Chez malika,restaurant,Menton,"5 Rue Honoré Augier, 06190",06190,,43.7646353,7.4849418
+10992398775,node,La Trattoria,restaurant,Menton,,,,43.7736134,7.4973675
+11083930064,node,lagom,restaurant,Menton,,,,43.7758101,7.5042008
+11118514878,node,Restaurant L'Hippocampe,restaurant,Menton,44 Avenue Sir Winston Churchill,,https://www.hippocampe-restaurant.com/,43.7540604,7.4847586
+11118566230,node,Loulou Pirate,restaurant,Menton,46 Avenue Winston Churchill,,https://www.loulou-pirate.com/,43.7556752,7.4830554
+11128425205,node,Hôtel Menton Riviera,hotel,Menton,"57 Avenue de Sospel, 06505",06505,,43.7799737,7.4934923
+11366352078,node,Citron d'or,restaurant,Menton,"39 Avenue de Verdun, 06500, Menton",06500,,43.7753661,7.4951572
+11841706274,node,Ou Pastre,restaurant,Menton,"Rue Trenca, 06500",06500,https://ou-pastre.eatbu.com/?lang=en#menu,43.7753116,7.5047208
+11910508969,node,Alexandra,hotel,Menton,,,,43.756418,7.4819571
+12057945970,node,Lyõde,restaurant,Menton,"8 Promenade de la Mer, 06500, Menton",06500,,43.7809537,7.5097388
+12118377776,node,Solenzara,restaurant,Menton,4 Promenade Robert Schuman,,https://plage-solenzara.fr,43.7640697,7.486783
+12299918301,node,Biera d'Aqui,restaurant,Menton,"63 Avenue Cernuschi, 06500",06500,https://biera-daqui-06.fr/,43.7741506,7.4893856
+12323023277,node,,restaurant,Menton,,,,43.7844646,7.5197096
+12323065094,node,,restaurant,Menton,,,,43.7747735,7.5045353
+12323068363,node,,restaurant,Menton,,,,43.7734672,7.5001926
+12323073037,node,,restaurant,Menton,,,,43.7774065,7.5075864
+12323081317,node,,restaurant,Menton,,,,43.7844646,7.5197096
+12323086770,node,,restaurant,Menton,,,,43.7769329,7.5078204
+12323093832,node,,hotel,Menton,,,,43.774759,7.50391
+12323095648,node,,restaurant,Menton,,,,43.7775125,7.5075376
+12323368757,node,,restaurant,Menton,,,,43.7712924,7.4960075
+12452885355,node,L'Ormeau,restaurant,Menton,,,,43.8035114,7.4968708
+12633138933,node,,restaurant,Menton,,,,43.7627106,7.4804047
+12717045336,node,Al Vecchio Forno,restaurant,Menton,39 Quai Bonaparte,,,43.7777906,7.5073984
+12717062934,node,,restaurant,Menton,,,,43.7785496,7.5071501
+12717072406,node,,restaurant,Menton,,,,43.7808117,7.5089474
+12717073622,node,restaurant Primo,restaurant,Menton,25 Quai Bonaparte,,,43.7771504,7.5077109
+12778843537,node,Hôtel de Belgique,hotel,Menton,,,,43.7751906,7.4944884
+12782563321,node,Da Franci,restaurant,Menton,,,,43.7754025,7.5051057
+13058579255,node,La Perle Noir - MENTON,restaurant,Menton,"7 Porte de France, 06500, Menton",06500,,43.7790808,7.5070044
+13577416201,node,Mont Goût,restaurant,Menton,7 Rue de Prato,,https://www.instagram.com/montgout/,43.7740651,7.4995165
+13577441001,node,Le Rouge-gorge,restaurant,Menton,5 Rue Max Barel,,https://www.instagram.com/lerougegorge_restaurant/,43.7750497,7.5018889
+13618470432,node,,restaurant,Menton,,,,43.7840662,7.5164546
+13618507993,node,,restaurant,Menton,,,,43.7763634,7.5076089
+13645041848,node,Iceberg,restaurant,Menton,,,,43.7757578,7.5054081
+13694806522,node,Le Lilly's,restaurant,Menton,,,,43.8008262,7.4615327
+13721357901,node,Colombale,restaurant,Menton,,,,43.7729425,7.4993095

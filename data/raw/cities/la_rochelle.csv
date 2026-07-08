@@ -1,0 +1,567 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+403636708,node,Hôtel Les Brises,hotel,La Rochelle,,,,46.1531596,-1.1741316
+492117459,node,Le Mail Plage,hotel,La Rochelle,,,,46.1919264,-1.4263945
+616665766,node,Le Manzio,restaurant,La Rochelle,22 Rue de la Scierie,,,46.148679,-1.1536333
+866553857,node,Café Restaurant du Phare,restaurant,La Rochelle,,,,46.2441312,-1.5604187
+1036509786,node,,hotel,La Rochelle,,,,46.1930193,-1.4332985
+1036531147,node,Hôtel le vieux Gréement,hotel,La Rochelle,"13 Grande Rue, 17670, La Couarde-sur-Mer",17670,,46.1943602,-1.4234329
+1188200530,node,Relais Thalasso Atalante,hotel,La Rochelle,Rue du Port Notre-Dame,,https://iledere.relaisthalasso.com/,46.1453411,-1.2961786
+1224482031,node,Côté Thalasso,hotel,La Rochelle,,,,46.2046335,-1.5277172
+1225871083,node,Au bon grain,restaurant,La Rochelle,"8 Avenue Edmond Grasset, 17690",17690,,46.1050733,-1.108748
+1336664204,node,Côté Jardin,restaurant,La Rochelle,"14 Rue Émile Atgier, 17410, Saint-Martin-de-Ré",17410,,46.2061136,-1.3653669
+1344585102,node,Le Mail,restaurant,La Rochelle,"16 Allée du Mail, 17000, La Rochelle",17000,https://www.restaurant-le-mail.com/,46.1561058,-1.1642603
+1426100232,node,Les Mouettes,restaurant,La Rochelle,28 Grande Rue,,,46.1942844,-1.4244601
+1445028102,node,Le Jardin du marché,restaurant,La Rochelle,17000,17000,https://lejardindumarche.com/,46.1618443,-1.150655
+1445028109,node,L'Ecaille - Café Leffe,restaurant,La Rochelle,52 Cours des dames,,https://www.restaurant-l-ecaille-la-rochelle-17.fr/,46.1563818,-1.1543422
+1445028123,node,Hôtel de Paris,hotel,La Rochelle,,,,46.1619813,-1.151117
+1445028127,node,Hôtel de la Paix,hotel,La Rochelle,,,https://www.hotelalarochelle.com/,46.1619694,-1.1509054
+1782445284,node,Hôtel de la Forêt,hotel,La Rochelle,,,,46.2203322,-0.8077362
+1789671142,node,La Sarasine,restaurant,La Rochelle,"4 Quai Nicolas Baudin, 17410, Saint-Martin-de-Ré",17410,,46.2052905,-1.3679343
+1789671143,node,Le Belem,restaurant,La Rochelle,17410,17410,,46.2046158,-1.3686773
+1789671148,node,Le Phare,restaurant,La Rochelle,Quai de Bernonville,,,46.2054643,-1.3675336
+1818504695,node,Le Majestic,hotel,La Rochelle,,,,46.074517,-1.0908663
+1818504696,node,Les Flots,restaurant,La Rochelle,,,,46.0748315,-1.0933823
+1818512445,node,C & D Brasil,restaurant,La Rochelle,30 Rue du Marché,,,46.0723797,-1.0913417
+1822578937,node,Wallilabou Bay,restaurant,La Rochelle,3 Rue Georges Morvan,,https://wallilaboubay.fr/,46.1434125,-1.1541991
+1823898881,node,La Marie Galante,restaurant,La Rochelle,35 Avenue des Minimes,,,46.1421504,-1.1631032
+1836469159,node,Cafétéria des Sciences,restaurant,La Rochelle,,,,46.1463279,-1.1579305
+1845263022,node,La Porte Verte,restaurant,La Rochelle,,,,46.3116845,-0.9936961
+1853984208,node,L'Équinoxe,restaurant,La Rochelle,14 Rue de l'Ange Gardien,,https://www.equinoxelarochelle.fr/,46.1405353,-1.1704426
+1854044054,node,Le comptoir d'Assia,restaurant,La Rochelle,1 Quai du Bout Blanc,,https://le-comptoir-dassia-la-rochelle.eatbu.com,46.1485325,-1.1612474
+1854044056,node,Le Comptoir du Port,restaurant,La Rochelle,"5 Rue de la Trinquette, 17000, La Rochelle",17000,,46.1488385,-1.1596297
+1867268359,node,"Le Français,",hotel,La Rochelle,,,https://www.hotellefrancais.com/,46.1880422,-1.3245919
+1874359905,node,,restaurant,La Rochelle,,,,46.2424999,-0.8133061
+1977674498,node,La Perla,restaurant,La Rochelle,"3 bis Place Léon Robin, 17220, Montroy",17220,https://www.pizzerialaperla-montroy.com/,46.1566633,-1.0133392
+2109399844,node,Le Chat Botté,hotel,La Rochelle,23,,https://www.hotelchatbotte.com/,46.2283777,-1.5419772
+2109399853,node,Le Jardin du Chabot,restaurant,La Rochelle,"20 Rue de la Mairie, 17590, Saint-Clément-des-Baleines",17590,,46.2286303,-1.5415912
+2181742490,node,Tasdon Pizza,restaurant,La Rochelle,,,,46.1458304,-1.1429391
+2181816925,node,Bonheur du soleil,restaurant,La Rochelle,,,,46.1470745,-1.1430879
+2181816928,node,La Taverne de Tasdon,restaurant,La Rochelle,,,,46.1472075,-1.1431016
+2181816937,node,Garde manger,restaurant,La Rochelle,41 Rue Émile Normandin,,https://garde-manger.jimdosite.com,46.1486662,-1.1437723
+2238678581,node,La Solette,restaurant,La Rochelle,11 Place de la Fourche,,,46.1577283,-1.1491912
+2371035186,node,La Marée,restaurant,La Rochelle,1 Avenue de Colmar,,https://la-maree.fr,46.1540015,-1.148325
+2395483666,node,Le Paradiso,restaurant,La Rochelle,"71, 17340, Châtelaillon-Plage",17340,,46.0777852,-1.0923023
+2421455198,node,Le Bistrot,restaurant,La Rochelle,3 Cours des Écoles,,,46.1557702,-1.3321702
+2421458666,node,Le Chai,restaurant,La Rochelle,,,,46.1526092,-1.3158464
+2434062180,node,Les Tilleuls,restaurant,La Rochelle,Place des Tilleuls,,,46.1550746,-1.3322189
+2445858407,node,Ristorante Del Arte,restaurant,La Rochelle,30 Rue de la Scierie,,https://www.delarte.fr/restaurants/4383-la-rochelle-les-minimes,46.147224,-1.1533534
+2445858408,node,Hôtel Première Classe,hotel,La Rochelle,"32 Rue de la Scierie, 17033, La Rochelle",17033,,46.1468719,-1.1531339
+2457802224,node,L'Escale,restaurant,La Rochelle,"2 Place des Tilleuls, 17740, Sainte-Marie-de-Ré",17740,,46.1551309,-1.3326152
+2489449221,node,Bun's garden,restaurant,La Rochelle,"17 Rue Alfred Kastler, 17000, La Rochelle",17000,https://buns-garden.fr/,46.1399288,-1.1596354
+2517172197,node,Pizza Giovanni,restaurant,La Rochelle,"46 Rue des Écoles, 17180, Périgny",17180,http://www.pizza-giovanni.fr/,46.167456,-1.1099336
+2613280752,node,La cuillère d'olives,restaurant,La Rochelle,,,,46.1383024,-1.0231486
+2703787634,node,Le Café de la Mer,restaurant,La Rochelle,"Rue du Port, 17137, Nieul-sur-Mer",17137,,46.2026516,-1.2057358
+2703787766,node,Port Lauzières,restaurant,La Rochelle,"Rue du Port, 17137, Nieul-sur-Mer",17137,https://www.portlauzieres.com,46.2024956,-1.2055937
+2745418631,node,Asset,restaurant,La Rochelle,"329 Columbus Avenue, 10023, New York",10023,https://www.assetrestaurant.com,40.7795342,-73.9769922
+2808320220,node,La Bazenne,restaurant,La Rochelle,"14 Place de la Liberté, 17880",17880,,46.2495514,-1.4991823
+2808320221,node,La Case A Vent,restaurant,La Rochelle,"8 Place de la Liberté, 17880",17880,,46.2496458,-1.4991611
+2808384834,node,Le Bistrot Du Marin,restaurant,La Rochelle,"10 Quai Nicolas Baudin, 17410",17410,,46.2052094,-1.3681935
+2808384835,node,Le Cervane,restaurant,La Rochelle,"12 Rue de la Crapaudière, 17410",17410,https://www.lecervane.com/bar-tapas-ile-de-re/,46.2055026,-1.3682438
+2968814915,node,Saint-Maurice Pizza,restaurant,La Rochelle,"129 Avenue Edmond Grasset, 17000, La Rochelle",17000,https://www.saintmauricepizza.com/,46.1639258,-1.1747138
+3050197801,node,Les Deux Fourches,restaurant,La Rochelle,,,,46.2256132,-1.0209513
+3057440555,node,L'Étoile du marin,restaurant,La Rochelle,7 Place du Commandant de la Motte Rouge,,,46.1558035,-1.1483848
+3057474210,node,Un voyage à Damas,restaurant,La Rochelle,13 Quai de Marans,,https://unvoyageadamas.com,46.1553781,-1.1478395
+3057514511,node,Chez Titou,restaurant,La Rochelle,"39 Quai du Gabut, 17000, La Rochelle",17000,,46.1557776,-1.1516205
+3057514516,node,Brasserie Saint-Nicolas,restaurant,La Rochelle,"37 Quai du Gabut, 17000, La Rochelle",17000,,46.1557823,-1.1515081
+3057531954,node,Le Cabestan,restaurant,La Rochelle,,,,46.1552416,-1.1515094
+3057550774,node,O'ZEN,restaurant,La Rochelle,,,,46.1553551,-1.151274
+3057550782,node,La Cav' à So',restaurant,La Rochelle,29-31 Quai du Gabut,,,46.1557765,-1.1511871
+3057550783,node,Le Verre Luisant,restaurant,La Rochelle,"27 Quai du Gabut, 17000, La Rochelle",17000,https://le-verre-luisant-la-rochelle.eatbu.com,46.1557786,-1.1510709
+3057550786,node,Café du Nord,restaurant,La Rochelle,19 Quai du Gabut,,https://lecafedunord.com/,46.1557893,-1.1506529
+3057552445,node,La Monnaie,hotel,La Rochelle,"3 Rue de la Monnaie, 17000, La Rochelle",17000,,46.156174,-1.1578138
+3057552446,node,Trianon,hotel,La Rochelle,"6 Rue de la Monnaie, 17000, La Rochelle",17000,,46.1563357,-1.1583742
+3057603856,node,La marine,hotel,La Rochelle,,,,46.1580248,-1.1567563
+3057604550,node,Hôtel de l'Océan,hotel,La Rochelle,,,,46.1570938,-1.1542351
+3057604556,node,Le Fratel',restaurant,La Rochelle,"1 Quai Valin, 17000",17000,,46.158014,-1.150443
+3057604557,node,Hôtel de la Tour de Nesle,hotel,La Rochelle,,,https://www.hoteltourdenesle.com/,46.1581126,-1.150298
+3057604558,node,Le Rupella,hotel,La Rochelle,,,,46.1583142,-1.151019
+3057604566,node,Henri IV,hotel,La Rochelle,,,https://www.henry-iv.fr,46.1590093,-1.1515622
+3059223543,node,Hôtel Atlantic,hotel,La Rochelle,,,,46.1573405,-1.1551363
+3059242658,node,La Voile Blanche,restaurant,La Rochelle,,,,46.1557488,-1.1502674
+3059242659,node,Les Grands Yachts,restaurant,La Rochelle,,,,46.1557536,-1.1500268
+3059304533,node,André,restaurant,La Rochelle,5 Rue Saint-Jean du Pérot,,,46.1564114,-1.1548898
+3059312943,node,Le Bateau Ivre,restaurant,La Rochelle,,,,46.1569206,-1.1543342
+3059318032,node,Les 4 Sergents,restaurant,La Rochelle,49 Rue Saint-Jean du Pérot,,https://www.les4sergents.com/,46.1561707,-1.1564219
+3059318333,node,Le Comptoir Italien,restaurant,La Rochelle,,,,46.1564134,-1.1553417
+3062780751,node,Loma,restaurant,La Rochelle,19 Rue Saint-Nicolas,,https://loma-restaurant.fr/,46.1577181,-1.1494308
+3071870178,node,Les Jasmins,restaurant,La Rochelle,10 Rue Saint-Nicolas,,,46.1577862,-1.1495979
+3071899351,node,Prao,restaurant,La Rochelle,,,https://restaurantprao.fr,46.1579071,-1.1497238
+3076491384,node,Cosmopolite café,restaurant,La Rochelle,,,,46.1438895,-1.1537181
+3092409729,node,La bonne pâte,restaurant,La Rochelle,Place de la Fourche,,https://labonnepatelarochelle.fr,46.1579109,-1.149174
+3094016785,node,Masq Hôtel,hotel,La Rochelle,,,https://masqhotel.com,46.1549189,-1.1449583
+3094016786,node,B&B Hôtel,hotel,La Rochelle,"140 Boulevard Joffre, 17000, La Rochelle",17000,https://www.hotel-bb.com/fr/hotel/la-rochelle-centre,46.154538,-1.1444836
+3094016788,node,Hôtel Saint-Nicolas,hotel,La Rochelle,,,,46.1581312,-1.1487617
+3094245600,node,Brasserie Là-Haut,restaurant,La Rochelle,"Quai Louis Prunier, 17000, La Rochelle",17000,https://brasserie-la-haut-la-rochelle.com,46.1535109,-1.1506489
+3094403399,node,Café Barrière,restaurant,La Rochelle,"15 Allée du Mail, 17000, La Rochelle",17000,https://www.casinosbarriere.com/la-rochelle/cafe-barriere,46.1554214,-1.1660629
+3107167488,node,Le 1929,restaurant,La Rochelle,"13 Rue des Cloutiers, 17000, La Rochelle",17000,,46.162525,-1.1486975
+3166777861,node,Résidence-Club La Fayette,hotel,La Rochelle,Avenue de Bourgogne,,https://residencelafayette.org/,46.1546413,-1.1845881
+3235817579,node,,restaurant,La Rochelle,,,,46.1445239,-0.9439433
+3337736297,node,La benèze,restaurant,La Rochelle,,,,46.1612194,-1.1488935
+3346610928,node,L'ardoise des Cloutiers,restaurant,La Rochelle,,,https://lardoise-des-cloutiers.fr,46.1622826,-1.1489547
+3483480506,node,B&B Hôtel,hotel,La Rochelle,"84 Rue du 18 Juin, 17138, Puilboreau",17138,https://www.hotel-bb.com/fr/-/hotelByName.htm?id=4571,46.1782812,-1.102739
+3486535794,node,Seoul,restaurant,La Rochelle,25 Rue Saint-Jean du Pérot,,,46.1562062,-1.1554815
+3486536093,node,Aperta,restaurant,La Rochelle,,,,46.1620562,-1.1491392
+3486536393,node,Les petits clous,restaurant,La Rochelle,,,https://www.facebook.com/omelettedelicerestaurant,46.1620329,-1.1489922
+3486589751,node,Pizzeria Lucgi,restaurant,La Rochelle,"10 Boulevard du Commandant Charcot, 17440, Aytré",17440,https://www.lucgi.fr/,46.1344973,-1.1268349
+3487550093,node,Le Bistrot d'la Chaîne,restaurant,La Rochelle,,,,46.1560282,-1.1549826
+3487550193,node,La Dame de Trèfle,restaurant,La Rochelle,46 Cours des dames,,https://la-dame-de-trefle.eatbu.com,46.1568288,-1.1545146
+3487550293,node,Un Hôtel en Ville,hotel,La Rochelle,20 Place du Maréchal Foch,,http://www.unhotelenville.fr,46.1572167,-1.1563272
+3489179894,node,Maisons du Monde,hotel,La Rochelle,Rue de la Chaîne,,https://larochelle.maisonsdumondehotel.com/,46.1563674,-1.1546013
+3489180294,node,Ô bouchon,restaurant,La Rochelle,,,,46.1613368,-1.1486259
+3489180493,node,Les frangins,restaurant,La Rochelle,,,,46.1614717,-1.1484511
+3489181193,node,Bistrot d'André,restaurant,La Rochelle,,,,46.156206,-1.1545083
+3489237293,node,Les Flots,restaurant,La Rochelle,,,,46.1559493,-1.1544368
+3489237493,node,Au steak house,restaurant,La Rochelle,,,,46.1572565,-1.1554755
+3498015086,node,Le Pass'Port,restaurant,La Rochelle,,,,46.1582835,-1.1518417
+3512898528,node,La Mostra,restaurant,La Rochelle,,,,46.201727,-1.1738364
+3512898531,node,Aux Plaisirs du Moulin,restaurant,La Rochelle,"Avenue du Grand Large, Nieul-sur-Mer",,,46.2020861,-1.1746503
+3517649472,node,Le Bugatti,restaurant,La Rochelle,,,https://restaurant-chatelaillon.fr/,46.0761334,-1.0935738
+3517649473,node,Le Rivage,hotel,La Rochelle,,,,46.0782098,-1.0940861
+3517649474,node,L'Acadie,hotel,La Rochelle,,,,46.0786806,-1.0943302
+3560581563,node,Le V,restaurant,La Rochelle,3 Quai de la Criée,,,46.2102073,-1.5125457
+3560588825,node,Chez Rémi,restaurant,La Rochelle,1 Quai de la Criée,,,46.210133,-1.5126261
+3625730505,node,L'Étoile Berbère,restaurant,La Rochelle,,,,46.1562542,-1.157222
+3626267893,node,Ragazzi da Peppone,restaurant,La Rochelle,"32 Rue Saint-Nicolas, 17000, La Rochelle",17000,,46.1570604,-1.1493207
+3642820125,node,Christopher Coutanceau,restaurant,La Rochelle,"Plage de la Concurrence, 17000, La Rochelle",17000,https://christophercoutanceau.com/,46.1553795,-1.1599853
+3886689762,node,Le burger voyageur,restaurant,La Rochelle,,,,46.3102979,-0.9936075
+3970289202,node,Le Galet Doré,restaurant,La Rochelle,,,,46.1934451,-1.1874765
+3999884486,node,L'Air Marin,hotel,La Rochelle,,,,46.0184468,-1.0514061
+3999884487,node,L'Air Marin,restaurant,La Rochelle,,,,46.0185252,-1.0514556
+4071794415,node,L'émeraude,restaurant,La Rochelle,,,,46.2480366,-1.5055512
+4071802324,node,,hotel,La Rochelle,,,,46.2498848,-1.4973383
+4073681322,node,Bon Temps,restaurant,La Rochelle,35 Rue Saint-Jean du Pérot,,https://bontemps-larochelle.com/,46.1561355,-1.1558563
+4073681323,node,La Pierrevue,restaurant,La Rochelle,"2 Place de la Mairie, 17220, Saint-Rogatien",17220,https://www.lapierrevue.com/,46.1509413,-1.0742098
+4109950289,node,"L'Escale Marine, Appart-hotel",hotel,La Rochelle,"36 Avenue Amerigo Vespucci, 17000, La Rochelle",17000,,46.1507351,-1.1549467
+4195313740,node,L'Angolino Italiano,restaurant,La Rochelle,"9 Rue de Motronne, 17590, Ars-en-Ré",17590,,46.2058959,-1.5206274
+4195379189,node,Le Clocher,hotel,La Rochelle,,,https://hotel-ile-de-re-leclocher.com/,46.2083549,-1.5160053
+4197209005,node,Hôtel Le Sénéchal,hotel,La Rochelle,6 Rue Gambetta,,https://www.hotel-le-senechal.com/,46.2075079,-1.5164257
+4200722337,node,Fleur de ré,hotel,La Rochelle,"13 Rue du Pertuis, 17111, Loix",17111,,46.2211112,-1.4395539
+4243457230,node,Delice Pizza,restaurant,La Rochelle,"67 Rue d'Aligre, 17230, Marans",17230,http://delice.pizza.free.fr/,46.30908,-0.9922202
+4320427329,node,,restaurant,La Rochelle,,,,46.1379496,-1.1293319
+4339638389,node,La Fleur de Sel,restaurant,La Rochelle,,,https://www.lafleurdesel-larochelle.com/,46.1561684,-1.1562699
+4356496101,node,Le Trimaran,restaurant,La Rochelle,,,,46.1410967,-1.1687682
+4356496102,node,Le Cargo,restaurant,La Rochelle,,,,46.1411293,-1.1686019
+4356496103,node,Le Calypso,restaurant,La Rochelle,,,,46.1411599,-1.1684571
+4359319885,node,Yamato (fermé),restaurant,La Rochelle,5 Rue du Minage,,,46.1625017,-1.149667
+4387857119,node,So Dream,restaurant,La Rochelle,,,,46.1630602,-1.149279
+4409721706,node,Les Embruns,restaurant,La Rochelle,"6 Rue Chay Morin, 17410",17410,,46.2055205,-1.3677118
+4430471091,node,Hôtel & Résidence Club mmv Le Domaine du Château,hotel,La Rochelle,,,,46.1852027,-1.1740195
+4622211069,node,Le Ré-Galet,restaurant,La Rochelle,355 Avenue de la Plage,,,46.1580337,-1.2684996
+4687598169,node,Chez Steph,restaurant,La Rochelle,"6 Rue des Caillotières, 17630, La Flotte",17630,,46.1803778,-1.32509
+4764674451,node,Côté Thalasso,restaurant,La Rochelle,,,,46.2045409,-1.5275233
+4764674453,node,Les Frères de la Côte,restaurant,La Rochelle,,,,46.201198,-1.5234087
+4807240833,node,New Asie,restaurant,La Rochelle,"84 Rue du 18 Juin, 17138, Puilboreau",17138,,46.1783692,-1.1029031
+4851455518,node,Le Café du Commerce,restaurant,La Rochelle,"6 Quai de la Prée, 17590, Ars-en-Ré",17590,https://www.cafcom-ars.com/,46.209715,-1.5122543
+4858061521,node,La table basque,restaurant,La Rochelle,,,,46.1420684,-1.1631276
+4876114521,node,L'Épi de blé,restaurant,La Rochelle,2 Rue du Port,,https://creperielarochelle.wixsite.com/epideble,46.1587795,-1.1514964
+4945253345,node,Le Yassa,restaurant,La Rochelle,"6 Rue de Bel Air, 17000, La Rochelle",17000,,46.1693087,-1.1699154
+4950862123,node,The Riddler,restaurant,La Rochelle,"High Street, Dublin",,,53.3431753,-6.2747683
+5064132498,node,La Taverne du Rescator,restaurant,La Rochelle,,,,46.1588135,-1.1511848
+5064132595,node,Annette,restaurant,La Rochelle,"14 Rue Bletterie, 17000, La Rochelle",17000,https://www.instagram.com/restaurant_annette/,46.1591905,-1.1508808
+5064730846,node,La Nouvelle Brasserie des Dames,restaurant,La Rochelle,,,,46.1578995,-1.1536476
+5071893747,node,Le thaï Gourmand,restaurant,La Rochelle,"17137, Nieul-sur-Mer",17137,,46.2028218,-1.1758831
+5072005498,node,À La Plancha,restaurant,La Rochelle,"12 bis Cours Félix Faure, La Flotte",,,46.188952,-1.3258169
+5080910251,node,My Self Restaurant,restaurant,La Rochelle,,,,46.1521644,-1.1545648
+5494247221,node,Le Tout du Cru,restaurant,La Rochelle,"9 Quai Job Foran, 17410, Saint-Martin-de-Ré",17410,https://www.tout-du-cru.fr/,46.2049605,-1.3663405
+5535655389,node,Opaline,restaurant,La Rochelle,"20 Rue Rambaud, 17000, La Rochelle",17000,,46.1634515,-1.1536953
+5602642825,node,Casa della Pizza,restaurant,La Rochelle,"99 Avenue du Lieutenant Colonel Bernier, 17000, La Rochelle",17000,https://casadellapizza.fr/,46.1701649,-1.1586714
+5626829493,node,La cave de Laleu,restaurant,La Rochelle,,,,46.1689106,-1.2000646
+5661199512,node,L’Avant-Port,restaurant,La Rochelle,"8 Quai Daniel Rivaille, 17410, Saint-Martin-de-Ré",17410,https://www.lavantport.com/,46.2068188,-1.3668997
+5661217114,node,Hôtel de Toiras,hotel,La Rochelle,"33 Avenue Victor Bouthillier, 17410, Saint-Martin-de-Ré",17410,https://hotel-de-toiras.com/fr/,46.2053056,-1.3662618
+5776572090,node,A l'Ouest,restaurant,La Rochelle,6,,,46.2280882,-1.5428628
+5776610409,node,Le Comptoir de Walter,restaurant,La Rochelle,"Rue Saint-Nicolas, 17000, La Rochelle",17000,https://lecomptoirdewalter.info,46.1569565,-1.1491378
+5778825611,node,Le Chasse Marée,restaurant,La Rochelle,,,,46.2497829,-1.4987643
+5815045527,node,Gueuleton,restaurant,La Rochelle,"12 Rue Chef de Ville, 17000, La Rochelle",17000,https://www.gueuleton.fr/gueuleton-la-Rochelle/,46.1584253,-1.1544983
+5815045530,node,Les Hédonistes,restaurant,La Rochelle,,,,46.1571126,-1.1555825
+5817802983,node,Le Madrague,restaurant,La Rochelle,"Pointe du Chay - Plage de la Platere, 17690 Angoulins sur Mer",,,46.1053101,-1.1339749
+5821154275,node,La Bigoudène,restaurant,La Rochelle,,,,46.1562321,-1.1569566
+5821154276,node,Les Fils à Maman,restaurant,La Rochelle,,,,46.1562048,-1.1567753
+5821154284,node,,restaurant,La Rochelle,46 Rue Saint-Jean du Pérot,,,46.1563445,-1.156652
+5821154287,node,Koï,restaurant,La Rochelle,,,,46.1563338,-1.1565172
+5821154289,node,Sri Krishna,restaurant,La Rochelle,,,,46.1563057,-1.1563658
+5821154290,node,Shalimar,restaurant,La Rochelle,"39 Rue Saint-Jean du Pérot, 17000",17000,https://shalimar-restaurant-larochelle.fr/,46.1561383,-1.1559743
+5821154296,node,Les Pâtes Volantes,restaurant,La Rochelle,,,https://les-pates-volantes-restaurant.eatbu.com/,46.1561625,-1.1556585
+5823845369,node,Crêperie des Dames,restaurant,La Rochelle,,,,46.1570642,-1.1541664
+5823845633,node,La Popote de la Mer,restaurant,La Rochelle,,,,46.1569663,-1.154287
+5823845953,node,Les 2 Tours,restaurant,La Rochelle,,,,46.1570178,-1.1542219
+5827481235,node,Ô Bistrot Gourmand,restaurant,La Rochelle,"3 Route de la Rochelle, 17230, Andilly",17230,,46.264999,-1.0077304
+5846907065,node,Le P’tit Amiral,restaurant,La Rochelle,"12 Rue de la Chaîne, 17000, La Rochelle",17000,https://restaurantleptitamiral.eatbu.com/,46.1560667,-1.1548213
+5857079521,node,Hôtel Le Manoir,hotel,La Rochelle,Avenue du Général Leclerc,,https://www.hotel-le-manoir.fr/,46.1628599,-1.1605637
+6128687962,node,Carola Pizz,restaurant,La Rochelle,"Avenue de l'ïle d'Oléron, 17137, Marsilly",17137,,46.2304202,-1.134204
+6168592545,node,Hôtel Les Colonnes,hotel,La Rochelle,"19 Quai Job Foran, 17410, Saint-Martin-de-Ré",17410,,46.2048761,-1.3670391
+6338150880,node,142 Avenue,restaurant,La Rochelle,"Avenue des Corsaires, 17000, La Rochelle",17000,,46.1692084,-1.170636
+6396993728,node,La Grand Rive,restaurant,La Rochelle,"24 Quai Duperré, 17000, La Rochelle",17000,,46.1582648,-1.1525416
+6494963885,node,Le Préau,restaurant,La Rochelle,"120 Rue Jules Ferry, 17940, Rivedoux-Plage",17940,,46.1595841,-1.2743535
+6495819687,node,Le Café de la Plage,restaurant,La Rochelle,28 Avenue du Peu Ragot,,https://m.facebook.com/cdlp17/,46.1927385,-1.4334888
+6500516785,node,Le Floana,restaurant,La Rochelle,28 Avenue du Peu Ragot,,,46.1926844,-1.433699
+6624638490,node,La tribu - Cave à manger,restaurant,La Rochelle,,,,46.1869284,-1.3247372
+6648218085,node,Brasserie Jean,restaurant,La Rochelle,"10 Avenue Jean Guiton, 17000",17000,,46.1591232,-1.1613005
+6648225385,node,Le Trot Quai,restaurant,La Rochelle,"12 Avenue Jean Guiton, 17000",17000,,46.1591494,-1.1617436
+6676108137,node,Western Grill,restaurant,La Rochelle,,,,46.3111393,-0.9913599
+6676108138,node,Le Rev’ Goch’,restaurant,La Rochelle,,,,46.3111453,-0.991266
+6731611160,node,Le Napoli,restaurant,La Rochelle,"1 Grande Rue, 17170, Courçon",17170,https://www.www.courconpizza.fr/,46.2435129,-0.8128836
+6738727399,node,Chez Mick Bières et Viandes,restaurant,La Rochelle,"8 Boulevard André Sautel, 17000, La Rochelle",17000,,46.1667132,-1.1362595
+6738768353,node,Les Rosiers,hotel,La Rochelle,"56 Boulevard André Sautel, 17000, La Rochelle",17000,http://hotel-lesrosiers.com,46.1675447,-1.1336965
+6799594586,node,Mme Sardine,restaurant,La Rochelle,"49 Quai de la Poithevinière, 17410",17410,,46.2049809,-1.3695332
+6805544356,node,La Cas'a Lolo,restaurant,La Rochelle,,,,46.1050217,-1.1087407
+6812407007,node,Le Panier de Crabe,restaurant,La Rochelle,"9 Place de la Fourche, 17000, La Rochelle",17000,,46.157711,-1.1489878
+6818086677,node,Le Saphir,restaurant,La Rochelle,1 Place de la Gare,,,46.3048045,-1.0011761
+6895589536,node,Saveur dans L'R,restaurant,La Rochelle,18 Rue Gambetta,,https://saveursdanslr.fr,46.1617495,-1.1477559
+6897984593,node,Yemanja,restaurant,La Rochelle,"23 Rue Léonce Vieljeux, 17000, La Rochelle",17000,https://www.instagram.com/yemanja.larochelle/,46.1578004,-1.1553842
+6979446126,node,Memphis,restaurant,La Rochelle,,,,46.1731879,-1.1182451
+7007083975,node,Perle de l'Île Maurice,restaurant,La Rochelle,,,,46.1481122,-1.1432688
+7016361502,node,Délices d'Angkor,restaurant,La Rochelle,,,,46.312647,-0.9916281
+7016361680,node,Le Rozell de Marans,restaurant,La Rochelle,,,,46.3112778,-0.9924743
+7016361681,node,Le Resto des Quais,restaurant,La Rochelle,,,,46.3112852,-0.9926567
+7157363673,node,L'antre copains,restaurant,La Rochelle,,,,46.1613268,-1.148534
+7170558743,node,Le Boute en train,restaurant,La Rochelle,,,,46.1624853,-1.1490375
+7170558744,node,Le Bistrot des Bonnes Femmes,restaurant,La Rochelle,,,,46.1624955,-1.1490906
+7170558748,node,Le Rouge aux Lèvres,restaurant,La Rochelle,4 Rue des Cloutiers,,https://lerouge-auxlevres.fr/,46.1621424,-1.1489237
+7194106520,node,Sawa,restaurant,La Rochelle,"58 Rue Albert 1er, 17000, La Rochelle",17000,,46.1662407,-1.1508354
+7195442824,node,Loussa Pizza,restaurant,La Rochelle,"11 Avenue Denfert-Rochereau, 17000, La Rochelle",17000,https://www.loussa-pizza.com/,46.165443,-1.1883205
+7236340385,node,Les viviers,restaurant,La Rochelle,"573 Avenue de la Corniche, 17940",17940,,46.1689462,-1.2831787
+7236341485,node,La chaloupe,restaurant,La Rochelle,"104 Avenue Albert Sarrault, 17940",17940,,46.1610859,-1.2767161
+7272083670,node,La Fabrique,hotel,La Rochelle,,,https://www.hotellafabrique.com,46.1561968,-1.14842
+7334448205,node,L'Hysope,restaurant,La Rochelle,25 Rue de l'Aurore,,https://www.lhysope.fr/fr,46.1294876,-1.0103579
+7342256942,node,Le Rendez-Vous,restaurant,La Rochelle,2 Avenue de la Plage,,,46.1859276,-1.3924621
+7401280673,node,AU 404 BR,restaurant,La Rochelle,"2 bis Zone Artisanale des Beaux Vallons, 17540, Saint-Sauveur-d'Aunis",17540,https://www.barsnack-au404br17.fr/,46.2301668,-0.8808289
+7548958153,node,Hôtel Ibis,hotel,La Rochelle,,,,46.1612714,-1.1508082
+7556985495,node,Royal Wok,restaurant,La Rochelle,,,https://royalwok17600.fr/,46.1023497,-1.0961965
+7666944753,node,Chabatz d'entrar...,restaurant,La Rochelle,,,,46.1419759,-1.1563144
+7677828685,node,Le Baron Moleskine,restaurant,La Rochelle,,,,46.1593333,-1.150046
+7680306387,node,Le Libanais,restaurant,La Rochelle,,,,46.1580662,-1.1548886
+7680310390,node,Poké Bowl & Ramen,restaurant,La Rochelle,,,,46.1586604,-1.1536031
+7700673886,node,Ohayo,restaurant,La Rochelle,,,,46.1406004,-1.1662757
+7717565877,node,La Cabane du Feneau,restaurant,La Rochelle,"Route de Loix, 17670, La Couarde-sur-Mer",17670,https://www.lacabanedufeneau.fr/,46.2118009,-1.4608161
+7717600929,node,Escale du Marais,restaurant,La Rochelle,"Route de Loix, 17670, La Couarde-sur-Mer",17670,,46.2109979,-1.4603721
+7717642785,node,La Cabane de Feneau,restaurant,La Rochelle,"Route de Loix, 17670",17670,,46.2118061,-1.4607984
+7721683364,node,Le Français,restaurant,La Rochelle,"1 Cours Félix Faure, 17630, La Flotte",17630,https://www.hotellefrancais.com/,46.1880429,-1.3245866
+7721683365,node,L'Écailler,restaurant,La Rochelle,"3 Quai de Senac, 17630, La Flotte",17630,https://www.lecailler-iledere.com/,46.1877723,-1.3245439
+7721683381,node,Le Saint Georges,restaurant,La Rochelle,"10 Quai de Senac, 17630, La Flotte",17630,,46.1872829,-1.3244375
+7721718666,node,Le Nautic,restaurant,La Rochelle,"2 Rue Jean Henry-Laîné, 17630, La Flotte",17630,,46.1870818,-1.3238885
+7721732802,node,L'Escale,restaurant,La Rochelle,"13 Quai de Senac, 17630, La Flotte",17630,,46.1872012,-1.3243261
+7721732807,node,La Fiancée du Pirate,restaurant,La Rochelle,"15 Quai de Senac, 17630, La Flotte",17630,,46.1871375,-1.32412
+7721756426,node,L'endroit du goinfre,restaurant,La Rochelle,"1 Rue Jean Henry-Laîné, 17630, La Flotte",17630,,46.1871929,-1.3233983
+7721794006,node,Bitrotteur,restaurant,La Rochelle,"18 Quai de Senac, 17630, La Flotte",17630,,46.1874546,-1.3234749
+7721975282,node,Chai Nous comme Chai Vous,restaurant,La Rochelle,"1 Rue de La Garde, 17630, La Flotte",17630,https://www.chainouscommechaivous.fr/,46.1869451,-1.3239634
+7724922078,node,Sushi folie,restaurant,La Rochelle,"18 Rue Charles Biret, 17630, La Flotte",17630,http://www.sushifolie.com,46.1867647,-1.3246361
+7724945559,node,La Croisette,restaurant,La Rochelle,"10 Cours Félix Faure, La Flotte",,,46.1888904,-1.3256188
+7724945560,node,Les Pieds dans l'Eau,restaurant,La Rochelle,"8 Cours Félix Faure, La Flotte",,,46.1888012,-1.3253926
+7737932485,node,Pattaya,restaurant,La Rochelle,"Rue de la Chaîne, 17000, La Rochelle",17000,https://restaurantpattaya.eatbu.com,46.1559012,-1.1549737
+7775198855,node,Hôtel de Ré - The Originals,hotel,La Rochelle,12,,https://www.hoteldere.com,46.1499297,-1.3040771
+7777271127,node,Le patio,restaurant,La Rochelle,,,,46.2434973,-1.5588624
+7777325013,node,La cabine de bain,restaurant,La Rochelle,33 Grande Rue,,,46.1941121,-1.425733
+7777369360,node,Le balaou,restaurant,La Rochelle,,,,46.1935012,-1.432394
+7780473929,node,La cabane de l'huître du saunier,restaurant,La Rochelle,,,,46.2094314,-1.4397081
+7788036379,node,La cabane,restaurant,La Rochelle,9 Allée du Phare,,,46.2432757,-1.5594035
+7794956817,node,Cabane du boutillon,restaurant,La Rochelle,,,,46.2038323,-1.4790569
+7794957135,node,La Rhetaise,restaurant,La Rochelle,,,,46.2116407,-1.4550467
+7796177484,node,Le Platin,restaurant,La Rochelle,"125 Avenue Gustave Perreau, 17940, Rivedoux-Plage",17940,,46.1586712,-1.2710918
+7796205648,node,La case des îles,restaurant,La Rochelle,504 Avenue Gustave Perreau,,,46.1588559,-1.2672379
+7802890933,node,Le Pas Sage du Marché,restaurant,La Rochelle,7 Square du 11 Novembre,,,46.1879849,-1.3264864
+7810422366,node,Le Grain de Sable,restaurant,La Rochelle,99 Boulevard de la Mer,,,46.069714,-1.0928122
+8000670101,node,Le Rochelois,hotel,La Rochelle,,,,46.1541566,-1.1827111
+8010080723,node,Le Pompon,restaurant,La Rochelle,41 Quai Valin,,https://www.brasserielepompon.com/,46.1566257,-1.1495431
+8010091603,node,Le Merluberlu,restaurant,La Rochelle,37 Quai Valin,,https://merluberlularochelle.fr,46.1567821,-1.1495967
+8010638323,node,Bistrot Gourmand,restaurant,La Rochelle,,,,46.1574658,-1.1538404
+8212491094,node,June,restaurant,La Rochelle,17 Rue des Dames,,https://junelarochelle.fr/,46.1609148,-1.1492407
+8212537536,node,Le Bistrot de Mémé,restaurant,La Rochelle,,,https://www.bistrot-de-meme-17.com,46.1424035,-1.1630481
+8235819175,node,Annam,restaurant,La Rochelle,,,,46.1613022,-1.1483623
+8479934469,node,Mr Klaxon,restaurant,La Rochelle,"Rue de Ligoure, 17540, Saint-Sauveur-d'Aunis",17540,,46.2176948,-0.8867421
+8537058218,node,Le Comptoir Saoufé,restaurant,La Rochelle,,,,46.1585427,-1.1516665
+8537058225,node,L'Italien,restaurant,La Rochelle,,,,46.1586841,-1.1507168
+8537081418,node,Via Roma,restaurant,La Rochelle,,,,46.1586677,-1.151577
+8537081419,node,Le Bistrot du Port,restaurant,La Rochelle,Rue du Port,,,46.1585197,-1.1515388
+8537081422,node,Paradie d'Asie,restaurant,La Rochelle,,,,46.1587815,-1.1509743
+8537081617,node,Sushi Royal,restaurant,La Rochelle,,,,46.1587062,-1.1515431
+8537081619,node,Papy Mougeot,restaurant,La Rochelle,21 Rue Bletterie,,,46.1589151,-1.1511081
+8537082917,node,Nonno Leo,restaurant,La Rochelle,18 Rue Bletterie,,https://www.nonnoleo.fr/,46.1591071,-1.150983
+8635414275,node,Pasta ciao,restaurant,La Rochelle,,,,46.1593343,-1.1502137
+8718629378,node,Première Classe,hotel,La Rochelle,15 Rue Gutenberg,,https://la-rochelle-sud-aytre.premiereclasse.com/,46.1325103,-1.0997446
+8773065281,node,La table d’Anaïs,restaurant,La Rochelle,17590,17590,,46.2284097,-1.5418692
+8825626581,node,Inn Design Resto Novo,hotel,La Rochelle,,,,46.1694369,-1.1211998
+8856995248,node,Le delphin,restaurant,La Rochelle,,,,46.1416056,-1.1676423
+8935389965,node,L’Atlantique,restaurant,La Rochelle,,,,46.2048885,-1.4670291
+8935932419,node,La Maison du Curry,restaurant,La Rochelle,21 Rue des Dames,,https://lamaisonducurry.fr/,46.1610006,-1.1492271
+8935941218,node,El Gauchito,restaurant,La Rochelle,19 Rue des Dames,,https://www.elgauchito.fr/,46.1609548,-1.149232
+8977881509,node,Boniato,restaurant,La Rochelle,"16 Rue des Cloutiers, 17000, La Rochelle",17000,https://leboniato.wixsite.com/boniato,46.1624162,-1.1486884
+9008324123,node,Carlotta,restaurant,La Rochelle,"30 Rue Saint-Jean du Pérot, 17000",17000,https://www.leclandesmamma.com/carlotta-la-rochelle/,46.1562796,-1.1560919
+9023569882,node,Fingers,restaurant,La Rochelle,"27 Rue des Dames, 17000, La Rochelle",17000,,46.1611343,-1.1492074
+9063556553,node,Hôtel François 1er,hotel,La Rochelle,,,,46.1607969,-1.1518096
+9065749202,node,L'Annexe de Mi,restaurant,La Rochelle,,,,46.1551165,-1.0955371
+9075428678,node,Le Canton,restaurant,La Rochelle,,,https://www.le-canton.fr/,46.1536671,-1.098657
+9198946066,node,K'pizz,restaurant,La Rochelle,,,https://kpizz.fr/kpizz-saint-martin-de-re/,46.2041801,-1.3686437
+9368097317,node,Ciboulette et Compagnie,restaurant,La Rochelle,"2 Route de Nantes, 17220, Sainte-Soulle",17220,,46.2030929,-1.0277591
+9503019664,node,Le Manhattan,restaurant,La Rochelle,Rue de l'Île d'Oléron,,,46.2306032,-1.1347408
+9505094011,node,La Bella Donna,restaurant,La Rochelle,"15 Rue de la Chaîne, 17000, La Rochelle",17000,https://bella-donna.fr/fr/bella-donna-en-ville-la-rochelle.html,46.155959,-1.1552289
+9505094013,node,Iséo,restaurant,La Rochelle,,,https://www.iseo-larochelle.com/,46.1562491,-1.1544259
+9505094014,node,La Storia,restaurant,La Rochelle,"22 Cours des Dames, 17000, La Rochelle",17000,https://lrstoria.business.site/,46.157345,-1.1539441
+9516438017,node,La tour du Sénéchal,restaurant,La Rochelle,,,,46.2076776,-1.5162169
+9516555517,node,La bouche rit,restaurant,La Rochelle,,,,46.2063645,-1.5148154
+9597968075,node,Blue Café,restaurant,La Rochelle,"6 Place de Verdun, 17000, La Rochelle",17000,,46.1629529,-1.1529679
+9633569357,node,Bagout,restaurant,La Rochelle,"46 Rue Saint-Nicolas, 17000, La Rochelle",17000,,46.156701,-1.149163
+9773385317,node,Chez Hugo,restaurant,La Rochelle,21 Quai du Gabut,,,46.1557831,-1.1508112
+9774814417,node,DIJO,restaurant,La Rochelle,,,,46.1564748,-1.1551663
+9781470518,node,Le Tout du Cru,restaurant,La Rochelle,"24 Rue Thiers, 17000",17000,,46.1612914,-1.1482782
+9788348934,node,La Petite Cabane,restaurant,La Rochelle,"6 Avenue du Général Leclerc, 17340, Châtelaillon-Plage",17340,,46.0778949,-1.0920201
+9810401918,node,Mamie Bigoude,restaurant,La Rochelle,"4 Rue de la Forme, 17000",17000,,46.1617076,-1.1486844
+9810445319,node,Luma,restaurant,La Rochelle,"48 Avenue du Lazaret, 17000",17000,,46.1412385,-1.1681068
+9810447817,node,L'Astrolabe,restaurant,La Rochelle,"35 Rue Gambetta, 17000",17000,,46.1618505,-1.1478763
+9810453317,node,Les P'tits Loups,restaurant,La Rochelle,"20 Quai Georges Simenon, 17000",17000,,46.1550373,-1.1507834
+9810501417,node,La Villa Blanche,restaurant,La Rochelle,"62 Avenue du Lazaret, 17000",17000,,46.1417496,-1.1675804
+9857587536,node,Il Gabbiano,restaurant,La Rochelle,"15 Rue du Général de Gaulle, 17630, La Flotte",17630,,46.1871247,-1.3254022
+9857631099,node,Marco Polo,restaurant,La Rochelle,"59 Quai de la Poithevinière, 17410, Saint-Martin-de-Ré",17410,https://www.lemarcopolo.com/,46.2051289,-1.3698373
+9923063536,node,Le Serghi,restaurant,La Rochelle,"15 Quai Georges Clemenceau, 17410, Saint-Martin-de-Ré",17410,https://leserghi.com/,46.2061117,-1.366127
+9923084474,node,La Maison du Port,hotel,La Rochelle,,,https://www.lamaisonduport.fr/,46.2064958,-1.3659692
+9924344586,node,L'Escale,hotel,La Rochelle,"Place des Tilleuls, 17740, Sainte-Marie-de-Ré",17740,https://lescale-hotel-restaurant-re.com/,46.1550876,-1.3326701
+9925529160,node,Georges,restaurant,La Rochelle,"5 Quai Job Foran, 17410, Saint-Martin-de-Ré",17410,,46.2051181,-1.3663848
+9925529165,node,Les Colonnes,restaurant,La Rochelle,"19 Quai Job Foran, 17410, Saint-Martin-de-Ré",17410,,46.204896,-1.3668586
+9929708828,node,Hôtel du Port,hotel,La Rochelle,"29 Quai de la Poithevinière, 17410, Saint-Martin-de-Ré",17410,,46.2046195,-1.3687768
+9930987710,node,La Baronnie,hotel,La Rochelle,"17 Rue Baron de Chantal, 17410, Saint-Martin-de-Ré",17410,,46.2041198,-1.367306
+9935192645,node,Le Saint Mart,restaurant,La Rochelle,"16 Quai Nicolas Baudin, 17410, Saint-Martin-de-Ré",17410,,46.2052593,-1.3684928
+9935192647,node,La Baleine Bleue,restaurant,La Rochelle,"4 Quai Launay Razilly, 17410, Saint-Martin-de-Ré",17410,,46.2053401,-1.3685526
+9938783798,node,La Maison Douce,hotel,La Rochelle,"27 Bis Rue Suzanne Cothonneau, 17410, Saint-Martin-de-Ré",17410,https://www.lamaisondouce.com/fr/,46.2026979,-1.3703172
+9939708154,node,Les Gros,restaurant,La Rochelle,,,,46.1969514,-1.3535155
+9942719568,node,La Maison,restaurant,La Rochelle,"3 Route de La Couarde, 17410, Saint-Martin-de-Ré",17410,https://restaurant-lamaison.com/,46.1996576,-1.3792536
+9943447994,node,Bao Zi bar,restaurant,La Rochelle,"18 Rue de la Chaîne, 17000, La Rochelle",17000,https://baozibar.fr,46.1560093,-1.1550458
+9943447995,node,Ludoti,restaurant,La Rochelle,"14 Rue de la Chaîne, 17000, La Rochelle",17000,http://www.ludoti.com/,46.15605,-1.1548999
+9945874877,node,La yole de Chris,restaurant,La Rochelle,"Plage de la Concurrence, 17000, La Rochelle",17000,https://christophercoutanceau.com/fr/la-yole-de-chris.html,46.1554699,-1.1602218
+9987449772,node,La Grillérade,restaurant,La Rochelle,"8 Route de Gros Jonc, 17580, Le Bois-Plage-en-Ré",17580,,46.173116,-1.3805735
+10003330343,node,Chez Pascal,restaurant,La Rochelle,,,,46.0704122,-1.0898382
+10039149943,node,Method,restaurant,La Rochelle,,,,46.1918979,-1.4272665
+10044104955,node,Mirko al Mare,restaurant,La Rochelle,56 Avenue de l'Abbé Guichard,,https://www.mirkoalmare.fr/,46.0535994,-1.087753
+10044104957,node,La Casa,restaurant,La Rochelle,3 Place Olry André-Hesse,,,46.0534247,-1.0847886
+10044104959,node,À Deux Pas,restaurant,La Rochelle,4 Rue François Auditeau,,,46.0531804,-1.0843423
+10044104961,node,La P'tite Guinguette,restaurant,La Rochelle,6 Rue François Auditeau,,,46.0531616,-1.0839955
+10048191959,node,La Plage,restaurant,La Rochelle,"17940, Rivedoux-Plage",17940,https://laplageiledere.fr/,46.1620506,-1.2560803
+10081514964,node,,restaurant,La Rochelle,,,,46.2131779,-0.753492
+10242261542,node,Obione,restaurant,La Rochelle,,,,46.2302999,-1.1343975
+10286270282,node,Amore by Iséo,restaurant,La Rochelle,"1 - 3 Rue Thiers, 17000, La Rochelle",17000,https://www.amorebyiseo.fr/,46.1614863,-1.1486064
+10287425380,node,La Côte Rôtie,restaurant,La Rochelle,"17000, La Rochelle",17000,,46.1618554,-1.2027603
+10287862577,node,Wok 86,restaurant,La Rochelle,,,,46.1756969,-1.1095009
+10314717840,node,Chez Janick,restaurant,La Rochelle,,,,46.1941699,-0.9676597
+10648717258,node,Cap o Sud,restaurant,La Rochelle,"66 Avenue du Pas des Boeufs, 17580, Le Bois-Plage-en-Ré",17580,,46.1775913,-1.3867554
+10746090562,node,La boutique des Viviers,restaurant,La Rochelle,"Chemin de Sions, 17137, Esnandes",17137,,46.2511396,-1.1407879
+10776565229,node,Kyriad Direct,hotel,La Rochelle,,,https://direct-la-rochelle-aytre.kyriad.com/,46.133262,-1.0999667
+10832470116,node,La Perla,restaurant,La Rochelle,"20 Rue de Suède, 17000, La Rochelle",17000,https://www.pizzerialaperla-montroy.com/,46.1616785,-1.1603941
+10832470117,node,Les Délices d'Amal,restaurant,La Rochelle,"28 Rue de Suède, 17000, La Rochelle",17000,,46.1618051,-1.1606936
+10833482513,node,Chez Muzo,restaurant,La Rochelle,"69 Rue Nationale, 17220, La Jarne",17220,,46.1300601,-1.0722532
+10837887665,node,Tonton Louis,restaurant,La Rochelle,"89 Quai du Ponant, 17000, La Rochelle",17000,https://tontonlouis.fr/,46.1491746,-1.2207071
+10840020709,node,Koya,restaurant,La Rochelle,"10 Rue Chef de Ville, 17000, La Rochelle",17000,https://koya-larochelle.com/,46.1584178,-1.1543448
+10862496228,node,Hero Pizza,restaurant,La Rochelle,"Rue du Bastion Saint-Nicolas, 17000, La Rochelle",17000,,46.1539737,-1.1453076
+10908156326,node,Hattori Sushi,restaurant,La Rochelle,"8 Quai Duperré, 17000, La Rochelle",17000,https://www.hattori-sushi.fr/,46.1582715,-1.1514503
+10910020720,node,K'Fête,restaurant,La Rochelle,,,https://www.lakfeteconcept.fr,46.1055846,-1.1000559
+10925313385,node,L'atelier,restaurant,La Rochelle,,,,46.0742281,-1.090122
+10925341597,node,La belle époque,restaurant,La Rochelle,,,,46.0728194,-1.0893695
+10925367033,node,À Deux Pas,restaurant,La Rochelle,,,,46.0531415,-1.0841924
+10925368578,node,Le Palm,restaurant,La Rochelle,,,,46.0533273,-1.0844027
+10935420242,node,Le comptoir de l'océan,restaurant,La Rochelle,,,,46.0731925,-1.0931308
+10940682174,node,L'eau à la bouche,restaurant,La Rochelle,,,,46.0761578,-1.0913684
+10940695460,node,Le boléro,restaurant,La Rochelle,,,,46.0753396,-1.0912296
+10940705072,node,Ty Breizh,restaurant,La Rochelle,,,,46.0753488,-1.0908563
+10940720967,node,Hôtel d'Orbigny,hotel,La Rochelle,,,,46.080214,-1.0936844
+10940731893,node,L'effet mer,restaurant,La Rochelle,,,,46.0736792,-1.0898074
+10969010870,node,Le Téthys,restaurant,La Rochelle,"25 Avenue de la Grande Vallée, 17940, Rivedoux-Plage",17940,,46.1699456,-1.2831726
+10970332620,node,Ben-Hur - Char à Huîtres,restaurant,La Rochelle,"1 Avenue Victor Bouthillier, 17410, Saint-Martin-de-Ré",17410,,46.2058012,-1.3642022
+10970332642,node,Le corner du Môle,restaurant,La Rochelle,"2 Cours Félix Faure, 17630, La Flotte",17630,https://www.le-mole.com/fr-FR/bistrot-gourmand,46.1884487,-1.3244571
+11001072258,node,Le Palais de Chine,restaurant,La Rochelle,,,,46.1608771,-1.1501763
+11001113004,node,Sushi bar,restaurant,La Rochelle,,,,46.1600436,-1.1527656
+11001119451,node,Amaryne,restaurant,La Rochelle,,,,46.1617847,-1.1481974
+11001121304,node,Crêperie de Verdun,restaurant,La Rochelle,30 Rue Chaudrier,,,46.1617837,-1.152618
+11001122551,node,Pasta Box,restaurant,La Rochelle,,,,46.1620347,-1.1493222
+11011581568,node,Maison des Ambassadeurs,hotel,La Rochelle,43 Rue du Minage,,https://maisondesambassadeurs.com,46.1627857,-1.151047
+11011589687,node,Les Bichettes,restaurant,La Rochelle,35 Rue du Minage,,,46.1627261,-1.150728
+11011590217,node,Les Arcades,restaurant,La Rochelle,"9 Rue Albert 1er, 17000, La Rochelle",17000,,46.1633599,-1.1522562
+11011590576,node,Traiteur d'Asie,restaurant,La Rochelle,,,,46.158627,-1.1532407
+11011591923,node,Bunsik,restaurant,La Rochelle,"21 Rue du Minage, 17000",17000,https://www.bunsik.fr/,46.1626333,-1.1502435
+11011594323,node,Chez Stéphane,restaurant,La Rochelle,,,,46.1610651,-1.1490599
+11011595878,node,Pastavino,restaurant,La Rochelle,18 Rue Pas du Minage,,,46.1624543,-1.1493638
+11011597435,node,Le Benèze,restaurant,La Rochelle,,,,46.1612197,-1.1490454
+11011597436,node,SO Dream,restaurant,La Rochelle,,,,46.1630201,-1.1492633
+11011597533,node,Arco,restaurant,La Rochelle,43 Rue du Minage,,https://www.restaurantarco.com/,46.1628139,-1.1511706
+11011603710,node,Nomad,restaurant,La Rochelle,,,,46.1612632,-1.1491797
+11029036096,node,La porte royale,restaurant,La Rochelle,,,,46.1618337,-1.1440741
+11029150709,node,Sushi royal,restaurant,La Rochelle,,,,46.1588502,-1.151582
+11029150710,node,Sakura,restaurant,La Rochelle,,,,46.1617499,-1.1479619
+11029407682,node,La bottega,restaurant,La Rochelle,,,,46.1623635,-1.1487416
+11036810687,node,Chez Awa,restaurant,La Rochelle,,,,46.1344835,-1.1195638
+11036823816,node,Octopus,restaurant,La Rochelle,,,,46.1484874,-1.1616317
+11040664154,node,Thaï Famille,restaurant,La Rochelle,"14 Rue Émile Normandin, 17000, La Rochelle",17000,https://thaifamille.fr/,46.1491109,-1.144602
+11045905092,node,Brit Hotel - La Brasserie du Cap,hotel,La Rochelle,"2 Rond-Point de la République, 17180, Périgny",17180,https://hotel-la-rochelle.brithotel.fr/,46.1532334,-1.1104074
+11051515405,node,Gusto Pizza,restaurant,La Rochelle,"Place du 14 Juillet, 17137",17137,,46.1931977,-1.1875909
+11051518130,node,Amanti Pizzeria,restaurant,La Rochelle,5 Place du Commandant de la Motte Rouge,,,46.1558505,-1.1484406
+11056123914,node,La Marmotte,restaurant,La Rochelle,26 Rue Admyrauld,,https://lamarmotte.eatbu.com/,46.1585051,-1.1547096
+11056145909,node,Bistrot moderne,restaurant,La Rochelle,,,,46.160864,-1.2167933
+11056146231,node,,restaurant,La Rochelle,,,,46.1484172,-1.3114884
+11056146825,node,La P'tite Bouffe,restaurant,La Rochelle,,,,46.1614803,-1.2076337
+11062565842,node,Promenade,restaurant,La Rochelle,"4 Rue des Trois Fuseaux, 17000, La Rochelle",17000,https://promenade-larochelle.fr/,46.1610611,-1.1487468
+11062566534,node,Coloc',restaurant,La Rochelle,9 Rue des Trois Fuseaux,,,46.1610635,-1.1486035
+11062585745,node,Miss Hanoï,restaurant,La Rochelle,,,,46.1334894,-1.114056
+11062590393,node,Bistro Régent,restaurant,La Rochelle,,,,46.1552706,-1.1511856
+11063085319,node,Pizza Hut,restaurant,La Rochelle,,,https://www.pizzahut.fr/huts/fr-1/230-la-rochelle/,46.158523,-1.1491375
+11063123906,node,Ibis Budget,hotel,La Rochelle,,,,46.1575413,-1.1403915
+11063300444,node,Kyriad,hotel,La Rochelle,,,https://la-rochelle-centre.kyriad.com/fr-fr/,46.1577857,-1.1387775
+11063312031,node,Pazza notté,restaurant,La Rochelle,,,,46.1582406,-1.1528459
+11063316988,node,Ibis Styles,hotel,La Rochelle,4 Rue Léonce Vieljeux,,https://all.accor.com/hotel/0914/index.fr.shtml,46.1580239,-1.1539982
+11063329403,node,La marine,hotel,La Rochelle,"30 Quai Duperré, 17000, La Rochelle",17000,https://www.hotel-marine.com/la-rochelle/site-officiel,46.1583004,-1.1528623
+11064083627,node,Sushi & food,restaurant,La Rochelle,,,,46.1767373,-1.1151802
+11064089253,node,La croisette,restaurant,La Rochelle,,,,46.1888231,-1.3257216
+11064574309,node,L'étoile céleste,restaurant,La Rochelle,,,,46.1776852,-1.1067917
+11065798465,node,Bistro Régent,restaurant,La Rochelle,,,,46.1747558,-1.1172144
+11065814263,node,Italian Trattoria,restaurant,La Rochelle,,,,46.1754032,-1.1163098
+11065941091,node,Nosou,restaurant,La Rochelle,21 Avenue Amerigo Vespucci,,https://nosou.fr,46.1519567,-1.154445
+11065960696,node,Le K'barré,restaurant,La Rochelle,,,,46.1388422,-1.1433497
+11068855009,node,Z’Adore,restaurant,La Rochelle,,,,46.1944734,-1.4237747
+11070205701,node,Savary hôtel,hotel,La Rochelle,,,,46.157958,-1.1706009
+11071489582,node,Alizéa,hotel,La Rochelle,,,,46.1611664,-1.17577
+11073178947,node,La cuisine du 6,restaurant,La Rochelle,,,,46.1774473,-1.1184345
+11073187325,node,À la maison,restaurant,La Rochelle,,,,46.1779425,-1.1021077
+11073188388,node,Le sparrow,restaurant,La Rochelle,,,,46.1775261,-1.1183939
+11073192022,node,Eat salad,restaurant,La Rochelle,,,,46.1770933,-1.1183158
+11076190693,node,Central park,hotel,La Rochelle,,,,46.1590536,-1.160786
+11076227378,node,Le zèbre,restaurant,La Rochelle,,,,46.1603183,-1.1689526
+11077795799,node,,restaurant,La Rochelle,,,,46.3128382,-0.9971641
+11078854474,node,La cabosse enchantée chocologique,restaurant,La Rochelle,Rue du Cordouan,,,46.1629015,-1.1494035
+11078855238,node,La Guinguette,restaurant,La Rochelle,,,,46.1575395,-1.1203521
+11078867452,node,Le Champlain,hotel,La Rochelle,,,,46.1635437,-1.1541805
+11079607442,node,Le peu breton,hotel,La Rochelle,,,,46.1549415,-1.3289828
+11079617143,node,,restaurant,La Rochelle,,,,46.1864588,-1.3919687
+11079624877,node,La Dégustation De Mer en Fish,restaurant,La Rochelle,Avenue de la Plage,,,46.1857671,-1.3924292
+11079625012,node,,restaurant,La Rochelle,,,,46.1862707,-1.3917854
+11079628190,node,Ty Breizh en Ré,restaurant,La Rochelle,,,,46.1860444,-1.3925225
+11081763992,node,Gaee,restaurant,La Rochelle,"Quai Louis Prunier, 17000",17000,https://restaurant-gaee.fr/,46.15359,-1.1496138
+11081884752,node,Pizza Giovanni,restaurant,La Rochelle,2 Rue de la République,,,46.2050748,-1.1021756
+11081904965,node,K'pizz,restaurant,La Rochelle,46 Rue de la République,,,46.2029375,-1.1027553
+11081911515,node,Amorigen crêperie,restaurant,La Rochelle,,,,46.2055835,-1.1003821
+11082002021,node,Casa Pizzboro,restaurant,La Rochelle,"34 Rue de la République, 17138, Puilboreau",17138,https://pizzboro.eatbu.com/?lang=fr,46.1873651,-1.1183684
+11083200505,node,La Gueule du Loup,restaurant,La Rochelle,"Rue Samuel de Champlain, 17000",17000,https://www.lagueuleduloup17.fr/,46.1479443,-1.2166981
+11083547219,node,Paragon thaï,restaurant,La Rochelle,,,,46.1883113,-1.0648318
+11084424198,node,Chez chocolat,restaurant,La Rochelle,,,,46.2513671,-1.114959
+11084436746,node,Le restaurant des Robinsons,restaurant,La Rochelle,,,,46.1413679,-1.1682243
+11084633817,node,K'pizz,restaurant,La Rochelle,,,,46.1412486,-1.1680483
+11086464992,node,Épicerie du phare,restaurant,La Rochelle,32 Rue Gargoulleau,,,46.1620643,-1.1520279
+11086813856,node,Bons vivants,restaurant,La Rochelle,,,,46.1618253,-1.1470436
+11086817644,node,Délices'Yas,restaurant,La Rochelle,,,,46.1617241,-1.1470495
+11091182484,node,Le M,restaurant,La Rochelle,,,,46.1626286,-1.2786408
+11091193241,node,Hôtel de La Marée - Ile de Ré,hotel,La Rochelle,,,,46.1625737,-1.2785759
+11092523608,node,O'barjo,restaurant,La Rochelle,,,,46.1706661,-1.0718318
+11092523609,node,Délices du canal,restaurant,La Rochelle,,,,46.173958,-1.065457
+11094520682,node,,restaurant,La Rochelle,,,,46.1092416,-1.0060249
+11094565863,node,Bistrot Michaël,restaurant,La Rochelle,9 Place de la Mairie,,,46.1283607,-1.010101
+11097109592,node,Muang thaï,restaurant,La Rochelle,,,,46.1286939,-1.0069883
+11098128362,node,Les crêpes du marché,restaurant,La Rochelle,,,,46.2046144,-1.3691696
+11098421822,node,Au pot d'étain,restaurant,La Rochelle,,,,46.2039165,-1.3690653
+11098424152,node,Le vieux Saunier,restaurant,La Rochelle,,,,46.2038253,-1.3689728
+11099646273,node,Sushi +,restaurant,La Rochelle,,,,46.1684806,-1.1317642
+11099668463,node,La vallée kabyle,restaurant,La Rochelle,,,,46.1686109,-1.1313409
+11099703624,node,Pizza plus Sautel,restaurant,La Rochelle,,,,46.1684349,-1.1320058
+11099703625,node,K'pizz,restaurant,La Rochelle,,,,46.1875364,-1.1176687
+11100237403,node,La cabane de pampin,restaurant,La Rochelle,,,,46.1838791,-1.2088056
+11104700138,node,Asian food,restaurant,La Rochelle,,,,46.1588321,-1.1515339
+11107687393,node,La Cible,restaurant,La Rochelle,"Avenue de la Plage, 17410, Saint-Martin-de-Ré",17410,https://www.lacible-restaurantbar.fr/,46.2042406,-1.3543296
+11110702508,node,Moly,restaurant,La Rochelle,,,,46.1685882,-1.1434436
+11111668402,node,K-Pizz,restaurant,La Rochelle,,,https://kpizz.fr/,46.1592331,-1.1636018
+11111714578,node,Comptoir O'tapas,restaurant,La Rochelle,,,,46.1487287,-1.1507024
+11111726207,node,Pizza délis,restaurant,La Rochelle,,,,46.1615998,-1.1395713
+11112046591,node,Stereo Pizza,restaurant,La Rochelle,3 Rue Alfred Kastler,,https://stereopizza.com,46.1409289,-1.1603432
+11112948760,node,La méduse,restaurant,La Rochelle,,,,46.1610374,-1.2143993
+11112948761,node,In fusion,restaurant,La Rochelle,"40 Rue Chef de Baie, 17000, La Rochelle",17000,https://www.infusionrestoaction.com/,46.1542306,-1.2009118
+11114231376,node,O parloir,restaurant,La Rochelle,,,,46.2040898,-1.3630893
+11114231377,node,,restaurant,La Rochelle,,,,46.2030482,-1.3691592
+11233382926,node,La Charette de Mon Père,restaurant,La Rochelle,"68 Rue de Montréal, 17000, La Rochelle",17000,https://lacharrettedemonpere.fr/,46.1616827,-1.2070285
+11272520775,node,Le Grand Large,restaurant,La Rochelle,,,,46.1563579,-1.2680983
+11366202223,node,Pizza e Basta,restaurant,La Rochelle,,,,46.1590892,-1.141555
+11373618214,node,Pizza Mila,restaurant,La Rochelle,,,,46.1677749,-1.143271
+11381658124,node,C'est la base,restaurant,La Rochelle,,,,46.1559717,-1.1452488
+11396256384,node,Monvoisin,restaurant,La Rochelle,,,,46.1671737,-1.1437308
+11417694304,node,L'Atelier des Cousins,restaurant,La Rochelle,,,,46.0726289,-1.0930143
+11443741819,node,Accostage hôtel,hotel,La Rochelle,,,,46.1565962,-1.1661129
+11491737918,node,K'pizz,restaurant,La Rochelle,,,,46.1780771,-1.1533082
+11530680554,node,Le Thaï Gourmand,restaurant,La Rochelle,"Avenue des Corsaires, 17000, La Rochelle",17000,,46.1690956,-1.1709935
+11572997688,node,Les Copains Babord,restaurant,La Rochelle,"3 Route du Praud, 17630, La Flotte",17630,https://www.famillelecorre.com/fr/la-cabane,46.1979208,-1.3382938
+11572997689,node,La Cabane Océane,restaurant,La Rochelle,"9 Route du Praud, 17630, La Flotte",17630,https://www.lacabaneoceane.com/,46.1994204,-1.3409377
+11579461089,node,Le Bretagne,restaurant,La Rochelle,,,,46.1571638,-1.1541062
+11579479477,node,Minato,restaurant,La Rochelle,,,,46.1575764,-1.1537644
+11681670323,node,Ibis Styles,hotel,La Rochelle,,,,46.1576017,-1.1404272
+11762253448,node,RestoKoop,restaurant,La Rochelle,"6 Rue Auguste Rodin, 17000, La Rochelle",17000,,46.1654803,-1.1813423
+11822489811,node,Les pincettes,restaurant,La Rochelle,,,,46.1605885,-1.1587414
+11851236289,node,Le rivage,hotel,La Rochelle,,,,46.0784578,-1.0942258
+11851261113,node,La croisette,restaurant,La Rochelle,6 Allée du Casino,,,46.0768961,-1.0937918
+11851284401,node,Les flots,hotel,La Rochelle,,,,46.075008,-1.0934175
+11855183599,node,,restaurant,La Rochelle,,,,46.0532686,-1.0818041
+11891218160,node,La Kase,restaurant,La Rochelle,,,,46.155898,-1.1550685
+12002782770,node,La Gigas,restaurant,La Rochelle,"2 Chemin de la Gigas, 17440",17440,,46.1266193,-1.1339435
+12055950874,node,Hôtel Victoria,hotel,La Rochelle,,,,46.0784039,-1.091632
+12066603294,node,Kalina Pizza,restaurant,La Rochelle,,,,46.0706847,-1.0093955
+12095263071,node,Ré Ostrea,restaurant,La Rochelle,Chemin des salines,,,46.2046823,-1.3818189
+12096501004,node,,hotel,La Rochelle,,,,46.1866233,-1.3171618
+12096501006,node,,restaurant,La Rochelle,,,,46.1866556,-1.3170324
+12120747155,node,La P'tite Havane,restaurant,La Rochelle,,,,46.0765715,-1.0940322
+12120764824,node,Les Pieds dans le Sable,restaurant,La Rochelle,,,,46.0758685,-1.0940199
+12152275251,node,Nomade Grill,restaurant,La Rochelle,"Avenue du Fief Rose, 17140, Lagord",17140,,46.1736984,-1.168371
+12175677156,node,Bar Restaurant Palace,restaurant,La Rochelle,"375 Rue de la Plage, 17590, Saint-Clément-des-Baleines",17590,,46.2399454,-1.5494775
+12175677157,node,Juste,restaurant,La Rochelle,"61 Allée du Phare, 17590, Saint-Clément-des-Baleines",17590,https://juste-producteur.com/juste-saint-clement-des-baleines,46.2434552,-1.5601132
+12184741606,node,L'Houstal de la Pizza,restaurant,La Rochelle,"1 Rue du Gain, 17140, Lagord",17140,https://linktr.ee/LHDLP?utm_source=qr_code,46.1903887,-1.1531453
+12184741607,node,Les Gourmets,restaurant,La Rochelle,"10 Rue Jean-Baptiste Jourdan, 17140, Lagord",17140,https://www.lesgourmets-lagord.fr/,46.1905298,-1.1533226
+12239514100,node,Délice de L'Europe,restaurant,La Rochelle,"Passage de l'Europe, 17000, La Rochelle",17000,,46.1663479,-1.1793397
+12239515705,node,Le Bateau d'Émile,restaurant,La Rochelle,"122 Avenue Denfert-Rochereau, 17000, La Rochelle",17000,,46.1646912,-1.1986072
+12264636669,node,Chez Basilic'O,restaurant,La Rochelle,"8 Rue des Greffières, 17140, Lagord",17140,https://chezbasilico.fr/,46.188909,-1.1469773
+12264636682,node,L'Asiane,restaurant,La Rochelle,"2 Rue du Bois d'Huré, 17140, Lagord",17140,,46.1896209,-1.1456083
+12264636683,node,L'Olivier,restaurant,La Rochelle,"4 Rue du Bois d'Huré, 17140, Lagord",17140,,46.189672,-1.1452476
+12273443777,node,Au P'ti Tradi,restaurant,La Rochelle,"1 Rue Newton, 17440, Aytré",17440,,46.1304064,-1.094652
+12273466823,node,New Asie,restaurant,La Rochelle,,,,46.1307771,-1.0952604
+12284852519,node,Restaurant scolaire,restaurant,La Rochelle,"85 Rue Nationale, 17220, La Jarne",17220,,46.1297625,-1.0695167
+12299874985,node,Cosy Hôtels,hotel,La Rochelle,,,,46.158126,-1.1479185
+12324705123,node,La Cuisine des Bichettes,restaurant,La Rochelle,"Avenue des Grandes Guiardes, 17000, La Rochelle",17000,https://www.lacuisinedesbichettes.fr/,46.1721759,-1.1797823
+12324705124,node,Le Gratiné,restaurant,La Rochelle,"Avenue des Grandes Guiardes, 17000, La Rochelle",17000,,46.1721828,-1.1798723
+12324705128,node,L'Adress,restaurant,La Rochelle,"Avenue de la Résistance, 17000, La Rochelle",17000,,46.1722072,-1.1801419
+12324705135,node,Pizza Giovanni,restaurant,La Rochelle,"Avenue Louis Guillet, 17000, La Rochelle",17000,https://www.pizza-giovanni.fr/index.php?lieu=3&urlcpte=Ok,46.1700959,-1.1839051
+12324705137,node,Le Mireuil - Chez Sally,restaurant,La Rochelle,"Avenue Louis Guillet, 17000, La Rochelle",17000,,46.169939,-1.1839372
+12324705145,node,Le 411,restaurant,La Rochelle,"411 Avenue Jean Guiton, 17000, La Rochelle",17000,,46.1591862,-1.2008385
+12361926588,node,Le Moulin,restaurant,La Rochelle,"12 Rue Jules Verne, 17440, Aytré",17440,https://lemoulin.eatbu.com/?lang=fr,46.1322148,-1.0944739
+12394767974,node,Mosaïc,restaurant,La Rochelle,"26 Route d'Ars, 17670, La Couarde-sur-Mer",17670,,46.1983247,-1.4364888
+12409753114,node,Le So What?,restaurant,La Rochelle,,,,46.1413645,-1.1526174
+12409755905,node,Antinéa,restaurant,La Rochelle,,,,46.1412393,-1.1526616
+12409772901,node,O'Diablotin,restaurant,La Rochelle,2 Rue des Canards,,,46.1577131,-1.1498531
+12444780848,node,Chez Ré Monde,restaurant,La Rochelle,,,,46.1587434,-1.2719086
+12517066203,node,La Baie des Îles,restaurant,La Rochelle,,,https://www.camping-la-rochelle-alacorniche.com/restaurants,46.1035316,-1.1306024
+12532184547,node,Salam en Ré,restaurant,La Rochelle,"16bis Avenue du Général de Gaulle, 17410, Saint-Martin-de-Ré",17410,,46.198075,-1.3595862
+12532184548,node,Kitchen Café,restaurant,La Rochelle,"15 Avenue du Général de Gaulle, 17410, Saint-Martin-de-Ré",17410,,46.1982339,-1.3591142
+12532184571,node,Ci Klop Bar,restaurant,La Rochelle,"19 Avenue de Philippsburg, 17410, Saint-Martin-de-Ré",17410,,46.1970196,-1.354597
+12547399579,node,Planète Sésame,restaurant,La Rochelle,"1 Rue Gaspard Monge, 17000, La Rochelle",17000,https://planetesesame17.fr/,46.1540118,-1.116964
+12566196211,node,Hangar 27,restaurant,La Rochelle,"31 Boulevard du Maréchal Lyautey, 17000, La Rochelle",17000,https://hangar-27.fr/,46.1607264,-1.2061549
+12593611036,node,La Cabane Face à la mer,restaurant,La Rochelle,"10 Rue des Viviers, 17137, Marsilly",17137,,46.2355831,-1.1571144
+12650711776,node,La Cabane Océane,restaurant,La Rochelle,"2 Route du Praud, 17630, La Flotte",17630,,46.197448,-1.3383483
+12688530938,node,O'Magik,restaurant,La Rochelle,"10 Rue des Trois Oranges, 17580, Le Bois-Plage-en-Ré",17580,https://omagik.com/,46.1853325,-1.3899098
+12726671532,node,Vincenzo Pizza,restaurant,La Rochelle,"2 Place de Thorens-Glières, 17137, Esnandes",17137,https://vincenzo-pizza-esnandes.eatbu.com/?lang=fr,46.2484306,-1.1163706
+12750451660,node,Le Canot,restaurant,La Rochelle,,,,46.1572948,-1.1539839
+12766803878,node,Planète Sésame,restaurant,La Rochelle,"4 Rue Louis Tardy, 17140, Lagord",17140,https://planetesesame17.fr/,46.1856726,-1.1502652
+12772971876,node,Ginger,restaurant,La Rochelle,33 Rue Saint-Jean du Pérot,,https://www.ginger-larochelle.com,46.156144,-1.1557545
+12772971877,node,La Boussole,restaurant,La Rochelle,41 Rue Saint-Jean du Pérot,,https://laboussole-larochelle.fr,46.1561475,-1.156072
+12919844666,node,Turbulences Pizza,restaurant,La Rochelle,,,,46.1552015,-1.0967234
+12959355396,node,Le Uini's,restaurant,La Rochelle,"12 Rue Raymond Lavenue, 17000, La Rochelle",17000,https://www.restaurant.uinis.fr/,46.1748058,-1.2192109
+13026780964,node,Le Jardin du Marché,restaurant,La Rochelle,"23 Rue de Mouillebarbe, 17590, Ars-en-Ré",17590,https://www.lejardindumarche.fr/,46.2114983,-1.5145299
+13026809233,node,VVF,hotel,La Rochelle,"1 Route de la Prée, 17590, Ars-en-Ré",17590,https://www.vvf.fr/location-vacances/vacances-ars-en-re-vvf-villages.html,46.2090773,-1.5101256
+13083956178,node,Trib's,restaurant,La Rochelle,,,,46.1759009,-1.1944893
+13289314278,node,Pizza Ré,restaurant,La Rochelle,"204 Rue Jules Ferry, 17940, Rivedoux-Plage",17940,https://pizza-re.com/,46.1599784,-1.2756365
+13291115900,node,,restaurant,La Rochelle,,,,46.1289853,-1.0676266
+13305231256,node,Archicho Pizza,restaurant,La Rochelle,"274 Rue Jules Ferry, 17940, Rivedoux-Plage",17940,,46.1601461,-1.2761586
+13305353160,node,Nora,restaurant,La Rochelle,"25 Avenue du Mail, 17670, La Couarde-sur-Mer",17670,,46.1919842,-1.428021
+13305353162,node,La Cale,restaurant,La Rochelle,"23 Avenue du Mail, 17670, La Couarde-sur-Mer",17670,,46.1919721,-1.4276364
+13398343363,node,Le Marais Fleuri,restaurant,La Rochelle,"1 Route de Nantes, 17230, Marans",17230,,46.3146131,-0.9915492
+13401450801,node,Hôtel Les Grenettes Île de Ré,hotel,La Rochelle,,,,46.1605467,-1.3526334
+13456491472,node,Monsieur Léon,restaurant,La Rochelle,,,,46.1489746,-1.3116591
+13472717761,node,Ibis Budget,hotel,La Rochelle,"62 Rue du 18 Juin, 17138, Puilboreau",17138,,46.1765003,-1.1083392
+13472717768,node,Plein Sud,restaurant,La Rochelle,"6 Rue de Belgique, 17138, Puilboreau",17138,,46.1775938,-1.1183675
+13475446876,node,L'Échappée Gourmande,restaurant,La Rochelle,"Avenue du Fief Rose, 17140, Lagord",17140,,46.1751046,-1.1665355
+13475446877,node,CSB,restaurant,La Rochelle,"51 Avenue du Fief Rose, 17140, Lagord",17140,,46.1750548,-1.1665475
+13532171601,node,Pause Orientale,restaurant,La Rochelle,"37 Rue Marius Lacroix, 17000",17000,,46.1722325,-1.1474037
+13617028101,node,Fish & Fry's,restaurant,La Rochelle,"15 Rue Saint-Jean du Pérot, 17000",17000,,46.1563359,-1.1550808
+13638939601,node,Krêp des tours,restaurant,La Rochelle,10 Rue de la Chaîne,,,46.1560847,-1.1547389
+13728053638,node,Le Bistrot,restaurant,La Rochelle,,,https://www.la-grande-terrasse.com/restaurants/restaurant-le-bistrot/,46.0579912,-1.0881391
+13728053639,node,Gaya,restaurant,La Rochelle,,,https://www.la-grande-terrasse.com/restaurants/restaurant-le-gaya/,46.0579384,-1.0880022
+13728053640,node,Le Pertuis,restaurant,La Rochelle,,,https://www.la-grande-terrasse.com/restaurants/restaurant-le-pertuis/,46.0594429,-1.0881606
+13759552574,node,Le Speed,restaurant,La Rochelle,"11a Avenue Louis Lumière, 17180, Périgny",17180,,46.1594916,-1.1026416
+13763680927,node,La Yaute,restaurant,La Rochelle,"1 Rue Archimède, 17440, Aytré",17440,https://layauterestaurant.fr/,46.134535,-1.0968127
+13785062343,node,Lobster Ponps Factory,restaurant,La Rochelle,"18 Avenue du Mail, 17670, La Couarde-sur-Mer",17670,,46.1920718,-1.4259555
+13972545701,node,Au Comptoir 1913,restaurant,La Rochelle,"50 Rue Saint-Jean, 17170",17170,,46.2655649,-0.8748646

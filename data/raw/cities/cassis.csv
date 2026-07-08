@@ -1,0 +1,64 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+1659144188,node,Le Golfe,hotel,Cassis,,,,43.2144564,5.535194
+1836760286,node,El Sol,restaurant,Cassis,,,,43.2150045,5.5370888
+1836768431,node,Le Cendrillon,restaurant,Cassis,,,,43.2136619,5.5388742
+1836768644,node,Le Perroquet,restaurant,Cassis,,,,43.2135212,5.5387486
+2087471326,node,La Villa Madie,restaurant,Cassis,"Avenue du Revestel, Cassis",,https://lavillamadie.com,43.2111019,5.5449357
+2811941761,node,Casa Roma,restaurant,Cassis,5 Rue Brémond,,,43.2152771,5.5368024
+2937784257,node,Monsieur Brun,restaurant,Cassis,2 Quai Calendal,,,43.2148635,5.5365828
+3055471833,node,Hôtel-Restaurant Le Clos des Arômes,restaurant,Cassis,"10 Rue Abbé Paul Mouton, 13260, Cassis",13260,,43.2161168,5.5380364
+3057637134,node,Yacht Club de Cassis,restaurant,Cassis,,,,43.2132044,5.5355823
+3057637233,node,Les Roches Blanches,hotel,Cassis,,,,43.2113542,5.5293442
+3057637433,node,Le Comptoir du Naïo,restaurant,Cassis,6 Quai Carnot,,,43.214219,5.5348242
+3057637533,node,Le Bistro,restaurant,Cassis,8 Avenue de l'Amiral Ganteaume,,https://www.le-bistro-restaurant-cassis.com/,43.2140656,5.5346157
+3100545599,node,Best Western Cœur de Cassis,hotel,Cassis,2 Rue Pierre Eydin,,https://www.bestwestern.fr/fr/hotel-Cassis-Best-Western-Coeur-De-Cassis-93882,43.2145219,5.5402333
+3406079996,node,L'Escalier,restaurant,Cassis,,,,43.2151109,5.5371719
+3451549135,node,Hôtel Liautaud,hotel,Cassis,,,,43.2140274,5.5384666
+3451568706,node,Hôtel Cassitel,hotel,Cassis,,,,43.2136593,5.538976
+3451640394,node,Don Camillo,restaurant,Cassis,,,,43.2146613,5.5359255
+3451640395,node,La Vieille Auberge,restaurant,Cassis,,,,43.2146246,5.5357974
+3451666766,node,Chez César,restaurant,Cassis,,,,43.2149438,5.537238
+3451666767,node,Chez Gilbert,restaurant,Cassis,19 Quai des Baux,,https://www.chezgilbert.net/,43.2148366,5.537403
+3451666768,node,César la suite...,restaurant,Cassis,,,,43.2145174,5.5377103
+3451666770,node,L'Oustau de la Mar,restaurant,Cassis,,,,43.2149226,5.5372943
+3451666771,node,La Girandole,restaurant,Cassis,,,,43.2146311,5.5377943
+3451666772,node,Le Canaille,restaurant,Cassis,,,,43.2149724,5.5371679
+3451666774,node,Le Grand Bleu,restaurant,Cassis,12 Quai des Baux,,,43.2146449,5.5375934
+3451679604,node,La Stazione,restaurant,Cassis,39 Avenue Victor Hugo,,https://lastazione-cassis.com/,43.2147377,5.5395161
+3451679606,node,Marco Polo,restaurant,Cassis,,,,43.2150399,5.5369518
+3451705015,node,La Voûte,restaurant,Cassis,,,,43.2142946,5.5381527
+3451705016,node,Le Bonaparte,restaurant,Cassis,,,,43.2148076,5.538759
+3451705018,node,Le Chaudron,restaurant,Cassis,,,,43.2147569,5.5392978
+3451705020,node,Brasserie Le Mistral,restaurant,Cassis,,,http://www.lemistralcassis.com/,43.2132939,5.5386855
+3451705022,node,Les Frangines,restaurant,Cassis,,,,43.214806,5.5392585
+3451716763,node,La Storia di Vincenzo,restaurant,Cassis,7 Quai des Baux,,,43.2144491,5.5378707
+3662684493,node,Clos des Arômes,hotel,Cassis,"10 Rue Abbé Paul Mouton, 13260, Cassis",13260,,43.2161402,5.5380069
+3938499328,node,Brasserie La Peace'In,restaurant,Cassis,,,,43.2310006,5.5379292
+3990059702,node,La Loco,restaurant,Cassis,,,,43.2338736,5.552541
+5858835897,node,Le Bistro'Quai,restaurant,Cassis,,,,43.2147414,5.5375308
+6036712072,node,Le Bistrot de Nino,restaurant,Cassis,1 Quai Jean Jacques Barthélémy,,https://www.le-bistrot-de-nino-restaurant-cassis.com/,43.2148019,5.5364336
+6554684281,node,Le Bestouan,restaurant,Cassis,,,,43.2131337,5.5312881
+6598752385,node,L'Escalier Restaurant,restaurant,Cassis,,,,43.2152589,5.5371193
+8426660399,node,Tak'away,restaurant,Cassis,1 Avenue Docteur Emmanuel Agostini,,,43.2148388,5.5394466
+9044846683,node,La Bonne Mère,restaurant,Cassis,19 Rue Michel Arnaud,,,43.2150269,5.5382895
+9047228015,node,Ô REV,restaurant,Cassis,,,,43.2148552,5.5383539
+9048059735,node,Corton Beach,restaurant,Cassis,Avenue du Revestel,,https://www.cortonbeachcortonkayakcassis.com/,43.2107026,5.5443443
+9051015144,node,Poissonnerie Laurent,restaurant,Cassis,5 Quai Jean Jacques Barthélémy,,,43.2147228,5.5361966
+10065557479,node,Calendal,restaurant,Cassis,,,,43.2152255,5.5367712
+11014301206,node,Terroir et marée,restaurant,Cassis,,,,43.2230622,5.5439375
+11833530369,node,La Nonna D’Oro,restaurant,Cassis,,,,43.2145951,5.5357083
+12134105198,node,Les Collègues,restaurant,Cassis,,,,43.2311199,5.5542176
+12149810045,node,Cassis et Romarin,restaurant,Cassis,,,,43.2152044,5.5388681
+12151909304,node,La Plage Bleue,restaurant,Cassis,,,,43.205387,5.5187312
+12198366037,node,Cassis et Romarin,restaurant,Cassis,,,,43.2152082,5.5388585
+12292185155,node,Saveurs Latines,restaurant,Cassis,,,,43.2144525,5.5388585
+12292185156,node,La Défonce,restaurant,Cassis,,,,43.2145833,5.5380311
+12292185157,node,À Table,restaurant,Cassis,,,,43.2146786,5.5386485
+12292185158,node,Le Romarin,restaurant,Cassis,,,,43.2146133,5.5387129
+12294762839,node,La Pizzeria della Stazione,restaurant,Cassis,4 Rue Raphaël Ponson,,https://www.pizzeria-stazione-cassis.com/,43.2145045,5.5398152
+12294762841,node,Le Poisson Rouge,restaurant,Cassis,Impasse Farine,,https://lepoissonrougerestaurantcassis.com/,43.214219,5.5390156
+12868337602,node,La Fringale,restaurant,Cassis,5 Rue Pasteur,,,43.2146427,5.5380717
+13659307586,node,Restaurant le Patio,restaurant,Cassis,,,,43.2154773,5.5367872
+13659307592,node,Hôtel des Calanques,hotel,Cassis,,,,43.2136473,5.5395404
+13659307593,node,Snack Le Repaire,restaurant,Cassis,,,,43.2136485,5.5394619
+13659307612,node,Hôtel Eden Cassis,hotel,Cassis,"Avenue du Revestel, 13260, Cassis",13260,https://www.hotel-eden-cassis.com/,43.2135165,5.5427916

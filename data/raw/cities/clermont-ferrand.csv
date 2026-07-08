@@ -1,0 +1,410 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+583258230,node,Ma plus belle histoire,restaurant,Clermont-Ferrand,,,,45.7728065,3.2385492
+664656102,node,L'Estredelle,hotel,Clermont-Ferrand,,,,45.797509,3.2572522
+664656132,node,Auberge du Pont,restaurant,Clermont-Ferrand,,,https://auberge-du-pont.com/,45.797417,3.2582625
+806581945,node,Délices wok,restaurant,Clermont-Ferrand,,,,45.7796274,3.1403709
+813524162,node,Le Mozart,restaurant,Clermont-Ferrand,,,,45.7808158,3.0756867
+813668311,node,L'Initial,restaurant,Clermont-Ferrand,,,,45.7808466,3.0822215
+815129327,node,Holiday Inn,hotel,Clermont-Ferrand,,,,45.7703973,3.0864998
+815133265,node,La Fée Maison,restaurant,Clermont-Ferrand,,,,45.7776921,3.0836962
+1119207215,node,Le Vésuve,restaurant,Clermont-Ferrand,,,,45.7852755,3.0857498
+1119207221,node,Le Bouchon de Jaude,restaurant,Clermont-Ferrand,,,,45.7777523,3.0811041
+1119207224,node,Le Puy de la Lune,restaurant,Clermont-Ferrand,,,,45.7801057,3.081458
+1119207228,node,Le 41,restaurant,Clermont-Ferrand,,,,45.7740488,3.0769787
+1119207255,node,Mouffu,restaurant,Clermont-Ferrand,,,,45.778519,3.0792493
+1119207257,node,Namaste,restaurant,Clermont-Ferrand,,,,45.7802297,3.0870719
+1119207265,node,La Tente Berbère,restaurant,Clermont-Ferrand,,,,45.7817997,3.0949571
+1119207288,node,Le Boeuf Café,restaurant,Clermont-Ferrand,,,,45.7778472,3.0838312
+1119207292,node,La Régalade,restaurant,Clermont-Ferrand,,,,45.7777599,3.0826718
+1257580864,node,Lou Tassou,hotel,Clermont-Ferrand,"14 Place des Ramacles, 63170, Aubière",63170,,45.7497371,3.1114208
+1257580865,node,Délice Kébab,restaurant,Clermont-Ferrand,13 Place de la Libération,,,45.7508048,3.1113877
+1257580883,node,Les Ramacles,restaurant,Clermont-Ferrand,,,,45.7498865,3.1120906
+1270846046,node,Le Choucas,restaurant,Clermont-Ferrand,,,,45.7825944,3.093321
+1400276622,node,Ibis Budget,hotel,Clermont-Ferrand,"3 Boulevard Ambroise Brugière, 63100, Clermont-Ferrand",63100,https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=5651&merchantid=seo-maps-FR-5651&sourceid=aw-cen&utm_medium=seo+maps&utm_source=google+Maps&utm_campaign=seo+maps&y_source=1_MTUzNjA0NzItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D,45.7917839,3.1186781
+1400276624,node,Ibis Montferrand,hotel,Clermont-Ferrand,"3 Boulevard Ambroise Brugière, 63100, Clermont-Ferrand",63100,https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=0929&merchantid=seo-maps-FR-0929&sourceid=aw-cen&utm_medium=seo+maps&utm_source=google+Maps&utm_campaign=seo+maps&y_source=1_MTUzNTk1NDctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D,45.791739,3.118426
+1453606199,node,L'Odevie,restaurant,Clermont-Ferrand,,,,45.7735784,3.0812953
+1587067572,node,À la bonne heure,restaurant,Clermont-Ferrand,,,,45.7710323,3.081031
+1686317176,node,La Cigale,restaurant,Clermont-Ferrand,,,,45.7758003,3.0664192
+1701011062,node,Piazza Italia,restaurant,Clermont-Ferrand,,,,45.7748083,3.0842753
+1704102478,node,La Calèche,hotel,Clermont-Ferrand,,,,45.7333083,3.0640865
+1785497750,node,Chez Lisette,restaurant,Clermont-Ferrand,,,,45.8292614,3.0773348
+1785654452,node,Le Vigosche,restaurant,Clermont-Ferrand,,,,45.8501465,3.0864051
+1786504960,node,Café Ballainvilliers,restaurant,Clermont-Ferrand,,,,45.7754417,3.0866066
+1786516073,node,Konnichiwa,restaurant,Clermont-Ferrand,,,,45.7755954,3.0863356
+1786532933,node,Hôtel le Lion,hotel,Clermont-Ferrand,,,,45.7768387,3.0814391
+1786573396,node,,restaurant,Clermont-Ferrand,,,,45.7750076,3.0827655
+1787299844,node,Brasserie Berthelot,restaurant,Clermont-Ferrand,,,,45.7801517,3.0724678
+1788234884,node,Brasserie Madeleine,restaurant,Clermont-Ferrand,"3 Place de la Victoire, 63000, Clermont-Ferrand",63000,https://www.brasseriemadeleine-clermont.fr/,45.7781307,3.08617
+1788389053,node,La Grange,restaurant,Clermont-Ferrand,,,,45.8315198,3.1057131
+1832055180,node,Domino's,restaurant,Clermont-Ferrand,,,,45.735588,3.1776138
+1912697804,node,La table de Fred,restaurant,Clermont-Ferrand,,,,45.7927789,3.1132675
+1932121673,node,Le Den's,restaurant,Clermont-Ferrand,,,,45.7806945,3.0772926
+1933808653,node,Tarterie de Venise,restaurant,Clermont-Ferrand,9 Rue de l'Hôtel de Ville,,https://tarteriedevenise.com/beaumont.php,45.7534128,3.0864809
+1956555138,node,Le Trésor,restaurant,Clermont-Ferrand,,,,45.7658406,3.0821184
+1979290807,node,Les Papilles,restaurant,Clermont-Ferrand,,,,45.7776813,3.0843325
+2012785752,node,Avenue,restaurant,Clermont-Ferrand,,,,45.7774809,3.0864272
+2012970760,node,Les Commerçants,hotel,Clermont-Ferrand,,,,45.7797516,3.1009005
+2086025567,node,L'Ostal,restaurant,Clermont-Ferrand,,,https://www.lostal-restaurant.fr/,45.7810079,3.0879869
+2110930360,node,Inckliné,restaurant,Clermont-Ferrand,,,,45.7761291,3.0850763
+2110936872,node,Bougnat Burger,restaurant,Clermont-Ferrand,10 Boulevard Léon Malfreyt,,https://www.bougnatburger.fr/,45.7739156,3.085635
+2249213892,node,Radisson,hotel,Clermont-Ferrand,,,,45.7694201,3.0834
+2294772351,node,Espace Volcan,hotel,Clermont-Ferrand,"Route du Col de la Moreno, 63122, Laschamps",63122,http://www.espacevolcan.fr/,45.7399751,2.9641354
+2294772361,node,Le G.R.,restaurant,Clermont-Ferrand,"63122, Laschamps",63122,,45.7405267,2.9659161
+2329265429,node,Bistrot A Table,restaurant,Clermont-Ferrand,,,,45.7871057,3.1059792
+2329265432,node,Courtepaille,restaurant,Clermont-Ferrand,"3 Boulevard Ambroise Brugière, 63100, Clermont-Ferrand",63100,https://restaurants.courtepaille.com/restaurant-courtepaille-clermont-ferrand-montferrand-id370,45.7918486,3.1182848
+2329352934,node,La table d'Andrea,restaurant,Clermont-Ferrand,,,,45.7843766,3.1239268
+2351927720,node,Le resto d'Épicure,restaurant,Clermont-Ferrand,,,,45.7703426,2.9627062
+2403957323,node,Les arcandiers,restaurant,Clermont-Ferrand,,,,45.7784111,3.0871865
+2453811592,node,Il Visconti,restaurant,Clermont-Ferrand,"9 Rue du Terrail, 63000",63000,https://www.ilvisconti.com/,45.7785011,3.0871633
+2487635216,node,Le Marmotel,hotel,Clermont-Ferrand,"18 Boulevard Winston Churchill, 63000, Clermond-Ferrand",63000,,45.7611809,3.0950256
+2523286799,node,Hôtel Océania,hotel,Clermont-Ferrand,"82 Boulevard François Mitterrand, 63000",63000,https://www.oceaniahotels.com/oceania-clermont-ferrand,45.7717857,3.083681
+2523324970,node,Bambochella,restaurant,Clermont-Ferrand,"9 Boulevard Léon Malfreyt, 63000, Clermont-Ferrand",63000,https://www.labambochella.fr/,45.7736172,3.0856506
+2523341807,node,Hôtel Régina,hotel,Clermont-Ferrand,,,,45.7754641,3.0791775
+2523342189,node,Zorzi,restaurant,Clermont-Ferrand,,,,45.7738382,3.0798271
+2523354169,node,Honoré,restaurant,Clermont-Ferrand,,,,45.7785662,3.0865005
+2523367180,node,Pizza Tino,restaurant,Clermont-Ferrand,,,,45.7759304,3.0817059
+2523953426,node,Envie,restaurant,Clermont-Ferrand,,,,45.7778666,3.0828402
+2523958040,node,Hôtel Le Saint-Joseph,hotel,Clermont-Ferrand,,,,45.7788851,3.0944466
+2524422774,node,Larderia,restaurant,Clermont-Ferrand,Rue des Chaussetiers,,,45.7783109,3.0840308
+2524422785,node,Babka Family,restaurant,Clermont-Ferrand,"15 Rue des Petits Gras, 63000, Clermont-Ferrand",63000,https://www.babka-family.com/,45.7777854,3.0837892
+2524422788,node,Le Petit Tandoori,restaurant,Clermont-Ferrand,,,,45.7778204,3.0835976
+2524422798,node,L'ostrog III,restaurant,Clermont-Ferrand,,,,45.7783385,3.0835613
+2524422801,node,Kim Oanh,restaurant,Clermont-Ferrand,,,,45.7783783,3.0848167
+2524422810,node,Le 1513,restaurant,Clermont-Ferrand,,,,45.7782909,3.0845798
+2524499643,node,Limonetto,restaurant,Clermont-Ferrand,"84 Boulevard François Mitterrand, 63000",63000,https://chez-limonetto-restaurant-clermont-ferrand.eatbu.com/?lang=fr,45.7719948,3.0836917
+2524499646,node,La Javanaise,restaurant,Clermont-Ferrand,,,,45.7739174,3.0827426
+2524499766,node,Soho Corner,restaurant,Clermont-Ferrand,,,,45.7739676,3.082731
+2524683975,node,Hôtel Kyriad,hotel,Clermont-Ferrand,,,http://www.kyriad-clermont-ferrand-centre.fr,45.7729986,3.0805377
+2524697126,node,Le Madras,restaurant,Clermont-Ferrand,,,https://www.lemadras.fr/,45.7733557,3.081385
+2524707611,node,Alfred,restaurant,Clermont-Ferrand,,,,45.7729841,3.0816268
+2525107387,node,The Old Hotel Ravel,hotel,Clermont-Ferrand,,,,45.7789548,3.0943844
+2528697208,node,n°3,restaurant,Clermont-Ferrand,,,,45.7739192,3.0846731
+2622046572,node,Au BDV,restaurant,Clermont-Ferrand,,,,45.7753595,3.0873247
+2760886767,node,B2K6,restaurant,Clermont-Ferrand,6 Rue du Caire,,,45.7695191,3.1970576
+2823201826,node,Okinawa,restaurant,Clermont-Ferrand,,,,45.7804851,3.0819386
+2898962186,node,O'Ramen,restaurant,Clermont-Ferrand,"16 Rue Saint-Adjutor, 63000",63000,https://oramen63.fr/,45.7789596,3.0804464
+2900715040,node,La Grange africaine,restaurant,Clermont-Ferrand,,,,45.7795643,3.0849707
+2930747643,node,Kitchen et compagnie,restaurant,Clermont-Ferrand,,,,45.778415,3.0831709
+2940670756,node,Auberge de la Fontaine du Berger,restaurant,Clermont-Ferrand,,,https://www.auberge.fr/,45.7997277,2.9919099
+3039620687,node,Le P'tit Nice,restaurant,Clermont-Ferrand,"2 Rue de la Châtaigneraie, 63110, Beaumont",63110,,45.7499281,3.0791016
+3099983193,node,Le Couvige Rallye,restaurant,Clermont-Ferrand,,,,45.7824061,3.0959131
+3102206417,node,La maison Raviolis,restaurant,Clermont-Ferrand,,,https://www.lamaisonraviolis.fr/,45.7687031,3.0785234
+3106414805,node,Le 24,restaurant,Clermont-Ferrand,,,,45.7753687,3.0862829
+3285515023,node,El Gaucho,restaurant,Clermont-Ferrand,,,,45.7334462,3.1809001
+3286259823,node,Adagio Access Clermont-Ferrand Carré Jaude,hotel,Clermont-Ferrand,,,,45.7743305,3.080506
+3286558644,node,Le Pescalune,restaurant,Clermont-Ferrand,"19 Rue Jean Jaurès, 63170, Pérignat-lès-Sarliève",63170,https://www.lepescalune.com/,45.7357534,3.1403368
+3316884252,node,Gootu,restaurant,Clermont-Ferrand,63000,63000,https://www.gootu.fr/,45.7606066,3.1313667
+3350448712,node,L'Instantané,restaurant,Clermont-Ferrand,,,,45.7773962,3.086932
+3387550898,node,Le Santooka,restaurant,Clermont-Ferrand,,,,45.7784429,3.0806272
+3434288854,node,Ayanami Sushi,restaurant,Clermont-Ferrand,,,,45.7684588,3.1241251
+3434329331,node,Au Petit Chabichou,restaurant,Clermont-Ferrand,,,,45.7677602,3.1295853
+3434381621,node,Restaurant hotel de la Gare,hotel,Clermont-Ferrand,,,https://www.hotel-de-la-gare-cournon.fr,45.7389199,3.1684338
+3434447040,node,Royal Cournon,restaurant,Clermont-Ferrand,,,,45.7503056,3.1602932
+3510346122,node,Kanka family 2,restaurant,Clermont-Ferrand,,,,45.7609204,3.1211566
+3551141951,node,Le Prévert,restaurant,Clermont-Ferrand,,,,45.7799347,3.0709034
+3641970752,node,Le Volcan,restaurant,Clermont-Ferrand,,,,45.7594449,3.1441008
+3668563299,node,L'Auvergnat,restaurant,Clermont-Ferrand,,,,45.763586,3.1272113
+3700160299,node,La Chaumière,restaurant,Clermont-Ferrand,13 Avenue du Sancy,,,45.7140097,3.0701484
+3780981488,node,Volcan & CO,restaurant,Clermont-Ferrand,"60 Avenue de la Libération, 63000, Clermont-ferrand",63000,https://www.volcan-and-co.fr/,45.7653136,3.0826787
+3793335300,node,Campanile,hotel,Clermont-Ferrand,"120 Avenue de la République, 63100",63100,https://clermont-ferrand-centre.campanile.com/,45.7888667,3.1090771
+3794419175,node,The Oval,restaurant,Clermont-Ferrand,,,,45.788453,3.1071334
+3825450131,node,Pizzeria Villa Regina,restaurant,Clermont-Ferrand,,,,45.7261755,3.0633308
+3832416648,node,Deux Gros,restaurant,Clermont-Ferrand,,,,45.7700855,3.0811976
+3834182322,node,Le Fiesta Grande,restaurant,Clermont-Ferrand,,,,45.7784684,3.0831291
+3837418143,node,Chez Jamyang,restaurant,Clermont-Ferrand,"7 Rue des Archers, 63000, Clermont-Ferrand",63000,,45.7795629,3.0901265
+3843607620,node,Jamyang 1959,restaurant,Clermont-Ferrand,"61 Boulevard Trudaine, 63000, Clermont-Ferrand",63000,,45.7794288,3.0904705
+3903671944,node,Tanuki,restaurant,Clermont-Ferrand,"19 Rue de l'Ange, 63000, Clermont-Ferrand",63000,https://tanukistreetfood.com/short/2vcmq2,45.7790132,3.0808137
+3904460261,node,Belle inn,hotel,Clermont-Ferrand,"Rond-Point de la Pardieu, 63000, Clermont-Ferrand",63000,,45.7605387,3.1326681
+3904501157,node,Bistro La Pardieu,restaurant,Clermont-Ferrand,"2 Avenue Michel-Ange, 63000, Clermont-Ferrand",63000,,45.7610268,3.1311364
+3904501357,node,Midi Pile !,restaurant,Clermont-Ferrand,"Rond-Point de la Pardieu, 63000, Clermont-Ferrand",63000,,45.7605489,3.1324341
+3934036804,node,Anatolia,restaurant,Clermont-Ferrand,,,,45.7421338,3.1695459
+3934055546,node,La bonne franquette,restaurant,Clermont-Ferrand,,,,45.7373144,3.1742243
+3934055548,node,Le Petit Bouchon (Chez Odile),restaurant,Clermont-Ferrand,,,,45.7374202,3.1750981
+3944709752,node,pinocchio pizzeria,restaurant,Clermont-Ferrand,,,,45.7289992,3.1862274
+3959684145,node,La Côte & l'Arête,restaurant,Clermont-Ferrand,,,https://www.lacoteetlarete.fr,45.7586819,3.1461916
+3959684146,node,Au Bureau,restaurant,Clermont-Ferrand,,,,45.7579775,3.1476033
+3959777336,node,Le Kepler,restaurant,Clermont-Ferrand,,,,45.7798555,3.1206918
+3974573486,node,Les Halles Du Brezet,restaurant,Clermont-Ferrand,"19 Avenue de l'Agriculture, 63000, Clermont-Ferrand",63000,,45.7799911,3.1228306
+3988119815,node,L'Astrolabe,restaurant,Clermont-Ferrand,,,,45.7852996,3.1409609
+4011445479,node,m la pizza,restaurant,Clermont-Ferrand,"42 Rue des Plaines, 63800, Cournon-d'Auvergne",63800,https://www.mlapizza.fr/,45.7337758,3.1833051
+4023954206,node,Le Ruck,restaurant,Clermont-Ferrand,,,,45.787231,3.1062474
+4023954207,node,Le Caramel,restaurant,Clermont-Ferrand,,,,45.7872273,3.1058558
+4083228576,node,Le Gandhi,restaurant,Clermont-Ferrand,"6-8 Rue des Archers, 63000, Clermont-Ferrand",63000,https://www.legandhi-clermont.com/,45.7795913,3.0898739
+4090055854,node,Pizzelie,restaurant,Clermont-Ferrand,,,,45.7298841,3.0999673
+4090055858,node,L'Autobus,restaurant,Clermont-Ferrand,1 Rue du Maréchal Foch,,,45.7291772,3.0999859
+4095959026,node,Café Charbon,restaurant,Clermont-Ferrand,,,,45.7793793,3.0899436
+4095978574,node,Chez Jeanne,restaurant,Clermont-Ferrand,,,,45.7806427,3.0770777
+4106485169,node,Number One Pizza,restaurant,Clermont-Ferrand,,,,45.7760788,3.0858319
+4109661893,node,Popina,restaurant,Clermont-Ferrand,,,,45.7790608,3.0833955
+4143121925,node,Brasserie du Théâtre,restaurant,Clermont-Ferrand,,,,45.777571,3.0828127
+4143198689,node,L'Étoile de Fès,restaurant,Clermont-Ferrand,,,,45.7804325,3.0809247
+4143202789,node,Volcan Hôtel,hotel,Clermont-Ferrand,,,,45.7804273,3.081119
+4144716789,node,Le Panadura,restaurant,Clermont-Ferrand,,,,45.780375,3.0875792
+4146391390,node,Chez Épicure,restaurant,Clermont-Ferrand,,,https://chezepicure.fr/,45.7633689,3.127213
+4169403891,node,Le Cintra,restaurant,Clermont-Ferrand,,,,45.766736,3.0561849
+4169428189,node,L'ardoise,restaurant,Clermont-Ferrand,,,,45.7823096,3.0793432
+4169462490,node,La table d'Isidore,restaurant,Clermont-Ferrand,,,,45.7669515,3.0556278
+4169543490,node,Le César,restaurant,Clermont-Ferrand,,,,45.7675833,3.0556967
+4173144594,node,Mumbai Darbar,restaurant,Clermont-Ferrand,,,,45.7248353,3.3395505
+4187177390,node,La Cassolette,restaurant,Clermont-Ferrand,,,,45.7792003,3.0803744
+4187183989,node,Polypode,restaurant,Clermont-Ferrand,,,,45.7788673,3.0794683
+4190325664,node,Appart'City,hotel,Clermont-Ferrand,"46 Boulevard Pasteur, 63000, Clermont-Ferrand",63000,https://www.appartcity.com/fr/destinations/auvergne/clermont-ferrand/clermont-ferrand-centre.html,45.7730714,3.077424
+4199893897,node,Les gourmands disent,restaurant,Clermont-Ferrand,,,https://www.pizzeria-les-gourmands-disent.fr/,45.6693194,3.1072482
+4206299689,node,Toit pour toi,restaurant,Clermont-Ferrand,"1 Rue de la Narse, 63670, Orcet",63670,https://www.toit-pour-toi.fr/,45.7024663,3.1691249
+4209647489,node,Restaurant du Stade,restaurant,Clermont-Ferrand,,,,45.7702352,3.0801315
+4221689702,node,Le Beaupré,restaurant,Clermont-Ferrand,,,,45.761823,3.1283811
+4221811989,node,Les Filous!,restaurant,Clermont-Ferrand,,,,45.7765311,3.0839512
+4223417487,node,Restaurant Inter-Entreprises,restaurant,Clermont-Ferrand,,,,45.8441136,3.1241693
+4227467189,node,Apicius,restaurant,Clermont-Ferrand,,,,45.7792592,3.0827172
+4228915852,node,Les Privilodges Apparthôtel Carré de Jaude,hotel,Clermont-Ferrand,"7 Avenue Julien, 63000, Clermont-Ferrand",63000,,45.7751244,3.0811262
+4230356093,node,Sushi Spot,restaurant,Clermont-Ferrand,,,,45.7734117,3.0934525
+4231912695,node,La Table au Plafond,restaurant,Clermont-Ferrand,,,http://latableauplafond.wix.com/,45.7777321,3.0862189
+4233659390,node,Jardin Secret,restaurant,Clermont-Ferrand,,,,45.7771348,3.0862626
+4272824678,node,L'Orient Express,restaurant,Clermont-Ferrand,,,,45.7785921,3.1112202
+4355024655,node,L'O de Source,restaurant,Clermont-Ferrand,,,,45.7646673,3.0486797
+4392445908,node,Hôtel Beaulieu,hotel,Clermont-Ferrand,,,,45.7738576,3.0928467
+4405436630,node,Residhome Clermont Ferrand Gergovia,hotel,Clermont-Ferrand,125 Avenue de la République,,https://www.residhome.com/residence-hoteliere-aparthotel-clermontferrand-208.html,45.7893082,3.1089241
+4419436987,node,Quality Hotel Clermont Kennedy,hotel,Clermont-Ferrand,,,,45.8039011,3.118348
+4427593090,node,La Tonkinoise,restaurant,Clermont-Ferrand,,,,45.7783948,3.0834483
+4427593192,node,À la Bonne Franquette,restaurant,Clermont-Ferrand,,,,45.7797958,3.0783943
+4460071499,node,Stadium Bar,restaurant,Clermont-Ferrand,,,,45.8103757,3.1142425
+4489489723,node,Le Petit Chaperon Rouge,restaurant,Clermont-Ferrand,,,,45.7809129,3.0783574
+4489489724,node,Amphitryon Capucine,restaurant,Clermont-Ferrand,,,,45.7809077,3.0782366
+4499218391,node,Le 62,restaurant,Clermont-Ferrand,"62 Rue Fontgiève, 63000",63000,,45.7808541,3.0774575
+4499345503,node,Le Devant,restaurant,Clermont-Ferrand,,,,45.7787911,3.0834813
+4519788734,node,Comme à la Maison,restaurant,Clermont-Ferrand,,,,45.788896,3.1153999
+4524972271,node,Hostellerie Le Petit Bonneval,hotel,Clermont-Ferrand,"96 Avenue de la République, 63170, Pérignat-lès-Sarliève",63170,https://lepetitbonneval.com/,45.7245143,3.1469604
+4548936071,node,Bouillon Tigre,restaurant,Clermont-Ferrand,"16 Rue de la Préfecture, 63000, Clermont-Ferrand",63000,https://www.facebook.com/bouillontigre/,45.7776082,3.0830847
+4548936074,node,Le Distil,restaurant,Clermont-Ferrand,,,,45.7776425,3.0833347
+4586045985,node,chambre et Gîte Entre lacs et volcans,restaurant,Clermont-Ferrand,6 Rue Roland Brousse,,https://entrelacsetvolcans.fr/,45.6926513,2.9965587
+4597017792,node,Shalimar,restaurant,Clermont-Ferrand,,,,45.7783853,3.0802878
+4597047492,node,Le Pile Poêle,restaurant,Clermont-Ferrand,,,,45.7785046,3.0809064
+4601167090,node,Ducher,restaurant,Clermont-Ferrand,,,,45.7799734,3.1149012
+4601167091,node,Le Bœuf Brézet,restaurant,Clermont-Ferrand,,,,45.7793911,3.1331569
+4625753087,node,Hôtel de Bordeaux,hotel,Clermont-Ferrand,,,,45.777063,3.0737067
+4631580934,node,Sushi,restaurant,Clermont-Ferrand,,,https://www.sushi63.fr/,45.7627545,3.0993597
+4678660996,node,Aux Joyeux Pétanqueurs,restaurant,Clermont-Ferrand,,,,45.7698034,3.0812448
+4704910892,node,Le Pinocchio,restaurant,Clermont-Ferrand,,,,45.7784669,3.0802946
+4710787679,node,Pizza Hut,restaurant,Clermont-Ferrand,,,https://www.pizzahut.fr,45.7735973,3.0908352
+4730465899,node,Auberge du Vieux Four,restaurant,Clermont-Ferrand,,,,45.7491285,3.3024111
+4731078202,node,Shanghai Wok,restaurant,Clermont-Ferrand,,,,45.819577,3.1555501
+4742507014,node,Le Bourbonnais,restaurant,Clermont-Ferrand,,,,45.784096,3.1148445
+4748210225,node,Loukum,restaurant,Clermont-Ferrand,"127 Avenue de la République, Cébazat",,,45.8196405,3.1080455
+4748210237,node,Sultan Restaurant,restaurant,Clermont-Ferrand,,,,45.8083097,3.1090846
+4761600521,node,La Palette des Saveurs,restaurant,Clermont-Ferrand,46 ter Rue des Bardines,,,45.7776068,3.2031313
+4770908006,node,Côté Sushi,restaurant,Clermont-Ferrand,"11 Place de la Victoire, 63000, Clermont-Ferrand",63000,https://cotesushi.com/restaurants/89,45.7776872,3.0856613
+4783228321,node,L'Aubergerie,restaurant,Clermont-Ferrand,,,,45.7473786,3.0704274
+4823427242,node,Hanguk Bap,restaurant,Clermont-Ferrand,,,,45.7866919,3.0894431
+4829408333,node,Les Sablons,restaurant,Clermont-Ferrand,"Route de Vichy, 63430",63430,,45.8033706,3.2613604
+4864035556,node,Poivre Rouge,restaurant,Clermont-Ferrand,"200 Boulevard Étienne Clémentel, 63100, Clermont-Ferrand",63100,,45.8118372,3.1105573
+4870416891,node,Chez Julie,restaurant,Clermont-Ferrand,,,,45.674088,3.4835551
+4889725490,node,Speed'zza,restaurant,Clermont-Ferrand,"32 bis Rue de Rabanesse, 63000, Clermont-Ferrand",63000,https://www.speedzza63.com/,45.7681381,3.0864287
+4920351184,node,Au Toucan,restaurant,Clermont-Ferrand,,,https://restaurant-aubiere.weebly.com/,45.7498413,3.1343064
+4947065121,node,Le Zénith de Mon Père,restaurant,Clermont-Ferrand,,,,45.7763188,3.0871487
+4947089322,node,L'Alant,restaurant,Clermont-Ferrand,"1 Rue de l'Ancien Poids de Ville, 63000",63000,,45.7785386,3.0833986
+4947093123,node,Bath's,restaurant,Clermont-Ferrand,,,,45.7792006,3.0826764
+4955497621,node,Lalibela,restaurant,Clermont-Ferrand,25 Avenue de la République,,,45.7833983,3.0974716
+4965878033,node,Le Tarbouch des Dômes,restaurant,Clermont-Ferrand,,,,45.7783517,3.0801246
+4982615829,node,Le Comptoir,restaurant,Clermont-Ferrand,,,,45.77978,3.0808489
+5028721684,node,La patate chaude,restaurant,Clermont-Ferrand,,,,45.7379062,3.2081375
+5028762669,node,Yuzu,restaurant,Clermont-Ferrand,,,https://yuzu.restaurant/,45.735451,3.1784414
+5031797276,node,Brasserie Romeu,restaurant,Clermont-Ferrand,,,,45.7825733,3.1198521
+5032844561,node,La Pasta Im'mobile,restaurant,Clermont-Ferrand,,,,45.7832804,3.1194085
+5049019206,node,Delhi Saï,restaurant,Clermont-Ferrand,,,,45.8165264,3.111075
+5049019211,node,Pizz'Eco,restaurant,Clermont-Ferrand,,,,45.8164851,3.1103781
+5062189222,node,Archipel Volcans,hotel,Clermont-Ferrand,19 Route de Clermont,,https://www.archipel-volcans.com/,45.7449938,2.9689774
+5063638510,node,L'Alambic,restaurant,Clermont-Ferrand,,,,45.7809932,3.0821659
+5127991323,node,Bistro Régent,restaurant,Clermont-Ferrand,3 Avenue Lavoisier,,,45.7579721,3.144572
+5169831180,node,Chez Yasmina,restaurant,Clermont-Ferrand,24 Rue des Gras,,,45.7787868,3.0839833
+5171256921,node,Filipote Pizza,restaurant,Clermont-Ferrand,,,,45.7303577,3.2120906
+5195482927,node,Terres Latines,restaurant,Clermont-Ferrand,,,,45.7768543,3.0838554
+5195483023,node,Le Nandou,restaurant,Clermont-Ferrand,,,,45.7764628,3.0840798
+5195568421,node,Lard de Vivre,restaurant,Clermont-Ferrand,,,,45.7783153,3.0839245
+5223316923,node,Bistro Vénitien,restaurant,Clermont-Ferrand,,,,45.7787854,3.0838191
+5236661825,node,Ôpanda,restaurant,Clermont-Ferrand,,,,45.8124125,3.1102518
+5244349432,node,BioAuvergne,restaurant,Clermont-Ferrand,,,http://www.bio-auvergne.com/,45.7842596,3.1012787
+5248371921,node,Le Bistrot de Clermont,restaurant,Clermont-Ferrand,,,,45.7694556,3.0833587
+5256556722,node,Lard et la Manière,restaurant,Clermont-Ferrand,,,,45.7782953,3.080984
+5308293237,node,Pizza Village,restaurant,Clermont-Ferrand,"42 Rue Sidoine Apollinaire, 63970, Aydat",63970,,45.6602096,2.9745451
+5317154557,node,Shi Hai Yi Jia,restaurant,Clermont-Ferrand,,,,45.7889225,3.1381448
+5317154558,node,Thaï Break,restaurant,Clermont-Ferrand,,,,45.788963,3.1381809
+5328014361,node,,restaurant,Clermont-Ferrand,,,,45.7938193,3.1596186
+5404778820,node,Le Petit Marché,restaurant,Clermont-Ferrand,,,,45.7611693,3.0949343
+5404822436,node,L'Ambassade Lyonnaise,restaurant,Clermont-Ferrand,,,,45.7732789,3.0758701
+5414154323,node,Basilic & Co,restaurant,Clermont-Ferrand,,,,45.7806715,3.0814195
+5433783021,node,Chez Kim Loan,restaurant,Clermont-Ferrand,,,,45.7785354,3.0866568
+5465165926,node,Moya,restaurant,Clermont-Ferrand,,,https://moya63.com/,45.7736126,3.0810246
+5525823271,node,Le Tablier,restaurant,Clermont-Ferrand,,,,45.7796061,3.0782785
+5525823273,node,Dadino Pizze,restaurant,Clermont-Ferrand,,,https://www.dadinopizze.fr/,45.7792152,3.079931
+5525823480,node,Les Tontons,restaurant,Clermont-Ferrand,,,https://bistrotlestontons.fr/,45.7794015,3.0791786
+5552144023,node,Les Canailles,restaurant,Clermont-Ferrand,,,,45.7795552,3.0848812
+5552145021,node,Que du Bonheur,restaurant,Clermont-Ferrand,,,,45.7794273,3.0841798
+5552145121,node,Le Buronnier,restaurant,Clermont-Ferrand,,,,45.7793783,3.0841283
+5554063021,node,Le Yack,restaurant,Clermont-Ferrand,,,,45.7754676,3.0849857
+5586799461,node,,restaurant,Clermont-Ferrand,,,,45.7934213,3.2494112
+5611387310,node,Les P'tits Plats,restaurant,Clermont-Ferrand,,,,45.7801513,3.0900794
+5611387319,node,Restaurant DJ,restaurant,Clermont-Ferrand,,,,45.7798055,3.095507
+5634430223,node,Les Saveurs d'Afrique,restaurant,Clermont-Ferrand,,,,45.7799405,3.083356
+5639807523,node,L'Annexe,restaurant,Clermont-Ferrand,,,,45.7789035,3.0947802
+5639819921,node,Le Petit Albert,restaurant,Clermont-Ferrand,,,,45.7794143,3.0943258
+5639819922,node,La Mama,restaurant,Clermont-Ferrand,,,,45.7787909,3.0953806
+5675666249,node,Royal d'Asie,restaurant,Clermont-Ferrand,23 Rue Henri Matisse,,,45.7763627,3.1985594
+5710912198,node,La Cocotte Bleue,restaurant,Clermont-Ferrand,2 Boulevard du Lac,,https://www.lacocottebleue.com,45.6659593,2.9823925
+5717969425,node,Extrême-Orient,restaurant,Clermont-Ferrand,,,,45.7795064,3.0843806
+5863234290,node,Cacot,restaurant,Clermont-Ferrand,"49 Rue des Courtiaux, 63000, Clermont-Ferrand",63000,https://www.cacot.fr/,45.7688261,3.1289223
+5878893885,node,Le Chaudron,restaurant,Clermont-Ferrand,,,,45.7684372,3.1309222
+5943376976,node,La Gourmandine,restaurant,Clermont-Ferrand,,,,45.7782142,3.0810009
+6007096200,node,Le Bistrot d'à Côté,restaurant,Clermont-Ferrand,"16 Rue des Minimes, 63000",63000,,45.7778934,3.0810753
+6027177987,node,Comme Chez Soi,restaurant,Clermont-Ferrand,,,,45.7797298,3.0833309
+6052682685,node,B Bistro,restaurant,Clermont-Ferrand,,,,45.793334,3.1133688
+6082917618,node,Los Dos Hermanos,restaurant,Clermont-Ferrand,,,,45.7749808,3.0848951
+6085781514,node,La farandole,restaurant,Clermont-Ferrand,,,,45.7991326,3.2433043
+6085781533,node,Brasserie Pizzeria La Grange,restaurant,Clermont-Ferrand,,,,45.7933195,3.2291852
+6085792660,node,Le Brazza,restaurant,Clermont-Ferrand,,,,45.799406,3.2485621
+6085792989,node,Pizza Fidelio,restaurant,Clermont-Ferrand,,,,45.7991905,3.2447393
+6140498369,node,Le Gusto,restaurant,Clermont-Ferrand,200 Boulevard Étienne Clémentel,,,45.8125964,3.1098059
+6165650986,node,Mama Africa,restaurant,Clermont-Ferrand,,,,45.7813894,3.0937256
+6165651386,node,Wok Thai,restaurant,Clermont-Ferrand,,,,45.7813183,3.0934547
+6278938386,node,Hamammet,restaurant,Clermont-Ferrand,,,,45.7788174,3.0985845
+6278944085,node,Le Zinc d'André,restaurant,Clermont-Ferrand,,,,45.7788063,3.0987115
+6278958791,node,Barrio Latino,restaurant,Clermont-Ferrand,,,,45.780259,3.0869944
+6278964885,node,Maiko,restaurant,Clermont-Ferrand,,,,45.780372,3.0901784
+6279001187,node,Rodizio.V,restaurant,Clermont-Ferrand,,,,45.7802893,3.0871325
+6295550197,node,Le Dôme,restaurant,Clermont-Ferrand,,,,45.7746716,3.0825174
+6323246778,node,Le Patio Des Carmes,restaurant,Clermont-Ferrand,,,,45.7826179,3.0932099
+6335153111,node,Le Chardonnay,restaurant,Clermont-Ferrand,"1 Place Philippe Marcombes, 63000, Clermont-Ferrand",63000,https://www.lechardonnay.fr/,45.7793759,3.0864684
+6371329021,node,La Grange Aux Ayres,hotel,Clermont-Ferrand,,,http://lagrangeauxayres.fr/,45.6224918,3.0468512
+6373956285,node,Les Gourmets d'Angkor,restaurant,Clermont-Ferrand,,,,45.7843686,3.0939194
+6398370489,node,La Table de Thierry,restaurant,Clermont-Ferrand,,,,45.7779397,3.0851095
+6461966685,node,Le Kyl's,restaurant,Clermont-Ferrand,,,,45.7893928,3.0978296
+6494657485,node,Chez Louise,restaurant,Clermont-Ferrand,,,,45.7849694,3.1025951
+6494661498,node,Le Six3,restaurant,Clermont-Ferrand,,,,45.7850907,3.1031645
+6494664405,node,Chez Agathe,restaurant,Clermont-Ferrand,,,,45.7858667,3.1045904
+6524625675,node,Pamina,restaurant,Clermont-Ferrand,"9 Rue Saint-Hérem, 63000, Clermont-Ferrand",63000,,45.7800338,3.0850573
+6530433988,node,Kazmia,restaurant,Clermont-Ferrand,,,,45.7795312,3.0957502
+6532185585,node,La Palmeraie,restaurant,Clermont-Ferrand,,,,45.779156,3.0846816
+6557260885,node,La Parenthèse,restaurant,Clermont-Ferrand,,,,45.7907615,3.1103205
+6557646186,node,Carré crêperie,restaurant,Clermont-Ferrand,2 Rue de la Treille,,,45.7772034,3.0863272
+6561152651,node,L'Antre de Dionysos,restaurant,Clermont-Ferrand,"25 Rue de Rabanesse, 63000, Clermont-Ferrand",63000,https://www.lantrededionysos.fr/,45.7684412,3.0867831
+6567547685,node,Albert Élisabeth,hotel,Clermont-Ferrand,,,,45.7791657,3.0967368
+6594751530,node,Hôtel Athéna,hotel,Clermont-Ferrand,,,,45.7670599,3.0552189
+6598514521,node,Sushi otashi,restaurant,Clermont-Ferrand,,,,45.7670414,3.096113
+6610291987,node,Crêperie,restaurant,Clermont-Ferrand,,,,45.7688715,3.056935
+6610339275,node,Auberge de charade,restaurant,Clermont-Ferrand,,,,45.7484289,3.0301855
+6616384122,node,Le sophalie,restaurant,Clermont-Ferrand,,,,45.7652872,3.0558117
+6694279085,node,Bistrot Klam',restaurant,Clermont-Ferrand,,,,45.8156977,3.1490763
+6708776686,node,Café In,restaurant,Clermont-Ferrand,"9 Rond-Point de la Pardieu, 63000, Clermont-Ferrand",63000,,45.7603578,3.1322669
+6708776687,node,Why Not,restaurant,Clermont-Ferrand,"1 Avenue Michel-Ange, 63000, Clermont-Ferrand",63000,,45.7600966,3.1323019
+6749745712,node,Les petits ventres,restaurant,Clermont-Ferrand,,,,45.7238498,3.3398642
+6812372986,node,Artyster,hotel,Clermont-Ferrand,,,,45.7803992,3.0813296
+6903246905,node,Pavillon Lamartine,restaurant,Clermont-Ferrand,,,,45.7773198,3.079267
+6974017585,node,Le Bistrot du Marché,restaurant,Clermont-Ferrand,"10 Place Saint-Pierre, 63000, Clermont-Ferrand",63000,https://www.lebistrot-dumarche.fr/,45.779308,3.0833551
+6992752685,node,Le Comptoir des Saveurs,restaurant,Clermont-Ferrand,"5 Rue Sainte-Claire, 63000, Clermont-Ferrand",63000,https://www.le-comptoir-des-saveurs.fr/,45.7805931,3.0822082
+7050533029,node,Agalyne,restaurant,Clermont-Ferrand,,,https://www.epiceriem.fr,45.7728005,3.0814731
+7214320056,node,Fille à Papa,restaurant,Clermont-Ferrand,,,,45.7779916,3.0836269
+7214592984,node,Flagrants Délices,restaurant,Clermont-Ferrand,,,https://flagrants-delices-restaurant-clermont-ferrand.eatbu.com/?lang=fr#contact,45.78042,3.0806306
+7285574386,node,Nhu-y,restaurant,Clermont-Ferrand,28 Rue Saint-Dominique,,https://www.restaurant-nhu-y.com/,45.778385,3.0798338
+7376879252,node,Délices d'Asie,restaurant,Clermont-Ferrand,,,,45.7809232,3.0789738
+7389533107,node,Le Royan,restaurant,Clermont-Ferrand,,,,45.7758595,3.0794691
+7603071204,node,La Maison Bleue,restaurant,Clermont-Ferrand,,,,45.8027221,3.1102952
+7612530247,node,Pizzeria Dubien,restaurant,Clermont-Ferrand,,,,45.694391,3.2239461
+7902675321,node,Côté Tiretaine,restaurant,Clermont-Ferrand,,,,45.7680834,3.0144898
+7962032585,node,Hôtel du Midi,hotel,Clermont-Ferrand,,,,45.7790333,3.0996636
+7988563385,node,La Rivière des Parfums,restaurant,Clermont-Ferrand,,,https://www.larivieredesparfums.com/,45.7824654,3.0925834
+8010201873,node,Le Meli,restaurant,Clermont-Ferrand,48 Rue des Chandiots,,,45.7893626,3.1165673
+8197100552,node,Rei Galo Restaurant,restaurant,Clermont-Ferrand,7 Rue Robert Lemoy,,https://www.reigalo.fr/,45.8173367,3.1110796
+8553297449,node,Auberge de la Jonchère,restaurant,Clermont-Ferrand,,,,45.7137084,3.3945941
+8657095122,node,Eklo,hotel,Clermont-Ferrand,"6 Rue Auger, 63100, Clermont-Ferrand",63100,https://www.eklohotels.com/fr/clermont-ferrand,45.781673,3.1055347
+8736823586,node,Les Briques Rouges,restaurant,Clermont-Ferrand,,,,45.6847856,3.1745388
+8866932812,node,Le Magnétic,restaurant,Clermont-Ferrand,,,,45.7841672,3.098989
+8866932813,node,Aiden by Best Western,hotel,Clermont-Ferrand,,,,45.7842837,3.0988925
+9078728966,node,British book club,restaurant,Clermont-Ferrand,,,https://www.thebritishbookclub.com/,45.7809808,3.0815335
+9171558617,node,Restaurant Suédois,restaurant,Clermont-Ferrand,,,,45.8035054,3.1393484
+9209395588,node,Le Bistrot de Robert,restaurant,Clermont-Ferrand,12 Place de la Rodade,,,45.7937757,3.1097605
+9216118519,node,Chez Charles,restaurant,Clermont-Ferrand,"6 Avenue Léonard de Vinci, 63000, Clermont-Ferrand",63000,https://chezcharles.restaurant/votre-charles/9,45.7631011,3.1338825
+9438177484,node,yam yam,restaurant,Clermont-Ferrand,,,,45.7799362,3.0832024
+9471817211,node,rouge tendance,restaurant,Clermont-Ferrand,,,,45.7581697,3.1478975
+9804191175,node,Ibis Styles,hotel,Clermont-Ferrand,,,https://all.accor.com/hotel/B2L8/index.fr.shtml,45.7865874,3.103395
+9880486317,node,L'entre deux,restaurant,Clermont-Ferrand,"2, 63430",63430,,45.7977385,3.2377462
+9883022669,node,Les Délices de Thu,restaurant,Clermont-Ferrand,"81 ter Avenue Jean Noëllet, 63170, Beaumont",63170,https://www.facebook.com/profile.php?id=100072611585116,45.7575342,3.1025738
+9920625713,node,Le Petit Tablier,restaurant,Clermont-Ferrand,,,http://lepetittablier.com/,45.837721,3.1175844
+9920633833,node,Charles Bonpain,restaurant,Clermont-Ferrand,,,https://www.charles-bonpain.fr/,45.8376032,3.117732
+9920648719,node,La FAK,restaurant,Clermont-Ferrand,,,https://www.la-fak.com/,45.8410704,3.1176737
+9920655377,node,Le D&D,restaurant,Clermont-Ferrand,,,https://www.restaurantdandd.fr/,45.8415664,3.1149155
+9922869118,node,La clé des champs,restaurant,Clermont-Ferrand,,,,45.7648716,2.9970829
+9922869119,node,Auberge de la Baraque Géraldine Laubrières,restaurant,Clermont-Ferrand,,,https://www.laubrieres.com,45.7800968,3.0214629
+9922869120,node,Le relais des Puys,hotel,Clermont-Ferrand,,,,45.7798872,3.0218055
+9961182281,node,La maison du Gaucher,restaurant,Clermont-Ferrand,"32 Rue du Cheval Blanc, 63000, Clermont-Ferrand",63000,,45.7782765,3.0825648
+9977133958,node,Eat Salad,restaurant,Clermont-Ferrand,,,,45.7842243,3.1103988
+9979598678,node,Olive & Pomme,restaurant,Clermont-Ferrand,,,,45.7540392,3.1362716
+10068663398,node,Tosta Pizza,restaurant,Clermont-Ferrand,"31 Boulevard Gambetta, 63400, Chamalières",63400,https://www.tosta-pizza-chamalieres.fr/,45.7681133,3.0709122
+10271677140,node,L'Himalaya,restaurant,Clermont-Ferrand,"1 Avenue Michel-Ange, 63000, Clermont-Ferrand",63000,https://himalaya63.fr/,45.7606732,3.1326444
+10312964049,node,Le bruit du bouchon,restaurant,Clermont-Ferrand,,,,45.7795817,3.0834888
+10658456105,node,Hanami,restaurant,Clermont-Ferrand,,,https://www.hanami-brezet.fr/,45.7895498,3.138625
+10709422987,node,Restaurant poulet braseira,restaurant,Clermont-Ferrand,,,,45.7946856,3.2576528
+10774346605,node,Le Maharaja,restaurant,Clermont-Ferrand,,,,45.7768509,3.1010762
+10827570388,node,Le Canon Paisible,restaurant,Clermont-Ferrand,,,,45.7898775,3.0832897
+10833882964,node,La Tour de Pizz',restaurant,Clermont-Ferrand,"Boulevard Maurice Pourchon, 63100",,https://scoum63.wixsite.com/tourdepizz,45.7926298,3.091344
+10839467119,node,Antep,restaurant,Clermont-Ferrand,,,,45.7868957,3.0903524
+10861062705,node,Thaï Break,restaurant,Clermont-Ferrand,,,,45.7890461,3.1381451
+10865779526,node,Ne rien faire,restaurant,Clermont-Ferrand,,,,45.7783581,3.087304
+10884154694,node,Pizza Et Basta,restaurant,Clermont-Ferrand,Boulevard Jean-Baptiste Dumas,,,45.7870455,3.0848066
+10912659451,node,,restaurant,Clermont-Ferrand,,,,45.7808852,3.082204
+10951923914,node,Yuzu,restaurant,Clermont-Ferrand,,,,45.7649859,3.1251888
+11159124260,node,Pékin Express,restaurant,Clermont-Ferrand,,,,45.7730979,3.0919996
+11159124261,node,O'Frenchy's,restaurant,Clermont-Ferrand,,,,45.7728163,3.0911829
+11174828046,node,Fuzu,restaurant,Clermont-Ferrand,"40 Avenue Lavoisier, 63170, Aubière",63170,https://fuzu-clermont.fr/,45.7553797,3.1447928
+11176724065,node,Fresh Burritos,restaurant,Clermont-Ferrand,,,https://restaurants.freshburritos.fr/CLERMONT%20FERRAND/,45.7735306,3.0919341
+11387487959,node,Bar le Cyrano,restaurant,Clermont-Ferrand,,,,45.7240741,3.3381751
+11387487961,node,Le Petit Naples,restaurant,Clermont-Ferrand,,,https://www.lepetitnaples-billom.com/,45.7240357,3.3383899
+11552885196,node,PIÙ PIÙ,restaurant,Clermont-Ferrand,"1 Rue Jean Rochon, 63000, Clermont-Ferrand",63000,https://piu-piu.com/,45.7791817,3.0825044
+11569288149,node,Gao Sheng d'Asie,restaurant,Clermont-Ferrand,4 Rue des Chazots,,,45.751953,3.133284
+11582506255,node,Sambuca,restaurant,Clermont-Ferrand,"55 Avenue d'Italie, 63000, Clermont-Ferrand",63000,,45.7775377,3.0963616
+11608466132,node,Les Ruelles de Marrakech,restaurant,Clermont-Ferrand,,,,45.7752771,3.0848513
+11610997482,node,Les Jardins de Saulzet,restaurant,Clermont-Ferrand,,,https://www.lesjardinsdesaulzet.fr/,45.7136391,3.0703533
+11778606997,node,Aux Canuts Des Dômes,restaurant,Clermont-Ferrand,"55 Boulevard Gustave Flaubert, 63000",63000,,45.7697226,3.1236984
+11819976004,node,Nonna,restaurant,Clermont-Ferrand,"8 Rue de la Tour d'Auvergne, 63000, Clermont-Ferrand",63000,,45.7769283,3.0834248
+11832987542,node,Island Poké,restaurant,Clermont-Ferrand,,,,45.7792492,3.0814533
+11841684462,node,Il Gusto di Napoli,restaurant,Clermont-Ferrand,"10 Place de Salford, 63100, Clermont-Ferrand",63100,https://ilgustodinapoli.com/,45.7794335,3.0920945
+11975720169,node,Papapoule by Lo,restaurant,Clermont-Ferrand,"46 Avenue des Thermes, 63400",63400,https://www.papapoulebylo.fr/,45.7719427,3.063275
+11989938549,node,La table d'en face,restaurant,Clermont-Ferrand,"6 Place des Carmes Déchaux, 63000, Clermont-Ferrand",63000,https://www.latabledenface.com/,45.7825676,3.0934448
+11990582962,node,Break&Home Clermont-Ferrand,hotel,Clermont-Ferrand,,,https://breakandhome.com/clermont-ferrand,45.782355,3.0912009
+12047984088,node,Le Petit Casse Graine,restaurant,Clermont-Ferrand,,,,45.7695566,3.0090451
+12094752771,node,Séjours & Affaires aparthotel Clermont Ferrand Park République,hotel,Clermont-Ferrand,117 Avenue de la République,,https://www.sejours-affaires.com/residence-hoteliere-aparthotel-clermontferrand-165.html,45.7888323,3.108
+12103897139,node,Pizza Maestro Chignat,restaurant,Clermont-Ferrand,,,https://pizza-maestro-chignat.fr/,45.7858156,3.2811848
+12132267625,node,Hollywood Pizza,restaurant,Clermont-Ferrand,,,,45.6628095,3.2085694
+12141645710,node,Sushi wheel's,restaurant,Clermont-Ferrand,,,,45.7228283,3.3399905
+12144945805,node,Le comptoir de la Colombe,restaurant,Clermont-Ferrand,,,,45.6418546,3.2456005
+12172043486,node,Chez Alice,restaurant,Clermont-Ferrand,74 Rue Henri Barbusse,,,45.7825423,3.0928655
+12180564540,node,La galerie des saveurs,restaurant,Clermont-Ferrand,,,,45.7397984,3.1987861
+12316032425,node,Le Petit Graillou,restaurant,Clermont-Ferrand,,,,45.7639407,3.0059877
+12358446315,node,Chat'Lounge,restaurant,Clermont-Ferrand,"2 Place Gilbert Gaillard, 63000, Clermont-Ferrand",63000,https://chatlounge.fr/,45.7804335,3.0831865
+12420861853,node,Agrim,restaurant,Clermont-Ferrand,,,https://www.restaurant-agrim.fr/,45.7756623,3.1734356
+12775745649,node,L'Estanco,restaurant,Clermont-Ferrand,"40 Bis Avenue des Thermes, 63400",63400,,45.7723434,3.0636753
+12860559268,node,La Donna Maria,restaurant,Clermont-Ferrand,,,,45.7792407,3.0833651
+12864509801,node,Piperno,restaurant,Clermont-Ferrand,"11 Place de la Victoire, 63000, Clermont-Ferrand",63000,https://piperno.fr,45.7775404,3.0856799
+12894102901,node,Auberge de Monjoux,restaurant,Clermont-Ferrand,,,,45.6523583,3.387586
+12914134839,node,Le 62,restaurant,Clermont-Ferrand,"62 Rue Fontgiève, 63000, Clermont-Ferrand",63000,,45.7808534,3.0773991
+12920654666,node,Bistrot Murmure,restaurant,Clermont-Ferrand,"13 Boulevard Charles de Gaulle, 63000, Clermont-Ferrand",63000,https://www.bistrotmurmure.fr/,45.7729217,3.0830415
+12980603484,node,Anatole,restaurant,Clermont-Ferrand,,,,45.7799359,3.1196984
+12989462761,node,Buumi,restaurant,Clermont-Ferrand,,,,45.7783589,3.0809824
+13001905502,node,La gaufrerie de Louise,restaurant,Clermont-Ferrand,23 Boulevard du Lac,,,45.667597,2.9832857
+13028037182,node,Distributeur le petit Naples,restaurant,Clermont-Ferrand,,,,45.6421287,3.2450512
+13039981230,node,IV Saisons Pizz,restaurant,Clermont-Ferrand,,,,45.7446153,3.1774005
+13125430119,node,Les Domaines Qui Montent,restaurant,Clermont-Ferrand,,,https://www.ldqm-clermont.fr/,45.7766644,3.0759148
+13167526728,node,Planty Kitchen,restaurant,Clermont-Ferrand,,,,45.7794592,3.0832138
+13178703513,node,Le Duguesclin,restaurant,Clermont-Ferrand,,,https://le-duguesclin.fr,45.795212,3.1128189
+13527388903,node,Baci Baci Pizza,restaurant,Clermont-Ferrand,"50 Avenue Pasteur, Chamalières",,https://bacibaci-pizza.eatbu.com/,45.7734516,3.0751038
+13532485178,node,Chez le Pistore,restaurant,Clermont-Ferrand,"4 Rue Michel Rocard, 63000, Clermont-Ferrand",63000,https://www.instagram.com/chezlepistore/,45.7721868,3.0859845
+13602447627,node,Le 17.45,restaurant,Clermont-Ferrand,"6 Rue Michel Rocard, 63000, Clermont-Ferrand",63000,https://www.le17-45.fr/,45.7722148,3.0856865
+13625610625,node,Italio,restaurant,Clermont-Ferrand,,,https://www.italio.fr/,45.7671348,3.0945494
+13638695128,node,Restaurant de L’Oceania,restaurant,Clermont-Ferrand,,,,45.7717071,3.0837355
+13707759474,node,Chez Maximes,restaurant,Clermont-Ferrand,78 Rue Lamartine,,https://www.restaurantchezmaximes.com/,45.7770501,3.0775467
+13820380988,node,Casa di Maestro,restaurant,Clermont-Ferrand,,,,45.7466361,3.0949139
+13844119813,node,Bangkok Factory,restaurant,Clermont-Ferrand,,,,45.760545,3.1377424
+13844123003,node,Buumi,restaurant,Clermont-Ferrand,,,,45.7605484,3.1374934
+13898649208,node,Grand Mess - Le Grand Restaurant,restaurant,Clermont-Ferrand,,,,45.7615789,3.1414284
+13898649209,node,Grand Mess - Le Bouillon,restaurant,Clermont-Ferrand,,,,45.761361,3.141762
+13946153609,node,La Mangoune,restaurant,Clermont-Ferrand,"1 Rue Didier Daurat, 63000, Clermont-Ferrand",63000,https://lamangoune63.com/,45.7874931,3.140446
+13947599750,node,O bistrot,restaurant,Clermont-Ferrand,,,,45.7271972,3.3402315
+13978030651,node,Les bonnes manières,restaurant,Clermont-Ferrand,,,,45.7254394,3.3388452

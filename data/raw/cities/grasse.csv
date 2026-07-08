@@ -1,0 +1,1222 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+251434096,node,Asian Bowls,restaurant,Grasse,,,,43.613543,6.9755039
+254462589,node,La Terrazza,restaurant,Grasse,,,,43.6040893,6.9879453
+262279063,node,Hôtel Josse,hotel,Grasse,"8 Boulevard James Wyllie, 06160, Antibes",06160,,43.5721998,7.1255119
+276812330,node,La Broche de Fer,restaurant,Grasse,,,,43.6049547,7.0070003
+287898520,node,,restaurant,Grasse,,,,43.7224091,7.1153905
+305569145,node,Le Jarrier,restaurant,Grasse,,,,43.6279629,7.0975711
+305569146,node,Restaurant Hotel des Arcades,restaurant,Grasse,,,https://www.hotel-restaurant-les-arcades.com,43.6270151,7.0991262
+365519383,node,Le Chrono,restaurant,Grasse,,,,43.5810537,7.1250963
+365519571,node,La Famiglia,restaurant,Grasse,34 Avenue Thiers,,https://www.facebook.com/restaurantlafamigliaantibes/,43.5828603,7.1229434
+365519582,node,Le Safranier,restaurant,Grasse,,,,43.5787777,7.1262527
+365520512,node,La Guinguette Du Tigre,restaurant,Grasse,,,https://www.laguinguettedutigre.fr/,43.5830387,7.1263938
+365521259,node,Don Juan,restaurant,Grasse,,,https://le-don-juan.eatbu.com,43.5822353,7.1265093
+365521783,node,Le Figuier de St Esprit,restaurant,Grasse,,,https://www.restaurant-figuier-saint-esprit.fr/,43.5816928,7.128552
+365559824,node,Bangkok Café,restaurant,Grasse,,,https://bangkokcafeantibes.com/,43.5831335,7.1251635
+365560909,node,Le Vauban,restaurant,Grasse,,,https://www.levauban.fr/,43.5819504,7.1264423
+365561030,node,La Guinguette,restaurant,Grasse,,,,43.5809159,7.1269346
+365561427,node,L'Elephant Bleu,restaurant,Grasse,"28 Rue des Casemates, Antibes",,,43.5830292,7.1265046
+365562099,node,Le Tire Bouchon,restaurant,Grasse,,,,43.5810644,7.1252678
+365562156,node,Chez Marguerite,restaurant,Grasse,,,,43.5809765,7.1255159
+366869366,node,Papanico's,restaurant,Grasse,"44 Boulevard d'Aguillon, Antibes",,,43.5828831,7.1276253
+366869437,node,La Gravette,restaurant,Grasse,,,,43.5829075,7.1277082
+439229965,node,Hôtel Trianon,hotel,Grasse,14 Avenue de l'Esterel,,https://www.trianon-hotel.com/,43.5702888,7.1095976
+439229967,node,Casa Moho,hotel,Grasse,,,,43.5702036,7.1098965
+442498407,node,L'Atelier 67,restaurant,Grasse,,,,43.6212191,7.0639555
+455432999,node,Pinzaria,restaurant,Grasse,,,,43.6199403,6.9705421
+457094553,node,Au Pied dans le Plat,restaurant,Grasse,,,,43.6136682,6.9694472
+458185518,node,La Pergola,restaurant,Grasse,,,,43.6001999,6.9906381
+458185552,node,Le Candille,restaurant,Grasse,,,,43.6009601,6.9906408
+470372451,node,Le Nid d'Aigle,restaurant,Grasse,,,,43.7199614,6.9793191
+471556460,node,Hong Yun,restaurant,Grasse,,,https://hongyun9.wixsite.com/hongyunantibes,43.5829243,7.1206235
+471974947,node,Pizza du Village,restaurant,Grasse,,,,43.6578734,7.1231887
+512635551,node,Saut du Loup,restaurant,Grasse,,,,43.7478772,6.9981803
+542158946,node,Le Sophocle,restaurant,Grasse,,,,43.6089017,7.0734257
+549869472,node,La Gabbia,restaurant,Grasse,"7 Rue Pasteur, 06370, Mouans-Sartoux",06370,,43.6196452,6.9706179
+549869476,node,Le Délice des Garçons,restaurant,Grasse,,,,43.6200889,6.9699097
+549869486,node,L'Oustaou,restaurant,Grasse,,,,43.6199674,6.9702466
+549869489,node,Mick’Elly,restaurant,Grasse,,,,43.6173623,6.9733373
+549869500,node,Brasserie des Cèdres,restaurant,Grasse,,,,43.6180961,6.9727591
+564702250,node,Ibis Styles Antibes,hotel,Grasse,2067 Chemin de Saint-Claude,,https://all.accor.com/hotel/7973/index.en.shtml,43.6008588,7.0941226
+564882297,node,Cargo,restaurant,Grasse,,,,43.5683992,7.0820148
+564882306,node,La Jonque Bleue,restaurant,Grasse,,,,43.567917,7.0823156
+564882309,node,Le Lagon Plage,restaurant,Grasse,,,,43.5693101,7.0833786
+571167737,node,Mas de Vence (hotel-restaurant),hotel,Grasse,"539 Avenue Émile Hugues, 06140, Vence",06140,,43.7201354,7.1128868
+571168294,node,La Table du Mas,restaurant,Grasse,"539 Avenue Émile Hugues, 06140, Vence",06140,https://masdevence.azurline.com/table,43.7200326,7.1127151
+587716660,node,Courtepaille,restaurant,Grasse,3030 Chemin de Saint-Bernard,,https://www.courtepaille.com/restaurant/courtepaille-antibes-vallauris/,43.6029375,7.0643343
+594858554,node,Hôtel de Mougins,hotel,Grasse,,,,43.6042112,7.0107265
+595260101,node,L'auberge du clos des pins,restaurant,Grasse,,,,43.6685799,7.0424336
+600879540,node,La Pizza Cresci,restaurant,Grasse,,,,43.5504447,7.0119138
+611057288,node,O' Resto,restaurant,Grasse,,,,43.5781991,7.1057773
+617401394,node,Le Park,restaurant,Grasse,,,,43.604615,7.0042559
+618826629,node,La Gallery,restaurant,Grasse,,,,43.5634819,6.9695955
+620110812,node,Café Latin,restaurant,Grasse,,,,43.6414737,7.0076425
+620110840,node,,restaurant,Grasse,,,,43.6409833,7.0089514
+620110843,node,Crèperie de Valbonne,restaurant,Grasse,,,,43.6414337,7.0081576
+620110846,node,Le Petit Carnot,restaurant,Grasse,"13 Boulevard Carnot, 06560",06560,,43.6424153,7.0081872
+620110849,node,Le Valbonnais,restaurant,Grasse,,,,43.642524,7.0084983
+620110872,node,L'auberge provençale,restaurant,Grasse,,,,43.6414355,7.0084223
+620110880,node,Le Kashmir,restaurant,Grasse,,,,43.6416801,7.0091608
+620110884,node,La Pigeot,restaurant,Grasse,,,,43.6422495,7.00904
+620110894,node,Terra Rossa,restaurant,Grasse,,,,43.6413085,7.008795
+632476389,node,Palais de Grasse,restaurant,Grasse,,,,43.6426584,6.9572898
+633569402,node,Pizza Noli,restaurant,Grasse,128 bis Boulevard du Président Wilson,,https://pizza-noli.fr/,43.5693662,7.113751
+633569405,node,Le Maï Thaï,restaurant,Grasse,,,,43.5694882,7.1138015
+634904564,node,La Bergerie,restaurant,Grasse,,,,43.6428119,7.0076382
+638292373,node,Le Duplex,restaurant,Grasse,,,,43.6127131,6.9684454
+639103883,node,L'Oasis,restaurant,Grasse,,,,43.5253377,6.9432741
+648461258,node,Sushi Kan,restaurant,Grasse,,,,43.552003,7.0235764
+652489378,node,Le Bois Doré,restaurant,Grasse,,,,43.6241486,7.0034397
+685604189,node,Bistro du Pré,restaurant,Grasse,,,,43.698391,6.8492738
+693698701,node,Lorenzo,restaurant,Grasse,,,,43.6220691,7.0460604
+693698790,node,Ô Resto,restaurant,Grasse,,,,43.622852,7.0465884
+694454730,node,,restaurant,Grasse,,,,43.7213645,6.976543
+699628165,node,La Mousson,restaurant,Grasse,,,,43.6579848,7.188416
+702471908,node,Le Coin Gourmand,restaurant,Grasse,7 Rue de la Bastide Vieille,,,43.6228854,7.0459705
+702471913,node,Les Amouriers,restaurant,Grasse,"1 Place des Amouriers, 06560, Valbonne",06560,http://les-amouriers.fr/,43.6228894,7.0471512
+703164050,node,Le Baou Pizzeria,restaurant,Grasse,,,,43.6445022,7.0488343
+706799504,node,L'Appart,restaurant,Grasse,,,,43.6751136,7.1883748
+717325442,node,Michelangelo “MAMO”,restaurant,Grasse,2,,,43.582749,7.1257421
+726753900,node,Les Vieux Murs,restaurant,Grasse,"25 Promenade de l'Amiral de Grasse, 06600, Antibes",06600,https://www.lesvieuxmurs.com/fr,43.5798719,7.1278094
+745747753,node,Auberge Le Mas,guest_house,Grasse,,,,43.8432273,6.8592239
+771393887,node,Les Filles du Micocoulier,restaurant,Grasse,4 Cours Masséna,,https://www.lesfillesdumicocoulier.fr/,43.5803645,7.1275051
+771394288,node,Restaurant Pizzeria Da Cito,restaurant,Grasse,23,,,43.5806879,7.1274075
+771394346,node,L'armoise,restaurant,Grasse,2,,,43.5800155,7.1270962
+788871413,node,Chez Marie-Louise,restaurant,Grasse,"54 Boulevard du Maréchal Juin, 06800, Cagnes-sur-Mer",06800,,43.6570815,7.1509014
+789386245,node,La cuisine de Morgane,restaurant,Grasse,"1063 Avenue Maréchal Juin, 06250, Mougins",06250,,43.5946357,6.9897979
+796729848,node,Ruc Hôtel Cannes,hotel,Grasse,06400,06400,,43.5549339,7.0301147
+797742146,node,Les Tourrades,hotel,Grasse,"06400, Cannes",06400,,43.5506946,6.9610966
+820525905,node,Hôtel Lou Juan,hotel,Grasse,"5 Rue Sainte-Marguerite, 06160, Antibes",06160,,43.571665,7.1023776
+820769074,node,Hôtel Le Sud,hotel,Grasse,5 Rue Marcel Paul,,,43.5710233,7.112923
+821368958,node,La Bièrerie,restaurant,Grasse,2 Chemin des Frères Garbero,,,43.5998657,7.1223445
+821862882,node,Il Lago,restaurant,Grasse,,,,43.6001147,7.0137639
+825665468,node,Le Melko,restaurant,Grasse,7 Avenue Félix Raybaud,,,43.6413862,6.9118107
+825679822,node,,restaurant,Grasse,,,,43.6495204,6.9196983
+825686996,node,,restaurant,Grasse,,,,43.6462349,6.9142978
+825750767,node,La Trattoria,restaurant,Grasse,,,,43.6583643,6.9235824
+825750907,node,Le New Punjab,restaurant,Grasse,,,,43.6628315,6.9240845
+827268505,node,Berbeche,restaurant,Grasse,,,,43.569501,7.108431
+845335298,node,Le Montparnasse,restaurant,Grasse,15 Place Joseph Bermond,,,43.6221661,7.0400848
+845335303,node,La Tavola Di Nonno,restaurant,Grasse,,,,43.6217805,7.0400127
+845868964,node,La Salle à Manger,restaurant,Grasse,,,,43.6778864,6.9746781
+883089091,node,Green 2.0,restaurant,Grasse,,,https://www.greenpub-sophia.com/,43.6186174,7.0751608
+883089162,node,L'Aliva,restaurant,Grasse,,,,43.6180467,7.0750095
+897566355,node,Le Michelangelo,restaurant,Grasse,"151 Avenue Amiral de Grasse, 06620, Le bar sur Loup",06620,,43.7010443,6.991423
+901498707,node,Saint-Charles,restaurant,Grasse,,,,43.5455784,6.9395189
+918766206,node,La Barricade,restaurant,Grasse,,,,43.7956131,6.9438336
+918766327,node,La Vieille Auberge,restaurant,Grasse,,,,43.7954064,6.9430591
+926926229,node,Hôtel CasaBella,hotel,Grasse,,,https://www.hotel-casabella.com/,43.6201038,6.9712604
+952751876,node,La Corne,restaurant,Grasse,"16 Rue Saint-Dizier, 06400, Cannes",06400,,43.5512811,7.0088572
+956908827,node,Le Club,restaurant,Grasse,,,,43.6191627,7.0740699
+981397008,node,Bistrot à Huitres,restaurant,Grasse,"31 Cours Félix Faure, 06400, Cannes",06400,,43.5519921,7.0134845
+981397017,node,Le Rendez-Vous,restaurant,Grasse,"35 Cours Félix Faure, 06400, Cannes",06400,,43.5520652,7.0136105
+981397019,node,Astoux et Brun,restaurant,Grasse,,,,43.5519415,7.0132711
+981397021,node,La toque d'or,restaurant,Grasse,,,,43.552796,7.0127196
+1013133614,node,Le Clos Saint-Basile,restaurant,Grasse,,,,43.6049632,7.0058601
+1024627827,node,Blanc Sable Hôtel,hotel,Grasse,06220,06220,,43.5729217,7.0845598
+1037349719,node,O'Sarracino,restaurant,Grasse,14 Chemin Neuf,,,43.6269231,7.0950515
+1052275899,node,Le Saint-Jean,restaurant,Grasse,,,,43.5817274,6.9438818
+1104986275,node,Les Bartavelles,restaurant,Grasse,"1 Place du Château, 06210, Mandelieu-la-Napoule",06210,,43.5239755,6.9419768
+1106553711,node,Resort Horizon Bleu,hotel,Grasse,,,,43.502087,6.9416514
+1116040837,node,Le Comptoir 233,restaurant,Grasse,"1791 Route de Nice, 06600, Antibes",06600,,43.615342,7.12749
+1122654010,node,La Maison Rouge,restaurant,Grasse,,,,43.6057813,6.9957373
+1128914889,node,Chez Jo,restaurant,Grasse,13 Avenue Louis Gallet,,,43.569439,7.1103181
+1140437570,node,Brimer,hotel,Grasse,06400,06400,,43.5526812,7.0245641
+1140437574,node,Hotel Abrial,hotel,Grasse,"06400, Cannes",06400,,43.5530782,7.027259
+1162981074,node,Clos Saint-Pierre,restaurant,Grasse,,,,43.6746113,7.0062062
+1162983203,node,L'Orée d'Opio,restaurant,Grasse,,,,43.6691973,6.9936076
+1162983409,node,Le Mas des Géraniums,restaurant,Grasse,,,,43.669141,6.9880381
+1177515757,node,Le Routier Sympa,restaurant,Grasse,"549 Chemin des Campelières, Mougins",,https://le-routier-sympa.fr/,43.5801112,7.0051765
+1177527891,node,La Crêperie Breiz,restaurant,Grasse,"66 Rue Meynadier, 06400, Cannes",06400,,43.551845,7.0126062
+1182524959,node,Miramar Beach Hotel,hotel,Grasse,47 Avenue de Miramar,,,43.4855407,6.9370755
+1182568039,node,L'Etoile des Mers,restaurant,Grasse,,,,43.485328,6.937138
+1234251289,node,Hôtel du Nord,hotel,Grasse,,,,43.5736465,7.0878198
+1235128865,node,Chez les filles,restaurant,Grasse,,,,43.5801975,7.1217156
+1235128888,node,Salé Sucré,restaurant,Grasse,,,,43.5797079,7.122867
+1236689014,node,La Mouansoise,restaurant,Grasse,,,,43.6205152,6.9709829
+1236689017,node,Coté Jardin,restaurant,Grasse,,,,43.572093,7.0896941
+1241995085,node,Auberge du Baou Roux,restaurant,Grasse,"91 Rue des Écuries, 06750, Caille",06750,,43.7791682,6.7312261
+1245342074,node,L'olivier,restaurant,Grasse,,,,43.6018587,7.0614705
+1245342089,node,Le Coyote,restaurant,Grasse,,,,43.6003621,7.0599237
+1245518440,node,Ibis Budget,hotel,Grasse,,,,43.6005616,7.0605947
+1269971256,node,Le Grand Saule,restaurant,Grasse,,,,43.7796796,6.6422108
+1269971262,node,Chez Marius,hotel,Grasse,,,,43.7647062,6.6543661
+1289262575,node,Entrée des Artistes,restaurant,Grasse,"8 Place des Arcades, 06250, Mougins",06250,,43.5883843,7.0410714
+1300567270,node,Eden Hotel & Spa,hotel,Grasse,"06400, Cannes",06400,,43.5517995,7.0282612
+1322634765,node,Castel Garoupe Axa,hotel,Grasse,,,,43.5530062,7.1321277
+1323052022,node,Le César,restaurant,Grasse,,,,43.5541912,7.1364313
+1334402575,node,JW Marriott,hotel,Grasse,,,https://www.marriott.com/fr/hotels/ncejw-jw-marriott-cannes/overview,43.5500358,7.0253329
+1377975230,node,Hôtel Cannes Centre Univers,hotel,Grasse,"2 Rue du Maréchal Foch, 06400, Cannes",06400,https://hotelcannescentreunivers.com-hotel.com/,43.5526284,7.0189228
+1392190423,node,Cap d'Antibes Beach Hotel,hotel,Grasse,"10 Boulevard Maréchal Juin, 06160, Antibes",06160,,43.5613719,7.1179609
+1392372783,node,Hôtel de la Pinède,hotel,Grasse,,,,43.5679556,7.1135329
+1403402804,node,Pommodoro,restaurant,Grasse,11,,,43.5819397,7.1258053
+1406954267,node,Menthe Et Balico,restaurant,Grasse,2 Chemin des Frères Garbero,,https://www.menthetbalico.fr/,43.5995688,7.1221339
+1422452830,node,Le bistrot du Sommelier,restaurant,Grasse,"21 Rue Eugéne Giraud, 06560",06560,,43.6415665,7.008236
+1422477538,node,Les Arcades,restaurant,Grasse,,,,43.641645,7.0087099
+1422477542,node,Victoria,restaurant,Grasse,,,,43.6412649,7.0086141
+1425928609,node,Mare Nostrum,restaurant,Grasse,"10 Place Foux, 06130, Grasse",06130,,43.6608057,6.9226966
+1433904978,node,Le Strasbourgeois,restaurant,Grasse,,,,43.6048131,7.0006238
+1434862970,node,La Taverne du Liban,restaurant,Grasse,"6 Rue de la Pourtoune, 06570, Saint Paul de Vence",06570,,43.6978769,7.1221828
+1470027717,node,La Bergerie,restaurant,Grasse,,,,43.5871049,6.9684168
+1470027720,node,Mas du Grand Vallon,hotel,Grasse,"1550 Chemin du Grand Vallon, 06250, Mougins",06250,http://www.masdugrandvallon.net/,43.5867771,6.9686064
+1470027738,node,Zucchini Blossom,restaurant,Grasse,,,,43.6019077,6.9713311
+1472140354,node,Cippus Pizza,restaurant,Grasse,,,,43.7827771,6.9556205
+1492476145,node,Electric Café,restaurant,Grasse,,,,43.6637198,7.1510288
+1530146319,node,Warm'up,restaurant,Grasse,,,,43.54922,6.9665829
+1530286210,node,Balladins Cannes Le Cannet,hotel,Grasse,06110,06110,,43.5705073,7.0143814
+1547995700,node,Cap Canailles,restaurant,Grasse,Boulevard du Littoral,,https://capcanailles.com/,43.5711742,7.0977036
+1551733871,node,Cave Croisette,restaurant,Grasse,151 Rue d'Antibes,,,43.5514238,7.0296737
+1555741809,node,Pizza Hut,restaurant,Grasse,,,https://www.pizzahut.fr/huts/fr-1/193-cannes/,43.5582654,7.0166434
+1558051902,node,Open Ditch,restaurant,Grasse,,,,43.6166997,7.0157686
+1561634999,node,Le Mas du Golf,hotel,Grasse,06250,06250,,43.6023114,7.0095039
+1573169435,node,Cannes Riviera,hotel,Grasse,"16 Boulevard d'Alsace, 06400",06400,,43.5544105,7.0206714
+1582025319,node,Hôtel Ibis Cannes Mandelieu,hotel,Grasse,,,,43.545704,6.9404251
+1608041282,node,Mick'Elly,restaurant,Grasse,,,,43.6472543,6.936442
+1619183340,node,La Maison du Bouchot,restaurant,Grasse,,,,43.6415383,7.1426331
+1619183355,node,Le Ranch,restaurant,Grasse,,,,43.6414317,7.1425336
+1638102296,node,Le Coq Gallois,restaurant,Grasse,,,https://www.lacasita-antibes.com/,43.5816322,7.1276444
+1638102319,node,Le César Café,restaurant,Grasse,5 Rue Aubernon,,,43.5816948,7.1276611
+1645286606,node,La Dolce Vita,restaurant,Grasse,,,,43.614864,7.0548463
+1645286607,node,,restaurant,Grasse,,,,43.6149376,7.0545296
+1645286609,node,Sushi for You,restaurant,Grasse,,,http://www.sushispirit.com/,43.6148261,7.0547221
+1659436412,node,Le Sait-Paul,restaurant,Grasse,,,,43.6956654,7.1225778
+1659704091,node,Le Caruso,restaurant,Grasse,,,https://eresto.net/,43.696725,7.1220976
+1659704113,node,De la Fontaine,restaurant,Grasse,,,lafontainestpaul.com,43.6968375,7.1218965
+1671606709,node,Le Kashmir,restaurant,Grasse,,,,43.6573782,7.1854832
+1678531322,node,Lou Pichounet,restaurant,Grasse,,,,43.5807133,6.9482471
+1678843700,node,Snack des 3 Vallées / Route 85,restaurant,Grasse,,,,43.7734628,6.6467012
+1678843721,node,Relais de l'Artuby,hotel,Grasse,9154,,,43.7735904,6.6466422
+1680811260,node,La Colette,restaurant,Grasse,,,,43.7306473,6.7931381
+1680811295,node,Auberge,restaurant,Grasse,,,,43.7312965,6.7808974
+1685126714,node,Les délices romains,restaurant,Grasse,,,,43.5984678,6.9560324
+1688895426,node,La Palmeraie,restaurant,Grasse,,,,43.5496104,6.9785808
+1688960028,node,Le fil du goût,restaurant,Grasse,"2 Rue de l'Hôpital, 06460, Saint-Vallier-de-Thiey",06460,,43.6985624,6.8483266
+1688960087,node,Le Relais Impérial,hotel,Grasse,,,https://www.relaisimperial.com/chambres,43.6978977,6.8495445
+1688960110,node,Le Préjoly,restaurant,Grasse,,,,43.6980446,6.8499359
+1688960168,node,La Lanterne,restaurant,Grasse,,,,43.6983743,6.848399
+1702681861,node,Asia Sushi,restaurant,Grasse,102 Avenue Franklin Roosevelt,,,43.5775708,6.9983185
+1708119375,node,Auberge Saint-Michel,hotel,Grasse,60 Route du Mont Saint-Michel,,,43.846584,7.092341
+1734205147,node,El bodega del havana,restaurant,Grasse,,,,43.549436,6.9772918
+1737279592,node,Amici Ristorante Italiano,restaurant,Grasse,,,,43.5485822,6.9808404
+1757091700,node,Amarante,hotel,Grasse,,,,43.5616156,7.0169317
+1757091716,node,Suite Novotel,hotel,Grasse,,,,43.5582283,7.0170912
+1773876792,node,Brasserie Au Relax,restaurant,Grasse,,,,43.5674973,7.0736065
+1775029705,node,Brasserie Parry's,restaurant,Grasse,,,,43.5673159,7.0740413
+1775214081,node,Le Moulin du Sault,restaurant,Grasse,,,,43.6068052,6.9166783
+1776942472,node,Lutétia,hotel,Grasse,,,,43.5553686,7.0160144
+1778127726,node,Le Brulot Pasta,restaurant,Grasse,,,,43.581312,7.1273295
+1794299460,node,Chicken Charlie,restaurant,Grasse,,,,43.6598365,7.1380115
+1802565933,node,Les Armoiries,hotel,Grasse,,,,43.6413837,7.0087538
+1829944113,node,Daniel Desavie,restaurant,Grasse,,,,43.6232914,7.0147398
+1830778531,node,Domaine De L'Albatros,hotel,Grasse,,,,43.6222458,6.9540436
+1836923928,node,Côté Mougins,restaurant,Grasse,,,,43.5810986,6.9978015
+1836923931,node,Restaurant de L'Aubarède,restaurant,Grasse,,,,43.5740963,6.9835922
+1838742050,node,Hostellerie du Loup,hotel,Grasse,,,,43.6559824,7.1221619
+1866514958,node,Hôtel Le Splendid,hotel,Grasse,,,,43.5520683,7.0158788
+1866514964,node,Cristal,hotel,Grasse,06400,06400,,43.5515431,7.0254089
+1866514965,node,Hôtel Barrière Le Gray d'Albion,hotel,Grasse,,,,43.5521158,7.021006
+1870674947,node,Au Mal Assis,restaurant,Grasse,,,,43.5496472,7.0121042
+1870674950,node,Le Melting Pot,restaurant,Grasse,,,,43.5494864,7.0118374
+1924164185,node,Le Patio,restaurant,Grasse,,,https://www.lecafejardin.fr/,43.580153,7.1255856
+1924178745,node,Entre 2 Vins,restaurant,Grasse,2 Rue James Close,,,43.5802167,7.1256021
+1933319769,node,Le Portofino,restaurant,Grasse,,,,43.6491046,6.9189477
+1958500800,node,Hôtel Résidences Les Strélizias,hotel,Grasse,Rue Pierre Commanay,,https://www.lesstrelitzias.com/,43.5726421,7.1069675
+1978637484,node,Montaigne,hotel,Grasse,"4 Rue Montaigne, 06400, Cannes",06400,https://www.hotel-montaigne.com,43.55496,7.0176358
+1991197122,node,La Bonne Formule,restaurant,Grasse,,,,43.6228578,7.0467279
+2004577187,node,Les Trois Colonnes,restaurant,Grasse,,,,43.5701504,7.0033667
+2018042742,node,La Crèperie,restaurant,Grasse,,,,43.6186607,6.9724847
+2026143570,node,L'Atelier Gourmand,restaurant,Grasse,"8 Rue de la Clastre, 06140, Coursegoules",06140,,43.7947963,7.0394108
+2026143571,node,Le Bistrot de Sophie,restaurant,Grasse,,,,43.7946261,7.0416601
+2034452417,node,Le p'tit creux,restaurant,Grasse,,,,43.794719,7.0407938
+2036190105,node,Les 3 Colonnes,restaurant,Grasse,,,,43.572004,7.0009174
+2049385820,node,Flunch,restaurant,Grasse,,,,43.6032184,7.0876309
+2056485309,node,Auberge de Caussols,restaurant,Grasse,"4313 Route Départementale 12, 06460, Caussols",06460,https://www.facebook.com/laubergedecaussols/,43.7416846,6.9007511
+2089313417,node,Cé La Vi,restaurant,Grasse,,,,43.6763957,7.0123944
+2173267623,node,La Jabotte,hotel,Grasse,"13 Avenue Max Maurey, 06160, Antibes",06160,https://www.jabotte.com/,43.569747,7.1272916
+2181349769,node,Délices Yang,restaurant,Grasse,,,,43.5525431,7.0146354
+2192645456,node,La Menthe Douce,restaurant,Grasse,,,,43.6113965,7.0083134
+2195397030,node,Le Patio,hotel,Grasse,,,,43.4867498,6.9401349
+2203931491,node,L'Écluse,restaurant,Grasse,968 Chemin de l'Écluse,,https://restaurantlecluse.fr/fr/booking,43.5949171,6.9166847
+2207079510,node,Cambogiana,restaurant,Grasse,,,,43.6242539,6.9650835
+2207079512,node,Ici t'es Ailleurs,restaurant,Grasse,,,,43.6259024,6.9656121
+2207079513,node,Le Cabanon de l'Écailler,restaurant,Grasse,,,,43.6246306,6.9657758
+2242405966,node,,restaurant,Grasse,,,,43.6536563,6.9861209
+2282987997,node,La table de Mô,restaurant,Grasse,,,,43.6398059,6.9811477
+2283831528,node,Résidence Le Masséna,hotel,Grasse,,,,43.5651664,7.0183489
+2319067259,node,Best Western,hotel,Grasse,,,,43.6243051,6.9968599
+2319067260,node,Gibran,restaurant,Grasse,,,,43.624759,6.9978424
+2321845906,node,Auberge du Broundet,restaurant,Grasse,"4 Allée Chris, 06750, Séranon",06750,,43.7734401,6.7009369
+2337343714,node,Le Néapolis,restaurant,Grasse,,,,43.5231865,6.9405043
+2338272970,node,Congres Festivals (des),hotel,Grasse,,,,43.5525924,7.0230485
+2338651330,node,San Marino,restaurant,Grasse,,,,43.6573981,7.1658448
+2344727589,node,Le Temps des Mets,restaurant,Grasse,"900 Route de Cannes, 06560, Valbonne",06560,,43.6330895,6.9994951
+2378291121,node,La Flambée du Lac,restaurant,Grasse,"701 Route du Lac, 06750, Thorenc",06750,,43.797627,6.8090666
+2388520432,node,San Telmo,restaurant,Grasse,"31 Rue Hoche, 06400, Cannes",06400,,43.5531185,7.0214647
+2391135935,node,Belambra -Les oliviers,hotel,Grasse,,,,43.6809456,7.1000364
+2406718492,node,Hôtel Bar des Alpes,hotel,Grasse,,,,43.5930974,6.9300225
+2412393005,node,Auberge Saint-Donat,restaurant,Grasse,,,,43.6390508,6.9754661
+2418855110,node,,hotel,Grasse,,,,43.5660751,7.0585982
+2440814973,node,Kow Long,restaurant,Grasse,,,,43.6417868,7.1420699
+2440865015,node,L'Ardoise,restaurant,Grasse,,,,43.5524593,7.0158188
+2440865017,node,Le Bistro Gourmand,restaurant,Grasse,,,,43.5522386,7.0113008
+2445492648,node,L'instant… Gourmet,restaurant,Grasse,"11 Rue Henri Barbara, 06560, Valbonne",06560,https://www.facebook.com/Linstant-Gourmet-1449338765362544/,43.6221829,7.0459506
+2461945025,node,Pasta e Basta,restaurant,Grasse,,,,43.5825698,7.1267478
+2461945026,node,Le Kashmir,restaurant,Grasse,,,https://www.lekashmirantibes.com/,43.582872,7.1268436
+2463636335,node,La Bastide Saint-Antoine,hotel,Grasse,"48 Avenue Henri Dunant, 06130, Grasse",06130,,43.6452596,6.9258788
+2476522791,node,Promotel,hotel,Grasse,"1ere Avenue, 06510, Carros",06510,http://www.hotel-promotel.com,43.7679198,7.2037569
+2503341867,node,Le Petit Bouchon,restaurant,Grasse,,,,43.6198602,6.9700283
+2503341869,node,L'Atelier Pizza,restaurant,Grasse,"2 Rue du Docteur Geoffroy, 06370, Mouans-Sartoux",06370,https://www.latelier-pizza.com,43.619503,6.9703791
+2531356039,node,Hôtel du Patti,hotel,Grasse,"1 Place du Patti, 06130, Grasse",06130,https://www.hotelpatti.com/,43.6604888,6.9237162
+2558517294,node,La Villa Archange,restaurant,Grasse,,,,43.5734408,7.0135604
+2558517295,node,Le Bistro des Anges,restaurant,Grasse,,,,43.573337,7.0136314
+2578090574,node,Les Saveurs de Djerba,restaurant,Grasse,"3 Boulevard Dugommier, 06600, Antibes",06600,,43.5808103,7.1196664
+2582320122,node,Ô Tablier du Boucher,restaurant,Grasse,,,,43.632215,6.9574746
+2607932716,node,Sushi Bar Wazakura,restaurant,Grasse,13 Rue de Bône,,,43.552286,7.028689
+2632213730,node,Best Western,hotel,Grasse,,,,43.5521897,7.0283329
+2637497443,node,Le Tilleul,restaurant,Grasse,"2 Place du Tilleul, 06570, Saint Paul de Vence",06570,,43.6979363,7.121985
+2639492939,node,Les Frères de la Baie,restaurant,Grasse,,,,43.508637,6.9414874
+2671501732,node,Chez Max,restaurant,Grasse,"Avenue Saint-Roch, 06560, Valbonne",06560,https://chezmax-valbonne.fr,43.6404249,7.0070274
+2688577141,node,Auberge de Courmes,restaurant,Grasse,,,,43.7429201,7.0084038
+2691412723,node,La cave,restaurant,Grasse,,,,43.6198524,6.9691643
+2691418135,node,À La Bonne Heure,restaurant,Grasse,,,,43.6141968,6.9761164
+2691509458,node,Lila Bay,restaurant,Grasse,"1 Rue du Château, 06370, Mouans-Sartoux",06370,,43.6200876,6.9692024
+2691509462,node,Le Délice des Filles,restaurant,Grasse,,,,43.6199434,6.9693406
+2698193914,node,Le Bistrot de l'ecailler,restaurant,Grasse,,,,43.5518289,7.012562
+2698193924,node,La Belle Assiette,restaurant,Grasse,,,,43.5518085,7.0125056
+2699834694,node,Le Jimmy's,restaurant,Grasse,,,,43.6673385,7.1454468
+2699834701,node,Le Village,restaurant,Grasse,,,,43.66724,7.14578
+2699955502,node,Josy Jo,restaurant,Grasse,,,,43.6683896,7.1461259
+2706840415,node,Bella Vita,restaurant,Grasse,,,,43.5708908,7.1025967
+2727230969,node,Green is Better,restaurant,Grasse,"80 Route des Lucioles, 06560, Valbonne",06560,https://www.greenisbetter.fr/,43.6123586,7.0489405
+2728667638,node,L'Amandier,restaurant,Grasse,"48 Avenue Jean-Charles Mallet, 06250, Mougins",06250,https://www.amandier.fr/,43.6011934,6.9950191
+2792977744,node,La Cafetière Fêlée,restaurant,Grasse,,,http://www.lacafetierefelee.com/,43.5807474,7.1246815
+2798944938,node,Chouchou Brasserie Pizzeria,restaurant,Grasse,"31 Route de Cannes, 06650, Opio",06650,,43.6581262,6.9968831
+2803923340,node,Le Mas de Peyrebelle,restaurant,Grasse,,,,43.6322259,6.999194
+2804641433,node,Yoko,restaurant,Grasse,"47 Boulevard du Maréchal Juin, 06800, Cagnes-Sur-Mer",06800,,43.658037,7.1510954
+2824215842,node,La Guérite,restaurant,Grasse,,,https://laguerite.fr/,43.5238531,7.0467788
+2824215843,node,L'Escale,restaurant,Grasse,,,https://escale-ilesdelerins.pagesperso-orange.fr/,43.5224992,7.0405358
+2917858087,node,L'Auberge de Calendal,hotel,Grasse,"1 Rue du Mont Saint-Martin, 06910",06910,www.auberge-aiglun.fr,43.8577437,6.9147338
+2942036551,node,Le Sainte-Barbe,restaurant,Grasse,,,,43.7487193,7.1436643
+3011023959,node,Le Resto Minut',restaurant,Grasse,,,,43.6225488,7.0470239
+3023509575,node,Le Speakeasy,restaurant,Grasse,,,,43.5485042,7.0303062
+3023509577,node,Beau,restaurant,Grasse,,,,43.54859,7.0303062
+3023509579,node,Black Pearl,restaurant,Grasse,,,,43.5483597,7.0302818
+3037682460,node,Le Relais Impérial,restaurant,Grasse,,,https://www.relaisimperial.com/restaurants,43.6978705,6.8497015
+3037770502,node,Bella Storia,restaurant,Grasse,,,,43.5521841,7.0142345
+3037770505,node,Byron,restaurant,Grasse,,,,43.5521785,7.0141549
+3037770510,node,Beef House,restaurant,Grasse,"2 Cours Félix Faure, 06400, Cannes",06400,https://www.beefhouse.com,43.5518886,7.0148154
+3037770513,node,Le Jardin de Bambou,restaurant,Grasse,,,,43.5512991,7.0218795
+3037770515,node,Pepperoni,restaurant,Grasse,,,,43.5529622,7.0218589
+3037784690,node,La maison by Tripoli,restaurant,Grasse,,,,43.5520019,7.0147846
+3037784698,node,Marina Caffe,restaurant,Grasse,"61 Cours Félix Faure, 06400, Cannes",06400,,43.5522286,7.0146974
+3037784699,node,Hôtel des Allées,hotel,Grasse,"6 Rue Émile Negrin, 06400, Cannes",06400,,43.552406,7.0146645
+3037784701,node,Miki Ramen,restaurant,Grasse,,,,43.5534459,7.0194238
+3037784703,node,The Claremont,hotel,Grasse,,,,43.5532422,7.0192214
+3039119243,node,Hoche,hotel,Grasse,,,,43.5529663,7.0201838
+3039119246,node,Le Cirque,restaurant,Grasse,,,,43.5529613,7.02167
+3039119251,node,O'Sushi,restaurant,Grasse,,,,43.5530835,7.0222408
+3039119271,node,Modern Waikiki Hôtel,hotel,Grasse,,,,43.551969,7.0204667
+3039119292,node,Le Casanova,restaurant,Grasse,,,,43.5529822,7.0196611
+3039119301,node,Mado à Cannes,restaurant,Grasse,,,,43.5529795,7.0212284
+3039581938,node,,restaurant,Grasse,,,,43.5518845,7.0173989
+3039581976,node,Amirauté,hotel,Grasse,06400,06400,,43.5535478,7.0184648
+3039598858,node,O' Petit Liban,restaurant,Grasse,,,,43.5706286,7.1109074
+3039598859,node,Oishi,restaurant,Grasse,,,,43.5706668,7.1111283
+3039598865,node,Le Brebant,restaurant,Grasse,1 Avenue de l'Esterel,,,43.5704989,7.1110477
+3039739760,node,Les Grands Hommes,restaurant,Grasse,,,https://restaurant-lesgrandshommes.fr/,43.7199196,6.978899
+3040166044,node,Atlantis,hotel,Grasse,,,,43.5528257,7.0194742
+3040166045,node,Aux Bons Enfants,restaurant,Grasse,,,,43.5516225,7.0119697
+3040166049,node,Café Hoche,restaurant,Grasse,,,,43.5531055,7.0217576
+3040166059,node,Caffè Roma,restaurant,Grasse,,,,43.5517759,7.0167832
+3040166061,node,Hôtel Carolina,hotel,Grasse,,,,43.5531458,7.0218561
+3040166064,node,Loka,restaurant,Grasse,,,,43.5515181,7.0116499
+3040166097,node,Jean Luc Pele,restaurant,Grasse,,,,43.5528448,7.0192565
+3040166101,node,L'epicurieux,restaurant,Grasse,,,,43.5528217,7.0198825
+3040166102,node,La Piazza,restaurant,Grasse,,,,43.5513842,7.0117354
+3040166104,node,La Villa Tosca,hotel,Grasse,,,,43.5531941,7.0197326
+3040166109,node,Lenôtre,restaurant,Grasse,,,,43.5525979,7.0216709
+3040166119,node,PLM,hotel,Grasse,,,,43.5531642,7.0191543
+3040166355,node,Taqueria Lupita,restaurant,Grasse,,,,43.5517644,7.0123221
+3040166356,node,La Farigoulette,restaurant,Grasse,,,,43.5517936,7.012431
+3040166368,node,La Cuisine d'aqui,restaurant,Grasse,,,,43.5522734,7.0131387
+3040166379,node,Le Forville,restaurant,Grasse,"17 Marché Forville, 06400, Cannes",06400,https://leforville.fr/,43.5525608,7.0126446
+3040166431,node,Salsamenteria di Parma,restaurant,Grasse,,,https://www.salsamenteriadiparma.com/france---cannes,43.5516115,7.0118015
+3040166433,node,Schtak,hotel,Grasse,,,,43.5526665,7.0209854
+3040166457,node,La Farigoule Bistrot,restaurant,Grasse,,,,43.551486,7.0118999
+3040195998,node,Le Malouna,restaurant,Grasse,,,,43.5849526,7.1210242
+3040197540,node,Gusto,restaurant,Grasse,,,https://commande-gustoantibes.com/,43.58292,7.1281573
+3042320427,node,Le Caméo,hotel,Grasse,,,,43.5812695,7.1252075
+3042324041,node,Froggy Gourmet,restaurant,Grasse,,,,43.5823452,7.1278351
+3042324056,node,L'Annexe,restaurant,Grasse,,,,43.582952,7.1274441
+3042324063,node,The Brooklyn,restaurant,Grasse,,,,43.5824327,7.1265468
+3042324066,node,Miam,restaurant,Grasse,,,,43.5820661,7.1265777
+3042324068,node,Le Bistrot des Jules,restaurant,Grasse,,,,43.5822239,7.1266295
+3042324101,node,Mamalu,restaurant,Grasse,11 Cours Masséna,,,43.5803375,7.1272453
+3042324102,node,Restaurant Le Zinc,restaurant,Grasse,15 Cours Masséna,,,43.580425,7.127279
+3042324103,node,Bar Bacchus,restaurant,Grasse,15 Cours Masséna,,,43.5804687,7.1272882
+3042324112,node,L'Ardoise,restaurant,Grasse,,,,43.5809757,7.1241186
+3042324252,node,Le Brooklyn Sushi,restaurant,Grasse,,,,43.5824668,7.1267214
+3042324257,node,Casa Azul,restaurant,Grasse,,,,43.5818608,7.1278542
+3042324258,node,La Tour Antique,restaurant,Grasse,,,https://www.latourantique.fr/,43.5799615,7.127019
+3042324259,node,Le comptoir,restaurant,Grasse,,,,43.579708,7.1270124
+3044189721,node,L'Oursin,restaurant,Grasse,,,https://loursin.fr,43.580718,7.1232971
+3044189723,node,Le 22,restaurant,Grasse,,,,43.5807749,7.1234697
+3044189729,node,Modern Hotel,hotel,Grasse,,,,43.580409,7.122804
+3044190547,node,La Piazza,restaurant,Grasse,30 Rue de la République,,,43.5808816,7.1238264
+3050587070,node,Da Laura,restaurant,Grasse,,,,43.5531696,7.0194281
+3050587073,node,Little Palace,hotel,Grasse,06400,06400,,43.5535078,7.0194092
+3050587085,node,La Meissounière,restaurant,Grasse,,,,43.5534149,7.0192503
+3050587087,node,Five Pizza,restaurant,Grasse,,,https://stores.fivepizzaoriginal.com/restaurant/five-pizza-original-cannes,43.5535022,7.021489
+3050587088,node,Le Triomphe,restaurant,Grasse,,,,43.5535533,7.0195698
+3067103455,node,Diana,hotel,Grasse,"79 Avenue des Poilus, 06140",06140,https://hotel-diana.fr,43.723656,7.1085317
+3087267137,node,L'Auberge de Calendal,restaurant,Grasse,"1 Rue du Mont Saint-Martin, 06910",06910,http://www.auberge-aiglun.fr/,43.8577324,6.9147754
+3087628055,node,Presse de Capitou,restaurant,Grasse,,,,43.5556622,6.9381275
+3100507656,node,La Boussole Carrée,restaurant,Grasse,,,,43.5520831,7.0249612
+3104036623,node,R.I.E,restaurant,Grasse,,,,43.6106519,7.017811
+3117295672,node,Hôtel Juana,hotel,Grasse,Avenue Georges Gallice,,https://hotel-juana.com,43.5675661,7.1160503
+3128990318,node,Hôtel Hélios,hotel,Grasse,"3 Avenue Docteur Dautheville, 06160, Antibes",06160,,43.569394,7.1114983
+3129007966,node,Hôtel Émeraude,hotel,Grasse,11 Avenue Saramartel,,,43.5659139,7.1178127
+3129766001,node,Comfort Hotel Galaxie,hotel,Grasse,"39 Avenue Maréchal Juin, 06700, Saint Laurent du Var",06700,,43.6592391,7.1932335
+3133945570,node,Hôtel Impérial Garoupe,hotel,Grasse,770 Boulevard de la Garoupe,,,43.5544804,7.1333177
+3141919822,node,La Jarrerie,restaurant,Grasse,"8 Avenue Amiral de Grasse, 06620, Le bar sur Loup",06620,,43.7020974,6.9912856
+3141925785,node,L'École des Filles,restaurant,Grasse,"380 Avenue Amiral de Grasse, 06620, Le Bar-sur-Loup",06620,,43.6995406,6.9882112
+3184363340,node,le bouchon,restaurant,Grasse,"1 Impasse de la Grand-Rue, 06140, Tourrettes-sur-Loup",06140,,43.7156611,7.0584245
+3191435831,node,,restaurant,Grasse,"91 Promenade de la Plage, 06800, Cagnes-sur-Mer",06800,,43.6554814,7.1604482
+3191439480,node,Quai Ouest,restaurant,Grasse,"105 Port Saint-Laurent, 06700, Saint-Laurent-du-Var",06700,,43.6561445,7.1799974
+3194400798,node,Nki Sushi,restaurant,Grasse,,,https://order.nkisushi.com/en/shops/japonais/nki-sushi-antibes,43.5796183,7.1188899
+3194400826,node,Regal D'Asie,restaurant,Grasse,,,,43.5789878,7.1195899
+3194400830,node,La Storia,restaurant,Grasse,,,,43.5807161,7.1197227
+3225724360,node,Auberge les Merisiers,hotel,Grasse,,,http://www.aubergelesmerisiers.com/,43.8052293,6.8040327
+3226890120,node,Sun City,restaurant,Grasse,,,,43.5726036,7.0898509
+3266476895,node,Le Café du Coin,restaurant,Grasse,"Place Jules Lisnard, 06220, Vallauris",06220,,43.5787033,7.0513448
+3280732708,node,Balladins,hotel,Grasse,,,,43.5515113,6.9562487
+3280880244,node,Bistrot Saint-Sauveur,restaurant,Grasse,"87 Rue Saint-Sauveur, 06110, Le Cannet",06110,https://bistrotsaintsauveur.fr/,43.5761299,7.0214119
+3280880245,node,Kashiwa,restaurant,Grasse,,,http://www.kashiwa.sitew.com/,43.5747503,7.0232876
+3309711664,node,Le Royal de Chine,restaurant,Grasse,"142 Avenue Francis Tonner, 06150, Cannes",06150,,43.5500648,6.969244
+3333784379,node,La Cour des Thés,restaurant,Grasse,14 Avenue du 24 Août,,https://www.lacourdesthes.com/,43.579532,7.1229796
+3398535639,node,Charlot 1er,restaurant,Grasse,,,,43.6576125,7.16659
+3398535640,node,La Bergerie,restaurant,Grasse,"78 Promenade de la Plage, 06800, Cagnes-sur-Mer",06800,,43.6573163,7.1656215
+3398535641,node,Le Grill du Boucher,restaurant,Grasse,,,,43.6573006,7.1655553
+3423500593,node,Indochina,restaurant,Grasse,,,,43.6575563,7.1645163
+3474946693,node,B&b Hôtel,hotel,Grasse,"1810 Route Départementale 6007, 06270, Villeneuve-Loubet",06270,https://www.hotel-bb.com/fr/-/hotelByName.htm?id=4211,43.6333921,7.1329316
+3481023384,node,B&B Hôtel,hotel,Grasse,"700 Avenue des Plans, 06270, Villeneuve-Loubet",06270,https://www.hotel-bb.com/fr/hotel/villeneuve-loubet-village,43.652674,7.1263313
+3481256394,node,B&B Hôtel,hotel,Grasse,,,https://www.hotel-bb.com/fr/hotels/cannes-ouest-la-bocca.htm,43.5484888,6.9626539
+3481319294,node,B&B Hôtel,hotel,Grasse,"3725 Route des Dolines, 06410, Biot",06410,https://www.hotel-bb.com/fr/hotels/sophia-antipolis-le-relais.htm,43.6212233,7.0608983
+3512654108,node,Bistro du Clos,restaurant,Grasse,,,,43.6732038,7.0051552
+3512654109,node,Mezcla Loca,restaurant,Grasse,,,,43.6725037,6.9983011
+3512654110,node,Hôtel du Clos,hotel,Grasse,,,,43.6758975,7.004861
+3517145153,node,Le Palet Fondant,restaurant,Grasse,19 Boulevard Sadi Carnot,,,43.5760054,7.0202968
+3517164423,node,Le Tivoli,restaurant,Grasse,,,,43.5761496,7.0195056
+3533029156,node,Hollywood Pizza,restaurant,Grasse,,,,43.6743585,7.0083139
+3543243544,node,Auberge de la Forêt,hotel,Grasse,"1, 06750, Thorenc",06750,,43.8044997,6.8056165
+3562910893,node,Chouchou,restaurant,Grasse,"361 Rue Saint-Sauveur, 06110, Le Cannet",06110,,43.5772292,7.0189607
+3562910895,node,Le Coin Gourmet,restaurant,Grasse,"Place Bellevue, 06110, Le Cannet",06110,,43.577406,7.0194677
+3562910896,node,La Maison Bellevue,restaurant,Grasse,"Place Bellevue, 06110, Le Cannet",06110,,43.5774678,7.0193532
+3565369296,node,Pizza Gourmet,restaurant,Grasse,,,,43.5771824,7.0203595
+3583526625,node,La Grange,restaurant,Grasse,,,,43.5240319,6.9416647
+3583526626,node,Le 8,restaurant,Grasse,,,,43.523843,6.9417127
+3593968254,node,Crêperie du Moment,restaurant,Grasse,,,http://signorino.wix.com/creperiedumoment?_escaped_fragment_=,43.7925156,7.1879653
+3593968255,node,La Forge,restaurant,Grasse,,,,43.7925239,7.1864244
+3593968256,node,Lou Poumpouille,restaurant,Grasse,,,https://www.loupoumpouille.fr/,43.7920382,7.1878344
+3598748979,node,The Nomad Corner,restaurant,Grasse,,,,43.6151378,6.9744233
+3602821426,node,Le four du Colombier,restaurant,Grasse,,,https://www.lecolombier06.com/,43.866469,6.7622131
+3666307803,node,Le relais des semailles,restaurant,Grasse,"9 Rue Saint-Antoine, 06400, Cannes",06400,,43.5512998,7.0112303
+3667356410,node,Le Canberra,hotel,Grasse,,,,43.5519747,7.0259719
+3667405145,node,Hôtel de Paris,hotel,Grasse,06400,06400,,43.5524902,7.023889
+3667405187,node,La Californie,restaurant,Grasse,,,,43.5517919,7.0169835
+3667468600,node,Beach Club,restaurant,Grasse,,,,43.6574218,7.186144
+3667468609,node,L'Atelier B,restaurant,Grasse,,,,43.6579143,7.1877543
+3667468610,node,L'Éden,restaurant,Grasse,,,,43.657937,7.1881164
+3667468612,node,La Maïoun,restaurant,Grasse,,,,43.6871382,7.1020949
+3667468613,node,Le Lotus Bleu,restaurant,Grasse,,,,43.6571775,7.1833421
+3667468614,node,Leedy's,restaurant,Grasse,,,,43.6570728,7.1829282
+3667468615,node,Le Saloon,restaurant,Grasse,,,,43.6567174,7.1814984
+3667468619,node,Le Sant'Ana,restaurant,Grasse,,,,43.6571055,7.1830731
+3667468620,node,Les Jardins d'Asadir,restaurant,Grasse,,,,43.6571465,7.1832655
+3667470126,node,Novotel,hotel,Grasse,,,,43.6589464,7.1947919
+3667470127,node,Osaka,restaurant,Grasse,,,,43.6569027,7.1822482
+3667470131,node,Tortola,restaurant,Grasse,,,,43.6579419,7.1891661
+3667470162,node,L'atelier des Saveurs,restaurant,Grasse,,,https://restaurant-latelierdessaveurs-sg.com,43.6870938,7.1016156
+3667500475,node,La Clé des Champs,restaurant,Grasse,,,,43.6782741,7.1171453
+3667500476,node,Perla Rivera,hotel,Grasse,"369 Avenue de la Colle, 06270, Villeneuve-Loubet",06270,https://www.perlariviera.fr/,43.6658495,7.1221799
+3667652534,node,Fleur de Sel,restaurant,Grasse,,,https://www.restaurant-fleurdesel.com,43.6664354,7.145588
+3667652536,node,,restaurant,Grasse,,,,43.6662613,7.145734
+3672404868,node,Bâoli,restaurant,Grasse,,,https://lebaoli.com/,43.5404985,7.0341122
+3710816684,node,La Storia,restaurant,Grasse,"63 Avenue de la Gare, 06800, Cagnes sur mer",06800,,43.6610256,7.1485944
+3710816700,node,Hôtel Brasilia,hotel,Grasse,"16 Chemin des Grands Plans, 06800, Cagnes-sur-Mer",06800,,43.6564737,7.1500881
+3711023512,node,Motel Estérel,hotel,Grasse,"1400 Avenue de Fréjus, 06210, Mandelieu-la-Napoule",06210,,43.5270252,6.9270569
+3716898174,node,Le Caveau 30,restaurant,Grasse,,,,43.5521359,7.0139669
+3720133830,node,Le Saint-Louis,restaurant,Grasse,"2784 Route Napoléon, 06750, Séranon",06750,,43.7672632,6.7121857
+3721305132,node,Le Pigeonnier,restaurant,Grasse,,,,43.7228138,7.112937
+3721305133,node,L'Onda bar,restaurant,Grasse,"1 Place du Peyra, 06140, Vence",06140,,43.7229389,7.1129634
+3730372740,node,La Palmea,restaurant,Grasse,,,,43.5254007,6.9438276
+3740052473,node,Le Maghreb,restaurant,Grasse,"40 Rue de Mimont, 06400, Cannes",06400,,43.5555231,7.023
+3746155179,node,Indian Food,restaurant,Grasse,"28 Boulevard du Maréchal Foch, 06600, Antibes",06600,,43.5777081,7.1217585
+3748973563,node,La Onda,restaurant,Grasse,"3 Place Vieille, 06140, Vence",06140,http://www.la-onda.fr,43.7230531,7.1132589
+3751966196,node,La Corniche d'Or,hotel,Grasse,"Place de la Fontaine, 06210, Mandelieu-la-Napoule",06210,https://www.cornichedor.com/,43.5243216,6.9411385
+3751969193,node,Le San Peyre,restaurant,Grasse,"Place de la Fontaine, 06210, Mandelieu-la-Napoule",06210,,43.5243868,6.9410958
+3752198168,node,Eden-Roc,restaurant,Grasse,,,https://www.hotel-du-cap-eden-roc.com/fr/gastronomie/restaurants/restaurant-eden-roc/,43.5476642,7.1189631
+3755660367,node,Le Boucanier,restaurant,Grasse,"273 Avenue Henry Clews, 06210, Mandelieu-la-Napoule",06210,,43.5244268,6.943589
+3755703255,node,Le Spot,restaurant,Grasse,"Port de Mandelieu la Napoule, 06210, Mandelieu-la-Napoule",06210,,43.5247049,6.9438518
+3755703256,node,La Brocherie,restaurant,Grasse,"11 Avenue Henry Clews, 06210, Mandelieu-la-Napoule",06210,,43.5261897,6.9456158
+3755726650,node,La Voile Bleue du Bistrot du Port,restaurant,Grasse,"Port de Mandelieu, 06210, Mandelieu-la-Napoule",06210,https://www.restaurant-lavoilebleuedubistroduport.fr/,43.5258577,6.9450296
+3772060861,node,Le Michel Ange,restaurant,Grasse,"1 Place Godeau, 06140, Vence",06140,,43.7228168,7.1142669
+3781078123,node,Le Coup de Fourchette,restaurant,Grasse,"15 bis Avenue Charles Dahon, 06590, Théoule-sur-Mer",06590,,43.5068251,6.9411059
+3781081418,node,Le Marco Polo,restaurant,Grasse,"47 Avenue de Lérins, 06590, Théoule-sur-Mer",06590,,43.5075244,6.9419254
+3781212655,node,Le Sulky,restaurant,Grasse,,,,43.5416866,6.9427356
+3781843168,node,La Trattoria,restaurant,Grasse,"21 Avenue Pasteur, 06600, Antibes",06600,,43.5822575,7.1214739
+3781906024,node,Cosmo Sushi,restaurant,Grasse,,,,43.5410822,6.9365104
+3789720944,node,Hôtel de Minelle,hotel,Grasse,06210,06210,,43.5302485,6.9293016
+3791332599,node,Pizzeria de la Tournière - O Napolitan,restaurant,Grasse,,,https://onapolitan-pizzeria.com/,43.5892572,7.0983982
+3801418231,node,Pizza Popi,restaurant,Grasse,,,,43.5377642,6.9346796
+3801418232,node,La Pizzoca,restaurant,Grasse,,,,43.5365761,6.934178
+3813017111,node,AS Pizza,restaurant,Grasse,,,,43.5394361,6.9416152
+3813017113,node,Le Jardin de Jade,restaurant,Grasse,,,,43.5386401,6.9425239
+3813044373,node,L'Arbre Jaune,restaurant,Grasse,,,,43.5343795,6.9186842
+3817278876,node,B&B Hôtel,hotel,Grasse,"3550 Route des Dolines, 06410, Biot",06410,https://www.hotel-bb.com/fr/hotels/sophia-antipolis.htm,43.621165,7.0585105
+3829199443,node,Momento Da Salvo,restaurant,Grasse,,,,43.580052,7.1228897
+3829199445,node,La place,restaurant,Grasse,,,,43.5799346,7.122578
+3887323616,node,Hôtel Djoliba,hotel,Grasse,"29 Avenue de Provence, 06600, Antibes",06600,,43.5758901,7.119554
+3890242561,node,Le Mizuna,restaurant,Grasse,,,,43.5344848,6.9329234
+3890242567,node,Le Bouchon d'Aqui,restaurant,Grasse,,,,43.5349216,6.933053
+3890263070,node,La Tonnelle Provençale,restaurant,Grasse,,,,43.5364703,6.934512
+3928509760,node,Bistrot Antibois,restaurant,Grasse,"4 Rue Championnet, 06600, Antibes",06600,https://www.fish-and-chips-antibes.com/,43.5810036,7.1229557
+3964451943,node,Moulin Sainte-Anne,hotel,Grasse,"9 Chemin des Prés, 06130, Grasse",06130,https://www.moulinsainteanne.com/,43.6432103,6.9012731
+4009232961,node,Trib's,restaurant,Grasse,,,,43.5857674,7.1194715
+4010360452,node,Le Goût - Thé,restaurant,Grasse,,,,43.5820287,7.1276795
+4031520945,node,CAN CAN,restaurant,Grasse,6 bis Avenue Guy de Maupassant,,,43.5685532,7.1120612
+4031520953,node,L'Escale,restaurant,Grasse,,,https://www.lescalejlp.fr,43.5678767,7.1118515
+4031520956,node,Le Ruban Bleu,restaurant,Grasse,,,,43.5683835,7.1103212
+4039018493,node,Brasserie Le Gadol,restaurant,Grasse,,,,43.5695318,7.1073389
+4039018495,node,L'Horizon,restaurant,Grasse,,,https://www.lhorizon-restaurant-antibes.com/,43.569898,7.1063484
+4039018496,node,La Casa,restaurant,Grasse,,,,43.5682452,7.0816728
+4039018498,node,La Promenade,restaurant,Grasse,37 Boulevard Charles Guillaumont,,,43.5699196,7.1062903
+4039018499,node,La Rascusse,restaurant,Grasse,,,,43.5678101,7.0824231
+4039018502,node,L'annexe,restaurant,Grasse,,,,43.5681928,7.0815531
+4039018503,node,Le vieux Rocher,restaurant,Grasse,,,,43.5687507,7.0833335
+4039018505,node,Passoa Beach,restaurant,Grasse,,,,43.5693632,7.0837257
+4039018507,node,Plage,restaurant,Grasse,,,,43.5692103,7.083234
+4039018509,node,SO... Beach,restaurant,Grasse,,,,43.5690546,7.0831603
+4040655962,node,Bijou Plage,restaurant,Grasse,,,,43.539212,7.0342079
+4040655971,node,Le Moure Rouge,restaurant,Grasse,,,,43.5415637,7.0398146
+4040655975,node,Pomme D'api,restaurant,Grasse,,,,43.5382156,7.0383963
+4047997348,node,L'auberge du vieux château,restaurant,Grasse,,,,43.6553511,6.8760181
+4048734678,node,Da Gigi,restaurant,Grasse,,,,43.5665481,7.0771196
+4048734680,node,La Cigale du Golfe,restaurant,Grasse,,,,43.566327,7.0756486
+4048734681,node,La Sirène,restaurant,Grasse,,,,43.5661161,7.0747616
+4048734682,node,La Cucina,restaurant,Grasse,,,,43.5663909,7.0760438
+4048734685,node,Le Bistrot du Port,restaurant,Grasse,,,,43.5662819,7.0754148
+4048734686,node,Le Saint-Pierre,restaurant,Grasse,,,,43.5657792,7.073979
+4048734688,node,Le petit patio,restaurant,Grasse,,,,43.565495,7.0731907
+4048754889,node,l'Aparté,restaurant,Grasse,,,,43.5660262,7.0745113
+4054956843,node,La Terre d'Asie,restaurant,Grasse,79 Boulevard Président Wilson,,https://la-terre-d-asie-restaurant-antibes.eatbu.com,43.5724692,7.1157713
+4055892212,node,Amour Café,restaurant,Grasse,,,,43.5798432,7.1256595
+4057284977,node,Al Mare,restaurant,Grasse,,,https://al-mare-ristorante.eatbu.com,43.5701957,7.128439
+4057284985,node,Le Bistrot de la Plage,restaurant,Grasse,,,,43.5715241,7.1273465
+4058734562,node,Au Vieux Four,restaurant,Grasse,,,,43.7202981,6.9789778
+4058734564,node,L'Epicurieux,restaurant,Grasse,,,,43.7200588,6.9788356
+4058734569,node,La Taverne Provençale,restaurant,Grasse,06620,06620,,43.7197735,6.9788417
+4121029577,node,chez Max,restaurant,Grasse,,,,43.6209273,7.0457452
+4173553176,node,Piz'zatti,restaurant,Grasse,"1 Allée de la Plage, 06270, Villeneuve-Loubet",06270,https://www.pizzatti.fr/,43.641324,7.1426394
+4200912402,node,La Calanque,restaurant,Grasse,,,,43.5242083,6.942367
+4235223894,node,Cucina Vera,restaurant,Grasse,"Impasse Saint-Sébastien, 06410, Biot",06410,,43.6281115,7.0971418
+4245892022,node,Petit Bambou Café,restaurant,Grasse,"2'' Rue Jean Monnet, 06210, Mandelieu-la-Napoule",06210,,43.5417663,6.9338529
+4245892023,node,La Ch'ti Alsace,restaurant,Grasse,,,,43.5418743,6.933666
+4245892024,node,Le Bon Koin,restaurant,Grasse,,,,43.5418283,6.9332621
+4245892025,node,L'Umbria,restaurant,Grasse,,,,43.54181,6.9332273
+4245892026,node,Le Bellini,restaurant,Grasse,,,,43.5240894,6.9422033
+4245892027,node,Coté Place,restaurant,Grasse,,,,43.524657,6.940911
+4276673905,node,Le Vencois,restaurant,Grasse,,,,43.7242615,7.1073538
+4276689702,node,La Lubiane,hotel,Grasse,06140,06140,http://lubiane.fr,43.7248405,7.1072625
+4276689703,node,Villa Roseraie,hotel,Grasse,"06140, Vence",06140,https://www.villaroseraie.com/,43.7254126,7.1057854
+4276810657,node,Le Vietnam,restaurant,Grasse,"14 Impasse Henri Isnard, 06140, Vence",06140,,43.7230639,7.1116314
+4276853190,node,Miramar,hotel,Grasse,06140,06140,http://www.hotel-miramar-vence.com,43.7214267,7.1191152
+4283117926,node,Le Saint-Martin,restaurant,Grasse,,,https://www.chateau-st-martin.com/eng/gastronomy/le-saint-martin/,43.7307061,7.1062652
+4289478691,node,Vogue,hotel,Grasse,,,,43.560953,7.1365648
+4293502191,node,Bacon,restaurant,Grasse,,,https://maisondebacon.fr,43.5696597,7.1390165
+4294609489,node,Vita,restaurant,Grasse,5 Rue Notre-Dame,,,43.5518428,7.0196696
+4294924290,node,La Colombe d'Or,restaurant,Grasse,"Place du Général de Gaulle, 06570, Saint-Paul-de-Vence",06570,https://www.la-colombe-dor.com,43.6986796,7.1220357
+4294944289,node,La Colombe d'Or,hotel,Grasse,"Place du Général de Gaulle, 06570, Saint-Paul-de-Vence",06570,https://www.la-colombe-dor.com,43.6987115,7.1220003
+4296765989,node,L'Affable,restaurant,Grasse,5 Rue la Fontaine,,,43.5519916,7.0249485
+4298874490,node,Hôtel de la Mer,hotel,Grasse,06220,06220,,43.5722487,7.0854035
+4311835989,node,Le Café - Terrasse,restaurant,Grasse,,,,43.6200923,6.9704407
+4311835990,node,Le Petit Bouchon,restaurant,Grasse,"4 Rue de la République, 06370, Mouans-Sartoux",06370,,43.6197933,6.9699216
+4316765830,node,La Table de Domi,restaurant,Grasse,,,https://www.latablededomi.fr/,43.7221101,7.1139035
+4316767518,node,Creperie bretonne,restaurant,Grasse,,,,43.7221259,7.1137546
+4325305315,node,L'assiette nature,restaurant,Grasse,,,,43.6184821,7.0755873
+4336967646,node,Richelieu Plage,restaurant,Grasse,,,,43.5664833,7.1140484
+4344728691,node,L'Olivier,restaurant,Grasse,45 Allée des Ormes,,http://www.lolivierdemougins.com,43.6109092,7.0142851
+4344922289,node,Papa Nino 2,restaurant,Grasse,"23 Avenue du Maréchal Juin, 06400",06400,http://www.facebook.com/PapaNino2,43.5502279,7.034016
+4348937189,node,La Table Du Chef,restaurant,Grasse,5 Rue Jean Daumas,,,43.5526527,7.0252075
+4349888557,node,L'Atelier,restaurant,Grasse,,,http://www.latelier-antibes.com/,43.6012312,7.0859476
+4350066706,node,Mantel,restaurant,Grasse,21 Rue Saint-Antoine,,,43.5516,7.0107269
+4356217191,node,Chez Odette,restaurant,Grasse,,,http://www.chezodette.com,43.6198467,6.9701669
+4361139279,node,L'Effet Clochette,restaurant,Grasse,,,,43.5687969,7.0727365
+4361143583,node,Festin d'Asie,restaurant,Grasse,,,,43.5682071,7.0738537
+4361151209,node,L'abri cotier,restaurant,Grasse,,,,43.5673703,7.0800028
+4361152008,node,L'artisan Burger,restaurant,Grasse,,,,43.5675802,7.0803756
+4361167265,node,La Cabane,restaurant,Grasse,,,,43.5676903,7.0806354
+4361169661,node,La Fourmigue,restaurant,Grasse,,,,43.5681144,7.0814422
+4361169817,node,Le Bateguier,restaurant,Grasse,,,,43.5679203,7.0810636
+4361174611,node,La Stella di Gigi,restaurant,Grasse,,,,43.5681295,7.082151
+4361178378,node,Rio's Banana,restaurant,Grasse,,,,43.5676978,7.0824345
+4364571589,node,La Mome,restaurant,Grasse,6 Rue Florian,,,43.5518739,7.0234583
+4387090551,node,Al Charq,restaurant,Grasse,"20 Rue Rouaze, 06400, Cannes",06400,,43.5493103,7.0300453
+4398467389,node,reggae snack,restaurant,Grasse,,,,43.5223256,7.0409379
+4401352789,node,Zoa Sushi Bar,restaurant,Grasse,"2 Place du Général de Gaulle, 06400, Cannes",06400,,43.5520162,7.0167641
+4410624769,node,Lou Papounet,restaurant,Grasse,,,,43.5242645,6.9411796
+4410624770,node,Le Tire Bouchon,restaurant,Grasse,,,,43.5240995,6.941879
+4413553842,node,Noisette,restaurant,Grasse,,,,43.5519775,7.0245237
+4413553843,node,Chez Bobo,restaurant,Grasse,,,,43.5512053,7.0230332
+4439152023,node,Moonshine,restaurant,Grasse,"8 Rue des Palmiers, 06600, Antibes",06600,http://www.moonshine-antibes.com/contact/,43.5819122,7.1273542
+4513638519,node,Auberge de Gourdon,restaurant,Grasse,"06620, Gourdon",06620,,43.7214925,6.9771275
+4516693121,node,L’Oppidum,restaurant,Grasse,"Place de la Font Neuve, 06650, Opio",06650,,43.6674645,6.9862303
+4534849590,node,Mickaella,restaurant,Grasse,"23 Rue du Suquet, 06400",06400,,43.5514533,7.0098529
+4536099790,node,La cité d'or,restaurant,Grasse,,,https://lacitedor.eu/,43.597971,7.0848782
+4554046385,node,Auberge des gorges du Loup,hotel,Grasse,"4 Route de Grasse, 06140, Tourrettes-sur-Loup",06140,,43.7184382,6.9926585
+4554064219,node,Château de la Bégude,hotel,Grasse,"Route de Roquefort-les-Pins, 06650, Opio",06650,,43.6521827,7.0243759
+4569107454,node,Stan'Suiss,restaurant,Grasse,,,,43.5530147,7.0081318
+4569107455,node,Memphis,restaurant,Grasse,,,,43.5523078,7.0082083
+4586884808,node,Le Phenicia,restaurant,Grasse,"1 Avenue Barquier, 06600, Antibes",06600,,43.576719,7.1256281
+4586884809,node,Cafe du Cap,restaurant,Grasse,,,,43.5766906,7.1255623
+4628218262,node,La Cantina,restaurant,Grasse,"2208 Route de Grasse, 06600, Antibes",06600,,43.6014237,7.0864326
+4641749099,node,Le Rocher,restaurant,Grasse,,,,43.5548694,7.1353489
+4665294725,node,Malabar,restaurant,Grasse,"7 Rempart Ouest, Saint-Paul-de-Vence",,,43.6967843,7.121613
+4665305973,node,La Brouette,restaurant,Grasse,"830 Route de Cagnes, 06570, Saint-Paul-de-Vence",06570,,43.694169,7.1299231
+4707713790,node,L'Eponyme,restaurant,Grasse,,,,43.5522854,7.0281328
+4711833013,node,Dubble,restaurant,Grasse,,,,43.6217315,7.0399228
+4764586199,node,,restaurant,Grasse,,,,43.5902695,7.0040985
+4777720419,node,Sushi Shop,restaurant,Grasse,"6 Boulevard Dugommier, 06600, Antibes",06600,https://www.sushishop.fr/,43.5812153,7.1197243
+4791678324,node,La Seguiniere,restaurant,Grasse,,,,43.7205787,7.1649783
+4793674908,node,Les Acacias,restaurant,Grasse,,,,43.6272711,7.0987655
+4793674910,node,Le Bistrot du Village,restaurant,Grasse,"8 Passage de la Bourgade, 06410, Biot",06410,https://www.biot-tourisme.com/fiches/le-bistrot-du-village/,43.6275818,7.0983849
+4793674911,node,Le Mas des Orangers,restaurant,Grasse,,,,43.6274193,7.0977799
+4816309322,node,Auberge Provençale da Bouttau,restaurant,Grasse,10 Rue Saint-Antoine,,,43.5514519,7.0111252
+4861606740,node,Panasia,restaurant,Grasse,"317 Avenue Eugène Donadeï, 06700, Saint-Laurent-du-Var",06700,,43.6573251,7.1971299
+4861606741,node,Évasion,restaurant,Grasse,"317 Avenue Eugène Donadeï, 06700, Saint-Laurent-du-Var",06700,,43.6574237,7.1969903
+4861606743,node,Edgar,restaurant,Grasse,"317 Avenue Eugène Donadeï, 06700, Saint-Laurent-du-Var",06700,http://www.edgarburger.com/,43.6574939,7.1966752
+4865592303,node,Le Piccolo,restaurant,Grasse,,,,43.627694,7.0977049
+4882516625,node,Villa Botanica,hotel,Grasse,,,,43.5534619,7.0244109
+4907680237,node,Chic N'Co,restaurant,Grasse,,,,43.5904722,7.1062068
+4993217922,node,La Paillote by Gaston & Gastounette,restaurant,Grasse,"6-7 Quai Saint-Pierre, 06400",06400,https://gaston-gastounette.fr/,43.5501895,7.0119689
+4994685121,node,L'Assiette Provençale,restaurant,Grasse,"9 Quai Saint-Pierre, 06400",06400,https://www.assiette-provencale.fr/,43.5500366,7.0120186
+5017976723,node,La Joelette,restaurant,Grasse,,,,43.5545715,7.1357283
+5082048125,node,Hôtel le Colbert,hotel,Grasse,,,,43.5712568,7.1074481
+5082048321,node,Eden Hotel,hotel,Grasse,,,,43.5696312,7.1098905
+5108967551,node,Le Spa Mimozas Resort,hotel,Grasse,,,,43.5390799,6.94723
+5115590643,node,Resto des Arts,restaurant,Grasse,,,,43.6001869,6.9948538
+5153186103,node,L'Abbaye,hotel,Grasse,,,,43.6857061,7.1029843
+5167007555,node,Palais d'Asie,restaurant,Grasse,"120 Promenade de la Plage, 06800, Cagnes-sur-Mer",06800,,43.6568413,7.1776403
+5167007556,node,Le Plaisance,restaurant,Grasse,,,,43.6559389,7.1800516
+5167007557,node,Le Ship,restaurant,Grasse,,,,43.6558148,7.1799658
+5167007559,node,Tree Bo,restaurant,Grasse,,,,43.6566133,7.1809971
+5182124321,node,Le relais Thai,restaurant,Grasse,4 Rue Eugéne Giraud,,,43.6415268,7.0094266
+5218201868,node,Trattoria al Lubio,restaurant,Grasse,"2 Rue du Peyra, 06140, Vence",06140,https://www.trattoriaallubio.fr/,43.7229871,7.1130956
+5218203366,node,Yoyo Sushi,restaurant,Grasse,"10 Avenue Henri Isnard, 06140, Vence",06140,,43.7230136,7.1119537
+5296182753,node,Les Agapantes,hotel,Grasse,108 Avenue Maurice Chevalier,,,43.5622233,6.9613915
+5346949838,node,La Coffee Biothèque,restaurant,Grasse,"233 Route de Grasse, 06600, Antibes",06600,,43.5915479,7.1041833
+5362334168,node,Citadines,hotel,Grasse,"1 Rue le Poussin, 06400, Cannes",06400,,43.5559222,7.0165731
+5362334169,node,China Town,restaurant,Grasse,"2 Boulevard Carnot, 06400, Cannes",06400,,43.5543971,7.0172137
+5380582921,node,Hôtel Les Bruyères,hotel,Grasse,,,,43.5289276,6.9278951
+5380668228,node,Hôtel Casarose,hotel,Grasse,780 Avenue de la Mer,,https://hotelcasarose.fr,43.5364654,6.9439652
+5380687555,node,Le Rivage,hotel,Grasse,,,,43.5374659,6.9443219
+5380714050,node,L’Îlot du Golf,hotel,Grasse,"681 Avenue de la Mer, 06210, Mandelieu-La Napoule",06210,,43.5385746,6.9441351
+5380723580,node,Ermitage de l'Oasis,hotel,Grasse,,,,43.5267917,6.9447265
+5380741684,node,Hôtel La Calanque,hotel,Grasse,06210,06210,,43.5243596,6.9422452
+5380746346,node,Hôtel Le 8,hotel,Grasse,06210,06210,,43.5237712,6.9415695
+5387001442,node,King Sushis & Wok,restaurant,Grasse,129 Chemin de la Plaine,,,43.6108493,6.9764777
+5387299559,node,Les Planches,restaurant,Grasse,,,,43.6517891,7.1532394
+5388908651,node,Le Macchiato Caffè,restaurant,Grasse,,,,43.6181343,6.972729
+5389564538,node,Cheer Mamma,restaurant,Grasse,,,,43.5499107,7.0120423
+5389564542,node,Amalfi,restaurant,Grasse,,,,43.5494014,7.0118277
+5389564543,node,Le Boston,restaurant,Grasse,,,,43.5493725,7.0121246
+5389564548,node,Bay Cafe,restaurant,Grasse,"12 Boulevard Jean Hibert, 06400, Cannes",06400,,43.5483175,7.0103551
+5389564549,node,Chez Arthur,restaurant,Grasse,"Boulevard Jean Hibert, 06400, Cannes",06400,,43.5482774,7.0107273
+5389564550,node,Su and Shi,restaurant,Grasse,"13 Boulevard Jean Hibert, 06400, Cannes",06400,,43.5484231,7.0099515
+5389564551,node,O'Key Beach,restaurant,Grasse,,,,43.5482447,7.0095411
+5389564552,node,Villa Azure,restaurant,Grasse,,,,43.5486207,7.0091282
+5389564553,node,Italian Caffe,restaurant,Grasse,,,,43.5488469,7.0079385
+5389564554,node,Riviera Beach,restaurant,Grasse,,,,43.5485032,7.0083918
+5389564555,node,Maema,restaurant,Grasse,,,,43.5485859,7.007972
+5389564557,node,Belle Plage,restaurant,Grasse,,,,43.5486811,7.0072907
+5389564558,node,L'Alba,restaurant,Grasse,,,,43.5486967,7.0070507
+5389564566,node,Plage Waikiki,restaurant,Grasse,,,,43.5488357,7.0048338
+5392712525,node,Chez Vincent et Nicolas,restaurant,Grasse,,,,43.5514028,7.011472
+5395998415,node,Brasserie Frensh,restaurant,Grasse,"43 Cours Félix Faure, 06400, Cannes",06400,,43.5521207,7.0138595
+5396011629,node,Le Pistou,restaurant,Grasse,"53 Cours Félix Faure, 06400, Cannes",06400,,43.5521731,7.014316
+5396011636,node,Chez Freddy,restaurant,Grasse,"67 Cours Félix Faure, 06400, Cannes",06400,,43.5522653,7.0148833
+5396060929,node,Saporedipane,restaurant,Grasse,,,,43.5523023,7.0152052
+5396060930,node,Green Sushi,restaurant,Grasse,"83 Cours Félix Faure, 06400, Cannes",06400,,43.5522795,7.0156453
+5396060933,node,New-York New-York,restaurant,Grasse,,,,43.5519796,7.0158891
+5396060936,node,Steak 'n Shake,restaurant,Grasse,"2 Place du Général de Gaulle, 06400, Cannes",06400,https://www.steaknshake.com/,43.5521817,7.0162615
+5396060939,node,Brasserie du Casino,restaurant,Grasse,,,,43.5517915,7.0171704
+5396060949,node,Côté Sushi,restaurant,Grasse,"17 Square Mérimée, 06400, Cannes",06400,,43.5518198,7.017958
+5396060950,node,La Potinière du Palais,restaurant,Grasse,,,,43.5518141,7.0177559
+5396060951,node,Le Croisette,restaurant,Grasse,,,,43.5514904,7.0179538
+5398008837,node,JW Grill,restaurant,Grasse,,,,43.5500436,7.0250672
+5398008843,node,Carlton Restaurant,restaurant,Grasse,,,https://www.carlton-cannes.com/fr/gastronomie/carlton-restaurant/,43.5493126,7.0274866
+5398826522,node,Le Spey River,restaurant,Grasse,,,,43.6554602,7.1803097
+5398826523,node,Restaurant Le Rony's,restaurant,Grasse,"124 Port de la Plaisance, 06700",06700,https://ronys.fr/,43.6555844,7.1803874
+5398826527,node,Vittoria Roma,restaurant,Grasse,,,,43.6566488,7.1811451
+5398826529,node,Mani in Pasta,restaurant,Grasse,"326 Quai la Pérouse, 06700, Saint-Laurent-du-Var",06700,,43.6568155,7.1818771
+5398826531,node,La Cantine d'Olive,restaurant,Grasse,,,,43.6568715,7.1821108
+5398826533,node,La Gourmandise,restaurant,Grasse,,,,43.6570374,7.1827733
+5398826536,node,Le Paradis Marin,restaurant,Grasse,,,,43.6571325,7.1831903
+5398826538,node,Dolce Vita,restaurant,Grasse,,,,43.657182,7.1836477
+5398826539,node,La Maison de L'Entrecôte,restaurant,Grasse,,,,43.6572082,7.1837737
+5398826541,node,Sirtaki Dilan,restaurant,Grasse,,,,43.6572314,7.184113
+5398826542,node,Portofino,restaurant,Grasse,,,,43.6572994,7.1846106
+5398826544,node,Bistro-quai,restaurant,Grasse,,,,43.6573362,7.1849914
+5399340576,node,Chez Philippe,restaurant,Grasse,,,,43.5089187,6.9384079
+5399396747,node,Les Voiles De Théoule,restaurant,Grasse,,,,43.5071542,6.9417392
+5399400561,node,Le bistrot de Lerins,restaurant,Grasse,,,,43.5070628,6.9418841
+5399426211,node,Aux ingrédients libanais,restaurant,Grasse,,,,43.5067756,6.9418161
+5399449880,node,Les Roches Roses,restaurant,Grasse,,,,43.5064191,6.9402204
+5399468607,node,Le Repère,restaurant,Grasse,,,,43.5179069,6.9402108
+5399477251,node,Riviera Beach Hotel,hotel,Grasse,,,,43.5177967,6.9396833
+5399517338,node,La Rotonde,restaurant,Grasse,,,,43.5222432,6.9405463
+5399779854,node,Comme à la Maison,restaurant,Grasse,,,,43.5063175,6.9398852
+5408421576,node,L'Authentic,restaurant,Grasse,"92 Avenue Francis Tonner, 06150, Cannes",06150,,43.54969,6.9758702
+5494238360,node,La Boucherie,restaurant,Grasse,"Rue Albert Caquot, 06560",06560,,43.6198747,7.056115
+5528631887,node,Hôtel Astor,hotel,Grasse,,,https://astorhotel.fr/,43.5732329,7.1136421
+5566754419,node,Euphorie,restaurant,Grasse,"20 Rue des Casemates, 06600, Antibes",06600,https://www.instagram.com/euphorie_antibes?igsh=a3lhNnpkODR4MnVz,43.5827185,7.1269974
+5566782490,node,Crêperie du Port,restaurant,Grasse,,,,43.5828165,7.1268054
+5582695378,node,L'esquina,restaurant,Grasse,,,,43.5431003,6.9367757
+5582707256,node,Le Taz,restaurant,Grasse,,,,43.5429722,6.9374362
+5599890745,node,Comme à la Maison,restaurant,Grasse,,,,43.5514953,7.0219718
+5599890753,node,Juice Lab,restaurant,Grasse,,,,43.5517257,7.0222629
+5599890762,node,Chyrstie,restaurant,Grasse,,,,43.5510115,7.0217609
+5606640342,node,Café du Palais,restaurant,Grasse,"74 Avenue Pierre Semard, 06130, Grasse",06130,,43.6565793,6.9296947
+5627407621,node,Bar du Marin,restaurant,Grasse,,,,43.5527615,7.0157728
+5747700521,node,Le Manoir,restaurant,Grasse,"4 Petite Rue Saint-Antoine, 06400",06400,https://www.lemanoircannes.fr,43.5513108,7.0109266
+5764039063,node,Le Bistrot de l'Oasis,restaurant,Grasse,,,,43.5268215,6.9451899
+5764039761,node,L'etabli,restaurant,Grasse,,,,43.5487362,7.0083907
+5764039764,node,La Canna Suisse,restaurant,Grasse,,,,43.5518982,7.009783
+5770357286,node,Lou Meidjou,restaurant,Grasse,,,,43.5751135,7.0223305
+5773838753,node,La Sarbacane,restaurant,Grasse,"41 Boulevard Sadi Carnot, 06110",06110,,43.575638,7.0173003
+5774656179,node,Sebdelivery Traiteur,restaurant,Grasse,"10 Place des Arcades, 06250, Mougins",06250,https://www.seb-delivery.com,43.5887384,7.0411277
+5787049553,node,Hôtel Journel,hotel,Grasse,,,,43.5747003,7.1177454
+5799069200,node,Villa Marina,restaurant,Grasse,,,,43.636452,7.1362172
+5829436919,node,Bleu Bay,restaurant,Grasse,,,,43.6580261,7.1899034
+5829436921,node,Dylano,restaurant,Grasse,,,,43.6579722,7.1895849
+5829436922,node,Casa Luna,restaurant,Grasse,,,,43.6579054,7.188668
+5829436923,node,L'Atoll,restaurant,Grasse,,,,43.6578885,7.1869652
+5829436924,node,Isabelle's,restaurant,Grasse,,,,43.6578715,7.1867611
+5829436925,node,Voile Rouge,restaurant,Grasse,,,,43.6578495,7.1865571
+5837903238,node,Brasserie l'Eden,restaurant,Grasse,,,,43.7212002,7.1794073
+5853115585,node,Le Lagon,restaurant,Grasse,,,,43.537009,6.9459969
+5859291199,node,Sushistore,restaurant,Grasse,,,,43.5760471,7.0201311
+5895652751,node,La Dolce Vita,restaurant,Grasse,"83 Avenue de Lérins, 06400, Cannes",06400,,43.5387337,7.0380459
+5916877787,node,Le grain de sel,restaurant,Grasse,25 Rue Hoche,,,43.5531171,7.0209806
+5919857168,node,C'Green&Co.,restaurant,Grasse,"6 bis Rue Saint-Bernardin, 06270, Villeneuve-Loubet",06270,https://cgreen.wtf/,43.6579815,7.1233523
+5924238765,node,,restaurant,Grasse,,,,43.5543072,6.9578642
+5979915801,node,La Pasta,restaurant,Grasse,,,,43.6202006,6.9701481
+5996387955,node,Sainbiose,restaurant,Grasse,,,,43.5356614,6.9359577
+5996387956,node,Le Lotus,restaurant,Grasse,,,,43.5355943,6.9358454
+6029886412,node,Le Rond Point,restaurant,Grasse,,,,43.5726468,7.0166995
+6034946983,node,Enjoy,restaurant,Grasse,,,,43.5728549,7.0006061
+6041746185,node,Ti Toques,restaurant,Grasse,"9 Avenue Louis Gallet, 06160, Antibes",06160,,43.5694104,7.1101823
+6042413485,node,L'acqua in bocca,restaurant,Grasse,"6 Square Dulys, 06160",06160,,43.5719284,7.1023522
+6124644203,node,Traiteur Libanais,restaurant,Grasse,,,,43.5789432,7.0531316
+6126206956,node,La Régence Café,restaurant,Grasse,"10 Place du Grand Jardin, 06140, Vence",06140,https://www.regencecafe.fr/,43.7228246,7.1120228
+6126211817,node,Mama Gaïa,restaurant,Grasse,,,https://vegoresto.fr/vence/mama-gaia/,43.7226446,7.1143783
+6130045192,node,La Table by Richard Mebkhout,restaurant,Grasse,,,,43.6417524,7.0091786
+6147135213,node,Pizza Jean-Jean,restaurant,Grasse,,,,43.5425446,7.0386483
+6147236944,node,Snack La Galère,restaurant,Grasse,"270 Rue Jean Monnet, 06210, Mandelieu-la-Napoule",06210,,43.5418493,6.9333125
+6156815993,node,La Verrière,restaurant,Grasse,,,https://coeurdemougins.fr/Commerce/la-verriere/,43.603939,6.9874475
+6190799612,node,Little Estasi,restaurant,Grasse,Avenue du 24 Août,,https://www.little-estasi.fr/,43.5796031,7.122745
+6190800248,node,La Fée Loca,restaurant,Grasse,,,,43.5796849,7.1232837
+6190952305,node,Goood,restaurant,Grasse,,,,43.5796078,7.1233269
+6285740792,node,Le Bistro Du Cannetan,restaurant,Grasse,,,,43.5748166,7.0169257
+6290640012,node,La Terrasse Fleurie,restaurant,Grasse,Impasse Font-Roubert,,,43.6050601,6.9889462
+6291109225,node,Bistro les Canailles,restaurant,Grasse,12 Rue Jean Daumas,,,43.5532026,7.0254749
+6297527199,node,,restaurant,Grasse,,,,43.5667568,7.0168963
+6311554615,node,Restaurant de collectivités Elior,restaurant,Grasse,,,,43.6226193,7.0597931
+6326885619,node,Hôtel Panorama,hotel,Grasse,,,https://www.panoramagrasse.com/,43.6568678,6.9197613
+6375678643,node,,restaurant,Grasse,,,,43.6995504,7.1179913
+6379004920,node,La Piazza,restaurant,Grasse,,,,43.6639757,7.1287587
+6379004921,node,Ar Preti Crêperie Moderne,restaurant,Grasse,,,,43.6639203,7.1288712
+6393479622,node,Le Narges,restaurant,Grasse,,,,43.5819569,6.997772
+6433808593,node,Trattoria le Capri,restaurant,Grasse,,,,43.6162609,7.1252895
+6433835446,node,Neptune Grill,restaurant,Grasse,,,,43.6151899,7.1256613
+6434377633,node,Roquette Pizza,restaurant,Grasse,666 Avenue de la République,,,43.5786674,6.949967
+6439722940,node,L'Autentica,restaurant,Grasse,,,,43.6354496,6.9567275
+6445805585,node,Meat,restaurant,Grasse,,,,43.5515101,7.0108539
+6445805586,node,Uva,restaurant,Grasse,,,,43.5532077,7.0248594
+6445816986,node,Le Pompon,restaurant,Grasse,,,,43.5523425,7.0146476
+6461024913,node,Il Tinello,restaurant,Grasse,"35 Boulevard Charles Guillaumont, 06600;06160, Antibes",06600;06160,https://tinello.fr,43.5700452,7.1060472
+6474749035,node,Pulcinella,restaurant,Grasse,1 Avenue Meissonnier,,https://pizzeria-pulcinella.com/,43.5792259,7.1234941
+6476136279,node,Autour d'un plat,restaurant,Grasse,,,,43.6233397,6.9362003
+6482193680,node,Aux Gourmands,restaurant,Grasse,"2 Route de Nice, 06650",06650,,43.6729834,6.9943667
+6515125631,node,Le Bistrot,restaurant,Grasse,27 Avenue Amiral Courbet,,https://lebistrotjuan.com/,43.5699033,7.1087679
+6515253094,node,O'Ptit Juan,restaurant,Grasse,,,,43.5696863,7.1109894
+6515253114,node,A. L. Café,restaurant,Grasse,14 Avenue de l'Esterel,,https://al-cafe.eatbu.com,43.5703016,7.1096489
+6515467897,node,La Brasserie,restaurant,Grasse,,,https://www.labrasserieantiboise.com/,43.5819076,7.1206754
+6515603218,node,Café les Arcades,restaurant,Grasse,129 Boulevard Président Wilson,,,43.5684779,7.1128763
+6515603219,node,La Mamma,restaurant,Grasse,,,,43.5684417,7.1129502
+6515603220,node,La Crêperie,restaurant,Grasse,,,,43.5684952,7.1131446
+6515603231,node,Le Perroquet,restaurant,Grasse,,,,43.5679927,7.1144253
+6525598419,node,Les 3 Brasseurs,restaurant,Grasse,50 Voie Marie Fischer,,https://restaurants.3brasseurs.com/fr/s/brasseurs/antibes/884,43.5998636,7.0854618
+6525598420,node,Fradiavolo,restaurant,Grasse,,,,43.5996344,7.0855664
+6530420846,node,Pierre et Vacances Restaurant,restaurant,Grasse,,,,43.534388,6.9434814
+6537322425,node,Mistinguett,restaurant,Grasse,,,,43.5829633,7.1271705
+6548632670,node,La Cigale,restaurant,Grasse,"9 Place aux Aires, 06130, Grasse",06130,https://www.facebook.com/pg/cigalegrasse/about/,43.6593864,6.9229118
+6548705004,node,Brasserie des Artistes,restaurant,Grasse,"2 Place de la Foux, 06130, Grasse",06130,,43.6603991,6.922615
+6550012344,node,L'Esterel,restaurant,Grasse,,,,43.5693744,7.1072149
+6550021285,node,Plage des Îles,restaurant,Grasse,,,,43.5696014,7.1066532
+6553765592,node,La cambuse,restaurant,Grasse,,,,43.517564,6.9398362
+6558469485,node,Le Pastis,restaurant,Grasse,,,http://restaurantlepastis.com,43.5510643,7.0228888
+6562932081,node,Kamëa Bowl,restaurant,Grasse,"1 Porte de L'Adous, 06560, Valbonne",06560,,43.6229037,7.0463253
+6581508574,node,Shiva,restaurant,Grasse,,,,43.6764916,7.0132002
+6595773967,node,L'Aromate,restaurant,Grasse,61 Avenue Philippe Rochat,,,43.5871291,7.1110859
+6600659332,node,La Petite Escale,restaurant,Grasse,,,,43.5798212,7.1230841
+6632973997,node,Bistrot du gaubi,restaurant,Grasse,,,,43.6599253,6.923254
+6673565616,node,Hôtel Particulier des Jasmins,restaurant,Grasse,"938 Avenue des Écoles, 06620, Le Bar-Sur-Loup",06620,https://www.lesjasmins.fr/,43.700185,6.9900121
+6696605903,node,Mim,restaurant,Grasse,,,,43.5457681,7.0343721
+6698502811,node,,restaurant,Grasse,,,https://www.facebook.com/LeDuplexCannes/,43.5385989,7.0386769
+6707415586,node,sardine,restaurant,Grasse,Rue Florian,,,43.5521277,7.0233349
+6741924074,node,Skooks,restaurant,Grasse,220 Allée Maurice Bellonte,,http://skooks.fr,43.5544402,6.9529831
+6744130504,node,Le Chat,restaurant,Grasse,5 Chemin des Bachettes,,,43.6284223,7.0971682
+6757488514,node,Rotisserie Mouginoise,restaurant,Grasse,"1198 Avenue Font-Roubert, 06250, Mougins",06250,,43.6054228,6.9879457
+6772661930,node,Le Servan,restaurant,Grasse,,,,43.6284702,7.0427522
+6782578713,node,Ristorante Nino,restaurant,Grasse,,,,43.5063437,6.9444917
+6793791860,node,Délice Sushi Ya,restaurant,Grasse,,,,43.6200044,6.970463
+6796046017,node,Mini-Thaï,restaurant,Grasse,,,,43.7438671,7.1469019
+6797222616,node,Les Sérénades,restaurant,Grasse,,,,43.5703476,7.0030117
+6799566251,node,Plein Sud,restaurant,Grasse,"5 Chemin du Cabanon, 06740, Châteauneuf-Grasse",06740,,43.680978,6.9724245
+6802245844,node,Eden Pizza,restaurant,Grasse,,,https://www.edenpizza.fr/,43.5973296,7.0946601
+6823195666,node,Brasserie de Mougins,restaurant,Grasse,,,,43.5983887,6.986329
+6863639285,node,L'Ovive,restaurant,Grasse,,,,43.6237223,7.09837
+6873114919,node,Pépère et Ronnie,restaurant,Grasse,57 Boulevard Maréchal Juin,,,43.6572696,7.1512131
+6909976041,node,Best Western Antibes Riviera,hotel,Grasse,41 Avenue de Nice,,https://www.bestwestern.com/en_US/book/hotels-in-antibes/best-western-plus-antibes-riviera/propertyCode.93851.html,43.5937823,7.1196873
+6910358500,node,So Crêpes and Pizza,restaurant,Grasse,,,https://www.socrepeandpizza.fr/,43.5542774,6.9560462
+6910358502,node,Manhattan Café,restaurant,Grasse,,,,43.5541013,6.9561162
+6911482804,node,L'odyssée,restaurant,Grasse,14 Boulevard Maréchal Leclerc,,,43.5754614,7.1240695
+6918686530,node,,restaurant,Grasse,,,,43.5723031,6.9961631
+6927161941,node,Le Sarment,restaurant,Grasse,,,,43.6557038,7.1525172
+6936990724,node,Le Napoléon Bonaparte,restaurant,Grasse,"Boulevard Jean Hibert, 06400, Cannes",06400,,43.5482822,7.0106314
+6936990725,node,Le Flamenco,restaurant,Grasse,"Boulevard Jean Hibert, 06400, Cannes",06400,,43.5482878,7.0104847
+6937213176,node,Indra,restaurant,Grasse,,,,43.6682919,7.0439116
+6937219752,node,Cocotte,restaurant,Grasse,,,,43.673866,7.0021967
+6944280984,node,Mirabelle,restaurant,Grasse,,,,43.5516449,7.0105635
+6961596850,node,3.14,restaurant,Grasse,,,,43.5501843,7.0266531
+6964695686,node,Fragrance Culinaire,restaurant,Grasse,,,,43.6276064,7.0397573
+6982286002,node,32,restaurant,Grasse,"32 Rue des Casemates, Antibes",,,43.5830067,7.1267246
+6994648286,node,La busca,restaurant,Grasse,,,,43.6676797,7.1920761
+7006868927,node,Le Petit Cannettan,restaurant,Grasse,,,,43.5727667,7.0165924
+7017136512,node,Le Siècle d'Or,restaurant,Grasse,,,https://www.restaurant-lesiecledor.fr/,43.5547726,6.9523375
+7039266011,node,L'angle des Saveurs,restaurant,Grasse,,,,43.5512181,7.0295682
+7039266016,node,L'Antidote,restaurant,Grasse,,,,43.5518937,7.0298807
+7039266017,node,Verlaine,hotel,Grasse,,,,43.5523322,7.0298533
+7041583369,node,Le Rendez-vous de Mougins,restaurant,Grasse,,,,43.6008118,6.9945053
+7041591421,node,Curry House,restaurant,Grasse,,,http://www.curryhouse06.com,43.6008352,6.994645
+7041604259,node,Chez Lea,restaurant,Grasse,,,,43.6005352,6.9947703
+7105416559,node,Le Bienvenu,restaurant,Grasse,,,,43.6005831,7.0831293
+7123017338,node,Chez David,restaurant,Grasse,,,,43.6630442,7.1494701
+7124815001,node,Laguna,restaurant,Grasse,,,,43.5690001,7.1114228
+7141423711,node,Panino,restaurant,Grasse,3 Traverse du 24 Août,,,43.579827,7.1228489
+7141423712,node,Le Fricot,restaurant,Grasse,,,,43.5799337,7.1228493
+7141423713,node,La Badiane,restaurant,Grasse,3 Traverse du 24 Août,,,43.5798669,7.1228524
+7142778380,node,Ya Ya,restaurant,Grasse,,,,43.5709132,7.1028805
+7162179344,node,Il Forno di Napoli,restaurant,Grasse,,,,43.6585646,7.1651614
+7222105815,node,Azurene Royal Hotel,hotel,Grasse,,,,43.5511013,7.022892
+7284147246,node,Le Comptoir 233,restaurant,Grasse,,,,43.6295703,6.9592857
+7285644910,node,Buffalo Grill,restaurant,Grasse,12 Chemin du Moulin de Brun,,https://www.buffalo-grill.fr/nos-restaurants/grasse,43.6545934,6.9439387
+7291649135,node,Brasserie Le Square,restaurant,Grasse,,,,43.5662845,7.0167455
+7367383357,node,Hôtel Renoir,hotel,Grasse,,,,43.5539671,7.0158297
+7397558193,node,Villa Alang Alang,hotel,Grasse,"7-29 Avenue de l'Esterel, 06400, Cannes",06400,https://villa-alangalang.com/,43.5585133,7.0428353
+7431553878,node,Rest' Ô Jardin,restaurant,Grasse,,,,43.5678153,7.0186121
+7462923331,node,HappyFood,restaurant,Grasse,"81 Avenue de Grasse, 06400, Cannes",06400,http://www.happyfood06.fr/wordpress/,43.5551846,7.0119623
+7516943075,node,"La Pizzaiola ""Chez Xavier""",restaurant,Grasse,"10 Rue Marceau, 06400, Cannes",06400,https://www.pizzaiolachezxavier.com/,43.5529738,7.0240442
+7595873400,node,Le Fouquet's,restaurant,Grasse,,,,43.5477587,7.0308612
+7605896697,node,Le Val Duchesse,hotel,Grasse,"11 Rue de Paris, 06800, Cagnes-sur-Mer",06800,https://www.levalduchesse.com/,43.6550343,7.1558635
+7692881551,node,Cosmo Sushi,restaurant,Grasse,,,,43.5812885,6.9976459
+7733519893,node,Ital Pizza,restaurant,Grasse,"548 Chemin des Moyennes Bréguières, 06600, Antibes",06600,https://italpizza-antibes.tastycloud.menu/,43.6071674,7.1182474
+7812421196,node,Restaurant Inter Entreprise,restaurant,Grasse,,,,43.6203405,7.0370025
+7812459117,node,La Merenda dei Cagnenc,restaurant,Grasse,"Rue Raimond Giacosa, 06800, Cagnes-sur-Mer",06800,,43.6624284,7.1498439
+7831868004,node,Pizza Hut,restaurant,Grasse,,,,43.664943,7.1705447
+7832022534,node,L'arrêt au port,restaurant,Grasse,,,,43.6563774,7.1722159
+7849429977,node,Bio&Co,restaurant,Grasse,,,,43.5941553,7.057013
+7877610729,node,Brasserie du Ch'ti,restaurant,Grasse,"28 Avenue des Oliviers, 06800, Cagnes-sur-Mer",06800,,43.6591151,7.1651356
+7880625482,node,Bistro Libanais,restaurant,Grasse,"1 Place Joseph Bermond, 06560, Valbonne",06560,https://www.bistrolibanais.fr/,43.6213279,7.0399898
+7880625483,node,Absolute Sushi,restaurant,Grasse,"1 Place Joseph Bermond, 06560, Valbonne",06560,https://absolutesushi.fr/,43.6213067,7.0399924
+7908391285,node,Le Brasier,restaurant,Grasse,,,,43.7248207,7.1068793
+7917357023,node,,restaurant,Grasse,,,,43.7986131,7.1978992
+7958944543,node,Beach Klubber,restaurant,Grasse,"1321 Route du Bord de Mer, 06270, Villeneuve-Loubet",06270,https://www.beachklubber.com/,43.6277105,7.1340282
+7958944544,node,Beach Paradise,restaurant,Grasse,"1261 Route du Bord de Mer, 06270, Villeneuve-Loubet",06270,http://www.beachparadise.fr/,43.6280934,7.1341602
+8002414353,node,Van Crepes Holland,restaurant,Grasse,,,https://van-crepes-holland.eatbu.com/,43.5589152,7.0170384
+8010567779,node,R.I.E,restaurant,Grasse,,,,43.6098121,7.0212158
+8014274854,node,Diwan Al Bacha,restaurant,Grasse,"11 Avenue Tourre, 06600, Antibes",06600,https://www.restaurant-diwan-albacha.fr/,43.5813274,7.1200267
+8068513593,node,Le Tigre,restaurant,Grasse,,,,43.6875528,7.1040526
+8068513595,node,Faim de Loup,restaurant,Grasse,,,,43.6878774,7.1041545
+8074579497,node,L’Oranger,restaurant,Grasse,,,,43.6874243,7.1048721
+8094007346,node,La Fleur d'Oranger,restaurant,Grasse,,,,43.5527286,6.9574463
+8121049961,node,Atelier Fine Bouche,restaurant,Grasse,,,https://www.maximekozlitine.com/,43.5781622,7.0170745
+8172059393,node,Au Garçon Boucher,restaurant,Grasse,"4 Place de Verdun, 06270, Villeneuve-Loubet",06270,,43.6584904,7.1220225
+8204968566,node,Trattoria Quattro,restaurant,Grasse,"1288 Route de Cannes, 06560, Valbonne",06560,https://www.trattoriaquattro.com/,43.6295982,6.9981671
+8243229563,node,Café Lorette,restaurant,Grasse,26 Avenue de Nice,,,43.5929094,7.120665
+8267882095,node,Restaurant New Indien,restaurant,Grasse,,,,43.5487552,6.9808258
+8388702246,node,Le P'tit Resto,restaurant,Grasse,,,,43.6804534,6.972118
+8407726234,node,Restaurant Le Break Portugais,restaurant,Grasse,,,,43.5900336,7.0957189
+8407726410,node,Pizza du Trianon,restaurant,Grasse,,,https://www.pizzadutrianon.fr/site/our-pizzas/,43.5902331,7.0955983
+8488334173,node,NÂGA Street-food,restaurant,Grasse,"24 Cours Fragonard, 06560, Valbonne",06560,https://naga-sophia.com/,43.6208345,7.0459499
+8500706590,node,Le Saint Pierre,restaurant,Grasse,70 Promenade de la Plage,,,43.6568692,7.1642443
+8599822844,node,Fafa Pizza,restaurant,Grasse,,,,43.5563527,7.0234427
+8699450092,node,,restaurant,Grasse,,,,43.6829988,7.1240036
+8731360798,node,Regina di Napoli,restaurant,Grasse,,,,43.5549262,6.9703732
+8814028021,node,India Wala,restaurant,Grasse,"53 Boulevard du Beau Rivage, 06600, Antibes",06600,,43.6052064,7.1235002
+8814143322,node,Cibo Italia,restaurant,Grasse,,,,43.6068216,7.1235261
+8814143324,node,Pizza Adelia,restaurant,Grasse,,,,43.6056181,7.1231736
+8823885918,node,Byro Allé,restaurant,Grasse,"2 Rue du Bresc, 06570",06570,https://www.byroalle.com/,43.6966921,7.1220148
+8823905317,node,Le Lotus d'Or,restaurant,Grasse,"6 Rue de la Pourtoune, 06570",06570,https://www.lotusdor.fr/,43.6978295,7.1220792
+8867626416,node,Restaurant l'Authentique,restaurant,Grasse,"2559 Route de Grasse, 06270, Villeneuve-Loubet",06270,https://restaurantlauthentique.eatbu.com/,43.6531495,7.0868643
+8881319634,node,Bistrot de la marine,restaurant,Grasse,96 Promenade de la Plage,,,43.6579576,7.1675358
+8934078539,node,O' Foods,restaurant,Grasse,72 Boulevard Président Wilson,,,43.5745809,7.1166564
+8934078541,node,Sushi&Wok,restaurant,Grasse,72 Boulevard Président Wilson,,https://www.sushiandwok.fr/,43.5746972,7.1167119
+8949744711,node,La Cantina,restaurant,Grasse,"317 Avenue Eugène Donadeï, 06700, Saint-Laurent-du-Var",06700,,43.6574809,7.196858
+8960942921,node,Le Lavoir,restaurant,Grasse,Villeneuve-Loubet,,,43.6362743,7.1384446
+8961264518,node,La Libera,restaurant,Grasse,,,,43.5513022,7.0230619
+8968263617,node,L’Arrosoir,restaurant,Grasse,6 Rue des Moulinets,,https://www.larrosoir06.fr/,43.6589344,6.923413
+8983589540,node,"Pizzeria ""La Famiglia""",restaurant,Grasse,"50 Allée du Docteur Hippolyte Maffet, 06620, Le Bar-sur-Loup",06620,,43.7002324,6.9872297
+9034227784,node,Parthenopi,restaurant,Grasse,,,,43.5524644,7.0144436
+9051213749,node,Caffé César,restaurant,Grasse,,,,43.6677843,6.9866174
+9060848378,node,La Cigale,restaurant,Grasse,,,,43.5805696,6.9483566
+9124111478,node,Bistrot 34,restaurant,Grasse,,,,43.654535,6.9326604
+9164314907,node,Ciro's Cannes,restaurant,Grasse,,,https://www.hotelsbarriere.com/cannes/le-majestic/restaurants-et-bars/ciro-s-cannes,43.5500135,7.0195434
+9172342112,node,Garinette Brunch Bar,restaurant,Grasse,,,https://www.garinette.com/,43.6739024,7.0055799
+9192674550,node,Best Western Elixir Grasse,hotel,Grasse,"Rue Martine Carol, 06130, Grasse",06130,,43.6482388,6.9367975
+9208287958,node,Le Fouquet's,restaurant,Grasse,,,,43.5512606,7.0198013
+9208287959,node,Beefbar Cannes,restaurant,Grasse,,,,43.551215,7.019558
+9239783927,node,Moxy,hotel,Grasse,4440 Route des Dolines,,,43.6173516,7.0690365
+9241183195,node,Villa d'Estelle,hotel,Grasse,"12-14 Rue des Belges, 06400, Cannes",06400,https://www.villadestelle.com/,43.5514051,7.0190212
+9243893076,node,Hôtel Royalmar,hotel,Grasse,"22-23 Promenade de la Plage, 06800, Cagnes-sur-Mer",06800,https://hotelroyalmar.com/,43.6543574,7.1572827
+9266253025,node,Le Petit Provençal,restaurant,Grasse,,,https://www.le-petit-provencal-restaurant-mougins.com/,43.5984167,6.9859766
+9293080668,node,Chez KIm,restaurant,Grasse,"7b Rue Général Berenger, 06800, Cagnes-sur-Mer",06800,https://www.facebook.com/pages/Chez-Kim/174337053230765,43.6630596,7.1493273
+9341303711,node,Saluzzo,restaurant,Grasse,,,,43.6035297,6.9596486
+9474036656,node,L'estragon,restaurant,Grasse,,,,43.8081913,7.1677078
+9474042286,node,La Mer Bleue,restaurant,Grasse,,,,43.5530095,6.9571593
+9490348439,node,Pizza Hut,restaurant,Grasse,,,,43.5916918,7.035727
+9502514201,node,Pane e Vino,restaurant,Grasse,2 Boulevard Maréchal Leclerc,,https://www.panevino.fr,43.5766468,7.1254301
+9608377247,node,Lagrange Apart Hotel,hotel,Grasse,,,,43.5996395,7.0840099
+9609112735,node,La Suite... du Salon,restaurant,Grasse,,,,43.5970938,7.0691446
+9688468196,node,Forno di Napoli,restaurant,Grasse,22,,,43.6585785,7.1651705
+9691755494,node,Forno di Napoli,restaurant,Grasse,,,,43.6586449,7.1652497
+9759840169,node,Tonton Marcel,restaurant,Grasse,,,,43.5846051,6.9984224
+9759840170,node,Cook & Togues,restaurant,Grasse,,,,43.5846663,6.9984265
+9776576120,node,Chez Mat't,restaurant,Grasse,,,,43.6618546,7.1495524
+9776576121,node,Brasserie du cours,restaurant,Grasse,,,,43.6617884,7.1497685
+9776591317,node,Au puits du cours,restaurant,Grasse,,,,43.6614951,7.1494486
+9795169376,node,Indigo,hotel,Grasse,"44 Avenue Auguste Renoir, 06800, Cagnes-sur-Mer",06800,https://www.ihg.com/hotelindigo/hotels/de/de/cagnes-sur-mer/xcgcm/hoteldetail,43.6646529,7.1533979
+9811235817,node,Les Délices de La Colle,restaurant,Grasse,,,,43.6875339,7.103729
+9816754503,node,Paul,restaurant,Grasse,"25 Promenade de la Plage, 06800, Cagnes-sur-Mer",06800,https://www.paul.fr/,43.6546598,7.1581741
+9842383951,node,Côte et Sud,restaurant,Grasse,"45 Promenade de la Plage, 06800, Cagnes-sur-Mer",06800,,43.6557894,7.161357
+9870700141,node,Brasserie la Fontaine,restaurant,Grasse,"3 Place Général de Gaulle, 06530, Saint-Cézaire-sur-Siagne",06530,,43.6496326,6.7925932
+9870700162,node,Les Vignes de San Faviou,restaurant,Grasse,"12 Place Général de Gaulle, 06530, Saint-Cézaire-sur-Siagne",06530,,43.6498094,6.7929117
+9870700167,node,café lions,restaurant,Grasse,,,,43.6495193,6.7931666
+9883670790,node,Restaurant Pizzeria,restaurant,Grasse,,,,43.6391947,6.8685299
+9888905100,node,L'Aragonite,restaurant,Grasse,"1481 Route des Grottes, 06535, Saint-Cézaire-sur-Siagne",06535,grotte-saintcezaire.com/restaurant-laragonite,43.6587853,6.8108216
+9923230868,node,Laolé,restaurant,Grasse,,,,43.5452722,6.9417352
+9923230869,node,La Terrasse,restaurant,Grasse,,,,43.545177,6.9418961
+9947502613,node,NÂGA Street-food,restaurant,Grasse,"94 Avenue Georges Pompidou, 06130, Grasse",06130,naga-grasse.com,43.6455509,6.9395072
+9948201088,node,Café Kanter,restaurant,Grasse,,,https://cafe-kanter.eatbu.com,43.5776277,7.1240299
+9951285065,node,Naan’s,restaurant,Grasse,"42 Boulevard Président Wilson, 06600, Antibes",06600,,43.5771427,7.1179316
+9956762364,node,Bar restaurant Hôtel du Nord,restaurant,Grasse,"46 Avenue de Cannes, 06160, Antibes",06160,,43.5736469,7.0877697
+9969580818,node,Oh my poke!,restaurant,Grasse,,,,43.5534148,7.0206223
+9969580819,node,Bollyfood,restaurant,Grasse,,,,43.5533601,7.0206207
+9969580821,node,Pitadine,restaurant,Grasse,,,,43.5533282,7.0216704
+9970614775,node,Chez Franco,restaurant,Grasse,14 Rue de Constantine,,,43.5525363,7.0280385
+9974292748,node,L'Esterel,hotel,Grasse,,,,43.5534689,7.0192508
+10003446307,node,Pure deLight,restaurant,Grasse,,,https://www.facebook.com/puredelight06/,43.6183065,7.0753549
+10012358017,node,Pépite,restaurant,Grasse,,,,43.5246026,6.9437646
+10013315282,node,La Cigale Bistrot,restaurant,Grasse,6 Rue Lecerf,,,43.5528188,7.025659
+10013327107,node,Cinq,restaurant,Grasse,5 Rue de la Bourgade,,,43.7169204,7.0595021
+10017671128,node,Lou Papounet,restaurant,Grasse,,,,43.5242184,6.9409655
+10092521479,node,Le grillon,restaurant,Grasse,,,,43.5804155,6.9968963
+10098657960,node,Pepperoni,restaurant,Grasse,"06330, Roquefort-les-Pins",06330,https://www.pepperoni-roquefort.com/,43.6664982,7.0481164
+10098657961,node,Lo Planchâ,restaurant,Grasse,,,,43.6667159,7.0478664
+10116705020,node,Sushi Factory,restaurant,Grasse,"4343 D2085, 06330, Roquefort-les-Pins",06330,,43.667704,7.04421
+10127593117,node,Irin,hotel,Grasse,,,,43.5817057,7.1258085
+10127807393,node,O'Bistro,restaurant,Grasse,"77 Allée des Chênes, 06330, Roquefort-les-Pins",06330,,43.6666723,7.0477393
+10130662611,node,Sushi by Nam,restaurant,Grasse,,,,43.5582082,7.0222358
+10140126018,node,Chez Andreas,restaurant,Grasse,,,,43.696848,7.121591
+10152424361,node,Le Jardin,restaurant,Grasse,,,https://lejardin-cannes.fr/fr,43.5563976,7.0257635
+10155550035,node,Ibis Styles,hotel,Grasse,,,,43.5672413,7.016119
+10166423475,node,,restaurant,Grasse,,,,43.5732167,6.9906658
+10166521490,node,L'ardoise d'Ana,restaurant,Grasse,,,,43.7477639,7.1432641
+10166521495,node,La Table des Baous,restaurant,Grasse,"42 Rue Nationale, 06640, Saint-Jeannet",06640,,43.747624,7.1427026
+10168759452,node,La Fontaine,restaurant,Grasse,,,https://www.restaurant-la-fontaine-saint-paul-de-vence.fr/restaurant-la-fontaine-saint-paul-de-vence,43.6966443,7.1220315
+10168778688,node,Tredici,restaurant,Grasse,,,,43.5503143,7.0097275
+10168778694,node,Grand Mère Poule,restaurant,Grasse,,,,43.5512409,7.0095673
+10168778697,node,Xuan Le Printemps,restaurant,Grasse,,,,43.5513818,7.0092799
+10169043178,node,Five Room,restaurant,Grasse,,,,43.5502788,7.0081075
+10169043179,node,Vinh Phat,restaurant,Grasse,,,,43.5500717,7.0082491
+10169043180,node,Funny Food,restaurant,Grasse,,,,43.549932,7.0080632
+10169043181,node,Le African Villaige,restaurant,Grasse,,,,43.549796,7.008215
+10169043182,node,Burger Way,restaurant,Grasse,,,,43.5496083,7.0083949
+10169043185,node,Black Sails,restaurant,Grasse,,,,43.5491043,7.0114456
+10169043186,node,Le Ksar,restaurant,Grasse,,,,43.5493799,7.0114775
+10169043188,node,Le Miam Miam,restaurant,Grasse,,,,43.5498016,7.0117926
+10169043189,node,Sushi Koya,restaurant,Grasse,,,,43.5509186,7.0113971
+10180815564,node,Le Trèfle,restaurant,Grasse,7 Rue du Pré,,https://letreflecannes.eatbu.com,43.5510025,7.0095651
+10180820883,node,La Sousta,restaurant,Grasse,11 Rue du Pré,,https://www.la-sousta-restaurant-cannes.com/,43.5507532,7.0095327
+10181262945,node,Chez Margaux,restaurant,Grasse,,,,43.5511702,7.0095746
+10181280010,node,Le bistrot de grand-mère,restaurant,Grasse,,,,43.5512331,7.0095692
+10181290561,node,Le bénitier,restaurant,Grasse,,,,43.548302,7.0092909
+10200127858,node,Hôtel Ibis Cannes Centre,hotel,Grasse,"8 Rue Marceau, 06400, Cannes",06400,,43.552968,7.0238254
+10232467947,node,Quanto Basta,restaurant,Grasse,,,,43.5765004,7.1176986
+10282729256,node,Le Bistrot de Siriya,restaurant,Grasse,,,,43.8087643,7.0968112
+10289408775,node,MÖYE,restaurant,Grasse,"84 Boulevard de la Croisette, 06400, Cannes",06400,https://www.moye-restaurant.com/menus-carte/,43.5457891,7.0342469
+10311891604,node,Lebanon,restaurant,Grasse,,,,43.6526117,7.1544408
+10311904618,node,Tiercé Beach Hotel,hotel,Grasse,,,,43.6511434,7.1521645
+10312656513,node,La mamma pizzeria,restaurant,Grasse,,,,43.6510464,7.1522369
+10313458460,node,Fleur de lotus,restaurant,Grasse,29 Boulevard Kennedy,,,43.6519521,7.1520354
+10554141024,node,Pizza Fifi,restaurant,Grasse,112 Boulevard Président Wilson,,http://www.pizzafifi.fr,43.570695,7.1143024
+10554141026,node,Le congrès,restaurant,Grasse,,,,43.568302,7.1149877
+10584913978,node,Les Ormeaux,restaurant,Grasse,,,,43.7831688,6.9555346
+10590047997,node,Casa Sapori,restaurant,Grasse,24 Rue Lacan,,,43.5821913,7.1238968
+10606235478,node,Hôtel Thomas,hotel,Grasse,,,,43.5785003,7.016809
+10694381617,node,Foyer Restaurant la Rotonde,restaurant,Grasse,,,,43.6569474,6.921151
+10770140039,node,koh Sushi,restaurant,Grasse,,,,43.658069,6.9972634
+10790388913,node,,restaurant,Grasse,,,,43.8436325,7.0468865
+10816721857,node,La Cocotte,restaurant,Grasse,,,,43.5535783,7.0244095
+10826835443,node,La Canisse,restaurant,Grasse,"505 Avenue de la Mer, 06210, Mandelieu-La Napoule",06210,https://la-canisse.com/,43.5389131,6.9426771
+10832474915,node,A Casa Nostra,restaurant,Grasse,"859 Route de Nice, 06600, Antibes",06600,,43.6075912,7.1240362
+10832474917,node,Pizz'Aiello,restaurant,Grasse,"608 Avenue Jules Grec, 06600, Antibes",06600,,43.5923585,7.1161964
+10832542212,node,Maison Maillard,restaurant,Grasse,,,https://www.maisonmaillard.com/,43.6006877,7.1223268
+10839940099,node,Le Jardin de Camille et Quentin,restaurant,Grasse,,,,43.6411113,6.8784612
+10886112751,node,Mellow Factory,restaurant,Grasse,"7 Rue Sade, 06600, Antibes",06600,https://mellow-factory.fr/,43.5809464,7.1268762
+10935257261,node,Chez Mô,restaurant,Grasse,"46 Boulevard Albert 1er, 06600, Antibes",06600,https://chezmo-antibes.fr,43.5764343,7.1248761
+10948735048,node,Beirut Xpress,restaurant,Grasse,,,,43.5724599,7.0893379
+10980556569,node,Fred l'écaillaier,restaurant,Grasse,,,,43.5388205,7.0377734
+11019569105,node,Garinette Brunch Bar / Bar à Apéro,restaurant,Grasse,"9 Rue de la République, 06560",06560,https://www.garinette.com/,43.6415643,7.0080944
+11034605205,node,Snack Lou Gabian,restaurant,Grasse,"Avenue Charles Dahon, 06590",06590,,43.5070225,6.9428693
+11046151366,node,La Farigoule,restaurant,Grasse,"15 Avenue Henri Isnard, 06140, Vence",06140,,43.7229977,7.111386
+11046151370,node,Maison Marc,restaurant,Grasse,"10 Place du Grand Jardin, 06140, Vence",06140,,43.7228639,7.1119162
+11047012924,node,Le Takhi,restaurant,Grasse,,,,43.8048373,6.8456468
+11049077199,node,,restaurant,Grasse,,,,43.6826846,7.1226289
+11049211548,node,Le Dauphin,restaurant,Grasse,,,,43.5520235,7.0169256
+11049278125,node,La Perle,restaurant,Grasse,,,,43.5520965,7.0138074
+11052600583,node,Neosud,restaurant,Grasse,"6 Place du Grand Jardin, 06140, Vence",06140,https://www.restaurant-neosud-vence.fr/,43.7227345,7.1121905
+11052600584,node,La Victoire,hotel,Grasse,"4 Place du Grand Jardin, 06140, Vence",06140,https://www.hotel-victoire.com/,43.7226814,7.1122912
+11052600586,node,Lawa Bombay,restaurant,Grasse,"41 Avenue Marcellin Maurel, 06140, Vence",06140,https://lawa-bombay.com/,43.7227584,7.112366
+11052710624,node,Le Petit Pacha,restaurant,Grasse,,,,43.6550616,7.1518026
+11053272578,node,Le Kashmir,restaurant,Grasse,"13 Place du Grand Jardin, 06140, Vence",06140,,43.7221988,7.1121427
+11063602671,node,La cabane du pêcheur,restaurant,Grasse,,,,43.5059716,6.9475952
+11079463707,node,Le Partage,restaurant,Grasse,,,,43.6114118,6.9713992
+11135885137,node,La fighiere,restaurant,Grasse,,,,43.6373127,7.1398808
+11139577863,node,Au Bureau,restaurant,Grasse,,,,43.6648709,7.1271647
+11144522750,node,Ayako Sushi,restaurant,Grasse,,,,43.6639927,7.1295347
+11145817204,node,Pokawa,restaurant,Grasse,,,https://www.pokawa.com/,43.6638329,7.1283954
+11145845712,node,Brasserie Julien,restaurant,Grasse,,,https://www.brasserie-julien.com/,43.6654213,7.1270472
+11146016728,node,Ramen Ta Faim,restaurant,Grasse,,,https://ramentafaim.fr/,43.6635317,7.1289222
+11146131248,node,WOKO,restaurant,Grasse,,,,43.6638568,7.1296941
+11152315306,node,Le 59,restaurant,Grasse,,,,43.5762523,7.1246378
+11163238260,node,Crêperie de la plage,restaurant,Grasse,,,,43.5066151,6.9419493
+11166862832,node,Ô Mer Veille,restaurant,Grasse,,,,43.6197501,6.9698143
+11166872509,node,Les Douceurs de Sbirdhina,restaurant,Grasse,18 Rue du Onze Novembre,,,43.6196262,6.9701308
+11181393347,node,Le 44,restaurant,Grasse,,,,43.5765718,7.1247361
+11185346050,node,Maison du Fondeur,restaurant,Grasse,,,https://stations-greolieres-audibergue.com/,43.8315638,6.951492
+11238127854,node,Le Grimaldi,restaurant,Grasse,,,,43.6672826,7.1458442
+11245923471,node,Joseph,restaurant,Grasse,"317 Avenue Eugène Donadeï, 06700, Saint-Laurent-du-Var",06700,https://www.josephcap3000.fr,43.6577996,7.1963519
+11281757639,node,Carré d'as,restaurant,Grasse,,,,43.5554921,7.0233562
+11286450870,node,Chez Wael,restaurant,Grasse,,,,43.5562543,7.0233281
+11298034373,node,Le P'tit Cageot,restaurant,Grasse,,,https://leptitcageot.com/,43.5815985,7.1246736
+11298076045,node,L'Arazur,restaurant,Grasse,,,https://www.larazur.fr/,43.5819087,7.1274352
+11298076046,node,Le Bistrot Italien,restaurant,Grasse,,,https://www.lebistrot-italien.fr/,43.5817811,7.1276756
+11298119108,node,Le Championnet,restaurant,Grasse,"33 Cours Massena, Antibes",,,43.5811499,7.1274896
+11298119112,node,Mersea,restaurant,Grasse,16 Cours Masséna,,,43.5809775,7.1277551
+11299680869,node,Le Bao (Bouche À Oreille),restaurant,Grasse,,,https://www.lebouchaoreille.com/,43.5526027,7.024572
+11330633320,node,Domi's,restaurant,Grasse,,,,43.6526225,7.1519788
+11330633323,node,Siem Rep,restaurant,Grasse,,,,43.6518337,7.1520635
+11330649185,node,L'ô à la bouche,restaurant,Grasse,,,,43.6512149,7.1521716
+11365077695,node,Pizzeria Chez Moustache,restaurant,Grasse,,,,43.6199132,6.9339316
+11381365878,node,La Riviera,restaurant,Grasse,"630 Avenue de Tournamy, 06250, Mougins",06250,http://larivieramougins.com/,43.6023517,6.9868017
+11391749822,node,Piperno,restaurant,Grasse,,,,43.5820787,7.1234408
+11405438661,node,L'Azur,restaurant,Grasse,,,,43.6571757,7.1652476
+11422577716,node,Croc Liban,restaurant,Grasse,55 Chemin de Saint-Claude,,,43.5921981,7.1151872
+11423301761,node,Nananère,restaurant,Grasse,,,,43.5814227,7.1228767
+11423301762,node,Ferni,restaurant,Grasse,,,,43.5814487,7.1230198
+11423301763,node,Le Relais Du Postillon,hotel,Grasse,8 Rue Championnet,,https://www.relaisdupostillon.com/,43.5811637,7.1228241
+11423301764,node,Le Relais Du Postillon,restaurant,Grasse,8 Rue Championnet,,,43.5811003,7.1229058
+11425441314,node,Le Relais du Postillon,hotel,Grasse,,,,43.5810887,7.1228802
+11425441318,node,La Pergola,restaurant,Grasse,23 Boulevard Président Wilson,,,43.5781217,7.11923
+11428402913,node,Cosmo Sushi,restaurant,Grasse,,,,43.5857847,7.1143547
+11438577288,node,Au Bruit Qui Court,restaurant,Grasse,,,,43.5906237,7.1178875
+11438579118,node,La Lucarne,restaurant,Grasse,,,,43.5932111,7.115465
+11449309598,node,Nacional,restaurant,Grasse,,,,43.581471,7.1259701
+11470519238,node,Dolce Farniente,restaurant,Grasse,,,,43.5498566,7.030554
+11476845347,node,Le Vogue,restaurant,Grasse,,,,43.5682553,7.1107584
+11505652932,node,La Terrasse,restaurant,Grasse,"1220 Route Nationale 7, 06270",06270,,43.630995,7.1337827
+11542880017,node,La Guinguette De Rio,restaurant,Grasse,,,https://www.laguinguettederio.fr/,43.583055,7.126316
+11559390668,node,L'île Bleue,restaurant,Grasse,,,,43.5810215,7.1267361
+11572336469,node,Jour Galeries Lafayette Nice,restaurant,Grasse,"317 Avenue Eugène Donadeï, 06700, Saint-Laurent-du-Var",06700,https://cmdfrance.jour.fr/fr/shops/healthy/nice-cap3000,43.6578613,7.1975237
+11610685562,node,Le p'tit bonheur,restaurant,Grasse,"06220, Golfe-Juan",06220,,43.5689328,7.0737164
+11624057140,node,Restaurant Perla Gourmet,restaurant,Grasse,"369 Avenue de la Colle, 06270, Villeneuve-Loubet",06270,https://www.perlariviera.fr/restaurant-hotel-villeneuve-loubet-cote-azur,43.6657657,7.1223195
+11626681207,node,Le chalet du Parc,restaurant,Grasse,,,,43.8301167,6.9725327
+11668569669,node,Le Mood,restaurant,Grasse,136 Quai La Perouse,,,43.6573201,7.1848992
+11673099933,node,Le Passage,restaurant,Grasse,,,,43.5698884,7.0056158
+11742169018,node,Antibes Grill,restaurant,Grasse,,,,43.5796177,7.118804
+11751515769,node,Chesterfield,restaurant,Grasse,"460 Avenue de la Quiera, 06370",06370,,43.6065892,6.9554994
+11757568840,node,La Romance,restaurant,Grasse,,,,43.6357647,7.1315198
+11764638935,node,Hôtel La Villa Juan Beach,hotel,Grasse,5 Rue de l'Oratoire,,,43.56748,7.1167313
+11877343359,node,Logis Sarrazin,restaurant,Grasse,,,,43.7216883,6.9773741
+11880708679,node,Maison Pradier,restaurant,Grasse,,,,43.5897016,7.0352177
+11916168033,node,Avocado,restaurant,Grasse,,,,43.7432113,7.1442449
+11920530905,node,South side sushi,restaurant,Grasse,,,https://www.southsidesushi.fr/,43.5418195,6.9337942
+11923413284,node,Pizzagora,restaurant,Grasse,,,,43.5708969,7.1039086
+11931026169,node,,restaurant,Grasse,"Rue Albert Caquot, 06560",06560,,43.620864,7.0564918
+11931467280,node,Pizza d'Eline,restaurant,Grasse,3 Boulevard du Maréchal Foch,,,43.5793335,7.1193753
+11950274778,node,Mareluna,restaurant,Grasse,"55 Avenue de Lérins, 06590, Théoule-sur-Mer",06590,https://www.chateau-de-theoule.com/fr/espaces-gourmands/,43.5080829,6.9402507
+11964448828,node,Pasta Andrea,restaurant,Grasse,,,,43.553011,7.0235403
+11964448835,node,Barthélemy,restaurant,Grasse,,,,43.553154,7.0194964
+11964693475,node,Le Vietnam,restaurant,Grasse,,,,43.6591403,7.1669108
+11985053437,node,Le Clemencau,restaurant,Grasse,,,,43.7223985,7.1134601
+11985105915,node,Sushi Nem,restaurant,Grasse,,,,43.7221603,7.1140929
+12022213754,node,Garden Beach Hotel,hotel,Grasse,,,,43.5673674,7.113672
+12066187119,node,Le Bistrot Provençal,restaurant,Grasse,,,,43.5970538,6.931264
+12070250193,node,Kenza,restaurant,Grasse,,,,43.6556222,7.1608584
+12070294725,node,Léo Léa - Assiette au boeuf,restaurant,Grasse,100 Promenade de la Plage,,https://www.cagnes-sur-mer.assietteauboeuf.fr/,43.6579989,7.168773
+12071698671,node,Sabaï Sabaï,restaurant,Grasse,,,,43.6968774,7.1220402
+12077255069,node,Boutique Hôtel Couleurs du Sud,hotel,Grasse,,,https://www.cannes-hotel-couleurs-du-sud.com/,43.5497616,7.0079345
+12098567472,node,Le Cocon,restaurant,Grasse,,,,43.7162979,7.0590817
+12098567473,node,L' Ami Paul,restaurant,Grasse,,,,43.7160899,7.0590872
+12098567474,node,Leah Wine,restaurant,Grasse,,,,43.716307,7.0591224
+12098567475,node,La Barbacane,restaurant,Grasse,,,,43.7161376,7.0586376
+12102017086,node,Piz’zatti,restaurant,Grasse,,,,43.6890614,7.1042336
+12104074551,node,La Clé de Sol,restaurant,Grasse,,,,43.6000247,6.9698556
+12119908355,node,Côté Sushi,restaurant,Grasse,,,,43.5820817,7.1235186
+12134603244,node,La Zagara,restaurant,Grasse,,,,43.6539317,7.1517856
+12143772680,node,Le Piccolino,restaurant,Grasse,,,,43.5805788,7.1273625
+12154778974,node,Le Grand Cafè,restaurant,Grasse,,,,43.6032364,7.0885442
+12157909898,node,Camos,restaurant,Grasse,,,,43.601561,7.0855714
+12158239690,node,Val Flore,restaurant,Grasse,"118 Avenue Ziem, 06800, Cagnes-sur-Mer",06800,,43.6653079,7.1702611
+12184439559,node,,restaurant,Grasse,,,,43.6198871,7.1105612
+12207576386,node,La Bigoudène,restaurant,Grasse,,,,43.5519411,7.012861
+12207576393,node,La Pizzeria 66,restaurant,Grasse,,,,43.5518518,7.0126552
+12261187294,node,Le Stromboli,restaurant,Grasse,,,,43.5864842,7.0904856
+12269608005,node,Dragon d'or,restaurant,Grasse,,,,43.6264437,7.1325533
+12304075756,node,Hotera,hotel,Grasse,,,,43.5533699,7.0194195
+12309380816,node,Yamas,restaurant,Grasse,"317 Avenue Eugène Donadeï, 06700, Saint-Laurent-du-Var",06700,,43.657585,7.1971135
+12324157009,node,Little Rock Diner,restaurant,Grasse,"141 Route de Nice, 06600, Antibes",06600,http://littlerockdiner.com/,43.6013549,7.1221763
+12324292819,node,Mess,restaurant,Grasse,,,,43.6504202,6.933401
+12327708344,node,Bistrot Margaux,restaurant,Grasse,,,https://www.bistrot-margaux-antibes.fr/,43.5855192,7.1207607
+12350627488,node,Cap Riviera,restaurant,Grasse,,,,43.5673241,7.1127158
+12350627489,node,Chez Vincent,restaurant,Grasse,,,,43.5674249,7.1128159
+12368360072,node,Together,restaurant,Grasse,"317 Avenue Eugène Donadeï, 06700, Saint-Laurent-du-Var",06700,,43.6573248,7.1975429
+12386078983,node,Le Cosi,restaurant,Grasse,"12 Rue du Suquet, 06400, Cannes",06400,https://www.lecosi.fr/,43.5515653,7.010209
+12386078984,node,Le Marais,restaurant,Grasse,"9 Rue du Suquet, 06400, Cannes",06400,https://restaurantlemarais.fr/,43.5515267,7.0100151
+12386078986,node,Le Mariska,restaurant,Grasse,"20 Rue du Suquet, 06400, Cannes",06400,https://www.facebook.com/p/Le-Mariska-100063559833226/?locale=fr_FR,43.5515257,7.0098646
+12386078987,node,Le bistrot du suquet,restaurant,Grasse,"19 Rue du Suquet, 06400, Cannes",06400,,43.5515235,7.0098137
+12386078989,node,Le XXIV,restaurant,Grasse,"2 Rue du Suquet, 06400, Cannes",06400,https://le24suquet.fr/,43.5515101,7.0096272
+12399938001,node,Bistrot du coin,restaurant,Grasse,"7 Rue de la Pompe, 06600",06600,,43.5795887,7.1268751
+12441493582,node,Café Laffite,restaurant,Grasse,"230 Route des Dolines, 06560, Sophia",06560,https://www.cafelaffitte.fr/,43.6198114,7.0361664
+12441617179,node,Rivea Restaurant,restaurant,Grasse,"317 Avenue Eugène Donadeï, 06700, Saint-Laurent-du-Var",06700,,43.6579301,7.1961539
+12441623207,node,Jardin du Cap,restaurant,Grasse,"317 Avenue Eugène Donadeï, 06700, Saint-Laurent-du-Var",06700,,43.6593647,7.1977066
+12441623231,node,Cañas y Tapas,restaurant,Grasse,"317 Avenue Eugène Donadeï, 06700, Saint-Laurent-du-Var",06700,,43.6569651,7.1983407
+12441623232,node,IT Villagio,restaurant,Grasse,"317 Avenue Eugène Donadeï, 06700, Saint-Laurent-du-Var",06700,,43.657737,7.1977526
+12461465540,node,Tredici pizzeria Forville,restaurant,Grasse,,,,43.5526935,7.0116075
+12488875601,node,La Guinguette Gaudoise,restaurant,Grasse,"7096 Route de Cagnes, 06610",06610,http://restaurant-laguinguette-gaudoise.fr,43.7177765,7.1531858
+12534787433,node,Le Potager,restaurant,Grasse,,,,43.5719973,7.1022354
+12534787434,node,Terre & Mer,restaurant,Grasse,,,,43.5718483,7.1024275
+12630627771,node,HanaSako,restaurant,Grasse,,,,43.5714736,7.104214
+12638575552,node,Yelo Belle Époque,hotel,Grasse,,,https://www.sonder.com/fr-fr/destinations/cannes/yelo-belle-epoque/c37235?sleeps=1,43.553428,7.0216776
+12638575553,node,Madame Hien,restaurant,Grasse,,,https://madamehiencannes.com/,43.5533907,7.021674
+12638575556,node,Hôtel du Nord,hotel,Grasse,,,,43.5535517,7.0197955
+12641263658,node,Hermanos,restaurant,Grasse,,,https://hermanos06210.eatbu.com/,43.524678,6.9406605
+12641263662,node,La Mandarine,restaurant,Grasse,,,,43.5239842,6.9405925
+12643087713,node,Baia Plage,restaurant,Grasse,,,,43.5182715,6.9400137
+12645405760,node,Da Tina 33,restaurant,Grasse,,,,43.553118,7.0216558
+12645405761,node,Yann's,restaurant,Grasse,,,,43.5531105,7.0213353
+12674388119,node,bar de l'Union,restaurant,Grasse,,,,43.6491209,6.8594571
+12683640445,node,Paradis Thai,restaurant,Grasse,,,,43.5699493,7.1082006
+12707965764,node,Greek Kitchen,restaurant,Grasse,,,,43.6656978,7.1258103
+12766795574,node,Chez le Brasseur,restaurant,Grasse,,,,43.6025954,6.9873691
+12771917701,node,Jamîn,restaurant,Grasse,"4 Rue des Belges, 06400",06400,https://jamin-cannes.com/,43.5519984,7.0190812
+12804598001,node,Chez Nando,restaurant,Grasse,,,,43.5823013,7.1267481
+12804598003,node,The Siam,restaurant,Grasse,,,,43.568107,7.1134797
+12804598004,node,Le J,restaurant,Grasse,,,,43.5683496,7.1133676
+12805762696,node,La Cabane,restaurant,Grasse,,,https://lacabane-restaurant-villeneuve-loubet.fr/,43.6298517,7.1348316
+12811408838,node,Romagna Mia,restaurant,Grasse,,,,43.5783064,7.1240401
+12813773725,node,My-tho,restaurant,Grasse,80 Avenue de Nice,,,43.6586822,7.1623418
+12831884121,node,Le Molière,hotel,Grasse,"5 Rue Molière, 06400, Cannes",06400,https://hotel-moliere.com/,43.5520335,7.0253093
+12846582841,node,Madras Café,restaurant,Grasse,,,,43.5702324,7.1111499
+12872918595,node,La Bergèrie,restaurant,Grasse,6 Chemin de la Siagne,,https://www.labergerie.net/,43.7004583,6.8466594
+12917771722,node,Pizzeria du Roi Soleil,restaurant,Grasse,,,,43.5835748,7.1089308
+12923904778,node,Effet Mer,restaurant,Grasse,,,,43.5697502,7.1061814
+12959760392,node,Juliana Hotel Cannes,hotel,Grasse,,,,43.5483793,7.0340351
+12987920216,node,L'atelier Charal,restaurant,Grasse,,,,43.5896501,7.0351532
+13002579534,node,Le Pissalat,restaurant,Grasse,"11 Route de Nice, 06740, Châteauneuf-Grasse",06740,,43.6806881,6.970559
+13034618979,node,Résidence Aragon,hotel,Grasse,,,https://www.hotel-juanlespins.com,43.5731134,7.1129603
+13043016467,node,Crêperie Chez Pauline,restaurant,Grasse,,,,43.6743525,7.0046639
+13068310311,node,O Shai Lee,restaurant,Grasse,,,,43.5703131,7.109715
+13068310316,node,Résidence Graziella,hotel,Grasse,,,,43.5696057,7.1111913
+13077944059,node,L'Atelier Joseph,restaurant,Grasse,"306 Rue Saint-Sauveur, 06110, Le Cannet",06110,,43.5773587,7.0195889
+13077944063,node,A Casetta,restaurant,Grasse,,,,43.5773919,7.0191635
+13077944065,node,La Tomate Volante,restaurant,Grasse,"474 Rue Saint-Sauveur, 06110, Le Cannet",06110,,43.5771023,7.0175022
+13088961520,node,Uta Ramen,restaurant,Grasse,,,,43.5797785,7.1201707
+13100865046,node,royal food,restaurant,Grasse,,,,43.655219,7.1507484
+13101234492,node,Lou Ciapacan,restaurant,Grasse,,,,43.5684314,7.1132349
+13101234493,node,Pousse Pousse,restaurant,Grasse,,,,43.5682702,7.1131671
+13105957008,node,À la folie,restaurant,Grasse,,,,43.6682145,7.0437062
+13116173414,node,Le Convivial Family,restaurant,Grasse,,,,43.570331,7.1119859
+13118802430,node,Unique Boutique Hotel Antibes Juan-les-Pins,hotel,Grasse,,,,43.5681641,7.1148103
+13123797900,node,Villa Djunah,restaurant,Grasse,,,,43.5711968,7.1010533
+13132994998,node,Federal,restaurant,Grasse,"5 Rue Helene Vagliano, 06400, Cannes",06400,,43.5529655,7.0214698
+13132994999,node,Fervor,restaurant,Grasse,"5 Rue des Frères Casanova, 06400, Cannes",06400,,43.5528393,7.0196778
+13132995000,node,Rebelion,restaurant,Grasse,"3 Rue des Frères Casanova, 06400, Cannes",06400,,43.5527313,7.0196801
+13140672917,node,Le Bon Matin,restaurant,Grasse,,,,43.5768575,7.123146
+13154684613,node,Pizzeria au bon coin,restaurant,Grasse,,,,43.8089664,7.1692039
+13154684614,node,La mangiuca,restaurant,Grasse,,,,43.8091582,7.1690589
+13175427806,node,Vert Délice,restaurant,Grasse,,,,43.5826225,7.1210615
+13189029320,node,La Chapelle,restaurant,Grasse,,,,43.6876993,7.1042388
+13192187401,node,Chouchou,restaurant,Grasse,,,,43.6185733,6.9724239
+13208295636,node,Le Pourquoi Pas,restaurant,Grasse,,,,43.6566895,7.1634907
+13232831967,node,PastaMe,restaurant,Grasse,,,,43.6177664,7.0759063
+13287333750,node,La Tannerie,restaurant,Grasse,,,,43.6601739,6.924178
+13287333751,node,Calimo,restaurant,Grasse,,,,43.6601822,6.9241204
+13290603320,node,Rose & Mets,restaurant,Grasse,,,,43.6594123,6.9252009
+13394171164,node,McDonald,restaurant,Grasse,,,,43.7660618,7.2000256
+13426386501,node,La brigade,restaurant,Grasse,,,,43.663793,7.1285631
+13435949841,node,L'institution,restaurant,Grasse,"146 Boulevard Président Wilson, 06160, Antibes",06160,,43.5678895,7.1127306
+13438649451,node,Hôtel Pierre Loti,hotel,Grasse,"29 Rue Pierre Loti, 06160, Antibes",06160,,43.5748434,7.1018853
+13449002711,node,Auberge du Château de Bézaudun,restaurant,Grasse,,,,43.8083665,7.0961206
+13460655701,node,L’Atelier du 39,restaurant,Grasse,,,,43.6199885,6.9712022
+13460688501,node,Ali Baba Grill,restaurant,Grasse,,,,43.6175391,6.9731657
+13543255222,node,La Cave,restaurant,Grasse,,,https://www.lacavecannes.com,43.5528582,7.0247948
+13587181534,node,La Marquise Grill,restaurant,Grasse,24 Place Sainte-Luce,,,43.6647148,7.1491488
+13587181535,node,La Piccola Sicilia,restaurant,Grasse,27 Place Sainte-Luce,,,43.6645427,7.1492845
+13588085901,node,Mas Sushi,restaurant,Grasse,,,https://www.mas-sushi.com/,43.6362534,7.135929
+13589518155,node,A Picca a Picca,restaurant,Grasse,,,,43.6631304,7.1503604
+13615123330,node,,restaurant,Grasse,,,,43.5336927,6.9506205
+13615125715,node,,restaurant,Grasse,,,,43.5326123,6.9495271
+13633681101,node,Brasserie Oliveri,restaurant,Grasse,,,,43.6351431,7.1364827
+13638749471,node,côté jardin,restaurant,Grasse,12,,,43.5567612,7.0148222
+13638769028,node,su rice,restaurant,Grasse,53,,,43.5585242,7.0166364
+13666976801,node,Holiday Inn,hotel,Grasse,,,,43.6585828,7.1893801
+13685922672,node,Hôtel Regina,hotel,Grasse,,,,43.54953,7.0291974
+13685961829,node,Broasted,restaurant,Grasse,,,,43.5492333,7.028862
+13685993040,node,Beryte,restaurant,Grasse,,,,43.5491395,7.0288427
+13685994652,node,Banana Blue,restaurant,Grasse,,,,43.549322,7.0288689
+13685996524,node,Le Jade,restaurant,Grasse,,,,43.5492741,7.0288648
+13690095901,node,Hotel Athenée,hotel,Grasse,"6 Rue Lecerf, 06400",06400,https://www.hotel-athenee-cannes.fr/,43.5527886,7.0255445
+13694662299,node,Bozen,restaurant,Grasse,,,,43.5499438,7.0305385
+13694677381,node,Le Chaophraya,restaurant,Grasse,,,,43.5495532,7.0303315
+13694679439,node,Hop Sushi,restaurant,Grasse,,,,43.5497796,7.0305674
+13695539269,node,Bouillon des artistes,restaurant,Grasse,,,,43.5503197,7.0119418
+13695568092,node,Ô Choubouloute,restaurant,Grasse,,,,43.5497946,7.0120751
+13697654735,node,7Art,hotel,Grasse,,,,43.5536954,7.0167914
+13697656092,node,Love Café,restaurant,Grasse,,,,43.5529845,7.02107
+13697662418,node,Kabayan,restaurant,Grasse,,,,43.553599,7.0167541
+13698116043,node,Aux délices arméniens,restaurant,Grasse,,,,43.5533391,7.0233234
+13698740401,node,Zuma Cannes,restaurant,Grasse,"Place Franklin Roosevelt, 06400",06400,https://www.zumarestaurant.com/,43.5360743,7.0376555
+13732591302,node,La Fleur de Lys,restaurant,Grasse,,,,43.6585228,6.9261306
+13734737819,node,Miss Pancakes,restaurant,Grasse,"10 Rue de l'Oratoire, 06130, Grasse",06130,,43.659224,6.9236109
+13739509201,node,SushiLy,restaurant,Grasse,,,https://www.sushily.net,43.6186411,6.9761102
+13808887594,node,L’empreinte,hotel,Grasse,,,,43.6584715,7.151047
+13809086446,node,Coin d’Asie,restaurant,Grasse,,,,43.6567244,7.1512789
+13856223988,node,Ban Kai Jaa,restaurant,Grasse,"8 rue du Dr Rostan, 06600, Antibes",06600,https://www.thaifoodantibes.com/,43.5815562,7.1247852
+13871211701,node,Medami,restaurant,Grasse,"30 Rue Hoche, 06400",06400,https://www.medamicannes.com/,43.5529591,7.0217487
+13907917874,node,La clé de la Porte,restaurant,Grasse,,,,43.5822066,7.1281419
+13910228001,node,Le Five Cosy,restaurant,Grasse,"1465 Chemin des Combes, 06600",06600,https://lefivecosy.fr/,43.6009678,7.0891674
+13910599537,node,Böl Salad Bar,restaurant,Grasse,"17 Rue de la République, 06560 Valbonne",,https://www.bolsaladbar.com/,43.6410282,7.00795
+13959492985,node,Carré Vert,restaurant,Grasse,"184 route du stade, 06530, Saint-Cézaire-sur-Siagne",06530,https://www.restaurant-carre-vert.fr/,43.6524988,6.7928391

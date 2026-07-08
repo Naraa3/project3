@@ -1,0 +1,14 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+1997335331,node,Hôtel Relais du Vivarais,hotel,Viviers,,,,44.4870804,4.674841
+3358872946,node,Brasserie La Station,restaurant,Viviers,,,,44.4742321,4.6879541
+3358878595,node,Café de l'horloge,restaurant,Viviers,,,,44.4828559,4.6884363
+4197388140,node,La Table de l'Helvie,restaurant,Viviers,,,,44.5005822,4.5743471
+4197389939,node,Restaurant de la Tour Cassée,restaurant,Viviers,Route de Valvignère,,,44.5000761,4.5743314
+5582242123,node,Au café français,restaurant,Viviers,"8 Rue de la Roubine, 07220",07220,,44.483963,4.6902399
+5627373286,node,"Pause, Pizzeria",restaurant,Viviers,,,,44.4835074,4.6879505
+5627378909,node,Les Chevaliers,restaurant,Viviers,,,,44.4831128,4.6888904
+5627378910,node,Zinc & Broc,restaurant,Viviers,,,,44.4836628,4.688764
+9103874939,node,,restaurant,Viviers,,,,44.5501618,4.6835079
+10726226705,node,Aux deux saveurs,restaurant,Viviers,"34 Avenue Henri Barbusse, 07400",07400,,44.5389993,4.6855486
+13521567763,node,Le Relais du Vivarais,restaurant,Viviers,"31 Faubourg des Sautelles, 07220, Viviers",07220,https://www.relaisduvivarais.fr/restaurant-hotel-piscine-restaurant-ardeche-auvergne-rhone-alpes,44.487106,4.6748153
+13728514596,node,La Terrasse des Carmes,restaurant,Viviers,,,,44.5155405,4.6278901

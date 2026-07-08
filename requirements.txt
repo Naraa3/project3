@@ -4,6 +4,7 @@ SQLAlchemy
 pandas
 streamlit
 psycopg 
+pg8000
 psycopg2 
 psycopg2-binary
 openrouteservice

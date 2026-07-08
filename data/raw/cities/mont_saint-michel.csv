@@ -1,0 +1,12 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+846963934,node,La Sirène,restaurant,Mont Saint-Michel,"Grande Rue, 50170, Le Mont-Saint-Michel",50170,,48.6353265,-1.51018
+846963951,node,Hôtel - Restaurant La Mère Poulard,hotel,Mont Saint-Michel,"Grande Rue - BP 18, 50170, Le Mont-Saint-Michel",50170,http://www.merepoulard.com,48.6350826,-1.5109144
+846964006,node,Ermitage,hotel,Mont Saint-Michel,,,https://www.terrasses-poulard.fr/,48.6356131,-1.5104074
+846964059,node,Hôtel - Restaurant Du Guesclin,hotel,Mont Saint-Michel,"Grande Rue, 50170, Le Mont-Saint-Michel",50170,http://www.hotelduguesclin.com/,48.6356147,-1.5098978
+5292449066,node,La Confiance,restaurant,Mont Saint-Michel,,,,48.6351762,-1.5103834
+5292449243,node,La Maison Rouge,hotel,Mont Saint-Michel,,,,48.6353087,-1.510657
+6758018066,node,La Mère Poulard,restaurant,Mont Saint-Michel,"Grande Rue, 50170",50170,https://lamerepoulard.com/,48.6350951,-1.5110039
+6758018067,node,Les Terrasses Poulard,hotel,Mont Saint-Michel,,,,48.6352034,-1.5103857
+7595592185,node,Les Terrasses de la Baie,restaurant,Mont Saint-Michel,,,,48.6361964,-1.5097398
+11139319645,node,Hôtel L'Auberge Saint-Pierre,hotel,Mont Saint-Michel,,,,48.6353774,-1.509986
+12512128308,node,Le logis Sainte-Catherine,restaurant,Mont Saint-Michel,"6 Ruelle Sainte Catherine, 50170, Le Mont-Saint-Michel",50170,https://lelogissaintecatherine.com/,48.6355783,-1.5110651

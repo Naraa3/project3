@@ -1,0 +1,994 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+192308589,node,Hôtel Les Goëlands,hotel,Bayonne,"6 Avenue d'Etcheverry, 64500, Saint-Jean-de-Luz",64500,https://www.hotel-lesgoelands.com/,43.393763,-1.6571091
+443346049,node,Brindos Lac & Château,hotel,Bayonne,,,,43.4626705,-1.5298653
+443346050,node,Brindos Lac & Château,restaurant,Bayonne,,,,43.4627161,-1.5297146
+472940830,node,Ibis Styles,hotel,Bayonne,,,,43.4954048,-1.4709077
+472940837,node,Le Victor Hugo,restaurant,Bayonne,,,,43.4919902,-1.4744534
+480412050,node,Sources de la Nive,hotel,Bayonne,,,,43.0682727,-1.1948301
+546874398,node,Santiago,hotel,Bayonne,,,,43.3515149,-1.7780325
+546874402,node,La Palombe bleue,hotel,Bayonne,"64700, Hendaye",64700,,43.3526375,-1.7812933
+570750993,node,Hôtel Loreak,hotel,Bayonne,,,,43.493542,-1.4524777
+570750996,node,Campanile,hotel,Bayonne,,,,43.4911618,-1.4547424
+588403582,node,Chalet Pédro,chalet,Bayonne,64220,64220,https://www.chaletpedro.com/,43.0367977,-1.0747258
+597620979,node,La pizza de Nico,restaurant,Bayonne,"5 Rue Pannecau, 64100, Bayonne",64100,https://lapizzadenico.com/restaurant/la-pizza-de-nico-bayonne/,43.4898328,-1.473812
+597622049,node,Le Bistrot Itsaski,restaurant,Bayonne,,,,43.4893146,-1.4751158
+597622054,node,Le bistro' Quai,restaurant,Bayonne,,,,43.4888883,-1.4751965
+631661851,node,Le Bayonnais,restaurant,Bayonne,,,,43.4912519,-1.4737848
+775835142,node,Aguerria,hotel,Bayonne,,,,43.3074995,-1.2443381
+777303802,node,Txistulari,hotel,Bayonne,"Route d'Errobi, Itxassou",,,43.3292622,-1.3970025
+777319092,node,Ostape,hotel,Bayonne,,,,43.2894846,-1.3618892
+854903782,node,Première classe,hotel,Bayonne,,,,43.4663954,-1.5405777
+974349800,node,Etchebarne,restaurant,Bayonne,,,,43.3405512,-1.2988171
+979083785,node,Le Trinquet Moderne,restaurant,Bayonne,,,,43.4912892,-1.4870815
+1125914341,node,Batxuri,restaurant,Bayonne,"48 Erromardie Plage, 64500, Saint-Jean-de-Luz",64500,,43.4064987,-1.641418
+1236244933,node,A La Bolée,restaurant,Bayonne,,,https://alabolee.com/,43.4908767,-1.4771316
+1308710586,node,Euskalduna,hotel,Bayonne,,,,43.2336654,-1.3044796
+1308715282,node,Mende Aldi,hotel,Bayonne,Route du Bourg,,https://www.hotel-mendi-alde.com/hotel/,43.2418337,-1.2849783
+1313039204,node,Les Collines Iduki,hotel,Bayonne,"Route de la Côte, 64240, La Bastide-Clairence",64240,https://www.location-vacances-paysbasque.com/,43.433592,-1.2575581
+1323280676,node,Le Kayolar,restaurant,Bayonne,"Iraty Sorho, 64220, Mendive",64220,,43.044408,-1.0738893
+1323280677,node,Ferme Auberge Ibarnia,hotel,Bayonne,,,https://www.facebook.com/fermeibarnia,43.135177,-1.1443659
+1331514443,node,Goxoki,hotel,Bayonne,,,,43.3449102,-1.1959269
+1345788440,node,Hôtel Résidence Anglet Biarritz-Parme,hotel,Bayonne,,,,43.4764468,-1.5046981
+1361379420,node,Café du Commerce,restaurant,Bayonne,"1 Rue des Halles, 64200, Biarritz",64200,https://www.cafeducommerce-biarritz.com/,43.4813993,-1.5629494
+1361412604,node,Hôtel Cosmopolitain,hotel,Bayonne,1 Rue Gambetta,,https://hotelcosmopolitain.com/,43.4820414,-1.5618977
+1361442955,node,Hôtel Mercure Le Président,hotel,Bayonne,,,,43.4818119,-1.559779
+1361463830,node,Brasserie Gardères,restaurant,Bayonne,,,,43.4825627,-1.559212
+1361467438,node,Comptoir Umami,restaurant,Bayonne,"Avenue Joseph Petit, 64200, Biarritz",64200,,43.4828229,-1.5581029
+1361473274,node,Le Pim'Pi,restaurant,Bayonne,,,,43.4817484,-1.557053
+1362429263,node,Elissaldia,restaurant,Bayonne,"Place Sauveur Atchoarena, 64210, Bidart",64210,https://www.hotel-elissaldia.com/,43.4388756,-1.5901267
+1362558463,node,Hôtel Best Western Kemaris,hotel,Bayonne,,,,43.4765176,-1.5624959
+1362597014,node,Bar restaurant Bistrot zingué,restaurant,Bayonne,"5 Avenue de la Gare, 64200",64200,,43.4781112,-1.5571093
+1362597015,node,La bonne franquette,restaurant,Bayonne,,,,43.4780809,-1.5567602
+1362597016,node,Los tacos chingones,restaurant,Bayonne,,,,43.4781628,-1.5568088
+1362597018,node,Le TajMahal,restaurant,Bayonne,,,,43.478011,-1.5567337
+1362718060,node,Le Crabe Tambour,restaurant,Bayonne,,,,43.4746072,-1.5636616
+1362718063,node,Chez Bibi,restaurant,Bayonne,,,,43.4745254,-1.5638654
+1362724090,node,Tantina de Burgos,restaurant,Bayonne,"2 Place Beaurivage, 64200",64200,,43.4728777,-1.5667815
+1363034906,node,Grand Tonic Hôtel,hotel,Bayonne,"58 Avenue Édouard VII, 64200, Biarritz",64200,,43.4845262,-1.5568936
+1363042051,node,Hostellerie Victoria,hotel,Bayonne,,,,43.4849856,-1.5544232
+1363045787,node,Xuxu,restaurant,Bayonne,"8bis, 64200",64200,,43.4844249,-1.5483352
+1363396195,node,Chez nous,restaurant,Bayonne,,,,43.4811633,-1.5337561
+1363396198,node,Saint-Georges,restaurant,Bayonne,,,,43.4811887,-1.5335874
+1401399263,node,Manechenea,restaurant,Bayonne,,,https://www.manexenea.com/fr/,43.2063761,-1.3362069
+1401842809,node,Café Garra,restaurant,Bayonne,,,https://app.aji-code.com/place/257910?slugged=1,43.3848979,-1.6673185
+1415224366,node,Le Royalty,restaurant,Bayonne,,,,43.4823514,-1.5607501
+1446894614,node,Bao Ttiki,restaurant,Bayonne,"14 Rue des Eucalyptus, 64700",64700,https://baottiki.com/,43.3724045,-1.7756663
+1446894616,node,Café des Délices,restaurant,Bayonne,,,,43.3723048,-1.7756814
+1464304895,node,Octopus,restaurant,Bayonne,"2 Rue Gardères, 64200, Biarritz",64200,https://octopus-biarritz.com/,43.4829443,-1.559571
+1635640446,node,Hôtel Eddouard VII,hotel,Bayonne,,,https://www.hotel-edouardvii.com,43.479262,-1.5623341
+1635645886,node,Hôtel le Biarritz,hotel,Bayonne,,,https://www.hotel-le-biarritz.com/,43.4693977,-1.5692582
+1635645906,node,Le Ponton,restaurant,Bayonne,,,,43.469223,-1.5693349
+1635658630,node,Chez Txotx,restaurant,Bayonne,,,,43.4894443,-1.475095
+1713192348,node,La Chaloupe,restaurant,Bayonne,,,,43.5207497,-1.5255105
+1721106892,node,Restaurant du Moulin de Bassilour,restaurant,Bayonne,,,,43.4328445,-1.5640809
+1788684272,node,Jungle Café,restaurant,Bayonne,,,,43.4838203,-1.5067538
+1791437915,node,Sukaldea,restaurant,Bayonne,,,,43.3479927,-1.7707485
+1791445513,node,Favela hendaye,restaurant,Bayonne,"11 Place de la République, 64700",64700,https://www.favela-hendaye.com/,43.3581417,-1.7746215
+1791451560,node,Bellevue,hotel,Bayonne,,,,43.3683165,-1.7705008
+1828784581,node,Taloka,restaurant,Bayonne,,,,43.4902121,-1.475131
+1837356881,node,Ohartzia,hotel,Bayonne,"28 Rue Garat, 64500, Saint-Jean-de-Luz",64500,https://www.hotel-ohartzia.com/,43.389341,-1.6625986
+1837356897,node,La Diva,restaurant,Bayonne,"7 Rue de la République, 64500, Saint-Jean-de-Luz",64500,http://www.restaurantladiva.com/,43.3882183,-1.6642909
+1837359135,node,Txalupa,restaurant,Bayonne,,,,43.3873601,-1.6640029
+1853410664,node,La cabane à pizzas,restaurant,Bayonne,64990,64990,,43.4699856,-1.4258639
+1895020129,node,Le Bon coin,hotel,Bayonne,,,,43.4822188,-1.5543702
+1895026557,node,Hôtel Oxo,hotel,Bayonne,,,,43.4817128,-1.5546169
+1895026566,node,Le café des artistes,restaurant,Bayonne,26 Avenue du Maréchal Foch,,https://www.cafedesartistesbiarritz.com/,43.480017,-1.5587227
+1895027968,node,Jules Verne,hotel,Bayonne,,,,43.4785287,-1.555486
+1919138021,node,Hôtel du Fronton,hotel,Bayonne,,,,43.3374825,-1.2063447
+1947441115,node,Restaurant Malgorenia,restaurant,Bayonne,,,,43.2823056,-1.1810558
+2023244877,node,Bistrot Régent,restaurant,Bayonne,"272 Avenue du Plateau, 64210, Bidart",64210,,43.4452812,-1.5831406
+2246263450,node,Hôtel Chantaco Golf et Wellness,hotel,Bayonne,"Route d'Ascain, 64500, Saint-Jean-de-Luz",64500,https://www.lechantaco.com/,43.3810847,-1.6404397
+2344621543,node,Anaiak,restaurant,Bayonne,,,,43.3561831,-1.5507322
+2353422678,node,"Etxola, Chalet de Cize",restaurant,Bayonne,,,https://www.facebook.com/etxola.irati.9,43.0485334,-1.0731075
+2425157642,node,Casa Juan Pedro,restaurant,Bayonne,,,http://casajuanpedro.com/,43.4830524,-1.565791
+2425157673,node,Chez Albert,restaurant,Bayonne,"51 Allée Port des Pêcheurs, 64200",64200,,43.4831011,-1.5653029
+2425157710,node,Le Corsaire,restaurant,Bayonne,,,,43.4831284,-1.5655281
+2425164179,node,Ventilo Café - Restaurant & Bar,restaurant,Bayonne,"30 Rue Mazagran, 64200",64200,,43.4819511,-1.5648177
+2425164191,node,Crêperie,restaurant,Bayonne,,,,43.4819277,-1.5646773
+2426458192,node,Hôtel Parc Mazon,hotel,Bayonne,,,,43.4777538,-1.5622065
+2426579863,node,Les Terrasses,restaurant,Bayonne,,,,43.478538,-1.564523
+2429836014,node,Nuance,restaurant,Bayonne,,,https://www.restaurantnuance.com/,43.4892942,-1.4732498
+2431603578,node,Maison Plaisir,restaurant,Bayonne,,,,43.4814856,-1.5585135
+2432919072,node,Chez Scott,restaurant,Bayonne,,,,43.4810214,-1.5582216
+2432919077,node,Chez Pilou,restaurant,Bayonne,,,,43.4816765,-1.5580367
+2432919086,node,Hôtel Villa Koegui,hotel,Bayonne,,,,43.4807408,-1.5580851
+2432919091,node,Hôtel Alcyon,hotel,Bayonne,,,,43.481241,-1.5575206
+2432919097,node,La Goulue,restaurant,Bayonne,"3 Rue Étienne Ardoin, 64200",64200,http://www.lagouluebiarritz.com/,43.4805829,-1.5583178
+2432919103,node,Sillon,restaurant,Bayonne,,,,43.4810103,-1.5584573
+2432927642,node,Helbidea - Bistrot locavore,restaurant,Bayonne,,,,43.4818909,-1.5571667
+2433987631,node,Bar Jean,restaurant,Bayonne,"5 Rue des Halles, 64200",64200,https://barjean-biarritz.fr/,43.4812782,-1.5625382
+2433987632,node,Chistera & Coquillages,restaurant,Bayonne,"13 13 Rue des Halles, 64200, Biarritz",64200,https://chisteraetcoquillages.fr/,43.4811368,-1.5618861
+2435452685,node,Bistrot des Halles,restaurant,Bayonne,,,,43.4807533,-1.5624008
+2437908663,node,Au Bouchon Basque,restaurant,Bayonne,,,,43.4858999,-1.4765465
+2437908666,node,B.O.U.L.O.M,restaurant,Bayonne,,,,43.4866073,-1.475862
+2437908667,node,Brasserie de la Nive,restaurant,Bayonne,,,,43.485552,-1.4754627
+2443499141,node,Cantina Biarritz Bodega Restaurant de Nuit,restaurant,Bayonne,,,,43.4788892,-1.5622154
+2443576986,node,Hôtel Saint-Julien,hotel,Bayonne,,,https://saint-julien-biarritz.com/,43.4790298,-1.5625226
+2503124135,node,Le Pottok,restaurant,Bayonne,,,,43.1906934,-1.165406
+2510905348,node,Hôtel-restaurant Le Midi,hotel,Bayonne,"11 Place du Foirail, 64120, Saint-Palais",64120,http://www.hoteldumidi64.fr,43.328322,-1.0349639
+2542281304,node,Aguerria,restaurant,Bayonne,,,,43.3727183,-1.7476082
+2590751455,node,Hôtel Côte Basque,hotel,Bayonne,,,https://www.hotel-cotebasque.fr/,43.4961653,-1.4695787
+2601389048,node,Le Chaudron,restaurant,Bayonne,,,,43.5267223,-1.5216815
+2601389063,node,Tinta Beltza,restaurant,Bayonne,,,,43.5269238,-1.5226999
+2702756266,node,Le Bistrot gourmet,restaurant,Bayonne,"18 Rue de la Bergerie, 64200, Biarritz",64200,https://le-bistrot-gourmet.com/,43.4860631,-1.5509466
+2702756268,node,L'Impertinent,restaurant,Bayonne,"5 Rue d'Alsace, 64200, Biarritz",64200,https://www.l-impertinent.fr/,43.486443,-1.5504442
+2749274320,node,Chez Margot,restaurant,Bayonne,"Avenue du Commandant Passicot, 64500, Ciboure",64500,,43.3935226,-1.6851538
+2796127025,node,L.M.B,restaurant,Bayonne,"58 Avenue Édouard VII, 64200, Biarritz",64200,,43.484464,-1.5568829
+2796181655,node,La Table Basque,restaurant,Bayonne,,,https://www.restaurant-ltb-biarritz.com/,43.4840173,-1.5569158
+2796181656,node,La Crêpe Dentelle,restaurant,Bayonne,,,,43.4840241,-1.5568568
+2796181657,node,Le Bistrot 2 Génie,restaurant,Bayonne,,,,43.4840309,-1.5566502
+2798505757,node,Windsor,hotel,Bayonne,"11 Avenue Édouard VII, 64200, Biarritz",64200,,43.4838927,-1.5584457
+2798505764,node,Happy Days Diner,restaurant,Bayonne,"46 Avenue Édouard VII, 64200, Biarritz",64200,,43.4838587,-1.5580141
+2798505765,node,Le Bellevue,hotel,Bayonne,"5 Avenue Édouard VII, 64200, Biarritz",64200,,43.4835772,-1.5588359
+2799172201,node,La Trattoria,restaurant,Bayonne,"20 Avenue Édouard VII, 64200, Biarritz",64200,,43.4834852,-1.5584406
+2979278619,node,Hôtel de la Paix,hotel,Bayonne,"33 Rue du Jeu de Paume, 64120, Saint-Palais",64120,https://www.hotellapaix.com/,43.3279192,-1.0348177
+2979278620,node,Restaurant Le Midi,restaurant,Bayonne,"Place du Foirail, 64120, Saint-Palais",64120,http://www.hoteldumidi64.fr/,43.3283016,-1.0349959
+2979278623,node,Bar Brasserie au Comptoir,restaurant,Bayonne,"Avenue de Garris, 64120, Saint-Palais",64120,,43.3289378,-1.0349653
+2984742240,node,Itxasoa,restaurant,Bayonne,,,,43.520642,-1.5253713
+2995411171,node,Saint Sylvestre,restaurant,Bayonne,"Iruñeko errepidea, 64430, Les Aldudes",64430,https://www.stsylvestre-paysbasque.com/,43.0825144,-1.4353688
+2995411172,node,Ostatua Menta,restaurant,Bayonne,"Esnazu, 64430, Les Aldudes",64430,https://www.ferme-auberge-menta.com/,43.0804476,-1.4403229
+3014055033,node,Arraya,restaurant,Bayonne,"Plaza, Sare",,https://www.arraya.com/,43.3124881,-1.5801345
+3014055036,node,Mimosa,restaurant,Bayonne,,,,43.3125674,-1.5804236
+3036956666,node,Getaria,restaurant,Bayonne,"Avenue du Général de Gaulle, 64210, Guéthary",64210,https://getaria.fr/,43.4233388,-1.6086969
+3172043288,node,L'Hirondelle,restaurant,Bayonne,"3 Rue du 17 Pluviôse, 64500, Saint-Jean-de-Luz",64500,,43.3875225,-1.6624436
+3228598323,node,Mahaina,restaurant,Bayonne,"5 Rue de la Madeleine, 64210, Bidart",64210,https://www.restaurantmahaina-bidart.fr,43.439484,-1.590674
+3351832510,node,Café Ttipia,restaurant,Bayonne,"2 Place Floquet, 64220, Saint-Jean-Pied-de-Port",64220,https://www.cafettipia.com/,43.1622966,-1.2386387
+3351941947,node,Café de la Paix,restaurant,Bayonne,"4 Place Floquet, 64220, Saint-Jean-Pied-de-Port",64220,https://cafedelapaix-saintjean.com/,43.1621127,-1.2388935
+3370085839,node,Clementenia,hotel,Bayonne,"le bourg D933, 64220, Arnéguy",64220,,43.1103937,-1.2799494
+3398123563,node,Hôtel des Pyrénées,hotel,Bayonne,"19 Place Charles de Gaulle, 64220, Saint-Jean-Pied-de-Port",64220,,43.1633925,-1.2377477
+3398130453,node,Amatto,restaurant,Bayonne,,,,43.1628032,-1.2376849
+3409041798,node,Noblia,hotel,Bayonne,"64780, Bidarray",64780,https://www.hotel-basque-noblia.com/,43.268301,-1.345025
+3483565294,node,B&B Hôtel,hotel,Bayonne,29 Rue Melville-Lynch,,https://www.hotel-bb.com/fr/-/hotelByName.htm?id=4120,43.464512,-1.4960013
+3496512536,node,Le Gantxo,restaurant,Bayonne,,,https://www.restaurant-le-gantxo.fr/,43.5212466,-1.1975099
+3519438120,node,Chez Pablo,restaurant,Bayonne,"5 Rue Mademoiselle Etcheto, 64500, Saint-Jean-de-Luz",64500,https://www.restaurant-chez-pablo.com/,43.3870528,-1.6601335
+3519843474,node,Chez Michel,restaurant,Bayonne,"65 Rue Saint-Jacques, 64500, Saint-Jean-de-Luz",64500,,43.390548,-1.6586802
+3520000994,node,Ilura,hotel,Bayonne,"1 Avenue Gaëtan de Bernoville, Saint-Jean-de-Luz",,https://www.hotel-lareserve.com/,43.401725,-1.6596468
+3520002689,node,L'Océan,hotel,Bayonne,,,https://luzgrandhotel.fr/,43.3926219,-1.6598101
+3520002692,node,Erroa,restaurant,Bayonne,"32 Boulevard Adolphe Thiers, 64500, Saint-Jean-de-Luz",64500,https://www.restaurant-erroa.fr/,43.3916892,-1.6592781
+3520009463,node,Le Bistrot Luzien,restaurant,Bayonne,"23 Boulevard Adolphe Thiers, 64500, Saint-Jean-de-Luz",64500,https://www.bistrotluzien.fr/,43.3904206,-1.6593996
+3520009464,node,Le Madison,restaurant,Bayonne,"25 Boulevard Adolphe Thiers, 64500, Saint-Jean-de-Luz",64500,https://www.madison-saintjeandeluz.com/fr/restauration/brasserie-du-madison/,43.390652,-1.659291
+3520039777,node,Tokiko,restaurant,Bayonne,"45 Chemin de Chibau, 64500, Saint-Jean-de-Luz",64500,https://www.tokiko-restaurant.fr/,43.4069069,-1.6279656
+3520039779,node,Le komptoir des amis,restaurant,Bayonne,"7, 64500, Saint-Jean-de-Luz",64500,https://www.lekomptoirdesamis.com,43.38647,-1.6603584
+3520048489,node,Pizza Donna,restaurant,Bayonne,"4 Rue Philippe Veyrin, 64500, Saint-Jean-de-Luz",64500,,43.3860489,-1.6559084
+3520072367,node,L'Odyssée,restaurant,Bayonne,,,https://www.restaurant-odyssee-64.com/,43.3675234,-1.7710757
+3520072368,node,Le Resto de l'Océan,restaurant,Bayonne,,,http://www.resto-de-locean.fr,43.3754285,-1.7625755
+3520080414,node,Briketenia,hotel,Bayonne,"Rue de l'Église, 64210, Guéthary",64210,https://www.briketenia.com,43.4195656,-1.6060988
+3520082111,node,Le O2 Verdun,restaurant,Bayonne,,,,43.4818866,-1.5541852
+3578539814,node,Novotel Biarritz Anglet Aéroport,hotel,Bayonne,68 Avenue d'Espagne,,,43.4772562,-1.5259879
+3578541697,node,Ibis Budget 'Biarritz Anglet',hotel,Bayonne,68 Avenue d'Espagne,,,43.4768098,-1.5269527
+3578548917,node,Ibis 'Biarritz Anglet Aéroport',hotel,Bayonne,64 Avenue d'Espagne,,https://all.accor.com/ssr/app/ibis/rates/0822/index.fr.shtml,43.4777645,-1.5249176
+3629839440,node,Les Trois Fontaines,restaurant,Bayonne,Sare,,,43.3256914,-1.6029497
+3697213253,node,Ziripot,restaurant,Bayonne,1 Place du Trinquet,,,43.1638789,-1.2370106
+3703207825,node,Le Galion,restaurant,Bayonne,,,,43.4840944,-1.5583338
+3731890887,node,Pizzeria Le Capri,restaurant,Bayonne,,,https://www.lecapribiarritz.fr/,43.4826119,-1.5636938
+3733294117,node,Tajinier,restaurant,Bayonne,"2 Rue des Pontots, Anglet",,,43.4936991,-1.4964012
+3736442506,node,Saint-Pierre,restaurant,Bayonne,,,,43.2821058,-1.4272886
+3737600279,node,Hiriburu,restaurant,Bayonne,"27 Avenue de la Basse Navarre, Saint-Pierre-d'Irube",,,43.473593,-1.451735
+3739322573,node,Manava,restaurant,Bayonne,,,,43.5004749,-1.5423342
+3800054392,node,La Gaita,restaurant,Bayonne,,,https://www.baigura.com/la-gaita,43.3101042,-1.2828188
+3871575562,node,Bidaian,restaurant,Bayonne,,,,43.4948181,-1.4678735
+3871575569,node,Matsya Hostel,hotel,Bayonne,,,https://matsyahostel.com/,43.5107324,-1.5001873
+3871575570,node,Bistrot Fine,restaurant,Bayonne,,,https://hotelrestaurantfine.com/,43.5038025,-1.5037841
+3871575571,node,Chez Georges,restaurant,Bayonne,,,,43.4930033,-1.488063
+3871575573,node,Bistro A,restaurant,Bayonne,,,,43.4985111,-1.4879926
+3871575582,node,I. D. Halles,restaurant,Bayonne,,,,43.5210154,-1.5011417
+3871575583,node,Ibis Bayonne Centre,hotel,Bayonne,,,http://www.ibishotel.com,43.4926392,-1.465716
+3871575585,node,Mômes,restaurant,Bayonne,,,,43.4956363,-1.5297084
+3871575586,node,L'Endroit,restaurant,Bayonne,,,,43.4957459,-1.4964455
+3871575589,node,La Cita,restaurant,Bayonne,,,,43.5213439,-1.5242408
+3871575591,node,La Fleur de Sel,restaurant,Bayonne,,,,43.5083402,-1.5230624
+3871575593,node,Le petit bistrot,restaurant,Bayonne,,,,43.492531,-1.4650124
+3871575597,node,Le Cèdre du Liban,restaurant,Bayonne,,,https://www.facebook.com/Le-C%C3%A8dre-du-Liban-170995299647367/,43.4873726,-1.5372114
+3871575599,node,Le Gulf Stream,restaurant,Bayonne,,,,43.5212566,-1.5238798
+3871575601,node,Sc Pizza,restaurant,Bayonne,,,,43.5053165,-1.496127
+3871575603,node,Leonie,restaurant,Bayonne,,,http://www.restaurant-leonie.com,43.4828825,-1.5442289
+3871575604,node,Les Bahines,restaurant,Bayonne,,,,43.5213131,-1.5240709
+3871575606,node,Les Pins,restaurant,Bayonne,,,,43.5198256,-1.5016581
+3871575607,node,Les Tam Long,restaurant,Bayonne,,,,43.4888215,-1.4661075
+3871575609,node,Chez Denise,restaurant,Bayonne,,,,43.4983199,-1.5438755
+3871575612,node,Novotel Café,restaurant,Bayonne,,,http://www.novotel.biarritz.anglet.aeroport.com,43.477153,-1.5262789
+3871575648,node,Orange et Chocolat,restaurant,Bayonne,,,https://www.creperie-anglet.com/,43.5011562,-1.5394958
+3871575858,node,Villa Roma,restaurant,Bayonne,,,,43.5243491,-1.5068798
+3871575859,node,West Side,restaurant,Bayonne,,,http://www.westside64.com,43.5242499,-1.5041536
+3871575860,node,Wok64,restaurant,Bayonne,,,,43.4851654,-1.4727877
+3871575923,node,Le Bistrot Urbain,restaurant,Bayonne,,,,43.4934128,-1.4681529
+3891040374,node,La Socket,restaurant,Bayonne,"Avenue du Château, 64210, Bidart",64210,,43.4576114,-1.5766911
+3982558300,node,Bar Restaurant de L'Arradoy,restaurant,Bayonne,"Bourg, 64220, Ispoure",64220,,43.1713046,-1.2353641
+4001052363,node,Auberge Koxeinea,restaurant,Bayonne,"64430, urepel",64430,,43.0660568,-1.4117848
+4001053079,node,Auberge Lafitte,restaurant,Bayonne,"64430, Urepel",64430,,43.064269,-1.4094825
+4054831705,node,Restaurant Universitaire de la Nive,restaurant,Bayonne,,,,43.4909055,-1.4700197
+4075590120,node,Restaurant Pizzeria Maxime,restaurant,Bayonne,,,,43.3582755,-1.7749118
+4075590122,node,Ttiki Baci,restaurant,Bayonne,Place de la République,,,43.3582345,-1.7749227
+4075650878,node,Casa Jose,restaurant,Bayonne,"Rue du Général de Gaulle, 64700, Hendaye",64700,,43.3529049,-1.7812379
+4076986672,node,Le Comptoir des Allées,restaurant,Bayonne,,,,43.3567628,-1.7744418
+4119124861,node,Le Perroquet,restaurant,Bayonne,,,,43.4937792,-1.4770129
+4139038384,node,Saint-Sylvestre,hotel,Bayonne,"64430, Les Aldudes",64430,,43.0824275,-1.4353424
+4147089391,node,Hôtel Les Alizes,hotel,Bayonne,13 Rue du Port-Vieux,,,43.4820713,-1.5662305
+4158994289,node,Jimba,restaurant,Bayonne,"Quai de la Floride, 64700, Hendaye",64700,,43.3676721,-1.7814746
+4163587733,node,Auberge Etxeko Borda,restaurant,Bayonne,"64780, Ossès",64780,,43.2246594,-1.2657176
+4171759116,node,L'Apostrophe,restaurant,Bayonne,"11 Rue de l'Église, 64700, Hendaye",64700,https://www.apostrophe-hendaye.com/,43.3585803,-1.7741883
+4171969646,node,Gogoko,restaurant,Bayonne,"Boulevard du Général Leclerc, 64700, Hendaye",64700,,43.37102,-1.7728583
+4182937196,node,Hôtel Bar de la Gare,hotel,Bayonne,"64700, Hendaye",64700,,43.3523352,-1.7813568
+4208091189,node,Andrew's Healthy Eating,restaurant,Bayonne,"737 Broadway, 07002, Bayonne",07002,http://www.andrewshealthyfoods.com/,40.6724093,-74.1112876
+4248223404,node,Arraina,restaurant,Bayonne,"39 Avenue du Commandant Passicot, 64500, Ciboure",64500,,43.3934197,-1.6851894
+4248223405,node,Pantxua,restaurant,Bayonne,"37 Avenue du Commandant Passicot, 64500, Ciboure",64500,,43.3933335,-1.685223
+4248223406,node,La Cueva du Fort,restaurant,Bayonne,"29 Avenue du Commandant Passicot, 64500, Ciboure",64500,,43.3931236,-1.6852513
+4298743995,node,Lieu des Pêcheurs,restaurant,Bayonne,,,http://lelieuanglet.fr/,43.499159,-1.5434304
+4303093600,node,Aintzina,restaurant,Bayonne,"4440 Karrika Nagusia, 64250, Espelette",64250,https://www.pagesjaunes.fr/pros/51650400,43.3410424,-1.4490192
+4305923514,node,Ibaina,restaurant,Bayonne,,,,43.4949474,-1.5136816
+4308055395,node,Arosta,restaurant,Bayonne,52 Avenue Alan Seeger,,,43.4494188,-1.5449932
+4308887902,node,Juantorena,restaurant,Bayonne,"64430, Saint-Étienne-de-Baigorry",64430,https://hotelrestaurantjuantorena.fr/,43.1742022,-1.3485105
+4319202491,node,Sushiwave,restaurant,Bayonne,,,,43.4863508,-1.5500134
+4319290089,node,,restaurant,Bayonne,,,,43.4868258,-1.5502478
+4330743199,node,La Petite Plage,restaurant,Bayonne,,,,43.4783499,-1.5645523
+4330743200,node,Arena Biarritz,restaurant,Bayonne,,,,43.4823534,-1.5671689
+4332387018,node,Juantorena,hotel,Bayonne,"Route de Banca, 64430, Saint-Étienne-de-Baigorry",64430,https://hotelrestaurantjuantorena.fr/,43.1741914,-1.348556
+4333899383,node,Auberge Etchoinia,hotel,Bayonne,"64220, Lasse",64220,https://www.auberge-etchoinia-pays-basque.com/,43.156951,-1.2601619
+4338054711,node,Le Cancre,restaurant,Bayonne,,,,43.4889431,-1.4735984
+4341010376,node,Briseteia,restaurant,Bayonne,"Bourg, 64120, Saint-Just-Ibarre",64120,http://www.briseteia.com,43.1937452,-1.0561897
+4341018400,node,Hôtel Mendy,hotel,Bayonne,"64220, Saint-Jean-le-Vieux",64220,https://www.hotel-mendy.com/,43.1653112,-1.193685
+4358109001,node,Memphis Coffee,restaurant,Bayonne,"8 bis Chemin de Hayet, 64100, Bayonne",64100,http://www.memphis-coffee.com,43.4914653,-1.4514676
+4363581389,node,Pottoka,restaurant,Bayonne,"5 Place du Jeu de Paume, 64250, Espelette",64250,,43.3411925,-1.449774
+4366416091,node,Le Chistera,restaurant,Bayonne,,,,43.4918162,-1.4763416
+4366486389,node,Les Arcades,restaurant,Bayonne,,,,43.4918977,-1.4762523
+4366487392,node,Bouillon Armand,restaurant,Bayonne,,,https://www.bouillonarmand.com/,43.4925497,-1.4763789
+4387368412,node,Ibis Ciboure Saint-Jean-de-Luz,hotel,Bayonne,"13 Rue Georges Olascuaga, Ciboure",,,43.3835912,-1.6652322
+4387368460,node,Maitenia,restaurant,Bayonne,"8 Place du Fronton, 64500, Ciboure",64500,https://lephemere-ciboure.fr/,43.3840143,-1.668108
+4402585103,node,Bahia Beach,restaurant,Bayonne,"Chemin Borognenia Ko Bidea, 64210, Bidart",64210,,43.4279019,-1.6067018
+4428729389,node,Le Poinçon,restaurant,Bayonne,"Rue du Comte G. de Swiecinski, 64210, Guéthary",64210,,43.4252164,-1.6102018
+4442609251,node,Txinako,restaurant,Bayonne,"4 Rue des Mésanges, 64200, Biarritz",64200,,43.4624768,-1.5392862
+4446544978,node,Snoopduck,restaurant,Bayonne,,,,43.4511544,-1.557443
+4448899184,node,Les Patios d'Eugénie,hotel,Bayonne,32 Avenue de la Reine Victoria,,,43.4851452,-1.5521364
+4465183876,node,Haize Hegoa,restaurant,Bayonne,,,,43.3326123,-1.4105775
+4485480133,node,Le Restaurant du café de la plage,restaurant,Bayonne,,,,43.3902931,-1.6859822
+4485480135,node,,restaurant,Bayonne,,,,43.3941444,-1.6850874
+4485480138,node,Le SocoWa,restaurant,Bayonne,"45 Avenue du Commandant Passicot, 64500, Ciboure",64500,,43.3944991,-1.6847501
+4485480139,node,Pizza Arteka,restaurant,Bayonne,,,,43.3911037,-1.6858984
+4485480140,node,Bistrot le Jeu de Paume,restaurant,Bayonne,"11 Avenue du Commandant Passicot, 64500, Ciboure",64500,,43.3908983,-1.6857053
+4485480141,node,Snack du Fort,restaurant,Bayonne,"45 Avenue du Commandant Passicot, 64500, Ciboure",64500,,43.3942182,-1.6850166
+4485486388,node,Capybara,restaurant,Bayonne,"Rue de l'Uhabia, 64210, Bidart",64210,https://www.capybara-bidart.com/,43.4331077,-1.5968118
+4485488189,node,La Cucaracha,restaurant,Bayonne,"Rue de l'Uhabia, 64210, Bidart",64210,,43.4328278,-1.5965531
+4485488192,node,Anaia,restaurant,Bayonne,"9 Rue de la Plage, 64210, Bidart",64210,https://restaurant-anaia.com/,43.4364071,-1.5964021
+4485488193,node,Tantina de la Playa,restaurant,Bayonne,"Plage du Centre, 64210, Bidart",64210,https://tantinadelaplaya.com/,43.4365228,-1.5963078
+4487412244,node,Itsas Zaldi,restaurant,Bayonne,9 Rue des Figuiers,,,43.3719697,-1.774757
+4487412245,node,Trattoria della Nonna,restaurant,Bayonne,,,,43.3720778,-1.7747731
+4487412246,node,Hell's Burger,restaurant,Bayonne,,,,43.3719668,-1.7744656
+4494189491,node,Zapi: La Trattoria des Bons Amis,restaurant,Bayonne,,,https://zapi-traiteur.fr,43.4812384,-1.4885004
+4497534389,node,Le P'tit Bistrot,restaurant,Bayonne,"Route Départementale 22, 64780, Suhescun",64780,,43.2305615,-1.2021372
+4499277681,node,Jarapea,restaurant,Bayonne,"94 Rue du Fronton, 64220, Irouléguy",64220,https://jarapea-restaurant.eatbu.com,43.177055,-1.299682
+4506510047,node,Hôtel des Basses Pyrénées,hotel,Bayonne,,,,43.4884451,-1.4771152
+4507848851,node,Central Hotel,hotel,Bayonne,1 Place Charles de Gaulle,,https://centralhotel64.com/,43.1627901,-1.2383413
+4578333389,node,Le Comptoir du Foie Gras,restaurant,Bayonne,,,,43.4808691,-1.5624686
+4579719491,node,Cosy West,restaurant,Bayonne,"19 Rue Loquin, 64500, Saint-Jean-de-Luz",64500,,43.3904316,-1.6601431
+4579720591,node,Le Prado,restaurant,Bayonne,"Promenade Jacques Thibaud, 64500, Saint-Jean-de-Luz",64500,,43.3918528,-1.6604879
+4579749897,node,Xaya La cave à manger,restaurant,Bayonne,"3 Rue Saint-Jean, 64500, Saint-Jean-de-Luz",64500,https://xaya.fr/,43.3875369,-1.6627169
+4579749900,node,Kaïku,restaurant,Bayonne,"17 Rue de la République, 64500, Saint-Jean-de-Luz",64500,https://www.kaiku.fr/,43.3885808,-1.6644333
+4579753396,node,Le Suisse,restaurant,Bayonne,"Place des Corsaires, 64500, Saint-Jean-de-Luz",64500,,43.3875621,-1.6638297
+4579762894,node,Le Sud,restaurant,Bayonne,"20 Promenade Jacques Thibaud, 64500, Saint-Jean-de-Luz",64500,,43.3910984,-1.661542
+4579763094,node,Crèperie Ilunabarra,restaurant,Bayonne,"9 Promenade Jacques Thibaud, 64500, Saint-Jean-de-Luz",64500,,43.3915323,-1.6611779
+4579763095,node,Toki Goxoa,restaurant,Bayonne,"7 Promenade Jacques Thibaud, 64500, Saint-Jean-de-Luz",64500,http://www.tokigoxoa.fr/,43.3915982,-1.6610633
+4579785292,node,L'Artha,restaurant,Bayonne,"28 Rue de la République, 64500, Saint-Jean-de-Luz",64500,,43.3887834,-1.6643649
+4615781026,node,Restaurant Andreinia,restaurant,Bayonne,"64220, Estérençuby",64220,https://www.hotel-andreinia.com/,43.1036244,-1.1964673
+4641765006,node,Atelier Mala,restaurant,Bayonne,,,,43.489143,-1.4775121
+4641773304,node,Restaurant Dacquois,restaurant,Bayonne,,,,43.4894797,-1.4770485
+4641984090,node,La Cave des Gouverneurs,restaurant,Bayonne,,,,43.4909862,-1.4777597
+4642421592,node,Restaurant Le Moulin d'Alotz,restaurant,Bayonne,"Chemin Alotz Errota, Arcangues",,https://moulindalotz.com/home/,43.4214583,-1.5384046
+4697018980,node,Bar Restaurant Eskularia,restaurant,Bayonne,"89 Chemin Oihan Bazter, 64990, Villefranque",64990,https://eskularia-restaurant-villefranque.eatbu.com/?lang=fr,43.4359164,-1.4554361
+4706405136,node,Auberge 22,restaurant,Bayonne,"22 Rue Harispe, 64200",64200,https://auberge22.fr/,43.4735874,-1.5657735
+4726498189,node,Los dos hermanos,restaurant,Bayonne,"36 Avenue de Verdun, 64200",64200,,43.4816992,-1.5547474
+4726507490,node,Xurasco,restaurant,Bayonne,,,,43.4897558,-1.4754727
+4741244011,node,Le Peita,restaurant,Bayonne,"21 Rue Pierre-Louis Tourasse, 64500, Saint-Jean-de-Luz",64500,https://www.restaurant-lepeita.com/,43.3882833,-1.663498
+4741244013,node,Hôtel La Marisa,hotel,Bayonne,"16 Rue Martin de Sopite, 64500",64500,https://www.hotel-lamarisa.com/,43.3898999,-1.6616068
+4741244014,node,Kaia Ostatua,restaurant,Bayonne,"39 Tourasse karrika, 64500, Donibane Lohizune",64500,,43.3889738,-1.6637691
+4741244020,node,Le Patio,restaurant,Bayonne,"33 Rue Pierre-Louis Tourasse, 64500, Saint-Jean-de-Luz",64500,,43.3886672,-1.6636555
+4741244725,node,Hôtel Colbert,hotel,Bayonne,"3 Boulevard du Commandant Passicot, 64500, Saint-Jean-de-Luz",64500,https://www.hotelcolbertsaintjeandeluz.com/,43.386317,-1.6608033
+4741244726,node,Grand Hôtel de la Poste,hotel,Bayonne,"83 Rue Léon Gambetta, 64500, Saint-Jean-de-Luz",64500,https://www.grandhoteldelaposte.com/,43.3905267,-1.6579598
+4741244732,node,Hôtel de Paris,hotel,Bayonne,"Boulevard du Commandant Passicot, 64500, Saint-Jean-de-Luz",64500,https://hotel-saintjeandeluz.brithotel.fr/,43.3862442,-1.6610553
+4741274360,node,Zubiburu,restaurant,Bayonne,,,https://www.hotel-du-pont-ascain.fr/,43.3512087,-1.6256914
+4741274361,node,Hôtel du Pont,hotel,Bayonne,"55 Route de Saint-Jean-de-Luz, Ascain",,https://www.hotel-du-pont-ascain.fr/,43.3511187,-1.6257337
+4741305234,node,Le Pullman,restaurant,Bayonne,,,,43.3250243,-1.6003262
+4770775560,node,Restaurant C'Vall,restaurant,Bayonne,"64430, Urepel",64430,https://www.cvall.fr/,43.070512,-1.4165719
+4789924527,node,Un jour à Peyrassol,restaurant,Bayonne,Avenue de la Reine Victoria,,,43.4853541,-1.5536595
+4789924530,node,Le Majestic,restaurant,Bayonne,,,,43.4852967,-1.5547711
+4790240921,node,Les Arènes,restaurant,Bayonne,,,,43.4917525,-1.4855838
+4790297530,node,Rosy,restaurant,Bayonne,,,,43.4913727,-1.4737787
+4790433722,node,Chez Baï Les Goûts d'Ailleurs,restaurant,Bayonne,,,,43.4902838,-1.4731059
+4790453822,node,Sen Viet,restaurant,Bayonne,,,,43.4910792,-1.4725711
+4791583027,node,Déjà vu,restaurant,Bayonne,,,,43.4901698,-1.4734894
+4791590824,node,O’jura mendia,restaurant,Bayonne,,,,43.4901829,-1.4736136
+4791590827,node,La Grange,restaurant,Bayonne,,,,43.4906121,-1.4739802
+4791804136,node,Fufu Ramen,restaurant,Bayonne,"66 Rue d'Espagne, 64100",64100,https://restaurantfufu.com/,43.4899747,-1.476728
+4791810027,node,4 mmamma,restaurant,Bayonne,,,,43.4903441,-1.47648
+4795376225,node,Brasserie Luz,restaurant,Bayonne,"107 Avenue de Jaldaï, 64500, Saint-Jean-de-Luz",64500,,43.405582,-1.6269539
+4798897524,node,Patxamama,restaurant,Bayonne,,,,43.4909162,-1.4753947
+4822597322,node,Poza,restaurant,Bayonne,"64 Rue Gambetta, 64200",64200,,43.479397,-1.5642859
+4822612421,node,L'Entre Deux,restaurant,Bayonne,"5 Avenue du Maréchal Foch, 64200",64200,https://www.lentredeuxbiarritz.com/,43.4809451,-1.5588098
+4822759232,node,Le Comptoir à Burger,restaurant,Bayonne,"62 Rue Gambetta, 64200",64200,,43.4795279,-1.5642051
+4822819623,node,L'Etable,restaurant,Bayonne,"6 Rue Lavernis, 64200",64200,,43.4825318,-1.5595277
+4823857105,node,Résidence Bergara,hotel,Bayonne,"Rue principale, Souraide",,,43.3415568,-1.4739248
+4826759957,node,La petite pause,restaurant,Bayonne,"17 Place Duhalde, 64250, Cambo-les-Bains",64250,,43.3603502,-1.3990746
+4826926275,node,Etxe Tipia,restaurant,Bayonne,"4 Rue Chiquito de Cambo, 64250, Cambo-les-Bains",64250,https://etxe-tipia-restaurant-cambo-les-bains.eatbu.com/,43.3616808,-1.3995593
+4828373683,node,Ingres,restaurant,Bayonne,13 Place Duhalde,,,43.3604082,-1.3991161
+4828433843,node,Pizza Mia,restaurant,Bayonne,"Allée Edmond Rostand, 64250, Cambo-les-Bains",64250,,43.3607641,-1.4013944
+4828433844,node,Brasserie le Chiquito,restaurant,Bayonne,"13, 64250, Cambo-les-Bains",64250,https://www.le-chiquito.com/,43.3607135,-1.4012707
+4828446067,node,Bodega Pil Pil,restaurant,Bayonne,"12 Rue du Trinquet, 64250, Cambo-les-Bains",64250,,43.3614641,-1.3996949
+4829138551,node,Terrae,restaurant,Bayonne,"7 Avenue de la Mairie, 64250, Cambo-les-Bains",64250,https://restaurant-terrae.fr/,43.3612046,-1.3984663
+4829209266,node,Pizza 64,restaurant,Bayonne,"50 Avenue d'Espagne, 64250, Cambo-les-Bains",64250,,43.3559425,-1.414221
+4835012143,node,Ibis Budget,hotel,Bayonne,,,,43.4886905,-1.4572935
+4835012145,node,Courtepaille,restaurant,Bayonne,,,,43.4888543,-1.4570764
+4837028238,node,Hôtel Café du Trinquet,hotel,Bayonne,"Rue du Trinquet, 64250, Cambo-les-Bains",64250,,43.3616648,-1.3999821
+4847100003,node,Chez Coco,restaurant,Bayonne,"5 Rue Gardères, 64200, Biarritz",64200,,43.4825455,-1.5593255
+4862088921,node,Txik Txak,restaurant,Bayonne,,,,43.4843303,-1.5381972
+4865582866,node,Les Genêts,hotel,Bayonne,,,,43.4649558,-1.4959565
+4868223507,node,Ttipia,restaurant,Bayonne,,,,43.4893196,-1.473077
+4868223508,node,Los Tacos Chingones,restaurant,Bayonne,,,,43.4889828,-1.4730717
+4868223515,node,Hegoa,restaurant,Bayonne,,,,43.4897393,-1.4734722
+4868223519,node,Mona Lisa,restaurant,Bayonne,,,,43.491935,-1.4737326
+4868225025,node,Cantine du Musée,restaurant,Bayonne,,,,43.4925075,-1.4731202
+4868369131,node,Influences,restaurant,Bayonne,,,,43.4890982,-1.4784874
+4871233715,node,Campanile,hotel,Bayonne,,,,43.4668986,-1.5401446
+4877320049,node,Le Palmarium,restaurant,Bayonne,,,,43.4821591,-1.5658456
+4877320063,node,Palmito,hotel,Bayonne,,,https://www.palmito-biarritz.com/fr,43.4819938,-1.565769
+4877320064,node,Hôtel Georges VI,hotel,Bayonne,,,,43.4821766,-1.5662793
+4877320065,node,Hôtel Marbella,hotel,Bayonne,,,,43.4820501,-1.5660901
+4877320066,node,L'Equinoxe,restaurant,Bayonne,,,,43.482088,-1.5663417
+4877320068,node,Les Baigneuses,hotel,Bayonne,,,,43.4822291,-1.566624
+4877320069,node,Les Baigneuses,restaurant,Bayonne,,,,43.4823065,-1.5667997
+4877320111,node,Hôtel L'Atalaye,hotel,Bayonne,,,,43.4822053,-1.5645513
+4877320112,node,La Marine,hotel,Bayonne,,,,43.4819863,-1.5645768
+4877320120,node,Bouillon Hortense,restaurant,Bayonne,11 Rue Gardères,,,43.4828281,-1.5595215
+4889167222,node,Le Jaurès,restaurant,Bayonne,,,,43.4925162,-1.4630385
+4890132321,node,La Table | Sébastien Gravé,restaurant,Bayonne,,,,43.4917108,-1.4745473
+4890132322,node,Au Ptit Bistro,restaurant,Bayonne,,,,43.4913136,-1.4747825
+4890132421,node,Les Tontons Flingueurs,restaurant,Bayonne,,,https://www.les-tontons-flingueurs.fr,43.4912537,-1.4748296
+4914369269,node,Agri Eder,hotel,Bayonne,13 Rue Peyroloubilh,,https://www.hotel-argieder.fr/,43.4807016,-1.5642316
+4914369619,node,Judicious,restaurant,Bayonne,,,,43.4818199,-1.5647688
+4933378075,node,Bar-Restaurant Auberge du Fronton,restaurant,Bayonne,,,,43.3944471,-1.4526745
+4933378909,node,Bar-Restaurant La Petite Auberge,restaurant,Bayonne,"340 Rue du Bourg, Ustaritz",,https://lapetiteauberge-ustaritz.zenchef.com/,43.3944032,-1.4522569
+4944179321,node,La Galupe,restaurant,Bayonne,"le port, 64240, Urt",64240,http://www.lagalupe.fr,43.4996316,-1.2981119
+4947440908,node,Le Kawa,restaurant,Bayonne,"46 Rue de la Citadelle, 64220, Saint-Jean-Pied-de-Port",64220,,43.1634218,-1.2355595
+4947684325,node,Ostalamer,restaurant,Bayonne,"160 Route des Plages, 64500",64500,https://ostalamer.com/,43.4140569,-1.625776
+4947697322,node,Chez Mattin,restaurant,Bayonne,"63 Rue Évariste Baignol, 64500",64500,http://chezmattin.fr,43.3826422,-1.6692045
+4955297702,node,Goia,restaurant,Bayonne,,,https://www.goiarestaurant.fr/,43.5010134,-1.5398394
+4976227063,node,La Grillerie du port,restaurant,Bayonne,"Quai Marechal Leclerc, Saint-Jean-de-Luz",,,43.3863787,-1.6634699
+5003137823,node,Arrantzaleak,restaurant,Bayonne,64500,64500,http://restaurantarrantzaleakciboure.plaza24deseptiembre.co/,43.3831939,-1.6636563
+5029663823,node,Chez Doxpi,restaurant,Bayonne,"80 Merkatu plaza, 64250",64250,,43.3395101,-1.4473113
+5030800524,node,Pizza Cosy,restaurant,Bayonne,2 Avenue Léon Bonnat,,https://pizzerias.pizzacosy.fr/bayonne-leon-bonnat/,43.4940318,-1.4769016
+5032335021,node,Les Arceaux,restaurant,Bayonne,Place des Arceaux,,,43.4290315,-1.2561251
+5036521570,node,Erreguina,restaurant,Bayonne,"64430, Banca",64430,http://www.erreguina.com,43.1253377,-1.3743585
+5036521571,node,Erreguina,hotel,Bayonne,,,http://www.erreguina.com/,43.1254519,-1.3742051
+5051856021,node,Pizza One Garaxi,restaurant,Bayonne,,,,43.1637669,-1.2365236
+5068209035,node,Ferme auberge Ibarnia,restaurant,Bayonne,,,,43.1350796,-1.1442666
+5075239523,node,Kohi Mame,restaurant,Bayonne,,,,43.480508,-1.5157364
+5075298822,node,Campanile,hotel,Bayonne,"109 Chemin de Chibau, 64500, Saint-Jean-de-Luz",64500,https://www.campanile.com/fr-fr/,43.4067473,-1.6288319
+5075299822,node,Courtepaille,restaurant,Bayonne,,,,43.4057978,-1.6303748
+5076816924,node,La Verbéna,restaurant,Bayonne,,,,43.4901865,-1.4750033
+5092775122,node,Attatea,restaurant,Bayonne,,,,43.3836277,-1.2508572
+5092783922,node,Bellevue,hotel,Bayonne,,,,43.3624517,-1.401504
+5092818606,node,Pavilion Bleu,restaurant,Bayonne,,,,43.3552633,-1.3871763
+5093023744,node,Bellevue,restaurant,Bayonne,,,https://www.hotel-bellevue64.fr/,43.3625031,-1.401466
+5107210775,node,La Kantoche,restaurant,Bayonne,"21 Rue d'Ouristy, 64700, Hendaye",64700,https://pole64.wixsite.com/pole64/le-resto,43.3628671,-1.7692601
+5108828928,node,,restaurant,Bayonne,,,,43.2419025,-1.2850986
+5157571127,node,Broadway Diner,restaurant,Bayonne,"1075 Broadway, 07002, Bayonne",07002,,40.684969,-74.100767
+5157571128,node,Chandelier,restaurant,Bayonne,"1081 Broadway, 07002, Bayonne",07002,,40.6852863,-74.1007616
+5172904422,node,Le Tandem,restaurant,Bayonne,,,,43.4827925,-1.563645
+5172957447,node,,restaurant,Bayonne,,,,43.4144985,-1.6168545
+5183757374,node,Xoko Ona,restaurant,Bayonne,,,,43.3453534,-1.6214351
+5209301918,node,Esponda,hotel,Bayonne,"9 Place du Trinquet, 64220, Saint-Jean-Pied-de-Port",64220,,43.1642189,-1.2365409
+5209321424,node,Comme a la maison,restaurant,Bayonne,"28 Rue de la Citadelle, 64220, Saint-Jean-Pied-de-Port",64220,,43.163089,-1.2362686
+5209321427,node,Paxkal Oillarburu,restaurant,Bayonne,"8 Rue de l'Église, 64220, Saint-Jean-Pied-de-Port",64220,,43.1628144,-1.2374651
+5209321428,node,Izaxulo,hotel,Bayonne,"2 Avenue Renaud, 64220, Saint-Jean-Pied-de-Port",64220,https://www.gite-izaxulo.com/,43.1639962,-1.2371847
+5228417524,node,La croisière chez Patxi,restaurant,Bayonne,,,,43.3733151,-1.7743705
+5344927225,node,Germaine,restaurant,Bayonne,,,https://www.germainerestaurant.fr/,43.4918471,-1.4744799
+5411762054,node,Le Kanttu,restaurant,Bayonne,"Plage d'Erretegia, 64210, Bidart",64210,https://www.facebook.com/Kanttu-102188471972241/,43.4451095,-1.5887663
+5415413022,node,Etxe Nami,restaurant,Bayonne,"11 Avenue Jauréguiberry, 64500, Saint-Jean-de-Luz",64500,https://etxenami.com/,43.3872459,-1.6591481
+5417099715,node,Mendi Bichta,hotel,Bayonne,,,,43.3611136,-1.7002
+5473072600,node,Le Monte Carlo,restaurant,Bayonne,,,,43.496111,-1.4706897
+5478506698,node,Relief & traces,restaurant,Bayonne,,,,43.4956109,-1.4689792
+5478507046,node,Relief,restaurant,Bayonne,,,,43.4955225,-1.4688678
+5478507057,node,Atlas,restaurant,Bayonne,,,,43.4950009,-1.4672057
+5617951892,node,La Table Gourmande,restaurant,Bayonne,,,,43.4291798,-1.2555367
+5667333321,node,Heteroclito,restaurant,Bayonne,"Sentier des baleines - Baleen xendera, 64210, Guéthary",64210,https://www.heteroclito.fr,43.4261525,-1.608862
+5672561455,node,Osméra,restaurant,Bayonne,,,,43.4898235,-1.4723545
+5675620723,node,Restaurant le Petit Chinois,restaurant,Bayonne,"12 Rue du Jeu de Paume, 64120, Saint-Palais",64120,,43.3283284,-1.0351353
+5675620727,node,Chortaya,hotel,Bayonne,"Bourg, 64120, Arbouet-Sussaute",64120,https://auberge-chortaya.business.site/,43.369666,-1.000958
+5675620728,node,Espelletenia,hotel,Bayonne,"Bourg, 64120, Larceveau-Arros-Cibits",64120,https://www.espelletenia.eus/,43.2328667,-1.096312
+5675620729,node,Espelletenia,restaurant,Bayonne,"15 Route de Garazi, 64120, Larceveau-Arros-Cibits",64120,https://www.espelletenia.eus/restaurant,43.2328269,-1.0962707
+5675620730,node,Restaurant Art'Zain,restaurant,Bayonne,"20, 64780, Irissarry",64780,https://www.restaurant-art-zain.fr/fr/,43.257088,-1.2325384
+5675668330,node,Restaurant chez Lafitte,restaurant,Bayonne,"35 Rue Thiers, 64120, Saint-Palais",64120,,43.3287583,-1.0347629
+5677286152,node,Restaurant Le Trinquet - Le Bouchon Basque,restaurant,Bayonne,"31 Rue du Jeu de Paume, 64120, Saint-Palais",64120,,43.3278159,-1.0345277
+5677286153,node,Restaurant de la Paix,restaurant,Bayonne,"33 Rue du Jeu de Paume, 64120, Saint-Palais",64120,https://www.hotellapaix.com/,43.3280027,-1.0348618
+5677286154,node,Auberge du Foirail,restaurant,Bayonne,"Place du Foirail, 64120, Saint-Palais",64120,,43.3281179,-1.035052
+5677286155,node,Auberge du Foirail,hotel,Bayonne,,,,43.3280682,-1.0350363
+5679850442,node,La Lucciola,restaurant,Bayonne,8 Place des Docteurs Gentilhe,,https://www.lalucciola.fr/,43.4992142,-1.5420052
+5711188921,node,Bistro M,restaurant,Bayonne,,,,43.4889693,-1.4732513
+5711382686,node,Barranco,restaurant,Bayonne,"Rue Gambetta, 64200, Biarritz",64200,,43.4793705,-1.5640997
+5721802022,node,La P’tite Creperie,restaurant,Bayonne,,,,43.4821592,-1.5661352
+5732091189,node,Hannya sushi,restaurant,Bayonne,"16 Avenue Jean Jaurès, 64500, Ciboure",64500,https://www.hannya.fr/,43.383009,-1.6676873
+5768733622,node,Bar Restaurant Tranquille,restaurant,Bayonne,,,,43.4842987,-1.480406
+5786488802,node,Abrazo,restaurant,Bayonne,,,https://www.hotelmaisonchiberta.com/restaurant,43.5131156,-1.5239132
+5819240582,node,L'Adour,restaurant,Bayonne,"Quai du Bazé, 64340, Boucau",64340,,43.5233223,-1.4913031
+5837840205,node,OKKO Hôtel,hotel,Bayonne,,,,43.4957842,-1.4834172
+5856226443,node,Jap 64,restaurant,Bayonne,"Bazter Karrika, 64480, Ustaritz",64480,http://lejap64.com/,43.3925673,-1.4558191
+5862127556,node,Bar Basque,restaurant,Bayonne,"Place Toulet, 64210, Guéthary",64210,https://www.facebook.com/barbasque.guethary,43.4252684,-1.6088157
+5862159857,node,Restaurant de la jetée des Alcyons,restaurant,Bayonne,"Jetée des Alcyons, 64210, Guéthary",64210,,43.4259462,-1.6121055
+5862159858,node,Txamara,restaurant,Bayonne,"Chemin du Port, 64210, Guéthary",64210,https://www.restaurant-txamara-guethary.fr,43.4259667,-1.6107376
+5862159860,node,Le Madrid,restaurant,Bayonne,"Avenue du Général de Gaulle, 64210, Guéthary",64210,https://www.lemadrid.com,43.4251953,-1.6090558
+5873254385,node,Bali Bowls,restaurant,Bayonne,"4 Rue Gaston Larre, 64200",64200,,43.4818009,-1.565721
+5920462351,node,Le Bistrot de Manu,restaurant,Bayonne,,,,43.4936402,-1.2938522
+5926556555,node,Gamia,restaurant,Bayonne,"95 Chemin de Munho, 64220, Bussunarits-Sarrasquette",64220,https://www.restaurant-gamia.fr/,43.173651,-1.1307441
+5927013275,node,Le Gamaritz,hotel,Bayonne,"5 Perspective Côte des Basques, 64200, Biarritz",64200,https://hotel-biarritz-gamaritz.com/,43.4816058,-1.5662182
+5936881506,node,Gueleton,restaurant,Bayonne,,,,43.492206,-1.4737173
+5971540418,node,Le p'tit creux,restaurant,Bayonne,,,,43.4908661,-1.4769517
+6041759137,node,Saline,restaurant,Bayonne,,,,43.4795604,-1.5642039
+6041813604,node,Hôtel Beau-Séjour,hotel,Bayonne,,,,43.4818365,-1.5659514
+6041849234,node,Le Saphir,hotel,Bayonne,,,,43.4817382,-1.5653975
+6073344899,node,Bar-Restaurant du Trinquet,restaurant,Bayonne,,,https://www.trinquetdarcangues.com/,43.4370506,-1.5220105
+6073344904,node,Restaurant du Golf,restaurant,Bayonne,,,https://www.golfdarcangues.com/,43.4372476,-1.5283888
+6076858394,node,Palais de Jade,restaurant,Bayonne,"2 Avenue de la Reine Victoria, 64200, Biarritz",64200,,43.4850217,-1.5561288
+6087398790,node,Snack Lunchery,restaurant,Bayonne,"13 Rue de l'Industrie, Saint-Jean-de-Luz",,,43.406546,-1.6223317
+6143405210,node,Mendi Berdea,restaurant,Bayonne,12 Place de l'Église,,,43.3629437,-1.4037094
+6163187173,node,Tarte Julie,restaurant,Bayonne,,,,43.4927593,-1.4766481
+6163187174,node,Le Grand Hôtel,hotel,Bayonne,,,,43.4924654,-1.4764674
+6163192794,node,Woods,restaurant,Bayonne,,,https://foodcollect.fr/store/Woods/restaurant#,43.4931902,-1.4772757
+6166374337,node,Restaurant d'Application du Lycée Hôtelier,restaurant,Bayonne,,,,43.4624846,-1.5524381
+6199025441,node,Séquence(s),restaurant,Bayonne,,,,43.4915404,-1.4746584
+6201420443,node,Arraya,hotel,Bayonne,"Plaza, Sare",,https://www.arraya.com/,43.3124201,-1.5801416
+6209786311,node,Auberge du Cheval Blanc,restaurant,Bayonne,,,http://www.cheval-blanc-bayonne.com/,43.4908495,-1.4719403
+6213792554,node,Eat Salad,restaurant,Bayonne,,,https://eatsalad.fr/,43.4834353,-1.5033647
+6274733931,node,Les 3 Salsas,restaurant,Bayonne,,,,43.4741817,-1.5642678
+6282797525,node,Hôtel Thalazur Saint-Jean-de-Luz,hotel,Bayonne,"Place Maurice Ravel, 64500, Saint-Jean-de-Luz",64500,,43.3910984,-1.6608262
+6364758224,node,Arzon,restaurant,Bayonne,,,,43.4548835,-1.577885
+6365413789,node,Pizza Manu,restaurant,Bayonne,,,,43.3925995,-1.4557718
+6469967604,node,O Cantinho Português,restaurant,Bayonne,,,,43.4959058,-1.4657508
+6483445436,node,Serino,restaurant,Bayonne,,,,43.3723008,-1.7751794
+6499493786,node,MORI’S,restaurant,Bayonne,,,,43.4819542,-1.5534274
+6516615660,node,Urruty Bar-Restaurant,restaurant,Bayonne,,,,43.3011919,-1.1743116
+6584256158,node,Café Quintaou,restaurant,Bayonne,,,,43.4843348,-1.5133504
+6587467981,node,Le p'tit resto,restaurant,Bayonne,,,https://leptitresto.fr/,43.5011669,-1.5396109
+6587493073,node,L'Euphrate,restaurant,Bayonne,"38 Avenue des Dauphins, 64600, Anglet",64600,,43.5011047,-1.5397075
+6587493999,node,A table !,restaurant,Bayonne,"15 Avenue du Rayon Vert, Anglet",,https://www.restaurantatableanglet.com/,43.5010018,-1.5391376
+6643238987,node,Au Bureau,restaurant,Bayonne,,,,43.4814478,-1.5089729
+6660036387,node,Le BlueBay,restaurant,Bayonne,,,,43.5004159,-1.5421157
+6691812011,node,Loretxoa,restaurant,Bayonne,,,,43.2607902,-1.5767563
+6697954786,node,Ti Cab',restaurant,Bayonne,"661 Route des Plages, 64500, Saint-Jean-de-Luz",64500,,43.4181172,-1.6247022
+6699476312,node,Chez Odile,restaurant,Bayonne,65 Place du Château Salha,,,43.4753184,-1.2036699
+6699476314,node,chez Bixente,restaurant,Bayonne,,,,43.4745023,-1.203285
+6707424580,node,Pizz'osteria L'Angolo,restaurant,Bayonne,,,,43.4952974,-1.468708
+6710195477,node,Le Croque Bedaine,restaurant,Bayonne,"36 Route de Bigot, 64990, Mouguerre",64990,https://www.lecroquebedaine.fr/mouguerre/,43.484185,-1.443579
+6715454648,node,Bajadita,restaurant,Bayonne,,,,43.4891765,-1.4751281
+6732290372,node,A la cantine,restaurant,Bayonne,,,,43.4905764,-1.4716286
+6759476071,node,La Station,restaurant,Bayonne,,,,43.4595724,-1.5465692
+6762357407,node,Pizza Hut,restaurant,Bayonne,"1347 Kennedy Boulevard, 07002, Bayonne",07002,https://locations.pizzahut.com/nj/bayonne/1347-kennedy-blvd,40.6935721,-74.1033953
+6762357410,node,Wonder Bagel,restaurant,Bayonne,,,,40.6934805,-74.1031973
+6808206085,node,Hordago ostatua,restaurant,Bayonne,"Col de Lizarrieta, Sare",,https://www.chambresdhotes-hordago.com/restaurant_hordago_ostatua/,43.2611861,-1.6192751
+6813787753,node,La Cantine,restaurant,Bayonne,,,http://www.lacantinebiarritz.com,43.481264,-1.5585332
+6813960405,node,Santosha,restaurant,Bayonne,,,,43.4817399,-1.5573723
+6814013313,node,Frozen Palm,restaurant,Bayonne,,,,43.4809838,-1.5587567
+6817376288,node,Olatua,restaurant,Bayonne,,,,43.4836712,-1.5675644
+6828029868,node,Le Bouchon Biarrot,restaurant,Bayonne,,,https://www.lebouchonbiarrot.com/fr/,43.4851115,-1.5557381
+6852413086,node,Little Trallalà,restaurant,Bayonne,51 bis Rue Gambetta,,,43.4791626,-1.5642468
+6860096385,node,Chez Fanny,restaurant,Bayonne,,,,43.4836394,-1.5623101
+6863852885,node,The Beach House,restaurant,Bayonne,,,,43.500793,-1.5400273
+6871213086,node,Le Saleya,restaurant,Bayonne,"34 Rue Gambetta, 64200, Biarritz",64200,,43.4809507,-1.5632206
+6990836830,node,Pavillon du phare,restaurant,Bayonne,"60 bis Esplanade Elisabeth II, 64200, Biarritz",64200,,43.4935636,-1.5540993
+6996723904,node,Ezkia,restaurant,Bayonne,"6 Avenue de la Grande Plage, 64210, Bidart",64210,https://www.ezkia-restaurant.fr/,43.4392069,-1.590742
+7003829821,node,Le bistro de l'Atalante,restaurant,Bayonne,,,https://atalante-cinema.org/bistro/,43.4956042,-1.4714827
+7014744808,node,Venta Gaxuxa,restaurant,Bayonne,"2 Avenue de la Grande Plage, 64210, Bidart",64210,https://www.ventagaxuxa.com/,43.4393202,-1.5904971
+7015112228,node,Chez Zéli,restaurant,Bayonne,"Zirlinga, 64210, Bidart",64210,https://www.facebook.com/pages/category/Food-Truck/Chezzeli-229608397620689/,43.4302394,-1.5980595
+7019193283,node,Snack Parlementia,restaurant,Bayonne,"Chemin du Port, 64210, Guéthary",64210,,43.4258149,-1.6086824
+7019628156,node,Balea,hotel,Bayonne,"Rue Adrien Lahourcade, 64210, Guéthary",64210,https://www.baleahotel.com,43.4207547,-1.6054021
+7019656967,node,Villa Catarie,hotel,Bayonne,"Avenue du Général de Gaulle, 64210, Guéthary",64210,https://www.villa-catarie.com/fr/,43.4239018,-1.6092417
+7019693583,node,Elissaldia,hotel,Bayonne,"Place Sauveur Atchoarena, 64210, Bidart",64210,https://www.hotel-elissaldia.com/,43.4389391,-1.5901901
+7019693584,node,Capybara,hotel,Bayonne,"Rue de l'Uhabia, 64210, Bidart",64210,https://www.capybara-bidart.com/,43.433151,-1.5965927
+7025754662,node,Le Madrid,hotel,Bayonne,"Avenue du Général de Gaulle, 64210, Guéthary",64210,https://www.lemadrid.com,43.425152,-1.6090928
+7025770377,node,La Ferme de Bassilour,hotel,Bayonne,"1562 Rue de Bassilour, 64210, Bidart",64210,https://www.domainedebassilour.com/,43.4363509,-1.5629415
+7039071423,node,Briketenia,restaurant,Bayonne,"Rue de l'Église, 64210, Guéthary",64210,https://www.briketenia.com,43.4194552,-1.6060129
+7041982062,node,Hiriartia,restaurant,Bayonne,"7 Place Mattin Trécu, 64210, Ahetze",64210,,43.4055126,-1.5711829
+7047423973,node,La Plancha d'Ilbarritz,restaurant,Bayonne,,,,43.4598818,-1.5780737
+7058313248,node,Le Carré,restaurant,Bayonne,,,https://lecarre.fr/,43.4923362,-1.4726011
+7082110387,node,Xistera,restaurant,Bayonne,"23 Boulevard Victor Hugo, 64500, Saint-Jean-de-Luz",64500,,43.3878213,-1.6609937
+7086317775,node,Laminak,hotel,Bayonne,"Route du Bourg, 64210, Arbonne",64210,https://hotel-laminak.com,43.4269595,-1.5484485
+7086332478,node,Cidrerie du fronton,restaurant,Bayonne,"Route du Bourg, 64210, Arbonne",64210,https://cidreriedufronton.com,43.4320074,-1.5515518
+7101451314,node,Colmado,restaurant,Bayonne,,,,43.4912859,-1.4756549
+7114821758,node,Etorri,restaurant,Bayonne,"Rue Ernest Fourneau, 64310, Ascain",64310,,43.3485309,-1.6238465
+7114821763,node,A tutta pizza,restaurant,Bayonne,"Rue Ernest Fourneau, 64310, Ascain",64310,,43.3474094,-1.6226153
+7117628743,node,La Frégate,restaurant,Bayonne,,,,43.430277,-1.6001914
+7117636939,node,Fasthotel,restaurant,Bayonne,,,,43.4496979,-1.5615514
+7119896686,node,Bihotz,restaurant,Bayonne,"Rue Ernest Fourneau, 64310, Ascain",64310,,43.3456779,-1.6212666
+7119896688,node,Alaia,hotel,Bayonne,"40 Route d'Arraioa, 64310, Ascain",64310,,43.3457186,-1.619016
+7119896690,node,Larralde,restaurant,Bayonne,"55 Rue Oletako Bidea, 64310, Ascain",64310,,43.3446415,-1.6215915
+7120037748,node,La Table des Frères Ibarboure,restaurant,Bayonne,,,,43.4181736,-1.5981898
+7120037749,node,L'Hostellerie des Frères Ibarboure,hotel,Bayonne,,,,43.4183514,-1.5972232
+7122315407,node,Restaurant Ithurria,restaurant,Bayonne,"Place du Fronton, Ainhoa",,https://www.ithurria.com/,43.3079856,-1.4992278
+7122315408,node,Hôtel Argi Eder,hotel,Bayonne,"Route de la Chapelle, Ainhoa",,,43.3073275,-1.4956643
+7122315409,node,Restaurant Argi Eder,restaurant,Bayonne,"Route de la Chapelle, Ainhoa",,http://www.argi-eder.com,43.3072631,-1.4957634
+7122315411,node,Restaurant Ur Hegian,restaurant,Bayonne,"64250, Ainhoa",64250,https://www.hotel-ur-hegian.com/,43.2930651,-1.5032857
+7122315412,node,Hôtel Etchartenea,hotel,Bayonne,Ainhoa,,,43.2915237,-1.5037468
+7122315415,node,Hôtel Oppoca,hotel,Bayonne,"le bourg, Ainhoa",,,43.3072715,-1.498745
+7122315420,node,Restaurant Alzate,restaurant,Bayonne,,,,43.3064912,-1.4989721
+7122315421,node,Ferme Segida,restaurant,Bayonne,,,https://www.segida.fr,43.2955266,-1.4952894
+7129065623,node,Bonnat Vola,restaurant,Bayonne,"64210, Bidart",64210,,43.4336797,-1.5948582
+7129065624,node,Le Poisson Rouge,restaurant,Bayonne,"1257 Avenue de Biarritz, 64210, Bidart",64210,https://lepoissonrougebidart.fr/,43.4545827,-1.5736601
+7129065625,node,Ahizpak,restaurant,Bayonne,,,,43.4495921,-1.577501
+7129065626,node,Étika,restaurant,Bayonne,,,https://etikarestaurant.fr/fr,43.450749,-1.5632282
+7131026616,node,La mia Toscana,restaurant,Bayonne,"20 Rue Loquin, 64500, Saint-Jean-de-Luz",64500,,43.390697,-1.6600689
+7151043855,node,Eguzki,restaurant,Bayonne,"Zone Artisanale Lanzelai, 64310, Ascain",64310,https://eguzki-restaurant.fr,43.3642916,-1.637146
+7151043856,node,Txopinondo,restaurant,Bayonne,"Chemin de la cidrerie - Zone Artisanale Lanzelai, 64310, Ascain",64310,https://www.txopinondo.com,43.3647498,-1.6374387
+7159713653,node,Bitcha Eder,restaurant,Bayonne,,,,43.3105106,-1.6884246
+7159713654,node,Etxola,restaurant,Bayonne,,,,43.3105848,-1.6885614
+7159713655,node,Snack Sara Sol,restaurant,Bayonne,,,,43.3106746,-1.6887746
+7162174033,node,La trattoria de l'indigo,restaurant,Bayonne,,,,43.5009071,-1.5419859
+7206524536,node,Pizza Giorgio,restaurant,Bayonne,,,http://www.ustaritz-paysbasque.com/route_gourmande/pizza_giorgio.php,43.4039907,-1.4609245
+7216291585,node,Le Campero,restaurant,Bayonne,,,,43.4821115,-1.5634264
+7261093752,node,Les platanes,restaurant,Bayonne,"7 Boulevard de la Mer, 64600, Anglet",64600,https://lesplatanes-anglet.com,43.4962597,-1.5388496
+7271641111,node,La Voile Blanche,restaurant,Bayonne,,,,43.4241374,-1.6049978
+7275490985,node,La Belloteka,restaurant,Bayonne,,,,43.4806291,-1.5624752
+7350331594,node,You Sushi,restaurant,Bayonne,,,,43.4766224,-1.547939
+7358948170,node,Koskenia,restaurant,Bayonne,"Place Sauveur Atchoarena, 64210, Bidart",64210,https://aubergekoskenia.com,43.4393362,-1.5896467
+7359015506,node,Bar du fronton,restaurant,Bayonne,"Place Sauveur Atchoarena, 64210, Bidart",64210,http://www.hoteldufronton.com,43.4393231,-1.5900105
+7372258685,node,Comme chez toi,restaurant,Bayonne,,,,43.4928782,-1.4655094
+7388348678,node,Le Port Neuf,hotel,Bayonne,,,,43.4917522,-1.4764613
+7400944448,node,Etxe Gusto,restaurant,Bayonne,,,,43.4889913,-1.4776273
+7404907126,node,Le Tire Bouchon,restaurant,Bayonne,,,,43.4910987,-1.4756615
+7442451861,node,Hôtel des Basses Pyrénées,restaurant,Bayonne,,,,43.4886391,-1.4770748
+7486209048,node,Mintza,restaurant,Bayonne,,,,43.4942562,-1.4774594
+7486240156,node,Le bistrot des filles,restaurant,Bayonne,,,,43.4810996,-1.4886206
+7511314625,node,Hebeho,restaurant,Bayonne,,,,43.4889535,-1.4734615
+7511314626,node,Le Bar du marché,restaurant,Bayonne,39 Rue des Basques,,,43.489548,-1.4756054
+7511592759,node,Quai n°15,restaurant,Bayonne,"15 Quai Amiral Jaureguiberry, 64100, Bayonne",64100,https://quai-n15.fr/,43.4886302,-1.4752507
+7521713388,node,Le Saint-Louis,restaurant,Bayonne,,,,43.4927846,-1.4761322
+7551899000,node,Bombay,restaurant,Bayonne,,,,43.4934531,-1.4668089
+7556468031,node,Chixko,restaurant,Bayonne,"197 Avenue du Plateau, 64210, Bidart",64210,https://www.instagram.com/chixko.bidart/,43.4448001,-1.5843257
+7565534114,node,Le café d'en bas,restaurant,Bayonne,"4 Rue de l'Église, 64210, Bidart",64210,,43.4385148,-1.5901129
+7572709286,node,Etxemendi,restaurant,Bayonne,"455 Karrika Nagusia, 64250, Espelette",64250,,43.3410161,-1.4493026
+7595302585,node,Le Byron,restaurant,Bayonne,"12 Allée du Cadran, Anglet",,https://lebyron.fr/,43.4819185,-1.5052296
+7595666124,node,Aho Fina,restaurant,Bayonne,"43 Boulevard Adolphe Thiers, 64500, Saint-Jean-de-Luz",64500,https://luzgrandhotel.fr/,43.3925817,-1.6598663
+7595702647,node,La Cidrerie Luzienne,restaurant,Bayonne,"16 bis Avenue André Ithurralde, 64500, Saint-Jean-de-Luz",64500,https://www.facebook.com/cidrerieLuzienne,43.3929131,-1.6518557
+7595819518,node,"Hélianthal, Thalazur Saint-Jean-de-Luz",restaurant,Bayonne,"Hôtel Thalazur Saint-Jean-de-Luz, 64500, Saint-Jean-de-Luz",64500,https://www.thalazur.fr/saint-jean-de-luz/hotel/,43.3912954,-1.6613827
+7595863372,node,L'Essentiel,restaurant,Bayonne,"4 Rue Dalbarade, 64500, Saint-Jean-de-Luz",64500,,43.3916689,-1.6600727
+7595867441,node,Le Sélect,restaurant,Bayonne,"29 Boulevard Victor Hugo, 64500, Saint-Jean-de-Luz",64500,https://www.cineluz.fr/,43.3881386,-1.6603817
+7639967513,node,Beldi Grill,restaurant,Bayonne,,,,43.4955955,-1.466308
+7642813687,node,Ristorante Del Arte,restaurant,Bayonne,,,https://www.delarte.fr/restaurants/1405-anglet,43.4823461,-1.5054221
+7646196870,node,Tavola Calda,restaurant,Bayonne,"2-5 Rue Dornaldeguy, 64500, Saint-Jean-de-Luz",64500,,43.3915686,-1.6596173
+7646215441,node,Mezze Ona,restaurant,Bayonne,"52 Boulevard Victor Hugo, 64500, Saint-Jean-de-Luz",64500,http://www.mezzeona.com/,43.3891585,-1.657851
+7646231933,node,Le dauphin,restaurant,Bayonne,"39 Promenade Jacques Thibaud, 64500, Saint-Jean-de-Luz",64500,https://www.restaurantledauphin.com/,43.3910237,-1.6616009
+7649492934,node,La Boëte,restaurant,Bayonne,"3 Rue Jean Bague, 64500, Saint-Jean-de-Luz",64500,https://www.laboete-restaurant-poissonnerie-64.com/,43.3888112,-1.6610936
+7649513412,node,Chez Mimi,restaurant,Bayonne,"2 Place du Collège, 64500, Saint-Jean-de-Luz",64500,https://chez-mimi-st-jean-de-luz.eatbu.com/?lang=fr,43.3888956,-1.6606595
+7649526455,node,Hôtel de la Plage,hotel,Bayonne,"33 Rue Garat, 64500, Saint-Jean-de-Luz",64500,https://www.hoteldelaplage.com/,43.3896445,-1.6629851
+7649526573,node,"L'Alcalde, l'écailler",restaurant,Bayonne,"22 Rue de la République, 64500, Saint-Jean-de-Luz",64500,https://www.restaurant-alcalde.com/,43.3885655,-1.6642134
+7649534321,node,L'Escale,restaurant,Bayonne,"9 Rue Pierre-Louis Tourasse, 64500, Saint-Jean-de-Luz",64500,,43.3877111,-1.6633202
+7649542426,node,Restaurant Hor Dago,restaurant,Bayonne,"19 Rue de la République, 64500, Saint-Jean-de-Luz",64500,https://hordago.fr/,43.388669,-1.6644808
+7649542505,node,La Taverne Basque,restaurant,Bayonne,"5 Rue de la République, 64500, Saint-Jean-de-Luz",64500,,43.3881783,-1.66426
+7649550409,node,Uhaina,restaurant,Bayonne,"18 Rue de la République, 64500, Saint-Jean-de-Luz",64500,,43.3884375,-1.6641997
+7652717467,node,Chez Gus,restaurant,Bayonne,"28 Rue de la République, 64500, Saint-Jean-de-Luz",64500,,43.3888596,-1.6643893
+7673166672,node,Le Bodega La Plancha,restaurant,Bayonne,"31 Rue Pierre-Louis Tourasse, 64500, Saint-Jean-de-Luz",64500,https://bodega-la-plancha-le-patio.fr/menu/menu-bodega-la-plancha.pdf,43.3886217,-1.6636323
+7673179180,node,La pile d'assiettes,restaurant,Bayonne,"6 Rue d'Ellissagaray, 64500, Saint-Jean-de-Luz",64500,,43.3880914,-1.6608407
+7673183899,node,La cueva,restaurant,Bayonne,"32 Rue Garat, 64500, Saint-Jean-de-Luz",64500,,43.3895167,-1.662775
+7673191821,node,La Vieille Auberge,restaurant,Bayonne,"22 Rue Pierre-Louis Tourasse, 64500, Saint-Jean-de-Luz",64500,http://www.restaurant-lavieilleauberge.com/,43.3886884,-1.6634903
+7673194100,node,Crêperie Piper Beltz,restaurant,Bayonne,"29 Rue Joseph Garat, 64500, Saint-Jean-de-Luz",64500,,43.3893816,-1.6628583
+7673197119,node,Le P'tit Hasard,restaurant,Bayonne,"26 Rue du Maréchal Harispe, 64500, Saint-Jean-de-Luz",64500,,43.3873222,-1.6603712
+7673221289,node,Kako Etxea,restaurant,Bayonne,"18 Rue du Maréchal Harispe, 64500, Saint-Jean-de-Luz",64500,https://www.restaurant-kako-saintjeandeluz.com/,43.3871004,-1.6609757
+7673226670,node,Hôtel Le relais de Saint Jacques,hotel,Bayonne,"13 Avenue de Verdun, 64500, Saint-Jean-de-Luz",64500,https://www.hotelstjacques-stjeandeluz.com/,43.3862874,-1.6615579
+7673233995,node,Chez Jules,restaurant,Bayonne,"45 Avenue du Commandant Passicot, 64500, Ciboure",64500,,43.3942897,-1.6849535
+7673239827,node,Ispeguy,restaurant,Bayonne,"35 Avenue du Commandant Passicot, 64500, Ciboure",64500,,43.3932524,-1.6852534
+7674028492,node,Hoso Sushi - Café& Fresh Food,restaurant,Bayonne,"14 Boulevard Victor Hugo, 64500, Saint-Jean-de-Luz",64500,https://www.hososushi.fr/,43.3873026,-1.6617035
+7677319434,node,Casa del Sol,restaurant,Bayonne,"25 Rue Abbé Onaindia, 64500, Saint-Jean-de-Luz",64500,,43.3888859,-1.6619508
+7677344853,node,Pil Pil Enea,restaurant,Bayonne,"3 Rue Salagoity, 64500, Saint-Jean-de-Luz",64500,https://www.pilpilenea.fr/,43.3872848,-1.6590236
+7698581938,node,Zokoa Kanttu,restaurant,Bayonne,"31 Avenue du Commandant Passicot, 64500, Ciboure",64500,,43.3900767,-1.6848
+7698588577,node,Alaïa,restaurant,Bayonne,"2 Allée André Hiriart, 64500, Ciboure",64500,https://www.restaurantalaia.com/,43.3900109,-1.6841883
+7698736490,node,Exte Kim,restaurant,Bayonne,"41 Rue Agorette, 64500, Ciboure",64500,,43.3834703,-1.6686255
+7698792656,node,Ibis Budget Saint Jean de Luz Ciboure,hotel,Bayonne,"13 Rue Georges Olascuaga, 64500, Ciboure",64500,https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=6560&merchantid=seo-maps-FR-6560&sourceid=aw-cen,43.383535,-1.6652517
+7701968385,node,Donnie Ocean,restaurant,Bayonne,,,,43.3867871,-1.6615928
+7701990737,node,Ekaitza,restaurant,Bayonne,"15 Quai Maurice Ravel, 64500, Ciboure",64500,https://www.restaurant-ekaitza.fr/,43.3852118,-1.6674947
+7733572128,node,Hôtel Les Almadies,hotel,Bayonne,"58 Rue Léon Gambetta, 64500, Saint-Jean-de-Luz",64500,http://www.hotel-les-almadies.com/,43.3888086,-1.6604837
+7733737448,node,Hôtel La Devinière,hotel,Bayonne,"5 Rue Loquin, 64500, Saint-Jean-de-Luz",64500,https://www.hotel-la-deviniere.com/,43.3898393,-1.6597103
+7733796935,node,Hôtel La Réserve,hotel,Bayonne,"1 Avenue Gaëtan de Bernoville, 64500, Saint-Jean-de-Luz",64500,https://www.hotel-lareserve.com/,43.4018194,-1.6596527
+7733857468,node,Le Mosaïk Hôtel,hotel,Bayonne,"56 Boulevard Victor Hugo, 64500, Saint-Jean-de-Luz",64500,https://www.hotel-lepetittrianon.com/,43.3897353,-1.6575185
+7733868224,node,Hôtel Le Madison,hotel,Bayonne,"25 Boulevard Adolphe Thiers, 64500, Saint-Jean-de-Luz",64500,https://www.madison-saintjeandeluz.com/fr/hotel-madison/,43.3906975,-1.6593606
+7733887999,node,Hôtel Kapa Gorry,hotel,Bayonne,"9 Rue Paul Gelos, 64500, Saint Jean de Luz",64500,https://www.hotel-kapa-gorry.com/,43.3964701,-1.657828
+7734124588,node,Hôtel Maria Christina,hotel,Bayonne,"13 Rue Paul Gelos, 64500, Saint Jean de Luz",64500,https://www.hotel-maria-christina.com/,43.3967374,-1.6575966
+7734139068,node,La Caravelle,hotel,Bayonne,"1 Boulevard Pierre Benoit, 64500, Ciboure",64500,https://www.hotellacaravelle-stjeandeluz.com/,43.3876457,-1.6706182
+7764607343,node,Le Spot de Sainte-Barbe,restaurant,Bayonne,"Rue de Sainte-Barbe, 64500, Saint-Jean-de-Luz",64500,,43.3993286,-1.6628401
+7771127714,node,Atlanthal,hotel,Bayonne,,,,43.5214654,-1.5239936
+7772818585,node,Choko Ona,restaurant,Bayonne,"155 Xerrendako Bidea, 64250",64250,https://choko-ona.fr/,43.3415485,-1.4447912
+7787834340,node,Brasserie Xarnegu,restaurant,Bayonne,,,,43.4837029,-1.1405664
+7810499102,node,Bistrot Lana,restaurant,Bayonne,"2 Rue Bazter, 64210, Bidart",64210,https://www.facebook.com/Bistrot-lana-272683276262715,43.4461695,-1.5440748
+7825433150,node,Plaisir,restaurant,Bayonne,,,,43.4909005,-1.4727588
+7825433153,node,Goxoki,restaurant,Bayonne,,,,43.4907594,-1.4725484
+7825433155,node,Akelarre,restaurant,Bayonne,"4 Rue Pontrique, 64100, Bayonne",64100,,43.490124,-1.4730818
+7825433156,node,Bakera,restaurant,Bayonne,,,,43.4902276,-1.4731248
+7825433160,node,Naan Express,restaurant,Bayonne,,,,43.4901637,-1.4734316
+7832672217,node,L'Océ,restaurant,Bayonne,"9 Avenue des Mimosas, 64700, Hendaye",64700,,43.372316,-1.7738928
+7843712879,node,You Sushi,restaurant,Bayonne,,,,43.4918665,-1.4746798
+7844150888,node,Pépite,restaurant,Bayonne,"61 Rue Pannecau, 64100",64100,,43.4898139,-1.4721013
+7846980712,node,La Pinta,restaurant,Bayonne,,,,43.370918,-1.7848103
+7910024520,node,Il Sussurro,restaurant,Bayonne,,,,43.4951625,-1.4682359
+8000143006,node,Le petit hôtel,hotel,Bayonne,,,,43.4828485,-1.5596501
+8000145796,node,OPIOM,restaurant,Bayonne,64200,64200,,43.4854606,-1.5569646
+8000147635,node,Akena,hotel,Bayonne,,,,43.4853881,-1.552392
+8003693208,node,Le labo du Pizzaillo,restaurant,Bayonne,,,,43.4614015,-1.549504
+8004146268,node,Aupa Pizza,restaurant,Bayonne,"3 Rue Jean Bague, 64500, Saint-Jean-de-Luz",64500,,43.3887991,-1.661059
+8005473285,node,Gîte de M. et Mme Luberriaga Jean-Marie,hotel,Bayonne,64240,64240,,43.3897151,-1.2931974
+8010384302,node,Auberge Iparla,restaurant,Bayonne,,,,43.2652801,-1.3499324
+8013513985,node,Xuxu,restaurant,Bayonne,"8 bis, 64200",64200,,43.4850859,-1.5483012
+8025460108,node,Restaurant Euzkadi,restaurant,Bayonne,"285 Karrika Nagusia, 64250, Espelette",64250,https://www.hotel-restaurant-euzkadi.com/,43.3402318,-1.4479609
+8032776057,node,Basa,restaurant,Bayonne,"74 Rue d'Espagne, 64100, Bayonne",64100,https://www.brasserie-basa.com/,43.4901652,-1.4763036
+8035709571,node,Restaurant Chilhar,restaurant,Bayonne,"25 Xilarreneko Karrika, 64250, Espelette",64250,https://www.hotel-chilhar.com/,43.340652,-1.4495152
+8036344618,node,Labea,restaurant,Bayonne,"409 Karrika Nagusia, 64250, Espelette",64250,,43.3406546,-1.4491778
+8096615852,node,Hôtel restaurant Txistulari,restaurant,Bayonne,"442 Route d'Errobo, 64250, Itxassou",64250,https://www.txistulari.fr/fr/,43.3293039,-1.3970098
+8111218895,node,Hôtel restaurant du trinquet,restaurant,Bayonne,"Le bourg, 64250, Louhossoa",64250,https://www.hotel-trinquet-louhossoa.com/,43.3163405,-1.3501274
+8111238977,node,Maison Bonnet,restaurant,Bayonne,"41 Larrondoko bidea, 64250, Itxassou",64250,https://www.maison-bonnet.com/fr/,43.332274,-1.4111069
+8130398867,node,Le Café Bleu,restaurant,Bayonne,,,https://www.cafe-bleu-anglet.com,43.5005798,-1.5422896
+8130468641,node,La Table des Compagnons,restaurant,Bayonne,"94, anglet",,,43.5029742,-1.5149961
+8137919930,node,Hôtel restaurant Bergara,restaurant,Bayonne,"Rue principale, 64250, Souraide",64250,https://www.hotel-bergara.com/,43.3415807,-1.4740917
+8142933100,node,Bar du Port Chez Nicolas,restaurant,Bayonne,,,,43.4909777,-1.3827989
+8153886452,node,Hôtel-restaurant Berria,hotel,Bayonne,"Rue Francis Jammes, 64240",64240,https://www.hotel-restaurant-berria.fr/fr/,43.3869344,-1.3037878
+8155090198,node,Conti.pizza,restaurant,Bayonne,,,,43.4768978,-1.4933488
+8157189849,node,Angelu Pizza,restaurant,Bayonne,"44 Rue de Salis, anglet",,https://angelu-pizza.fr/,43.4860649,-1.5151564
+8157225598,node,Maya,restaurant,Bayonne,,,,43.4969904,-1.5069761
+8157225599,node,La Royale,restaurant,Bayonne,"3 Place Lamothe, anglet",,https://www.laroyaleanglet.fr,43.4864424,-1.5146716
+8157248905,node,La Bottega della Mamma,restaurant,Bayonne,"3 Chemin de Jorlis, anglet",,,43.5006756,-1.4948407
+8157281230,node,Le Bouche à Oreille,restaurant,Bayonne,"96, anglet",,,43.5031362,-1.5103807
+8168271849,node,Hôtel-restaurant Les Tilleuls,hotel,Bayonne,"Place Verdun, 64240, Hasparren",64240,http://www.hotellestilleuls-hasparren.com/,43.3838222,-1.3055451
+8168370765,node,Hôtel Le relais des Tilleuls,hotel,Bayonne,"Rue Pierre Broussain, 64240",64240,https://www.lestilleuls-hasparren.fr/relais,43.3836449,-1.3045713
+8182492892,node,Kokot Nomad,restaurant,Bayonne,"4 Chemin de Jorlis, Anglet",,https://kokotnomad.fr/,43.5003643,-1.4949936
+8241039278,node,San Severo,restaurant,Bayonne,,,,43.4939724,-1.4774132
+8241057464,node,Brasserie Le Thiers,restaurant,Bayonne,,,,43.4930178,-1.4758962
+8303136846,node,Kanbar Sagardotegia,restaurant,Bayonne,"4 Rue de la Poste, 64200, Biarritz",64200,,43.4815905,-1.5606442
+8314591519,node,Epherra,restaurant,Bayonne,"Chemin d'Urlo Erreka, 65250, Souraïde",65250,,43.3631573,-1.4843041
+8412465126,node,Hôtel-restaurant Argia,hotel,Bayonne,"Rue Jean Lissar, 64240, Hasparren",64240,https://www.hotel-argia.com/fr/,43.3836121,-1.3068332
+8414648672,node,Xuriatea,restaurant,Bayonne,"Rue Francis Jammes, 64240, Hasparren",64240,,43.3843734,-1.3053252
+8414693154,node,Mimi Ostatua - bar du fronton,restaurant,Bayonne,"Place du Jeu de Paume, 64240, Hasparren",64240,,43.3849495,-1.3041266
+8429426219,node,Komeiteko Borda,restaurant,Bayonne,"1480 Chemin de Komeitekoborda, 64240, Hasparren",64240,http://www.ferme-auberge-komeiteko-borda.fr/,43.3634496,-1.3468953
+8509861070,node,Chez Maité,hotel,Bayonne,"Place de la Mairie, 64122, Urrugne",64122,,43.3622185,-1.6999678
+8509861071,node,Chateau D'Urtubie,hotel,Bayonne,,,,43.3661366,-1.6882815
+8557342032,node,La mia Toscana,restaurant,Bayonne,,,,43.4915126,-1.4737734
+8571932431,node,Hôtel Chilhar,hotel,Bayonne,"25 Xilarreneko Karrika, 64250, Espelette",64250,https://www.hotel-chilhar.com/,43.3406549,-1.4495747
+8647029785,node,Auberge d'Achtal,restaurant,Bayonne,,,,43.4367147,-1.5221442
+8656532688,node,ahpe Restaurant,restaurant,Bayonne,"34 Avenue du Président J.F. Kennedy, 64200",64200,,43.4722663,-1.5558488
+8656552039,node,Restaurant du Trinquet,restaurant,Bayonne,,,,43.3159808,-1.351148
+8656753227,node,Hôtel Les Jardins de Bakea,hotel,Bayonne,"Rue Herri Alde, Biriatou",,,43.3334581,-1.7444779
+8701403586,node,Restaurant Ezkaratza,restaurant,Bayonne,"Maison Errekartia, 64640, HELETTE",64640,https://ezkaratza-helette.com/restaurant/,43.3111298,-1.2567319
+8701435250,node,Restaurant La Tour de Pizz,restaurant,Bayonne,"70 Route de Came, 64520, Bidache",64520,https://latourdepizzz.business.site/,43.4838332,-1.1377588
+8725314886,node,Hôtel Arcé,hotel,Bayonne,"Route du Col d'Ispéguy, 64430, SAINT-ETIENNE-DE-BAIGORRY",64430,https://www.hotel-arce.com/fr/,43.1753106,-1.3488087
+8725349995,node,Restaurant Pecoitz,restaurant,Bayonne,"37 Chemin de Plaza, 64220, Aincille",64220,,43.1448568,-1.1952963
+8725359368,node,Hôtel Ramuntcho,hotel,Bayonne,"1 Rue de France, 64220, Saint-Jean-Pied-de-Port",64220,https://www.hotel-ramuntcho.com/,43.163128,-1.2365304
+8725411272,node,Hôtel Andreinia,hotel,Bayonne,"Bourg, 64220, Estérençuby",64220,https://www.hotel-andreinia.com/,43.1037266,-1.1964764
+8725427033,node,Hôtel-Restaurant C'Vall,hotel,Bayonne,"64430, Urepel",64430,https://www.cvall.fr/,43.0705024,-1.4166304
+8725433723,node,Les Remparts,hotel,Bayonne,"16 Place Floquet, 64220, Saint-Jean-Pied-de-Port",64220,https://www.hoteldesremparts.fr/,43.162527,-1.2393435
+8725492469,node,Kuka,restaurant,Bayonne,"1 Rue de l'Église, 64220, Saint-Jean-Pied-de-Port",64220,,43.1624219,-1.2372783
+8727344790,node,Restaurant Arcé,restaurant,Bayonne,"64430, SAINT-ETIENNE-DE-BAIGORRY",64430,https://www.hotel-arce.com/fr/,43.1752761,-1.3488103
+8727354085,node,Brasserie du Fronton,restaurant,Bayonne,"Baigorriko plaza, 64430, Saint-Étienne-de-Baïgorry",64430,,43.1792204,-1.3398954
+8727367905,node,L’Auberge Orisson,restaurant,Bayonne,"64220, Uhart-Cize",64220,https://refuge-orisson.com/fr/restaurant/,43.1088327,-1.2392316
+8727385339,node,Restaurant Auberge Etchoinia,restaurant,Bayonne,"64220, Lasse",64220,https://www.auberge-etchoinia-pays-basque.com/,43.1569318,-1.260166
+8727406983,node,Restaurant Eskualduna Chez Katina,restaurant,Bayonne,"64780, SAINT-MARTIN-D'ARROSSA",64780,http://www.chezkatina.com,43.2336413,-1.3044681
+8727414352,node,Restaurant Choko Ona,restaurant,Bayonne,"64220, Saint-Jean-le-Vieux",64220,https://fr.gaultmillau.com/restaurant/choko-ona,43.1651754,-1.1973321
+8727491091,node,Restaurant Les Pyrénées,restaurant,Bayonne,"19 Place Charles de Gaulle, 64220, Saint-Jean-Pied-de-Port",64220,https://www.hotel-les-pyrenees.com/,43.1633521,-1.2377039
+8727516130,node,Restaurant Mendibilenea,restaurant,Bayonne,"64120, Amorots-Succos",64120,,43.3644962,-1.112513
+8727538214,node,Restaurant Xoko Goxoa,restaurant,Bayonne,"64220, Saint-Michel",64220,https://www.hotel-xoko-goxoa.com/,43.1349295,-1.2202903
+8727546322,node,Restaurant Mendy,restaurant,Bayonne,"64220, Saint-Jean-le-Vieux",64220,https://www.hotel-mendy.com/,43.1653407,-1.1936313
+8727756406,node,La Vieille Auberge - Chez Dédé,restaurant,Bayonne,"3 Rue de France, 64220, Saint-Jean-Pied-de-Port",64220,,43.1634767,-1.2368612
+8727800372,node,Noblia,restaurant,Bayonne,"64780, Bidarray",64780,https://www.hotel-basque-noblia.com/,43.2682953,-1.344996
+8727800395,node,Ramuntcho,restaurant,Bayonne,"1 Rue de France, 64220, Saint-Jean-Pied-de-Port",64220,https://www.hotel-ramuntcho.com/,43.1631213,-1.2365229
+8727812184,node,Hurrup eta Klik,restaurant,Bayonne,"3 Rue de la Citadelle, 64220, Saint-Jean-Pied-de-Port",64220,,43.1627523,-1.2370898
+8727835232,node,Le Chat Perché,restaurant,Bayonne,"11 Rue de la Citadelle, 64220, Saint-Jean-Pied-de-Port",64220,,43.1629177,-1.2368489
+8752930139,node,Gabriela,restaurant,Bayonne,"5, 64500",64500,,43.3874205,-1.6628658
+8753087377,node,Restaurant Ti Cabanon,restaurant,Bayonne,"Plage de Mayarko, Saint-Jean-de-Luz",,,43.4182732,-1.6247313
+8753312494,node,Moments gourmands,restaurant,Bayonne,Ascain,,,43.3454414,-1.6210718
+8758634505,node,Bistrot Etchepare,restaurant,Bayonne,,,,43.3327751,-1.4112071
+8758634625,node,Hôtel Restaurant du Fronton,hotel,Bayonne,"Place du Fronton, Itxassou",,https://www.maison-bonnet.com/,43.3323233,-1.411051
+8760942723,node,Restaurant Le Tourasse,restaurant,Bayonne,"25 Rue Pierre-Louis Tourasse, 64500, Saint-Jean-de-Luz",64500,,43.3883882,-1.6635578
+8772547100,node,La Hook's Resto & Lounge,restaurant,Bayonne,,,,43.5209543,-1.5017815
+8772801729,node,Le Quarante 4,restaurant,Bayonne,,,,43.515696,-1.5012187
+8780696095,node,Akoka,restaurant,Bayonne,,,,43.3130935,-1.5800959
+8785433077,node,Cidrerie Aurrera,restaurant,Bayonne,,,,43.4027665,-1.6269422
+8789369890,node,Café Belardi,restaurant,Bayonne,"5 Avenue Joachim Labrouche, 64500, Saint-Jean-de-Luz",64500,,43.3865578,-1.6613652
+8789540166,node,Chistera,restaurant,Bayonne,"17 Boulevard Victor Hugo, Saint-Jean-de-Luz",,,43.3876936,-1.6612722
+8791506119,node,Le Trinquet Maitena,restaurant,Bayonne,"42 Rue du Midi, 64500, Saint-Jean-de-Luz",64500,,43.3891088,-1.6592507
+8791678744,node,Auberge Aldaburua,hotel,Bayonne,"Place de la Mairie, Larressore",,https://aldaburua.com/,43.371555,-1.4363402
+8791761235,node,Restaurant aux Pigeons blancs,restaurant,Bayonne,"8 Rue de la République, 64500, Saint-Jean-de-Luz",64500,,43.3881235,-1.6639741
+8792151473,node,Restaurant Instincts,restaurant,Bayonne,"20 Rue Garat, 64500, Saint-Jean-de-Luz",64500,https://restaurant-instincts.com/,43.3889381,-1.6625403
+8792390331,node,Casa Basco,restaurant,Bayonne,,,,43.4828958,-1.5065493
+8794365232,node,Restaurant Le Comptoir JOA,restaurant,Bayonne,"Place Maurice Ravel, Saint-Jean-de-Luz",,https://www.joa.fr/casinos/st-jean-de-luz,43.3915123,-1.660483
+8814202302,node,Le Lohitzun,restaurant,Bayonne,"Avenue de Layatz, Saint-Jean-de-Luz",,https://www.hotel-donibane-saintjeandeluz.com/,43.3983329,-1.6404936
+8821311048,node,Txiki Thaï,restaurant,Bayonne,,,,43.4817615,-1.50657
+8839209162,node,Gyraya,restaurant,Bayonne,,,,43.4823298,-1.5039347
+8839209165,node,Paradis Grill,restaurant,Bayonne,,,,43.4819095,-1.5066451
+8856859660,node,Oppoca,restaurant,Bayonne,,,,43.3072642,-1.4988472
+8870140390,node,Nomad - Brunch bar,restaurant,Bayonne,,,,43.4914499,-1.4737781
+8888227711,node,Trinquet Herriarena,restaurant,Bayonne,,,,43.1832064,-1.3336449
+8894713279,node,Ferme Lizarraga,restaurant,Bayonne,"550 Chemin de Lizarraga, Urrugne",,http://www.lizarraga.fr,43.3692553,-1.6920108
+8894896802,node,La Cidrerie Camino Berri,restaurant,Bayonne,Biriatou,,https://www.restaurant-cidrerie.fr/,43.3481449,-1.7486805
+8894935525,node,L'Auberge Chez Maïté,restaurant,Bayonne,"Place de la Mairie, Urrugne",,,43.3621697,-1.6999692
+8897583481,node,Les Jardins de Bakea,restaurant,Bayonne,"Chemin Herri Alde, Biriatou",,https://www.jardins-de-bakea.fr/,43.3334587,-1.7442728
+8898180068,node,Hôtel B&B Saint-Jean-de-Luz,hotel,Bayonne,"109 Chemin de Chibau, 64500, Saint-Jean-de-Luz",64500,,43.4063419,-1.6293905
+8898716217,node,Le Relais de la Nive,restaurant,Bayonne,"4 Place Charles de Gaulle, 64220, Saint-Jean-Pied-de-Port",64220,,43.1626976,-1.2380074
+8904128511,node,Briket'Bistrot,restaurant,Bayonne,"Rue de l'Église, Guéthary",,https://www.briketenia.com/fr/briket-cote-bistrot.html,43.4194388,-1.6060267
+8928912081,node,Auberge Associative Etxeberria - Restaurant Arotzenia,restaurant,Bayonne,,,,43.3617873,-1.7037512
+8931181694,node,,restaurant,Bayonne,,,,43.3626099,-1.5662733
+8933744637,node,Etche Pizza,restaurant,Bayonne,,,https://etchepizza.eatbu.com,43.3281327,-1.0342491
+8933744641,node,Chez Fredo,restaurant,Bayonne,"19 Rue Gambetta, 64120, Saint-Palais",64120,,43.3268616,-1.0337998
+9048761174,node,Kafia,restaurant,Bayonne,Sare,,,43.3127881,-1.5816236
+9048761175,node,Éphéméride,restaurant,Bayonne,,,,43.3131023,-1.5800102
+9091753779,node,Le Gambetta,restaurant,Bayonne,,,,43.3263299,-1.0343456
+9098781496,node,Trois Frères,restaurant,Bayonne,,,,43.4806483,-1.5098356
+9113231996,node,Cenitz Eko Borda,restaurant,Bayonne,"Chemin de Cenitz, 64210, Guéthary",64210,,43.4226075,-1.6187946
+9144230060,node,Kitoko,restaurant,Bayonne,,,,43.4967986,-1.4684371
+9148270640,node,Ibaia,restaurant,Bayonne,,,,43.4893736,-1.475101
+9151246035,node,Kortxo,restaurant,Bayonne,Place de la Mairie,,https://kortxo.fr/,43.1787939,-1.3402227
+9152225431,node,Txanogorritxo,restaurant,Bayonne,Behereko karrika,,,43.1796425,-1.3396918
+9246238206,node,Au Platane,restaurant,Bayonne,"15 Place de l'Hôtel de Ville, 64120, Saint-Palais",64120,,43.3276308,-1.0329311
+9280450561,node,Délices et gourmandises,restaurant,Bayonne,"19 Rue Thiers, 64120, Saint-Palais",64120,,43.3280522,-1.0338728
+9459015617,node,Atalaia,restaurant,Bayonne,"17 Rue de la Fontaine, 64500",64500,,43.3843061,-1.6682431
+9459732227,node,L'auberge Basque,restaurant,Bayonne,745 Vieille Route de Saint-Pée,,https://www.aubergebasque.com,43.3675439,-1.5847425
+9459732228,node,L'auberge Basque,hotel,Bayonne,745 Vieille Route de Saint-Pée,,https://www.aubergebasque.com,43.3677198,-1.5845969
+9500796768,node,,restaurant,Bayonne,,,,43.2572601,-1.2330158
+9521280601,node,You Sushi,restaurant,Bayonne,"25 Avenue André Ithurralde, 64500, Saint-Jean-de-Luz",64500,https://www.yousushi.fr/,43.3925562,-1.6530213
+9685729696,node,Le Miam,restaurant,Bayonne,,,,43.4180222,-1.6245537
+9694518749,node,Jan,restaurant,Bayonne,,,,43.4977131,-1.5384457
+9804681620,node,Bidartea ostatua,restaurant,Bayonne,,,,43.0816573,-1.439428
+9810294970,node,Ferme auberge Auzkia,restaurant,Bayonne,"110 Auzkiko Bidea, 64430, Les Aldudes",64430,https://www.ferme-auzkia.com/,43.0913477,-1.4286534
+9826363721,node,Basik,restaurant,Bayonne,"Allée Antoine d'Abbadie, 64210, Bidart",64210,,43.4454386,-1.5533464
+9851665091,node,Brasserie de l'Hôtel de Paris,restaurant,Bayonne,"1 Rue des Jasmins, 64700, Hendaye",64700,,43.3719421,-1.7728251
+9881389392,node,Merendino,restaurant,Bayonne,,,,43.3887959,-1.6645286
+9881389393,node,Xabi-krakada,restaurant,Bayonne,"21 Rue de la République, 64500, Saint-Jean-de-Luz",64500,,43.3887403,-1.6645025
+9885006136,node,La Santa,restaurant,Bayonne,,,,43.3708517,-1.783935
+9887468699,node,Chez Gilles,restaurant,Bayonne,,,,43.4888014,-1.4752148
+9907985183,node,Galzagorry,restaurant,Bayonne,,,,43.3419735,-1.4741139
+9919103017,node,Café de la Mairie,restaurant,Bayonne,"Allée Edmond Rostand, 64250",64250,,43.3605882,-1.3996817
+9924627814,node,Hôtel Fine,hotel,Bayonne,"61 Rue Henri Rénéric, 64600, Anglet",64600,,43.5038172,-1.5036987
+9927733634,node,Daya,restaurant,Bayonne,10 avenue des mimosas,,,43.3724311,-1.7739263
+9927753679,node,The chicken kitchen,restaurant,Bayonne,12 avenue des mimosas,,,43.372417,-1.7740355
+9934141241,node,Barberaenea,restaurant,Bayonne,,,https://hotel-bidarray.com/,43.2657151,-1.3485047
+9934213589,node,Pierre Oteiza,restaurant,Bayonne,,,,43.0892537,-1.424625
+10006339857,node,Pottolo,restaurant,Bayonne,7 Rue des Tonneliers,,,43.4902814,-1.4735781
+10052780464,node,Buvette de la Halle,restaurant,Bayonne,,,,43.387607,-1.6607225
+10052780465,node,Maison Mokoka,restaurant,Bayonne,,,,43.3874954,-1.6610064
+10059419974,node,Hôtel Bar Valencia,hotel,Bayonne,29 Boulevard de la Mer,,https://hotel-valencia-hendaye.com,43.374496,-1.7669535
+10059419975,node,Hôtel Uhainak,hotel,Bayonne,3 Boulevard de la Mer,,https://www.hotel-uhainak.com/,43.3754042,-1.7630448
+10217245246,node,Izarlilia,restaurant,Bayonne,,,,43.4897096,-1.4316962
+10228958660,node,Nemea Appart'Hotel Biarritz Les Hauts de Milady,hotel,Bayonne,"24 Avenue de la Milady, 64200, Biarritz",64200,,43.4697542,-1.5682396
+10228958661,node,Lagun,restaurant,Bayonne,"28 Avenue de la Milady, 64200, Biarritz",64200,,43.4692378,-1.5684216
+10265785958,node,Chez Paqui,restaurant,Bayonne,,,,43.4638578,-1.505399
+10265785969,node,Le Bouillon de Maignon,restaurant,Bayonne,,,,43.4645387,-1.5045396
+10267383042,node,Le 180°,restaurant,Bayonne,,,,43.4414298,-1.4895219
+10293030427,node,Sakae,restaurant,Bayonne,21 avenue du jardin public,,https://sakae-biarritz.fr,43.4800239,-1.5588162
+10575914641,node,Hôtel VAL FLORES LOGIS,hotel,Bayonne,48 Avenue de la Marne,,https://www.hotel-valflores.com/,43.4837303,-1.548567
+10633707353,node,KMC,restaurant,Bayonne,"52 Rue Bourgneuf, 64100, Bayonne",64100,https://kmc-fusion-ramen.eatbu.com/,43.4910302,-1.4724909
+10657195357,node,Mimi Ostatua - pizza,restaurant,Bayonne,"Place du Jeu de Paume, 64240, Hasparren",64240,https://clicks.tastycloud.fr/6cf83cb88f8b52a8145e0822657ddcf8e438853f233431a763d26a6194be9153/,43.3847925,-1.3040418
+10742081968,node,Zuharpeta,restaurant,Bayonne,,,,43.161066,-1.2389888
+10802574265,node,Pizza K,restaurant,Bayonne,,,,43.1627885,-1.240364
+10802611276,node,Kantina,restaurant,Bayonne,,,,43.1628333,-1.2404249
+10831657859,node,Ibis Bar rendez-vous,restaurant,Bayonne,,,http://www.ibishotel.com,43.4927381,-1.4658017
+10840122000,node,Pizza Cosy,restaurant,Bayonne,"59, 64600, Anglet",64600,https://pizzacosy.fr/pizzeria-anglet,43.4877504,-1.535861
+10916635405,node,Aiete,restaurant,Bayonne,"22 Rue Harispe, 64200, Biarritz",64200,,43.4736917,-1.5656593
+10922013233,node,Hordago,restaurant,Bayonne,"Rue de Navarre, 64240, Hasparren",64240,https://www.restaurant-hordago-hasparren.com,43.3864136,-1.3028322
+10922041727,node,Restaurant La Maison de Pierre,restaurant,Bayonne,"Quartier Urcuray, 64240, Hasparren",64240,https://www.lamaisondepierre.fr/,43.3684857,-1.3524002
+10929198946,node,Jaia,restaurant,Bayonne,,,,43.4898351,-1.4772657
+10967589405,node,le Chantier,restaurant,Bayonne,,,,43.3682972,-1.7794083
+10984479545,node,Les Chenapans,restaurant,Bayonne,,,,43.4691324,-1.4902434
+11051513713,node,Zou,restaurant,Bayonne,,,,43.4794499,-1.5642415
+11051515125,node,Carøe,restaurant,Bayonne,,,,43.4791302,-1.5642817
+11051515127,node,California Kitchen,restaurant,Bayonne,,,,43.4793112,-1.5643474
+11133966850,node,Le parc à Huîtres,restaurant,Bayonne,,,,43.3688363,-1.7796153
+11146053579,node,L'épicier Bio,restaurant,Bayonne,,,https://www.epicier-bio.com/,43.4910923,-1.491911
+11148366006,node,Bat Bi HIru,restaurant,Bayonne,,,,43.4151191,-1.6264043
+11165512905,node,Crispy Pizza,restaurant,Bayonne,35 West 1st Street,,,40.6454005,-74.1297237
+11179190066,node,Mike's Pizzeria & Italian Restaurant,restaurant,Bayonne,474 Avenue C,,,40.663411,-74.1217005
+11196070584,node,Jules & John,restaurant,Bayonne,"RD 810, 64122, Urrugne",64122,https://www.jules-et-john.fr/?utm_source=Yext&utm_medium=GMB,43.3734872,-1.6783348
+11198110037,node,Mona Lisa Pizzeria Ristorante,restaurant,Bayonne,165 Broadway,,,40.6518384,-74.1284566
+11212857752,node,Camietako Sukaldea,restaurant,Bayonne,"94 Mahastiko Bidea, 64122, Urrugne",64122,https://www.facebook.com/camietako,43.3761458,-1.673566
+11232269437,node,Pizza Masters,restaurant,Bayonne,532 Broadway,,,40.664969,-74.1172062
+11235874176,node,La ferme Ostalapia,restaurant,Bayonne,"2621 Chemin d'Ostalapea, 64210, Ahetze",64210,https://www.ostalapia.fr,43.4003411,-1.5971754
+11254952553,node,Kapera Maison d'Hôtes,hotel,Bayonne,"601 Urtsuxolako errepidea, 64240, Macaye",64240,,43.3176665,-1.3439157
+11280169786,node,Granada,restaurant,Bayonne,,,,43.3716918,-1.7738117
+11280170027,node,Côté Plage,restaurant,Bayonne,,,,43.3734407,-1.7738318
+11280173003,node,Le Battela,restaurant,Bayonne,,,,43.3721104,-1.7730909
+11280181121,node,,restaurant,Bayonne,,,,43.3713263,-1.7723606
+11281880369,node,Two Son's Pizzeria,restaurant,Bayonne,"582 Broadway, Bayonne",,,40.6668454,-74.1155985
+11296082769,node,Two Son's Pizzeria,restaurant,Bayonne,582 Broadway,,,40.6667559,-74.1155298
+11343906369,node,Luciano's San Vito Restaurant,restaurant,Bayonne,406 Broadway,,,40.660893,-74.1206422
+11356726981,node,Chez Pierre Man'Ouché,restaurant,Bayonne,,,,43.4892935,-1.4771878
+11361758459,node,Bigiz Bistro,restaurant,Bayonne,"Avenue Jean-Léon Laporte, 64600, Anglet",64600,,43.4876826,-1.4975772
+11361758461,node,Dicapo,restaurant,Bayonne,"64600, Anglet",64600,https://dicapo.fr/,43.4874805,-1.4976858
+11361762970,node,Flunch,restaurant,Bayonne,"64600, Anglet",64600,https://www.flunch.fr/restaurant/anglet/flunch-bayonne/,43.4873851,-1.498407
+11361763001,node,Bohebon,restaurant,Bayonne,"Avenue Jean-Léon Laporte, 64600, Anglet",64600,https://bohebon.fr/restaurants/bohebon-anglet/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,43.4872588,-1.4990528
+11361763002,node,Bistrot Anaïak,restaurant,Bayonne,"6 Avenue Jean-Léon Laporte, 64600, Anglet",64600,,43.4873064,-1.4988578
+11374350862,node,Taco del diablo,restaurant,Bayonne,,,,43.459035,-1.5409661
+11374405554,node,La table des docks,restaurant,Bayonne,,,,43.4593081,-1.5406662
+11375609769,node,Pompei Pizza,restaurant,Bayonne,480 Broadway,,,40.6633577,-74.118541
+11380846105,node,Zaka Bistrot,restaurant,Bayonne,"2 Avenue du Portou, 64990, Saint-Pierre-d'Irube",64990,,43.4815717,-1.4444564
+11380846106,node,Tia Romana,restaurant,Bayonne,"2 Avenue du Portou, 64990, Saint-Pierre-d'Irube",64990,,43.4816761,-1.4445256
+11380846107,node,Bistrot Régent,restaurant,Bayonne,"2 Avenue du Portou, 64990, Saint-Pierre-d'Irube",64990,https://www.bistro-regent.fr/,43.481785,-1.4445818
+11380846108,node,Big Easy,restaurant,Bayonne,"4 Avenue du Portou, 64990, Saint-Pierre-d'Irube",64990,,43.4817827,-1.4448155
+11380846109,node,NKI SUSHI,restaurant,Bayonne,"64990, Saint-Pierre-d'Irube",64990,https://order.nkisushi.com/en/shops/japonais/nki-sushi-bayonne,43.4817477,-1.4450244
+11380846112,node,Go Warung,restaurant,Bayonne,"2 Avenue du Portou, 64990, Saint-Pierre-d'Irube",64990,,43.4813548,-1.4448438
+11380846130,node,La Casa del Jamón,restaurant,Bayonne,"3 Avenue du Portou, 64990, Saint-Pierre-d'Irube",64990,https://www.lacasadeljamon.eu/,43.4812918,-1.4450649
+11407115894,node,Chez Isabella,restaurant,Bayonne,,,,43.4595761,-1.5405991
+11407115895,node,Casa Santa Maria,restaurant,Bayonne,,,,43.4595778,-1.5406413
+11407119003,node,So Wok,restaurant,Bayonne,,,,43.4595554,-1.5400789
+11415500911,node,Alma,restaurant,Bayonne,"6 Rue du 17 Pluviôse, 64500, Saint-Jean-de-Luz",64500,https://www.restaurantalma.fr/,43.3875264,-1.66229
+11415500922,node,Balea,restaurant,Bayonne,"11 Rue de la République, 64500, Saint-Jean-de-Luz",64500,,43.3883513,-1.6643313
+11415500923,node,Hôtel Txoko,hotel,Bayonne,"20 Rue de la République, 64500, Saint-Jean-de-Luz",64500,https://www.hotel-txoko.com,43.3885076,-1.6641723
+11415500924,node,Ongi Ethorri,restaurant,Bayonne,"15 Rue de la République, 64500, Saint-Jean-de-Luz",64500,,43.3884676,-1.6643914
+11415500925,node,"Brut, table de saison",restaurant,Bayonne,"Rue Pierre-Louis Tourasse, 64500, Saint-Jean-de-Luz",64500,,43.3884664,-1.6634402
+11425819537,node,Brasserie du Madison,restaurant,Bayonne,"25 Boulevard Adolphe Thiers, 64500, Saint-Jean-de-Luz",64500,,43.3907902,-1.6593858
+11425819551,node,Maison Ama,restaurant,Bayonne,"34 Boulevard Adolphe Thiers, 64500, Saint-Jean-de-Luz",64500,https://maisonama.eatbu.com/?lang=fr,43.3917881,-1.6592458
+11425819559,node,Bellini,restaurant,Bayonne,"31 Rue Martin de Sopite, 64500, Saint-Jean-de-Luz",64500,https://restaurantbellini.fr,43.3905051,-1.6597532
+11435345981,node,Familia,restaurant,Bayonne,"3 Rue de la Baleine, 64500, Saint-Jean-de-Luz",64500,,43.3882635,-1.6646484
+11435345983,node,Zoko Moko,restaurant,Bayonne,"6 Rue Mazarin, 64500, Saint-Jean-de-Luz",64500,http://www.zoko-moko.com/,43.3881022,-1.6649349
+11440000009,node,Gaua,restaurant,Bayonne,"210 D810, 64122, Urrugne",64122,https://restaurantgaua.com/,43.3748328,-1.6795298
+11487134570,node,Atéa,restaurant,Bayonne,Avenue du 08 Mai 1945,,,43.4648134,-1.4958491
+11515933340,node,O'707,restaurant,Bayonne,,,,43.4836912,-1.5071332
+11536922669,node,,restaurant,Bayonne,,,,43.4427181,-1.5334445
+11559897403,node,Gédéon,restaurant,Bayonne,"4 Rue Joseph Garat, 64500, Saint-Jean-de-Luz",64500,https://chezgedeon.com/,43.3877354,-1.6617486
+11652562025,node,Le Solsol,restaurant,Bayonne,"Boulevard de la Mer, Hendaye",,,43.3713899,-1.785187
+11667048123,node,Le Petit Hôtel,hotel,Bayonne,"9 Rue Dalbarade, 64500, Saint-Jean-de-Luz",64500,,43.3920146,-1.6600511
+11667048490,node,2P Gourmands Les Épicuriens,restaurant,Bayonne,,,,43.4619316,-1.5403822
+11667095518,node,Chez Anna,restaurant,Bayonne,,,,43.4625204,-1.5396242
+11676951785,node,Le Food Shop,restaurant,Bayonne,"172 Rue de Hausquette, 64600, Anglet",64600,http://lefoodshop.com/,43.5026765,-1.5032203
+11711673602,node,Aviron Bistronomie,restaurant,Bayonne,,,,43.4847219,-1.4796803
+11726721261,node,Mogu Japan Café,restaurant,Bayonne,"67 Avenue de Bayonne, 64600, Anglet",64600,http://www.japan-cafe-anglet.fr/,43.4833352,-1.5035244
+11727604646,node,Sambaya,restaurant,Bayonne,"49 Avenue Jean-Léon Laporte, 64600, Anglet",64600,,43.4920439,-1.4978071
+11739753911,node,La Dinguette du Maharin,restaurant,Bayonne,,,,43.5000201,-1.5133334
+11764731431,node,Hôtel des Arceaux,hotel,Bayonne,"26 Rue Port Neuf, 64100, Bayonne",64100,https://www.hotelarceaux.fr,43.4922781,-1.4758944
+11765679970,node,Tinto All Day - Café cantine,restaurant,Bayonne,"163, 64600, Anglet",64600,https://www.tintoallday.com/,43.5174412,-1.5018268
+11836749286,node,Kaliko,restaurant,Bayonne,"111 Rue de la Chapelle, 64210, Bidart",64210,https://kalikobidart.com/,43.4339172,-1.5936169
+11849838098,node,Cidrerie Kupela Sagardotegia,restaurant,Bayonne,"79 Avenue Capitaine Resplandy, 64100",64100,https://www.kupela.fr/sagardotegia/,43.4836946,-1.4523036
+11886762449,node,Hostellerie du Parc,hotel,Bayonne,,,,43.3611575,-1.3980364
+11898213358,node,Kavea,restaurant,Bayonne,"16 Avenue Catherine Aguirre, 64500, Ciboure",64500,,43.3872289,-1.6851235
+11898242985,node,Haragia,restaurant,Bayonne,"26 Rue Gambetta, 64200",64200,,43.481361,-1.563252
+11898257169,node,Carlos,restaurant,Bayonne,"7 Boulevard du Prince de Galles, 64200",64200,,43.4788497,-1.5663315
+11898257170,node,Marguerite,restaurant,Bayonne,"21 Rue Gambetta, 64200",64200,,43.4808384,-1.5631019
+11898258469,node,Le Surfing Biarritz,restaurant,Bayonne,"9 Boulevard du Prince de Galles, 64200",64200,,43.4783081,-1.5664672
+11898258470,node,Ardi Beltza,restaurant,Bayonne,"42 Avenue du Maréchal Foch, 64200",64200,,43.4782371,-1.5579602
+11898266670,node,APRÈS-DEMAIN,restaurant,Bayonne,"12 Rue Louis Barthou, 64200",64200,,43.4824809,-1.5578719
+11898275172,node,La Table de Michel,restaurant,Bayonne,"13 Rue Gambetta, 64200",64200,,43.4815909,-1.5628733
+11898369169,node,EPOQ,restaurant,Bayonne,"11 Rue du Helder, 64200",64200,,43.4815038,-1.5578272
+11916104991,node,La Casa Della Pizza,restaurant,Bayonne,"77 Avenue de Bayonne, 64600, Anglet",64600,,43.4851815,-1.5022364
+11916155408,node,Le Jap Ona,restaurant,Bayonne,"1 Rue des Hirondelles, 64200, Biarritz",64200,https://lejap-ona.com/,43.463128,-1.5397518
+11917490839,node,La Peña Bodega,restaurant,Bayonne,"1904 D810, 64500, Saint-Jean-de-Luz",64500,,43.4115617,-1.618901
+11936480546,node,Aguilera Pizza,restaurant,Bayonne,"106 Avenue de Biarritz, 64600, Anglet",64600,,43.4811209,-1.5345395
+11978954456,node,Izarrena,restaurant,Bayonne,,,https://izarrena.com/restaurant-bayonne/,43.4892763,-1.4733709
+11982958482,node,La Table D'Anto,restaurant,Bayonne,"365 Route de Saint-Jean-de-Luz, 64310, Saint-Pée-sur-Nivelle",64310,https://latabledanto.fr/,43.3556827,-1.5634178
+11982958486,node,Pizza Nana,restaurant,Bayonne,"365 Route de Saint-Jean-de-Luz, 64310, Saint-Pée-sur-Nivelle",64310,,43.3560085,-1.5628946
+11982958488,node,Le Fronton,restaurant,Bayonne,"706 Route de Saint-Jean-de-Luz, 64310, Saint-Pée-sur-Nivelle",64310,,43.3560047,-1.5683286
+11983068614,node,Kinka Restaurant Bar,restaurant,Bayonne,"684 Rue de Errota Berria, 64310, Saint-Pée-sur-Nivelle",64310,https://www.kinka.eus/fr/restaurant/restaurant-st-pee-sur-nivelle,43.3608874,-1.5805285
+11983099422,node,"Entre Nous, Comptoir à Pizzas",restaurant,Bayonne,"805 Route de Saint-Jean-de-Luz, 64310, Ascain",64310,,43.3562848,-1.6319084
+12001148578,node,Brassa Luna,restaurant,Bayonne,"90 Avenue Henri de Navarre, 64100, Bayonne",64100,,43.5039868,-1.4455004
+12001148582,node,O'Snack,restaurant,Bayonne,"90 Avenue Henri de Navarre, 64100, Bayonne",64100,https://www.osnack.fr/,43.5036493,-1.4456243
+12022663512,node,Crocodiles,restaurant,Bayonne,"Place Koxe Arbiza, 64500, Ciboure",64500,https://crocodiles-restaurant.fr/,43.3879451,-1.6848729
+12027847357,node,La Maison B,restaurant,Bayonne,"2 Rue des Pontots, 64600, Anglet",64600,https://maison-b.bio/,43.4936507,-1.4967545
+12027958201,node,Brasserie Du Motard,restaurant,Bayonne,,,,43.4659861,-1.499549
+12036319143,node,Petit Désir,restaurant,Bayonne,,,https://petit-desir.fr/,43.4810276,-1.5127662
+12036482953,node,Bobby,restaurant,Bayonne,"3 Rue Marion Garay, 64500, Saint-Jean-de-Luz",64500,,43.3866116,-1.6626277
+12038176157,node,Muskoka,restaurant,Bayonne,"11 Avenue du Rayon Vert, 64600, Anglet",64600,https://www.facebook.com/muskokamimizan/,43.5009724,-1.5390556
+12038308740,node,Pâtes d'Ours,restaurant,Bayonne,"66, 64600, Anglet",64600,https://foodcollect.fr/store/pates-d-ours,43.4940182,-1.5178144
+12038328806,node,Kunitomi,restaurant,Bayonne,"79 Rue de Hausquette, 64600, Anglet",64600,https://kunitomi.fr/,43.4938656,-1.5101105
+12041569042,node,La Ferme Gourmande,restaurant,Bayonne,"Maison Landaburi, Lieu-dit Landaburia, 64780, Ossès",64780,https://www.lafermegourmande.fr/,43.2589589,-1.2621695
+12047286816,node,Anaiak,restaurant,Bayonne,,,,43.5020098,-1.5403852
+12063731069,node,Iguzkian,restaurant,Bayonne,,,,43.3711194,-1.7842239
+12065984769,node,Hôtel Serge Blanco,hotel,Bayonne,,,,43.371246,-1.7855582
+12066116970,node,Bi Ur Arte,restaurant,Bayonne,,,,43.3726321,-1.7766867
+12066505169,node,La Vinotek,restaurant,Bayonne,,,,43.3706825,-1.7847532
+12066846669,node,Restaurant Olivier,restaurant,Bayonne,,,,43.3716343,-1.7835292
+12070407869,node,Café De La Place,restaurant,Bayonne,,,,43.4825711,-1.5642388
+12071240469,node,Le Bidassoa,restaurant,Bayonne,,,,43.37072,-1.7856127
+12072208369,node,Chez Poulpe,restaurant,Bayonne,,,,43.4007832,-1.4572376
+12084767023,node,Basuku,restaurant,Bayonne,"5 Rue Erretegia, 64210, Bidart",64210,https://www.instagram.com/basuku.restaurant/?hl=fr,43.4395961,-1.590083
+12099230009,node,L'Océanic,restaurant,Bayonne,,,,43.4075198,-1.6377456
+12120435470,node,Délice Burek,restaurant,Bayonne,,,,43.4905261,-1.4787293
+12140432847,node,Le Bercail,restaurant,Bayonne,,,,43.4813569,-1.450242
+12181771164,node,Le repère,restaurant,Bayonne,,,,43.4659814,-1.282092
+12228258701,node,Bimbo,restaurant,Bayonne,,,,43.4797978,-1.5584964
+12252376826,node,Sunside Café Anglet,restaurant,Bayonne,,,https://www.sunsidecafe.com/,43.5009138,-1.5411814
+12271672210,node,L'Indigo,restaurant,Bayonne,,,,43.5007476,-1.5421118
+12278689411,node,JATETXEA Restaurant ldes joncaux,restaurant,Bayonne,,,,43.3466754,-1.7722111
+12299711388,node,Aureka,restaurant,Bayonne,,,https://www.aukera-lcdp.com,43.4247102,-1.395261
+12319141302,node,Harremanak - Port des Pêcheurs,restaurant,Bayonne,,,,43.4830891,-1.5649239
+12327155940,node,Bouillon Français,restaurant,Bayonne,"Place du Général-Leclerc, 64600, Anglet",64600,https://bouillon-francais.com/,43.4949722,-1.5290678
+12329350245,node,La Table de Megumi,restaurant,Bayonne,"15 Quai Maurice Ravel, 64500, Ciboure",64500,,43.385271,-1.6675259
+12329350251,node,Belhabar,restaurant,Bayonne,"41 Avenue du Commandant Passicot, 64500, Ciboure",64500,,43.3936876,-1.6851211
+12331649229,node,Club House du Golf de Chiberta,restaurant,Bayonne,,,,43.5127535,-1.5251027
+12360179102,node,Polo bistrot,restaurant,Bayonne,,,https://www.polobistrot.fr/,43.4727512,-1.5560017
+12382693726,node,L'appartenance,restaurant,Bayonne,,,,43.4892485,-1.4737996
+12382693733,node,Haragia,restaurant,Bayonne,,,https://haragia.com/,43.4889168,-1.4739342
+12382693735,node,Le Kosy,restaurant,Bayonne,,,,43.4889713,-1.4731637
+12382720418,node,Au Quignon des Halles,restaurant,Bayonne,,,,43.4900999,-1.4754027
+12409500427,node,Chez Enzito,restaurant,Bayonne,,,,43.4929614,-1.4520608
+12415399681,node,Le Petit Cordelier,restaurant,Bayonne,,,,43.4892551,-1.473661
+12435122307,node,La Fine Pâte,restaurant,Bayonne,,,,43.5039816,-1.5037454
+12441704101,node,Elizaberriko Etxeberria,restaurant,Bayonne,,,,43.3921613,-1.3241969
+12509571634,node,Restaurant Bonnet,restaurant,Bayonne,"5 Route d'Ahetze, 64310, Saint-Pée-sur-Nivelle",64310,https://www.hotel-bonnet.com/,43.3564908,-1.5694029
+12514979015,node,Relais de Chiberta,restaurant,Bayonne,,,https://relaisdechiberta.com/,43.5057775,-1.5236601
+12555976043,node,Bizipoz Hôtel,hotel,Bayonne,"11 Rue Marion Garay, 64500, Saint-Jean-de-Luz",64500,,43.3868203,-1.6625779
+12589808202,node,Bistrot Angeluan,restaurant,Bayonne,,,,43.4862168,-1.5499797
+12643034464,node,Lily Woks and Sushis,restaurant,Bayonne,"11 Place du Trinquet, 64220, Saint-Jean-Pied-de-Port",64220,,43.1641754,-1.2363546
+12643108221,node,Sagarnotegia,restaurant,Bayonne,"115 Rue de Pertikenea, 64120, Saint-Palais",64120,,43.3227882,-1.0289092
+12662260802,node,Pasaia Guethary,restaurant,Bayonne,,,,43.42701,-1.6085288
+12662263601,node,La Table de Megumi,restaurant,Bayonne,"15 Quai Maurice Ravel, 64500, Ciboure",64500,https://www.instagram.com/latabledemegumi?igsh=MTVjYnBqM3B4Nm81dw==,43.3852758,-1.6674592
+12666768552,node,Résidence Orfea Hendaye,hotel,Bayonne,"62 Boulevard du Général de Gaulle, 64700, Hendaye",64700,,43.3549149,-1.7790758
+12671239240,node,Erdiko Thalazur Saint-Jean-de-Luz,restaurant,Bayonne,"Place Maurice Ravel, 64500, Saint-Jean-de-Luz",64500,https://www.thalazur.fr/,43.3910083,-1.6608195
+12671622164,node,Résidence La Réserve,hotel,Bayonne,"Rue Gaëtan Bernoville, 64500, Saint-Jean-de-Luz",64500,https://www.hotel-lareserve.com,43.4019784,-1.6585943
+12672227672,node,Odalys Hôtel Erromardie,hotel,Bayonne,,,https://www.odalys-vacances.com,43.4039675,-1.6416646
+12825801101,node,Pluviôse,restaurant,Bayonne,,,,43.3876614,-1.6622651
+12840736201,node,The Bayou,restaurant,Bayonne,,,,43.4852605,-1.5480897
+12843632101,node,Freya,restaurant,Bayonne,,,,43.4866559,-1.5496935
+12847122601,node,Le bouxon,restaurant,Bayonne,"Karrikako bidea, 64480",64480,https://www.le-bouxon-halsou-restaurant.fr/la-carte-le-bouxon-restaurant-halsou,43.3760664,-1.4242562
+12875545872,node,L'étape,restaurant,Bayonne,,,,43.4441942,-1.0503477
+12880498799,node,La Canaillerie,restaurant,Bayonne,,,,43.5011083,-1.5418545
+12880508601,node,Le Reef,restaurant,Bayonne,,,,43.5010314,-1.5419232
+12925278200,node,La Concha,restaurant,Bayonne,,,https://bookings.zenchef.com/results?rid=376016&pid=1001,43.5271796,-1.5224732
+12927593520,node,L'Océan,restaurant,Bayonne,7 Esplanade des Gascons,,https://loceanchambredamour.fr/,43.5004048,-1.5422191
+12927763183,node,Simone Crêperie,restaurant,Bayonne,,,,43.4963262,-1.5384565
+12927764232,node,Smash me,restaurant,Bayonne,,,,43.4963409,-1.5386315
+12928131616,node,La Pizzeria de l'Océan,restaurant,Bayonne,,,,43.5010768,-1.5397486
+12928266333,node,La Pizz’,restaurant,Bayonne,,,,43.5010352,-1.5392206
+12952021096,node,Chez Swan,restaurant,Bayonne,,,,43.4578237,-1.5030547
+12956143982,node,L'Inattendu,restaurant,Bayonne,,,,43.5002887,-1.5410839
+12956145413,node,Le 826,restaurant,Bayonne,,,http://www.le826.fr/,43.5002587,-1.5411538
+12956379238,node,Loujo,restaurant,Bayonne,,,,43.4980578,-1.53848
+12956451293,node,Rond,restaurant,Bayonne,,,https://www.rond-pizza.fr/,43.4949314,-1.5334979
+12959819049,node,La Grange,restaurant,Bayonne,,,,43.4922424,-1.296804
+12980815418,node,Trallallà,restaurant,Bayonne,,,,43.5210455,-1.502394
+12999105150,node,Pause Pizza,restaurant,Bayonne,,,,43.4769266,-1.4563729
+13003897753,node,Le Bayonne Hôtel & Spa,hotel,Bayonne,,,,43.4853784,-1.4754295
+13006016476,node,Villa La Renaissance,hotel,Bayonne,,,,43.4821105,-1.4684274
+13066263056,node,Zuzulua,restaurant,Bayonne,,,,43.321629,-1.55014
+13074806580,node,Chez Paula,restaurant,Bayonne,,,,43.5114541,-1.2048201
+13076020023,node,Chez Odile,hotel,Bayonne,65 Place du Château Salha,,,43.4753344,-1.2036366
+13089515208,node,,restaurant,Bayonne,,,,43.3535598,-1.4493347
+13094135601,node,Aroberri,restaurant,Bayonne,,,,43.355988,-1.5504794
+13121535601,node,Etchehandia,restaurant,Bayonne,,,,43.3413006,-1.4495885
+13123702501,node,Le jardin,restaurant,Bayonne,"4 Avenue Jaulerry, 64200",64200,,43.4806679,-1.5601582
+13131528656,node,,restaurant,Bayonne,,,,43.3242547,-1.60115
+13136681396,node,,hotel,Bayonne,,,,43.3564322,-1.550404
+13142726153,node,Ragazzi da Peppone,restaurant,Bayonne,,,,43.4816151,-1.5612728
+13142726172,node,Maison Garnier,hotel,Bayonne,,,,43.4804187,-1.5633108
+13143930732,node,Kreyol Beach,restaurant,Bayonne,,,,43.5010524,-1.5397894
+13152934659,node,Chab',restaurant,Bayonne,,,,43.5117119,-1.4406762
+13155000701,node,Hotel Saint James,hotel,Bayonne,"1 Rue des Halles, 64200",64200,https://hotelsaintjames.fr/,43.4813396,-1.5628966
+13158020106,node,Chez Josette,restaurant,Bayonne,,,,43.4894794,-1.47561
+13158240689,node,Saveurs & Pizzas,restaurant,Bayonne,"16 Avenue des Allées, 64700, Hendaye",64700,http://saveursetpizzas.fr/,43.3559593,-1.7744348
+13179784307,node,Chô Chaï,restaurant,Bayonne,,,,43.487718,-1.5363956
+13188348063,node,Casa Pizza,restaurant,Bayonne,,,,43.3627001,-1.698831
+13190799357,node,Rotisserie Rouge Gorge,restaurant,Bayonne,,,,43.4808585,-1.5340104
+13206943329,node,La Ferme Ilharregui Baita,restaurant,Bayonne,,,,43.3612157,-1.7225842
+13208653338,node,Orhoïtza,hotel,Bayonne,,,,43.37091,-1.7811249
+13229847083,node,Luz Pizza Urrugne,restaurant,Bayonne,,,,43.345356,-1.6928414
+13229896340,node,Chez Suzette,restaurant,Bayonne,,,,43.3109865,-1.6893276
+13261731955,node,L'Alchimie,restaurant,Bayonne,,,,43.4812324,-1.5622569
+13287933988,node,Résidence Château d'Acotz,hotel,Bayonne,,,,43.4104543,-1.6236117
+13325781801,node,Petit Grill Basque,restaurant,Bayonne,,,,43.3890316,-1.6624896
+13329004850,node,Papypizz's,restaurant,Bayonne,,,,43.3887724,-1.6646163
+13361539742,node,Le Votre,restaurant,Bayonne,,,,43.4643993,-1.50246
+13374083601,node,AUZOKO,restaurant,Bayonne,,,,43.4816349,-1.5588936
+13383619311,node,Le Cellier,restaurant,Bayonne,,,,43.4974159,-1.5064898
+13384307401,node,PIUMA,restaurant,Bayonne,,,,43.461612,-1.5401297
+13388900759,node,Lucie Ultra Frais,restaurant,Bayonne,,,https://lucie-ultrafrais.fr/,43.4639289,-1.5152047
+13392674317,node,Fargeot,restaurant,Bayonne,"5 Rue Philippe Veyrin, 64500, Saint-Jean-de-Luz",64500,,43.3859591,-1.6558344
+13434568401,node,Sakae,restaurant,Bayonne,,,,43.4678243,-1.553373
+13481618701,node,Smashé,restaurant,Bayonne,,,https://www.smashegang.com/,43.481608,-1.5588259
+13551268109,node,Ô Chalet,restaurant,Bayonne,,,,43.5009976,-1.5389712
+13644631272,node,Balaki,restaurant,Bayonne,,,,43.3329273,-1.4083204
+13654439765,node,Xoko Goxoa,restaurant,Bayonne,"1748 Route Zuzinate, 64220, Saint-Michel",64220,https://www.hotel-xoko-goxoa.com/,43.1356144,-1.2216845
+13654507087,node,Hôtel Pecoitz,hotel,Bayonne,"37 Chemin de Plaza, 64220, Aincille",64220,https://hotel-pecoitz-pays-basque.com,43.1448906,-1.195299
+13662513565,node,Arka,restaurant,Bayonne,"35 Santa Maria Poghjuko karrika, 64310, Sare",64310,https://arka.eus/,43.312671,-1.5812648
+13662776101,node,Asinerie de Pierretoun,restaurant,Bayonne,,,https://www.anes-pays-basque.com/?url=coin-gourmand,43.4129542,-1.1961365
+13673683710,node,Hôtel Restaurant du Chêne,restaurant,Bayonne,"979 Elizako bidea, 64250, Itxassou",64250,https://www.lechene-itxassou.com/,43.3253022,-1.4046148
+13684088447,node,Hôtel Maison Chiberta,hotel,Bayonne,,,https://www.hotelmaisonchiberta.com,43.5132193,-1.5241409
+13765912829,node,La Brigade,restaurant,Bayonne,,,https://www.la-brigade.fr/,43.4821907,-1.50622
+13786705701,node,Deoun,restaurant,Bayonne,,,,43.4740504,-1.564609
+13794964301,node,Gatxi,restaurant,Bayonne,,,,43.4810268,-1.5581426
+13811406571,node,Divino,restaurant,Bayonne,,,,43.4946682,-1.5287307
+13824216600,node,Lafitenia Resort,hotel,Bayonne,215 Gazineneko bidea,,https://www.lafiteniaresort.com/,43.4145167,-1.624587
+13827689998,node,Restaurant Pourteau,restaurant,Bayonne,,,,43.3884426,-1.4302652
+13827922003,node,Pizza Labia,restaurant,Bayonne,,,,43.4374431,-1.4533375
+13830326772,node,L'Envol,restaurant,Bayonne,,,,43.4855117,-1.4654759
+13856065319,node,Bistrot Toqué,restaurant,Bayonne,,,https://bistro-toque-bayonne.fr/reservation-bistro-toque-anglet/,43.4881114,-1.5033509
+13903726743,node,Le Jardin de la Paillote Bleue,restaurant,Bayonne,,,https://lejardindelapaillotebleue.com/,43.5032384,-1.5359776
+13907677901,node,Damico's,restaurant,Bayonne,"127 Route de Bayonne, 64220",64220,,43.1632607,-1.2406755
+13949695501,node,creperie biarritz sarrasin,restaurant,Bayonne,"6 Avenue de la Marne, 64200",64200,http://biarritz-sarrasin.fr,43.4840348,-1.5566769
+13951391766,node,Résidence Mer et Golf,hotel,Bayonne,,,https://meretgolf.fr/,43.4935781,-1.5448198
+13992707133,node,Pasaia,restaurant,Bayonne,,,,43.4980137,-1.5112592

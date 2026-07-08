@@ -1,0 +1,15 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+707729988,node,Ibis Styles,hotel,Beaulieu-sur-Mer,06310,06310,https://www.accorhotels.com/,43.7062577,7.33105
+780409815,node,Hôtel Carlton,hotel,Beaulieu-sur-Mer,06310,06310,,43.7044895,7.3290151
+780424352,node,Le Havre Bleu,hotel,Beaulieu-sur-Mer,06310,06310,,43.7055939,7.3274365
+2195368716,node,Pourquoi Pas,restaurant,Beaulieu-sur-Mer,,,,43.7106392,7.33582
+4225736803,node,Riviera,hotel,Beaulieu-sur-Mer,,,http://www.hotel-riviera.fr/,43.7059794,7.3337884
+4225736807,node,La Table de la Réserve,restaurant,Beaulieu-sur-Mer,,,https://www.reservebeaulieu.com/luxury-hotel/french-gastronomic-restaurant/la-table-de-la-reserve/,43.7058087,7.3348111
+4225736808,node,La Réserve de Beaulieu & Spa,hotel,Beaulieu-sur-Mer,,,https://www.reservebeaulieu.com/,43.7057299,7.3353227
+4985180022,node,Anao Beach,restaurant,Beaulieu-sur-Mer,"Avenue Fernand Dunan, 06310",06310,https://anaoplage.fr/,43.7028557,7.3300749
+6028526988,node,Le Chaudron,hotel,Beaulieu-sur-Mer,06310,06310,,43.7022103,7.3271018
+6988820378,node,African Queen,restaurant,Beaulieu-sur-Mer,,,,43.7102148,7.3355936
+8783532475,node,Baia Bella,restaurant,Beaulieu-sur-Mer,,,https://www.baiabella.com/,43.7113652,7.3370389
+9763762339,node,Ambrosia,restaurant,Beaulieu-sur-Mer,"Port de plaisance, 06310, Beaulieu-sur-Mer",06310,,43.7105434,7.3357628
+9770729932,node,Le Fabuleux Destin,restaurant,Beaulieu-sur-Mer,"Quai du Ponant, 06310, Beaulieu-sur-Mer",06310,,43.7098463,7.3355187
+13618510581,node,,restaurant,Beaulieu-sur-Mer,,,,43.702883,7.3294458

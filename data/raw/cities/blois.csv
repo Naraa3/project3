@@ -1,0 +1,172 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+267385690,node,La Chanterelle,restaurant,Blois,,,https://chanterelle.eatbu.com/?lang=fr,47.6725465,1.5285287
+295875660,node,Le Rhinocéros,restaurant,Blois,,,,47.6839896,1.557269
+567442257,node,Hostellerie du Château,hotel,Blois,2 Rue Maréchal de Lattre,,https://domaine-des-chateaux.fr,47.4816621,1.1889173
+813478129,node,Hôtel du Bellay,hotel,Blois,,,,47.5885787,1.3304976
+821527912,node,Le comptoir des tilleuls,restaurant,Blois,41150,41150,https://domaine-chaumont.fr/fr/hotel-restaurants/le-comptoir-des-tilleuls,47.4767753,1.1823905
+920073793,node,L'Herbe Rouge,restaurant,Blois,,,,47.4697083,1.2685854
+965900882,node,Le Concorde,restaurant,Blois,,,,47.6821218,1.2074695
+1029795178,node,La Flambée,restaurant,Blois,,,,47.6707347,1.2380421
+1414585283,node,Loire Kafé,restaurant,Blois,"Lac de Loire D951, 41350, Vineuil",41350,http://traineurs-de-loire.com/loirekafe/,47.607778,1.3751886
+1436569468,node,Au bouchon Lyonnais,restaurant,Blois,,,,47.5856025,1.3326193
+1448840509,node,Le Castelet,restaurant,Blois,41000,41000,,47.5849568,1.3317468
+1486942330,node,La Scaleta,restaurant,Blois,,,https://la-scaleta.fr/restaurant-blois,47.5887301,1.3310962
+1502247421,node,L'Orée de Chambord,hotel,Blois,"14 Route de Chambord, 41250, Maslives",41250,https://www.loreedechambord.com/,47.6319569,1.4805284
+1856428584,node,Hôtel du Cygne,hotel,Blois,"5 Rue René Masson, 41250",41250,https://www.hotelducygne.com,47.5482014,1.5410437
+1859401739,node,Sorrente,restaurant,Blois,"11 Place de la Halle, 41250",41250,,47.5481632,1.5412775
+1879330793,node,Manoir Bel Air,hotel,Blois,"1, 41500, Saint-Dyé-sur-Loire",41500,https://manoirbelair.com/,47.658274,1.4946705
+1932180271,node,Veget'Halles,restaurant,Blois,,,https://www.facebook.com/profile.php?id=100057131303709,47.5920358,1.3366795
+1973553009,node,,restaurant,Blois,,,,47.5772266,1.2169135
+2025438369,node,Maison Tatami,restaurant,Blois,,,,47.5921168,1.3301872
+2036003347,node,,restaurant,Blois,,,,47.4379499,1.2939829
+2380663614,node,Château de Bois Renard,hotel,Blois,,,,47.6682556,1.5781251
+2385221074,node,La Bigoudène,restaurant,Blois,,,,47.5492514,1.5428333
+2407820929,node,O'Blend,restaurant,Blois,,,,47.5854415,1.3247778
+2407870928,node,Le Saint-Jacques,hotel,Blois,,,https://www.hotelsaintjacquesblois.com,47.5849331,1.3243916
+2407938144,node,L'agriculture,restaurant,Blois,,,,47.5387099,1.500463
+2428609347,node,Saint Martin,restaurant,Blois,,,,47.6498961,1.6091879
+2432510503,node,Hostellerie les Couronnes,hotel,Blois,,,,47.4999029,1.2260143
+2504457344,node,Auberge du Bon Terroir,restaurant,Blois,20,,https://auberge-bon-terroir.fr/,47.6650068,1.523725
+2977773098,node,Les Armes du Château,restaurant,Blois,"Place Saint-Louis, 41250, Chambord",41250,https://relaisdechambord.com/lesarmesduchateau/,47.6158672,1.5142804
+2977773101,node,Hôtel du Château,hotel,Blois,,,,47.5397363,1.5039175
+2977773104,node,Le Saint-Louis,restaurant,Blois,"41250, Chambord",41250,,47.6158802,1.5140989
+2988288441,node,Savourer,restaurant,Blois,,,,47.589241,1.3313198
+2988288448,node,Le Triboulet,restaurant,Blois,,,,47.5855254,1.3320587
+3028407941,node,Au Grand Chancelier,restaurant,Blois,,,,47.4992522,1.4598228
+3227746657,node,Le Col Vert,restaurant,Blois,,,https://www.aubergelecolvert.fr/,47.5357812,1.6081308
+3488810979,node,La maison,restaurant,Blois,,,,47.5841407,1.3302617
+3488810980,node,Les Banquettes Rouges,restaurant,Blois,,,https://linktr.ee/lesbanquettesrouges,47.5843868,1.330695
+3640194023,node,Domaine des Hauts de Loire,hotel,Blois,"79 Rue Gilbert Navard, 41150, Onzain",41150,http://domainehautsloire.com/,47.5084346,1.1429061
+3671974100,node,La Parenthèse,restaurant,Blois,2 Rue du Maréchal Leclerc,,,47.4816618,1.1892572
+3672000754,node,,restaurant,Blois,,,,47.6672113,1.5300154
+3703654738,node,L'auberge du Château,restaurant,Blois,,,,47.7692016,1.4436342
+3709755025,node,La Croix Blanche,restaurant,Blois,,,,47.4716168,1.1254847
+3741245919,node,Osaka,restaurant,Blois,,,https://www.osaka-blois.fr/,47.5853253,1.3325521
+3745860039,node,Restaurant Universitaire La Gabare,restaurant,Blois,,,,47.5848589,1.3330752
+3812439085,node,Chez Jym,restaurant,Blois,"26, 41220, Saint-Laurent-Nouan",41220,,47.7171974,1.6118084
+3956680977,node,Appart'Tourisme Blois Châteaux de la Loire,hotel,Blois,,,,47.5850912,1.3321084
+4199162799,node,First Inn Hotel,hotel,Blois,,,,47.6113629,1.3360822
+4266061790,node,Château de Colliers,hotel,Blois,"Route de Blois, 41500, Muides-sur-Loire",41500,https://www.chateau-colliers.com/,47.665628,1.515083
+4310897845,node,balladins Blois,hotel,Blois,,,https://www.balladins.com/mon-hotel/blois/,47.6134455,1.3364941
+4512023298,node,Chez Madeleine,restaurant,Blois,,,http://www.restaurant-chez-madeleine.com/,47.5121233,1.4557547
+4512043546,node,Relais des Trois Châteaux,hotel,Blois,1 Place Victor Hugo,,https://www.relaisdestroischateaux.com/,47.5091114,1.4548268
+4512846171,node,La Pergola,restaurant,Blois,74,,http://www.restaurant-pizzeria-cour-cheverny.fr,47.5086995,1.4548399
+4512851446,node,La Vieille Auberge,restaurant,Blois,34,,,47.5093198,1.4526744
+4513233001,node,Le Saint-Hubert,hotel,Blois,122,,https://www.hotel-sthubert.com/,47.5072964,1.4575114
+4513233002,node,,hotel,Blois,,,https://www.hotel-sthubert.com/restaurant,47.5073176,1.4574776
+4659267790,node,L'orée des chateaux,hotel,Blois,"9 bis, 41250",41250,http://www.oree-des-chateaux.com/158-contact.html,47.5532831,1.5379066
+4733078329,node,Kyriad,hotel,Blois,"Rue de la Vallée Maillard, 41000",41000,,47.6124414,1.3336079
+4745860212,node,Le Pavillon,hotel,Blois,"2, 41000, Blois",41000,https://www.hotelrestaurant-lepavillon.com/fr/hotel-blois-centre-ville-pas-cher-le-pavillon-accueil.php,47.5840729,1.3395024
+4933316593,node,Le Prieuré,restaurant,Blois,"36, 41150, Chaumont-sur-Loire",41150,https://www.facebook.com/restaurantleprieure41/,47.482237,1.1925323
+4933316596,node,La Tavola des Lys,restaurant,Blois,"71, 41150, Chaumont-sur-Loire",41150,https://www.hoteldesbordsdeloire.com/,47.4802312,1.1836726
+4933316597,node,La Madeleine de Proust,restaurant,Blois,"33, 41150, Chaumont-sur-Loire",41150,,47.4821178,1.1927877
+4933316599,node,Hôtel de la Loire,hotel,Blois,"71, 41150, Chaumont-sur-Loire",41150,https://www.hoteldesbordsdeloire.com/,47.4801943,1.1836471
+5028363521,node,Au Rendez-Vous des Pêcheurs,restaurant,Blois,"27 Rue de Foix, 41000",41000,https://rendezvousdespecheurs.com/,47.5824581,1.3290853
+5130480353,node,La Tartine,restaurant,Blois,,,,47.5870626,1.3359492
+5150389821,node,Family Pizza,restaurant,Blois,3,,,47.5810401,1.3074761
+5284718578,node,,restaurant,Blois,,,,47.487796,1.4616618
+5297326341,node,Côté Hôtel,hotel,Blois,,,https://www.lamaisondacote.fr/cote-hotel,47.6409922,1.4452215
+5297326342,node,Relais de la Loire,restaurant,Blois,,,https://www.relaisdelaloire.fr/fr,47.6411551,1.4454697
+5297326343,node,La Maison d'à Côté,restaurant,Blois,,,https://www.lamaisondacote.fr/,47.6409407,1.4451125
+5525043783,node,Paris - Istanbul,restaurant,Blois,,,,47.7039241,1.5061181
+5525106934,node,,restaurant,Blois,,,,47.7023844,1.5068908
+5525113752,node,Anatolia,restaurant,Blois,,,,47.7020343,1.507081
+5525141264,node,Felicidade Hostel,hotel,Blois,44,,,47.7019874,1.5072848
+5573404231,node,Le Commerce,restaurant,Blois,"10 Rue du Commerce, 41240, Ouzouer-le-Marché",41240,,47.911191,1.5274557
+5693086221,node,Les Catalpas,restaurant,Blois,1 Rue du Grenier à Sel,,,47.5876561,1.3371418
+5775010331,node,La Creusille,restaurant,Blois,,,,47.5855288,1.3422743
+5775044719,node,La Pause en Loire,restaurant,Blois,,,,47.5862205,1.3435667
+5805141627,node,,restaurant,Blois,,,,47.4900686,1.2600535
+6127978985,node,L'auberge des 3 traiteurs,restaurant,Blois,,,,47.6045713,1.1406948
+6191741992,node,Brasserie-Restaurant des Trois Marchands,restaurant,Blois,,,,47.5088473,1.454966
+6198706352,node,Hôtel Restaurant Le Monarque,hotel,Blois,"61 Rue Porte Chartraine, 41000, Blois",41000,https://hotel-lemonarque.com/,47.5888738,1.3314266
+6258317785,node,Les Arcades,restaurant,Blois,,,,47.5855176,1.3332579
+6316032271,node,Le Clipper,restaurant,Blois,,,https://www.leclipper.fr/,47.5858693,1.3333358
+6380420184,node,Brasserie du Golf de la Carte,restaurant,Blois,,,,47.5000115,1.2251429
+6716166248,node,Hôtel ibis Styles Blois Centre Gare,hotel,Blois,"16, 41000, Blois",41000,,47.5835498,1.3223432
+6935990747,node,Best Western Blois Chateau,hotel,Blois,"8 Avenue Jean Laigret, 41000, Blois",41000,,47.5854113,1.3246305
+7128775388,node,Le Grand Saint-Michel,restaurant,Blois,"Place Saint-Louis, 41250, Chambord",41250,https://relaisdechambord.com/legrandsaintmichel/,47.6164265,1.5138878
+7137555886,node,Bistrot des Hauts de Loire,restaurant,Blois,,,,47.5091667,1.1430668
+7137559185,node,Domaine des Hauts de Loire,restaurant,Blois,79 Rue Gilbert Navard,,https://www.hautsdeloire.com/,47.5082922,1.142803
+7202060767,node,Appart'City Blois,hotel,Blois,,,,47.58354,1.3248349
+7356556077,node,Auberge du Pressoire,restaurant,Blois,"1, 41290, Rhodon",41290,,47.7533231,1.2677877
+7430438701,node,Hôtel Ibis Blois Centre Château,hotel,Blois,,,,47.5870932,1.3314484
+7553581579,node,Café Hôtel Restaurant de la Gare,restaurant,Blois,,,,47.4917326,1.1842536
+7553632877,node,Café Hôtel Restaurant de la Gare,hotel,Blois,,,,47.4917942,1.1844367
+7859163985,node,L'Espérance,restaurant,Blois,,,,47.6579947,1.4995052
+7993150237,node,Le Comptoir de Mamie Bigoude,restaurant,Blois,,,https://comptoirmamiebigoude.com/restaurant-breton-blois,47.5863289,1.3338693
+8143498845,node,Au Bistrot d'Eugénie,restaurant,Blois,,,https://www.facebook.com/Au-Bistrot-dEug%C3%A9nie-113216063435101/,47.5923956,1.4527978
+8342926648,node,Ibis Budget Blois centre,hotel,Blois,"4, 41000",41000,http://www.ibis.com/fr/hotel-2553-ibis-budget-blois-centre/index.shtml,47.5872639,1.3279028
+8909636787,node,L'Hote Antique,restaurant,Blois,5,,,47.587578,1.3283365
+9131853463,node,Anne de Bretagne,hotel,Blois,,,,47.5866613,1.3270127
+9164988054,node,Assa,restaurant,Blois,,,,47.5698728,1.3075307
+9257862703,node,La Case Créole,restaurant,Blois,,,,47.5925971,1.3309721
+9370301261,node,Au Petit Grec,restaurant,Blois,,,,47.5893949,1.3308713
+9397193382,node,Chez Philippe,restaurant,Blois,,,,47.590626,1.3350444
+9420724938,node,O'Zénith,restaurant,Blois,,,,47.5989608,1.3284387
+9565106964,node,La Ferme des 3 Maillets,hotel,Blois,"RD2152, 41500, Avaray",41500,https://www.ferme-3maillets.fr/,47.7294328,1.5538767
+9722524964,node,Aux délices d'Asie,restaurant,Blois,,,,47.5727819,1.3562845
+9724787709,node,Louise de Savoie,hotel,Blois,,,http://hotel-blois.com,47.5848466,1.3248087
+9748777300,node,Restaurant du Lycée de l'Hôtellerie et du Tourisme,restaurant,Blois,,,https://lycee-hotellerie-tourisme.fr,47.5718295,1.3066973
+9748777301,node,Hôtel du Lycée d'hotellerie et du Tourisme,hotel,Blois,"174, 41000, Blois",41000,,47.5722453,1.3063018
+9906071181,node,Fou D'Loire,restaurant,Blois,22 Promenade de Trouillat,,https://foudloire.fr/,47.4806109,1.1846506
+9907630894,node,L'Aïoli Chez Christ,restaurant,Blois,2 Avenue de la République,,,47.497449,1.1789502
+9907653874,node,Chez Poppy,restaurant,Blois,22,,https://www.facebook.com/Chez-Poppy-496524014131779/,47.5233639,1.2437698
+9908005766,node,L'Embarcadère,restaurant,Blois,16 quai Ulysse Besnard,,,47.5715785,1.3102973
+10012140317,node,Arménie restauration,restaurant,Blois,,,,47.5849491,1.3324816
+10162630917,node,La Salamandre,restaurant,Blois,"1, 41220",41220,,47.6296295,1.5959817
+10204873854,node,Le Lion D'Or,restaurant,Blois,1,,,47.4945227,1.261126
+10314773181,node,Les 2 Roues,restaurant,Blois,"28, 41120, Les Montils",41120,,47.4983512,1.2986599
+10588833714,node,Le Bœuf Gourmand,restaurant,Blois,,,,47.5905607,1.3348782
+10840302638,node,,restaurant,Blois,,,,47.6061341,1.3313882
+10904668649,node,Relais de la Loire,hotel,Blois,,,https://www.relaisdelaloire.fr/fr,47.6411685,1.4455433
+11017350883,node,La renaissance,restaurant,Blois,,,,47.822851,1.2941375
+11138465605,node,Brut Maison de Cuisine,restaurant,Blois,,,,47.5834461,1.3384333
+11184189037,node,Côté Loire,restaurant,Blois,"2 Place de la Grève, 41000, Blois",41000,https://www.coteloire.com/restaurant-hotel-restaurant-blois,47.5827848,1.3308535
+11262072038,node,Au Gré du Vent,restaurant,Blois,,,,47.5389467,1.5023013
+11315878607,node,Oumami,restaurant,Blois,,,,47.5485742,1.5414067
+11315878608,node,Le rendez-vous des gourmets,restaurant,Blois,,,,47.5491657,1.5407245
+11315878609,node,Hôtel de la Bonnheure,hotel,Blois,,,,47.5479695,1.5411633
+11576071506,node,Sushi Corene,restaurant,Blois,,,,47.5883343,1.3315563
+11576073289,node,Maymouna,restaurant,Blois,,,,47.5866133,1.330851
+11582093391,node,Royal Grill,restaurant,Blois,,,,47.5917703,1.3229004
+11669157585,node,L'auberge du Moulin,restaurant,Blois,,,,47.5676572,1.3436517
+11738945952,node,Le Médicis,restaurant,Blois,"2 Allée François 1er, 41000, Blois",41000,https://www.le-medicis.com/,47.5843869,1.317443
+11747707037,node,Le Bam,restaurant,Blois,,,https://lebam41.fr,47.5413193,1.5120781
+11832622766,node,Ana M.,restaurant,Blois,"15 Quai de La Saussaye, 41000, Blois",41000,,47.5852935,1.3347239
+11888639222,node,Beelodge Blois,hotel,Blois,1 Rue Germaine Tillion,,https://www.beelodge.com/,47.5858839,1.3247183
+11917913908,node,Palais des L'is,restaurant,Blois,,,,47.7113561,1.2550075
+12014426857,node,Volfoni,restaurant,Blois,,,,47.6079619,1.3287398
+12014426858,node,Buffalo Grill,restaurant,Blois,,,,47.6083229,1.3287049
+12059062039,node,Chez Walter,restaurant,Blois,63 Rue Nationale,,,47.6556708,1.4881799
+12063131052,node,La Détente Gourmande,restaurant,Blois,61,,https://restaurant-chaumont-sur-loire.fr,47.4802814,1.184194
+12093643501,node,,restaurant,Blois,,,,47.511163,1.1055913
+12122325833,node,1846 Restaurant Beelodge,restaurant,Blois,,,,47.5858813,1.324773
+12134451808,node,Domus,restaurant,Blois,,,,47.5623179,1.462546
+12135340062,node,Le Prieuré de Boulogne,hotel,Blois,,,,47.573155,1.5043475
+12146626069,node,L'Odyssée de la Taupinière,restaurant,Blois,"52, Blois",,,47.587886,1.3375645
+12146626070,node,Bro’s Restaurant,restaurant,Blois,36 Rue de la Foulerie,,https://www.brosrestaurant.fr/,47.5873993,1.336943
+12146626071,node,Le Saint James,restaurant,Blois,,,,47.5878229,1.3374822
+12187892857,node,Chez Soan,restaurant,Blois,"1, 41000, Blois",41000,https://chez-soan-blois.eatbu.com/?lang=fr,47.5863882,1.3362387
+12258001054,node,Fleur de Loire,restaurant,Blois,,,https://fleurdeloire.com/en/christophe-hay-restaurant.html,47.5822963,1.337872
+12376016304,node,Léon de Bruxelles,restaurant,Blois,,,,47.5718825,1.3721212
+12425281434,node,,restaurant,Blois,,,,47.586565,1.3157202
+12430570160,node,B&B Hotel,hotel,Blois,,,,47.6098345,1.3334546
+12459148078,node,Les Burgers d'Annie,restaurant,Blois,"2 Rue Saint-Martin, 41000, Blois",41000,https://chezmamieannie.com/,47.5862631,1.3335088
+12777402762,node,REDZZA,restaurant,Blois,"2 Rue Ducoux, 41000, Blois",41000,https://redzza.com/,47.5845629,1.3251396
+12825694298,node,Le Bistrot du Chef,restaurant,Blois,,,,47.5833342,1.3382546
+12880830882,node,Kim's Box,restaurant,Blois,,,,47.57253,1.3559915
+12880889825,node,Wilson Street,restaurant,Blois,,,,47.5820518,1.3422572
+12987650613,node,Territoires de France,restaurant,Blois,,,,47.6657209,1.3870977
+13062241116,node,Les Tisons by Punta Cana,restaurant,Blois,"17 Route Nationale, 41260, La Chaussée-Saint-Victor",41260,https://www.puntacanarestaurant.fr/,47.607317,1.3547625
+13075735501,node,L’entre 2,restaurant,Blois,,,,47.4977881,1.263308
+13096345083,node,La Renaissance,hotel,Blois,,,,47.5875499,1.3280957
+13110943445,node,Au Petit Troglo,restaurant,Blois,,,https://aupetittroglo.fr/,47.4806435,1.1855858
+13228286001,node,Hôtel Le Cosy,hotel,Blois,"3 Route de Vendôme, 41000",41000,,47.6116752,1.3076998
+13392921491,node,Logis Hôtel Restaurant La Diligence,hotel,Blois,,,https://www.hotel-la-diligence.com/,47.6551748,1.6738464
+13392921492,node,La Diligence,restaurant,Blois,,,https://www.hotel-la-diligence.com/restaurant-la-ferte-st-cyr-blois,47.6552879,1.6738497
+13415936241,node,Chez Napoléon,restaurant,Blois,,,,47.4999628,1.1737056
+13415949336,node,La Charbonnette,restaurant,Blois,,,,47.5002856,1.1741914
+13764501401,node,Khmer Wok,restaurant,Blois,"19 Rue de la Justice, 41150",41150,https://khmer-wok-veuzain-sur-loire.eatbu.com,47.5007225,1.1740611
+13962591001,node,Hôtel Auberge du Centre,hotel,Blois,"34 Grande Rue, 41120",41120,https://www.auberge-du-centre.com/,47.4969704,1.3707743
+13965253102,node,La Cour des Rois,restaurant,Blois,"5-7 Rue du Chêne des Dames, 41700",41700,http://lacourdesrois.eatbu.com,47.4988912,1.460345

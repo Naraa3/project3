@@ -1,0 +1,172 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+854903782,node,Première classe,hotel,Biarritz,,,,43.4663954,-1.5405777
+886843917,node,Posada Biarritz,hotel,Biarritz,,,,-34.7936976,-55.5086153
+907595850,node,,restaurant,Biarritz,,,,-34.7936936,-55.5087934
+1361379420,node,Café du Commerce,restaurant,Biarritz,"1 Rue des Halles, 64200, Biarritz",64200,https://www.cafeducommerce-biarritz.com/,43.4813993,-1.5629494
+1361412604,node,Hôtel Cosmopolitain,hotel,Biarritz,1 Rue Gambetta,,https://hotelcosmopolitain.com/,43.4820414,-1.5618977
+1361442955,node,Hôtel Mercure Le Président,hotel,Biarritz,,,,43.4818119,-1.559779
+1361463830,node,Brasserie Gardères,restaurant,Biarritz,,,,43.4825627,-1.559212
+1361467438,node,Comptoir Umami,restaurant,Biarritz,"Avenue Joseph Petit, 64200, Biarritz",64200,,43.4828229,-1.5581029
+1361473274,node,Le Pim'Pi,restaurant,Biarritz,,,,43.4817484,-1.557053
+1362558463,node,Hôtel Best Western Kemaris,hotel,Biarritz,,,,43.4765176,-1.5624959
+1362597014,node,Bar restaurant Bistrot zingué,restaurant,Biarritz,"5 Avenue de la Gare, 64200",64200,,43.4781112,-1.5571093
+1362597015,node,La bonne franquette,restaurant,Biarritz,,,,43.4780809,-1.5567602
+1362597016,node,Los tacos chingones,restaurant,Biarritz,,,,43.4781628,-1.5568088
+1362597018,node,Le TajMahal,restaurant,Biarritz,,,,43.478011,-1.5567337
+1362718060,node,Le Crabe Tambour,restaurant,Biarritz,,,,43.4746072,-1.5636616
+1362718063,node,Chez Bibi,restaurant,Biarritz,,,,43.4745254,-1.5638654
+1362724090,node,Tantina de Burgos,restaurant,Biarritz,"2 Place Beaurivage, 64200",64200,,43.4728777,-1.5667815
+1363034906,node,Grand Tonic Hôtel,hotel,Biarritz,"58 Avenue Édouard VII, 64200, Biarritz",64200,,43.4845262,-1.5568936
+1363042051,node,Hostellerie Victoria,hotel,Biarritz,,,,43.4849856,-1.5544232
+1363045787,node,Xuxu,restaurant,Biarritz,"8bis, 64200",64200,,43.4844249,-1.5483352
+1415224366,node,Le Royalty,restaurant,Biarritz,,,,43.4823514,-1.5607501
+1464304895,node,Octopus,restaurant,Biarritz,"2 Rue Gardères, 64200, Biarritz",64200,https://octopus-biarritz.com/,43.4829443,-1.559571
+1635640446,node,Hôtel Eddouard VII,hotel,Biarritz,,,https://www.hotel-edouardvii.com,43.479262,-1.5623341
+1635645886,node,Hôtel le Biarritz,hotel,Biarritz,,,https://www.hotel-le-biarritz.com/,43.4693977,-1.5692582
+1635645906,node,Le Ponton,restaurant,Biarritz,,,,43.469223,-1.5693349
+1895020129,node,Le Bon coin,hotel,Biarritz,,,,43.4822188,-1.5543702
+1895026557,node,Hôtel Oxo,hotel,Biarritz,,,,43.4817128,-1.5546169
+1895026566,node,Le café des artistes,restaurant,Biarritz,26 Avenue du Maréchal Foch,,https://www.cafedesartistesbiarritz.com/,43.480017,-1.5587227
+1895027968,node,Jules Verne,hotel,Biarritz,,,,43.4785287,-1.555486
+2425157642,node,Casa Juan Pedro,restaurant,Biarritz,,,http://casajuanpedro.com/,43.4830524,-1.565791
+2425157673,node,Chez Albert,restaurant,Biarritz,"51 Allée Port des Pêcheurs, 64200",64200,,43.4831011,-1.5653029
+2425157710,node,Le Corsaire,restaurant,Biarritz,,,,43.4831284,-1.5655281
+2425164179,node,Ventilo Café - Restaurant & Bar,restaurant,Biarritz,"30 Rue Mazagran, 64200",64200,,43.4819511,-1.5648177
+2425164191,node,Crêperie,restaurant,Biarritz,,,,43.4819277,-1.5646773
+2426458192,node,Hôtel Parc Mazon,hotel,Biarritz,,,,43.4777538,-1.5622065
+2426579863,node,Les Terrasses,restaurant,Biarritz,,,,43.478538,-1.564523
+2431603578,node,Maison Plaisir,restaurant,Biarritz,,,,43.4814856,-1.5585135
+2432919072,node,Chez Scott,restaurant,Biarritz,,,,43.4810214,-1.5582216
+2432919077,node,Chez Pilou,restaurant,Biarritz,,,,43.4816765,-1.5580367
+2432919086,node,Hôtel Villa Koegui,hotel,Biarritz,,,,43.4807408,-1.5580851
+2432919091,node,Hôtel Alcyon,hotel,Biarritz,,,,43.481241,-1.5575206
+2432919097,node,La Goulue,restaurant,Biarritz,"3 Rue Étienne Ardoin, 64200",64200,http://www.lagouluebiarritz.com/,43.4805829,-1.5583178
+2432919103,node,Sillon,restaurant,Biarritz,,,,43.4810103,-1.5584573
+2432927642,node,Helbidea - Bistrot locavore,restaurant,Biarritz,,,,43.4818909,-1.5571667
+2433987631,node,Bar Jean,restaurant,Biarritz,"5 Rue des Halles, 64200",64200,https://barjean-biarritz.fr/,43.4812782,-1.5625382
+2433987632,node,Chistera & Coquillages,restaurant,Biarritz,"13 13 Rue des Halles, 64200, Biarritz",64200,https://chisteraetcoquillages.fr/,43.4811368,-1.5618861
+2435452685,node,Bistrot des Halles,restaurant,Biarritz,,,,43.4807533,-1.5624008
+2443499141,node,Cantina Biarritz Bodega Restaurant de Nuit,restaurant,Biarritz,,,,43.4788892,-1.5622154
+2443576986,node,Hôtel Saint-Julien,hotel,Biarritz,,,https://saint-julien-biarritz.com/,43.4790298,-1.5625226
+2702756266,node,Le Bistrot gourmet,restaurant,Biarritz,"18 Rue de la Bergerie, 64200, Biarritz",64200,https://le-bistrot-gourmet.com/,43.4860631,-1.5509466
+2702756268,node,L'Impertinent,restaurant,Biarritz,"5 Rue d'Alsace, 64200, Biarritz",64200,https://www.l-impertinent.fr/,43.486443,-1.5504442
+2796127025,node,L.M.B,restaurant,Biarritz,"58 Avenue Édouard VII, 64200, Biarritz",64200,,43.484464,-1.5568829
+2796181655,node,La Table Basque,restaurant,Biarritz,,,https://www.restaurant-ltb-biarritz.com/,43.4840173,-1.5569158
+2796181656,node,La Crêpe Dentelle,restaurant,Biarritz,,,,43.4840241,-1.5568568
+2796181657,node,Le Bistrot 2 Génie,restaurant,Biarritz,,,,43.4840309,-1.5566502
+2798505757,node,Windsor,hotel,Biarritz,"11 Avenue Édouard VII, 64200, Biarritz",64200,,43.4838927,-1.5584457
+2798505764,node,Happy Days Diner,restaurant,Biarritz,"46 Avenue Édouard VII, 64200, Biarritz",64200,,43.4838587,-1.5580141
+2798505765,node,Le Bellevue,hotel,Biarritz,"5 Avenue Édouard VII, 64200, Biarritz",64200,,43.4835772,-1.5588359
+2799172201,node,La Trattoria,restaurant,Biarritz,"20 Avenue Édouard VII, 64200, Biarritz",64200,,43.4834852,-1.5584406
+3520082111,node,Le O2 Verdun,restaurant,Biarritz,,,,43.4818866,-1.5541852
+3703207825,node,Le Galion,restaurant,Biarritz,,,,43.4840944,-1.5583338
+3731890887,node,Pizzeria Le Capri,restaurant,Biarritz,,,https://www.lecapribiarritz.fr/,43.4826119,-1.5636938
+3871575603,node,Leonie,restaurant,Biarritz,,,http://www.restaurant-leonie.com,43.4828825,-1.5442289
+4147089391,node,Hôtel Les Alizes,hotel,Biarritz,13 Rue du Port-Vieux,,,43.4820713,-1.5662305
+4308055395,node,Arosta,restaurant,Biarritz,52 Avenue Alan Seeger,,,43.4494188,-1.5449932
+4319202491,node,Sushiwave,restaurant,Biarritz,,,,43.4863508,-1.5500134
+4319290089,node,,restaurant,Biarritz,,,,43.4868258,-1.5502478
+4330743199,node,La Petite Plage,restaurant,Biarritz,,,,43.4783499,-1.5645523
+4330743200,node,Arena Biarritz,restaurant,Biarritz,,,,43.4823534,-1.5671689
+4442609251,node,Txinako,restaurant,Biarritz,"4 Rue des Mésanges, 64200, Biarritz",64200,,43.4624768,-1.5392862
+4446544978,node,Snoopduck,restaurant,Biarritz,,,,43.4511544,-1.557443
+4448899184,node,Les Patios d'Eugénie,hotel,Biarritz,32 Avenue de la Reine Victoria,,,43.4851452,-1.5521364
+4578333389,node,Le Comptoir du Foie Gras,restaurant,Biarritz,,,,43.4808691,-1.5624686
+4706405136,node,Auberge 22,restaurant,Biarritz,"22 Rue Harispe, 64200",64200,https://auberge22.fr/,43.4735874,-1.5657735
+4726498189,node,Los dos hermanos,restaurant,Biarritz,"36 Avenue de Verdun, 64200",64200,,43.4816992,-1.5547474
+4789924527,node,Un jour à Peyrassol,restaurant,Biarritz,Avenue de la Reine Victoria,,,43.4853541,-1.5536595
+4789924530,node,Le Majestic,restaurant,Biarritz,,,,43.4852967,-1.5547711
+4822597322,node,Poza,restaurant,Biarritz,"64 Rue Gambetta, 64200",64200,,43.479397,-1.5642859
+4822612421,node,L'Entre Deux,restaurant,Biarritz,"5 Avenue du Maréchal Foch, 64200",64200,https://www.lentredeuxbiarritz.com/,43.4809451,-1.5588098
+4822759232,node,Le Comptoir à Burger,restaurant,Biarritz,"62 Rue Gambetta, 64200",64200,,43.4795279,-1.5642051
+4822819623,node,L'Etable,restaurant,Biarritz,"6 Rue Lavernis, 64200",64200,,43.4825318,-1.5595277
+4847100003,node,Chez Coco,restaurant,Biarritz,"5 Rue Gardères, 64200, Biarritz",64200,,43.4825455,-1.5593255
+4862088921,node,Txik Txak,restaurant,Biarritz,,,,43.4843303,-1.5381972
+4871233715,node,Campanile,hotel,Biarritz,,,,43.4668986,-1.5401446
+4877320049,node,Le Palmarium,restaurant,Biarritz,,,,43.4821591,-1.5658456
+4877320063,node,Palmito,hotel,Biarritz,,,https://www.palmito-biarritz.com/fr,43.4819938,-1.565769
+4877320064,node,Hôtel Georges VI,hotel,Biarritz,,,,43.4821766,-1.5662793
+4877320065,node,Hôtel Marbella,hotel,Biarritz,,,,43.4820501,-1.5660901
+4877320066,node,L'Equinoxe,restaurant,Biarritz,,,,43.482088,-1.5663417
+4877320068,node,Les Baigneuses,hotel,Biarritz,,,,43.4822291,-1.566624
+4877320069,node,Les Baigneuses,restaurant,Biarritz,,,,43.4823065,-1.5667997
+4877320111,node,Hôtel L'Atalaye,hotel,Biarritz,,,,43.4822053,-1.5645513
+4877320112,node,La Marine,hotel,Biarritz,,,,43.4819863,-1.5645768
+4877320120,node,Bouillon Hortense,restaurant,Biarritz,11 Rue Gardères,,,43.4828281,-1.5595215
+4914369269,node,Agri Eder,hotel,Biarritz,13 Rue Peyroloubilh,,https://www.hotel-argieder.fr/,43.4807016,-1.5642316
+4914369619,node,Judicious,restaurant,Biarritz,,,,43.4818199,-1.5647688
+5172904422,node,Le Tandem,restaurant,Biarritz,,,,43.4827925,-1.563645
+5711382686,node,Barranco,restaurant,Biarritz,"Rue Gambetta, 64200, Biarritz",64200,,43.4793705,-1.5640997
+5721802022,node,La P’tite Creperie,restaurant,Biarritz,,,,43.4821592,-1.5661352
+5873254385,node,Bali Bowls,restaurant,Biarritz,"4 Rue Gaston Larre, 64200",64200,,43.4818009,-1.565721
+5927013275,node,Le Gamaritz,hotel,Biarritz,"5 Perspective Côte des Basques, 64200, Biarritz",64200,https://hotel-biarritz-gamaritz.com/,43.4816058,-1.5662182
+6041759137,node,Saline,restaurant,Biarritz,,,,43.4795604,-1.5642039
+6041813604,node,Hôtel Beau-Séjour,hotel,Biarritz,,,,43.4818365,-1.5659514
+6041849234,node,Le Saphir,hotel,Biarritz,,,,43.4817382,-1.5653975
+6076858394,node,Palais de Jade,restaurant,Biarritz,"2 Avenue de la Reine Victoria, 64200, Biarritz",64200,,43.4850217,-1.5561288
+6166374337,node,Restaurant d'Application du Lycée Hôtelier,restaurant,Biarritz,,,,43.4624846,-1.5524381
+6274733931,node,Les 3 Salsas,restaurant,Biarritz,,,,43.4741817,-1.5642678
+6499493786,node,MORI’S,restaurant,Biarritz,,,,43.4819542,-1.5534274
+6759476071,node,La Station,restaurant,Biarritz,,,,43.4595724,-1.5465692
+6813787753,node,La Cantine,restaurant,Biarritz,,,http://www.lacantinebiarritz.com,43.481264,-1.5585332
+6813960405,node,Santosha,restaurant,Biarritz,,,,43.4817399,-1.5573723
+6814013313,node,Frozen Palm,restaurant,Biarritz,,,,43.4809838,-1.5587567
+6817376288,node,Olatua,restaurant,Biarritz,,,,43.4836712,-1.5675644
+6828029868,node,Le Bouchon Biarrot,restaurant,Biarritz,,,https://www.lebouchonbiarrot.com/fr/,43.4851115,-1.5557381
+6852413086,node,Little Trallalà,restaurant,Biarritz,51 bis Rue Gambetta,,,43.4791626,-1.5642468
+6860096385,node,Chez Fanny,restaurant,Biarritz,,,,43.4836394,-1.5623101
+6871213086,node,Le Saleya,restaurant,Biarritz,"34 Rue Gambetta, 64200, Biarritz",64200,,43.4809507,-1.5632206
+6990836830,node,Pavillon du phare,restaurant,Biarritz,"60 bis Esplanade Elisabeth II, 64200, Biarritz",64200,,43.4935636,-1.5540993
+7216291585,node,Le Campero,restaurant,Biarritz,,,,43.4821115,-1.5634264
+7275490985,node,La Belloteka,restaurant,Biarritz,,,,43.4806291,-1.5624752
+7350331594,node,You Sushi,restaurant,Biarritz,,,,43.4766224,-1.547939
+8000143006,node,Le petit hôtel,hotel,Biarritz,,,,43.4828485,-1.5596501
+8000145796,node,OPIOM,restaurant,Biarritz,64200,64200,,43.4854606,-1.5569646
+8000147635,node,Akena,hotel,Biarritz,,,,43.4853881,-1.552392
+8003693208,node,Le labo du Pizzaillo,restaurant,Biarritz,,,,43.4614015,-1.549504
+8013513985,node,Xuxu,restaurant,Biarritz,"8 bis, 64200",64200,,43.4850859,-1.5483012
+8303136846,node,Kanbar Sagardotegia,restaurant,Biarritz,"4 Rue de la Poste, 64200, Biarritz",64200,,43.4815905,-1.5606442
+8656532688,node,ahpe Restaurant,restaurant,Biarritz,"34 Avenue du Président J.F. Kennedy, 64200",64200,,43.4722663,-1.5558488
+10228958660,node,Nemea Appart'Hotel Biarritz Les Hauts de Milady,hotel,Biarritz,"24 Avenue de la Milady, 64200, Biarritz",64200,,43.4697542,-1.5682396
+10228958661,node,Lagun,restaurant,Biarritz,"28 Avenue de la Milady, 64200, Biarritz",64200,,43.4692378,-1.5684216
+10293030427,node,Sakae,restaurant,Biarritz,21 avenue du jardin public,,https://sakae-biarritz.fr,43.4800239,-1.5588162
+10575914641,node,Hôtel VAL FLORES LOGIS,hotel,Biarritz,48 Avenue de la Marne,,https://www.hotel-valflores.com/,43.4837303,-1.548567
+10916635405,node,Aiete,restaurant,Biarritz,"22 Rue Harispe, 64200, Biarritz",64200,,43.4736917,-1.5656593
+11051513713,node,Zou,restaurant,Biarritz,,,,43.4794499,-1.5642415
+11051515125,node,Carøe,restaurant,Biarritz,,,,43.4791302,-1.5642817
+11051515127,node,California Kitchen,restaurant,Biarritz,,,,43.4793112,-1.5643474
+11374350862,node,Taco del diablo,restaurant,Biarritz,,,,43.459035,-1.5409661
+11374405554,node,La table des docks,restaurant,Biarritz,,,,43.4593081,-1.5406662
+11407115894,node,Chez Isabella,restaurant,Biarritz,,,,43.4595761,-1.5405991
+11407115895,node,Casa Santa Maria,restaurant,Biarritz,,,,43.4595778,-1.5406413
+11407119003,node,So Wok,restaurant,Biarritz,,,,43.4595554,-1.5400789
+11667048490,node,2P Gourmands Les Épicuriens,restaurant,Biarritz,,,,43.4619316,-1.5403822
+11667095518,node,Chez Anna,restaurant,Biarritz,,,,43.4625204,-1.5396242
+11898242985,node,Haragia,restaurant,Biarritz,"26 Rue Gambetta, 64200",64200,,43.481361,-1.563252
+11898257169,node,Carlos,restaurant,Biarritz,"7 Boulevard du Prince de Galles, 64200",64200,,43.4788497,-1.5663315
+11898257170,node,Marguerite,restaurant,Biarritz,"21 Rue Gambetta, 64200",64200,,43.4808384,-1.5631019
+11898258469,node,Le Surfing Biarritz,restaurant,Biarritz,"9 Boulevard du Prince de Galles, 64200",64200,,43.4783081,-1.5664672
+11898258470,node,Ardi Beltza,restaurant,Biarritz,"42 Avenue du Maréchal Foch, 64200",64200,,43.4782371,-1.5579602
+11898266670,node,APRÈS-DEMAIN,restaurant,Biarritz,"12 Rue Louis Barthou, 64200",64200,,43.4824809,-1.5578719
+11898275172,node,La Table de Michel,restaurant,Biarritz,"13 Rue Gambetta, 64200",64200,,43.4815909,-1.5628733
+11898369169,node,EPOQ,restaurant,Biarritz,"11 Rue du Helder, 64200",64200,,43.4815038,-1.5578272
+11916155408,node,Le Jap Ona,restaurant,Biarritz,"1 Rue des Hirondelles, 64200, Biarritz",64200,https://lejap-ona.com/,43.463128,-1.5397518
+12070407869,node,Café De La Place,restaurant,Biarritz,,,,43.4825711,-1.5642388
+12228258701,node,Bimbo,restaurant,Biarritz,,,,43.4797978,-1.5584964
+12319141302,node,Harremanak - Port des Pêcheurs,restaurant,Biarritz,,,,43.4830891,-1.5649239
+12360179102,node,Polo bistrot,restaurant,Biarritz,,,https://www.polobistrot.fr/,43.4727512,-1.5560017
+12589808202,node,Bistrot Angeluan,restaurant,Biarritz,,,,43.4862168,-1.5499797
+12840736201,node,The Bayou,restaurant,Biarritz,,,,43.4852605,-1.5480897
+12843632101,node,Freya,restaurant,Biarritz,,,,43.4866559,-1.5496935
+13123702501,node,Le jardin,restaurant,Biarritz,"4 Avenue Jaulerry, 64200",64200,,43.4806679,-1.5601582
+13142726153,node,Ragazzi da Peppone,restaurant,Biarritz,,,,43.4816151,-1.5612728
+13142726172,node,Maison Garnier,hotel,Biarritz,,,,43.4804187,-1.5633108
+13155000701,node,Hotel Saint James,hotel,Biarritz,"1 Rue des Halles, 64200",64200,https://hotelsaintjames.fr/,43.4813396,-1.5628966
+13261731955,node,L'Alchimie,restaurant,Biarritz,,,,43.4812324,-1.5622569
+13374083601,node,AUZOKO,restaurant,Biarritz,,,,43.4816349,-1.5588936
+13384307401,node,PIUMA,restaurant,Biarritz,,,,43.461612,-1.5401297
+13434568401,node,Sakae,restaurant,Biarritz,,,,43.4678243,-1.553373
+13481618701,node,Smashé,restaurant,Biarritz,,,https://www.smashegang.com/,43.481608,-1.5588259
+13786705701,node,Deoun,restaurant,Biarritz,,,,43.4740504,-1.564609
+13794964301,node,Gatxi,restaurant,Biarritz,,,,43.4810268,-1.5581426
+13949695501,node,creperie biarritz sarrasin,restaurant,Biarritz,"6 Avenue de la Marne, 64200",64200,http://biarritz-sarrasin.fr,43.4840348,-1.5566769

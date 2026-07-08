@@ -1,0 +1,85 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+363984988,node,Le Vincennes,restaurant,Salon-de-Provence,,,,43.6290404,5.130506
+492647152,node,Campanile,hotel,Salon-de-Provence,,,,43.6306959,5.1190641
+898995102,node,Pizza Magna,restaurant,Salon-de-Provence,1 Rue Pasteur,,,43.608132,5.0627777
+899038276,node,Le Planet,restaurant,Salon-de-Provence,,,,43.6077125,5.0626382
+899038288,node,Signatur,restaurant,Salon-de-Provence,,,,43.6073017,5.0634731
+899041221,node,Le Hameau de Grans,restaurant,Salon-de-Provence,,,,43.6141725,5.0687667
+899041223,node,Le Hameau de Grans,hotel,Salon-de-Provence,,,,43.6143045,5.068477
+2595613131,node,Grand Hôtel de la Poste,hotel,Salon-de-Provence,,,https://www.ghpsalon.com/,43.6415321,5.0968022
+3136992956,node,Bar de Bel Air,restaurant,Salon-de-Provence,,,,43.6407873,5.0577113
+3703453638,node,La boucherie,restaurant,Salon-de-Provence,,,,43.6278385,5.1138796
+3730982130,node,Le Mas du Soleil,restaurant,Salon-de-Provence,,,,43.6424516,5.1038103
+3762345205,node,Hôtel d'Angleterre,hotel,Salon-de-Provence,"98 Cours Carnot, 13300, Salon-de-Provence",13300,https://www.hotelangleterresalon.com/,43.6409426,5.0959212
+3809335279,node,Hôtel Select,hotel,Salon-de-Provence,"35 Rue de Suffren, 13300, Salon-de-Provence",13300,https://www.hotel-select-provence.fr/,43.6428482,5.0954462
+4363637013,node,Le Temps des Secrets,restaurant,Salon-de-Provence,,,,43.6396984,5.0983724
+4515518291,node,Pizza Capri,restaurant,Salon-de-Provence,,,,43.6383998,5.094946
+4910994899,node,Nachos,restaurant,Salon-de-Provence,,,,43.6389816,5.0942415
+4910994900,node,Le hangar,restaurant,Salon-de-Provence,,,,43.6387865,5.0942465
+4910994901,node,SayTo,restaurant,Salon-de-Provence,,,,43.6387195,5.0942519
+4910994902,node,Louise,restaurant,Salon-de-Provence,,,,43.6386084,5.0942552
+4911467954,node,La Maison des Lamanon,hotel,Salon-de-Provence,,,,43.6406063,5.0968932
+4923036536,node,La Case à Palabres,restaurant,Salon-de-Provence,,,https://www.lacaseapalabres.fr/,43.6425659,5.0966333
+6700120989,node,L'Autrefois,restaurant,Salon-de-Provence,,,,43.6287,5.129655
+6992115139,node,Au Bureau,restaurant,Salon-de-Provence,,,https://www.aubureau.fr/resto/au-bureau-salon-de-provence/,43.6399635,5.0982659
+7689306956,node,Le Moulin d'Isnard,restaurant,Salon-de-Provence,25 Rue Moulin d'Isnard,,,43.6406288,5.0970806
+8209096251,node,Gourmand d'Asie,restaurant,Salon-de-Provence,,,,43.6227608,5.0881773
+8213087184,node,Gaia,restaurant,Salon-de-Provence,,,,43.6071011,5.0630935
+9263334303,node,Domaine de Roquerousse,hotel,Salon-de-Provence,"Route Jean Moulin, 13300, Salon-de-Provence",13300,https://www.domainederoquerousse.com/,43.6764835,5.1025861
+9297688317,node,L'olivier,restaurant,Salon-de-Provence,32 Rue du Bourg Neuf,,,43.6408143,5.0986195
+9465474095,node,Buffalo Grill,restaurant,Salon-de-Provence,,,,43.6231017,5.0992791
+10791555305,node,Monte Alta,hotel,Salon-de-Provence,Chemin de Mireille,,https://www.montealta.com/,43.6435999,5.0992753
+10860071105,node,L’endroit,restaurant,Salon-de-Provence,"20 Montée André Viallat, 13300",13300,,43.6401684,5.097516
+10941381847,node,Papa,restaurant,Salon-de-Provence,,,,43.6393358,5.0951179
+10941381848,node,La Baronne,restaurant,Salon-de-Provence,,,,43.6392751,5.0951112
+10941381849,node,L'Eau à la Bouche,restaurant,Salon-de-Provence,,,,43.6391967,5.0950663
+10941381850,node,Pizzeria au feu du bois,restaurant,Salon-de-Provence,,,,43.6389966,5.0951292
+10941381851,node,Au Coq sous Cloche,restaurant,Salon-de-Provence,,,,43.6389133,5.0951163
+10941381854,node,Lou Paradou,restaurant,Salon-de-Provence,,,,43.6414514,5.0957511
+10941381855,node,La Bergerie,restaurant,Salon-de-Provence,,,,43.6424312,5.0964067
+10941381856,node,Pizzacosy,restaurant,Salon-de-Provence,,,,43.6403791,5.086029
+10941381858,node,Syrian House,restaurant,Salon-de-Provence,,,,43.6409768,5.0846238
+10942398707,node,Saveurs de cuisine,restaurant,Salon-de-Provence,,,,43.642411,5.0952386
+10942398708,node,La Mezzetta,restaurant,Salon-de-Provence,,,,43.6425144,5.0966349
+10942398711,node,Chez Mus,restaurant,Salon-de-Provence,,,,43.6416846,5.0969279
+10942398713,node,La Table Marocaine,restaurant,Salon-de-Provence,,,,43.6418739,5.0973631
+10942398715,node,Au Grains des Aromes,restaurant,Salon-de-Provence,,,,43.639366,5.0991718
+10942398719,node,Crêperie Brocéliande,restaurant,Salon-de-Provence,13300,13300,,43.6408562,5.0980545
+10942398742,node,La Taperia,restaurant,Salon-de-Provence,,,,43.6405552,5.0961635
+10942398752,node,Brasserie Le Longchamp,restaurant,Salon-de-Provence,,,,43.6407845,5.0954094
+10942398756,node,Chadiyo,restaurant,Salon-de-Provence,,,,43.6407526,5.0965199
+10942398757,node,La fille de ...,restaurant,Salon-de-Provence,,,,43.6407694,5.097048
+10942398760,node,Iki Guys,restaurant,Salon-de-Provence,,,,43.6406506,5.0976477
+10942398761,node,Le Food Truck,restaurant,Salon-de-Provence,,,,43.6400498,5.0982522
+10942398764,node,L'épicerie,restaurant,Salon-de-Provence,,,,43.6404724,5.0989624
+10942398765,node,Orchidée,restaurant,Salon-de-Provence,,,,43.6409559,5.0978913
+10947465107,node,l'Estive,restaurant,Salon-de-Provence,,,,43.6359267,5.0995359
+11145961846,node,Le Marigny,restaurant,Salon-de-Provence,,,,43.6390133,5.0991621
+11161372588,node,Ô 2 Frères,restaurant,Salon-de-Provence,,,,43.6395961,5.0954634
+11161380774,node,Pizza Antoine,restaurant,Salon-de-Provence,,,,43.6398745,5.0955185
+11655965650,node,Trattoria Salone,restaurant,Salon-de-Provence,,,https://www.trattoria-salone.fr,43.6417059,5.0972972
+11795183457,node,La bella donna,restaurant,Salon-de-Provence,,,,43.6414021,5.0966704
+11796047620,node,Le Bistro du Potager,restaurant,Salon-de-Provence,,,,43.6403962,5.0954605
+11892029123,node,Le Palais d'Asie,restaurant,Salon-de-Provence,,,,43.6406241,5.0947133
+11892029127,node,Il Forno DA VITO,restaurant,Salon-de-Provence,,,,43.6389912,5.0963871
+11898754419,node,Kwetu,restaurant,Salon-de-Provence,,,https://kwetu.fr/,43.6364527,5.0993823
+11898754421,node,Hai Sushi,restaurant,Salon-de-Provence,,,https://haisushi.fr/,43.6363304,5.0994225
+12002733867,node,Le Delicatessen,restaurant,Salon-de-Provence,,,,43.6393933,5.0961204
+12009198663,node,L'entrecôte du château,restaurant,Salon-de-Provence,,,,43.6398607,5.0960931
+12083572054,node,Toasty Poke,restaurant,Salon-de-Provence,,,,43.6408856,5.0973711
+12083572059,node,L'Eskal Kréol,restaurant,Salon-de-Provence,,,,43.6408628,5.0973828
+12083572061,node,Kohi-Noor,restaurant,Salon-de-Provence,,,,43.6411067,5.0970651
+12258010945,node,,restaurant,Salon-de-Provence,,,,43.6092285,5.0043116
+12352448239,node,L'Embellie,restaurant,Salon-de-Provence,,,,43.6390684,5.0951135
+12395081629,node,Pala's Pizza,restaurant,Salon-de-Provence,,,,43.6405912,5.10017
+12462619146,node,Fresh Food,restaurant,Salon-de-Provence,,,,43.6421474,5.0964242
+12462657239,node,La Popote Minute,restaurant,Salon-de-Provence,,,,43.6423942,5.096602
+12462701019,node,Hôtel Régina,hotel,Salon-de-Provence,,,,43.6435611,5.0954381
+12466216197,node,Restaurant Bleu,restaurant,Salon-de-Provence,,,,43.6423355,5.09681
+12466303009,node,Le Cocorico,restaurant,Salon-de-Provence,,,,43.642603,5.0951889
+12610759337,node,Le Moulin des Sens,restaurant,Salon-de-Provence,,,,43.6406316,5.0969116
+12901877417,node,Chez Cam,restaurant,Salon-de-Provence,,,,43.6416646,5.0982394
+12901879849,node,Le Riad,restaurant,Salon-de-Provence,,,,43.6370477,5.0995634
+12901882009,node,Pasta Moules,restaurant,Salon-de-Provence,,,,43.6374892,5.0994274
+12901884909,node,Villa Salone,restaurant,Salon-de-Provence,,,,43.6414495,5.0986171
+13713381763,node,Joliane,restaurant,Salon-de-Provence,,,,43.6275504,5.1144011

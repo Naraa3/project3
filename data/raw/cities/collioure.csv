@@ -1,0 +1,60 @@
+osm_id,osm_type,name,category,city,address,post code,website,lat,lon
+888397512,node,Can Pla,restaurant,Collioure,7 Rue Voltaire,,,42.5239047,3.0839987
+1316153988,node,Les Suites,hotel,Collioure,16 Avenue General de Gaulle,,,42.5243395,3.082721
+1316153999,node,La Côte à l'Os,restaurant,Collioure,,,,42.5240385,3.0843743
+1316154009,node,L'Ambroisie,restaurant,Collioure,3 Place Jean Jaures,,,42.5239596,3.0849429
+1316154012,node,Le Parc,restaurant,Collioure,2 Rue Jean Jacques Rousseau,,,42.5241388,3.0833963
+1316154017,node,Le Saint-Elme,restaurant,Collioure,18 Rue de la Democratie,,,42.5237659,3.0854844
+1316159272,node,Le Bon Port,hotel,Collioure,,,,42.5240834,3.0894087
+1380947635,node,Casa Païral,hotel,Collioure,,,,42.5260536,3.0825051
+1380947636,node,Princes de Catalogne,hotel,Collioure,,,,42.5258638,3.0826445
+1424438993,node,Les Templiers,hotel,Collioure,,,https://www.hotel-templiers.com/,42.5265119,3.08389
+2330880397,node,Le Petit Catalan,restaurant,Collioure,,,http://lepetitcatalan.fr/,42.5267197,3.0844952
+2330880399,node,La Marinade,restaurant,Collioure,14 Place du 18 Juin,,,42.5269191,3.0844819
+2330880400,node,Au Bon Croq,restaurant,Collioure,2,,,42.5270632,3.084551
+2330917188,node,Coté Faubourg,restaurant,Collioure,2 Rue de la Liberte,,,42.5238327,3.0848003
+2330936239,node,Maison Annaik Noblet,restaurant,Collioure,,,,42.526555,3.0841214
+2330974201,node,L'arbre du Voyageur,restaurant,Collioure,19 Place Jean Jaurès,,,42.5239605,3.0845296
+2330974218,node,Pizza HB,restaurant,Collioure,,,,42.5238541,3.0852136
+2331018244,node,Hôtel Boramar,hotel,Collioure,,,https://www.hotel-boramar.fr/,42.5239531,3.0874959
+2331018247,node,Le Jardin de Collioure,restaurant,Collioure,4 Route de Port Vendres,,,42.5233283,3.0879476
+2331018252,node,Les Mouettes,restaurant,Collioure,,,,42.5238732,3.0874447
+2331027019,node,Le petit resto,restaurant,Collioure,,,,42.5273062,3.0849993
+2331072244,node,La Cuisine SOS Paella,restaurant,Collioure,,,,42.5233648,3.0859601
+2332364541,node,Gourmandise,restaurant,Collioure,,,,42.5264898,3.0836457
+2332364545,node,La Frégate,hotel,Collioure,24 Boulevard Camille Pelletan,,,42.5264019,3.0832475
+2332369159,node,Chez Dom,restaurant,Collioure,2 Place General Leclerc,,,42.5264379,3.0829441
+2337546472,node,Chez Simone,restaurant,Collioure,,,,42.5273703,3.085233
+2337546473,node,Copacabana,restaurant,Collioure,,,,42.5269647,3.0849555
+2337546474,node,Crêperie,restaurant,Collioure,,,,42.5272307,3.0850483
+2337546475,node,San Vicens,restaurant,Collioure,,,,42.5271259,3.0850313
+2337568750,node,L'Insolite,restaurant,Collioure,,,,42.5277178,3.0860778
+2337568754,node,La Cantina,restaurant,Collioure,2 Rue Arago,,,42.5275501,3.085046
+3212892926,node,L'Amphytrion,hotel,Collioure,,,,42.5237108,3.0872469
+3212892927,node,L'Amphytrion,restaurant,Collioure,,,,42.5237536,3.0872399
+3212892928,node,Le Neptune,restaurant,Collioure,9 Route de Port Vendres,,https://www.leneptune-collioure.com/,42.5241716,3.0877843
+3711102033,node,Les Templiers,hotel,Collioure,,,,42.5266184,3.084083
+4804479533,node,Pizza Al Cantou,restaurant,Collioure,,,,42.5268903,3.0835169
+5329277322,node,La 5e Péché,restaurant,Collioure,,,https://le-cinquieme-peche.com/,42.527309,3.0833949
+5846440753,node,El Capillo,restaurant,Collioure,,,,42.5274608,3.0839199
+6256238891,node,La Balette,restaurant,Collioure,,,https://www.relaisdestroismas.com/le-restaurant-la-balette/,42.5244575,3.0891591
+6256238892,node,L'Escale Bleue,restaurant,Collioure,,,,42.5241489,3.0834345
+6256273088,node,Casa Figuères,restaurant,Collioure,,,,42.5269337,3.0826849
+8589012181,node,Le Mas des Citronniers,hotel,Collioure,22 Rue de la Republique,,,42.5253709,3.0824931
+8589012208,node,La Bona Casa,hotel,Collioure,20 Rue de la Republique,,,42.5254767,3.0826741
+8592228476,node,,restaurant,Collioure,,,,42.5095843,3.0678178
+8747464052,node,Le Tremail,restaurant,Collioure,,,,42.5274746,3.0850322
+8747495117,node,L'Arcade,restaurant,Collioure,,,,42.5267629,3.084255
+9635368182,node,Le Vauban,restaurant,Collioure,,,,42.5269987,3.0842459
+11900951404,node,Vermeil plage,restaurant,Collioure,,,,42.5280545,3.0872601
+11935249388,node,Bora Bora,restaurant,Collioure,Collioure,,,42.5243301,3.0851486
+12255893752,node,Les Templiers,restaurant,Collioure,,,,42.5265567,3.084079
+12257734415,node,Bar à Anchois,restaurant,Collioure,8 Rue Pasteur,,,42.5273246,3.0837833
+13039550752,node,Casa Leon,restaurant,Collioure,2 Rue Riere,,,42.5273982,3.0850037
+13047967425,node,La Treille,restaurant,Collioure,6 Rue des Treilles,,,42.5266939,3.0836833
+13047970429,node,Les Templiers,hotel,Collioure,,,,42.5266595,3.0838387
+13665387941,node,Hôtel les Roches Brunes,hotel,Collioure,,,,42.5253351,3.0903608
+13665389103,node,Hôtel Relais des 3 Mas,hotel,Collioure,,,,42.5246277,3.0897309
+13666959198,node,Casa Collioura,hotel,Collioure,,,https://casa-collioura.fr/,42.5235179,3.087166
+13670146607,node,Maison Nova,hotel,Collioure,33 Route du Pla de Las Fourques,,https://maisonnova-collioure.com/,42.5289719,3.0794081
+13670146608,node,Hôtel Méditerranée,hotel,Collioure,,,,42.5271493,3.0802019

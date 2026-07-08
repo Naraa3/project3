@@ -1,0 +1,81 @@
+osm_id,osm_type,name,category,city,address,post code,website,lat,lon
+1325592744,node,L'Aile ou la cuisse,restaurant,Saint-Rémy-de-Provence,,,,43.788108,4.8319043
+1325592756,node,Le Bistrot des Alpilles,restaurant,Saint-Rémy-de-Provence,,,,43.7888483,4.8332977
+1325592759,node,Chez L,restaurant,Saint-Rémy-de-Provence,,,,43.7888237,4.8327496
+1392069017,node,Villa Glanum,hotel,Saint-Rémy-de-Provence,Saint-Rémy-de-Provence,,,43.7776336,4.8314342
+1450119955,node,Le Bautezar,restaurant,Saint-Rémy-de-Provence,"Grand Rue, Les Baux-de-Provence",,,43.7441194,4.7951951
+1776980191,node,Le Prince noir,hotel,Saint-Rémy-de-Provence,,,,43.743388,4.7952774
+2151749302,node,Bec Restaurant,restaurant,Saint-Rémy-de-Provence,55 Avenue de la Vallée des Baux,,https://www.bec-restaurant.com/,43.7206691,4.7866104
+2151749405,node,Le Bistrot du Paradou,restaurant,Saint-Rémy-de-Provence,,,,43.7204309,4.7848316
+2152011243,node,Pizza Brun,restaurant,Saint-Rémy-de-Provence,,,,43.7218516,4.8006756
+2268113071,node,L'Amandière,hotel,Saint-Rémy-de-Provence,,,https://hotel-amandiere.com/,43.7954762,4.8397597
+2929379148,node,La Terrasse des Baux,restaurant,Saint-Rémy-de-Provence,,,,43.743927,4.7949822
+3056980900,node,Du côté des olivades,restaurant,Saint-Rémy-de-Provence,,,,43.7233878,4.7969882
+3380969015,node,Le Baux Gourmand,restaurant,Saint-Rémy-de-Provence,"Grand Rue, Les Baux-de-Provence",,,43.7444188,4.7953718
+4462926856,node,L'Oustaù de Baumanière,hotel,Saint-Rémy-de-Provence,,,https://www.baumaniere.com/hebergement,43.7401362,4.7885263
+4462926857,node,L'Oustaù de Baumanière,restaurant,Saint-Rémy-de-Provence,Les Baux-de-Provence,,https://www.baumaniere.com/gastronomie/loustau-de-baumaniere,43.7470213,4.7955483
+4462926858,node,La Cabro d'Or,restaurant,Saint-Rémy-de-Provence,,,https://www.baumaniere.com/gastronomie/la-cabro-dor,43.740138,4.7873357
+4706506992,node,La Reine Jeanne,hotel,Saint-Rémy-de-Provence,,,,43.7449176,4.7953632
+4706506994,node,La bella vista,restaurant,Saint-Rémy-de-Provence,,,,43.7440063,4.794764
+4706641761,node,Au Porte Mages,restaurant,Saint-Rémy-de-Provence,"Rue Porte Mage, Les Baux-de-Provence",,,43.7449226,4.7956016
+5034687914,node,La Celtie,restaurant,Saint-Rémy-de-Provence,29 Rue du 8 Mai 1945,,,43.7877486,4.8314364
+5131089321,node,Chez xa,restaurant,Saint-Rémy-de-Provence,24 Boulevard Mirabeau,,,43.7894058,4.8336713
+5281821728,node,Sous les figuiers,hotel,Saint-Rémy-de-Provence,,,https://www.hotelsouslesfiguiers.com/,43.7913137,4.8311291
+5470513475,node,Café de la Fontaine,restaurant,Saint-Rémy-de-Provence,70 Avenue de la Vallée des Baux,,https://www.lecafedelafontaine.com/,43.7208247,4.8052232
+5470517582,node,Au Bistrot Marin,restaurant,Saint-Rémy-de-Provence,68 Avenue de la Vallée des Baux,,https://www.aubistrotmarin.fr/,43.7208489,4.80514
+5664005108,node,Roma,restaurant,Saint-Rémy-de-Provence,"33 Boulevard Marceau, Saint-Rémy-de-Provence",,https://www.restaurant-le-roma.com,43.7880224,4.8304248
+5664005114,node,Café La Place,restaurant,Saint-Rémy-de-Provence,,,http://cafedelaplace-stremy.fr/,43.7884979,4.8292324
+5664005115,node,Hôtel Gounod,hotel,Saint-Rémy-de-Provence,,,,43.7886347,4.8292293
+5664005116,node,"Da Peppe, Pizzeria",restaurant,Saint-Rémy-de-Provence,,,,43.7888074,4.8292312
+5703880523,node,Une Table au Soleil,restaurant,Saint-Rémy-de-Provence,,,,43.7434161,4.7946185
+5759242221,node,Rest’Otentik,restaurant,Saint-Rémy-de-Provence,17 Rue du 8 Mai 1945,,,43.7879237,4.8314781
+5840227276,node,Fratelli,restaurant,Saint-Rémy-de-Provence,,,,43.7889557,4.8295221
+5844458511,node,All'ostaria,restaurant,Saint-Rémy-de-Provence,,,,43.7894308,4.8312751
+5845665413,node,Cuisine des anges,restaurant,Saint-Rémy-de-Provence,,,,43.7880639,4.8313056
+5849779054,node,Honoré,restaurant,Saint-Rémy-de-Provence,3 Boulevard Mirabeau,,https://www.honorebrunch.fr,43.7885696,4.8328865
+5887711067,node,L'Oustalet Maianen,restaurant,Saint-Rémy-de-Provence,"16 Avenue Lamartine, Maillane",,,43.8312982,4.7824344
+6715337986,node,Domaine de Manville,hotel,Saint-Rémy-de-Provence,,,https://www.domainedemanville.fr/fr/,43.7325398,4.8014909
+6910808787,node,Le Marilyn,restaurant,Saint-Rémy-de-Provence,,,,43.7893026,4.8303966
+7027703513,node,Chez Madame Ly,restaurant,Saint-Rémy-de-Provence,"7 Avenue Albert Schweitzer, Saint-Rémy-de-Provence",,,43.7930032,4.8332927
+7286408976,node,Le Restaurant Pluvinel,restaurant,Saint-Rémy-de-Provence,40,,https://pluvinel.fr/pluvinel_restaurant.html,43.7091214,4.8072775
+7751993085,node,Chez Rachida,restaurant,Saint-Rémy-de-Provence,,,,43.8191716,4.8050098
+7885097090,node,Le Bouchon Rouge,restaurant,Saint-Rémy-de-Provence,"Rue du Trencat, Les Baux-de-Provence",,https://www.lebouchonrouge.fr,43.7433947,4.7948815
+8319639782,node,La Guigou,hotel,Saint-Rémy-de-Provence,,,https://www.baumaniere.com/hebergement,43.743976,4.7910646
+8355896546,node,O'sushi bar,restaurant,Saint-Rémy-de-Provence,3 Avenue de la Libération,,https://www.so-sushi-bar.fr/,43.7889654,4.8338838
+8504054938,node,Jana la Cuisine du Voyage;Jana la cuisine du voyage,restaurant,Saint-Rémy-de-Provence,"5 Avenue de la Libération, Saint-Rémy-de-Provence",,https://jana-la-cuisine-du-voyage.eatbu.com,43.7889687,4.834014
+9015414981,node,,restaurant,Saint-Rémy-de-Provence,,,https://www.masdaigret.com/hotel-restaurant-baux-de-provence,43.7451777,4.7995562
+9029685886,node,Les Baux Jus,restaurant,Saint-Rémy-de-Provence,,,,43.7441752,4.7949665
+9606124913,node,L'Aile ou la Cuisse,restaurant,Saint-Rémy-de-Provence,"34 Boulevard Mirabeau, Saint-Rémy-de-Provence",,https://www.laile-ou-la-cuisse-restaurant-saint-remy-de-provence.com/,43.7899915,4.8342064
+9606134419,node,Les délices de C.Line.B,restaurant,Saint-Rémy-de-Provence,"34 Boulevard Mirabeau, Saint-Rémy-de-Provence",,https://www.laile-ou-la-cuisse-restaurant-saint-remy-de-provence.com/,43.7897027,4.8342572
+10812417505,node,Maussane-les-Alpilles,restaurant,Saint-Rémy-de-Provence,34 Avenue de la Vallée des Baux,,,43.7215842,4.8031157
+10989217178,node,La Guinguette des Baux,restaurant,Saint-Rémy-de-Provence,,,,43.7493522,4.7954229
+11067664169,node,Hôtel de l'Image,hotel,Saint-Rémy-de-Provence,,,,43.7878871,4.832741
+11156490906,node,,restaurant,Saint-Rémy-de-Provence,,,,43.7879812,4.8319173
+11173489837,node,Antico Mulino,restaurant,Saint-Rémy-de-Provence,13210 Impasse Jaume Comte,,,43.7881559,4.8322024
+11179396637,node,mesiba,restaurant,Saint-Rémy-de-Provence,15 B Avenue André et Denis Pellissier,,https://www.mesiba.fr/,43.7881634,4.8408402
+11463641969,node,Mecha Uma,restaurant,Saint-Rémy-de-Provence,15 Avenue de la Libération,,https://mecha-uma-saint-remy.eatbu.com/,43.788877,4.834484
+11907848108,node,Ô Caprices de Mathias,restaurant,Saint-Rémy-de-Provence,,,,43.7812227,4.8404874
+11982723470,node,Le Goustarou,restaurant,Saint-Rémy-de-Provence,,,,43.7884278,4.8308753
+11983511470,node,Vente à Emporter,restaurant,Saint-Rémy-de-Provence,Boulevard Gambetta,,,43.7904974,4.8325316
+12015113973,node,Le Capoun,restaurant,Saint-Rémy-de-Provence,,,,43.7933852,4.8291482
+12165029274,node,Le jardin des pin-up,restaurant,Saint-Rémy-de-Provence,"3 Place Favier, Saint-Rémy-de-Provence",,,43.7894565,4.8309364
+12278438836,node,Maison Marshall,restaurant,Saint-Rémy-de-Provence,,,https://m.facebook.com/michel.marshall.127/,43.7890694,4.8317757
+12280933761,node,Hôtel Van Gogh,hotel,Saint-Rémy-de-Provence,1 Avenue Jean Moulin,,https://www.hotel-vangogh.com/en,43.7885561,4.8381634
+12280945307,node,Chez Madame Ly,restaurant,Saint-Rémy-de-Provence,,,,43.7886303,4.8353598
+12281376607,node,La maison Favier,restaurant,Saint-Rémy-de-Provence,,,,43.7895223,4.8311525
+12281500674,node,L'AO,restaurant,Saint-Rémy-de-Provence,,,,43.7897264,4.8303911
+12284675829,node,Volubilis,restaurant,Saint-Rémy-de-Provence,,,,43.7887819,4.8352489
+12765476001,node,L'espianada restaurant sarde,restaurant,Saint-Rémy-de-Provence,15 Avenue de la Vallée des Baux,,https://www.restaurant-lespianada.fr/,43.7219393,4.8001129
+12862414121,node,Le Petit Rocher,restaurant,Saint-Rémy-de-Provence,,,,43.7433241,4.7947549
+12862451327,node,Le Café du Musée,restaurant,Saint-Rémy-de-Provence,,,,43.744059,4.7951897
+13452366301,node,L'oiseau qui chante,restaurant,Saint-Rémy-de-Provence,150 Route de Maillane,,,43.7946264,4.8289773
+13505169563,node,Le Saint-Rémy,hotel,Saint-Rémy-de-Provence,"16 Boulevard Victor Hugo, Saint-Rémy-de-Provence",,,43.7871435,4.8315107
+13505169572,node,Lou Patio,restaurant,Saint-Rémy-de-Provence,"16 Boulevard Victor Hugo, Saint-Rémy-de-Provence",,,43.7871405,4.8314268
+13713479301,node,Camille Ô Baux,restaurant,Saint-Rémy-de-Provence,,,,43.7441165,4.7950053
+13719034919,node,province holidays,hotel,Saint-Rémy-de-Provence,,,,43.7886632,4.8326609
+13776178301,node,La Piccola,restaurant,Saint-Rémy-de-Provence,89 Avenue de la Vallée des Baux,,,43.7204981,4.8077618
+13776178302,node,Bistrot Saint-Roche. Chez Joan & Vincent,restaurant,Saint-Rémy-de-Provence,Avenue de la Vallée des Baux,,,43.7205146,4.8074085
+13776216201,node,O Sushi Bar,restaurant,Saint-Rémy-de-Provence,,,,43.7212024,4.8049854
+13776309301,node,Au 49. Chez Gwen & Alex,restaurant,Saint-Rémy-de-Provence,,,,43.721371,4.8043081
+13779738201,node,Logis Hotels Restaurants,hotel,Saint-Rémy-de-Provence,,,,43.7202841,4.8074063
+13784819301,node,Les Gourmandises de Marcel. Galetterie Glacier,restaurant,Saint-Rémy-de-Provence,78 Avenue de la Vallée des Baux,,,43.7206674,4.8056643

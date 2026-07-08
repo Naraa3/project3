@@ -1,0 +1,4646 @@
+[
+    {
+        "latitude": 48.86,
+        "longitude": 2.3599997,
+        "generationtime_ms": 0.31960010528564453,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 36.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 34.5,
+            "relative_humidity_2m": 20,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 3,
+            "wind_speed_10m": 16.7
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                34.5,
+                33.7,
+                33.9,
+                35.2,
+                36.1,
+                35.2,
+                36.2
+            ],
+            "temperature_2m_min": [
+                22.0,
+                20.8,
+                23.6,
+                21.9,
+                22.1,
+                22.1,
+                22.5
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                5,
+                2,
+                2
+            ]
+        },
+        "city": "Paris",
+        "lat": 48.8566,
+        "lon": 2.3522
+    },
+    {
+        "latitude": 43.3,
+        "longitude": 5.369999,
+        "generationtime_ms": 0.5813837051391602,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 6.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 26.2,
+            "relative_humidity_2m": 79,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 2,
+            "wind_speed_10m": 9.4
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                26.7,
+                31.5,
+                31.5,
+                32.0,
+                30.9,
+                30.2,
+                31.1
+            ],
+            "temperature_2m_min": [
+                21.5,
+                21.7,
+                23.7,
+                24.4,
+                23.2,
+                23.5,
+                23.6
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                3,
+                45,
+                15,
+                0
+            ]
+        },
+        "city": "Marseille",
+        "lat": 43.2965,
+        "lon": 5.3698
+    },
+    {
+        "latitude": 45.760002,
+        "longitude": 4.8399997,
+        "generationtime_ms": 0.2199411392211914,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 184.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 36.4,
+            "relative_humidity_2m": 15,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 2,
+            "wind_speed_10m": 2.3
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                37.2,
+                36.4,
+                35.8,
+                38.3,
+                37.5,
+                37.8,
+                40.7
+            ],
+            "temperature_2m_min": [
+                20.2,
+                22.3,
+                24.3,
+                20.8,
+                24.7,
+                22.6,
+                21.7
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.3,
+                0.3,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                15,
+                38,
+                12,
+                3
+            ]
+        },
+        "city": "Lyon",
+        "lat": 45.764,
+        "lon": 4.8357
+    },
+    {
+        "latitude": 43.6,
+        "longitude": 1.44,
+        "generationtime_ms": 0.1863241195678711,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 153.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 38.4,
+            "relative_humidity_2m": 11,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 0,
+            "wind_speed_10m": 6.4
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                38.8,
+                38.1,
+                39.6,
+                38.2,
+                38.2,
+                41.0,
+                38.4
+            ],
+            "temperature_2m_min": [
+                19.5,
+                20.1,
+                21.2,
+                19.9,
+                21.4,
+                22.3,
+                22.4
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                2,
+                5,
+                2,
+                0
+            ]
+        },
+        "city": "Toulouse",
+        "lat": 43.6047,
+        "lon": 1.4442
+    },
+    {
+        "latitude": 43.72,
+        "longitude": 7.2599998,
+        "generationtime_ms": 0.3789663314819336,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 29.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 28.1,
+            "relative_humidity_2m": 66,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 0,
+            "wind_speed_10m": 9.2
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                28.9,
+                29.2,
+                30.2,
+                29.5,
+                29.3,
+                30.4,
+                30.4
+            ],
+            "temperature_2m_min": [
+                22.6,
+                20.3,
+                21.5,
+                23.7,
+                25.2,
+                24.6,
+                25.4
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                3,
+                8,
+                31,
+                33
+            ]
+        },
+        "city": "Nice",
+        "lat": 43.7102,
+        "lon": 7.262
+    },
+    {
+        "latitude": 47.22,
+        "longitude": -1.5500002,
+        "generationtime_ms": 0.3533363342285156,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 19.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 39.1,
+            "relative_humidity_2m": 12,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 0,
+            "wind_speed_10m": 12.6
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                39.0,
+                38.4,
+                39.9,
+                39.8,
+                37.6,
+                37.7,
+                36.0
+            ],
+            "temperature_2m_min": [
+                21.3,
+                21.4,
+                24.5,
+                29.0,
+                29.9,
+                26.7,
+                27.0
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                3.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                3,
+                3,
+                15,
+                5,
+                8
+            ]
+        },
+        "city": "Nantes",
+        "lat": 47.2184,
+        "lon": -1.5536
+    },
+    {
+        "latitude": 48.58,
+        "longitude": 7.7599998,
+        "generationtime_ms": 0.34415721893310547,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 142.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 34.0,
+            "relative_humidity_2m": 22,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 3,
+            "wind_speed_10m": 15.9
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                34.0,
+                29.8,
+                30.7,
+                33.3,
+                34.5,
+                32.8,
+                34.0
+            ],
+            "temperature_2m_min": [
+                19.5,
+                20.7,
+                18.9,
+                17.5,
+                20.1,
+                19.0,
+                17.4
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "city": "Strasbourg",
+        "lat": 48.5734,
+        "lon": 7.7521
+    },
+    {
+        "latitude": 43.62,
+        "longitude": 3.8799996,
+        "generationtime_ms": 0.35130977630615234,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 48.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 36.1,
+            "relative_humidity_2m": 19,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 2,
+            "wind_speed_10m": 15.0
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                37.0,
+                40.0,
+                39.4,
+                31.2,
+                32.8,
+                34.0,
+                31.5
+            ],
+            "temperature_2m_min": [
+                22.1,
+                19.7,
+                22.7,
+                21.7,
+                21.3,
+                23.1,
+                21.7
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                8,
+                0,
+                0
+            ]
+        },
+        "city": "Montpellier",
+        "lat": 43.6119,
+        "lon": 3.8772
+    },
+    {
+        "latitude": 44.84,
+        "longitude": -0.58000016,
+        "generationtime_ms": 0.27692317962646484,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 16.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 39.5,
+            "relative_humidity_2m": 11,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 0,
+            "wind_speed_10m": 5.1
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                39.6,
+                37.2,
+                40.0,
+                37.1,
+                37.5,
+                42.0,
+                34.1
+            ],
+            "temperature_2m_min": [
+                21.5,
+                20.9,
+                20.2,
+                18.7,
+                22.1,
+                24.4,
+                23.4
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.6,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                8,
+                7,
+                4,
+                6
+            ]
+        },
+        "city": "Bordeaux",
+        "lat": 44.8378,
+        "lon": -0.5792
+    },
+    {
+        "latitude": 50.638,
+        "longitude": 3.0449998,
+        "generationtime_ms": 0.38504600524902344,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 27.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 29.9,
+            "relative_humidity_2m": 32,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 3,
+            "wind_speed_10m": 15.5
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                29.9,
+                30.9,
+                31.5,
+                28.4,
+                31.3,
+                31.1,
+                30.4
+            ],
+            "temperature_2m_min": [
+                18.9,
+                20.5,
+                19.8,
+                18.7,
+                19.3,
+                21.0,
+                17.8
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        "city": "Lille",
+        "lat": 50.6292,
+        "lon": 3.0573
+    },
+    {
+        "latitude": 48.12,
+        "longitude": -1.6800003,
+        "generationtime_ms": 0.8047819137573242,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 44.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 37.0,
+            "relative_humidity_2m": 16,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 2,
+            "wind_speed_10m": 11.5
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                36.9,
+                36.7,
+                38.7,
+                38.5,
+                35.9,
+                36.2,
+                33.7
+            ],
+            "temperature_2m_min": [
+                18.3,
+                17.4,
+                20.2,
+                28.2,
+                28.3,
+                25.1,
+                22.6
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                7.2
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                3,
+                3,
+                25,
+                8,
+                8
+            ]
+        },
+        "city": "Rennes",
+        "lat": 48.1173,
+        "lon": -1.6778
+    },
+    {
+        "latitude": 49.260002,
+        "longitude": 4.04,
+        "generationtime_ms": 0.44023990631103516,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 94.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 32.6,
+            "relative_humidity_2m": 17,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 3,
+            "wind_speed_10m": 19.2
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                32.7,
+                31.3,
+                32.3,
+                34.2,
+                35.4,
+                34.0,
+                35.0
+            ],
+            "temperature_2m_min": [
+                17.1,
+                18.1,
+                18.1,
+                19.2,
+                20.8,
+                21.0,
+                20.5
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                3,
+                1,
+                0
+            ]
+        },
+        "city": "Reims",
+        "lat": 49.2583,
+        "lon": 4.0317
+    },
+    {
+        "latitude": 49.5,
+        "longitude": 0.099999905,
+        "generationtime_ms": 0.21195411682128906,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 8.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 25.9,
+            "relative_humidity_2m": 39,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 1,
+            "wind_speed_10m": 10.9
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                25.8,
+                29.7,
+                31.2,
+                30.6,
+                29.3,
+                28.4,
+                28.4
+            ],
+            "temperature_2m_min": [
+                19.9,
+                18.6,
+                20.4,
+                22.0,
+                21.5,
+                19.4,
+                20.2
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6
+            ]
+        },
+        "city": "Le Havre",
+        "lat": 49.4944,
+        "lon": 0.1079
+    },
+    {
+        "latitude": 45.44,
+        "longitude": 4.3799996,
+        "generationtime_ms": 0.30052661895751953,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 526.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 33.9,
+            "relative_humidity_2m": 16,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 2,
+            "wind_speed_10m": 6.0
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                34.6,
+                34.2,
+                33.4,
+                35.1,
+                35.2,
+                35.1,
+                37.5
+            ],
+            "temperature_2m_min": [
+                16.9,
+                20.2,
+                20.9,
+                18.6,
+                23.6,
+                20.7,
+                23.8
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.6,
+                0.3,
+                0.3,
+                0.3
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                33,
+                43,
+                14,
+                3
+            ]
+        },
+        "city": "Saint-Étienne",
+        "lat": 45.4397,
+        "lon": 4.3872
+    },
+    {
+        "latitude": 43.12,
+        "longitude": 5.9300003,
+        "generationtime_ms": 0.38683414459228516,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 14.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 29.0,
+            "relative_humidity_2m": 67,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 0,
+            "wind_speed_10m": 10.9
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                29.2,
+                34.5,
+                31.7,
+                30.8,
+                32.4,
+                30.7,
+                31.9
+            ],
+            "temperature_2m_min": [
+                22.7,
+                22.5,
+                24.8,
+                24.1,
+                24.1,
+                24.5,
+                24.6
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                6,
+                3,
+                3
+            ]
+        },
+        "city": "Toulon",
+        "lat": 43.1242,
+        "lon": 5.928
+    },
+    {
+        "latitude": 45.18,
+        "longitude": 5.72,
+        "generationtime_ms": 0.26810169219970703,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 215.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 37.4,
+            "relative_humidity_2m": 8,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 2,
+            "wind_speed_10m": 15.5
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                37.3,
+                36.6,
+                36.5,
+                37.0,
+                34.6,
+                37.2,
+                39.5
+            ],
+            "temperature_2m_min": [
+                19.8,
+                21.6,
+                23.0,
+                19.8,
+                22.3,
+                20.7,
+                22.4
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.9,
+                0.3,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                25,
+                48,
+                18,
+                3
+            ]
+        },
+        "city": "Grenoble",
+        "lat": 45.1885,
+        "lon": 5.7245
+    },
+    {
+        "latitude": 47.32,
+        "longitude": 5.0399995,
+        "generationtime_ms": 0.30243396759033203,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 250.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 36.0,
+            "relative_humidity_2m": 13,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 3,
+            "wind_speed_10m": 15.5
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                36.2,
+                33.4,
+                33.4,
+                36.1,
+                36.8,
+                35.6,
+                36.2
+            ],
+            "temperature_2m_min": [
+                17.4,
+                18.9,
+                22.1,
+                20.2,
+                22.4,
+                22.5,
+                21.6
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.6,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                30,
+                12,
+                0
+            ]
+        },
+        "city": "Dijon",
+        "lat": 47.322,
+        "lon": 5.0415
+    },
+    {
+        "latitude": 47.48,
+        "longitude": -0.5600002,
+        "generationtime_ms": 0.19884109497070312,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 41.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 38.2,
+            "relative_humidity_2m": 13,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 2,
+            "wind_speed_10m": 14.2
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                38.2,
+                36.7,
+                37.2,
+                37.6,
+                39.3,
+                38.8,
+                39.9
+            ],
+            "temperature_2m_min": [
+                18.8,
+                17.6,
+                20.1,
+                21.7,
+                23.3,
+                24.2,
+                23.8
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                3,
+                0,
+                15,
+                7,
+                7
+            ]
+        },
+        "city": "Angers",
+        "lat": 47.4784,
+        "lon": -0.5632
+    },
+    {
+        "latitude": 43.84,
+        "longitude": 4.36,
+        "generationtime_ms": 0.26428699493408203,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 57.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 37.7,
+            "relative_humidity_2m": 16,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 0,
+            "wind_speed_10m": 7.4
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                39.2,
+                40.9,
+                39.5,
+                33.6,
+                35.4,
+                37.8,
+                35.3
+            ],
+            "temperature_2m_min": [
+                25.7,
+                21.0,
+                25.8,
+                21.9,
+                22.3,
+                22.1,
+                21.3
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.6,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                25,
+                10,
+                0
+            ]
+        },
+        "city": "Nîmes",
+        "lat": 43.8367,
+        "lon": 4.3601
+    },
+    {
+        "latitude": 43.52,
+        "longitude": 5.44,
+        "generationtime_ms": 0.44596195220947266,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 205.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 33.7,
+            "relative_humidity_2m": 28,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 3,
+            "wind_speed_10m": 15.8
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                34.0,
+                38.9,
+                37.0,
+                35.0,
+                31.7,
+                35.2,
+                36.6
+            ],
+            "temperature_2m_min": [
+                18.9,
+                19.1,
+                19.7,
+                22.0,
+                22.7,
+                22.4,
+                21.1
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.3,
+                3.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                28,
+                65,
+                21,
+                3
+            ]
+        },
+        "city": "Aix-en-Provence",
+        "lat": 43.5297,
+        "lon": 5.4474
+    },
+    {
+        "latitude": 43.94,
+        "longitude": 4.7999997,
+        "generationtime_ms": 0.8896589279174805,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 29.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 39.3,
+            "relative_humidity_2m": 8,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 0,
+            "wind_speed_10m": 12.4
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                39.1,
+                39.9,
+                39.1,
+                34.9,
+                35.7,
+                37.8,
+                35.8
+            ],
+            "temperature_2m_min": [
+                23.1,
+                19.0,
+                26.2,
+                21.0,
+                22.8,
+                23.2,
+                21.4
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.3,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                2,
+                38,
+                15,
+                0
+            ]
+        },
+        "city": "Avignon",
+        "lat": 43.9493,
+        "lon": 4.8055
+    },
+    {
+        "latitude": 45.9,
+        "longitude": 6.1199994,
+        "generationtime_ms": 0.18131732940673828,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 449.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 34.2,
+            "relative_humidity_2m": 15,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 2,
+            "wind_speed_10m": 5.9
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                34.2,
+                34.7,
+                33.2,
+                35.0,
+                32.2,
+                34.5,
+                36.2
+            ],
+            "temperature_2m_min": [
+                15.5,
+                17.4,
+                20.8,
+                17.7,
+                23.8,
+                22.0,
+                21.3
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.6,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                10,
+                48,
+                19,
+                5
+            ]
+        },
+        "city": "Annecy",
+        "lat": 45.8992,
+        "lon": 6.1294
+    },
+    {
+        "latitude": 43.55,
+        "longitude": 7.0200005,
+        "generationtime_ms": 0.6303787231445312,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 14.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 28.1,
+            "relative_humidity_2m": 73,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 3,
+            "wind_speed_10m": 10.2
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                28.5,
+                28.2,
+                33.2,
+                32.8,
+                31.7,
+                32.1,
+                33.5
+            ],
+            "temperature_2m_min": [
+                23.3,
+                23.5,
+                23.9,
+                25.3,
+                25.5,
+                25.2,
+                25.1
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.15,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                3,
+                26,
+                10,
+                3
+            ]
+        },
+        "city": "Cannes",
+        "lat": 43.5528,
+        "lon": 7.0174
+    },
+    {
+        "latitude": 43.58,
+        "longitude": 7.129999,
+        "generationtime_ms": 0.7270574569702148,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 14.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 30.1,
+            "relative_humidity_2m": 61,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 3,
+            "wind_speed_10m": 9.4
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                30.3,
+                28.7,
+                31.8,
+                30.5,
+                31.4,
+                32.1,
+                33.5
+            ],
+            "temperature_2m_min": [
+                23.8,
+                23.8,
+                24.6,
+                24.7,
+                25.6,
+                25.2,
+                25.1
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.15,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                3,
+                26,
+                10,
+                3
+            ]
+        },
+        "city": "Antibes",
+        "lat": 43.5804,
+        "lon": 7.1251
+    },
+    {
+        "latitude": 43.48,
+        "longitude": -1.5600004,
+        "generationtime_ms": 0.3701448440551758,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 18.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 25.7,
+            "relative_humidity_2m": 77,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 1,
+            "wind_speed_10m": 12.5
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                26.0,
+                25.4,
+                27.8,
+                26.5,
+                35.4,
+                37.7,
+                27.8
+            ],
+            "temperature_2m_min": [
+                23.8,
+                22.7,
+                21.6,
+                22.6,
+                22.8,
+                22.9,
+                22.5
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                4
+            ]
+        },
+        "city": "Biarritz",
+        "lat": 43.4832,
+        "lon": -1.5586
+    },
+    {
+        "latitude": 46.16,
+        "longitude": -1.1500006,
+        "generationtime_ms": 0.6655454635620117,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 12.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 36.5,
+            "relative_humidity_2m": 17,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 0,
+            "wind_speed_10m": 14.7
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                36.5,
+                31.9,
+                36.4,
+                37.5,
+                34.9,
+                38.7,
+                32.9
+            ],
+            "temperature_2m_min": [
+                23.3,
+                21.1,
+                23.2,
+                25.3,
+                22.5,
+                25.9,
+                23.7
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                3,
+                0,
+                3,
+                2,
+                3
+            ]
+        },
+        "city": "La Rochelle",
+        "lat": 46.1603,
+        "lon": -1.1511
+    },
+    {
+        "latitude": 48.08,
+        "longitude": 7.36,
+        "generationtime_ms": 0.22673606872558594,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 196.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 35.4,
+            "relative_humidity_2m": 13,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 2,
+            "wind_speed_10m": 11.6
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                35.5,
+                31.5,
+                31.4,
+                34.1,
+                35.5,
+                33.2,
+                33.9
+            ],
+            "temperature_2m_min": [
+                16.5,
+                20.0,
+                19.2,
+                18.0,
+                19.6,
+                19.3,
+                19.5
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                5,
+                2,
+                2
+            ]
+        },
+        "city": "Colmar",
+        "lat": 48.0794,
+        "lon": 7.3585
+    },
+    {
+        "latitude": 43.489998,
+        "longitude": -1.4700003,
+        "generationtime_ms": 0.5995035171508789,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 11.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 28.3,
+            "relative_humidity_2m": 63,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 0,
+            "wind_speed_10m": 13.0
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                28.9,
+                28.5,
+                28.6,
+                26.5,
+                35.6,
+                37.9,
+                28.0
+            ],
+            "temperature_2m_min": [
+                24.1,
+                21.6,
+                21.0,
+                22.7,
+                22.9,
+                23.1,
+                22.6
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                4
+            ]
+        },
+        "city": "Bayonne",
+        "lat": 43.4929,
+        "lon": -1.4748
+    },
+    {
+        "latitude": 42.69,
+        "longitude": 2.8899994,
+        "generationtime_ms": 0.8757114410400391,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 41.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 36.4,
+            "relative_humidity_2m": 15,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 0,
+            "wind_speed_10m": 12.2
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                36.6,
+                42.3,
+                40.3,
+                35.7,
+                28.6,
+                29.5,
+                31.3
+            ],
+            "temperature_2m_min": [
+                22.8,
+                29.7,
+                31.4,
+                22.4,
+                20.6,
+                22.9,
+                21.7
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                2,
+                3,
+                0,
+                0
+            ]
+        },
+        "city": "Perpignan",
+        "lat": 42.6887,
+        "lon": 2.8948
+    },
+    {
+        "latitude": 43.21,
+        "longitude": 2.3499994,
+        "generationtime_ms": 0.5840063095092773,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 122.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 39.8,
+            "relative_humidity_2m": 10,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 0,
+            "wind_speed_10m": 11.8
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                40.4,
+                40.2,
+                41.1,
+                35.9,
+                34.8,
+                34.5,
+                33.2
+            ],
+            "temperature_2m_min": [
+                19.9,
+                23.2,
+                26.0,
+                27.4,
+                23.8,
+                23.8,
+                22.7
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.3,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "city": "Carcassonne",
+        "lat": 43.213,
+        "lon": 2.3491
+    },
+    {
+        "latitude": 43.68,
+        "longitude": 4.6199994,
+        "generationtime_ms": 0.3008842468261719,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 23.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 32.1,
+            "relative_humidity_2m": 38,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 2,
+            "wind_speed_10m": 19.9
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                36.0,
+                40.1,
+                38.6,
+                32.2,
+                32.0,
+                34.3,
+                32.6
+            ],
+            "temperature_2m_min": [
+                21.3,
+                18.9,
+                24.1,
+                21.0,
+                22.1,
+                22.2,
+                21.5
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.6,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                15,
+                5,
+                0
+            ]
+        },
+        "city": "Arles",
+        "lat": 43.6766,
+        "lon": 4.6278
+    },
+    {
+        "latitude": 45.920002,
+        "longitude": 6.86,
+        "generationtime_ms": 0.32901763916015625,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 1041.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 26.6,
+            "relative_humidity_2m": 27,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 3,
+            "wind_speed_10m": 14.0
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                27.1,
+                27.6,
+                28.2,
+                29.0,
+                26.9,
+                27.9,
+                30.1
+            ],
+            "temperature_2m_min": [
+                14.5,
+                16.6,
+                16.4,
+                17.7,
+                19.6,
+                18.5,
+                19.0
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.2,
+                0.0,
+                1.8,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                3,
+                15,
+                74,
+                37,
+                40
+            ]
+        },
+        "city": "Chamonix",
+        "lat": 45.9237,
+        "lon": 6.8694
+    },
+    {
+        "latitude": 49.44,
+        "longitude": 1.0999999,
+        "generationtime_ms": 0.24759769439697266,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 16.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 30.0,
+            "relative_humidity_2m": 27,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 3,
+            "wind_speed_10m": 15.3
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                30.1,
+                32.3,
+                33.6,
+                33.7,
+                34.2,
+                33.0,
+                34.6
+            ],
+            "temperature_2m_min": [
+                18.7,
+                18.6,
+                20.9,
+                20.3,
+                21.8,
+                20.6,
+                19.9
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                3,
+                2,
+                5
+            ]
+        },
+        "city": "Rouen",
+        "lat": 49.4431,
+        "lon": 1.0993
+    },
+    {
+        "latitude": 47.4,
+        "longitude": 0.6799998,
+        "generationtime_ms": 0.8220672607421875,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 58.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 37.5,
+            "relative_humidity_2m": 14,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 2,
+            "wind_speed_10m": 16.8
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                37.9,
+                35.8,
+                36.1,
+                37.7,
+                38.7,
+                38.4,
+                40.8
+            ],
+            "temperature_2m_min": [
+                21.0,
+                20.8,
+                23.2,
+                21.9,
+                23.6,
+                23.7,
+                23.3
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.3,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                18,
+                6,
+                3
+            ]
+        },
+        "city": "Tours",
+        "lat": 47.3941,
+        "lon": 0.6848
+    },
+    {
+        "latitude": 47.9,
+        "longitude": 1.8999996,
+        "generationtime_ms": 0.2231597900390625,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 116.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 36.2,
+            "relative_humidity_2m": 16,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 1,
+            "wind_speed_10m": 18.2
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                36.6,
+                34.1,
+                34.8,
+                36.8,
+                37.9,
+                36.4,
+                38.1
+            ],
+            "temperature_2m_min": [
+                18.1,
+                18.0,
+                21.9,
+                19.8,
+                22.5,
+                21.9,
+                21.7
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                15,
+                5,
+                2
+            ]
+        },
+        "city": "Orléans",
+        "lat": 47.9029,
+        "lon": 1.9093
+    },
+    {
+        "latitude": 48.7,
+        "longitude": 6.18,
+        "generationtime_ms": 0.3485679626464844,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 207.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 33.1,
+            "relative_humidity_2m": 17,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 3,
+            "wind_speed_10m": 15.5
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                33.2,
+                30.6,
+                30.5,
+                32.9,
+                34.1,
+                32.3,
+                33.0
+            ],
+            "temperature_2m_min": [
+                18.1,
+                18.2,
+                19.8,
+                19.4,
+                21.2,
+                20.5,
+                20.1
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                3,
+                1,
+                0
+            ]
+        },
+        "city": "Nancy",
+        "lat": 48.6921,
+        "lon": 6.1844
+    },
+    {
+        "latitude": 49.12,
+        "longitude": 6.18,
+        "generationtime_ms": 0.29098987579345703,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 179.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 32.2,
+            "relative_humidity_2m": 20,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 3,
+            "wind_speed_10m": 15.3
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                32.8,
+                29.7,
+                30.6,
+                32.9,
+                34.0,
+                32.4,
+                33.3
+            ],
+            "temperature_2m_min": [
+                19.5,
+                19.6,
+                18.6,
+                18.7,
+                21.0,
+                20.2,
+                21.4
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "city": "Metz",
+        "lat": 49.1193,
+        "lon": 6.1757
+    },
+    {
+        "latitude": 47.24,
+        "longitude": 6.02,
+        "generationtime_ms": 0.31507015228271484,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 255.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 34.5,
+            "relative_humidity_2m": 17,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 3,
+            "wind_speed_10m": 15.0
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                35.0,
+                32.9,
+                32.9,
+                36.1,
+                36.7,
+                35.5,
+                36.4
+            ],
+            "temperature_2m_min": [
+                15.7,
+                18.9,
+                20.9,
+                19.7,
+                21.0,
+                21.3,
+                19.0
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                30,
+                10,
+                3
+            ]
+        },
+        "city": "Besançon",
+        "lat": 47.2378,
+        "lon": 6.0241
+    },
+    {
+        "latitude": 45.78,
+        "longitude": 3.08,
+        "generationtime_ms": 0.19919872283935547,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 416.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 36.2,
+            "relative_humidity_2m": 10,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 0,
+            "wind_speed_10m": 4.8
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                36.6,
+                35.7,
+                33.8,
+                36.1,
+                35.3,
+                35.5,
+                39.0
+            ],
+            "temperature_2m_min": [
+                19.9,
+                20.4,
+                21.7,
+                22.5,
+                24.2,
+                22.8,
+                22.1
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.3,
+                0.9,
+                0.6,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                30,
+                33,
+                10,
+                4
+            ]
+        },
+        "city": "Clermont-Ferrand",
+        "lat": 45.7772,
+        "lon": 3.087
+    },
+    {
+        "latitude": 48.65,
+        "longitude": -2.0300007,
+        "generationtime_ms": 0.3883838653564453,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 23.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 22.0,
+            "relative_humidity_2m": 70,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 1,
+            "wind_speed_10m": 10.8
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                22.5,
+                22.1,
+                32.9,
+                34.2,
+                27.4,
+                26.1,
+                24.0
+            ],
+            "temperature_2m_min": [
+                17.5,
+                18.3,
+                19.6,
+                24.0,
+                23.5,
+                21.7,
+                21.9
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                3.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                3,
+                4,
+                5
+            ]
+        },
+        "city": "Saint-Malo",
+        "lat": 48.6493,
+        "lon": -2.0257
+    },
+    {
+        "latitude": 43.1,
+        "longitude": -0.05000019,
+        "generationtime_ms": 0.554203987121582,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 405.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 36.5,
+            "relative_humidity_2m": 17,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 0,
+            "wind_speed_10m": 7.6
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                36.9,
+                34.1,
+                37.8,
+                33.3,
+                34.0,
+                34.9,
+                30.7
+            ],
+            "temperature_2m_min": [
+                19.9,
+                21.5,
+                18.3,
+                21.1,
+                21.2,
+                20.2,
+                19.7
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.1,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                3,
+                3,
+                5,
+                10,
+                3,
+                0
+            ]
+        },
+        "city": "Lourdes",
+        "lat": 43.095,
+        "lon": -0.0462
+    },
+    {
+        "latitude": 49.42,
+        "longitude": 0.23999977,
+        "generationtime_ms": 0.2244710922241211,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 8.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 25.5,
+            "relative_humidity_2m": 47,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 2,
+            "wind_speed_10m": 9.8
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                25.6,
+                29.6,
+                32.7,
+                31.8,
+                30.9,
+                32.6,
+                34.5
+            ],
+            "temperature_2m_min": [
+                17.2,
+                19.2,
+                18.4,
+                21.0,
+                21.2,
+                19.3,
+                20.3
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6
+            ]
+        },
+        "city": "Honfleur",
+        "lat": 49.4194,
+        "lon": 0.2329
+    },
+    {
+        "latitude": 49.36,
+        "longitude": 0.07999992,
+        "generationtime_ms": 0.2142190933227539,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 8.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 26.7,
+            "relative_humidity_2m": 45,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 0,
+            "wind_speed_10m": 12.2
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                26.7,
+                28.4,
+                32.5,
+                32.9,
+                32.6,
+                30.3,
+                31.1
+            ],
+            "temperature_2m_min": [
+                15.7,
+                16.5,
+                17.0,
+                20.4,
+                20.6,
+                18.8,
+                20.6
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                3
+            ]
+        },
+        "city": "Deauville",
+        "lat": 49.3594,
+        "lon": 0.0745
+    },
+    {
+        "latitude": 47.58,
+        "longitude": 1.3399997,
+        "generationtime_ms": 0.23639202117919922,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 76.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 37.8,
+            "relative_humidity_2m": 13,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 2,
+            "wind_speed_10m": 17.5
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                37.9,
+                35.8,
+                35.7,
+                37.6,
+                38.2,
+                37.3,
+                39.5
+            ],
+            "temperature_2m_min": [
+                17.4,
+                17.8,
+                20.7,
+                18.7,
+                22.0,
+                21.7,
+                22.0
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                15,
+                5,
+                2
+            ]
+        },
+        "city": "Blois",
+        "lat": 47.5861,
+        "lon": 1.3359
+    },
+    {
+        "latitude": 47.42,
+        "longitude": 0.98,
+        "generationtime_ms": 0.27191638946533203,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 55.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 37.9,
+            "relative_humidity_2m": 14,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 1,
+            "wind_speed_10m": 17.9
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                38.6,
+                36.2,
+                36.2,
+                38.0,
+                38.2,
+                38.1,
+                40.4
+            ],
+            "temperature_2m_min": [
+                16.7,
+                14.9,
+                18.4,
+                20.0,
+                23.0,
+                22.9,
+                22.1
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.3,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                20,
+                9,
+                3
+            ]
+        },
+        "city": "Amboise",
+        "lat": 47.4125,
+        "lon": 0.9827
+    },
+    {
+        "latitude": 44.88,
+        "longitude": 1.2199998,
+        "generationtime_ms": 0.3180503845214844,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 148.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 38.8,
+            "relative_humidity_2m": 10,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 0,
+            "wind_speed_10m": 10.8
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                38.8,
+                38.7,
+                38.9,
+                36.7,
+                38.3,
+                41.2,
+                39.4
+            ],
+            "temperature_2m_min": [
+                18.7,
+                19.4,
+                20.0,
+                19.2,
+                21.8,
+                20.5,
+                19.5
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.3,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                13,
+                7,
+                4,
+                4
+            ]
+        },
+        "city": "Sarlat-la-Canéda",
+        "lat": 44.8898,
+        "lon": 1.216
+    },
+    {
+        "latitude": 49.04,
+        "longitude": 3.9599996,
+        "generationtime_ms": 0.28383731842041016,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 86.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 33.1,
+            "relative_humidity_2m": 19,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 3,
+            "wind_speed_10m": 19.0
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                33.1,
+                32.3,
+                32.4,
+                34.3,
+                35.5,
+                34.5,
+                35.3
+            ],
+            "temperature_2m_min": [
+                17.2,
+                17.9,
+                19.6,
+                18.9,
+                20.2,
+                20.8,
+                21.9
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "city": "Épernay",
+        "lat": 49.0414,
+        "lon": 3.959
+    },
+    {
+        "latitude": 43.78,
+        "longitude": 7.4999995,
+        "generationtime_ms": 0.34737586975097656,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 15.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 28.0,
+            "relative_humidity_2m": 69,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 1,
+            "wind_speed_10m": 7.2
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                28.2,
+                27.9,
+                30.1,
+                28.9,
+                28.2,
+                29.8,
+                29.9
+            ],
+            "temperature_2m_min": [
+                24.7,
+                23.6,
+                24.4,
+                23.9,
+                23.3,
+                23.4,
+                26.6
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.9,
+                0.6,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                23,
+                29,
+                31,
+                33
+            ]
+        },
+        "city": "Menton",
+        "lat": 43.7745,
+        "lon": 7.4975
+    },
+    {
+        "latitude": 43.27,
+        "longitude": 6.6399994,
+        "generationtime_ms": 0.5983114242553711,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 13.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 30.2,
+            "relative_humidity_2m": 57,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 2,
+            "wind_speed_10m": 21.1
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                30.6,
+                28.6,
+                32.3,
+                30.5,
+                30.6,
+                31.5,
+                33.2
+            ],
+            "temperature_2m_min": [
+                21.7,
+                23.6,
+                24.5,
+                25.1,
+                25.4,
+                22.2,
+                22.7
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                3,
+                0,
+                0
+            ]
+        },
+        "city": "Saint-Tropez",
+        "lat": 43.2672,
+        "lon": 6.6407
+    },
+    {
+        "latitude": 41.9375,
+        "longitude": 8.75,
+        "generationtime_ms": 0.23698806762695312,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 9.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 31.0,
+            "relative_humidity_2m": 60,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 0,
+            "wind_speed_10m": 10.2
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                31.1,
+                29.9,
+                32.0,
+                32.8,
+                32.4,
+                30.8,
+                32.5
+            ],
+            "temperature_2m_min": [
+                22.6,
+                21.4,
+                20.8,
+                22.6,
+                23.7,
+                22.9,
+                25.7
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                3,
+                2,
+                3,
+                0
+            ]
+        },
+        "city": "Ajaccio",
+        "lat": 41.9192,
+        "lon": 8.7386
+    },
+    {
+        "latitude": 42.625,
+        "longitude": 9.4375,
+        "generationtime_ms": 0.2645254135131836,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 15.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 31.1,
+            "relative_humidity_2m": 56,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 1,
+            "wind_speed_10m": 7.9
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                31.1,
+                29.8,
+                30.4,
+                29.3,
+                29.4,
+                31.6,
+                33.8
+            ],
+            "temperature_2m_min": [
+                22.5,
+                23.3,
+                23.6,
+                23.5,
+                23.9,
+                23.8,
+                25.5
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                3,
+                3,
+                5,
+                5
+            ]
+        },
+        "city": "Bastia",
+        "lat": 42.6973,
+        "lon": 9.4509
+    },
+    {
+        "latitude": 48.64,
+        "longitude": -1.5100002,
+        "generationtime_ms": 0.37801265716552734,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 31.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 21.5,
+            "relative_humidity_2m": 76,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 3,
+            "wind_speed_10m": 19.7
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                21.9,
+                26.5,
+                33.4,
+                36.9,
+                33.4,
+                35.9,
+                32.3
+            ],
+            "temperature_2m_min": [
+                16.6,
+                16.5,
+                20.4,
+                26.8,
+                25.8,
+                22.8,
+                23.5
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                2.1
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                15,
+                5,
+                5
+            ]
+        },
+        "city": "Mont-Saint-Michel",
+        "lat": 48.6361,
+        "lon": -1.5115
+    },
+    {
+        "latitude": 48.8,
+        "longitude": 2.12,
+        "generationtime_ms": 0.2999305725097656,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 144.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 33.6,
+            "relative_humidity_2m": 22,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 3,
+            "wind_speed_10m": 20.4
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                33.7,
+                32.4,
+                33.2,
+                34.4,
+                35.4,
+                34.9,
+                36.0
+            ],
+            "temperature_2m_min": [
+                18.3,
+                16.0,
+                21.1,
+                21.3,
+                21.8,
+                21.6,
+                22.0
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                5,
+                2,
+                2
+            ]
+        },
+        "city": "Versailles",
+        "lat": 48.8049,
+        "lon": 2.1204
+    },
+    {
+        "latitude": 49.42,
+        "longitude": 0.23999977,
+        "generationtime_ms": 0.21457672119140625,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Paris",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 8.0,
+        "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "relative_humidity_2m": "%",
+            "precipitation": "mm",
+            "rain": "mm",
+            "weather_code": "wmo code",
+            "wind_speed_10m": "km/h"
+        },
+        "current": {
+            "time": "2026-07-07T16:30",
+            "interval": 900,
+            "temperature_2m": 25.5,
+            "relative_humidity_2m": 47,
+            "precipitation": 0.0,
+            "rain": 0.0,
+            "weather_code": 2,
+            "wind_speed_10m": 9.8
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "°C",
+            "temperature_2m_min": "°C",
+            "precipitation_sum": "mm",
+            "precipitation_probability_max": "%"
+        },
+        "daily": {
+            "time": [
+                "2026-07-07",
+                "2026-07-08",
+                "2026-07-09",
+                "2026-07-10",
+                "2026-07-11",
+                "2026-07-12",
+                "2026-07-13"
+            ],
+            "temperature_2m_max": [
+                25.6,
+                29.6,
+                32.7,
+                31.8,
+                30.9,
+                32.6,
+                34.5
+            ],
+            "temperature_2m_min": [
+                17.2,
+                19.2,
+                18.4,
+                21.0,
+                21.2,
+                19.3,
+                20.3
+            ],
+            "precipitation_sum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "precipitation_probability_max": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6
+            ]
+        },
+        "city": "Honfleur",
+        "lat": 49.4194,
+        "lon": 0.2329
+    }
+]

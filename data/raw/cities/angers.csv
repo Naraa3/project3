@@ -1,0 +1,433 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+480682317,node,Le Bystrot,restaurant,Angers,,,,47.3413521,-0.430284
+627537662,node,Le Pub Ralliement,restaurant,Angers,"Place du Ralliement, 49000, Angers",49000,,47.4714925,-0.5514882
+767470138,node,Léon,restaurant,Angers,,,,47.4735471,-0.6201702
+871811244,node,Guinguette Caparicia (ex La Croisette Béhuard),restaurant,Angers,"Rue de la Boire, 49170, Béhuard",49170,https://www.lacroisettebehuard.com/,47.3828048,-0.6389061
+897131068,node,Bar Restaurant de La Loire,restaurant,Angers,,,,47.422896,-0.5562328
+1375334762,node,,restaurant,Angers,,,,47.5000607,-0.490034
+1405639271,node,Hôtel Saint-Julien,hotel,Angers,"9 Place du Ralliement, 49100, Angers",49100,https://www.hotelsaintjulien.com/,47.4711864,-0.5509856
+1405730281,node,Bouillon Baron,restaurant,Angers,"11 Avenue Marie Talet, 49100, Angers",49100,,47.4757773,-0.5479896
+1529461909,node,Au Relais d'Anjou,restaurant,Angers,,,,47.661602,-0.2447237
+1529461924,node,Restaurant des Plantes,restaurant,Angers,54 Avenue d'Angers,,,47.6621352,-0.2439187
+1533228177,node,La Petite Fringale,restaurant,Angers,19 Avenue d'Angers,,,47.6659424,-0.2426153
+1533228194,node,Le Louvio,restaurant,Angers,"2 bis Rue de la Mairie, 49430, Durtal",49430,,47.6708797,-0.2434248
+1561091744,node,Chez Lux,restaurant,Angers,"199 Rue Éblé, 49000, Angers",49000,,47.454996,-0.5664856
+1709691389,node,L'Orchidée,restaurant,Angers,"7 Avenue du Commerce, 49130, Sainte-Gemmes-sur-Loire",49130,https://www.restaurant-orchidee.fr/,47.4239429,-0.5577408
+1785263406,node,Les Alizés,restaurant,Angers,,,,47.3982716,-0.530055
+1818980502,node,,restaurant,Angers,,,,47.5740963,-0.3587338
+1818980552,node,La Roseraie,restaurant,Angers,,,,47.5738199,-0.3582487
+1843722362,node,La boule d'or,restaurant,Angers,"3 Place de l'Église, 49770",49770,,47.5194756,-0.6685205
+1867002493,node,Relais de Tournebride,restaurant,Angers,,,,47.4138914,-0.9147723
+1925271410,node,Murmure,restaurant,Angers,"La Roche de Murs, 49610, Mûrs-Erigné",49610,https://www.murmureresto.com/,47.4033707,-0.5431028
+2036075824,node,La petite ardoise,restaurant,Angers,,,https://laptiteardoise-angers.fr/,47.4733512,-0.549821
+2036117584,node,Les Sentiers du Dakar,restaurant,Angers,,,,47.4722215,-0.5547078
+2114884471,node,Les Reflets de Loire,restaurant,Angers,"2 Place Charles Sigogne, 49250, Saint-Mathurin-sur-Loire",49250,http://www.restaurant-refletsdeloire.fr,47.4094937,-0.3217662
+2122549958,node,Le Bouillon du Ralliement,restaurant,Angers,"3 Place du Ralliement, 49100, Angers",49100,https://www.bouillon-ralliement.com/,47.4715737,-0.5516423
+2122550815,node,Brasserie du Ralliement,restaurant,Angers,"7 Place du Ralliement, 49100, Angers",49100,https://www.brasserieduralliement.fr,47.4713076,-0.5513013
+2122786486,node,Chez Mario,restaurant,Angers,,,,47.4818162,-0.5671291
+2133867764,node,Provence Caffé,restaurant,Angers,"9 Place du Ralliement, 49100, Angers",49100,,47.4712199,-0.5510919
+2189858219,node,Au Cornillé,restaurant,Angers,,,,47.4999268,-0.3011182
+2255652692,node,Le Sourire,restaurant,Angers,,,https://le10n9.fr/,47.4771078,-0.5576783
+2334352859,node,Les Variétés,restaurant,Angers,,,,47.4677487,-0.550977
+2343228888,node,La Crémaillière,restaurant,Angers,"30 Rue Bressigny, 49100, Angers",49100,,47.4673731,-0.5501041
+2343229955,node,Fricot,restaurant,Angers,"7 bis Boulevard du Maréchal Foch, 49100",49100,,47.46915,-0.549102
+2343234430,node,Le Corléone,restaurant,Angers,"42 Rue du Cornet, 49100, Angers",49100,,47.472981,-0.55186
+2343238881,node,Pasta al Dente,restaurant,Angers,,,,47.4717235,-0.5529354
+2343238883,node,Le Bistrot des Ducs,restaurant,Angers,"6 Rue des Deux-Haies, 49100, Angers",49100,https://bistrotdesducs.fr,47.4717656,-0.552992
+2344418263,node,Sakura,restaurant,Angers,"8 Rue des Poëliers, 49100, Angers",49100,https://www.sakura-angers.fr/,47.4731482,-0.5506524
+2344429669,node,Le Milord,restaurant,Angers,,,,47.4734942,-0.5488757
+2344434264,node,La Brigade,restaurant,Angers,"5, 49100, Angers",49100,https://www.la-brigade.fr/restaurant-angers,47.471358,-0.5540471
+2344434392,node,Holly’s Diner,restaurant,Angers,"2 Rue Mondain Chanlouineau, 49100, Angers",49100,https://hollysdiner.fr/,47.471433,-0.554414
+2351594610,node,Restaurant Universitaire Belle Beille,restaurant,Angers,"3 Boulevard de Lavoisier, 49000, Angers",49000,,47.4788863,-0.6011299
+2352344787,node,Restaurant Universitaire - La Gabare,restaurant,Angers,,,https://www.crous-nantes.fr/se-restaurer/,47.4789728,-0.5506555
+2366000651,node,O’Daguenais,restaurant,Angers,"152 Rue Ligérienne, 49800, La Daguenière",49800,,47.4202275,-0.4453079
+2366017103,node,Le Grand Bras - Pub Qg49,restaurant,Angers,,,,47.3700693,-0.7529856
+2376372784,node,La Cantine Avrillé,restaurant,Angers,,,,47.5171749,-0.6075516
+2434913592,node,La Tocante,restaurant,Angers,,,https://www.latocante-restaurant.com/,47.4672851,-0.4952699
+2632441617,node,Acquaviva,restaurant,Angers,,,,47.5606119,-0.6711891
+2638025829,node,Dolce Pittsa,restaurant,Angers,"22 Rue Beaurepaire, 49100, Angers",49100,,47.4741717,-0.5597301
+2773829113,node,Mishi Mishi,restaurant,Angers,Beaucouzé,,http://www.mikadofrance.fr,47.4846994,-0.6272401
+2773873797,node,Fuxia,restaurant,Angers,Beaucouzé,,https://www.fuxia.fr/,47.4846891,-0.6269605
+2773882453,node,La Pataterie,restaurant,Angers,Beaucouzé,,,47.4845479,-0.6266789
+2773888567,node,Tommy's Diner Cafe,restaurant,Angers,Beaucouzé,,https://www.tommys-cafe.com/,47.4845367,-0.6264377
+2773895416,node,Mikado,restaurant,Angers,Beaucouzé,,http://www.mikadofrance.fr,47.4848717,-0.6272119
+2773902768,node,L’Atoll Café Brasserie,restaurant,Angers,Beaucouzé,,,47.4848459,-0.6269473
+2773907526,node,Les Relais d'Alsace,restaurant,Angers,Beaucouzé,,https://www.lesrelaisdalsace.com/,47.4848301,-0.6266515
+2781238755,node,Bouillon Saint-Laud,restaurant,Angers,"8 Place de la Gare, 49100, Angers",49100,https://www.bouillon-angers.com/,47.4653072,-0.5574175
+2781926816,node,Brasserie de la Gare,restaurant,Angers,"5-7 Place de la Gare, 49100, Angers",49100,,47.4653848,-0.5565411
+2852670350,node,Maison Paganelli,restaurant,Angers,,,https://maisonpaganelli.com/angers/,47.4718366,-0.5529381
+2852761471,node,Monkey,restaurant,Angers,,,,47.4088325,-0.6178535
+2852761473,node,La Bafouille,restaurant,Angers,,,,47.4087391,-0.618243
+2852761474,node,Pointe ça pointe,restaurant,Angers,,,,47.4089169,-0.6181279
+2852777037,node,Grill house,restaurant,Angers,"37 Rue Bressigny, 49100",49100,https://grillhouse-angers.fr/,47.467329,-0.5496615
+2853059355,node,Il Fiore,restaurant,Angers,9 Rue des Lices,,,47.4686036,-0.5538052
+2853072935,node,Chicken Valley,restaurant,Angers,"31 Rue de la Parcheminerie, 49100, Angers",49100,,47.4734214,-0.5541382
+2862085560,node,Marlaguette,restaurant,Angers,105 Rue de la Madeleine,,,47.4611437,-0.5383148
+2986109597,node,Flunch,restaurant,Angers,"3 Boulevard Gaston Ramon, 49100, Angers",49100,https://www.flunch.fr/restaurant/angers-st-serge/flunch-angers-saint-serge/,47.4891193,-0.5432904
+3241192949,node,Tigr.,restaurant,Angers,"43 Rue Toussaint, 49000",49000,https://tigr-angers.fr/,47.4692371,-0.5568179
+3241194403,node,Chez Minh,restaurant,Angers,,,,47.4697981,-0.5548581
+3241202541,node,Le Connétable,restaurant,Angers,13 Rue des Deux-Haies,,https://le-connetable.fr/,47.4716176,-0.5526477
+3259886661,node,Ristorante Del Arte,restaurant,Angers,"Zac de montrejeau espace anjou, 49000, Angers",49000,https://www.delarte.fr/restaurant-italien-pizzeria-angers-espace-anjou.html,47.4663127,-0.5263567
+3393642768,node,Assos Kebap,restaurant,Angers,,,,47.4738618,-0.5808804
+3395116566,node,Hôtel Mercure,hotel,Angers,,,,47.468758,-0.5931859
+3415728985,node,L'étage,restaurant,Angers,,,,47.467982,-0.5966845
+3444585908,node,Le Chat qui pêche,restaurant,Angers,,,,47.5623621,-0.6749568
+3481379793,node,B&b Hôtel Angers 1 Beaucouzé,hotel,Angers,"6 Avenue du pin, 49070, Beaucouzé",49070,https://www.hotel-bb.com/fr/-/hotelByName.htm?id=4045,47.4675675,-0.6280872
+3556039816,node,,restaurant,Angers,,,,47.4736536,-0.5876143
+3572022711,node,Ibis,hotel,Angers,,,,47.472835,-0.5558815
+3572269914,node,Krousty Sabaïdi,restaurant,Angers,,,,47.4744981,-0.5524025
+3583777532,node,Le Dos de la Cuillère,restaurant,Angers,"35 Rue Toussaint, 49100, Angers",49100,,47.4693254,-0.5563024
+3589528649,node,Badem,restaurant,Angers,,,,47.4741488,-0.5543033
+3589529947,node,L’ardoise,restaurant,Angers,"7 Place Molière, 49000, Angers",49000,https://lardoise-angers.fr/,47.4742688,-0.5545173
+3589529993,node,Hôtel Molière,hotel,Angers,,,https://www.hotel-moliere.net/,47.4738868,-0.5544934
+3589529994,node,La Gogane,restaurant,Angers,"11 Place Molière, 49100, Angers",49100,https://creperie-la-gogane.metro.rest/?lang=fr,47.4739024,-0.5545367
+3589543645,node,Pizza Tempo,restaurant,Angers,,,,47.4740664,-0.5535961
+3589545968,node,Sagoa,restaurant,Angers,"23bis Rue du Mail, 49100, Angers",49100,,47.474576,-0.5525626
+3589565214,node,Lait thym sel,restaurant,Angers,"17 Rue Boisnet, 49100, Angers",49100,https://laitthymsel.com/,47.4745559,-0.5510139
+3667802483,node,La Guinguette à Jojo,restaurant,Angers,,,https://www.guinguetteajojo.fr/,47.4111917,-0.4320589
+3784521995,node,Nanooda,restaurant,Angers,"7 Rue du Mail, 49100, Angers",49100,,47.4751885,-0.553533
+3804071885,node,Hôtel-Restaurant Le Lion d'Or,hotel,Angers,,,,47.4046148,-0.9222577
+3817027083,node,Burgers & friends,restaurant,Angers,"1 Rue Thiers, 49100, Angers",49100,https://burgersandfriends.eatbu.com/?lang=fr,47.4763623,-0.5515957
+3817036069,node,Pizza Harmonie,restaurant,Angers,,,,47.4764885,-0.5519128
+3828421153,node,Le Royalty,hotel,Angers,,,,47.4760809,-0.5499026
+3828427409,node,Le Mans,hotel,Angers,,,,47.4760446,-0.5509681
+3928537318,node,Les Petits Prés,restaurant,Angers,"6 Place du Ralliement, 49100, Angers",49100,https://www.lespetitspres.fr/,47.4710883,-0.5524896
+3944605819,node,Asia vietfood,restaurant,Angers,"55 Rue Faidherbe, 49100, Angers",49100,,47.4653096,-0.5604028
+3946836864,node,Markus,hotel,Angers,"21 Foch Boulevard du Maréchal Foch, 49100, Angers",49100,,47.4682313,-0.5503082
+4023416646,node,La fleur de sel,restaurant,Angers,,,,47.4989441,-0.5236871
+4102341900,node,Le Zinc,restaurant,Angers,,,,47.4699627,-0.5100607
+4115060397,node,Le Bon Cap,restaurant,Angers,9 Quai Gambetta,,,47.3536482,-0.7628239
+4115072855,node,L'Auberge,restaurant,Angers,2 Place des Halles,,,47.3536251,-0.7638608
+4124208015,node,L'Hoirie,restaurant,Angers,"2 Allée Henri Faris, 49070, Beaucouzé",49070,,47.4691433,-0.6184823
+4130548942,node,La Guillemette,restaurant,Angers,,,,47.3795196,-0.6439238
+4151273800,node,Restaurant de la Technopole,restaurant,Angers,,,,47.478768,-0.6065662
+4169430241,node,Hôtel Mercure,hotel,Angers,,,,47.4742366,-0.5453312
+4169430243,node,Le Grand Jardin,restaurant,Angers,,,https://legrandjardin.wixsite.com/le-grand-jardin/,47.4742375,-0.5452625
+4169430245,node,Pizza Hut,restaurant,Angers,,,,47.4755379,-0.5486532
+4213078438,node,La Tablée,restaurant,Angers,1 Rue David-d'Angers,,https://creperie-la-tablee-restaurant-angers.eatbu.com/?lang=fr,47.4721691,-0.5506939
+4278203489,node,La Réserve,restaurant,Angers,,,https://www.lareserveangers.fr/,47.4721617,-0.5645773
+4294242189,node,Pick#Eat,restaurant,Angers,,,,47.473032,-0.5509871
+4294248689,node,Côté Sushi,restaurant,Angers,"2 Rue Bodinier, 49000",49000,,47.4729719,-0.5519826
+4416055276,node,1801 Les cuisines du musée,restaurant,Angers,,,,47.4690205,-0.5543247
+4458480287,node,Bijane Restaurant,restaurant,Angers,,,https://restaurantbijane.fr/,47.4689193,-0.4953645
+4502368091,node,Chez la mère - Le Ronceray,restaurant,Angers,,,https://www.leronceray.com/,47.4745996,-0.5601946
+4556225789,node,Au grain d’Elle,restaurant,Angers,"5 Rue Hoche, 49100, Angers",49100,,47.4676685,-0.5585728
+4556284593,node,Les trois vallées,restaurant,Angers,,,https://restaurant-les-trois-vallees-angers.eatbu.com/?lang=fr,47.4673612,-0.5584364
+4602351217,node,Le triporteur,restaurant,Angers,40 Rue David-d'Angers,,https://www.letriporteurangers.fr/,47.4705375,-0.5485292
+4676661589,node,Ciboule & Ciboulette,restaurant,Angers,,,,47.505521,-0.5879843
+4693824393,node,Le Punjab,restaurant,Angers,,,https://www.lepunjab-restaurant-angers.fr/,47.4730875,-0.5490978
+4769513730,node,La Villa Roma,restaurant,Angers,"4 Rue du Val de Sarthe, 49125",49125,http://pizzeriavillaroma-tierce.com,47.6143206,-0.4686123
+4777687514,node,Appart'City,hotel,Angers,,,,47.4767881,-0.5491514
+4785615284,node,Balladin Hôtel,hotel,Angers,,,,47.4959089,-0.491533
+4787096122,node,Ernest'inn,restaurant,Angers,"3 Rue Saint-Maurille, 49100",49100,https://ernest-inn.com,47.4711629,-0.550776
+4787106243,node,La Beeka,restaurant,Angers,,,,47.4749796,-0.5504093
+4787904748,node,Le Napoli,restaurant,Angers,"15 Rue Toussaint, 49100, Angers",49100,,47.4696836,-0.555098
+4813269815,node,Auberge de Chanteclair,restaurant,Angers,"Quai de la Noë, 49080, Bouchemaine",49080,,47.4221305,-0.6078545
+4885341007,node,Pizza Tempo,restaurant,Angers,"Rue Charles de Gaulle, 49130, Les Ponts-de-Cé",49130,https://www.pizza-tempo.fr/,47.4244551,-0.5250238
+4885481169,node,Pizza Fresca,restaurant,Angers,"36 bis Rue Charles de Gaulle, 49130, Les Ponts-de-Cé",49130,https://fr-fr.facebook.com/Pizza-Fresca-Burgers-1576241475978334/,47.4233943,-0.5242467
+4949540583,node,Chez Pont-Pont,restaurant,Angers,"13 Promenade du Bout du Monde, 49100, Angers",49100,https://chezpontpont.fr/,47.4702161,-0.5580443
+4958908252,node,Le Comptoir de Marie Bigoude,restaurant,Angers,"Rue Montault, 49100, Angers",49100,,47.4704704,-0.5542194
+5024307650,node,Les 3 Lieux,hotel,Angers,"10 Port des Noues, 49130, Les Ponts-de-Cé",49130,,47.4231332,-0.5267495
+5062783120,node,La Boucherie,restaurant,Angers,,,,47.4679309,-0.5517043
+5124918535,node,La Goulette,restaurant,Angers,"5 Place Pierre Semard, 49100, Angers",49100,,47.465258,-0.5593217
+5235223714,node,Château de Chatillon,restaurant,Angers,,,,47.5234295,-0.5582362
+5270021222,node,Au petit resto,restaurant,Angers,,,,47.476601,-0.5581112
+5291885693,node,Hostellerie du bon Pasteur,hotel,Angers,"18 Rue Marie-Euphrasie Pelletier, 49100, Angers",49100,,47.4709874,-0.5700493
+5296160740,node,EPARC,restaurant,Angers,,,,47.4872577,-0.5013621
+5312235846,node,Le Bistrot de Louise,restaurant,Angers,,,,47.4605385,-0.5521803
+5312246803,node,Le bar des bons vivants,restaurant,Angers,"17 Rue Dupetit-Thouars, 49000, Angers",49000,,47.4625157,-0.5523744
+5313783764,node,Mémé dans les Orties,restaurant,Angers,,,,47.4618979,-0.554485
+5314116693,node,L’Astuce,restaurant,Angers,"57 Avenue Victor Châtenay, 49100, Angers",49100,https://restaurant-lastuce-angers.fr/,47.4848368,-0.5173163
+5550567256,node,Brasserie Chez Sophie,restaurant,Angers,"3 Rue Saint-Gildas, 49320, Coutures",49320,,47.3631678,-0.3544398
+5592368912,node,La Cantine Viêt,restaurant,Angers,"9 Rue de la Roë, 49000, Angers",49000,,47.4735813,-0.5539827
+5592639433,node,Les Casse-Croûte de Suzy,restaurant,Angers,,,https://lescassecroutedesuzy.fr/,47.4723464,-0.552278
+5609850285,node,Martin Pêcheur,restaurant,Angers,,,,47.4092359,-0.3206079
+5614075086,node,Restaurant de la Ferme de l’Île Saint-Aubin,restaurant,Angers,,,,47.5113824,-0.5492792
+5692621450,node,Le Noë,restaurant,Angers,"Quai de la Noë, 49080, Bouchemaine",49080,,47.421865,-0.6084282
+5766607816,node,Le Bistrot des Quais,restaurant,Angers,"19 Quai Gambetta, 49290, Chalonnes sur Loire",49290,https://bistrotdesquais.com/,47.3537995,-0.7633461
+5856720441,node,Au Resto',restaurant,Angers,,,,47.3565177,-0.6554037
+5856720447,node,Le Petit Blaison Côté Restaurant,restaurant,Angers,,,,47.399916,-0.3717716
+5878138984,node,Guinguette Port Gogagne,restaurant,Angers,,,,47.3601455,-0.6553086
+5888930504,node,Le Chenin,restaurant,Angers,,,,47.3828706,-0.6571321
+5893295285,node,Guinguette Port de Vallée,restaurant,Angers,,,,47.413765,-0.4082194
+5896873755,node,Gueuleton,restaurant,Angers,"14 Rue de la Roë, 49000, Angers",49000,https://www.gueuleton.fr/gueuleton-angers/,47.4733046,-0.5538969
+5896911517,node,Au pays Mandingue,restaurant,Angers,,,,47.4734763,-0.5544174
+5897187306,node,Thaï L’Inde,restaurant,Angers,,,,47.4717528,-0.5528328
+5899928985,node,L'Eau à la Bouche,restaurant,Angers,"31 Quai des Carmes, 49100",49100,,47.4723597,-0.5605079
+5899929085,node,La Péniche,restaurant,Angers,"Quai Des Carmes, 49100, Angers",49100,https://www.peniche-angers.fr,47.4721509,-0.5608928
+5899993301,node,La Ferme,restaurant,Angers,"2 Place Freppel, 49100, Angers",49100,,47.4705162,-0.5557966
+5902329618,node,Thai addict,restaurant,Angers,,,,47.4733939,-0.5542469
+5904513739,node,Daddy,restaurant,Angers,"22 Rue Parcheminerie, 49100, Angers",49100,,47.4736705,-0.5532395
+5934084764,node,,restaurant,Angers,"51 Rue Jules Guitton, 49100, Angers",49100,,47.4734769,-0.5461498
+5934376148,node,Chez Minh,restaurant,Angers,,,,47.4661401,-0.5469871
+5952348261,node,Mercure,hotel,Angers,"18 Boulevard du Maréchal Foch, 49100, Angers",49100,,47.469202,-0.5497414
+6000019039,node,Le Comptoir Phénicien,restaurant,Angers,,,,47.4738144,-0.5825549
+6008051961,node,Paku Paku,restaurant,Angers,"38 Rue Bressigny, Angers",,https://paku-paku.fr/,47.4673608,-0.5500262
+6022982094,node,Hôtel Formule 1 Angers Ouest Beaucouzé,hotel,Angers,,,,47.4659075,-0.6344253
+6022982095,node,Fasthôtel Angers Ouest,hotel,Angers,,,,47.4664341,-0.633752
+6022982099,node,Comfort Hotel Angers Beaucouze,hotel,Angers,,,,47.4659912,-0.6335718
+6022982100,node,B&B Hôtel Angers 2 Université,hotel,Angers,,,,47.4670283,-0.6331632
+6023084445,node,Buffalo Grill,restaurant,Angers,,,,47.4677264,-0.6274467
+6023246834,node,L'Ange Vin,restaurant,Angers,,,,47.4729988,-0.618719
+6023530377,node,Hôtel Première Classe,hotel,Angers,,,,47.4693014,-0.6166486
+6023530378,node,Le Restaurant,restaurant,Angers,,,,47.4689765,-0.617197
+6023530379,node,Hôtel Restaurant Campanile,hotel,Angers,,,,47.4691557,-0.6175144
+6023530383,node,Le Saint-Benoît,restaurant,Angers,8 Avenue Paul Prosper Guilhem,,,47.468535,-0.6160315
+6023531796,node,Hôtel Kyriad,hotel,Angers,,,,47.4620774,-0.6175575
+6023531797,node,Bella Vitta,restaurant,Angers,,,,47.4617212,-0.6178071
+6028363421,node,Bistrot Jules,restaurant,Angers,,,,47.4603266,-0.6169149
+6034566866,node,Poulet Braisé,restaurant,Angers,56 Rue Jules Guitton,,,47.473369,-0.5466032
+6067268886,node,Potiron & Ciboulette,restaurant,Angers,57 Rue Baudrière,,https://www.potironetciboulette.fr/,47.4717828,-0.5551603
+6067283085,node,Dazuma,restaurant,Angers,44 Rue Beaurepaire,,,47.4747072,-0.5606327
+6124818693,node,Crêperie des Angles,restaurant,Angers,"13B Boulevard du Maréchal Foch, 49100, Angers",49100,,47.4688285,-0.5494688
+6140945852,node,La Table de la Bergerie,restaurant,Angers,,,,47.2678479,-0.5923031
+6176559387,node,Terrasse de l’abbaye,restaurant,Angers,,,,47.4219637,-0.6087428
+6176585387,node,La Brasserie de la Maine,restaurant,Angers,,,,47.4205476,-0.6103951
+6176664689,node,Le Win's,restaurant,Angers,,,,47.4519092,-0.5556777
+6241800140,node,Relais Saint-Barth,restaurant,Angers,"11, 49124, Saint-Barthélemy-d'Anjou",49124,,47.4669084,-0.4961437
+6306127385,node,Le Pont aux Filles,restaurant,Angers,,,,47.5122462,-0.5142151
+6320578845,node,O Bistrot d'LN,restaurant,Angers,"106 Rue des Ponts-de-Cé, 49000, Angers",49000,https://obistrotdln.com/o-bistrot-d-ln,47.4520447,-0.538265
+6371909188,node,Hôtel Le Progrès,hotel,Angers,,,,47.4651422,-0.5581024
+6415856819,node,,restaurant,Angers,,,,47.5010015,-0.5708655
+6479181823,node,Ribote,restaurant,Angers,"30 Rue Delaâge, 49100, Angers",49100,,47.4671044,-0.5566303
+6525011759,node,Hôtel d'Anjou,hotel,Angers,Boulevard du Maréchal Foch,,https://www.hoteldanjou.fr/,47.4697536,-0.5482846
+6644560595,node,La Pause,restaurant,Angers,"54 Rue de la Liberté, 49070, Saint Jean de Linières",49070,https://www.gralon.net/restaurants-france/maine-et-loire/restaurant-la-pause-saint-jean-de-linieres-2319.htm,47.4653569,-0.6690727
+6722822045,node,Le Grandgousier,restaurant,Angers,"7 Rue Saint-Laud, 49100, Angers",49100,https://legrandgousier.fr/,47.4727204,-0.5520303
+6723499254,node,La Strada,restaurant,Angers,40 Rue Bressigny,,,47.4672573,-0.5498281
+6783252485,node,Barco Vino,restaurant,Angers,"Quai des Carmes, 49100, Angers",49100,https://www.barcovino.com/,47.4727309,-0.559981
+6789256838,node,Croccante,restaurant,Angers,"54 Rue du Mail, 49100, Angers",49100,,47.473643,-0.5511985
+6857251808,node,Les Mari Morgans,restaurant,Angers,,,http://restaurant-les-mari-morgans.com/,47.6154499,-0.4682661
+6857251817,node,Bistrot Mauboussin,restaurant,Angers,,,,47.6148437,-0.4682044
+6857257455,node,Au Grenier à Blé,restaurant,Angers,,,,47.6169129,-0.4685135
+6857302202,node,Mona Pizza,restaurant,Angers,,,,47.6146515,-0.4668016
+6870095037,node,Le Paloma,restaurant,Angers,7 Rue Grille,,,47.4744435,-0.5612837
+6902569966,node,Tran,restaurant,Angers,,,,47.4674717,-0.5249426
+6902569967,node,L’Ancre,restaurant,Angers,,,,47.4673945,-0.5247062
+6902569973,node,Francesca,restaurant,Angers,,,https://www.francesca.com/,47.4677652,-0.5250265
+6908323072,node,Made Burger,restaurant,Angers,,,,47.466594,-0.5222647
+6909853140,node,Pizza Tempo,restaurant,Angers,,,,47.4674817,-0.5243144
+6981114605,node,L'Ardoise,restaurant,Angers,,,https://lardoise-brissac.com/,47.3549217,-0.4487403
+7021315531,node,L'Académie,restaurant,Angers,"7 Place de l’Académie, 49000, Angers",49000,,47.4676342,-0.5588859
+7027885482,node,Ibis Styles Angers Centre Gare,hotel,Angers,"23 bis Rue Paul Bert, 49100, Angers",49100,https://all.accor.com/hotel/6920/index.fr.shtml,47.4655897,-0.5505038
+7031750741,node,Le Zinc à Crêpes,restaurant,Angers,42 Avenue Besnardière,,,47.4776032,-0.5466093
+7070213677,node,Chez Clem's,restaurant,Angers,,,,47.4788912,-0.5449122
+7070213678,node,La table 33,restaurant,Angers,"33 Avenue Besnardière, 49100, Angers",49100,https://www.latable33.fr/,47.4782013,-0.5456083
+7087821415,node,Restaurant Iki,restaurant,Angers,,,,47.4680447,-0.5465634
+7093902198,node,Affamés,restaurant,Angers,,,,47.4627438,-0.5598843
+7093902199,node,La Passerelle,restaurant,Angers,,,,47.4626997,-0.5603306
+7134125085,node,Autour d'un Cep,restaurant,Angers,"9 Rue Baudrière, 49100, Angers",49100,https://www.autourduncep.com/,47.4721944,-0.5567657
+7134309385,node,Le 15 Gourmand,restaurant,Angers,15 Boulevard du Maréchal Foch,,,47.4686382,-0.5497935
+7134312286,node,Le Relais,restaurant,Angers,"9 Rue de la Gare, 49100, Angers",49100,https://lerelais-angers.fr/,47.465873,-0.5569372
+7134337385,node,Gribiche,restaurant,Angers,9 Rue Max Richard,,,47.4657291,-0.5581278
+7152468008,node,Royal Panda,restaurant,Angers,,,,47.4880531,-0.5438393
+7153861285,node,Le Hangar de Christy,restaurant,Angers,"7 Rue Charles Sauria, 49130",49130,,47.4405978,-0.5036895
+7182316438,node,Signorizza,restaurant,Angers,,,,47.4679713,-0.5506559
+7182316441,node,Le Saigon,restaurant,Angers,83 Rue Bressigny,,,47.4662972,-0.5473443
+7182316442,node,Meet Noodle,restaurant,Angers,,,,47.4677245,-0.5505694
+7182316443,node,Tokyo Foch,restaurant,Angers,,,,47.4679203,-0.5507219
+7182316446,node,India,restaurant,Angers,,,https://www.india49.com/,47.4684234,-0.5491556
+7227294285,node,Foodista,restaurant,Angers,"8 Rue Boisnet, 49100, Angers",49100,,47.4750121,-0.5503256
+7236559587,node,Auberge de la Mairie,restaurant,Angers,,,,47.44564,-0.4676211
+7304548467,node,La Soufflerie,restaurant,Angers,"8 Place du Pilori, 49100, Angers",49100,https://www.lasoufflerieangers.fr/,47.4730206,-0.5501557
+7316107418,node,Belle Poule,restaurant,Angers,,,,47.4226407,-0.4952745
+7357103918,node,Le Petit Manoir,restaurant,Angers,"12 Rue Armand Brousse, 49610, Saint-Melaine-sur-Aubance",49610,,47.3703846,-0.4965403
+7419182234,node,Chez Oki,restaurant,Angers,"12 Avenue Pasteur, 49100, Angers",49100,,47.4718364,-0.5420236
+7419566219,node,Au comptoir de l'Inde,restaurant,Angers,11 Place Pierre Mendès-France,,,47.4728928,-0.5452739
+7419566220,node,Love e Basta,restaurant,Angers,"10 Place Pierre Mendès France, 49100, Angers",49100,https://www.loveebasta.com/,47.4730433,-0.546151
+7486396767,node,Restaurant Club-House L'Auberge du Moulin,restaurant,Angers,,,,47.4033045,-0.4531629
+7487428728,node,Le P'tit Birdie,restaurant,Angers,"La Béchalière, 49480, Saint Sylvain d'anjou",49480,https://www.golfdesaintsylvain.com/restaurant-golf-saint-sylvain-anjou.html,47.5092807,-0.480071
+7657360628,node,Le clos du Roi,restaurant,Angers,,,,47.4696505,-0.5589885
+7793747585,node,La Corniche restaurant,restaurant,Angers,4 Route de la Corniche Angevine,,,47.3423493,-0.6927855
+7833232058,node,Le strapontin,restaurant,Angers,,,,47.4705681,-0.5518483
+7833232069,node,Trésors du liban,restaurant,Angers,"4 Rue des Lices, 49100, Angers",49100,https://www.tresorsduliban.fr/,47.4690698,-0.5532979
+7857656357,node,Le Soph't,restaurant,Angers,,,,47.3316363,-0.4777059
+7857677629,node,Les 2 terrasses,restaurant,Angers,,,,47.3543235,-0.4480838
+8084898960,node,Pizza Tempo,restaurant,Angers,13 Place de l'Hôtel de Ville,,https://commande.pizza-tempo.fr/restaurant/pizza-tempo-chalonnes-sloire?utm_source=Google&utm_medium=MyBusiness,47.3514079,-0.7634657
+8084956582,node,californian sushi,restaurant,Angers,"2 Rue Nationale, 49290, Chalonnes sur Loire",49290,,47.3533275,-0.7625151
+8174541589,node,L'audacieuse,guest_house,Angers,,,https://restaurantlaudacieuse.com/,47.3803692,-0.6436148
+8223135592,node,Le Fraternity,restaurant,Angers,,,,47.7004193,-0.3634716
+8223843720,node,Le Relais du Porage,restaurant,Angers,,,,47.6833179,-0.4365687
+8255012001,node,"Pastels, wax et cie",restaurant,Angers,,,https://www.pastelswaxetcie.com/,47.4589973,-0.5454127
+8286151519,node,Hôtel des Lices,hotel,Angers,,,,47.4681739,-0.5544728
+8286151520,node,Yakitori,restaurant,Angers,,,,47.4681525,-0.5545074
+8286178812,node,Gustave et Claude,restaurant,Angers,"10 Rue Saint-Aubin, 49100, Angers",49100,https://www.gustaveetclaude.com/,47.4697426,-0.5539068
+8286178814,node,Heiko,restaurant,Angers,"12 Rue Saint-Aubin, 49100, Angers",49100,https://www.heiko-poke.com/angers/,47.4695579,-0.5536868
+8305300404,node,La Scierie,hotel,Angers,,,,47.5545981,-0.3821135
+8329787764,node,MC Tacos,restaurant,Angers,,,,47.4734101,-0.5546586
+8329831847,node,Lela,restaurant,Angers,,,,47.473299,-0.5550723
+8329956504,node,Le P'tit Daz,restaurant,Angers,"21 Place Molière, 49100, Angers",49100,,47.4737389,-0.5553943
+8330316957,node,Umami Kitchen,restaurant,Angers,"9 Rue Beaurepaire, 49100, Angers",49100,http://www.umamikitchen.fr,47.4737701,-0.559332
+8330415756,node,La Cour,restaurant,Angers,,,https://www.lacour-angers.com,47.4728977,-0.5532952
+8331235299,node,So Sushi,restaurant,Angers,,,https://www.sosushi49.fr,47.4725977,-0.554618
+8331289457,node,My Gyoza,restaurant,Angers,"36 Rue du Cornet, 49000, Angers",49000,https://www.mygyoza.fr/,47.473081,-0.5517003
+8331289461,node,Cahupa,restaurant,Angers,"14 Rue Bodinier, 49100, Angers",49100,,47.4728477,-0.5528948
+8331334477,node,California,restaurant,Angers,,,,47.4730391,-0.5509187
+8334430665,node,Crêperie du château,restaurant,Angers,,,,47.4706412,-0.558184
+8334430686,node,Maison Katora,restaurant,Angers,"4 Rue d'Anjou, 49100, Angers",49100,,47.4661571,-0.5567954
+8334430711,node,Kazumi,restaurant,Angers,"3 Rue d'Anjou, 49100, Angers",49100,https://restaurant-kazumi.com/,47.4663261,-0.556737
+8402036113,node,Hôtel Marguerite d’Anjou,hotel,Angers,,,https://hma-hotel.com/,47.4690274,-0.5578022
+8454889792,node,Barth’ pizzas,restaurant,Angers,,,http://www.barthpizzas49.fr/,47.4668992,-0.4958209
+8457294549,node,Fine & Za,restaurant,Angers,"2 Rue Jean-Jaurès, 49124, Saint-Barthélemy-d'Anjou",49124,https://fineandza.com/,47.4665754,-0.4935198
+8463123419,node,Royal Hotel,hotel,Angers,,,,47.4667315,-0.5575804
+8463640166,node,220° Celsius,restaurant,Angers,1 Rue Saint-Aubin,,https://www.facebook.com/220celsius,47.4700038,-0.5540233
+8515352149,node,Tonton Foch,restaurant,Angers,"4 Boulevard du Maréchal Foch, 49100",49100,https://www.tontonfoch.com/,47.4701912,-0.5483954
+8515367065,node,Joe Carpa,restaurant,Angers,"16 Boulevard du Maréchal Foch, 49100, Angers",49100,https://joecarpa.fr/,47.4692546,-0.5495964
+8544980578,node,Santosha,restaurant,Angers,3 Rue Saint-Laud,,,47.4728163,-0.551862
+8568931894,node,Cambodia Street Food,restaurant,Angers,"10 Rue des Deux-Haies, 49100, Angers",49100,https://cambodia-streetfood.fr/,47.4716213,-0.5528046
+8568939962,node,Numéro 10 Street Pizza,restaurant,Angers,10 Rue des Angles,,https://numero-dix.com/,47.4702938,-0.551079
+8568991690,node,Nuabol,restaurant,Angers,4 Rue Saint-Maurille,,,47.4710361,-0.5505858
+8605876118,node,Maison Watson,restaurant,Angers,"41 Rue Plantagenêt, 49100, Angers",49100,,47.4722786,-0.5543649
+8772675404,node,Les Tilleuls,restaurant,Angers,,,,47.6363909,-0.295224
+8822458861,node,Pok Ïno,restaurant,Angers,"61 Rue Saint-Laud, 49100",49100,https://pok-ino.fr/,47.471623,-0.5536427
+8829338153,node,Café Bondu,restaurant,Angers,,,,47.3550456,-0.7616583
+8841349243,node,Une Fille & Des Quilles,restaurant,Angers,,,,47.471671,-0.5553457
+8841349244,node,Grusson,restaurant,Angers,"68 Rue Baudrière, 49100, Angers",49100,,47.4716484,-0.5552574
+8841451162,node,Reste au 51,restaurant,Angers,"51 Rue Plantagenêt, 49100",49100,https://www.reste-au-51-restaurant-angers.com,47.4720591,-0.5541544
+8841451163,node,Icerolls & co,restaurant,Angers,Place de la République,,https://icerollsco.eatbu.com/?lang=fr,47.4721471,-0.5550845
+8871212897,node,Les Fils à Maman,restaurant,Angers,"Place du Pilori, 49100, Angers",49100,https://www.lesfilsamaman.com/restaurants/angers/,47.4733063,-0.5498807
+8871268519,node,Barbecue Party,restaurant,Angers,"69 Rue du Mail, 49100, Angers",49100,https://barbecue-party.webador.fr/carte,47.4729303,-0.5497158
+8874505861,node,Buffalo Grill,restaurant,Angers,,,,47.4317968,-0.4994825
+8879219102,node,Frikadel,restaurant,Angers,"24 Avenue Pasteur, 49100, Angers",49100,https://lesfolies.coop/cafe-barrestaurant/espace-restauration/,47.4722821,-0.5405751
+8944432236,node,La Gabare,restaurant,Angers,,,https://www.slow-village.fr/loire-vallee/restauration/,47.4249678,-0.5288098
+8952224925,node,La Tour de Pise,restaurant,Angers,"70 Rue Jules Guitton, 49100, Angers",49100,,47.4732963,-0.5460989
+8952224932,node,Le Poulet bicyclette,restaurant,Angers,39 Rue Jules Guitton,,,47.4735195,-0.5465111
+8952224936,node,Chez Amine,restaurant,Angers,"53 Rue Jules Guitton, 49100, Angers",49100,,47.4734539,-0.5460611
+8952224942,node,Sawasdee Bangkok,restaurant,Angers,,,,47.4741893,-0.5472402
+8957968365,node,Signorizza,restaurant,Angers,8 Rue Papiau de la Verrie,,https://www.signorizza.com/pizzeria/signorizza-pizzeria-a-angers-orgemont/,47.4442562,-0.5461666
+8957968367,node,La Taverne,restaurant,Angers,11 Rue Papiau de la Verrie,,https://www.lesrelaisdalsace.com/,47.4441389,-0.5464141
+9028285174,node,Mamie Fada,restaurant,Angers,"18 Quai des Carmes, 49100, Angers",49100,https://www.mamiefada.com/,47.4726622,-0.5609564
+9028285176,node,Pizza Micky,restaurant,Angers,,,,47.4743526,-0.5605733
+9104297178,node,La Douce Heure,restaurant,Angers,,,,47.4545495,-0.5741872
+9177966192,node,Le Raboliot,restaurant,Angers,,,https://raboliot-pizzaresto.eatbu.com/?lang=fr,47.4781306,-0.5433203
+9178347388,node,Brasserie Lafayette,restaurant,Angers,"11 Place Lafayette, 49000, Angers",49000,,47.4629095,-0.5540438
+9233275103,node,Angkor,restaurant,Angers,6 bis,,,47.4660259,-0.5566103
+9233755379,node,Grand Hôtel de la Gare,hotel,Angers,49100,49100,https://www.grandhoteldelagare-angers.com/,47.465437,-0.5565577
+9233755381,node,Hôtel de France,hotel,Angers,,,,47.4653565,-0.5574484
+9263864127,node,Taj Tandoor Angers,restaurant,Angers,,,,47.4813891,-0.5231313
+9342269398,node,Fouées Gargantua,restaurant,Angers,"11 rue de la Gare, 49100, Angers",49100,https://www.foueesgargantua.fr,47.4658087,-0.5569234
+9370542882,node,Le P'tit Breton,restaurant,Angers,,,,47.4731302,-0.5492552
+9373166755,node,Anjou à l’Océane,hotel,Angers,,,,47.5247929,-0.4291487
+9373166756,node,Les Toqués d’Anjou,restaurant,Angers,,,,47.5249698,-0.4284493
+9375858790,node,La Promenade,restaurant,Angers,,,,47.5218675,-0.4377045
+9401901639,node,Patachée,restaurant,Angers,,,,47.5066885,-0.5894637
+9413100339,node,Loire & Sens,hotel,Angers,,,,47.4028371,-0.4729217
+9419918829,node,Sauvage,restaurant,Angers,,,,47.3940384,-0.4366871
+9455668278,node,Le Rétro,restaurant,Angers,,,,47.4415713,-0.5718403
+9548304848,node,Sol e Luna,restaurant,Angers,"14 Boulevard Robert, 49100",49100,https://www.sol-e-luna.fr/,47.4775679,-0.5525129
+9552088931,node,Le Tam's,restaurant,Angers,"62 Promenade de Reculée, 49100, Angers",49100,,47.4848812,-0.5516061
+9552088932,node,Belle Rive,restaurant,Angers,"32 Promenade de Reculée, 49100, Angers",49100,https://www.restaurant-bellerive.com/,47.4871031,-0.5498412
+9724610677,node,,hotel,Angers,,,,47.6607583,-0.4232929
+9739243669,node,Auberge de la Roche,restaurant,Angers,,,https://www.auberge-de-la-roche.com/,47.4580951,-0.6579673
+9870959824,node,Sushi House,restaurant,Angers,"11 Rue Auguste Gautier, 49100, Angers",49100,,47.4643712,-0.5602301
+9954271517,node,Bistrot de l’écluse,restaurant,Angers,,,,47.5741693,-0.648673
+9977756202,node,Chez Mat,restaurant,Angers,3016 Route Nationale,,,47.4102805,-0.936445
+9999289971,node,Mauvaise Graine,restaurant,Angers,"27 Rue Beaurepaire, 49100, Angers",49100,https://mauvaisegraineangers.fr,47.4740819,-0.5600936
+10024996198,node,Le San Marco,restaurant,Angers,6 Passage Saint-Aubin,,https://www.lesanmarco-pizzeria.fr,47.4294278,-0.5276173
+10025618385,node,Crêperie Marie Mil'Goules,restaurant,Angers,"7 Impasse Toussaint, 49100, Angers",49100,https://creperie-mil-goules.paqe.io/,47.4687121,-0.5574373
+10033794543,node,Au p'tit restaurant du Château,restaurant,Angers,,,,47.5915156,-0.5553004
+10044178140,node,Le 300,restaurant,Angers,"14 Avenue Paul Prosper Guilhem, 49070, Beaucouzé",49070,,47.4693423,-0.6139716
+10087960045,node,Le Château de Briançon,hotel,Angers,"846 Route de Briançon, 49140, Bauné",49140,,47.50188,-0.3502641
+10294976255,node,Le Bosquet,hotel,Angers,2 Rue Maurice Berne,,,47.4099655,-0.5248624
+10295332421,node,MK'S,restaurant,Angers,"115 Boulevard Jean Moulin, 49100, Angers",49100,,47.4907619,-0.5615358
+10298389290,node,Le Bois Délice,restaurant,Angers,,,,47.3433457,-0.3545049
+10311480650,node,La Canopée,restaurant,Angers,,,,47.4947562,-0.5750932
+10581934377,node,Guinguette du Louet,restaurant,Angers,,,,47.3507709,-0.7416546
+10686684346,node,Sens,restaurant,Angers,"17 Rue Beaurepaire, 49100",49100,https://restaurant-sens.com/,47.4739034,-0.5595474
+10914167870,node,Le resto de l’avenir,restaurant,Angers,,,,47.4212579,-0.5828724
+11119807446,node,La Maison,restaurant,Angers,"20 Quai des Carmes, 49000, Angers",49000,https://lamaisonangers.com/,47.47257,-0.5611689
+11242270418,node,Piano Piano,restaurant,Angers,,,,47.3739879,-0.6847612
+11300302454,node,O'feel Du Grill,restaurant,Angers,"76 Avenue Jean Boutton, 49130, Les Ponts-de-Cé",49130,,47.4396469,-0.5029177
+11336517973,node,Les trésors de Carthage,restaurant,Angers,,,,47.4751193,-0.5493154
+11357573465,node,Le Manisa,restaurant,Angers,"27 Rue Bressigny, 49100, Angers",49100,,47.4674707,-0.5499927
+11375373861,node,Le royaume de Saba,restaurant,Angers,,,,47.4716861,-0.5372134
+11387345983,node,Le Panoramique,restaurant,Angers,"Rue Saint-Léonard, 49000, Angers",49000,,47.4609163,-0.5303388
+11397727763,node,Evasian,restaurant,Angers,"55 Avenue Besnardière, 49100, Angers",49100,,47.4771072,-0.5466639
+11462751883,node,Time's pizza,restaurant,Angers,,,,47.479327,-0.5272678
+11465098111,node,La Dévoreuse,restaurant,Angers,,,https://www.wheat-angers.com/reservations,47.4657639,-0.554089
+11465331240,node,Le p'tit Foch,restaurant,Angers,"39 Boulevard du Maréchal Foch, 49100, Angers",49100,https://le-ptit-foch-angers.eatbu.com/?lang=fr,47.4674036,-0.5514321
+11473143464,node,Odorico,restaurant,Angers,"1 Boulevard du Maréchal Foch, 49100, Angers",49100,https://www.odorico-restaurant-angers.com/,47.4697547,-0.5480182
+11484563747,node,Nagoya,restaurant,Angers,,,,47.4731807,-0.5490382
+11517255192,node,Le Farñente,restaurant,Angers,12 Rue Bodinier,,,47.472864,-0.5527983
+11525128173,node,Pho 49,restaurant,Angers,,,,47.4755595,-0.5497229
+11525140144,node,Mets & vins,restaurant,Angers,,,,47.4756443,-0.5499271
+11525148657,node,Basilic &Co,restaurant,Angers,46 Boulevard Ayrault,,,47.4756002,-0.5498205
+11525159118,node,Mama Roli,restaurant,Angers,50 Boulevard Ayrault,,,47.4755378,-0.5496776
+11534209470,node,Krishna,restaurant,Angers,,,,47.4665724,-0.5577256
+11534248024,node,À boire et à manger,restaurant,Angers,"Place de la Visitation, 49100, Angers",49100,https://aboireamanger.com,47.4666677,-0.5566834
+11534288854,node,Dubble,restaurant,Angers,,,,47.4618106,-0.5625464
+11559718779,node,Ginkgo bar,restaurant,Angers,,,,47.467671,-0.5510722
+11559786689,node,La cantine du BDC,restaurant,Angers,,,https://bdc-angers.fr/,47.472501,-0.5525691
+11559799830,node,Le coup d'feu,restaurant,Angers,,,,47.4716874,-0.5509165
+11584732692,node,L'Arche,restaurant,Angers,,,,47.4696438,-0.5577303
+11623676963,node,Orient Halles,restaurant,Angers,"27 Rue Baudrière, 49000, Angers",49000,https://orienthalles.fr/,47.4720022,-0.5563588
+11738462088,node,Le Presto,restaurant,Angers,,,,47.488871,-0.5531466
+11742256788,node,La Belle Équipe,restaurant,Angers,"4 Boulevard Marc Leclerc, 49100, Angers",49100,https://labelleequipeangers.com/,47.4643699,-0.5663189
+11755107137,node,La petite cigogne,restaurant,Angers,"23 Rue du Musée, 49100, Angers",49100,,47.4692727,-0.5535713
+11799695290,node,Mésopotamie,restaurant,Angers,"158 Rue Saumuroise, 49000, Angers",49000,https://restaurant-mesopotamie.fr/,47.4540267,-0.5275345
+11895713369,node,Pizza Capri,restaurant,Angers,"40 Rue Saint-Laud, 49100",49100,https://www.pizza-capri.fr/nos-boutiques/angers/,47.4719538,-0.5533917
+11897874776,node,Donna,restaurant,Angers,,,https://www.donna-angers.com/,47.4727698,-0.5607341
+11915631017,node,Phood,restaurant,Angers,,,,47.4856622,-0.6253158
+11939518252,node,Saveurs du soleil et d’ici,restaurant,Angers,20 Place Terra Botanica,,,47.4943745,-0.5752983
+11985700027,node,Le tablier,restaurant,Angers,,,,47.4810032,-0.5620182
+11985708272,node,Asia Vietfood,restaurant,Angers,,,,47.4864744,-0.5633916
+11990194750,node,Chez Paul,restaurant,Angers,"44 Rue Bressigny, 49100, Angers",49100,,47.4671908,-0.5496768
+11998752980,node,La Tribu,restaurant,Angers,,,,47.445916,-0.5362546
+12078109354,node,Les Bruyères,restaurant,Angers,79 Avenue Pierre Mendès-France,,,47.497589,-0.5817208
+12078136740,node,Little Italy,restaurant,Angers,,,,47.4985856,-0.5825365
+12078185343,node,Le Résia,restaurant,Angers,,,https://leresia.com/,47.5037153,-0.5869814
+12197289070,node,Les maraîchers,restaurant,Angers,12 Avenue Jean Joxé,,https://www.bar-restaurant-lesmaraichers.fr/,47.4838937,-0.5432236
+12207018148,node,Bistrot de l'Avenue,restaurant,Angers,"117 Rue Franklin, 49100, Angers",49100,https://www.bistrotdelavenue.com,47.4672154,-0.5372534
+12221964277,node,Le Boudoir,restaurant,Angers,"11 Rue d'Alsace, 49100, Angers",49100,,47.4702629,-0.550215
+12222599442,node,Chez Remi,restaurant,Angers,,,,47.4544608,-0.5637655
+12245857750,node,Le Lemon's  RESTO,restaurant,Angers,"Rue Jeanne de Laval, 49250, Loire-Authion",49250,,47.457554,-0.39184
+12254687741,node,Afrin - Restaurant associatif KS,restaurant,Angers,,,,47.4663909,-0.5481603
+12393474697,node,Restaurant Le Ty Breizh,restaurant,Angers,7 Rue Félix Faure,,,47.3527437,-0.7636281
+12393477303,node,Restaurant izuoshima,restaurant,Angers,,,,47.3531167,-0.7647147
+12393478818,node,Chat noir Chat blanc,restaurant,Angers,,,,47.3534518,-0.7622334
+12393483676,node,Suk Suk Thai,restaurant,Angers,,,,47.3506459,-0.7589142
+12393483757,node,Le Bon Bec - Restaurant,restaurant,Angers,,,,47.3522153,-0.7623306
+12433057850,node,Casa Verde,restaurant,Angers,33 Rue Georges Morel,,,47.477239,-0.6142015
+12433751692,node,Brasserie Le Saint-Serge,restaurant,Angers,"3 Boulevard Gaston Ramon, 49100, Angers",49100,,47.4887114,-0.5414439
+12551669285,node,Chardon,restaurant,Angers,,,,47.4628872,-0.5591622
+12596067028,node,L'Espace Beaussier,restaurant,Angers,41 Rue de la Lande,,,47.4763923,-0.5983563
+12623273243,node,Thaï Break - Angers,restaurant,Angers,"3 Boulevard Gaston Ramon, 49100, Angers",49100,,47.4887517,-0.5416247
+12662729793,node,La Radio,restaurant,Angers,,,,47.4736626,-0.5212034
+12723396176,node,Auberge du Pont de Sorges,restaurant,Angers,"23 Rue Camille Perdriau, 49130, Les Ponts-de-Cé",49130,,47.4305057,-0.472388
+12794895920,node,Le Ragondigue,restaurant,Angers,"3 Quai de la Noë, 49080, Bouchemaine",49080,,47.4218341,-0.6087544
+12818768874,node,La Cohue,restaurant,Angers,"8 Place de la Gare, 49000, Angers",49000,https://www.instagram.com/lacohue.angers/,47.4653576,-0.5573799
+12979194147,node,O'21 Kebab,restaurant,Angers,"21 Place Georges Clemenceau, 49320, Brissac-Quincé",49320,https://www.facebook.com/people/O21-KEBAB-Brissac/61572584703571/,47.3555692,-0.44846
+12985221101,node,,restaurant,Angers,,,,47.5753324,-0.4685668
+13006859604,node,Café-cantine La Bulle En Bois,restaurant,Angers,"11 Rue Alexandre Fleming, 49000",49000,https://labulleenbois.fr/cantine/,47.477919,-0.6042481
+13019157718,node,Hôtel Iéna,hotel,Angers,"27 Rue Marceau, 49100, Angers",49100,,47.4664464,-0.5591599
+13038111957,node,Les Tonelles,restaurant,Angers,13 Rue du Port,,https://www.lestonnelles.fr/,47.5621564,-0.4228377
+13038112995,node,Hôtel Du Mail,hotel,Angers,,,https://www.hoteldumail.fr/,47.4711897,-0.5489523
+13074059663,node,La Guinguette du Lac de Malagué,restaurant,Angers,,,,47.5498637,-0.2934629
+13183752980,node,Lùlù,restaurant,Angers,,,,47.3833274,-0.6573676
+13306905054,node,Pizz Burg de Marcelo,restaurant,Angers,,,,47.3525081,-0.4460652
+13306910623,node,Le Castel,hotel,Angers,,,,47.3541293,-0.4479294
+13326062001,node,L'instant,restaurant,Angers,Esplanade Jean Sauvage,,,47.4305772,-0.5435213
+13340509475,node,Le Mail Restaurant,restaurant,Angers,"2 Avenue du 11 Novembre 1918, 49100, Angers",49100,,47.4706585,-0.5452743
+13343081896,node,La Cantine du Clem,restaurant,Angers,,,,47.3557212,-0.4481571
+13352160236,node,La Haute Chaîne,hotel,Angers,,,,47.4773067,-0.5527698
+13378164269,node,,restaurant,Angers,,,,47.5545682,-0.3822839
+13430158017,node,La Pala - Bistrot italien,restaurant,Angers,"42 Route de Sorges, 49130, Les Ponts-de-Cé",49130,,47.4341586,-0.4982299
+13459846674,node,La petite Verriere,restaurant,Angers,,,https://la-petite-verriere.com/,47.5214371,-0.4483527
+13459849725,node,Résidence Cap West,hotel,Angers,,,https://www.capwestresidence.fr/residence?cap-west=verrieres-en-anjou,47.5219868,-0.44745
+13479152821,node,Tadig,restaurant,Angers,"8 Rue de l'Espine, 49100, Angers",49100,,47.4722126,-0.5520742
+13531977381,node,,restaurant,Angers,,,,47.4441463,-0.5386949
+13602046751,node,Pizza Angela,restaurant,Angers,"1 Rue du Petit Vivier, 49080, Bouchemaine",49080,https://pizza-angelafr-iftpmtozrq.live-website.com/,47.4460855,-0.6068978
+13669327147,node,Lueurs,restaurant,Angers,"2 Quai de Port Boulet, 49080, La Maine",49080,http://lueurs-restaurant.com/,47.4103654,-0.6178305
+13674111297,node,Villa d'Or,restaurant,Angers,"2 Avenue Gallieni, 49130, Les Ponts-de-Cé",49130,https://villador49.com/,47.4333253,-0.5290171
+13682301596,node,Cote Jardin,restaurant,Angers,4 Rue Jean Jaurès,,,47.4408388,-0.4895909
+13690933177,node,Pizza Tempo,restaurant,Angers,136 Rue Jean Jaurès,,,47.4435405,-0.4975095
+13704885219,node,Calo'Délices,restaurant,Angers,"3 Place de l'Hôtel de Ville, 49290, Chalonnes-sur-Loire",49290,,47.3511214,-0.7630583
+13712221171,node,Rafū,restaurant,Angers,"18 Rue David d'Angers, 49130, Les Ponts-De-Cé",49130,,47.4319761,-0.5286281
+13732137531,node,Guinguette du Père Chapuis,restaurant,Angers,"Chemin des Vallées, 49140, Seiches-sur-le-Loir",49140,https://www.facebook.com/guinguetteduperechapuis,47.58012,-0.3621082
+13813294566,node,Maine street,restaurant,Angers,"44 Rue François Cevert, 49000, Angers",49000,,47.4422803,-0.542504
+13814187679,node,La Guinguette de Port Thibault,restaurant,Angers,"57 Route de Port Thibault, 49130, Sainte-Gemmes-sur-Loire",49130,https://www.guinguettedeportthibault.fr/le-restaurant,47.4174987,-0.583099
+13828254558,node,Bistrot le 1006,restaurant,Angers,,,,47.4054307,-0.4846226
+13860765355,node,Le Pois Gourmand,restaurant,Angers,"35 Rue des Grandes-Maisons, 49130, Les Ponts de Cé",49130,,47.4402093,-0.5350227
+13902171927,node,Le Faubourg Angevin,restaurant,Angers,,,,47.4791576,-0.548501
+13951868307,node,Suzanne,hotel,Angers,"2 Place de la Gare, 49100, Angers",49100,,47.4655018,-0.5571754
+13955321203,node,A table chez Milie,restaurant,Angers,"1 Rue Thierry Sandre, 49170, Épiré",49170,https://atablechezmilie.fr,47.3980441,-0.6344178
+13981405719,node,L’étudiant,restaurant,Angers,,,,47.4792038,-0.5424087

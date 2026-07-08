@@ -1,0 +1,175 @@
+osm_id,osm_type,name,category,city,address,post code,website,lat,lon
+26859071,node,Hôtel Plage Saint Jean,hotel,La Ciotat,,,https://www.hotelplagestjean.com/,43.1882396,5.6311575
+624784787,node,La Rotonde,hotel,La Ciotat,,,,43.1766095,5.6062003
+775581585,node,Le moulin de Gèmenos,restaurant,La Ciotat,195 Route de Saint Pons,,http://www.moulin-gemenos.fr,43.297688,5.632709
+775593908,node,Le Fer à cheval,restaurant,La Ciotat,4 Cour des Granges,,,43.2945623,5.6280807
+1659144188,node,Le Golfe,hotel,La Ciotat,,,,43.2144564,5.535194
+1788246532,node,Hostellerie de la Crémaillère,hotel,La Ciotat,,,,43.256664,5.5658244
+1788273975,node,,restaurant,La Ciotat,,,,43.2566249,5.5656134
+1795620066,node,"Restaurant ""Pinocchio""",restaurant,La Ciotat,,,,43.26646,5.5859069
+1836760286,node,El Sol,restaurant,La Ciotat,,,,43.2150045,5.5370888
+1836768431,node,Le Cendrillon,restaurant,La Ciotat,,,,43.2136619,5.5388742
+1836768644,node,Le Perroquet,restaurant,La Ciotat,,,,43.2135212,5.5387486
+1867565237,node,Victoria Garden,hotel,La Ciotat,,,,43.1902896,5.6496967
+1867566014,node,La crique,restaurant,La Ciotat,,,,43.1881267,5.6472559
+1867579197,node,Santa Maria,restaurant,La Ciotat,,,,43.1893509,5.6432219
+1883712814,node,Le Relais de la Magdeleine,hotel,La Ciotat,,,,43.2988589,5.6245669
+2087471326,node,La Villa Madie,restaurant,La Ciotat,"Avenue du Revestel, Cassis",,https://lavillamadie.com,43.2111019,5.5449357
+2429318480,node,Au Chantier,restaurant,La Ciotat,,,,43.1722941,5.6072433
+2811941761,node,Casa Roma,restaurant,La Ciotat,5 Rue Brémond,,,43.2152771,5.5368024
+2937784257,node,Monsieur Brun,restaurant,La Ciotat,2 Quai Calendal,,,43.2148635,5.5365828
+3055471833,node,Hôtel-Restaurant Le Clos des Arômes,restaurant,La Ciotat,"10 Rue Abbé Paul Mouton, Cassis",,,43.2161168,5.5380364
+3057637134,node,Yacht Club de Cassis,restaurant,La Ciotat,,,,43.2132044,5.5355823
+3057637233,node,Les Roches Blanches,hotel,La Ciotat,,,,43.2113542,5.5293442
+3057637433,node,Le Comptoir du Naïo,restaurant,La Ciotat,6 Quai Carnot,,,43.214219,5.5348242
+3057637533,node,Le Bistro,restaurant,La Ciotat,8 Avenue de l'Amiral Ganteaume,,https://www.le-bistro-restaurant-cassis.com/,43.2140656,5.5346157
+3100545599,node,Best Western Cœur de Cassis,hotel,La Ciotat,2 Rue Pierre Eydin,,https://www.bestwestern.fr/fr/hotel-Cassis-Best-Western-Coeur-De-Cassis-93882,43.2145219,5.5402333
+3406079996,node,L'Escalier,restaurant,La Ciotat,,,,43.2151109,5.5371719
+3451549135,node,Hôtel Liautaud,hotel,La Ciotat,,,,43.2140274,5.5384666
+3451568706,node,Hôtel Cassitel,hotel,La Ciotat,,,,43.2136593,5.538976
+3451640394,node,Don Camillo,restaurant,La Ciotat,,,,43.2146613,5.5359255
+3451640395,node,La Vieille Auberge,restaurant,La Ciotat,,,,43.2146246,5.5357974
+3451666766,node,Chez César,restaurant,La Ciotat,,,,43.2149438,5.537238
+3451666767,node,Chez Gilbert,restaurant,La Ciotat,19 Quai des Baux,,https://www.chezgilbert.net/,43.2148366,5.537403
+3451666768,node,César la suite...,restaurant,La Ciotat,,,,43.2145174,5.5377103
+3451666770,node,L'Oustau de la Mar,restaurant,La Ciotat,,,,43.2149226,5.5372943
+3451666771,node,La Girandole,restaurant,La Ciotat,,,,43.2146311,5.5377943
+3451666772,node,Le Canaille,restaurant,La Ciotat,,,,43.2149724,5.5371679
+3451666774,node,Le Grand Bleu,restaurant,La Ciotat,12 Quai des Baux,,,43.2146449,5.5375934
+3451679604,node,La Stazione,restaurant,La Ciotat,39 Avenue Victor Hugo,,https://lastazione-cassis.com/,43.2147377,5.5395161
+3451679606,node,Marco Polo,restaurant,La Ciotat,,,,43.2150399,5.5369518
+3451705015,node,La Voûte,restaurant,La Ciotat,,,,43.2142946,5.5381527
+3451705016,node,Le Bonaparte,restaurant,La Ciotat,,,,43.2148076,5.538759
+3451705018,node,Le Chaudron,restaurant,La Ciotat,,,,43.2147569,5.5392978
+3451705020,node,Brasserie Le Mistral,restaurant,La Ciotat,,,http://www.lemistralcassis.com/,43.2132939,5.5386855
+3451705022,node,Les Frangines,restaurant,La Ciotat,,,,43.214806,5.5392585
+3451716763,node,La Storia di Vincenzo,restaurant,La Ciotat,7 Quai des Baux,,,43.2144491,5.5378707
+3481129193,node,B&b Hôtel,hotel,La Ciotat,"250 Avenue du Château de Jouques, Gémenos",,https://www.hotel-bb.com/fr/hotels/aubagne-gemenos.htm,43.2797248,5.6121257
+3662684493,node,Clos des Arômes,hotel,La Ciotat,"10 Rue Abbé Paul Mouton, Cassis",,,43.2161402,5.5380069
+3938499328,node,Brasserie La Peace'In,restaurant,La Ciotat,,,,43.2310006,5.5379292
+3990059702,node,La Loco,restaurant,La Ciotat,,,,43.2338736,5.552541
+4202071655,node,Goûtez la Provence,restaurant,La Ciotat,,,,43.2964679,5.6284929
+4332951105,node,Casa Manuel 1,hotel,La Ciotat,,,,43.1790669,5.5975592
+4348197091,node,Bus parada 5,hotel,La Ciotat,,,,43.2662075,5.586088
+4360706147,node,Le National,hotel,La Ciotat,,,,43.2471097,5.5912562
+4360718953,node,L'Escalet,restaurant,La Ciotat,21 Quai François Mitterrand,,,43.1734187,5.6057296
+4360719029,node,L'Atelier Gourmand,restaurant,La Ciotat,,,,43.1734859,5.6057524
+4374886394,node,La Quinta,restaurant,La Ciotat,10 Avenue Louis Julien,,,43.214949,5.6330123
+4714763925,node,Chez Marco,restaurant,La Ciotat,,,,43.1696712,5.6002905
+4714884126,node,Bar Restaurant Pizzeria de la Garde,restaurant,La Ciotat,,,,43.1713764,5.6027577
+4714902214,node,Corniche du Liouquet,hotel,La Ciotat,,,,43.1813694,5.669243
+4876293621,node,Le Repaire,restaurant,La Ciotat,,,,43.2137477,5.6305586
+4876408022,node,,restaurant,La Ciotat,Avenue Léo Lagrange,,,43.1963523,5.6313329
+5062367604,node,L'Orchidée,restaurant,La Ciotat,"121 Boulevard Beaurivage, La Ciotat",,https://www.hotelmiramarlaciotat.fr/restaurant/,43.1865743,5.6214471
+5062367605,node,Miramar,hotel,La Ciotat,"121 Boulevard Beaurivage, La Ciotat",,https://www.hotelmiramarlaciotat.fr/,43.1866926,5.6215118
+5431537323,node,L'écume des glaces,restaurant,La Ciotat,8 Place Sadi Carnot,,https://ecumedesglaces.e-monsite.com/,43.1748361,5.6086499
+5720851837,node,Le Peroquet,restaurant,La Ciotat,,,,43.1738973,5.6092953
+5725491164,node,La Tete d'Ail,restaurant,La Ciotat,13 Boulevard Anatole France,,https://m.facebook.com/La-Tete-Dail-710042809032564/,43.1752942,5.6102729
+5726266825,node,Les Lavandes,hotel,La Ciotat,,,,43.1768315,5.6065496
+5795682167,node,Hôtel le Rose Thé,hotel,La Ciotat,"247 Boulevard Beaurivage, La Ciotat",,https://www.hotel-rosethe.com/fr,43.1871752,5.6229517
+5795682168,node,Crepérie,restaurant,La Ciotat,,,,43.1874059,5.6250543
+5795682169,node,Chez Sophie,restaurant,La Ciotat,,,,43.1752884,5.6074921
+5858835897,node,Le Bistro'Quai,restaurant,La Ciotat,,,,43.2147414,5.5375308
+5891161015,node,,restaurant,La Ciotat,,,,43.1867087,5.6217518
+5954314169,node,L'Athelia,restaurant,La Ciotat,"14 Avenue des Sorbiers, La Ciotat",,http://www.athelia13.fr/,43.2050801,5.6024228
+5976725358,node,Pizza Pasta,restaurant,La Ciotat,,,,43.2558839,5.5664432
+6036712072,node,Le Bistrot de Nino,restaurant,La Ciotat,1 Quai Jean Jacques Barthélémy,,https://www.le-bistrot-de-nino-restaurant-cassis.com/,43.2148019,5.5364336
+6206100427,node,Soleil d'Asie,restaurant,La Ciotat,"2 Avenue Marius Ghirardelli, Roquefort-la-Bédoule",,https://www.soleil-dasie.com/,43.2471925,5.5907648
+6216223075,node,Verteurasia Valentine Bio,restaurant,La Ciotat,"800 Avenue du Château de Jouques, Gémenos",,https://www.verteurasia.fr/,43.2810933,5.619242
+6321157970,node,La Croix de Malte,hotel,La Ciotat,54 Boulevard Jean Jaurès,,https://www.croix-de-malte.com/,43.1773438,5.6101285
+6327125206,node,Oyster Bar,restaurant,La Ciotat,,,,43.1759376,5.6104092
+6328743147,node,Loulou la Malice,restaurant,La Ciotat,,,,43.1742457,5.6101253
+6554684281,node,Le Bestouan,restaurant,La Ciotat,,,,43.2131337,5.5312881
+6598752385,node,L'Escalier Restaurant,restaurant,La Ciotat,,,,43.2152589,5.5371193
+6778012385,node,Le Cap,restaurant,La Ciotat,5 Avenue Victor Hugo,,,43.1778281,5.6095706
+6909653939,node,La Maisonette d'Odette,hotel,La Ciotat,,,,43.1750724,5.6082199
+6964916888,node,Au bonheur de Saïgon,restaurant,La Ciotat,19 Boulevard Anatole France,,,43.1757485,5.610326
+6964916890,node,La Pêcherie,restaurant,La Ciotat,41 Quai François Mitterrand,,,43.1720261,5.6056919
+6964916891,node,Le Ricochet,restaurant,La Ciotat,18 des combattants,,,43.1745666,5.6077687
+6964916892,node,côté jardin,restaurant,La Ciotat,,,,43.1886971,5.627177
+6964916893,node,Courtepaille,restaurant,La Ciotat,Avenue de la Tramontane,,,43.2054732,5.6020999
+6964916989,node,Le Nautique,restaurant,La Ciotat,,,,43.1868687,5.6284473
+6964917087,node,La table de Jeanne,restaurant,La Ciotat,29 Quai François Mitterrand,,,43.1729076,5.605637
+6964917089,node,Comme en Italie,restaurant,La Ciotat,6 Place Sadi Carnot,,,43.174777,5.6087295
+6964917185,node,La tête d'ail,restaurant,La Ciotat,13 Boulevard Anatole France,,,43.1753047,5.6102292
+6964917187,node,Le Phare,restaurant,La Ciotat,Quai Général de Gaulle,,,43.174732,5.6072153
+7029335861,node,Daxxia,restaurant,La Ciotat,"680 Avenue Émile Bodin, La Ciotat",,,43.1907435,5.6032645
+7177901585,node,Le Sloop,restaurant,La Ciotat,3 Quai François Mitterrand,,,43.1745592,5.6065923
+7276187486,node,Ma Cuisine du Marché,restaurant,La Ciotat,28 Rue Fougasse,,,43.1750365,5.6056078
+7276418385,node,Hemingway's,restaurant,La Ciotat,13 Place Sadi Carnot,,,43.1747407,5.6083251
+7282898013,node,,restaurant,La Ciotat,,,,43.2606422,5.5742256
+7749927816,node,La vague,restaurant,La Ciotat,,,,43.1868981,5.6230245
+7875575772,node,Le Bergo,restaurant,La Ciotat,"12 Place Georges Clemenceau, Gémenos",,,43.2959695,5.6289279
+7937395359,node,Le Morrison,restaurant,La Ciotat,,,,43.28255,5.613024
+7944651755,node,Murano,restaurant,La Ciotat,"50 Voie Ariane, La Ciotat",,,43.2009598,5.593434
+7982804464,node,Les 2 L,restaurant,La Ciotat,"63 Avenue de la Plaine Brunette, La Ciotat",,,43.2006451,5.5953245
+7997575689,node,Les Minots,restaurant,La Ciotat,36 Quai François Mitterrand,,,43.1722936,5.6056158
+8165683317,node,Le 37,restaurant,La Ciotat,,,,43.17224,5.6056317
+8426660399,node,Tak'away,restaurant,La Ciotat,1 Avenue Docteur Emmanuel Agostini,,,43.2148388,5.5394466
+8867654817,node,Les Jardins de Lola,restaurant,La Ciotat,3 Avenue Fernand Gassion,,,43.1764183,5.605537
+9044846683,node,La Bonne Mère,restaurant,La Ciotat,19 Rue Michel Arnaud,,,43.2150269,5.5382895
+9047228015,node,Ô REV,restaurant,La Ciotat,,,,43.2148552,5.5383539
+9048059735,node,Corton Beach,restaurant,La Ciotat,Avenue du Revestel,,https://www.cortonbeachcortonkayakcassis.com/,43.2107026,5.5443443
+9051015144,node,Poissonnerie Laurent,restaurant,La Ciotat,5 Quai Jean Jacques Barthélémy,,,43.2147228,5.5361966
+9349387917,node,Le Golfe,restaurant,La Ciotat,14 Boulevard Anatole France,,,43.175409,5.6102239
+9435338828,node,Mississipi,restaurant,La Ciotat,,,,43.2676305,5.7305378
+9435341398,node,Tombstone Saloon,restaurant,La Ciotat,,,,43.2680818,5.7292067
+9809424917,node,La Marine,restaurant,La Ciotat,40 Quai François Mitterrand,,,43.1720819,5.6056841
+9876441617,node,L'Ile Verte,restaurant,La Ciotat,Calanque St Pierre,,,43.161427,5.617601
+9936931050,node,Kitch & Cook,restaurant,La Ciotat,,,,43.1756946,5.6059145
+9937291800,node,Bustan,restaurant,La Ciotat,,,,43.1801166,5.6122664
+10065557479,node,Calendal,restaurant,La Ciotat,,,,43.2152255,5.5367712
+10604529430,node,Le Wagon,restaurant,La Ciotat,,,,43.2058857,5.6272674
+10604529477,node,Le Saint-Estève,restaurant,La Ciotat,,,,43.2067244,5.6296168
+10604529478,node,Le Saint-Estève,hotel,La Ciotat,,,,43.2071702,5.6294326
+10969091910,node,Before au Balcon,restaurant,La Ciotat,,,,43.1808835,5.6124013
+10979414305,node,Restaurant les pia pia,restaurant,La Ciotat,9 Quai Ganteaume,,,43.1739861,5.6091209
+11014301206,node,Terroir et marée,restaurant,La Ciotat,,,,43.2230622,5.5439375
+11110340620,node,Crown Pizza,restaurant,La Ciotat,,,,43.1739689,5.6058183
+11171651541,node,Sous les lampions,restaurant,La Ciotat,,,,43.1722028,5.6056591
+11171666452,node,La Cantine Ciotadenne,restaurant,La Ciotat,,,,43.1721278,5.6056748
+11171680276,node,The Cotton Club,restaurant,La Ciotat,,,,43.1751431,5.6108302
+11181202003,node,La Virgule,restaurant,La Ciotat,,,,43.1801861,5.6124403
+11181224641,node,Brasserie di Babbo,restaurant,La Ciotat,,,,43.1801706,5.6123139
+11181226966,node,AQO,restaurant,La Ciotat,208 Avenue Président Wilson,,https://www.restaurant-la-ciotat.fr/accueil-aqo/,43.1800757,5.6123348
+11188394745,node,Les Terasses de la Mer Chez Marco,restaurant,La Ciotat,,,,43.1841393,5.6169723
+11192677205,node,O'Carrefour,restaurant,La Ciotat,,,,43.1828277,5.612795
+11372347223,node,Luzumaki,restaurant,La Ciotat,3310 Route de la Ciotat,,,43.2665984,5.5855128
+11634774560,node,La Table d'Émilie,restaurant,La Ciotat,12 Avenue Fresnel,,,43.25009,5.5464796
+11833530369,node,La Nonna D’Oro,restaurant,La Ciotat,,,,43.2145951,5.5357083
+11953142569,node,Perséphone,restaurant,La Ciotat,place Georges clémenceau,,,43.2952869,5.6275964
+11953175969,node,Perséphone,restaurant,La Ciotat,9 Place Georges Clemenceau,,,43.296163,5.6289562
+12000489710,node,Chrimol Street,restaurant,La Ciotat,,,,43.174783,5.6081403
+12101944060,node,Pizza au feu de bois,restaurant,La Ciotat,,,,43.2000914,5.5890024
+12134105198,node,Les Collègues,restaurant,La Ciotat,,,,43.2311199,5.5542176
+12149810045,node,Cassis et Romarin,restaurant,La Ciotat,,,,43.2152044,5.5388681
+12151909304,node,La Plage Bleue,restaurant,La Ciotat,,,,43.205387,5.5187312
+12158219025,node,Chez Bébert,restaurant,La Ciotat,,,,43.2645688,5.7408919
+12198366037,node,Cassis et Romarin,restaurant,La Ciotat,,,,43.2152082,5.5388585
+12247907585,node,Restaurant de la baie des anges,restaurant,La Ciotat,,,,43.1909944,5.6542737
+12292185155,node,Saveurs Latines,restaurant,La Ciotat,,,,43.2144525,5.5388585
+12292185156,node,La Défonce,restaurant,La Ciotat,,,,43.2145833,5.5380311
+12292185157,node,À Table,restaurant,La Ciotat,,,,43.2146786,5.5386485
+12292185158,node,Le Romarin,restaurant,La Ciotat,,,,43.2146133,5.5387129
+12294208814,node,Elmina,restaurant,La Ciotat,,,,43.1729556,5.605658
+12294208823,node,Nazareth,restaurant,La Ciotat,,,,43.1745934,5.6076372
+12294208825,node,La Dame de La Ciotat,restaurant,La Ciotat,,,,43.1729964,5.6056644
+12294762839,node,La Pizzeria della Stazione,restaurant,La Ciotat,4 Rue Raphaël Ponson,,https://www.pizzeria-stazione-cassis.com/,43.2145045,5.5398152
+12294762841,node,Le Poisson Rouge,restaurant,La Ciotat,Impasse Farine,,https://lepoissonrougerestaurantcassis.com/,43.214219,5.5390156
+12408546607,node,Couleurs de Shimatani,restaurant,La Ciotat,,,,43.1752257,5.6099263
+12473762796,node,Appart'City Confort La Ciotat,hotel,La Ciotat,"57 Passage Jean d'Huart, La Ciotat",,,43.1724961,5.6049885
+12525087855,node,Signorino,restaurant,La Ciotat,"329 Avenue Jules Ferry, La Ciotat",,https://signorino.eatbu.com,43.1834999,5.6031761
+12734677867,node,Le Saint Jean Plage,restaurant,La Ciotat,Avenue de Saint Jean,,,43.1874412,5.631795
+12802664203,node,CIOT Thaï,restaurant,La Ciotat,,,,43.175664,5.6103107
+12857264601,node,Le Maïa,restaurant,La Ciotat,,,,43.1871835,5.623469
+12868337602,node,La Fringale,restaurant,La Ciotat,5 Rue Pasteur,,,43.2146427,5.5380717
+13316689629,node,,restaurant,La Ciotat,,,,43.1912489,5.6020969
+13393910936,node,Le 36,restaurant,La Ciotat,2 Rue du Grand Cavaillon,,,43.296061,5.6292875
+13429168927,node,La Mule,restaurant,La Ciotat,,,,43.1891971,5.6292619
+13429168928,node,Le Carpe Diem,restaurant,La Ciotat,,,,43.1892133,5.6294048
+13452441674,node,¿Wine not?,restaurant,La Ciotat,,,,43.2143527,5.6321558
+13659307586,node,Restaurant le Patio,restaurant,La Ciotat,,,,43.2154773,5.5367872
+13659307592,node,Hôtel des Calanques,hotel,La Ciotat,,,,43.2136473,5.5395404
+13659307593,node,Snack Le Repaire,restaurant,La Ciotat,,,,43.2136485,5.5394619
+13659307612,node,Hôtel Eden Cassis,hotel,La Ciotat,"Avenue du Revestel, Cassis",,https://www.hotel-eden-cassis.com/,43.2135165,5.5427916
+13703245405,node,Molto Mucho,restaurant,La Ciotat,,,,43.1748395,5.6084865

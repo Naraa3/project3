@@ -1,0 +1,537 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+267589863,node,Bellevue Hotel-Restaurant,hotel,Rouen,"13 Quai Hector Malot, 76530, La Bouille",76530,https://www.hotel-le-bellevue.com/,49.3528427,0.9295739
+290790131,node,Ibis Rouen Champs de Mars,hotel,Rouen,12,,http://www.ibis.com,49.4357213,1.1036174
+290790135,node,Hôtel Mercure Rouen Champ de Mars,hotel,Rouen,12 bis,,http://www.mercure.com,49.4358557,1.103843
+324747024,node,Novotel,hotel,Rouen,,,,49.4432137,1.075316
+324806369,node,Hôtel de Dieppe,hotel,Rouen,"Place Bernard Tissot, 76000, Rouen",76000,https://hotel-dieppe.fr/,49.4483045,1.0934192
+324806373,node,Yu Yuan,restaurant,Rouen,,,,49.4485663,1.0930125
+362066740,node,Auberge du Bac,restaurant,Rouen,"2, 76480, Jumièges",76480,https://www.aubergedubac.fr/,49.4287088,0.8044444
+571285910,node,La Bertelière,hotel,Rouen,1641 Avenue du Mesnil Grémichon,,https://www.laberteliere.com/,49.4665368,1.1516414
+654457489,node,Ibis Budget,hotel,Rouen,"Rue du Mont Perreux, 76230, Isneauville",76230,http://www.ibis.com,49.4901738,1.1447842
+791077922,node,Dolce Vita Restaurant,restaurant,Rouen,,,https://dolcevitarestaurant.fr/,49.4404533,1.0983658
+835732897,node,Margherita,restaurant,Rouen,,,https://margherita-rouen.fr/,49.442405,1.0893768
+888347582,node,Le Relais de Montigny,hotel,Rouen,"248 Rue du Lieutenant Aubert, 76380, Montigny",76380,https://lerelaisdemontigny.fr/,49.4590142,0.9983604
+1332577877,node,La Taverne Alsacienne,restaurant,Rouen,"69 Route de Paris, 76240, Bonsecours",76240,https://www.lestavernes.com/rouen-bonsecours/,49.4227231,1.1253665
+1368358270,node,Le Darnétal,restaurant,Rouen,"2 Rue Albert Fauquet, 76160, Darnétal",76160,,49.4398045,1.1465539
+1404018836,node,Au Bureau,restaurant,Rouen,,,,49.4430669,1.0738274
+1497764650,node,Once udon a time,restaurant,Rouen,,,,49.4380724,1.1000092
+1527088381,node,Ibis Budget,hotel,Rouen,,,,49.3921052,1.0594698
+1527088390,node,Ibis,hotel,Rouen,,,https://ibis.accor.com/france/index.fr.shtml,49.3916723,1.0592499
+1596475358,node,La Sangria,restaurant,Rouen,"865, 76230, Bois-Guillaume",76230,https://la-sangria.fr/,49.4686695,1.1019041
+1630228892,node,La Boîte à Pizza,restaurant,Rouen,83 Boulevard Charles de Gaulle,,https://www.laboiteapizza.com/fr/menu/magasin/index/pizzeria/7602,49.4195395,1.0612237
+1647434283,node,Bonheur de Chine,restaurant,Rouen,,,,49.4192253,1.0445692
+1657768231,node,ibis Styles Rouen Centre Cathédrale,hotel,Rouen,"9 Place de la République, 76000, Rouen",76000,https://all.accor.com/hotel/A0X8/index.fr.shtml,49.4377239,1.0958457
+1657768235,node,Le Réverbère,restaurant,Rouen,,,,49.4376685,1.0960364
+1668954541,node,Chez Meriem,restaurant,Rouen,,,,49.4264369,1.0753915
+1672584477,node,Sun,restaurant,Rouen,100,,https://www.sun-sushi-rouen.fr/,49.4439633,1.0923454
+1672585471,node,Le Bouillon Comptoir,restaurant,Rouen,"88 Rue Ganterie, 76000, Rouen",76000,,49.4438893,1.0926347
+1672610778,node,Blotti,restaurant,Rouen,30,,https://blotti.fr/,49.4431508,1.0941972
+1708100492,node,Les Capucines,restaurant,Rouen,16 Rue Jean Macé,,,49.4239747,1.0641449
+1708179663,node,Le Corneille,hotel,Rouen,"140 Rue Pierre Corneille, 76300, Sotteville-lès-Rouen",76300,,49.4182198,1.0969045
+1787046478,node,La Poste,restaurant,Rouen,"Grande Rue, 76690, Cailly",76690,,49.5797116,1.2293585
+1811702228,node,Campanile Rouen Nord,hotel,Rouen,,,,49.4770033,1.0934509
+1811702234,node,Eden Hotel Rouen,hotel,Rouen,"Rue Gustave Eiffel, 76230, Bois-Guillaume",76230,,49.4742805,1.1043269
+1846567681,node,Bistrot des Abattoirs,restaurant,Rouen,35,,,49.42642,1.0966803
+1846579871,node,Tonton & Tantie Pizza,restaurant,Rouen,"109 Avenue du 14 Juillet, 76300, Sotteville-lès-Rouen",76300,https://tontontantiepizza.fr/,49.4081993,1.0886614
+1846588756,node,,restaurant,Rouen,,,,49.4074,1.0916787
+1846590991,node,,restaurant,Rouen,,,,49.4063796,1.1021826
+1846590992,node,L'Odyssée,restaurant,Rouen,"1 Grande Rue de Quatre-Mares, 76300, Sotteville-lès-Rouen",76300,,49.4046703,1.1034806
+1846627880,node,L'Atelier,restaurant,Rouen,22 Place de l'Hôtel de Ville,,,49.4155992,1.0890939
+1846779722,node,Le Royal de Sotteville,restaurant,Rouen,"9 Rue Pierre Corneille, 76300, Sotteville-lès-Rouen",76300,,49.4233024,1.0905234
+1846779724,node,Sushi First,restaurant,Rouen,"42 Place Voltaire, 76300",76300,https://www.sushifirst.fr/,49.4239703,1.0886888
+1848332166,node,LP Pizza,restaurant,Rouen,182 Avenue du 14 Juillet,,,49.4107298,1.079177
+1869987906,node,Le Vert Bocage,restaurant,Rouen,,,,49.3978856,1.1780462
+1877526088,node,Le Millennial,restaurant,Rouen,,,https://www.le-millennial-rouen.fr/,49.4405723,1.09584
+1877540235,node,JM's Café,restaurant,Rouen,"2 Place du Vieux Marché, 76000, Rouen",76000,https://jms-cafe.business.site/,49.4426661,1.0889317
+1892286751,node,Campanile,restaurant,Rouen,,,,49.4025306,1.1614957
+1915232795,node,Hôtel Campanile,hotel,Rouen,,,,49.40323,1.160757
+2043803173,node,La Barbue,restaurant,Rouen,,,,49.4399904,1.0985537
+2145286397,node,Ito,restaurant,Rouen,,,https://ito-sushi.com/rouen-gare-rue-verte/,49.4485974,1.0931438
+2145294813,node,D'eux-mêmes,restaurant,Rouen,"9 Place du Vieux Marché, 76000, Rouen",76000,https://www.restaurant-deuxmemes.fr/,49.4426418,1.0883029
+2154108943,node,L'Établi,restaurant,Rouen,,,,49.4655704,1.0518907
+2213093350,node,Le Cardinal,hotel,Rouen,,,https://www.hotelcardinal.fr/,49.4399152,1.0937419
+2219599443,node,La Strada,restaurant,Rouen,"3780, 76230, Bois-Guillaume",76230,https://www.restaurant-lastrada.com/,49.4735884,1.1242087
+2222216306,node,Fujiya Sushi,restaurant,Rouen,3182,,https://fujiyasushi.fr/,49.4691442,1.1194177
+2232392463,node,La Marine,restaurant,Rouen,,,,49.4145107,1.01416
+2246454420,node,Le Bistrot du Coin,restaurant,Rouen,,,,49.4389443,1.1026798
+2250346465,node,Le Clos Saint-Marc,restaurant,Rouen,112,,,49.4392133,1.101767
+2263101111,node,Les soeurs syriennes,restaurant,Rouen,,,,49.438235,1.100263
+2299631665,node,Le Goupil,restaurant,Rouen,"66 Rue Bouvreuil, 76000, Rouen",76000,https://www.goupilrouen.com,49.4464515,1.0950454
+2338642963,node,Palazzo,restaurant,Rouen,8,,,49.4431218,1.0927566
+2340178517,node,La Crêpe dans le Bec,restaurant,Rouen,,,,49.4428623,1.0926179
+2344459745,node,Le Sultan,restaurant,Rouen,,,,49.5464911,0.9539746
+2383590203,node,Dragon de Chine,restaurant,Rouen,,,,49.6159876,0.7760863
+2383598178,node,Milano,restaurant,Rouen,"17 Place de l'Hôtel-de-Ville, 76190, Yvetot",76190,http://www.pizzeriamilanoyvetot.fr/,49.6163767,0.7557914
+2386722789,node,Hôtel Notre-Dame,hotel,Rouen,4,,,49.4385577,1.0936682
+2414633941,node,Crêperie du Théâtre,restaurant,Rouen,,,,49.5452342,0.9523931
+2552708049,node,Le Pacha,restaurant,Rouen,"4 Rue de la Chaine, 76160, Darnétal",76160,https://www.pizzerialepacha.fr/,49.4409186,1.1459717
+2566954305,node,Le QG,restaurant,Rouen,,,,49.6117185,0.7727081
+2631395021,node,Lemon Hôtel,hotel,Rouen,,,,49.4117344,1.1540687
+2631487444,node,Le Boos,restaurant,Rouen,,,,49.3890045,1.2015862
+2632971544,node,Campanile,hotel,Rouen,,,,49.3689059,1.1110064
+2632971574,node,Premiere Classe,hotel,Rouen,,,,49.3692745,1.1108857
+2632971588,node,B&B Hôtel,hotel,Rouen,,,,49.36925,1.1120552
+2634128559,node,Chantegrill,restaurant,Rouen,,,,49.4006452,1.0638126
+2634128634,node,Le Pavillon du Bonheur,restaurant,Rouen,"19-21 Avenue des Canadiens, 76800, Saint-Étienne-du-Rouvray",76800,,49.4007167,1.0647085
+2650643185,node,Pizza Lanna,restaurant,Rouen,,,,49.6677726,0.8952143
+2746253439,node,Brit Hotel Rouen Centre,hotel,Rouen,"33 Boulevard Gambetta, 76000, Rouen",76000,,49.4387838,1.109288
+3102967702,node,Taste of Tandoori,restaurant,Rouen,193,,https://tasteoftandoori-rouen.mystrikingly.com/,49.4259774,1.0748101
+3102969830,node,Les Colonnades,restaurant,Rouen,189,,,49.4260296,1.0749293
+3119272326,node,Crêperie la Bonne Famille,restaurant,Rouen,"107, 76480, Jumièges",76480,,49.4323029,0.8185037
+3222335990,node,La Grillade,restaurant,Rouen,921 Route de Neufchâtel,,https://www.la-grillade.fr/,49.5141432,1.1701897
+3299411483,node,Sous la Toque d'Olivier,restaurant,Rouen,"604 Rue de l'Église, 76230, Isneauville",76230,,49.4986615,1.1420656
+3299411487,node,L'Addition,restaurant,Rouen,"509 Contre-Allée de la Route de Neufchâtel, 76230, Isneauville",76230,,49.4915135,1.142975
+3393976273,node,La Petite Flamme,restaurant,Rouen,"5 Place de la Mairie, 76480, Jumièges",76480,,49.4324877,0.8188487
+3446025279,node,Le Dauphin,restaurant,Rouen,,,,49.4706966,1.0937373
+3592496653,node,Le Saint-Pierre,restaurant,Rouen,"2 Place du Bateau, 76530, La Bouille",76530,,49.352294,0.9306148
+3592537365,node,Café de la Poste,restaurant,Rouen,"6 Place du Bateau, La Bouille",,,49.352411,0.930306
+3592537366,node,La maison Blanche,restaurant,Rouen,"1 Quai Hector Malot, La Bouille",,,49.3525146,0.9301413
+3592537367,node,La escala,restaurant,Rouen,"3 Quai Hector Malot, La Bouille",,,49.3525733,0.9300312
+3592537368,node,Les Gastronomes,restaurant,Rouen,"1 Place du Bateau, La Bouille",,,49.3519628,0.9305828
+3592537373,node,,restaurant,Rouen,,,,49.3523569,0.9302783
+3592599585,node,Le clos des Roses,restaurant,Rouen,,,,49.3583569,0.944819
+3713076033,node,Le Central,restaurant,Rouen,"8 Rue du Bec, 76000, Rouen",76000,,49.441196,1.0930313
+3734527924,node,Cosy Lunch,restaurant,Rouen,"8 Place de la Calende, 76000, Rouen",76000,,49.4395295,1.0950809
+3890804577,node,Pulp Lunch,restaurant,Rouen,24 Rue du Renard,,,49.44634,1.0849546
+3891122763,node,Pagani,restaurant,Rouen,26,,https://www.pagani.pizza/,49.4463783,1.0862394
+3894984634,node,Le 6e Sens,restaurant,Rouen,2,,https://le-sixiemesens.fr/,49.4433266,1.0866772
+4030712519,node,Le Navy,restaurant,Rouen,11,,https://lenavy.fr/,49.4379025,1.0994803
+4046470183,node,Amore Mio,restaurant,Rouen,149 Rue Saint-Hilaire,,https://amoremio-rouen.fr/,49.4423046,1.1066499
+4057019078,node,Joubeil,restaurant,Rouen,,,,49.4379821,1.0970691
+4061990841,node,Ho Lamian,restaurant,Rouen,243,,,49.4414253,1.0995313
+4130807402,node,La Tarantine,restaurant,Rouen,"1 Route de Duclair, 76380, Canteleu",76380,https://latarantine.fr/,49.439888,1.0272794
+4149907554,node,Wasabi,restaurant,Rouen,"34 bis Place de l'Hôtel de Ville, 76300, Sotteville-lès-Rouen",76300,https://wasabi76.fr/,49.4145472,1.0901088
+4177197017,node,La Pasta Tinto,restaurant,Rouen,"4 Rue Alsace Lorraine, 76000, Rouen",76000,,49.4385994,1.1001082
+4226152609,node,Au Club,restaurant,Rouen,"37, 76130, Mont-Saint-Aignan",76130,,49.4668941,1.0655762
+4282132440,node,Cancan,restaurant,Rouen,,,https://cancantraiteur.com/,49.4429962,1.0871317
+4380216093,node,Bacetto,restaurant,Rouen,"5 Quai de Boisguilbert, 76000, Rouen",76000,https://bacetto-rouen.fr/,49.4434994,1.0723684
+4386474579,node,,restaurant,Rouen,,,,49.4406998,1.1447994
+4391465030,node,Restaurant universitaire du Madrillet,restaurant,Rouen,"1 Avenue de l'Université, 76800, Saint-Étienne-du-Rouvray",76800,,49.3867025,1.0696522
+4458368384,node,Hôtel Astrid,hotel,Rouen,11,,https://www.hotel-astrid.fr/,49.4482638,1.0938408
+4458402696,node,Hoian Resto,restaurant,Rouen,9 Rue Verte,,https://hoianresto76.fr,49.4477479,1.0935707
+4480957884,node,Ito Sushi,restaurant,Rouen,1,,,49.4429099,1.0907221
+4489833541,node,Gandhi,restaurant,Rouen,18,,https://www.gandhi-rouen.com/,49.4344018,1.0855521
+4490288420,node,Brasserie du Cailly,restaurant,Rouen,,,,49.4632859,1.0455023
+4499166338,node,Mama fufu,restaurant,Rouen,,,,49.4324339,1.0890107
+4500373406,node,Ikaze,restaurant,Rouen,12,,,49.4327888,1.0913379
+4503496653,node,Kopitiam,restaurant,Rouen,,,,49.4348699,1.0897973
+4548322200,node,Hisashi Ramen,restaurant,Rouen,,,https://www.hisashii-ramen.fr/,49.4419152,1.0901608
+4548479498,node,Mamie,restaurant,Rouen,26 Place du Vieux Marché,,https://www.mamie-restaurants.com/,49.4437176,1.0882202
+4548479499,node,Italian Trattoria,restaurant,Rouen,,,https://it-trattoria.fr/,49.4436876,1.0883957
+4548479500,node,Le P'tit Zinc,restaurant,Rouen,,,https://www.leptitzinc.com/,49.4436208,1.088659
+4548479504,node,New York Coffee,restaurant,Rouen,16 Place du Vieux Marché,,,49.4434764,1.089181
+4548479505,node,"Gill, côté bistrot",restaurant,Rouen,,,https://www.gill-cote-bistro.fr/,49.4434497,1.0892755
+4548479517,node,Marcel,restaurant,Rouen,"39 Place du Vieux Marché, 76000, Rouen",76000,https://marcel-rouen.fr/,49.4428003,1.0875244
+4548479518,node,Les Maraichers,restaurant,Rouen,37 Place du Vieux Marché,,https://www.lesmaraichers.com/,49.4427841,1.0876069
+4548479529,node,Le Café Populaire,restaurant,Rouen,,,,49.4425845,1.0885163
+4552754543,node,Hôtel de la Cathédrale,hotel,Rouen,12,,https://hotel-de-la-cathedrale.fr,49.4401433,1.0969667
+4552989462,node,Sole Mio,restaurant,Rouen,"122 Rue Martainville, 76000, Rouen",76000,,49.4394064,1.1011167
+4552989478,node,Les Délices Afghans,restaurant,Rouen,"150 Rue Martainville, 76000, Rouen",76000,,49.4397072,1.1000687
+4552989483,node,La Bocelli,restaurant,Rouen,"168 Rue Martainville, 76000, Rouen",76000,,49.4397883,1.0997483
+4552989599,node,Simone,restaurant,Rouen,"214 Rue Martainville, 76000, Rouen",76000,https://simone.onataste.fr/,49.4399448,1.0989401
+4552989601,node,Auberge Saint-Maclou,restaurant,Rouen,222,,,49.4399924,1.098787
+4552989605,node,Les Fils à Maman,restaurant,Rouen,232,,https://www.lesfilsamaman.com/restaurants/rouen/,49.4399858,1.0986178
+4552989611,node,La Walsheim,restaurant,Rouen,260,,https://www.lawalsheim.fr/,49.4400275,1.0981444
+4552989614,node,Zhoushi,restaurant,Rouen,"4 Place Barthélémy, 76000, Rouen",76000,http://www.zhoushi.fr/,49.4399785,1.0979395
+4553046640,node,Restaurant des Beaux Arts,restaurant,Rouen,,,https://www.restaurant-des-beaux-arts.com/,49.4407503,1.0986561
+4553046660,node,L'epicurius,restaurant,Rouen,,,https://www.lepicurius.fr/,49.4406691,1.098414
+4553046664,node,Le Maharaja,restaurant,Rouen,,,https://www.le-maharaja.com/,49.4403261,1.0981396
+4553046666,node,Tandem,restaurant,Rouen,,,https://tandem-rouen.fr/,49.4402195,1.0980855
+4553046670,node,Tranché,restaurant,Rouen,,,,49.4400341,1.097993
+4553652442,node,Afghan Restaurant,restaurant,Rouen,,,,49.4336082,1.0886287
+4553713577,node,Petit Gars,restaurant,Rouen,"37, 76000",76000,,49.4405044,1.0916451
+4553757724,node,La Régalière,restaurant,Rouen,"12, 76000",76000,,49.441916,1.0914505
+4553757738,node,EMJI,restaurant,Rouen,3,,,49.4418648,1.0911957
+4553781498,node,Les Initiés,hotel,Rouen,45,,,49.4419592,1.0924073
+4553781504,node,Le Diplomate,restaurant,Rouen,10,,,49.4428694,1.091562
+4553781505,node,Vila Nela,restaurant,Rouen,"5 Place Maréchal Foch, 76000, Rouen",76000,https://www.vilanela.fr/,49.4422704,1.0911906
+4553889701,node,BaoBaozi,restaurant,Rouen,"14 Rue Thouret, 76000, Rouen",76000,,49.4416908,1.0921528
+4555961858,node,Le Palais Indien,restaurant,Rouen,91,,https://lepalaisindien.com/,49.4469859,1.0950479
+4556237006,node,Kopitiam,restaurant,Rouen,,,,49.4448553,1.0872165
+4556237022,node,Hôtel Dandy,hotel,Rouen,,,http://www.hotels-rouen.net,49.4452871,1.0867145
+4556237049,node,Lolo & Zaza,restaurant,Rouen,,,,49.4444996,1.0873403
+4556237056,node,Doges,restaurant,Rouen,,,https://les-doges-rouen.eatbu.com/,49.4441018,1.0876143
+4556237058,node,Chiba Ramen,restaurant,Rouen,,,https://www.chibaramen.fr/,49.4440157,1.0877007
+4556237064,node,Chez Huri,restaurant,Rouen,,,,49.4442053,1.0877395
+4556237068,node,Un Grain de,restaurant,Rouen,,,https://www.restaurant-rouen-ungrainde.fr/,49.4439894,1.0879101
+4556237071,node,YumMó,restaurant,Rouen,,,,49.4438792,1.0879969
+4565160838,node,Skáli,restaurant,Rouen,"2 Place de l'Église, 76490, Saint-Wandrille-Rançon",76490,https://www.skalirestaurant.com/,49.5280985,0.7666284
+4583373685,node,Les Saveurs du Liban,restaurant,Rouen,55,,,49.4421641,1.1101876
+4597207819,node,L'Étoile d'Or,restaurant,Rouen,,,,49.4413038,1.0986604
+4597229954,node,La Petite Bouffe,restaurant,Rouen,"1 Rue des Boucheries Saint-Ouen, 76000, Rouen",76000,https://www.rouentourisme.com/restaurants-traditionnels/la-petite-bouffe-1705/,49.4416026,1.0989338
+4597235929,node,Le Berbère,restaurant,Rouen,,,,49.441866,1.0990917
+4602932394,node,Le Duo Restaurant Grill,restaurant,Rouen,"71 Avenue Jean Jaurès, 76140, Le Petit-Quevilly",76140,,49.427165,1.0656235
+4622670992,node,Pizza du Roi,restaurant,Rouen,"283 Route du Château, 76116",76116,https://m.facebook.com/pizzaduroimartainville/?locale2=fr_FR,49.4597828,1.2953675
+4638897134,node,La Dune,restaurant,Rouen,10,,https://ladune-restaurant.fr/,49.4336465,1.0876516
+4638897139,node,L'Étoile du Sud,restaurant,Rouen,12,,https://etoile-du-sud.eatbu.com/,49.433728,1.0873515
+4665553159,node,Au Refuge Berbère,restaurant,Rouen,38,,https://www.restaurant-au-refuge-berbere.com/,49.4410125,1.087042
+4687235116,node,Carrousel,restaurant,Rouen,,,https://www.carrousel-rouen.com/,49.440962,1.0997737
+4687235117,node,Le Café Perdu,restaurant,Rouen,"44 Rue d'Amiens, 76000, Rouen",76000,https://www.instagram.com/lecafeperdu_rouen?igsh=MWtvZGllMmFiaXpiZw==,49.4410987,1.0998823
+4687273796,node,Le Kaboul,restaurant,Rouen,,,,49.4407457,1.1005078
+4687273799,node,La Famille syrienne,restaurant,Rouen,,,,49.4406711,1.1007864
+4703567551,node,H Grill,restaurant,Rouen,,,,49.620987,0.7860859
+4722526524,node,Le Vieux Carré,hotel,Rouen,34,,https://www.hotel-vieux-carre.com/,49.4434522,1.0946477
+4729048249,node,Le Mont Saint-Pizza,restaurant,Rouen,,,,49.4626591,1.0757611
+4737125599,node,Le Refuge,restaurant,Rouen,,,,49.4176997,1.043704
+4769798821,node,Les P'tites Pommes,restaurant,Rouen,,,,49.5985669,1.1099603
+4816681666,node,Tenzin Momo,restaurant,Rouen,2,,https://www.instagram.com/tenzinmomo2,49.4392602,1.1022397
+4825137425,node,Auberge des ruines,restaurant,Rouen,,,,49.4326244,0.8188568
+4853844312,node,L'Etage,restaurant,Rouen,"7 Avenue Foch, 76190, Yvetot",76190,,49.6183706,0.7492637
+4888346688,node,August,restaurant,Rouen,,,,49.4381179,1.1001782
+4888346689,node,Le Delhi,restaurant,Rouen,15,,http://restaurantdelhi.net,49.4381936,1.1002348
+4890039053,node,Brasserie du Bac,restaurant,Rouen,,,,49.524578,0.7276034
+4897330421,node,Zhoushi,restaurant,Rouen,"13 Rue Grand Pont, 76000, Rouen",76000,,49.4388851,1.0921655
+4940930440,node,Le Croc Normand,restaurant,Rouen,,,https://lecrocnormand.eatbu.com/?lang=fr,49.6277317,1.1738754
+4941047621,node,L'assiette du Boulanger,restaurant,Rouen,26,,,49.4461129,1.068225
+4956203482,node,,restaurant,Rouen,,,,49.3874962,1.2008082
+5000055887,node,Auberge du Val au Cesne,restaurant,Rouen,"140 Le Val au Cesne, 76190, Croix-Mare",76190,https://www.valaucesne.fr/,49.5902771,0.7991917
+5002694157,node,Fujiya Sushi,restaurant,Rouen,"14, 76000, Rouen",76000,https://fujiyasushi.fr/restaurants/rouen-centre-place-du-vieux-marche/,49.4437281,1.0897234
+5018484090,node,La Cantine,restaurant,Rouen,192,,,49.4416184,1.0994291
+5036948722,node,Rest'O'Rock,restaurant,Rouen,15,,https://www.restorock.net/,49.443257,1.0865934
+5061516823,node,La Cornaëlle,restaurant,Rouen,"174 Rue Eau de Robec, 76000",76000,,49.4415225,1.1003646
+5061624521,node,Payiz,restaurant,Rouen,9 Rue de l'Hôpital,,,49.4425522,1.0973882
+5061652921,node,Le Boma,restaurant,Rouen,4,,https://leboma-restaurant.eatbu.com/?lang=fr#,49.4436541,1.0888857
+5061680521,node,La Couronne,restaurant,Rouen,"31 Place du Vieux Marché, 76000",76000,https://www.lacouronne-rouen.fr/,49.4427562,1.0877831
+5061711121,node,Gill,restaurant,Rouen,8,,https://www.gill.fr/,49.4386096,1.091032
+5061727721,node,La Pêcherie,restaurant,Rouen,"29 Place de la Basse Vieille Tour, 76000",76000,https://www.lapecherie.fr/,49.4378684,1.0943683
+5061733623,node,La Petite Auberge,restaurant,Rouen,164,,https://www.restaurant-petite-auberge.fr/,49.4397756,1.0997975
+5061771224,node,Louisette,restaurant,Rouen,"35 Rue Percière, 76000, Rouen",76000,,49.4436977,1.0922642
+5069557525,node,Bella Carlotta,restaurant,Rouen,,,,49.4842593,0.8069784
+5105543539,node,La Bekaa,restaurant,Rouen,"36 Rue Percière, 76000, Rouen",76000,https://www.facebook.com/cusinelibanaise,49.4434362,1.092201
+5191130929,node,Préambule,restaurant,Rouen,"1370 Route de Neufchâtel, 76230, Isneauville",76230,,49.4962384,1.1499008
+5191288383,node,Rest’Authentique,restaurant,Rouen,"496 Route de Neufchâtel, 76230, Quincampoix",76230,https://restauthentique.fr/,49.5109316,1.1669385
+5194716122,node,Ottoman Palace,restaurant,Rouen,85 Avenue des Canadiens,,http://www.ottomanpalace.fr/,49.4104257,1.0716035
+5202626609,node,In Situ,restaurant,Rouen,35 Rue Jean Lecanuet,,https://www.insitu-restaurant.com/,49.4441903,1.0938976
+5202663018,node,L'Odas,restaurant,Rouen,"4 Passage Maurice Lenfant, 76000, Rouen",76000,https://lodas.fr,49.4410947,1.0945572
+5225212818,node,Restaurant Universitaire des deux bois,restaurant,Rouen,,,,49.4650248,1.0628662
+5260322400,node,Flunch,restaurant,Rouen,,,,49.5351111,0.9679948
+5260484415,node,La Terrasse,restaurant,Rouen,,,,49.5370352,0.9667845
+5260484420,node,Le Madison,restaurant,Rouen,,,,49.5360376,0.9688583
+5287604801,node,Le Tie Break,restaurant,Rouen,,,,49.6152301,0.7594079
+5292325973,node,L'Anticonformiste,restaurant,Rouen,,,,49.4410628,1.098437
+5292326968,node,Brasserie Al'1,restaurant,Rouen,,,,49.4399311,1.0936493
+5312599340,node,Ôdate Sushi,restaurant,Rouen,,,https://www.odatesushi.fr/,49.4331435,1.0909379
+5312608611,node,Richi Sushi,restaurant,Rouen,,,,49.4328345,1.0901979
+5322529505,node,Hanoi Délices,restaurant,Rouen,,,,49.4397195,1.089433
+5325166823,node,Le petit Boquié,restaurant,Rouen,"25 Rue des Bonnetiers, 76000, Rouen",76000,,49.4396336,1.0961258
+5372035422,node,Citizen Coffee,restaurant,Rouen,4,,,49.4435025,1.0943038
+5398249322,node,Le XXI,restaurant,Rouen,,,,49.440582,1.0914142
+5426753322,node,Hygge,restaurant,Rouen,,,,49.4437683,1.0896156
+5442243426,node,O'Douze,restaurant,Rouen,,,,49.6189146,0.7532038
+5452201039,node,Hôtel Art & Seine,hotel,Rouen,,,https://streetarthotel.com/,49.4389431,1.0920081
+5468878521,node,Bibelot,restaurant,Rouen,"8 Place de la Pucelle, 76000, Rouen",76000,,49.4421089,1.0888695
+5503632501,node,Nachos,restaurant,Rouen,,,http://nachos-mexicangrill.com,49.4425128,1.08917
+5503743755,node,Mercure,hotel,Rouen,7,,https://www.accorhotels.com/,49.4411955,1.0950959
+5550577323,node,Le Stromboli,restaurant,Rouen,,,,49.4390693,1.0908256
+5556608396,node,Saveurs de Chine,restaurant,Rouen,43,,,49.4409372,1.0866166
+5557629103,node,La Rotonde,restaurant,Rouen,,,,49.4331188,1.0881276
+5566378621,node,Nam Bistrot,restaurant,Rouen,"93 Rue Beauvoisine, 76000, Rouen",76000,,49.4453625,1.0971612
+5621402616,node,Pascaline,restaurant,Rouen,"5 Rue de la Poterne, 76000, Rouen",76000,https://laparenthese.metro.rest,49.44297,1.0922909
+5629003534,node,Hôtel de Lille,hotel,Rouen,,,,49.4326196,1.0898279
+5629481581,node,Asian Food,restaurant,Rouen,12,,,49.430913,1.0852966
+5652093845,node,Canopée,restaurant,Rouen,8,,,49.4429945,1.0926853
+5657296496,node,Le Roi du Poulet Grillé,restaurant,Rouen,1,,http://au-poulet-grille.com,49.4378128,1.0794754
+5667044871,node,Bân Thaï,restaurant,Rouen,95,,https://www.banthai-rouen.fr/,49.4439647,1.0907769
+5719648822,node,La Terrasse,restaurant,Rouen,"9 Place du Vieux Marché, 76000, Rouen",76000,https://www.laterrasse-rouen.fr/,49.4426179,1.0883906
+5746650514,node,Pizzeria de l'Abbaye,restaurant,Rouen,"269, 76480, Jumièges",76480,,49.4333474,0.8199137
+5852336295,node,Le Square Henri IV,restaurant,Rouen,22,,,49.4408348,1.0853081
+5892905342,node,Memphis Coffee,restaurant,Rouen,,,,49.5341325,0.9648361
+5903748291,node,Le Vivaldi,restaurant,Rouen,,,,49.5247582,0.7251866
+5964239139,node,Délices de Yifan,restaurant,Rouen,20 Place du Vieux Marché,,https://www.yifan.fr/,49.4436503,1.0885077
+6070521341,node,Hôtel de l’Europe,hotel,Rouen,,,https://www.h-europe.fr/,49.4411075,1.0892158
+6070580531,node,Philippe,restaurant,Rouen,,,https://www.restaurantphilippe.fr/,49.4409349,1.0903566
+6125635885,node,La grande muraille,restaurant,Rouen,,,,49.2868163,1.0065563
+6125655720,node,Paulaner München,restaurant,Rouen,,,,49.2859976,1.0071499
+6125672647,node,Le Bysance,restaurant,Rouen,32,,,49.4422519,1.0966586
+6132161926,node,Le Paname,restaurant,Rouen,"32, 76130, Mont-Saint-Aignan",76130,,49.4627168,1.0704329
+6132161929,node,Le Colbert,restaurant,Rouen,"Place Colbert, 76130, Mont-Saint-Aignan",76130,,49.4623152,1.0720295
+6163242958,node,Auberge de la Durdent,restaurant,Rouen,,,,49.6982292,0.6972578
+6171336563,node,Le Chakchouka,restaurant,Rouen,"110 Rue Saint-Hilaire, 76000, Rouen",76000,,49.4423736,1.1080231
+6171377672,node,Au Bureau,restaurant,Rouen,,,,49.6150975,0.7731648
+6173265139,node,Aux Delices des Carmes,restaurant,Rouen,"48 Place des Carmes, 76000, Rouen",76000,https://aux-delices-des-carmes.edan.io/,49.4424525,1.0953398
+6259932600,node,Le P'tit Bec,restaurant,Rouen,182,,https://www.leptitbec.com/,49.4415473,1.0999704
+6259948252,node,Les Gens Heureux,restaurant,Rouen,196,,,49.4415488,1.0993872
+6266998359,node,Maneki Neko,restaurant,Rouen,"192 Rue Garibaldi, 76300, Sotteville-lès-Rouen",76300,http://manekineko76.fr,49.4174122,1.0911131
+6342591336,node,Hot Sushi,restaurant,Rouen,"272, 76250",76250,,49.4665954,1.0516968
+6373171821,node,Au Prince des Sables,restaurant,Rouen,78,,https://www.auprincedesables.fr/,49.4433547,1.1041225
+6416644608,node,Terres de France - Rouen Flaubert,hotel,Rouen,"29 Avenue Jean Rondeaux, 76100, Rouen",76100,https://www.apparthotel-rouen-flaubert.com/,49.4347136,1.0768052
+6433084271,node,Le Suya,restaurant,Rouen,76,,,49.4298474,1.0748466
+6440883871,node,Le Veau d'Or,restaurant,Rouen,3,,https://www.restaurantleveaudor.fr/,49.4292332,1.0950782
+6443023207,node,La table du Boucher,restaurant,Rouen,"3980, 76230, Bois-Guillaume",76230,,49.4747228,1.1256959
+6458365223,node,La Pressqu'île,restaurant,Rouen,,,,49.4829022,0.7737141
+6461327145,node,Bambini,restaurant,Rouen,"164 Rue Eau de Robec, 76000, Rouen",76000,,49.4415398,1.100889
+6489483516,node,O'Fratelli,restaurant,Rouen,"28 Rue du Maréchal Foch, 76350, Oissel",76350,,49.3416008,1.0977796
+6541005882,node,Riquette,restaurant,Rouen,"Rue Malpalu, 76000, Rouen",76000,,49.4393452,1.0976016
+6551818975,node,Dominute Pizza,restaurant,Rouen,"3803, 76230, Bois-Guillaume",76230,,49.4738407,1.1241294
+6564565654,node,L'envie des mets,restaurant,Rouen,9,,,49.4397255,1.0944931
+6588739800,node,La Scala,restaurant,Rouen,,,https://www.lascalarouen.com/,49.4411022,1.0726473
+6588740091,node,cocorico,restaurant,Rouen,,,,49.4411494,1.0725185
+6589580685,node,Vue sur Seine,restaurant,Rouen,,,,49.4445096,1.0674838
+6589581285,node,La fabrik,restaurant,Rouen,,,,49.4412154,1.0800507
+6614910006,node,Shalimar,restaurant,Rouen,,,,49.4418416,1.096901
+6649520652,node,Rotomagus,restaurant,Rouen,7,,https://www.rotomagus.eu,49.4397908,1.0976354
+6669628334,node,Le Dominion,restaurant,Rouen,"12, 76130, Mont-Saint-Aignan",76130,https://le-dominion.fr,49.4605167,1.084563
+6669628351,node,Le Druide,restaurant,Rouen,"78, 76130, Mont-Saint-Aignan",76130,,49.4708089,1.078175
+6726462790,node,La Grignoterie : sandwicherie,restaurant,Rouen,,,,49.3856236,1.0712508
+6726462791,node,La Grignoterie : sandwicherie,restaurant,Rouen,,,,49.3866847,1.0738277
+6834784740,node,Brasserie & Traiteur LE CENTRAL,restaurant,Rouen,"1 Rue antoine laurent de lavoisier, 76300, Sotteville-lès-Rouen",76300,https://www.facebook.com/lecentralsotteville/,49.4029642,1.1136894
+6920890722,node,La Crêperie Rouennaise,restaurant,Rouen,,,,49.4410378,1.0983927
+6958278788,node,Paul,restaurant,Rouen,1,,http://brasserie-Paul.com,49.4398434,1.0937411
+6975341722,node,Le bistrot d'Arthur,restaurant,Rouen,,,https://www.lebistrotdarthur.com/,49.4442436,1.0874858
+6975702635,node,Pizz' N Grill,restaurant,Rouen,49,,,49.4376828,1.0836177
+6983707034,node,La Carte d'Orient,restaurant,Rouen,"137 Rue Pierre Corneille, 76300, Sotteville-lès-Rouen",76300,http://www.traiteur-lacartedorient.fr,49.41958,1.0951249
+7005661393,node,Globe-trotters,restaurant,Rouen,33,,https://globe-trotters-restaurant.fr/,49.4748615,1.0935456
+7031976715,node,Kern’Up,restaurant,Rouen,"11 Rue Marie-Jean-Antoine de Condorcet, 76300, Sotteville-lès-Rouen",76300,https://kernup.fr/,49.4080975,1.1104083
+7040943676,node,Seoul,restaurant,Rouen,,,https://www.seoul-rouen.fr/,49.4412121,1.0994688
+7040968681,node,ITO,restaurant,Rouen,92,,https://ito-sushi.fr/,49.4416952,1.0982298
+7041087482,node,Fujiya Sushi,restaurant,Rouen,"22 Place de la Pucelle, 76000, Rouen",76000,https://fujiyasushi.fr/restaurants/rouen-centre-place-de-la-pucelle/,49.4425205,1.0887911
+7058396093,node,,restaurant,Rouen,,,,49.4818812,0.7725178
+7083182985,node,L'Hardi'talie,restaurant,Rouen,,,,49.4804768,0.8733291
+7083353749,node,Au Fil de l'Eau,restaurant,Rouen,"286 Quai de la Libération, 76480, Duclair",76480,,49.4812223,0.8755842
+7083353750,node,Poke Bowl,restaurant,Rouen,"Quai de la Libération, 76480, Duclair",76480,,49.4812665,0.875728
+7086161715,node,ibis Rouen Centre Rive Gauche Saint-Sever,hotel,Rouen,44,,https://ibis.accor.com,49.4317572,1.0821912
+7090999494,node,Hôtel des Arcades,hotel,Rouen,,,https://www.hotel-des-arcades.fr/,49.4417782,1.0947581
+7128434283,node,L'incontournable,restaurant,Rouen,"1, 76000, Rouen",76000,https://lincontournable-rouen.fr/,49.4428411,1.0872072
+7128453385,node,Okinawa,restaurant,Rouen,"5 Rue de la Pie, 76000, Rouen",76000,https://okinawa-rouen.fr,49.4428994,1.0870443
+7161321398,node,La Maison du Bonheur,restaurant,Rouen,33,,http://www.restaurant-lamaisondubonheur.fr,49.4391628,1.1324873
+7206184359,node,Enfin chez Gaëlle,restaurant,Rouen,"4244, 76230, Bois-Guillaume",76230,,49.4771706,1.127803
+7242650076,node,Cool Halal,restaurant,Rouen,,,,49.4705129,1.0498475
+7246928239,node,C'vu E'pi,restaurant,Rouen,,,,49.4710994,1.0499373
+7248192631,node,Les 2 Moulins,restaurant,Rouen,,,,49.4686496,1.0429689
+7256195558,node,Anwal,restaurant,Rouen,,,,49.4644007,1.0524787
+7285790211,node,Mille et une pizzas,restaurant,Rouen,,,,49.4763137,1.052824
+7371301967,node,Together Asia Fusion Food,restaurant,Rouen,"118 Rue Beauvoisine, 76000, Rouen",76000,https://together-rouen.carrd.co/,49.4455471,1.097481
+7371301969,node,Bhumtso,restaurant,Rouen,114 Rue Beauvoisine,,,49.445473,1.0974193
+7371302011,node,Markette,restaurant,Rouen,21 Rue Beauvoisine,,https://www.marketterouen.fr/,49.443651,1.09587
+7371302022,node,Chiba,restaurant,Rouen,"9, 76000, Rouen",76000,https://www.chibaramen.fr,49.4432564,1.0956008
+7371302023,node,Sisig,restaurant,Rouen,"8 Rue Beauvoisine, 76000, Rouen",76000,,49.4432535,1.0957551
+7371302025,node,NGOC Kitchen,restaurant,Rouen,6,,,49.4432008,1.0957145
+7371302029,node,Pizzeria du Drugstore,restaurant,Rouen,"2, 76000, Rouen",76000,https://www.pizzeriadrugstore.fr/,49.443109,1.0956537
+7371526523,node,Hanoi gourmet,restaurant,Rouen,80,,,49.438734,1.10336
+7372373032,node,Capri,restaurant,Rouen,"22 Rue Guillaume le Conquérant, 76000, Rouen",76000,,49.4433453,1.0897098
+7403414822,node,MyArancini,restaurant,Rouen,"66 Rue de la République, 76000, Rouen",76000,https://www.myarancini.fr/,49.4403664,1.0976277
+7406247689,node,Mama's curry,restaurant,Rouen,"7 Rue Pierre Corneille, 76300",76300,,49.4232515,1.0900961
+7474241166,node,Ottoman Palace,restaurant,Rouen,"42 Avenue des Canadiens, 76140, Le Petit-Quevilly",76140,http://www.ottomanpalace.fr/,49.4129442,1.0729509
+7497272205,node,,restaurant,Rouen,,,,49.5249641,0.7347826
+7519172416,node,La Table de Benoît,restaurant,Rouen,"24 Rue Méridienne, 76300",76300,,49.4237993,1.0877765
+7598116942,node,Le Piano Crêpes,restaurant,Rouen,3121,,,49.4688945,1.1187346
+7691077077,node,Kang Sushi,restaurant,Rouen,"251 Route de Dieppe, 76770",76770,https://kangsushi.fr/,49.5268138,1.0425993
+7726486357,node,Chez L'Walida,restaurant,Rouen,,,,49.4312568,1.0872703
+7796635549,node,Mon P'tit resto,restaurant,Rouen,,,,49.6612806,0.8785496
+7798325303,node,L'atelier,restaurant,Rouen,,,,49.6153913,0.7733207
+7835547427,node,Mamma Mia,restaurant,Rouen,"1649, 76230, Bois-Guillaume",76230,https://www.mammamiastore.fr/,49.481849,1.1052793
+7884690543,node,Le Roi du Poulet,restaurant,Rouen,"8 Avenue Jean Jaurès, 76140, Le Petit-Quevilly",76140,,49.4285174,1.0694797
+7955800437,node,Ibis,hotel,Rouen,"13, 76100",76100,https://all.accor.com/hotel/C0I0/index.fr.shtml,49.4342442,1.0716955
+7969561071,node,Génération Sushi,restaurant,Rouen,244,,http://genesushi76.fr/,49.4421732,1.1148488
+7978182002,node,Bouillon Italia Osteria d'Or,restaurant,Rouen,"4 Place Saint-Marc, 76000, Rouen",76000,https://www.bouillon-italia.fr/,49.4380313,1.1011667
+7996985399,node,C'Cuit,restaurant,Rouen,"49 Rue Longpaon, 76160, Darnétal",76160,,49.4427036,1.1466793
+8000832793,node,Papa pizz,restaurant,Rouen,,,,49.4211972,1.0930155
+8053212580,node,Cocottes & Patinas,restaurant,Rouen,"112 Avenue du 14 Juillet, 76300, Sotteville-lès-Rouen",76300,,49.4081898,1.0897361
+8062795190,node,Le Kashemir,restaurant,Rouen,13 Rue Anatole France,,,49.4411089,1.084849
+8062795195,node,Le Figuier,restaurant,Rouen,31 rue Anatole France,,,49.4415778,1.0835986
+8062795222,node,La Terre Neuve,restaurant,Rouen,67,,,49.4406283,1.0837228
+8063373829,node,L'Alaje,restaurant,Rouen,"60 Rue de Fontenelle, 76000, Rouen",76000,,49.4445125,1.0877357
+8063373848,node,Racine 14,restaurant,Rouen,22 Rue de Fontenelle,,https://racine14.wixsite.com/racine14,49.4423316,1.0855113
+8063434960,node,Creperie Kerso Breizh Galette & Co,restaurant,Rouen,,,,49.4430379,1.0865857
+8063434961,node,Rajastahn,restaurant,Rouen,,,,49.4430137,1.0866673
+8069295935,node,Bar ADN,restaurant,Rouen,"18 Rue du Vieux Palais, 76000, Rouen",76000,,49.4422275,1.0867
+8069295940,node,Chez Pépé & Fils,restaurant,Rouen,10,,,49.4419162,1.0863993
+8069295961,node,Raclette to GO,restaurant,Rouen,3,,,49.4414935,1.0857654
+8069302224,node,Hôtel Littéraire Gustave Flaubert,hotel,Rouen,,,https://www.hotelslitteraires.fr/nos-hotels/hotel-litteraire-gustave-flaubert/,49.4426129,1.086776
+8069437253,node,Les Halles,restaurant,Rouen,25,,,49.4423139,1.0884939
+8069437254,node,Paul-Arthur,restaurant,Rouen,23,,,49.4422553,1.0884423
+8069437266,node,Le Bistrot De La Pucelle,restaurant,Rouen,6,,,49.442065,1.0889417
+8069437267,node,Acqua & Farine,restaurant,Rouen,"4 bis Place de la Pucelle, 76000, Rouen",76000,,49.4419895,1.088915
+8069437271,node,Bibelot,restaurant,Rouen,"80, 76000, Rouen",76000,,49.4419876,1.0893487
+8069440088,node,Pottier Frères,restaurant,Rouen,103,,,49.4419928,1.0892283
+8069440090,node,La Tarte Tatin,restaurant,Rouen,99,,,49.4419212,1.0891665
+8075467982,node,La Marmite,restaurant,Rouen,3,,https://www.lamarmiterouen.com/,49.4435535,1.0874205
+8075548578,node,Le Mojo,restaurant,Rouen,"28 Rue des Bons Enfants, 76000, Rouen",76000,,49.4442733,1.0905608
+8075585040,node,Boom boom,restaurant,Rouen,"14 Rue de l'Ancienne Prison, 76000, Rouen",76000,,49.4438747,1.0890083
+8077905881,node,La Galerie,restaurant,Rouen,4,,http://restaurant-lagalerie.fr/,49.4435097,1.0896339
+8077966292,node,Nouilles Fait Maison,restaurant,Rouen,"83 Rue Écuyère, 76000, Rouen",76000,,49.4437646,1.0906703
+8093481804,node,Original Relais Rouen La Bertelière,restaurant,Rouen,,,,49.4666356,1.1516788
+8148641043,node,Léo à table,restaurant,Rouen,1,,https://www.leoatable.fr/,49.4510611,1.1405224
+8184512862,node,Sushis Z,restaurant,Rouen,"3 Rue du Pacifique, 76240, Belbeuf",76240,https://www.sushiz76.com/,49.3974464,1.1568075
+8184833335,node,Pizza Steph,restaurant,Rouen,"95 Route de Paris, 76240, Bonsecours",76240,https://www.pizzastef.com/,49.4243617,1.1223886
+8211224519,node,La Toile de lin,restaurant,Rouen,"4 Rue Carnot, 76560, Doudeville",76560,https://restaurantlatoiledelin.fr,49.7211922,0.7842504
+8241125547,node,Andakka,restaurant,Rouen,19,,,49.4414435,1.0930064
+8263040362,node,Les Papilles en Seine,restaurant,Rouen,16,,,49.4369959,1.0860183
+8267501320,node,Crêperie de La Caillouville,restaurant,Rouen,5 Place de l'Église,,,49.5280844,0.7676865
+8273281355,node,Le Machacha,restaurant,Rouen,42,,,49.4375562,1.0840566
+8612008948,node,Restaurant de La Basilique,restaurant,Rouen,"8, 76240, Bonsecours",76240,,49.4221377,1.1245125
+8669078402,node,,restaurant,Rouen,,,,49.2898099,1.0148666
+8713045222,node,Comme Chez Mam's,restaurant,Rouen,"92 Rue de Paris, 76800, Saint-Étienne-du-Rouvray",76800,,49.3902737,1.1047184
+8713045224,node,Le Coup de Coeur,restaurant,Rouen,,,,49.3756673,1.1082304
+8757588294,node,Pizz'à Toto,restaurant,Rouen,"1 Rue Vacquerie, 76490, Villequier",76490,,49.5132214,0.6745675
+8792957571,node,La Rose des Vents,restaurant,Rouen,,,,49.4379707,1.0941106
+8928412767,node,Ristorante Del Arte,restaurant,Rouen,,,https://www.delarte.fr/restaurants/4393-isneauville,49.4911976,1.1442191
+9057033748,node,PokéShop,restaurant,Rouen,,,https://pokeshop-paris.fr/,49.4412537,1.099306
+9083910679,node,Hoguera,restaurant,Rouen,239 Rue Eau de Robec,,,49.441409,1.0996803
+9083910697,node,Les Concessions,restaurant,Rouen,150,,,49.4415138,1.1014264
+9083910702,node,Noodle shop,restaurant,Rouen,172,,,49.4415143,1.1004637
+9085485431,node,L'espiguette,restaurant,Rouen,,,,49.4416657,1.097392
+9130128532,node,Corn Dog,restaurant,Rouen,18 Rue Petit de Julleville,,,49.4394895,1.0960216
+9130492640,node,Pitaya,restaurant,Rouen,,,https://pitaya-thaistreetfood.com/,49.4421825,1.0898257
+9133065176,node,Little Italy,restaurant,Rouen,"14 Place Victor Hugo, 76190, Yvetot",76190,https://little-italy-yvetot.edan.io/,49.616276,0.7521885
+9166842537,node,Café Hamlet,restaurant,Rouen,,,,49.4401059,1.0996798
+9223019146,node,Pizza palace,restaurant,Rouen,,,,49.6154046,0.7733898
+9251292082,node,Au Fil du Temps,restaurant,Rouen,"34 Rue Saint-Clair, 76490, Rives-en-Seine",76490,https://www.aufildutemps76.fr/,49.5249459,0.7288655
+9330595405,node,La table de Baptiste,restaurant,Rouen,,,,49.6417768,0.8060192
+9448414375,node,Au Feu de Bois,restaurant,Rouen,"27 Rue de la République, 76190, Yvetot",76190,,49.6206662,0.7499226
+9469320308,node,Le ryad du Mesnil,restaurant,Rouen,,,,49.4053265,1.1532785
+9484714662,node,La P'tite Fringale,restaurant,Rouen,"42 Rue de l'Église, 76480, Saint-Pierre-de-Varengeville",76480,https://www.restaurant-laptitefringale.com/,49.5016386,0.9312212
+9505234724,node,Les Jardins du Menhir,restaurant,Rouen,"93 Route de Paris, 76240, Le Mesnil-Esnard",76240,,49.4115772,1.1393722
+9505234746,node,Fujiya Sushi,restaurant,Rouen,"59 Route de Paris, 76240, Le Mesnil-Esnard",76240,https://fujiyasushi.fr/,49.4092276,1.1437945
+9507873819,node,Le Délice du Soleil,restaurant,Rouen,"130 Route de Paris, 76240, Le Mesnil-Esnard",76240,,49.4128515,1.138404
+9611471562,node,Palais du Cailly,restaurant,Rouen,,,,49.482434,1.0406734
+9653877779,node,French & Fried,restaurant,Rouen,71 Avenue des Canadiens,,,49.4113327,1.0722788
+9756986954,node,L'Hirondelle,hotel,Rouen,,,https://lhirondelle.webnode.fr/,49.6763411,0.7830387
+9756986955,node,L'hirondelle,restaurant,Rouen,,,,49.676282,0.7830012
+9788979739,node,Nanakô,restaurant,Rouen,"1-3 Place Maréchal Foch, 76000, Rouen",76000,,49.4422264,1.0913521
+9943516202,node,Magnolia,restaurant,Rouen,"12 Rue Jean Le Gaffric, 76490, Villequier",76490,https://magnolia-villequier.fr/,49.5137408,0.6754449
+9997504574,node,La Bicicletta,restaurant,Rouen,"128 bis Avenue des Martyrs de la Résistance, 76100, Sotteville-lès-Rouen",76100,,49.4186685,1.0770977
+10295738609,node,Café Crème,restaurant,Rouen,"3 Rue des Basnages, 76000",76000,,49.4440827,1.092533
+10600561627,node,Pizza Max,restaurant,Rouen,"4 Place de la République, 76710, Montville",76710,https://www.pizzamaxmontville.fr,49.5487434,1.0742742
+10736567367,node,ITO,restaurant,Rouen,"8, 76130, Mont-Saint-Aignan",76130,https://ito-sushi.com/,49.4624069,1.0716808
+10794848605,node,Bisou,restaurant,Rouen,"6 Rue Thomas Corneille, 76000",76000,https://www.bisourouen.fr/,49.4432424,1.086868
+10824455915,node,Osteria,restaurant,Rouen,"31 Allée Eugène Delacroix, 76000, Rouen",76000,,49.4441019,1.0933893
+10860014687,node,Midi Vin,restaurant,Rouen,9,,,49.4707386,1.0840912
+10940494914,node,Home of Pasticcio,restaurant,Rouen,,,,49.4731138,1.104362
+10961539444,node,Les folies douces,restaurant,Rouen,,,,49.4705295,1.0949394
+10969051317,node,All Sports Café Tourville,restaurant,Rouen,,,,49.3335646,1.1015017
+11013561678,node,3 Brasseurs,restaurant,Rouen,2 Parc En Seine,,,49.3307481,1.1017482
+11043020841,node,Les Caudalies,restaurant,Rouen,"174 Rue de la République, 76230, Bois-Guillaume",76230,https://www.restaurant-lescaudalies.fr/,49.4704798,1.1174591
+11049175031,node,Rodizio Brazil,restaurant,Rouen,"105 Allée François Mitterrand, 76100, Rouen",76100,https://restaurants.rodizio-brazil.fr/rouen/,49.4398344,1.0780223
+11049175032,node,Pintxos,restaurant,Rouen,"105 Allée François Mitterrand, 76100, Rouen",76100,,49.4397449,1.0786216
+11071731346,node,Au Gourmet de Chine,restaurant,Rouen,,,,49.4704643,1.0947187
+11088684576,node,In Fine,restaurant,Rouen,"32 Allée Eugène Delacroix, 76000, Rouen",76000,https://www.infinerouen.com/,49.4438443,1.0936338
+11091259907,node,Le B3,restaurant,Rouen,"71 Rue des Martyrs, 76360, Barentin",76360,,49.5442465,0.9493024
+11115325505,node,EuroAsia Mng,restaurant,Rouen,"19 Rue Molière, 76120, Le Grand-Quevilly",76120,https://euroasiamng.com/,49.4093644,1.0502963
+11116220797,node,Le Palais,hotel,Rouen,12 Rue du Tambour,,,49.4422186,1.0911226
+11136095828,node,Les Nymphéas,restaurant,Rouen,"7, 9 Rue de la Pie, 76000, Rouen",76000,,49.4429415,1.086909
+11227255350,node,Chez l'Gros,restaurant,Rouen,"42 Rue de la Vicomte, 76000, Rouen",76000,,49.4411583,1.0888955
+11228932137,node,j Sushi,restaurant,Rouen,,,,49.4455909,1.0692726
+11242936202,node,La Grange,restaurant,Rouen,"150, 76130, Mont-Saint-Aignan",76130,https://www.lagrangemontsaintaignan.fr/,49.4701512,1.0870202
+11246013654,node,B&M Terroir,restaurant,Rouen,14 Allée Eugène Delacroix,,,49.4434322,1.0933049
+11259526636,node,My Pizza,restaurant,Rouen,677 Rue Georges Clemenceau,,https://www.mypizza-letrait.fr,49.4948103,0.7971946
+11274582819,node,Lila & Thalia,restaurant,Rouen,"31 Rue de Paris, 76800, Saint-Étienne-du-Rouvray",76800,,49.3954373,1.1033952
+11295241334,node,Garden Resto,restaurant,Rouen,56 Rue des Carmes,,,49.4418957,1.0948041
+11423711430,node,Fujiya Sushi,restaurant,Rouen,,,,49.3303229,1.1006341
+11425217135,node,Fujiya Sushi,restaurant,Rouen,94 Rue de la République,,,49.4417676,1.0982739
+11432639383,node,La Petite Auberge,hotel,Rouen,"65, 76480, Jumièges",76480,https://lapetiteaubergejumieges.com/,49.4321845,0.8182281
+11435036241,node,La Rose des Sables,restaurant,Rouen,113 Place Beauvoisine,,https://larosedessablesrouen.fr/,49.4481963,1.1003427
+11459314023,node,Pizza Palace,restaurant,Rouen,,,,49.4820264,0.876474
+11459981192,node,Sushi Rouen,restaurant,Rouen,2 Place de la République,,https://sushirouen.com/,49.437332,1.0967526
+11472945927,node,Tempo,restaurant,Rouen,"5 Rue de la République, 76000, Rouen",76000,https://www.temporestaurant.fr/,49.4378068,1.0961899
+11532146140,node,Le Cinoche,restaurant,Rouen,,,,49.3287914,1.095885
+11532146142,node,Venghour,restaurant,Rouen,,,https://www.venghour.com/,49.3288062,1.0964182
+11537189688,node,Guillaume,restaurant,Rouen,"46 Rue Bourg l'Abbé, 76000, Rouen",76000,https://www.restaurantguillaume.fr/accueil,49.4447325,1.0991973
+11697803875,node,Hai bà,restaurant,Rouen,"8;10;12 Rue des Augustins, 76000, Rouen",76000,,49.4380567,1.0998562
+11697818238,node,La Casa de las tapas,restaurant,Rouen,"49 Rue Molière, 76000, Rouen",76000,https://lacasadelastapas.fr/,49.438463,1.0987346
+11836723320,node,Station Service,restaurant,Rouen,,,https://stationservicerouen.fr/,49.4441189,1.0938122
+11916526469,node,Bouillon d'or,restaurant,Rouen,"4 Rue des Basnages, 76000, Rouen",76000,https://www.bouillondor.fr/,49.4441102,1.0928246
+11979065519,node,Quai 246,restaurant,Rouen,,,,49.4813829,0.8761276
+11982950258,node,Le Rouf,restaurant,Rouen,"105 Allée François Mitterrand, 76100, Rouen",76100,https://le-rouf.com/,49.4401368,1.0769349
+12049864269,node,Crêperie Roland,restaurant,Rouen,"22 Rue Saint-Nicolas, 76000",76000,https://creperie-roland.eatbu.com/,49.4411452,1.0967199
+12080271506,node,FADA,restaurant,Rouen,,,,49.4405995,1.0983559
+12089541147,node,Clos Saint-Jacques,hotel,Rouen,,,,49.5298228,0.7615672
+12120443874,node,Le Green Club,restaurant,Rouen,"3001 Rue Herbeuse, 76230, Bois-Guillaume",76230,https://www.facebook.com/profile.php?id=100092355204412,49.4823487,1.1361708
+12146118933,node,Charli & Sézam,restaurant,Rouen,"62 Rue Louis Ricard, 76000, Rouen",76000,https://charlietsezam.com/,49.4480826,1.1000386
+12160023727,node,Sensei Sushi,restaurant,Rouen,"20 Rue de la Pierre d'État, 76650, Petit-Couronne",76650,https://www.petit-couronne.senseisushi.fr/,49.3886,1.0240238
+12168522836,node,L'Aristide,restaurant,Rouen,"731 Rue Aristide Briand, 76650, Petit-Couronne",76650,,49.3922225,1.0235164
+12168581761,node,Ô garden brunch,restaurant,Rouen,,,,49.3882996,1.0242845
+12192759193,node,La Parenthèse,restaurant,Rouen,"7 Rue de la Poterne, 76000, Rouen",76000,https://laparenthese.metro.rest,49.4430411,1.0923564
+12273387601,node,Au plaisir cuisiné,restaurant,Rouen,"1120 Route de Gournay, 76160",76160,https://auplaisircuisine.com,49.4415663,1.1843553
+12288454803,node,Le 607,restaurant,Rouen,"1571 Rue Aristide Briand, 76650, Petit-Couronne",76650,https://www.le607.com/,49.3847122,1.0217357
+12302796501,node,Le Pardaillan,restaurant,Rouen,"7 Bis Boulevard Charles de Gaulle, 76140",76140,,49.4217094,1.0649976
+12331417219,node,L'Office,restaurant,Rouen,"71 Rue de la Ronce, 76230, Isneauville",76230,https://lofficerestaurant.com/,49.4886827,1.1396945
+12374698396,node,Gold Beef,restaurant,Rouen,"31 Avenue Jean Rondeaux, 76100, Rouen",76100,https://www.goldbeefrouen.fr/,49.4346584,1.0768439
+12382818931,node,L'Actrice,restaurant,Rouen,,,,49.6075511,0.7854495
+12387926601,node,Buffalo Grill,restaurant,Rouen,Rue Alexandre Dumas,,https://www.buffalo-grill.fr/,49.5338706,0.9623547
+12388178501,node,Les 3 Brasseurs,restaurant,Rouen,"963 Boulevard de Westphalie, 76360",76360,https://restaurants.3brasseurs.com/fr/france-FR/844/3-brasseurs-rouen-barentin/details,49.5315184,0.9684852
+12460808702,node,Da Cosimo,restaurant,Rouen,,,,49.3186866,0.9941603
+12467646989,node,La Régalette,restaurant,Rouen,35,,https://la-regalette.eatbu.com/,49.4437291,1.0805587
+12469163083,node,4 Saisons,restaurant,Rouen,,,,49.4337291,1.0883773
+12548905966,node,Suzette,restaurant,Rouen,"5 Place de la Cathédrale, 76000, Rouen",76000,,49.4399838,1.0934662
+12569217931,node,Koala pizza,restaurant,Rouen,"325 Route de Dieppe, 76250, Déville-lès-Rouen",76250,https://www.koalapizza.fr/,49.4711674,1.049621
+12585285902,node,Chéri,restaurant,Rouen,"44 Rue de l'Hôpital, 76000, Rouen",76000,https://www.brasseriecheri.com/,49.4430281,1.0957584
+12656257101,node,Le P'tit Bistrot,restaurant,Rouen,,,,49.4282279,1.0718459
+12660737603,node,Zelia,restaurant,Rouen,"76130, Mont-Saint-Aignan",76130,https://lezelia.hubside.fr,49.4588007,1.0665499
+12667822388,node,Abner's Pizzeria,restaurant,Rouen,3 bis. Rue des Bons Enfants,,https://www.abners.fr/,49.4440692,1.0912507
+12668689633,node,Le Boston,restaurant,Rouen,"21 Mail du Bois Cany, 76120, Le Grand-Quevilly",76120,,49.4173082,1.0431238
+12688229164,node,Restaurant scolaire,restaurant,Rouen,,,,49.4927068,0.6848203
+12688230077,node,Restaurant scolaire,restaurant,Rouen,,,,49.5077058,0.7248482
+12709506177,node,Le fifteen,restaurant,Rouen,"32 Rue de Le Nostre, 76000, Rouen",76000,,49.4435948,1.0816345
+12726437524,node,Izakaya,restaurant,Rouen,"3 Rue Paul Vaillant Couturier, 76120, Le Grand-Quevilly",76120,https://izakaya-rouen.fr/,49.4203904,1.0491256
+12765723483,node,Hôtel Morand,hotel,Rouen,"1 Rue Morand, 76000, Rouen",76000,,49.4456838,1.094502
+12806019433,node,Comptoir des Halles,restaurant,Rouen,,,,49.4431434,1.0887853
+12831286579,node,Sushi Tea-m,restaurant,Rouen,5 Rue Écuyère,,,49.4424228,1.0897259
+12843575773,node,La Grande Table,restaurant,Rouen,,,,49.4421524,1.0864539
+12846498990,node,Hôtel d'Angleterre,hotel,Rouen,,,https://www.hotelangleterrerouen.com/,49.4395714,1.0872848
+12847859122,node,Sushi Yaki World,restaurant,Rouen,56 Rue des Martyrs,,,49.289304,1.005566
+12847859129,node,Yami Yami,restaurant,Rouen,63 Rue des Martyrs,,,49.2895058,1.0046647
+12847859139,node,La Pasteria,restaurant,Rouen,86 Rue des Martyrs,,,49.2898772,1.0041497
+12847859154,node,Le café de la Poste,restaurant,Rouen,95 Rue des Martyrs,,,49.2900005,1.0028682
+12847859158,node,Le Serhad,restaurant,Rouen,13 Rue de la République,,,49.2901296,1.0022404
+12847859181,node,Nagoya,restaurant,Rouen,4 Rue de la République,,https://nagoyaelbeuf.com/,49.2902737,1.0023738
+12847859191,node,La Fleur de Sel,restaurant,Rouen,60 Rue Guynemer,,,49.2910205,1.0031078
+12847859194,node,Daxing BAR,restaurant,Rouen,33 Rue Guynemer,,https://www.daxingbar.fr,49.2912922,1.0035747
+12861148681,node,Le bouche à oreille,restaurant,Rouen,"28 Rue de la République, 76710, Montville",76710,,49.5481503,1.0739707
+12882260996,node,Le Blason,restaurant,Rouen,167B Avenue des Alliés,,,49.4231098,1.0541053
+12926456438,node,Punjab,restaurant,Rouen,3 Rue des Bons Enfants,,,49.4440565,1.091323
+12926456439,node,Hokkaido,restaurant,Rouen,5 Rue des Bons Enfants,,https://hokkaido.eatbu.com/,49.4440832,1.0911826
+12978034218,node,Le Chou-chêne,restaurant,Rouen,"1 Route de Louvetot, 76190, Allouville-Bellefosse",76190,,49.5961183,0.6771562
+12985270347,node,Beef House,restaurant,Rouen,,,,49.2891344,1.0379161
+13031228778,node,Le Kitsch,restaurant,Rouen,,,https://kitsch-rouen.com/,49.4421537,1.0911006
+13031228787,node,Le bistrot des Carmes,restaurant,Rouen,,,,49.4422548,1.0952997
+13050645617,node,Bangkok Factory,restaurant,Rouen,,,https://bangkokfactory.fr,49.4317912,1.0872765
+13103488187,node,Hokati,restaurant,Rouen,,,https://hokati.fr/,49.4435913,1.0921796
+13105804051,node,Lé Là,restaurant,Rouen,,,https://lela-restaurant.fr/,49.4390464,1.0909374
+13123665856,node,La Pizzaïola Due,restaurant,Rouen,,,,49.5712174,1.1101595
+13142302868,node,Mezzati,restaurant,Rouen,,,,49.4429512,1.0868754
+13142922004,node,Sushi Nomi,restaurant,Rouen,,,https://www.facebook.com/61575233978916/,49.5474433,1.0741879
+13183522632,node,Bistro du siècle,restaurant,Rouen,,,,49.4832644,0.8763127
+13183522633,node,Le Thamazirt,restaurant,Rouen,,,,49.480883,0.874391
+13183522641,node,Auberge Tartarin,restaurant,Rouen,,,,49.4824945,0.8747889
+13190298747,node,Bambou,restaurant,Rouen,,,,49.440034,1.0930487
+13300526151,node,Pizza Di Paulo,restaurant,Rouen,"84 Route de Duclair, 76150, Maromme",76150,https://www.pizzadipaulo.fr/,49.4824122,1.0182421
+13356348678,node,Nawaab,restaurant,Rouen,,,,49.4379399,1.0998513
+13356376713,node,Ariana,restaurant,Rouen,,,https://restaurantariana.eatbu.com/,49.4382286,1.0998851
+13374236335,node,Moshi Moshi,restaurant,Rouen,,,https://www.moshimoshi-rouen.fr/,49.4409775,1.0976743
+13406656881,node,Pizzeria du Cailly,restaurant,Rouen,,,https://www.tiktok.com/@pizzeria.du.cailly,49.5498149,1.0746323
+13410767444,node,Le Manoir,restaurant,Rouen,,,,49.4958029,1.1478763
+13428072305,node,Nhà,restaurant,Rouen,,,,49.4422418,1.0912637
+13428076273,node,Hôtel des Carmes,hotel,Rouen,,,,49.4422051,1.095507
+13440316842,node,La Marmotte,restaurant,Rouen,,,https://restaurantlamarmotte.com/,49.4422837,1.0866018
+13440316843,node,Bistrot Saigon,restaurant,Rouen,20 Rue du Vieux Palais,,,49.4422765,1.0867523
+13440316845,node,Okto,restaurant,Rouen,,,http://okto-restaurant.fr,49.4423309,1.0868432
+13440316847,node,Chez Yulin,restaurant,Rouen,,,,49.4425874,1.0869808
+13444783845,node,Le clap,restaurant,Rouen,,,,49.2810004,1.0258641
+13471495173,node,ITO Tourville-la-rivière,restaurant,Rouen,"2 Avenue Gustave Picard, 76410, Tourville-la-Rivière",76410,https://ito-sushi.com/tourville-la-riviere/,49.3284428,1.0962001
+13528058991,node,Tommasino,restaurant,Rouen,,,,49.4405753,1.0864303
+13531770801,node,Nagoya sushi Rouen,restaurant,Rouen,"15 Rue de la Champmesle, 76000",76000,https://nagoya-sushi-rouen.com/,49.4392831,1.0915302
+13532188623,node,Hôtel Céline,hotel,Rouen,,,,49.4490702,1.0900882
+13564509480,node,Sakuraa,restaurant,Rouen,76 Rue du Général Leclerc,,https://www.sakuraa-sushi.fr/index-rouen-76000,49.4397074,1.0922863
+13699268178,node,Homs,restaurant,Rouen,,,,49.442313,1.1091833
+13699268182,node,La Scampia,restaurant,Rouen,,,,49.4422781,1.1072876
+13706305455,node,Oh my Poké Bowl,restaurant,Rouen,,,,49.4403379,1.1018971
+13708501941,node,Mun by Ito,restaurant,Rouen,,,https://munbyito.com/,49.471907,1.1223306
+13744275043,node,,restaurant,Rouen,,,,49.598204,1.1105
+13755384502,node,Les Boréales Rouen Sud,hotel,Rouen,,,https://www.les-boreales.com/,49.4253936,1.0840988
+13786450842,node,La Confiance Family,restaurant,Rouen,,,https://www.la-confiance-family-76.fr,49.6276638,1.1759227
+13809427792,node,Little Garden,restaurant,Rouen,,,,49.5853919,1.3583191
+13821359874,node,Mon P'tit Hanoi,restaurant,Rouen,,,https://monptithanoi.fr/,49.4429745,1.0948319
+13821376913,node,Le Cercle des Arômes,restaurant,Rouen,,,https://lecercledesaromes.com/cercle/rouen/,49.4397542,1.099908
+13821382002,node,Au Flaméron,restaurant,Rouen,,,https://www.auflameron.com/,49.439993,1.0984911
+13860273638,node,Ô Papilles,restaurant,Rouen,,,,49.6184059,0.7540391
+13860273639,node,,hotel,Rouen,,,,49.6184126,0.7543336
+13871189960,node,Saveurs du Sud,restaurant,Rouen,,,,49.6177265,0.7559143
+13887658416,node,La Grilladerie,restaurant,Rouen,,,,49.4197435,1.0972178
+13889593410,node,Taverne Saint-Amant,restaurant,Rouen,,,http://www.tavernesaintamant.fr,49.4415169,1.0970506
+13892142201,node,Restaurant l'Hermitage,restaurant,Rouen,"Carrefour de la Maison Brûlée, 76500",76500,https://restaurant-lhermitage.com/index.html,49.3442401,0.9320397
+13964104148,node,Tartifoule,restaurant,Rouen,,,,49.4434799,1.072498
+13964104149,node,Foule moule,restaurant,Rouen,,,,49.4434556,1.0725966
+13968666029,node,Lafiasso,restaurant,Rouen,,,,49.2863918,1.0073169
+13968667473,node,Le Royal,restaurant,Rouen,,,,49.2866781,1.0087513
+13968678235,node,Fast Sushi,restaurant,Rouen,,,,49.2857579,1.0085886

@@ -1,0 +1,454 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+543424175,node,L'Alsace à Table,restaurant,Nancy,,,,48.6940166,6.1807088
+560041977,node,Hôtel Littéraire Stendhal,hotel,Nancy,56 Place Monseigneur Ruch,,https://www.hotel-litteraire-stendhal.com/fr/,48.6917582,6.186497
+563177031,node,Hôtel Nancy Sud - Vandœuvre,hotel,Nancy,,,https://www.simplyhotelsfrance.com/hotel/hotel-nancy-sud-vandoeuvre/,48.650667,6.1462614
+647164421,node,Hungry Sushi,restaurant,Nancy,,,,48.6841479,6.1772376
+737271706,node,L'Avant Première,restaurant,Nancy,,,,48.6913546,6.1956945
+933114517,node,Abracadabra,restaurant,Nancy,,,,48.7024634,6.1808556
+960686099,node,Residhome Apparthotel Nancy Lorraine,hotel,Nancy,9,,,48.6941144,6.1954989
+961473732,node,Saveurs & Cie,restaurant,Nancy,,,,48.7021645,6.2588643
+1160990885,node,Bar Restaurant de la Fontaine,restaurant,Nancy,10,,,48.65295,6.194948
+1301182760,node,Novotel Suites Nancy Centre,hotel,Nancy,2,,http://www.novotel.com/fr/hotel-5946-novotel-suites-nancy-centre/index.shtml,48.6927217,6.1952019
+1301939296,node,Beira Mar,restaurant,Nancy,64,,,48.7070902,6.1723186
+1313947968,node,Route 66,restaurant,Nancy,23,,https://www.restaurant-66.fr/,48.736171,6.163962
+1370155492,node,Hôtel Poincaré,hotel,Nancy,81,,,48.6885494,6.167189
+1370806406,node,Restaurant Beauregard,restaurant,Nancy,,,https://restaurant-le-beauregard.fr/,48.69348,6.139682
+1374547948,node,Pizzeria Adriatica,restaurant,Nancy,,,,48.6902854,6.171499
+1374568231,node,Hôtel de Flore,hotel,Nancy,8,,,48.6909144,6.1744682
+1374571412,node,Bouillon du terroir,restaurant,Nancy,,,https://www.bouillonduterroir.com/,48.6911257,6.1749582
+1374577681,node,Brasserie Simone,restaurant,Nancy,,,,48.6896447,6.1754813
+1374706552,node,Crystal Hôtel,hotel,Nancy,,,https://www.bestwestern-hotel-crystal.com/,48.6900334,6.1781471
+1374786764,node,Le Chagnot,restaurant,Nancy,,,,48.6906559,6.1824126
+1388521342,node,La Calabraise,restaurant,Nancy,,,,48.617823,6.3526087
+1388521348,node,Cafétéria Noël,restaurant,Nancy,,,,48.6126091,6.3652632
+1389579525,node,Hôtel Restaurant de la Meurthe,hotel,Nancy,,,,48.6401829,6.2700213
+1439487011,node,Kebab l'Étoile,restaurant,Nancy,,,,48.75489,6.14119
+1451594042,node,Zhong Pin,restaurant,Nancy,,,https://www.zhong-pin.fr/,48.6839717,6.1730019
+1505616285,node,Hôtel Castel,hotel,Nancy,,,,48.615794,6.108561
+1556273871,node,La Flamme du chef,restaurant,Nancy,,,,48.6900717,6.183921
+1556273877,node,Le Coq en Fer,restaurant,Nancy,1bis,,,48.6903992,6.1847646
+1556273907,node,La Julienne,restaurant,Nancy,19,,,48.6909478,6.1847178
+1556273908,node,El Gusto,restaurant,Nancy,13,,,48.6911674,6.1845888
+1606992236,node,Papilles Alain,restaurant,Nancy,23,,,48.6954256,6.1810115
+1606992282,node,La Gavotte,restaurant,Nancy,47,,,48.6962576,6.1803447
+1606992286,node,La cave du Père Magott,restaurant,Nancy,45,,,48.6962154,6.1803917
+1606992299,node,Flambock,restaurant,Nancy,4,,,48.6944069,6.1817787
+1606992320,node,Butter,restaurant,Nancy,17,,,48.6952454,6.1811209
+1606992391,node,Carte Blanche,restaurant,Nancy,18,,,48.6947899,6.1815305
+1627459963,node,Le Petit Bouillon Pharamond,restaurant,Nancy,,,,48.6895807,6.1752755
+1635296789,node,Jean Lamour,restaurant,Nancy,9 Place Stanislas,,http://www.brasserie-jeanlamour.com/,48.6938547,6.1827025
+1635296804,node,Les Oliviers,restaurant,Nancy,,,,48.695614,6.177814
+1635313956,node,Akoya Sushi,restaurant,Nancy,,,,48.7011832,6.1765845
+1643016715,node,Madame,restaurant,Nancy,,,,48.7004691,6.1781586
+1643016720,node,Le Pacha du Bosphore,restaurant,Nancy,,,,48.6983486,6.1783256
+1643027535,node,Brasserie de la Vieille Ville,restaurant,Nancy,,,,48.6978298,6.1787848
+1643037287,node,Hôtel d'Haussonville,hotel,Nancy,9,,https://hotel-haussonville.fr/,48.6965813,6.1782616
+1643037373,node,Bistrot Gros,restaurant,Nancy,,,https://gros-nancy.com,48.6956716,6.1778932
+1653241614,node,Hôtel Mercure Nancy Centre Gare,hotel,Nancy,,,,48.6907749,6.1748147
+1655805396,node,La Campagnola,restaurant,Nancy,,,https://www.restaurant-lacampagnola.fr/,48.731234,6.1690927
+1740120860,node,Flunch,restaurant,Nancy,,,https://www.flunch.fr/restaurant/laxou/flunch-nancy-laxou,48.6909985,6.1264288
+1748419950,node,Restaurant Grill 23,restaurant,Nancy,23,,https://www.restaurantgrillle23.com/,48.7335235,6.1691174
+1748419964,node,Le Délice du Sahara,restaurant,Nancy,19,,,48.7335881,6.1691046
+1748419966,node,La Laiterie,restaurant,Nancy,,,,48.7330662,6.1692021
+1748671499,node,Angeluzzo,restaurant,Nancy,,,https://www.angeluzzo.fr/restaurant-nancy-kinepolis.php,48.6919193,6.1956748
+1764542111,node,Express Bar,hotel,Nancy,,,,48.6892775,6.1753467
+1764542112,node,Qualys-Hôtel Nancy Centre,hotel,Nancy,8,,https://www.qualys-hotel.com/hotel/france/lorraine/nancy/nancy-centre,48.6894731,6.1757517
+1764542117,node,Ibis Nancy Centre Gare et Congrès,hotel,Nancy,3 Rue Crampel,,https://all.accor.com/hotel/0973/index.fr.shtml,48.6893564,6.1753148
+1802012043,node,La Résidence,hotel,Nancy,30,,http://www.hotel-laresidence-nancy.fr/index.php,48.682499,6.1775325
+1804209205,node,BraiseMaster,restaurant,Nancy,,,,48.6839456,6.1889104
+1827913977,node,Mandaloun,restaurant,Nancy,65,,http://www.mandaloun-nancy.fr,48.6966852,6.1797462
+1866469620,node,Brasserie l'Olympe,restaurant,Nancy,,,,48.7571984,6.154286
+1904763059,node,Restaurant Le Blouge,restaurant,Nancy,9,,,48.6905908,6.1712453
+1946406463,node,La Toq',restaurant,Nancy,,,,48.6962231,6.1786761
+1946672034,node,L’Éliceur,restaurant,Nancy,,,,48.6935466,6.1800342
+1946672037,node,Le Greniel à Sel,restaurant,Nancy,28,,,48.6935378,6.1794808
+1970494555,node,Kech,restaurant,Nancy,,,,48.6802559,6.1954134
+1970734415,node,Esperluette,restaurant,Nancy,,,https://restaurant-esperluette.fr,48.6717993,6.1748366
+1975655265,node,Ville de Nancy Restaurant Municipal,restaurant,Nancy,12,,,48.6930046,6.1850737
+1986788056,node,Djerba,restaurant,Nancy,75bis,,,48.6878788,6.1877191
+1986788061,node,Hôtel New-York,hotel,Nancy,65,,http://www.hotelnew-york.fr/,48.6881147,6.1873149
+1987567153,node,Brasserie Excelsior,restaurant,Nancy,50,,,48.6907751,6.1758437
+1987661851,node,Les Chanterelles,restaurant,Nancy,,,http://restaurantleschanterelles.com/,48.6698773,6.2000649
+1990284850,node,La Fantasia,restaurant,Nancy,,,https://www.lafantasianancy.com/,48.687272,6.1885738
+1990284866,node,Le Méditerranéen,restaurant,Nancy,,,,48.6875483,6.1882056
+1992530495,node,Le Djurdjura,restaurant,Nancy,46,,,48.6884328,6.1860193
+2048203877,node,Le Georges,restaurant,Nancy,,,,48.6955207,6.1958163
+2051500189,node,Vietnam Street Food,restaurant,Nancy,,,https://vnsfsas.wixsite.com/vietnamstreetfood,48.6904748,6.185034
+2081417256,node,L'Hivervage,restaurant,Nancy,,,,48.6762851,6.1770651
+2082562631,node,Brasserie Monopol,restaurant,Nancy,,,,48.6339034,6.309818
+2242722410,node,Pizzeria Sole Mio,restaurant,Nancy,,,,48.6823164,6.1653036
+2269936271,node,100 Patates,restaurant,Nancy,,,https://100-patates.com/restaurant/fiche/8-nancy,48.6924569,6.1945568
+2270722644,node,Le Terminus,restaurant,Nancy,48,,,48.6156099,6.1086245
+2270722946,node,L'Île aux Pizzas,restaurant,Nancy,,,,48.616673,6.1050977
+2283113177,node,Tradi'curieux,restaurant,Nancy,,,,48.4677646,6.1353323
+2291536247,node,Auberge de la Mirabelle,restaurant,Nancy,6,,,48.5571918,6.2932901
+2296198757,node,Le Petit Marché des Filles,restaurant,Nancy,1,,https://lepetitmarchedesfilles.metro.rest/?,48.653892,6.1526304
+2303800665,node,Les Nouveaux Abattoirs,restaurant,Nancy,4,,,48.6942969,6.197395
+2338159403,node,La Primatiale,restaurant,Nancy,,,,48.6904768,6.1853018
+2338159404,node,Les Bacchanales,restaurant,Nancy,,,,48.6904971,6.1853775
+2338159406,node,Mon Petit Bouchon,restaurant,Nancy,,,,48.6905185,6.1854576
+2383414107,node,Le Médrevil,restaurant,Nancy,,,,48.6857455,6.1610798
+2385419617,node,Tradita,restaurant,Nancy,,,,48.6714347,6.1667432
+2391343919,node,Cafétéria,restaurant,Nancy,,,http://www.crous-nancy-metz.fr/,48.6944496,6.1664905
+2391343920,node,Factéria,restaurant,Nancy,,,http://www.crous-nancy-metz.fr/,48.6953952,6.1657463
+2414397775,node,La P’tite Brasserie,restaurant,Nancy,,,,48.6738945,6.1835797
+2423069105,node,Flunch,restaurant,Nancy,,,,48.7430177,6.1483973
+2451414094,node,Ibis Nancy Centre Stanislas,hotel,Nancy,,,https://all.accor.com/hotel/1393/index.fr.shtml,48.6935593,6.1918667
+2457021977,node,Ibis Budget Nancy Centre,hotel,Nancy,4,,,48.6926798,6.1952533
+2464212421,node,O' Carré d'Art,restaurant,Nancy,,,,48.594191,6.1531689
+2464293309,node,La Mian Ji Ramen,restaurant,Nancy,,,https://lamianji-ramen.fr,48.6893586,6.1836468
+2464293315,node,Chuan Yue,restaurant,Nancy,,,,48.6893891,6.1836231
+2466009728,node,Kounagi,restaurant,Nancy,,,,48.6845275,6.1878597
+2470472675,node,Il Ristorante,restaurant,Nancy,3 place de Cincinnati,,https://www.ilristorante.fr/il-ristorante-le-restaurant-italien-de-nancy,48.6915302,6.198797
+2472820993,node,La Marianne,restaurant,Nancy,,,https://www.restaurantlamarianne.fr/,48.6793124,6.1741648
+2505301792,node,Le Berbère,restaurant,Nancy,,,,48.7010428,6.1779247
+2509674718,node,Au Petit Palais,restaurant,Nancy,,,,48.6689477,6.1950616
+2517989313,node,Tokyo,restaurant,Nancy,,,https://www.tokyo-nancy54.fr/,48.6552069,6.1867884
+2522422654,node,Brasserie du port,restaurant,Nancy,,,,48.9031417,6.062201
+2531053938,node,Hôtel Stanislas,hotel,Nancy,22,,,48.6946048,6.187023
+2551793344,node,Fratelli,restaurant,Nancy,,,,48.6874106,6.2449875
+2568833856,node,La P'tite Pause Créole,restaurant,Nancy,,,,48.7024792,6.1813396
+2568833857,node,Mille et une Saveurs,restaurant,Nancy,,,,48.7026332,6.1808609
+2609492575,node,La Flambée,restaurant,Nancy,,,,48.6744998,6.1753775
+2619503602,node,O'Bon Grill,restaurant,Nancy,,,,48.672446,6.1724653
+2623155768,node,Au Coin de la Rue,restaurant,Nancy,,,,48.695537,6.1794206
+2623155771,node,Mamma Mia,restaurant,Nancy,,,,48.6952735,6.1794719
+2623465762,node,L'Épicerie Chez Marguerite,restaurant,Nancy,33,,http://www.lepicerie-nancy.com/,48.6940359,6.1807798
+2623465763,node,L'Escale,restaurant,Nancy,37,,https://www.restaurantlescale-nancy.fr/,48.6940022,6.1806455
+2623465764,node,Le Bouillon Lafayette,restaurant,Nancy,,,https://www.bouillonlafayette.fr/,48.6939819,6.1805765
+2625835347,node,TT histoire,restaurant,Nancy,,,,48.6924129,6.1869667
+2625894089,node,Aux Délices du Palais,restaurant,Nancy,,,,48.6967368,6.1796704
+2625894097,node,Brend'Oliv,restaurant,Nancy,141,,,48.6986782,6.1778748
+2625894108,node,Les Frères Marchand,restaurant,Nancy,97,,,48.6973916,6.1789518
+2627758708,node,Le Tiger,restaurant,Nancy,,,,48.6894327,6.1936902
+2628255664,node,The Tiger,restaurant,Nancy,,,https://thetigernancy.fr/fr,48.6931987,6.1910587
+2630581892,node,Le Grémillon,restaurant,Nancy,,,https://www.restaurant-gremillon-saintmax.fr/,48.7018504,6.2126823
+2649481591,node,Essey Gourmand,restaurant,Nancy,,,,48.7050275,6.2208676
+2657544149,node,Sushi-Show,restaurant,Nancy,,,,48.6920644,6.1959848
+2657544159,node,PopKfé,restaurant,Nancy,,,,48.6922075,6.1962543
+2698859476,node,Dolce Pizza,restaurant,Nancy,,,,48.6776784,6.1773391
+2709913353,node,L'Arrosoir,restaurant,Nancy,,,http://restaurant-arrosoir.com/,48.6942042,6.182672
+2725502484,node,Fraich’Art Bar Zinc,restaurant,Nancy,19,,https://www.lebarzinc.com/,48.6901534,6.1724182
+2729345288,node,Hôtel des Vosges,hotel,Nancy,87,,,48.6858607,6.1848067
+2732079779,node,Kim Seng,restaurant,Nancy,,,https://kimseng.fr/,48.6855276,6.1944329
+2770859486,node,Couscousserie des Petites Familles,restaurant,Nancy,,,,48.6957428,6.1794
+2772127467,node,Le Vestiaire,restaurant,Nancy,139,,,48.6985983,6.1779271
+2772127474,node,Boteco do Brasil,restaurant,Nancy,,,https://botecodobrasil.fr/,48.698674,6.178448
+2772127480,node,Le Palais Gourmand,restaurant,Nancy,,,,48.6986697,6.1789986
+2787750596,node,Bistro sortie 28,restaurant,Nancy,,,,48.9366469,6.1179833
+2788671525,node,Brasserie Stanislas,restaurant,Nancy,,,https://www.brasseriestanislas.com/,48.6929777,6.1811527
+2788671526,node,Épicéa,restaurant,Nancy,,,,48.6861978,6.1917071
+2788671527,node,Le Bouillon Rousselet,restaurant,Nancy,,,,48.6917864,6.1842948
+2788671531,node,Hana Sushi & Wok,restaurant,Nancy,,,,48.6863218,6.1918582
+2788996016,node,"La Tour de Pizz""",restaurant,Nancy,,,,48.6863484,6.1916537
+2796854144,node,Restaurant Bastion,restaurant,Nancy,46,,https://www.bastion-nancy.fr,48.6989159,6.1878591
+2820166829,node,La ball' o grill,restaurant,Nancy,,,,48.7107851,6.1702237
+2821143798,node,Le Napolitain,restaurant,Nancy,,,,48.7098099,6.1804082
+2877247901,node,Snacky Bar,restaurant,Nancy,,,,48.6136308,6.1032883
+2904080344,node,La Petite Cuillère,restaurant,Nancy,123 Grande Rue,,https://www.lapetitecuillere.fr/,48.6980046,6.1784922
+2908220788,node,Le Gaigne,restaurant,Nancy,,,https://lafermedeschanottes.fr/restaurant-le-gaigne,48.4312805,6.1757294
+2956988613,node,Les Fourmis Rouges,restaurant,Nancy,,,,48.6930985,6.1989108
+2990164089,node,Le Relais de la Colline,restaurant,Nancy,,,http://www.lerelaisdelacolline.com,48.4301116,6.0838963
+2992549358,node,Chez Ernest,restaurant,Nancy,,,https://chez-ernest-restaurant-laxou.eatbu.com,48.6840553,6.1505165
+3042271145,node,Le Villeroy,restaurant,Nancy,,,https://levilleroy.eatbu.com/,48.6692337,6.1448329
+3057806539,node,À La Bonne Gammelle,restaurant,Nancy,,,,48.6892201,6.1980181
+3092680904,node,Les 3 marches,restaurant,Nancy,8,,,48.6898242,6.1718907
+3122142069,node,Le V'Four,restaurant,Nancy,,,https://www.levfour.fr/,48.6967826,6.1789188
+3207461905,node,Relais l'Obrion A31 - Aire l'Obrion,restaurant,Nancy,,,https://www.lescomptoirs-casino.fr/,48.8559371,6.088615
+3237103672,node,Les Canailles,restaurant,Nancy,,,,48.6214799,6.1780596
+3237103673,node,Midi-Vins,restaurant,Nancy,,,,48.6216446,6.1784459
+3240248108,node,Resto Café de Ludres,restaurant,Nancy,,,,48.621829,6.1607223
+3248265860,node,Piopa,restaurant,Nancy,,,,48.6893051,6.1781807
+3327632832,node,La Fournaise,restaurant,Nancy,,,http://www.lafournaise974.com,48.6857385,6.1941726
+3387540891,node,Prishtina,restaurant,Nancy,1,,,48.6706544,6.1789944
+3413435418,node,La Cantina,restaurant,Nancy,,,,48.7053793,6.2297717
+3711539516,node,Iloa,restaurant,Nancy,20,,,48.7162624,6.2076401
+3729513325,node,Les Planches,restaurant,Nancy,22,,,48.6942385,6.1810092
+3729513326,node,La Gentilhommière,restaurant,Nancy,29,,,48.6940841,6.1809698
+3729513327,node,Thaï Hey,restaurant,Nancy,21,,,48.6941571,6.1812366
+3729513328,node,La Piazzetta,restaurant,Nancy,,,,48.6941812,6.1807711
+3729513329,node,Le Bistrot de Gilles,restaurant,Nancy,,,,48.694056,6.1808571
+3729513331,node,Les Fils à Maman,restaurant,Nancy,41,,,48.6939635,6.1805035
+3812823541,node,Sushi Kōbe,restaurant,Nancy,,,http://www.sushikobe.fr/,48.6803891,6.1752215
+3826580107,node,L'Étoile d'Argent,restaurant,Nancy,,,https://www.letoiledargent.fr/,48.632898,6.3243762
+3905700761,node,La Bolée,restaurant,Nancy,,,,48.6877107,6.1824604
+3905700762,node,Le Bengale,restaurant,Nancy,,,,48.6879449,6.1826869
+3905700763,node,Karma,restaurant,Nancy,,,,48.6879143,6.1825917
+3905700764,node,Le Gibraltar,restaurant,Nancy,,,,48.6879667,6.182755
+3906363738,node,Empire de Chine,restaurant,Nancy,,,,48.6887141,6.1824737
+3906363739,node,Fujiyama,restaurant,Nancy,,,,48.6890546,6.1831929
+3906363742,node,KhaoThip Express,restaurant,Nancy,,,,48.6885548,6.1825303
+3906363743,node,Line Sushi,restaurant,Nancy,,,https://linesushi.fr/nancy,48.6886024,6.182809
+3906363747,node,Azako Ramen,restaurant,Nancy,"6 Rue des Quatre Églises, 54000, Nancy",54000,https://www.azako-ramen.fr,48.6886189,6.1824756
+3928326740,node,Racine,restaurant,Nancy,,,https://racine-nancy.com,48.6930959,6.182087
+3928336987,node,À la Table du Bon Roi Stanislas,restaurant,Nancy,,,http://latabledestan.com,48.6937541,6.1809632
+3928393962,node,Suzette & Gino,restaurant,Nancy,20,,,48.6941488,6.1829908
+3928833687,node,La Puce à l'Oreille,restaurant,Nancy,,,,48.6929684,6.1816664
+3928833690,node,Champêtre,restaurant,Nancy,,,,48.6931141,6.1821461
+3930940963,node,Honey,restaurant,Nancy,6,,,48.6907644,6.1800554
+3930943580,node,Les Portes d'Or,hotel,Nancy,21,,https://www.hotel-lesportesdor.com/,48.6929204,6.1815084
+3930943598,node,Transparence,restaurant,Nancy,28,,https://restaurant-transparence.fr/,48.6930075,6.1812186
+3930943631,node,Le Café des Arts,restaurant,Nancy,5,,,48.6937784,6.1824583
+3960555803,node,Le Saint-Max,restaurant,Nancy,35,,,48.6983729,6.2063457
+4086726370,node,La Ferme Sainte-Geneviève - L'Ermitage,restaurant,Nancy,,,https://fermesaintegenevieve.com/,48.7190707,6.2211957
+4088940607,node,Royal Gambas,restaurant,Nancy,,,https://royalgambas.eatbu.com/,48.6909569,6.1293564
+4119241560,node,Adagio Aparthotel,hotel,Nancy,,,https://www.adagio-city.com/fr/hotel-8988-aparthotel-adagio-access-nancy-centre/index.shtml,48.6936616,6.1911019
+4172962732,node,Au Point d'Interro,restaurant,Nancy,,,https://au-point-dinterro.business.site,48.6535866,6.1858684
+4243328301,node,EV,restaurant,Nancy,,,,48.6777215,6.1685207
+4243415207,node,Koboon,restaurant,Nancy,,,https://www.koboon-resto.com/,48.6932792,6.1912234
+4259364429,node,3 Cageots,restaurant,Nancy,,,,48.6888622,6.1826448
+4309863418,node,M.Houmous,restaurant,Nancy,153 Rue Saint-Dizier,,https://www.monsieur-houmous.fr/,48.6864568,6.1857992
+4309863419,node,La Gargote,restaurant,Nancy,,,https://www.lagargote.com/,48.6856858,6.1408487
+4319695812,node,Brasserie Restaurant du Parc Sainte-Marie,restaurant,Nancy,,,http://brasserieduparc.fr/,48.6803748,6.1720244
+4329957591,node,Arteteca,restaurant,Nancy,,,https://www.thefork.fr/restaurant/pizzeria-arteteca-r847683/menu,48.6868082,6.1710531
+4378671448,node,Le Shalimar,restaurant,Nancy,134,,,48.6867689,6.1853033
+4394080365,node,Chez Xuân,restaurant,Nancy,,,,48.6864445,6.1843835
+4394080368,node,Le Royal Rajasthan,restaurant,Nancy,,,,48.6866017,6.1842671
+4394080375,node,À l'ancienne,restaurant,Nancy,,,,48.6871293,6.1836392
+4396365291,node,Le Bouche à Oreilles,restaurant,Nancy,,,,48.6907323,6.1809904
+4396365292,node,Le P'tit Bouche,restaurant,Nancy,,,,48.6907847,6.1809519
+4396408241,node,Le San Lorenzo,restaurant,Nancy,,,,48.6923409,6.1800699
+4396408243,node,Triptik,restaurant,Nancy,2,,,48.6923125,6.179835
+4396408244,node,Mercure Nancy Centre Place Stanislas,hotel,Nancy,,,https://all.accor.com/hotel/1068/index.fr.shtml,48.6919815,6.1803323
+4396547954,node,Hôtel de l'Académie,hotel,Nancy,7bis,,,48.6925948,6.1787368
+4406976766,node,Le Charles III,restaurant,Nancy,,,,48.6885804,6.1818195
+4428077231,node,La Fabrique de Bières,restaurant,Nancy,,,,48.6954582,6.1947376
+4428077237,node,Sole Mio,restaurant,Nancy,61,,https://pizza-solemio.fr/,48.6973939,6.1956395
+4428225077,node,Chez Henri,restaurant,Nancy,,,,48.6902213,6.1851452
+4428245130,node,Tabarnak,restaurant,Nancy,,,,48.6846104,6.1789071
+4431569174,node,Chez Bébert,restaurant,Nancy,,,,48.69063,6.1801536
+4439056969,node,L'Escapade,restaurant,Nancy,,,,48.6925506,6.1895363
+4459307035,node,Le Picoti,restaurant,Nancy,,,,48.6985101,6.2061804
+4475802602,node,La Linotte des Bois,restaurant,Nancy,,,https://restaurant-lalinottedesbois.com/,48.6643565,6.1354755
+4560408086,node,Hôtel Saint-Georges,hotel,Nancy,,,,48.6922912,6.1912463
+4562384964,node,Les 7 Bourriches,restaurant,Nancy,,,,48.6930015,6.1817752
+4611405406,node,Auberge de la Colline,restaurant,Nancy,,,https://www.facebook.com/AubergedelaColline54/,48.4159524,6.0565465
+4758523692,node,Bout 'Choux,restaurant,Nancy,,,https://www.boutchouxrestaurant.com/,48.700909,6.2019002
+4807255506,node,Le Basilic,restaurant,Nancy,,,,48.632253,6.306263
+4807668586,node,La Cour des Arts,restaurant,Nancy,,,,48.6916027,6.1826329
+4838085086,node,Buddha Palace,restaurant,Nancy,,,https://www.bouddhapalace.com,48.626172,6.3454056
+4847205241,node,La Maison dans le Parc,restaurant,Nancy,,,https://lamaisondansleparc.com/,48.6941849,6.1851687
+4847205242,node,Le Vivier,restaurant,Nancy,,,,48.6942312,6.1815193
+4847205243,node,Sisco,restaurant,Nancy,,,,48.6942573,6.181597
+4893579032,node,Le RDV,restaurant,Nancy,,,,48.6906299,6.1744805
+4970069877,node,Natsu,restaurant,Nancy,,,https://www.restaurant-natsu.fr/menu,48.6853514,6.1868275
+4991079770,node,IT Italian Trattoria,restaurant,Nancy,,,https://it-trattoria.com/restaurant/nancy-henri-mengin,48.6894158,6.1815918
+4997952894,node,Le Boufflers,restaurant,Nancy,,,,48.6891658,6.1614614
+4998379578,node,Mama Betty,restaurant,Nancy,,,,48.6925009,6.1370013
+4999955285,node,Le Bistroquet,restaurant,Nancy,97,,http://www.restaurant-lebistroquet.com/,48.817174,6.1002094
+4999955289,node,Le P'tizognon,restaurant,Nancy,,,,48.9019989,6.0524084
+4999955290,node,Le Petit Gourmandin,restaurant,Nancy,,,https://www.restaurant-lepetitgourmandin.com/,48.9058887,6.0603653
+4999955291,node,L'Oasis,restaurant,Nancy,,,,48.9054684,6.0594976
+4999955292,node,La Trattoria,restaurant,Nancy,,,http://www.resto-la-trattoria.fr/,48.9059207,6.0600819
+4999955293,node,Le Fourneau d'Alain,restaurant,Nancy,,,,48.9028713,6.0557078
+4999955294,node,Pierre Bonaventure,restaurant,Nancy,,,,48.9022259,6.0544943
+4999955299,node,Chez Lulu,restaurant,Nancy,,,,48.9054389,6.0594375
+4999955300,node,Au Balcon,restaurant,Nancy,,,https://aubalconrestaurant.fr,48.9032688,6.0556052
+4999955305,node,Chez Sonia & Bud,restaurant,Nancy,42,,,48.95635,6.0583003
+4999955311,node,La Grande Chope,restaurant,Nancy,,,https://la-grande-chope.e-monsite.com/,48.7550173,6.1417678
+4999955313,node,Auberge des Voyageurs,guest_house,Nancy,,,https://auberge-desvoyageurs54.fr,48.9543616,6.0369509
+5016549714,node,Kosy appart'hôtel Cœur de Ville,hotel,Nancy,,,,48.6903891,6.1749286
+5016549716,node,Néméa Appart hotel Nancy,hotel,Nancy,13,,https://www.nemea-appart-hotel.com/residence/france/lorraine/meurthe-et-moselle/nancy/residence-nancy-appart-hotel-121.html,48.6857224,6.1905244
+5031869715,node,Hôtel Ibis Styles Nancy Centre Gare,hotel,Nancy,3,,http://www.all-seasons-hotels.com/gb/hotel-6852-ibis-styles-nancy-centre-gare-ex-all-seasons/index.shtml,48.6903321,6.1714605
+5045385221,node,Le Dizneuf,restaurant,Nancy,19,,,48.6888316,6.1823196
+5051419148,node,La Mésange Bleue,restaurant,Nancy,,,,48.439225,6.2798975
+5060366024,node,La Gloria,restaurant,Nancy,,,http://la-gloria-ristorante.eatbu.com,48.6180086,6.1775194
+5087018862,node,Tempio Pizzeria,restaurant,Nancy,,,,48.7496904,6.0662529
+5163934126,node,L'Atelier,restaurant,Nancy,,,,48.7064111,6.1657455
+5248940375,node,Ippoudo Ramen,restaurant,Nancy,,,,48.6881714,6.1842767
+5257378122,node,Chez 86,restaurant,Nancy,,,,48.7017526,6.1715722
+5275776153,node,La Table de Bacchus,restaurant,Nancy,,,https://www.la-table-de-bacchus-restaurant-nancy.fr,48.6942109,6.1814486
+5275776154,node,Casa Zaza,restaurant,Nancy,,,,48.6944072,6.1816382
+5275776156,node,Jack Tavern,restaurant,Nancy,,,,48.6941848,6.1812755
+5275776157,node,Le Potager,restaurant,Nancy,,,,48.6941282,6.1811215
+5275776158,node,Le Palais de Shalimar,restaurant,Nancy,14,,,48.6943269,6.1814119
+5275776159,node,Le Comptoir de Bacchus,restaurant,Nancy,,,,48.6942953,6.1813722
+5396673991,node,Retrogusto,restaurant,Nancy,,,,48.6927735,6.1805358
+5467309176,node,(S)pace Artem,restaurant,Nancy,,,,48.6735688,6.1693227
+5534507807,node,Angelùzzo,restaurant,Nancy,,,https://www.angeluzzo.fr/,48.6903925,6.1829071
+5552595608,node,Les Têtes Brûlées,restaurant,Nancy,"Avenue Nelson Mandela, 54510, Tomblaine",54510,https://www.restolestetesbrulees.com/,48.691932,6.2258544
+5600376725,node,Le Trianon,restaurant,Nancy,,,,48.7075801,6.1668399
+5600866789,node,Café Cuba,restaurant,Nancy,,,,48.6926017,6.1774797
+5600866796,node,À la Maison,restaurant,Nancy,,,,48.692435,6.1769615
+5600866797,node,Brasserie L'Académie,restaurant,Nancy,9,,,48.6925412,6.1773135
+5610133029,node,Pont 29,restaurant,Nancy,29,,,48.6882602,6.1820549
+5615139821,node,Le Gaulius,restaurant,Nancy,,,,48.7051163,6.2212162
+5630123017,node,Agora Pizza,restaurant,Nancy,,,,48.7017932,6.2236032
+5645909524,node,Au Fin Couscous,restaurant,Nancy,,,,48.6104634,6.1427722
+5650040825,node,Chez La Moon,guest_house,Nancy,,,,48.4395239,6.2788999
+5763034651,node,Les Moulins Bleus,restaurant,Nancy,,,https://lesmoulinsbleus.com/nous-trouver/laxou/,48.6913611,6.126323
+5826348049,node,Mamie Branchée,restaurant,Nancy,,,,48.6926649,6.1849359
+5859236452,node,,hotel,Nancy,,,,48.5972582,6.0915
+5896114686,node,Crock & Rock,restaurant,Nancy,,,https://croc-rock.eatbu.com/?lang=fr,48.6934983,6.1905698
+5899499995,node,L’Auberge,restaurant,Nancy,6 Place du Château,,,48.4667832,6.180339
+5967392802,node,Vins et Tartines,restaurant,Nancy,,,,48.6884578,6.1819096
+5967392804,node,Les Pissenlits,restaurant,Nancy,,,https://www.les-pissenlits.com/,48.6883468,6.1819912
+6013449643,node,Les Enfants Terribles,restaurant,Nancy,,,https://lesenfantsterribles.groupekeller.fr/,48.648697,6.1524642
+6072480460,node,La Lorraine Perdue,restaurant,Nancy,,,https://www.lalorraineperdue.com/,48.4982921,6.0109068
+6372052991,node,Au Bureau,restaurant,Nancy,31 Avenue de la Résistance,,https://www.aubureau.fr/restaurant/?ville=AB_LAXOU,48.6946858,6.1245556
+6374605487,node,Brasserie du Marché,restaurant,Nancy,,,,48.6647447,6.1741145
+6375685091,node,Hôtel Lorraine,hotel,Nancy,,,,48.6945982,6.1254189
+6383691293,node,Abbaye des Prémontrés - L'Hôtel,hotel,Nancy,,,https://www.abbaye-premontres.com/hotel/,48.9079942,6.0563716
+6397855882,node,O'Noodle,restaurant,Nancy,,,https://onoodle54000.com,48.6930604,6.1819708
+6418577264,node,L'instinct By C&M,restaurant,Nancy,,,https://www.linstinctbycm.fr/,48.7049446,6.2475004
+6418577265,node,Les Simone's,restaurant,Nancy,,,https://restolessimones.fr/,48.7049292,6.2472597
+6454289387,node,Iberico,restaurant,Nancy,,,,48.6845542,6.1864224
+6454289404,node,La Muraille de Chine,restaurant,Nancy,,,,48.691592,6.1758881
+6537416417,node,La Flamme Dorée,restaurant,Nancy,,,,48.6717116,6.2050569
+6539873144,node,Zeugma,restaurant,Nancy,,,,48.6887476,6.184944
+6560925456,node,Stew Cook,restaurant,Nancy,,,,48.6874487,6.1874061
+6567903260,node,Le Capri,restaurant,Nancy,,,https://www.pizzeria-lecapri.fr/,48.6930261,6.1813693
+6574800296,node,Le Palais de Jaipur,restaurant,Nancy,23,,https://www.palaisdejaipur.com/,48.6941482,6.181191
+6614627332,node,Jacques,restaurant,Nancy,,,,48.695688,6.1808505
+6627197550,node,La Romana,restaurant,Nancy,,,,48.6945825,6.1817183
+6636704113,node,L'Amusette,restaurant,Nancy,,,https://lamusette.eatbu.com,48.6946153,6.1797966
+6636715207,node,Les Batteurs d'Or,restaurant,Nancy,,,,48.6895924,6.1800042
+6640474239,node,La Table de Manon,restaurant,Nancy,1,,https://latabledemanon.fr/,48.6115874,6.1022335
+6654979924,node,Le Capu,restaurant,Nancy,,,,48.692192,6.1806175
+6658472673,node,Nancy Food Pizzas - Au feu de bois,restaurant,Nancy,,,,48.6987985,6.1784776
+6694616151,node,Monsieur Fuji Sushi,restaurant,Nancy,,,https://monsieurfujisushi.eatbu.com,48.6905479,6.182789
+6723698152,node,Ciao Bella,restaurant,Nancy,4,,,48.690339,6.1846887
+6736223630,node,Le Clos Jeannon,restaurant,Nancy,,,,48.6685319,6.1444192
+6739146375,node,Résidence Art' & Facts,hotel,Nancy,83,,https://www.kosy-apparthotels.com/nos-residences/nancy-art-facts/,48.6764647,6.1694546
+6742057301,node,Les Tournesols,restaurant,Nancy,,,,48.6843506,6.1962445
+6795545784,node,Le Bistro Héré,restaurant,Nancy,24,,,48.6942438,6.1829243
+7037145600,node,Da' Gruma,restaurant,Nancy,6,,,48.6921997,6.1812945
+7037145659,node,Yom Thaï Food,restaurant,Nancy,,,,48.685811,6.1860099
+7037145669,node,L’Èbène,restaurant,Nancy,,,https://www.lebenerestaurant.fr/,48.6885172,6.1840212
+7040812709,node,Les Domaines Qui Montent,restaurant,Nancy,,,,48.683947,6.1769458
+7059992011,node,Au bruit des bouchons,restaurant,Nancy,,,,48.6334587,6.3060227
+7067367510,node,Le Bakoua,restaurant,Nancy,,,,48.6869917,6.1827859
+7067367520,node,Khan,restaurant,Nancy,,,,48.6869367,6.1828671
+7067367537,node,Nemo Poke Bowl,restaurant,Nancy,,,,48.6917286,6.1812953
+7217251889,node,Les Délices d'Asie,restaurant,Nancy,,,https://lesdelicesdasie.eatbu.com,48.7100354,6.171005
+7289367236,node,Les prés dans le plat,restaurant,Nancy,,,https://lespresdansleplat.fr/,48.7352085,6.1686233
+7337274826,node,,restaurant,Nancy,,,https://fort-pelissier.com,48.597342,6.0917377
+7354588176,node,,restaurant,Nancy,,,,48.7031004,6.153215
+7379192344,node,Saveurs et Parfums d'Italie,restaurant,Nancy,,,,48.6894546,6.1826392
+7406123826,node,L'impromptu,restaurant,Nancy,,,,48.6892954,6.183238
+7419821981,node,Los Tacos,restaurant,Nancy,,,,48.6896121,6.1855823
+7424890161,node,King Pizza,restaurant,Nancy,,,,48.6924674,6.1418698
+7425037585,node,Le Palais de Chine,restaurant,Nancy,,,,48.6830372,6.190395
+7428734077,node,Pizzeria da Ginetto,restaurant,Nancy,,,,48.5958408,6.3329971
+7444265522,node,La Lorette,restaurant,Nancy,,,,48.7416933,6.3493268
+7453632701,node,La Nouvelle Soyotte,restaurant,Nancy,43,,https://la-nouvelle-soyotte.business.site/,48.747811,6.2021617
+7463616022,node,Lilaver,restaurant,Nancy,,,,48.9075671,6.0494281
+7471812472,node,Chingu,restaurant,Nancy,,,https://chingu.fr/,48.6938481,6.1807387
+7479507171,node,,restaurant,Nancy,,,https://www.domainedesion.com/restaurant-colline-de-sion/,48.4194794,6.0944253
+7519329186,node,Au Petit Gourmet,restaurant,Nancy,,,,48.6138298,6.2536018
+7529231618,node,Bagel & Salsa,restaurant,Nancy,,,https://www.bageletsalsanancy.fr/,48.6731241,6.1733491
+7589230949,node,Resto' Cours Léopold,restaurant,Nancy,16,,https://www.crous-lorraine.fr/restaurant/cours-leopold/,48.6950159,6.1772029
+7593524297,node,La Villa des Roses,restaurant,Nancy,,,,48.742709,6.2405705
+7596723867,node,La Fauvette,restaurant,Nancy,6,,,48.616258,6.1054212
+7810305472,node,Le Chardon,restaurant,Nancy,,,https://restaurant-lechardon.fr/,48.6855063,6.1865969
+7887242139,node,Relais de la Poste,restaurant,Nancy,,,,48.5689233,6.1880774
+7930698946,node,Pause café,restaurant,Nancy,,,https://pausecafe-custines.fr/,48.7919529,6.1427602
+7930707621,node,Pizzeria La Ruota,restaurant,Nancy,,,https://www.pizzeria-italienne-custines.fr/,48.7927514,6.1441452
+7948641996,node,À la table de l'étang,restaurant,Nancy,,,,48.8058618,6.1166757
+7963600305,node,Le Cartel à Mémé,restaurant,Nancy,,,,48.9036585,6.0559815
+8010392060,node,Pizzeria Les Roses,restaurant,Nancy,,,https://pizzerialesroses.wordpress.com/,48.7902851,6.0459843
+8069684003,node,La Nonna,restaurant,Nancy,,,,48.7671021,6.0573895
+8072237588,node,Périscolaire chateau,restaurant,Nancy,,,,48.7313072,6.1657803
+8094549301,node,Little Italia,restaurant,Nancy,,,https://little-italia-frouard.business.site/,48.748839,6.1486512
+8094549309,node,Le Rossignol,restaurant,Nancy,,,,48.7603447,6.1241407
+8094609033,node,Passion Coco,restaurant,Nancy,,,http://www.pizzeria-passion-coco.fr/,48.7610062,6.1325451
+8143917485,node,L'Arsenal,restaurant,Nancy,,,,48.6968892,6.1776717
+8148716020,node,L'Entre Deux,restaurant,Nancy,,,https://lentre-deux.eatbu.com/,48.7777289,6.1310187
+8148716022,node,French Food,restaurant,Nancy,,,,48.7760119,6.1307308
+8148716024,node,Le Pompéen,restaurant,Nancy,49,,http://lepompeen.free.fr/,48.7697903,6.1287296
+8174053298,node,Au Soleil de Provence,restaurant,Nancy,,,,48.684422,6.1779713
+8178787277,node,Grand Buffet 54,restaurant,Nancy,"2 Rue Jean Ferrat, 54270, Essey-lès-Nancy",54270,,48.712213,6.2414662
+8187605359,node,Le 27,restaurant,Nancy,27,,,48.6922505,6.1807965
+8241544030,node,Khao Thip,restaurant,Nancy,1 bis Rue des Quatre Églises,,,48.6887846,6.1826749
+8316091230,node,Restaurant Gizem,restaurant,Nancy,,,,48.7478029,6.2019083
+8415885525,node,Bon’t,restaurant,Nancy,90,,,48.6889241,6.1920556
+8485082892,node,O'break,restaurant,Nancy,42 bis,,,48.6166653,6.0902221
+8567985115,node,KungFu nouilles,restaurant,Nancy,,,https://kungfunouilles.fr/,48.6894843,6.1809969
+8567999219,node,Au Merle Blanc,restaurant,Nancy,,,https://www.aumerleblanc.fr/,48.6895521,6.180947
+8567999230,node,La Maison Chinoise,restaurant,Nancy,,,,48.6845451,6.1785517
+8574931558,node,Pho Etoile,restaurant,Nancy,,,,48.692881,6.1814324
+8808806597,node,L'Alpa,restaurant,Nancy,,,https://www.tchiz-nancy.fr/,48.6911445,6.2021765
+8862034029,node,Céline food,restaurant,Nancy,,,,48.6893584,6.193728
+9023576915,node,Up To You,restaurant,Nancy,,,,48.6945234,6.1817557
+9053464817,node,La Traviata,restaurant,Nancy,,,,48.6967073,6.1797136
+9258765620,node,,restaurant,Nancy,,,,48.688777,6.174094
+9258765638,node,Terroirs,restaurant,Nancy,,,,48.6813869,6.1662058
+9258765640,node,Le Cadet,restaurant,Nancy,,,,48.6820217,6.1659939
+9258765663,node,La Brasserie des Bains,restaurant,Nancy,,,,48.6782373,6.1696248
+9258765684,node,La Medina,restaurant,Nancy,,,https://restaurant-la-medina.fr/,48.6676136,6.1665313
+9258765694,node,Pizza Hut,restaurant,Nancy,,,https://www.pizzahut.fr/huts/fr-1/43-nancy-centre-gare,48.686047,6.1715743
+9492727793,node,Le Local,restaurant,Nancy,,,,48.685958,6.1689457
+9492774961,node,La Yourte,restaurant,Nancy,,,,48.6865396,6.1707586
+9663412491,node,Hôtel Campanile Nancy Centre - Gare,hotel,Nancy,12,,,48.6916735,6.1754872
+9812845656,node,Hôtel Stanley,hotel,Nancy,,,,48.6893223,6.1782374
+9817503613,node,Restaurant du Breuil,restaurant,Nancy,,,,48.6082406,6.1617837
+9822979164,node,Kung Fu Nouilles,restaurant,Nancy,,,,48.6895092,6.1809785
+9883120645,node,Appart'City Nancy,hotel,Nancy,10,,,48.6925998,6.1981545
+9905852371,node,Barbara Kitchen,restaurant,Nancy,,,,48.6893234,6.1798208
+9905852373,node,Piperno,restaurant,Nancy,"1 bis Rue Notre-Dame, 54000, Nancy",54000,https://piperno.fr/restaurants/4472-piperno-nancy,48.6892573,6.1804359
+10037691320,node,Au Bureau,restaurant,Nancy,,,https://www.aubureau.fr/restaurant/?ville=AB_Ludres,48.6181411,6.1759332
+10130975303,node,Le Jardin des Thermes,restaurant,Nancy,,,http://www.lejardindesthermes.net,48.6760186,6.1697988
+10163905390,node,Hôtel Foch,hotel,Nancy,8 Avenue Foch,,,48.6886617,6.1737433
+10270129551,node,Potes & Cocottes,restaurant,Nancy,,,,48.6534703,6.1775967
+10270129552,node,Restaurant de l'Hippodrome,restaurant,Nancy,,,,48.6518809,6.1409336
+10297544971,node,La Pizz',restaurant,Nancy,,,https://lapizzludres.wixsite.com/lapizz,48.6191317,6.178219
+10753880722,node,La Maison des Chercheurs,hotel,Nancy,167,,,48.6670316,6.1661148
+10753880731,node,Brasserie Restaurant Monplaisir,restaurant,Nancy,172,,,48.667476,6.1677561
+10753880739,node,Brasserie De La Fontaine du Vélodrome,restaurant,Nancy,,,https://www.brasserie-lafontaine.fr/,48.6675448,6.1671307
+10769240443,node,"Un peu, Bocaux",restaurant,Nancy,,,https://unpeubocaux.com,48.6683798,6.1827267
+10781228136,node,Villa Thermae,hotel,Nancy,,,https://villathermae.fr/villa-thermae-de-nancy/,48.6792834,6.1681828
+10794940365,node,Hungry Sushi,restaurant,Nancy,,,,48.6998869,6.2056968
+10826827562,node,Restaurant du Château,restaurant,Nancy,,,http://www.au-chateau.fr/le-restaurant/,48.6563918,6.1473633
+10891933349,node,Rest'authentik,restaurant,Nancy,54530,54530,,48.9835596,6.0202642
+10901345188,node,Restaurant Hippone,restaurant,Nancy,,,,48.6674708,6.198423
+10919970779,node,Antoinette Restaurant Nancy,restaurant,Nancy,,,https://antoinette.sharies.co,48.6914161,6.1881767
+10944768689,node,Buffalo Grill,restaurant,Nancy,1052 Route de Briey,,https://www.buffalo-grill.fr/restaurant/pont-a-mousson,48.9105028,6.0387227
+10971519261,node,Ô Tour des Grillades,restaurant,Nancy,,,https://otourdesgrillades.eatbu.com,48.6431533,6.1853108
+11045381528,node,L'Atelier 35,restaurant,Nancy,,,,48.6880922,6.1821784
+11045381529,node,Yom Thaï Food,restaurant,Nancy,,,,48.6881775,6.1821157
+11056105812,node,Au P'tit Naan,restaurant,Nancy,,,https://www.au-ptit-naan-restaurant-nancy.fr/,48.6706367,6.1792795
+11093737583,node,L'Escabelle,restaurant,Nancy,,,,48.6867719,6.2108176
+11117556955,node,Chalet du steak,restaurant,Nancy,,,,48.7076937,6.2479976
+11119945492,node,Le loup dans la bergerie,restaurant,Nancy,21 Avenue du Général de Gaulle,,https://leloupdanslabergerie.groupekeller.fr/,48.7120208,6.252039
+11127304327,node,La couscousière,restaurant,Nancy,"83 Avenue du 69e Régiment d'Infanterie, 54270, Essey-lès-Nancy",54270,https://restaurant-lacouscoussiere.fr/,48.7095795,6.238554
+11133823384,node,La Punjab,restaurant,Nancy,"77 Avenue du 69e Régiment d'Infanterie, 54270, Essey-lès-Nancy",54270,https://punjab-nancy.eatbu.com/,48.7087556,6.2376998
+11240630379,node,Vaudémont,restaurant,Nancy,,,http://www.brasserie-vaudemont.com/,48.6944446,6.1821125
+11246957905,node,B comme bœuf,restaurant,Nancy,,,,48.6892571,6.1831208
+11255358016,node,L'Essentiel,restaurant,Nancy,,,,48.677795,6.158265
+11255358029,node,La Verdine,restaurant,Nancy,,,,48.6819854,6.1648958
+11429489766,node,Hôtel du Château,hotel,Nancy,,,,48.6563294,6.1473202
+11451918648,node,La Buvette,restaurant,Nancy,,,http://www.au-chateau.fr/le-restaurant/,48.6562136,6.1471986
+11635488969,node,Le village Afrotaste,restaurant,Nancy,"45-47 Boulevard Lobau, 54000",54000,,48.6891666,6.1943737
+11730390969,node,L’Arborio,restaurant,Nancy,,,,48.6968744,6.1794531
+11762314797,node,L'Ardoise,restaurant,Nancy,,,,48.6938711,6.1807861
+11762314798,node,Osaka Street Food,restaurant,Nancy,,,,48.6939141,6.1809602
+11762314801,node,Papa Joe,restaurant,Nancy,,,,48.6940446,6.181485
+11762314803,node,La Cerise sur le Gâteau,restaurant,Nancy,,,,48.6942492,6.1817521
+11775608757,node,Le Mont Liban,restaurant,Nancy,,,,48.6914452,6.1842475
+11775629865,node,Trattoria San Giorgio,restaurant,Nancy,85,,,48.692296,6.186887
+11775629867,node,Brasserie Saint-Georges,restaurant,Nancy,,,https://brasserie-saint-georges-nancy.eatbu.com,48.6921629,6.1864714
+11778599490,node,L’Auberge Francine,restaurant,Nancy,,,https://www.auberge-francine.fr,48.6726803,6.1940608
+11942233777,node,Les Jardins d'Esther,restaurant,Nancy,4,,https://www.lesjardinsdesther.com,48.6982103,6.1743055
+11962451169,node,Nonna,restaurant,Nancy,,,https://nonnofamiglia.fr/nonna,48.6933618,6.1984759
+12022536373,node,Le Majeur,restaurant,Nancy,,,https://www.lemajeurnancy.fr/,48.687469,6.1802162
+12199305135,node,French Trattoria,restaurant,Nancy,,,https://french-trattoria.fr,48.6964341,6.1727994
+12238849286,node,Le Comptoir Saint Michel,restaurant,Nancy,,,https://www.lecomptoirstmichel.com/,48.6969222,6.1791839
+12296584833,node,Dr Food,restaurant,Nancy,,,,48.6486917,6.1523332
+12378615207,node,P'tit Fauve,restaurant,Nancy,,,,48.6890605,6.1725217
+12475365048,node,,restaurant,Nancy,,,,48.6195338,6.0381336
+12515219767,node,Gilio's Pizza,restaurant,Nancy,,,,48.6825311,6.1742383
+12589832348,node,L'Etna,restaurant,Nancy,,,http://etna-nancy.com/,48.6862192,6.1699424
+12804025302,node,Le petit Badiem,restaurant,Nancy,,,,48.6941028,6.1817241
+12925766306,node,L’imprévu,restaurant,Nancy,"1 bis Rue Charles Hermite, 54110",54110,https://restaurant-limprevudombasle.fr/,48.6031095,6.3621081
+12997940205,node,Maddak,restaurant,Nancy,,,,48.6989718,6.1790839
+13009724700,node,ZENTITUDE,hotel,Nancy,,,,48.6890375,6.1948587
+13234583205,node,L'Entre pôtes,restaurant,Nancy,,,,48.6079448,6.1483432
+13238571086,node,Polmard,restaurant,Nancy,,,https://www.polmard-nancy.com/,48.6923761,6.1791592
+13471131431,node,Hanoi Tokyo,restaurant,Nancy,,,,48.6721911,6.1540655
+13547073850,node,Resto du Park,restaurant,Nancy,,,,48.782746,6.1370661
+13720352750,node,Villa Emilia,hotel,Nancy,,,https://villaemilianancy.com/,48.6901851,6.1809399
+13764400350,node,Hotel bar Azur,hotel,Nancy,"84 Rue Saint-Dizier, 54000, Nancy",54000,,48.688376,6.1841131
+13803905882,node,Iran Banoo,restaurant,Nancy,,,,48.6798669,6.1758096
+13838104367,node,Ciao Tutti,restaurant,Nancy,,,https://ciao-tutti-nancy.eatbu.com,48.6817835,6.1980034
+13861344745,node,La Goulette,restaurant,Nancy,,,,48.6802977,6.1953864
+13925250506,node,D'Pizza,restaurant,Nancy,,,https://dpizza54.com/,48.7035711,6.1952434

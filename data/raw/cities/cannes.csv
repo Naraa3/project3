@@ -1,0 +1,275 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+600879540,node,La Pizza Cresci,restaurant,Cannes,,,,43.5504447,7.0119138
+648461258,node,Sushi Kan,restaurant,Cannes,,,,43.552003,7.0235764
+796729848,node,Ruc Hôtel Cannes,hotel,Cannes,06400,06400,,43.5549339,7.0301147
+797742146,node,Les Tourrades,hotel,Cannes,"06400, Cannes",06400,,43.5506946,6.9610966
+952751876,node,La Corne,restaurant,Cannes,"16 Rue Saint-Dizier, 06400, Cannes",06400,,43.5512811,7.0088572
+981397008,node,Bistrot à Huitres,restaurant,Cannes,"31 Cours Félix Faure, 06400, Cannes",06400,,43.5519921,7.0134845
+981397017,node,Le Rendez-Vous,restaurant,Cannes,"35 Cours Félix Faure, 06400, Cannes",06400,,43.5520652,7.0136105
+981397019,node,Astoux et Brun,restaurant,Cannes,,,,43.5519415,7.0132711
+981397021,node,La toque d'or,restaurant,Cannes,,,,43.552796,7.0127196
+1140437570,node,Brimer,hotel,Cannes,06400,06400,,43.5526812,7.0245641
+1140437574,node,Hotel Abrial,hotel,Cannes,"06400, Cannes",06400,,43.5530782,7.027259
+1177527891,node,La Crêperie Breiz,restaurant,Cannes,"66 Rue Meynadier, 06400, Cannes",06400,,43.551845,7.0126062
+1300567270,node,Eden Hotel & Spa,hotel,Cannes,"06400, Cannes",06400,,43.5517995,7.0282612
+1334402575,node,JW Marriott,hotel,Cannes,,,https://www.marriott.com/fr/hotels/ncejw-jw-marriott-cannes/overview,43.5500358,7.0253329
+1377975230,node,Hôtel Cannes Centre Univers,hotel,Cannes,"2 Rue du Maréchal Foch, 06400, Cannes",06400,https://hotelcannescentreunivers.com-hotel.com/,43.5526284,7.0189228
+1530146319,node,Warm'up,restaurant,Cannes,,,,43.54922,6.9665829
+1551733871,node,Cave Croisette,restaurant,Cannes,151 Rue d'Antibes,,,43.5514238,7.0296737
+1555741809,node,Pizza Hut,restaurant,Cannes,,,https://www.pizzahut.fr/huts/fr-1/193-cannes/,43.5582654,7.0166434
+1573169435,node,Cannes Riviera,hotel,Cannes,"16 Boulevard d'Alsace, 06400",06400,,43.5544105,7.0206714
+1688895426,node,La Palmeraie,restaurant,Cannes,,,,43.5496104,6.9785808
+1734205147,node,El bodega del havana,restaurant,Cannes,,,,43.549436,6.9772918
+1737279592,node,Amici Ristorante Italiano,restaurant,Cannes,,,,43.5485822,6.9808404
+1757091700,node,Amarante,hotel,Cannes,,,,43.5616156,7.0169317
+1757091716,node,Suite Novotel,hotel,Cannes,,,,43.5582283,7.0170912
+1776942472,node,Lutétia,hotel,Cannes,,,,43.5553686,7.0160144
+1866514958,node,Hôtel Le Splendid,hotel,Cannes,,,,43.5520683,7.0158788
+1866514964,node,Cristal,hotel,Cannes,06400,06400,,43.5515431,7.0254089
+1866514965,node,Hôtel Barrière Le Gray d'Albion,hotel,Cannes,,,,43.5521158,7.021006
+1870674947,node,Au Mal Assis,restaurant,Cannes,,,,43.5496472,7.0121042
+1870674950,node,Le Melting Pot,restaurant,Cannes,,,,43.5494864,7.0118374
+1978637484,node,Montaigne,hotel,Cannes,"4 Rue Montaigne, 06400, Cannes",06400,https://www.hotel-montaigne.com,43.55496,7.0176358
+2181349769,node,Délices Yang,restaurant,Cannes,,,,43.5525431,7.0146354
+2338272970,node,Congres Festivals (des),hotel,Cannes,,,,43.5525924,7.0230485
+2388520432,node,San Telmo,restaurant,Cannes,"31 Rue Hoche, 06400, Cannes",06400,,43.5531185,7.0214647
+2440865015,node,L'Ardoise,restaurant,Cannes,,,,43.5524593,7.0158188
+2440865017,node,Le Bistro Gourmand,restaurant,Cannes,,,,43.5522386,7.0113008
+2607932716,node,Sushi Bar Wazakura,restaurant,Cannes,13 Rue de Bône,,,43.552286,7.028689
+2632213730,node,Best Western,hotel,Cannes,,,,43.5521897,7.0283329
+2698193914,node,Le Bistrot de l'ecailler,restaurant,Cannes,,,,43.5518289,7.012562
+2698193924,node,La Belle Assiette,restaurant,Cannes,,,,43.5518085,7.0125056
+2824215842,node,La Guérite,restaurant,Cannes,,,https://laguerite.fr/,43.5238531,7.0467788
+2824215843,node,L'Escale,restaurant,Cannes,,,https://escale-ilesdelerins.pagesperso-orange.fr/,43.5224992,7.0405358
+3023509575,node,Le Speakeasy,restaurant,Cannes,,,,43.5485042,7.0303062
+3023509577,node,Beau,restaurant,Cannes,,,,43.54859,7.0303062
+3023509579,node,Black Pearl,restaurant,Cannes,,,,43.5483597,7.0302818
+3037770502,node,Bella Storia,restaurant,Cannes,,,,43.5521841,7.0142345
+3037770505,node,Byron,restaurant,Cannes,,,,43.5521785,7.0141549
+3037770510,node,Beef House,restaurant,Cannes,"2 Cours Félix Faure, 06400, Cannes",06400,https://www.beefhouse.com,43.5518886,7.0148154
+3037770513,node,Le Jardin de Bambou,restaurant,Cannes,,,,43.5512991,7.0218795
+3037770515,node,Pepperoni,restaurant,Cannes,,,,43.5529622,7.0218589
+3037784690,node,La maison by Tripoli,restaurant,Cannes,,,,43.5520019,7.0147846
+3037784698,node,Marina Caffe,restaurant,Cannes,"61 Cours Félix Faure, 06400, Cannes",06400,,43.5522286,7.0146974
+3037784699,node,Hôtel des Allées,hotel,Cannes,"6 Rue Émile Negrin, 06400, Cannes",06400,,43.552406,7.0146645
+3037784701,node,Miki Ramen,restaurant,Cannes,,,,43.5534459,7.0194238
+3037784703,node,The Claremont,hotel,Cannes,,,,43.5532422,7.0192214
+3039119243,node,Hoche,hotel,Cannes,,,,43.5529663,7.0201838
+3039119246,node,Le Cirque,restaurant,Cannes,,,,43.5529613,7.02167
+3039119251,node,O'Sushi,restaurant,Cannes,,,,43.5530835,7.0222408
+3039119271,node,Modern Waikiki Hôtel,hotel,Cannes,,,,43.551969,7.0204667
+3039119292,node,Le Casanova,restaurant,Cannes,,,,43.5529822,7.0196611
+3039119301,node,Mado à Cannes,restaurant,Cannes,,,,43.5529795,7.0212284
+3039581938,node,,restaurant,Cannes,,,,43.5518845,7.0173989
+3039581976,node,Amirauté,hotel,Cannes,06400,06400,,43.5535478,7.0184648
+3040166044,node,Atlantis,hotel,Cannes,,,,43.5528257,7.0194742
+3040166045,node,Aux Bons Enfants,restaurant,Cannes,,,,43.5516225,7.0119697
+3040166049,node,Café Hoche,restaurant,Cannes,,,,43.5531055,7.0217576
+3040166059,node,Caffè Roma,restaurant,Cannes,,,,43.5517759,7.0167832
+3040166061,node,Hôtel Carolina,hotel,Cannes,,,,43.5531458,7.0218561
+3040166064,node,Loka,restaurant,Cannes,,,,43.5515181,7.0116499
+3040166097,node,Jean Luc Pele,restaurant,Cannes,,,,43.5528448,7.0192565
+3040166101,node,L'epicurieux,restaurant,Cannes,,,,43.5528217,7.0198825
+3040166102,node,La Piazza,restaurant,Cannes,,,,43.5513842,7.0117354
+3040166104,node,La Villa Tosca,hotel,Cannes,,,,43.5531941,7.0197326
+3040166109,node,Lenôtre,restaurant,Cannes,,,,43.5525979,7.0216709
+3040166119,node,PLM,hotel,Cannes,,,,43.5531642,7.0191543
+3040166355,node,Taqueria Lupita,restaurant,Cannes,,,,43.5517644,7.0123221
+3040166356,node,La Farigoulette,restaurant,Cannes,,,,43.5517936,7.012431
+3040166368,node,La Cuisine d'aqui,restaurant,Cannes,,,,43.5522734,7.0131387
+3040166379,node,Le Forville,restaurant,Cannes,"17 Marché Forville, 06400, Cannes",06400,https://leforville.fr/,43.5525608,7.0126446
+3040166431,node,Salsamenteria di Parma,restaurant,Cannes,,,https://www.salsamenteriadiparma.com/france---cannes,43.5516115,7.0118015
+3040166433,node,Schtak,hotel,Cannes,,,,43.5526665,7.0209854
+3040166457,node,La Farigoule Bistrot,restaurant,Cannes,,,,43.551486,7.0118999
+3050587070,node,Da Laura,restaurant,Cannes,,,,43.5531696,7.0194281
+3050587073,node,Little Palace,hotel,Cannes,06400,06400,,43.5535078,7.0194092
+3050587085,node,La Meissounière,restaurant,Cannes,,,,43.5534149,7.0192503
+3050587087,node,Five Pizza,restaurant,Cannes,,,https://stores.fivepizzaoriginal.com/restaurant/five-pizza-original-cannes,43.5535022,7.021489
+3050587088,node,Le Triomphe,restaurant,Cannes,,,,43.5535533,7.0195698
+3100507656,node,La Boussole Carrée,restaurant,Cannes,,,,43.5520831,7.0249612
+3280732708,node,Balladins,hotel,Cannes,,,,43.5515113,6.9562487
+3309711664,node,Le Royal de Chine,restaurant,Cannes,"142 Avenue Francis Tonner, 06150, Cannes",06150,,43.5500648,6.969244
+3481256394,node,B&B Hôtel,hotel,Cannes,,,https://www.hotel-bb.com/fr/hotels/cannes-ouest-la-bocca.htm,43.5484888,6.9626539
+3666307803,node,Le relais des semailles,restaurant,Cannes,"9 Rue Saint-Antoine, 06400, Cannes",06400,,43.5512998,7.0112303
+3667356410,node,Le Canberra,hotel,Cannes,,,,43.5519747,7.0259719
+3667405145,node,Hôtel de Paris,hotel,Cannes,06400,06400,,43.5524902,7.023889
+3667405187,node,La Californie,restaurant,Cannes,,,,43.5517919,7.0169835
+3672404868,node,Bâoli,restaurant,Cannes,,,https://lebaoli.com/,43.5404985,7.0341122
+3716898174,node,Le Caveau 30,restaurant,Cannes,,,,43.5521359,7.0139669
+3740052473,node,Le Maghreb,restaurant,Cannes,"40 Rue de Mimont, 06400, Cannes",06400,,43.5555231,7.023
+4040655962,node,Bijou Plage,restaurant,Cannes,,,,43.539212,7.0342079
+4040655971,node,Le Moure Rouge,restaurant,Cannes,,,,43.5415637,7.0398146
+4040655975,node,Pomme D'api,restaurant,Cannes,,,,43.5382156,7.0383963
+4294609489,node,Vita,restaurant,Cannes,5 Rue Notre-Dame,,,43.5518428,7.0196696
+4296765989,node,L'Affable,restaurant,Cannes,5 Rue la Fontaine,,,43.5519916,7.0249485
+4344922289,node,Papa Nino 2,restaurant,Cannes,"23 Avenue du Maréchal Juin, 06400",06400,http://www.facebook.com/PapaNino2,43.5502279,7.034016
+4348937189,node,La Table Du Chef,restaurant,Cannes,5 Rue Jean Daumas,,,43.5526527,7.0252075
+4350066706,node,Mantel,restaurant,Cannes,21 Rue Saint-Antoine,,,43.5516,7.0107269
+4364571589,node,La Mome,restaurant,Cannes,6 Rue Florian,,,43.5518739,7.0234583
+4387090551,node,Al Charq,restaurant,Cannes,"20 Rue Rouaze, 06400, Cannes",06400,,43.5493103,7.0300453
+4398467389,node,reggae snack,restaurant,Cannes,,,,43.5223256,7.0409379
+4401352789,node,Zoa Sushi Bar,restaurant,Cannes,"2 Place du Général de Gaulle, 06400, Cannes",06400,,43.5520162,7.0167641
+4413553842,node,Noisette,restaurant,Cannes,,,,43.5519775,7.0245237
+4413553843,node,Chez Bobo,restaurant,Cannes,,,,43.5512053,7.0230332
+4534849590,node,Mickaella,restaurant,Cannes,"23 Rue du Suquet, 06400",06400,,43.5514533,7.0098529
+4569107454,node,Stan'Suiss,restaurant,Cannes,,,,43.5530147,7.0081318
+4569107455,node,Memphis,restaurant,Cannes,,,,43.5523078,7.0082083
+4707713790,node,L'Eponyme,restaurant,Cannes,,,,43.5522854,7.0281328
+4816309322,node,Auberge Provençale da Bouttau,restaurant,Cannes,10 Rue Saint-Antoine,,,43.5514519,7.0111252
+4882516625,node,Villa Botanica,hotel,Cannes,,,,43.5534619,7.0244109
+4993217922,node,La Paillote by Gaston & Gastounette,restaurant,Cannes,"6-7 Quai Saint-Pierre, 06400",06400,https://gaston-gastounette.fr/,43.5501895,7.0119689
+4994685121,node,L'Assiette Provençale,restaurant,Cannes,"9 Quai Saint-Pierre, 06400",06400,https://www.assiette-provencale.fr/,43.5500366,7.0120186
+5296182753,node,Les Agapantes,hotel,Cannes,108 Avenue Maurice Chevalier,,,43.5622233,6.9613915
+5362334168,node,Citadines,hotel,Cannes,"1 Rue le Poussin, 06400, Cannes",06400,,43.5559222,7.0165731
+5362334169,node,China Town,restaurant,Cannes,"2 Boulevard Carnot, 06400, Cannes",06400,,43.5543971,7.0172137
+5389564538,node,Cheer Mamma,restaurant,Cannes,,,,43.5499107,7.0120423
+5389564542,node,Amalfi,restaurant,Cannes,,,,43.5494014,7.0118277
+5389564543,node,Le Boston,restaurant,Cannes,,,,43.5493725,7.0121246
+5389564548,node,Bay Cafe,restaurant,Cannes,"12 Boulevard Jean Hibert, 06400, Cannes",06400,,43.5483175,7.0103551
+5389564549,node,Chez Arthur,restaurant,Cannes,"Boulevard Jean Hibert, 06400, Cannes",06400,,43.5482774,7.0107273
+5389564550,node,Su and Shi,restaurant,Cannes,"13 Boulevard Jean Hibert, 06400, Cannes",06400,,43.5484231,7.0099515
+5389564551,node,O'Key Beach,restaurant,Cannes,,,,43.5482447,7.0095411
+5389564552,node,Villa Azure,restaurant,Cannes,,,,43.5486207,7.0091282
+5389564553,node,Italian Caffe,restaurant,Cannes,,,,43.5488469,7.0079385
+5389564554,node,Riviera Beach,restaurant,Cannes,,,,43.5485032,7.0083918
+5389564555,node,Maema,restaurant,Cannes,,,,43.5485859,7.007972
+5389564557,node,Belle Plage,restaurant,Cannes,,,,43.5486811,7.0072907
+5389564558,node,L'Alba,restaurant,Cannes,,,,43.5486967,7.0070507
+5389564566,node,Plage Waikiki,restaurant,Cannes,,,,43.5488357,7.0048338
+5392712525,node,Chez Vincent et Nicolas,restaurant,Cannes,,,,43.5514028,7.011472
+5395998415,node,Brasserie Frensh,restaurant,Cannes,"43 Cours Félix Faure, 06400, Cannes",06400,,43.5521207,7.0138595
+5396011629,node,Le Pistou,restaurant,Cannes,"53 Cours Félix Faure, 06400, Cannes",06400,,43.5521731,7.014316
+5396011636,node,Chez Freddy,restaurant,Cannes,"67 Cours Félix Faure, 06400, Cannes",06400,,43.5522653,7.0148833
+5396060929,node,Saporedipane,restaurant,Cannes,,,,43.5523023,7.0152052
+5396060930,node,Green Sushi,restaurant,Cannes,"83 Cours Félix Faure, 06400, Cannes",06400,,43.5522795,7.0156453
+5396060933,node,New-York New-York,restaurant,Cannes,,,,43.5519796,7.0158891
+5396060936,node,Steak 'n Shake,restaurant,Cannes,"2 Place du Général de Gaulle, 06400, Cannes",06400,https://www.steaknshake.com/,43.5521817,7.0162615
+5396060939,node,Brasserie du Casino,restaurant,Cannes,,,,43.5517915,7.0171704
+5396060949,node,Côté Sushi,restaurant,Cannes,"17 Square Mérimée, 06400, Cannes",06400,,43.5518198,7.017958
+5396060950,node,La Potinière du Palais,restaurant,Cannes,,,,43.5518141,7.0177559
+5396060951,node,Le Croisette,restaurant,Cannes,,,,43.5514904,7.0179538
+5398008837,node,JW Grill,restaurant,Cannes,,,,43.5500436,7.0250672
+5398008843,node,Carlton Restaurant,restaurant,Cannes,,,https://www.carlton-cannes.com/fr/gastronomie/carlton-restaurant/,43.5493126,7.0274866
+5408421576,node,L'Authentic,restaurant,Cannes,"92 Avenue Francis Tonner, 06150, Cannes",06150,,43.54969,6.9758702
+5599890745,node,Comme à la Maison,restaurant,Cannes,,,,43.5514953,7.0219718
+5599890753,node,Juice Lab,restaurant,Cannes,,,,43.5517257,7.0222629
+5599890762,node,Chyrstie,restaurant,Cannes,,,,43.5510115,7.0217609
+5627407621,node,Bar du Marin,restaurant,Cannes,,,,43.5527615,7.0157728
+5747700521,node,Le Manoir,restaurant,Cannes,"4 Petite Rue Saint-Antoine, 06400",06400,https://www.lemanoircannes.fr,43.5513108,7.0109266
+5764039761,node,L'etabli,restaurant,Cannes,,,,43.5487362,7.0083907
+5764039764,node,La Canna Suisse,restaurant,Cannes,,,,43.5518982,7.009783
+5895652751,node,La Dolce Vita,restaurant,Cannes,"83 Avenue de Lérins, 06400, Cannes",06400,,43.5387337,7.0380459
+5916877787,node,Le grain de sel,restaurant,Cannes,25 Rue Hoche,,,43.5531171,7.0209806
+5924238765,node,,restaurant,Cannes,,,,43.5543072,6.9578642
+6147135213,node,Pizza Jean-Jean,restaurant,Cannes,,,,43.5425446,7.0386483
+6291109225,node,Bistro les Canailles,restaurant,Cannes,12 Rue Jean Daumas,,,43.5532026,7.0254749
+6445805585,node,Meat,restaurant,Cannes,,,,43.5515101,7.0108539
+6445805586,node,Uva,restaurant,Cannes,,,,43.5532077,7.0248594
+6445816986,node,Le Pompon,restaurant,Cannes,,,,43.5523425,7.0146476
+6558469485,node,Le Pastis,restaurant,Cannes,,,http://restaurantlepastis.com,43.5510643,7.0228888
+6696605903,node,Mim,restaurant,Cannes,,,,43.5457681,7.0343721
+6698502811,node,,restaurant,Cannes,,,https://www.facebook.com/LeDuplexCannes/,43.5385989,7.0386769
+6707415586,node,sardine,restaurant,Cannes,Rue Florian,,,43.5521277,7.0233349
+6936990724,node,Le Napoléon Bonaparte,restaurant,Cannes,"Boulevard Jean Hibert, 06400, Cannes",06400,,43.5482822,7.0106314
+6936990725,node,Le Flamenco,restaurant,Cannes,"Boulevard Jean Hibert, 06400, Cannes",06400,,43.5482878,7.0104847
+6944280984,node,Mirabelle,restaurant,Cannes,,,,43.5516449,7.0105635
+6961596850,node,3.14,restaurant,Cannes,,,,43.5501843,7.0266531
+7039266011,node,L'angle des Saveurs,restaurant,Cannes,,,,43.5512181,7.0295682
+7039266016,node,L'Antidote,restaurant,Cannes,,,,43.5518937,7.0298807
+7039266017,node,Verlaine,hotel,Cannes,,,,43.5523322,7.0298533
+7222105815,node,Azurene Royal Hotel,hotel,Cannes,,,,43.5511013,7.022892
+7367383357,node,Hôtel Renoir,hotel,Cannes,,,,43.5539671,7.0158297
+7397558193,node,Villa Alang Alang,hotel,Cannes,"7-29 Avenue de l'Esterel, 06400, Cannes",06400,https://villa-alangalang.com/,43.5585133,7.0428353
+7462923331,node,HappyFood,restaurant,Cannes,"81 Avenue de Grasse, 06400, Cannes",06400,http://www.happyfood06.fr/wordpress/,43.5551846,7.0119623
+7516943075,node,"La Pizzaiola ""Chez Xavier""",restaurant,Cannes,"10 Rue Marceau, 06400, Cannes",06400,https://www.pizzaiolachezxavier.com/,43.5529738,7.0240442
+7595873400,node,Le Fouquet's,restaurant,Cannes,,,,43.5477587,7.0308612
+8002414353,node,Van Crepes Holland,restaurant,Cannes,,,https://van-crepes-holland.eatbu.com/,43.5589152,7.0170384
+8094007346,node,La Fleur d'Oranger,restaurant,Cannes,,,,43.5527286,6.9574463
+8267882095,node,Restaurant New Indien,restaurant,Cannes,,,,43.5487552,6.9808258
+8599822844,node,Fafa Pizza,restaurant,Cannes,,,,43.5563527,7.0234427
+8731360798,node,Regina di Napoli,restaurant,Cannes,,,,43.5549262,6.9703732
+8961264518,node,La Libera,restaurant,Cannes,,,,43.5513022,7.0230619
+9034227784,node,Parthenopi,restaurant,Cannes,,,,43.5524644,7.0144436
+9164314907,node,Ciro's Cannes,restaurant,Cannes,,,https://www.hotelsbarriere.com/cannes/le-majestic/restaurants-et-bars/ciro-s-cannes,43.5500135,7.0195434
+9208287958,node,Le Fouquet's,restaurant,Cannes,,,,43.5512606,7.0198013
+9208287959,node,Beefbar Cannes,restaurant,Cannes,,,,43.551215,7.019558
+9241183195,node,Villa d'Estelle,hotel,Cannes,"12-14 Rue des Belges, 06400, Cannes",06400,https://www.villadestelle.com/,43.5514051,7.0190212
+9474042286,node,La Mer Bleue,restaurant,Cannes,,,,43.5530095,6.9571593
+9969580818,node,Oh my poke!,restaurant,Cannes,,,,43.5534148,7.0206223
+9969580819,node,Bollyfood,restaurant,Cannes,,,,43.5533601,7.0206207
+9969580821,node,Pitadine,restaurant,Cannes,,,,43.5533282,7.0216704
+9970614775,node,Chez Franco,restaurant,Cannes,14 Rue de Constantine,,,43.5525363,7.0280385
+9974292748,node,L'Esterel,hotel,Cannes,,,,43.5534689,7.0192508
+10013315282,node,La Cigale Bistrot,restaurant,Cannes,6 Rue Lecerf,,,43.5528188,7.025659
+10130662611,node,Sushi by Nam,restaurant,Cannes,,,,43.5582082,7.0222358
+10152424361,node,Le Jardin,restaurant,Cannes,,,https://lejardin-cannes.fr/fr,43.5563976,7.0257635
+10168778688,node,Tredici,restaurant,Cannes,,,,43.5503143,7.0097275
+10168778694,node,Grand Mère Poule,restaurant,Cannes,,,,43.5512409,7.0095673
+10168778697,node,Xuan Le Printemps,restaurant,Cannes,,,,43.5513818,7.0092799
+10169043178,node,Five Room,restaurant,Cannes,,,,43.5502788,7.0081075
+10169043179,node,Vinh Phat,restaurant,Cannes,,,,43.5500717,7.0082491
+10169043180,node,Funny Food,restaurant,Cannes,,,,43.549932,7.0080632
+10169043181,node,Le African Villaige,restaurant,Cannes,,,,43.549796,7.008215
+10169043182,node,Burger Way,restaurant,Cannes,,,,43.5496083,7.0083949
+10169043185,node,Black Sails,restaurant,Cannes,,,,43.5491043,7.0114456
+10169043186,node,Le Ksar,restaurant,Cannes,,,,43.5493799,7.0114775
+10169043188,node,Le Miam Miam,restaurant,Cannes,,,,43.5498016,7.0117926
+10169043189,node,Sushi Koya,restaurant,Cannes,,,,43.5509186,7.0113971
+10180815564,node,Le Trèfle,restaurant,Cannes,7 Rue du Pré,,https://letreflecannes.eatbu.com,43.5510025,7.0095651
+10180820883,node,La Sousta,restaurant,Cannes,11 Rue du Pré,,https://www.la-sousta-restaurant-cannes.com/,43.5507532,7.0095327
+10181262945,node,Chez Margaux,restaurant,Cannes,,,,43.5511702,7.0095746
+10181280010,node,Le bistrot de grand-mère,restaurant,Cannes,,,,43.5512331,7.0095692
+10181290561,node,Le bénitier,restaurant,Cannes,,,,43.548302,7.0092909
+10200127858,node,Hôtel Ibis Cannes Centre,hotel,Cannes,"8 Rue Marceau, 06400, Cannes",06400,,43.552968,7.0238254
+10289408775,node,MÖYE,restaurant,Cannes,"84 Boulevard de la Croisette, 06400, Cannes",06400,https://www.moye-restaurant.com/menus-carte/,43.5457891,7.0342469
+10816721857,node,La Cocotte,restaurant,Cannes,,,,43.5535783,7.0244095
+10980556569,node,Fred l'écaillaier,restaurant,Cannes,,,,43.5388205,7.0377734
+11049211548,node,Le Dauphin,restaurant,Cannes,,,,43.5520235,7.0169256
+11049278125,node,La Perle,restaurant,Cannes,,,,43.5520965,7.0138074
+11281757639,node,Carré d'as,restaurant,Cannes,,,,43.5554921,7.0233562
+11286450870,node,Chez Wael,restaurant,Cannes,,,,43.5562543,7.0233281
+11299680869,node,Le Bao (Bouche À Oreille),restaurant,Cannes,,,https://www.lebouchaoreille.com/,43.5526027,7.024572
+11470519238,node,Dolce Farniente,restaurant,Cannes,,,,43.5498566,7.030554
+11964448828,node,Pasta Andrea,restaurant,Cannes,,,,43.553011,7.0235403
+11964448835,node,Barthélemy,restaurant,Cannes,,,,43.553154,7.0194964
+12077255069,node,Boutique Hôtel Couleurs du Sud,hotel,Cannes,,,https://www.cannes-hotel-couleurs-du-sud.com/,43.5497616,7.0079345
+12207576386,node,La Bigoudène,restaurant,Cannes,,,,43.5519411,7.012861
+12207576393,node,La Pizzeria 66,restaurant,Cannes,,,,43.5518518,7.0126552
+12304075756,node,Hotera,hotel,Cannes,,,,43.5533699,7.0194195
+12386078983,node,Le Cosi,restaurant,Cannes,"12 Rue du Suquet, 06400, Cannes",06400,https://www.lecosi.fr/,43.5515653,7.010209
+12386078984,node,Le Marais,restaurant,Cannes,"9 Rue du Suquet, 06400, Cannes",06400,https://restaurantlemarais.fr/,43.5515267,7.0100151
+12386078986,node,Le Mariska,restaurant,Cannes,"20 Rue du Suquet, 06400, Cannes",06400,https://www.facebook.com/p/Le-Mariska-100063559833226/?locale=fr_FR,43.5515257,7.0098646
+12386078987,node,Le bistrot du suquet,restaurant,Cannes,"19 Rue du Suquet, 06400, Cannes",06400,,43.5515235,7.0098137
+12386078989,node,Le XXIV,restaurant,Cannes,"2 Rue du Suquet, 06400, Cannes",06400,https://le24suquet.fr/,43.5515101,7.0096272
+12461465540,node,Tredici pizzeria Forville,restaurant,Cannes,,,,43.5526935,7.0116075
+12638575552,node,Yelo Belle Époque,hotel,Cannes,,,https://www.sonder.com/fr-fr/destinations/cannes/yelo-belle-epoque/c37235?sleeps=1,43.553428,7.0216776
+12638575553,node,Madame Hien,restaurant,Cannes,,,https://madamehiencannes.com/,43.5533907,7.021674
+12638575556,node,Hôtel du Nord,hotel,Cannes,,,,43.5535517,7.0197955
+12645405760,node,Da Tina 33,restaurant,Cannes,,,,43.553118,7.0216558
+12645405761,node,Yann's,restaurant,Cannes,,,,43.5531105,7.0213353
+12771917701,node,Jamîn,restaurant,Cannes,"4 Rue des Belges, 06400",06400,https://jamin-cannes.com/,43.5519984,7.0190812
+12831884121,node,Le Molière,hotel,Cannes,"5 Rue Molière, 06400, Cannes",06400,https://hotel-moliere.com/,43.5520335,7.0253093
+12959760392,node,Juliana Hotel Cannes,hotel,Cannes,,,,43.5483793,7.0340351
+13132994998,node,Federal,restaurant,Cannes,"5 Rue Helene Vagliano, 06400, Cannes",06400,,43.5529655,7.0214698
+13132994999,node,Fervor,restaurant,Cannes,"5 Rue des Frères Casanova, 06400, Cannes",06400,,43.5528393,7.0196778
+13132995000,node,Rebelion,restaurant,Cannes,"3 Rue des Frères Casanova, 06400, Cannes",06400,,43.5527313,7.0196801
+13543255222,node,La Cave,restaurant,Cannes,,,https://www.lacavecannes.com,43.5528582,7.0247948
+13638749471,node,côté jardin,restaurant,Cannes,12,,,43.5567612,7.0148222
+13638769028,node,su rice,restaurant,Cannes,53,,,43.5585242,7.0166364
+13685922672,node,Hôtel Regina,hotel,Cannes,,,,43.54953,7.0291974
+13685961829,node,Broasted,restaurant,Cannes,,,,43.5492333,7.028862
+13685993040,node,Beryte,restaurant,Cannes,,,,43.5491395,7.0288427
+13685994652,node,Banana Blue,restaurant,Cannes,,,,43.549322,7.0288689
+13685996524,node,Le Jade,restaurant,Cannes,,,,43.5492741,7.0288648
+13690095901,node,Hotel Athenée,hotel,Cannes,"6 Rue Lecerf, 06400",06400,https://www.hotel-athenee-cannes.fr/,43.5527886,7.0255445
+13694662299,node,Bozen,restaurant,Cannes,,,,43.5499438,7.0305385
+13694677381,node,Le Chaophraya,restaurant,Cannes,,,,43.5495532,7.0303315
+13694679439,node,Hop Sushi,restaurant,Cannes,,,,43.5497796,7.0305674
+13695539269,node,Bouillon des artistes,restaurant,Cannes,,,,43.5503197,7.0119418
+13695568092,node,Ô Choubouloute,restaurant,Cannes,,,,43.5497946,7.0120751
+13697654735,node,7Art,hotel,Cannes,,,,43.5536954,7.0167914
+13697656092,node,Love Café,restaurant,Cannes,,,,43.5529845,7.02107
+13697662418,node,Kabayan,restaurant,Cannes,,,,43.553599,7.0167541
+13698116043,node,Aux délices arméniens,restaurant,Cannes,,,,43.5533391,7.0233234
+13698740401,node,Zuma Cannes,restaurant,Cannes,"Place Franklin Roosevelt, 06400",06400,https://www.zumarestaurant.com/,43.5360743,7.0376555
+13871211701,node,Medami,restaurant,Cannes,"30 Rue Hoche, 06400",06400,https://www.medamicannes.com/,43.5529591,7.0217487

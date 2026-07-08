@@ -1,0 +1,199 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+611756372,node,Crêperie La Tourelle,restaurant,Troyes,"9 Rue Champeaux, 10000, Troyes",10000,,48.2966789,4.073485
+725153865,node,Rosaparks,restaurant,Troyes,"35 Rue Champeaux, 10000, Troyes",10000,https://www.rosaparks.fr/,48.2961338,4.0723208
+725153870,node,Restaurant de l'Alhambra,restaurant,Troyes,"31 Rue Champeaux, 10000, Troyes",10000,https://www.restaurant-fenek.fr/,48.2962077,4.0724721
+725154095,node,Grill Saint-Jean,restaurant,Troyes,"21, 23 Rue Champeaux, 10000, Troyes",10000,,48.2963534,4.0729147
+748209837,node,Le Magny,hotel,Troyes,"Route de Tonnerre, 10340, Les Riceys",10340,https://www.hotel-lemagny.com/,47.9844419,4.3600861
+828910771,node,Bistrot,restaurant,Troyes,,,,48.2126707,4.2406862
+863648712,node,Le Viny,restaurant,Troyes,,,,48.2643157,4.0389735
+867191013,node,Midi O Halles,restaurant,Troyes,"11 Place Saint-Rémy, 10000, Troyes",10000,,48.2987522,4.0752795
+867346261,node,,restaurant,Troyes,,,,48.2949761,4.0638764
+867396514,node,Palais d'Asie,restaurant,Troyes,,,,48.292411,4.0738989
+1113870059,node,L'Auberge de la Seine,restaurant,Troyes,,,,48.1483098,4.2660434
+1114108977,node,Restaurant du Commerce,restaurant,Troyes,,,,48.1143111,4.3742774
+1260601724,node,Le Melda,restaurant,Troyes,,,,48.4000798,3.9877707
+1326212283,node,La Mangeoire,hotel,Troyes,,,,48.2392519,4.3007942
+1373589372,node,Le Phuket,restaurant,Troyes,,,,48.298508,4.0726149
+1389335447,node,Kaido,restaurant,Troyes,,,,48.2950414,4.0715319
+1395882189,node,Speed Rabit Pizza,restaurant,Troyes,,,,48.304896,4.0919208
+1450886596,node,Hippopotamus,restaurant,Troyes,,,,48.2930547,4.0794186
+1482729654,node,Le Marius,restaurant,Troyes,"2 Place de l'Église, 10340, Ricey-les-Bas",10340,https://www.hotel-le-marius.com/restaurant.html,48.0044639,4.3685027
+1674779898,node,Auberge sans Nom,restaurant,Troyes,,,https://www.aubergesansnom.fr/,48.0584524,4.1374585
+1759894473,node,Hôtel du Cirque,hotel,Troyes,"5 Rue de Preize, 10000, Troyes",10000,https://www.hotelducirque.com/,48.3008977,4.0742082
+1782739831,node,Le Germinois-Restaurant,restaurant,Troyes,,,,48.2578386,4.0301768
+1785008631,node,La Bonne Fermière,restaurant,Troyes,"83 Avenue du Général Leclerc, 10450, Bréviandes",10450,http://www.hotel-troyes.net/,48.2563119,4.0958981
+1785008636,node,La Bonne Fermière,hotel,Troyes,"Place de l'Église, 10450, Bréviandes",10450,http://www.hotel-troyes.net/,48.2564372,4.0964149
+1785311302,node,Hôtel Campanile Troyes Sud - Buchères,hotel,Troyes,"52 Avenue des Martyrs du 24 Août 1944, 10800, Buchères",10800,www.campanile-troyes-sud-bucheres.fr,48.2472303,4.1025401
+1791730035,node,Première Classe Troyes Sud - Parc Saint Thibault,hotel,Troyes,"ZAC l'Ecluse des Marots, 10800, Buchères",10800,https://troyes-sud-parc-st-thibault.premiereclasse.com/,48.2251183,4.1331923
+1791730073,node,Brasserie de l'Horloge,restaurant,Troyes,"Rue des Azalées, Buchères",,,48.2255808,4.1326867
+1792086286,node,Le Luange,restaurant,Troyes,,,,48.3206737,4.0355952
+1792086289,node,Bambou,restaurant,Troyes,,,,48.323186,4.0339425
+1799105685,node,L'accrobar,restaurant,Troyes,,,,48.3294818,4.1035936
+1806369114,node,Bistrot Dupont,restaurant,Troyes,,,http://bistrotdupont.com/,48.3143695,4.0983838
+1867960793,node,Hôtel Mister Bed,hotel,Troyes,,,,48.2916259,4.0145866
+1902683999,node,Hôtel Aux Maisons,hotel,Troyes,"11 Rue des Anciens Combattants d'Afrique du Nord, 10210, Maisons-lès-Chaource",10210,,48.0086057,4.1664198
+1960930869,node,Auberge du Père Tranquille,restaurant,Troyes,,,,48.215135,4.096274
+1984565866,node,Relais Saint-Jean,hotel,Troyes,"51 Rue Paillot de Montabert, 10000, Troyes",10000,www.relais-st-jean.com,48.2969041,4.0732453
+2041739934,node,Poivre Rouge,restaurant,Troyes,,,https://restaurants-grill.poivre-rouge.com/Aube-10/saint-julien-les-villas/restaurant-saint-julien-les-villas-30341,48.2817799,4.0958438
+2043316018,node,C'Restaurant,restaurant,Troyes,,,,48.2727266,4.0924152
+2045644755,node,La Boule d'Or,restaurant,Troyes,,,,48.2690435,4.1034844
+2138844891,node,Chez Carmen,restaurant,Troyes,"12 Rue Pithou, 10000, Troyes",10000,https://www.facebook.com/chezcarmen.troyes/,48.2983689,4.0754013
+2283535146,node,Hôtel Auberge Du Lac,hotel,Troyes,"5 Rue du 28 Août 1944, 10140",10140,https://www.auberge-du-lac.fr/,48.2482966,4.3328847
+2308533544,node,Au Vieux Logis,restaurant,Troyes,,,,48.3578151,4.3981341
+2361347454,node,RU,restaurant,Troyes,"10000, Troyes",10000,,48.2680308,4.0704882
+2375187166,node,Le Damier,restaurant,Troyes,,,,48.2974707,4.071242
+2408861787,node,Le Bar à Crêpes,restaurant,Troyes,,,,48.2986452,4.1153064
+2409740697,node,Le Sarrail,restaurant,Troyes,,,,48.3110284,4.051223
+2416022050,node,Cafeteria de l'UTT,restaurant,Troyes,,,,48.2688255,4.0673538
+2421405552,node,Croq Pizza,restaurant,Troyes,,,,48.2743824,4.0584235
+2465552595,node,Crêpe Touch,restaurant,Troyes,,,,48.3059018,4.0239148
+2465552613,node,Hollys,restaurant,Troyes,,,,48.3054748,4.0239028
+2712494481,node,L'Odyssée,restaurant,Troyes,"19 Place Alexandre Israël, 10000, Troyes",10000,,48.2970415,4.074279
+2914302525,node,Etoile de Troyes,restaurant,Troyes,,,http://www.etoiledetroyes.com/,48.2751468,4.0838537
+2914344750,node,La Rose Des Sables,restaurant,Troyes,,,,48.2986344,4.0778108
+2986079571,node,Flunch,restaurant,Troyes,,,,48.2830603,4.0542456
+3078543251,node,Le Cafe de Foy,restaurant,Troyes,"13 Place Maréchal Foch, 10000, Troyes",10000,,48.2969587,4.0756015
+3078555045,node,Best Western Premier,hotel,Troyes,"35 Rue Émile Zola, 10000, Troyes",10000,https://www.bestwestern.fr/fr/hotel-Troyes-Best-Western-De-La-Poste-93364,48.2969034,4.0758778
+3078627140,node,La Traversée de Paris,restaurant,Troyes,,,restaurant-la-traversee-de-paris.fr,48.2947226,4.0634726
+3181290126,node,Dolce Italia,restaurant,Troyes,"3 Place du Professeur Langevin, 10000, Troyes",10000,,48.2959807,4.0758662
+3210790070,node,,restaurant,Troyes,,,,48.234961,4.0786287
+3671174444,node,BHV Bistrot de l'hôtel de ville,restaurant,Troyes,,,,48.2979401,4.0733186
+3775473274,node,Le Coq au Vin,restaurant,Troyes,,,,47.9551512,4.0173385
+3799408074,node,Saveur d'Asie 3,restaurant,Troyes,,,,48.2949109,4.0688869
+3812644282,node,La Prunelle,restaurant,Troyes,,,,48.3054251,4.0915173
+3812714846,node,Chez Dominique,restaurant,Troyes,,,,48.3041511,4.0877137
+3812716969,node,,restaurant,Troyes,,,,48.3041978,4.0878668
+3822992411,node,Résidence Pierre,hotel,Troyes,25 Rue Pierre Curie,,,48.2535494,4.0563914
+3994487092,node,Arlequin,hotel,Troyes,"50 Rue de Turenne, 10000, Troyes",10000,https://www.hotelarlequin.com/,48.2936175,4.0730553
+4065412873,node,Les Crêpes à Roulettes,restaurant,Troyes,,,https://www.facebook.com/crepesaroulettes,48.0753351,3.9665322
+4079947020,node,Hôtel de Troyes,hotel,Troyes,"168 Avenue Général Leclerc, 10000, Troyes",10000,https://www.hoteldetroyes.com/,48.3078894,4.0570097
+4140380146,node,Hôtel Le Splendid,hotel,Troyes,"44 Boulevard Carnot, 10000, Troyes",10000,https://hotel-lesplendid.fr/,48.2952656,4.067105
+4185733411,node,O'maries,restaurant,Troyes,"56A Grande Rue, 10190",10190,https://www.facebook.com/Omaries-737405146368677/,48.2528352,3.7215906
+4202638507,node,Pizzeria Bar,restaurant,Troyes,,,,48.0580964,4.1375041
+4279782191,node,La SOUPréf errante,restaurant,Troyes,17 Place de la Libération,,https://lasoupreferrante.fr/,48.2975926,4.0773923
+4285039873,node,Crêpe Touch,restaurant,Troyes,,,,48.3057549,4.0240849
+4325665921,node,La Boucherie,restaurant,Troyes,,,https://www.la-boucherie.fr/,48.2947665,4.1317324
+4325665922,node,Memphis,restaurant,Troyes,,,https://memphis-coffee.com,48.294894,4.1317968
+4332251852,node,Au Champenois,restaurant,Troyes,,,,48.3639061,4.334068
+4333573123,node,Le jardin,restaurant,Troyes,"31 Rue Paillot de Montabert, 10000, Troyes",10000,,48.2971497,4.0729623
+4333621206,node,Little Korea,restaurant,Troyes,"67 Rue Urbain IV, 10000, Troyes",10000,,48.2966629,4.0744557
+4333681811,node,Aux Crieurs de Vin,restaurant,Troyes,"4 Place Jean Jaurès, 10000, Troyes",10000,https://www.auxcrieursdevin.fr/,48.2951162,4.0713526
+4333681818,node,La Table de François,restaurant,Troyes,"18 Rue Juvénal des Ursins, 10000, Troyes",10000,https://www.latabledefrancois.fr/,48.2953066,4.0714741
+4333681819,node,Indien Paradis,restaurant,Troyes,"17 Rue Jules Lebocey, 10000, Troyes",10000,,48.2987697,4.0723789
+4333681820,node,Restaurant Le Rocher,restaurant,Troyes,"37 Rue Jules Lebocey, 10000, Troyes",10000,http://restaurantlerocher.fr,48.2983972,4.0715347
+4333709135,node,Bistrot Nouveau Troyes,restaurant,Troyes,24 Rue Georges Clemenceau,,https://www.bistrotnouveau.com/,48.2985498,4.0766591
+4333709136,node,Au Libanais,restaurant,Troyes,"20 Rue Georges Clemenceau, 10000, Troyes",10000,,48.2986252,4.0768603
+4334145558,node,Le 20130,restaurant,Troyes,"4 Rue Pithou, 10000, Troyes",10000,,48.29864,4.0752238
+4334145568,node,Saveur et Félicité,restaurant,Troyes,"15 Rue Georges Clemenceau, 10000, Troyes",10000,http://optiqueclemenceau.lesopticienslibres.fr,48.2986286,4.077119
+4335086757,node,Maxime,restaurant,Troyes,"5 Place du Marché au Pain, 10000, Troyes",10000,https://www.facebook.com/Restaurant-Maxime-Troyes-1516296431961855/,48.2960099,4.0732881
+4335166266,node,Le Bistrot de l'Artot,restaurant,Troyes,"52 Rue du Général Saussier, 10000, Troyes",10000,https://www.facebook.com/lebistrotdelartot/,48.2941473,4.0732909
+4335166271,node,Un coin d'Italie,restaurant,Troyes,"48 Rue du Général Saussier, 10000, Troyes",10000,http://uncoinditalie.fr,48.2943293,4.0734712
+4335283806,node,La brasserie des Vosges,restaurant,Troyes,"61 Rue de Turenne, 10000, Troyes",10000,http://la-brasserie-des-vosges.fr,48.2933322,4.07343
+4335427903,node,Le Moine Gourmand,restaurant,Troyes,"71 Rue Raymond Poincaré, 10000, Troyes",10000,http://lemoinegourmand.over-blog.com,48.2948413,4.0782002
+4335542256,node,Tout Simplement,restaurant,Troyes,"29 Place Alexandre Israël, 10000, Troyes",10000,https://www.resto-toutsimplement.fr/,48.2968618,4.0740018
+4335571715,node,L'Annexe Tout Simplement,restaurant,Troyes,"25 Place Alexandre Israël, 10000, Troyes",10000,http://www.lannexe-toutsimplement.fr,48.2969179,4.0740689
+4335571717,node,L'Odyssée,restaurant,Troyes,"19 Place Alexandre Israël, 10000, Troyes",10000,,48.2969444,4.074107
+4335571727,node,Rouge et Noir,restaurant,Troyes,"13 Rue Champeaux, 10000, Troyes",10000,,48.2965691,4.0732562
+4335571728,node,Vlora,restaurant,Troyes,"15 Rue Champeaux, 10000, Troyes",10000,,48.2965338,4.073191
+4335592742,node,Five Pizza,restaurant,Troyes,"34 Rue Champeaux, 10000, Troyes",10000,,48.2963146,4.072491
+4335592743,node,Crêperie La Rozelle,restaurant,Troyes,"29 Rue Champeaux, 10000, Troyes",10000,,48.2962392,4.0725384
+4335592752,node,Mademoiselle Anna,restaurant,Troyes,"30 Rue Champeaux, 10000, Troyes",10000,,48.2963897,4.0726284
+4335648645,node,La Kasbah,restaurant,Troyes,"37-39 Rue Molé, 10000, Troyes",10000,https://la-kasbah.com/,48.2960408,4.0726326
+4335665205,node,La Fille du Potager,restaurant,Troyes,"82 Rue Urbain IV, 10000, Troyes",10000,http://lafilledupotager.fr,48.296054,4.0729862
+4335702204,node,Restaurant Urbain IV,restaurant,Troyes,,,http://www.restaurant-urbain4.fr,48.2966197,4.0743743
+4336735422,node,Restaurant Inter-Administratif de l'Aube,restaurant,Troyes,"53 Boulevard du 14 Juillet, 10000, Troyes",10000,https://ariatroyes.fr.nf/,48.2930816,4.0757626
+4336921098,node,Café du Midi,restaurant,Troyes,,,,48.3019128,4.0748757
+4695181363,node,,restaurant,Troyes,,,,48.2924434,4.0412675
+4695190410,node,Le Petit Bedon,restaurant,Troyes,,,,48.2943084,4.0585368
+4695190417,node,Original Burger,restaurant,Troyes,,,,48.2943445,4.059012
+4695190420,node,Le Barabulle,restaurant,Troyes,,,,48.2944665,4.060294
+4883315290,node,La Table d'Antan,restaurant,Troyes,"31 Rue Principale, 10320, Crésantignes",10320,,48.1422876,4.0157899
+5077070652,node,Auberge de la Prairie,restaurant,Troyes,,,,48.0254326,3.9131404
+5167200721,node,Le Vénitien,restaurant,Troyes,,,,48.2929303,4.0473248
+5207948031,node,Céladon,restaurant,Troyes,28,,,48.3323287,4.1266559
+5207948462,node,PizzaBio,restaurant,Troyes,,,,48.3326393,4.1265252
+5360012656,node,L'Oriental,restaurant,Troyes,,,,48.304499,4.0714055
+5360012669,node,Allocodrome,restaurant,Troyes,"9 Avenue Major Général Georges Vanier, 10000, Troyes",10000,,48.3022451,4.0738537
+5463097925,node,Le Clos Guivet,hotel,Troyes,"7 Rue Joseph Alexandre Guivet, 10000",10000,,48.2938675,4.070777
+5595818824,node,Pizza du Lac,restaurant,Troyes,,,,48.3016931,4.3366066
+5612193667,node,Les voiles,restaurant,Troyes,,,,48.2627145,4.3453422
+5698535953,node,Zenao Aparthotel,hotel,Troyes,,,,48.3045132,4.0797472
+5782553029,node,Le Phenix,restaurant,Troyes,,,,48.2546471,4.2691584
+5784613053,node,Le Pont de l'Aube,hotel,Troyes,,,,48.537806,4.142213
+5784613153,node,La Pomme d'Or,restaurant,Troyes,,,,48.5366759,4.1415987
+5839709885,node,Auberge de Sainte-Maure,restaurant,Troyes,,,,48.3447054,4.0608302
+5908434276,node,Hôtel de la Gare,hotel,Troyes,,,,48.2968112,4.0662834
+5908434278,node,Le Royal,hotel,Troyes,"4 Boulevard Carnot, 10000, Troyes",10000,https://troyes-royal.brithotel.fr/,48.2959065,4.0667491
+6000952206,node,Les Comtes de Champagne,hotel,Troyes,"54-56 Rue de la Monnaie, 10000, Troyes",10000,https://hotel-troyes.brithotel.fr/,48.2953945,4.0699439
+6030344975,node,Cantine Scolaire,restaurant,Troyes,"Rue Eugénie Geoffroy, 10190, Estissac",10190,,48.2655763,3.8085536
+6242606182,node,Crêperie Ferme de la Renaissance,restaurant,Troyes,"51 Rue Caroujat Borgniat, 10190, Estissac",10190,,48.2515401,3.8205879
+6246529650,node,Domaine de la Forêt d'Orient,hotel,Troyes,,,https://domaine-foret-orient.com,48.3240166,4.3053655
+6249028737,node,B&B Hôtel,hotel,Troyes,"8 Rue Voltaire, 10000, Troyes",10000,https://www.lezadig.fr/,48.2950149,4.0660651
+6466103459,node,La Terverne Fischer,restaurant,Troyes,,,,48.1145692,4.3760911
+6466103460,node,AU feu de bois,restaurant,Troyes,,,,48.1147285,4.3731326
+6466103461,node,Joly Patricia,restaurant,Troyes,,,,48.1147679,4.3732828
+6466103463,node,L'Espérance,restaurant,Troyes,,,,48.1139281,4.3770593
+6935275572,node,KantinetiK,restaurant,Troyes,"17–19 Rue Colonel Driant, 10000, Troyes",10000,https://kantinetik.business.site,48.2947498,4.0685539
+7199689139,node,Namaste India,restaurant,Troyes,"23 Rue Urbain IV, 10000, Troyes",10000,https://namasteindiatroyes.fr/,48.2975936,4.0760647
+7236283973,node,L'Anima,restaurant,Troyes,,,,48.2985432,4.0752656
+7274235008,node,Soleil de l'Inde,restaurant,Troyes,"33 Rue de la Cité, 10000, Troyes",10000,https://soleildelinde.com/,48.2997013,4.0791307
+7358612453,node,Claire & Hugo,restaurant,Troyes,,,https://www.claireethugo.fr/,48.2937362,4.0538217
+7538600159,node,To Tzaki,restaurant,Troyes,,,,48.292962,4.0711307
+7661648686,node,Château de Brantigny,hotel,Troyes,,,,48.3736931,4.3587766
+7698451384,node,Le Sancéen,restaurant,Troyes,,,,48.267895,4.0910103
+7739771243,node,L'Alsa' Flamm,restaurant,Troyes,,,,48.2581423,4.0607813
+8119415841,node,Signorizza,restaurant,Troyes,,,https://restaurant-pizzeria.signorizza.com/store/signorizza-troyes-troyes-11713,48.3049875,4.0722125
+8126998333,node,L'atelier lahmacun,restaurant,Troyes,"5 Rue Georges Clemenceau, 10000, Troyes",10000,https://www.facebook.com/latelierlahmacun/,48.2987435,4.0774194
+8144073606,node,L'adriatik,restaurant,Troyes,"21 Rue de la Cité, 10000, Troyes",10000,,48.2995241,4.0786921
+8144073614,node,L'Augustave,restaurant,Troyes,,,,48.2985171,4.0755178
+8144098118,node,Sushi Yaki,restaurant,Troyes,,,,48.2949026,4.0696075
+8832037326,node,La Campagn'Othe,restaurant,Troyes,,,,48.2224268,3.9246982
+8894388596,node,La Pataterie,restaurant,Troyes,,,,48.3018612,4.1348332
+8894388601,node,Wok 88,restaurant,Troyes,,,,48.3013989,4.1349956
+8911558094,node,L'atelier Savoir & Saveur,restaurant,Troyes,,,,48.2998005,4.1111324
+9004233017,node,Le Garde Champêtre,restaurant,Troyes,"50 Route des Riceys, 10250",10250,http://www.legardechampetre.fr,48.0278906,4.4235206
+9375858670,node,Roma Nostra,restaurant,Troyes,,,,48.2644349,4.0391426
+9776913006,node,Le farniente,restaurant,Troyes,,,,48.2355745,3.7005914
+9797965552,node,B&B,hotel,Troyes,,,,48.2930674,4.0759001
+9861703065,node,L'Andion,restaurant,Troyes,,,,48.0408541,4.6670812
+9906212890,node,L'Auberge de la Vanne,restaurant,Troyes,,,https://laubergedelavanne.eatbu.com/?lang=fr,48.2787082,3.8734169
+9986497924,node,Le Relais de Creney,restaurant,Troyes,49,,,48.3318963,4.1337855
+10047502304,node,Yen Gourmet,restaurant,Troyes,,,,48.2680887,4.0708279
+10123290993,node,domaine de foolz,restaurant,Troyes,"10110, Bourguignons",10110,https://domainedefoolz.com/,48.1360543,4.3402487
+10123290994,node,Domaine de Foolz,hotel,Troyes,,,https://domainedefoolz.com/,48.135272,4.3401575
+10178595318,node,Au Vieux Logis,hotel,Troyes,1 Rue de Piney,,,48.3578099,4.398066
+10253207946,node,Self lycée la Salle,restaurant,Troyes,,,,48.2975252,4.0809917
+10716331805,node,,restaurant,Troyes,,,,48.29674,4.0723841
+10716331806,node,Bam,restaurant,Troyes,,,,48.296554,4.0720349
+10716382205,node,Le quai de Champagne,restaurant,Troyes,"1 Bis Quai des Comtes de Champagne, 10000",10000,https://www.le-quai-de-champagne.fr/,48.3004082,4.0759777
+10862536822,node,L'Atlas du Maroc,restaurant,Troyes,73 Boulevard Blanqui,,,48.303237,4.0523572
+10864960798,node,Monsieur Tacos,restaurant,Troyes,,,,48.2671114,4.0859325
+10864960799,node,Lak’s Tacos,restaurant,Troyes,,,,48.2669191,4.0861251
+10878077149,node,Le Petit Champenois,restaurant,Troyes,,,,48.2547758,4.2673901
+10969198805,node,3 Brasseurs,restaurant,Troyes,"54 Place Jean Jaurès, 10000",10000,https://restaurants.3brasseurs.com/fr/3-brasseurs-troyes,48.2944245,4.0697794
+11037119170,node,Végétal,restaurant,Troyes,,,,48.2966515,4.0724316
+11091739873,node,Caffè Cosi,restaurant,Troyes,,,https://www.caffecosi-caironi.com/,48.2944554,4.068742
+11091739893,node,Mourouj,restaurant,Troyes,,,,48.2968121,4.0676518
+11135916405,node,Pierre & Clément,restaurant,Troyes,,,https://pierreetclement.fr/,48.2970676,4.0719256
+11161586005,node,Le Pan du Bois,hotel,Troyes,"35 Avenue du Général Leclerc, 10450",10450,https://www.lepandebois.fr/,48.2622043,4.094022
+11161594105,node,Le Pan du Bois,restaurant,Troyes,"35 Avenue du Général Leclerc, 10450",10450,https://www.lepandebois.fr/,48.2620525,4.0933956
+11178424656,node,Restaurant du Centre,restaurant,Troyes,,,,48.2304584,4.3046397
+11196093439,node,Coeur de Village,restaurant,Troyes,17 Rue du 28 Août 1944,,,48.2493485,4.3350454
+11822056952,node,L’Atelier Du Bœuf,restaurant,Troyes,,,,48.3307895,4.0998416
+12056067345,node,Koboon,restaurant,Troyes,90 rue Urbain IV,,https://www.koboon-resto.fr/troyes,48.2959568,4.0727934
+12078182783,node,Barrio Latino,restaurant,Troyes,,,,48.294945,4.0742876
+12258082402,node,"Hôtel Restaurant ""Au cœur des Bulles""",hotel,Troyes,,,https://www.ocoeurdesbulles.com/,48.0640146,4.5029156
+12459515526,node,L'Isarosa,restaurant,Troyes,,,,48.6711498,4.1961288
+12599149564,node,Chez Daniel's,restaurant,Troyes,,,https://www.chezdaniels.com/,48.2960587,4.0726943
+12945143407,node,,restaurant,Troyes,,,,47.977195,4.4995502
+12998893057,node,,restaurant,Troyes,,,,48.329282,4.1083573
+13067644917,node,Pizzeria Noto,restaurant,Troyes,,,,48.2734454,3.8016145
+13144073231,node,El Mailess,restaurant,Troyes,,,,48.2999723,4.0800338
+13356171455,node,Le Clos des Cadoles,hotel,Troyes,,,,47.9956367,4.3687356
+13513379768,node,OKKO HOTELS Troyes Centre,hotel,Troyes,"12 Boulevard Carnot, Troyes",,https://okkohotels.com,48.2965644,4.066438
+13718314837,node,Casa di sicile,restaurant,Troyes,"16 Rue des Vannes, 10160, Aix-Villemaur-Pâlis",10160,,48.2217393,3.7322243
+13758260593,node,Le resto d'Evane,restaurant,Troyes,,,,48.2217305,3.7324911
+13823951237,node,L ateliers brasserie,restaurant,Troyes,,,,48.212177,3.7468046
+13893906862,node,Le Chat Noir,restaurant,Troyes,"12 Rue Champeaux, 10000, Troyes",10000,,48.2967802,4.0734179
+13943151714,node,L'Illustré,restaurant,Troyes,"8 Rue Champeaux, 10000, Troyes",10000,,48.2968413,4.0736072
+13952192194,node,Alba Hôtel Lac d'Orient,hotel,Troyes,"7 Rue de la Basse Bataille, 10140, Mesnil Saint Père",10140,https://www.hotelclublacdorient.com/,48.2553254,4.3425505

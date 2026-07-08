@@ -1,0 +1,378 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+493876994,node,Le Pavillon,restaurant,Le Havre,,,https://www.restaurant-le-pavillon-fecamp.fr/,49.7593784,0.3614846
+551434967,node,Crêperie Au Petit Breton,restaurant,Le Havre,"11 Rue Dauphine, 76600, Le Havre",76600,,49.4886735,0.1118583
+551434985,node,La Bigouden,restaurant,Le Havre,"88 Rue de Bretagne, 76600, Le Havre",76600,,49.488511,0.1146115
+551435016,node,La Croisette,restaurant,Le Havre,"29 Rue Guillemard, 76600, Le Havre",76600,,49.4959442,0.0939589
+551435062,node,Brasserie Georges.B,restaurant,Le Havre,"1 Rue Frédéric Bellanger, 76600, Le Havre",76600,https://brasserie-georges-b.fr/,49.4958607,0.0944256
+551445377,node,La Braise Gourmande,restaurant,Le Havre,"12 Rue Jean de La Fontaine, 76600, Le Havre",76600,,49.4879101,0.1129595
+551445380,node,Le Nuage dans la Tasse,restaurant,Le Havre,,,http://lenuagedanslatasse.com/,49.4937505,0.1042357
+551445384,node,La taverne Paillette,restaurant,Le Havre,,,,49.4953431,0.1032056
+828950331,node,Campanile,hotel,Le Havre,,,,49.5337715,0.1870905
+1070438393,node,Le Cordon Bleu,hotel,Le Havre,,,,49.5017082,0.2171022
+1400446164,node,Hôtel Normand,hotel,Le Havre,,,,49.7387392,0.3120948
+1400446167,node,,restaurant,Le Havre,,,,49.7387674,0.3123067
+1472085194,node,Pickles Burger,restaurant,Le Havre,"35 Rue Pierre Guinard, 76600, Le Havre",76600,,49.4852969,0.1304972
+1688159723,node,Les brochettes de Sam,restaurant,Le Havre,"98 Rue Saint-Jacques, 76600, Le Havre",76600,,49.4871802,0.1102793
+1691657890,node,Le Bistrot des grands bassins,restaurant,Le Havre,"23 Boulevard de l'Amiral Mouchez, 76600, Le Havre",76600,https://www.lebistrotdesgrandsbassins.fr/,49.4843955,0.1315331
+1715984194,node,Restaurant Brasserie du Pasino,restaurant,Le Havre,,,https://www.pasinohotellehavre.com/en/restaurant-bar/the-brasserie-du-pasino,49.4912507,0.1117954
+1801817365,node,Le P'ti Parisien,restaurant,Le Havre,"51 Rue Jules Siegfried, 76600, Le Havre",76600,,49.4922973,0.1119459
+1817609468,node,Roméo,restaurant,Le Havre,"48, 76600, Le Havre",76600,,49.4954301,0.0944788
+1867028932,node,Babayoshi,restaurant,Le Havre,"34 Rue Édouard Herriot, 76600, Le Havre",76600,https://babayoshi.fr/,49.496253,0.1085626
+1867052417,node,Aub'Art,restaurant,Le Havre,,,,49.4917285,0.1094821
+1867054199,node,Best western Art hôtel,hotel,Le Havre,"147 Rue Louis Brindeau, 76600, Le Havre",76600,https://www.art-hotel.fr/,49.4912002,0.1065071
+1867061061,node,Le Central,restaurant,Le Havre,"98 Rue Victor Hugo, 76600, Le Havre",76600,,49.4916432,0.1058105
+1867072831,node,Brasserie de Normandie,restaurant,Le Havre,"33 Rue Racine, 76600, Le Havre",76600,,49.4906097,0.1056197
+1867073176,node,Le Grignot,restaurant,Le Havre,"53 Rue Racine, 76600, Le Havre",76600,https://www.legrignot.fr/,49.4909329,0.1056469
+1867073740,node,Le Patio,restaurant,Le Havre,"17 Rue Racine, 76600, Le Havre",76600,,49.4903429,0.1056
+1867082773,node,Le Bistrot des Halles,restaurant,Le Havre,,,https://www.le-bistrot-des-halles-le-havre.com/,49.490231,0.1037923
+1867109993,node,Ô village,restaurant,Le Havre,"138 Rue Victor Hugo, 76600, Le Havre",76600,https://www.ovillage-brunch.com/,49.4916224,0.1082667
+1867110558,node,Hôtel et Spa Vent d'Ouest,hotel,Le Havre,"4 Rue de Caligny, 76600, Le Havre",76600,https://www.ventdouest.fr/fr/,49.4913783,0.1007815
+1867201751,node,Le Marignan,hotel,Le Havre,"211-213 Boulevard de Strasbourg, 76600, Le Havre",76600,https://www.lemarignanhotel.com/,49.4923501,0.1230654
+1867204651,node,Marie Blachère,restaurant,Le Havre,,,,49.4923187,0.1246312
+1867234708,node,Hôtel du Pasino du Havre,hotel,Le Havre,,,http://www.lehavrehotel.fr/,49.4913744,0.1117003
+1867440334,node,Hôtel Richelieu,hotel,Le Havre,132 Rue de Paris,,,49.4888102,0.1076957
+1867485839,node,Salvatore,restaurant,Le Havre,"6 Rue Bernardin de Saint-Pierre, 76600, Le Havre",76600,,49.489506,0.1051982
+1867491210,node,Brasserie des Halles,restaurant,Le Havre,,,,49.4906318,0.1038187
+1867501355,node,Osaka,restaurant,Le Havre,"58 Quai Michel Féré, 76600, Le Havre",76600,http://www.japonosakalehavre.fr/,49.4896743,0.1113184
+1867510582,node,Creole Kafé,restaurant,Le Havre,"11 Rue du Général Faidherbe, 76600, Le Havre",76600,,49.4878933,0.1119268
+1867512965,node,Kimchi,restaurant,Le Havre,"1 Rue du Général Faidherbe, 76600, Le Havre",76600,https://www.kimchilehavre.fr/,49.4879786,0.111688
+1867523188,node,Ibis Le Havre Centre,hotel,Le Havre,"5 Rue du Cent Vingt Neuvième, 76600, Le Havre",76600,https://all.accor.com/ssr/app/ibis/rates/1123/index.en.shtml,49.4916688,0.1186438
+1867528738,node,Krousty sabaïdi,restaurant,Le Havre,"104 Cours de la République, 76600, Le Havre",76600,https://www.kroustyresto.fr/,49.4972763,0.1281344
+1867545211,node,Le Famosa,restaurant,Le Havre,,,,49.4920569,0.1348938
+1867581924,node,La Mian,restaurant,Le Havre,"7 Rue Jean-Baptiste Eyriès, 76600, Le Havre",76600,,49.4932625,0.1166042
+1971622781,node,Buffalo Grill,restaurant,Le Havre,,,,49.5222125,0.1906701
+1977661980,node,Soleil vert,restaurant,Le Havre,,,,49.4978346,0.1117162
+2013745705,node,Crêperie Coty,restaurant,Le Havre,"22 Rue Casimir Périer, 76600, Le Havre",76600,,49.4961244,0.1122047
+2014622798,node,La Sirène,restaurant,Le Havre,"49 Rue du Docteur Cousture, 76600, Le Havre",76600,,49.4955626,0.0967863
+2014631160,node,Le Diapason,restaurant,Le Havre,"8 Rue Bernardin de Saint-Pierre, 76600, Le Havre",76600,https://restaurant-le-diapason.fr/,49.4895683,0.1052031
+2014632189,node,Le Deauville,restaurant,Le Havre,,,,49.495439,0.1094001
+2017595678,node,Sant'Anna,restaurant,Le Havre,"83 Quai de Southampton, 76600, Le Havre",76600,https://santanna.fr/,49.4865411,0.1105302
+2017595683,node,À l'Ardoise,restaurant,Le Havre,"85 Quai de Southampton, 76600, Le Havre",76600,https://www.lardoise-lehavre.fr/,49.4865691,0.1106002
+2017644509,node,Country Club,restaurant,Le Havre,"26 Rue du Fort, 76620, Le Havre",76620,,49.5021744,0.0957422
+2017661931,node,,restaurant,Le Havre,,,,49.5000923,0.1343392
+2017705362,node,Hôtel Parisien,hotel,Le Havre,"1 Cours de la République, 76600, Le Havre",76600,,49.4924223,0.1235931
+2030557773,node,Le Taj Mahal,restaurant,Le Havre,"23 Rue Jean de La Fontaine, 76600, Le Havre",76600,https://www.restaurant-taj-mahal.fr/,49.4881939,0.1128543
+2111040629,node,Le grand carrefour,restaurant,Le Havre,"54 Rue du Général Faidherbe, 76600, Le Havre",76600,,49.4873019,0.1133639
+2111044453,node,La Cabane Maltée,restaurant,Le Havre,,,,49.4889736,0.1123558
+2111044991,node,La P'tite Savoie,restaurant,Le Havre,"33 Rue de Bretagne, 76600, Le Havre",76600,,49.4890677,0.112628
+2111046141,node,Brother's kitchen,restaurant,Le Havre,,,,49.4891616,0.1128274
+2111046376,node,L’Anecdote,restaurant,Le Havre,"5 Rue Saint-Louis, 76600, Le Havre",76600,https://www.restaurantlanecdote.fr/,49.4894056,0.111847
+2111046508,node,,restaurant,Le Havre,,,,49.4888987,0.1126857
+2111047320,node,Dire dawa,restaurant,Le Havre,,,,49.4893214,0.111523
+2111049473,node,O P'tit Bouillon,restaurant,Le Havre,"15 Quai de l'Île, 76600, Le Havre",76600,,49.4870953,0.1132328
+2111107384,node,Bienvenue en Asie,restaurant,Le Havre,,,,49.4952856,0.1129657
+2111124049,node,Monsieur Auguste,restaurant,Le Havre,,,https://www.monsieurauguste.fr/,49.493482,0.1095792
+2111225778,node,Le Bistrot Parisien,restaurant,Le Havre,"39 Place de l'Hôtel de Ville, 76600, Le Havre",76600,,49.4927805,0.1060955
+2119960944,node,Eugénie,restaurant,Le Havre,,,https://eugenie-restaurant.fr/,49.5024018,0.0835879
+2120017395,node,Les Galets,restaurant,Le Havre,"Promenade André Duroméa, 76600, Le Havre",76600,http://lesgaletsubereat.com/,49.4961873,0.0923487
+2120017396,node,La Hève,restaurant,Le Havre,"32 Promenade André Duroméa, 76600, Le Havre",76600,,49.4956329,0.0928193
+2120017397,node,Le Grill,restaurant,Le Havre,"Promenade André Duroméa, 76600, Le Havre",76600,,49.4973058,0.0914269
+2120017398,node,La cabane normande,restaurant,Le Havre,"10 Promenade André Duroméa, 76600, Le Havre",76600,,49.4969329,0.0917595
+2120017399,node,La p'tite plage,restaurant,Le Havre,"Promenade André Duroméa, 76600, Le Havre",76600,,49.4978773,0.090976
+2120017496,node,Bord Salé,restaurant,Le Havre,"Promenade André Duroméa, 76600, Le Havre",76600,,49.4981515,0.0907643
+2120018152,node,Les Planches,restaurant,Le Havre,"Promenade André Duroméa, 76600, Le Havre",76600,,49.4986275,0.0903848
+2120018346,node,Le bistrot de la plage,restaurant,Le Havre,"Promenade André Duroméa, 76600, Le Havre",76600,,49.4987912,0.0902467
+2120018714,node,Saison2,restaurant,Le Havre,"Promenade André Duroméa, 76600, Le Havre",76600,https://www.saison-2.fr/,49.4980296,0.090857
+2120020134,node,Le Grand Bleu,restaurant,Le Havre,"Promenade André Duroméa, 76600, Le Havre",76600,,49.4970497,0.091671
+2120020135,node,L’Amarino,restaurant,Le Havre,"Promenade André Duroméa, 76600, Le Havre",76600,https://la-marino.fr/,49.4971977,0.0915261
+2120020136,node,Yema,restaurant,Le Havre,"Promenade André Duroméa, 76600, Le Havre",76600,,49.4977692,0.0910675
+2120020467,node,Les pieds dans l'eau,restaurant,Le Havre,"Promenade André Duroméa, 76600, Le Havre",76600,,49.4964313,0.0921726
+2120022304,node,Le Pattaya,restaurant,Le Havre,"36 Promenade André Duroméa, 76600, Le Havre",76600,https://pattayalh.fr/,49.4963213,0.0922629
+2120022578,node,Le France,restaurant,Le Havre,"16 Promenade André Duroméa, 76600, Le Havre",76600,,49.4954994,0.0929172
+2121420302,node,Sushi Makers,restaurant,Le Havre,"18, 76600, Le Havre",76600,https://sushimakers.fr/,49.4897626,0.1080153
+2121433659,node,,restaurant,Le Havre,,,,49.4912706,0.1040108
+2121434017,node,Bouchon Normand,restaurant,Le Havre,"77 Rue Louis Brindeau, 76600, Le Havre",76600,https://www.bouchonnormand.fr/,49.4912715,0.1042242
+2266593245,node,Le Zgorthiote,restaurant,Le Havre,"110 Rue Jules Siegfried, 76600, Le Havre",76600,,49.4919212,0.1171866
+2323323416,node,Georges V,restaurant,Le Havre,"145 Quai George V, 76600, Le Havre",76600,https://legeorgev.fr/,49.4908457,0.1182185
+2323323420,node,Hanami Sushi,restaurant,Le Havre,"153 Quai George V, 76600, Le Havre",76600,,49.4908346,0.1184431
+2392234509,node,La Fontaine Fleurie,restaurant,Le Havre,"21 Avenue Jean Jaurès, 76290, Fontaine-la-Mallet",76290,https://www.restaurantlafontainefleurie.fr/,49.5345452,0.146263
+2459278541,node,La Plume,restaurant,Le Havre,,,,49.4985285,0.1680789
+2459286848,node,Le Ballobar,restaurant,Le Havre,,,,49.4983861,0.1680736
+2509236765,node,Brasserie de Normandie,restaurant,Le Havre,36 Rue Bernardin de Saint-Pierre,,,49.4906026,0.105354
+2509237819,node,Les Korrigans,restaurant,Le Havre,"54 Quai Michel Féré, 76600, Le Havre",76600,,49.4895766,0.1113432
+2513791127,node,Oscar Hôtel,hotel,Le Havre,"106 Rue Voltaire, 76600, Le Havre",76600,,49.4897719,0.1072404
+2561165056,node,L'atelier des Gourmets,restaurant,Le Havre,,,https://facebook.com/L-atelier-Des-Gourmets-362408711225460/posts/?ref=page_internal&mt_nav=0,49.5549281,0.1159988
+2561791209,node,Pizza Tonton,restaurant,Le Havre,"5 Rue Félix Faure, 76930, Octeville-sur-Mer",76930,,49.5547495,0.1162692
+2625624196,node,Le Cormoran,restaurant,Le Havre,,,https://lecormoran76.fr/,49.4856658,0.2099908
+2631657692,node,Restaurant universitaire,restaurant,Le Havre,"76600, Le Havre",76600,,49.5152851,0.1630241
+2687649536,node,Taverne des Deux Augustins,hotel,Le Havre,"Place Maréchal Foch, 76790, Étretat",76790,http://www.les2augustins.com,49.7080713,0.2042768
+2687649538,node,Crêperie Lahn Bihoué,restaurant,Le Havre,,,,49.7082184,0.204898
+2687649540,node,Hôtel des Falaises,hotel,Le Havre,,,,49.7081563,0.2036935
+2687649643,node,La Belle Époque,restaurant,Le Havre,"2 Boulevard Président René Coty, 76790, Étretat",76790,,49.7085268,0.2032228
+2687649644,node,La Résidence,hotel,Le Havre,,,,49.7081784,0.2039228
+2687649645,node,La Salamandre,restaurant,Le Havre,"2 Boulevard Président René Coty, 76790, Étretat",76790,,49.7082707,0.2038063
+2687649647,node,Le Galion,restaurant,Le Havre,"Boulevard Président René Coty, 76790, Étretat",76790,https://etretat-legalion.fr/,49.7083677,0.2036821
+2688918183,node,L'Aiguille Creuse,hotel,Le Havre,"Place du Général de Gaulle, 76790, Étretat",76790,https://www.hotellaiguillecreuse.fr/fr,49.7074094,0.2020095
+2689037074,node,A l'Origine,restaurant,Le Havre,,,,49.7079982,0.2021016
+2689037093,node,Auberge Express,restaurant,Le Havre,,,,49.7077756,0.2041088
+2689037135,node,Dormy House,hotel,Le Havre,76790,76790,,49.7064199,0.201036
+2689037142,node,Hôtel l'Escale,hotel,Le Havre,,,,49.7078942,0.2042138
+2689037235,node,La Flotille,restaurant,Le Havre,,,,49.7072346,0.2031994
+2689037244,node,Le Cours d'Eau,restaurant,Le Havre,,,,49.7072791,0.2029985
+2689037247,node,Le Bistroquet,restaurant,Le Havre,,,,49.7085305,0.2024886
+2689037253,node,Le Clos Lupin,restaurant,Le Havre,37 Rue Alphonse Karr,,,49.7073158,0.2025352
+2689037283,node,Le Rayon Vert,hotel,Le Havre,,,,49.7079885,0.2020793
+2692252780,node,Cantine du Fort,restaurant,Le Havre,"33 Rue du 329e Régiment d'Infanterie, 76600, Le Havre",76600,https://letetris.fr/,49.503875,0.1207997
+2700198633,node,Le Saint-Louis,restaurant,Le Havre,"40 Rue du Général de Lasalle, 76600, Le Havre",76600,,49.487058,0.145096
+2701831991,node,Flunch,restaurant,Le Havre,,,,49.5216193,0.1138196
+2701831993,node,L'Ilôt pirate,restaurant,Le Havre,,,,49.5219101,0.1141032
+2702538022,node,Pizzeria Luigy,restaurant,Le Havre,"168 Rue de Verdun, 76600, Le Havre",76600,,49.502184,0.1599495
+2703054487,node,B&B Hotel Le Havre Centre,hotel,Le Havre,"126 Cours de la République, 76600, Le Havre",76600,https://www.hotel-bb.com/fr/hotel/le-havre-centre,49.4981747,0.1287718
+2703054649,node,LH Station Café,restaurant,Le Havre,"25 Allée Aimé Césaire, 76600, Le Havre",76600,https://www.lhstationcafe.fr/,49.4935322,0.1244584
+2703054728,node,African fusion,restaurant,Le Havre,"89 Cours de la République, 76600, Le Havre",76600,https://www.afriknfusion.fr/,49.4962771,0.1266494
+2704174038,node,Dubai,restaurant,Le Havre,,,,49.4982182,0.1170261
+2704174086,node,Le Joubeil,restaurant,Le Havre,,,,49.4974691,0.1136955
+2704738569,node,Le Relais,restaurant,Le Havre,,,,49.4835169,0.1526112
+2704738570,node,Le Pont V,restaurant,Le Havre,,,,49.4836666,0.15255
+2704738571,node,Chez Chantal,restaurant,Le Havre,,,,49.4838051,0.1524809
+2704738574,node,Le Canal,restaurant,Le Havre,,,,49.4839941,0.1523987
+2705384435,node,Le Céleste,restaurant,Le Havre,"69 Rue Pierre Farcis, 76620, Le Havre",76620,,49.5165732,0.1011314
+2710686126,node,Da Nonnina,restaurant,Le Havre,"5 Rue de l'Alma, 76600, Le Havre",76600,https://www.danonnina.fr/,49.4958815,0.096249
+2710686199,node,Black pearl,restaurant,Le Havre,"68 Rue Frédéric Bellanger, 76600, Le Havre",76600,,49.4953696,0.099256
+2710750051,node,Casel del forno,restaurant,Le Havre,,,,49.4948864,0.1053207
+2713610786,node,Ibis Styles,hotel,Le Havre,"121 Rue de Paris, 76600, Le Havre",76600,https://all.accor.com,49.488449,0.1073403
+2713610901,node,Bistrot Canaille,restaurant,Le Havre,"32 Rue du Général Faidherbe, 76600, Le Havre",76600,https://www.bistrot-canaille.com/,49.4874205,0.1127879
+2713611051,node,Sonny,restaurant,Le Havre,"57 Rue Dauphine, 76600, Le Havre",76600,,49.4883534,0.1132442
+2713674235,node,Au rétro,restaurant,Le Havre,"14 Rue de l'Amiral Courbet, 76600, Le Havre",76600,,49.4853388,0.1316102
+2713674385,node,L'Eure gourmande,restaurant,Le Havre,"16 Place Désiré Rebeuf, 76600, Le Havre",76600,,49.4860362,0.135514
+2713674918,node,Quai des délices,restaurant,Le Havre,"57 Rue Marceau, 76600, Le Havre",76600,,49.4869297,0.1354144
+2720710038,node,Waka Waka,restaurant,Le Havre,"94 Rue Casimir Delavigne, 76600, Le Havre",76600,,49.4956711,0.1244973
+2760756405,node,La Grillade,restaurant,Le Havre,53 Rue Louis Caron,,,49.7593891,0.3626595
+2830393801,node,Allouvi,restaurant,Le Havre,,,,49.761181,0.365491
+2830402401,node,Le Big Ben,restaurant,Le Havre,"12 Place Nicolas Selle, 76400, Fécamp",76400,https://www.brasserielebigben.fr,49.760398,0.367116
+2830402402,node,Chez Nounoute,restaurant,Le Havre,"3 Place Nicolas Selle, 76400, Fécamp",76400,http://cheznounoute.com/,49.7604248,0.3674012
+2830430301,node,Restaurant de la Marée,restaurant,Le Havre,,,,49.760271,0.368324
+2830432501,node,L'Escalier,restaurant,Le Havre,,,,49.76048,0.367488
+2830434502,node,Le Barbican,restaurant,Le Havre,,,https://www.lebarbican.fr/,49.760438,0.367668
+2830436801,node,Le 1900,restaurant,Le Havre,,,,49.760409,0.367765
+2830440801,node,Le Progrès,restaurant,Le Havre,,,,49.760666,0.366463
+2830452601,node,Le Bout-Menteux Cave du Salut,restaurant,Le Havre,,,,49.760744,0.36635
+2830457401,node,La Plaisance,restaurant,Le Havre,,,https://www.fecampclick.fr/plaisance.html,49.761389,0.364975
+2830459801,node,Le Gyros,restaurant,Le Havre,"37 Quai de la Vicomté, 76400, Fécamp",76400,https://www.legyros.fr/,49.761464,0.364811
+2830481301,node,La plage,restaurant,Le Havre,76400,76400,,49.759218,0.36131
+2830484701,node,Le Red Rock Café,restaurant,Le Havre,67 Boulevard Albert 1er,,,49.758932,0.361141
+2830486001,node,Les Falaises,restaurant,Le Havre,,,,49.758634,0.3608
+2830497101,node,Hôtel de la Mer,hotel,Le Havre,,,,49.757807,0.359857
+2830513401,node,Au Gré du Vent,restaurant,Le Havre,,,,49.758978,0.361989
+2833193604,node,Le Daniel's,restaurant,Le Havre,"5 Place Nicolas Selle, 76400, Fécamp",76400,,49.760256,0.367362
+2833195202,node,Le Repaire,restaurant,Le Havre,"7 Rue Vicomté, 76400, Fécamp",76400,,49.7602482,0.3670284
+2913281099,node,Hôtel d'Angleterre,hotel,Le Havre,,,,49.7060354,0.2036234
+2913282402,node,Brasserie de l'Abbaye,restaurant,Le Havre,"1 Place François Mitterrand, 76290, Montivilliers",76290,,49.5450135,0.1918321
+2913282409,node,La Fourchette,restaurant,Le Havre,,,,49.7601117,0.3671775
+2913282419,node,Le Trèfle à Quatre Feuilles,restaurant,Le Havre,,,,49.5441816,0.1921395
+2913282431,node,New Windsor,hotel,Le Havre,,,,49.7067846,0.2051798
+2913368128,node,Le Fécamp,hotel,Le Havre,,,,49.5722067,0.4695222
+2913368129,node,Pizza Mariana,restaurant,Le Havre,,,,49.5713766,0.4705413
+2916438595,node,Hôtel Les Loges,hotel,Le Havre,"81 Rue de la Gare, 76790, Les Loges",76790,https://hotelleslogesdetretat.com/,49.7002523,0.2819438
+2992068733,node,Le Molière,restaurant,Le Havre,"10 Place Charles de Gaulle, 76400, Fécamp",76400,,49.757163,0.376782
+3018617858,node,V.I. Pizz,restaurant,Le Havre,,,,49.5886629,0.2814206
+3037207252,node,La Falaise,restaurant,Le Havre,,,,49.739199,0.311547
+3100549736,node,Auberge du Fond-Pitron,hotel,Le Havre,,,,49.730674,0.336597
+3119271122,node,Carmin,hotel,Le Havre,"15 Rue Georges Braque, 76600, Le Havre",76600,,49.494874,0.1054936
+3125733254,node,La Sardaigne,restaurant,Le Havre,"6 Rue Jean de La Fontaine, 76600, Le Havre",76600,,49.4877793,0.1128852
+3238509208,node,Wok grill,restaurant,Le Havre,"70 Quai des Antilles, 76600, Le Havre",76600,http://www.wokgrill.fr,49.4901595,0.1322611
+3393989390,node,Le Petit Saint-Pierre,restaurant,Le Havre,,,,49.7393123,0.3104494
+3414934916,node,,hotel,Le Havre,,,,49.7083353,0.203487
+3414934917,node,Le Bicorne,restaurant,Le Havre,"5 Boulevard Président René Coty, 76790, Étretat",76790,https://le-bicorne.fr/,49.7083778,0.2034623
+3551901102,node,Les 3 Roses,restaurant,Le Havre,,,,49.8063034,0.5291824
+3677285555,node,Les Enfants Sages,restaurant,Le Havre,"20 Rue Gustave Lennier, 76600, Le Havre",76600,https://www.restaurant-lesenfantssages.com/,49.4889073,0.1083263
+3745178778,node,Il Girasole Ristorante,restaurant,Le Havre,,,,49.5076567,0.2248508
+3747925839,node,Crêperie La Grange,restaurant,Le Havre,"Front de Mer, 76790, Étretat",76790,,49.7080599,0.2020502
+3747940619,node,Restaurant du Perrey,restaurant,Le Havre,"Front de Mer, 76790, Étretat",76790,,49.7081135,0.2021732
+3747940759,node,Nomad Hotel,hotel,Le Havre,"5 Rue Magellan, 76600, Le Havre",76600,https://www.nomad-hotels.com/,49.4933607,0.1255593
+3945048509,node,L'Agriculture,restaurant,Le Havre,,,,49.7418916,0.5152192
+3956687836,node,Inter-Hotel Terminus,hotel,Le Havre,,,,49.4933078,0.1242916
+4019312541,node,New Delhi,restaurant,Le Havre,,,,49.4893142,0.1071849
+4061268928,node,La Voile Bleue,restaurant,Le Havre,,,,49.491854,0.0973809
+4064706569,node,La table du Pradon,restaurant,Le Havre,,,,49.512532,0.236045
+4131514755,node,Dai Duong,restaurant,Le Havre,"67 Rue de Richelieu, 76600, Le Havre",76600,,49.489352,0.1060875
+4337921699,node,Changma,restaurant,Le Havre,"4 Rue du Roi Albert, 76310, Sainte-Adresse",76310,,49.5026946,0.0857757
+4342896273,node,Le Phare,restaurant,Le Havre,"32 Promenade André Duroméa, 76600, Le Havre",76600,,49.4960752,0.0924543
+4415600533,node,La Cave du Salut,restaurant,Le Havre,7 Quai de la Vicomté,,,49.7607507,0.3664398
+4469733652,node,Le Tom'Jo,restaurant,Le Havre,"37 Le Bourg, 76790, Les Loges",76790,,49.6989259,0.2819561
+4473603506,node,"Bar, Restaurant, Pension ""Au Bec Fin""",restaurant,Le Havre,"9 Avenue Marcel le Mignot, 76700",76700,,49.5020193,0.2150811
+4475397597,node,Pizza del Mondo,restaurant,Le Havre,9-11 Place Victor Hugo,,https://www.pizza-delmondo.com/,49.5064353,0.1990632
+4510937742,node,La P'tite Auberge,restaurant,Le Havre,"20 Rue du Havre, 76170, Lillebonne",76170,,49.5194741,0.5319167
+4798529310,node,Oyster club,restaurant,Le Havre,"27 Rue Alphonse Karr, 76790, Étretat",76790,,49.7072072,0.2029384
+4881320021,node,Sans détour,hotel,Le Havre,,,,49.4922834,0.1158505
+4881326521,node,La petite gourmandise,restaurant,Le Havre,"68 Rue des Drapiers, 76600, Le Havre",76600,,49.4876772,0.110223
+4913327736,node,L'Escale Gourmande,restaurant,Le Havre,,,,49.5198395,0.5288162
+4988622127,node,La Moule en Fête,restaurant,Le Havre,,,,49.518187,0.5363172
+4993904231,node,Pizzeria de l'abbaye,restaurant,Le Havre,,,,49.5561209,0.4844387
+5035403421,node,Les calètes,restaurant,Le Havre,,,,49.5070829,0.1981045
+5049654334,node,Le Grand Large,restaurant,Le Havre,"11 Place Clemenceau, 76310, Sainte-Adresse",76310,,49.5025858,0.08551
+5049654335,node,La petite rade,hotel,Le Havre,"3-5 Place Clemenceau, 76310, Sainte-Adresse",76310,https://www.lapetiteradehotel-lehavre.com/,49.5023684,0.0859642
+5119562835,node,Le 6ème Sens,restaurant,Le Havre,"8 b Rue Émile Benard, 76110, Goderville",76110,,49.6455024,0.3676711
+5218834714,node,Restaurant La Boucane,restaurant,Le Havre,"12 Grand Quai, 76400, Fécamp",76400,https://www.la-boucane.com/,49.7619073,0.3682169
+5324651924,node,Le Tilleulais,restaurant,Le Havre,"759 Route du Havre, 76790, Le Tilleul",76790,https://www.letilleulais.fr/,49.6827658,0.2019958
+5809220411,node,Hoa Binh,restaurant,Le Havre,"44 Bis Rue Alphonse Karr, 76790, Étretat",76790,,49.7076477,0.2019154
+5827743993,node,Au Bureau,restaurant,Le Havre,"76290, Montivilliers",76290,,49.5245772,0.1910863
+5827743998,node,Flunch,restaurant,Le Havre,"76290, Montivilliers",76290,https://restaurant.flunch.fr/montivilliers/flunch-le-havre-montivilliers/,49.5279176,0.1897654
+6188054775,node,Le 129ème,restaurant,Le Havre,"76600, Le Havre",76600,,49.4914704,0.1186598
+6188281705,node,Kyriad Hôtel,hotel,Le Havre,"5 Rue des Castors, 76290, Montivilliers",76290,https://www.kyriad.com/fr-fr/nos-hotels/france/normandie/hotels-montivilliers/,49.5331586,0.1802727
+6191911297,node,Campanile,restaurant,Le Havre,"76700, Gonfreville-l'Orcher",76700,,49.5103708,0.229142
+6191911319,node,A la Bonne Heure,restaurant,Le Havre,"76700, Gonfreville-l'Orcher",76700,,49.5063965,0.2191345
+6195906220,node,La Palombière,restaurant,Le Havre,"140 Rue de la Libération, 76700, Gainneville",76700,,49.5182713,0.2634697
+6298899919,node,Juste-à-Côté,restaurant,Le Havre,"18 Avenue Maréchal de Lattre de Tassigny, 76430, Saint-Romain-de-Colbosc",76430,,49.5311748,0.3492363
+6298919085,node,Café des Halles,restaurant,Le Havre,"14 Rue François Hanin, 76430, Saint-Romain-de-Colbosc",76430,,49.5293881,0.3586515
+6298922365,node,Sénaka Sushi,restaurant,Le Havre,,,https://senaka-sushi.metro.rest/,49.5297565,0.3576362
+6299766432,node,L'Atelier,restaurant,Le Havre,"12 Rue Alphonse Karr, 76790, Étretat",76790,,49.706987,0.2035663
+6334517785,node,Le Bistretatais,restaurant,Le Havre,17 Rue Adolphe Boissaye,,https://www.etretat-le-bistretatais.fr/,49.7084505,0.2030904
+6682178585,node,Le Bel Ami,restaurant,Le Havre,"25 Rue Alphonse Karr, 76790",76790,https://www.lebelami.com/,49.7071372,0.203153
+6726977885,node,The Architect,restaurant,Le Havre,"55 Quai de Southampton, 76600, Le Havre",76600,https://www.thearchitect.fr/,49.486076,0.1093223
+6727007204,node,Asian Kitchen,restaurant,Le Havre,"11 bis Rue Jules Lecesne, 76600, Le Havre",76600,,49.4941201,0.1104413
+6795269904,node,L'atelier pizza du Tilleul,restaurant,Le Havre,"1 Rue Élisée Reclus, 76600, Le Havre",76600,http://www.pizzadutilleul.fr/,49.5025528,0.1628933
+6856173469,node,Saïgon,restaurant,Le Havre,"106 Rue d'Étretat, 76600, Le Havre",76600,,49.497287,0.098119
+7043372695,node,Le Punjab,restaurant,Le Havre,"7 Rue du Général Faidherbe, 76600, Le Havre",76600,,49.4879315,0.1117711
+7043372700,node,Le Margote,restaurant,Le Havre,"50 Quai Michel Féré, 76600, Le Havre",76600,,49.4894879,0.1113499
+7195433476,node,Kinii,restaurant,Le Havre,"76290, Montivilliers",76290,https://kinii-restaurant-montivilliers.eatbu.com/,49.5262463,0.1883035
+7440961483,node,La Singerie,restaurant,Le Havre,"13 Rue Bernardin de Saint-Pierre, 76600, Le Havre",76600,https://www.la-singerie.com/,49.4905543,0.1049781
+7596195287,node,Saint-Christophe,hotel,Le Havre,"25 Rue du Maréchal Leclerc, 76790, Le Tilleul",76790,https://www.saintchristophehotel.fr/,49.6827891,0.2022725
+7638452014,node,L'Huitrière,restaurant,Le Havre,,,,49.7072883,0.201013
+7640042485,node,Les Roches Blanches,restaurant,Le Havre,,,,49.7095365,0.2038228
+7649136459,node,L'Havrais bière,restaurant,Le Havre,"1 Rue de Paris, 76600, Le Havre",76600,https://lhavraisbiere.fr/,49.4855156,0.1071031
+7714436233,node,Cantine scolaire,restaurant,Le Havre,,,,49.5916428,0.428039
+7736073193,node,Etretat Aventure,hotel,Le Havre,,,https://etretat-aventure.fr/,49.6855537,0.2660993
+7852417569,node,La Crêperie,restaurant,Le Havre,"5 Rue de l'Hôtel de Ville, 76430, Saint-Romain-de-Colbosc",76430,,49.5287509,0.3580994
+7862627423,node,Comme Chez Nous,restaurant,Le Havre,,,,49.5914469,0.4270561
+7884982034,node,Fujiya-Sushi,restaurant,Le Havre,"30 Cours de la République, 76600, Le Havre",76600,https://fujiyasushi.fr/restaurants-japonais-le-havre-fujiya-sushi/,49.4936779,0.1254902
+8016549890,node,cercle mixte,restaurant,Le Havre,,,,49.5053232,0.1787956
+8016876866,node,Stadium bar & grill,restaurant,Le Havre,,,,49.4995445,0.1707735
+8121171683,node,Hôtel Le Bec au Cauchois,hotel,Le Havre,"22 Rue André Fiquet, 76540, Valmont",76540,,49.7446113,0.4920628
+8121171685,node,"Restaurant Pierre Caillet, Le Bec au Cauchois",restaurant,Le Havre,"22 Rue André Fiquet, 76540, Valmont",76540,https://maisoncaillet.com/,49.7446263,0.491909
+8225278266,node,Hôtel du Commerce,restaurant,Le Havre,,,,49.6510312,0.5919362
+8231978911,node,Voiture Bar-Restaurant l'Aiguillage,restaurant,Le Havre,,,http://velo-rails-etretat.fr/train-restaurant/,49.7017211,0.2838931
+8235655761,node,Le Nautique,restaurant,Le Havre,,,,49.7379108,0.3131463
+8570052752,node,Hôtel-Restaurant Le Carnot,restaurant,Le Havre,,,https://lecarnot.fr,49.5731607,0.472918
+8570052789,node,,restaurant,Le Havre,,,,49.5719035,0.4720451
+8626746131,node,O Fourno,restaurant,Le Havre,"13 Rue Chevalier, 76600, Le Havre",76600,,49.4893608,0.112953
+8699432814,node,Restaurant de Bolleville,restaurant,Le Havre,,,,49.5988538,0.5627885
+9016423025,node,La table de Benoît,restaurant,Le Havre,,,https://www.fecampclick.fr/tabledebenoit.html,49.7575468,0.3779274
+9016659684,node,Le Nomad,restaurant,Le Havre,,,,49.7582448,0.3770856
+9029852760,node,Pizza du Tilleul,restaurant,Le Havre,,,,49.6803802,0.200184
+9105906071,node,Le Cabestan et sa Plume,restaurant,Le Havre,,,,49.7392337,0.3095021
+9105967100,node,La Sirene,restaurant,Le Havre,,,,49.7392589,0.3095872
+9106180381,node,La Sirene,hotel,Le Havre,,,,49.7392285,0.3096962
+9204394738,node,Le Pure,restaurant,Le Havre,"93 Quai de Southampton, 76600, Le Havre",76600,https://www.restaurant-lepure-lehavre.com/,49.4866523,0.1108208
+9507558529,node,Ristorante Al Dente,restaurant,Le Havre,,,,49.4907682,0.105633
+9651065561,node,Big Moh,restaurant,Le Havre,"7 Avenue du 8 Mai 1945, 76610, Le Havre",76610,,49.5134871,0.162806
+9872306566,node,Coté Mer,restaurant,Le Havre,20 Rue du Général Leclerc,,https://cotemeretretat.wixsite.com/restaurantcotemer,49.7080107,0.2019556
+9908261761,node,Le Glacier d'Étretat,restaurant,Le Havre,"3 Boulevard Président René Coty, 76790, Étretat",76790,,49.7083174,0.2035109
+9934079628,node,Cantine,restaurant,Le Havre,,,,49.4874116,0.112127
+10056873481,node,La Bise,restaurant,Le Havre,"1 Rue Maurice Taconet, 76310, Sainte-Adresse",76310,,49.5032305,0.0820385
+10064675603,node,Les Fauves,restaurant,Le Havre,"2 Boulevard Clemenceau, 76600, Le Havre",76600,,49.4848484,0.1029356
+10065307337,node,Hilton Garden Inn Le Havre Centre,hotel,Le Havre,"128 Boulevard Clemenceau, 76600, Le Havre",76600,https://www.hilton.com/en/hotels/lehlhgi-hilton-garden-inn-le-havre-centre,49.4899549,0.0978114
+10106162049,node,A-Bento,restaurant,Le Havre,"66 Rue du Maréchal Gallieni, 76600, Le Havre",76600,,49.4963774,0.1123497
+10135626612,node,Maison M,restaurant,Le Havre,"91 Quai Colbert, 76600, Le Havre",76600,,49.4923683,0.129073
+10137337244,node,L'Atlas,restaurant,Le Havre,"21 Rue des Galions, 76600, Le Havre",76600,https://normandieresto.com/restaurant/latlas-couscous-le-havre/,49.4867178,0.1098615
+10169451288,node,L'Atelier,restaurant,Le Havre,"47 Place Jules Ferry, 76600, Le Havre",76600,,49.4920562,0.1111611
+10197128373,node,Le Cardinal,restaurant,Le Havre,"107 Boulevard de Strasbourg, 76600, Le Havre",76600,https://restaurant-le-cardinal.fr/,49.4930032,0.1148332
+10255621558,node,La Tablée,restaurant,Le Havre,"69 Rue Guillemard, 76600, Le Havre",76600,https://la-tablee.fr/,49.4975363,0.0940513
+10652329838,node,Le Barbican,hotel,Le Havre,,,,49.760455,0.36765
+10840205693,node,Le Resto,restaurant,Le Havre,"37 Quai de la Saône, 76600, Le Havre",76600,https://lehangarzero.fr/,49.483123,0.1365227
+10856018571,node,Restaurant franco-kabyle,restaurant,Le Havre,"23 Avenue René Coty, 76600, Le Havre",76600,,49.4959061,0.1094807
+10856077089,node,Odalys City,hotel,Le Havre,"95 Quai Colbert, 76600, Le Havre",76600,https://www.odalys-vacances.com/location-ville/normandie/le-havre/centre-les-docks.html,49.4926319,0.1297033
+10856077090,node,Odalys City,hotel,Le Havre,"25 Cours du Commandant Fratacci, 76600, Le Havre",76600,https://www.odalys-vacances.com/,49.4914117,0.1228465
+10941743378,node,,restaurant,Le Havre,,,,49.4898099,0.5676044
+10957764505,node,Goût de Moscou,restaurant,Le Havre,"47 Rue de la République, 76700, Harfleur",76700,,49.5072042,0.1991041
+11038626969,node,Le rest'au chaud,restaurant,Le Havre,,,,49.6524712,0.5918589
+11074146012,node,Happy-Dock,restaurant,Le Havre,"Chaussée Georges Pompidou, 76600, Le Havre",76600,https://happydock.brasseriemaison.fr/,49.4902385,0.1168991
+11110568606,node,Jilani,restaurant,Le Havre,"79 Rue Émile Zola, 76600, Le Havre",76600,https://pizzeria-jilani.fr/,49.4886704,0.1072192
+11111308841,node,Hôtel d'Angleterre,hotel,Le Havre,,,https://www.boutiquehotel-angleterre-lehavre.com/,49.4940531,0.0993652
+11118816572,node,Don Gusto,restaurant,Le Havre,"79 Rue Louis Brindeau, 76600, Le Havre",76600,,49.4912702,0.1042805
+11132623373,node,Bloom,restaurant,Le Havre,"63 Quai de Southampton, 76600, Le Havre",76600,,49.486188,0.1096212
+11145903909,node,Delhi Kaboul,restaurant,Le Havre,"41 Rue du Général Faidherbe, 76600, Le Havre",76600,,49.4876201,0.1131431
+11198727461,node,Plaanch Grill,restaurant,Le Havre,"8 Avenue du Camp Dolent, 76700, Gonfreville-l'Orcher",76700,,49.505707,0.2230264
+11207680637,node,Smart Appart Le Havre,hotel,Le Havre,"97 Cours de la République, 76600, Le Havre",76600,https://www.smart-appart.fr,49.4965016,0.1268417
+11227247100,node,Beef & Wine,restaurant,Le Havre,,,,49.4912226,0.1059339
+11233294563,node,Macicia,restaurant,Le Havre,"6 Rue Saint-Jacques, 76600, Le Havre",76600,https://www.macicia.fr/,49.4861485,0.1076475
+11256810635,node,Origines,restaurant,Le Havre,"61 Rue Casimir Delavigne, 76600, Le Havre",76600,https://www.origines-lehavre.com/,49.4949336,0.1212551
+11260123693,node,La Villa,hotel,Le Havre,"10 Avenue de Verdun, 76790, Étretat",76790,,49.7074301,0.2070896
+11288636998,node,Calice et Mandibule,restaurant,Le Havre,"16 Rue de Paris, 76600, Le Havre",76600,https://www.calice-mandibule.fr/,49.486037,0.1074915
+11310310460,node,La fringale,restaurant,Le Havre,"106 Rue Victor Hugo, 76600, Le Havre",76600,,49.491636,0.1061818
+11310468964,node,Le Potager,restaurant,Le Havre,"180 Rue de Paris, 76600, Le Havre",76600,,49.4918741,0.1078906
+11313920512,node,Le Bidule,restaurant,Le Havre,"12 Quai Michel Féré, 76600, Le Havre",76600,,49.488177,0.111475
+11313920516,node,Les huit viandes,restaurant,Le Havre,"20 Quai Michel Féré, 76600, Le Havre",76600,,49.488333,0.111428
+11313968042,node,Le poisson rouge,restaurant,Le Havre,"33 Rue du Général Faidherbe, 76600, Le Havre",76600,,49.4876717,0.1128634
+11313968065,node,Nagoya,restaurant,Le Havre,"63 Rue du Général Faidherbe, 76600, Le Havre",76600,http://nagoyasushi76.fr/,49.4874765,0.1136977
+11313968068,node,Căng Tin Hanoï,restaurant,Le Havre,,,,49.4874412,0.1138935
+11325402230,node,Maryvonne,restaurant,Le Havre,"13 Rue Jean de La Fontaine, 76600, Le Havre",76600,,49.4879986,0.1127864
+11325402232,node,Chef Panda,restaurant,Le Havre,"17 Rue Jean de La Fontaine, 76600, Le Havre",76600,,49.4880666,0.1128214
+11325402238,node,Crêperie Soizic,restaurant,Le Havre,"31 Rue Jean de La Fontaine, 76600, Le Havre",76600,http://creperie-soizic.fr/,49.4884153,0.1130249
+11326080198,node,Kitsu ramen,restaurant,Le Havre,"4 Rue de la Crique, 76600, Le Havre",76600,,49.4887188,0.1118762
+11326240820,node,À deux pas d'ici,restaurant,Le Havre,"69 Rue Dauphine, 76600, Le Havre",76600,https://www.adeuxpasdici.fr/,49.4882766,0.113527
+11331126358,node,La Couscousserie,restaurant,Le Havre,"78 Rue Saint-Jacques, 76600, Le Havre",76600,,49.4868749,0.1094981
+11331191184,node,Saveurs îles Maurice,restaurant,Le Havre,"71 Quai de Southampton, 76600, Le Havre",76600,https://www.restaurant-saveursilemaurice-lehavre.fr/,49.4863038,0.1099256
+11331191187,node,Le Sorrento,restaurant,Le Havre,"77 Quai de Southampton, 76600, Le Havre",76600,,49.4864731,0.1103572
+11383826105,node,Le Piasceki,restaurant,Le Havre,4 Rue du Docteur Piasceki,,,49.4937921,0.1393335
+11392367308,node,L'Angle d'Orcher,restaurant,Le Havre,"16 Rue Maurice Thorez, 76700, Gonfreville-l'Orcher",76700,https://www.langledorcher.fr/,49.5026913,0.2354269
+11393689721,node,Les Régates,restaurant,Le Havre,"Quai Éric Tabarly, 76600, Le Havre",76600,https://www.restaurantlesregates.fr/,49.491584,0.0957919
+11399140612,node,Le Kozy,restaurant,Le Havre,"8 Rue du Château d'Eau, 76700, Gonfreville-l'Orcher",76700,https://le-kozy.com/,49.5106195,0.228441
+11423399492,node,Le Louisiane,restaurant,Le Havre,"62 Place du Chillou, 76600, Le Havre",76600,,49.4920485,0.1110591
+11478480811,node,Vintage Art Compagnie,restaurant,Le Havre,"24 b Avenue Jacques Eberhard, 76700, Gonfreville l'Orcher",76700,https://www.vintageartcompagnie.com/,49.5132164,0.2285298
+11522304734,node,Mister Cook,restaurant,Le Havre,"2 Route du Havre, 76400, Fécamp",76400,,49.7487383,0.3714092
+11611519797,node,Auberge de Norville,hotel,Le Havre,"6 Rue des Écoles, 76330, Norville",76330,,49.4761731,0.6392301
+11772032899,node,Les Fanfarons,restaurant,Le Havre,"38 Place du Chillou, 76600, Le Havre",76600,,49.491555,0.111056
+11825690894,node,Vert Olive,restaurant,Le Havre,"43 Rue Alphonse Karr, 76790, Étretat",76790,,49.7073868,0.2023013
+11825850657,node,Birgit,hotel,Le Havre,"Quai Colbert, 76600, Le Havre",76600,https://lehavre.hotelbirgit.com/,49.4931742,0.1307178
+11854356987,node,Le Chillou,restaurant,Le Havre,"41 Rue du Chillou, 76600, Le Havre",76600,,49.4920067,0.1100951
+11893600600,node,Chez Dhan,restaurant,Le Havre,,,,49.4912576,0.1164277
+11895980978,node,Le Panorama,restaurant,Le Havre,"1 Promenade François Lebel, 76310, Sainte-Adresse",76310,,49.5041883,0.0779522
+11898417970,node,Le Cabestan et sa Plume,restaurant,Le Havre,,,,49.7392302,0.3093953
+11906547381,node,La Bonne Adresse,hotel,Le Havre,"29 Rue du Général de Gaulle, 76310, Sainte-Adresse",76310,https://www.logishotels.com/fr/hotel/logis-hotel-la-bonne-adresse-118958,49.5032443,0.0887902
+11917587841,node,Quint & Sens,restaurant,Le Havre,"98 Rue du Président Wilson, 76600, Le Havre",76600,,49.4962811,0.1003441
+11917587842,node,Il Padrino,restaurant,Le Havre,"100 Rue du Président Wilson, 76600, Le Havre",76600,,49.4963641,0.1002241
+11987783388,node,Giacomo,restaurant,Le Havre,"75 Avenue Rouget de Lisle, 76610, Le Havre",76610,https://giacomo.eatbu.com/,49.5055709,0.1427684
+11990537469,node,La guinguette d'Aboun,restaurant,Le Havre,Rue de la Bouteillerie,,https://www.abountartines.com/,49.5237849,0.1732081
+12039943507,node,ManéPizza,restaurant,Le Havre,"17 Place de la Mairie, 76133, Manéglise",76133,,49.5653885,0.2558982
+12070304839,node,Sushi Time,restaurant,Le Havre,"1 Rue de l'Étang, 76170, Lillebonne",76170,,49.5200955,0.5363664
+12118160483,node,Le Homard Bleu,restaurant,Le Havre,,,,49.7097585,0.2038789
+12178236001,node,La Courtine,restaurant,Le Havre,"40 Rue Prosper Brindejont, 76790",76790,,49.7081237,0.2025455
+12228239108,node,Mona Lisa,restaurant,Le Havre,"52 Rue Raoul Dufy, 76600, Le Havre",76600,https://monalisalehavre.fr/,49.4950486,0.1031363
+12307368572,node,Crep'eat,restaurant,Le Havre,"76290, Montivilliers",76290,,49.5246872,0.191258
+12307432010,node,Le 66,restaurant,Le Havre,,,,49.5277035,0.190253
+12307590594,node,Tudo Bem,restaurant,Le Havre,"10 Place Albert René, 76600, Le Havre",76600,https://tudo-bem.fr/,49.4888834,0.106101
+12371065547,node,Casino,restaurant,Le Havre,"156 Chaussée Gayant, 76400, Fécamp",76400,,49.760682,0.3741649
+12391367532,node,Le Sophie's,restaurant,Le Havre,,,,49.4761556,0.639217
+12441604176,node,L'Horizon,restaurant,Le Havre,"21 Rue Pierre Semard, 76600, Le Havre",76600,https://restaurantlhorizon.fr/,49.4967576,0.147817
+12475785493,node,Le paradis du fruit,restaurant,Le Havre,"45 Boulevard de Leningrad, 76600, Le Havre",76600,https://www.leparadisdufruit.fr,49.4968484,0.1481901
+12532185498,node,Route 76,restaurant,Le Havre,"6 Route de Criquetot, 76110, Écrainville",76110,,49.6497427,0.3256894
+12641333741,node,Brunch & compagnie,restaurant,Le Havre,"3 bis Rue de Verdun, 76280, Criquetot-l'Esneval",76280,,49.6441719,0.2659746
+12670623155,node,Hotel Le Carnot,hotel,Le Havre,,,,49.5731434,0.4729408
+12670623156,node,Le Carnot Saveur Du Monde,restaurant,Le Havre,,,,49.5730956,0.4729319
+12731699503,node,Aux Portes de l'Orient,restaurant,Le Havre,380 Rue Pierre Mendès-France,,https://auxportesdelorient.com/,49.5153362,0.1547521
+12731868701,node,Sakura Sushi,restaurant,Le Havre,184 Rue du Maréchal Joffre,,http://sakura-lehavre.fr,49.4999437,0.1309974
+12731929201,node,The Dayte,restaurant,Le Havre,"75 Cours de la République, 76600",76600,,49.4957107,0.1262401
+12731965101,node,Asian One,restaurant,Le Havre,"138 Cours de la République, 76600",76600,,49.4987482,0.1292174
+12731965201,node,S Delice - Le Petit Resto,restaurant,Le Havre,9 Rue de Verdun,,http://sdelice-lh.fr,49.5011494,0.146171
+12734383581,node,Cooking family,restaurant,Le Havre,"Route de Saint-Martin-du-Manoir, 76700, Gonfreville-l'Orcher",76700,,49.5231423,0.2176959
+12770394944,node,Le Normandie,restaurant,Le Havre,,,,49.6499999,0.5918661
+12792038227,node,Vent d'ouest,hotel,Le Havre,"3 Avenue Gambetta, 76400, Fécamp",76400,https://www.hotelventdouest-fecamp.fr/,49.758606,0.3753938
+12792136051,node,Buffalo Grill,restaurant,Le Havre,"201 Rue de la Briqueterie, 76400, Saint-Léonard",76400,https://www.buffalo-grill.fr/nos-restaurants/fecamp,49.7299103,0.3664925
+12829932885,node,Chez André,restaurant,Le Havre,9 Rue Louis Philippe,,https://www.restauration-chezandre.fr/,49.4947959,0.0994274
+12844253513,node,Le Picardie,restaurant,Le Havre,"51 Avenue Marcel le Mignot, 76700, Gonfreville-l'Orcher",76700,,49.4979671,0.2314548
+12844813935,node,Nachos,restaurant,Le Havre,"65 Rue Bernardin de Saint-Pierre, 76600, Le Havre",76600,,49.4915479,0.1050994
+12847456479,node,Popi's Family,restaurant,Le Havre,,,,49.4909631,0.103673
+12847456482,node,Why Not,restaurant,Le Havre,,,https://le-why-not-lh.eatbu.com/,49.4910841,0.1105178
+12848715535,node,Au Bureau,restaurant,Le Havre,"36 Rue Bernardin de Saint-Pierre, 76600, Le Havre",76600,,49.4905616,0.1053406
+12988260194,node,LenMarigon,restaurant,Le Havre,,,,49.4923371,0.1231381
+12995925233,node,Pizzeria Mallet,restaurant,Le Havre,"8 Rue de la République, 76280, Gonneville-la-Mallet",76280,https://www.pizzeria-mallet.fr/,49.639553,0.2223859
+13007823965,node,La couscoussière,restaurant,Le Havre,,,,49.497835,0.1152877
+13008570709,node,Sushi First,restaurant,Le Havre,,,https://www.sushi-first.com/,49.4974925,0.1137929
+13008571913,node,Bella Storia,restaurant,Le Havre,,,,49.4979224,0.1156991
+13008572105,node,Damas,restaurant,Le Havre,,,,49.4980094,0.1161043
+13013952506,node,Himalayan Yak & Yeti,restaurant,Le Havre,,,,49.5000793,0.1252898
+13026127248,node,Le Petit Brett,restaurant,Le Havre,"139 Voie du Nord, 76110, Bretteville-du-Grand-Caux",76110,https://lepetitbrett.eatbu.com/,49.6568336,0.3621227
+13048172001,node,Goélia,hotel,Le Havre,,,,49.6965353,0.3479832
+13060089137,node,Palmyra,restaurant,Le Havre,,,,49.4912196,0.1057939
+13097084731,node,Zenao Apart'hôtel,hotel,Le Havre,"55 Rue Jean Jaurès, 76290, Montivilliers",76290,,49.5463074,0.2050757
+13130746516,node,La Maison,restaurant,Le Havre,19 Rue de l'Amiral Courbet,,,49.4857193,0.1314096
+13141291353,node,Crep's & Co,restaurant,Le Havre,,,,49.5718279,0.4714569
+13183451253,node,Le Cormoran,hotel,Le Havre,,,,49.4856912,0.2098412
+13322305701,node,Maison hoi an,restaurant,Le Havre,,,,49.4945352,0.1219528
+13444968250,node,Sushi Nigiri,restaurant,Le Havre,,,,49.4948318,0.1229178
+13478890584,node,Pizza du Coin,restaurant,Le Havre,,,,49.5054524,0.1141076
+13702285795,node,Le garde-manger,restaurant,Le Havre,,,,49.4960044,0.0986816
+13914068292,node,Lucciola,restaurant,Le Havre,,,,49.4888793,0.1120093
+13953727206,node,Le bouche à oreille,restaurant,Le Havre,,,,49.4926495,0.1010359
+13990423601,node,L'évasion,restaurant,Le Havre,,,,49.7511012,0.4052112

@@ -1,0 +1,306 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+309294678,node,Autogrill,restaurant,Reims,,,,49.120524,4.2448393
+1071236209,node,Le Bistrot du Forum,restaurant,Reims,"6 Place du Forum, 51100, Reims",51100,https://www.lebistrotduforum.com/,49.2562737,4.0340532
+1118857350,node,La Rose des Sables,restaurant,Reims,,,,49.2517921,4.0424969
+1118918069,node,Grand Hôtel Continental,hotel,Reims,"95 Place Drouet d'Erlon, 51100, Reims",51100,https://www.continental-hotel.fr,49.2569483,4.0256695
+1118918078,node,Le Coq Rouge,restaurant,Reims,,,,49.2516342,4.0337432
+1118918081,node,Au Petit Comptoir,restaurant,Reims,"17 Rue de Mars, 51000",51000,https://au-petit-comptoir.fr,49.2597532,4.0311847
+1118918127,node,Le Coin des Crêpes,restaurant,Reims,,,,49.2669834,4.0245983
+1118918195,node,La Maison,restaurant,Reims,"17 Avenue Jean Jaurès, 51100, Reims",51100,https://lamaisonreims.fr,49.258008,4.0405056
+1118918232,node,La Table des Halles,restaurant,Reims,23,,,49.2598268,4.0310918
+1118918238,node,Pic Adore,restaurant,Reims,,,,49.2498292,4.0336799
+1118980252,node,La Ferme des Saveurs,restaurant,Reims,Avenue Hoche,,,49.2365227,4.0663303
+1118980257,node,Papillons,restaurant,Reims,,,,49.232014,4.0837045
+1129495295,node,Best Western Hôtel de la Paix,hotel,Reims,9,,https://www.bestwestern-lapaix-reims.com/,49.2545185,4.0262373
+1719837730,node,Première Classe,hotel,Reims,,,,49.2133213,4.0140015
+1753998125,node,La Table des Sacres,restaurant,Reims,"6 Rue Gambetta, 51100, Reims",51100,,49.2506414,4.0352714
+1785414896,node,Sardegna,restaurant,Reims,,,,49.2699998,4.0253266
+1785904349,node,Kyodo Sushi,restaurant,Reims,"130 Avenue de Laon, 51100, Reims",51100,https://kyodosushi.fr/,49.2673586,4.0247665
+1786720395,node,Da Nello,restaurant,Reims,,,,49.2567149,4.0372071
+1834055391,node,Bar Hôtel Restaurant Aux Bons Amis,restaurant,Reims,13,,,49.265721,4.0390609
+1834071861,node,A la table de Fred,restaurant,Reims,15,,,49.2670772,4.0447636
+1834074873,node,Les Sarments,restaurant,Reims,,,,49.2684949,4.0446081
+1834075317,node,La vieille Champagne,restaurant,Reims,,,,49.2679558,4.0448012
+1834363875,node,Le Jamin,restaurant,Reims,18,,http://www.lejamin.com/,49.2611662,4.0468432
+2300164859,node,L'Expérience,restaurant,Reims,"83 Place Drouet d'Erlon, 51100, Reims",51100,https://www.lexperience-reims.fr/,49.2564904,4.0259286
+2380712048,node,Buffalo Grill,restaurant,Reims,,,,49.1203226,4.2446739
+2399713000,node,Le Clairmarais,restaurant,Reims,,,,49.2617491,4.0248668
+2771807099,node,Flunch,restaurant,Reims,"51430, Tinqueux",51430,,49.2549294,3.978333
+2968380596,node,L'Ermitage,restaurant,Reims,,,,49.2676376,4.1272204
+2974391017,node,Les Quatre Vents,restaurant,Reims,,,,49.272497,3.8919609
+2986056091,node,Flunch,restaurant,Reims,,,,49.2611154,4.0668289
+3024419007,node,Nihao,restaurant,Reims,"1 Route de Soissons, 51430, Tinqueux",51430,http://restaurant-nihao.fr/,49.2509987,3.9843818
+3033545574,node,Le Saint-Valentin,restaurant,Reims,,,,49.2628046,4.1055442
+3041498741,node,Best Western Centre Reims,hotel,Reims,,,,49.2563035,4.0260904
+3328361092,node,Brasserie Au Conti,restaurant,Reims,93,,,49.2569088,4.0257372
+3473041983,node,Hôtel Akena,hotel,Reims,"79 Rue Alfred Kastler, 51430",51430,https://hotel-akena-reims.fr/,49.2213606,4.0025953
+3481388893,node,B&B Hôtel,hotel,Reims,4,,https://www.hotel-bb.com/fr/-/hotelByName.htm?id=4562,49.2582333,4.0220711
+3528639836,node,Au Touring,hotel,Reims,,,http://www.autouring.com/,49.2558298,4.0241515
+3640201131,node,Domaine les Crayères,hotel,Reims,,,,49.2412482,4.0517291
+3646649252,node,L'Auberg'Inn,restaurant,Reims,55 Route Nationale,,,49.2870767,3.8125063
+3647130619,node,Au Chant des Galipes,restaurant,Reims,,,,49.1472062,4.1626715
+3663798500,node,Le Bistrot du Circuit,restaurant,Reims,,,,49.2508969,3.9101731
+3723373174,node,Hôtel Cecyl,hotel,Reims,24,,,49.2548933,4.0259984
+3986239218,node,Au Petit Four,restaurant,Reims,,,,49.3497196,4.2079461
+3992206591,node,Les Pionniers,restaurant,Reims,1,,https://www.facebook.com/lespionners/,49.2178219,4.0227157
+3992206600,node,Campanile,restaurant,Reims,,,,49.2191483,4.0224259
+3992207083,node,Le Soleil d'Asie,restaurant,Reims,,,,49.2189027,4.0216072
+3997430341,node,Shanghai Tower,restaurant,Reims,17,,,49.2309142,4.0854826
+4209368962,node,Mets Envies,restaurant,Reims,"3 Place Truchon, 51220, Hermonville",51220,https://www.restaurant-metsenvies.fr/,49.334868,3.9086502
+4274841990,node,Fujin Chinese Buffet,restaurant,Reims,"52 Avenue Sarah Bernhardt, 51430, Tinqueux",51430,,49.2507592,3.9780055
+4321668390,node,La Fermette Champenoise,hotel,Reims,"8 Rue de la Picardie, 51700",51700,,49.1484335,3.7877131
+4373148663,node,Lys du Roy,restaurant,Reims,,,,49.1644514,3.9720247
+4387276100,node,Le Hangar,restaurant,Reims,"3 Avenue des Goisses, 51350, Cormontreuil",51350,https://lehangar51.com/,49.2159066,4.059478
+4869858124,node,Le Gaulois,restaurant,Reims,"2 Place Drouet d'Erlon, 51100, Reims",51100,https://www.brasserielegaulois.com/,49.2543976,4.0280328
+4903206070,node,Salon de thé Le Tau,restaurant,Reims,2,,,49.2531394,4.0340256
+4928350991,node,Le Coquet,restaurant,Reims,"6 Place de la Liberté, 51500, Ludes",51500,,49.1525929,4.0803326
+4999413174,node,Blue Hotel,hotel,Reims,"1 Rue de Bernex, 51370, Saint-Brice-Courcelles",51370,https://www.blue-hotel-reims.fr/,49.2812627,4.0054719
+5141690037,node,KWABO,restaurant,Reims,"31 Rue de Courcelles, 51100, Reims",51100,https://kwabo-reims.fr/,49.2582155,4.0212648
+5155442243,node,Hôtel de la Cathédrale,hotel,Reims,"20 Rue Libergier, 51000",51000,,49.2521368,4.0291533
+5160740628,node,Hôtel Europe,hotel,Reims,,,,49.2541079,4.0251967
+5160740629,node,Le Mandarin,restaurant,Reims,"31 Rue de Thillois, 51100",51100,https://lemandarinreims.fr/,49.2533604,4.0261076
+5160785811,node,Novotel Suite,hotel,Reims,,,,49.2613369,4.0245924
+5161358275,node,Le Bon Moine,hotel,Reims,,,,49.252557,4.0283706
+5161358276,node,Le Bon Moine,restaurant,Reims,,,,49.2526425,4.0284875
+5161366417,node,Au Bureau,restaurant,Reims,"9 Place du Cardinal Luçon, 51100, Reims",51100,https://www.aubureau.fr/restaurant/?ville=AB_Reims,49.2529084,4.0326095
+5163323114,node,Shin'Zen,restaurant,Reims,,,,49.2514309,4.0239081
+5163802878,node,L'Antica,restaurant,Reims,"48 Rue Chanzy, 51100, Reims",51100,https://www.pizza-antica.fr,49.2517687,4.0326394
+5163802880,node,La Trattoria,restaurant,Reims,"45 Rue Chanzy, 51100, Reims",51100,,49.2520519,4.0327499
+5171794202,node,Sakura sushi & thaï,restaurant,Reims,,,,49.2605091,4.0225173
+5171794204,node,La Pizza de Nico,restaurant,Reims,"9 Rue Gaston Boyer, 51100, Reims",51100,https://lapizzadenico.com/restaurant/la-pizza-de-nico-reims/,49.2615301,4.0200866
+5174221829,node,L'Univers,restaurant,Reims,"67 Rue de Courcelles, 51100, Reims",51100,,49.2591392,4.0203406
+5310179287,node,Appart'Hotel,hotel,Reims,17,,,49.2633399,4.0363216
+5538329223,node,Chez Armand,restaurant,Reims,"4 Place du Forum, 51100, Reims",51100,https://www.chez-armand-bistro.fr/,49.2561867,4.0338478
+5538329224,node,Côté Sushi,restaurant,Reims,"7 Place du Forum, 51100, Reims",51100,,49.2561023,4.032644
+5753490321,node,Ristorante Del Arte,restaurant,Reims,"10 Rue Jacques de la Giraudière, 51100",51100,https://www.delarte.fr/restaurants/3681-reims-village,49.2398877,4.0847993
+5782715098,node,Sacré Brunch,restaurant,Reims,"59 Rue Cérès, 51000, Reims",51000,https://sacrebrunch.com,49.2570393,4.03786
+5792020602,node,Alba,restaurant,Reims,"5 Rue Salin, 51100",51100,https://www.restaurantalba.fr,49.257145,4.0312433
+5792583819,node,Le Café du Palais,restaurant,Reims,"12;14 Place Myron Herrick, 51100",51100,,49.254644,4.0312482
+5808070687,node,Restaurant Café de la Paix,restaurant,Reims,"9 Rue Buirette, 51100, Reims",51100,https://restaurant-cafe-de-la-paix.fr,49.2545324,4.026761
+5808070691,node,Saigon Cà Phê,restaurant,Reims,"33 Place Drouet d'Erlon, 51100, Reims",51100,https://www.saigon-ca-phe.com/,49.2548302,4.0270459
+5808070724,node,L'Édito,restaurant,Reims,"80 Place Drouet d'Erlon, 51000",51000,https://www.restaurant-ledito-reims.fr/,49.2566949,4.0266701
+5808070727,node,Aux Coteaux,restaurant,Reims,"86 Place Drouet d'Erlon, 51100",51100,https://www.auxcoteaux.com/,49.2569046,4.0264986
+5808070730,node,Maison Gloria,restaurant,Reims,"92 Place Drouet d'Erlon, 51100, Reims",51100,,49.2570654,4.0263915
+5808070735,node,Taj Mahal,restaurant,Reims,"87 Place Drouet d'Erlon, 51100, Reims",51100,https://tajmahal-restaurant.fr/,49.2566505,4.0258656
+5808070750,node,L'Apostrophe,restaurant,Reims,"59 Place Drouet d'Erlon, 51100, Reims",51100,http://www.restaurant-lapostrophe.com,49.2556756,4.02649
+5821528802,node,Little Georgette,restaurant,Reims,"18 Rue Tronsson Ducoudray, 51000, Reims",51000,https://www.lacasernechanzy.com/fr/littlegeorgette.html,49.2533467,4.0318422
+5858869487,node,Le Crypto,restaurant,Reims,,,,49.2563838,4.0343929
+5858869490,node,Céleste,restaurant,Reims,"3 Rue des Élus, 51100, Reims",51100,,49.2558081,4.0328237
+5858981691,node,Le Riad,restaurant,Reims,"12 Rue de Tambour, 51100, Reims",51100,http://restaurant-leriad-reims.com,49.2570488,4.0332345
+5858981694,node,Vapeurs et Gourmandises,restaurant,Reims,,,,49.256573,4.0348749
+5858990388,node,Ö double A,restaurant,Reims,"32 Place du Forum, 51100, Reims",51100,,49.2570986,4.0345717
+5858990390,node,Au Fil des Saisons,restaurant,Reims,"13 Rue Courmeaux, 51100, Reims",51100,https://www.au-fil-des-saisons.fr,49.2570531,4.0355179
+5861221088,node,Bulle 1924,restaurant,Reims,"14 Place Aristide Briand, 51100, Reims",51100,https://www.bulle1924.fr,49.2574552,4.0396889
+6000934280,node,Gambetta,hotel,Reims,,,,49.2506303,4.0357599
+6129515287,node,,restaurant,Reims,,,,49.2537547,4.0281019
+6132548185,node,Bootlegger Speakeasy,restaurant,Reims,,,,49.2607934,4.0218782
+6184855683,node,Chez P'tit Viet,restaurant,Reims,11,,,49.2543106,4.028918
+6222668525,node,L'ArTdoise,restaurant,Reims,"2 Rue Gabriel Voisin, 51100, Reims",51100,https://lartdoise.brasseriemaison.fr,49.2358882,4.0691951
+6284566521,node,Punjab,restaurant,Reims,"6 Rue en Mémoire des Harkis, 51100, Reims",51100,https://punjab-reims.fr,49.2916124,4.0232101
+6284815535,node,Memphis,restaurant,Reims,,,,49.2635769,3.9637121
+6315996181,node,L'Atelier,restaurant,Reims,"89 Place Drouet d'Erlon, 51000",51000,,49.2566904,4.0258291
+6315996183,node,Le paradis du fruit,restaurant,Reims,"71 Place Drouet d'Erlon, 51100, Reims",51100,https://restaurants.leparadisdufruit.fr/reims-drouet-derlon,49.256124,4.0262099
+6316019448,node,La Brigade,restaurant,Reims,"45 Place Drouet d'Erlon, 51100, Reims",51100,https://www.la-brigade.fr/restaurant-reims,49.2553713,4.0267074
+6317937706,node,Le Tablier,restaurant,Reims,"32 Place d'Erlon, 51100",51100,,49.2549555,4.027699
+6358689933,node,Hoang Van,restaurant,Reims,"54 Avenue Jean Jaurès, 51100, Reims",51100,,49.258508,4.0427534
+6359311515,node,Bistro de la Poste,restaurant,Reims,51100,51100,https://www.bistro-de-la-poste.com/,49.2559805,4.0349812
+6359311516,node,Le Millénaire,restaurant,Reims,51100,51100,https://www.restaurant-lemillenaire.com/,49.2561359,4.034262
+6359311526,node,Le Palace,restaurant,Reims,14,,,49.2578016,4.0407218
+6412459265,node,Racine,restaurant,Reims,"6 Place Godinot, 51100",51100,,49.2527649,4.0374948
+6550798570,node,Restaurant Le Parc,hotel,Reims,,,,49.241174,4.0516654
+6747058052,node,La Boucherie,restaurant,Reims,"2 Rue Henri Moissan, 51430, Bezannes",51430,https://www.la-boucherie.fr/restaurant-viande/reims/,49.2162343,3.9960315
+6770375697,node,La Maye,restaurant,Reims,,,,49.2852419,4.0584086
+6799417094,node,Sushido,restaurant,Reims,"62 Rue Gambetta, 51100",51100,https://sushido-reims.fr/,49.2485109,4.0373108
+6924074785,node,Pizza Sarda,restaurant,Reims,"58 Rue Gambetta, 51100, Reims",51100,,49.2486206,4.0372017
+6932797185,node,La Braise,restaurant,Reims,"1 Rue Jean-Jacques Rousseau, 51100, Reims",51100,,49.2580526,4.0330663
+6936993986,node,Au Cul de Poule,restaurant,Reims,"46 Boulevard Carteret, 51000",51000,https://www.auculdepoule.com/,49.2578133,4.0478964
+6967200388,node,Marcel & Jane,restaurant,Reims,,,,49.2477592,4.0383551
+6968939685,node,Anamour Grill,restaurant,Reims,,,,49.2469428,4.0386062
+6976415885,node,Reims Pizza Kebab,restaurant,Reims,,,,49.2488454,4.0369426
+6976743686,node,Chez Françis,restaurant,Reims,,,,49.2538582,4.0411498
+6976759386,node,La Casafa,restaurant,Reims,,,,49.2509127,4.0410104
+6976783985,node,Chèvre et Menthe,restaurant,Reims,,,,49.2491266,4.0400561
+6976784085,node,Sacré Ka,restaurant,Reims,"44 Rue Gambetta, 51100, Reims",51100,https://www.sacreka.fr/,49.2492035,4.0367255
+6978005088,node,La Dame de Cœur,restaurant,Reims,"58 Rue des Moulins, 51100",51100,https://www.restaurantladamedecoeur.fr/,49.2456834,4.0359475
+6979247085,node,Bistrot 31 Reims,restaurant,Reims,1a,,,49.2546566,4.0355628
+6979247086,node,Gueuleton,restaurant,Reims,1,,https://gueuleton.fr/,49.254791,4.0355426
+6982165886,node,Casa d’Urso,restaurant,Reims,,,,49.2511805,4.0382332
+6982165989,node,Pizza Piano,restaurant,Reims,,,,49.2471012,4.0417484
+6982822685,node,Laman,restaurant,Reims,,,,49.2509094,4.0347646
+6983072885,node,Nuraghé Pizza à Emporter,restaurant,Reims,,,,49.2449751,4.043822
+6983085499,node,Pizzéria Venizia,restaurant,Reims,,,https://venizia51.fr/venizia-pizza/reims-barbatre/560/0/12480/page.htm,49.2450683,4.0441183
+6983086289,node,Au Plat du Jour,restaurant,Reims,,,,49.2454189,4.0438137
+6983287885,node,Pizza La Mama,restaurant,Reims,"134 Boulevard Saint-Marceaux, 51100",51100,,49.2522826,4.0437957
+6983496885,node,Le Fontenoy,restaurant,Reims,170,,,49.2507611,4.0525685
+6985301664,node,Liji,restaurant,Reims,"1 Rue Eugène Desteuque, 51100",51100,https://liji51.com,49.2550441,4.0353602
+6986594989,node,Le Clem Restaurant,restaurant,Reims,,,,49.2509751,4.048973
+6987074886,node,La Verriére,restaurant,Reims,2,,,49.2545517,4.0222505
+6987074887,node,Che Diego,restaurant,Reims,"2 Boulevard Jules César, 51100, Reims",51100,https://che-diego.fr/,49.2619595,4.0300037
+6994582585,node,Le Saint-Julien,restaurant,Reims,,,,49.2563174,4.0389446
+7001503085,node,Chez Fred,restaurant,Reims,"9 Rue Jean Dausset, 51430, Bezannes",51430,https://chez-fred.com/,49.2143862,4.0033906
+7002973285,node,Samja,restaurant,Reims,32 Rue Colbert,,,49.2573818,4.0324692
+7007594888,node,La Bottega della Villa,restaurant,Reims,7,,,49.2594404,4.0312955
+7007846585,node,Le Bocal,restaurant,Reims,"27 Rue de Mars, 51100, Reims",51100,https://www.restaurantlebocal.fr/,49.260138,4.0309668
+7007904585,node,Le Marché,restaurant,Reims,"23 bis Rue de Mars, 51100, Reims",51100,,49.2599395,4.0310516
+7007908085,node,Le Boulingrin,restaurant,Reims,"31 Rue de Mars, 51000, Reims",51000,https://boulingrin.fr,49.2603671,4.030874
+7013152085,node,La Gazelle,restaurant,Reims,"13 Avenue Jean Jaurès, 51100, Reims",51100,https://www.lagazellereims.fr/,49.2579362,4.040252
+7013811788,node,Le Flech,restaurant,Reims,2 Esplanade Fléchambault,,,49.2427879,4.039933
+7018229485,node,Hanuri Korean Grill Reims,restaurant,Reims,"1 Rue de Contrai, 51100, Reims",51100,https://www.hanuri.fr/reims/,49.2511487,4.0353386
+7023969685,node,Le Neuf,restaurant,Reims,"9 Route de Bétheny, 51450",51450,,49.2693773,4.0481227
+7025250795,node,New Saigon,restaurant,Reims,8,,,49.2901882,4.0221491
+7031571831,node,Le Bouclards,restaurant,Reims,,,,49.250017,4.0339293
+7033206607,node,Le Valentino,restaurant,Reims,5,,,49.2924772,4.0184038
+7042380186,node,Flunch,restaurant,Reims,,,,49.215134,4.0569579
+7044015485,node,La Table de Bertacchi,restaurant,Reims,"13 Rue Louis Néel, 51430",51430,https://bertacchi.fr/,49.2221773,4.0027006
+7044039985,node,L’Atelier du Pasta,restaurant,Reims,"Rue Louis Néel, 51430",51430,http://latelierdipasta.fr,49.2237919,4.003857
+7044982486,node,Le 19 Green Bezannes,restaurant,Reims,"151 Rue Louis Victor de Broglie, 51430",51430,http://19green-reims-bezannes.com,49.216301,4.0055107
+7048769985,node,Le Farman,restaurant,Reims,,,,49.2367342,4.0728898
+7051659585,node,Oh Caribou,restaurant,Reims,,,https://mangerbouger.fr/,49.2498048,4.0362001
+7058379186,node,La Villa,restaurant,Reims,"30 Rue de Mars, 51000",51000,http://lavillareims.fr,49.259297,4.0318802
+7069085585,node,Gabrielle,restaurant,Reims,,,,49.2526986,4.032732
+7086408191,node,Le Bambi,restaurant,Reims,51100,51100,https://lebambireims.fr/,49.2523509,4.0316907
+7099351100,node,La Boucherie,restaurant,Reims,,,,49.2396702,4.0850618
+7099743311,node,Royal St Brice,restaurant,Reims,1 Rue de Bernex,,,49.2791993,4.0049941
+7110353286,node,Tip Khao,restaurant,Reims,,,https://www.tipkhao.fr/,49.2518836,4.023995
+7187507787,node,Feifei,restaurant,Reims,9,,,49.2402437,4.0842821
+7207832585,node,La Table D'Arthur,restaurant,Reims,,,,49.2554988,4.0356582
+7353828518,node,brasserie,restaurant,Reims,,,,49.2247326,4.0216398
+7354966635,node,The Food Box,restaurant,Reims,,,,49.2355594,4.007636
+7354966637,node,Speedza 51,restaurant,Reims,,,,49.2360551,4.0070325
+7366412150,node,Le Petit Vatel,restaurant,Reims,"139 Rue de Neufchâtel, 51000",51000,https://www.petit-vatel-reims.fr/,49.2769096,4.026678
+7366782318,node,L'Espace Pizza 51,restaurant,Reims,331,,,49.2742173,4.0182192
+7376596017,node,L'Espelette,restaurant,Reims,"29 Rue Roger Salengro, 51000",51000,https://lespelette-reims.fr/,49.2724863,4.0241454
+7389878682,node,Les Cocottes,restaurant,Reims,"70 Rue de Cernay, 51100",51100,https://www.lescocottesduculdepoule.com/,49.25729,4.0482038
+7395080516,node,Restaurant du Parc,restaurant,Reims,,,,49.2409513,4.056776
+7432964610,node,Casa Délice,restaurant,Reims,,,https://www.casadelice.com/,49.2734432,4.0270809
+7434309955,node,Mille et une Graines,restaurant,Reims,,,,49.2608536,4.0665085
+7448534476,node,Chez Nous,restaurant,Reims,30,,,49.2468051,4.0122057
+7474237239,node,Le Saint-rémi,restaurant,Reims,,,,49.2427373,4.0396958
+7474476830,node,Pause Café,restaurant,Reims,,,,49.242214,4.0376628
+7500696105,node,La Cucina di Fossati,restaurant,Reims,"56 Rue de Cernay, 51100, Reims",51100,,49.2571946,4.0470962
+7504371472,node,La Caravane,restaurant,Reims,"13 Rue des Docks Rémois, 51450, Bétheny",51450,https://www.la-caravane.fr/,49.2719983,4.0444212
+7511320010,node,La Calle Havana,restaurant,Reims,"4 Rue Honoré Ganteaume, 51450, Bétheny",51450,,49.2722675,4.0431675
+7515594927,node,Signorizza,restaurant,Reims,,,https://restaurant-pizzeria.signorizza.com/store/signorizza-ormes-ormes-11728,49.2471747,3.9790316
+7543580913,node,Coco Pizzas,restaurant,Reims,"12 Place des Fleurs, 51450, Bétheny",51450,,49.2847487,4.0569108
+7572199702,node,Wasa Sushi,restaurant,Reims,,,,49.2828454,4.000148
+7591638237,node,Duprat et Duprat,restaurant,Reims,,,,49.2707499,4.0266025
+7591638238,node,Le Vérone,restaurant,Reims,2,,https://www.pizzeria-leverone.fr/,49.270523,4.0269287
+7592458900,node,Top Pizza,restaurant,Reims,88,,https://pizzatop-reims.fr/pizza-top/reims/245/0/12062/page.htm,49.2689561,4.0332315
+7592482065,node,La Table Saint-Thomas,restaurant,Reims,58,,https://latablesaint-thomas51.eatbu.com/,49.2658002,4.0289079
+7595382743,node,L'Aqua,restaurant,Reims,"83 Avenue du 29 Août 1944, 51430, Tinqueux",51430,,49.2509875,3.9849296
+7596304934,node,Le Kiosque à Pizza,restaurant,Reims,"50 Avenue Sarah Bernhardt, 51430, Tinqueux",51430,,49.2497592,3.9781244
+7596489693,node,Le Restaurant Campanile Reims Ouest,restaurant,Reims,,,,49.2489259,3.9783845
+7700378898,node,Le Relais de Sillery,restaurant,Reims,"3 Rue de la Gare, 51500, Sillery",51500,,49.2001807,4.1425847
+7767898052,node,,restaurant,Reims,"8 Rue Sainte-Macre, 51170, Fismes",51170,,49.3073376,3.6793469
+7769564885,node,,restaurant,Reims,,,,49.2248401,4.0215049
+7769564895,node,Pacific Pizza,restaurant,Reims,,,,49.2246306,4.0221464
+7769775132,node,Chicken Best,restaurant,Reims,,,,49.2247193,4.0220039
+7769857563,node,Eat Night,restaurant,Reims,,,,49.2247597,4.0219331
+7769857565,node,Gokan Fast,restaurant,Reims,,,,49.2248859,4.0216491
+7773719515,node,Fismes Pizz,restaurant,Reims,"3 Rue des Conciles, 51170, Fismes",51170,,49.3068563,3.6846646
+7794594015,node,L'Esplanade,hotel,Reims,"8 Rue des Chailleaux, 51170, Fismes",51170,,49.3068409,3.6778934
+7794671656,node,L'Esplanade,restaurant,Reims,"8 Rue des Chailleaux, 51170, Fismes",51170,,49.3067825,3.6779905
+7798382740,node,O'Comptoir,restaurant,Reims,,,,49.258737,4.0106393
+7810075293,node,Chez Jeanne,restaurant,Reims,44,,,49.2371473,4.0394046
+7810075294,node,Un Truck de Food,restaurant,Reims,44,,,49.2372907,4.0395415
+7816086303,node,Bistrot des Halles,restaurant,Reims,18,,https://www.bistrotdeshallesreims.com/,49.2601129,4.0315875
+7816086304,node,Les Vieux de la Vieille,restaurant,Reims,16,,,49.2601506,4.0323576
+7820168706,node,V Saveur Pizza,restaurant,Reims,Rue Jean Dausset,,,49.214429,4.0028183
+7820168707,node,Bouche B;Restaurent House,restaurant,Reims,"9 Rue Jean Dausset, 51430, Bezannes",51430,https://restauranthouse.fr/,49.2145552,4.0029443
+7825985462,node,Hôtel du Centre,hotel,Reims,,,,49.3496157,4.222383
+7858610943,node,Résidence Laudine,hotel,Reims,7,,https://residence-laudine-reims.hotelmix.fr/,49.2458625,4.0514543
+7872238935,node,La Medina,restaurant,Reims,"13 Rue de Châtivesle, 51000",51000,http://www.lamedinareims.fr/,49.2557717,4.0258345
+7881238502,node,Le Petit Carbet,restaurant,Reims,,,,49.2511688,4.0498024
+7884438846,node,Comedia Pizza,restaurant,Reims,10,,https://comedia-pizza-reims.fr/comedia-pizza/reims-courlancy/554/0/11110/a-emporter/page.htm,49.2500501,4.0188655
+8259525721,node,Hôtel des Arcades,hotel,Reims,,,,49.2552146,4.0279793
+8291634820,node,Au Soleil d'Or,restaurant,Reims,"8 Rue du Lieutenant Alexandre, 51490, Époye",51490,,49.2895098,4.2397705
+8309498127,node,Cantine,restaurant,Reims,,,,49.2425535,4.0271459
+8390355875,node,Restaurent House,restaurant,Reims,"23 Rue Jacques de la Giraudière, 51100, Reims",51100,https://restauranthouse.fr/,49.241651,4.0854781
+8441037718,node,La Grappe à Pizza,restaurant,Reims,"36 Rue Thiers, 51360",51360,,49.1587357,4.1462276
+8835617223,node,Le Relais Brasserie Pizzeria,restaurant,Reims,,,,49.2862054,3.8146799
+8911456219,node,Atelier Mala,restaurant,Reims,"44 Rue des Élus, 51000",51000,https://ateliermala-reims.com,49.2551414,4.0301834
+8914975432,node,La Pizza Dorée,restaurant,Reims,,,,49.2080129,4.1482563
+8990680841,node,Gambetta Food,restaurant,Reims,,,,49.2506081,4.0357757
+9001365620,node,Hortus,restaurant,Reims,"51 Cours Christian Lange, 51430, Bezannes",51430,,49.2184784,3.9979938
+9201206282,node,L'Escale Farman,hotel,Reims,,,,49.2081935,4.1482447
+9393796108,node,Le Cœur des Bulles,restaurant,Reims,,,,49.1764214,4.2155997
+9882954205,node,Les Pizzas de circuit,restaurant,Reims,,,,49.2508644,3.9154456
+9893767650,node,La table Cora,restaurant,Reims,,,,49.216214,4.0543401
+10009069430,node,Le Parisien,hotel,Reims,,,,49.2650103,4.0259729
+10017805520,node,Délices d'Asie,restaurant,Reims,"131 Avenue Jean Jaurès, 51100, Reims",51100,,49.2608792,4.0484196
+10057112583,node,,restaurant,Reims,,,,49.2833927,4.0099243
+10095905817,node,Piperno,restaurant,Reims,"52 Place Drouet d'Erlon, 51100, Reims",51100,https://piperno.fr/restaurants/3137-piperno-reims,49.255911,4.0270546
+10103697517,node,ThaiShi,restaurant,Reims,,,,49.2630389,4.0543035
+10135380853,node,Le Ch'ti Resto,restaurant,Reims,,,,49.2609389,4.0495432
+10154109298,node,L'ours Bleu,restaurant,Reims,"4 Rue Gaston Boyer, 51100, Reims",51100,https://www.privateaser.com/lieu/48117-l-ours-bleu,49.2609417,4.0216298
+10700021723,node,Resto U Paul Fort,restaurant,Reims,6 Boulevard Franchet d'Esperey,,https://www.crous-reims.fr/restaurant/resto-u-paul-fort-2/,49.2415756,4.0152585
+10704781896,node,Casa Aprile,restaurant,Reims,,,,49.2573584,4.0397186
+10704806076,node,L'Ardennais,restaurant,Reims,"9 Avenue Jean Jaurès, 51100, Reims",51100,https://www.brasserie-lardennais.com/fr/,49.2578259,4.0400144
+10704821226,node,DS Café,restaurant,Reims,,,,49.2556717,4.0335564
+10733333875,node,Resto Afghan,restaurant,Reims,60 rue Clovis Chezel,,,49.2395153,4.0313446
+10829853251,node,Dubble,restaurant,Reims,"33 Cours Christian Lange, 51430, Bezannes",51430,,49.2187667,3.9966304
+10881190913,node,A Table !,restaurant,Reims,"102 Rue Émile Zola, 51100, Reims",51100,https://a-table-reims.eatbu.com/,49.2682187,4.0265906
+10895993834,node,DK le gout du sénégal,restaurant,Reims,"70 Rue Émile Zola, 51100, Reims",51100,,49.2672909,4.0271752
+10896049550,node,sacrebleu,restaurant,Reims,"5 Boulevard Robespierre, 51100, Reims",51100,,49.2707654,4.0266865
+11143612342,node,Residhome Reims Centre,hotel,Reims,,,,49.2577249,4.0231405
+11161887405,node,La Fontaine,restaurant,Reims,"131 Rue du Barbâtre, 51100",51100,,49.2476267,4.0412812
+11278360269,node,Croquignole,restaurant,Reims,"55 Rue Camille Lenoir, 51100",51100,,49.2605128,4.0406419
+11446193077,node,Bangkok factory,restaurant,Reims,,,https://bangkokfactory.fr/,49.2524568,4.0257562
+11593023569,node,Chez Vincent,restaurant,Reims,7 Rue du Loup,,,49.2376459,4.0900982
+11658115674,node,Le Joliron,restaurant,Reims,,,,49.2543094,3.7396066
+11663261898,node,Le Sarcy,restaurant,Reims,,,,49.2067457,3.824419
+11715726860,node,,restaurant,Reims,,,,49.2632853,4.0007441
+11746454549,node,Cul Sec,restaurant,Reims,"61 Rue de Cernay, 51100, Reims",51100,https://www.culsec-reims.fr/,49.257449,4.0481184
+11802169629,node,Resto Grill,restaurant,Reims,"11 Avenue Jean Jaurès, 51100, Reims",51100,,49.2578836,4.0401368
+11816619177,node,3 Brasseurs,restaurant,Reims,"73 Place Drouet d'Erlon, 51100, Reims",51100,https://restaurants.3brasseurs.com/fr/3-brasseurs-reims,49.2562242,4.0261516
+11828367335,node,Alfred Burger,restaurant,Reims,"6 Place Myron Herrick, 51100, Reims",51100,,49.2546564,4.0314668
+11828396809,node,Chez Lauriane,restaurant,Reims,"21 Rue Buirette, 51100, Reims",51100,,49.2544624,4.0259698
+11846881792,node,Aux Délices des Papilles,restaurant,Reims,"2 Rue Lucien Trousset, 51350, Cormontreuil",51350,https://www.auxdelicesdespapilles.fr/,49.2128656,4.0496333
+11891072470,node,Genki,restaurant,Reims,"36 Rue Chanzy, 51100, Reims",51100,,49.2520541,4.0321343
+11912033973,node,L'Antica,restaurant,Reims,"66 Avenue Jean Jaurès, 51100, Reims",51100,https://www.pizza-antica-jaures.fr/restaurant.html,49.2587822,4.0434857
+11916302275,node,Pulcinella,restaurant,Reims,"56 Rue Chanzy, 51100, Reims",51100,,49.2516787,4.0329169
+11921753411,node,Restaurant universitaire CROUS,restaurant,Reims,,,,49.2323447,4.0680993
+11924758069,node,Louise,restaurant,Reims,"15 Rue Marx Dormoy, 51100, Reims",51100,,49.2538456,4.0280377
+11924768269,node,Canard Street,restaurant,Reims,"3 Rue Marx Dormoy, 51100, Reims",51100,https://www.canard-street.fr,49.2536038,4.0282705
+11980886879,node,Monopole,hotel,Reims,,,,49.2549252,4.0277885
+12050627949,node,Giulia Ristorante,restaurant,Reims,"2 Rue de Mars, 51100, Reims",51100,https://restaurant-giulia.squarespace.com,49.2581781,4.0324101
+12050627950,node,L'ExtrA,restaurant,Reims,"23 ter Rue du Temple, 51100, Reims",51100,https://lextra-reims.fr/,49.2599569,4.0323811
+12093773302,node,ibis Styles Reims Centre Cathédrale,hotel,Reims,"21 Boulevard Paul Doumer, 51100",51100,https://all.accor.com/hotel/8714/index.fr.shtml,49.2501583,4.0259235
+12134098776,node,Les 7 anges,hotel,Reims,,,https://septanges.com/,49.2542806,4.0355672
+12158375811,node,Version Originale,restaurant,Reims,"25 bis Rue du Temple, 51100, Reims",51100,https://www.vo-reims.fr/,49.2599314,4.031825
+12158375813,node,Aroma,restaurant,Reims,"23 Rue du Temple, 51100, Reims",51100,https://www.aroma-baramanger.com/,49.2599691,4.0326514
+12158375814,node,Copain comme cochon,restaurant,Reims,"23 bis Rue du Temple, 51100, Reims",51100,,49.2599669,4.0325203
+12192512902,node,Hôtel Latino,hotel,Reims,"33 Place Drouet d'Erlon, 51100, Reims",51100,https://www.latinocafe.fr/hotel/,49.2548141,4.0269952
+12192805470,node,Réjane et Norbert,restaurant,Reims,"38 Rue des Élus, 51100, Reims",51100,https://rejaneetnorbert.fr/,49.2553412,4.0307465
+12193369873,node,Le Troquet du Tambour,restaurant,Reims,,,,49.2572885,4.0328274
+12196569572,node,Séoul,restaurant,Reims,"90 Place Drouet d'Erlon, 51100, Reims",51100,https://seoul-reims.fr/,49.256996,4.0264376
+12205673621,node,Un indien dans la ville,restaurant,Reims,"84 Place Drouet d'Erlon, 51100, Reims",51100,https://www.unindiendanslaville.fr/,49.2568641,4.0265411
+12207007673,node,Hôtel Crystal,hotel,Reims,"86 Place Drouet d'Erlon, 51100, Reims",51100,https://hotel-crystal.fr,49.2569347,4.0266138
+12247065419,node,Cuivré,restaurant,Reims,"2 Rue de Pouilly, 51100, Reims",51100,https://cuivrereims.fr/,49.257254,4.0314673
+12271862928,node,Odette,restaurant,Reims,"43 Boulevard Foch, 51100, Reims",51100,,49.2575699,4.0264333
+12273053747,node,Green sur mesure,restaurant,Reims,"4 Rue Gaston Boyer, 51100, Reims",51100,https://restaurants.greensurmesure.fr/reims-clairmarais/,49.2608664,4.0217523
+12273120381,node,La Grande Georgette,restaurant,Reims,"18 Rue Tronsson Ducoudray, 51100, Reims",51100,https://www.lacasernechanzy.com/fr/restaurant-et-bar.html,49.2535101,4.0316688
+12328186601,node,Coq et vins,restaurant,Reims,"3 Rue de la Prévôté, 51390",51390,https://coqetvins-villedommange.blogspot.com/,49.2001112,3.9360385
+12344463532,node,Les Cornichons,restaurant,Reims,"13 Rue du Général Sarrail, 51100, Reims",51100,,49.2585305,4.0303576
+12438564159,node,La grosse bouteille,restaurant,Reims,"12 Rue de Mars, 51100, Reims",51100,,49.2587389,4.0320094
+12648297890,node,Épices et tout,restaurant,Reims,"13 Rue de Courcelles, 51100, Reims",51100,https://stephanepigeon1.wixsite.com/sas-rhodes--epices,49.2576225,4.0217655
+12759233401,node,La Renardière,restaurant,Reims,,,,49.221068,4.0974908
+12768464392,node,La Bigoudène,restaurant,Reims,,,,49.2514096,4.0297572
+12823369802,node,La grappe à pizza,restaurant,Reims,,,https://la-grappe-a-pizza.eatbu.com,49.1584658,4.1437375
+12860519993,node,Holiday Inn Express & Suites Reims - Rives de Vesles,hotel,Reims,"12 Rue de l'Abreuvoir, 51100, Reims",51100,,49.2520036,4.0181155
+12941645994,node,o sushi 51,restaurant,Reims,,,https://osushi51.fr,49.2618866,4.0290435
+12992092002,node,Pino's Pizzeria,restaurant,Reims,,,,49.2457849,3.910208
+13104212637,node,Prise de Mousse,restaurant,Reims,,,,49.165125,4.0461535
+13138546131,node,Red's,restaurant,Reims,"Parking Leclerc, 51500, Champfleury",51500,https://www.red-s.online/,49.2025468,4.0162466
+13180502302,node,Crêpe Touch Cormontreuil,restaurant,Reims,"1 Boulevard d'Alsace Lorraine, 51350, Cormontreuil",51350,https://www.crepetouch.com/,49.2168886,4.0498942
+13254743701,node,La Table de la boucherie Guiset,restaurant,Reims,"53 Cours Christian Lange, 51430",51430,https://www.maison-guiset.fr/,49.2186087,3.9980926
+13264577670,node,,restaurant,Reims,,,https://meetist.fr/,49.2555319,4.0281636
+13333415237,node,Bistro des Anges,restaurant,Reims,"12 Rue Chanzy, 51100, Reims",51100,https://bistrodesanges.com,49.2526857,4.0313172
+13356353901,node,Au coeur de l'Orient,restaurant,Reims,"4 Rue de la Magdeleine, 51100",51100,https://o-coeur-de-l-orient.eatbu.com/,49.2520039,4.0231246
+13368976510,node,Appart'City Confort Reims Centre,hotel,Reims,"33 Rue Ponsardin, 51100, Reims",51100,https://www.appartcity.com/fr/destinations/champagne-ardenne/reims/reims-centre.html,49.2523294,4.0403677
+13423788519,node,Restaurant Atlantis,restaurant,Reims,avenue des goisses,,https://atlantis-reims.fr,49.2139366,4.0594047
+13440651883,node,Block'Out,restaurant,Reims,"33 Rue Jacques de la Giraudière, 51100, Reims",51100,https://www.blockout.fr/reims,49.2409461,4.0860139
+13495632201,node,Grill Garden,restaurant,Reims,,,https://grillgarden.eatbu.com/?lang=fr,49.3024184,4.3259695
+13631055169,node,Victor by Sharies Reims,restaurant,Reims,"8 Rue des Docks Rémois, 51100, Reims",51100,https://sharies.co/fr/restaurants/victor,49.2615939,4.0219753
+13674339501,node,Aku Ramen,restaurant,Reims,"161 Rue de Vesle, 51100, Reims",51100,https://rakuramenreims.fr/fr,49.2516812,4.0241278
+13929348747,node,TasThé,restaurant,Reims,7 Place Mozart,,,49.2385076,4.0225233

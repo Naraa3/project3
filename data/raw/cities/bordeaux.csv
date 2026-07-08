@@ -1,0 +1,1372 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+352964326,node,Le Merci,restaurant,Bordeaux,,,,44.7971389,-0.5286241
+390235077,node,L'Étoile Bleue,hotel,Bordeaux,1 Rue Miguel de Cervantes,,,44.823602,-0.6736739
+401569943,node,Couleur Latine,restaurant,Bordeaux,"156 Rue Lamartine, 33400, Talence",33400,,44.807209,-0.5860894
+401786576,node,Edwood Cafe,restaurant,Bordeaux,,,,44.8123279,-0.5901316
+446355810,node,Le K Baroque,restaurant,Bordeaux,,,,44.8488384,-0.5708629
+447976441,node,La Belle Époque,restaurant,Bordeaux,2 Allée d'Orleans,,,44.8440041,-0.5708803
+546886836,node,Bouillon Saint-Jean,restaurant,Bordeaux,"25 Rue Charles Domercq, 33000, Bordeaux",33000,https://www.bouillonsaintjean.fr/,44.8268404,-0.5568593
+560726068,node,Resto U' le Capu,restaurant,Bordeaux,"16 Rue Jules Guesde, 33800, Bordeaux",33800,,44.8300426,-0.5660621
+568468818,node,Loutrein,restaurant,Bordeaux,,,,44.8397296,-0.7773371
+582008704,node,La Cafét' Chez Marcel,restaurant,Bordeaux,"158 Avenue du Docteur Albert Schweitzer, 33600, Pessac",33600,https://lacafetchezmarcel.fr/,44.7979669,-0.6200801
+598300489,node,Ibis Budget,hotel,Bordeaux,"Chemin de Sarcignan, 33140, Villenave-d'Ornon",33140,https://all.accor.com/hotel/6675/index.fr.shtml,44.776996,-0.5707457
+603773613,node,Le Chapon Fin,restaurant,Bordeaux,5 Rue Montesquieu,,https://www.chapon-fin.com/fr/node/278,44.8428176,-0.5781398
+623889684,node,Le Plana Café,restaurant,Bordeaux,21 Place de la Victoire,,,44.8307267,-0.5735234
+632635030,node,Ibis Budget,hotel,Bordeaux,,,,44.8435304,-0.5585421
+632635038,node,Ibis,hotel,Bordeaux,"16 Allée Serr, 33100, Bordeaux",33100,,44.8431364,-0.5591933
+635951493,node,Jup Jup,restaurant,Bordeaux,10 Rue des Augustins,,https://jupjup.fr/,44.8323903,-0.5711699
+637836699,node,Le Tournebride,restaurant,Bordeaux,55 Rue Alexis Puyo,,,44.8974755,-0.7432613
+654575821,node,Gajac Pizza,restaurant,Bordeaux,3 Avenue Montaigne,,,44.8873987,-0.6998317
+654575834,node,La Route des Epices,restaurant,Bordeaux,11ter,,,44.8873156,-0.6986478
+673608900,node,Auberge de la Forêt,restaurant,Bordeaux,,,,44.8344046,-0.3891315
+686670644,node,Chez Alex,restaurant,Bordeaux,,,,44.8414283,-0.575174
+689469685,node,Pullman Aquitania,hotel,Bordeaux,,,,44.8895744,-0.5660282
+694544537,node,Hôtel Première Classe Bordeaux Lac,hotel,Bordeaux,Rue du Prof. Georges Jeanneney,,https://www.premiereclasse.com/fr/hotels/premiere-classe-bordeaux-nord-lac,44.8866466,-0.5567249
+694544538,node,All Suites Appart Hotel Bordeaux Lac,hotel,Bordeaux,,,,44.8867302,-0.5576046
+694544539,node,L'Esprit Routier - Les 3 Cardinaux,restaurant,Bordeaux,,,http://www.lespritroutier.fr/,44.8869049,-0.5512758
+731864914,node,Restaurant Universitaire Le Haut-Carré,restaurant,Bordeaux,,,,44.8098794,-0.5974932
+770546419,node,,restaurant,Bordeaux,,,,44.9303987,-0.4740498
+779147629,node,Le Clochard et la Bella,restaurant,Bordeaux,"25 Place Jean Jaurès, 33700, Mérignac",33700,,44.8508836,-0.6448881
+779147649,node,Le Six,restaurant,Bordeaux,,,,44.8517836,-0.6447634
+779147679,node,Le Printemps,hotel,Bordeaux,,,,44.8509678,-0.6450387
+794218904,node,Château Bersol,restaurant,Bordeaux,,,,44.7809304,-0.6463031
+813984459,node,L'Auberge du Marais,restaurant,Bordeaux,,,,44.8108747,-0.5062359
+859369341,node,Au Pays des Merveilles,restaurant,Bordeaux,,,,44.9238944,-0.7587123
+863959983,node,Le Shogun,restaurant,Bordeaux,296,,,44.8813219,-0.6866672
+864586661,node,Ristorante Del Arte,restaurant,Bordeaux,"7 Quai des Queyries, 33015, Bordeaux",33015,https://www.delarte.fr/restaurants/461-bordeaux-bastide,44.8416179,-0.5620739
+872734041,node,L'Envol,restaurant,Bordeaux,,,,44.8608977,-0.6941724
+930762038,node,L'Hirondelle,restaurant,Bordeaux,,,,44.837711,-0.5672736
+933747024,node,Pizza Capri,restaurant,Bordeaux,164 Rue Sainte-Catherine,,,44.8357965,-0.5734162
+1018811715,node,Les Bruyères,restaurant,Bordeaux,,,,44.8967757,-0.773987
+1033189392,node,Meson la Venta,restaurant,Bordeaux,17 Place Meynard,,,44.8341631,-0.5665682
+1036091275,node,Fujiyama,restaurant,Bordeaux,49 Avenue Descartes,,,44.8860099,-0.6928265
+1129411972,node,Haru Haru,restaurant,Bordeaux,93 Cours Gambetta,,https://haruharu.fr/,44.8181757,-0.5850654
+1166981923,node,Le Santosha,restaurant,Bordeaux,2 Place Fernand Lafargue,,,44.8371233,-0.5715283
+1199320105,node,Le Saint-James,restaurant,Bordeaux,3 Place Camille Hostein,,,44.8143497,-0.5042345
+1199320145,node,Café de l'Espérance,restaurant,Bordeaux,10 Rue de l'Esplanade,,,44.8135807,-0.5032354
+1199953029,node,Le Pavillon de Saint-Aubin,hotel,Bordeaux,,,,44.9076772,-0.7435843
+1205585933,node,Hôtel Balladins,hotel,Bordeaux,,,,44.8329828,-0.6704108
+1218862488,node,Casa Soto,restaurant,Bordeaux,"72 Rue Lafontaine, 33800",33800,,44.826982,-0.5687989
+1224635404,node,Les Associés,restaurant,Bordeaux,184 Avenue Pasteur,,,44.8025732,-0.6456737
+1228560248,node,La Terrasse Saint-Pierre,restaurant,Bordeaux,"7 Place Saint-Pierre, 33000",33000,,44.8401324,-0.5705691
+1228567701,node,La talenquère,restaurant,Bordeaux,1 Impasse Saint Pierre,,,44.840097,-0.570452
+1241208112,node,Autour de l'Asie,restaurant,Bordeaux,"1 ter Avenue Gustave Eiffel, 33600, Pessac",33600,,44.7853241,-0.6396268
+1246162966,node,Château de Sogeant,hotel,Bordeaux,,,,44.7581183,-0.4398771
+1345144935,node,Le Roots,restaurant,Bordeaux,"37 Place de la Prévôté, 33670, Créon",33670,http://www.suc-sel.com/,44.77487,-0.3486612
+1345144941,node,Chez Titut,restaurant,Bordeaux,"22 Place de la Prévôté, 33670, Créon",33670,https://cheztitut.fr/,44.7749648,-0.3480381
+1370017294,node,Les Acacias,restaurant,Bordeaux,,,,44.7789886,-0.4620848
+1373688875,node,Hortus,restaurant,Bordeaux,114 Cours de Verdun,,https://www.hortus-restaurant.fr/,44.8513954,-0.5738669
+1423699870,node,Auberge des Clochettes,restaurant,Bordeaux,,,,44.792366,-0.8811816
+1428378627,node,Chez Edouard,restaurant,Bordeaux,,,,44.840914,-0.571978
+1430131528,node,L'imprévu,restaurant,Bordeaux,127 Avenue de Magudas,,,44.8575919,-0.6599205
+1470667439,node,Best Western Premier,hotel,Bordeaux,,,,44.8422688,-0.575916
+1484524772,node,Café Japonais,restaurant,Bordeaux,22 Rue Saint-Siméon,,http://cafejaponais.free.fr/,44.8389182,-0.5731494
+1569615559,node,Vango Cosmopolitan,restaurant,Bordeaux,"16 Rue de l'Hermite, 33520, Bruges",33520,https://vango.bar,44.8892488,-0.6093627
+1576209631,node,L'Avant-Scène,hotel,Bordeaux,36 Rue Borie,,,44.8541755,-0.5689895
+1607920900,node,Mifan,restaurant,Bordeaux,"10 Rue Huguerie, 33000, Bordeaux",33000,https://www.restaurant-mifan.fr/,44.8446818,-0.5789182
+1667128505,node,,restaurant,Bordeaux,,,,44.8111005,-0.7809571
+1667159205,node,,restaurant,Bordeaux,,,,44.8092186,-0.7742087
+1667311503,node,,restaurant,Bordeaux,,,,44.8109083,-0.7529924
+1723383132,node,Le QG Chez Christine,restaurant,Bordeaux,54 Cours de l'Yser,,,44.8277059,-0.5687472
+1723383256,node,La Renaissance Sans Frontière,restaurant,Bordeaux,53 Cours de l'Yser,,,44.8277998,-0.569009
+1723401074,node,Marhaba,restaurant,Bordeaux,22 Cours de l'Yser,,,44.8287469,-0.5683231
+1731116814,node,Le Garfield,restaurant,Bordeaux,"47 Rue des Faures, 33000",33000,,44.8349449,-0.5663423
+1752245906,node,Matondo Mk,restaurant,Bordeaux,16 Cours de l'Yser,,,44.8289916,-0.5682337
+1754966929,node,Casa Sudette,restaurant,Bordeaux,,,https://casa-sudette.fr/,44.8200603,-0.5725056
+1754966931,node,Brasserie du Sud-Ouest,restaurant,Bordeaux,"127 Cours de la Somme, 33800, Bordeaux",33800,https://brasseriedusudouest.business.site/,44.8195054,-0.5724826
+1754966942,node,Pizza Saint-Genès,restaurant,Bordeaux,12 Place Louis Barthou,,,44.8217896,-0.5827056
+1788714454,node,Le Tholosa,restaurant,Bordeaux,,,,44.8417475,-0.6662366
+1803713688,node,La Cabane du Parc,restaurant,Bordeaux,"33200, Bordeaux",33200,,44.8532992,-0.6021112
+1819938405,node,Fellini,restaurant,Bordeaux,,,,44.8135874,-0.552509
+1819938407,node,,restaurant,Bordeaux,,,,44.813068,-0.5526887
+1821078822,node,Grand Cafe de la Faculté,restaurant,Bordeaux,,,,44.8313415,-0.5721368
+1828286226,node,Le Bistrot de la Pimpine,restaurant,Bordeaux,,,,44.7970936,-0.4272763
+1841025821,node,,restaurant,Bordeaux,,,,44.9509425,-0.6058987
+1850035228,node,B&B Hôtel,hotel,Bordeaux,"45 Rue Jacques Prévert, 33700, Mérignac",33700,,44.8448954,-0.6692075
+1869865231,node,Villa Toscane,restaurant,Bordeaux,,,,44.8287176,-0.659119
+1869986695,node,"The Originals Access, Hôtel Bordeaux Aéroport",hotel,Bordeaux,"91 Avenue du Président John Fitzgerald Kennedy, 33700, Mérignac",33700,https://www.theoriginalshotels.com/hotels/bordeaux-aeroport,44.8359395,-0.6877153
+1870051417,node,Pho Saigon,restaurant,Bordeaux,"85 Avenue de la Somme, 33700, Mérignac",33700,https://phosaigon.jimdo.com/,44.8298972,-0.6613248
+1870113436,node,Hôtel Kyriad Prestige,hotel,Bordeaux,116 Avenue de Magudas,,,44.8573297,-0.6645112
+1870149463,node,Inter-Hôtel du Phare,hotel,Bordeaux,3 Rue des Châtaigniers,,,44.8420312,-0.6714423
+1874522532,node,Zenitude Hôtel-Résidences : Bordeaux Aéroport,hotel,Bordeaux,,,https://www.zenitude-hotel-residences.com/,44.8403882,-0.6916737
+1874526455,node,Résidence Girotel,hotel,Bordeaux,,,,44.8444201,-0.6626897
+1875847244,node,Terracotta,restaurant,Bordeaux,,,,44.8293633,-0.6803841
+1875974674,node,L'Appart,restaurant,Bordeaux,Rue Maubec,,,44.8507809,-0.6459049
+1875978925,node,Ginza,restaurant,Bordeaux,"115 Avenue Henri Vigneau, Mérignac",,https://ginza1.webnode.fr/,44.8299693,-0.6651031
+1876017962,node,Pizz'Arlac,restaurant,Bordeaux,130 Avenue Aristide Briand,,,44.8245738,-0.6242183
+1876027558,node,Ô Jardin du Goût,restaurant,Bordeaux,"35 Avenue Gustave Eiffel, 33700, Mérignac",33700,https://www.ojardindugout.fr/,44.8571555,-0.6673512
+1876046296,node,Mario's Pizza,restaurant,Bordeaux,,,,44.8424794,-0.6462712
+1877608623,node,au Chat qui Pète,restaurant,Bordeaux,27 Rue d'Eysines,,,44.8593719,-0.6526721
+1877681787,node,Le Rendez vous des Chasseurs,restaurant,Bordeaux,"1 Avenue du Rouquet, 33700, Mérignac",33700,,44.8160535,-0.6586907
+1877724326,node,Chez Fred,restaurant,Bordeaux,1 Avenue Henri Vigneau,,,44.8413503,-0.6674187
+1879058668,node,Bistrot Clos Montesquieu,restaurant,Bordeaux,"49 Avenue Montesquieu, 33700, Mérignac",33700,https://www.bistrotclosmontesquieu.fr/,44.8462051,-0.6337049
+1879065362,node,L'Eveil,restaurant,Bordeaux,,,,44.8272891,-0.6643808
+1879192410,node,Café Maritime,restaurant,Bordeaux,,,,44.8634344,-0.5556859
+1879317420,node,La Devèze,restaurant,Bordeaux,,,,44.8418884,-0.6678626
+1879334867,node,L'Escale à Pizza,restaurant,Bordeaux,"122 Avenue de la Somme, 33700, Mérignac",33700,https://lascala-merignac.com/,44.8286582,-0.6651432
+1879346324,node,Le Risotto,restaurant,Bordeaux,204 Avenue de la Marne,,,44.8344028,-0.6369849
+1879621336,node,Testa Dura Pizza Club,restaurant,Bordeaux,"2 Cours d'Albret, 33000, Bordeaux",33000,https://www.tdpizzaclub.com/,44.8388645,-0.5816491
+1879627852,node,Le Carioca,restaurant,Bordeaux,30 Rue Docteur Charles Nancel-Pénard,,,44.8394615,-0.5813014
+1879630328,node,Sushi Shop,restaurant,Bordeaux,,,,44.8396235,-0.5812023
+1879677981,node,L'Entrecôte,restaurant,Bordeaux,4 Cours du XXX Juillet,,,44.8432713,-0.5742017
+1879700558,node,Artusi,restaurant,Bordeaux,"10 Rue Maucoudinat, 33000",33000,,44.8390301,-0.5713676
+1879709224,node,La Broche de l'Ôstal,restaurant,Bordeaux,28 Place des Capucins,,https://www.lostaldugout.com/r%C3%B4tisserie-la-broche,44.8299396,-0.567758
+1879709919,node,Icio Parrilla Popular,restaurant,Bordeaux,27 Place des Capucins,,,44.8299178,-0.5676325
+1879714927,node,Le Cochon Volant,restaurant,Bordeaux,22 Place des Capucins,,,44.8298318,-0.5672491
+1879723149,node,Adana,restaurant,Bordeaux,50 Place des Capucins,,,44.8310025,-0.567922
+1879727454,node,La Goulette,restaurant,Bordeaux,81 Cours de la Marne,,https://lagoulette-bordeaux.com/,44.8296408,-0.5677537
+1881685493,node,L'EntrePôte,restaurant,Bordeaux,53 Rue du Mirail,,,44.8328422,-0.5710714
+1881693262,node,Chez Mathilde,restaurant,Bordeaux,,,,44.831186,-0.5677037
+1881713095,node,Teneo Apparthotel,hotel,Bordeaux,,,,44.8281967,-0.5621419
+1885342285,node,Café Pop',restaurant,Bordeaux,1 Rue Kléber,,https://cafe-pop.fr/,44.8300281,-0.5699946
+1885362616,node,Giulio Pizza,restaurant,Bordeaux,,,,44.836071,-0.6246383
+1885936954,node,Döner Kebab,restaurant,Bordeaux,,,,44.8210935,-0.5832699
+1885946784,node,Rien ne vaut le Vin,restaurant,Bordeaux,146 Cours de l'Argonne,,,44.8261498,-0.5769472
+1886741226,node,Tie Break,restaurant,Bordeaux,,,,44.8146045,-0.7140631
+1918787917,node,Artis,restaurant,Bordeaux,"16 Cours du Chapeau Rouge, 33000",33000,https://www.saladerie-artis.fr/,44.8421821,-0.5718287
+1924191991,node,Pizzeria La Mona,restaurant,Bordeaux,"1 Rue Sainte-Marie, 33100, Bordeaux",33100,http://www.pizzeria-la-mona.com,44.8426852,-0.5566966
+1927254620,node,New Mekong,restaurant,Bordeaux,,,,44.8187581,-0.5998322
+1927271551,node,Pizzéria la Médoquine,restaurant,Bordeaux,,,https://www.pizza-medoquine.com/,44.8193388,-0.6000991
+1927310455,node,Yamato,restaurant,Bordeaux,,,,44.8119304,-0.5923351
+1927310463,node,Kawayoshi Ramen Talence – Spécialité : Ramen au bouillon de poulet,restaurant,Bordeaux,237 Bis Cours Gambetta,,,44.8135712,-0.5897788
+1927310495,node,Bistro Régent,restaurant,Bordeaux,,,,44.8124177,-0.5918424
+1927310501,node,Melisone café,restaurant,Bordeaux,,,,44.8098615,-0.5915672
+1927310518,node,L'Alcala,restaurant,Bordeaux,"Place Alcala de Henares, 33400, Talence",33400,https://www.lalcala.com/,44.8120998,-0.5897675
+1927310555,node,Fac' kebab,restaurant,Bordeaux,,,,44.8097174,-0.591578
+1927318883,node,Otaku,restaurant,Bordeaux,,,,44.8016581,-0.5946087
+1927318903,node,Carpe diem,restaurant,Bordeaux,100 bis Avenue Roul,,https://le-carpe-diem.eatbu.com/,44.8058715,-0.5962504
+1927339065,node,See you,restaurant,Bordeaux,6 Cours Gambetta,,,44.8209156,-0.5829293
+1928803088,node,Karl,restaurant,Bordeaux,6 Place du Parlement,,https://www.karlbordeaux.fr/,44.8404243,-0.5719779
+1932014153,node,L'Arc-en-Ciel,restaurant,Bordeaux,"3 Impasse du Couvent, 33000",33000,,44.8515985,-0.5711317
+1932868191,node,Hôtel Indigo,hotel,Bordeaux,,,,44.8497602,-0.5712623
+1965829723,node,Campanile,hotel,Bordeaux,,,,44.8755126,-0.6208398
+1982595495,node,Monkey Mood,restaurant,Bordeaux,"11 Rue Camille Sauvageau, 33800",33800,,44.8335231,-0.565274
+1982595798,node,La Mère Michel,restaurant,Bordeaux,22 Place Meynard,,,44.8344529,-0.566772
+1982597079,node,Donostia,restaurant,Bordeaux,"21 Place Meynard, 33800, Bordeaux",33800,https://www.donostia.fr/,44.8344,-0.5667249
+1982598013,node,L'Atlas,restaurant,Bordeaux,,,,44.83488,-0.5662207
+1982601322,node,Adonis,restaurant,Bordeaux,"49 Place des Capucins, 33800, Bordeaux",33800,https://adonis-restaurant.fr/,44.8310217,-0.5680145
+2015200953,node,Adagio Bordeaux Gambetta,hotel,Bordeaux,,,,44.8398646,-0.5828923
+2026358388,node,sushi design mondésir,restaurant,Bordeaux,329 Avenue d'Arès,,,44.8386189,-0.6171756
+2026361668,node,Délices de Mondésir,restaurant,Bordeaux,1 Rue Seguineau,,,44.8371639,-0.6165775
+2123536033,node,,restaurant,Bordeaux,,,,44.736734,-0.5363779
+2186003096,node,Ibis,hotel,Bordeaux,"35 Cours du Maréchal Juin, 33000, Bordeaux",33000,,44.8363088,-0.5829385
+2213698016,node,Le New Mékong,restaurant,Bordeaux,"56 Avenue du Docteur Nancel Pénard, 33600, Pessac",33600,,44.8093018,-0.6268812
+2231859760,node,Le Bistro Régent,restaurant,Bordeaux,,,,44.841293,-0.5731941
+2238427757,node,Le Cheverus Café,restaurant,Bordeaux,"81, 83 Rue du Loup",,,44.8378644,-0.5754935
+2238453091,node,Le Bocal de Tatie Josée,restaurant,Bordeaux,71 Rue des Trois Conils,,,44.8385362,-0.5787897
+2242681866,node,Mets Mots,restaurant,Bordeaux,,,,44.8483592,-0.5826527
+2242907642,node,Le République,restaurant,Bordeaux,41 Place de la Vème République,,https://brasserielerepublique.com/,44.8059152,-0.630729
+2255516777,node,Zéphirine,restaurant,Bordeaux,"62 Rue Abbé de l'Épée, 33000",33000,https://zephirine.fr/,44.8419276,-0.5827091
+2262581290,node,Le Shogun,restaurant,Bordeaux,69 Avenue Président J.F. Kennedy,,,44.8360157,-0.6789462
+2275275070,node,Logis Hôtel Corintel Bordeaux Est,hotel,Bordeaux,,,https://www.logishotels.com/fr/hotel/logis-hotel-corintel-bordeaux-est-113976,44.865007,-0.4683758
+2278792266,node,La Crêperie,restaurant,Bordeaux,"198 Avenue du Haut-Lévêque, 33600, Pessac",33600,http://www.creperie-pessac.com/,44.782531,-0.6509387
+2278792277,node,Taste and Go,restaurant,Bordeaux,198 Avenue du Haut Lévèque,,,44.7822711,-0.6506068
+2291199046,node,Daifuku,restaurant,Bordeaux,73 Rue de Belfort,,https://www.sushidaifuku.com/,44.8334972,-0.5820355
+2292407498,node,Okinawa,restaurant,Bordeaux,8 Avenue de Verdun,,,44.7806167,-0.6896518
+2352488767,node,Shaïko,restaurant,Bordeaux,,,,44.8427984,-0.5783661
+2353105920,node,Nom d'Une Crepe,restaurant,Bordeaux,"32 Rue Saint-Rémi, 33000",33000,https://nomdunecrepe-bordeaux.com,44.8412443,-0.5720269
+2353105960,node,La Saint-Georges,restaurant,Bordeaux,"51 Rue Saint-Rémi, 33000",33000,,44.841301,-0.5731075
+2353174675,node,OAKBERRY AÇAI,restaurant,Bordeaux,"25 Rue Saint-Rémi, 33000, Bordeaux",33000,https://www.oakberry.com,44.841375,-0.5718545
+2353659441,node,Da Bartolo,restaurant,Bordeaux,14-16 Rue des Faussets,,,44.840337,-0.5705248
+2353659455,node,Osteria Pizzeria da Bartolo,restaurant,Bordeaux,15 Rue des Faussets,,,44.8403901,-0.5706162
+2353659478,node,Le Rajwal,restaurant,Bordeaux,17,,,44.8403356,-0.5706394
+2353659488,node,Ottoman,restaurant,Bordeaux,18 Rue des Faussets,,https://ottoman-bordeaux.eatbu.com/,44.8402684,-0.5705575
+2353659519,node,Le Grill au Thym,restaurant,Bordeaux,2 Rue des Faussets,,,44.8406946,-0.5703634
+2353659535,node,Yumyum,restaurant,Bordeaux,20 Rue du Parlement Sainte-Catherine,,,44.8405389,-0.5732745
+2353659546,node,Les Fils à Maman,restaurant,Bordeaux,19 Rue des Faussets,,,44.8402748,-0.5706693
+2353659705,node,Capperi Pizzaioli Italiani,restaurant,Bordeaux,"3 Rue de la Cour des Aides, 33000",33000,https://www.capperi.fr/,44.8398772,-0.569592
+2353659711,node,Lume,restaurant,Bordeaux,3 Rue des Faussets,,https://ristorantelume.fr,44.8407225,-0.5704868
+2353659743,node,Jako,restaurant,Bordeaux,"34 Rue du Parlement Saint-Pierre, 33000, Bordeaux",33000,,44.8403731,-0.571649
+2353659824,node,Bacchus,restaurant,Bordeaux,5 Rue des Faussets,,,44.840677,-0.5704987
+2353659829,node,Koh I Noor,restaurant,Bordeaux,5 Rue du Puits Descujols,,,44.8409401,-0.5708685
+2353659885,node,Mélodie,restaurant,Bordeaux,"6 Rue des Faussets, 33000",33000,www.restaurant-melodie.fr,44.8405986,-0.5704048
+2353660020,node,Les Voûtes,restaurant,Bordeaux,7 Rue des Faussets,,https://www.restaurantlesvoutes.fr/,44.8406174,-0.5705243
+2370503389,node,Couleur Tibet,restaurant,Bordeaux,56 Rue du Mirail,,https://restaurant-couleur-tibet.fr/,44.832785,-0.5708092
+2373672255,node,Bistro Montesquieu,restaurant,Bordeaux,10 Rue Montesquieu,,,44.8422776,-0.578678
+2373672260,node,Konti By Happyculture,hotel,Bordeaux,,,,44.8423259,-0.5786053
+2373672261,node,Hôtel Tour Intendance,hotel,Bordeaux,"14-16 Rue de la Vieille Tour, 33000, Bordeaux",33000,https://www.hotel-tour-intendance.com/,44.8412083,-0.5796228
+2373672267,node,Le Quatrième Mur,restaurant,Bordeaux,"2 Place de la Comédie, 33000, Bordeaux",33000,https://quatrieme-mur.com/,44.8426619,-0.5740336
+2374835143,node,Chez Azizounette,restaurant,Bordeaux,376 Cours de la Somme,,,44.8149852,-0.5724505
+2381389329,node,Marlone,restaurant,Bordeaux,,,,44.8253985,-0.6136115
+2382079793,node,La Mama,restaurant,Bordeaux,"21 Rue des Remparts, 33000",33000,http://www.pizzeria-la-mama.fr/site.html,44.8400219,-0.5795983
+2385364101,node,Beaubourg,restaurant,Bordeaux,"105 Boulevard Georges Pompidou, 33000",33000,,44.8308166,-0.6031131
+2385436370,node,Elio's,restaurant,Bordeaux,"22 Cours du Chapeau Rouge, 33000",33000,,44.8421595,-0.5722407
+2389521329,node,Chicken hut,restaurant,Bordeaux,"3 Route de Toulouse, 33800, Bordeaux",33800,,44.8145711,-0.5728603
+2393852107,node,Restaurant Atlantique,restaurant,Bordeaux,20 Rue des Augustins,,,44.8323745,-0.5716191
+2398451374,node,Restaurant de la Gare,restaurant,Bordeaux,,,,44.783387,-0.4961892
+2410670511,node,Adagio Access Bordeaux Rodesse,hotel,Bordeaux,33000,33000,https://www.adagio-city.com/fr/hotel-8385-adagio-access-bordeaux-rodesse-ex-citea/index.shtml,44.8332141,-0.5856917
+2413637143,node,Restaurant de l'Abbaye,restaurant,Bordeaux,,,,44.7693228,-0.3124138
+2426715515,node,L'Instant Café,restaurant,Bordeaux,"21 Quai de Bacalan, 33300, Bordeaux",33300,,44.857557,-0.5600427
+2463795332,node,El Chivito,restaurant,Bordeaux,"19 Rue du Cerf Volant, 33000",33000,https://www.elchivito.fr,44.8380199,-0.5715142
+2465172763,node,Brut - cuisine a 1000°C,restaurant,Bordeaux,17 Rue des Frères Bonie,,https://www.brutrestaurant.com/,44.8369087,-0.5797843
+2483766945,node,MEININGER Hotel Bordeaux Gare Saint-Jean,hotel,Bordeaux,"12 Rue du Commerce, Bordeaux",,https://www.meininger-hotels.com/hotels/bordeaux/hotel-bordeaux-gare-saint-jean,44.8269887,-0.5520391
+2483788314,node,Pizza Giulia,restaurant,Bordeaux,"110 Rue des Terres de Borde, 33000, Bordeaux",33000,https://www.giuliabordeaux.com,44.8243552,-0.5545577
+2483788344,node,Grill'Hot,restaurant,Bordeaux,"56 Rue des Terres de Borde, Bordeaux",,,44.82653,-0.5544739
+2485008767,node,L'En K,restaurant,Bordeaux,12,,,44.8242322,-0.5583361
+2485067647,node,Hôtel Regina,hotel,Bordeaux,"34 Rue Charles Domercq, 33800, Bordeaux",33800,,44.8253832,-0.5573905
+2485491914,node,La Gigi,restaurant,Bordeaux,"32 Rue des Allamandiers, 33800",33800,,44.8337756,-0.5651091
+2485497959,node,Boccaccia,restaurant,Bordeaux,52 Place des Capucins,,https://www.boccaccia.fr/,44.8309895,-0.5677949
+2485563760,node,Royal Indien,restaurant,Bordeaux,31 Rue des Augustins,,https://www.royal-indien-bordeaux.com/,44.832488,-0.5723152
+2485563790,node,Nobi Nobi,restaurant,Bordeaux,"262 Rue Sainte-Catherine, Bordeaux",,https://www.nobinobi-streetfood.com/,44.8324877,-0.57286
+2486862506,node,Mamacam,restaurant,Bordeaux,83 Cours Victor Hugo,,https://www.facebook.com/Mamacam-cantine-110224634502035/,44.8353405,-0.5700459
+2486866020,node,Chez Kimmie,restaurant,Bordeaux,"34 Rue Paul Louis Lande, 33000",33000,,44.8340645,-0.5756623
+2486962003,node,Comptoir des Remparts,restaurant,Bordeaux,"64 Rue des Remparts, 33000",33000,http://www.comptoirdesremparts.fr/,44.8387842,-0.5790554
+2486969943,node,L'escalette,restaurant,Bordeaux,6,,,44.8394464,-0.5801215
+2492198375,node,Bo-Bun,restaurant,Bordeaux,37 Rue des Augustins,,,44.8324773,-0.5725699
+2492216747,node,Vinayaka,restaurant,Bordeaux,13 Rue des Augustins,,https://www.restaurantvinayakabordeaux.com/,44.8325148,-0.5716745
+2492259960,node,Chez Pho,restaurant,Bordeaux,100 bis Boulevard Albert 1er,,,44.8136384,-0.5648504
+2501425261,node,Restaurant Pastel,restaurant,Bordeaux,"2 Quai des Chartrons, 33000, Bordeaux",33000,https://restaurant-pastel.com,44.8489303,-0.5708258
+2501425278,node,Papà Lello,restaurant,Bordeaux,"35 Quai des Chartrons, 33000, Bordeaux",33000,https://papafamiglia.com/,44.8509485,-0.5698077
+2501524007,node,Le temps d'une pause,restaurant,Bordeaux,,,,44.8603238,-0.5638512
+2503316953,node,Bar de la Marine,restaurant,Bordeaux,"28 Rue Achard, 33300, Bordeaux",33300,,44.8656305,-0.5489989
+2503800928,node,Café des Arts,restaurant,Bordeaux,138 Cours Victor Hugo,,https://www.lecafedesarts.fr/,44.8347446,-0.5731186
+2506169867,node,La Causerie Des Chartrons,restaurant,Bordeaux,"14 Avenue Émile Counord, 33300, Bordeaux",33300,https://www.lacauseriedeschartrons.com,44.855655,-0.5744682
+2514970208,node,La Tavola Da Vinci,restaurant,Bordeaux,,,,44.7831547,-0.6482294
+2518438996,node,Les Négociants,restaurant,Bordeaux,3 Rue de Guienne,,https://lesnegociants.fr/,44.8355471,-0.5716573
+2519748542,node,Le Bistrot du Musée,restaurant,Bordeaux,37 Place Pey Berland,,,44.837039,-0.57855
+2524273756,node,El Nacional,restaurant,Bordeaux,"23 Rue Rode, 33000, Bordeaux",33000,https://www.elnacional.fr/,44.8527506,-0.5727104
+2529154764,node,Michel's,restaurant,Bordeaux,"15 Rue du Pas Saint-Georges, 33000, Bordeaux",33000,,44.8397188,-0.5721485
+2535568988,node,Fleur de Cèdre,restaurant,Bordeaux,138 Rue d'Ornano,,,44.8340125,-0.5892795
+2546928936,node,Simeone dell'Arte,restaurant,Bordeaux,7 Place Camille Jullian,,,44.838722,-0.5725748
+2548896741,node,La Pataterie,restaurant,Bordeaux,1 Avenue de la Libération,,,44.9179562,-0.4802996
+2553195581,node,Le comptoir de Cédric,restaurant,Bordeaux,"14 Rue de la Liberté, 33320, Le Taillan-Médoc",33320,,44.9067619,-0.6700023
+2567785079,node,La Tanière,restaurant,Bordeaux,41 Quai Richelieu,,,44.8378195,-0.5673341
+2572761660,node,Eat Sushi,restaurant,Bordeaux,"7 Cours Georges Clemenceau, 33000",33000,https://eatsushi.fr,44.8421339,-0.5800189
+2586619869,node,Milk des Douves,restaurant,Bordeaux,34 Rue des Douves,,,44.8301126,-0.5638054
+2587692345,node,Flam's,restaurant,Bordeaux,,,https://www.flams.fr/restaurant_begles.html,44.7948271,-0.532861
+2587692348,node,Les Jardins de l'Orangerie,restaurant,Bordeaux,,,,44.7938201,-0.5289344
+2588040037,node,Ragazzi da Peppone,restaurant,Bordeaux,"4 Place François Mitterrand, 33160, Saint-Médard-en-Jalles",33160,,44.8950675,-0.7163987
+2609581201,node,Tokyo,restaurant,Bordeaux,"Route de Pauillac, 33290, Le Pian-Médoc",33290,https://restaurant-tokyo.fr/,44.9568801,-0.6313135
+2611996280,node,L'Esprit Routier - Les 3 Cardinaux,hotel,Bordeaux,,,,44.8871535,-0.5511377
+2623543317,node,Le Rive Gauche,restaurant,Bordeaux,Bordeaux,,,44.8561301,-0.5617924
+2624553122,node,Sakura,restaurant,Bordeaux,"4 Avenue du 7e Art, 33140, Villenave-d'Ornon",33140,https://www.restaurant-sakura33.fr/,44.7885524,-0.5321964
+2624553123,node,Meuh ! Restaurant,restaurant,Bordeaux,,,https://www.meuh-restaurant.fr/villenave,44.7898652,-0.5310924
+2629646281,node,F1,hotel,Bordeaux,,,,44.8319305,-0.5414439
+2636516992,node,Autour d'une Brôche,restaurant,Bordeaux,"17 Avenue de l'Alouette, 33700, Mérignac",33700,https://www.facebook.com/people/Autour-dune-Br%C3%B4che/100077053886147/,44.8271105,-0.6643041
+2651731065,node,DONO : Cantine Japonaise,restaurant,Bordeaux,12 Rue des Augustins,,,44.8323767,-0.5712568
+2667629006,node,Le Family,restaurant,Bordeaux,12 Rue du Grand Maurian,,,44.8307981,-0.6044625
+2701476486,node,Au Bureau,restaurant,Bordeaux,"3 Rue Louis de Funès, 33140, Villenave-d'Ornon",33140,https://www.aubureau.fr,44.7898911,-0.5308514
+2712410124,node,Le Jean Bart,restaurant,Bordeaux,26 Avenue de la République,,,44.8399654,-0.6009458
+2737105062,node,1001 Sushi,restaurant,Bordeaux,38 Avenue d'Arès,,,44.8364522,-0.600913
+2768136443,node,Hôtel Stars Bordeaux Gare,hotel,Bordeaux,"34 Rue de Tauzia, Bordeaux",,,44.8294641,-0.5589511
+2811915602,node,Bruno Huîtres,restaurant,Bordeaux,"45 Avenue Victor Hugo, 33110, Le Bouscat",33110,,44.8619502,-0.5899273
+2811915661,node,Le Dragon de Jade,restaurant,Bordeaux,"87 Avenue Victor Hugo, 33110, Le Bouscat",33110,,44.8639358,-0.5903163
+2811970401,node,Hotentique Bordeaux,hotel,Bordeaux,"83 Boulevard du Président Wilson, 33200, Bordeaux",33200,,44.8408016,-0.5995004
+2812186220,node,Chez Phillip,hotel,Bordeaux,132,,,44.8151733,-0.5965632
+2814137641,node,Hôtel Majestic,hotel,Bordeaux,"2 Rue de Condé, 33000, Bordeaux",33000,https://www.hotel-majestic.com/,44.8433756,-0.5730995
+2814418216,node,Siem Reap,restaurant,Bordeaux,10 Avenue de Tivoli,,,44.8574245,-0.5914029
+2825152431,node,Tri-délice,restaurant,Bordeaux,294 Avenue d'Arès,,,44.8382935,-0.6143886
+2837938022,node,Goutte de café,restaurant,Bordeaux,"8 Avenue de la Libération, 33700, Mérignac",33700,http://gouttedecafe.fr/,44.8429551,-0.6462843
+2839963323,node,Ragazzi da Peppone,restaurant,Bordeaux,"8 Place de la Liberté, 33600, Pessac",33600,https://ragazzidapeppone.fr/restaurants/,44.8066698,-0.6309585
+2839972786,node,Binh Duong,restaurant,Bordeaux,"40 Avenue du Général Leclerc, 33600, Pessac",33600,https://www.facebook.com/restaurantbinhduong/,44.7955886,-0.6680655
+2852336522,node,Le Grand Café,restaurant,Bordeaux,4 Cours Georges Clemenceau,,,44.8418686,-0.5796404
+2889065742,node,Pizzaping,restaurant,Bordeaux,"Avenue Gaston Cabannes, 33270, Floirac",33270,,44.8301416,-0.5269911
+2895814501,node,Totto,restaurant,Bordeaux,10 Place du Parlement,,,44.840706,-0.572348
+2895913001,node,L'Ombriere,restaurant,Bordeaux,14 Place du Parlement,,,44.840919,-0.572109
+2895917401,node,Le Mascaron,restaurant,Bordeaux,1 Place du Parlement,,,44.840713,-0.571717
+2895923301,node,L'Autre Petit Bois,restaurant,Bordeaux,12 Place du Parlement,,,44.840846,-0.572389
+2895947201,node,Les Vaillants Père & Fils,restaurant,Bordeaux,4 Place Saint-Pierre,,,44.839915,-0.57083
+2896958001,node,O Marie Annie,restaurant,Bordeaux,"35B Place Pey Berland, 33000",33000,,44.8370579,-0.5783328
+2897015101,node,Le 1925,restaurant,Bordeaux,4 Place des Quinconces,,https://le1925.fr/,44.8445749,-0.5754876
+2897023304,node,Brique House,restaurant,Bordeaux,"40 Allées d'Orléans, 33000, Bordeaux",33000,https://briquehouse.com/,44.843602,-0.573893
+2897082472,node,La Tradizione,restaurant,Bordeaux,"6 Place Paul et Jean-Paul Avisseau, 33300",33300,https://www.latradizionebordeaux.fr/,44.8558371,-0.5672052
+2897571901,node,Café Bastide,restaurant,Bordeaux,"69 Allée Serr, 33100",33100,https://lecafebastide.fr,44.843376,-0.557644
+2897681001,node,La Petite Savoie,restaurant,Bordeaux,,,,44.8390556,-0.5698975
+2897710402,node,Bistrot Cul Sec,restaurant,Bordeaux,8 Place du Palais,,https://bistrot-culsec.fr/,44.8381921,-0.5694648
+2899163209,node,Woody's pizza,restaurant,Bordeaux,26 Avenue Saint-Exupéry,,,44.9032855,-0.5133589
+2899170776,node,Maison Emmanuelle Ajon,hotel,Bordeaux,,,,44.8262216,-0.5589395
+2920116718,node,La Réserve,restaurant,Bordeaux,,,,44.7944789,-0.6006896
+2927184017,node,Le Coin des Délices,restaurant,Bordeaux,"1 Rue Brunereau, 33150, Cenon",33150,,44.8530175,-0.5381867
+2947824872,node,Le Gabriel,restaurant,Bordeaux,10 Place de la Bourse,,,44.8413278,-0.5707553
+2950620804,node,Pita Pita,restaurant,Bordeaux,"8 Rue des Faussets, 33000",33000,https://www.pitapitabordeaux.fr/,44.8405425,-0.5704207
+2956894475,node,Le Domaine des Tentations,restaurant,Bordeaux,,,,44.7659938,-0.6197303
+2958488677,node,,hotel,Bordeaux,,,,44.7727637,-0.6148329
+2969991657,node,Le Lotus Bleu,restaurant,Bordeaux,14 Avenue d'Arès,,,44.8365256,-0.5997902
+2982742302,node,Flunch,restaurant,Bordeaux,,,https://www.flunch.fr/restaurant/sainte-eulalie/flunch-bordeaux-eulalie/,44.9055241,-0.4888891
+3027465886,node,Aphrodite,restaurant,Bordeaux,17 Rue Emile Duploye,,https://aphrodite.eatbu.com,44.8399356,-0.56976
+3027476266,node,Istanbul Café,restaurant,Bordeaux,,,,44.8395364,-0.5704338
+3052443656,node,Gargalou,restaurant,Bordeaux,118 Quai de Bacalan,,,44.8605579,-0.5528455
+3066695860,node,La boîte à pizza,restaurant,Bordeaux,,,,44.8544018,-0.5720712
+3073360692,node,Pizza Pirate,restaurant,Bordeaux,"106 Cours de l'Argonne, 33800, Bordeaux",33800,,44.8271864,-0.5759124
+3076603690,node,Monzù,restaurant,Bordeaux,"10B-11 Place du Marché des Chartrons, 33000, Bordeaux",33000,https://www.monzu.fr/chartrons,44.8520165,-0.5721846
+3109654281,node,Le Plat dans l'Assiette,restaurant,Bordeaux,Rue Ausone,,,44.8384344,-0.568492
+3109927395,node,Château de Léognan,hotel,Bordeaux,88 Chemin du Barp,,,44.7061322,-0.6386123
+3118768107,node,Au Roi Carotte,restaurant,Bordeaux,"392 Boulevard du Président Wilson, 33000, Bordeaux",33000,http://restaurant-bordeaux.blogspot.fr,44.8530722,-0.5938045
+3172295161,node,Ristorante Del Arte,restaurant,Bordeaux,"ZAC Les Vergers d'Aquitaine, 33560, Sainte-Eulalie",33560,https://www.delarte.fr/,44.9058696,-0.4867988
+3182998959,node,Le Soufflet,restaurant,Bordeaux,10 Rue d'Arlac,,,44.8251928,-0.6144819
+3183131303,node,Les pizzas d'Émilie,restaurant,Bordeaux,"97 Avenue Jean Cordier, 33600, Pessac",33600,https://les-pizzas-d-emilie.com/,44.8169999,-0.6182861
+3209300015,node,Le Trinquet Bordelais,restaurant,Bordeaux,"Impasse Saint-Exupéry, 33320, Eysines",33320,,44.8592388,-0.6651011
+3223388261,node,Akena Relais-La Brède,hotel,Bordeaux,"1 Avenue de Viana, 33650, LA BREDE",33650,https://www.hotels-akena.com/fr/rooms/hotel-la-brede/,44.6846171,-0.5209879
+3223388264,node,Le Philosophe,restaurant,Bordeaux,1 Avenue de Viana,,,44.6843849,-0.5208399
+3336460636,node,La Cabane Cent Un,restaurant,Bordeaux,"7 Rue Rode, 33000, Bordeaux",33000,,44.8524293,-0.5719442
+3342889513,node,Le Robinson,restaurant,Bordeaux,,,,44.738091,-0.4843
+3393800184,node,La Tupiña,restaurant,Bordeaux,"6 Rue Porte de la Monnaie, 33000, Bordeaux",33000,,44.8328693,-0.5620787
+3396571121,node,,restaurant,Bordeaux,"7 Quai de la Monnaie, 33000, Bordeaux",33000,,44.834354,-0.5635695
+3412582763,node,City Résidence Appart Hôtel Bordeaux,hotel,Bordeaux,,,,44.8554407,-0.5666789
+3416138746,node,ESAT Le Magellan,restaurant,Bordeaux,"9 Rue Claude Chappe, 33600, Pessac",33600,,44.7788902,-0.6651377
+3416181265,node,Le Visconti,restaurant,Bordeaux,"9 Avenue du Bourgailh, 33600, Pessac",33600,https://www.pizzeria-levisconti-pessac.fr/,44.8005823,-0.6636231
+3416203538,node,Le Serpolet,attraction,Bordeaux,"132 Avenue du Haut-Lévêque, 33600, Pessac",33600,https://restaurantleserpolet.com/,44.7881204,-0.6550901
+3419827077,node,Luuly,restaurant,Bordeaux,"1B Avenue de Verdun, 33200, Bordeaux",33200,https://www.luuly.fr/,44.8554629,-0.6137999
+3450934543,node,Pizz' A' Papa,restaurant,Bordeaux,"97 Rue Camille Sauvageau, Bordeaux",,https://www.facebook.com/pizzapapabordeaux,44.8318616,-0.5623547
+3469722353,node,Frères Z,restaurant,Bordeaux,165 Rue Fondaudège,,https://www.freresz.com/,44.8492434,-0.5838828
+3480904421,node,B&b Hôtel,hotel,Bordeaux,"33520, Bruges",33520,https://www.hotel-bb.com/fr/-/hotelByName.htm?id=4403,44.8879886,-0.5943769
+3550476576,node,Brasserie Belcier,restaurant,Bordeaux,,,,44.82459,-0.5517072
+3611225619,node,Ragazzi da peppone,restaurant,Bordeaux,9 Rue Beaumarchais,,,44.8406544,-0.6479724
+3638955966,node,Papin,restaurant,Bordeaux,64 Rue Bouquière,,,44.8359835,-0.5694249
+3639221379,node,Eat Salad,restaurant,Bordeaux,"13 Place de Stalingrad, 33100, Bordeaux",33100,https://eatsalad.com/notre-restaurant/eat-salad-stalingrad,44.8401289,-0.5590102
+3677750200,node,L'Avenue Carnot,restaurant,Bordeaux,"2 Avenue Carnot, 33200, Bordeaux",33200,,44.8509729,-0.5958758
+3677750201,node,Bistro du Sommelier,restaurant,Bordeaux,,,https://www.bistrodusommelier.com/,44.8389463,-0.5889187
+3677750207,node,La Boucherie,restaurant,Bordeaux,,,,44.8339209,-0.5912232
+3677750208,node,Hôtel Burdigala,hotel,Bordeaux,115 Rue Georges Bonnac,,https://www.burdigala.com/,44.839882,-0.5867171
+3677750211,node,Satine & Bodandy,restaurant,Bordeaux,245 Rue Turenne,,http://www.juliencruege.fr,44.8490061,-0.5932836
+3677750216,node,L'Iguane,restaurant,Bordeaux,"83 Avenue du Président John Fitzgerald Kennedy, 33700, Mérignac",33700,http://www.liguane.fr,44.8361475,-0.6838823
+3677750221,node,Madame B,restaurant,Bordeaux,115 Rue Georges Bonnac,,https://www.burdigala.com/restaurant,44.8398061,-0.586876
+3677750224,node,Le Lorient,restaurant,Bordeaux,,,,44.7936916,-0.38371
+3677767027,node,Le Pirèques,restaurant,Bordeaux,11 Rue de Pirèques,,,44.7419865,-0.5977337
+3677767028,node,Le Pistou,restaurant,Bordeaux,8 Avenue Charles de Gaulle,,http://www.restaurantlepistou.com,44.7131418,-0.5427984
+3677767033,node,Les Chais d'Haussmann,restaurant,Bordeaux,,,https://www.chais-haussmann.com/,44.7422745,-0.6623699
+3701199651,node,Bar à Vin,restaurant,Bordeaux,"3 Cours du XXX Juillet, 33000, Bordeaux",33000,https://baravin.bordeaux.com/,44.8437094,-0.5747913
+3740598780,node,Cairn,restaurant,Bordeaux,47 Rue Fondaudège,,https://restaurant-cairn-bordeaux.fr,44.8466617,-0.5799195
+3754726774,node,La Villa,hotel,Bordeaux,,,,44.8287075,-0.5724648
+3761629735,node,Brouss'Art Musique,restaurant,Bordeaux,"11 Avenue Archimède, 33600, Pessac",33600,https://broussartmusique.fr/,44.782333,-0.6409066
+3761961377,node,Kim Ly,restaurant,Bordeaux,,,,44.8628848,-0.6179473
+3761961378,node,Pizza Poyo,restaurant,Bordeaux,,,,44.8628665,-0.6178866
+3808390829,node,La Piscine,restaurant,Bordeaux,"2 Rue Carnot, 33130, Bègles",33130,,44.8073163,-0.5539583
+3810091168,node,Sushi Toki,restaurant,Bordeaux,"14 Allée des Pins, 33170, Gradignan",33170,https://sushi-toki-gradignan.eatbu.com/,44.7720301,-0.6103095
+3816866938,node,Le Bordeaux,restaurant,Bordeaux,Place de la Comédie,,https://bordeaux.intercontinental.com/le-bordeaux/,44.8426105,-0.57484
+3859750996,node,L'Hostellerie des Criquets,hotel,Bordeaux,,,https://www.lescriquets.com/,44.9152849,-0.627303
+3983972966,node,La Table de Willy,restaurant,Bordeaux,"58 Avenue de la Libération, 33320, Eysines",33320,,44.8861655,-0.6507279
+4002232196,node,Les Récoltants,restaurant,Bordeaux,"18 Rue Sainte-Colombe, 33000",33000,,44.8373332,-0.5704402
+4023650960,node,West Good,restaurant,Bordeaux,,,,44.832354,-0.572281
+4041505890,node,À Bento !,restaurant,Bordeaux,475 Avenue de Verdun,,,44.8413861,-0.6441808
+4099959099,node,Hôtel Formula Club,hotel,Bordeaux,Rue Condorcet,,,44.8543478,-0.5069798
+4119100790,node,Mama Shelter,hotel,Bordeaux,19 Rue Poquelin Molière,,https://fr.mamashelter.com/bordeaux/,44.8399505,-0.5772275
+4123462501,node,Spice Garden,restaurant,Bordeaux,"44 Cours Anatole France, 33000, Bordeaux",33000,https://uniiti.com/shop/spice-garden-1,44.8355665,-0.5836201
+4158795389,node,Le kiosque à pizzas,restaurant,Bordeaux,,,,44.8362186,-0.5991679
+4158802889,node,Au Comptoir d'Augusta,restaurant,Bordeaux,284 Rue Judaïque,,https://www.leclosdaugusta.fr/,44.8401789,-0.5983669
+4159015689,node,Brasserie Liber,restaurant,Bordeaux,127 Rue Georges Bonnac,,,44.8395654,-0.5872023
+4163722489,node,Sushi Design,restaurant,Bordeaux,47 Rue Charles Domercq,,https://www.sushidesign.fr/,44.824116,-0.5579234
+4206298243,node,Bol de riz,restaurant,Bordeaux,49 Rue Fondaudège,,,44.8466928,-0.5799695
+4217564612,node,Hôtel des Voyageurs,hotel,Bordeaux,"3 Bis Avenue Thiers, 33100, Bordeaux",33100,https://hotel-voyageurs-bordeaux.com,44.8406761,-0.5587108
+4217586678,node,L'Oiseau Bleu,restaurant,Bordeaux,127 Avenue Thiers,,,44.8443135,-0.5528064
+4217607334,node,Morues & Tapas,restaurant,Bordeaux,,,,44.8522758,-0.5407072
+4217607338,node,CambodgEat,restaurant,Bordeaux,"20 Avenue Thiers, 33100, Bordeaux",33100,https://cambodgeat.fr/,44.8413354,-0.5585288
+4217607348,node,Litalia Pizzeria,restaurant,Bordeaux,"12 Avenue Thiers, 33100",33100,https://litalia.fr,44.8411799,-0.5587901
+4217607349,node,Mille et une Saveurs,restaurant,Bordeaux,,,,44.8437432,-0.5546469
+4217607350,node,Matsa Caffè,restaurant,Bordeaux,"16 Avenue Thiers, 33100",33100,https://matsacaffe.fr/,44.8412512,-0.5586619
+4217607351,node,L'assiette du coin,restaurant,Bordeaux,200 Avenue Thiers,,,44.8468485,-0.5495737
+4247420568,node,Château la Chèze,hostel,Bordeaux,,,,44.8397447,-0.5188571
+4253415027,node,Bordeaux Clémenceau by HappyCulture,hotel,Bordeaux,,,https://www.hotel-bordeaux-clemenceau.com/,44.8419567,-0.5796483
+4262487354,node,Le Bistro Regent,restaurant,Bordeaux,"48 Rue du Jard, 33700, Mérignac",33700,https://www.bistro-regent.fr/,44.8443528,-0.6396893
+4267936693,node,Le Paradise,restaurant,Bordeaux,,,,44.8231071,-0.5770748
+4267936697,node,Panda Express,restaurant,Bordeaux,216 Rue Fernand Audeguil,,,44.827838,-0.5859525
+4268489774,node,Hôtel Abadie,hotel,Bordeaux,,,,44.8231203,-0.5752211
+4278384635,node,Bistro Régent,restaurant,Bordeaux,50 Rue du Maréchal Joffre,,,44.8350216,-0.5782512
+4278752293,node,L'Univerre,restaurant,Bordeaux,"40 Rue Lecocq, 33000, Bordeaux",33000,http://www.univerre-restaurant.com/,44.8352283,-0.5835908
+4285862461,node,Aroma,restaurant,Bordeaux,"47 Boulevard Victor Hugo, 33670, Créon",33670,,44.7761062,-0.3493652
+4290766989,node,Cantine Gourmande,restaurant,Bordeaux,,,,44.8341006,-0.6102552
+4294713946,node,Bali Bowls,restaurant,Bordeaux,46 Rue Notre-Dame,,,44.8508049,-0.5717736
+4330876704,node,Hôtel Choiseul,hotel,Bordeaux,13 Rue Huguerie,,http://www.hotelchoiseul.com,44.8448101,-0.5790721
+4341511989,node,Atelier des Faures,restaurant,Bordeaux,"15 Rue des Frères Bonie, 33000, Bordeaux",33000,https://www.atelierdesfaures.fr/,44.8369342,-0.579698
+4344451196,node,Yumi,restaurant,Bordeaux,,,,44.8533914,-0.5671903
+4350874714,node,Tasty.rice,restaurant,Bordeaux,,,,44.8748968,-0.519917
+4362784406,node,Ô QG,restaurant,Bordeaux,,,http://www.lemunich.fr/,44.8273423,-0.5513293
+4362797596,node,Angle Alpha,restaurant,Bordeaux,"57 Rue Roullet, 33800, Bordeaux",33800,https://anglealpha.fr/,44.8238242,-0.5515954
+4411383227,node,Hôtel F1 Est Artigues,hotel,Bordeaux,,,,44.8659078,-0.4919602
+4414014323,node,Ginkho,restaurant,Bordeaux,31 Place Meynard,,,44.8347655,-0.5666474
+4426453690,node,Peppone,restaurant,Bordeaux,31 Cours Georges Clemenceau,,,44.8434226,-0.5791752
+4427575089,node,Le Noailles,restaurant,Bordeaux,,,,44.8432473,-0.5756391
+4427576589,node,La Table de l'Épicier,restaurant,Bordeaux,4 Rue Castelnau d'Auros,,https://la-table-de-lepicier-bordeaux.fr/fr,44.841318,-0.5818835
+4428678091,node,Makila Kafé,restaurant,Bordeaux,"17 Quai de Bacalan, 33300, Bordeaux",33300,https://www.makilakafe.com/,44.8572137,-0.5594106
+4434294983,node,Sel et Sucre,restaurant,Bordeaux,,,http://www.creperie-seletsucre.fr/,44.8384638,-0.5698427
+4435932692,node,Nulle Part Ailleurs,restaurant,Bordeaux,,,,44.8468929,-0.5753539
+4440381889,node,Villa Tourny,restaurant,Bordeaux,20 Allée de Tourny,,,44.8434718,-0.5759526
+4440388489,node,Comptoir Cuisine,restaurant,Bordeaux,Place de la Comédie,,https://comptoircuisine.com,44.8422593,-0.5747582
+4440516848,node,Chez Tatie Jeanne,restaurant,Bordeaux,"47 Place des Capucins, 33800, Bordeaux",33800,,44.8310611,-0.5682052
+4445771117,node,Hôtel du Parc,hotel,Bordeaux,10 Rue de la Verrerie,,https://www.hotelduparc-bordeaux.com/,44.8496851,-0.5741136
+4446057471,node,Sweet Corner,restaurant,Bordeaux,"126 Avenue du Docteur Albert Schweitzer, 33600, Pessac",33600,,44.8004832,-0.6175065
+4453608125,node,Café Utopia,restaurant,Bordeaux,,,,44.8390999,-0.5725527
+4454010889,node,585,restaurant,Bordeaux,7 Rue Paulin,,https://585-restaurant.com/,44.8464719,-0.5880505
+4459976090,node,Sushi Delight,restaurant,Bordeaux,"2 Place de l'Église Saint-Augustin, 33000",33000,,44.8326186,-0.6100799
+4468087846,node,La Grande Maison,restaurant,Bordeaux,"Rue Labottière, 33000, Bordeaux",33000,,44.8527734,-0.5889212
+4469202889,node,L'Unité,restaurant,Bordeaux,82 Cours du Raccordement Ambroise Croizat,,,44.8652313,-0.5627221
+4469978330,node,boca a boca,restaurant,Bordeaux,Rue Notre-Dame,,,44.8520388,-0.5711588
+4475288595,node,La Passerelle,restaurant,Bordeaux,,,,44.799993,-0.6116717
+4491088888,node,Le Bistro Régent,restaurant,Bordeaux,6 Cours Georges Clemenceau,,,44.8420389,-0.5795896
+4513740891,node,Salad'in,restaurant,Bordeaux,19 Allée de Boutaut,,,44.8671268,-0.57627
+4549412821,node,Asli,restaurant,Bordeaux,"158 Cours Victor Hugo, 33000",33000,,44.8348848,-0.5745093
+4549870291,node,La Péniche Bistrot Régent,restaurant,Bordeaux,"Quai Armand Lalande, 33000",33000,https://www.bistro-regent.fr/,44.8651426,-0.5579092
+4568770569,node,Au Bon Jaja,restaurant,Bordeaux,"4 Cours d'Alsace et Lorraine, 33000, Bordeaux",33000,https://www.facebook.com/Au-Bon-Jaja-1651791815076512,44.8378955,-0.5679829
+4569640490,node,La Pizzeria de Saint Selve,restaurant,Bordeaux,"3 Grand Rue, 33650",33650,http://www.pizzasaintselve.fr/,44.6706245,-0.4809307
+4580909690,node,Le Guet à pan,restaurant,Bordeaux,50 Place des Capucins,,,44.8302706,-0.5680221
+4584332389,node,Sushi Kòbbo Arcins,restaurant,Bordeaux,"88 Avenue Mirieu de Labarre, 33140, Villenave-d'Ornon",33140,https://www.sushikobboarcins.fr/,44.783007,-0.5372261
+4590603533,node,Le Petit Commerce,restaurant,Bordeaux,"22 Rue du Parlement Saint-Pierre, Bordeaux",,https://www.facebook.com/pg/LE-PETIT-COMMERCE-151929008218963,44.8402405,-0.5712429
+4605644392,node,Born to be Wine,restaurant,Bordeaux,,,,44.7732653,-0.6143975
+4634570090,node,Hestïa,restaurant,Bordeaux,4 Rue Castillon,,,44.8408512,-0.5760252
+4634570091,node,Le Prévert,restaurant,Bordeaux,10 Rue Castillon,,,44.8406724,-0.5759995
+4637342789,node,La Table de Bécassine,restaurant,Bordeaux,"63 Rue Borie, 33300, Bordeaux",33300,,44.8551918,-0.5707026
+4637436992,node,Adey Abeba,restaurant,Bordeaux,83 Cours Aristide Briand,,http://www.restaurant-ethiopien-33.com/,44.8311698,-0.5745215
+4637441490,node,Halva,restaurant,Bordeaux,63 Rue de Pessac,,https://halva-cuisine.fr,44.8299767,-0.5810994
+4637455490,node,L'Amédée,restaurant,Bordeaux,9 Place Amédée Larrieu,,https://www.lamedee.fr/,44.8306091,-0.5812404
+4637867789,node,Ici Argentine,restaurant,Bordeaux,84 Boulevard du Président Wilson,,https://www.iciargentine.com,44.8400178,-0.5990892
+4637908289,node,Hong-Kong,restaurant,Bordeaux,116 Boulevard du Maréchal Leclerc,,,44.8279419,-0.5928363
+4644799996,node,Lotofage,restaurant,Bordeaux,,,,44.8339198,-0.5885653
+4647243321,node,POZ PIZZA,restaurant,Bordeaux,"2 Boulevard George V, 33000, Bordeaux",33000,,44.8274434,-0.5921849
+4647495505,node,BBQ WOK,restaurant,Bordeaux,,,,44.8261278,-0.5577271
+4653451195,node,O' Burger,restaurant,Bordeaux,"26 Avenue Jean Moulin, 33610",33610,,44.7691762,-0.6974586
+4683340410,node,Bistrot de l'Estey,restaurant,Bordeaux,"20 Rue Pierre et Marie Curie, 33130, Bègles",33130,,44.8090134,-0.5549395
+4685488191,node,Dan,restaurant,Bordeaux,6 Rue du Cancera,,,44.839473,-0.570959
+4690069117,node,La Crêperie d'Alba,restaurant,Bordeaux,20 Rue Georges Bonnac,,,44.8403725,-0.5821105
+4690461890,node,Tante Charlotte,restaurant,Bordeaux,7 Rue des Bahutiers,,,44.8395446,-0.5706165
+4693984913,node,Pizzeria La Terrasse,restaurant,Bordeaux,3 Rue de l'Esplanade,,,44.8137043,-0.5035881
+4704353253,node,L’abeille gourmande,restaurant,Bordeaux,"30 Place de la Ferme de Richemont, 33000",33000,https://labeille-gourmande-bordeaux.eatbu.com,44.8360639,-0.572992
+4714704857,node,Courrier Sud,restaurant,Bordeaux,1 ter Allée Félix Nadar,,,44.846816,-0.6770888
+4714707673,node,La Villa,restaurant,Bordeaux,1 Rue Falcon,,,44.8482016,-0.6827039
+4724388693,node,Casa Ferretti,restaurant,Bordeaux,22 Avenue Marcel Dassault,,,44.8799782,-0.5729423
+4738252610,node,Thanh Binh,restaurant,Bordeaux,"49 Rue Élie Gintrac, 33000, Bordeaux",33000,https://thanhbinhviet33.wixsite.com/vietnam,44.8307883,-0.5693997
+4745451724,node,Sushi Shop,restaurant,Bordeaux,,,,44.8536547,-0.5728246
+4745476222,node,fufu,restaurant,Bordeaux,,,https://restaurantfufu.com/,44.8548007,-0.5720642
+4758076151,node,Sushi design,restaurant,Bordeaux,"1 Rue Esprit des Lois, 33000",33000,,44.8433639,-0.571231
+4769553920,node,La Collation,restaurant,Bordeaux,17 Rue Fondaudège,,https://www.lacollation.fr/restaurant/fondaudege,44.8459312,-0.5788878
+4795029022,node,Le Lotus,restaurant,Bordeaux,42 Rue Saint Sernin,,,44.8408922,-0.5823489
+4807360933,node,La Belle Rose,restaurant,Bordeaux,1 Place Aristide Briand,,http://www.labellerose.fr/,44.8781387,-0.5337546
+4807560621,node,B&b Hôtel Bordeaux Est,hotel,Bordeaux,,,https://www.hotel-bb.com/,44.8406091,-0.4918264
+4810819824,node,OKRA,restaurant,Bordeaux,51 Rue Judaïque,,https://www.okra-restaurant.com/,44.8414907,-0.5838231
+4810826622,node,Porte Quinze,restaurant,Bordeaux,15 Rue Émile Duployé,,,44.8400346,-0.569659
+4816138328,node,Le Cohé,restaurant,Bordeaux,"8 Avenue Roger Cohé, 33600, Pessac",33600,https://restaurant-le-cohe.zenchef.com/,44.8065024,-0.6316273
+4816138329,node,Sushi Fou,restaurant,Bordeaux,"7 Place de la Liberté, 33600, Pessac",33600,https://sushifou.fr/fr,44.8065191,-0.631403
+4816138333,node,An Tam,restaurant,Bordeaux,"26 Avenue Pasteur, 33600, Pessac",33600,https://www.facebook.com/antamrestaurant/,44.8060836,-0.6318371
+4823164323,node,La Boîte à Huîtres,restaurant,Bordeaux,"38 Cours du Chapeau Rouge, 33000",33000,http://www.boiteahuitres.com,44.8421429,-0.5728548
+4825954521,node,Konnichiwa,restaurant,Bordeaux,22 Rue Saint-Sernin,,https://www.konnichiwabordeaux.fr/,44.8399438,-0.5820379
+4828313238,node,Le Bouchon Bordelais,restaurant,Bordeaux,"2 Rue Courbin, 33000, Bordeaux",33000,https://www.bouchon-bordelais.com/,44.8418548,-0.5729829
+4830987419,node,Le relais du Liban (Le Bon),restaurant,Bordeaux,"2-4 Avenue Roger Chaumet, 33600, Pessac",33600,https://www.facebook.com/Le-relais-du-Liban-Le-bon-1788193331468063/,44.8043138,-0.6313995
+4838866387,node,Chez les Ploucs,restaurant,Bordeaux,10 Rue des Faussets,,https://chezlesploucs.fr/,44.8404786,-0.5704545
+4838866388,node,Le Cabanon Marin,restaurant,Bordeaux,12 Quai Richelieu,,,44.8387677,-0.5681716
+4838866390,node,Ragazzi da Peppone,restaurant,Bordeaux,10 Quai Richelieu,,,44.8394776,-0.568693
+4838866392,node,L'Embarcadère,restaurant,Bordeaux,3 Rue du Pas Saint-Georges,,,44.8401592,-0.5720532
+4838866394,node,Bistro Régent,restaurant,Bordeaux,"5 Rue Condillac, 33000, Bordeaux",33000,https://www.bistro-regent.fr/bordeaux-condillac/,44.8420556,-0.5792864
+4839963126,node,Au Comestible,restaurant,Bordeaux,,,,44.8329812,-0.562126
+4839963127,node,Kuzina,restaurant,Bordeaux,22 Rue Porte de la Monnaie,,,44.8324933,-0.5625699
+4839963140,node,Le Pala,restaurant,Bordeaux,22 Cours Pasteur,,,44.8349459,-0.5748461
+4840317204,node,Bar Brasserie de l'Hôtel de Ville,restaurant,Bordeaux,"5 Esplanade Charles de Gaulle, 33600, Pessac",33600,https://www.lebhv.com/,44.8049618,-0.631981
+4840656701,node,La Boîte à Pizza,restaurant,Bordeaux,"71 Avenue Pasteur, 33600, Pessac",33600,https://www.laboiteapizza.com/restaurant/Pessac,44.8039088,-0.6370056
+4841261851,node,Ô Saint Michel,restaurant,Bordeaux,3 Rue Gaspard Philippe,,https://o-saint-michel-bordeaux.fr,44.8339511,-0.5664713
+4841261853,node,Le Rizana,restaurant,Bordeaux,,,https://www.rizana.fr/,44.833827,-0.5665205
+4841261854,node,La Table Deruelle,restaurant,Bordeaux,9 Rue Gaspard Philippe,,https://www.la-table-deruelle-restaurant-bordeaux.com/,44.8337416,-0.5665543
+4850314022,node,Bistrot Vanzetti,restaurant,Bordeaux,,,http://vanzetti-bistrot.fr/,44.8410964,-0.5722646
+4853779571,node,Chez Mario,restaurant,Bordeaux,"10 ter Avenue Jean Jaurès, 33600, Pessac",33600,http://www.chezmario.fr,44.8062048,-0.6301328
+4856376537,node,Camarades,restaurant,Bordeaux,230 Rue d'Ornano,,https://camaradesrestaurant.fr/,44.8326397,-0.5940014
+4856376542,node,Pizza Vitti,restaurant,Bordeaux,236 Rue d'Ornano,,,44.8325008,-0.5944914
+4856376543,node,Comptoir d'Ornano,restaurant,Bordeaux,,,,44.8325922,-0.5947121
+4891369723,node,Kogi,restaurant,Bordeaux,"24 Rue Paul Louis Lande, 33000",33000,,44.8343435,-0.5754888
+4905454576,node,Au Bouchon des Chartrons,restaurant,Bordeaux,,,,44.8589009,-0.5572362
+4905454577,node,L'annexe,restaurant,Bordeaux,53 Quai de Bacalan,,,44.8589322,-0.5571685
+4905491299,node,Paus'K,restaurant,Bordeaux,"24 Quai de Bacalan, 33300, Bordeaux",33300,,44.8577817,-0.5597822
+4905491300,node,Salade Royale,restaurant,Bordeaux,"24 Quai de Bacalan, 33300, Bordeaux",33300,,44.8578326,-0.5597349
+4905493614,node,La Brasserie des Chartrons,restaurant,Bordeaux,,,https://labrasseriedeschartrons.fr/,44.8571373,-0.5611865
+4905493615,node,Dar... Jade,restaurant,Bordeaux,,,,44.8571719,-0.5611021
+4905497009,node,Chai les Copains,restaurant,Bordeaux,,,,44.8568591,-0.5618001
+4908027722,node,Dat Viet,restaurant,Bordeaux,"139 Boulevard George V, 33400",33400,,44.8228915,-0.5857301
+4928251889,node,Pickles,restaurant,Bordeaux,15 Rue Notre-Dame,,https://picklesbordeaux.com/,44.850025,-0.5724122
+4937056700,node,Resto Chut,restaurant,Bordeaux,91 Rue Lecocq,,,44.8340595,-0.5868553
+4937057024,node,Le Pressensé,restaurant,Bordeaux,,,,44.8322025,-0.574853
+4961403682,node,La Brasserie Bordelaise,restaurant,Bordeaux,"50 Rue Saint-Rémi, 33000, Bordeaux",33000,https://www.brasserie-bordelaise.fr/,44.8411818,-0.5730011
+4961608085,node,Le Goût du Maroc,restaurant,Bordeaux,42 Cours de la Marne,,,44.8302605,-0.5696133
+4966898221,node,Ma Part des Anges,restaurant,Bordeaux,"10 Rue de la Vieille Église, 33700",33700,http://www.mapartdesanges.com,44.8411728,-0.6473998
+4974299402,node,Le Fair Play,restaurant,Bordeaux,"4 Avenue Pierre Corneille, 33600, Pessac",33600,,44.8038274,-0.6237014
+4974992328,node,Ciluya,restaurant,Bordeaux,67 Boulevard George V,,,44.8253994,-0.58963
+4975732521,node,Mario Lillo Cafe,restaurant,Bordeaux,,,,44.8254725,-0.5897384
+4976007481,node,Le Bistrot chez Louis,restaurant,Bordeaux,22 Route de la Seleyre,,,44.8009256,-0.5031398
+4976033645,node,Restaurant du Golf de Teynac,restaurant,Bordeaux,,,https://golf-teynac.com/,44.8592086,-0.3651745
+4976033646,node,Domaine de la Perrière,restaurant,Bordeaux,,,https://domaine-laperriere.fr/,44.8353288,-0.4910285
+4976033647,node,Les Pieds sous la Table,restaurant,Bordeaux,,,http://www.les-piedssouslatable.fr,44.837366,-0.4861808
+4976033648,node,Papadam,restaurant,Bordeaux,,,,44.8249921,-0.4494073
+4976033650,node,Asia Express,restaurant,Bordeaux,,,,44.8246571,-0.4493576
+4976033651,node,Le Jep's,restaurant,Bordeaux,48 Avenue de l'Entre 2 Mers,,,44.8242879,-0.4469309
+4976033652,node,Hôtel-restaurant Maison Rouge,hotel,Bordeaux,,,,44.8245858,-0.4297278
+4977329121,node,La cheminée royale,restaurant,Bordeaux,56 Rue Saint-Rémi,,,44.841166,-0.5733326
+4978050742,node,À l'Eau Tonton Pizza,restaurant,Bordeaux,3 Avenue de l'Hôtel de Ville,,https://www.aleautontonpizza.com/,44.909729,-0.3911539
+4978050743,node,Le Fils du Boucher,restaurant,Bordeaux,,,https://lefilsduboucher.fr/,44.9120528,-0.3951405
+4978050744,node,Les P'tites Arcades,restaurant,Bordeaux,,,,44.9169245,-0.4274723
+4978050745,node,Le Boudoir,restaurant,Bordeaux,,,,44.9163376,-0.4272577
+4979458605,node,Taverne du midi,restaurant,Bordeaux,26 Rue Charles Domercq,,,44.8267348,-0.5568945
+5032748396,node,Le Verdun,restaurant,Bordeaux,,,,44.7797275,-0.6893894
+5049523392,node,A Tavola,restaurant,Bordeaux,"8 bis Chemin des Boutiques, 33610, Cestas",33610,,44.7396246,-0.6800255
+5061380724,node,Influences,restaurant,Bordeaux,"36 Rue Saint-Sernin, 33000",33000,https://www.restaurant-influences.com/,44.8407026,-0.5822748
+5061425821,node,Blisss Cuisine Instinctive,restaurant,Bordeaux,"98 Avenue de Magudas, 33700",33700,https://www.blisss.fr/,44.8568622,-0.6583235
+5104036232,node,Le Basile,restaurant,Bordeaux,,,,44.8407194,-0.6474881
+5112393579,node,Table7,restaurant,Bordeaux,1-3 Rue des Primevères,,https://www.table7.fr/,44.7196858,-0.511719
+5117626523,node,B&B Hôtel Bordeaux Centre Bègles,hotel,Bordeaux,1 Place des Terres Neuves,,https://www.hotel-bb.com/fr/hotels/bordeaux-centre-begles.htm,44.815277,-0.5513657
+5129348484,node,Chez les potes,hotel,Bordeaux,"2 Place de Ségur, 33650, Cabanac-et-Villagrains",33650,www.chezlespotes.fr,44.6056849,-0.5538294
+5129351402,node,Château Desplats,restaurant,Bordeaux,109 Chemin du Bord de l'Eau,,,45.0040919,-0.5823213
+5129351403,node,La Bonne Pâte,restaurant,Bordeaux,15 Place Duffour Dubergier,,,45.008679,-0.6130854
+5129351404,node,La Brochetterie,restaurant,Bordeaux,4 Place Bacalan,,,44.9812643,-0.6038611
+5129351405,node,La Table d'Agassac,restaurant,Bordeaux,,,http://tabledagassac.com/,44.9680506,-0.6070805
+5129351406,node,L'Orépol,restaurant,Bordeaux,"516 Route de Pauillac, 33290, Le Pian-Médoc",33290,http://lorepol.eatbu.com/?lang=fr,44.9534369,-0.6300029
+5129351407,node,Le Pont Bernet,hotel,Bordeaux,,,https://www.pont-bernet.fr/,44.9548,-0.7032782
+5129351408,node,La Table du Médoc Restaurant du Golf,restaurant,Bordeaux,,,https://golfdumedocresort.com/vin-gastronomie/,44.951288,-0.7117617
+5129351412,node,La Seleyre,restaurant,Bordeaux,,,,44.8015146,-0.502921
+5129351413,node,La Maison du Fleuve,restaurant,Bordeaux,"20 Chemin de Seguin, 33360, Camblanes-et-Meynac",33360,http://www.maisondufleuve.com,44.7672197,-0.5083242
+5129351414,node,Nonna Nostra,restaurant,Bordeaux,"1 Route de Morillon, 33360, Camblanes-et-Meynac",33360,https://www.nonnanostra.fr/,44.7649931,-0.4867207
+5129351415,node,L'Entre deux Verres,restaurant,Bordeaux,,,https://lentredeuxverres.com/,44.7553479,-0.4889351
+5129351416,node,Restaurant du Domaine de Larchey,hotel,Bordeaux,,,https://domainedelarchey.com/fr/,44.70056,-0.5271573
+5129351417,node,La Table de Montesquieu - L'annexe du Chiopot,restaurant,Bordeaux,9 Place Saint Jean d'Etampes,,,44.6814628,-0.5268044
+5129352223,node,Le Globe Trotter,restaurant,Bordeaux,,,,44.7257876,-0.596988
+5129352224,node,Le Manège,restaurant,Bordeaux,,,http://www.lemanege-leognan.fr,44.7133615,-0.6371781
+5181031699,node,Sushi Fou,restaurant,Bordeaux,,,https://www.sushifou-gradignan.com/,44.7720218,-0.6149093
+5273807221,node,Mosto Buffet,restaurant,Bordeaux,"Rue des Frères Lumière, 33130",33130,,44.7961016,-0.5353927
+5295913221,node,Coté Pizz',restaurant,Bordeaux,,,,44.8481463,-0.4631156
+5324825122,node,Vesper,restaurant,Bordeaux,33000,33000,,44.8370999,-0.5726028
+5325447102,node,La Piazzetta,restaurant,Bordeaux,,,,44.7740281,-0.6129633
+5325447107,node,O' Comptoir des Filles,restaurant,Bordeaux,,,,44.7740657,-0.6126861
+5335523084,node,Restaurant Le Limancet,restaurant,Bordeaux,,,,44.8674128,-0.6582106
+5335523088,node,Restaurant L'Occitanie,restaurant,Bordeaux,,,,44.8666166,-0.6567527
+5358463694,node,Tasty Grill,restaurant,Bordeaux,"152 Avenue du Docteur Albert Schweitzer, 33600, Pessac",33600,,44.7985137,-0.6198784
+5363476721,node,O'bento,restaurant,Bordeaux,,,https://www.lafourchette.com/restaurant/o-bento/354727?cc=18174-54f,44.862656,-0.5569888
+5409995446,node,Le P'tit Gourmand,restaurant,Bordeaux,,,,44.7627692,-0.6543621
+5438078845,node,La Fusion Intendance,restaurant,Bordeaux,6 Cours de l'Intendance,,,44.841941,-0.5751732
+5464333655,node,Mamma Mia,restaurant,Bordeaux,"166 Cours de la Marne, 33800, Bordeaux",33800,,44.8283391,-0.5610947
+5502054504,node,Miao Miao,restaurant,Bordeaux,,,,44.8164909,-0.5861115
+5514308614,node,Eat Salad,restaurant,Bordeaux,51 Rue Lucien Faure,,,44.8639315,-0.5577192
+5514311639,node,Su and Shi,restaurant,Bordeaux,,,,44.8642949,-0.5581746
+5556919623,node,Les Requins Marteaux,restaurant,Bordeaux,10 Esplanade de Pontac,,,44.8632248,-0.5517464
+5559417721,node,Wayo Wayo,restaurant,Bordeaux,,,,44.8633004,-0.5516607
+5559486121,node,L'Échoppe des Halles,restaurant,Bordeaux,10 Esplanade de Pontac,,,44.8632621,-0.5517081
+5561816024,node,Hall' Taglio,restaurant,Bordeaux,,,,44.8630195,-0.5511796
+5649139063,node,,restaurant,Bordeaux,,,,44.8386104,-0.534993
+5649139064,node,Primaire,restaurant,Bordeaux,,,,44.8384088,-0.534946
+5653670744,node,Chez Georges,restaurant,Bordeaux,53 Rue des Faures,,,44.8350275,-0.5665388
+5655740120,node,Pokéo,restaurant,Bordeaux,124 Rue Sainte-Catherine,,,44.8372992,-0.5736413
+5658707956,node,Residhome,hotel,Bordeaux,,,,44.8603009,-0.554296
+5660293869,node,Le Dadès,restaurant,Bordeaux,2 Place du Maucaillou,,,44.8325235,-0.5666438
+5660297433,node,Grabuge,restaurant,Bordeaux,9 Place du Maucaillou,,,44.832141,-0.5672196
+5674906325,node,Alma portuguesa,restaurant,Bordeaux,"59 Quai de Bacalan, 33000, Bordeaux",33000,https://www.alma-bordeaux.com/,44.8590948,-0.556647
+5688171887,node,La Guinguette du Coq,restaurant,Bordeaux,"71 Avenue du Maréchal de Lattre de Tassigny, 33140, Villenave-d'Ornon",33140,https://www.facebook.com/pages/category/Restaurant/La-Guinguette-du-Coq-100189331834053/,44.7710144,-0.5415806
+5705233137,node,Siman Restaurant Brasserie,restaurant,Bordeaux,"7 Quai des Queyries, 33100, Bordeaux",33100,https://www.siman-bordeaux.com,44.8416424,-0.5621558
+5719737614,node,Pizzeria des Copains,restaurant,Bordeaux,,,https://pizzeriadescopains.fr/,44.7579203,-0.6132732
+5729291921,node,Crème,restaurant,Bordeaux,"27 Rue du Parlement Saint-Pierre, 33000, Bordeaux",33000,https://cremebordeaux.fr/,44.8404292,-0.5715938
+5736231853,node,Quartier Gourmet,restaurant,Bordeaux,"115 Rue Achard, 33300, Bordeaux",33300,https://www.quartiergourmet.fr/,44.8695538,-0.5478966
+5753299685,node,La table de Picot,restaurant,Bordeaux,165 Avenue du Général de Gaulle,,https://latabledepicot.fr/,44.9049678,-0.7444942
+5766322102,node,City Résidence Appart Hôtel Bordeaux,hotel,Bordeaux,14 Place Paul et Jean-Paul Avisseau,,,44.8556793,-0.5666055
+5817744553,node,La belle saison,restaurant,Bordeaux,"75 Quai des Queyries, 33000",33000,,44.8493984,-0.5636807
+5841568786,node,Monsieur le Kébabier,restaurant,Bordeaux,42 Rue Saint-Rémi,,https://monsieurlekebabier.com,44.8412147,-0.5725683
+5841572687,node,Punjab Bordeaux,restaurant,Bordeaux,"39 Rue Saint-Rémi, 33000, BORDEAUX",33000,https://punjabbordeaux.fr/,44.8413844,-0.5724863
+5841982646,node,Mokoji,restaurant,Bordeaux,"13 Rue du Serpolet, 33000, Bordeaux",33000,,44.8385899,-0.5720099
+5841982661,node,Dose Podologie Addictive,restaurant,Bordeaux,"33 Quai Richelieu, 33000, Bordeaux",33000,https://dose-jus-fooding.fr,44.8384047,-0.5678672
+5856175884,node,Residhotel Galerie Tatry,hotel,Bordeaux,Cours du Médoc,,https://www.residhotel.com/residence/bordeaux-galerie-tatry,44.863057,-0.5741693
+5863344487,node,Bella Italia - Pizzeria Trattoria,restaurant,Bordeaux,"109 Cours Gambetta, 33150",33150,,44.8430514,-0.5333977
+5865168690,node,Crous Market Le Musée,restaurant,Bordeaux,,,,44.8311808,-0.5701461
+5870659274,node,Les Délices de Kenza,restaurant,Bordeaux,85 Cours de la Marne,,,44.8295951,-0.5675419
+5888552259,node,L'Auberny,restaurant,Bordeaux,3 Place Auberny,,,44.8772515,-0.5264565
+5903907475,node,Le Chai d'Ornon,restaurant,Bordeaux,"17 Place de Courrejean, 33140, Villenave-d'Ornon",33140,https://www.lechaidornon.fr/,44.7733563,-0.5283382
+5918745685,node,Comptoir de Bègles,restaurant,Bordeaux,"64 Avenue Jules Guesde, 33130",33130,,44.8112089,-0.5492113
+5929103452,node,Saveurs nomades,restaurant,Bordeaux,"28 Rue Jean Baspeyras, 33670, Créon",33670,https://www.auxsaveursnomades.fr/,44.7751579,-0.3473128
+5929126311,node,L'Oriental,restaurant,Bordeaux,,,,44.7751946,-0.3483932
+5951692127,node,Yu Teppanyaki,restaurant,Bordeaux,"12 Allée du 7e Art, 33400, Talence",33400,,44.8121238,-0.5920557
+5963732041,node,Sushi Création,restaurant,Bordeaux,"163 Avenue Louis Barthou, 33200, Bordeaux",33200,https://www.sushicreation.fr/cauderans,44.8524822,-0.6153971
+5983182713,node,All Suites Appart Hotel Pessac,hotel,Bordeaux,2 Antoine Becquerel,,www.allsuites-apparthotel.com,44.7863727,-0.643994
+5996583359,node,Les drôles,restaurant,Bordeaux,"21 Rue Saint-Rémi, 33000, Bordeaux",33000,https://www.restaurantlesdroles.fr/,44.8414367,-0.5717372
+6018299150,node,,restaurant,Bordeaux,,,,44.8249385,-0.5322307
+6027072585,node,Food Han Hotpot & Grill,restaurant,Bordeaux,,,,44.8596441,-0.5571406
+6027840887,node,Umami,restaurant,Bordeaux,"8 Place Fernand Lafargue, 33000, Bordeaux",33000,https://www.facebook.com/umamiramenbordeaux,44.8368638,-0.5717557
+6030395394,node,Restaurant du Magasin Général,restaurant,Bordeaux,,,https://darwin.camp/c/les-activites/manger-a-darwin/,44.8496934,-0.5604931
+6031388655,node,Résidence Orfea Bordeaux,hotel,Bordeaux,"25 Allée Eugène Delacroix, 33800, Bordeaux",33800,,44.8224163,-0.5526209
+6033932785,node,Paus'k,restaurant,Bordeaux,38 Place Gambetta,,https://pausk.com/,44.841744,-0.5810283
+6033932786,node,Palais des Saveurs,restaurant,Bordeaux,69 Rue du Palais Gallien,,,44.8438223,-0.5817068
+6048786946,node,Café des 2 chefs,restaurant,Bordeaux,"15 Route de Bergerac, 33750, Camarsac",33750,,44.8332733,-0.3631744
+6069210875,node,A ma Pizza,restaurant,Bordeaux,156 Rue Frédéric Sevene,,,44.8049075,-0.5833972
+6070491110,node,,restaurant,Bordeaux,,,,44.6809772,-0.5271614
+6070569676,node,L'Agape,restaurant,Bordeaux,"40 Rue Gambetta, 33200, Bordeaux",33200,,44.8493199,-0.6162513
+6086310725,node,Suzette,restaurant,Bordeaux,"4 Rue du Pas Saint-Georges, 33000",33000,,44.8403013,-0.5718343
+6086376285,node,Chez Mona,restaurant,Bordeaux,"18 Rue de la Vieille Tour, 33000",33000,,44.8411237,-0.5796521
+6086376286,node,Bistro Poulette,restaurant,Bordeaux,"Place des Capucins, 33000",33000,https://www.bistropoulette.com/,44.8302227,-0.5676156
+6086424686,node,La Douce Parenthèse,restaurant,Bordeaux,"8 bis Rue Maucoudinat, 33000",33000,,44.8390522,-0.5712766
+6093488686,node,Baud et Millet,restaurant,Bordeaux,19 Rue Huguerie,,,44.8447758,-0.5792842
+6139677832,node,L'Atelier,restaurant,Bordeaux,,,,44.8573966,-0.5327404
+6171165764,node,Hôtel Atena,hotel,Bordeaux,"55 Avenue de l'entre-Deux-Mers, 33670, Créon",33670,https://www.hotelatena.fr/,44.7710042,-0.3360817
+6171165765,node,Bistrot Régent,restaurant,Bordeaux,,,,44.7711586,-0.3362885
+6203813287,node,Comptoir Ceviche,restaurant,Bordeaux,"10 Rue Louis Combes, 33000",33000,https://www.comptoirceviche.com,44.841487,-0.5753505
+6208774333,node,La Roseraie,restaurant,Bordeaux,,,,44.8537595,-0.6474266
+6224728640,node,Café Japonais,restaurant,Bordeaux,"13 Rue Saint-Siméon, 33000, Bordeaux",33000,http://cafejaponais.free.fr/,44.8390536,-0.5727373
+6225582948,node,Pizza Del Passato,restaurant,Bordeaux,"249 Avenue Louis Barthou, 33200, Bordeaux",33200,https://pizzadelpassato.fr,44.8525914,-0.6197513
+6225598248,node,Coffret de Saveurs,restaurant,Bordeaux,"188 Avenue Louis Barthou, 33200, Bordeaux",33200,,44.8522733,-0.6188506
+6244808588,node,Bella Ciao,restaurant,Bordeaux,14 Place Pierre Renaudel,,,44.8314527,-0.5618367
+6244808589,node,Opus 34,restaurant,Bordeaux,3 Place Pierre Renaudel,,,44.8315569,-0.5615786
+6255215786,node,Khmer Street Food,restaurant,Bordeaux,"6 Place de Stalingrad, 33100",33100,https://khmer-street-food.eatbu.com,44.8405592,-0.5603754
+6269709466,node,Le Petit Wok,restaurant,Bordeaux,3 Rue du Palais Gallien,,,44.8418322,-0.5812874
+6272265079,node,Wok To Walk,restaurant,Bordeaux,62 Rue Saint-Rémi,,,44.8411194,-0.57372
+6273926646,node,Resto U' La Bastide,restaurant,Bordeaux,"15 Avenue Abadie, 33100, Bordeaux",33100,https://www.crous-bordeaux.fr/restaurant/resto-u-la-bastide/,44.845032,-0.5583828
+6277564985,node,Qu'on se le dise,restaurant,Bordeaux,"214 Avenue Pasteur, 33185",33185,https://m.facebook.com/Quon-se-le-dise-557972524288685/,44.8752302,-0.6795163
+6279288885,node,C'Yusha,restaurant,Bordeaux,"12 Rue Ausone, 33000",33000,http://www.cyusha.com/index.php,44.8382922,-0.5683934
+6279317185,node,Un soir à Shibuya,restaurant,Bordeaux,"44 Rue Saint-Rémi, 33000",33000,http://unsoirashibuya.fr/,44.8412142,-0.5726546
+6279509185,node,Nama,restaurant,Bordeaux,"24 Rue Lafaurie de Monbadon, 33000",33000,https://www.namawinerestaurant.com/,44.8441161,-0.5796513
+6350967381,node,Pince-Fesses,restaurant,Bordeaux,"14 Rue de la Cour des Aides, 33000, Bordeaux",33000,https://pincefesses.fr,44.8396249,-0.5698583
+6369705819,node,Molino,restaurant,Bordeaux,1 Rue Montméjean,,https://molinobordeaux.fr/,44.8403779,-0.5586357
+6369705821,node,Croques et Soupes,restaurant,Bordeaux,5 Rue Calvimont,,,44.8402774,-0.5584622
+6391741431,node,Mensuetto pizze,restaurant,Bordeaux,,,,44.7702631,-0.3096834
+6398116902,node,Les ateliers,restaurant,Bordeaux,81 Rue Amédée Saint-Germain,,,44.8211389,-0.5608704
+6423764486,node,Les Burgers de Colette,restaurant,Bordeaux,10 Rue des Piliers de Tutelle,,https://www.lesburgersdecolette.fr/restaurants/bordeaux-grand-theatre,44.8415841,-0.5735794
+6423822885,node,Woodkitchen,restaurant,Bordeaux,21 Rue de la Vieille Tour,,,44.8408629,-0.5797594
+6448799679,node,Domo,restaurant,Bordeaux,,,,44.8425487,-0.6601159
+6461408570,node,Le Bistrot de Meriadeck,restaurant,Bordeaux,,,,44.8364264,-0.5829265
+6467009861,node,Club House Tchanqué,restaurant,Bordeaux,"43 Avenue Mirieu-de-Labarre, 33140, Villenave-d'Ornon",33140,https://club-house-tchanque.com/,44.7830859,-0.5276568
+6477661485,node,L'aparté,restaurant,Bordeaux,5 Place Ravesies,,,44.8666561,-0.5754336
+6477661488,node,Sabaïdi,restaurant,Bordeaux,,,,44.8654518,-0.5762443
+6483857786,node,Appart'City,hotel,Bordeaux,,,,44.833011,-0.5970347
+6492703740,node,Le Maestro - Chez Kiné,restaurant,Bordeaux,"3-5 Impasse Saint-Jean, 33000, Bordeaux",33000,,44.8294152,-0.5676846
+6504183116,node,Chez Camille,hotel,Bordeaux,"48 Cours de l'Argonne, 33000, Bordeaux",33000,https://www.vitanovae.com/chezcamille,44.8288465,-0.5739118
+6539661820,node,Café du Port,restaurant,Bordeaux,,,https://www.lecafeduport.com/,44.8381469,-0.5584346
+6550052634,node,La Parenthèse,restaurant,Bordeaux,179 Rue Sainte-Catherine,,,44.8352061,-0.5734883
+6561099108,node,All Suites Appart Hôtel,hotel,Bordeaux,"21 Cours Barbey, 33800, Bordeaux",33800,https://www.allsuites-apparthotel.com/residences-hotelieres/All-Suites-Appart-Hotel-Bordeaux-Marne,44.827232,-0.5636153
+6562732559,node,Le Furtado,restaurant,Bordeaux,55 Rue Francin,,,44.8249359,-0.5610455
+6562732561,node,La Tratoria,restaurant,Bordeaux,,,,44.8246726,-0.5601463
+6572980285,node,Pinch,restaurant,Bordeaux,34 Rue Porte de la Monnaie,,,44.8322251,-0.5629106
+6606333022,node,Koi Sushi,restaurant,Bordeaux,"2 TER Cours du Maréchal Leclerc, 33850, Léognan",33850,https://www.koisushi.fr/,44.7298754,-0.6003502
+6611573221,node,Le kimono rouge,restaurant,Bordeaux,,,,44.925424,-0.4659861
+6726372487,node,Le Becquerel,restaurant,Bordeaux,13 Avenue Henri Becquerel,,https://le-becquerel.marketplace.dood.com/fr/home,44.8370416,-0.690337
+6741950187,node,Sushi Lu,restaurant,Bordeaux,14 Avenue Montesquieu,,,44.8952216,-0.7152176
+6745538085,node,Au bureau,restaurant,Bordeaux,"87 Avenue du Président John Fitzgerald Kennedy, 33700, Mérignac",33700,,44.8361296,-0.6858808
+6769228585,node,Le procopio,restaurant,Bordeaux,"15 Avenue Henri Becquerel, 33700, Mérignac",33700,https://www.procopio-restaurant-merignac.fr/,44.8370535,-0.6907437
+6779326886,node,Almaty,restaurant,Bordeaux,,,https://almaty.eatbu.com,44.7724485,-0.6140958
+6812973060,node,Le Familia,restaurant,Bordeaux,,,https://www.familia-brasserie.fr/,44.8628379,-0.5510676
+6813541143,node,Chez les Drolles,restaurant,Bordeaux,158 Rue Emile Combes,,https://www.facebook.com/lesdrolles/,44.8326501,-0.612802
+6826315085,node,Tajinier,restaurant,Bordeaux,49 Avenue Henri Vigneau,,,44.838443,-0.6673309
+6826315086,node,Eurasie Cafétéria,restaurant,Bordeaux,,,,44.83763,-0.6678203
+6826315185,node,Bistrot Régent,restaurant,Bordeaux,,,,44.8383453,-0.6677791
+6850851110,node,La Ferme du Compostelle,restaurant,Bordeaux,,,https://www.lafermeducompostelle.com,44.7936244,-0.6053611
+6853478991,node,Chez Jean-Mi,restaurant,Bordeaux,,,,44.8307041,-0.5677938
+6853488790,node,Les Jardins,restaurant,Bordeaux,,,,44.8301989,-0.5677265
+6854567310,node,La Place,restaurant,Bordeaux,20 Place de l'Église Saint-Augustin,,,44.8329465,-0.6112909
+6855577729,node,Le Bidule,restaurant,Bordeaux,"15 Place de Stalingrad, 33100",33100,,44.8401971,-0.558919
+6886410424,node,La Cuenta,restaurant,Bordeaux,59 Boulevard Ludovic Trarieux,,,44.8391964,-0.5461545
+6894760887,node,Kokomo,restaurant,Bordeaux,,,,44.8411604,-0.573213
+6898167336,node,Pizza Hut,restaurant,Bordeaux,225 Boulevard Godard,,https://www.pizzahut.fr/huts/fr-1/180-bordeaux-ravezies/,44.8646122,-0.5794663
+6917905633,node,Darawok,restaurant,Bordeaux,,,,44.8805888,-0.569929
+6918063686,node,Bar brasserie de l'hôtel de Ville,restaurant,Bordeaux,,,,44.895973,-0.7170199
+6918365683,node,L'Auberge André,restaurant,Bordeaux,1 Place du Grand Port,,,44.7336455,-0.4690901
+6920810743,node,La Cantine du Garage,restaurant,Bordeaux,"176 Rue Achard, 33300, Bordeaux",33300,,44.871131,-0.5457103
+6924082324,node,La Casera,restaurant,Bordeaux,,,,44.8687788,-0.5510315
+6924567375,node,Le Plan B,restaurant,Bordeaux,"8 Place René Maran, 33300, Bordeaux",33300,,44.8757978,-0.5535774
+6924567376,node,Thaï Asie Traiteur,restaurant,Bordeaux,"1 Place René Maran, 33300, Bordeaux",33300,,44.8754367,-0.5527433
+6924617213,node,Saudade,restaurant,Bordeaux,119 Rue Delbos,,,44.8679696,-0.5547727
+6942546557,node,La Vague Gourmande,restaurant,Bordeaux,38 Avenue de Martignas,,,44.8640494,-0.7314082
+6957721018,node,Chez Maxime,restaurant,Bordeaux,"197 Avenue Louis Barthou, 33200, Bordeaux",33200,,44.8526751,-0.6172049
+6958346488,node,Xieng-Maï,restaurant,Bordeaux,5 Boulevard du Président Wilson,,https://xieng-mai.eatbu.com/,44.8370339,-0.5991772
+6961558471,node,Le Bistrot de la Jalle,restaurant,Bordeaux,"22 Rue du Moulin Blanc, 33320, Eysines",33320,https://restaurant-bordeaux.net/,44.8958504,-0.6542958
+6964640456,node,Le petit caboulot,restaurant,Bordeaux,12 Place de l'Église,,https://www.lepetitcaboulot.com,44.7256316,-0.4723965
+6964794019,node,Restaurant O Galo d'Eysines,restaurant,Bordeaux,"65 Avenue de l'Hippodrome, 33320, Eysines",33320,https://www.ogalodeysines.com/menu,44.8744634,-0.6293262
+6964917092,node,La Meule du Berger,restaurant,Bordeaux,"30 Rue Saint-Rémi, 33000",33000,,44.8412727,-0.5719222
+6966161583,node,Dragon Doré,restaurant,Bordeaux,"9 Rue Paul Louis Lande, 33000",33000,,44.8346563,-0.575493
+6966661719,node,Bodega Bodega,restaurant,Bordeaux,"4 Rue des Piliers de Tutelle, 33000, Bordeaux",33000,https://www.bodega-bodega.fr/,44.8417759,-0.5736072
+6971928470,node,Le Tranquille,restaurant,Bordeaux,,,,44.8369403,-0.6064522
+6972576925,node,L'Écharpe,restaurant,Bordeaux,"27 Rue Minvielle, 33000, Bordeaux",33000,https://www.facebook.com/echarperestaurantmarocain/,44.8535022,-0.5718589
+6974190585,node,Tripletta,restaurant,Bordeaux,30 Place Meynard,,https://triplettabordeaux.fr/,44.8347195,-0.5666517
+6976628347,node,Bistro Régent Le Haillan,restaurant,Bordeaux,"205 Avenue de Saint-Médard, 33320, Eysines",33320,,44.8635594,-0.6566234
+6976628348,node,L'Amaryllis,restaurant,Bordeaux,"146 Avenue de Saint-Médard, 33320, Eysines",33320,,44.8626849,-0.6539519
+6978270530,node,Bianca Pizza,restaurant,Bordeaux,66 Cours Victor Hugo,,,44.8352475,-0.5692196
+6978458335,node,Cochon et Chipiron,restaurant,Bordeaux,2 Rue des Douves,,,44.8307892,-0.5667917
+6985142621,node,BurgerTime's,restaurant,Bordeaux,"2 Cours du Maréchal Leclerc, 33850, Léognan",33850,https://www.burgertimes.shop,44.7298647,-0.6005471
+6985142622,node,Pizza Di Litta,restaurant,Bordeaux,"6 Cours du Maréchal Leclerc, 33850, Léognan",33850,,44.7301026,-0.6006361
+6985845575,node,Santosha,restaurant,Bordeaux,337 Cours de la Libération,,,44.8098186,-0.5915706
+6985901633,node,Dely's food,restaurant,Bordeaux,"6 Allée du 7e Art, 33400, Talence",33400,,44.812283,-0.5919022
+6985916677,node,Poke Moon,restaurant,Bordeaux,,,,44.8111281,-0.5928659
+6987689508,node,Asia Délices,restaurant,Bordeaux,"14 Rue du Grand Maurian, 33000, Bordeaux",33000,,44.8308337,-0.6047792
+6987756914,node,Tea cosy,restaurant,Bordeaux,"11 Rue du Grand Maurian, 33000, Bordeaux",33000,https://tea-cosy.com/,44.8308918,-0.6040366
+6989717886,node,Sushi KÒBBO,restaurant,Bordeaux,"2bis Rue Antoine Becquerel, 33600, Pessac",33600,,44.7860622,-0.6434207
+6991387578,node,Ma-kan-do,restaurant,Bordeaux,,,,44.831704,-0.57295
+6992581375,node,SUSHI 7,restaurant,Bordeaux,"120 Avenue du Médoc, 33320, Eysines",33320,https://www.sushi7.fr/,44.8836136,-0.6335665
+6993444757,node,Piccola Italie,restaurant,Bordeaux,"23 Avenue du Médoc, 33320, Eysines",33320,,44.8835114,-0.6321682
+6993444761,node,Restaurant-bar La Terrasse du Vigean,restaurant,Bordeaux,"21 Avenue du Médoc, 33320, Eysines",33320,,44.8833677,-0.631855
+6993444767,node,La Petite Crêperie,restaurant,Bordeaux,"108 bis Avenue du Médoc, 33320, Eysines",33320,,44.8829892,-0.631858
+6993448578,node,Hôtel Première Classe Bordeaux Eysines,hotel,Bordeaux,"74 Avenue du Médoc, 33320, Eysines",33320,,44.8807074,-0.628999
+6993448579,node,Fasthôtel Bordeaux Eysines,hotel,Bordeaux,"4 Impasse du Paddock, 33320, Eysines",33320,,44.8800705,-0.6292418
+6993448580,node,Hôtel initial by balladins Bordeaux / Eysines,hotel,Bordeaux,"11 Allée du Champ de Course, 33320, Eysines",33320,,44.8803066,-0.6295634
+6993448589,node,Bistro Régent Eysines,restaurant,Bordeaux,"72 Avenue du Médoc, 33320, Eysines",33320,,44.8805134,-0.6286541
+6993590373,node,Restaurant Ben Thanh,restaurant,Bordeaux,"84 Avenue du Médoc, 33320, Eysines",33320,,44.8816675,-0.6296449
+6996386356,node,Arigato,restaurant,Bordeaux,"451 Route du Médoc, 33520, Bruges",33520,,44.8767479,-0.6217889
+7001466237,node,Le 11/23 Kebab-Burger,restaurant,Bordeaux,"277 Avenue du Médoc, 33320, EYSINES",33320,,44.8922528,-0.6624608
+7004228308,node,Bao - Refuge festif,restaurant,Bordeaux,"7 Rue Jacques Brel, 33185, Le Haillan",33185,https://www.baolehaillan.com,44.8628839,-0.6664895
+7012154885,node,Pomme Cactus - Restaurant Patisserie,restaurant,Bordeaux,48 Cours d'Albret,,https://pommecactus-bordeaux.fr/,44.8368856,-0.5809031
+7016981016,node,Les Frangins,restaurant,Bordeaux,"24 Avenue Descartes, 33160, Saint-Médard-en-Jalles",33160,,44.8869128,-0.6963203
+7019073988,node,Le Bistrot de l'Alouette,restaurant,Bordeaux,,,,44.7992975,-0.6634402
+7019765705,node,La Vie en Rose,restaurant,Bordeaux,"8 Rue Sicard, 33000, Bordeaux",33000,,44.8520667,-0.5727974
+7029042861,node,Racines,restaurant,Bordeaux,59 Rue Georges Bonnac,,,44.8402585,-0.5840343
+7029042864,node,My Bistro,restaurant,Bordeaux,57 Rue Georges Bonnac,,,44.8402624,-0.5839182
+7038718309,node,Morajú,restaurant,Bordeaux,"42 Rue des Trois Conils, 33000, Bordeaux",33000,https://moraju.fr/,44.8386024,-0.5767383
+7041701301,node,Quality Hotel Bordeaux Centre,hotel,Bordeaux,"27 Rue du Parlement Sainte-Catherine, 33000, Bordeaux",33000,https://quality-bordeaux-centre.hoteldebordeaux.net/fr/,44.8405726,-0.5740355
+7041701305,node,Berthus,restaurant,Bordeaux,"15 Rue des Bahutiers, 33000, Bordeaux",33000,https://www.restaurant-berthus.fr/,44.8392896,-0.5706948
+7041701307,node,Label Terre,restaurant,Bordeaux,"2 Cours d'Alsace et Lorraine, 33000, Bordeaux",33000,,44.8381235,-0.5679012
+7043793952,node,Aux Mille Pâtes,restaurant,Bordeaux,"165 Avenue de la Libération Charles de Gaulle, 33110, Le Bouscat",33110,,44.8611696,-0.6003395
+7043793953,node,Riad Marrakech,restaurant,Bordeaux,"167 Avenue de la Libération Charles de Gaulle, 33110, Le Bouscat",33110,,44.861212,-0.600446
+7044637019,node,Le Bistrot du 20,restaurant,Bordeaux,"20 Place Gambetta, 33110, Le Bouscat",33110,,44.8653449,-0.5999513
+7045214220,node,Bar-restaurant Le Lotfy's,restaurant,Bordeaux,"245 Avenue de la Libération Charles de Gaulle, 33110, Le Bouscat",33110,,44.8643966,-0.6038947
+7047256898,node,Restaurant-brasserie Stade Bordelais,restaurant,Bordeaux,,,,44.8717811,-0.6184269
+7049505463,node,Rawee,restaurant,Bordeaux,"95 Rue Georges Bonnac, 33000, Bordeaux",33000,,44.8401968,-0.5856638
+7049505464,node,AOI izakaya,restaurant,Bordeaux,"87 Rue Georges Bonnac, 33000, Bordeaux",33000,,44.8402071,-0.5852021
+7050378710,node,La Table de l’Hippodrome,restaurant,Bordeaux,"8 Avenue de l'Hippodrome, 33110, Le Bouscat",33110,,44.8724627,-0.6270435
+7058227930,node,Breizh Café,restaurant,Bordeaux,19 Rue Sicard,,https://www.breizhcafe.com/bordeaux-chartrons,44.8523431,-0.5730592
+7058227931,node,Le Carré,restaurant,Bordeaux,1 Place du Marché des Chartrons,,,44.8523935,-0.5730153
+7058248586,node,Le Bistrot des Anges,restaurant,Bordeaux,19 Rue Rode,,,44.8526717,-0.5724967
+7058248587,node,PNY,restaurant,Bordeaux,,,,44.8520926,-0.5720913
+7058248588,node,Man Mo Bordeaux,restaurant,Bordeaux,"8 Place du Marché des Chartrons, 33000, Bordeaux",33000,https://www.manmodimsum.com/bordeaux/,44.8522583,-0.5719501
+7060531908,node,Le Mirabelle,restaurant,Bordeaux,31 Rue Camille Godard,,,44.8552755,-0.5742644
+7073238486,node,O P'tit Jardin,restaurant,Bordeaux,"52 Avenue de la Libération Charles de Gaulle, 33110, Le Bouscat",33110,,44.8552097,-0.5957387
+7073238501,node,Kressmann Bros,restaurant,Bordeaux,"17 Avenue de la Libération Charles de Gaulle, 33110, Le Bouscat",33110,,44.854412,-0.5940454
+7073238511,node,Le Murano,restaurant,Bordeaux,"39 Avenue de la Libération Charles de Gaulle, 33110, Le Bouscat",33110,,44.85518,-0.5948551
+7073238520,node,Aux Gourmets d'Asie,restaurant,Bordeaux,"65 Avenue de la Libération Charles de Gaulle, 33110, Le Bouscat",33110,https://cityasie.com,44.8562367,-0.5964862
+7073238528,node,Calix,restaurant,Bordeaux,"64 Avenue de la Libération Charles de Gaulle, 33110, Le Bouscat",33110,https://calix.fr,44.8555989,-0.5962492
+7073238538,node,Le Bistrot du Bouscat,restaurant,Bordeaux,"111 Avenue de la Libération Charles de Gaulle, 33110, Le Bouscat",33110,,44.8587169,-0.5982502
+7082520281,node,Osakyo,restaurant,Bordeaux,,,http://www.osakyo.com/,44.8674694,-0.5515769
+7091102940,node,Sakana,restaurant,Bordeaux,,,https://www.restaurant-sakana-bordeaux.fr/,44.8875697,-0.5484087
+7091534899,node,La Squadra Azzura,restaurant,Bordeaux,188 Avenue de Labarde,,,44.8830614,-0.5506874
+7091923533,node,Memphis Bordeaux Lac,restaurant,Bordeaux,,,,44.8788131,-0.5607124
+7096047734,node,InterContinental Bordeaux,hotel,Bordeaux,2 Place de la Comedie,,,44.8424337,-0.5748304
+7108671476,node,LOFT 33 Bordeaux,restaurant,Bordeaux,,,,44.8641335,-0.5569848
+7111562686,node,Kokoni,restaurant,Bordeaux,8 Rue Serge Noailles,,,44.8952045,-0.7200292
+7114564587,node,Heng Heng,restaurant,Bordeaux,233 Avenue de la Marne,,,44.832845,-0.6422643
+7118827286,node,Le Bistrot du phare,restaurant,Bordeaux,12 Rue Gay-Lussac,,,44.8489062,-0.6796571
+7122918086,node,Bibibap,restaurant,Bordeaux,46 Rue du Pas Saint-Georges,,,44.8389337,-0.5718817
+7123001785,node,Demeter,restaurant,Bordeaux,9 Rue Ausone,,https://www.restaurantdemeter.com/,44.838336,-0.5686021
+7125324105,node,Sushi Express 33,restaurant,Bordeaux,83 Rue des Ayres,,,44.8365387,-0.5754784
+7125324106,node,Big Black Cook - Carribean Food,restaurant,Bordeaux,70 Rue des Ayres,,,44.8364817,-0.5752949
+7130352486,node,Ibis Styles,hotel,Bordeaux,,,,44.8950942,-0.7131752
+7134463017,node,Ami Buffet,restaurant,Bordeaux,,,,44.8776448,-0.5591
+7135662917,node,Panya Thip,restaurant,Bordeaux,,,,44.8761282,-0.5581447
+7142666185,node,Tupaq,restaurant,Bordeaux,"8 Place de la Ferme de Richemont, 33000",33000,,44.835641,-0.5720267
+7157252985,node,Quartier B,restaurant,Bordeaux,"32 Rue du Cancera, 33000",33000,,44.8397767,-0.5723589
+7160741901,node,Côté Sushi,restaurant,Bordeaux,2 Place Fernand Lafargue,,https://cotesushi.com/restaurants/15-bordeaux,44.8370484,-0.5715148
+7161289392,node,Blaze Trip Sushi,restaurant,Bordeaux,"25 Cours Pasteur, 33000",33000,https://blaze-trip-sushi-bordeaux.fr,44.8354548,-0.5754145
+7161432013,node,Casa Fusco,restaurant,Bordeaux,135 Cours Victor Hugo,,https://casafusco.fr/,44.8351236,-0.5740872
+7161442041,node,Taco Naan,restaurant,Bordeaux,125 Cours Victor Hugo,,,44.8350667,-0.5730733
+7161603521,node,Comptoir Épicerie Saint-André,restaurant,Bordeaux,28 Rue Jean Burguet,,,44.8337138,-0.5780603
+7169135786,node,Influence Wok,restaurant,Bordeaux,"3 Rue Martignac, 33000",33000,,44.8422795,-0.5760216
+7173168085,node,Les Mille et Une nuits,restaurant,Bordeaux,"42 Rue des Bahutiers, 33000",33000,,44.8383369,-0.5707405
+7176198486,node,La Cour de Nana,restaurant,Bordeaux,"73 Cours Victor Hugo, 33000",33000,https://lacourdenana.fr,44.8354145,-0.5697914
+7193039485,node,Le Pulp,restaurant,Bordeaux,,,,44.8323815,-0.5652254
+7193216885,node,Le Bistro Rigoletto,restaurant,Bordeaux,18 Rue du Parlement Sainte-Catherine,,,44.8405142,-0.5731742
+7193216886,node,Le Flap's,restaurant,Bordeaux,"91 Rue de Ségur, 33000",33000,,44.8247441,-0.5832864
+7193258185,node,IT Trattoria,restaurant,Bordeaux,,,https://it-trattoria.com,44.8310942,-0.567749
+7193258285,node,Ici Argentine,restaurant,Bordeaux,"21 Rue des Bahutiers, 33000",33000,,44.8390083,-0.5706893
+7197239147,node,Flou,restaurant,Bordeaux,"21 Rue Saumenude, 33800, Bordeaux",33800,,44.8315308,-0.5664614
+7197239149,node,Le Lion Lilas,restaurant,Bordeaux,6 Rue Bouquière,,,44.8368463,-0.5712686
+7197239161,node,Amoré,restaurant,Bordeaux,,,,44.84335,-0.5779489
+7200091985,node,Le Modjo,restaurant,Bordeaux,"74 Cours d'Alsace et Lorraine, 33000",33000,,44.8376105,-0.5720193
+7206082887,node,Bistro Régent,restaurant,Bordeaux,"6 Cours de l'Argonne, 33000",33000,,44.8301007,-0.572868
+7208080885,node,Asian & Thaï & Afghane Food,restaurant,Bordeaux,"102 Cours de la Somme, 33000",33000,,44.8268716,-0.572361
+7208532685,node,221 West Coast,restaurant,Bordeaux,"72 Cours de l'Yser, 33000",33000,,44.8270798,-0.5689953
+7208694986,node,Wayo-Wayo,restaurant,Bordeaux,"134 Cours de l'Argonne, 33000",33000,https://www.wayowayo.fr/,44.8263954,-0.5766887
+7208811885,node,Maki Shop,restaurant,Bordeaux,"207 Cours de la Somme, 33000",33000,,44.8225238,-0.5726425
+7208812887,node,Ebisu,restaurant,Bordeaux,265 Rue Sainte-Catherine,,,44.8319484,-0.5729593
+7208854986,node,Yäso,restaurant,Bordeaux,"21 Rue des Frères Bonie, 33000",33000,https://yasobordeaux.fr/,44.8368661,-0.5799441
+7208860887,node,Le Jardin Pékinois,restaurant,Bordeaux,"9 Rue des Frères Bonie, 33000",33000,,44.8370088,-0.5794471
+7208882185,node,Heiko,restaurant,Bordeaux,"49 Rue des Ayres, 33000",33000,,44.8369769,-0.5741473
+7208885186,node,Anh Kha,restaurant,Bordeaux,"48 Rue Saint-Sernin, 33000",33000,,44.8410794,-0.5824227
+7208926186,node,Akiba,restaurant,Bordeaux,"23 Place de la Ferme de Richemont, 33000",33000,,44.8353638,-0.5729346
+7208926187,node,Vin Wè,restaurant,Bordeaux,"63 Rue Saint-Sernin, 33000",33000,https://vin-we.fr/,44.8411658,-0.5826454
+7208949986,node,El Taco del Diablo,restaurant,Bordeaux,"87 Rue Lagrange, 33000",33000,,44.8524179,-0.581036
+7211304409,node,Campanile,restaurant,Bordeaux,,,,44.7828446,-0.6524192
+7212528485,node,Dieci,restaurant,Bordeaux,"10 Rue du Maréchal Joffre, 33000",33000,https://www.pizzeriadieci.fr/,44.836597,-0.5785273
+7216873176,node,wok in street asian food,restaurant,Bordeaux,,,,44.8428689,-0.5506602
+7217158685,node,Pacific,restaurant,Bordeaux,"51 Rue Sainte-Colombe, 33000",33000,https://www.pacificbordeaux.fr/,44.8373052,-0.5714538
+7217161885,node,Ishikawa,restaurant,Bordeaux,"22 Rue du Hâ, 33000",33000,,44.8361366,-0.5766054
+7220829086,node,Baston,restaurant,Bordeaux,"50 Rue du Hâ, 33000",33000,https://baston-restaurant.fr/,44.8360074,-0.5778415
+7227257476,node,La Brasserie du Médoc,restaurant,Bordeaux,66 Cours du Médoc,,,44.858283,-0.5671096
+7235404285,node,Poké Moon,restaurant,Bordeaux,"114 Rue Notre-Dame, 33000",33000,,44.853361,-0.5698483
+7245983686,node,Bao Burger Ramen,restaurant,Bordeaux,"21 Rue des Piliers de Tutelle, 33000",33000,,44.8410249,-0.5736419
+7245994385,node,Ann Kha,restaurant,Bordeaux,"1 Rue du Cerf Volant, 33000",33000,,44.8382342,-0.5709179
+7251490913,node,Casa Feretti,restaurant,Bordeaux,,,https://casa-ferretti.fr/casa-ferretti-barriere-de-pessac/,44.8240811,-0.591731
+7252349020,node,La Gondole,restaurant,Bordeaux,205 Cours du Maréchal Gallieni,,,44.8200372,-0.5970866
+7252359738,node,Basilic & Co Talence (Gallieni),restaurant,Bordeaux,"24 Cours du Maréchal Gallieni, 33400, Talence",33400,https://basilic-and-co.com/restaurants/pizzeria-talence-gallieni/,44.8246935,-0.5902889
+7252376204,node,Sushi Shop,restaurant,Bordeaux,,,,44.840291,-0.5998167
+7252378855,node,Le Samouraï,restaurant,Bordeaux,"9 Rue Edmond Costedoat, 33000",33000,https://restaurant-lesamourai.com,44.8317015,-0.5781017
+7252443791,node,Restaurant Palace,restaurant,Bordeaux,,,,44.8300356,-0.5809522
+7252555975,node,My Khao,restaurant,Bordeaux,,,,44.8325282,-0.5730829
+7252570085,node,L'Itinérant,restaurant,Bordeaux,267 Rue Sainte-Catherine,,,44.8319114,-0.572963
+7252673943,node,Sushi Chef,restaurant,Bordeaux,56 Cours de la Marne,,https://sushichef.fr,44.8300831,-0.5687794
+7252723181,node,Samos,restaurant,Bordeaux,2 Place du Séminaire,,,44.8317647,-0.565194
+7252723976,node,Souquo,restaurant,Bordeaux,5 Quai Sainte-Croix,,https://www.souquo.fr/,44.8327679,-0.5613871
+7255074585,node,Wasabi Café,restaurant,Bordeaux,"3 Place de Stalingrad, 33100",33100,https://www.wasabicafe.fr,44.8397745,-0.5596291
+7255074586,node,Sushi Thon,restaurant,Bordeaux,"159 Rue Pelleport, 33800",33800,https://sushithon.fr/,44.8213044,-0.5656125
+7255591477,node,El Latino,restaurant,Bordeaux,"70 Cours de la Somme, 33000",33000,,44.8280725,-0.5722481
+7257742795,node,Le Re,restaurant,Bordeaux,,,,44.8585102,-0.5565198
+7257770233,node,Les Tables Vatel,restaurant,Bordeaux,,,,44.8555925,-0.5641559
+7257839333,node,Pasta Fresca,restaurant,Bordeaux,,,,44.8518463,-0.571882
+7258001205,node,Oshi Sushi,restaurant,Bordeaux,23 Place Pey Berland,,,44.8372547,-0.5765391
+7258001720,node,french.house,restaurant,Bordeaux,"7 Place Puy Paulin, 33000",33000,https://french-house.com,44.8412985,-0.576215
+7263197060,node,Wok Way,restaurant,Bordeaux,12 Rue Paul Louis Lande,,,44.8346323,-0.5753045
+7263209525,node,Petits Plaisirs • 物食记,restaurant,Bordeaux,"2 bis Rue de Cursol, 33000",33000,https://petitsplaisirs-restaurant.fr/,44.8349174,-0.5754238
+7263221889,node,SoN',restaurant,Bordeaux,"14 Rue Paul Louis Lande, 33000",33000,https://www.son-restaurant.fr/index.php?section=index_restaurant_2,44.8345836,-0.5753434
+7263296545,node,Wok and Wok,restaurant,Bordeaux,,,,44.8389836,-0.5738262
+7263373695,node,Bouillon,restaurant,Bordeaux,36 Allées d'Orléans,,https://www.bouillon-bordeaux.com/,44.8437578,-0.5734302
+7263459859,node,La Rencontre,restaurant,Bordeaux,42 Rue Maréchal Joffre,,https://restaurantlarencontre.com/,44.8352396,-0.5782879
+7263506238,node,Lauza,restaurant,Bordeaux,5 Rue du Ha,,,44.8363197,-0.5762081
+7264640786,node,Sushi Dijeaux,restaurant,Bordeaux,90 Rue Porte Dijeaux,,,44.8405453,-0.5798525
+7264652486,node,Le Bistrot du Cachalot,restaurant,Bordeaux,"20 Place Canteloup, 33000",33000,,44.8335006,-0.5661383
+7265825840,node,La Côte et l’Arête,restaurant,Bordeaux,"4 Rue Louis de Funès, 33140, Villenave-d'Ornon",33140,https://www.lacoteetlarete.fr/,44.7886149,-0.5315394
+7265825841,node,Italian Trattoria,restaurant,Bordeaux,"6 Rue Louis de Funès, 33140, Villenave-d'Ornon",33140,https://restaurants.it-trattoria.fr/bordeaux-begles-rives-darcins/,44.7885799,-0.5318318
+7265825842,node,Bistro Régent,restaurant,Bordeaux,"6 Rue Louis de Funès, 33140, Villenave-d'Ornon",33140,https://www.bistro-regent.fr,44.7885649,-0.5320067
+7266118945,node,Liu Song,restaurant,Bordeaux,"Impasse des Pyrénées, 33140, Villenave-d'Ornon",33140,,44.775628,-0.564294
+7266118946,node,Le Pontac,restaurant,Bordeaux,"76 Avenue des Pyrénées, 33140, Villenave-d'Ornon",33140,https://www.facebook.com/Resto-le-Pontac-121279708570589,44.769615,-0.563599
+7266118948,node,Le P'tit Bouchon,restaurant,Bordeaux,"1 Rue Jean Bonnardel, 33140, Villenave-d'Ornon",33140,,44.7688638,-0.5789068
+7266118949,node,La Chartreuse de Parme,restaurant,Bordeaux,"55 Chemin de Couhins, 33140, Villenave-d'Ornon",33140,https://www.restaurant-la-chartreuse-de-parme.fr/,44.759541,-0.566756
+7266118950,node,L'échoppe,restaurant,Bordeaux,"1 Rue Yvon Mansencal, 33140, Villenave-d'Ornon",33140,https://lechoppe-restaurant.eatbu.com/,44.784398,-0.578461
+7266118951,node,Dolce Vita Villenave d'Ornon,restaurant,Bordeaux,"55 Avenue du Maréchal Leclerc, 33140, Villenave-d'Ornon",33140,https://dolcevita-villenave.eatbu.com,44.777654,-0.574239
+7266118952,node,Canne d’Argent,restaurant,Bordeaux,"27 Rue de Chambéry, 33140, Villenave-d'Ornon",33140,https://la-canne-dargent.business.site,44.7641117,-0.5653754
+7266118953,node,Don pepe,restaurant,Bordeaux,"2 Rue Pierre Benoit, 33140, Villenave-d'Ornon",33140,,44.771915,-0.540245
+7266188797,node,Sushi Délices,restaurant,Bordeaux,"571 Route de Toulouse, 33140, Villenave-d'Ornon",33140,,44.783326,-0.566306
+7266720041,node,Ibis Styles Bordeaux Sud,hotel,Bordeaux,"10 Avenue du Maréchal Leclerc, 33140, Villenave-d'Ornon",33140,https://all.accor.com/hotel/1996/index.fr.shtml,44.7794967,-0.5692277
+7272463779,node,Mak Food,restaurant,Bordeaux,,,,44.8601952,-0.5762966
+7272644685,node,Papouch,restaurant,Bordeaux,"138 Rue Notre Dame, 33000, Bordeaux",33000,,44.8542159,-0.5690962
+7273025085,node,Pita,restaurant,Bordeaux,"51 Cours de l'Argonne, 33000",33000,,44.828897,-0.5741822
+7279255516,node,Pavillon Yuasa,restaurant,Bordeaux,"9 Rue Camille Godard, 33300, Bordeaux",33300,,44.8551475,-0.5724247
+7279298509,node,Zinc,restaurant,Bordeaux,,,,44.8551405,-0.573944
+7279298510,node,Le Cent 33,restaurant,Bordeaux,133 Rue du Jardin Public,,https://cent33.com,44.8548927,-0.5740809
+7280129586,node,Oomji,restaurant,Bordeaux,"5 Rue de Candale, 33000",33000,,44.8321727,-0.5721999
+7280565985,node,UniqueS,restaurant,Bordeaux,5 Place des Martyrs de la Résistance,,https://www.restaurantuniques33.com/,44.8416136,-0.5837692
+7298366481,node,Newschool Tacos Bordeaux Rive droite,restaurant,Bordeaux,,,,44.857585,-0.5322387
+7312158479,node,La Ferme de Bruges,restaurant,Bordeaux,9 Avenue de Chavailles,,https://lafermedebruges.com/,44.8750659,-0.5789106
+7312226951,node,L'Hégoa,restaurant,Bordeaux,,,https://www.lhegoarestaurant.fr/,44.8752268,-0.5829268
+7341211894,node,L'Ardoise,restaurant,Bordeaux,,,,44.7748832,-0.6441571
+7343455621,node,Campanile,restaurant,Bordeaux,,,,44.8360267,-0.6796009
+7352387848,node,Green Hotels Bordeaux Arena,hotel,Bordeaux,"27 Chemin d'Arcins, Latresne",,https://www.greenhotels.fr/bordeaux-arena/,44.7997319,-0.5113122
+7362800139,node,La Roma pizza,restaurant,Bordeaux,"206 Rue de la Benauge, 33100, Bordeaux",33100,https://laroma-pizza.fr/,44.8414691,-0.5471858
+7363343431,node,La table de Montussan,restaurant,Bordeaux,"11 Route de la Loubere, 33450, Montussan",33450,,44.8761054,-0.4278226
+7363529512,node,RedKube,restaurant,Bordeaux,,,,44.8003669,-0.5830138
+7364875318,node,Lettuce Garden,restaurant,Bordeaux,52 Rue Fragonard,,,44.8783347,-0.5844534
+7364875319,node,Brasserie L'Aidyl,restaurant,Bordeaux,,,,44.8777087,-0.5843184
+7366475250,node,Ko-San,restaurant,Bordeaux,,,,44.8508468,-0.5699227
+7368308946,node,Padang Padang,restaurant,Bordeaux,37 Rue Sainte-Colombe,,http://www.padang-padang.com/,44.8374465,-0.5710566
+7373321099,node,Le Mandron,restaurant,Bordeaux,,,,44.8513072,-0.5779523
+7380107221,node,Villa de Chine,restaurant,Bordeaux,"303 Avenue de la République, 33200, Bordeaux",33200,,44.8386541,-0.6154338
+7384917176,node,Bleu Resto,restaurant,Bordeaux,,,,44.8674756,-0.5220582
+7391434460,node,La P'tite Auberge,restaurant,Bordeaux,,,https://www.facebook.com/laptiteauberge33/,44.8571263,-0.5373465
+7394477932,node,La Ferme du Petit Argelas,restaurant,Bordeaux,"15 Place de la Liberté, 33160, Saint-Médard en Jalles",33160,,44.8883734,-0.7022787
+7394785197,node,Restaurant de la Plage,restaurant,Bordeaux,,,,44.8880733,-0.7025277
+7401979561,node,Le Bib'strot,restaurant,Bordeaux,"99 Avenue Jean Jaurès, 33150, Cenon",33150,https://bibstrot-restaurant.eatbu.com,44.8573485,-0.5310992
+7402173085,node,Attablée,restaurant,Bordeaux,213 Boulevard Godard,,,44.8643945,-0.5800328
+7403471072,node,MAÈ TÛ,restaurant,Bordeaux,"12 Rue Poquelin Molière, 33000, Bordeaux",33000,https://www.facebook.com/861525587388320/,44.8398878,-0.5768043
+7405566130,node,Torino Pasta,restaurant,Bordeaux,"48 Rue du Jard, 33700, Mérignac",33700,https://www.just-eat.fr/restaurant-livraison-a-domicile/restaurant/pizzeria-au-33-33700,44.8440586,-0.6398637
+7429383185,node,Côté Zinc,restaurant,Bordeaux,"129 Avenue Thiers, 33100, Bordeaux",33100,https://www.cotezinc.fr/,44.8443661,-0.5527359
+7429891884,node,Le chien de Pavlov,restaurant,Bordeaux,"45 Rue de la Devise, 33000, Bordeaux",33000,https://www.lechiendepavlov.com/,44.8402464,-0.5728023
+7434512837,node,Chez Brun,restaurant,Bordeaux,"118 Avenue du Général Leclerc, 33200, Bordeaux",33200,,44.854128,-0.6118698
+7441012744,node,Antojo De Iberico,restaurant,Bordeaux,"69-77 Avenue du Maréchal de Lattre de Tassigny, 33140, Villenave-d'Ornon",33140,https://www.facebook.com/antojodeiberico33/,44.7708918,-0.5414696
+7449488085,node,Le Pressoir d'Argent - Gordon Ramsay,restaurant,Bordeaux,Place de la Comédie,,https://www.gordonramsayrestaurants.com/le-pressoir-dargent,44.8423174,-0.5747632
+7462150355,node,Orijines OJI,restaurant,Bordeaux,"8 Cours du Maréchal Juin, 33000, Bordeaux",33000,https://www.orijines-oji.fr/,44.8360162,-0.581486
+7472293267,node,Valverde,restaurant,Bordeaux,,,,44.8522556,-0.5393917
+7472588057,node,Les Cancres,restaurant,Bordeaux,"3 Rue David Johnston, 33000, Bordeaux",33000,,44.8502982,-0.5824119
+7478500365,node,Mama Dumpling,restaurant,Bordeaux,"56 Rue du Pas Saint-Georges, Bordeaux",,,44.838652,-0.5718455
+7494291650,node,Mademoiselle Simone,restaurant,Bordeaux,"67 Rue des Ayres, 33000, Bordeaux",33000,https://mademoisellesimonebdx.com/,44.8368149,-0.5748264
+7500441242,node,Oh Huit,restaurant,Bordeaux,8 Rue Georges Barres,,,44.8879538,-0.5464995
+7500509375,node,L'Atelier du Goût,restaurant,Bordeaux,35 Rue René Magne,,,44.8888715,-0.5465091
+7530144580,node,,restaurant,Bordeaux,,,,44.8127394,-0.5470019
+7530265622,node,La parenthèse de votre journée,restaurant,Bordeaux,,,,44.8239714,-0.545714
+7530387574,node,Hilton Garden Inn Bordeaux Centre,hotel,Bordeaux,"17 Allée de Rio, 33800, Bordeaux",33800,https://bordeaux-centre.naoshotel.com/,44.8267492,-0.548975
+7533136487,node,Bao. B,restaurant,Bordeaux,43 Rue de Cheverus,,,44.8380132,-0.5756982
+7540192085,node,Ristorante Del Arte,restaurant,Bordeaux,,,https://www.delarte.fr/restaurants/3722-pessac,44.7886033,-0.6453683
+7574858041,node,Le Mirefleurs,restaurant,Bordeaux,,,,44.8732937,-0.4772191
+7590554486,node,Hestïa,restaurant,Bordeaux,35 Rue Sainte-Colombe,,,44.837426,-0.5709717
+7596249985,node,5 Saveurs,restaurant,Bordeaux,272 Rue Sainte-Catherine,,https://5-saveurs.ojscafe.com/,44.83179,-0.5727616
+7600432737,node,Café Barrière,restaurant,Bordeaux,,,https://www.casinosbarriere.com/fr/bordeaux/le-cafe-barriere.html,44.8882396,-0.5657683
+7600432738,node,L'Aquitania,restaurant,Bordeaux,,,https://restaurants.accor.com/fr/restaurant-0669_R001-l-aquitania-bordeaux-le-lac.shtml,44.8892958,-0.5665245
+7600432739,node,Courtepaille,restaurant,Bordeaux,,,https://www.courtepaille.com/restaurant/courtepaille-bordeaux-le-lac/,44.8899455,-0.5651104
+7631784916,node,Chicko's,restaurant,Bordeaux,"35 Rue d'Armagnac, 33800, Bordeaux",33800,https://www.chickos.fr,44.8213947,-0.5526461
+7653997166,node,Joya,restaurant,Bordeaux,97 Quai Lawton,,,44.8653952,-0.5590231
+7658733190,node,Au P'tit Hanoï,restaurant,Bordeaux,159 Rue Fondaudège,,https://auptithanoi.fr,44.8491592,-0.5836676
+7682687786,node,Nomad,restaurant,Bordeaux,43 Rue Sainte-Colombe,,,44.8373451,-0.5712001
+7692345383,node,Matsuri,restaurant,Bordeaux,5 Rue Guiraude,,https://www.matsuri.fr/nos-restaurants/bordeaux,44.8396154,-0.5748314
+7707499685,node,Les doux secrets d'Hélène,restaurant,Bordeaux,"41 Rue Neuve, 33000",33000,,44.8362331,-0.5692891
+7714479986,node,Comptoir Christoly,restaurant,Bordeaux,7 Place Saint-Christoly,,https://www.comptoirchristoly.fr/,44.8395006,-0.5776614
+7726661527,node,Due settimo,restaurant,Bordeaux,77 Avenue du Général Leclerc,,,44.7927847,-0.6711757
+7741784785,node,Pastificio Marcellino,restaurant,Bordeaux,11 Rue Sicard,,https://www.pastificio-marcellino.fr/,44.8518209,-0.5718617
+7741803185,node,Foodji,restaurant,Bordeaux,38 Cours Portal,,,44.8534571,-0.5726329
+7741805385,node,Les Sauvages,restaurant,Bordeaux,49 Cours de la Martinique,,,44.8540948,-0.571551
+7741811785,node,Copa Rota,restaurant,Bordeaux,87 Rue Notre-Dame,,,44.8523934,-0.5708247
+7756197291,node,Hôtel Mercure Château Chartrons,restaurant,Bordeaux,"81 Cours Saint-Louis, 33000, Bordeaux",33000,,44.8590256,-0.5696219
+7767815598,node,Le Puy Paulin,restaurant,Bordeaux,"14 Place Puy Paulin, 33000, Bordeaux",33000,https://www.lepuypaulin.fr/#home,44.8414155,-0.5754766
+7770708828,node,Tasty Rice,restaurant,Bordeaux,124 Rue Sainte-Catherine,,,44.8373516,-0.5736508
+7785209382,node,45ème parallèle,restaurant,Bordeaux,13 Avenue Gustave Eiffel,,,44.7837232,-0.6460171
+7804953858,node,Le Parlement des Graves,restaurant,Bordeaux,"9 Rue du Parlement Sainte-Catherine, 33000, Bordeaux",33000,https://www.le-parlement-des-graves-bordeaux.com/,44.8406312,-0.5728927
+7814554385,node,Pizza Al Corte,restaurant,Bordeaux,,,,44.8372752,-0.5719885
+7814554485,node,Rôtisserie Poulettes,restaurant,Bordeaux,18 Place Fernand Lafargue,,,44.8372736,-0.571893
+7817504681,node,Saigon 68,restaurant,Bordeaux,6 Place de la Ferme de Richemont,,,44.8359723,-0.5720599
+7817517912,node,Ô Zé,restaurant,Bordeaux,,,,44.8423335,-0.5812565
+7817517915,node,Bow,restaurant,Bordeaux,27 Rue du Palais Gallien,,https://www.bow-bordeaux.fr/,44.8427023,-0.5815261
+7830074964,node,Cardamon,restaurant,Bordeaux,5 Rue René Balloux,,,44.8174884,-0.5858692
+7830144894,node,Malavida,restaurant,Bordeaux,"16 Rue du Parlement Saint-Pierre, 33000",33000,,44.8401525,-0.5710107
+7853190018,node,Le cabanon pizzas,restaurant,Bordeaux,1 Rue d'Arlac,,,44.8253692,-0.614176
+7874348123,node,Solena,restaurant,Bordeaux,5 Rue Chauffour,,https://solena-restaurant.com/,44.8404688,-0.5903817
+7874676585,node,Santosha,restaurant,Bordeaux,92 Avenue Montesquieu,,https://santosha-streetfood.com,44.8954054,-0.7186989
+7877253850,node,Villa Ferretti,restaurant,Bordeaux,100 Boulevard du Président Wilson,,,44.8412473,-0.5992012
+7880916055,node,Lisboa,restaurant,Bordeaux,"5 Rue de la Paix, 33850, Léognan",33850,https://restaurant-lisboa-leognan.eatbu.com/,44.7284153,-0.6005083
+7881054876,node,Bistrot Niel,restaurant,Bordeaux,7 Avenue Abadie,,,44.8431487,-0.55609
+7897150297,node,Monzù,restaurant,Bordeaux,"14 Rue Guiraude, 33000, Bordeaux",33000,https://www.monzu.fr/promenade-ste-catherine,44.8395106,-0.5748019
+7900555185,node,Néo,restaurant,Bordeaux,2 Place Saint-Pierre,,,44.8397279,-0.57074
+7929085549,node,Signature par Philippe Etchebest,restaurant,Bordeaux,"34 Allées de Tourny, 33000, Bordeaux",33000,https://www.signature-etchebest.com/,44.8440276,-0.5767231
+7947386899,node,L'Originel,restaurant,Bordeaux,"35 Rue du Loup, 33000, Bordeaux",33000,,44.8380063,-0.5731577
+7954673471,node,Miremont,restaurant,Bordeaux,"5 Rue Buffon, 33000, Bordeaux",33000,,44.8433488,-0.5781254
+7963684095,node,Brasserie Le Tourny,restaurant,Bordeaux,"7 Place Tourny, 33000, Bordeaux",33000,http://brasserie-le-tourny-bordeaux.fr/,44.8451893,-0.5784509
+7970128010,node,Pizza Hut,restaurant,Bordeaux,33 Rue Docteur Charles Nancel-Pénard,,https://www.pizzahut.fr/huts/fr-1/146-bordeaux-gambetta,44.8392969,-0.581696
+7995633585,node,Modjo,restaurant,Bordeaux,74 Cours d'Alsace et Lorraine,,,44.8376161,-0.5720097
+8049754797,node,Kösk,restaurant,Bordeaux,182 Cours de la Marne,,,44.828156,-0.560209
+8054062185,node,Le Bistrot de tutelle,restaurant,Bordeaux,13 Rue des Piliers de Tutelle,,,44.8415099,-0.5737448
+8060382086,node,L'assiette musicale,restaurant,Bordeaux,55 Rue Bouquière,,,44.8360046,-0.5696862
+8060382087,node,A Cantina Comptoir Corse,restaurant,Bordeaux,"14 Rue des Bahutiers, 33000",33000,https://www.acantina-comptoircorse.fr,44.839209,-0.5705668
+8062556285,node,Memestra,restaurant,Bordeaux,249 Cours de la Somme,,https://www.restaurant-memestra.fr/,44.8205746,-0.5725222
+8076979642,node,Bocce,restaurant,Bordeaux,45 Rue de Lachassaigne,,https://bocce.fr,44.8428309,-0.5897123
+8078526617,node,Bistrot Rouge,restaurant,Bordeaux,157 Avenue Jean Jaurès,,,44.8184572,-0.6031716
+8081569732,node,Chez Oumie,restaurant,Bordeaux,"60 Route de Léognan, 33140, Villenave-d'Ornon",33140,https://www.facebook.com/Chezoumie/,44.7663433,-0.5797806
+8084337600,node,L'Orienthail,restaurant,Bordeaux,"517 Route de Toulouse, 33140, Villenave-d'Ornon",33140,https://lorienthail-villenave.eatbu.com/?lang=fr,44.7858287,-0.5665051
+8087800615,node,Resto Le 113,restaurant,Bordeaux,,,,44.7513057,-0.5488506
+8087812910,node,O'Passatempo,restaurant,Bordeaux,Cadaujac,,,44.7507042,-0.5484847
+8087829382,node,Pizza Bonici Cadaujac,restaurant,Bordeaux,,,,44.7500532,-0.5476411
+8087856479,node,Aux pizzas gourmandes,restaurant,Bordeaux,"1 Rue de Pastissey, 33140, Villenave-d'Ornon",33140,https://auxpizzasgourmandes.eatbu.com/,44.7755983,-0.5275565
+8097273235,node,Dozo,restaurant,Bordeaux,,,http://www.sushidozo.fr/,44.8391408,-0.5814746
+8097273242,node,La petite Mirepoix,restaurant,Bordeaux,20 Rue Saint-Sernin,,,44.8398792,-0.5820163
+8097273249,node,French Flair,restaurant,Bordeaux,45 Rue Judaïque,,,44.8415823,-0.5831408
+8129445369,node,Pizza de la House,restaurant,Bordeaux,,,,44.7484877,-0.6408613
+8144797489,node,Le Céleste Gourmand,restaurant,Bordeaux,26 Avenue de la Marne,,https://www.lecelestegourmand.fr,44.8370255,-0.6192651
+8148533867,node,Basilic & Co,restaurant,Bordeaux,,,,44.8640721,-0.59973
+8148534018,node,Ragazzi da Peponne,restaurant,Bordeaux,27 Rue Émile Zola,,,44.8639473,-0.599928
+8154258836,node,Sakura Sushi,restaurant,Bordeaux,"59 Rue Saint-Rémi, 33000, Bordeaux",33000,https://www.sakura-sushi-bordeaux.com/,44.8412769,-0.5734631
+8158727199,node,Sherazade,restaurant,Bordeaux,81 Cours du Général de Gaulle,,,44.7787622,-0.6100282
+8168608317,node,Live Hotels,hotel,Bordeaux,"1 Avenue de Chavailles, 33520",33520,https://www.livehotels.fr/,44.8768001,-0.5790694
+8188895402,node,Pizza Hut,restaurant,Bordeaux,43 Route de Toulouse,,https://www.pizzahut.fr/huts/fr-1/169-bordeaux-rt-toulouse/,44.8130815,-0.5735314
+8197905998,node,Le Marchal,restaurant,Bordeaux,,,,44.8811448,-0.6131294
+8197906009,node,Le Bistrot d'Antan,restaurant,Bordeaux,,,,44.8825609,-0.612594
+8197910334,node,Le Cottage du Lac,restaurant,Bordeaux,,,,44.887052,-0.5922014
+8214218548,node,Aux Deux Saveurs,restaurant,Bordeaux,109 Rue Pelleport,,,44.8219889,-0.5637158
+8262620461,node,Léon de Bruxelles,restaurant,Bordeaux,,,,44.9056755,-0.4870379
+8262655129,node,Eat salade,restaurant,Bordeaux,,,,44.9125215,-0.4856368
+8262752235,node,Mosto Buffet,restaurant,Bordeaux,,,,44.9018224,-0.4905725
+8262752252,node,Bistro Régent,restaurant,Bordeaux,97 Avenue de l'Aquitaine,,,44.9000089,-0.4935245
+8262752255,node,Nobi Nobi,restaurant,Bordeaux,97 Avenue de l'Aquitaine,,,44.9005394,-0.4933273
+8267867656,node,Majesté Grill,restaurant,Bordeaux,,,,44.8537152,-0.5176881
+8327495117,node,Saveurs d'Aquitaine,restaurant,Bordeaux,,,,44.8461777,-0.5755385
+8337899317,node,Dubble,restaurant,Bordeaux,,,,44.8654115,-0.5765377
+8341727018,node,L'assiette des boulevards,restaurant,Bordeaux,,,,44.8650672,-0.578316
+8374822917,node,Mifan,restaurant,Bordeaux,10 Rue Huguerie,,,44.8446829,-0.5789472
+8407079217,node,La cave agricole,restaurant,Bordeaux,"4 Rue Corneille, 33370",33370,,44.8455216,-0.5120696
+8407088717,node,Locadélice,restaurant,Bordeaux,,,,44.8505621,-0.7577504
+8407657657,node,Oui Madame,restaurant,Bordeaux,5 Allée de Tourny,,https://www.ouimadamebordeaux.com,44.8439476,-0.5753369
+8423097663,node,Novotel Bordeaux Centre Gare Saint Jean,hotel,Bordeaux,"28-30 Rue de Tauzia, 33800, Bordeaux",33800,https://all.accor.com/hotel/7385/index.en.shtml,44.8297338,-0.559199
+8478832473,node,Quebec Music Café,restaurant,Bordeaux,"263 Avenue Pasteur, 33600, Pessac",33600,,44.7990907,-0.6627363
+8478855949,node,Pizza Alouette,restaurant,Bordeaux,"13 Avenue du Général Leclerc, 33600, Pessac",33600,https://www.pizza-alouette.com/,44.7980447,-0.664407
+8486986217,node,La Station Pizza,restaurant,Bordeaux,"62 Rue Eugène Jacquet, 33000",33000,,44.8248376,-0.61211
+8506890301,node,Soï Bangkok,restaurant,Bordeaux,12 Rue Judaïque,,,44.8415257,-0.5816636
+8553112632,node,Le Pintxoak,restaurant,Bordeaux,"7 Avenue Charles de Gaulle, 33650, Martillac",33650,https://www.lepintxoak.fr/,44.7129916,-0.5431672
+8573671584,node,Nobinobi,restaurant,Bordeaux,,,,44.8247725,-0.4488737
+8621415617,node,Lettuce Garden,restaurant,Bordeaux,,,https://www.lettucegarden.fr/,44.8794691,-0.569928
+8640423054,node,Orchidée de Chine,restaurant,Bordeaux,436 Avenue de Verdun,,,44.840756,-0.6423784
+8682801998,node,Mishi Grill,restaurant,Bordeaux,,,,44.7720438,-0.6103908
+8696621641,node,Bibibap,restaurant,Bordeaux,189 Quai de Paludate,,http://www.bibibap.fr/,44.8274202,-0.5504455
+8757858692,node,Too pita,restaurant,Bordeaux,8 Rue de la Vieille Église,,,44.8412804,-0.6473481
+8787149118,node,Monzú,restaurant,Bordeaux,"12 Place des Grands Hommes, 33000",33000,https://www.monzu.fr/grands-hommes,44.8432545,-0.577561
+8787169617,node,Quanjude,restaurant,Bordeaux,42 - 44 Allées de Tourny,,,44.844194,-0.5769409
+8787171117,node,Frida,restaurant,Bordeaux,"29 Rue Buhan, 33000",33000,,44.8358248,-0.5705104
+8787180117,node,El,restaurant,Bordeaux,"76 Rue du Palais Gallien, 33000",33000,,44.8442006,-0.5815606
+8827872644,node,Il Gusto di Napoli,restaurant,Bordeaux,345 Avenue d'Eysines,,,44.8608995,-0.6128679
+8829819917,node,TentaziOni,restaurant,Bordeaux,"59 Rue du Palais Gallien, 33000",33000,,44.8435458,-0.5816504
+8829856018,node,Amicis,restaurant,Bordeaux,,,,44.8436264,-0.5771859
+8829911017,node,Blind - Cuisine influences péruviennes,restaurant,Bordeaux,"12 Rue Castelnau d'Auros, 33000",33000,,44.8409768,-0.5818394
+8829917517,node,Mako,restaurant,Bordeaux,"135 Rue Fondaudège, 33000",33000,https://www.mako-nikkei.com/,44.8486872,-0.5827552
+8829954617,node,Moxy Bordeaux,hotel,Bordeaux,"25 Quai du Maroc, 33000, Bordeaux",33000,https://www.marriott.com/hotels/travel/bodox-moxy-bordeaux/,44.8639383,-0.5518859
+8849257068,node,Le Garde Manger Bacalan,restaurant,Bordeaux,41 Sente Marie-Galante,,https://www.legardemangerbordeaux.com/,44.8654244,-0.5500545
+8882994494,node,Dubarry,hotel,Bordeaux,,,,44.9021037,-0.511249
+8923149011,node,Santosha,restaurant,Bordeaux,10 Avenue de l'Yser,,,44.8416056,-0.6483798
+8928410320,node,Poulette,restaurant,Bordeaux,"57 Place des Capucins, 33800",33800,,44.8313454,-0.5676643
+8928410321,node,Au Bistrot,restaurant,Bordeaux,"61 Place des Capucins, 33800",33800,,44.8314179,-0.5671585
+8941992578,node,Le Chalet Médocain,restaurant,Bordeaux,,,,44.9499795,-0.6981056
+8960555687,node,L'Effet Mer,restaurant,Bordeaux,"280 Boulevard Alfred Daney, 33000, Bordeaux",33000,https://effetmer-bordeaux.business.site/,44.871047,-0.56182
+8963399017,node,La,restaurant,Bordeaux,"17 Rue du Parlement Saint-Pierre, 33000",33000,,44.8402739,-0.5711092
+8963418217,node,Le Petit Vietnam,restaurant,Bordeaux,"90 Avenue des 40 Journaux, 33300",33300,,44.8791317,-0.5700258
+8978210117,node,La Table du Lavoir,restaurant,Bordeaux,"Chemin de Smith Haut Lafitte, 33650",33650,https://www.sources-caudalie.com/la-table-du-lavoir-restaurant/,44.7310583,-0.557409
+8986937011,node,Gina,restaurant,Bordeaux,,,,44.8635941,-0.5513024
+9001638017,node,Roze,restaurant,Bordeaux,"45 Quai Richelieu, 33000",33000,,44.837637,-0.5671205
+9005006246,node,Tio Néné,restaurant,Bordeaux,,,,44.842243,-0.5387287
+9082301010,node,B11 Bodega,restaurant,Bordeaux,216 Avenue de la Marne,,,44.8325745,-0.6396249
+9094455636,node,RestÔ & Cie,restaurant,Bordeaux,17 Rue Robert Schuman,,,44.8135918,-0.5510684
+9094618557,node,Chez Edouard,restaurant,Bordeaux,"8 Avenue de la Libération, 33127, Martignas-sur-Jalle",33127,https://www.facebook.com/chezedouardmartignas/,44.8400307,-0.7763089
+9103900257,node,GrailleZone,restaurant,Bordeaux,"13 Chemin du Canaulet, 33610, Cestas",33610,https://graillezone.hubside.fr/,44.7359815,-0.6585016
+9105779404,node,Le Marrakech,restaurant,Bordeaux,15 Rue Saint-Rémi,,https://lemarrakech-bordeaux.fr/,44.8414454,-0.5714738
+9112773517,node,Le Gromm,restaurant,Bordeaux,"14 Rue Arthur Rimbaud, 33400",33400,https://www.legromm.fr,44.7906773,-0.5882701
+9114187121,node,Brasserie du Navire,restaurant,Bordeaux,66 Avenue Jean Jaurès,,,44.808033,-0.625434
+9117830550,node,La Petite Adresse,restaurant,Bordeaux,29,,https://www.restaurant-la-petite-adresse.com,44.9181605,-0.4980042
+9120589717,node,Brutus,restaurant,Bordeaux,"5 Rue du Palais de l'Ombrière, 33000",33000,,44.8384596,-0.5698523
+9139524221,node,Le Petit Verdot,restaurant,Bordeaux,,,,45.0088928,-0.6131798
+9162216317,node,Dat Viet,restaurant,Bordeaux,"1 Quai Sainte-Croix, 33800",33800,https://www.datvietbordeaux.fr/,44.8330383,-0.5618156
+9174793181,node,La Béglaise,restaurant,Bordeaux,,,https://www.microbrasseriebeglaise.com/,44.8104128,-0.5420705
+9177675296,node,Le Comptoir d'Étienne,restaurant,Bordeaux,21 Rue Maucoudinat,,https://www.lecomptoirdetienne.com/,44.8391283,-0.5717816
+9177754515,node,L'Évi'Dence,restaurant,Bordeaux,"21 Avenue de la Libération, 33610, Canéjan",33610,,44.7485307,-0.6408022
+9183987417,node,Rishi,restaurant,Bordeaux,"9 Rue Margaux, 33000",33000,,44.840551,-0.5747882
+9184086817,node,La Planque,restaurant,Bordeaux,"2 Allée de la Pacific, 33800",33800,,44.8211424,-0.5531535
+9192493933,node,Santosha Pessac,restaurant,Bordeaux,"1 Place de la Ve République, 33600, Pessac",33600,https://restaurants.santosha.cool/cantine-thai-pessac-centre-ville/#,44.8060161,-0.631264
+9197079936,node,Sushi fan,restaurant,Bordeaux,181 Avenue du Général Leclerc,,https://www.sushifan.fr/,44.8552796,-0.6137492
+9250838851,node,Au Bureau,restaurant,Bordeaux,"12, 33000",33000,https://www.aubureau.fr/restaurant/?ville=AB_BordeauxBacalan,44.866644,-0.5608869
+9283129155,node,Sifnos,restaurant,Bordeaux,"2 Rue Marc Sangnier, 33130, Bègles",33130,https://www.restaurantsifnos.com/,44.8133133,-0.5543661
+9286365017,node,MEUH! Restaurant,restaurant,Bordeaux,,,https://www.meuh-restaurant.fr/web/restaurant-merignac.php,44.8293579,-0.6590177
+9297626313,node,O'Riz,restaurant,Bordeaux,,,,44.861948,-0.5542154
+9297707217,node,Dans le Noir ?,restaurant,Bordeaux,,,,44.8645843,-0.5584498
+9297718817,node,Bonh,restaurant,Bordeaux,Rue Saint-Siméon,,,44.8389236,-0.5730118
+9297722017,node,Sambrosa,restaurant,Bordeaux,"18 Rue Saint-Siméon, 33000",33000,,44.8389264,-0.5729078
+9297734017,node,Hanzō,restaurant,Bordeaux,"33 Rue du Cancera, 33000",33000,,44.8398731,-0.5723926
+9297746517,node,Nyam Baï,restaurant,Bordeaux,"12 Rue des Bahutiers, 33000",33000,,44.8392736,-0.5705569
+9297763417,node,La Pointe,restaurant,Bordeaux,"10 Rue Sicard, 33000",33000,,44.8521264,-0.5729091
+9297766817,node,Délices de Damas,restaurant,Bordeaux,"85 Cours Balguerie Stuttenberg, 33300",33300,https://delicesdedamas.com/,44.8581956,-0.5672183
+9297783017,node,Bouillon Saint Pierre,restaurant,Bordeaux,"4 Place Saint Pierre, 33000, Bordeaux",33000,https://lebouillonsaintpierre.fr/,44.8401992,-0.5711802
+9297786517,node,Ô QG,restaurant,Bordeaux,"66 Quai de Paludate, 33800",33800,,44.827337,-0.5513213
+9312689809,node,Sushiman,restaurant,Bordeaux,78 Rue Calixte Camelle,,https://www.ausushiman.fr,44.8638455,-0.5817071
+9312744190,node,Gastroteka,restaurant,Bordeaux,10 Esplanade de Pontac,,,44.8631782,-0.5516682
+9312976271,node,Le Jardin Pêcheur,restaurant,Bordeaux,,,https://www.jardin-pecheur-bordeaux.com/,44.8611871,-0.5543596
+9327957717,node,Beirut Kitchen,restaurant,Bordeaux,8 Quai de la Grave,,https://beirut-kitchen.com/,44.8346979,-0.5640067
+9332431440,node,Asia Box,restaurant,Bordeaux,257 Rue Malbec,,https://asia-box.fr/,44.8206801,-0.5716222
+9332959466,node,Chez Dupont,restaurant,Bordeaux,,,https://www.chez-dupont.com/fr/,44.8509637,-0.5719199
+9370099118,node,Le Ruat,restaurant,Bordeaux,,,,44.9938368,-0.4959938
+9373859240,node,Le Murano,restaurant,Bordeaux,,,,44.8421602,-0.5726328
+9373859241,node,La Folie Rouge,restaurant,Bordeaux,,,,44.8421435,-0.5727569
+9378706851,node,Mercure,hotel,Bordeaux,,,,44.8258559,-0.5575253
+9410216517,node,ZuZu Restaurant,restaurant,Bordeaux,"200 B Avenue Pasteur, 33600, Pessac",33600,http://zuzu-pessac.eatbu.com/,44.8025458,-0.6473028
+9421233702,node,Le Paradis du Fruit,restaurant,Bordeaux,46 Place Gambetta,,,44.8418642,-0.5802202
+9424127520,node,Le Tassili,restaurant,Bordeaux,22 Rue du Palais Gallien,,,44.8423938,-0.5812776
+9425008267,node,chez nanou,restaurant,Bordeaux,"101 Avenue du Marechal de Lattre de Tasiny, 33600, Pessac",33600,,44.7561918,-0.7380423
+9425288593,node,Le Bistrot Des Toqués,restaurant,Bordeaux,"95 Avenue du Marechal de Lattre de Tassigy, 33600, Pessac",33600,,44.7565494,-0.7375788
+9425573308,node,Le 374,restaurant,Bordeaux,"374 Avenue du Maréchal de Lattre de Tassigny, 33600, Pessac",33600,,44.7559224,-0.7393425
+9442245617,node,231 East Street,restaurant,Bordeaux,"17 Quai Virginie Hériot, 33000",33000,https://www.231-east.fr/restaurant/231-east-street-bassin-a-flot/,44.8667612,-0.5610643
+9512650971,node,Maison Nouvelle,restaurant,Bordeaux,11 Rue Rode,,https://maison-nouvelle.fr/,44.8524933,-0.5720934
+9525001993,node,Arcada,restaurant,Bordeaux,13 Rue de la Rousselle,,https://www.arcada-restaurant.fr,44.837581,-0.5690587
+9533195178,node,Chef Aji,restaurant,Bordeaux,,,,44.8633535,-0.5517305
+9566852054,node,Chez Hibou,restaurant,Bordeaux,45 Rue du Loup,,https://www.chezhibou.com/,44.8379841,-0.57352
+9566852055,node,Dis leur,restaurant,Bordeaux,,,,44.8379906,-0.573435
+9570948217,node,Soif,restaurant,Bordeaux,"35 Rue du Cancera, 33000",33000,https://soif-bordeaux.com/,44.8398899,-0.572494
+9672280368,node,La Roma Pizza,restaurant,Bordeaux,,,,44.788755,-0.5880328
+9689777466,node,Bimbao,restaurant,Bordeaux,9 Place des Capucins,,https://bimbao.fr/,44.8308486,-0.5670753
+9724940467,node,Boodasie,restaurant,Bordeaux,,,,44.887112,-0.6409376
+9735014293,node,Maison mère,restaurant,Bordeaux,"6 Rue de la Maison Daurade, 33000, Bordeaux",33000,,44.8417705,-0.5740963
+9737871118,node,Big Tiger,restaurant,Bordeaux,"76 Rue des Terres de Borde, 33800",33800,,44.8257447,-0.5544848
+9789102025,node,Street Loco,restaurant,Bordeaux,289 Rue d'Ornano,,,44.8317252,-0.5976595
+9795253909,node,Le Rock Hill,restaurant,Bordeaux,"367 Avenue de la Libération - Charles de Gaulle, 33110, Le Bouscat",33110,https://rock-hill.fr/,44.8665145,-0.6064287
+9796785337,node,Hôtel de la Boétie,hotel,Bordeaux,4 Rue de la Boétie,,,44.8394349,-0.5800092
+9799056317,node,OUI TAO,restaurant,Bordeaux,"5 Quai des Queyries, 33100, Bordeaux",33100,,44.8410289,-0.5614762
+9899611179,node,Poggetti,restaurant,Bordeaux,,,https://poggetti.fr,44.8325617,-0.5667801
+9899668305,node,Repas pour Geek,restaurant,Bordeaux,,,,44.8350262,-0.5648661
+9899668306,node,La Terrasse St-Michel,restaurant,Bordeaux,25-27 Rue des Faures,,,44.8347163,-0.5656079
+9936872468,node,Chez Safiye,restaurant,Bordeaux,,,,44.8772211,-0.5340774
+9936968834,node,Le Carrelet,restaurant,Bordeaux,,,,44.8774843,-0.5345485
+9937521670,node,Les dames du lac (Le we),restaurant,Bordeaux,,,,44.8779404,-0.5770933
+9945449042,node,Central do Brasil,restaurant,Bordeaux,6 Rue du Port,,,44.8322197,-0.5607948
+9945558871,node,Anémone,restaurant,Bordeaux,2 Rue Planterose,,,44.8334437,-0.5653761
+9945576093,node,Le JAX,restaurant,Bordeaux,5 Quai de la Monnaie,,,44.834434,-0.5636904
+9963731726,node,YAKO,restaurant,Bordeaux,34 Rue Lafaurie de Monbadon,,,44.8444143,-0.5797373
+10031377717,node,New York New York,restaurant,Bordeaux,4 Cours Pasteur,,https://www.privateaser.com/lieu/40534-new-york-new-york,44.8362493,-0.5753471
+10046404249,node,Temps à Nouveau,restaurant,Bordeaux,299 Avenue d'Arès,,,44.8385921,-0.6159561
+10049129946,node,Centre B’,restaurant,Bordeaux,7 Place de la République,,https://www.centreb.fr/,44.8849684,-0.6509488
+10056190365,node,La Brasserie le Coq,restaurant,Bordeaux,"4-5 Place des Terres Neuves, 33130, Bègles",33130,https://www.facebook.com/people/La-Brasserie-le-Coq/100085616066291/,44.8150818,-0.5512235
+10056906574,node,,restaurant,Bordeaux,,,,44.8631318,-0.5516034
+10067433436,node,L'Hexagone,restaurant,Bordeaux,4 Avenue de l'Yser,,,44.8416213,-0.6481298
+10087364431,node,Le Fournil de Blanquefort,restaurant,Bordeaux,,,,44.9088925,-0.6388928
+10087364621,node,Gözl'Aimée,restaurant,Bordeaux,2 Rue Jules Ferry,,,44.9101762,-0.6383198
+10087364637,node,Bistrot Régent,restaurant,Bordeaux,29 Rue de la République,,,44.9091504,-0.632213
+10087364640,node,Baron Moleskine,restaurant,Bordeaux,,,,44.9098879,-0.6347986
+10087364643,node,La Cochonne Rit,restaurant,Bordeaux,44 Avenue du Général de Gaulle,,,44.9137063,-0.635554
+10087364644,node,Valenthaï,restaurant,Bordeaux,,,,44.913562,-0.6357301
+10087364645,node,Tomato,restaurant,Bordeaux,,,,44.9135685,-0.6358484
+10087364647,node,Kerem Kebab,restaurant,Bordeaux,8 Rue Jean Moulin,,,44.9137998,-0.634294
+10087381009,node,Lotus Express,restaurant,Bordeaux,155 Avenue du 11 Novembre,,,44.9178893,-0.6273711
+10087824928,node,,restaurant,Bordeaux,,,,44.909559,-0.6343827
+10090435089,node,Tornado,restaurant,Bordeaux,2 Rue Jules Ferry,,,44.9101579,-0.6382126
+10095995572,node,Orta,restaurant,Bordeaux,"3 bis Rue du Hâ, 33000, Bordeaux",33000,,44.8363336,-0.5760687
+10102045979,node,Côté Bistrot,restaurant,Bordeaux,,,,44.911253,-0.6373888
+10125916619,node,L'encoche Yakiniku,restaurant,Bordeaux,"11 Rue de la Devise, 33000",33000,,44.839939,-0.5710562
+10139568518,node,Fufu Ramen,restaurant,Bordeaux,"37 Rue Saint-Rémi, 33000",33000,https://restaurantfufu.com,44.841359,-0.5723896
+10143204744,node,L'Orangerie,restaurant,Bordeaux,Cours de Verdun,,https://lorangeriejardinpublic-bordeaux.fr,44.8472036,-0.5778068
+10159951143,node,Nachos,restaurant,Bordeaux,33300,33300,,44.8789895,-0.567961
+10159951145,node,Bibibap,restaurant,Bordeaux,,,,44.8789513,-0.5680707
+10159970259,node,Paaates,restaurant,Bordeaux,,,,44.8792205,-0.5677189
+10159994170,node,Woko,restaurant,Bordeaux,,,,44.8790032,-0.5678182
+10176229106,node,Eat Salad,restaurant,Bordeaux,,,,44.8790179,-0.5673975
+10177321876,node,Poulet braisé,restaurant,Bordeaux,,,,44.8789633,-0.5677545
+10215783953,node,Bobo Pizza,restaurant,Bordeaux,,,,44.8546917,-0.5721433
+10228610813,node,Suki,restaurant,Bordeaux,90-92 Cours du Maréchal Juin,,https://www.restaurantsuki.com/,44.8347144,-0.5868183
+10228610814,node,Vach' et nous,restaurant,Bordeaux,94 Cours Maréchal Juin,,,44.8346397,-0.58708
+10271474387,node,Les restos du Coeur,restaurant,Bordeaux,,,,44.9096402,-0.634179
+10271474393,node,Pomme Cactus,restaurant,Bordeaux,5 Rue Eugène Tartas,,,44.9098145,-0.6353839
+10536962273,node,Basilic & Co Bordeaux (Bastide),restaurant,Bordeaux,"141 Rue de la Benauge, 33100, Bordeaux",33100,https://basilic-and-co.com/restaurants/pizzeria-bordeaux/bastide/,44.8405288,-0.5521289
+10539810709,node,La Table d'Arcins,restaurant,Bordeaux,"3 Rue Charles Tellier, 33130, Bègles",33130,https://latabledarcins.com,44.7904534,-0.5364068
+10552748456,node,Les Canailles,restaurant,Bordeaux,246 Boulevard Jean-Jacques Bosc,,,44.8168585,-0.5486118
+10565795138,node,Le Bec Fin,restaurant,Bordeaux,"4 Rue Archimède, 33700, Mérignac",33700,https://le-becfin.com/,44.8304018,-0.6824565
+10664990907,node,Sakura san,restaurant,Bordeaux,"20 Rue de Macau, 33290",33290,http://www.sakurasan.fr/www.sakurasan.fr/Accueil.html,44.9509814,-0.6058952
+10707514678,node,Le resto d'Ysis,restaurant,Bordeaux,2 Rue Georges Guynemer,,,44.9243455,-0.6234878
+10708618305,node,Le Kiosque Bordeaux,restaurant,Bordeaux,"50-52 Rue du Pas Saint-Georges, 33000",33000,https://lekiosque.family/,44.8387956,-0.5718777
+10745308105,node,Eat Salad,restaurant,Bordeaux,2 Rue Chateaubriand,,,44.8066086,-0.6280707
+10824281263,node,La Pizza de Nico,restaurant,Bordeaux,"473 Route de Pauillac, 33290, Le Pian-Médoc",33290,https://lapizzadenico.com/restaurant/le-pian-medoc/,44.9524763,-0.6273766
+10824331587,node,Mr. Jin Restaurant Buffet,restaurant,Bordeaux,"33290, Le Pian-Médoc",33290,https://www.facebook.com/people/Restaurant-Jin/100063620466827/,44.9541342,-0.6262117
+10832258007,node,Relais D'Asie,restaurant,Bordeaux,"Avenue de la Libération, 33440, Ambarès-et-Lagrave",33440,,44.9166527,-0.4823465
+10832258028,node,Tajinier,restaurant,Bordeaux,"2, 33440, Ambarès-et-Lagrave",33440,,44.917394,-0.4820312
+10833526003,node,Thalii,restaurant,Bordeaux,3,,https://www.thalii.fr/,44.9262957,-0.4875631
+10833626213,node,Eat Sushi,restaurant,Bordeaux,"2 Rue de l'Aire du Temps, 33560, Sainte-Eulalie",33560,,44.911886,-0.4870699
+10839764797,node,ECHO,restaurant,Bordeaux,"18 Rue de la Cour des Aides, 33000, Bordeaux",33000,https://echocaveamanger.myportfolio.com,44.8395209,-0.5700739
+10839803888,node,Merlot Petit Amour,restaurant,Bordeaux,"20 Place du Palais, 33000",33000,https://www.bistrot-merlot.fr/,44.8385342,-0.5696657
+10839837406,node,Marie Curry,restaurant,Bordeaux,"45 Rue de la Compagnie du Midi, 33800, Bordeaux",33800,https://mariecurry.fr/,44.8215777,-0.5590311
+10841654606,node,La Belle Suzette,restaurant,Bordeaux,"8 Rue Louis Combes, 33000",33000,,44.8416903,-0.575362
+10842073406,node,Bistrot Chic,restaurant,Bordeaux,"6 Rue Guillaume Brochon, 33000",33000,,44.8415325,-0.5759906
+10870677854,node,Bistro Regent Le Pian Médoc,restaurant,Bordeaux,"274 Route de Pauillac, 33290, Le Pian-Médoc",33290,https://www.bistro-regent.fr/,44.9586003,-0.6303553
+10902320234,node,Ibis centre,hotel,Bordeaux,19 Quai de Paludate,,,44.8295181,-0.5556355
+10924479405,node,LouLou,restaurant,Bordeaux,"16 Rue de la Cour des Aides, 33000",33000,,44.8395841,-0.5699619
+10951487505,node,Kedem,restaurant,Bordeaux,"16 Rue Jean Burguet, 33000",33000,,44.8341604,-0.5781504
+11002958435,node,La petite cuisine de Marguerite,restaurant,Bordeaux,,,https://lapetitecuisinedemarguerite.fr/,44.7726521,-0.6103031
+11045320205,node,Topa - Comptoir Basque,restaurant,Bordeaux,Place des Basques,,,44.8385205,-0.5700787
+11061304169,node,Joki,restaurant,Bordeaux,33 Rue des Bahutiers,,,44.8386947,-0.5707735
+11076799615,node,Flam's,restaurant,Bordeaux,"17, 33000",33000,https://flams.fr/index.php/nos-restaurants/flams-bordeaux-bassin-a-flots/,44.8668784,-0.5612417
+11076803833,node,Bass Bill,restaurant,Bordeaux,"Quai Virginie Hériot, 33000",33000,,44.8680628,-0.5630348
+11076837891,node,Awake,restaurant,Bordeaux,"54 Quai Virginie Hériot, 33000",33000,,44.8678815,-0.5627604
+11076843840,node,Papadum Indian food,restaurant,Bordeaux,"121 Rue Lucien Faure, 33000",33000,https://papadum.fr/,44.8676111,-0.5629811
+11076853025,node,Italian Trattoria,restaurant,Bordeaux,"Quai Virginie Hériot, 33000",33000,https://it-trattoria.fr/restaurant/bordeaux-bassins-a-flot,44.867609,-0.5623478
+11092368378,node,L'instant Sushi,restaurant,Bordeaux,83 Avenue de Soulac,,,44.9066677,-0.6692353
+11093320475,node,Sushi Mishi,restaurant,Bordeaux,"14 Cours Gambetta, 33400, Talence",33400,https://sushimishi.fr/,44.8206405,-0.5831427
+11110152205,node,LE TOUT DU CRU,restaurant,Bordeaux,"52 Quai de Bacalan, 33300",33300,,44.8588676,-0.5572018
+11123956905,node,Vinayaka Restaurant,restaurant,Bordeaux,103 Cours de l'Argonne,,,44.827725,-0.575542
+11124715971,node,Heiko,restaurant,Bordeaux,35 Rue Fondaudège,,https://www.heiko-poke.com/bordeaux-fondaudege/,44.84638,-0.5795369
+11124756188,node,Gustave,restaurant,Bordeaux,5 Rue Fondaudège,,https://gustave-resto.fr/,44.8456824,-0.5785219
+11158584553,node,Bordeaux Parme,restaurant,Bordeaux,3 Rue Eugène Ténot,,,44.819508,-0.5726484
+11172715469,node,Wayo Wayo,restaurant,Bordeaux,9 Rue Georges Bonnac,,https://www.wayowayo.fr/,44.8405417,-0.5816558
+11172715470,node,Phood,restaurant,Bordeaux,,,,44.8404135,-0.5815826
+11181062874,node,Sababa.,restaurant,Bordeaux,76 Rue Fondaudège,,,44.8477926,-0.5819226
+11181201638,node,Tripletta,restaurant,Bordeaux,83 Cours du Médoc,,,44.860131,-0.5687571
+11186477503,node,Les burgers de Colette,restaurant,Bordeaux,23 Cours Portal,,https://colette-burger.webflow.io/restaurants/bordeaux-chartrons,44.8530059,-0.5731891
+11186591816,node,PUYMEYNAC,restaurant,Bordeaux,"3 Route des Cités, 33360, Camblanes-et-Meynac",33360,https://www.puymeynac.fr/,44.7669521,-0.4876094
+11186697170,node,Véloce pizza,restaurant,Bordeaux,,,,44.8547253,-0.5358108
+11200313427,node,L'OCNI,restaurant,Bordeaux,"158 Rue Émile Combes, 33000",33000,https://ocni-restaurant.com/,44.8321927,-0.612987
+11217989433,node,Restaurant FirstName - Le Bada,restaurant,Bordeaux,"14 Rue Claude Bonnier, 33000, Bordeaux",33000,https://www.hyatt.com/en-US/hotel/france/firstname-bordeaux/bodjd/dining,44.8379871,-0.5833844
+11220655689,node,Chirashi,restaurant,Bordeaux,,,,44.862041,-0.554302
+11225285352,node,Flor Do Minho,restaurant,Bordeaux,177 Boulevard Albert 1er,,,44.8129556,-0.5626874
+11225410988,node,Yaki yaki,restaurant,Bordeaux,,,,44.8142803,-0.5512022
+11244744462,node,Baie du Dragon,restaurant,Bordeaux,74 Avenue Jean Jaurès,,,44.8084655,-0.6244989
+11252348765,node,Santosha,restaurant,Bordeaux,27 Avenue René Cassagne,,,44.8599739,-0.5152027
+11268594646,node,ASPAVA,restaurant,Bordeaux,,,,44.8564044,-0.5199367
+11288883167,node,Kokomo Cantine,restaurant,Bordeaux,"9 Place Fernand Lafargue, 33000, Bordeaux",33000,https://www.kokomocantine.com/,44.8368717,-0.5718391
+11292545344,node,Nazik kebab,restaurant,Bordeaux,,,,44.8609939,-0.51993
+11360295612,node,La Route du Rhum,restaurant,Bordeaux,87 Rue de Tauzia,,,44.8278422,-0.556896
+11360299153,node,Le Potager,restaurant,Bordeaux,33 Rue Charles Domercq,,,44.8255185,-0.5574182
+11360300193,node,Iké Poké,restaurant,Bordeaux,48 Avenue Thiers,,https://www.ikepoke.fr/,44.8422325,-0.5570541
+11368163815,node,Sid Tacos,restaurant,Bordeaux,"216 Avenue du Général de Gaulle, 33290, Blanquefort",33290,https://sid-tacos.eatbu.com/?lang=fr,44.9289445,-0.6355923
+11368204088,node,Come a Casa,restaurant,Bordeaux,"6 Rue Gambetta, 33290, Blanquefort",33290,https://comeacasa-pizza.fr,44.9100047,-0.6356757
+11372160261,node,Pizza du Chef,restaurant,Bordeaux,,,,44.8769597,-0.5445963
+11384674715,node,Dua Nazik Restaurant,restaurant,Bordeaux,"16 Rue Camille Pelletan, 33150, Cenon",33150,,44.8628301,-0.5193144
+11384674721,node,O Grill,restaurant,Bordeaux,,,,44.8564116,-0.5199844
+11425342042,node,Bondi,restaurant,Bordeaux,32 Avenue Jean Jaurès,,,44.9002043,-0.5165962
+11425723650,node,Le Juliano,restaurant,Bordeaux,"44 Rue Thérèse, 33560, Carbon-Blanc",33560,https://www.lejuliano.com/,44.8944323,-0.5004889
+11446153270,node,Italian Trattoria,restaurant,Bordeaux,,,,44.8412389,-0.5741171
+11468790573,node,Le Régalien,restaurant,Bordeaux,75 Rue du Palais Gallien,,https://www.regallien.com,44.8440888,-0.5817395
+11492734173,node,Bowl Eat,restaurant,Bordeaux,34 Rue Camille Godard,,https://www.bowleatrestaurant.fr/,44.8549786,-0.5741934
+11513257236,node,Hôtel Life Bordeaux Gare - BG,hotel,Bordeaux,34 Rue de Tauzia,,https://lifehotels.fr/,44.8293901,-0.5588283
+11531454139,node,L'hôtel particulier,hotel,Bordeaux,"44 Rue Vital Carles, 33000 Bordeaux",,,44.8389983,-0.5778652
+11543568928,node,Brasserie Maillard,restaurant,Bordeaux,"17 Rue Saint-Rémi, 33000, Bordeaux",33000,,44.8414184,-0.5716097
+11586738369,node,Doppio Malto,restaurant,Bordeaux,,,,44.8792437,-0.5679465
+11586877766,node,Toro toro,restaurant,Bordeaux,286 Avenue Pasteur,,https://torotoropessac.fr/fr,44.8004262,-0.659254
+11626556796,node,Le 7,restaurant,Bordeaux,,,https://www.laciteduvin.com/fr/restaurants-boutiques/le-7,44.8624824,-0.5502612
+11655881616,node,Kkokko,restaurant,Bordeaux,"142 Cours du Général de Gaulle, 33170, Gradignan",33170,https://kkokko-gradignan.com,44.7719812,-0.6144334
+11659929769,node,Saveurs d’Alsace,restaurant,Bordeaux,,,https://saveurs-alsace.fr/,44.7733632,-0.6144312
+11708376965,node,Fée Maison,restaurant,Bordeaux,2 Rue de Tauzia,,https://fee-maison-bordeaux.eatbu.com/,44.8302196,-0.5600907
+11708376967,node,Babette,restaurant,Bordeaux,207 Quai de Paludate,,https://babette-conceptstore.com/bordeaux/,44.8266484,-0.5490322
+11718008869,node,Mitsuba,restaurant,Bordeaux,"11 Rue des Piliers de Tutelle, 33000",33000,https://www.restaurantmitsuba.com,44.8416155,-0.5737588
+11724954873,node,Goûtezetpartagez.com,restaurant,Bordeaux,,,,44.8526451,-0.5379216
+11758741022,node,Beirut Kitchen - Cantine du Levant,restaurant,Bordeaux,"57 Cours du Maréchal Gallieni, Bordeaux",,,44.8239835,-0.5919313
+11821769549,node,Greenschack,restaurant,Bordeaux,6 Avenue de la Boétie,,https://greenshack.fr/,44.8952272,-0.7135556
+11875708814,node,Gueuleton Bordeaux,restaurant,Bordeaux,5 Place du Palais,,https://www.gueuleton.fr/gueuleton-bordeaux/,44.838316,-0.569227
+11898738269,node,La Boulangerie,restaurant,Bordeaux,"48 Rue Barreyre, 33300",33300,,44.8551695,-0.5689522
+11903671069,node,Osteria Palatino,restaurant,Bordeaux,"8 Rue de la Merci, 33300",33300,https://www.bigmammagroup.com/fr/restaurants-italiens/palatino,44.8388836,-0.5735628
+11907077169,node,Stai Calmo,restaurant,Bordeaux,"15 Rue du Cerf Volant, 33000",33000,,44.83801,-0.5713591
+11907804869,node,Vivants,restaurant,Bordeaux,"13 Rue des Bahutiers, 33000",33000,https://restaurantvivants.com/,44.839357,-0.5706748
+11925491067,node,staycity aparthotels,hotel,Bordeaux,45 Rue Leyteire,,https://www.staycity.com/bordeaux/city-centre,44.8336922,-0.5696883
+11937137775,node,Lucca,restaurant,Bordeaux,6 Place Rodesse,,,44.8336009,-0.584437
+11944540062,node,Entre terre et mer,restaurant,Bordeaux,5 Avenue Jean Jaurès,,,44.853268,-0.5381799
+11944878264,node,Piuma,restaurant,Bordeaux,177 Rue Sainte-Catherine,,https://www.piumabordeaux.com/,44.8352571,-0.5734985
+11945086369,node,BIG Bistrot Girondin,restaurant,Bordeaux,"64/66 Rue Saint-Rémi, 33000",33000,,44.8411151,-0.5738643
+11975722450,node,La Villa gourmande,restaurant,Bordeaux,,,,44.8495656,-0.4969132
+11992531849,node,Kalimera,restaurant,Bordeaux,1 Place Marie de Gournay,,https://www.eatkalimera.com/kalimera-bordeaux,44.8357705,-0.5520146
+11992531850,node,Meet'in,restaurant,Bordeaux,,,,44.8355618,-0.5524139
+11992531852,node,Sushi Kobbo,restaurant,Bordeaux,,,https://www.sushikobbo.com/,44.835476,-0.552578
+12005858269,node,Basilic & Co,restaurant,Bordeaux,"43 Route de Léognan, 33140, Villenave-d'Ornon",33140,https://basilic-and-co.com/restaurants/pizzeria-villenave-d-ornon/,44.7684405,-0.5797108
+12007039374,node,Samaki,restaurant,Bordeaux,123 Avenue René Cassagne,,,44.8535437,-0.5177387
+12025579869,node,Minouche,restaurant,Bordeaux,,,,44.8387833,-0.579038
+12042489672,node,TajMahal Bordeaux,restaurant,Bordeaux,"24 Rue du Parlement Sainte-Catherine, 33000, BORDEAUX",33000,https://www.tajmahalbordeaux.net/,44.8404951,-0.5735676
+12050786228,node,Bella pizza,restaurant,Bordeaux,"18 Rue Winston Churchill, 33700, Mérignac",33700,,44.8343058,-0.6272959
+12065151805,node,Ibis Bordeaux Centre Gare Saint Jean Euratlantique,hotel,Bordeaux,"28 Rue Charles Domercq, 33800",33800,,44.8265424,-0.5569301
+12066112376,node,La Collation,restaurant,Bordeaux,6 Rue des Argentiers,,,44.8393885,-0.5699503
+12066268708,node,Isshin Ramen,restaurant,Bordeaux,,,,44.8407918,-0.5716152
+12066658770,node,Gou Kaz Mwen,restaurant,Bordeaux,2 Rue des Sablières,,https://goukazmwen.com/,44.8274795,-0.575537
+12086789369,node,Le loup,restaurant,Bordeaux,"66 Rue du Loup, 33000",33000,https://restaurantleloup.com/?lang=en,44.8378762,-0.5745271
+12097729243,node,L'Asie du Sud-Est,restaurant,Bordeaux,8 ZI Les Platanes,,,44.768984,-0.4470665
+12113580176,node,Le Saint Aubin,restaurant,Bordeaux,11 Route de Saint-Medard,,,44.911738,-0.7246373
+12120026268,node,Lasagna,restaurant,Bordeaux,3 Rue de la Merci,,https://www.lelasagna.fr/,44.8390194,-0.5733863
+12120700292,node,Bo tannique,restaurant,Bordeaux,2 Rue Tustal,,https://www.restaurant-bo-tannique-bordeaux.fr,44.8384414,-0.5743691
+12123867343,node,Maki Time,restaurant,Bordeaux,114 Rue de la Béchade,,https://www.makitime.fr/,44.8234051,-0.6002433
+12124424922,node,Marcel,restaurant,Bordeaux,4 Rue des Remparts,,,44.8405442,-0.5795937
+12131500945,node,BoHéBon,restaurant,Bordeaux,,,https://bohebon.fr/,44.8380274,-0.585022
+12131500963,node,Chef Aji,restaurant,Bordeaux,,,,44.8379205,-0.5850322
+12137350101,node,Panaille,restaurant,Bordeaux,137 Rue du Tondu,,https://www.panaille.fr/,44.8295346,-0.5865495
+12138605501,node,Ed Motors,restaurant,Bordeaux,"10 Rue de La Motte Picquet, 33300",33300,,44.8723795,-0.5618568
+12151365665,node,Le Cinquième Sens,restaurant,Bordeaux,,,,44.7829822,-0.4011853
+12180748366,node,Bocce,restaurant,Bordeaux,9 bis Place de la Mairie,,https://bocce.fr/,44.7842771,-0.4969464
+12183649035,node,La fine Bouche,restaurant,Bordeaux,"30 Rue du Hâ, 33000, Bordeaux",33000,https://www.lafinebouche33.com/,44.8360757,-0.5769476
+12205277974,node,Papy,restaurant,Bordeaux,7 Rue de la Tour de Gassies,,https://www.papyrestaurant.fr/,44.8391191,-0.570425
+12205420407,node,Gallika,restaurant,Bordeaux,,,,44.8391948,-0.5710153
+12302038582,node,,restaurant,Bordeaux,"14 Avenue Danielle Mitterrand, 33130, Bègles",33130,,44.7860603,-0.5633044
+12344496533,node,Sushi Midi,restaurant,Bordeaux,2 Rue Joseph Cugnot,,,44.8532424,-0.6679847
+12359916417,node,Les Chats Touilleurs,restaurant,Bordeaux,,,https://les-chats-touilleurs-restaurant-bordeaux.eatbu.com,44.8428847,-0.5815472
+12367835189,node,Terre Émeraude,restaurant,Bordeaux,32 Rue de Cursol,,https://www.terreemeraude.fr/,44.8347782,-0.5773849
+12367999701,node,Moelleuses et Persillées,restaurant,Bordeaux,65 Quai des Chartrons,,https://www.moelleuses-et-persillees.fr/,44.8528176,-0.5679737
+12369643315,node,Piacere,restaurant,Bordeaux,58 Cours de la Somme,,http://piacere-pizzeria.fr/,44.8284801,-0.572227
+12369643316,node,Peter Coffee Shop,restaurant,Bordeaux,10 Rue de Guienne,,https://petercoffeeshop.com/,44.8355413,-0.5717608
+12399946402,node,Krousty Sabaïdi Mérignac,restaurant,Bordeaux,"1 Place Charles de Gaulle, 33700, Mérignac",33700,https://www.kroustyresto.fr/restaurant-thai-food/merignac,44.8418056,-0.6463029
+12422936201,node,Les 4 soeurs,hotel,Bordeaux,6 Cours du XXX Juillet,,,44.8433474,-0.5741822
+12435537358,node,,restaurant,Bordeaux,,,,44.8306657,-0.5675785
+12435625230,node,L'Elliniko,restaurant,Bordeaux,,,,44.8306736,-0.5680871
+12438360289,node,Hôtel 56,hotel,Bordeaux,,,https://56paludate.com/,44.8278586,-0.5523154
+12442290002,node,Naï Naï,restaurant,Bordeaux,,,https://www.nainai.fr,44.8397353,-0.5814156
+12449720372,node,Olé,restaurant,Bordeaux,,,,44.8424401,-0.5812919
+12468488259,node,Bistrot Regent,restaurant,Bordeaux,,,,44.8171508,-0.5273138
+12497862144,node,La Crêpe Funky,restaurant,Bordeaux,32 Place Gambetta,,https://la-crepe-funky.jimdosite.com/,44.8410491,-0.5813099
+12563266001,node,Le Clos d'Augusta,restaurant,Bordeaux,"339 Rue Georges Bonnac, 33000",33000,https://www.leclosdaugusta.fr/,44.8367731,-0.5973491
+12563623323,node,Meunier,restaurant,Bordeaux,3 Place Lucien Victor Meunier,,https://meunierbordeaux.fr,44.8437368,-0.586857
+12604012403,node,Uma,restaurant,Bordeaux,"10 Esplanade Jean Valleix, 33110, Le Bouscat",33110,https://www.umarestaurant.fr/,44.8660173,-0.6042988
+12604762201,node,Côté jardin,restaurant,Bordeaux,"105 Avenue du XI Novembre, 33290",33290,,44.9129431,-0.6253724
+12607625297,node,Maison Musubi,restaurant,Bordeaux,,,,44.8404502,-0.5608003
+12637344375,node,Hippopotamus,restaurant,Bordeaux,,,,44.8349569,-0.6815663
+12691404841,node,Caserne B,restaurant,Bordeaux,Quai Deschamps,,,44.8391625,-0.5589071
+12723533327,node,Le Pondichéry Truck,restaurant,Bordeaux,"6 Avenue de la Grande Semaine, 33700, Mérignac",33700,,44.8537116,-0.6838086
+12728111370,node,L'auberge espagnole,restaurant,Bordeaux,,,,44.8342342,-0.563418
+12728157419,node,Le Grand Phare,restaurant,Bordeaux,6 Quai des Salinières,,,44.8358422,-0.5653042
+12779832325,node,Taste & Grill,restaurant,Bordeaux,2 Avenue des Pyrénées,,,44.7764172,-0.562956
+12787049105,node,Teneo Appart Hôtel,hotel,Bordeaux,Allée du 7e Art,,,44.81224,-0.5919334
+12794145100,node,Bistrot Le Régent,restaurant,Bordeaux,"136 Avenue Montaigne, 33160, Saint-médard-en-jalles",33160,www.bistro-regent.fr,44.8927313,-0.7107968
+12817761741,node,My Little Warung,restaurant,Bordeaux,35 Rue des Augustins,,https://www.mylittlewarung.com/,44.8324809,-0.5724731
+12841614401,node,La Croix Blanche,restaurant,Bordeaux,"62 Rue de la Croix Blanche, 33000",33000,https://lacroixblanchebordeaux.com,44.8448275,-0.5912986
+12846979601,node,Péniche Royal,restaurant,Bordeaux,33100,33100,,44.8447328,-0.5657107
+12849685777,node,Appart'City,hotel,Bordeaux,"59 Rue du Docteur Finlay, 33300, Bordeaux",33300,https://www.appartcity.com/fr/destinations/aquitaine/bordeaux/bordeaux-centre-ravezies.html,44.8634576,-0.5812745
+12852566122,node,Père Louis,restaurant,Bordeaux,245 Avenue Pasteur,,https://pere-louis.fr/,44.7998352,-0.6605052
+12889289702,node,Nom d'une crêpe,restaurant,Bordeaux,"32 Rue Saint-Rémi, 33000",33000,,44.841301,-0.572026
+12889296901,node,Monsieur Garba,restaurant,Bordeaux,"22 Rue de la Fusterie, 33000",33000,,44.8357052,-0.5656173
+12943281827,node,Pizzella Cambes,restaurant,Bordeaux,"475 Allée de la Concorde, 33880, Cambes",33880,https://pizzeria-pizzellacambes.fr,44.730639,-0.464254
+12965447465,node,La part des anges,restaurant,Bordeaux,"70 Avenue de la Libération, 33610, Canéjan",33610,https://la-part-des-anges-restaurant-canejan.eatbu.com/?lang=fr,44.7430936,-0.6500361
+12988129350,node,Babouchka,restaurant,Bordeaux,38 Rue Camille Sauvageau,,https://www.babouchka-restaurant.com/,44.8329312,-0.5640524
+12990085248,node,Chez Bonheur,restaurant,Bordeaux,11 Rue de Candale,,,44.831996,-0.5721824
+12998021615,node,Ro'cha,restaurant,Bordeaux,165 Avenue d'Eysines,,https://rocha-restaurant.fr,44.8561437,-0.601711
+13001173871,node,La Guinguette,restaurant,Bordeaux,,,,44.8581907,-0.5297522
+13004244818,node,L'agneau à la Braise,restaurant,Bordeaux,13 Rue du Pas Saint-Georges,,,44.8398188,-0.5721145
+13004244827,node,Paus'k,restaurant,Bordeaux,10 Rue de la Maison Daurade,,https://pausk.com/,44.8417536,-0.5743232
+13004244829,node,Restaurant d'entreprise BNP Paribas,restaurant,Bordeaux,,,,44.8411019,-0.5739787
+13004244830,node,Krousty Sabaïdi,restaurant,Bordeaux,20 Rue des Piliers de Tutelle,,,44.8409764,-0.5734687
+13004244831,node,Mada,restaurant,Bordeaux,,,,44.8409151,-0.5734614
+13004244841,node,Monsieur Papilles,restaurant,Bordeaux,10 Rue du Parlement Sainte-Catherine,,https://monsieurpapilles.fr/,44.8405337,-0.572776
+13004244844,node,Le Bar du Boucher,restaurant,Bordeaux,,,,44.8406321,-0.5726358
+13004244861,node,Osteria da Luigi,restaurant,Bordeaux,23 Rue du Pas Saint-Georges,,https://www.osteria-da-luigi.fr/,44.8394928,-0.5720904
+13004244864,node,Le Carreau,restaurant,Bordeaux,30 Rue du Pas Saint-Georges,,https://www.lecarreau-bordeaux.fr/,44.83942,-0.5719302
+13004244872,node,Ô P'tit Bahut,restaurant,Bordeaux,10 Rue des Bahutiers,,https://www.optitbahut.fr/,44.8393238,-0.5705379
+13006953290,node,Pizza Pise,restaurant,Bordeaux,165 Avenue d'Eysines,,http://www.pizzapise.fr,44.8565867,-0.6025257
+13009281810,node,Bibibap,restaurant,Bordeaux,51 Avenue de la Libération Charles de Gaulle,,https://bibibap.fr,44.8557189,-0.5960636
+13013890382,node,Le Pavillon des Boulevards,restaurant,Bordeaux,"120 Rue de la Croix de Seguey, 33000, Bordeaux",33000,https://lepavillondesboulevards.fr/,44.8532231,-0.5927825
+13013890389,node,Mario's Pizza,restaurant,Bordeaux,155 Rue de la Croix de Seguey,,,44.8532526,-0.5924557
+13013941156,node,Ressources,restaurant,Bordeaux,126 Rue Fondaudège,,https://restaurantressources.com,44.848916,-0.5836132
+13014023915,node,Ami-Chemin,restaurant,Bordeaux,203 Rue Fondaudège,,https://ami-chemin.com,44.849974,-0.5853195
+13014023922,node,Efsane,restaurant,Bordeaux,179 Rue Fondaudège,,,44.8495151,-0.5844578
+13015565703,node,Tomi,restaurant,Bordeaux,,,,44.7899144,-0.5331672
+13017858988,node,Cacio e Pepe,restaurant,Bordeaux,26 bis Avenue de Tivoli,,,44.8582056,-0.5918236
+13020630232,node,Just eat,restaurant,Bordeaux,,,,44.8321556,-0.5730089
+13030855167,node,Legaston,restaurant,Bordeaux,67 Rue Georges Bonnac,,,44.840235,-0.5844664
+13030931719,node,Le Scopitone,restaurant,Bordeaux,5 Rue de la Vieille Tour,,,44.841466,-0.5795094
+13037284861,node,Litalia pizzeria,restaurant,Bordeaux,,,,44.8550541,-0.5713904
+13039562093,node,Epi'cez Tout,restaurant,Bordeaux,"114 Avenue de Canéjan, 33600, Pessac",33600,https://www.episolpessac.org/restaurant-solidaire,44.7887941,-0.6514939
+13039640883,node,Le Petit Parc,restaurant,Bordeaux,,,,44.8572224,-0.5788632
+13042085201,node,Chez Popotte,restaurant,Bordeaux,"4bis Place Sainte-Quitterie, 33360",33360,,44.78648,-0.4840952
+13043275106,node,Ege Grill Restaurant,restaurant,Bordeaux,197 Rue Georges Bonnac,,,44.8383219,-0.590844
+13045035125,node,O Crok de Vince,restaurant,Bordeaux,,,,44.8342822,-0.5883359
+13046462423,node,Bistro Cent Onze,restaurant,Bordeaux,,,,44.8530737,-0.5702394
+13046524270,node,Casa Gaia,restaurant,Bordeaux,16 bis Rue Latour,,https://www.casagaia.fr/,44.8505137,-0.5711486
+13056282912,node,Métairie de Terrefort restaurant et chambres d’hôtes,restaurant,Bordeaux,10 Route de Latresne,,https://metairiedeterrefort.fr/,44.8154359,-0.50913
+13062309700,node,230ºC,restaurant,Bordeaux,6 Rue des Ayres,,,44.8368666,-0.5722634
+13065011068,node,Bistrot Kavkaz,restaurant,Bordeaux,20 Cours de l'Argonne,,,44.8297674,-0.5731328
+13065439930,node,Le Lasagna,restaurant,Bordeaux,23 Rue Notre-Dame,,https://www.lelasagna.fr/,44.850269,-0.5722881
+13068356133,node,La Pizz,restaurant,Bordeaux,30 Cours de l'Argonne,,http://lapizz-bordeaux.fr/,44.8295092,-0.5733572
+13069630324,node,Momoko,restaurant,Bordeaux,22 Rue Fondaudège,,,44.8459246,-0.5792571
+13075413966,node,Le Bistrot des Grands Hommes,restaurant,Bordeaux,,,,44.8430041,-0.5780876
+13082691701,node,La Cantina Roni,restaurant,Bordeaux,"81 Cours Marc Nouaux, 33000",33000,https://www.cantinaroni.fr/,44.8481088,-0.5969392
+13100977044,node,Campanile Bordeaux Ouest,hotel,Bordeaux,,,https://bordeaux-ouest-merignac-aeroport.campanile.com/,44.8361368,-0.679594
+13100977045,node,Première classe Bordeaux Ouest,hotel,Bordeaux,,,https://bordeaux-ouest-merignac-aeroport.premiereclasse.com/fr-fr/,44.8363574,-0.6795511
+13103302880,node,Colette,restaurant,Bordeaux,5 Rue Colette,,,44.825491,-0.5773884
+13104053978,node,Benteaux,restaurant,Bordeaux,,,,44.8354178,-0.5833539
+13107738217,node,Bangkok Station,restaurant,Bordeaux,13 Cours de la Somme,,https://www.tuktik-thaifood.fr/,44.8297904,-0.5724864
+13119268638,node,Qiang Dynastie,restaurant,Bordeaux,292 Avenue Pasteur,,https://qiangdynastie.com/,44.8001317,-0.6607861
+13124535601,node,Apolonia,restaurant,Bordeaux,,,,44.8900343,-0.5623198
+13143005413,node,La Maison Bord'eaux,hotel,Bordeaux,113 Rue du Docteur Albert Barraud,,https://lamaisonbord-eaux.com,44.8476394,-0.5838451
+13165394569,node,In Bocca Al Lupo,restaurant,Bordeaux,5 Avenue du 7ème Art,,https://inboccaallupo.fr/pizzeria-villenave-d-ornon/,44.7875946,-0.530859
+13165394599,node,Bouillon Marguerite,restaurant,Bordeaux,5 Avenue du 7ème Art,,https://www.bouillonmarguerite.fr/,44.7876154,-0.5313162
+13171597367,node,Chef Aji,restaurant,Bordeaux,,,,44.7936675,-0.5299979
+13171667676,node,Pavillon Garonne,restaurant,Bordeaux,"Rue Louis Blériot, 33130, Bègles",33130,https://pavillon-garonne.fr,44.7946187,-0.527938
+13181118875,node,Hôtel Massilia,hotel,Bordeaux,34 Rue Saint-Sernin,,,44.840621,-0.5822636
+13184364813,node,Le Plateau,restaurant,Bordeaux,92 Cours Marc Nouaux,,,44.8479714,-0.5971443
+13185837001,node,Le petit parc,restaurant,Bordeaux,,,,44.8571847,-0.578865
+13233129269,node,Le Resto – UCPA Sport Station,restaurant,Bordeaux,Rue Charles Chaigneau,,https://www.ucpa.com/sport-station/bordeaux/food-drink,44.8594418,-0.5430197
+13236316039,node,Le Caillou,restaurant,Bordeaux,,,,44.8446954,-0.5587174
+13236318538,node,French Kiss Restaurant Bordeaux,restaurant,Bordeaux,"10 Rue de la Gare d'Orléans, 33100, Bordeaux",33100,https://www.frenchkiss.fr/nos-adresses/bordeaux,44.8439304,-0.5568624
+13240597746,node,POF,restaurant,Bordeaux,,,,44.8673029,-0.5619034
+13240612090,node,Pizza Cosy,restaurant,Bordeaux,,,,44.8581228,-0.5579085
+13240612218,node,Hush Hush,restaurant,Bordeaux,,,,44.8372127,-0.5709613
+13256090143,node,Eriu,restaurant,Bordeaux,,,,44.84595,-0.5802394
+13269781463,node,Nicuzza,restaurant,Bordeaux,12 Avenue de la République,,,44.840039,-0.5999523
+13272714208,node,Papi Louis,restaurant,Bordeaux,,,https://papilouis.fr/,44.8118818,-0.564145
+13275763346,node,Pizza Saint-Louis,restaurant,Bordeaux,17 Place de la Revolution 1789,,,44.9532686,-0.5341319
+13279624777,node,Saveur de l'orient,restaurant,Bordeaux,,,,44.7959005,-0.668181
+13280650985,node,Wokami,restaurant,Bordeaux,,,,44.817467,-0.5472615
+13299241818,node,Crous' break,restaurant,Bordeaux,,,,44.7958801,-0.6160164
+13330242397,node,Chez Manuel,restaurant,Bordeaux,70 Cours de l'Yser,,,44.8271449,-0.5689716
+13340472504,node,Le Comptoir de Sèze,restaurant,Bordeaux,23 Allées de Tourny,,https://www.hotel-de-seze.com/65-restaurant.html,44.8446639,-0.5763246
+13344430047,node,Le P'tit 18,restaurant,Bordeaux,36 Rue Maréchal Joffre,,https://ptit18-bordeaux.eatbu.com/,44.835473,-0.5783427
+13354142189,node,Casale Taglio,restaurant,Bordeaux,183 Rue de Bègles,,,44.8216915,-0.5659256
+13364309088,node,Chez Aurel,restaurant,Bordeaux,12 Place Paul et Jean-Paul Avisseau,,,44.8553459,-0.5670834
+13383259126,node,Lenom Fusion,restaurant,Bordeaux,70 Cours Victor Hugo,,https://lenomfusion-bdx.eatbu.com/,44.835218,-0.5694212
+13397626743,node,Toto lé la,restaurant,Bordeaux,"83 B Cours Balguerie Stuttenberg, 33300, Bordeaux",33300,,44.8581267,-0.5673243
+13415955401,node,La Côte de Boeuf,restaurant,Bordeaux,13 Rue des Faussets,,,44.8404539,-0.5705938
+13482023497,node,Chateau le Truch,hotel,Bordeaux,,,,44.8854665,-0.437986
+13506960158,node,Nemea,hotel,Bordeaux,,,,44.817663,-0.678795
+13515384346,node,Cuisine orientale Haddouma,restaurant,Bordeaux,,,,44.9806658,-0.6039433
+13569971492,node,Crepe TOUCH,restaurant,Bordeaux,,,,44.8791605,-0.5674215
+13569971493,node,Bistrot Régent,restaurant,Bordeaux,,,,44.8792604,-0.5674747
+13575490782,node,Au Bonheur du Palais des Frères Shan,restaurant,Bordeaux,74 Rue Paul Louis Lande,,,44.8326894,-0.5769562
+13585182215,node,Greet Restaurant,restaurant,Bordeaux,,,https://all.accor.com/hotel/B7B1/index.fr.shtml#section-facilities,44.8354378,-0.690245
+13595674888,node,Churrasqueira O Bom Petisco,restaurant,Bordeaux,67 Cours de l'Yser,,,44.8273454,-0.5691923
+13619954241,node,La Table Du Stadium,restaurant,Bordeaux,"8 Rue Georges Negrevergne, 33700, Mérignac",33700,https://www.ginga-stadium.com/,44.81879,-0.677714
+13630510891,node,Kobbo Sushi,restaurant,Bordeaux,,,,44.8638413,-0.5565146
+13637594982,node,Le Dragon Royal,restaurant,Bordeaux,,,,44.9065994,-0.490484
+13682030504,node,Sushi Delivery,restaurant,Bordeaux,28 Cours Pasteur,,https://sushi-delivery59.fr,44.8344173,-0.574586
+13682030508,node,La table de Bécassine,restaurant,Bordeaux,32 Cours Pasteur,,https://www.la-table-de-becassine-restaurant-bordeaux.fr/,44.834233,-0.574477
+13715179421,node,Amore Mio - Casa Di Mauro,restaurant,Bordeaux,"43 Place de la Ve République, 33600, Pessac",33600,https://www.amoremio-pessac.fr/,44.8060216,-0.6307472
+13723482208,node,Chez Marie Au Bois Fleuri,restaurant,Bordeaux,,,,44.8765818,-0.5226012
+13725307540,node,Brasserie Vinatier,restaurant,Bordeaux,3 Place Saint-Christoly,,https://lanouvellegarde.com/fr/brasserie-vinatier/,44.8395137,-0.5774188
+13734715814,node,La Terre Cuisine du Monde,restaurant,Bordeaux,18 Rue Saint-James,,,44.8362822,-0.5713986
+13734715826,node,Bahn Cuon 33,restaurant,Bordeaux,10 Rue Saint-James,,,44.8365496,-0.5714378
+13737103884,node,Mooshi,restaurant,Bordeaux,,,,44.7230872,-0.53096
+13746455445,node,L'Indien,restaurant,Bordeaux,68 Rue Huguerie,,,44.8442854,-0.5814329
+13752715590,node,Madame Li,restaurant,Bordeaux,32 Rue Paul Louis Lande,,https://www.madameli33.com/,44.8341073,-0.5756381
+13765991066,node,Oma Café,restaurant,Bordeaux,64 Rue du Mirail,,https://omacafe.fr/?utm_source=ig&utm_medium=social&utm_content=link_in_bio,44.8325445,-0.5707502
+13766320828,node,Le Saint-Jean,restaurant,Bordeaux,31 Rue Charles Domercq,,,44.8258597,-0.5574041
+13768728002,node,Delizia Da Bartolo,restaurant,Bordeaux,54 Rue du Palais Gallien,,,44.8434799,-0.5814643
+13785329534,node,Too Pita,restaurant,Bordeaux,28 Place Meynard,,,44.8346297,-0.5666668
+13785335813,node,Le Sully,restaurant,Bordeaux,"91 Rue Jules Guesde, 33270, Floirac",33270,,44.8278753,-0.5315338
+13808712937,node,San Pietro,restaurant,Bordeaux,16 Rue Saint-Rémi,,,44.8413144,-0.5713868
+13808722962,node,Mazal,restaurant,Bordeaux,4 Rue du Puits Descujols,,https://lemazal.fr/,44.8408715,-0.5707024
+13808722964,node,Jaipur Palace,restaurant,Bordeaux,3 Rue du Puits Descujols,,https://lejaipurpalace.fr/,44.8409469,-0.570805
+13891751162,node,Domaine Sainte Raphine,restaurant,Bordeaux,"12 avenue des Bons Enfants, 33370, Fargues-Saint-Hilaire",33370,https://www.sainte-raphine.fr/,44.8324193,-0.4410522
+13898881106,node,L'auberge d'Haux,restaurant,Bordeaux,,,,44.7345861,-0.359803
+13904639251,node,Restaurant Atlantique,restaurant,Bordeaux,,,,44.8354848,-0.5649242
+13908361301,node,Kin no Yama,restaurant,Bordeaux,"28 Rue de Cursol, 33000",33000,https://kin-no-yama.com,44.8348198,-0.5771078
+13908405101,node,Brit Hotel Des Grands Hommes,hotel,Bordeaux,"7 Rue Franklin, 33000",33000,,44.8423812,-0.5783227
+13909830921,node,Oria Pizza Napoletana e Pasta,restaurant,Bordeaux,"493 Avenue du Maréchal de Lattre de Tassigny, 33000, Bordeaux",33000,https://oriapizza.fr/,44.8609857,-0.6345293
+13909830922,node,Mondial Kebab,restaurant,Bordeaux,"493 Avenue du Maréchal de Lattre de Tassigny, 33000, Bordeaux",33000,,44.8610257,-0.6347071
+13913929258,node,B&B,hotel,Bordeaux,,,,44.8687713,-0.5647201
+13926939143,node,Majorelle,restaurant,Bordeaux,91 bis Rue Camille Sauvageau,,https://majorellebordeaux.fr/,44.8319641,-0.5627021
+13931797051,node,Hope - Bar Tapas - Afterwork - Restaurant,restaurant,Bordeaux,,,https://hope-bar-merignac.fr/,44.8177614,-0.7008071
+13931860290,node,Mario e Lillo Mérignac,restaurant,Bordeaux,,,,44.8177062,-0.7009707
+13935741324,node,Le Domaine Des Dourneaux,hotel,Bordeaux,,,,44.8383716,-0.3762227
+13948249801,node,Chez Vincent,restaurant,Bordeaux,"38 Rue Vincent Gonzales, 33130",33130,https://www.restaurantchezvincent.fr/,44.7991572,-0.567347
+13950726101,node,EL MARGOUM,restaurant,Bordeaux,"20 Avenue Georges Clemenceau, 33150",33150,,44.8507497,-0.5085588
+13981110801,node,Rotisserie Boucane,restaurant,Bordeaux,"48 Rue Bergeret, 33000",33000,,44.8317269,-0.5678385

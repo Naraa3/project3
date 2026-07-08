@@ -1,0 +1,299 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+322136985,node,Campanile Morschwiller-le-Bas,hotel,Mulhouse,,,,47.7362602,7.2853797
+581990938,node,La Pyramide,restaurant,Mulhouse,,,,47.7742446,7.229317
+582002972,node,Ristorante Isola Verde,restaurant,Mulhouse,,,,47.7766861,7.2254931
+597750296,node,Les Loges,hotel,Mulhouse,,,https://www.hotellesloges.fr/,47.8536251,7.2835739
+639261834,node,Au Chasseur Scholler,restaurant,Mulhouse,,,,47.5633264,7.4037559
+843853844,node,Bristol,hotel,Mulhouse,,,,47.751643,7.338168
+843853856,node,Vesuvio,restaurant,Mulhouse,,,,47.7549885,7.3422806
+929103029,node,Enzo Hôtel,hotel,Mulhouse,,,https://www.enzo-hotels.com/,47.7393902,7.2848519
+954556637,node,Hôtel Jenny,hotel,Mulhouse,,,,47.5400478,7.4972312
+1030517835,node,Première Classe Morschwiller-le-Bas,hotel,Mulhouse,,,,47.7365299,7.2858636
+1234112454,node,ALS Hôtel,hotel,Mulhouse,4 Rue du Renard,,https://alshotel.com,47.7838766,7.501847
+1282025034,node,"Restaurant ""À la Couronne""",restaurant,Mulhouse,"Rue de Strasbourg, 68300",68300,,47.615279,7.5344257
+1282041260,node,"Restaurant ""O Sole Mio""",restaurant,Mulhouse,,,,47.6104228,7.5394572
+1282084713,node,"Restaurant ""Le Stelle""",restaurant,Mulhouse,,,,47.594744,7.5548417
+1483997031,node,Holiday Inn Mulhouse,hotel,Mulhouse,,,,47.7358295,7.2903247
+1584308409,node,Zum Schweissdissi,restaurant,Mulhouse,,,,47.7593006,7.3241392
+1598504185,node,House Grill,restaurant,Mulhouse,,,,47.7671952,7.321871
+1601986654,node,A Tire Larigot,restaurant,Mulhouse,,,,47.776652,7.3195918
+1609036239,node,Pizza Italia,restaurant,Mulhouse,,,,47.7662182,7.3228871
+1648583361,node,Terrasses d'Asie,restaurant,Mulhouse,,,,47.7692491,7.3013516
+1654398627,node,Hôtel Restaurant de la Poste,hotel,Mulhouse,,,,47.8242345,7.5135272
+1661135560,node,Kyriad,hotel,Mulhouse,,,,47.7591493,7.2924369
+1676551059,node,Brasserie de Lutterbach,restaurant,Mulhouse,,,https://brasserielutterbach.fr/,47.7603169,7.2789614
+1692265049,node,Auberge du Canon,restaurant,Mulhouse,,,,47.6811011,7.3120925
+1702100753,node,,restaurant,Mulhouse,,,,47.7974636,7.2319659
+1705440264,node,Au Raisin,restaurant,Mulhouse,,,,47.8050945,7.2380309
+1715864266,node,L'Aigle d'Or,restaurant,Mulhouse,,,,47.809552,7.2441362
+1771445667,node,La Palma,restaurant,Mulhouse,"33 Rue Acklin, 68440, Landser",68440,,47.6860238,7.3950889
+1771445690,node,L'Ambroisie,restaurant,Mulhouse,,,,47.6831673,7.387462
+1775854042,node,Auberge de Hégenheim,restaurant,Mulhouse,,,,47.854883,7.2859445
+1782886111,node,La fourchette,restaurant,Mulhouse,,,,47.6827947,7.406893
+1782899030,node,,restaurant,Mulhouse,,,,47.6887668,7.4238512
+1787110579,node,Auberge chez Anselme,restaurant,Mulhouse,,,,47.8538472,7.2704591
+1838783349,node,Than Long,restaurant,Mulhouse,,,,47.7424106,7.3141372
+1872862820,node,Pinochetto,restaurant,Mulhouse,"258 Avenue d'Altkirch, 68350, Brunstatt",68350,,47.7290259,7.3230614
+1879815077,node,L'Entrecote de Mulhouse,restaurant,Mulhouse,,,https://www.restaurant-lentrecote-demulhouse.fr/,47.7529258,7.344121
+1880387831,node,Le Relais de Brunstatt,hotel,Mulhouse,,,,47.7217871,7.3183533
+1888058458,node,Canon d'or,restaurant,Mulhouse,,,,47.744441,7.3100808
+1901937830,node,La Villa K,hotel,Mulhouse,"1 Rue de Lectoure, 68300, Saint-Louis",68300,https://www.lavillak.com,47.584883,7.5648963
+1901937832,node,Hôtel ibis Aéroport Bâle Mulhouse,hotel,Mulhouse,"17 Avenue du Général de Gaulle, 68300, Saint-Louis",68300,,47.5853724,7.5621947
+1901937834,node,Hôtel de l'Europe,hotel,Mulhouse,,,,47.5861199,7.5639354
+1911033751,node,Restaurant de la Poste,restaurant,Mulhouse,,,,47.5870513,7.5658621
+1921611012,node,Entrepotes,restaurant,Mulhouse,,,,47.5852386,7.5618909
+1921710443,node,Chez Moi,restaurant,Mulhouse,"5 Rue des Jardins, 68300, Saint-Louis",68300,,47.5847107,7.5684293
+1924839995,node,Auberge Mohn,restaurant,Mulhouse,,,,47.6939648,7.2942773
+1930085228,node,Roi Soleil,hotel,Mulhouse,,,,47.7818227,7.3900216
+1931241104,node,Ibis Mulhouse Île Napoleon,hotel,Mulhouse,,,,47.7816167,7.3878035
+1931241109,node,Golden Tulip,hotel,Mulhouse,,,,47.7824577,7.387959
+1931241111,node,Novotel,hotel,Mulhouse,,,,47.7809021,7.3874686
+1933340460,node,Pizza Hut,restaurant,Mulhouse,,,,47.7265615,7.3213786
+1936860146,node,Il Pastaio,restaurant,Mulhouse,"15 Grand'Rue Pierre Braun, 68170, Rixheim",68170,https://www.casapastaio.com,47.7443699,7.399415
+1936860147,node,Au Raisin,restaurant,Mulhouse,"2 Grand'Rue Pierre Braun, 68170",68170,https://au-raisin.edan.io/,47.7435075,7.3987261
+1940908847,node,La Buffala,restaurant,Mulhouse,"110 Rue de Bourgfelden, 68220, Hégenheim",68220,,47.5703341,7.5429287
+1942008446,node,Délices d'Asie,restaurant,Mulhouse,,,,47.6546808,7.4536148
+1942008450,node,Auberge Saint-Laurent,restaurant,Mulhouse,,,,47.6540322,7.4538723
+1976174705,node,Arcotel,hotel,Mulhouse,,,,47.7749887,7.3789061
+1980784635,node,L'Auberge Italienne,restaurant,Mulhouse,"49 Rue de la Gare, 68870, Bartenheim",68870,https://auberge-italienne-bartenheim.fr,47.6347363,7.4869417
+1990345115,node,Palais de Saint-Louis,restaurant,Mulhouse,,,,47.5979127,7.5535516
+2028771827,node,Restaurant à l'Aigle,restaurant,Mulhouse,,,,47.6057181,7.5711788
+2028822110,node,Le Bouquet Garni,restaurant,Mulhouse,,,,47.6054143,7.5709026
+2028874869,node,La Nouvelle Brasserie,restaurant,Mulhouse,,,,47.6040887,7.5611313
+2028899939,node,Hôtel Restaurant le Cheval Blanc,hotel,Mulhouse,,,,47.6111742,7.566313
+2031339093,node,Un petit truc en plus,restaurant,Mulhouse,,,,47.7442404,7.3351295
+2031339095,node,Le Cellier,restaurant,Mulhouse,,,,47.7441163,7.3338731
+2031339096,node,Les Saveurs du Liban,restaurant,Mulhouse,"26 Rue des Trois-Rois, 68100, Mulhouse",68100,https://saveursduliban.com,47.744945,7.3347067
+2031339099,node,Vestiges de Baalbek,restaurant,Mulhouse,,,,47.7441837,7.3339602
+2031401915,node,Hôtel du Parc,hotel,Mulhouse,,,,47.7448716,7.3391235
+2031469240,node,Steppe Sushi,restaurant,Mulhouse,,,,47.7480014,7.3402902
+2031469251,node,Aux saveurs du Kashmir,restaurant,Mulhouse,"7 Rue de la Justice, 68100, Mulhouse",68100,,47.7479646,7.3402275
+2031533166,node,Crêperie bretonne Crampous Mad,restaurant,Mulhouse,,,https://crampous-mad.fr/,47.7489542,7.3380273
+2043328253,node,Chili Thaï,restaurant,Mulhouse,,,,47.7469219,7.3356035
+2043328266,node,Mayflower,restaurant,Mulhouse,,,,47.7468934,7.3348388
+2043519478,node,Le Resto Wittmann-Brand,restaurant,Mulhouse,,,,47.7391955,7.3327046
+2292061991,node,Auberge du Vieux Mulhouse,restaurant,Mulhouse,,,,47.7468275,7.3395476
+2305685290,node,Winstub Pic-Vit,restaurant,Mulhouse,,,,47.7476264,7.3373022
+2313530856,node,Rhin & Découverte,restaurant,Mulhouse,"Site de la centrale hydraulique de Kembs, 68680, Kembs Loechlé",68680,https://rhinetdecouverte.com/,47.6526325,7.5242661
+2452299400,node,Modena restaurant pizzeria,restaurant,Mulhouse,"1 Rue de Habsheim, 68170, Rixheim",68170,https://pizzeria-modena.com/,47.7497946,7.4081486
+2558298479,node,Brasserie Le Bollwerk,restaurant,Mulhouse,,,,47.7493363,7.3405061
+2558302905,node,Andreucci,restaurant,Mulhouse,,,,47.7487592,7.3404699
+2743194315,node,Au Bon Accueil,restaurant,Mulhouse,"47 Rue du Général de Gaulle, 68490",68490,,47.7885076,7.5061471
+2743194318,node,EDJ,restaurant,Mulhouse,17 Rue des Vergers,,,47.7871851,7.5094634
+2759069891,node,La Terre est Plate,restaurant,Mulhouse,Mulhouse,,,47.7480602,7.3412146
+2798366025,node,Aux Jardins des Plaisirs,restaurant,Mulhouse,1B,,,47.7435884,7.3343574
+2798936551,node,Le 4,restaurant,Mulhouse,,,,47.7472942,7.3348975
+2836466242,node,Hôtel Berlioz,hotel,Mulhouse,,,http://www.hotel-haut-rhin.com/,47.5916519,7.5577854
+3050197154,node,Appart'City Mulhouse,hotel,Mulhouse,,,,47.7567856,7.3490433
+3075830203,node,Restaurant Le Vauban,restaurant,Mulhouse,"2 Rue Abbatucci, 68330, Huningue",68330,https://restaurant-vauban.fr,47.5927826,7.5839493
+3125503758,node,Le Théâtr'Al,restaurant,Mulhouse,,,,47.7462054,7.3399818
+3213839292,node,Le Royal,restaurant,Mulhouse,,,,47.7485638,7.3495135
+3312592187,node,Courtepaille,restaurant,Mulhouse,,,,47.7747075,7.3904768
+3316656300,node,Gengis Khan Grill,restaurant,Mulhouse,,,,47.7792502,7.3888119
+3317376116,node,Campanile,restaurant,Mulhouse,,,,47.772474,7.3894217
+3392497141,node,La Diligence,restaurant,Mulhouse,,,,47.5862108,7.5632452
+3454934178,node,Ibis Mulhouse Centre Filature,hotel,Mulhouse,,,,47.754818,7.3497794
+3474941493,node,B&B Hôtel,hotel,Mulhouse,,,hotel-bb.com,47.752551,7.3377041
+3533970177,node,Le 7ème Continent,restaurant,Mulhouse,,,,47.7480341,7.40305
+3643033418,node,Le petit Kembs,restaurant,Mulhouse,,,,47.6867181,7.5038044
+3693895796,node,Au bouillon d'Édouard,restaurant,Mulhouse,Saint-Louis,,,47.6051534,7.5419349
+3713761570,node,Auberge de la gloriette,hotel,Mulhouse,9,,,47.6302845,7.3466155
+3714112067,node,Au Cheval Blanc,restaurant,Mulhouse,380 Avenue d'Altkirch,,https://www.chevalblancbrunstatt.com,47.7215613,7.3178009
+3742737800,node,Schaeferhof,restaurant,Mulhouse,129 Rue du Rhin,,https://restaurant-schaeferhof.fr/,47.6599524,7.504289
+4031869749,node,The Originals Hôtel Salvator,hotel,Mulhouse,,,,47.7477649,7.3418552
+4031869753,node,Hôtel de Bale,hotel,Mulhouse,,,,47.7475696,7.3413613
+4031909607,node,Restaurant Hug,restaurant,Mulhouse,,,,47.7466994,7.3405674
+4031913471,node,Auberge des Chevaliers,restaurant,Mulhouse,,,,47.7467601,7.339527
+4031926905,node,Au Bureau,restaurant,Mulhouse,,,,47.745823,7.3419212
+4031936699,node,Le Nelsolino,restaurant,Mulhouse,,,https://www.restaurant-nelsolino.com/,47.7444812,7.3415457
+4058228558,node,Le Gaulois,restaurant,Mulhouse,"8 Rue du Général de Gaulle, 68870, Bartenheim",68870,https://legaulois-bartenheim.fr/,47.6357495,7.4758428
+4185543810,node,Berti Hotel Mulhouse Centre Gare,hotel,Mulhouse,,,https://www.bertihotel.com/,47.7454645,7.3456233
+4185809224,node,Hôtel de la Bourse,hotel,Mulhouse,"14 Rue de la Bourse, 68100, Mulhouse",68100,,47.745078,7.3438232
+4195078681,node,La Piazzetta,restaurant,Mulhouse,"16 Rue du Maréchal Foch, 68330, Huningue",68330,,47.5926015,7.5844756
+4195078685,node,As Kebap Alaturka,restaurant,Mulhouse,,,,47.5928058,7.583545
+4209067958,node,Squash 3000,hotel,Mulhouse,,,https://www.squash3000.com/,47.7422928,7.3074057
+4209067959,node,Squash 3000,restaurant,Mulhouse,"Avenue François Mitterrand, 68200",68200,https://www.squash3000.com/,47.7420475,7.3072877
+4210314404,node,Au Lion d'Or,restaurant,Mulhouse,,,https://www.auliondor-rosenau.com/,47.6364801,7.5355564
+4217375052,node,Porte de France,hotel,Mulhouse,"94 Avenue de Bâle, 68300, Saint-Louis",68300,http://www.hotelportedefrance.fr/restaurant-saint-louis,47.5774775,7.571899
+4324789361,node,La Tour de Jade,restaurant,Mulhouse,,,,47.7491779,7.3418629
+4366228577,node,La maison des délices,restaurant,Mulhouse,,,,47.7422641,7.3457745
+4371005143,node,Pizzeria Lou Pitchoun,restaurant,Mulhouse,,,https://www.pizzerialoupitchoun.fr/pfastatt/,47.7709522,7.304102
+4404543841,node,Kayo sushi bar,restaurant,Mulhouse,,,,47.7357753,7.2911307
+4410009632,node,China Town,restaurant,Mulhouse,"8 Rue de Bourgfelden, 68220",68220,https://www.chinatown68.fr/,47.561429,7.5272363
+4418106096,node,Boeuf Rouge,restaurant,Mulhouse,,,,47.5619623,7.5264928
+4461547449,node,Maison Kieny,restaurant,Mulhouse,"7 Rue du Général de Gaulle, 68400, Riedisheim",68400,https://restaurant-kieny.fr,47.749331,7.3680819
+4530481985,node,Le Buibui,restaurant,Mulhouse,,,,47.7416386,7.3118067
+4551159533,node,Le Mistral,restaurant,Mulhouse,68200,68200,,47.7501018,7.2933957
+4560953849,node,Le Palais d'Illzach,restaurant,Mulhouse,,,,47.7672675,7.3829068
+4594259122,node,Le Parvis Brasserie,restaurant,Mulhouse,,,,47.7438702,7.3455692
+4594259123,node,Ibis Styles,hotel,Mulhouse,,,,47.744005,7.3458397
+4811824721,node,L'Oxalis,restaurant,Mulhouse,,,https://www.brasserie-loxalis.fr/,47.7457003,7.342611
+4811824821,node,Mealtin'Potes,restaurant,Mulhouse,,,,47.7447972,7.336109
+4811831524,node,La Table de Michèle,restaurant,Mulhouse,,,,47.7480649,7.3429479
+4879779621,node,Le Cheval de Troie,restaurant,Mulhouse,,,,47.7523969,7.3498051
+4918548821,node,Au Pot au Feu,restaurant,Mulhouse,,,,47.7529583,7.3286416
+4921268564,node,Auberge de l'Étoile,restaurant,Mulhouse,,,https://www.facebook.com/Auberge-de-l%C3%A9toile-831320576932087/,47.7471642,7.367029
+4959418977,node,P'tit Dej Hôtel Relais de Rixheim,hotel,Mulhouse,,,,47.7561402,7.3856017
+5025053326,node,La Roma Ristorante,restaurant,Mulhouse,6 Rue de Hagenthal,,,47.5613224,7.5256284
+5037126888,node,L'impro,restaurant,Mulhouse,,,,47.7469361,7.3328977
+5037126889,node,Pum,restaurant,Mulhouse,,,https://www.pumthaifoodchain.fr/mulhouse/,47.7454996,7.3358561
+5083875759,node,Vanilla Café,restaurant,Mulhouse,"5 Place de la Paix, 68100, Mulhouse",68100,,47.7445384,7.3351896
+5577896491,node,Crêperie au Farfadet,restaurant,Mulhouse,,,,47.7889445,7.3699151
+5644503010,node,Aux armes de Bâle (chez Lucie),restaurant,Mulhouse,"15 Rue d'Allschwil, 68220, Hégenheim",68220,,47.5607014,7.5309895
+5722474633,node,Brasserie du Parc,restaurant,Mulhouse,"12 Rue de Soultz, 68540, Bollwiller",68540,,47.8603904,7.2609134
+5784920521,node,Bacio Italian City Food,restaurant,Mulhouse,"7 Place Abbatucci, 68330, Huningue",68330,https://www.restaurantbacio.fr/,47.5917048,7.5846184
+5785048562,node,L'Envol (Airport Club Hôtel),restaurant,Mulhouse,"3 Rue de l'Industrie, 68730, Blotzheim",68730,https://airport-club-hotel.fr/restaurant/,47.6079919,7.5022622
+5785068073,node,Restaurant les «Terrasses Barrière»,restaurant,Mulhouse,"777 Allée du Casino, 68730, Blotzheim",68730,https://www.casinosbarriere.com/fr/blotzheim/les-terrasses-barriere.html,47.5899181,7.4953256
+5796737532,node,RESTAURANT ASIATIQUE WOK 68,restaurant,Mulhouse,"1 Rue de Huningue, 68300, Saint-Louis",68300,,47.5861088,7.564462
+5856366875,node,Délices de l'Inde,restaurant,Mulhouse,,,,47.7476979,7.3402663
+5856385225,node,La Boca,restaurant,Mulhouse,,,,47.7481707,7.3405003
+5878574588,node,,restaurant,Mulhouse,"24 Rue de l'Artisanat, 68680, Kembs",68680,,47.6785786,7.5005681
+5969510386,node,Self les castors,restaurant,Mulhouse,,,,47.7447899,7.2975884
+6173808707,node,Asi'an,restaurant,Mulhouse,,,https://fr-fr.facebook.com/pg/Asian68400/,47.7449667,7.3659654
+6221251186,node,NoMad,restaurant,Mulhouse,,,,47.7384238,7.3288558
+6224798485,node,La tambouille de Nainbus,restaurant,Mulhouse,,,,47.7477144,7.3381636
+6299758690,node,L'alchimiste,restaurant,Mulhouse,,,,47.7450775,7.3413036
+6371785485,node,Vietnam Cooking,restaurant,Mulhouse,,,,47.7449272,7.3362439
+6417307504,node,Japonais,restaurant,Mulhouse,,,,47.7482489,7.3408905
+6417307505,node,Leo d‘Or Sushi,restaurant,Mulhouse,,,,47.7462703,7.3367637
+6417661385,node,Le Petit Paris,restaurant,Mulhouse,,,,47.7482247,7.3400188
+6417661398,node,Il Cortile,restaurant,Mulhouse,,,,47.7474469,7.3338298
+6425535986,node,Winstub Factory,restaurant,Mulhouse,,,,47.7475405,7.3398542
+6425536985,node,La Friterie,restaurant,Mulhouse,,,,47.7466351,7.3337597
+6442756760,node,La Marmite,restaurant,Mulhouse,,,http://www.lamarmite-mulhouse.frl,47.7441542,7.341115
+6447812079,node,Planet Wok,restaurant,Mulhouse,,,https://www.planetwok68.fr/,47.7707552,7.3889468
+6582292800,node,French Poke,restaurant,Mulhouse,,,,47.7444028,7.3350879
+6720541362,node,Le Reyna,restaurant,Mulhouse,,,http://www.lereyna.fr,47.7496341,7.3607984
+6773264704,node,La table de la Fonderie,restaurant,Mulhouse,,,http://www.table-fonderie.fr/,47.7691897,7.3215985
+6833339013,node,Los Buenos Dias,restaurant,Mulhouse,,,https://www.losbuenosdias.fr/,47.7444629,7.3422479
+6850837421,node,Zio Pizza,restaurant,Mulhouse,"45 Rue Principale, 68120, Richwiller",68120,https://m.facebook.com/people/ZIO-PIZZA-Richwiller/100057038846718/?locale=fr_FR,47.7791858,7.2836499
+6907889586,node,Le Gargantua,restaurant,Mulhouse,,,,47.7464775,7.3431331
+6988341836,node,Lion Rouge,hotel,Mulhouse,,,https://www.lion-rouge.fr,47.6350116,7.475844
+7124791586,node,Restaurant Mantra,restaurant,Mulhouse,,,,47.7466762,7.3432566
+7212143982,node,Au Bureau,restaurant,Mulhouse,,,,47.6030866,7.5451724
+7230608545,node,Le Pantographe,restaurant,Mulhouse,"30 Rue François Spoerry, 68100, Mulhouse",68100,,47.7389107,7.3281456
+7230806532,node,La Brochetterie,restaurant,Mulhouse,,,,47.7447233,7.3349469
+7230806533,node,Au Fil des Saisons,restaurant,Mulhouse,,,,47.7447978,7.3365426
+7231126458,node,Au coin de la rue,restaurant,Mulhouse,,,,47.7454202,7.3351675
+7231126463,node,Rôtisserie Petit Marcel,restaurant,Mulhouse,,,,47.7458198,7.3352593
+7231126464,node,Kô Sye restaurant lounge,restaurant,Mulhouse,,,,47.7460125,7.3354029
+7231164138,node,Sushi Bar,restaurant,Mulhouse,,,,47.7468558,7.3358783
+7231164140,node,Le Maharaja,restaurant,Mulhouse,,,,47.746909,7.3360352
+7232933055,node,Stroganoff,restaurant,Mulhouse,,,,47.7466695,7.3342865
+7251166225,node,Ali Baba,restaurant,Mulhouse,,,,47.7496561,7.3274048
+7251209999,node,O'new kebab,restaurant,Mulhouse,"76 Rue Franklin, 68200, Mulhouse",68200,,47.7505486,7.3300534
+7258295595,node,La Forchetta,restaurant,Mulhouse,,,,47.747817,7.3376161
+7366574935,node,Sushi Lauv,restaurant,Mulhouse,,,,47.7969236,7.3370006
+7373593153,node,Le Colombier,restaurant,Mulhouse,,,,47.6386218,7.5127049
+7425528599,node,Zum Saüwadala,restaurant,Mulhouse,,,,47.7466592,7.334102
+7579941934,node,L'Envie,restaurant,Mulhouse,,,,47.8365248,7.305229
+7616794861,node,société hippique de mulhouse,restaurant,Mulhouse,,,,47.7346017,7.358658
+7705384986,node,Le Rustique,restaurant,Mulhouse,,,,47.7504764,7.3536185
+7774112376,node,Le Touareg,restaurant,Mulhouse,,,,47.7462041,7.3335939
+7774179117,node,Winstub Henriette,restaurant,Mulhouse,,,,47.7463528,7.3374679
+7774179119,node,LC2 café,restaurant,Mulhouse,,,,47.7462409,7.3371278
+7856415975,node,Orient Express,restaurant,Mulhouse,"Rue Barbanègre, 68330, Huningue",68330,,47.5923124,7.5838763
+7945021271,node,Restaurant Döner Nurhak,restaurant,Mulhouse,,,,47.7510613,7.3326641
+7945028683,node,L'Hirondelle,restaurant,Mulhouse,,,,47.7488032,7.3371157
+7945312130,node,Winstub Henriette,restaurant,Mulhouse,,,,47.7463845,7.3374281
+7945319906,node,L'Escalope,restaurant,Mulhouse,,,,47.7489712,7.3356852
+7945324906,node,Zum Klapperstei,restaurant,Mulhouse,,,,47.7507705,7.3334583
+8255926546,node,O' Grill,restaurant,Mulhouse,,,,47.7400605,7.2847444
+8263806576,node,Chez Yaki,restaurant,Mulhouse,68400,68400,https://restaurant-chez-yaki-riedisheim.eatbu.com/?lang=fr,47.7557683,7.3766656
+8273701200,node,Le Royaume du Bonheur,restaurant,Mulhouse,,,,47.738233,7.2849467
+8643280025,node,Le Cercle,restaurant,Mulhouse,,,,47.7490559,7.3373468
+8643568964,node,Le 17,restaurant,Mulhouse,,,,47.7487749,7.3382003
+8862015893,node,Dolce Vita - Pizzeria,restaurant,Mulhouse,"49 Rue de la Gare, 68870, Bartenheim",68870,https://dolcevita-bartenheim.fr,47.6346772,7.4865896
+8909273017,node,Restaurant Pizzeria Unicato,restaurant,Mulhouse,"26 Rue de l'Église, 68490",68490,https://www.pizzeria-unicato.fr/,47.8271333,7.5152914
+9024870714,node,Hôtel de Bâle,hotel,Mulhouse,3 Rue de Bâle,,,47.8240923,7.5131075
+9115246600,node,Le Landskron,restaurant,Mulhouse,,,,47.4960624,7.485151
+9121667808,node,Yam,restaurant,Mulhouse,,,https://restaurant-yam.com,47.5786871,7.5463088
+9125603018,node,A l'Essentiel,restaurant,Mulhouse,"14 Rue François Antoine Xavier Wittersbach, 68300, Saint-Louis",68300,,47.5983314,7.549396
+9160432617,node,Volfoni,restaurant,Mulhouse,,,,47.6058023,7.5440318
+9311034173,node,La Cave,restaurant,Mulhouse,,,https://www.bistrotlacave.com/,47.5849359,7.564849
+9385434772,node,Astronome,restaurant,Mulhouse,,,,47.748323,7.3385004
+9440610080,node,Volfoni,restaurant,Mulhouse,,,https://www.volfoni.fr/restaurant/volfoni-mulhouse,47.7483996,7.3399795
+9521091977,node,Relais des bains,restaurant,Mulhouse,,,,47.5198279,7.4692601
+9524304987,node,Velicious Burger,restaurant,Mulhouse,,,,47.7475245,7.3399061
+9683364729,node,Hippopotamus,restaurant,Mulhouse,,,,47.7359363,7.2899862
+9689531763,node,Le Sorrento,restaurant,Mulhouse,"9 Rue des Vergers, 68490, Ottmarsheim",68490,https://le-sorrento-restaurant-ottmarsheim.eatbu.com/?lang=fr,47.7866117,7.5088254
+9704938962,node,La couronne d'or,restaurant,Mulhouse,,,https://www.couronne-leymen.fr/,47.4956775,7.4838121
+9738975461,node,Le Secret,restaurant,Mulhouse,,,,47.7310009,7.3200991
+9764599115,node,Japanhao,restaurant,Mulhouse,"17 Avenue Clemenceau, 68100, Mulhouse",68100,https://www.japanhao.com/,47.7439205,7.3387661
+9833291773,node,Chez Aydin,restaurant,Mulhouse,,,,47.8091862,7.3376568
+9847639708,node,Khrua Thaï,restaurant,Mulhouse,"90 Avenue Aristide Briand, 68100, Mulhouse",68100,https://restaurant-khruathai.com/,47.7481676,7.322781
+9902175259,node,Petit Resto de la Mer Rouge,restaurant,Mulhouse,,,,47.7443141,7.2939487
+9902271497,node,l’Aubergine,restaurant,Mulhouse,"108 Rue de la Comète, Mulhouse",,https://laubergine.site-solocal.com,47.7506571,7.3197576
+9904528098,node,B&B Hôtel,hotel,Mulhouse,,,,47.7451923,7.2983331
+9913349523,node,Amici & Co,restaurant,Mulhouse,,,,47.7286264,7.2882158
+10103496229,node,Brit Hôtel,hotel,Mulhouse,,,,47.7473886,7.3459084
+10154557810,node,La Maison Hotel Mulhouse Centre,hotel,Mulhouse,"15 Rue Lambert, 68100, Mulhouse",68100,https://www.hotel-mulhouse.com/,47.7479526,7.3378067
+10242430806,node,Uskana,restaurant,Mulhouse,,,,47.5806081,7.5690189
+10242599337,node,Le Trianon,restaurant,Mulhouse,"46 Rue de Mulhouse, 68300, Saint-Louis",68300,,47.5885725,7.5610141
+10555127354,node,Pho Halong,restaurant,Mulhouse,19 Rue de Hochstatt,,https://m.facebook.com/100054460509637/,47.7375919,7.3118929
+10720690035,node,Restaurant Pizzeria Le Moulin,restaurant,Mulhouse,,,,47.640706,7.5346548
+10746463110,node,Restaurant associatif La table de l'AFSCO,restaurant,Mulhouse,"10 Rue Pierre Loti, 68200, Mulhouse",68200,,47.7355372,7.2997187
+10811513065,node,Chez Colette,restaurant,Mulhouse,,,,47.7209671,7.3879714
+10832213558,node,SenSushi,restaurant,Mulhouse,"15 Rue Barbanègre, 68330, Huningue",68330,https://www.sensushi.net/,47.5916047,7.5836727
+10886196160,node,,restaurant,Mulhouse,"1 Rue Konrad Adenauer, 68870, Bartenheim",68870,,47.6381607,7.4899346
+10886216807,node,La Croix d'Or,restaurant,Mulhouse,,,,47.6556202,7.4526424
+11013548006,node,Volfoni,restaurant,Mulhouse,11 Rue de la Moselle,,https://www.volfoni-mulhouse.fr/,47.7484031,7.339846
+11013688505,node,Aux Halles du Marché,restaurant,Mulhouse,"26 Quai de la Cloche, 68100",68100,,47.7522433,7.3286125
+11045803503,node,Bello by Bacio,restaurant,Mulhouse,,,,47.7366004,7.2830177
+11071193561,node,Les mil'saveurs,restaurant,Mulhouse,,,,47.8077473,7.3380171
+11071203630,node,ushio,restaurant,Mulhouse,,,,47.8068872,7.3374395
+11071206086,node,aldo pizza,restaurant,Mulhouse,,,,47.8066262,7.3373641
+11074785305,node,Il Quadro,restaurant,Mulhouse,"2 Rue Bigarreau, 68260",68260,,47.7886441,7.3073136
+11101277677,node,Sous un Ciel d'Italie,restaurant,Mulhouse,,,,47.7490016,7.368758
+11107336798,node,Bacio 𝗜𝗹 𝗚𝘂𝘀𝘁𝗼,restaurant,Mulhouse,"56 Grand'Rue Pierre Braun, 68170, Rixheim",68170,https://www.restaurantbacio.fr/,47.7447547,7.4014994
+11107426505,node,Cocooning Pizza,restaurant,Mulhouse,,,https://cocooning-pizza.fr/,47.7439525,7.4065952
+11108384105,node,Aux Delices du Fournil,restaurant,Mulhouse,"57 Rue de Mulhouse, 68170",68170,,47.7537978,7.392076
+11108391506,node,Le Coq Rouge,restaurant,Mulhouse,"1 Rue de Mulhouse, 68170",68170,https://www.lecoqrouge-rixheim.fr/,47.7501797,7.4072485
+11135717217,node,Royal Sushi,restaurant,Mulhouse,,,,47.7500409,7.3390053
+11169356225,node,L'Arancina,restaurant,Mulhouse,"14 Rue de Kingersheim, 68270, Wittenheim",68270,https://www.larancina.fr,47.8086538,7.3373889
+11381747330,node,Les Pizzas des Frangins,restaurant,Mulhouse,165 Rue de l'Île Napoléon,,https://les-pizzas-des-frangins.eatbu.com/?lang=fr,47.763971,7.3951889
+11603526565,node,La Brasserie Du 5e,restaurant,Mulhouse,,,,47.5999899,7.5310907
+11603526567,node,Le Coin Bistrot,restaurant,Mulhouse,,,,47.5991416,7.5316316
+11771839657,node,Ibis Budget,hotel,Mulhouse,,,,47.7439489,7.3457324
+11780996328,node,S'Wistéblé,restaurant,Mulhouse,,,https://www.swisteble.fr/,47.5914011,7.5836222
+11812128787,node,L'Echelle,restaurant,Mulhouse,,,https://www.restaurant-lechelle.fr/,47.4953634,7.4835919
+11837628401,node,A l'Aigle,restaurant,Mulhouse,55 Rue de Delle,,https://restaurant-a-laigle.com/,47.5499679,7.4406576
+11901415834,node,Sabor Argentina,restaurant,Mulhouse,,,,47.7467754,7.3336676
+12077153571,node,Adagio Aparthotel,hotel,Mulhouse,"92 Avenue de Bâle, 68300, Saint-Louis",68300,https://www.accorhotels.com/gb/hotel-8412-aparthotel-adagio-access-saint-louis-bale/index.shtml,47.5778267,7.5716102
+12077153681,node,Nagoya Sushi,restaurant,Mulhouse,"89 Avenue de Bâle, 68300, Saint-Louis",68300,http://www.nagoyasushi68.fr,47.577645,7.5712084
+12082975233,node,Brut de Fût,restaurant,Mulhouse,,,https://www.brut-de-fut.fr/,47.7495455,7.3518131
+12082975234,node,BIM.BAM.BAO,restaurant,Mulhouse,,,https://www.bim-bam-bao.fr,47.7497088,7.3516033
+12201054446,node,Sushi's,restaurant,Mulhouse,"25 Avenue de Bâle, 68300, Saint-Louis",68300,https://www.resto-sushis.com,47.5838936,7.5654789
+12222011301,node,Bistrot de l'Arc,restaurant,Mulhouse,,,https://www.bistrotdelarc.fr/,47.7518894,7.3305739
+12243842957,node,La Bruschetta,restaurant,Mulhouse,,,,47.7616813,7.2656622
+12292053173,node,L’Estérel,restaurant,Mulhouse,,,,47.7332135,7.3438065
+12328746798,node,Sushi's,restaurant,Mulhouse,,,,47.7472408,7.3404558
+12364750601,node,Petit Marcel La Casse-croûterie,restaurant,Mulhouse,"3 Rue Bonbonnière, 68100",68100,https://petit-marcel.fr/,47.7472292,7.3349405
+12470582349,node,Merlin Crêperie,restaurant,Mulhouse,,,,47.7893846,7.3133111
+12645024457,node,Pizzeria Napoli,restaurant,Mulhouse,,,https://www.pizzeria-napoli.fr,47.750508,7.3683425
+12734264371,node,Starck,restaurant,Mulhouse,,,https://www.restaurant-starck.com/fr/index.html,47.5245176,7.5156525
+12761766207,node,ResidHotel Mulhouse Centre,hotel,Mulhouse,"49 Rue de la Sinne, 68100, Mulhouse",68100,https://www.residhotel.com/residence/residhotel-mulhouse-centre/,47.7458363,7.3403407
+12804343351,node,La Belle Époque,restaurant,Mulhouse,,,https://lbe-restaurant.fr,47.7300391,7.4163918
+12823814750,node,Pid'n Piz,restaurant,Mulhouse,,,,47.8021975,7.3857224
+12851630001,node,La Toscana,restaurant,Mulhouse,2 Rue Anna Schoen,,https://www.restaurant-italien-latoscana.fr/,47.7554033,7.3273833
+12879133774,node,Chez Kelly,restaurant,Mulhouse,2 Rue du Renard,,,47.7838045,7.50223
+12967108737,node,Chez Élie,restaurant,Mulhouse,,,https://www.mynovae.ch/fr/restaurant/409-restaurant-chez-elie/,47.594125,7.536842
+12995671690,node,Jôyô,restaurant,Mulhouse,,,,47.7900057,7.3164018
+13017217293,node,Sing,restaurant,Mulhouse,,,https://singcuisine.com/,47.7587337,7.2851232
+13017217299,node,Kim Lien,restaurant,Mulhouse,,,https://www.restaurant-kim-lien.fr/,47.7606159,7.2815961
+13017217323,node,L'Auberge du Soleil,restaurant,Mulhouse,,,https://www.auberge-du-soleil68.fr/,47.7586243,7.2865697
+13033294956,node,Jalmogoyo,restaurant,Mulhouse,"41 Rue de la Sinne, 68100, Mulhouse",68100,https://jalmogoyo.com/,47.745307,7.3397917
+13041100534,node,Okito O'grand Buffet,restaurant,Mulhouse,,,,47.7991781,7.3120541
+13061301246,node,La Table Pfastattoise,restaurant,Mulhouse,,,,47.7696513,7.304556
+13116821362,node,French Touch,restaurant,Mulhouse,,,,47.7532846,7.3605721
+13243704448,node,Bistrot Cézar,restaurant,Mulhouse,"22 Rue de Mulhouse, 68400, Riedisheim",68400,,47.7465473,7.3597577
+13309445442,node,Chez Eniste,restaurant,Mulhouse,"51 Rue Vauban, 68100, Mulhouse",68100,,47.757909,7.3406146
+13318936281,node,Le Baoly Mulhouse,restaurant,Mulhouse,"2 Rue du Fer, 68200, Mulhouse",68200,,47.7517205,7.3331813
+13322529201,node,,hotel,Mulhouse,,,,47.5709095,7.397257
+13340841801,node,Chez Madar Joon,restaurant,Mulhouse,"5 Rue des Jardins, 68300",68300,,47.5847413,7.5683803
+13367872562,node,Kervan Saray,restaurant,Mulhouse,"53 Avenue de Colmar, Mulhouse",,,47.7535493,7.33703
+13399637391,node,Homely Basel Airport,hotel,Mulhouse,"7 Rue de Landser, 68300, Saint-Louis",68300,https://www.homely-basel-airport.com,47.6104022,7.5376705
+13437172648,node,Audace,restaurant,Mulhouse,20 Allée Nathan Katz,,https://audace-restaurant.fr,47.7538861,7.3493057
+13442959653,node,Bistrot Cézar,restaurant,Mulhouse,"26 Rue de Mulhouse, 68400, Riedisheim",68400,,47.7465826,7.3599339
+13584604832,node,Deniz Kebap 2,restaurant,Mulhouse,"126 Avenue Aristide Briand, 68200, Mulhouse",68200,https://denizkebap2mulhouse.shop,47.7473769,7.3203139
+13655015501,node,Chicken Street,restaurant,Mulhouse,,,,47.7506975,7.3382441

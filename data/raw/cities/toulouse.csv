@@ -1,0 +1,1466 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+29047143,node,Bistr'O bo bun,restaurant,Toulouse,"269 La Méridienne, 31670, Labège",31670,https://tobobun.com/,43.5408025,1.5120412
+29681754,node,L'instant,restaurant,Toulouse,"13/14 Chemin du Logis Vieux, 31850",31850,https://restaurant-linstant.fr/,43.6436341,1.5220926
+247081412,node,Bellini,restaurant,Toulouse,,,,43.6038807,1.4428364
+247081415,node,Grand Hôtel de l'Opéra,hotel,Toulouse,,,https://www.grand-hotel-opera.com/,43.6035313,1.4440139
+247685861,node,Le Chai Saint-Sauveur,restaurant,Toulouse,,,,43.5975439,1.457889
+250665866,node,Les Folles Saisons,restaurant,Toulouse,,,,43.5785044,1.3909346
+252267391,node,Ovyo Hôtel,hotel,Toulouse,,,https://ovyo-hotel.com/,43.5993832,1.4411296
+259043288,node,Ibis Styles,hotel,Toulouse,,,,43.5499239,1.4998214
+259131130,node,L'Écluse de Castanet,restaurant,Toulouse,,,,43.5235102,1.5190065
+259419396,node,Aux Délices d'Asie,restaurant,Toulouse,,,,43.5274059,1.4901654
+305214484,node,ibis Styles Toulouse Blagnac Aeroport,hotel,Toulouse,"45 Rue de Bordebasse, 31700, Blagnac",31700,,43.6379405,1.3751523
+305214488,node,Première Classe,hotel,Toulouse,2 Rue René Rey,,,43.6376013,1.3749569
+343622251,node,Tommy's Diner Café,restaurant,Toulouse,,,https://www.tommys-cafe.com/news-labege/,43.5401233,1.5123055
+343622288,node,Les 3 Brasseurs,restaurant,Toulouse,"Rue Pierre-Gilles de Gennes, 31670, Labège",31670,https://www.3brasseurs.com,43.5409053,1.5128399
+354676791,node,Le Canard sur le Toit,restaurant,Toulouse,"58 Chemin de la Salvetat, 31770, Colomiers",31770,https://www.canardsurletoit.com/,43.6025493,1.3014896
+354676792,node,Le Canard sur le Toit,hotel,Toulouse,,,,43.6032293,1.3023446
+354919354,node,Playoff,restaurant,Toulouse,"Chemin du Prat, 31170, Tournefeuille",31170,https://restaurant-playoff.fr/,43.5752876,1.3637782
+356708598,node,Appart'City (Résidence hôtelière),hotel,Toulouse,,,,43.542595,1.5124512
+356783375,node,Les Asiatides,restaurant,Toulouse,,,http://www.lesasiatides.com/,43.5486662,1.5123713
+356783379,node,Yankee Grill,restaurant,Toulouse,,,http://www.yankeegrill.com/,43.5488819,1.5120389
+356783385,node,La Faim des Haricots,restaurant,Toulouse,"31670, Labège",31670,http://www.lafaimdesharicots.fr,43.5495431,1.5112755
+364160917,node,Ô Paisible,restaurant,Toulouse,,,https://www.opaisible.fr,43.5291525,1.5298316
+404650895,node,l'Aparté,restaurant,Toulouse,,,,43.6446207,1.5106723
+415750945,node,Le Moulin de Toulouse,restaurant,Toulouse,,,,43.6095413,1.388516
+419114368,node,Aer'Hotel,hotel,Toulouse,,,,43.5348513,1.4836653
+423867110,node,Pizza Zio,restaurant,Toulouse,,,,43.5962173,1.4213501
+430270764,node,Le Braxéen,restaurant,Toulouse,2 Rue de L’Église,,,43.6167381,1.2406835
+430275640,node,Pizzas Laurent,restaurant,Toulouse,,,,43.6172713,1.2405917
+435610058,node,Le Bristol,hotel,Toulouse,,,,43.6114157,1.4520933
+435610065,node,Ibis Toulouse gare Matabiau,hotel,Toulouse,,,https://all.accor.com/hotel/2772/index.fr.shtml,43.6111892,1.4522703
+435610068,node,Hôtel Matabi Toulouse Gare,hotel,Toulouse,,,https://www.happyculture.com/fr/matabi-hotel.html,43.6109949,1.4523928
+443209272,node,La Côte et l'Arête,restaurant,Toulouse,"9 Rue Pierre Loti, 31830, Plaisance-du-Touch",31830,https://www.lacoteetlarete.fr/,43.5698205,1.3083598
+445763897,node,Les Marins d'eau douce,restaurant,Toulouse,,,,43.5499873,1.4835496
+450161346,node,Tempête,restaurant,Toulouse,,,,43.5978289,1.4432082
+450161371,node,Le Restaurant,restaurant,Toulouse,,,https://www.lerestauranttoulouse.fr/,43.6008582,1.4406848
+450161376,node,Bocados,restaurant,Toulouse,,,,43.6020399,1.4410547
+450161381,node,Otoya sushi,restaurant,Toulouse,,,,43.6028436,1.441675
+450165917,node,La Gouaille,restaurant,Toulouse,,,https://www.la-gouaille-restaurant-toulouse.fr/,43.5984085,1.4438652
+450165920,node,Baan Siam,restaurant,Toulouse,,,http://www.baan.fr/,43.5984084,1.4448469
+450171441,node,Restaurant Émile,restaurant,Toulouse,"13 Place Saint-Georges, 31000, Toulouse",31000,https://www.restaurant-emile.com/,43.6022479,1.4472215
+450171447,node,Mama Giorgia,restaurant,Toulouse,,,,43.6018041,1.4480283
+450531284,node,Thai et Sushi,restaurant,Toulouse,,,,43.5790724,1.423828
+450534500,node,Le Troquet Garonne,restaurant,Toulouse,,,https://www.letroquetgaronne.fr/,43.5845223,1.4280358
+450625102,node,La Romarine,restaurant,Toulouse,,,,43.5712783,1.4249448
+450625103,node,B&B HOTEL Toulouse Université,hotel,Toulouse,,,,43.5753286,1.4069107
+456388419,node,Crowne Plaza,hotel,Toulouse,,,https://www.crowne-plaza-toulouse.com/,43.6037044,1.4427701
+460332329,node,Brut,restaurant,Toulouse,279 Chemin du Ramelet Moundi,,,43.5781125,1.352591
+460338227,node,Le Coin du Jasmin,restaurant,Toulouse,1 Rue Dominique Ingres,,,43.6411967,1.3886364
+460339861,node,Le bistro régent,restaurant,Toulouse,,,https://www.bistro-regent.fr/ou-trouver-les-bistros/toulouse-labege/,43.5397137,1.5130594
+460364205,node,Complices,restaurant,Toulouse,,,,43.6099745,1.4343971
+460364206,node,Hôtel Mercure Toulouse Centre Compans,hotel,Toulouse,,,https://all.accor.com/hotel/1585/index.fr.shtml,43.6107107,1.4348484
+467781054,node,Madame Baudruche,restaurant,Toulouse,,,https://madamebaudruche.fr/,43.6108086,1.4370162
+471580157,node,Café Italien,restaurant,Toulouse,,,,43.5976287,1.4442447
+493161924,node,Candelù,restaurant,Toulouse,,,http://candelu-pizza.fr/,43.5185457,1.5059727
+496003843,node,Pace Salute,restaurant,Toulouse,,,https://www.pacesalute.com/,43.5817648,1.3473429
+520124613,node,Mercure Toulouse Wilson,hotel,Toulouse,,,http://www.mercure.com/fr/hotel-1260-mercure-toulouse-wilson/index.shtml,43.6047124,1.4484348
+520124626,node,Chez Huguette,restaurant,Toulouse,"15 Place du Président Wilson, 31000",31000,http://huguettecafecantine.com/,43.6053082,1.4471994
+563700499,node,Bistrot de l'Etoile,restaurant,Toulouse,,,https://www.bistrotdeletoile.fr/,43.6015372,1.45288
+563700603,node,AMA,restaurant,Toulouse,,,https://linktr.ee/ama.tlse,43.6013391,1.4540134
+570025660,node,Relais des Banlieusards,restaurant,Toulouse,,,,43.6951586,1.3516141
+570027126,node,Chez Nelly,restaurant,Toulouse,,,,43.6820248,1.366118
+570964515,node,Sushi Tokoro,restaurant,Toulouse,"2 Allée d'Occitanie, 31770, Colomiers",31770,http://sushitokoro.fr/,43.6100346,1.3339754
+573392053,node,O Sel Fou,restaurant,Toulouse,"4 Rue Antoine Lavoisier, 31770, Colomiers",31770,https://restaurantoselfou.fr/,43.6107106,1.3096625
+579944581,node,La Pampa,restaurant,Toulouse,3 Avenue de Bayonne,,,43.6493474,1.4741816
+579958800,node,Le Diamant Noir,restaurant,Toulouse,,,,43.6597602,1.4565425
+597654758,node,Rue de Vietnam,restaurant,Toulouse,15 Avenue de la Gloire,,,43.6055346,1.4587537
+597656000,node,Chez Hippolyte,restaurant,Toulouse,,,,43.6052935,1.4581853
+598098457,node,Domaine du Bousquet,restaurant,Toulouse,,,,43.5514669,1.5245132
+610534138,node,La Couleur du Renard,restaurant,Toulouse,"10 Boulevard Riquet, 31000",31000,,43.6031462,1.4563634
+615204677,node,Buffalo Grill,restaurant,Toulouse,,,,43.5537855,1.4832234
+617755381,node,La Paniolade,restaurant,Toulouse,"146 Boulevard de Suisse, 31200, Toulouse",31200,https://www.lapaniolade.fr/,43.6198001,1.4239488
+619434819,node,Le Cocagne,restaurant,Toulouse,"Place Guillaume de Nogaret, 31540",31540,,43.4492426,1.8876346
+619435081,node,Logs auberge du Poids Public,restaurant,Toulouse,"40 Route de Toulouse, 31540, Saint-Fêlix--Lauragais",31540,https://www.logishotels.com/fr/hotel/logis-auberge-du-poids-public-339674,43.4497377,1.8851259
+623195488,node,Aux Saveurs Braisées,restaurant,Toulouse,"14 Avenue du Président Kennedy, 31330, Grenade",31330,http://www.grilletplancha.fr/,43.7633194,1.2991488
+623195507,node,Fleur d'or,restaurant,Toulouse,14 bis Avenue du Président Kennedy,,https://www.restaurant-lafleurdor.com/,43.7631007,1.299198
+623536166,node,Nino Pizza,restaurant,Toulouse,,,,43.7807681,1.4038743
+630662467,node,Bistrot August,restaurant,Toulouse,,,,43.6059637,1.4541399
+630662469,node,Vivants,restaurant,Toulouse,,,https://vivants-toulouse.com/,43.6062746,1.4558049
+631754994,node,YokoSushi,restaurant,Toulouse,,,https://www.yokosushi.fr,43.6056261,1.4511023
+631755001,node,Saignant,restaurant,Toulouse,,,,43.6062164,1.4558325
+631816182,node,Chez nous les Libanais,restaurant,Toulouse,,,,43.6020076,1.4406582
+632701211,node,Le Bangalore,restaurant,Toulouse,,,,43.6044933,1.45364
+632704752,node,La Réserve,restaurant,Toulouse,,,https://www.lareservetoulouse.fr/,43.6021082,1.4408518
+636023994,node,Mast - Braise & Vin,restaurant,Toulouse,52 Avenue de la Mairie,,,43.5182625,1.5475494
+636914881,node,Alfred Hotel,hotel,Toulouse,,,https://alfredhotels.com/fr/toulouse,43.6057658,1.4503479
+637944751,node,"La rosa negra ""côté Saint-Cyprien""",restaurant,Toulouse,"5 Place Jean Diébold, 31300, Toulouse",31300,,43.5980208,1.4299942
+637945273,node,La Pastasciutta,restaurant,Toulouse,,,,43.6063048,1.454889
+644841655,node,Molette,restaurant,Toulouse,,,https://www.molette-restaurant.fr/,43.6022949,1.4382991
+653130087,node,Lidotel,hotel,Toulouse,4 Rue Ariane,,https://www.lidotel.fr/,43.5534109,1.4828701
+665102932,node,Hôtel de Brienne,hotel,Toulouse,,,https://www.hoteldebrienne.com/,43.607884,1.431617
+668637542,node,Gusto Pizza,restaurant,Toulouse,,,https://www.gusto-pizza.net/,43.5532596,1.4682846
+669091659,node,Pizza Sud,restaurant,Toulouse,,,,43.6001156,1.3224705
+676992965,node,La Ferme de l'Houme,restaurant,Toulouse,,,http://lafermedelhoume.com,43.5697399,1.2026721
+684495320,node,La Fabrique,restaurant,Toulouse,,,,43.4595263,2.0061306
+704776681,node,Andiamo,restaurant,Toulouse,"2 Avenue Paul Séjourné, 31000, Toulouse",31000,https://andiamo-toulouse.eatbu.com,43.6056532,1.4283488
+730695445,node,La Bouche Gourmande,restaurant,Toulouse,1 Rue Labouche,,,43.5505835,1.4019701
+730717579,node,L'Emulation Nautique,restaurant,Toulouse,31400,31400,https://www.emulation-nautique.com/,43.5909341,1.4366537
+766485053,node,Stéphie & Roméo,restaurant,Toulouse,,,https://www.stephie-romeo.fr,43.5185235,1.5060902
+768339957,node,Beyrouth,restaurant,Toulouse,"2 Chemin de la Vieille Côte, 31840, Seilh",31840,https://beyrouth.eatbu.com,43.6914239,1.3566228
+768543390,node,Prima Circus,restaurant,Toulouse,,,https://circus.primafamily.fr/,43.598242,1.4341987
+768548459,node,Les chimères,restaurant,Toulouse,,,,43.5976665,1.4314979
+768591777,node,Le Temps des Vendanges,restaurant,Toulouse,,,,43.5989025,1.4327048
+768592071,node,A.mar,restaurant,Toulouse,,,,43.5988989,1.4327583
+768593857,node,Kashmir,restaurant,Toulouse,,,http://www.restaurant-kashmir.fr/,43.5988974,1.4331477
+769244212,node,Le Servant,restaurant,Toulouse,34 Rue des Teinturiers,,,43.596443,1.4328376
+771399598,node,Novotel,hotel,Toulouse,"5 Place Alfonse Jourdain, 31000, Toulouse",31000,https://www.accorhotels.com/fr/hotel-0906-novotel-toulouse-centre-compans-caffarelli/index.shtml,43.6114384,1.4312355
+772598903,node,Mado,restaurant,Toulouse,,,https://restaurantmado.fr/,43.6025661,1.4376758
+772598995,node,Le Petit Marais,restaurant,Toulouse,,,,43.6023971,1.4380809
+772599201,node,Le Dahu,restaurant,Toulouse,,,,43.602341,1.4381728
+772601828,node,Le Bistrot Libanais,restaurant,Toulouse,,,https://le-bistrot-libanais-toulouse.eatbu.com/,43.6017919,1.4399286
+772602036,node,La Santine,restaurant,Toulouse,,,https://www.la-santine.com/,43.6018241,1.4400097
+772602076,node,Les Fondues de la Daurade,restaurant,Toulouse,,,,43.6018533,1.4400714
+772666635,node,Aishi Ramen,restaurant,Toulouse,16 Rue Léon Gambetta,,,43.6024958,1.4412894
+772673561,node,Chiant Mai,restaurant,Toulouse,,,,43.6029777,1.4416879
+772674693,node,La Maison des Nems,restaurant,Toulouse,,,,43.6029079,1.4417926
+772707193,node,SushiYaki,restaurant,Toulouse,,,https://www.sushiyaki.net/,43.6018041,1.4421762
+772710370,node,Prima Lova,restaurant,Toulouse,,,https://lova.primafamily.fr/,43.6014641,1.4421328
+772723345,node,Valentina,restaurant,Toulouse,,,https://www.leclandesmamma.com/valentina-toulouse/,43.6017352,1.440893
+772724827,node,La P'tite Gouaille,restaurant,Toulouse,,,,43.6016063,1.4408263
+772725636,node,Long Quan,restaurant,Toulouse,,,https://www.long-quan.fr/,43.6015494,1.4407998
+772727737,node,Gueuleton,restaurant,Toulouse,,,https://www.gueuleton.fr/le-gueuleton-toulouse/,43.6013635,1.4407281
+772898715,node,Le Shaman,restaurant,Toulouse,,,,43.6099445,1.4392299
+772899148,node,Hôtel Arnaud Bernard,hotel,Toulouse,33,,https://www.hotel-arnaudbernard.com/,43.6092428,1.4389236
+772899474,node,La Gaîté!,restaurant,Toulouse,31 Rue d'Embarthe,,http://www.la-gaite.com/,43.609304,1.4387168
+772900237,node,Franquette,restaurant,Toulouse,,,,43.6091938,1.4389973
+773935821,node,Momone,restaurant,Toulouse,"2 Boulevard Lascrosses, 31000, Toulouse",31000,,43.6115539,1.4378907
+774479912,node,Basso Com'pôtes,restaurant,Toulouse,17 Paulin Talabot,,https://bassocompotes.fr/,43.5652041,1.3885465
+774480442,node,Tourneflam,restaurant,Toulouse,,,https://tourneflam.wordpress.com/,43.5731679,1.3828753
+774481202,node,Metrhotel,restaurant,Toulouse,,,,43.5696541,1.389785
+775315292,node,Le Cri de la Truffe,restaurant,Toulouse,,,https://lecridelatruffe.com/,43.598498,1.4439349
+775315551,node,Indiawalaa,restaurant,Toulouse,,,,43.598383,1.4430096
+775985755,node,Hippopotamus,restaurant,Toulouse,,,https://restaurants.hippopotamus.fr/hippopotamus-steakhouse-43690fc7e8db,43.6058692,1.448176
+776010008,node,Le Cousture,hotel,Toulouse,,,http://www.lecousture.com/,43.6042707,1.4505464
+776084925,node,Le Versant,restaurant,Toulouse,,,,43.6006098,1.4514356
+776087732,node,L'arrosoir,restaurant,Toulouse,,,,43.6006259,1.4513418
+776088713,node,La Gourmandine,restaurant,Toulouse,,,https://lagourmandinecotecathedrale.fr/,43.6005225,1.4508244
+776623621,node,L'Aubrac,restaurant,Toulouse,,,https://www.restaurant-laubrac.fr/,43.6043936,1.4513523
+792684426,node,La Table des Merville,restaurant,Toulouse,"2 Rue François Espitalier, 31320",31320,,43.5149076,1.4983899
+803357242,node,Roll & Bowl,restaurant,Toulouse,31400,31400,,43.5685303,1.4566734
+803360469,node,Bimi Sushi & poke ball,restaurant,Toulouse,,,https://www.thefork.fr/restaurant/bimi-sushi-r818069,43.5688599,1.4569115
+803373119,node,Le Kyoto,restaurant,Toulouse,,,,43.5702386,1.4553913
+803388816,node,Binaire,restaurant,Toulouse,"41 Avenue Jules Julien, 31400, Toulouse",31400,http://www.restaurant-binaire.fr/,43.5747464,1.4514821
+803403794,node,Redstar Pizza,restaurant,Toulouse,,,,43.5800448,1.449351
+803404335,node,Ravigote,restaurant,Toulouse,,,,43.5799481,1.4494033
+803725007,node,Brasserie des Beaux-Arts,restaurant,Toulouse,,,https://brasserielesbeauxarts.fr/,43.5998208,1.4405189
+826577701,node,Mas y mas,restaurant,Toulouse,,,www.lemasymas.com,43.4939302,1.535433
+830000580,node,Le Florence,restaurant,Toulouse,,,,43.6126644,1.3303964
+840601102,node,Les Jardins d'Aurore,restaurant,Toulouse,,,,43.6504033,1.3351559
+843097451,node,Le Genty Magre,restaurant,Toulouse,,,https://www.legentymagre.com/,43.6015089,1.445231
+856783314,node,Le Fifteen,restaurant,Toulouse,,,,43.6108387,1.374142
+866639154,node,La Toulousaine de Restauration,restaurant,Toulouse,,,,43.5715122,1.3869742
+866644054,node,La Mounède,restaurant,Toulouse,"1 Rue Claude-Marie Perroud, 31100, Toulouse",31100,https://lesmonediers.fr/,43.5729193,1.3796483
+868727675,node,Terra Tolosa,restaurant,Toulouse,2 Rue Tolosane,,https://www.terra-tolosa.fr/,43.5984763,1.4471869
+868727687,node,Chez Navarre,restaurant,Toulouse,,,https://www.chez-navarre.fr/,43.5969167,1.4474213
+868727704,node,Le Soulier,restaurant,Toulouse,,,,43.5969414,1.4500476
+873545395,node,La Table de Laurent,restaurant,Toulouse,,,https://latabledelaurent.com/,43.5421958,1.4882581
+873828832,node,Le Carroussel,restaurant,Toulouse,,,https://www.lecarrousel-balma.fr/,43.5943789,1.4999447
+873836112,node,Le 103,restaurant,Toulouse,"103 Avenue Tolosane, 31520, Ramonville-Saint-Agne",31520,https://le103.eatbu.com/,43.5398867,1.4791084
+884419231,node,Agora,restaurant,Toulouse,,,,43.5693474,1.5001191
+886603040,node,Brasserie de L'Armurier,restaurant,Toulouse,,,,43.6013846,1.3535009
+889227387,node,Cosy,restaurant,Toulouse,3 Allée du Rouergue,,,43.6095372,1.3303013
+889358382,node,Le Petit Bistrot,restaurant,Toulouse,,,https://www.lepetitresto.eu/,43.6105719,1.3334113
+889474091,node,Restaurant Shimi,restaurant,Toulouse,"2 Allée de Naurouze, 31770, Colomiers",31770,,43.6089317,1.3447554
+889474110,node,Les VI Nations,restaurant,Toulouse,,,,43.6085554,1.3398358
+894533408,node,L'Annexe de la Braisière,restaurant,Toulouse,,,https://www.labraisiere.fr/annexe/,43.5967134,1.4443878
+894533411,node,La Braisière,restaurant,Toulouse,"42 Rue Pharaon, 31000, Toulouse",31000,https://www.labraisiere.fr/,43.5965905,1.4443862
+894533413,node,Le Nez Rouge,restaurant,Toulouse,,,https://www.lenezrouge.fr/,43.5978881,1.4421515
+894533417,node,Papilles,restaurant,Toulouse,,,,43.5956092,1.4442186
+894566512,node,Épicerie Musicale,restaurant,Toulouse,,,,43.5946975,1.4431769
+894566527,node,Lo Stivale,restaurant,Toulouse,"10 Rue des Moulins, 31000, Toulouse",31000,https://restaurantlostivale.com/,43.5945342,1.4428044
+894579342,node,Reflets,restaurant,Toulouse,,,https://www.reflets-toulouse.com/,43.6002659,1.4352037
+894579346,node,Café-Restaurant culturel occitan La Topina,restaurant,Toulouse,"Place Lange, Toulouse",,https://latopina.com/,43.601028,1.4340281
+894579361,node,Restaurant L'Hémicycle,restaurant,Toulouse,,,,43.6013523,1.4302415
+899219136,node,Relais de Lenclas,restaurant,Toulouse,,,https://www.la-ferme-emile-fernand.fr/,43.4263755,1.8967163
+904988825,node,ChongQing,restaurant,Toulouse,,,,43.605417,1.4539787
+914596793,node,Le Jardin Pamplemousse,restaurant,Toulouse,,,,43.5241049,1.5419585
+914596797,node,La Table des Barbus,restaurant,Toulouse,,,,43.5242928,1.5417417
+914709609,node,La Bonita,restaurant,Toulouse,,,https://www.labonita.fr/,43.5902539,1.4456921
+915694559,node,Chez Lilly,restaurant,Toulouse,,,,43.6044193,1.4392158
+917430921,node,Au Bon Graillou,restaurant,Toulouse,,,https://fr-fr.facebook.com/Au-Bon-Graillou-157630230940966/,43.6069334,1.4464537
+917431781,node,Le Louchebem,restaurant,Toulouse,,,https://www.facebook.com/pages/Le-Louchebem/128704637179698,43.6067627,1.4464849
+917433312,node,Le Magret,restaurant,Toulouse,,,http://www.restaurant-lemagret.com/,43.6065881,1.4465191
+917437364,node,Chez Attila,restaurant,Toulouse,,,,43.6064019,1.4465589
+917438390,node,L'Impériale,restaurant,Toulouse,,,https://limperiale-restaurant.fr/,43.6061847,1.4466151
+917441829,node,La Gourmandine,restaurant,Toulouse,,,https://www.la-gourmandine.fr/,43.6059151,1.4463028
+918228481,node,Volfoni,restaurant,Toulouse,,,https://www.volfoni.fr/restaurant/volfoni-toulouse/,43.605201,1.4469531
+918233336,node,Novotel Toulouse Centre Wilson,hotel,Toulouse,31000,31000,,43.6051525,1.4468585
+918233735,node,Brasserie Le Capoul,restaurant,Toulouse,"13 Place du Président Wilson, 31000, Toulouse",31000,http://www.capoul.com/brasserie/,43.6050916,1.4468081
+922869212,node,Matsuya,restaurant,Toulouse,,,,43.6037706,1.4493474
+924250392,node,Santosha,restaurant,Toulouse,,,https://santosha-streetfood.com/fr/etablissement/santosha-toulouse-6445,43.5982513,1.4442547
+924250411,node,Miss Fish,restaurant,Toulouse,,,https://www.miss-fish.fr/,43.5981939,1.4442648
+924250419,node,Côté d'Oc,restaurant,Toulouse,2 Rue des Filatiers,,,43.5980735,1.4442935
+924250436,node,Bistro des Carmes,restaurant,Toulouse,,,,43.5980151,1.4441586
+931728279,node,Relais Fasthôtel,hotel,Toulouse,,,,43.3518601,1.8016305
+931728297,node,La Dinée,restaurant,Toulouse,,,,43.3532308,1.8015086
+932047864,node,Le Gardouch,restaurant,Toulouse,,,,43.3901922,1.6835526
+940809095,node,King Fat,restaurant,Toulouse,,,https://www.kingfat.fr/,43.5685798,1.4980939
+941467496,node,Soleil d'Asie,restaurant,Toulouse,,,,43.515513,1.5479497
+942315665,node,Pause Saveurs,restaurant,Toulouse,64 Rue Max Planck,,,43.5544858,1.5075667
+954740196,node,Les Tilleuls,restaurant,Toulouse,"34 Avenue du Cimetière, 31500, Toulouse",31500,,43.6066342,1.4566856
+972419780,node,L'Émulsion,restaurant,Toulouse,,,https://lemulsion.fr/,43.5974921,1.4481977
+987401747,node,Les Mascareignes,restaurant,Toulouse,,,https://kouadiopatrice.site-solocal.com/,43.6191487,1.436876
+990029154,node,L'escarbille,restaurant,Toulouse,,,https://escarbille.fr/,43.4666657,1.5612266
+990054154,node,L'Enclos,restaurant,Toulouse,,,,43.472402,1.552645
+995042048,node,La Table d'Auzeville,restaurant,Toulouse,35 Chemin de l'Église,,http://www.la-table-dauzeville.fr/,43.5285195,1.480824
+1031337044,node,Don Pancho,restaurant,Toulouse,,,http://www.donpancho.fr/,43.6133334,1.4379729
+1054522267,node,La Binocle,restaurant,Toulouse,"10 Rue Alexandre Fourtanier, 31000",31000,,43.6019798,1.4484439
+1077268740,node,Pastel et Sarrasin,restaurant,Toulouse,,,http://pasteletsarrasin.fr/,43.6073518,1.442012
+1128682742,node,Friendly Auberge,hotel,Toulouse,"32 Rue Gilet, 31770, Colomiers",31770,https://friendly-auberge.com/,43.612244,1.3404365
+1179378847,node,Adagio Access,hotel,Toulouse,"11 Avenue Léon Blum, 31500, Toulouse",31500,https://www.adagio-city.com/gb/hotel-8388-adagio-access-toulouse-jolimont-ex-citea/index.shtml,43.6147625,1.4630464
+1179397860,node,Café à la Une,restaurant,Toulouse,,,https://www.cafealaune.fr/,43.6168025,1.4728119
+1180303041,node,Le Chalet des Moissons,restaurant,Toulouse,,,,43.6349436,1.4973487
+1185882703,node,Brasserie Toulousaine,restaurant,Toulouse,,,,43.581782,1.3890624
+1202313460,node,Presto'Grill,restaurant,Toulouse,,,,43.5500583,1.4835022
+1208490613,node,JEM,restaurant,Toulouse,,,https://www.facebook.com/jem.goodfood/,43.5705002,1.4206254
+1215767134,node,Le J'Go,restaurant,Toulouse,,,https://lejgo.com/lieux/le-jgo-toulouse/,43.6063919,1.4470694
+1215767142,node,Hôtel Victor Hugo,hotel,Toulouse,,,https://www.victorhugo-hotel.com/,43.607531,1.4471229
+1215767150,node,Boulevard 36,restaurant,Toulouse,,,,43.6082381,1.4464005
+1215767151,node,Hôtel de France,hotel,Toulouse,"5 Rue d'Austerlitz, 31000, Toulouse",31000,https://www.hotel-france-toulouse.com/,43.6059068,1.4472681
+1217526716,node,Sodexo,restaurant,Toulouse,"105 Avenue du Général Eisenhower, 31100, Toulouse",31100,,43.5636751,1.3846993
+1241251804,node,Le Sherpa,restaurant,Toulouse,,,,43.6066824,1.4424675
+1259663318,node,La Romantica,restaurant,Toulouse,,,https://www.fratellirizzo.fr,43.6337162,1.4330277
+1261011953,node,Les Caprices,restaurant,Toulouse,"1, 31130, Quint-Fonsegrives",31130,https://www.les-caprices.fr/,43.5861441,1.5295826
+1261011960,node,Tradi Pizza,restaurant,Toulouse,"32 Route de Castres, 31130, Quint-Fonsegrives",31130,,43.5854767,1.5276299
+1261011964,node,Suke Sushi,restaurant,Toulouse,"6 Cours Goudouli, 31130, Quint-Fonsegrives",31130,https://suke-sushi-quint-fonsegrives.eatbu.com/,43.5847933,1.5279082
+1261011968,node,Le Bistro Des Copains,restaurant,Toulouse,"9 Route de Castres, 31130, Quint-Fonsegrives",31130,https://www.lebistrodescopains.com,43.5858487,1.5262687
+1261012008,node,En pleine nature,restaurant,Toulouse,"6 Place de la Mairie, 31130, Quint-Fonsegrives",31130,https://www.en-pleine-nature.com/,43.5852455,1.5292218
+1261028288,node,Brasserie de Nathan,restaurant,Toulouse,,,,43.5858967,1.5243884
+1283902323,node,Best Western Les Capitouls,hotel,Toulouse,,,https://www.hotel-capitouls.com,43.6069427,1.4498971
+1283982030,node,Hôtel Riquet,hotel,Toulouse,,,,43.6082746,1.4539766
+1283991287,node,Excelsior,hotel,Toulouse,,,,43.607583,1.4540206
+1284032004,node,N88dles,restaurant,Toulouse,34 Rue de la Colombette,,https://n88dles.fr/,43.604517,1.4526157
+1284920514,node,Pepponita,restaurant,Toulouse,"65 Allées Charles de Fitte, 31300, Toulouse",31300,,43.5971666,1.4309934
+1285015953,node,The Fusion bar,restaurant,Toulouse,,,https://fusionbar.fr,43.5982493,1.4326724
+1286698670,node,Chez le Belge une fois,restaurant,Toulouse,,,,43.6912861,1.3572437
+1322313128,node,Café Sadourny,restaurant,Toulouse,,,,43.6104567,1.3341802
+1352295760,node,Tokami,restaurant,Toulouse,"143 Rue Pierre-Gilles de Gennes, 31670, Labège",31670,https://tokami-labege.com,43.5395513,1.5135144
+1352295767,node,Saké Sushi,restaurant,Toulouse,"227 Rue Pierre-Gilles de Gennes, 31670, Labège",31670,http://www.sakesushi.fr/,43.5398882,1.5131951
+1352295783,node,Il Popolo Labège,restaurant,Toulouse,"143 Rue Pierre-Gilles de Gennes, 31670, Labège",31670,https://ilpopolo.fr,43.5396184,1.5133249
+1352295794,node,Pizza Mongelli Labège,restaurant,Toulouse,"Rue Pierre-Gilles de Gennes, 31670, Labège",31670,https://www.pizza-mongelli.com/reservation-mongelli-labege/,43.5394773,1.5137451
+1352684021,node,Auberge du Poids Public,hotel,Toulouse,,,,43.4498136,1.8852438
+1367582913,node,Artigiano,restaurant,Toulouse,,,,43.666295,1.4299943
+1371452100,node,La Flanerie,hotel,Toulouse,,,,43.5291492,1.4299369
+1371907506,node,Chez Marcel,restaurant,Toulouse,,,https://www.chezmarcel.fr/,43.6063396,1.4447265
+1372862253,node,ibis styles,hotel,Toulouse,49 Avenue Jean Zay,,https://all.accor.com/hotel/A314/index.fr.shtml,43.6523858,1.4254728
+1377508821,node,Ô Saveurs du Tibet,restaurant,Toulouse,,,,43.6055989,1.4424263
+1377610732,node,Hôtel de la Promenade,hotel,Toulouse,,,,43.5234649,1.3414139
+1393577665,node,Chez Rosine,restaurant,Toulouse,,,,43.5749297,1.4626204
+1393651266,node,Restaurant CNRS,restaurant,Toulouse,,,,43.5566509,1.4634495
+1400792693,node,Pat & Pizz,restaurant,Toulouse,,,http://www.patetpizz.fr,43.5966423,1.4733062
+1401908715,node,Pépère,restaurant,Toulouse,,,https://www.pepere-restaurant.fr/,43.6051086,1.4510052
+1406050155,node,Restaurant du Midi,restaurant,Toulouse,,,https://hotelrestaurantdumidi.com/restaurant-revel.html,43.4598224,2.0058301
+1406050161,node,Hôtel du Midi,hotel,Toulouse,,,,43.4599003,2.005712
+1411595857,node,La Noria,restaurant,Toulouse,"26 Avenue Maurice Bourgès-Maunoury, 31200, Toulouse",31200,https://lanoria-toulouse.fr/,43.6322391,1.4517882
+1414753104,node,Nippon Teien,restaurant,Toulouse,,,,43.5707298,1.3127157
+1414801645,node,Carrément Pizza,restaurant,Toulouse,,,,43.5707322,1.3124331
+1429269039,node,Grand Hôtel D'Orléans,hotel,Toulouse,"72 Rue de Bayard, 31000",31000,https://www.grand-hotel-orleans.fr/,43.61101,1.4519411
+1430326679,node,Étape d'Asie,restaurant,Toulouse,24 Place Marnac,,http://etape-d-asie.fr/,43.5465954,1.4782568
+1432189802,node,La Bambouseraie,restaurant,Toulouse,"Avenue de Saint-Caprais, 31240, L'Union",31240,https://www.restaurantlabambouseraie.com/,43.6455215,1.472174
+1447953090,node,On'Nador,restaurant,Toulouse,,,,43.5755694,1.4012449
+1450473393,node,La Mignardise,restaurant,Toulouse,,,https://www.restaurant-lamignardise.fr/,43.6204511,1.4360175
+1450492062,node,Le Menhir,restaurant,Toulouse,,,https://www.creperie-le-menhir-31.com,43.6010383,1.4570159
+1457631032,node,Le Manel,restaurant,Toulouse,,,,43.6115341,1.4520815
+1467939338,node,Le Dynastie,restaurant,Toulouse,,,,43.5654948,1.5108699
+1468315711,node,Ristorante Del Arte,restaurant,Toulouse,"Centre Commercial Leclerc, 31650, Saint-Orens-de-Gameville",31650,https://www.delarte.fr/restaurants/208-toulouse-saint-orens,43.5657485,1.5171172
+1468315718,node,Ô pas sage,restaurant,Toulouse,,,,43.5656136,1.517655
+1468315723,node,Toyama,restaurant,Toulouse,,,,43.5655976,1.5177825
+1468318809,node,Lukaty,restaurant,Toulouse,,,,43.5605005,1.5308337
+1480282071,node,L'Entrecôte,restaurant,Toulouse,,,,43.6067064,1.447284
+1486124216,node,Café Chouchou,restaurant,Toulouse,,,https://www.cafe-chouchou.fr/,43.5990767,1.4439553
+1531814136,node,Le Mastroquet,restaurant,Toulouse,29,,,43.583767,1.4520779
+1531905944,node,La raffinerie des copains,restaurant,Toulouse,"161 Avenue Jean Chaubet, 31500, Toulouse",31500,,43.6065685,1.4828077
+1532506272,node,Pizzeria d'Alexis,restaurant,Toulouse,,,http://www.pizzeria-alexis.fr/,43.5986835,1.4359441
+1532506322,node,Le P'tit Louis,restaurant,Toulouse,,,https://leptitlouis.fr,43.5985414,1.4351563
+1532525832,node,Pizza Arlequin,restaurant,Toulouse,,,,43.5972743,1.4269884
+1532525850,node,Adagio Access Toulouse St Cyprien,hotel,Toulouse,,,,43.5968156,1.4265531
+1532531311,node,Borriquito Loco,restaurant,Toulouse,"Rue des Paradoux, 31000, Toulouse",31000,http://www.restaurant-borriquito.com/,43.5988236,1.4427046
+1532531320,node,Chez Histor,restaurant,Toulouse,"27 Rue des Paradoux, 31000, Toulouse",31000,,43.5989452,1.4426953
+1532620680,node,Daily Sushi,restaurant,Toulouse,109,,,43.6202316,1.4572354
+1532620945,node,La Fabriq du Burger,restaurant,Toulouse,"29 Avenue de Lavaur, 31500",31500,https://fabriqduburger.com/,43.6219974,1.4598752
+1532621014,node,Pizza du Faubourg,restaurant,Toulouse,"44 Rue du Faubourg Bonnefoy, 31500, Toulouse",31500,,43.618063,1.4556006
+1532672827,node,Restaurant Mordus,restaurant,Toulouse,90 Rue Saint-Roch,,https://www.mordus-resto.fr/,43.5794256,1.4463177
+1532857725,node,Make Sushi,restaurant,Toulouse,,,https://www.makesushi31000.fr/,43.6282471,1.4333356
+1533837158,node,Le Can Tho,restaurant,Toulouse,"12 Rue Obscure, 31660, Buzet-sur-Tarn",31660,https://le-can-tho.eatbu.com/,43.7796354,1.6332835
+1533848929,node,Le Pacri,restaurant,Toulouse,,,,43.7794379,1.6331896
+1534037213,node,Côté Garonne,restaurant,Toulouse,"8 Avenue Maurice Hauriou, 31000",31000,https://cotegaronne-toulouse.fr/,43.5929926,1.4431703
+1544892716,node,Les Tontons Flingueuses,restaurant,Toulouse,,,https://www.instagram.com/les_tontons_flingueuses/,43.61679,1.4372323
+1544916207,node,Ma-Ma Sushi,restaurant,Toulouse,,,https://www.mamasushi.fr/,43.6177036,1.4365515
+1557142740,node,L'Indochine,restaurant,Toulouse,18 Avenue du Lauragais,,https://www.indochinecastanet.fr/,43.5147133,1.4992049
+1571652210,node,Couleur d'Italie,restaurant,Toulouse,"10 Rue du Général Giraud, 31200, Toulouse",31200,,43.6407569,1.4629117
+1573883095,node,Les Galopins,restaurant,Toulouse,,,https://les-galopins-restaurant.eatbu.com/,43.599521,1.440748
+1573886704,node,Café de la Bourse,restaurant,Toulouse,,,,43.6013014,1.4419958
+1585734411,node,La Faim des Haricots,restaurant,Toulouse,"2 bis Rue du Puits-Vert, 31000, Toulouse",31000,http://www.lafaimdesharicots.fr/,43.6017777,1.4439058
+1591497225,node,Le Bellevue,restaurant,Toulouse,"1 Avenue des Pyrénées, 31120, Lacroix-Falgarde",31120,https://restaurant-lebellevue.com,43.4975361,1.4096829
+1631108689,node,Bossa Nova,restaurant,Toulouse,"1 bis Rue du May, 31000",31000,,43.6021202,1.4427356
+1645821700,node,Terminus Café,restaurant,Toulouse,,,,43.6337068,1.3989973
+1660615320,node,La cuisine de Jean,restaurant,Toulouse,"18 Avenue Albert Bedouce, 31400",31400,,43.5762972,1.4551901
+1667118773,node,Toroya,restaurant,Toulouse,,,https://toroya.fr/,43.6044918,1.4387122
+1667118791,node,Marcello,restaurant,Toulouse,,,https://www.marcello.pizza/,43.6039901,1.4363736
+1667118809,node,Valentino,restaurant,Toulouse,,,https://valentinosmashhouse.fr/,43.6030054,1.4363556
+1668955924,node,Agapes,restaurant,Toulouse,,,https://www.agapes-toulouse.fr/,43.6047727,1.4509507
+1674303314,node,Bel'Asie,restaurant,Toulouse,"10 Avenue des Hospitaliers, 31880",31880,,43.5750947,1.2731286
+1675479068,node,Ô Saveurs,restaurant,Toulouse,,,https://o-saveurs.com/,43.6638982,1.5251307
+1679652014,node,Les Zinzins du Zinc,restaurant,Toulouse,,,https://www.facebook.com/LES-ZINZINS-DU-ZINC-474783612667627/,43.7718442,1.2932152
+1710495038,node,Autan des Saveurs,restaurant,Toulouse,,,,43.6348676,1.3991715
+1713268427,node,Le Bistrot de Théo,restaurant,Toulouse,"29 Chemin Saint-Pierre, 31170, Tournefeuille",31170,https://le-bistrot-2-theo-tournefeuille.eatbu.com/?lang=en,43.5839593,1.3340219
+1724055724,node,Le Biergarten Saint Michel,restaurant,Toulouse,,,https://lebiergarten-saintmichel.fr/,43.5884796,1.4464027
+1739209515,node,Verte Campagne,restaurant,Toulouse,,,,43.5057604,1.411682
+1742819753,node,L'Orchidée-Vie,restaurant,Toulouse,,,,43.5167437,1.4982713
+1751451499,node,L'Agra,restaurant,Toulouse,52 Rue Carrière,,,43.6403641,1.3923677
+1751451508,node,Pizza Pierre,restaurant,Toulouse,25 Rue du Docteur Guimbaud,,https://www.pizzapierre.fr/,43.6335026,1.3971442
+1751451517,node,Restaurant Bian,restaurant,Toulouse,,,https://www.sushi-bian.fr/,43.6363443,1.3915905
+1754293636,node,Apart'City Hotel - St Simon,hotel,Toulouse,,,,43.5674531,1.3725007
+1763983153,node,M by Mo Bachir,restaurant,Toulouse,,,https://m-by-mo-bachir.business.site/,43.5973061,1.4474462
+1769448949,node,La Grand' Pizzeria,restaurant,Toulouse,"4 Rue Castellane, 31000",31000,https://lagrandpizzeria.fr/,43.6049195,1.4502144
+1773598750,node,Le pont vieux,restaurant,Toulouse,,,,43.5252604,1.8279235
+1777080498,node,La Table de Conchi,restaurant,Toulouse,"1 Route de Cox, 31530, Saint-Paul-sur-Save",31530,https://www.latabledeconchi.fr/,43.6962017,1.2236424
+1787179191,node,L'Esquisse,restaurant,Toulouse,,,,43.7023858,1.4669319
+1787434478,node,ESAT Elisa 31,restaurant,Toulouse,,,,43.7100798,1.4648579
+1787848981,node,YMCAfet',restaurant,Toulouse,,,,43.6138851,1.3517232
+1787856981,node,Restaurant d'entreprise Airbus,restaurant,Toulouse,,,,43.6143946,1.3536994
+1801500970,node,L'esquisse,restaurant,Toulouse,"117 Rue Gaston Doumergue, 31170, Tournefeuille",31170,,43.5847264,1.3478045
+1802117519,node,Moli,restaurant,Toulouse,,,https://moli.eatbu.com/,43.5845094,1.3434882
+1811225725,node,Yaba,restaurant,Toulouse,"18 Place des Pradettes, 31100, Toulouse",31100,,43.5820074,1.3878181
+1818039833,node,La Cantine du Busca,restaurant,Toulouse,,,,43.5881231,1.4507726
+1852023700,node,Chez Albert,restaurant,Toulouse,253 Chemin de la Thesauque,,,43.356077,1.6478151
+1852023705,node,La Ferme de Champreux,restaurant,Toulouse,253 Chemin de la Thesauque,,,43.3563444,1.6483333
+1853169356,node,Le Chardon,restaurant,Toulouse,1 L'Esplanade,,,43.4580651,1.5741255
+1856731297,node,Le King,restaurant,Toulouse,,,https://fr-fr.facebook.com/Le-KING-272600449490147/,43.5748523,1.4514419
+1857067690,node,Pizzas Chez Stéphane,restaurant,Toulouse,,,,43.6172889,1.2820355
+1871304605,node,Pizzéria Belfort,restaurant,Toulouse,,,,43.6088773,1.4505584
+1873090630,node,Yujo Ramen Saint-Cyprien,restaurant,Toulouse,,,https://yujoramen.com/,43.5988934,1.4329397
+1873095810,node,Du Plaisir à la toque,restaurant,Toulouse,"9 Rue des Blanchers, 31000, Toulouse",31000,https://www.duplaisiralatoque.fr/,43.6021645,1.4383402
+1875049780,node,Jipoonthai,restaurant,Toulouse,,,http://jipoonthai.com/,43.5823949,1.4488584
+1875049781,node,Les Quatre Saisons,restaurant,Toulouse,,,http://www.restaurant-4-saisons.com/,43.5832605,1.4485132
+1889068267,node,Restaurant Universitaire ENSEEIHT,restaurant,Toulouse,,,,43.6021608,1.4557372
+1912020192,node,Crep'Chignon,restaurant,Toulouse,,,,43.6530199,1.3298401
+1912022547,node,La Bringuerie,restaurant,Toulouse,,,,43.5952389,1.4433014
+1943319543,node,Hippopotamus,restaurant,Toulouse,,,,43.6443708,1.367412
+1943319546,node,L'Olivade,restaurant,Toulouse,5 bis Avenue Léonard de Vinci,,https://www.pizzeria-olivade.com/,43.641198,1.3755755
+1950688739,node,Naraï Thaï,restaurant,Toulouse,,,https://www.naraithai.fr/,43.609244,1.432809
+1962619095,node,Cuisine Ouverte au Monde,restaurant,Toulouse,,,,43.5180392,1.5078948
+1969604151,node,Casa Dupuy,restaurant,Toulouse,,,,43.5995165,1.4542706
+1972155352,node,Mamagayo,restaurant,Toulouse,"31 Rue Antoine Deville, 31000, Toulouse",31000,,43.6060266,1.4388987
+1976765780,node,Au Buron,restaurant,Toulouse,,,https://www.auburon.fr,43.6078149,1.4385685
+1976765790,node,Rajasthan Villa,restaurant,Toulouse,"4 Rue de l'Esquile, 31000, Toulouse",31000,https://www.lerajasthanvilla.com/,43.6061126,1.4415311
+1976765796,node,PL Pizza Léo,restaurant,Toulouse,,,,43.6075061,1.4402932
+1976765814,node,Le Galuchat,restaurant,Toulouse,"40 Rue des Lois, 31000",31000,https://www.legaluchat.club/,43.6069865,1.4401314
+1976765817,node,Midi Minuit,restaurant,Toulouse,,,https://www.facebook.com/midiminuittoulouse/,43.6075185,1.4397499
+1976765821,node,Le Saint-Sauvage,restaurant,Toulouse,,,,43.6079153,1.4387215
+1977820124,node,Bistrot Galien,restaurant,Toulouse,"6 Place Dominique Martin Dupuy, 31000",31000,,43.6002525,1.4539683
+1995293946,node,Le Goût en Train,restaurant,Toulouse,,,,43.6056709,1.4461106
+1998786144,node,L'Amoura Pizza,restaurant,Toulouse,,,http://lamourapizza.fr/,43.5970213,1.4220052
+2001291175,node,Urban Garden Café,restaurant,Toulouse,,,https://www.urbangardencafe.fr,43.5403067,1.5142959
+2001291179,node,L'Aléa Table,restaurant,Toulouse,190 Rue Jean Rostand,,https://www.laleatable.com,43.5422783,1.5126598
+2001291181,node,Tribal African Artfood,restaurant,Toulouse,"227 Rue Pierre de Gennes, 31670, Labège",31670,,43.5397118,1.5136307
+2005338549,node,La Tantina de la Playa,restaurant,Toulouse,"59 Avenue Antoine de Saint-Exupéry, 31400",31400,https://tantinadelaplaya.com/restaurant-poisson-toulouse/,43.5859236,1.4652795
+2009003687,node,450° par Pizzeria d'Alexis,restaurant,Toulouse,,,,43.5985793,1.4363977
+2010420241,node,Café Oz,restaurant,Toulouse,"1 Rue Gabriel Péri, 31000, Toulouse",31000,https://cafe-oz.com/toulouse.html,43.6056272,1.4496086
+2016344002,node,Brasserie du Fauboug Saint-Simon,restaurant,Toulouse,,,,43.5626017,1.3724274
+2020652328,node,Café Triplette,restaurant,Toulouse,"7 Place Saint-Sernin, 31000, Toulouse",31000,,43.6088428,1.4415621
+2051884503,node,Le Pyrénéen,restaurant,Toulouse,,,https://www.facebook.com/LePyreneen,43.6053005,1.4484704
+2054262988,node,La Taqueria Toulouse,restaurant,Toulouse,,,https://lataqueriatoulouse.fr/,43.6067665,1.4518374
+2078535143,node,La Grange,restaurant,Toulouse,,,https://www.facebook.com/La-Grange-31200-715638678509900/,43.6281541,1.411207
+2078544492,node,Riz d'Or,restaurant,Toulouse,,,,43.5654819,1.2976197
+2081650657,node,Le Petit Victor,restaurant,Toulouse,,,https://www.lepetitvictor.fr,43.6055021,1.4463199
+2081650658,node,Barbaque,restaurant,Toulouse,,,,43.605631,1.446319
+2118637047,node,ZenQuint,restaurant,Toulouse,5 Rue de la Zone d'Activité de Ribaute,,https://zenquint.fr,43.5831121,1.5141461
+2121457812,node,Café Manine,restaurant,Toulouse,"17 Place Roguet, 31300",31300,,43.5974399,1.430458
+2126661351,node,M03 Restaurant Galaxy,restaurant,Toulouse,,,,43.6104516,1.3666363
+2126678956,node,C75,restaurant,Toulouse,,,,43.6305499,1.3495306
+2126686791,node,STAR,restaurant,Toulouse,,,,43.659524,1.3573948
+2126687249,node,Sequoia,restaurant,Toulouse,,,,43.65437,1.3600985
+2141719236,node,Park Wilson Airport,hotel,Toulouse,,,,43.598478,1.3528793
+2161659607,node,Kitchen Bowl,restaurant,Toulouse,45 Boulevard Vincent Auriol,,,43.5884797,1.353715
+2161659609,node,Mr Burger,restaurant,Toulouse,,,,43.5884321,1.3534609
+2161659610,node,Le Landreau,restaurant,Toulouse,,,,43.5922752,1.3501352
+2167568967,node,Le Nem,restaurant,Toulouse,,,https://restaurant-le-nem-tournefeuille.jimdofree.com,43.5770655,1.3249282
+2170803967,node,Fogo,restaurant,Toulouse,,,https://fogo-toulouse.fr/,43.6019219,1.4444596
+2185109449,node,La Côte et l'Arête,restaurant,Toulouse,31 Avenue de Fronton,,https://www.lacoteetlarete.fr/,43.6611643,1.430747
+2187051557,node,Kory,restaurant,Toulouse,31 Avenue de Fronton,,,43.6613661,1.430177
+2187051559,node,La crêperie d'Aucamville,restaurant,Toulouse,31 Avenue de Fronton,,,43.6613537,1.4301048
+2192288533,node,Solides,restaurant,Toulouse,,,https://www.solides.fr/,43.5978962,1.4439122
+2246315729,node,Poketeria,restaurant,Toulouse,,,https://www.poketeria.fr/,43.6036397,1.4349952
+2264803582,node,Chez Magda,restaurant,Toulouse,,,https://www.chezmagda.fr/,43.5812167,1.4493358
+2280985824,node,Pizza Hut,restaurant,Toulouse,,,,43.588751,1.4460227
+2280985825,node,Wok & Poké,restaurant,Toulouse,,,,43.5906264,1.445179
+2280985826,node,Manger Autrement,restaurant,Toulouse,,,http://manger-autrement.com,43.5911033,1.4449697
+2284115693,node,Ibis Budget,hotel,Toulouse,,,,43.6158342,1.444709
+2287822395,node,La Boîte Aux Galettes,restaurant,Toulouse,,,,43.5424415,1.5663812
+2288106566,node,Le Manhattan,restaurant,Toulouse,,,,43.7610457,1.2996982
+2288200928,node,Food land,restaurant,Toulouse,"32 Grande Rue Saint-Michel, 31400, Toulouse",31400,,43.5873309,1.4468694
+2288209080,node,Restaurant Chez Nicole,restaurant,Toulouse,,,https://www.saveursmusiquesdumonde.com/,43.5879759,1.4463329
+2288225869,node,Le Sud d'Asie,restaurant,Toulouse,,,,43.5897121,1.4459133
+2288246548,node,Kong-Bap,restaurant,Toulouse,,,,43.5929958,1.445775
+2291321310,node,Le palais des plaisirs,restaurant,Toulouse,"1 Chemin André Salvy, 31140",31140,,43.6637289,1.4300596
+2294604973,node,La Table d'Ariane,restaurant,Toulouse,,,https://www.hotel-ariane-toulouse.fr/fr/page/la-table-d-ariane,43.559789,1.4956421
+2296504345,node,Le B Restaurant,restaurant,Toulouse,,,,43.5162723,1.5007898
+2296505817,node,Ala Taverna della Pizza,restaurant,Toulouse,"2 Place Gaspard de Fieubet, 31320",31320,,43.5161517,1.5009883
+2305521782,node,Burger'n'Co St Aubin,restaurant,Toulouse,,,https://www.burgernco.fr,43.6013519,1.4539909
+2312517022,node,Maison Benetti,restaurant,Toulouse,,,,43.6553955,1.4767676
+2314441203,node,Chez Moustache,restaurant,Toulouse,,,,43.6420277,1.4301259
+2316954259,node,Green sur mesure,restaurant,Toulouse,,,,43.6066406,1.4470214
+2319315196,node,Ibis Toulouse Pont Jumeaux,hotel,Toulouse,"99 Boulevard de la Marquette, 31000, Toulouse",31000,,43.610869,1.4202364
+2330455415,node,Le Pavé des Minimes,restaurant,Toulouse,,,https://lepavedesminimes.com/,43.626396,1.433512
+2338002019,node,Auberge de Jeunesse,hotel,Toulouse,,,,43.6149395,1.4639553
+2338325953,node,Les Jardins de l'Olympe,restaurant,Toulouse,"200 Route de Blagnac, 31200, Toulouse",31200,https://www.lesjardinsdelolympe.com/,43.6258602,1.4026625
+2338374476,node,Brasserie des Caouecs,restaurant,Toulouse,,,,43.636435,1.402275
+2338395043,node,Côté Fleuve,restaurant,Toulouse,,,,43.6236138,1.3997119
+2338395044,node,Le Deauville,hotel,Toulouse,,,,43.6235474,1.3997948
+2339916117,node,Minimum,restaurant,Toulouse,,,,43.6201716,1.4357361
+2339916121,node,Asia Village,restaurant,Toulouse,,,,43.6207663,1.4354822
+2343567986,node,La Pergola,restaurant,Toulouse,,,http://lacompagniedespergos.fr/,43.5903996,1.3790608
+2352297211,node,Le restaurant sans nom,restaurant,Toulouse,,,,43.6014691,1.4407702
+2352495606,node,Chez Carmen,restaurant,Toulouse,"14 Avenue Maurice Hauriou, 31000",31000,https://www.chezcarmen.fr/lerestaurant,43.5927705,1.4431787
+2354967859,node,Soleil d'Istanbul,restaurant,Toulouse,,,,43.587937,1.4239526
+2356855691,node,Le Jardin de Lana,restaurant,Toulouse,,,https://lejardindelana.fr/,43.5165509,1.4999924
+2361876911,node,ibis Styles Toulouse Centre Canal du Midi,hotel,Toulouse,5 Boulevard de la Gare,,https://all.accor.com/hotel/B3A1/index.fr.shtml,43.6014756,1.4570884
+2377741717,node,Saveurs du Mékong,restaurant,Toulouse,,,,43.5817573,1.4491201
+2395146860,node,Le Bikini,restaurant,Toulouse,"Rue Théodore Monod, 31520, Ramonville-Saint Agne",31520,http://www.lebikini.com/,43.5479005,1.4854419
+2410430110,node,L'Atelier de l'Écharpe,restaurant,Toulouse,"8 Rue de l'Écharpe, 31000",31000,http://www.latelierdelecharpe.fr/,43.6002622,1.441469
+2411875257,node,Campagne,restaurant,Toulouse,,,https://campagnetoulouse.fr/,43.6060308,1.441318
+2434942590,node,Le Katana,restaurant,Toulouse,,,,43.5989126,1.4415961
+2435415799,node,La Cour de récréé,restaurant,Toulouse,,,,43.812708,1.5717115
+2439030955,node,Tradition Pizza,restaurant,Toulouse,10 Avenue du Lauragais,,https://traditionpizza.fr/,43.5149293,1.4989851
+2439312637,node,Notes et Saveurs,restaurant,Toulouse,,,https://www.notes-et-saveurs.com/,43.593718,1.4438232
+2439315689,node,Le petit Salin,restaurant,Toulouse,,,https://www.lepetitsalin.fr/,43.5938173,1.4438362
+2443447121,node,Kumo,restaurant,Toulouse,,,,43.6070157,1.4400907
+2443447122,node,Silex & Fourchette,restaurant,Toulouse,,,https://www.silexetfourchette.com/,43.6070798,1.4400517
+2444345546,node,Tokyo Bento,restaurant,Toulouse,,,https://www.tokyobento.fr/,43.6051974,1.4426798
+2444345559,node,Maison du Curry,restaurant,Toulouse,,,,43.6064361,1.4423845
+2444345565,node,Hôtel ibis Styles,hotel,Toulouse,,,https://www.accorhotels.com/fr/hotel-9912-ibis-styles-toulouse-centre-capitole/index.shtml,43.6051689,1.4431204
+2444345570,node,Villa du Taur,hotel,Toulouse,,,https://www.villadutaur.com/fr,43.6076846,1.4421319
+2444345598,node,La Sen,restaurant,Toulouse,,,,43.6060623,1.4424687
+2444345656,node,Sixty Two,restaurant,Toulouse,,,https://www.sixty-2.fr/fr,43.6076429,1.4420947
+2444345734,node,Van Lôc,restaurant,Toulouse,,,,43.6062767,1.4424173
+2444345736,node,Chez Bobonne,restaurant,Toulouse,,,https://www.chezbobonne.fr/,43.6069101,1.4423752
+2445153703,node,Hôtel Saint-Sernin,hotel,Toulouse,"2 Rue Saint-Bernard, 31000, Toulouse",31000,https://www.hotelstsernin.com/,43.6086883,1.4431658
+2445153710,node,Hope,restaurant,Toulouse,,,,43.6091799,1.4444106
+2445153711,node,Susanoo,restaurant,Toulouse,"4 Rue Charles de Rémusat, 31000, Toulouse",31000,https://www.susanoofrance.com,43.605281,1.4438241
+2445153715,node,Jiao Zi Guan,restaurant,Toulouse,,,https://jiaoziguan.fr,43.6071241,1.4450382
+2445153724,node,Chez Marco,restaurant,Toulouse,,,,43.607359,1.4450797
+2445153727,node,Pizzeria Bambino,restaurant,Toulouse,,,https://www.pizzeria-bambino-toulouse.com/,43.6073076,1.445076
+2445585725,node,An Nam,restaurant,Toulouse,,,,43.6052613,1.4422525
+2446506282,node,Le Parisien,restaurant,Toulouse,,,https://restaurantleparisien.com/,43.6078,1.4460982
+2446506381,node,Aiko,restaurant,Toulouse,,,https://www.aikobistrot.com/,43.6054001,1.4418762
+2447719382,node,Chez Nòu,restaurant,Toulouse,,,,43.6051604,1.4464609
+2447719383,node,Oh la vache !,restaurant,Toulouse,,,https://ohlavache.fr/,43.6056745,1.4475155
+2447719385,node,Bellocq,restaurant,Toulouse,,,https://www.bellocq.eu/,43.6067738,1.4469956
+2447719397,node,Sashimi Food,restaurant,Toulouse,,,https://sashimifood.my.canva.site/,43.6075659,1.4463166
+2447719410,node,Hinodé,restaurant,Toulouse,,,https://www.restaurant-hinode.fr/,43.6064872,1.4473507
+2447719412,node,Hôtel Wilson Square,hotel,Toulouse,,,,43.6061369,1.4475396
+2447719415,node,Japoyaki,restaurant,Toulouse,,,,43.6062039,1.4475445
+2447719424,node,The Green Tiger,restaurant,Toulouse,,,,43.6063221,1.4475438
+2447719425,node,Prima bonheur,restaurant,Toulouse,,,,43.6060979,1.4471308
+2447719430,node,Les Burgers de Colette,restaurant,Toulouse,,,https://www.lesburgersdecolette.fr/,43.6068553,1.4471458
+2447719432,node,Jiao Zi Guan,restaurant,Toulouse,13 Rue du Rempart Villeneuve,,https://jiaoziguan.fr,43.6058117,1.4463101
+2447719438,node,Maison Samaran,restaurant,Toulouse,,,https://maisonsamaran.fr/points-de-vente/victor-hugo-toulouse/#la-cantine,43.6065489,1.4470368
+2447719448,node,J'Go,restaurant,Toulouse,,,https://lejgo.com/toulouse,43.6063722,1.447325
+2447719465,node,Nice Time,restaurant,Toulouse,,,,43.6068887,1.4471078
+2450406562,node,Aparthotel Citadines,hotel,Toulouse,,,https://www.discoverasr.com/en/citadines/france/citadines-wilson-toulouse,43.6066349,1.448187
+2450406564,node,Asia Village,restaurant,Toulouse,,,http://www.asiavillage.fr,43.6082101,1.4468227
+2450406575,node,Chez Jeannot,restaurant,Toulouse,"1 Rue de Bayard, 31000, Toulouse",31000,https://www.chezjeannot-restaurant.fr/,43.6082932,1.446519
+2450406595,node,Hôtel aux Ambassadeurs,hotel,Toulouse,68 Rue de Bayard,,https://www.hotel-des-ambassadeurs.com/,43.6108151,1.4516526
+2450406602,node,La Meunière,restaurant,Toulouse,,,,43.6111842,1.4518064
+2450406604,node,Le 30 étoiles,hotel,Toulouse,,,http://www.le30etoiles.com/,43.6103424,1.450739
+2450406605,node,Le Colombier,restaurant,Toulouse,,,,43.6086274,1.4475844
+2450406606,node,Manara,restaurant,Toulouse,,,,43.6103316,1.4506821
+2450406613,node,Meet The Meat,restaurant,Toulouse,,,https://www.meetthemeat.fr/,43.6072944,1.4473771
+2450406628,node,Le Victoria,restaurant,Toulouse,,,,43.6110791,1.4520718
+2450406635,node,Privilege Appart-Hotel Clément Ader,hotel,Toulouse,,,https://www.apparthotel-clementader.fr/,43.6094637,1.4486585
+2450406636,node,Bistro Régent,restaurant,Toulouse,,,https://www.bistro-regent.fr,43.6069811,1.447693
+2450406639,node,Sakuraya,restaurant,Toulouse,,,https://www.sakuraya.fr/,43.6082435,1.4468837
+2450406655,node,The Kanteen Restaurant,restaurant,Toulouse,,,https://www.thekanteen.fr/,43.607056,1.4476319
+2450406701,node,Sushi N Wok,restaurant,Toulouse,,,,43.6094113,1.4494532
+2457312595,node,Chez Tran,restaurant,Toulouse,,,http://www.cheztran.com,43.6043005,1.4376829
+2457312872,node,Chez Nicô,restaurant,Toulouse,,,,43.6043962,1.4387149
+2457312876,node,S com Saj,restaurant,Toulouse,,,http://scomsaj.com/,43.6046307,1.4410933
+2457772055,node,Le Chalet,restaurant,Toulouse,,,,43.6041788,1.4427683
+2457772059,node,Le Père Léon,hotel,Toulouse,"2, 31000, Toulouse",31000,https://www.pere-leon.com/toulouse/hotel/chambres/reservation,43.6006102,1.4439093
+2457772064,node,Les Arcades,restaurant,Toulouse,,,http://brasserie-arcades.com,43.6045477,1.4426837
+2457772065,node,Les Illustres,restaurant,Toulouse,9,,https://www.les-illustres.fr/,43.6040831,1.4427886
+2458144508,node,Viko House,restaurant,Toulouse,"71 Rue de la Pomme, 31000, Toulouse",31000,,43.6037728,1.4444721
+2459884569,node,Chợ Vỉa Hè,restaurant,Toulouse,,,https://www.choviahe.fr/,43.5997796,1.4416951
+2459884617,node,Le Bouillon Capitole,restaurant,Toulouse,"1 Place du Capitole, 31000",31000,https://www.bouilloncapitole.fr/fr/,43.6038308,1.4441688
+2459884741,node,Cucina Semplice,restaurant,Toulouse,,,https://www.cucinasemplice.fr/,43.5998084,1.4408174
+2459884949,node,Hôtel des Beaux Arts,hotel,Toulouse,,,https://www.hoteldesbeauxarts.com,43.5997969,1.4406425
+2459884968,node,Le Refuge Saint Rome,restaurant,Toulouse,"36 Rue Saint-Rome, 31000, Toulouse",31000,,43.6030792,1.4435306
+2459885026,node,Les Fines Gueules,restaurant,Toulouse,,,,43.5988382,1.4454541
+2459885033,node,La Cendrée,restaurant,Toulouse,,,https://www.lacendree.com/,43.5998656,1.4452018
+2459885060,node,Curry Café,restaurant,Toulouse,"22 Rue Saint-Rome, 31000, Toulouse",31000,https://currycafetoulouse.com/,43.602466,1.4436201
+2459885077,node,L'Atrium Restaurant,restaurant,Toulouse,,,https://restaurantatrium.fr/,43.6036763,1.4426685
+2459885084,node,Le Maharaja,restaurant,Toulouse,,,https://www.maharajatoulouse.fr/,43.6016474,1.4408393
+2459885121,node,L'Instinct,restaurant,Toulouse,,,,43.5951941,1.4443383
+2459885370,node,Yoshi,restaurant,Toulouse,,,http://www.sushiyoshi.fr/,43.6006276,1.4455006
+2459885495,node,Mizuki Ramen,restaurant,Toulouse,,,https://mizuki-toulouse.fr/,43.6022241,1.4411311
+2460246687,node,La Cuisine de Kiné,restaurant,Toulouse,,,,43.6100979,1.4390798
+2460246697,node,La Perse Restaurant,restaurant,Toulouse,4 Place Arnaud Bernard,,https://la-perse-restaurant-toulouse.fr/,43.6107557,1.4388536
+2460954112,node,Boli Cafe,restaurant,Toulouse,,,,43.6034838,1.4421463
+2460954119,node,Quán Phở 83,restaurant,Toulouse,,,,43.6004479,1.4407618
+2460954128,node,Le Semiramis,restaurant,Toulouse,31000,31000,https://restaurant-semiramis.com/,43.6008538,1.4405713
+2460954133,node,Mille et une Pâtes,restaurant,Toulouse,,,https://www.1001-pates.com/,43.6034627,1.4418778
+2460954162,node,Yūjō Ramen,restaurant,Toulouse,,,https://www.yujoramen.com/,43.6037058,1.4423289
+2462248724,node,Le Safran,restaurant,Toulouse,,,http://lahcen.idouakass.free.fr/,43.6004904,1.442564
+2463356511,node,Byblos,restaurant,Toulouse,6 Place du Président Wilson,,,43.6043798,1.4470986
+2463356558,node,La Belle Verte,restaurant,Toulouse,"50 Rue d'Aubuisson, 31000, Toulouse",31000,https://labellevertebio.com/,43.6029505,1.453813
+2463356564,node,Les filous,restaurant,Toulouse,"18 Rue d'Aubuisson, 31000",31000,https://les-filous.fr/,43.6036011,1.4518204
+2463356605,node,Poké Lab,restaurant,Toulouse,,,https://www.pokelab.fr/,43.6051361,1.44821
+2464788561,node,La Belle Saison,restaurant,Toulouse,"5 Rue du Puits-Vert, 31000",31000,,43.6018667,1.4440967
+2464788564,node,Riviera Tolosa,restaurant,Toulouse,12 Place de la Daurade,,,43.6018381,1.4394453
+2464788568,node,Le Rohtang Pass,restaurant,Toulouse,,,,43.6024255,1.4439014
+2464788569,node,Guapito,restaurant,Toulouse,,,https://cheri-guapito.fr/,43.6022017,1.444706
+2464788570,node,Miam Mian,restaurant,Toulouse,,,https://miam-miam-toulouse.eatbu.com,43.6021368,1.4405752
+2464788571,node,L'Air de Famille,restaurant,Toulouse,"6 Rue Jules Chalande, 31000, Toulouse",31000,https://lairdefamilletoulouse.wordpress.com/,43.6022329,1.4442298
+2464788593,node,Zen-Saï,restaurant,Toulouse,,,https://www.zen-sai.com/,43.6017724,1.4402361
+2465993954,node,Au Gascon,restaurant,Toulouse,,,https://www.restaurant-augascon-toulouse.fr/,43.6041874,1.4415887
+2465993956,node,Ministry of Crabs,restaurant,Toulouse,,,,43.603014,1.4427448
+2465993964,node,Le Bombay,restaurant,Toulouse,,,https://lebombaytoulouse.fr/,43.6031237,1.4431133
+2465993971,node,Caminito,restaurant,Toulouse,"3 Rue des Gestes, 31000, Toulouse",31000,https://caminito-toulouse.fr/,43.6031014,1.44233
+2465994034,node,La Côte de Boeuf,restaurant,Toulouse,,,https://lacotedeboeuftoulouse.fr/,43.6029371,1.4427576
+2465994038,node,La Mare Aux Canards,restaurant,Toulouse,,,http://www.mare-aux-canards.com/,43.6029466,1.4429008
+2465994043,node,Le Zinc,restaurant,Toulouse,,,http://lamanufacturetoulouse.fr/,43.6040984,1.4364001
+2465994048,node,La Rajasthani,restaurant,Toulouse,,,https://www.larajasthani.fr/,43.6029525,1.4426
+2465994066,node,Amore Mia,restaurant,Toulouse,,,https://amore-mia.fr/,43.6016198,1.445061
+2465994087,node,Juguem,restaurant,Toulouse,"6 bis Impasse Baour-Lormian, 31000, Toulouse",31000,https://www.juguem.fr/,43.6027519,1.4441086
+2465994198,node,Liquides-resto à boire,restaurant,Toulouse,,,,43.6030031,1.4423584
+2471591443,node,Troika Royale,restaurant,Toulouse,,,https://www.troika-royale.fr/,43.5987336,1.4440916
+2471591446,node,J&K Sushi/Thaï,restaurant,Toulouse,,,,43.5986948,1.4440947
+2471591455,node,SAJ & Co.,restaurant,Toulouse,,,,43.5994014,1.4438926
+2474616470,node,Comptoir Gueuleton,restaurant,Toulouse,"9 Rue Jacques Cujas, Toulouse",,,43.6013435,1.4412499
+2474616501,node,Hôtel des Arts,hotel,Toulouse,,,https://www.hoteldesartstoulouse.fr/,43.601585,1.4471901
+2474616525,node,Le Monica,restaurant,Toulouse,5 Rue Jacques Cujas,,http://www.le-monica.com/,43.601342,1.441008
+2478393286,node,La Cabane M. Georges,restaurant,Toulouse,,,,43.6020555,1.4481266
+2478393299,node,Crêperie Saint-Georges,restaurant,Toulouse,,,,43.6019159,1.4473292
+2478393322,node,Café Maurice,restaurant,Toulouse,,,,43.6019496,1.4472475
+2478393337,node,Coup de Bambou,restaurant,Toulouse,,,,43.6021902,1.4472082
+2478393365,node,M. Georges,restaurant,Toulouse,,,https://www.monsieurgeorges.fr/,43.6018581,1.4481201
+2478393383,node,Prima Fabbrica,restaurant,Toulouse,,,https://www.primafabbrica.fr/,43.60238,1.4475031
+2478393405,node,Le Rajnagar,restaurant,Toulouse,"4 Rue Alexandre Fourtanier, 31000, Toulouse",31000,,43.6019383,1.4482927
+2478393501,node,Marcello Saint-Georges,restaurant,Toulouse,,,https://restaurant-marcello.com,43.6019742,1.4471705
+2485473989,node,Le Ghymnos,restaurant,Toulouse,,,,43.6561742,1.477954
+2485473994,node,Vin Léa,restaurant,Toulouse,,,,43.6555065,1.4789758
+2496079565,node,Pizzeria Mongelli,restaurant,Toulouse,4 Place de la Mairie,,https://www.pizza-mongelli.com/,43.5852978,1.5294136
+2510509605,node,Crêperie Saint-Georges,restaurant,Toulouse,,,,43.6021229,1.4471802
+2515629027,node,La Compagnie Française,restaurant,Toulouse,,,https://www.la-compagnie-francaise.fr/,43.6079494,1.4458548
+2525414016,node,Aux Pieds Sous La Table,restaurant,Toulouse,,,https://auxpiedssouslatable.fr,43.6096207,1.4392415
+2525414025,node,Chez Hong,restaurant,Toulouse,,,,43.6098869,1.43923
+2525414054,node,Grand Père,restaurant,Toulouse,,,,43.6106862,1.4395101
+2525414074,node,La Kasbah,restaurant,Toulouse,,,https://www.lakasbah.fr,43.6094211,1.4394585
+2525414092,node,Le Shahrazade,restaurant,Toulouse,,,,43.6109149,1.4392905
+2525414103,node,Yoko Sushi,restaurant,Toulouse,,,https://www.yokosushi.fr/#/,43.610621,1.4346774
+2534829582,node,L’Assemblée Gourmande,restaurant,Toulouse,"8 Rue Louis Courtois de Viçose, 31100, Toulouse",31100,https://www.restaurant-ag-toulouse.fr/,43.5704335,1.4198535
+2547949097,node,Pizz'Art,restaurant,Toulouse,,,https://pizz-art.net/,43.6224687,1.4586245
+2548426344,node,,restaurant,Toulouse,,,,43.6980307,1.2200989
+2554000383,node,Crêpe Touch,restaurant,Toulouse,,,https://restaurants.crepetouch.com/blagnac/,43.6445427,1.3726109
+2554000386,node,Tokami,restaurant,Toulouse,,,https://tokami-blagnac.com/,43.6443136,1.3724265
+2554000387,node,Paradis du fruit,restaurant,Toulouse,,,,43.6443763,1.3723695
+2557711690,node,Pachinee Thaï Street Food,restaurant,Toulouse,,,https://www.facebook.com/Pachinee.Thai.Street.Food,43.6081115,1.4490689
+2562954708,node,La Villa des Chimères,restaurant,Toulouse,12 Rue du Pont Faure,,,43.6931583,1.4296141
+2564931332,node,Lee In,restaurant,Toulouse,,,,43.5840961,1.3761847
+2578303612,node,La Sandia,restaurant,Toulouse,"8 Rue Jean Palaprat, 31000, Toulouse",31000,,43.6048289,1.4523793
+2583915963,node,Le Massou Country Club,hotel,Toulouse,,,,43.575513,1.7463403
+2583915964,node,Le Massou Country Club,restaurant,Toulouse,,,,43.5755503,1.7461956
+2585117103,node,,restaurant,Toulouse,,,,43.529218,1.759079
+2608405387,node,Beaux Ailes Naan,restaurant,Toulouse,,,,43.6697674,1.3684661
+2611276431,node,Le Vacarmes,restaurant,Toulouse,,,,43.5977905,1.4442151
+2613737712,node,L'Ardoise,restaurant,Toulouse,,,https://lardoisebeauzelle.sitew.fr/,43.6698149,1.3674658
+2638002169,node,Zenitude,hotel,Toulouse,"Chemin des Courses, Toulouse",,,43.5915687,1.4030008
+2639601620,node,,restaurant,Toulouse,,,,43.6820773,1.4214124
+2641175083,node,Hôtel Le Prado,hotel,Toulouse,,,,43.5887502,1.4106098
+2657352659,node,Ibis Toulouse Centre,hotel,Toulouse,"2 Rue Claire Pauilhac, 31000, Toulouse",31000,https://all.accor.com/hotel/1429/index.fr.shtml,43.6103281,1.4461913
+2661115274,node,Garden Hôtel,hotel,Toulouse,"81 Boulevard Gabriel Koenigs, 31300, Toulouse",31300,,43.5966031,1.4194715
+2668199583,node,Mercure Toulouse Saint-Georges,hotel,Toulouse,,,http://www.mercure.com/gb/hotel-0370-mercure-toulouse-saint-georges/,43.6032957,1.4483403
+2670551164,node,Italian's Pizza,restaurant,Toulouse,,,http://www.italianspizza.fr/,43.5844778,1.3765434
+2670561095,node,Vietnam delices,restaurant,Toulouse,"50 Avenue de Lardenne, 31100, Toulouse",31100,,43.5930315,1.4032305
+2672617947,node,Hôtel Ibis Budget,hotel,Toulouse,,,,43.6262275,1.3831657
+2672617954,node,ibis Toulouse Blagnac Aéroport,hotel,Toulouse,"80 Avenue du Parc, 31700, Blagnac",31700,https://www.accorhotels.com/de/hotel-0798-ibis-toulouse-blagnac-aeroport/index.shtml,43.6281094,1.3843389
+2672617957,node,Courtepaille,restaurant,Toulouse,,,,43.628082,1.384559
+2679141674,node,Les 4 petits cochons,restaurant,Toulouse,"Avenue de Lardenne, Toulouse",,,43.5922292,1.3975685
+2679141682,node,Aux 3 Elephants,restaurant,Toulouse,,,,43.5904143,1.3807275
+2696539495,node,Le Noma,restaurant,Toulouse,,,https://www.lenoma.fr/,43.6306461,1.432512
+2701205526,node,Au Goût des Autres,restaurant,Toulouse,"3 Rue de Pierregrat, 31450",31450,https://www.restaurantaugoutdesautres.fr/,43.5060396,1.5563605
+2702860943,node,Restaurant de l'Ayguette,restaurant,Toulouse,"Chemin de la Fronde, Toulouse",,,43.5865119,1.3946992
+2741581611,node,Kobe Sushi,restaurant,Toulouse,"265 Place du Lauragais, 31670, Labège",31670,https://kobe-sushi-labege.eatbu.com,43.5493492,1.5115236
+2742267394,node,La Taqueria,restaurant,Toulouse,,,https://lataqueriatoulouse.fr,43.6062814,1.4509309
+2799416140,node,PY-R,restaurant,Toulouse,"19 Descente de la Halle Aux Poissons, 31000, Toulouse",31000,https://www.py-r.com,43.5994814,1.4410164
+2810775014,node,Kiyoshi,restaurant,Toulouse,"10 Rue Jean Palaprat, 31000, Toulouse",31000,,43.6049421,1.4523746
+2814977193,node,Les Etoiles d'Asie,restaurant,Toulouse,"Avenue du Mirail, Toulouse",,,43.5669492,1.3926137
+2820152912,node,Les Jardins de la Cépière,restaurant,Toulouse,"30 Chemin des Courses, 31100, Toulouse",31100,https://www.lesjardinsdelacepiere.fr/,43.5923035,1.4045069
+2820152913,node,L’Hippi’curien,restaurant,Toulouse,"62 Chemin des Courses, 31000, Toulouse",31000,,43.5910155,1.4024852
+2826970328,node,Woézon,restaurant,Toulouse,"38 Avenue Léon Blum, 31500",31500,,43.6143812,1.4639141
+2840136707,node,La Table de Launac,restaurant,Toulouse,,,https://latabledelaunac.wordpress.com/,43.7431836,1.1806648
+2872061458,node,Marmites des îles,restaurant,Toulouse,,,,43.6082012,1.3833892
+2872082167,node,Kimato Sushi,restaurant,Toulouse,,,,43.6077285,1.3957192
+2927533266,node,Le Ksar,restaurant,Toulouse,"7 Rue Perchepinte, 31000",31000,http://www.leksar.fr/,43.597137,1.4477916
+2948253439,node,L'organdi,restaurant,Toulouse,24 Route de Toulouse,,,43.6506639,1.3328879
+2948265895,node,Le Goût des Otres,restaurant,Toulouse,,,,43.6025357,1.3213492
+2953065965,node,Le Petit Prince,restaurant,Toulouse,,,,43.4775437,1.74408
+2969315016,node,Restaurant l'Empreinte,restaurant,Toulouse,"52 Avenue de Gameville, 31650, Saint-Orens-de-Gameville",31650,,43.5513036,1.5342852
+2993590454,node,Côté Sushi,restaurant,Toulouse,,,https://cotesushi.com/restaurants/86,43.6041165,1.449992
+2993590465,node,Little New-York,restaurant,Toulouse,,,,43.603497,1.4492129
+2993590468,node,El Pescador,restaurant,Toulouse,,,,43.6047419,1.4489242
+2993590507,node,Bûn Viêt,restaurant,Toulouse,10 Place Occitane,,,43.6034979,1.4491427
+2993590519,node,Las Tapas Locas,restaurant,Toulouse,"2 Rue des Trois Journées, 31000",31000,,43.6047373,1.449028
+2993590527,node,Chéri Chéri,restaurant,Toulouse,"3 Rue Labéda, 31000",31000,https://www.cheri-cheri.fr/,43.6043249,1.4491653
+2994919618,node,Antica Salumeria,restaurant,Toulouse,,,,43.5998361,1.4470679
+2994928134,node,Standard,restaurant,Toulouse,,,,43.6003615,1.4497196
+2994928143,node,Macarèl,restaurant,Toulouse,,,,43.6002843,1.4495414
+2994928155,node,Garçon Sauvage,restaurant,Toulouse,,,,43.6003373,1.4496591
+2994928219,node,La Gazette,restaurant,Toulouse,,,,43.6022768,1.4508762
+3044160133,node,New Dehli,restaurant,Toulouse,,,https://newdelhi-toulouse.com/,43.6048237,1.4509603
+3055549230,node,Le Boulis,restaurant,Toulouse,"142 Rue de Négreneys, 31200, Toulouse",31200,https://restaurantleboulis.com/,43.6248807,1.4430336
+3084650955,node,Le Néphilim,restaurant,Toulouse,,,,43.5177394,1.5465357
+3098486550,node,Le Perche Pinte,restaurant,Toulouse,,,https://leperchepinte.eatbu.com/,43.5971352,1.448104
+3110964785,node,Le Bistroquet à la Une,restaurant,Toulouse,"10 Rue Labéda, 31000, Toulouse",31000,https://alaunefamily.com/bistroquet-toulouse/,43.6046123,1.4489167
+3113079885,node,Chez Loustic,restaurant,Toulouse,,,,43.598698,1.4329073
+3125413452,node,Le Saint-Sauveur,restaurant,Toulouse,,,,43.7496373,1.3999632
+3125457117,node,La Petite Italie,restaurant,Toulouse,18 Avenue de la Gloire,,https://petiteitalie.fr,43.605467,1.4589794
+3150818840,node,Le Marsiglia,restaurant,Toulouse,,,,43.5759856,1.4014819
+3172252364,node,Ristorante Del Arte,restaurant,Toulouse,"31670, Labège",31670,https://www.delarte.fr/restaurant-italien-pizzeria-toulouse-labege.html,43.5389431,1.5122361
+3217982874,node,Au Temps Passé,restaurant,Toulouse,,,,43.6099684,1.2838762
+3323634262,node,Ma table,restaurant,Toulouse,,,,43.3693502,1.6429307
+3340723473,node,Restaurant Loubnane,restaurant,Toulouse,,,,43.6089895,1.4501171
+3340723477,node,Escale des Saveurs,restaurant,Toulouse,,,https://www.facebook.com/escaledessaveurs,43.6100645,1.4525056
+3340723478,node,Hôtel Icare,hotel,Toulouse,,,https://www.hotelicare.com/,43.6107296,1.4525275
+3340723480,node,Hôtel d'Orsay,hotel,Toulouse,8 Boulevard de Bonrepos,,https://hotel-dorsay.com/,43.6104205,1.4526817
+3340723481,node,Hôtel Occitania,hotel,Toulouse,7 Boulevard de Bonrepos,,http://www.occitania-toulouse-matabiau.com/fr/,43.6102211,1.4527918
+3340723483,node,Le Grenier de Pépé,restaurant,Toulouse,,,https://www.legrenierdepepe.com/,43.607392,1.4478955
+3340723488,node,Supernova,restaurant,Toulouse,10 Bertrand de Born,,,43.609154,1.4510096
+3340724142,node,Malayu,restaurant,Toulouse,,,,43.6084625,1.4496309
+3355526595,node,La Cabane,restaurant,Toulouse,"37 Avenue de Grande Bretagne, 31300, Toulouse",31300,http://toulousefruitsdemer.fr/,43.5975204,1.4202754
+3379477784,node,Blanquette,restaurant,Toulouse,,,,43.5991858,1.454917
+3380009065,node,Délice Saïgon,restaurant,Toulouse,"2 Passage de Vérone, 31500, Toulouse",31500,,43.6179598,1.4549306
+3389502088,node,Les Caves de la Maréchale,restaurant,Toulouse,,,https://www.lescavesdelamarechale.com/,43.6025551,1.4441834
+3440812539,node,Chou Doux,restaurant,Toulouse,,,,43.6076371,1.4391243
+3451887408,node,Les Pins Galants,hotel,Toulouse,137 Route de Tarbes,,,43.5819642,1.3369712
+3480880126,node,B&b Hôtel Toulouse Centre,hotel,Toulouse,,,,43.6129534,1.4269128
+3481162893,node,B&b Hôtel,hotel,Toulouse,"Lotissement Futuropolis - Impasse René Mouchotte, 31500, Toulouse",31500,https://www.hotel-bb.com/fr/-/hotelByName.htm?id=4168,43.5835298,1.4937063
+3484435629,node,Marinade & limonade,restaurant,Toulouse,,,,43.601975,1.4541018
+3485328971,node,Sushi chat,restaurant,Toulouse,,,,43.6582321,1.4730159
+3491925536,node,Les Saveurs De L'inde,restaurant,Toulouse,,,,43.5828892,1.4482373
+3491925548,node,Thaï Food,restaurant,Toulouse,,,,43.5832044,1.4485387
+3493129046,node,Yeti,restaurant,Toulouse,,,,43.6044219,1.4526771
+3493129050,node,Namaste,restaurant,Toulouse,,,https://restaurantindientoulouse.com/,43.6044032,1.4518722
+3493129051,node,Tommy's City Diner,restaurant,Toulouse,,,https://www.tommys-cafe.com/news-tommys-city-diner-toulouse/,43.6048274,1.449953
+3493476284,node,Le Bateau Lavoir,restaurant,Toulouse,,,,43.602269,1.4383702
+3493476287,node,El Chivito,restaurant,Toulouse,,,https://elchivito.fr/,43.6022863,1.4380639
+3504725005,node,La Toulousaine de Restauration,restaurant,Toulouse,,,,43.6004296,1.3637657
+3518152055,node,Le Saint-Simon,restaurant,Toulouse,,,https://www.lesaintsimon.fr/,43.5579284,1.3793035
+3518152056,node,Le Viet Nam,restaurant,Toulouse,,,,43.5593889,1.3770419
+3519552229,node,L'As 2 Pizz,restaurant,Toulouse,"151 Route de Toulouse, 31270, Cugnaux",31270,https://www.las2pizz.fr/,43.5581583,1.3652627
+3542452446,node,La Pizzeria,restaurant,Toulouse,,,https://www.lapizzeria31.fr/,43.6049132,1.45739
+3553704056,node,Gruppomino,restaurant,Toulouse,,,https://www.gruppomimo.com/nos-restaurants/gruppomimo-toulouse,43.6073887,1.4465939
+3569221534,node,Vents d'Est,restaurant,Toulouse,,,https://www.restaurant-ventsdest.fr/,43.6044103,1.452255
+3594991727,node,La Fabric,restaurant,Toulouse,"9 Place du Capitole, 31000, Toulouse",31000,https://lafabrictoulousecptle.wordpress.com,43.603921,1.4428256
+3595010787,node,La soupe au caillou,restaurant,Toulouse,"15 Rue Charles Gounod, 31200, Toulouse",31200,http://lasoupeaucaillou.fr/,43.6137858,1.4241974
+3657345848,node,Le Bidule,restaurant,Toulouse,"30 Avenue Jean Dagnaux, 31200",31200,https://brasserie-lebidule.com/,43.6165033,1.4302974
+3669185803,node,Shin-Ya Ramen,restaurant,Toulouse,68 Rue Lancefoc,,https://shinyaramen.fr/,43.6093349,1.4328014
+3669185804,node,El Dayaa,restaurant,Toulouse,,,https://eldayaa-toulouse.fr/,43.6099195,1.4341512
+3669185806,node,Spritzza,restaurant,Toulouse,43 Boulevard Lascrosses,,,43.6095379,1.432874
+3669185810,node,shin ya ramen,restaurant,Toulouse,,,,43.6092977,1.4328045
+3693450320,node,Flunch,restaurant,Toulouse,"36-54 Route de Bayonne, 31300, Toulouse",31300,https://www.flunch.fr/restaurant/toulouse/flunch-toulouse-purpan/,43.6094703,1.3941669
+3703576391,node,L'Hôtellerie du Lac,restaurant,Toulouse,,,,43.4393731,2.0198221
+3703576392,node,L'Hôtellerie du Lac,hotel,Toulouse,"Avenue Paul Riquet, 31250, Revel",31250,https://www.hotel-restaurant-saint-ferreol.com,43.4392699,2.0197497
+3722767137,node,Saint-Jacques,restaurant,Toulouse,,,,43.530529,1.5347785
+3751077571,node,Caracas,restaurant,Toulouse,9 Avenue de Castres,,https://caracas-toulouse.com/,43.6008134,1.4688091
+3751077573,node,Mazzolina,restaurant,Toulouse,,,https://mazzolina.fr,43.6044911,1.451106
+3751077579,node,Les Jardins d'Elyssa,restaurant,Toulouse,,,,43.6044948,1.4513342
+3751077603,node,La Galinette,restaurant,Toulouse,,,https://www.galinette-rotisserie.fr,43.6006119,1.4682553
+3752239652,node,Le Faubourg,restaurant,Toulouse,"17 Rue Paul Charrier, 31100, Toulouse",31100,http://www.lefaubourg.fr/,43.5540832,1.3954304
+3752239653,node,Les Turres,restaurant,Toulouse,,,,43.5848883,1.4161833
+3753343385,node,La Table d'Emile & Fernand,restaurant,Toulouse,,,https://www.latabledemiletoulouse.fr/,43.6581542,1.4319907
+3760244344,node,L'Emboucaneur,restaurant,Toulouse,,,https://lemboucaneur-toulouse.eatbu.com/,43.5962517,1.4441738
+3876791193,node,La Pecora Nera,restaurant,Toulouse,4 Rue Valentina Terechkova,,https://commande-en-ligne.laddition.com/commande-en-ligne/lapecoranera-click-and-collect,43.575707,1.4733055
+3885017084,node,L'Occitalie,restaurant,Toulouse,"7 Place Sainte-Scarbes, Toulouse",,,43.5981857,1.4489549
+3916792624,node,Cœur d'Amande,restaurant,Toulouse,,,https://www.coeur-damande.com/,43.6042233,1.4540834
+3919124732,node,La Tosca,restaurant,Toulouse,16 Rue Raymond Grimaud,,http://pizzalatosca.fr/,43.6406726,1.3735736
+3919124733,node,Léon De Bruxelles,restaurant,Toulouse,"2 Rue Raymond Grimaud, 31700, Blagnac",31700,https://restaurants.leon-de-bruxelles.fr/fr/s/moules-frites/toulouse---blagnac/64006,43.6386896,1.3756152
+3946829981,node,Mexcal,restaurant,Toulouse,"6 Rue Saint-Charles, 31000",31000,,43.6100877,1.4407841
+3961678097,node,L'atelier Pizzeria fine,restaurant,Toulouse,,,,43.4952135,1.5195057
+3968530569,node,Bistrot des Artistes,restaurant,Toulouse,,,,43.6343307,1.3867746
+4011793913,node,R02,restaurant,Toulouse,,,,43.6230247,1.3834322
+4030220689,node,Mère Grand,restaurant,Toulouse,,,https://www.mere-grand-restaurant-toulouse.fr/,43.6174278,1.4545253
+4048716508,node,Mayumi,restaurant,Toulouse,,,https://mayumi-toulouse.com/,43.5981983,1.4323901
+4069851599,node,Osmoz',restaurant,Toulouse,,,,43.6064242,1.4557007
+4078169210,node,Bier Akademie,restaurant,Toulouse,20 Route de Mondonville,,,43.6545062,1.3244408
+4143595903,node,Le Tchap,restaurant,Toulouse,,,,43.655293,1.3688301
+4143618590,node,Bodrum Grill,restaurant,Toulouse,12 Avenue d'Andromède,,,43.6553549,1.3693243
+4176305956,node,Pho Quyên,restaurant,Toulouse,,,http://www.phoquyên.com/,43.5989394,1.4428112
+4185374044,node,La Muraille d'Or,restaurant,Toulouse,,,,43.6091137,1.4392572
+4187177911,node,Palais de L'inde,restaurant,Toulouse,"133 Avenue du Sers, 31140, Saint-Alban",31140,,43.6871269,1.4059775
+4200305807,node,Best Western Hotel Innes,hotel,Toulouse,"13 bis Rue Matabiau, 31000, Toulouse",31000,https://hotel-innes.com/de/,43.6106727,1.4469842
+4232501976,node,Le 4uatre,restaurant,Toulouse,4 Avenue Crampel,,,43.5836065,1.4509009
+4237846556,node,M&S Pizzeria,restaurant,Toulouse,"7 Place Commerciale de Jolimont, 31500, Toulouse",31500,http://mets-pizzeria.fr/,43.6135015,1.4609266
+4250506436,node,Le Comptoir du Rex,restaurant,Toulouse,,,http://www.lecomptoirdurex.com/fr/,43.6119239,1.4383727
+4255203480,node,La Brasserie du Carré Vert,restaurant,Toulouse,,,https://www.brasserie-du-carre-vert.fr/,43.6110904,1.3057014
+4266711792,node,Le Rond de Serviette,restaurant,Toulouse,"14 Place Olivier, 31300, Toulouse",31300,https://www.leronddeserviette-rivegauche.fr/,43.598608,1.434369
+4285279179,node,Le Refuge des Copains,restaurant,Toulouse,,,,43.6122921,1.4386086
+4285279591,node,Chez Jean & Gabi,restaurant,Toulouse,,,https://www.chezjeanetgabi-restaurant.com/,43.6148959,1.4377944
+4285279592,node,Les Fortes Têtes,restaurant,Toulouse,,,https://lesfortestetes.com/,43.6119463,1.4387054
+4285279605,node,Au cœur de Tunis,restaurant,Toulouse,,,,43.6167441,1.4372477
+4285856589,node,Botna,restaurant,Toulouse,,,https://botna.fr/botna-beauzelle/,43.66023,1.3691868
+4314907757,node,Hortus,restaurant,Toulouse,"17 Rue Croix-Baragnon, 31000",31000,,43.5996043,1.4466608
+4318691178,node,Nem Viet,restaurant,Toulouse,,,,43.6496073,1.48468
+4318691181,node,La Trattoria,restaurant,Toulouse,,,,43.6494914,1.4850521
+4329279134,node,La Criée des Gourmands,restaurant,Toulouse,,,https://www.la-criee-des-gourmands.fr/,43.6246112,1.4751491
+4335503353,node,Chez David,restaurant,Toulouse,,,https://lecafedesgarcons.com,43.5514062,1.4700937
+4347753389,node,Bistrot Régent,restaurant,Toulouse,"Rue d'Ariane, 31240, L'Union",31240,,43.6393481,1.501556
+4361346558,node,Llum,restaurant,Toulouse,"7 Rue Saint-Léon, 31400, Toulouse",31400,https://www.llum-toulouse.fr/,43.5853078,1.444863
+4390105077,node,,restaurant,Toulouse,,,,43.7876099,1.3456931
+4391765186,node,"La Rosa Negra ""Côté Barcelone""",restaurant,Toulouse,,,http://www.larosanegra.fr/,43.6069138,1.4303011
+4395358479,node,La Camarétoise,restaurant,Toulouse,"28 Avenue François Mitterrand, 31290, Villefranche-de-Lauragais",31290,https://www.facebook.com/creperie31,43.3985486,1.7091013
+4395358480,node,Bangkok Station,restaurant,Toulouse,"28 Avenue François Mitterrand, 31290, Villefranche-de-Lauragais",31290,,43.3984581,1.7088748
+4395362283,node,L'Estanquet,restaurant,Toulouse,,,,43.3917402,1.6920317
+4399674556,node,Mona Pizza,restaurant,Toulouse,"9 Rue Louise Weiss, 31200, Toulouse",31200,https://www.monapizza.fr/,43.6398054,1.4528887
+4405518167,node,Cap Land,restaurant,Toulouse,"14 Place Marnac, 31520",31520,https://restaurant-capland.fr,43.5469713,1.478103
+4405674845,node,Cantine,restaurant,Toulouse,,,,43.546377,1.4756402
+4405697374,node,Trattoria Modigliani,restaurant,Toulouse,Place Marnac,,,43.5476686,1.4780002
+4405697381,node,Sushi et Matcha,restaurant,Toulouse,,,,43.5472642,1.4774895
+4406101768,node,L'Entre Vins... et Tapas,restaurant,Toulouse,,,,43.4569616,2.0027074
+4418074215,node,Au Vieux Pékin,restaurant,Toulouse,,,http://www.auvieuxpekin.fr,43.6248311,1.4343653
+4418074216,node,Le Patio de Lalande,restaurant,Toulouse,,,,43.6471853,1.432987
+4418074223,node,Lady Sushi,restaurant,Toulouse,"430 Route/Avenue de Fronton, 31200",31200,https://lady-sushi.fr/,43.6633082,1.4310025
+4418074231,node,Mix food,restaurant,Toulouse,,,,43.620219,1.436092
+4418074232,node,So Delice,restaurant,Toulouse,,,,43.655631,1.4322829
+4418074239,node,Yankee Grill,restaurant,Toulouse,,,,43.6573589,1.4321177
+4418075038,node,À l'Ardoise,restaurant,Toulouse,,,https://www.alardoise-restaurant.fr/,43.6637075,1.4306108
+4429455932,node,Aozai,restaurant,Toulouse,,,,43.6044565,1.4056292
+4466549918,node,Hôtel Eurocentre Toulouse,hotel,Toulouse,,,http://www.hotel-eurocentre.com,43.7695281,1.3619546
+4466549920,node,,restaurant,Toulouse,,,,43.7695509,1.3612693
+4485277430,node,In Pala Mia,restaurant,Toulouse,,,,43.6890254,1.4016063
+4502461822,node,Croq'Vert,restaurant,Toulouse,"1 Rue de l'Ourmède, 31620, Castelnau d'Estrétefonds",31620,,43.7652075,1.3698685
+4517083503,node,Baba canteen,restaurant,Toulouse,,,https://babacanteen.com/,43.5987413,1.441798
+4549473418,node,Le Rest'Ô Bar,restaurant,Toulouse,,,,43.7720542,1.2935549
+4558490911,node,O Seng Hoang,restaurant,Toulouse,10b Rue Gambetta,,,43.7708243,1.2942461
+4559914522,node,SanWok,restaurant,Toulouse,,,,43.7831608,1.4045209
+4563855153,node,,restaurant,Toulouse,,,,43.6777384,1.3637099
+4568539422,node,Solaneko,restaurant,Toulouse,,,https://solaneko.fr/,43.5986671,1.4330956
+4573426667,node,Pizza Pazza,restaurant,Toulouse,"32a Rue Gambetta, 31330, Grenade",31330,,43.7718726,1.2933701
+4640481630,node,Pizza pomodoro,restaurant,Toulouse,,,,43.7720186,1.2934356
+4644365690,node,Tête en l’air,restaurant,Toulouse,,,https://restaurant-tetenlair.com/,43.6170968,1.4361936
+4659829473,node,Les Flots Du Sud,restaurant,Toulouse,"2 Rue des Violettes, 31270, Villeneuve-Tolosane",31270,,43.526821,1.3405444
+4674458994,node,Table des Saveurs,restaurant,Toulouse,"6 Rue des Artisans, 31140, Pechbonnieu",31140,,43.7152297,1.4481961
+4683602912,node,Mami-Wata,restaurant,Toulouse,"25 Rue Héliot, 31000, Toulouse",31000,https://mami-wata.com/,43.6080847,1.4499211
+4703955392,node,Chez Ines,restaurant,Toulouse,,,https://restaurant-toulouse-chez-ines.fr/,43.6003755,1.4548627
+4715398191,node,Il Forno Di Mama,restaurant,Toulouse,,,,43.6581076,1.4815258
+4730448041,node,Chez riz,restaurant,Toulouse,"45 Rue Saint-Charles, 31000, Toulouse",31000,,43.61006,1.4424182
+4734019310,node,Hôtel Resid'Price,hotel,Toulouse,"2 Rue de Gascogne, 31330, Merville",31330,,43.7202811,1.3267282
+4741356604,node,LA COQUILLE,restaurant,Toulouse,,,,43.4586554,2.0052262
+4741361161,node,Le baccarat,restaurant,Toulouse,,,,43.4600156,2.0026499
+4757978772,node,Villa Léopoldine,hotel,Toulouse,29 Rue Gambetta,,https://villaleopoldine.com/,43.7714501,1.2935292
+4781906274,node,Cantine Mirail,restaurant,Toulouse,,,,43.5648127,1.3895945
+4781922596,node,E-Car,restaurant,Toulouse,,,,43.566416,1.3866628
+4809424621,node,Au fil des saveurs,restaurant,Toulouse,"8 Rue des Canalets, 31270, Villeneuve-Tolosane",31270,,43.5262706,1.3429597
+4828717671,node,Le Dakar,restaurant,Toulouse,,,,43.6133577,1.4496141
+4834965026,node,,restaurant,Toulouse,31 Avenue du Président Kennedy,,,43.7660766,1.2992407
+4841774477,node,La Fabrika,restaurant,Toulouse,,,,43.8004197,1.5942705
+4852683223,node,Le Comptoir à Pizzas,restaurant,Toulouse,,,https://www.comptoirapizzas.com/,43.5968267,1.4224372
+4856973221,node,Rajpoot,restaurant,Toulouse,"37 Avenue du Parc, 31700",31700,https://rajpoot-restaurant-blagnac.eatbu.com/,43.6294586,1.3873229
+4904893502,node,Camille's,restaurant,Toulouse,,,,43.6045459,1.4529552
+4907716555,node,Leriche de Saveurs,restaurant,Toulouse,,,https://www.lerichedesaveurs.com/,43.595142,1.443349
+4921117322,node,Le Chevillard,restaurant,Toulouse,"4 Boulevard du Maréchal Leclerc, 31000",31000,https://www.chezcarmen.fr/chevillard/,43.6068954,1.4309282
+4924004835,node,Zokwezo,restaurant,Toulouse,,,https://traverseesafricaines.com/annuaires/liste-artistes/gastronomes/item/zokwezo.html,43.581714,1.4274502
+4934203722,node,MetSaveurs,restaurant,Toulouse,"84 Chemin des Landes, 31850",31850,,43.6412789,1.5541359
+4953587105,node,La Cancha,restaurant,Toulouse,"2 Impasse André Dandine, 31200, Toulouse",31200,,43.6287842,1.410775
+4955048658,node,Ramones,restaurant,Toulouse,,,https://ramonesramones.netlify.app/,43.6117585,1.4449883
+4960287960,node,Le bistrot du Port,restaurant,Toulouse,,,,43.5952398,1.4558579
+4960287961,node,Solyles,restaurant,Toulouse,"1 Place Pierre Mendes France, Toulouse",,,43.5873697,1.4618214
+4971682673,node,La Centrale,restaurant,Toulouse,,,,43.5804404,1.4295854
+5001278129,node,Le Bambou,restaurant,Toulouse,,,,43.5583258,1.365471
+5034682158,node,Unica,restaurant,Toulouse,,,,43.6208436,1.4688792
+5064181106,node,Le Saint Honest,restaurant,Toulouse,31000,31000,https://www.lesainthonest.fr/,43.6147102,1.4420843
+5075018122,node,Une Table à Deux,restaurant,Toulouse,"10 Rue de la Pleau, 31000",31000,https://www.unetableadeux.fr/,43.5968505,1.4469823
+5109989214,node,Crêperie de l'Écluse,restaurant,Toulouse,"7 Allée de Brienne, 31000, Toulouse",31000,,43.6044767,1.4340863
+5124537443,node,Fast and Pizza,restaurant,Toulouse,"1 Rue Roland Garros, 31200",31200,http://www.fastandpizza.fr/,43.6124185,1.4249672
+5140225073,node,La Pitcholina,restaurant,Toulouse,,,https://www.pitcholina.fr,43.5636295,1.5155111
+5152460332,node,Cépage Gourmand,restaurant,Toulouse,4 Rue Hector Berlioz,,https://www.cepagegourmand.fr,43.5880429,1.3587239
+5156746721,node,Bàcaro,restaurant,Toulouse,,,http://bacaro-toulouse.fr/,43.6011534,1.457286
+5177968428,node,Brasserie Les Frangins,restaurant,Toulouse,"7 Chemin des Silos, 31100, Toulouse",31100,http://www.brasserielesfrangins.fr/,43.5568392,1.4194872
+5184352224,node,Chez Fanfan Micouleau,restaurant,Toulouse,"35 Route de Toulouse, 31700, Cornebarrieu",31700,,43.6511436,1.3340489
+5191825353,node,L'Alouette,restaurant,Toulouse,,,https://lalouette.metro.rest/,43.6068224,1.4469862
+5208132521,node,Rajpoot,restaurant,Toulouse,"1 Avenue Georges Latécoère, 31700, Cornebarrieu",31700,,43.6504948,1.3351961
+5243307521,node,Gin Dalle,restaurant,Toulouse,5 Allée de la Corrèze,,,43.6076973,1.3368536
+5247264737,node,Il Popolo,restaurant,Toulouse,"12 Rue d'Ariane, 31240",31240,,43.6399315,1.502036
+5247264739,node,Les 9 Dragons,restaurant,Toulouse,"14 Rue d'Ariane, 31240",31240,,43.6401073,1.5022124
+5268535021,node,Shalizar,restaurant,Toulouse,"100 Rue Achille Viadieu, 31400",31400,https://restaurant-shalizar.com/,43.5891575,1.4445808
+5271938526,node,Eat salad,restaurant,Toulouse,"2 Rue Paul Mériel, 31000",31000,https://www.eatsalad.fr/,43.6037043,1.4481693
+5272070153,node,Le monde est à nous,restaurant,Toulouse,,,,43.5982384,1.4491162
+5297299635,node,Le Dalexo,restaurant,Toulouse,"21, 31620, Bouloc",31620,www.ledalexo.fr,43.7774125,1.4055459
+5301132131,node,L'envie des Mets,restaurant,Toulouse,"96 Avenue de la Fontasse, 31290, Villefranche-de-Lauragais",31290,https://www.facebook.com/profile.php?id=100063690635060,43.4000801,1.7144363
+5325139136,node,Les Passionnés,restaurant,Toulouse,"31B Allée de Brienne, 31000, Toulouse",31000,https://www.lespassionnes-toulouse.fr,43.6062099,1.429901
+5337107134,node,Le coin des producteurs,restaurant,Toulouse,"33 Avenue de Larrieu, Toulouse",,,43.5507877,1.4107649
+5341539490,node,Bistrot l'Esplanade,restaurant,Toulouse,4 Esplanade François Mitterrand,,,43.605589,1.3359018
+5341539492,node,Viva Mexico,restaurant,Toulouse,"3 Allée de la Corrèze, 31770, Colomiers",31770,https://www.vivamexico-colomiers.com,43.607683,1.336306
+5343664782,node,Pacific Airport,restaurant,Toulouse,2 Avenue Léonard de Vinci,,,43.6404233,1.376971
+5347807905,node,Taj Indian,restaurant,Toulouse,,,,43.6484302,1.3356133
+5347811033,node,Le Nez dans le Bocal,restaurant,Toulouse,,,,43.6481265,1.335856
+5359925784,node,La Pie Verte,restaurant,Toulouse,,,,43.6465518,1.3367039
+5405663330,node,Chez Jazz,restaurant,Toulouse,,,,43.5988956,1.4330744
+5407837821,node,Tsing Tao Île Verte,restaurant,Toulouse,,,,43.6023072,1.4137635
+5411872140,node,Fufu,restaurant,Toulouse,"32 Rue Sainte-Ursule, 31000, Toulouse",31000,https://restaurantfufu.com/,43.6028813,1.4421102
+5422302590,node,Le Paseo,restaurant,Toulouse,"8 Rue Pythagore, 31620, Villeneuve-lès-Bouloc",31620,,43.7722462,1.3829067
+5422314285,node,Le Relais Toulousain,restaurant,Toulouse,"4 Rue de l'Ourmède, 31620, Castelnau d'Estrétefonds",31620,,43.7659183,1.3684711
+5429302901,node,L'Antica,restaurant,Toulouse,"44 Rue du Général Jean Compans, 31500, Toulouse",31500,,43.6091875,1.455893
+5453941454,node,Le Cabanon,restaurant,Toulouse,,,https://le-cabanon-toulouse.fr/,43.6059819,1.4471471
+5526097102,node,L'engrenage,restaurant,Toulouse,,,https://fr-fr.facebook.com/lengrenage.balma/,43.6273435,1.4877641
+5540078316,node,Fouquet's,restaurant,Toulouse,"18 Chemin de la Loge, 31400, Toulouse",31400,https://www.casinosbarriere.com/fr/toulouse/le-fouquets.html,43.5722383,1.4343458
+5548802520,node,Pizza Hut,restaurant,Toulouse,"Place Roquelaine, 31000, Toulouse",31000,,43.6124736,1.4480487
+5637538022,node,Magnum,restaurant,Toulouse,5 Rue Perchepinte,,https://magnum-caveamanger-toulouse.eatbu.com/,43.5971047,1.4477423
+5639320721,node,Ma Biche Sur Le Toit,restaurant,Toulouse,"4 Rue du Lieutenant-Colonel Pélissier, 31000",31000,https://www.mabichesurletoit.com/,43.6037747,1.4463458
+5662865117,node,Giovanni Pizza,restaurant,Toulouse,,,,43.6864818,1.3609335
+5666157309,node,Oishi Ramen,restaurant,Toulouse,,,,43.627605,1.4338254
+5666157310,node,Ô Zen,restaurant,Toulouse,,,https://www.ozenasianfood.fr/,43.6276423,1.4340497
+5672016544,node,La Terrasse,restaurant,Toulouse,"3980 Route de Baziège La Lauragaise, 31670, Labège",31670,https://www.facebook.com/profile.php?id=61554667815484,43.5540762,1.5076383
+5680253104,node,Thai-Thai Sushi,restaurant,Toulouse,,,https://thaithaisushi.wordpress.com/,43.598783,1.4356228
+5688659785,node,Eat Sushi,restaurant,Toulouse,,,https://www.eatsushi.fr/nos-restaurants/toulouse-saint-cyprien,43.597686,1.4316219
+5693002122,node,La Prolongation by Moustache,restaurant,Toulouse,,,,43.6188226,1.343776
+5695040461,node,Gina,restaurant,Toulouse,"1 Rue Pharaon, 31000, Toulouse",31000,https://www.leclandesmamma.com/restaurant/gina/,43.5951816,1.4439551
+5696915984,node,Ibis Toulouse Purpan,hotel,Toulouse,"1 Rue Jean Viollis, 31300, Toulouse",31300,https://www.accorhotels.com/,43.6138072,1.396421
+5696935220,node,Le Shaker,restaurant,Toulouse,"1 Rue Jean Viollis, 31300, Toulouse",31300,https://www.facebook.com/leshaker31/,43.6138194,1.3965833
+5711230771,node,Memphis,restaurant,Toulouse,,,,43.6448851,1.3685418
+5762379103,node,Les Aviateurs,restaurant,Toulouse,"12 Avenue Jean Monnet, 31770, Colomiers",31770,,43.6191941,1.3435599
+5768021070,node,Crep'zz and co,restaurant,Toulouse,"34 Avenue de Grande Bretagne, 31300, Toulouse",31300,,43.5974243,1.4212594
+5768021079,node,Best wok & poke,restaurant,Toulouse,,,,43.5967032,1.4222086
+5768021081,node,O'bâoli,restaurant,Toulouse,,,,43.5965956,1.4224501
+5769917919,node,La Casita,restaurant,Toulouse,"1 Avenue de Toulouse, 31620, Castelnau-d'Estrétefonds",31620,www.facebook.com/La-Casita-623128707785880,43.7800666,1.3605089
+5773501543,node,Chez Martine,restaurant,Toulouse,,,,43.6801779,1.4073081
+5777635253,node,Chef Chuan,restaurant,Toulouse,1 Place Auguste Lafourcade,,https://www.chefchuan.fr/,43.5918058,1.4443563
+5818162643,node,At Home Appart Hotel,hotel,Toulouse,"7 Rue du Pont Montaudran, Toulouse",,,43.5989639,1.4557851
+5820222253,node,L'Écluse,restaurant,Toulouse,,,https://leclusetls.wixsite.com/lecluse-toulouse,43.5929288,1.4405233
+5844594640,node,Memphis,restaurant,Toulouse,,,,43.6560443,1.421039
+5871600979,node,Chez Jo & Angie,restaurant,Toulouse,,,,43.6554731,1.3706087
+5905696865,node,Pho Saïgon,restaurant,Toulouse,,,,43.554012,1.3699783
+5919134804,node,Le Moyà,restaurant,Toulouse,Place des Marronniers,,,43.6358454,1.3845095
+5926217053,node,Kumquat,restaurant,Toulouse,18 Rue Raymond Grimaud,,https://www.kumquat-blagnac.fr/,43.6409706,1.3737644
+5926925086,node,Blok Resto,restaurant,Toulouse,2 Rue René Cornemont,,https://leblok31.com/restaurant/,43.5642321,1.4894726
+5929157657,node,Le Déclic,restaurant,Toulouse,,,https://ledeclic.pub,43.6040774,1.4544654
+5963250085,node,Banh mi,restaurant,Toulouse,,,https://www.banhmiviet-tls.fr/,43.600182,1.4532343
+5966375060,node,Hello Ravioli,restaurant,Toulouse,,,https://www.helloravioli.fr/,43.611734,1.4377462
+5969804151,node,Les délices de Léna,restaurant,Toulouse,"10 Avenue Octave Léry, 31000, Toulouse",31000,https://www.chezlena.fr/,43.609752,1.420037
+5981066848,node,El Rincón Chileno,restaurant,Toulouse,,,,43.5989576,1.4321511
+5981076038,node,Chez Teta,restaurant,Toulouse,,,https://www.chez-teta.com/,43.606862,1.4521433
+5981079077,node,L'Écorce,restaurant,Toulouse,,,https://www.lecorce.com/,43.6063573,1.4418429
+5981082884,node,Le Vialou,restaurant,Toulouse,,,,43.5955085,1.4637492
+5997779778,node,Fouk-Yien,restaurant,Toulouse,,,,43.5949505,1.4645195
+6000844527,node,Echo,restaurant,Toulouse,,,https://echo-toulouse.fr/,43.5995345,1.4414909
+6000879607,node,African Queen,restaurant,Toulouse,,,,43.5987322,1.4428284
+6000879609,node,Les Impulsifs,restaurant,Toulouse,,,https://les-impulsifs-toulouse.eatbu.com/,43.5987731,1.4428253
+6000894747,node,La Cave se rebiffe,restaurant,Toulouse,,,https://www.lacave-serebiffe.fr/,43.5983911,1.4432313
+6000894749,node,La Verrière,restaurant,Toulouse,,,https://www.laverriere-toulouse.fr,43.5984959,1.4438477
+6000899948,node,Joshore Road,restaurant,Toulouse,,,https://www.facebook.com/joshoreroadtoulouse/,43.5984022,1.4447033
+6032065621,node,Le Moaï,restaurant,Toulouse,"35 Allées Jules Guesde, 31000, Toulouse",31000,http://www.lemoai.com,43.5937962,1.4494852
+6032265548,node,Le Petit San Seb,restaurant,Toulouse,,,https://lepetitsanseb.com/,43.6057408,1.4465683
+6032272329,node,La Rosa Negra,restaurant,Toulouse,,,http://larosanegra.fr/,43.605632,1.4465482
+6041492062,node,La Toscane,restaurant,Toulouse,,,,43.5969945,1.2910371
+6051256887,node,Papi,restaurant,Toulouse,"9 Rue du Pont Saint-Pierre, 31300",31300,,43.599084,1.4326504
+6053487223,node,FATY Délices,restaurant,Toulouse,,,,43.5984193,1.4558072
+6055805700,node,FFC,restaurant,Toulouse,"75 Boulevard Lascrosses, 31000, Toulouse",31000,,43.6083273,1.4291804
+6083598709,node,Pizzeria Di Nando,restaurant,Toulouse,,,,43.5753498,1.451218
+6085560677,node,L'Orangeraie,restaurant,Toulouse,,,,43.7146371,1.0850246
+6107178355,node,Le monde de jennah,restaurant,Toulouse,"39 Avenue des Minimes, 31200, Toulouse",31200,https://au-monde-de-jennah.business.site/,43.6188893,1.4361657
+6119042511,node,Pizza Papa,restaurant,Toulouse,"18 ter Rue d'Ariane, 31240, L'Union",31240,https://www.pizzapapa.fr/,43.6412817,1.5035993
+6119647721,node,Le Cantou,restaurant,Toulouse,,,,43.6120497,1.3839032
+6128563758,node,Royal Buffet,restaurant,Toulouse,"2 Avenue d'Atlanta, 31200, Toulouse",31200,https://royalbuffet.fr/toulouse-atlanta/,43.6411543,1.4677385
+6128627564,node,ad-cyber-hotel,hotel,Toulouse,"Avenue de Saint-Caprais, 31240, L'Union",31240,,43.645664,1.4722318
+6149694780,node,L'atelier des Chefs,restaurant,Toulouse,,,https://www.atelierdeschefs.fr,43.6011182,1.4529954
+6186763198,node,Kashmir et Safran,restaurant,Toulouse,,,,43.6075046,1.4498925
+6186858182,node,Les Thermes,restaurant,Toulouse,,,https://lesthermes-toulouse.fr,43.6045091,1.4502706
+6235711474,node,Les Mets en Mêlée,restaurant,Toulouse,"5 Rue Soyouz, 31240, L'Union",31240,http://lesmetsenmelee.com/,43.6399775,1.4985175
+6238096802,node,Hôtel La Chartreuse,hotel,Toulouse,"4 bis Boulevard de Bonrepos, 31000, Toulouse",31000,https://www.chartreusehotel.com/,43.6099694,1.4528865
+6263888458,node,Terre et Mer,restaurant,Toulouse,,,https://terre-et-mer-labege.com,43.5418589,1.5110492
+6279346535,node,Le Comptoir MiamThaï,restaurant,Toulouse,1 Rue Dominique Ingres,,,43.6409987,1.3885914
+6295888394,node,L'Arbre à Sushi,restaurant,Toulouse,,,https://larbreasushi.eatbu.com/,43.6021325,1.4384348
+6305853608,node,Le Bistrophile,restaurant,Toulouse,,,https://www.facebook.com/ignaetceline/,43.6331044,1.3994277
+6328836071,node,Vilano Pizza,restaurant,Toulouse,"Centre Commercial du Barry, 31450, Ayguesvives",31450,https://www.facebook.com/vilanopizza/,43.4366191,1.5979228
+6345925852,node,Bellagio,restaurant,Toulouse,"1 Avenue du 8 Mai 1945, 31140, Saint Alban",31140,https://www.facebook.com/PizzeriaBellagioOfficiel,43.6874292,1.4151411
+6349866265,node,Miya Fondue,restaurant,Toulouse,,,https://eater.space/miya-fondue,43.5994184,1.4430601
+6350729773,node,Saveurs Basilic,restaurant,Toulouse,,,https://www.saveursbasilic.com/,43.6116906,1.4139221
+6355346673,node,Tinos Pizza,restaurant,Toulouse,"27 Rue de la République, 31300, Toulouse",31300,https://tinospizza.eatbu.com/,43.5986577,1.4349429
+6363237006,node,Asian Orchidée,restaurant,Toulouse,"3 Rue Rivals, 31770, Colomiers",31770,https://www.asian-orchidee.fr/,43.6138683,1.3376383
+6387389877,node,La Belle Famille,restaurant,Toulouse,,,,43.631648,1.4120536
+6396850431,node,Mima,restaurant,Toulouse,,,,43.6556743,1.3689344
+6402665987,node,Jifu Fondue Asiatique,restaurant,Toulouse,,,https://www.jifu-restaurant.fr/,43.6047943,1.4549127
+6411122691,node,Le Garossos,restaurant,Toulouse,,,,43.6665797,1.3641213
+6415209364,node,Le point d'Ogre,restaurant,Toulouse,,,,43.5983607,1.4427781
+6434263646,node,Zenasia,restaurant,Toulouse,,,https://www.zenazia.com/,43.6060697,1.4833283
+6434263648,node,Neo Samouraï,restaurant,Toulouse,"158 Avenue Jean Chaubet, 31500, Toulouse",31500,,43.6056894,1.482615
+6443273787,node,Aux Délices D'Ailleurs,restaurant,Toulouse,"2 Rue Paul Rocache, 31100, Toulouse",31100,,43.5535381,1.3972884
+6447597935,node,Les Enfants Terribles...,restaurant,Toulouse,,,,43.5971371,1.4440141
+6461289447,node,Pizzeria Di Parma,restaurant,Toulouse,,,,43.5416853,1.4897244
+6464828545,node,Muay Thaï,restaurant,Toulouse,,,,43.5891315,1.4461533
+6465299490,node,La Villa Da Vinci,restaurant,Toulouse,,,https://villadavinci.fr/,43.6093075,1.4912158
+6465299726,node,Mongelli,restaurant,Toulouse,,,https://www.pizza-mongelli.com/pizzeria/balma/,43.6085281,1.493087
+6500567393,node,L’Équilibre,restaurant,Toulouse,,,https://www.www.restaurant-lequilibre.fr/,43.6094307,1.4980846
+6501778326,node,Le Mayombe,restaurant,Toulouse,,,,43.5985907,1.4354169
+6510639121,node,La Brasserie des Pins,restaurant,Toulouse,,,,43.582262,1.3369371
+6557493819,node,Pizza Coco Rocco,restaurant,Toulouse,"1 Avenue du 8 Mai 1945, 31520, Ramonville-Saint-Agne",31520,https://pizzanicoramonville.fr,43.5404898,1.4797544
+6579962302,node,Barricot,restaurant,Toulouse,,,https://www.barricot.fr/,43.6107539,1.434551
+6594102141,node,Pizz@ Luce,restaurant,Toulouse,"7 Rue des Trente-Six Ponts, Toulouse",,,43.5928196,1.4459531
+6594102142,node,La Marmite,restaurant,Toulouse,"35 Rue des Trente-Six Ponts, 31400, Toulouse",31400,,43.5917423,1.4472696
+6612634105,node,Bao House,restaurant,Toulouse,,,https://www.bao-house.fr/,43.5973489,1.4440991
+6612995963,node,Sham,restaurant,Toulouse,,,https://sham-restaurant-toulouse.eatbu.com,43.6192636,1.4569854
+6665451454,node,Minjat!,restaurant,Toulouse,"2/4 Avenue André Marie Ampère, 31770, Colomiers",31770,https://www.minjat.com,43.6123614,1.3060815
+6679522413,node,La Villa,restaurant,Toulouse,,,,43.6277517,1.4589918
+6684903062,node,L'Escale,restaurant,Toulouse,"1 Avenue de la Mairie, 31750, Escalquens",31750,,43.5179917,1.561331
+6696868020,node,La Grand' Pizzeria,restaurant,Toulouse,,,,43.6125078,1.4385477
+6696868022,node,Guo Guo Ji,restaurant,Toulouse,,,https://guoguoji.fr/fr,43.6141729,1.4372269
+6703500314,node,Chez Lacote,restaurant,Toulouse,"3 Route de Toulouse, 31700, Cornebarrieu",31700,,43.6530254,1.3284633
+6764188788,node,Original Sushi,restaurant,Toulouse,,,,43.7064583,1.4657119
+6764188796,node,A fleur de Pizz,restaurant,Toulouse,,,,43.7020412,1.4672957
+6778273970,node,Royal Buffet,restaurant,Toulouse,"312 Avenue des États-Unis, 31000, Toulouse",31000,https://www.royal-buffet-toulouse.com/,43.6541899,1.4238807
+6778273980,node,Chick'n'Beef,restaurant,Toulouse,,,,43.6559522,1.4218772
+6838736515,node,Le verdurier,restaurant,Toulouse,"le village, 31480, Drudas",31480,,43.7551879,1.0989137
+6838736516,node,Le verdurier,hotel,Toulouse,"le village, 31480, Drudas",31480,,43.7552889,1.0987881
+6841189507,node,Abuelo,restaurant,Toulouse,,,https://www.abuelorestaurant.fr/,43.6033717,1.4067923
+6855499233,node,Le Rocher de la Vierge,restaurant,Toulouse,,,,43.6056475,1.4531034
+6855499234,node,Jour de marché,restaurant,Toulouse,,,,43.6056072,1.4531034
+6856176349,node,Le Comptoir Italien,restaurant,Toulouse,,,,43.6087896,1.3810439
+6875659059,node,Chez Ay Linh,restaurant,Toulouse,,,,43.6098978,1.4958596
+6877692231,node,Le Père Léon,restaurant,Toulouse,"2, 31000, Toulouse",31000,,43.6005472,1.4438573
+6898849186,node,La Vie en Rose,restaurant,Toulouse,,,,43.6310256,1.3805814
+6900837106,node,Antalya Kebab,restaurant,Toulouse,Chemin du Tucaut,,,43.5587634,1.3656892
+6907921453,node,La chope balmanaise,restaurant,Toulouse,,,,43.6097913,1.4972641
+6915495563,node,Les deux frangins,restaurant,Toulouse,"35B Route de Toulouse, 31700, Cornebarrieu",31700,,43.6508351,1.3346176
+6915495564,node,Pizzeria Mattarello,restaurant,Toulouse,"35 Route de Toulouse, 31700, Cornebarrieu",31700,,43.650813,1.3344089
+6915495565,node,Kabuki Sushi,restaurant,Toulouse,"35B Route de Toulouse, 31700, Cornebarrieu",31700,,43.6512541,1.3344076
+6932173069,node,Entre 13 et 15,restaurant,Toulouse,7 Avenue de Toulouse,,,43.5614545,1.653924
+6934946308,node,Le Panache,restaurant,Toulouse,,,,43.5988925,1.4441577
+6960476543,node,Séoul,restaurant,Toulouse,,,http://seoulrestaurantcoreen.com/,43.5823999,1.4734259
+6960476547,node,Oh Fada,restaurant,Toulouse,,,,43.5870342,1.4625118
+6967111162,node,Le M,restaurant,Toulouse,,,http://www.ledomainedemontjoie.com/restaurant/,43.5400759,1.4603629
+6967111163,node,Domaine de Montjoie,hotel,Toulouse,,,https://www.ledomainedemontjoie.com/,43.5397283,1.4607102
+6968813837,node,Le Bistro Régent,restaurant,Toulouse,,,https://bistro-regent.fr/,43.5646574,1.5156551
+6982521949,node,Les Frangines du Lac,restaurant,Toulouse,"9 Avenue de la Plage, 31250, Saint-Ferréol",31250,https://www.lesfranginesdulac.com/,43.4409135,2.0256909
+6982521950,node,Ch'ai Marvin,restaurant,Toulouse,"1 Avenue de la Plage, 31250, Saint-Ferréol",31250,,43.4410105,2.0242085
+6982521952,node,La Renaissance Saint-Ferréol,restaurant,Toulouse,"1 Chemin des Dauzats, 31250, Saint-Ferréol",31250,https://hotellarenaissance.fr,43.4411681,2.0236822
+6982521953,node,Le Mallaury,restaurant,Toulouse,"11 Avenue de la Plage, 31250, Saint-Ferréol",31250,,43.4408923,2.0261656
+6983362229,node,Sixta,restaurant,Toulouse,,,https://sixta-toulouse.fr/,43.6090543,1.4483474
+6985673286,node,Zorkot,restaurant,Toulouse,,,,43.6075288,1.4540722
+7004696028,node,Sorami Burger,restaurant,Toulouse,,,https://www.sorami-burger.fr,43.5711115,1.4543965
+7010954718,node,La  Dalle Cultur’elle,restaurant,Toulouse,,,,43.5783677,1.40027
+7022561062,node,Mama Shelter,hotel,Toulouse,,,https://mamashelter.com/toulouse/,43.6049476,1.4498943
+7038448079,node,Ô Saveurs Dorées,restaurant,Toulouse,,,https://osaveursdorees.eatbu.com,43.5970415,1.483174
+7040253185,node,Le petit comptoir,restaurant,Toulouse,"1 Rue d'En Séguret, 31590",31590,,43.6574102,1.661738
+7041334214,node,Aux Goût d'Ailleurs,restaurant,Toulouse,"4 Place Gaspard de Fieubet, 31320, Castanet-Tolosan",31320,https://auxgoutsdailleurs.com/,43.5164459,1.5007111
+7042261555,node,Les Bouillons Toulousains,restaurant,Toulouse,,,https://lesbouillonstoulousains.fr/,43.542881,1.5143331
+7055004153,node,Pizze e Basta Cosi,restaurant,Toulouse,"17 Rue Caraman, 31000, Toulouse",31000,https://www.pizzeebasta.com/,43.6022496,1.4528662
+7147293808,node,Les Halles de la Transition,restaurant,Toulouse,,,https://www.leshallesdelatransition.com/,43.6099825,1.4500342
+7148688367,node,Ankka,restaurant,Toulouse,,,https://ankka.fr/,43.54913,1.5047827
+7148688374,node,Bouillon Labège,restaurant,Toulouse,"88 Rue Galilée, 31670, Labège",31670,https://bouillonlabege.com/,43.5492315,1.5050859
+7164865630,node,Jumbo,restaurant,Toulouse,"61 Avenue Maurice Bourgès-Maunoury, 31200, Toulouse",31200,,43.6401377,1.4516863
+7232832418,node,açai,restaurant,Toulouse,"20 Rue d'Aubuisson, 31000, Toulouse",31000,https://www.acairestaurant.com/,43.6035581,1.4519798
+7280280213,node,L'Épicurie,restaurant,Toulouse,,,https://epicurie-bondigoux.com/,43.8396276,1.5378416
+7307928017,node,Les Cantines,restaurant,Toulouse,,,,43.8128038,1.3614812
+7331017509,node,Kiu Sushi,restaurant,Toulouse,,,,43.6332123,1.4911795
+7347318846,node,Se tchiao,restaurant,Toulouse,,,,43.5858319,1.3459893
+7350122581,node,Battambang,restaurant,Toulouse,,,,43.5759603,1.3485794
+7352398454,node,Bistrot Marcel-André,restaurant,Toulouse,"44 Rue Gaston Doumergue, 31170, Tournefeuille",31170,https://www.bistrotmarcelandre.fr/,43.5842041,1.3439932
+7359816830,node,N88dles Capitole,restaurant,Toulouse,6 Rue Léon Gambetta,,,43.6022909,1.4411482
+7369021448,node,Elissar,restaurant,Toulouse,,,,43.5976902,1.4442353
+7369021454,node,Maison Sarment,restaurant,Toulouse,,,https://maison-sarment.jimdosite.com/,43.5980483,1.4445298
+7369021459,node,Ma-Ma Sushi,restaurant,Toulouse,,,https://www.mamasushi.fr/,43.5985785,1.4442323
+7369021465,node,Élie Caraïbes,restaurant,Toulouse,,,,43.5990472,1.4441241
+7369678038,node,Chez Rosa,restaurant,Toulouse,,,,43.5968747,1.4443831
+7369678039,node,Fanfare,restaurant,Toulouse,,,,43.5968352,1.444391
+7369678040,node,Chez Gardel,restaurant,Toulouse,,,https://chezgardel.fr/,43.59707,1.4444111
+7376959363,node,Les Têtes d'Ail,restaurant,Toulouse,,,,43.5947876,1.443582
+7383272441,node,Les Petits Crus,restaurant,Toulouse,"17 Rue des Couteliers, 31000, Toulouse",31000,https://www.lespetitscrus.com/,43.5982853,1.4417202
+7383272442,node,La Cuisine à Mémé,restaurant,Toulouse,,,https://www.lacuisineameme.fr/,43.5984028,1.441688
+7383272448,node,Le Marocain,restaurant,Toulouse,,,https://le-marocain.fr/,43.5991929,1.4414959
+7383272458,node,Bep Chay,restaurant,Toulouse,,,https://bep-chay.com,43.5985674,1.4418168
+7383274386,node,Hito,restaurant,Toulouse,,,,43.5951868,1.4433248
+7383274387,node,EL huacatay,restaurant,Toulouse,,,,43.5949991,1.4434328
+7387442477,node,Izakaya Iori,restaurant,Toulouse,,,https://www.iori.fr/,43.5988879,1.4428219
+7392341384,node,Michel Sarran,restaurant,Toulouse,,,http://www.michel-sarran.com,43.607283,1.4345554
+7394637662,node,Les Eaux Vives,restaurant,Toulouse,,,,43.6078828,1.4384745
+7416692883,node,Le vénitien,restaurant,Toulouse,"3 Avenue Georges Pompidou, 31270, Cugnaux",31270,https://levenitien-cugnaux.eatbu.com,43.5299993,1.3515796
+7417568926,node,Les Crêpes de Benoît,restaurant,Toulouse,,,,43.5988865,1.449107
+7419099442,node,Ash,restaurant,Toulouse,,,https://ash-toulouse.fr/,43.5990251,1.4490218
+7419099449,node,Don Vincenzo,restaurant,Toulouse,"9 Rue Perchepinte, 31000, Toulouse",31000,,43.597173,1.4478836
+7419099450,node,Tante Margit,restaurant,Toulouse,,,https://tantemargit.eatbu.com/?lang=fr,43.5970654,1.4476878
+7419099451,node,Barbaque,restaurant,Toulouse,,,https://www.facebook.com/Barbaque-107036844371386/,43.5970169,1.4475359
+7419099454,node,L'auberge Nazareth,restaurant,Toulouse,,,,43.5962991,1.4467145
+7419099459,node,Les 2 Font la Paire,restaurant,Toulouse,,,https://www.restaurant-les2fontlapaire.fr/,43.5955702,1.4459078
+7419348049,node,Les Délices du Vietnam,restaurant,Toulouse,"3 Avenue Georges Pompidou, 31270, Cugnaux",31270,,43.5301489,1.3513625
+7433774461,node,Aspendos,restaurant,Toulouse,,,,43.5520044,1.4695586
+7437388574,node,L'Auberge de Beauzelle,restaurant,Toulouse,,,https://www.aubergedebeauzelle.fr/,43.6656716,1.3774937
+7442928086,node,Saveurs des grands enfants,restaurant,Toulouse,"Rue du Pré Vicinal, 31270, Cugnaux",31270,,43.5371551,1.3438652
+7444325856,node,Tutti Pizza,restaurant,Toulouse,,,,43.8395312,1.3902109
+7444425896,node,Pizza Marco,restaurant,Toulouse,21 Impasse du Menuisier,,,43.4523416,1.6125762
+7444425898,node,Casa Bella,restaurant,Toulouse,36 Rue des Saules,,,43.457099,1.6078915
+7444961591,node,Kebab Keeb Naan,restaurant,Toulouse,,,,43.5354138,1.3635171
+7445425887,node,La Pizzou,restaurant,Toulouse,"5 Place de l'Europe, 31270, Cugnaux",31270,,43.5367884,1.3437064
+7460784290,node,Le Baratie,restaurant,Toulouse,"39 Boulevard des Récollets, 31400, Toulouse",31400,https://www.lebaratie.com,43.58408,1.4437816
+7460784291,node,Le Gandhi,restaurant,Toulouse,,,https://restaurantlegandhi.com/,43.6059945,1.4511817
+7464957579,node,Le Comptoir Gourmand,restaurant,Toulouse,,,https://www.lecomptoir-gourmand.com/,43.6068858,1.452219
+7464957580,node,Le machin chouette,restaurant,Toulouse,,,,43.6014174,1.4526817
+7468452180,node,Abyssinia,restaurant,Toulouse,,,https://restaurant-ethiopien-toulouse.eatbu.com/?lang=fr,43.6069205,1.4527277
+7468452182,node,Guayoyo,restaurant,Toulouse,19 Rue du Général Jean Compans,,https://www.guayoyo-toulouse.com/,43.6077781,1.4570953
+7468652041,node,Maison du Cassoulet,restaurant,Toulouse,,,https://maisonducassoulet.com/,43.6059424,1.4481159
+7528490195,node,Le maraîcher dans son assiette,restaurant,Toulouse,,,,43.5771014,1.5084041
+7588684689,node,Le Phénix,restaurant,Toulouse,"Rue de Saint-Laurent, 31270, Villeneuve-Tolosane",31270,,43.5235317,1.342427
+7598070498,node,Les Trois Soupes,restaurant,Toulouse,,,https://lestroissoupes.fr/,43.5995166,1.4469505
+7598070513,node,Le Pacific,restaurant,Toulouse,,,,43.598211,1.4464851
+7616367585,node,Restaurant libanais,restaurant,Toulouse,12 bis Avenue de Fronton,,,43.6816206,1.4216278
+7635190359,node,La Maison d'à côté,restaurant,Toulouse,"45 Rue Jean de Pins, 31300, Toulouse",31300,https://www.facebook.com/Maison-d%C3%A0-c%C3%B4t%C3%A9-Toulouse-2346101538944605/,43.5966823,1.4277551
+7639723763,node,Hôtel Raymond 4,hotel,Toulouse,,,,43.6099598,1.4477543
+7639743090,node,L'Os à Moëlle,restaurant,Toulouse,,,https://www.losamoelletoulouse.com,43.6105902,1.4454214
+7667921856,node,Tonnerres de Brest,restaurant,Toulouse,,,https://tonnerresdebrest.fr,43.5843618,1.3429893
+7678077824,node,Officina Gusto,restaurant,Toulouse,,,https://www.officinagusto.fr/,43.5996945,1.4486182
+7678077870,node,Le Coq en Pâte,restaurant,Toulouse,6 Rue des Prêtres,,https://www.lecoqenpate-restaurant.fr/,43.5972067,1.4437044
+7678077873,node,Dar Diaf,restaurant,Toulouse,,,https://www.dardiaf.fr/,43.5984048,1.4447645
+7678080741,node,Casa Natachou,restaurant,Toulouse,,,https://casanatachoutoulouse.cafecityguide.website/,43.5978723,1.4437594
+7678080743,node,Andochine,restaurant,Toulouse,"28 Rue des Polinaires, 31000, Toulouse",31000,https://an-dochine.fr/,43.5978372,1.4434693
+7678080749,node,Tapéo,restaurant,Toulouse,,,,43.5979743,1.4422929
+7683087356,node,Bistro Régent,restaurant,Toulouse,,,,43.5981424,1.2905462
+7685021873,node,Les Halles de la Cité,restaurant,Toulouse,,,http://www.hallesdelacite.com/,43.6042065,1.4494725
+7685024309,node,Hôtel Croix Baragnon,hotel,Toulouse,,,,43.5995447,1.4466484
+7692842725,node,Catxo,restaurant,Toulouse,,,https://www.catxo-restaurant.com/,43.5959594,1.4472323
+7700436682,node,KALM,restaurant,Toulouse,,,,43.6097237,1.4426784
+7714947178,node,Cécile,restaurant,Toulouse,,,https://cecile-toulouse.fr,43.5974218,1.4445604
+7724232637,node,Crêp'eat,restaurant,Toulouse,,,,43.6312888,1.4837321
+7724315035,node,Hôtel le Pastel,hotel,Toulouse,,,https://hotel-lepastel-toulouse.com/,43.6098129,1.4489879
+7724315051,node,Haozaï,restaurant,Toulouse,,,https://haozai.fr/,43.6076254,1.4485432
+7744311408,node,Ghys & Lo,restaurant,Toulouse,,,,43.5491399,1.5117816
+7757149066,node,Au Gourmet Vietnam,restaurant,Toulouse,,,https://au-gourmet-vietnam.eatbu.com,43.6025092,1.4514772
+7779399782,node,La Loge,restaurant,Toulouse,,,,43.5978235,1.444558
+7779399794,node,Loge 24,restaurant,Toulouse,,,https://www.facebook.com/Loge-24-restaurant-2526960850671366/,43.5976506,1.4445288
+7785156363,node,Sept,restaurant,Toulouse,11 Rue Théodore Ozenne,,https://www.restaurant-sept.fr,43.5968129,1.4468358
+7787123019,node,L'étoile d'Oran,restaurant,Toulouse,,,,43.6063937,1.4521805
+7803120267,node,Le Club 15,restaurant,Toulouse,,,https://www.naillouxoutlet.com/fr/boutique/brasserie-club-15.php,43.3852011,1.611519
+7809245642,node,Fresh Cooking,restaurant,Toulouse,,,https://freshcooking.fr/,43.6676401,1.3638921
+7811822725,node,,restaurant,Toulouse,,,,43.625388,1.4931608
+7869615413,node,Moya,restaurant,Toulouse,Plaisance-du-Touch,,https://moya31830.fr,43.5976953,1.2899957
+7880385115,node,Comme à la Maison,restaurant,Toulouse,2 Cheminement des Sophoras,,,43.6362888,1.3835594
+7880424038,node,Chez Maaario,restaurant,Toulouse,3,,,43.635756,1.384195
+7884256071,node,New Delhi Palace,restaurant,Toulouse,,,http://newdelhi-palace.com/,43.6043527,1.4504624
+7922729785,node,Eat Sushi,restaurant,Toulouse,,,,43.6003196,1.4527834
+7922730185,node,Dee Dee Thai Sushi,restaurant,Toulouse,,,https://deedeethaisushi.metro.bar/,43.6001335,1.452737
+7962626873,node,Wine Food & You,restaurant,Toulouse,,,https://www.winefood.fr/,43.6081222,1.286007
+7964914775,node,Washoku sushi,restaurant,Toulouse,"100 Rue Gaston Doumergue, 31170, Tournefeuille",31170,https://www.washokutournefeuille.com/,43.584604,1.3479442
+7968621467,node,Mme Pompette,restaurant,Toulouse,"29 Route de Blagnac, 31200, Toulouse",31200,https://www.mmepompette.com/,43.6119526,1.4135363
+7993654828,node,Pizza Nicolas,restaurant,Toulouse,,,,43.5765261,1.2758228
+7993677689,node,Casa di Carlotta,restaurant,Toulouse,"22 Avenue des Capitouls, 31880, La Salvetat-Saint-Gilles",31880,https://www.facebook.com/casadicarlottapizza/,43.5815459,1.2742924
+8001120103,node,Aux petits oignons,restaurant,Toulouse,,,https://www.auxpetitsoignons31450.com,43.4479613,1.5953886
+8011158512,node,Lady Sushi,restaurant,Toulouse,3 Boulevard Vincent Auriol,,https://lady-sushi.fr/restaurants/tournefeuille/,43.5848698,1.3442602
+8017003985,node,Le Cénacle,restaurant,Toulouse,"46 Rue des Couteliers, 31000, Toulouse",31000,https://www.restaurant-lecenacle.com,43.5995141,1.4418646
+8076038749,node,Le Fumoir de Mimile,restaurant,Toulouse,"83 Avenue du Marquisat, 31170, Tournefeuille",31170,,43.5726629,1.3400566
+8087589551,node,Sagué,restaurant,Toulouse,,,,43.591745,1.4443508
+8115243685,node,Restaurant Phô,restaurant,Toulouse,,,,43.549648,1.5112687
+8221678215,node,Maison Chaya,restaurant,Toulouse,"51 Rue des Filatiers, 31000, Toulouse",31000,https://maisonchaya.fr,43.5995119,1.443855
+8225361053,node,Le Quartier Libre,restaurant,Toulouse,,,,43.6234659,1.4590888
+8249753425,node,La casita de José,restaurant,Toulouse,"61 Avenue de Toulouse, 31750, Escalquens",31750,,43.5156247,1.5481241
+8445459697,node,Cantine & Gamelle,restaurant,Toulouse,,,,43.5708358,1.4240621
+8523398283,node,Le New Goa,restaurant,Toulouse,,,https://restaurantindientoulouse.fr,43.6061021,1.4512013
+8583553419,node,Black Angus,restaurant,Toulouse,,,,43.6389999,1.377132
+8615373380,node,Pizzeria Bufalino,restaurant,Toulouse,,,https://bufalinobalma.eatbu.com,43.6244581,1.4947109
+8632750892,node,Parenthèse Café,restaurant,Toulouse,2 Chemin de Tambouret,,,43.365678,1.6230569
+8634310223,node,Pizza Paradoux,restaurant,Toulouse,,,,43.6196774,1.5048795
+8659419211,node,Phô Bambou,restaurant,Toulouse,,,,43.5055635,1.4129589
+8721954349,node,La Duchesse,restaurant,Toulouse,,,,43.5774035,1.3140422
+8722382209,node,Le Carré des Sports,restaurant,Toulouse,,,https://lecarredessports.fr/,43.6678871,1.364312
+8869728371,node,Le Court Circuit,restaurant,Toulouse,"4 Rue Réclusane, 31300, Toulouse",31300,,43.598608,1.4337336
+8881021127,node,Rouge Comptoir,restaurant,Toulouse,"16 Rue d'Ariane, 31240, L'Union",31240,https://www.rougecomptoir.fr/,43.6404658,1.5028521
+8895507067,node,,restaurant,Toulouse,,,,43.59123,1.4049223
+8902919672,node,Ô p'tit LOL,restaurant,Toulouse,,,,43.6093902,1.4513891
+8907187727,node,Péniche Amboise,hotel,Toulouse,"17 Boulevard Griffoul-Dorval, 31400, Toulouse",31400,,43.5923026,1.45872
+8925913111,node,L'Atelier des Plats,restaurant,Toulouse,,,http://latelierdesplats.wixsite.com/restaurant,43.6458969,1.4267723
+8925941417,node,Hôtel des États-Unis,hotel,Toulouse,"230 Avenue des États-Unis, 31200, Toulouse",31200,https://www.contact-hotel.com/hotel-france/1062/hotel-des-etats-unis-toulouse.htm,43.6457581,1.4270216
+8933080272,node,Nakama gyudon,restaurant,Toulouse,"201 Avenue de Grande Bretagne, 31300, Toulouse",31300,,43.6034526,1.4065955
+8933198560,node,Carthel,restaurant,Toulouse,,,https://restaurant-carthel.com/,43.6025489,1.4096525
+8942160866,node,Le Domaine du Lac,restaurant,Toulouse,"300 Chemin du Lac, 31840, Aussonne",31840,https://www.ledomainedulac.com/,43.676786,1.3127287
+8955038581,node,Dicapo,restaurant,Toulouse,"1 Place Marcel Bouilloux-Lafont, 31400, Toulouse",31400,https://dicapo.fr/,43.5721763,1.4791094
+8955038582,node,Bistro Régent,restaurant,Toulouse,"2 Place Marcel Bouilloux-Lafont, 31400, Toulouse",31400,https://www.bistro-regent.fr/montaudran/,43.5719759,1.4793596
+8955038583,node,Pitaya,restaurant,Toulouse,"3, 31400, Toulouse",31400,https://pitaya-thaistreetfood.com/r/pitaya-toulouse-montaudran,43.5714894,1.4794517
+8977495889,node,Hôtel Heliot,hotel,Toulouse,,,https://www.hotel-heliot.com/,43.6070619,1.4496009
+9020581065,node,Le Jardin Créole,restaurant,Toulouse,"3 Rue Clément Ader, 31150, Aucamville",31150,https://lejardincreole.eatbu.com,43.6707502,1.4131211
+9024655717,node,L'Absolu,restaurant,Toulouse,3 Avenue de Bayonne,,,43.6492814,1.4745843
+9038125752,node,La Gragnaguette,restaurant,Toulouse,,,https://lagragnaguette.com/,43.6849654,1.6060445
+9062901217,node,Biergarten Purpan,restaurant,Toulouse,,,,43.5992821,1.4003483
+9099335669,node,Voila by Mo Bachir,restaurant,Toulouse,"12 Rue Perchepinte, 31000, Toulouse",31000,,43.5973231,1.4482123
+9140334433,node,Burgers & Terroir,restaurant,Toulouse,,,https://www.burgersetterroir.fr/,43.5154198,1.4986571
+9192683275,node,L'Antidote Remède Local,restaurant,Toulouse,"1 Avenue de Toulouse, 31320, Castanet-Tolosan",31320,https://m.facebook.com/lantidoteRL/,43.5156255,1.4989377
+9315355134,node,Delicosy,restaurant,Toulouse,"87 Boulevard de Suisse, 31200, Toulouse",31200,,43.6179369,1.4225203
+9315441291,node,Le d'Artagnan,restaurant,Toulouse,"60 Boulevard de Suisse, 31200, Toulouse",31200,,43.6157666,1.421886
+9330517617,node,Buffet Himalaya,restaurant,Toulouse,,,,43.6052855,1.4420183
+9349337917,node,Dcadei,restaurant,Toulouse,"1 Rue de l'Hôtel de Ville, 31270",31270,,43.5249841,1.3440513
+9415426729,node,Le Trèfle,restaurant,Toulouse,,,,43.5604669,1.3479585
+9422609269,node,Le Kabestan,restaurant,Toulouse,,,https://www.lekabestan.fr,43.5958507,1.5667793
+9452466906,node,Cafet’ Arum,restaurant,Toulouse,"5 Allée Antonio Machado, 31058, Toulouse",31058,https://www.crous-toulouse.fr/restaurant/cafet-arum/,43.576925,1.4010803
+9457739471,node,O Brazero,restaurant,Toulouse,,,,43.554803,1.4044703
+9550508378,node,Ca se mange comme ça,restaurant,Toulouse,1 Rue Louis Breguet,,,43.6463,1.3368156
+9550508379,node,Sushi Game,restaurant,Toulouse,,,,43.6464077,1.3371042
+9586244971,node,Le Grand Gourmand,restaurant,Toulouse,,,,43.6011895,1.3010536
+9588734845,node,Hao Zai,restaurant,Toulouse,,,,43.5990221,1.4550637
+9590453617,node,Avitar,restaurant,Toulouse,Route de Lavaur,,,43.6429328,1.5248709
+9609050633,node,Le Restaurant Aéroscopia,restaurant,Toulouse,,,https://www.aeroscopia.fr/restaurant,43.6584075,1.359352
+9654343117,node,Le Buffet du Grand Marché,restaurant,Toulouse,,,,43.6392654,1.4309767
+9654343217,node,Les Oies Sauvages,restaurant,Toulouse,14 Allée de la Fontaine,,,43.6074962,1.3503659
+9654461217,node,Le Gros Arbre,restaurant,Toulouse,"110 Rue des Amidonniers, 31000",31000,,43.6090644,1.4159985
+9675025186,node,DUMBO,restaurant,Toulouse,"55 Avenue Louis Breguet, 31400, Toulouse",31400,https://www.dumbo-toulouse.com/,43.5770566,1.4760643
+9732736366,node,Bistro Régent,restaurant,Toulouse,,,,43.6088973,1.3920266
+9740841888,node,La Villa Clapotis,restaurant,Toulouse,,,,43.5452988,1.4390404
+9759499676,node,L'Annexe Café,restaurant,Toulouse,,,,43.6130926,1.4126938
+9777734662,node,La Teurgoule,hotel,Toulouse,,,,43.7171644,1.5910011
+9777734687,node,La Pizzeria,restaurant,Toulouse,,,,43.7183999,1.5902841
+9779128164,node,Lamama,restaurant,Toulouse,"3 Rue Louise Weiss, 31200, Toulouse",31200,,43.6406788,1.454109
+9785712535,node,,restaurant,Toulouse,,,,43.4548933,1.613721
+9791919822,node,,restaurant,Toulouse,,,,43.3543227,1.5509116
+9793378218,node,Le Lusso,restaurant,Toulouse,Place du Docteur Joseph Baylac,,,43.6082488,1.3968722
+9823779107,node,La Cantine des Canailles,restaurant,Toulouse,5 Route de Mondonville,,https://la-cantine-des-canailles.eatbu.com/,43.6541738,1.323723
+9836098660,node,FlonFlon,restaurant,Toulouse,,,https://www.restaurantflonflon.com/,43.6315469,1.5003768
+9838075802,node,La Bonne Auberge,restaurant,Toulouse,,,https://www.bonneauberge31.fr/,43.6597163,1.4876908
+9852697264,node,New Sushi,restaurant,Toulouse,,,https://www.facebook.com/newsushivillefranche,43.4008416,1.7142219
+9861129390,node,L'Animal,restaurant,Toulouse,,,,43.6520698,1.3300836
+9862555417,node,Les Munitionnettes,restaurant,Toulouse,"169 Avenue de Grande Bretagne, 31300, Toulouse",31300,https://www.les-munitionnettes.fr/,43.6024537,1.408394
+9893335091,node,Auberge de la Forge,restaurant,Toulouse,,,,43.6377203,1.5951593
+9908973797,node,La Cantina,restaurant,Toulouse,1 Place de l'Église,,,43.616812,1.2407635
+9926503711,node,Bloomy Rive Gauche,restaurant,Toulouse,,,https://www.facebook.com/BloomyRiveGauche/;bloomyrivegauche.eatbu.com,43.5984589,1.434784
+9946853040,node,Le Grand Méchant Goût,restaurant,Toulouse,,,https://legrandmechantgout.com,43.5498895,1.5110855
+9956727884,node,Burg' & Grill,restaurant,Toulouse,,,,43.5295544,1.7591832
+9959849652,node,Assoiffés,restaurant,Toulouse,,,,43.6094253,1.44911
+9974426580,node,Pimelo,restaurant,Toulouse,,,,43.5499353,1.4996527
+9977214748,node,Món Việt,restaurant,Toulouse,40 Rue du Général Jean Compans,,https://www.monviet31500.fr/,43.6089564,1.4559952
+9988440195,node,Ô Bali,restaurant,Toulouse,,,https://obali.fr/,43.6066402,1.4523674
+9988450278,node,Mantesino,restaurant,Toulouse,,,https://mantesino.fr,43.6050121,1.4535904
+9992561081,node,La Fleur de Mai,restaurant,Toulouse,,,,43.550616,1.393221
+9992581667,node,Lotus,restaurant,Toulouse,,,,43.6055309,1.4523682
+10007176300,node,Sapiens,restaurant,Toulouse,"55 Avenue Louis Breguet, 31400, Toulouse",31400,https://www.restaurants-sapiens.com/,43.5765184,1.477119
+10035890582,node,La Sauterelle,restaurant,Toulouse,,,https://sauterelletoulouse.wordpress.com,43.6019201,1.4427732
+10036075001,node,Le Ripaille,restaurant,Toulouse,,,,43.6109715,1.4518683
+10047227034,node,Campanile,hotel,Toulouse,,,,43.6468693,1.4192909
+10047227035,node,Première classe,hotel,Toulouse,,,,43.6465335,1.4190227
+10056047066,node,Marcello,restaurant,Toulouse,,,https://www.marcello.pizza,43.6040402,1.4545321
+10057007549,node,Italia Pizza,restaurant,Toulouse,,,,43.6354029,1.4305658
+10064696311,node,Ming Ming,restaurant,Toulouse,"148 Boulevard de Suisse, 31200, Toulouse",31200,,43.6200665,1.4242563
+10068236192,node,Le Jardin,restaurant,Toulouse,,,https://www.lejardin-toulouse.fr/fr/,43.611802,1.4411529
+10069114220,node,Le Shahi Dhaba,restaurant,Toulouse,,,https://leshahidhaba.com/,43.6051178,1.4535025
+10072904623,node,Au Jardin des Thés,restaurant,Toulouse,,,,43.6023893,1.4476792
+10083341955,node,Vesubio,restaurant,Toulouse,,,https://www.vesubio.fr/,43.6049103,1.4562484
+10089619905,node,Soclo,hotel,Toulouse,34B Rue Valade,,https://www.soclo.fr/,43.6055297,1.4379624
+10097298314,node,La Cuisine de Dany,restaurant,Toulouse,"1 Place du Pastel, 31570, Sainte-Foy-d'Aigrefeuille",31570,https://www.lacuisinededany.fr,43.5429611,1.6084212
+10159937717,node,Gram’s,restaurant,Toulouse,,,,43.6047628,1.4547347
+10177216631,node,Les Tricheries,restaurant,Toulouse,,,,43.6819156,1.3660615
+10187793128,node,L'Antica Pizzeria,restaurant,Toulouse,"9 Avenue Maurice Bourgès-Maunoury, 31200, Toulouse",31200,https://lanticapizzeria.fr/,43.6289829,1.4486447
+10221056361,node,Le Sukhothaï,restaurant,Toulouse,,,https://le-sukhothai-toulouse.com/,43.6115298,1.4477247
+10223342307,node,Le Grenadin,restaurant,Toulouse,"85 Rue de la République, 31330, Grenade",31330,,43.7726952,1.293151
+10225619436,node,La Côte et l'Arête,restaurant,Toulouse,,,https://www.lacoteetlarete.fr/,43.5414439,1.5095714
+10230457636,node,Pito Pizza,restaurant,Toulouse,,,,43.7716645,1.29334
+10300205287,node,Du goût à la Toque,restaurant,Toulouse,"78 Avenue de Gascogne, 31490, Léguevin",31490,,43.5999578,1.2328269
+10300220337,node,Verres et Couverts,restaurant,Toulouse,"74 Avenue de Gascogne, 31490, Léguevin",31490,https://le-comptoir-64-leguevin.eatbu.com/?lang=fr,43.6000189,1.2330255
+10301397440,node,Le Saigon des lys,restaurant,Toulouse,"2 Rue du 19 Mars 1962, 31490, Léguevin",31490,https://le-saigon-des-lys-restaurant-leguevin.metro.rest/,43.6003135,1.2356876
+10301947066,node,Kaly Sushi,restaurant,Toulouse,"31490, Léguevin",31490,,43.6028428,1.2611403
+10308153369,node,Botna Thaï & Sushis,restaurant,Toulouse,"18 Allée des Cordeliers, 31490, Léguevin",31490,https://www.botna.fr/leguevin,43.6021809,1.2572269
+10313738780,node,La Métairie,restaurant,Toulouse,"30 Route de la Foret, 31380, Paulhac",31380,https://lametairiedepaulhac.fr/,43.76058,1.5600371
+10542366502,node,Amafolia,restaurant,Toulouse,,,https://www.amafolia.fr/,43.6250593,1.4860941
+10575101048,node,Le Chef du Burger,restaurant,Toulouse,,,,43.610134,1.4446559
+10608452401,node,Hôtel de Bordeaux,hotel,Toulouse,4 Boulevard de Bonrepos,,,43.6098608,1.4530644
+10608534925,node,La petite cantine,restaurant,Toulouse,"85 Rue Gabriel Péri, 31000, Toulouse",31000,,43.60631,1.4539278
+10655219295,node,Pizza Vera,restaurant,Toulouse,52 Avenue de la République,,,43.6665275,1.1945068
+10655401635,node,Family Fourchette,restaurant,Toulouse,,,,43.691042,1.5165978
+10688648700,node,Ô Radis,restaurant,Toulouse,"16 Rue Alfred Sauvy, 31270, Cugnaux",31270,,43.5369676,1.3568942
+10715715830,node,Chez Marcel,restaurant,Toulouse,190 Avenue de Castres,,,43.5955902,1.4856753
+10790696951,node,Pititto,restaurant,Toulouse,,,https://pititto-toulouse.eatbu.com,43.6190858,1.4364726
+10790696954,node,Flow House,restaurant,Toulouse,4 bis Avenue Frédéric Estèbe,,https://flowhouse.fr/,43.6184719,1.4369659
+10795289283,node,Chez Molly,restaurant,Toulouse,,,https://chezmolly.fr/,43.568689,1.4962856
+10795670948,node,Chez Alex,restaurant,Toulouse,,,,43.5890509,1.4574749
+10796692622,node,Villa Pampa,restaurant,Toulouse,"Chemin de Lousset, 31530, Le Castéra",31530,https://www.villapampa.fr/,43.6754156,1.1535518
+10802233783,node,Les Cabochards,restaurant,Toulouse,"7 Rue Aristide Berges, 31270, Cugnaux",31270,,43.5549982,1.3667767
+10826911458,node,Restaurant de la Poste,restaurant,Toulouse,,,,43.5292318,1.7615034
+10827502605,node,Le Bistrot de l'Escale,restaurant,Toulouse,"1 Place de la Mairie, 31170",31170,https://bistrotdelescale.com/,43.5826904,1.345528
+10830534023,node,Youco,restaurant,Toulouse,,,https://youco-toulouse.eatbu.com/,43.6114856,1.435849
+10832518154,node,Kabuki Sushi,restaurant,Toulouse,,,,43.5481103,1.3497508
+10832518155,node,Terra Mia,restaurant,Toulouse,,,,43.5482463,1.3496487
+10837901159,node,Chez Tam-Tâm,restaurant,Toulouse,,,,43.8647941,1.5039794
+10858086462,node,Bar Restaurant des Allées,restaurant,Toulouse,,,,43.8628156,1.5064023
+10860643871,node,Chô Chaï,restaurant,Toulouse,,,,43.5945096,1.4116625
+10860643872,node,Pizzas à emporter,restaurant,Toulouse,,,,43.5945212,1.4117397
+10875284702,node,Lhasa Cafe,restaurant,Toulouse,,,,43.6042163,1.4543594
+10875284703,node,La Petite Robe Noire,restaurant,Toulouse,"32 Rue Pierre Paul Riquet, 31000, Toulouse",31000,https://la-petite-robe-noire.fr,43.6042806,1.4543227
+10875718180,node,La Renaissance,restaurant,Toulouse,,,,43.8650798,1.5036546
+10880199605,node,Plat'O Gourmand,restaurant,Toulouse,"6 Allée Paul Harris, 31200",31200,https://platogourmand.fr/,43.6450954,1.4516017
+10905872829,node,Coteaux,restaurant,Toulouse,,,,43.5075485,1.4583601
+10925756000,node,Ô Tarn Sushi,restaurant,Toulouse,,,https://www.otarnsushi.fr/,43.8451822,1.4975589
+10925769505,node,La Toscane,restaurant,Toulouse,,,https://latoscane.e-monsite.com/,43.8452472,1.4973249
+10926968339,node,Ladysushi,restaurant,Toulouse,,,,43.6099524,1.4966813
+10931161247,node,Ô restaurant de la place,restaurant,Toulouse,"29 Place de la République, 31150, Bruguières",31150,https://o-restaurant-de-la-place-bruguieres.eatbu.com/,43.7272016,1.4111152
+10931176322,node,Popi Pizza,restaurant,Toulouse,"26 Place de la République, 31150, Bruguières",31150,http://popi-pizza.fr/,43.7270863,1.4112834
+10931176367,node,Hotel bistrot Le Quarré,restaurant,Toulouse,"1 Place du Castelet, 31150, Bruguières",31150,https://www.le-quarre.fr/,43.7263757,1.4122077
+10931213143,node,Namtha restaurant,restaurant,Toulouse,"25 Place de la République, 31150, Bruguières",31150,,43.7270479,1.4113327
+10931217399,node,Les Oies Sauvages,restaurant,Toulouse,"16 bis Place de la République, 31150, Bruguières",31150,https://www.baraviande-lesoiessauvages.com/,43.7270961,1.4126119
+10931239251,node,Décoféiné - Café Déco,restaurant,Toulouse,"17 Place de la République, 31150, Bruguières",31150,https://www.facebook.com/Decofeine/,43.7269966,1.4125017
+10931262004,node,La Cassine du Burger,restaurant,Toulouse,"87 Avenue de Toulouse, 31150, Bruguières",31150,https://lacassineduburger.com/,43.7194599,1.4070168
+10931274333,node,Sen'do Sushi,restaurant,Toulouse,"89 bis Avenue de Toulouse, 31150, Bruguières",31150,https://www.sendosushi.fr/,43.7191378,1.4069586
+10934801591,node,Le Galichon,restaurant,Toulouse,"159 Bis Avenue du Bergeron, 31150, Bruguières",31150,https://www.le-galichon-restaurant-bruguieres.fr/,43.6982865,1.4072056
+10943248605,node,Odalys,hotel,Toulouse,,,,43.6420996,1.3678038
+10980482095,node,Gourmets d'Asie,restaurant,Toulouse,,,,43.6238347,1.4340936
+11039681405,node,Museau Musette,restaurant,Toulouse,"88 Boulevard Pierre Semard, 31500, Toulouse",31500,https://www.museaumusette.fr/,43.6138925,1.4510938
+11047173205,node,Vitano Pizzeria,restaurant,Toulouse,"254 Avenue de Muret, 31300, Toulouse",31300,https://pizzeria-vitano.fr/,43.5897681,1.4323363
+11049636207,node,Chez Zohor,restaurant,Toulouse,23 Rue de la République,,,43.771376,1.2901958
+11053505378,node,L'Assiette Voyageuse 31,restaurant,Toulouse,,,https://www.lassiettevoyageuse31.fr/,43.518589,1.5062617
+11068041875,node,Papa Calvo,restaurant,Toulouse,,,https://letchap.fr/,43.6552962,1.36884
+11071745125,node,AloeVega,restaurant,Toulouse,"19 Rue Raymond Grimaud, 31700, Blagnac",31700,https://aloevega.fr,43.6396484,1.374178
+11074907286,node,Le Billot de Marius,restaurant,Toulouse,,,https://www.restaurantlebillot.fr,43.453199,1.9862751
+11087438884,node,Atelier du Pêcheur,restaurant,Toulouse,,,,43.5985275,1.4363991
+11137755905,node,A Taula,restaurant,Toulouse,11 Rue Malcousinat,,,43.6009066,1.4432996
+11166164197,node,Butter Sweet,restaurant,Toulouse,,,,43.3553559,1.6480832
+11166350253,node,Un Zest' de Saison,restaurant,Toulouse,,,,43.5604955,1.5308773
+11166408308,node,Che Pasta Nonna,restaurant,Toulouse,18 Rue Pasteur,,,43.6346682,1.3955445
+11170099173,node,Le Kü Ma,restaurant,Toulouse,,,,43.6337316,1.3948285
+11184457709,node,The Roof,restaurant,Toulouse,,,,43.6003982,1.4074844
+11217615310,node,Mozza Fiato,restaurant,Toulouse,1 Rue de la Paderne,,https://mozzafiato-pizzerias.eatbu.com/?lang=fr,43.583963,1.3333449
+11218602184,node,Le QG,restaurant,Toulouse,,,https://www.instagram.com/leqgtoulouse/,43.6129949,1.4773353
+11231123420,node,Sapiens,restaurant,Toulouse,,,,43.6250655,1.4936984
+11231123421,node,Spok,restaurant,Toulouse,,,,43.6246521,1.4943875
+11232420370,node,Casa Da Sylvana,restaurant,Toulouse,,,https://www.facebook.com/casa.da.sylvana/,43.4022788,1.7126374
+11232494088,node,Pizza Galli,restaurant,Toulouse,"4 Rue Carnot, 31290, Villefranche-de-Lauragais",31290,https://www.pizzeriagalli.fr/,43.3993652,1.7176671
+11232498159,node,Le Maquignon Braise & Vins,restaurant,Toulouse,"21 Place Gambetta, 31290, Villefranche-de-Lauragais",31290,https://www.lemaquignonvdl.fr/,43.3984609,1.7189889
+11235246939,node,A l'heur Asienne,restaurant,Toulouse,,,,43.4023785,1.7123501
+11258471020,node,Les violettes,restaurant,Toulouse,,,,43.4864892,1.5325452
+11263411679,node,Avem Grill,restaurant,Toulouse,,,,43.5637335,1.4039601
+11263411680,node,La Source du Nil,restaurant,Toulouse,,,,43.5637758,1.4036757
+11296048677,node,Royal Buffet,restaurant,Toulouse,"281 Route d'Espagne, 31100, Toulouse",31100,https://www.royalbuffet.fr/,43.5498733,1.42109
+11333040319,node,Pickles Salad Bar,restaurant,Toulouse,,,,43.6284899,1.4872135
+11351955232,node,La Cosina,restaurant,Toulouse,,,,43.644414,1.3722483
+11358255969,node,EL bodegon,restaurant,Toulouse,,,,43.5947567,1.4436014
+11379222569,node,Prima Repubblica,restaurant,Toulouse,"6 Boulevard de l'Europe, 31770, Colomiers",31770,https://repubblica.primafamily.fr/,43.6004642,1.3574912
+11392595242,node,Hop Seng,restaurant,Toulouse,17 Rue Denfert Rochereau,,,43.6079321,1.4487635
+11394094090,node,Mauna Loa,restaurant,Toulouse,,,,43.6001805,1.4533362
+11416659741,node,Casa Bomba,restaurant,Toulouse,,,https://www.casabomba.fr/,43.600204,1.4534851
+11422260269,node,Les petites marguerites,restaurant,Toulouse,"18 Avenue de la Gloire, 31000",31000,,43.6054873,1.4590676
+11451838669,node,ÔKI Uchi,restaurant,Toulouse,2 Rue du Lac d'Oô,,https://oki-uchi.eatbu.com,43.6535855,1.4847116
+11453080942,node,Eklo Toulouse,restaurant,Toulouse,,,,43.6029399,1.4077164
+11459319200,node,Pizza Mongelli,restaurant,Toulouse,"2 Place Auguste-Albert, 31500, Toulouse",31500,https://www.pizza-mongelli.com/,43.591525,1.4797353
+11482251438,node,Pizza Yellow,restaurant,Toulouse,,,,43.5667422,1.2962646
+11483191118,node,Le Plaisancier,restaurant,Toulouse,,,,43.5628944,1.304196
+11483191119,node,Il Gusto,restaurant,Toulouse,8 Avenue Montaigne,,,43.5628507,1.3036059
+11494140028,node,Bonbonne,restaurant,Toulouse,,,,43.5903855,1.3795674
+11494985812,node,Le Théatro,restaurant,Toulouse,,,,43.5623786,1.2912622
+11502921978,node,,restaurant,Toulouse,,,,43.3999611,1.7164511
+11521229865,node,Le Bistrot du Pecheur,restaurant,Toulouse,3 Impasse Louis Vicat,,,43.5980643,1.2909794
+11524546268,node,Pizza du Touch,restaurant,Toulouse,,,,43.567647,1.3082758
+11530650283,node,Maya Bay,restaurant,Toulouse,"36-54 Route de Bayonne, 31300, Toulouse",31300,,43.6095658,1.394372
+11578388727,node,Les Planeurs,restaurant,Toulouse,,,https://lesplaneurs.com/,43.6163605,1.4395972
+11582438581,node,Comme en Asie,restaurant,Toulouse,,,,43.5886829,1.4315209
+11608091358,node,Le Bistrot des Canailles,restaurant,Toulouse,,,,43.6943172,1.2687504
+11634641516,node,Le Kiosque de la Roseraie,restaurant,Toulouse,,,https://lekiosquedelaroseraie.fr/,43.6198137,1.4691107
+11649763403,node,Noshi Sushi,restaurant,Toulouse,,,,43.6073048,1.4715681
+11665195369,node,Manding'Art,restaurant,Toulouse,"1 Rue du Docteur Paul Pujos, 31500",31500,,43.6174674,1.4544373
+11736508718,node,Le Lieu Trattoria & Bar,restaurant,Toulouse,,,https://www.lelieutrattoria.com/?lang=fr,43.6683322,1.4292862
+11736516720,node,Di Roma,restaurant,Toulouse,"22 bis Route de Fronton, 31140, Aucamville",31140,,43.6693612,1.4286744
+11737864362,node,La Vera,restaurant,Toulouse,,,,43.7800409,1.4055374
+11747983799,node,Indian Colors,restaurant,Toulouse,,,,43.6105548,1.333489
+11751123805,node,Sushi Wok 31,restaurant,Toulouse,6 Passage de la Margeride,,,43.6111543,1.3324269
+11751123807,node,Woke & Sushis,restaurant,Toulouse,1 Place des Monts Doré,,,43.610347,1.3330997
+11751123811,node,Merveilles d'Afrik,restaurant,Toulouse,,,,43.6101867,1.3325644
+11769458652,node,Little Saigon,restaurant,Toulouse,,,,43.6109364,1.3317445
+11772275476,node,La Mesa de Lola,restaurant,Toulouse,23 Rue du Général Jean Compans,,https://lamesadelola.com/,43.6078537,1.4568706
+11773561686,node,Les Brunchs de Mademoiselle Soline,restaurant,Toulouse,"26 Avenue des Pyrénées, 31830, Plaisance-du-Touch",31830,https://www.mademoiselle-soline.fr/,43.5651982,1.2961574
+11773561736,node,Bakou Grillades,restaurant,Toulouse,,,,43.5665029,1.2974088
+11775031052,node,Gioia Pizza,restaurant,Toulouse,,,,43.6175651,1.2809592
+11776434300,node,Privilege Saint Exupery,hotel,Toulouse,,,,43.610128,1.4517044
+11801483703,node,Bar à la Une,restaurant,Toulouse,"1 Chemin Cassaing, 31500, Toulouse",31500,https://alaunefamily.com/bar-a-la-une/,43.6168055,1.4730594
+11817862396,node,L'endroit,restaurant,Toulouse,,,,43.6841381,1.5813226
+11853270387,node,Jacques,restaurant,Toulouse,,,https://pub-jacques.fr/,43.5948644,1.4969621
+11865540991,node,Bistrot Régent,restaurant,Toulouse,,,,43.7362762,1.3737986
+11876175212,node,Le Sommer,restaurant,Toulouse,,,,43.7280562,1.0552545
+11889546545,node,Ligot,restaurant,Toulouse,,,,43.6023114,1.4471838
+11893406508,node,Caffe Galery,restaurant,Toulouse,,,,43.644914,1.3713672
+11932720466,node,Chez Rosine,restaurant,Toulouse,,,,43.5748745,1.4627293
+11942751982,node,Francesca,restaurant,Toulouse,,,https://francesca.com/fr/restaurants/francesca-toulouse,43.5703793,1.4201023
+11977575669,node,La Yaya,restaurant,Toulouse,,,,43.5234959,1.5889379
+11980844403,node,Chut Guinguette,restaurant,Toulouse,,,https://www.chutguinguettetoulouse.fr/,43.6207507,1.4596944
+11981641172,node,Becco,restaurant,Toulouse,,,,43.633465,1.463409
+12002662770,node,Grec & co.,restaurant,Toulouse,,,,43.598507,1.4349748
+12011843070,node,L'estanquet de l'olivier,restaurant,Toulouse,"1 Avenue des Pyrénées, 31240",31240,,43.658143,1.4831306
+12014593045,node,Spicchizzi,restaurant,Toulouse,,,,43.6123568,1.4380624
+12016642190,node,,restaurant,Toulouse,,,https://www.guinguette-grenade.fr/,43.7796209,1.2929444
+12020008239,node,Ô p'tit zinc,restaurant,Toulouse,,,,43.5978759,1.4450393
+12040120093,node,Turbine Bazacle,restaurant,Toulouse,,,https://turbine-bazacle.fr/,43.6041851,1.4315868
+12085741169,node,Le 224,restaurant,Toulouse,,,,43.6403396,1.4292295
+12102979230,node,Akmonya,restaurant,Toulouse,"34 Place de l'Église, 31270, Cugnaux",31270,,43.536091,1.3445236
+12106523894,node,L'euro orientale,restaurant,Toulouse,"1 Impasse des Fleurs, 31270, Cugnaux",31270,,43.5399156,1.346249
+12106579488,node,Piazzetta,restaurant,Toulouse,,,,43.5405702,1.3463874
+12108664076,node,L'authentique,restaurant,Toulouse,,,,43.6121341,1.3291535
+12110354861,node,Autour de Pizz',restaurant,Toulouse,"1 Rue de Carcassonne, 31500, Toulouse",31500,https://autour-de-pizz.metro.rest,43.5969005,1.4832799
+12112182178,node,Restaurant Vietnam,restaurant,Toulouse,"2 Avenue de Francazal, 31270, Cugnaux",31270,,43.5357613,1.3461152
+12112184396,node,Ciel à Table,restaurant,Toulouse,"24 Place de l'Église, 31270, Cugnaux",31270,https://www.ciel-a-table.fr/fr/,43.5363295,1.344126
+12112205719,node,Le Clos de Nath,restaurant,Toulouse,"28 Place de l'Église, 31270, Cugnaux",31270,,43.5362817,1.3442358
+12115148779,node,Sakora,restaurant,Toulouse,"32 Avenue de Toulouse, 31270, Cugnaux",31270,,43.5387148,1.3457536
+12115199303,node,Le Soleil Bleu,restaurant,Toulouse,"36 Avenue de Toulouse, Cugnaux",,,43.5388078,1.3458059
+12121942085,node,Tasty One Pizza,restaurant,Toulouse,"11 Rue du Pré Vicinal, 31270, Cugnaux",31270,,43.5373846,1.3428411
+12121942091,node,Les Délices du Liban,restaurant,Toulouse,"15 Rue du Pré Vicinal, 31270, Cugnaux",31270,,43.5375732,1.3424281
+12121942093,node,Kirthi,restaurant,Toulouse,"Rue du Pré Vicinal, 31270, Cugnaux",31270,,43.5376189,1.3423262
+12121954218,node,Les Epicuriennes,restaurant,Toulouse,"35 bis Rue du Pré Vicinal, 31270, Cugnaux",31270,,43.5380865,1.3410186
+12130798926,node,Soul Kitchen,restaurant,Toulouse,"59 Avenue Maurice Bourgès-Maunoury, 31200, Toulouse",31200,https://soulkitchen-resto.fr/,43.6396024,1.4520226
+12130829248,node,Dans le noir,restaurant,Toulouse,,,https://toulouse.danslenoir.com/,43.6084405,1.4535011
+12137922156,node,@Pizza Plana,restaurant,Toulouse,"108 Rue Louis Plana, 31500, Toulouse",31500,,43.6157772,1.4739999
+12151141198,node,A la Fleur de Sel,restaurant,Toulouse,,,,43.3663224,1.622903
+12151654557,node,Washoku,restaurant,Toulouse,"2 Boulevard Jean Rivet, 31700, Blagnac",31700,https://www.washokusushi.net/,43.633541,1.3990173
+12183973024,node,Sushi daily,restaurant,Toulouse,,,,43.550486,1.5081442
+12202416597,node,Sushi Avenue,restaurant,Toulouse,,,,43.5794337,1.4238628
+12202431303,node,La Grilladele,restaurant,Toulouse,,,,43.578975,1.4235721
+12202552351,node,L'Ergot,restaurant,Toulouse,,,,43.5846263,1.4282865
+12205185859,node,Pizza Nostra,restaurant,Toulouse,,,,43.575948,1.4061575
+12205185860,node,Noumi's Grill,restaurant,Toulouse,,,,43.5758946,1.405495
+12205194719,node,Cantine de Fred,restaurant,Toulouse,,,,43.5753466,1.4071284
+12222370408,node,L'Élite,restaurant,Toulouse,,,,43.5617849,1.4065648
+12234283210,node,Cama'Or,restaurant,Toulouse,,,https://camaor-restaurant.eatbu.com/?lang=fr,43.5487778,1.3999445
+12245869055,node,Guapo,restaurant,Toulouse,"4 Rue Labéda, 31000, Toulouse",31000,https://guapo-toulouse.fr/,43.6045301,1.4494502
+12252366656,node,Le St-Exupéry,restaurant,Toulouse,,,,43.5872161,1.4615784
+12253588531,node,Le Grand Café du Stade,restaurant,Toulouse,,,,43.6050702,1.4496913
+12273511833,node,Au Comptoir,restaurant,Toulouse,,,,43.5995433,1.4542075
+12282027357,node,La Madeleine de Proust,restaurant,Toulouse,,,,43.6009326,1.440674
+12291688422,node,Matcha Moka,restaurant,Toulouse,,,,43.536976,1.3430255
+12301862128,node,Le Bon Saint-Simon,restaurant,Toulouse,,,,43.5628029,1.3720677
+12306698182,node,Le Billot de Lucien,restaurant,Toulouse,"1 Rue Henry Gladi, 31270, Cugnaux",31270,https://www.restaurantlebillot.fr/restaurant-cugnaux,43.5466345,1.3525667
+12309699789,node,Toulouse Pasta Club,restaurant,Toulouse,,,https://toulousepastaclub.com/,43.5971901,1.4281085
+12321070497,node,Phở Lộc Phát,restaurant,Toulouse,,,,43.6061772,1.447339
+12324336370,node,Sapori di italia,restaurant,Toulouse,,,https://www.ubereats.com/fr/store/pizzeria-sapori-di-italia/Vr8DDbI2RF6rSkNAbRQPvA?diningMode=PICKUP,43.606503,1.4284039
+12334480012,node,Pizza Yoyo,restaurant,Toulouse,,,,43.4970765,1.5199886
+12353955183,node,Lisetta,restaurant,Toulouse,"43 Rue Gambetta, 31330, Grenade",31330,www.instagram.com/lisetta_trattoria,43.7722394,1.292897
+12353955186,node,La croisée des saveurs,restaurant,Toulouse,"54 Rue de la République, 31330, Grenade",31330,www.restaurant-croiseedessaveurs.com/fr,43.7720209,1.2919674
+12387200126,node,Furahaa,restaurant,Toulouse,,,,43.6076246,1.4471766
+12388954395,node,Saveurs de l'Everest,restaurant,Toulouse,,,,43.6056941,1.4523704
+12388954396,node,Sarbacane,restaurant,Toulouse,,,https://restaurant-sarbacane.fr/,43.6056436,1.4523697
+12391528087,node,Pizza Hut,restaurant,Toulouse,,,,43.627246,1.4337347
+12444529662,node,Italian Pizzeria Venezia,restaurant,Toulouse,,,,43.665424,1.4304055
+12455806981,node,Creperie urbaine,restaurant,Toulouse,44 Avenue de Castelnaudary,,https://oudimmo.wixsite.com/revel,43.455119,1.9948526
+12466736701,node,Le Semial,restaurant,Toulouse,19 Chemin de Sémial,,,43.4731858,1.4971869
+12470879033,node,Champêtre,restaurant,Toulouse,,,,43.5783485,1.4500315
+12471634888,node,Pokoshi,restaurant,Toulouse,16 Place Richard,,https://pokoshi.fr,43.5152735,1.4978437
+12479550692,node,Pizza di Mama,restaurant,Toulouse,27 Boulevard Pierre et Marie Curie,,https://www.pizzadimama.fr/,43.6245789,1.443049
+12485147108,node,Pizzeria Bonici,restaurant,Toulouse,,,https://www.pizzabonici.com/,43.6114263,1.4954505
+12492193721,node,Apulian,restaurant,Toulouse,,,https://apulian.fr,43.5440439,1.4791463
+12492359744,node,Sushi Kinjo,restaurant,Toulouse,,,,43.6021644,1.4406279
+12509177883,node,Yaz cantine,restaurant,Toulouse,,,https://www.yazcantine.com,43.608728,1.451319
+12516784501,node,Seven Bistro,restaurant,Toulouse,"334 Avenue de Grande Bretagne, 31300, Toulouse",31300,https://www.sevenline.fr/bar-restaurant/,43.6077095,1.4002409
+12522756785,node,Trois Sœurs Là Suite,restaurant,Toulouse,,,,43.599904,1.4432967
+12539600839,node,Les Halles d'Adrien,restaurant,Toulouse,,,https://www.leshallesdadrien.fr/,43.5542623,1.3988506
+12568464438,node,Sushi Kare House,restaurant,Toulouse,15 Avenue de la Gloire,,https://sushikarehouse.com/,43.6055451,1.4588042
+12568464444,node,Les Colonnades,hotel,Toulouse,18 Rue du Général Jean Compans,,,43.6080424,1.456807
+12600891952,node,CIS « Toulouse - La Mounède »,hotel,Toulouse,"1 Rue Claude-Marie Perroud, 31100, Toulouse",31100,https://www.lamounede.org/,43.5728931,1.379367
+12609549501,node,Spice palatte,restaurant,Toulouse,"2 Rue Joutx Aigues, 31000",31000,,43.5984044,1.4430866
+12617843058,node,Mama Shelter,restaurant,Toulouse,,,https://mamashelter.com/toulouse/,43.6049674,1.4498714
+12623529107,node,Proteine Eat,restaurant,Toulouse,"14 Rue Marie-Louise Dissard, 31300, Toulouse",31300,https://linktr.ee/proteine.eat,43.6034533,1.3653368
+12625747901,node,Burger Beer & CO,restaurant,Toulouse,"19 Rue de la Poste, 31330",31330,https://burgerandco.fr,43.7804666,1.3102644
+12628125955,node,Miyama,restaurant,Toulouse,,,https://miyama.byclickeat.fr/,43.596675,1.444239
+12628742886,node,La Côte et l'Arête,restaurant,Toulouse,"9, 31830, Plaisance-du-Touch",31830,https://www.lacoteetlarete.fr/,43.5698205,1.3083598
+12638029827,node,La Cuistoloc,restaurant,Toulouse,"7 Boulevard Lascrosses, 31000, Toulouse",31000,,43.6108684,1.4376105
+12646021815,node,,restaurant,Toulouse,,,,43.5926089,1.3654288
+12666559995,node,Okaeri,restaurant,Toulouse,,,,43.6068818,1.4517378
+12696414615,node,L'épicerie,restaurant,Toulouse,"31 Route du Château d'Eau, 31840, Aussonne",31840,https://lepicerierestaurant.fr/,43.6839886,1.3197871
+12696454485,node,La Table des Olivier,restaurant,Toulouse,"50 Route de Merville, 31840, Aussonne",31840,https://www.la-table-des-oliviers.com/,43.6841561,1.3210325
+12696454498,node,Ô Bistrot Gourmand,restaurant,Toulouse,"129 Allée Lucie Aubrac, 31840, Aussonne",31840,,43.687656,1.3355717
+12707373201,node,Hotel Restaurant du Lauragais,hotel,Toulouse,"15 Rue de la République, 31290",31290,https://www.hoteldulauragais.com,43.3960828,1.7196816
+12716228969,node,Palais d'Asie,restaurant,Toulouse,,,,43.6880471,1.3363822
+12716228977,node,Le Scintila,restaurant,Toulouse,,,,43.6880502,1.337097
+12728211853,node,La Louka Pizzeria,restaurant,Toulouse,,,https://www.laloukapizzeria.fr/carte-1,43.6820458,1.3183119
+12728211860,node,La cremaillere,restaurant,Toulouse,,,,43.6821188,1.3180247
+12736759265,node,"Imago, café, bar, restaurant",restaurant,Toulouse,"Place Maurice Pontich, 31330, Larra",31330,https://imago-restaurant.fr,43.7392977,1.2331002
+12787622484,node,Faire Sens,restaurant,Toulouse,,,https://fairesens-restaurant.com/,43.5989396,1.4342114
+12829932495,node,Le Menthe à l'eau,restaurant,Toulouse,"Place des Fêtes, 31770, Colomiers",31770,,43.6085384,1.3330342
+12829941339,node,Bistrot Véo,restaurant,Toulouse,,,https://colomiers.veocinemas.fr/bistrot-veo/,43.6090973,1.3308274
+12839652040,node,La Palmeraie,restaurant,Toulouse,1 Avenue de Fondeyre,,https://www.hotel-restaurant-la-palmeraie.fr/,43.6445748,1.4262164
+12842276202,node,Kita'nago,restaurant,Toulouse,,,,43.5865829,1.4636863
+12855149511,node,Himari Sushi,restaurant,Toulouse,,,,43.6084491,1.3793214
+12855149513,node,Le Mékong,restaurant,Toulouse,"187 Route de Bayonne, 31300, Toulouse",31300,https://lemekong-thaifood.fr,43.6084074,1.3792389
+12883887837,node,Izmir Grill,restaurant,Toulouse,,,,43.6075659,1.3973911
+12886004804,node,KAWOK,restaurant,Toulouse,,,https://kawok-toulouse.fr/,43.5992835,1.4169357
+12899654101,node,Battambang,restaurant,Toulouse,31830,31830,,43.567593,1.3081714
+12909071940,node,Pizza Del Pais,restaurant,Toulouse,"100 Avenue de la Fontasse, 31290, Villefranche-de-Lauragais",31290,https://www.facebook.com/LaPizzaDelPaisVillefrancheDeLauragais,43.4001671,1.7143292
+12918772246,node,Chez Fernande,restaurant,Toulouse,"11 Avenue de Lavaur, 31590, Verfeil",31590,,43.6580492,1.6643949
+12948951394,node,Les Jardins de Candie,restaurant,Toulouse,,,https://lesjardinsdecandie.com/,43.543665,1.3891536
+12959674968,node,Les Thermes Kongfu,restaurant,Toulouse,,,https://lesthermes-toulouse.fr,43.6046896,1.4501408
+12987890613,node,Mezzoday,restaurant,Toulouse,,,,43.4834068,1.5492183
+12987890614,node,Crep'Eat,restaurant,Toulouse,,,,43.4834879,1.5494078
+12987890615,node,Brioche Dorée,restaurant,Toulouse,,,,43.4834267,1.5494
+12987942201,node,La Dinée,restaurant,Toulouse,,,,43.3530439,1.8068853
+12987942202,node,Midi Pile,restaurant,Toulouse,,,,43.3529865,1.8067645
+12987942203,node,Comptoir du Lauragais,restaurant,Toulouse,,,,43.3529622,1.8068057
+12987952141,node,Brioche Dorée,restaurant,Toulouse,,,,43.4860119,1.5496205
+12987952142,node,Mezzoday,restaurant,Toulouse,,,,43.4859515,1.5496394
+12995745802,node,Bongkok Bol,restaurant,Toulouse,"221 Avenue de Fronton, 32100",32100,http://bangkok-bol.fr/,43.6467164,1.4330612
+12996865752,node,Gaïa,restaurant,Toulouse,,,https://gaia-toulouse.com/,43.6000993,1.4479845
+13001722625,node,Résidence Orfea Toulouse,hotel,Toulouse,"2 Rue de Périole, 31500, Toulouse",31500,,43.6119619,1.456447
+13006542101,node,Les Soeurs Veg,restaurant,Toulouse,,,https://les-soeurs-veg.fr,43.6481398,1.3360317
+13059868210,node,Miami Crousty,restaurant,Toulouse,"15 Route de Toulouse, 31490, Léguevin",31490,https://miamicrousty.com/,43.600365,1.245619
+13063579207,node,Pizza Papa Distello,restaurant,Toulouse,"42 Avenue de la Borde-Haute, 31750, Escalquens",31750,https://www.pizzapapadistelo.com/,43.5178751,1.5618653
+13068078672,node,Acte 2,restaurant,Toulouse,"1 Rue Paneboeuf, 31400, Toulouse",31400,https://yannickdelpech-acte2.fr/,43.5932153,1.4605557
+13073876520,node,"Étoile d'orient - Épicerie orientale, patisserie, salon de thé & restauration",restaurant,Toulouse,149 Grande Rue Saint-Michel,,,43.5909017,1.4450639
+13075707841,node,Iris Saveur d'Orient,restaurant,Toulouse,15 Barrière de Lombez,,,43.5960189,1.4191639
+13088931895,node,Antho et Rita,restaurant,Toulouse,63 Allées Charles de Fitte,,,43.5971379,1.4310279
+13105235916,node,Odom,restaurant,Toulouse,,,https://odomtoulouse.com/,43.599826,1.432892
+13128797507,node,L'Esquina,restaurant,Toulouse,,,,43.6120413,1.4363706
+13131111260,node,Le Muang Thaï,restaurant,Toulouse,"136 Rue Achille Viadieu, 31400, Toulouse",31400,,43.5907526,1.4445672
+13133064807,node,Brunch&Co,restaurant,Toulouse,"82 Route de Grenade, 31700, Blagnac",31700,https://brunchandco.eatbu.com,43.6336547,1.3915554
+13142496428,node,Si ma cantine m'était contée,restaurant,Toulouse,2 Chemin des Izards,,,43.6367901,1.4442775
+13149860346,node,Tinos Pizza,restaurant,Toulouse,,,https://www.tinospizza-tournefeuille.fr/,43.5842272,1.3427118
+13158620280,node,Saveur d'Asie Express,restaurant,Toulouse,"4 Rue de la République, 31300, Toulouse",31300,,43.5987477,1.4362733
+13167335205,node,Joya,restaurant,Toulouse,,,https://joyatoulouse.fr/,43.570856,1.3135114
+13167713761,node,Brit Hotel,hotel,Toulouse,4 Esplanade François Mitterrand,,,43.6055334,1.3359055
+13167765566,node,Friendly Auberge,restaurant,Toulouse,"32 Rue Gilet, 31770, Colomiers",31770,http://friendsauberge.com/friendlyauberge2.html,43.6122888,1.3402269
+13176658848,node,Source,restaurant,Toulouse,64 Avenue Antoine de Saint-Exupéry,,https://www.restaurantsourcetlse.com/,43.5855811,1.4656078
+13183953689,node,Food'Korner 31,restaurant,Toulouse,,,,43.5775461,1.3133172
+13188220686,node,Peppino,restaurant,Toulouse,170 Avenue Jean Rieux,,https://peppinotoulouse.com,43.5901116,1.4701188
+13188243599,node,La Compagnie Française,restaurant,Toulouse,,,,43.5910351,1.4471592
+13238886115,node,My Kebab,restaurant,Toulouse,10 Avenue de Muret,,,43.5797616,1.4241101
+13277079434,node,Le trio gourmand - rotisserie grillade pizza,restaurant,Toulouse,,,,43.5969977,1.4311392
+13287682255,node,Kouang-Wa,restaurant,Toulouse,,,,43.597394,1.4302414
+13299168540,node,Resto U' Le Théorème,restaurant,Toulouse,,,https://www.crous-toulouse.fr/restaurant/resto-u-le-theoreme/,43.5619926,1.4634238
+13308179731,node,Galabar,restaurant,Toulouse,,,https://restaurantgalabar.fr/,43.5832391,1.5136272
+13326023260,node,Armenian Bakery,restaurant,Toulouse,74 Allées Jean Jaurès,,,43.6078176,1.4524009
+13326155895,node,Tribal,restaurant,Toulouse,,,,43.5319235,1.3562275
+13342722934,node,Au cœur de Tunis,restaurant,Toulouse,32 Allées Charles de Fitte,,,43.5957051,1.4326633
+13361536781,node,Casa Picone,restaurant,Toulouse,,,,43.6249787,1.3996155
+13363479901,node,Ô Trevi,restaurant,Toulouse,4 Place de la République,,,43.7424005,1.3704197
+13369327145,node,Ytaing - fast food - spécialités asiatiques,restaurant,Toulouse,14 Avenue Étienne Billières,,,43.597514,1.4283649
+13369358438,node,Croustille,restaurant,Toulouse,,,,43.5971452,1.429963
+13374311333,node,Am Nam,restaurant,Toulouse,,,,43.4591952,2.0019113
+13374321609,node,La Toquée du Bocal,restaurant,Toulouse,,,,43.4593955,2.0035558
+13388509458,node,L'Italien,restaurant,Toulouse,1 bis Rue du Pont Saint-Pierre,,,43.5984739,1.4322233
+13388749380,node,Vaudeville,restaurant,Toulouse,2,,,43.5868304,1.4634429
+13390537010,node,le M'BWAFOUÈ,restaurant,Toulouse,,,,43.6015875,1.4530736
+13399610822,node,Pizza Luna Rossa,restaurant,Toulouse,,,,43.6185317,1.39664
+13404418919,node,Comme à la maison,restaurant,Toulouse,,,,43.6362932,1.38385
+13460285489,node,Au Bureau,restaurant,Toulouse,,,,43.644859,1.3739211
+13462150690,node,Café Francis,restaurant,Toulouse,"181 avenue des états unis, 31000, Toulouse",31000,,43.6386762,1.4294196
+13468063806,node,Le quartier général,restaurant,Toulouse,,,,43.4579875,2.0051835
+13484702262,node,Va Fanciullo !,restaurant,Toulouse,45 Rue Gabriel Péri,,https://www.va-fanciullo.fr/fr/,43.6063892,1.455579
+13506792323,node,La Conserverie,restaurant,Toulouse,,,https://restaurantlaconserverie.com/,43.5956322,1.4462106
+13513020526,node,Esprit libre,restaurant,Toulouse,"4 Rue de la République, 31270",31270,https://www.creperie-espritlibre.fr,43.5238952,1.3426528
+13514956762,node,La Petit Napolitain,restaurant,Toulouse,"22 Rue du Pré Vicinal, 31270, Cugnaux",31270,,43.5381403,1.3415964
+13526653940,node,Sangha Toulouse,hotel,Toulouse,,,https://www.sanghahotels.com/,43.6017658,1.4069476
+13531851485,node,Chez Papi et Mami,restaurant,Toulouse,,,,43.8637509,1.5049274
+13565672825,node,Les Tontons Viandards,restaurant,Toulouse,"143 Rue Pierre-Gilles de Gennes, 31670, Labège",31670,https://lestontonsviandards.fr,43.5395936,1.5139179
+13566894209,node,Kumquat,restaurant,Toulouse,227 Rue Pierre-Gilles de Gennes,,https://kumquat-cantine-vietnamienne.fr/labege,43.540466,1.5139095
+13577480941,node,Restaurant Spok Toulouse Labège,restaurant,Toulouse,"227 Rue Pierre-Gilles de Gennes, 31670, Labège",31670,https://restaurants.spok.fr/toulouse-labege/,43.5401994,1.5139864
+13613040998,node,Jap'n wok,restaurant,Toulouse,,,,43.5515465,1.5337431
+13619802846,node,Marrakech,restaurant,Toulouse,,,https://www.marrakech-restaurant.fr/,43.6058599,1.4503991
+13622107571,node,Supper Bar Restaurant,restaurant,Toulouse,1151 Avenue de l'Occitanie,,https://supper-moment.fr/,43.5430773,1.5086124
+13626368620,node,La Cantine d'Horace,restaurant,Toulouse,39 Chemin de Virebent,,,43.6474376,1.4635239
+13626704360,node,Le Bistronum,restaurant,Toulouse,"2 Rond-Point de Madame de Mondonville, 31200, Toulouse",31200,https://lemetronum.fr/bistronum/,43.6413112,1.4505434
+13630142586,node,Les Brochettes,restaurant,Toulouse,,,,43.5949961,1.4217988
+13640543691,node,Moji,restaurant,Toulouse,"36-54 Route de Bayonne, 31300, Toulouse",31300,https://mojifusionfood.com/,43.6097406,1.3937577
+13650166170,node,Gusto Napoli,restaurant,Toulouse,"2 Rue de Grenoble, 31500, Toulouse",31500,https://gustonapoli.fr/,43.6261936,1.4665624
+13656859236,node,La Brigade,restaurant,Toulouse,,,https://www.la-brigade.fr/resto-toulouse-blagnac,43.6446902,1.3734984
+13722696726,node,Buona Pizza,restaurant,Toulouse,,,,43.6660119,1.4413051
+13753166975,node,Pizzaliano,restaurant,Toulouse,,,,43.5779655,1.4428198
+13765777777,node,Une Chambre en Ville,hotel,Toulouse,,,https://toulouse.unechambreenville.fr/,43.6153731,1.4394073
+13769818412,node,Bistro Garonne,restaurant,Toulouse,,,https://www.theatregaronne.com/information/bistro-garonne,43.6028564,1.425573
+13811339337,node,Protéine Eat,restaurant,Toulouse,"7 Rue du Faubourg Bonnefoy, 31500, Toulouse",31500,,43.6166139,1.4536174
+13875543799,node,VagaBon,restaurant,Toulouse,,,,43.6537948,1.4915054
+13893817643,node,La guinguette en l'air,restaurant,Toulouse,,,https://laguinguette-enlair.fr/,43.6932938,1.3911452
+13895234667,node,Restaurant Pizzeria la Terrasse,restaurant,Toulouse,"27 Cours Pasteur, 31460, Caraman",31460,https://pizzeria-la-terrasse.odoo.com,43.5290928,1.7593282
+13895931681,node,MPA,restaurant,Toulouse,,,,43.657558,1.4802742
+13896432220,node,Abondance,restaurant,Toulouse,,,,43.6496023,1.4848288
+13931141201,node,Tajaal Ma,restaurant,Toulouse,"82 Avenue Antoine de Saint-Exupéry, 31400",31400,,43.5851801,1.4666041
+13935065694,node,Chez Marc et Mimi,restaurant,Toulouse,,,https://www.marc-et-mimi.fr/,43.8590059,1.5059086
+13953678139,node,La perle des Antilles,restaurant,Toulouse,,,,43.6285216,1.4492166
+13962559460,node,Restauration scolaire Jean Jaurès,restaurant,Toulouse,,,,43.6883672,1.4151667
+13972433111,node,ACE Hôtel Blagnac Toulouse,hotel,Toulouse,"35bis Route de Toulouse, 31700, Cornebarrieu",31700,https://www.ace-hotel-toulouse.com/fr/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=lien,43.6517176,1.3334561
+13987579603,node,Campanile Toulouse Ouest - Purpan,hotel,Toulouse,"33 Route de Bayonne, 31300",31300,,43.6066137,1.3936164
+13988057101,node,Le Bellevue,restaurant,Toulouse,"10 Rue Principale, 31180",31180,,43.6830586,1.485544
+13988416702,node,Pizzeria Beau Soleil,restaurant,Toulouse,"Rue Principale, 31180",31180,https://pizzeria-beau-soleil.netlify.app/,43.6848748,1.4863388

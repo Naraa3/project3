@@ -1,0 +1,1188 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+497210847,node,Au Pot'j,restaurant,Lille,"53 Chaussée de l'Hôtel de Ville, 59650, Villeneuve-d'Ascq",59650,http://www.lepotj.fr,50.6197023,3.1307713
+497211093,node,Del Antico,restaurant,Lille,,,,50.6200644,3.1306804
+527186674,node,L'escale,restaurant,Lille,,,https://lescale59.eatbu.com,50.6346408,3.0402339
+563837791,node,Le Gallodrome,restaurant,Lille,"Rue de Gand, Neuville-en-Ferrain",,,50.749889,3.1830202
+583242433,node,Hôtel Carlton,hotel,Lille,,,,50.6367618,3.0653555
+617240499,node,Pinocchio,restaurant,Lille,,,,50.6383299,3.0684087
+617240501,node,L'Opera Corner,restaurant,Lille,,,,50.6375664,3.0675295
+617240503,node,Le Royal,restaurant,Lille,,,,50.6381356,3.0664352
+617639561,node,Restaurant In Bocca Lupo,restaurant,Lille,,,,50.6407517,3.0613787
+617639563,node,Au Vieux de la Vieille,restaurant,Lille,,,,50.6408939,3.061407
+665892696,node,Brasserie de la Cité,restaurant,Lille,"51 Rue Sylvère Verhulst, 59000, Lille",59000,,50.6101982,3.0403067
+674884875,node,"Crêperie Saint-Georges,",restaurant,Lille,,,,50.6395356,3.0612698
+706335503,node,La bottega,restaurant,Lille,"7 bis Rue au Péterinck, 59000, Lille",59000,https://www.la-bottega.com/la-bottega-pizzeria.php,50.6411433,3.0618224
+724226254,node,Euro Istanbul,restaurant,Lille,"15 Place Charles Frémaux, 59320, Haubourdin",59320,,50.6108362,2.9833277
+747100669,node,Les Grains de Mimma,restaurant,Lille,11 Avenue Gustave Dron,,https://lesgrainsdemimma.fr/,50.7198066,3.1620174
+766467483,node,L'almanach,restaurant,Lille,,,,50.6113058,3.1924495
+766483368,node,Au Bureau,restaurant,Lille,"21 Avenue de l'Avenir, 59260, Lezennes",59260,https://www.aubureau.fr/restaurant-brasserie/au-bureau-lezennes,50.6144973,3.1251486
+766483369,node,Volfoni,restaurant,Lille,"21 Avenue de l'Avenir, 59260, Lezennes",59260,https://www.volfoni.fr/restaurant/volfoni-lezennes/,50.6146007,3.1249983
+766483375,node,La Table de Chéreng,restaurant,Lille,"142 Route Nationale, 59152, Chéreng",59152,,50.6097245,3.2112449
+785842654,node,Au Four à Bois - Estaminet,restaurant,Lille,,,,50.6722593,3.0198044
+785904628,node,Café de la Fontaine,restaurant,Lille,"12 Rue de la Fontaine, 59237, Verlinghem",59237,,50.6835259,2.9951854
+798384358,node,Campanile - Wasquehal,hotel,Lille,,,,50.68251,3.1152078
+872111188,node,Korner Pizza,restaurant,Lille,65 Rue Pierre Catteau,,,50.7022172,3.2120537
+881586920,node,Le Petit Boulevard,restaurant,Lille,"851 bis Avenue de la République, 59700, Marcq-en-Barœul",59700,,50.6594009,3.0911252
+901224865,node,Luzzi Pizza,restaurant,Lille,,,,50.6156045,3.2343289
+924020743,node,Ibis,hotel,Lille,,,,50.7204455,3.1612135
+946622200,node,Basilik Pizzeria,restaurant,Lille,"2 Boulevard Clemenceau, 59510, Hem",59510,,50.6545445,3.1891152
+981107113,node,La Mamounia,restaurant,Lille,,,,50.6220277,3.0536026
+1000088357,node,Salade&Co,restaurant,Lille,"Avenue de l'Avenir, 59650, Villeneuve-d'Ascq",59650,https://www.saladandco.fr/restaurant/restaurant-villeneuve-dascq,50.6154434,3.1252808
+1000088479,node,Au Bistrot Batignolles,restaurant,Lille,"59260, Lezennes",59260,,50.6144036,3.1252805
+1000088530,node,Old Wild West,restaurant,Lille,"Avenue de l'Avenir, 59260, Lezennes",59260,https://www.oldwildwest.fr/restaurants/old-wild-west-villeneuve-c-c-heron-parc,50.6152335,3.1254032
+1000088552,node,IT Trattoria,restaurant,Lille,"40 Rue de la Vague, 59650, Villeneuve-d'Ascq",59650,https://it-trattoria.fr/restaurant/heron-parc,50.6157415,3.1258578
+1000088628,node,Steak N Coffee,restaurant,Lille,"Rue de la Vague, 59650, Villeneuve-d'Ascq",59650,https://www.steakncoffee.com/,50.6158317,3.1252666
+1000088651,node,Sushi Kyo,restaurant,Lille,"10 Rue du Vaisseau, 59650, Villeneuve-d'Ascq",59650,http://sushikyo59.fr/,50.6157364,3.1251197
+1109149525,node,de achtste zaligheid,restaurant,Lille,,,,51.2325016,4.8311784
+1149410766,node,Out Fry,restaurant,Lille,,,,50.6361608,3.0270592
+1187495792,node,l'auberge de Mouvaux,restaurant,Lille,,,https://www.lauberge-mouvaux.fr/,50.7021477,3.1344517
+1286855098,node,,restaurant,Lille,,,,50.6764575,3.2040895
+1288034974,node,Plan Nord,restaurant,Lille,,,,50.6385886,3.0627174
+1300838096,node,Restaurant Le Cozy,restaurant,Lille,,,,50.6670825,3.2112257
+1402607822,node,Le Barbier qui fume,restaurant,Lille,,,,50.641375,3.0620802
+1421428639,node,,restaurant,Lille,,,,50.6655426,3.1047171
+1426746722,node,Le Ch'ti Boucanier,restaurant,Lille,,,,50.5387761,3.0788342
+1443459987,node,Hôtel Lille Europe,hotel,Lille,"Avenue Le Corbusier, 59777, Lille",59777,https://www.hotel-lille-europe.com,50.6378389,3.0725407
+1471840564,node,Rosso & Bianco,restaurant,Lille,,,,50.61063,3.1594255
+1486816615,node,Royal couscous,restaurant,Lille,,,,50.6802889,3.0836748
+1493527582,node,Mangia,restaurant,Lille,4 Dorp,,http://217.199.187.71/restaurantferm.be/,51.2271761,4.8359757
+1497317734,node,Het Laar,restaurant,Lille,,,,51.2839731,4.8575752
+1502852082,node,"La Réserve, bar à manger",restaurant,Lille,,,,50.6258148,3.051623
+1534538443,node,Novotel Lille Centre Gares,hotel,Lille,"49 Rue de Tournai, 59000, Lille",59000,https://all.accor.com/hotel/3165/index.fr.shtml,50.6344827,3.0735303
+1534538447,node,Hôtel Ibis Lille Centre Gares,hotel,Lille,,,,50.6346891,3.0711944
+1551988924,node,Le Zen,restaurant,Lille,,,,50.5520413,3.0515037
+1620325366,node,Melodie,restaurant,Lille,,,,51.2429743,4.82493
+1632684049,node,Krevette,restaurant,Lille,,,,50.624995,3.0682571
+1632827857,node,Le chat qui fume,restaurant,Lille,,,,50.6294217,3.055281
+1666919660,node,Originale Pepizz,restaurant,Lille,92 Rue Georges Potié,,,50.6134344,3.001749
+1667692964,node,Jojo Grill,restaurant,Lille,,,,50.6313541,3.0596256
+1751647429,node,Les trois lions,restaurant,Lille,,,,50.7827963,3.1256536
+1751673246,node,Pizza City,restaurant,Lille,,,https://pizza-city.fr/halluin/,50.7814074,3.1390622
+1751673252,node,Le Phoenix,restaurant,Lille,,,,50.767738,3.1223908
+1769053109,node,Le Grain d'Orge,restaurant,Lille,"1 Rue de Wattrelos, 59115",59115,https://www.brasserie-graindorge.net/,50.6820815,3.2445752
+1770253319,node,,restaurant,Lille,,,,50.6518449,3.1253024
+1770433160,node,Ibis Styles,hotel,Lille,172 Rue Pierre Mauroy,,https://all.accor.com/hotel/1384/index.fr.shtml,50.6324562,3.0679248
+1780238366,node,Rituel,restaurant,Lille,,,https://rituel-bar-restaurant-lille.fr/,50.639772,3.0538914
+1791504460,node,L'auberge du tilleul,restaurant,Lille,"14 Rue du Docteur Coubronne, 59510, Hem",59510,,50.6510625,3.189953
+1893343973,node,Le Bistrot 235,restaurant,Lille,"235 Avenue de l'Hippodrome, 59130",59130,https://www.bistrot235.com/,50.6443896,3.0284593
+1893346920,node,La Cense,restaurant,Lille,,,http://la-cense.fr/,50.6443079,3.0273581
+1895318109,node,La Table du Colysée,restaurant,Lille,201 Avenue du Colysée,,https://www.latableducolysee.fr/,50.6390871,3.0353058
+1949064327,node,Relais Volubilis,hotel,Lille,,,,50.6756616,3.1164392
+1949064338,node,Hôtel Première Classe Lille Nord - Marcq-en-Baroeul,hotel,Lille,"340 Avenue de la Marne, 59700, Marcq-en-Barœul",59700,,50.6756743,3.1177784
+1988585061,node,Le Melting Pot,restaurant,Lille,,,,50.6375676,3.066259
+1998722265,node,Pancook Zénith,restaurant,Lille,,,https://pancook.fr,50.6309247,3.0766388
+1998722266,node,Le Bistronome,restaurant,Lille,,,,50.6282999,3.0789427
+2036060248,node,Cosy's Apart'Hotel Lille Vauban,hotel,Lille,,,,50.6321786,3.046742
+2036292626,node,Hoover Garden,restaurant,Lille,,,,50.6271513,3.0794471
+2042755916,node,Memphis,restaurant,Lille,"3 Avenue de l'Avenir, 59650, Villeneuve-d'Ascq",59650,https://restaurants.memphis-restaurant.com/villeneuve-dascq,50.6156351,3.1258539
+2061506703,node,greet hotel Lille Gare Flandres,hotel,Lille,,,https://all.accor.com/hotel/B943/index.fr.shtml,50.6355357,3.0697849
+2061506705,node,Brit Hotel Lille Centre,hotel,Lille,66 Rue Littré,,https://hotel-lille.brithotel.fr/,50.6262678,3.0519278
+2061506706,node,Citadines Apart'Hotel,hotel,Lille,"83 Avenue Willy Brandt, 59777, Lille",59777,,50.6371975,3.0724072
+2061506708,node,Citotel Nord Hotel,hotel,Lille,48 Rue du Faubourg d'Arras,,,50.6120643,3.06137
+2061506710,node,Hôtel Ibis Styles Lille Centre Grand Place,hotel,Lille,,,https://all.accor.com/hotel/9420/index.fr.shtml,50.6374698,3.0668239
+2061506712,node,Ibis Budget Lille Centre,hotel,Lille,"10 Rue de Courtrai, 59000, Lille",59000,https://all.accor.com/hotel/5208/index.fr.shtml,50.6424929,3.0679599
+2061506713,node,Hôtel Adagio Access Lille Vauban,hotel,Lille,17 Rue Colson,,,50.6328315,3.0495276
+2061506715,node,Hôtel Alliance Couvent des Minimes,hotel,Lille,,,https://alliance-couventdesminimes.fr/,50.6379996,3.0549464
+2061506716,node,Hôtel Chagnot,hotel,Lille,,,https://hotel-chagnot-lille.com/fr/,50.636122,3.0693598
+2061506718,node,Best Western Lille Grand Palais,hotel,Lille,48 Rue de Valenciennes,,,50.6232817,3.0758093
+2061506719,node,Hôtel Rosa,hotel,Lille,,,https://www.rosa-hotel.com/,50.6369363,3.0693916
+2061506722,node,Hôtel La Valiz,hotel,Lille,,,,50.6370053,3.0695808
+2061506738,node,Hôtel Holiday Inn Express,hotel,Lille,75 bis Rue Léon Gambetta,,,50.6307047,3.0580704
+2061506751,node,Hôtel Ibis Lille Lomme,hotel,Lille,,,,50.6464242,3.0093619
+2061506763,node,Hôtel Ibis Lille Centre Grand-Place,hotel,Lille,"21 Rue Lepelletier, 59000, Lille",59000,https://all.accor.com/hotel/0902/index.fr.shtml,50.6382943,3.0630142
+2061506775,node,Hôtel Kanaï,hotel,Lille,,,,50.6349995,3.0640113
+2061506779,node,Comfort,hotel,Lille,"110 Rue du Grand But, 59160, Lomme",59160,,50.6473435,2.9759198
+2061506786,node,Le Coq Hardi,hotel,Lille,,,,50.6358282,3.0696911
+2061506803,node,Lille City Hotel,hotel,Lille,,,,50.633534,3.0632658
+2061506817,node,Hôtel Mister Bed Lomme,hotel,Lille,"110 Rue du Grand But, 59160, Lomme",59160,,50.6475303,2.9764853
+2061506829,node,BOA Hotel,hotel,Lille,"17 Place des Reignaux, 59800, Lille",59800,https://www.boa-hotel.fr/,50.6373749,3.0683561
+2061506835,node,Hôtel de Londres,hotel,Lille,,,https://www.hoteldelondreslille.com,50.6362442,3.0691859
+2061506837,node,Hôtel Mercure Lille-Centre Vieux-Lille,hotel,Lille,,,https://all.accor.com/hotel/9735/index.fr.shtml,50.6417519,3.0664834
+2061506844,node,Hôtel du Moulin d'Or,hotel,Lille,,,,50.6352154,3.0700392
+2061506846,node,Hôtel Kyriad Lille Gare - Grand Palais,hotel,Lille,"57 Rue Christophe Colomb, 59000, Lille",59000,https://lille-gare-grand-palais.kyriad.com/fr-fr/,50.6355823,3.0829422
+2061506849,node,Le Grand Hôtel,hotel,Lille,,,,50.636928,3.0679992
+2083240555,node,Hôtel Campanile Lille est - Villeneuve d’Ascq,hotel,Lille,"48 Avenue de Canteleu, Villeneuve-d'Ascq",,http://www.campanile-lille-est-villeneuve-dascq.fr/fr/index.aspx,50.6385704,3.1490038
+2096288520,node,Le Mother,restaurant,Lille,,,,50.6248761,3.0698595
+2096356682,node,Britney,restaurant,Lille,,,,50.6270933,3.0698077
+2101201538,node,Phoenicia,restaurant,Lille,,,,50.6282904,3.0618167
+2106822659,node,La P'tite Place,restaurant,Lille,,,,50.6243816,3.0457961
+2128162483,node,La Kas’bah,restaurant,Lille,,,,50.6996522,3.1378602
+2144509345,node,Sabores de Portugal,restaurant,Lille,,,,50.723503,3.1586009
+2144509384,node,Galata restaurant grill,restaurant,Lille,,,,50.7221105,3.1589578
+2194045043,node,Suzanne,restaurant,Lille,4,,,50.6282892,3.0609779
+2209116650,node,La Ducasse,restaurant,Lille,"95 Rue de Solférino, 59000, Lille",59000,https://www.laducasse.fr/,50.6322445,3.0531931
+2212550424,node,Les Compagnons de la Grappe,restaurant,Lille,"26 Rue Lepelletier, 59000",59000,,50.6386495,3.0631737
+2213793320,node,La Petite Table,restaurant,Lille,,,,50.6411917,3.0623798
+2280117395,node,Au Coin Gourmand,restaurant,Lille,,,,50.5250604,3.2829064
+2290454123,node,,restaurant,Lille,,,,50.6932894,3.1843259
+2306297992,node,Mam's,restaurant,Lille,,,https://www.chezmams.fr/,50.657565,3.0836524
+2318108979,node,Au Ch'ti,restaurant,Lille,,,,50.6644497,3.1453034
+2327369839,node,Hippopotamus,restaurant,Lille,"Avenue de l'Avenir, 59650, Villeneuve-d'Ascq",59650,https://restaurants.hippopotamus.fr/hippopotamus-steakhouse-0959664f7fb0,50.6158947,3.1248772
+2329407915,node,Le Fort,restaurant,Lille,"Rue de Normandie, 59370",59370,,50.6445483,3.1197086
+2335382474,node,Pickles,restaurant,Lille,,,,50.6264299,3.0641593
+2381056299,node,Beer & co,restaurant,Lille,,,,50.613101,3.1327383
+2387702294,node,La Crinière - Bistrot,restaurant,Lille,,,https://www.restaurant-lacriniere.fr/,50.6294967,3.046585
+2514383772,node,L'Île de Crête,restaurant,Lille,,,,50.6435137,3.0678416
+2530847662,node,Le Barbue d'Anvers,restaurant,Lille,,,,50.6373783,3.0620151
+2567893852,node,O'labo,restaurant,Lille,,,,50.6274687,3.0794838
+2580523463,node,Les Fils à Maman,restaurant,Lille,,,,50.6425951,3.0664119
+2580536778,node,Sweet Africa,restaurant,Lille,,,,50.6281366,3.0577936
+2642036230,node,Daikanyama,restaurant,Lille,,,,50.6424418,3.0665156
+2642036231,node,Le bistrot Lillois,restaurant,Lille,,,,50.6421205,3.0661265
+2659446315,node,Le Cap,restaurant,Lille,,,,50.6869786,3.0541741
+2659704516,node,Sympa,restaurant,Lille,,,,50.6365999,3.0651858
+2675547343,node,Point Fix,restaurant,Lille,,,,50.6462288,3.2207551
+2684780752,node,Bloempot,restaurant,Lille,"22 Rue des Bouchers, 59000, Lille",59000,https://www.bloempot.fr/,50.6381492,3.0583136
+2684794084,node,À Taaable !!,restaurant,Lille,,,,50.6427879,3.0669498
+2690729824,node,Appart City Lille Grand Palais,hotel,Lille,"19 Rue Berthe Morisot, 59000, Lille",59000,https://www.appartcity.com/apparthotel-lille-grand-palais/_R_12_31_/accueil-residence.htm,50.6291497,3.0812925
+2701926610,node,MakiWaō,restaurant,Lille,,,https://www.makiwao.fr/,50.6135028,3.0626774
+2717259558,node,Snack Center,restaurant,Lille,162 Rue Pierre Legrand,,,50.6328659,3.0906961
+2717259642,node,Pitta Fives,restaurant,Lille,178bis Rue Pierre Legrand,,,50.63266,3.0912611
+2717259648,node,Thai Wok,restaurant,Lille,187 Rue Pierre Legrand,,https://www.thaiwok59.fr/,50.6321941,3.0931931
+2717259662,node,TAT Berliner kebab,restaurant,Lille,190 Rue Pierre Legrand,,,50.6324757,3.0917502
+2717260093,node,Spicy naan,restaurant,Lille,250 Rue Pierre Legrand,,,50.631661,3.0939443
+2717260147,node,Thaïland Square,restaurant,Lille,260 Rue Pierre Legrand,,,50.6315415,3.0942676
+2737823104,node,Le Plateau,restaurant,Lille,"22 Rue du Fresnoy, 59200, Tourcoing",59200,https://restaurant-le-plateau.fr/,50.7000657,3.155108
+2835256530,node,Crêperie Beaurepaire,restaurant,Lille,,,https://www.creperiebeaurepaire.com/,50.6374461,3.0619951
+2875203833,node,Comfort Hotel Lille - Mons-en-Barœul,hotel,Lille,,,,50.6500487,3.1084209
+2875203834,node,La terrasse du Barœul,restaurant,Lille,,,,50.6500362,3.1082191
+2889583770,node,Tout Feu Tout Flamme,restaurant,Lille,131 Rue du Flocon,,,50.7122319,3.1506719
+2899737799,node,Cœur Grenadine,restaurant,Lille,"12 Rue au Péterinck, 59800, Lille",59800,https://www.instagram.com/coeurgrenadinelille?igsh=MTc0YmU5dmd4ODVndg==,50.6411458,3.0616704
+2911845115,node,Pulcinella,restaurant,Lille,,,https://www.lepulcinella.fr/,50.6218735,3.0384794
+2914940549,node,Het Hol (fermé),restaurant,Lille,"47 Avenue de Mont à Camp, 59160, Lomme",59160,,50.6416736,3.0143978
+2914965162,node,Best Mama,restaurant,Lille,"405 Avenue de Dunkerque, 59160, Lomme",59160,,50.6424229,3.0165717
+2943332020,node,L'Hôtel de France,restaurant,Lille,,,,50.691799,3.1737589
+2990459133,node,Pico,restaurant,Lille,,,https://pico.byclickeat.fr,50.6399277,3.0798447
+2990467933,node,L'Ultimo,restaurant,Lille,,,,50.640005,3.080315
+2995433301,node,Aux Éphérites,restaurant,Lille,,,,50.6296978,3.0614902
+2995433302,node,Cố đô Huế,restaurant,Lille,,,,50.629691,3.0611845
+3008667455,node,Hôtel moustache,hotel,Lille,"5 Rue de l'Hôtellerie, 59113, Seclin",59113,,50.5465109,3.0556518
+3009957235,node,Patrimoine Kabyle,restaurant,Lille,,,,50.6292468,3.0611855
+3009957237,node,Le Chantecler,restaurant,Lille,,,,50.6295794,3.0611866
+3018146147,node,Habesa Snack-Bar,restaurant,Lille,,,,50.6202563,3.0730562
+3021793001,node,Maharani,restaurant,Lille,,,http://www.maharani-lille.fr/,50.6336693,3.0614249
+3021793010,node,Le Court Debout,restaurant,Lille,,,https://www.le-court-debout.com,50.6330314,3.0635147
+3041931181,node,Sazanka,restaurant,Lille,,,,50.6528153,3.0824954
+3041931185,node,Guérino,restaurant,Lille,,,,50.6542879,3.0846009
+3051795383,node,La Terrasse de Prémesques,restaurant,Lille,1,,,50.6495624,2.9463375
+3068087930,node,Le Comptoir,restaurant,Lille,"Place du Général de Gaulle, 59320, Emmerin",59320,,50.592598,2.9990654
+3071641295,node,Fast'Hoch,restaurant,Lille,,,,50.6291592,3.0748964
+3097341967,node,Le Basilic,restaurant,Lille,,,https://www.le-basilic-restaurant-lille.fr/,50.6257267,3.0649562
+3145554688,node,L'Indigo,restaurant,Lille,,,,50.6255775,3.0560657
+3149810813,node,Pub Goudale Restaurant Lomme,restaurant,Lille,59160,59160,,50.6522552,2.986979
+3156368445,node,Antalya,restaurant,Lille,"5 Rue Haine Saint-Pierre, 59810, Lesquin",59810,,50.5904764,3.1159248
+3156830199,node,Pizzeria Le Grenier,restaurant,Lille,"88 Rue Nationale, 59200, Tourcoing",59200,,50.7246194,3.1537962
+3168210939,node,La Capitainerie,restaurant,Lille,"30 Avenue du Port Fluvial, 59250, Halluin",59250,https://lacapitaineriehalluin.zenchef.com/,50.7910372,3.1191158
+3201800182,node,Mon Petit Thaï,restaurant,Lille,,,,50.6287187,3.0525338
+3310645590,node,Au Bureau,restaurant,Lille,,,https://www.aubureau.fr/restaurant-brasserie/au-bureau-seclin,50.5468869,3.0514911
+3310645597,node,La Boucherie,restaurant,Lille,,,https://www.la-boucherie.fr/restaurant-viande/seclin/,50.546987,3.0523324
+3342236315,node,Le Dancing,restaurant,Lille,,,,50.648805,3.0429915
+3351412652,node,L'adresse,restaurant,Lille,,,,50.6378546,3.0582614
+3351422913,node,Les Bouchées Doubles,restaurant,Lille,,,http://www.lesboucheesdoubles59.com/,50.6773552,2.8746296
+3361872738,node,Ja colette,restaurant,Lille,,,,50.6675048,3.1437649
+3361872739,node,Ch'ti Charivari,restaurant,Lille,,,,50.667348,3.1436896
+3361872742,node,Eat Sushi,restaurant,Lille,Rue de Verdun,,,50.667432,3.1437397
+3362269802,node,Cesar Ristorante,restaurant,Lille,,,,50.6568677,3.147766
+3391758739,node,Chez Flavien,restaurant,Lille,,,https://www.chezflavien.com,50.4792163,3.1013894
+3423952656,node,DjurDjura,restaurant,Lille,28 Boulevard Jean-Baptiste Lebas,,,50.6268569,3.0682055
+3426407892,node,La Trinacria,restaurant,Lille,,,,50.6258418,3.0374524
+3430470069,node,Tumi,restaurant,Lille,,,,50.6309846,3.060279
+3474935193,node,B&B Hôtel,hotel,Lille,"83 Rue de Tournai, 59200, Tourcoing",59200,https://www.hotel-bb.com/fr/hotels/lille-tourcoing-centre.htm,50.7211885,3.1630201
+3481723897,node,B&B Hôtel,hotel,Lille,"Zac de l'epinette, 59113, Seclin",59113,https://www.hotel-bb.com/fr/-/hotelByName.htm?id=4262,50.5461542,3.0555147
+3517541441,node,Resto Lao,restaurant,Lille,,,,50.6853683,3.1142968
+3517691584,node,L'étoile d'asie,restaurant,Lille,,,,50.7220838,3.1606751
+3517895537,node,La Pataterie,restaurant,Lille,,,,50.7879528,3.1374811
+3518938832,node,J&J Sushi,restaurant,Lille,,,,50.7219438,3.1587644
+3569551912,node,Triolo Pizza,restaurant,Lille,"11 Rue Traversière, 59650, Villeneuve-d'Ascq",59650,https://www.triolopizza.com,50.6164337,3.1411526
+3629249199,node,Al Pomodoro,restaurant,Lille,,,,50.6329563,3.0533082
+3713723394,node,Youpi,restaurant,Lille,,,,50.6359414,3.0269868
+3732004444,node,L'Oriental,restaurant,Lille,,,,50.642834,3.016493
+3750397994,node,Chiquita Bacana Brasil,restaurant,Lille,,,,50.6434066,3.0677395
+3772617554,node,L'Estaminet Lillois,restaurant,Lille,,,,50.6386425,3.0575403
+3772617556,node,Le Chantilly,restaurant,Lille,"1 Rue Hoche, 59650, Villeneuve-d'Ascq",59650,,50.6588266,3.1493503
+3780649086,node,A La Bascule,restaurant,Lille,,,http://alabascule.com/,50.5267348,3.1686529
+3780649087,node,Chapitre VI,restaurant,Lille,,,https://www.chapitre6.fr,50.5271011,3.1707205
+3780649088,node,Fleur de Houblon - L'Estaminet,restaurant,Lille,"1 Rue Neuve, 59242, Templeuve en Pévèle",59242,https://lafleurdehoublon.fr/,50.5270809,3.1688763
+3817309357,node,B&B Hotel Lille Grand Stade,hotel,Lille,"217 Boulevard de Tournai, 59650, Villeneuve-d'Ascq",59650,https://www.hotel-bb.com/fr/hotel/lille-grand-stade,50.6131772,3.132961
+3878379244,node,La tulipe d'or,restaurant,Lille,"2 Rue du Bel Air, 59790, Ronchin",59790,,50.6082604,3.0897074
+3878380943,node,La Perle,restaurant,Lille,"7 Rue Anatole France, 59790, Ronchin",59790,,50.6097991,3.0860864
+3887370856,node,Hôtel Le Napoléon,hotel,Lille,,,,50.6370537,3.0696859
+3891346584,node,Ambassadeur,hotel,Lille,,,,50.6354319,3.0704915
+3891363374,node,Apparthotel Séjours & Affaires Lille Europe,hotel,Lille,"271 Avenue Willy Brandt, 59000, Lille",59000,https://www.sejours-affaires.com/residence-hoteliere-aparthotel-lille-169.html,50.6365617,3.0749725
+3891368568,node,Why Hotel Best Western Premier,hotel,Lille,"7 bis Square Morisson, 59000, Lille",59000,,50.6342784,3.0613642
+3891372994,node,Le Clarance Hôtel,hotel,Lille,,,https://www.clarancehotel.com/,50.6389302,3.0569405
+3891384985,node,Calm Apart'Hotel,hotel,Lille,,,,50.6373765,3.0692941
+3990013091,node,Le kioske à pizzas,restaurant,Lille,"33 Rue du Général de Gaulle, 59139, Wattignies",59139,,50.587483,3.0519107
+4079183637,node,,restaurant,Lille,,,,50.5731996,2.9628383
+4105676331,node,Brasserie de l'Usine,restaurant,Lille,,,,50.6756457,3.196584
+4151403290,node,Comptoir 44,restaurant,Lille,,,,50.6422166,3.0662314
+4183809472,node,La Table de Siam,restaurant,Lille,,,,50.6416179,3.061669
+4238109591,node,Izumi,restaurant,Lille,,,,50.6340989,3.0610747
+4260079415,node,La Crêperie de Lille,restaurant,Lille,,,,50.6428342,3.067009
+4267971964,node,Don Milano,restaurant,Lille,,,,50.6596169,3.0736712
+4333720861,node,Campanile,hotel,Lille,,,https://lille-sud-seclin.campanile.com/fr-fr/,50.5473087,3.0556377
+4333720862,node,Première Classe,hotel,Lille,,,,50.5476786,3.0557886
+4349989993,node,Les Soyeux,restaurant,Lille,"39 Rue Belle Croix, 59890, Quesnoy-sur-Deûle",59890,,50.7119457,2.9985444
+4376911593,node,La Pévèle da Lorenzo,restaurant,Lille,"33 Rue du Moulin, 59246",59246,http://www.lapeveledalorenzo.fr/,50.4803741,3.0985756
+4381067406,node,Yaya,restaurant,Lille,,,,50.6437993,3.0679238
+4416740147,node,Alexens,restaurant,Lille,175 Avenue de Bretagne,,,50.6338901,3.0207151
+4416740148,node,Bagelcorner,restaurant,Lille,,,,50.6342051,3.0202757
+4416740151,node,Pickit Up,restaurant,Lille,,,https://pick-it-up.fr,50.6345407,3.0214259
+4416740153,node,Kok Piraat Péniche-Restaurant,restaurant,Lille,"Quai Hegel, 59160, Lomme",59160,https://www.kokpiraat.fr/,50.6303364,3.0205609
+4420819769,node,De bouche à oreille,restaurant,Lille,"59211, Santes",59211,,50.5970299,2.9538477
+4421749744,node,L'Gaïette,restaurant,Lille,,,,50.6327957,3.0548617
+4421806114,node,Mian Dian,restaurant,Lille,,,,50.6323778,3.0485812
+4421868750,node,Tbilisi,restaurant,Lille,32 Rue de Puebla,,https://restauranttbilisi.fr/,50.6325823,3.055718
+4424239711,node,Petit Bouillon Alcide,restaurant,Lille,,,,50.6376964,3.0630167
+4424286721,node,L'arrière pays,restaurant,Lille,,,https://www.arrierepayslille.fr/,50.6387189,3.0612028
+4425031933,node,Le Tandem,restaurant,Lille,"59211, Santes",59211,,50.585491,2.9685638
+4425367535,node,L'Escale,restaurant,Lille,,,,50.588951,2.9735857
+4431626089,node,Pizza Hut,restaurant,Lille,,,http://pizzahut.fr,50.6314726,3.0540794
+4432667906,node,Le B-Routh,restaurant,Lille,"166 Rue Colbert, 59800, Lille",59800,,50.6323407,3.0427022
+4438230892,node,Le Chti Charivari,restaurant,Lille,"Rue du Château d'Isenghien, 59160, Lomme",59160,,50.6513596,2.9819243
+4438235089,node,Memphis,restaurant,Lille,"Rue du Château d'Isenghien, 59160, Lomme",59160,,50.6513985,2.9824343
+4438319892,node,Le Bistrot Dit Vin,restaurant,Lille,"24 Rue de l'Église, 59249, Fromelles",59249,,50.6076179,2.8538107
+4442146051,node,3 Brasseurs,restaurant,Lille,22 Place de la Gare,,https://restaurants.3brasseurs.com/fr/france-FR/455/3-brasseurs-lille/details,50.6361629,3.0692959
+4442146052,node,Le QG,restaurant,Lille,,,https://www.le-qg-brasserie.fr/,50.6360788,3.0694346
+4442146055,node,Chez Simone,restaurant,Lille,,,https://chezsimone-lille.fr/,50.6355036,3.069842
+4442146057,node,Le Flandre,restaurant,Lille,,,,50.6354812,3.0704141
+4442174795,node,Le Meunier,restaurant,Lille,,,,50.6356996,3.0706247
+4445182609,node,Jaldi Jaldi,restaurant,Lille,65 Rue Masséna,,https://www.jaldijaldi.fr/,50.6318581,3.0550035
+4496383796,node,Las Tapas,restaurant,Lille,59000,59000,,50.6463646,3.0553769
+4500229012,node,Tasty,restaurant,Lille,"154 Rue Colbert, 59800, Lille",59800,,50.632033,3.0430369
+4500242564,node,Pizza Factory,restaurant,Lille,,,,50.6321519,3.0466247
+4509013420,node,Octopus,restaurant,Lille,,,,50.6287756,3.0588902
+4561349529,node,,hotel,Lille,,,,50.7411378,3.1796298
+4575796889,node,Dio Ristorante - Lille,restaurant,Lille,,,,50.6324799,3.0554875
+4691245654,node,Dunya,restaurant,Lille,,,,50.6334297,3.0909028
+4732669422,node,La cour de la ch’tite brigitte,restaurant,Lille,,,,50.6410405,3.0618926
+4764901063,node,il Sacristie,restaurant,Lille,,,https://www.ilsacristie.fr/,50.6763369,3.0905228
+4767533617,node,Le Saint-Hubert,restaurant,Lille,,,,50.6495734,2.8740615
+4768193809,node,Tulip Inn Lille Grand Stade,hotel,Lille,"231 Boulevard de Tournai, 59650, Villeneuve-d'Ascq",59650,https://tulip-inn-lille-grand-stade.goldentulip.com,50.6127167,3.1322393
+4842068247,node,Chez Angel,restaurant,Lille,,,,50.6263114,3.1502523
+4849302181,node,Le carré gourmet,restaurant,Lille,,,https://www.le-carre-gourmet.fr,50.6549178,3.0660085
+4849507669,node,L'union fait la sauce,restaurant,Lille,73 Rue de la Tossée,,,50.7111926,3.1652662
+4857672767,node,Toyotomi,restaurant,Lille,,,http://www.toyotomi-lille.fr,50.6297943,3.0577964
+4857672768,node,Yiso Ramen,restaurant,Lille,,,,50.6297515,3.0578675
+4857672771,node,Le Passe-Porc,restaurant,Lille,,,,50.6296195,3.0581158
+4857672772,node,Safran,restaurant,Lille,,,,50.6295857,3.0582022
+4859908843,node,La Ferme Fleurie,restaurant,Lille,"29 Rue d'Aubers, 59134, Herlies",59134,,50.5831504,2.8441069
+4893934324,node,The Queen's Head,restaurant,Lille,,,,50.6416223,3.0648144
+4893943621,node,Le Général,restaurant,Lille,"21 Rue du Cirque, Lille",,,50.6395745,3.0618163
+4947428153,node,Les 3 brasseurs - Roncq,restaurant,Lille,,,,50.7385267,3.1369159
+4947428707,node,Flunch,restaurant,Lille,Boulevard d'Halluin,,https://www.flunch.fr/restaurant/roncq/flunch-roncq,50.7386376,3.1370052
+4960540123,node,Chtite Brigitte,restaurant,Lille,,,,50.638486,3.0582751
+4960540124,node,Jour de Pêche,restaurant,Lille,,,,50.6369924,3.0617863
+4969313621,node,Bistrot Tao,restaurant,Lille,,,,50.6332367,3.0648291
+4974260622,node,Le Lion Bossu,restaurant,Lille,,,,50.6403296,3.0650938
+5072895821,node,Maison L,restaurant,Lille,,,https://maison-l.eatbu.com,50.62737,3.0494434
+5073653515,node,RU Flers,restaurant,Lille,,,https://www.crous-lille.fr/restaurant/r-u-flers-lille-iii/,50.6266963,3.1274269
+5073653520,node,Brasserie des 3 lacs,restaurant,Lille,,,https://www.crous-lille.fr/restaurant/brasserie-les-3-lacs-lille-iii/,50.6279365,3.1269296
+5075121573,node,Le 54,restaurant,Lille,"54 Rue Faidherbe, 59260, Hellemmes-Lille",59260,,50.6279917,3.1115537
+5109825553,node,Papà Raffaele,restaurant,Lille,,,,50.6403853,3.0652027
+5116121632,node,La Table Ha Tof,restaurant,Lille,127 Rue Godefroy,,,50.6567533,3.0695596
+5117599022,node,B&b Hôtel Lille Roubaix Campus Gare,hotel,Lille,,,https://www.hotel-bb.com/fr/hotels/lille-roubaix-centre-gare.htm,50.696,3.164
+5119860280,node,La poule store,restaurant,Lille,,,,50.7371036,3.1280109
+5129215307,node,,restaurant,Lille,,,,50.6537358,3.1391072
+5133702662,node,Le Bouchon du Quai du Wault,restaurant,Lille,,,,50.6372718,3.0538519
+5143317257,node,Valentina,restaurant,Lille,,,https://www.facebook.com/valentinaristorante59/,50.6641006,3.1458001
+5143357097,node,l'Hacienda,restaurant,Lille,,,,50.6939697,3.16698
+5158700364,node,Baan Boon,restaurant,Lille,,,,50.6248942,3.0682398
+5158700365,node,Le Verlaine,restaurant,Lille,,,,50.6263124,3.0681975
+5158700366,node,Beatriz,restaurant,Lille,,,,50.6263697,3.0681993
+5162686333,node,Aokamo,restaurant,Lille,,,https://www.aokamo-lille.com/,50.6363601,3.0658927
+5162686334,node,Dumplings & Co,restaurant,Lille,,,,50.6370894,3.0640064
+5162686337,node,De Rode Koe,restaurant,Lille,,,https://www.derodekoe.fr/,50.6407084,3.0599395
+5163090898,node,La Vieille Assiette,restaurant,Lille,,,,50.6346052,3.0402718
+5163090903,node,Les Casseroles Lilloises,restaurant,Lille,,,,50.6313897,3.0542287
+5163090914,node,Mezzé Royal,restaurant,Lille,,,,50.6293765,3.0547313
+5163093726,node,Nigiri Thai,restaurant,Lille,,,,50.6299202,3.0560707
+5163093733,node,Pho 117,restaurant,Lille,,,,50.6299788,3.0562324
+5163093746,node,Chiba,restaurant,Lille,,,,50.6311184,3.0590319
+5163093748,node,Beef Art,restaurant,Lille,,,,50.6313034,3.0594852
+5166020519,node,Des Merveilles dans la Théière,restaurant,Lille,,,,50.6096883,3.1641376
+5166020520,node,Le Petit Jardin,restaurant,Lille,,,https://www.lepetitjardin-restaurant.fr/,50.6094134,3.163919
+5183261554,node,La Guinguette,restaurant,Lille,,,,50.6890999,3.2361378
+5198639330,node,Le Bar à Pizzas,restaurant,Lille,,,https://lebarapizza.fr/,50.6305825,3.0548476
+5202232461,node,L'assiette Thai,restaurant,Lille,,,,50.6305564,3.0571231
+5202358163,node,Fost,restaurant,Lille,,,,50.632403,3.0534428
+5202358164,node,Le Dahu,restaurant,Lille,"5 Rue des Primeurs, 59000, Lille",59000,,50.6323511,3.0533878
+5204529047,node,Chopsticks&Co,restaurant,Lille,,,,50.6274,3.0495216
+5216113721,node,Ca T'Espero,restaurant,Lille,"242 Rue de l'Alma, 59100, Roubaix",59100,,50.7006821,3.1709753
+5216113722,node,Loft 122,restaurant,Lille,,,,50.7044253,3.1726775
+5223873716,node,Le Cabaret du Sully,restaurant,Lille,,,https://www.crous-lille.fr/restaurant/le-cabaret-du-sully-lille-i/,50.6051888,3.1363833
+5225103903,node,Pizza Pops,restaurant,Lille,"204 Rue Jacquard, 59260, Hellemmes-Lille",59260,,50.6352357,3.1134881
+5241464926,node,Layalina,restaurant,Lille,,,https://layalina-lille.com/,50.6237458,3.0678459
+5242426940,node,La Clairière,restaurant,Lille,"75 Boulevard de la Liberté, Lille",,https://www.laclairiere-restaurant.com/,50.6344546,3.0573017
+5245088851,node,Happy F'eat,restaurant,Lille,,,,50.6364055,3.0591069
+5246976006,node,Restaurant Sébastopol,restaurant,Lille,,,,50.6288511,3.0589887
+5249086516,node,Pizza Hut,restaurant,Lille,,,,50.6326208,3.0920099
+5267690933,node,Chez Max,restaurant,Lille,,,https://www.chezmaxbistrotlillois.com/,50.6309129,3.0551495
+5267690937,node,My Fluffy,restaurant,Lille,,,,50.6332909,3.062733
+5267859627,node,Davonn,restaurant,Lille,,,,50.6808278,3.0619383
+5271411076,node,Paradis 221,restaurant,Lille,,,,50.6130068,3.1324924
+5274237681,node,Bolkiri,restaurant,Lille,,,,50.6363261,3.0683247
+5274237682,node,Pékin,restaurant,Lille,,,,50.6362053,3.068678
+5274962182,node,Le Comptoir des Bistronomes,restaurant,Lille,,,,50.633197,3.0681938
+5281880481,node,L'Interville,restaurant,Lille,"67 Avenue Poincaré, 59700, Marcq-en-Barœul",59700,https://lintervilles.fr/,50.6615975,3.1018974
+5298878521,node,Au Soyeux,restaurant,Lille,,,,50.6423263,3.0663684
+5299445563,node,Le Frigidaire,restaurant,Lille,,,,50.6242541,3.0684019
+5299834874,node,Jasmin Thaï,restaurant,Lille,,,,50.6130365,3.1325679
+5299834875,node,The Factory,restaurant,Lille,,,,50.6129368,3.1323082
+5299834876,node,La Table,restaurant,Lille,,,,50.6125092,3.1322883
+5299837661,node,Park Inn by Radisson,hotel,Lille,,,,50.6133131,3.133355
+5299837662,node,Soho Urban Food,restaurant,Lille,,,,50.6129723,3.1323997
+5302926915,node,Le Vent de Bise,restaurant,Lille,,,https://restaurantleventde.wixsite.com/ventdebise,50.6832444,3.0614291
+5310245140,node,Au Bâteau,restaurant,Lille,"Rue de la Vague, 59650, Villeneuve-d'Ascq",59650,https://aubateau-restaurant.fr,50.6155351,3.125777
+5313702821,node,Escale Thaï,restaurant,Lille,,,,50.6429246,3.0671278
+5316414395,node,Welsh Alors,restaurant,Lille,,,,50.6300246,3.0457504
+5319020024,node,Au Bureau,restaurant,Lille,Route de Roncq,,https://www.aubureau.fr/restaurant-brasserie/au-bureau-neuville-roncq,50.7430216,3.1449322
+5324577310,node,Le jardin du bonheur,restaurant,Lille,,,,50.6297638,3.0573223
+5324577311,node,Le Dragon d'Or,restaurant,Lille,,,,50.6300275,3.0568227
+5324577313,node,A' Legna,restaurant,Lille,,,,50.6299085,3.0575687
+5324577316,node,Maison Ramen,restaurant,Lille,,,,50.6301033,3.0571995
+5324577318,node,Shuriken,restaurant,Lille,,,,50.6301743,3.0570501
+5324577320,node,Restaurant Hajveri,restaurant,Lille,,,,50.6299539,3.0569607
+5325752878,node,Saveurs des Iles,restaurant,Lille,,,,50.6282141,3.0513614
+5325752916,node,Pizza du Marché,restaurant,Lille,,,,50.6268027,3.05054
+5325754268,node,Aux Bretons,restaurant,Lille,,,,50.6262455,3.0488644
+5325754275,node,Pizzeria Del Vera,restaurant,Lille,,,,50.6264318,3.0487396
+5325754278,node,Tiparo Thai,restaurant,Lille,,,,50.6265296,3.0486658
+5325754284,node,La petite fourchette,restaurant,Lille,,,,50.6266338,3.0486001
+5325754306,node,Al Fassia,restaurant,Lille,,,,50.6263258,3.0473569
+5325754312,node,Le Syrah Luna,restaurant,Lille,,,,50.625252,3.0482678
+5325754313,node,La Popote,restaurant,Lille,,,,50.6253449,3.0488959
+5325807045,node,RU Les Botaniques,restaurant,Lille,,,https://www.crous-lille.fr/restaurant/r-u-les-botaniques/,50.7243943,3.1650791
+5325827007,node,Class'Crous,restaurant,Lille,,,https://www.crous-lille.fr/restaurant/classcrous/,50.6972799,3.1643575
+5325868605,node,Restaurant universitaire Châtelet,restaurant,Lille,,,https://www.crous-lille.fr/restaurant/r-u-chatelet-lille-chr/,50.6143703,3.0349786
+5325868608,node,Brasserie La Basoche,restaurant,Lille,,,https://www.crous-lille.fr/restaurant/brasserie-la-basoche-lille-moulins/,50.6191601,3.0700019
+5333316104,node,Soleil d'Agadir,restaurant,Lille,,,,50.6461735,3.0594211
+5343504208,node,Café des Nates,restaurant,Lille,,,,50.6321749,3.0514473
+5343504216,node,Le Grand Angle,restaurant,Lille,,,,50.6345669,3.0571443
+5361882735,node,Tok'ici,restaurant,Lille,"173 Rue des Bois Blancs, 59000, Lille",59000,,50.6317917,3.0271315
+5364004193,node,Carpe Diem,restaurant,Lille,,,,50.6753987,3.05484
+5367907722,node,Chez Madeleine,restaurant,Lille,,,,50.7430853,3.1452093
+5367907723,node,Memphis,restaurant,Lille,,,,50.7430581,3.1450698
+5383580071,node,La Luck,restaurant,Lille,,,,50.6462176,3.0597817
+5383857938,node,Les Bistronautes,restaurant,Lille,,,,50.6372462,3.0614841
+5383857949,node,White lotus,restaurant,Lille,,,https://whitelotus-france.fr/,50.637958,3.0622912
+5383857953,node,La Petite Cour,restaurant,Lille,,,,50.6383396,3.0624671
+5383857971,node,Laksøn,restaurant,Lille,,,,50.6384257,3.0625858
+5405879887,node,La Petite Caille,restaurant,Lille,,,,50.6313485,3.0952891
+5407835062,node,Sushi Chiwa,restaurant,Lille,,,,50.6368892,3.0682899
+5418801721,node,La Marmite d'Akum II,restaurant,Lille,,,,50.6283532,3.0516828
+5455331786,node,Le Maroc,restaurant,Lille,,,,50.6344223,3.0573709
+5455331791,node,Pica Tapas,restaurant,Lille,,,,50.6307892,3.0559212
+5455331792,node,Chimi,restaurant,Lille,,,,50.6286783,3.0529486
+5479841524,node,O'Délice,restaurant,Lille,"24 Rue du Capitaine Lheureux, 59184, Sainghin-en-Weppes",59184,,50.5619543,2.9006752
+5479841525,node,Nad'Pizza,restaurant,Lille,"31 Rue du Capitaine Lheureux, 59184, Sainghin-en-Weppes",59184,,50.5616118,2.900778
+5479841529,node,Les trois toqués,restaurant,Lille,"45 Rue du Capitaine Lheureux, 59184, Sainghin-en-Weppes",59184,,50.56099,2.9015013
+5488688923,node,Marmaris,restaurant,Lille,"Boulevard de Metz, Roubaix",,,50.701114,3.1840891
+5505563189,node,Poggio,restaurant,Lille,,,,50.6288844,3.0614787
+5538696787,node,O Thai,restaurant,Lille,,,,50.6373824,3.0674424
+5555761904,node,M Thai,restaurant,Lille,,,,50.6363894,3.0689985
+5577104565,node,Les Oiseaux,restaurant,Lille,,,,50.6305756,3.0601792
+5577104567,node,La Meïda,restaurant,Lille,,,https://www.la-meida.com/,50.6288593,3.072736
+5581233572,node,Albedo Kitchen,restaurant,Lille,"Rue Léon Gambetta, 59000",59000,,50.6287736,3.0526551
+5589858395,node,Block'out,restaurant,Lille,,,https://www.blockout.fr/bo-lille,50.648274,3.1169056
+5613162229,node,Ô Cercle,restaurant,Lille,,,,50.6340152,3.0546749
+5613234021,node,J'Thai,restaurant,Lille,,,,50.634182,3.042473
+5613918458,node,Le Leocorno,restaurant,Lille,Rue des Moissons,,,50.6807326,3.0648395
+5618395557,node,Le Pubstore,restaurant,Lille,,,https://www.lepubstore.fr/,50.6443868,3.0594791
+5620628413,node,Yena Né,restaurant,Lille,,,,50.6293448,3.0569423
+5622721038,node,Dina,restaurant,Lille,362 Avenue de Dunkerque,,https://www.dina-patesfraiches.fr/,50.6398201,3.0195791
+5650548248,node,Au cœur de l'Inde,restaurant,Lille,,,,50.6363126,3.0266561
+5654841547,node,La Villa Iacazio,restaurant,Lille,,,,50.6407893,3.0274965
+5656765261,node,Taobento,restaurant,Lille,"260 Rue des Bourreliers, 59320, Hallennes-lez-Haubourdin",59320,https://commande.taobento.com/restaurants/taobento-hallennes,50.6073294,2.9567496
+5661404238,node,La Duchesse,restaurant,Lille,,,,50.6451764,3.0124786
+5663088417,node,Restaurant de Fez,restaurant,Lille,,,,50.5679935,3.2158651
+5685878544,node,L’Émulsion,restaurant,Lille,"142 Rue du Bourg, 59130",59130,https://www.lemulsionrestaurant.fr/,50.6518233,3.0271524
+5695491226,node,La laiterie,restaurant,Lille,138 Avenue de l'Hippodrome,,https://www.lalaiterie.fr/,50.6401071,3.0332265
+5700475751,node,Les Petites Douceurs de Phuket,restaurant,Lille,,,http://www.les-petites-douceurs-de-phuket.com/,50.6362114,3.0269039
+5700475752,node,Pizza Gourmande,restaurant,Lille,,,,50.6403049,3.0187666
+5711418094,node,Kyriad Lille-Est – Villeneuve-d'Ascq,hotel,Lille,"15 Avenue de la Créativité, 59650, Villeneuve-d'Ascq",59650,https://www.kyriad.com/fr/hotels/kyriad-lille-est-villeneuve-dascq,50.6389996,3.1451187
+5724126441,node,Il Ristorante,restaurant,Lille,,,,50.6341424,3.0660425
+5752649281,node,Flandres Liban,restaurant,Lille,,,,50.6237125,3.0545975
+5761496453,node,Le Beffroi,restaurant,Lille,,,http://monsieuroscar-beffroi.com/,50.6375022,3.0641179
+5768008510,node,Papaye,restaurant,Lille,,,,50.723276,3.1582474
+5768108634,node,Madre,restaurant,Lille,,,https://www.privateaser.com/lieu/45857-madre,50.6387159,3.0580564
+5788114787,node,Oppa,restaurant,Lille,580 Avenue de Dunkerque,,https://oppa59.fr/,50.646536,3.0090049
+5815480482,node,Restaurant le bois d'achelles,restaurant,Lille,,,http://www.restaurantleboisdachelles.fr,50.7213455,3.1149913
+5838730803,node,Fanfare,restaurant,Lille,,,https://fanfare-lambersart.eatbu.com/,50.6477363,3.0352068
+5845939445,node,Le Flandre,restaurant,Lille,,,https://www.brasserie-flandre-croix.fr/,50.6753382,3.1493311
+5848952777,node,Le Présentoir,restaurant,Lille,,,,50.6366277,3.065153
+5868898863,node,M Bistrot,restaurant,Lille,,,,50.6738665,3.0897582
+5881495085,node,Restaurant Oegil,restaurant,Lille,"30 Rue Paul Doumer, 59200",59200,,50.7244521,3.1628075
+5882077682,node,Comfort Hotel,hotel,Lille,,,,50.705151,3.1594838
+5887494985,node,Le Moulin de Fretin,restaurant,Lille,"33 Rue Pasteur, 59273, Fretin",59273,https://lemoulindefretin.fr/,50.5576271,3.1334936
+5887543785,node,Bistrot Français,restaurant,Lille,,,https://www.bistrot-francais.com/,50.5820872,3.0943535
+5894248705,node,Fabrik Burger,restaurant,Lille,,,https://fabrikburger.vercel.app/,50.6249193,3.0551816
+5894248708,node,L'Atmo Pizza,restaurant,Lille,,,,50.6239055,3.0547013
+5917609345,node,Délices d'Asie,restaurant,Lille,"37 Boulevard de Valmy, 59650, Villeneuve-d'Ascq",59650,https://www.delices-dasie.com/,50.6166,3.1332764
+5920731430,node,Sam&Lie,restaurant,Lille,,,,50.6660954,3.0299775
+5929260225,node,La Belleza Big Mamma,restaurant,Lille,,,,50.6389984,3.0587811
+5942418306,node,Mezze & Co,restaurant,Lille,,,,50.6289091,3.0530025
+5942418312,node,Sushi 8,restaurant,Lille,,,https://www.instagram.com/sushi8lille/,50.6306131,3.0572579
+5942418318,node,Itsy Bitsy - Cuisine Végétale,restaurant,Lille,"10 Rue Jeanne Maillotte, 59800, Lille",59800,,50.6317733,3.0629672
+5942418319,node,Le lovibond,restaurant,Lille,,,,50.6308689,3.0637862
+5942418320,node,Backyard Kitchen,restaurant,Lille,"13 Place Jacquard, 59800, Lille",59800,,50.6315345,3.0644108
+5942418323,node,Kisoro,restaurant,Lille,,,,50.6327493,3.0637297
+5942418326,node,Indian Masala,restaurant,Lille,"37 Rue d'Amiens, 59800, Lille",59800,,50.6336218,3.0644145
+5942769312,node,SOlange,restaurant,Lille,,,,50.6234713,3.0376496
+5948047268,node,Le Borsalino,restaurant,Lille,,,,50.6930789,3.0527365
+5964926384,node,Le Barbier qui fume,restaurant,Lille,,,,50.6402152,3.076969
+6004375993,node,La Brocantine,restaurant,Lille,"266 Rue Roger Salengro, 59830, Cysoing",59830,https://labrocantine.fr/,50.5683895,3.2195016
+6032496250,node,Croque’s & Pies,restaurant,Lille,,,,50.6394347,3.0647192
+6032496263,node,La Crêperie de la Grand Place,restaurant,Lille,,,,50.6376498,3.0632242
+6032496269,node,Club Marot,restaurant,Lille,,,,50.637463,3.0611166
+6032496271,node,Seasons Cafe,restaurant,Lille,,,,50.6360975,3.0593229
+6032496272,node,Yori,restaurant,Lille,,,,50.6359539,3.0592076
+6041484070,node,Hopen Source,restaurant,Lille,,,,50.6325074,3.0650769
+6068177348,node,Ginko,restaurant,Lille,,,,50.6353273,3.0601383
+6093847353,node,Café Vedette,restaurant,Lille,,,,50.6414827,3.062199
+6093847355,node,Estaminet,restaurant,Lille,,,,50.6412852,3.0622339
+6093871632,node,Le Versailles,restaurant,Lille,,,,50.6290331,3.0737934
+6093871633,node,Le Porthos,restaurant,Lille,,,,50.6411097,3.0625059
+6093890609,node,La table du Clarance,restaurant,Lille,,,,50.6387555,3.0570541
+6110928847,node,Tramontana Ristorante,restaurant,Lille,,,,50.6243163,3.0385349
+6122249967,node,Café Peacock,restaurant,Lille,,,,50.6362119,3.0630819
+6122331796,node,Aux Jours Heureux,restaurant,Lille,,,,50.6466091,3.0765992
+6133393108,node,Le Président,restaurant,Lille,,,,50.6368503,3.0629345
+6133393170,node,Coucou,restaurant,Lille,,,,50.6372522,3.0637358
+6140886610,node,Le Marché Flottant,restaurant,Lille,,,,50.6311426,3.0585589
+6158333253,node,Habesha,restaurant,Lille,,,https://habesha-lille.zenchef.com/,50.6377805,3.0693884
+6159414365,node,Bleu Canard,restaurant,Lille,,,,50.6363302,3.0659298
+6171946491,node,La Gondole,restaurant,Lille,,,,50.6369219,3.0248273
+6172598441,node,Chez Mon Cousin,restaurant,Lille,282 Avenue de Dunkerque,,https://nicolas-pourcheresse.fr/fr/chez-mon-cousin.html,50.6379833,3.0236232
+6172828269,node,Native,restaurant,Lille,,,,50.6899939,3.0636225
+6178231226,node,Le Méditerraniéen,restaurant,Lille,,,,50.6418467,3.1088632
+6190437844,node,Loos'Taminet,restaurant,Lille,,,https://www.loostaminet.fr/,50.6153031,3.0178233
+6198764864,node,La cave d’Hippolyte,restaurant,Lille,,,,50.5874936,3.087925
+6199323705,node,La Casa Bianca,restaurant,Lille,,,https://www.lacasabianca.fr/,50.5863364,3.0878086
+6263863981,node,Chicon pressé,restaurant,Lille,,,,50.6378416,3.0696111
+6263863982,node,Le Nil,restaurant,Lille,,,,50.6376778,3.0694153
+6265964209,node,La taverne du Petit Wasquehal,restaurant,Lille,"2 Rue Faidherbe, 59290, Wasquehal",59290,,50.6546071,3.1280303
+6278076597,node,Les Sales Gosses,restaurant,Lille,,,,50.6419279,3.0849268
+6282832086,node,Trattoria Di Adamo,restaurant,Lille,,,,50.6743623,3.1458606
+6282916787,node,Ô Cèdre,restaurant,Lille,,,,50.673669,3.1457628
+6289103722,node,Ta Sushi,restaurant,Lille,"Avenue du Grand Cottignies, 59290, Wasquehal",59290,https://www.tasushi.fr/,50.6804796,3.1239272
+6295424170,node,C’ du jardin,restaurant,Lille,"Avenue du Grand Cottignies, 59290, Wasquehal",59290,http://www.cdujardin.fr/restaurant/wasquehal,50.6803489,3.1236574
+6325881982,node,Bernard et Léon,restaurant,Lille,,,https://www.bernardetleon.com/,50.6381951,3.064804
+6329760222,node,Mama Kitchen Caffè,restaurant,Lille,,,,50.6382185,3.0744637
+6329760223,node,HD Diner,restaurant,Lille,,,,50.6381549,3.0747337
+6329760224,node,BeefHouse,restaurant,Lille,,,,50.6381082,3.0749317
+6331894399,node,Pizzeria Juliet et Roméo,restaurant,Lille,,,,50.6253589,3.044866
+6333540885,node,kom en go broodjeszaak,restaurant,Lille,,,,51.2300741,4.833197
+6335433784,node,Auchan Traiteur Englos,restaurant,Lille,,,,50.632259,2.9680188
+6335434113,node,Sushitime,restaurant,Lille,,,,50.6506315,2.9758478
+6335434122,node,Sushi Boutik,restaurant,Lille,,,,50.6520383,2.9826469
+6338486525,node,Prima Fila,restaurant,Lille,,,,50.6299322,3.0211279
+6359285222,node,Gong cha,restaurant,Lille,,,,50.6371098,3.0640585
+6389628510,node,Bombora,restaurant,Lille,"Avenue Marie-Louïse Delwaulle, 59000, Lille",59000,https://bombora.fr/,50.6330077,3.0191598
+6412802337,node,L'ardoise,restaurant,Lille,"124 Rue Jules Guesde, 59650, Villeneuve-d'Ascq",59650,,50.6372918,3.1233383
+6426715016,node,Limpide,restaurant,Lille,170 Avenue de l'Hippodrome,,,50.6410008,3.0320505
+6426715017,node,Pureté,restaurant,Lille,,,,50.6415206,3.0618239
+6426715018,node,Rouge Barre,restaurant,Lille,,,,50.6443664,3.0594052
+6465811001,node,City Wok,restaurant,Lille,"21 Avenue de l'Avenir, 59650, Villeneuve-d'Ascq",59650,https://city-wok.fr,50.6154959,3.125585
+6485471687,node,Calico Café,restaurant,Lille,,,,50.6386177,3.0653435
+6511782890,node,Cul de poule,restaurant,Lille,,,,50.6288804,3.0728484
+6514852185,node,L'atelier de Mademoiselle,restaurant,Lille,,,https://lafourchette.com/,50.6816864,2.8784264
+6525658393,node,Le Biplet,restaurant,Lille,,,,50.6392417,3.0201789
+6532278473,node,Cordoba,restaurant,Lille,,,https://www.cordoba-restaurant.fr/,50.6188928,3.0511101
+6532285269,node,L'orpailleur,restaurant,Lille,,,,50.6194472,3.0507003
+6536701953,node,Tokyo Express,restaurant,Lille,"133 Rue Colbert, 59800, Lille",59800,https://tokyoexpress.fr/fr/,50.6319868,3.043376
+6545230757,node,Elephant Thaï,restaurant,Lille,,,,50.637191,3.0675946
+6554702104,node,L'Annexe,restaurant,Lille,,,,50.6547652,3.0853143
+6571108765,node,Brutus,restaurant,Lille,,,,50.6387818,3.0594171
+6581148866,node,Les Délices De l'Inde,restaurant,Lille,,,,50.6354253,3.0692587
+6581962394,node,Cozy Grill,restaurant,Lille,,,,50.613507,3.0628836
+6593039883,node,Le Relais,restaurant,Lille,,,,50.6071094,3.0592777
+6602594842,node,Adobo Loco,restaurant,Lille,,,https://www.adoboloco.fr/,50.6514912,3.1254862
+6605956602,node,L’Esprit de Famille,restaurant,Lille,,,https://lesprit-de-famille.business.site/,50.6154101,3.0184959
+6641789836,node,L'Escapade,restaurant,Lille,"11 Rue Traversière, 59650, Villeneuve-d'Ascq",59650,http://lescapade-restaurant-halal.fr/,50.616859,3.1411996
+6643431903,node,Au Bonheur des Dames,restaurant,Lille,,,,50.5709389,2.934398
+6643431904,node,Restaurant Pizza,restaurant,Lille,Rue Achille Pinteaux,,,50.5710087,2.9345179
+6643482895,node,Bella Giulia Pizzeria,restaurant,Lille,2 Rue Calmette Guerin,,,50.5580795,3.1363776
+6643486595,node,L'Italien,restaurant,Lille,Place Pasteur,,,50.5735738,2.9402155
+6710313064,node,Mama Shelter Lille,hotel,Lille,"97 Place Saint-Hubert, 59000, Lille",59000,https://fr.mamashelter.com/lille/,50.6386804,3.0715951
+6811628043,node,"Joya, restaurant vietnamien",restaurant,Lille,"149 Avenue de la République, La Madeleine",,,50.6482149,3.0773134
+6821185889,node,Michel,restaurant,Lille,,,,50.6329388,3.0682207
+6835729003,node,L'oriental,restaurant,Lille,,,,50.6577787,3.0402484
+6838941659,node,Makij Tadore,restaurant,Lille,,,,50.6938631,3.054437
+6849544861,node,Le Polbert,restaurant,Lille,"2622 Rue de Lille, 59262",59262,https://www.polbert.fr/,50.5915833,3.1533876
+6852632923,node,La chaise au plafond,restaurant,Lille,,,,50.5936102,3.1213231
+6852632939,node,Pizza Zio - Lesquin,restaurant,Lille,,,,50.5940046,3.121183
+6854262818,node,La pâte à pizza,restaurant,Lille,,,,50.61131,3.1904443
+6892270503,node,Bouillant,restaurant,Lille,,,https://www.restaurant-bouillant-lille.com/,50.6269507,3.0483995
+6896299294,node,Estaminet le Terrier,restaurant,Lille,,,https://www.estaminet-leterrier.fr/,50.6156536,2.9606123
+6899632394,node,Jane,restaurant,Lille,,,https://www.hotelarbrevoyageur.com/fr/page/jane,50.6395642,3.067358
+6905063158,node,Douceurs de Phuket,restaurant,Lille,,,,50.6266654,3.0496874
+6915068921,node,Al'Carbone,restaurant,Lille,"90 Rue des Martyrs de la Résistance, 59160, Lille",59160,,50.6334012,3.0101615
+6976838747,node,Celebrazioni,restaurant,Lille,"121 Rue Anne Delavaux, 59160, Lille",59160,http://www.celebrazioni.fr/,50.641895,2.9952686
+6993856362,node,Twister,restaurant,Lille,182B Rue Pierre Legrand,,,50.6326074,3.0913943
+7011014687,node,La Grange,restaurant,Lille,,,,50.6429203,2.9966602
+7044899432,node,L'argana,restaurant,Lille,,,,50.6292328,3.1028174
+7044899433,node,Tacos Maison,restaurant,Lille,,,,50.6293145,3.1024151
+7070334518,node,Frit'Rit,restaurant,Lille,,,,50.6514649,2.9808968
+7073122189,node,Champthé,restaurant,Lille,,,,50.6321256,3.0873231
+7110483429,node,Au Bureau,restaurant,Lille,,,https://www.aubureau.fr/restaurant-brasserie/au-bureau-bondues,50.6849592,3.0840361
+7122006687,node,Le Balsamique,restaurant,Lille,,,,50.6874487,3.0529022
+7123131536,node,Aux Moules de Lille,restaurant,Lille,,,,50.6360284,3.063278
+7123136896,node,L’Avant Scène,restaurant,Lille,,,,50.6282995,3.0607436
+7123137441,node,Eva,restaurant,Lille,,,https://chezeva-restaurant.fr/,50.6373683,3.0617403
+7123315915,node,Le Triez,restaurant,Lille,,,,50.6925244,3.1314723
+7123326995,node,La Collegiale,restaurant,Lille,,,,50.5506992,3.0301426
+7123338672,node,Le Sabot Vert,restaurant,Lille,,,https://lesabotvert.fr/,50.5460174,3.0442769
+7123359889,node,Le Cheval Blanc,restaurant,Lille,,,,50.5827429,3.0505909
+7123380592,node,Café de l'Abattoir,restaurant,Lille,,,,50.5309928,2.9403296
+7128086107,node,L'Argan,restaurant,Lille,,,,50.7034109,3.0915664
+7128086109,node,Le Lanna,restaurant,Lille,"28 Place de l'Abbé Bonpain, 59910, Bondues",59910,,50.7033641,3.0915194
+7129378979,node,Jai Ho,restaurant,Lille,,,https://jai-ho-restaurant-lille.eatbu.com/,50.6351074,3.0704671
+7147402704,node,La Maison du Burger,restaurant,Lille,"250 Rue des Bourreliers, 59320, Hallennes-lez-Haubourdin",59320,,50.6076037,2.9567869
+7147402719,node,La Gaza Ladra,restaurant,Lille,"230 Rue des Bourreliers, 59320, Hallennes-lez-Haubourdin",59320,https://lagazza-ladra.fr/,50.6071954,2.957746
+7148247992,node,Opa,restaurant,Lille,1 Rue des Peupliers,,,50.596066,3.1305093
+7157089027,node,Le Comptoir par M et L,restaurant,Lille,"154 Rue Pasteur, 59700, Marcq-en-Barœul",59700,,50.6577948,3.079328
+7157336466,node,Le Roi de la Moule,restaurant,Lille,59790,59790,https://www.restaurant-leroidelamoule.fr/,50.6002229,3.0803717
+7157336467,node,Le Toboggan,restaurant,Lille,59790,59790,http://www.letoboggan.fr/,50.6001688,3.080403
+7165438219,node,Saisons - Cave à Manger,restaurant,Lille,,,,50.6497585,3.0771155
+7167714703,node,Label Côte,restaurant,Lille,"660 Avenue du Général de Gaulle, 59910, Bondues",59910,https://www.label-cote.fr/,50.6970555,3.0920674
+7174535763,node,Palais du Dragon,restaurant,Lille,,,,50.6355055,3.0710804
+7183789139,node,Pizzeria Ter Linde,restaurant,Lille,,,,51.2383584,4.8206844
+7195012438,node,Chez Julo,restaurant,Lille,"116 Rue Jules Boucly, 59491, Villeneuve-d'Ascq",59491,,50.6604273,3.1394633
+7216635201,node,Ito Ramen,restaurant,Lille,,,https://ito-ramen59.com/,50.6323887,3.0523326
+7230131507,node,Chez Molla,restaurant,Lille,"35 Rue Rabelais, 59800",59800,,50.6365729,3.0860217
+7272673945,node,Le petrol café,restaurant,Lille,"3 Avenue de la Marque, 59650, Villeneuve-d'Ascq",59650,,50.642837,3.1471791
+7279320969,node,Dozo,restaurant,Lille,,,,50.661169,3.09567
+7279652790,node,Le Broc Vieux-Lille,restaurant,Lille,,,,50.6413104,3.0654864
+7279652791,node,Le Broc Lille-Centre,restaurant,Lille,,,,50.6326382,3.0626373
+7343399820,node,Origano la pizza,restaurant,Lille,,,,50.6288008,3.0591467
+7353668125,node,Le Chti Long,restaurant,Lille,,,,50.6316218,3.064034
+7353668126,node,Little Italy,restaurant,Lille,,,,50.631432,3.064555
+7366257639,node,La Squadra,restaurant,Lille,150 Avenue de l'Espace,,https://www.lasquadrawambrechies.com/,50.689884,3.0632698
+7372430950,node,Les Saveurs d'hier et d'aujourd'hui,restaurant,Lille,,,,50.5884639,3.1669177
+7398918169,node,Restaurant Tipaza - Le roi du couscous,restaurant,Lille,"100 Rue des Déportés, 59280, Armentières",59280,https://www.leroiducouscous.com/,50.686706,2.8948299
+7398918170,node,Le Fil Rouge,restaurant,Lille,"38 Place Saint-Vaast, 59280, Armentières",59280,https://www.le-fil-rouge.fr/,50.6867767,2.8844877
+7398918171,node,Osmose,restaurant,Lille,"20 Place Saint-Vaast, 59280, Armentières",59280,https://restaurant-osmose.fr/fr/,50.6865247,2.8837098
+7399329185,node,Le Bistrot d’Arnaud,restaurant,Lille,"52 Rue des Résistants, 59280, Armentières",59280,https://www.lebistrotdarnaud.fr/,50.6909339,2.8746293
+7413611816,node,La Garenne,restaurant,Lille,,,,50.6098626,3.0207334
+7416536016,node,Maboule,restaurant,Lille,,,,50.6334068,3.06817
+7416672417,node,Ankara,restaurant,Lille,,,,50.6352885,3.0701378
+7417118348,node,Le Quai,restaurant,Lille,2 Avenue Hippolyte Peslin,,https://lequailambersart-restaurant.com/,50.6358462,3.0288549
+7418672665,node,La Taverne d'Ercan,restaurant,Lille,,,,50.677711,2.8455078
+7418955855,node,We Are Ara,restaurant,Lille,,,,50.636765,3.0649651
+7418955856,node,Thaï Land Square,restaurant,Lille,,,,50.6366834,3.0650697
+7419198914,node,Hippopotamus,restaurant,Lille,,,,50.6369547,3.0652078
+7419583300,node,Le Palazzo,restaurant,Lille,,,,50.6337456,3.0678251
+7442763318,node,Rocco Cantina,restaurant,Lille,,,,50.640569,3.0656372
+7444484996,node,Le Cerisier en Ville,restaurant,Lille,,,,50.6420151,3.0643367
+7444484997,node,La Brasserie du Cerisier,restaurant,Lille,,,,50.6420568,3.0642844
+7444485004,node,Silex,restaurant,Lille,,,,50.641694,3.0657798
+7444485006,node,La Fleur de Lille,restaurant,Lille,,,,50.6418331,3.0656765
+7444485007,node,Meet People,restaurant,Lille,,,,50.641879,3.065714
+7444485010,node,Baby Weng,restaurant,Lille,,,,50.6418926,3.0659353
+7444485011,node,La Connivence,restaurant,Lille,,,,50.6419445,3.0659796
+7444485012,node,Estaminet Rijsel,restaurant,Lille,,,,50.6420738,3.0658763
+7446873363,node,Be Burger Lille,restaurant,Lille,39 Rue de Gand,,https://wwc.resengo.com/be_burger_lille_lille?lang=fr,50.6425498,3.0663613
+7446873365,node,Estaminet du Welsh,restaurant,Lille,,,https://estaminetlille.fr/nos-estaminets/lestaminet-du-welsh/,50.6426893,3.0665115
+7446873366,node,Chez Raoul,restaurant,Lille,,,,50.6426076,3.0667153
+7446873367,node,Umami,restaurant,Lille,,,https://umami59.fr/,50.6427326,3.0665785
+7448518931,node,Estaminet Chez la Vieille,restaurant,Lille,,,,50.6427391,3.0668967
+7448518932,node,La Vieille France,restaurant,Lille,,,,50.6428522,3.0667304
+7448518934,node,Aoyama,restaurant,Lille,,,,50.6429772,3.0671971
+7448518937,node,Le Gan'ge,restaurant,Lille,,,,50.6432957,3.0676296
+7448518938,node,Chez Ronny,restaurant,Lille,,,,50.6433735,3.0677033
+7465010302,node,A la providence,restaurant,Lille,,,,50.6758204,2.8374657
+7465010315,node,Bel'Art,restaurant,Lille,"4 Rue du Maréchal de Rantzau, 59193, Erquinghem-Lys",59193,,50.6797844,2.860929
+7467898591,node,Le Bistrot Thaï,restaurant,Lille,,,,50.6383528,3.0591467
+7467898593,node,Sakura,restaurant,Lille,,,,50.6382445,3.0590562
+7467898594,node,Le 28,restaurant,Lille,,,http://www.le28thiers.fr/,50.6380147,3.0588637
+7467898595,node,Coke,hotel,Lille,"30 Rue Thiers, 59800, Lille",59800,http://apparthotellille.fr/,50.6379302,3.0587853
+7467898596,node,Disco Volante,restaurant,Lille,,,https://www.discovolante.fr/,50.6378903,3.0587517
+7500209985,node,Restaurant du Golf,restaurant,Lille,"Rond-Point des Accacias, 59790",59790,https://golf-lille-metropole.fr/,50.6079327,3.1119909
+7507475195,node,Méert,restaurant,Lille,,,,50.6376893,3.0618096
+7532319042,node,L'Assiette Mijotée,restaurant,Lille,,,,50.6243006,3.0583444
+7593584851,node,Le Douze,restaurant,Lille,"17 Rue Jacquemars Giélée, 59800, Lille",59800,,50.6320019,3.0585913
+7603734154,node,La Crêperie du Sébasto,restaurant,Lille,,,,50.6298811,3.0576346
+7614742840,node,Le charbon ardent,restaurant,Lille,,,,50.6289887,3.0556235
+7618566524,node,Balme,restaurant,Lille,,,,50.6407866,3.0637958
+7626012160,node,La Galeterry,restaurant,Lille,,,,50.6876085,3.0516869
+7632392595,node,L'Embarcadère Brasserie,restaurant,Lille,"58 Avenue Jean Baptiste Lebas, 59480, La Bassée",59480,,50.528918,2.8045248
+7632406287,node,Le 8 Pool Bar-Brasserie,restaurant,Lille,,,,50.5306138,2.8021791
+7636066492,node,Place de la Frite,restaurant,Lille,,,,50.5315411,2.8044996
+7682495485,node,Tendance et Fraîcheur,restaurant,Lille,"72 Rue Pierre Catteau, 59115",59115,https://tendanceetfraicheur.fr/,50.6839855,3.2306973
+7688118704,node,Ô Rendez-vous Bar Brasserie,restaurant,Lille,,,,50.6673505,2.9723485
+7702454587,node,Little Italy,restaurant,Lille,,,https://littleitaly-saintandrelezlille.fr/fr,50.6621344,3.0505774
+7702455186,node,Brasserie Le Dix-huit,restaurant,Lille,,,https://www.le-dix-huit.fr/,50.6623098,3.0520958
+7719920623,node,La Friche Gourmande,restaurant,Lille,,,,50.6632043,3.0748318
+7741391201,node,Opus,restaurant,Lille,"41 Rue du Docteur Legay, 59110, La Madeleine",59110,,50.6500823,3.0753491
+7802945432,node,Maurice,restaurant,Lille,3 Lindenlaan,,https://www.tourenaar.be/vermelding/maurice/,51.26236,4.7890404
+7804550264,node,Estaminet Gantois,restaurant,Lille,,,,50.6310767,3.0682932
+7804560493,node,Hermitage Gantois,hotel,Lille,224 Rue Pierre Mauroy,,https://www.hotelhermitagegantois.com/,50.6312102,3.0682487
+7806362886,node,La Galerie,restaurant,Lille,,,,50.6409634,3.061651
+7820142490,node,Berceau d'Afrique,restaurant,Lille,,,,50.6203789,3.0730201
+7864519937,node,Saveurs du nord,restaurant,Lille,,,,50.6227687,3.054211
+7878344386,node,La marmite de Pierrot,restaurant,Lille,"93 Rue Raymond Poincaré, 59160",59160,https://www.marmite-de-pierrot.com/,50.6447131,2.9673953
+7881897331,node,Délices Univers,restaurant,Lille,,,,50.620745,3.061087
+7881897335,node,Mumtaz Mahal,restaurant,Lille,,,,50.6270329,3.0572472
+7888758496,node,Les 5 marmites,restaurant,Lille,"56 Chaussée de l'Hôtel de Ville, 59650, Villeneuve-d'Ascq",59650,https://www.les5marmites.fr/,50.6198324,3.131009
+7893472517,node,Café Lovster,restaurant,Lille,,,,50.6378923,3.0647075
+7903185584,node,Don Angelino,restaurant,Lille,,,,50.6235942,3.0429459
+7907308087,node,Flunch,restaurant,Lille,"Boulevard de Valmy, 59650, Villeneuve-d'Ascq",59650,https://restaurant.flunch.fr/villeneuve-d-ascq/flunch-villeneuve-2,50.6164204,3.1314826
+7915312325,node,Madame V,restaurant,Lille,,,,50.6183801,3.129486
+7924488931,node,Sushi Time,restaurant,Lille,"59650, Villeneuve-d'Ascq",59650,https://sushitimev2.eatbu.com/,50.6170039,3.130953
+7924488942,node,Le Bavarois,restaurant,Lille,"59650, Villeneuve-d'Ascq",59650,,50.6172693,3.1304821
+7959162190,node,Le Plaza Restaurant,restaurant,Lille,,,,50.6398224,3.0758676
+7973962285,node,L'incontournable,restaurant,Lille,,,,50.5823625,3.0463117
+7973962294,node,La Pause Gourmande,restaurant,Lille,,,,50.5486603,3.0287138
+7984585873,node,Restaurant Scolaire Jean Zay,restaurant,Lille,,,,50.6449624,3.1033026
+7992654985,node,Brasserie Beauséjour,restaurant,Lille,,,,50.5789389,3.0524199
+8003471789,node,Café Brasserie La Gitane,restaurant,Lille,,,,50.5816824,3.0506354
+8007833524,node,Ciao Ragazzi,restaurant,Lille,,,,50.6267061,3.0403385
+8007833549,node,Gueuleton Lille,restaurant,Lille,,,,50.62931,3.0427117
+8009479158,node,Hôtel Ibis Styles Lille Neuville-en-Ferrain,hotel,Lille,,,https://www.altia-hotel.com,50.7622145,3.1562082
+8013288485,node,Ricordi,restaurant,Lille,"116 Rue du Bourg, 59130",59130,https://www.ricordi.fr/,50.6523019,3.0264507
+8015857587,node,Qi lōh,restaurant,Lille,,,,50.6505906,3.0724738
+8015860194,node,La Terasse,restaurant,Lille,,,,50.6503433,3.0715084
+8015860199,node,Aux Artistes,restaurant,Lille,,,,50.6418686,3.0613377
+8015860787,node,Hôtel du Centre,hotel,Lille,,,,50.5830153,3.0502998
+8015860794,node,L'Été Indien,restaurant,Lille,"54 Rue du Général de Gaulle, 59110, La Madeleine",59110,,50.6503061,3.071288
+8019505334,node,Mon père,restaurant,Lille,,,,50.633494,3.0645197
+8036702509,node,Les Can Cans,restaurant,Lille,3 Rue du Général Leclerc,,,50.6529087,3.1862884
+8042334316,node,Estaminet du Chemin Vert,restaurant,Lille,,,https://www.estaminetducheminvert.fr/,50.7680942,3.1619476
+8043761005,node,La guinguette de la marine,restaurant,Lille,,,,50.7511817,2.9505884
+8059858947,node,,restaurant,Lille,,,,50.6931047,3.1672001
+8059858964,node,Crêpes Corner,restaurant,Lille,,,,50.6928365,3.1800449
+8059858965,node,Pizza Fina,restaurant,Lille,,,,50.6928134,3.1800016
+8059858966,node,La broche dorée,restaurant,Lille,,,,50.6928043,3.179944
+8090914352,node,Xiong Mao Food,restaurant,Lille,,,https://www.fivesthai.fr/,50.6371705,3.0641909
+8093368722,node,Café Brasserie du Thelut,restaurant,Lille,,,,50.4710143,3.0678757
+8093368942,node,Pizza Enzo,restaurant,Lille,50 Rue de Don,,https://www.enzo-pizza.com/,50.5315453,2.9292456
+8093369029,node,Le Bistrot de Flore,restaurant,Lille,,,,50.5280823,2.933063
+8093369251,node,Au Saint-Hubert,restaurant,Lille,,,,50.5378604,2.9224732
+8093369252,node,Le Sidi Bou,restaurant,Lille,,,,50.5492388,3.0299621
+8093369258,node,Jardin de Jade,restaurant,Lille,,,,50.5505524,3.0292668
+8093369259,node,La Palanquée,restaurant,Lille,,,,50.5512898,3.0293736
+8121423688,node,Nagoya Roll,restaurant,Lille,125 Avenue de Dunkerque,,https://nagoyaroll.com/,50.6342578,3.0303486
+8173953824,node,Couscous,restaurant,Lille,,,,50.5316701,2.8058871
+8196963423,node,Le Push,restaurant,Lille,,,,50.6445855,3.0374704
+8261881893,node,Estaminet Parent,restaurant,Lille,,,,50.6737766,2.9843591
+8301224645,node,Le barboteur,restaurant,Lille,,,,50.6293421,3.0215288
+8301224646,node,Les Sales Mômes,restaurant,Lille,"91 Quai de l'Ouest, 59000",59000,,50.629196,3.0216357
+8306205294,node,,restaurant,Lille,,,,50.6733277,3.0543662
+8341245117,node,Ristorante Del Arte,restaurant,Lille,,,https://www.delarte.fr/restaurants/4394-roncq,50.7429329,3.1446852
+8364469078,node,Moxy Lille City,hotel,Lille,,,,50.6279761,3.0635715
+8418444926,node,Daehan,restaurant,Lille,,,,50.6301424,3.0614815
+8425684273,node,La Récré,restaurant,Lille,,,,50.6309596,3.0444618
+8434607732,node,Bene cosi !,restaurant,Lille,,,,50.5396886,3.0757248
+8450790154,node,KOF,restaurant,Lille,,,,50.6226125,3.0536601
+8478419470,node,A Bellevue,restaurant,Lille,"18 Place de la République, 59830, Cysoing",59830,,50.5678107,3.2158854
+8520445948,node,Germaine,restaurant,Lille,,,,50.637222,3.0344626
+8533058898,node,Lys Hotel,hotel,Lille,,,,50.7805629,3.1251816
+8611584045,node,Au Lion Des Flandres,restaurant,Lille,,,,50.588729,3.1024879
+8613544789,node,Un Coin de paradis,restaurant,Lille,,,,50.6331964,3.0747255
+8631324754,node,Le Grand Café,restaurant,Lille,,,,50.6918429,3.172969
+8636155435,node,Pizz'Art,restaurant,Lille,,,,50.6545983,3.0670032
+8643586217,node,La Cantin,restaurant,Lille,,,https://www.caravanparksiesta.be/la-cantina/,51.2740244,4.7960776
+8651592652,node,Le Château de la Vigne,restaurant,Lille,,,,50.708394,3.0773632
+8654678972,node,The famous burger,restaurant,Lille,,,,50.6557303,2.9050232
+8670999020,node,Pizzeria des Domaines,restaurant,Lille,,,,50.702934,3.092878
+8670999431,node,Le Comptoir Bistrot et Vins,restaurant,Lille,,,,50.4859734,3.036942
+8675764642,node,Tavernaki,restaurant,Lille,,,,50.6278408,3.1223225
+8735991478,node,Okko Hôtel - Lille Centre,hotel,Lille,,,https://www.okkohotels.com/fr/page/lille/okko-hotels-lille-centre.3097.html,50.634098,3.0643157
+8736011687,node,Le Palais du Couscous,restaurant,Lille,,,,50.6788987,3.1786403
+8781776318,node,Côté Sushi,restaurant,Lille,,,,50.6330522,3.0625105
+8813490022,node,Happy Fox,restaurant,Lille,,,,50.6423293,3.0870042
+8818589498,node,Le Saigon,restaurant,Lille,,,,50.6119788,3.0752087
+8818589500,node,L'Estaminet du Pont,restaurant,Lille,,,,50.6120478,3.0744727
+8819975080,node,Triolo Food,restaurant,Lille,"11 Rue Traversière, 59650, Villeneuve-d'Ascq",59650,,50.6165166,3.1415024
+8839018589,node,cosmo,restaurant,Lille,,,,50.6452806,3.0564899
+8871443317,node,Voyages Gourmands,restaurant,Lille,,,,50.6352669,3.070082
+8871481618,node,elephanthai,restaurant,Lille,,,,50.6371799,3.0675781
+8871570418,node,El Manar,restaurant,Lille,,,,50.6363422,3.0687706
+8879436154,node,Au sable d'Or,restaurant,Lille,"38 Rue de Dunkerque, 59280, Armentières",59280,,50.6887842,2.880434
+8893365133,node,Saïgon 3 Saisons,restaurant,Lille,"44 Rue Ferrer, 59155, Faches-Thumesnil",59155,,50.6098722,3.065258
+8897991342,node,Pizzéria Isola,restaurant,Lille,"125 Avenue Jean Jaurès, 59790, Ronchin",59790,,50.606603,3.0767666
+8900879882,node,Pizz'Eli,restaurant,Lille,"9 Rue du Général Leclerc, 59840, Pérenchies",59840,,50.6673751,2.9735278
+8904462600,node,Royal d'Asie,restaurant,Lille,,,,50.5771034,3.0822577
+8904462601,node,Ibis Styles Lille Aéroport,hotel,Lille,,,,50.5809549,3.0907413
+8920135292,node,Au nez rouge,restaurant,Lille,"Rue André Delepierre, 59700, Marcq-en-Barœul",59700,,50.6646661,3.0798248
+8930273672,node,Résidence Orfea Lille,hotel,Lille,"118 Allée de Liège, 59777, Lille",59777,,50.638099,3.0731381
+8933041588,node,La Salle à Manger,restaurant,Lille,,,https://restaurant-lasalleamanger.com/,50.6579561,3.1032548
+8933071476,node,Au Carmen,restaurant,Lille,,,,50.652809,3.1188978
+8936165639,node,Pelle et Flamme,restaurant,Lille,,,,50.6553585,3.0735508
+8941122626,node,L'Estaminet de l'Abbaye,restaurant,Lille,,,http://www.estaminet-abbaye-genech.fr/,50.5307543,3.2209909
+8949760202,node,Au P'tit Sainghin,restaurant,Lille,"253 Rue du Maréchal Leclerc, 59262",59262,,50.587863,3.1670432
+8957189601,node,Chez Tof,restaurant,Lille,"74 Rue Édouard Agache, 59840, Pérenchies",59840,,50.6659897,2.9698134
+8962809533,node,Novettino,restaurant,Lille,,,,50.639508,3.0646832
+8973547971,node,Autour de vous,restaurant,Lille,,,,50.6401381,3.0581733
+8977069200,node,Hippopotamus,restaurant,Lille,,,,50.549853,3.0496564
+8984024517,node,Le Petrouchka - Chti Resto,restaurant,Lille,,,,50.6409967,3.0570408
+8987567601,node,Le Chamarel,restaurant,Lille,,,,50.6396568,3.0677555
+9001441423,node,Barrière Lille,restaurant,Lille,,,,50.6367635,3.0772599
+9006193030,node,Sister's,restaurant,Lille,,,,50.6333912,3.0552185
+9023003637,node,La Table d'Édouard,restaurant,Lille,,,,50.634977,3.0563522
+9026105317,node,Pep's,restaurant,Lille,"118 Rue du Maréchal Foch, 59120, Loos",59120,,50.6147501,3.0136151
+9026147893,node,Le Renard et la Belette,restaurant,Lille,"165 Rue du Maréchal Foch, 59120, Loos",59120,https://creperie-le-renard-et-la-belette.com/fr,50.6145764,3.0136818
+9026871901,node,Baggio Pizza,restaurant,Lille,"41 Rue de Thumesnil, 59000, Lille",59000,,50.6179502,3.0669796
+9028296735,node,L'Espadopn,restaurant,Lille,,,,50.619995,3.0512245
+9028959883,node,La P'tite Adresse,restaurant,Lille,,,http://www.laptiteadresse-cysoing.com/,50.5674816,3.2155328
+9029129933,node,Le Rendez-vous du Marché,restaurant,Lille,,,,50.6355632,2.9714276
+9043833897,node,Naam,restaurant,Lille,,,,50.6392446,3.0702933
+9043833912,node,Le Palestro,restaurant,Lille,,,,50.6380475,3.0698112
+9043833913,node,Nū Lille,restaurant,Lille,,,,50.6382052,3.0721868
+9043836655,node,Bi Bim Bap,restaurant,Lille,,,,50.6371099,3.0683834
+9045129698,node,Le Tizi-ouzien. Club 104,restaurant,Lille,,,,50.6226082,3.0444443
+9045494580,node,Le Beau café,restaurant,Lille,,,,50.6302935,3.0626554
+9046147391,node,Mambo Miam Miam,restaurant,Lille,,,,50.6337264,3.0614303
+9049170779,node,Neri,restaurant,Lille,"75 Rue Georges Pompidou, 59110, La Madeleine",59110,,50.6537324,3.0690663
+9050061551,node,Le Braque,restaurant,Lille,,,,50.6410405,3.0626959
+9060022151,node,Félicie,restaurant,Lille,,,,50.615203,3.016412
+9061585702,node,Le Narjis,restaurant,Lille,,,,50.6178444,3.0661639
+9063316934,node,Ferme de la Noyelle,guest_house,Lille,"832 Rue Pasteur, 59262, Sainghin-en-Mélantois",59262,http://www.fermedelanoyelle.fr,50.5885516,3.1801584
+9064683670,node,La Ferme blanche,hotel,Lille,9 Rue Pasteur,,https://www.fermeblanche.fr,50.6546516,3.0043803
+9068628372,node,Flunch,restaurant,Lille,Avenue de l'Europe,,https://www.flunch.fr/restaurant/leers/flunch-leers,50.6813539,3.2203335
+9076702714,node,Au Fresnoy,restaurant,Lille,,,,50.6740569,3.2266789
+9085026817,node,Mozza Pizza,restaurant,Lille,,,,50.6458573,3.1038551
+9094264575,node,Le Vendôme,restaurant,Lille,,,,50.6293179,3.0665325
+9118090709,node,Le Big Ben,restaurant,Lille,,,,50.6178433,3.0237682
+9122769070,node,Chalet,restaurant,Lille,,,,50.6201228,3.0228353
+9127986779,node,Le Saint-Laurent,restaurant,Lille,,,,50.6994373,3.2132526
+9136359801,node,Les Tontons Afro,restaurant,Lille,,,,50.6412964,3.0625033
+9138046672,node,Les Saveurs d'Asie - Lomme,restaurant,Lille,,,,50.6382901,3.0224243
+9144497521,node,King Wok,restaurant,Lille,161 Rue Clemenceau,,https://www.kingwok.fr/,50.5934455,3.0514197
+9144685907,node,Les Marmites Lilloises,restaurant,Lille,,,,50.6370949,3.0616578
+9144685908,node,Campion Brasserie,restaurant,Lille,,,,50.6386691,3.0625024
+9146872570,node,La Terrase,restaurant,Lille,,,,50.6075809,3.2532288
+9150092723,node,Brasserie de la Mairie,restaurant,Lille,,,,50.6507463,3.1910945
+9155912005,node,Mardasteph Food,restaurant,Lille,,,,50.6257563,3.0516925
+9159416247,node,Au Palais de L'inde,restaurant,Lille,,,,50.6335085,3.0694173
+9159416248,node,Café - Brasserie Le Delory,restaurant,Lille,,,,50.6335077,3.0693516
+9160545170,node,49R,restaurant,Lille,,,,50.6403932,3.0573017
+9160569880,node,Ma reine,restaurant,Lille,,,https://www.hotelarbrevoyageur.com/fr/page/ma-reine,50.6396112,3.0675965
+9163304908,node,Le Fer by Cabreras,restaurant,Lille,,,,50.6468758,3.057963
+9163304910,node,La Dinette,restaurant,Lille,,,,50.6458086,3.0561018
+9165000787,node,Le Saint-Honoré,restaurant,Lille,"19 bis Place du Général de Gaulle, 59166, Bousbecque",59166,,50.7716238,3.0784722
+9165524901,node,Le Van Gogh,restaurant,Lille,,,,50.6231922,3.1337829
+9171354627,node,Le Phoenix,restaurant,Lille,,,,50.6356926,3.1229556
+9171864967,node,Au bas jardin,restaurant,Lille,,,,50.6349593,3.1268863
+9176964894,node,Restaurant de l'Arbonnoise,restaurant,Lille,,,,50.6443066,3.1328224
+9179662639,node,The Black Lab,restaurant,Lille,,,,50.6524343,3.1220106
+9208100582,node,Marta,restaurant,Lille,219 Allée Clémentine Deman,,,50.634267,3.0226271
+9214321577,node,Kairos,restaurant,Lille,,,,50.6255068,3.1135279
+9229747015,node,Chez Tizote,restaurant,Lille,,,,50.637631,3.0237147
+9234035314,node,Come Prima,restaurant,Lille,108 bis Boulevard de la Liberté,,https://www.comeprimalille.com/,50.6294814,3.0654707
+9249238122,node,La CH’TITE Brigitte,restaurant,Lille,,,,50.6383654,3.058463
+9249238129,node,Davonn,restaurant,Lille,,,,50.6386493,3.0604533
+9270326617,node,IT - Italian Trattoria,restaurant,Lille,,,,50.6369014,3.0693246
+9294632453,node,Paradise Sushi,restaurant,Lille,,,,50.6346404,3.0572694
+9294632454,node,L'endroit,restaurant,Lille,,,,50.6351062,3.0572271
+9308499017,node,Ô Stam,restaurant,Lille,220 Rue Jean Jaurès,,,50.6688072,3.1434399
+9319545921,node,Sans Chichi,restaurant,Lille,,,,50.6387178,3.0654263
+9319545923,node,Basilic & Co,restaurant,Lille,"80 Rue Nationale, 59800, Lille",59800,https://pizzerias.basilic-and-co.com/fr/restaurant-pizza-terroir/rue-nationale-lille/,50.6358906,3.0595391
+9332852615,node,La Fossetta,restaurant,Lille,,,,50.6346159,3.0629812
+9336960218,node,La Patate qui Fume,restaurant,Lille,"18 Rue de Turenne, 59000, Lille",59000,,50.6292322,3.036319
+9377178017,node,Babe,restaurant,Lille,,,https://www.goodlife.fun/restaurants/babe/,50.6343841,3.0611535
+9405062817,node,Au 30 meal,restaurant,Lille,30 Rue Paul Duez,,https://au-30-meal.com/,50.6329688,3.0748716
+9415569465,node,L'Enjoy,restaurant,Lille,,,,50.6331429,3.0682003
+9419724886,node,L'Oasis,restaurant,Lille,"76 Chaussée de l'Hôtel de Ville, 59650, Villeneuve-d'Ascq",59650,,50.620279,3.1305317
+9425164455,node,Ô Barbecue,restaurant,Lille,,,https://o-barbecue.business.site/,50.7083258,3.1579728
+9432027109,node,La Carte,restaurant,Lille,,,,50.7036074,3.0917385
+9466192850,node,Salad&Co,restaurant,Lille,4 Boulevard de Mons,,https://restos.saladandco.fr/campus-villeneuve-dascq/,50.6451733,3.1418148
+9471103617,node,Pizza Pazza,restaurant,Lille,,,,50.696798,3.2033501
+9472516392,node,Aux Indes,restaurant,Lille,,,,50.6376047,3.0585568
+9472599614,node,Tigermilk,restaurant,Lille,"4 Place Louise de Bettignies, 59800",59800,,50.6404783,3.0646241
+9487443385,node,Le Grenier,restaurant,Lille,,,,50.5500485,3.0519829
+9487443410,node,Asian Grill,restaurant,Lille,Avenue de l'Épinette,,,50.5521092,3.0555437
+9495073818,node,Quartier Général,restaurant,Lille,,,,50.6337949,3.0640721
+9515957029,node,Holiday Inn,hotel,Lille,,,,50.624269,2.9628937
+9548356275,node,Le Berliner,restaurant,Lille,,,,50.6395685,3.0583666
+9548393322,node,Le Septentrion,restaurant,Lille,,,https://www.septentrion.fr,50.7075258,3.1124489
+9576388195,node,La Belle Histoire,restaurant,Lille,,,,50.6612331,3.2294721
+9599386040,node,Los Brothers,restaurant,Lille,,,,50.5690351,3.2115269
+9599386045,node,Au vieux grill,restaurant,Lille,,,,50.569987,3.2107721
+9601855337,node,Le Tandem,restaurant,Lille,,,,50.6313562,3.2358569
+9616194038,node,Millésime,restaurant,Lille,,,,50.6445103,3.0575704
+9616194039,node,54 THAI,restaurant,Lille,54 Rue Saint-André,,,50.6444273,3.0579995
+9628267149,node,Yami Sushi,restaurant,Lille,"20 Avenue Édouard Vaillant, 59170, Croix",59170,https://ya-misushi.fr/,50.6699422,3.1534484
+9628299903,node,Le fer a cheval,restaurant,Lille,"116 Avenue Jean Jaurès, 59100, Roubaix",59100,https://www.leferacheval-restaurant.com/,50.6719414,3.1552233
+9645798332,node,Hon Du,restaurant,Lille,26 Rue Jules Guesde,,,50.667414,3.0749135
+9645798333,node,Soko-thai,restaurant,Lille,11 Rue Jules Guesde,,,50.6673063,3.0747277
+9646105458,node,Le Gourmet d'Asie,restaurant,Lille,"109 Rue du Maréchal Foch, 59120, Loos",59120,,50.6150003,3.0166555
+9647779973,node,buff' asia,restaurant,Lille,"1 Rue de l'Europe, 59115, Leers",59115,https://buffasia-leers.eatbu.com/,50.6814781,3.2242486
+9652758562,node,La Bonne Pâte,restaurant,Lille,"49 Rue Belle Croix, 59890, Quesnoy-sur-Deûle",59890,,50.7122477,2.9988052
+9663209108,node,Royal Couscous,restaurant,Lille,,,,50.6970979,3.141173
+9666660038,node,3 Brasseurs,restaurant,Lille,Route de Roncq,,https://restaurants.3brasseurs.com/fr/france-FR/446/3-brasseurs-neuville-en-ferrain/details,50.7424623,3.1413922
+9666660039,node,Salad&Co,restaurant,Lille,Route du Petit Menin,,https://restos.saladandco.fr/neuville-en-ferrain,50.7422671,3.1418848
+9675632251,node,Smoki,restaurant,Lille,,,,50.6295609,3.0213757
+9682099040,node,Le Sirocco,restaurant,Lille,,,,50.721198,3.1573908
+9682099041,node,Osteria Del Padre,restaurant,Lille,,,,50.7209371,3.1582822
+9682099042,node,Oushiza,restaurant,Lille,,,https://oushiza.eatbu.com/,50.7219543,3.1569993
+9708892963,node,La Houblonnière,restaurant,Lille,,,,50.6373265,3.0636556
+9713252455,node,Flam's,restaurant,Lille,,,https://www.flams.fr/restaurant_roubaix.html,50.6900908,3.1771506
+9713252456,node,B&B Hotel,hotel,Lille,,,https://www.hotel-bb.com/fr/hotel/lille-roubaix-centre-grand-place,50.6901033,3.1772071
+9741225727,node,Bouffons,restaurant,Lille,53 Boulevard du Général Leclerc,,,50.6910832,3.1784166
+9761040517,node,Sushi Leba,restaurant,Lille,,,,50.6147377,3.0135655
+9769729015,node,Le Petit Daniel's,restaurant,Lille,,,,50.7823534,3.124671
+9777632512,node,O Baramos,restaurant,Lille,69 Rue Gabriel Péri,,,50.7843818,3.1317482
+9783762140,node,L'estaminet de la Ferme du Mont Saint-Jean,restaurant,Lille,"7 Chemin d'Eau, 59250, Halluin",59250,,50.773974,3.1015911
+9786645103,node,Pizzeria Del Corso,restaurant,Lille,,,,50.7339177,3.1451038
+9786645104,node,Les Temps Modernes,restaurant,Lille,,,,50.7338128,3.1453771
+9790240701,node,L'Entre-Vue,restaurant,Lille,"50 Avenue Pierre Mauroy, 59120, Loos",59120,https://www.lentre-vue.fr/le-restaurant/presentation,50.597672,3.0371776
+9813270676,node,Lucky Panda,restaurant,Lille,,,,50.6395896,3.0577896
+9820854223,node,Rozó,restaurant,Lille,"34 Rue Raymond Derain, 59700",59700,,50.6751673,3.090981
+9820854246,node,La Passerelle,restaurant,Lille,"56 Rue Raymond Derain, 59700",59700,https://la-passerelle-marcq-en-baroeul.fr,50.6744076,3.0910007
+9854035982,node,Le 113,restaurant,Lille,,,,50.6300229,3.0563376
+9914682166,node,Jaipur,restaurant,Lille,,,,50.6327148,3.0682376
+9945316208,node,Africana Melting-pot,restaurant,Lille,,,,50.6303184,3.0547903
+9963406761,node,La Croisade,restaurant,Lille,,,,50.7645676,3.1561832
+9964058003,node,Lebon-bouillon,restaurant,Lille,,,,50.6276296,3.0621879
+9964058004,node,Le bon bistrot,restaurant,Lille,,,,50.6282895,3.0615606
+9972781368,node,Mieline,restaurant,Lille,"2 Mail de Lannoy, 59100, Roubaix",59100,https://www.mieline.com/,50.6897746,3.1797817
+9979496885,node,Le Petit Prince,restaurant,Lille,,,,50.6399507,3.0580907
+9981202645,node,Le Point de Chute,restaurant,Lille,,,,50.6344957,3.0221817
+9983956177,node,Le Convive,restaurant,Lille,,,,50.6361865,3.0630318
+9983956178,node,Le Barbier qui fume Rihour,restaurant,Lille,,,,50.6361474,3.0629594
+10018038943,node,L'arc en ciel,restaurant,Lille,,,,50.6476647,3.1150757
+10018038962,node,3 Brasseurs,restaurant,Lille,Rue Jean Jaurès,,https://restaurants.3brasseurs.com/fr/france-FR/867/3-brasseurs-pilaterie-villeneuve-dascq/details,50.6509802,3.1259215
+10027631960,node,Restaurant Villa Yoga,restaurant,Lille,,,,50.6873411,3.0848418
+10028391266,node,Rodizio Brazil,restaurant,Lille,,,,50.6342338,3.0659477
+10028391268,node,La Table Afghane,restaurant,Lille,,,,50.6200709,3.069134
+10036408028,node,Buena Onda,restaurant,Lille,,,,50.6467212,3.0574376
+10112876228,node,Kyoto,restaurant,Lille,,,https://kyoto-lille.fr/,50.6357853,3.0699373
+10114082707,node,Au Feu De Cèdres,restaurant,Lille,,,,50.7239448,3.158867
+10114082708,node,Le Festival,restaurant,Lille,,,,50.7239814,3.1586157
+10117527468,node,Restaurant La Braise,restaurant,Lille,,,https://www.la-braise-wattrelos.fr/,50.7106911,3.1772094
+10130417959,node,La Cloche,restaurant,Lille,,,,50.6373585,3.0642467
+10154338669,node,Arancinis Lovers,restaurant,Lille,Rue Saint-André,,,50.6444315,3.0576859
+10160740979,node,Davonn,restaurant,Lille,"51 Route de Sainghin, 59493, Villeneuve-d'Ascq",59493,https://www.davonn.com/boutique/haute-borne/,50.6078067,3.1642109
+10183191480,node,OMA Cantine,restaurant,Lille,,,https://oma-cantine.com/,50.7634178,3.1213115
+10203944660,node,Cheez'men,restaurant,Lille,"20 Place Jean Delvainquière, 59150, Wattrelos",59150,,50.7008088,3.2148958
+10233020181,node,Le Chélia,restaurant,Lille,"6 Place de la Gare, 59100, Roubaix",59100,,50.6954468,3.1644217
+10237724488,node,L'Industrie,restaurant,Lille,,,,50.6675614,3.0570147
+10243448546,node,Poppie's Pizza,restaurant,Lille,,,http://poppiespizza.fr/59000/pizzas.html,50.613667,3.0623702
+10251682753,node,Archimède,restaurant,Lille,,,,50.6392697,3.052569
+10261380151,node,La Cantine Urbaine,restaurant,Lille,,,,50.634664,3.0540583
+10273012867,node,RU Châtillon,restaurant,Lille,,,https://www.crous-lille.fr/restaurant/r-u-chatillon-lille-centre/,50.6297113,3.0627623
+10275122889,node,Salad&Co,restaurant,Lille,"7 Rue Nationale, 59800, Lille",59800,https://restos.saladandco.fr/lille-nationale/,50.6368635,3.0625027
+10276196565,node,,restaurant,Lille,,,,50.689026,3.056885
+10276271181,node,Tandem,restaurant,Lille,"382 Rue de Bondues, 59118",59118,https://www.brasserie-tandem.com,50.6877814,3.0638561
+10276483152,node,Méziane,restaurant,Lille,,,,50.6867895,3.2109788
+10278141034,node,Le Mange Disque,restaurant,Lille,,,,50.6903748,3.1722616
+10291449542,node,Clubtrotter,restaurant,Lille,,,https://clubtrotter.fr/,50.6406189,3.0541389
+10538980953,node,Le Domaine des Cigognes,hotel,Lille,,,,50.5365694,3.1018096
+10542735521,node,La Piazza,restaurant,Lille,,,https://lapiazza-bousbecque.fr/,50.77172,3.0782015
+10565017540,node,Ghosn,restaurant,Lille,,,,50.6348153,3.0566598
+10583773424,node,Paloma,restaurant,Lille,,,,50.6360647,3.0633366
+10600934027,node,La Guinguette de la Marine,restaurant,Lille,,,,50.6368109,3.0467985
+10601616266,node,Le 17.45 Lille,restaurant,Lille,,,,50.6451838,3.0566592
+10601616269,node,Chez Georges,restaurant,Lille,,,,50.6451187,3.0570444
+10604059574,node,Arcadia,restaurant,Lille,,,,50.6260208,3.0662817
+10620348700,node,Cosy Lunch,restaurant,Lille,,,,50.6339247,3.0509101
+10693277598,node,Le Two D,restaurant,Lille,,,,50.6803822,3.0621159
+10697160447,node,El Riadh,restaurant,Lille,,,https://www.elriadh.com/,50.637179,3.0680353
+10723108214,node,Arborescence,restaurant,Lille,,,,50.677042,3.1417215
+10734692923,node,Petit Jaja,restaurant,Lille,,,https://www.jajalille.com,50.6438459,3.0584773
+10765931355,node,Pulpe,restaurant,Lille,,,https://restaurant-pulpe.fr/,50.6431669,3.0594512
+10778318652,node,Café de Paris – Chez Boubiers 1930,restaurant,Lille,,,https://www.cafedeparis-lille.fr/,50.638283,3.0650336
+10797382773,node,Wagon,restaurant,Lille,"32 Place de la Gare, Lille",,https://www.wagonrestaurant.fr/,50.6359608,3.0696493
+10814169751,node,Mama Africa,restaurant,Lille,,,,50.6201032,3.0639045
+10837116310,node,Pizza Hut,restaurant,Lille,,,,50.6658717,3.1029894
+10837116320,node,Kam-Kok,restaurant,Lille,,,,50.6653023,3.1020746
+10837116321,node,Un Déjeuner... Des Thés,restaurant,Lille,,,,50.665477,3.1018633
+10837173155,node,Ô Welsh,restaurant,Lille,,,https://owelsh.fr/,50.6137994,3.0623145
+10887570520,node,Ha Noi Gourmet,restaurant,Lille,273 Avenue de Dunkerque,,,50.6380788,3.0228348
+10917865141,node,Thida Angkor Bar,restaurant,Lille,,,,50.6454773,3.0562412
+10917865143,node,Bistrot Régent,restaurant,Lille,,,https://www.bistro-regent.fr/lille/,50.6381536,3.0720363
+10939281909,node,Ycy,restaurant,Lille,,,,50.666617,3.1684955
+10996980641,node,Viva Italian Pizza,restaurant,Lille,,,https://www.vipizza.fr/,50.6614666,3.0555082
+11002119405,node,Au 1er Mai,restaurant,Lille,"82 Quai de l'Ouest, 59000",59000,,50.6298433,3.0211552
+11002293566,node,Café Huguette,restaurant,Lille,"12 Place Jeanne d'Arc, 59000, Lille",59000,,50.6257297,3.0645938
+11072481383,node,Le Petite Mezzanine,restaurant,Lille,,,,50.6927743,3.1698798
+11083295000,node,Au coin de la Reine,restaurant,Lille,,,,50.5333084,3.1263428
+11085316239,node,L'Assiette du Boucher,restaurant,Lille,,,,50.6192113,3.050938
+11104586805,node,Le Coup d'Food,restaurant,Lille,"Rue de la Tradition, 59493",59493,,50.6138432,3.1472081
+11104605605,node,Trinôme,restaurant,Lille,2 Avenue Halley,,https://trinome.restaurant/,50.608423,3.1544546
+11112194258,node,Aparthotel Adagio Lille Centre Grand Place,hotel,Lille,"76 Rue de l'Hôpital Militaire, 59800, Lille",59800,https://www.adagio-city.com/fr/hotel-a0w9-aparthotel-adagio-lille-centre-grand-place.shtml,50.635478,3.0599947
+11158709459,node,Le Culot,restaurant,Lille,,,https://www.leculot.com/,50.6348402,3.0609312
+11193152209,node,Aromat,restaurant,Lille,,,https://aromat-restaurant.fr/,50.6021619,3.0388717
+11217722575,node,Indian Garden,restaurant,Lille,,,https://indiangardenlille.fr/,50.6236727,3.0426881
+11217722576,node,Brasserie Dufour,restaurant,Lille,,,https://brasserie-dufour.fr/,50.6429961,3.0676445
+11223110299,node,YGF Malatang Lille,restaurant,Lille,,,,50.6308387,3.0577946
+11226424937,node,Twenty Campus Lille Bayard - Résidence Étudiante,hotel,Lille,,,https://www.twenty-campus.com/fr/residences/tc-lille-bayard/,50.6183321,3.0538183
+11233583273,node,Nems by Eli,restaurant,Lille,"179 Rue Colbert, 59800, Lille",59800,,50.6332424,3.0420457
+11266440838,node,Au coeur de Tunis,restaurant,Lille,,,,50.6283051,3.0515797
+11266440840,node,Costaud,restaurant,Lille,,,,50.6326631,3.0635599
+11291047469,node,Les petites cantines,restaurant,Lille,Rue de la Gare,,,50.6748518,3.1453195
+11310475104,node,Chiyoda,restaurant,Lille,"24 Rue du Professeur Perrin, 59170, Croix",59170,https://www.chiyoda59.com/,50.6732892,3.1455177
+11327533255,node,Notting Hill,restaurant,Lille,"2 Avenue Halley, 59650, Villeneuve-d'Ascq",59650,https://www.nottinghill-coffee.com/,50.608473,3.1547439
+11333264466,node,Beerstro,restaurant,Lille,,,https://www.beerstro.fr/,50.5815007,3.0969384
+11365976326,node,La Buissonière,restaurant,Lille,,,,50.6352704,3.0133051
+11383427952,node,Touloulou,restaurant,Lille,,,https://www.touloulou-lille.com/,50.6433807,3.0591511
+11383427954,node,Morel & Fils - Au Moulin d'Or,restaurant,Lille,,,https://au-moulin-d-or.hubside.fr/,50.6376779,3.0639409
+11411791928,node,Chez Duda,restaurant,Lille,"287 Rue de l'Abbé Bonpain, 59700, Marcq-en-Barœul",59700,,50.6561968,3.0901447
+11432412904,node,La Cabane,restaurant,Lille,,,https://www.lacabaneduseptentrion.fr/,50.7076505,3.1134095
+11479202760,node,L'entracte,restaurant,Lille,"14 Rue Jules Guesde, 59700",59700,,50.6672791,3.0753508
+11513717017,node,Pinard,restaurant,Lille,,,,50.5691596,3.2113881
+11681002264,node,Ice'Crêp,restaurant,Lille,"Ruelle Saint-Sauveur, 59260, Hellemmes-Lille",59260,,50.6268928,3.1089759
+11681030857,node,Cappuccino,restaurant,Lille,"Rue Roger Salengro, 59260, Hellemmes-Lille",59260,,50.6278646,3.1074515
+11763279487,node,Gasthof De Keizer,restaurant,Lille,,,https://www.koffiehuislilibert.be/,51.2632364,4.7870046
+11787104951,node,L'aubergeoise,restaurant,Lille,,,https://laubergeoise.octotable.com/index.html,50.624132,3.0809314
+11809067892,node,L'Expresso,restaurant,Lille,,,,50.5576814,3.0329454
+11818292469,node,La Cote Royale,restaurant,Lille,,,,50.6069584,2.9521696
+11830923734,node,Leocorno,restaurant,Lille,,,,50.64234,3.1461091
+11851461084,node,Koko & Riko,restaurant,Lille,,,https://kokoetriko.fr/,50.6139728,3.0614854
+11866489740,node,Nachos,restaurant,Lille,"Rue de la Vague, 59650, Villeneuve-d'Ascq",59650,,50.6158854,3.1253691
+11866509374,node,Café de la poste,restaurant,Lille,,,,50.540349,3.1280314
+11886623039,node,Le coco's,restaurant,Lille,"Rue Louis Pasteur, 59320, Hallennes-lez-Haubourdin",59320,,50.615277,2.9601197
+11913642283,node,Giallo,restaurant,Lille,,,,50.5888356,3.1667833
+11925700387,node,Lysanne,restaurant,Lille,,,,50.7071584,3.097698
+11936593410,node,Le Pam,restaurant,Lille,,,,50.5220267,3.1132361
+11939133232,node,PEKO PEKO,restaurant,Lille,Capinghem,,https://www.pekopeko.fr/,50.6446837,2.9650553
+11960966437,node,Brother & Sister,restaurant,Lille,,,https://www.brothersisterlille.com/,50.6421754,3.0608848
+11975456230,node,Papote,restaurant,Lille,,,,50.6703781,3.1042587
+11989097412,node,Pizz'Eli,restaurant,Lille,,,,50.7128283,2.9994071
+11992003124,node,Mesa,restaurant,Lille,,,https://www.mesa-lille.com,50.6349832,3.0804174
+11992003125,node,Squadra,restaurant,Lille,,,https://squadraclub.fr/,50.6347642,3.0802143
+12037530799,node,Thaï Land,restaurant,Lille,,,,50.6467455,3.0575117
+12042439060,node,Campanile Lille Sud Seclin,restaurant,Lille,,,,50.5471603,3.0561284
+12043505524,node,Den Artiest,restaurant,Lille,,,,50.6360734,3.0628222
+12043505525,node,Bouillon de la Paix,restaurant,Lille,,,https://www.brasserie-delapaix.fr/,50.6357545,3.0634149
+12069524015,node,Laurette,restaurant,Lille,,,https://www.laurettelille.fr/,50.629204,3.0750284
+12069524018,node,JOST,hotel,Lille,,,https://www.jostlille.com/,50.6288705,3.0519326
+12075135469,node,Restaurant l'Hypodrome,restaurant,Lille,"137 Boulevard Georges Clemenceau, 59700",59700,,50.6653039,3.0919492
+12075140669,node,Brasserie Le 137,restaurant,Lille,"137 Boulevard Georges Clemenceau, 59700",59700,https://brasserie-le-137.com/,50.6648919,3.0926371
+12078223969,node,Hoppy Sushi,restaurant,Lille,59100,59100,,50.6951262,3.1640816
+12088657822,node,O Thai Box,restaurant,Lille,"13 Chemin des Vieux Arbres, 59650, Villeneuve-d'Ascq",59650,,50.6191883,3.1293641
+12088692351,node,Pikito,restaurant,Lille,,,,50.6378077,3.0675713
+12093501395,node,Coup de main,restaurant,Lille,,,https://www.coupdemain-lille.fr/,50.6460924,3.0557108
+12119732044,node,Le Potager des demoiselles,restaurant,Lille,"73 Rue de Seclin, Vendeville",,https://lepotagerdesdemoiselles.fr/fr,50.5752355,3.0785771
+12119732047,node,Les Cocottes de Jean Lou,restaurant,Lille,"25 Rue de Seclin, Vendeville",,,50.5758238,3.0806535
+12122422770,node,Le Kachmara,restaurant,Lille,,,,50.6882539,3.1590388
+12127567875,node,Volfoni Seclin,restaurant,Lille,90 Rue du Commerce,,https://www.volfoni.fr/nos-restaurants/volfoni-seclin,50.5473128,3.0518607
+12151522823,node,Casa Penasa,restaurant,Lille,,,,50.6612769,3.0719402
+12168301714,node,Auberge de la Vielle Forge,restaurant,Lille,160 Rue de Lannoy,,,50.6483948,3.1611768
+12182090613,node,Brasserie André,restaurant,Lille,,,https://brasserieandre.fr/,50.6332742,3.0629731
+12183955569,node,Le Bangkok,restaurant,Lille,,,https://le-bangkok-lille.eatbu.com,50.6374633,3.0603055
+12186337613,node,Le QG Gourmand,restaurant,Lille,"1791 Avenue du Général de Gaulle, 59910, Bondues",59910,,50.7195007,3.1092098
+12186337690,node,O 3 petits cochons,restaurant,Lille,,,,50.7092684,3.1051019
+12194426522,node,Salad&Co,restaurant,Lille,4 Rue du Professeur Langevin,,https://restos.saladandco.fr/btwin-village-lille/,50.6185649,3.0838109
+12228430501,node,Leggerezza,restaurant,Lille,"1 Rue de l'Abbé Lemire, 59130",59130,https://www.pizzerialeggerezza.fr,50.6511644,3.0340063
+12232846123,node,L'identic,restaurant,Lille,,,,50.6857702,2.8817751
+12233055576,node,Pizza City,restaurant,Lille,,,,50.6864028,2.8832956
+12233055577,node,Sushi's,restaurant,Lille,,,,50.6863846,2.883226
+12246181975,node,Le vélo de Suzon,restaurant,Lille,,,,50.6870382,2.8806543
+12246860972,node,La Guinguette,restaurant,Lille,,,,50.6923873,2.8723683
+12252804357,node,La Taverne Armentiéroise,restaurant,Lille,,,,50.6838362,2.8799049
+12252977177,node,Le gourmet d'Asie,restaurant,Lille,,,,50.6645405,3.1033251
+12254832582,node,La Tourquenoise,restaurant,Lille,31 Rue Saint-Jacques,,,50.72362,3.1575097
+12260537361,node,Le Bistrot de Gery,restaurant,Lille,,,,50.6946811,2.8932365
+12307028101,node,Maong Baï,restaurant,Lille,"204 Rue de Burgault, 59113",59113,https://www.maongbai.com/,50.5447865,3.0446524
+12312480004,node,Sikaru,restaurant,Lille,,,https://www.sikaru.fr/,50.6265824,3.0681922
+12367243404,node,Rose Caffe Pizzeria,restaurant,Lille,,,,50.5265549,3.1695414
+12384610768,node,Oceania Lille Les Augustins,hotel,Lille,,,https://www.oceaniahotels.com,50.634706,3.0691045
+12404513055,node,Le Hurlevent,restaurant,Lille,,,,50.768065,3.1029604
+12406744622,node,Shii Foo Mii,restaurant,Lille,,,,50.6641181,3.0606584
+12415304428,node,Estaminet de Comines,restaurant,Lille,,,,50.7650667,3.007153
+12416002324,node,Lo Stretto,restaurant,Lille,,,,50.7642989,3.0051842
+12420815480,node,Comme à la maison,restaurant,Lille,,,,50.7384901,3.0803815
+12420815489,node,Linselles Pizza,restaurant,Lille,,,,50.7385007,3.0794707
+12420856807,node,Tutto Bene,restaurant,Lille,,,,50.7372904,3.0783482
+12422466700,node,L'entre deux,restaurant,Lille,,,,50.7412896,3.1329215
+12422529002,node,Hôtel des Acacias,hotel,Lille,,,,50.7584452,3.1484389
+12422584526,node,Les Grillons,restaurant,Lille,,,,50.7435937,3.1623193
+12430666308,node,Dolce Ristorante,restaurant,Lille,,,,50.7016881,3.1349665
+12430692356,node,Le Saint-Germain,restaurant,Lille,,,,50.6943068,3.1323563
+12431591578,node,Délice Cous,restaurant,Lille,,,,50.7030386,3.2186856
+12432961852,node,Le Chamalo,restaurant,Lille,,,,50.7224102,3.1578735
+12433002788,node,Les Saveurs d'Asie,restaurant,Lille,,,,50.7233288,3.1578704
+12433712614,node,Afrikan Korner,restaurant,Lille,,,,50.6920714,3.1724223
+12433712615,node,Mercure Lille Roubaix - Grand Hôtel,hotel,Lille,,,https://all.accor.com/hotel/7951/index.fr.shtml,50.6922598,3.1721993
+12443728548,node,La Taverne,restaurant,Lille,,,,50.7494883,3.1195331
+12443763980,node,Le Bar à Becq'ter,restaurant,Lille,,,,50.7479129,3.1189698
+12444074284,node,Sushi Boutik,restaurant,Lille,,,,50.7664339,3.1205266
+12444202041,node,Casa Mia,restaurant,Lille,,,,50.7523673,3.1205084
+12444432364,node,L’Estaminet de Roncq,restaurant,Lille,,,,50.7549078,3.1205822
+12444432393,node,L'Atelier,restaurant,Lille,,,,50.7570473,3.120587
+12451489792,node,Le Bradford,restaurant,Lille,,,,50.7164169,3.1466762
+12463050465,node,Heureux Hasard,restaurant,Lille,,,https://www.heureuxhasard.com,50.6246736,3.0981029
+12487484776,node,Le Renaissance,restaurant,Lille,,,,50.7169813,3.1666733
+12487556187,node,Le Sportugal,restaurant,Lille,,,,50.7162448,3.1764059
+12487556196,node,O'Tradicional,restaurant,Lille,,,,50.7145694,3.1750507
+12487943372,node,My Kebab,restaurant,Lille,,,,50.7254234,3.143417
+12487945402,node,El Ilano,restaurant,Lille,,,,50.7255282,3.1470453
+12487961285,node,Dorade Royale,restaurant,Lille,,,,50.7251651,3.1446214
+12488790332,node,Le Saint-Martin,restaurant,Lille,,,,50.7309925,3.152166
+12488872819,node,La Table du Haze,restaurant,Lille,,,,50.7236362,3.1587255
+12496284275,node,Il Canaletto,restaurant,Lille,,,,50.6913477,3.1858656
+12497099214,node,Le Bouillon de l'Impératrice,restaurant,Lille,,,,50.6917409,3.1785638
+12497099292,node,Hôtel du Centre,hotel,Lille,,,,50.6910398,3.175569
+12497099293,node,La Dioza,restaurant,Lille,,,,50.6910414,3.1757334
+12497290044,node,Le Master Naan,restaurant,Lille,,,,50.6916587,3.1753432
+12497300197,node,Chick'n Beef,restaurant,Lille,,,,50.6920684,3.1767069
+12497848952,node,La Promenade,restaurant,Lille,,,,50.6345546,3.0226624
+12498816516,node,Beef & Grill,restaurant,Lille,,,,50.6925008,3.1791919
+12498918190,node,Som Tam Thaï,restaurant,Lille,,,,50.6891301,3.1601153
+12504393903,node,Le R,restaurant,Lille,,,,50.7028348,3.160981
+12504393904,node,L'Atelier Pizza,restaurant,Lille,,,,50.7025229,3.1609522
+12504393905,node,Le Shanon,restaurant,Lille,,,,50.7021238,3.1610388
+12505273685,node,L'echan thé,restaurant,Lille,,,,50.6909738,3.1623704
+12505273690,node,L'estrade,restaurant,Lille,,,,50.6907056,3.1621238
+12505273691,node,Coffee House,restaurant,Lille,,,,50.6906267,3.1620351
+12517816084,node,La Papillotte,restaurant,Lille,,,,50.6919666,3.1631832
+12517822091,node,Nael,restaurant,Lille,,,,50.6916063,3.1631291
+12517863374,node,Café Brasserie de l'Epeule,restaurant,Lille,,,,50.692092,3.1632195
+12517863375,node,Izmir Express,restaurant,Lille,,,,50.6920808,3.1633813
+12520886790,node,Baraka,restaurant,Lille,"20 Rue de Sébastopol, 59100, Roubaix",59100,https://www.cooperativebaraka.fr/,50.689323,3.1707144
+12520887171,node,La Petite Cour,restaurant,Lille,"57 Rue Nain, 59100, Roubaix",59100,,50.6937485,3.1694229
+12534859415,node,Cafeteria Croix Blanche,restaurant,Lille,,,,50.7209304,3.1074171
+12535859551,node,Lys Délices,restaurant,Lille,,,,50.6717992,3.2056816
+12536446068,node,Bistrot de Tressin,restaurant,Lille,"1 Route Nationale, 59152, Tressin",59152,https://www.lebistrotdetressin.fr,50.6094891,3.180097
+12536446249,node,Pizza Garnie,restaurant,Lille,,,,50.6752557,3.1825705
+12536546256,node,Le Safran,restaurant,Lille,,,,50.6769568,3.1674442
+12537307781,node,Davonn,restaurant,Lille,,,,50.6734587,3.1457775
+12537466836,node,Les Saveurs du potager,restaurant,Lille,,,,50.6677708,3.1432922
+12537473394,node,Hôtel des Flandres,hotel,Lille,,,,50.6693466,3.1523523
+12537534329,node,Vila Nova,restaurant,Lille,,,,50.7353559,3.1598424
+12543821279,node,Le St Charles,restaurant,Lille,"1 Rue Saint-Charles, 59110, La Madeleine",59110,,50.6621298,3.0709805
+12546337163,node,Aldi,restaurant,Lille,49 Rue Albert 1er,,https://www.aldi.fr/magasins-et-horaires-d-ouverture.html/l/wattrelos/4-rue-albert-premier/3436351,50.6936425,3.2056238
+12550033094,node,Les 2 saveurs,restaurant,Lille,,,,50.6976685,3.2075099
+12550764198,node,La Grande Kabylie,restaurant,Lille,,,,50.6949806,3.1943315
+12550847437,node,Thaï Kook,restaurant,Lille,,,,50.69149,3.1720814
+12550894160,node,SN Shop Snacking,restaurant,Lille,,,,50.6805085,3.1797846
+12552416188,node,Jb's Pub,restaurant,Lille,,,,50.6906585,3.1732511
+12553390075,node,Au Dubaï,restaurant,Lille,,,,50.6903214,3.1688974
+12553390095,node,Pizza du Bois,restaurant,Lille,,,,50.6906864,3.1692822
+12554799161,node,Restaurant Méert,restaurant,Lille,,,,50.692625,3.1676826
+12559000652,node,Akio,restaurant,Lille,,,,50.6976117,3.1667599
+12560996081,node,Spicy Village,restaurant,Lille,,,,50.6990213,3.1726423
+12565177359,node,Planet Sushi,restaurant,Lille,,,,50.6657824,3.1409582
+12565516131,node,Pizzeria Marguerite,restaurant,Lille,,,,50.6692461,3.1276974
+12565516140,node,L'Amiral,restaurant,Lille,,,,50.6699346,3.1285425
+12565617712,node,Popcup,restaurant,Lille,,,,50.6563771,3.0787499
+12565617715,node,Côté Campagne,restaurant,Lille,,,,50.6556681,3.0780581
+12573647389,node,La Place,restaurant,Lille,,,,50.6539461,3.0682512
+12573663454,node,Le Capricorne,restaurant,Lille,,,,50.662825,3.056933
+12573930959,node,La Luna,restaurant,Lille,,,,50.6603142,3.0729812
+12574024090,node,L'Essentiel,restaurant,Lille,,,,50.6539813,3.0478677
+12574218607,node,L'estaminet Gourmand,restaurant,Lille,,,,50.6392017,3.1285331
+12580129587,node,L'amitié,restaurant,Lille,,,,50.6496332,3.0904772
+12584966012,node,Estaminet du Bourg,restaurant,Lille,,,,50.6365645,3.1282141
+12584966018,node,Le P'tit Flersois,restaurant,Lille,,,,50.6340199,3.1306194
+12595452770,node,Afri Call Food,restaurant,Lille,180 Rue Pierre Legrand,,,50.6326409,3.0913095
+12595797119,node,Le Ferme des hirondelles,restaurant,Lille,,,,50.5571305,3.1303628
+12600721860,node,Dolce Pizz',restaurant,Lille,,,,50.6097956,3.0751671
+12615921148,node,Pizza Grill,restaurant,Lille,,,,50.5963,3.0509668
+12615921161,node,Yuwiki Sushi,restaurant,Lille,,,http://yuwikisushi.com/,50.5971545,3.0514833
+12615921162,node,Le Visconti,restaurant,Lille,,,,50.5987213,3.0523759
+12630594484,node,Wilder,restaurant,Lille,"26 Rue Félix Faure, 59350",59350,https://lawilderie.com/wilder/,50.6641065,3.0563352
+12635971398,node,Barrel,restaurant,Lille,,,,50.582668,3.0938123
+12668890101,node,Les bonnes femmes,restaurant,Lille,"37 Rue de la Gare, 59170",59170,,50.6749567,3.1447412
+12672839401,node,À la Bonne Franck'ette,restaurant,Lille,,,,50.5581258,2.8699755
+12696111228,node,Hôtel RBX,hotel,Lille,"36 Rue de la Communauté Urbaine, 59100, Roubaix",59100,,50.6936459,3.17254
+12696111229,node,La Picola,restaurant,Lille,,,,50.6929028,3.1704986
+12696111230,node,Brasserie Le Metropole,restaurant,Lille,"5 Grand Place, 59100, Roubaix",59100,,50.6917953,3.1734531
+12696111231,node,Brasserie Loft,restaurant,Lille,,,,50.6917942,3.1735402
+12797726232,node,Campanile,hotel,Lille,,,,50.6447062,3.194731
+12830336624,node,La Friche Gourmande,restaurant,Lille,,,,50.6650041,3.0558495
+12834533604,node,Mercure Lille Marcq Baroeul,hotel,Lille,"157 Avenue de la Marne, 59700, Marcq-en-Barœul",59700,https://all.accor.com/ssr/app/mercure/rates/1099/index.en.shtml?destination=59700-marcq-en-bar-ul-france,50.6792258,3.1101443
+12834533610,node,Le Marque Page,restaurant,Lille,,,https://www.marque-page-restaurant.com/,50.6794167,3.1102333
+12876525901,node,Tripletta,restaurant,Lille,"43 Rue de Gand, 59800, Lille",59800,,50.6426268,3.066463
+12881279330,node,Le Vieil Abreuvoir,restaurant,Lille,,,,50.6922294,3.1722587
+12895056516,node,Délice d'Alger,restaurant,Lille,,,,50.6325358,3.0915582
+12918089202,node,Hôtel Joly,hotel,Lille,12 Rue du Président Kennedy,,https://www.hotel-joly.com/fr,50.6856178,2.8830951
+12925174521,node,taco paco,restaurant,Lille,,,,50.6674184,3.1433973
+12926656394,node,Bistrot des artistes,restaurant,Lille,,,,50.6667564,3.0753004
+12997565960,node,O'Délice Haubourdin,restaurant,Lille,"98 Rue Léon Gambetta, 59320, Haubourdin",59320,https://www.odelicehaubourdin.com/,50.6076192,2.9856849
+12999228301,node,Pécho,restaurant,Lille,,,,50.7088697,3.105063
+13005449446,node,La part du lion,restaurant,Lille,"1 Boulevard Vauban, 59000, Lille",59000,https://www.bistrot-lapartdulion.fr/,50.637082,3.0517192
+13020599301,node,La Piazzeta,restaurant,Lille,,,,50.6389968,3.0585396
+13043568355,node,Ama wok59,restaurant,Lille,Boulevard Faidherbe,,,50.6923846,2.8682991
+13052531975,node,Duda's,restaurant,Lille,"18 Rue Léon Gambetta, 59000, Lille",59000,,50.6313548,3.0591029
+13062338324,node,Crocodile,restaurant,Lille,Rue du Pont Rompu,,https://www.restaurantscrocodile.fr/restaurants/restaurant-crocodile-tourcoing,50.74085,3.1454743
+13094993950,node,Ramen Oden,restaurant,Lille,,,,50.6331055,3.0681989
+13103727553,node,Pirates Paradise,restaurant,Lille,,,https://lille.pirates-paradise.fr/,50.7412767,3.1444399
+13175514101,node,Le comptoir volant,restaurant,Lille,,,https://comptoirvolant.fr/,50.6627804,3.0727617
+13188326190,node,Don Pino Pizza,restaurant,Lille,,,,50.626148,3.1122272
+13190114933,node,Fleur de sel,restaurant,Lille,"48 Rue Jules Guesde, 59700, Marcq-en-Barœul",59700,https://creperiefleurdesel.com/,50.6676835,3.0737902
+13190176658,node,Crêpe Touch,restaurant,Lille,"100 Avenue Willy Brandt, 59000, Lille",59000,https://restaurants.crepetouch.com/euralille/,50.6381103,3.0744615
+13240849267,node,Alto Resto,restaurant,Lille,,,,59.4331148,24.7214256
+13240907767,node,Majorette café,restaurant,Lille,"4 Rue Ambroise Paré, 59120, Loos",59120,https://www.majorette-loos.fr,50.6072293,3.0212138
+13266434294,node,La Renais'Sens,restaurant,Lille,2 Rue Denis Pollet,,,50.7020936,3.2126701
+13283410235,node,Magmatic,restaurant,Lille,,,,50.6362561,3.0674061
+13291559501,node,Pizzeria d'omi,restaurant,Lille,"2 Rue Jeanne d'Arc, 59260",59260,,50.6341757,3.1078061
+13306843624,node,Chez Manu,restaurant,Lille,67 Route de Sainghin,,,50.6077328,3.1646658
+13341833901,node,Bistrot Brigand,restaurant,Lille,,,,50.6334542,3.0616981
+13378120608,node,Auberge de l'Ange Gardien,restaurant,Lille,,,,50.6589999,2.8579402
+13382858763,node,La Tentation du Renard,restaurant,Lille,,,,50.695248,2.8815768
+13383163227,node,Kebab Dardani,restaurant,Lille,,,,50.6875117,2.8777543
+13395837122,node,Chez Dontotorino,restaurant,Lille,,,,50.7121562,2.9326599
+13398512162,node,Pizza Hut,restaurant,Lille,,,,50.6379057,3.0751053
+13415131398,node,Auberge des Roloirs,restaurant,Lille,,,,50.7347007,2.9458074
+13416212926,node,Bistro NOVA,restaurant,Lille,"231 Rue du Général de Gaulle, 59110, La Madeleine",59110,https://www.bistrotnova.fr,50.657599,3.0736558
+13421450115,node,Pizz'o Quesnoy,restaurant,Lille,,,,50.7096605,2.9965943
+13423545421,node,Al Ritrovo,restaurant,Lille,"43b Rue Sadi Carnot, 59320, Haubourdin",59320,https://www.al-ritrovo.fr/,50.6114907,2.9857556
+13424263340,node,La Petite Auberge,restaurant,Lille,"109 Rue Sadi Carnot, 59320, Haubourdin",59320,https://www.lapetiteauberge-haubourdin.fr/,50.6113399,2.9909985
+13424403436,node,Popote,restaurant,Lille,,,,50.609129,2.9831434
+13426078188,node,Le Wez,restaurant,Lille,,,,50.6591527,2.9289042
+13426480468,node,Holiday Inn Lille Ouest Englos,restaurant,Lille,,,,50.6243787,2.9630785
+13426480480,node,La Ribote,restaurant,Lille,,,,50.6246112,2.9573495
+13452415979,node,Le Val d'Auge,restaurant,Lille,,,,50.7000944,3.0941692
+13452415980,node,Brother's,restaurant,Lille,,,,50.7004901,3.0945447
+13452554793,node,Le Naga,restaurant,Lille,,,,50.7018325,3.0959446
+13452750808,node,Chez Yuki,restaurant,Lille,,,,50.697222,3.0921827
+13455493257,node,La Guinguette de la Ferme,restaurant,Lille,,,,50.7077787,3.0932446
+13477832841,node,Le Manoir de Marcq,restaurant,Lille,"551 Rue Albert Bailly, 59700",59700,https://lemanoirdemarcq.fr/,50.693921,3.1243008
+13483496005,node,Le W,restaurant,Lille,,,,50.6949976,3.0416195
+13496092001,node,La Ferme des 3 Louches,restaurant,Lille,,,,50.6994789,3.0362593
+13502954019,node,Waris,restaurant,Lille,,,,50.6144644,3.0117874
+13514609325,node,Comfort,hotel,Lille,,,,50.6472955,2.9758241
+13528788788,node,L'Oeil,restaurant,Lille,,,,50.6648858,3.0857269
+13576390801,node,Bar & Restaurant les Augustins,restaurant,Lille,,,,50.6347369,3.069227
+13581604644,node,Chez Badia,restaurant,Lille,"34 Rue Léon Gambetta, 59320, Haubourdin",59320,https://sites.google.com/view/restaurantchezbadia/,50.6090397,2.9831399
+13592167402,node,Rita,restaurant,Lille,,,,50.6058956,3.1645869
+13592644607,node,Coloft,restaurant,Lille,,,,50.5963886,3.1307833
+13619810360,node,Le Bar à Couscous,restaurant,Lille,"5 Rue Édouard Agache, 59840, Pérenchies",59840,https://www.lebaracouscous.fr/,50.6673044,2.9726667
+13622376568,node,Pizza Saveurs,restaurant,Lille,"43 E Rue Émile Zola, 59320, Hallennes-lez-Haubourdin",59320,https://www.pizza-saveurs.fr/,50.6149337,2.968047
+13624435315,node,La Rabouillère,restaurant,Lille,,,,50.5219464,3.1753676
+13624660381,node,Al'Fameuse Franquette,restaurant,Lille,,,https://www.estaminet-al-fameuse-franquette.fr/,50.6421534,3.0661755
+13629017949,node,Rillons,restaurant,Lille,,,,50.5270895,3.1751121
+13629577231,node,Pizzeria Coralena,restaurant,Lille,"36 Rue du Général de Gaulle, 59320, Hallennes-lez-Haubourdin",59320,,50.6099892,2.9650583
+13630893375,node,Le Bistrot du Witloof,restaurant,Lille,,,,50.5471891,3.1463946
+13641882858,node,La Maison,restaurant,Lille,,,,50.519362,3.11767
+13647907832,node,Le Quattro,restaurant,Lille,,,,50.5492508,3.0351421
+13652901153,node,A l’Ardoise,restaurant,Lille,,,,50.5542799,3.028244
+13655138239,node,Cantine collège/maternelle,restaurant,Lille,,,,50.7218231,3.1088648
+13658597536,node,Auberge du Forgeron,hotel,Lille,,,,50.548999,3.0292458
+13658772334,node,Ô Goût Salé,restaurant,Lille,,,,50.5434931,3.0223633
+13669301921,node,La Fossetta,restaurant,Lille,,,,50.5823106,3.110706
+13669301922,node,L'envol,restaurant,Lille,,,,50.5822385,3.1100721
+13671426125,node,Le Norzone,restaurant,Lille,,,,50.5838596,3.1324861
+13671499873,node,Ciuri Ciuri,restaurant,Lille,,,,50.5902372,3.0854402
+13677487847,node,La Petite Terrasse Burgers&Tacos,restaurant,Lille,,,,50.5699166,3.0456233
+13684967343,node,Anamour,restaurant,Lille,,,,50.5724022,2.9372319
+13686648301,node,Mémé gameuse,restaurant,Lille,54 Quai de Boulogne,,https://chezmemegameuse.com/,50.7033413,3.1634301
+13688125086,node,Le Maisnil Mon Temps,restaurant,Lille,,,,50.6111804,2.8784282
+13711301741,node,Le Fief de Papa,restaurant,Lille,,,https://lefiefdepapa.fr/,50.6314879,3.0949699
+13728224157,node,Seoul Grill,restaurant,Lille,"15 Rue du Molinel, 59000, Lille",59000,https://www.instagram.com/seoul.grill.lille/,50.6352233,3.0700069
+13737298180,node,Albert's Place,restaurant,Lille,,,,50.6346139,3.0711311
+13753112801,node,Coté sushi,restaurant,Lille,,,,50.680748,3.1232302
+13758880251,node,Seafar,restaurant,Lille,98 Rue d'Artois,,,50.6226658,3.0610944
+13760476494,node,Lilla Sushi,restaurant,Lille,,,https://www.lillasushi.fr/,50.6198193,3.0676783
+13760500506,node,rök,restaurant,Lille,,,https://www.rokcomptoiriode.com/,50.6282931,3.0616396
+13795592051,node,Au Soon,restaurant,Lille,"1 Rue Madeleine Brès, 59930, La Chapelle-d'Armentières",59930,https://www.ausoon.com/,50.657263,2.8954179
+13807000230,node,Au ❤️‍🔥 d'Alger,restaurant,Lille,,,,50.6233629,3.0695617
+13808256143,node,Eat & Meat,restaurant,Lille,,,,50.6371318,3.0682449
+13808256162,node,Lemdina,restaurant,Lille,,,,50.6371051,3.0688727
+13813283308,node,Cantine des Évidences,restaurant,Lille,,,https://lesevidences.fr/page-projet-cantine/,50.5461877,3.2626546
+13821023980,node,Le Bouillon Baroque,restaurant,Lille,,,https://www.lebouillonbaroque.com/,50.6158462,3.0452138
+13860387237,node,Taj Mahal,restaurant,Lille,"100 Rue Pierre Legrand, 59000, Lille",59000,,50.6321662,3.0883274
+13887518304,node,Phénix,restaurant,Lille,,,,50.6229693,3.0594055
+13923289066,node,Adriano,restaurant,Lille,,,,50.6795083,3.2475167
+13923422417,node,Le Limitrophe,restaurant,Lille,,,,50.6785899,3.2469741
+13926179020,node,L'Art des Mets,restaurant,Lille,,,http://www.restaurantlartdesmets.fr/,50.5840475,2.8843779
+13926179033,node,Les Singes Enivrés,restaurant,Lille,,,,50.5841314,2.8889618
+13928154683,node,Il Gattopardo,restaurant,Lille,,,,50.6789368,3.2456955
+13979122237,node,Cheffe Noona,restaurant,Lille,,,https://www.cheffenoona.com/,50.6319934,3.0694028
+13984855001,node,Le paradis du fruit,restaurant,Lille,,,,50.6331792,3.0629012
+13984856901,node,Le paradis du fruit,restaurant,Lille,,,,50.6152802,3.1231844
+13990483028,node,Que Pasta,restaurant,Lille,,,,50.6525135,3.072986

@@ -1,0 +1,600 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+271395926,node,Ibis,hotel,Annecy,"12 Rue de la Gare, 74000, Annecy",74000,,45.8983121,6.1227271
+333196791,node,Télémark,restaurant,Annecy,,,,45.8753019,6.4305746
+339812151,node,Hôtel La Mama,hotel,Annecy,"69 Avenue de France, 74000, Annecy",74000,https://www.hotelannecy.fr/,45.9189463,6.1317494
+339815098,node,Le Catino,restaurant,Annecy,"2 Rue Louis Armand, 74000, Annecy",74000,,45.9177072,6.1319419
+341372776,node,La Sarrazine,restaurant,Annecy,"78 Avenue de France, 74000, Annecy",74000,,45.9170715,6.1332383
+434065153,node,La Coupole,restaurant,Annecy,7 bis Rue de la République,,https://www.lacoupoleannecy.com/,45.8992754,6.124004
+492086304,node,Inspiration 212,restaurant,Annecy,"2 Avenue de Genève, 74000, Annecy",74000,https://www.inspiration212.com,45.9065568,6.1239537
+492086316,node,l'Atout Cœur,restaurant,Annecy,,,,45.9028665,6.1282633
+492086322,node,La Belle Époque,restaurant,Annecy,"2 Rue Jean Jaurès, 74000, Annecy",74000,,45.9021918,6.1288112
+492086325,node,Le comptoir du Palais,restaurant,Annecy,,,,45.9038259,6.1306202
+492086327,node,Le Rituel,restaurant,Annecy,,,,45.903937,6.1304423
+492086333,node,Bock'Café,restaurant,Annecy,"15 Rue Louis Boch, 74000, Annecy",74000,https://www.lebockcafe.fr,45.908651,6.1291353
+497249274,node,L'Auberge du clocher,restaurant,Annecy,"74540, Saint-Félix",74540,,45.8007697,5.97246
+500269680,node,Moxy,hotel,Annecy,"19 Avenue du Rhône, 74000, Annecy",74000,,45.9000222,6.115872
+500269695,node,Hôtel de Paris,hotel,Annecy,,,,45.9038248,6.1176589
+769264998,node,Chalet de l'Aulp de Montmin,restaurant,Annecy,,,https://lechaletdelaulp.fr/,45.8321605,6.2628632
+828762448,node,,restaurant,Annecy,,,,45.9426035,6.4271967
+828762454,node,,restaurant,Annecy,,,,45.9424543,6.4268319
+828762480,node,,hotel,Annecy,,,,45.9438508,6.4346621
+828762484,node,Hôtel Vermont,hotel,Annecy,"Pont de Suize, 74450, Le Grand Bornand",74450,https://www.hotelvermont.com/,45.9432145,6.4357041
+829506601,node,Hôtel Le Mont Baron,hotel,Annecy,,,,45.8839663,6.1774569
+829506624,node,Le Pêcheur,restaurant,Annecy,"16 Avenue du Général Doyen, 74290, Veyrier-du-Lac",74290,https://www.facebook.com/Le-P%C3%AAcheur-120965735308/,45.8799636,6.1750302
+841994403,node,Auberge le Roselet,restaurant,Annecy,"182 Route d'Annecy, 74410, Duingt",74410,,45.8291312,6.204496
+844092818,node,Le restaurant des Cassines,restaurant,Annecy,"Angon, 74290, Talloires",74290,https://www.les-cassines.com/,45.8272788,6.2186372
+939965941,node,Restaurant Lucia,restaurant,Annecy,"58 Place Madeleine Lafrance, 74450, Saint-Jean-de-Sixt",74450,https://www.restaurant-lucia.com/,45.9225604,6.4098888
+939966075,node,Restaurant Le Peille,restaurant,Annecy,"60 Place Madeleine Lafrance, 74450, Saint-Jean-de-Sixt",74450,http://restaurant-lepeille.com/,45.9225955,6.4100322
+988063650,node,Les Rochers Blancs,restaurant,Annecy,,,,45.7996191,6.1079405
+1011414924,node,,restaurant,Annecy,,,,45.8191976,6.0008832
+1012541667,node,Restaurant Antalya,restaurant,Annecy,,,,45.8640681,5.9448566
+1012549556,node,Le Jarod créole,restaurant,Annecy,"8 Place de la Grenette, 74150, Rumilly",74150,,45.8665554,5.9430915
+1123618868,node,Pizza Pepone,restaurant,Annecy,,,https://www.pizza-pepone.fr/ma-pizzeria/pizza-pepone-balme-sillingy.html,45.9614171,6.0400011
+1224332058,node,New Japan,restaurant,Annecy,,,,45.935064,6.0815581
+1265044075,node,L'Attéro,restaurant,Annecy,,,,45.8485088,6.2128185
+1288191363,node,Auberge d'Alex,restaurant,Annecy,,,,45.8893246,6.2383144
+1352560241,node,Auberge de Savoie,restaurant,Annecy,,,https://www.auberge-de-savoie.com/,45.8987686,6.1280362
+1431854242,node,Chalet de l'Anglettaz,restaurant,Annecy,,,,45.9637314,6.2433001
+1431985937,node,Le P'tit salé,restaurant,Annecy,,,,45.9211957,6.0641039
+1431985946,node,Café de la Place,restaurant,Annecy,,,,45.921722,6.0628969
+1455440295,node,Auberge des Tonnelles,restaurant,Annecy,,,,45.8737487,6.1413427
+1455440333,node,Le Lac Bleu,restaurant,Annecy,,,,45.8473748,6.1465009
+1455440334,node,Le P'tit Savoyard,restaurant,Annecy,,,,45.8475073,6.1464211
+1455440348,node,Le Rituel,restaurant,Annecy,,,,45.8787505,6.1413753
+1455440381,node,,restaurant,Annecy,,,,45.8770703,6.141464
+1489591943,node,Hôtel Arcalod,hotel,Annecy,"237 Rte de la Gare, 74210, Doussard",74210,https://www.hotelarcalod.fr/,45.7771163,6.2270373
+1490147471,node,La taverne savoyarde,restaurant,Annecy,"1875 Route d'Annecy, 74210, Faverges",74210,https://bookings.zenchef.com/,45.7562928,6.2695148
+1490609523,node,La cuillère à Omble,restaurant,Annecy,,,https://wiictechnology.com/WiiC_clouds/offre.php?resto=216,45.8008246,6.2293715
+1495977113,node,Chez ma Cousine,restaurant,Annecy,"2036 Route d'Annecy, 74210, Doussard",74210,https://www.chezmacousine.fr/,45.7951989,6.2133283
+1597352812,node,Pizza Sympa,restaurant,Annecy,"44 Route de la Poste, 74210",74210,,45.7756421,6.2210904
+1708859000,node,Les Tables de l’étang,restaurant,Annecy,,,https://lestablesdeletang.fr/,45.8604061,6.0482795
+1786404287,node,Gamin,restaurant,Annecy,,,https://www.gamin-annecy.fr/,45.9054367,6.119322
+1786404293,node,Le Ryad,restaurant,Annecy,38 Avenue de Cran,,le-ryad-annecy.eatbu.com,45.9062267,6.1162908
+1786404297,node,Sidi Bou Saïd,restaurant,Annecy,,,,45.9052827,6.1186875
+1791348901,node,Le point B,restaurant,Annecy,"Avenue des Hirondelles, 74000, Annecy",74000,https://restaurants.pointb-officiel.com/burger-annecy/,45.9033961,6.1178714
+1791348902,node,Chez Pen,restaurant,Annecy,"11 Avenue Berthollet, 74000, Annecy",74000,https://www.facebook.com/ChezPen/,45.9044115,6.1213905
+1793286488,node,Le Central,restaurant,Annecy,,,,45.8812658,6.325095
+1793289760,node,Pizza Eclair,restaurant,Annecy,"20 Route d'Annecy, 74230, Thônes",74230,,45.884017,6.321205
+1794442367,node,l'Hermitage,restaurant,Annecy,,,,45.8837216,6.3229087
+1794477887,node,Hôtel du midi,hotel,Annecy,"5 Place de l'Hôtel de Ville, 74230, Thônes",74230,,45.8823511,6.3246803
+1794478393,node,Hôtel de l'Hermitage,hotel,Annecy,"Avenue du Vieux Pont, 74230, Thônes",74230,,45.88366,6.3229409
+1816270690,node,La Grange Gourmande,restaurant,Annecy,,,,46.0095245,5.9792591
+1816678375,node,Restaurant le Pont Coppet,restaurant,Annecy,"130 Route de Genève, 74150, Vallières",74150,,45.8908028,5.9368892
+1816703839,node,Le Marilyn,restaurant,Annecy,,,,45.9023669,5.9284452
+1816703855,node,Restaurant du Val de Fier,restaurant,Annecy,,,,45.9305705,5.8916356
+1867280477,node,Le Saint-François,restaurant,Annecy,,,,45.9968998,6.2478084
+1929405581,node,China Town,restaurant,Annecy,,,,45.848846,5.9520149
+1978964597,node,Petit Bacchus,restaurant,Annecy,,,,45.9069464,6.1341235
+1978964858,node,Le Saint-Charles,restaurant,Annecy,,,,45.9071659,6.1351771
+2000527457,node,La Bolée,restaurant,Annecy,"39 Rue Carnot, Annecy",,https://www.labolee.fr,45.9024774,6.1249654
+2007934434,node,The Roster,restaurant,Annecy,,,,45.9382984,6.1223352
+2008795156,node,Mapp Italian Fresh Food,restaurant,Annecy,"14 Rue du Pré Paillard, 74940, Annecy-le-Vieux",74940,,45.9309576,6.1672392
+2025355689,node,Paula La Pizzaiola,restaurant,Annecy,"74330, Poisy",74330,,45.920245,6.0591235
+2074267077,node,,restaurant,Annecy,,,,46.0099501,6.1719843
+2074270321,node,Auberge de Groisy,restaurant,Annecy,,,,46.0177184,6.1698644
+2107181674,node,Brasserie des Européens,restaurant,Annecy,,,,45.89903,6.1282879
+2234304727,node,Chez Jojo,restaurant,Annecy,,,,45.9044828,6.0999319
+2254520798,node,Le Cassoton,restaurant,Annecy,"9 Rue d'Hauteville, 74150, Rumilly",74150,https://restaurant-rumilly.com/,45.8659403,5.9437796
+2410115322,node,Restaurant Municipal,restaurant,Annecy,,,,45.890793,6.0998436
+2425571712,node,Hôtel du Commerce,hotel,Annecy,5 Rue des Clefs,,,45.8809113,6.3250792
+2425579658,node,Les Drôles 2 Dames,restaurant,Annecy,,,,45.8803443,6.3250692
+2447985674,node,Fasthôtel,hotel,Annecy,"1 Allée François Cochat, 74230, Thônes",74230,,45.8825178,6.3191497
+2450860446,node,Le Bassan,restaurant,Annecy,"12 Rue des Portiques, 74230, Thônes",74230,,45.8816352,6.3252507
+2450882842,node,My Kebab,restaurant,Annecy,"15 Rue des Portiques, 74230, Thônes",74230,,45.88147,6.3251678
+2450895458,node,Éden Pizzeria,restaurant,Annecy,"6 Place de l'Hôtel de Ville, 74230, Thônes",74230,,45.882433,6.3248305
+2450896082,node,Brasserie des Aravis,restaurant,Annecy,"11 Rue de la Saulne, 74230, Thônes",74230,,45.8826597,6.3254205
+2459874092,node,L'Outa,restaurant,Annecy,88 Route des Grandes Alpes,,,45.9066376,6.4297015
+2513998253,node,clos du chateau,restaurant,Annecy,"70 Route de Cuvat, 74370, pringy",74370,,45.9545732,6.1126297
+2536806265,node,Privilodges Apparthotel,hotel,Annecy,,,https://www.apparthotel-annecy.com/en/,45.900119,6.1243679
+2575987717,node,Alpen Roc,hotel,Annecy,,,,45.9063066,6.4258112
+2583764407,node,L'Étage,restaurant,Annecy,"13 Rue du Paquier, 74000, Annecy",74000,https://letageannecy.com/,45.9008233,6.1266374
+2590024435,node,La grange à Jules,restaurant,Annecy,"Lieu-dit le Pelevoz, 74540, Chapeiry",74540,http://auberge-lagrangeajules.fr/,45.8270937,6.0363671
+2629211581,node,Christiania,hotel,Annecy,,,,45.9053873,6.4250636
+2629211584,node,Le Bistro,restaurant,Annecy,,,,45.9053219,6.4251361
+2630545314,node,pizz'Avalanche,restaurant,Annecy,,,,45.9045018,6.4248495
+2630567311,node,L'Ourson,restaurant,Annecy,"27 Passage du Mont-Blanc, 74220, La Clusaz",74220,https://www.resto-ourson-laclusaz.fr/,45.9042869,6.4244677
+2631753705,node,Cuisine de Montagne,restaurant,Annecy,,,,45.9063615,6.4276394
+2631760583,node,La Cordee,restaurant,Annecy,,,,45.9066321,6.4289483
+2673172087,node,Le 55,restaurant,Annecy,,,,45.9335611,6.0777645
+2725252235,node,Le Delta,hotel,Annecy,,,,45.9403369,6.4295916
+2727961478,node,La Ferme de Pépé,restaurant,Annecy,,,https://www.restaurant.lafermedupepe.com/,45.940153,6.4284489
+2840462311,node,Auberge du Bon Refuge,restaurant,Annecy,"50 Rue du Pont des Liasses, 74330, Lovagny",74330,https://www.facebook.com/aubonrefuge74/,45.8959614,6.0429843
+2911983429,node,Jadelight Buffet,restaurant,Annecy,"8 Avenue d'Aix les Bains, 74600",74600,https://buffetavolonteannecy.com/,45.8942269,6.1103182
+2935080127,node,Atipik,hotel,Annecy,"19 Rue Vaugelas, 74000, Annecy",74000,,45.9012707,6.1253649
+3013951047,node,Arômatik',restaurant,Annecy,,,,45.8979582,6.1233183
+3080541235,node,La Chaumière Savoyarde,restaurant,Annecy,,,,45.9967419,6.249179
+3081474404,node,Café Brunet,restaurant,Annecy,74940,74940,https://cafebrunet.com/,45.9199674,6.1423308
+3092565383,node,Brasserie de la paix,restaurant,Annecy,"Rue de la Paix, 74000, Annecy",74000,,45.9030358,6.1254728
+3124526912,node,Bateau-Restaurant MS Libellule,restaurant,Annecy,,,,45.8983758,6.1295859
+3219160663,node,Restaurant l'Île Bleue,restaurant,Annecy,"74600, Seynod",74600,,45.8866945,6.0966468
+3231494091,node,La Roselière,restaurant,Annecy,1 Avenue du Petit Port,,,45.9052555,6.1437642
+3235825233,node,Bleu 1801,restaurant,Annecy,91 Route d'Annecy Chavoires,,https://www.bleu-1801.fr/,45.8971049,6.1639704
+3309251961,node,Novotel Annecy Centre,hotel,Annecy,"1 Avenue Berthollet, 74000, Annecy",74000,https://all.accor.com/a/fr.html,45.9028558,6.1223744
+3341930311,node,Chez Mamie Anh,restaurant,Annecy,Place du 18 Juin 1940,,https://www.chezmamieanh.com/,45.9150458,6.1450243
+3378215479,node,Le Céjo,restaurant,Annecy,,,https://lecejo.com/,45.9408193,6.105741
+3378373210,node,Le Republic,restaurant,Annecy,"14 Rue de la Liberté, 74330, Épagny",74330,,45.9385812,6.0908866
+3408380442,node,Hôtel Auberge Camelia,hotel,Annecy,,,,45.9750773,6.2188301
+3455497228,node,Les Tables,restaurant,Annecy,"33 Rue Sainte-Claire, 74000, Annecy",74000,,45.8981136,6.1237899
+3481424179,node,Les Petits Plats - Par Monts et par Vaulx,restaurant,Annecy,,,,45.9292703,5.9975463
+3483659693,node,B&B Hôtel,hotel,Annecy,"50 Impasse de la Lechèrte, 74370, Annecy",74370,https://www.hotel-bb.com/fr/hotel/annecy-argonay,45.9434535,6.129768
+3543243526,node,l'Oasis Auberge du Bessard,restaurant,Annecy,525 Route d'Albertville,,,45.8785822,6.1428424
+3546461467,node,Le Clos des Sens,restaurant,Annecy,"13 Rue Jean Mermoz, 74940, Annecy-le-Vieux",74940,https://www.closdessens.com,45.9178443,6.1444244
+3546461468,node,Le Clos des Sens,hotel,Annecy,"13 Rue Jean Mermoz, 74940, Annecy-le-Vieux",74940,https://www.closdessens.com,45.917603,6.1445407
+3553416320,node,La Crêperie d'Annecy le vieux,restaurant,Annecy,"Allée des Tilleuls, 74940",74940,,45.9217307,6.1452791
+3553416321,node,Pizza Pepone,restaurant,Annecy,,,https://www.pizza-pepone.fr/ma-pizzeria/pizza-pepone-annecy-le-vieux.html,45.9218512,6.1454469
+3569231293,node,Pizz'a Chris,restaurant,Annecy,"Route d'Aix-les-Bains, 74540, Cusy",74540,,45.7586414,6.009125
+3579013335,node,La Fringale,restaurant,Annecy,,,,45.904142,6.159923
+3622029342,node,Albertine by Le Tanoué,restaurant,Annecy,"21 Rue Royale, Annecy",,,45.8997502,6.1224678
+3622029346,node,Amma,restaurant,Annecy,,,,45.8995622,6.1230604
+3622029347,node,Origines,restaurant,Annecy,,,,45.8993473,6.123178
+3657693625,node,Ummi mon amour,restaurant,Annecy,6 Quai de l'Île,,,45.8988052,6.1269312
+3657694825,node,Pont Morens,restaurant,Annecy,,,,45.8987528,6.1260355
+3657695325,node,Tête de Cochon,restaurant,Annecy,,,,45.8983201,6.1252377
+3657696525,node,The Little Italy,restaurant,Annecy,74000,74000,,45.8985009,6.1246908
+3657696526,node,Créabistro,restaurant,Annecy,"2 Faubourg Sainte-Claire, Annecy",,,45.8978835,6.1233912
+3657702725,node,La Porte Sainte-Claire,restaurant,Annecy,"1 Faubourg Sainte-Claire, Annecy",,,45.8978145,6.1234972
+3657703048,node,La Coupole Brasserie,restaurant,Annecy,"9 Rue de la République, Annecy",,,45.8990751,6.1240668
+3657703359,node,L'Authentic,restaurant,Annecy,,,,45.8983398,6.1261689
+3657703428,node,Le Pékin,restaurant,Annecy,"12 Avenue de Chambéry, 74000, Annecy",74000,,45.8992548,6.119799
+3657704125,node,Kalapita,restaurant,Annecy,,,,45.8973919,6.1231751
+3657731646,node,Le Vieil Annecy,restaurant,Annecy,"13 Rue Perrière, 74000, Annecy",74000,https://www.restaurant-vieil-annecy.com,45.8982933,6.1275608
+3657733829,node,Ô Savoyard !,restaurant,Annecy,"1 Rue Perrière, Annecy",,,45.8983188,6.1268981
+3717112753,node,Boeuf patate,restaurant,Annecy,"9 Rue Perrière, 74000, Annecy",74000,http://boeufpatate.com,45.8981692,6.1273863
+3804327690,node,Amicipizza,restaurant,Annecy,,,,45.914764,6.0912103
+3901575737,node,Chalet du Port,restaurant,Annecy,,,,45.8589475,6.18662
+3916714310,node,chez long,restaurant,Annecy,1824 Route d'Albertville,,https://makalo.fr,45.8670816,6.1397129
+3916721502,node,,hotel,Annecy,,,,45.8752439,6.1421038
+4111478191,node,Le Bistrot du Port,restaurant,Annecy,,,https://www.lebistrotduport-annecy.com,45.8598784,6.1448109
+4112348991,node,Café de la poste,restaurant,Annecy,,,,45.9339699,6.1893724
+4200885046,node,Hôtel Beau Séjour,hotel,Annecy,"161 Allée des Tennis, 74290, Menthon-Saint-Bernard",74290,,45.8615961,6.1879678
+4201790906,node,La Ferme,restaurant,Annecy,,,,45.8097487,6.2458916
+4202114840,node,Le Bel Abri,hotel,Annecy,5 Avenue de Chavoires,,,45.9055108,6.1593056
+4202114841,node,Le Bel Abri,restaurant,Annecy,,,,45.9054636,6.1592937
+4205811498,node,Le Comptoir de Seb,apartment,Annecy,,,https://www.lecomptoirdesebastien.fr/,45.8390481,6.2125793
+4205811499,node,La Savoyarde,restaurant,Annecy,,,,45.8384052,6.2128843
+4205811528,node,Le Cottage,hotel,Annecy,,,,45.8397929,6.2113675
+4205811529,node,Les Terrasses,restaurant,Annecy,,,,45.8398745,6.2112235
+4205811536,node,Abbaye de Talloires,hotel,Annecy,"Chemin des Moines, 74290, Talloires-Montmin",74290,https://www.abbaye-talloires.com/,45.8410508,6.2115197
+4212557490,node,Le Fréti,restaurant,Annecy,,,,45.8985465,6.124928
+4213832466,node,Yoann Conte,hotel,Annecy,"13 Vieille Route des Pensières, 74290",74290,https://yoann-conte.com,45.8889405,6.1720681
+4213832470,node,Yoann Conte,restaurant,Annecy,"13 Vieille Route des Pensières, 74290",74290,https://yoann-conte.com/,45.888864,6.1720869
+4216207135,node,Le Lac,hotel,Annecy,,,,45.8390705,6.2139276
+4216207136,node,La Charpenterie,hotel,Annecy,,,,45.8389228,6.2147725
+4219944397,node,Bloomer,restaurant,Annecy,,,https://www.bloomer-annecy.com/,45.9017652,6.1232818
+4336791232,node,La Crêperie du Thiou,restaurant,Annecy,"4 Place Saint-François de Sales, 74000, Annecy",74000,,45.898691,6.1275524
+4359022597,node,Le salon français,restaurant,Annecy,,,http://www.lesalonfrancais.fr,45.8998273,6.1221485
+4374706227,node,La Jungle,restaurant,Annecy,"520 Route des Pres Rollier, 74330, Sillingy",74330,https://la-jungle.fr,45.9427214,6.0733998
+4399570091,node,Port et Lac**,hotel,Annecy,4200,,,45.8146554,6.2093143
+4399573091,node,Port et Lac,restaurant,Annecy,4200 Route d'Annecy,,,45.8147138,6.2092971
+4412293197,node,Captain Pub,restaurant,Annecy,"11 Rue du Pont Morens, Annecy",,https://www.captain-pub.fr/,45.898479,6.1257591
+4412293198,node,Bon Pain Bon Vin,restaurant,Annecy,17 Rue Filaterie,,https://www.bonpainbonvin.fr/,45.8993427,6.1264374
+4412293199,node,Le T Quatre,restaurant,Annecy,"8 Rue Notre-Dame, Annecy",,https://www.let4restaurant.fr/,45.9002995,6.1258296
+4412293200,node,Le Chalet,restaurant,Annecy,"1 Quai de l'Évêché, Annecy",,http://www.restaurant-lechalet.com/,45.8987864,6.1258253
+4412293223,node,Rive Gauche,restaurant,Annecy,"6 Passage de l'Île, Annecy",,,45.8983779,6.1267236
+4416171865,node,Allobroges Park Hotel,hotel,Annecy,"11 Rue Sommeiller, 74000, Annecy",74000,https://www.allobroges.com/plan/,45.9023176,6.123812
+4416258650,node,La Cabane,restaurant,Annecy,,,,45.8981424,6.1239968
+4416258652,node,Brasserie Brunet,restaurant,Annecy,10 Rue de la Poste,,https://www.brasseriebrunet.com,45.9014694,6.1230034
+4416258654,node,Feuille de Lotus,restaurant,Annecy,"14 Rue Jean-Jacques Rousseau, Annecy",,,45.8992178,6.1242691
+4416258663,node,Hôtel de Savoie,hotel,Annecy,,,,45.898764,6.1281173
+4416258665,node,La Galéjade,restaurant,Annecy,"4 Quai Perrière, Annecy",,,45.8980974,6.128609
+4416258666,node,La Table d'Elise,restaurant,Annecy,"20 Quai Perrière, Annecy",,,45.8982353,6.1279571
+4416258670,node,La Maison,restaurant,Annecy,"1 Quai Perrière, Annecy",,https://www.lamaisonannecy.com/,45.8981263,6.1283904
+4416258671,node,Le paradis du fruit,restaurant,Annecy,,,https://restaurants.leparadisdufruit.fr/annecy/,45.9013796,6.1230302
+4416258672,node,Le Sarto,restaurant,Annecy,"2 Quai Perrière, Annecy",,,45.8981722,6.1281094
+4416258673,node,Le Vertumne,restaurant,Annecy,"13 Rue Sommeiller, 74000, Annecy",74000,https://www.levertumne.fr/,45.9021246,6.1238091
+4416258675,node,Les Chineurs de la Cusine,restaurant,Annecy,"26 Rue Sainte-Claire, Annecy",,https://www.chineursdelacuisine.com/,45.8979792,6.1234804
+4416258676,node,Les Jardins du Château,hotel,Annecy,,,http://www.jardinduchateau.sitew.com/,45.8975768,6.1248759
+4416258677,node,Lofts & Lakes,hotel,Annecy,,,https://www.loftsandlakes.com/,45.8979671,6.1277302
+4416258722,node,1er Mets,restaurant,Annecy,"2 Place Saint-Maurice, Annecy",,https://www.restaurant-1ermets.fr/,45.8989488,6.1273398
+4460640545,node,Restaurant Le Bois Clair,restaurant,Annecy,"56 bis Avenue d'Annecy, 74230, Thônes",74230,,45.8906848,6.3112038
+4475562390,node,MAPP,restaurant,Annecy,,,,45.9385101,6.1190608
+4475576691,node,Pizza Valtor,restaurant,Annecy,,,,45.9458607,6.1399456
+4475589992,node,Amata traiteur italien,restaurant,Annecy,,,,45.9150352,6.1235192
+4475662689,node,Café Cuisine,restaurant,Annecy,,,,45.937939,6.1224028
+4512233978,node,Scugnizzo,restaurant,Annecy,"10 Allée des Tilleuls, 74940, Annecy-le-Vieux",74940,https://scugnizzo.fr/,45.921738,6.1449475
+4520935189,node,Splendid Hôtel,hotel,Annecy,,,,45.900735,6.1273883
+4549207591,node,Le Relais du Charvin Bar-resto,hotel,Annecy,,,,45.7977716,6.3643033
+4570804089,node,Auberge Les Matins Clairs,restaurant,Annecy,Plateau de Beauregard,,,45.8922895,6.3963166
+4591422704,node,Le Grizzly,restaurant,Annecy,,,,45.8926175,6.4053301
+4607568591,node,Yin Ba,restaurant,Annecy,,,https://www.yinba.fr/,45.8998033,6.1220534
+4610148255,node,Le Denti,restaurant,Annecy,,,,45.8964222,6.1206565
+4621663497,node,La Ciboulette,restaurant,Annecy,"10 Rue Vaugelas, 74000, Annecy",74000,https://www.laciboulette-annecy.com/,45.9018275,6.126146
+4642597889,node,Les Quatre Gourmets,restaurant,Annecy,,,https://www.les4gourmets.com/,45.9184363,6.1440727
+4688792843,node,Le bouillon chez duff,restaurant,Annecy,,,,45.9208644,6.0892664
+4725378447,node,La Baratte,restaurant,Annecy,"Col de leschaux, 74320",74320,,45.7715491,6.1321454
+4733497019,node,Auberge de Plan Bois,restaurant,Annecy,,,,45.8396697,6.3587551
+4747211752,node,Au Cha L'heureux,restaurant,Annecy,,,,45.8832899,6.0620872
+4751509398,node,Chez Laet,restaurant,Annecy,,,,45.8672207,5.9422076
+4759858321,node,The Roster,restaurant,Annecy,"2 Route de Frangy, 74960, Annecy",74960,https://www.theroster.fr/restaurants/meythet,45.9092754,6.0965787
+4799565409,node,Le chalet du lac,restaurant,Annecy,"307 Chemin du Laythet, 74220, La Clusaz",74220,,45.9145725,6.4743109
+4861746345,node,Le Bilboquet,restaurant,Annecy,"14 Faubourg Sainte-Claire, 74000, Annecy",74000,https://restaurant-lebilboquet.com/,45.8975082,6.1231306
+4876394027,node,Le Cinq,restaurant,Annecy,,,,45.9046566,6.422771
+4881495639,node,La Ferme,restaurant,Annecy,"1078 Route du Col des Aravis, 74220, La Clusaz",74220,,45.9025418,6.4253669
+4895456419,node,Café Bichette,restaurant,Annecy,"9 Rue Perrière, 74000, Annecy",74000,,45.8981417,6.1274445
+4896060635,node,Oson Doson,restaurant,Annecy,,,https://osondoson.fr/,45.8992021,6.1170843
+4899828332,node,,restaurant,Annecy,,,,45.9070096,6.3647363
+4932495507,node,Sapaudia Caffè,restaurant,Annecy,,,https://www.privateaser.com/lieu/48949-sapaudia-caffe,45.9006392,6.1232659
+4937089723,node,Les Crêpes de Dame Kerlou,restaurant,Annecy,,,,45.8602154,6.1429496
+4942808088,node,Royal Pizza,restaurant,Annecy,52 Route du Berlet,,https://www.royal-pizzas-st-jorioz.com/,45.8317476,6.1720495
+4948112549,node,EBO Annecy,restaurant,Annecy,,,https://ebo-annecy.fr/,45.9052058,6.1483496
+4948114725,node,La Maison du Lac,restaurant,Annecy,,,http://maisondulac-annecy.fr/,45.9051097,6.1478303
+4948115516,node,Le sultan,restaurant,Annecy,,,,45.9094363,6.1379907
+4948115845,node,L'Auberge du Boucanier,restaurant,Annecy,,,,45.7910708,6.2180253
+4975651612,node,Bistro Green,restaurant,Annecy,"25 Montée de Novel, 74940, Annecy-le-Vieux",74940,https://bistrotgreen.com/,45.9194263,6.1416344
+4992699856,node,Hôtel Les Trésoms Lake & Spa Resort,hotel,Annecy,,,https://www.lestresoms.com/,45.8896701,6.1368433
+4994132498,node,L'Albigny,restaurant,Annecy,,,,45.9065503,6.1460627
+4994132499,node,Le ptit Bistro,restaurant,Annecy,"13 Rue Centrale, 74940, Annecy",74940,,45.9065317,6.1460023
+4995129647,node,Fleur de Sel,restaurant,Annecy,,,,45.9242892,6.1649783
+5003387187,node,Pizza Italia,restaurant,Annecy,"145 Route d'Annecy, 74370, Pringy",74370,https://pizzaitalia-pringy.com/,45.9387241,6.1223118
+5028440439,node,L'amnésie,restaurant,Annecy,,,,45.9387615,6.1272118
+5081255422,node,Slake Coffee,restaurant,Annecy,29 Rue Sommeiller,,https://www.slake-coffee.com/annecy,45.902444,6.1261824
+5218483481,node,Mercure - Annecy Centre,hotel,Annecy,,,,45.9013928,6.1239148
+5218483482,node,Atipik Hotel Alexandra,hotel,Annecy,,,,45.9013237,6.1251647
+5259840829,node,Tom Morel,restaurant,Annecy,,,,45.919404,6.1598494
+5263230521,node,5 Stelle d'oro,restaurant,Annecy,,,,45.9071198,6.1070075
+5299349655,node,Tribeca Cosmopolitan Bistro,restaurant,Annecy,"60 Route des Rutys, 74370, Pringy",74370,https://www.privateaser.com/lieu/43798-tribeca-cosmopolitan-bistro,45.9443308,6.1265614
+5317939708,node,Happy Diner,restaurant,Annecy,,,,45.8394441,5.9551413
+5329705179,node,L'Orangerie,restaurant,Annecy,30 Route des Creusettes,,https://www.orangerierestaurant.com,45.9177896,6.0829734
+5329712356,node,L'Envol,restaurant,Annecy,,,,45.9310225,6.1066907
+5329742066,node,Hôtel Prestige Odalys Le Chamoix,hotel,Annecy,,,,45.9064253,6.4340588
+5351022366,node,Le Poulailler,restaurant,Annecy,,,https://le-poulailler-annecy.com/,45.8936771,6.1177762
+5382881821,node,La Romantica,restaurant,Annecy,6 Avenue du Rhône,,https://laromantica-annecy.fr/,45.8991359,6.1179012
+5479700797,node,Mademoiselle Meuh,restaurant,Annecy,,,,45.8610219,6.0442005
+5516401983,node,Auberge de Villaz,restaurant,Annecy,"Avenue de Bonatray, 74370, Villaz",74370,,45.9520095,6.194255
+5570970921,node,Le Mulligan,restaurant,Annecy,"280 Route du Golf, 74290, Talloires-Montmin",74290,https://le-mulligan-restaurant.business.site/,45.8503833,6.2021551
+5606465291,node,La Place d'Italie,restaurant,Annecy,,,,45.85155,6.1453249
+5606465292,node,Tokyo Sushi,restaurant,Annecy,,,,45.8514716,6.1453562
+5615088710,node,Les Acacias,restaurant,Annecy,,,,45.8868315,6.174704
+5632969023,node,L'Esquisse,restaurant,Annecy,"21 Rue Royale, 74000",74000,https://esquisse-annecy.fr/fr/,45.8997318,6.1223872
+5651600132,node,Koto Koto,restaurant,Annecy,"11 Avenue des Trois Fontaines, Annecy",,https://kotokoto.fr/,45.8905065,6.1153904
+5692587721,node,L'Estaminet,restaurant,Annecy,"8 Rue Sainte-Claire, 74000",74000,,45.8985392,6.1251069
+5693728515,node,Minami,restaurant,Annecy,74000,74000,,45.8973092,6.1229708
+5694524624,node,L'incandescent,restaurant,Annecy,"4 Faubourg Sainte-Claire, 74000",74000,,45.8978171,6.1233297
+5696988146,node,Pizza Plus,restaurant,Annecy,,,,45.8652038,5.9440168
+5720756443,node,,restaurant,Annecy,,,,45.867046,5.9421165
+5740048514,node,Les Moustaches de Zébulon,restaurant,Annecy,,,https://moustaches-zebulon.com/,45.8954862,6.1197446
+5834536750,node,Wabaki,restaurant,Annecy,,,,45.8978468,6.1233518
+5874150456,node,Le Florilège,restaurant,Annecy,,,,45.833431,6.1636705
+5874150457,node,Food Cancan,restaurant,Annecy,,,,45.833176,6.1634007
+5876500799,node,Brasserie Irma - Bocuse,restaurant,Annecy,,,https://www.maisons-bocuse.com/nos-brasseries/brasserie-irma-bord-lac-annecy/,45.9061715,6.155262
+5876500829,node,Le Cinquième Set,restaurant,Annecy,,,https://www.tennismenthon.fr/restaurant,45.8613653,6.188631
+5876978418,node,Puits Saint-Jean,restaurant,Annecy,,,,45.9007685,6.1264081
+5876978419,node,L'appart du dix-sept,restaurant,Annecy,,,https://www.lappartdu17.fr/,45.9007867,6.1264779
+5876978435,node,L'abbaye,restaurant,Annecy,"4 Rue du Paquier, 74000, Annecy",74000,https://www.abbaye-annecy.com/,45.9010798,6.1267635
+5876978436,node,Le Napoli,restaurant,Annecy,,,,45.9010639,6.1266851
+5896911952,node,Le Pas Sage,restaurant,Annecy,6 Rue Joseph Blanc,,,45.8993258,6.1267021
+5913661713,node,Le Lilas Rose,restaurant,Annecy,"1 Passage de l'Évêché, 74000, Annecy",74000,,45.8987104,6.1248314
+5938751782,node,Les Lanfian'nes,restaurant,Annecy,862 Route du Plateau,,,45.9588781,6.3210547
+5939902360,node,Le Thaï-Break,restaurant,Annecy,,,,45.7893286,6.2169474
+5952520351,node,Auberge du Lyonnais,restaurant,Annecy,,,,45.8990307,6.1240763
+6038702360,node,Le Hameau de mon père - Elise Veyrat,restaurant,Annecy,"Route du Col de la Croix Fry, 74230, Manigod",74230,https://www.lehameaudemonpere.com,45.8783863,6.4001229
+6095536316,node,basta Cosi !,restaurant,Annecy,,,,45.9205081,6.0836148
+6133741255,node,Cortigrimpe,restaurant,Annecy,,,https://www.corti-grimpe.fr/,45.9363312,6.1080329
+6208649286,node,La Mamma,restaurant,Annecy,"69 Avenue de France, 74000, Annecy",74000,https://www.hotelannecy.fr/restaurant-annecy/,45.9188645,6.1317953
+6234738057,node,Hôtel les Terrasses,hotel,Annecy,,,,45.9038291,6.120007
+6329178651,node,Roc des Arces,restaurant,Annecy,"la Côte Chinaillon, 74450, Le Grand-Bornand",74450,,45.9584563,6.4565786
+6329178665,node,Le névé,restaurant,Annecy,,,,45.9599899,6.45773
+6329178671,node,Les Gettiers,restaurant,Annecy,,,,45.9651078,6.4597535
+6329588899,node,Hôtel Restaurant Les Sapins Wellness & Gourmet,restaurant,Annecy,"6762 Route du Col de la Croix Fry, 74230, Manigod",74230,les-sapins.fr,45.8765327,6.4022146
+6336374561,node,La Duche,restaurant,Annecy,,,,45.9606707,6.5017634
+6467097678,node,Bistro Sauvage,restaurant,Annecy,9 Avenue des Îles,,https://www.bistrosauvage.com/,45.9082549,6.1193282
+6467657422,node,Au Bureau,restaurant,Annecy,"13 Rue de la Poste, 74000, Annecy",74000,https://www.aubureau.fr/resto/au-bureau-annecy,45.9013466,6.1226811
+6467938179,node,Pizza Cosy,restaurant,Annecy,"13 Rue de la Poste, 74000, Annecy",74000,https://pizzacosy.fr/pizzeria-annecy,45.901611,6.1225587
+6467938485,node,Hôtel Campanile Annecy Centre Gare,hotel,Annecy,,,https://www.campanile.com/fr/hotels/campanile-annecy-centre-gare,45.901048,6.1227274
+6471682354,node,Pizzas Le Khéops,restaurant,Annecy,"16 Avenue de Genève, 74000, Annecy",74000,http://kheops-pizzas.fr/,45.9108435,6.1239659
+6471706804,node,New Delhi,restaurant,Annecy,"5 Rue de Frontenex, 74000, Annecy",74000,https://newdelhiannecy.com/,45.9149929,6.1246874
+6482384158,node,La Récré,restaurant,Annecy,"Boulevard Nicollet, 74000, Annecy",74000,https://www.facebook.com/annecylarecre,45.9069944,6.1262719
+6489365063,node,La Brasserie de l'Impérial,restaurant,Annecy,"Allée de l'Impérial, 74000, Annecy",74000,https://www.hotel-imperial-palace.com/fr/la-brasserie-151,45.9033577,6.1444088
+6499407611,node,Djo Pizza,restaurant,Annecy,"13 Rue Centrale, 74940, Annecy",74940,,45.9065101,6.1459441
+6499407612,node,Brasserie du Parc,restaurant,Annecy,"12 Rue Centrale, 74940, Annecy",74940,http://brasserieduparcannecy.fr/,45.9064242,6.1465931
+6499407622,node,OXO,restaurant,Annecy,"25 Rue Centrale, 74940, Annecy",74940,,45.9067202,6.1472094
+6533719185,node,Crêperie Bretonne La Bolée,restaurant,Annecy,,,,45.8982036,6.1264097
+6533760285,node,Kelsa,restaurant,Annecy,,,https://kelsa-restaurant.com/,45.898285,6.1265431
+6611060685,node,Savoie Bar,restaurant,Annecy,"1 Place Saint-François de Sales, 74000",74000,,45.8988289,6.1277574
+6648118698,node,Aquarama,restaurant,Annecy,"227 Chemin du Ponton, 74290, Talloires",74290,https://www.restaurant-aquarama.com/,45.8255042,6.2192856
+6655547040,node,Jasmin,restaurant,Annecy,3 Faubourg Sainte-Claire,,,45.8977164,6.1233772
+6687776185,node,Le Petit Chalet,restaurant,Annecy,5 Place de l'Hôtel de Ville,,,45.8823906,6.324758
+6697147517,node,Hôtel Ibis Budget,hotel,Annecy,"159 Route de Closon, 74330, Poisy",74330,https://all.accor.com/hotel/B1H7/index.en.shtml,45.9202513,6.0835747
+6708130966,node,La Petite Fringale,restaurant,Annecy,,,,45.8277302,6.1957033
+6738287378,node,Les Délices d'Orient,restaurant,Annecy,"3014 Route de Bellegarde, 74330, Sillingy",74330,,45.957124,6.0394931
+6738287382,node,L'Instant Présent,restaurant,Annecy,"3058 Route de Bellegarde, 74330, Sillingy",74330,,45.9574816,6.0396853
+6761918860,node,Yatta ! Ramen,restaurant,Annecy,11 Rue des Écoles,,https://www.yatta-ramen.com/,45.9121693,6.1436676
+6764718486,node,La Bastille,restaurant,Annecy,,,,45.8984084,6.127382
+6822369017,node,Le Bouillon,restaurant,Annecy,"9 Rue de la Gare, 74000, Annecy",74000,https://lebouillon-annecy.fr/,45.8992137,6.1217427
+6830378733,node,Sushi Box,restaurant,Annecy,,,,45.9006061,6.1243253
+6830378737,node,Hôtel Central,hotel,Annecy,,,,45.9008339,6.124776
+6837266584,node,Le Kabuki,restaurant,Annecy,,,,45.9008834,6.1181447
+6837378898,node,Le Nid du Merle,restaurant,Annecy,"9 Rue de la Gare, Annecy",,https://www.leniddumerle.fr/,45.8992986,6.1217089
+6839810701,node,The Craic,restaurant,Annecy,,,https://restaurants.accor.com/fr/restaurant-1357_R001-restaurant-novotel-cafe-annecy.shtml,45.9028982,6.1226412
+6843984940,node,le Bap’s bar à salades,restaurant,Annecy,,,,45.9009263,6.1196667
+6844030994,node,La Table d'Ébène,restaurant,Annecy,,,,45.9004258,6.120072
+6888907178,node,Lac Casa,restaurant,Annecy,,,https://www.lac-casa.com/,45.8992374,6.1197144
+6888907183,node,Mezze & Co,restaurant,Annecy,"24 Avenue de Chambéry, 74000, Annecy",74000,https://www.mezzeco.com,45.8991977,6.1195729
+6889249968,node,Chez Firmin,restaurant,Annecy,,,,45.8991148,6.1186076
+6889249975,node,L'Étagère,restaurant,Annecy,,,,45.8991834,6.1187181
+6889362132,node,Hébé,hotel,Annecy,5 Avenue d'Aléry,,https://www.hebehotel.com/,45.9002796,6.1203405
+6897045014,node,Domaine du Paron,hotel,Annecy,,,https://www.domaine-du-paron.com/,45.8058345,6.2446799
+6902522701,node,Kia Ora,restaurant,Annecy,,,,45.8997705,6.1215097
+6902617875,node,L'Impasse,restaurant,Annecy,,,,45.8998411,6.1238871
+6915464630,node,Allegria,restaurant,Annecy,,,,45.8995321,6.1229508
+6915464634,node,Racines,restaurant,Annecy,74000,74000,https://racines-annecy.fr/,45.8994019,6.1228935
+6915486852,node,SV 144,restaurant,Annecy,,,,45.8996623,6.1230155
+6915486855,node,L'Osteria,restaurant,Annecy,,,,45.8996255,6.1229551
+6915490862,node,Bufa Pizza,restaurant,Annecy,"10 Rue de la République, 74000, Annecy",74000,,45.899455,6.1235766
+6943148167,node,Le Courant d'Ere,restaurant,Annecy,"Chemin du Semnoz, 74320, Leschaux",74320,,45.7932263,6.1019806
+6943148168,node,Le Chatillon,restaurant,Annecy,"Maison du Semnoz, 74540, Viuz-la-Chiésaz",74540,,45.8038056,6.0970146
+6961493945,node,Hôtel Le Pré Carré,hotel,Annecy,"27 Rue Sommeiller, 74000, Annecy",74000,https://www.hotel-leprecarre.fr/,45.9024262,6.1260547
+6967781067,node,Le Tanoué,restaurant,Annecy,,,,45.9032297,6.1255886
+7056652020,node,Chez Riz,restaurant,Annecy,,,,45.8585653,5.9439043
+7088118784,node,Jun,restaurant,Annecy,,,https://www.mizogoo.fr/pdfmenu/institution/7QyaF2eXSme0DP8Kj0Dk,45.8978008,6.1276498
+7088120434,node,le Beignet ALPIN,restaurant,Annecy,,,,45.8982395,6.1272662
+7088307430,node,La Romana Pizzeria,restaurant,Annecy,,,,45.933954,6.1278638
+7109254585,node,Le Lac Bleu,restaurant,Annecy,,,,45.7911607,6.216176
+7119778118,node,La bonne gamelle,restaurant,Annecy,"Impasse du Bas de la Mulaterie, 74450, Le Grand-Bornand",74450,,45.973932,6.4590362
+7124526886,node,La bonne gamelle,restaurant,Annecy,,,,45.97396,6.4589962
+7138518535,node,Cantine de l'école,restaurant,Annecy,"Route de Morat, 74290, Veyrier-du-Lac",74290,,45.8813077,6.1799334
+7473528132,node,Le Panda Gourmet,restaurant,Annecy,,,https://lepandagourmet.eatbu.com/?lang=fr,45.9127391,6.0951936
+7473625182,node,Les Comptoirs D'Asie,restaurant,Annecy,"22 Rue de l'Euro, 74960, Meythet",74960,https://www.lescomptoirsdasie.fr/,45.9218591,6.0898322
+7473625183,node,Les 3 Caesars,restaurant,Annecy,,,https://restaurant3caesars.fr/,45.9213297,6.090791
+7473625184,node,La Strada,restaurant,Annecy,Meythet,,https://www.restaurant-strada-meythet.fr,45.9217701,6.0898985
+7563526593,node,Granny Smith,restaurant,Annecy,"4 Rue Louis Revon, 74000, Annecy",74000,http://www.grannysmithandco.com/,45.9041109,6.1303386
+7612026439,node,Taj Mahal,restaurant,Annecy,,,,45.8995593,6.1167721
+7612026440,node,Le Bistro du Rhône,restaurant,Annecy,"13 Avenue du Rhône, 74000, Annecy",74000,https://bistrodurhone.fr/menu-carte/,45.899369,6.1168775
+7622666609,node,La Passion Des Saveurs,restaurant,Annecy,,,https://la-passion-des-saveurs.webnode.fr/contact/,45.940493,6.0775702
+7624160834,node,Fumika Ramen,restaurant,Annecy,"167 Rue des Peupliers, 74330, Épagny Metz-Tessy",74330,https://fumika.fr/,45.9338657,6.0822004
+7624160835,node,Craft and Draft,restaurant,Annecy,"167 Rue des Peupliers, 74330, Épagny Metz-Tessy",74330,https://www.craftanddraft.fr/,45.9339668,6.0823165
+7744079261,node,Les Petites cantines Annecy,restaurant,Annecy,"13 Avenue Germain Perreard, 74960, Cran-Gevrier",74960,https://annecy.lespetitescantines.org/,45.9098399,6.1118992
+7819920316,node,Rookie Mountains,hotel,Annecy,,,,45.9442205,6.4354771
+7824276541,node,Lie Vain Lou,restaurant,Annecy,,,https://lievainlou.wixsite.com/lievainlou,45.7459023,6.2951714
+7862603217,node,Sapaudia Trattoria,restaurant,Annecy,"10 Rue Vaugelas, 74000, Annecy",74000,lesapaudia.fr/sapaudia-trattoria/,45.9019707,6.1257959
+7899588896,node,Indian's Food,restaurant,Annecy,,,,45.8982213,6.1158514
+7903335788,node,L'Eridan,restaurant,Annecy,4 Quai de l'Évêché,,https://www.restaurant-eridan.fr/,45.8989404,6.1249349
+7903335789,node,L'heure tourne,restaurant,Annecy,,,,45.9033705,6.1257657
+7903335791,node,Punch,restaurant,Annecy,"4 Rue de la Paix, 74000, Annecy",74000,https://www.punch-annecy.fr/,45.9030846,6.1256275
+8114975641,node,KIng Marcel,restaurant,Annecy,"16 Route de l'Église, 74220, La Clusaz",74220,www.kingmarcel.com,45.9053931,6.4236675
+8146283337,node,Nuance,restaurant,Annecy,"8 Faubourg Sainte-Claire, 74000",74000,https://nuance-annecy.fr,45.8977383,6.1232679
+8157280247,node,La Rotonde des Trésoms,restaurant,Annecy,,,https://lestresoms.com/fr/page/hotel-restaurants-annecy.5.html,45.8896997,6.13704
+8224001098,node,l'Alibi,restaurant,Annecy,,,,45.7968839,6.0128649
+8231896460,node,Bar-Tabac Chez Jeannot,restaurant,Annecy,,,https://bar-tabac-chez-jeannot.business.site,45.8839633,6.0622825
+8355488563,node,New China,restaurant,Annecy,,,,45.9214998,6.0888988
+8355488620,node,Le Ché,restaurant,Annecy,"33 Route de Frangy, 74960, Meythet",74960,,45.9198571,6.0892864
+8388826905,node,Bob Pizza,restaurant,Annecy,"455 Route de la Vieille Église, Doussard",,https://bobpizza.fr/,45.7835638,6.226132
+8409902834,node,American diner,restaurant,Annecy,,,,45.9430547,6.0613404
+8420666613,node,Quart de cercle,restaurant,Annecy,,,https://www.lequartdecercle.com/,45.9170376,6.0923114
+8513094719,node,Le Chamoix,restaurant,Annecy,,,,45.9688481,6.450008
+8519906381,node,Mcourt,restaurant,Annecy,,,,45.9022206,6.1247269
+8532705845,node,Le restaurant,restaurant,Annecy,,,https://le-restaurant-annecy.fr/,45.9063813,6.1239617
+8564610869,node,Maestro,restaurant,Annecy,,,https://www.facebook.com/Maestroepagny/,45.937377,6.0790981
+8692680446,node,,restaurant,Annecy,,,,45.9006432,6.4813076
+8692682908,node,,restaurant,Annecy,,,,45.9101231,6.467215
+8709411650,node,Cantine du collège des Barattes,restaurant,Annecy,"5 Avenue de Montfleury, 74940, Annecy le vieux",74940,,45.9132228,6.1564695
+8709416356,node,Rivage Hôtel & Spa,hotel,Annecy,"Avenue du Petit Port, 74940, Annecy",74940,https://www.rivage-hotel.com/,45.9060288,6.1520146
+8709416606,node,L'impérial,hotel,Annecy,,,,45.9036464,6.1446544
+8709575102,node,Grano e Orzo,restaurant,Annecy,,,https://www.grano-orzo.com/,45.8525878,6.2057164
+8755287426,node,Le Venitien,restaurant,Annecy,9 bis Rue Royale,,https://www.bar-venitien.com,45.8996457,6.1243822
+8768452601,node,Cafe Gisele,restaurant,Annecy,"21 Place du Lavoir, 74290, Talloires-Montmin",74290,,45.8399547,6.2145837
+8778745394,node,Turquoise Kebab,restaurant,Annecy,"48, 74150, Rumilly",74150,https://turquoisekebab.strikingly.com/,45.864218,5.9446414
+8861501721,node,Hôtel Saint-Alban,hotel,Annecy,,,https://www.hotel-st-alban.com/,45.9070553,6.4291805
+8861538929,node,Yatta ! Ramen Seynod Annecy,restaurant,Annecy,19 Rue de Sansy,,https://www.yatta-ramen.com/,45.8860544,6.1137577
+8868704991,node,Le Repaire,restaurant,Annecy,,,https://www.facebook.com/people/Restaurant-Le-Repaire-Grand-Bornand/100057424660177/,45.9656184,6.4233068
+8954669499,node,La Petite Reine,restaurant,Annecy,,,https://www.cafevelo-lapetitereine.fr/,45.8905566,6.1716154
+9025008106,node,Les Jardins du Taillefer,restaurant,Annecy,,,https://www.jardins-du-taillefer.fr/restaurant-bio-doussard/,45.7935756,6.2081374
+9264759895,node,Shiva food,restaurant,Annecy,"3, 74150, Rumilly",74150,https://hotfresh.business.site/?utm_source=gmb&utm_medium=referral,45.8664407,5.9427532
+9289817040,node,Bistro Vapeur,restaurant,Annecy,"Route de Cusy, 74540, Chainaz-les-Frasses",74540,https://bistrovapeur.fr,45.7792356,5.9960069
+9323177118,node,Le Santo,restaurant,Annecy,"968 Route d'Angon, 74290, Talloires",74290,https://le-santo.com/aemporter/,45.8263762,6.2214779
+9323180599,node,Beau Site,hotel,Annecy,,,,45.8385803,6.2146319
+9348192661,node,Le cottage,hotel,Annecy,,,,45.839542,6.2147655
+9360832870,node,La Voglia,restaurant,Annecy,,,,45.8986546,6.1236785
+9382480481,node,Restaurant La Bohème,restaurant,Annecy,,,,45.9426642,6.4277382
+9410140715,node,Les 1 séparables,restaurant,Annecy,,,,45.8632867,5.9465143
+9412785829,node,Ailleurs qu'ici,restaurant,Annecy,,,,45.902732,6.1285853
+9412799335,node,Fujikoya,restaurant,Annecy,,,https://www.fujikoya.fr/,45.9027202,6.1273806
+9413089819,node,L'osmose du lac,restaurant,Annecy,,,,45.8591023,6.1965969
+9415775615,node,Auberge du Pré Vieux,restaurant,Annecy,,,,45.9410852,6.4247816
+9420040788,node,Bistrot du coin,restaurant,Annecy,,,,45.7742499,6.2197826
+9428503893,node,Le vieille ferme,restaurant,Annecy,,,,45.8581186,6.4154352
+9463095074,node,Bistro D'uo,restaurant,Annecy,,,,45.8470511,5.9588335
+9469361807,node,L'imprévu,restaurant,Annecy,,,,45.8599185,6.1962241
+9469390869,node,Le confidentiel,restaurant,Annecy,,,,45.859945,6.1962712
+9480926054,node,,restaurant,Annecy,,,,45.937552,6.1218998
+9480934026,node,Suko,restaurant,Annecy,,,,45.9380005,6.1217786
+9517218984,node,Ttabegam,restaurant,Annecy,,,,45.8989868,6.1243941
+9559242481,node,Titina,restaurant,Annecy,,,,45.9058302,6.4288482
+9571252190,node,Les Burgers de Pierre,restaurant,Annecy,,,https://www.lesburgersdepierre.com/,45.9056939,6.1447395
+9587626543,node,Le ramoneur savoyard,restaurant,Annecy,,,https://ramoneur-savoyard-annecy.fr/,45.8991076,6.1269381
+9597754671,node,La Croix St Maurice,hotel,Annecy,,,,45.9423506,6.4273541
+9629439446,node,The Marcel Bistrot,restaurant,Annecy,"10 Avenue du Pré Félin, 74940, Annecy",74940,https://themarcel.fr/,45.926948,6.1673582
+9632107948,node,Ferme de la charbonnière,restaurant,Annecy,"1539 Rte de Thônes, 74290, Menthon-Saint-Bernard",74290,https://www.lafermedelacharbonniere.com/,45.8699109,6.2070241
+9633811535,node,La grolle,restaurant,Annecy,,,,45.9045139,6.4220401
+9633821237,node,Floralp,hotel,Annecy,,,,45.9052727,6.4218831
+9668046318,node,Vif Annecy,restaurant,Annecy,"3 Rue Filaterie, 74000, Annecy",74000,https://vif-annecy.fr/,45.8998125,6.1263793
+9673750317,node,Azzuro,restaurant,Annecy,"1 Passage des Clercs, 74000",74000,https://m.facebook.com/azzurroannecy/,45.8979301,6.1233533
+9682229652,node,Hôtel Le Pélican,hotel,Annecy,20 Rue des Marquisats,,https://www.hotel-lepelican.fr/,45.8956696,6.1325897
+9711174503,node,Le Cercle d'Or,restaurant,Annecy,,,,45.8674036,5.943552
+9718930377,node,Les Tilleuls,hotel,Annecy,"167 Route de l'Ancienne Gare, 74410, Saint-Jorioz",74410,,45.8343034,6.1663966
+9718934189,node,Les tilleuls,restaurant,Annecy,"167 Route de l'Ancienne Gare, 74410, Saint-Jorioz",74410,,45.834359,6.1664314
+9781112534,node,BEC,restaurant,Annecy,,,,45.8277975,6.2001619
+9797983688,node,Pizza Pepone,restaurant,Annecy,74960,74960,,45.9069008,6.1092311
+9797992037,node,Bamboo,restaurant,Annecy,,,http://bambooudon.fr/,45.9069348,6.1093403
+9856089092,node,Abîme,restaurant,Annecy,"991 Route du Pont de l'Abîme, 74540, Gruffy",74540,https://www.auberge-abime.com/,45.7643415,6.0578382
+9868089422,node,La storia,restaurant,Annecy,,,,45.9064624,6.1060764
+9883667311,node,Le Petit Thiou,restaurant,Annecy,"74960, Annecy",74960,https://www.lepetitthiou.com/,45.9071441,6.1071575
+9887641616,node,Antipode,restaurant,Annecy,"32A Avenue des Carrés, 74940, Annecy-le-Vieux",74940,https://antipode-annecy.fr/,45.9150371,6.1473227
+9893900518,node,La Brasserie Gourmande,restaurant,Annecy,,,,45.8895463,6.0824544
+9905030972,node,Le Bourgeon,restaurant,Annecy,,,https://www.restaurantlebourgeon.com/,45.81717,6.0205708
+9905038741,node,Pizzeria du Chéran,restaurant,Annecy,,,,45.8169901,6.0209156
+9913393738,node,1647,restaurant,Annecy,,,,45.8935916,6.4069203
+9921473317,node,Hôtel Restaurant Les Airelles,restaurant,Annecy,,,,45.9049907,6.4233618
+9925009720,node,Taobento,restaurant,Annecy,,,https://taobento.com/content/52-taobento-annecy-sevrier,45.8441422,6.1494726
+9934129188,node,Oky Sushi,restaurant,Annecy,,,https://restaurant-japonais-faverges.com/,45.7465082,6.2941702
+9939763291,node,Sapaudia Sainte-Claire,restaurant,Annecy,12 Faubourg Sainte-Claire,,lesapaudia.fr/sapaudia-centre-ville/,45.8975972,6.1231488
+9973620668,node,L'Avalanche,restaurant,Annecy,,,,45.7133917,6.2758524
+9973620728,node,La Remontée,restaurant,Annecy,,,,45.7133972,6.2757866
+9977418589,node,Le Regann,restaurant,Annecy,"1 Rue du Président Favre, 74000, Annecy",74000,,45.9016007,6.1268706
+9983849517,node,La Collina,restaurant,Annecy,"4 Chemin de la Colline, 74940, Annecy-le-Vieux",74940,https://webshop.fulleapps.io/s/la-collina/mzexntu2xzy2ngm/252212,45.9153516,6.1390136
+9987800562,node,La Clé des Annes,restaurant,Annecy,,,http://www.restaurant-la-marmotte.fr/restaurant-la-cle-des-annes.html,45.9704713,6.5239648
+9987800563,node,La Cheminée,restaurant,Annecy,"6870 Route du Col des Annes, 74450, Le Grand+Bornand",74450,https://en.legrandbornand.com/altitude-restaurant-la-cheminee.html,45.970242,6.5226988
+10003561314,node,La guinguette des Cassines,restaurant,Annecy,"228 Chemin du Ponton, 74290, Talloires",74290,https://www.les-cassines.com/,45.8275917,6.2183167
+10042269374,node,PALIO,restaurant,Annecy,"29 Avenue de Champ Fleuri, 74600, Seynod",74600,,45.8885359,6.1018358
+10069588818,node,Auberge des Glières,restaurant,Annecy,"305 Chemin de l'Auberge, 74570, Thorens-Glières",74570,,45.9645257,6.3262045
+10091759013,node,Le Lodge des Dents de Lanfon,restaurant,Annecy,,,https://www.seminaires-lac-montagnes.com/lieux-insolites/pres-du-lac-le-lodge-des-dents-de-lanfon.html,45.8731209,6.2124202
+10115834571,node,L'Authentik,restaurant,Annecy,,,https://restaurant-lauthentik.com/,45.8180282,6.0116498
+10147565958,node,Icone,hotel,Annecy,,,https://www.icone-hotel.com/,45.8971404,6.1227971
+10213006963,node,Pizza du Treige,restaurant,Annecy,,,,45.8611261,6.0680308
+10213023078,node,Le Bistrot du Treige,restaurant,Annecy,"500 Avenue d'Aix les Bains, 74600, Annecy",74600,,45.8627789,6.0680032
+10228596237,node,L'Igloo,restaurant,Annecy,"1206 Route de l'Envers du Chinaillon, 74450, Le Chinnaillon",74450,,45.9741194,6.4584986
+10295446587,node,Mazette,restaurant,Annecy,15 Faubourg Sainte-Claire,,http://www.mazette-restaurant.com/,45.8973613,6.1231293
+10300586093,node,Galopin,restaurant,Annecy,,,https://www.facebook.com/GalopinAnnecy/,45.8990766,6.1227535
+10310877699,node,Bistrot Pierrot,restaurant,Annecy,"43 Avenue de France, 74000, Annecy",74000,,45.9124669,6.1354415
+10587385306,node,Le Tandem,restaurant,Annecy,"Avenue de Genève, 74000, Annecy",74000,http://letandem-annecy.fr,45.9154377,6.1240214
+10669048590,node,Chez Ingalls,restaurant,Annecy,"29 Rue Vaugelas, 74000, Annecy",74000,https://www.chezingalls.fr/,45.9011092,6.1236477
+10701218864,node,Le Tuktuk,restaurant,Annecy,,,https://www.restaurantletuktuk.com/,45.9165129,6.1311786
+10718813281,node,Canailles,restaurant,Annecy,"33 Avenue de Genève, 74000, Annecy",74000,https://www.bistro-canailles.com/,45.909434,6.1235653
+10871406873,node,Auberge du Croix,restaurant,Annecy,"1582 Route du Croix, 74450, Le Grand-Bornand",74450,,45.9470698,6.4565768
+10876096120,node,Auberge des Cascades,restaurant,Annecy,,,,45.9006935,6.2760552
+10915936607,node,Le moulin à Pizza,restaurant,Annecy,,,https://www.moulinapizza.fr/,45.8412526,6.0584749
+10922708463,node,Le Prado,restaurant,Annecy,"39 Rue de la Crête, 74960, Annecy",74960,,45.9124494,6.1121549
+11002710814,node,Le Freti Côté Prairie,restaurant,Annecy,,,https://www.lefreticoteprairie-annecy.com/,45.8943873,6.1206603
+11016373802,node,Ginette,restaurant,Annecy,,,http://ginetteannecy.fr/,45.9027837,6.126528
+11017989032,node,Les Fratellini,restaurant,Annecy,,,https://www.les-fratellini.fr,45.960561,6.1661286
+11017989036,node,Boucle d’Or,restaurant,Annecy,,,,45.9604188,6.1662915
+11089125494,node,Hôtel du Palais de l'Isle,hotel,Annecy,13 Rue Perrière,,,45.8981953,6.1274818
+11089130399,node,Hôtel des Alpes,hotel,Annecy,,,https://www.hotelannecy.com/,45.9016422,6.1229292
+11089134992,node,L'atlas,restaurant,Annecy,,,,45.8989748,6.1279431
+11101898607,node,Miamici delle Alpi,restaurant,Annecy,,,https://www.mi-amici.com/annecy,45.9059933,6.1315109
+11110189302,node,Chez Justin,restaurant,Annecy,"44 Avenue d'Annecy, 74230, Thônes",74230,,45.8890091,6.3130976
+11118651983,node,La Dolce Vita,restaurant,Annecy,,,,45.9059181,6.1162794
+11118898264,node,Nagoya Sushi,restaurant,Annecy,"4 Place Saint-Maurice, 74000, Annecy",74000,https://nagoyasushi-annecy.fr/,45.8989378,6.1274155
+11118898267,node,La Douzaine,restaurant,Annecy,,,,45.8985521,6.1250348
+11118898271,node,Brasserie Le Bon Lieu,restaurant,Annecy,,,,45.9019934,6.1274649
+11126274961,node,Le poisson rouge,restaurant,Annecy,,,,45.8676642,6.1435334
+11153427822,node,La Piste Verte,restaurant,Annecy,,,,45.845421,6.1525096
+11156111521,node,Elwood,restaurant,Annecy,"206 Route de Champ Farcon, 74370, Argonay",74370,https://www.elwoodrestaurant.fr/,45.9390483,6.1338063
+11264734824,node,BlueBay,restaurant,Annecy,"23 Rue de Michelstadt, 74150, Rumilly",74150,,45.8604386,5.9424059
+11266353059,node,Choral,restaurant,Annecy,33 Avenue des Romains,,https://www.choralrestaurant.com/,45.9096716,6.1201969
+11266353060,node,Le Frenchie,restaurant,Annecy,,,https://lefrenchie74.fr/,45.9092106,6.1207253
+11292581996,node,TOM,restaurant,Annecy,,,https://www.facebook.com/people/TOM-restaurant-cor%C3%A9en-et-japonais/61572924710783/,45.8991461,6.1170087
+11297311681,node,Le Cappadoc,restaurant,Annecy,,,,45.8993234,6.1168234
+11343436569,node,Auberge le bien aller,restaurant,Annecy,,,,45.9924575,6.0583039
+11359586369,node,L'auberge du marmiton,restaurant,Annecy,74230,74230,,45.9104071,6.2219023
+11374882657,node,Les Mâles élevés,restaurant,Annecy,"60 Route des Sauts, 74370, Fillière",74370,https://www.rotisserie-lesmaleseleves.fr/,45.9608157,6.1663208
+11387837416,node,La Cour 24,restaurant,Annecy,,,https://www.lacour24.com/,45.8980889,6.1278489
+11405197993,node,Hôtel Mercure Annecy Sud,hotel,Annecy,"Avenue d'Aix les Bains, Seynod",,,45.8893478,6.1062891
+11476443869,node,Vinistrot,restaurant,Annecy,"12 Rue Perrière, 74000",74000,,45.898153,6.1271151
+11494284869,node,Le Ciselin,restaurant,Annecy,,,https://www.restaurant-le-ciselin.fr/,45.9070372,6.1470752
+11530792090,node,Nouilles Nouilles,restaurant,Annecy,"13 Avenue du Rhône, 74000, Annecy",74000,,45.8994494,6.1169418
+11533474541,node,Shiva,restaurant,Annecy,"18 Avenue de la Mandallaz, 74000, Annecy",74000,https://www.restaurant-indien-shiva.com/,45.8991672,6.1155353
+11533477972,node,Nouilles Nouillles,restaurant,Annecy,"13 Avenue du Rhône, 74000, Annecy",74000,,45.8994504,6.1169559
+11533494379,node,Le Marrakech,restaurant,Annecy,"6 Avenue de la Mandallaz, 74000, Annecy",74000,https://www.restaurantmarrakech.com/,45.8987234,6.1164392
+11533494380,node,"BAKHCHICH, BABA !",restaurant,Annecy,"11 bis Avenue de la Mandallaz, 74000, Annecy",74000,http://www.bakhchich-baba.com/,45.8991265,6.1152989
+11533504237,node,Ibis Styles Annecy Gare Centre,hotel,Annecy,"1 Place de la Mandallaz, Annecy",,,45.8990861,6.1145282
+11623562342,node,Grano e Orzo,restaurant,Annecy,"35 Place de l'Ancienne École, 74450, Saint-Jean-de-Sixt",74450,https://www.grano-orzo.com/index.php/saint-jean-de-sixt/,45.9230624,6.4114207
+11637499165,node,Restaurant Le Cairn,restaurant,Annecy,"41 Route de Thônes, 74450, Saint-Jean-de-Sixt",74450,https://www.lecairn-stjean.fr/,45.9223875,6.4100721
+11695042060,node,Dip Honest Food,restaurant,Annecy,,,https://www.dip-honestfood.com,45.8993755,6.1216779
+11695077892,node,Les quais,restaurant,Annecy,,,https://www.restaurant-lesquais.com/,45.9142043,6.0915537
+11700736293,node,Le saint Georges,restaurant,Annecy,,,https://www.brasserielesaintgeorges.com/,45.9148326,6.0919465
+11736516969,node,Movida,restaurant,Annecy,"Immeuble Le Cornillon, 74450, LE GRAND-BORNAND",74450,,45.9432032,6.4301269
+11737472740,node,Le Sous-Dine,restaurant,Annecy,"292 Rue Saint-François de Sales, 74570, Fillière",74570,https://www.sousdine-restaurant.fr/,45.996634,6.24573
+11741268915,node,Terre de Bellevarde,restaurant,Annecy,,,https://laterredebellevarde.fr/,45.819961,6.1966826
+11777782833,node,Tex Mex cafe 201,restaurant,Annecy,,,,45.8831113,6.0972606
+11818026158,node,la cigale du lac,restaurant,Annecy,,,,45.8644313,6.1406113
+11818026161,node,la bulle bistrot,restaurant,Annecy,"Route de l'Église, 74320, Sevrier",74320,,45.8638023,6.1408613
+11818634053,node,Bistro Régent,restaurant,Annecy,,,,45.8759595,6.0873279
+11818637068,node,kyo sushi,restaurant,Annecy,,,,45.8755406,6.0864099
+11818739271,node,l'intrépide,restaurant,Annecy,,,,45.8754821,6.0865925
+11824748847,node,ravigote,restaurant,Annecy,,,,45.8989969,6.1242604
+11827134151,node,Là-Haut,restaurant,Annecy,Avenue de Thônes,,https://www.la-haut-restaurant.fr,45.9101488,6.1391433
+11830811431,node,Les Comptoirs D'Alice,restaurant,Annecy,,,,45.8775323,6.0890865
+11833403289,node,Les Terrasses,hotel,Annecy,,,https://www.hotel-les-terrasses-annecy.fr/,45.9032729,6.1203105
+11886321364,node,Little vietnam,restaurant,Annecy,,,https://littlevietnam.fr/,45.8992995,6.1141478
+11917496243,node,Nautic Café,restaurant,Annecy,,,,45.8600939,6.1447932
+11930267091,node,Le saut de l'ange,restaurant,Annecy,,,,45.911665,6.0983199
+11930578068,node,LMK Restaurant créole,restaurant,Annecy,,,https://restaurant-creole-traiteur-creole-annecy.com/,45.897034,6.1226124
+11930580569,node,Le Ritz,restaurant,Annecy,,,https://www.annecy.fr/quotidien/seniors/restauration-seniors,45.8969584,6.1228524
+11935375599,node,Chez Mamie Lise,restaurant,Annecy,,,https://www.mamie-lise.com/restaurant-annecy/,45.8991063,6.1272919
+11949581526,node,Adagio,hotel,Annecy,"74000, Annecy",74000,https://www.adagio-city.com/fr/hotel-6187-aparthotel-adagio-annecy-centre/index.shtml,45.9031721,6.1226812
+11950483182,node,Casa SANTA CLARA,restaurant,Annecy,,,,45.8983114,6.1251752
+11962677673,node,Saba,restaurant,Annecy,,,https://restaurant-saba.com/,45.8973012,6.1229227
+11990114973,node,Pizza Pepone,restaurant,Annecy,"10 Avenue Gambetta, 74000, Annecy",74000,https://www.pizza-pepone.fr/ma-pizzeria/pizza-pepone-annecy-gambetta.html,45.9117594,6.1306559
+12046705976,node,Lords,restaurant,Annecy,"11 Boulevard du Fier, 74000, Annecy",74000,https://www.lordsrestaurant.fr/,45.9145891,6.1143891
+12051860515,node,Le Carrousel,restaurant,Annecy,,,,45.8973358,6.1230676
+12051869518,node,Xing Fu Tang,restaurant,Annecy,"17 Rue Notre-Dame, 74000, Annecy",74000,,45.9001138,6.1261579
+12051869904,node,Bistrot Paquet,restaurant,Annecy,,,,45.9008838,6.1267366
+12069477819,node,Pizzeria Casanova,restaurant,Annecy,"67 Route de la Vallée du Bouchet, 74450, LE GRAND-BORNAND",74450,https://www.legrandbornand.com/restaurant-casanova.html,45.9428426,6.4288574
+12087018069,node,La pisciculture de Montremont,restaurant,Annecy,"100 Impasse les Pesetz, 74230",74230,https://www.pisciculture-montremont.com/,45.8698723,6.286874
+12098264945,node,L'idéal,restaurant,Annecy,,,,45.7953848,6.2056673
+12101969294,node,Lilo Pizza,restaurant,Annecy,,,,45.8492358,6.1461621
+12147669973,node,Le Choucas,restaurant,Annecy,,,,45.8627119,6.4170695
+12147851902,node,Happy Chalet,restaurant,Annecy,,,,45.8619645,6.4154094
+12151656924,node,Maison Boho,restaurant,Annecy,,,https://www.maison-boho.com/,45.839142,6.2130365
+12151656925,node,Le Jade,hotel,Annecy,,,https://www.maison-boho.com/hotel-le-jade/,45.8391962,6.2132259
+12151656974,node,Chiringuito,restaurant,Annecy,,,,45.8386984,6.2117396
+12160864532,node,Best Western Kobalt Annecy,hotel,Annecy,49 Rue du Parmelan,,,45.934684,6.085722
+12188835541,node,Bouillon Bernadette,restaurant,Annecy,"1 Avenue du Petit Port, 74000, Annecy",74000,https://www.instagram.com/bouillon_bernadette/,45.9052802,6.1437505
+12275002891,node,L'histoire du sept,restaurant,Annecy,,,,45.9145171,6.0909819
+12291508634,node,Tapaoo,restaurant,Annecy,"18 Chemin des Cloches, 74940, Annecy-le-Vieux",74940,https://www.tapaoo.com/,45.9133745,6.1383178
+12296192804,node,"AEC Vacances - Forgeassoud, Saint Jean de Sixt",hotel,Annecy,,,https://www.aec-vacances.com/fr/villages-vacances-aec/saint-jean-de-sixt,45.9245512,6.3908347
+12358927601,node,Cozna,restaurant,Annecy,"22 Faubourg Sainte-Claire, 74000",74000,,45.8973987,6.1228594
+12365483419,node,Pizza Pepone,restaurant,Annecy,,,https://www.pizza-pepone.fr/ma-pizzeria/pizza-pepone-seynod.html,45.8876552,6.1010371
+12376653867,node,Pizza Pepone,restaurant,Annecy,"74540, Saint-Félix",74540,,45.8002659,5.9722695
+12500435301,node,Papi Jo,restaurant,Annecy,"1133 Route des Outalays, 74450",74450,,45.9669798,6.4537773
+12501237955,node,RITA,restaurant,Annecy,,,https://www.rita-annecy.fr/,45.9184245,6.1555211
+12504129101,node,L'Atelier Artisan Crêpier - Epagny,restaurant,Annecy,,,https://www.artisancrepier.com/,45.9357408,6.0796921
+12543981625,node,E-Motion,restaurant,Annecy,"72 Avenue d'Aix les Bains, 74600, Annecy",74600,,45.8896273,6.107689
+12561420318,node,Restaurant Vincent Favre Félix,restaurant,Annecy,"15 Chemin de l'Abbaye, 74940, Annecy-le-Vieux",74940,https://restaurant-vff.com,45.9169817,6.1410318
+12570765403,node,Aki,restaurant,Annecy,,,https://aki74.fr,45.9059083,6.1454741
+12677339219,node,pizzissime,restaurant,Annecy,,,https://www.facebook.com/pizzissimepizza/,45.7638549,6.3425928
+12698722901,node,Plein sud,restaurant,Annecy,"5 Rue Jean-Jacques Rousseau, 74000",74000,,45.8987389,6.1262754
+12766090051,node,P&Co,restaurant,Annecy,,,,45.8913289,6.088364
+12771000709,node,Douss'Art Pizza,restaurant,Annecy,"1535 Route d'Annecy, 74210, Doussard",74210,https://www.doussartpizza.fr/,45.7914294,6.214905
+12866324381,node,La guinguette du bout du lac,restaurant,Annecy,"160 Allée de la Nublière, 74210, Doussard",74210,,45.792055,6.2183537
+12894825702,node,Plein Sud,restaurant,Annecy,5 Rue Jean-Jacques Rousseau,,,45.8987519,6.1262591
+12897744501,node,Les Négociantes,restaurant,Annecy,,,https://www.instagram.com/les_negociantes/,45.8992223,6.1149501
+12973803595,node,La Piscine by Les Châtaigniers,restaurant,Annecy,,,,45.8303374,6.1498339
+12981652346,node,La Guinguette du Pépé,restaurant,Annecy,,,,45.8299926,6.1813269
+12999458136,node,Crêperie Boule de Neige,restaurant,Annecy,"60 Route de la Vallée du Bouchet, 74450, LE GRAND-BORNAND",74450,,45.9426544,6.4288546
+12999521411,node,La Pizz’ de Saint-Jean,restaurant,Annecy,"134 Route de Thônes, 74450, Saint-Jean-de-Sixt",74450,,45.922251,6.4087283
+13015342701,node,L'Endryre,restaurant,Annecy,"4770 Route des Confins, 74220",74220,,45.9196017,6.4788984
+13023064091,node,Bamboo,restaurant,Annecy,,,,45.9405254,6.1397186
+13026850249,node,Hôtel Borderan,hotel,Annecy,,,,45.8860574,6.4332291
+13033563005,node,Le Manaï Village,restaurant,Annecy,"10 Impasse de la Haie des Chênes, 74150, Sales",74150,,45.8740843,5.9613019
+13034036827,node,Le Chalet Savoyard,restaurant,Annecy,,,,45.8728118,6.4634712
+13056322683,node,Le Marrakech,restaurant,Annecy,,,,45.8987521,6.1163647
+13057737829,node,,restaurant,Annecy,,,,45.8977187,6.0437435
+13057977217,node,Waffle Factory,restaurant,Annecy,"482 Avenue des Alpes, 74330, Épagny Metz-Tessy",74330,https://wafflefactory.com/,45.9351011,6.0794999
+13061899069,node,Résidence Florimontane,hotel,Annecy,,,https://florimontane.com/,45.8526496,6.2042473
+13063331311,node,Aux Amis,restaurant,Annecy,,,,45.9189448,6.0955229
+13067648019,node,Los Primos,restaurant,Annecy,,,,45.8976643,6.1303867
+13067648125,node,Giulia,restaurant,Annecy,,,,45.8975587,6.1305363
+13073865146,node,Skàli,restaurant,Annecy,"41 Place de l'Ancienne École, 74450, Saint-Jean-de-Sixt",74450,,45.9230293,6.411594
+13087036976,node,,restaurant,Annecy,,,,45.9699294,6.0327957
+13100263897,node,Chez Annie,restaurant,Annecy,,,,45.9739261,6.288226
+13120346089,node,Confins des Sens,restaurant,Annecy,"341 Route de Villavit, 74450, Le Grand-Bornand",74450,https://www.restaurant-grand-bornand.com/,45.9400144,6.4238913
+13142341310,node,Restaurant LÔNA,restaurant,Annecy,,,https://rivage-hotel.com/restaurant-lona,45.9057915,6.1518081
+13149198946,node,La testa dura,restaurant,Annecy,,,,45.9445992,6.0718289
+13170008163,node,Léon de Bruxelles,restaurant,Annecy,,,,45.9353396,6.0795695
+13248273412,node,Les Frasses Jacquier,restaurant,Annecy,,,https://www.legrandbornand.com/sejourner/restaurants-bars/restaurant-daltitude-les-frasses-jacquiers-le-grand-bornand-fr-5596356,45.9328781,6.4443868
+13291323448,node,La Piccolina,restaurant,Annecy,,,,45.8879965,6.1001494
+13333989523,node,L.A.C. Café associatif du Haras,restaurant,Annecy,,,https://cafeduharas.fr,45.9044924,6.1281344
+13334624617,node,Fan House,restaurant,Annecy,,,,45.9021927,6.1261776
+13389302967,node,L'Atelier,restaurant,Annecy,,,,45.8894574,6.1154361
+13410373975,node,Pizzeria Venezia,restaurant,Annecy,16 Rue des Portiques,,,45.8814054,6.3251208
+13415558572,node,l'assiette gourmande,restaurant,Annecy,,,,45.9137865,6.1236287
+13451247049,node,Mont Fairway,restaurant,Annecy,"45 Avenue d'Annecy, 74230, Thônes",74230,https://montfairway.com/,45.889821,6.3107503
+13516518082,node,La 6ème étoile,restaurant,Annecy,,,,45.9074241,6.107012
+13521489749,node,Best Western Chalet Les Saytels,hotel,Annecy,"33 Route de la Vallée du Bouchet, 74450, Le Grand Bornand",74450,https://www.bestwestern-chaletlessaytels.com/,45.9426457,6.4284486
+13521489750,node,La Table du Chalet,restaurant,Annecy,"33 Route de la Vallée du Bouchet, 74450, Le Grand Bornand",74450,https://www.bestwestern-chaletlessaytels.com/le-restaurant-1334,45.942653,6.4285254
+13533088349,node,,restaurant,Annecy,,,,45.9389555,6.0934937
+13625559962,node,3 Brasseurs,restaurant,Annecy,,,,45.9063362,6.1316563
+13625559963,node,Le Tanoué,restaurant,Annecy,,,,45.9063974,6.1318902
+13648577506,node,Centre La Ruche La Salle,hotel,Annecy,"70 Chemin de Beauregard, 74230, Manigod",74230,https://www.laruche-lasalle.com/,45.8782451,6.403638
+13648577611,node,Les 2 Mules,restaurant,Annecy,"180 Route de la Graillère, 74220, La Clusaz",74220,https://les2mules-laclusaz.com/,45.9069122,6.4324517
+13690912434,node,Ternelia - Le Pré du lac,hotel,Annecy,,,,45.827506,6.1834065
+13730361727,node,Logis Hôtel Blanc,hotel,Annecy,90 Avenue de Sindeldorf,,https://www.logishotels.com/fr/hotel/logis-hotel-blanc-3368,45.8291619,5.9852315
+13730361759,node,Restaurant Blanc,restaurant,Annecy,,,https://www.logishotels.com/fr/restaurant/logis-hotel-blanc-3368,45.8292331,5.9850716
+13736894017,node,Le Consulat,restaurant,Annecy,"5 bis Rue des Contamines, 74940, Annecy",74940,,45.9116626,6.1416814
+13760520899,node,Bao Canteen,restaurant,Annecy,,,,45.9063539,6.1319155
+13784105959,node,La chapelle,hotel,Annecy,,,https://www.lachapelle-annecy.com/,45.9048947,6.1199899
+13974118599,node,La petite cantine d'ernestine,restaurant,Annecy,,,https://www.cantine-ernestine.com/,45.8923621,6.0865669
+13975519202,node,MONT FOOT 5,restaurant,Annecy,,,https://montfoot5annecy.fr/,45.8850094,6.0741039
+13993235205,node,Casa Nela,restaurant,Annecy,,,,45.8972677,6.1224576

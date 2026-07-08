@@ -131,7 +131,7 @@ else:
 
 st.divider()
 
-# Directions section
+# Directions section to Google maps
 st.subheader("Get Directions")
 
 destination_options = filtered_df.dropna(subset=["lat", "lon"]).copy()

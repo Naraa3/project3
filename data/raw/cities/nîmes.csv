@@ -1,0 +1,767 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+252258756,node,,hotel,Nîmes,,,,43.9591359,4.7330343
+301491991,node,La Maison d'Avignon,restaurant,Nîmes,30250,30250,,43.783135,4.0905323
+301491992,node,La Bistoure,restaurant,Nîmes,,,,43.7844203,4.0903799
+303084830,node,Le Prieuré,hotel,Nîmes,"7 Place du Chapitre, 30400, Villeneuve-lès-Avignon",30400,https://www.leprieure.com/,43.9632638,4.7961564
+303084844,node,Les Jardins d'Été,restaurant,Nîmes,,,http://www.chartreuse.org/28/7/le-restaurant-de-la-chartreuse,43.9664933,4.7968217
+360322409,node,Léo O Resto,restaurant,Nîmes,,,,43.9992196,4.6997332
+419423053,node,Guinguette La Frigoulette,restaurant,Nîmes,"Impasse du Darboussas, 30630, Saint-André-de-Roquepertuis",30630,,44.247431,4.4486006
+443130814,node,Le Bistro de Lussan,restaurant,Nîmes,"Plca Jules Ferry, 30580",30580,https://www.lebistrotdelussan.fr/,44.1527309,4.3653657
+464787741,node,Mailan,restaurant,Nîmes,,,,43.8429048,4.36955
+471868276,node,Restaurant Le Mas du Bélier,restaurant,Nîmes,"Route de Bagnols, 30200",30200,,44.1946688,4.5231619
+480760464,node,Le Saint-Pierre,restaurant,Nîmes,"1 Quai Christian Gozioso, 30240, Le Grau-du-Roi",30240,https://monmenu.comduponant.fr/lesaintpierre,43.5403134,4.1363785
+485293340,node,Hôtel Central,hotel,Nîmes,"2 Place du Château, 30000, Nîmes",30000,,43.8390258,4.362729
+485357533,node,Bar Joe,restaurant,Nîmes,"44 Boulevard Victor Hugo, 30000",30000,,43.8375547,4.3559062
+485359288,node,Brasserie le Petit Jules,restaurant,Nîmes,"2 Boulevard Amiral Courbet, 30000, Nîmes",30000,http://brasserieleprintemps.fr/,43.8367288,4.362986
+485359292,node,Pizza Papa,restaurant,Nîmes,"8 Boulevard Amiral Courbet, 30000, Nîmes",30000,https://www.pizzapapa.fr/,43.8372904,4.3631031
+498963211,node,La Piazzetta,restaurant,Nîmes,"2a Place du Chapitre, 30000, Nîmes",30000,https://www.restaurant-lapiazzetta.com/,43.8379841,4.360787
+510818404,node,Les Tables de la Fontaine,restaurant,Nîmes,"9 Quai Georges Clemenceau, 30900, Nîmes",30900,https://www.lestablesdelafontaine.com/,43.8395399,4.3484766
+516590329,node,Majestic,hotel,Nîmes,,,,43.834084,4.3654651
+537118567,node,La Médina,restaurant,Nîmes,,,,43.836298,4.3637177
+537118570,node,W,restaurant,Nîmes,"9 Square de la Couronne, 30000, Nîmes",30000,http://www.w-restaurant.fr/,43.8366206,4.3636562
+537648888,node,Le Zinc,restaurant,Nîmes,"13 Rue de l'Agau, 30000, Nîmes",30000,,43.839451,4.356569
+549760551,node,B&B Hôtel,hotel,Nîmes,"83 Rue de la République, 30900, Nîmes",30900,https://www.hotel-bb.com/fr/hotel/nimes-centre,43.8281171,4.3548954
+563884380,node,Basilic & Co,restaurant,Nîmes,"72 Avenue Jean Jaurès, 30000, Nîmes",30000,https://basilic-and-co.com/restaurants/pizzeria-nimes-severine/,43.8306248,4.3518108
+563884411,node,Majestic,hotel,Nîmes,"9 Rue de la Servie, 30000, Nîmes",30000,https://www.hotel-majestic-nimes.com/fr/,43.8343858,4.365353
+568005506,node,Hôtel Acanthe du Temple,hotel,Nîmes,"Place du Château, 30000, Nîmes",30000,www.hotel-temple.com,43.8388943,4.3627096
+571521042,node,Au Flan Coco,restaurant,Nîmes,"21 Place du Grand Couvent, 30000, Nîmes",30000,https://www.auflancoco.com/,43.8392133,4.3568313
+579415424,node,Chô Chaï,restaurant,Nîmes,,,,43.8387573,4.3610406
+579961512,node,Chez le Ch'ti,restaurant,Nîmes,,,,43.8406259,4.3659279
+579961513,node,Pizza Roma,restaurant,Nîmes,,,,43.8407884,4.3661375
+579975471,node,Square Hôtel,hotel,Nîmes,"7 Square de la Couronne, 30000, Nîmes",30000,https://squarehotel-nimes.com/,43.8368795,4.3634359
+579978231,node,Le Goéland,restaurant,Nîmes,"6 Boulevard de la Libération, 30000, Nîmes",30000,,43.8356221,4.3618064
+579982414,node,Brasserie le Montcalm,restaurant,Nîmes,"21 Rue de la République, 30000, Nîmes",30000,,43.8321822,4.358124
+579989868,node,Le Carré d'Art,restaurant,Nîmes,"2 Rue Gaston Boissier, 30000, Nîmes",30000,,43.8383283,4.3543104
+582616523,node,Belle Sainte-Lucie,restaurant,Nîmes,,,,43.8241247,4.3683309
+621492199,node,Les Oliviers,restaurant,Nîmes,,,,43.5643929,4.1606798
+662214071,node,Le Troquet,restaurant,Nîmes,,,,43.8436182,4.3689422
+680342651,node,Le République,restaurant,Nîmes,"3 Rue de la République, 30000, Nîmes",30000,https://www.facebook.com/bistrotlerepublique/,43.8339582,4.359494
+765328026,node,Nîmotel,hotel,Nîmes,"152 Rue Claude Nicolas Ledoux, 30900, Nîmes",30900,https://www.nimotel.com,43.8166589,4.3459949
+799431779,node,Logis Hôtel Uzès Pont du Gard,hotel,Nîmes,"2 Bis Rue de l'Émeraude, 30700, Uzès",30700,https://www.logishotels.com/fr/hotel/logis-hotel-uzes-pont-du-gard-427571,44.0022324,4.4162021
+810609674,node,La Terre de Feu,restaurant,Nîmes,,,,43.8135434,4.0611162
+837149536,node,Restaurant Crèperie Cèze Grand Rue,restaurant,Nîmes,,,,44.1936701,4.519239
+856372048,node,Hôtel des Pradines,hotel,Nîmes,,,,44.046077,4.4429774
+865453127,node,Auberge La Hulotte,restaurant,Nîmes,,,,44.1941175,4.5188167
+905829483,node,Les Jardins de la livrée,guest_house,Nîmes,,,,43.9644436,4.7957817
+908282032,node,La Fleur de Sel,restaurant,Nîmes,,,,43.5675095,4.1918217
+908282514,node,Toro Luna,restaurant,Nîmes,"Place Saint-Louis, 30220, Aigues-Mortes",30220,,43.5669445,4.1901489
+908282566,node,Au Louis IX,restaurant,Nîmes,,,,43.5661246,4.193202
+910360450,node,Hôtel des Croisades,hotel,Nîmes,,,,43.5689899,4.1883622
+920214803,node,L'Ancien Thêatre,restaurant,Nîmes,"4 Rue Racine, 30900, Nîmes",30900,https://fr-fr.facebook.com/Lancientheatre,43.8374328,4.3548166
+920235503,node,Le 5 Paul,restaurant,Nîmes,"10 Rue de la Porte de France, 30900, Nîmes",30900,https://fr-fr.facebook.com/le5paul/,43.8361236,4.3556925
+920235592,node,Le Questel,restaurant,Nîmes,"4 Place Questel, 30000, Nîmes",30000,https://fr-fr.facebook.com/Questel.Brasserie/,43.8373041,4.3553638
+920243606,node,Le Chapon Fin,restaurant,Nîmes,"3 Rue Château Fadaise, 30000, Nîmes",30000,,43.8360394,4.355921
+920244323,node,Le Caboulot de la Sérendipité,restaurant,Nîmes,"26 Rue Jean Reboul, 30900, Nîmes",30900,https://lecaboulotdelaserendipite.fr/,43.834036,4.3578437
+920244342,node,Mamie Bigoude,restaurant,Nîmes,"10 Rue Jean Reboul, 30000, Nîmes",30000,https://www.comptoirmamiebigoude.com/,43.8346456,4.3580658
+922554225,node,Villa Vicha,hotel,Nîmes,,,,43.757175,4.1682654
+1077148039,node,Le provençal,restaurant,Nîmes,,,,43.6715536,4.4007738
+1137821421,node,Tibère Express,restaurant,Nîmes,,,,43.782866,4.087781
+1305783586,node,Le Gafetou,restaurant,Nîmes,,,,43.5329016,4.1386362
+1305876326,node,La Taverne,restaurant,Nîmes,,,,43.5369584,4.1370567
+1305876330,node,Le Galion,restaurant,Nîmes,"11 Quai Colbert, 30240, Le Grau-du-Roi",30240,https://www.restaurant-le-galion.net,43.5362373,4.1355804
+1305876337,node,Le Grand Sud,restaurant,Nîmes,"45 Quai Colbert, 30240, Le Grau-du-Roi",30240,,43.5370867,4.1373303
+1305876340,node,Hôtel d'Angleterre,hotel,Nîmes,"11 Quai Colbert, 30240, Le Grau-du-Roi",30240,https://www.hotel-angleterre-grau-du-roi.com,43.5361554,4.1355287
+1305876363,node,Le France,restaurant,Nîmes,"27 Quai Colbert, 30240, Le Grau-du-Roi",30240,,43.5366843,4.136476
+1305880488,node,Café la Jetée,restaurant,Nîmes,"1 Quai Colbert, 30240, Le Grau-du-Roi",30240,,43.5355323,4.1346398
+1306494945,node,Le Maray,hotel,Nîmes,"Quai Christian Gozioso, 30240, Le Grau-du-Roi",30240,https://www.hotel-lemaray.fr/,43.5404651,4.136389
+1306528416,node,Le Palangre,restaurant,Nîmes,"56 Quai du Général Charles de Gaulle, 30240, Le Grau-du-Roi",30240,https://lepalangre.fr,43.5378866,4.1374629
+1306528456,node,La cachette de Mamé,restaurant,Nîmes,"36 Quai du Général Charles de Gaulle, 30240, Le Grau-du-Roi",30240,,43.5373779,4.1364405
+1306528460,node,Le Patio,restaurant,Nîmes,"38 Quai du Général Charles de Gaulle, 30240, Le Grau-du-Roi",30240,,43.5374132,4.1365179
+1306528467,node,Moderne Café,restaurant,Nîmes,"46 Quai du Général Charles de Gaulle, 30240, Le Grau-du-Roi",30240,,43.5375372,4.1369598
+1306528473,node,Quai 54,restaurant,Nîmes,"54 Quai du Général Charles de Gaulle, 30240, Le Grau-du-Roi",30240,,43.5378517,4.1373815
+1306528482,node,Restaurant du Port,restaurant,Nîmes,"44 Quai du Général Charles de Gaulle, 30240, Le Grau-du-Roi",30240,https://restaurantduportgrauduroi.com,43.5375486,4.1368128
+1306681243,node,La Voile,restaurant,Nîmes,,,,43.543067,4.1314965
+1306722516,node,L'Ancre,restaurant,Nîmes,,,,43.5377085,4.1399348
+1306722532,node,La Table d'Anaé,restaurant,Nîmes,,,,43.5376463,4.1396022
+1306722540,node,Le Pistou,restaurant,Nîmes,,,,43.5373935,4.1397416
+1306812837,node,Le Libération,restaurant,Nîmes,,,,43.5340549,4.1380653
+1306812850,node,Phanette,restaurant,Nîmes,,,,43.5345546,4.1373947
+1306819861,node,Le Cardinal,restaurant,Nîmes,,,,43.5345702,4.1379499
+1306823346,node,Au Petit Bonheur,restaurant,Nîmes,,,,43.5329561,4.1387896
+1307501583,node,Le Miramar,hotel,Nîmes,"25 Avenue Frédéric Mistral, 30240, Le Grau-du-Roi",30240,https://www.cafe-miramar.fr,43.5318397,4.1402034
+1307501588,node,Le Miramar,restaurant,Nîmes,"25 Avenue Frédéric Mistral, 30240, Le Grau-du-Roi",30240,https://www.cafe-miramar.fr/restaurant.html,43.5317821,4.140089
+1364658899,node,La table de Marine,restaurant,Nîmes,"Place Jean Jaurès, 30200",30200,http://www.tabledemarine.com/,44.201341,4.545365
+1367564817,node,Auberge des 4 saisons,restaurant,Nîmes,"Saint-Gély, 30630",30630,,44.2064349,4.49398
+1369319979,node,La p'tite auberge,restaurant,Nîmes,"Route de Bagnols, 30200",30200,,44.1978677,4.5223899
+1377543236,node,La Cantonnade,restaurant,Nîmes,"10 Quai de la fontaine, 30630",30630,,44.2154663,4.4689142
+1377553807,node,Nat et Lau,restaurant,Nîmes,"14 Quai de la fontaine, 30630",30630,,44.2154981,4.4689907
+1485582408,node,Au P'tit Nimois,restaurant,Nîmes,"14 Place du Marché, 30000, Nîmes",30000,,43.8362251,4.3588117
+1485582412,node,Cali Kitchen,restaurant,Nîmes,"8 Rue de la Maison Carrée, 30000",30000,https://calikitchen.fr,43.8375355,4.3566385
+1485582413,node,Pizzeria Cerutti,restaurant,Nîmes,"25 Rue de l'Horloge, 30000",30000,,43.8379998,4.3567404
+1557118747,node,Carré Jazz,restaurant,Nîmes,"25 Place de la Maison Carrée, 30000",30000,https://carrejazz.fr/,43.8379492,4.356614
+1641946135,node,Le Tracteur,restaurant,Nîmes,"Avenue du stade, 30700",30700,,43.9553967,4.4244767
+1676282596,node,Les Jasses de Camargue,hotel,Nîmes,,,https://www.jassesdecamargue.com/,43.7153603,4.1814427
+1706911963,node,Hôtel Le Cours,hotel,Nîmes,"10 Avenue François Griffeuille, 30800, Saint-Gilles",30800,,43.673455,4.4321486
+1708108090,node,Les concluses,restaurant,Nîmes,,,,44.1686627,4.4469618
+1726357544,node,,restaurant,Nîmes,,,,44.165842,4.6191494
+1734313251,node,Café restaurant des sports,restaurant,Nîmes,,,,43.7863929,4.1935643
+1741780656,node,Le Patio by Lou Caléou,restaurant,Nîmes,"23 Place de la Libération, 30250",30250,https://www.le-patio-by-lou-caleou.com,43.7816746,4.087799
+1754672885,node,O Répit,restaurant,Nîmes,,,,43.6921018,4.2051418
+1775534268,node,Mas d'Eyrolles,hotel,Nîmes,"70 Chemin de la Jasse d'Eyrolles, 30190, Sainte-Anastasie",30190,https://masdeyrolles.com,43.9213113,4.3122535
+1781591160,node,Bistro 148,restaurant,Nîmes,"148 Rue Jean Lauret, 30900, Nîmes",30900,,43.808974,4.361458
+1781597257,node,La Cantine,restaurant,Nîmes,"148 Rue Jean Lauret, 30900, Nîmes",30900,,43.8090404,4.3621296
+1785144863,node,Brasserie La Condamine,restaurant,Nîmes,,,,43.6894344,4.2739296
+1788650024,node,Le Belvédère,restaurant,Nîmes,,,,44.3046621,4.5550705
+1798434500,node,Alexandre,restaurant,Nîmes,"2 Rue Xavier Tronc, 30128, Garons",30128,https://www.michelkayser.com/,43.767972,4.4230136
+1798434556,node,Cote Corse,restaurant,Nîmes,,,,43.7707182,4.4257582
+1819080027,node,Hôtel de l'Atelier,hotel,Nîmes,,,,43.9631126,4.7979254
+1820406355,node,Le Passiflore,hotel,Nîmes,1 Rue Neuve,,,43.7431953,4.2191885
+1820406356,node,,restaurant,Nîmes,,,,43.7428833,4.2200897
+1829929480,node,,restaurant,Nîmes,,,,43.8761985,4.5924992
+1829929486,node,Le Magenta,restaurant,Nîmes,,,,43.8763213,4.5927404
+1853272133,node,La Guinquette de Lecques,restaurant,Nîmes,,,,43.8355089,4.0656704
+1853272140,node,O Château,restaurant,Nîmes,,,,43.8087685,4.0691611
+1861267583,node,La Couronne,restaurant,Nîmes,"37 Rue des Trois Journées, 30130, Pont-Saint-Esprit",30130,,44.2581002,4.6483224
+1864902750,node,Aux Péchés Mignons,restaurant,Nîmes,,,,43.8094861,4.0687296
+1871591875,node,La Halte Nautique,restaurant,Nîmes,"Port de Plaisance Quai Paul Riquet, 30127, Bellegarde",30127,https://www.facebook.com/lahaltenautique,43.7446153,4.5207914
+1874492462,node,Le Sans Chichi,restaurant,Nîmes,,,,43.8148183,4.3344175
+1876133691,node,La Fourchette Gourmande,restaurant,Nîmes,,,,44.1615632,4.4862954
+1878059632,node,Les Chambres de la Bourse,hotel,Nîmes,"6 Place de la République, 30130, Pont-Saint-Esprit",30130,https://www.leschambresdelabourse.fr,44.255284,4.648059
+1878087505,node,Le Concorde,restaurant,Nîmes,"14 Place de la République, 30130, Pont-Saint-Esprit",30130,,44.2556256,4.6479405
+1878293029,node,The Family's,restaurant,Nîmes,"15 Allée Frédéric Mistral, 30130, Pont-Saint-Esprit",30130,,44.2557626,4.6479673
+1907395633,node,Café des grands pins,restaurant,Nîmes,,,,43.7851769,4.1950308
+1914293190,node,Restaurant La Taverne,restaurant,Nîmes,,,,44.014329,4.4198346
+1932292749,node,,hotel,Nîmes,,,,43.9713674,4.5545153
+1938676370,node,Bar Restaurant Chez Lucas,restaurant,Nîmes,"Allée des Platanes, 30650, Saze",30650,https://www.facebook.com/Bar-Restaurant-Chez-Lucas-30650-SAZE-358858931220026/,43.9437652,4.6820504
+1940530121,node,Les Korrigans du Vidourle,restaurant,Nîmes,"2 Rue du Faubourg du Pont, 30250, Sommières",30250,http://www.leskorrigansduvidourle.com,43.7820998,4.0883963
+1952180687,node,Chez Tony,restaurant,Nîmes,,,,43.6734019,4.4343105
+1956781859,node,,restaurant,Nîmes,,,,44.0453849,4.7865757
+2003350352,node,Le Bistrot de La Chartreuse de Valbonne,restaurant,Nîmes,,,,44.2400665,4.5542176
+2006437462,node,Auberge de miémart,restaurant,Nîmes,,,,44.0593288,4.7780749
+2133440248,node,Le Bernon,hotel,Nîmes,"Route Nationale 86, 30330",30330,,44.0942726,4.5978554
+2133706141,node,Château du Val de Cèze,hotel,Nîmes,"69 Rue Léon Fontaine, 30200",30200,,44.1595009,4.6313504
+2133767597,node,Auberge des 4 Chemins,restaurant,Nîmes,,,,44.1046364,4.6079287
+2165690411,node,Le Caprice,restaurant,Nîmes,,,,43.9813364,4.2269201
+2172217057,node,L'Ancienne Gare,restaurant,Nîmes,,,,43.9911593,4.4303355
+2172217058,node,L'Auberge d'Uzes,hotel,Nîmes,,,,43.9927521,4.4231437
+2172217059,node,Le Rive Gauche,restaurant,Nîmes,,,,43.9550281,4.540581
+2179749315,node,Bistrot des Arènes,restaurant,Nîmes,"11 Rue Bigot, 30000, Nîmes",30000,,43.8344649,4.3570232
+2207997700,node,Basta Cosi!,restaurant,Nîmes,,,,43.9549909,4.7926035
+2241171634,node,La Salamandre,restaurant,Nîmes,13 Place Jean Jaurès,,,43.9642029,4.7975098
+2271047748,node,L'Anagia,restaurant,Nîmes,"9 Avenue du Grand Chemin, 30114, Nages-et-Solorgues",30114,,43.7906004,4.2296074
+2298093795,node,Hôtel Les Glycines,hotel,Nîmes,"8 Avenue Geoffroy Perret, 30210, Remoulins",30210,https://www.hotelrestaurantlesglycines.com,43.9386364,4.5599739
+2321260648,node,La table des marchands,restaurant,Nîmes,,,,43.7834441,4.2018526
+2331624929,node,,restaurant,Nîmes,,,,43.5075811,4.1452275
+2331628478,node,Le Petit Mazet,restaurant,Nîmes,2816 Route de l'Espiguette,,,43.5019958,4.1417574
+2346493839,node,Le Bato,restaurant,Nîmes,,,,43.8204149,4.3459089
+2346493844,node,Salad-Bar,restaurant,Nîmes,,,,43.8148035,4.3355047
+2372624305,node,Le Cocoloco,restaurant,Nîmes,,,,43.7827603,4.0892251
+2372624310,node,Quai 23,restaurant,Nîmes,,,,43.7827058,4.089288
+2372624311,node,Rue Jardinière,restaurant,Nîmes,,,,43.7830231,4.0902403
+2383646793,node,Café de l'Avenir,restaurant,Nîmes,"3 Place de la République, 30740, Le Cailar",30740,https://cafe-de-l-avenir-le-cailar.edan.io/,43.6740004,4.2374424
+2383646797,node,Café du Pont,restaurant,Nîmes,"344 Route des Etangs, 30600, Vauvert",30600,,43.6389622,4.2981116
+2391964680,node,Maje,restaurant,Nîmes,,,,43.7549969,4.1458135
+2400847619,node,Puech de l'Olivier,restaurant,Nîmes,,,,43.7279925,4.213039
+2400908233,node,L'Épicurienne,restaurant,Nîmes,,,,43.7834802,4.2041456
+2400969341,node,Côté Patio,restaurant,Nîmes,,,,43.7440927,4.2183302
+2401825298,node,Bibine & Ripaille,restaurant,Nîmes,,,,43.6751284,4.4315954
+2401825303,node,,restaurant,Nîmes,,,,43.6746866,4.4317905
+2401825317,node,,restaurant,Nîmes,,,,43.673651,4.4327978
+2401825321,node,La Restanque,restaurant,Nîmes,,,,43.6729395,4.4341583
+2409711952,node,Auberge Gardoise,hotel,Nîmes,,,,44.1318689,4.3643295
+2421527526,node,Tango Paëlla,restaurant,Nîmes,,,,43.9583466,4.7751448
+2421527540,node,Osakka Sushi,restaurant,Nîmes,,,,43.9586519,4.7764674
+2421527541,node,Chez Cécile,restaurant,Nîmes,,,,43.9583474,4.775314
+2423143378,node,Maison Bronzini,restaurant,Nîmes,74 Rue de la République,,https://www.maisonbronzini.com,43.9669654,4.7963125
+2450346946,node,La Pause Family,restaurant,Nîmes,"155 Rue Paul Laurent, 30900, Nîmes",30900,,43.8097684,4.3656867
+2490235011,node,L'Azteca,restaurant,Nîmes,,,,43.7831598,4.1917983
+2552849077,node,XL café restaurant,restaurant,Nîmes,"14 Rue du Marché, 30650, Rochefort-du-Gard",30650,,43.9756337,4.6874062
+2676933379,node,Le Palais de Jade,restaurant,Nîmes,,,,43.9595845,4.7566474
+2691705289,node,Les Arcades,hotel,Nîmes,23 Boulevard Gambetta,,http://www.les-arcades.fr,43.5655732,4.1923304
+2691705291,node,Villa Mazarin,hotel,Nîmes,,,https://www.villamazarin.com/,43.5648842,4.1919054
+2721781407,node,Le Comptoir des Saisons,restaurant,Nîmes,,,,43.9388618,4.5597233
+2724147013,node,Les 3 Canards,restaurant,Nîmes,,,,44.0111251,4.4191613
+2736827415,node,Soko Hotels Pont du Gard,restaurant,Nîmes,30210,30210,https://www.sokohotels.com,43.9462845,4.548623
+2823598044,node,Comptoir du 7,restaurant,Nîmes,,,,44.0137397,4.4221834
+2838230901,node,La Clède,restaurant,Nîmes,,,,43.7904406,4.3083214
+2868372426,node,L'instant du Sud,restaurant,Nîmes,,,,43.7295011,4.3489806
+2872777391,node,Le Shanghai,restaurant,Nîmes,,,,43.8142436,4.3509408
+2874375921,node,Memphis,restaurant,Nîmes,"145 Rue Michel Debré, 30900, Nîmes",30900,http://www.memphis-coffee.com/memphis-coffee-n%C3%AEmes,43.8143603,4.3681113
+2874376342,node,O Panda,restaurant,Nîmes,"145 Rue Michel Debré, 30900, Nîmes",30900,https://www.opanda.fr/restaurants-nimes.htm,43.8141953,4.3681765
+2911592250,node,La Dolce Vita,restaurant,Nîmes,12 Rue Marceau,,,43.5658127,4.1906639
+2911592251,node,Aromatik,restaurant,Nîmes,9 Rue Alsace Lorraine,,,43.5669453,4.1908152
+2911592256,node,Rue Emile Jamais,restaurant,Nîmes,5 Rue Émile Jamais,,,43.5663341,4.1906643
+2914552030,node,La Bodega,restaurant,Nîmes,20 Rue Pasteur,,,43.5664535,4.1912228
+2914552031,node,La Citadelle,restaurant,Nîmes,10 Place Saint-Louis,,,43.5668143,4.1896849
+2914552033,node,La Table du Midi,restaurant,Nîmes,27 Rue Pasteur,,,43.5664169,4.1915928
+2914552034,node,Le Café du Commerce,restaurant,Nîmes,11 Place Saint-Louis,,,43.5668874,4.1897208
+2914552035,node,Le Minos,restaurant,Nîmes,7 Place Saint-Louis,,,43.5665651,4.1897554
+2914552037,node,Les Capucins,restaurant,Nîmes,2 Place Saint-Louis,,,43.5664769,4.1901032
+2914552038,node,Brasserie La Détente,restaurant,Nîmes,5 Place Saint-Louis,,,43.5665764,4.1898436
+2914552039,node,Restaurant Marie-Rosé,restaurant,Nîmes,13 Rue Pasteur,,,43.5665501,4.191228
+2914552040,node,Restaurant des Voyageurs,restaurant,Nîmes,8 Place Saint-Louis,,,43.5665984,4.1896978
+2914552041,node,Chez Vincent,restaurant,Nîmes,7 Rue Pasteur,,,43.5666435,4.1909661
+2926265493,node,La Crêpe Rit,restaurant,Nîmes,"2 Place des Grands Jours, 30210",30210,,43.9389545,4.5601079
+2929496659,node,Le Sud,restaurant,Nîmes,,,,43.5224882,4.1490239
+2930809914,node,,restaurant,Nîmes,,,,43.5217444,4.1493446
+2931028158,node,,restaurant,Nîmes,,,,43.5235831,4.1456835
+2945489216,node,Les Bains de Camargue,hotel,Nîmes,"227 Route des Marines, 30240, Le Grau-du-Roi",30240,,43.5179345,4.1249937
+2945489217,node,Le Panoramique,restaurant,Nîmes,,,,43.5178755,4.1252998
+2955631669,node,Chez Olivier Bistrot,restaurant,Nîmes,,,,43.9641842,4.7970873
+2955888735,node,Ombre & Soleil,restaurant,Nîmes,,,,43.5274962,4.1403039
+3360208697,node,La Croqu'au Sel,restaurant,Nîmes,"Impasse de l'Hôpital Saint-Jacques, 30660, Gallargues-le-Montueux",30660,https://www.facebook.com/LaCroqauSel,43.7218065,4.1737644
+3362523633,node,Le Resto del Piero,restaurant,Nîmes,,,,43.7222964,4.1869858
+3362849282,node,La Table à Rallonge,restaurant,Nîmes,,,https://www.latablearallonge.com/,43.6314096,4.1975204
+3417526715,node,La Table des Platanes,restaurant,Nîmes,,,,43.686322,4.2071933
+3472859313,node,La Storia Cala'Breith,restaurant,Nîmes,"1A Rue du Petit Paris, 30660, Gallargues-le-Montueux",30660,https://www.facebook.com/LaStoriaCalaBreizh,43.7225436,4.1729717
+3481129195,node,B&B Hôtel Nîmes Ville Active,hotel,Nîmes,"152 Rue Claude Nicolas Ledoux, 30900, Nîmes",30900,https://www.hotel-bb.com/fr/hotel/nimes-ville-active,43.81558,4.3468192
+3493063998,node,Ristorante Sansavino,restaurant,Nîmes,,,,43.7829994,4.08985
+3501126703,node,La Farandole,restaurant,Nîmes,,,,43.7830585,4.090583
+3501136034,node,Le Nulle part Ailleurs,restaurant,Nîmes,"11 Rue Paulin Capmal, 30250, Sommières",30250,https://lenullepartailleurs.com,43.7832733,4.0901997
+3501140568,node,Le Pix,restaurant,Nîmes,,,,43.7831094,4.0900628
+3508963121,node,Le Pékin,restaurant,Nîmes,,,,43.7840905,4.0881161
+3522462082,node,Ibis Budget,hotel,Nîmes,,,,43.8317103,4.367029
+3522465884,node,Ibis Styles,hotel,Nîmes,,,,43.8316764,4.3669327
+3592061657,node,Brocantine,restaurant,Nîmes,"25 Cours Jean Jaurès, 30129, Manduel",30129,,43.8187695,4.4722781
+3596023750,node,L'Arhumatik,restaurant,Nîmes,"19bis Quai Docteur Cléon Griolet, 30250, Sommières",30250,https://www.larhumatik.fr,43.7816376,4.0904411
+3598562272,node,L'InéviTable,restaurant,Nîmes,"11 bis Rue de la République, 30129, Manduel",30129,,43.8189229,4.4709173
+3664218519,node,La Cérière,restaurant,Nîmes,,,,43.9389213,4.5629817
+3664223245,node,Lou Cigalon,restaurant,Nîmes,,,,43.9388988,4.5622027
+3680900778,node,Les Délices du Liban,restaurant,Nîmes,,,,43.782937,4.0894011
+3687859954,node,Tout Simplement,restaurant,Nîmes,1 Impasse du Château,,,44.0205717,4.5037343
+3688273747,node,L'Entr'Act,restaurant,Nîmes,"134 Avenue de Bernis, 30240, Le Grau-du-Roi",30240,,43.5435094,4.1309419
+3711691104,node,La Dolce Vita,restaurant,Nîmes,"Rue de l'Oratoire, 30650, saze",30650,https://www.facebook.com/dolcevitasaze?fref=ts,43.9406783,4.6812122
+3712547269,node,La Palmeraie,restaurant,Nîmes,,,,43.5343534,4.1387219
+3715857002,node,Kenavo Crêperie,restaurant,Nîmes,,,,43.743736,4.220697
+3716660514,node,Le Fouguinz,restaurant,Nîmes,,,,43.7431524,4.2202481
+3725229461,node,L'Enclos,restaurant,Nîmes,,,https://resto-enclos.com/,43.9519371,4.4792252
+3725264805,node,Café-Restaurant La Brèche,restaurant,Nîmes,,,,43.9541066,4.4778352
+3727949225,node,La Table de Sylvéréal,restaurant,Nîmes,,,,43.5482374,4.3464144
+3727949226,node,Mas de Sylvéréal,hotel,Nîmes,,,,43.5481054,4.3472758
+3729447191,node,Le Mas des Sables,hotel,Nîmes,,,,43.5862017,4.1974739
+3733301565,node,La Mama,restaurant,Nîmes,,,,43.5194728,4.1329967
+3733301566,node,Le Bistrot du Port,restaurant,Nîmes,,,,43.5193021,4.1327914
+3737706052,node,El Patio,restaurant,Nîmes,,,,43.964298,4.7969898
+3751991490,node,Ristorante La Toscane,restaurant,Nîmes,"159 Rue de la Mairie, 30920, Codognan",30920,https://latoscanepizza.fr/ristorante/,43.7311627,4.2192603
+3761503478,node,Le Cheval Blanc,restaurant,Nîmes,,,,43.7555252,4.2664977
+3762699398,node,Le Diable ô thym,restaurant,Nîmes,"6 Quai Lapérouse, 30240, Le Grau du Roi",30240,,43.520134,4.1343703
+3767475624,node,,restaurant,Nîmes,,,,43.527123,4.1419383
+3769027589,node,La Désirade,restaurant,Nîmes,,,,43.5268972,4.1391156
+3811341654,node,Marin'Air,restaurant,Nîmes,,,,43.5344225,4.1368109
+3811341857,node,Chez Coco & Co,restaurant,Nîmes,"1 Quai Colbert, 30240, Le Grau-du-Roi",30240,,43.5355749,4.1347349
+3811341860,node,Les Pieds dans l'Eau,restaurant,Nîmes,,,,43.5329628,4.1385166
+3811342208,node,La Trattoria,restaurant,Nîmes,,,,43.5345065,4.1372759
+3821103586,node,Le Castelas,restaurant,Nîmes,,,,43.900568,4.1029901
+3842712919,node,La Bégude Poulon,restaurant,Nîmes,,,,43.9601839,4.5185343
+3921824905,node,Brasserie du Commerce,restaurant,Nîmes,,,,44.2157922,4.4689404
+3921830377,node,La Galantine,restaurant,Nîmes,,,,44.2144695,4.4677094
+3921850334,node,Le Plan d'Eau,restaurant,Nîmes,"Avenue du Lavoir, 30630, Goudargues",30630,,44.2148559,4.4704479
+3921851849,node,Chez Marianne,restaurant,Nîmes,,,,44.2154289,4.4695359
+3921852348,node,Grain de Soleil,restaurant,Nîmes,"16 Avenue de l'Ecluse, 30630, Goudargues",30630,https://www.restaurantlegraindesoleil.fr/,44.2149445,4.4698953
+3921860182,node,Le Mûrier,restaurant,Nîmes,,,,44.2607647,4.4206848
+3984732413,node,Miyuki,restaurant,Nîmes,"Avenue de l'Europe, 30200, Bagnols-sur-Cèze",30200,,44.1659224,4.6191834
+4005753671,node,La Pataterie,restaurant,Nîmes,"145 Rue Michel Debré, 30900, Nîmes",30900,http://www.lapataterie.fr/par-ici-la-pataterie/la-pataterie-nimes,43.8141012,4.3681268
+4019678168,node,La Guinguette du Marché,restaurant,Nîmes,,,,43.5686512,4.1951072
+4019687128,node,L'Escale,restaurant,Nîmes,,,,43.568253,4.1916935
+4129960496,node,Fasthotel - Nimes,hotel,Nîmes,"2 Avenue de la Vistrenque, 30132, Caissargues",30132,,43.7976887,4.3834445
+4142492098,node,L'Enclos des Lauriers Roses,restaurant,Nîmes,,,,43.9044268,4.4706971
+4142492099,node,L'Enclos des Lauriers Roses,hotel,Nîmes,"71 Rue du 14 Juillet, 30210, Cabrières",30210,,43.9044401,4.4707342
+4160076089,node,L'Amarette,restaurant,Nîmes,"8 Avenue Jean Lasserre, 30240, Le Grau-du-Roi",30240,https://l-amarette.com/,43.5216208,4.1323143
+4179181711,node,La Reine toquée,restaurant,Nîmes,"2 Place du Château, 30820, Caveirac",30820,,43.825798,4.2608239
+4227958949,node,Le Blues Bar,restaurant,Nîmes,"5 Place du Jeu de Ballon, 30620, Bernis",30620,https://fr-fr.facebook.com/pages/category/Pizza-Place/Blues-Bar-Pizza-Bernis-914714391899315/,43.7655636,4.2876597
+4227958950,node,La Riviere Bleue,restaurant,Nîmes,,,,43.7656333,4.2877026
+4235443502,node,La Fontaine,restaurant,Nîmes,21 Place aux Herbes,,,44.0115146,4.4188998
+4237656690,node,,hotel,Nîmes,,,,43.838642,4.3686492
+4281933289,node,Hôtel Marguerittes,hotel,Nîmes,"Route Nationale 86, 30320, Marguerittes",30320,https://www.hotel-a-nimes.fr/,43.8595825,4.4254238
+4283669611,node,Le Pre Galoffre,hotel,Nîmes,"Route de generac, 30000, Nîmes",30000,,43.7884413,4.3545482
+4326734229,node,La Petite Île,restaurant,Nîmes,,,,43.8532066,4.6055182
+4329773489,node,Le Bouchon,restaurant,Nîmes,"13 Place du jeu de Paume, 30760, Aiguèze",30760,https://www.restaurant-lebouchon.com/,44.3028307,4.5559132
+4335735113,node,Ibis Nîmes Ouest,hotel,Nîmes,"268 Rue de l'Hostellerie, 30900, Nîmes",30900,https://all.accor.com/hotel/0629/index.fr.shtml,43.8140584,4.3442247
+4355106156,node,Le Saint-Gillois,hotel,Nîmes,,,,43.6739054,4.4324364
+4356999391,node,Appart'City,hotel,Nîmes,"1 Boulevard de Bruxelles, 30000, Nîmes",30000,https://www.appartcity.com/,43.8340742,4.3627333
+4471778866,node,Papa Rôti,restaurant,Nîmes,,,,43.5699021,4.1881561
+4718864871,node,Tasty,restaurant,Nîmes,,,,43.8684612,4.4389365
+4786448250,node,Naturabsolu,restaurant,Nîmes,10 Place Saint-Marc,,https://naturabsolu.fr/,43.9631661,4.7971522
+4845594021,node,,restaurant,Nîmes,,,,43.7388715,4.1813193
+4870673509,node,,restaurant,Nîmes,,,,44.0077906,4.417713
+4909069290,node,Le Petit Vestric,restaurant,Nîmes,,,,43.7407812,4.2599554
+4911380521,node,I Trulli,restaurant,Nîmes,"13 Place Saint-Louis, 30220",30220,,43.5669688,4.1897949
+4931407762,node,Pizza Di Roma,restaurant,Nîmes,"750 Chemin des Aiguillons, 30230, Bouillargues",30230,http://www.pizza-di-roma.com,43.792375,4.4337884
+4933378078,node,,restaurant,Nîmes,,,,44.1620689,4.6177259
+4951481651,node,Barancini,restaurant,Nîmes,"2 Place Bellecroix, 30000, Nîmes",30000,,43.8386457,4.3614106
+4974957654,node,La Saladelle Jo et Marion,restaurant,Nîmes,"4 Rue Henri Aubanel, 30660, Gallargues-le-Montueux",30660,https://www.facebook.com/La-saladelle-2021-jo-marion-110940154407013,43.720228,4.169628
+4986809922,node,Le gardéchois,restaurant,Nîmes,,,,44.2992061,4.5668581
+5041636506,node,Bambou Asia,restaurant,Nîmes,,,,43.7861974,4.1938323
+5095425221,node,,restaurant,Nîmes,,,,44.2199183,4.4804571
+5184858434,node,,restaurant,Nîmes,,,,44.1974444,4.656456
+5246113584,node,"Wine Bar ""Le Cheval Blanc""",restaurant,Nîmes,"1 Place des Arènes, 30000, Nîmes",30000,https://www.winebar-lechevalblanc.com/,43.8341162,4.3604852
+5250401332,node,,restaurant,Nîmes,,,,43.9778359,4.786596
+5257802791,node,Le Grenier,restaurant,Nîmes,,,,44.0236906,4.7940516
+5257802793,node,Les Glycines,restaurant,Nîmes,,,,44.0233453,4.7935206
+5314585609,node,Da Enzo,restaurant,Nîmes,20 Avenue Général Leclerc,,,43.954933,4.7901747
+5314616058,node,Les Romarins,restaurant,Nîmes,,,,43.9575657,4.7633712
+5314616062,node,Ermitage Avignon,hotel,Nîmes,,,,43.9591518,4.7727562
+5331516321,node,Chez Coco,restaurant,Nîmes,19 Grand' Rue Jean Jaurès,,https://www.chez-coco.com,43.5674341,4.1904788
+5354363633,node,La Magnaneraie,hotel,Nîmes,37 Rue du Camp de Bataille,,,43.9661388,4.7881722
+5401415164,node,La Cuisine du Boucher,restaurant,Nîmes,,,,44.0440382,4.4408892
+5401415165,node,Bar du Marché,restaurant,Nîmes,,,,44.0439784,4.4411279
+5409852071,node,Château de Saint-Victor,restaurant,Nîmes,,,,44.0414161,4.4839011
+5469780062,node,Le 7,restaurant,Nîmes,,,,43.9630788,4.7919086
+5518880564,node,"La Viguerie, Pizzeria",restaurant,Nîmes,,,,43.5661763,4.1929333
+5528458027,node,"La Bolee, creperie",restaurant,Nîmes,,,,44.013783,4.419705
+5531251837,node,Le Lotus d'Asie,restaurant,Nîmes,,,,43.9387321,4.5625229
+5538618192,node,Pizza du Duche,restaurant,Nîmes,"14 rue Jacques d'Uzès, 30700, Uzès",30700,https://pizzaduduche.weebly.com/,44.0129215,4.4192344
+5547242733,node,L‘École buissonière,restaurant,Nîmes,,,,44.0526138,4.7774675
+5551482756,node,A la maison,restaurant,Nîmes,,,,43.8156276,4.347378
+5679098882,node,Gumi Sushi,restaurant,Nîmes,,,,44.1759744,4.619631
+5688601829,node,Le Sicilien,restaurant,Nîmes,8 Avenue de Verdun,,,43.9583361,4.775071
+5688601831,node,Thaï Trucks,restaurant,Nîmes,5 Avenue de Verdun,,,43.9579538,4.775472
+5718168721,node,Le Jardin Gourmand,hotel,Nîmes,,,,44.1047009,4.6080233
+5736818030,node,La Baie d'Halong,restaurant,Nîmes,"5 Boulevard Victor Hugo, 30000, Nîmes",30000,https://www.labaiedhalongdenim.com/,43.8362874,4.3569978
+5789607824,node,Rest’O Gardon,restaurant,Nîmes,,,https://campingbellerive.fr/services-camping-bellerive-gard-30-4/,43.879802,4.5894505
+5834194238,node,Le Suite ...,restaurant,Nîmes,"223 Route des Marines, 30240, Le Grau-du-Roi",30240,,43.5141433,4.1248702
+5837960501,node,Chez Flore,restaurant,Nîmes,40 Boulevard des Carrières,,,43.9591006,4.7690608
+5837960509,node,La Strada,restaurant,Nîmes,,,,43.9588564,4.7561413
+5848146183,node,Farmers,restaurant,Nîmes,,,,43.8373638,4.3575755
+5888057651,node,La Locanda,restaurant,Nîmes,12,,,43.8376568,4.3565027
+5888057756,node,Largado,restaurant,Nîmes,"29 Rue de l'Horloge, 30000",30000,,43.8379042,4.3563896
+5893250514,node,Andiamo Pizza,restaurant,Nîmes,,,,44.0049952,4.7763256
+5893250534,node,Entre Vigne et Garrigue,restaurant,Nîmes,,,,43.9903921,4.77746
+5926634327,node,Roukinou,restaurant,Nîmes,"15 Place de l'Horloge, 30870, Clarensac",30870,https://www.facebook.com/Roukinou.N,43.8269743,4.2188137
+5936233593,node,Le Colombier,hotel,Nîmes,24 Avenue du Pont du Gard,,https://www.hotelrestaurant-pontdugard.fr/,43.9462185,4.5486596
+5948498515,node,Rajput,restaurant,Nîmes,"15 Rue de la Porte de France, 30900, Nîmes",30900,,43.8343075,4.357003
+5963505308,node,L'Épicerie,restaurant,Nîmes,"Place de la République, 30300, Beaucaire",30300,,43.8079452,4.6457806
+5980936391,node,La Crêpe Savante,restaurant,Nîmes,,,,43.786102,4.1935796
+6046969611,node,Café Du Centre,restaurant,Nîmes,,,,43.6422072,4.2977403
+6050562013,node,Les Glycines,restaurant,Nîmes,"8 Avenue Geoffroy Perret, 30210, Remoulins",30210,https://www.hotelrestaurantlesglycines.com/restaurant,43.9386288,4.5601074
+6123512890,node,Hôtel de la plage,hotel,Nîmes,,,,43.5352375,4.135961
+6134998043,node,Le Chalet des Vins,restaurant,Nîmes,,,,43.7482807,4.2547742
+6142577895,node,Trattoria Al Cantuccio,restaurant,Nîmes,,,,43.8101152,4.6430157
+6303008218,node,La Jasse,restaurant,Nîmes,,,,44.0005808,4.3732466
+6303008224,node,Café Restaurant de l'Univers,restaurant,Nîmes,,,,44.0003387,4.3722971
+6331084210,node,Euro d'Asie,restaurant,Nîmes,,,,43.8142751,4.6131753
+6358871934,node,Le Marie d'Agoult,restaurant,Nîmes,,,,43.9995206,4.3727557
+6358871935,node,Château hôtel d'Arpaillargues,hotel,Nîmes,"Rue du Château, 30700, Arpaillargues",30700,https://www.chateaudarpaillargues.com/,43.9995901,4.3726914
+6404125200,node,La Table du 2,restaurant,Nîmes,"2bis Rue de la République, 30000, Nîmes",30000,https://latabledu2.com/,43.8336088,4.3594642
+6409716811,node,Le Comptoir des Halles,restaurant,Nîmes,"5 Rue Guizot, 30000, Nîmes",30000,https://m.facebook.com/pages/Le-Comptoir-Des-Halles/129459690442396,43.8391846,4.3580467
+6467832728,node,Pizzeria du Grill,restaurant,Nîmes,,,,43.6279217,4.1920481
+6515090092,node,Les Templiers,restaurant,Nîmes,,,,43.5672621,4.1921787
+6525767733,node,Le Vivier,restaurant,Nîmes,,,,43.5382978,4.136944
+6525767734,node,Casa Lucho,restaurant,Nîmes,"2 Rue du Commandant Marceau, 30240, Le Grau-du-Roi",30240,,43.5377606,4.1371404
+6525767739,node,Il Gusto Italiano,restaurant,Nîmes,,,,43.5381495,4.1370164
+6547969961,node,Le Carpe Diem,restaurant,Nîmes,,,,43.7860329,4.1928788
+6612939329,node,Restaurant la Barge,restaurant,Nîmes,,,,43.8056535,4.6435118
+6618711948,node,Café Ernest,restaurant,Nîmes,,,https://www.restaurant-le-cafe-ernest-uzes.fr/,44.0132079,4.4182601
+6631225285,node,Le Comptoir des Explorateurs,restaurant,Nîmes,"8 Rue Régale, 30000, Nîmes",30000,,43.8359655,4.3606782
+6651207985,node,Pizzeria des 3 piliers,restaurant,Nîmes,"143 Route de Sauve, 30900, Nîmes",30900,,43.8376659,4.3260283
+6657059054,node,La Terrasse,restaurant,Nîmes,30210,30210,https://www.pontdugard.fr/fr/restauration,43.9481066,4.5383668
+6657836375,node,La Cabrette,restaurant,Nîmes,,,,44.092711,4.594837
+6658031654,node,L'Olivier,restaurant,Nîmes,,,,44.010792,4.417658
+6720548981,node,La Goulade café de pays,restaurant,Nîmes,Chemin des Granges,,http://lagouladecafe.fr/,44.1865311,4.3286346
+6758605485,node,La part du diable,restaurant,Nîmes,"Rue Le Corbusier, 30000",30000,,43.8362798,4.4263739
+6758959577,node,Wasabi,restaurant,Nîmes,,,,43.8095412,4.364261
+6759027282,node,Restaurant Jérome Nutile,restaurant,Nîmes,,,https://www.jerome-nutile.com/fr/,43.8210317,4.3712916
+6765405750,node,Empire Hotel,hotel,Nîmes,"1 Boulevard Étienne Saintenac, 30000, Nîmes",30000,,43.8404018,4.3630203
+6766223468,node,Le Pré en Bulle,restaurant,Nîmes,"88 ter Avenue Jean Jaurès, 30900, Nîmes",30900,https://www.restaurant-lepreenbulle-nimes.fr/,43.8273151,4.3527924
+6766238542,node,Ever'in,restaurant,Nîmes,"1 Place Séverine, 30000, Nîmes",30000,,43.8306801,4.3526464
+6768586591,node,Le Mas de Ponge,hotel,Nîmes,,,,43.8702153,4.30174
+6768630106,node,Auberge de l'Eau bouillie,hotel,Nîmes,,,,43.8535096,4.3406894
+6796575896,node,Le Panier Gourmand,restaurant,Nîmes,"3 Place de Mairie, 30630, Goudargues",30630,,44.2146697,4.4681274
+6822336742,node,Sandrine & Co,restaurant,Nîmes,,,,43.7052494,4.2689922
+6868010988,node,L'Arbousier,restaurant,Nîmes,"18 Rue de l'Horloge, 30000, Nîmes",30000,https://www.larbousier.net/fr,43.8381413,4.3570175
+6869650026,node,Le Lisita,restaurant,Nîmes,"2bis Boulevard des Arènes, 30000, Nîmes",30000,https://www.lelisita.com/,43.8356045,4.3591493
+6915272985,node,Le Chardonnay,restaurant,Nîmes,,,,43.9797939,4.4948507
+6924278688,node,Sawasdee,restaurant,Nîmes,,,,43.7830128,4.2017081
+6924326888,node,Lino,restaurant,Nîmes,,,,43.7826047,4.2038509
+6924327290,node,Kyky Sushi,restaurant,Nîmes,,,,43.7826652,4.2039752
+6927587085,node,Goûts et saveurs du midi,restaurant,Nîmes,,,,43.6762701,4.4312277
+6934442381,node,Aux Plaisirs des Halles,restaurant,Nîmes,"4 Rue Littré, 30000, Nîmes",30000,https://www.auxplaisirsdeshalles.com,43.8389929,4.3577927
+6934442382,node,L'Imprévu,restaurant,Nîmes,"6 Place d'Assas, 30900, Nîmes",30900,https://www.l-imprevu.com/,43.8388747,4.3544092
+6943694749,node,La damant bistrot chic,restaurant,Nîmes,"2 Boulevard Gambetta, 30000, Nîmes",30000,http://www.ledamant.fr/,43.8399869,4.3567906
+6947759911,node,SKAB,restaurant,Nîmes,"7 Rue de la République, 30000, Nîmes",30000,https://www.restaurant-skab.fr,43.8331524,4.3592903
+7022684062,node,La Bourse,restaurant,Nîmes,,,,44.1618644,4.622869
+7022684063,node,L'Atomic,restaurant,Nîmes,,,,44.1618452,4.6229897
+7022684064,node,L'Etincelle,restaurant,Nîmes,,,,44.1617942,4.6232298
+7022684065,node,Le Dap's,restaurant,Nîmes,,,,44.1617595,4.6234028
+7092509177,node,L'Aventure,restaurant,Nîmes,"16 Place du Marché, 30000, Nîmes",30000,,43.8361598,4.3586796
+7092509178,node,Le D K lé,restaurant,Nîmes,,,,43.837205,4.3569639
+7092509181,node,Le Palmier,restaurant,Nîmes,"18 Place du Marché, 30000, Nîmes",30000,https://www.tripadvisor.fr/Restaurant_Review-g187154-d5865582-Reviews-Le_Palmier-Nimes_Gard_Occitanie.html,43.8361172,4.3585689
+7095806601,node,Hôtel des remparts,hotel,Nîmes,,,,43.5679497,4.1901778
+7195369553,node,Cafétéria La Parenthèse,restaurant,Nîmes,,,,43.818353,4.3307433
+7217979689,node,Grand Buffet Wok,restaurant,Nîmes,,,,43.8194581,4.3474478
+7217979690,node,Le Siècle d'Or,restaurant,Nîmes,,,,43.819015,4.3490594
+7218000669,node,Le Bistronome,restaurant,Nîmes,,,,43.8137435,4.3481234
+7218008746,node,Marcellino,restaurant,Nîmes,,,,43.8141634,4.3505075
+7218097497,node,Pizza LaCoiffe,restaurant,Nîmes,,,,43.8641715,4.4359971
+7218097502,node,L'Olivado,restaurant,Nîmes,,,,43.8656083,4.441117
+7218097503,node,Le Chaudron,restaurant,Nîmes,,,,43.8662425,4.4412779
+7218628403,node,La Brandade,restaurant,Nîmes,,,,43.8165024,4.3460522
+7218630020,node,Restaurant du Grand Hôtel de Nîmes,restaurant,Nîmes,,,,43.8148119,4.3462332
+7221474408,node,Vintage la suite,restaurant,Nîmes,,,,43.822998,4.3648772
+7221523946,node,La Cave,restaurant,Nîmes,"2 Rue Notre-Dame, 30000, Nîmes",30000,,43.8363237,4.3637876
+7221523948,node,Nostradamus,restaurant,Nîmes,"17 Rue Notre-Dame, 30000, Nîmes",30000,,43.8368577,4.3650372
+7221523949,node,Le Vésuve,restaurant,Nîmes,,,,43.8367059,4.3649607
+7229109456,node,À la Belle Saison,restaurant,Nîmes,"12 Rue de l'Étoile, 30000",30000,,43.8366837,4.3577654
+7229115027,node,Hotel Plazza,hotel,Nîmes,Nîmes,,,43.8377463,4.3638183
+7229117917,node,Les Alizés,restaurant,Nîmes,"26 Boulevard Victor Hugo, 30000",30000,https://www.restaurant-les-alizes.com/,43.8363451,4.3574637
+7229117919,node,El Trio,restaurant,Nîmes,"27 Rue de l'Étoile, 30000, Nîmes",30000,https://el-trio-tapas-bar.business.site/,43.8362407,4.3584293
+7229117926,node,Le Chabanais,restaurant,Nîmes,"13 Rue de l'Étoile, 30900",30900,https://fr-fr.facebook.com/pages/category/Restaurant/Le-Chabanais-989263144496823/,43.836678,4.3579786
+7229117930,node,Dragon d'Orient,restaurant,Nîmes,"27 Rue de l'Étoile, 30000, Nîmes",30000,https://www.facebook.com/Restaurant-Dragon-dOrient-Nimes-101398111587733/,43.8362058,4.3584655
+7229117932,node,Le Frenchy,restaurant,Nîmes,"4 Rue de la Monnaie, 30000",30000,https://le-frenchy.zenchef.com/,43.8363538,4.3597501
+7229119432,node,Crêperie les 4 saisons,restaurant,Nîmes,"3 Rue des Greffes, 30000, Nîmes",30000,https://www.facebook.com/creperienimes/,43.8367476,4.3609638
+7229119434,node,Le Menestrel,restaurant,Nîmes,"3 Rue des Greffes, 30000, Nîmes",30000,,43.8367273,4.360886
+7229119436,node,Les Trois Bonheurs,restaurant,Nîmes,"5 Rue des Greffes, 30000, Nîmes",30000,,43.8368617,4.3613314
+7229119438,node,Plus Belle la Vie,restaurant,Nîmes,"4 Rue des Greffes, 30000, Nîmes",30000,https://www.facebook.com/plusbellelavierestaurantnimes/,43.836825,4.3612039
+7229119440,node,Le Bouchon des Greffes,restaurant,Nîmes,"18 Grand'Rue, 30000, Nîmes",30000,www.lebouchondesgreffes.eatbu.com,43.8370174,4.3621172
+7231724798,node,Vinh Phat,restaurant,Nîmes,"16 Boulevard Amiral Courbet, 30000, NIMES",30000,https://restaurantsvinhphat.business.site/,43.8379867,4.3632709
+7231829644,node,Le Fanfaron,restaurant,Nîmes,"6 Place de la Révolution, 30000, Nîmes",30000,https://www.lefanfaron.fr/,43.8405609,4.3550437
+7231934713,node,Le 11,restaurant,Nîmes,"11 Rue Émile Jamais, 30000, Nîmes",30000,,43.8355184,4.3533441
+7231951145,node,Vincent Croizard,restaurant,Nîmes,"17 Rue des Chassaintes, 30900, Nîmes",30900,https://www.restaurantcroizard.com/,43.8371755,4.352954
+7231951146,node,Le Garage,restaurant,Nîmes,"4 Rue Saint-Dominique, 30000, Nîmes",30000,,43.8376416,4.3513661
+7234166926,node,Il Mezzo,restaurant,Nîmes,,,,43.6845691,4.2088879
+7234343080,node,La Terna,restaurant,Nîmes,"6 Grand'Rue, 30000, Nîmes",30000,https://www.facebook.com/RestaurantLaterna.Nimes/,43.8382638,4.3614936
+7234343498,node,Les Folies Bouchères,restaurant,Nîmes,"22 Rue Curaterie, 30000, Nîmes",30000,https://fr.tripadvisor.ca/Restaurant_Review-g187154-d10496959-Reviews-Les_Folies_Boucheres-Nimes_Gard_Occitanie.html,43.8384902,4.3625367
+7234343499,node,Nicolas,restaurant,Nîmes,"1 Rue Poise, 30000, Nîmes",30000,www.restaurant-nicolas-nimes.com,43.8379755,4.3626923
+7248734301,node,Barns,restaurant,Nîmes,"9 Place d'Assas, 30000, Nîmes",30000,,43.8384757,4.3540152
+7248916245,node,Hôtel Vatel,hotel,Nîmes,,,,43.8205756,4.3193782
+7248945562,node,Les Enfants Denim,restaurant,Nîmes,"20 Rue Fresque, 30000",30000,https://lesenfantsdenim.bar/,43.8363871,4.358549
+7259534344,node,Pizzeria du vieux lavoir,restaurant,Nîmes,,,,43.9109849,4.5534661
+7259895564,node,Halles Auberge,restaurant,Nîmes,"5 Rue des Halles, 30000, Nîmes",30000,,43.8393229,4.3582946
+7265603251,node,Fo Ka Croc,restaurant,Nîmes,"53 Avenue Georges Pompidou, 30000, Nîmes",30000,Facebook,43.8365732,4.3458367
+7266237350,node,Le Petit Mas,restaurant,Nîmes,"25 Rue de la Madeleine, 30000",30000,https://m.facebook.com/pages/le-petit-mas-nimes/305948416147793,43.8373916,4.3576431
+7266237357,node,L'Atypique,restaurant,Nîmes,,,,43.8372827,4.3574876
+7365561106,node,La Reine toquée,restaurant,Nîmes,,,,43.8259911,4.2604563
+7388560711,node,La Petite Cuillère,restaurant,Nîmes,1 Square Dagmar Silhol,,http://cuillere-et-annexe.com/restaurant-la-petite-cuillere-villeneuve-les-avignon/,43.9635748,4.7995492
+7393614278,node,Pizza du Pont,restaurant,Nîmes,,,,43.8470446,4.3958026
+7400302127,node,Chez Tata,restaurant,Nîmes,,,,43.8158952,4.3201267
+7400425427,node,Le Potager,restaurant,Nîmes,,,,43.8303017,4.3696665
+7403781862,node,La Tosca,restaurant,Nîmes,,,,43.8574715,4.4033975
+7409276346,node,L'Olive Noire,restaurant,Nîmes,,,,43.831639,4.3575169
+7409276348,node,Restaurant Dao Vien,restaurant,Nîmes,"31 Rue de la République, 30000, Nîmes",30000,,43.8315248,4.3574418
+7505661101,node,Domaine du Grand Malherbes ****,hotel,Nîmes,,,,43.6582143,4.206931
+7538434466,node,Flunch,restaurant,Nîmes,,,,43.8170358,4.3423017
+7539412373,node,La Cité,restaurant,Nîmes,,,,43.8308458,4.3692717
+7552243564,node,Aubais Plage,restaurant,Nîmes,,,,43.7380842,4.142528
+7572019516,node,L'industrie,restaurant,Nîmes,,,,44.0606854,4.6405981
+7667005893,node,Hôtel de l'Amphithéâtre,hotel,Nîmes,"4 Rue des Arènes, 30000, Nîmes",30000,,43.8358676,4.358974
+7667028944,node,Le Clos des Capitelles,hotel,Nîmes,"37 Avenue Robert de Joly, 30620, Uchaud",30620,,43.7576569,4.270154
+7670780633,node,Domaine des Clos,hotel,Nîmes,"911 Chemin du Mas de la Tour, 30300, Beaucaire",30300,,43.774579,4.5596147
+7670832335,node,Hôtel Héraclée,hotel,Nîmes,"30 Quai du Canal, 30800, Saint-Gilles",30800,,43.6744482,4.4351988
+7670899150,node,Best Western L'Orangerie,hotel,Nîmes,"755 Rue de la Tour de l'Evêque, 30000, Nîmes",30000,https://www.bestwestern.fr/en/hotel-Nimes-Best-Western-L-Orangerie-93483,43.8252445,4.3702602
+7671723085,node,La Vieille Fontaine,restaurant,Nîmes,"9 Rue du Château, 30630",30630,,44.2245416,4.4870294
+7672754864,node,Bec à Vin,restaurant,Nîmes,,,,44.0122239,4.4195513
+7688216269,node,Le Pharos,restaurant,Nîmes,"227 Route des Marines, 30240, Le Grau-du-Roi",30240,,43.5186984,4.1243487
+7710513552,node,Le Mouton Noir,restaurant,Nîmes,"30760, Issirac",,https://www.le-mouton-noir.com/,44.2699973,4.4760139
+7717368813,node,Le Pinocchio,restaurant,Nîmes,,,,43.8871,4.189337
+7751940785,node,La cuisine des filles,restaurant,Nîmes,,,,44.0110077,4.4187327
+7784852680,node,Aux Délices de la Mer,restaurant,Nîmes,"Route des Marines, 30240, Le Grau-du-Roi",30240,https://aux-delices-de-la-mer.edan.io/,43.5139326,4.138967
+7791901654,node,Vins De Nos Pères,restaurant,Nîmes,"150 Route de Nîmes, 30900, Caissargues",30900,http://www.vinsdenosperes.com,43.801432,4.3746182
+7791905243,node,Les Aubades,restaurant,Nîmes,"182 Rue de Banloux, 30640, Beauvoisin",30640,https://www.lesaubades.fr,43.7179479,4.3273373
+7791952110,node,Le Jardin Secret,restaurant,Nîmes,"16 Avenue François Griffeuille, 30800, Saint Gilles",30800,https://le-jardin-secret.zenchef.com/,43.6731537,4.4319091
+7791983254,node,Restaurant le Robinson,restaurant,Nîmes,,,,43.8236784,4.6262749
+7791987089,node,Les Olivades,restaurant,Nîmes,"1 Rue des Trois Maures, 30000, Nîmes",30000,,43.8345286,4.3581649
+7808001885,node,Nivu Niconnu,restaurant,Nîmes,,,,43.5692081,4.1900102
+7816199785,node,La Pinède,restaurant,Nîmes,"Route d'Arles, 30220",30220,,43.5823672,4.2076479
+7844725057,node,Crêperie La Terre Est Ronde,restaurant,Nîmes,,,https://www.creperie-la-terre-est-ronde.com/,43.7541631,4.5138636
+7865562993,node,L'oasis,restaurant,Nîmes,"4 Avenue de l'Hermione, 30240, Le Grau-du-Roi",30240,,43.5194231,4.1408432
+7937494185,node,Bonnaure Nadine et Marion,restaurant,Nîmes,"Lieu-dit Mas Neuf, 30580",30580,,44.150617,4.362003
+7938167385,node,Maison Gramme,restaurant,Nîmes,"Place des Marronniers, 30580",30580,https://maisongramme.fr/,44.1533739,4.3661142
+7943164480,node,L'Esplanade,restaurant,Nîmes,,,,43.7848929,4.0876186
+7986907489,node,Restaurant la Source,restaurant,Nîmes,,,,43.7670309,4.0985854
+7995162778,node,Restaurant La Canopée - Château de Pondres,restaurant,Nîmes,,,,43.8076845,4.090295
+7995765294,node,Chez Tibère,restaurant,Nîmes,,,,43.7827021,4.0876572
+7995800743,node,Bab Mansour,restaurant,Nîmes,,,,43.7844928,4.0889005
+8035899669,node,Le Mercadante,restaurant,Nîmes,"4 Boulevard Gambetta, 30000, Nîmes",30000,http://mercadante.free.fr/index.php,43.8399853,4.3569872
+8115290241,node,Impertor,restaurant,Nîmes,"15 Rue Gaston Boissier, 30000, Nîmes",30000,https://www.maison-albar-hotels-l-imperator.com/,43.8386128,4.3526313
+8115293210,node,Bistrot de tatie Agnès,restaurant,Nîmes,"16 Rue de la Maison Carrée, 30000",30000,https://www.facebook.com/Le-Bistrot-de-Tatie-Agn%C3%A8s-114746393549896/,43.8377383,4.3564657
+8115338211,node,Sensoriau,restaurant,Nîmes,"60 Rue de la Porte de France, 30000, Nîmes",30000,,43.8324426,4.3577467
+8115361520,node,The Bird,restaurant,Nîmes,"2 Rue Tedenat, 30000, Nîmes",30000,https://www.facebook.com/thebirdnimes/,43.8361665,4.3563555
+8115420294,node,Pizzeria du Grand Couvent,restaurant,Nîmes,"28 Rue du Grand Couvent, 30000, Nîmes",30000,https://www.pgcnimes.fr/,43.8393799,4.3569342
+8116235170,node,La Marmitte,restaurant,Nîmes,"13 Rue de l'Agau, 30000, Nîmes",30000,https://lamarmite.business.site/,43.8394518,4.3566059
+8116246572,node,Chez Yo,restaurant,Nîmes,"5 Rue de l'Agau, 30000, Nîmes",30000,https://www.facebook.com/restaurantchezyo/,43.8395513,4.3575509
+8116314372,node,Enoteca Shop,restaurant,Nîmes,"18 Rue de la Madeleine, 30000",30000,www.enotecashop.fr,43.837791,4.3583784
+8116402585,node,Pinnochio,restaurant,Nîmes,"29 Rue de la Madeleine, 30000",30000,,43.8372305,4.3574009
+8123683533,node,La flambée,restaurant,Nîmes,"3 Rue Fresque, 30000",30000,https://www.tripadvisor.fr/Restaurant_Review-g187154-d3672497-Reviews-Creperie_La_Flambee-Nimes_Gard_Occitanie.html,43.8373765,4.3578156
+8123826596,node,Bistro l'estanco,restaurant,Nîmes,"9 Rue Fresque, 30000",30000,,43.8368727,4.3580893
+8123833958,node,Menna,restaurant,Nîmes,"7 Rue de Bernis, 30000",30000,,43.8368777,4.3582148
+8123919660,node,Le Passage,restaurant,Nîmes,"15 Rue Fresque, 30000",30000,,43.8367657,4.3584205
+8123969235,node,,restaurant,Nîmes,12 Rue Fresque,,,43.8367741,4.3581516
+8196347925,node,,restaurant,Nîmes,,,,44.036224,4.325237
+8197457666,node,,restaurant,Nîmes,,,,43.9670875,4.2714403
+8201219809,node,Poum and Cow,restaurant,Nîmes,"42 Avenue Carnot, 30000, Nîmes",30000,,43.8340211,4.3669337
+8201261831,node,Brasserie des Fleurs,restaurant,Nîmes,"18 Avenue Feuchères, 30000, Nîmes",30000,https://brasseriedesfleurs.wixsite.com/labrasserie,43.8325003,4.3656037
+8201325077,node,L'Unik,restaurant,Nîmes,"73 Avenue Jean Jaurès, 30900, Nîmes",30900,,43.8262072,4.3540372
+8205475715,node,Sushi One,restaurant,Nîmes,"96 Avenue Jean Jaurès, 30900, Nîmes",30900,https://www.sushionenimes.fr/,43.8264694,4.3530544
+8205494303,node,Povo,restaurant,Nîmes,"52 Bis Avenue Jean Jaurès, 30900, Nîmes",30900,https://restaurant-povo.fr/,43.8333713,4.3510171
+8212404410,node,Kyoto Sushi,restaurant,Nîmes,"6 Boulevard Amiral Courbet, 30000, Nîmes",30000,https://kyotosushi.fr/,43.837057,4.3629969
+8218575631,node,Pizza Hut,restaurant,Nîmes,,,,43.8237846,4.347995
+8218650860,node,Chez Hubert,restaurant,Nîmes,"2 Boulevard des Arènes, 30000, Nîmes",30000,,43.8354439,4.3589891
+8218699261,node,Brasserie des Arénes,restaurant,Nîmes,"4 Boulevard des Arènes, 30000, Nîmes",30000,http://brasseriedesarenes.fr/menu.html,43.8354988,4.3590669
+8219656520,node,La Méditerranée,restaurant,Nîmes,"21 Boulevard Gambetta, 30000, Nîmes",30000,,43.8406825,4.3605545
+8303116280,node,Restaurant O’banel,hotel,Nîmes,"1 Rue Fanfonne Guillierme, 30660, Gallargues-le-Montueux",30660,,43.7216508,4.1710809
+8310757327,node,Le Mauricette,restaurant,Nîmes,"24 Boulevard Victor Hugo, 30000, Nîmes",30000,https://www.facebook.chttps://www.tripadvisor.fr/Restaurant_Review-g187154-d14105976-Reviews-Le_Mauricette-Nimes_Gard_Occitanie.htmlom/LeMauricette-353026788437338/,43.8362787,4.3575807
+8323980016,node,La Guinguette,restaurant,Nîmes,"2 Route d'Uzès, 30190, Dions",30190,,43.9335944,4.2962264
+8383166614,node,La Patio Littré,restaurant,Nîmes,"10 Rue Littré, 30000, Nîmes",30000,https://restaurant-patio-littre-nimes.com/,43.8389228,4.3574622
+8383260449,node,Les délices de lola,restaurant,Nîmes,"9 Rue des Fourbisseurs, 30000, Nîmes",30000,https://www.lesdelicesdelola.fr/,43.8363949,4.3613657
+8383288102,node,Le Brennus,restaurant,Nîmes,"10 Place du Marché, 30000, Nîmes",30000,https://fr-fr.facebook.com/brennus.fr/,43.8362815,4.3589429
+8383547241,node,Le Chef Raphael,restaurant,Nîmes,"25 Rue de l'Hotel-Dieu, 30900, Nîmes",30900,https://www.lechefraphael.fr/,43.8334736,4.3550669
+8420148418,node,Le Petit Gourmand,restaurant,Nîmes,"5 Place de la République, 30240",30240,,43.535918,4.1370503
+8420150917,node,Brasserie l'Horizon,restaurant,Nîmes,30240,30240,,43.5362675,4.1370627
+8432670132,node,Le Tamaris,restaurant,Nîmes,"13 Rue Victor Hugo, 30740, Le Cailar",30740,http://www.restaurantletamaris.com,43.6747392,4.2367845
+8506239215,node,Paseotacos,restaurant,Nîmes,,,,43.8490373,4.6298326
+8541958420,node,Best Buffet,restaurant,Nîmes,385 Route de Nîmes,,,43.8164281,4.6181495
+8610446683,node,Le Relais du Canard,restaurant,Nîmes,,,,43.826198,4.4945674
+8656093239,node,O'BPM,restaurant,Nîmes,"1 Place des Halles, 30660, Gallargues-le-Montueux",30660,https://www.facebook.com/OBPM-Burgers-Pizzas-Music-108618873895958,43.7215541,4.1743115
+8700392363,node,Hôtel des Tuileries,hotel,Nîmes,"22 Rue Roussy, 30000, Nîmes",30000,https://www.hoteldestuileries.com/,43.8364087,4.3647566
+8714465287,node,Brasserie du Midi Café,restaurant,Nîmes,"Rue des Médards, 30240, Le Grau-du-Roi",30240,,43.540869,4.1363342
+8714494044,node,Splendid,restaurant,Nîmes,"21 Boulevard Maréchal Juin, 30240, Le Grau-du-Roi",30240,,43.5343082,4.1369609
+8714584393,node,Fidji,restaurant,Nîmes,"Rond-Point du Trident, 30240, Le Grau-du-Roi",30240,https://fidji-restaurant.business.site,43.5142298,4.1390655
+8714969184,node,Le Deck by Spinaker,restaurant,Nîmes,"Voie de la Pointe du Môle, 30240, Le Grau-du-Roi",30240,https://www.spinaker.com/le-rooftop-the-deck/le-restaurant,43.5193555,4.1358608
+8726250794,node,Appart'City,hotel,Nîmes,,,https://www.appartcity.com/fr/destinations/languedoc-roussillon/nimes/nimes.html,43.8212934,4.3643608
+8733413118,node,La tomate bleue,restaurant,Nîmes,,,,44.0115734,4.4147649
+8735827618,node,Pizza du bois des Espeisses,restaurant,Nîmes,,,,43.8578507,4.3310623
+8749366782,node,Victoria,restaurant,Nîmes,"2 Rue Cremieux, 30000, Nîmes",30000,,43.8389648,4.3611768
+8755266298,node,La Cabane du Pêcheur,restaurant,Nîmes,"90 Rue des Iris, 30240, Le Grau-du-Roi",30240,,43.5434937,4.1316977
+8757685137,node,La Table de L'Oustau,restaurant,Nîmes,"3 Route des Marines, 30240, Le Grau-du-Roi",30240,https://www.oustaucamarguen.com/65-le-restaurant.html,43.5115808,4.1372019
+8757685138,node,Oustau Camarguen,hotel,Nîmes,"3 Route des Marines, 30240, Le Grau-du-Roi",30240,,43.5117503,4.1375048
+8808928588,node,Aux saveurs de Fabiola,restaurant,Nîmes,"964 Avenue de Camargue, 30240, Le Grau-du-Roi",30240,,43.5289608,4.1482882
+8809147844,node,A M'en Donné,restaurant,Nîmes,"1291 Avenue de Camargue, 30240, Le Grau-du-Roi",30240,,43.5278733,4.1496052
+8821623417,node,Guinguette de Franquevaux,attraction,Nîmes,,,,43.6469155,4.348688
+8829712296,node,Brasserie La Farigoule,restaurant,Nîmes,"4 Impasse de la Malautière, 30250, Sommières",30250,http://www.brasserie-la-farigoule.com,43.7806442,4.0796255
+8848151379,node,Villa Héloïse,restaurant,Nîmes,"39 Place de la Libération, 30250",30250,,43.7814657,4.0869745
+8927626865,node,Le Gard'Manger,restaurant,Nîmes,,,http://legardmanger.fr/,43.754116,4.5137378
+8930315515,node,Oh Mamma Mia,restaurant,Nîmes,"148 Rue Jean Lauret, 30900, Nîmes",30900,,43.8095958,4.3596202
+8983239917,node,NEKO MARU,restaurant,Nîmes,"12 Rue Jean Reboul, 30000, Nîmes",30000,https://www.nekomaru.fr/,43.8345852,4.358031
+8993576827,node,Le Restaurant des Potiers,restaurant,Nîmes,,,,44.0460559,4.4404436
+8994015317,node,Epicerie et Taverne,restaurant,Nîmes,,,,44.3031121,4.5564727
+8998251243,node,Les 3 Canards,restaurant,Nîmes,,,,44.0109619,4.4193462
+9006341937,node,L'Effet Mer,restaurant,Nîmes,"223 Route des Marines, 30240, Le Grau-du-Roi",30240,https://l-effet-mer.business.site,43.5136106,4.1246192
+9006341938,node,Côté Plage,restaurant,Nîmes,"223 Route des Marines, 30240, Le Grau-du-Roi",30240,,43.5138664,4.124666
+9006341939,node,Le Moaï,restaurant,Nîmes,"223 Route des Marines, 30240, Le Grau-du-Roi",30240,,43.5141481,4.1247426
+9017967717,node,La Maison,restaurant,Nîmes,,,,44.0792626,4.5775303
+9018427983,node,L'atelier selon Freddy,restaurant,Nîmes,Rue du Grand Montagné,,,43.9593431,4.7565831
+9038846601,node,Marina Beach,restaurant,Nîmes,"250 Route des Marines, 30240, Le Grau-du-Roi",30240,,43.5158111,4.1233369
+9039724013,node,Le Moment,restaurant,Nîmes,"Rue du Pic Saint-Loup, 30240, Le Grau-du-Roi",30240,https://lemoment.fr,43.5484382,4.1234002
+9043937335,node,Le Mistral,restaurant,Nîmes,,,,43.5683354,4.1948544
+9050433876,node,L'Acte 2,restaurant,Nîmes,"196 Rue de Carrière Vieille, 30190, Saint-Chaptes",30190,https://restaurantlacte2.com/,43.9669503,4.2774129
+9055745990,node,M'plage,restaurant,Nîmes,"227 Route des Marines, 30240, Le Grau-du-Roi",30240,,43.5174,4.123199
+9063773722,node,Le Grand Sud,hotel,Nîmes,"45 Quai Colbert, 30240, Le Grau-du-Roi",30240,,43.5370451,4.137335
+9064081050,node,Oh Frère de la Côte!,restaurant,Nîmes,"58 Quai du Général Charles de Gaulle, 30240, Le Grau-du-Roi",30240,,43.5379233,4.1375485
+9111391114,node,Pasta Minute,restaurant,Nîmes,,,,43.7975352,4.3825106
+9134502360,node,Côté Sushi,restaurant,Nîmes,"8 Boulevard Alphonse Daudet, 30000, Nîmes",30000,https://cotesushi.com/,43.8389845,4.3554761
+9154197018,node,BOSC Traiteur,restaurant,Nîmes,5 Rue des halles,,,43.8391196,4.3585898
+9160569754,node,Huitrerie Saint-Jean,restaurant,Nîmes,"8 Avenue Jean Lasserre, 30240, Le Grau-du-Roi",30240,https://www.huitrerie-st-jean.com,43.5207934,4.131786
+9160569755,node,La Provençale,restaurant,Nîmes,"8 Avenue Jean Lasserre, 30240, Le Grau-du-Roi",30240,,43.5212049,4.1325914
+9161083427,node,La Crêperie du Grau-du-Roi,restaurant,Nîmes,"3 Rue Étienne Bonnèze, 30240, Le Grau-du-Roi",30240,https://www.lacreperiedugrau.com,43.537035,4.1375379
+9164082118,node,Le Pt'it Mercier,restaurant,Nîmes,"Route de Bagnols, 30700",30700,,44.0236745,4.4670527
+9168344465,node,La Guinguette,restaurant,Nîmes,,,,43.5669963,4.1918583
+9204888598,node,Le Patio de Léa,restaurant,Nîmes,,,,43.7187549,4.3212026
+9204888599,node,Chez Malika,restaurant,Nîmes,,,https://www.chezmalika.fr/,43.7190733,4.3210192
+9253848989,node,The One,restaurant,Nîmes,"145 Boulevard du Sergent Triaire, 30000, Nîmes",30000,https://the-one-nimes.eatbu.com/?lang=fr,43.8295206,4.3622554
+9329555293,node,La Pôse Bistrot,restaurant,Nîmes,"1121 Route de Nîmes, 30220, Aigues-Mortes",30220,https://laposebistrot.fr,43.5778973,4.1985199
+9331809101,node,Hôtel Lou Garbin,hotel,Nîmes,"210 Avenue des Jardins, 30220, Saint-Laurent-d'Aigouze",30220,https://www.lou-garbin.com,43.6323557,4.1913239
+9377693251,node,Cha U Kao,restaurant,Nîmes,,,,43.6173776,4.2050643
+9387878182,node,Le Galion,restaurant,Nîmes,,,,43.5664052,4.1913541
+9387878183,node,La Gourmandine,restaurant,Nîmes,,,,43.5664279,4.1912801
+9472274081,node,Chez Nico,restaurant,Nîmes,,,,44.105935,4.6592712
+9507854166,node,Le Dit Vin,restaurant,Nîmes,,,http://www.restoleditvin.com/,43.5676868,4.1901218
+9567955462,node,La Casa Di Mora,restaurant,Nîmes,"35 Rue des Anciennes Écoles, 30330, Saint-Marcel-de-Careiret",30330,,44.143643,4.4881672
+9601946418,node,La Table d'Azor,restaurant,Nîmes,,,,44.1495368,4.3626551
+9606518480,node,Les Escaravats,restaurant,Nîmes,"1 Rue des Escaravats, 30210, Remoulins",30210,https://restaurant-lesescaravats.eatbu.com/,43.9400953,4.5596193
+9609207996,node,duende,restaurant,Nîmes,,,https://www.maison-albar-hotels-l-imperator.com/fr/page/restaurant-gastronomique-nimes.5196.html,43.8386344,4.3528378
+9631567805,node,Le Bistrot des Frangins,restaurant,Nîmes,"135 Avenue de la Vistrenque, 30132, Caissargues",30132,https://le-bistrot-des-frangins.business.site/,43.7965839,4.3831476
+9652592430,node,Cafet' La Pinède,restaurant,Nîmes,,,,43.8433422,4.3568382
+9720922137,node,Restaurant du Lavoir,restaurant,Nîmes,,,,43.8159599,4.12414
+9772831758,node,A La Bonne Table,restaurant,Nîmes,,,,44.2219945,4.4624796
+9776549617,node,Barque Bleue,restaurant,Nîmes,,,,43.5358738,4.1376268
+9779398953,node,Brasserie des Arts,restaurant,Nîmes,,,,43.8083897,4.6459009
+9779398956,node,La Terrasse,restaurant,Nîmes,,,,43.8081617,4.6457281
+9779398958,node,Petit resto,restaurant,Nîmes,,,,43.8079613,4.6459331
+9779398964,node,Le Napoléon,hotel,Nîmes,,,,43.8073015,4.6474637
+9779398981,node,La Place,restaurant,Nîmes,,,,43.807417,4.6439209
+9779398988,node,Simple,restaurant,Nîmes,,,,43.807413,4.6438387
+9779424277,node,Brasserie du Pont,restaurant,Nîmes,,,,43.8052774,4.6477975
+9779424280,node,Vintage,restaurant,Nîmes,,,,43.805457,4.6465214
+9779424281,node,Mogador du Port,restaurant,Nîmes,,,,43.8054705,4.6464148
+9779424282,node,Le Bistrot italien,restaurant,Nîmes,"30 Quai Général de Gaulle, 30300, Beaucaire",30300,https://www.le-bistrot-italien-restaurant-beaucaire.com/,43.8054981,4.6462391
+9779424283,node,Brasserie du Canal,restaurant,Nîmes,,,,43.8055359,4.6459695
+9779424286,node,Du Nord au Sud,restaurant,Nîmes,,,,43.8056351,4.6452943
+9779477780,node,Les Doctrinaires,hotel,Nîmes,,,,43.8066922,4.6402181
+9779477801,node,Le Patio fleuri,restaurant,Nîmes,,,,43.8070056,4.6384473
+9780196101,node,Oyaki,restaurant,Nîmes,,,,43.807333,4.6380088
+9780196104,node,Brasserie Les Fontêtes,restaurant,Nîmes,,,,43.8075746,4.6384828
+9792224015,node,La Louisia,restaurant,Nîmes,,,,44.0576564,4.7104857
+9792224016,node,Les jardins du Tesan,restaurant,Nîmes,,,,44.0560912,4.7117249
+9816632919,node,Twenty Campus,hotel,Nîmes,,,https://www.twenty-campus.com/fr/residences/twenty-campus-nimes/,43.8313406,4.3674946
+9820182890,node,Maison Comte,restaurant,Nîmes,"19 Le Portalet, 30700, Uzès",30700,,44.011206,4.4206522
+9820182891,node,La Maison d'Uzès,hotel,Nîmes,"18 Rue du Docteur Blanchard, 30700, Uzès",30700,https://www.lamaisonduzes.fr/,44.0127969,4.4211537
+9841456752,node,Pizza Roll,restaurant,Nîmes,,,,43.9781198,4.787916
+9873202431,node,Le bistrot de capuget,restaurant,Nîmes,1800 Chemin de Campuget,,,43.8006331,4.5058894
+9907956885,node,Empanadas Club,restaurant,Nîmes,"11 Rue Xavier Sigalon, 30000, Nîmes",30000,https://www.empanadasclub.com/empanadas-club-nimes-restaurant-argentin,43.8392632,4.3614573
+9907956886,node,L'Esclafidou - La Table du Cap,restaurant,Nîmes,"7 Rue Xavier Sigalon, 30000, Nîmes",30000,https://www.lesclafidou-latableducap-nimes.fr/,43.839158,4.3614131
+9907956887,node,Les Magnolias,restaurant,Nîmes,,,https://www.restaurantlesmagnolias.fr/,43.8391963,4.3618658
+9908281510,node,GAMEL,restaurant,Nîmes,"8 Rue Xavier Sigalon, 30000, Nîmes",30000,,43.8390971,4.3614935
+9909381021,node,,restaurant,Nîmes,,,,43.8745716,4.4663215
+9934311317,node,Guinguette Cèze ô soleil,restaurant,Nîmes,"Hameau de, Monteil, 30630, Montclus",30630,,44.2744882,4.4132524
+10060608076,node,Les Halles Solanid,restaurant,Nîmes,,,https://halles-solanid.fr/,43.8328253,4.3663928
+10087380623,node,Lodge Club,restaurant,Nîmes,,,,43.5057465,4.1383186
+10087380625,node,L'Octopus,restaurant,Nîmes,,,,43.5095662,4.136382
+10101909703,node,Chambre d’hôtes La Maison du Mole,hotel,Nîmes,,,,43.5520065,4.1679922
+10277704725,node,Brasserie Croix du Sud,restaurant,Nîmes,,,,43.5338241,4.1375527
+10280178885,node,La Fabrique,restaurant,Nîmes,"17 Boulevard du Maréchal Juin, 30240, Le Grau-du-Roi",30240,,43.534662,4.1365196
+10284704925,node,L'Encierro,restaurant,Nîmes,,,,43.5368714,4.137529
+10290402162,node,Ibis Kitchen Lounge,restaurant,Nîmes,,,,43.8141534,4.3441547
+10553102209,node,Bambino,restaurant,Nîmes,35 Avenue Gabriel Péri,,,43.9579062,4.7969206
+10656048026,node,Les petites mains,restaurant,Nîmes,,,,44.0139491,4.4176665
+10681444544,node,Le Bienheureux,restaurant,Nîmes,,,,44.2274864,4.6217289
+10705125056,node,Le Bistro des Clem's,restaurant,Nîmes,"7 Avenue Gaston Doumergue, 30130, Pont-Saint-Esprit",30130,,44.2545529,4.6478809
+10712450512,node,Le patio,restaurant,Nîmes,"17 Boulevard Gambetta, 30130, Pont-Saint-Esprit",30130,,44.2572282,4.6475136
+10712948860,node,Café Le Marseillais,restaurant,Nîmes,"32 Rue des Trois Journées, 30130, Pont-Saint-Esprit",30130,https://cafe-marseillais-pont-saint-esprit.eatbu.com,44.2577914,4.6481912
+10712948863,node,Café des Fleurs,restaurant,Nîmes,"29 Rue des Trois Journées, 30130, Pont-Saint-Esprit",30130,,44.2576354,4.6481475
+10712948882,node,Hôtel du Commerce,hotel,Nîmes,"1 Rue Etroite, 30130, Pont-Saint-Esprit",30130,http://hotelducommerce30.free.fr,44.2556793,4.6480648
+10717327201,node,La Bourse,restaurant,Nîmes,"7 Place de la République, 30130, Pont-Saint-Esprit",30130,https://la-bourse.eatbu.com,44.2552272,4.648081
+10717386612,node,Istanbul Restaurant,restaurant,Nîmes,"9 Rue de la Liberté, 30130, Pont-Saint-Esprit",30130,,44.2546933,4.6490483
+10717386630,node,Plaisir & Bien-être,restaurant,Nîmes,"70 Avenue Gaston Doumergue, 30130, Pont-Saint-Esprit",30130,,44.2553656,4.647123
+10724295630,node,Mas de l'Olivier,restaurant,Nîmes,"1475 Avenue Général de Gaulle, 30130, Pont-Saint-Esprit",30130,https://www.mas-olivier.com/restaurant/,44.2426469,4.6424854
+10754005068,node,Hill Grill,restaurant,Nîmes,"210 Route d'Aigues Vives, 30420, Calvisson",30420,,43.7583845,4.1974207
+10804540655,node,Domaine Saint-Pancrace,hotel,Nîmes,,,http://www.domainepancrace-adpjuniors.com/,44.2691428,4.6263733
+10807990770,node,Upper Pizza,restaurant,Nîmes,,,,43.7067586,4.268319
+10807990772,node,Restaurant-brasserie Le Cartel,restaurant,Nîmes,"Avenue du Mas Saint-Laurent, 30600, Vauvert",30600,https://brasserielecartel.fr,43.7059143,4.2686845
+10811325549,node,Pizza au feu de bois,restaurant,Nîmes,,,,43.6949854,4.2739555
+10832164606,node,Le coin,restaurant,Nîmes,"8 Rue Jean Reboul, 30900",30900,,43.8347321,4.3580864
+10833658030,node,L’Assiette Amoureuse,restaurant,Nîmes,"11 Rue Victor Granier, 30240, Le Grau-du-Roi",30240,,43.5357204,4.1372824
+10881560179,node,French Touch,restaurant,Nîmes,,,,43.8552468,4.402394
+10881560180,node,Léopard,restaurant,Nîmes,,,,43.8548769,4.4020457
+10951805380,node,Le Spot,restaurant,Nîmes,,,,43.519676,4.1403146
+10975930017,node,Les mets chantent,restaurant,Nîmes,,,,43.9522172,4.4784524
+10975949766,node,Le château,restaurant,Nîmes,,,,43.9532255,4.4762484
+10975955491,node,Le castellas,restaurant,Nîmes,,,,43.9542077,4.4761211
+10975955563,node,,restaurant,Nîmes,,,,43.956584,4.4845434
+10975970565,node,Le castellas,hotel,Nîmes,,,,43.9542041,4.4761944
+11042726267,node,La Maisonnée,restaurant,Nîmes,,,,43.8375955,4.3600424
+11042741367,node,Hôtel Chouleur Margaret,hotel,Nîmes,,,https://www.margaret-hotelchouleur.com/,43.8369609,4.3580027
+11042750013,node,Léone,restaurant,Nîmes,,,,43.8385045,4.3586906
+11050827835,node,Crêperie Nationale,restaurant,Nîmes,,,,43.8077749,4.6445395
+11063194520,node,Chez Papé et Mamé,restaurant,Nîmes,,,,43.9747631,4.6911027
+11065912310,node,Boulangerie Ange,restaurant,Nîmes,,,,43.8160959,4.3478113
+11069711479,node,,restaurant,Nîmes,,,,43.6929561,4.6109069
+11073908167,node,Maréchal Grill,restaurant,Nîmes,,,,43.8228998,4.3510124
+11073935075,node,Le Vieux Grill,restaurant,Nîmes,,,,43.8212549,4.3481046
+11073939182,node,Pasta Pizza,restaurant,Nîmes,,,,43.8292283,4.3555754
+11076955682,node,Les Collègues,restaurant,Nîmes,,,,43.8231722,4.3518563
+11078835367,node,Italia Mia,restaurant,Nîmes,35 rue du Cirque Romain,,https://italia-mia.fr,43.8319225,4.3534381
+11078867231,node,,restaurant,Nîmes,,,,43.8354628,4.3562918
+11079112393,node,Pizza Cosy,restaurant,Nîmes,"2 Rue de la Cité Foulc, 30000",30000,https://pizzerias.pizzacosy.fr/nimes-arenes/,43.8336826,4.3599236
+11079135625,node,Le Mont Liban,restaurant,Nîmes,3 Rue de la République,,,43.8334775,4.3596638
+11079135626,node,La Jouque,restaurant,Nîmes,,,,43.8327445,4.3591436
+11084223066,node,,restaurant,Nîmes,,,,43.9745104,4.6884891
+11096720686,node,Asialoha,restaurant,Nîmes,,,,43.8323659,4.3677546
+11108016505,node,Restaurant chez ma mere,restaurant,Nîmes,,,https://m.facebook.com/profile.php/?id=100064595475678,44.1164935,4.5319045
+11127406045,node,L'Oyat-Plage,restaurant,Nîmes,,,,43.4808889,4.1443994
+11133408105,node,Twenty Business Flats - Résidence Hôtelière,hotel,Nîmes,,,https://www.twentybusinessflats.com/,43.8313384,4.3674938
+11221889924,node,Le Soleou,restaurant,Nîmes,"2 Rue de l'Altier, 30240, Le Grau-du-Roi",30240,,43.5193,4.1314168
+11453700730,node,Le flores,restaurant,Nîmes,,,,43.9701766,4.591106
+11550061148,node,Maison Lavandet,restaurant,Nîmes,,,https://www.privadiere.fr/hotel-restaurant-gastronomique-uzes,43.9859199,4.3023805
+11576542017,node,L'Esquielle,hotel,Nîmes,"2 Rue des Faubourgs, 30190, Saint-Geniès-de-Malgoirès",30190,https://www.esquielle.fr,43.945034,4.2180931
+11576542018,node,L'Esquielle,restaurant,Nîmes,"2 Rue des Faubourgs, 30190, Saint-Geniès-de-Malgoirès",30190,https://www.esquielle.fr/a-table,43.9449966,4.2179688
+11579129227,node,Ma P'tite Pause,restaurant,Nîmes,"Imp. du Château, 30260, Saint-Clément",30260,https://www.facebook.com/MaPtitePausechezLaetitia,43.8308899,4.0278304
+11634062433,node,Salakha,restaurant,Nîmes,2 impasse du Rhône,,,43.9541507,4.7912992
+11887205786,node,Felicita,restaurant,Nîmes,"Rue Don Sauveur Paganelli, 30900, Nîmes",30900,https://felicita-nimes.eatbu.com/,43.8438139,4.3067429
+11916717230,node,Boem,restaurant,Nîmes,,,,43.5719682,4.1937019
+11932758298,node,Paz Día,restaurant,Nîmes,,,,43.565993,4.1890738
+11984271743,node,Dasian,restaurant,Nîmes,,,,43.8182836,4.3926602
+11985990241,node,Namasté India,restaurant,Nîmes,"6 Rue Notre-Dame, 30000, Nîmes",30000,,43.8364488,4.3641843
+12002703870,node,Aubergine,restaurant,Nîmes,15 Rue de la République,,,43.964129,4.7967643
+12051720269,node,Le 19,restaurant,Nîmes,,,,43.5364473,4.1360033
+12090149785,node,L'escale,hotel,Nîmes,,,,43.5688761,4.1882186
+12091504869,node,Royal Hotel - Noemy,hotel,Nîmes,,,,43.5763759,4.1978257
+12115590517,node,,restaurant,Nîmes,,,,43.5120551,4.1467268
+12134008658,node,L'Oustal,restaurant,Nîmes,,,,44.0114955,4.4187396
+12136279668,node,Château de Montcaud,hotel,Nîmes,"Hameau de Combes, 30200, Sabran",30200,https://www.chateaudemontcaud.com/,44.171856,4.5710216
+12136279670,node,Bistro de Montcaud,restaurant,Nîmes,"Hameau de Combes, 30200, Sabran",30200,https://www.chateaudemontcaud.com/restaurant/bistro-de-montcaud/,44.1717199,4.5704009
+12140751138,node,Avant Garde,restaurant,Nîmes,,,,43.8361868,4.3594308
+12141514058,node,Rouge,restaurant,Nîmes,,,,43.8370112,4.3579665
+12144736560,node,Oustan Camargais,restaurant,Nîmes,,,,43.5664221,4.1905716
+12162144604,node,Le Carola,restaurant,Nîmes,,,,44.0139405,4.4201775
+12162396054,node,,restaurant,Nîmes,,,,44.0525711,4.7787802
+12187910247,node,M'imagine sushi,restaurant,Nîmes,,,,43.891027,4.6801787
+12205697570,node,Ô La Bodega,restaurant,Nîmes,,,,43.5355904,4.1359566
+12218961927,node,Maza,restaurant,Nîmes,,,,43.8368202,4.3632817
+12222032427,node,Le Mas des ponts d'Arles,hotel,Nîmes,"10 Avenue des Prés d'Arlac, 30300, Fourques",30300,http://www.hoteldespontsdarles.com/,43.6901743,4.6061605
+12270874001,node,Croquer la pie,restaurant,Nîmes,,,,43.9735253,4.5837607
+12309589503,node,,restaurant,Nîmes,,,,43.8899414,4.6803098
+12309603901,node,,hotel,Nîmes,,,,43.8895674,4.6806599
+12309604001,node,,hotel,Nîmes,,,,43.8899421,4.6805416
+12319340201,node,casa di maria - pizza et epicerie italienne,restaurant,Nîmes,,,,43.5364709,4.1375108
+12319340301,node,au vin huit - restaurant à tapas et vin,restaurant,Nîmes,,,,43.5364483,4.1374298
+12319340302,node,Le Provencal,restaurant,Nîmes,45 Rue des Combattants,,,43.536749,4.1375114
+12324050490,node,Domaine Clausel,restaurant,Nîmes,"1 Rue des Treilles, 30210, Valliguières",30210,https://www.domaineclausel.com/fr/boutique,44.0070201,4.5789112
+12351059202,node,,restaurant,Nîmes,,,,43.8761156,4.4697911
+12351675666,node,Médiéval,hotel,Nîmes,,,,43.571904,4.1934307
+12354124656,node,,hotel,Nîmes,,,,43.5384916,4.1350597
+12354164312,node,,restaurant,Nîmes,,,,43.537613,4.1384532
+12453196307,node,La Ferme de l'Ausselon,restaurant,Nîmes,"75 Rue de l'Ausselon, 30600, Vauvert",30600,https://la-ferme-de-lausselon-restaurant.eatbu.com,43.6912948,4.2718468
+12453541309,node,Le Romarin,restaurant,Nîmes,"116 Avenue Maurice Privat, 30600, Vauvert",30600,,43.6902298,4.2747136
+12562405692,node,Asian Sushi,restaurant,Nîmes,"7 Rue Saint-Étienne, 30700, Uzès",30700,https://www.asiansushi88uzes.fr/,44.0110479,4.418287
+12598813516,node,Autentik Pizza,restaurant,Nîmes,"4 Place Urbain Richard, 30200, Bagnols-sur-Cèze",30200,,44.1613359,4.6182427
+12601768192,node,Restaurant L'Insolit,restaurant,Nîmes,"40 Rue des Combattants, 30240, Le Grau-du-Roi",30240,,43.5367704,4.1372977
+12613673569,node,Antico Pizzeria,restaurant,Nîmes,"17 Rue Léon Alègre, 30200, Bagnols-sur-Cèze",30200,,44.1631848,4.6214873
+12615511485,node,Crousty,restaurant,Nîmes,"4 Place Auguste Mallet, 30200, Bagnols-sur-Cèze",30200,,44.1622791,4.6196848
+12615511491,node,Le petit creux 30,restaurant,Nîmes,"6 Rue de la République, 30200, Bagnols-sur-Cèze",30200,,44.1625158,4.6196309
+12625301450,node,O'Cub Hôtel,hotel,Nîmes,,,https://www.ocubhotel.fr/,43.9536378,4.7910674
+12626641001,node,La Pause du Port,restaurant,Nîmes,"Quai du Canal, 30800",30800,,43.6746107,4.435381
+12628613533,node,L'Escargot,restaurant,Nîmes,,,,43.7455888,4.2058325
+12630665713,node,L'Olea,restaurant,Nîmes,"95 Route Porte de la Vaunage, 30870, Saint-Côme-et-Maréujols",30870,https://www.restaurantloleavaunage.com/,43.8238051,4.1765682
+12794958440,node,Le Provencal,hotel,Nîmes,,,,43.5367261,4.1375178
+12829743720,node,,restaurant,Nîmes,,,,43.7249128,4.3200991
+12829755212,node,,restaurant,Nîmes,,,,43.727584,4.3240803
+12856967067,node,Inari Okami,restaurant,Nîmes,"5 Quai Général de Gaulle, 30300, Beaucaire",30300,https://www.inariokami.com/,43.8064638,4.639431
+12880765489,node,Le Kashmir,restaurant,Nîmes,11 Place Jean Jaurès,,,43.9642019,4.7974357
+12880765490,node,L'Heure Bleue,restaurant,Nîmes,5 Rue de la République,,,43.9638324,4.7967986
+12880765491,node,Chez Ju,restaurant,Nîmes,9 Rue de la République,,,43.9639404,4.7967972
+12880765493,node,L'Annexe,restaurant,Nîmes,,,,43.9633384,4.7972368
+12880765494,node,Le L Crêperie,restaurant,Nîmes,,,,43.9634865,4.7971085
+12880765495,node,ShiFuMi,restaurant,Nîmes,,,,43.9633913,4.7977324
+12880765496,node,Le Barrel,restaurant,Nîmes,,,,43.9630552,4.7971603
+12887531590,node,Le Repaire,restaurant,Nîmes,,,,43.7999729,4.3807379
+12901837701,node,Ma Cantine,restaurant,Nîmes,22 Boulevard Gambetta,,http://www.macantine-uzes.fr,44.0132879,4.4184671
+12919302196,node,Mésopota'Nîmes,restaurant,Nîmes,"87 bis Rue de la République, 30000, Nîmes",30000,https://www.mesopotanimes.com/,43.8271743,4.3540378
+12987828189,node,Lunch Grill,restaurant,Nîmes,,,,44.0032952,4.7042206
+12987869844,node,L'atelier Charal,restaurant,Nîmes,,,,43.8684373,4.4390502
+12987893501,node,Via Italia,restaurant,Nîmes,,,,43.9991835,4.699675
+12987893502,node,Origin'R,restaurant,Nîmes,,,,43.9991259,4.699581
+12993914499,node,Nido,restaurant,Nîmes,"223 Route des Marines, 30240, Le Grau-du-Roi",30240,,43.5142824,4.1247492
+12998017374,node,L'Avida,restaurant,Nîmes,"6 Place Jules Ferry, 30290, Laudun",30290,https://www.facebook.com/profile.php?id=100088428690381&sk=about,44.105001,4.6558575
+13002197643,node,Résidence Orfea Nimes,hotel,Nîmes,"97 Rue Pierre Semard, 30000, Nîmes",30000,,43.8419702,4.3725523
+13031856302,node,Nury,restaurant,Nîmes,,,,44.2628543,4.5975284
+13040979469,node,Le Clément IV,restaurant,Nîmes,,,,43.6742259,4.4350347
+13057542881,node,Rive droite,restaurant,Nîmes,,,,44.3033732,4.5561035
+13063234823,node,Le Bistrot,restaurant,Nîmes,28 Avenue du Pont du Gard,,,43.948742,4.5446937
+13081952699,node,Matsuki,restaurant,Nîmes,,,,43.8378928,4.3584265
+13090686764,node,Les Jasses de Camargue,restaurant,Nîmes,,,,43.7154892,4.181299
+13289001920,node,Hôtel Bar des Sports,hotel,Nîmes,"1 Rue du Chien, 30200, Bagnols-sur-Cèze",30200,,44.1648472,4.6192452
+13316177103,node,Guinguette du cochon baigneur,restaurant,Nîmes,,,,43.9789871,4.2275671
+13321811001,node,Cap Mas,restaurant,Nîmes,,,,44.0513723,4.5280712
+13326161184,node,Bar des Lices,restaurant,Nîmes,"10 Avenue Paul Vaillant Couturier, 30300, Fourques",30300,,43.6930697,4.6120352
+13326217183,node,Brasserie de l'Avenir,restaurant,Nîmes,"4 Avenue Paul Vaillant-Couturier, 30300, Fourques",30300,,43.692577,4.6116263
+13355858675,node,La Fourquette,restaurant,Nîmes,"1 rue Barthélémy Contestin, 30300, Fourques",30300,,43.6963445,4.6008025
+13396334842,node,La Crêperie Nîmoise,restaurant,Nîmes,,,,43.8379653,4.3588811
+13439406502,node,Villa Occitana,hotel,Nîmes,,,,43.7584425,4.1993002
+13446983223,node,Via Saigon,restaurant,Nîmes,,,,43.5196956,4.1402909
+13463007753,node,Guinguette Clovis,restaurant,Nîmes,"10 Route de Saint-Étienne des Sorts, 30130, Saint-Alexandre",30130,https://www.guinguetteclovis.com/,44.2285037,4.6539512
+13533747930,node,Le P’tit Eric,restaurant,Nîmes,"8 Place Auguste Mallet, 30200, Bagnols-sur-Cèze",30200,https://www.le-ptit-eric-restaurant-bagnols-sur-ceze.fr/,44.1622599,4.6197863
+13533747931,node,O’pauseto,restaurant,Nîmes,"12 Place Auguste Mallet, 30200, Bagnols-sur-Cèze",30200,,44.1622474,4.6199132
+13533747932,node,Ô pas sage,restaurant,Nîmes,"16 Place Auguste Mallet, 30200, Bagnols-sur-Cèze",30200,,44.1622277,4.6200679
+13533747933,node,LE SUD,restaurant,Nîmes,,,,44.1618141,4.620026
+13533747934,node,La Crêperie de la Place,restaurant,Nîmes,,,,44.161834,4.6199558
+13538385688,node,Moment Delice,restaurant,Nîmes,"16 Avenue Paul Langevin, 30200, Bagnols-sur-Cèze",30200,,44.164807,4.6207636
+13584149925,node,Pizza Romanza,restaurant,Nîmes,,,,43.8283531,4.5481982
+13658399982,node,Piz'Up,restaurant,Nîmes,,,,43.8495324,4.399678
+13685054916,node,Crousty Pizza,restaurant,Nîmes,1324 Route de Courbessac,,,43.8553219,4.4001595
+13688797028,node,l'Olivier,restaurant,Nîmes,,,,43.8330828,4.3659429
+13698285101,node,Les Poissons d'Argent,restaurant,Nîmes,"D62 - Route de la Petite Camargue, 30220",30220,http://www.les-poissons-dargent.com,43.5632028,4.1642309
+13710980632,node,L'entre nous,restaurant,Nîmes,,,,43.788827,4.114665
+13713140542,node,La Maison de Mamillésime,restaurant,Nîmes,,,,44.2548643,4.6493703
+13718151101,node,Taglio di Roma,restaurant,Nîmes,,,,43.8365498,4.359642
+13763247701,node,Restaurant du Saunier,restaurant,Nîmes,,,,43.5551236,4.1857884
+13763600602,node,Le Torchon qui Brule,restaurant,Nîmes,,,,43.5667628,4.192085
+13763601701,node,Chez Jeannot,restaurant,Nîmes,,,,43.5667262,4.1921934
+13763603801,node,Hôtel les Templiers,hotel,Nîmes,,,,43.5669386,4.1919503
+13763705201,node,La Goulue,restaurant,Nîmes,,,,43.5664197,4.1894097
+13763708302,node,L'Express Chez Labrousse,restaurant,Nîmes,,,,43.5667311,4.189659
+13788912934,node,Le Dodo Blanc,restaurant,Nîmes,2 Rue de la Bruyère,,,43.9575547,4.7588667
+13798689502,node,Le Petit Gourmand,restaurant,Nîmes,"179 Avenue Général de Gaulle, 30330",30330,https://www.le-petit-gourmand.fr/,44.0932545,4.5955303
+13813336034,node,Le Babbo,restaurant,Nîmes,,,,43.8146849,4.3673037
+13825495337,node,Le Bellie,restaurant,Nîmes,10 Chemin De La Savoye,,https://www.facebook.com/lebellierestaurant/?locale=fr_fr,43.9627926,4.799831
+13852355254,node,Paillotte glouglou,restaurant,Nîmes,1 Place des Platanes,,https://www.facebook.com/p/Paillote-glouglou-bar-restaurant-61558102236388/,44.1048202,4.4582222
+13901066624,node,La Guingette de Cornillon,restaurant,Nîmes,,,,44.2250349,4.4881946

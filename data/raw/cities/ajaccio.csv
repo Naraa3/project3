@@ -1,0 +1,334 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+461983540,node,,restaurant,Ajaccio,,,,42.2504648,8.8163683
+477080038,node,Hôtel U Paradisu,hotel,Ajaccio,,,,41.8888551,8.7991336
+486703704,node,U Caspiu,restaurant,Ajaccio,,,,42.3024133,8.6614188
+807768409,node,Hôtel de Porticcio,hotel,Ajaccio,,,,41.8884386,8.8019877
+881168048,node,20130,restaurant,Ajaccio,20130,20130,,42.1360002,8.596836
+882361613,node,Le California,restaurant,Ajaccio,,,,42.1147293,8.6978279
+882371438,node,Cyrnos,hotel,Ajaccio,,,,42.1152529,8.6941884
+914983679,node,A Cantali restaurant bio-végétarien,restaurant,Ajaccio,,,,41.925167,8.737333
+1100748752,node,Gina,restaurant,Ajaccio,,,https://gina-restaurant.business.site,42.2662633,8.6944218
+1265784560,node,Les flots bleus,hotel,Ajaccio,,,,42.0602259,8.7438929
+1265784570,node,Les flots bleus,restaurant,Ajaccio,,,,42.0601194,8.7439667
+1282830173,node,Hôtel du tourisme,hotel,Ajaccio,,,,41.9107915,9.129863
+1324831167,node,,restaurant,Ajaccio,,,,42.0813167,8.7490197
+1329785003,node,Hôtel le Florida,hotel,Ajaccio,,,,41.9124219,9.1298828
+1432534869,node,L'Igloo,restaurant,Ajaccio,,,,42.0636943,8.7401979
+1438522393,node,La Belle Époque,restaurant,Ajaccio,22 Rue Cardinal Fesch,,,41.9199944,8.7379901
+1438536150,node,I Sanguinari,restaurant,Ajaccio,"8348 Route des Sanguinaires, 20000, Ajaccio",20000,,41.8973628,8.6112633
+1802516808,node,Hôtel Kallisté,hotel,Ajaccio,,,,41.9242088,8.737685
+1802540407,node,Pension Morelli,hotel,Ajaccio,,,,41.9200851,8.7359647
+1804745816,node,Hôtel Fesch,hotel,Ajaccio,7 Rue Cardinal Fesch,,https://www.hotel-fesch.com/,41.9200585,8.737642
+1888132174,node,Bar a vin 1755,restaurant,Ajaccio,,,,41.9175869,8.7387684
+1888144047,node,,restaurant,Ajaccio,,,,41.9180394,8.7395556
+1888144049,node,A Madunaccia,restaurant,Ajaccio,,,,41.9180065,8.7394584
+1888151911,node,La Pizza,restaurant,Ajaccio,,,,41.9182245,8.7396797
+1888151916,node,,restaurant,Ajaccio,,,,41.9181427,8.7397797
+1888151920,node,A Vista,restaurant,Ajaccio,,,,41.9183019,8.7397294
+1888162750,node,A Calata,restaurant,Ajaccio,8 Boulevard Danielle Casanova,,https://www.tripadvisor.fr/Restaurant_Review-g187140-d1328480-Reviews-A_Calata-Ajaccio_Communaute_d_Agglomeration_du_Pays_Ajaccien_Corse_du_Sud_Corsica.html,41.9179157,8.7398587
+1888162756,node,Le glacier du port,restaurant,Ajaccio,,,,41.9180075,8.7398158
+1904664318,node,Le Rivoli,restaurant,Ajaccio,709,,,41.8687942,8.7876626
+1904824494,node,Casetta Novelli,restaurant,Ajaccio,,,,41.8757248,8.7851228
+1910175223,node,Auberge du Prunelli,restaurant,Ajaccio,"T40, 20123",20123,,41.9127234,8.8361585
+1910175238,node,Restaurant Le Bon Coin,restaurant,Ajaccio,,,,41.9133021,8.8355451
+1915760771,node,Le Panoramique,restaurant,Ajaccio,,,,41.8846013,8.8084781
+1940229516,node,A Stonda,restaurant,Ajaccio,,,,42.1117876,8.7020346
+1940229535,node,Résidence l'Alivetu,hotel,Ajaccio,,,https://www.residenza-alivetu.com,42.134776,8.6200808
+2311278577,node,,restaurant,Ajaccio,,,,42.045564,8.9247179
+2317445154,node,Bella Storia,restaurant,Ajaccio,,,,41.9126726,8.7253891
+2317445169,node,Le Mandarin,restaurant,Ajaccio,,,,41.930007,8.7375293
+2330127488,node,Le Parc,restaurant,Ajaccio,,,,41.91121,8.7218437
+2332139085,node,Spunta di Mare,hotel,Ajaccio,,,,41.9307721,8.7578973
+2332139107,node,Courtepaille,restaurant,Ajaccio,,,,41.9328534,8.7576281
+2337832263,node,20140,restaurant,Ajaccio,,,https://www.le20140.fr/,41.712248,8.8031845
+2337832265,node,Le Valinco,restaurant,Ajaccio,,,,41.7113286,8.7988438
+2337832295,node,Le Toucan,restaurant,Ajaccio,,,,41.711169,8.7984457
+2370256820,node,A Merendella,restaurant,Ajaccio,,,,42.1892205,8.9083191
+2427012327,node,À l'Heure de la Chandeleur,restaurant,Ajaccio,Cours Napoléon,,,41.9322676,8.7403125
+2427012336,node,Le Coin du Ring,restaurant,Ajaccio,,,,41.9346096,8.7496452
+2427012341,node,Mercure,hotel,Ajaccio,,,,41.9323694,8.7404144
+2427019039,node,Chez Alain,restaurant,Ajaccio,"Résidence Harmonie, 20128",20128,,41.8660542,8.7917065
+2460367717,node,Côté Port,restaurant,Ajaccio,,,,42.1314247,8.5960181
+2460419881,node,Le 20123,restaurant,Ajaccio,2 Rue du Roi de Rome,,https://www.20123.fr/,41.9180262,8.7373431
+2529072330,node,Kallibouffe,restaurant,Ajaccio,,,,41.9283,8.7381481
+2689726278,node,A Nepita,restaurant,Ajaccio,"4 Rue San Lazaro, 20000, Ajaccio",20000,https://www.anepita.fr,41.9253524,8.73739
+2899424001,node,Da Mama,restaurant,Ajaccio,,,,41.9206127,8.7375191
+2901412331,node,Casa Corsa,restaurant,Ajaccio,,,,41.9232327,8.7390531
+2901412332,node,Le Hussard,restaurant,Ajaccio,,,,41.921785,8.7381793
+2903670320,node,Domu Palazzu,hotel,Ajaccio,17 Rue Bonaparte,,,41.9180692,8.7391039
+2904618043,node,La Rotonde,restaurant,Ajaccio,,,,41.9173003,8.7355109
+2904684480,node,Le Marché Gourmand,restaurant,Ajaccio,,,,41.9241059,8.7381396
+2905253046,node,L'Albert 1er,restaurant,Ajaccio,,,,41.9129865,8.7269689
+2905253047,node,La cigale,restaurant,Ajaccio,,,,41.9133783,8.7280031
+2905253050,node,Pizza Albert 1er,restaurant,Ajaccio,,,,41.9132858,8.7270512
+2914271138,node,Bel Mare,hotel,Ajaccio,,,,42.1337883,8.5992284
+2914293718,node,Roc E Mare,hotel,Ajaccio,,,https://www.roc-e-mare-cargese.com/,42.1353416,8.6016318
+2916416571,node,L'Agula Marina,restaurant,Ajaccio,,,https://www.l-agula-marina-restaurant-cargese.fr/,42.1318868,8.5968008
+3560509348,node,Bistrot d'Emile,restaurant,Ajaccio,1 Rue de l'Assomption,,,41.9203052,8.7374039
+3612718790,node,A riserva di Bisina,restaurant,Ajaccio,,,,41.8393935,8.869419
+3638580212,node,Le Bistrot du Cours,restaurant,Ajaccio,,,,41.9197052,8.7371118
+3686218422,node,Cala di Cupabia,restaurant,Ajaccio,,,http://www.cupabia.com/,41.7380128,8.7838186
+3687468699,node,A Volta,restaurant,Ajaccio,,,,42.1336611,8.5971634
+3687715311,node,La cantina,restaurant,Ajaccio,,,,41.9079,8.6796068
+3687715320,node,Marinella,restaurant,Ajaccio,,,,41.9063655,8.6767709
+3687715322,node,L'instant sushi,restaurant,Ajaccio,"14 Boulevard Tino Rossi, 20000, Ajaccio",20000,https://www.linstant-sushi.fr/,41.9080665,8.6798244
+3687715333,node,Palm Beach,restaurant,Ajaccio,,,,41.9074822,8.6789666
+3687715340,node,Texas Café,restaurant,Ajaccio,,,,41.9079666,8.6805138
+3687715344,node,Neptune Plage,restaurant,Ajaccio,,,,41.9076195,8.6805586
+3687715355,node,Le Piment Rouge,restaurant,Ajaccio,,,,41.9079197,8.6797536
+3687715364,node,Kos,restaurant,Ajaccio,,,,41.9071945,8.6780925
+3687715366,node,L'Ariadne,restaurant,Ajaccio,,,,41.9077531,8.6828463
+3687715367,node,China Blue,restaurant,Ajaccio,,,,41.9081674,8.6802784
+3688915222,node,La Pinède,hotel,Ajaccio,,,,41.9096895,8.6880001
+3688915223,node,Barbicaggia,restaurant,Ajaccio,,,,41.9093127,8.6903006
+3688928730,node,Côté Plage,restaurant,Ajaccio,,,,41.9093095,8.6888345
+3744633538,node,Hôtel Mare e Monti,hotel,Ajaccio,,,https://www.mare-e-monti.com,42.2377724,8.6389155
+3744633539,node,Le Casanova,restaurant,Ajaccio,,,,42.2390118,8.6367459
+3744633540,node,Les Roches Rouges,restaurant,Ajaccio,,,,42.2401567,8.6413889
+3746148860,node,U Pescador,restaurant,Ajaccio,20150,20150,,42.2651703,8.6930775
+3746148875,node,Le Vaïta,hotel,Ajaccio,"375 Rue Vaita, 20150, Ota Porto",20150,https://www.le-vaita.fr/,42.2656375,8.7053856
+3746148889,node,Le Subrini,hotel,Ajaccio,,,https://www.hotel-lesubrini-corse.com/,42.2684269,8.6939358
+3746148898,node,Côté Place,restaurant,Ajaccio,,,,42.2685063,8.6937856
+3746148899,node,Cala di sol,restaurant,Ajaccio,,,,42.2650685,8.7058256
+3766119761,node,Le grand Large,restaurant,Ajaccio,,,,42.099929,8.7085705
+3920393542,node,L'arbre,restaurant,Ajaccio,,,,41.9202593,8.7375407
+4263226790,node,U San Matteu,restaurant,Ajaccio,,,,41.7286924,8.7988124
+4274551489,node,Café National,restaurant,Ajaccio,,,,42.1668855,8.7984921
+4289488527,node,Le Pub,restaurant,Ajaccio,,,,42.2651778,8.7060841
+4289488537,node,Le beau séjour,restaurant,Ajaccio,,,,42.2649107,8.7064337
+4289488538,node,Le Vin150,restaurant,Ajaccio,"375 Rue Vaita, 20150, Porto Ota",20150,https://www.le-vaita.fr/,42.2655792,8.7055053
+4291084822,node,Le Monte Rosso,hotel,Ajaccio,,,,42.2677829,8.6932662
+4304842669,node,La Calypso,hotel,Ajaccio,,,,42.2671478,8.6940657
+4304842670,node,Chez Jeannette,restaurant,Ajaccio,,,,42.2387307,8.6366039
+4304893843,node,Le Belvédère,hotel,Ajaccio,,,,42.2672493,8.6935124
+4304894050,node,Le Duo,restaurant,Ajaccio,,,,42.2668805,8.6947605
+4304896942,node,La Marine,restaurant,Ajaccio,,,,42.2675711,8.6940677
+4304903619,node,Le Romantique,restaurant,Ajaccio,,,,42.2672235,8.6937618
+4304903908,node,Sole e Mare,restaurant,Ajaccio,,,,42.267084,8.694296
+4304903909,node,Le Panorama,restaurant,Ajaccio,"Route de la marine, 20150",20150,,42.2673378,8.6945322
+4304903911,node,U Campanile,restaurant,Ajaccio,,,,42.2380209,8.6368195
+4304967290,node,Le Nautilus,restaurant,Ajaccio,,,,42.267168,8.6954454
+4327631990,node,Cala Verghia,restaurant,Ajaccio,,,,41.8094601,8.761383
+4461396818,node,La Voûte,restaurant,Ajaccio,Place de la Fontaine,,,42.238951,8.6364769
+4492625830,node,Buffalo Grill,restaurant,Ajaccio,,,,41.9453116,8.7545411
+4542752990,node,La Trattoria Pizzeria,restaurant,Ajaccio,"30 Cours Grandval, 20000, Ajaccio",20000,,41.9178593,8.7314992
+4544944810,node,Le Pavillon Bleu,restaurant,Ajaccio,26 Cours du Général Leclerc,,,41.9169528,8.7257045
+4637973393,node,Le Bon Espoir,restaurant,Ajaccio,,,,42.3482284,8.6129537
+4873869297,node,Stella Marina,restaurant,Ajaccio,Plage de Bussaglia,,,42.2847984,8.6928999
+4916592167,node,U Ponte,restaurant,Ajaccio,,,,42.1688397,8.8193967
+4927396368,node,Des Deux Sorru,restaurant,Ajaccio,,,,42.1732889,8.8869983
+4927396369,node,Des Deux Sorru,hotel,Ajaccio,,,,42.1731274,8.8872914
+4931184425,node,Le Bel Ombra,restaurant,Ajaccio,20147,20147,https://www.bel-ombra.com/,42.3484812,8.6125252
+4943924020,node,Le Cabanon de Charlotte,restaurant,Ajaccio,,,,42.1308609,8.5958893
+4943975925,node,Usteria di a Rota,restaurant,Ajaccio,,,https://www.ustariadiarota.fr/restaurant-marignana,42.2363416,8.8061196
+4951499201,node,Le Golfe,hotel,Ajaccio,,,https://www.hotel-porto-pollo.com,41.7069704,8.7940084
+4955157194,node,L'Onda,restaurant,Ajaccio,,,,42.2088187,8.5777304
+4955211539,node,Pane e Vinu,restaurant,Ajaccio,,,,42.1906859,8.9134847
+4988087880,node,L'Affacata,restaurant,Ajaccio,,,https://www.facebook.com/Laffaccata-889626441179250/,42.168565,8.9507808
+4988089471,node,Hôtel U Paese,hotel,Ajaccio,,,https://www.hotel-soccia.com/,42.1899277,8.9114814
+5003636923,node,,hotel,Ajaccio,,,,41.994491,8.8501718
+5007363924,node,Petra Marina,restaurant,Ajaccio,,,,42.1122951,8.6877229
+5007391721,node,L'Ancura,restaurant,Ajaccio,20118,20118,,42.1130471,8.6879344
+5037210824,node,La Liscia,restaurant,Ajaccio,,,,42.0469177,8.7546514
+5037213925,node,Le Malibu,restaurant,Ajaccio,,,,42.0427883,8.744498
+5037224621,node,U Moro,restaurant,Ajaccio,,,,42.0509865,8.7488479
+5043726121,node,L’écrin,restaurant,Ajaccio,"16 Cours du Général Leclerc, 20000",20000,,41.9171474,8.7270367
+5046447551,node,Casa Murina,hotel,Ajaccio,Igliastrolo,,,41.707385,8.7918049
+5047483417,node,L'Äitone,restaurant,Ajaccio,,,,42.2515832,8.8092116
+5075075823,node,Le Cheval Blanc,restaurant,Ajaccio,,,,41.9176902,8.7392755
+5075093923,node,Abbatucci,restaurant,Ajaccio,,,,41.9251169,8.7384403
+5075099821,node,Le Petit Cheval Blanc,restaurant,Ajaccio,,,,41.917575,8.7394108
+5079392960,node,MARINA DI LAVA,hotel,Ajaccio,,,,41.9922136,8.6699794
+5131647764,node,U Paradisu,hotel,Ajaccio,,,,42.1652578,8.7949308
+5131651482,node,A Piazza,restaurant,Ajaccio,,,,42.166794,8.7994882
+5132925769,node,,restaurant,Ajaccio,,,,42.1210527,8.9043715
+5146912722,node,Ibis Budget,hotel,Ajaccio,"Rue des Magnolias, 20090, AJACCIO",20090,https://all.accor.com/hotel/8442/index.fr.shtml,41.9455797,8.7546122
+5173367881,node,Snack-bar le Pinito,restaurant,Ajaccio,,,,42.3011442,8.7094409
+5173369524,node,Café des amis,restaurant,Ajaccio,,,,42.2329917,8.8005287
+5174417988,node,Les Calanques,hotel,Ajaccio,,,https://www.residence-lescalanques.fr/,41.9084598,8.6574688
+5239772921,node,Café Paoli,restaurant,Ajaccio,,,,42.1666943,8.7998712
+5354750827,node,La Pause,restaurant,Ajaccio,7 Avenue Beverini Vico,,,41.9264756,8.7366704
+5440214293,node,U Cunventu,restaurant,Ajaccio,,,,42.0584544,8.8233264
+5440214294,node,Auberge Chez Lolo,restaurant,Ajaccio,,,,42.0583688,8.8248513
+5564632122,node,L’hospiton di Momouche,restaurant,Ajaccio,Route de Piana,,,42.2029852,8.6418488
+5620537421,node,La Terrrasse,restaurant,Ajaccio,,,,42.3486827,8.6123199
+5661603387,node,U Culombu,restaurant,Ajaccio,,,,41.9794307,8.8335716
+5663723421,node,Le Saint Pierre,restaurant,Ajaccio,,,,42.1652033,8.7947899
+5695479257,node,Gobi Caffé,restaurant,Ajaccio,,,,42.3491168,8.6124176
+5695479258,node,La Cabane du berger,restaurant,Ajaccio,,,,42.3495946,8.6130398
+5795214153,node,Les Temps des Oliviers,restaurant,Ajaccio,1 Rue des Halles,,,41.9196595,8.7379759
+5795214253,node,L'Amirauté,restaurant,Ajaccio,Port Charles Omano,,,41.9289354,8.7404558
+5795229253,node,Le Colony,restaurant,Ajaccio,12 Cours Lucien Bonaparte,,,41.9117593,8.7200976
+5800967140,node,VR46,restaurant,Ajaccio,,,,42.3204288,8.6682737
+5801264277,node,L'Oasis,restaurant,Ajaccio,,,,42.2641079,8.6922386
+5802243633,node,Pizzeria Barbicaja,restaurant,Ajaccio,,,,41.9095824,8.6855833
+5803974634,node,B612,restaurant,Ajaccio,,,,41.9175407,8.7367882
+5868963164,node,Les Flots Bleus,restaurant,Ajaccio,,,,42.2687859,8.6933439
+5868963165,node,Les Flots Bleus,hotel,Ajaccio,,,,42.2686956,8.6934348
+5927164984,node,Brasserie A Mezzana,restaurant,Ajaccio,,,,41.964043,8.813018
+5927165108,node,Akeru Sushi,restaurant,Ajaccio,,,,41.9643347,8.8129899
+5932451772,node,,restaurant,Ajaccio,,,,41.8313251,8.7852927
+5932451935,node,Le Sud,restaurant,Ajaccio,,,,41.8290937,8.7847307
+5976033000,node,Le Liamone Beach,restaurant,Ajaccio,,,,42.0767287,8.7200452
+6318266948,node,Le Globo,restaurant,Ajaccio,8 Place de gaulle,,,41.9176875,8.7354247
+6437082018,node,L'Alivi,restaurant,Ajaccio,,,,42.2995329,8.707636
+6450750607,node,Stella Marina,hotel,Ajaccio,,,https://www.hotel-stella-marina.com/,42.2845957,8.6928932
+6466891294,node,La Bonaparte,restaurant,Ajaccio,,,,41.9132496,8.7256798
+6468338996,node,Hôtel Sole e Monte,hotel,Ajaccio,,,,41.9885184,8.9092711
+6468338997,node,Restaurant Sole e Monte,restaurant,Ajaccio,,,,41.9885405,8.9092957
+6468339019,node,Bar des Acacias,restaurant,Ajaccio,,,,41.9872823,8.9085432
+6488880501,node,Lotus Bleu,restaurant,Ajaccio,,,,41.9178925,8.7381659
+6561739676,node,L'Escale,hotel,Ajaccio,,,https://www.lescale-corse.fr/,41.7108521,8.7971232
+6561739677,node,U Batellu,restaurant,Ajaccio,,,https://www.lescale-corse.fr/notre-restauration.php,41.710764,8.7970582
+6574769024,node,U Listincu,restaurant,Ajaccio,,,,42.0012627,8.7567881
+6578352887,node,spaghetti 3,restaurant,Ajaccio,,,,41.923837,8.7384038
+6578352889,node,Le Paparazzi,restaurant,Ajaccio,,,,41.9292285,8.7404819
+6578352988,node,mani,restaurant,Ajaccio,"6 Rue du Roi de Rome, 20000",20000,,41.917749,8.7379933
+6578352989,node,bel meserre,restaurant,Ajaccio,,,,41.9190673,8.7360173
+6578352991,node,Le Bosco,restaurant,Ajaccio,,,,41.918135,8.7380715
+6578352992,node,bilboq chez jean jean,restaurant,Ajaccio,,,,41.9185627,8.7388455
+6578352993,node,côté port,restaurant,Ajaccio,,,,41.9290529,8.7404774
+6578353097,node,Le Cabanon,restaurant,Ajaccio,,,,41.9176386,8.7398569
+6578353585,node,A Cantina Di Ghjulia,restaurant,Ajaccio,,,,41.9176721,8.7375467
+6593133276,node,"Restaurant Le ""20118""",restaurant,Ajaccio,,,,42.1144802,8.6968394
+6795153586,node,,restaurant,Ajaccio,,,,41.9674269,8.9606073
+6814361940,node,,restaurant,Ajaccio,,,,41.9839564,8.6706671
+6832073087,node,Le Rialto,restaurant,Ajaccio,,,,41.8667124,8.7913268
+6854588485,node,U San Bastianu,restaurant,Ajaccio,,,,42.0222442,8.7341239
+6886352826,node,,restaurant,Ajaccio,,,,42.2515281,8.812188
+6886352831,node,Hôtel Scopa Rossa,hotel,Ajaccio,,,,42.2515545,8.8121171
+6987679013,node,Crêperie La Rustica,restaurant,Ajaccio,,,,41.8085294,8.7633671
+7097446440,node,Cafe Latin,restaurant,Ajaccio,,,,41.9197442,8.7376536
+7106761294,node,U Fiumicellu,restaurant,Ajaccio,,,,41.8841355,8.9653071
+7256025342,node,Paese di Lava,hotel,Ajaccio,,,https://paese-di-lava.com,41.9834959,8.670525
+7682835242,node,U Taravu,restaurant,Ajaccio,,,,41.8941882,9.0488978
+7724027450,node,Acqua Dolce,hotel,Ajaccio,,,,41.9141859,8.8421256
+7724099104,node,,restaurant,Ajaccio,,,,41.923613,8.8246503
+7804928051,node,Le Golfe,hotel,Ajaccio,,,http://www.hotel-le-golfe-porto.com/,42.2676303,8.6937518
+7804928052,node,Le Jacaranda,restaurant,Ajaccio,,,,42.2676591,8.6937894
+7865663309,node,U Ponte,restaurant,Ajaccio,,,,42.2618257,8.7092159
+7873829250,node,A Cantina,restaurant,Ajaccio,,,https://www.acantina-cargese.fr/,42.1356753,8.5971816
+7877861913,node,Cyrnos,hotel,Ajaccio,,,,42.1155022,8.6941208
+7897372511,node,Auberge du Col Saint Georges,hotel,Ajaccio,,,https://saintgeorges.inn.fan,41.8798088,8.9330617
+7899452285,node,Le Papacionu,restaurant,Ajaccio,,,,41.9174852,8.7376764
+7948795099,node,Auberge A Tanedda,restaurant,Ajaccio,,,,42.0810698,9.0581648
+7960101985,node,Le Santana,restaurant,Ajaccio,"Esigna, 20118",20118,,42.1006815,8.708037
+8167272951,node,Mercure,hotel,Ajaccio,,,,41.9306738,8.7392441
+8242964728,node,Rôtisserie Alain,restaurant,Ajaccio,,,,41.9086352,8.7093335
+8769915719,node,,restaurant,Ajaccio,,,,41.9280283,8.7709593
+8895185161,node,El Toro,restaurant,Ajaccio,,,,42.2673232,8.6934223
+8946331185,node,U Pozzu,hotel,Ajaccio,Sierra Piana,,,42.2516727,8.8093059
+9028277819,node,Le Roi de Rome,restaurant,Ajaccio,"12 Rue du Roi de Rome, 20000",20000,,41.9176058,8.7383155
+9044294013,node,Les halles,restaurant,Ajaccio,,,,41.919784,8.7379638
+9044294015,node,Don Quichotte,restaurant,Ajaccio,,,,41.9202378,8.7380271
+9044294016,node,Quai Largo,restaurant,Ajaccio,,,,41.9198805,8.737967
+9044365717,node,Le Saint-Pierre,restaurant,Ajaccio,,,,41.9203577,8.7380647
+9067419331,node,Le Cabanon Bleu,restaurant,Ajaccio,65 Cours Lucien Bonaparte,,,41.9105089,8.7221094
+9071249579,node,Spunta Di  Marre,restaurant,Ajaccio,,,,41.9309212,8.7580633
+9071249580,node,L'Aiglon,restaurant,Ajaccio,,,,41.9308314,8.7574534
+9083922548,node,U San Petru,restaurant,Ajaccio,,,,41.7286389,8.7982293
+9178442948,node,Auberge Kallisté,hotel,Ajaccio,,,https://auberge-kalliste.corsica/,41.7106364,8.7954488
+9198114117,node,Hôtel Club Marina Viva,hotel,Ajaccio,"Boulevard Rive Sud, 20166",20166,https://www.accor.com/,41.894582,8.8063868
+9203303817,node,Le Bistrot Corse,restaurant,Ajaccio,"Boulevard Marie Jeanne Bozzi, 20166",20166,,41.8936189,8.8077097
+9212153723,node,Le Belvédère,hotel,Ajaccio,20138,20138,https://www.lebelvederedecoti.com/,41.7716541,8.7574584
+9711948217,node,Chez Paolo,restaurant,Ajaccio,,,,41.9178316,8.7381171
+9798920106,node,Le Jardin d'Emile,hotel,Ajaccio,,,,41.8290177,8.7839012
+9947824132,node,Chez Jean,restaurant,Ajaccio,,,,41.7093696,8.7939533
+9947847377,node,U Strongru,restaurant,Ajaccio,,,,41.7266095,8.8278657
+9947862529,node,Casa Cosi,restaurant,Ajaccio,,,,41.7210623,8.8171393
+9947867969,node,La Paillote,restaurant,Ajaccio,,,,41.7083804,8.7938086
+9951335037,node,Le Vieux Chêne,restaurant,Ajaccio,,,,42.0676801,9.0175371
+10020421364,node,Hôtel Beau Séjour,restaurant,Ajaccio,,,https://hotelbocognano.com/,42.0816875,9.053164
+10020434019,node,Hôtel Beau Séjour,hotel,Ajaccio,,,https://hotelbocognano.com/,42.0816862,9.0532283
+10065842717,node,A bona stella,restaurant,Ajaccio,,,,41.8931249,8.8048595
+10068419352,node,,restaurant,Ajaccio,,,,42.0821106,9.0515745
+10068494435,node,La pinède,hotel,Ajaccio,,,,41.9101474,8.6880932
+10759370305,node,Hôtel Le Colombo,hotel,Ajaccio,,,https://www.hotel-colombo-porto.com/,42.2661837,8.7054204
+10916722405,node,Bergerie du,hotel,Ajaccio,20117,20117,,41.9176397,8.938416
+10929408405,node,Casa Maredda,hotel,Ajaccio,"Route de molini, 20128",20128,,41.8579007,8.8055418
+10944716605,node,Bistro Canaille,restaurant,Ajaccio,"20 Rue Saint-Charles, 20000",20000,https://www.tripadvisor.fr/Restaurant_Review-g187140-d8372700-Reviews-Bistro_Canaille-Ajaccio_Communaute_d_Agglomeration_du_Pays_Ajaccien_Corse_du_Sud_.html,41.9173937,8.7375731
+10948590905,node,Retaurant le Café de la Place,restaurant,Ajaccio,,,,42.2581176,8.7443689
+11003446906,node,No Stress Thaï,restaurant,Ajaccio,,,,41.9170776,8.7370853
+11004108205,node,Hôtel du Golfe,hotel,Ajaccio,,,,41.9202109,8.738263
+11006063405,node,Pizza Diva,restaurant,Ajaccio,,,,41.918349,8.7394861
+11079150276,node,Ibis Styles Ajaccio Napoléon,hotel,Ajaccio,"91 Cours Napoléon, 20000, AJACCIO",20000,https://all.accor.com/hotel/9930/index.fr.shtml,41.9291776,8.7387679
+11079159858,node,HOTEL KALLISTE,hotel,Ajaccio,"51 Cours Napoléon, 20000, Ajaccio",20000,https://www.kalliste-ajaccio.com/fr,41.924301,8.7377293
+11084061832,node,Chez Jean-Michel,restaurant,Ajaccio,"Boulevard Marie Jeanne Bozzi, 20128, Grosseto-Prugna",20128,,41.8845404,8.7916275
+11084960100,node,36-12,restaurant,Ajaccio,,,,41.8886659,8.8024365
+11104731505,node,,restaurant,Ajaccio,,,,41.9226923,8.7379111
+11215177803,node,A Funtanella,restaurant,Ajaccio,,,,42.0807695,9.0592377
+11215431508,node,Auberge Scaldasole,restaurant,Ajaccio,,,,42.0005547,9.053019
+11351233269,node,Le Comptoir Italien,restaurant,Ajaccio,,,,41.9183616,8.7375054
+11572346569,node,Jour Ajaccio,restaurant,Ajaccio,,,https://cmdfrance.jour.fr/fr/shops/healthy/ajaccio-baleone,41.9543747,8.8024647
+11818425616,node,,restaurant,Ajaccio,,,,41.8122495,8.9091401
+11869279869,node,Le Josephine,restaurant,Ajaccio,,,,42.2406356,8.6359907
+11886685073,node,A Funtanella,restaurant,Ajaccio,,,https://www.a-funtanella.fr/,42.3106881,8.6829103
+11930769369,node,Gusto,restaurant,Ajaccio,Avenue du Premier Consul,,https://www.whatiseat.com/de/menu/gusto/,41.9187824,8.7371293
+12056907037,node,Paillotte du Rupione,restaurant,Ajaccio,"20166, Pietrosella",20166,,41.8341642,8.7823212
+12058993759,node,Pizzeria Astoria,restaurant,Ajaccio,"2-8 Rue des Glaçis, 20000, Ajaccio",20000,,41.9186632,8.7388397
+12083834121,node,Le Bistrot Gourmand,restaurant,Ajaccio,3 boulevard Pugiesi-Conti,,,41.9134888,8.7261614
+12084650828,node,La Paillote du week end,restaurant,Ajaccio,"Rte des Sanguinaires, 20000 Ajaccio, France",,,41.9098339,8.6477173
+12089528969,node,L'8 Dicembri,restaurant,Ajaccio,,,,41.9178885,8.7376363
+12089528970,node,L'arôme,restaurant,Ajaccio,,,,41.9178002,8.7378791
+12089529069,node,La Maison Bonaparte,restaurant,Ajaccio,,,,41.9179378,8.7378757
+12109719279,node,Le Pavillon du Général,restaurant,Ajaccio,,,,41.9164988,8.7399658
+12115096066,node,Le Mimo,restaurant,Ajaccio,,,,41.923136,8.7386464
+12115112611,node,La Table d'Antoine,restaurant,Ajaccio,,,,41.9207692,8.7380015
+12115120946,node,Josephine,restaurant,Ajaccio,,,,41.9181536,8.7387362
+12165905101,node,Les jardins de Piana,restaurant,Ajaccio,20115,20115,,42.2391773,8.6367314
+12175713412,node,L'Usteria,restaurant,Ajaccio,"20147, Serriera",20147,,42.2996739,8.7075089
+12246198643,node,Macumba,restaurant,Ajaccio,,,,41.9102259,8.6451446
+12287815501,node,Ferme Auberge du Col de la Vaccia,restaurant,Ajaccio,"Col de la Vaccia, 20140",20140,https://www.auberge-coldelavaccia.fr/,41.8334207,9.0909283
+12610277117,node,Restaurant Merendella,restaurant,Ajaccio,T20,,,42.0495665,8.9354987
+12656989804,node,Paillote Cala di Sole,restaurant,Ajaccio,,,,41.9056483,8.6704406
+12848447267,node,Prova,restaurant,Ajaccio,,,,41.9208377,8.7385583
+12848459004,node,L'Ardoise,restaurant,Ajaccio,,,,41.920775,8.7385159
+12848463442,node,Maison Cameda,restaurant,Ajaccio,,,http://www.maisoncamedda.com/,41.9207153,8.7384789
+12855591701,node,Le Bosco,restaurant,Ajaccio,10 Rue du Conventionnel Chiappe,,,41.9182911,8.738538
+12866937109,node,L'Auberge Napoléon,restaurant,Ajaccio,,,,41.917814,8.9153356
+12954873501,node,Mare Chiare,restaurant,Ajaccio,Strada di Calvi,,https://www.thefork.be/nl/restaurant/mare-chiare-r594705,42.2815141,8.6882998
+12963856001,node,Le Beau Rivage,restaurant,Ajaccio,,,,41.9085937,8.7110151
+12977295601,node,Restaurant l'Oasis,restaurant,Ajaccio,"Presqu'île de l'Isolella, 20166",20166,,41.8471412,8.761452
+12983305003,node,Violetta,restaurant,Ajaccio,,,,41.9183636,8.7346421
+12983305202,node,By Gusto,restaurant,Ajaccio,,,,41.9182799,8.7340792
+12983335603,node,L'Ailleurs Cafe,restaurant,Ajaccio,,,,41.9188323,8.7352087
+12983336401,node,Ovent d'Ange,restaurant,Ajaccio,,,,41.9189212,8.7349563
+12983336501,node,U Cinnaronu,restaurant,Ajaccio,,,,41.9188862,8.7347733
+12983338501,node,Piuma Artisan Rotisseur,restaurant,Ajaccio,,,,41.9225219,8.7376521
+13018739420,node,Artemisia Boutique Hotel,hotel,Ajaccio,"Strada di Boccialacce, 20119, BASTELICA",20119,https://www.hotel-artemisia.com/,42.000242,9.0462685
+13018763712,node,"Artemisia, Table d'hôtes",restaurant,Ajaccio,"Strada di Boccialacce, 20119, BASTELICA",20119,https://www.hotel-artemisia.com/table-d-hotes-corse/,42.0003108,9.0463208
+13027128782,node,Iso,restaurant,Ajaccio,,,,41.8434628,8.7657237
+13027139418,node,Petit Peri,restaurant,Ajaccio,,,,42.006658,8.8618756
+13034065153,node,Algnory,restaurant,Ajaccio,,,,41.9188526,8.7376622
+13107845839,node,Hôtel La Parata,hotel,Ajaccio,,,,41.9054411,8.6287227
+13113102310,node,A Casa Leca,restaurant,Ajaccio,,,,41.9181758,8.7389608
+13113102335,node,L'Annexe,restaurant,Ajaccio,,,,41.9181035,8.7400793
+13113102351,node,La Gioia,restaurant,Ajaccio,,,,41.9186917,8.7390225
+13113102353,node,La Rade,restaurant,Ajaccio,,,,41.9187706,8.7395529
+13125528117,node,Marinette,restaurant,Ajaccio,19 Rue du Roi de Rome,,,41.9174387,8.7390385
+13125529723,node,Rosette et Charlot,restaurant,Ajaccio,87 Rue Cardinal Fesch,,,41.9241524,8.7382717
+13250153201,node,U Mare,restaurant,Ajaccio,,,,42.1149664,8.6952121
+13704159927,node,U Castellu Sagone,restaurant,Ajaccio,,,,42.095353,8.7103846
+13713264611,node,Conti 1855,hotel,Ajaccio,"26 Cours Grandval, 20000, Ajaccio",20000,https://www.conti1855.com/,41.9182107,8.7317903
+13761104001,node,Domaine de l'Oriu,hotel,Ajaccio,,,,42.2890766,8.6989392
+13761120701,node,Le maquis,restaurant,Ajaccio,,,,42.2663721,8.705179
+13761209301,node,La cigale,restaurant,Ajaccio,,,,42.2635873,8.7092138
+13764473601,node,Maremmiese,restaurant,Ajaccio,,,https://maremmiese.com/,42.1352648,8.5973102
+13766119501,node,U Lustincone,restaurant,Ajaccio,,,,42.1454374,8.5939427
+13805573188,node,Aspusata,restaurant,Ajaccio,,,,42.1150482,8.6950304
+13805573196,node,Le Grain de Sable,restaurant,Ajaccio,,,https://restaurantgraindesable.com/,42.1151761,8.6947949
+13806293886,node,La petite voile rouge sagone,restaurant,Ajaccio,,,,42.1145947,8.6965165
+13807050071,node,A Sulana,restaurant,Ajaccio,,,,42.1136785,8.7019221
+13807073640,node,U Tragulinu,restaurant,Ajaccio,,,https://u-tragulinu.apprezzia.com/,42.1709672,8.5923234
+13820588633,node,Pizza chez Sté,restaurant,Ajaccio,,,,41.9136432,8.7287233
+13887051701,node,A Piazetta,restaurant,Ajaccio,,,,41.9244291,8.7381214
+13887403401,node,Le Tout va Bien,restaurant,Ajaccio,,,,41.9203559,8.7382971
+13908063902,node,U Campanile,restaurant,Ajaccio,"12 Rue Saint-Charles, 20000",20000,,41.9176361,8.7378707
+13911869301,node,,hotel,Ajaccio,,,,41.9350244,9.1517083
+13913929501,node,Manhattan Café,restaurant,Ajaccio,,,,42.134206,8.5971386
+13913935801,node,gîte Paulette Renucci,hotel,Ajaccio,,,,41.9399736,9.1624251
+13913995301,node,Relais des cols,hotel,Ajaccio,,,,41.9350782,9.1559683
+13914085504,node,Casa di l'Artigiani,restaurant,Ajaccio,,,,42.1349058,8.597235
+13914095503,node,Aux deux cloches,restaurant,Ajaccio,,,,42.1348958,8.596577
+13957750258,node,Malïlona Cantina,restaurant,Ajaccio,,,,41.9179423,8.7390176
+13971767301,node,Le bistrot lily's,restaurant,Ajaccio,,,,41.8956646,8.8084187

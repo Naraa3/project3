@@ -1,0 +1,400 @@
+osm_id,osm_type,name,category,city,address,post code,website,lat,lon
+26858709,node,Maison Las Clauzes,guest_house,Narbonne,Moux,,http://www.las-clauzes.de/,43.1852149,2.6428937
+281291256,node,La table de Fontfroide,restaurant,Narbonne,,,,43.1290066,2.8985744
+416523910,node,Le Coustelou,restaurant,Narbonne,"4 Rue du Port, Ventenac-en-Minervois",,,43.2479686,2.8587713
+504608888,node,iZYS RESTOBOUTIC,restaurant,Narbonne,,,,42.8779642,3.0491894
+510730265,node,,hotel,Narbonne,,,,43.2468522,2.8598488
+523856259,node,La Grillade du Chateau,restaurant,Narbonne,"19 Route Neuve, Ventenac-en-Minervois",,,43.2476765,2.858516
+566450917,node,,restaurant,Narbonne,,,,42.8928319,2.9765697
+622415959,node,chez pierrot,restaurant,Narbonne,,,,43.1536245,3.1631058
+888027466,node,Restaurant Le Panoramique,restaurant,Narbonne,,,,43.1318565,3.1404458
+977544198,node,Bar Brasserie Le Conti,restaurant,Narbonne,,,,43.2007176,2.7583328
+1309525562,node,Port Beach Hotel,hotel,Narbonne,,,,43.1081426,3.0942432
+1353717545,node,Maison Allene,hotel,Narbonne,,,,43.201433,2.7575988
+1372478777,node,Croque Vacances,restaurant,Narbonne,,,,43.1320534,3.1368367
+1375579134,node,Les Canisses,restaurant,Narbonne,,,,43.1320766,3.1374306
+1386044358,node,Jardins de Saint-Benoit,hotel,Narbonne,,,,43.0821799,2.695728
+1399117563,node,La Grillade Lou Mercat,restaurant,Narbonne,,,,43.2465487,2.8023817
+1399587268,node,Les Écluses,restaurant,Narbonne,,,,43.2574713,2.9492769
+1399595206,node,Le Comptoir Nature,restaurant,Narbonne,,,,43.266032,2.9044296
+1436337436,node,Le Lamparo,restaurant,Narbonne,,,,43.106045,3.0841416
+1514152237,node,Mamamouchi,restaurant,Narbonne,,,,43.1182828,3.1194985
+1721852363,node,Hôtel de la Clape,hotel,Narbonne,4 Rue des Fleurs,,https://www.hoteldelaclape.com,43.1592649,3.1660721
+1721859964,node,Hôtel le Mas Pierrot,hotel,Narbonne,44 Rue du Four à Chaux,,http://www.lemaspierrot.com,43.2065167,3.0782435
+1722638838,node,Centre International de Séjour,hotel,Narbonne,"Place Roger Salengro, Narbonne",,https://www.cis-narbonne.com/,43.1854923,3.0034487
+1722675946,node,Restaurant Auberge de l'Arbousier,restaurant,Narbonne,50 Avenue de Carcassonne,,http://www.auberge-canaldumidi.com,43.2671132,2.7133802
+1722698055,node,Le Temps des Courges,restaurant,Narbonne,3 Rue des Mazels,,http://www.letempsdescourges.com,43.0913927,2.6191302
+1722722979,node,Les Grands Buffets,restaurant,Narbonne,,,https://lesgrandsbuffets.com,43.1737792,2.9937338
+1722912772,node,Terra Vinéa,attraction,Narbonne,Chemin de la Platrière,,https://www.terra-vinea.com/,43.0516083,2.9276354
+1730481486,node,Brasserie CO,restaurant,Narbonne,1 Boulevard Docteur Ferroul,,,43.181257,3.0062069
+1730540451,node,Macar,restaurant,Narbonne,"21 Cours de la République, Narbonne",,,43.1828234,3.0053922
+1793136838,node,La Forge,restaurant,Narbonne,,,,43.164313,2.8705834
+1793136841,node,L'entre deux,restaurant,Narbonne,"16 Rue de Paris, Bizanet",,www.facebook.com/profile.php?id=61551739637039,43.1636367,2.8706316
+1874274710,node,Auberge de l'Arbusier,hotel,Narbonne,,,,43.2671291,2.7135063
+1874274719,node,En Bonne Compagnie,restaurant,Narbonne,6 Quai des Négociants,,https://www.en-bonne-compagnie.com/,43.2690752,2.7195075
+1885878704,node,L'Oasis,restaurant,Narbonne,,,,43.1593753,3.1680654
+1885878720,node,La tapenade,restaurant,Narbonne,5 Boulevard de la Méditerranée,,,43.1592403,3.1668504
+1885878725,node,L'Albatros,restaurant,Narbonne,,,,43.1593048,3.1666492
+1885878729,node,L'Oasis,hotel,Narbonne,,,,43.1593909,3.1678937
+1885878732,node,Le Provençal,hotel,Narbonne,,,,43.1598801,3.1665392
+1885878737,node,L'ensoleillade,restaurant,Narbonne,,,,43.1593909,3.1665634
+1885878740,node,L'air marin,restaurant,Narbonne,,,,43.159477,3.1663059
+1885878742,node,Hôtel de la Clape,restaurant,Narbonne,4 Rue des Fleurs,,,43.1593283,3.166161
+1885878743,node,L'Arlequin,restaurant,Narbonne,,,,43.15952,3.1682639
+1885901059,node,Le Mirage,restaurant,Narbonne,,,,43.15961,3.1660323
+1885901062,node,Une table au Sud,restaurant,Narbonne,,,,43.1595377,3.1649084
+1885919509,node,La Caravelle,hotel,Narbonne,10 Promenade du Front de Mer (plage),,,43.1584048,3.1667565
+1911982955,node,Le Palmarium,restaurant,Narbonne,,,,43.1816814,3.1931752
+1930600048,node,Café du Théâtre,restaurant,Narbonne,,,,43.1370496,2.6995567
+1935504537,node,Le Saint-Laurent,restaurant,Narbonne,"13 Avenue de Narbonne, Saint-Laurent-de-la-Cabrerisse",,,43.0846308,2.699589
+1950442230,node,La Luciole,restaurant,Narbonne,,,,43.1776099,2.7854674
+1986713464,node,La Jument Verte,restaurant,Narbonne,"2 Rue Mondonville, Narbonne",,,43.1825964,3.0061919
+1986713479,node,La Salle Verte,restaurant,Narbonne,,,,43.1831135,3.0062998
+2032007271,node,O Gatouna,restaurant,Narbonne,2 Avenue de Laroque,,,42.9588945,2.6042519
+2032066920,node,Le Référent,restaurant,Narbonne,Route des Corbières,,,42.95988,2.5303433
+2232000656,node,Hostellerie du Vieux Moulin,hotel,Narbonne,,,,42.8640421,2.5659678
+2241206146,node,Le Grand Soleil,restaurant,Narbonne,1 Ilot 1 les Flamants Roses,,https://eo-family.com/grand-soleil/,43.0970783,3.1113611
+2241285744,node,Le Tamarin,restaurant,Narbonne,,,,43.1099813,3.0949714
+2272622584,node,Flunch,restaurant,Narbonne,,,,43.177917,3.0264795
+2291488064,node,La terrasse,restaurant,Narbonne,,,,43.2873598,2.971206
+2328301745,node,Mon Grain de Sel,restaurant,Narbonne,,,,42.8788195,2.5044039
+2329470864,node,La rôtisserie Médiévale,restaurant,Narbonne,"Château, Villerouge-Termenès",,,43.0069056,2.6265723
+2329470877,node,La Taverne,restaurant,Narbonne,Villerouge-Termenès,,,43.0064676,2.6269124
+2329488485,node,La Talariane,restaurant,Narbonne,"8 Avenue du Termenès, Talairan",,https://www.restaurant-la-talariane.fr/,43.0517492,2.6621834
+2330557866,node,Le Moulin Neuf,restaurant,Narbonne,,,http://moulin-neuf-lanet.com/,42.9645919,2.4880504
+2330565167,node,La Fargo,hotel,Narbonne,,,,43.0575884,2.5982249
+2410880254,node,Bistro des Beaux-Arts,restaurant,Narbonne,,,,43.1238309,2.9928248
+2410880255,node,Le Portanel,restaurant,Narbonne,,,,43.1246568,2.9939905
+2410880256,node,Les Jardins de Bages,restaurant,Narbonne,"2 Place Juin 1907, Bages",,,43.1235669,2.9925928
+2421039349,node,Le Monoi Plage,restaurant,Narbonne,,,,43.1809331,3.1956
+2432275560,node,Le Café du Midi,restaurant,Narbonne,"1 Place aux Herbes, Bize-Minervois",,https://www.facebook.com/cafedumidiabize/,43.3177966,2.8719784
+2432314724,node,La Bastide Cabezac,hotel,Narbonne,"18, Bize-Minervois",,https://hotel-bastidecabezac.fr/,43.2968098,2.8696018
+2432314732,node,La Bonne Franquette,restaurant,Narbonne,"10 Route de Carcassonne, Bize-Minervois",,https://fr.restaurantguru.com/Pizzeria-de-Cabezac-Bize-Minervois,43.2990463,2.8711929
+2439155870,node,Le 87,restaurant,Narbonne,,,,43.2292513,2.848496
+2448118648,node,Le Cers,restaurant,Narbonne,,,,43.18733,2.7174527
+2448138035,node,Lo Ribairene,hotel,Narbonne,,,,43.1874417,2.7164868
+2452100310,node,L'Ardoise d'Antonin,restaurant,Narbonne,,,,43.106843,3.0874531
+2452100314,node,Largada,restaurant,Narbonne,"4 Boulevard Victor Hugo, Gruissan",,,43.1060351,3.0861019
+2452100319,node,La Cranquette,restaurant,Narbonne,,,,43.1067841,3.0856716
+2452100325,node,Le Joffre,restaurant,Narbonne,3 Rue Espert,,,43.1071076,3.0863124
+2452100332,node,Le Sarment,restaurant,Narbonne,3 Boulevard Victor Hugo,,,43.1061927,3.0862791
+2452100335,node,Le Sud,restaurant,Narbonne,,,,43.1060695,3.0860107
+2452100338,node,Les Pizzas d'Antonin,restaurant,Narbonne,,,,43.1070148,3.087438
+2452100341,node,La Tavola,restaurant,Narbonne,17 Rue de la République,,,43.1067423,3.0854967
+2452113778,node,La Cambuse du Saunier,restaurant,Narbonne,,,,43.0966902,3.084939
+2462924532,node,L'Ô à la Bouche,restaurant,Narbonne,,,,43.2663708,2.9033954
+2475513070,node,La Guinguette,restaurant,Narbonne,"Rue de la Fontaine Fraîche, Argens-Minervois",,https://www.laguinguette-restaurant.com/,43.2407099,2.7654043
+2478253126,node,Le Clos de Mauzac,restaurant,Narbonne,,,,43.1300099,2.6490673
+2478785468,node,Aux Vents d'Anges,restaurant,Narbonne,,,,43.1302301,3.1296212
+2499704577,node,Le Foudre,restaurant,Narbonne,2 Chemin du Carretal,,,43.2703369,2.7195842
+2499826256,node,La Péniche,restaurant,Narbonne,19 Quai des Tonneliers,,,43.2683165,2.7185142
+2507458579,node,Auberge du Somail,restaurant,Narbonne,Chemin de halage,,,43.2660841,2.904379
+2509580116,node,Le Chat qui Pêche,restaurant,Narbonne,"Rue du Port, Argeliers",,,43.3132735,2.9201667
+2512599519,node,La Cascade,restaurant,Narbonne,"9 Avenue des Quatre Chemins, Moussan",,,43.2286772,2.9460032
+2575063155,node,L'entrepôte,restaurant,Narbonne,"32 Boulevard de la Promenade, Lagrasse",,https://affenage.e-monsite.com/,43.0899634,2.6202573
+2665062855,node,La Cocotte Fêlée,restaurant,Narbonne,"2 Boulevard de la Promenade, Lagrasse",,https://la-cocotte-felee.edan.io/,43.0912274,2.6206534
+2665062861,node,Café Brasserie de la Promenade,restaurant,Narbonne,"8 Boulevard de la Promenade, Lagrasse",,,43.0909784,2.6205802
+2782898045,node,Lokanta,restaurant,Narbonne,,,,43.1868942,3.010743
+2862299762,node,La Petite Maison,restaurant,Narbonne,"12 Boulevard de la Promenade, Lagrasse",,https://la-petite-maison.eatbu.com/,43.0906024,2.6204504
+2878040902,node,Chez Marco Pizza,restaurant,Narbonne,105 Rue de la Vixiège,,https://www.chezmarcopizza.com/,42.8579663,3.0394291
+2887420215,node,Courtepaille,restaurant,Narbonne,,,,43.167684,2.9872626
+2887420216,node,La Résidence,hotel,Narbonne,6 Rue du 1er Mai,,,43.1849916,3.0020402
+3102623136,node,Auberge Côté Jardin,hotel,Narbonne,,,http://www.aubergecotejardin.com,43.1874014,2.7182201
+3102623137,node,Auberge Côté Jardin,hotel,Narbonne,,,http://www.aubergecotejardin.com,43.1874074,2.7182763
+3183854786,node,Deylem,restaurant,Narbonne,,,,43.1900388,3.006297
+3183854788,node,Hôtel Alsace,hotel,Narbonne,,,,43.1904309,3.0065032
+3183854789,node,Hôtel de la Gare,hotel,Narbonne,,,,43.190038,3.006787
+3183854790,node,Grill lounge,restaurant,Narbonne,5 Avenue Pierre Semard,,,43.1900946,3.0067009
+3183854791,node,Destination 40,restaurant,Narbonne,2 Avenue Pierre Semard,,,43.1900985,3.0061748
+3183854794,node,Le Loft,restaurant,Narbonne,,,,43.1896071,3.0057496
+3183854796,node,Le Petit Comptoir,restaurant,Narbonne,4 Boulevard Marechal Joffre,,https://www.petitcomptoir.com/,43.1845735,2.9996046
+3373819096,node,Pizza,restaurant,Narbonne,,,,43.052047,2.663965
+3455366850,node,Lou Cabanaïre,restaurant,Narbonne,"4 Avenue de la Mer, Fleury",,https://www.loucabanaire.com/,43.2172765,3.2316565
+3589359097,node,Camping La Pinede,hotel,Narbonne,,,,43.2049187,2.7513212
+3601335290,node,,restaurant,Narbonne,,,,43.0579657,2.598983
+3659010603,node,,restaurant,Narbonne,,,https://rivesdescorbieres.com/,42.8490791,3.0422637
+3673545295,node,l'estagnol,restaurant,Narbonne,,,,43.181701,3.0050694
+3719140759,node,Auberge de Cucugnan,restaurant,Narbonne,,,,42.8510041,2.6028723
+3719140761,node,Bar du Vigneron,restaurant,Narbonne,,,,42.850824,2.6031754
+3741311369,node,Les Vieilles Nouvelles,restaurant,Narbonne,19 Grande Rue,,,43.1070714,3.0866173
+3741311372,node,Le bouchon,restaurant,Narbonne,,,,43.1100478,3.0939432
+3741311373,node,Le bouquet garni,restaurant,Narbonne,,,,43.1098762,3.0946726
+3879124103,node,Chez Pierrot,restaurant,Narbonne,,,,43.2056374,3.0799578
+3931967367,node,Le C Boutique Hôtel,hotel,Narbonne,15 Rue Suffren,,https://www.cboutiquehotel.fr/,43.1842449,3.0101976
+3942143264,node,Restaurant l'Étang,restaurant,Narbonne,67 Avenue du Languedoc,,,42.9331742,3.0353498
+3977668332,node,Appart'City Narbonne,hotel,Narbonne,,,,43.1857119,3.0091747
+4084094288,node,Le Canotier,restaurant,Narbonne,,,,43.2163389,3.232123
+4104662079,node,L'Athena,restaurant,Narbonne,300 Rue du Kercorb,,,42.859231,3.045002
+4331400990,node,Dolce Italia,restaurant,Narbonne,72 Rue Droite,,,43.1854238,3.0053686
+4467105491,node,Le Figuier,restaurant,Narbonne,27 Cours Mirabeau,,,43.1827628,3.0035606
+4497524242,node,Les Tonneliers,restaurant,Narbonne,23 Quai des Tonneliers,,,43.2682722,2.7183357
+4497524246,node,Le Bistrot Gourmand,restaurant,Narbonne,"56 Avenue de Carcassonne, Homps",,https://www.bistrot-gourmand-homps.com/,43.2670178,2.7128318
+4575162327,node,Brasserie Le France,restaurant,Narbonne,"33 Cours de la République, Narbonne",,,43.1825665,3.0060294
+4575162328,node,En Face,restaurant,Narbonne,"27 Cours de la République, Narbonne",,,43.1826712,3.0057666
+4575162329,node,Mew'N,restaurant,Narbonne,"31 Cours de la République, Narbonne",,https://www.creperie-restaurant-narbonne.fr/,43.1826027,3.0059329
+4575162330,node,Ave Domitius,restaurant,Narbonne,,,,43.1841595,3.004245
+4677075300,node,L'estafette de Nicolas,restaurant,Narbonne,"9 Rue Droite, Narbonne",,,43.1842338,3.0044219
+4755175315,node,L'Atelier,restaurant,Narbonne,,,,42.9223158,2.9468963
+4879377454,node,,restaurant,Narbonne,,,,43.2010769,2.7576073
+4879377455,node,L'Alegria,restaurant,Narbonne,,,,43.2010729,2.7570862
+4882179260,node,Plan B,restaurant,Narbonne,,,,43.1069048,3.0861926
+4882179262,node,,restaurant,Narbonne,,,,43.0212029,3.0483359
+4914582929,node,Au bureau,restaurant,Narbonne,Narbonne,,,43.1645413,2.9869122
+4945754784,node,La belle addresse,restaurant,Narbonne,,,,43.1085013,3.0940904
+5060266012,node,Saveur du mekong,restaurant,Narbonne,23 Place Auguste Tailhades,,,43.234634,3.0588719
+5075332648,node,Près de la Fontaine,restaurant,Narbonne,11 Chemin des Platrières,,,43.0522835,2.9242762
+5086914086,node,Gaia,restaurant,Narbonne,8 Avenue des Pyrénées,,https://www.gaia-narbonne.fr/,43.184759,2.9990174
+5329267624,node,La Balade Gourmande,restaurant,Narbonne,Boulevard Léon Castel,,,43.2024116,2.7509027
+5417991453,node,My pizza,restaurant,Narbonne,,,,43.108307,3.0936047
+5418012021,node,,restaurant,Narbonne,,,,43.1509148,3.1607835
+5615900121,node,L'Ardoise,restaurant,Narbonne,50 Avenue de Fleury,,,43.2363777,3.1193844
+5615900122,node,Le Bouchon Gourmand,restaurant,Narbonne,,,,43.1811763,3.0063379
+5640675321,node,La Petite Rôtisserie,restaurant,Narbonne,28 Avenue Jean Jaurès,,,42.9103804,3.0278655
+5842059087,node,Le Bleu,restaurant,Narbonne,19 Avenue de la Méditerranée,,http://lebleucafe.fr,42.9318541,3.0371803
+5842112886,node,Venezia Pizzeria,restaurant,Narbonne,,,,43.0222217,3.0434339
+5842112985,node,,restaurant,Narbonne,,,,43.0221572,3.0436039
+5856435186,node,Chez Bebelle,restaurant,Narbonne,,,,43.1815332,3.0051113
+6029820630,node,Biquet Plage,restaurant,Narbonne,"Chemin de Mouret, Leucate",,https://www.biquetplage.com/,42.892748,3.0526945
+6109162055,node,Le Poisson d'Avril,restaurant,Narbonne,3 Avenue de la Clape Tr,,,43.0983228,3.10828
+6109162439,node,Le Romantica,restaurant,Narbonne,,,,43.0985116,3.1083073
+6257998985,node,Hostellerie des Corbières,restaurant,Narbonne,,,https://www.hostellerie-des-corbieres.com/,43.0918767,2.6208537
+6258085185,node,Auberge du Vieux Puits,restaurant,Narbonne,"5 Avenue de Saint-Victor, Fontjoncouse",,https://www.aubergeduvieuxpuits.fr/fr/,43.0485903,2.7886134
+6258089685,node,En Catimini,restaurant,Narbonne,16 Place de la République,,https://en-catimini.fr,43.147616,2.7265134
+6258146586,node,Place des Marchés,restaurant,Narbonne,8 Avenue de la Mairie,,http://www.placedesmarches-restaurant.com,43.0153074,2.8528346
+6282803885,node,Le P’tit Gourmand,restaurant,Narbonne,27 Avenue des Hautes Corbières,,,42.9768126,2.7761547
+6308304686,node,L'Art de Vivre,restaurant,Narbonne,Route de Narbonne Plage,,https://www.chateau-hospitalet.com/,43.167411,3.1138605
+6326928507,node,brasserie du Port,restaurant,Narbonne,,,,43.1700297,3.1810536
+6326929258,node,Le pirate,restaurant,Narbonne,,,,43.1701237,3.1811625
+6327886885,node,,restaurant,Narbonne,,,,43.2447494,2.9210686
+6512095389,node,La Rencontre,restaurant,Narbonne,1 Place Roger Salengro,,,43.1859012,3.0035602
+6555998989,node,La Brise de Mer,restaurant,Narbonne,64 Avenue Jean Jaurès,,,42.908739,3.0307867
+6555998990,node,Le Patio,restaurant,Narbonne,119 Avenue Jean Jaurès,,,42.9091905,3.0308026
+6555998991,node,La Closerie,restaurant,Narbonne,101bis Avenue Jean Jaurès,,,42.9096458,3.0301951
+6621973915,node,La P'tite Table,restaurant,Narbonne,,,,42.8805532,2.5546021
+6640143283,node,Chez Lulu,restaurant,Narbonne,,,https://www.bistrotchezlulu.fr/,43.1834183,3.0083259
+6703493507,node,Pasha Plage,restaurant,Narbonne,Gruissan,,https://www.lescabines-gruissan.fr/,43.1017766,3.116266
+6719010636,node,cook'n roll,restaurant,Narbonne,,,,43.2550748,2.9499402
+6725196754,node,Chez Mamie,restaurant,Narbonne,13 Cours Mirabeau,,,43.1820316,3.0045073
+6744683658,node,,restaurant,Narbonne,,,,43.1626214,2.9893585
+6769606920,node,Burger et Cassolette,restaurant,Narbonne,,,,43.1663149,2.9895061
+6769608302,node,Le Trenel,restaurant,Narbonne,"30 Avenue du Docteur Paul Pompidor, Narbonne",,https://entreprendre.legrandnarbonne.com/71-actualites/16494-le-grand-narbonne-presente-le-restaurant-mon-cuisinier.html,43.1822849,2.9789167
+6772334979,node,Chez Katia et Jean-Pierre,restaurant,Narbonne,Leucate,,,42.8783294,3.0464408
+6855228387,node,Auberge de Termes,restaurant,Narbonne,La Promenada,,https://chateau-termes.com/aubergedetermes.php,43.0002233,2.5621345
+6906737385,node,Le Breizh d'Oc,restaurant,Narbonne,2 Rue Fabre d'Eglantine,,,43.106395,3.0864469
+6960068985,node,La Pacheyrasso,restaurant,Narbonne,Lieu-dit la Pacheyrasso,,https://www.facebook.com/lapacheyrassolapalme/,42.9801613,3.0189702
+7056280062,node,Aux 2 Oliviers,restaurant,Narbonne,"1 Boulevard de la Corderie, Gruissan",,https://www.auxdeuxoliviers.com/,43.1084387,3.0923268
+7122244926,node,La Marinière,restaurant,Narbonne,8 Place des Vergnettes,,,43.1790291,3.1897036
+7122244927,node,Yek-Mex,restaurant,Narbonne,,,,43.178952,3.1896087
+7154754321,node,L'adresse,restaurant,Narbonne,,,,43.0228274,3.0399018
+7174734791,node,Kimch'i,restaurant,Narbonne,,,,43.2006529,2.7619272
+7500986665,node,La Baleine,restaurant,Narbonne,3 Place du Port,,,43.1710591,3.1815733
+7500986666,node,Restaurant Bergamote,restaurant,Narbonne,"4 Impasse des Caravelles, Fleury",,https://www.facebook.com/bergamote.restaurant/,43.1710577,3.1818315
+7509817347,node,Le Ficky,restaurant,Narbonne,"79 Boulevard des Embruns, Fleury",,,43.1853534,3.1964963
+7543973560,node,Pavillon Nautique,restaurant,Narbonne,,,,43.1429562,3.0065556
+7686972120,node,Le Relais d'Aguilar,restaurant,Narbonne,,,,42.8898475,2.7239858
+7711163097,node,Côté sud,restaurant,Narbonne,,,,43.1782367,3.1898491
+7719971368,node,L'énigme,restaurant,Narbonne,61 Boulevard des Embruns,,https://menu.vazeepro.com/?id=QWHTLTVMQO&o=q,43.181524,3.1931317
+7724469285,node,Pizza Jo,restaurant,Narbonne,,,,43.1070765,3.0874399
+7792008226,node,NS Restauration,restaurant,Narbonne,,,,43.1613569,2.9883325
+7810588086,node,La batteuse,restaurant,Narbonne,,,http://aubergelabatteuse.com/,42.862638,2.5648378
+7820284320,node,La Casa,restaurant,Narbonne,"1 Avenue de la Falaise, Narbonne",,,43.1635021,3.1698717
+7868213485,node,L'Estagnol,restaurant,Narbonne,12 Avenue Jean Carbonel,,,43.1077049,3.0883426
+7954471887,node,Le Kat,restaurant,Narbonne,"Chemin des Coussoules, Leucate",,https://www.le-kat.com/,42.9435308,3.0334158
+8234781270,node,Domaine Sarrat de Goundy,restaurant,Narbonne,"46 Avenue de Narbonne, Armissan",,,43.1971128,3.0700611
+8234795428,node,La cantine d'Anatole,restaurant,Narbonne,"96 Avenue Anatole France, Narbonne",,,43.1883654,2.9882514
+8266655918,node,Caffé Del Arte,restaurant,Narbonne,,,,43.2155191,3.0934081
+8540600322,node,Rikou,restaurant,Narbonne,"2 Avenue de la Falaise, Leucate",,,42.9036457,3.0512399
+8540600330,node,Bistroquet,restaurant,Narbonne,"55 Boulevard du Front de Mer, Leucate",,,42.9048732,3.0556444
+8540600341,node,La Terrasse,restaurant,Narbonne,"1 Rue des Pins, Leucate",,,42.9060461,3.0560574
+8820620157,node,Les copains d'abord,restaurant,Narbonne,Quai du Paurel-B,,,42.8566442,3.0363935
+8921740694,node,Restaurant de la Marine,restaurant,Narbonne,3 Quai Jean Bouteille (plage),,,43.1703008,3.180371
+8931157670,node,,restaurant,Narbonne,,,,42.8430114,3.0391844
+9152103317,node,Le 89,restaurant,Narbonne,6 Cours de la République,,https://le89narbonne.eatbu.com/,43.1832134,3.0042297
+9152109118,node,Le bistrot,restaurant,Narbonne,,,,43.1824017,3.0037985
+9315809117,node,,hotel,Narbonne,,,,43.1687702,2.9842244
+9418954511,node,Don Camillo,restaurant,Narbonne,3 Boulevard du General de Gaulle,,,43.1870007,3.0086066
+9620868501,node,Entre mer et Garigue,restaurant,Narbonne,2 Avenue du Languedoc (plage),,,43.1596253,3.1652371
+9651916282,node,Chez Manon,restaurant,Narbonne,"13 Boulevard de la Promenade, Lagrasse",,,43.0914875,2.6210053
+9658532459,node,Ribau Thym,restaurant,Narbonne,,,,43.1070143,2.6343017
+9670968219,node,Le Bastion,restaurant,Narbonne,"50 Boulevard de la Promenade, Lagrasse",,https://www.restaurant-bastion-lagrasse.fr/,43.0891029,2.6197069
+9759274388,node,La Passerelle,restaurant,Narbonne,,,https://mauriciennecuisine.fr/,43.2823601,2.9178575
+9875001734,node,Demi-lune,restaurant,Narbonne,,,,43.1903125,3.006366
+9875001737,node,Pizza Time,restaurant,Narbonne,72 Boulevard Frederic Mistral,,,43.1890433,3.0051376
+9881862539,node,Hôtel restaurant du port,hotel,Narbonne,,,,43.0235128,3.0411087
+9916677323,node,Ma Pause Bio,restaurant,Narbonne,41 Rue Droite,,,43.1849922,3.0048837
+9916677421,node,Poké Mum,restaurant,Narbonne,Rue Droite,,,43.184582,3.0047381
+9929767359,node,La raviole,restaurant,Narbonne,,,,43.2009201,2.7600993
+9929767364,node,Au cœur de l'Asie,restaurant,Narbonne,,,,43.2009158,2.7607396
+9929878695,node,Le Don Papa,restaurant,Narbonne,,,,43.2007759,2.7624304
+9931641608,node,Lo Tira Tap,restaurant,Narbonne,,,,43.2011386,2.7594661
+9935567235,node,La cabane de Vincent Boniface,restaurant,Narbonne,,,https://www.boniface-coquillages.com/nos-points-de-vente/,42.885655,3.0504774
+9965511061,node,La Peiriere,restaurant,Narbonne,,,,42.8827777,2.7182076
+10030110149,node,Chez Lio,restaurant,Narbonne,,,,43.0986775,3.1094048
+10030166520,node,La Caluche,restaurant,Narbonne,,,,43.0984228,3.1088946
+10031383743,node,La Petite Brasserie,restaurant,Narbonne,1 Boulevard Victor Hugo,,,43.1061924,3.0864407
+10559125201,node,Le maxim,restaurant,Narbonne,Gruissan,,,43.1086708,3.0934802
+10559153018,node,Le stromboli,restaurant,Narbonne,"Quai des Palmiers, Gruissan",,,43.109721,3.0989298
+10559153022,node,La croisette,restaurant,Narbonne,Gruissan,,,43.1092715,3.097623
+10559153023,node,Le miam,restaurant,Narbonne,Gruissan,,,43.110605,3.0952653
+10559153024,node,L'argonaute,restaurant,Narbonne,Gruissan,,,43.1102937,3.0958608
+10567512924,node,Le napoli,restaurant,Narbonne,"Rue du Loch, Gruissan",,,43.1103325,3.0933636
+10567512927,node,Il Téatro,restaurant,Narbonne,Gruissan,,,43.1093868,3.0973198
+10567512929,node,Côte et plage,restaurant,Narbonne,,,,43.1096937,3.1027982
+10567512930,node,La Cabane à Moules,restaurant,Narbonne,,,,43.1094489,3.1026453
+10576260513,node,37°2,restaurant,Narbonne,,,,43.1098509,3.1003051
+10583812215,node,L&L brasserie,restaurant,Narbonne,Gruissan,,,43.1085399,3.0938091
+10698403428,node,Chez Norbert,restaurant,Narbonne,5 Boulevard de la Douane,,,43.1781311,3.1903334
+10797100628,node,La Popote de Mimi,restaurant,Narbonne,22 Avenue de la Côte Revée,,https://fr.restaurantguru.com/La-popote-de-mimi-Leucate,42.9048837,3.0553997
+10848330633,node,Pizza Giovanni,restaurant,Narbonne,,,,43.179746,3.0034092
+10901211310,node,Chez Marius,restaurant,Narbonne,,,,43.1810903,3.003651
+10901244971,node,Le Centaurée,restaurant,Narbonne,9 Cours Mirabeau,,,43.1818785,3.0047492
+10907513091,node,Restaurant le Garganico,restaurant,Narbonne,12 Rue des Passerelles,,,43.1880848,3.0000198
+10944158024,node,Galla Placidia,hotel,Narbonne,,,,43.1890357,3.0061689
+11035479005,node,Cantemerle,restaurant,Narbonne,,,,43.166977,3.1768236
+11105045405,node,La Table de Nicolas,restaurant,Narbonne,,,,43.1834892,3.005972
+11118920128,node,La Table du Casino,restaurant,Narbonne,,,,43.2663035,2.8714684
+11128983610,node,Chez Bembé,restaurant,Narbonne,1 Rue de l'Orbieu,,,43.1469635,2.7261221
+11144881995,node,Portofino,restaurant,Narbonne,195 Avenue du Général de Gaulle,,,42.9064015,3.036097
+11173900666,node,Royal Kebab,restaurant,Narbonne,,,,43.1801172,3.0016552
+11173901601,node,Star Kebab,restaurant,Narbonne,25 Boulevard du Docteur Ferroul,,,43.180474,3.0046885
+11174172350,node,King Kebab,restaurant,Narbonne,,,,43.1870884,3.0076196
+11182024255,node,Papilles & nature,restaurant,Narbonne,"20 Place de la République, Leucate",,https://papilles-et-nature.eatbu.com/?lang=fr,42.9100595,3.0271672
+11212701139,node,Buffet du Monde,restaurant,Narbonne,1 Avenue de la Coupe,,,43.1567807,2.9799693
+11272642369,node,Château Capitoul,hotel,Narbonne,,,,43.1278097,3.0557735
+11314084569,node,La côte rêvée,hotel,Narbonne,55 Boulevard du Front de Mer,,https://la-cote-revee.amenitiz.io/fr,42.904814,3.0555871
+11405293893,node,Le Galion,restaurant,Narbonne,,,https://www.mer-sable-soleil.fr/restaurant/,42.9002158,3.0536909
+11466899341,node,Le petit péché,restaurant,Narbonne,10 Rue Armand Gauthier,,,43.1851479,3.0040965
+11466920996,node,La rotonde,restaurant,Narbonne,,,,43.1819275,3.0072029
+11504489809,node,Chez Fabienne,restaurant,Narbonne,,,,43.2510673,2.8325334
+11887087043,node,Le Cosy,restaurant,Narbonne,2 Boulevard de Villebrun,,https://restaurant-fruitsdemer-narbonne.fr/index.php/entrees-2poisson-frais-stpierrelamer/,43.1793091,3.1899023
+11887097915,node,Aozaï,restaurant,Narbonne,12 Place des Vergnettes,,,43.1789249,3.1897059
+11887118971,node,L’effet Mer,restaurant,Narbonne,,,,43.1801344,3.1917602
+11887118972,node,Le Matelot,restaurant,Narbonne,,,,43.1802792,3.191901
+11896755487,node,Le Playa,restaurant,Narbonne,,,,43.1791018,3.1900925
+11896755495,node,,restaurant,Narbonne,,,,43.1792106,3.1894184
+11896798407,node,Charly Barr,restaurant,Narbonne,12 Rue du Rocher,,,43.1783275,3.1895493
+11896798408,node,Le Vague À Bon,restaurant,Narbonne,8 Rue des Fusains,,,43.17864,3.189023
+11923916100,node,Le Petit Lac,restaurant,Narbonne,,,,43.1569517,2.9797035
+11966786610,node,Lou Castel,restaurant,Narbonne,,,,43.1799251,3.0024708
+11981440780,node,Les Cantalous à la mer,restaurant,Narbonne,,,,43.1096683,3.0949131
+11994750981,node,Le Mazagan,hotel,Narbonne,,,,43.0119121,3.0616636
+12014798470,node,Asia,restaurant,Narbonne,,,,43.1865941,3.0058763
+12028823543,node,Côté Piazza,restaurant,Narbonne,3 Place de la République,,,42.9102886,3.0277768
+12031049009,node,Shaky Shop Beach,restaurant,Narbonne,,,,43.1589377,3.1672077
+12061539716,node,La Terasse - Bar Glaces Cocktails,restaurant,Narbonne,,,,43.0961121,3.0846047
+12061539739,node,Le Traiteur du Village - Maison Franco,restaurant,Narbonne,1 Rue Fabre d'Églantine,,,43.1065073,3.0864313
+12061539744,node,Le Repère Pizzeria,restaurant,Narbonne,10 Boulevard Victor Hugo,,,43.1061157,3.0855958
+12066908686,node,La perle Gruissanaise,restaurant,Narbonne,,,https://laperlegruissanaise.fr/,43.1102288,3.1263466
+12088812113,node,Le Nopal,restaurant,Narbonne,16 Avenue Général Azibert,,,43.1058511,3.0848225
+12146785701,node,La bouche rit,restaurant,Narbonne,53 Boulevard des Embruns,,,43.1812265,3.1928128
+12146794901,node,Chez Fabio,restaurant,Narbonne,25 Boulevard des Embruns,,,43.18051,3.1920825
+12152220451,node,Le Pénélope,restaurant,Narbonne,"1 Rue Albert Lecocq, Leucate",,,42.8821029,3.050016
+12158504230,node,Cadence au musée,restaurant,Narbonne,"Avenue André Mècle, Narbonne",,,43.1787484,3.0185361
+12187809691,node,OKN9,restaurant,Narbonne,"9 Rue du Port, Paraza",,,43.2490343,2.832473
+12205983724,node,,restaurant,Narbonne,,,,43.1867772,3.0950084
+12213600175,node,Passe-temps,restaurant,Narbonne,4 Place Auguste Tailhades,,,43.2347117,3.0582834
+12214972657,node,,restaurant,Narbonne,,,,43.2347209,3.0576055
+12215061706,node,,restaurant,Narbonne,,,,43.2334382,3.0565435
+12248938484,node,Le bistro des amis,restaurant,Narbonne,,,,42.9901337,2.9512483
+12368000983,node,,restaurant,Narbonne,,,,43.0301041,2.9756958
+12368016920,node,,restaurant,Narbonne,,,,43.0288262,2.9780883
+12368016925,node,,restaurant,Narbonne,,,,43.0272825,2.9778965
+12368017234,node,,restaurant,Narbonne,,,,43.028676,2.9786952
+12368017235,node,,restaurant,Narbonne,,,,43.0277199,2.9783542
+12369414573,node,,restaurant,Narbonne,,,,42.9728968,2.9924233
+12369562896,node,Terracotta,restaurant,Narbonne,42 Avenue Jean Jaurès,,,42.9098222,3.0292825
+12369606357,node,Le Spot,restaurant,Narbonne,58 Avenue Jean Jaurès,,,42.9094549,3.0301764
+12455790704,node,,restaurant,Narbonne,,,,43.203433,3.0744052
+12613086880,node,Chez Jean-marc,restaurant,Narbonne,"8 Route d'Agel, Bize-Minervois",,https://restaurant-bize-minervois.com/,43.3165446,2.8711945
+12618319405,node,Hôtel de Paris,hotel,Narbonne,2 Rue du Lion d'Or,,https://www.hoteldeparis-narbonne.fr/,43.1845773,3.0023196
+12625915303,node,,restaurant,Narbonne,,,,42.9593099,2.9948247
+12645697548,node,La Cantina,restaurant,Narbonne,Bize-Minervois,,https://www.facebook.com/profile.php?id=61559945973453,43.3094493,2.8707866
+12773086746,node,Hôtel du Midi,hotel,Narbonne,4 Avenue de Toulouse,,https://hoteldumidi.net/,43.1825116,2.9971922
+12794163710,node,Les Délices De La Mer,restaurant,Narbonne,Mas n°2,,https://www.lesdelicesdelamer11.fr/,42.8854649,3.0508694
+12829938577,node,Moski Café,restaurant,Narbonne,"11 Rue des Deux Ponts, Lagrasse",,https://www.moksicafe.com/,43.0917583,2.6186737
+12830038278,node,La Basse Cour,restaurant,Narbonne,"11 Boulevard de la Promenade, Lagrasse",,https://www.restaurantlabassecour.fr/,43.0916035,2.6211212
+12836595806,node,Le Kiosque de WA,restaurant,Narbonne,"40 Boulevard de la Promenade, Lagrasse",,,43.0895388,2.6200347
+12836603779,node,Le Bul'Vard,restaurant,Narbonne,"20 Boulevard de la Promenade, Lagrasse",,,43.090463,2.6203971
+12861306031,node,Le Serengeti Restaurant-Cafétéria,restaurant,Narbonne,,,,43.0647688,2.9607812
+12908916723,node,Central Plage Leucate,restaurant,Narbonne,2 Avenue de la Falaise,,,42.9037073,3.0511741
+12912705110,node,Saveurs  Iodées,restaurant,Narbonne,,,,42.8858709,3.0500298
+12914988487,node,L'Hippocampe,restaurant,Narbonne,,,,42.8860262,3.0494975
+12914988489,node,Aux Noeuds Marins,restaurant,Narbonne,,,,42.8858478,3.0498473
+12914988490,node,Le 13 à la 12zaine,restaurant,Narbonne,,,,42.885547,3.0506969
+12914988491,node,Les Huitres de Philip,restaurant,Narbonne,3,,,42.8854388,3.0506988
+12915033602,node,Chez JO,restaurant,Narbonne,,,https://www.tourisme-leucate.com/offres/producteur-dhuitres-ange-gras-chez-jo-leucate-fr-2935023/,42.8857764,3.0502311
+12915033603,node,Gaec Leucatoise,restaurant,Narbonne,,,,42.885636,3.0502752
+12915033604,node,La Cabane du Producteur,restaurant,Narbonne,,,,42.8857496,3.0500367
+12956046978,node,Pop's Star,restaurant,Narbonne,3 Rue Dali,,https://www.tourisme-leucate.com/offres/pops-stars-port-leucate-leucate-fr-2945194/,42.8406318,3.0394497
+12956065728,node,Café-restaurant communal Le Nidtable,restaurant,Narbonne,,,,42.9601081,2.5278297
+12966009095,node,Pizza Hut,restaurant,Narbonne,,,,42.9503303,2.9694583
+12971886301,node,Oh La La Beach Leucate,restaurant,Narbonne,1920 Avenue Georges Candilis,,https://ohlala-beach.fr/,42.8391338,3.0432061
+12985392342,node,Brasserie de Parc,restaurant,Narbonne,,,,43.1813033,3.018003
+12987858192,node,Lunch Grill,restaurant,Narbonne,,,,42.9518006,2.9717504
+12987858193,node,Les Tables,restaurant,Narbonne,,,,42.9518055,2.9720731
+12987868861,node,Lunch Grill,restaurant,Narbonne,,,,43.2149187,3.0889642
+12997859534,node,O BarBerousse,restaurant,Narbonne,25 Rue Espert,,,43.1073513,3.0854818
+13038022602,node,Pizza Mongelli,restaurant,Narbonne,8 Quai Vallière,,,43.1810382,3.0066281
+13038034401,node,Ô SI PRÈS,restaurant,Narbonne,1 Rue Rouget de Lisle,,,43.1850752,3.0043343
+13066501919,node,L'escale du Somail,restaurant,Narbonne,,,https://lescaledusomail.fr/,43.2655012,2.9039808
+13125466103,node,Le Pôle Saint-Laurent,restaurant,Narbonne,"36 Avenue de Narbonne, Saint-Laurent-de-la-Cabrerisse",,,43.085646,2.7017241
+13130706329,node,Cadence,restaurant,Narbonne,15 Cours Mirabeau,,,43.1820987,3.0043764
+13138543754,node,La Bonbonnette,restaurant,Narbonne,"36 Avenue de Talairan, Saint-Laurent-de-la-Cabrerisse",,,43.0847552,2.697662
+13138543755,node,La Vieille Dame,restaurant,Narbonne,"49 Avenue de Talairan, Saint-Laurent-de-la-Cabrerisse",,,43.0854826,2.697735
+13138543756,node,La Pergola,restaurant,Narbonne,"55 Avenue de Narbonne, Saint-Laurent-de-la-Cabrerisse",,,43.0863942,2.7021409
+13142302815,node,Le Petit Motard,restaurant,Narbonne,"38 Avenue de la Gare, Thézan-des-Corbières",,,43.1046132,2.7667346
+13142596433,node,33 Restaurant,restaurant,Narbonne,"Rue du Passollis, Montséret",,,43.1051177,2.8102815
+13249659448,node,Le baramoule,restaurant,Narbonne,,,,43.1080399,3.0948253
+13249659449,node,Port beach,restaurant,Narbonne,,,,43.1083506,3.0942684
+13249685679,node,Le gab's,restaurant,Narbonne,,,,43.1082839,3.0944563
+13249687676,node,La regalada,restaurant,Narbonne,,,,43.1078906,3.0951091
+13249919898,node,Shelten,restaurant,Narbonne,,,,43.1084493,3.092732
+13273979401,node,Crepita Solomiya,restaurant,Narbonne,53 Rue Droite,,,43.1852491,3.0050888
+13274061633,node,RC Pizza,restaurant,Narbonne,"1466 Avenue de la Mer, Port-la-Nouvelle",,https://www.instagram.com/rcpizza_11210/,43.0148615,3.0621383
+13274061645,node,La Nouvelle Cantine,restaurant,Narbonne,"1436 Avenue de la Mer, Port-la-Nouvelle",,,43.0149822,3.0617853
+13347930403,node,Brasserie Plaisance,restaurant,Narbonne,29 Avenue du Champ de Mars,,https://brasserieplaisance.fr/,43.170947,2.9821688
+13412884999,node,Ô Juste,restaurant,Narbonne,"17 cours mirabeau, Narbonne",,https://www.ojuste.com,43.1822245,3.0041124
+13412902640,node,Boeuf et compagnie,restaurant,Narbonne,"2 Rue Ernest Cognacq, Narbonne",,https://boeuf-et-compagnie.fr/,43.1794791,3.03369
+13446595622,node,Hôtel des 2  golfs,hotel,Narbonne,"Quai du Paurel-B, Port-Leucate",,https://hoteldes2golfs.com/,42.8563295,3.0364433
+13526897490,node,VVF Narbonne Plage Saint Pierre la Mer,hotel,Narbonne,,,,43.1876998,3.1962306
+13526925306,node,Les Griselles,hotel,Narbonne,73,,,43.1835559,3.1948052
+13527304210,node,May Pizza,restaurant,Narbonne,,,,43.1587197,3.1669058
+13534419861,node,La Terrasse,restaurant,Narbonne,,,,43.0177548,3.0583713
+13541428964,node,Résidence Port -Leucate,hotel,Narbonne,Rue de la Prade,,,42.8590775,3.038003
+13544540107,node,Le Puech,hotel,Narbonne,,,,43.1673899,2.9891125
+13544540110,node,Bistro Régent,restaurant,Narbonne,9 Avenue du Quatourze,,,43.1675702,2.9889506
+13577404741,node,E Sushi,restaurant,Narbonne,11 Avenue Francis Vals,,,42.9112694,3.0259094
+13587469100,node,,restaurant,Narbonne,,,,43.1706844,2.9901705
+13587503667,node,,restaurant,Narbonne,,,,43.1818948,2.9974385
+13587518302,node,,restaurant,Narbonne,,,,43.1829582,3.0003401
+13666129035,node,L'Antre pôtes,restaurant,Narbonne,130 Rue de la Prade,,,42.8590811,3.0377425
+13667007093,node,L'Etage,restaurant,Narbonne,19 Place de la République,,,42.9099141,3.0274144
+13668240474,node,Le Cutty Sark,restaurant,Narbonne,260 Quai du Pla de l'Entrée,,,42.8652349,3.0423526
+13668710785,node,Château de Massignan,hotel,Narbonne,Saint-Marcel-sur-Aude,,https://chateau-de-massignan.com/,43.2501597,2.9264301
+13668921452,node,Bodega El Flamingo,restaurant,Narbonne,115 Avenue Jean Jaurès,,,42.9092928,3.03069
+13670787295,node,L'Amiral,restaurant,Narbonne,Quai Éric Tabarly,,https://fr.restaurantguru.com/LAmiral-Leucate,42.8577914,3.0379014
+13670787296,node,Les Voiliers,restaurant,Narbonne,1 Quai Éric Tabarly,,https://restaurant-les-voiliers.fr/,42.8571339,3.0376841
+13670798398,node,Le Bouche à Oreille,restaurant,Narbonne,"170 Rue de la Vixiege, Leucate",,,42.8577702,3.0394747
+13671452231,node,Face Al Mar,restaurant,Narbonne,51 Résidence Des Maisons de La Mer 2,,,42.8528307,3.043666
+13673887678,node,Les Deux Bouées,restaurant,Narbonne,,,,42.8861063,3.0495049
+13673887682,node,L'Embrun,restaurant,Narbonne,,,,42.8858978,3.04974
+13674211014,node,Le Poulpe,restaurant,Narbonne,Leucate-Plage,,,42.8984653,3.0543267
+13674219553,node,Playa Amor,restaurant,Narbonne,Chemin du Grau,,https://playaamor.fr/,42.8887686,3.051495
+13676845828,node,Le Mediterannée,restaurant,Narbonne,,,,42.8580113,3.0377085
+13680830461,node,Chez Marion,restaurant,Narbonne,169 Rue de la Prade,,,42.8586112,3.0385308
+13680915246,node,La Table d'Edgard,restaurant,Narbonne,Place du Grazel,,,42.8588668,3.0379439
+13680915247,node,Le Tempico,restaurant,Narbonne,Résidence La Capitane,,https://le-tempico.webnode.fr/,42.8598142,3.0377008
+13681121125,node,Martine Chea,restaurant,Narbonne,"34 Grau de Leucate, Leucate",,,42.8851426,3.0499653
+13681121126,node,L'Aquarium,restaurant,Narbonne,"Grau de Leucate, Leucate",,,42.8850389,3.0501053
+13686498130,node,Irish Pub Chez Augustin,restaurant,Narbonne,180 Rue de l'Avant-Port,,,42.8602168,3.0378668
+13740351701,node,Bakoua,restaurant,Narbonne,,,,43.1589068,3.1673818
+13798503901,node,Goélia,hotel,Narbonne,,,,43.0138667,3.0492003
+13806549611,node,Chez Franck Bistrot Village,restaurant,Narbonne,"4 Place du Château, Névian",,,43.2120799,2.9037589
+13841188126,node,Le dragon d'or,restaurant,Narbonne,,,,43.188627,3.0084478
+13908825205,node,Le Bodega,restaurant,Narbonne,,,,42.8590015,3.0378551
+13908825206,node,Le Récif,restaurant,Narbonne,,,,42.8588554,3.037702
+13908825207,node,le Saint-Michel,restaurant,Narbonne,Le Trimaran,,,42.8570048,3.036555
+13915207440,node,Les Morfales,restaurant,Narbonne,200 Rue de l'Avant-Port,,,42.860046,3.037736
+13915207441,node,L'Antre pôtes,restaurant,Narbonne,130 Rue de la Prade,,,42.8592769,3.0376595
+13926777675,node,Le  Cesario,restaurant,Narbonne,Quai Éric Tabarly,,https://linktr.ee/lecesario,42.8583138,3.0375866
+13955697284,node,La Dinette,restaurant,Narbonne,31 Place de la République,,,42.9097059,3.0271818

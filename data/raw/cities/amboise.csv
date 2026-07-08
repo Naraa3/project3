@@ -1,0 +1,73 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+461684800,node,La Salamandre,restaurant,Amboise,,,,47.415796,0.9829951
+781657413,node,Hôtel le Français,hotel,Amboise,6 Rue Voltaire,,,47.4118492,0.9814674
+781662210,node,Le Manoir Saint-Thomas,hotel,Amboise,1,,https://www.manoir-saint-thomas.com/,47.4104356,0.9868404
+781795755,node,Le Lion d'Or,restaurant,Amboise,17 Quai Charles Guinot,,,47.4137127,0.984846
+1089279324,node,,hotel,Amboise,,,,47.5255719,1.0441882
+1419371876,node,Le Petit Lussault,hotel,Amboise,,,,47.4090561,0.9462769
+2069623300,node,Château du Perreux,hotel,Amboise,,,,47.4368311,0.9679579
+2391114066,node,Ibis Budget Amboise,hotel,Amboise,,,,47.3977692,0.9887669
+2391114067,node,Novotel Amboise,hotel,Amboise,,,,47.3978051,0.9897003
+3035683135,node,L'Ambacia,restaurant,Amboise,,,,47.412739,0.9846782
+3035683137,node,,restaurant,Amboise,,,,47.412723,0.9848709
+3035683233,node,Via Roma,restaurant,Amboise,,,,47.4127577,0.9845487
+3035683234,node,Le Vinci,restaurant,Amboise,20 Place Michel Debré,,,47.4127142,0.9850161
+3035691343,node,L'Épicerie,restaurant,Amboise,,,,47.412604,0.9861034
+3035692441,node,Chez Bruno,restaurant,Amboise,,,,47.4126484,0.9857831
+3035719833,node,Brasserie Hippeau,restaurant,Amboise,3 Rue François 1er,,https://www.brasseriehippeau.fr/,47.4129999,0.9840216
+3035719834,node,Le Comptoir de Mamie Bigoude,restaurant,Amboise,"2, 37400",37400,https://comptoirmamiebigoude.com,47.4128816,0.9831802
+3035719836,node,Chez Hippeau,restaurant,Amboise,,,,47.4130019,0.9839294
+3035719838,node,La Florentine,restaurant,Amboise,,,,47.4125814,0.9862923
+3035719851,node,Premier Cru,restaurant,Amboise,,,,47.4128005,0.9841299
+3035906993,node,Le Rustic,restaurant,Amboise,,,,47.398307,0.9203846
+3059225064,node,Les Pieds dans le Plat,restaurant,Amboise,37530,37530,,47.4474877,1.0678184
+3060728606,node,Les Remparts,restaurant,Amboise,,,,47.4100744,0.9746891
+3072167555,node,La Cave aux Fouées,restaurant,Amboise,,,,47.4207911,1.0047209
+3077065079,node,La Bonne Etape,restaurant,Amboise,,,,47.4243475,1.0094469
+3077067358,node,La Bonne Étape,hotel,Amboise,,,,47.4242961,1.0095323
+3077273991,node,Ibis Pizza and Pasta,restaurant,Amboise,,,,47.4141583,1.0185821
+3122350435,node,Leonardo & Vinci Cottages,hotel,Amboise,"9 Avenue Léonard de Vinci, 37400, Amboise",37400,,47.4096993,0.9876678
+3441387553,node,L'Echanson,restaurant,Amboise,5 Rue d'Orange,,,47.4120508,0.9840164
+3441408319,node,Bellevue,hotel,Amboise,"12 Quai Charles Guinot, 37400, Amboise",37400,https://hotel-bellevue-amboise.com/,47.4134823,0.9843541
+3441408320,node,Lounge B,restaurant,Amboise,"12 Quai Charles Guinot, 37400, Amboise",37400,,47.4135086,0.9844664
+3441500679,node,La Terrasse,restaurant,Amboise,7 Rue Victor Hugo,,,47.4124916,0.9875047
+4679413889,node,Les Platanes,restaurant,Amboise,,,,47.4206507,0.9748707
+4685783089,node,Patisserie Boulay,restaurant,Amboise,,,,47.412641,0.9841231
+4692427178,node,Le Français,restaurant,Amboise,1,,,47.4120093,0.9812566
+4773356823,node,Le Parvis,restaurant,Amboise,Rue Mirabeau,,,47.412389,0.9862716
+4773389021,node,L'Alliance,restaurant,Amboise,14 Rue Joyeuse,,,47.4107962,0.9851454
+4825666321,node,Hôtel Restaurant La Brèche,hotel,Amboise,,,,47.4203622,0.9819222
+5108968318,node,Le Choiseul,hotel,Amboise,,,,47.4150517,0.9884691
+5108968319,node,Le Manoir Les Minimes,hotel,Amboise,"34 Quai Charles Guinot, 37400, Amboise",37400,https://manoirlesminimes.com/,47.4150151,0.9878048
+5825579155,node,La Fourchette,restaurant,Amboise,,,,47.4121388,0.9824209
+7050019089,node,L’Auberge du Prieuré,restaurant,Amboise,,,,47.4078434,0.9904372
+7137535585,node,L'Aubiniere,restaurant,Amboise,29 Rue Jules Gautier,,https://aubiniere.com/,47.4704131,0.9936662
+7747353711,node,Baalbeck,restaurant,Amboise,"42 Rue Nationale, 37400, Amboise",37400,,47.4118365,0.9827426
+8378207209,node,La Pause du Temps,restaurant,Amboise,"80 Rue Nationale, 37400, Amboise",37400,,47.4112004,0.9810281
+8870390411,node,La terrasse renaissance,restaurant,Amboise,,,,47.4105942,0.9915334
+8870390413,node,La Table du Moulin,restaurant,Amboise,,,,47.4094007,0.9915938
+8922491417,node,L'Écluse,restaurant,Amboise,,,https://www.ecluse-amboise.fr/,47.4116943,0.9875424
+8922493319,node,Le Patio,restaurant,Amboise,,,https://m.facebook.com/lepatioamboise,47.4124513,0.9838336
+8922499217,node,L'Îlot,restaurant,Amboise,,,,47.4103672,0.9838988
+8922508717,node,Les Arpents,restaurant,Amboise,,,https://restaurant-lesarpents.fr,47.4121083,0.9839862
+9723700508,node,La Réserve,restaurant,Amboise,,,,47.4126813,0.985347
+10804053611,node,Les 4 saisons - crêperie,restaurant,Amboise,44 Place Michel Debré,,,47.4126131,0.986023
+10834261111,node,Domaine de L'Arbrelle,hotel,Amboise,,,,47.3894376,1.0139957
+11405307069,node,Le Maître d'Art,restaurant,Amboise,"1 Rue de la Malonnière, 37400",37400,,47.4104338,0.9923243
+11457541625,node,Power One Sushi,restaurant,Amboise,"208 Avenue Léonard de Vinci, 37400, Amboise",37400,http://power-one-sushi.eatbu.com,47.4041589,1.0158367
+11778824160,node,La Fabrique,restaurant,Amboise,,,,47.4111747,0.9809361
+12036520775,node,La suite,restaurant,Amboise,"14 Rue Nationale, 37400, Amboise",37400,,47.4125092,0.9838909
+12036546316,node,L'amboisie,restaurant,Amboise,"68 Rue Nationale, 37400, Amboise",37400,https://bistrotamboisie.fr/,47.4113975,0.9816323
+12036546317,node,Nomads,restaurant,Amboise,"96 Rue Nationale, 37400, Amboise",37400,,47.4110408,0.9804373
+12145753377,node,Bistrot le Terminus,restaurant,Amboise,,,,47.4199849,0.9765784
+12145897263,node,La Scaleta,restaurant,Amboise,6-7 Quai Général de Gaulle,,https://la-scaleta.fr/restaurant-amboise/,47.4125377,0.9824354
+12146354220,node,Anne de Bretagne,restaurant,Amboise,,,,47.4130042,0.9844411
+12339034942,node,La Planque,restaurant,Amboise,,,,47.4113314,0.9873741
+12341075297,node,Sakana,restaurant,Amboise,,,,47.4164653,1.0159228
+12423143923,node,Auberge de Launay,hotel,Amboise,,,,47.4464157,1.0482708
+13195305782,node,Guinguette Sauvage,restaurant,Amboise,"15 Levée de la Loire, 37530, Chargé",37530,,47.4401189,1.0461948
+13722408671,node,Hôtel Chaptal (logis hotels),hotel,Amboise,,,,47.411042,0.982518
+13722452283,node,Le Clos d'Amboise,hotel,Amboise,,,,47.4105314,0.983815
+13722452289,node,Au charme rabelaisien,hotel,Amboise,,,,47.4105165,0.9835848
+13722461879,node,Le Pavillon des Lys,hotel,Amboise,,,,47.4118434,0.9844163
+13986529187,node,La Bonne Franquette,restaurant,Amboise,,,,47.4209584,0.8909081

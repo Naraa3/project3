@@ -1,0 +1,127 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+707729988,node,Ibis Styles,hotel,Villefranche-sur-Mer,06310,06310,https://www.accorhotels.com/,43.7062577,7.33105
+780409815,node,Hôtel Carlton,hotel,Villefranche-sur-Mer,06310,06310,,43.7044895,7.3290151
+780424352,node,Le Havre Bleu,hotel,Villefranche-sur-Mer,06310,06310,,43.7055939,7.3274365
+1395868617,node,Château Eza,hotel,Villefranche-sur-Mer,,,,43.7276864,7.3609672
+1395868622,node,La Chèvre d'Or,hotel,Villefranche-sur-Mer,,,,43.727424,7.3620834
+1608196640,node,La Baleine Joyeuse,restaurant,Villefranche-sur-Mer,,,,43.6983756,7.3069184
+1714546663,node,L'Oursin bleu,restaurant,Villefranche-sur-Mer,"11 Quai de l'Amiral Courbet, 06230, Villefranche-sur-Mer",06230,,43.703862,7.3122323
+1714546678,node,La Mère Germaine,restaurant,Villefranche-sur-Mer,"7;9 Quai de l'Amiral Courbet, 06230, Villefranche-sur-Mer",06230,,43.7036914,7.3121706
+1714546721,node,espuma,restaurant,Villefranche-sur-Mer,"17 Promenade des Marinières, 06230, Villefranche-sur-Mer",06230,,43.7066076,7.3136834
+1714546738,node,Lou Bantry,restaurant,Villefranche-sur-Mer,"13 Quai de l'Amiral Courbet, 06230, Villefranche-sur-Mer",06230,https://restaurant-lou-bantry.fr/,43.704022,7.3123663
+1714561393,node,Le Cosmo,restaurant,Villefranche-sur-Mer,11 Place Amélie-Pollonais,,,43.7031814,7.3115199
+1715875722,node,Le Trastevere,restaurant,Villefranche-sur-Mer,"7 Quai de l'Amiral Courbet, 06230, Villefranche-sur-Mer",06230,,43.7035792,7.3121318
+1715875723,node,Spalato,restaurant,Villefranche-sur-Mer,"5 Quai de l'Amiral Courbet, 06230, Villefranche-sur-Mer",06230,,43.7035016,7.3120916
+1715875729,node,La Pizze,restaurant,Villefranche-sur-Mer,,,,43.7033561,7.3109346
+1716093372,node,Marechiaro,restaurant,Villefranche-sur-Mer,,,,43.7027646,7.3112326
+1716144002,node,Le Calypso,restaurant,Villefranche-sur-Mer,,,,43.7029475,7.3118284
+1716376996,node,Le Mayssa,restaurant,Villefranche-sur-Mer,"Place wilson, 06230",06230,https://www.mayssabeach.fr/,43.7024273,7.3121915
+1723213265,node,La Régence,hotel,Villefranche-sur-Mer,,,,43.7028171,7.308511
+1920715817,node,La Caravelle,restaurant,Villefranche-sur-Mer,"3 Rue de l'Église, 06230, Villefranche-sur-Mer",06230,,43.7035435,7.3117024
+2169413507,node,Hermitage Du Col D'Eze,restaurant,Villefranche-sur-Mer,"1951 Avenue des Diables Bleus, 06360",06360,https://restaurant-le-v.com/,43.7314276,7.3415312
+2169413508,node,,hotel,Villefranche-sur-Mer,,,,43.7315129,7.3416796
+2195368716,node,Pourquoi Pas,restaurant,Villefranche-sur-Mer,,,,43.7106392,7.33582
+2268020924,node,La Fiancée du Pirate,hotel,Villefranche-sur-Mer,,,,43.7067753,7.3021397
+2268031792,node,Saint-Michel,hotel,Villefranche-sur-Mer,,,,43.7154497,7.3262802
+2268053619,node,Domaine du Mont Leuze,hotel,Villefranche-sur-Mer,,,,43.7210546,7.3177543
+2268054128,node,Maeva Palais de la Marine,hotel,Villefranche-sur-Mer,,,,43.7050465,7.3127493
+2389396684,node,,restaurant,Villefranche-sur-Mer,,,,43.6935054,7.3255211
+2504772190,node,Hostellerie Jérôme,hotel,Villefranche-sur-Mer,"20 Rue du Comté de Cessole, 06320, La Turbie",06320,,43.7449565,7.4004061
+2671854127,node,Marriott Hotel Riviera Monaco,hotel,Villefranche-sur-Mer,Port de Cap d'Ail,,https://www.marriott.com/hotels/travel/mcmcd-riviera-marriott-hotel-la-porte-de-monaco,43.7264602,7.4148524
+3338961193,node,L'Antre Potes,restaurant,Villefranche-sur-Mer,,,,43.7292974,7.3617797
+3479297745,node,La Régence,restaurant,Villefranche-sur-Mer,2 Avenue Prince Albert Ier de Monaco,,,43.7461708,7.4009174
+3479297752,node,La Cave Turbiasque,restaurant,Villefranche-sur-Mer,3 Place Théodore de Banville,,,43.7455057,7.4006257
+3545215290,node,La Terrasse,restaurant,Villefranche-sur-Mer,,,http://www.restaurant-la-terrasse-laturbie.fr/,43.744657,7.3998419
+3545240802,node,Aux Amis d'Auguste,restaurant,Villefranche-sur-Mer,"9 Route de Menton, 06320, La Turbie",06320,https://auxamisdauguste.eatbu.com/?lang=en,43.7469446,7.4015494
+3559664494,node,Edmond's Hôtel,hotel,Villefranche-sur-Mer,87 Avenue du 3 Septembre,,http://www.hotel-edmonds.com/,43.7232149,7.3964691
+3559664495,node,Edmond's,restaurant,Villefranche-sur-Mer,87 Avenue du 3 Septembre,,https://www.capresort.com/reservation-brasserie-edmonds/,43.7232135,7.3964161
+3559664499,node,Hôtel de Monaco,hotel,Villefranche-sur-Mer,"1 Avenue Pierre Weck, 06320, Cap-d'Ail",06320,https://hoteldemonaco.com/,43.7220492,7.3960809
+3559664500,node,Aux Délices,restaurant,Villefranche-sur-Mer,,,,43.7232222,7.3967453
+3559713712,node,Miramar,hotel,Villefranche-sur-Mer,"126 Avenue du 3 Septembre, 06320, Cap-d'Ail",06320,https://miramarhotel.fr/,43.7228964,7.3956421
+3559713723,node,Normandy,hotel,Villefranche-sur-Mer,6 Allée des Orangers,,https://hotelnormandy.no/,43.7225576,7.3955523
+3609765342,node,Le Saint-Jean,restaurant,Villefranche-sur-Mer,,,,43.6890962,7.3337411
+3613536311,node,Uvita,restaurant,Villefranche-sur-Mer,,,https://www.uvita-plage.com/,43.7245009,7.4110388
+3748231694,node,La Frégate,hotel,Villefranche-sur-Mer,,,,43.6903569,7.3330244
+3748231697,node,Passable,restaurant,Villefranche-sur-Mer,,,,43.6933888,7.3253831
+3943060842,node,L'Oliveto,restaurant,Villefranche-sur-Mer,Boulevard du Maréchal Leclerc,,,43.7300036,7.3616692
+3943148925,node,La Villa d'Èze,restaurant,Villefranche-sur-Mer,,,,43.7299474,7.3619883
+3943148926,node,Hôtel du Golfe,hotel,Villefranche-sur-Mer,,,,43.7299905,7.3620604
+3943282206,node,Chez Hehe,restaurant,Villefranche-sur-Mer,,,,43.7301183,7.3622957
+3943290758,node,Arc En Ciel,hotel,Villefranche-sur-Mer,06360,06360,,43.7294412,7.3615534
+3943758467,node,La Troubadour,restaurant,Villefranche-sur-Mer,,,,43.7280505,7.3620474
+3943964094,node,Château Eza Restaurant,restaurant,Villefranche-sur-Mer,,,,43.7277152,7.3610456
+3944026912,node,La Taverne,restaurant,Villefranche-sur-Mer,6 Carriera Plana,,https://www.lataverne-eze.fr/,43.7278074,7.3616933
+3944049624,node,,restaurant,Villefranche-sur-Mer,,,,43.7278438,7.361627
+3944158197,node,Le Nid d'Aigle,restaurant,Villefranche-sur-Mer,"1 Rue du Château, 06360",06360,https://www.leniddaigle-eze.com/,43.7279385,7.3615652
+3944245572,node,Le Mas Provencal,restaurant,Villefranche-sur-Mer,,,,43.7305152,7.3627056
+4065627084,node,Le Cabanon,restaurant,Villefranche-sur-Mer,,,https://www.capresort.com/le-cabanon/,43.7195146,7.4052531
+4225736803,node,Riviera,hotel,Villefranche-sur-Mer,,,http://www.hotel-riviera.fr/,43.7059794,7.3337884
+4225736807,node,La Table de la Réserve,restaurant,Villefranche-sur-Mer,,,https://www.reservebeaulieu.com/luxury-hotel/french-gastronomic-restaurant/la-table-de-la-reserve/,43.7058087,7.3348111
+4225736808,node,La Réserve de Beaulieu & Spa,hotel,Villefranche-sur-Mer,,,https://www.reservebeaulieu.com/,43.7057299,7.3353227
+4248807978,node,La Trinquette,restaurant,Villefranche-sur-Mer,"30 Avenue du Général de Gaulle, 06230, Villefranche-sur-Mer",06230,https://www.restaurant-trinquette-villefranche.com/,43.699802,7.3087182
+4277224790,node,Anjuna Beach Resort,restaurant,Villefranche-sur-Mer,"1 Avenue de la Liberté, 06360 Èze, Франция",,,43.7190601,7.3524336
+4316767528,node,La Réserve de la Mala,restaurant,Villefranche-sur-Mer,,,https://www.capresort.com/la-reserve-de-la-mala/la-reserve-de-la-mala-restaurant/,43.7222722,7.3906813
+4316767606,node,Eden plage Mala,restaurant,Villefranche-sur-Mer,,,http://www.edenplagelamala.com/,43.7225717,7.3904188
+4410656363,node,,restaurant,Villefranche-sur-Mer,"16 Rue de May, 06230, Villefranche-sur-Mer",06230,,43.7040901,7.3113654
+4415622513,node,La Pinède,restaurant,Villefranche-sur-Mer,"10 Avenue Raymond Gramaglia, 06320, Cap-d'Ail",06320,https://www.lapinederestaurant.com,43.7202175,7.3942409
+4550918558,node,La Cave Nature,restaurant,Villefranche-sur-Mer,17 Rue du Poilu,,,43.7038942,7.3116562
+4985180022,node,Anao Beach,restaurant,Villefranche-sur-Mer,"Avenue Fernand Dunan, 06310",06310,https://anaoplage.fr/,43.7028557,7.3300749
+5025864008,node,Little Italy,restaurant,Villefranche-sur-Mer,,,,43.6887502,7.3339614
+5025868868,node,Le Cadillac,restaurant,Villefranche-sur-Mer,,,,43.6888196,7.3340953
+5489085521,node,Nonna,restaurant,Villefranche-sur-Mer,,,https://www.nonnarestaurant.fr/,43.6909095,7.3338724
+5592933935,node,La Table de Patrick Raingeard Eze,restaurant,Villefranche-sur-Mer,,,https://www.capestel.com/en/restaurant/,43.7183276,7.3743999
+5599134363,node,Hôtel & Spa La Villa Cap Ferrat,hotel,Villefranche-sur-Mer,,,http://www.hotel-villa-cap-ferrat.com,43.6915672,7.3303765
+5936890218,node,Chez Tonton,restaurant,Villefranche-sur-Mer,"Port de Cap d'Ail, 06320, Monaco",06320,,43.7257002,7.414126
+6028526988,node,Le Chaudron,hotel,Villefranche-sur-Mer,06310,06310,,43.7022103,7.3271018
+6448545466,node,Le Vauban,hotel,Villefranche-sur-Mer,,,,43.7017582,7.3095815
+6482810145,node,Lucky Régal',restaurant,Villefranche-sur-Mer,"83 Avenue du 3 Septembre, 06320, Cap-d'Ail",06320,https://www.luckyregal.com,43.7231713,7.3972391
+6635204700,node,Da Rossana,restaurant,Villefranche-sur-Mer,"36 Basse Corniche, 06360",06360,,43.7192489,7.3513305
+6641353918,node,Hôtel Napoléon,hotel,Villefranche-sur-Mer,"7 Avenue de la Victoire, 06320, La Turbie",06320,https://www.hotel-napoleon.com/site/fr/accueil/,43.7455242,7.3996077
+6705097386,node,Food’Èze,restaurant,Villefranche-sur-Mer,,,,43.7276447,7.3549475
+6705097387,node,Le Bistro de l'étoile,restaurant,Villefranche-sur-Mer,"2 Place Charles II d'Anjou, 06230, Villefranche-sur-Mer",06230,,43.7040571,7.3101902
+6798243185,node,Madamepizza,restaurant,Villefranche-sur-Mer,,,,43.6903022,7.3338291
+6965518376,node,Les Palmeria,restaurant,Villefranche-sur-Mer,,,,43.7028818,7.3112351
+6965634655,node,La Belle Etoile,restaurant,Villefranche-sur-Mer,,,,43.7041615,7.3114255
+6965634657,node,La Cuisine,restaurant,Villefranche-sur-Mer,15 Rue du Poilu,,,43.7038406,7.3116361
+6965634658,node,La Tavola,restaurant,Villefranche-sur-Mer,11 Rue du Poilu,,,43.7036855,7.3115408
+6965634659,node,Le Mekong,restaurant,Villefranche-sur-Mer,7 Rue de l'Église,,,43.7036894,7.3112807
+6965634660,node,La Grignotière,restaurant,Villefranche-sur-Mer,,,https://www.la-grignotiere-restaurant-villefranche-sur-mer.com/,43.7034005,7.3112324
+6986352132,node,La Praria,restaurant,Villefranche-sur-Mer,"21 Promenade des Marinières, 06230, Villefranche-sur-Mer",06230,https://la-praia.metro.bar/?lang=fr,43.7065804,7.3172781
+6986352134,node,Alma Goût Méditerranée - Villefranche,restaurant,Villefranche-sur-Mer,,,https://www.privateaser.com/lieu/47789-alma,43.7049729,7.3128211
+6988820378,node,African Queen,restaurant,Villefranche-sur-Mer,,,,43.7102148,7.3355936
+7026996485,node,Le Café de la Fontaine,restaurant,Villefranche-sur-Mer,,,,43.7456177,7.4001812
+7036065758,node,La Corderie,restaurant,Villefranche-sur-Mer,"20 Quai de la Corderie, 06230, Villefranche-sur-Mer",06230,,43.6976581,7.3065876
+7778296673,node,Brise Marine,hotel,Villefranche-sur-Mer,,,https://www.hotel-brisemarine.com/,43.6872303,7.3386033
+7778310588,node,Nuit de Saïgon,restaurant,Villefranche-sur-Mer,"24 Avenue du 3 Septembre, 06320, Cap-d'Ail",06320,https://nuit-de-saigon-restaurant-cap-dail.eatbu.com/,43.7250662,7.4095521
+7778315837,node,La Cambuse,restaurant,Villefranche-sur-Mer,,,,43.7245389,7.4181081
+7778336200,node,La Voile d’Or,hotel,Villefranche-sur-Mer,,,https://www.lavoiledor.fr/,43.6881114,7.3369635
+7778344337,node,La Veranda,restaurant,Villefranche-sur-Mer,,,https://www.fourseasons.com/capferrat/dining/restaurants/la_veranda/,43.6770543,7.331864
+7778349840,node,Naos Beach,restaurant,Villefranche-sur-Mer,,,https://www.naosbeach.com/,43.7239296,7.4105833
+7779472302,node,LC food,restaurant,Villefranche-sur-Mer,06320,06320,,43.7269043,7.4115982
+7779492519,node,Le Cap,restaurant,Villefranche-sur-Mer,,,https://www.fourseasons.com/capferrat/dining/restaurants/le_cap/,43.6767533,7.3314763
+7784230602,node,Glacier Creperie Bretonne,restaurant,Villefranche-sur-Mer,,,,43.723207,7.3968574
+7796500344,node,Deli Bo,restaurant,Villefranche-sur-Mer,,,,43.7068468,7.3156546
+7834502495,node,A’Trego,restaurant,Villefranche-sur-Mer,,,https://www.restaurantatrego.com/,43.724903,7.413489
+7835808578,node,Villa Azur,hotel,Villefranche-sur-Mer,,,https://www.villazurcapdail.com/,43.7242228,7.4037224
+8036515101,node,Hôtel Delcloy,hotel,Villefranche-sur-Mer,,,,43.7016027,7.3276655
+8783532475,node,Baia Bella,restaurant,Villefranche-sur-Mer,,,https://www.baiabella.com/,43.7113652,7.3370389
+9011293819,node,La Vieille Maison,restaurant,Villefranche-sur-Mer,"18 Avenue de la Liberté, 06360",06360,,43.7224798,7.3563762
+9729265421,node,La Goëlette,restaurant,Villefranche-sur-Mer,"230 Nouveau Port Saint-Jean-Cap-Ferrat, 06230, Saint-Jean-Cap-Ferrat",06230,https://lagoelette-saintjeancapferrat.fr/,43.6897104,7.3340869
+9763762339,node,Ambrosia,restaurant,Villefranche-sur-Mer,"Port de plaisance, 06310, Beaulieu-sur-Mer",06310,,43.7105434,7.3357628
+9770729932,node,Le Fabuleux Destin,restaurant,Villefranche-sur-Mer,"Quai du Ponant, 06310, Beaulieu-sur-Mer",06310,,43.7098463,7.3355187
+9936055917,node,Le Bistrot de Banville,restaurant,Villefranche-sur-Mer,Place Théodore de Banville,,,43.7456026,7.4008171
+9969679344,node,Deli',restaurant,Villefranche-sur-Mer,5 Rue du Château,,,43.7280213,7.361535
+10937003735,node,Mets Vins Chics,restaurant,Villefranche-sur-Mer,,,,43.7293741,7.3618269
+10940665607,node,BBS,restaurant,Villefranche-sur-Mer,,,,43.6894191,7.3336516
+10970897103,node,Seaside Cafe,restaurant,Villefranche-sur-Mer,4 Avenue Denis Semeria,,,43.6896492,7.3333656
+11149697673,node,Diva,restaurant,Villefranche-sur-Mer,,,,43.6879893,7.3358132
+11343356028,node,Léoléa,restaurant,Villefranche-sur-Mer,,,,43.6895207,7.3342417
+11403973249,node,La Campagne,restaurant,Villefranche-sur-Mer,,,,43.7323165,7.3895759
+11871959561,node,L'Olivula,restaurant,Villefranche-sur-Mer,"13 Quai de l'Amiral Courbet, 06230, Villefranche-sur-Mer",06230,https://www.olivula-restaurant.fr,43.7039403,7.3122765
+11871959562,node,Dry,restaurant,Villefranche-sur-Mer,"17 Quai de l'Amiral Courbet, 06230, Villefranche-sur-Mer",06230,https://www.dryrestaurant.com,43.7041179,7.3124534
+11871959563,node,Ancora,restaurant,Villefranche-sur-Mer,"1 Quai de la Corderie, 06230, Villefranche-sur-Mer",06230,https://www.ancoravillefranche.fr/,43.6994878,7.3086526
+12323421905,node,,restaurant,Villefranche-sur-Mer,,,,43.7274285,7.4114871
+12829706616,node,Le Garçons,restaurant,Villefranche-sur-Mer,Villefranche-sur-Mer,,,43.7039017,7.3117573
+13150821125,node,Restaurant du Club Bouliste,restaurant,Villefranche-sur-Mer,,,,43.7271866,7.4133912
+13176492456,node,La Pétanque,restaurant,Villefranche-sur-Mer,,,,43.6977471,7.3065912
+13618510581,node,,restaurant,Villefranche-sur-Mer,,,,43.702883,7.3294458

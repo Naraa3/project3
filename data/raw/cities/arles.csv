@@ -1,0 +1,462 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+256432447,node,Le Fangassier,hotel,Arles,"12 Route de Cacharel, 13460, Saintes-Maries de la Mer",13460,https://www.hotel-le-fangassier.com/,43.4544348,4.4306847
+332189806,node,La Medina,restaurant,Arles,,,,43.6788178,4.6199788
+422848790,node,,hotel,Arles,,,,43.4506193,4.4305584
+510116610,node,La Pirate,restaurant,Arles,,,,43.4519489,4.4284933
+674756761,node,Hôtel st Victor,hotel,Arles,,,,43.7155625,4.6976592
+674758833,node,Auberge des Balastres,hotel,Arles,,,,43.7326207,4.7067038
+677813393,node,Bistrot des Canisses,restaurant,Arles,,,,43.725854,4.7082459
+765335650,node,Le Cheval Blanc,hotel,Arles,,,,43.6746158,4.6236438
+849779491,node,Maison Hache,restaurant,Arles,,,,43.7610205,4.9500196
+849779494,node,La Bastide,hotel,Arles,,,,43.7543821,4.9612123
+849781088,node,Sous les Micocouliers,restaurant,Arles,,,,43.7611144,4.9505347
+850172182,node,L'Aubergine,restaurant,Arles,,,,43.7605534,4.9506022
+902320899,node,Mas du Prieur,hotel,Arles,,,,43.6526736,4.6607894
+915293717,node,Café de Commerce,restaurant,Arles,,,,43.8614901,4.6929988
+1029953532,node,La Cachette,restaurant,Arles,"19 Place Honoré Clair, 13200, Arles",13200,,43.6773891,4.6254464
+1030007981,node,La Cantine Végétale,restaurant,Arles,"Place Félix Rey, 13200, Arles",13200,https://www.lacantinevegetale.fr/,43.6755869,4.625747
+1325592744,node,L'Aile ou la cuisse,restaurant,Arles,,,,43.788108,4.8319043
+1325592756,node,Le Bistrot des Alpilles,restaurant,Arles,,,,43.7888483,4.8332977
+1325592759,node,Chez L,restaurant,Arles,,,,43.7888237,4.8327496
+1362712342,node,La Playa,restaurant,Arles,,,,43.4553728,4.4418555
+1392069017,node,Villa Glanum,hotel,Arles,"13210, Saint-Rémy-de-Provence",13210,,43.7776336,4.8314342
+1416400029,node,Hôtel du Forum,hotel,Arles,"10 Place du Forum, 13200, Arles",13200,https://www.hotelduforum.com/,43.677434,4.626736
+1416483516,node,Apostrophe Café,restaurant,Arles,,,,43.677683,4.627231
+1416523999,node,Hôtel Jules César,hotel,Arles,"9 Boulevard des Lices, 13200, Arles",13200,https://www.hotel-julescesar.fr/,43.6749565,4.6284895
+1446024304,node,Le Mas de la Roseraie,hotel,Arles,,,,43.6645343,4.6550544
+1450119955,node,Le Bautezar,restaurant,Arles,"Grand Rue, 13520, Les Baux-de-Provence",13520,,43.7441194,4.7951951
+1514443568,node,Le Bistrot de Mathieu,restaurant,Arles,,,,43.8684531,4.8365712
+1660001260,node,La Bergerie de Méjanes,restaurant,Arles,,,https://mejanes-camargue.fr/fr/restaurants-la-bergerie-de-mejanes,43.5701862,4.5055994
+1660001261,node,LeRemake,restaurant,Arles,,,,43.452106,4.4271039
+1660001269,node,Le Tourne Broche,restaurant,Arles,,,,43.4519326,4.4272045
+1660001272,node,Mas de la Chapelle,hotel,Arles,,,,43.7226807,4.6337933
+1660321010,node,L'abbaye de Montmajour,restaurant,Arles,,,,43.7066232,4.6645765
+1661525832,node,Le Calendal,hotel,Arles,"5 Rue Porte de Laure, 13200, Arles",13200,https://www.lecalendal.com/,43.676837,4.6305078
+1666982559,node,,hotel,Arles,,,,43.795239,4.695252
+1776980191,node,Le Prince noir,hotel,Arles,,,,43.743388,4.7952774
+1849074941,node,Ibis,hotel,Arles,,,https://all.accor.com/ssr/app/ibis/rates/0692/index.fr.shtml?destination=arles-france&compositions=1&dateIn=2025-05-29&dateOut=2025-05-30&nights=1&hideWDR=false&accessibleRoom=false,43.6661132,4.633434
+1923483659,node,Hôtel de Cacharel,hotel,Arles,"13460, Les Saintes Maries de la Mer",13460,https://www.hotel-cacharel.com/,43.4932032,4.445088
+1932292663,node,Le Cloître,hotel,Arles,,,https://www.lecloitre.com,43.6760412,4.6287726
+2122667398,node,Du Bar à l'Huitre,restaurant,Arles,"12 Place du Forum, 13200, Arles",13200,,43.6773472,4.6267798
+2134650790,node,Le Mas de Cocagne,hotel,Arles,,,,43.4584215,4.4249342
+2141317725,node,Hôtel des Granges,hotel,Arles,,,,43.7215272,4.650627
+2151749302,node,Bec Restaurant,restaurant,Arles,55 Avenue de la Vallée des Baux,,https://www.bec-restaurant.com/,43.7206691,4.7866104
+2151749405,node,Le Bistrot du Paradou,restaurant,Arles,,,,43.7204309,4.7848316
+2151968736,node,Le Resto de la Gare,restaurant,Arles,,,,43.6225299,4.8009505
+2152011243,node,Pizza Brun,restaurant,Arles,,,,43.7218516,4.8006756
+2241171373,node,Regence,hotel,Arles,13200,13200,https://www.hotel-regence.com/,43.6809626,4.6305871
+2241171450,node,Chez Mam Goz,restaurant,Arles,,,,43.6766192,4.6304142
+2268113071,node,L'Amandière,hotel,Arles,,,https://hotel-amandiere.com/,43.7954762,4.8397597
+2364553384,node,Cabane Bambou,restaurant,Arles,,,,43.6397266,4.8931163
+2486682704,node,Les Goûts orientaux,restaurant,Arles,"10 Rue du 4 Septembre, 13200, Arles",13200,,43.6796327,4.6307644
+2676885600,node,Hôtel Constantin,hotel,Arles,,,,43.6740076,4.6220075
+2809969132,node,Ibis Budget,hotel,Arles,,,,43.671002,4.6193443
+2809969133,node,Ibis Styles,hotel,Arles,,,,43.6709187,4.6196339
+2929379148,node,La Terrasse des Baux,restaurant,Arles,,,,43.743927,4.7949822
+2937408734,node,Hôtel du Musée,hotel,Arles,11 Rue du Grand Prieuré,,http://www.hoteldumusee.com,43.6791081,4.6279263
+3056980900,node,Du côté des olivades,restaurant,Arles,,,,43.7233878,4.7969882
+3074353235,node,Le Terminus,restaurant,Arles,"6 Place Colonel Berrurier, 13150, Tarascon",13150,,43.8024457,4.6569504
+3074353236,node,Bistro la Place,restaurant,Arles,"2 Place Colonel Berrurier, 13150, Tarascon",13150,,43.8026163,4.6570712
+3118228772,node,Le Chiangmaiï,restaurant,Arles,"20bis Rue du Soleil, 13310, Saint-Martin-de-Crau",13310,https://www.lechiangmai.fr/,43.6356767,4.8145898
+3129286492,node,Le Trident,restaurant,Arles,"10 Place Colonel Berrurier, 13150, Tarascon",13150,,43.8020314,4.6566555
+3129306044,node,Tailles de bon,restaurant,Arles,"1 Place Colonel Berrurier, 13150, Tarascon",13150,https://www.tailles-de-bon-restaurant.com/,43.8015581,4.6578084
+3148210544,node,Arles Plaza,hotel,Arles,"45 Avenue Sadi Carnot, 13200, Arles",13200,https://www.hotelarlesplaza.com/,43.6716396,4.6239284
+3346369106,node,La Bodega,restaurant,Arles,,,,43.45204,4.4291853
+3346369108,node,La Siesta by NC,restaurant,Arles,10 Avenue Van Gogh,,https://brasserielasiestabync.com/,43.4504992,4.4284026
+3346369109,node,Le Penequet,restaurant,Arles,,,,43.4506138,4.4293613
+3346369111,node,Lou Gabian,restaurant,Arles,,,,43.4516349,4.4302958
+3346458330,node,La Brise,hotel,Arles,,,,43.4522778,4.4334349
+3346458332,node,Le Bleu Marine,hotel,Arles,,,,43.4546584,4.4335023
+3346458333,node,Le Dauphin Bleu,hotel,Arles,,,,43.4523625,4.4336418
+3346477302,node,Les Launes,restaurant,Arles,,,,43.4498911,4.4227025
+3346477303,node,,hotel,Arles,,,,43.4533431,4.4348245
+3380969015,node,Le Baux Gourmand,restaurant,Arles,"Grand Rue, 13520, Les Baux-de-Provence",13520,,43.7444188,4.7953718
+3708006825,node,balladins,hotel,Arles,,,,43.698185,4.642152
+3717106760,node,Brasserie La Fontaine,restaurant,Arles,,,,43.452067,4.4277934
+3717106762,node,La Grange,restaurant,Arles,Avenue Frédéric Mistral,,,43.4518477,4.4266621
+3717106763,node,La Maison de Jeanne,restaurant,Arles,4 Place Jousé d'Arbaud,,,43.4518161,4.4271573
+3717258725,node,La Suite...,restaurant,Arles,,,,43.4525299,4.428509
+3810989002,node,La Chassagnette,restaurant,Arles,"13200, Arles",13200,https://www.chassagnette.fr/,43.5676344,4.6674351
+4073105689,node,Le Crin Blanc,hotel,Arles,"Domaine CRIN BLANC CD 37 HAMEAU de SALIERS ALBARON, 13200, Arles",13200,,43.6611715,4.4735933
+4150775892,node,Auberge De Noves,hotel,Arles,"Route de CHATEAURENARD, 13550, Châteaurenard",13550,https://www.aubergedenoves.com/,43.8853276,4.8821324
+4235272512,node,Mad de Rey,hotel,Arles,,,,43.8852954,4.7989462
+4239915096,node,Best Western,hotel,Arles,1 Rue Émile Fassin,,,43.6744605,4.628249
+4265707058,node,Le Plaza,restaurant,Arles,,,,43.6782607,4.6263833
+4362380530,node,Mas Des Lys,hotel,Arles,,,,43.4743395,4.4096433
+4362387036,node,Mas De Lys,hotel,Arles,,,,43.4746103,4.4093624
+4423835150,node,Le Côté jardin,restaurant,Arles,"4 Place Albert Gérard, 13660, Orgon",13660,http://www.le-cote-jardin.fr/,43.7915996,5.0400704
+4462926856,node,L'Oustaù de Baumanière,hotel,Arles,,,https://www.baumaniere.com/hebergement,43.7401362,4.7885263
+4462926857,node,L'Oustaù de Baumanière,restaurant,Arles,"13520, Les Baux-de-Provence",13520,https://www.baumaniere.com/gastronomie/loustau-de-baumaniere,43.7470213,4.7955483
+4462926858,node,La Cabro d'Or,restaurant,Arles,,,https://www.baumaniere.com/gastronomie/la-cabro-dor,43.740138,4.7873357
+4706506992,node,La Reine Jeanne,hotel,Arles,,,,43.7449176,4.7953632
+4706506994,node,La bella vista,restaurant,Arles,,,,43.7440063,4.794764
+4706641761,node,Au Porte Mages,restaurant,Arles,"Rue Porte Mage, 13520, Les Baux-de-Provence",13520,,43.7449226,4.7956016
+4729240350,node,Les Saladelles,restaurant,Arles,,,,43.4144054,4.734673
+4798785428,node,Le Criquet,restaurant,Arles,"21 Rue Porte de Laure, 13200, Arles",13200,,43.6763869,4.630598
+4798788892,node,L'Escaladou,restaurant,Arles,"23 Rue Porte de Laure, 13200, Arles",13200,,43.6763271,4.6305807
+4831204031,node,Hôtel Présent,hotel,Arles,5 Place Voltaire,,https://www.hotelpresent.fr/,43.6799574,4.6314955
+4876392525,node,La bouvine,restaurant,Arles,,,,43.4519165,4.4269125
+4876392622,node,La taverne Italienne,restaurant,Arles,,,,43.4521459,4.4270132
+4876402321,node,Le Rouget,restaurant,Arles,,,,43.451303,4.4264997
+4876452521,node,La Casita,restaurant,Arles,3 Rue Espelly,,,43.4507916,4.4271858
+4876455825,node,Les flots bleus,restaurant,Arles,,,,43.4510263,4.4266439
+4877529124,node,Restaurant Le Pont Des Bannes,restaurant,Arles,"Route d'Arles, 13460, Saintes-Maries-de-la-Mer",13460,https://www.lesbainsgardians.com/restaurant-bar,43.4639805,4.4200605
+4880159621,node,Les Salicornes,restaurant,Arles,"Rue du Vaccares, 13200, Arles",13200,,43.5738403,4.622833
+4880159622,node,Le Mazet du Vaccarès,restaurant,Arles,"13200, Arles",13200,https://mazet-du-vaccares.fr/,43.5577623,4.490796
+4880159623,node,Le Galoubet,hotel,Arles,,,,43.4562016,4.4321921
+4880364721,node,Les Embruns,restaurant,Arles,,,,43.4504401,4.4297648
+4881632728,node,La Mama Sita,restaurant,Arles,"8 Avenue Léon Gambetta, 13460",13460,,43.4508009,4.4298066
+4881632729,node,Le Fournelet,restaurant,Arles,,,,43.4508156,4.4301099
+4881639321,node,Casa Marina,hotel,Arles,,,,43.4510457,4.4309346
+4904657017,node,La Transumance,hotel,Arles,,,,43.6327478,4.8021621
+4938177333,node,Memphis,restaurant,Arles,"Route Nationale 113, 13200, Arles",13200,https://memphis-coffee.com/memphis-arles,43.6513638,4.6694516
+4976301289,node,Le Double J,restaurant,Arles,,,,43.4497261,4.4017121
+4979366188,node,Café de la Roquette,restaurant,Arles,"12 Place Paul Doumer, 13200, Arles",13200,,43.6767024,4.6232075
+4979366189,node,La Placette,restaurant,Arles,"28 Place Paul Doumer, 13200, Arles",13200,,43.6769327,4.6235569
+4979366199,node,Páou,restaurant,Arles,13200,13200,https://www.paou-arles.fr/,43.6767074,4.6234877
+4979405911,node,Vivotto,restaurant,Arles,"10 Rue Gambetta, 13200, Arles",13200,https://vivotto.com/,43.6768982,4.6248398
+4979405914,node,Arles Pizza,restaurant,Arles,"18 Rue des Porcelets, 13200, Arles",13200,,43.6769586,4.6237515
+4992109147,node,Les Palmiers,hotel,Arles,,,,43.451089,4.4251731
+4992109149,node,Romarin,restaurant,Arles,,,,43.4521974,4.4267865
+4992109150,node,L'Esperado,restaurant,Arles,,,,43.4510275,4.4264491
+4992109151,node,Le Mistral,restaurant,Arles,,,,43.4508011,4.4263977
+4992109152,node,L'Estanco,restaurant,Arles,,,,43.4516879,4.426607
+4992635407,node,L'Escaladou,restaurant,Arles,,,,43.4516182,4.4269824
+4995950887,node,Ô Pica Pica,restaurant,Arles,,,,43.4504105,4.4275753
+4995950893,node,Le Camargue,restaurant,Arles,,,,43.450853,4.4281966
+4995950894,node,La Cabane aux Coquillages,restaurant,Arles,,,,43.4504134,4.4276533
+4995950895,node,La Laupio,restaurant,Arles,1 Rue Paul Peyron,,,43.4505251,4.4279406
+5000382446,node,Le Jardin des Délices,restaurant,Arles,,,,43.450009,4.4230058
+5034687914,node,La Celtie,restaurant,Arles,29 Rue du 8 Mai 1945,,,43.7877486,4.8314364
+5047658708,node,Paulette,restaurant,Arles,,,,43.7617623,4.9494521
+5131089321,node,Chez xa,restaurant,Arles,"24 Boulevard Mirabeau, 13210",13210,,43.7894058,4.8336713
+5184858429,node,Le Bistrot de l'Église,restaurant,Arles,,,,43.4514506,4.4281758
+5205926635,node,L’entrevue,restaurant,Arles,"Place Nina Berberova, 13200",13200,https://www.lentrevue-restaurant.com/,43.6784883,4.6248283
+5255624221,node,La Chamade,restaurant,Arles,,,,43.4504114,4.427836
+5281652279,node,La Tour de Pise,restaurant,Arles,"24 Rue du Président Wilson, 13200, Arles",13200,,43.6758533,4.6261361
+5281778341,node,L'ingénu,restaurant,Arles,"13 Place Voltaire, 13200, Arles",13200,,43.6799334,4.6317509
+5281821728,node,Sous les figuiers,hotel,Arles,,,https://www.hotelsouslesfiguiers.com/,43.7913137,4.8311291
+5299700181,node,La Bergerie Provencale,restaurant,Arles,"Route de la Crau, 13280, Raphele les Arles",13280,,43.6489321,4.7051534
+5313316583,node,Restaurant Bellevue,restaurant,Arles,,,,43.786883,5.0466425
+5327934619,node,Le Bistrot de Mogador,restaurant,Arles,"Route de Maussane, 13990, Fontvieille",13990,,43.7355997,4.742256
+5350859487,node,Chez Vincent,restaurant,Arles,"Route de la Crau, 13280, Raphele",13280,,43.6450349,4.716257
+5351512223,node,Chez Marco,restaurant,Arles,"39 Avenue de la République, 13310, Saint-Martin-de-Crau",13310,,43.637432,4.8074012
+5351530782,node,Hoi-An,restaurant,Arles,"Place Général de Gaulle, 13310, Saint-Martin-de-Crau",13310,,43.6375885,4.80791
+5351544536,node,Le Saint'M,restaurant,Arles,"6 Place Georges Brassens, 13310, Saint-Martin-de-Crau",13310,http://www.saintmenprovence.com/,43.6383427,4.8101995
+5358650597,node,Hostellerie de la Tour,hotel,Arles,3 Rue des Plumelets,,,43.7262158,4.7026816
+5470513475,node,Café de la Fontaine,restaurant,Arles,70 Avenue de la Vallée des Baux,,https://www.lecafedelafontaine.com/,43.7208247,4.8052232
+5470517582,node,Au Bistrot Marin,restaurant,Arles,68 Avenue de la Vallée des Baux,,https://www.aubistrotmarin.fr/,43.7208489,4.80514
+5552059636,node,Hôtel de l'Avenir,hotel,Arles,"Avenue de la République, 13310, Saint-Martin-de-Crau",13310,,43.6380124,4.8088106
+5664005108,node,Roma,restaurant,Arles,"33 Boulevard Marceau, 13210, Saint-Rémy-de-Provence",13210,https://www.restaurant-le-roma.com,43.7880224,4.8304248
+5664005114,node,Café La Place,restaurant,Arles,,,http://cafedelaplace-stremy.fr/,43.7884979,4.8292324
+5664005115,node,Hôtel Gounod,hotel,Arles,,,,43.7886347,4.8292293
+5664005116,node,"Da Peppe, Pizzeria",restaurant,Arles,,,,43.7888074,4.8292312
+5703880523,node,Une Table au Soleil,restaurant,Arles,,,,43.7434161,4.7946185
+5703904922,node,Saveurs et Terroirs,restaurant,Arles,"Rond-Point des Arènes, 13200, Arles",13200,,43.6774468,4.6301035
+5729002362,node,El Paséo,restaurant,Arles,,,,43.67799,4.6269239
+5729002363,node,Le Galoubet,restaurant,Arles,,,,43.6782434,4.6268683
+5731740607,node,Le Bistro Arlésrien,restaurant,Arles,,,,43.6777839,4.6272077
+5731740608,node,Mezza Luna,restaurant,Arles,,,,43.6778751,4.6270347
+5757210505,node,Pizza di Napoli,restaurant,Arles,"21 Avenue du Foirail, 13310, Saint-Martin-de-Crau",13310,https://pizzeria-di-napoli.fr/,43.6330441,4.8044083
+5759242221,node,Rest’Otentik,restaurant,Arles,"17 Rue du 8 Mai 1945, 13210",13210,,43.7879237,4.8314781
+5759323422,node,Mas des Barres,hotel,Arles,,,,43.5147839,4.3967321
+5759323423,node,,hotel,Arles,,,,43.4596426,4.4217045
+5814613753,node,La petite table,restaurant,Arles,9 Rue de la Cavalerie,,,43.6806799,4.6313889
+5825254253,node,Cuisine de comptoir,restaurant,Arles,"10 Rue de la Liberté, 13200, Arles",13200,http://www.cuisinedecomptoir.com/,43.6778202,4.6263733
+5840227276,node,Fratelli,restaurant,Arles,,,,43.7889557,4.8295221
+5844458511,node,All'ostaria,restaurant,Arles,,,,43.7894308,4.8312751
+5845665413,node,Cuisine des anges,restaurant,Arles,,,,43.7880639,4.8313056
+5849779054,node,Honoré,restaurant,Arles,3 Boulevard Mirabeau,,https://www.honorebrunch.fr,43.7885696,4.8328865
+5887711067,node,L'Oustalet Maianen,restaurant,Arles,"16 Avenue Lamartine, 13910, Maillane",13910,,43.8312982,4.7824344
+5981777605,node,Cuit Cuit,restaurant,Arles,"2 Rue du Docteur Fanton, 13200, Arles",13200,https://www.thegoodarles.com/entreprises/rotisserie-et-sommeil-arles-cuit-cuit/,43.6783048,4.6276008
+6002816012,node,Brasserie des arènes,restaurant,Arles,,,,43.4504438,4.4272557
+6049353369,node,La Table Cabannaise,restaurant,Arles,,,,43.8609964,4.94853
+6111102143,node,Le rendez-vous,restaurant,Arles,"17 Rue Copernic, 13310, Saint-Martin-de-Crau",13310,https://www.facebook.com/lerendezvousstmartindecrau/,43.6426339,4.7970974
+6113889082,node,Izakayan,restaurant,Arles,"3 Rue de la Cavalerie, 13200, Arles",13200,,43.6809102,4.6314216
+6116862899,node,Euro d'Asie,restaurant,Arles,,,,43.6641186,4.6395831
+6126976475,node,A Côté Le Bistro,restaurant,Arles,"21 Rue des Carmes, 13200, Arles",13200,https://www.rabanel.com/le-bistro-a-cote.html,43.675796,4.6268788
+6126976476,node,Salle à manger,restaurant,Arles,"Rue des Carmes, 13200, Arles",13200,https://www.rabanel.com,43.6758183,4.6271089
+6126988846,node,Le Café de la place,restaurant,Arles,"Rue du Président Wilson, 13200, Arles",13200,https://www.artetgourmandise-arles.fr/,43.6757394,4.6262003
+6126994298,node,Enjoy Tacos,restaurant,Arles,,,,43.6753036,4.6265254
+6126996776,node,Lao café,restaurant,Arles,"Boulevard des Lices, 13200, Arles",13200,,43.6754113,4.6274045
+6139968447,node,Lib'En Arles,restaurant,Arles,"7 Rue de la Cavalerie, 13200, Arles",13200,,43.6808304,4.6314061
+6139968448,node,Hôtel Acacias,hotel,Arles,"Rue de la Cavalerie, 13200, Arles",13200,https://hotel-arles.brithotel.fr/,43.6809479,4.6311191
+6139968449,node,Le Vietnam,restaurant,Arles,,,,43.6808641,4.6311445
+6139968450,node,Maison Volver,hotel,Arles,"8 Rue de la Cavalerie, 13200, Arles",13200,https://www.maisonvolver.com/,43.6806616,4.6310993
+6139984636,node,Menara,restaurant,Arles,"5 Rue Voltaire, 13200, Arles",13200,,43.6804227,4.6313352
+6139992066,node,Hôtel Le Voltaire,hotel,Arles,"1 Place Voltaire, 13200, Arles",13200,https://www.hotelvoltairearles.com,43.679999,4.631315
+6140017216,node,Le Cochon qui fume,restaurant,Arles,"Rue Léon Blum, 13200, Arles",13200,,43.6800865,4.6309173
+6140017220,node,Le Ginestre,restaurant,Arles,"53 Rue Condorcet, 13200, Arles",13200,,43.6796666,4.6317227
+6142324502,node,Pizza Moulin's,restaurant,Arles,"27 Route de la Crau, 13280, Raphèle-lès-Arles",13280,,43.6449393,4.718537
+6147018743,node,Le Vingt-Quatre,restaurant,Arles,"24 Avenue Victor Hugo, 13200, Arles",13200,,43.6750083,4.6354253
+6147018745,node,Les Ateliers,restaurant,Arles,"31 Avenue Victor Hugo, 13200, Arles",13200,https://www.brasserie-les-ateliers-restaurant-arles.com/,43.6746558,4.6350457
+6153576661,node,All'Oro,restaurant,Arles,"3 Rue Dulau, 13200, Arles",13200,,43.676485,4.6254008
+6153576662,node,Cosmos,restaurant,Arles,"5 Rue Dulau, 13200, Arles",13200,,43.6764187,4.6253821
+6165849235,node,Lou Marquès,restaurant,Arles,"9 Boulevard des Lices, 13200, Arles",13200,https://www.hotel-julescesar.fr/fr/page/restaurant-bar.45.html,43.6749185,4.6282548
+6166963727,node,Jardin des Arts,restaurant,Arles,"38 Rue de la République, 13200, Arles",13200,https://jardindesarts.fr/,43.676458,4.6258102
+6173558205,node,L'Estelle en Camargue,hotel,Arles,,,https://www.hotelestelle.com/,43.4704019,4.3957623
+6178367296,node,La Maison des Gourmants,restaurant,Arles,"26 Rond-Point des Arènes, 13200, Arles",13200,https://www.facebook.com/pages/La-Maison-des-Gourmands/242466292889455,43.6769785,4.6306328
+6178367298,node,Chez Félix,restaurant,Arles,"32BIS Rond-Point des Arènes, 13200, Arles",13200,https://restaurant-chez-felix.fr/,43.6769749,4.6310522
+6178367299,node,Sakura,restaurant,Arles,"32 Rond-Point des Arènes, 13200, Arles",13200,https://sakurarles.com/,43.6769793,4.6309792
+6444027985,node,La Maison - Domaine de Bournissac,restaurant,Arles,,,www.lamaison-a-bournissac.com,43.835269,4.8821608
+6449149985,node,Bar Restaurant de l'Étang,restaurant,Arles,,,,43.4516126,4.4248263
+6455896713,node,Chez Toinou,restaurant,Arles,,,,43.3854063,4.8053095
+6455960164,node,Brasserie les Pins,restaurant,Arles,,,,43.3876689,4.8025067
+6482067186,node,Mas Saint Bertrand,restaurant,Arles,,,https://www.mas-saint-bertrand.com,43.4488329,4.6614848
+6513213749,node,Palace grill,restaurant,Arles,,,,43.637918,4.8093046
+6544199473,node,Le Mas du Capoun,restaurant,Arles,"27 Avenue des Paluds, 13940, Mollégès",13940,http://www.masducapoun.com/,43.8066271,4.9474675
+6544267527,node,Bistrot Chez Ju,restaurant,Arles,"21 Traverse du poids public, 13940, Mollégès",13940,https://bistrot-chez-ju.fr,43.8052238,4.9499065
+6546893839,node,La Maison Bleue,hotel,Arles,"35 Avenue du Comtat, 13940, Mollégès",13940,,43.8067076,4.9499968
+6546950187,node,Clos Dou Capoun,hotel,Arles,"27 Avenue des Paluds, 13940, Mollégès",13940,http://www.masducapoun.com/,43.8066409,4.9475589
+6547169175,node,Mas des Angelots,hotel,Arles,"435 Chemin de Bouscaron, 13940, Mollégès",13940,,43.8018912,4.9540203
+6554791568,node,Albergo Provenza,hotel,Arles,"Chemin de la Crau, 13670, Saint-Andiol",13670,,43.8268224,4.9558224
+6554982396,node,Le Mas Des Peupliers,hotel,Arles,"Chemin des Costières, 13670, Saint-Andiol",13670,https://www.location-alpilles.com/,43.8161296,4.9272602
+6555172777,node,Traiteur Girard,restaurant,Arles,"921 Route de Saint-Rémy, 13670, Saint-Andiol",13670,,43.8284763,4.9266125
+6557691883,node,Restaurant Route 66,restaurant,Arles,"533 Route de Marseille, 13750, Plan-d'Orgon",13750,,43.8043764,5.0006001
+6557866268,node,Le Planais,restaurant,Arles,"92 Route de Cavaillon, 13750, Plan-d'Orgon",13750,https://www.leplanais-pizzeria.fr/,43.8079718,4.9965507
+6557934277,node,La Cigale au bord de l'eau,hotel,Arles,"447 Route des Écoles, 13750, Plan-d'Orgon",13750,,43.813394,4.9996816
+6596578102,node,Casa Marina,restaurant,Arles,,,,43.4510171,4.4308515
+6610178568,node,Un Bouchon en Provence,restaurant,Arles,,,,43.8406042,4.8408673
+6621123181,node,Gaudina,restaurant,Arles,,,,43.6777384,4.627812
+6654737613,node,La Cuisine de Daudet,restaurant,Arles,,,,43.7260909,4.71428
+6715337986,node,Domaine de Manville,hotel,Arles,,,https://www.domainedemanville.fr/fr/,43.7325398,4.8014909
+6720600067,node,La Salsa,restaurant,Arles,,,,43.4515982,4.4271784
+6727069552,node,L'Épicerie du Cloître,restaurant,Arles,,,,43.6759658,4.6285537
+6727082406,node,i Cocorrico !,restaurant,Arles,"33 Rue Porte de Laure, 13200, Arles",13200,https://www.thegoodarles.com/entreprises/cocolino-restaurant-bistronomique-arles/,43.6760484,4.6304333
+6776736886,node,Le pueblo,restaurant,Arles,,,,43.5852605,4.4575139
+6820038985,node,Le Patio des Alyscamps,restaurant,Arles,,,,43.67339,4.6325297
+6821695685,node,La Casa Romana,restaurant,Arles,6 Rue Joseph Roumanille,,https://www.casa-romana-restaurant-saintes-maries-de-la-mer.fr/,43.4523194,4.4278556
+6863551313,node,Kaly Sushi,restaurant,Arles,,,,43.7037938,4.6440508
+6863551323,node,Dreams Donuts,restaurant,Arles,,,https://www.maison-annepauline.com/,43.7041941,4.6441985
+6863679722,node,Chez Etienne,restaurant,Arles,,,https://www.facebook.com/Bistrot-Chez-Etienne--110763346968280/,43.7051944,4.6439276
+6863710920,node,La Meunerie,restaurant,Arles,"22 Avenue de la Libération, 13200, Arles",13200,https://www.la-meunerie.fr/,43.7055069,4.6443081
+6863710922,node,Bistro Braisé,restaurant,Arles,,,,43.7055863,4.6440725
+6863710923,node,O'Tacos,restaurant,Arles,,,,43.7055338,4.6439691
+6910808787,node,Le Marilyn,restaurant,Arles,,,,43.7893026,4.8303966
+6919657818,node,La Taverne du Forum,restaurant,Arles,"Place du Forum, 13200, Arles",13200,,43.6778677,4.6271495
+6919776021,node,Pitalito,restaurant,Arles,"49 Rue des Arènes, 13200, Arles",13200,,43.6777579,4.6275501
+6919776022,node,Bodeguita,restaurant,Arles,"16 Rue de l'Hôtel de Ville, 13200, Arles",13200,https://www.bodeguita.fr/,43.6776545,4.6276975
+6928764195,node,Restaurant de la Treille,restaurant,Arles,"13150, Tarascon",13150,https://www.frigolet.com/un-lieu-d-accueil/restaurant,43.8581138,4.7269812
+7027703513,node,Chez Madame Ly,restaurant,Arles,"7 Avenue Albert Schweitzer, 13210, Saint-Rémy-de-Provence",13210,,43.7930032,4.8332927
+7054329269,node,Jaipur Palace,restaurant,Arles,"27 Rue Porte de Laure, 13200, Arles",13200,,43.676192,4.6304967
+7061418749,node,La Telline,restaurant,Arles,,,,43.5779201,4.621604
+7074407978,node,Le By Pass,restaurant,Arles,,,,43.4147137,4.7344032
+7078361586,node,Le Bigouden,restaurant,Arles,"13200, Arles",13200,,43.675702,4.6257839
+7078377719,node,La Mule Blanche,restaurant,Arles,"9 Rue du Président Wilson, 13200, Arles",13200,https://lamuleblanchearles.wordpress.com/,43.6760285,4.6263763
+7080641015,node,Inari,restaurant,Arles,"16 Place Voltaire, 13200, Arles",13200,https://www.inari-arles.com,43.6798994,4.6310439
+7080641016,node,L'oriental,restaurant,Arles,13200,13200,,43.6805662,4.6313598
+7080801646,node,Sô Sushi,restaurant,Arles,"24 Boulevard des Lices, 13200, Arles",13200,,43.6754229,4.6275262
+7084629457,node,Le Petit Arles,restaurant,Arles,"29 Rue de l'Hôtel de Ville, 13200, Arles",13200,,43.6772363,4.6278336
+7101090866,node,Dim-Mui,restaurant,Arles,"22 Rue de l'Hôtel de Ville, 13200, Arles",13200,,43.677443,4.6277137
+7105340781,node,Pia,restaurant,Arles,,,,43.6752624,4.6262266
+7105361877,node,La Comédie,restaurant,Arles,"10 Boulevard Georges Clemenceau, 13200, Arles",13200,https://lacomedie-arles.com/,43.675267,4.6260346
+7105413109,node,Café George,restaurant,Arles,"20 Boulevard Georges Clemenceau, 13200, Arles",13200,https://cafe-georges-arles.fr/,43.6753124,4.6257357
+7107793965,node,La Succulente,restaurant,Arles,"35 Rue Voltaire, 13200, Arles",13200,https://la-succulente-arles.eatbu.com/?lang=fr,43.6793662,4.631079
+7107817189,node,Volubilis,restaurant,Arles,"53 Rue Voltaire, 13200, Arles",13200,,43.678797,4.6308776
+7107820767,node,L'Hostellerie des Arènes,restaurant,Arles,"62 Rue du Refuge, 13200, Arles",13200,https://www.l-hostellerie-des-arenes-restaurant-arles.com/,43.6783924,4.6315805
+7107838888,node,Crok'Panda,restaurant,Arles,,,,43.6795996,4.6309725
+7107838889,node,Le Pitchounet,restaurant,Arles,"22 Place Voltaire, 13200, Arles",13200,,43.6797351,4.6310069
+7122952182,node,L'Oriel,restaurant,Arles,"3 Rue Barrêmes, 13200, Arles",13200,,43.6775697,4.6264452
+7137263689,node,La Caravelle,restaurant,Arles,,,,43.6790759,4.6267524
+7137515909,node,La Gueule du Loup,restaurant,Arles,"39 Rue des Arènes, 13200, Arles",13200,https://www.restaurant-lagueuleduloup.fr/,43.6777369,4.6279747
+7137528082,node,Chardon,restaurant,Arles,"37 Rue des Arènes, 13200, Arles",13200,https://www.hellochardon.com/,43.6777182,4.6280828
+7137530664,node,Chez ta Mère,restaurant,Arles,"42 Rue des Arènes, 13200, Arles",13200,,43.6778407,4.627524
+7138765344,node,La Bohême,restaurant,Arles,"6 Rue Balze, 13200, Arles",13200,,43.6769589,4.6265356
+7147642316,node,Chez Fabrice,restaurant,Arles,"25 Avenue Nostradamus, 13310, Saint-Martin-de-Crau",13310,,43.638765,4.8164177
+7286408976,node,Le Restaurant Pluvinel,restaurant,Arles,"40, 13520",13520,https://pluvinel.fr/pluvinel_restaurant.html,43.7091214,4.8072775
+7432977496,node,,hotel,Arles,,,,43.3882058,4.8085275
+7432977498,node,Le Bistrot du Marché,restaurant,Arles,,,,43.3878201,4.8079544
+7464322165,node,L'oranger,restaurant,Arles,,,,43.8631172,4.6935165
+7485637277,node,La Brasserie de Marie,restaurant,Arles,,,,43.8028331,4.6625415
+7751993085,node,Chez Rachida,restaurant,Arles,,,,43.8191716,4.8050098
+7762465072,node,Le Constantin,restaurant,Arles,"6 Rue du Sauvage, 13200, Arles",13200,,43.6787599,4.627505
+7788067027,node,N'Apo,restaurant,Arles,"Place du Forum, 13200, Arles",13200,,43.6775699,4.6272446
+7797191358,node,Mas des Rièges,hotel,Arles,,,,43.4615855,4.4289091
+7885097090,node,Le Bouchon Rouge,restaurant,Arles,"Rue du Trencat, 13520, Les Baux-de-Provence",13520,https://www.lebouchonrouge.fr,43.7433947,4.7948815
+8013732747,node,Aki Poke,restaurant,Arles,,,,43.6767726,4.6251332
+8319639782,node,La Guigou,hotel,Arles,,,https://www.baumaniere.com/hebergement,43.743976,4.7910646
+8355896546,node,O'sushi bar,restaurant,Arles,3 Avenue de la Libération,,https://www.so-sushi-bar.fr/,43.7889654,4.8338838
+8445160682,node,,restaurant,Arles,,,,43.876008,4.9019442
+8460879458,node,Le Mistral,restaurant,Arles,"26 Boulevard Itam, 13150, Tarascon",13150,,43.8062913,4.6590771
+8504054938,node,Jana la Cuisine du Voyage;Jana la cuisine du voyage,restaurant,Arles,"5 Avenue de la Libération, 13210, Saint-Rémy-de-Provence",13210,https://jana-la-cuisine-du-voyage.eatbu.com,43.7889687,4.834014
+8578779562,node,L'Ami Provençal,restaurant,Arles,"35 Place de l'Église, 13990, Fontvieille",13990,https://lamiprovencal.fr/,43.7263429,4.70936
+8892432655,node,Le Bistro Populaire,restaurant,Arles,"1 Rue Girard le Bleu, 13200, Arles",13200,https://www.thegoodarles.com/entreprises/bistrot-populaire-restaurant-coquillages-arles/,43.6769899,4.6312759
+8926371926,node,Brasserie du MIN,restaurant,Arles,,,,43.8862643,4.8572989
+8954361026,node,Le château,restaurant,Arles,,,https://restaurant-le-chateau13.eatbu.com/?lang=fr,43.8063629,4.6556978
+8954361028,node,La Canterane,hotel,Arles,,,,43.8067071,4.6557527
+8954361029,node,Le Tartarin,restaurant,Arles,,,https://www.campingtartarin.fr/,43.8076578,4.6561226
+9015329518,node,L'Essentiel,restaurant,Arles,"Place Antonelle, 13200, Arles",13200,,43.677196,4.624293
+9015414981,node,,restaurant,Arles,,,https://www.masdaigret.com/hotel-restaurant-baux-de-provence,43.7451777,4.7995562
+9029685886,node,Les Baux Jus,restaurant,Arles,,,,43.7441752,4.7949665
+9031317116,node,La Camarque,restaurant,Arles,,,,43.4100203,4.7269743
+9236048114,node,L'Adresse,restaurant,Arles,,,,43.6751341,4.6337376
+9236079048,node,Brasserie L'Arôme,restaurant,Arles,"Avenue Victor Hugo, 13200, Arles",13200,,43.674776,4.6328558
+9287745896,node,Dans la Cuisine,restaurant,Arles,,,,43.6768143,4.6429625
+9352451460,node,La Péniche,restaurant,Arles,"Quai Saint-Pierre, 13200, Arles",13200,http://www.la-peniche-arles.com/,43.6800218,4.6242963
+9379892469,node,Ô Pat'Thaï,restaurant,Arles,"6 Rue du 4 Septembre, 13200, Arles",13200,,43.6796692,4.6308767
+9380024518,node,Dune,restaurant,Arles,"8 Rue Réattu, 13200, Arles",13200,,43.678816,4.6280938
+9441785350,node,Le Comptoir des Gourmets,restaurant,Arles,"18 Place Colonel Berrurier, 13150, Tarascon",13150,,43.8017151,4.6564722
+9486105020,node,Les Arnelles,hotel,Arles,"Route d'Arles, 13460, Saintes-Maries-de-la-Mer",13460,https://www.lesarnelles.com,43.4623082,4.423316
+9555793746,node,Du début à la faim,restaurant,Arles,"10 Rue du Président Wilson, 13200, Arles",13200,,43.6761681,4.6260426
+9606124913,node,L'Aile ou la Cuisse,restaurant,Arles,"34 Boulevard Mirabeau, 13210, Saint-Rémy-de-Provence",13210,https://www.laile-ou-la-cuisse-restaurant-saint-remy-de-provence.com/,43.7899915,4.8342064
+9606134419,node,Les délices de C.Line.B,restaurant,Arles,"34 Boulevard Mirabeau, 13210, Saint-Rémy-de-Provence",13210,https://www.laile-ou-la-cuisse-restaurant-saint-remy-de-provence.com/,43.7897027,4.8342572
+9657797317,node,Pizza KBO,restaurant,Arles,,,,43.4101387,4.7264989
+9669821034,node,Wok D'asie,restaurant,Arles,102 Chemin de l'Oratoire,,https://www.lewokdasie.fr,43.888733,4.852618
+9673936623,node,Le Forum,restaurant,Arles,,,,43.6493607,4.6382019
+9707558899,node,Café Restaurant de l'Avenir,restaurant,Arles,"2 Avenue Alain Guigue, 13104, Arles",13104,,43.5587602,4.7277741
+9727008941,node,L'Embuscadère,restaurant,Arles,,,,43.4508279,4.4306614
+9763839719,node,La Cuisine au Planet,restaurant,Arles,"144 Grand'Rue, 13990",13990,https://lacuisineauplanet.fr/,43.7264153,4.7074211
+9796572008,node,La ginguette aux perroquets,restaurant,Arles,494 Route de Robert,,https://la-guinguette-aux-perroquets.eatbu.com/?lang=fr,43.5511111,4.7240842
+9813016630,node,Chez Nina,restaurant,Arles,,,,43.4150464,4.7344716
+9831564069,node,QG,restaurant,Arles,"Rue Amédée Pichot, 13200, Arles",13200,,43.6799614,4.6307686
+9846791717,node,Le Progrès,restaurant,Arles,,,,43.760833,4.9501719
+9850598209,node,L'Atelier du Moulin,restaurant,Arles,"Rue de L'Armistice, 13930, Aureille les Alpilles",13930,,43.7065515,4.9477346
+9859125220,node,O Jinko,restaurant,Arles,"8 Place Paul Doumer, 13200, Arles",13200,,43.6767956,4.6231991
+9862769997,node,Pizzeria La Mamma,restaurant,Arles,,,,43.6792791,4.630293
+9862769998,node,La Pergula,restaurant,Arles,,,,43.6763942,4.6304622
+9864018423,node,Restaurant chez Maria et Didier,restaurant,Arles,,,,43.8030521,4.6582415
+9864018451,node,Bistro la Caseta,restaurant,Arles,,,,43.8045567,4.6570478
+9864323477,node,Le Médina,restaurant,Arles,"31 Rue des Porcelets, 13200, Arles",13200,https://fr.restaurantguru.com/La-Medina-Arles-Arles,43.676858,4.6236705
+9922510831,node,À Côté,restaurant,Arles,"16 Rue du Capitaine Fouque, 13460, Les Saintes-Maries-de-la-Mer",13460,,43.4506336,4.4280219
+9943437217,node,La régie,restaurant,Arles,,,,43.5220034,4.4053803
+9952274696,node,Brasserie Le Caf'Or,restaurant,Arles,852 Boulevard Ernest Genevet,,,43.8877043,4.8556375
+9960095303,node,Le Castel,restaurant,Arles,,,https://www.lecastel-chateaurenard.fr,43.8833958,4.8534618
+9960095310,node,Pizza Pronto,restaurant,Arles,,,https://pizzapronto13.com/,43.8832464,4.8524428
+9960095311,node,Les Glycines d'Antan,restaurant,Arles,12 Avenue Victor Hugo,,https://www.lesglycinesdantan.fr/,43.8828786,4.8535455
+9967410770,node,Family's Pizza,restaurant,Arles,"5 Rue Isaac Newton, 13310, Saint-Martin-de-Crau",13310,,43.6408665,4.7973652
+10066478325,node,Padthai-ya,restaurant,Arles,"1 Rue Isaac Newton, 13310, Saint-Martin-de-Crau",13310,,43.6412812,4.7971429
+10066478326,node,Ho Sushi,restaurant,Arles,"1 Rue Isaac Newton, 13310, Saint-Martin-de-Crau",13310,,43.6412607,4.7972456
+10221759902,node,Le Maquis Akwaba,restaurant,Arles,,,,43.6769882,4.6306758
+10253080911,node,Pizza Vero,restaurant,Arles,37 Rue des Iris,,,43.6436714,4.8186837
+10253613747,node,Hôtel de l'Amphithéâtre,hotel,Arles,"5 Rue Diderot, 13200, Arles",13200,https://www.hotelamphitheatre.fr/,43.6773392,4.6291267
+10253614045,node,Hôtel du Viaduc,hotel,Arles,"9 Rue du Viaduc, 13150, Tarascon",13150,https://www.hotelduviaduc.com/,43.801637,4.6602242
+10282352209,node,La Fabrique Des Sens,restaurant,Arles,,,,43.4522572,4.4334703
+10314514434,node,Sotheary,restaurant,Arles,"28 Rue Voltaire, 13200",13200,,43.6794938,4.6309604
+10539888010,node,Hôtel Le Provençal,hotel,Arles,,,https://www.leprovencal-tarascon.com/,43.8032304,4.6565526
+10779325555,node,Hôtel Arlatan,hotel,Arles,"20 Rue du Sauvage, 13200, Arles",13200,https://www.arlatan.com/,43.678583,4.6271698
+10779331301,node,L'Arlatan,restaurant,Arles,"26 Rue du Sauvage, 13200, Arles",13200,https://www.arlatan.com/fr/,43.6784029,4.6270921
+10792196302,node,L'antonelle,restaurant,Arles,,,,43.6769807,4.624335
+10792226614,node,Le Gibolin,restaurant,Arles,,,,43.6769522,4.6241589
+10812417505,node,Maussane-les-Alpilles,restaurant,Arles,"34 Avenue de la Vallée des Baux, 13520",13520,,43.7215842,4.8031157
+10814887769,node,Le Commerce,restaurant,Arles,,,,43.6897065,4.8707466
+10814896870,node,La casa de Pizza,restaurant,Arles,,,,43.6891523,4.8713468
+10815012576,node,Song Long,restaurant,Arles,11 Avenue Pasteur,,,43.6890376,4.8717839
+10816738958,node,Bar Hôtel Restautant L'Agachon,restaurant,Arles,,,https://www.hotelrestaurantlagachon.fr/,43.6097333,4.4772601
+10816814334,node,Le Flamant Rose,restaurant,Arles,"184 Rue des Peupliers Blancs, 13200, Arles",13200,https://www.leflamantrose.com/,43.6115734,4.475631
+10912061191,node,Pizzeria de la Tour,restaurant,Arles,,,,43.3852386,4.805219
+10914573427,node,Le Comptoir des Gourmands,restaurant,Arles,,,,43.3869555,4.8061814
+10914668265,node,Rest'O Bout du Monde,restaurant,Arles,,,,43.3870139,4.8063155
+10914713920,node,Crêperie du Port,restaurant,Arles,,,,43.3868659,4.8060873
+10914713921,node,Sushi Bar,restaurant,Arles,,,,43.3868304,4.8059482
+10916572920,node,Le Bistro de la Tour,restaurant,Arles,,,,43.3851477,4.8050089
+10959483768,node,Karine,restaurant,Arles,,,,43.7605147,4.9502689
+10989217178,node,La Guinguette des Baux,restaurant,Arles,,,,43.7493522,4.7954229
+10998263813,node,Chez Adrien,restaurant,Arles,76 Grand'Rue,,,43.7265491,4.7084782
+11012962805,node,Monstre,restaurant,Arles,,,,43.6770994,4.6256171
+11044441485,node,La Table du Meunier,restaurant,Arles,,,,43.7264913,4.710328
+11067664169,node,Hôtel de l'Image,hotel,Arles,,,,43.7878871,4.832741
+11125741929,node,Le Cafe Du Soleil,restaurant,Arles,"144 Avenue Henri Barbusse, 13630, Eyragues",13630,,43.839517,4.8401356
+11156490906,node,,restaurant,Arles,,,,43.7879812,4.8319173
+11159221106,node,Lulu's Kitchen,restaurant,Arles,,,,43.6762535,4.6305156
+11173489837,node,Antico Mulino,restaurant,Arles,13210 Impasse Jaume Comte,,,43.7881559,4.8322024
+11179396637,node,mesiba,restaurant,Arles,"15 B Avenue André et Denis Pellissier, 13210",13210,https://www.mesiba.fr/,43.7881634,4.8408402
+11229141237,node,Le Central,hotel,Arles,27 Cours Carnot,,https://www.facebook.com/restaurantlecentral/,43.8834906,4.8545225
+11229144037,node,Bar des Allées,restaurant,Arles,,,https://www.le-cafe-des-allees-restaurant-chateaurenard.com/,43.8839678,4.8571003
+11240491343,node,Snack Camargue,restaurant,Arles,,,,43.4520895,4.4271985
+11240491344,node,Lou Planet Provençal,restaurant,Arles,,,,43.451885,4.4269942
+11272593509,node,Camille en Provence,restaurant,Arles,19 Boulevard du Quatre Septembre,,,43.8819733,4.8541063
+11291166802,node,Jimmy N Drinks,restaurant,Arles,6 Rue Fernand Gras,,,43.8833653,4.8544145
+11291236098,node,Bar des Lonnes,restaurant,Arles,,,,43.8822112,4.8314608
+11329517892,node,Hanoi & Café,restaurant,Arles,,,,43.8773184,4.9028004
+11336261435,node,Le Cabanon,restaurant,Arles,,,,43.6976118,4.6354353
+11336333314,node,Krystal,restaurant,Arles,,,https://lekrystal.com/restaurants/,43.6657036,4.7492517
+11463641969,node,Mecha Uma,restaurant,Arles,"15 Avenue de la Libération, 13210",13210,https://mecha-uma-saint-remy.eatbu.com/,43.788877,4.834484
+11543813902,node,Aux Pieds Tanques,restaurant,Arles,3 Giratoire Place Saint Joseph,,,43.9022112,4.7559914
+11654584269,node,Mas de l’echanson,restaurant,Arles,,,,43.8881397,4.8627199
+11741698166,node,Côté Jardin,restaurant,Arles,,,,43.4507046,4.4263849
+11788040416,node,,hotel,Arles,,,,43.6784202,4.6288197
+11892105869,node,L'Apsara,restaurant,Arles,,,https://www.apsara-arles.com/,43.6794422,4.6315523
+11893549469,node,Le Nid,hotel,Arles,,,,43.4893212,4.4040816
+11893549570,node,Le Chalut,restaurant,Arles,,,,43.4524036,4.4270483
+11893549571,node,L'escaluna,restaurant,Arles,,,,43.4523306,4.4268637
+11893549572,node,La Cour,restaurant,Arles,,,,43.4522445,4.4268425
+11893562570,node,Coco Fuego,restaurant,Arles,,,,43.4523466,4.4269909
+11893564769,node,Andaluz,restaurant,Arles,,,,43.4526562,4.4272886
+11893564770,node,A fleur de sel,restaurant,Arles,,,,43.4524899,4.4271629
+11893564771,node,Le Miramar,restaurant,Arles,,,,43.4505882,4.4263587
+11894822470,node,La Bohème,restaurant,Arles,,,,43.4516375,4.4282689
+11894823073,node,Hosteria,restaurant,Arles,16 Rue Paul Peyron,,,43.4509041,4.4273474
+11894823074,node,Hotel Camille,hotel,Arles,,,,43.4504333,4.4298694
+11895170269,node,Le Delta,restaurant,Arles,,,,43.4523367,4.4282149
+11895544069,node,Colosseo Pinsa Romana,restaurant,Arles,23 bis Rond-Point des Arènes,,https://www.colosseo-pinsa.com/,43.6781243,4.6316601
+11895548169,node,Mon Chou,restaurant,Arles,,,,43.6799561,4.6314112
+11899275570,node,Le Chante Clair,restaurant,Arles,3 Place des Remparts,,,43.4521839,4.4275422
+11899284970,node,Le Tamaris,restaurant,Arles,,,,43.4523386,4.4276579
+11907848108,node,Ô Caprices de Mathias,restaurant,Arles,,,,43.7812227,4.8404874
+11927907847,node,La cabane du pêcheur chez za,restaurant,Arles,,,,43.4868752,4.3826752
+11940206009,node,Nord-Pinus,restaurant,Arles,,,https://nord-pinus.com/fr/restaurant,43.6773832,4.6269576
+11942001854,node,L'Auberge Sommelier,restaurant,Arles,,,,43.7810238,4.725254
+11942079977,node,O - Bistrot Gourmand,restaurant,Arles,,,,43.7813935,4.7317635
+11953197591,node,Le Patio,restaurant,Arles,,,,43.7279029,4.7123419
+11953235717,node,La Regalido,hotel,Arles,,,,43.7273942,4.7097056
+11967543843,node,L'O à la bouche,restaurant,Arles,,,,43.680757,4.6313927
+11982723470,node,Le Goustarou,restaurant,Arles,,,,43.7884278,4.8308753
+11983511470,node,Vente à Emporter,restaurant,Arles,Boulevard Gambetta,,,43.7904974,4.8325316
+11985484139,node,Le 3B,restaurant,Arles,4 Avenue de Lattre de Tassigny,,,43.8975767,4.8033028
+12007580569,node,Les Rizières,hotel,Arles,,,https://www.lesrizieres-camargue.com,43.471096,4.4105013
+12015113973,node,Le Capoun,restaurant,Arles,13210,13210,,43.7933852,4.8291482
+12041354669,node,La Caye,restaurant,Arles,Rue du Forum,,,43.677553,4.6265963
+12099562101,node,Oboulaba,restaurant,Arles,"32 Rond-Point des Arènes, 13200",13200,,43.6769341,4.631114
+12164626836,node,Tonio Pizza,restaurant,Arles,,,,43.8843543,4.8547595
+12165029274,node,Le jardin des pin-up,restaurant,Arles,"3 Place Favier, 13210, Saint-Rémy-de-Provence",13210,,43.7894565,4.8309364
+12178648916,node,Le Bistrot des Anges,restaurant,Arles,,,,43.8059209,4.6585217
+12234347855,node,,restaurant,Arles,,,,43.4124003,4.740108
+12278438836,node,Maison Marshall,restaurant,Arles,,,https://m.facebook.com/michel.marshall.127/,43.7890694,4.8317757
+12280933761,node,Hôtel Van Gogh,hotel,Arles,1 Avenue Jean Moulin,,https://www.hotel-vangogh.com/en,43.7885561,4.8381634
+12280945307,node,Chez Madame Ly,restaurant,Arles,,,,43.7886303,4.8353598
+12281376607,node,La maison Favier,restaurant,Arles,,,,43.7895223,4.8311525
+12281500674,node,L'AO,restaurant,Arles,,,,43.7897264,4.8303911
+12284675829,node,Volubilis,restaurant,Arles,,,,43.7887819,4.8352489
+12388655447,node,Meinado,restaurant,Arles,,,,43.6750923,4.6246195
+12545945340,node,Nem d'Asie,restaurant,Arles,,,,43.9015585,4.7559756
+12574179941,node,Hôtel de la Source,hotel,Arles,,,,43.6629742,4.6505364
+12686573667,node,Le saint Pierre,restaurant,Arles,,,,43.6803865,4.6217365
+12704416707,node,Gestion de patrimoine à Arles,restaurant,Arles,,,https://gestiondepatrimoinearles.fr/gestion-de-patrimoine-a-arles/,43.6674997,4.6237576
+12722366101,node,Dim-Mui,restaurant,Arles,"22 Rue de l'Hôtel de Ville, 13200",13200,,43.6774552,4.6277262
+12757793533,node,4M,restaurant,Arles,,,https://www.restaurant-4m.fr/,43.618506,4.79455
+12765476001,node,L'espianada restaurant sarde,restaurant,Arles,"15 Avenue de la Vallée des Baux, 13520",13520,https://www.restaurant-lespianada.fr/,43.7219393,4.8001129
+12778455601,node,Sucellus,restaurant,Arles,,,,43.794392,4.6928491
+12790347156,node,Le bistro du canotier,restaurant,Arles,,,,43.8985384,4.802807
+12790347158,node,asia,restaurant,Arles,"7 Place du Marché, 13870, Rognonas",13870,,43.8986526,4.8035744
+12806176601,node,La Rumba,restaurant,Arles,,,,43.4518049,4.4266449
+12847003519,node,Ibis Budget Arles Sud Fourchon,hotel,Arles,"Rue Charles Chaplin, 13200, Arles",13200,https://all.accor.com/hotel/5036/index.en.shtml,43.664387,4.6349625
+12862414121,node,Le Petit Rocher,restaurant,Arles,,,,43.7433241,4.7947549
+12862451327,node,Le Café du Musée,restaurant,Arles,,,,43.744059,4.7951897
+12873937020,node,RoadHouse en Camargue,restaurant,Arles,3 Rue Marcel Carrière,,,43.4551078,4.433698
+12905971812,node,,restaurant,Arles,,,,43.8942817,4.7046933
+13128049598,node,,restaurant,Arles,,,,43.6854341,4.6339795
+13157781064,node,Le Rodin,hotel,Arles,"20 Rue Auguste Rodin, 13200, Arles",13200,https://www.hotel-lerodin.fr/,43.6884114,4.6383659
+13189074549,node,La braise de mer,restaurant,Arles,9 Avenue Van Gogh,,,43.4504445,4.4271584
+13261689977,node,Pizzeria Chez Robert,restaurant,Arles,"15 Rue André Benoit, 13200, Arles",13200,,43.680006,4.6199565
+13264504653,node,Le Coin des Amis,restaurant,Arles,,,https://www.le-coin-des-amis.com/,43.7269188,4.7108607
+13388869004,node,West Coast,restaurant,Arles,,,https://westcoastcafenoves.wixsite.com/westcoastcafe,43.8317575,4.8854447
+13452366301,node,L'oiseau qui chante,restaurant,Arles,"150 Route de Maillane, 13210",13210,,43.7946264,4.8289773
+13462503571,node,Le 16,restaurant,Arles,,,https://maisonleseize.com/,43.676943,4.6240918
+13505169563,node,Le Saint-Rémy,hotel,Arles,"16 Boulevard Victor Hugo, 13210, Saint-Rémy-de-Provence",13210,,43.7871435,4.8315107
+13505169572,node,Lou Patio,restaurant,Arles,"16 Boulevard Victor Hugo, 13210, Saint-Rémy-de-Provence",13210,,43.7871405,4.8314268
+13595674449,node,,restaurant,Arles,,,,43.3801187,4.814075
+13674749083,node,Le Maya,restaurant,Arles,,,,43.4521267,4.4281782
+13674778500,node,Hôtel du Maset,hotel,Arles,,,,43.4566884,4.4263125
+13674814754,node,Chez Chico,restaurant,Arles,,,,43.454756,4.4276995
+13674857287,node,Mas des Salicornes,hotel,Arles,,,,43.456884,4.4258752
+13713479301,node,Camille Ô Baux,restaurant,Arles,,,,43.7441165,4.7950053
+13719034919,node,province holidays,hotel,Arles,,,,43.7886632,4.8326609
+13733171108,node,O Panneu…,restaurant,Arles,,,,43.4529765,4.4277133
+13767271315,node,Chez Mario,restaurant,Arles,10 Rue Paul Peyron,,https://www.pizzeriachezmario.com/,43.450679,4.4278625
+13769485701,node,Pizza Do,restaurant,Arles,"11 bis Rue de la Poste, 13690",13690,,43.8513106,4.7737659
+13776178301,node,La Piccola,restaurant,Arles,89 Avenue de la Vallée des Baux,,,43.7204981,4.8077618
+13776178302,node,Bistrot Saint-Roche. Chez Joan & Vincent,restaurant,Arles,Avenue de la Vallée des Baux,,,43.7205146,4.8074085
+13776216201,node,O Sushi Bar,restaurant,Arles,,,,43.7212024,4.8049854
+13776309301,node,Au 49. Chez Gwen & Alex,restaurant,Arles,,,,43.721371,4.8043081
+13779738201,node,Logis Hotels Restaurants,hotel,Arles,,,,43.7202841,4.8074063
+13784819301,node,Les Gourmandises de Marcel. Galetterie Glacier,restaurant,Arles,78 Avenue de la Vallée des Baux,,,43.7206674,4.8056643

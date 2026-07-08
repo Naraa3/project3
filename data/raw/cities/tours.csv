@@ -1,0 +1,447 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+420375492,node,O' Saveurs des Halles,restaurant,Tours,,,,47.3853696,0.5544548
+448284257,node,Le Cristo,restaurant,Tours,"1 Place de l'Église, Ballan-Miré",,,47.3405396,0.6131229
+448285892,node,Hôtel Mercure,hotel,Tours,,,,47.3529641,0.6444279
+448306161,node,Les Mignardières,restaurant,Tours,,,,47.3559187,0.6346958
+452561396,node,Les Beaux gosses,restaurant,Tours,,,https://les-beaux-gosses.eatbu.com,47.3927968,0.6725331
+458964309,node,Mercure,hotel,Tours,,,https://all.accor.com/hotel/3475/index.fr.shtml,47.3868297,0.6978505
+458964318,node,Ibis Budget Tours Centre Gare,hotel,Tours,,,https://all.accor.com/hotel/5023/index.fr.shtml,47.3870926,0.6975899
+549816351,node,Crêperie Bilien,restaurant,Tours,Rue Colbert,,,47.3958463,0.6897843
+549888864,node,Le Turon,restaurant,Tours,,,,47.3961143,0.691424
+622598373,node,Novotel,hotel,Tours,,,https://all.accor.com/hotel/A312/index.fr.shtml,47.3887452,0.6956997
+623914033,node,Le Royaume d'Angkor,restaurant,Tours,,,,47.3921187,0.6797406
+626718693,node,Le Chaperon Rouge,restaurant,Tours,,,https://creperie-chaperon-rouge.fr/,47.3780885,0.6935234
+635058973,node,La Chope,restaurant,Tours,,,https://www.la-chope.fr/,47.3867384,0.6899966
+635059930,node,Le Croque Bedaine,restaurant,Tours,,,,47.3962537,0.6932872
+831338412,node,Le Tatoué Toqué,restaurant,Tours,16 Rue du Maréchal Joffre,,,47.4228995,0.7022939
+840252385,node,Domaine de Beauvois,hotel,Tours,,,,47.3974135,0.5233862
+892402121,node,Au Carrousel des Saveurs,hotel,Tours,,,,47.2779342,0.6246317
+903539223,node,Ibis Styles Tours Centre,hotel,Tours,,,https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=8011,47.3795552,0.6919925
+903544793,node,Le Baccara,restaurant,Tours,,,https://www.lebaccara-restaurant.fr/,47.381099,0.6928709
+903562945,node,Kyriad,hotel,Tours,"65 Avenue de Grammont, 37000, Tours",37000,https://tours-centre.kyriad.com/,47.3835113,0.691302
+903571747,node,Résidence Trianon,hotel,Tours,"57 Avenue de Grammont, 37000, Tours",37000,https://hoteltourscentre.com/fr/,47.384519,0.6908858
+904534671,node,Val de Loire,hotel,Tours,,,,47.3907622,0.6944182
+904534673,node,Le Chien Jaune,restaurant,Tours,,,,47.3913949,0.693732
+963238340,node,La Rose des Sables,restaurant,Tours,"23 Rue Victor Hugo, 37000, Tours",37000,,47.3890752,0.6876775
+963238471,node,Fujisushi,restaurant,Tours,"17 Rue Victor Hugo, 37000, Tours",37000,,47.389094,0.687912
+1098868314,node,Mao,restaurant,Tours,"3B Avenue de Grammont, 37000, Tours",37000,,47.3883921,0.6893165
+1119864597,node,La fabrique à couscous,restaurant,Tours,"26 Allée du Professeur Guillaume Louis, 37200, Tours",37200,https://www.la-fabrique-a-couscous.fr/,47.359316,0.6948245
+1125621706,node,Comptoir Georges,restaurant,Tours,,,,47.3889669,0.6888622
+1153841454,node,Chez Madie,restaurant,Tours,,,,47.3944946,0.6813984
+1158304756,node,La Loco,restaurant,Tours,,,,47.3887291,0.6957915
+1158305128,node,Moom Thai,restaurant,Tours,,,https://moomthai37.com/,47.3899869,0.6946644
+1158305216,node,Bistro Rossini,restaurant,Tours,,,,47.3887483,0.6906403
+1158305276,node,Au Martin Bleu,restaurant,Tours,,,,47.3870339,0.6904213
+1158305336,node,Izakaya,restaurant,Tours,,,,47.3901,0.6945417
+1158305410,node,Le Santa Fe,restaurant,Tours,,,,47.3853591,0.6910895
+1158305449,node,Le Vietnam,restaurant,Tours,"28 Rue Édouard Vaillant, 37000, Tours",37000,,47.3893658,0.695492
+1158305494,node,La Scaleta,restaurant,Tours,,,https://la-scaleta.fr/restaurant-tours/,47.3871444,0.6903754
+1158305940,node,Anglade Pierre,restaurant,Tours,,,,47.3863939,0.6906852
+1203522845,node,Hôtel Criden,hotel,Tours,,,https://criden-tours.com,47.3911453,0.697146
+1325344565,node,Brasserie Constantinople,restaurant,Tours,,,https://brasserie-constantinople.fr/,47.3794916,0.6936564
+1326928399,node,Castel Fleuri,hotel,Tours,,,,47.402519,0.6864186
+1327584227,node,Le Saint-Malo,restaurant,Tours,,,,47.3021173,0.7942937
+1383075748,node,Hôtel Ariane,hotel,Tours,,,https://www.hotel-ariane.com/tours-hotel-ariane,47.3468165,0.6393629
+1406165102,node,Le François 1er,restaurant,Tours,,,,47.2617197,0.4665089
+1427439016,node,Inèle,restaurant,Tours,,,,47.3675064,0.7284405
+1427440005,node,Le Clapotis,restaurant,Tours,"10 Boulevard Paul Doumer, 37550, Saint-Avertin",37550,https://restaurantleclapotis.fr/,47.3690321,0.7275934
+1438211119,node,Hôtel Château Belmont,hotel,Tours,,,,47.4079083,0.6871076
+1479391670,node,Le Chinon,restaurant,Tours,106,,,47.3519896,0.6872092
+1702943697,node,L'Addiction,restaurant,Tours,,,,47.3671109,0.7268415
+1704726489,node,L'ile aux pizzas,restaurant,Tours,,,,47.3681145,0.7263656
+1704726497,node,Bistro du Lac,restaurant,Tours,,,,47.3706401,0.7227311
+1728853361,node,Hokane Ramen,restaurant,Tours,,,https://hokane.fr/,47.3861322,0.6944753
+1742575654,node,Crêperie le Chalet,restaurant,Tours,,,,47.2614368,0.4666417
+1742575657,node,Hôtel de Biencourt,hotel,Tours,Rue Balzac,,,47.2608257,0.4669398
+1742575661,node,L'Aigle d'Or,restaurant,Tours,,,https://laigle-dor.com/,47.2620064,0.4628676
+1742575664,node,Le Grand Monarque,hotel,Tours,3 Place de la République,,,47.261832,0.466377
+1742575665,node,Le Relais du Château,restaurant,Tours,,,,47.2610616,0.467999
+1756640496,node,La Petite plume,restaurant,Tours,"81 Rue du Pas Notre-Dame, 37100",37100,,47.4106639,0.6957504
+1759435234,node,Ibis Tours Centre Gare,hotel,Tours,,,https://all.accor.com/hotel/1431/index.fr.shtml,47.387457,0.6983124
+1775862802,node,La Grange des Celtes,restaurant,Tours,,,,47.3957201,0.6936594
+1778570105,node,Bar-restaurant du musée,restaurant,Tours,,,,47.2783434,0.3953747
+1827517924,node,LABE Hôtel,hotel,Tours,,,https://www.labe-hotel.com,47.3903868,0.6942593
+1829720526,node,Hôtel-Restaurant Les 3 Lys,hotel,Tours,,,www.hotel-restaurant-trois-lys.co,47.2616587,0.4660105
+1829720527,node,Les Grottes,restaurant,Tours,,,https://restaurantlesgrottes.sitew.fr/,47.2609188,0.4703291
+2084661760,node,Jour de Marché,restaurant,Tours,,,,47.3092346,0.5102933
+2094231297,node,Hôtel Italia,hotel,Tours,,,http://www.hotel-italia-tours.com/,47.413142,0.6893283
+2121167839,node,Aux Bons Enfants,restaurant,Tours,"21 Rue Nationale, 37320",37320,,47.2838417,0.7849528
+2199317627,node,Fast pizza,restaurant,Tours,81,,,47.3488916,0.663078
+2199335701,node,Pizz' & Pâtes,restaurant,Tours,,,https://www.pizzpates-joue-les-tours.fr/,47.349346,0.6630611
+2216799871,node,Les Comptoirs Casino,restaurant,Tours,A10 Aire de Service Tours Val de Loire,,,47.4736033,0.7764694
+2283013862,node,Gaspard,restaurant,Tours,"15 Rue Arthur Rimbaud, 37100, Tours",37100,http://www.gaspard-tours.com,47.429628,0.707719
+2574514039,node,Pizza Vio,restaurant,Tours,"221 Rue Honoré de Balzac, 37700",37700,https://pizzavio.fr/,47.3882618,0.7228673
+2580105027,node,Pizza Boutic,restaurant,Tours,"Rue de la Mairie, 37170, Chambray-lès-Tours",37170,,47.3387417,0.7141514
+2705593072,node,Le Grenadier,restaurant,Tours,,,,47.3904675,0.6975564
+2732772664,node,Bistro Régent,restaurant,Tours,,,https://tours-nord.bistro-regent.fr/,47.427541,0.702162
+2781135423,node,Gîte de l'Oppidum,hotel,Tours,,,http://www.gitetroglodyte.fr,47.4104285,0.7603558
+2820275607,node,Bar-brasserie le St Vincent,restaurant,Tours,53 Quai de la Loire,,,47.4086295,0.7571052
+2820275608,node,L'Auberge du Croissant,hotel,Tours,52 Quai de la Loire,,,47.4086112,0.7569231
+2951081423,node,O'Petit Café,restaurant,Tours,,,,47.2670335,0.3532551
+2966664679,node,Flunch,restaurant,Tours,,,,47.3795085,0.7146525
+3008236710,node,Tandem,restaurant,Tours,"Rue Amédée et Léon Bollée, 37320, Esvres",37320,https://lerestotandem.wixsite.com/monsite,47.299718,0.8023194
+3039603215,node,Au Bistrot Gourmand,restaurant,Tours,7 bis Rue Principale,,,47.3407819,0.5121028
+3039603217,node,Côté Cour,restaurant,Tours,,,,47.2603034,0.4670181
+3039603218,node,L'Orangerie,restaurant,Tours,"11 Rue Principale, 37510, Villandry",37510,,47.3406622,0.5112633
+3039603219,node,L'Épicerie Gourmande,guest_house,Tours,"6 Rue de la Mairie, 37510, Villandry",37510,https://www.epicerie-gourmande-villandry.fr/,47.3403142,0.5114761
+3039603221,node,La Crédence,restaurant,Tours,,,,47.2603811,0.4669995
+3039603225,node,Le Cheval Rouge,restaurant,Tours,,,,47.3407464,0.5118111
+3039603227,node,Auberge Le Colombien,hotel,Tours,"2 Rue de la Mairie, 37510, Villandry",37510,https://www.auberge-lecolombien.com/,47.3406209,0.5113962
+3039603229,node,Le Lavoir,restaurant,Tours,,,,47.2598287,0.466432
+3039603231,node,Auberge Radieuse,restaurant,Tours,,,,47.2606153,0.4669858
+3039604004,node,L'Odette Restaurant Crêperie,restaurant,Tours,,,,47.2611546,0.4672938
+3039604005,node,I fratelli,restaurant,Tours,,,,47.2612412,0.4666468
+3070508977,node,La Liodière,restaurant,Tours,,,,47.3142152,0.6620948
+3106399668,node,Dakota café,restaurant,Tours,,,,47.390407,0.6918877
+3138370511,node,Chez Monsieur Henri,restaurant,Tours,,,,47.393484,0.693248
+3172253061,node,Ristorante Del Arte,restaurant,Tours,,,https://www.delarte.fr/store-finder/545001,47.4284121,0.7089021
+3172256661,node,Ristorante Del Arte,restaurant,Tours,"Centre Commercial Les Atlantes, 37700, Saint-Pierre-des-Corps",37700,https://www.delarte.fr/restaurant-italien-pizzeria-tours-saint-pierre-des-corps.html,47.3795605,0.7151926
+3273369947,node,La Bekaa,restaurant,Tours,,,,47.3960057,0.6908216
+3273369949,node,L'étape à pâtes,restaurant,Tours,,,,47.3958337,0.6902817
+3273369952,node,Le Beyrouth,restaurant,Tours,,,,47.3958301,0.6896287
+3273369954,node,Surya,restaurant,Tours,,,,47.3957118,0.6894539
+3353647676,node,Châteaux de la Loire,hotel,Tours,,,https://www.hotelchateauxloire.com/,47.3919819,0.6871821
+3359422383,node,La Gallery,restaurant,Tours,,,https://lagallery.tours-evenements.com/,47.3914021,0.6935178
+3373047530,node,Gopal,restaurant,Tours,,,https://legopal.fr/,47.4093747,0.6799993
+3398685874,node,Mamie Bigoude,restaurant,Tours,"Rue Gilles Personne de Roberval, 37170, Chambray-lès-Tours",37170,http://www.mamiebigoude.com,47.3360363,0.7030131
+3398685875,node,Chez Charly,restaurant,Tours,"Rue Gilles Personne de Roberval, 37170, Chambray-lès-Tours",37170,https://chez-charly.fr/,47.3360763,0.7032626
+3420417982,node,L’acte 24,restaurant,Tours,,,https://www.lesactes.fr/restaurant/l-acte-24,47.3431433,0.6273034
+3451907270,node,Le Grillon,restaurant,Tours,"9 Quai de la Loire, 37700, Saint-Pierre-des-Corps",37700,,47.396893,0.7064035
+3452309309,node,L'Avenir,hotel,Tours,107,,,47.3898071,0.7257656
+3458154190,node,Le 24 Brasserie,restaurant,Tours,,,,47.3698638,0.7179752
+3465915972,node,L'Omélya,restaurant,Tours,,,,47.3810403,0.7241257
+3478226190,node,L'olivier,restaurant,Tours,,,,47.3895137,0.6952891
+3481359093,node,B&b Hôtel,hotel,Tours,"188, 37300, Joué-lès-Tours",37300,https://www.hotel-bb.com/fr/-/hotelByName.htm?id=4094,47.34594,0.6469289
+3481451371,node,Snack Time,restaurant,Tours,,,,47.3910652,0.667447
+3501814886,node,Le Faisan,hotel,Tours,,,,47.3671926,0.7273926
+3517851267,node,Le Petit Mijoté,restaurant,Tours,"3 Rue Saint-François, 37520, La Riche",37520,,47.3903876,0.6666035
+3577422415,node,Les Trésorières,hotel,Tours,,,https://www.les-tresorieres.com/,47.3904199,0.6814576
+3577422421,node,La Maison des Halles,restaurant,Tours,,,https://lamaisondeshalles.eatbu.com/,47.3920797,0.67984
+3577422423,node,Les Fines Goules,restaurant,Tours,,,,47.3924573,0.6786832
+3577422426,node,La Dentelle,restaurant,Tours,33 Place du Grand Marché,,,47.393448,0.6804482
+3577422429,node,Le Bistrot des Halles,restaurant,Tours,,,,47.3909157,0.6810629
+3577422430,node,Le Jaja,restaurant,Tours,,,,47.3915085,0.680632
+3577422431,node,Le Mastroquet,restaurant,Tours,,,,47.3913166,0.6807712
+3577422435,node,Les Copains d'abord,restaurant,Tours,,,https://copainstour.fr,47.3936014,0.6804206
+3577422439,node,Les Grands Ducs,restaurant,Tours,,,https://www.restaurant-les-grands-ducs-tours.fr,47.3918947,0.6800975
+3577422451,node,Frenchy's Burger,restaurant,Tours,,,,47.3937813,0.680736
+3577423106,node,Bouillon Gaston,restaurant,Tours,,,https://bouillongaston.fr/,47.3910435,0.680998
+3577423110,node,Tutu,restaurant,Tours,,,,47.3916921,0.6803822
+3577423115,node,Le Bœuf sur la Place,restaurant,Tours,,,https://le-boeuf-sur-la-place-tours.fr/,47.3933968,0.6804133
+3577423116,node,Au café d'en face,restaurant,Tours,,,https://www.cafedenface.com/,47.3920271,0.679927
+3577423118,node,La Bodega,restaurant,Tours,,,https://la-bodega-by-matthis.eatbu.com/,47.3917469,0.6802748
+3577423122,node,Tahina,restaurant,Tours,,,https://www.tahina-tours.fr,47.3914764,0.6806579
+3577423295,node,Boui Boui,restaurant,Tours,,,,47.3911035,0.6809499
+3594084957,node,Isaan,restaurant,Tours,"17B Rue Blaise Pascal, 37000, Tours",37000,https://www.facebook.com/profile.php?id=100057260477353,47.3884818,0.6928849
+3607432586,node,Gus,restaurant,Tours,,,https://gusrestaurant.fr/,47.4347244,0.6978145
+3607432587,node,Il Napoli,restaurant,Tours,,,https://ilnapoli37.eatbu.com/,47.4367358,0.704398
+3637778874,node,L'Atlas,restaurant,Tours,,,,47.3870572,0.6934174
+3671992753,node,Le Cappuccino,restaurant,Tours,,,https://lecappuccino-tours.fr/,47.3941979,0.6814265
+3699813292,node,Le Plazza,restaurant,Tours,,,,47.3947655,0.6855477
+3699903277,node,La Deuvalière,restaurant,Tours,,,,47.394213,0.6826379
+3703124898,node,Hôtel Restaurant Le Montloire,hotel,Tours,"4 Rue Georges Clemenceau, 37270, Montlouis-sur-Loire",37270,,47.388088,0.8266687
+3763117666,node,L´Etape Gourmande,restaurant,Tours,,,,47.3300072,0.5155018
+3824393672,node,La Table du Bon Accueil,restaurant,Tours,,,,47.3802835,0.6439246
+3874769657,node,O'4 coins du monde,restaurant,Tours,,,,47.3965962,0.6931156
+3935812828,node,Brit Hotel,hotel,Tours,233 Avenue André Maginot,,,47.4248791,0.7002872
+3939839498,node,Le Baroud Döner,restaurant,Tours,"1 Place Georges l'Hermite, 37320, Esvres",37320,,47.2838795,0.7859597
+3954283342,node,La Rose d'Ispahan,restaurant,Tours,,,,47.3948575,0.6819876
+3982198779,node,Kabuli,restaurant,Tours,,,https://kabuli.fr/,47.3904471,0.6941527
+3992478365,node,Rest'O Quai,restaurant,Tours,,,https://www.restoquai-azaylerideau.fr/,47.2648652,0.4470874
+4117329594,node,La Scaleta,restaurant,Tours,,,,47.4164156,0.6669156
+4117721282,node,Tulty,hotel,Tours,,,https://www.hotel-tulty-tours.com/fr/,47.386294,0.6943162
+4193126199,node,,restaurant,Tours,,,,47.39335,0.6373851
+4196000490,node,La Promenade,restaurant,Tours,"17 Rue Marcel Gauthier, 37100",37100,,47.4059006,0.7118705
+4212094602,node,L'Entrepot,restaurant,Tours,,,https://www.restaurantlentrepot.fr/,47.432677,0.692489
+4258417190,node,Le Beaujardin,restaurant,Tours,"79 Rue Georges Renard, 37000, Tours",37000,,47.3766582,0.7086921
+4337659977,node,Hôtel Grill du Lac,hotel,Tours,,,,47.3465696,0.6387639
+4337660089,node,Le Bistro,restaurant,Tours,,,,47.346587,0.6390177
+4360082840,node,Little Italy,restaurant,Tours,,,,47.3923248,0.7230134
+4383600176,node,Pizzeria Vicente,restaurant,Tours,,,https://pizzeria-vicente.business.site/,47.4027482,0.7113641
+4394144993,node,L'Idée Hall,restaurant,Tours,"47 Rue de la Victoire, 37000",37000,https://lideehall-restaurant.fr/,47.3934652,0.6782299
+4402417789,node,La Clef,restaurant,Tours,,,,47.3924369,0.6785789
+4411250304,node,Le Bœuf à Boss,restaurant,Tours,,,,47.3829548,0.7036712
+4423996166,node,Le Haut des Lys,hotel,Tours,Les barrières blanches,,https://lehautdeslys.com/,47.3362519,0.5131117
+4455038983,node,La Bonne Assiette,restaurant,Tours,,,,47.393041,0.6729099
+4485386963,node,Mensa Potus,restaurant,Tours,,,,47.3951721,0.6849627
+4708896949,node,La Manufacture,restaurant,Tours,,,,47.3945131,0.6820301
+4747053226,node,Restaurant de Cande,restaurant,Tours,"Rue du Viaduc, 37260, MONTS",37260,,47.2959615,0.6578767
+4776570431,node,Le 16 Jean-Jau,restaurant,Tours,,,,47.3890371,0.6898387
+4924249650,node,La Bigouden,restaurant,Tours,,,https://www.labigouden.fr/,47.3942865,0.6813642
+4942271238,node,Au Prieuré,restaurant,Tours,"8 Rue de la Mairie, 37390, Chanceaux-sur-Choisille",37390,,47.4722969,0.7009866
+4957523995,node,Chez Tonton,restaurant,Tours,,,,47.3934135,0.6827294
+5017582099,node,Le Gosier Sec,restaurant,Tours,,,,47.3318855,0.4904613
+5079963639,node,La Baraque à Burger,restaurant,Tours,,,,47.3942458,0.679401
+5136165637,node,L'Aubépine,restaurant,Tours,,,,47.3960774,0.6911993
+5136165638,node,Au Lapin qui Fume,restaurant,Tours,,,,47.3960888,0.6912683
+5163151119,node,Le Twistin’,restaurant,Tours,,,,47.3872403,0.6905642
+5184125305,node,La Part Belle,restaurant,Tours,5 Rue de l'Église,,https://www.lapartbelle-rochecorbon.fr/,47.4140484,0.756685
+5206553470,node,La Fourchette Paysanne,restaurant,Tours,,,,47.394382,0.678241
+5339072344,node,Hôtel du Théâtre,hotel,Tours,,,https://www.hoteldutheatretours.com/,47.3943005,0.6897856
+5637467649,node,À Côté,restaurant,Tours,,,,47.4380283,0.7127233
+5658282000,node,L'Atelier d'Olivier,restaurant,Tours,,,,47.3955268,0.6558739
+5658294860,node,Régal Pizza,restaurant,Tours,,,,47.3584086,0.7312158
+5681639191,node,Nihao restaurant,restaurant,Tours,,,,47.3899506,0.7239305
+5707551335,node,Nobuki,restaurant,Tours,,,,47.393404,0.6905119
+5793679984,node,Best Western,hotel,Tours,,,,47.3946592,0.6886363
+5805266713,node,,restaurant,Tours,,,,47.2509372,0.2943537
+5805266714,node,,hotel,Tours,,,,47.2509709,0.2943563
+5811281564,node,Bistrot Le Corneille,restaurant,Tours,,,,47.3956223,0.688919
+5823954444,node,Bâmiyân,restaurant,Tours,,,https://bamiyan-tours.com/,47.3952326,0.6853257
+5856161100,node,Mamie Bigoude,restaurant,Tours,,,https://mamiebigoude-tours-nord.fr/,47.4275288,0.7007412
+5863365594,node,Casa Pia,restaurant,Tours,,,,47.393358,0.6821502
+5868256100,node,Au Relais Saint-Éloi,hotel,Tours,"8 Rue Giraudeau, 37000, Tours",37000,,47.3880506,0.6765771
+5868256102,node,Hôtel Saint-Éloi,hotel,Tours,79 Boulevard Béranger,,https://www.hotelsainteloi37.com/,47.3888495,0.6771545
+5877956971,node,Le Tourbouchon,restaurant,Tours,,,,47.3868605,0.6808778
+5928720729,node,L'atelier des pizzas,restaurant,Tours,,,,47.4725985,0.70255
+5928720730,node,Chanceaux Pizza,restaurant,Tours,"24 Rue de la Grande Ferme, 37390, Chanceaux-sur-Choisille",37390,https://www.chanceaux-pizza.fr/,47.4716927,0.7010764
+5972274567,node,L'Étable,restaurant,Tours,,,,47.3960824,0.6919407
+5995558706,node,Shunfa Raviolis,restaurant,Tours,,,,47.394778,0.6833279
+6017669192,node,Hôtel Ronsard,hotel,Tours,,,https://www.hotel-ronsard.com/,47.394955,0.6894244
+6017673067,node,Hôtel Mirabeau,hotel,Tours,,,,47.391385,0.699078
+6017680199,node,Hôtel Berthelot,hotel,Tours,,,https://hotelberthelot.fr/fr/,47.3948657,0.6876539
+6017684070,node,Hôtel Moderne,hotel,Tours,,,https://www.hotelmoderne-tours.com,47.3913322,0.6903513
+6030092648,node,Wokasie,restaurant,Tours,,,,47.3991749,0.7882082
+6036149521,node,BestWestern Plus L'Artist Hôtel,hotel,Tours,,,,47.3897845,0.6964214
+6048716996,node,Banh Khamkhoun,restaurant,Tours,,,,47.3940311,0.6811534
+6090239200,node,La Provencale Pizzeria,restaurant,Tours,,,,47.2870639,0.713726
+6118498786,node,Karamara,restaurant,Tours,,,,47.3962446,0.6932092
+6137508453,node,Les Canailles,restaurant,Tours,,,,47.3960923,0.6920466
+6170990862,node,L'île aux pizzas,restaurant,Tours,,,,47.3959567,0.6911878
+6177475005,node,La Paillote,restaurant,Tours,,,,47.2896499,0.7156947
+6195381913,node,La Rissole,restaurant,Tours,,,,47.3930055,0.6804962
+6195389180,node,L’adresse,hotel,Tours,,,,47.3940233,0.6812675
+6195405650,node,Gusto,restaurant,Tours,,,,47.3940281,0.6813697
+6195405653,node,Miettes,restaurant,Tours,,,https://foodcollect.fr/store/miettes/restaurant,47.3940288,0.681442
+6199468287,node,Le Lys D’Or,restaurant,Tours,,,https://www.lelysrestaurant.fr/,47.394198,0.6815104
+6199468288,node,La Romana,restaurant,Tours,,,,47.3942014,0.6812735
+6199468289,node,Le Bouchon Tourangeau,restaurant,Tours,,,,47.3942028,0.6811274
+6205167033,node,L'Orélise,restaurant,Tours,"154 Rue Giraudeau, 37000, Tours",37000,,47.3817446,0.6772973
+6208816697,node,Chai Max,restaurant,Tours,"30 Place Rabelais, 37000, Tours",37000,,47.3844584,0.6773417
+6237087500,node,La Roche le Roy,restaurant,Tours,,,https://larocheleroy.com/,47.3649451,0.7126821
+6245577777,node,Restaurant scolaire,restaurant,Tours,,,,47.3466643,0.7223355
+6285913473,node,Tana,restaurant,Tours,,,,47.3895147,0.690651
+6285913479,node,Saïko Bento & Bubble Tea,restaurant,Tours,,,https://saikobento.com/,47.3897633,0.691826
+6286468392,node,Traiteur Auchan Tours Sud Chambray,restaurant,Tours,,,,47.3390126,0.6994922
+6292880042,node,Brasserie Madeleine,restaurant,Tours,,,https://www.brasseriemadeleine-tours.fr/,47.394108,0.6874854
+6296569535,node,Le Céci Bon,restaurant,Tours,,,,47.3945539,0.6813991
+6300940282,node,Chez Zein,restaurant,Tours,,,,47.3953352,0.6858074
+6300940284,node,Taj,restaurant,Tours,,,,47.3953231,0.6857487
+6316053522,node,Le mosaïque,restaurant,Tours,,,,47.3894632,0.697585
+6323424054,node,Spicy Yo,restaurant,Tours,,,,47.3942491,0.679325
+6323427894,node,Le Chien fou,restaurant,Tours,7 Rue de la Grosse Tour,,https://www.le-chien-fou-restaurant-tours.fr/,47.3938693,0.6791481
+6323428039,node,L’Accalmie,restaurant,Tours,,,,47.3938058,0.6793052
+6332027440,node,Arlequin'o,restaurant,Tours,,,,47.2760059,0.6319306
+6332027451,node,Le Monts Gourmand,restaurant,Tours,,,,47.27781,0.6248857
+6332027452,node,Cafe Des Sports,restaurant,Tours,,,,47.2774989,0.6249236
+6332027453,node,Au Carrousel des Saveurs,restaurant,Tours,,,,47.2778878,0.6245996
+6332027454,node,Monts Petit Jardin,hotel,Tours,,,,47.277078,0.6255731
+6332027455,node,Morice Frederic Maxime Remi,restaurant,Tours,,,,47.2769973,0.6245624
+6332027456,node,Luijks Isabelle Marie Andree,restaurant,Tours,,,,47.2768421,0.6249234
+6335838239,node,Les Z'Artisans,restaurant,Tours,,,https://www.brasserie-les-zartisans.fr/,47.3864924,0.7239753
+6335838240,node,Brasserie Le Parvis,restaurant,Tours,,,https://tours-gare-saint-pierre-des-corps.kyriad.com/fr-fr/#Restauration,47.3862242,0.7227809
+6335838256,node,Saveurs Pizza Truyes,restaurant,Tours,,,,47.2753215,0.8302812
+6349355592,node,Comptoir d’Asie,restaurant,Tours,,,https://comptoirdasie.com/,47.3943212,0.6806603
+6365076022,node,Le 8.20,restaurant,Tours,,,,47.3880057,0.6765778
+6365507955,node,Le Sax' Bar Restaurant,restaurant,Tours,,,,47.2235934,0.5796987
+6365507957,node,Cantine Scolaire,restaurant,Tours,,,,47.222208,0.5819307
+6367146869,node,China Town,restaurant,Tours,"34 Rue Victor Hugo, 37000, Tours",37000,,47.3888303,0.6864011
+6375855999,node,Le Marché Gourmand,restaurant,Tours,,,https://lemarchegourmand.fr/,47.394315,0.680157
+6375856000,node,Le Bistro Thaï,restaurant,Tours,,,,47.3945291,0.6805032
+6375856004,node,Lucky Sushi,restaurant,Tours,,,https://restaurantluckysushi.com/,47.3943062,0.6811403
+6375856008,node,La Plume Blanche,restaurant,Tours,,,http://laplumeblanche-tours.fr,47.3942018,0.6813548
+6382030095,node,Tessier Jean-Francois,hotel,Tours,,,,47.2962189,0.4137585
+6385544641,node,La Touraine,restaurant,Tours,,,https://www.oceaniahotels.com/oceania-l-univers-tours/restaurant-bar,47.3902198,0.6905239
+6385544645,node,Amine'z Lebanese Wraps,restaurant,Tours,,,,47.389968,0.6909716
+6414054286,node,Royal Buffet,restaurant,Tours,,,https://royalbuffet.fr/tours,47.4300723,0.7039424
+6427759145,node,Ichiban,restaurant,Tours,,,https://ichiban37.com/fr/,47.3942953,0.6812859
+6496425953,node,La crêpe au carré,restaurant,Tours,"9, 37000, Tours",37000,https://crepe-au-carre.fr/,47.3894758,0.6886677
+6498413411,node,La Casbah,restaurant,Tours,,,,47.3756041,0.710817
+6535456319,node,Le Vol Au Vent,restaurant,Tours,,,,47.4254775,0.7189797
+6585238924,node,La Maison du Passeur,restaurant,Tours,,,,47.3479955,0.5454329
+6627892686,node,La Cabane À Matelot,restaurant,Tours,,,,47.2953104,0.3536693
+6665452785,node,Case.,restaurant,Tours,,,,47.3944557,0.6798407
+6665617785,node,Les Bartavelles,restaurant,Tours,,,,47.3955558,0.6883076
+6788645629,node,Cafétéria,restaurant,Tours,,,,47.3459618,0.7215402
+6789837992,node,L’Akan,restaurant,Tours,,,,47.3928472,0.6850197
+6814427124,node,Buvette,restaurant,Tours,,,,47.3304204,0.6124169
+6987779472,node,Le Léonard de Vinci,restaurant,Tours,19 Rue de la Monnaie,,https://leonard-de-vinci.info/,47.3942767,0.6822883
+7040173759,node,La Terrasse,restaurant,Tours,,,,47.422921,0.7009605
+7040173760,node,La Terrasse,hotel,Tours,,,https://www.tours-hotel-la-terrasse.com/,47.4229001,0.701167
+7054626992,node,La ronde des Crêpes,restaurant,Tours,"3 Place Georges l'Hermite, 37320, Esvres",37320,,47.2840043,0.7859648
+7059991375,node,Restaurant Alep,restaurant,Tours,,,,47.3959071,0.6908168
+7062492579,node,Basilic&Co,restaurant,Tours,,,,47.4190593,0.6976076
+7108778889,node,Jaspe,restaurant,Tours,,,,47.3869777,0.6906955
+7108821041,node,Yoïsho!,restaurant,Tours,"11 Avenue de Grammont, 37000, Tours",37000,,47.3878352,0.6895505
+7108821042,node,Le Salon Bleu,restaurant,Tours,"17 Avenue de Grammont, 37000, Tours",37000,,47.3875063,0.6896814
+7111679088,node,Pizza Hut,restaurant,Tours,,,https://www.pizzahut.fr/huts/fr-1/198-tours-centre/,47.386532,0.6906327
+7118177886,node,Campanile,hotel,Tours,,,https://tours-nord-forum-melies.campanile.com/fr-fr/,47.4229886,0.7095992
+7118177887,node,Au Bureau,restaurant,Tours,,,https://www.aubureau.fr/restaurant-brasserie/au-bureau-tours-nord,47.4230707,0.709905
+7137217685,node,Gueuleton - Montlouis-Sur-Loire,restaurant,Tours,69 Quai Albert Baillet,,https://www.gueuleton.fr,47.391126,0.8527319
+7139484094,node,L’Artiblo,restaurant,Tours,,,,47.4125469,0.6736864
+7139626913,node,Le Tivoli,restaurant,Tours,,,,47.2930881,0.7199035
+7187914920,node,Les Gens heureux,restaurant,Tours,,,,47.3946186,0.6844012
+7227834985,node,Bistrot Gourmand,restaurant,Tours,195,,,47.3873001,0.6110249
+7227849585,node,Le Louis XIII,restaurant,Tours,Route Beauvais,,http://restaurant-louis13.fr,47.3969111,0.5235342
+7426444540,node,Le Relais Jocondien,restaurant,Tours,,,,47.3553551,0.6608138
+7550778269,node,Le TraditYOnnel,restaurant,Tours,,,https://letradityonnel.fr/,47.3682363,0.7340358
+7593501336,node,Domaine de la Commanderie de Ballan,hotel,Tours,"17 Rue de la Commanderie, 37510, Ballan-Miré",37510,https://domaine-commanderie-ballan.com/fr,47.3523,0.610598
+7598862840,node,Les Bateliers,restaurant,Tours,,,,47.3459092,0.6479144
+7601561437,node,Le QG de Loulou,restaurant,Tours,,,,47.2438132,0.6952122
+7736121060,node,O'Bist'Ro,restaurant,Tours,,,,47.3920778,0.6870338
+7886492699,node,Chez Tian,restaurant,Tours,,,,47.3901729,0.6944556
+7928290992,node,Chez Pia,restaurant,Tours,,,,47.3934974,0.6820667
+7947547606,node,Arkose,restaurant,Tours,"15 Avenue du Danemark, 37100, Tours",37100,,47.4321926,0.6909438
+8196231392,node,District 15,restaurant,Tours,,,https://district15.fr/,47.4285854,0.7087201
+8254089985,node,Papaye & Chocolat,restaurant,Tours,,,https://papaye-et-chocolat-tours.eatbu.com/?lang=fr,47.4317073,0.6849703
+8272398952,node,CAMER-IVOIRE,restaurant,Tours,"Rue Joseph du Tremblay, 37100, Tours",37100,,47.416547,0.693864
+8302243020,node,Hôtel Mondial,hotel,Tours,,,https://www.hotelmondialtours.com/,47.3947381,0.6854429
+8409083035,node,Hôtel du Cygne,hotel,Tours,"6 Rue du Cygne, 37100, Tours",37100,,47.3956813,0.6912636
+8909138353,node,Loire Valley Lodges,hotel,Tours,"Allée de la Duporterie, 37320, Esvres",37320,,47.3201795,0.7926439
+8922534117,node,Les Gueules Noires,restaurant,Tours,,,https://gueulenoirevouvray.wixsite.com/les-gueules-noires,47.4210615,0.7815999
+8922549717,node,La Tourangelle,restaurant,Tours,,,,47.3909656,0.839134
+8941488838,node,Le Laurenty,restaurant,Tours,,,,47.3958002,0.6893878
+8941488839,node,Le Beyrouth,restaurant,Tours,,,,47.3957732,0.6892467
+9055812013,node,La Petite Cuisine,restaurant,Tours,,,,47.3952249,0.6890909
+9097658388,node,Le Comptoir de Mamie Bigoude,restaurant,Tours,,,,47.3932632,0.6815959
+9143283838,node,,restaurant,Tours,,,,47.1467198,0.6529718
+9194032787,node,Bo Bonne,restaurant,Tours,,,,47.3959995,0.6914158
+9194072356,node,La Souris Gourmande,restaurant,Tours,,,,47.3961446,0.6916266
+9201377027,node,La petite épicerie,restaurant,Tours,3,,,47.4511462,0.8745321
+9215897243,node,Itmaki,restaurant,Tours,,,,47.3487339,0.6641158
+9224006831,node,Délices du Portugal,restaurant,Tours,,,,47.3495936,0.6678162
+9228497213,node,ToursBouillon,restaurant,Tours,,,,47.3948913,0.6857556
+9279089372,node,La Table de Joseph,restaurant,Tours,76 Quai de la Loire,,https://latabledejoseph.eatbu.com/?lang=en,47.4098381,0.7680977
+9296277612,node,Oi Izakaya,restaurant,Tours,,,https://oiizakaya37.com/,47.4257751,0.699884
+9296695996,node,Le Coin de Table,restaurant,Tours,,,https://le-coin-de-table-tours.eatbu.com,47.4285384,0.7092429
+9329350836,node,Au Coin Gourmand,restaurant,Tours,"29 Boulevard Jean Royer, 37000, Tours",37000,,47.3800964,0.6905691
+9375483790,node,Bistro Régent,restaurant,Tours,,,https://www.bistro-regent.fr,47.38745,0.6984502
+9410199500,node,Chez Kumar,restaurant,Tours,,,,47.3836574,0.8272165
+9410206224,node,Pizza Crousty,restaurant,Tours,,,,47.3842732,0.8261562
+9410247164,node,La rôtisserie royale,restaurant,Tours,,,,47.384356,0.8272736
+9503535768,node,Étape 84,hostel,Tours,"84 Avenue de Grammont, 37000",37000,https://www.thepeoplehostel.com/en/bar-restaurant/etape-84-tours/,47.383131,0.692013
+9511991545,node,Bar du Vieux Château,restaurant,Tours,"6 Rue du Change, 37000, Tours",37000,https://www.barduvieuxchateau.com,47.3941886,0.6839818
+9700432674,node,Troglododo,hotel,Tours,,,https://www.troglododo.fr/,47.2587863,0.4805699
+9722587989,node,Bar Braserie Le Colombien,restaurant,Tours,,,,47.3406795,0.5113829
+9769312678,node,Ferdinand Hôtel,hotel,Tours,,,,47.3940775,0.6842709
+9770145595,node,Hôtel Linxa,hotel,Tours,,,,47.3914451,0.6937363
+9803555848,node,Hilton Garden Inn Tours Centre,hotel,Tours,"1 Place Anatole France, 37000, Tours",37000,https://www.hilton.com/en/hotels/tufgigi-hilton-garden-inn-tours-centre/,47.3962428,0.6860141
+9803555881,node,Hampton by Hilton Tours Centre,hotel,Tours,"2 Place Anatole France, 37000, Tours",37000,https://www.hilton.com/en/hotels/tufhxhx-hampton-tours-centre/,47.3963861,0.6867348
+9833989276,node,Bottega bastiani,restaurant,Tours,2 Rue Mireille Brochier,,https://www.bottegabastiano.com/,47.4316921,0.6709088
+9834031072,node,L'Alchimie,restaurant,Tours,,,,47.4316128,0.6715207
+9835898029,node,Le Kiosk,restaurant,Tours,,,,47.3946761,0.6948755
+9857624740,node,Palais du Raja,restaurant,Tours,,,,47.396029,0.6915887
+9906664706,node,Le Bas Rocher,restaurant,Tours,,,,47.3909677,0.8393167
+9906666608,node,Westhotel,hotel,Tours,,,,47.3963027,0.783569
+9906759819,node,Le Petit Tonneau,restaurant,Tours,,,https://www.lepetit-tonneau.com/,47.3907084,0.833814
+9970488748,node,Westhotel,restaurant,Tours,,,,47.3962704,0.7834017
+9971886855,node,Le Garden Tours Sud,restaurant,Tours,,,,47.337312,0.7363269
+9975388910,node,La Piazza,restaurant,Tours,,,,47.3940454,0.6491788
+9998420511,node,L'Acte 21,restaurant,Tours,"8 Rue du Général Mocquery, 37550, Saint-Avertin",37550,https://www.lesactes.fr/,47.3401973,0.7380766
+10044206744,node,Terre de Loire,restaurant,Tours,,,,47.3796392,0.691946
+10046854155,node,Dagobert,restaurant,Tours,,,https://restaurantdagobert.fr,47.3943103,0.6800154
+10074827728,node,Le cabanon de Lulu,restaurant,Tours,,,https://www.lecabanondelulu.fr/,47.3948392,0.6814346
+10101116863,node,Poulet Braisé,restaurant,Tours,,,,47.3941587,0.6793553
+10102413817,node,,restaurant,Tours,,,,47.3880648,0.8261861
+10131720753,node,Pizza Me',restaurant,Tours,,,,47.3846683,0.7037235
+10137431889,node,Pizza & Crêpe,restaurant,Tours,,,,47.3873689,0.7719947
+10143197929,node,Le Coq Hardi,restaurant,Tours,,,,47.5027907,0.7912631
+10143197943,node,Le Pizzaiolo,restaurant,Tours,,,,47.5024394,0.7906938
+10236229649,node,Zen,restaurant,Tours,,,,47.3879013,0.693097
+10244525198,node,NYC Bistro,restaurant,Tours,21,,https://www.nyc-bistro-restaurant-tours.fr/,47.3929183,0.6863538
+10549080052,node,Château Louise de La Vallière,hotel,Tours,,,https://www.chateaulouise.com/,47.4834406,0.8958331
+10606084279,node,Afandina,restaurant,Tours,"4 Rue Berthelot, 37000, Tours",37000,,47.3948245,0.6873965
+10683635403,node,Chez Gaster,restaurant,Tours,27 Rue Colbert,,https://chezgaster-restaurant-traditionnel.fr,47.3955273,0.6880708
+10709305581,node,Yumi Ramen,restaurant,Tours,,,,47.3943102,0.6821888
+10741876610,node,Sushi Time Tours,restaurant,Tours,"126 Avenue de la Tranchée, 37100, Tours",37100,,47.4072953,0.6816672
+10753137046,node,Saveurs du Brésil,restaurant,Tours,16 Rue du Docteur Fournier,,,47.3854685,0.7016337
+10795064606,node,Le 12,restaurant,Tours,"12 Rue de la République, 37320",37320,,47.3851427,0.5552716
+10828005471,node,Lion et Papillon,restaurant,Tours,,,https://lionetpapillon.fr,47.3962675,0.6926421
+10828011270,node,Ô Sidon,restaurant,Tours,,,,47.3959633,0.6905111
+10828021704,node,Arbol de Vida,restaurant,Tours,,,,47.3959908,0.6913491
+10831657005,node,Buffet ',restaurant,Tours,,,,47.3107318,0.4741896
+10841614579,node,L'Escale,restaurant,Tours,,,,47.3949751,0.686673
+10846182205,node,Les Terrasses d'Ussé,restaurant,Tours,"2 Rue Principale, 37420",37420,,47.2509401,0.2930872
+10884272013,node,Hôtel Chantepie,hotel,Tours,"6 Rue Poincaré, 37300, Joué-lès-Tours",37300,https://www.hotelchantepie.com,47.3484692,0.6532633
+10909271860,node,Vers Nous,restaurant,Tours,,,,47.4211772,0.845378
+10927618608,node,Au Gué de Louis XI,restaurant,Tours,,,,47.3977793,0.6675502
+10980431160,node,Maison Suné,restaurant,Tours,,,,47.4216013,0.6597112
+11007073073,node,La Grange des Frangins,restaurant,Tours,54 Rue du Mûrier,,https://la-grange-des-frangins-saint-cyr-sur-loire.eatbu.com,47.4243686,0.6615571
+11019830973,node,Crêpe Touch,restaurant,Tours,,,https://restaurants.crepetouch.com/tours-centre/,47.3896056,0.691979
+11135815536,node,Auberge Le Colombien,restaurant,Tours,,,,47.3405303,0.5114133
+11350775745,node,Restaurant de la Place,restaurant,Tours,,,,47.4417621,0.7453416
+11350800303,node,L'Atelier Parcillon,restaurant,Tours,54 Rue de la Mairie,,https://atelier-parcillon.fr/,47.4409038,0.7453472
+11366560377,node,Rose Cornichon,restaurant,Tours,,,,47.4228781,0.6573556
+11575971193,node,Le Gosier Sec,restaurant,Tours,,,https://restaurant-le-gosier-sec.eatbu.com/?lang=fr,47.3277782,0.4814625
+11624857739,node,Lali Régal,restaurant,Tours,,,https://www.laliregal-tours.fr/,47.3792865,0.6917436
+11685337188,node,Les Portes de l'Orient,hotel,Tours,,,https://www.riadtours.com/,47.3774122,0.6844978
+11727904307,node,Makéda,restaurant,Tours,,,,47.3960656,0.6911267
+11771543630,node,L'Affiné,restaurant,Tours,,,https://www.laffine.fr/,47.3958539,0.689857
+11771543633,node,La Tosca,restaurant,Tours,,,,47.396077,0.6899617
+11771543634,node,Le Petit Patrimoine,restaurant,Tours,,,,47.3958219,0.6895626
+11771588673,node,Hôtel Colbert,hotel,Tours,,,,47.3959759,0.690624
+11771922823,node,Les Pierres Fondues,restaurant,Tours,,,,47.396234,0.692384
+11771922824,node,La Table Ronde,restaurant,Tours,,,,47.3962572,0.6925719
+11809448435,node,La Dînette,restaurant,Tours,,,,47.3941043,0.6900337
+11886283907,node,Le Bar à Huîtres,restaurant,Tours,,,,47.39575,0.6890984
+11900336237,node,Ardent,restaurant,Tours,,,https://loirevalleylodges.com/ardent-restaurant/,47.3202542,0.7924825
+11903308464,node,Le Bistrot du 60,restaurant,Tours,,,,47.3947381,0.6918342
+11917924632,node,Mille et une Pizzas,restaurant,Tours,"176 Rue Giraudeau, 37000, Tours",37000,https://www.milleetunepizzas-jouelestours.fr/,47.3809727,0.6773712
+11923515404,node,Le P'tit Bistro,restaurant,Tours,"103 Boulevard Jean Royer, 37000, Tours",37000,,47.3811127,0.6852645
+11929201320,node,Maison Gloria,restaurant,Tours,"15 Place Jean Jaurès, 37000, Tours",37000,https://www.maison-gloria.fr/,47.3892048,0.6887595
+12142709301,node,La Burette Guinguette,restaurant,Tours,37510,37510,https://la-burette-guinguette.fr,47.3713281,0.6325044
+12197286967,node,Bangkok Street Food - Le Soleil,restaurant,Tours,,,,47.3816699,0.7197171
+12197286968,node,Le Bocal - Le Soleil,restaurant,Tours,,,,47.3813191,0.7195813
+12211621076,node,Babette,restaurant,Tours,,,,47.3962256,0.6857521
+12255146270,node,L'Océania l'Univers,hotel,Tours,,,https://www.oceaniahotels.com/fr/hotel/hotel-oceania-lunivers-tours,47.3901636,0.6901581
+12255165457,node,Le Grand Hôtel,hotel,Tours,"9 Place du Général Leclerc, 37000, Tours",37000,https://www.legrandhoteltours.com/,47.3899469,0.692337
+12314290997,node,Asian Nour Tours,restaurant,Tours,,,,47.3968211,0.6930232
+12315741060,node,Ripaille,restaurant,Tours,5 rue de Pineau,,,47.2610497,0.468191
+12383404001,node,Blend & Shaker,restaurant,Tours,"3 Avenue de Grammont, 37000, Tours",37000,https://www.blend-shaker.fr/,47.3884653,0.6892997
+12449701120,node,Les Bonnes Grillades,restaurant,Tours,52 Avenue Gustave Eiffel,,https://lesbonnesgrillades.fr/,47.4360734,0.6981274
+12478189301,node,La Baraka,restaurant,Tours,"118 Avenue du Grand Sud, 37170, Chambray-lès-Tours",37170,https://baraka-chambray.fr/,47.338434,0.7033633
+12532135663,node,L'Antrepotes,restaurant,Tours,"4 Rue René Cassin, 37390, Notre-Dame-d'Oé",37390,https://www.antrepotes.fr/,47.4386206,0.6979812
+12563324668,node,Les Saveurs du Saint-Honoré,restaurant,Tours,,,,47.3349187,0.6986143
+12588636600,node,Chez Louisette,restaurant,Tours,,,,47.4414521,0.6981732
+12593635615,node,Léo,restaurant,Tours,,,,47.4756958,0.7758175
+12615433034,node,Central Gourmet,restaurant,Tours,,,,47.4376145,0.6944566
+12616196612,node,Sushi House,restaurant,Tours,"145 Avenue de la Tranchée, 37100, Tours",37100,https://www.sushi-house-tours.fr/,47.408393,0.6816778
+12628362539,node,Au Rendez Vous,restaurant,Tours,,,https://restaurant-le-rendez-vous-tours.eatbu.com/,47.392111,0.687471
+12674309132,node,Fasthôtel,hotel,Tours,,,,47.4374405,0.7118054
+12685495877,node,Espace Hadès,restaurant,Tours,,,,47.3961273,0.692226
+12685495883,node,Chez Christine,restaurant,Tours,,,,47.3956038,0.6887047
+12698714356,node,Le Comptoir du Théatre Olympia,restaurant,Tours,,,https://cdntours.fr/informations/le-comptoir-et-la-librairie-du,47.3936177,0.6884155
+12856183516,node,El Cafecito Prébendes,restaurant,Tours,,,,47.3857296,0.6856519
+12882767864,node,L'aparté,restaurant,Tours,35 Rue Gamard,,,47.3498445,0.6627796
+12882767866,node,Phnom Penh,restaurant,Tours,,,,47.3497616,0.6628368
+12919188518,node,Le Métropole,restaurant,Tours,,,,47.3946662,0.687427
+12919204272,node,Les Négociants,restaurant,Tours,,,,47.3946805,0.6874957
+12920949839,node,Les Vieilles Branches,restaurant,Tours,,,,47.3370792,0.7366451
+12987629992,node,Courtepaille,restaurant,Tours,,,,47.4756889,0.7759251
+13011459875,node,Oconvivio,restaurant,Tours,,,https://oconvivio.fr/,47.3882821,0.6986299
+13011510354,node,3 Brasseurs,restaurant,Tours,,,https://restaurants.3brasseurs.com/fr/france-FR/3757/3-brasseurs-tours/details,47.4263362,0.7005134
+13019685633,node,Verjus,restaurant,Tours,,,https://verjustours.fr/,47.3942106,0.6796979
+13019685636,node,Byblos,restaurant,Tours,,,,47.3942329,0.6791989
+13026343103,node,Le rest'o gourmand,restaurant,Tours,,,https://www.le-rest-o-gourmand-restaurant-ballan-mire.fr/,47.3404555,0.6127009
+13033918921,node,L'Avanos,restaurant,Tours,,,,47.3962716,0.6927118
+13041597741,node,La Factory Pizza,restaurant,Tours,,,https://www.lafactorypizza.fr,47.3909733,0.818257
+13110344636,node,À la soupette de Mémère,restaurant,Tours,Savonnières,,https://www.alasoupettedememere.com/,47.3489376,0.5485126
+13157039021,node,Genny Exotic,restaurant,Tours,,,https://les-delices-de-genny.fr/,47.3799153,0.7048417
+13188789467,node,Le Pavillon d’Olivier Arlot,restaurant,Tours,,,https://lepavillonolivierarlot.com/,47.3906623,0.6812834
+13302415440,node,Pâquerette,restaurant,Tours,,,https://www.paquerette-restaurant.fr/,47.4404152,0.6414554
+13335755348,node,Les Papys Précieux,restaurant,Tours,,,,47.3398056,0.7368928
+13363040912,node,Bella Pizza,restaurant,Tours,,,,47.3893856,0.6062998
+13410164607,node,Moka,restaurant,Tours,74 Impasse Sadi Carnot,,,47.3698636,0.7217138
+13484832621,node,Papush,restaurant,Tours,,,,47.3854549,0.6949603
+13512685516,node,Saperlipopotte,restaurant,Tours,,,https://saperlipopotte.fr/,47.368176,0.7263086
+13723135133,node,Kōbō,restaurant,Tours,,,,47.395706,0.6880969
+13798804050,node,Banger,restaurant,Tours,,,,47.3954011,0.6930349
+13798807085,node,La Planque,restaurant,Tours,,,,47.3953933,0.6928241
+13798807086,node,Le Chien Fou,restaurant,Tours,,,,47.3954204,0.6928149
+13798807087,node,Le CAP Saint-Jacques,restaurant,Tours,,,,47.3954267,0.6928488
+13798867712,node,Los taquerios,restaurant,Tours,,,,47.3955988,0.6928221
+13798867713,node,Bella Vista pizza,restaurant,Tours,,,,47.3955953,0.6927946
+13901282330,node,Le Jardin des Roches,restaurant,Tours,,,,47.3996996,0.6449564
+13906728474,node,Pacific,restaurant,Tours,,,,47.4271559,0.6638864
+13949138534,node,The Best Entrecôte,restaurant,Tours,,,,47.3875641,0.7229684
+13953501992,node,Auberge Jeanne d'Arc,restaurant,Tours,,,,47.1571327,0.6547982
