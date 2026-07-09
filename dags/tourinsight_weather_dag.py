@@ -5,7 +5,7 @@ from datetime import datetime
 with DAG(
     dag_id="tourinsight_weather_pipeline",
     start_date=datetime(2026, 1, 1),
-    schedule="@hourly",
+    schedule="@daily",
     catchup=False,
     tags=["tourinsight", "weather"]
 ) as dag:
