@@ -1,4 +1,6 @@
 osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+276190176,node,Monument aux morts,memorial,Perpignan,,,,42.7087158,2.8459145
+281587153,node,Poste d'Observation Ornithologique,viewpoint,Perpignan,,,,42.6573468,3.0275605
 286884621,node,Hôtel Mercure Centre,hotel,Perpignan,,,,42.702372,2.8949365
 286884664,node,Ibis Perpignan Centre,hotel,Perpignan,Perpignan,,,42.6992258,2.8866982
 286887634,node,Dali Hotel,hotel,Perpignan,"18 Boulevard Jean Bourrat, 66000, Perpignan",66000,https://dalihotel.fr/,42.7009377,2.901387
@@ -9,41 +11,84 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 309525667,node,Café Vienne,restaurant,Perpignan,,,https://cafe-vienne.fr/,42.6981798,2.8925137
 367830258,node,La Passerelle,restaurant,Perpignan,1 Cours François Palmarole,,https://www.restaurant-lapasserelle.com/,42.7022772,2.8945481
 367831333,node,La Galinette,restaurant,Perpignan,23 Rue Jean Payra,,,42.7024685,2.8931453
+441589904,node,,ruins,Perpignan,,,,42.7929992,2.7178166
 442529145,node,Mas de l'Alzine,hotel,Perpignan,,,,42.8006214,2.7201246
+443673150,node,,viewpoint,Perpignan,,,,42.8053314,2.7617235
 459765435,node,Ibis Budget Perpignan nord-Mas de la Garrigue,hotel,Perpignan,"7 Rue Alfred Sauvy, 66600, Rivesaltes",66600,https://www.all.accord.com,42.7820475,2.9006406
+785693741,node,,memorial,Perpignan,,,,42.7546397,2.9945132
+785982253,node,La Femme et l'Enfant,artwork,Perpignan,,,,42.6381736,2.8664944
+950023201,node,PRP_06,artwork,Perpignan,,,https://space-invaders.com/,42.6996687,2.8951069
+950190409,node,PRP_08,artwork,Perpignan,,,https://space-invaders.com/,42.7003681,2.8904695
+950363196,node,PRP_02,artwork,Perpignan,,,https://space-invaders.com/,42.6984181,2.8968939
+950447487,node,Aux Instituteurs des Pyrénées-Orientales morts pour la France,memorial,Perpignan,,,,42.680924,2.9129819
+950513734,node,PRP_05,artwork,Perpignan,,,https://space-invaders.com/,42.6988811,2.8957464
 952228960,node,Cafétéria,restaurant,Perpignan,,,,42.6820272,2.9003044
+983576056,node,,viewpoint,Perpignan,,,,42.7112596,2.9465686
 992585190,node,Kosmo Restaurant,restaurant,Perpignan,,,,42.683351,2.9021513
+996698590,node,Château de Salveterra,castle,Perpignan,,,,42.8763234,2.8616064
+1042846727,node,Maison de la Catalanité,museum,Perpignan,,,https://www.ledepartement66.fr/dossier/maisondelacatalanite/,42.7007937,2.8978063
+1042846732,node,Disparus en Algérie,memorial,Perpignan,,,,42.7023527,2.8990947
 1042846733,node,B&B Hotels,hotel,Perpignan,8 Boulevard Thomas Wilson,,,42.7017832,2.8959717
+1042846752,node,,artwork,Perpignan,,,,42.7025676,2.8965803
+1254513449,node,,memorial,Perpignan,,,,42.7699175,2.6980884
 1295105286,node,Le Sud,restaurant,Perpignan,12 Rue Louis Bausil,,,42.6992879,2.9014623
 1415979973,node,La Casa Pardal,restaurant,Perpignan,,,http://www.restaurant-lacasapardal.com/,42.773479,3.0384042
+1421707515,node,,monument,Perpignan,,,,42.7025652,3.0383602
 1430455176,node,Les Copains,restaurant,Perpignan,"1 Boulevard de la Côte Radieuse, 66140, Canet-en-Roussillon",66140,,42.679569,3.0335939
 1430455177,node,La Guinguette,restaurant,Perpignan,,,,42.6796085,3.0335429
 1430519913,node,Kimchi Kimchi,restaurant,Perpignan,5 Rue des Fabriques-Nadal,,,42.7000305,2.8942082
+1565411922,node,Statue l'Homme et l'Enfant,artwork,Perpignan,,,,42.6398448,2.8718182
+1565411927,node,Cocoricolor,artwork,Perpignan,,,,42.6396252,2.8716105
+1565431696,node,,memorial,Perpignan,,,,42.6381251,2.866502
 1665782420,node,Pizza Raó,restaurant,Perpignan,10 Rue du 11 Novembre,,,42.6361105,2.9151406
 1716852808,node,Le Petit Moka Pizzeria Brasserie,restaurant,Perpignan,,,,42.6981579,2.8950324
+1723311249,node,Canet,beach,Perpignan,,,,42.7129356,3.0393352
+1747015654,node,Mémorial des Volontaires Étrangers,memorial,Perpignan,,,,42.8136046,3.0388601
+1747416561,node,Monument aux morts,memorial,Perpignan,,,,42.6198115,2.7684833
 1749714290,node,Ô belles gambettes,restaurant,Perpignan,2 Rue Font-Froide,,https://o-belles-gambettes.eatbu.com/,42.6998262,2.8959362
+1749738541,node,Vénus au collier,artwork,Perpignan,,,,42.699913,2.8950281
+1749748239,node,La Méditerranéenne ou La pensée,artwork,Perpignan,,,,42.6994206,2.8947307
 1785354949,node,Le bon coin,restaurant,Perpignan,,,,42.7046598,3.0215744
 1791112838,node,Kyriad Prestige,hotel,Perpignan,"35 Boulevard Saint-Assiscle, 66000",66000,https://prestige-perpignan.kyriad.com,42.6967641,2.8782711
 1891854207,node,The Citrus,restaurant,Perpignan,"4 Route de Perpignan, 66330, Cabestany",66330,https://www.thecitrus.eu/,42.6845924,2.9349624
 1930986471,node,Coq au Riz,restaurant,Perpignan,,,,42.6996839,2.8977439
 1946248375,node,Fricaccia Italian Street Food,restaurant,Perpignan,,,https://fricaccia.fr/,42.6949604,2.887688
+1961320440,node,Monument aux morts de Vingrau,memorial,Perpignan,,,,42.8476758,2.7795606
+1983013045,node,,castle,Perpignan,,,,42.7846427,2.9668914
 1998879018,node,Lou Barral,restaurant,Perpignan,2 Rue Maréchal Joffre,,,42.8475895,2.7797194
 2019680917,node,Au Mas,restaurant,Perpignan,"Avenue Maréchal Joffre, 66250",66250,,42.7728457,2.9861013
+2105448782,node,Mas Carbasse,gallery,Perpignan,,,,42.7100654,2.8411
+2119592056,node,,attraction,Perpignan,,,,42.8482704,2.7766407
+2121235285,node,Monument aux morts de Tautavel,memorial,Perpignan,,,,42.8156434,2.7453858
 2133702557,node,Petra's Café,restaurant,Perpignan,,,,42.6997058,2.8876961
+2140341279,node,Stèle Rose Blanc,memorial,Perpignan,,,,42.698264,2.9055243
 2143717728,node,Le Figuier,restaurant,Perpignan,7 Rue du Figuier,,,42.6993015,2.8978796
+2178890910,node,Monument aux morts,memorial,Perpignan,,,,42.7717185,3.0066496
+2203740361,node,,viewpoint,Perpignan,,,,42.8515867,2.7879317
+2269433461,node,Château de Perillos,castle,Perpignan,,,,42.8971717,2.8463415
+2271753937,node,Mémorial en l'honneur de Sylvie Brazès,memorial,Perpignan,,,,42.6843874,2.8991298
 2299926540,node,Hippopotamus,restaurant,Perpignan,,,,42.6988461,2.8920278
 2337899468,node,Pizzeria Snack - El Comédor,restaurant,Perpignan,,,,42.7915808,3.0347704
+2400284779,node,Le Lieu-dit,artwork,Perpignan,,,,42.8308345,3.0415198
+2400284780,node,L'Atlantique,artwork,Perpignan,,,,42.8306152,3.0414815
+2400284785,node,Don Quichotte,artwork,Perpignan,,,,42.8280691,3.0412326
+2400291650,node,Le Lutin,artwork,Perpignan,,,,42.8341296,3.0418246
+2400291651,node,Le Dieu Soleil,artwork,Perpignan,,,,42.8333769,3.0418114
 2441903605,node,Multi-Services Le Presbytère,restaurant,Perpignan,,,http://www.calce.fr/fr/information/6137/le-presbytere,42.7587145,2.754112
 2461204740,node,Fasthotel,hotel,Perpignan,,,,42.6854668,2.8631244
 2465198790,node,Domaine de Rombeau,restaurant,Perpignan,,,,42.7595039,2.8732736
 2558470650,node,Le Bar à Lait,restaurant,Perpignan,Avenue du Général Guillaut,,,42.6901854,2.8937615
+2563669388,node,,memorial,Perpignan,,,,42.6487535,2.8366006
 2825115927,node,Omega Burger,restaurant,Perpignan,,,https://omegaburger.fr/,42.6688956,2.8998607
 2825115928,node,New Delhi,restaurant,Perpignan,,,https://www.restaurantnewdelhi.fr/,42.6687785,2.8999096
 2825137665,node,Hôtel La Fauceille,hotel,Perpignan,,,https://www.lafauceille.com/,42.6695763,2.8976935
+2881818660,node,,memorial,Perpignan,,,,42.7873698,3.0377071
 2881927947,node,Le Casablanca,restaurant,Perpignan,,,,42.785505,3.0378692
 3037444958,node,Maya Club,restaurant,Perpignan,,,,42.7509274,2.9969046
 3037444959,node,Zaza Club,restaurant,Perpignan,,,,42.7582551,3.0377005
+3052141842,node,,memorial,Perpignan,,,,42.6788309,2.8916872
 3073334436,node,Le Brasilia,restaurant,Perpignan,,,,42.7083545,3.0362061
+3107318597,node,"Monument aux morts ""A nos Morts 24e & 44e""",memorial,Perpignan,,,,42.6960183,2.8992217
 3111754848,node,La Casalinga,restaurant,Perpignan,18 Promenade de la Côte Vermeille,,,42.6917561,3.0350299
 3122024626,node,Lou Grilladou,restaurant,Perpignan,,,,42.6957044,2.8834494
 3135358757,node,Hôtel de la Mer,hotel,Perpignan,43 Avenue Annibal,,https://www.hotel-port-barcares.fr/,42.8048673,3.0370211
@@ -54,19 +99,32 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3149586028,node,Le Jardin des Embruns,restaurant,Perpignan,"6 Boulevard de la Salanque, 66420",66420,https://www.lejardindesembruns.fr/,42.78424,3.0357419
 3149587130,node,La Cuisine des Filles,restaurant,Perpignan,11 Boulevard de la Salanque,,,42.7844539,3.0351677
 3172244667,node,Ristorante Del Arte,restaurant,Perpignan,,,https://www.delarte.fr/,42.6808398,2.8949118
+3309519086,node,Château de Tautavel,castle,Perpignan,,,,42.8116838,2.7475866
 3483653493,node,B&b Hôtel Perpignan Sud Porte D'Espagne,hotel,Perpignan,,,,42.6592801,2.8848482
 3483654193,node,B&b Hôtel,hotel,Perpignan,,,,42.7434373,2.8933313
+3490676865,node,Harmonies,artwork,Perpignan,,,,42.7019541,2.9018431
+3490676866,node,L'enfant aux cymbales,artwork,Perpignan,,,,42.6974549,2.8924636
+3490676869,node,Vendangeur au Repos,artwork,Perpignan,,,,42.7021026,2.901499
+3490677296,node,,artwork,Perpignan,,,,42.702121,2.9009859
 3512772483,node,,restaurant,Perpignan,,,,42.7837837,3.0238472
 3512784336,node,,restaurant,Perpignan,,,,42.7861245,3.0246247
+3515052848,node,Le Souvenir Français,memorial,Perpignan,,,,42.788763,3.0354267
+3518093032,node,,viewpoint,Perpignan,,,,42.8746445,2.8634117
 3531319445,node,Catalogne Café,restaurant,Perpignan,,,https://www.restaurant-catalogne-cafe-perpignan.fr/,42.6988798,2.8880605
 3546445895,node,B&b Hôtel Perpignan Saint-Charles,hotel,Perpignan,3429 Avenue Julien Panchot,,,42.6772505,2.8503282
+3551249405,node,Le Rève d'Icare,artwork,Perpignan,,,,42.761231,2.8809231
 3551249406,node,Le dom's,restaurant,Perpignan,,,,42.7610434,2.8810482
 3575058595,node,La Baraquette,restaurant,Perpignan,,,,42.7666759,3.038061
 3575058597,node,Miami beach,restaurant,Perpignan,,,,42.7672967,3.0333725
 3575058598,node,Le Nomad,restaurant,Perpignan,,,,42.7673183,3.038075
+3575058685,node,,memorial,Perpignan,,,,42.7670707,3.0367194
+3589440013,node,Soleil et Tramontane,artwork,Perpignan,,,,42.7557629,2.9948386
+3590221160,node,,memorial,Perpignan,,,,42.7559089,2.9919904
+3592489157,node,,memorial,Perpignan,,,,42.7542411,2.9938309
 3596400277,node,Art i Show,restaurant,Perpignan,,,,42.7547704,2.992106
 3596400278,node,Le régent des Cardo,restaurant,Perpignan,,,,42.7549063,2.9928073
 3603023368,node,La brasserie du Port,restaurant,Perpignan,66420,66420,,42.796022,3.0369326
+3610823820,node,,memorial,Perpignan,,,,42.7958206,3.0385592
 3684163510,node,,restaurant,Perpignan,,,,42.7763336,3.0283215
 3705483205,node,Le P tit Resto,restaurant,Perpignan,,,,42.6971864,2.893269
 3723647560,node,Ibis budget Perpignan Centre,hotel,Perpignan,,,,42.7014219,2.8893628
@@ -75,6 +133,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3773040157,node,Ristorante Del Arte,restaurant,Perpignan,,,,42.7095509,2.8850054
 3785031471,node,Mondial Hotel Perpignan **,hotel,Perpignan,,,,42.6999514,2.8889753
 3819324358,node,Café de la Paix,restaurant,Perpignan,Perpignan,,,42.6979762,2.8923091
+3923794936,node,,viewpoint,Perpignan,,,,42.6850874,2.9616168
 3937279695,node,El Porró,restaurant,Perpignan,,,,42.7342854,3.0317361
 3937284825,node,El Pica Pica,restaurant,Perpignan,,,,42.7341357,3.0368296
 3937286724,node,Al Grill,restaurant,Perpignan,,,,42.7341712,3.0336244
@@ -93,7 +152,11 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4333556524,node,Le Petit Pastis,restaurant,Perpignan,,,,42.7014998,2.8910696
 4333556526,node,Le Ben Aqui,restaurant,Perpignan,,,,42.7011475,2.8903426
 4333556527,node,Le Riad,restaurant,Perpignan,,,,42.7011839,2.8904057
+4336764316,node,,artwork,Perpignan,,,,42.7021491,2.900053
+4336898946,node,Monument aux Morts départemental 1870-1871,memorial,Perpignan,,,,42.6988052,2.9048143
 4337627689,node,Château La Tour Apollinaire,hotel,Perpignan,,,,42.708856,2.8893616
+4340811001,node,Hyacinthe Rigaud,artwork,Perpignan,,,,42.6980899,2.8971065
+4340815270,node,Musée de l'école,museum,Perpignan,,,https://66.dden-fed.org/presentation-du-musee-de-lecole/,42.7168449,2.8910534
 4341047876,node,A côté du Ben Aqui,restaurant,Perpignan,,,,42.7011051,2.8902452
 4341047880,node,Le petit monde,restaurant,Perpignan,1 Rue de l'Ecole,,,42.7017565,2.8926136
 4341047882,node,L'Indochine,restaurant,Perpignan,13 Rue Claude Rouget-de-Lisle,,,42.7014895,2.8920194
@@ -101,9 +164,11 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4341047885,node,Les Délices du Liban,restaurant,Perpignan,,,,42.7008833,2.8897047
 4341060735,node,Le Vauban,restaurant,Perpignan,,,,42.6992427,2.8920459
 4370937017,node,La plage gourmande,restaurant,Perpignan,"10 Promenade de la Côte Vermeille, 66140",66140,https://www.laplagegourmande.fr/,42.6924456,3.0350023
+4375669286,node,Musée des Monnaies et Médailles Joseph Puig,museum,Perpignan,,,https://www.mairie-perpignan.fr/fr/culture/musees/joseph-puig,42.6994256,2.8833946
 4460698195,node,Hôtel de la Loge,hotel,Perpignan,,,,42.6995487,2.8942406
 4492579259,node,Chez Muima,restaurant,Perpignan,,,,42.705136,3.0066942
 4492579260,node,Valentino,restaurant,Perpignan,,,,42.7051202,3.0070724
+4492611097,node,Galerie des Hospices,gallery,Perpignan,,,,42.7053615,3.0074506
 4560399189,node,Le Garriane,restaurant,Perpignan,,,,42.6968379,2.8806415
 4561870091,node,Hôtel l'Express,hotel,Perpignan,,,,42.6966264,2.8807796
 4561897290,node,Happy Grill Restaurant,restaurant,Perpignan,,,,42.6985685,2.8957332
@@ -119,15 +184,23 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4573588169,node,Le Caraibe,restaurant,Perpignan,,,,42.6923135,3.0350023
 4598165090,node,La Rencontre,restaurant,Perpignan,,,,42.6997254,2.8956178
 4677063983,node,Ponte Vecchio,restaurant,Perpignan,,,,42.7007636,2.8924317
+4747576813,node,,artwork,Perpignan,,,,42.702271,3.0147922
+4794860245,node,"Hommage à Joseph Napoléon Sarda Garriga dit ""Papa Sarda""",artwork,Perpignan,,,,42.6949467,2.7700013
+4822846969,node,Femme enceinte,artwork,Perpignan,,,,42.6767321,3.030932
 4823239287,node,Le Plaza,restaurant,Perpignan,4 Avenue de la Méditerranée,,,42.6936642,3.03516
+4823239303,node,La fille du soleil et de la mer,artwork,Perpignan,,,,42.6937941,3.0346263
+4831014722,node,,attraction,Perpignan,,,,42.6926259,3.0354637
+4831014732,node,L'Atlantide,artwork,Perpignan,,,,42.6933305,3.0358511
 4831014742,node,Le Carré,restaurant,Perpignan,32 Boulevard Joseph Cassanyes,,,42.6959113,3.0352637
 4831014745,node,La Maison,restaurant,Perpignan,,,,42.6960846,3.0350905
 4831014746,node,Sole Mio,restaurant,Perpignan,,,,42.6960612,3.0358363
 4831014788,node,Le Taureau sur le Toit,restaurant,Perpignan,,,,42.6947246,3.0349607
+4831014789,node,,artwork,Perpignan,,,,42.6945013,3.0351241
 4831014791,node,Le Blue Lagoon,restaurant,Perpignan,,,,42.6943737,3.0349781
 4834701583,node,La Canne à sucre,restaurant,Perpignan,,,https://la-canneasucre.fr/,42.6914411,3.0350049
 4834701591,node,La Baie d'Asie,restaurant,Perpignan,,,,42.6918228,3.0350352
 4834701592,node,La Siesta,restaurant,Perpignan,14 Promenade de la Côte Vermeille,,,42.6919001,3.0350489
+4836967048,node,Éole,artwork,Perpignan,,,,42.6971378,3.0297286
 4885851928,node,Le Palais des Saveurs,restaurant,Perpignan,,,,42.7012451,2.9406615
 4885851929,node,Le Chalet,restaurant,Perpignan,,,,42.7027156,2.942877
 4885851932,node,Bistro Régent,restaurant,Perpignan,,,,42.7021045,2.9430004
@@ -139,6 +212,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4971932447,node,Hôtel de France,hotel,Perpignan,Quai Sadi Carnot,,,42.7001694,2.8936448
 4975294185,node,Le Punjab,restaurant,Perpignan,2 Avenue du Palais-des-Expositions,,,42.7043136,2.8929133
 5022605148,node,L'Absix,restaurant,Perpignan,"2 Rue de la Cerdagne, 66280, Saleilles",66280,https://www.restaurant-labsix.fr/,42.6574008,2.9266473
+5044208709,node,,memorial,Perpignan,,,,42.6971162,2.7299067
 5071393911,node,Espi,restaurant,Perpignan,43 bis,,,42.7000376,2.8926699
 5102883775,node,Casa Sansa,restaurant,Perpignan,,,,42.6999483,2.8944829
 5102883776,node,Guapo,restaurant,Perpignan,11 Rue des Fabriqués Couvertes,,https://instagram.com/guapo_perpignan,42.7001306,2.8943439
@@ -147,31 +221,64 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5143557099,node,Auberge du Cellier,hotel,Perpignan,,,https://www.aubergeducellier.fr/,42.7491419,2.6786899
 5161392107,node,El Gringo,restaurant,Perpignan,,,,42.7091311,2.8475432
 5161394130,node,Crêperie,restaurant,Perpignan,,,,42.709207,2.8446637
+5206710418,node,Au Ltn Colonel Louis Torcatis,memorial,Perpignan,,,,42.6977886,2.8880279
+5206710800,node,Dalí en lévitation,artwork,Perpignan,,,,42.6983108,2.8876258
 5211830812,node,La Roma,restaurant,Perpignan,,,,42.6985255,2.891846
 5300717822,node,Boniface - La 7ème vague,restaurant,Perpignan,,,,42.6640623,2.9048128
 5323565579,node,La Cave à Fromage,restaurant,Perpignan,,,,42.6972168,2.8933234
+5364102494,node,,viewpoint,Perpignan,,,,42.854999,2.793633
 5372391450,node,L'Anamar,restaurant,Perpignan,,,,42.6403683,2.904721
+5457862543,node,Casa Pairal,museum,Perpignan,,,https://www.mairie-perpignan.fr/culture-patrimoine/culture/musees/casa-pairal,42.7005957,2.8941031
 5536450822,node,Domaine La Marche,restaurant,Perpignan,"15 Avenue Armand Claret, 66600, Salses-le-Château",66600,,42.8353603,2.9193053
+5586414234,node,Espace du Souvenir,memorial,Perpignan,,,,42.6725317,2.8352801
+5602375107,node,Chronodrome,memorial,Perpignan,,,,42.8746757,2.8624934
+5620755615,node,"10 Peintres sur la Côte, Coté Catalane",artwork,Perpignan,,,,42.8283989,3.0409463
+5620755622,node,,artwork,Perpignan,,,,42.828621,3.0412612
+5620755623,node,,artwork,Perpignan,,,,42.8289162,3.0412721
 5620755624,node,Le Lamparo,restaurant,Perpignan,4 Avenue du Paquebot des Sables,,https://le-lamparo66.com/,42.8298394,3.0412303
+5620755691,node,Sans nom 5,artwork,Perpignan,,,,42.8314473,3.0415511
+5620755694,node,,artwork,Perpignan,,,,42.8313026,3.0415576
+5620755695,node,,artwork,Perpignan,,,,42.8311479,3.0415467
+5620755696,node,Sans nom 2,artwork,Perpignan,,,,42.8320478,3.0416254
+5620755699,node,,artwork,Perpignan,,,,42.83285,3.0418636
+5620755715,node,,artwork,Perpignan,,,,42.8330916,3.0417833
+5620755844,node,,artwork,Perpignan,,,,42.8386243,3.0424217
+5621352684,node,,artwork,Perpignan,,,,42.7869473,3.0353818
 5638476606,node,O Panda,restaurant,Perpignan,,,,42.775116,2.9075896
 5638476620,node,Bistro Régent,restaurant,Perpignan,,,,42.7748832,2.9091016
 5638477022,node,Le Boeuf en folie,restaurant,Perpignan,,,,42.7752723,2.9097986
 5638477049,node,Poivre Rouge,restaurant,Perpignan,,,,42.7755747,2.9072726
 5638477052,node,La Pataterie,restaurant,Perpignan,,,,42.7754213,2.9075014
 5645951039,node,Le Pied-à-Terre,restaurant,Perpignan,,,,42.8270347,3.0385361
+5653482539,node,François Arago,memorial,Perpignan,,,,42.6987049,2.8924329
+5653813661,node,,artwork,Perpignan,,,,42.6701936,2.9164111
 5654135287,node,L'Atelier Salade...,restaurant,Perpignan,5 Place André Grétry,,,42.6995612,2.8967656
 5664654013,node,New Delhi,restaurant,Perpignan,,,,42.6967176,2.8818643
 5765953500,node,Brasserie de la Gare,restaurant,Perpignan,1 Avenue du Général de Gaulle,,,42.6965144,2.8802619
 5765953501,node,Hôtel Paris Barcelone,hotel,Perpignan,1 Avenue du Général de Gaulle,,,42.6967165,2.8802307
 5780106485,node,Nem 66,restaurant,Perpignan,,,,42.6959154,2.8907248
+5812856495,node,,memorial,Perpignan,,,,42.8112716,3.0349234
+5814665419,node,,artwork,Perpignan,,,,42.8113772,3.0380016
+5836897250,node,Monument aux morts,memorial,Perpignan,,,,42.7712739,2.8779839
 5881497755,node,Le petit Mogador,restaurant,Perpignan,,,,42.7012884,2.8916711
+5885199841,node,Buste du Conventionnel Cassanyes,artwork,Perpignan,,,,42.7055421,3.0087426
+5885199852,node,La Catalane à la fontaine,artwork,Perpignan,,,,42.705599,3.008491
+5885199853,node,La symphonie des trois violons,artwork,Perpignan,,,,42.7055346,3.0083544
+5885199873,node,La Paix,artwork,Perpignan,,,,42.7057073,3.0082273
 5901943005,node,,restaurant,Perpignan,,,,42.7052018,3.0168239
 5911623532,node,Crêpes Coquette,restaurant,Perpignan,22 Avenue de la Catalogne,,,42.6967278,3.0331458
+5912797267,node,Monument aux Morts de Calce,memorial,Perpignan,,,,42.7578451,2.7495759
+5920825076,node,,park,Perpignan,,,,42.7290633,3.036
 5935766323,node,C'Wok,restaurant,Perpignan,,,,42.7755648,2.9194839
+5998340186,node,,artwork,Perpignan,,,,42.6958872,2.8902867
 5998340222,node,New Saigon,restaurant,Perpignan,93 Rue du Maréchal Foch,,,42.6941702,2.8884561
 6010508320,node,Ly' Picerie de Vincent,restaurant,Perpignan,,,,42.6972021,2.8925921
 6010508321,node,Le Concubin,restaurant,Perpignan,6 Rue des Augustins,,https://www.leconcubin.fr/,42.6972321,2.8926672
 6125417523,node,Via del Vi,restaurant,Perpignan,,,,42.7008594,2.8896329
+6140242299,node,Monument aux morts d'Opoul,memorial,Perpignan,,,,42.8698927,2.8737182
+6211152094,node,,viewpoint,Perpignan,,,,42.8736446,2.794326
+6211152095,node,,viewpoint,Perpignan,,,,42.8757276,2.794967
+6211152096,node,,viewpoint,Perpignan,,,,42.876052,2.7945965
 6318379792,node,Le Sol an' Flot,restaurant,Perpignan,,,,42.6977515,3.0359975
 6318709954,node,Le Dauphin,restaurant,Perpignan,"Promenade de la Côte Vermeille, 66140, Canet en Roussillon",66140,https://lacarte.menu/restaurants/canet-en-roussillon/le-dauphin-34,42.7012732,3.0364712
 6409156981,node,Les Vedettes,restaurant,Perpignan,"15 Promenade de la Côte Vermeille, 66140, Canet-en-Roussillon",66140,,42.6955545,3.0358074
@@ -182,8 +289,11 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 6463188019,node,Brit Hotel Porta d'Espanya,hotel,Perpignan,,,,42.6597252,2.8849156
 6463188020,node,Hôtel Première Classe Perpignan Sud,hotel,Perpignan,10 Rue du Docteur Bouillaud,,,42.6596997,2.8838652
 6478491046,node,Espace Wok,restaurant,Perpignan,"2000 Avenue d'Espagne, 66000, Perpignan",66000,,42.6698976,2.8837472
+6501134239,node,Maison natale du Maréchal Joffre,museum,Perpignan,"11 Rue Maréchal Joffre, 66600, Rivesaltes",66600,https://museejoffre.fr/,42.7699995,2.8740068
+6522244624,node,,memorial,Perpignan,,,,42.7919566,3.0365338
 6555851806,node,Chez Marius,restaurant,Perpignan,9 Boulevard de la Côte Vermeille,,,42.7858024,3.0374853
 6562299587,node,Chez Sébastien,restaurant,Perpignan,29 Rue du Castillet,,,42.7011767,2.8976589
+6639787051,node,Stèle Général Barboteu,memorial,Perpignan,,,,42.6823984,2.7348454
 6642886924,node,Ambiance Kebab,restaurant,Perpignan,,,,42.6858323,3.0343862
 6721817541,node,Allantoine,restaurant,Perpignan,,,,42.7685973,2.8692736
 6771625307,node,Hôtel Balladins,hotel,Perpignan,,,,42.6964539,2.8807969
@@ -191,19 +301,36 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 6772056483,node,Le Tire Bouchon,restaurant,Perpignan,,,,42.6967439,2.8819463
 6863330735,node,Le Bistrot du Midi,restaurant,Perpignan,,,,42.7023151,2.9454548
 6900185566,node,Casa Del Sol,restaurant,Perpignan,"10 Place Louis Esparre, 66350, Toulouges",66350,,42.6714483,2.8318039
+6939705205,node,Giorgio,artwork,Perpignan,,,,42.6983913,3.0274239
+6939705206,node,Paysage lacéré,artwork,Perpignan,,,,42.6979452,3.0273664
+6939705207,node,La vague,artwork,Perpignan,,,,42.6980709,3.0279751
 6976519686,node,Brasserie Le Foulon,restaurant,Perpignan,6,,,42.6959757,2.8767996
 7028748806,node,Le Jean,restaurant,Perpignan,,,,42.6967947,2.8772206
+7132080078,node,Mas Pams,museum,Perpignan,,,,42.729861,2.9342512
+7132185336,node,,artwork,Perpignan,,,,42.7302681,2.9351967
+7132248696,node,état de Catalanité,artwork,Perpignan,,,,42.7294208,2.9392518
+7132289209,node,,memorial,Perpignan,,,,42.7272462,2.9357341
 7135166086,node,Chez Bonal'O,restaurant,Perpignan,,,,42.7316071,2.9330609
+7222142351,node,,memorial,Perpignan,,,,42.7767858,2.8367247
+7231523482,node,,memorial,Perpignan,,,,42.772422,2.8757464
+7231540625,node,,memorial,Perpignan,,,,42.7729065,2.8781329
 7260776244,node,Pita Corner,restaurant,Perpignan,,,,42.7004722,3.0363569
 7276735645,node,Le Petit Marrakech,restaurant,Perpignan,"3 Avenue de Toulouse, 66140, Canet-en-Roussillon",66140,https://www.lepetitmarrakech.fr/,42.6796552,3.0334439
 7425844654,node,Le soler pizza,restaurant,Perpignan,,,,42.6818744,2.7959424
 7425844659,node,Mam thai food & sushis,restaurant,Perpignan,,,,42.6814173,2.791768
+7710976247,node,,memorial,Perpignan,,,,42.6847149,2.7980414
+7937787468,node,,memorial,Perpignan,,,,42.6797917,2.9362579
 7952415987,node,Pizza Bonici - Cabestany,restaurant,Perpignan,66330,66330,,42.67971,2.940103
+7967045659,node,,garden,Perpignan,,,,42.7096882,2.8361147
 7980886785,node,Naan Fromage,restaurant,Perpignan,14 Rue du Théâtre,,,42.698351,2.8968177
 7982101085,node,Tandoori Indian,restaurant,Perpignan,,,,42.6983001,2.8968565
+7993084397,node,Mémorial de la Résistance et de la déportation,memorial,Perpignan,,,,42.6778705,2.9423552
+7995731987,node,,artwork,Perpignan,,,,42.6812831,2.9343156
 8002740916,node,Pizza du Mas,restaurant,Perpignan,,,,42.6847079,2.9348125
+8007218898,node,,memorial,Perpignan,,,,42.7898664,3.0378462
 8013519248,node,La Pizza di Gastonello,restaurant,Perpignan,,,https://www.lapizzadigastonello.fr/,42.6870591,2.9215753
 8043005818,node,Bisou Concept Food,restaurant,Perpignan,,,,42.6811736,2.9335146
+8059294145,node,,garden,Perpignan,,,,42.677597,2.942739
 8066742438,node,Brasserie Moustach',restaurant,Perpignan,,,,42.6908628,2.9209777
 8066742446,node,Le Bistrot,restaurant,Perpignan,,,,42.6890628,2.9200899
 8066742470,node,Donatella,restaurant,Perpignan,,,https://www.restodonatella.fr/,42.6857702,2.9187434
@@ -215,22 +342,65 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 8111495856,node,Les II Mas,hotel,Perpignan,,,https://www.les2mas.com/,42.6915292,2.9320752
 8185402230,node,Namaste,restaurant,Perpignan,,,https://namaste-masguerido.business.site/,42.6909078,2.9226799
 8185402241,node,Sushi Sakura,restaurant,Perpignan,,,https://www.sushisakura.fr/,42.6908451,2.9234532
+8195054042,node,,memorial,Perpignan,,,,42.6265401,2.8144337
 8207204673,node,Le Chaudron Cabestany,restaurant,Perpignan,"20 Avenue André Ampère, 66330, Cabestany",66330,https://www.lechaudron66.com/,42.6902217,2.9201574
+8236618919,node,Terrain GlouGlou,attraction,Perpignan,,,,42.7636642,2.996291
 8250181174,node,Les Catherinettes,restaurant,Perpignan,,,,42.7014237,2.940522
 8255967139,node,La Poissonnerie,restaurant,Perpignan,,,,42.6376682,2.9224301
 8316520623,node,Le Boogie's Bar,restaurant,Perpignan,"2 Place Martinique, 66420",66420,,42.8149522,3.0204406
+8321214654,node,Adam et Ève,artwork,Perpignan,,,,42.6805212,2.9359005
+8322302489,node,,artwork,Perpignan,,,,42.6802797,2.9359056
+8357574317,node,,viewpoint,Perpignan,,,,42.7986773,2.7238578
+8444972371,node,,artwork,Perpignan,,,,42.8289851,3.0412996
+8450614443,node,,memorial,Perpignan,,,,42.8368227,2.7539668
+8450614453,node,,memorial,Perpignan,,,,42.8369487,2.7533098
+8450614454,node,,memorial,Perpignan,,,,42.8374199,2.7534894
+8450614455,node,,memorial,Perpignan,,,,42.8375754,2.7534321
+8450614456,node,,memorial,Perpignan,,,,42.8366467,2.7539213
 8461546456,node,L'art de vivre,restaurant,Perpignan,9 Place Martinique,,,42.8151403,3.0209826
+8473755198,node,,artwork,Perpignan,,,,42.7159973,2.9325774
 8477089554,node,À Table,restaurant,Perpignan,,,http://atable.meabilis.fr/,42.6874236,2.9193562
+8479946303,node,Aux Bompassencqs,memorial,Perpignan,,,,42.731253,2.9298422
+8483197437,node,,memorial,Perpignan,,,,42.7272783,2.9839357
+8508057783,node,,artwork,Perpignan,,,,42.7266872,3.0159696
+8562089297,node,,memorial,Perpignan,,,,42.8235896,2.9252755
 8563935395,node,La Diligence du Château,restaurant,Perpignan,49 Avenue Général de Gaulle,,,42.8323075,2.9193176
+8600631506,node,,memorial,Perpignan,,,,42.8315207,2.9152856
+8600631778,node,Square du Souvenir Français,artwork,Perpignan,,,,42.8338508,2.9166093
+8603305155,node,Maison de Claude Simon,attraction,Perpignan,,,,42.8340344,2.9192479
+8638461222,node,,memorial,Perpignan,,,,42.680123,2.9348528
 8638767692,node,,restaurant,Perpignan,,,,42.7084124,2.8461748
+8639854428,node,,artwork,Perpignan,,,,42.6800555,2.9389881
+8640055333,node,Buste de Jean Jaurès,artwork,Perpignan,,,,42.7079002,2.8461772
+8645224327,node,,artwork,Perpignan,,,,42.7107,2.8444917
 8645224346,node,Yum Yum,restaurant,Perpignan,,,,42.7171232,2.8402994
 8645224350,node,Mas Alégria,restaurant,Perpignan,,,,42.7169977,2.8397506
 8652274831,node,Les Portes du Lac,restaurant,Perpignan,,,,42.7178608,2.854992
 8652782051,node,Rotisserie Trattoria Bonici,restaurant,Perpignan,,,,42.7169898,2.846346
+8677291533,node,,memorial,Perpignan,,,,42.679405,2.9359207
+8685834669,node,,memorial,Perpignan,,,,42.7560836,2.9546601
 8691361637,node,La Comedia,restaurant,Perpignan,"28 Avenue de Saint-Nazaire, 66140, Canet-en-Roussillon",66140,,42.703875,3.0037126
+8695258513,node,Jardin du Souvenir,memorial,Perpignan,,,,42.8314747,2.9145973
+8707672178,node,Fresque,artwork,Perpignan,,,,42.8318888,2.9194874
+8721262089,node,,artwork,Perpignan,,,,42.6809723,2.9360325
+8721664354,node,Fresque,artwork,Perpignan,,,,42.8333522,2.9194804
+8721664355,node,Fresque,artwork,Perpignan,,,,42.8333544,2.9194982
+8736004196,node,Stèle du Souvenir Français,memorial,Perpignan,,,,42.6346663,2.9209111
+8736004198,node,,memorial,Perpignan,,,,42.6359508,2.9183448
+8736924072,node,,attraction,Perpignan,,,,42.7290981,2.9271443
+8736924073,node,,attraction,Perpignan,,,,42.729038,2.9272167
 8740139029,node,Salses Pizza,restaurant,Perpignan,52 Avenue Général de Gaulle,,,42.832486,2.9196596
 8740139031,node,Chez Jean-Louis,restaurant,Perpignan,,,,42.8311248,2.9189777
 8750817321,node,,restaurant,Perpignan,,,,42.6237955,2.8209583
+8753917402,node,,attraction,Perpignan,,,,42.729466,2.9269337
+8768875951,node,,memorial,Perpignan,,,,42.6785206,2.9416731
+8812297284,node,,memorial,Perpignan,,,,42.6793796,2.9343085
+8842074786,node,Mur de Moretti,artwork,Perpignan,,,,42.8147457,2.7492774
+8860462678,node,El Partit,artwork,Perpignan,,,,42.6595264,2.9530245
+8862840337,node,,artwork,Perpignan,,,,42.7209103,2.8261141
+8862840369,node,,artwork,Perpignan,,,,42.7214557,2.8260064
+8862840501,node,,artwork,Perpignan,,,,42.7216763,2.8268226
+8883088292,node,Le Charlie Chaplin,artwork,Perpignan,,,,42.6840823,2.9404593
 8895318237,node,Le Régina,hotel,Perpignan,132 Boulevard Hippolyte Tixador,,https://leregina-canet.fr,42.6843617,3.0338537
 8916499377,node,Vostra Italia,restaurant,Perpignan,,,,42.6867561,2.9216282
 8920069717,node,Can Marcel,restaurant,Perpignan,"101 Promenade de la Côte Vermeille, 66140",66140,,42.7007201,3.0363967
@@ -251,17 +421,34 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 8987867086,node,Naudo Beach Club,restaurant,Perpignan,,,,42.6721633,3.0345553
 8987867087,node,,restaurant,Perpignan,,,,42.6733821,3.0347568
 8987867088,node,,restaurant,Perpignan,,,,42.6748845,3.0348086
+8999035987,node,La Grande Vague by Maurence,artwork,Perpignan,,,,42.8006133,3.0374868
 8999063138,node,El Patcho,restaurant,Perpignan,"Place du Tertre, 66420",66420,https://el-patcho-bar-restaurant-le-barcares.eatbu.com/?lang=fr,42.833742,3.0401849
 8999063139,node,La Pomme d'Api,restaurant,Perpignan,"Place du Tertre, 66420",66420,,42.8339483,3.0405347
 8999063160,node,Le Tertre,restaurant,Perpignan,1 Place du Tertre,,,42.833619,3.0396796
 8999770292,node,Le Bistrot du Marché,restaurant,Perpignan,,,,42.6927111,2.9194591
+9006212985,node,,viewpoint,Perpignan,,,,42.8037812,2.9746179
+9028996405,node,,artwork,Perpignan,,,,42.7023809,3.0133295
 9031130507,node,Maison Espiago,restaurant,Perpignan,,,,42.6988338,2.8913738
 9045205917,node,Le grand café de la bourse,restaurant,Perpignan,2 Place de la Loge,,,42.6997952,2.8947923
+9133098475,node,,memorial,Perpignan,,,,42.6779925,2.9129565
+9165890917,node,,artwork,Perpignan,,,,42.7020409,2.8950886
 9171884825,node,Yori Izakaya,restaurant,Perpignan,63 Avenue Maréchal Leclerc,,,42.7002532,2.8874207
+9188684775,node,,memorial,Perpignan,,,,42.7434735,2.9226017
+9188684815,node,,memorial,Perpignan,,,,42.7439615,2.9194994
+9212188079,node,La Mescla,artwork,Perpignan,,,,42.6824758,2.7951434
+9218151444,node,,artwork,Perpignan,,,,42.6679285,2.8874369
+9235398910,node,,memorial,Perpignan,,,,42.6247276,2.8121775
+9275078501,node,,memorial,Perpignan,,,,42.6538611,2.9524603
+9309478124,node,Cadran solaire,artwork,Perpignan,,,,42.7803231,2.8993626
+9346680854,node,,memorial,Perpignan,,,,42.6551344,2.9553933
 9407099655,node,Restaurant du personnel,restaurant,Perpignan,,,,42.7274421,2.8902143
+9413938692,node,,memorial,Perpignan,,,,42.6545653,2.9537367
+9435143633,node,,memorial,Perpignan,,,,42.6685203,2.9905266
 9457425462,node,Buffalo Grill,restaurant,Perpignan,,,,42.660049,2.8838511
 9519438609,node,Ti Paille-en-queue,restaurant,Perpignan,,,,42.6540233,2.8318537
 9519588270,node,Casa Pépé,restaurant,Perpignan,,,,42.6621155,2.844527
+9530457761,node,,artwork,Perpignan,,,,42.6642967,2.844132
+9532589533,node,,artwork,Perpignan,,,,42.661039,2.9387662
 9543412392,node,Auberge du Mas Chabry,restaurant,Perpignan,,,,42.6687218,2.8533245
 9545165008,node,La Brasserie,restaurant,Perpignan,,,,42.6684087,2.9898168
 9563536820,node,Yuki Sushi,restaurant,Perpignan,,,,42.6665036,2.9174548
@@ -269,29 +456,62 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 9563536822,node,La table des secrets,restaurant,Perpignan,,,,42.6660933,2.9170686
 9563536825,node,Le Casablanca,restaurant,Perpignan,,,,42.6667146,2.91742
 9566855167,node,Les délices de Saleilles,restaurant,Perpignan,,,https://www.les-delices-de-saleilles-restaurant-perpignan.com/,42.6553297,2.9535212
+9586366961,node,,memorial,Perpignan,,,,42.7729221,2.9878811
 9612435381,node,Le Commerce,restaurant,Perpignan,,,,42.7723039,2.6993832
+9661777849,node,,artwork,Perpignan,,,,42.671437,2.8310786
+9669789910,node,,memorial,Perpignan,,,,42.6985887,2.9056082
+9671040852,node,,artwork,Perpignan,,,,42.6414631,2.8705495
+9671177721,node,,memorial,Perpignan,,,,42.6398492,2.8723991
+9673802172,node,,memorial,Perpignan,,,,42.6999598,2.9931723
+9688225895,node,Don du sang,memorial,Perpignan,,,,42.6574936,2.8346242
+9688306791,node,,memorial,Perpignan,,,,42.6406631,2.8667953
 9697645142,node,La Pâta Pizza,restaurant,Perpignan,,,https://lapatapizzadelsol@gmail.com,42.6396425,2.8712028
 9697645148,node,La Casa Pizza,restaurant,Perpignan,12 Avenue du Roussillon,,,42.6402907,2.8709983
+9697645152,node,Unity in Peace,artwork,Perpignan,,,,42.6415554,2.8690155
 9700684506,node,Le Mooréa,restaurant,Perpignan,3 Impasse Serge Blanco,,,42.6407001,2.9066201
 9700684507,node,Lac i va bé,restaurant,Perpignan,,,,42.640706,2.9060903
 9705956020,node,La cabane,restaurant,Perpignan,"8 Place Jean Payra, 66180",66180,,42.636519,2.9154707
 9706003200,node,Dolce Vita,restaurant,Perpignan,,,,42.6373438,2.9139774
+9707545756,node,,viewpoint,Perpignan,,,,42.6362378,2.9138721
+9733432582,node,Espace de l'Ordre National du Mérite,memorial,Perpignan,,,,42.7729502,3.0099347
+9733493897,node,,memorial,Perpignan,,,,42.7655992,2.9870533
+9733544689,node,Un Monde Meilleur,artwork,Perpignan,,,,42.7548667,2.9933053
+9733544692,node,La llegenda del cor menjat,memorial,Perpignan,,,,42.7544188,2.9940507
 9733544713,node,Pizza Romane,restaurant,Perpignan,,,,42.7549569,2.9937228
+9735967623,node,,artwork,Perpignan,,,,42.753952,2.9938656
 9751176994,node,La Table de Thomas,restaurant,Perpignan,,,https://www.latabledethomas.com,42.6561276,2.9070948
 9766658368,node,La page blanche,restaurant,Perpignan,2 Rue Alfred Sauvy,,,42.6421577,2.8790476
+9838545938,node,,memorial,Perpignan,,,,42.7292252,2.8890623
+9838545973,node,Musée Bella,museum,Perpignan,,,,42.7215939,2.8864633
+9842613736,node,,memorial,Perpignan,,,,42.627877,2.8450758
+9842730922,node,,artwork,Perpignan,,,,42.6293955,2.8170998
 9848756218,node,Lenny's Pizza,restaurant,Perpignan,,,,42.6236992,2.8127863
 9848756228,node,La Beau Dégâts,restaurant,Perpignan,6 Place de la Poste,,,42.62562,2.8136131
 9848756233,node,Noellia bar restaurant,restaurant,Perpignan,,,,42.62349,2.8127233
+9848756242,node,,memorial,Perpignan,,,,42.6234713,2.8124108
+9848756317,node,,artwork,Perpignan,,,,42.627303,2.8179047
+9856544663,node,,artwork,Perpignan,,,,42.6987022,2.8202674
+9856544664,node,,memorial,Perpignan,,,,42.6986209,2.8203216
+9859022142,node,,memorial,Perpignan,,,,42.7704531,2.987195
 9862229438,node,Le Vigatane,restaurant,Perpignan,,,,42.7069574,3.0081832
 9870616012,node,El Silex,restaurant,Perpignan,,,,42.8161425,2.7490337
+9870652404,node,Écomusée du miel,museum,Perpignan,,,,42.8159231,2.7487615
 9870714455,node,Le Petit Gris,restaurant,Perpignan,,,,42.8146254,2.736431
 9870795279,node,Le moulin à soufre,restaurant,Perpignan,,,https://www.restaurant-moulinasoufre.fr/,42.7580108,2.8661469
+9870841139,node,Statue Maréchal Joffre,memorial,Perpignan,,,,42.7685274,2.8712169
 9911737518,node,Chez Massimo,restaurant,Perpignan,Rue de l'Ange,,,42.6982328,2.8933801
+9925050821,node,,memorial,Perpignan,,,,42.7669817,2.8685381
+9925050822,node,,memorial,Perpignan,,,,42.7670351,2.868536
 9925050823,node,Le Robinson,restaurant,Perpignan,,,,42.7666665,2.8685506
+9945588153,node,Fresque,artwork,Perpignan,,,,42.8337038,2.9171155
 9945614794,node,Château de Jau,restaurant,Perpignan,,,https://www.chateaudejau.com,42.7785312,2.7392301
+9956732674,node,,memorial,Perpignan,,,,42.7848347,2.9671609
 9963795059,node,Le Castell,restaurant,Perpignan,13 Rue de la Tour Carrée,,,42.7063247,3.0076135
 9970176517,node,Pizza Luna,restaurant,Perpignan,,,,42.6235113,2.7699266
 9973142534,node,Crêperie bretonne de la Colline,restaurant,Perpignan,,,https://www.creperie66.com/creperie-de-la-colline-des-loisirs/,42.7022937,3.0189979
+9977822592,node,,memorial,Perpignan,,,,42.6343934,2.917921
+9980261063,node,Devoris et Droits de l'Homme et du Citoyen,memorial,Perpignan,,,,42.7726632,2.9815006
+9980321069,node,,memorial,Perpignan,,,,42.773056,2.9847126
 10024937582,node,La Rotonde,restaurant,Perpignan,8 Place Jean Payra,,,42.6983981,2.8890342
 10024937602,node,Chez Gubbi,restaurant,Perpignan,,,https://chezgubbi.my.canva.site/,42.702103,2.8958088
 10024937611,node,Pizza Aldo,restaurant,Perpignan,36 Boulevard Aristide Briand,,,42.694734,2.9014762
@@ -300,7 +520,11 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 10031729258,node,Noor Cheese Naan,restaurant,Perpignan,,,,42.6942476,2.8894875
 10031729267,node,L'Hibiscus,restaurant,Perpignan,"11 Rue Maximilien de Sully, 66000, Perpignan",66000,,42.6979423,2.8894036
 10031729269,node,Minami,restaurant,Perpignan,,,,42.6977979,2.8894868
+10034300437,node,Monument aux Résistants du Maquis,memorial,Perpignan,,,,42.7271529,2.6701263
+10044218809,node,,viewpoint,Perpignan,,,,42.6937593,2.895324
+10051672690,node,,artwork,Perpignan,,,,42.68768,3.0352078
 10061294593,node,Le 35,restaurant,Perpignan,,,,42.7339753,3.0334188
+10077520717,node,Teseo,artwork,Perpignan,,,,42.704453,3.0083985
 10084928737,node,Dragon Wok,restaurant,Perpignan,,,,42.7342423,2.8891743
 10086511368,node,O'Grill,restaurant,Perpignan,,,,42.6884149,2.8963566
 10086511376,node,La Pause Délice,restaurant,Perpignan,,,,42.687784,2.9003202
@@ -311,16 +535,20 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 10108733518,node,La Famille,restaurant,Perpignan,3 bis Rue François-Marie Voltaire,,https://m.facebook.com/lafamillerestau/,42.6980211,2.8945094
 10115969903,node,Au coin gourmand,restaurant,Perpignan,,,,42.7009991,2.894585
 10115969905,node,Txoko,restaurant,Perpignan,,,,42.7008863,2.89464
+10115969907,node,Petit Train,attraction,Perpignan,,,,42.7006852,2.8938568
+10115986721,node,Galerie Art'thé,gallery,Perpignan,,,,42.6979787,2.896317
 10115986722,node,Italia Mia,restaurant,Perpignan,14 Place Hyacinthe Rigaud,,,42.6979758,2.8969031
 10115986728,node,Les Petits Délices,restaurant,Perpignan,,,,42.6952515,2.8943322
 10115986742,node,L'Estudiantine,restaurant,Perpignan,3 Rambla du Vallespir,,,42.6851879,2.9027275
 10116050572,node,Les Platanes,restaurant,Perpignan,2 Cours François Palmarole,,,42.7022121,2.8946011
+10119425337,node,,memorial,Perpignan,,,,42.6954681,2.8889399
 10119425338,node,Sushi Mey,restaurant,Perpignan,,,,42.6994818,2.89016
 10119425349,node,L'Intermède,restaurant,Perpignan,3 Rue Pierre Rameil,,,42.7005172,2.8917787
 10119425353,node,Pizza Cosy,restaurant,Perpignan,,,,42.7005408,2.8911833
 10119425356,node,Le Petit Comité,restaurant,Perpignan,24 Boulevard Georges Clemenceau,,,42.7007168,2.8908071
 10119425357,node,Eat Sushi,restaurant,Perpignan,24 bis Boulevard Georges Clemenceau,,,42.7006978,2.8906897
 10119425383,node,,restaurant,Perpignan,,,,42.6996592,2.889181
+10270053218,node,Jean Jaurès,memorial,Perpignan,,,,42.6970486,2.8882445
 10296717178,node,Sagí,restaurant,Perpignan,3 Rue Fabriqués d'en Nadals,,https://sagi-taverna.fr/,42.6999705,2.8942544
 10296743087,node,Baston Restaurant & Cave,restaurant,Perpignan,72 Avenue Louis Torcartis,,https://baston-restaurant.fr/,42.7033289,2.8874329
 10568729351,node,Le Grain de Folie,restaurant,Perpignan,71 Avenue Maréchal Leclerc,,,42.7001274,2.8869058
@@ -329,28 +557,49 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 10673536367,node,Gust'I Pizza,restaurant,Perpignan,,,https://www.gustipizza.fr/,42.6843047,2.8104504
 10704422506,node,Le For’Hom,restaurant,Perpignan,1 Avenue Jean Badia,,,42.8151977,2.7482336
 10704422508,node,L'étape,restaurant,Perpignan,,,,42.8137786,2.7450927
+10705291578,node,,artwork,Perpignan,,,,42.8143231,2.7453516
+10705291579,node,,artwork,Perpignan,,,,42.8156463,2.7452758
+10705291580,node,,artwork,Perpignan,,,,42.8155686,2.7454039
+10705291582,node,,artwork,Perpignan,,,,42.815031,2.7496035
+10705291591,node,,viewpoint,Perpignan,,,,42.813541,2.7478883
 10713051212,node,Le Sujet,restaurant,Perpignan,2 Place Albert de Belgique,,https://lesujet-restaurant.fr/,42.6959531,2.8829405
 10720916444,node,O'Gourmet,restaurant,Perpignan,,,,42.6843381,2.8500187
 10720916446,node,O'Gourmet,restaurant,Perpignan,31 Rue de Munich,,,42.6841035,2.8511117
+10799301571,node,Don du sang Don d'organe Don de vie,artwork,Perpignan,,,,42.6672856,2.8382586
+10884065986,node,Cami del Art,gallery,Perpignan,,,,42.6955851,2.8757351
 10894089838,node,Tiki restaurant,restaurant,Perpignan,,,,42.7787044,3.0295148
 10894090007,node,,restaurant,Perpignan,,,,42.7813995,3.0226578
 10894983491,node,,restaurant,Perpignan,,,,42.774385,3.0228429
 10894983573,node,,restaurant,Perpignan,,,,42.7749687,3.0184776
 10919659309,node,La Taverne Bretonne,restaurant,Perpignan,Rue des Fabriques-d'En-Nabot,,https://www.latavernebretonne.fr/,42.7001227,2.8939698
+10920052368,node,,memorial,Perpignan,,,,42.7557353,2.8560082
+10923719430,node,,memorial,Perpignan,,,,42.7492374,2.8614369
+10936668671,node,Jean-Paul Furrasola,gallery,Perpignan,,,,42.7521332,2.8506263
 10936668674,node,Pizz' À Petotes,restaurant,Perpignan,,,,42.7539776,2.8574753
 10936668676,node,Ô Bistrot d'Aquí,restaurant,Perpignan,11 Rue de l'Europe,,,42.7553641,2.8575316
+10992958996,node,,memorial,Perpignan,,,,42.6456671,2.8734519
+11022996812,node,L’Athlète maîtrisant la brute,artwork,Perpignan,,,,42.7024464,2.8994183
+11022996885,node,,artwork,Perpignan,,,,42.7023908,2.8986344
 11026602295,node,Chiang May Express,restaurant,Perpignan,14 Boulevard Aristide Briand,,,42.6958317,2.9025098
 11032402629,node,La maison de marie,restaurant,Perpignan,,,,42.6988426,2.8876381
+11039722315,node,Accès plage,beach,Perpignan,,,,42.7690903,3.0350773
+11039722316,node,Accès plage,beach,Perpignan,,,,42.7720184,3.0354871
+11041941250,node,Accès Plage,beach,Perpignan,,,,42.6727587,3.0321635
 11096827001,node,La table des Z’amis,restaurant,Perpignan,,,,42.7627599,3.0224057
 11097465955,node,Flunch,restaurant,Perpignan,,,,42.7765295,2.9136012
 11097465964,node,Dicapo,restaurant,Perpignan,,,,42.7766225,2.9137688
 11097465994,node,Le Sant Jordi,restaurant,Perpignan,,,,42.775804,2.9142255
 11097465998,node,Le Petit Moka,restaurant,Perpignan,,,,42.775991,2.9142201
+11117492168,node,,memorial,Perpignan,,,,42.7236895,2.8778332
 11134768811,node,Pizzas du monde,restaurant,Perpignan,41 Avenue Général Gilles,,,42.6956604,2.919302
+11136755452,node,,memorial,Perpignan,,,,42.6793454,2.7432808
 11172145081,node,Yegg,restaurant,Perpignan,3 Rue Adjudant-Pilote Paratilla,,,42.6979433,2.8947007
 11172145082,node,Miam,restaurant,Perpignan,,,https://miamcollectif.org,42.6972575,2.8942386
 11197559504,node,El Teatro,restaurant,Perpignan,2 Rue du Théâtre,,,42.6981499,2.8958341
+11211012680,node,,memorial,Perpignan,,,,42.7519313,2.8137781
 11212347716,node,L'évasion,restaurant,Perpignan,3429 Avenue Julien Panchot,,,42.6771954,2.8493053
+11443802140,node,,artwork,Perpignan,,,,42.8282229,3.0387103
+11471018145,node,François Arago,artwork,Perpignan,,,,42.772357,2.6994281
 11488408576,node,Frida's Vegan,restaurant,Perpignan,"24 Place Hyacinthe Rigaud, 66000, Perpignan",66000,https://fridasperpignan.fr,42.6978931,2.8971607
 11494492040,node,Sanils,restaurant,Perpignan,,,,42.694673,3.0356864
 11494495276,node,La table des copains,restaurant,Perpignan,,,,42.6950502,3.0356978
@@ -369,72 +618,117 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 11505558396,node,La Berbère,restaurant,Perpignan,"23 Rue des Embruns, 66000, Perpignan",66000,,42.6970579,2.9157037
 11505558402,node,La pizzeria dei Tatuati,restaurant,Perpignan,"100 Rue Paul Rubens, 66000, Perpignan",66000,,42.6957676,2.9182723
 11505558407,node,Le Bellagio,restaurant,Perpignan,"2130 Avenue du Languedoc, 66000, Perpignan",66000,,42.7395039,2.8924626
+11506399424,node,,artwork,Perpignan,,,,42.6792638,2.9045293
+11586469058,node,Aviateurs morts en serivce commandé (1967),memorial,Perpignan,,,,42.7330744,2.8898022
+11626981073,node,Accès plage,beach,Perpignan,,,,42.7708154,3.0353984
 11649336988,node,Crêperie 66,restaurant,Perpignan,,,https://www.creperie66.com/creperie-balande/,42.6668724,2.916221
 11649336989,node,La Pizza d'en Face,restaurant,Perpignan,,,https://la-pizza-d-en-face.eatbu.com/,42.6663537,2.9165268
 11697141188,node,Ô Liban,restaurant,Perpignan,6 Rue Mailly,,https://o-liban.metro.rest,42.698601,2.8932252
 11708934276,node,4 Miau,restaurant,Perpignan,,,,42.6975887,2.8944418
 11757441776,node,Hello,restaurant,Perpignan,,,,42.6935264,2.9305331
+11818345554,node,,memorial,Perpignan,,,,42.7999289,3.0367223
 11818465958,node,Gogui,restaurant,Perpignan,,,,42.6976625,2.8951445
 11818513784,node,Tokyo Menya,restaurant,Perpignan,,,,42.6982451,2.8905669
+11819652515,node,PRP_07,artwork,Perpignan,,,https://space-invaders.com/,42.6975193,2.8926676
+11819652516,node,PRP_04,artwork,Perpignan,,,https://space-invaders.com/,42.7015453,2.893328
+11819652518,node,PRP_03,artwork,Perpignan,,,https://space-invaders.com/,42.6997977,2.9011135
+11819652519,node,PRP_01,artwork,Perpignan,,,https://space-invaders.com/,42.6999777,2.886734
 11830217036,node,La pause,restaurant,Perpignan,235 Avenue d'Espagne,,,42.6864478,2.8963727
+11837510844,node,galerie de la Réal,gallery,Perpignan,"8 Rue Grande la Réal, 66000, Perpignan",66000,,42.6972885,2.8950638
 11851733150,node,Coco de la Mer,restaurant,Perpignan,,,,42.7675327,3.0277315
 11851733195,node,Côté Cour,restaurant,Perpignan,,,,42.7658154,3.0278556
 11865715282,node,Casa Boem,restaurant,Perpignan,,,https://casaboem.com/,42.762426,3.0214378
 11876855064,node,L'Alizé Catalan,restaurant,Perpignan,,,https://www.lalizecatalan.fr/,42.7998269,3.0381918
+11889361940,node,,memorial,Perpignan,,,,42.6375009,2.9215302
 11895150893,node,Les buffets d'Orient,restaurant,Perpignan,948 Chemin de la Fossella (vc 213),,,42.6691999,2.8978399
 11918432471,node,Léo et Lizette,restaurant,Perpignan,,,https://leoetlizette.fr/,42.6641289,2.9033786
 11926006718,node,Au comptoir des vignobles,restaurant,Perpignan,,,,42.6801963,3.0333397
 11926007214,node,Sud paëlla,restaurant,Perpignan,,,,42.6799336,3.0328073
 11926016181,node,Tashinow,restaurant,Perpignan,2 Promenade Charles Trénet,,,42.6795111,3.0336691
 11928621068,node,Citron vert,restaurant,Perpignan,10 Promenade de la Côte Radieuse,,,42.6814319,3.0339635
+11929313530,node,La Distillerie,gallery,Perpignan,,,https://www.ladistillerie66.fr/,42.7635479,2.991037
 11952484646,node,Ô pale,restaurant,Perpignan,1 c Chemin du Mas Richemont,,https://lopale-restaurant.fr/,42.6401294,2.9039412
 11952484647,node,Maja,restaurant,Perpignan,,,,42.6402532,2.9042269
 12025501085,node,Le Front de Mer,restaurant,Perpignan,"11 Boulevard du Golfe du Lion, 66420",66420,https://www.lefrontdemer-barcares.fr/,42.7875882,3.0376286
 12051678600,node,Ô numéro vin,restaurant,Perpignan,,,,42.7748752,2.909482
 12051678607,node,Crêperie bretonne,restaurant,Perpignan,,,https://www.un-air-de-bretagne66.fr/,42.7750229,2.9103309
 12051678608,node,Sakura,restaurant,Perpignan,,,https://www.sakurajaponais-66.com/,42.7751587,2.9103228
+12070418915,node,,viewpoint,Perpignan,,,,42.6713177,2.8825421
 12073547018,node,Le Reviens'y,restaurant,Perpignan,,,,42.6822062,2.7938808
 12092219205,node,Maison Gaïa,hotel,Perpignan,,,https://hotel-maison-gaia.com/fr/,42.7532095,2.9920216
 12123022511,node,,restaurant,Perpignan,,,,42.765279,3.0319443
 12138426053,node,La bodega des anges,restaurant,Perpignan,,,,42.6957896,2.918812
 12174943672,node,Le Galion,hotel,Perpignan,20bis Avenue du Grand Large,,,42.689108,3.0321105
+12176435317,node,,memorial,Perpignan,,,,42.6732658,2.8265786
 12178547910,node,Hôtel Les Sables,hotel,Perpignan,25 Rue Vallée du Rhône,,,42.6890844,3.0337203
 12179812910,node,Poke wave,restaurant,Perpignan,"13 Avenue du Général Charles de Gaulle, 66000, Perpignan",66000,https://poke-wave.com/,42.6969109,2.8819
+12193067900,node,,memorial,Perpignan,,,,42.7723846,2.8421049
 12193967466,node,Le Perroquet,restaurant,Perpignan,,,,42.6965314,2.8803886
+12212446045,node,The Most Famous Gallery,gallery,Perpignan,32 Rue Jean Payra,,,42.702364,2.8933887
 12264542528,node,El Suquet,restaurant,Perpignan,,,,42.7500065,2.6779778
+12265600999,node,,memorial,Perpignan,,,,42.7522962,2.6751193
 12285134382,node,La causerie,restaurant,Perpignan,,,,42.7168346,2.8399211
 12286124595,node,Royal Pizza,restaurant,Perpignan,,,https://royal-pizzas.fr/,42.7190824,2.8476048
 12372504868,node,Flunch,restaurant,Perpignan,,,,42.6692973,2.8811674
+12373491770,node,,artwork,Perpignan,,,,42.7316846,2.9329816
+12373533710,node,,artwork,Perpignan,,,,42.7212202,2.9310905
+12373537807,node,,artwork,Perpignan,,,,42.7210596,2.9325097
+12373541385,node,,artwork,Perpignan,,,,42.72121,2.9306577
+12373543429,node,,artwork,Perpignan,,,,42.7212442,2.9323079
+12373546526,node,,artwork,Perpignan,,,,42.7211685,2.9305043
 12373601011,node,,restaurant,Perpignan,,,,42.6997165,2.897896
+12373633505,node,Le Titan,artwork,Perpignan,,,,42.6999263,2.8972074
 12373712969,node,,restaurant,Perpignan,,,,42.6977595,2.8956757
+12505386249,node,La Maréchalerie,artwork,Perpignan,,,,42.7604863,2.9561309
 12507790351,node,Bar tabac de l'Union,restaurant,Perpignan,,,,42.7583207,2.9557514
 12507790354,node,Pizza Claira,restaurant,Perpignan,,,https://pizzaclaira.fr/,42.7580937,2.9554329
+12512683016,node,Stèle du Souvenir Français,memorial,Perpignan,,,,42.763743,2.95757
 12525879132,node,Bowl d'air,restaurant,Perpignan,,,,42.6888717,2.9210788
+12537213391,node,Lieutenant Jacques Justin Caveribère,memorial,Perpignan,,,,42.7596431,2.9564099
 12549466964,node,Pizz'Avenue,restaurant,Perpignan,,,,42.6660374,2.9850127
+12586120525,node,,memorial,Perpignan,,,,42.7551434,2.9933218
+12586120531,node,Désordre apparent,artwork,Perpignan,,,,42.831505,3.0414525
 12587998941,node,L'assiette Catalane,restaurant,Perpignan,,,http://www.assiettecatalane.com/,42.6986214,2.8900099
+12590746256,node,Galerie Juste Ici,gallery,Perpignan,,,,42.6974884,2.8942008
+12600404993,node,,memorial,Perpignan,,,,42.6409477,2.866458
 12601215466,node,Guapo,restaurant,Perpignan,,,https://guapo-perpignan.eatbu.com/,42.7000748,2.8942536
 12601215467,node,L'Attablée,restaurant,Perpignan,2 ter Rue des Fabriques-Nadal,,https://lattablee.fr/,42.6999463,2.8942741
 12601216220,node,La Droguerie,restaurant,Perpignan,37 Rue des Augustins,,,42.6975721,2.8943009
+12603670210,node,L'école du petit bois,attraction,Perpignan,,,,42.669171,2.996297
 12639304538,node,L'escale,restaurant,Perpignan,,,,42.7329735,2.8673539
 12644341601,node,La Cellera,restaurant,Perpignan,18 Rue du Ball,,,42.7002005,2.8236486
 12645507761,node,La guinguette de Louis,restaurant,Perpignan,,,,42.7284006,2.9927015
+12645507771,node,,memorial,Perpignan,,,,42.7290745,2.9921021
+12645509804,node,,artwork,Perpignan,,,,42.7288612,2.9917708
+12731493972,node,La P’tite Galerie,gallery,Perpignan,11 Avenue Jean Jaurès,,,42.6703124,2.8303134
+12742449848,node,,viewpoint,Perpignan,,,,42.7053962,3.0084018
+12772756688,node,Belvédère,viewpoint,Perpignan,,,,42.779353,2.7870274
 12802213500,node,La Picada,restaurant,Perpignan,,,,42.8166249,2.7491161
+12802233687,node,,memorial,Perpignan,,,,42.8151597,2.747545
 12809329947,node,Restaurant Julia,restaurant,Perpignan,,,,42.6973144,3.0300124
 12827811596,node,,restaurant,Perpignan,,,https://hotelmaricel.com/restaurant,42.692855,3.0348009
+12840420703,node,,memorial,Perpignan,,,,42.7268736,3.016643
 12861275903,node,La Thaïlande — Buffet à volonté,restaurant,Perpignan,72 Chemin de la Fossella (vc 213),,,42.6735164,2.8902891
 12863077406,node,Casa Aldo,restaurant,Perpignan,1158 Chemin de la Fossella (vc 213),,,42.6685377,2.8991726
 12870774779,node,Le Meltin' Pâtes,restaurant,Perpignan,,,https://lemeltinpates.fr/,42.7344462,2.890445
 12870774780,node,Casa Portuguesa,restaurant,Perpignan,,,https://www.casa-portuguesa.fr/,42.7343496,2.8903645
+12872656538,node,,memorial,Perpignan,,,,42.6947025,2.7758629
+12873099320,node,,artwork,Perpignan,,,,42.6772661,2.942856
 12873211301,node,Alexander Hôtel,hotel,Perpignan,,,,42.7005671,2.8913902
 12875843452,node,O' Rebond Favorable,restaurant,Perpignan,,,,42.7746073,2.9621461
 12875843460,node,Le Banian,restaurant,Perpignan,,,https://pizzalebanian.com/,42.7860755,2.9678665
+12877488936,node,,memorial,Perpignan,,,,42.7830994,2.9682036
+12877753287,node,,memorial,Perpignan,,,,42.7880243,2.9618876
+12879520281,node,,artwork,Perpignan,,,,42.7322752,3.0261568
 12881586751,node,Viet Nguyen,restaurant,Perpignan,,,,42.6783394,2.94423
 12889489109,node,Mamma Mia,restaurant,Perpignan,,,,42.6998248,2.8923091
+12896210430,node,Jules de Lamer,memorial,Perpignan,,,,42.7462265,2.9212036
 12902892579,node,La Table du Mas,restaurant,Perpignan,840 Avenue d'Espagne,,https://www.latabledumas.fr/,42.6818173,2.8936891
 12912077401,node,Pizza Mia,restaurant,Perpignan,,,,42.6807044,3.0338989
 12923551877,node,La Fringale,restaurant,Perpignan,,,,42.8045643,3.0376525
 12925316062,node,L'Oriental,restaurant,Perpignan,,,,42.8034611,3.0370158
 12960031262,node,Belle Bête,restaurant,Perpignan,,,,42.6505485,2.8358601
+12996884828,node,AMOPA,memorial,Perpignan,,,,42.6808336,2.9108667
 12999832445,node,Fratelli Pizza,restaurant,Perpignan,3 Rue de la Couloumine,,,42.662057,2.8445443
 13011956593,node,Chez Poupette,restaurant,Perpignan,10 Avenue de la Grande Plage,,,42.8336409,3.0415712
 13012149315,node,,restaurant,Perpignan,,,,42.8330083,3.0423792
@@ -445,10 +739,17 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 13047937201,node,Arigato,restaurant,Perpignan,0 Passage Puig,,,42.7345992,2.8905214
 13047937401,node,Les Halles 5,restaurant,Perpignan,,,https://www.les5elements.com/les-halles-5,42.7306342,2.8953969
 13049765428,node,Ma Cocotte,restaurant,Perpignan,,,,42.7543176,2.9928412
+13072511080,node,,memorial,Perpignan,,,,42.6247832,2.8196736
 13078154747,node,L'épicentre,restaurant,Perpignan,25 Allée des Chênes,,,42.6879265,2.8393838
 13081804991,node,La guinguette de Clairfont,restaurant,Perpignan,,,,42.6650244,2.8389345
+13082067873,node,,beach,Perpignan,,,,42.7778205,3.0388623
 13084847888,node,Manat,restaurant,Perpignan,,,,42.7008236,2.8964199
 13089314354,node,Le Romarin,restaurant,Perpignan,,,,42.7905831,3.0365037
+13094456151,node,Jardin Père Firmin Petit - Père Blanc,garden,Perpignan,,,,42.7505408,2.8086463
+13094456163,node,Galerie d'art municipale Le Cellier Dom Brial,gallery,Perpignan,,,,42.7510945,2.8101417
+13094456164,node,Figure de proue,artwork,Perpignan,,,,42.7510568,2.8118563
+13094456165,node,Bourrasque,artwork,Perpignan,,,,42.7509308,2.8116055
+13094456166,node,Les marteaux du Roc,artwork,Perpignan,,,,42.7510194,2.8118375
 13096110592,node,Chris & Co. - Bistrot Gourmand,restaurant,Perpignan,"3 Avenue de Toulouse, 66140, Canet-en-Roussillon",66140,https://chrisandco.eatbu.com/,42.6799868,3.0330743
 13096110593,node,BOBUN BUBBLE TEA,restaurant,Perpignan,"12 Avenue de Toulouse, 66140, Canet-en-Roussillon",66140,,42.6801949,3.0336087
 13096110594,node,Ô P'TIT PORTUGAIS,restaurant,Perpignan,"12 Promenade de la Côte Radieuse, 66140, Canet-en-Roussillon",66140,,42.6801484,3.0337261
@@ -456,6 +757,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 13096110596,node,Anne de Bretagne,restaurant,Perpignan,"12 Promenade de la Côte Radieuse, 66140, Canet-en-Roussillon",66140,https://creperie-anne-de-bretagne-canet-en-roussillon.eatbu.com/,42.6807875,3.0339177
 13096110597,node,La Pizzathèque,restaurant,Perpignan,"12 Promenade de la Côte Radieuse, 66140, Canet-en-Roussillon",66140,https://pizzatheque-canet.fr/,42.6809143,3.0339316
 13096110598,node,Le Grill,restaurant,Perpignan,"10 Promenade de la Côte Radieuse, 66140, Canet-en-Roussillon",66140,,42.6816643,3.0339935
+13100390513,node,,memorial,Perpignan,,,,42.6924977,2.8798737
 13104441262,node,Go Pizza,restaurant,Perpignan,,,https://www.gopizza66.fr/,42.6962594,2.9068771
 13104441263,node,Everest,restaurant,Perpignan,60 Avenue Jean Mermoz,,,42.6963497,2.9080904
 13104441265,node,Pizza Mermoz,restaurant,Perpignan,,,,42.6963016,2.9083009
@@ -465,20 +767,31 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 13125186422,node,Saiko Sushi,restaurant,Perpignan,,,,42.6993897,3.036237
 13129580030,node,Black And White Burger,restaurant,Perpignan,,,https://restaurants.bnwburger.com/perpignan-vauban/,42.6995567,2.8923053
 13141213901,node,O'QG,restaurant,Perpignan,"Rue Ludovic Massé, 66450",66450,,42.6409889,2.8778306
+13152582631,node,,memorial,Perpignan,,,,42.7322432,2.9352849
 13153742593,node,E-ko guinguette,restaurant,Perpignan,,,https://www.ekoland.fr/,42.6899971,2.9226865
+13153753495,node,Quiz Room,attraction,Perpignan,,,https://www.quiz-room.com/villes/perpignan#,42.6851228,2.8724098
 13167512296,node,Wok-home Bompas,restaurant,Perpignan,,,,42.7296281,2.9358119
+13167562350,node,Les moissons,artwork,Perpignan,,,,42.7264805,2.9465729
 13176956452,node,Galex d'Aqui,restaurant,Perpignan,,,https://m.facebook.com/100092007422305/,42.7696073,2.873323
 13181982245,node,"Relax'Otel, & Spa Le Barcarès",hotel,Perpignan,Avenue Thalassa,,https://www.relaxotel-restaurant-spa.fr,42.8393154,3.0387734
+13182210721,node,Cité Docteur Marcel Ducassy,memorial,Perpignan,,,,42.7256087,2.8872782
 13207439678,node,Food Truck Chez Tino,restaurant,Perpignan,,,https://www.chez-tino.fr/,42.7353751,2.9300572
 13208224395,node,Le petiot,restaurant,Perpignan,,,https://www.lepetiot.fr/,42.6888009,2.9186739
+13226587966,node,Castang Art Project,gallery,Perpignan,,,,42.7002355,2.8960608
 13227928303,node,Como en Casa,restaurant,Perpignan,,,,42.7051531,3.0067205
+13233533347,node,,artwork,Perpignan,,,,42.7312357,2.9298593
 13235396036,node,Le Bouchon Catalan,restaurant,Perpignan,,,https://le-bouchon-catalan.eatbu.com/,42.6948089,3.0334215
 13235396040,node,Le comptoir de mamie Bigoude,restaurant,Perpignan,16 Rue des Pyrénées,,https://canet-en-roussillon.comptoirmamiebigoude.com/restaurant-breton-canet-en-roussillon,42.6952357,3.032881
 13235396041,node,La Cantina della Pasta,restaurant,Perpignan,28 Avenue de la Méditerranée,,https://cantinadellapasta.eatbu.com/,42.6951736,3.0328676
+13258375001,node,,memorial,Perpignan,,,,42.6930893,2.9040405
+13273884338,node,Artrial,gallery,Perpignan,,,http://www.artrial.fr/,42.6979396,2.897321
 13273905214,node,Les Antiquaires,restaurant,Perpignan,,,,42.6985046,2.8975314
+13274197414,node,Galerie Thérèse Roussel,gallery,Perpignan,,,,42.6986736,2.8974557
 13274217903,node,Mabuhay Cuisine,restaurant,Perpignan,5 Place André Grétry,,,42.6996169,2.8969045
 13274217904,node,La Maison Libanaise,restaurant,Perpignan,,,,42.6995103,2.896884
 13290419301,node,Casa de Miguel,restaurant,Perpignan,12 Boulevard Sadi Carnot,,,42.7496243,2.8107049
+13295438402,node,,artwork,Perpignan,,,,42.7510027,2.8120373
+13295438403,node,Taille catalane,artwork,Perpignan,,,,42.7509101,2.8121258
 13299206659,node,Bella Ciao,restaurant,Perpignan,4 Rue du Capcir,,,42.6945118,3.0348043
 13306994881,node,Hibou,restaurant,Perpignan,,,,42.7004321,2.8955409
 13322827154,node,Le Stand-Up,restaurant,Perpignan,,,,42.7730235,2.8319554
@@ -488,39 +801,569 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 13360228901,node,Le Grilladin,restaurant,Perpignan,17 Rue des Genets d'Or,,,42.7007726,3.0314211
 13362464445,node,Pasta Basta,restaurant,Perpignan,,,,42.6984006,2.892863
 13372968674,node,Casa Portuguesa,restaurant,Perpignan,36 Avenue du Palais-des-Expositions,,https://www.casa-portuguesa.fr/,42.7051287,2.8944675
+13380706689,node,,artwork,Perpignan,,,,42.8383409,3.0394202
+13384342411,node,,memorial,Perpignan,,,,42.7013475,3.0376822
 13393111751,node,Le 860,restaurant,Perpignan,,,https://www.lafauceille.com/restaurant-perpignan.php,42.669667,2.8976172
+13427589437,node,Les Cré'Actifs du 66,gallery,Perpignan,,,,42.6999831,2.8962092
 13460795101,node,La Découverte,restaurant,Perpignan,"9 Rue de l'École, 66000",66000,,42.7020919,2.8925835
 13460799401,node,Les Saisons,restaurant,Perpignan,"6 Rue Camille Desmoulins, 66000",66000,,42.7010046,2.8907446
 13516610301,node,FIKA,restaurant,Perpignan,"3 Rue Emmanuel Brousse, 66000",66000,,42.6994534,2.8937508
 13517373901,node,Bacán,restaurant,Perpignan,,,,42.6977198,2.8949203
 13520238544,node,La Jardinerie,restaurant,Perpignan,,,,42.662194,2.8344941
 13520256951,node,Royal d'Asie,restaurant,Perpignan,,,,42.6435876,2.8805396
+13572979407,node,,artwork,Perpignan,,,,42.6730565,3.0331675
+13576116144,node,,artwork,Perpignan,,,,42.811647,3.0378501
 13587937001,node,Les Cabochons,restaurant,Perpignan,10 Rue Louis Mouillard,,,42.7285107,2.8765375
 13587937301,node,B&W,hotel,Perpignan,,,,42.7281061,2.8769215
 13605157701,node,La Cases de Tony,restaurant,Perpignan,,,,42.7787247,2.7895653
 13612604035,node,Maménakané,restaurant,Perpignan,9 Rue des Pêcheurs,,https://mamenakane.fr/,42.7037089,2.8867623
 13624946665,node,Pizza Aureliano,restaurant,Perpignan,,,,42.6552668,2.9527595
+13626839414,node,,artwork,Perpignan,,,,42.6816761,2.7963949
 13626966301,node,Le petit Tibet,restaurant,Perpignan,3 Avenue du Lycée,,https://le-petit-tibet.jimdofree.com/,42.6962618,2.8872323
 13645451892,node,Campanile Perpignan Nord aéroport,hotel,Perpignan,"1 Rue Alfred Sauvy - Mas de la Garrigue Nord, 66600, Rivesaltes",66600,https://www.groupe-hotelier.com/,42.7811517,2.8993229
 13645563679,node,Novotel Perpignan Rivesaltes,hotel,Perpignan,"7 Rue Alfred Sauvy, 66600, Rivesaltes",66600,https://all.accor.com,42.782317,2.900642
 13647838677,node,Bam !,restaurant,Perpignan,70 Avenue Louis Torcatis,,https://bam-restaurant.com/,42.7033512,2.8875613
 13649894435,node,Botanic,restaurant,Perpignan,27 Boulevard Joseph Cassanyes,,https://botaniccanet.fr/,42.6957753,3.0351233
+13660044016,node,Jardin miroir,garden,Perpignan,,,,42.6863058,2.8384987
 13680448174,node,Resto B,restaurant,Perpignan,,,,42.6972165,2.8837668
 13683146370,node,Le Pams restaurant,restaurant,Perpignan,,,,42.7289917,2.9340161
 13685845029,node,"Les Délices de la Plage,",restaurant,Perpignan,7 Boulevard du Golfe du Lion,,,42.7875776,3.0374947
 13686085633,node,Oh Kakou,restaurant,Perpignan,"12 Boulevard de la Côte Vermeille, 66420",66420,,42.7858933,3.0372774
 13688246498,node,Viet Thai,restaurant,Perpignan,14 Avenue de la Grande Plage,,,42.8339975,3.0404477
+13689109872,node,,memorial,Perpignan,,,,42.7023448,2.8228037
+13689162568,node,,memorial,Perpignan,,,,42.6946418,2.8093821
 13690639190,node,Le Chat Rouge,restaurant,Perpignan,Place du Tertre,,,42.8340321,3.040463
 13692209954,node,Le Palmier,restaurant,Perpignan,16 Place Martinique,,,42.814957,3.021407
 13694473633,node,Buena vista,restaurant,Perpignan,"Promenade Tobago, 66420",66420,,42.8127929,3.0210541
+13703139349,node,,museum,Perpignan,,,,42.7958333,3.0391337
+13706205709,node,,artwork,Perpignan,,,,42.7965946,3.0363175
 13716305302,node,La Boca du Chât’ô,restaurant,Perpignan,21 Avenue Armand Claret,,https://labocaduchato.fr/,42.8359126,2.9199474
 13716360845,node,SabaïDee Sushi,restaurant,Perpignan,,,https://sabaidee-sushi.fr/,42.6641151,2.8203522
+13778916346,node,,memorial,Perpignan,,,,42.6381266,2.8665053
+13778916733,node,,memorial,Perpignan,,,,42.6182805,2.7672008
+13778922959,node,,memorial,Perpignan,,,,42.6525558,2.9500649
 13786707573,node,Les Halles du Mas Guérido,restaurant,Perpignan,,,,42.6922993,2.9222533
+13813040204,node,,memorial,Perpignan,,,,42.7382579,2.6098234
+13825186456,node,,artwork,Perpignan,,,,42.7258781,3.0183306
+13825207377,node,,artwork,Perpignan,,,,42.7290031,3.0171992
+13825213451,node,,artwork,Perpignan,,,,42.7267577,3.0165739
+13825219026,node,,artwork,Perpignan,,,,42.7232962,3.0368116
 13825231155,node,O Cabanon,restaurant,Perpignan,6 Avenue des Marendes,,,42.7343766,3.0306174
+13840556802,node,Lucce,artwork,Perpignan,,,,42.7009124,2.8931998
+13840556803,node,Camille Messager,artwork,Perpignan,,,,42.7010995,2.8934064
+13840556901,node,Astus2,artwork,Perpignan,,,,42.7001325,2.8929008
+13850093419,node,,artwork,Perpignan,,,,42.7048986,2.8885703
+13884688734,node,,memorial,Perpignan,,,,42.7017214,3.0413258
 13906298018,node,Le Local,restaurant,Perpignan,52 promenade côte vermeille,,https://www.instagram.com/le_l0cal/,42.6898957,3.0348659
+13917398230,node,,artwork,Perpignan,,,,42.6994237,2.8977081
 13927231100,node,La Table de Mamie,restaurant,Perpignan,,,,42.7314368,2.8914052
 13927275202,node,Le Bistroquet,restaurant,Perpignan,,,,42.7555793,2.9930965
 13931757306,node,TukTuk Club,restaurant,Perpignan,Quai des Chalutiers,,https://www.tuktukclub.fr/,42.7950964,3.0402403
 13965846901,node,Le jardin,restaurant,Perpignan,,,,42.7625251,3.0220691
+13973915278,node,,memorial,Perpignan,,,,42.7034904,3.0036771
 13992771671,node,La Napolitana,restaurant,Perpignan,,,https://lanapolitana.fr/,42.7027579,2.8934059
 13993726090,node,Big Papa,restaurant,Perpignan,,,,42.7017494,3.0339333
+25547086,way,Parc de l’Observatoire,park,Perpignan,,,,42.6841222,2.7993552
+25970456,way,Jardin Terrus,park,Perpignan,,,,42.6971427,2.8888349
+26123128,way,Parc des Sports et Loisirs Gabriel Sola,park,Perpignan,,,,42.7286432,2.9273309
+26272494,way,Square Bir Hakeim,park,Perpignan,,,https://www.mairie-perpignan.fr/culture-patrimoine/patrimoine/monuments/le-square-bir-hakeim,42.7013066,2.9024708
+26272524,way,Espace Sportif Pierre Jonquères d'Oriola et Christian d'Oriola,park,Perpignan,,,,42.7002047,2.9036307
+26272529,way,,park,Perpignan,,,,42.6991585,2.9048409
+26304090,way,,park,Perpignan,,,,42.6967888,2.8876029
+26590760,way,Square de Rosas,park,Perpignan,,,,42.6646451,2.8766345
+26590761,way,,park,Perpignan,,,,42.6633215,2.8777495
+26591563,way,,park,Perpignan,,,,42.6640634,2.877982
+26591632,way,Square de Vich,park,Perpignan,,,,42.6649041,2.8796252
+26591767,way,Square de Badalona,park,Perpignan,,,,42.6656853,2.8790999
+26591785,way,Square de Palamos,park,Perpignan,,,,42.6666774,2.8795249
+27148757,way,,park,Perpignan,,,,42.7152389,2.8367562
+27685038,way,Parc Jeanne De Guardia,park,Perpignan,,,,42.7004696,2.8232058
+28421531,way,Plage du Lido,beach,Perpignan,,,,42.6652087,3.0346417
+28428327,way,,beach,Perpignan,,,,42.727856,3.0386416
+40846513,way,Le Patio,restaurant,Perpignan,1 Rue Madeleine Brès,,,42.6914952,2.9319016
+41276415,way,Centre de Sculpture Romane,museum,Perpignan,"66330, Cabestany",66330,http://www.maitre-de-cabestany.com/,42.6796573,2.9373321
+43266826,way,,park,Perpignan,,,,42.8320288,2.9231054
+43267217,way,,park,Perpignan,,,,42.8355168,2.9217563
+43276116,way,,park,Perpignan,,,,42.8339594,2.913758
+43276573,way,Square du Souvenir Français,park,Perpignan,,,,42.8339479,2.9165887
+43319212,way,Porte des Pays Catalans,artwork,Perpignan,,,,42.8542676,2.937656
+62957882,way,Best Western Plus,hotel,Perpignan,,,,42.685204,3.0342493
+62962560,way,Hôtel Aquarius,hotel,Perpignan,40 Avenue du Roussillon,,,42.698319,3.0290638
+62964093,way,Hôtel Ibis Styles,hotel,Perpignan,,,,42.7014121,3.0148544
+62965481,way,,ruins,Perpignan,,,,42.703188,3.0195107
+62967885,way,CCEAME,park,Perpignan,"66140, Canet-en-Roussillon",66140,,42.7087526,2.9843203
+62968059,way,La Voile Bleue,restaurant,Perpignan,,,,42.7049367,3.0368748
+62968744,way,Château de l'Esparrou,castle,Perpignan,,,,42.6887888,3.0262049
+62970866,way,Pub del Mar,restaurant,Perpignan,66140,66140,https://www.pubdelmar.fr,42.7019815,3.0380547
+62975599,way,Les Flamants Roses,hotel,Perpignan,1 Voie des Flamants Roses,,http://fr.hotel-flamants-roses.com,42.6746162,3.0331139
+62976243,way,,ruins,Perpignan,,,,42.7031429,3.0192632
+62978401,way,Hôtel du port,hotel,Perpignan,"Boulevard de la Jetée, Canet en Roussillon",,https://hotel-du-port.net/,42.7013293,3.0343603
+62978628,way,Hôtel Le Canetois,hotel,Perpignan,41 Avenue de la Méditerranée,,,42.6968239,3.0298726
+62987125,way,Au Poulet Toqué,restaurant,Perpignan,,,,42.6963538,3.031367
+63237168,way,Les Régates,hotel,Perpignan,51 Boulevard du Golfe Lion,,,42.7906592,3.0376332
+63240995,way,La Casa Blanca,hotel,Perpignan,,,,42.785532,3.0376542
+63243699,way,Le Lydia,attraction,Perpignan,,,,42.8275349,3.0411434
+63248394,way,Téléski du Barcarès,attraction,Perpignan,,,,42.8370987,3.026362
+63251545,way,Hôtel de la plage,hotel,Perpignan,9 Boulevard du Golfe du Lion,,,42.7876334,3.037445
+63252480,way,,artwork,Perpignan,,,,42.8154222,3.0311622
+63254537,way,Maison des Arts,museum,Perpignan,"Place de la République, 66420",66420,https://www.lebarcares.fr/activites-et-loisirs/maison-des-arts/,42.7872753,3.0368945
+63258191,way,,artwork,Perpignan,,,,42.8150941,3.0313913
+63391026,way,La maison Secall,restaurant,Perpignan,,,,42.7558009,2.9931652
+63393914,way,Pont des arts,gallery,Perpignan,,,,42.7539305,2.9942417
+63396664,way,Bar / Snack / Restaurant La Palmera,restaurant,Perpignan,,,,42.7694757,3.0350775
+63397782,way,restaurant bar snack,restaurant,Perpignan,,,,42.7666267,3.0245754
+63417245,way,Le Château,castle,Perpignan,,,,42.6368631,2.8670227
+63721987,way,,artwork,Perpignan,,,,42.7284221,3.0152282
+63787311,way,Sancho Panxa,restaurant,Perpignan,1 Rue du Capcir,,,42.658072,2.9263305
+64060292,way,Chez Chato et Emilie,restaurant,Perpignan,,,,42.6815632,2.7950168
+67713225,way,Parc Sant Vicens,park,Perpignan,,,,42.6907564,2.9156273
+68287698,way,Bois des chênes,park,Perpignan,,,,42.6965568,2.9380636
+75047199,way,Delohem,restaurant,Perpignan,,,https://delohem.edan.io/,42.7790061,2.8173677
+78467475,way,El Castell,castle,Perpignan,,,,42.7546095,2.8523562
+78559442,way,L'Aramon Gourmand,restaurant,Perpignan,127 Avenue du Canigou,,,42.7004599,2.7781178
+80445330,way,,beach,Perpignan,,,,42.719478,3.0394477
+80445331,way,Plage du Sardinal,beach,Perpignan,,,https://www.canetenroussillon.fr/annuaire/plage-surveillee/plage-du-sardinal/,42.7111568,3.0389251
+80445342,way,,beach,Perpignan,,,,42.6486706,3.034702
+81552887,way,Loge de Mer,castle,Perpignan,,,,42.6996478,2.8948934
+81558950,way,Muséum d’Histoire Naturelle,museum,Perpignan,,,https://www.mairie-perpignan.fr/culture-patrimoine/musees,42.6973237,2.8996899
+81568038,way,Royal Tacos,restaurant,Perpignan,,,,42.6935838,2.8873318
+81574693,way,Aparthotel Adagio Access Perpignan,hotel,Perpignan,,,,42.7019664,2.89157
+81579067,way,Formule 1 Perpignan Sud,hotel,Perpignan,,,,42.685345,2.8639615
+81579613,way,Monument aux Morts 1914-1918,memorial,Perpignan,,,,42.7024406,2.8983891
+81582993,way,Buffet d'étoile,restaurant,Perpignan,"255, 66000, Perpignan",66000,,42.7380958,2.8904649
+81595115,way,Ancien Evêché,museum,Perpignan,,,,42.6997736,2.8999131
+81599130,way,Musée archéologique de Ruscino,museum,Perpignan,,,https://www.mairie-perpignan.fr/index.php?np=1621,42.708156,2.9459812
+81599622,way,Restaurant Universitaire,restaurant,Perpignan,,,,42.6815833,2.9012298
+81662806,way,Ibis Perpignan Sud St Charles,hotel,Perpignan,,,,42.6807706,2.8525263
+81665419,way,,castle,Perpignan,,,,42.6933411,2.8754988
+81668652,way,Ibis Perpignan Sud St Charles,hotel,Perpignan,,,,42.6805336,2.8523262
+81671139,way,Le Castillet,attraction,Perpignan,,,,42.7006169,2.894099
+81673107,way,Château du Vernet,castle,Perpignan,,,,42.7197733,2.8849396
+81673281,way,Centre d'art Contemporain Walter Benjamin,museum,Perpignan,,,,42.6974033,2.8922419
+81675266,way,Ibis Budget Perpignan Sud,hotel,Perpignan,,,,42.6803056,2.8521032
+81675303,way,Le Complexe 66,theme_park,Perpignan,,,https://lecomplexe66.wixsite.com/monsite,42.6689349,2.9189274
+81680511,way,La Poudrière,museum,Perpignan,,,,42.7004473,2.8997668
+81683163,way,Musée Aéronautique du Mas Palegry,museum,Perpignan,,,,42.65645,2.9068353
+81692666,way,La boucherie,restaurant,Perpignan,,,,42.6667445,2.9165225
+81693188,way,Casa Xanxo CIAP,museum,Perpignan,,,https://www.perpignantourisme.com/activite/casa-xanxo-ciap-centre-d-interpretation-de-l-architecture-et-du-patrimoine/,42.6989368,2.8970258
+84779863,way,Mas Sant Vicens,garden,Perpignan,,,https://www.santvicens.fr/,42.690607,2.9139362
+86329252,way,Parcours Sportif Paysager de Sainte-Camille,park,Perpignan,,,https://ville-cabestany.fr/parcours-de-sante/,42.6861182,2.9289892
+86505870,way,Arboretum du Cheval Blanc,garden,Perpignan,,,,42.6885585,2.928676
+91260642,way,Jardin des Remparts,park,Perpignan,,,,42.6921433,2.895672
+96011661,way,Maison du combattant du Souvenir Français et porte-drapeau,memorial,Perpignan,,,,42.7603465,2.9558355
+96014238,way,,memorial,Perpignan,,,,42.7558605,2.954468
+103957544,way,Parc des Quatre Chemins,park,Perpignan,,,,42.7787364,2.9616613
+114302046,way,Couvent des Carmes,ruins,Perpignan,,,,42.6965361,2.9004753
+128552842,way,,park,Perpignan,,,,42.7606897,2.9826508
+141937947,way,Arboretum du Mas Roussillon,park,Perpignan,,,https://www.arboretum-canetenroussillon.fr/,42.708287,2.9856396
+142114004,way,Fort du Serrat d'En Vaquer,park,Perpignan,,,,42.6719834,2.8785057
+143778406,way,,garden,Perpignan,,,,42.6398517,2.8735263
+143779496,way,,park,Perpignan,,,,42.6432385,2.8734055
+149146491,way,Jardin du Glacis de la Citadelle,park,Perpignan,,,,42.695763,2.8986485
+182750188,way,Parc de Clairfont,park,Perpignan,,,,42.6644986,2.8389125
+183158910,way,,park,Perpignan,,,,42.6550847,2.9286587
+183175201,way,Hôtel les Dômes,hotel,Perpignan,6 Rue du Capcir,,,42.6585683,2.9277303
+183175209,way,B&B,hotel,Perpignan,"3 Rue de la Cerdagne, 66280, Saleilles",66280,https://www.hotel-bb.com/fr/hotel/perpignan-saleilles,42.6571258,2.9277521
+183175211,way,Thierry Astruc,restaurant,Perpignan,,,,42.664002,2.9046442
+183393060,way,La motte de l’Agly,park,Perpignan,,,,42.7655611,2.9891914
+183816731,way,Promenade des Platanes,park,Perpignan,,,,42.7025548,2.8968857
+183816732,way,Square Bir-Hakeim,park,Perpignan,,,,42.7020394,2.9003211
+184710475,way,Jardin des Artistes,park,Perpignan,,,,42.6781712,2.8067474
+185643464,way,Arboretum,park,Perpignan,,,,42.8474121,2.782052
+185643466,way,Calvaire,park,Perpignan,,,,42.8487502,2.7801921
+185643527,way,,park,Perpignan,,,,42.8464723,2.7768827
+185643532,way,Jardin des Bergeries,park,Perpignan,,,,42.8495061,2.7794849
+187007364,way,,park,Perpignan,,,,42.7280295,2.9920625
+187012039,way,Relais de Paris,restaurant,Perpignan,,,,42.776952,2.9069608
+187012040,way,Buffalo Grill,restaurant,Perpignan,,,,42.7755893,2.9100329
+187012047,way,L'Amici,restaurant,Perpignan,,,,42.7754634,2.9092453
+187046135,way,Parc Saint-Antoine,park,Perpignan,,,,42.7263057,2.9881646
+188829574,way,Musée de Préhistoire de Tautavel,museum,Perpignan,,,https://www.450000ans.com,42.815132,2.749994
+191104165,way,Parc de la Pépinière,park,Perpignan,,,,42.7001363,2.8844918
+198009325,way,Parc Maillol,park,Perpignan,,,,42.7184635,2.8850409
+198625368,way,Vieux moulin,ruins,Perpignan,,,,42.8464894,2.7769385
+206628651,way,Jardin des Amoureux,garden,Perpignan,,,,42.6952323,2.8925764
+220206460,way,,park,Perpignan,,,,42.7924939,3.0339596
+226353675,way,Jardin de la Miranda,park,Perpignan,,,,42.6985126,2.9032611
+226355463,way,Place des Goémons,park,Perpignan,,,,42.6964298,2.9195011
+231687608,way,Les Polymorphes,artwork,Perpignan,,,,42.8293578,3.0414405
+231687610,way,Les Soleillonautes,artwork,Perpignan,,,,42.8282616,3.0414177
+238728348,way,Tropic Hôtel,hotel,Perpignan,"2 rue Gustave Eiffel, 66600, Rivesaltes",66600,https://tropichotel.fr,42.7954324,2.8815061
+238846266,way,Square des Herbiers,park,Perpignan,,,,42.7032219,2.8790889
+249816923,way,Square du Souvenir Français,park,Perpignan,,,,42.6487614,2.8365185
+288378030,way,Restaurant du Fort de Salses,restaurant,Perpignan,,,https://www.salses.fr/,42.8448435,2.9275725
+288378202,way,Hôtel Restaurant du Fort de Salses,hotel,Perpignan,,,,42.8443465,2.9270635
+288379565,way,Hôtel La Casa Nova,hotel,Perpignan,900 Planal de Salses,,,42.8445745,2.9273225
+288380155,way,Café de La Loge,restaurant,Perpignan,"38 Avenue Xavier Llobères, 66600, Salses-le-Château",66600,http://lalogesalses.com/,42.8340755,2.9195705
+297211163,way,,garden,Perpignan,,,,42.7925044,3.0290749
+298146437,way,,garden,Perpignan,,,,42.7948006,3.0323078
+298146446,way,,garden,Perpignan,,,,42.7924709,3.0310146
+298146448,way,,garden,Perpignan,,,,42.7924139,3.0309462
+298146474,way,,garden,Perpignan,,,,42.7918985,3.030565
+298602354,way,,garden,Perpignan,,,,42.7871313,3.031753
+301851842,way,Parc Guilhem,park,Perpignan,,,https://ville-cabestany.fr/parc-guillem/,42.6801772,2.9368286
+305955754,way,Jardin Puig,park,Perpignan,,,,42.6991996,2.8833587
+314267699,way,Parc Bartholdi,park,Perpignan,,,,42.7054323,2.8786199
+321811131,way,,park,Perpignan,,,,42.6844336,2.9007663
+322898882,way,Jardin Jean de La Bruyère,park,Perpignan,,,,42.6879421,2.8877792
+325191814,way,Mas de Las Fons,castle,Perpignan,,,,42.739772,2.751005
+328222052,way,Parc du Moulin,park,Perpignan,,,,42.6829841,2.7873926
+330770891,way,Jardin du Jumelage,park,Perpignan,,,,42.7553053,2.9953152
+334614044,way,Jardins du Château de l'Esparrou,garden,Perpignan,,,,42.6892069,3.0264857
+342930925,way,Salle d'exposition Maurice Séguié,gallery,Perpignan,,,,42.74888,2.676228
+344538364,way,Village Western,theme_park,Perpignan,,,,42.7845875,3.0263275
+344708347,way,,park,Perpignan,,,,42.7858227,3.0331525
+344764086,way,,garden,Perpignan,,,,42.7853861,3.0364316
+349169416,way,,garden,Perpignan,,,,42.7899224,3.0344038
+349169417,way,,garden,Perpignan,,,,42.7897612,3.0349834
+349169418,way,,garden,Perpignan,,,,42.7896284,3.0349938
+350881863,way,Gang de Pirates,restaurant,Perpignan,6 Rue Georges Méliès,,https://www.gangdepirates.fr/,42.775464,2.9095218
+351687566,way,,memorial,Perpignan,,,,42.7670825,3.0367732
+352339021,way,,park,Perpignan,,,,42.754284,3.0082093
+352339026,way,Espace Michel Delseny,park,Perpignan,,,,42.7544958,2.9961055
+352615190,way,,garden,Perpignan,,,,42.7554487,2.998952
+353018635,way,Le Jardin d’Ariane,theme_park,Perpignan,,,http://www.jardin-ariane.com/,42.7368966,3.0085925
+353018654,way,Jardin de la Baixarada,park,Perpignan,,,,42.7521036,2.9918407
+353242432,way,Square du Souvenir Français,park,Perpignan,,,,42.7559375,2.9915586
+353451411,way,Iguana House,zoo,Perpignan,,,,42.7629657,2.9988161
+353841285,way,,garden,Perpignan,,,,42.7552837,2.9925748
+354617150,way,,garden,Perpignan,,,,42.7955529,3.0370243
+354617151,way,,garden,Perpignan,,,,42.7945884,3.0365535
+355482740,way,,garden,Perpignan,,,,42.7942616,3.0380052
+356047554,way,,park,Perpignan,,,,42.7866176,3.0311179
+356047561,way,,garden,Perpignan,,,,42.7851776,3.0323804
+356297387,way,,garden,Perpignan,,,,42.7884892,3.0375809
+356297390,way,,garden,Perpignan,,,,42.7889282,3.0375363
+356297392,way,,garden,Perpignan,,,,42.7886426,3.037546
+356297393,way,,garden,Perpignan,,,,42.7887757,3.0375358
+356500367,way,,garden,Perpignan,,,,42.7903766,3.0376129
+356592763,way,,garden,Perpignan,,,,42.7973827,3.0367993
+356592764,way,,garden,Perpignan,,,,42.7969846,3.036713
+356592769,way,,garden,Perpignan,,,,42.7966151,3.0366909
+356592771,way,,garden,Perpignan,,,,42.796258,3.0370188
+356592774,way,,garden,Perpignan,,,,42.7961573,3.0369661
+357224547,way,,garden,Perpignan,,,,42.8057289,3.0334154
+358213746,way,,garden,Perpignan,,,,42.8291096,3.0359806
+358213750,way,,garden,Perpignan,,,,42.8236583,3.0347948
+362814064,way,,garden,Perpignan,,,,42.8331158,3.0372344
+376404621,way,Camp de Rivesaltes,ruins,Perpignan,,,,42.8089761,2.8921545
+377876304,way,Stèles du camp de Rivesaltes,memorial,Perpignan,,,,42.7993529,2.877195
+378366321,way,Bassin Albert Vila,park,Perpignan,,,,42.7158049,2.8797419
+385391247,way,Ancienne cité du Réart,park,Perpignan,,,,42.7786901,2.8836342
+400743664,way,Square Jules Verne,park,Perpignan,,,,42.7745463,2.7009893
+415814849,way,Jardin des Ménestrels,park,Perpignan,,,,42.6897644,2.8963381
+431820672,way,Square Aragon,park,Perpignan,,,,42.6927134,2.8719089
+431820673,way,Square de l'Andalousie,park,Perpignan,,,,42.6931042,2.8708558
+431820674,way,Square des Coudriers,park,Perpignan,,,,42.6926749,2.8709578
+439890175,way,Jardin Georges Bizet,park,Perpignan,,,,42.7058835,2.8890727
+439890176,way,Jardin Sabardeil (rue Gitard),park,Perpignan,,,,42.6942723,2.9195169
+439890177,way,Jardin Hippolyte Desprès,park,Perpignan,,,,42.7066415,2.8913942
+439890178,way,Jardin Jacques 1er,park,Perpignan,,,,42.6947411,2.8951518
+439890179,way,Jardin Jésus Pret,park,Perpignan,,,,42.6912731,2.8704618
+439890180,way,Jardin Muchard,park,Perpignan,,,,42.7127814,2.8927393
+439890181,way,Jardin Saint-Elme,park,Perpignan,,,,42.6785782,2.9106933
+439890183,way,Jardin Visconti,park,Perpignan,,,,42.698274,2.9315052
+439890185,way,Jardin du Grand Large,park,Perpignan,,,,42.6970616,2.9146542
+439890187,way,Square de la Médaille Militaire,park,Perpignan,,,,42.7119022,2.8902042
+444893986,way,La Guinguette du Lac,restaurant,Perpignan,,,,42.6837577,2.7884682
+444894518,way,La Casa du Lac,restaurant,Perpignan,,,,42.6834411,2.7891647
+450280006,way,Allée Maillol,park,Perpignan,,,,42.697525,2.9122731
+454643296,way,,beach,Perpignan,,,,42.703694,3.0385356
+458042237,way,,castle,Perpignan,Rue du Château,,,42.6938414,2.7992394
+460907800,way,,garden,Perpignan,,,,42.7124605,2.8435054
+491618464,way,Frenzy Palace,theme_park,Perpignan,,,,42.76017,3.0189291
+495662141,way,,park,Perpignan,,,,42.6637717,2.8889964
+512813111,way,,beach,Perpignan,,,,42.6392331,2.906212
+523987710,way,Jardin de la Poudrière,park,Perpignan,,,,42.7003462,2.9001162
+537929643,way,,park,Perpignan,,,,42.665939,2.8901391
+537933562,way,,park,Perpignan,,,,42.6829228,2.9077234
+537934323,way,,park,Perpignan,,,,42.6852304,2.9009444
+537936428,way,,park,Perpignan,,,,42.6903616,2.8828521
+537938953,way,,park,Perpignan,,,,42.7039647,2.8881098
+537939577,way,,park,Perpignan,,,,42.7103591,2.8932133
+537940719,way,Jardin Aspirant Leon Buffet,park,Perpignan,,,,42.6955233,2.8718101
+539506102,way,Château,castle,Perpignan,,,,42.7068695,3.0088236
+540160120,way,Place des Micocouliers,park,Perpignan,,,,42.7041595,2.882038
+540983795,way,Square Soularete,park,Perpignan,,,,42.7040474,2.8790619
+550416891,way,Ristorante Del Arte,restaurant,Perpignan,1 Rue Max Linder,,,42.7773095,2.9090797
+550416896,way,Léon de Bruxelles,restaurant,Perpignan,"3 Rue Max Linder, 66600, Rivesaltes",66600,,42.7769254,2.9092071
+557138501,way,Square du Discobole,park,Perpignan,,,,42.6426238,2.865725
+562445421,way,,garden,Perpignan,,,,42.6987929,2.7301334
+570734735,way,,park,Perpignan,,,,42.666599,2.908605
+572883311,way,,park,Perpignan,,,,42.6985023,3.0274244
+572883312,way,,park,Perpignan,,,,42.6981298,3.0274164
+572883313,way,,park,Perpignan,,,,42.6980618,3.0281366
+572883314,way,,park,Perpignan,,,,42.6981397,3.0266144
+572883315,way,,park,Perpignan,,,,42.6978292,3.0274102
+572883316,way,,park,Perpignan,,,,42.6973933,3.0292476
+572889074,way,Square de Catalogne,park,Perpignan,,,,42.6968411,3.0325792
+588457768,way,,park,Perpignan,,,,42.6828728,2.9028886
+591387982,way,,beach,Perpignan,,,,42.8192854,3.0411591
+610928809,way,,garden,Perpignan,,,,42.6928482,2.9217022
+615518351,way,,park,Perpignan,,,,42.7018519,3.0335073
+616396302,way,Parc de la Guinguette,park,Perpignan,,,,42.7714994,2.8700124
+617171566,way,Espace détente,park,Perpignan,,,,42.7643374,2.8872798
+619573697,way,,garden,Perpignan,,,,42.7733072,2.9131015
+619573698,way,,garden,Perpignan,,,,42.7735061,2.913055
+619573699,way,,garden,Perpignan,,,,42.7738298,2.9130015
+619573700,way,,garden,Perpignan,,,,42.7744358,2.9133154
+619573702,way,,garden,Perpignan,,,,42.7745668,2.9136521
+619573703,way,,garden,Perpignan,,,,42.7744829,2.9135499
+619573704,way,,garden,Perpignan,,,,42.7742928,2.9132126
+619573705,way,,garden,Perpignan,,,,42.7742559,2.9131335
+619573706,way,,garden,Perpignan,,,,42.7742166,2.9131813
+619573707,way,,garden,Perpignan,,,,42.7740939,2.9130678
+619573708,way,,garden,Perpignan,,,,42.7739987,2.9130915
+619573709,way,,garden,Perpignan,,,,42.7739141,2.9130548
+624095141,way,Jardin des rêves,park,Perpignan,,,,42.7651265,2.8754209
+624095142,way,Square Edmond Michelet,park,Perpignan,,,,42.7663183,2.8751015
+624434044,way,,garden,Perpignan,,,,42.70547,3.0091734
+624434045,way,,garden,Perpignan,,,,42.7054,3.0091936
+626637860,way,,garden,Perpignan,,,,42.6825075,3.0335629
+626637861,way,,garden,Perpignan,,,,42.6829153,3.0336488
+626637862,way,,garden,Perpignan,,,,42.6828977,3.0338199
+626637863,way,,garden,Perpignan,,,,42.6829179,3.0334169
+626637864,way,,garden,Perpignan,,,,42.68285,3.0340309
+627794900,way,,park,Perpignan,,,,42.7714151,2.877871
+629867158,way,,park,Perpignan,,,,42.6977537,2.9222294
+629867162,way,,park,Perpignan,,,,42.6979824,2.9186892
+629867164,way,,park,Perpignan,,,,42.6971933,2.9182056
+629867165,way,,park,Perpignan,,,,42.6965588,2.9182539
+629867166,way,,park,Perpignan,,,,42.6971791,2.9213136
+629867173,way,,park,Perpignan,,,,42.6977119,2.9239388
+629867194,way,,park,Perpignan,,,,42.7000678,2.9215482
+629867202,way,,park,Perpignan,,,,42.6994407,2.9225201
+629867227,way,,park,Perpignan,,,,42.6951848,2.9317121
+630715731,way,,park,Perpignan,,,,42.6884411,2.9137761
+639048318,way,,restaurant,Perpignan,,,,42.6749303,3.0306463
+677004586,way,,park,Perpignan,,,,42.7339911,2.9132301
+678873894,way,Place du Jardin d'Eden,park,Perpignan,,,,42.7269821,2.9425286
+679192728,way,,garden,Perpignan,,,,42.7076406,2.8828327
+679192729,way,,garden,Perpignan,,,,42.707512,2.8828737
+679192730,way,,garden,Perpignan,,,,42.7076266,2.8841295
+679192731,way,,garden,Perpignan,,,,42.7073904,2.8830036
+679192732,way,,garden,Perpignan,,,,42.7074025,2.8834507
+679192733,way,,garden,Perpignan,,,,42.7076929,2.8827295
+693010995,way,Arboretum,park,Perpignan,,,,42.6782483,2.7773104
+694293491,way,Jardin François Viète,garden,Perpignan,,,,42.6905545,2.9033075
+704600277,way,Square de France,park,Perpignan,,,,42.681639,2.7348519
+711574540,way,Jardin Martin Vivès,park,Perpignan,,,,42.6819909,2.7948736
+727542593,way,,garden,Perpignan,,,,42.6331086,2.8831993
+737579098,way,parc du pont Jacquet,park,Perpignan,,,,42.7713339,2.871761
+739105452,way,,park,Perpignan,,,,42.7562105,3.0007113
+739431498,way,Wake Park,attraction,Perpignan,,,,42.8362804,3.0302806
+755394343,way,,park,Perpignan,,,,42.6258218,2.8166507
+755650509,way,,garden,Perpignan,,,,42.6415981,2.9671082
+769398465,way,Parc d'activités Le Clos d'en Cante,park,Perpignan,,,,42.770747,2.8445212
+856936023,way,Parc de la Madeleine,park,Perpignan,,,https://ville-cabestany.fr/parc-de-la-madeleine/,42.6809767,2.938774
+857739548,way,,park,Perpignan,,,,42.6777083,2.9440656
+857739549,way,,park,Perpignan,,,,42.677696,2.9437131
+858676248,way,,garden,Perpignan,,,,42.6790019,2.9372966
+859721638,way,Au Bureau,restaurant,Perpignan,,,,42.6878721,2.9232427
+863622310,way,,garden,Perpignan,,,,42.6702009,2.9447165
+865163146,way,,garden,Perpignan,,,,42.6780767,2.9435801
+871605106,way,,garden,Perpignan,,,,42.6804611,2.9306558
+874861194,way,,garden,Perpignan,,,,42.6814773,2.9340607
+875055301,way,,park,Perpignan,,,,42.677513,2.9378857
+876330106,way,Jardin de la Demoiselle,park,Perpignan,,,,42.6525987,2.9542321
+877995621,way,,garden,Perpignan,,,,42.6882842,2.9249725
+877995622,way,,garden,Perpignan,,,,42.6880554,2.9246051
+877995623,way,,garden,Perpignan,,,,42.6879685,2.9245215
+877995624,way,,garden,Perpignan,,,,42.6875844,2.9249357
+877995626,way,,garden,Perpignan,,,,42.6878053,2.9252509
+881596127,way,Le Jardin Exotique,garden,Perpignan,,,https://jardin-exotique-ponteilla.fr/,42.6228923,2.8209846
+883429176,way,,garden,Perpignan,,,,42.685171,2.9335615
+883433736,way,Prairie fleurie,garden,Perpignan,,,,42.6794393,2.9471805
+891290277,way,,garden,Perpignan,,,,42.6758031,2.9424572
+891291256,way,,garden,Perpignan,,,,42.6729577,2.9453683
+896000428,way,,garden,Perpignan,,,,42.6810706,2.9380797
+896000429,way,,garden,Perpignan,,,,42.6813106,2.9376948
+896095249,way,,garden,Perpignan,,,,42.6957934,2.8512081
+896286593,way,,garden,Perpignan,,,,42.6998564,2.8490914
+900383824,way,,park,Perpignan,,,,42.7044114,3.0082142
+908209084,way,Espace de détente Las Palades,park,Perpignan,,,,42.7213177,2.9393654
+909713514,way,,park,Perpignan,,,,42.8071227,3.0343005
+910164702,way,,park,Perpignan,,,,42.7839326,3.0323385
+910816007,way,,park,Perpignan,,,,42.7731775,3.0264878
+912565235,way,,park,Perpignan,,,,42.7404962,2.9234415
+913215848,way,,garden,Perpignan,,,,42.7274661,2.9838435
+913215849,way,,garden,Perpignan,,,,42.7275721,2.9838893
+916382664,way,,park,Perpignan,,,,42.7553079,2.8497979
+918033123,way,,park,Perpignan,,,,42.7732777,2.8738002
+918408715,way,,garden,Perpignan,,,,42.7767388,2.9139142
+918408718,way,,garden,Perpignan,,,,42.7734241,2.9130558
+918408719,way,,garden,Perpignan,,,,42.773291,2.9131714
+918408720,way,,garden,Perpignan,,,,42.7732021,2.9132651
+921710875,way,Castell Vell,ruins,Perpignan,,,,42.8336752,2.8794654
+921710876,way,Castell reial,ruins,Perpignan,,,,42.8412477,2.9191604
+921801823,way,Jardin Gaston Comes,park,Perpignan,,,,42.6887342,2.8805202
+921867874,way,Square de la Médaille Militaire,park,Perpignan,,,,42.8307291,2.918859
+928847117,way,,garden,Perpignan,,,,42.6763581,2.9461136
+945591163,way,Chèvres et Moutons,attraction,Perpignan,,,,42.7287906,2.9280099
+945591164,way,"Ânes, Poneys et Lama",attraction,Perpignan,,,,42.7288742,2.9275867
+945591166,way,Vaches,attraction,Perpignan,,,,42.728552,2.9280139
+945594390,way,Poules et Pintades,attraction,Perpignan,,,,42.7290598,2.9276953
+945757054,way,Cochon,attraction,Perpignan,,,,42.7289234,2.9279453
+945757058,way,L'Espace Enchanté,zoo,Perpignan,,,,42.7289908,2.9273525
+955333316,way,Square du 14 Juillet,park,Perpignan,,,,42.8137305,2.7484921
+957571973,way,,garden,Perpignan,,,,42.6598535,2.9527639
+963348807,way,Plaine de loisirs Raymond Carbones,park,Perpignan,,,,42.6760505,2.8267821
+967852073,way,Plage Mar Estang,beach,Perpignan,,,,42.6752096,3.0347307
+967852074,way,Plage Sud,beach,Perpignan,,,,42.6787477,3.034976
+967852075,way,Plage de la Marenda,beach,Perpignan,,,,42.684092,3.0354333
+967852076,way,Plage du grand large,beach,Perpignan,,,,42.6900386,3.0360017
+967852077,way,Plage centrale,beach,Perpignan,,,,42.6937765,3.0363582
+967852078,way,Plage du Roussillon,beach,Perpignan,,,,42.6974897,3.0369404
+967852079,way,Plage de la jetée,beach,Perpignan,,,,42.7005779,3.0388368
+971751423,way,,garden,Perpignan,,,,42.6794737,2.9482471
+971751424,way,,park,Perpignan,,,,42.6785013,2.9485098
+971759477,way,,park,Perpignan,,,,42.6810523,2.9419246
+972308700,way,,park,Perpignan,,,,42.8332803,3.0384263
+972998721,way,,park,Perpignan,,,,42.7000343,2.7281002
+973167045,way,,garden,Perpignan,,,,42.6931259,2.9181582
+978413116,way,Parc François Cantié,park,Perpignan,,,,42.7078355,2.8482093
+988494121,way,,park,Perpignan,,,,42.6907311,2.8644456
+990993609,way,,garden,Perpignan,,,,42.6787079,2.9373689
+992048108,way,Épique Brochettes & Gourmandises,restaurant,Perpignan,,,,42.7019447,2.8950304
+995225787,way,Prairie fleurie,garden,Perpignan,,,,42.6785147,2.9457752
+996135151,way,,ruins,Perpignan,,,,42.7294287,2.8434374
+997250995,way,,garden,Perpignan,,,,42.6824596,2.9489882
+997250996,way,,garden,Perpignan,,,,42.6824938,2.9489846
+997250997,way,,garden,Perpignan,,,,42.6824574,2.9489456
+997250998,way,,garden,Perpignan,,,,42.6824912,2.9489434
+999949642,way,Espace vert,park,Perpignan,,,,42.6955296,2.9333362
+1000476937,way,Espace Marcel et Serge Padrines,park,Perpignan,,,,42.6924803,2.7752025
+1000525131,way,Square Guy Malé,park,Perpignan,,,,42.6247539,2.8122258
+1000525143,way,Parc de la Mairie,park,Perpignan,,,,42.6266191,2.8111575
+1008971283,way,Cadran Solaire,artwork,Perpignan,,,,42.7803426,2.8993599
+1021764823,way,Parc Durand,park,Perpignan,,,,42.6672166,2.9918493
+1022173342,way,,garden,Perpignan,,,,42.6703608,2.7670299
+1022208458,way,,garden,Perpignan,,,,42.6668803,2.7716966
+1022208459,way,,garden,Perpignan,,,,42.6639294,2.7607181
+1023323901,way,,park,Perpignan,,,,42.6684595,2.9885797
+1023323920,way,Parc du Bicentenaire,park,Perpignan,,,,42.6677027,2.9902639
+1033240005,way,,park,Perpignan,,,,42.6620298,2.8376434
+1035809443,way,,park,Perpignan,,,,42.650658,2.8356149
+1037817787,way,,park,Perpignan,,,,42.6533812,2.8352785
+1039034626,way,,park,Perpignan,,,,42.6709711,2.8324172
+1040950551,way,,park,Perpignan,Chemin de Leucate,,https://www.saintlaurentdelasalanque.fr/vivre-a-saint-laurent/jardins-denfants/,42.7706967,2.9916501
+1047371799,way,Square Aristide Maillol,park,Perpignan,,,,42.6856669,2.9031949
+1052338843,way,Jardin du 1er mai,park,Perpignan,,,https://pollestres.com/ma-ville/parcs-et-jardins,42.6398694,2.8724292
+1052401868,way,Botania,garden,Perpignan,,,,42.6421571,2.872096
+1059057657,way,,garden,Perpignan,,,,42.6366597,2.8670972
+1072273719,way,,park,Perpignan,,,,42.720161,2.8927987
+1076380071,way,,artwork,Perpignan,,,,42.7212364,2.8860012
+1081416518,way,,park,Perpignan,,,,42.7872594,2.9683982
+1082983350,way,,park,Perpignan,,,,42.7671007,2.8686234
+1086994710,way,Top à la Vachette - Arènes de Barcarès,attraction,Perpignan,"Rue du Mas de la Grêle, 66420, Le Barcarès",66420,https://top-a-la-vachette.com/spectacle-barcares/,42.8240674,3.0358663
+1097303224,way,EcoZonia,zoo,Perpignan,,,https://www.ecozonia.fr,42.7873029,2.7719558
+1100996828,way,,park,Perpignan,,,,42.7278716,2.8874511
+1102304212,way,Jardin Las Canals,park,Perpignan,,,,42.687714,2.9013106
+1117913926,way,Espace Martine Bénitière,park,Perpignan,,,,42.7613549,2.9517246
+1139493511,way,La Case à Lisette,restaurant,Perpignan,,,,42.7694003,3.0351976
+1146963093,way,Parc Blériot,park,Perpignan,,,,42.6841066,2.8880917
+1147019190,way,Espace Yvan Casenove,park,Perpignan,,,,42.749392,2.6774188
+1150011554,way,Espace Bernard Taillefer,park,Perpignan,,,,42.8171696,2.7388559
+1152669763,way,Aire de jeux Catalunya,park,Perpignan,,,,42.6638074,2.8787023
+1160887067,way,Jardin de Noë,garden,Perpignan,,,,42.8136013,2.7454546
+1161190176,way,,beach,Perpignan,,,,42.8387726,3.0357987
+1179599539,way,Jardin de la Paix,garden,Perpignan,,,,42.754135,2.8477382
+1184425972,way,Âne,attraction,Perpignan,,,,42.7884414,2.7697041
+1184425973,way,Putois,attraction,Perpignan,,,,42.788167,2.770157
+1184425978,way,Panthère de l'amour,attraction,Perpignan,,,,42.7879905,2.7700755
+1184425979,way,Dhole,attraction,Perpignan,,,,42.7872292,2.7701319
+1184425980,way,Dhole,attraction,Perpignan,,,,42.7876304,2.7701821
+1184425981,way,Tigres de Sibérie,attraction,Perpignan,,,,42.7868947,2.7713174
+1184425982,way,Martes Flavigula,attraction,Perpignan,,,,42.7865,2.7712993
+1184425983,way,Faucons,attraction,Perpignan,,,,42.7864139,2.7717545
+1184425984,way,Lynx,attraction,Perpignan,,,,42.7864532,2.772061
+1184425985,way,Loups / Ours Brun,attraction,Perpignan,,,,42.7864292,2.7724827
+1184425986,way,Chat léopard de l'amour,attraction,Perpignan,,,,42.7859882,2.7729978
+1184425987,way,Chat léopard de l'amour,attraction,Perpignan,,,,42.7859532,2.773156
+1184425988,way,Glouton,attraction,Perpignan,,,,42.7859439,2.7738091
+1184425989,way,Loutres / Chiens viverrins,attraction,Perpignan,,,,42.7856895,2.7742115
+1184425993,way,Panthère des neiges,attraction,Perpignan,,,,42.7877292,2.769248
+1189344260,way,Fun Park,theme_park,Perpignan,,,https://www.fun-park.fr/,42.7063925,3.0210807
+1194730273,way,,park,Perpignan,,,,42.6965823,3.0259158
+1225161011,way,Mas Pams,park,Perpignan,,,,42.7294164,2.9341972
+1231937596,way,Aire de Jeux et de Loisirs de la Grange,park,Perpignan,"Rue des Grenadiers, 66430, Bompas",66430,,42.7355178,2.9404088
+1235648563,way,Espace Che Guevara,park,Perpignan,,,http://www.estagel.fr/fr/salle-municipale/754/aire-loisirs,42.7712513,2.694348
+1236595721,way,,park,Perpignan,,,,42.6942042,2.7979883
+1260765506,way,Square Ivo Malec,park,Perpignan,,,,42.7159476,2.9004215
+1273534038,way,Parc intergénérationel Écris l'histoire,park,Perpignan,,,https://pollestres.com/ma-ville/parcs-et-jardins,42.6378632,2.8715072
+1276212100,way,Jardin du Souvenir Français,park,Perpignan,,,,42.7791048,2.8327883
+1290494390,way,Jardin du Partage,park,Perpignan,"rue St Antoine, 66430, Bompas",66430,,42.7329981,2.9340433
+1321391116,way,,park,Perpignan,,,,42.7769562,2.8402266
+1321391117,way,Parc Antoine Sanchez,park,Perpignan,,,,42.7764303,2.8393922
+1324733507,way,Parc Joan Cayrol,park,Perpignan,,,,42.6202483,2.767685
+1325480015,way,,park,Perpignan,,,,42.7502123,2.6787383
+1337725249,way,,park,Perpignan,,,,42.6798383,2.8785059
+1337945805,way,,park,Perpignan,,,,42.6682501,2.8787217
+1348749809,way,,park,Perpignan,,,,42.6622137,2.8784956
+1350620940,way,Parc de la Têt,park,Perpignan,,,,42.7078611,3.0143647
+1350923583,way,Hôtel Kyriad Perpignan Sud,hotel,Perpignan,,,,42.6630143,2.8847903
+1354180953,way,Jardin de la Butte,park,Perpignan,,,,42.6809117,2.9062807
+1355496597,way,Jardin Georges Brassens,park,Perpignan,,,,42.692728,2.8978618
+1362816947,way,Ancienne église Saint-Paul,ruins,Perpignan,,,,42.7585718,2.757768
+1383706441,way,,artwork,Perpignan,,,,42.700495,2.903899
+1383706442,way,,artwork,Perpignan,,,,42.7004272,2.9039677
+1383734648,way,,garden,Perpignan,,,,42.700981,2.9030063
+1383734649,way,,garden,Perpignan,,,,42.7010437,2.902832
+1383734650,way,,garden,Perpignan,,,,42.7010231,2.9028344
+1383734651,way,,garden,Perpignan,,,,42.7008953,2.9028836
+1383734652,way,,garden,Perpignan,,,,42.7008575,2.9028048
+1383734653,way,,garden,Perpignan,,,,42.7007729,2.9026149
+1383734654,way,,garden,Perpignan,,,,42.7008609,2.9025698
+1383734655,way,,garden,Perpignan,,,,42.7010096,2.9025387
+1383734659,way,,garden,Perpignan,,,,42.701163,2.9024349
+1385509932,way,hôtel Mar i Cel,hotel,Perpignan,,,https://hotelmaricel.com,42.6928691,3.0347267
+1391190777,way,Square du Souvenir Français,garden,Perpignan,,,,42.7831797,2.968187
+1408396988,way,Square des Campagnes,garden,Perpignan,,,,42.654948,2.8364206
+1413797969,way,,park,Perpignan,,,,42.6952004,3.0276591
+1413797970,way,,park,Perpignan,,,,42.6952263,3.02806
+1413797971,way,,park,Perpignan,,,,42.6952008,3.0282893
+1413797972,way,,park,Perpignan,,,,42.6955049,3.0280788
+1413797973,way,,park,Perpignan,,,,42.6945776,3.0301552
+1420383314,way,Ferme (urbaine),garden,Perpignan,,,,42.7180948,2.8991592
+1423052365,way,Parc Ducup,park,Perpignan,,,,42.686083,2.841209
+1424605887,way,Jardin Léon Condoret,garden,Perpignan,,,,42.7511871,2.8098789
+1424605889,way,,park,Perpignan,,,,42.7510573,2.812207
+1424786500,way,Jardins de la Basse,park,Perpignan,,,,42.692617,2.875977
+1427573974,way,,garden,Perpignan,,,,42.6822282,3.0339302
+1427573975,way,,garden,Perpignan,,,,42.682141,3.0336678
+1427573976,way,,garden,Perpignan,,,,42.6821463,3.0335338
+1427573977,way,,garden,Perpignan,,,,42.6821677,3.0333387
+1427573978,way,,garden,Perpignan,,,,42.682181,3.0329158
+1427573995,way,,garden,Perpignan,,,,42.6824581,3.0331645
+1427573996,way,,garden,Perpignan,,,,42.6825336,3.0340247
+1427573997,way,,garden,Perpignan,,,,42.6825816,3.0330145
+1451934869,way,Square Sainte-Marie,park,Perpignan,,,,42.7786484,2.8360163
+1467796729,way,Aire de jeux Pumptrack,park,Perpignan,,,,42.6305034,2.9139438
+1475092492,way,Le Jardin de l'église,park,Perpignan,,,,42.6832547,2.9046728
+1482048268,way,,park,Perpignan,,,,42.7746599,3.0089949
+1493028503,way,La Cantoche,restaurant,Perpignan,,,,42.6872137,2.8257965
+1498571514,way,,artwork,Perpignan,,,,42.6799761,2.9385462
+1498571515,way,,artwork,Perpignan,,,,42.6799613,2.9380728
+1517225467,way,Circuit Jet Ski,attraction,Perpignan,,,https://www.circuit-jet-ski.com/,42.758306,3.0194778
+1525860417,way,,park,Perpignan,,,,42.7736417,2.7006553
+1528291555,way,Le Jardin des Découvertes,garden,Perpignan,,,,42.7331222,2.9792797
+1531591297,way,Gorges du Gouleyrous,attraction,Perpignan,,,,42.8416164,2.7527565
+935882,relation,Parc des Tilleuls,park,Perpignan,,,,42.7435732,2.9188509
+1000510,relation,,restaurant,Perpignan,,,,42.8228527,3.0377932
+1227556,relation,Musée d'art Hyacinthe-Rigaud,museum,Perpignan,,,,42.6979448,2.8933348
+1227568,relation,Hôtel Pams,attraction,Perpignan,,,https://www.perpignantourisme.com/en/activite/hotel-pams/,42.697849,2.8982437
+1227601,relation,Palais des Rois de Majorque,attraction,Perpignan,,,,42.6939019,2.8957979
+3158907,relation,,beach,Perpignan,,,,42.7889434,3.0397118
+3158908,relation,Square Robert Castel,park,Perpignan,,,,42.7889986,3.0379172
+3158968,relation,Plage Sud Torreilles,beach,Perpignan,,,,42.7544645,3.0377686
+3159050,relation,,beach,Perpignan,,,,42.7378243,3.0379705
+3159051,relation,,beach,Perpignan,,,,42.7477918,3.0387603
+3464126,relation,Forteresse de Salses,attraction,Perpignan,,,,42.8397053,2.9181286
+6010718,relation,Château de Cuxous,castle,Perpignan,,,,42.747006,2.6345565
+7243799,relation,Mémorial du Camp de Rivesaltes,museum,Perpignan,,,https://www.memorialcamprivesaltes.eu,42.8094085,2.8926985
+12362767,relation,Plage de l'embouchure,beach,Perpignan,,,,42.779746,3.038151
+14410322,relation,Parc de la Laïcité,park,Perpignan,,,,42.694152,2.9065937
+17670876,relation,Plage Torreilles,beach,Perpignan,,,,42.7680637,3.0384005
+19427547,relation,Jardin des jeunes pousses,garden,Perpignan,,,,42.6892761,2.913913
+19572559,relation,Espace Arthur Conte,garden,Perpignan,,,https://pollestres.com/ma-ville/parcs-et-jardins,42.6421838,2.8753629
+20708596,relation,Circuit Mini Motos,attraction,Perpignan,,,,42.7585735,3.0192636

@@ -1,7 +1,14 @@
 osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+345218132,node,Au bout du monde,viewpoint,Angers,,,,47.4709838,-0.559316
+417995894,node,,viewpoint,Angers,,,,47.3439475,-0.6917768
+418009870,node,Saint-Offange,ruins,Angers,,,,47.3618821,-0.6652854
+470819691,node,Monument aux Morts,memorial,Angers,,,,47.3294201,-0.6706374
 480682317,node,Le Bystrot,restaurant,Angers,,,,47.3413521,-0.430284
+506840464,node,,viewpoint,Angers,,,,47.3926366,-0.2972299
+597266142,node,Château des Grandes Maisons,castle,Angers,,,,47.5866671,-0.6602648
 627537662,node,Le Pub Ralliement,restaurant,Angers,"Place du Ralliement, 49000, Angers",49000,,47.4714925,-0.5514882
 767470138,node,Léon,restaurant,Angers,,,,47.4735471,-0.6201702
+816596124,node,Château de Montriou,castle,Angers,,,,47.6121933,-0.5945437
 871811244,node,Guinguette Caparicia (ex La Croisette Béhuard),restaurant,Angers,"Rue de la Boire, 49170, Béhuard",49170,https://www.lacroisettebehuard.com/,47.3828048,-0.6389061
 897131068,node,Bar Restaurant de La Loire,restaurant,Angers,,,,47.422896,-0.5562328
 1375334762,node,,restaurant,Angers,,,,47.5000607,-0.490034
@@ -12,11 +19,26 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1533228177,node,La Petite Fringale,restaurant,Angers,19 Avenue d'Angers,,,47.6659424,-0.2426153
 1533228194,node,Le Louvio,restaurant,Angers,"2 bis Rue de la Mairie, 49430, Durtal",49430,,47.6708797,-0.2434248
 1561091744,node,Chez Lux,restaurant,Angers,"199 Rue Éblé, 49000, Angers",49000,,47.454996,-0.5664856
+1587802824,node,Statue du Roi René,artwork,Angers,,,,47.4691796,-0.5582867
+1610231405,node,La Forestrie,castle,Angers,,,,47.407533,-0.685233
+1685836309,node,Château du Verger,castle,Angers,,,,47.5988935,-0.3599986
 1709691389,node,L'Orchidée,restaurant,Angers,"7 Avenue du Commerce, 49130, Sainte-Gemmes-sur-Loire",49130,https://www.restaurant-orchidee.fr/,47.4239429,-0.5577408
+1749960642,node,Château de Martigné Briand,castle,Angers,,,,47.2323637,-0.4299453
+1766764714,node,La Haute Bergère,castle,Angers,,,,47.4631675,-0.7482067
+1766764731,node,Le Moricon,castle,Angers,,,,47.4783327,-0.7190946
+1777423251,node,La Roche de Mûrs,viewpoint,Angers,,,,47.4034802,-0.5441972
 1785263406,node,Les Alizés,restaurant,Angers,,,,47.3982716,-0.530055
+1797551265,node,La Roche,castle,Angers,,,,47.6194572,-0.5732517
 1818980502,node,,restaurant,Angers,,,,47.5740963,-0.3587338
 1818980552,node,La Roseraie,restaurant,Angers,,,,47.5738199,-0.3582487
+1818989787,node,Vue sur la vallée du Loir,viewpoint,Angers,,,,47.5881459,-0.3583426
+1819240000,node,,memorial,Angers,,,,47.5736655,-0.3575234
+1820832466,node,Les Charmières,castle,Angers,,,,47.5715616,-0.357353
+1820833123,node,Château de Brignac,castle,Angers,,,,47.62048,-0.3323899
+1824601250,node,Château d'Ardannes,castle,Angers,,,,47.5610902,-0.3583829
 1843722362,node,La boule d'or,restaurant,Angers,"3 Place de l'Église, 49770",49770,,47.5194756,-0.6685205
+1845914418,node,Manoir du Lizieux,castle,Angers,,,,47.5941189,-0.3583454
+1845915793,node,La Croix au Chien,memorial,Angers,,,,47.5990532,-0.3425901
 1867002493,node,Relais de Tournebride,restaurant,Angers,,,,47.4138914,-0.9147723
 1925271410,node,Murmure,restaurant,Angers,"La Roche de Murs, 49610, Mûrs-Erigné",49610,https://www.murmureresto.com/,47.4033707,-0.5431028
 2036075824,node,La petite ardoise,restaurant,Angers,,,https://laptiteardoise-angers.fr/,47.4733512,-0.549821
@@ -25,10 +47,14 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2122549958,node,Le Bouillon du Ralliement,restaurant,Angers,"3 Place du Ralliement, 49100, Angers",49100,https://www.bouillon-ralliement.com/,47.4715737,-0.5516423
 2122550815,node,Brasserie du Ralliement,restaurant,Angers,"7 Place du Ralliement, 49100, Angers",49100,https://www.brasserieduralliement.fr,47.4713076,-0.5513013
 2122786486,node,Chez Mario,restaurant,Angers,,,,47.4818162,-0.5671291
-2133867764,node,Provence Caffé,restaurant,Angers,"9 Place du Ralliement, 49100, Angers",49100,,47.4712199,-0.5510919
 2189858219,node,Au Cornillé,restaurant,Angers,,,,47.4999268,-0.3011182
-2255652692,node,Le Sourire,restaurant,Angers,,,https://le10n9.fr/,47.4771078,-0.5576783
+2250704276,node,La Bainerie,castle,Angers,,,,47.6427382,-0.3886793
+2255652692,node,Le Sourire,restaurant,Angers,"8 Boulevard Arago, 49100, Angers",49100,https://restaurant-le-sourire.fr/,47.4771078,-0.5576783
+2261537916,node,Château du Plessis-Greffier,castle,Angers,,,,47.6541535,-0.2884643
+2264513281,node,La Motte,castle,Angers,,,,47.6449124,-0.3522795
+2269516187,node,Les Loges,castle,Angers,,,,47.6363841,-0.3647296
 2334352859,node,Les Variétés,restaurant,Angers,,,,47.4677487,-0.550977
+2338156899,node,Château de Montsabert,castle,Angers,,,,47.3758904,-0.3436204
 2343228888,node,La Crémaillière,restaurant,Angers,"30 Rue Bressigny, 49100, Angers",49100,,47.4673731,-0.5501041
 2343229955,node,Fricot,restaurant,Angers,"7 bis Boulevard du Maréchal Foch, 49100",49100,,47.46915,-0.549102
 2343234430,node,Le Corléone,restaurant,Angers,"42 Rue du Cornet, 49100, Angers",49100,,47.472981,-0.55186
@@ -43,7 +69,11 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2366000651,node,O’Daguenais,restaurant,Angers,"152 Rue Ligérienne, 49800, La Daguenière",49800,,47.4202275,-0.4453079
 2366017103,node,Le Grand Bras - Pub Qg49,restaurant,Angers,,,,47.3700693,-0.7529856
 2376372784,node,La Cantine Avrillé,restaurant,Angers,,,,47.5171749,-0.6075516
+2427017251,node,Musée de la vigne et du vin d'Anjou,museum,Angers,4 Place des Vignerons,,,47.2999784,-0.6335965
 2434913592,node,La Tocante,restaurant,Angers,,,https://www.latocante-restaurant.com/,47.4672851,-0.4952699
+2464070219,node,La Rose des sables,artwork,Angers,,,,47.4767482,-0.551047
+2526432138,node,,viewpoint,Angers,,,,47.4545439,-0.599282
+2631005493,node,,viewpoint,Angers,,,,47.4551217,-0.5867247
 2632441617,node,Acquaviva,restaurant,Angers,,,,47.5606119,-0.6711891
 2638025829,node,Dolce Pittsa,restaurant,Angers,"22 Rue Beaurepaire, 49100, Angers",49100,,47.4741717,-0.5597301
 2773829113,node,Mishi Mishi,restaurant,Angers,Beaucouzé,,http://www.mikadofrance.fr,47.4846994,-0.6272401
@@ -55,6 +85,12 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2773907526,node,Les Relais d'Alsace,restaurant,Angers,Beaucouzé,,https://www.lesrelaisdalsace.com/,47.4848301,-0.6266515
 2781238755,node,Bouillon Saint-Laud,restaurant,Angers,"8 Place de la Gare, 49100, Angers",49100,https://www.bouillon-angers.com/,47.4653072,-0.5574175
 2781926816,node,Brasserie de la Gare,restaurant,Angers,"5-7 Place de la Gare, 49100, Angers",49100,,47.4653848,-0.5565411
+2804554522,node,Sortie de bain,artwork,Angers,,,,47.4698769,-0.5451322
+2804556251,node,Avant le bain,artwork,Angers,,,,47.4701624,-0.5449196
+2804599577,node,,artwork,Angers,,,,47.4708587,-0.5465524
+2804599578,node,,artwork,Angers,,,,47.4707653,-0.5462743
+2831561839,node,Musée François Cacheux,museum,Angers,"49000, Angers",49000,,47.4505498,-0.5426538
+2837236322,node,Butte de l'enfer,viewpoint,Angers,,,,47.4532245,-0.4933981
 2852670350,node,Maison Paganelli,restaurant,Angers,,,https://maisonpaganelli.com/angers/,47.4718366,-0.5529381
 2852761471,node,Monkey,restaurant,Angers,,,,47.4088325,-0.6178535
 2852761473,node,La Bafouille,restaurant,Angers,,,,47.4087391,-0.618243
@@ -63,10 +99,13 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2853059355,node,Il Fiore,restaurant,Angers,9 Rue des Lices,,,47.4686036,-0.5538052
 2853072935,node,Chicken Valley,restaurant,Angers,"31 Rue de la Parcheminerie, 49100, Angers",49100,,47.4734214,-0.5541382
 2862085560,node,Marlaguette,restaurant,Angers,105 Rue de la Madeleine,,,47.4611437,-0.5383148
+2909919131,node,,viewpoint,Angers,,,,47.4414141,-0.4792756
+2909919160,node,,viewpoint,Angers,,,,47.4542323,-0.4891998
 2986109597,node,Flunch,restaurant,Angers,"3 Boulevard Gaston Ramon, 49100, Angers",49100,https://www.flunch.fr/restaurant/angers-st-serge/flunch-angers-saint-serge/,47.4891193,-0.5432904
 3241192949,node,Tigr.,restaurant,Angers,"43 Rue Toussaint, 49000",49000,https://tigr-angers.fr/,47.4692371,-0.5568179
 3241194403,node,Chez Minh,restaurant,Angers,,,,47.4697981,-0.5548581
 3241202541,node,Le Connétable,restaurant,Angers,13 Rue des Deux-Haies,,https://le-connetable.fr/,47.4716176,-0.5526477
+3256114533,node,Guerrier Debout,artwork,Angers,,,,47.4651025,-0.5555652
 3259886661,node,Ristorante Del Arte,restaurant,Angers,"Zac de montrejeau espace anjou, 49000, Angers",49000,https://www.delarte.fr/restaurant-italien-pizzeria-angers-espace-anjou.html,47.4663127,-0.5263567
 3393642768,node,Assos Kebap,restaurant,Angers,,,,47.4738618,-0.5808804
 3395116566,node,Hôtel Mercure,hotel,Angers,,,,47.468758,-0.5931859
@@ -74,9 +113,12 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3444585908,node,Le Chat qui pêche,restaurant,Angers,,,,47.5623621,-0.6749568
 3481379793,node,B&b Hôtel Angers 1 Beaucouzé,hotel,Angers,"6 Avenue du pin, 49070, Beaucouzé",49070,https://www.hotel-bb.com/fr/-/hotelByName.htm?id=4045,47.4675675,-0.6280872
 3556039816,node,,restaurant,Angers,,,,47.4736536,-0.5876143
+3556103629,node,,memorial,Angers,,,,47.4743171,-0.5764
 3572022711,node,Ibis,hotel,Angers,,,,47.472835,-0.5558815
 3572269914,node,Krousty Sabaïdi,restaurant,Angers,,,,47.4744981,-0.5524025
+3574466095,node,,viewpoint,Angers,,,,47.4117247,-0.6138881
 3583777532,node,Le Dos de la Cuillère,restaurant,Angers,"35 Rue Toussaint, 49100, Angers",49100,,47.4693254,-0.5563024
+3588204865,node,,memorial,Angers,,,,47.2346479,-0.4859183
 3589528649,node,Badem,restaurant,Angers,,,,47.4741488,-0.5543033
 3589529947,node,L’ardoise,restaurant,Angers,"7 Place Molière, 49000, Angers",49000,https://lardoise-angers.fr/,47.4742688,-0.5545173
 3589529993,node,Hôtel Molière,hotel,Angers,,,https://www.hotel-moliere.net/,47.4738868,-0.5544934
@@ -84,7 +126,10 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3589543645,node,Pizza Tempo,restaurant,Angers,,,,47.4740664,-0.5535961
 3589545968,node,Sagoa,restaurant,Angers,"23bis Rue du Mail, 49100, Angers",49100,,47.474576,-0.5525626
 3589565214,node,Lait thym sel,restaurant,Angers,"17 Rue Boisnet, 49100, Angers",49100,https://laitthymsel.com/,47.4745559,-0.5510139
+3596147825,node,,memorial,Angers,,,,47.4728449,-0.5662894
+3644291674,node,,artwork,Angers,,,,47.4930538,-0.5778602
 3667802483,node,La Guinguette à Jojo,restaurant,Angers,,,https://www.guinguetteajojo.fr/,47.4111917,-0.4320589
+3746870940,node,Château de l'Éperonnière,castle,Angers,,,,47.3411366,-0.6611734
 3784521995,node,Nanooda,restaurant,Angers,"7 Rue du Mail, 49100, Angers",49100,,47.4751885,-0.553533
 3804071885,node,Hôtel-Restaurant Le Lion d'Or,hotel,Angers,,,,47.4046148,-0.9222577
 3817027083,node,Burgers & friends,restaurant,Angers,"1 Rue Thiers, 49100, Angers",49100,https://burgersandfriends.eatbu.com/?lang=fr,47.4763623,-0.5515957
@@ -92,8 +137,13 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3828421153,node,Le Royalty,hotel,Angers,,,,47.4760809,-0.5499026
 3828427409,node,Le Mans,hotel,Angers,,,,47.4760446,-0.5509681
 3928537318,node,Les Petits Prés,restaurant,Angers,"6 Place du Ralliement, 49100, Angers",49100,https://www.lespetitspres.fr/,47.4710883,-0.5524896
+3944469508,node,,artwork,Angers,,,,47.4651936,-0.5569513
 3944605819,node,Asia vietfood,restaurant,Angers,"55 Rue Faidherbe, 49100, Angers",49100,,47.4653096,-0.5604028
 3946836864,node,Markus,hotel,Angers,"21 Foch Boulevard du Maréchal Foch, 49100, Angers",49100,,47.4682313,-0.5503082
+3950139625,node,L’Aphrodite Dansant,artwork,Angers,,,,47.4507481,-0.5421075
+3966691103,node,Le Jeu,castle,Angers,,,,47.3165629,-0.7618347
+3966755149,node,Petit Montaigu,castle,Angers,,,,47.3306941,-0.7469939
+3966805223,node,Grand Montaigu,castle,Angers,,,,47.3302022,-0.7512867
 4023416646,node,La fleur de sel,restaurant,Angers,,,,47.4989441,-0.5236871
 4102341900,node,Le Zinc,restaurant,Angers,,,,47.4699627,-0.5100607
 4115060397,node,Le Bon Cap,restaurant,Angers,9 Quai Gambetta,,,47.3536482,-0.7628239
@@ -114,6 +164,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4556225789,node,Au grain d’Elle,restaurant,Angers,"5 Rue Hoche, 49100, Angers",49100,,47.4676685,-0.5585728
 4556284593,node,Les trois vallées,restaurant,Angers,,,https://restaurant-les-trois-vallees-angers.eatbu.com/?lang=fr,47.4673612,-0.5584364
 4602351217,node,Le triporteur,restaurant,Angers,40 Rue David-d'Angers,,https://www.letriporteurangers.fr/,47.4705375,-0.5485292
+4607571639,node,Château à Motte,castle,Angers,,,,47.5186771,-0.4608798
 4676661589,node,Ciboule & Ciboulette,restaurant,Angers,,,,47.505521,-0.5879843
 4693824393,node,Le Punjab,restaurant,Angers,,,https://www.lepunjab-restaurant-angers.fr/,47.4730875,-0.5490978
 4769513730,node,La Villa Roma,restaurant,Angers,"4 Rue du Val de Sarthe, 49125",49125,http://pizzeriavillaroma-tierce.com,47.6143206,-0.4686123
@@ -122,14 +173,54 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4787096122,node,Ernest'inn,restaurant,Angers,"3 Rue Saint-Maurille, 49100",49100,https://ernest-inn.com,47.4711629,-0.550776
 4787106243,node,La Beeka,restaurant,Angers,,,,47.4749796,-0.5504093
 4787904748,node,Le Napoli,restaurant,Angers,"15 Rue Toussaint, 49100, Angers",49100,,47.4696836,-0.555098
+4793612526,node,Association Sportive de Vol à Voile d'Angers,attraction,Angers,,,,47.5576276,-0.3031723
 4813269815,node,Auberge de Chanteclair,restaurant,Angers,"Quai de la Noë, 49080, Bouchemaine",49080,,47.4221305,-0.6078545
 4885341007,node,Pizza Tempo,restaurant,Angers,"Rue Charles de Gaulle, 49130, Les Ponts-de-Cé",49130,https://www.pizza-tempo.fr/,47.4244551,-0.5250238
+4885341008,node,Paon,garden,Angers,,,,47.4247907,-0.526838
 4885481169,node,Pizza Fresca,restaurant,Angers,"36 bis Rue Charles de Gaulle, 49130, Les Ponts-de-Cé",49130,https://fr-fr.facebook.com/Pizza-Fresca-Burgers-1576241475978334/,47.4233943,-0.5242467
+4920879418,node,Buste de Grégoire Bordillon,memorial,Angers,,,,47.4741615,-0.5622433
 4949540583,node,Chez Pont-Pont,restaurant,Angers,"13 Promenade du Bout du Monde, 49100, Angers",49100,https://chezpontpont.fr/,47.4702161,-0.5580443
+4956311288,node,Chaloché,castle,Angers,,,,47.5537792,-0.3197369
+4956332190,node,Château du Rouvoltz,castle,Angers,,,,47.5391061,-0.2733294
+4956361148,node,La Rochebouët,castle,Angers,,,,47.5425397,-0.3106171
 4958908252,node,Le Comptoir de Marie Bigoude,restaurant,Angers,"Rue Montault, 49100, Angers",49100,,47.4704704,-0.5542194
+5004428923,node,prunelles,attraction,Angers,,,,47.4120495,-0.4727652
+5024076684,node,,viewpoint,Angers,,,,47.4228962,-0.5265996
+5024177510,node,Aux enfants des Ponts de Cé,memorial,Angers,,,,47.4262558,-0.5255864
 5024307650,node,Les 3 Lieux,hotel,Angers,"10 Port des Noues, 49130, Les Ponts-de-Cé",49130,,47.4231332,-0.5267495
+5030694320,node,Stèle “Red Diamond”,memorial,Angers,,,,47.4439667,-0.595309
+5030701098,node,Esplanade Louis Bordier,memorial,Angers,,,,47.4447432,-0.5977114
+5048129915,node,Château d'Orgemont,castle,Angers,,,,47.4429718,-0.539808
+5052055655,node,Château de Souvigné,castle,Angers,,,,47.3592525,-0.5871329
+5052055656,node,Château de Mantelon,castle,Angers,,,,47.3741293,-0.6287903
+5052055657,node,Manoir de Chandemanche,castle,Angers,,,,47.7152696,-0.3681573
+5052055659,node,Château de la Roche-Jacquelin,castle,Angers,,,,47.6711584,-0.3508705
+5052104387,node,Domaine de la Noue,castle,Angers,,,,47.379531,-0.5960619
+5056454285,node,Château de la Romanerie,castle,Angers,,,,47.4836486,-0.5077314
+5056454286,node,Manoir de la Fresnaye,castle,Angers,,,,47.3104892,-0.6666872
+5056454288,node,Manoir du Grand-Loiron,castle,Angers,,,,47.4881945,-0.4411054
+5056454292,node,Manoir Les Grignons,castle,Angers,,,,47.7429831,-0.415737
+5056454293,node,Manoir de Gennetay,castle,Angers,,,,47.7669232,-0.3911546
+5056454299,node,Manoir du Bois-de-l'Humeau,castle,Angers,,,,47.5878642,-0.3142664
+5056454300,node,Manoir de la Brideraie,castle,Angers,,,,47.5836906,-0.3160755
+5056454301,node,Château de la Perraudière,castle,Angers,,,,47.5209449,-0.257256
+5056454320,node,Manoir de Serrain,castle,Angers,,,,47.6672578,-0.2554375
+5056456927,node,Château d'Aubigné,castle,Angers,,,,47.2135615,-0.4618576
 5062783120,node,La Boucherie,restaurant,Angers,,,,47.4679309,-0.5517043
+5119217235,node,Galerie Sonore,museum,Angers,,,,47.4583279,-0.5498221
 5124918535,node,La Goulette,restaurant,Angers,"5 Place Pierre Semard, 49100, Angers",49100,,47.465258,-0.5593217
+5150020441,node,,viewpoint,Angers,,,,47.4369214,-0.604447
+5150020932,node,,viewpoint,Angers,,,,47.4375234,-0.6048337
+5155725930,node,Château de la Piverdière,castle,Angers,750 Route de la Moncellière,,,47.4387222,-0.608803
+5171066629,node,,memorial,Angers,,,,47.4982791,-0.4288423
+5178467133,node,La Pyramide,artwork,Angers,,,,47.4476292,-0.5094173
+5178467160,node,Henous,artwork,Angers,,,,47.4501952,-0.5048251
+5201578432,node,Espace culturel Pierre Audouys,museum,Angers,,,,47.4607708,-0.4880265
+5202430967,node,École de Musique SIAM,museum,Angers,49 Place Jean XXIII,,https://www.siam-49.fr/,47.4684324,-0.4948518
+5215141922,node,Château de la Genaiserie,castle,Angers,,,,47.3344632,-0.6827499
+5216813430,node,,viewpoint,Angers,,,,47.5031223,-0.5277957
+5228150081,node,,viewpoint,Angers,,,,47.4161783,-0.5794977
+5233594597,node,,artwork,Angers,,,,47.493097,-0.5894865
 5235223714,node,Château de Chatillon,restaurant,Angers,,,,47.5234295,-0.5582362
 5270021222,node,Au petit resto,restaurant,Angers,,,,47.476601,-0.5581112
 5291885693,node,Hostellerie du bon Pasteur,hotel,Angers,"18 Rue Marie-Euphrasie Pelletier, 49100, Angers",49100,,47.4709874,-0.5700493
@@ -138,16 +229,39 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5312246803,node,Le bar des bons vivants,restaurant,Angers,"17 Rue Dupetit-Thouars, 49000, Angers",49000,,47.4625157,-0.5523744
 5313783764,node,Mémé dans les Orties,restaurant,Angers,,,,47.4618979,-0.554485
 5314116693,node,L’Astuce,restaurant,Angers,"57 Avenue Victor Châtenay, 49100, Angers",49100,https://restaurant-lastuce-angers.fr/,47.4848368,-0.5173163
+5429590458,node,Musée des coiffes et des traditions,museum,Angers,"4 Rue Charles de Gaulle, 49130, Les Ponts-de-Cé",49130,,47.4252145,-0.5256304
 5550567256,node,Brasserie Chez Sophie,restaurant,Angers,"3 Rue Saint-Gildas, 49320, Coutures",49320,,47.3631678,-0.3544398
 5592368912,node,La Cantine Viêt,restaurant,Angers,"9 Rue de la Roë, 49000, Angers",49000,,47.4735813,-0.5539827
 5592639433,node,Les Casse-Croûte de Suzy,restaurant,Angers,,,https://lescassecroutedesuzy.fr/,47.4723464,-0.552278
 5609850285,node,Martin Pêcheur,restaurant,Angers,,,,47.4092359,-0.3206079
 5614075086,node,Restaurant de la Ferme de l’Île Saint-Aubin,restaurant,Angers,,,,47.5113824,-0.5492792
+5639149715,node,Galerie,gallery,Angers,,,,47.5111321,-0.5492716
 5692621450,node,Le Noë,restaurant,Angers,"Quai de la Noë, 49080, Bouchemaine",49080,,47.421865,-0.6084282
+5700298417,node,,viewpoint,Angers,,,,47.3171841,-0.6178597
+5741800816,node,Château du Vauboisseau,castle,Angers,,,,47.4280471,-0.8600007
 5766607816,node,Le Bistrot des Quais,restaurant,Angers,"19 Quai Gambetta, 49290, Chalonnes sur Loire",49290,https://bistrotdesquais.com/,47.3537995,-0.7633461
+5818665894,node,Monument aux Morts,memorial,Angers,,,,47.3781842,-0.6077765
+5838711185,node,,viewpoint,Angers,,,,47.3983618,-0.3659108
+5838711186,node,,viewpoint,Angers,,,,47.3730657,-0.5997354
+5838711187,node,,viewpoint,Angers,,,,47.3597884,-0.6341568
+5838711188,node,,viewpoint,Angers,,,,47.3426487,-0.6876584
+5838711189,node,,viewpoint,Angers,,,,47.3419713,-0.7037956
+5838711190,node,,viewpoint,Angers,,,,47.3460903,-0.7229807
+5838711191,node,,viewpoint,Angers,,,,47.3473813,-0.7286666
+5839630811,node,,viewpoint,Angers,,,,47.3646312,-0.7976
+5839630812,node,,viewpoint,Angers,,,,47.393245,-0.635549
+5839630813,node,,viewpoint,Angers,,,,47.4301738,-0.6057898
+5839630815,node,,viewpoint,Angers,,,,47.4773538,-0.579955
+5839630816,node,,viewpoint,Angers,,,,47.4818509,-0.5857
+5839630817,node,,viewpoint,Angers,,,,47.4791242,-0.5837297
+5839630818,node,,viewpoint,Angers,,,,47.5303273,-0.6099251
+5841833413,node,,viewpoint,Angers,,,,47.2703191,-0.4978046
 5856720441,node,Au Resto',restaurant,Angers,,,,47.3565177,-0.6554037
 5856720447,node,Le Petit Blaison Côté Restaurant,restaurant,Angers,,,,47.399916,-0.3717716
 5878138984,node,Guinguette Port Gogagne,restaurant,Angers,,,,47.3601455,-0.6553086
+5884631101,node,,viewpoint,Angers,,,,47.4861849,-0.5539539
+5884631102,node,,viewpoint,Angers,,,,47.3958636,-0.4182705
+5884631103,node,,viewpoint,Angers,,,,47.4036368,-0.5457585
 5888930504,node,Le Chenin,restaurant,Angers,,,,47.3828706,-0.6571321
 5893295285,node,Guinguette Port de Vallée,restaurant,Angers,,,,47.413765,-0.4082194
 5896873755,node,Gueuleton,restaurant,Angers,"14 Rue de la Roë, 49000, Angers",49000,https://www.gueuleton.fr/gueuleton-angers/,47.4733046,-0.5538969
@@ -156,11 +270,26 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5899928985,node,L'Eau à la Bouche,restaurant,Angers,"31 Quai des Carmes, 49100",49100,,47.4723597,-0.5605079
 5899929085,node,La Péniche,restaurant,Angers,"Quai Des Carmes, 49100, Angers",49100,https://www.peniche-angers.fr,47.4721509,-0.5608928
 5899993301,node,La Ferme,restaurant,Angers,"2 Place Freppel, 49100, Angers",49100,,47.4705162,-0.5557966
+5901430472,node,Parc Sainte-Anne,park,Angers,,,,47.4419043,-0.5317408
 5902329618,node,Thai addict,restaurant,Angers,,,,47.4733939,-0.5542469
 5904513739,node,Daddy,restaurant,Angers,"22 Rue Parcheminerie, 49100, Angers",49100,,47.4736705,-0.5532395
+5920992272,node,Stèle 1er aoüt 1944,memorial,Angers,,,,47.5118363,-0.6908534
+5929453410,node,Donjon,viewpoint,Angers,,,,47.5440444,-0.6765996
+5929497059,node,,artwork,Angers,,,,47.4698181,-0.5444415
+5929497069,node,,artwork,Angers,,,,47.4702019,-0.5462165
+5929497070,node,Vénus d’Arles,artwork,Angers,,,,47.4705573,-0.5459615
+5929524719,node,Jeanne d’Arc,artwork,Angers,,,,47.4667366,-0.5353841
+5930004793,node,Bocage,viewpoint,Angers,,,,47.5440017,-0.6785697
 5934084764,node,,restaurant,Angers,"51 Rue Jules Guitton, 49100, Angers",49100,,47.4734769,-0.5461498
 5934376148,node,Chez Minh,restaurant,Angers,,,,47.4661401,-0.5469871
+5939595595,node,La Roussière,castle,Angers,,,,47.572839,-0.6477182
+5942436111,node,,viewpoint,Angers,,,,47.5073639,-0.6733523
 5952348261,node,Mercure,hotel,Angers,"18 Boulevard du Maréchal Foch, 49100, Angers",49100,,47.469202,-0.5497414
+5963541585,node,David d'Angers,artwork,Angers,,,,47.4700502,-0.5476391
+5963567683,node,,artwork,Angers,,,,47.4645034,-0.5483288
+5963934144,node,,artwork,Angers,,,,47.4718821,-0.548183
+5964002582,node,,artwork,Angers,,,,47.4926131,-0.5911763
+5970157610,node,"Stèle ""Petit Anjou""",memorial,Angers,,,,47.4435697,-0.5883737
 6000019039,node,Le Comptoir Phénicien,restaurant,Angers,,,,47.4738144,-0.5825549
 6008051961,node,Paku Paku,restaurant,Angers,"38 Rue Bressigny, Angers",,https://paku-paku.fr/,47.4673608,-0.5500262
 6022982094,node,Hôtel Formule 1 Angers Ouest Beaucouzé,hotel,Angers,,,,47.4659075,-0.6344253
@@ -175,8 +304,17 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 6023530383,node,Le Saint-Benoît,restaurant,Angers,8 Avenue Paul Prosper Guilhem,,,47.468535,-0.6160315
 6023531796,node,Hôtel Kyriad,hotel,Angers,,,,47.4620774,-0.6175575
 6023531797,node,Bella Vitta,restaurant,Angers,,,,47.4617212,-0.6178071
+6023557549,node,Château de Mollière,castle,Angers,"49070, Beaucouzé",49070,,47.4645124,-0.6099168
 6028363421,node,Bistrot Jules,restaurant,Angers,,,,47.4603266,-0.6169149
 6034566866,node,Poulet Braisé,restaurant,Angers,56 Rue Jules Guitton,,,47.473369,-0.5466032
+6051726413,node,,artwork,Angers,,,,47.4742609,-0.5447182
+6051726424,node,Nymphe surprise,artwork,Angers,,,,47.4755364,-0.545248
+6051726425,node,,artwork,Angers,,,,47.4754601,-0.5447354
+6051726426,node,La matinée,artwork,Angers,,,,47.4748713,-0.5450295
+6060657609,node,Statue de Notre-Dame de Béhuard,memorial,Angers,,,,47.379998,-0.6437121
+6060657639,node,Carillon,attraction,Angers,,,,47.3788865,-0.6439051
+6060657641,node,Plaque commémorative 1945-1970,memorial,Angers,,,,47.3796422,-0.6431187
+6061145833,node,Moulin-Guérin,viewpoint,Angers,,,,47.3333945,-0.668365
 6067268886,node,Potiron & Ciboulette,restaurant,Angers,57 Rue Baudrière,,https://www.potironetciboulette.fr/,47.4717828,-0.5551603
 6067283085,node,Dazuma,restaurant,Angers,44 Rue Beaurepaire,,,47.4747072,-0.5606327
 6124818693,node,Crêperie des Angles,restaurant,Angers,"13B Boulevard du Maréchal Foch, 49100, Angers",49100,,47.4688285,-0.5494688
@@ -184,16 +322,37 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 6176559387,node,Terrasse de l’abbaye,restaurant,Angers,,,,47.4219637,-0.6087428
 6176585387,node,La Brasserie de la Maine,restaurant,Angers,,,,47.4205476,-0.6103951
 6176664689,node,Le Win's,restaurant,Angers,,,,47.4519092,-0.5556777
+6181859000,node,,viewpoint,Angers,,,,47.5307543,-0.604785
+6190052542,node,,memorial,Angers,,,,47.4237484,-0.5599152
 6241800140,node,Relais Saint-Barth,restaurant,Angers,"11, 49124, Saint-Barthélemy-d'Anjou",49124,,47.4669084,-0.4961437
+6265893148,node,,viewpoint,Angers,,,,47.4365112,-0.6043423
 6306127385,node,Le Pont aux Filles,restaurant,Angers,,,,47.5122462,-0.5142151
 6320578845,node,O Bistrot d'LN,restaurant,Angers,"106 Rue des Ponts-de-Cé, 49000, Angers",49000,https://obistrotdln.com/o-bistrot-d-ln,47.4520447,-0.538265
 6371909188,node,Hôtel Le Progrès,hotel,Angers,,,,47.4651422,-0.5581024
+6412349089,node,La Symphonie du Chêne,attraction,Angers,,,,47.502647,-0.5690596
+6413739559,node,Le Colporteur de rêves,attraction,Angers,,,,47.5029676,-0.5700047
+6413739560,node,Voyage en coquille de noix,attraction,Angers,,,,47.5024299,-0.5687399
+6414229383,node,Arrosoir,artwork,Angers,,,,47.5020547,-0.5712749
+6414229491,node,Globe,artwork,Angers,,,,47.5015072,-0.5721459
+6414397830,node,Mammouth,artwork,Angers,,,,47.5015195,-0.5690571
+6415853763,node,Carcasse de bateau,artwork,Angers,,,,47.5008111,-0.5716099
 6415856819,node,,restaurant,Angers,,,,47.5010015,-0.5708655
 6479181823,node,Ribote,restaurant,Angers,"30 Rue Delaâge, 49100, Angers",49100,,47.4671044,-0.5566303
 6525011759,node,Hôtel d'Anjou,hotel,Angers,Boulevard du Maréchal Foch,,https://www.hoteldanjou.fr/,47.4697536,-0.5482846
+6540951981,node,Monument aux morts,memorial,Angers,,,,47.4580723,-0.6701623
+6547003107,node,Table au Roi,attraction,Angers,,,https://www.ville-durtal.fr/decouvrir-durtal/balades/la-foret-de-chambiers/foret-de-chambiers/,47.6331947,-0.2489743
+6563580324,node,Stèle du Petit Anjou,memorial,Angers,,,https://www.petit-anjou.fr/index.php/2015-07-23-17-03-07/en-loire-beconnais#images,47.4583239,-0.6662772
+6569958467,node,Monument aux morts,memorial,Angers,,,,47.4581458,-0.6687084
+6572640888,node,Plaque pour la Paix,memorial,Angers,,,,47.4581508,-0.6700932
+6597190558,node,,memorial,Angers,,,,47.331132,-0.6707091
+6597190580,node,,memorial,Angers,,,,47.3306551,-0.6709284
+6603899021,node,,viewpoint,Angers,,,,47.3985859,-0.626651
 6644560595,node,La Pause,restaurant,Angers,"54 Rue de la Liberté, 49070, Saint Jean de Linières",49070,https://www.gralon.net/restaurants-france/maine-et-loire/restaurant-la-pause-saint-jean-de-linieres-2319.htm,47.4653569,-0.6690727
+6651743921,node,Envol,artwork,Angers,,,,47.4670399,-0.5448791
+6703104594,node,Obélisque,memorial,Angers,,,,47.3142767,-0.6057466
 6722822045,node,Le Grandgousier,restaurant,Angers,"7 Rue Saint-Laud, 49100, Angers",49100,https://legrandgousier.fr/,47.4727204,-0.5520303
 6723499254,node,La Strada,restaurant,Angers,40 Rue Bressigny,,,47.4672573,-0.5498281
+6742704045,node,,viewpoint,Angers,,,,47.4726768,-0.558228
 6783252485,node,Barco Vino,restaurant,Angers,"Quai des Carmes, 49100, Angers",49100,https://www.barcovino.com/,47.4727309,-0.559981
 6789256838,node,Croccante,restaurant,Angers,"54 Rue du Mail, 49100, Angers",49100,,47.473643,-0.5511985
 6857251808,node,Les Mari Morgans,restaurant,Angers,,,http://restaurant-les-mari-morgans.com/,47.6154499,-0.4682661
@@ -201,58 +360,85 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 6857257455,node,Au Grenier à Blé,restaurant,Angers,,,,47.6169129,-0.4685135
 6857302202,node,Mona Pizza,restaurant,Angers,,,,47.6146515,-0.4668016
 6870095037,node,Le Paloma,restaurant,Angers,7 Rue Grille,,,47.4744435,-0.5612837
+6871200138,node,Four à chaux de la petite brosse,attraction,Angers,,,,47.314115,-0.6777
 6902569966,node,Tran,restaurant,Angers,,,,47.4674717,-0.5249426
 6902569967,node,L’Ancre,restaurant,Angers,,,,47.4673945,-0.5247062
 6902569973,node,Francesca,restaurant,Angers,,,https://www.francesca.com/,47.4677652,-0.5250265
 6908323072,node,Made Burger,restaurant,Angers,,,,47.466594,-0.5222647
 6909853140,node,Pizza Tempo,restaurant,Angers,,,,47.4674817,-0.5243144
+6927436458,node,La jeune fille en ville,artwork,Angers,,,,47.4731732,-0.5497883
+6934289766,node,,viewpoint,Angers,,,,47.4781851,-0.5804952
+6934289768,node,,viewpoint,Angers,,,,47.4858612,-0.5995895
+6934345681,node,,viewpoint,Angers,,,,47.4197602,-0.5245887
+6950222676,node,Saint Sépulcre d'angers,memorial,Angers,,,,47.4559155,-0.5204098
 6981114605,node,L'Ardoise,restaurant,Angers,,,https://lardoise-brissac.com/,47.3549217,-0.4487403
+6983125944,node,L'Épi--,gallery,Angers,,,,47.4031423,-0.9218179
 7021315531,node,L'Académie,restaurant,Angers,"7 Place de l’Académie, 49000, Angers",49000,,47.4676342,-0.5588859
 7027885482,node,Ibis Styles Angers Centre Gare,hotel,Angers,"23 bis Rue Paul Bert, 49100, Angers",49100,https://all.accor.com/hotel/6920/index.fr.shtml,47.4655897,-0.5505038
 7031750741,node,Le Zinc à Crêpes,restaurant,Angers,42 Avenue Besnardière,,,47.4776032,-0.5466093
 7070213677,node,Chez Clem's,restaurant,Angers,,,,47.4788912,-0.5449122
 7070213678,node,La table 33,restaurant,Angers,"33 Avenue Besnardière, 49100, Angers",49100,https://www.latable33.fr/,47.4782013,-0.5456083
+7080682435,node,,artwork,Angers,,,,47.4661673,-0.5448465
 7087821415,node,Restaurant Iki,restaurant,Angers,,,,47.4680447,-0.5465634
+7093266728,node,Plaque Commémorative J Hervé Bazin,memorial,Angers,,,,47.4615685,-0.5579489
 7093902198,node,Affamés,restaurant,Angers,,,,47.4627438,-0.5598843
 7093902199,node,La Passerelle,restaurant,Angers,,,,47.4626997,-0.5603306
+7108821708,node,Jean Moulin,artwork,Angers,,,,47.4906172,-0.5485386
+7108821711,node,,artwork,Angers,,,,47.4648466,-0.5657309
 7134125085,node,Autour d'un Cep,restaurant,Angers,"9 Rue Baudrière, 49100, Angers",49100,https://www.autourduncep.com/,47.4721944,-0.5567657
 7134309385,node,Le 15 Gourmand,restaurant,Angers,15 Boulevard du Maréchal Foch,,,47.4686382,-0.5497935
 7134312286,node,Le Relais,restaurant,Angers,"9 Rue de la Gare, 49100, Angers",49100,https://lerelais-angers.fr/,47.465873,-0.5569372
 7134337385,node,Gribiche,restaurant,Angers,9 Rue Max Richard,,,47.4657291,-0.5581278
+7141333243,node,La Sagesse,artwork,Angers,,,,47.4744449,-0.5462537
 7152468008,node,Royal Panda,restaurant,Angers,,,,47.4880531,-0.5438393
 7153861285,node,Le Hangar de Christy,restaurant,Angers,"7 Rue Charles Sauria, 49130",49130,,47.4405978,-0.5036895
+7174286547,node,La Grande Toccata,artwork,Angers,,,,47.4484266,-0.5383126
 7182316438,node,Signorizza,restaurant,Angers,,,,47.4679713,-0.5506559
 7182316441,node,Le Saigon,restaurant,Angers,83 Rue Bressigny,,,47.4662972,-0.5473443
 7182316442,node,Meet Noodle,restaurant,Angers,,,,47.4677245,-0.5505694
 7182316443,node,Tokyo Foch,restaurant,Angers,,,,47.4679203,-0.5507219
 7182316446,node,India,restaurant,Angers,,,https://www.india49.com/,47.4684234,-0.5491556
+7188788979,node,,viewpoint,Angers,,,,47.4692386,-0.577783
 7227294285,node,Foodista,restaurant,Angers,"8 Rue Boisnet, 49100, Angers",49100,,47.4750121,-0.5503256
+7236487278,node,,artwork,Angers,,,,47.4479972,-0.4681218
+7236487283,node,Résistance,artwork,Angers,,,,47.4456376,-0.4666568
 7236559587,node,Auberge de la Mairie,restaurant,Angers,,,,47.44564,-0.4676211
 7304548467,node,La Soufflerie,restaurant,Angers,"8 Place du Pilori, 49100, Angers",49100,https://www.lasoufflerieangers.fr/,47.4730206,-0.5501557
 7316107418,node,Belle Poule,restaurant,Angers,,,,47.4226407,-0.4952745
+7328443485,node,Château de l'Épinay,castle,Angers,,,,47.3923112,-0.7938192
 7357103918,node,Le Petit Manoir,restaurant,Angers,"12 Rue Armand Brousse, 49610, Saint-Melaine-sur-Aubance",49610,,47.3703846,-0.4965403
 7419182234,node,Chez Oki,restaurant,Angers,"12 Avenue Pasteur, 49100, Angers",49100,,47.4718364,-0.5420236
 7419566219,node,Au comptoir de l'Inde,restaurant,Angers,11 Place Pierre Mendès-France,,,47.4728928,-0.5452739
 7419566220,node,Love e Basta,restaurant,Angers,"10 Place Pierre Mendès France, 49100, Angers",49100,https://www.loveebasta.com/,47.4730433,-0.546151
 7486396767,node,Restaurant Club-House L'Auberge du Moulin,restaurant,Angers,,,,47.4033045,-0.4531629
 7487428728,node,Le P'tit Birdie,restaurant,Angers,"La Béchalière, 49480, Saint Sylvain d'anjou",49480,https://www.golfdesaintsylvain.com/restaurant-golf-saint-sylvain-anjou.html,47.5092807,-0.480071
+7622935926,node,Château de Saint-Offange,ruins,Angers,,,,47.361473,-0.6651073
 7657360628,node,Le clos du Roi,restaurant,Angers,,,,47.4696505,-0.5589885
+7657360663,node,Tour du moulin,viewpoint,Angers,,,,47.4708143,-0.5597034
+7687700531,node,Hommage aux combattants de la Résistance,memorial,Angers,,,,47.4906468,-0.5486196
+7736885589,node,Buste du docteur Garnier,artwork,Angers,,,,47.4752631,-0.5621496
+7761448462,node,Château De Fesles,castle,Angers,,,http://www.fesles.com/fr,47.2644629,-0.4717253
 7793747585,node,La Corniche restaurant,restaurant,Angers,4 Route de la Corniche Angevine,,,47.3423493,-0.6927855
 7833232058,node,Le strapontin,restaurant,Angers,,,,47.4705681,-0.5518483
 7833232069,node,Trésors du liban,restaurant,Angers,"4 Rue des Lices, 49100, Angers",49100,https://www.tresorsduliban.fr/,47.4690698,-0.5532979
 7857656357,node,Le Soph't,restaurant,Angers,,,,47.3316363,-0.4777059
 7857677629,node,Les 2 terrasses,restaurant,Angers,,,,47.3543235,-0.4480838
+7923594774,node,Théâtre de verdure,attraction,Angers,,,,47.4550165,-0.4917985
+7945405174,node,La Pyramide,memorial,Angers,,,,47.4405515,-0.4890916
 8084898960,node,Pizza Tempo,restaurant,Angers,13 Place de l'Hôtel de Ville,,https://commande.pizza-tempo.fr/restaurant/pizza-tempo-chalonnes-sloire?utm_source=Google&utm_medium=MyBusiness,47.3514079,-0.7634657
 8084956582,node,californian sushi,restaurant,Angers,"2 Rue Nationale, 49290, Chalonnes sur Loire",49290,,47.3533275,-0.7625151
-8174541589,node,L'audacieuse,guest_house,Angers,,,https://restaurantlaudacieuse.com/,47.3803692,-0.6436148
+8119026257,node,Mémorial de la bataille de Pont-Barré,memorial,Angers,,,,47.3178286,-0.5802807
+8174541589,node,L'audacieuse,restaurant,Angers,,,https://restaurantlaudacieuse.com/,47.3803692,-0.6436148
 8223135592,node,Le Fraternity,restaurant,Angers,,,,47.7004193,-0.3634716
 8223843720,node,Le Relais du Porage,restaurant,Angers,,,,47.6833179,-0.4365687
 8255012001,node,"Pastels, wax et cie",restaurant,Angers,,,https://www.pastelswaxetcie.com/,47.4589973,-0.5454127
+8270824717,node,,artwork,Angers,,,,47.4816597,-0.556575
 8286151519,node,Hôtel des Lices,hotel,Angers,,,,47.4681739,-0.5544728
 8286151520,node,Yakitori,restaurant,Angers,,,,47.4681525,-0.5545074
 8286178812,node,Gustave et Claude,restaurant,Angers,"10 Rue Saint-Aubin, 49100, Angers",49100,https://www.gustaveetclaude.com/,47.4697426,-0.5539068
 8286178814,node,Heiko,restaurant,Angers,"12 Rue Saint-Aubin, 49100, Angers",49100,https://www.heiko-poke.com/angers/,47.4695579,-0.5536868
 8305300404,node,La Scierie,hotel,Angers,,,,47.5545981,-0.3821135
+8329756558,node,Abstract Thing,artwork,Angers,,,,47.4732183,-0.5549985
 8329787764,node,MC Tacos,restaurant,Angers,,,,47.4734101,-0.5546586
 8329831847,node,Lela,restaurant,Angers,,,,47.473299,-0.5550723
 8329956504,node,Le P'tit Daz,restaurant,Angers,"21 Place Molière, 49100, Angers",49100,,47.4737389,-0.5553943
@@ -262,63 +448,127 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 8331289457,node,My Gyoza,restaurant,Angers,"36 Rue du Cornet, 49000, Angers",49000,https://www.mygyoza.fr/,47.473081,-0.5517003
 8331289461,node,Cahupa,restaurant,Angers,"14 Rue Bodinier, 49100, Angers",49100,,47.4728477,-0.5528948
 8331334477,node,California,restaurant,Angers,,,,47.4730391,-0.5509187
+8334430641,node,,artwork,Angers,,,,47.468312,-0.5785386
 8334430665,node,Crêperie du château,restaurant,Angers,,,,47.4706412,-0.558184
+8334430670,node,,memorial,Angers,,,,47.4643872,-0.5575279
 8334430686,node,Maison Katora,restaurant,Angers,"4 Rue d'Anjou, 49100, Angers",49100,,47.4661571,-0.5567954
+8334430689,node,Chalybis aesculus,artwork,Angers,,,,47.469374,-0.5781972
 8334430711,node,Kazumi,restaurant,Angers,"3 Rue d'Anjou, 49100, Angers",49100,https://restaurant-kazumi.com/,47.4663261,-0.556737
+8366538109,node,Musée des boissons,museum,Angers,,,https://www.musee-boissons.com/,47.4270921,-0.5503874
+8402036111,node,Galerie JL Fine Art,gallery,Angers,17 Rue Toussaint,,,47.4696081,-0.5552964
 8402036113,node,Hôtel Marguerite d’Anjou,hotel,Angers,,,https://hma-hotel.com/,47.4690274,-0.5578022
+8420797741,node,,memorial,Angers,,,,47.3393271,-0.3591666
+8437631908,node,,memorial,Angers,,,,47.2674606,-0.503283
 8454889792,node,Barth’ pizzas,restaurant,Angers,,,http://www.barthpizzas49.fr/,47.4668992,-0.4958209
 8457294549,node,Fine & Za,restaurant,Angers,"2 Rue Jean-Jaurès, 49124, Saint-Barthélemy-d'Anjou",49124,https://fineandza.com/,47.4665754,-0.4935198
 8463123419,node,Royal Hotel,hotel,Angers,,,,47.4667315,-0.5575804
+8463640126,node,Color Pencil Composition,artwork,Angers,,,,47.4731014,-0.5543632
 8463640166,node,220° Celsius,restaurant,Angers,1 Rue Saint-Aubin,,https://www.facebook.com/220celsius,47.4700038,-0.5540233
 8515352149,node,Tonton Foch,restaurant,Angers,"4 Boulevard du Maréchal Foch, 49100",49100,https://www.tontonfoch.com/,47.4701912,-0.5483954
 8515367065,node,Joe Carpa,restaurant,Angers,"16 Boulevard du Maréchal Foch, 49100, Angers",49100,https://joecarpa.fr/,47.4692546,-0.5495964
+8541156097,node,,artwork,Angers,,,,47.4565019,-0.5091481
 8544980578,node,Santosha,restaurant,Angers,3 Rue Saint-Laud,,,47.4728163,-0.551862
+8558173924,node,Le Bal des Samares,artwork,Angers,,,,47.4179325,-0.4386589
+8565460411,node,,artwork,Angers,,,,47.4697114,-0.4906726
+8567177815,node,50ème anniversaire – 125ème R.I.,memorial,Angers,,,,47.4669957,-0.4851753
+8568783919,node,Ancien couvent des Jacobins,memorial,Angers,,,,47.4700135,-0.5562873
 8568931894,node,Cambodia Street Food,restaurant,Angers,"10 Rue des Deux-Haies, 49100, Angers",49100,https://cambodia-streetfood.fr/,47.4716213,-0.5528046
 8568939962,node,Numéro 10 Street Pizza,restaurant,Angers,10 Rue des Angles,,https://numero-dix.com/,47.4702938,-0.551079
 8568991690,node,Nuabol,restaurant,Angers,4 Rue Saint-Maurille,,,47.4710361,-0.5505858
+8569262291,node,Les Écouteurs,artwork,Angers,,,,47.4720967,-0.5501591
+8569311182,node,Sunset,artwork,Angers,,,,47.4721795,-0.5518706
 8605876118,node,Maison Watson,restaurant,Angers,"41 Rue Plantagenêt, 49100, Angers",49100,,47.4722786,-0.5543649
+8645182740,node,,artwork,Angers,,,,47.4573279,-0.5335544
+8662320142,node,Belvédère de Grésillé,viewpoint,Angers,,,,47.4562833,-0.6008363
+8690681671,node,Dumnac Chef des Andegaves,artwork,Angers,,,,47.421292,-0.5235331
+8692755150,node,Monument Républicain,memorial,Angers,,,,47.4034984,-0.543954
 8772675404,node,Les Tilleuls,restaurant,Angers,,,,47.6363909,-0.295224
+8794317949,node,,artwork,Angers,,,,47.4702514,-0.5466386
+8794317950,node,,artwork,Angers,,,,47.4703523,-0.5469369
 8822458861,node,Pok Ïno,restaurant,Angers,"61 Rue Saint-Laud, 49100",49100,https://pok-ino.fr/,47.471623,-0.5536427
 8829338153,node,Café Bondu,restaurant,Angers,,,,47.3550456,-0.7616583
+8838968323,node,L’Arbre aux serpents,artwork,Angers,,,,47.4687994,-0.5549949
 8841349243,node,Une Fille & Des Quilles,restaurant,Angers,,,,47.471671,-0.5553457
 8841349244,node,Grusson,restaurant,Angers,"68 Rue Baudrière, 49100, Angers",49100,,47.4716484,-0.5552574
 8841451162,node,Reste au 51,restaurant,Angers,"51 Rue Plantagenêt, 49100",49100,https://www.reste-au-51-restaurant-angers.com,47.4720591,-0.5541544
 8841451163,node,Icerolls & co,restaurant,Angers,Place de la République,,https://icerollsco.eatbu.com/?lang=fr,47.4721471,-0.5550845
+8841563974,node,Près de nous,artwork,Angers,,,,47.4684619,-0.5557504
 8871212897,node,Les Fils à Maman,restaurant,Angers,"Place du Pilori, 49100, Angers",49100,https://www.lesfilsamaman.com/restaurants/angers/,47.4733063,-0.5498807
 8871268519,node,Barbecue Party,restaurant,Angers,"69 Rue du Mail, 49100, Angers",49100,https://barbecue-party.webador.fr/carte,47.4729303,-0.5497158
 8874505861,node,Buffalo Grill,restaurant,Angers,,,,47.4317968,-0.4994825
 8879219102,node,Frikadel,restaurant,Angers,"24 Avenue Pasteur, 49100, Angers",49100,https://lesfolies.coop/cafe-barrestaurant/espace-restauration/,47.4722821,-0.5405751
+8889793683,node,,memorial,Angers,,,,47.4679142,-0.5562555
+8938811120,node,,artwork,Angers,,,,47.479588,-0.5583845
 8944432236,node,La Gabare,restaurant,Angers,,,https://www.slow-village.fr/loire-vallee/restauration/,47.4249678,-0.5288098
+8944546209,node,,artwork,Angers,,,,47.4441011,-0.5026718
 8952224925,node,La Tour de Pise,restaurant,Angers,"70 Rue Jules Guitton, 49100, Angers",49100,,47.4732963,-0.5460989
 8952224932,node,Le Poulet bicyclette,restaurant,Angers,39 Rue Jules Guitton,,,47.4735195,-0.5465111
 8952224936,node,Chez Amine,restaurant,Angers,"53 Rue Jules Guitton, 49100, Angers",49100,,47.4734539,-0.5460611
 8952224942,node,Sawasdee Bangkok,restaurant,Angers,,,,47.4741893,-0.5472402
 8957968365,node,Signorizza,restaurant,Angers,8 Rue Papiau de la Verrie,,https://www.signorizza.com/pizzeria/signorizza-pizzeria-a-angers-orgemont/,47.4442562,-0.5461666
 8957968367,node,La Taverne,restaurant,Angers,11 Rue Papiau de la Verrie,,https://www.lesrelaisdalsace.com/,47.4441389,-0.5464141
+8968457791,node,,artwork,Angers,,,,47.4205372,-0.3908293
+8968457800,node,Carn’Acier,artwork,Angers,,,https://www.gari-sculpteur.com/works.php5?id=carn_acier&themeid=poissons,47.4204796,-0.3907811
+8983350118,node,Le jardin des Kangourous,attraction,Angers,"Route de Savennière - D-311, 49170",49170,https://www.lejardindeskangourous.com/,47.3893152,-0.7102693
+8996720338,node,,memorial,Angers,,,,47.4522123,-0.8952922
+9022223995,node,,memorial,Angers,,,,47.34393,-0.6917337
 9028285174,node,Mamie Fada,restaurant,Angers,"18 Quai des Carmes, 49100, Angers",49100,https://www.mamiefada.com/,47.4726622,-0.5609564
 9028285176,node,Pizza Micky,restaurant,Angers,,,,47.4743526,-0.5605733
+9043676806,node,,memorial,Angers,,,,47.4743373,-0.5415056
+9051640276,node,,attraction,Angers,,,,47.5016261,-0.570611
+9051744173,node,,memorial,Angers,,,,47.4571419,-0.5681693
+9051744607,node,Terra réalité virtuelle,attraction,Angers,,,,47.5011225,-0.5689901
+9103458722,node,Skoubi Parc,theme_park,Angers,,,,47.4757327,-0.5204324
 9104297178,node,La Douce Heure,restaurant,Angers,,,,47.4545495,-0.5741872
+9124761058,node,,artwork,Angers,,,,47.5024635,-0.5702367
 9177966192,node,Le Raboliot,restaurant,Angers,,,https://raboliot-pizzaresto.eatbu.com/?lang=fr,47.4781306,-0.5433203
 9178347388,node,Brasserie Lafayette,restaurant,Angers,"11 Place Lafayette, 49000, Angers",49000,,47.4629095,-0.5540438
+9230337299,node,,artwork,Angers,,,,47.5031954,-0.5692278
+9230337301,node,Lokas,artwork,Angers,,,,47.5034463,-0.5696562
+9233077393,node,,artwork,Angers,,,,47.5030385,-0.5689173
 9233275103,node,Angkor,restaurant,Angers,6 bis,,,47.4660259,-0.5566103
 9233755379,node,Grand Hôtel de la Gare,hotel,Angers,49100,49100,https://www.grandhoteldelagare-angers.com/,47.465437,-0.5565577
 9233755381,node,Hôtel de France,hotel,Angers,,,,47.4653565,-0.5574484
+9254475317,node,Château de Mené,castle,Angers,,,,47.6413404,-0.2216506
 9263864127,node,Taj Tandoor Angers,restaurant,Angers,,,,47.4813891,-0.5231313
+9331415277,node,Sainte-Marie,memorial,Angers,,,,47.4015373,-0.9318598
 9342269398,node,Fouées Gargantua,restaurant,Angers,"11 rue de la Gare, 49100, Angers",49100,https://www.foueesgargantua.fr,47.4658087,-0.5569234
 9370542882,node,Le P'tit Breton,restaurant,Angers,,,,47.4731302,-0.5492552
+9371059538,node,Pont,ruins,Angers,,,,47.4897148,-0.6132523
 9373166755,node,Anjou à l’Océane,hotel,Angers,,,,47.5247929,-0.4291487
 9373166756,node,Les Toqués d’Anjou,restaurant,Angers,,,,47.5249698,-0.4284493
 9375858790,node,La Promenade,restaurant,Angers,,,,47.5218675,-0.4377045
 9401901639,node,Patachée,restaurant,Angers,,,,47.5066885,-0.5894637
+9401901759,node,,artwork,Angers,,,,47.5050083,-0.5905265
+9412434901,node,Aux Enfants de Juigné-sur-Loire Morts pour la France,memorial,Angers,,,,47.4067379,-0.475211
 9413100339,node,Loire & Sens,hotel,Angers,,,,47.4028371,-0.4729217
 9419918829,node,Sauvage,restaurant,Angers,,,,47.3940384,-0.4366871
+9419918888,node,,memorial,Angers,,,,47.394929,-0.43696
+9426595671,node,,memorial,Angers,,,,47.3313891,-0.4772701
+9434432691,node,Auriga,artwork,Angers,,,,47.4664337,-0.525471
+9434694875,node,Matin ou Mélancolie,artwork,Angers,,,,47.4713704,-0.5542998
+9434744457,node,Le Messager,artwork,Angers,,,,47.462736,-0.5537861
+9434827346,node,L’Ours,artwork,Angers,,,,47.4628773,-0.5995357
+9444725448,node,Parc de l'enclos,park,Angers,"49750, Val-du-Layon",49750,,47.3013362,-0.6295903
 9455668278,node,Le Rétro,restaurant,Angers,,,,47.4415713,-0.5718403
+9463157487,node,,memorial,Angers,,,,47.4461112,-0.4122288
+9540232373,node,Cabaret des Belles Poules,attraction,Angers,,,,47.2323386,-0.4801654
 9548304848,node,Sol e Luna,restaurant,Angers,"14 Boulevard Robert, 49100",49100,https://www.sol-e-luna.fr/,47.4775679,-0.5525129
+9550281141,node,Pomone,artwork,Angers,,,,47.4736743,-0.5670773
+9551485171,node,Marguerite d’Anjou,artwork,Angers,,,,47.4665208,-0.5571473
+9551487457,node,Monument aux morts d’Angers,memorial,Angers,,,,47.4710653,-0.5444609
+9552020771,node,Le Bistrot,gallery,Angers,,,,47.3830205,-0.6571702
 9552088931,node,Le Tam's,restaurant,Angers,"62 Promenade de Reculée, 49100, Angers",49100,,47.4848812,-0.5516061
 9552088932,node,Belle Rive,restaurant,Angers,"32 Promenade de Reculée, 49100, Angers",49100,https://www.restaurant-bellerive.com/,47.4871031,-0.5498412
+9553928291,node,Beaurepaire,artwork,Angers,,,,47.4731901,-0.5584614
+9554866758,node,Monseigneur Freppel,artwork,Angers,,,,47.4701557,-0.5543123
 9724610677,node,,hotel,Angers,,,,47.6607583,-0.4232929
+9724736452,node,,memorial,Angers,,,,47.3539232,-0.4484566
+9727894287,node,,memorial,Angers,,,,47.4455851,-0.4650004
 9739243669,node,Auberge de la Roche,restaurant,Angers,,,https://www.auberge-de-la-roche.com/,47.4580951,-0.6579673
 9870959824,node,Sushi House,restaurant,Angers,"11 Rue Auguste Gautier, 49100, Angers",49100,,47.4643712,-0.5602301
+9907232925,node,,memorial,Angers,,,,47.4711874,-0.5468646
+9913849107,node,Plage Naturiste,beach,Angers,,,,47.4173721,-0.4536277
 9954271517,node,Bistrot de l’écluse,restaurant,Angers,,,,47.5741693,-0.648673
 9977756202,node,Chez Mat,restaurant,Angers,3016 Route Nationale,,,47.4102805,-0.936445
 9999289971,node,Mauvaise Graine,restaurant,Angers,"27 Rue Beaurepaire, 49100, Angers",49100,https://mauvaisegraineangers.fr,47.4740819,-0.5600936
@@ -326,24 +576,68 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 10025618385,node,Crêperie Marie Mil'Goules,restaurant,Angers,"7 Impasse Toussaint, 49100, Angers",49100,https://creperie-mil-goules.paqe.io/,47.4687121,-0.5574373
 10033794543,node,Au p'tit restaurant du Château,restaurant,Angers,,,,47.5915156,-0.5553004
 10044178140,node,Le 300,restaurant,Angers,"14 Avenue Paul Prosper Guilhem, 49070, Beaucouzé",49070,,47.4693423,-0.6139716
+10085080094,node,Ruine du chäteau de la forteresse de la Roche aux Moines,ruins,Angers,,,,47.3906558,-0.6384742
+10087854023,node,Les têtes de l'art Sculpture,gallery,Angers,,,,47.5318167,-0.5688916
 10087960045,node,Le Château de Briançon,hotel,Angers,"846 Route de Briançon, 49140, Bauné",49140,,47.50188,-0.3502641
+10112150696,node,,viewpoint,Angers,,,,47.3182019,-0.6216327
+10112150697,node,,viewpoint,Angers,,,,47.31787,-0.6199135
+10167415600,node,Marquis de Bonchamps,artwork,Angers,,,,47.469232,-0.5560437
+10167415601,node,Condé,artwork,Angers,,,,47.4690579,-0.5556263
+10167415602,node,La jeune Grecque,artwork,Angers,,,,47.4690903,-0.5557036
+10167415603,node,Jean Bart,artwork,Angers,,,,47.4691786,-0.5557941
+10167415604,node,Dominique-Jean Larrey,artwork,Angers,,,,47.4690976,-0.5558715
+10167415605,node,Gutenberg,artwork,Angers,,,,47.46914,-0.5559148
+10167415606,node,Cuvier,artwork,Angers,,,,47.4691928,-0.5558591
+10167415607,node,Philopœmen,artwork,Angers,,,,47.4691828,-0.555914
+10167415608,node,Xavier Bichat,artwork,Angers,,,,47.4692142,-0.5559202
+10167415609,node,Ambroise Paré,artwork,Angers,,,,47.4691703,-0.5559643
+10167415610,node,Xavier Bichat,artwork,Angers,,,,47.4691881,-0.5560293
+10167415611,node,Talma,artwork,Angers,,,,47.4692367,-0.5559829
+10167415612,node,Cardinal Cheverus,artwork,Angers,,,,47.4692749,-0.5560355
+10167415613,node,Maximilien Sébastien Foy,artwork,Angers,,,,47.4692027,-0.5557207
+10167415614,node,Le Fronton du Panthéon,artwork,Angers,,,,47.4691219,-0.5557672
+10176034653,node,Musée du Petit Anjou,museum,Angers,,,https://www.petit-anjou.fr/,47.455834,-0.6573223
+10280717727,node,J.B Muller,artwork,Angers,,,,47.378753,-0.6075047
 10294976255,node,Le Bosquet,hotel,Angers,2 Rue Maurice Berne,,,47.4099655,-0.5248624
 10295332421,node,MK'S,restaurant,Angers,"115 Boulevard Jean Moulin, 49100, Angers",49100,,47.4907619,-0.5615358
 10298389290,node,Le Bois Délice,restaurant,Angers,,,,47.3433457,-0.3545049
+10308397820,node,,garden,Angers,,,,47.4782491,-0.5584827
 10311480650,node,La Canopée,restaurant,Angers,,,,47.4947562,-0.5750932
 10581934377,node,Guinguette du Louet,restaurant,Angers,,,,47.3507709,-0.7416546
+10648848111,node,Saint Vincent,memorial,Angers,,,,47.2384793,-0.496499
 10686684346,node,Sens,restaurant,Angers,"17 Rue Beaurepaire, 49100",49100,https://restaurant-sens.com/,47.4739034,-0.5595474
+10733151599,node,,artwork,Angers,,,,47.4443631,-0.4845947
+10746503131,node,,memorial,Angers,,,,47.3515355,-0.756568
+10746503132,node,,attraction,Angers,,,,47.3522799,-0.758083
+10746737925,node,"Chalonnes, confluence de la Loire et du Layon",artwork,Angers,,,,47.3506544,-0.7563574
+10829014226,node,Bouddha,memorial,Angers,,,,47.590047,-0.6865959
+10831533723,node,La Douceur Angevine - Visites Guidées de Béhuard,attraction,Angers,"2 Chemin des Vergers, 49170, Béhuard",49170,https://www.ladouceurangevine.fr,47.3797609,-0.6443839
+10844087748,node,Espace Air Passion,museum,Angers,"49140, Marcé",49140,https://www.musee-aviation-angers.fr/,47.5632523,-0.3156283
 10914167870,node,Le resto de l’avenir,restaurant,Angers,,,,47.4212579,-0.5828724
+10969775134,node,Monument Duclaux,artwork,Angers,,,,47.5610683,-0.4256379
+10973989535,node,Rencontre,artwork,Angers,,,,47.4785637,-0.5436059
+11014713476,node,Les Trois Amies,artwork,Angers,,,,47.474358,-0.5554057
+11025756305,node,Pop Corn Labyrinthe,theme_park,Angers,,,https://www.popcornlabyrinthe.fr/angers/,47.5299698,-0.5064194
+11115774976,node,,memorial,Angers,,,,47.4673203,-0.555752
+11115774977,node,,memorial,Angers,,,,47.4713729,-0.6129022
+11115774978,node,,memorial,Angers,,,,47.4729738,-0.6021941
+11115774979,node,,memorial,Angers,,,,47.4733785,-0.5890193
+11115774980,node,,memorial,Angers,,,,47.4737597,-0.5731475
+11117125693,node,,artwork,Angers,,,,47.4754005,-0.6093885
 11119807446,node,La Maison,restaurant,Angers,"20 Quai des Carmes, 49000, Angers",49000,https://lamaisonangers.com/,47.47257,-0.5611689
+11167581118,node,,memorial,Angers,,,,47.501115,-0.4321141
+11233436326,node,Terrasse du Quai,viewpoint,Angers,,,,47.4721165,-0.5641017
 11242270418,node,Piano Piano,restaurant,Angers,,,,47.3739879,-0.6847612
 11300302454,node,O'feel Du Grill,restaurant,Angers,"76 Avenue Jean Boutton, 49130, Les Ponts-de-Cé",49130,,47.4396469,-0.5029177
 11336517973,node,Les trésors de Carthage,restaurant,Angers,,,,47.4751193,-0.5493154
 11357573465,node,Le Manisa,restaurant,Angers,"27 Rue Bressigny, 49100, Angers",49100,,47.4674707,-0.5499927
+11375082696,node,L’Artpothicaire,gallery,Angers,"2 Rue Montault, 49100, Angers",49100,,47.4703839,-0.5543336
 11375373861,node,Le royaume de Saba,restaurant,Angers,,,,47.4716861,-0.5372134
 11387345983,node,Le Panoramique,restaurant,Angers,"Rue Saint-Léonard, 49000, Angers",49000,,47.4609163,-0.5303388
 11397727763,node,Evasian,restaurant,Angers,"55 Avenue Besnardière, 49100, Angers",49100,,47.4771072,-0.5466639
 11462751883,node,Time's pizza,restaurant,Angers,,,,47.479327,-0.5272678
 11465098111,node,La Dévoreuse,restaurant,Angers,,,https://www.wheat-angers.com/reservations,47.4657639,-0.554089
+11465255839,node,Arts & Co,gallery,Angers,,,,47.4677688,-0.5480921
 11465331240,node,Le p'tit Foch,restaurant,Angers,"39 Boulevard du Maréchal Foch, 49100, Angers",49100,https://le-ptit-foch-angers.eatbu.com/?lang=fr,47.4674036,-0.5514321
 11473143464,node,Odorico,restaurant,Angers,"1 Boulevard du Maréchal Foch, 49100, Angers",49100,https://www.odorico-restaurant-angers.com/,47.4697547,-0.5480182
 11484563747,node,Nagoya,restaurant,Angers,,,,47.4731807,-0.5490382
@@ -352,6 +646,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 11525140144,node,Mets & vins,restaurant,Angers,,,,47.4756443,-0.5499271
 11525148657,node,Basilic &Co,restaurant,Angers,46 Boulevard Ayrault,,,47.4756002,-0.5498205
 11525159118,node,Mama Roli,restaurant,Angers,50 Boulevard Ayrault,,,47.4755378,-0.5496776
+11525159829,node,3838,gallery,Angers,,,,47.474868,-0.5481453
 11534209470,node,Krishna,restaurant,Angers,,,,47.4665724,-0.5577256
 11534248024,node,À boire et à manger,restaurant,Angers,"Place de la Visitation, 49100, Angers",49100,https://aboireamanger.com,47.4666677,-0.5566834
 11534288854,node,Dubble,restaurant,Angers,,,,47.4618106,-0.5625464
@@ -359,75 +654,1541 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 11559786689,node,La cantine du BDC,restaurant,Angers,,,https://bdc-angers.fr/,47.472501,-0.5525691
 11559799830,node,Le coup d'feu,restaurant,Angers,,,,47.4716874,-0.5509165
 11584732692,node,L'Arche,restaurant,Angers,,,,47.4696438,-0.5577303
+11618570112,node,,viewpoint,Angers,,,,47.4203731,-0.5589721
 11623676963,node,Orient Halles,restaurant,Angers,"27 Rue Baudrière, 49000, Angers",49000,https://orienthalles.fr/,47.4720022,-0.5563588
 11738462088,node,Le Presto,restaurant,Angers,,,,47.488871,-0.5531466
 11742256788,node,La Belle Équipe,restaurant,Angers,"4 Boulevard Marc Leclerc, 49100, Angers",49100,https://labelleequipeangers.com/,47.4643699,-0.5663189
+11745152341,node,Germaine,artwork,Angers,,,,47.4843266,-0.3931345
 11755107137,node,La petite cigogne,restaurant,Angers,"23 Rue du Musée, 49100, Angers",49100,,47.4692727,-0.5535713
 11799695290,node,Mésopotamie,restaurant,Angers,"158 Rue Saumuroise, 49000, Angers",49000,https://restaurant-mesopotamie.fr/,47.4540267,-0.5275345
+11801907425,node,,artwork,Angers,,,,47.4536748,-0.5269178
+11801907427,node,Le Ciel et la Terre,artwork,Angers,,,,47.4530545,-0.526148
+11816770918,node,,memorial,Angers,,,,47.4942619,-0.4986562
+11816770933,node,,memorial,Angers,,,,47.4888243,-0.5091745
+11816770938,node,,memorial,Angers,,,,47.4832942,-0.5197129
+11816770939,node,,memorial,Angers,,,,47.4777404,-0.5303418
+11816862721,node,,memorial,Angers,,,,47.47069,-0.5443818
+11829154871,node,Professeur Yvan Kempf,artwork,Angers,,,,47.4505614,-0.5422427
+11829154872,node,Jean-Claude Mathieu,artwork,Angers,,,,47.4505605,-0.5422991
+11829154873,node,Michel de Saint-Pierre,artwork,Angers,,,,47.4505575,-0.5423526
+11829154874,node,Gabrielle,artwork,Angers,,,,47.4505548,-0.5424104
+11829154875,node,Monseigneur Bockel,artwork,Angers,,,,47.4505537,-0.542457
+11829154876,node,Mast,artwork,Angers,,,,47.4505516,-0.5425189
+11829154877,node,Professeur Waitz,artwork,Angers,,,,47.4505494,-0.5425743
+11829154878,node,La Première Promesse,artwork,Angers,,,,47.4508164,-0.5423613
+11833662811,node,UNESCO Fleur de Loire,memorial,Angers,,,,47.4197499,-0.5599453
+11834367340,node,Collection nationale d'hortensias,garden,Angers,,,,47.4500074,-0.5437742
+11834367344,node,Espace du fructicetum,garden,Angers,,,,47.4505535,-0.5436472
 11895713369,node,Pizza Capri,restaurant,Angers,"40 Rue Saint-Laud, 49100",49100,https://www.pizza-capri.fr/nos-boutiques/angers/,47.4719538,-0.5533917
+11897494947,node,Aubade à Jeanne Moreau,artwork,Angers,,,,47.4721439,-0.5533967
 11897874776,node,Donna,restaurant,Angers,,,https://www.donna-angers.com/,47.4727698,-0.5607341
+11899587219,node,Musée des horloges,museum,Angers,,,https://www.tourisme-culture-patrimoine.fr/exposition-horloges.html,47.4043546,-0.9211367
 11915631017,node,Phood,restaurant,Angers,,,,47.4856622,-0.6253158
+11938346010,node,,memorial,Angers,,,,47.6482454,-0.2674873
+11938346011,node,,memorial,Angers,,,,47.6424531,-0.2775724
+11938346012,node,,memorial,Angers,,,,47.6365922,-0.2877356
+11938346013,node,,memorial,Angers,,,,47.6307713,-0.2978208
+11938346014,node,,memorial,Angers,,,,47.6249251,-0.3079303
+11938346015,node,,memorial,Angers,,,,47.619078,-0.3180449
+11938346016,node,,memorial,Angers,,,,47.6132348,-0.3279497
+11938346017,node,,memorial,Angers,,,,47.6050879,-0.3334402
+11938346018,node,,memorial,Angers,,,,47.5968878,-0.3389729
+11938346020,node,,memorial,Angers,,,,47.5805163,-0.3500417
+11938346021,node,,memorial,Angers,,,,47.5658049,-0.3648505
+11938346022,node,,memorial,Angers,,,,47.5595068,-0.3742657
+11938346023,node,,memorial,Angers,,,,47.5531922,-0.383746
+11938346024,node,,memorial,Angers,,,,47.5469485,-0.3932829
+11938346025,node,,memorial,Angers,,,,47.5407125,-0.4028618
+11938346026,node,,memorial,Angers,,,,47.5346025,-0.4126136
+11938346027,node,,memorial,Angers,,,,47.5228952,-0.4329119
+11938346028,node,,memorial,Angers,,,,47.5286945,-0.4227389
+11938346031,node,,memorial,Angers,,,,47.5162325,-0.4564556
+11938346032,node,,memorial,Angers,,,,47.4996305,-0.4882687
+11938346033,node,,memorial,Angers,,,,47.5052227,-0.4775774
+11938346034,node,,memorial,Angers,,,,47.5107306,-0.4670373
+11938925308,node,,memorial,Angers,,,,47.6758687,-0.223614
+11938925309,node,,memorial,Angers,,,,47.6729767,-0.2361986
+11938925310,node,,memorial,Angers,,,,47.6675587,-0.2434567
+11938925311,node,,memorial,Angers,,,,47.659653,-0.2471534
+11938925312,node,,memorial,Angers,,,,47.6541032,-0.2573014
 11939518252,node,Saveurs du soleil et d’ici,restaurant,Angers,20 Place Terra Botanica,,,47.4943745,-0.5752983
+11966127852,node,Le Jeune Chef d’Orchestre,artwork,Angers,,,,47.4499536,-0.542913
+11966130022,node,La Musique,artwork,Angers,,,,47.4500602,-0.5423991
+11966130024,node,La Grande Danseuse,artwork,Angers,,,,47.4502774,-0.5427631
+11966139736,node,La Loi Pensive,artwork,Angers,,,,47.4508556,-0.5421537
+11966152992,node,Gaston Allard,artwork,Angers,,,,47.4506681,-0.542349
+11974609017,node,,memorial,Angers,,,,47.4779777,-0.7144292
+11974609037,node,,memorial,Angers,,,,47.4817426,-0.7266242
+11974609038,node,,memorial,Angers,,,,47.4742191,-0.7022456
+11974609039,node,,memorial,Angers,,,,47.4664695,-0.6779823
+11974609040,node,,memorial,Angers,,,,47.4628619,-0.6654557
 11985700027,node,Le tablier,restaurant,Angers,,,,47.4810032,-0.5620182
 11985708272,node,Asia Vietfood,restaurant,Angers,,,,47.4864744,-0.5633916
 11990194750,node,Chez Paul,restaurant,Angers,"44 Rue Bressigny, 49100, Angers",49100,,47.4671908,-0.5496768
 11998752980,node,La Tribu,restaurant,Angers,,,,47.445916,-0.5362546
 12078109354,node,Les Bruyères,restaurant,Angers,79 Avenue Pierre Mendès-France,,,47.497589,-0.5817208
+12078112264,node,,memorial,Angers,,,,47.4944511,-0.5793006
 12078136740,node,Little Italy,restaurant,Angers,,,,47.4985856,-0.5825365
 12078185343,node,Le Résia,restaurant,Angers,,,https://leresia.com/,47.5037153,-0.5869814
+12104587710,node,,memorial,Angers,,,,47.4744468,-0.614702
+12107913303,node,Le Jardin Des Possibles,garden,Angers,,,,47.4252144,-0.382511
+12118804766,node,,memorial,Angers,,,,47.343611,-0.7106781
+12133975723,node,,viewpoint,Angers,,,,47.4202941,-0.3910393
+12133975729,node,,artwork,Angers,,,,47.4249652,-0.389387
+12133975730,node,,artwork,Angers,,,,47.4249748,-0.389501
 12197289070,node,Les maraîchers,restaurant,Angers,12 Avenue Jean Joxé,,https://www.bar-restaurant-lesmaraichers.fr/,47.4838937,-0.5432236
 12207018148,node,Bistrot de l'Avenue,restaurant,Angers,"117 Rue Franklin, 49100, Angers",49100,https://www.bistrotdelavenue.com,47.4672154,-0.5372534
 12221964277,node,Le Boudoir,restaurant,Angers,"11 Rue d'Alsace, 49100, Angers",49100,,47.4702629,-0.550215
+12222326922,node,,artwork,Angers,,,,47.4042984,-0.5329353
 12222599442,node,Chez Remi,restaurant,Angers,,,,47.4544608,-0.5637655
+12234574890,node,,artwork,Angers,,,,47.502354,-0.5714889
 12245857750,node,Le Lemon's  RESTO,restaurant,Angers,"Rue Jeanne de Laval, 49250, Loire-Authion",49250,,47.457554,-0.39184
+12248111512,node,,viewpoint,Angers,,,,47.4529636,-0.586298
+12253312737,node,,artwork,Angers,,,,47.464381,-0.5402167
 12254687741,node,Afrin - Restaurant associatif KS,restaurant,Angers,,,,47.4663909,-0.5481603
+12285372007,node,,memorial,Angers,,,,47.3081597,-0.5879751
+12285372023,node,,viewpoint,Angers,,,,47.3139614,-0.6009887
+12389798523,node,,artwork,Angers,,,,47.4710597,-0.5388298
 12393474697,node,Restaurant Le Ty Breizh,restaurant,Angers,7 Rue Félix Faure,,,47.3527437,-0.7636281
 12393477303,node,Restaurant izuoshima,restaurant,Angers,,,,47.3531167,-0.7647147
 12393478818,node,Chat noir Chat blanc,restaurant,Angers,,,,47.3534518,-0.7622334
 12393483676,node,Suk Suk Thai,restaurant,Angers,,,,47.3506459,-0.7589142
 12393483757,node,Le Bon Bec - Restaurant,restaurant,Angers,,,,47.3522153,-0.7623306
+12415899436,node,,artwork,Angers,,,,47.4758119,-0.5445533
+12415901367,node,Diane de Gabies,artwork,Angers,,,,47.474322,-0.5433144
+12415952818,node,,artwork,Angers,,,,47.4743711,-0.5441015
+12415959646,node,,artwork,Angers,,,,47.475109,-0.5432402
+12415980258,node,,artwork,Angers,,,,47.4744341,-0.5439768
+12415981293,node,,artwork,Angers,,,,47.4749387,-0.542755
 12433057850,node,Casa Verde,restaurant,Angers,33 Rue Georges Morel,,,47.477239,-0.6142015
 12433751692,node,Brasserie Le Saint-Serge,restaurant,Angers,"3 Boulevard Gaston Ramon, 49100, Angers",49100,,47.4887114,-0.5414439
 12551669285,node,Chardon,restaurant,Angers,,,,47.4628872,-0.5591622
 12596067028,node,L'Espace Beaussier,restaurant,Angers,41 Rue de la Lande,,,47.4763923,-0.5983563
 12623273243,node,Thaï Break - Angers,restaurant,Angers,"3 Boulevard Gaston Ramon, 49100, Angers",49100,,47.4887517,-0.5416247
+12658186641,node,Maurice Métivier,memorial,Angers,,,,47.4722313,-0.5611604
 12662729793,node,La Radio,restaurant,Angers,,,,47.4736626,-0.5212034
+12669841869,node,,artwork,Angers,,,,47.4920872,-0.561705
+12681168197,node,,artwork,Angers,,,,47.452618,-0.5245253
+12686917489,node,,artwork,Angers,,,,47.4733736,-0.5873253
+12696255252,node,,artwork,Angers,,,,47.4706279,-0.5364799
+12696288711,node,,artwork,Angers,,,,47.4701147,-0.5352209
+12707592862,node,,artwork,Angers,,,,47.4890918,-0.5273419
+12707608923,node,,artwork,Angers,,,,47.4888843,-0.5275116
+12709434329,node,,artwork,Angers,,,,47.3540273,-0.4486706
 12723396176,node,Auberge du Pont de Sorges,restaurant,Angers,"23 Rue Camille Perdriau, 49130, Les Ponts-de-Cé",49130,,47.4305057,-0.472388
+12723396297,node,,artwork,Angers,,,,47.443836,-0.5111417
+12725053101,node,,artwork,Angers,,,,47.4639627,-0.5555643
+12734084107,node,,viewpoint,Angers,,,,47.549952,-0.7001762
+12741325996,node,,artwork,Angers,,,,47.4557983,-0.5340546
+12794298725,node,Vierge,artwork,Angers,,,,47.378722,-0.6437071
 12794895920,node,Le Ragondigue,restaurant,Angers,"3 Quai de la Noë, 49080, Bouchemaine",49080,,47.4218341,-0.6087544
+12796151678,node,,artwork,Angers,,,,47.3798599,-0.6436217
+12796151681,node,,artwork,Angers,,,,47.3799064,-0.6437278
+12796151682,node,,artwork,Angers,,,,47.3797969,-0.6435311
+12797947274,node,,artwork,Angers,,,,47.4513486,-0.5534999
+12817874425,node,,memorial,Angers,,,,47.5443904,-0.6179635
 12818768874,node,La Cohue,restaurant,Angers,"8 Place de la Gare, 49000, Angers",49000,https://www.instagram.com/lacohue.angers/,47.4653576,-0.5573799
+12828582699,node,Dame Fleurs,artwork,Angers,,,,47.501195,-0.5705417
+12842714905,node,,artwork,Angers,,,,47.5013705,-0.5719328
+12842714906,node,,artwork,Angers,,,,47.5013501,-0.5723814
+12876837040,node,Luffy,artwork,Angers,,,,47.4692531,-0.5578473
+12878934564,node,,memorial,Angers,,,,47.4783869,-0.5610406
+12892503794,node,,artwork,Angers,,,,47.4789414,-0.5670534
+12912096724,node,,memorial,Angers,,,,47.5445935,-0.671597
+12945898624,node,,memorial,Angers,,,,47.4204578,-0.387663
+12954375957,node,Plaque des Patriotes incarcérés,memorial,Angers,,,,47.4744626,-0.5414114
+12954378492,node,Colonne funérire de la catastrophe du pont de la Basse-Chaîne,memorial,Angers,,,,47.4718032,-0.5276837
+12956989607,node,,monument,Angers,,,,47.3994938,-0.5313654
+12959434643,node,,monument,Angers,,,,47.421549,-0.4383192
 12979194147,node,O'21 Kebab,restaurant,Angers,"21 Place Georges Clemenceau, 49320, Brissac-Quincé",49320,https://www.facebook.com/people/O21-KEBAB-Brissac/61572584703571/,47.3555692,-0.44846
 12985221101,node,,restaurant,Angers,,,,47.5753324,-0.4685668
+12985221102,node,,viewpoint,Angers,,,,47.575091,-0.4690164
 13006859604,node,Café-cantine La Bulle En Bois,restaurant,Angers,"11 Rue Alexandre Fleming, 49000",49000,https://labulleenbois.fr/cantine/,47.477919,-0.6042481
+13013715507,node,Musée Pincé,museum,Angers,"32 bis Rue Lenepveu, 49100, Angers",49100,https://musees.angers.fr/lieux/musee-pince/index.html,47.4720795,-0.5520167
 13019157718,node,Hôtel Iéna,hotel,Angers,"27 Rue Marceau, 49100, Angers",49100,,47.4664464,-0.5591599
+13021482792,node,,artwork,Angers,,,,47.4577321,-0.5515255
 13038111957,node,Les Tonelles,restaurant,Angers,13 Rue du Port,,https://www.lestonnelles.fr/,47.5621564,-0.4228377
 13038112995,node,Hôtel Du Mail,hotel,Angers,,,https://www.hoteldumail.fr/,47.4711897,-0.5489523
+13055992603,node,,artwork,Angers,,,,47.5028398,-0.5680982
+13055992604,node,,artwork,Angers,,,,47.5027136,-0.5674495
+13061653436,node,,artwork,Angers,,,,47.474915,-0.6136234
+13061653627,node,,artwork,Angers,,,,47.4651558,-0.5648327
+13068259303,node,,artwork,Angers,,,,47.4602792,-0.5610928
+13068259305,node,,artwork,Angers,,,,47.4602179,-0.5605195
+13068259307,node,,artwork,Angers,,,,47.4591677,-0.5597234
+13068259308,node,,artwork,Angers,,,,47.4592889,-0.559639
 13074059663,node,La Guinguette du Lac de Malagué,restaurant,Angers,,,,47.5498637,-0.2934629
+13098210743,node,Tapisserie de l'apocalypse,attraction,Angers,,,,47.4697198,-0.5605107
+13112520406,node,À l’ombre de l’obélisque,artwork,Angers,,,https://www.loire-layon-aubance.fr/sortir-et-decouvrir/tourisme/fil-artistique-paysager/,47.321145,-0.5077752
+13140408362,node,,memorial,Angers,,,,47.4704684,-0.6900784
+13162829731,node,,memorial,Angers,,,,47.5757416,-0.6621068
+13162945836,node,,memorial,Angers,,,,47.5197155,-0.6728252
+13162998451,node,,memorial,Angers,,,,47.561297,-0.6716875
+13163052068,node,Stèle commémorative ALIX Julien et Gabriel,memorial,Angers,,,,47.5580783,-0.6723005
 13183752980,node,Lùlù,restaurant,Angers,,,,47.3833274,-0.6573676
+13183787356,node,"Concours photo 2025 ""Zoom zoom""",gallery,Angers,,,,47.3833725,-0.656474
+13183790194,node,,artwork,Angers,,,,47.3812869,-0.6552351
+13183797434,node,,artwork,Angers,,,,47.3811878,-0.6551549
+13185971548,node,Rue des Trois Moulins,artwork,Angers,,,,47.4643421,-0.5400423
+13190239807,node,,artwork,Angers,,,,47.4721352,-0.5572549
+13195848711,node,Galerie Confluence,gallery,Angers,,,,47.3826333,-0.6565946
+13201342523,node,,artwork,Angers,,,,47.485434,-0.5540529
+13236236254,node,,artwork,Angers,,,,47.459729,-0.5591914
+13236236272,node,,artwork,Angers,,,,47.4599716,-0.55887
+13236792577,node,,artwork,Angers,,,,47.3817406,-0.6556975
+13254561662,node,,memorial,Angers,,,,47.4735277,-0.5589499
+13255742811,node,Rue Ménage,artwork,Angers,,,,47.4689063,-0.545952
+13255756910,node,Rue Desjardins,artwork,Angers,,,,47.4693895,-0.5454146
+13255803273,node,Rue des Arènes,artwork,Angers,,,,47.4684244,-0.5500466
+13255808076,node,,artwork,Angers,,,,47.4714399,-0.5337825
+13278050443,node,,artwork,Angers,,,,47.4554479,-0.5298069
+13288769119,node,,artwork,Angers,,,,47.4691701,-0.5582941
+13288769120,node,,artwork,Angers,,,,47.4691667,-0.5582847
+13288769121,node,,artwork,Angers,,,,47.4691735,-0.5583036
+13288769122,node,,artwork,Angers,,,,47.4691892,-0.5582793
+13288769123,node,,artwork,Angers,,,,47.4691858,-0.5582698
+13288769124,node,,artwork,Angers,,,,47.4691925,-0.5582887
+13288769125,node,,artwork,Angers,,,,47.4691783,-0.5583058
+13288769126,node,,artwork,Angers,,,,47.4691847,-0.5583009
+13288769127,node,,artwork,Angers,,,,47.469191,-0.5582959
+13288769128,node,,artwork,Angers,,,,47.4691682,-0.5582775
+13288769129,node,,artwork,Angers,,,,47.4691746,-0.5582725
+13288769130,node,,artwork,Angers,,,,47.4691809,-0.5582676
+13289513497,node,,viewpoint,Angers,,,,47.470072,-0.5615108
+13296786491,node,L’Aigrette,artwork,Angers,,,,47.3706941,-0.6847989
+13296866127,node,,artwork,Angers,,,,47.3709685,-0.6841849
+13296889720,node,,artwork,Angers,,,,47.3748623,-0.6850187
+13299567213,node,Place de la Paix,artwork,Angers,,,,47.4787298,-0.5606656
+13299574572,node,,artwork,Angers,,,,47.4738179,-0.5625888
+13301344139,node,Rue des Lilas,artwork,Angers,,,,47.4642526,-0.5394723
+13301365766,node,Rue du Fresne,artwork,Angers,,,,47.4648549,-0.5410006
 13306905054,node,Pizz Burg de Marcelo,restaurant,Angers,,,,47.3525081,-0.4460652
 13306910623,node,Le Castel,hotel,Angers,,,,47.3541293,-0.4479294
+13319440784,node,Ces visages qui deviennent paysage,artwork,Angers,,,,47.373538,-0.6879351
+13319449763,node,,artwork,Angers,,,,47.3744468,-0.6888744
+13319482785,node,Guerre d’Algérie 1954-1962,memorial,Angers,,,,47.3730097,-0.6984186
 13326062001,node,L'instant,restaurant,Angers,Esplanade Jean Sauvage,,,47.4305772,-0.5435213
+13326434083,node,,artwork,Angers,,,,47.449866,-0.5159067
+13332524587,node,,artwork,Angers,,,,47.468956,-0.5534894
 13340509475,node,Le Mail Restaurant,restaurant,Angers,"2 Avenue du 11 Novembre 1918, 49100, Angers",49100,,47.4706585,-0.5452743
 13343081896,node,La Cantine du Clem,restaurant,Angers,,,,47.3557212,-0.4481571
 13352160236,node,La Haute Chaîne,hotel,Angers,,,,47.4773067,-0.5527698
+13356045998,node,,artwork,Angers,,,,47.4704788,-0.5466614
+13356045999,node,,artwork,Angers,,,,47.4704737,-0.5465627
+13356046000,node,,artwork,Angers,,,,47.4705172,-0.5464875
+13356106501,node,,artwork,Angers,,,,47.4705839,-0.5464799
+13356106502,node,,artwork,Angers,,,,47.4706347,-0.5465442
+13356106503,node,,artwork,Angers,,,,47.4706399,-0.5466429
+13356106504,node,,artwork,Angers,,,,47.4705964,-0.5467181
+13356106505,node,,artwork,Angers,,,,47.4705297,-0.5467257
+13361307686,node,Femme Vie Liberté,artwork,Angers,,,,47.4712532,-0.5475613
+13376088900,node,,artwork,Angers,,,,47.3758768,-0.6414619
+13376094810,node,,artwork,Angers,,,,47.3603419,-0.6547681
+13376098188,node,"Souvenir français, à la mémoire de 7 victimes du 6e Régiment du Génie",memorial,Angers,,,,47.4290477,-0.6051363
+13376115656,node,,artwork,Angers,,,,47.360697,-0.6557752
 13378164269,node,,restaurant,Angers,,,,47.5545682,-0.3822839
+13410920698,node,,artwork,Angers,,,,47.3550062,-0.6544098
+13410929015,node,,artwork,Angers,,,,47.4216978,-0.6093688
+13410929910,node,,artwork,Angers,,,,47.3556423,-0.6547652
+13410933649,node,,memorial,Angers,,,,47.3585415,-0.6889524
+13421788786,node,,artwork,Angers,,,,47.4092168,-0.5240869
+13422112540,node,Catastrophe de 1969 en Loire,memorial,Angers,,,,47.414316,-0.4723758
+13423940712,node,La Porte de la Paix,artwork,Angers,,,,47.4095866,-0.3201166
 13430158017,node,La Pala - Bistrot italien,restaurant,Angers,"42 Route de Sorges, 49130, Les Ponts-de-Cé",49130,,47.4341586,-0.4982299
+13430726273,node,C’est Bio l’Anjou,artwork,Angers,,,,47.3593546,-0.649279
+13430729270,node,,artwork,Angers,,,,47.3582036,-0.6518232
+13450706840,node,13a,gallery,Angers,,,,47.4689061,-0.5494092
 13459846674,node,La petite Verriere,restaurant,Angers,,,https://la-petite-verriere.com/,47.5214371,-0.4483527
 13459849725,node,Résidence Cap West,hotel,Angers,,,https://www.capwestresidence.fr/residence?cap-west=verrieres-en-anjou,47.5219868,-0.44745
+13470662255,node,,artwork,Angers,,,,47.4491556,-0.6030867
 13479152821,node,Tadig,restaurant,Angers,"8 Rue de l'Espine, 49100, Angers",49100,,47.4722126,-0.5520742
+13516507077,node,,memorial,Angers,,,,47.5305349,-0.6058614
+13526729843,node,,artwork,Angers,,,,47.4712052,-0.5543396
 13531977381,node,,restaurant,Angers,,,,47.4441463,-0.5386949
+13567262465,node,Léon Legault,memorial,Angers,,,https://e-monumen.net/patrimoine-monumental/monument-a-leon-legault-saint-jean-de-la-croix/,47.4101516,-0.594376
+13571937658,node,,artwork,Angers,,,,47.4600828,-0.558587
 13602046751,node,Pizza Angela,restaurant,Angers,"1 Rue du Petit Vivier, 49080, Bouchemaine",49080,https://pizza-angelafr-iftpmtozrq.live-website.com/,47.4460855,-0.6068978
+13611241912,node,,artwork,Angers,,,,47.4602337,-0.5531825
+13623932001,node,,artwork,Angers,,,,47.4439438,-0.5110624
+13646331086,node,,memorial,Angers,,,,47.4775605,-0.5574847
+13646331095,node,,artwork,Angers,,,,47.4774187,-0.5574757
+13646331096,node,,artwork,Angers,,,,47.4774307,-0.5573902
+13646334918,node,Veleda,artwork,Angers,,,,47.4777299,-0.5575474
+13647195513,node,,artwork,Angers,,,,47.4573598,-0.5546009
 13669327147,node,Lueurs,restaurant,Angers,"2 Quai de Port Boulet, 49080, La Maine",49080,http://lueurs-restaurant.com/,47.4103654,-0.6178305
+13673693946,node,,memorial,Angers,,,,47.4646034,-0.5655682
 13674111297,node,Villa d'Or,restaurant,Angers,"2 Avenue Gallieni, 49130, Les Ponts-de-Cé",49130,https://villador49.com/,47.4333253,-0.5290171
 13682301596,node,Cote Jardin,restaurant,Angers,4 Rue Jean Jaurès,,,47.4408388,-0.4895909
+13688377465,node,,memorial,Angers,,,,47.3543397,-0.4503575
 13690933177,node,Pizza Tempo,restaurant,Angers,136 Rue Jean Jaurès,,,47.4435405,-0.4975095
 13704885219,node,Calo'Délices,restaurant,Angers,"3 Place de l'Hôtel de Ville, 49290, Chalonnes-sur-Loire",49290,,47.3511214,-0.7630583
+13706166571,node,,artwork,Angers,,,,47.3990248,-0.3173465
 13712221171,node,Rafū,restaurant,Angers,"18 Rue David d'Angers, 49130, Les Ponts-De-Cé",49130,,47.4319761,-0.5286281
+13723959636,node,Alambic,attraction,Angers,"23 Route de Port Thibault, 49130, Sainte-Gemmes-sur-Loire",49130,,47.4189739,-0.5739416
+13729115031,node,Armand Brousse,artwork,Angers,,,,47.3709427,-0.4968758
+13729586349,node,François Mitterand,artwork,Angers,,,,47.4770439,-0.5514825
 13732137531,node,Guinguette du Père Chapuis,restaurant,Angers,"Chemin des Vallées, 49140, Seiches-sur-le-Loir",49140,https://www.facebook.com/guinguetteduperechapuis,47.58012,-0.3621082
+13768384140,node,Rue des Dragons,artwork,Angers,,,,47.4695456,-0.5619303
+13771795883,node,,artwork,Angers,,,,47.4844008,-0.6274921
+13771795884,node,,artwork,Angers,,,,47.4844439,-0.6274974
+13771795898,node,,artwork,Angers,,,,47.4842178,-0.6269211
+13771795899,node,,artwork,Angers,,,,47.4843458,-0.6268001
+13771809606,node,,artwork,Angers,,,,47.4839703,-0.6285998
+13774415421,node,,memorial,Angers,,,,47.4729259,-0.5578387
+13781559564,node,,artwork,Angers,,,,47.4543205,-0.5626544
+13788118580,node,Thomas Jefferson,memorial,Angers,,,,47.4693174,-0.5561049
 13813294566,node,Maine street,restaurant,Angers,"44 Rue François Cevert, 49000, Angers",49000,,47.4422803,-0.542504
 13814187679,node,La Guinguette de Port Thibault,restaurant,Angers,"57 Route de Port Thibault, 49130, Sainte-Gemmes-sur-Loire",49130,https://www.guinguettedeportthibault.fr/le-restaurant,47.4174987,-0.583099
 13828254558,node,Bistrot le 1006,restaurant,Angers,,,,47.4054307,-0.4846226
+13830141993,node,,artwork,Angers,,,,47.4543139,-0.5473462
+13831381730,node,,memorial,Angers,,,,47.5043652,-0.5906935
+13831381731,node,,memorial,Angers,,,,47.5043082,-0.5906057
+13848574700,node,,memorial,Angers,,,,47.4633876,-0.5638519
+13851303909,node,,artwork,Angers,,,,47.4540817,-0.5640674
+13851717057,node,,artwork,Angers,,,,47.4545447,-0.5665298
 13860765355,node,Le Pois Gourmand,restaurant,Angers,"35 Rue des Grandes-Maisons, 49130, Les Ponts de Cé",49130,,47.4402093,-0.5350227
 13902171927,node,Le Faubourg Angevin,restaurant,Angers,,,,47.4791576,-0.548501
+13926387024,node,,garden,Angers,,,,47.478284,-0.5586339
+13926387041,node,La suture rouge,artwork,Angers,,,https://www.jjpigeon.com/la-suture-rouge-kintsugi-oeuvre-perenne-angers/,47.4781095,-0.5585991
+13926387046,node,,memorial,Angers,,,,47.4779582,-0.5573741
+13926387047,node,,memorial,Angers,,,,47.4779761,-0.5573667
+13926521250,node,,artwork,Angers,,,,47.4781984,-0.5590206
+13935685664,node,,artwork,Angers,,,,47.4638699,-0.5700956
+13938607622,node,,memorial,Angers,,,,47.3780945,-0.605702
+13950656711,node,Chapelle Notre-Dame de Pitié,memorial,Angers,,,,47.4706862,-0.5554427
+13950665811,node,Maison canoniale Saint-Martial,memorial,Angers,,,,47.4713317,-0.5573052
+13950665812,node,Maison canoniale Sainte-Marie,memorial,Angers,,,,47.4713532,-0.5569442
+13950665813,node,Maison du grand corbelier,memorial,Angers,,,,47.4713774,-0.5574358
+13950665815,node,Maison de la corbellerie de saint-Laud,memorial,Angers,,,,47.4713178,-0.5577714
+13950665816,node,Maison canoniale Saint-Maurille,memorial,Angers,,,,47.4712637,-0.5581277
+13950702651,node,Église Saint-Samson,memorial,Angers,,,,47.4756314,-0.545151
+13950709147,node,Pierre Mendès France,artwork,Angers,,,,47.4739302,-0.5449035
+13951352255,node,,artwork,Angers,,,,47.4747986,-0.5443972
 13951868307,node,Suzanne,hotel,Angers,"2 Place de la Gare, 49100, Angers",49100,,47.4655018,-0.5571754
+13951897726,node,,memorial,Angers,,,,47.3797575,-0.5959103
+13955252213,node,Vierge,attraction,Angers,,,,47.3938644,-0.6341035
 13955321203,node,A table chez Milie,restaurant,Angers,"1 Rue Thierry Sandre, 49170, Épiré",49170,https://atablechezmilie.fr,47.3980441,-0.6344178
+13957262249,node,Statuette de Sainte  Guenette,artwork,Angers,,,,47.3981295,-0.6306015
 13981405719,node,L’étudiant,restaurant,Angers,,,,47.4792038,-0.5424087
+13997163310,node,,artwork,Angers,,,,47.3992141,-0.317953
+13997170902,node,Au P'tit Marcel,restaurant,Angers,"20 Rue Saint-Aubin, 49250, Saint-Rémy-la-Varenne",49250,https://www.auptitmarcel.fr/,47.3977645,-0.3170954
+13997174667,node,Prieuré de Saint Rémy la Varenne,museum,Angers,"49250, Saint-Rémy-la-Varenne",49250,https://www.prieure-saint-remy.fr/,47.3981374,-0.31552
+13997175634,node,Le Bistrot de Yann & Lau,restaurant,Angers,"9 Rue Saint-Aubin, 49250, Saint-Rémy-la-Varenne",49250,,47.3975079,-0.3157296
+13862453,way,Parc François Mitterrand,park,Angers,"Rue Anatole France, 49460, Montreuil-Juigné",49460,,47.5308203,-0.6119708
+23555708,way,Parc de Pignerolle,park,Angers,"Route de Beaufort, 49124, Saint-Barthélemy-d'Anjou",49124,,47.4703366,-0.4752158
+23555772,way,Parc des Poumons Verts,park,Angers,,,,47.5068173,-0.6008466
+30627341,way,Jardin du Mail,park,Angers,,,,47.4702901,-0.5457437
+31049063,way,Jardin des Plantes,park,Angers,,,,47.4750008,-0.5441927
+31050558,way,Place Ney,park,Angers,,,,47.4786492,-0.5438111
+31052641,way,Square Jeanne d'Arc,park,Angers,,,,47.4668762,-0.5354481
+31053155,way,Arboretum Gaston-Allard,park,Angers,Rue du Château d'Orgemont,,,47.4509506,-0.5422578
+31452956,way,Parc des Carrières,park,Angers,,,,47.4802016,-0.5823239
+41537343,way,La Coulée Verte,park,Angers,,,,47.461394,-0.615412
+41537344,way,La Coulée Verte,park,Angers,,,,47.4584122,-0.6111656
+42107961,way,,park,Angers,,,,47.4604761,-0.6080871
+47373203,way,,garden,Angers,,,,47.4575621,-0.5412332
+49599944,way,Parc de la Jaudette,park,Angers,,,,47.4612911,-0.487433
+49600461,way,Parc de Loisirs du Lac de Maine,park,Angers,,,,47.4598473,-0.5862539
+49600604,way,Parc Balzac,park,Angers,,,,47.4689408,-0.5766693
+49602487,way,Terra Botanica,theme_park,Angers,"Route d'Epinard, 49100, Angers",49100,https://www.terrabotanica.fr,47.5004902,-0.5704489
+59313366,way,Parc du Pin,park,Angers,,,,47.4585516,-0.5499551
+72362672,way,Popète & Pompette,restaurant,Angers,,,,47.2994043,-0.6345581
+72488824,way,,castle,Angers,,,,47.284202,-0.5923477
+72489217,way,L'auberge du Layon,restaurant,Angers,"20 Grande Rue, 49750, Rablay-sur-Layon",49750,http://www.aubergedulayon.com,47.2951775,-0.5764862
+73528062,way,Château de la Perrière,castle,Angers,,,,47.5091568,-0.580041
+73528350,way,La Croix Cadeau - Brasserie,restaurant,Angers,,,,47.5201549,-0.6099971
+73528582,way,,castle,Angers,,,,47.4968296,-0.6183055
+73528924,way,Musée des Véhicules Militaires Historiques,museum,Angers,,,,47.5007998,-0.5967348
+73621343,way,,garden,Angers,,,,47.5048233,-0.6045316
+73621365,way,,garden,Angers,,,,47.5048482,-0.604263
+80723885,way,Jardin public Douves du Château,park,Angers,,,,47.4244016,-0.5280525
+80723901,way,Château des Ponts de Cé,castle,Angers,,,,47.4251439,-0.5256779
+80723935,way,Les Douves,garden,Angers,,,,47.4254832,-0.5263838
+80723944,way,Parc du Jeu de Paume,park,Angers,,,,47.4242129,-0.5242626
+80735652,way,,park,Angers,,,,47.4248776,-0.5235884
+81056219,way,Espace Saint Maurille,park,Angers,,,,47.4144685,-0.5261786
+81232169,way,,park,Angers,,,,47.4373943,-0.5278714
+81232174,way,,park,Angers,,,,47.4381106,-0.5181925
+81232258,way,,park,Angers,,,,47.4382621,-0.5247963
+85336090,way,Château écharbot,castle,Angers,,,,47.4968797,-0.4795564
+85340458,way,Ibis budget Angers,hotel,Angers,"Aire des Portes d'Angers, 49480, Verrières-en-Anjou",49480,https://www.etaphotel.com/de/hotel-2512-etap-hotel-angers/index.shtml,47.499255,-0.4918538
+85468678,way,Parc André Délibes,park,Angers,Rue de la Forêt de Verrières,,,47.5200229,-0.4614234
+85469519,way,Château à motte de la Haie-Joulain,attraction,Angers,,,https://chateauamotte.fr/,47.5189709,-0.460981
+97217867,way,Plage des Sablières,beach,Angers,,,,47.5342645,-0.513612
+97241506,way,Square des Voisins,park,Angers,,,,47.4945293,-0.5122223
+101319263,way,Guinguette La Riviera,restaurant,Angers,,,,47.4049098,-0.3202963
+101319344,way,Manoir de Chauvigné,castle,Angers,,,,47.3995808,-0.3394989
+106925573,way,Château de la Goujonnaie,castle,Angers,,,,47.5425231,-0.7019518
+106925837,way,Château de Saint-Venant,castle,Angers,,,,47.5194885,-0.6658335
+106925948,way,Château Saint-Quentin,castle,Angers,,,,47.5196415,-0.6703795
+106955162,way,Château de Marcillé,castle,Angers,,,,47.5659668,-0.6469266
+106955359,way,La nouvelle grange de la Chevallerie,restaurant,Angers,"Parc d'activité de la Chevallerie, 49770, Longuenée-en-Anjou",49770,,47.5559265,-0.6599635
+108966898,way,Château de Chatillon,castle,Angers,,,,47.5229173,-0.5582525
+108969100,way,Le Paddock,restaurant,Angers,,,,47.5323075,-0.5688735
+125065610,way,Parc de la Garenne,park,Angers,,,,47.4770511,-0.5788289
+125566462,way,La guinguette,restaurant,Angers,,,,47.5018565,-0.5703031
+125566483,way,À l'épreuve des extrêmes,attraction,Angers,,,,47.4999531,-0.5677779
+125991705,way,Comptoir Ferdinand,restaurant,Angers,"187 Rue Ferdinand Vest, 49800, Trélazé",49800,https://www.comptoir-ferdinand.com/,47.4418965,-0.4823365
+125991770,way,Musée de l'Ardoise,museum,Angers,"32 Chemin de la Maraichère, 49800, Trélazé",49800,https://www.lemuseedelardoise.fr/,47.4469115,-0.4891945
+125991878,way,Château Rosseau,castle,Angers,,,,47.4527315,-0.507733
+126917774,way,Château des Forges,castle,Angers,,,https://www.lechateaudesforges.fr/,47.501671,-0.563745
+126919290,way,L'Europe,hotel,Angers,,,,47.4669525,-0.549431
+126923000,way,La Conciergerie,hotel,Angers,"25 Rue du Canal, Angers",,,47.4735455,-0.5497655
+126923497,way,Hôtel Restaurant Henriette,hotel,Angers,,,,47.443971,-0.538627
+126923520,way,Resto Troc,restaurant,Angers,,,,47.478216,-0.5842578
+126924126,way,Maison de l'environnement,museum,Angers,,,,47.4658015,-0.5877915
+126924906,way,La Porte de Damas,attraction,Angers,,,,47.4562164,-0.521329
+126927554,way,À La Bonne Heure,restaurant,Angers,,,,47.4677308,-0.5263122
+126940080,way,Carmine,restaurant,Angers,"2 Rue Larrey, 49100",49100,https://carmine-angers.fr/,47.4801235,-0.5545461
+126956132,way,La Fabrique,restaurant,Angers,"7 Rue de Brissac, 49000, Angers",49000,,47.4647175,-0.550278
+126959826,way,Le Petit Brissac,restaurant,Angers,"31 Rue de Brissac, 49000, Angers",49000,,47.4634865,-0.549592
+126959902,way,Hôtel Continental,hotel,Angers,"14 Rue Louis de Romain, 49100, Angers",49100,https://hotellecontinental.com,47.4703065,-0.5522775
+126960160,way,Hôtel de Champagne,hotel,Angers,"34 Avenue Denis Papin, 49100, Angers",49100,https://hoteldechampagne.com/,47.4651295,-0.5586655
+126960360,way,Galerie David d'Angers,museum,Angers,"33 bis Rue Toussaint, 49100, Angers",49100,https://musees.angers.fr/lieux/galerie-david-d-angers/index.html,47.4691375,-0.5558235
+126961604,way,,garden,Angers,,,,47.4740486,-0.5420946
+126965407,way,Musée des Beaux-Arts,museum,Angers,"14 Rue du Musée, 49100, Angers",49100,https://musees.angers.fr/lieux/musee-des-beaux-arts/index.html,47.4689176,-0.5548169
+126968213,way,Les Grandes Tranchandières,castle,Angers,"Chemin des Tranchandières, 49000, Angers",49000,,47.4685935,-0.6037725
+128904706,way,Château de Chambiers,castle,Angers,,,,47.645621,-0.2449705
+128904971,way,Château du Grip,castle,Angers,,,,47.69039,-0.3062395
+128907148,way,,castle,Angers,,,,47.7055575,-0.2676222
+129015881,way,Château de Durtal,castle,Angers,"15 Place des Terrasses, 49430, Durtal",49430,https://www.chateau-durtal.com/,47.6703719,-0.2445964
+129113445,way,,park,Angers,,,,47.4580037,-0.5276073
+132844249,way,Château de Gilles de Rais,castle,Angers,,,,47.4124574,-0.8612128
+134436764,way,,castle,Angers,,,,47.4074814,-0.4749154
+134596930,way,Kyriad,hotel,Angers,,,http://www.kyriad-angers-sud-les-ponts-de-ce.fr/,47.4366031,-0.5105972
+134596976,way,Château de Belle Poule,castle,Angers,"Levée de Belle Poule, 49130, Les Ponts-de-Cé",49130,,47.4223827,-0.4942844
+134825267,way,Château de Pignerolles,castle,Angers,,,,47.4698509,-0.4736996
+134825393,way,Manoir de Villechien,castle,Angers,,,,47.463763,-0.5187061
+134825413,way,Manoir de la Ranloue,castle,Angers,,,,47.4682121,-0.5000235
+134825503,way,hotelF1,hotel,Angers,,,,47.4715504,-0.5110599
+134828714,way,La Boucherie,restaurant,Angers,,,,47.4848583,-0.4989206
+134914766,way,Le Ronceray,castle,Angers,,,,47.4442452,-0.6305091
+134914777,way,Château du Petit-Serrant,castle,Angers,,,,47.4103556,-0.6178279
+134915833,way,Château le Fresne,castle,Angers,,,,47.415448,-0.6165356
+136227315,way,,castle,Angers,,,,47.6372417,-0.2829898
+136227747,way,La Baraque à crèpe,restaurant,Angers,"Allée de la Buronnière, 49430, Lézigné",49430,,47.6360884,-0.2932801
+136327109,way,Château de Huillé,castle,Angers,,,,47.6472827,-0.3043539
+136532242,way,Les Petites Écuries,restaurant,Angers,,,,47.4224965,-0.5616214
+136532724,way,Château du Fresne,castle,Angers,,,,47.4418158,-0.5840585
+136532748,way,Château de la Roche Morna,castle,Angers,,,,47.4183909,-0.581782
+136532847,way,Chateaubriant,castle,Angers,,,,47.448045,-0.5843892
+136532882,way,Manoir de Belligan,castle,Angers,,,,47.4388395,-0.5886547
+136533635,way,Château de la Boule,castle,Angers,,,,47.4276146,-0.589314
+136534731,way,Château de Sainte-Gemmes,castle,Angers,,,,47.4201326,-0.5622331
+136535266,way,Château Le Puits de Rezé,castle,Angers,861 Chemin des Trois Echelles,,,47.4374494,-0.5778421
+137653987,way,Logis de Bellebranche,castle,Angers,,,,47.5286897,-0.5291862
+137654071,way,,ruins,Angers,,,,47.5330929,-0.5318702
+137654083,way,Les Arcades,restaurant,Angers,,,,47.507517,-0.5168173
+137655273,way,Chapelle de Beuzon,ruins,Angers,,,,47.5060681,-0.5106869
+138604678,way,Parc du Hutreau,park,Angers,,,,47.4342063,-0.5572883
+139002785,way,,park,Angers,,,,47.4261355,-0.5525113
+139512578,way,,garden,Angers,,,,47.6700354,-0.2465872
+142846596,way,Place des Tilleuls,park,Angers,,,,47.4462949,-0.5029314
+143736402,way,,park,Angers,,,,47.5298717,-0.6043487
+144476124,way,Le 1000,restaurant,Angers,"Rue du Bourg, 49070, Beaucouzé",49070,,47.474923,-0.632908
+144476238,way,Château de Guinezert,castle,Angers,,,,47.46002,-0.635943
+144476254,way,Château de Vilniere,castle,Angers,"chemin de Vilnière, 49070, Beaucouzé",49070,,47.4774989,-0.6597323
+144476797,way,La Grange Dîmière,gallery,Angers,"Rue du Prieuré, 49070, Beaucouzé",49070,,47.4741794,-0.6338854
+145220928,way,Collégiale Saint-Martin,museum,Angers,"23 Rue Saint-Martin, 49100, Angers",49100,https://www.collegiale-saint-martin.fr/,47.4690078,-0.5519703
+147748001,way,Château d'Epiré,castle,Angers,,,,47.3986314,-0.6343754
+147748370,way,Château des Grifferais,castle,Angers,,,,47.4299694,-0.66981
+147748393,way,Château de la Bizolière,castle,Angers,,,,47.3947465,-0.6627579
+147748446,way,Château des Vaults,castle,Angers,,,,47.383319,-0.6553354
+147748451,way,La Vieille Bouverie,castle,Angers,,,,47.4299349,-0.6537513
+147748481,way,Château de Chamboureau,castle,Angers,,,,47.3959399,-0.6371724
+147749927,way,Château de Varennes,castle,Angers,,,,47.3852277,-0.6494073
+147780669,way,Le Fresne,park,Angers,,,,47.3805892,-0.6601986
+152463257,way,,park,Angers,,,,47.4471513,-0.4125315
+158278161,way,Le Patio,restaurant,Angers,,,,47.4848721,-0.625982
+161609745,way,Château de la Chaussée,castle,Angers,,,,47.493393,-0.7276768
+164546750,way,Square des Acacias,park,Angers,,,,47.4352794,-0.7016136
+169930069,way,Crêperie du Passeur,restaurant,Angers,,,,47.5408085,-0.6158585
+169930143,way,,castle,Angers,,,,47.532027,-0.5956575
+169930521,way,Monsieur Jo,restaurant,Angers,,,https://monsieur-jo.fr/,47.5405405,-0.615954
+169930694,way,Château de La Guyonnière,castle,Angers,,,,47.542788,-0.6186305
+169930733,way,Château de la Thibaudière,castle,Angers,,,,47.5426645,-0.637474
+169937427,way,La Rongère,castle,Angers,,,,47.5304875,-0.6158185
+169952312,way,Parc de la Guyonnière,park,Angers,,,,47.5421603,-0.6193197
+169971048,way,Espace du Séquoia,park,Angers,,,,47.4656265,-0.3509441
+170686083,way,L'Épine Chateau,castle,Angers,,,,47.5469324,-0.5991895
+171389566,way,Au Gré du Vent,restaurant,Angers,"17 Place de l'Hôtel de Ville, 49290, Chalonnes-sur-Loire",49290,,47.351394,-0.7637095
+171390164,way,Église Saint-Maurille,artwork,Angers,,,,47.3521144,-0.7578353
+171392566,way,,castle,Angers,,,,47.330692,-0.7469953
+171398482,way,,castle,Angers,,,,47.3299445,-0.7511186
+171520124,way,Parc des Vallées,park,Angers,,,,47.5808491,-0.3624776
+173340199,way,La Roche-Cantenay,castle,Angers,,,,47.5374497,-0.5777816
+173341074,way,Domaine de Chatillon,park,Angers,,,,47.5235142,-0.5578435
+173341075,way,Parc du Château Maulny,park,Angers,,,,47.5264736,-0.5615629
+173346177,way,,castle,Angers,,,,47.5344384,-0.5585783
+182256937,way,,park,Angers,,,,47.5771673,-0.3268125
+184497349,way,,park,Angers,,,,47.345594,-0.7722216
+184607253,way,,park,Angers,,,,47.3298556,-0.7704988
+187182479,way,Marais des Prés d'Amont,park,Angers,,,,47.4413391,-0.4051082
+187805419,way,,park,Angers,,,,47.5755758,-0.6634472
+188673244,way,Château de la Garenne,castle,Angers,,,,47.5716171,-0.344817
+192977127,way,Auberge du bac,restaurant,Angers,,,,47.5769872,-0.6627992
+192977153,way,La Maison du Passeur,restaurant,Angers,,,,47.5791509,-0.6632723
+192977189,way,Château de la Chesnaie,castle,Angers,,,,47.573754,-0.6795515
+192985786,way,Château de la Roussière,castle,Angers,,,,47.5728262,-0.6477034
+193867551,way,Château de la Berthière,castle,Angers,,,,47.515403,-0.4263235
+194947406,way,,garden,Angers,,,,47.4506571,-0.5308453
+197138524,way,,park,Angers,,,,47.444501,-0.4098926
+197139161,way,,park,Angers,,,,47.4464329,-0.4081706
+202250611,way,Jardin des Beaux-Arts,park,Angers,,,,47.4685912,-0.555634
+202411020,way,Château de Narcé,castle,Angers,,,,47.4434195,-0.4288485
+202413364,way,L'Escale,hotel,Angers,,,,47.446456,-0.410957
+205084982,way,,garden,Angers,,,,47.4140331,-0.2851278
+205176428,way,,garden,Angers,,,,47.4182115,-0.2921491
+205188569,way,,garden,Angers,,,,47.4228696,-0.3026199
+208021462,way,Palais du Tau,castle,Angers,"2 Rue du Chanoine-Urseau, 49100, Angers",49100,,47.4709223,-0.5544254
+220853733,way,Château de La Galoisière,castle,Angers,"La Galoisière, 49140, Jarzé",49140,,47.562395,-0.2595517
+220853840,way,Château les Landes,castle,Angers,,,,47.555759,-0.2666835
+220854845,way,Manoir de la Roche-Thibault,castle,Angers,,,,47.5593663,-0.27685
+220856461,way,Château de Jarzé,castle,Angers,,,,47.5543852,-0.2373784
+228600140,way,Aire de Loisirs,park,Angers,,,,47.5557672,-0.227668
+228602855,way,Le Moulinet,restaurant,Angers,,,,47.5570225,-0.2280099
+230568296,way,Parc Georges Brassens,park,Angers,,,,47.4910265,-0.5871431
+234022442,way,BR Denée,restaurant,Angers,"3 Grande Rue, 49190, Denée",49190,,47.378825,-0.607966
+234035313,way,Pizzeria Le K-Ré,restaurant,Angers,,,,47.359926,-0.5525545
+235180337,way,Château de Briançon,castle,Angers,,,,47.5018345,-0.3500155
+235181613,way,Château des Bruères,castle,Angers,,,,47.512003,-0.304995
+235337797,way,Le Verger,castle,Angers,,,,47.4048611,-0.3606868
+235338011,way,,castle,Angers,,,,47.3935448,-0.3726759
+235338115,way,Château de Cheman,castle,Angers,,,,47.394101,-0.3867235
+235339531,way,Château de Blaison,castle,Angers,,,,47.399351,-0.371497
+235531456,way,Château de Brissac,castle,Angers,,,https://www.chateau-brissac.fr,47.3528514,-0.4499385
+235681153,way,Château de Vaux,castle,Angers,,,,47.5369724,-0.2895987
+235695641,way,,castle,Angers,,,,47.3744515,-0.4043105
+235699104,way,Le Relais de la 23,restaurant,Angers,,,,47.4092346,-0.8478345
+235699121,way,Les 3 Pics,restaurant,Angers,"Le Petit Saint-Martin, 49123, Champtocé-sur-Loire",49123,,47.4118637,-0.8523441
+235699448,way,Restaurant La Table du Moulin,restaurant,Angers,2 Rue du Corps de Garde,,,47.4123702,-0.8602134
+235699449,way,Château de Lancrau,castle,Angers,,,,47.4217635,-0.8806475
+235699542,way,Château de Beauchesne,castle,Angers,,,,47.4453889,-0.9022611
+235700407,way,Château du Pin,castle,Angers,,,,47.4274144,-0.8502192
+235701051,way,Château du Vauboisseau,castle,Angers,,,,47.428112,-0.860159
+235701334,way,,castle,Angers,,,,47.4358747,-0.9017566
+235705487,way,Château de Noirieux,castle,Angers,,,,47.575365,-0.46885
+235707872,way,Le Kiviv,restaurant,Angers,"25 Grande Rue, 49125, Briollay",49125,https://www.lekiviv.fr/,47.565564,-0.508514
+236440353,way,Château Voisin,castle,Angers,,,,47.550666,-0.373286
+236440587,way,La Chalerie,castle,Angers,,,,47.5279165,-0.413457
+236606378,way,,castle,Angers,,,,47.677542,-0.463301
+236619219,way,Château de Coincé,castle,Angers,,,,47.581,-0.6201095
+236619754,way,Guinguette de Port Albert,restaurant,Angers,"14 Chemin du Port Albert, 49460, Feneu",49460,,47.5662419,-0.6110494
+236619849,way,Le Château de Monrepos,castle,Angers,,,,47.585388,-0.601838
+236620249,way,Château de Sautré,castle,Angers,,,,47.5706845,-0.6187408
+236626357,way,Château du Fresne,castle,Angers,,,,47.298852,-0.538728
+236629428,way,Château de Pont Bourceau,castle,Angers,,,,47.2287146,-0.4933752
+236629429,way,Château de l'Assay,castle,Angers,,,,47.2509809,-0.4867365
+236629491,way,,castle,Angers,,,,47.2170641,-0.5288491
+236755522,way,,castle,Angers,,,,47.6111181,-0.3127128
+236896842,way,La Route du Sel,restaurant,Angers,6 Rue de l'Eglise,,,47.4029235,-0.9211765
+236898592,way,Crêperie La Galerie,restaurant,Angers,,,,47.402287,-0.9216055
+236898722,way,,restaurant,Angers,,,,47.404734,-0.922087
+237413874,way,Château de la Tuffière,castle,Angers,,,,47.514968,-0.2846365
+237546669,way,,castle,Angers,,,,47.6210415,-0.201255
+237546685,way,Château de Mené,castle,Angers,,,,47.641122,-0.221626
+237567594,way,,castle,Angers,,,,47.2463652,-0.4724633
+237567767,way,,castle,Angers,,,,47.2386695,-0.44617
+237569036,way,,castle,Angers,,,,47.2390975,-0.446691
+237569337,way,,castle,Angers,,,,47.2390195,-0.446177
+237569866,way,,castle,Angers,,,,47.238877,-0.446759
+237570343,way,Château de Villeneuve,castle,Angers,,,,47.2221758,-0.4548916
+237570371,way,Château des Noyers,castle,Angers,,,,47.2354435,-0.4878814
+237570595,way,,ruins,Angers,,,,47.2284235,-0.478318
+237585367,way,Château de La Richardière,castle,Angers,,,,47.6012583,-0.3916405
+237585427,way,Château de Montreuil-sur-Loir,castle,Angers,,,,47.6093859,-0.4046727
+237585694,way,,castle,Angers,,,,47.6234133,-0.4139289
+237706564,way,,castle,Angers,,,,47.37453,-0.6816215
+237716794,way,ROS[O],restaurant,Angers,"22 Rue Maurice Berné, 49610, Mûrs-Erigné",49610,,47.406199,-0.5261025
+238340286,way,Au fil de l'eau,restaurant,Angers,Morannes,,,47.7469595,-0.420548
+238341674,way,,castle,Angers,,,,47.751681,-0.408044
+238640287,way,Château de l'Ambroise,castle,Angers,,,,47.3955115,-0.413323
+238642577,way,Manoir de la Groye,castle,Angers,,,,47.399434,-0.4356985
+238642680,way,Château de Saint-Saturnin-sur-Loire et Association Château d'Arts,castle,Angers,,,https://chateaudarts.fr/,47.3957835,-0.4377135
+238651811,way,,castle,Angers,,,,47.4002365,-0.4491905
+238651980,way,Château d'Avrillé,castle,Angers,,,,47.369538,-0.467728
+238652017,way,,castle,Angers,,,,47.3990885,-0.4448587
+238658263,way,Château de Saint-Symphorien,castle,Angers,,,,47.3606766,-0.667385
+238658265,way,,castle,Angers,,,,47.3303325,-0.6354812
+238661059,way,Château de la Touche-Savary,castle,Angers,,,,47.4072275,-0.8288085
+238661108,way,,castle,Angers,,,,47.418477,-0.7964544
+238661261,way,,castle,Angers,,,,47.4009539,-0.8119899
+238663918,way,,restaurant,Angers,,,,47.408596,-0.7606995
+238664126,way,La Florentina,restaurant,Angers,,,,47.40589,-0.750779
+238664290,way,Château de Chevigné,castle,Angers,,,,47.406118,-0.7111895
+238666603,way,,restaurant,Angers,,,,47.4085665,-0.7622375
+238669150,way,,castle,Angers,,,,47.5381142,-0.7281494
+238669394,way,Château des Brosses,castle,Angers,Les Brosses,,,47.5247245,-0.753966
+238672104,way,Château De Bellevue,castle,Angers,"Rue du Hanipet, 49190, Saint Aubin De Luigné",49190,https://chateaudebellevue.fr/,47.3356474,-0.6499505
+239088865,way,Château du Plessis-Lionnet,castle,Angers,,,,47.5294016,-0.2201869
+239105066,way,,restaurant,Angers,,,https://www.relais-plessis-bourre.com/,47.5790368,-0.5534268
+239105213,way,,castle,Angers,,,,47.5777605,-0.550189
+239106216,way,Château des Ruaux,castle,Angers,,,,47.5649695,-0.5515735
+239106920,way,Château de la Rousselière,castle,Angers,,,,47.5903285,-0.527805
+239113176,way,Gite Le Temps d'un Instant,hotel,Angers,,,,47.5756144,-0.4536192
+239113215,way,Château de Soucelles,castle,Angers,,,http://www.chateaudesoucelles.com/,47.5752721,-0.4180909
+239690081,way,Musée-château de Villevêque,museum,Angers,"44 Rue du Général de Gaulle, 49140, Villevêque",49140,https://musees.angers.fr/lieux/musee-chateau-de-villeveque/index.html,47.561101,-0.4263788
+239739000,way,Manoir Le Gué du Berge,castle,Angers,,,,47.2651335,-0.4993973
+239744742,way,La Lasserie,castle,Angers,,,,47.3480155,-0.4884955
+242514563,way,,beach,Angers,,,,47.4610364,-0.5915607
+244959571,way,,park,Angers,,,,47.4977522,-0.5812102
+259549839,way,,garden,Angers,,,,47.4700573,-0.4740596
+259549840,way,,garden,Angers,,,,47.4701391,-0.4740195
+259549841,way,,garden,Angers,,,,47.4701111,-0.4738987
+259549842,way,,garden,Angers,,,,47.4700297,-0.4739429
+259549855,way,,garden,Angers,,,,47.4695666,-0.4737288
+259549856,way,,garden,Angers,,,,47.4694836,-0.4736695
+259549857,way,,garden,Angers,,,,47.4696045,-0.4736083
+259549858,way,,garden,Angers,,,,47.4695222,-0.4735482
+261661541,way,Cafet’ Lettres,restaurant,Angers,,,,47.4797996,-0.6041735
+262233940,way,Aire de Pique-Nique de la Chapelle du Reprofond,park,Angers,,,,47.4599141,-0.9474594
+264194329,way,,garden,Angers,,,,47.405434,-0.9349944
+264338011,way,,garden,Angers,,,,47.4008993,-0.9308165
+264478104,way,Manoir du Cassoir,castle,Angers,,,,47.3976572,-0.9410397
+264640523,way,Château de la Fresnaye,castle,Angers,,,,47.3995291,-0.9360977
+265847757,way,Square d'Orscholtz,park,Angers,,,,47.3993105,-0.9305386
+267482936,way,La Cale,restaurant,Angers,,,,47.400942,-0.925069
+267490964,way,Square Canal du Hargouet,park,Angers,,,,47.4028473,-0.9208102
+273161490,way,,park,Angers,,,,47.5158505,-0.6654373
+275948832,way,La Changerie,restaurant,Angers,"Avenue Le Corbusier, 49070, Beaucouzé",49070,,47.4863155,-0.630938
+281308489,way,Parc du Petit Serrant,park,Angers,,,,47.4115056,-0.6182934
+285138631,way,Château Rivet,castle,Angers,,,,47.4373853,-0.5168069
+304153620,way,,garden,Angers,,,,47.504731,-0.6038521
+304153621,way,,garden,Angers,,,,47.5044638,-0.6045874
+304153622,way,,garden,Angers,,,,47.5046947,-0.6045768
+304153623,way,,garden,Angers,,,,47.5044673,-0.604161
+304153624,way,,garden,Angers,,,,47.504378,-0.604439
+304153625,way,,garden,Angers,,,,47.5046095,-0.6039758
+304153626,way,,garden,Angers,,,,47.5047347,-0.6040485
+314282226,way,,park,Angers,,,,47.4917863,-0.5524989
+314297519,way,,park,Angers,,,,47.4440622,-0.4930758
+314304829,way,parc du vissoir,park,Angers,,,,47.4451134,-0.485364
+318394488,way,,park,Angers,,,,47.5107356,-0.5993631
+318394730,way,,park,Angers,,,,47.5086582,-0.605782
+335275339,way,,ruins,Angers,,,,47.4618446,-0.9539724
+335875454,way,Square Fen Edge Villages,park,Angers,,,,47.5111497,-0.5879513
+336909389,way,,ruins,Angers,,,,47.460871,-0.9251292
+337006725,way,Parc de l'étang de Grélories,park,Angers,,,,47.5605149,-0.669669
+337180902,way,Jardin de la Roseraie,park,Angers,,,,47.4495794,-0.5531636
+338385847,way,,garden,Angers,,,,47.4359152,-0.900272
+357859183,way,Guinguette Les Tourbillons,restaurant,Angers,,,,47.3709555,-0.684563
+364748266,way,,park,Angers,,,,47.4480498,-0.4902412
+380728587,way,Parc de l’Europe,park,Angers,,,,47.4655715,-0.4976382
+391074190,way,,park,Angers,,,,47.7506954,-0.4327906
+393255561,way,Four à Chaux,ruins,Angers,,,,47.3581281,-0.7743772
+398945809,way,Plaine de Jeux Marcel Pagnol,park,Angers,"Rue Marcel Pagnol, Angers",,,47.4485648,-0.5564277
+409844561,way,Parc de la Deniserie,park,Angers,,,,47.3522795,-0.7673389
+421350191,way,,garden,Angers,,,,47.4693826,-0.5591371
+421737264,way,,garden,Angers,,,,47.4225506,-0.5835652
+423410914,way,,park,Angers,,,,47.4546595,-0.3962768
+428354347,way,Le jardin suspendu,garden,Angers,,,,47.4698163,-0.5587003
+430957262,way,,park,Angers,,,,47.5318107,-0.5265273
+431041377,way,,park,Angers,,,,47.5303804,-0.5298947
+431041378,way,,park,Angers,,,,47.5316184,-0.5298616
+432351479,way,Parc Desjardins,park,Angers,,,,47.4796546,-0.5333298
+436593083,way,,park,Angers,,,,47.5296423,-0.5929626
+447368381,way,,park,Angers,,,,47.3715305,-0.6836811
+454313792,way,Le Jardin Méditerranéen,garden,Angers,,,,47.4174593,-0.5815549
+454325063,way,Les Jardins du Presbytère,garden,Angers,,,,47.4205606,-0.5588921
+455158935,way,,park,Angers,,,,47.419746,-0.5643897
+455255992,way,,park,Angers,,,,47.4272099,-0.5407422
+457857885,way,Anciennes Écuries des Ardoisières,gallery,Angers,70 Rue Ferdinand Vest,,https://lesanciennesecuries.wordpress.com/accueil/,47.444513,-0.4751534
+466938014,way,Parc de la Chalouère,park,Angers,,,,47.4797309,-0.5395338
+467531302,way,,park,Angers,,,,47.6983764,-0.3602683
+468463398,way,,castle,Angers,,,,47.6154789,-0.3103719
+469796632,way,Jardin Place Ernest Mottay,garden,Angers,,,,47.5735683,-0.3573726
+470301961,way,Square Charles de Gaulle,park,Angers,,,,47.640442,-0.3569051
+470317579,way,,park,Angers,,,,47.6492017,-0.4402238
+470778678,way,,park,Angers,,,,47.5811696,-0.2553726
+470778689,way,,park,Angers,,,,47.5792947,-0.2564012
+485551997,way,Square Jeanne Say,park,Angers,,,,47.3538873,-0.4486299
+493696954,way,ACE Hôtel SH Angers,hotel,Angers,"Rue du Paon, 49124, Saint-Barthélemy-d'Anjou",49124,https://www.ace-hotel.com/fr/ace-hotel-angers,47.4858643,-0.4987021
+501198203,way,Espace éphémère,park,Angers,,,,47.477857,-0.5880052
+502937607,way,Le chevalement de Malécots,attraction,Angers,,,,47.3419718,-0.7037944
+516870499,way,Parc des Airies,park,Angers,,,,47.4124863,-0.8594656
+528172916,way,,park,Angers,,,,47.4904575,-0.5005724
+532562341,way,,park,Angers,,,,47.460166,-0.5348531
+532985427,way,Parc Éblé,park,Angers,,,,47.4620345,-0.5613044
+533807414,way,,park,Angers,,,,47.4423738,-0.5638053
+533830857,way,,park,Angers,,,,47.4496449,-0.5049166
+541673465,way,,park,Angers,,,,47.4769959,-0.5398014
+547490920,way,Novotel,hotel,Angers,,,,47.4644335,-0.5596489
+548198582,way,Parc des Claveries,park,Angers,,,,47.4879177,-0.4997048
+549958184,way,,garden,Angers,,,,47.4621011,-0.5536682
+549968323,way,,garden,Angers,,,,47.4616895,-0.5535979
+549969061,way,,garden,Angers,,,,47.461701,-0.5532408
+549969064,way,,garden,Angers,,,,47.46189,-0.5536294
+554917886,way,Parc de Demazis,park,Angers,,,,47.4665139,-0.6000063
+555788283,way,Square du verger,park,Angers,,,,47.5408328,-0.6704374
+556277805,way,Parc Claude Debussy,park,Angers,,,,47.4190515,-0.5227236
+559713919,way,Parc Bellefontaine,park,Angers,"11 Rue Louis Gain, 49100, Angers",49100,https://www.angers.fr/vivre-a-angers/la-nature-a-angers/les-parcs-et-jardins-publics/patrimoine/parcs-et-jardins/parc-bellefontaine/index.html,47.4701577,-0.5394646
+564155604,way,Restaurant Universaitaire Ambroise Croizat,restaurant,Angers,,,,47.4871152,-0.5518803
+564163654,way,,garden,Angers,,,,47.485744,-0.5583877
+571753339,way,,park,Angers,,,,47.4746723,-0.5162809
+572704852,way,,garden,Angers,,,,47.473848,-0.5470055
+572704854,way,,garden,Angers,,,,47.4738935,-0.5462851
+577098786,way,,park,Angers,,,,47.4038828,-0.7601329
+591051922,way,Square Saint-Jacques,park,Angers,,,,47.474007,-0.5714412
+602161228,way,Cerema,park,Angers,,,,47.4308202,-0.5351841
+603103178,way,Plaine de Jeux du Vallon,park,Angers,,,,47.4635923,-0.5963475
+603103549,way,,garden,Angers,,,,47.4630318,-0.5978588
+606627470,way,Parc de Loisirs et d'Attractions de l'Étang,theme_park,Angers,,,https://www.parc-etang.com/,47.3600253,-0.4367339
+606627471,way,,beach,Angers,,,,47.3602721,-0.4371272
+607712852,way,,garden,Angers,,,,47.4712976,-0.5695792
+608227389,way,,park,Angers,,,,47.4113728,-0.8525163
+608234936,way,,park,Angers,,,,47.4073015,-0.8340243
+611626261,way,,garden,Angers,,,,47.4608835,-0.55294
+611626262,way,,garden,Angers,,,,47.4608009,-0.5538844
+621091220,way,,beach,Angers,,,https://destination-rivesduloirenanjou.fr/destination-item/plage-de-villeveque/,47.5635499,-0.4247618
+622293034,way,Plage de Rochefort,beach,Angers,,,,47.3596727,-0.6544792
+623053291,way,,beach,Angers,,,,47.3971471,-0.9179485
+624349709,way,,garden,Angers,,,,47.4707064,-0.5543749
+624777242,way,Cloître Toussaint,attraction,Angers,,,,47.4690643,-0.556192
+626455823,way,,park,Angers,,,,47.4840617,-0.560721
+627641256,way,Avenue Jeanne d'Arc,park,Angers,,,,47.4684881,-0.5403774
+628058215,way,Parc du château,park,Angers,,,,47.5447095,-0.6752999
+628066619,way,Parc de la Nouellé,park,Angers,,,,47.5467334,-0.6688778
+628066628,way,,park,Angers,,,,47.5401152,-0.6691501
+628074338,way,,park,Angers,,,,47.5397567,-0.67117
+628088755,way,Parc du Châtellier,park,Angers,,,,47.5438772,-0.6723549
+628091018,way,,garden,Angers,,,,47.46641,-0.5437535
+628094790,way,,garden,Angers,,,,47.4717218,-0.5451155
+628094791,way,,garden,Angers,,,,47.4716277,-0.5448355
+628094792,way,,garden,Angers,,,,47.4712799,-0.545665
+628094793,way,,garden,Angers,,,,47.4716536,-0.5453827
+628094794,way,,garden,Angers,,,,47.4710909,-0.5455871
+628094795,way,,garden,Angers,,,,47.4709958,-0.5453031
+628222817,way,,park,Angers,,,,47.5451264,-0.668266
+628222818,way,,park,Angers,,,,47.5453436,-0.669061
+628222820,way,,park,Angers,,,,47.544309,-0.667534
+628222822,way,,park,Angers,,,,47.5443956,-0.6685331
+628222824,way,,park,Angers,,,,47.5446783,-0.6695207
+628232704,way,,park,Angers,,,,47.5436256,-0.6739029
+628296075,way,Parc de la Paperie,park,Angers,,,,47.4604815,-0.5075519
+628512071,way,,park,Angers,,,,47.5406127,-0.6685805
+628659409,way,Jardin du château,garden,Angers,,,,47.5447141,-0.6757254
+628668950,way,,garden,Angers,,,,47.5445314,-0.6761484
+629219071,way,Bords de Sarthe,park,Angers,,,,47.5664313,-0.5087949
+629223741,way,Pépinière-parc,park,Angers,,,,47.5663751,-0.6458415
+629491995,way,,park,Angers,,,,47.5591012,-0.6673881
+629496398,way,,park,Angers,,,,47.5618805,-0.6684208
+629614792,way,Mail Emile Joulain,park,Angers,,,,47.5585569,-0.6681635
+629975094,way,,park,Angers,,,,47.5597382,-0.676455
+629981295,way,,park,Angers,,,,47.5595483,-0.6787473
+630021298,way,,park,Angers,,,,47.5578924,-0.6725876
+630043207,way,,park,Angers,,,,47.5723323,-0.6803406
+630046653,way,,garden,Angers,,,,47.5648337,-0.6744097
+630359802,way,,garden,Angers,,,,47.5658239,-0.6741569
+631105558,way,Le Val,park,Angers,,,,47.536638,-0.6268637
+631114710,way,Coulée verte Le Val,park,Angers,,,,47.5390106,-0.6232102
+631140766,way,,park,Angers,,,,47.5432718,-0.6409418
+631217847,way,,garden,Angers,,,,47.5359526,-0.6323274
+631227807,way,,park,Angers,,,,47.5355969,-0.6186883
+631420096,way,,garden,Angers,,,,47.467052,-0.5445882
+631420097,way,,garden,Angers,,,,47.467262,-0.5445805
+631556603,way,,park,Angers,,,,47.4718392,-0.5481974
+631571829,way,,garden,Angers,,,,47.4895259,-0.5886362
+631571830,way,,garden,Angers,,,,47.4892747,-0.5882077
+631571831,way,,garden,Angers,,,,47.4890384,-0.5877641
+631571832,way,,garden,Angers,,,,47.4887137,-0.5867746
+631571833,way,,garden,Angers,,,,47.4891662,-0.5870258
+631571834,way,,garden,Angers,,,,47.4888302,-0.5863009
+631654149,way,,park,Angers,,,,47.5379044,-0.6285382
+631654150,way,,park,Angers,,,,47.5373625,-0.6300653
+631654151,way,,park,Angers,,,,47.5374784,-0.6227256
+631654155,way,,park,Angers,,,,47.5379657,-0.6214186
+631654156,way,,park,Angers,,,,47.5379884,-0.6194097
+631654157,way,,park,Angers,,,,47.5373305,-0.6186557
+631654158,way,,park,Angers,,,,47.5365323,-0.6179381
+631672538,way,,park,Angers,,,,47.5365522,-0.6229026
+631674745,way,Guinguette Topette,restaurant,Angers,,,,47.53902,-0.6158732
+631674746,way,,park,Angers,,,,47.5392802,-0.615324
+631818032,way,,park,Angers,,,,47.5129684,-0.6073367
+633090338,way,,park,Angers,,,,47.5388588,-0.6185429
+635255557,way,,park,Angers,,,,47.4623572,-0.617393
+635306581,way,,park,Angers,,,,47.4715272,-0.6258816
+639375860,way,,garden,Angers,,,,47.4668925,-0.5443015
+639375861,way,,garden,Angers,,,,47.4668742,-0.5441735
+639375863,way,,garden,Angers,,,,47.4668346,-0.5440398
+639375864,way,,garden,Angers,,,,47.4668248,-0.5439199
+639375865,way,,garden,Angers,,,,47.4668032,-0.543811
+639375866,way,,garden,Angers,,,,47.4667188,-0.5438882
+639375867,way,,garden,Angers,,,,47.4666836,-0.543711
+639376795,way,,garden,Angers,,,,47.4665894,-0.5435486
+639376796,way,,garden,Angers,,,,47.4667078,-0.5433841
+639376797,way,,garden,Angers,,,,47.466485,-0.543342
+639377195,way,,garden,Angers,,,,47.4672215,-0.544296
+639379457,way,,garden,Angers,,,,47.4671709,-0.5436334
+639379458,way,,garden,Angers,,,,47.4670411,-0.5431582
+639379459,way,,garden,Angers,,,,47.4670316,-0.5430381
+639379460,way,,garden,Angers,,,,47.4669988,-0.5427774
+639379461,way,,garden,Angers,,,,47.4670071,-0.5425777
+639379462,way,,garden,Angers,,,,47.4668919,-0.5427219
+639428088,way,,garden,Angers,,,,47.4662632,-0.5430123
+639452377,way,,garden,Angers,,,,47.4676331,-0.5450929
+639452949,way,,garden,Angers,,,,47.4675485,-0.5464149
+639660046,way,,garden,Angers,,,,47.4660827,-0.5427423
+639660047,way,,garden,Angers,,,,47.4658917,-0.5425099
+639660050,way,,garden,Angers,,,,47.4658222,-0.5421723
+639664693,way,,garden,Angers,,,,47.46657,-0.5428677
+639664695,way,,garden,Angers,,,,47.4663415,-0.5421528
+639679904,way,,garden,Angers,,,,47.4670115,-0.5423362
+639679905,way,,garden,Angers,,,,47.4668228,-0.5419345
+639681187,way,,garden,Angers,,,,47.4670173,-0.5406672
+639724433,way,,garden,Angers,,,,47.4667541,-0.5448283
+639749133,way,,garden,Angers,,,,47.4659035,-0.5415224
+639838935,way,,park,Angers,,,,47.4609171,-0.6161565
+639838936,way,,park,Angers,,,,47.460571,-0.6154415
+640375437,way,,park,Angers,,,,47.4800932,-0.6248012
+640518859,way,,garden,Angers,,,,47.4616629,-0.5538696
+640603107,way,,garden,Angers,,,,47.4935655,-0.5658006
+640603110,way,,garden,Angers,,,,47.4939969,-0.5660032
+640603111,way,,garden,Angers,,,,47.4938627,-0.5659962
+640603112,way,,garden,Angers,,,,47.4938556,-0.5662076
+640603113,way,,garden,Angers,,,,47.4939914,-0.5662149
+640603114,way,,garden,Angers,,,,47.4939869,-0.5664296
+640603115,way,,garden,Angers,,,,47.4938519,-0.566423
+640603116,way,,garden,Angers,,,,47.4936933,-0.5664153
+640603117,way,,garden,Angers,,,,47.4937,-0.5661991
+640603118,way,,garden,Angers,,,,47.4937041,-0.5659878
+640603119,way,,garden,Angers,,,,47.4935611,-0.5659825
+640603120,way,,garden,Angers,,,,47.4935556,-0.566192
+640603121,way,,garden,Angers,,,,47.4935439,-0.5666156
+640603122,way,,garden,Angers,,,,47.493432,-0.5666103
+640603123,way,,garden,Angers,,,,47.4934387,-0.566402
+640603124,way,,garden,Angers,,,,47.4935522,-0.5664083
+641265112,way,Terrain de loisirs des Mortiers,park,Angers,,,,47.4529467,-0.5289728
+641349249,way,,park,Angers,,,,47.4775202,-0.6023883
+642521452,way,,garden,Angers,,,,47.4660484,-0.5408348
+642521454,way,,garden,Angers,,,,47.4660506,-0.5412729
+642522114,way,,garden,Angers,,,,47.4659925,-0.5403555
+642522878,way,,garden,Angers,,,,47.466038,-0.539968
+642523320,way,,garden,Angers,,,,47.4654034,-0.5411282
+642526481,way,,garden,Angers,,,,47.4654956,-0.5405701
+642526484,way,,garden,Angers,,,,47.4653024,-0.5419056
+642526485,way,,garden,Angers,,,,47.465156,-0.5415941
+642526486,way,,garden,Angers,,,,47.4651952,-0.5417886
+642526487,way,,garden,Angers,,,,47.4650024,-0.5413263
+642526488,way,,garden,Angers,,,,47.4650436,-0.5415321
+642529266,way,,garden,Angers,,,,47.4666702,-0.5410572
+642529846,way,,garden,Angers,,,,47.4664874,-0.5409305
+642532310,way,,garden,Angers,,,,47.4669636,-0.5414823
+642532311,way,,garden,Angers,,,,47.4668384,-0.5409794
+642532312,way,,garden,Angers,,,,47.4669439,-0.5408214
+642532478,way,,garden,Angers,,,,47.4672099,-0.5410115
+642532479,way,,garden,Angers,,,,47.4671595,-0.5414339
+642599620,way,,garden,Angers,,,,47.467506,-0.5440995
+642601812,way,,garden,Angers,,,,47.4679475,-0.5436917
+642601813,way,,garden,Angers,,,,47.4679918,-0.5439535
+642601814,way,,garden,Angers,,,,47.467562,-0.543668
+642602820,way,,garden,Angers,,,,47.4674841,-0.5430913
+642602821,way,,garden,Angers,,,,47.4673033,-0.5430017
+642603562,way,,garden,Angers,,,,47.467377,-0.5426435
+642603563,way,,garden,Angers,,,,47.4675709,-0.5424537
+642603837,way,,garden,Angers,,,,47.4671572,-0.5419379
+642604000,way,,garden,Angers,,,,47.4669605,-0.544367
+642949867,way,,ruins,Angers,,,,47.4556489,-0.4961747
+643371451,way,Parc de Chauffour,park,Angers,,,,47.4641781,-0.4818702
+646933010,way,,garden,Angers,,,,47.4243489,-0.5252557
+647237518,way,,garden,Angers,,,,47.4227482,-0.5238219
+647252440,way,JARD'IN,garden,Angers,,,,47.4599264,-0.5103359
+650596230,way,Parc de la Rame,park,Angers,,,,47.4695593,-0.5366087
+650596232,way,Parc Saint-Exupéry,park,Angers,,,,47.4682884,-0.5354813
+651658660,way,,park,Angers,,,,47.4329197,-0.7031246
+656975955,way,,park,Angers,,,,47.3307782,-0.6357573
+657648237,way,Château de la Haute-Guerche,castle,Angers,,,https://www.anjouhauteguerche.com/,47.322913,-0.6805997
+657648266,way,Logis de la Basse-Guerche,ruins,Angers,,,,47.3325788,-0.6928917
+661176317,way,Square du 11 Novembre,park,Angers,,,,47.4238608,-0.5600679
+661178075,way,Parc Petit Prince,park,Angers,,,,47.4691202,-0.534754
+664846649,way,Parc du château Rosseau,park,Angers,,,,47.4530604,-0.5082935
+665529207,way,Parc de Bel air,park,Angers,,,,47.4455445,-0.4962151
+666663949,way,,park,Angers,,,,47.468183,-0.4997764
+668029719,way,,park,Angers,,,,47.4193066,-0.5783409
+668307226,way,,garden,Angers,,,,47.4420128,-0.5841961
+668307228,way,,garden,Angers,,,,47.4420691,-0.5840112
+668307231,way,,garden,Angers,,,,47.4419675,-0.5840533
+668307233,way,,garden,Angers,,,,47.4419985,-0.584136
+668307235,way,,garden,Angers,,,,47.4419649,-0.5839602
+668307237,way,,garden,Angers,,,,47.4421434,-0.5838868
+668307239,way,,garden,Angers,,,,47.4421708,-0.5839701
+668307241,way,,garden,Angers,,,,47.4421738,-0.5840634
+668313029,way,,garden,Angers,,,,47.4393408,-0.5853975
+668313030,way,,garden,Angers,,,,47.4392329,-0.5854008
+668313031,way,,garden,Angers,,,,47.4388355,-0.5855745
+668313033,way,,garden,Angers,,,,47.4402071,-0.5885719
+668313034,way,,garden,Angers,,,,47.4397608,-0.5878771
+668319279,way,,garden,Angers,,,,47.4360063,-0.5879731
+668427936,way,,garden,Angers,,,,47.4321408,-0.5891914
+668427937,way,,garden,Angers,,,,47.4324339,-0.5906251
+668427938,way,,garden,Angers,,,,47.4330444,-0.5889728
+668432181,way,,garden,Angers,,,,47.4726579,-0.5635874
+669010019,way,,park,Angers,,,,47.4199742,-0.5590354
+669131922,way,Site de la Piverdière,park,Angers,,,,47.4370205,-0.6068417
+677973655,way,,park,Angers,,,,47.4253209,-0.5561056
+678103543,way,,park,Angers,,,,47.4256381,-0.5530823
+678394360,way,,garden,Angers,,,,47.4273512,-0.5568165
+682959306,way,,garden,Angers,,,,47.4767637,-0.5595385
+683250184,way,,garden,Angers,,,,47.4775065,-0.5588127
+684548402,way,,attraction,Angers,,,,47.501007,-0.5690659
+684548404,way,Terra vu du ciel,attraction,Angers,,,https://www.terrabotanica.fr/attraction/terra-vu-du-ciel/,47.5010647,-0.5685404
+684557065,way,La Ruée vers l'Ambre,attraction,Angers,,,,47.5000384,-0.5689062
+684561696,way,Le parcours de l'insolite,attraction,Angers,,,,47.5005571,-0.5681957
+684561722,way,,attraction,Angers,,,,47.5003789,-0.5688433
+684561725,way,Les plantes carnivores,attraction,Angers,,,,47.5001152,-0.5683229
+684561728,way,Le Jardin malin,attraction,Angers,,,,47.5006421,-0.5691952
+684562220,way,Le souffle d’Eole,attraction,Angers,,,,47.5008562,-0.5676663
+684568971,way,La Cale de Radoub,attraction,Angers,,,,47.5007458,-0.5713284
+684568972,way,Quai expéditions,attraction,Angers,,,,47.5005774,-0.5715166
+684568973,way,De la Loire à l'océan,attraction,Angers,,,,47.5009757,-0.5712701
+684568979,way,Les vignes du Roi René,attraction,Angers,,,,47.5022348,-0.5704783
+684569657,way,Les terrasses de Méditerranée,attraction,Angers,,,,47.5011322,-0.5696724
+684570906,way,Les paléobotanistes,attraction,Angers,,,,47.5013895,-0.56879
+684592530,way,L'odysée botanique,attraction,Angers,,,,47.5027907,-0.5699637
+684592531,way,La roseraie,attraction,Angers,,,,47.5022259,-0.5698081
+684812054,way,,garden,Angers,,,,47.4768102,-0.5650025
+686454751,way,,park,Angers,,,,47.3511248,-0.7565536
+689522103,way,,park,Angers,,,,47.4497911,-0.5360024
+689524519,way,,park,Angers,,,,47.4518967,-0.5324982
+689524522,way,,park,Angers,,,,47.4521045,-0.5316758
+689710865,way,Le jardin des Ombrages,garden,Angers,,,,47.4507624,-0.5422016
+690023275,way,,park,Angers,,,,47.4236758,-0.5669834
+690024336,way,,park,Angers,,,,47.4238354,-0.5650259
+690713311,way,,garden,Angers,,,,47.4755677,-0.5618191
+692495005,way,,garden,Angers,,,,47.4595382,-0.6690814
+692495006,way,,garden,Angers,,,,47.4595891,-0.6690129
+692495007,way,,garden,Angers,,,,47.4596127,-0.6690995
+692495008,way,,garden,Angers,,,,47.4597273,-0.6688996
+692495009,way,,garden,Angers,,,,47.4597684,-0.6689527
+692495011,way,,garden,Angers,,,,47.4595867,-0.6691795
+700592157,way,,garden,Angers,,,,47.4660171,-0.586817
+700640615,way,Galerie de l'Apocalypse,museum,Angers,,,,47.4698527,-0.5606133
+701381108,way,,garden,Angers,,,,47.3284732,-0.6710533
+701776424,way,,garden,Angers,,,,47.3286814,-0.6709147
+701776425,way,,garden,Angers,,,,47.3287859,-0.6707109
+701776428,way,,garden,Angers,,,,47.3288267,-0.6708635
+702105888,way,,park,Angers,,,,47.4945342,-0.5861056
+702110129,way,,park,Angers,,,,47.4948782,-0.5851886
+702312013,way,,garden,Angers,,,,47.5558248,-0.2312677
+702312014,way,,garden,Angers,,,,47.5566202,-0.2302662
+702511066,way,,garden,Angers,,,,47.3290665,-0.6702803
+705725803,way,Square Bordillon,park,Angers,,,,47.4735974,-0.5650289
+706152629,way,,garden,Angers,,,,47.3251732,-0.6640186
+706156074,way,Château de Noirieux,hotel,Angers,"26 Route du Moulin, 49125, Briollay",49125,https://www.chateaudenoirieux.com/,47.5760743,-0.4690351
+706323182,way,,garden,Angers,,,,47.3281004,-0.6682086
+708210101,way,Esplanade Cœur de Maine,park,Angers,,,,47.4732686,-0.5568941
+709199073,way,,park,Angers,,,,47.4496007,-0.5702133
+709199088,way,,park,Angers,,,,47.4486203,-0.5712785
+709199092,way,,park,Angers,,,,47.4503275,-0.5707969
+709199094,way,,park,Angers,,,,47.4508418,-0.5714587
+710075208,way,Parc du Musée-château de Villevêque,park,Angers,"44 Rue du Général de Gaulle, 49140, Villevêque",49140,,47.5612488,-0.4270968
+710678046,way,Per Adriano,artwork,Angers,,,,47.4692295,-0.5542022
+711805646,way,Le chat qui pêche,restaurant,Angers,"Rue du Port, 49460, Cantenay-Épinard",49460,,47.5284013,-0.5686364
+712353205,way,,park,Angers,,,,47.3850614,-0.6488839
+712647557,way,,garden,Angers,,,,47.4580445,-0.6691695
+712653935,way,,garden,Angers,,,,47.4588487,-0.6699709
+715347440,way,,garden,Angers,,,,47.4660263,-0.5455286
+715347441,way,,garden,Angers,,,,47.4665784,-0.5459616
+715347442,way,,garden,Angers,,,,47.4666294,-0.5458928
+715347443,way,,garden,Angers,,,,47.4666823,-0.5458708
+715347444,way,,garden,Angers,,,,47.4667308,-0.5458216
+715347445,way,,garden,Angers,,,,47.4667916,-0.5457542
+715347446,way,,garden,Angers,,,,47.4668497,-0.5457123
+715347447,way,,garden,Angers,,,,47.4668863,-0.545632
+715347448,way,,garden,Angers,,,,47.466936,-0.5456182
+715384902,way,,garden,Angers,,,,47.4667325,-0.5466102
+715384903,way,,garden,Angers,,,,47.4666105,-0.5468045
+715384904,way,,garden,Angers,,,,47.466563,-0.5468755
+715384905,way,,garden,Angers,,,,47.466485,-0.546953
+715384906,way,,garden,Angers,,,,47.466371,-0.546948
+715384907,way,,garden,Angers,,,,47.4663855,-0.5471191
+715384908,way,,garden,Angers,,,,47.4663441,-0.547056
+715384909,way,,garden,Angers,,,,47.4665105,-0.547291
+715384910,way,,garden,Angers,,,,47.466618,-0.5472125
+715384911,way,,garden,Angers,,,,47.4667015,-0.547007
+715384912,way,,garden,Angers,,,,47.466804,-0.547012
+715384913,way,,garden,Angers,,,,47.4668615,-0.5469385
+715384914,way,,garden,Angers,,,,47.466903,-0.5469145
+715384915,way,,garden,Angers,,,,47.466989,-0.5468605
+715384916,way,,garden,Angers,,,,47.4675556,-0.5471325
+715385819,way,,garden,Angers,,,,47.4667644,-0.5440329
+717574869,way,,park,Angers,,,,47.4036214,-0.9201802
+719467523,way,,park,Angers,,,,47.4798737,-0.5438079
+721740031,way,Monument des Fusillés,memorial,Angers,,,,47.481988,-0.5913089
+727120649,way,Parc Saint-Serge,park,Angers,,,,47.4813647,-0.5481802
+727753480,way,Le Park des Écots,park,Angers,,,,47.4728425,-0.6879644
+733657173,way,,park,Angers,,,,47.4779712,-0.5510916
+738581967,way,Parc du Prieuré Saint-Augustin,park,Angers,,,,47.4466212,-0.5272778
+744906206,way,,ruins,Angers,,,,47.4775609,-0.5786019
+750487306,way,,park,Angers,,,,47.4585225,-0.6015938
+751695596,way,Plaine de Jeux de Villechien,park,Angers,,,,47.4616205,-0.518361
+751695600,way,Square du Point du Jour,park,Angers,,,,47.4838278,-0.5155695
+753936431,way,,park,Angers,,,,47.4825824,-0.5034251
+756772496,way,,park,Angers,,,,47.4488149,-0.5056816
+756772507,way,Place des Tellières,park,Angers,,,,47.4422885,-0.4997751
+757544601,way,,garden,Angers,,,,47.4695943,-0.4733038
+757544602,way,,garden,Angers,,,,47.4696797,-0.4733653
+757544603,way,,garden,Angers,,,,47.4695562,-0.4734249
+757544604,way,,garden,Angers,,,,47.46964,-0.4734848
+757544605,way,,garden,Angers,,,,47.4696202,-0.4733962
+757544606,way,,garden,Angers,,,,47.4695485,-0.4736407
+757544607,way,,garden,Angers,,,,47.4701567,-0.473736
+757544608,way,,garden,Angers,,,,47.4701016,-0.4736997
+757544609,way,,garden,Angers,,,,47.4701831,-0.4736556
+757544610,way,,garden,Angers,,,,47.470211,-0.4737763
+757544611,way,,garden,Angers,,,,47.4701293,-0.4738165
+757544612,way,,garden,Angers,,,,47.4700848,-0.473979
+760561459,way,,garden,Angers,,,,47.5697471,-0.4206184
+772452807,way,Jardin botanique de la Faculté de pharmacie,garden,Angers,,,,47.4799867,-0.5581834
+775627947,way,,park,Angers,,,,47.4644007,-0.4941826
+780652239,way,,park,Angers,,,,47.4502871,-0.5638729
+780652240,way,,park,Angers,,,,47.4499239,-0.5654046
+780652260,way,,park,Angers,,,,47.4484811,-0.5619926
+780652261,way,,park,Angers,,,,47.446576,-0.5641733
+780652262,way,,park,Angers,,,,47.4481721,-0.5602448
+780652263,way,Parc Jules Verne,park,Angers,,,,47.446881,-0.5618135
+786257488,way,,park,Angers,,,,47.4624474,-0.608056
+793525223,way,Parc d'Ollone,park,Angers,"Rue Bressigny, 49100, Angers",49100,,47.4658992,-0.5490679
+795605982,way,,garden,Angers,,,,47.4902691,-0.5530488
+797359516,way,Parc Bocquel,park,Angers,"114 Boulevard Jean Sauvage, 49100, Angers",49100,,47.4897241,-0.559474
+799147015,way,Parc Saint Gabriel,park,Angers,,,,47.4498929,-0.5279073
+807265847,way,,ruins,Angers,,,,47.3178157,-0.6915383
+807265848,way,,ruins,Angers,,,,47.3177174,-0.6928862
+807284416,way,,park,Angers,,,,47.3224659,-0.6812111
+807604747,way,,park,Angers,,,,47.4787756,-0.5558023
+812852931,way,,garden,Angers,,,,47.4699686,-0.5605712
+812857297,way,,garden,Angers,,,,47.470594,-0.5596157
+813257865,way,,garden,Angers,,,,47.4718665,-0.5579734
+813257866,way,,garden,Angers,,,,47.4717263,-0.5581799
+813257867,way,,garden,Angers,,,,47.4723594,-0.5573988
+813257868,way,,garden,Angers,,,,47.4722598,-0.5573039
+813848251,way,,park,Angers,,,,47.4902576,-0.5618623
+819460742,way,Jardins familiaux Lucie Aubrac,garden,Angers,,,,47.4950408,-0.5614278
+821098716,way,,garden,Angers,,,,47.471991,-0.5580289
+821098717,way,,garden,Angers,,,,47.4720795,-0.557857
+821098718,way,,garden,Angers,,,,47.4719027,-0.5581966
+834147644,way,,garden,Angers,,,,47.4736661,-0.5561352
+834147645,way,,garden,Angers,,,,47.4728591,-0.557538
+842259126,way,,park,Angers,,,,47.3312804,-0.4765352
+846902749,way,,garden,Angers,,,,47.4072824,-0.8477919
+849277591,way,Maison du gardien,attraction,Angers,,,,47.4540801,-0.4924943
+851485582,way,Parc des Ardoisières,park,Angers,,,,47.4546259,-0.4909066
+851777334,way,Les Jardins du Château du Pin,garden,Angers,,,,47.4282406,-0.8489553
+851813944,way,,park,Angers,,,,47.4268837,-0.8501839
+855629187,way,,park,Angers,,,,47.4603003,-0.4963674
+867344959,way,,park,Angers,"49630, Corné",49630,,47.4640485,-0.3527353
+867345081,way,plage aux oiseaux,beach,Angers,,,,47.41584,-0.4671107
+868721937,way,,park,Angers,,,,47.5631573,-0.5030161
+868721966,way,,park,Angers,,,,47.5721626,-0.5031375
+870842190,way,Parc de la Guillebotte,park,Angers,Avenue de la Guillebotte,,,47.4318538,-0.5188092
+876505231,way,,park,Angers,,,,47.4655487,-0.5312834
+881034973,way,Jardin Marie Laurencin,garden,Angers,,,,47.4548011,-0.5260972
+882827580,way,,garden,Angers,,,,47.4204868,-0.2909464
+882914367,way,,garden,Angers,,,,47.4232164,-0.3132877
+882914368,way,,garden,Angers,,,,47.4241809,-0.3150114
+882914370,way,,garden,Angers,,,,47.4246953,-0.3156653
+882914371,way,,garden,Angers,,,,47.4252026,-0.3189289
+882914372,way,,garden,Angers,,,,47.4258028,-0.3188488
+882914373,way,,garden,Angers,,,,47.4267004,-0.3186025
+882914375,way,,garden,Angers,,,,47.427604,-0.3221044
+882914376,way,,garden,Angers,,,,47.4283373,-0.3216993
+882914377,way,,garden,Angers,,,,47.4264492,-0.3234307
+882914378,way,,garden,Angers,,,,47.4298474,-0.3220727
+882914379,way,,garden,Angers,,,,47.4309784,-0.3210875
+883402285,way,,garden,Angers,,,,47.4320384,-0.3070265
+883402288,way,,garden,Angers,,,,47.4324379,-0.3074048
+883403296,way,,garden,Angers,,,,47.4320255,-0.3044003
+883403298,way,,garden,Angers,,,,47.4301611,-0.3087858
+883404433,way,,garden,Angers,,,,47.4345289,-0.3157385
+883404434,way,,garden,Angers,,,,47.4351175,-0.315754
+883404435,way,,garden,Angers,,,,47.4353572,-0.3165804
+883404436,way,,garden,Angers,,,,47.4359687,-0.3168621
+884741675,way,,garden,Angers,,,,47.4331654,-0.3200439
+885131794,way,,garden,Angers,,,,47.4193975,-0.3237861
+886507060,way,,garden,Angers,,,,47.4828953,-0.5551805
+888899498,way,,park,Angers,,,,47.5230026,-0.6707876
+888937233,way,,park,Angers,,,,47.5243654,-0.669208
+888937235,way,,park,Angers,,,,47.5216686,-0.6708239
+888937243,way,,park,Angers,,,,47.5214577,-0.6672467
+895661881,way,,park,Angers,,,,47.4632414,-0.4947532
+905763918,way,,park,Angers,,,,47.568724,-0.5011466
+906523317,way,,garden,Angers,,,,47.5625736,-0.5094144
+907056207,way,,garden,Angers,,,,47.4676563,-0.5428835
+907056208,way,,garden,Angers,,,,47.4678751,-0.5413063
+907056210,way,,garden,Angers,,,,47.467718,-0.5409962
+907173743,way,,garden,Angers,,,,47.467172,-0.5405294
+907173744,way,,garden,Angers,,,,47.4672732,-0.5396458
+907173745,way,,garden,Angers,,,,47.4671707,-0.5391798
+907173746,way,,garden,Angers,,,,47.467417,-0.5402571
+907173747,way,,garden,Angers,,,,47.4669988,-0.5403731
+907173748,way,,garden,Angers,,,,47.4671773,-0.5397034
+907173749,way,,garden,Angers,,,,47.467172,-0.5403826
+907173750,way,,garden,Angers,,,,47.4671625,-0.540317
+907365476,way,Jardin de l'Esvière,park,Angers,,,,47.4674754,-0.5632781
+907565751,way,,garden,Angers,,,,47.4661041,-0.541574
+910471221,way,Square des Tonneliers,park,Angers,,,,47.4746569,-0.5622082
+917183668,way,,garden,Angers,,,,47.4668685,-0.5402554
+921796144,way,,park,Angers,,,,47.410044,-0.8707537
+931387045,way,,park,Angers,,,,47.4478631,-0.5169247
+936113665,way,Parc Joséphine Baker,park,Angers,,,,47.4886063,-0.5628875
+936428987,way,Château de Serrant,castle,Angers,,,https://www.chateau-serrant.net/,47.4151754,-0.743943
+955374638,way,,garden,Angers,,,,47.4673575,-0.5545133
+955374656,way,Jardins de la Préfecture,park,Angers,,,,47.467577,-0.5534132
+956966915,way,,park,Angers,,,,47.4856422,-0.5539428
+964898956,way,,park,Angers,,,,47.3553853,-0.6553867
+966998878,way,Muséum des Sciences Naturelles,museum,Angers,"43 Rue Jules Guitton, 49000, Angers",49000,https://musees.angers.fr/lieux/museum-des-sciences-naturelles/index.html,47.4737861,-0.546504
+967008840,way,Ancien couvent des cordeliers de la Baumette,museum,Angers,,,,47.4504302,-0.5873072
+972058673,way,,park,Angers,,,,47.4521969,-0.8952516
+972064258,way,,park,Angers,,,,47.4450132,-0.9037418
+972220647,way,Square de la Petite Fontaine,park,Angers,,,,47.4751232,-0.5632253
+972291252,way,,garden,Angers,,,,47.4743812,-0.5641102
+972291253,way,,garden,Angers,,,,47.4747906,-0.5649735
+972547816,way,Le Clos,restaurant,Angers,,,,47.4681667,-0.594533
+978224948,way,Musée du Génie,museum,Angers,,,https://www.musee-du-genie-angers.fr/,47.4571975,-0.5651073
+978241130,way,,park,Angers,,,,47.4534618,-0.5567163
+978366710,way,,park,Angers,,,,47.5825236,-0.3604097
+978366713,way,,park,Angers,,,,47.5808695,-0.3603112
+978366714,way,,park,Angers,,,,47.582587,-0.3590345
+978713639,way,Les mystères de la Forêt,attraction,Angers,,,,47.503354,-0.5691714
+980814086,way,Le coin des amoureux,attraction,Angers,,,,47.5022829,-0.5695659
+981021262,way,Instants d'Asie,attraction,Angers,,,,47.5003087,-0.5694127
+983025849,way,Jardin Georgette-Boulestreau,park,Angers,,,,47.4866145,-0.529083
+984716788,way,Parc de l’UCO,park,Angers,,,,47.4635914,-0.5472165
+991450465,way,,park,Angers,,,,47.4836226,-0.5294191
+991474117,way,Château du Plessis-Macé,castle,Angers,,,,47.5447076,-0.6759082
+1000286623,way,,park,Angers,,,,47.4961605,-0.57323
+1000286626,way,,park,Angers,,,,47.4927993,-0.5748794
+1000319022,way,,garden,Angers,,,,47.4667196,-0.5434646
+1000319023,way,,garden,Angers,,,,47.466651,-0.54325
+1000319024,way,,garden,Angers,,,,47.466621,-0.5431205
+1000319027,way,,garden,Angers,,,,47.4665755,-0.543702
+1000319030,way,,garden,Angers,,,,47.46668,-0.543584
+1000319035,way,,garden,Angers,,,,47.466678,-0.5438612
+1000319037,way,,garden,Angers,,,,47.4667485,-0.5439744
+1000319043,way,,garden,Angers,,,,47.4660756,-0.5404125
+1000319044,way,,garden,Angers,,,,47.4659466,-0.5405414
+1000319045,way,,garden,Angers,,,,47.4660205,-0.540211
+1000319053,way,,garden,Angers,,,,47.466171,-0.5411485
+1000319054,way,,garden,Angers,,,,47.466308,-0.541447
+1000319055,way,,garden,Angers,,,,47.466232,-0.54119
+1000319056,way,,garden,Angers,,,,47.466319,-0.5411976
+1000319057,way,,garden,Angers,,,,47.4659671,-0.5410086
+1000319061,way,,garden,Angers,,,,47.4659957,-0.5417485
+1000319063,way,,garden,Angers,,,,47.4658657,-0.542343
+1000319078,way,,garden,Angers,,,,47.4675446,-0.546355
+1000319079,way,,garden,Angers,,,,47.4676215,-0.546327
+1000319080,way,,garden,Angers,,,,47.4675352,-0.5461367
+1000319083,way,,garden,Angers,,,,47.467561,-0.546242
+1000324807,way,Parc de l'Arceau,park,Angers,,,,47.4708835,-0.5205901
+1000338107,way,,garden,Angers,,,,47.4576675,-0.551163
+1000338113,way,,garden,Angers,,,,47.4579257,-0.5512149
+1000338116,way,,garden,Angers,,,,47.4580282,-0.5511019
+1000338117,way,,garden,Angers,,,,47.45799,-0.5509856
+1000338118,way,,garden,Angers,,,,47.4578884,-0.5509265
+1000338119,way,,garden,Angers,,,,47.4578115,-0.5508557
+1000338120,way,,garden,Angers,,,,47.4577336,-0.5506084
+1000338121,way,,garden,Angers,,,,47.457754,-0.5507115
+1000338122,way,,garden,Angers,,,,47.457791,-0.5507795
+1000338123,way,,garden,Angers,,,,47.457173,-0.5512316
+1000338124,way,,garden,Angers,,,,47.4573838,-0.551269
+1000338125,way,,garden,Angers,,,,47.4572909,-0.5512493
+1000338126,way,,garden,Angers,,,,47.457567,-0.5511591
+1000338127,way,,garden,Angers,,,,47.457461,-0.5512896
+1000338128,way,,garden,Angers,,,,47.4575575,-0.551459
+1000509677,way,,garden,Angers,,,,47.4667745,-0.5403012
+1000509678,way,,garden,Angers,,,,47.4667937,-0.5400989
+1000509681,way,,garden,Angers,,,,47.4666752,-0.5403303
+1000509682,way,,garden,Angers,,,,47.4667925,-0.5400042
+1000509683,way,,garden,Angers,,,,47.466612,-0.5403855
+1000509684,way,,garden,Angers,,,,47.4664576,-0.5403807
+1000509685,way,,garden,Angers,,,,47.4665335,-0.540506
+1000509686,way,,garden,Angers,,,,47.4665118,-0.5401952
+1000509687,way,,garden,Angers,,,,47.46678,-0.5399102
+1000509688,way,,garden,Angers,,,,47.4667878,-0.5397863
+1000509691,way,,garden,Angers,,,,47.466493,-0.5400585
+1000509692,way,,garden,Angers,,,,47.4665112,-0.5399597
+1000514940,way,,garden,Angers,,,,47.4678922,-0.5435356
+1000514941,way,,garden,Angers,,,,47.467863,-0.543834
+1000514942,way,,garden,Angers,,,,47.4675307,-0.5436055
+1000514943,way,,garden,Angers,,,,47.4675857,-0.5437192
+1000514944,way,,garden,Angers,,,,47.4676045,-0.5438348
+1000514945,way,,garden,Angers,,,,47.4675929,-0.543996
+1000514946,way,,garden,Angers,,,,47.4675635,-0.5440088
+1000514947,way,,garden,Angers,,,,47.4676894,-0.5439605
+1000514948,way,,garden,Angers,,,,47.467655,-0.5439723
+1000514949,way,,garden,Angers,,,,47.4677282,-0.5437376
+1000514950,way,,garden,Angers,,,,47.467492,-0.543469
+1002052956,way,,park,Angers,,,,47.4407216,-0.4960971
+1002052957,way,,park,Angers,,,,47.4395397,-0.4959116
+1002101477,way,Le Temple de Monplaisir,artwork,Angers,,,,47.4882888,-0.5264631
+1002246888,way,Ancien Stand de tir 1876- 1950,ruins,Angers,,,,47.481582,-0.5898773
+1007363284,way,,park,Angers,,,,47.4013456,-0.5260736
+1008161944,way,Parc du Jau,park,Angers,,,,47.3999369,-0.5328582
+1008161945,way,Parc Saint-Pierre,park,Angers,,,,47.3996065,-0.535603
+1015915350,way,,park,Angers,,,,47.327224,-0.8166951
+1018714855,way,,park,Angers,,,,47.5300643,-0.6075961
+1018841916,way,Pause Jardin,garden,Angers,,,,47.4903892,-0.5673658
+1018991656,way,,park,Angers,,,,47.5256823,-0.5930123
+1018991659,way,,park,Angers,,,,47.5278859,-0.5944211
+1018991660,way,,park,Angers,,,,47.5275659,-0.5989782
+1019168491,way,,park,Angers,,,,47.5245783,-0.6095405
+1019361245,way,Parc Verdun,park,Angers,,,,47.5032595,-0.5907984
+1019361259,way,,park,Angers,,,,47.5051738,-0.605162
+1019368990,way,,park,Angers,,,,47.5003619,-0.5825081
+1019712686,way,Parc du Château,park,Angers,,,,47.4192589,-0.6138712
+1019921763,way,,park,Angers,,,,47.4414679,-0.604943
+1020056151,way,Parc du Prieuré,park,Angers,,,,47.4730766,-0.6333352
+1020190536,way,,park,Angers,,,,47.4785319,-0.628428
+1020190537,way,,park,Angers,,,,47.4797164,-0.6269843
+1020190544,way,,park,Angers,,,,47.4781007,-0.6257179
+1020190555,way,Square des Mouettes,park,Angers,,,,47.471435,-0.6297651
+1020190567,way,,park,Angers,,,,47.4679791,-0.633048
+1020190570,way,,park,Angers,,,,47.4700289,-0.6319411
+1020190571,way,,park,Angers,,,,47.4699319,-0.6291772
+1020190573,way,,park,Angers,,,,47.4690615,-0.6283071
+1020190574,way,,park,Angers,,,,47.4688212,-0.6324108
+1020190575,way,,park,Angers,,,,47.4695424,-0.6331626
+1020328620,way,Promenade Frida Kahlo,park,Angers,,,,47.4788157,-0.6326846
+1020328621,way,Espace des sources,park,Angers,,,,47.4765915,-0.6358183
+1020328649,way,,park,Angers,,,,47.4782063,-0.624091
+1020594871,way,,park,Angers,,,,47.4076183,-0.481716
+1020594878,way,,park,Angers,,,,47.406226,-0.4871985
+1021348446,way,,park,Angers,,,,47.3928482,-0.4326047
+1021579408,way,,garden,Angers,,,,47.3932471,-0.3133102
+1022947896,way,,park,Angers,,,,47.5596274,-0.4249799
+1023369717,way,,park,Angers,,,,47.4976446,-0.3204708
+1028610536,way,,park,Angers,,,,47.5425893,-0.6792828
+1053139138,way,,garden,Angers,,,,47.4488739,-0.6027407
+1054663671,way,,garden,Angers,,,,47.4559368,-0.6570262
+1056838276,way,,garden,Angers,,,,47.4540976,-0.5699281
+1056838278,way,,garden,Angers,,,,47.4546108,-0.5695105
+1057677392,way,Square des colverts,park,Angers,,,,47.4725217,-0.6272808
+1058302016,way,,park,Angers,,,,47.660769,-0.4236955
+1058314537,way,,park,Angers,,,,47.35468,-0.4454865
+1065892433,way,Jardin du Musée Jean-Lurçat et de la Tapisserie Contemporaine,park,Angers,,,,47.4778187,-0.5575721
+1067980393,way,,park,Angers,,,,47.4868254,-0.5780962
+1069340250,way,Musée de l'Ardoise,museum,Angers,,,https://www.lemuseedelardoise.fr/,47.4467824,-0.4888704
+1085272530,way,,park,Angers,,,,47.5205316,-0.6651253
+1091019583,way,,garden,Angers,,,,47.4812276,-0.5554442
+1091019588,way,,garden,Angers,,,,47.4814156,-0.5561581
+1104433748,way,,park,Angers,,,,47.4511288,-0.538673
+1107056963,way,Parc du Neufbourg,park,Angers,,,,47.2676855,-0.5021478
+1117343608,way,Parc Saint-Lambert,park,Angers,,,,47.4934939,-0.7275546
+1118465651,way,CAJU - Cabane du Jardinier Urbain,garden,Angers,,,,47.4881743,-0.5380286
+1125638089,way,,attraction,Angers,,,,47.4434464,-0.5029469
+1127456767,way,Anciennes latrines,ruins,Angers,,,,47.4781138,-0.5584289
+1133857008,way,,park,Angers,,,,47.6355129,-0.3034088
+1133857011,way,,park,Angers,,,,47.6467966,-0.3086384
+1134538998,way,,park,Angers,,,,47.4416484,-0.4872106
+1135231898,way,,park,Angers,,,,47.6048878,-0.3995473
+1136132755,way,,park,Angers,,,,47.4779342,-0.6800599
+1139162472,way,,park,Angers,,,,47.306962,-0.5646627
+1143943782,way,,park,Angers,,,,47.2518316,-0.4868318
+1153434284,way,Rouge Cerise,restaurant,Angers,,,,47.4828385,-0.5745092
+1195542864,way,,park,Angers,,,,47.4480513,-0.570243
+1202387253,way,Guinguette Border Wine,restaurant,Angers,"Port Maillard, 49800, La Daguenière",49800,,47.4174691,-0.4383288
+1202545263,way,,artwork,Angers,,,,47.4474423,-0.5393758
+1203104947,way,,park,Angers,,,,47.4326561,-0.498024
+1203368750,way,,park,Angers,,,,47.6744405,-0.2345786
+1204971710,way,Parc de la mairie,park,Angers,,,,47.5013246,-0.4327829
+1209367884,way,,park,Angers,,,,47.5811658,-0.3554937
+1209367890,way,,park,Angers,,,,47.5800073,-0.3545392
+1211229749,way,,attraction,Angers,,,,47.4556209,-0.657499
+1211229750,way,,attraction,Angers,,,,47.4556118,-0.6574353
+1211229751,way,,attraction,Angers,,,,47.4556367,-0.6576036
+1211229752,way,,attraction,Angers,,,,47.4553948,-0.6557302
+1213422565,way,Érable et loups,artwork,Angers,,,,47.4632246,-0.5595185
+1213810386,way,,park,Angers,,,,47.4619813,-0.6649793
+1231745299,way,Château de la Motte-Grollier,castle,Angers,,,,47.7187383,-0.2038139
+1232167048,way,Apocalypsis,artwork,Angers,,,,47.4681104,-0.5516946
+1238023615,way,,garden,Angers,,,,47.4755916,-0.564651
+1238023616,way,,garden,Angers,,,,47.4754577,-0.5645126
+1238023619,way,,garden,Angers,,,,47.4753133,-0.5644354
+1238405396,way,,garden,Angers,,,,47.4751462,-0.5655741
+1238405397,way,,garden,Angers,,,,47.4751912,-0.5651326
+1238405398,way,,garden,Angers,,,,47.4752265,-0.5652692
+1238405399,way,,garden,Angers,,,,47.4752012,-0.5654765
+1242473428,way,,park,Angers,,,,47.4432657,-0.5034809
+1246816048,way,,park,Angers,,,,47.5272115,-0.7428712
+1246821700,way,,park,Angers,,,,47.5216051,-0.7478106
+1246824272,way,,garden,Angers,,,,47.5238037,-0.7435331
+1271450472,way,,park,Angers,,,,47.4622625,-0.6155449
+1273920473,way,Le jardin des Essais,garden,Angers,,,,47.4502444,-0.5424734
+1274580714,way,La Chêneraie,garden,Angers,,,https://aspeja.fr/jardin/la-cheneraie/,47.4204978,-0.5581724
+1274580723,way,,park,Angers,,,,47.4199599,-0.5594513
+1275353558,way,,park,Angers,,,,47.4901184,-0.5287726
+1276197634,way,,garden,Angers,,,,47.4679782,-0.541354
+1276197635,way,,garden,Angers,,,,47.4678145,-0.5415039
+1276197636,way,,garden,Angers,,,,47.4677312,-0.541455
+1276197637,way,,garden,Angers,,,,47.4676501,-0.5414877
+1276197638,way,,garden,Angers,,,,47.4676085,-0.541537
+1276197639,way,,garden,Angers,,,,47.4675525,-0.5416125
+1276197640,way,,garden,Angers,,,,47.467503,-0.5416014
+1276197641,way,,garden,Angers,,,,47.467472,-0.541717
+1276197642,way,,garden,Angers,,,,47.467417,-0.5417705
+1276197643,way,,garden,Angers,,,,47.467375,-0.5418083
+1276197644,way,,garden,Angers,,,,47.4673335,-0.5418907
+1276197645,way,,garden,Angers,,,,47.4673033,-0.5418122
+1276197646,way,,garden,Angers,,,,47.4673095,-0.5417149
+1276197647,way,,garden,Angers,,,,47.4672995,-0.5416497
+1276197648,way,,garden,Angers,,,,47.4673275,-0.5415344
+1276197649,way,,garden,Angers,,,,47.467313,-0.5415941
+1276197650,way,,garden,Angers,,,,47.4673409,-0.541467
+1276197654,way,,garden,Angers,,,,47.4673735,-0.5413946
+1276197655,way,,garden,Angers,,,,47.467249,-0.5412847
+1276718502,way,,park,Angers,,,,47.4835075,-0.5783725
+1281370076,way,,garden,Angers,,,,47.4724766,-0.5574396
+1282022931,way,,garden,Angers,,,,47.47293,-0.5569272
+1282022932,way,,garden,Angers,,,,47.4727154,-0.5574284
+1286906298,way,La guinguette Mazette,restaurant,Angers,"Rue de Sauron, 49000, Écouflant",49000,,47.5277344,-0.528249
+1289579198,way,,park,Angers,,,,47.4792365,-0.6830731
+1289579199,way,,park,Angers,,,,47.4790563,-0.6808435
+1291381308,way,,park,Angers,,,,47.5612668,-0.6725594
+1291381318,way,,park,Angers,,,,47.5616996,-0.6728388
+1291381319,way,,garden,Angers,,,,47.5618266,-0.6729441
+1291381327,way,Jardin des Curiosités,garden,Angers,,,,47.5604566,-0.6766821
+1296292777,way,,artwork,Angers,,,,47.4440365,-0.56298
+1296301043,way,Yaye,artwork,Angers,,,,47.4483515,-0.5626805
+1296311974,way,Le Flux,artwork,Angers,,,,47.4529766,-0.5256768
+1296315481,way,Le Mur sympathique,artwork,Angers,,,,47.4650026,-0.5499916
+1296327704,way,Distortion,artwork,Angers,,,,47.4696865,-0.5503705
+1296353102,way,Ne faites point de mal à la Terre,artwork,Angers,,,,47.472818,-0.565687
+1296354757,way,Hope,artwork,Angers,,,,47.472233,-0.5939429
+1296358000,way,,artwork,Angers,,,,47.4768505,-0.5969935
+1296358001,way,,artwork,Angers,,,,47.477131,-0.5968465
+1296364995,way,,artwork,Angers,,,,47.4820686,-0.5537676
+1296379658,way,Landscape Composition,artwork,Angers,,,,47.490655,-0.5526471
+1296403460,way,Les passants de la rue Cordelle,artwork,Angers,,,,47.471678,-0.5510985
+1296584197,way,Forêt sensible,artwork,Angers,,,,47.4729675,-0.551891
+1296585799,way,,artwork,Angers,,,,47.473218,-0.5526085
+1296585800,way,,artwork,Angers,,,,47.473284,-0.5524515
+1296588740,way,Dix sections,artwork,Angers,,,,47.473796,-0.5515425
+1296590077,way,Enjambement,artwork,Angers,,,,47.4733826,-0.5495733
+1296597483,way,La Cabane dans les arbres,artwork,Angers,,,,47.4733245,-0.5448445
+1296657224,way,Reste,artwork,Angers,,,,47.4763593,-0.5502184
+1296662141,way,FAMA,artwork,Angers,,,,47.479125,-0.549288
+1297641123,way,,park,Angers,,,,47.35811,-0.5556901
+1298745441,way,Les Trobairitz Sisters,artwork,Angers,,,,47.485106,-0.5272349
+1298749664,way,,artwork,Angers,,,,47.4766974,-0.528522
+1298752087,way,Tous les murs sont supports de rêveries quand ils sont plus bas que l’horizon,artwork,Angers,,,,47.4747323,-0.5304833
+1298863674,way,,artwork,Angers,,,,47.4707335,-0.5311057
+1298863679,way,,artwork,Angers,,,,47.4715245,-0.538795
+1298863680,way,,artwork,Angers,,,,47.4716475,-0.5382001
+1301947087,way,,park,Angers,,,,47.4085414,-0.8377518
+1303074261,way,Voie Blanche,memorial,Angers,,,,47.463053,-0.5601517
+1305448742,way,,park,Angers,Rue des Chênes,,,47.3989482,-0.5245825
+1307488186,way,Quai des origines,attraction,Angers,,,,47.5019671,-0.5678983
+1307961072,way,,beach,Angers,,,,47.3491625,-0.7307356
+1307961073,way,,beach,Angers,,,,47.3478009,-0.6873654
+1316755232,way,,garden,Angers,,,,47.478368,-0.5424195
+1316755233,way,,garden,Angers,,,,47.4783334,-0.5424605
+1322091488,way,La clairière aux animaux,attraction,Angers,,,,47.5030625,-0.5718292
+1322102849,way,Le Jardin des Légendes,attraction,Angers,,,,47.502154,-0.5691175
+1322457190,way,Domaine des 3 Villages,hotel,Angers,700 Route de la Moncellière,,https://domainedes3villages.fr/,47.438097,-0.608801
+1327181562,way,,garden,Angers,,,,47.5034321,-0.5866084
+1327181564,way,,garden,Angers,,,,47.5038423,-0.586779
+1327181565,way,,garden,Angers,,,,47.5035597,-0.5864917
+1327181566,way,,garden,Angers,,,,47.5033288,-0.5865036
+1327860951,way,Square Henri Ribière,park,Angers,,,,47.3125714,-0.5959691
+1334807240,way,Parc des Collines,park,Angers,,,,47.446576,-0.5641733
+1335691759,way,,garden,Angers,,,,47.5214093,-0.6105223
+1335691760,way,,garden,Angers,,,,47.5215798,-0.6107493
+1336765729,way,,park,Angers,,,,47.5252935,-0.6040997
+1336774050,way,,park,Angers,,,,47.5232702,-0.6051851
+1336775704,way,,park,Angers,,,,47.524078,-0.6071418
+1336775705,way,,park,Angers,,,,47.5236919,-0.6063498
+1337715039,way,,park,Angers,,,,47.5119651,-0.5975166
+1337931104,way,,park,Angers,,,,47.5087183,-0.6037088
+1337936557,way,,park,Angers,,,,47.5018175,-0.5822245
+1337949740,way,,park,Angers,,,,47.4998164,-0.5871441
+1338229107,way,,park,Angers,,,,47.5133894,-0.6030585
+1338229109,way,,park,Angers,,,,47.5126877,-0.6029273
+1338308189,way,,park,Angers,,,,47.5176094,-0.4776208
+1338308194,way,,park,Angers,,,,47.5183397,-0.474483
+1338641183,way,,garden,Angers,,,,47.5172252,-0.6703056
+1338641720,way,,park,Angers,,,,47.5176247,-0.671075
+1339464390,way,,park,Angers,,,,47.4924453,-0.5061314
+1340525242,way,,park,Angers,,,,47.4935249,-0.5723061
+1340567328,way,,park,Angers,,,,47.4837392,-0.6830749
+1341758952,way,,park,Angers,,,,47.4803134,-0.5323287
+1343695948,way,,park,Angers,,,,47.4992113,-0.5813913
+1351808299,way,Les 2 épis,restaurant,Angers,,,,47.4682541,-0.5962732
+1351808346,way,La Renommée,restaurant,Angers,,,,47.4680909,-0.5961977
+1357153173,way,,park,Angers,,,,47.4884578,-0.539725
+1360650680,way,,park,Angers,,,,47.4930995,-0.5522378
+1360954441,way,,park,Angers,,,,47.4852449,-0.6792951
+1361475837,way,,park,Angers,,,,47.498209,-0.5804415
+1364967184,way,,park,Angers,,,,47.476235,-0.5882802
+1373618417,way,,park,Angers,,,,47.4810806,-0.5802088
+1375316213,way,,artwork,Angers,,,,47.5221581,-0.6116429
+1375318570,way,,park,Angers,,,,47.4769387,-0.5631143
+1377589280,way,,garden,Angers,,,,47.4779324,-0.5572279
+1377589281,way,,garden,Angers,,,,47.4780666,-0.557187
+1379883850,way,,park,Angers,,,,47.448159,-0.5481447
+1387347778,way,Aventure au bayou,attraction,Angers,,,,47.5017386,-0.5716733
+1387347849,way,Jardin pédagogique,attraction,Angers,,,,47.5020013,-0.5711995
+1387347852,way,,artwork,Angers,,,,47.502245,-0.5704841
+1388018450,way,,park,Angers,,,,47.489535,-0.5602323
+1388021165,way,,park,Angers,,,,47.4892813,-0.5625868
+1388723010,way,,garden,Angers,,,,47.4912707,-0.5539152
+1388802412,way,,garden,Angers,,,,47.4942213,-0.5731588
+1388802413,way,,garden,Angers,,,,47.4939716,-0.5729416
+1389835283,way,,park,Angers,,,,47.4607533,-0.6062078
+1389987931,way,,park,Angers,,,,47.4618293,-0.6092336
+1389998092,way,,garden,Angers,,,,47.4944785,-0.572624
+1395614999,way,,garden,Angers,,,,47.4456581,-0.5651653
+1395987362,way,,park,Angers,,,,47.6093347,-0.374601
+1409291260,way,,garden,Angers,,,,47.4778918,-0.5972292
+1409584286,way,,garden,Angers,,,,47.4281313,-0.566163
+1412984845,way,,garden,Angers,,,,47.5757829,-0.4689918
+1412985033,way,,garden,Angers,,,,47.5238512,-0.5984886
+1414676435,way,Restaurant Elior Entreprises,restaurant,Angers,,,,47.4720115,-0.6097535
+1414889072,way,,park,Angers,,,,47.4085108,-0.8680524
+1414892377,way,,park,Angers,,,,47.5226149,-0.4638604
+1415841780,way,,park,Angers,,,,47.4541885,-0.9424188
+1420718093,way,,artwork,Angers,,,,47.502807,-0.5708129
+1420718094,way,,artwork,Angers,,,,47.5030384,-0.5704589
+1420718095,way,,artwork,Angers,,,,47.5032686,-0.5702987
+1420718096,way,,artwork,Angers,,,,47.5030779,-0.5694241
+1420718097,way,,artwork,Angers,,,,47.5030597,-0.569364
+1420718098,way,,artwork,Angers,,,,47.5031251,-0.5695778
+1420718099,way,,artwork,Angers,,,,47.5031069,-0.5695177
+1420718102,way,,artwork,Angers,,,,47.5027038,-0.5675199
+1420718103,way,,artwork,Angers,,,,47.5026874,-0.5674299
+1420718104,way,,artwork,Angers,,,,47.5024805,-0.5670816
+1420718105,way,,artwork,Angers,,,,47.502421,-0.567073
+1421337762,way,,park,Angers,,,,47.4769129,-0.5957061
+1422299579,way,,park,Angers,,,,47.3829327,-0.6079708
+1423103229,way,,viewpoint,Angers,,,,47.352313,-0.4103847
+1423255857,way,,park,Angers,,,,47.491859,-0.511806
+1423335421,way,,garden,Angers,,,,47.4805269,-0.5560608
+1423335432,way,,garden,Angers,,,,47.4805923,-0.5554429
+1423335449,way,,garden,Angers,,,,47.4803993,-0.5559968
+1423843748,way,Baignade de Villevêque,park,Angers,,,,47.5634375,-0.4246876
+1434510395,way,Galeries d'art,park,Angers,,,,47.3833638,-0.6564087
+1435819912,way,,park,Angers,,,,47.3438919,-0.7470851
+1436638599,way,,park,Angers,,,,47.4499225,-0.6149289
+1436679838,way,,park,Angers,,,,47.4402025,-0.6104889
+1444540965,way,,garden,Angers,,,,47.3555563,-0.4494902
+1445385225,way,,garden,Angers,,,,47.4940887,-0.5661863
+1445724029,way,,garden,Angers,,,,47.4317882,-0.5007991
+1445724030,way,,garden,Angers,,,,47.4317863,-0.5009991
+1445724031,way,,garden,Angers,,,,47.4317901,-0.5005915
+1445724032,way,,garden,Angers,,,,47.4317924,-0.500395
+1445724033,way,,garden,Angers,,,,47.4317939,-0.5001758
+1445724034,way,,garden,Angers,,,,47.4317956,-0.4999075
+1445724035,way,,garden,Angers,,,,47.431849,-0.4998953
+1445724036,way,,garden,Angers,,,,47.4318438,-0.5001548
+1445724037,way,,garden,Angers,,,,47.4318473,-0.5003805
+1445724038,way,,garden,Angers,,,,47.4318945,-0.5005886
+1445724039,way,,garden,Angers,,,,47.4319309,-0.5008055
+1445724040,way,,garden,Angers,,,,47.4318989,-0.5010287
+1445725353,way,,garden,Angers,,,,47.4319261,-0.5003604
+1445725354,way,,garden,Angers,,,,47.4319242,-0.5002872
+1445725355,way,,garden,Angers,,,,47.4319749,-0.5000794
+1445725356,way,,garden,Angers,,,,47.4319729,-0.5000062
+1445725357,way,,garden,Angers,,,,47.4322305,-0.500567
+1445725358,way,,garden,Angers,,,,47.4321174,-0.4996455
+1445725359,way,,garden,Angers,,,,47.432578,-0.5002731
+1445725361,way,,garden,Angers,,,,47.4326347,-0.4999752
+1445725362,way,,garden,Angers,,,,47.4326037,-0.4998022
+1445751719,way,,park,Angers,,,,47.4513841,-0.602443
+1446220080,way,,garden,Angers,,,,47.4940832,-0.566614
+1446220081,way,,garden,Angers,,,,47.494083,-0.5664809
+1446220082,way,,garden,Angers,,,,47.4940887,-0.5661863
+1446220241,way,,garden,Angers,,,,47.4936958,-0.5667486
+1446220242,way,,garden,Angers,,,,47.4938134,-0.566752
+1446220243,way,,garden,Angers,,,,47.4939527,-0.5667556
+1447919511,way,,garden,Angers,,,,47.4814561,-0.6739833
+1450123339,way,Cadran solaire analemmatique,attraction,Angers,,,,47.3707492,-0.6839762
+1453652332,way,,park,Angers,,,,47.4123358,-0.7589187
+1456901655,way,Château du Plessis-Bourré,attraction,Angers,,,https://www.plessis-bourre.com/,47.6008946,-0.5443372
+1457119000,way,,park,Angers,,,,47.4645034,-0.5942246
+1460229725,way,,garden,Angers,,,,47.4219193,-0.5712161
+1460229726,way,,garden,Angers,,,,47.4218627,-0.5706551
+1460761653,way,,park,Angers,,,,47.344146,-0.7723079
+1460764418,way,,park,Angers,,,,47.3464203,-0.7688575
+1460783131,way,,park,Angers,,,,47.4060073,-0.7679089
+1461871985,way,,garden,Angers,,,,47.4054767,-0.4848288
+1461871986,way,,garden,Angers,,,,47.4055554,-0.484993
+1464105734,way,,garden,Angers,,,,47.4318749,-0.4996434
+1464105735,way,,garden,Angers,,,,47.4317787,-0.4997028
+1464105738,way,,garden,Angers,,,,47.4319941,-0.4995485
+1464105741,way,,garden,Angers,,,,47.4315762,-0.4997998
+1464105742,way,,garden,Angers,,,,47.431665,-0.4997413
+1464105744,way,,garden,Angers,,,,47.4317417,-0.5011157
+1464105745,way,,garden,Angers,,,,47.4322142,-0.4993592
+1466718008,way,,garden,Angers,,,,47.4528435,-0.6129356
+1468417360,way,,park,Angers,,,,47.4620204,-0.5981569
+1476072417,way,Ouistiti Compagnie,theme_park,Angers,,,https://ouistiti-cie.com/,47.4629313,-0.6172796
+1479438488,way,,garden,Angers,,,,47.4274016,-0.5695481
+1480718372,way,,park,Angers,,,,47.4463843,-0.6016932
+1480761774,way,,park,Angers,,,,47.4755719,-0.6354701
+1488694095,way,,artwork,Angers,,,,47.4778998,-0.5570278
+1491816874,way,,park,Angers,,,,47.4312922,-0.5306846
+1492571950,way,,garden,Angers,,,,47.4247968,-0.5252318
+1495459882,way,,park,Angers,,,,47.4381912,-0.5342403
+1495461914,way,,park,Angers,,,,47.4391147,-0.5340935
+1495461916,way,,park,Angers,,,,47.4381435,-0.5335999
+1495777383,way,Château de la Cressonnière,castle,Angers,,,,47.3709035,-0.5382515
+1495915440,way,La Luciole,restaurant,Angers,"2 Rue de l'Arcade, 49250, Loire-Authion",49250,https://laluciolerestaurant.fr/,47.4119704,-0.3189439
+1497294152,way,,park,Angers,,,,47.6194571,-0.4613648
+1497927157,way,Square des Cigognes,park,Angers,,,,47.4731277,-0.6288969
+1497927610,way,,park,Angers,,,,47.4727512,-0.6282379
+1498981366,way,,park,Angers,,,,47.3736859,-0.4985299
+1499026551,way,,park,Angers,,,,47.439253,-0.5276126
+1501056267,way,La Constantinière,castle,Angers,,,,47.3591103,-0.5257463
+1501448831,way,,park,Angers,,,,47.4760769,-0.6324596
+1501518799,way,,artwork,Angers,,,,47.4740999,-0.633524
+1504528350,way,,park,Angers,,,,47.4709967,-0.6376316
+1505477851,way,,park,Angers,,,,47.442342,-0.5600148
+1508226091,way,,garden,Angers,,,,47.4782427,-0.5423321
+1508226096,way,,garden,Angers,,,,47.4785525,-0.5423728
+1508226097,way,,garden,Angers,,,,47.4784747,-0.5422438
+1508226098,way,,garden,Angers,,,,47.4783682,-0.5420719
+1509556836,way,,artwork,Angers,,,,47.4762099,-0.5285677
+1510891996,way,La Doublure,artwork,Angers,,,,47.4430586,-0.5034503
+1512381113,way,,park,Angers,,,,47.4684991,-0.5609354
+1513912402,way,Jardin des 5 sens,garden,Angers,,,,47.4498659,-0.5428426
+1513912403,way,Le jardin des Biotopes,garden,Angers,,,,47.4497837,-0.5423269
+1525113044,way,Parc Pasquier,park,Angers,,,,47.4415588,-0.4973596
+1525130049,way,,park,Angers,,,,47.4384482,-0.4958813
+1527493789,way,Aire de pique-nique - bord de Layon,park,Angers,,,,47.32773,-0.6716813
+1528070150,way,,park,Angers,,,,47.4703188,-0.5057878
+1530073800,way,,garden,Angers,,,,47.4577731,-0.5511874
+1530078190,way,,garden,Angers,,,,47.4578565,-0.5511715
+1530078208,way,,garden,Angers,,,,47.4572485,-0.5496007
+1530078209,way,,garden,Angers,,,,47.4574505,-0.5498645
+1530078415,way,,garden,Angers,,,,47.4571092,-0.5495982
+1530668110,way,,artwork,Angers,,,,47.4703361,-0.5599061
+1530677337,way,,artwork,Angers,,,,47.4708651,-0.5553518
+1531898998,way,,garden,Angers,,,,47.4357854,-0.6093609
+1531898999,way,,garden,Angers,,,,47.4357438,-0.6086166
+1531899000,way,,garden,Angers,,,,47.4360943,-0.6089632
+1531899001,way,,garden,Angers,,,,47.4357852,-0.6073826
+1531899002,way,,garden,Angers,,,,47.4354372,-0.6077803
+1531899003,way,,garden,Angers,,,,47.4357594,-0.6062749
+1531899004,way,,garden,Angers,,,,47.4355164,-0.6089547
+1532169079,way,Le jardin des simples,garden,Angers,,,,47.3792054,-0.609813
+1532169080,way,Le belvédère,garden,Angers,,,,47.3790798,-0.6096288
+1532169081,way,Le jardin miroir,garden,Angers,,,,47.3791142,-0.609681
+1532169090,way,Le jardin du vent,garden,Angers,,,,47.3791487,-0.6097379
+1533881322,way,,park,Angers,,,,47.445868,-0.530119
+1534237199,way,,park,Angers,,,,47.4519322,-0.5295841
+1534237208,way,,park,Angers,,,,47.4517286,-0.5309729
+1534271972,way,,park,Angers,,,,47.4532026,-0.5340409
+6370229,relation,Château d'Angers,attraction,Angers,,,https://www.chateau-angers.fr/,47.4700716,-0.5599405
+7821605,relation,Orangerie de Maulny,castle,Angers,,,,47.5270574,-0.5610437
+9245948,relation,Moulin d'exhaure de l'Union,ruins,Angers,,,,47.4472513,-0.4882275
+9659722,relation,Parc Hébert de la Rousselière,park,Angers,,,https://www.angers.fr/vivre-a-angers/la-nature-a-angers/les-parcs-et-jardins-publics/patrimoine/parcs-et-jardins/parc-hebert-de-la-rousseliere/index.html,47.4886006,-0.5220211
+11672493,relation,Les Jardins du Château du Pin,attraction,Angers,,,https://jardinsduchateaudupin.com/remarquable/,47.4275011,-0.849709
+13418274,relation,,garden,Angers,,,,47.4677015,-0.5434084
+14265652,relation,,park,Angers,,,,47.4469849,-0.4881872
+17543065,relation,Parc du Haras,park,Angers,"Rue Paul Bert, 49100, Angers",49100,,47.4652695,-0.5520607
+17550231,relation,Place de la Paix,park,Angers,,,,47.4784279,-0.5609424
+17769529,relation,,artwork,Angers,,,,47.4769995,-0.596916
+17772658,relation,Douce vie,artwork,Angers,,,,47.473254,-0.5525265
+18196695,relation,,park,Angers,,,,47.5356226,-0.6309963
+20506446,relation,Jardin d'herbes aromatiques,garden,Angers,,,,47.4948079,-0.5807832
+20750311,relation,,park,Angers,,,,47.3237273,-0.7105995
+20961678,relation,Musée Jean-Lurçat et de la tapisserie contemporaine,museum,Angers,"4 Boulevard Arago, 49100, Angers",49100,https://musees.angers.fr/lieux/musee-jean-lurcat-et-de-la-tapisserie-contemporaine/index.html,47.4782619,-0.5577633
+20961858,relation,"Jardin « Silence, ça pousse ! »",garden,Angers,,,,47.4781294,-0.5585767

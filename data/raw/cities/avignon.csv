@@ -1,5 +1,8 @@
 osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 302666367,node,Le Bercail,restaurant,Avignon,"162 Chemin des Canotiers, 84000, Avignon",84000,https://www.restaurant-lebercail.fr/,43.9551681,4.8109671
+302666497,node,,viewpoint,Avignon,,,,43.9529578,4.8087471
+302666500,node,,viewpoint,Avignon,,,,43.9527582,4.8082748
+302666577,node,Panorama du Rocher des Doms,viewpoint,Avignon,,,,43.953518,4.8073794
 302848749,node,La Moutardier du Pape,restaurant,Avignon,,,,43.9511134,4.8062789
 302848756,node,Café In et Off,restaurant,Avignon,5 Place du Palais,,,43.9505934,4.8062246
 302848757,node,Hôtel du Palais des Papes,hotel,Avignon,3 Place du Palais,,https://www.hotel-avignon.com/,43.9504553,4.8061318
@@ -21,9 +24,25 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 303075942,node,La Ferugoulo,restaurant,Avignon,10 Rue du Rempart du Rhône,,https://www.laferigoulo.net/,43.9508762,4.8030956
 303075943,node,Le Goût du jour,restaurant,Avignon,20 Rue Saint-Étienne,,https://www.legoutdujour84.com,43.9505582,4.8042523
 303080515,node,Aux saveurs partagé,restaurant,Avignon,,,,43.9514349,4.8181578
+309712990,node,Musée du Petit Palais,museum,Avignon,"Palais des archevêques, 84000, Avignon",84000,https://www.avignon.fr/les-equipements/les-musees/musee-du-petit-palais/,43.9527473,4.8063438
+315134143,node,,memorial,Avignon,,,,43.9705838,4.8410091
 419423773,node,La maison,restaurant,Avignon,4 Rue Grivolas,,,43.9471397,4.8094645
+443916232,node,Museum Requien,museum,Avignon,,,https://www.avignon.fr/les-equipements-1/les-musees/museum-requien,43.9467218,4.8034283
+479600496,node,,viewpoint,Avignon,,,,48.094264,-66.1245334
+480249788,node,,viewpoint,Avignon,,,,48.1343486,-66.1148686
+480249796,node,,viewpoint,Avignon,,,,48.1326006,-66.1192253
+480249971,node,,viewpoint,Avignon,,,,48.1533401,-66.0960881
+480249974,node,,viewpoint,Avignon,,,,48.1426459,-66.1029149
+483527183,node,,viewpoint,Avignon,,,,48.1360164,-66.1342496
+566456478,node,Roue à Aubes,attraction,Avignon,,,,44.0085973,4.8736681
 634159515,node,La Margelle,restaurant,Avignon,,,,43.9577326,4.9329766
 634159516,node,La Bougie,restaurant,Avignon,,,,43.9564813,4.9303909
+694831609,node,Colonne de Pétrarque,monument,Avignon,,,,43.921972,5.1275155
+694831616,node,Musée d'histoire 39-45,museum,Avignon,,,https://www.vaucluse.fr/culture-et-patrimoine/les-musees-departementaux/le-musee-d-histoire-jean-garcin-39-45-a-fontaine-de-vaucluse-865.html,43.9220361,5.1303353
+694831663,node,,viewpoint,Avignon,,,,43.9197622,5.1320426
+716505291,node,Roue a aubes,attraction,Avignon,,,,44.0089319,4.8732501
+716628880,node,Roue à aubes,attraction,Avignon,,,,44.0098155,4.8723335
+724260608,node,Double roue à aubes,attraction,Avignon,,,,43.9982137,4.8820715
 908718091,node,Bistrot de l'Industrie,restaurant,Avignon,,,,43.9183825,5.0492932
 908777822,node,La Table de Ninou,restaurant,Avignon,22b Quai Rouget de L'Isle,,,43.9179876,5.0506068
 913112554,node,Lou Nego Chin,restaurant,Avignon,,,,43.9195793,5.0544138
@@ -33,7 +52,38 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 932280547,node,Agora,restaurant,Avignon,,,,43.9176354,5.052568
 932280564,node,Rose d'Asie,restaurant,Avignon,,,,43.9183952,5.0526266
 974706463,node,Restaurant universitaire - CROUS,restaurant,Avignon,,,,43.9106016,4.8905776
+974710970,node,,artwork,Avignon,,,,43.9464765,4.8073516
+974713471,node,,artwork,Avignon,,,,43.9516924,4.8048739
+974723767,node,,artwork,Avignon,,,,43.9521495,4.8052543
+974745011,node,,artwork,Avignon,,,,43.9494399,4.8151992
+974787713,node,,artwork,Avignon,,,,43.9496547,4.8080551
+974794964,node,,artwork,Avignon,,,,43.9505481,4.8143035
+974807289,node,,artwork,Avignon,,,,43.9483239,4.8059695
+974808956,node,,artwork,Avignon,,,,43.9468475,4.8075505
+974864311,node,,artwork,Avignon,,,,43.9484414,4.8038889
+974877551,node,,artwork,Avignon,,,,43.9466184,4.8034093
+974903211,node,,artwork,Avignon,,,,43.9481568,4.8054632
+974903788,node,,artwork,Avignon,,,,43.9518898,4.8050739
+974907670,node,,artwork,Avignon,,,,43.9499096,4.8075238
+974909252,node,,artwork,Avignon,,,,43.9519812,4.8040867
+974915907,node,,artwork,Avignon,,,,43.9464623,4.8063537
+974937490,node,,artwork,Avignon,,,,43.951333,4.8120895
+974960219,node,Notre Dame des enfants,artwork,Avignon,,,,43.9465589,4.8089194
+974989698,node,,artwork,Avignon,,,,43.9487242,4.8062511
+975093642,node,Vierge Marie,artwork,Avignon,,,,43.948222,4.8110151
+975110057,node,,artwork,Avignon,,,,43.9482516,4.8122791
+975157562,node,,artwork,Avignon,,,,43.947781,4.8040918
+975261977,node,,artwork,Avignon,,,,43.9460928,4.8119074
+975323166,node,,artwork,Avignon,,,,43.9478035,4.8033192
+975380121,node,,artwork,Avignon,,,,43.9519715,4.8045209
+975392682,node,Vins des cotes du Rhône,artwork,Avignon,,,,43.9465961,4.8032915
+975403778,node,,artwork,Avignon,,,,43.9518214,4.8057997
 975425852,node,Au bout d’la Rue,restaurant,Avignon,164 Rue de la Carreterie,,https://au-bout-dla-rue.eatbu.com/?lang=fr,43.9512726,4.8186136
+975426265,node,Vierge à l’enfant,artwork,Avignon,,,,43.9498733,4.8098601
+1131034433,node,Fresque de la Solidarite,artwork,Avignon,,,,43.9214881,5.0475478
+1218481659,node,Silas Beach,beach,Avignon,,,,47.8908032,-67.1501243
+1307835803,node,Château de Générat,castle,Avignon,,,,44.0014679,4.8811495
+1307836151,node,Château de Brantes,castle,Avignon,,,,44.00039,4.8769088
 1323384241,node,Bistrot de Saumane,restaurant,Avignon,,,,43.9361193,5.1056523
 1324046033,node,Lou Fanaü,restaurant,Avignon,,,,43.9218884,5.1273956
 1325547501,node,Au Chineur,restaurant,Avignon,"2 Esplanade Robert Vasse, 84800, L'Isle-sur-la-Sorgue",84800,,43.9181712,5.05234
@@ -50,8 +100,12 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1450077429,node,Le Rieti,restaurant,Avignon,,,,43.9754642,4.8698975
 1455841953,node,Flunch,restaurant,Avignon,,,,43.9208729,4.8679066
 1475017448,node,Hôtel la Tapy,hotel,Avignon,,,,43.9759313,4.8831702
+1490236423,node,Musée Angladon,museum,Avignon,"5 Rue du Laboureur, 84000, Avignon",84000,https://angladon.com/,43.9460946,4.8069976
+1490236424,node,Musée Calvet,museum,Avignon,,,https://www.musee-calvet.org/,43.9469675,4.8036302
+1490236425,node,Musée de l'Œuvre,museum,Avignon,"Place du Palais, 84000, Avignon",84000,https://avignon-tourisme.com/,43.9509826,4.8061963
 1499756194,node,L'espressi,restaurant,Avignon,,,,44.0082097,4.8737624
 1501550058,node,La Casa de la Brochette,restaurant,Avignon,,,,43.9375058,4.8103894
+1501550355,node,Palais du Roure,museum,Avignon,,,https://www.avignon.fr/ma-ville/culture/les-musees/,43.9484284,4.805423
 1506324533,node,Hôtel Bagatelle le Pavillon Bleu,hotel,Avignon,,,http://www.aubergebagatelle.fr/,43.9532098,4.7994121
 1509853505,node,La Mirande,restaurant,Avignon,"4, 84000, Avignon",84000,https://www.la-mirande.fr/fr/restaurant-avignon-provence.html,43.9500891,4.8077073
 1538398619,node,ti amo ti ...,restaurant,Avignon,"5 Place Jérusalem, Avignon",,,43.948426,4.808631
@@ -62,10 +116,19 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1540763738,node,Pomelo,restaurant,Avignon,36 Cours Jean Jaurès,,,43.9448173,4.805335
 1540773137,node,Restaurant Viet-Nam,restaurant,Avignon,Avignon,,,43.9483441,4.806096
 1540784850,node,Restaurant Le central,restaurant,Avignon,"35, 84000",84000,,43.9454974,4.8057417
+1560263531,node,,ruins,Avignon,,,,48.0271687,-66.8558392
+1560268626,node,,ruins,Avignon,,,,48.035681,-66.9328912
+1560283517,node,,ruins,Avignon,,,,48.067991,-66.8229666
+1560285352,node,,ruins,Avignon,,,,48.0734893,-66.8227294
+1560285989,node,,ruins,Avignon,,,,48.0748494,-66.8639667
+1560286175,node,,ruins,Avignon,,,,48.0753655,-66.8229846
+1560294054,node,,ruins,Avignon,,,,48.0934104,-66.8382601
+1560479510,node,,ruins,Avignon,,,,48.1609757,-66.2498679
 1583689290,node,Pizz'Eric,restaurant,Avignon,,,,43.9182913,5.049527
 1589738970,node,El Rancho,restaurant,Avignon,,,,43.981429,4.879019
 1598870938,node,L'essentiel,restaurant,Avignon,,,,43.949267,4.804275
 1603233054,node,Coin Caché,restaurant,Avignon,"5 Place Saint-Pierre, Avignon",,,43.9494783,4.8080957
+1676344039,node,Fontaine de Vaucluse,attraction,Avignon,,,,43.9176702,5.1328437
 1706776913,node,Café brasserie des Sports,restaurant,Avignon,"Avenue de la Gare, 84370",84370,,44.0407111,4.8949378
 1706778952,node,El Meson,restaurant,Avignon,"Boulevard du 8 Mai 1945, 84370, Bédarrides",84370,,44.0409533,4.8946591
 1706779057,node,Le Brennus,restaurant,Avignon,17 Avenue de la Gare,,,44.0408887,4.8935996
@@ -74,10 +137,14 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1763841281,node,Moloko,restaurant,Avignon,,,,43.947567,4.803425
 1763842963,node,Le cochon bleu,restaurant,Avignon,9 Rue d'Annanelle,,https://restaurant-lecochonbleu.fr/,43.947256,4.802696
 1763844182,node,La cour d'honneur,restaurant,Avignon,,,,43.946964,4.803198
+1792793762,node,,memorial,Avignon,,,,43.9271112,4.9982553
 1792828408,node,Le Moulin Gourmand,restaurant,Avignon,,,,43.9280677,4.995249
 1792828441,node,,restaurant,Avignon,,,,43.9279576,4.9961878
 1792828452,node,,restaurant,Avignon,,,,43.9277316,4.9933124
+1792828463,node,Château de Thouzon,viewpoint,Avignon,,,,43.9450068,4.9857888
+1792828483,node,,viewpoint,Avignon,,,,43.9461008,4.9878614
 1792828495,node,,restaurant,Avignon,,,,43.9290355,4.9954528
+1793048375,node,Musée Pierre Salinger,museum,Avignon,,,https://www.pierresalinger.org/le-musee-pierre-salinger/presentation.php,43.9302815,4.9713612
 1794321493,node,Pollen,restaurant,Avignon,,,,43.947715,4.804011
 1796937756,node,Gnocchi Della Mamma,restaurant,Avignon,27 Rue Carnot,,,43.949233,4.810316
 1796949593,node,Saigon food,restaurant,Avignon,5 Rue et Place du Portail Matheron,,,43.949499,4.811814
@@ -134,10 +201,15 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2059752413,node,Le pili,restaurant,Avignon,34 Place des Corps Saints,,,43.944652,4.807472
 2059765622,node,L’atelier de Bélinda,restaurant,Avignon,,,,43.944625,4.807775
 2092350820,node,La Fourchette,restaurant,Avignon,,,,43.9513695,4.8055805
+2115650839,node,Musée du Palais des Papes,museum,Avignon,15 Place du Palais,,https://palais-des-papes.com/fr,43.9506848,4.8069668
 2123610716,node,Les Arts,restaurant,Avignon,1 Rue Favart,,,43.9489723,4.8062595
 2123610929,node,Vert citron,restaurant,Avignon,,,,43.949028,4.8062596
 2123711029,node,Restaurant interadministratif,restaurant,Avignon,,,,43.943529,4.807533
+2153213603,node,,artwork,Avignon,,,,43.9494095,4.8115952
+2158649515,node,Esprit Requien,artwork,Avignon,,,,43.944557,4.8057447
 2174783216,node,Palais Bab Mansour,restaurant,Avignon,"37 Rue Saint-Michel, Avignon",,,43.9431861,4.8086025
+2174861899,node,,artwork,Avignon,,,,43.944469,4.8155669
+2211145503,node,Galerie 5 6 7,gallery,Avignon,,,,43.9506151,4.803249
 2211167327,node,Le pavillon bleu,restaurant,Avignon,"25 Allée Antoine Pinay, 84000, Avignon",84000,https://www.lepavillonbleu-avignon.com/,43.9530337,4.7997604
 2212789280,node,La Planque - Bar à jeux,restaurant,Avignon,"19 Rue des Lices, 84000, Avignon",84000,https://www.instagram.com/laplanqueavignon,43.9451568,4.8087127
 2212811761,node,Lou piadina,restaurant,Avignon,,,,43.9503825,4.8128156
@@ -149,6 +221,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2303531866,node,Vezzo pizza,restaurant,Avignon,,,,43.945444,4.8142142
 2303534704,node,Bar La brasserie,restaurant,Avignon,,,,43.9447878,4.8140839
 2303535891,node,numéro 75,restaurant,Avignon,,,,43.9448237,4.8144653
+2303600173,node,,artwork,Avignon,,,,43.9444448,4.8063094
 2303817989,node,Le square,restaurant,Avignon,Cours Jean Jaurès,,,43.9445757,4.8064913
 2314153286,node,Baryum,restaurant,Avignon,,,,43.9457298,4.8077228
 2314153299,node,Restaurant le 26,restaurant,Avignon,,,,43.9455984,4.8074839
@@ -157,11 +230,19 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2314171792,node,Tulipe,restaurant,Avignon,,,,43.946307,4.8076067
 2314192823,node,Le petit Cabestan,restaurant,Avignon,,,,43.9467447,4.808711
 2345368592,node,Le potard,restaurant,Avignon,"19 Place de la Principale, 84000",84000,,43.9477342,4.8075945
+2402661189,node,,artwork,Avignon,,,,43.9828643,4.8597444
 2428281104,node,Le Lutrin,restaurant,Avignon,,,,43.9502767,4.8060355
 2428283964,node,Restaurant Christian Etienne,restaurant,Avignon,10 Rue de Mons,,,43.9500978,4.8069199
 2428344132,node,Hiély Lucullus,restaurant,Avignon,,,,43.9484036,4.8060647
 2466645768,node,Les Nevons,hotel,Avignon,,,,43.9175685,5.0548064
+2467968902,node,Buste d'Alphonse Benoit,artwork,Avignon,,,,43.9175983,5.052202
+2486049616,node,,artwork,Avignon,,,,43.9509257,4.8197106
 2493737741,node,L'isle de la beauté,restaurant,Avignon,,,,43.9191626,5.053494
+2493760193,node,,attraction,Avignon,,,,43.9184402,5.0534139
+2499307400,node,Chapelle de la visitation,monument,Avignon,,,,43.9481358,4.8124732
+2499334672,node,,artwork,Avignon,,,,43.9509278,4.8150992
+2500755614,node,,artwork,Avignon,,,,43.9547543,4.8235687
+2504668461,node,,artwork,Avignon,,,,43.9514553,4.8161086
 2504757126,node,Indian Food,restaurant,Avignon,"Rue des Teinturiers, Avignon",,,43.9454884,4.8128184
 2504757896,node,Art’è gusto,restaurant,Avignon,,,,43.9452328,4.8130257
 2504757897,node,Maïnama,restaurant,Avignon,35 Rue des Teinturiers,,,43.9451451,4.8131166
@@ -173,14 +254,34 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2512533426,node,La kasba des halles,restaurant,Avignon,,,,43.9470655,4.8104774
 2512533823,node,La fabrique,restaurant,Avignon,52 Rue de la Bonneterie,,,43.9470894,4.8099362
 2512538273,node,Cabane dOléron,restaurant,Avignon,,,,43.9472834,4.8099659
+2512556326,node,,artwork,Avignon,,,,43.9463314,4.8093763
+2555364052,node,,artwork,Avignon,,,,43.9445779,4.8067062
+2555365336,node,Li Sounjarello,artwork,Avignon,,,,43.9444886,4.8065546
+2555369740,node,,artwork,Avignon,,,,43.9446975,4.806732
+2555369741,node,,artwork,Avignon,,,,43.9446334,4.8067477
+2555369742,node,,artwork,Avignon,,,,43.9442946,4.8065893
+2555369926,node,,artwork,Avignon,,,,43.9447528,4.8066875
+2555374606,node,Théodore Aubanel,artwork,Avignon,,,,43.9448605,4.8064522
+2555381562,node,,artwork,Avignon,,,,43.9446793,4.8061361
+2572705341,node,,memorial,Avignon,,,,43.9519032,4.8073831
+2572711028,node,Statue du Millénaire capétien,artwork,Avignon,,,,43.9518555,4.8077643
 2646583706,node,Courtepaille,restaurant,Avignon,,,https://restaurants.courtepaille.com/restaurant-avignon-aerodrome-id93,43.9034027,4.8966258
 2649595340,node,La Manutention,restaurant,Avignon,"4 Escaliers Sainte-Anne, 84000, Avignon",84000,,43.9515615,4.808509
+2654420415,node,,memorial,Avignon,,,,44.0070384,4.8726761
 2677104995,node,,restaurant,Avignon,,,,43.9416646,4.9048835
 2689754193,node,Équinoxe,restaurant,Avignon,"190 B Rue du Grand Gigognan, Avignon",,,43.9300077,4.7819008
 2690243066,node,La Potinière,restaurant,Avignon,145 Rue du 12ème Régiment de Zouaves,,,43.9296835,4.7768877
+2706928523,node,Paul Pamard,artwork,Avignon,,,,43.9465169,4.8058067
+2712628184,node,,memorial,Avignon,,,,44.0393968,4.9000771
+2814595842,node,,artwork,Avignon,,,,43.9499863,4.8596764
 2874202773,node,Indochine,restaurant,Avignon,,,,43.9774121,4.8730429
+2900600532,node,Corneille,artwork,Avignon,,,,43.9496775,4.8057043
+2900600533,node,Molière,artwork,Avignon,,,,43.9497803,4.8057049
+2904890575,node,,viewpoint,Avignon,,,,43.9056872,5.0938596
+2904890587,node,,viewpoint,Avignon,,,,43.906917,5.091074
 2937784253,node,La Vanne Marel,restaurant,Avignon,"Rue des Bourgades, 84800, Fontaine-de-Vaucluse",84800,https://lavannemarel.fr,43.9217033,5.1275983
 2949629417,node,Bella vita,restaurant,Avignon,,,,43.9195125,5.0516342
+2950819339,node,Château des taillades,castle,Avignon,,,,44.0653168,4.9216429
 3018707207,node,La boucherie,restaurant,Avignon,,,,43.9262607,4.8442237
 3018759334,node,Bistro Régent,restaurant,Avignon,,,,43.9285163,4.8387972
 3029499038,node,Wafu Ramen,restaurant,Avignon,"20 Rue du Vieux-Sextier, 84000, Avignon",84000,,43.9481801,4.8086625
@@ -189,8 +290,13 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3045351751,node,La détente,restaurant,Avignon,,,,44.0090673,4.8731122
 3060991041,node,La font de Lauro,hotel,Avignon,"Chemin de la gaffe, 84800, Saumane",84800,https://www.hotel-la-font-de-lauro.fr/,43.9190625,5.1018851
 3105062944,node,La Table de Sorgues,restaurant,Avignon,72 Avenue du 8 Mai 1945,,,44.0078986,4.8724716
+3419935860,node,,viewpoint,Avignon,,,,44.042604,4.8976399
 3421595302,node,Les Bulleuses,restaurant,Avignon,60 Place des Corps Saints,,,43.9444247,4.8074648
+3463244056,node,,viewpoint,Avignon,,,,43.928603,4.943249
 3515659038,node,Restaurant Pollen,restaurant,Avignon,"28bis Rue Joseph Vernet, 84000, Avignon",84000,,43.9494192,4.8034948
+3541681269,node,Grotte de Thouzon,attraction,Avignon,,,,43.9453534,4.9874209
+3707000814,node,Belvédère des Deux-Rivières,viewpoint,Avignon,,,https://routedesbelvederes.com/,47.975231,-66.942773
+3707001661,node,Horizon de Rêve,viewpoint,Avignon,,,,47.9382253,-67.0556283
 3707008933,node,,hotel,Avignon,,,,47.9701124,-67.0506388
 3766906711,node,La Table de Saint-Louis,restaurant,Avignon,,,,43.9440079,4.8044377
 3766921061,node,Première édition,restaurant,Avignon,13 Rue Théodore Aubanel,,,43.9465639,4.8062571
@@ -200,14 +306,18 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3899031466,node,C'est Ici,restaurant,Avignon,,,,43.9836551,4.8713867
 3903205364,node,,restaurant,Avignon,,,,44.0209424,4.8915092
 4017225696,node,Memphis,restaurant,Avignon,140 Rue Paul Éluard,,,43.9301505,4.836838
+4130299217,node,,viewpoint,Avignon,,,,43.8906534,4.9267513
 4137545289,node,Le comptoir MBC,restaurant,Avignon,4 Rue Félix Gras,,,43.9486121,4.8039213
 4339134983,node,Restaurant Le Vieux-Marché,restaurant,Avignon,"117 Route 132 Est, G0C 2E0",G0C 2E0,,48.1359701,-66.3128459
 4350016270,node,Vivotto,restaurant,Avignon,"775 Route de l'Aérodrome, 84140, Montfavet",84140,,43.9165356,4.8883159
 4375388356,node,Chez Mamie,restaurant,Avignon,20 Rue de la Croix,,http://www.chez-mamie-restaurant-avignon.com/la-carte-chez-mamie-restaurant-avignon,43.949293,4.8109045
+4393693190,node,La sentinelle des morts,memorial,Avignon,,,,43.9486792,4.826021
+4410262039,node,fraise,artwork,Avignon,,,,43.9580065,5.0292496
 4423249589,node,Le Carré d'Herbes,restaurant,Avignon,13 Avenue des Quatre Otages,,,43.9184075,5.0542349
 4423474110,node,La kasba,restaurant,Avignon,"69, 84000, Avignon",84000,https://www.lakasbadupalais.fr/,43.946971,4.8104797
 4471543040,node,Le Coude à Coude,restaurant,Avignon,"37 Rue Saraillerie, 84000",84000,,43.9472023,4.8072682
 4486802653,node,Appart'Hôtel Les Cordeliers,hotel,Avignon,"49, 84000, Avignon",84000,http://www.cordeliers-avignon.com,43.944192,4.8114824
+4565204745,node,Avignon Locators,artwork,Avignon,,,,43.9496886,4.8188395
 4614486997,node,Le hom art,restaurant,Avignon,,,,43.916167,4.8902069
 4614486999,node,Dubble  Food Avignon Agroparc,restaurant,Avignon,,,https://www.dubble-food.com/restaurants/avignon-agroparc,43.916144,4.8903116
 4614492759,node,Le Tholéan,restaurant,Avignon,1171 B Route de l'Aérodrome,,,43.9162432,4.8898586
@@ -216,27 +326,41 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4672216712,node,Le Petit Gourmand,restaurant,Avignon,"37 Rue du Vieux Sextier, 84000, Avignon",84000,,43.9482553,4.8089052
 4672216957,node,L'ardoise,restaurant,Avignon,28 Rue du Vieux Sextier,,,43.9480565,4.809448
 4672228898,node,L'Italienne au Chapeau Rouge,restaurant,Avignon,"21 Rue du Chapeau Rouge, 84000, Avignon",84000,,43.9486528,4.8112392
+4700971975,node,Château du Thor,castle,Avignon,,,,43.9291909,4.9915257
+4774817857,node,,artwork,Avignon,,,,43.9500718,4.8033551
 4778982939,node,Mamma Corsica,restaurant,Avignon,"35 Rue Saint-Jean le Vieux, 84000, Avignon",84000,https://www.mamma-corsica.fr/,43.9482382,4.8112066
 4786462824,node,MAM'S,restaurant,Avignon,"6 Rue Général Leclerc, 84000, Avignon",84000,www.facebook.com/MAMS-185802452248304/,43.9490007,4.8104382
+4843652051,node,,viewpoint,Avignon,,,,43.9535424,4.807648
+4843652052,node,,viewpoint,Avignon,,,,43.9533168,4.8080336
 4843725646,node,Chez Marie,restaurant,Avignon,4 Rue Louis Pasteur,,https://www.restaurantchezmarie.fr,43.9494179,4.8125421
 4843734434,node,Le Citron Vert,restaurant,Avignon,"12, 84000, Avignon",84000,www.facebook.com/LeCitronVertAvignon/,43.9493966,4.8127299
+4846546020,node,,artwork,Avignon,,,,43.9491663,4.8100418
+4847096714,node,,artwork,Avignon,,,,43.9431709,4.8030821
 4873749302,node,Au jasmin,restaurant,Avignon,,,,43.9482936,4.8109108
 4885343221,node,Café des Négociants,restaurant,Avignon,"20 Avenue d'Avignon, 84140",84140,,43.9360062,4.8713938
+4894937338,node,Paul Saïn,memorial,Avignon,,,,43.9527948,4.8074859
+4894948949,node,Paul Vayson,memorial,Avignon,,,,43.952801,4.8080061
+4932328025,node,,artwork,Avignon,,,,43.9421714,4.8219828
 4936750622,node,La fourchette,restaurant,Avignon,"17 Bis Rue Racine, Avignon",,,43.9502441,4.804871
 4936764321,node,L’arlequin,restaurant,Avignon,17 Bis Rue Racine,,https://arlequin.restaurant/,43.9501133,4.804845
 4938276021,node,Ma belle cuisine,restaurant,Avignon,3 Bis Rue Félix Gras,,,43.9485887,4.8040652
 4940164022,node,La Table Hot,restaurant,Avignon,3 Rue Mazan,,https://latablehot.fr/,43.9498356,4.8035893
+4941941121,node,vierge à l'enfant,artwork,Avignon,,,,43.9471075,4.804628
 4960168124,node,La Cour du Louvre,restaurant,Avignon,"21 Rue Saint-Agricol, 84000",84000,https://www.restaurantlacourdulouvre.fr/,43.9485286,4.8043715
 4975257060,node,Estaminet Arômes et Tentations,restaurant,Avignon,,,,43.9499339,4.8033977
 4999128624,node,Brasserie La civette,restaurant,Avignon,,,,43.949261,4.8060955
 4999665524,node,L'amista,restaurant,Avignon,24 Rue de la Bonneterie,,,43.9480477,4.8087305
 4999734721,node,Lôc Ańh,restaurant,Avignon,,,,43.9479223,4.8088205
 5004840623,node,Madame Ho,restaurant,Avignon,,,,43.947782,4.8113812
+5007881412,node,,viewpoint,Avignon,,,,43.9297342,4.9430674
+5009126428,node,,memorial,Avignon,,,,43.9301265,4.9421115
+5009194423,node,,memorial,Avignon,,,,43.9273249,4.9443258
 5016299351,node,Ô léopard,restaurant,Avignon,4 Bis,,,43.9489259,4.808985
 5019410021,node,Nawak,restaurant,Avignon,123 Rue de la Carreterie,,,43.9515982,4.8162597
 5019690573,node,Sur les planches,restaurant,Avignon,,,,43.9492336,4.8102282
 5019700708,node,Chez Lulu,restaurant,Avignon,,,,43.9490956,4.810449
 5019735662,node,Le 47. Glaces artisanales,restaurant,Avignon,,,,43.9493104,4.8110567
+5024579021,node,,viewpoint,Avignon,,,,43.9544449,4.8024314
 5034630740,node,Pizza Cosy,restaurant,Avignon,"72 Route de Montfavet, 84000, Avignon",84000,https://pizzacosy.fr/pizzeria-avignon,43.9409038,4.8260668
 5039007652,node,Bibiche Avignon,restaurant,Avignon,"7 Place Cloître Saint-Pierre, 84000",84000,https://www.instagram.com/bibiche.avignon.restaurant/,43.9496108,4.8082041
 5039007653,node,Le cloître,restaurant,Avignon,,,,43.9495668,4.8082926
@@ -255,46 +379,115 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5137149811,node,Chez Marie,restaurant,Avignon,"39 Boulevard de la Libération, 84450, Saint-Saturnin-lès-Avignon",84450,,43.9565603,4.9308208
 5224513134,node,Napoli Mia,restaurant,Avignon,8 Ter Route de Montfavet,,,43.9426746,4.8208179
 5224513922,node,L'Escargot,restaurant,Avignon,7,,,43.9431156,4.8189667
+5254194793,node,Vierge à l’enfant,artwork,Avignon,,,,43.9499083,4.809693
+5304576046,node,,memorial,Avignon,,,,43.9382614,4.8240082
 5318172048,node,Ju'ste chez moi,restaurant,Avignon,"Place Charles de Gaulle, 84700, Sorgues",84700,,44.0076018,4.8731046
 5327752877,node,Le Cèdre,restaurant,Avignon,8 Rue du Rempart du Rhône,,http://www.restaurant-le-cedre.com/,43.9507859,4.8029891
 5344615303,node,Chez Lisette,restaurant,Avignon,,,,43.9493428,4.8085695
+5391748310,node,,artwork,Avignon,,,,43.9468983,4.807278
+5392606675,node,Saint-Bénézet,artwork,Avignon,,,,43.9439205,4.8073824
+5392651325,node,Frédéric Mistral,artwork,Avignon,,,,43.948516,4.8057567
+5392651326,node,,artwork,Avignon,,,,43.9485521,4.8055372
+5392666403,node,,artwork,Avignon,,,,43.9490344,4.8097779
+5392667923,node,,artwork,Avignon,,,,43.9488273,4.8096872
+5392669354,node,,artwork,Avignon,,,,43.9487839,4.8095387
+5392676032,node,,artwork,Avignon,,,,43.945412,4.8104146
+5392711333,node,,artwork,Avignon,,,,43.9461335,4.8076927
+5392716013,node,,artwork,Avignon,,,,43.9446996,4.8074755
+5392725951,node,,artwork,Avignon,,,,43.9519612,4.8058039
+5392725952,node,,artwork,Avignon,,,,43.9518474,4.8058181
+5393080386,node,,artwork,Avignon,,,,43.950254,4.8065971
+5393080387,node,,artwork,Avignon,,,,43.9502227,4.8065865
+5393090279,node,,artwork,Avignon,,,,43.9507149,4.8062788
+5393090280,node,,artwork,Avignon,,,,43.9506046,4.8062696
+5393090281,node,,artwork,Avignon,,,,43.9506617,4.8062744
+5393120249,node,,artwork,Avignon,,,,43.9498329,4.8050241
+5393120250,node,,artwork,Avignon,,,,43.9491976,4.8042581
+5393391735,node,,artwork,Avignon,,,,43.9479015,4.8080963
+5409885265,node,,artwork,Avignon,,,,43.9495783,4.8123182
+5409887357,node,,memorial,Avignon,,,,43.9493222,4.8119086
+5409887554,node,,artwork,Avignon,,,,43.9489952,4.8093312
+5438352263,node,,artwork,Avignon,,,,43.9484785,4.8056934
+5439339192,node,,artwork,Avignon,,,,43.9490809,4.8043198
+5561262068,node,Mémorial du Train fantôme,memorial,Avignon,,,,44.0053935,4.8752991
 5636603202,node,Bar-restaurant La Croisière,restaurant,Avignon,,,,43.9515958,4.8276368
 5688034122,node,La Figuière,restaurant,Avignon,,,,43.9224803,5.1273191
 5754326122,node,HB Restaurant,restaurant,Avignon,12 Route de Morières,,,43.9509824,4.8290416
 5796139831,node,Le Gecko,restaurant,Avignon,"84, 84000, Avignon",84000,www.facebook.com/geckoavignon,43.946028,4.8118152
 5796142525,node,Chez Angelo,restaurant,Avignon,7 Rue des Teinturiers,,,43.9459228,4.8122176
+5804249976,node,,viewpoint,Avignon,,,,48.1351756,-66.1314433
 5841368563,node,Chez Sergio,restaurant,Avignon,,,,43.9503261,4.8128333
 5844606773,node,Lanna thaï,restaurant,Avignon,34 Rue des Fourbisseurs,,,43.9476453,4.8078946
 5846230733,node,Anaho poké,restaurant,Avignon,"24, 84000",84000,,43.9477596,4.8085238
+5879143532,node,,artwork,Avignon,,,,43.950243,4.8059017
+5879602549,node,,artwork,Avignon,,,,43.9477416,4.8087744
+5880451198,node,,artwork,Avignon,,,,43.9482879,4.8081665
+5882866946,node,,artwork,Avignon,,,,43.9493171,4.8093132
+5883847869,node,,artwork,Avignon,,,,43.9502217,4.8038019
 5884593085,node,Bibendum,restaurant,Avignon,"17 Rue du Collège d'Annecy, 84000, Avignon",84000,,43.9454607,4.8046009
+5885048587,node,Jean Althen,memorial,Avignon,,,,43.9533218,4.8076772
+5885207376,node,,artwork,Avignon,,,,43.9490274,4.8040631
+5888291763,node,vierge à l'enfant,artwork,Avignon,,,,43.9476309,4.8018007
+5893046512,node,,viewpoint,Avignon,,,,43.8941788,4.933028
+5893046513,node,,viewpoint,Avignon,,,,43.8973286,4.9413753
+5899748199,node,Mémorial des Déportés,memorial,Avignon,,,,43.8962516,4.9418035
+5899884139,node,,artwork,Avignon,,,,43.9302804,4.9946861
 5912787185,node,Le Marin d'eau douce,restaurant,Avignon,215 Rue Du Quai,,,48.1044445,-66.129939
+5926451762,node,,artwork,Avignon,,,,43.9491016,4.8043231
+5926511221,node,,artwork,Avignon,,,,43.9481684,4.8092786
+5926511324,node,,artwork,Avignon,,,,43.9492665,4.8078542
+5926517301,node,,artwork,Avignon,,,,43.9494786,4.8076904
+5928208852,node,,artwork,Avignon,,,,43.946913,4.8066072
+5934763337,node,,artwork,Avignon,,,,43.945359,4.8074502
+5950856323,node,,memorial,Avignon,,,,43.9491497,4.8043397
+5971588811,node,,artwork,Avignon,,,,43.9466916,4.8075402
+5971601163,node,,artwork,Avignon,,,,43.9467777,4.806659
+6027015753,node,Musée du jouet,museum,Avignon,,,https://www.poupeesdelisle.com/,43.9191517,5.0504121
+6089832990,node,,viewpoint,Avignon,,,,43.9534771,5.1226088
 6100214385,node,Isabella,restaurant,Avignon,,,,43.9180834,5.0523112
 6150077042,node,Angkor Apsara,restaurant,Avignon,44 Boulevard Saint-Roch,,,43.9422763,4.8073088
 6219462848,node,Au chineur,restaurant,Avignon,78 Place des Corps Saints,,,43.9437515,4.8073209
 6227550821,node,L'aparté,restaurant,Avignon,"1 Avenue des Quatre Otages, 84800, L'Isle-sur-la-Sorgue",84800,http://www.restaurantlaparte.com/,43.9193159,5.055039
+6260097106,node,,viewpoint,Avignon,,,,43.9528384,4.8072747
+6260097108,node,,viewpoint,Avignon,,,,43.9532889,4.8072978
 6293067789,node,Le lapin blanc,restaurant,Avignon,80 Rue de la Bonneterie,,https://www.le-lapin-blanc-restaurant-avignon.com,43.9462671,4.8117166
 6310052222,node,Marcel à Table,restaurant,Avignon,,,,43.9850575,4.885351
+6312411117,node,,attraction,Avignon,,,,43.9492134,4.8007531
 6325471104,node,Espace Brésil,restaurant,Avignon,"49, 84000, Avignon",84000,,43.9505912,4.8141267
+6325485026,node,Galerie des Augustins,gallery,Avignon,,,,43.9502082,4.8136428
 6325485028,node,Al Quds,restaurant,Avignon,32 Rue de la Carreterie,,,43.9502402,4.8137122
 6325505252,node,La Machine à Écrire,restaurant,Avignon,,,,43.9503724,4.8131909
 6325582264,node,La cuisine des copains,restaurant,Avignon,,,,43.9492156,4.80859
 6347320706,node,Vamos,restaurant,Avignon,"38, 84000, Avignon",84000,,43.9478976,4.8095745
 6367506441,node,Pizzeria Le Ristretto,restaurant,Avignon,39 Rue de la Saraillerie,,,43.9471271,4.8072711
+6400392648,node,,artwork,Avignon,,,,43.9498659,4.8085305
 6411606885,node,Couscousserie de l'horloge,restaurant,Avignon,,,,43.9491757,4.8063033
 6411650683,node,Carré du palais,restaurant,Avignon,,,,43.9502024,4.8063592
+6413930168,node,,artwork,Avignon,,,,43.951451,4.8045789
 6449262887,node,Le Gout Pile,restaurant,Avignon,,,,43.9793842,4.905031
 6511783293,node,Crok'Isle,restaurant,Avignon,,,,43.9186271,5.0521458
+6539826325,node,,memorial,Avignon,,,,43.921611,5.1263908
+6539826326,node,,artwork,Avignon,,,,43.9216758,5.1265852
 6539845022,node,Hôtel du Parc,hotel,Avignon,,,https://www.hotelrestaurantduparc.fr,43.9214739,5.1275213
 6539845023,node,Restaurant du Park,restaurant,Avignon,,,https://www.hotelrestaurantduparc.fr,43.9213753,5.1275602
+6539845024,node,Le Monde Souterrain Norbert Casteret,museum,Avignon,"Chemin de la Fontaine de Vaucluse, 84800, Fontaine-de-Vaucluse",84800,https://www.moulin-vallisclausa.com/fr/content/14-visiter-le-monde-souterrain,43.9226648,5.1286598
+6539849675,node,Frederi Mistral,memorial,Avignon,,,,43.9180213,5.1327362
+6539849676,node,Francois Petrarque,memorial,Avignon,,,,43.9195177,5.1319429
+6539849677,node,Dante,memorial,Avignon,,,,43.9195544,5.1319617
 6542899485,node,Château bahia,hotel,Avignon,152 Boulevard Perron,,https://chateaubahia.com/,48.0967101,-66.5237504
 6542899585,node,Auberge du château bahia,hotel,Avignon,Boulevard Perron,,https://chateaubahia.com,48.0946731,-66.522321
+6558507185,node,Maison de Jean-Henri Fabre,attraction,Avignon,,,,43.9449206,4.8131974
 6559867700,node,Au Petit Détour,restaurant,Avignon,"1 Rue Palapharnerie, 84000, Avignon",84000,,43.9519404,4.8121154
 6615470886,node,Château Bahia,hotel,Avignon,,,,48.0978103,-66.5224695
 6639831500,node,,restaurant,Avignon,,,,43.8752129,5.0771854
+6689944172,node,,viewpoint,Avignon,,,,48.1032639,-66.348581
 6723967163,node,Chez Casimir,restaurant,Avignon,"19 rue de l'Église, Matapédia, Matapédia",,https://facebook.com/casimiraubergecafe,47.9729375,-66.951252
+6762383608,node,Monument sur le Grand dérangement,monument,Avignon,,,,48.1064279,-66.1325229
 6782514558,node,Ô Papilles,restaurant,Avignon,"10 Place des Châtaignes, 84000, Avignon",84000,https://opapilles.fr/,43.9493204,4.808649
 6785786105,node,Meinado,restaurant,Avignon,"Le pont de Bonpas Route de Marseille, 84000, Avignon",84000,,43.8896978,4.91396
 6810816010,node,Coeur d'artichaut,restaurant,Avignon,6 Place de la Principale,,https://www.coeurdartichautavignon.com/,43.9477916,4.8073578
+6811950291,node,Pierre Boulle,memorial,Avignon,,,,43.9456638,4.8091562
+6831771370,node,Plage Muncipale de Maria,beach,Avignon,,,,48.1638608,-65.9988812
 6848153328,node,Le Petit Bangkok,restaurant,Avignon,,,,43.9416978,4.9062546
 6860598887,node,Café Terrasse Grands Dignitaires,restaurant,Avignon,,,,43.9508635,4.8072115
 6927531691,node,Restaurant Campanile Avignon Sud,restaurant,Avignon,,,,43.925733,4.8510358
@@ -311,56 +504,161 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 7014682914,node,Ayako Sushi,restaurant,Avignon,,,,43.9835159,4.873788
 7014682915,node,Ambassade de Bretagne,restaurant,Avignon,,,,43.9835878,4.8739405
 7043169447,node,Restaurant l’orient,restaurant,Avignon,,,,44.0127037,4.8718817
+7066635580,node,La Filaventure,museum,Avignon,,,https://www.lafilaventure.com/,43.9185994,5.0479791
 7103973091,node,Umut grill,restaurant,Avignon,,,,43.9549585,4.8384633
 7116168033,node,Restaurant mer noire,restaurant,Avignon,,,,43.9615842,4.8577186
 7156192579,node,Terra mia,restaurant,Avignon,,,,43.9123814,4.8810246
+7368637141,node,,viewpoint,Avignon,,,,43.9478114,5.1296138
 7402775138,node,Restaurant Philip,restaurant,Avignon,,,,43.9197374,5.1316857
 7575386993,node,Hôtel du Poète,hotel,Avignon,,,,43.9211285,5.1270416
 7741432008,node,Carré Rond,restaurant,Avignon,,,,43.9196177,5.0544787
+7749825858,node,JUIFS DEPORTES DU VAUCLUSE,memorial,Avignon,,,,43.9521627,4.8073363
+7749825859,node,,memorial,Avignon,,,,43.9521258,4.8073408
+7762286185,node,éolienne 38,viewpoint,Avignon,,,,48.213626,-66.1477896
 7787264027,node,La Civette,restaurant,Avignon,,,,43.949711,4.80639
 7812576811,node,Petit grand,restaurant,Avignon,72 Place des Corps Saints,,,43.9440441,4.8073596
+7820061792,node,Héros de la résistance,memorial,Avignon,,,,43.9443677,4.8061028
+7820061793,node,Mémorial du génocide arménien,memorial,Avignon,,,,43.9443928,4.8058266
+7829392213,node,,artwork,Avignon,,,,43.9519495,4.8113762
+7831774013,node,,beach,Avignon,,,,44.0389303,4.8984735
 7847202557,node,Cap de l’eau,restaurant,Avignon,13 Avenue Eisenhower,,,43.9399968,4.7979963
+7885281275,node,Le Tipi / Ferme urbaine,garden,Avignon,"55, 84000, Avignon",84000,https://lesitedutipi.fr/,43.9332973,4.7959051
 7893495414,node,Mamma airport,restaurant,Avignon,,,,43.9055351,4.8979923
+7920098931,node,,artwork,Avignon,,,,43.9488892,4.8062637
 7941701396,node,L'Osteria,restaurant,Avignon,,,,43.9473161,4.8064516
+8021743667,node,,artwork,Avignon,,,,43.9508998,4.805545
 8021772609,node,Le 46,restaurant,Avignon,44,,https://le46avignon.com/,43.9515397,4.8057954
 8021786943,node,Le batelier fou,restaurant,Avignon,,,,43.9520372,4.8056065
 8031623790,node,L’impro,restaurant,Avignon,6 Rue de l'Olivier,,,43.9475415,4.8106598
 8039569798,node,Modern afghan food,restaurant,Avignon,73 Rue de la Bonneterie,,,43.9469047,4.8107193
+8050261757,node,,artwork,Avignon,,,,43.9475482,4.8119506
 8059052136,node,Ò délices,restaurant,Avignon,8 Rue Jean-Henri Fabre,,,43.9451299,4.8069021
+8179503316,node,Le verger de la pensée,artwork,Avignon,,,,43.9132778,4.8897926
+8387420826,node,Labre,artwork,Avignon,,,,43.949382,4.8132305
+8387420827,node,,artwork,Avignon,,,,43.9493865,4.8129618
+8387453086,node,,artwork,Avignon,,,,43.9451695,4.8077044
+8387454140,node,"Jésus, sacré-coeur",artwork,Avignon,,,,43.9490151,4.803143
+8387477868,node,,artwork,Avignon,,,,43.9439857,4.8114372
+8387477869,node,,artwork,Avignon,,,,43.9441349,4.8111909
+8445949205,node,,artwork,Avignon,,,,43.920274,5.0557241
+8450374583,node,,artwork,Avignon,,,,43.9186855,5.0540516
 8740222110,node,Restaurant universitaire centre ville,restaurant,Avignon,,,,43.9490155,4.817761
 8740222111,node,Cafétéria CROUS,restaurant,Avignon,,,,43.9491169,4.817635
 8844403733,node,Le Rendez-Vous,restaurant,Avignon,"130 Avenue de la Petite Marine, 84800, L'Isle-sur-la-Sorgue",84800,,43.9215661,5.0266932
 8844403743,node,Sushi no sekai,restaurant,Avignon,,,,43.9214385,5.0275035
+8951593579,node,,viewpoint,Avignon,,,,48.1626036,-66.0995438
+8996351017,node,,viewpoint,Avignon,,,,43.9216823,5.1288662
+8998563944,node,La Zoulou,artwork,Avignon,,,,43.9532527,4.8058653
+8998829108,node,,artwork,Avignon,,,,43.9515764,4.8070544
+8998829109,node,,artwork,Avignon,,,,43.9515117,4.8070629
+8998829110,node,,artwork,Avignon,,,,43.9515126,4.8069735
+8998829111,node,,artwork,Avignon,,,,43.9515629,4.8069681
+9007881455,node,,park,Avignon,,,,43.910946,5.1044502
 9033474094,node,La Salsa,restaurant,Avignon,2 Rue du Petit Grenier,,,43.9456259,4.8126617
 9080085519,node,L’Oiseau,restaurant,Avignon,,,,43.9511748,4.8139696
 9157955614,node,Label JD,restaurant,Avignon,,,,43.9465646,4.8112372
+9157962167,node,Jeanne d’Arc,artwork,Avignon,,,,43.946753,4.8109891
 9219754478,node,Factory,restaurant,Avignon,,,,43.9789242,4.8734972
 9223216795,node,Brasseries des MIN,restaurant,Avignon,,,,43.9334881,4.83392
 9223216797,node,Mine des Saveurs,restaurant,Avignon,,,,43.933584,4.8345559
+9225303284,node,Statue de la Vierge,artwork,Avignon,,,,43.947746,4.935524
+9312543623,node,,viewpoint,Avignon,,,,48.1062748,-66.2271322
 9355723537,node,Une Marguerite à Table,restaurant,Avignon,,,,43.9458093,4.809129
 9399659038,node,Hostellerie Baie Bleue,hotel,Avignon,,,,48.1085327,-66.1336341
 9399659054,node,Hôtel Manoir Belle Plage,hotel,Avignon,,,,48.1087432,-66.1343035
 9399659181,node,Aquamer Thalasso-Spa,hotel,Avignon,,,,48.098659,-66.1001428
+9438875465,node,,artwork,Avignon,,,,43.9783497,4.9086339
 9463754718,node,Brasserie du Théâtre,restaurant,Avignon,36 Cours Jean Jaurès,,,43.9449286,4.805376
+9464239556,node,,memorial,Avignon,,,,43.9410503,4.8348897
+9505149066,node,,garden,Avignon,,,,43.9474749,4.8092148
 9582928439,node,O.R Olive et Raisin,restaurant,Avignon,,,,43.9190285,5.0540927
 9587657974,node,MDF,restaurant,Avignon,,,,43.9461707,4.8116865
 9596673997,node,béou,restaurant,Avignon,"9 Rue Violette, Avignon",,,43.9452738,4.8037519
+9615102535,node,,viewpoint,Avignon,,,,48.0380726,-66.708393
+9615102617,node,,viewpoint,Avignon,,,,48.0325185,-66.6664546
+9615102626,node,,viewpoint,Avignon,,,,48.0343427,-66.6704252
+9615102634,node,,viewpoint,Avignon,,,,48.0301499,-66.6814073
+9615102636,node,,viewpoint,Avignon,,,,48.0281739,-66.6862417
+9615102651,node,,viewpoint,Avignon,,,,48.0204223,-66.6772865
+9698935853,node,,artwork,Avignon,,,,43.9109247,4.8854945
+9775462881,node,,viewpoint,Avignon,,,,48.2012003,-66.0145917
 9781439763,node,Le Trinquet des Carmes,restaurant,Avignon,,,,43.949997,4.8128232
+9822205133,node,,ruins,Avignon,,,,43.9612827,5.0677023
 9824258300,node,Hôtel de Cambis,hotel,Avignon,26 Rue de la République,,,43.9453086,4.8053675
+9841770199,node,,artwork,Avignon,,,,43.9524151,4.8049235
+9841770200,node,,artwork,Avignon,,,,43.9523551,4.8048072
+9841918521,node,,artwork,Avignon,,,,43.9510364,4.8041946
+9841918522,node,,artwork,Avignon,,,,43.9507855,4.8039555
+9841918523,node,,artwork,Avignon,,,,43.9506964,4.8038696
+9841918524,node,,artwork,Avignon,,,,43.9504648,4.8042087
+9843433148,node,,artwork,Avignon,,,,43.9513355,4.8061377
+9843491528,node,,artwork,Avignon,,,,43.9493429,4.8041476
+9843792517,node,,artwork,Avignon,,,,43.9481364,4.8090813
+9847433271,node,Pierrot,artwork,Avignon,,,,43.9498718,4.812582
 9860167823,node,Le Lieu,restaurant,Avignon,"4, 84000, Avignon",84000,https://www.lelieuavignon.fr,43.9457643,4.8121288
 9888550324,node,Restaurant Bayon,restaurant,Avignon,"98 Avenue de Tarascon, 84000, Avignon",84000,,43.9330774,4.8096918
 9895406939,node,Bodhari,restaurant,Avignon,80 Rue de la Bonneterie,,,43.9461382,4.8118721
 9905037861,node,Bistronomik,restaurant,Avignon,,,,43.939098,4.9056638
+9941850906,node,Félix Gras,artwork,Avignon,,,,43.9530294,4.8075362
 9968192496,node,UBON Thaï Restaurant,restaurant,Avignon,"24 Bis Rue des Lices, 84000, Avignon",84000,,43.9450273,4.8086718
 9969773609,node,Lam's,restaurant,Avignon,,,,43.9443473,4.8150287
+10003912947,node,,artwork,Avignon,,,,43.9448747,4.805052
+10006278512,node,,artwork,Avignon,,,,43.9483747,4.8070183
+10006290258,node,,artwork,Avignon,,,,43.9481701,4.8075155
+10006298968,node,,artwork,Avignon,,,,43.9467754,4.8108248
+10006328718,node,,artwork,Avignon,,,,43.9485728,4.8061484
+10006341085,node,,artwork,Avignon,,,,43.9488301,4.8034145
+10053743283,node,,viewpoint,Avignon,,,,48.0130358,-66.7592483
+10076714613,node,,garden,Avignon,,,,43.9459337,4.8117565
+10076751690,node,,garden,Avignon,,,,43.9464998,4.8115255
+10081691734,node,,artwork,Avignon,Rue de la Rappe,,,43.9486612,4.8076122
+10081717325,node,,artwork,Avignon,,,,43.9484681,4.8072675
 10096213318,node,Agastache,restaurant,Avignon,"Place Xavier Battini, 84800",84800,https://agastache-restaurant.fr/,43.9198069,5.0535391
+10127876710,node,Sainte Thérèse de Lisieux,artwork,Avignon,,,,43.946962,4.8104707
+10128505325,node,,viewpoint,Avignon,,,,43.9536728,4.8049347
+10130194147,node,,artwork,Avignon,,,,43.9433596,4.8095619
+10135251869,node,Vierge à l’enfant,artwork,Avignon,,,,43.9481438,4.8113808
 10135255601,node,Cell’s Patio,restaurant,Avignon,,,,43.9479494,4.8115095
+10156893938,node,Vierge à l’enfant,artwork,Avignon,,,,43.9494708,4.8110706
+10168967215,node,O Maria,artwork,Avignon,,,,43.9515393,4.8175418
+10168994141,node,Vierge à l'enfant,artwork,Avignon,,,,43.951529,4.8169222
 10169240547,node,La Chapelle,restaurant,Avignon,,,,43.9508718,4.8190126
+10188399304,node,Vierge Marie,artwork,Avignon,,,,43.9456784,4.8077045
+10269923873,node,,viewpoint,Avignon,,,,43.9430442,5.1149308
+10536760293,node,Vierge Marie,artwork,Avignon,,,,43.9490751,4.8080309
+10536760294,node,Saint-Joseph,artwork,Avignon,,,,43.9490854,4.8079458
+10536760295,node,Vierge Priante,artwork,Avignon,,,,43.9490601,4.8081206
+10564814459,node,Saint-Jean-Paul II,artwork,Avignon,,,,43.94917,4.807966
+10564814460,node,Saint-curé d’Ars,artwork,Avignon,,,,43.9491529,4.8079806
+10564814461,node,Saint-Roch,artwork,Avignon,,,,43.9491636,4.8079062
+10570369067,node,Saint-Antoine de Padoue,artwork,Avignon,,,,43.9493154,4.8079232
+10570378349,node,Sainte-Marie-Madeleine,artwork,Avignon,,,,43.9491078,4.807907
+10570378350,node,Sainte-Thérèse de Lisieux,artwork,Avignon,,,,43.9490965,4.8079908
+10586552396,node,Sainte-Philomène,artwork,Avignon,,,,43.9493029,4.8080013
+10586552397,node,Sacré Coeur,artwork,Avignon,,,,43.949292,4.8080756
+10586552398,node,Saint-Pierre,artwork,Avignon,,,,43.949249,4.8082322
+10586552399,node,Saint-Paul,artwork,Avignon,,,,43.9491641,4.8082081
+10598744098,node,Sainte-Anne et la Vierge enfant,artwork,Avignon,,,,43.9490833,4.8080857
+10648850542,node,plaque comméorative de l'hôtel de police,memorial,Avignon,,,,43.9427198,4.7995847
+10655410940,node,,memorial,Avignon,,,,43.8950597,4.9418504
+10656462516,node,plaques commémoratives toutes guerres,memorial,Avignon,,,,44.0035185,4.9275152
+10656462517,node,,memorial,Avignon,,,,44.0004437,4.9241715
+10657384712,node,,memorial,Avignon,,,,43.9177741,5.1270211
+10673894092,node,,memorial,Avignon,,,,43.944284,4.9095966
+10673894093,node,Stèle de la Déportation,memorial,Avignon,,,,43.942032,4.9058601
+10673894094,node,stèle Jean Moulin,memorial,Avignon,,,,43.9422415,4.9076732
+10673894095,node,,memorial,Avignon,,,,43.9423343,4.9067395
+10678468827,node,,memorial,Avignon,,,,43.9563353,4.9298216
+10679445334,node,,memorial,Avignon,,,,43.9343217,5.1042674
+10681758313,node,,memorial,Avignon,,,,43.9579066,5.0317469
 10690598607,node,Ju'ste Chez Moi,restaurant,Avignon,1045;160,,,43.9165364,4.8086937
 10720473143,node,Le Patio,restaurant,Avignon,,,,43.9425889,4.8023453
 10726293487,node,Imperial bus diner,restaurant,Avignon,,,,44.0354091,4.8785299
+10737423380,node,,artwork,Avignon,,,,43.9548509,4.8236908
+10740614247,node,Pierre-Émile Franck,memorial,Avignon,,,,44.0053657,4.8752789
 10846806890,node,Fritkot,restaurant,Avignon,"543 Route de L'Isle-sur-la-Sorgue, 84250, Le Thor",84250,https://www.fritesbelges.fr/,43.9246362,5.0081655
 10991753583,node,O’Meydan,restaurant,Avignon,,,,43.9283631,4.792298
+11014256223,node,,memorial,Avignon,,,,43.949642,4.8056556
 11021246603,node,Restaurant du Cap à la Mer,restaurant,Avignon,597,,,48.102737,-66.1247974
 11035406836,node,La Maison de Sylvanie,restaurant,Avignon,,,,43.980025,4.9454128
 11065129831,node,Cantina Lasalle,restaurant,Avignon,,,,43.9493838,4.816933
@@ -368,27 +666,768 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 11242279956,node,Cantine clé de sol,restaurant,Avignon,475 Route 132 est,,,48.1225357,-66.2882538
 11290497262,node,Le mon plaisir,restaurant,Avignon,,,,43.9529077,4.8708564
 11294330762,node,Residella house,hotel,Avignon,,,,43.981837,4.8614824
+11359674905,node,Morts en service,memorial,Avignon,,,,43.9417423,4.8345013
+11359674910,node,Morts au feu,memorial,Avignon,,,,43.9417458,4.8345195
+11359674911,node,%orts au champ d'honneur,memorial,Avignon,,,,43.9417451,4.8345374
+11360295848,node,Aux victimes du devoir,memorial,Avignon,,,,43.9411427,4.8360239
+11360295849,node,Aux sapeurs pompiers,memorial,Avignon,,,,43.9411282,4.8360276
 11465920265,node,L'Eat Aliano,restaurant,Avignon,,,,44.0123758,4.8725899
 11524622368,node,Come A Roma,restaurant,Avignon,"16 Place de la Principale, 84000, Avignon",84000,,43.9474725,4.8074759
 11538253313,node,Cœur d'Artichaut,restaurant,Avignon,"187 Avenue Pierre Semard, 84000, Avignon",84000,,43.9283119,4.8430881
 11645436692,node,Italian queen,restaurant,Avignon,44 Cours Jean Jaurès,,,43.9439432,4.8052668
+11682146369,node,,viewpoint,Avignon,,,,43.9517604,4.7992329
+11682180769,node,Vestiges Des Arcades Romaines,ruins,Avignon,,,,43.9505263,4.8048325
+11717544286,node,Lou Primadié Jan Brunet,memorial,Avignon,,,,43.9477792,4.8067746
+11717544289,node,,viewpoint,Avignon,,,,43.950915,4.8069361
+11717544290,node,,viewpoint,Avignon,,,,43.9532605,4.8070032
 11867240370,node,Golf de Saumane,restaurant,Avignon,"Chemin des Muletiers, 84800",84800,,43.9232756,5.0963113
 11887338331,node,Le Murano,restaurant,Avignon,,,,43.9285883,4.8349692
 11928687855,node,La vieille fontaine - Hôtel d'Europe,restaurant,Avignon,"12 Place Crillon, 84000, Avignon",84000,,43.9503713,4.803458
+12039405942,node,Maison Jean Vilar,museum,Avignon,,,,43.9498046,4.8067172
+12085098757,node,,memorial,Avignon,,,,43.9280758,4.9933324
 12162147553,node,Ô Chalet,restaurant,Avignon,410 Rue du Petit Gigognan,,,43.9308444,4.7865167
 12180511101,node,La Nouvelle Forge,restaurant,Avignon,,,,43.9623074,4.8608876
+12241647730,node,,artwork,Avignon,,,,44.0044787,4.9282075
 12241676829,node,Les 4 saisons,restaurant,Avignon,,,,44.0044251,4.9273689
+12241700199,node,,artwork,Avignon,,,,44.0038701,4.9261465
+12241723950,node,,artwork,Avignon,,,,44.0044567,4.9250596
 12431010292,node,Le quai des saveurs,restaurant,Avignon,1 Porte de la République,,,43.9423297,4.8048952
+12698725585,node,Vierge à l’enfant,artwork,Avignon,,,,43.9480852,4.8075627
 12734393065,node,Maison de la Tour,restaurant,Avignon,9 Rue de la Tour,,https://www.maisondelatour.fr/,43.9521978,4.8161088
+12759521031,node,,artwork,Avignon,,,,43.9470964,4.806365
+12765565664,node,,viewpoint,Avignon,,,,43.9331627,5.1386052
 12795208801,node,Confidentiel,restaurant,Avignon,,,,43.9852275,4.8881764
+12841410798,node,,viewpoint,Avignon,,,,43.9407185,4.9354631
+12841410799,node,,viewpoint,Avignon,,,,43.9397365,4.9357801
+12917469723,node,Stèle commémorative Louis Marius Aymard,memorial,Avignon,,,,43.9273856,4.7781305
+12952010401,node,Musée Bains Pommer,museum,Avignon,25 Rue du Four de la Terre,,,43.947283,4.811686
+12969047539,node,,artwork,Avignon,,,,43.9496312,4.8050016
+12969047540,node,,artwork,Avignon,,,,43.9485997,4.8102362
+12969069913,node,,artwork,Avignon,Rue Saint Pierre,,,43.948747,4.8078669
+12977163553,node,,artwork,Avignon,,,,43.9490894,4.8056518
+12977233201,node,,artwork,Avignon,,,,43.9495117,4.8049798
+12989467024,node,,artwork,Avignon,,,,43.9493272,4.8115758
+12989506317,node,,artwork,Avignon,,,,43.9471973,4.8135803
+12989509396,node,,artwork,Avignon,,,,43.9476233,4.8115472
 12995325917,node,,restaurant,Avignon,,,,43.9288272,4.7841753
 13030609839,node,La Pizza,restaurant,Avignon,"336 Route de Realpanier, 84270, Vedène",84270,https://restaurantlapizza.fr/,43.9542609,4.8974975
 13051917246,node,La Guinguette BonoBrousse,restaurant,Avignon,3424 Chemin Île d'Oiselay,,,44.0236816,4.8406304
 13052481601,node,Chez Seb,restaurant,Avignon,,,,48.1761395,-65.9813378
+13072209857,node,Rivière Melon,park,Avignon,"84250, Le Thor",84250,,43.9314372,4.9687518
 13180515388,node,Casse-Croûte Chez Mamie Yoyo,restaurant,Avignon,"125 Boulevard Inter-Provincial, Pointe-à-la-Croix",,,48.0264944,-66.6997921
 13180562200,node,Restaurant Chez Claudine,restaurant,Avignon,"22 Boulevard Perron Est, Pointe-à-la-Croix",,,48.0343197,-66.7020365
+13244136855,node,Rue des écoles,artwork,Avignon,,,,43.9476696,4.8144041
 13255551160,node,Sushi wan,restaurant,Avignon,60 Rue Pélisserie,,,44.0105725,4.8726266
+13257339312,node,,memorial,Avignon,,,,43.9767727,4.8987148
+13259561574,node,,castle,Avignon,,,,43.9786356,4.9032766
+13311039934,node,"Musée ""Village de santons""",museum,Avignon,,,,43.9222974,5.1297278
+13437423992,node,,park,Avignon,,,,43.9481114,4.8035062
 13592678121,node,The big Fred,restaurant,Avignon,,,,43.9227374,5.129237
+13694995918,node,,artwork,Avignon,,,,43.9497261,4.8122986
+13694995919,node,,artwork,Avignon,,,,43.9496703,4.8125974
+13694999449,node,,artwork,Avignon,,,,43.9494634,4.8115412
+13695006792,node,,artwork,Avignon,,,,43.950998,4.8126838
+13714082028,node,,artwork,Avignon,,,,43.9451563,4.8053941
 13740199598,node,Comptoir des Frangines,restaurant,Avignon,230 Chemin du Pont Blanc,,https://www.comptoirdesfrangines.com,43.978869,4.88851
+13754856446,node,,artwork,Avignon,,,,43.9505671,4.8048963
+13754880115,node,Jacquemart d'Avignon,attraction,Avignon,,,,43.949251,4.8053288
+13769069880,node,,artwork,Avignon,,,,44.007958,4.8715558
+13770205473,node,,memorial,Avignon,,,,44.006996,4.8776129
+13796912700,node,Pont Saint-Bénezet,museum,Avignon,,,,43.952983,4.8052277
+13817960330,node,,artwork,Avignon,,,,43.9501944,4.8055647
+13858131961,node,Reste des remparts,ruins,Avignon,,,,43.9458209,4.8036811
 13878853510,node,Honoré brunch,restaurant,Avignon,"11 Avenue des Quatre Otages, 84800, L'Isle-sur-la-Sorgue",84800,https://www.honorebrunch.fr/,43.9184058,5.0543775
+13900741944,node,,artwork,Avignon,,,,43.9488937,4.8056785
+13931743004,node,,artwork,Avignon,,,,43.9489645,4.8046642
 13952718101,node,Côté Sorgue,restaurant,Avignon,,,,43.9181053,5.0561634
+26703414,way,,park,Avignon,,,,-35.3425111,149.104992
+28189613,way,Rue Peyrolerie,attraction,Avignon,,,,43.9501779,4.8068728
+28196526,way,Square Agricol Perdiguier,park,Avignon,,,,43.9446542,4.8064351
+80011884,way,Château des Évêques de Cavaillon,castle,Avignon,,,,43.9208433,5.1296849
+82905710,way,,restaurant,Avignon,L'Isle-sur-la-Sorgue,,,43.9137999,5.0735612
+82906594,way,Le Saîgon,restaurant,Avignon,,,,43.9187524,5.0598123
+82907055,way,Hôtel Domaine De La Petite Isle,hotel,Avignon,"871 Route d'Apt, 84800, L'Isle-sur-la-Sorgue",84800,,43.9150855,5.0715404
+82907196,way,,garden,Avignon,,,,43.9249185,5.0279886
+82907349,way,Le cours de l'eau,restaurant,Avignon,,,,43.9172621,5.0523625
+82908804,way,,restaurant,Avignon,"3 Rue Molière, L'Isle-sur-la-Sorgue",,,43.9200373,5.052607
+82909748,way,Galerie Démesure,gallery,Avignon,Avenue de La Liberarion,,https://www.galeriedemesure.com,43.9174409,5.0513419
+82910114,way,Hôtel restaurant la prévôté,restaurant,Avignon,4 Rue Jean Jacques Rousseau,,,43.9199875,5.0519562
+82910373,way,La Truite Vagabonde,hotel,Avignon,"84800, L'Isle-sur-la-Sorgue",84800,,43.9138578,5.0728975
+82910520,way,pyramide pizza,restaurant,Avignon,"route de Carpentras, 84800, L'Isle-sur-la-Sorgue",84800,,43.9260798,5.0632157
+82912429,way,,castle,Avignon,,,,43.9259589,5.0813134
+82912977,way,l'alambic,restaurant,Avignon,Chemin du Pont de la Sable,,,43.926643,5.0622049
+82918192,way,Le Bellevue,restaurant,Avignon,,,,43.9199295,5.0551085
+82918828,way,Le Bassin Hôtel Restaurant,restaurant,Avignon,,,,43.9198134,5.0555873
+82919142,way,Beef Pub,restaurant,Avignon,"Porte de Bouigas, 84800, L'Isle-sur-la-Sorgue",84800,,43.9202355,5.0551454
+82919565,way,Le vivier,restaurant,Avignon,Cours Fernande Peyre,,,43.9257009,5.0637637
+82919780,way,Chez Nino,restaurant,Avignon,Rond-point place Victor Hugo,,,43.9218839,5.0481495
+82920070,way,,restaurant,Avignon,"Avenue des quatre Otages, 84800, L'Isle-sur-la-Sorgue",84800,,43.9191664,5.0546589
+82925128,way,Andiamo pizza,restaurant,Avignon,"avenue Fabre de Sérignan, 84800, L'Isle-sur-la-Sorgue",84800,,43.9222045,5.0509875
+82926721,way,La Ballade des Saveurs,restaurant,Avignon,,,,43.9198798,5.055112
+82926904,way,Le Renaud-Mets,restaurant,Avignon,"52-54 Rue Carnot, 84800, L'Isle-sur-la-Sorgue",84800,,43.9183952,5.0495656
+82927536,way,Grand Café de la Sorgue,restaurant,Avignon,,,,43.9183044,5.0524479
+83561690,way,Kayak Vert,restaurant,Avignon,,,,43.9176428,5.1150915
+83561732,way,Musée-Bibliothèque François Pétrarque,museum,Avignon,,,,43.9219204,5.1288554
+83562046,way,,restaurant,Avignon,,,,43.9174061,5.1149228
+83563353,way,Pétrarque et Laure,restaurant,Avignon,,,,43.9218427,5.1273662
+83748718,way,Hôtel Le Magnan,hotel,Avignon,63 Rue du Portail Magnanen,,https://www.hotel-magnan.com/,43.9437377,4.8123232
+83749790,way,Le Nil,restaurant,Avignon,,,,43.9414039,4.8245026
+83749877,way,Hôtel Central,hotel,Avignon,"31, 84000",84000,http://www.avignon-central-hotel.com/,43.9455337,4.805765
+83749885,way,Le Léopard,restaurant,Avignon,,,,43.9274488,4.8387683
+83751695,way,Hôtel Colbert,hotel,Avignon,,,https://www.avignon-hotel-colbert.com/,43.9441289,4.8069234
+83753195,way,Avignon Hôtel Monclar,hotel,Avignon,,,https://www.hotel-monclar.com/,43.9408814,4.8039018
+83753567,way,La socca,restaurant,Avignon,,,,43.9321104,4.8728587
+83753656,way,Cloître des Carmes,attraction,Avignon,,,,43.9509692,4.8132741
+83754118,way,Hôtel du Parc,hotel,Avignon,"18 Rue Agricol Perdiguier, 84000",84000,,43.9443329,4.8067168
+83755833,way,Maison Jean Vilar,museum,Avignon,"8, 84000, Avignon",84000,https://www.maisonjeanvilar.org/,43.9491728,4.8067669
+83756327,way,Hôtel Danieli,hotel,Avignon,"17, 84000, Avignon",84000,https://hoteldanieli-avignon.fr/,43.9476048,4.8059761
+83756432,way,Foyer des roulants,hotel,Avignon,,,,43.9387698,4.8249936
+83757652,way,Hôtel Mistral,hotel,Avignon,1 Boulevard de Metz,,http://www.hotel-mistral-avignon.com/,43.9360958,4.8273687
+83757683,way,Avignon Grand Hôtel,hotel,Avignon,"36 Boulevard Saint-Roch, 84000, Avignon",84000,,43.9424628,4.8035208
+83758841,way,Le chêne d'or,restaurant,Avignon,,,,43.9304635,4.7809419
+83760020,way,Hippopotamus,restaurant,Avignon,,,,43.9226184,4.8597107
+83762395,way,Hostellerie le Frênes,hotel,Avignon,,,,43.9378345,4.8797411
+83762654,way,Hôtel de l'Horloge,hotel,Avignon,"3 Rue Félicien David, 84000",84000,https://www.hotel-avignon-horloge.com,43.9488541,4.8054955
+83762788,way,Koté Kour,restaurant,Avignon,,,,43.9498039,4.8032552
+83762872,way,Vert Hôtel,hotel,Avignon,130 Avenue Pierre de Coubertin,,https://www.vert-hotel.com/,43.9302576,4.8396619
+83764345,way,Hôtel de Blauvac,hotel,Avignon,84000,84000,http://www.hotel-blauvac.com,43.9480638,4.8063276
+83765059,way,Restaurant de l'école hotelière d'Avignon,restaurant,Avignon,,,,43.9266556,4.8491905
+83766041,way,Hôtel Mercure Avignon Centre Palais des Papes,hotel,Avignon,"1 Rue Jean Vilar, 84000, Avignon",84000,http://www.mercure.com/fr/hotel-1952-hotel-mercure-avignon-centre-palais-des-papes/location.shtml,43.9499373,4.8065571
+83766634,way,Première classe,hotel,Avignon,255 Chemin de Ramatuel,,,43.9302848,4.7902379
+83768134,way,Hôtel Bistrol,hotel,Avignon,,,https://www.bristol-avignon.com/,43.9439438,4.8051788
+83768154,way,Hôtel Kyriad Palais des Papes,hotel,Avignon,84000,84000,http://www.kyriad-avignon.com/,43.9496388,4.8064218
+83768195,way,Hôtel Mignon,hotel,Avignon,12,,https://www.hotel-mignon.com/,43.9498003,4.8037124
+83768990,way,Hôtel Les Corps Saints,hotel,Avignon,,,http://www.hotel-les-corps-saints.fr,43.9441573,4.8066103
+83771742,way,Hôtel d'Angleterre,hotel,Avignon,"20 Boulevard Raspail, 84000, Avignon",84000,https://www.hoteldangleterre.fr,43.9444567,4.8007381
+83774128,way,Hôtel Médiéval,hotel,Avignon,"15 Rue Petite Saunerie, 84000",84000,,43.9493962,4.8094382
+83774257,way,Hôtel de Montaigu,castle,Avignon,37 Rue du Four de la Terre,,,43.9468483,4.8118136
+83774997,way,Collection Lambert,museum,Avignon,"5 Rue Violette, 84000",84000,http://www.collectionlambert.com/,43.9447971,4.8043332
+83776048,way,Au Bonheur Gourmet,restaurant,Avignon,94 Rue du Sous-Marin Casabianca,,https://aubonheurgourmet.com/,43.9227683,4.8586807
+83778120,way,Hôtel Boquier,hotel,Avignon,84000,84000,https://www.hotel-boquier.com/,43.9447205,4.8048625
+83778369,way,Hôtel Regina Avignon,hotel,Avignon,"6, 84000, Avignon",84000,https://www.regina-hotel-avignon.com/,43.9482061,4.8056827
+83778701,way,Cowool-coliving,hotel,Avignon,"25 Avenue Mazarin, 84000, Avignon",84000,,43.9332258,4.8321952
+83779821,way,Formule 1,hotel,Avignon,,,,43.9292186,4.7885257
+83780909,way,Hôtel de Garlande,hotel,Avignon,,,https://www.hoteldegarlande.com/,43.9475573,4.8068275
+83782447,way,Hôtel Cloître Saint-Louis,hotel,Avignon,"20 Rue du Portail Boquier, 84000",84000,,43.9438046,4.8045672
+83783141,way,Hôtel d'Europe,hotel,Avignon,"1 Rue de la Grande Fusterie, 84000",84000,,43.9504912,4.803527
+83784003,way,Confortel Avignon,hotel,Avignon,464 Rue du Grand Gigognan,,http://www.confortelavignon.fr/,43.9318713,4.7823599
+83784740,way,Musée Lapidaire,museum,Avignon,"27, 84000, Avignon",84000,https://www.musee-lapidaire.org/,43.945887,4.806035
+83786354,way,Palais du Roure,castle,Avignon,,,,43.9484271,4.8054032
+83787682,way,,garden,Avignon,,,,43.9296052,4.7817651
+83788659,way,Musée Louis Vouland,museum,Avignon,"17 Rue Victor Hugo, 84000, Avignon",84000,https://www.vouland.com/,43.947265,4.8006216
+83788755,way,La vache à carreaux,restaurant,Avignon,14 Rue de la Peyrolerie,,,43.9495757,4.8080229
+83789190,way,Hôtel Mercure Pont d'Avignon,hotel,Avignon,"2 Rue Ferruce, 84000, Avignon",84000,https://www.accorhotels.com/gb/hotel-0549-mercure-pont-d-avignon-hotel/index.shtml,43.9524275,4.805651
+83789467,way,Le hiatus,restaurant,Avignon,,,,43.9344939,4.8474809
+83789543,way,,park,Avignon,,,,43.950982,4.81969
+83901478,way,Château de Saumane,castle,Avignon,,,,43.9375299,5.106475
+83901948,way,Château de Saumane,castle,Avignon,,,,43.9389102,5.1065356
+85273439,way,,park,Avignon,,,,43.9322404,4.846254
+88191911,way,Parc Chico Mendes,park,Avignon,,,,43.9465202,4.8479629
+88458456,way,La Maison de Celou,restaurant,Avignon,5 Rue Saint-Join,,,43.9288014,4.9455836
+88959845,way,Hostellerie la Grangette,hotel,Avignon,"chemin de cambuisson, Velleron",,,43.9577565,5.0526037
+90005022,way,La presqu'île,restaurant,Avignon,"Petite Route de Sorgue, 84370, Bédarrides",84370,,44.0385591,4.8994232
+90008018,way,,restaurant,Avignon,,,,44.0408428,4.8978616
+91450291,way,Territoires de France,restaurant,Avignon,,,,43.9225805,4.912294
+91715445,way,Espace du Lavoir,gallery,Avignon,,,,43.9796158,4.9047033
+91720114,way,,ruins,Avignon,,,,43.9533262,4.8855642
+91750223,way,Square des Cigales,park,Avignon,,,,43.9351936,4.8727677
+92685432,way,Grand Jardin du Saint-Louis,restaurant,Avignon,,,,43.9218729,5.0183245
+96495934,way,Buffalo Grill,restaurant,Avignon,,,,43.9776154,4.8709921
+96496357,way,City hôtel,hotel,Avignon,,,,43.9778134,4.8722073
+96497809,way,Tommy's,restaurant,Avignon,,,,43.9786022,4.8711267
+96498277,way,B&B Hôtel Avignon 2,hotel,Avignon,"377 Avenue de Fontvert, 84130, Le Pontet",84130,,43.9773801,4.8721968
+96499638,way,Le chic,restaurant,Avignon,,,,43.9782563,4.8730596
+96499734,way,B&B Hotel,hotel,Avignon,"326 Chemin des Petits Rougiers, 84130, Le Pontet",84130,https://www.hotel-bb.com/fr/hotel/avignon-1,43.9787471,4.8723383
+96500068,way,Restaurant la Gare,restaurant,Avignon,,,https://www.restaurantlagare.net,43.9802338,4.8749613
+96500330,way,Bug’s butchers,restaurant,Avignon,,,,43.9760592,4.8727064
+96502761,way,Ibis Budget Avignon Nord,hotel,Avignon,84130,84130,,43.9774703,4.8748873
+96503112,way,L'Escale Antillaise,restaurant,Avignon,,,,43.9785725,4.8736687
+96503233,way,Au Bureau,restaurant,Avignon,,,,43.978405,4.8780358
+96504711,way,Chinois Wok,restaurant,Avignon,,,,43.9760433,4.8711524
+96505000,way,1770,hotel,Avignon,107 Allée de Vire Abeille,,https://1770-avignon.fr/,43.9789257,4.8733178
+96506080,way,3 Brasseurs,restaurant,Avignon,,,,43.9799646,4.8807319
+96506754,way,Ô Panda,restaurant,Avignon,,,,43.9766669,4.8730553
+96507100,way,Planet Rock,restaurant,Avignon,,,,43.9792916,4.8751004
+96839945,way,Square du 11 novembre,park,Avignon,,,,44.0406707,4.8984809
+96969164,way,,park,Avignon,,,,43.9532456,4.8533393
+97484442,way,Le Cezanne,restaurant,Avignon,,,,44.0079837,4.874291
+97494534,way,Sushi Club,restaurant,Avignon,"le crey, 73350, CHAMPAGNY EN VANOISE",73350,,43.9854854,4.8844275
+97496942,way,Château de Saint-Hubert,castle,Avignon,,,,44.0081848,4.8713448
+104946362,way,,beach,Avignon,,,,48.0526836,-66.5759333
+124522915,way,Pleine nature,restaurant,Avignon,,,,43.9848847,4.8872967
+124905415,way,,restaurant,Avignon,"84130, Le Pontet",84130,,43.9837696,4.8821673
+124905418,way,Archipel,restaurant,Avignon,,,,43.9835141,4.882452
+124905524,way,L'Hexagone,restaurant,Avignon,,,,43.9813226,4.8792207
+125167857,way,Wok 168,restaurant,Avignon,,,,43.9857429,4.8869491
+125324730,way,Bistrot du Cap,restaurant,Avignon,,,,43.9280816,4.8368828
+125616516,way,Kaly sushi,restaurant,Avignon,"84000, Avignon",84000,,43.9280115,4.8372316
+131656397,way,,garden,Avignon,,,,43.9832336,4.8773746
+132792631,way,Rocher des Doms,park,Avignon,,,,43.9526663,4.8080925
+133054808,way,,park,Avignon,,,,43.9628738,4.8751006
+134675540,way,Le vieux marché,restaurant,Avignon,"230 Chemin du Pont Blanc, 84270, Vedène",84270,https://www.levieuxmarche.fr/,43.9787764,4.8891664
+134675576,way,Lilly Rosa Pizza d'hôtes,restaurant,Avignon,"130 Chemin du Pont Blanc, 84270, Vedène",84270,https://www.lilirosa.fr/,43.9789498,4.8889541
+134730496,way,Carré des Gourmets,restaurant,Avignon,"130 Chemin du Pont Blanc, 84270, Vedène",84270,https://www.facebook.com/lecarredesgourmets/,43.9787481,4.8884897
+137674626,way,Hôtel Ibis Avignon Centre Gare,hotel,Avignon,"42 Boulevard Saint-Roch, 84000",84000,http://www.ibishotel.com/,43.9420244,4.806977
+142597604,way,,park,Avignon,,,,48.1463854,-66.3194831
+145579444,way,Jardin Romain,garden,Avignon,"Impasse de la Chapelle, 84510, Caumont-sur-Durance",84510,http://www.jardin-romain.fr/,43.8937321,4.9417242
+152694921,way,Parc Gentilly,park,Avignon,,,,44.0066338,4.8770418
+158972654,way,,garden,Avignon,,,,43.9137128,4.8880654
+160615186,way,,garden,Avignon,,,,43.9102677,4.8865819
+160651260,way,Jardin des Carmes,park,Avignon,Avignon,,,43.9508789,4.8137812
+167950533,way,Parc des Estourans,park,Avignon,,,,43.9296058,4.9986583
+167957567,way,Jardins Familiaux,park,Avignon,,,,43.928768,4.9860482
+176409403,way,Parc de la Chapelle,park,Avignon,,,,43.9397422,4.9347027
+177778142,way,Parc Étienne Daillan,park,Avignon,,,,44.0428536,4.8945626
+177976510,way,Square du 19 mars,park,Avignon,,,,44.0381843,4.898998
+193436791,way,Statue du Centenaire,artwork,Avignon,,,https://www.j-aime-le-vaucluse.com/la-statue-du-centenaire-a-avignon,43.9473264,4.7992786
+196633715,way,,garden,Avignon,,,,43.9590384,5.0990867
+196638104,way,,park,Avignon,,,,43.9539623,5.1043333
+196654717,way,,park,Avignon,,,,43.9532461,5.1027079
+205331368,way,Parc Saint-Lazare,park,Avignon,,,,43.9520988,4.8176473
+205332767,way,,park,Avignon,,,,43.9476071,4.8190234
+205332768,way,,park,Avignon,,,,43.9471792,4.8187155
+205336931,way,,ruins,Avignon,,,,43.9492249,4.8047031
+234587008,way,,attraction,Avignon,,,,43.9495861,4.8058789
+235327105,way,Jardin de la confluence,park,Avignon,,,,44.0386512,4.8991473
+239550187,way,La pyramide (statue),monument,Avignon,Route de Carpentras,,,43.9257463,5.0630821
+239867312,way,Bella ciao,restaurant,Avignon,"84800, L'Isle-sur-la-Sorgue",84800,,43.9195504,5.0306429
+239883714,way,Restaurant italien,restaurant,Avignon,,,,43.9261826,5.0627484
+239883715,way,Le paradis de la sorgue,restaurant,Avignon,,,,43.9262164,5.0626853
+241502001,way,,park,Avignon,,,,43.9437301,4.8010212
+242077462,way,Brit Hôtel Avignon Sud,hotel,Avignon,"87, 84140, Avignon",84140,https://hotel-avignon-sud.brithotel.fr/,43.9260621,4.8513481
+242483141,way,Parc Bardi,park,Avignon,,,,43.9787322,4.9100573
+243897449,way,Jardin Petramale,garden,Avignon,,,,43.9457805,4.8094292
+254119045,way,Labyrinthe végétal,attraction,Avignon,,,,43.996754,4.9447094
+274571682,way,Parc de la Mairie,park,Avignon,,,,43.9596154,4.863659
+274573521,way,Parc de Saint Louis,park,Avignon,Le Pontet,,,43.9546015,4.8687079
+275265517,way,,park,Avignon,,,,43.9624363,4.8573905
+292557116,way,,park,Avignon,,,,43.9337366,5.0070698
+301662335,way,Parc du Pré du Curé,park,Avignon,,,,43.9353773,4.797517
+304047385,way,Square Arnaud,park,Avignon,,,,44.038868,4.9030996
+305826601,way,,park,Avignon,,,,44.0050354,4.8775987
+307701969,way,Square du Bicentenaire,park,Avignon,,,,44.0394446,4.8960681
+307865171,way,Au Paradizzio Pizzas,restaurant,Avignon,,,https://www.au-paradizzio-pizzas.com/,44.0062219,4.9360652
+309044299,way,jardin public de la Caisse d'épargne,park,Avignon,,,,43.9186692,5.053732
+310620618,way,Parc Gautier,park,Avignon,,,,43.9166723,5.0512162
+320809489,way,Square Jean Moulin,park,Avignon,,,,44.0089352,4.8731518
+329695685,way,Parc du Clos de la Murette,park,Avignon,,,,43.926931,4.8248952
+342852750,way,"Jeux d'enfants, bancs.",park,Avignon,,,,43.9589876,4.9269926
+348712863,way,Novotel Avignon Centre,hotel,Avignon,20 Boulevard Saint-Roch,,http://www.novotel.com/,43.9424109,4.8021587
+359277961,way,,park,Avignon,,,,43.9741358,4.9176014
+362105055,way,,garden,Avignon,,,,43.9462077,4.8067164
+371911150,way,,park,Avignon,,,,44.0427197,4.8945738
+389170766,way,Résidence vacances Les Rives du Lac,hotel,Avignon,,,https://www.residence-nemea.com/ete/france/provence-alpes-cote-d-azur/vaucluse/saint-saturnin-les-avignon/residence-vacances-les-rives-du-lac-52.html,43.9586262,4.9426514
+402015221,way,,garden,Avignon,,,,44.0401028,4.8987647
+411057594,way,,park,Avignon,,,,43.9394046,4.799678
+443543881,way,,park,Avignon,,,,43.954061,4.8002545
+443543882,way,,park,Avignon,,,,43.9547229,4.8050429
+445338067,way,,park,Avignon,,,,43.9501031,4.8172781
+447995159,way,,garden,Avignon,,,,43.9434633,4.8095503
+447995160,way,,garden,Avignon,,,,43.9436886,4.8102666
+447995162,way,,garden,Avignon,,,,43.9436339,4.8114536
+447995163,way,,garden,Avignon,,,,43.9434778,4.8110693
+465886860,way,Parc du Clos de la Murette,park,Avignon,,,,43.951578,4.8393588
+472339723,way,Jardin de Fogasses,garden,Avignon,,,,43.9474038,4.808208
+477678180,way,,park,Avignon,,,,43.9544019,4.830801
+477693104,way,Place des Petits Pas,park,Avignon,,,,43.9318804,4.8303418
+478399195,way,,garden,Avignon,,,,43.9487716,4.8192661
+497096789,way,Parc de la Cantonne Avignon,park,Avignon,,,,43.9369476,4.8721383
+512260570,way,,park,Avignon,,,,43.930122,4.9410632
+513303406,way,,park,Avignon,,,,48.1114593,-66.2177224
+513303416,way,,park,Avignon,"65 Rue des Voltigeurs, G0C 1Y0, Maria",G0C 1Y0,,48.1757604,-65.9902618
+517076994,way,Parc Adams,park,Avignon,,,,47.9733159,-66.9494974
+544362988,way,Parc de l'Abbaye,park,Avignon,,,,43.9323704,4.8132119
+544371908,way,Parc Campo Bello,park,Avignon,,,,43.9307552,4.8115302
+544373651,way,Parc de la Croix de Noves,park,Avignon,"Rue Pierre Seghers, 84000, Avignon",84000,,43.9260376,4.8386293
+544424579,way,Château de Thouzon,castle,Avignon,,,,43.9452265,4.9857017
+545131935,way,,garden,Avignon,"2 Rue du Vice Légat, 84000, Avignon",84000,,43.9506979,4.8081063
+552446669,way,Buffalo Grill,restaurant,Avignon,,,,43.9206602,4.8671854
+559121233,way,,garden,Avignon,,,,43.9446358,4.8059333
+559121234,way,,garden,Avignon,,,,43.9447001,4.8058579
+601146439,way,Accueil cabanes des grands cépages,hotel,Avignon,,,,44.026535,4.8496325
+613438205,way,,beach,Avignon,,,,48.1057359,-66.1326386
+625048811,way,Flunch Café,restaurant,Avignon,,,,43.9823292,4.8814147
+639622806,way,Fondation Villa Datris,museum,Avignon,,,https://fondationvilladatris.fr/,43.9184261,5.0546958
+650274494,way,,garden,Avignon,,,,43.9851424,4.8823399
+651980989,way,,garden,Avignon,,,,43.9228134,4.8621574
+652485708,way,,garden,Avignon,,,,43.9239356,4.858355
+652814257,way,,garden,Avignon,,,,43.9823683,4.8843036
+653247348,way,,park,Avignon,,,,43.9151286,4.8898389
+653264856,way,,garden,Avignon,,,,43.9835835,4.8788328
+653264859,way,,garden,Avignon,,,,43.9829586,4.8758068
+653308969,way,,garden,Avignon,,,,43.9206135,4.8664724
+653308970,way,,garden,Avignon,,,,43.9205134,4.8663661
+653308971,way,,garden,Avignon,,,,43.9203973,4.8661826
+653339775,way,,garden,Avignon,,,,43.9851152,4.8830289
+653340380,way,,garden,Avignon,,,,43.9831674,4.884245
+653520389,way,,garden,Avignon,,,,43.9244445,4.8556339
+653520390,way,,garden,Avignon,,,,43.924885,4.8556798
+653520391,way,,garden,Avignon,,,,43.9245043,4.8551972
+653520394,way,,garden,Avignon,,,,43.9242139,4.8580291
+653520395,way,,garden,Avignon,,,,43.9242419,4.8577341
+653521162,way,,garden,Avignon,,,,43.985334,4.8827306
+653521164,way,,garden,Avignon,,,,43.9850624,4.8822423
+653521166,way,,garden,Avignon,,,,43.9850979,4.8818891
+653521167,way,,garden,Avignon,,,,43.9851102,4.8819937
+653521168,way,,garden,Avignon,,,,43.984552,4.8813539
+653521169,way,,garden,Avignon,,,,43.9845998,4.8814408
+653521171,way,,garden,Avignon,,,,43.9845511,4.8821172
+653521172,way,,garden,Avignon,,,,43.9847458,4.8824333
+653521174,way,,garden,Avignon,,,,43.9864604,4.8830589
+653521175,way,,garden,Avignon,,,,43.9864056,4.8830858
+653521176,way,,garden,Avignon,,,,43.9862497,4.8831735
+653521177,way,,garden,Avignon,,,,43.9861803,4.8834133
+653785979,way,,garden,Avignon,,,,43.9223595,4.8619659
+653785980,way,,garden,Avignon,,,,43.9219222,4.8620609
+653785981,way,,garden,Avignon,,,,43.9222472,4.8622332
+653785982,way,,garden,Avignon,,,,43.9227489,4.8625064
+653785983,way,,garden,Avignon,,,,43.9232559,4.8625584
+653785985,way,,garden,Avignon,,,,43.9224482,4.8624866
+653795879,way,,garden,Avignon,,,,43.9800761,4.8770222
+654064290,way,,garden,Avignon,,,,43.9820503,4.878355
+654064291,way,,garden,Avignon,,,,43.9817644,4.8785485
+654064294,way,,garden,Avignon,,,,43.9813738,4.877772
+654064295,way,,garden,Avignon,,,,43.9815327,4.8781402
+654769989,way,,garden,Avignon,,,,43.9220767,4.8681151
+654769991,way,,garden,Avignon,,,,43.9217581,4.8681745
+654769992,way,,garden,Avignon,,,,43.9215652,4.8675334
+654769993,way,,garden,Avignon,,,,43.9213106,4.8680306
+656179324,way,,garden,Avignon,,,,43.9289633,4.7722888
+656191183,way,,garden,Avignon,,,,43.9298244,4.7901039
+656305241,way,Le comptoir de Sevran,restaurant,Avignon,4 Rue de l'Olivier,,,43.9478237,4.810443
+656305243,way,Au canard de Pékin,restaurant,Avignon,18 Place Pie,,,43.9478637,4.8102347
+656305255,way,Chez les filles,restaurant,Avignon,,,,43.9474065,4.810059
+656305256,way,La petite cuisine des Halles,restaurant,Avignon,,,,43.9474197,4.8099869
+656305258,way,Cuisine Centr'Halles,restaurant,Avignon,18 Place Pie,,,43.9474773,4.8100087
+656448431,way,,garden,Avignon,,,,43.9356482,4.7813323
+656612223,way,,garden,Avignon,,,,43.9200692,4.8684896
+656612225,way,,garden,Avignon,,,,43.9202384,4.8678261
+656698287,way,,garden,Avignon,,,,43.991578,4.8955914
+656698288,way,,garden,Avignon,,,,43.9919534,4.8960185
+656743131,way,,garden,Avignon,,,,43.9878391,4.8822296
+656743133,way,,garden,Avignon,,,,43.9874729,4.8828956
+656743135,way,,garden,Avignon,,,,43.9874355,4.8824055
+656743136,way,,garden,Avignon,,,,43.9875933,4.8833607
+656743137,way,,garden,Avignon,,,,43.9876309,4.8835808
+656743418,way,,garden,Avignon,,,,43.9897394,4.8821331
+656743419,way,,garden,Avignon,,,,43.9899275,4.881867
+656749240,way,Parc Colette,park,Avignon,,,,43.9296211,4.7968464
+657394340,way,,garden,Avignon,,,,43.9853772,4.8826478
+660690187,way,,park,Avignon,,,,43.9177125,4.8803189
+667220627,way,,garden,Avignon,,,,43.9268555,4.848412
+674235704,way,,garden,Avignon,,,,43.9606674,4.8575603
+677651561,way,,park,Avignon,,,,47.9703803,-67.0468963
+682067329,way,,garden,Avignon,,,,43.9160562,4.8916129
+682073707,way,,park,Avignon,,,,43.9174661,4.8884587
+682080684,way,,garden,Avignon,,,,43.9227072,4.8614556
+682080685,way,,garden,Avignon,,,,43.9238804,4.8578819
+683929410,way,,garden,Avignon,,,,43.9365802,4.8413668
+683935929,way,,garden,Avignon,,,,43.9354971,4.8503991
+687492310,way,,garden,Avignon,,,,43.9837912,4.8767077
+687492311,way,,garden,Avignon,,,,43.9837031,4.876385
+687492312,way,,garden,Avignon,,,,43.9835747,4.8759626
+687492313,way,,garden,Avignon,,,,43.9836197,4.8761095
+687492314,way,,garden,Avignon,,,,43.9836599,4.8762487
+687492315,way,,garden,Avignon,,,,43.983937,4.8798492
+687492413,way,,garden,Avignon,,,,43.982793,4.8784054
+687492414,way,,garden,Avignon,,,,43.9831388,4.8788608
+687492415,way,,garden,Avignon,,,,43.9827191,4.877897
+687492416,way,,garden,Avignon,,,,43.9824898,4.8781422
+687588545,way,,garden,Avignon,,,,43.9299841,4.7895169
+687592388,way,,garden,Avignon,,,,43.9291494,4.7718043
+687592389,way,,garden,Avignon,,,,43.9293271,4.7721686
+687592390,way,,garden,Avignon,,,,43.9291925,4.7720314
+687593470,way,,garden,Avignon,,,,43.92935,4.7748522
+688047042,way,,garden,Avignon,,,,43.9161755,4.8916322
+688047043,way,,garden,Avignon,,,,43.9162319,4.8917636
+688047044,way,,garden,Avignon,,,,43.9161201,4.891934
+688106252,way,Jardins de la Castelette,park,Avignon,,,,43.9183127,4.8785604
+688107465,way,,garden,Avignon,,,,43.9206012,4.8681693
+688107466,way,,garden,Avignon,,,,43.9204575,4.868557
+688107467,way,,garden,Avignon,,,,43.9203031,4.8689481
+688107468,way,,garden,Avignon,,,,43.9201598,4.8692972
+688107470,way,,garden,Avignon,,,,43.9213489,4.866871
+688150899,way,,garden,Avignon,,,,43.9764164,4.8721813
+688153969,way,,garden,Avignon,,,,43.9861113,4.8825339
+688153970,way,,garden,Avignon,,,,43.9858697,4.8824117
+688159180,way,,garden,Avignon,,,,43.9832608,4.8791024
+688344727,way,,garden,Avignon,,,,43.9844809,4.8865459
+688465998,way,,garden,Avignon,,,,43.9129075,4.891877
+689845999,way,,garden,Avignon,,,,43.9162179,4.8865782
+691946773,way,,garden,Avignon,,,,43.947377,4.8834615
+692560492,way,,garden,Avignon,,,,43.924668,4.8850194
+692566068,way,,garden,Avignon,,,,43.9179788,4.8937884
+692566499,way,,garden,Avignon,,,,43.9216521,4.8928173
+692566500,way,,garden,Avignon,,,,43.9230702,4.8933045
+692979965,way,,garden,Avignon,,,,43.9366815,4.8574882
+692979966,way,,garden,Avignon,,,,43.9358566,4.8564938
+692992119,way,,garden,Avignon,,,,43.9504744,4.8634628
+692993537,way,,garden,Avignon,,,,43.9474986,4.8603017
+694701710,way,,garden,Avignon,,,,43.9063149,4.8901833
+694701834,way,,garden,Avignon,,,,43.9336742,4.8478481
+700647837,way,Mur de la Peste,ruins,Avignon,,,,43.9488673,5.1596575
+700647838,way,Mur de la Peste,ruins,Avignon,,,,43.9474913,5.1592277
+710070139,way,,garden,Avignon,,,,43.915965,4.8916699
+711005556,way,Parc du vieux quai,park,Avignon,,,,48.0152454,-66.681679
+711554712,way,Musée d'histoire naturelle du parc national de Miguasha,museum,Avignon,,,http://gaspesie.quebecheritageweb.com/organization/miguasha-national-park-and-natural-history-museum-sepaq,48.1042152,-66.3481467
+714695043,way,,garden,Avignon,,,,43.9826577,4.8831178
+714695044,way,,garden,Avignon,,,,43.9826697,4.8829126
+714695045,way,,garden,Avignon,,,,43.9829731,4.8831403
+714695046,way,,garden,Avignon,,,,43.9828397,4.8831216
+714695047,way,,garden,Avignon,,,,43.983088,4.8830764
+719970494,way,,garden,Avignon,,,,43.9171001,5.0514263
+726135538,way,Résid hôtel Grand Avignon,hotel,Avignon,"220 Chemin de la Blanchère, 84270, Vedène",84270,,43.9620999,4.888466
+726860123,way,,garden,Avignon,,,,43.914406,4.8944511
+726860126,way,,garden,Avignon,,,,43.914883,4.8882524
+729311311,way,,garden,Avignon,,,,43.9835252,4.9299184
+729320598,way,,garden,Avignon,,,,43.9324824,4.7895151
+729320610,way,,garden,Avignon,,,,43.9335054,4.7835206
+734483077,way,,garden,Avignon,,,,43.9301648,4.778766
+734483086,way,,garden,Avignon,,,,43.9335954,4.7798845
+734701553,way,,garden,Avignon,,,,43.921053,4.8619028
+734847975,way,,garden,Avignon,,,,43.9200606,4.8655482
+734847976,way,,garden,Avignon,,,,43.9201848,4.8651166
+734948275,way,Caravelle Guyane,attraction,Avignon,,,,43.9032598,4.8981286
+734960038,way,,attraction,Avignon,,,,43.9034804,4.8987793
+734960039,way,Mirage F1-C,attraction,Avignon,,,,43.9032148,4.8985097
+735184024,way,,garden,Avignon,,,,43.9215699,4.8621728
+735184025,way,,garden,Avignon,,,,43.9215943,4.8619687
+735243831,way,,garden,Avignon,,,,43.9255177,4.8513546
+735243832,way,,garden,Avignon,,,,43.9254942,4.8513028
+735387099,way,,garden,Avignon,,,,43.9847653,4.8866241
+735387100,way,,garden,Avignon,,,,43.9849799,4.8865802
+735387101,way,,garden,Avignon,,,,43.9842538,4.886531
+735387623,way,,garden,Avignon,,,,43.984225,4.8822566
+735387624,way,,garden,Avignon,,,,43.9843438,4.8821307
+735387625,way,,garden,Avignon,,,,43.9839871,4.8825081
+735387626,way,,garden,Avignon,,,,43.983649,4.882871
+735387627,way,,garden,Avignon,,,,43.9833883,4.8830596
+735387628,way,,garden,Avignon,,,,43.9832534,4.8831239
+735387629,way,,garden,Avignon,,,,43.9831219,4.8831892
+735387630,way,,garden,Avignon,,,,43.9829804,4.8832602
+735387631,way,,garden,Avignon,,,,43.9828308,4.8832629
+736699399,way,,garden,Avignon,,,,43.9214414,4.8619961
+736699400,way,,garden,Avignon,,,,43.9215088,4.8618054
+736699401,way,,garden,Avignon,,,,43.9217098,4.8617749
+736699402,way,,garden,Avignon,,,,43.9212542,4.8628544
+736699403,way,,garden,Avignon,,,,43.9209197,4.8623233
+736700407,way,,garden,Avignon,,,,43.9199615,4.8691848
+736700961,way,,garden,Avignon,,,,43.9235264,4.8658653
+736700962,way,,garden,Avignon,,,,43.9237435,4.8657896
+736700963,way,,garden,Avignon,,,,43.9239008,4.8654842
+736700964,way,,garden,Avignon,,,,43.9239951,4.8652727
+736700965,way,,garden,Avignon,,,,43.9240494,4.8651505
+736700966,way,,garden,Avignon,,,,43.9241867,4.8648304
+736700967,way,,garden,Avignon,,,,43.9241347,4.8649528
+736700968,way,,garden,Avignon,,,,43.924333,4.8644972
+736700969,way,,garden,Avignon,,,,43.9242724,4.8646307
+736700970,way,,garden,Avignon,,,,43.9244265,4.8642736
+736700971,way,,garden,Avignon,,,,43.9242502,4.8642193
+736700972,way,,garden,Avignon,,,,43.9244257,4.863691
+736700973,way,,garden,Avignon,,,,43.9245337,4.8633472
+736700974,way,,garden,Avignon,,,,43.9247659,4.8635187
+736702319,way,,garden,Avignon,,,,43.9225836,4.8575381
+736702322,way,,garden,Avignon,,,,43.9247153,4.8580925
+736702323,way,,garden,Avignon,,,,43.925051,4.8575606
+736702331,way,,garden,Avignon,,,,43.9276819,4.8476937
+736702863,way,,garden,Avignon,,,,43.9269647,4.8419432
+736954613,way,Hôtel Ibis Budget Avignon Nord,hotel,Avignon,84130,84130,,43.9775146,4.8748591
+736959144,way,Grand Hôtel Henri,hotel,Avignon,"1 Cours René Char, 84800",84800,,43.9191301,5.0560833
+737038856,way,Hôtel Restaurant le Saint-Louis,hotel,Avignon,84250,84250,,43.9216975,5.0183547
+737064508,way,La Bastide Rose,hotel,Avignon,"99 Chemin des Croupières, 84250, Le Thor",84250,https://www.bastiderose.com/,43.9301181,4.9707902
+737066140,way,Hôtel Restaurant Cristol,hotel,Avignon,"204 Chemin de la Cristole, 84000, Avignon",84000,,43.9267701,4.8513086
+737228978,way,,garden,Avignon,,,,43.9839168,4.8874603
+737280139,way,,garden,Avignon,,,,43.9184053,4.876634
+737901628,way,,garden,Avignon,,,,43.9246241,4.8638131
+737901629,way,,garden,Avignon,,,,43.9245725,4.863936
+737901630,way,,garden,Avignon,,,,43.924488,4.8641281
+737901631,way,,garden,Avignon,,,,43.9250526,4.8631116
+737901632,way,,garden,Avignon,,,,43.9245454,4.8627901
+739031169,way,Court'Inn Suites,hotel,Avignon,"36 Route des Rémouleurs, 84000, Avignon",84000,https://www.court-inn.com/,43.9352863,4.7804945
+739031170,way,Le Gigognan,restaurant,Avignon,,,http://legigognan.com/,43.9351484,4.7814322
+739032703,way,Hôtel Restaurant la Ferme,hotel,Avignon,84000,84000,http://www.hotel-laferme-avignon.com/,43.975626,4.8279066
+739037983,way,Acotel Confort,hotel,Avignon,"218 Avenue de Saint-Tronquet, 84130, Le Pontet",84130,,43.9790231,4.8747212
+739059882,way,Hôtel Restaurant Best Western Paradou,hotel,Avignon,84000,84000,,43.9049407,4.8957074
+739156955,way,Hôtel de l'Ile,hotel,Avignon,"12, 84000, Avignon",84000,https://hoteldelile.fr/,43.956811,4.8028032
+739611178,way,Hôtel Formule 1 Avignon Nord,hotel,Avignon,"Avenue Louis Pasteur, 84700, Sorgues",84700,,43.9846587,4.8881365
+739669081,way,Kyriad Cap Sud,hotel,Avignon,"35 Allée des Fenaisons, 84000, Avignon",84000,http://www.kyriad-avignon-cap-sud.fr/,43.9277109,4.8464075
+739717660,way,Court'Inn aqua,hotel,Avignon,"115 Rue du Mourelet, 84000, Avignon",84000,,43.9319193,4.7798524
+739771649,way,Hôtel Ibis Avignon Sud,hotel,Avignon,"71 Chemin de la Cristole, 84000, Avignon",84000,,43.9259462,4.8489945
+739772273,way,Campanile Avignon Sud Hôtel,hotel,Avignon,84000,84000,,43.9256327,4.8508371
+740026213,way,Novotel Avignon Nord,hotel,Avignon,"135 Avenue Louis Pasteur, 84700, Sorgues",84700,,43.985716,4.8881384
+740161819,way,Ibis Styles Avignon Sud,hotel,Avignon,"2968, 84000, Avignon",84000,,43.9264936,4.8438028
+740299238,way,La Bastide d'Entraigues,hotel,Avignon,"175 Avenue Général Charles de Gaulle, 84320, Entraigues-sur-la-Sorgue",84320,https://www.bastide-entraigues.com/fr,44.0047294,4.9291444
+740366610,way,Hôtel Saint-George,hotel,Avignon,"12 Traverse de l'Etoile, 84000, Avignon",84000,https://www.hotel-saint-george.com/,43.9379222,4.8228009
+740642488,way,Best Western Le Lavarin,hotel,Avignon,"1715, 84000, Avignon",84000,https://www.hotel-du-lavarin.fr,43.9226294,4.8041825
+740647344,way,Hôtel Première Classe Avignon Sud,hotel,Avignon,"40 Rue Jacques Demy, 84000, Montfavet",84000,https://avignon-sud-parc-des-expositions.premiereclasse.com/fr-fr/,43.9186356,4.8718596
+740655972,way,Première Classe,hotel,Avignon,,,,43.9759922,4.8721389
+740688587,way,Hôtel du Mas de Cure Bourse,hotel,Avignon,"120 Chemin de la Serre, 84800, L'Isle-sur-la-Sorgue",84800,https://www.masdecurebourse.com/,43.9014107,5.0345359
+740907562,way,Au Saint-Roch - Hôtel et Jardin,hotel,Avignon,"9 Rue Paul Mérindol, 84000, Avignon",84000,https://www.hotelstroch-avignon.com,43.9427675,4.7979354
+741037072,way,,garden,Avignon,,,,43.9287657,4.7844647
+741037074,way,,garden,Avignon,,,,43.9276901,4.7837021
+741037077,way,,garden,Avignon,,,,43.9271215,4.7844049
+741037078,way,,garden,Avignon,,,,43.9270596,4.7842975
+741037079,way,,garden,Avignon,,,,43.927136,4.7840179
+741038740,way,,garden,Avignon,,,,43.9262238,4.7855035
+741038741,way,,garden,Avignon,,,,43.9263949,4.7854719
+741038744,way,,garden,Avignon,,,,43.9276002,4.7847968
+741038745,way,,garden,Avignon,,,,43.9276932,4.7848268
+741038746,way,,garden,Avignon,,,,43.9276343,4.7849909
+741047074,way,,garden,Avignon,,,,43.9273868,4.7895103
+741176104,way,Hôtel Ibis Budget Avignon Centre,hotel,Avignon,"8 Boulevard Saint-Dominique, 84000, Avignon",84000,https://all.accor.com/hotel/2603/index.fr.shtml,43.943438,4.7987437
+741176105,way,Hôtel Ibis Avignon Centre,hotel,Avignon,"12 Boulevard Saint-Dominique, 84000, Avignon",84000,https://all.accor.com/hotel/1362/index.fr.shtml,43.943607,4.7981925
+741179415,way,Auberge de Cassagne & Spa,hotel,Avignon,"450 Allée de Cassagne, 84130, Le Pontet",84130,https://www.aubergedecassagne.com,43.9606594,4.874932
+741180775,way,Hôtel Altera Roma,hotel,Avignon,"13-15 Avenue de Monclar, 84000, Avignon",84000,,43.9410681,4.8068384
+741297275,way,Hôtel Terre de Provence,hotel,Avignon,"64 bis Chemin des Petits Rougiers, 84130, Le Pontet",84130,http://www.hotel-terredeprovence.com/fr/,43.9766139,4.8723433
+741840367,way,Aparthotel Adagio Access Avignon,hotel,Avignon,,,,43.9262725,4.7854398
+741919914,way,,garden,Avignon,,,,43.9339514,4.7816577
+741919916,way,,garden,Avignon,,,,43.9334789,4.7810591
+742124558,way,,garden,Avignon,,,,43.9308057,4.7833226
+747929433,way,,garden,Avignon,,,,43.9289835,4.7873559
+750593960,way,,garden,Avignon,,,,43.9376048,4.9086351
+750593961,way,,garden,Avignon,,,,43.9376503,4.9088492
+758115718,way,,garden,Avignon,,,,43.9337749,4.837377
+758321445,way,,garden,Avignon,,,,43.9805121,4.8821711
+758323563,way,,garden,Avignon,,,,43.9811976,4.9365467
+758323564,way,,garden,Avignon,,,,43.9811606,4.9363831
+758454102,way,,garden,Avignon,,,,43.9336672,4.7792244
+758454103,way,,garden,Avignon,,,,43.9336574,4.7793633
+758815301,way,,garden,Avignon,,,,43.9790234,4.9086616
+778177176,way,,garden,Avignon,,,,44.0303002,4.8745085
+779645075,way,,park,Avignon,,,,43.9211687,4.8966121
+780974238,way,,park,Avignon,,,,43.9358388,4.8713002
+781535035,way,Auberge du marchand,hotel,Avignon,"530 Boulevard Perron, Maria",,https://aubergedumarchand.com/,48.1757838,-65.9808333
+784234731,way,,park,Avignon,,,,43.9419074,4.8444304
+784234732,way,,park,Avignon,,,,43.9428568,4.84143
+790444437,way,,ruins,Avignon,,,,43.9435594,4.9846956
+792857848,way,,garden,Avignon,,,,43.9472346,4.7906989
+792857849,way,,garden,Avignon,,,,43.9473043,4.790793
+792857850,way,,garden,Avignon,,,,43.947543,4.7908997
+792857851,way,,garden,Avignon,,,,43.9492926,4.7917112
+792857854,way,,garden,Avignon,,,,43.9514999,4.7979751
+798810758,way,,garden,Avignon,,,,43.9880073,4.926219
+798810759,way,,garden,Avignon,,,,43.9879341,4.9263392
+798810760,way,,garden,Avignon,,,,43.9872236,4.9269391
+798811855,way,,garden,Avignon,,,,43.9871476,4.9273459
+798811856,way,,garden,Avignon,,,,43.9870729,4.9264963
+798811857,way,,garden,Avignon,,,,43.986972,4.9265418
+799571783,way,Papes d'Avignon,artwork,Avignon,,,,43.9477313,4.8052085
+813961854,way,,park,Avignon,,,,43.9438592,4.8332068
+817794980,way,,garden,Avignon,,,,43.9841061,4.8823801
+825354252,way,,garden,Avignon,,,,43.9240377,4.8581586
+835481756,way,,garden,Avignon,,,,43.9863101,4.9273056
+835481757,way,,garden,Avignon,,,,43.9861959,4.9269437
+835481758,way,,garden,Avignon,,,,43.986098,4.926991
+844187942,way,,garden,Avignon,,,,43.9339282,4.781308
+844187943,way,,garden,Avignon,,,,43.9339293,4.7817965
+844187944,way,,garden,Avignon,,,,43.9338819,4.7815335
+848036106,way,,garden,Avignon,,,,43.9151776,4.8864784
+848036107,way,,garden,Avignon,,,,43.9152487,4.8862386
+848036108,way,,garden,Avignon,,,,43.915317,4.8859454
+848036109,way,,garden,Avignon,,,,43.9154228,4.8854807
+848036110,way,,garden,Avignon,,,,43.9155108,4.8851721
+848036111,way,,garden,Avignon,,,,43.915576,4.8849165
+848036112,way,,garden,Avignon,,,,43.915121,4.8867645
+848158033,way,,garden,Avignon,,,,43.9157414,4.8890619
+848158034,way,,garden,Avignon,,,,43.9153926,4.8886502
+850634632,way,,garden,Avignon,,,,43.9774747,4.8758202
+857510387,way,Parc Julie-Victoire Daubié,park,Avignon,,,,43.9257758,4.8035933
+859382459,way,,garden,Avignon,,,,43.9300544,4.8442344
+878348120,way,Parc Germain-Deslauriers,park,Avignon,,,,48.1010273,-66.1220637
+878351033,way,,beach,Avignon,,,,48.0864763,-66.1246055
+878614321,way,Parc la Grande-Envolée,park,Avignon,,,,48.1097357,-66.2407873
+885443934,way,,garden,Avignon,,,,43.9339412,4.8478544
+889787476,way,Base de loisirs de la Barthelasse,park,Avignon,"8, 84000, Avignon",84000,,43.954745,4.8001955
+890842014,way,Chateauneuf-des-loisirs,park,Avignon,"303 Chemin du Moulin Rouge, 84470, Châteauneuf-de-Gadagne",84470,,43.9318949,4.9584023
+890842016,way,,park,Avignon,,,,43.9311593,4.9600818
+890842018,way,Domaine de la Souvine,park,Avignon,,,,43.9261929,4.8652323
+903063317,way,,park,Avignon,,,,43.9373581,4.804712
+937024494,way,Hôtel Mercure Avignon Gare TGV,hotel,Avignon,"2 Rue Mère Teresa, 84000, Avignon",84000,https://all.accor.com/hotel/B6F6/index.fr.shtml,43.9285553,4.7841741
+952681045,way,Le Cheval Blanc,restaurant,Avignon,,,,43.9332215,5.0650541
+984932933,way,,garden,Avignon,,,,43.893735,4.9414274
+984932934,way,,garden,Avignon,,,,43.8936046,4.9416329
+984932935,way,,garden,Avignon,,,,43.8934871,4.9418223
+984932936,way,,garden,Avignon,,,,43.8936465,4.9420195
+984932937,way,,garden,Avignon,,,,43.8937642,4.9418295
+984932938,way,,garden,Avignon,,,,43.8938911,4.9416202
+984932939,way,,garden,Avignon,,,,43.8940369,4.941797
+984932940,way,,garden,Avignon,,,,43.8940614,4.9422006
+984932941,way,,garden,Avignon,,,,43.8939064,4.9420018
+984932942,way,,garden,Avignon,,,,43.89379,4.942191
+984932944,way,,garden,Avignon,,,,43.8932052,4.9414738
+984932945,way,,garden,Avignon,,,,43.8933223,4.9412833
+984932946,way,,garden,Avignon,,,,43.8934514,4.9410804
+984932947,way,,garden,Avignon,,,,43.8936039,4.9412664
+984932948,way,,garden,Avignon,,,,43.8934732,4.9414714
+984932949,way,,garden,Avignon,,,,43.8933542,4.9416594
+996583723,way,,garden,Avignon,,,,43.9822386,4.8782069
+997442343,way,,garden,Avignon,,,,43.9791771,4.8768543
+1000342036,way,,garden,Avignon,,,,43.929787,4.8426126
+1000342037,way,,garden,Avignon,,,,43.9295908,4.8426749
+1000342038,way,,garden,Avignon,,,,43.9296082,4.8417669
+1000342039,way,,garden,Avignon,,,,43.9297118,4.8420016
+1000374989,way,,garden,Avignon,,,,43.9208302,4.8677734
+1001810611,way,,park,Avignon,,,,43.9433116,4.8277444
+1003896798,way,,garden,Avignon,,,,43.9254381,4.8575082
+1003896799,way,,garden,Avignon,,,,43.9256897,4.8570948
+1008126751,way,,garden,Avignon,,,,43.930127,4.8443264
+1008126752,way,,garden,Avignon,,,,43.9300117,4.8444816
+1008126753,way,,garden,Avignon,,,,43.9300176,4.8438998
+1009313043,way,,beach,Avignon,,,,48.1064879,-66.2313695
+1019001126,way,,garden,Avignon,,,,43.9284854,4.8438028
+1019001131,way,,garden,Avignon,,,,43.9287928,4.8417234
+1019057771,way,Listuguj Powwow Grounds,park,Avignon,,,,48.0105048,-66.7013657
+1019057775,way,,park,Avignon,,,,48.0201613,-66.6907088
+1019057820,way,Gite à L'Abri Du Clocher,hotel,Avignon,5 Rue de l'Église,,,48.1425816,-66.3187912
+1019057826,way,,park,Avignon,,,,48.142696,-66.3206474
+1019074917,way,Parc des horizons,park,Avignon,,,,48.105954,-66.131772
+1019074957,way,Le parc du vieux Cimetière,park,Avignon,,,,48.1010534,-66.1086907
+1019547809,way,Le Tipi / Ferme urbaine,garden,Avignon,,,,43.9336309,4.7962473
+1024174062,way,Square Anne Frank,park,Avignon,,,,43.9346038,4.8058892
+1024174063,way,Parc de la Laïcité,park,Avignon,,,,43.9327401,4.7960953
+1026075279,way,Champ De Lavande,garden,Avignon,,,,43.9527575,4.804183
+1031124469,way,Square piscine,park,Avignon,,,,44.0055066,4.878092
+1031182327,way,Square Courbin,park,Avignon,,,,44.0397443,4.8975713
+1031220592,way,Square Isnard,park,Avignon,,,,44.0403581,4.8985186
+1032805705,way,Square Gavaudan,park,Avignon,,,,44.012528,4.8736553
+1033763570,way,Square Chaffune,park,Avignon,,,,44.0165749,4.8599642
+1034292400,way,,garden,Avignon,,,,43.9447171,4.8157406
+1036014315,way,,garden,Avignon,,,,43.941958,4.8090679
+1037922921,way,,park,Avignon,,,,44.0066025,4.9262398
+1042227707,way,Rue Peyrolerie,attraction,Avignon,,,,43.9500662,4.8072621
+1047707561,way,,garden,Avignon,,,,43.9248859,4.875778
+1047707562,way,,garden,Avignon,,,,43.9246816,4.8757239
+1047707563,way,,garden,Avignon,,,,43.9245499,4.8751274
+1047707814,way,,garden,Avignon,,,,43.9238438,4.8747236
+1047707815,way,,garden,Avignon,,,,43.924122,4.8756448
+1058482542,way,Moulin à Papier,museum,Avignon,"Chemin de la Fontaine, 84800, Fontaine-de-Vaucluse",84800,https://www.moulin-vallisclausa.com/,43.9216466,5.1302856
+1064384002,way,Jardin Communautaire aux Milles Pousses,garden,Avignon,,,,48.1069356,-66.1171542
+1064421160,way,Parc du Vieux-Quai,park,Avignon,,,,48.1771344,-65.9784825
+1064421171,way,Parc de la Pointe-Verte,park,Avignon,,,,48.1845379,-65.9682356
+1084993795,way,,garden,Avignon,,,,43.9419873,4.8007168
+1085071115,way,,garden,Avignon,,,,43.9835222,4.8829852
+1085071116,way,,garden,Avignon,,,,43.9826093,4.8826786
+1085071117,way,,garden,Avignon,,,,43.9821114,4.8830025
+1085806617,way,,garden,Avignon,,,,43.9362005,5.072405
+1085857817,way,,garden,Avignon,,,,43.9465587,4.8089512
+1085953527,way,,garden,Avignon,,,,43.9457848,4.8095139
+1085953528,way,,garden,Avignon,,,,43.9457846,4.8093151
+1087146447,way,,garden,Avignon,,,,43.9793553,4.8728131
+1087146448,way,,garden,Avignon,,,,43.9793294,4.8726186
+1087146449,way,,garden,Avignon,,,,43.9792939,4.8724175
+1087148569,way,,garden,Avignon,,,,43.9816863,4.8776892
+1087148570,way,,garden,Avignon,,,,43.981646,4.8776565
+1087148571,way,,garden,Avignon,,,,43.9815751,4.8774042
+1087148572,way,,garden,Avignon,,,,43.981778,4.8774927
+1087148573,way,,garden,Avignon,,,,43.9816996,4.8773049
+1087148574,way,,garden,Avignon,,,,43.9816254,4.877078
+1087148575,way,,garden,Avignon,,,,43.9815009,4.8767043
+1087148576,way,,garden,Avignon,,,,43.9822495,4.8769474
+1087148577,way,,garden,Avignon,,,,43.9823873,4.8766596
+1087148578,way,,garden,Avignon,,,,43.9825572,4.8772177
+1087148579,way,,garden,Avignon,,,,43.9828983,4.8770602
+1087148580,way,,garden,Avignon,,,,43.9829408,4.8764385
+1087148581,way,,garden,Avignon,,,,43.9819885,4.8771222
+1087148582,way,,garden,Avignon,,,,43.9817413,4.8774479
+1087148583,way,,garden,Avignon,,,,43.981613,4.8775141
+1087148584,way,,garden,Avignon,,,,43.9815223,4.8777228
+1087161080,way,,garden,Avignon,,,,43.982568,4.8745376
+1087161081,way,,garden,Avignon,,,,43.9825347,4.8744294
+1088816452,way,,garden,Avignon,,,,43.9535166,4.8094171
+1090693101,way,,park,Avignon,,,,43.9637202,4.8814547
+1097221711,way,,garden,Avignon,,,,43.944434,4.8060824
+1097221712,way,,garden,Avignon,,,,43.94444,4.806008
+1102230009,way,,garden,Avignon,,,,43.9783255,4.9090598
+1102230010,way,,garden,Avignon,,,,43.9785976,4.9089531
+1106172902,way,,garden,Avignon,,,,43.9421854,4.8089682
+1106177038,way,,garden,Avignon,,,,43.9299592,4.8382461
+1106177040,way,,garden,Avignon,,,,43.9299146,4.8376915
+1106177041,way,,garden,Avignon,,,,43.9306226,4.8370793
+1106177042,way,,garden,Avignon,,,,43.932124,4.8347523
+1106178300,way,,garden,Avignon,,,,43.9827365,4.9318216
+1106178751,way,,garden,Avignon,,,,43.9805869,4.9358817
+1108813754,way,Jardin Le Tivoli,park,Avignon,,,,43.9276302,4.997342
+1126996199,way,,garden,Avignon,,,,43.9296119,4.8438714
+1126996200,way,,garden,Avignon,,,,43.9297345,4.8440644
+1126996201,way,,garden,Avignon,,,,43.9295126,4.8441539
+1135370729,way,,garden,Avignon,,,,43.915526,4.8950067
+1135638999,way,,garden,Avignon,,,,43.9156259,4.8947265
+1135657325,way,,garden,Avignon,,,,43.9185382,4.8791107
+1135697400,way,,garden,Avignon,,,,43.9168148,4.8926931
+1143947880,way,,memorial,Avignon,,,,43.948691,4.8261441
+1150468698,way,,garden,Avignon,,,,43.9491774,4.8100005
+1150468699,way,,garden,Avignon,,,,43.9491819,4.8101239
+1157134668,way,,garden,Avignon,,,,43.9280079,4.809559
+1175982962,way,,garden,Avignon,,,,43.9535142,4.9021073
+1175982963,way,,garden,Avignon,,,,43.9531779,4.9021476
+1202405833,way,,garden,Avignon,,,,43.9191307,4.9479947
+1204087019,way,,garden,Avignon,,,,43.9537625,4.8008546
+1207444658,way,Hôtel Cantosorgue,hotel,Avignon,"800 Cours Fernande Peyre, 84800, L'Isle-sur-la-Sorgue",84800,,43.9254673,5.0639335
+1207449244,way,,garden,Avignon,,,,43.9328205,4.832078
+1211769117,way,Square Christiane Bray,park,Avignon,Avenue Louis Guignard,,,43.9355288,4.8022854
+1212516373,way,,park,Avignon,,,,43.9985289,4.9262177
+1212686375,way,,park,Avignon,,,,43.9300269,4.8837072
+1212935079,way,Le Champ vert,park,Avignon,,,,43.9275847,4.8155542
+1212939777,way,,park,Avignon,,,,43.9280316,4.818911
+1213076850,way,,garden,Avignon,,,,43.9351426,4.7956094
+1224887009,way,,memorial,Avignon,,,,43.9411372,4.8360108
+1224947543,way,En mémoire de nos camarades disparus,memorial,Avignon,,,,43.9417324,4.8345194
+1224947544,way,,garden,Avignon,,,,43.941657,4.8347228
+1225388893,way,,park,Avignon,,,,44.0027093,4.926603
+1240478555,way,,garden,Avignon,,,,43.9410936,4.878367
+1251376277,way,,garden,Avignon,,,,43.9251293,5.0152171
+1251376278,way,,garden,Avignon,,,,43.9248596,5.0151629
+1251376281,way,,garden,Avignon,,,,43.9247923,5.0147116
+1251376282,way,,garden,Avignon,,,,43.9246793,5.0149738
+1251376285,way,,garden,Avignon,,,,43.924458,5.0146008
+1251376289,way,,garden,Avignon,,,,43.9249042,5.0142903
+1251376294,way,,garden,Avignon,,,,43.9247073,5.0138021
+1251376296,way,,garden,Avignon,,,,43.924669,5.0135886
+1251376303,way,,garden,Avignon,,,,43.9245351,5.0130054
+1251376305,way,,garden,Avignon,,,,43.9243005,5.0129142
+1251376313,way,,garden,Avignon,,,,43.9237541,5.0138903
+1251687430,way,,garden,Avignon,,,,43.926327,5.0151492
+1253657092,way,,garden,Avignon,,,,43.9864435,4.9387815
+1262492826,way,iman,park,Avignon,,,,43.9297149,4.8003174
+1263328056,way,,park,Avignon,,,,43.9148314,4.8898057
+1290394080,way,,garden,Avignon,,,,43.9422266,4.805859
+1290840648,way,,garden,Avignon,,,,43.9422456,4.8050972
+1290840649,way,,garden,Avignon,,,,43.9422256,4.8052052
+1290840650,way,,garden,Avignon,,,,43.942224,4.8053461
+1303221381,way,,garden,Avignon,,,,43.9306703,4.8396796
+1303221382,way,,garden,Avignon,,,,43.9306425,4.8403418
+1304234460,way,,garden,Avignon,,,,43.9249526,4.8634264
+1304833837,way,,garden,Avignon,,,,43.92775,4.9927438
+1304833838,way,,garden,Avignon,,,,43.9277015,4.9924776
+1309542652,way,Nestor le Castor,theme_park,Avignon,,,https://nestorlecastor.com/,43.9182456,5.1151724
+1313239821,way,Ilot Albert Camus,park,Avignon,"Cours du Docteur Seigle, 84250, Le Thor",84250,,43.9302536,4.9945558
+1340162139,way,Le jardin des monnaies,garden,Avignon,,,,43.9442046,4.809563
+1343956953,way,,garden,Avignon,,,,43.9423608,4.804626
+1343956954,way,,garden,Avignon,,,,43.9421812,4.8048599
+1353628118,way,Parc de la Barbière,park,Avignon,,,,43.9312829,4.8336196
+1356682441,way,Parc du Verger des Cèdres,park,Avignon,,,,43.9360844,4.8797061
+1387163396,way,Jardin de la Noria,garden,Avignon,,,,43.9402976,4.9337562
+1396583694,way,,garden,Avignon,,,,43.9571559,4.858954
+1427264592,way,,garden,Avignon,,,,43.983186,4.8582428
+1427264593,way,,garden,Avignon,,,,43.9830669,4.8588016
+1427264594,way,,garden,Avignon,,,,43.9828342,4.8586941
+1427264595,way,,garden,Avignon,,,,43.9829463,4.858068
+1434044570,way,Chez Mamie Yoyo,restaurant,Avignon,,,,48.0264863,-66.6998205
+1434051337,way,,restaurant,Avignon,,,,48.0343161,-66.7020152
+1452577087,way,,garden,Avignon,,,,43.9423192,4.80651
+1452577088,way,,garden,Avignon,,,,43.9420338,4.806445
+1473913458,way,Square Madeleine Croset,park,Avignon,,,,43.9192602,5.052884
+1480626122,way,Pont Saint-Bénezet,attraction,Avignon,,,,43.953744,4.8049725
+1492230043,way,chiken fry's,restaurant,Avignon,,,,43.9251437,4.8095715
+1496075649,way,Flunch,restaurant,Avignon,,,,43.9812283,4.8828995
+1501810259,way,Les Jardins du Colibri,garden,Avignon,,,,43.8942905,4.9516845
+1253091,relation,Hôtel la Mirande,hotel,Avignon,,,https://www.la-mirande.fr/,43.9500534,4.8078471
+1253164,relation,Palais des Papes,attraction,Avignon,"Place du Palais, 84000, Avignon",84000,https://palais-des-papes.com/fr,43.9507198,4.8075845
+1253215,relation,,castle,Avignon,,,,43.9527274,4.8064658
+1253245,relation,Hôtel d'Europe,hotel,Avignon,,,https://www.heurope.com/,43.9504912,4.803527
+1390125,relation,Château de Fargues,castle,Avignon,"Avenue Guillaume de Fargis, 84130, Le Pontet",84130,,43.9571474,4.8595464
+2642004,relation,,park,Avignon,,,,43.9530356,5.1031079
+6655989,relation,,park,Avignon,,,,43.978685,4.8887978
+8516861,relation,Place de l'Horloge,attraction,Avignon,,,,43.9493142,4.8060307
+14026891,relation,,garden,Avignon,,,,43.9240249,4.8847772
+14130609,relation,Jardin Pétrarque,park,Avignon,,,,43.9218714,5.1292162

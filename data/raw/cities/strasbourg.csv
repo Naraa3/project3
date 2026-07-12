@@ -1,4 +1,9 @@
 osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+239582733,node,Fontaine de Janus,artwork,Strasbourg,,,,48.5862276,7.7520842
+239813123,node,Musée Alsacien,museum,Strasbourg,23 Quai Saint-Nicolas,,https://www.musees.strasbourg.eu/musee-alsacien,48.5791319,7.7506043
+239825772,node,Musée archéologique,museum,Strasbourg,2 Place du Château,,https://www.musees.strasbourg.eu/musee-archeologique,48.5808521,7.7525857
+239825781,node,Musée des arts décoratifs,museum,Strasbourg,2 Place du Château,,https://www.musees.strasbourg.eu/web/musees/musee-des-arts-decoratifs,48.5807532,7.7523558
+239830896,node,Musée des Beaux-Arts,museum,Strasbourg,2 Place du Château,,https://www.musees.strasbourg.eu/web/musees/musee-des-beaux-arts,48.5806606,7.7521404
 243723242,node,La Taverne de Saint-Malo,restaurant,Strasbourg,,,https://www.tavernedesaintmalo.fr/,48.6024117,7.7542772
 243739472,node,B&B HOTEL,hotel,Strasbourg,,,hotel-bb.com,48.6043709,7.7589583
 243740026,node,Hôtel Kyriad,hotel,Strasbourg,,,,48.6052558,7.7591943
@@ -8,21 +13,30 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 288171145,node,Brasserie Louise,restaurant,Strasbourg,1 Rue de la Brigade Alsace-Lorraine,,,48.5764146,7.7536619
 288171147,node,À l'Ancienne Douane,restaurant,Strasbourg,,,,48.5795031,7.7500512
 288171148,node,Flam's,restaurant,Strasbourg,"19 Rue d'Austerlitz, 67000, Strasbourg",67000,https://flams.fr/index.php/nos-restaurants/flams-strasbourg-austerlitz/,48.5783919,7.7527939
+288182142,node,Monument Lezay-Marnésia,monument,Strasbourg,,,,48.5858971,7.7533677
 288890519,node,Le Najiba,restaurant,Strasbourg,"6 Route d'Oberhausbergen, 67200, Strasbourg",67200,https://www.restaurant-le-najiba.com/,48.5913473,7.7235394
+288906711,node,Martin Kingfisher,artwork,Strasbourg,,,,48.5910453,7.7236894
+288920587,node,"Mémorial pour les ""Malgré-Nous""",monument,Strasbourg,,,,48.5918856,7.7322158
 289483542,node,Le Monastir,restaurant,Strasbourg,,,,48.5912413,7.7548478
+322484512,node,Fort Rapp - Moltke,monument,Strasbourg,,,,48.6405408,7.7563927
+336216841,node,Nutria spot,attraction,Strasbourg,,,,48.5533466,7.6930225
 393401407,node,Père Benoit,hotel,Strasbourg,,,http://www.hotel-perebenoit.com,48.5323253,7.6351034
 393401408,node,Steinkeller,restaurant,Strasbourg,,,http://www.hotel-perebenoit.com,48.5322247,7.6350739
 432826549,node,La Louisiane,restaurant,Strasbourg,,,https://www.hotel-montagne-verte-strasbourg.com/restaurant-proche-centre-historique-strasbourg-alsace,48.5726312,7.7288194
 471431749,node,Le Fossile,restaurant,Strasbourg,,,,48.5785496,7.7537573
 474726529,node,Léonor,hotel,Strasbourg,"11 Rue de la Nuée Bleue, 67000, Strasbourg",67000,,48.5859515,7.7473073
+474817476,node,Général Leclerc,monument,Strasbourg,,,,48.5855237,7.751432
 475337701,node,Pfifferbriader,restaurant,Strasbourg,14 Place du Marché aux Cochons de Lait,,https://www.winstublepfiff.com/,48.580241,7.7511713
 475345638,node,Hôtel des Arts,hotel,Strasbourg,10,,,48.5803478,7.7513161
 475378678,node,Crep'ess,restaurant,Strasbourg,5,,,48.5831007,7.7551949
 476032564,node,Au Cruchon,restaurant,Strasbourg,"11 Rue des Pucelles, 67000, Strasbourg",67000,https://restaurant-le-cruchon.eatbu.com/?lang=fr,48.5839052,7.7538938
 476622524,node,Zuem Strissel,restaurant,Strasbourg,5,,,48.5801763,7.7507716
 476622543,node,Zehnerglock,restaurant,Strasbourg,"4 Rue du Vieil Hôpital, 67000",67000,,48.5804363,7.7505462
+477828515,node,Monument Gutenberg,artwork,Strasbourg,,,,48.5812346,7.748534
 477829059,node,Le Platz,restaurant,Strasbourg,6;7,,,48.581161,7.7502537
+477829352,node,Büchmesser,artwork,Strasbourg,,,,48.5815328,7.7499257
 481251218,node,Les Savons d'Hélène,restaurant,Strasbourg,,,,48.5820439,7.7442385
+482748928,node,Monument Stoeber,memorial,Strasbourg,,,,48.5835905,7.7418166
 485869849,node,One Street,restaurant,Strasbourg,49,,,48.5789511,7.7430828
 486378215,node,Pierrofino,restaurant,Strasbourg,,,,48.5928239,7.7231069
 488478799,node,L'III Apart,hotel,Strasbourg,1,,https://www.alillapart.com,48.5793376,7.7515457
@@ -30,12 +44,16 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 488631656,node,Palais de Chine,restaurant,Strasbourg,"13 Quai des Bateliers, 67000",67000,,48.5800907,7.7527353
 488631662,node,Maharaja,restaurant,Strasbourg,"15 Quai des Bateliers, 67000",67000,https://maharaja.fr,48.5801937,7.7529872
 488631667,node,Aux Trois Chevaliers,restaurant,Strasbourg,,,,48.5795603,7.7517584
+492764727,node,Général Desaix,memorial,Strasbourg,,,,48.5754682,7.7540341
 493774595,node,Le Purgatoire,restaurant,Strasbourg,,,https://lepurgatoire.alsace/,48.5795454,7.7574719
 498332915,node,La maison d'Orient,restaurant,Strasbourg,6,,,48.5814837,7.7706614
+501812680,node,Monsters,artwork,Strasbourg,12,,,48.5834128,7.7352228
+501812681,node,Tongs Out,artwork,Strasbourg,14,,,48.583395,7.7349996
 501820179,node,Tandem,hotel,Strasbourg,"2 Place de la Gare, 67000, Strasbourg",67000,https://hotel-tandem.fr,48.5838183,7.735011
 501836911,node,Hôtel Le Bristol,hotel,Strasbourg,,,,48.5838692,7.7357832
 501836914,node,Arok,hotel,Strasbourg,,,,48.583931,7.7360759
 501850511,node,Restaurant Brasserie L'Anatolie (Titan),restaurant,Strasbourg,,,,48.5839098,7.7370412
+502508166,node,Parc du Glacis,park,Strasbourg,,,,48.5882254,7.730094
 505383839,node,de:ja,restaurant,Strasbourg,,,https://www.deja-restaurant.com,48.5873526,7.7685662
 506375258,node,Anatolian garden,restaurant,Strasbourg,,,,48.5852473,7.7775658
 513196770,node,Au Cygne,hotel,Strasbourg,38,,,48.4875952,7.7150023
@@ -82,8 +100,10 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 613667908,node,Maï Thai,restaurant,Strasbourg,,,,48.573824,7.79378
 614559186,node,Ibis,hotel,Strasbourg,"1 Rue de Sébastopol, 67000, Strasbourg",67000,https://all.accor.com/hotel/0640/index.fr.shtml,48.5859733,7.7429105
 614559347,node,Novotel Strasbourg Centre Halles,hotel,Strasbourg,"4 Quai Kléber, 67000, Strasbourg",67000,https://all.accor.com/hotel/0439/index.fr.shtml,48.5858909,7.7427238
+617283147,node,Victimes tempête du 6 juillet 2001,memorial,Strasbourg,,,,48.6104527,7.7995169
 617835449,node,Colbert,restaurant,Strasbourg,"127 Route de Mittelhausbergen, 67200, Strasbourg",67200,https://restaurant-colbert.com/,48.5959275,7.7165137
 617835456,node,Le Pavot,restaurant,Strasbourg,,,,48.5955635,7.7173091
+617835515,node,Ô Street Food,restaurant,Strasbourg,,,,48.5948778,7.7183373
 619787401,node,Kimga,restaurant,Strasbourg,,,https://restaurant-kimga.eatbu.com/,48.5925625,7.7160178
 620845078,node,Chez Gopi,restaurant,Strasbourg,,,,48.6002886,7.7118435
 620845080,node,La Villa d'Asie,restaurant,Strasbourg,,,,48.6001447,7.712173
@@ -126,6 +146,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 706612495,node,Au Tilleul,restaurant,Strasbourg,"5 Rue de Strasbourg, 67206",67206,https://www.autilleul.fr/,48.6143453,7.6950584
 739667755,node,Auberge du Hans,hotel,Strasbourg,,,,48.6330955,7.7537715
 739667765,node,Au Fil de l'Eau,restaurant,Strasbourg,,,,48.6332105,7.7537138
+741496262,node,,memorial,Strasbourg,,,,48.6351831,7.7422116
 741546692,node,La Croix d'Or,restaurant,Strasbourg,"8 Place du Général de Gaulle, 67460",67460,https://www.alacroixdor.fr/la-croix-dor-cuisine-traditionnelle.html,48.6353085,7.7416021
 742346371,node,Le Cyrano,restaurant,Strasbourg,,,https://restaurantlecyrano.fr,48.5884905,7.7405237
 759949705,node,L'Argentoratum,restaurant,Strasbourg,,,,48.5814595,7.7400856
@@ -135,10 +156,12 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 763501163,node,À l'Étrier,restaurant,Strasbourg,,,,48.6492292,7.7520505
 763501168,node,À l'Étrier,hotel,Strasbourg,,,,48.6493173,7.7520045
 765910276,node,À l'Aigle d'Or,hotel,Strasbourg,,,,48.6488033,7.7532414
+765910308,node,,memorial,Strasbourg,,,,48.6483413,7.7539376
 765910330,node,Aux Petits Oignons,restaurant,Strasbourg,,,,48.6477493,7.7551939
 775973297,node,Zuem Ysehuet,restaurant,Strasbourg,,,,48.589762,7.7633251
 823724205,node,Restaurant À l'Ange,restaurant,Strasbourg,,,https://restaurantalange.com/,48.4899919,7.6632114
 823724206,node,Restaurant de la Gare,restaurant,Strasbourg,,,https://restaurantgarelipsheim.com/,48.4904613,7.6726466
+823748190,node,,memorial,Strasbourg,,,,48.4892549,7.6623301
 872175035,node,Cour du Corbeau,hotel,Strasbourg,,,,48.5788165,7.7526179
 872175040,node,Au Potiron,restaurant,Strasbourg,"24 Rue Sainte-Madeleine, 67000, Strasbourg",67000,https://au-potiron.eatbu.com,48.5788826,7.7548356
 872175044,node,Brasserie Au Canon,restaurant,Strasbourg,"1 Place du Corbeau, 67000",67000,,48.5790157,7.7517065
@@ -169,21 +192,26 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1198986427,node,Monte Cristo,restaurant,Strasbourg,,,,48.576702,7.7681118
 1207544365,node,Le New Capri,restaurant,Strasbourg,,,,48.5912148,7.7462119
 1207947905,node,Le Pacha,restaurant,Strasbourg,,,,48.5858995,7.7497346
+1207947957,node,Statue de Kellermann,monument,Strasbourg,,,,48.5855211,7.7506483
 1207948031,node,La Chaumière,restaurant,Strasbourg,,,,48.5857975,7.7498371
 1207948057,node,Sushi Opera & Pokés Bowls,restaurant,Strasbourg,,,https://sushi-opera.business.site/,48.5858469,7.7497926
 1207948084,node,Chez Camille,restaurant,Strasbourg,,,,48.5854282,7.7502311
 1210189149,node,Les Innocents,restaurant,Strasbourg,,,,48.5892468,7.74941
 1210189154,node,Sushi's,restaurant,Strasbourg,,,https://www.resto-sushis.com/strasbourg_vosges,48.5899569,7.7493576
+1210189180,node,Charles de Foucauld,monument,Strasbourg,,,,48.5880236,7.7486995
 1210841389,node,Chez Victor,restaurant,Strasbourg,,,https://www.chezvictor-tribunal.fr,48.5889616,7.7476801
 1210841531,node,Pierrofino,restaurant,Strasbourg,,,,48.5907626,7.7478287
 1211016688,node,L'Atelier,restaurant,Strasbourg,,,https://www.latelier-restaurant-strasbourg.fr/,48.5889872,7.7528608
 1211141262,node,Phanthong,restaurant,Strasbourg,"13 Rue des Orphelins, 67000, Strasbourg",67000,,48.5788175,7.7549181
 1212831049,node,Les toqués du coin,restaurant,Strasbourg,,,,48.5924874,7.7564838
+1212907350,node,Ligne indéterminée,artwork,Strasbourg,,,https://ceaac.org/installations/bernar-venet-ligne-indeterminee,48.5943198,7.758263
+1212907414,node,Two Pieces Reclining Figure : Cut - 1981,artwork,Strasbourg,,,,48.5968382,7.7576246
 1214771804,node,Tong Yuen,restaurant,Strasbourg,,,,48.5901452,7.7443672
 1219111220,node,Le Roi et son Fou,restaurant,Strasbourg,,,,48.5810081,7.7496943
 1230002120,node,FivePizza,restaurant,Strasbourg,,,,48.5774045,7.7686145
 1230002130,node,Romulus,restaurant,Strasbourg,,,,48.5772023,7.7666944
 1230015656,node,Hôtel Esplanade,hotel,Strasbourg,,,,48.5814055,7.7698608
+1234098637,node,Statue de Jeanne d'Arc,artwork,Strasbourg,,,,48.5844743,7.7702719
 1239973771,node,Brasserie d'El,restaurant,Strasbourg,,,,48.6072295,7.7228724
 1246670006,node,Au Gobelet d'Or,restaurant,Strasbourg,,,http://augobelet.free.fr/index.htm,48.577184,7.7282545
 1246670071,node,La Vallée du Kashmir,restaurant,Strasbourg,,,https://www.la-vallee-du-kashmir.com/,48.5906336,7.7442589
@@ -199,10 +227,12 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1250274846,node,Au Brasseur,restaurant,Strasbourg,"22 Rue des Veaux, 67000, Strasbourg",67000,http://www.aubrasseur.fr,48.5826016,7.755537
 1250345388,node,Le Schnockeloch,restaurant,Strasbourg,"1 Quai Saint-Jean, 67000, Strasbourg",67000,,48.5827794,7.7381002
 1251333567,node,Au Lion,restaurant,Strasbourg,,,,48.5795041,7.6064216
+1261170975,node,,ruins,Strasbourg,,,,48.5304462,7.7554562
 1262415928,node,Restaurant la Victoire,restaurant,Strasbourg,,,,48.5839859,7.7588914
 1263063443,node,Le Petit Beefbar,restaurant,Strasbourg,"15 Quai Koch, 67000, Strasbourg",67000,https://beefbar.com/petit-beefbar-strasbourg,48.587421,7.7584394
 1263657406,node,Gutenberg,hotel,Strasbourg,,,,48.5811106,7.7476902
 1268893437,node,Au cheval noir,restaurant,Strasbourg,,,https://www.auchevalnoir.eu/,48.6506279,7.7004994
+1268893443,node,,memorial,Strasbourg,,,,48.6497081,7.6995574
 1268893561,node,D'Steinmuehl,restaurant,Strasbourg,,,,48.6494214,7.7017262
 1284494154,node,La Tocante,restaurant,Strasbourg,,,https://www.restaurant-latocante.fr/,48.6653374,7.7195026
 1284499004,node,Flam's,restaurant,Strasbourg,"1 Route de Strasbourg, 67550, Vendenheim",67550,https://www.flams.fr/restaurant_vendenheim.html,48.6673634,7.7197127
@@ -210,6 +240,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1295721316,node,Ce cher Hans,restaurant,Strasbourg,"10 Route de Brumath, 67550, Vendenheim",67550,http://www.ce-cher-hans.fr/,48.6717209,7.7183914
 1295723131,node,Maison Rouge,restaurant,Strasbourg,"2 Route de Brumath, 67550, Vendenheim",67550,https://www.restaurantmaisonrouge.fr/,48.6699979,7.7190098
 1313169293,node,Au Boudoir de Ly,restaurant,Strasbourg,,,,48.6428898,7.7068552
+1313800338,node,,memorial,Strasbourg,,,,48.6412586,7.7122569
 1318578523,node,Relais de la Poste,hotel,Strasbourg,,,https://relais-poste.com,48.6609121,7.8230747
 1318633019,node,Au Raisin,restaurant,Strasbourg,,,,48.6448128,7.7218734
 1319782750,node,Restaurant à la Gare,restaurant,Strasbourg,,,,48.6447732,7.7205277
@@ -218,7 +249,11 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1353480970,node,Le Chapitre,restaurant,Strasbourg,"95 Rue de Bâle, 67100",67100,,48.5672555,7.7654376
 1354006040,node,Restaurant Beyrouth,restaurant,Strasbourg,"39 Route du Polygone, 67100, Strasbourg",67100,https://www.restaurant-beyrouth-strasbourg.fr/,48.5695135,7.7569105
 1354006065,node,Annam,restaurant,Strasbourg,"44 Route du Polygone, 67100, Strasbourg",67100,,48.5693955,7.7566418
+1376009220,node,,ruins,Strasbourg,,,,48.5166935,7.7420193
+1376032559,node,,ruins,Strasbourg,,,,48.5142736,7.7472124
 1445515555,node,Le Continent,restaurant,Strasbourg,,,,48.5794134,7.7140128
+1445515559,node,,memorial,Strasbourg,,,,48.579373,7.7150785
+1446161759,node,monument aux Morts,memorial,Strasbourg,,,,48.4706508,7.7252148
 1493316445,node,Hôtel Golf du Kempferhof,hotel,Strasbourg,,,,48.4594067,7.7425665
 1499753689,node,La Croisée des Chemins,restaurant,Strasbourg,,,,48.4914122,7.6800242
 1522736101,node,L’Osthof,restaurant,Strasbourg,,,,48.6818335,7.6929641
@@ -241,6 +276,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1639772974,node,Ishtar,restaurant,Strasbourg,,,,48.5623499,7.7629019
 1639772983,node,Le Croque Bedaine,restaurant,Strasbourg,,,,48.5648776,7.7598971
 1646121488,node,Le Cannibale,restaurant,Strasbourg,,,,48.5694329,7.7357608
+1646175973,node,Gaenseliesel,artwork,Strasbourg,,,,48.5920976,7.7742165
 1659083600,node,Brasserie Trois Épis,restaurant,Strasbourg,,,,48.6068687,7.7362875
 1659083610,node,Brasserie À la Cave Profonde,restaurant,Strasbourg,,,https://caveprofonde.fr/fr,48.6070558,7.735581
 1661950919,node,Pizzeria Resto Jad,restaurant,Strasbourg,"75 Avenue de la Forêt Noire, 67000, Strasbourg",67000,,48.5808567,7.7768578
@@ -250,10 +286,12 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1716726154,node,Hannong,hotel,Strasbourg,,,,48.5828606,7.7431496
 1716874571,node,Le Baeckeoffe d'Alsace,restaurant,Strasbourg,"14 Rue des Moulins, 67000",67000,https://baeckeoffe.com,48.5803444,7.7419655
 1716908649,node,La Foglia,restaurant,Strasbourg,"6 Rue François-Xavier Richter, 67000, Strasbourg",67000,https://www.lafogliastrasbourg.fr/,48.5887162,7.7791607
+1728878125,node,,park,Strasbourg,,,,48.5718744,7.7631748
 1770233386,node,Café Broglie,restaurant,Strasbourg,,,,48.5842702,7.7494539
 1796171139,node,Le Grillon,restaurant,Strasbourg,,,,48.661691,7.821613
 1796172742,node,O'Pizzicato,restaurant,Strasbourg,,,,48.6636321,7.8226602
 1818052924,node,Le K,restaurant,Strasbourg,"2 Avenue de l'Europe, 67300",67300,,48.6118298,7.7136285
+1837462119,node,,artwork,Strasbourg,,,,48.5171646,7.7069241
 1846887362,node,Le Tarbouche,restaurant,Strasbourg,,,,48.5812772,7.7570802
 1865702225,node,Chez Paulette,restaurant,Strasbourg,,,,48.5684293,7.7547779
 1889477149,node,Du Lac Du Baggersee,restaurant,Strasbourg,"Rue du Baggersee, Strasbourg",,,48.5428703,7.7480452
@@ -261,6 +299,11 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1907030736,node,Le Rajustant,restaurant,Strasbourg,,,,48.562988,7.7641868
 1907954552,node,Au Coq Blanc,restaurant,Strasbourg,,,,48.6034067,7.7836902
 1907977817,node,Au Pont d'Anvers,restaurant,Strasbourg,,,,48.5839505,7.7751816
+1947513723,node,,viewpoint,Strasbourg,,,,48.5891521,7.6635352
+1961102295,node,Chêvre de Geispolsheim,memorial,Strasbourg,,,,48.5144476,7.6490641
+1964442867,node,Monuments aux morts,memorial,Strasbourg,,,,48.5166809,7.6507948
+1964534265,node,,memorial,Strasbourg,,,,48.5418381,7.7043392
+1964586794,node,Colonne Napoléon,memorial,Strasbourg,,,,48.5056498,7.6092605
 1970477047,node,Hôtel Beaucour,hotel,Strasbourg,,,,48.5786482,7.7514785
 1970477053,node,Rasoi,restaurant,Strasbourg,"2 Rue des Bouchers, 67000, Strasbourg",67000,https://rasoistrasbourg.com,48.5789316,7.7511137
 1987095938,node,Nemrut,restaurant,Strasbourg,,,,48.5840072,7.7367918
@@ -277,12 +320,14 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2095562598,node,Steakhouse District,restaurant,Strasbourg,,,,48.5819992,7.7471831
 2095562601,node,Le Square Delicatessen,restaurant,Strasbourg,,,,48.5823339,7.7470122
 2095562603,node,Il Forno,restaurant,Strasbourg,,,https://www.trattoria-ilforno.fr,48.5823829,7.7464553
+2112297316,node,Plateforme de la Cathédrale de Strasbourg,viewpoint,Strasbourg,,,,48.581669,7.7504857
 2182370494,node,Flam's,restaurant,Strasbourg,"29 Rue des Frères, 67000, Strasbourg",67000,https://www.flams.fr/restaurant_strasbourg.html,48.5830935,7.753627
 2204804205,node,Hôtel Ibis Strasbourg Centre Petite France,hotel,Strasbourg,,,,48.582582,7.7372178
 2263125802,node,Au Saint-Sépulcre,restaurant,Strasbourg,,,,48.5824051,7.7491559
 2270579612,node,Au Petit Mezze,restaurant,Strasbourg,,,,48.5817694,7.7458012
 2270579647,node,Le Petit Bouillon Pharamond,restaurant,Strasbourg,,,,48.5815553,7.7461081
 2270579671,node,S'Thomas Stuebel,restaurant,Strasbourg,,,,48.5808658,7.7438944
+2294737157,node,Thanks Gods,artwork,Strasbourg,,,,48.5867826,7.7390044
 2298841226,node,Adam's Hotel,hotel,Strasbourg,,,,48.5579851,7.6922482
 2360773122,node,Ibis Budget,hotel,Strasbourg,,,,48.5850581,7.7365913
 2360773125,node,Etc Hôtel,hotel,Strasbourg,,,,48.5807781,7.7461575
@@ -301,6 +346,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2360896655,node,Sofitel Strasbourg Grande Île,hotel,Strasbourg,"4 Place Saint-Pierre-le-Jeune, 67000, Strasbourg",67000,,48.5850791,7.7461228
 2361234421,node,Ibis Styles,hotel,Strasbourg,"Rue du Maire Kuss, Strasbourg",,,48.5841823,7.7368039
 2361234422,node,Hôtel de l'Ill,hotel,Strasbourg,,,,48.5806264,7.7550351
+2373252192,node,Mahatma Gandhi,memorial,Strasbourg,,,,48.5727841,7.7550286
 2377733603,node,7hotel&SPA,hotel,Strasbourg,67400,67400,https://7hotel.fr/,48.522947,7.739176
 2460847773,node,Le Madras,restaurant,Strasbourg,,,,48.5811465,7.7429424
 2479333761,node,Adagio Petite France,hotel,Strasbourg,"27 Rue de Wasselonne, 67000",67000,https://www.adagio-city.com/fr/hotel-8446-aparthotel-adagio-access-strasbourg-petite-france/index.shtml,48.5792213,7.7322955
@@ -316,8 +362,10 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2511959420,node,La bedaine,restaurant,Strasbourg,,,https://www.facebook.com/LaBedaine/,48.5800091,7.7425508
 2527308435,node,Le 2 - Franchi Pescara,restaurant,Strasbourg,8 Avenue de l'Europe,,https://le-2-franchi-pescara.eatbu.com/,48.5950333,7.7744028
 2556379975,node,Brasserie Les Haras,restaurant,Strasbourg,,,https://les-haras-brasserie.com/,48.5776507,7.742889
+2572776656,node,Le Bleu des toiles,artwork,Strasbourg,,,,48.4898051,7.6817343
 2592090674,node,Pizz'à Gogo,restaurant,Strasbourg,,,https://www.pizzagogo67.fr/,48.4902111,7.6796183
 2595500450,node,Restaurant Irina,restaurant,Strasbourg,"5 Rue du Barrage, 67300, Schiltigheim",67300,https://restaurant-irina-schiltigheim.fr/,48.6038512,7.7511109
+2597701571,node,La Petite France,attraction,Strasbourg,,,,48.5813647,7.7421809
 2612160834,node,La Corne d'Or,restaurant,Strasbourg,,,,48.5798386,7.7481108
 2613090221,node,Hôtel Patricia,hotel,Strasbourg,"1 a Rue du Puits, 67000, Strasbourg",67000,https://www.hotelpatricia.fr,48.5796651,7.7468558
 2628198576,node,La Pid'zz,restaurant,Strasbourg,"Route de Lyon, 67400",67400,,48.5372614,7.7281003
@@ -326,6 +374,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2656224622,node,Le Torricelli,restaurant,Strasbourg,,,,48.5816656,7.742093
 2656224626,node,Salon de thé Grand'Rue,restaurant,Strasbourg,,,https://www.salondethegrandrue.fr/,48.5818239,7.7423203
 2669740558,node,La Petite Mairie,restaurant,Strasbourg,,,,48.584484,7.751358
+2674853776,node,Woman Walking to the Sky,artwork,Strasbourg,,,,48.5853966,7.7421513
 2676660697,node,Dolsot,restaurant,Strasbourg,,,,48.5836706,7.7541176
 2676662296,node,Ô Brazil,restaurant,Strasbourg,"13 Rue du Jeu des Enfants, 67000, Strasbourg",67000,https://www.restaurant-obrazil-strasbourg.fr/,48.5834202,7.7412714
 2676665040,node,Huntun & Mian,restaurant,Strasbourg,"9 Rue des Frères, 67000, Strasbourg",67000,https://www.huntunetmian.com/,48.5827324,7.7522481
@@ -343,15 +392,23 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2839437602,node,Le Bistrot des Copains,restaurant,Strasbourg,"12 Quai Finkwiller, 67000",67000,,48.5786352,7.7449231
 2877576443,node,Flunch,restaurant,Strasbourg,,,,48.5441146,7.7399735
 2884916648,node,L’Entrecôte Cathédrale,restaurant,Strasbourg,,,https://www.entrecotecathedrale.fr/,48.5801763,7.7490402
+2908891294,node,,artwork,Strasbourg,,,,48.5856601,7.7519565
+2908891295,node,,artwork,Strasbourg,,,,48.5856859,7.7519313
+2908891296,node,,artwork,Strasbourg,,,,48.5857119,7.7519055
+2908891297,node,,artwork,Strasbourg,,,,48.5857382,7.7518799
+2908891299,node,,artwork,Strasbourg,,,,48.585764,7.751854
+2908891300,node,,artwork,Strasbourg,,,,48.5857901,7.7518283
 2911187824,node,La Boucherie,restaurant,Strasbourg,,,,48.5739592,7.764492
 2911189480,node,Léon de Bruxelles,restaurant,Strasbourg,,,,48.5740817,7.7631214
 2923906880,node,À l'Étoile d'Or,restaurant,Strasbourg,,,,48.6234015,7.6996251
 2931514522,node,Le comptoir de Breuil,restaurant,Strasbourg,,,,48.5843566,7.7515273
 2933447121,node,Mercure Strasbourg Saint-Jean,hotel,Strasbourg,,,,48.5835336,7.7380039
+2959833903,node,Stèle Capitaine François Raith,monument,Strasbourg,,,,48.5526863,7.6461025
 2967660519,node,La Bolée de Cidre,restaurant,Strasbourg,,,,48.5820239,7.7431127
 2987788771,node,Pizzeria Sarda,restaurant,Strasbourg,,,,48.6030827,7.7828372
 2987788776,node,Le Violon d'Ingres,restaurant,Strasbourg,,,https://www.le-violon-dingres.com/,48.6039281,7.7821029
 2987788804,node,Sushi's,restaurant,Strasbourg,,,https://www.resto-sushis.com,48.5989377,7.7784591
+2987788808,node,Lieu d'Europe,museum,Strasbourg,,,https://lieudeurope.strasbourg.eu/,48.5972406,7.777696
 2987788809,node,Sandkicht,restaurant,Strasbourg,,,,48.5960521,7.7837109
 2987788811,node,Du Côté de chez Anne,restaurant,Strasbourg,,,,48.5958011,7.7849058
 2999530473,node,La pierre à Pizz's,restaurant,Strasbourg,,,,48.6082865,7.6839394
@@ -360,9 +417,16 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3032950330,node,Harmonie Bowl and Juice,restaurant,Strasbourg,,,https://www.harmoniebowlandjuice.com,48.5830585,7.7548925
 3033297224,node,Hôtel Les Haras,hotel,Strasbourg,,,https://les-haras-hotel.com/,48.5770537,7.742996
 3033303912,node,Petite Gallia,restaurant,Strasbourg,,,https://www.crous-strasbourg.fr/restaurant/cafeteria-la-petite-gallia/,48.5840458,7.7598766
+3036620301,node,,artwork,Strasbourg,,,,48.5732058,7.7551779
 3036687943,node,Fink'Stuebel,restaurant,Strasbourg,,,,48.5788177,7.742645
+3036778681,node,La Porte des Bouchers,memorial,Strasbourg,,,,48.578145,7.7532042
+3036793456,node,Tonneau,artwork,Strasbourg,,,,48.5803553,7.7491279
+3036954256,node,,artwork,Strasbourg,,,,48.5784035,7.762519
+3042149033,node,,artwork,Strasbourg,,,,48.5864303,7.7542502
 3046492388,node,L'oro di napoli,restaurant,Strasbourg,,,https://pizzeria-lorodinapoli.fr/,48.5645789,7.7663081
 3046492389,node,Les 15 saveurs,restaurant,Strasbourg,,,,48.5645606,7.7663676
+3048274120,node,,artwork,Strasbourg,,,,48.5742838,7.7583886
+3048274121,node,,artwork,Strasbourg,,,,48.5742711,7.7586211
 3049131161,node,Brasserie Au Télégraphe,restaurant,Strasbourg,,,,48.5791344,7.7589662
 3049162321,node,La Patrie,restaurant,Strasbourg,,,,48.5798043,7.7609463
 3049301880,node,Abbiocco,restaurant,Strasbourg,,,https://www.abbiocco.fr/,48.5784548,7.7605944
@@ -387,6 +451,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3334049279,node,Tentations,restaurant,Strasbourg,,,,48.5828443,7.7535024
 3428438776,node,Le Troquet des Kneckes,restaurant,Strasbourg,,,,48.5814704,7.7439789
 3428438778,node,Ristorante Paradiso,restaurant,Strasbourg,,,,48.5791618,7.7426939
+3451539391,node,Parc de la Maison Alsacienne,museum,Strasbourg,1-13,,https://www.maisonalsacienne.fr/,48.6479101,7.7521551
 3464906630,node,Le Bistrot d'Antoine,restaurant,Strasbourg,,,,48.5835613,7.7552779
 3467071927,node,Chez Yang,restaurant,Strasbourg,"135 Route de Lyon, 67400",67400,,48.5319153,7.7170954
 3467071928,node,La Table d'Olivier,restaurant,Strasbourg,"Route de Lyon, 67400",67400,,48.5319054,7.716894
@@ -398,8 +463,10 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3506150422,node,Au Gutenberg,restaurant,Strasbourg,,,,48.5809764,7.7487312
 3510214756,node,BonBao,restaurant,Strasbourg,,,https://www.bonbao.fr,48.5810287,7.7429382
 3510214757,node,Caveau Gurtlerhoft,restaurant,Strasbourg,"13 Place de la Cathédrale, 67000",67000,,48.5817648,7.7495182
+3574956008,node,,viewpoint,Strasbourg,,,,48.5900763,7.7775941
 3574974710,node,Le Jardin de l'Orangerie,restaurant,Strasbourg,Parc de l'Orangerie,,http://www.jardinorangerie.fr,48.5902076,7.776191
 3602705202,node,La Binchstub Gayot,restaurant,Strasbourg,6 Rue du Tonnelet Rouge,,,48.583175,7.7527276
+3715184748,node,Île Gutenberg,memorial,Strasbourg,,,,48.571894,7.728364
 3753358364,node,Tsuta Ramen,restaurant,Strasbourg,,,,48.5849368,7.7536644
 3771834275,node,Au Drôle de Zèbre,restaurant,Strasbourg,,,,48.5788164,7.7175881
 3778154957,node,Ristorante Del Arte,restaurant,Strasbourg,"Avenue de Strasbourg, 67400",67400,,48.5452924,7.7406005
@@ -410,7 +477,9 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3906376849,node,Manicook,restaurant,Strasbourg,"1 Rue du Colonel Lilly, 67640, Fegersheim",67640,,48.5031129,7.6945721
 3976168201,node,Bo & Bun,restaurant,Strasbourg,"2 Rue de la Mairie, 67300, Schiltigheim",67300,https://www.bobun.asia/,48.6040722,7.7501836
 3982028237,node,Da Giorgio,restaurant,Strasbourg,,,,48.5223421,7.6912677
+4058397015,node,,memorial,Strasbourg,,,,48.6025886,7.7571497
 4058724554,node,Pierres et Gamelles,restaurant,Strasbourg,"19 Rue de la Glacière, 67300, Schiltigheim",67300,https://www.brasseriedelaar.fr/,48.6052248,7.7578879
+4074603743,node,,artwork,Strasbourg,,,,48.6025761,7.7567643
 4080268773,node,Georgian House,restaurant,Strasbourg,"8a Rue Principale, 67300, Schiltigheim",67300,,48.6073396,7.7516048
 4080268774,node,L'Imaginaire,restaurant,Strasbourg,"42 Rue Principale, 67300, Schiltigheim",67300,https://www.limaginaire.fr/,48.604631,7.7506434
 4080268777,node,Taj Mahal,restaurant,Strasbourg,"20 Rue Principale, 67300",67300,https://tajmahal-strasbourg.com/,48.6065809,7.7519961
@@ -426,16 +495,20 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4185510603,node,La Maison Kammerzell,hotel,Strasbourg,"16 Place de la Cathédrale, 67000, Strasbourg",67000,,48.5819549,7.7497693
 4220761790,node,Le Tire-Bouchon,restaurant,Strasbourg,"5 Rue des Tailleurs de Pierre, 67000, Strasbourg",67000,https://www.letirebouchon.fr,48.5805549,7.75059
 4226135689,node,Boki Boki,restaurant,Strasbourg,,,,48.5830848,7.7439911
+4237993436,node,,memorial,Strasbourg,,,,48.5087286,7.6059994
 4254036590,node,B&B Hôtel,hotel,Strasbourg,,,https://www.hotel-bb.com/fr/-/hotelByName.htm?id=0495,48.66236,7.72163
+4254730705,node,,artwork,Strasbourg,,,,48.5185388,7.7054665
 4265938849,node,La Maison à Pizza,restaurant,Strasbourg,,,https://lamaisonapizza.com/,48.6061497,7.7533541
 4265938850,node,S'kästele,restaurant,Strasbourg,,,,48.6063358,7.7530476
 4273041060,node,Zomsa,restaurant,Strasbourg,,,,48.5821653,7.7432273
 4283758819,node,Totoro,restaurant,Strasbourg,"1 Avenue de l'Europe, 67300, Schiltigheim",67300,https://www.restaurant-totoro.com/,48.6098846,7.7125884
 4340714389,node,Aux Quatre Cigognes,restaurant,Strasbourg,,,,48.5801999,7.7508275
 4340714391,node,L'Alsako — Munsterstuewel,restaurant,Strasbourg,,,,48.5804893,7.7512069
+4352707635,node,,memorial,Strasbourg,,,,48.5260315,7.7139963
 4362535373,node,Allo Pad Thaï,restaurant,Strasbourg,,,https://allopadthai.com/,48.5815373,7.7464451
 4375566369,node,À la braise,restaurant,Strasbourg,"17 B Rue Louis Pasteur, 67300, Schiltigheim",67300,https://www.alabraise.fr/,48.6008161,7.7515637
 4382987293,node,Umami,restaurant,Strasbourg,,,https://www.restaurant-umami.com,48.5809302,7.7430415
+4406504964,node,,artwork,Strasbourg,,,,48.5813796,7.741974
 4406504965,node,La Grande Dame,restaurant,Strasbourg,,,,48.5814204,7.7495466
 4408251053,node,Say Cheese,restaurant,Strasbourg,,,,48.582899,7.7541476
 4431452831,node,City Résidence Strasbourg Centre,hotel,Strasbourg,,,https://www.cityresidence.fr/fr/residence/strasbourg,48.5891298,7.7387437
@@ -443,6 +516,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4435870322,node,La Nouvelle poste,restaurant,Strasbourg,"12 Rue du Parchemin, 67000, Strasbourg",67000,,48.5846134,7.75422
 4435908276,node,Villa Casella,restaurant,Strasbourg,,,https://www.villacasella.fr/,48.5801899,7.747901
 4454645362,node,Le Bistronome,restaurant,Strasbourg,"27 Rue Vauban, 67000, Strasbourg",67000,,48.5807283,7.7740784
+4460091237,node,Envol,artwork,Strasbourg,,,,48.5810559,7.7370009
 4463100737,node,Pasta e ravioli,restaurant,Strasbourg,,,https://pasta-e-ravioli.fr/,48.5808701,7.7565462
 4463103424,node,Le Vintage,restaurant,Strasbourg,,,https://www.letheier.fr/,48.5803131,7.7464601
 4463108021,node,Sonar Bangla,restaurant,Strasbourg,"19 Rue de la Course, 67000, Strasbourg",67000,,48.5829698,7.7361545
@@ -485,31 +559,50 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4668485572,node,Trattoria da Giovanni,restaurant,Strasbourg,,,,48.5799747,7.7462253
 4676785079,node,Restaurant Aristide,restaurant,Strasbourg,,,,48.5675983,7.7742685
 4691175038,node,Shahi Mahal,restaurant,Strasbourg,,,,48.5786766,7.7547698
+4693518024,node,Mémorial des Résistants FFI,monument,Strasbourg,,,,48.5951696,7.7593407
 4696193406,node,Momo Tibétain,restaurant,Strasbourg,,,https://momo-tibetain.fr,48.5825604,7.7395453
 4696298723,node,Au pékin,restaurant,Strasbourg,,,,48.5816082,7.7746666
 4696298724,node,Lady Sushi Strasbourg,restaurant,Strasbourg,74 Avenue de la Forêt Noire,,https://lady-sushi.fr/restaurants/strasbourg/,48.5822831,7.7733651
+4708816382,node,Triolet de Godwin Hoffmann - 1986,artwork,Strasbourg,,,,48.5967375,7.7581532
 4715854736,node,Pho Asia,restaurant,Strasbourg,"1 Rue des Dentelles, 67000, Strasbourg",67000,,48.5813176,7.7427107
 4715863743,node,1741,restaurant,Strasbourg,,,,48.5805139,7.7536241
 4752240915,node,Brasserie La Choppe,restaurant,Strasbourg,"19 Rue du Faubourg National, 67000, Strasbourg",67000,,48.5824662,7.7355551
 4752463123,node,La Binchstub Broglie,restaurant,Strasbourg,,,,48.5851302,7.7495748
+4761724406,node,Statue Pierre Pflimlin,artwork,Strasbourg,,,,48.5937397,7.7724979
+4761724407,node,,artwork,Strasbourg,,,,48.5916477,7.7784577
+4762524573,node,,artwork,Strasbourg,,,,48.5922888,7.7760165
+4762524664,node,,artwork,Strasbourg,,,,48.5930174,7.7749263
 4765262156,node,Caupona,restaurant,Strasbourg,,,https://www.caupona.fr,48.5812909,7.7451931
 4781211057,node,Lagrange Apart’Hotel,hotel,Strasbourg,"5 c Boulevard du Président Wilson, 67000",67000,http://www.lagrange-city-strasbourg.com/,48.5874405,7.7380859
+4787114807,node,Dans cette maison qu'il habita enfant Gustave Doré (1832 - 1883) fit ses premiers dessins,memorial,Strasbourg,,,,48.581803,7.7533069
+4803157788,node,Statue de Goethe,artwork,Strasbourg,,,,48.5853219,7.761183
 4817232278,node,La Petite Alsace,restaurant,Strasbourg,"23 Rue du Bain aux Plantes, 67000, Strasbourg",67000,https://lapetitealsace.com,48.5816248,7.7415638
 4817232280,node,Au tribunal,restaurant,Strasbourg,,,,48.5874275,7.7477496
+4817232942,node,Galerie Jungmann,gallery,Strasbourg,,,,48.5873467,7.7474571
 4831185264,node,Yume Sushi,restaurant,Strasbourg,,,https://yume-sushi.fr/,48.5828946,7.7393039
 4833415230,node,Alambar,restaurant,Strasbourg,,,,48.5838744,7.7410259
 4833564536,node,Dim Sum Sam,restaurant,Strasbourg,,,,48.5793656,7.7604766
+4837498344,node,,memorial,Strasbourg,,,,48.5810433,7.7508918
 4843584758,node,Le Rimini,restaurant,Strasbourg,"1 Rue des Veaux, 67000, Strasbourg",67000,https://riministrasbourg.fr/,48.5817337,7.7535038
 4851081122,node,La Pizza de Nico,restaurant,Strasbourg,"44 Rue du Vieux Marché aux Vins, 67000, Strasbourg",67000,,48.5840955,7.7433715
 4924829138,node,Madeleine,restaurant,Strasbourg,,,,48.5792055,7.7543467
+4928942271,node,Près de l'Arbre Brûlé (à Matthias Grünewald),artwork,Strasbourg,,,,48.6096047,7.7992986
 4929565424,node,Le Kuhn,restaurant,Strasbourg,"11 Rue Thiergarten, 67000, Strasbourg",67000,https://lekuhn.com/,48.5848679,7.7376281
 4935910571,node,Au Cygne,restaurant,Strasbourg,,,,48.6075942,7.7498764
+4935910620,node,,memorial,Strasbourg,,,,48.6081189,7.7496642
+4935911321,node,Déportés Juifs d'Auschwitz,monument,Strasbourg,,,,48.608326,7.7489515
+4935911322,node,Réfugiés d'Oradour-sur-Glane,monument,Strasbourg,,,,48.6083291,7.7489307
+4935911323,node,Enfants Mort victimes de la barbarie Nazie,monument,Strasbourg,,,,48.6083295,7.7489079
+4947065332,node,,artwork,Strasbourg,,,,48.6099931,7.760485
 4956353864,node,Pizza des Deux Rives - Neudorf,restaurant,Strasbourg,,,https://pizzadesdeuxrives.fr/,48.5700038,7.7773999
 4968835230,node,Namaste,restaurant,Strasbourg,,,https://lenamaste.fr,48.5874692,7.7460547
 4968835231,node,L'Orchidea,restaurant,Strasbourg,"6 Rue du Faubourg de Pierre, 67000, Strasbourg",67000,https://www.lorchidea.fr/,48.5873302,7.7465075
 4968835232,node,Sakhang,restaurant,Strasbourg,8 Rue du Faubourg de Pierre,,https://sakhang.com/,48.5873902,7.7464664
 4996650523,node,La Marseillaise,restaurant,Strasbourg,,,,48.5852804,7.7501135
+4997520624,node,,artwork,Strasbourg,,,,48.5812639,7.7512632
+4997520821,node,Batorama Boutique,attraction,Strasbourg,,,https://www.batorama.com/fr,48.5820412,7.7501449
 5000831837,node,Le Galopin,restaurant,Strasbourg,,,,48.5821247,7.7421112
+5030606956,node,Yellow korner,gallery,Strasbourg,,,,48.5828963,7.7507402
 5037062157,node,Graffateria,restaurant,Strasbourg,"17 Rue Déserte, 67000, Strasbourg",67000,,48.5833473,7.7356892
 5037078691,node,Al Diwan,restaurant,Strasbourg,,,https://www.restaurant-aldiwan.fr/,48.5820313,7.757103
 5037090017,node,Cinnamon,restaurant,Strasbourg,,,https://cinnamonrestaurant.fr/,48.5796657,7.7480542
@@ -523,15 +616,35 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5097838661,node,La Casserole,restaurant,Strasbourg,,,,48.5834879,7.7526372
 5097838662,node,La Table de Christophe,restaurant,Strasbourg,,,,48.5837398,7.7530623
 5102798996,node,Capricciosa,restaurant,Strasbourg,,,,48.581448,7.7567419
+5107824650,node,Mémorial de l'accident ferroviaire du 14 novembre 2015,memorial,Strasbourg,,,,48.6899042,7.7062795
 5132843921,node,Au petit tonnelier,restaurant,Strasbourg,,,,48.5801144,7.7492917
 5171061121,node,Au Cèdre,restaurant,Strasbourg,,,,48.5788891,7.756841
 5171061321,node,New Delhi,restaurant,Strasbourg,,,,48.5801049,7.7575875
 5174505922,node,Floderer,restaurant,Strasbourg,,,,48.5836198,7.7472776
+5185302118,node,,artwork,Strasbourg,,,,48.605071,7.7589327
 5190658223,node,Baan Thaï,restaurant,Strasbourg,,,,48.5838459,7.738486
 5190858432,node,Le Mikado,restaurant,Strasbourg,"11 Quai Turckheim, 67000, Strasbourg",67000,https://mikadostrasbourg.fr/,48.582444,7.7388086
+5268132606,node,La Nacelle,artwork,Strasbourg,,,,48.6176742,7.766699
+5276340024,node,The Removal of Europa,artwork,Strasbourg,,,,48.5953044,7.7691352
+5276340025,node,,artwork,Strasbourg,,,,48.5953744,7.7693523
+5276340026,node,,artwork,Strasbourg,,,,48.5954356,7.770148
+5276368070,node,Wind from Europe,artwork,Strasbourg,,,,48.5949621,7.7682169
+5276390706,node,United Earth,artwork,Strasbourg,,,,48.5975531,7.7685235
+5276390707,node,Europe at Heart,artwork,Strasbourg,,,,48.5983884,7.7680496
+5276436500,node,Droits de l'Homme,artwork,Strasbourg,,,,48.5937281,7.7712369
+5276436501,node,Four-Leaf Clover,artwork,Strasbourg,,,,48.5940172,7.7707756
+5276436502,node,Europe,artwork,Strasbourg,,,,48.5934283,7.7708936
+5276441754,node,Poséidon d'Artémision,artwork,Strasbourg,,,,48.5939002,7.770384
+5277142465,node,,artwork,Strasbourg,,,,48.5954539,7.772616
+5277170838,node,Inukshuk,artwork,Strasbourg,,,,48.5957914,7.7726227
+5277170839,node,Gymnast,artwork,Strasbourg,,,,48.5958415,7.7715472
+5277335446,node,Hymn to life,artwork,Strasbourg,,,,48.5958361,7.7714022
 5279419719,node,Pierre-Bois et Feu,restaurant,Strasbourg,,,,48.5812513,7.7528383
 5309033272,node,L'Epicier Grand Cru,restaurant,Strasbourg,,,,48.5820578,7.7418172
 5317216163,node,Hanedan,restaurant,Strasbourg,"32 Avenue Aristide Briand, 67100, Strasbourg",67100,,48.5684718,7.7770194
+5337155724,node,Galerie brûlée,gallery,Strasbourg,,,,48.584461,7.7511927
+5337213141,node,Malagacha Gallery,gallery,Strasbourg,"9 Rue du Parchemin, 67000, Strasbourg",67000,https://malagacha-gallery.com/,48.584633,7.7538498
+5375005204,node,Václav Havel,artwork,Strasbourg,,,,48.5943447,7.7701568
 5443670573,node,Chez Michel,restaurant,Strasbourg,,,,48.5325979,7.7055007
 5443670574,node,Auberge de L'Écluse,restaurant,Strasbourg,33,,,48.5454645,7.7313168
 5443670575,node,Au Raisin,restaurant,Strasbourg,,,,48.518309,7.707149
@@ -539,6 +652,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5443670582,node,Restaurant du Chasseur,restaurant,Strasbourg,"70 Route de Lyon, 67400, Illkirch-Graffenstaden",67400,http://hotellechasseur.fr/,48.5325613,7.7195078
 5443670583,node,Hôtel du Chasseur,hotel,Strasbourg,"70 Route de Lyon, 67400, Illkirch-Graffenstaden",67400,http://hotellechasseur.fr/,48.5325848,7.7195
 5443670585,node,K-Soii,restaurant,Strasbourg,,,,48.5240139,7.7078736
+5469006523,node,Vue sur Cathédrale de Strasbourg,viewpoint,Strasbourg,,,,48.5813364,7.7495659
 5483441898,node,Restaurant des 3 Merlettes,restaurant,Strasbourg,,,,48.6024451,7.7382137
 5517947093,node,Montempo Apparthotel,hotel,Strasbourg,,,https://www.montempo.fr/,48.5793907,7.7300362
 5534605555,node,adagio Aparthotel Strasbourg,hotel,Strasbourg,,,,48.5842248,7.7456251
@@ -546,11 +660,14 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5586499122,node,Le Saint-Fiacre,restaurant,Strasbourg,,,,48.6087333,7.7797782
 5598505490,node,Le Jean-Sébastien Bach,hotel,Strasbourg,,,,48.5881334,7.7783934
 5640388675,node,Bistro Athéna,restaurant,Strasbourg,,,,48.5918681,7.7114019
+5662025946,node,,ruins,Strasbourg,,,,48.5792609,7.7548069
 5720678334,node,Cerf d'Or,hotel,Strasbourg,,,,48.5775654,7.7492392
 5742803288,node,Okko Hotels Strasbourg Centre,hotel,Strasbourg,"42 Rue du Bassin d'Austerlitz, 67100, Strasbourg",67100,https://www.okkohotels.com/en/hotels/okko-hotels-strasbourg-presquile-malraux,48.5739703,7.7659165
 5745975191,node,Au Gourmet de l'Orangerie,restaurant,Strasbourg,,,,48.5885047,7.7661583
+5745976540,node,,artwork,Strasbourg,,,,48.5834207,7.7607749
 5745976541,node,Bésame Mucho,restaurant,Strasbourg,"10 Rue Fritz Kiener, 67000, Strasbourg",67000,,48.5832794,7.7608237
 5746530896,node,Asie Gourmand,restaurant,Strasbourg,,,,48.5815298,7.761236
+5780999334,node,Galerie Philippe Decorde,gallery,Strasbourg,,,,48.5806449,7.7363402
 5781073577,node,Bella Casa,restaurant,Strasbourg,"40 Rue des Bouchers, 67000, Strasbourg",67000,https://menu.tillersystems.com/59094/bella-casa,48.577797,7.7503828
 5783798887,node,Tonneau,restaurant,Strasbourg,,,https://restaurant-tonneau.fr/,48.5832243,7.7440983
 5783814773,node,Bar O Centre,restaurant,Strasbourg,,,,48.5831445,7.7440369
@@ -572,49 +689,102 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5918134985,node,Little World,restaurant,Strasbourg,,,,48.5790126,7.7428447
 5927077385,node,Papa Lisa,restaurant,Strasbourg,,,https://restaurant-papalisa.business.site/,48.5588491,7.737747
 5965786343,node,Tzatzi,restaurant,Strasbourg,,,,48.5819084,7.7456552
+5985726052,node,L'Homme-Girafe,artwork,Strasbourg,,,,48.5935932,7.7662704
 6005280285,node,Hôtel Weber,hotel,Strasbourg,,,,48.5809375,7.7320395
 6042232803,node,Boccaccio,restaurant,Strasbourg,,,,48.5787516,7.7422704
 6043768837,node,La Pizza de Nico,restaurant,Strasbourg,"2 place de Paris, 67300, Schiltigheim",67300,https://lapizzadenico.com/restaurant/la-pizza-de-nico-schiltigheim/,48.6108074,7.7117818
+6052938147,node,L'Abri de Rouille,artwork,Strasbourg,,,,48.5763099,7.7147157
+6082242637,node,Bugatti,memorial,Strasbourg,,,,48.5852366,7.7477825
 6088093299,node,l'italiano,restaurant,Strasbourg,,,https://litaliano-restaurant.eatbu.com/?lang=fr,48.563987,7.7527241
 6111692431,node,Restaurant du Centre Culturel St-Thomas,restaurant,Strasbourg,,,,48.5952329,7.7794578
 6113992487,node,Adonis Hôtel Strasbourg,hotel,Strasbourg,,,https://www.adonis-hotel-strasbourg.com/,48.5884912,7.7570902
 6121945554,node,Bistrot Saint-Florent,restaurant,Strasbourg,"31 Rue de la Libération, 67200, Strasbourg",67200,https://bistrotsaintflorent.fr/,48.5965026,7.7209335
 6130609024,node,L'Assiette du Vin,restaurant,Strasbourg,"154 Route de Bischwiller, 67300, Schiltigheim",67300,https://www.assietteduvin.com/,48.6095715,7.750655
+6157108931,node,,memorial,Strasbourg,,,,48.576793,7.6265462
 6178434535,node,Akabe,restaurant,Strasbourg,"17 Boulevard de Lyon, 67000, Strasbourg",67000,,48.5762282,7.7316146
 6183192676,node,Autre Part,restaurant,Strasbourg,,,,48.5915958,7.7520508
 6183620906,node,Abyssinia,restaurant,Strasbourg,,,,48.583574,7.7370098
 6192528689,node,Au Wacken,restaurant,Strasbourg,"1 Rue des Contades, 67300, Schiltigheim",67300,https://www.auwacken.fr/,48.6005643,7.7544674
+6209832336,node,Association Touristique des Cheminots (Routes du Monde),attraction,Strasbourg,"3 Boulevard du Président Wilson, 67083, Strasbourg",67083,http://atcstrasbourg.comoj.com,48.5861552,7.7366367
 6226677454,node,Les GaRnements,restaurant,Strasbourg,,,https://www.les-garnements.fr/,48.5526794,7.7489855
 6243945071,node,IchiNiSan&GO,restaurant,Strasbourg,,,https://ichinisanandgo.com/,48.5844931,7.7432304
 6262751726,node,O'Pizzicato,restaurant,Strasbourg,"17 Allée des Forgerons, 67960, Entzheim",67960,https://opizzicato.fr/entzheim,48.5416523,7.6524628
 6283100186,node,Le Zinc,restaurant,Strasbourg,,,,48.5443263,7.6270325
 6283100187,node,L'Atelier Gourmand,restaurant,Strasbourg,,,,48.5444107,7.6277727
 6360458981,node,Au Soleil,restaurant,Strasbourg,,,,48.5796311,7.6872568
+6366269930,node,Bonhomme drapeau français,artwork,Strasbourg,,,,48.5787057,7.7597824
 6400364590,node,Les Opportunistes,restaurant,Strasbourg,,,https://lesopportunistes.fr/,48.5804453,7.7568972
+6402636951,node,Chevalier Liebenzeller,artwork,Strasbourg,,,,48.580529,7.7494736
 6407297096,node,Resto Sushi's,restaurant,Strasbourg,"39 Presqu'Île André Malraux, 67000, Strasbourg",67000,https://www.resto-sushis.com/strasbourg_black_swans,48.5739084,7.7654038
 6429437897,node,Life Renaissance,hotel,Strasbourg,,,,48.5838029,7.7450854
 6444924335,node,La pizza de Nico,restaurant,Strasbourg,,,https://lapizzadenico.com/restaurants/,48.5299199,7.730931
+6470057681,node,Roseraie,garden,Strasbourg,,,,48.5928368,7.7719495
+6482311825,node,Musée de Minéralogie,museum,Strasbourg,"1 Rue Blessig, 67000, Strasbourg",67000,https://musee-mineralogie.unistra.fr/,48.5834746,7.7627726
+6534994884,node,Oeuvre coquillage,artwork,Strasbourg,,,,48.5739936,7.7648559
 6557948388,node,Le Frangin,restaurant,Strasbourg,,,,48.5830927,7.7538182
+6566264536,node,,artwork,Strasbourg,,,,48.5713483,7.7939307
+6569479229,node,,memorial,Strasbourg,,,,48.5847926,7.5553167
+6570308125,node,"Crash Mirage IIIR n°320, 33-NF, 33-TF",memorial,Strasbourg,,,,48.594669,7.5451975
 6574892138,node,À la Charrue,restaurant,Strasbourg,,,,48.579324,7.6010874
+6574892139,node,,memorial,Strasbourg,,,,48.5790238,7.5992716
+6574909542,node,,memorial,Strasbourg,,,,48.5860061,7.6490468
+6586907865,node,Monument aux fusillés du 15 juillet 1943,memorial,Strasbourg,,,,48.5718992,7.7942938
 6598102687,node,Au Cygne d'Abondance,restaurant,Strasbourg,,,,48.5051175,7.6074073
 6598102688,node,Au Boeuf,hotel,Strasbourg,,,,48.5049798,7.607013
 6598102689,node,Au Boeuf,restaurant,Strasbourg,,,,48.5049345,7.6067528
+6611326165,node,,artwork,Strasbourg,,,,48.5790968,7.7697587
+6611326166,node,Arbre mère,artwork,Strasbourg,,,,48.5782295,7.7696051
+6611326167,node,Hommage à Maillol,artwork,Strasbourg,,,,48.579261,7.7697862
+6611326168,node,,artwork,Strasbourg,,,,48.579548,7.7698412
+6611326173,node,Le couple,artwork,Strasbourg,,,,48.5799406,7.7699166
 6612642831,node,Les Colonnes,restaurant,Strasbourg,,,,48.5888042,7.6880546
+6620864935,node,Aubette 1928,museum,Strasbourg,,,https://www.musees.strasbourg.eu/aubette-1928,48.5838791,7.7460817
+6620945754,node,,artwork,Strasbourg,,,,48.5717914,7.7678915
 6634211242,node,La Fabrique à Miam,restaurant,Strasbourg,,,http://www.lafabriqueamiam.fr,48.5897278,7.7462349
 6666598149,node,La Fanthaïsie,restaurant,Strasbourg,,,,48.5831992,7.742805
+6720448923,node,,memorial,Strasbourg,,,,48.5692003,7.8016352
 6720638401,node,Foca & Brother's,restaurant,Strasbourg,"49 Route de l'Hôpital, 67100, Strasbourg",67100,,48.5702099,7.7511648
 6735600135,node,Resto' U FEC,restaurant,Strasbourg,,,https://www.fec-strasbourg.org/le-restaurant-universitaire/,48.5829442,7.7544849
+6742812784,node,La Marseillaise,memorial,Strasbourg,,,,48.585007,7.7509349
 6771885766,node,Mazar,restaurant,Strasbourg,"3 A Allée des Forgerons, 67960, Entzheim",67960,,48.5386886,7.6468589
+6773152765,node,Charles Schützenberger,artwork,Strasbourg,,,,48.5769298,7.7479813
 6789170785,node,L'Italien du Coin,restaurant,Strasbourg,,,https://www.italienducoin.com/,48.5857793,7.7402668
 6854861685,node,La Cuiller à Pot,restaurant,Strasbourg,,,,48.5787474,7.7424423
+6873460785,node,,memorial,Strasbourg,,,,48.6554423,7.8400088
 6898531585,node,Pompete,restaurant,Strasbourg,,,,48.5798473,7.7495126
 6960264707,node,Le Météor,restaurant,Strasbourg,,,https://lemeteor.fr/,48.5825918,7.7409307
 6974342792,node,Brit Hotel Le Lodge,hotel,Strasbourg,,,https://lodge-hotel-strasbourg.fr/,48.5876732,7.6974071
 6974342793,node,Aux délices de Didier,restaurant,Strasbourg,,,,48.5880724,7.697399
 7067466700,node,Osaka,restaurant,Strasbourg,,,,48.5837818,7.7433343
 7089160915,node,Falafilo,restaurant,Strasbourg,,,,48.5830482,7.744392
+7157197239,node,,artwork,Strasbourg,,,,48.5696803,7.800101
+7157197240,node,,artwork,Strasbourg,,,,48.5713803,7.8001053
 7174570465,node,Le Laurier,restaurant,Strasbourg,,,,48.5794281,7.7482816
+7176635810,node,Point de convergence,artwork,Strasbourg,,,,48.5780717,7.7533356
+7176880948,node,,memorial,Strasbourg,,,,48.5902981,7.7608591
+7176880949,node,Alfred Schenkel,memorial,Strasbourg,,,,48.578812,7.7332015
+7176880950,node,Maurice Schenkel,memorial,Strasbourg,,,,48.5788333,7.7332284
+7176880951,node,Jaques Schenkel,memorial,Strasbourg,,,,48.5788369,7.7332042
+7176880952,node,Isaac Schenkel,memorial,Strasbourg,,,,48.578867,7.7332337
+7176880953,node,Cécile Schenkel,memorial,Strasbourg,,,,48.5788688,7.7332082
+7176880954,node,Esther Schenkel,memorial,Strasbourg,,,,48.5788874,7.7332351
+7176880955,node,Nathan Schenkel,memorial,Strasbourg,,,,48.578891,7.7332123
+7176880956,node,Abraham Lipszyc,memorial,Strasbourg,,,,48.5808139,7.7457231
+7176880957,node,Marcel Alexandre,memorial,Strasbourg,,,,48.5892217,7.7686056
+7176880958,node,Jeanne Bloch,memorial,Strasbourg,,,,48.5892235,7.7686056
+7176880959,node,Armand Loeb,memorial,Strasbourg,,,,48.5899547,7.7612457
+7176880960,node,Simone Loeb,memorial,Strasbourg,,,,48.589952,7.7612529
+7176880961,node,Jean-Paul Loeb,memorial,Strasbourg,,,,48.5899581,7.7612385
+7176880962,node,Louis Loeb,memorial,Strasbourg,,,,48.5899588,7.7612534
+7176880963,node,Yvonne Loeb,memorial,Strasbourg,,,,48.5899613,7.761247
+7176880964,node,Théodore Ackermann,memorial,Strasbourg,,,,48.5901511,7.7548125
+7176880965,node,Florentine Marx,memorial,Strasbourg,,,,48.5913198,7.7476222
+7176880966,node,Lucie Brunschwieg,memorial,Strasbourg,,,,48.5913214,7.7476214
+7176880967,node,Albert Marx,memorial,Strasbourg,,,,48.5913192,7.7476197
+7176880968,node,Robert Emmanuel Brunschwig,memorial,Strasbourg,,,,48.5913207,7.7476188
 7196935549,node,Chez Georges,restaurant,Strasbourg,"20 Rue Pierre de Coubertin, 67000, Strasbourg",67000,https://chez-georges-strasbourg.eatbu.com,48.6011642,7.7698955
+7233491290,node,Stèle Guerre d'Indochine,memorial,Strasbourg,,,,48.5755133,7.7718984
+7233491291,node,Objet sur le seuil,artwork,Strasbourg,,,,48.5785219,7.7691717
 7289385395,node,Le Verdict,restaurant,Strasbourg,,,https://www.le-verdict.fr,48.5875971,7.7476517
 7347045493,node,Cigkofte Komagene,restaurant,Strasbourg,"2 Rue de Sélestat, 67300, Schiltigheim",67300,,48.6067624,7.7369961
 7383478434,node,Mon Resto Plaisir,restaurant,Strasbourg,"10 Rue du Lieutenant Lespagnol, 67810, Holtzheim",67810,http://monrestoplaisir.fr/,48.5578153,7.6432145
@@ -624,44 +794,94 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 7499330677,node,Séjours & Affaires Kléber,hotel,Strasbourg,,,,48.5834084,7.7426552
 7556871429,node,Elite Steak House,restaurant,Strasbourg,,,https://www.elitesteakhouse.fr/,48.5569124,7.7341497
 7671665557,node,Doy Doy,restaurant,Strasbourg,"23 Rue de Friedolsheim, 67200, Strasbourg",67200,,48.5662447,7.7084774
+7685034426,node,,memorial,Strasbourg,,,,48.5395923,7.7338031
+7692119988,node,,ruins,Strasbourg,,,,48.5349615,7.7191509
+7692120010,node,,artwork,Strasbourg,,,,48.5236244,7.725145
+7700512485,node,,artwork,Strasbourg,,,,48.5719796,7.7293164
 7704342189,node,Chez Zimmer,restaurant,Strasbourg,,,,48.6587282,7.8261412
 7706730672,node,Au Petit Pont,hotel,Strasbourg,"1 Quai des Bateliers, 67610, La Wantzenau",67610,,48.6549717,7.8320175
+7726490191,node,,artwork,Strasbourg,,,,48.5151758,7.7271429
 7737597488,node,Keis atelier,restaurant,Strasbourg,,,,48.5792142,7.7606792
+7743368787,node,Façade bâtiment décorée,artwork,Strasbourg,,,,48.5749147,7.7306736
 7744311271,node,Lalibela,restaurant,Strasbourg,"74 Avenue de Colmar, 67100, Strasbourg",67100,,48.5694126,7.7536547
+7756606087,node,,park,Strasbourg,,,,48.6087438,7.6750526
 7769643785,node,Pizza Gourmand,restaurant,Strasbourg,"16Bis Rue des Vignes, 67400",67400,,48.5228769,7.7181295
+7796243885,node,,artwork,Strasbourg,,,,48.5954776,7.7105918
+7798076085,node,Prédateur,artwork,Strasbourg,,,,48.59055,7.7286632
+7800510585,node,,artwork,Strasbourg,,,,48.5874244,7.7389591
+7800571585,node,,artwork,Strasbourg,,,,48.5863413,7.7387959
+7800603086,node,,artwork,Strasbourg,,,,48.5859268,7.7387424
+7800641085,node,,artwork,Strasbourg,,,,48.585906,7.738586
+7800678085,node,,artwork,Strasbourg,,,,48.5864421,7.7386117
 7810589490,node,Le Massala Dhaba,restaurant,Strasbourg,231 Route de Lyon,,https://lemassaladhaba.fr/,48.525253,7.7086224
+7814773385,node,Make our planet great again,artwork,Strasbourg,,,,48.5849073,7.7388289
+7815411885,node,Abissinia,artwork,Strasbourg,,,,48.5835982,7.7369465
+7815484985,node,We almost lost Detroit,artwork,Strasbourg,,,,48.5822447,7.7330628
+7815493585,node,Grandeur et misère humaine,artwork,Strasbourg,,,,48.5809813,7.7319986
 7815512123,node,Fashion Crêpe,restaurant,Strasbourg,,,,48.5833959,7.7358938
 7815512128,node,La Palme d'Or,restaurant,Strasbourg,"9 Rue Thiergarten, 67000, Strasbourg",67000,,48.584672,7.737595
 7815512129,node,WOK Sushi 168,restaurant,Strasbourg,,,,48.5850055,7.7375925
 7815512130,node,Saint-Augustin,hotel,Strasbourg,,,,48.5848725,7.7378414
 7815512133,node,Le Petit Casa,restaurant,Strasbourg,,,,48.5852858,7.7378816
+7819286686,node,,artwork,Strasbourg,,,,48.595233,7.7259381
+7819344585,node,Amour,artwork,Strasbourg,,,,48.5911674,7.7242618
+7822207486,node,Composition 01,artwork,Strasbourg,,,,48.5955119,7.7275139
+7822207487,node,,artwork,Strasbourg,,,,48.5981302,7.725926
+7823540087,node,,viewpoint,Strasbourg,,,,48.6178976,7.6859289
+7823542986,node,,viewpoint,Strasbourg,,,,48.6269221,7.6946837
+7823577485,node,,viewpoint,Strasbourg,,,,48.6334304,7.6992609
 7851613642,node,Au Romain,restaurant,Strasbourg,,,,48.5783267,7.7009205
 7851613645,node,Trio,restaurant,Strasbourg,,,,48.5778662,7.7046803
+7854876385,node,Kaonashi,artwork,Strasbourg,,,,48.5919657,7.7326477
+7866437885,node,,artwork,Strasbourg,,,,48.6096157,7.765739
 7884463886,node,Al Mandaloun,restaurant,Strasbourg,,,,48.5768746,7.7707714
 7885204292,node,Emporio Casella,restaurant,Strasbourg,,,,48.5896221,7.7678456
+7897118685,node,Toit du Parking Wodli,viewpoint,Strasbourg,,,,48.5873136,7.7369551
 7897148370,node,Resto Onel,restaurant,Strasbourg,"8 Rue de Leicester, 67000, Strasbourg",67000,https://alzaum7.wixsite.com/monsite-1,48.5776957,7.7707987
 7897153640,node,Mr.Fondue,restaurant,Strasbourg,"8 Rue de Leicester, 67000, Strasbourg",67000,,48.5779433,7.7707036
 7897184016,node,Bunsik Dragon,restaurant,Strasbourg,Cour d'Oxford,,,48.5775185,7.7711862
+7926369847,node,Galerie Pascale Froessel,gallery,Strasbourg,,,https://www.galerie-pascale-froessel.fr/,48.5804459,7.7436997
+7926976939,node,"BATORAMA, Bateaux-promenades",attraction,Strasbourg,"Place du Marché aux Poissons, 67000, Strasbourg",67000,https://www.batorama.com/fr,48.5802204,7.7520032
+7934241887,node,Strass'art gallery,gallery,Strasbourg,"2 Petite Rue de l'Église, 67000, Strasbourg",67000,https://www.strassart.fr,48.5848647,7.7462787
+7950913103,node,,viewpoint,Strasbourg,,,,48.5106165,7.7257504
+7952178728,node,,viewpoint,Strasbourg,,,,48.5121631,7.7206476
+7959449685,node,,artwork,Strasbourg,,,,48.5819862,7.7631783
 7982209120,node,Jabiru Café,restaurant,Strasbourg,,,,48.5787794,7.7587478
 7991655222,node,O'Kuri,restaurant,Strasbourg,,,,48.5869638,7.7678717
-8082534093,node,Ô Street Food,restaurant,Strasbourg,"101 Route de Mittelhausbergen, 67200, Strasbourg",67200,,48.5949071,7.7183432
+8111386817,node,"Fresque ""A l'air libre""",artwork,Strasbourg,,,,48.5824686,7.7430278
+8111399217,node,Sourire en coin,artwork,Strasbourg,,,,48.5821849,7.7438043
+8130311014,node,Musée du Bain Rituel Juif,museum,Strasbourg,,,https://courdesboecklin.ville-bischheim.fr/le-musee,48.6146251,7.7554028
+8142141117,node,Pac-Man,artwork,Strasbourg,,,,48.581545,7.7441946
+8142143417,node,,artwork,Strasbourg,,,,48.6013299,7.7433765
+8142145417,node,,artwork,Strasbourg,,,,48.5853357,7.7501518
 8173781658,node,Taikin,restaurant,Strasbourg,"55 Presqu'Île André Malraux, 67100, Strasbourg",67100,https://taikin.fr/,48.5736056,7.7655219
 8455588502,node,Meeting Asian,restaurant,Strasbourg,,,,48.5726807,7.7559843
 8455588503,node,Bol'inn,restaurant,Strasbourg,,,,48.5728368,7.7563616
 8455588506,node,Les Tontons Flambeurs,restaurant,Strasbourg,,,https://tontonsflambeurs.fr,48.5725695,7.7560218
 8461186020,node,Ibis Budget Centre République,hotel,Strasbourg,,,,48.5914459,7.7540664
+8494046397,node,,artwork,Strasbourg,,,,48.6028661,7.7499358
 8545027633,node,Old Wild West,restaurant,Strasbourg,,,https://www.oldwildwest.fr/code/26571/strasbourg-s-p-coeur-alsace,48.6528573,7.7341282
 8545027649,node,Burgard,restaurant,Strasbourg,,,,48.6510313,7.7325203
 8545027650,node,Waffle Factory,restaurant,Strasbourg,,,,48.6508319,7.7323405
+8629627643,node,Borne du Serment de Koufra,memorial,Strasbourg,,,https://www.voiedela2edb.fr/,48.5727142,7.7963609
+8633043941,node,Colonne Napoléon,memorial,Strasbourg,,,,48.6725709,7.7179751
+8635492540,node,Monument aux morts,memorial,Strasbourg,,,,48.6659035,7.7108923
+8639755586,node,Caius Largennius,artwork,Strasbourg,,,,48.5838798,7.696868
 8689515208,node,L'Anatolie,restaurant,Strasbourg,,,,48.6089461,7.7463545
 8733850097,node,AMIS,restaurant,Strasbourg,,,,48.583498,7.7440542
+8767649491,node,Le Caveau du Futur,artwork,Strasbourg,,,,48.5815021,7.7516768
 8852731302,node,Live Sushi,restaurant,Strasbourg,,,,48.5783939,7.7492578
 8869354217,node,Le B,restaurant,Strasbourg,,,,48.5913485,7.7498735
 8913085583,node,Aparthotel Adagio Access,hotel,Strasbourg,,,https://all.accor.com/hotel/8406/index.fr.shtml,48.5378653,7.7332323
 8950409746,node,MÂY,restaurant,Strasbourg,"1 Rue de Berne, 67000",67000,,48.5779355,7.7543137
 8953179201,node,Ô Baozi,restaurant,Strasbourg,,,http://www.obaozi.fr/,48.5840364,7.7436766
+8957444171,node,Bicentenaire du cadastre,memorial,Strasbourg,,,,48.5692922,7.7993374
+8960275481,node,,artwork,Strasbourg,,,,48.5804441,7.7521259
+8963038604,node,,memorial,Strasbourg,,,,48.5792397,7.7491078
+8963070722,node,,artwork,Strasbourg,,,,48.5793137,7.7403166
 8974736669,node,Le Café Potager,restaurant,Strasbourg,,,https://www.lecafepotager.com/,48.582422,7.7461626
 8986803415,node,Chez Ani,restaurant,Strasbourg,"26 Rue Thiergarten, 67000, Strasbourg",67000,https://www.privateaser.com/lieu/41909-chez-ani,48.5854789,7.7379102
+8995088678,node,Stèle commémorative Cité-jardin Ungemach,memorial,Strasbourg,,,,48.5971995,7.7631529
 9002151506,node,Wok Chef,restaurant,Strasbourg,,,,48.5849863,7.7370476
 9009508383,node,La Case de L'Isle Bourbon,restaurant,Strasbourg,,,https://restaurant-la-case-de-lisle-bourbon.business.site/,48.5823775,7.7405219
 9016965256,node,Comme Chez Soi,restaurant,Strasbourg,,,http://www.chezsoi-traiteur.com/nos-lieux-receptifs/le-restaurant-comme-chez-soi/,48.5537947,7.7373641
@@ -674,22 +894,45 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 9022454747,node,N°51,restaurant,Strasbourg,,,,48.5821657,7.7419699
 9022668371,node,Avobowl,restaurant,Strasbourg,,,https://www.avobowl.fr/,48.5819718,7.7430705
 9023010239,node,Sichuan,restaurant,Strasbourg,"18 Rue du Fossé des Tanneurs, 67000, Strasbourg",67000,https://restaurant-sichuan.fr,48.5834264,7.7439956
+9023053730,node,Statue de Charles Adolphe Wurtz,artwork,Strasbourg,,,,48.5852221,7.7465918
 9023166708,node,Streeat,restaurant,Strasbourg,,,,48.5866067,7.7430958
+9026755613,node,Détour,artwork,Strasbourg,,,,48.6107599,7.8006259
+9026755614,node,,artwork,Strasbourg,,,,48.6099495,7.800526
+9027829691,node,,artwork,Strasbourg,,,,48.6097224,7.801556
+9027829692,node,,artwork,Strasbourg,,,,48.6089882,7.8015762
+9028191973,node,Mémorial Opérations Extérieures,memorial,Strasbourg,,,,48.5751618,7.7722964
+9028191974,node,Mémorial Afrique du Nord,memorial,Strasbourg,,,,48.5752954,7.7721413
 9032573331,node,Elsass Food,restaurant,Strasbourg,,,,48.5815598,7.7436697
 9035853423,node,Waffle Factory,restaurant,Strasbourg,,,https://restaurants.wafflefactory.com/fr/grand-est/bas-rhin/strasbourg/waffle-factory-strasbourg-grandes-arcades-37,48.5819546,7.7477748
 9036183674,node,Tortilla,restaurant,Strasbourg,,,,48.582949,7.7468228
+9055892963,node,,memorial,Strasbourg,,,,48.5711739,7.7864444
+9061144765,node,,viewpoint,Strasbourg,,,,48.6108309,7.8169239
 9061661770,node,Tamil,restaurant,Strasbourg,,,https://www.restaurant-tamil.fr/,48.5799102,7.7462464
 9090484277,node,Au Poilu,restaurant,Strasbourg,"23 Route des Romains, 67200, Strasbourg",67200,https://www.aupoilu67.fr/,48.5799236,7.7188504
 9143953104,node,AK Vigie,restaurant,Strasbourg,"2 Rue du Maréchal Foch, 67540, Ostwald",67540,https://www.facebook.com/pages/category/Brewery/LAK-la-VIGIE-106232844113735/,48.5428318,7.709305
+9145191327,node,,memorial,Strasbourg,,,,48.6548923,7.8313361
+9172286445,node,Observation de la passe à poissons,attraction,Strasbourg,,,,48.5242245,7.7979115
 9201087507,node,Royal Grand Buffet,restaurant,Strasbourg,,,,48.5178258,7.7011733
 9217135343,node,Les Lampions,restaurant,Strasbourg,,,https://leslampions.fr/,48.5817224,7.7565046
 9229907159,node,Gulja Uyghur,restaurant,Strasbourg,"54 Rue de Ribeauvillé, 67100, Strasbourg",67100,,48.5654799,7.7718177
 9297337691,node,New's café,restaurant,Strasbourg,,,,48.59102,7.7097859
+9307992532,node,Monument aux morts,memorial,Strasbourg,,,,48.5428178,7.7138539
+9308040958,node,Grotte de Lourdes,memorial,Strasbourg,,,,48.5579117,7.6814394
+9310231148,node,Monument aux morts,memorial,Strasbourg,,,,48.5588927,7.6384449
+9310613595,node,Monument aux morts,memorial,Strasbourg,,,,48.5595603,7.6116209
+9345810145,node,,memorial,Strasbourg,,,,48.5611691,7.76055
+9402586344,node,,memorial,Strasbourg,,,,48.6118569,7.7421508
 9405318066,node,Sushi & More,restaurant,Strasbourg,,,,48.5834901,7.7381168
 9411322948,node,Dostoïevski,restaurant,Strasbourg,"106 Rue du Général Conrad, 67000, Strasbourg",67000,https://restodosto.com/,48.5903669,7.7862788
 9423299119,node,Bagerhoff,restaurant,Strasbourg,"13 Rue de la Brigade Alsace-Lorraine, 67000, Strasbourg",67000,,48.5761162,7.7544343
+9437763732,node,,memorial,Strasbourg,,,,48.487082,7.715749
+9437764760,node,,memorial,Strasbourg,,,,48.4906044,7.6724322
+9439702359,node,,memorial,Strasbourg,,,,48.57747,7.7530134
+9439983058,node,,artwork,Strasbourg,,,,48.6677174,7.7192571
+9505246559,node,,memorial,Strasbourg,,,,48.6001024,7.7801511
 9534506969,node,Rainbow poke bowl,restaurant,Strasbourg,,,https://www.facebook.com/rainbowpokebowl/,48.5807313,7.7571501
 9580179454,node,Merguez Azoulay,restaurant,Strasbourg,16 Rue de la Kurvau,,,48.5712933,7.7666196
+9593976421,node,,memorial,Strasbourg,,,,48.5820878,7.7592116
 9602676105,node,Damasquino,restaurant,Strasbourg,"33 Rue du Jeu des Enfants, 67000, Strasbourg",67000,,48.5838007,7.7427749
 9612974089,node,Hôtel Strasbourg Montagne Verte,hotel,Strasbourg,14 Rue des corroyeurs,,https://www.hotel-montagne-verte-strasbourg.com/,48.5725938,7.7286751
 9623735827,node,Woke & Poke Bowl,restaurant,Strasbourg,,,,48.5885775,7.746966
@@ -697,21 +940,52 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 9635000249,node,Makin Thai Strasbourg,restaurant,Strasbourg,,,https://www.makin-thai.com/,48.585898,7.7057318
 9641679580,node,Bún Tastic,restaurant,Strasbourg,,,https://buntastic.fr,48.5821189,7.7431897
 9653880139,node,La Perle Bleue,restaurant,Strasbourg,,,,48.5721035,7.7138459
+9655429454,node,Statue,artwork,Strasbourg,,,,48.4944591,7.6958195
 9669797801,node,Le Petit Faubourg,restaurant,Strasbourg,"2b Rue du Faubourg de Saverne, 67000, Strasbourg",67000,https://le-petit-faubourg.fr/,48.5848862,7.7408663
 9671975224,node,Kohola Schiltigheim,restaurant,Strasbourg,,,https://www.kohola.fr/,48.600275,7.742233
 9671980852,node,La Mésopotamie,restaurant,Strasbourg,,,,48.5774164,7.7520842
+9672026214,node,,memorial,Strasbourg,,,,48.5807063,7.7401222
 9677644704,node,Bella Vita,restaurant,Strasbourg,"3 rue Prechter, 67000, Strasbourg",67000,https://www.bellavita.family/,48.5830189,7.7583227
+9692749696,node,Sapin des Vosges,artwork,Strasbourg,,,,48.577912,7.7724897
+9761713266,node,Parc Marguerite de Navarre,park,Strasbourg,,,,48.5980226,7.6990362
 9772067528,node,,restaurant,Strasbourg,,,,48.5502311,7.699664
+9792474690,node,,garden,Strasbourg,,,,48.5946632,7.7626189
+9792474691,node,,garden,Strasbourg,,,,48.5946323,7.7626235
+9792474692,node,,garden,Strasbourg,,,,48.59462,7.7626235
+9792474693,node,,garden,Strasbourg,,,,48.5946015,7.7626212
+9792474702,node,,garden,Strasbourg,,,,48.5945876,7.7630672
+9792474703,node,,garden,Strasbourg,,,,48.594603,7.7626772
+9792540665,node,,garden,Strasbourg,,,,48.5948914,7.7618248
+9792540666,node,,garden,Strasbourg,,,,48.5948867,7.7618552
+9792540667,node,,garden,Strasbourg,,,,48.594884,7.7618827
+9792540668,node,,garden,Strasbourg,,,,48.594884,7.7619305
+9792540669,node,,garden,Strasbourg,,,,48.594884,7.761962
+9792540670,node,,garden,Strasbourg,,,,48.594882,7.7619894
+9792540671,node,,garden,Strasbourg,,,,48.5948739,7.7620504
+9792540672,node,,garden,Strasbourg,,,,48.5948699,7.762089
+9792540673,node,,garden,Strasbourg,,,,48.5948692,7.7621195
+9792540674,node,,garden,Strasbourg,,,,48.5948632,7.7622272
+9792540675,node,,garden,Strasbourg,,,,48.5948598,7.7622781
+9792540676,node,,garden,Strasbourg,,,,48.5948551,7.7623309
+9792540677,node,,garden,Strasbourg,,,,48.5948511,7.7624539
+9792540678,node,,garden,Strasbourg,,,,48.5948477,7.7625078
+9815063424,node,Apollonia - Échanges Artistiques Européens,gallery,Strasbourg,"23 Rue Boecklin, 67000, Strasbourg",67000,https://www.apollonia-art-exchanges.com,48.5985908,7.7773323
 9822561569,node,Terra Pizzas,restaurant,Strasbourg,,,https://www.terrapizzas.fr/,48.6460057,7.7221079
+9851578794,node,,memorial,Strasbourg,,,,48.6538788,7.8298073
 9865481589,node,Yami sushi,restaurant,Strasbourg,12 Boulevard de Dresde,,https://www.yamisushi.fr/,48.5988619,7.7643983
 9874269272,node,Vanilla Restaurant,restaurant,Strasbourg,96,,https://vanilla-restaurant.fr/,48.6179387,7.7546507
 9875144971,node,Pianogrill,restaurant,Strasbourg,"8 Place Saint-Étienne, 67000, Strasbourg",67000,https://www.pianogrillrestaurant.fr/,48.5835346,7.7544882
 9888160715,node,Mont Liban,restaurant,Strasbourg,,,,48.588404,7.7459451
+9904373067,node,Méditation,artwork,Strasbourg,,,,48.5836749,7.7656167
+9905478545,node,Goethe,artwork,Strasbourg,,,,48.5844387,7.7637405
+9905734091,node,Marguerite Günzburger,memorial,Strasbourg,,,,48.5825013,7.7505544
 9909667321,node,Verrine & Vapeur,restaurant,Strasbourg,"1b Rue de l'Hôpital Militaire, 67000, Strasbourg",67000,https://www.verrine-vapeur.com,48.5776484,7.7585338
+9918769163,node,,memorial,Strasbourg,,,,48.5844031,7.6488173
 9924741656,node,Restaurant solidaire Emmaüs,restaurant,Strasbourg,"14 Rue de l'Atome, 67800, Bischheim",67800,https://emmausmundo.wordpress.com/restaurant-solidaire/,48.6308592,7.7745038
 9925564417,node,Au Sanglier,restaurant,Strasbourg,,,,48.5826755,7.7497694
 9936179279,node,Bistrot de la Vigie,restaurant,Strasbourg,"9 Rue Pierre et Marie Curie, 67540, Ostwald",67540,https://www.bistrot-vigie.fr/,48.5345892,7.6981403
 9956825117,node,1387,restaurant,Strasbourg,,,https://www.restaurantle1387.com/,48.5823661,7.7458172
+9964837397,node,,artwork,Strasbourg,,,,48.6649391,7.7110987
 10012015863,node,Comfort Hôtel,hotel,Strasbourg,"14 Rue des Corroyeurs, 67200, Strasbourg",67200,https://comfort-hotel-strasbourg.hotel-mix.de,48.5728809,7.7288677
 10029194825,node,Sa Ki Bon,restaurant,Strasbourg,,,https://www.sakibon.fr,48.586697,7.7396183
 10031987792,node,La grosse Baloche,restaurant,Strasbourg,,,,48.5785827,7.7546489
@@ -724,9 +998,16 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 10082465782,node,Sushi Koi,restaurant,Strasbourg,,,,48.5786724,7.744525
 10086531847,node,L'Impasse,restaurant,Strasbourg,"16 Rue du Maréchal Foch, 67450, Mundolsheim",67450,https://limpasse.eatbu.com,48.6301033,7.7155006
 10090330298,node,Darness,restaurant,Strasbourg,"14 Rue du Faubourg de Saverne, 67000, Strasbourg",67000,https://www.darness.fr,48.5855605,7.740419
+10100509683,node,,memorial,Strasbourg,,,,48.5599409,7.7227319
 10127531778,node,Lucullus,restaurant,Strasbourg,"15 Rue Jacques Peirotes, 67000, Strasbourg",67000,,48.5763075,7.7546619
+10146552463,node,Le Village des Utopies,artwork,Strasbourg,,,,48.567125,7.713903
 10154734010,node,Au Marché Gare,restaurant,Strasbourg,"55 Rue du Marché-Gare, 67200, Strasbourg",67200,,48.5972711,7.7345985
+10159087425,node,Château Vodou,museum,Strasbourg,"4 Rue de Koenigshoffen, 67000, Strasbourg",67000,https://www.chateau-vodou.com,48.5803834,7.728755
 10178111998,node,Koa Thai,restaurant,Strasbourg,,,https://koathai.fr/,48.5840155,7.7377407
+10183211347,node,,artwork,Strasbourg,,,,48.5787685,7.7693082
+10184434676,node,,memorial,Strasbourg,,,,48.5835686,7.7383064
+10186977052,node,,artwork,Strasbourg,,,,48.5910498,7.7467813
+10200542840,node,,artwork,Strasbourg,,,,48.582286,7.7646984
 10203608318,node,Brasserie K Strasbourg,restaurant,Strasbourg,,,https://brasserie-k.com/,48.5838468,7.7353839
 10204239492,node,UMAI Ramen,restaurant,Strasbourg,,,https://umai-ramen.fr,48.5785356,7.7545656
 10223324304,node,Le Limoncello,restaurant,Strasbourg,"29 Route des Romains, 67200, Strasbourg",67200,,48.5798527,7.7182376
@@ -749,8 +1030,10 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 10538959813,node,Kansaï Sushi,restaurant,Strasbourg,"18 Rue des Soeurs, 67000, Strasbourg",67000,https://www.kansaisushi.fr/strasbourg,48.5828645,7.7536597
 10556292407,node,Yamas,restaurant,Strasbourg,,,https://lnk.bio/yamas-restaurant-grec,48.5811715,7.7528816
 10586595320,node,Da Zio,restaurant,Strasbourg,,,,48.5793211,7.7604172
+10593096542,node,Statue Albert Schweitzer,artwork,Strasbourg,,,,48.5800369,7.7449833
 10602404919,node,A L'aigle D'or,restaurant,Strasbourg,,,,48.6574937,7.8296638
 10633928988,node,L’Épicurien,restaurant,Strasbourg,"9 Rue de Berne, 67000, Strasbourg",67000,https://restaurant-lepicurien.eatbu.com,48.5773576,7.7553077
+10663243552,node,,artwork,Strasbourg,,,,48.5837281,7.7417452
 10690045068,node,Hotel-D,hotel,Strasbourg,,,,48.5879794,7.7472434
 10697086372,node,Restaurant TBS,restaurant,Strasbourg,,,,48.5444734,7.7730232
 10697086378,node,L'orient Express Restaurant,restaurant,Strasbourg,,,,48.5441839,7.7658928
@@ -760,10 +1043,12 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 10745035132,node,Aux Tuileries,restaurant,Strasbourg,,,,48.6121598,7.7332436
 10757412796,node,Les Restaurants Du Cœur Fringale,restaurant,Strasbourg,"Rue du Rempart, 67000, Strasbourg",67000,https://ad67.restosducoeur.org/centres-departementaux/ad67-centre-dactivites-strasbourg-5/,48.5891422,7.7345766
 10778056807,node,Chère Amie,restaurant,Strasbourg,"5 Avenue de la Marseillaise, 67000, Strasbourg",67000,https://chere-amie.fr,48.5853038,7.7566841
+10886234030,node,Voie de la 2e Division Blindée,memorial,Strasbourg,,,,48.6580355,7.8274373
 10902224541,node,Casa Fusco,restaurant,Strasbourg,,,,48.5875401,7.7476926
 10928630564,node,Le Tandoor Restaurant Indien,restaurant,Strasbourg,"98 Route de la Wantzenau, 67000, Strasbourg",67000,https://le-tandoor.fr/,48.6096551,7.7802968
 10949369195,node,Sascha Chicken2,restaurant,Strasbourg,,,https://sachachicken2.business.site/,48.6292701,7.7670675
 10959490707,node,Restaurant - Le Spot Du Fort,restaurant,Strasbourg,5,,https://www.le.spotdufort.fr/,48.5117615,7.7177638
+11037783352,node,Zee-art,gallery,Strasbourg,,,,48.5825387,7.7517489
 11059199059,node,Oro,restaurant,Strasbourg,,,,48.5808033,7.7461533
 11091391495,node,Au Bonheur d’Asie,restaurant,Strasbourg,,,https://aubonheurdasie.eatbu.com,48.6632206,7.719547
 11092358926,node,City Résidence Strasbourg Access,hotel,Strasbourg,,,https://www.cityresidence.fr/fr/residence/strasbourg-access,48.5899732,7.7397379
@@ -772,6 +1057,8 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 11099271445,node,O Sud,restaurant,Strasbourg,,,,48.6573345,7.7273914
 11099875579,node,L'Odeur du Pays,restaurant,Strasbourg,,,,48.5790095,7.7419153
 11099963115,node,Pizza Pro,restaurant,Strasbourg,,,,48.5640768,7.7054175
+11127109801,node,La fontaine de Scylla -1989,artwork,Strasbourg,,,,48.5973729,7.7592608
+11127130910,node,The Cat,artwork,Strasbourg,,,,48.5984253,7.7617007
 11160412367,node,Bande à Part,restaurant,Strasbourg,"4 Rue Pierre Bucher, 67000, Strasbourg",67000,https://bande-a-part-restaurant.fr/,48.5850708,7.7557121
 11183997833,node,Best Western Plus Villa d'Est,hotel,Strasbourg,,,,48.5922427,7.7457961
 11196125916,node,La table afghane,restaurant,Strasbourg,"183 Route du Polygone, 67100",67100,https://la-table-afghane-strasbourg.fr/fr,48.5604493,7.7645367
@@ -779,12 +1066,24 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 11232361557,node,L'Ambassade,restaurant,Strasbourg,"7 Rue du Vieux Marché aux Poissons, 67000, Strasbourg",67000,https://www.ambassade-strasbourg.fr/,48.5801735,7.7497012
 11243727901,node,Bachué,restaurant,Strasbourg,"6, 67000, Strasbourg",67000,https://bachue.fr/,48.5787443,7.7543954
 11251263443,node,Les saveurs de l'Atlas,restaurant,Strasbourg,,,,48.6091678,7.7343374
+11269418109,node,,memorial,Strasbourg,,,,48.5942688,7.7708766
 11290490200,node,La 3ème mi-temps,restaurant,Strasbourg,,,,48.6519745,7.7331102
 11296249869,node,Le Grand Tigre,restaurant,Strasbourg,,,,48.5821819,7.7373421
 11336065521,node,Bistrot Dékalé,restaurant,Strasbourg,"5 Rue de la Coopérative, 67000, Strasbourg",67000,,48.5747115,7.7884797
 11356470269,node,Hôtel des XV,hotel,Strasbourg,46 Rue du Conseil des Quinze,,,48.589294,7.7828454
 11368757569,node,Hey Mama,restaurant,Strasbourg,,,https://heymama-foodandculture.com/,48.5835716,7.7542302
 11394691870,node,Au Bœuf,restaurant,Strasbourg,"25 Rue du Général Leclerc, 67115",67115,http://www.restaurantaubœuf.fr,48.4703654,7.7244829
+11467056048,node,Celad Gedalia Cytrynowicz,memorial,Strasbourg,,,,48.5865386,7.7384888
+11467056049,node,Maurice Cytrynowicz,memorial,Strasbourg,,,,48.5865373,7.7384885
+11467056050,node,Sarah Zolty,memorial,Strasbourg,,,,48.578367,7.7607357
+11467056051,node,Moszeck Zolty,memorial,Strasbourg,,,,48.5783679,7.7607331
+11467056052,node,Michel Leibovici,memorial,Strasbourg,,,http://www.stolpersteine.lautre.net/wp/michel-leibovici/,48.5783808,7.7576378
+11467056053,node,Leon Rieger,memorial,Strasbourg,,,,48.5788559,7.7563973
+11467056054,node,Leo Cohn,memorial,Strasbourg,,,,48.579528,7.7564315
+11467056055,node,Charles Mangel,memorial,Strasbourg,,,,48.5799559,7.7535662
+11467056056,node,Edwin Heimann,memorial,Strasbourg,,,,48.5847869,7.7463363
+11467056057,node,Alfred Thimmesch,memorial,Strasbourg,,,,48.5859708,7.7471933
+11467056058,node,Oscar Ehrlich,memorial,Strasbourg,,,,48.5851579,7.7449685
 11518449701,node,OTO,restaurant,Strasbourg,13 Rue des Couples,,https://oto-strasbourg.fr/,48.5791489,7.7531479
 11518706866,node,La Grange du Gloecksberg,restaurant,Strasbourg,,,,48.5048741,7.6038051
 11543361959,node,Pizza Cosy,restaurant,Strasbourg,,,https://www.pizzacosy.fr/pizzerias/pizza-cosy-strasbourg/,48.5700262,7.7625547
@@ -792,6 +1091,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 11595374805,node,Brasserie Au Salto,restaurant,Strasbourg,,,,48.5613134,7.7660404
 11602390439,node,Planet Lunch,restaurant,Strasbourg,,,,48.5650429,7.7519252
 11608155812,node,Crêp'eat,restaurant,Strasbourg,,,,48.5735892,7.7581788
+11610391448,node,Wyrd,gallery,Strasbourg,,,,48.5794285,7.7560876
 11610391450,node,L'île de l'oiseau,restaurant,Strasbourg,,,,48.5762868,7.7576106
 11610391451,node,Sheherazade,restaurant,Strasbourg,,,,48.5770697,7.7552566
 11610391466,node,Blue Sky,restaurant,Strasbourg,,,,48.5784977,7.7525978
@@ -807,9 +1107,11 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 11730604061,node,Les 4 saveurs,restaurant,Strasbourg,,,,48.5683193,7.7571979
 11730623061,node,Resto,restaurant,Strasbourg,,,,48.5679263,7.7572874
 11730644158,node,Fleck & Co,restaurant,Strasbourg,,,https://www.fleckandco.com/,48.5688741,7.7582512
+11730743176,node,Ames d'Afrique,gallery,Strasbourg,,,http://ames.afrique.free.fr/accueil.html,48.5686809,7.748614
 11730820840,node,Fayrouz,restaurant,Strasbourg,,,,48.5654908,7.7524088
 11736877268,node,Hadiqa,restaurant,Strasbourg,"14 Rue du Vieux Marché aux Vins, 67000, Strasbourg",67000,,48.583656,7.7412206
 11767372484,node,Kooma,restaurant,Strasbourg,,,https://kooma-strasbourg.fr/,48.5811514,7.7580737
+11775120142,node,Jaek El Diablo,gallery,Strasbourg,,,,48.578417,7.75445
 11775679009,node,Casa Julia,restaurant,Strasbourg,32,,,48.4883235,7.7154193
 11786867568,node,SSAM,restaurant,Strasbourg,,,,48.5816747,7.7570671
 11800346521,node,Red Lantern,restaurant,Strasbourg,,,https://redlantern.fr/,48.5836092,7.7420656
@@ -819,49 +1121,183 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 11861680072,node,Buewewasser,restaurant,Strasbourg,,,,48.5677215,7.757584
 11861680073,node,Cave d'Espagne,restaurant,Strasbourg,,,,48.5675196,7.7577148
 11861680077,node,Sain Sushi,restaurant,Strasbourg,,,,48.567145,7.7579434
+11896502965,node,,artwork,Strasbourg,,,,48.5731656,7.7627642
 11920273469,node,Kébab Vosges Délices,restaurant,Strasbourg,"15 Rue des Vosges, 67540",67540,,48.5426199,7.7078971
 11937531869,node,La vie,restaurant,Strasbourg,,,,48.5813404,7.7612503
+11942619696,node,,artwork,Strasbourg,,,,48.5829614,7.7636827
+11944751594,node,,artwork,Strasbourg,,,,48.5718518,7.7700461
+11944751595,node,,artwork,Strasbourg,,,,48.5722494,7.7681837
+11947030617,node,Jaques Makowski,memorial,Strasbourg,,,http://www.stolpersteine.lautre.net/wp/jacques-jacob-makowski/,48.5821929,7.7416929
+11947062635,node,Chaim Metzger,memorial,Strasbourg,,,,48.5819017,7.7420543
+11947062636,node,Dina Turner,memorial,Strasbourg,,,,48.5819025,7.742056
+11947062637,node,Wolf Turner,memorial,Strasbourg,,,,48.5819029,7.742054
+11947850846,node,,artwork,Strasbourg,,,,48.5994523,7.7677657
+11947850847,node,,artwork,Strasbourg,,,,48.5997647,7.76819
+11947880693,node,,artwork,Strasbourg,,,,48.5740552,7.7500693
+11947880694,node,,artwork,Strasbourg,,,,48.5729277,7.7542328
 11948301855,node,Le Ksar,restaurant,Strasbourg,,,,48.5363128,7.7097059
+11949531321,node,Regine Daniel,memorial,Strasbourg,,,,48.5813734,7.7414548
+11949531322,node,Erna Daniel,memorial,Strasbourg,,,,48.5813726,7.7414546
+11949531323,node,Arnold Daniel,memorial,Strasbourg,,,,48.5813717,7.7414544
+11949531324,node,Perle Paulette Daniel,memorial,Strasbourg,,,,48.5813732,7.741453
+11949531325,node,Chaïm Daniel,memorial,Strasbourg,,,,48.5813723,7.7414528
+11949531326,node,Bela Katz,memorial,Strasbourg,,,,48.5794637,7.7398923
+11949773115,node,,artwork,Strasbourg,,,,48.5693384,7.7634508
+11949773119,node,,artwork,Strasbourg,,,,48.5692385,7.7631827
+11949795142,node,Solange May,memorial,Strasbourg,,,,48.5769106,7.7328194
+11949795143,node,Andree May,memorial,Strasbourg,,,,48.5769111,7.7328205
+11949795144,node,Liliane May,memorial,Strasbourg,,,,48.5769117,7.7328215
+11949795145,node,Suzanne May,memorial,Strasbourg,,,,48.5769104,7.7328207
+11949795146,node,Simon May,memorial,Strasbourg,,,,48.5769109,7.7328218
+11956148732,node,,artwork,Strasbourg,,,,48.5634939,7.7681377
+11966031905,node,,artwork,Strasbourg,,,,48.5812505,7.7507109
+11966062709,node,,artwork,Strasbourg,,,,48.5791995,7.7484212
+11966066301,node,,artwork,Strasbourg,,,,48.5868097,7.7495357
+11966077748,node,,artwork,Strasbourg,,,,48.5813835,7.7472382
+11966095325,node,,artwork,Strasbourg,,,,48.583741,7.7448652
+11966096281,node,,artwork,Strasbourg,,,,48.5838297,7.7464588
+11966325799,node,,artwork,Strasbourg,,,,48.5834506,7.7607684
 11991483362,node,La Dolce Vita,restaurant,Strasbourg,,,,48.5324232,7.7190845
 12014367093,node,La Bravade,restaurant,Strasbourg,1,,,48.5107478,7.7267511
 12019756130,node,Les jardins de Babylone,restaurant,Strasbourg,,,,48.5774252,7.7551983
 12026524624,node,Miriné,restaurant,Strasbourg,,,,48.5829479,7.7413347
 12030659722,node,L'évasion,restaurant,Strasbourg,,,https://resto-levasion.fr/,48.524778,7.7350175
+12036383573,node,,artwork,Strasbourg,,,,48.5723437,7.750517
 12058850128,node,Brasserie De Boulevard,restaurant,Strasbourg,"1 Rue de Marlenheim, 67000, Strasbourg",67000,,48.5778918,7.7310658
 12066138765,node,Le Faubourg de Pierre,restaurant,Strasbourg,,,,48.5892392,7.7451119
 12066185170,node,B-Mama,restaurant,Strasbourg,,,,48.5887057,7.7457774
 12066185176,node,Le Paname,restaurant,Strasbourg,,,,48.5879607,7.7458325
+12072382329,node,Henri Dinamt,artwork,Strasbourg,,,,48.5792604,7.7401753
+12072906028,node,,artwork,Strasbourg,,,,48.5716587,7.7567859
+12072906029,node,,artwork,Strasbourg,,,,48.5716674,7.7567835
+12091513423,node,,artwork,Strasbourg,,,,48.5740311,7.7709669
 12091513428,node,Ko Tao,restaurant,Strasbourg,"25 Rue de l'Elbe, 67100, Strasbourg",67100,,48.5728342,7.7702751
+12102623271,node,,artwork,Strasbourg,,,,48.5697674,7.8013901
+12119853168,node,,memorial,Strasbourg,,,,48.514241,7.6437699
+12119883010,node,,artwork,Strasbourg,,,,48.6062126,7.7514475
 12150459701,node,Rest'au 21,restaurant,Strasbourg,"21 Rue du Maréchal Lefèbvre, 67100",67100,https://m.facebook.com/100058705309294/,48.5603198,7.7434676
 12180230382,node,Ristorante Italiano da Pietro,restaurant,Strasbourg,,,https://www.ristoranteitalianodapietro.com,48.5801441,7.7467438
 12213915108,node,La Roue d'Or,restaurant,Strasbourg,,,https://restaurantlarouedor-strasbourg.eatbu.com/?lang=fr,48.6191986,7.7903574
 12213915109,node,La Casa Père et Fils,restaurant,Strasbourg,,,https://lacasa-robertsau.fr/,48.6174725,7.788278
+12218290868,node,,artwork,Strasbourg,,,,48.5825821,7.7531598
 12222224301,node,Chez Tante Liesel,restaurant,Strasbourg,,,,48.5809864,7.7430066
 12260643168,node,Hôtel Château de Pourtalès,hotel,Strasbourg,"161 Rue Mélanie, 67100, Strasbourg",67100,https://www.destination-pourtales.fr/,48.6084588,7.7998703
 12290292201,node,Bibeless',restaurant,Strasbourg,,,,48.5824504,7.7532487
+12298128659,node,,artwork,Strasbourg,,,,48.5848749,7.7441677
+12317640695,node,Place d'Ostwald,park,Strasbourg,,,,48.5647559,7.706781
+12328969459,node,Les hommes ont des montres et rarement des boussoles,artwork,Strasbourg,,,,48.5843044,7.7445837
+12328969460,node,Les hommes ont des montres et rarement des boussoles,artwork,Strasbourg,,,,48.5832146,7.7400388
+12328972868,node,Les hommes ont des montres et rarement des boussoles,artwork,Strasbourg,,,,48.5824462,7.7367428
+12331373827,node,Les hommes ont des montres et rarement des boussoles,artwork,Strasbourg,,,,48.5843911,7.7583686
+12331373828,node,Les hommes ont des montres et rarement des boussoles,artwork,Strasbourg,,,,48.5863863,7.7537627
+12331373830,node,Les hommes ont des montres et rarement des boussoles,artwork,Strasbourg,,,,48.5902706,7.7558954
+12334671379,node,Les folies du Muehlbach,park,Strasbourg,,,,48.5762799,7.7032558
+12334688747,node,Parcours sportif de Lingolsheim,park,Strasbourg,,,,48.5450757,7.682782
 12337419801,node,Bistrot des Rosiers,restaurant,Strasbourg,"68 Rue de Zurich, 67000",67000,,48.5785909,7.7589582
+12349533712,node,Les hommes ont des montres et rarement des boussoles,artwork,Strasbourg,,,,48.6007167,7.7545157
+12349533713,node,Les hommes ont des montres et rarement des boussoles,artwork,Strasbourg,,,,48.5986617,7.7606043
+12349533714,node,Les hommes ont des montres et rarement des boussoles,artwork,Strasbourg,,,,48.5847125,7.7491322
+12391372706,node,Les hommes ont des montres et rarement des boussoles,artwork,Strasbourg,,,,48.6213451,7.7680023
 12400140271,node,Restaurant universitaire Le Stift,restaurant,Strasbourg,"1bis Quai Saint-Thomas, 67000, Strasbourg",67000,https://www.foyers-etudiants-strasbourg.org/resto-u-strasbourg/,48.5793291,7.7455346
+12409871239,node,Les hommes ont des montres et rarement des boussoles,artwork,Strasbourg,,,,48.5677128,7.7264275
+12409871240,node,Les hommes ont des montres et rarement des boussoles,artwork,Strasbourg,,,,48.5759943,7.7316429
 12410039464,node,La Graffateria,restaurant,Strasbourg,,,,48.5833278,7.7357294
 12416076933,node,Au Bon Vivant,restaurant,Strasbourg,"4 Place du Marché aux Cochons de Lait, 67000, Strasbourg",67000,https://www.aubonvivant.eu/,48.5804265,7.7508678
+12420646410,node,,artwork,Strasbourg,,,,48.5859484,7.7359658
+12452836584,node,,artwork,Strasbourg,,,,48.5694821,7.7545517
+12486198721,node,Marc Blum,memorial,Strasbourg,,,http://www.stolpersteine.lautre.net/wp/marc-blum/,48.5882823,7.7672815
+12492710246,node,Myrtil Bloch,memorial,Strasbourg,,,,48.5882941,7.7674883
+12492710247,node,Georges Bloch,memorial,Strasbourg,,,,48.5882939,7.7674867
+12492710248,node,Andrée Bloch,memorial,Strasbourg,,,,48.588293,7.7674874
 12507878701,node,Izumi,restaurant,Strasbourg,,,https://izumi-ramen.fr/,48.5843914,7.7457647
+12514839684,node,Gilbert Makowski,memorial,Strasbourg,,,,48.5845179,7.7721136
+12514839685,node,Denise Makowski,memorial,Strasbourg,,,,48.584517,7.7721121
+12514839686,node,Selma Makowski,memorial,Strasbourg,,,,48.584516,7.7721107
+12514839687,node,Elie Makowski,memorial,Strasbourg,,,,48.584515,7.7721093
+12514839688,node,Benjamin Makowski,memorial,Strasbourg,,,,48.584514,7.7721078
+12514913281,node,Lucien Kahn,memorial,Strasbourg,,,,48.5874605,7.7601777
+12514925602,node,Nicole Weill,memorial,Strasbourg,,,,48.5869414,7.7637403
+12514925603,node,Francis Claude Weill,memorial,Strasbourg,,,,48.5869404,7.7637385
+12514925604,node,Jaques Weill,memorial,Strasbourg,,,,48.5869394,7.7637367
+12514925605,node,Hortense Henriette Weill,memorial,Strasbourg,,,,48.5869419,7.7637374
+12514925606,node,Henri Weill,memorial,Strasbourg,,,,48.5869409,7.7637357
+12514925607,node,Marthe Asch,memorial,Strasbourg,,,,48.5869367,7.7637293
+12514925608,node,Alphonse Asch,memorial,Strasbourg,,,,48.5869356,7.7637275
+12515214937,node,Louis Hallel,memorial,Strasbourg,,,,48.5876521,7.7570219
+12516645025,node,Marthe Dreyfuss,memorial,Strasbourg,,,,48.589042,7.7527824
+12516645026,node,Lucien Dreyfuss,memorial,Strasbourg,,,,48.5890415,7.7527844
 12568160303,node,Les Complices,restaurant,Strasbourg,"18 Rue Principale, 67300",67300,,48.6067045,7.7520199
+12592534984,node,René Knecht,memorial,Strasbourg,,,,48.61148,7.7803155
+12592534985,node,Jacques Knecht,memorial,Strasbourg,,,,48.6114797,7.7803172
 12600493828,node,La petite Ethiopie,restaurant,Strasbourg,"28 Rue du Faubourg National, 67000, Strasbourg",67000,https://www.lapetiteethiopie.fr/,48.5824942,7.7367879
+12612226234,node,Marcel Lion,memorial,Strasbourg,,,,48.5897712,7.7522261
+12612267256,node,Jean Heller,memorial,Strasbourg,,,,48.5911299,7.7545702
+12612267257,node,Charles Abraham,memorial,Strasbourg,,,,48.5904664,7.7536577
+12613372802,node,Pierre Weill,memorial,Strasbourg,,,,48.5905751,7.7503265
+12613372803,node,Irma Weill,memorial,Strasbourg,,,,48.5905727,7.7503247
+12613372804,node,Raphael Weill,memorial,Strasbourg,,,,48.5905732,7.7503297
+12613393498,node,Raymond Winter,memorial,Strasbourg,,,,48.5905068,7.7487097
+12613579254,node,Maurice Mosche Schaenkel,memorial,Strasbourg,,,,48.5815984,7.7319858
+12613579255,node,Hiler Checinski,memorial,Strasbourg,,,,48.5824324,7.735465
+12627937428,node,Liliane Bloch,memorial,Strasbourg,,,,48.5847263,7.7572394
+12627937429,node,Jacques Bloch,memorial,Strasbourg,,,,48.5847258,7.7572405
+12627937430,node,Simone Bloch,memorial,Strasbourg,,,,48.5847256,7.7572385
+12627937431,node,David Bloch,memorial,Strasbourg,,,,48.584725,7.7572396
 12701764691,node,Foudre Feu,restaurant,Strasbourg,,,https://foudrefeu.fr/,48.5805191,7.7572583
 12728755970,node,Chez Cosette,restaurant,Strasbourg,,,https://www.chezcosette.com,48.6407384,7.7109641
 12736177460,node,Le Pavot,restaurant,Strasbourg,"113 Route de Mittelhausbergen, 67200, Strasbourg",67200,https://www.instagram.com/lepavot_strasbourg/,48.5955482,7.7173061
+12739228407,node,Ferme maraîchère pédagogique du Hohberg,garden,Strasbourg,,,,48.5838467,7.6978135
 12751837346,node,Tibetan Peace Restaurant,restaurant,Strasbourg,4 Rue du Renard Prêchant,,,48.5794151,7.7571499
 12778361399,node,Au bon coin d'Alsace,restaurant,Strasbourg,,,,48.5868676,7.7682164
+12778910551,node,Les hommes ont des montres et rarement des boussoles,artwork,Strasbourg,,,,48.5781419,7.7694509
+12841505218,node,Eugène Eggermann,memorial,Strasbourg,,,,48.5834332,7.7469065
+12841509501,node,Pop Corn Labyrinthe,theme_park,Strasbourg,,,https://www.popcornlabyrinthe.fr/strasbourg/,48.5997239,7.6759045
+12846527551,node,Josef Martus,memorial,Strasbourg,,,,48.5834345,7.7469058
+12865739848,node,Stèle Jean Bugatti,memorial,Strasbourg,,,,48.5293749,7.6165696
 12873052701,node,Chez Paulette,restaurant,Strasbourg,"18 Rue du Neufeld, 67100",67100,,48.5684335,7.7547837
 12888733472,node,Picobello,restaurant,Strasbourg,"21 Rue des Frères, 67000, Strasbourg",67000,https://www.restaurant-lepicobello.com/,48.5829046,7.7529299
+12902124912,node,Les hommes ont des montres et rarement des boussoles,artwork,Strasbourg,,,,48.6129231,7.7671568
+12902124913,node,Les hommes ont des montres et rarement des boussoles,artwork,Strasbourg,,,,48.616639,7.7679637
+12902124914,node,Les hommes ont des montres et rarement des boussoles,artwork,Strasbourg,,,,48.6215331,7.7637027
+12902124915,node,Les hommes ont des montres et rarement des boussoles,artwork,Strasbourg,,,,48.6097785,7.7654949
+12902124916,node,Les hommes ont des montres et rarement des boussoles,artwork,Strasbourg,,,,48.6051637,7.7595289
+12902202450,node,Les hommes ont des montres et rarement des boussoles,artwork,Strasbourg,,,,48.593908,7.7577039
+12902407857,node,Les hommes ont des montres et rarement des boussoles,artwork,Strasbourg,,,,48.5745802,7.7272568
+12915197820,node,,artwork,Strasbourg,,,,48.5840671,7.7674654
 12921465823,node,Le Bistrot des Cocottes,restaurant,Strasbourg,,,,48.5821659,7.7466778
+12951861196,node,Monuments Aux Morts,memorial,Strasbourg,,,,48.659482,7.825743
+12979540352,node,Arbre de vie,artwork,Strasbourg,,,,48.5667227,7.8007174
 12981709950,node,,restaurant,Strasbourg,,,,48.6498535,7.8084838
+12982930228,node,Les hommes ont des montres et rarement des boussoles,artwork,Strasbourg,,,,48.5814888,7.7686854
+12982930229,node,Les hommes ont des montres et rarement des boussoles,artwork,Strasbourg,,,,48.5826535,7.7641659
 13053445654,node,Rooftop Kooma,restaurant,Strasbourg,,,,48.5810864,7.7580031
 13060759412,node,Little Wok,restaurant,Strasbourg,,,,48.5812823,7.7568801
+13061728601,node,Zieme,artwork,Strasbourg,,,,48.5856043,7.7517007
+13069139400,node,Cabinet des Estampes et des Dessins,museum,Strasbourg,,,,48.5811359,7.7506016
 13073970587,node,Peach,restaurant,Strasbourg,,,,48.5769401,7.7517466
+13075827673,node,,artwork,Strasbourg,,,,48.5747423,7.7553535
 13084827042,node,Hanuri,restaurant,Strasbourg,,,https://www.hanuri.fr/,48.5770375,7.7516538
+13096887307,node,Jaguar,attraction,Strasbourg,,,,48.5405354,7.6217656
 13098565002,node,L’Aygui,restaurant,Strasbourg,,,https://restaurant-aygui.fr/,48.584767,7.740501
+13110684875,node,Irma Rosenthal née Baumann,memorial,Strasbourg,,,,48.5345414,7.7208067
+13110684876,node,Irma Meyer née Meyer,memorial,Strasbourg,,,,48.5242629,7.7079701
+13110684877,node,Sylvain Meyer,memorial,Strasbourg,,,,48.5242619,7.7079695
+13119435732,node,Gerson Makowski,memorial,Strasbourg,,,,48.5815925,7.7426357
+13119451295,node,Nicole Bernheim,memorial,Strasbourg,,,,48.5879964,7.7817141
+13119451296,node,Gaston Bernheim,memorial,Strasbourg,,,,48.5879971,7.781715
+13119451297,node,Suzanne Bernheim,memorial,Strasbourg,,,,48.5879958,7.7817153
+13119451298,node,Jacques Bernheim,memorial,Strasbourg,,,,48.5879966,7.7817162
+13119522423,node,Alexandre Buchinger,memorial,Strasbourg,,,,48.5877224,7.7449942
+13119727037,node,Borne du Serment de Koufra,memorial,Strasbourg,,,,48.5860783,7.6488968
 13124544301,node,Dan,restaurant,Strasbourg,"5 Rue Albert Camus, 67205",67205,,48.604267,7.7016046
 13142131217,node,Appart'hôtel Citadines Kléber Strasbourg,hotel,Strasbourg,54 Rue du Jeu des Enfants,,https://www.discoverasr.com/fr/citadines/france/citadines-kleber-strasbourg,48.5838538,7.7435769
+13146847274,node,Berthe Kahn née Wolff,memorial,Strasbourg,,,,48.5608438,7.5894112
+13159275104,node,Henri Mathias Berthelot,memorial,Strasbourg,,,,48.5759878,7.7719256
+13159438301,node,Vue sur St. Paul,viewpoint,Strasbourg,,,,48.5844196,7.7585178
+13171834441,node,Square Gabrielle et Charles Kayser,memorial,Strasbourg,,,,48.5690973,7.7607074
+13177074958,node,Les hommes ont des montres et rarement des boussoles,artwork,Strasbourg,,,,48.5777719,7.7339389
+13179876510,node,Sándor Petöfi,memorial,Strasbourg,,,,48.5954763,7.7582096
+13180179592,node,Horéa,gallery,Strasbourg,,,,48.5834223,7.7519793
 13194045299,node,La Crêperie Illkirch,restaurant,Strasbourg,"156 Route de Lyon, 67400, Illkirch-Graffenstaden",67400,https://www.creperie-delices.fr/,48.5257826,7.708348
 13195655483,node,Uncle Bram's,restaurant,Strasbourg,"10 Rue Jean Monnet, 67300, Schiltigheim",67300,,48.6052186,7.7586126
 13207629410,node,Marjane Pizz's,restaurant,Strasbourg,"7 Rue du Petit Marais, 67200, Lingolsheim",67200,,48.5620801,7.6948134
@@ -877,6 +1313,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 13252546978,node,Azuki,restaurant,Strasbourg,,,https://azukistrasbourg.fr,48.5870972,7.7674252
 13267344408,node,Cucci,restaurant,Strasbourg,,,,48.5831696,7.7546027
 13278122001,node,Hey Mama Gare,restaurant,Strasbourg,8 Petite Rue de la Course,,https://heymama-restaurant.com,48.5832146,7.7357214
+13308353549,node,Les hommes ont des montres et rarement des boussoles,artwork,Strasbourg,,,,48.6280004,7.7585108
 13343670401,node,La Knackerie,restaurant,Strasbourg,,,https://www.laknackerie.com,48.5813934,7.7492741
 13344467102,node,Au Coin des Pucelles,restaurant,Strasbourg,,,,48.5842128,7.7537659
 13344473201,node,Honesty,restaurant,Strasbourg,,,,48.5788224,7.7434611
@@ -886,20 +1323,1073 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 13428441391,node,La Table de Mokka,restaurant,Strasbourg,"5 Rue Clément, 67000, Strasbourg",67000,https://mokka-strasbourg.fr/,48.5872039,7.7433724
 13511671981,node,Brio,restaurant,Strasbourg,"9 Rue Hannong, 67000, Strasbourg",67000,https://bar-brio.com/,48.5830407,7.7430241
 13513990718,node,Geppetto,restaurant,Strasbourg,,,,48.5831264,7.7542469
+13653321399,node,Mémorial à l'Alliance,memorial,Strasbourg,,,,48.5717365,7.8008158
 13681790481,node,TIGERMILK,restaurant,Strasbourg,"19 Rue des Francs-Bourgeois, 67000, Strasbourg",67000,https://tigermilkrestaurants.com/fr/restaurants/strasbourg/,48.5814692,7.7464598
+13701182110,node,Racine Club de Strasbourg,garden,Strasbourg,,,,48.5575838,7.7595575
 13713218301,node,Le Carné,restaurant,Strasbourg,"28 Rue Kuhn, 67000, Strasbourg",67000,https://www.xn--lecarn-gva.fr/,48.5849822,7.7369629
 13720580201,node,Levanthym - Sajerie Deli,restaurant,Strasbourg,,,https://www.levanthym.fr/,48.5827517,7.7577139
 13729097701,node,La Table de Geispolsheim,restaurant,Strasbourg,"1 Rue de Verdun, 67118",67118,https://latabledegeispolsheim.fr/,48.518935,7.6836614
 13740116233,node,Il Ristorante,restaurant,Strasbourg,"Rue du 23 Novembre, 67118, Geispolsheim",67118,https://www.ilristorante.fr/il-ristorante-strasbourg-la-vigie/,48.5328244,7.6920648
 13754449701,node,Cueillette,restaurant,Strasbourg,"7 Rue du Renard Prêchant, 67000, Strasbourg",67000,https://www.cueillette-strasbourg.fr/,48.5793215,7.7577885
 13767159276,node,Le Jasmin,restaurant,Strasbourg,,,https://lejasminstrasbourg.shop,48.5873306,7.7686372
+13815329542,node,Paul Roth,memorial,Strasbourg,,,https://www.stolpersteine.lautre.net/wp/abraham-aline-et-paul-roth/,48.5868534,7.6659382
+13815329543,node,Aline Roth née Weill,memorial,Strasbourg,,,https://www.stolpersteine.lautre.net/wp/abraham-aline-et-paul-roth/,48.5868524,7.6659369
+13815329544,node,Abraham Roth,memorial,Strasbourg,,,https://www.stolpersteine.lautre.net/wp/abraham-aline-et-paul-roth/,48.5868524,7.6659394
+13815452702,node,Sylvain Lévy,memorial,Strasbourg,,,https://www.stolpersteine.lautre.net/wp/isidore-caroline-et-sylvain-levy/,48.5866875,7.6511002
+13815452703,node,Caroline Lévy née Bompet,memorial,Strasbourg,,,https://www.stolpersteine.lautre.net/wp/isidore-caroline-et-sylvain-levy/,48.5866864,7.6510996
+13815452704,node,Isidore Lévy,memorial,Strasbourg,,,https://www.stolpersteine.lautre.net/wp/isidore-caroline-et-sylvain-levy/,48.5866865,7.6511012
+13821352214,node,Alphonse Adam,memorial,Strasbourg,,,,48.6064217,7.75462
 13837719601,node,Le Coin des Saveurs,restaurant,Strasbourg,"81 Avenue Jean Jaurès, 67100",67100,,48.5673497,7.7723359
 13856904180,node,Hôtel des Anges,hotel,Strasbourg,,,,48.5809806,7.7494241
 13856904181,node,La Rizière,restaurant,Strasbourg,,,https://la-riziere.fr,48.5831039,7.7550131
 13887460844,node,,restaurant,Strasbourg,,,,48.6126075,7.7760692
+13888153846,node,,park,Strasbourg,,,,48.5618462,7.7594316
 13895477801,node,La belle bête,restaurant,Strasbourg,"9a Rue Georges Laufenburger, 67400",67400,https://labellebete.com,48.5254418,7.7081776
+13899259846,node,,memorial,Strasbourg,,,,48.5847079,7.7340825
+13899260141,node,,memorial,Strasbourg,,,,48.5846769,7.7340634
+13904756348,node,La Chambre,gallery,Strasbourg,,,,48.5783832,7.7540068
+13910749551,node,Agathe Fohlen,memorial,Strasbourg,,,,48.5844471,7.7604234
+13910749552,node,Jean-Jacques Fohlen,memorial,Strasbourg,,,,48.5844468,7.7604251
+13921305895,node,Pauline Salomon née Weill,memorial,Strasbourg,,,https://www.stolpersteine.lautre.net/wp/jacques-et-pauline-salomon/,48.6124045,7.7554956
+13921305896,node,Jacques Salomon,memorial,Strasbourg,,,https://www.stolpersteine.lautre.net/wp/jacques-et-pauline-salomon/,48.6124052,7.7554965
+13921305897,node,Jeannine Lazare,memorial,Strasbourg,,,https://www.stolpersteine.lautre.net/wp/paul-denise-et-jeannine-lazare/,48.6131724,7.7549439
+13921305898,node,Denise Lazare née Wolff,memorial,Strasbourg,,,https://www.stolpersteine.lautre.net/wp/paul-denise-et-jeannine-lazare/,48.613173,7.7549451
+13921305899,node,Paul Lazare,memorial,Strasbourg,,,https://www.stolpersteine.lautre.net/wp/paul-denise-et-jeannine-lazare/,48.6131734,7.7549438
+13921305900,node,Robert Kieffer,memorial,Strasbourg,,,https://www.stolpersteine.lautre.net/wp/robert-kieffer/,48.6122241,7.7558411
+13921353290,node,Juliette Weill,memorial,Strasbourg,,,,48.6122562,7.7558538
+13921353291,node,Charles Herm,memorial,Strasbourg,,,,48.6146208,7.7505268
+13921353292,node,Pierre Klotz,memorial,Strasbourg,,,,48.6133282,7.7527029
+13921353293,node,Jeanne Sternheim,memorial,Strasbourg,,,,48.6135206,7.7559148
+13946387189,node,Charles Knittel,memorial,Strasbourg,,,,48.6594681,7.8257424
 13947176202,node,Ichiban Ramen,restaurant,Strasbourg,"5 Boulevard de Dresde, 67000, Strasbourg",67000,https://www.ichibanramen.fr/fr/,48.5994588,7.762781
+13955935002,node,Atelier du Bain aux Plantes,gallery,Strasbourg,,,,48.5814202,7.7397265
 13968750201,node,L'Impasto,restaurant,Strasbourg,"154 Route de Lyon, 67400",67400,https://www.pizzeria-impasto.fr,48.5281916,7.7101162
+13976294917,node,Raymond-Lucien Klée,memorial,Strasbourg,,,https://www.strasbourg.eu/web/strasbourg.eu/video/-/entity/id/584271435,48.5831268,7.7519924
 13978548978,node,Le Spitze,restaurant,Strasbourg,"15 Rue des Dentelles, 67000, Strasbourg",67000,https://www.lebouclierdor.com/restaurant-le-spitze/,48.5807985,7.7434036
 13979687860,node,La Marne,restaurant,Strasbourg,,,,48.6139947,7.7512608
 13989943074,node,Le Caveau de Schiltigheim,restaurant,Strasbourg,"8 a Rue Principale, 67300, Schiltigheim",67300,https://caveau-de-schiltigheim.fr/,48.6071694,7.7519618
+15806990,way,Palais Rohan,castle,Strasbourg,,,,48.5810157,7.7522537
+19794129,way,Musée de Sismologie et de Magnétisme Terrestre,museum,Strasbourg,,,,48.5839199,7.7656444
+19794224,way,Jardin Botanique,attraction,Strasbourg,,,https://jardin-botanique.unistra.fr/,48.583626,7.7674616
+19794529,way,Restaurant Universitaire de l'Esplanade,restaurant,Strasbourg,,,,48.5816703,7.765895
+19797770,way,Parc de la Citadelle,park,Strasbourg,,,,48.575766,7.7749163
+22276055,way,Place Adrien Zeller,park,Strasbourg,,,,48.5986446,7.7614428
+22290183,way,Musée Historique,museum,Strasbourg,2 Rue du Vieux Marché aux Poissons,,https://www.musees.strasbourg.eu/musee-historique,48.5799461,7.7509819
+22721989,way,Parc du Château,park,Strasbourg,,,,48.6017693,7.7498835
+22722577,way,Parc de la Roseraie,park,Strasbourg,,,,48.602512,7.7531767
+22795678,way,Square Saint-Florent,park,Strasbourg,,,,48.5967898,7.7220537
+23002192,way,Square Hochfelden,park,Strasbourg,,,,48.5974534,7.7259483
+23048790,way,Place de Haguenau,park,Strasbourg,,,,48.592029,7.742771
+23207067,way,Parc de l'Extenwoerthfeld,park,Strasbourg,,,,48.5580521,7.7548012
+23237244,way,Parc Schulmeister,park,Strasbourg,,,,48.5484805,7.7597327
+24430548,way,Square du Lazaret de Cronenbourg,park,Strasbourg,,,,48.5983569,7.7032099
+24481573,way,Place de la Porte Blanche,park,Strasbourg,,,,48.5797869,7.7314547
+24509805,way,Parc Eugène Imbs,park,Strasbourg,,,,48.5751847,7.7250953
+24909956,way,,garden,Strasbourg,,,,48.5612888,7.7745293
+24912879,way,Place des Tripiers,park,Strasbourg,,,,48.5803787,7.7493184
+24959438,way,,park,Strasbourg,,,,48.5722091,7.7271093
+24960513,way,Square Nicolas Appert,park,Strasbourg,,,,48.5789093,7.7164437
+25074297,way,Parc Albert Schweitzer,park,Strasbourg,,,,48.5746592,7.7124363
+25158465,way,,park,Strasbourg,,,,48.5664639,7.6984326
+25158507,way,,park,Strasbourg,,,,48.5677264,7.6969053
+25160094,way,Parc de Pourtalès,park,Strasbourg,,,,48.609151,7.8005634
+25909372,way,Château de la Cour d'Angleterre,castle,Strasbourg,,,,48.6312624,7.7989909
+25909373,way,,park,Strasbourg,,,,48.6298362,7.7989037
+26371365,way,Square des Malgré-Nous,park,Strasbourg,,,,48.5920628,7.73243
+26473472,way,,park,Strasbourg,,,,48.5579539,7.6886953
+27045855,way,Parc de la Bergerie,park,Strasbourg,,,,48.5998827,7.7200375
+29568437,way,Parc de la Mairie,park,Strasbourg,,,,48.6408269,7.7151246
+30923000,way,Hôtel Mercure Strasbourg Palais des Congrès,hotel,Strasbourg,,,,48.5960489,7.7580283
+36269992,way,O'Salines,restaurant,Strasbourg,24 Rue de Bouxwiller,,,48.5904574,7.7394913
+36526595,way,Hilton Strasbourg,hotel,Strasbourg,1 Avenue Herrenschmidt,,https://www.hilton.com/en/hotels/sxbhitw-hilton-strasbourg/,48.5970002,7.7547885
+39224822,way,Monument du Général Kléber,monument,Strasbourg,,,,48.5833724,7.7457745
+39540478,way,,park,Strasbourg,,,,48.5857496,7.7464915
+39654584,way,Hôtel Suisse,hotel,Strasbourg,,,,48.5814183,7.7528353
+39654586,way,Bistrot et chocolat,restaurant,Strasbourg,,,https://www.bistrotetchocolat.fr/,48.5814987,7.7530011
+39656838,way,Place du Frère Médard,park,Strasbourg,,,,48.5828772,7.7551535
+39754699,way,Au Vieux Strasbourg,restaurant,Strasbourg,"5 Rue du Maroquin, 67000",67000,https://vieuxstrasbourg.fr/,48.5805253,7.7507252
+39846452,way,Il Felice,restaurant,Strasbourg,,,,48.5806412,7.7489822
+39855297,way,Le Pilier des Anges,restaurant,Strasbourg,,,,48.5813183,7.7492671
+39887880,way,,park,Strasbourg,,,,48.6028493,7.6972073
+39971175,way,Au Pigeon,restaurant,Strasbourg,,,,48.5803796,7.7487548
+40019705,way,Le Bouclier d'Or,hotel,Strasbourg,,,https://www.lebouclierdor.com/,48.5806983,7.7436526
+40030093,way,Cap Europe Appart'Hotel,hotel,Strasbourg,,,,48.5913017,7.7535828
+40033008,way,L'ami Schutz,restaurant,Strasbourg,"1 Ponts Couverts, 67000",67000,https://www.ami-schutz.com/,48.5804584,7.739231
+40034170,way,Tour du Bourreau,attraction,Strasbourg,,,,48.5814532,7.7387351
+40108131,way,Hôtel de l'Europe,hotel,Strasbourg,,,https://www.happyculture.com/fr/hotel-europe.html,48.5821227,7.7428648
+40108706,way,BOMA,hotel,Strasbourg,,,,48.5830318,7.7417995
+40110805,way,Place du Vieux Marché aux Vins,park,Strasbourg,,,,48.5836692,7.7417783
+40126905,way,,castle,Strasbourg,,,,48.6112249,7.6816683
+40217747,way,Barrage Vauban,attraction,Strasbourg,,,,48.5795997,7.7380036
+40220422,way,Musée d'Art Moderne et Contemporain,museum,Strasbourg,,,,48.5794732,7.7361604
+40222088,way,Ibis,hotel,Strasbourg,7 Rue de Molsheim,,,48.5784497,7.7354765
+40222090,way,Courtepaille,restaurant,Strasbourg,,,,48.5783773,7.7356662
+40224267,way,,park,Strasbourg,,,,48.5782177,7.7381125
+40237316,way,,park,Strasbourg,,,,48.5785827,7.7376115
+40314908,way,,park,Strasbourg,,,,48.5774642,7.747962
+40379769,way,Hôtel du Dragon,hotel,Strasbourg,,,,48.5779452,7.7464212
+40519930,way,,park,Strasbourg,,,,48.5860152,7.7610512
+40519934,way,,park,Strasbourg,,,,48.5848998,7.7601003
+40519935,way,,park,Strasbourg,,,,48.5849219,7.7606005
+40519936,way,,park,Strasbourg,,,,48.5845223,7.7607718
+40519939,way,,park,Strasbourg,,,,48.584981,7.7617262
+40587969,way,,park,Strasbourg,,,,48.5756853,7.7535652
+40587970,way,,park,Strasbourg,,,,48.5758184,7.7542041
+40743073,way,,garden,Strasbourg,,,,48.5780742,7.7647744
+40763506,way,,park,Strasbourg,,,,48.5789872,7.7707603
+40763508,way,,park,Strasbourg,,,,48.5792352,7.7710771
+40763509,way,,park,Strasbourg,,,,48.5793928,7.7712508
+40763510,way,,park,Strasbourg,,,,48.5794725,7.7710479
+40816924,way,,park,Strasbourg,,,,48.5844587,7.7646697
+40816925,way,,park,Strasbourg,,,,48.5843234,7.7641615
+40816926,way,,park,Strasbourg,,,,48.5844979,7.7635237
+40816927,way,,park,Strasbourg,,,,48.5840062,7.7653162
+40816928,way,,park,Strasbourg,,,,48.5838553,7.7658979
+40816929,way,,park,Strasbourg,,,,48.5842191,7.7636828
+40816930,way,,park,Strasbourg,,,,48.5848504,7.7636996
+40816993,way,,park,Strasbourg,,,,48.5842235,7.7627251
+40816994,way,,park,Strasbourg,,,,48.5842675,7.7623895
+40816995,way,,park,Strasbourg,,,,48.5841151,7.7623826
+40816996,way,,park,Strasbourg,,,,48.5850676,7.7632851
+40816997,way,,park,Strasbourg,,,,48.585083,7.7630591
+40816998,way,,park,Strasbourg,,,,48.5851979,7.7629951
+40816999,way,,park,Strasbourg,,,,48.5853173,7.7631064
+40818707,way,Institut de Botanique,attraction,Strasbourg,,,,48.584003,7.7667989
+40828459,way,,park,Strasbourg,,,,48.5775333,7.7594256
+40828460,way,,park,Strasbourg,,,,48.5773761,7.7597084
+40828461,way,,park,Strasbourg,,,,48.5773739,7.7594659
+40828462,way,,park,Strasbourg,,,,48.5772907,7.7592865
+40828463,way,,park,Strasbourg,,,,48.5771359,7.7593977
+40828489,way,,park,Strasbourg,,,,48.5778907,7.7595083
+40828490,way,,park,Strasbourg,,,,48.5778636,7.7597787
+40828491,way,,park,Strasbourg,,,,48.5779884,7.7598601
+40828492,way,,park,Strasbourg,,,,48.5781506,7.7597729
+40828493,way,,park,Strasbourg,,,,48.5777884,7.7607462
+40828494,way,,park,Strasbourg,,,,48.5775918,7.760605
+40868824,way,Square du Général Berthelot,park,Strasbourg,,,,48.5762053,7.7721216
+40876667,way,,park,Strasbourg,,,,48.5819844,7.7788744
+40981618,way,Place Sainte-Aurélie,park,Strasbourg,,,,48.5818105,7.7326518
+40993458,way,Graffalgar,hotel,Strasbourg,,,,48.5833297,7.7357526
+41121009,way,Hôtel des Vosges,hotel,Strasbourg,3 Place de la Gare,,,48.5837881,7.7352689
+41123371,way,Hôtel Vendôme,hotel,Strasbourg,,,,48.5840959,7.7363994
+41123377,way,Hôtel Victoria,hotel,Strasbourg,,,,48.5838141,7.7372317
+41123899,way,Ibis,hotel,Strasbourg,,,,48.5844106,7.7367067
+41123900,way,Le Grand Hôtel,hotel,Strasbourg,,,,48.5847157,7.7369134
+41135600,way,Hôtel Monopole Métropole,hotel,Strasbourg,,,,48.5851187,7.7390396
+41140005,way,Odalys Appart'Hôtel Green Marsh,hotel,Strasbourg,,,,48.5866791,7.7400733
+41143125,way,,garden,Strasbourg,,,,48.5869068,7.7397047
+41143126,way,,garden,Strasbourg,,,,48.5871057,7.7395094
+41143127,way,,garden,Strasbourg,,,,48.5871866,7.739452
+41143128,way,,garden,Strasbourg,,,,48.587344,7.7393329
+41143129,way,,garden,Strasbourg,,,,48.5874508,7.7392592
+41143130,way,,garden,Strasbourg,,,,48.5872171,7.7395586
+41143131,way,,garden,Strasbourg,,,,48.5871266,7.7396258
+41151902,way,,park,Strasbourg,,,,48.5845396,7.7351599
+41151903,way,,park,Strasbourg,,,,48.5845398,7.7354366
+41151904,way,,garden,Strasbourg,,,,48.5844414,7.7358196
+41151905,way,,park,Strasbourg,,,,48.5845753,7.7358933
+41151906,way,,park,Strasbourg,,,,48.5846916,7.7359722
+41151907,way,,park,Strasbourg,,,,48.5849882,7.7359274
+41151908,way,,park,Strasbourg,,,,48.5851691,7.7359278
+41151909,way,,park,Strasbourg,,,,48.5846935,7.7354682
+41151911,way,,park,Strasbourg,,,,48.5842582,7.7352343
+41151912,way,,park,Strasbourg,,,,48.5842359,7.7354996
+41151913,way,,park,Strasbourg,,,,48.5842161,7.7357612
+41204352,way,,park,Strasbourg,,,,48.5827053,7.7781361
+41398391,way,,park,Strasbourg,,,,48.5876528,7.7697809
+41405297,way,,park,Strasbourg,,,,48.5860434,7.7777126
+41405298,way,,park,Strasbourg,,,,48.5863779,7.7770655
+41405299,way,,park,Strasbourg,,,,48.5856206,7.7775416
+41405300,way,,park,Strasbourg,,,,48.5856722,7.7779219
+41407611,way,,park,Strasbourg,,,,48.5822966,7.7682572
+41437241,way,,park,Strasbourg,,,,48.5840953,7.7780528
+41439595,way,,park,Strasbourg,,,,48.5852385,7.7812202
+41439596,way,,park,Strasbourg,,,,48.584142,7.7804569
+41496034,way,,park,Strasbourg,,,,48.5842394,7.7830293
+41496035,way,,park,Strasbourg,,,,48.5848088,7.7819981
+41548745,way,Hotel Garrigae Villa La Florangerie,hotel,Strasbourg,,,,48.5895891,7.7734137
+41587085,way,Le Quai du Lac,attraction,Strasbourg,,,,48.5902062,7.7769639
+41680854,way,Holiday Inn,hotel,Strasbourg,,,,48.611862,7.7134678
+41735108,way,Hôtel Athena,hotel,Strasbourg,,,https://www.athenaspahotel.com/,48.5918081,7.7114296
+41745038,way,La Famille,restaurant,Strasbourg,,,,48.6135127,7.7210837
+41834293,way,Parc de Hautepierre,park,Strasbourg,,,,48.596835,7.6932909
+41959958,way,Kyriad Direct Strasbourg Ouest,hotel,Strasbourg,,,,48.5886845,7.7001986
+41959960,way,Campanile,restaurant,Strasbourg,,,,48.5888253,7.6997236
+41973633,way,Première Classe,hotel,Strasbourg,,,,48.5878309,7.6903366
+42105163,way,,park,Strasbourg,,,,48.589643,7.7278355
+42231721,way,,park,Strasbourg,,,,48.5824087,7.6964795
+42231723,way,,park,Strasbourg,,,,48.582377,7.6977638
+42232634,way,Place Saint-Jean Bosco,park,Strasbourg,,,,48.5816249,7.7035346
+42322865,way,,park,Strasbourg,,,,48.57799,7.6979847
+42326998,way,Place des Romains,park,Strasbourg,,,,48.5799087,7.704442
+42401095,way,La Pizza de Nico,restaurant,Strasbourg,"121 Route des Romains, 67200, Strasbourg",67200,https://lapizzadenico.com/restaurant/la-pizza-de-nico-strasbourg-koenigshoffen/,48.5778571,7.7052808
+42411650,way,Hôtel Arc-en-Ciel,hotel,Strasbourg,,,,48.57885,7.7175826
+42800993,way,,park,Strasbourg,,,,48.5752653,7.7111584
+42886056,way,,park,Strasbourg,,,,48.571899,7.7337552
+42886772,way,,park,Strasbourg,,,,48.5723514,7.7342394
+42902265,way,,park,Strasbourg,,,,48.5728965,7.722008
+43151880,way,Ferme Linck,museum,Strasbourg,"22 Rue d'Adelshoffen, 67300, Schiltigheim",67300,https://memoire-patrimoine-schiltigheim.fr/2023/07/10/la-ferme-linck/,48.607968,7.7536245
+43179093,way,,park,Strasbourg,,,,48.5617797,7.7256111
+43189490,way,Place Memling,park,Strasbourg,,,,48.5637825,7.7202295
+43306054,way,,park,Strasbourg,,,,48.5649848,7.725818
+43332500,way,Campanile,hotel,Strasbourg,,,,48.5614434,7.6972511
+43666858,way,Hôtel Ibis,hotel,Strasbourg,,,,48.5560196,7.7453794
+43712957,way,,park,Strasbourg,,,,48.5631406,7.7470323
+43738204,way,,park,Strasbourg,,,,48.5735076,7.7519336
+43949517,way,,garden,Strasbourg,,,,48.572868,7.7727332
+43949526,way,Le Vaisseau,museum,Strasbourg,1bis Rue Philippe Dollinger,,,48.5728899,7.7721569
+43954942,way,,park,Strasbourg,,,,48.5702874,7.7665803
+43954943,way,,park,Strasbourg,,,,48.5700628,7.767129
+43954951,way,,park,Strasbourg,,,,48.5700363,7.7666365
+43961588,way,,park,Strasbourg,,,,48.5713361,7.7693242
+43974912,way,,park,Strasbourg,,,,48.5678525,7.774083
+43974918,way,,park,Strasbourg,,,,48.5680802,7.7742002
+43974920,way,,park,Strasbourg,,,,48.5687643,7.7740402
+43974925,way,,park,Strasbourg,,,,48.5679564,7.774523
+43974926,way,,park,Strasbourg,,,,48.5677836,7.7742584
+43974927,way,,park,Strasbourg,,,,48.5680963,7.7748551
+43974929,way,,park,Strasbourg,,,,48.5683121,7.7752047
+43974931,way,,park,Strasbourg,,,,48.5686381,7.7742975
+43974932,way,,park,Strasbourg,,,,48.5686959,7.7744812
+43975340,way,,park,Strasbourg,,,,48.5675371,7.7751931
+43976784,way,,park,Strasbourg,,,,48.5689434,7.7693307
+44024654,way,,park,Strasbourg,,,,48.5663179,7.759546
+44024655,way,,park,Strasbourg,,,,48.5662217,7.7592107
+44128781,way,Sarl d Or,restaurant,Strasbourg,"3 Rue du Marais,, 67800, Bischheim",67800,,48.6102142,7.7656221
+44158199,way,Cœur du Liban,restaurant,Strasbourg,"135 Route du Polygone, 67100, Strasbourg",67100,https://restaurantcoeurduliban.fr/,48.5632936,7.761984
+44204641,way,Cantine CASI BISCHHEIM,restaurant,Strasbourg,,,,48.6144972,7.7464983
+44350165,way,Le Bisch'trot (Salle à manger de Bischheim),restaurant,Strasbourg,,,,48.6144005,7.7511424
+44361119,way,,park,Strasbourg,,,,48.5649298,7.7708104
+44361120,way,,park,Strasbourg,,,,48.5646309,7.771409
+44361121,way,,park,Strasbourg,,,,48.5646744,7.7703666
+44361122,way,,park,Strasbourg,,,,48.5645842,7.7708685
+44361123,way,,park,Strasbourg,,,,48.5645568,7.7710251
+44361124,way,,park,Strasbourg,,,,48.5645212,7.7715816
+44361125,way,,park,Strasbourg,,,,48.5642591,7.7712028
+44361126,way,,park,Strasbourg,,,,48.5648307,7.7714074
+44502665,way,,park,Strasbourg,,,,48.5869677,7.7537851
+44502666,way,,park,Strasbourg,,,,48.5871053,7.7535229
+44502668,way,,park,Strasbourg,,,,48.5877021,7.7523186
+44502675,way,,park,Strasbourg,,,,48.5869474,7.7541488
+44502677,way,,park,Strasbourg,,,,48.5879768,7.753576
+44502678,way,,park,Strasbourg,,,,48.5876683,7.7537586
+44502681,way,,park,Strasbourg,,,,48.5875193,7.7537524
+44502682,way,,park,Strasbourg,,,,48.5875011,7.7541206
+44502683,way,,park,Strasbourg,,,,48.5873578,7.7543916
+44502684,way,,park,Strasbourg,,,,48.587396,7.7545795
+44502685,way,,park,Strasbourg,,,,48.5874482,7.755183
+44503633,way,,memorial,Strasbourg,,,,48.5872358,7.7539482
+44505273,way,,memorial,Strasbourg,,,https://www.archi-wiki.org/Adresse:Place_Henri_Will_(Strasbourg),48.5614377,7.7605025
+44505274,way,Parc Henri Will,park,Strasbourg,,,,48.5613442,7.7604912
+44864039,way,,park,Strasbourg,,,,48.554988,7.7560225
+44864040,way,,park,Strasbourg,,,,48.5524411,7.7564529
+44864041,way,,park,Strasbourg,,,,48.5532355,7.751943
+45043538,way,Square Louise Weiss,park,Strasbourg,,,,48.58074,7.7401842
+45423012,way,,castle,Strasbourg,,,,48.5902521,7.7947903
+46043482,way,Restaurant au Joyeux Pêcheur,restaurant,Strasbourg,,,https://aujoyeuxpecheur.fr/,48.6053222,7.7781559
+46675560,way,,park,Strasbourg,,,,48.5799276,7.7637207
+46675561,way,,park,Strasbourg,,,,48.5798513,7.7632443
+46786204,way,,park,Strasbourg,,,,48.5847441,7.7529867
+46837923,way,,park,Strasbourg,,,,48.5888791,7.7583039
+46989167,way,Parc de la Petite Orangerie,park,Strasbourg,,,,48.6026125,7.784277
+47009727,way,,park,Strasbourg,,,,48.6028626,7.788864
+47009728,way,,park,Strasbourg,,,,48.6034735,7.787624
+47009730,way,,park,Strasbourg,,,,48.6014783,7.7884322
+47009731,way,,park,Strasbourg,,,,48.6016443,7.7895398
+47009732,way,,park,Strasbourg,,,,48.6020144,7.7882567
+47009733,way,,park,Strasbourg,,,,48.6019799,7.7886976
+47009734,way,,park,Strasbourg,,,,48.6032338,7.7877386
+47009735,way,,park,Strasbourg,,,,48.6029096,7.7875117
+47009736,way,,park,Strasbourg,,,,48.6027631,7.7876755
+47009738,way,,park,Strasbourg,,,,48.6024134,7.787545
+47009739,way,,park,Strasbourg,,,,48.6030043,7.7876538
+47009740,way,,park,Strasbourg,,,,48.6032849,7.7872306
+47009741,way,,park,Strasbourg,,,,48.602225,7.7897928
+47009743,way,,park,Strasbourg,,,,48.6012413,7.7908278
+47009744,way,,park,Strasbourg,,,,48.6036008,7.7875507
+47010267,way,,park,Strasbourg,,,,48.6021399,7.7905891
+47010268,way,,park,Strasbourg,,,,48.6020376,7.7908847
+47010270,way,,park,Strasbourg,,,,48.6020217,7.7914308
+47010272,way,,park,Strasbourg,,,,48.6020402,7.7916824
+47010273,way,,park,Strasbourg,,,,48.6018539,7.7920521
+47010274,way,,park,Strasbourg,,,,48.6027772,7.7912726
+47010275,way,,park,Strasbourg,,,,48.6016515,7.7914858
+47010276,way,,park,Strasbourg,,,,48.6017546,7.7906564
+47010277,way,,park,Strasbourg,,,,48.6014718,7.7902961
+47010278,way,,park,Strasbourg,,,,48.601613,7.7901221
+47010279,way,,park,Strasbourg,,,,48.6016649,7.790959
+47010280,way,,park,Strasbourg,,,,48.6022172,7.7906183
+47010281,way,,park,Strasbourg,,,,48.6023238,7.7905008
+47010282,way,,park,Strasbourg,,,,48.6025166,7.7904146
+47010283,way,,park,Strasbourg,,,,48.6029817,7.7916693
+47037237,way,,hotel,Strasbourg,,,,48.5951158,7.7798863
+47037240,way,,park,Strasbourg,,,,48.5940983,7.7804814
+47058060,way,Parc de l'Anguille,park,Strasbourg,,,,48.6130538,7.7790914
+47225990,way,Illbourg,restaurant,Strasbourg,,,,48.6261599,7.8035865
+47225991,way,Chez Nous,restaurant,Strasbourg,,,https://www.cheznousstrasbourg.com,48.6264746,7.8037236
+47228307,way,Blockhaus,ruins,Strasbourg,,,,48.6343746,7.8064565
+47248565,way,,garden,Strasbourg,,,,48.6319062,7.8041308
+47253951,way,Hôtel Argos,hotel,Strasbourg,,,https://www.argos-hotel.fr/,48.6581548,7.7300689
+47257050,way,La Fontaine Céleste,restaurant,Strasbourg,,,,48.6614409,7.7241545
+47262318,way,Buffalo Grill,restaurant,Strasbourg,,,,48.6600781,7.7217581
+47262321,way,B&B Hôtel,hotel,Strasbourg,,,https://www.hotel-bb.com/fr/-/hotelByName.htm?id=0531,48.6604105,7.7228457
+47262329,way,La table de Vendenheim,restaurant,Strasbourg,,,,48.6616504,7.7210764
+47270517,way,B&B Hôtel,hotel,Strasbourg,,,,48.6424935,7.7269587
+47271326,way,Poulaillon,restaurant,Strasbourg,,,,48.6489726,7.723577
+47276262,way,Château de Pourtalès,castle,Strasbourg,,,,48.6084574,7.7999508
+47439526,way,Jardin des Senteurs et du Toucher,park,Strasbourg,,,,48.5499091,7.7397489
+47625122,way,Restaurant Universitaire Illkirch,restaurant,Strasbourg,"76 Route du Rhin, 67400",67400,,48.5286234,7.7377278
+47642833,way,,park,Strasbourg,,,,48.5500962,7.7503678
+47642834,way,,park,Strasbourg,,,,48.550596,7.7506769
+47642835,way,Place de l'Île de France,park,Strasbourg,,,,48.5503447,7.750754
+47642907,way,,park,Strasbourg,,,,48.5503232,7.7511264
+47845422,way,,park,Strasbourg,,,,48.5510364,7.7572746
+47853891,way,Square de la Peupleraie,park,Strasbourg,,,,48.5471254,7.7558648
+48091498,way,S'Musauer Stuebel,restaurant,Strasbourg,,,,48.563757,7.783927
+48150954,way,,park,Strasbourg,,,,48.5594112,7.7850876
+48150958,way,,park,Strasbourg,,,,48.5583045,7.7846205
+48150960,way,,park,Strasbourg,,,,48.5590059,7.7857283
+48150961,way,,park,Strasbourg,,,,48.5601831,7.7865018
+48150964,way,,park,Strasbourg,,,,48.5607655,7.7856376
+48150966,way,,park,Strasbourg,,,,48.559884,7.7845088
+48150967,way,,park,Strasbourg,,,,48.5598029,7.7871195
+48150970,way,,park,Strasbourg,,,,48.560447,7.7875697
+48150972,way,,park,Strasbourg,,,,48.5603231,7.788176
+48247221,way,Jardin des Deux Rives,park,Strasbourg,,,,48.567621,7.7996292
+48299291,way,hotelF1,hotel,Strasbourg,,,,48.5730901,7.7929414
+48453831,way,Blockhaus maginot,castle,Strasbourg,,,,48.5880386,7.7936951
+48715224,way,Place Saint-Christophe,park,Strasbourg,,,,48.5512298,7.7667445
+48715336,way,,park,Strasbourg,,,,48.5501628,7.7708012
+48715903,way,Square Maryse Hilsz,park,Strasbourg,,,,48.551647,7.7685047
+48715905,way,Square Icare,park,Strasbourg,,,,48.5518427,7.7708621
+48760545,way,,park,Strasbourg,,,,48.5483459,7.7615837
+48773881,way,Place Adrienne Bolland,park,Strasbourg,,,,48.5543092,7.7669301
+48806960,way,La Gloriosa,restaurant,Strasbourg,"4 Rue de Boulogne, 67100, Strasbourg",67100,,48.5386091,7.7895174
+48831197,way,Centre Routier Strasbourg,restaurant,Strasbourg,,,,48.5248189,7.7826628
+48967450,way,Oberjaegerhof,restaurant,Strasbourg,,,,48.5128674,7.7662216
+49023071,way,,park,Strasbourg,,,,48.5262524,7.7702051
+49207522,way,Square Gaston Fleischel,park,Strasbourg,,,,48.6031381,7.7110404
+49533095,way,,memorial,Strasbourg,,,,48.5951295,7.7175559
+49533096,way,,park,Strasbourg,,,,48.5951343,7.7175228
+50303780,way,Château Klinglin,castle,Strasbourg,,,,48.5324021,7.7155366
+50304628,way,Parc Klinglin,park,Strasbourg,,,,48.5319952,7.7154188
+50381281,way,Place du Général de Gaulle,park,Strasbourg,,,,48.5260102,7.7140309
+50681865,way,,beach,Strasbourg,,,,48.5299308,7.6996823
+50811388,way,Parc des Bonnes Gens,park,Strasbourg,,,,48.5401208,7.7250121
+51012658,way,,park,Strasbourg,,,,48.5305359,7.7253031
+51025996,way,Parc Malraux,park,Strasbourg,,,,48.5260986,7.721745
+51077086,way,,park,Strasbourg,,,,48.5225612,7.7433646
+51081016,way,Au Foyer des Pêcheurs,restaurant,Strasbourg,"Chemin du Routoir, 67400",67400,,48.5264442,7.7445875
+51096043,way,,park,Strasbourg,,,,48.5187266,7.7227005
+51145553,way,,park,Strasbourg,,,,48.5164548,7.7162651
+51154680,way,,park,Strasbourg,,,,48.5167611,7.7198481
+51164797,way,Parc du Docteur Albert Schweitzer,park,Strasbourg,,,,48.5155398,7.7231469
+51308358,way,Parc Friedel,park,Strasbourg,,,,48.5175201,7.7053813
+51505120,way,,park,Strasbourg,,,,48.5421357,7.7122034
+51549490,way,Château de l'Île,hotel,Strasbourg,,,,48.5446987,7.7139946
+51552289,way,Parcours de santé d'Ostwald,park,Strasbourg,"Rue de la Nachtweid, Ostwald",,,48.5404226,7.7179395
+51552308,way,Miro,restaurant,Strasbourg,"Rue de la Nachtweid, 67540, Ostwald",67540,https://mirostrasbourg.com,48.5418799,7.7236296
+52121777,way,Hôtel Mercure Strasbourg Sud,hotel,Strasbourg,,,,48.5339237,7.7015597
+52129653,way,Hippopotamus,restaurant,Strasbourg,,,,48.5337063,7.6959807
+52130814,way,Ibis Strasbourg Sud La Vigie,hotel,Strasbourg,,,,48.533594,7.6916141
+52130815,way,Ibis Budget,hotel,Strasbourg,,,,48.533685,7.6908855
+52130817,way,hotelF1,hotel,Strasbourg,,,,48.5345477,7.6917452
+52130822,way,B&B Hôtel,hotel,Strasbourg,,,https://www.hotel-bb.com/fr/-/hotelByName.htm?id=0387,48.533758,7.6919204
+52134424,way,B&B Hôtel Strasbourg Sud Geispolsheim,hotel,Strasbourg,,,,48.5322228,7.6919453
+52291148,way,Parc Henri-Louis Kayser,park,Strasbourg,,,,48.5972195,7.7779657
+54194602,way,Strasbourg,artwork,Strasbourg,,,,48.8658524,2.3226986
+58062559,way,Au Cheval Noir,restaurant,Strasbourg,"38 Rue de la République, 67800, Hœnheim",67800,https://www.au-cheval-noir.com/Cheval-Noir-Restaurant-Familiale-Cuisine-Traditionnelle,48.6220653,7.7555696
+58600098,way,La Paille D'or (Halal),restaurant,Strasbourg,,,,48.6276454,7.7681861
+60635603,way,Parc des Musiciens,park,Strasbourg,,,,48.6461283,7.7441316
+61112110,way,Parc des Cigognes,park,Strasbourg,,,,48.6474864,7.752072
+66534068,way,La Taverna di Pompei,restaurant,Strasbourg,2,,,48.5775548,7.6259261
+66535640,way,,restaurant,Strasbourg,,,,48.5812016,7.6230345
+71329786,way,Place du Général de Gaulle,park,Strasbourg,,,,48.5587614,7.6384643
+71384090,way,B&B HOTEL Strasbourg Aéroport,hotel,Strasbourg,10 Rue Joseph Graff,,,48.5572667,7.6534353
+78714619,way,Ancienne église Tour-Porche sur le Gloecksberg,attraction,Strasbourg,,,,48.5092824,7.605938
+83460724,way,Hôtel Le Moulin de la Wantzenau,hotel,Strasbourg,,,,48.649607,7.8086372
+87351561,way,S'Geisstuewel,restaurant,Strasbourg,,,,48.5152318,7.6446924
+87351569,way,Aux deux Clés,restaurant,Strasbourg,,,,48.5142024,7.6442314
+91560248,way,Les Secrets du Chocolat,museum,Strasbourg,"Rue du Pont du Péage, 67118, Geispolsheim",67118,https://musee-du-chocolat.com/fr/,48.5209256,7.6983186
+91670202,way,Hôtel Campanile Strasbourg Sud Illkirch Geispolsheim,hotel,Strasbourg,,,https://www.campanile.com/en/hotels/campanile-strasbourg-sud-illkirch-geispolsheim,48.5127453,7.6976317
+91670249,way,Hôtel Première Classe,hotel,Strasbourg,,,,48.5097002,7.6992639
+91670271,way,Hôtel Ibis Budget Strasbourg Sud Illkirch Geispolsheim,hotel,Strasbourg,,,ibis.com/fr/hotel-2193-ibis-budget-strasbourg-sud-illkirch-geispolsheim/index.shtml,48.5106452,7.6977141
+91670291,way,Holiday Inn Express Strasbourg - Sud,hotel,Strasbourg,,,https://www.ihg.com/holidayinnexpress/hotels/us/en/geispolsheim/sxbge/hoteldetail,48.510014,7.6980118
+95912232,way,Chez Gopi,restaurant,Strasbourg,,,,48.5543049,7.6774123
+96184671,way,La Diligence,restaurant,Strasbourg,"7 Rue du Maréchal Foch, 67380, Lingolsheim",67380,https://ladiligence.net/,48.5601211,7.6924294
+97078812,way,Parc de l'Étoile,park,Strasbourg,,,,48.5733498,7.7547108
+97799043,way,Chez Gaby,restaurant,Strasbourg,"31 Rue du Canal, 67201, Eckbolsheim",67201,https://restaurantchezgaby.fr,48.5743634,7.6872122
+99474808,way,Restaurant aux trois goûts,restaurant,Strasbourg,,,,48.5846542,7.6758732
+99513132,way,Hôtel Les Colonnes,hotel,Strasbourg,14 Rue Jean Monnet,,,48.5888437,7.6883929
+102342016,way,,restaurant,Strasbourg,,,,48.587111,7.6675683
+107834221,way,Baggersee,beach,Strasbourg,,,,48.5434118,7.7480436
+108320472,way,,castle,Strasbourg,,,,48.560645,7.583955
+109367512,way,Château de Breuschwickersheim,castle,Strasbourg,,,,48.578644,7.604347
+109396560,way,,restaurant,Strasbourg,,,,48.5797309,7.603002
+113213929,way,,restaurant,Strasbourg,,,,48.6669766,7.7175322
+113969285,way,Basse Cour du Fort Kléber,zoo,Strasbourg,,,,48.5901944,7.6632542
+114459148,way,Auberge de la Forêt,hotel,Strasbourg,,,,48.6607219,7.7457564
+115071726,way,Chez Georgette,restaurant,Strasbourg,,,,48.6790489,7.6954978
+115255019,way,,memorial,Strasbourg,,,,48.6812179,7.694717
+116375977,way,Place du Général-de-Gaulle,park,Strasbourg,,,,48.6517349,7.6957497
+118134832,way,Les Alizés,hotel,Strasbourg,"9 Rue des Vosges, 67640, Lipsheim",67640,https://fr.hotel-les-alizes.com/fr/hotel-les-alizes/accueil-hotel-fr.html,48.4883052,7.6588611
+118134926,way,Le Chalet de l'Hôtel,restaurant,Strasbourg,,,https://www.chaletdelhotel.com/,48.4884096,7.6585089
+121321442,way,Château d'Osthoffen,castle,Strasbourg,,,,48.5843371,7.5532099
+132852032,way,Ancien enclos à cigognes,zoo,Strasbourg,,,,48.5099466,7.6439679
+133394533,way,Château des Zorn,castle,Strasbourg,,,,48.4713577,7.7253198
+133394800,way,L'Auberge du Moulin,restaurant,Strasbourg,,,,48.4703562,7.7240624
+136452920,way,AU LION D OR,restaurant,Strasbourg,,,,48.4924752,7.6810935
+136705976,way,Auberge du Bruchrhein,restaurant,Strasbourg,,,,48.4901268,7.6762109
+136878131,way,Buffalo Grill,restaurant,Strasbourg,,,,48.4985958,7.6912268
+136878139,way,Le Phénix,restaurant,Strasbourg,,,,48.4997178,7.6922428
+143310928,way,,park,Strasbourg,,,,48.5775713,7.7617945
+143967340,way,,park,Strasbourg,,,,48.5776179,7.7613102
+143967342,way,,park,Strasbourg,,,,48.5775979,7.7625927
+143967345,way,,park,Strasbourg,,,,48.5776874,7.7618806
+143969997,way,,park,Strasbourg,,,,48.5778156,7.7613781
+150256039,way,Parc Eugène Imbs,park,Strasbourg,,,,48.574231,7.7216296
+152594209,way,Square du Tivoli - Tomi Ungerer,park,Strasbourg,,,,48.5958506,7.75965
+157916061,way,,park,Strasbourg,,,,48.5658642,7.7219212
+160278663,way,La pizza de Nico,restaurant,Strasbourg,"3 Place Dauphine, 67000, Strasbourg",67000,https://lapizzadenico.com/restaurant/la-pizza-de-nico-strasbourg-rivetoile/,48.5737198,7.7585119
+173259917,way,Parc Animalier Friedel,zoo,Strasbourg,,,,48.5174814,7.7050632
+173330348,way,,park,Strasbourg,,,,48.5298081,7.700317
+173331015,way,,park,Strasbourg,,,,48.5302387,7.7014585
+183655704,way,Petit Cabinet,artwork,Strasbourg,,,,48.5869354,7.7467093
+183875309,way,,park,Strasbourg,,,,48.5760952,7.7676288
+183875310,way,,park,Strasbourg,,,,48.5764166,7.7689586
+183875311,way,,park,Strasbourg,,,,48.5757704,7.7679304
+183875314,way,,park,Strasbourg,,,,48.5764021,7.7694744
+183875315,way,,park,Strasbourg,,,,48.5761943,7.7688134
+183875319,way,,park,Strasbourg,,,,48.575538,7.7682779
+183877044,way,,park,Strasbourg,,,,48.5758542,7.7657934
+183877060,way,,park,Strasbourg,,,,48.5763329,7.7658736
+184018455,way,Pallas Athénée,artwork,Strasbourg,,,,48.5788305,7.7687152
+191006042,way,Parc Wodli,park,Strasbourg,,,,48.6166798,7.7549398
+191049857,way,,park,Strasbourg,,,,48.6154268,7.7625421
+191805871,way,Square Peymeinade,park,Strasbourg,,,,48.6316836,7.7406967
+197755953,way,,park,Strasbourg,,,,48.5628341,7.6805183
+198765952,way,,park,Strasbourg,,,,48.6432772,7.7593537
+200603677,way,Système solaire,attraction,Strasbourg,,,,48.5685144,7.799495
+217834967,way,Grande Île,attraction,Strasbourg,,,,48.5829351,7.747696
+218730995,way,,park,Strasbourg,,,,48.5833178,7.648181
+227832948,way,Square Adjudant-Chef Jean-Pierre Lavaud,park,Strasbourg,,,,48.5789144,7.74444
+227833893,way,,park,Strasbourg,,,,48.579262,7.7707923
+227996955,way,Résidence Orfea Strasbourg,hotel,Strasbourg,"1C Boulevard de Metz, 67000, Strasbourg",67000,,48.583466,7.7333559
+228926500,way,Square Saint-Jean,park,Strasbourg,,,,48.5845075,7.7395847
+229498626,way,Parc de l'araignée,park,Strasbourg,,,,48.4880218,7.6925796
+230731580,way,,beach,Strasbourg,,,,48.63904,7.7664091
+250502823,way,,park,Strasbourg,,,,48.4881388,7.6892626
+250508928,way,,park,Strasbourg,,,,48.4857586,7.6881044
+251709705,way,Place du Marché,park,Strasbourg,,,,48.5660171,7.7593922
+251709706,way,,park,Strasbourg,,,,48.566246,7.7589066
+251709707,way,,park,Strasbourg,,,,48.5660152,7.758557
+252411078,way,,park,Strasbourg,,,,48.4886758,7.6834332
+252432185,way,,park,Strasbourg,,,,48.4910711,7.6963197
+252957984,way,aire de jeu - parc,park,Strasbourg,,,,48.5884188,7.5595355
+253201206,way,,park,Strasbourg,,,,48.4923219,7.6785483
+253293151,way,,park,Strasbourg,,,,48.4942057,7.6950841
+253300182,way,,park,Strasbourg,,,,48.4876046,7.6914505
+253763568,way,Square Caius Largennius,park,Strasbourg,,,,48.5835226,7.6966936
+253763911,way,Square du Boeuf Rouge,park,Strasbourg,,,,48.5875025,7.6669925
+255366867,way,,garden,Strasbourg,,,,48.4895568,7.715357
+274284999,way,Parc des Soupirs,park,Strasbourg,,,,48.5990442,7.7590083
+274286972,way,Parc de L'Aar,park,Strasbourg,,,,48.6027559,7.7594578
+274286976,way,Square Émile Stahl,park,Strasbourg,,,,48.6025877,7.7570006
+291666999,way,,artwork,Strasbourg,,,,48.5814041,7.7515881
+292444126,way,,park,Strasbourg,,,,48.558041,7.6365993
+299633806,way,,park,Strasbourg,,,,48.5803897,7.7668845
+299646946,way,,garden,Strasbourg,,,,48.5776665,7.7528355
+299665791,way,,garden,Strasbourg,,,,48.5990258,7.7968068
+299677941,way,,garden,Strasbourg,,,,48.568473,7.7584792
+299684704,way,Ibis Styles,hotel,Strasbourg,,,,48.5693298,7.7774561
+300718558,way,,park,Strasbourg,,,,48.5762051,7.7431352
+300718570,way,,park,Strasbourg,,,,48.576349,7.7422601
+301140160,way,Jardin partagé du Square St Jean,park,Strasbourg,,,,48.5845046,7.7388828
+302668681,way,,garden,Strasbourg,,,,48.57808,7.7538064
+302668682,way,,garden,Strasbourg,,,,48.5781529,7.7536259
+302668683,way,,garden,Strasbourg,,,,48.5781828,7.7534441
+302668685,way,,garden,Strasbourg,,,,48.578045,7.7534643
+302668686,way,,garden,Strasbourg,,,,48.5780279,7.7533566
+303178799,way,,park,Strasbourg,,,,48.5707151,7.7534943
+318544833,way,,park,Strasbourg,,,,48.5994938,7.7449969
+318547036,way,Parc de l'Hôpital,park,Strasbourg,,,,48.6003021,7.7507971
+318701601,way,,garden,Strasbourg,,,,48.5137415,7.6602019
+319285400,way,Parc du Heyritz,park,Strasbourg,,,,48.5730462,7.7450197
+320754786,way,,park,Strasbourg,,,,48.5800696,7.7405947
+320755423,way,,park,Strasbourg,,,,48.5788826,7.74155
+342379953,way,Square Jaroslav Hasek,park,Strasbourg,,,,48.5845319,7.7018733
+346384834,way,,garden,Strasbourg,,,,48.5627454,7.7825327
+378666116,way,Jardin de la Résistance,park,Strasbourg,,,,48.6083377,7.7489245
+382714872,way,,park,Strasbourg,,,,48.6182849,7.7911601
+387386223,way,,park,Strasbourg,,,,48.6338234,7.7110325
+400983811,way,Square Chautodest,park,Strasbourg,,,,48.6045322,7.7526306
+401078748,way,,garden,Strasbourg,,,,48.6062537,7.7515034
+401078749,way,,garden,Strasbourg,,,,48.6061952,7.751558
+402748082,way,,garden,Strasbourg,,,,48.6065556,7.7500062
+402748084,way,,garden,Strasbourg,,,,48.6065984,7.75001
+403340972,way,,garden,Strasbourg,,,,48.6062544,7.7513937
+403436169,way,,park,Strasbourg,,,,48.5098574,7.6983343
+403491372,way,Square rue de la Glacière,park,Strasbourg,,,,48.6057902,7.7541433
+405336221,way,Zone à occuper,park,Strasbourg,,,,48.5725609,7.7689995
+405891486,way,Square de la Lune,park,Strasbourg,,,,48.6073461,7.7561993
+405978844,way,Parc Léo Delibes,park,Strasbourg,,,,48.6105423,7.7491913
+407248472,way,Square Terrain des Malteries,park,Strasbourg,,,,48.6040533,7.7442119
+409852444,way,,garden,Strasbourg,,,,48.6020631,7.7495039
+409852445,way,,garden,Strasbourg,,,,48.6020428,7.7493985
+409852446,way,,garden,Strasbourg,,,,48.6019966,7.7495426
+410095266,way,,garden,Strasbourg,,,,48.6020706,7.7497653
+410234653,way,,garden,Strasbourg,,,,48.6053317,7.751151
+410234655,way,,garden,Strasbourg,,,,48.6051861,7.7510665
+410234659,way,,garden,Strasbourg,,,,48.6052808,7.7511211
+410234660,way,,garden,Strasbourg,,,,48.6050996,7.751032
+410234661,way,,garden,Strasbourg,,,,48.6050375,7.7509986
+410234662,way,,garden,Strasbourg,,,,48.605481,7.7512045
+410345066,way,,garden,Strasbourg,,,,48.6025409,7.7531069
+410345082,way,,garden,Strasbourg,,,,48.6021372,7.7540884
+410345090,way,,garden,Strasbourg,,,,48.6027431,7.7536994
+410345094,way,,garden,Strasbourg,,,,48.6021197,7.7527752
+412512100,way,,park,Strasbourg,,,,48.660305,7.8365289
+416455542,way,TGV 001,attraction,Strasbourg,,,,48.6147084,7.7272153
+416472813,way,,viewpoint,Strasbourg,,,,48.5795965,7.7379989
+423198437,way,,garden,Strasbourg,,,,48.6043417,7.7480214
+423791802,way,,garden,Strasbourg,,,,48.6047677,7.74791
+424200851,way,Parc du château de Kolbsheim,park,Strasbourg,,,,48.5603095,7.5829791
+425203872,way,,park,Strasbourg,,,,48.5265632,7.7108597
+428057043,way,Parc de loisirs du Marais,park,Strasbourg,,,,48.606425,7.763568
+438605781,way,,garden,Strasbourg,,,,48.5821405,7.74024
+439458023,way,,park,Strasbourg,,,,48.6101039,7.7606123
+440216793,way,,garden,Strasbourg,,,,48.5930157,7.7754044
+440216794,way,,garden,Strasbourg,,,,48.5929956,7.775531
+440216795,way,,garden,Strasbourg,,,,48.5929673,7.7753847
+440216796,way,,garden,Strasbourg,,,,48.5930305,7.7754764
+440216797,way,,garden,Strasbourg,,,,48.5929457,7.7755184
+440216798,way,,garden,Strasbourg,,,,48.5929323,7.7754393
+451348345,way,,park,Strasbourg,,,,48.5783658,7.7784154
+451349388,way,,park,Strasbourg,,,,48.5782305,7.7798117
+451349390,way,,park,Strasbourg,,,,48.5776672,7.7791703
+468723955,way,,park,Strasbourg,,,,48.5835423,7.7626081
+480607409,way,,park,Strasbourg,,,,48.5709262,7.7966003
+480607410,way,,park,Strasbourg,,,,48.5706218,7.7967939
+480607411,way,,park,Strasbourg,,,,48.570386,7.79694
+480607412,way,,park,Strasbourg,,,,48.5701459,7.7970941
+480607415,way,,park,Strasbourg,,,,48.5723435,7.7951255
+480607416,way,,park,Strasbourg,,,,48.5725037,7.7955837
+480607417,way,,park,Strasbourg,,,,48.572184,7.7952512
+480607418,way,,park,Strasbourg,,,,48.5717938,7.7961061
+480607419,way,,park,Strasbourg,,,,48.5718069,7.7954554
+480607420,way,,park,Strasbourg,,,,48.5722867,7.7957739
+480809152,way,,park,Strasbourg,,,,48.5724159,7.7997308
+483504741,way,,garden,Strasbourg,,,,48.5927413,7.7752255
+483504742,way,,garden,Strasbourg,,,,48.5922678,7.7745401
+486650189,way,Musée Tomi Ungerer Centre International de l'Illustration,museum,Strasbourg,,,https://www.musees.strasbourg.eu/musee-tomi-ungerer,48.585689,7.7550092
+487437117,way,,park,Strasbourg,,,,48.608986,7.7488823
+488451447,way,Parc des Oiseaux,park,Strasbourg,,,,48.6037624,7.7333755
+488664034,way,Square Gribouille,park,Strasbourg,,,,48.5966762,7.7019456
+488664035,way,Parc Sindbad,park,Strasbourg,,,,48.5958626,7.7032556
+489613675,way,,garden,Strasbourg,,,,48.602497,7.7526657
+490069534,way,Parc de l'Érable,park,Strasbourg,,,,48.6089075,7.7280275
+490481713,way,Parc des Frères Grimm,park,Strasbourg,,,,48.5949382,7.7021156
+491674514,way,Musée de l'Œuvre Notre-Dame,museum,Strasbourg,,,,48.580867,7.751182
+496633090,way,,park,Strasbourg,,,,48.449141,7.7210068
+500386604,way,Place Molière,park,Strasbourg,,,,48.6622847,7.7135988
+503246409,way,,garden,Strasbourg,,,,48.6090718,7.7500159
+509592947,way,Square d'Auvergne,park,Strasbourg,,,,48.6062619,7.7661126
+526240410,way,,garden,Strasbourg,,,,48.5904336,7.7488813
+533604123,way,New New Chop Suey House,restaurant,Strasbourg,,,,51.0699491,-104.9529828
+533604168,way,Sisters Cafe Western Pizza,restaurant,Strasbourg,,,,51.0703383,-104.9537674
+534745322,way,,garden,Strasbourg,,,,48.605388,7.758804
+534745323,way,,garden,Strasbourg,,,,48.6053015,7.7585819
+534745337,way,,garden,Strasbourg,,,,48.6050965,7.7590519
+534745338,way,,garden,Strasbourg,,,,48.6050116,7.7588468
+534745339,way,,garden,Strasbourg,,,,48.6049375,7.7588193
+535698603,way,,garden,Strasbourg,,,,48.6006476,7.756289
+535698605,way,,garden,Strasbourg,,,,48.6006718,7.7561136
+537927050,way,,park,Strasbourg,,,,48.6046337,7.7555951
+541729181,way,,garden,Strasbourg,,,,48.6011668,7.7682841
+541729190,way,,garden,Strasbourg,,,,48.6016665,7.7669125
+541729193,way,,garden,Strasbourg,,,,48.601451,7.7678379
+541729204,way,,garden,Strasbourg,,,,48.6021262,7.7683649
+541729206,way,,garden,Strasbourg,,,,48.601612,7.7673989
+541729225,way,,garden,Strasbourg,,,,48.602152,7.7670143
+541729226,way,,garden,Strasbourg,,,,48.6019335,7.7668836
+541729227,way,,garden,Strasbourg,,,,48.6020303,7.7668019
+541915088,way,,garden,Strasbourg,,,,48.6083735,7.7348577
+541915089,way,,garden,Strasbourg,,,,48.6082491,7.7348717
+543257993,way,,garden,Strasbourg,,,,48.6061432,7.7293706
+551324334,way,,garden,Strasbourg,,,,48.6054128,7.7319878
+552577232,way,,garden,Strasbourg,,,,48.6002204,7.7399245
+552577233,way,,garden,Strasbourg,,,,48.6002614,7.7398145
+553548658,way,Terrain d'aventures,park,Strasbourg,,,,48.6254294,7.7626409
+583047779,way,,park,Strasbourg,,,,48.5758645,7.7629237
+583047781,way,,park,Strasbourg,,,,48.5758326,7.7632902
+592671832,way,Brasserie Michel Debus,restaurant,Strasbourg,"85 Route de Bischwiller, 67300, Schiltigheim",67300,https://brasserie-michel-debus.fr/,48.6087064,7.7494442
+641345861,way,,park,Strasbourg,,,,48.5708618,7.7148142
+657340396,way,Parc de la Rue des Vergers,park,Strasbourg,"Rue des Vergers, 67203, Oberschaeffolsheim",67203,,48.5859796,7.6539376
+672658390,way,Square Gabrielle et Charles Kayser,park,Strasbourg,"14 Rue du Schurmfeld, 67100, Strasbourg",67100,,48.5690331,7.7606411
+673291649,way,Lands’herb Jardin Partagé,garden,Strasbourg,,,https://lescompostiersdulandsberg.wordpress.com/,48.5719996,7.7630264
+685104388,way,,park,Strasbourg,,,https://jardin-sciences.unistra.fr/planetarium/un-nouveau-planetarium/,48.583208,7.7638682
+687116449,way,Le Lombric Hardi Jardin partagé,garden,Strasbourg,,,,48.5696673,7.7525012
+687117243,way,Jardin partagé Alisiers,garden,Strasbourg,,,,48.5694446,7.7489871
+693583859,way,K Hôtel,hotel,Strasbourg,,,,48.5939721,7.7136722
+699099539,way,Les Herbes Folles,garden,Strasbourg,,,,48.6015114,7.7507022
+700696814,way,MM Park France,museum,Strasbourg,"4 Rue Gutenberg, 67610, La Wantzenau",67610,https://www.mmpark.fr/,48.6654167,7.8098826
+701363145,way,Square des Fusillés du 15 Juillet 1943,park,Strasbourg,,,,48.5718731,7.7940859
+702192820,way,Plage de la Ballastière de Bishheim-Schiltigheim,beach,Strasbourg,,,,48.6313204,7.7812109
+702877283,way,,park,Strasbourg,,,,48.6307504,7.7781544
+702877285,way,,park,Strasbourg,,,,48.6321262,7.7819903
+703037476,way,,ruins,Strasbourg,,,,48.5801993,7.7274728
+704823433,way,Parc du Petit Rhin,park,Strasbourg,,,,48.5732397,7.7861831
+707192600,way,B&B Hotel,hotel,Strasbourg,"1 Avenue de Londres, 67300, Schiltigheim",67300,,48.6109003,7.7094879
+711393477,way,,garden,Strasbourg,,,,48.5807945,7.7509234
+711709178,way,,garden,Strasbourg,,,,48.5904582,7.7487322
+712374145,way,,park,Strasbourg,,,,48.5667721,7.7755321
+723769827,way,,garden,Strasbourg,,,,48.5345358,7.635917
+723890225,way,"Casemate Maginot ""Bassin de l'industrie""",castle,Strasbourg,,,,48.5818645,7.7983899
+723890226,way,"Casemate Maginot ""Sporeninsel""",castle,Strasbourg,,,,48.5898489,7.8007839
+723890227,way,Blockhaus Maginot,castle,Strasbourg,,,,48.5875994,7.7908951
+723890228,way,Abri de défense passive ligne Maginot,castle,Strasbourg,,,,48.5896881,7.7869959
+724290585,way,Corps de garde,castle,Strasbourg,,,,48.5586768,7.6665076
+725969144,way,Aloft,hotel,Strasbourg,"2 Avenue du Rhin, 67100, Strasbourg",67100,,48.5729295,7.7559744
+746434402,way,Square Markos Botzaris,park,Strasbourg,,,,48.5862874,7.7519814
+746438346,way,Square Marcel Rudloff,park,Strasbourg,,,,48.5857784,7.7616102
+746494322,way,Square Raymond Klee,park,Strasbourg,,,,48.5668668,7.7736535
+749007461,way,,park,Strasbourg,,,,48.5842229,7.7645252
+749007462,way,,park,Strasbourg,,,,48.5841271,7.764885
+749010567,way,,park,Strasbourg,,,,48.5837654,7.7647605
+749010568,way,,park,Strasbourg,,,,48.5835923,7.765292
+750712872,way,,park,Strasbourg,,,,48.5674035,7.7496914
+753416167,way,Parc Alain Bombard,park,Strasbourg,,,,48.6672083,7.7033307
+753418532,way,Parc Olympe de Gouges,park,Strasbourg,,,,48.5585248,7.6985726
+753418535,way,Place Simone Veil,park,Strasbourg,,,,48.559419,7.6995365
+756254503,way,Square du Président Allende,park,Strasbourg,,,,48.5790322,7.761032
+758739458,way,Square Waldteufel,park,Strasbourg,,,,48.6122148,7.7523867
+758739817,way,Place de la Synagogue,park,Strasbourg,,,,48.6125046,7.7557704
+761245768,way,Jardin Médicinal,garden,Strasbourg,,,,48.569433,7.7985426
+766326801,way,Un enfant rêve,garden,Strasbourg,,,,48.569179,7.7983729
+766326802,way,L'îlot,garden,Strasbourg,,,,48.5689199,7.798343
+766326803,way,"Station Strasbourg, Terminus Jardin",garden,Strasbourg,,,,48.5686135,7.798236
+768703469,way,,garden,Strasbourg,,,,48.5779484,7.7535842
+768703473,way,,garden,Strasbourg,,,,48.577888,7.7530522
+768703474,way,,artwork,Strasbourg,,,,48.5778455,7.7529074
+768703479,way,,artwork,Strasbourg,,,,48.5781683,7.753234
+768736446,way,Square du Manège Solignac,park,Strasbourg,,,,48.5523212,7.7628454
+768737630,way,Square des Cannoniers,park,Strasbourg,,,,48.5548566,7.7660127
+769026937,way,Square de la Corse,park,Strasbourg,,,,48.545106,7.7558782
+769028838,way,Square du Neufeld,park,Strasbourg,,,,48.5665645,7.7559974
+776239023,way,,park,Strasbourg,,,,48.4922169,7.7288475
+785626495,way,,park,Strasbourg,,,,48.5503883,7.6885351
+785742315,way,,park,Strasbourg,,,,48.6134715,7.7651086
+786518328,way,Parc des muguets,park,Strasbourg,,,,48.6474135,7.7489873
+786518329,way,,park,Strasbourg,,,,48.6469057,7.7494724
+787957209,way,Square Europa,park,Strasbourg,,,,48.5544518,7.6917795
+788390624,way,,artwork,Strasbourg,,,,48.5943159,7.7560232
+801546927,way,L'arrosoir,garden,Strasbourg,,,https://arrosoir.wixsite.com/associationarrosoir,48.5680766,7.7534202
+815741484,way,Jardin partagé intergénérationnel,garden,Strasbourg,,,,48.5729532,7.7686206
+830417100,way,Lions Ball Park,park,Strasbourg,,,,51.0646779,-104.9402907
+845996118,way,Square du Pré Fleuri,park,Strasbourg,,,,48.5841468,7.6439315
+848215067,way,,garden,Strasbourg,,,,48.576439,7.6051757
+849800106,way,Blue Flamingo,restaurant,Strasbourg,"Presqu'Île André Malraux, 67000, Strasbourg",67000,https://www.blue-flamingo.fr/,48.5741237,7.759566
+852496907,way,,park,Strasbourg,,,,48.5116293,7.7233833
+852496908,way,,park,Strasbourg,,,,48.5107924,7.7235496
+852499527,way,,viewpoint,Strasbourg,,,,48.5103884,7.7224268
+862139538,way,,park,Strasbourg,,,,48.5449593,7.7131315
+867268868,way,,park,Strasbourg,,,,48.5946508,7.7164351
+870973023,way,,garden,Strasbourg,,,,48.5631079,7.764304
+871368755,way,,park,Strasbourg,,,,48.5616952,7.7608249
+882057267,way,,garden,Strasbourg,,,,48.587799,7.6413191
+882057277,way,,garden,Strasbourg,,,,48.5925019,7.6411589
+883887701,way,,garden,Strasbourg,,,,48.5017529,7.6614623
+884340869,way,,garden,Strasbourg,,,,48.578592,7.605523
+884340870,way,,garden,Strasbourg,,,,48.578855,7.6069542
+884340872,way,,garden,Strasbourg,,,,48.5789321,7.6078691
+885323044,way,Syneson,artwork,Strasbourg,,,,48.5661648,7.7597562
+887472228,way,,zoo,Strasbourg,,,,48.5550123,7.6123172
+908080443,way,Jardin Communautaire Ste-Madeleine,garden,Strasbourg,,,,48.5805036,7.7544829
+909347255,way,,park,Strasbourg,,,,48.5830804,7.6931767
+914142318,way,Le jardin de l'(H)être,garden,Strasbourg,,,,48.6088401,7.7483667
+919258826,way,,garden,Strasbourg,,,,48.5634493,7.78041
+920221515,way,Volfoni,restaurant,Strasbourg,6 Boulevard des Enseignes,,https://www.volfoni.fr/nos-restaurants/volfoni-vendenheim,48.6532801,7.7339978
+920221519,way,L'Ancienne Douane,restaurant,Strasbourg,6 Boulevard des Enseignes,,https://www.anciennedouane-restaurant.fr/shopping-promenade-reichstett-vendenheim/,48.6533537,7.7335576
+920221521,way,Au Bureau,restaurant,Strasbourg,6 Boulevard des Enseignes,,,48.6532565,7.7331124
+927263057,way,,garden,Strasbourg,,,,48.6486191,7.8149318
+927263062,way,,garden,Strasbourg,,,,48.6495932,7.8182792
+929871145,way,,beach,Strasbourg,,,,48.5714858,7.8010989
+931836222,way,Parc de la Malterie,park,Strasbourg,,,,48.6011521,7.743697
+938794212,way,,park,Strasbourg,,,,48.5826311,7.7042798
+939105514,way,,park,Strasbourg,,,,48.5454356,7.7727332
+939510639,way,Citadines Eurométropole Strasbourg,hotel,Strasbourg,"11 Allée de l'Euro, Oberhausbergen",,https://www.citadineseurometropolestrasbourg.com/,48.6042451,7.7045857
+939743814,way,,garden,Strasbourg,,,,48.6015477,7.7507053
+939743815,way,,garden,Strasbourg,,,,48.601558,7.7506864
+939743816,way,,garden,Strasbourg,,,,48.6015489,7.7506467
+939743817,way,,garden,Strasbourg,,,,48.6015366,7.7506724
+939743818,way,,garden,Strasbourg,,,,48.6015326,7.7506389
+939743819,way,,garden,Strasbourg,,,,48.601507,7.7506356
+939743820,way,,garden,Strasbourg,,,,48.601488,7.7507517
+939743821,way,,garden,Strasbourg,,,,48.6015177,7.7507486
+939743822,way,,garden,Strasbourg,,,,48.6014794,7.750725
+939743823,way,,garden,Strasbourg,,,,48.6014857,7.7506913
+939743824,way,,garden,Strasbourg,,,,48.6015225,7.7507135
+939743825,way,,garden,Strasbourg,,,,48.6015126,7.7506888
+950312036,way,jardin de julien,garden,Strasbourg,,,,48.5864828,7.7805926
+955323578,way,,park,Strasbourg,,,,48.5719475,7.7835721
+956125594,way,,park,Strasbourg,,,,48.5905179,7.7625838
+957251191,way,,park,Strasbourg,,,,48.5766218,7.7280078
+959848331,way,,park,Strasbourg,,,,48.5311941,7.7739681
+961404453,way,,garden,Strasbourg,,,,48.5739533,7.7946073
+966424576,way,,park,Strasbourg,,,,48.5898646,7.7233785
+970095616,way,Parc Contades,park,Strasbourg,,,,48.5905586,7.7582765
+970132241,way,Place des Roses,park,Strasbourg,,,,48.6679108,7.7190905
+970736094,way,,garden,Strasbourg,,,,48.5701655,7.7972095
+978177588,way,,park,Strasbourg,,,,48.6075766,7.6873936
+982287408,way,Square du Guirbaden,park,Strasbourg,,,,48.624377,7.752346
+982415459,way,Square des Émailleries,park,Strasbourg,,,,48.6238775,7.7572585
+983833047,way,,park,Strasbourg,,,,48.566857,7.7127287
+983876954,way,,park,Strasbourg,,,,48.5683049,7.7124739
+984878815,way,Jardin des Coteaux,park,Strasbourg,,,,48.6252588,7.7022972
+984878819,way,,garden,Strasbourg,,,,48.6248964,7.7022585
+992472749,way,,garden,Strasbourg,,,,48.5695878,7.7935521
+992472750,way,,garden,Strasbourg,,,,48.5694644,7.7936814
+993424453,way,,garden,Strasbourg,,,,48.5887446,7.7446261
+993513013,way,,park,Strasbourg,,,,48.5706946,7.7961478
+993513015,way,,park,Strasbourg,,,,48.5702732,7.7964078
+1000017661,way,Holly’s Diner,restaurant,Strasbourg,,,https://hollysdiner.fr/les-restaurants/strasbourg/,48.5857644,7.7412416
+1001386069,way,Phan Asia,restaurant,Strasbourg,,,https://www.placedeshalles.com/phan-asia/,48.58746,7.7406537
+1001442481,way,La Pause,restaurant,Strasbourg,,,https://www.placedeshalles.com/la-pause/,48.5875266,7.7407115
+1012884337,way,La Pizza de Nico,restaurant,Strasbourg,,,https://lapizzadenico.com/restaurant/la-pizza-de-nico-strasbourg-rivetoile/,48.5736996,7.7587165
+1021502718,way,,garden,Strasbourg,,,,48.6002196,7.7895129
+1021502720,way,,garden,Strasbourg,,,,48.6003379,7.7892613
+1021502722,way,,garden,Strasbourg,,,,48.600458,7.7890027
+1023225786,way,Jardin des cinq sens,garden,Strasbourg,,,,48.5896336,7.664136
+1031130785,way,,park,Strasbourg,,,,48.5600205,7.7608651
+1035185829,way,,park,Strasbourg,,,,48.6511728,7.8266352
+1049885674,way,OBA,restaurant,Strasbourg,,,,48.5916835,7.6965482
+1049894080,way,Le Grilladin,restaurant,Strasbourg,,,,48.5912065,7.6967642
+1051453980,way,Restaurant Centre régional des œuvres universitaires et scolaires,restaurant,Strasbourg,,,,48.6056101,7.7139316
+1052007796,way,Château bunker du Lutzelbruch,castle,Strasbourg,,,,48.5381336,7.6872291
+1054716852,way,Camping de Strasbourg,restaurant,Strasbourg,,,https://camping-strasbourg.com,48.5746038,7.7173486
+1054791888,way,Pro Grill,restaurant,Strasbourg,"6 Rue Charles Péguy, 67000, Strasbourg",67000,,48.5876336,7.7005204
+1056213296,way,Le Jardin Céleste,restaurant,Strasbourg,,,,48.5909797,7.669942
+1056221680,way,Le pied de mammouth,restaurant,Strasbourg,,,https://lpmburger.fr/,48.5998963,7.7419897
+1058916211,way,,park,Strasbourg,,,,48.5400633,7.7130311
+1062600251,way,Jardin Partage Karine,garden,Strasbourg,,,,48.5981334,7.698944
+1066410338,way,,garden,Strasbourg,,,,48.5945968,7.7628711
+1066412918,way,,garden,Strasbourg,,,,48.5948607,7.7621595
+1069325307,way,Jardin artistique et participatif d'Apollonia,garden,Strasbourg,,,,48.5984959,7.7769765
+1070593257,way,Jardin interreligieux de la meinau,park,Strasbourg,,,,48.5495975,7.7523058
+1073517811,way,,park,Strasbourg,,,,48.5981197,7.7656669
+1074146767,way,Shanghai,restaurant,Strasbourg,,,,48.6301332,7.7650122
+1074602056,way,,zoo,Strasbourg,,,,48.646353,7.8299575
+1076930640,way,Jardin de la Place de la Republique,garden,Strasbourg,,,,48.587233,7.7539513
+1082314970,way,,garden,Strasbourg,,,,48.5616386,7.7601673
+1082420235,way,,garden,Strasbourg,,,,48.6023368,7.7502416
+1082420241,way,,garden,Strasbourg,,,,48.602693,7.750077
+1082420245,way,,garden,Strasbourg,,,,48.6025103,7.7501603
+1082420247,way,,garden,Strasbourg,,,,48.6016915,7.7507677
+1082420248,way,,garden,Strasbourg,,,,48.6018023,7.7505879
+1082420255,way,,garden,Strasbourg,,,,48.6019146,7.7507504
+1082420256,way,,garden,Strasbourg,,,,48.6018835,7.750743
+1083557256,way,,garden,Strasbourg,,,,48.5612727,7.7608246
+1085626461,way,Parc des Romains,park,Strasbourg,,,,48.5836299,7.7212729
+1097466458,way,,park,Strasbourg,,,,48.6083421,7.6912963
+1109215392,way,,park,Strasbourg,,,,48.5455228,7.7712158
+1117109701,way,,park,Strasbourg,,,,48.5914351,7.706319
+1120054146,way,,park,Strasbourg,,,,48.5899849,7.703003
+1120054149,way,,garden,Strasbourg,,,,48.5899216,7.7049625
+1124155843,way,,park,Strasbourg,,,,48.5885837,7.6939249
+1125595397,way,,garden,Strasbourg,,,,48.6578065,7.8267409
+1154264077,way,Stade Walter,park,Strasbourg,,,,48.5398831,7.7735274
+1155449352,way,,park,Strasbourg,,,,48.6656206,7.7067121
+1177250838,way,,garden,Strasbourg,,,,48.5801983,7.7413915
+1189164554,way,,garden,Strasbourg,,,,48.582032,7.7650274
+1192728934,way,,park,Strasbourg,,,,48.5197361,7.7277115
+1204761395,way,,park,Strasbourg,,,,48.6070052,7.7429517
+1204871864,way,La côte de bœuf,restaurant,Strasbourg,,,https://www.restaurant-lacotedeboeuf.fr/,48.6526288,7.7326156
+1219493260,way,Poulapinier du Danube,garden,Strasbourg,,,,48.5730205,7.7680745
+1224584619,way,,park,Strasbourg,,,,48.5450079,7.7619418
+1234968068,way,Parc des sports,park,Strasbourg,,,,48.5969104,7.6921877
+1237994577,way,,garden,Strasbourg,,,,48.5780127,7.7653978
+1240693090,way,,garden,Strasbourg,,,,48.6071134,7.7669353
+1240693091,way,,garden,Strasbourg,,,,48.6070691,7.7668941
+1240693092,way,,garden,Strasbourg,,,,48.6070388,7.7668446
+1240855903,way,,garden,Strasbourg,,,,48.6079923,7.7650515
+1240855904,way,,garden,Strasbourg,,,,48.6081349,7.7647921
+1242621664,way,,garden,Strasbourg,,,,48.5287804,7.6626386
+1243585039,way,,garden,Strasbourg,,,,48.6084435,7.76763
+1244935284,way,Micro-ferme pédagogique des Cols Verts,garden,Strasbourg,,,,48.5838695,7.6976733
+1254926387,way,,garden,Strasbourg,,,,48.5945957,7.722437
+1254926390,way,,garden,Strasbourg,,,,48.5947784,7.7223216
+1254926392,way,,garden,Strasbourg,,,,48.5946786,7.7243434
+1255201524,way,,garden,Strasbourg,,,,48.5939223,7.7251687
+1255503176,way,,garden,Strasbourg,,,,48.5959787,7.7231591
+1255503185,way,,garden,Strasbourg,,,,48.5959541,7.7235013
+1255503186,way,,garden,Strasbourg,,,,48.5958495,7.7248833
+1256794099,way,,garden,Strasbourg,,,,48.5950385,7.7242039
+1256794100,way,,garden,Strasbourg,,,,48.595036,7.7239529
+1256794121,way,,garden,Strasbourg,,,,48.5944265,7.7251952
+1257172120,way,,garden,Strasbourg,,,,48.5965731,7.7193322
+1257172123,way,,garden,Strasbourg,,,,48.5967491,7.7193978
+1257172124,way,,garden,Strasbourg,,,,48.5968284,7.7192854
+1259038473,way,,garden,Strasbourg,,,,48.5971596,7.7208385
+1259319579,way,,garden,Strasbourg,,,,48.5978564,7.71957
+1259319585,way,,garden,Strasbourg,,,,48.5980404,7.7217366
+1259319591,way,,garden,Strasbourg,,,,48.5980818,7.7221009
+1259649387,way,,garden,Strasbourg,,,,48.5937389,7.7251474
+1260670535,way,,garden,Strasbourg,,,,48.5946108,7.7153945
+1260670539,way,,garden,Strasbourg,,,,48.59523,7.7157153
+1260670553,way,,garden,Strasbourg,,,,48.5958788,7.7173772
+1261787375,way,,garden,Strasbourg,,,,48.5932405,7.7130924
+1261793951,way,,garden,Strasbourg,,,,48.5919141,7.7161851
+1261793960,way,,garden,Strasbourg,,,,48.591109,7.7154939
+1261793963,way,,garden,Strasbourg,,,,48.5917447,7.7156918
+1261793964,way,,garden,Strasbourg,,,,48.5914968,7.7157538
+1262134744,way,,garden,Strasbourg,,,,48.5919704,7.7143957
+1262134752,way,,garden,Strasbourg,,,,48.5926361,7.714971
+1262134761,way,,garden,Strasbourg,,,,48.5929025,7.7139146
+1262267159,way,,garden,Strasbourg,,,,48.5913161,7.7149601
+1262267161,way,,garden,Strasbourg,,,,48.5914179,7.7140902
+1262460645,way,,garden,Strasbourg,,,,48.5903117,7.714761
+1262460647,way,,garden,Strasbourg,,,,48.5906834,7.7140873
+1262460652,way,,garden,Strasbourg,,,,48.5907646,7.7138022
+1262518193,way,,garden,Strasbourg,,,,48.5886439,7.718011
+1262518204,way,,garden,Strasbourg,,,,48.5942325,7.721129
+1263158471,way,,garden,Strasbourg,,,,48.5971055,7.7184918
+1263166593,way,,garden,Strasbourg,,,,48.5970698,7.7084298
+1263166602,way,,garden,Strasbourg,,,,48.5959663,7.7083744
+1263166610,way,,garden,Strasbourg,,,,48.596558,7.7089666
+1263166611,way,,garden,Strasbourg,,,,48.5966279,7.7087962
+1263166613,way,,garden,Strasbourg,,,,48.5961815,7.7092304
+1263166615,way,,garden,Strasbourg,,,,48.5963088,7.7085856
+1263422983,way,,garden,Strasbourg,,,,48.5993528,7.7095839
+1263422985,way,,garden,Strasbourg,,,,48.5993669,7.7090407
+1263448686,way,,garden,Strasbourg,,,,48.5971372,7.7073171
+1264556807,way,,garden,Strasbourg,,,,48.5978714,7.7142524
+1264556808,way,,garden,Strasbourg,,,,48.5979588,7.7136093
+1264556830,way,,garden,Strasbourg,,,,48.5944283,7.7205702
+1264756757,way,,garden,Strasbourg,,,,48.5989474,7.710544
+1265458177,way,,garden,Strasbourg,,,,48.5933558,7.7250604
+1266119127,way,,garden,Strasbourg,,,,48.596556,7.7242337
+1266119132,way,,garden,Strasbourg,,,,48.5966538,7.7233038
+1266172729,way,,garden,Strasbourg,,,,48.5974071,7.724514
+1266222444,way,,garden,Strasbourg,,,,48.5974346,7.7115773
+1266222458,way,,garden,Strasbourg,,,,48.5983123,7.7104378
+1266222459,way,,garden,Strasbourg,,,,48.5980576,7.7104992
+1266453419,way,Place Saint-Antoine,park,Strasbourg,,,,48.5984196,7.7081861
+1266453429,way,,garden,Strasbourg,,,,48.5966398,7.7102839
+1266453434,way,,garden,Strasbourg,,,,48.5969922,7.7109216
+1266453435,way,,garden,Strasbourg,,,,48.5970864,7.7110955
+1267157509,way,,garden,Strasbourg,,,,48.4895547,7.7159144
+1267184115,way,,garden,Strasbourg,,,,48.4881698,7.7068559
+1267248144,way,,garden,Strasbourg,,,,48.4889947,7.7085673
+1267248175,way,,garden,Strasbourg,,,,48.4879203,7.7090973
+1267342477,way,,garden,Strasbourg,,,,48.4885859,7.7064794
+1267349869,way,,garden,Strasbourg,,,,48.4853169,7.7129575
+1267349876,way,,garden,Strasbourg,,,,48.4853586,7.7097567
+1267377481,way,,garden,Strasbourg,,,,48.4853134,7.7136197
+1267654135,way,,garden,Strasbourg,,,,48.599057,7.7089368
+1267654137,way,,garden,Strasbourg,,,,48.5981277,7.7065249
+1267654138,way,,garden,Strasbourg,,,,48.5982629,7.7066415
+1267654160,way,,garden,Strasbourg,,,,48.6001473,7.7086747
+1267654161,way,,garden,Strasbourg,,,,48.6000643,7.7083345
+1267654188,way,,garden,Strasbourg,,,,48.5996806,7.7080462
+1267654189,way,,garden,Strasbourg,,,,48.5998173,7.7082521
+1267725075,way,,garden,Strasbourg,,,,48.4870784,7.7203181
+1267725082,way,,garden,Strasbourg,,,,48.4868714,7.716116
+1267725083,way,,garden,Strasbourg,,,,48.4867581,7.7160684
+1267780041,way,,garden,Strasbourg,,,,48.5650373,7.7017153
+1267863743,way,,garden,Strasbourg,,,,48.5994083,7.7113478
+1267863744,way,,garden,Strasbourg,,,,48.5993615,7.7109759
+1267867912,way,,garden,Strasbourg,,,,48.6011302,7.7088467
+1267867913,way,,garden,Strasbourg,,,,48.6012908,7.7084354
+1267867921,way,,garden,Strasbourg,,,,48.6009583,7.7089744
+1267867932,way,,garden,Strasbourg,,,,48.6015654,7.7090434
+1267867940,way,,garden,Strasbourg,,,,48.6013177,7.7094871
+1267867942,way,,garden,Strasbourg,,,,48.6012331,7.7091883
+1267931416,way,,garden,Strasbourg,,,,48.4871687,7.7148186
+1267931453,way,,garden,Strasbourg,,,,48.4880697,7.7160404
+1267931466,way,,garden,Strasbourg,,,,48.4877726,7.7179158
+1267931483,way,,garden,Strasbourg,,,,48.4875596,7.7173099
+1267931485,way,,garden,Strasbourg,,,,48.4872209,7.717659
+1267931493,way,,garden,Strasbourg,,,,48.4879821,7.7163491
+1267931496,way,,garden,Strasbourg,,,,48.4881745,7.7162894
+1268119987,way,,garden,Strasbourg,,,,48.4870416,7.7208229
+1268119988,way,,garden,Strasbourg,,,,48.4870463,7.7211162
+1268144293,way,,garden,Strasbourg,,,,48.4842297,7.7159828
+1268144332,way,,garden,Strasbourg,,,,48.4849355,7.7156025
+1268144333,way,,garden,Strasbourg,,,,48.4850293,7.7150726
+1268144342,way,,garden,Strasbourg,,,,48.4848998,7.7162913
+1268159093,way,,garden,Strasbourg,,,,48.4858304,7.715611
+1268176713,way,,garden,Strasbourg,,,,48.5972414,7.7050976
+1268176716,way,,garden,Strasbourg,,,,48.5973719,7.7050211
+1268176721,way,,garden,Strasbourg,,,,48.597702,7.7046073
+1268176726,way,,garden,Strasbourg,,,,48.5986499,7.7061334
+1268176756,way,,garden,Strasbourg,,,,48.5979006,7.7056942
+1268183322,way,,garden,Strasbourg,,,,48.5657817,7.702386
+1268567407,way,,garden,Strasbourg,,,,48.4864884,7.7120665
+1268567413,way,,garden,Strasbourg,,,,48.4863757,7.7115988
+1268572128,way,,garden,Strasbourg,,,,48.4866662,7.7107389
+1268975471,way,,garden,Strasbourg,,,,48.4767971,7.7082225
+1268975478,way,,garden,Strasbourg,,,,48.4769846,7.7083873
+1268975501,way,,garden,Strasbourg,,,,48.4776619,7.7087058
+1269008454,way,,garden,Strasbourg,,,,48.4767218,7.707333
+1269008455,way,,garden,Strasbourg,,,,48.4762836,7.7072423
+1269008460,way,,garden,Strasbourg,,,,48.4759817,7.7081177
+1269008462,way,,garden,Strasbourg,,,,48.4763239,7.7085855
+1269008471,way,,garden,Strasbourg,,,,48.4766476,7.7077143
+1269094248,way,,garden,Strasbourg,,,,48.4765058,7.7099319
+1269094254,way,,garden,Strasbourg,,,,48.4770056,7.7116575
+1269094266,way,,garden,Strasbourg,,,,48.4754051,7.7070962
+1269094267,way,,garden,Strasbourg,,,,48.4751505,7.7079185
+1271501649,way,,garden,Strasbourg,,,,48.4921781,7.7297496
+1271501672,way,,garden,Strasbourg,,,,48.4913953,7.7306323
+1271664843,way,,garden,Strasbourg,,,,48.4876678,7.7266513
+1271664844,way,,garden,Strasbourg,,,,48.4873205,7.7252807
+1271664845,way,,garden,Strasbourg,,,,48.4873396,7.7239654
+1271780406,way,,garden,Strasbourg,,,,48.4904983,7.7150515
+1271780421,way,,garden,Strasbourg,,,,48.4907818,7.7159798
+1272041121,way,,garden,Strasbourg,,,,48.4799806,7.7089642
+1272157583,way,,garden,Strasbourg,,,,48.4897198,7.7264542
+1272162454,way,,garden,Strasbourg,,,,48.4899735,7.721741
+1272162463,way,,garden,Strasbourg,,,,48.4888664,7.7224397
+1272162465,way,,garden,Strasbourg,,,,48.4887992,7.723158
+1272162466,way,,garden,Strasbourg,,,,48.4887715,7.7219066
+1272323069,way,,garden,Strasbourg,,,,48.4895885,7.7183587
+1272484305,way,,garden,Strasbourg,,,,48.4909926,7.7131329
+1272865271,way,,garden,Strasbourg,,,,48.494264,7.7150282
+1272865274,way,,garden,Strasbourg,,,,48.4943745,7.7160575
+1272865275,way,,garden,Strasbourg,,,,48.4943216,7.7157681
+1274344541,way,,garden,Strasbourg,,,,48.4915833,7.7117205
+1274344548,way,,garden,Strasbourg,,,,48.490305,7.7118021
+1274344549,way,,garden,Strasbourg,,,,48.4905409,7.7111429
+1274344565,way,,garden,Strasbourg,,,,48.4920934,7.7142221
+1274344579,way,,garden,Strasbourg,,,,48.4796391,7.7106345
+1274344580,way,,garden,Strasbourg,,,,48.4798242,7.7111429
+1274821982,way,,garden,Strasbourg,,,,48.4898328,7.7279116
+1275507716,way,,garden,Strasbourg,,,,48.4824652,7.705753
+1275551098,way,,garden,Strasbourg,,,,48.480492,7.7126352
+1276026838,way,,garden,Strasbourg,,,,48.5563765,7.7062549
+1276315043,way,,garden,Strasbourg,,,,48.5562333,7.7068357
+1276315047,way,,garden,Strasbourg,,,,48.5564129,7.7076332
+1276315057,way,,garden,Strasbourg,,,,48.5563292,7.7072519
+1276497954,way,,garden,Strasbourg,,,,48.557293,7.7067478
+1276742219,way,,garden,Strasbourg,,,,48.5574383,7.7089276
+1276742221,way,,garden,Strasbourg,,,,48.5568047,7.7094689
+1276742222,way,,garden,Strasbourg,,,,48.5571918,7.7090675
+1276759120,way,,garden,Strasbourg,,,,48.5578638,7.7096524
+1278711502,way,,garden,Strasbourg,,,,48.4790723,7.7083
+1279107879,way,,garden,Strasbourg,,,,48.5580061,7.7104236
+1279107895,way,,garden,Strasbourg,,,,48.5587539,7.711655
+1279127668,way,,garden,Strasbourg,,,,48.5576152,7.7113767
+1279127669,way,,garden,Strasbourg,,,,48.5579335,7.7115037
+1279127670,way,,garden,Strasbourg,,,,48.5579874,7.711169
+1279287252,way,,garden,Strasbourg,,,,48.5571522,7.7116206
+1279287253,way,,garden,Strasbourg,,,,48.556743,7.7113447
+1279355855,way,,garden,Strasbourg,,,,48.5568662,7.7143568
+1279355856,way,,garden,Strasbourg,,,,48.5568176,7.714029
+1279361738,way,,garden,Strasbourg,,,,48.5578547,7.7140451
+1279694971,way,,garden,Strasbourg,,,,48.5585904,7.7160062
+1280800459,way,,garden,Strasbourg,,,,48.5583041,7.7171414
+1280816640,way,,garden,Strasbourg,,,,48.5578369,7.7173129
+1280816641,way,,garden,Strasbourg,,,,48.5577164,7.7172316
+1280816642,way,,garden,Strasbourg,,,,48.5580112,7.717504
+1280816665,way,,garden,Strasbourg,,,,48.5576997,7.7161801
+1281123772,way,,garden,Strasbourg,,,,48.5565148,7.717511
+1281983189,way,,garden,Strasbourg,,,,48.5430211,7.7034259
+1284339211,way,,garden,Strasbourg,,,,48.5380531,7.7078157
+1284809906,way,,garden,Strasbourg,,,,48.535434,7.7106859
+1286519278,way,,garden,Strasbourg,,,,48.5430685,7.7069208
+1286519280,way,,garden,Strasbourg,,,,48.5430267,7.706364
+1286519286,way,,garden,Strasbourg,,,,48.5429061,7.7062709
+1286519287,way,,garden,Strasbourg,,,,48.5429094,7.7054667
+1286519290,way,,garden,Strasbourg,,,,48.5431538,7.7062727
+1286519301,way,,garden,Strasbourg,,,,48.5448345,7.7076458
+1286519304,way,,garden,Strasbourg,,,,48.5446545,7.708607
+1286748952,way,,garden,Strasbourg,,,,48.5396217,7.70986
+1287586081,way,,garden,Strasbourg,,,,48.5507116,7.7077856
+1287586113,way,,garden,Strasbourg,,,,48.5501388,7.7065585
+1287586114,way,,garden,Strasbourg,,,,48.5498229,7.7065765
+1287586115,way,,garden,Strasbourg,,,,48.5484837,7.7071087
+1288433755,way,,garden,Strasbourg,,,,48.5388451,7.7080469
+1288609678,way,,garden,Strasbourg,,,,48.5387843,7.6927337
+1288857788,way,,garden,Strasbourg,,,,48.5495014,7.6998713
+1288864232,way,,garden,Strasbourg,,,,48.5438121,7.7129147
+1288864233,way,,garden,Strasbourg,,,,48.543006,7.712429
+1288864234,way,,garden,Strasbourg,,,,48.5430039,7.7126811
+1288864235,way,,garden,Strasbourg,,,,48.5430904,7.7130613
+1288864251,way,,garden,Strasbourg,,,,48.5430544,7.7102342
+1288864253,way,,garden,Strasbourg,,,,48.5421976,7.7112633
+1288871772,way,,garden,Strasbourg,,,,48.542713,7.7071182
+1288915714,way,,garden,Strasbourg,,,,48.5448846,7.704892
+1288915715,way,,garden,Strasbourg,,,,48.5450369,7.7048008
+1289689417,way,,garden,Strasbourg,,,,48.5341665,7.7196403
+1289701563,way,,garden,Strasbourg,,,,48.5185963,7.710983
+1290476812,way,,garden,Strasbourg,,,,48.5335305,7.7244563
+1291660510,way,Le Domino,hotel,Strasbourg,,,,48.5469028,7.7328743
+1293962780,way,,garden,Strasbourg,,,,48.5198157,7.7119927
+1294655108,way,,garden,Strasbourg,,,,48.5200801,7.7069231
+1302466273,way,,garden,Strasbourg,,,,48.5131058,7.6496378
+1302466280,way,,garden,Strasbourg,,,,48.5135659,7.6498301
+1302522442,way,,garden,Strasbourg,,,,48.5173226,7.6484726
+1302522466,way,,garden,Strasbourg,,,,48.5154254,7.6498983
+1302522467,way,,garden,Strasbourg,,,,48.5160919,7.6499473
+1304802334,way,,garden,Strasbourg,,,,48.5743809,7.7891411
+1305904355,way,Square Châteaubriand,park,Strasbourg,,,,48.6142086,7.7362694
+1307193887,way,,park,Strasbourg,,,,48.485175,7.7213658
+1307195335,way,Cœur de vie,park,Strasbourg,,,,48.4858654,7.720603
+1308758335,way,,park,Strasbourg,,,,48.514515,7.6568126
+1324641286,way,Promenade Citadelle,park,Strasbourg,,,,48.571452,7.7821285
+1324952825,way,Square Redslob,park,Strasbourg,,,,48.6094694,7.7829096
+1373673246,way,Parc du Petit Rhin,park,Strasbourg,,,,48.5747981,7.7853784
+1411081017,way,,castle,Strasbourg,,,,48.61118,7.6817871
+1426180112,way,BOMA,hotel,Strasbourg,,,,48.5832772,7.7417619
+1427927896,way,,park,Strasbourg,,,,48.566172,7.7589761
+1428013922,way,,garden,Strasbourg,,,,48.5659139,7.7600698
+1428013923,way,,garden,Strasbourg,,,,48.5657975,7.7599338
+1428248520,way,,garden,Strasbourg,,,,48.5657859,7.7591243
+1451114198,way,,park,Strasbourg,,,,48.6594509,7.8261072
+1455815753,way,,garden,Strasbourg,,,,48.5821649,7.6907273
+1463180514,way,,garden,Strasbourg,,,,48.5675856,7.7598691
+1463180515,way,,garden,Strasbourg,,,,48.5675018,7.7595526
+1463180516,way,,garden,Strasbourg,,,,48.567451,7.7593574
+1463180517,way,,garden,Strasbourg,,,,48.5673716,7.7590496
+1463180518,way,,garden,Strasbourg,,,,48.5672857,7.7587039
+1463180519,way,,garden,Strasbourg,,,,48.5671832,7.7582992
+1463180520,way,,garden,Strasbourg,,,,48.5675976,7.7601552
+1463180526,way,,garden,Strasbourg,,,,48.5672729,7.7588856
+1463180527,way,,garden,Strasbourg,,,,48.567194,7.7585834
+1463720128,way,,park,Strasbourg,,,,48.6222941,7.7475327
+1463720130,way,,park,Strasbourg,,,,48.6217373,7.7475715
+1467986294,way,,garden,Strasbourg,,,,48.5645323,7.7591899
+1467986295,way,,garden,Strasbourg,,,,48.5642744,7.7589557
+1467986296,way,,garden,Strasbourg,,,,48.5644783,7.7594452
+1469190563,way,,garden,Strasbourg,,,,48.5724267,7.7563372
+1469923006,way,,garden,Strasbourg,,,,48.6484294,7.6864324
+1469923007,way,,garden,Strasbourg,,,,48.6479452,7.6874575
+1495471647,way,,garden,Strasbourg,,,,48.5577114,7.7594841
+1495830469,way,,park,Strasbourg,,,,48.5625458,7.755999
+1499309821,way,,park,Strasbourg,,,,48.5606987,7.759754
+1501340497,way,,garden,Strasbourg,,,,48.5325253,7.7069541
+1502772176,way,,park,Strasbourg,,,,48.5152401,7.6865822
+1514007614,way,Place de Haldenbourg,park,Strasbourg,,,,48.6035912,7.7126759
+1525474994,way,,artwork,Strasbourg,,,,48.5800709,7.7362879
+222411,relation,Madame C – Hôtel,hotel,Strasbourg,"10 Rue des Sœurs, 67000, Strasbourg",67000,https://madamec-strasbourg.fr/,48.5825284,7.7539829
+223820,relation,Le Gruber,restaurant,Strasbourg,,,,48.5806321,7.7505316
+226986,relation,Palais du Rhin,castle,Strasbourg,,,,48.5876408,7.7525666
+273930,relation,Le Buerehiesel,restaurant,Strasbourg,4 Parc de l'Orangerie,,https://www.buerehiesel.fr/,48.5913573,7.7753694
+274225,relation,Parc de l'Orangerie,park,Strasbourg,,,,48.5917374,7.7761832
+280383,relation,Parc des Poteries,park,Strasbourg,,,,48.5862085,7.6938899
+306857,relation,Square René Laënnec,park,Strasbourg,,,,48.5590778,7.7084178
+308077,relation,Place du Bois de Rose,park,Strasbourg,,,,48.569546,7.7506103
+368597,relation,,park,Strasbourg,,,,48.5846874,7.7613911
+368598,relation,,park,Strasbourg,,,,48.5853627,7.7617743
+3541088,relation,Cathédrale Notre-Dame,attraction,Strasbourg,,,https://www.cathedrale-strasbourg.fr/,48.5818887,7.7510344
+4445233,relation,,beach,Strasbourg,,,,48.6090923,7.8100777
+4445234,relation,Plage du Blauelsand,beach,Strasbourg,,,,48.6236719,7.8280669
+5354622,relation,Circuit « Petite France »,attraction,Strasbourg,,,http://www.petit-train-strasbourg.fr/,48.5807382,7.7449813
+5758509,relation,Place Arnold,park,Strasbourg,,,,48.5846732,7.7699844
+6580234,relation,,park,Strasbourg,,,,48.5355179,7.6368728
+8240757,relation,Restaurant Universitaire Paul Appell,restaurant,Strasbourg,"23 Rue du Jura, 67000, Strasbourg",67000,https://www.crous-strasbourg.fr/restaurant/resto-u-paul-appell/,48.5759619,7.762996
+9323958,relation,,park,Strasbourg,,,,48.5378836,7.6454826
+11684276,relation,,park,Strasbourg,,,,48.511257,7.7222521
+12635817,relation,Kurgarten,park,Strasbourg,,,,48.5619297,7.7743577
+13161536,relation,Jardin du Schloessel,park,Strasbourg,,,,48.5762378,7.7145024
+16782493,relation,De la Grande île à la Neustadt,attraction,Strasbourg,,,http://www.petit-train-strasbourg.fr/,48.5849316,7.7539938

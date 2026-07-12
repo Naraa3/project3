@@ -1,13 +1,23 @@
 osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 461684800,node,La Salamandre,restaurant,Amboise,,,,47.415796,0.9829951
+461694039,node,Pagode de Chanteloup,attraction,Amboise,,,https://www.pagode-chanteloup.com/,47.391112,0.9701246
+670138839,node,,viewpoint,Amboise,,,,47.3910709,0.9701803
 781657413,node,Hôtel le Français,hotel,Amboise,6 Rue Voltaire,,,47.4118492,0.9814674
 781662210,node,Le Manoir Saint-Thomas,hotel,Amboise,1,,https://www.manoir-saint-thomas.com/,47.4104356,0.9868404
 781795755,node,Le Lion d'Or,restaurant,Amboise,17 Quai Charles Guinot,,,47.4137127,0.984846
+961288059,node,,viewpoint,Amboise,,,,47.4144037,0.9697441
 1089279324,node,,hotel,Amboise,,,,47.5255719,1.0441882
 1419371876,node,Le Petit Lussault,hotel,Amboise,,,,47.4090561,0.9462769
+1517051946,node,Musée de l'Hôtel de Ville,museum,Amboise,"Rue François 1er, 37400, Amboise",37400,https://www.ville-amboise.fr/97/musee-hotel-morin.htm,47.4131973,0.9839918
+1794304583,node,,memorial,Amboise,,,,47.4868634,0.9482851
 2069623300,node,Château du Perreux,hotel,Amboise,,,,47.4368311,0.9679579
+2222493767,node,Atelier Galerie Martine Scouarnec,attraction,Amboise,,,,47.4409542,0.986392
+2235383796,node,Domaine Cocteaux,attraction,Amboise,,,,47.505354,1.0659744
 2391114066,node,Ibis Budget Amboise,hotel,Amboise,,,,47.3977692,0.9887669
 2391114067,node,Novotel Amboise,hotel,Amboise,,,,47.3978051,0.9897003
+2530436676,node,,memorial,Amboise,,,,47.4440869,0.9899854
+2800021477,node,Prieuré de Montoussan,ruins,Amboise,,,,47.4028598,1.0717163
+3026812909,node,,viewpoint,Amboise,,,,47.4127773,0.9890433
 3035683135,node,L'Ambacia,restaurant,Amboise,,,,47.412739,0.9846782
 3035683137,node,,restaurant,Amboise,,,,47.412723,0.9848709
 3035683233,node,Via Roma,restaurant,Amboise,,,,47.4127577,0.9845487
@@ -31,31 +41,99 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3441408319,node,Bellevue,hotel,Amboise,"12 Quai Charles Guinot, 37400, Amboise",37400,https://hotel-bellevue-amboise.com/,47.4134823,0.9843541
 3441408320,node,Lounge B,restaurant,Amboise,"12 Quai Charles Guinot, 37400, Amboise",37400,,47.4135086,0.9844664
 3441500679,node,La Terrasse,restaurant,Amboise,7 Rue Victor Hugo,,,47.4124916,0.9875047
+4085727446,node,Manoir d'Anzan,castle,Amboise,,,,47.4252934,0.9104398
 4679413889,node,Les Platanes,restaurant,Amboise,,,,47.4206507,0.9748707
 4685783089,node,Patisserie Boulay,restaurant,Amboise,,,,47.412641,0.9841231
 4692427178,node,Le Français,restaurant,Amboise,1,,,47.4120093,0.9812566
 4773356823,node,Le Parvis,restaurant,Amboise,Rue Mirabeau,,,47.412389,0.9862716
 4773389021,node,L'Alliance,restaurant,Amboise,14 Rue Joyeuse,,,47.4107962,0.9851454
 4825666321,node,Hôtel Restaurant La Brèche,hotel,Amboise,,,,47.4203622,0.9819222
+4907303493,node,Manoir de Villefrault,castle,Amboise,,,,47.4066467,0.938175
+4909507231,node,Monument aux Morts,memorial,Amboise,,,,47.4678065,0.9942475
 5108968318,node,Le Choiseul,hotel,Amboise,,,,47.4150517,0.9884691
 5108968319,node,Le Manoir Les Minimes,hotel,Amboise,"34 Quai Charles Guinot, 37400, Amboise",37400,https://manoirlesminimes.com/,47.4150151,0.9878048
+5313879920,node,Château de Pintray,castle,Amboise,,,,47.3820091,0.9141356
+5761856111,node,Léonard de Vinci,artwork,Amboise,,,,47.4159311,0.9856099
 5825579155,node,La Fourchette,restaurant,Amboise,,,,47.4121388,0.9824209
+5871986556,node,,viewpoint,Amboise,,,,47.4118737,0.9908084
+5871986557,node,,viewpoint,Amboise,,,,47.4133081,0.9850569
+5871986558,node,,viewpoint,Amboise,,,,47.4138732,0.9861507
+5871986559,node,,viewpoint,Amboise,,,,47.414214,0.9876259
+5871986560,node,,viewpoint,Amboise,,,,47.4127461,0.9882479
+5871986561,node,,viewpoint,Amboise,,,,47.4126695,0.9869142
+5878989686,node,,viewpoint,Amboise,,,,47.417801,0.9819779
 7050019089,node,L’Auberge du Prieuré,restaurant,Amboise,,,,47.4078434,0.9904372
+7093332623,node,Le pigeonnier,attraction,Amboise,,,,47.4082322,0.9907293
+7137062385,node,,viewpoint,Amboise,,,,47.4153354,0.9839068
 7137535585,node,L'Aubiniere,restaurant,Amboise,29 Rue Jules Gautier,,https://aubiniere.com/,47.4704131,0.9936662
+7236956985,node,,viewpoint,Amboise,,,,47.4127549,0.9876581
+7237247985,node,,memorial,Amboise,,,,47.4137319,0.9844359
 7747353711,node,Baalbeck,restaurant,Amboise,"42 Rue Nationale, 37400, Amboise",37400,,47.4118365,0.9827426
 8378207209,node,La Pause du Temps,restaurant,Amboise,"80 Rue Nationale, 37400, Amboise",37400,,47.4112004,0.9810281
+8481121295,node,Leonardo da Vinci,artwork,Amboise,,,,47.4133959,0.9868969
+8518213182,node,,artwork,Amboise,,,,47.4102275,0.9864132
+8643361917,node,,memorial,Amboise,,,,47.5125931,0.9111108
+8841050235,node,Le Garage Centre d'Art,gallery,Amboise,,,https://www.ville-amboise.fr/legarage,47.4118184,0.986831
 8870390411,node,La terrasse renaissance,restaurant,Amboise,,,,47.4105942,0.9915334
 8870390413,node,La Table du Moulin,restaurant,Amboise,,,,47.4094007,0.9915938
 8922491417,node,L'Écluse,restaurant,Amboise,,,https://www.ecluse-amboise.fr/,47.4116943,0.9875424
 8922493319,node,Le Patio,restaurant,Amboise,,,https://m.facebook.com/lepatioamboise,47.4124513,0.9838336
 8922499217,node,L'Îlot,restaurant,Amboise,,,,47.4103672,0.9838988
 8922508717,node,Les Arpents,restaurant,Amboise,,,https://restaurant-lesarpents.fr,47.4121083,0.9839862
+9349676827,node,,memorial,Amboise,,,,47.4135394,1.0240285
 9723700508,node,La Réserve,restaurant,Amboise,,,,47.4126813,0.985347
+10152786342,node,1 Chateaudun,artwork,Amboise,,,,47.3921429,1.0038892
+10152786412,node,2 Blois,artwork,Amboise,,,,47.3919958,1.0039599
+10152786413,node,3 Talcy,artwork,Amboise,,,,47.3920244,1.0041255
+10152786414,node,4 Chamerolles,artwork,Amboise,,,,47.3919083,1.0042941
+10152786415,node,6 Sully-sur-Loire,artwork,Amboise,,,,47.391525,1.0043723
+10152786416,node,7 Chambord,artwork,Amboise,,,,47.3914947,1.0041406
+10152789617,node,5 La Bussiére,artwork,Amboise,,,,47.3918257,1.0043916
+10152789618,node,8 Beauregard,artwork,Amboise,,,,47.3916516,1.004042
+10152789619,node,9 Cheverny,artwork,Amboise,,,,47.3917472,1.0038835
+10152789620,node,10 Chaumont,artwork,Amboise,,,,47.3919275,1.0038062
+10152789621,node,11 Chanteloup,artwork,Amboise,,,,47.3918009,1.0034566
+10152789622,node,12 Jaillanges,artwork,Amboise,,,,47.3917534,1.0036497
+10152789633,node,14 Troussay,artwork,Amboise,,,,47.3913261,1.0037025
+10152789634,node,15 Valençay,artwork,Amboise,,,,47.3914778,1.0033608
+10152789635,node,13 Sarzay,artwork,Amboise,,,,47.3915181,1.0037076
+10152789636,node,17 Chenonceau,artwork,Amboise,,,,47.3916695,1.0032548
+10152789637,node,16 Montrésor,artwork,Amboise,,,,47.3914862,1.0031509
+10152789656,node,21 Amboise,artwork,Amboise,,,,47.3920563,1.0033337
+10152789657,node,22 Villandry,artwork,Amboise,,,,47.3920761,1.0028059
+10152789658,node,25 Montpoupon,artwork,Amboise,,,,47.3918603,1.0029927
+10152789659,node,26 Loches,artwork,Amboise,,,,47.3915421,1.0027905
+10152789660,node,24 Azay-le-Rideau,artwork,Amboise,,,,47.3918303,1.0027546
+10152789661,node,23 Rigny-Ussé,artwork,Amboise,,,,47.3920705,1.0025713
+10152789662,node,28 Bouchet-en-Brenne,artwork,Amboise,,,,47.3913774,1.0025888
+10152789663,node,27 Guilleaume,artwork,Amboise,,,,47.3912817,1.0028418
+10152789664,node,29 La Guerche,artwork,Amboise,,,,47.3914817,1.0024125
+10152789666,node,30 Azay-le-Ferron,artwork,Amboise,,,,47.3916161,1.0025993
+10152789667,node,31 Chinon,artwork,Amboise,,,,47.391865,1.0025469
+10152789669,node,32 Montreuil-en-Bellay,artwork,Amboise,,,,47.3920476,1.0020903
+10152789670,node,34 Saumur,artwork,Amboise,,,,47.3921646,1.002249
+10152789683,node,33 Fontevraud,artwork,Amboise,,,,47.3920519,1.0022737
+10152789684,node,35 Angers,artwork,Amboise,,,,47.3923185,1.0021693
+10152789685,node,36 les Reaux,artwork,Amboise,,,,47.3923185,1.0023286
+10152789686,node,37 Brissac,artwork,Amboise,,,,47.392349,1.0025754
+10152789687,node,38 Langeais,artwork,Amboise,,,,47.3922688,1.0026701
+10152789688,node,39 Gizeux,artwork,Amboise,,,,47.3923802,1.0027276
+10152789689,node,40 le Lude,artwork,Amboise,,,,47.392391,1.0029515
+10152789692,node,41 Champchevrier,artwork,Amboise,,,,47.3922562,1.0031842
+10704744249,node,La France Libérée,artwork,Amboise,,,,47.4032165,1.0181438
+10720920376,node,Monnument aux Morts,memorial,Amboise,,,,47.429147,0.9545164
+10798819068,node,Le Crinkly,artwork,Amboise,,,,47.4131024,0.9838276
 10804053611,node,Les 4 saisons - crêperie,restaurant,Amboise,44 Place Michel Debré,,,47.4126131,0.986023
 10834261111,node,Domaine de L'Arbrelle,hotel,Amboise,,,,47.3894376,1.0139957
+11010583000,node,,artwork,Amboise,,,,47.4251413,1.0157903
+11010583001,node,,artwork,Amboise,,,,47.4252471,1.0160459
+11010583002,node,,artwork,Amboise,,,,47.4251959,1.0159057
 11405307069,node,Le Maître d'Art,restaurant,Amboise,"1 Rue de la Malonnière, 37400",37400,,47.4104338,0.9923243
 11457541625,node,Power One Sushi,restaurant,Amboise,"208 Avenue Léonard de Vinci, 37400, Amboise",37400,http://power-one-sushi.eatbu.com,47.4041589,1.0158367
 11778824160,node,La Fabrique,restaurant,Amboise,,,,47.4111747,0.9809361
+11778824161,node,,memorial,Amboise,,,,47.4136654,0.9853716
+11931748083,node,,artwork,Amboise,,,,47.4129327,0.9879911
+11931748133,node,,artwork,Amboise,,,,47.4129773,0.988006
 12036520775,node,La suite,restaurant,Amboise,"14 Rue Nationale, 37400, Amboise",37400,,47.4125092,0.9838909
 12036546316,node,L'amboisie,restaurant,Amboise,"68 Rue Nationale, 37400, Amboise",37400,https://bistrotamboisie.fr/,47.4113975,0.9816323
 12036546317,node,Nomads,restaurant,Amboise,"96 Rue Nationale, 37400, Amboise",37400,,47.4110408,0.9804373
@@ -65,9 +143,120 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 12339034942,node,La Planque,restaurant,Amboise,,,,47.4113314,0.9873741
 12341075297,node,Sakana,restaurant,Amboise,,,,47.4164653,1.0159228
 12423143923,node,Auberge de Launay,hotel,Amboise,,,,47.4464157,1.0482708
+12774549679,node,François 1er chez Leonard de Vinci,artwork,Amboise,,,,47.4117352,0.9793053
+12789112384,node,,memorial,Amboise,,,,47.3979053,0.9164424
+12789112412,node,,memorial,Amboise,,,,47.4088635,1.0559381
+12789112464,node,,memorial,Amboise,,,,47.409605,1.0929009
+12789112465,node,Musée de la Résistance et de la Bataille de la Loire,museum,Amboise,,,,47.4360671,1.054951
+12789112492,node,,memorial,Amboise,,,,47.4309283,1.0330568
+12789112493,node,,memorial,Amboise,,,,47.4336967,1.0298207
+12996274204,node,,artwork,Amboise,,,,47.4213784,0.8909532
+13027440668,node,,ruins,Amboise,,,,47.3928985,0.9727061
+13103820932,node,La roue à écureuil,artwork,Amboise,,,,47.4080802,0.9922303
+13103849608,node,la clairière,artwork,Amboise,,,,47.4083713,0.9916801
+13103856528,node,Le Chadouf,artwork,Amboise,,,,47.4084836,0.9915751
+13103865347,node,Le bateau a aubes,artwork,Amboise,,,,47.4081719,0.9925832
+13103865744,node,L'hélice volante,artwork,Amboise,,,,47.40925,0.9922753
+13103867402,node,La roue à aubes,artwork,Amboise,,,,47.4081371,0.9930002
+13103868002,node,La perspective du Prieuré,artwork,Amboise,,,,47.4082254,0.9919956
+13103870221,node,Galerie Léonard de Vincì,gallery,Amboise,,,,47.4096004,0.9908176
 13195305782,node,Guinguette Sauvage,restaurant,Amboise,"15 Levée de la Loire, 37530, Chargé",37530,,47.4401189,1.0461948
+13250142795,node,Le Fils De L'homme,artwork,Amboise,,,,47.4127049,0.9852705
+13250142796,node,Fleur,artwork,Amboise,,,,47.412015,0.9831913
+13250142797,node,Vierge à l'enfant,artwork,Amboise,,,,47.4125547,0.9839633
+13250142798,node,Moe,artwork,Amboise,,,,47.4125287,0.9866961
+13272441507,node,,memorial,Amboise,,,,47.4221556,1.0609282
+13411004726,node,,ruins,Amboise,,,,47.4162216,1.0729572
+13587913054,node,Galerie Victor Hugo,gallery,Amboise,,,,47.4122448,0.9886898
 13722408671,node,Hôtel Chaptal (logis hotels),hotel,Amboise,,,,47.411042,0.982518
 13722452283,node,Le Clos d'Amboise,hotel,Amboise,,,,47.4105314,0.983815
 13722452289,node,Au charme rabelaisien,hotel,Amboise,,,,47.4105165,0.9835848
+13722461876,node,,artwork,Amboise,,,,47.4119926,0.9832996
 13722461879,node,Le Pavillon des Lys,hotel,Amboise,,,,47.4118434,0.9844163
+13722464809,node,,artwork,Amboise,,,,47.4123593,0.9836337
+13722488271,node,,memorial,Amboise,,,,47.4055961,0.9861096
+13723283336,node,,memorial,Amboise,,,,47.4595117,1.0419005
 13986529187,node,La Bonne Franquette,restaurant,Amboise,,,,47.4209584,0.8909081
+31174159,way,Tour Garçonnet,attraction,Amboise,,,,47.4132779,0.9850494
+62778596,way,Château-Gaillard,castle,Amboise,,,http://www.chateau-gaillard-amboise.fr/,47.4104559,0.9993414
+62780830,way,Hôtel Le Blason,hotel,Amboise,"11 Place Richelieu, 37400, Amboise",37400,,47.4106151,0.9851434
+62781143,way,,castle,Amboise,,,,47.3712168,1.0322542
+62782286,way,Château du Clos Lucé,museum,Amboise,"2 Rue du Clos Lucé, 37400",37400,https://www.vinci-closluce.com/,47.4103291,0.992061
+62782677,way,éthic étapes Ile d'Or,hotel,Amboise,,,https://www.ethic-etapes.fr/ethic-etapes-ile-dor,47.4154841,0.9823023
+62784595,way,,memorial,Amboise,,,,47.4119736,0.9789461
+62787918,way,Poké Sushi,restaurant,Amboise,"98 Rue Nationale, 37400, Amboise",37400,,47.4110113,0.9803055
+62788152,way,Best Western Hotel Le Vinci,hotel,Amboise,"Avenue Émile Gounin, 37400",37400,https://www.vinciloirevalley.com/,47.4003088,0.9793504
+67689131,way,Château des Arpentis,castle,Amboise,,,,47.4076211,1.0271236
+68804546,way,Château de Pintray,castle,Amboise,,,http://www.chateau-de-pintray.com/,47.3817991,0.9141168
+68804649,way,,memorial,Amboise,,,,47.3981676,0.9215042
+130655576,way,Restaurant Liberté,restaurant,Amboise,"19 Rue de la République, 37380, Neuillé-le-Lierre",37380,https://www.liberte-restaurant.fr,47.5102775,0.908514
+141161813,way,Château de Pray,restaurant,Amboise,"Rue du Cèdre, 37530",37530,,47.4250008,1.0160587
+141161825,way,,castle,Amboise,,,,47.4295612,1.0254789
+166419109,way,Square François Le Coz,garden,Amboise,,,,47.4118826,0.986904
+176699222,way,Château d'Amboise,attraction,Amboise,,,https://www.chateau-amboise.com/,47.413636,0.9860895
+176699223,way,Tour Heurtault,castle,Amboise,,,,47.4127595,0.986857
+200179789,way,Mini-Châteaux Val de Loire,theme_park,Amboise,,,https://www.parcminichateaux.com,47.3923511,1.0029313
+245945576,way,,park,Amboise,,,,47.4448579,0.9877113
+297102167,way,Parc Leonardo da Vinci,park,Amboise,,,,47.4089473,0.9920966
+301921760,way,Domaine des Thômeaux,hotel,Amboise,"12 Rue des Thomeaux, 37530, Mosnes",37530,https://www.domainedesthomeaux.fr/,47.4547769,1.0984467
+305271500,way,Château de Montreuil,castle,Amboise,,,,47.486418,0.9490725
+351806597,way,,park,Amboise,,,,47.440556,0.9924578
+363463029,way,Place de la Croix Bénard,park,Amboise,,,,47.4042086,0.9861888
+404923947,way,Manoir d'Avisé,castle,Amboise,,,,47.462355,1.0335269
+404957149,way,Château de Pocé,castle,Amboise,,,,47.4448229,0.9869549
+404958743,way,Château des Fourchettes,castle,Amboise,,,,47.44533,1.000127
+406429936,way,Château de Noizay,castle,Amboise,,,https://chateaudenoizay.com/,47.4224145,0.8919585
+451409825,way,Tour des Minimes,castle,Amboise,,,,47.4138151,0.9862023
+549878826,way,,beach,Amboise,,,,47.4135312,0.9821285
+549894676,way,,beach,Amboise,,,,47.4453799,1.0515832
+638491998,way,Louis 26 - Le Manoir,restaurant,Amboise,,,https://www.louis26.fr,47.4086988,0.9726617
+676234588,way,,garden,Amboise,,,,47.4038343,0.8721549
+676234595,way,,garden,Amboise,,,,47.4036295,0.8736693
+676234596,way,,garden,Amboise,,,,47.4036994,0.8748664
+677049799,way,,garden,Amboise,,,,47.404434,0.8813397
+677049801,way,,garden,Amboise,,,,47.4042326,0.8797132
+677230012,way,,garden,Amboise,,,,47.4059087,0.8904933
+677230024,way,,garden,Amboise,,,,47.4090324,0.8941731
+688937650,way,La Sapinière,park,Amboise,,,,47.407175,0.9727028
+692490094,way,,garden,Amboise,,,,47.3864284,0.9172142
+692491911,way,,garden,Amboise,,,,47.3900814,0.9224378
+754401716,way,,garden,Amboise,,,,47.3944734,0.9100242
+755146912,way,,garden,Amboise,,,,47.393192,0.9108316
+762551038,way,,garden,Amboise,,,,47.3664276,1.0139185
+770327235,way,,garden,Amboise,,,,47.3732733,1.0283508
+771500193,way,,garden,Amboise,,,,47.3690607,1.0292775
+771500204,way,,garden,Amboise,,,,47.3681575,1.0305933
+771500209,way,,garden,Amboise,,,,47.3686629,1.0267759
+771500219,way,,garden,Amboise,,,,47.367747,1.0267266
+771501522,way,,garden,Amboise,,,,47.3671768,1.0275787
+772245432,way,,garden,Amboise,,,,47.3706351,1.0314801
+772249175,way,,garden,Amboise,,,,47.3666796,1.0355655
+772249177,way,,garden,Amboise,,,,47.367187,1.0360148
+772804257,way,,garden,Amboise,,,,47.3697643,1.0449662
+817782481,way,,garden,Amboise,,,,47.4081229,0.968387
+893664142,way,,garden,Amboise,,,,47.3923816,0.9274548
+893799028,way,,garden,Amboise,,,,47.3950452,0.9328782
+894328091,way,,garden,Amboise,,,,47.3945452,0.9154459
+894328100,way,,garden,Amboise,,,,47.3931826,0.9146291
+894653632,way,,garden,Amboise,,,,47.391791,0.9198245
+894653638,way,,garden,Amboise,,,,47.3906355,0.921091
+894653650,way,,garden,Amboise,,,,47.3917225,0.9176285
+894653675,way,,garden,Amboise,,,,47.3947693,0.9164252
+958677365,way,Jardin Chinois,garden,Amboise,,,,47.3908461,0.9730343
+1035936429,way,,castle,Amboise,,,,47.5025325,0.8995907
+1073554180,way,,garden,Amboise,,,,47.413595,0.9877298
+1084021821,way,,beach,Amboise,,,,47.4564125,1.078759
+1096909903,way,,garden,Amboise,,,,47.4056308,0.9861053
+1152781774,way,,park,Amboise,,,,47.4307027,0.9558161
+1163921666,way,,garden,Amboise,,,,47.3941963,1.0043866
+1286365277,way,,garden,Amboise,,,,47.4140141,0.987544
+1286413530,way,,garden,Amboise,,,,47.4134418,0.9878173
+1294751619,way,Couronnes,artwork,Amboise,,,,47.5211474,0.9144549
+1318766757,way,,park,Amboise,,,,47.4016548,1.0150444
+1359859697,way,,memorial,Amboise,,,,47.4151915,0.9815574
+1367289569,way,,park,Amboise,,,,47.510857,0.9110443
+1381447662,way,Square Jeanne de France,park,Amboise,,,,47.4094018,0.9867887
+1381447694,way,,park,Amboise,,,,47.4113344,1.0915921
+1381447703,way,Parc Saint-Marc,park,Amboise,,,,47.4319102,1.0311624
+1416240944,way,,park,Amboise,,,,47.4178214,0.8742375
+1497472677,way,Parc de la Richardière,park,Amboise,,,,47.3993157,0.9673186

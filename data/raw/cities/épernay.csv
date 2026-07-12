@@ -1,0 +1,519 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+243198101,node,Duval-Leroy,attraction,Épernay,,,,48.9083295,4.0225364
+243198104,node,Champagne Colin,attraction,Épernay,,,,48.8943847,4.0264026
+243198105,node,,viewpoint,Épernay,,,,48.8641474,3.9940757
+243208909,node,,viewpoint,Épernay,,,,49.0986502,3.7588485
+243216562,node,Charlier et Fils,attraction,Épernay,,,,49.1020352,3.7734402
+243342295,node,Mercier,attraction,Épernay,,,,49.0404198,3.9715514
+244116974,node,Serge Jumel,attraction,Épernay,,,,48.9068263,4.014217
+244129272,node,Auberge Champenoise,hotel,Épernay,,,,49.0128567,3.9225078
+471507060,node,Champagne de Castellane,attraction,Épernay,,,,49.0426868,3.9694397
+471507061,node,Champagne Moët et Chandon,attraction,Épernay,,,,49.0427986,3.959082
+471508491,node,Champagne Boizel/De Venoge,attraction,Épernay,,,,49.0417302,3.9658773
+471520736,node,Champagne Janisson Baradon et Fils,attraction,Épernay,"2 Rue des Vignerons, 51200, Épernay",51200,http://www.champagne-janisson.com,49.0442344,3.9441712
+471521233,node,Champagne Ellner,attraction,Épernay,,,,49.0477542,3.9498063
+670164567,node,Statue d'Urbain II,attraction,Épernay,,,,49.0989235,3.7588741
+872279850,node,Monument aux morts,memorial,Épernay,,,,49.0472102,4.1172651
+872279871,node,,memorial,Épernay,,,,49.0466605,4.1237351
+1189651726,node,monument commémoratif,memorial,Épernay,,,,49.0255225,3.9117561
+1202750549,node,Monument Commémoratif,memorial,Épernay,,,,49.0854404,3.8281947
+1369609890,node,,viewpoint,Épernay,,,,49.0908182,3.9749769
+1450842066,node,Monument Commemoratif,memorial,Épernay,,,,48.6894576,3.8698034
+1452285474,node,,castle,Épernay,,,,48.5528575,3.7831108
+1452343236,node,,memorial,Épernay,,,,48.5546038,3.782798
+1453873313,node,Monument aux Morts,memorial,Épernay,,,,48.5528223,3.6564523
+1456534992,node,Monument aux Morts,memorial,Épernay,,,,48.533786,3.8306816
+1457028540,node,,castle,Épernay,,,,48.5822146,3.8134456
+1457036945,node,Monument aux Morts,memorial,Épernay,,,,48.5834505,3.8140311
+1458838160,node,Monument aux Morts,memorial,Épernay,,,,48.5610424,3.8308856
+1464081736,node,,memorial,Épernay,,,,48.6131631,3.9026419
+1467255065,node,Monument aux Morts,memorial,Épernay,,,,48.7304425,3.5584725
+1467255068,node,Monument aux Morts,memorial,Épernay,,,,48.7307087,3.557409
+1474299086,node,,memorial,Épernay,,,,49.0822329,3.708967
+1476354010,node,Monument aux Morts,memorial,Épernay,,,,49.082037,3.7468133
+1623271704,node,,castle,Épernay,,,,48.7535329,3.4524139
+1627570194,node,Monument aux morts,memorial,Épernay,,,,48.9245385,3.8129235
+1644170063,node,Monument aux morts - 1914-1918 - 1939-1945,memorial,Épernay,,,,48.7240046,3.7222578
+1644264607,node,Monument aux morts -1873,memorial,Épernay,,,,48.7246345,3.7213083
+1644301583,node,,viewpoint,Épernay,,,,48.7387667,3.7205406
+1644307477,node,Le Prétoire,monument,Épernay,,,,48.7244038,3.72136
+1644307479,node,La Halle,monument,Épernay,,,,48.7237854,3.7239202
+1988514200,node,Table Kobus,restaurant,Épernay,,,,49.0455192,3.9566485
+1988526093,node,Hôtel Ibis,hotel,Épernay,,,,49.0424214,3.9527906
+1988568162,node,Les Berceaux,restaurant,Épernay,,,,49.0428718,3.9552555
+1988581039,node,,hotel,Épernay,,,,49.0419639,3.9549929
+2271673713,node,Monument aux Morts,memorial,Épernay,,,,49.0059221,3.9232752
+2293735169,node,Auberge du Chaperon Rouge,restaurant,Épernay,,,,48.7138376,3.4868714
+2293735170,node,Hôtel Florotel,hotel,Épernay,"Route Nationale 4 (D339), 51230, Linthes",51230,https://www.hotel-florotel.com,48.7259977,3.833345
+2293735173,node,La Grillardière,restaurant,Épernay,,,,48.7251851,3.8398272
+2293735175,node,Le Relais de Linthes,restaurant,Épernay,,,,48.726383,3.8515147
+2332164484,node,Cave Thomas,viewpoint,Épernay,,,,49.07711,3.9367672
+2332165532,node,,viewpoint,Épernay,,,,49.0872285,3.9421653
+2332165533,node,,viewpoint,Épernay,,,,49.0773062,3.9405774
+2441723679,node,Aux Délices de l'Abbaye,restaurant,Épernay,"6 Place Jehan d'Orbais, 51270, Orbais-l'Abbaye",51270,https://hotelssources.com/aux-delices-de-labbaye.html,48.9507186,3.6992908
+2441738841,node,,museum,Épernay,,,,48.9507717,3.7002798
+2441738842,node,,memorial,Épernay,,,,48.9502362,3.6999711
+2565485225,node,,attraction,Épernay,,,,49.0176542,4.070714
+2565485230,node,Calvaire,attraction,Épernay,,,,49.01806,4.0672284
+2800427702,node,La Table de l'Abbaye,restaurant,Épernay,,,,48.951059,3.6991875
+2880161203,node,Brasserie Le Central,restaurant,Épernay,"15 Place de la République, 51200, Épernay",51200,https://www.lecentralepernay.fr/,49.0437039,3.9576133
+3100649877,node,La Grillade Gourmande,restaurant,Épernay,"16 Rue de Reims, 51200, Épernay",51200,https://www.lagrilladegourmande.com/,49.0449468,3.9614573
+3100703999,node,Hostellerie La Briqueterie,restaurant,Épernay,"4 Route de Sezanne, 51530, Vinay",51530,https://www.labriqueterie.fr/,49.0083656,3.9075665
+3107453955,node,Hoki Sushi,restaurant,Épernay,"Parc des forges, 51530, Pierry",51530,http://www.hoki-sushi-epernay.fr/,49.0253213,3.9499667
+3281300336,node,four à pain,monument,Épernay,,,,48.9260987,4.1104516
+3281300337,node,moulin à vent,monument,Épernay,,,,48.9229824,4.1041882
+3281300338,node,Hôtel aux insectes,monument,Épernay,,,,48.926923,4.110071
+3306169271,node,Château de Chapton,castle,Épernay,,,,48.7901326,3.7194795
+3431638830,node,Château de Nogentel,castle,Épernay,,,,48.7230082,3.514832
+3434654734,node,,castle,Épernay,,,,48.6164482,3.6141578
+3457921297,node,La Forge,restaurant,Épernay,,,,48.8791984,3.8580131
+3632214909,node,Monument aux Morts,memorial,Épernay,,,,49.0449367,4.0394916
+3634134014,node,Notre-Dame de Gruguet,artwork,Épernay,,,,49.0456019,4.0438692
+3752802795,node,,memorial,Épernay,,,,48.8640777,3.9937878
+3919294865,node,,memorial,Épernay,,,,49.1071394,3.7408435
+3980151170,node,,castle,Épernay,,,,48.6978094,3.7105412
+3988175520,node,Monument aux Morts,memorial,Épernay,,,,48.9724406,3.9148792
+3989578596,node,,viewpoint,Épernay,,,,49.0975634,4.1393017
+3992005088,node,Monument aux Morts,memorial,Épernay,,,,48.9828634,3.9334438
+3999546149,node,,memorial,Épernay,,,,48.8135641,3.6676247
+3999646226,node,,castle,Épernay,,,,48.8559364,3.5826864
+4018534426,node,Le Bois Joli,restaurant,Épernay,"2 Route de Reims-Voie de la Liberté, 51160",51160,,49.1042793,3.9812804
+4194106594,node,Hôtel Première Classe Epernay,hotel,Épernay,,,,49.0523343,3.9551418
+4253007291,node,Borne Vauthier,memorial,Épernay,,,,49.0627201,3.8648451
+4253008194,node,Borne Vauthier,memorial,Épernay,,,,49.0354008,3.6851176
+4271851720,node,,viewpoint,Épernay,,,,48.9823703,3.9635004
+4285776377,node,,viewpoint,Épernay,,,,48.9930949,3.9279824
+4285776384,node,,viewpoint,Épernay,,,,48.977133,3.9363594
+4299968277,node,Bouteille de Cramant,attraction,Épernay,,,,48.989421,3.9848709
+4299968278,node,,viewpoint,Épernay,,,,48.9856099,3.9873214
+4401111377,node,Café des Pécheurs,restaurant,Épernay,,,,49.0545842,3.593005
+4529072015,node,Hôtel Restaurant de la Place,hotel,Épernay,,,,48.9249989,3.8080945
+4529072019,node,Le Cheval Blanc,hotel,Épernay,,,,48.9244085,3.8090898
+4714043252,node,,memorial,Épernay,,,,48.9151256,3.6053933
+4718261216,node,,memorial,Épernay,,,,49.0557503,3.9358675
+4719732092,node,,memorial,Épernay,,,,49.0521456,3.8864071
+4723147760,node,,memorial,Épernay,,,,49.0710031,3.7957783
+4769778039,node,,memorial,Épernay,,,,48.9010583,4.1067188
+4770111857,node,,memorial,Épernay,,,,49.0518053,3.7441707
+4825065039,node,Château de l'Echelle-le-Franc,castle,Épernay,,,,48.8891126,3.5664703
+4825950979,node,Abbaye de Nesle-la-Reposte,ruins,Épernay,,,,48.6294771,3.5574377
+4825950980,node,Monument commémoratif de la Première Victoire de la Marne,monument,Épernay,,,,48.7860847,3.7757385
+4849197615,node,,memorial,Épernay,,,,48.8898989,3.5697541
+4915203698,node,Les Draisines du Grand Morin à Joiselles,attraction,Épernay,,,,48.7671409,3.4850733
+4931461504,node,,restaurant,Épernay,,,,49.0616221,3.8739953
+4931464306,node,,restaurant,Épernay,,,,49.0690017,3.8766775
+5034260615,node,,memorial,Épernay,,,,49.0451273,3.9573518
+5177223721,node,Puits du XVIeme siècle,monument,Épernay,,,,48.7237367,3.7218527
+5239358601,node,,castle,Épernay,,,,49.0078034,3.8614181
+5382530795,node,,memorial,Épernay,,,,48.8800544,3.8552852
+5761445121,node,Bar Parisien,restaurant,Épernay,,,,49.0447799,3.9541282
+5794362004,node,,viewpoint,Épernay,,,,49.0903308,3.9779033
+5794365710,node,,viewpoint,Épernay,,,,49.0778341,3.9778021
+5821908975,node,Ballon captif,attraction,Épernay,Esplanade Charles de Gaulle,,https://www.epernay.fr/article/ballon-captif,49.0424174,3.9573245
+5996143108,node,Champagne Poirot,attraction,Épernay,"Ruelle Pernet, 51130, Bergères les Vertus",51130,https://champagnepoirot.jimdo.com/,48.8795092,4.0076728
+6024238760,node,Maison Délices,restaurant,Épernay,,,,49.0429488,3.9540203
+6024607003,node,Restaurant Boyer,restaurant,Épernay,32 Avenue Paul Chandon,,https://salon-boyer.com/restaurant/,49.038898,3.9525072
+6026618610,node,La villa St Pierre,hotel,Épernay,,,,49.039772,3.9526684
+6026715538,node,Au Petit Fourneau,restaurant,Épernay,,,,49.0391531,3.9542769
+6026751246,node,Casa Presto,restaurant,Épernay,,,,49.0384304,3.9539869
+6027721954,node,Bufallo Grill,restaurant,Épernay,,,https://www.buffalo-grill.fr/restaurant/epernay-pierry,49.0242228,3.9494396
+6028791276,node,La Pomme d'Or,restaurant,Épernay,,,,49.0427164,3.9557261
+6028845058,node,Amici,restaurant,Épernay,"10 Place Hugues Plomb, 51200, Épernay",51200,,49.043981,3.9536235
+6028903927,node,Sushi Épernay,restaurant,Épernay,,,,49.0455894,3.9546972
+6028933785,node,miam sushi,restaurant,Épernay,,,,49.044979,3.9561265
+6028956798,node,Chez Shao,restaurant,Épernay,,,,49.0448609,3.9572105
+6028974235,node,La Cloche,restaurant,Épernay,,,,49.0450987,3.9580176
+6028974236,node,Le Sardaigne,restaurant,Épernay,,,https://le-sardaigne.pagespro-orange.fr/,49.0449891,3.9582483
+6028981588,node,Le Sainr-Alp,restaurant,Épernay,,,,49.0448766,3.9584289
+6029009497,node,Le Bosphore Kebab,restaurant,Épernay,,,,49.0446469,3.95775
+6029025626,node,La cave à Champagne,restaurant,Épernay,,,,49.0445248,3.9578546
+6029025628,node,Le Ch'ti Resto,restaurant,Épernay,,,,49.0442193,3.9573925
+6029029246,node,L'eurasienne,restaurant,Épernay,,,,49.0441957,3.9570949
+6029343818,node,Champagne Leclerc Briant,attraction,Épernay,"67 Rue de la Chaude Ruelle, 51200, Épernay",51200,http://leclercbriant.fr/fr/,49.0445347,3.9440698
+6030416323,node,Le 7,restaurant,Épernay,,,,49.0430679,3.9555373
+6030499286,node,,memorial,Épernay,,,,49.1246472,3.6785146
+6030499287,node,,memorial,Épernay,,,,49.1247562,3.6794419
+6033407361,node,La Feuille d’Or,restaurant,Épernay,,,,49.0444334,3.9574435
+6033744487,node,,memorial,Épernay,,,,49.1281738,3.6376972
+6053220611,node,matin Gourmand,restaurant,Épernay,15 Rue de la Porte Lucas,,,49.0448444,3.953892
+6053257758,node,Cook'in,restaurant,Épernay,,,,49.0450102,3.9538297
+6113159410,node,,memorial,Épernay,,,,49.0935568,3.7903448
+6115437165,node,Champagne A. Bergère,attraction,Épernay,"38-40 Avenue de Champagne, 51200, Épernay",51200,,49.0422764,3.964439
+6115437166,node,Champagne De Venoge,attraction,Épernay,"33 Avenue de Champagne, 51200, Épernay",51200,,49.0424152,3.9656824
+6115437167,node,Champagne Collard-Picard,attraction,Épernay,"15 Avenue de Champagne, 51200, Épernay",51200,,49.0431367,3.9620866
+6115437168,node,Champagne Esterlin,attraction,Épernay,25 Avenue de Champagne,,,49.0426235,3.9634614
+6115437169,node,Champagne Leclerc-Briant / Le 25 bis,attraction,Épernay,"25 bis Avenue de Champagne, 51200, Épernay",51200,,49.0425056,3.9640428
+6115437170,node,Champagne Paul-Etienne Saint-Germain,attraction,Épernay,"51 Avenue de Champagne, 51200, Épernay",51200,,49.0416916,3.9685726
+6154325394,node,Le Cochelet d'Œuilly,restaurant,Épernay,,,,49.0733225,3.7940234
+6154325413,node,Calèche Évasion,attraction,Épernay,,,,49.0792679,3.7952039
+6406323805,node,Monuments aux morts,memorial,Épernay,,,,49.0447679,4.0879066
+6688487485,node,scare,restaurant,Épernay,,,,49.0447576,3.9548807
+6702751513,node,,artwork,Épernay,,,,48.6256105,3.5590019
+6761283894,node,Restaurant Sylvain Suty,restaurant,Épernay,4 Place de Luxembourg,,https://www.sylvainsuty.com/,49.0764691,3.6406553
+6822773954,node,,memorial,Épernay,,,,48.6574481,3.7010622
+6822815004,node,,memorial,Épernay,,,,48.6143772,3.6126296
+6938903489,node,Stèle à la mémoire d'un crash d'avion,memorial,Épernay,,,https://www.aerosteles.net/stelefr-damery-noratlas,49.0765152,3.9011028
+6987500211,node,,memorial,Épernay,,,,48.7607684,3.9996994
+7015149806,node,Le Musée de la vigne et du vin,museum,Épernay,2 Avenue Eugène Guillaume,,https://www.museedelavigneetduvin.com/,48.9487552,4.0251559
+7015149808,node,Auberge de Saint-Fergeux,restaurant,Épernay,,,https://auberge-saint-fergeux.fr/,48.9358796,3.9809239
+7123343542,node,Château d’Étoges,restaurant,Épernay,,,,48.8818445,3.8513915
+7137102961,node,,memorial,Épernay,,,,49.0687892,3.8770276
+7137102962,node,,memorial,Épernay,,,,49.0687734,3.8767514
+7399249065,node,,memorial,Épernay,,,,48.612582,3.6784179
+7413620611,node,,memorial,Épernay,,,,48.6178478,3.7444639
+7757596628,node,Monument aux Morts,memorial,Épernay,,,,48.7873406,4.0689046
+7868721385,node,Le Bistrot,restaurant,Épernay,,,,49.0457356,4.0347669
+7892866792,node,Côté Crêpes,restaurant,Épernay,,,,49.0756221,3.6394478
+7892866891,node,Bar Restaurant,restaurant,Épernay,,,,49.0709767,3.8778029
+7892866999,node,Monument aux Morts,memorial,Épernay,,,,49.0764386,3.6396601
+7892867002,node,Pamukale Kebab,restaurant,Épernay,,,,49.0761864,3.6397589
+7892867389,node,La Lombardie,restaurant,Épernay,,,,49.075431,3.6398159
+7892867490,node,Le Champenois Hôtel-Restaurant,hotel,Épernay,"14 Rue de Châlons, 51700, Dormans",51700,,49.0779453,3.6424747
+7892867586,node,La Dorée des Flandres,restaurant,Épernay,,,,49.077848,3.6419609
+7900113503,node,,memorial,Épernay,,,,49.0655796,4.0270249
+8259873944,node,,memorial,Épernay,,,,49.1138492,4.0320317
+8302957850,node,Monument aux morts,memorial,Épernay,,,,48.9058109,4.0056585
+8302961351,node,,memorial,Épernay,Villeneuve,,,48.9175136,4.0611848
+8715131426,node,Monument aux Morts,memorial,Épernay,,,,49.0505163,3.9683553
+8718151837,node,Locomotive BB16678,monument,Épernay,,,,49.0523744,3.9697282
+8914682617,node,Les Petits Potins,restaurant,Épernay,8 Route de Reims,,,49.1262304,3.6804658
+8960392356,node,Bataille de Champaubert,monument,Épernay,,,,48.8807269,3.7760492
+9103327822,node,Chez Max,restaurant,Épernay,"13 Rue Alfred Anatole Thevenet, 51530, Magenta",51530,http://www.chez-max.com/,49.0475555,3.9648172
+9331377264,node,,monument,Épernay,,,,49.0609567,3.8450351
+9343393317,node,,memorial,Épernay,,,,48.9591997,4.0131319
+9343393325,node,,memorial,Épernay,,,,48.9467386,4.020469
+9388957727,node,Brasserie de la Mairie,restaurant,Épernay,"5 Rue Jules Ferry, 51530, Oiry",51530,,49.0240622,4.0508591
+9422256010,node,Aux valeureux combattants Polonais,monument,Épernay,,,,48.8803098,3.775581
+9445974519,node,Le Bastidon,restaurant,Épernay,,,,48.976212,3.6478865
+9561429913,node,Tourisme ferroviaire de la Brie Champenoise à l'Omois,attraction,Épernay,"23 Avenue du Général de Gaulle, 51210, Montmirail",51210,https://www.tfbco.fr/,48.8729096,3.5313562
+9769273549,node,Monument aux Morts,memorial,Épernay,,,,49.0641589,3.9693716
+9779504730,node,,restaurant,Épernay,,,,48.661363,3.6930054
+9785701915,node,Prim'Hôtel Bagatelle,hotel,Épernay,,,,49.062972,3.9596492
+9785766227,node,Campanile,hotel,Épernay,,,,49.0669779,3.9619778
+9785766228,node,Campanile,restaurant,Épernay,,,,49.0673353,3.96175
+9800397817,node,,viewpoint,Épernay,,,,48.9866042,3.6400779
+9849468197,node,La Croix d'Or,hotel,Épernay,"53 Rue Notre-Dame, 51120, Sézanne",51120,https://hotel-lacroixdor-sezanne.zenchef.com/,48.72141,3.7230122
+9849468198,node,Le Relais Champenois,hotel,Épernay,"157 Rue Notre-Dame, 51120, Sézanne",51120,https://relaischampenois.com/,48.7187782,3.724242
+9857859949,node,,memorial,Épernay,,,,48.9482291,3.6673453
+9864174406,node,,viewpoint,Épernay,,,,49.0440678,4.1229646
+9866082718,node,La Fringale,restaurant,Épernay,,,,49.0321562,3.9479546
+9876444383,node,Circuit Lalique,attraction,Épernay,,,,49.0570002,4.0017505
+9876986763,node,Hostellerie La Briqueterie,hotel,Épernay,"4 Route de Sezanne, 51530, Vinay",51530,Hostellerie La Briqueterie,49.008468,3.9076254
+9876986800,node,Au 36,restaurant,Épernay,,,,49.0838792,3.9446982
+9876988131,node,Auberge Champenoise,restaurant,Épernay,,,,49.013029,3.9225877
+9894873048,node,Relais de Beauvais,restaurant,Épernay,,,,48.7317416,3.6111881
+10008571503,node,,memorial,Épernay,,,,48.9254094,4.1106258
+10025659523,node,,memorial,Épernay,,,,48.8812517,3.6154331
+10025682157,node,,artwork,Épernay,,,,48.889039,3.7051607
+10025682159,node,,memorial,Épernay,,,,48.8899185,3.7064332
+10028360098,node,,artwork,Épernay,,,,49.0896634,3.770088
+10028374791,node,,memorial,Épernay,,,,49.0690169,3.7583233
+10221410497,node,Rôtisserie Henri IV,restaurant,Épernay,Boulevard Charles de Gaulle,,,49.0516414,4.0054504
+10237777445,node,Hôtellerie des Jardiniers Gourmands,hotel,Épernay,"9 route de Provins, 51210, Morsains",51210,https://hotelleriedesjardiniersgourmands.e-monsite.com/,48.7956544,3.5289075
+10737078195,node,l'Oben,restaurant,Épernay,19 Rue de Reims,,,49.0449137,3.961029
+10737090613,node,Chez Ali,restaurant,Épernay,27 Rue de la Fauvette,,,49.0441995,3.952121
+10737336014,node,,artwork,Épernay,,,,49.0430766,3.9614938
+10747789108,node,,viewpoint,Épernay,,,,49.0790697,3.9384915
+10748430887,node,Centre culturel impérial,museum,Épernay,38 Rue de Montlean,,,48.8701957,3.5446376
+10771056609,node,Aux Victimes du Travail,memorial,Épernay,,,,49.0505661,3.9523583
+10771056610,node,,memorial,Épernay,,,,49.0515627,3.9508039
+10881222080,node,,memorial,Épernay,,,,48.9037568,4.0044615
+11039888415,node,,viewpoint,Épernay,,,,48.9447264,4.0107298
+11055674188,node,Écomusée,museum,Épernay,,,,49.0735201,3.7911051
+11097098284,node,,memorial,Épernay,,,,48.8716843,3.5417768
+11128278315,node,Stèle Durand-Mazeron-Castagnier,memorial,Épernay,,,,48.9219318,4.1075657
+11137262007,node,,memorial,Épernay,,,,48.8879883,4.1269682
+11142390053,node,,memorial,Épernay,,,,48.8473684,3.645342
+11142390062,node,,memorial,Épernay,,,,48.8505026,3.6893839
+11142390088,node,,memorial,Épernay,,,,48.8594643,3.724675
+11142390100,node,,memorial,Épernay,,,,48.9443428,3.766958
+11142420008,node,,memorial,Épernay,,,,48.9590324,3.745096
+11142420017,node,Henri le Libéral,memorial,Épernay,,,,49.0178051,3.7117984
+11142420018,node,,memorial,Épernay,,,,49.0177264,3.7115221
+11142420036,node,,memorial,Épernay,,,,49.1538433,3.8320747
+11155527998,node,,viewpoint,Épernay,,,,49.0910267,4.1195353
+11169239859,node,,memorial,Épernay,,,,48.6581869,3.8796437
+11169239860,node,,memorial,Épernay,,,,48.6081439,3.8369744
+11169239935,node,,memorial,Épernay,,,,48.8952333,3.6487605
+11169239943,node,,memorial,Épernay,,,,48.8953038,3.6490488
+11169239952,node,,memorial,Épernay,,,,48.9484477,3.6210492
+11169239953,node,,memorial,Épernay,,,,49.0905913,3.6388752
+11169789522,node,,memorial,Épernay,,,,48.8784479,4.1548183
+11169789534,node,,memorial,Épernay,,,,48.8693113,4.0825191
+11169802288,node,,memorial,Épernay,,,,48.8798269,4.0047298
+11169802303,node,,memorial,Épernay,,,,48.843775,3.9116532
+11169802360,node,,memorial,Épernay,,,,48.9320635,3.9359473
+11169802378,node,,memorial,Épernay,,,,49.0824133,3.84087
+11170047283,node,,memorial,Épernay,,,,48.9700304,3.794627
+11170047285,node,,memorial,Épernay,,,,48.6884619,4.022154
+11170047286,node,,memorial,Épernay,,,,48.7518257,3.6492939
+11170047292,node,,memorial,Épernay,,,,48.8277138,3.7982111
+11180512930,node,,beach,Épernay,,,,48.566272,3.7340222
+11753577097,node,Espace Musée du Poids,museum,Épernay,"10 Hameau de Boulante, 51210, Mécringes",51210,,48.8630579,3.5426322
+11791171569,node,La Porte Oubliée,restaurant,Épernay,,,,49.1007932,3.7582591
+11874229715,node,Café des sports,restaurant,Épernay,,,,49.0299703,3.9534635
+11900291664,node,,viewpoint,Épernay,,,,49.1117553,3.9133674
+11900379889,node,Le 27 Faubourg,restaurant,Épernay,,,,49.0684454,3.8810927
+11939291511,node,,memorial,Épernay,,,,49.0763414,4.1749944
+11939291548,node,L'Ardoise Gourmande,restaurant,Épernay,,,,49.0774722,4.1717571
+12072260602,node,le Cerf à trois pattes,restaurant,Épernay,,,,49.1133903,4.0293114
+12112580199,node,À la fleur de sel,restaurant,Épernay,"20 Rue Jean Moulin, 51200, Épernay",51200,https://www.alafleurdesel.fr/,49.0467915,3.9661946
+12527011091,node,,memorial,Épernay,,,,48.9676139,3.9245513
+12714648434,node,,memorial,Épernay,,,,48.9750589,3.646047
+12822757991,node,,viewpoint,Épernay,,,,49.0656482,4.0236968
+12852468687,node,Cateau de Saran,castle,Épernay,,,https://maisons-champagne.com/fr/maisons/patrimoine/epernay-et-ses-alentours/article/chateau-de-saran,48.9987679,4.0095162
+12878585693,node,,viewpoint,Épernay,,,,48.8556011,3.878203
+12917913998,node,Statue du Dom Pérignon,artwork,Épernay,,,,49.0832156,3.9421617
+12992386750,node,Clotaire,restaurant,Épernay,,,,49.0826544,3.9423412
+12992387655,node,Bistrot Le beaulieu,restaurant,Épernay,,,,49.0820274,3.9422066
+13027217662,node,Colette Levy,memorial,Épernay,,,,49.047125,3.9533949
+13027217663,node,Robert Levy,memorial,Épernay,,,,49.0471242,3.9533938
+13027217664,node,Yvonne Levy née Picard,memorial,Épernay,,,,49.0471256,3.9533938
+13027217665,node,Félix Levy,memorial,Épernay,,,,49.0471248,3.9533927
+13052041726,node,Ramen bar,restaurant,Épernay,8 Place Hugues Plomb,,,49.0439651,3.9538534
+13107640511,node,Royal d'Asie,restaurant,Épernay,,,,49.0633157,3.9624948
+13110588497,node,La Lune,viewpoint,Épernay,,,,49.0594857,3.8370776
+13116032806,node,,memorial,Épernay,,,,48.6826843,3.7179023
+13119032019,node,Pyramide,monument,Épernay,,,,48.6792521,3.5894717
+13322735242,node,,monument,Épernay,,,,48.7137257,3.57985
+13363190089,node,,memorial,Épernay,,,,48.6637061,3.6999638
+13363190090,node,,memorial,Épernay,,,,48.6564452,3.6934191
+13363190091,node,,memorial,Épernay,,,,48.6501515,3.6839014
+13363190092,node,,memorial,Épernay,,,,48.6444643,3.6734918
+13363190093,node,,memorial,Épernay,,,,48.6380853,3.664273
+13363190094,node,,memorial,Épernay,,,,48.6325864,3.6535113
+13363190095,node,,memorial,Épernay,,,,48.6290658,3.6411893
+13363190096,node,,memorial,Épernay,,,,48.6255641,3.6288947
+13363190097,node,,memorial,Épernay,,,,48.616174,3.6058538
+13363190098,node,,memorial,Épernay,,,,48.6100614,3.5956822
+13363190099,node,,memorial,Épernay,,,,48.6040416,3.5856501
+13364314537,node,,memorial,Épernay,,,,48.7405034,3.7209367
+13364314538,node,,memorial,Épernay,,,,48.7323404,3.7202923
+13364314539,node,,memorial,Épernay,,,,48.7186163,3.7432979
+13364314540,node,,memorial,Épernay,,,,48.709956,3.7396659
+13364314541,node,,memorial,Épernay,,,,48.7022656,3.7333848
+13364314542,node,,memorial,Épernay,,,,48.6949883,3.725359
+13364314543,node,,memorial,Épernay,,,,48.6875873,3.7176476
+13364314544,node,,memorial,Épernay,,,,48.6787612,3.7148068
+13364314545,node,,memorial,Épernay,,,,48.6711645,3.7075947
+13364368383,node,,memorial,Épernay,,,,48.8027021,3.7280291
+13364368384,node,,memorial,Épernay,,,,48.8111788,3.7323009
+13364368385,node,,memorial,Épernay,,,,48.8199347,3.7354642
+13364368386,node,,memorial,Épernay,,,,48.8246216,3.7444402
+13364368387,node,,memorial,Épernay,,,,48.8255758,3.754094
+13364368388,node,,memorial,Épernay,,,,48.8343471,3.7571968
+13364368389,node,,memorial,Épernay,,,,48.7491333,3.721105
+13364368390,node,,memorial,Épernay,,,,48.7581383,3.7213256
+13364368391,node,,memorial,Épernay,,,,48.7671573,3.7215301
+13364368392,node,,memorial,Épernay,,,,48.7761426,3.7217662
+13364368397,node,,memorial,Épernay,,,,48.7851348,3.7222268
+13364368398,node,,memorial,Épernay,,,,48.7939701,3.7251488
+13451264786,node,,memorial,Épernay,,,,49.0362195,3.9486603
+13451269270,node,,memorial,Épernay,,,,49.0274708,3.9460471
+13451269271,node,,memorial,Épernay,,,,49.019917,3.9394533
+13451269272,node,,memorial,Épernay,,,,49.0152142,3.9318143
+13451269273,node,,memorial,Épernay,,,,49.0116339,3.919334
+13451282145,node,,memorial,Épernay,,,,49.0074671,3.9068842
+13451282146,node,,memorial,Épernay,,,,48.9931748,3.8885238
+13451282147,node,,memorial,Épernay,,,,48.9999668,3.895116
+13451282148,node,,memorial,Épernay,,,,48.9861441,3.8827351
+13451282149,node,,memorial,Épernay,,,,48.9716339,3.8678695
+13451282150,node,,memorial,Épernay,,,,48.9640769,3.8600924
+13451282151,node,,memorial,Épernay,,,,48.9566566,3.8525051
+13451282152,node,,memorial,Épernay,,,,48.9492131,3.8448682
+13451282153,node,,memorial,Épernay,,,,48.9417109,3.8371922
+13451282154,node,,memorial,Épernay,,,,48.9350624,3.8279424
+13451282155,node,,memorial,Épernay,,,,48.9285744,3.818547
+13451282156,node,,memorial,Épernay,,,,48.9186976,3.7984373
+13451282157,node,,memorial,Épernay,,,,48.9119069,3.7895694
+13451282158,node,,memorial,Épernay,,,,48.9037171,3.7838814
+13451282159,node,,memorial,Épernay,,,,48.8949274,3.7808013
+13451282160,node,,memorial,Épernay,,,,48.8861347,3.777766
+13451282161,node,,memorial,Épernay,,,,48.8774183,3.7743536
+13451282162,node,,memorial,Épernay,,,,48.8690104,3.7694433
+13451282163,node,,memorial,Épernay,,,,48.8606539,3.764531
+13451282164,node,,memorial,Épernay,,,,48.8519331,3.7629512
+13451282165,node,,memorial,Épernay,,,,48.8431155,3.7603068
+13723712775,node,La Gare,restaurant,Épernay,,,,48.9488808,4.0319874
+13755612411,node,,memorial,Épernay,,,,48.5688152,3.7300693
+13780022811,node,Les Demeures Champenoises,hotel,Épernay,"2 Rue François Bonal, 51200, Épernay",51200,https://www.vacanceole.com/location-vacances/88-residence-les-demeures-champenoises-confort-epernay,49.0277513,3.9535664
+13780095346,node,Hostellerie du Mont Aimé,hotel,Épernay,"4-6 Rue de Vertus, 51130, Bergères-lès-Vertus",51130,https://hostellerie-mont-aime.com/?_gl=1*18pm3qd*_gcl_au*MzQ4NzU1NTkuMTc3NzU0MjQxNg..*_ga*NDM0MjE5NTUzLjE3Nzc1NDI0MTY.*_ga_P86J5EN3KG*czE3Nzc1NDI0MTYkbzEkZzAkdDE3Nzc1NDI0MTkkajU3JGwwJGgw*_ga_FTQW8WRD2P*czE3Nzc1NDI0MTYkbzEkZzAkdDE3Nzc1NDI0MTkkajU3JGwwJGgw,48.8809421,4.0043266
+13780100621,node,Le relais du vigneron,hotel,Épernay,"2 Avenue Louis Lenoir, 51130, Blancs-Coteaux",51130,https://le-relais-du-vigneron.com/,48.9033824,4.0044662
+13780255912,node,Hôtel Jean Moët,hotel,Épernay,"7 Rue Jean Moët, 51200, Épernay",51200,https://www.hoteljeanmoet.com/fr?ads_source=equeco&adults=2&campaign_id=21422276395&channel=2861339937_hotel&children=0&end_date=2026-05-01&gclid=CjwKCAjw-8vPBhBbEiwAoA39WlbvjAtgwQfcfqO5eh7Is9c8fO3ua2RgN7Dvfe70e5P8KKjMbuNo9BoCgk4QAvD_BwE&google_hotel=true,49.0441227,3.9577341
+13780260217,node,Hôtel Margaux,hotel,Épernay,"7 Rue des Minimes, 51200, Épernay",51200,https://www.hotelmargaux.fr/,49.0444523,3.9569023
+13784905148,node,La Farm,restaurant,Épernay,,,https://www.lafarm.fr/restaurant,49.1210859,4.110205
+13929281439,node,Le Théâtre,restaurant,Épernay,"8 Place Pierre Mendès France, 51200, Épernay",51200,,49.0452318,3.9592565
+22755831,way,Avenue de Champagne,attraction,Épernay,,,,49.0416063,3.967877
+142247138,way,Parc de l'horticulture,park,Épernay,,,,49.0346206,3.9510694
+149818663,way,Château de Montmort,castle,Épernay,,,,48.9233776,3.8109399
+149819196,way,Château de Montmort,park,Épernay,,,,48.9214668,3.8108483
+155484835,way,Le Colbert,hotel,Épernay,"50 Rue Édouard Vaillant, 51200, Épernay",51200,,49.0480745,3.972308
+155592605,way,Kyriad Epernay,hotel,Épernay,"3B Rue de Lorraine, 51200, Épernay",51200,https://epernay.kyriad.com,49.039966,3.969252
+155860321,way,Pressoria,museum,Épernay,"11 Boulevard Pierre Cheval, AY",,,49.056958,3.999004
+161316000,way,,park,Épernay,,,,49.0718872,4.0459046
+162661003,way,Château Perrier,castle,Épernay,,,,49.0432735,3.9615895
+162662012,way,La Cloche,hotel,Épernay,"3 Place Pierre Mendès France, 51200, Épernay",51200,,49.0450868,3.9579936
+162670677,way,,restaurant,Épernay,,,,49.0235975,3.9503425
+162684308,way,Jardin de l'Hôtel de ville,park,Épernay,,,,49.0439376,3.9588034
+188265181,way,Les Avisés,hotel,Épernay,,,https://www.selosse-lesavises.com/,48.9716418,4.0038613
+222808198,way,monument aux morts,memorial,Épernay,,,,49.1072666,3.9121413
+222809234,way,monument aux morts,memorial,Épernay,,,,49.0958477,3.9165102
+222810804,way,Enceinte de l'abbaye Saint-Pierre d'Hautvillers,attraction,Épernay,,,,49.0801818,3.9403117
+222811226,way,,memorial,Épernay,,,,49.0435831,3.958582
+222811605,way,Monument aux morts Martyrs de la Résistance,memorial,Épernay,,,,49.0435898,3.9570636
+222812827,way,Place Pierre Mendès France,park,Épernay,,,,49.0451916,3.9586719
+222812959,way,Monument à Patton,memorial,Épernay,,,,49.0450834,3.9589532
+222908076,way,Jardin de la Presle,park,Épernay,,,,49.1505953,3.9255473
+222908682,way,,memorial,Épernay,,,,49.1320368,3.9213867
+224249310,way,Parc du Château de Louvois,park,Épernay,,,,49.1067137,4.1220435
+224249502,way,Château de Louvois,castle,Épernay,,,,49.1050697,4.1192408
+224249836,way,,garden,Épernay,,,,49.1056464,4.1200564
+224250466,way,Monument aux morts,memorial,Épernay,,,,49.0687068,4.0472787
+224251058,way,,memorial,Épernay,,,,49.0549834,4.0060154
+224251336,way,Jardin du vicomte de Bona-Dona,park,Épernay,,,,49.0570132,4.0044396
+224252771,way,Place Georges Forêt,park,Épernay,,,,49.0490125,3.9653
+224253626,way,Jardin à l'anglaise Moët & Chandon,park,Épernay,,,,49.0425914,3.9597499
+224253733,way,Jardin à la française Moët & Chandon,park,Épernay,,,,49.0437394,3.9603238
+224253751,way,statue dom Perignon,attraction,Épernay,,,,49.0430404,3.9596719
+224254051,way,tour de Castellane,attraction,Épernay,,,,49.0426758,3.9693336
+224255023,way,Jardin à la française Les Aulnes,park,Épernay,,,,49.018564,3.9391586
+224255099,way,Parc du Ru,park,Épernay,,,,49.017856,3.9397928
+224255398,way,cloitre de l'abbaye,park,Épernay,,,,49.0184204,3.9384328
+224256905,way,Monument aux morts,memorial,Épernay,,,,48.9944222,3.9642923
+224257270,way,,memorial,Épernay,,,,49.0258847,4.0174065
+224257417,way,,park,Épernay,,,,49.0274344,4.0065631
+226045400,way,,memorial,Épernay,,,,49.08261,3.9435388
+231167637,way,,garden,Épernay,,,,48.98836,3.6411834
+236109621,way,Lavoir,attraction,Épernay,,,,48.948077,3.7050057
+236168603,way,,castle,Épernay,,,,48.9485567,3.7023826
+238537084,way,Château de Brugny,castle,Épernay,,,,48.9942357,3.8878824
+243258419,way,Parc du Cubry,garden,Épernay,,,,49.0419142,3.9516606
+250009315,way,,restaurant,Épernay,"1 Grande Rue, 51120, Saudoy",51120,,48.6807755,3.715073
+301809119,way,Colonne commémorative de Montmirail,memorial,Épernay,,,,48.885723,3.5087825
+305739256,way,La Maison du Vigneron,restaurant,Épernay,"route departementale 951, 51160, Saint Imoges",51160,http://www.lamaisonduvigneron.com/lamaisonduvigneron.html,49.1068365,3.9810744
+333053118,way,,park,Épernay,,,,48.8715218,3.5412986
+333090263,way,,park,Épernay,,,,48.8727696,3.546938
+333402996,way,Château de Montmirail,castle,Épernay,,,,48.8691994,3.5376411
+333403166,way,,park,Épernay,,,,48.8683689,3.5387263
+333422313,way,Le 5.1,restaurant,Épernay,,,,48.8702372,3.5399621
+333537628,way,Le Grand Condé,hotel,Épernay,"36 Rue Lucien Mathieu, 51210, Montmirail",51210,https://www.hotelrestaurant-legrandconde.com/,48.8719507,3.5398153
+339830523,way,Avenue de Champagne,attraction,Épernay,,,,49.0427527,3.9617969
+339830533,way,Avenue de Champagne,attraction,Épernay,,,,49.042118,3.9652076
+339930178,way,Château de Dormans,castle,Épernay,,,,49.07338,3.6432465
+342932321,way,Château d'Esternay,castle,Épernay,,,,48.7304895,3.5740366
+353520261,way,Place du 13 Juin 1940,garden,Épernay,,,,48.5841367,3.8118502
+358233277,way,Château de Mareuil-sur-Ay,castle,Épernay,,,,49.0452845,4.037709
+365526071,way,,park,Épernay,,,,48.8520678,3.7647492
+371729430,way,,ruins,Épernay,,,,48.8642847,3.9939261
+371737263,way,Le Mont-Aimé,castle,Épernay,,,,48.8625756,3.9944271
+371744160,way,,ruins,Épernay,,,,48.8634159,3.9951333
+385735642,way,Le Bec Fin,restaurant,Épernay,,,,49.0818465,4.1467182
+386518674,way,,castle,Épernay,,,,49.0173532,4.1256101
+391644128,way,Jardin à l’anglaise,garden,Épernay,,,,49.046306,4.0361963
+391644131,way,,garden,Épernay,,,,49.0823244,3.9407562
+399496954,way,Hôtel Royal Champagne,hotel,Épernay,,,https://www.royalchampagne.com/,49.0909749,3.9767373
+419723271,way,,garden,Épernay,,,,48.8063396,3.6707988
+437872389,way,,restaurant,Épernay,,,,48.8816575,3.8525286
+450102734,way,,park,Épernay,,,,49.0656969,4.0237098
+476961602,way,Château de Congy,castle,Épernay,,,,48.858823,3.8251392
+489792625,way,,park,Épernay,,,,49.0727622,3.8694906
+490084152,way,,park,Épernay,,,,49.0431964,4.0386641
+499179393,way,,park,Épernay,,,,48.8104256,3.6354394
+516308328,way,Square Pol Roger,park,Épernay,,,,49.0399912,3.9660806
+558197074,way,Château d'Etoges,hotel,Épernay,"4 Rue Richebourg, 51270, Etoges",51270,https://www.etoges.com/,48.8818136,3.8512657
+558211748,way,Hôtel Restaurant Chez l'Ardennais,hotel,Épernay,,,,48.8550426,3.7632806
+558211979,way,Foyer de Charité de Baye,castle,Épernay,4 Grande Rue,,https://baye.foyer.fr/,48.8521329,3.7635056
+585886759,way,,park,Épernay,,,,49.0889214,4.1050175
+585888274,way,,park,Épernay,,,,49.0844373,4.0924792
+585903948,way,,park,Épernay,,,,49.0828827,4.0934736
+590982309,way,Parc du château de Dormans,park,Épernay,,,,49.0720114,3.6442556
+591005869,way,Mémorial National des Batailles de la Marne,monument,Épernay,,,,49.0713053,3.6467516
+594532731,way,,castle,Épernay,,,,48.8444067,3.5920824
+637337430,way,La P'tite Marotte,restaurant,Épernay,"2,4 Rue de Châlons",,https://www.restaurantlacomedia.com/,48.905636,4.0036182
+637341529,way,,restaurant,Épernay,11 Place Léon Bourgeois,,http://www.cafedesarts-vertus.fr/,48.9061615,4.0035891
+644554641,way,,castle,Épernay,,,,48.9313052,3.9349525
+661197134,way,Église Saint-Denis,monument,Épernay,,,,48.7237893,3.7223244
+670556546,way,Château de Trosnay,castle,Épernay,,,,48.8519266,3.6908341
+677501057,way,Les grains d'argent,restaurant,Épernay,"1 allée du petit bois, 51530, Dizy",51530,http://www.lesgrainsdargent.fr/fr/index.php#restaurant-gastronomique.php,49.0667636,3.9599952
+677501664,way,Restaurent scolaire,restaurant,Épernay,,,,49.0638558,3.9676807
+677504682,way,,castle,Épernay,,,,48.8100359,3.6331886
+712991618,way,La Chèvrerie,restaurant,Épernay,"Moulin des roches, 51120, Nesle-la-Reposte",51120,,48.6074218,3.5639644
+715392308,way,,park,Épernay,,,,48.871412,3.5383094
+715617882,way,Square Beaulieu,park,Épernay,,,,49.0820219,3.9416556
+727503759,way,,park,Épernay,,,,48.5497735,3.6812194
+728077589,way,,park,Épernay,,,,48.6574449,3.7010689
+730203326,way,,park,Épernay,,,,48.7195803,3.7201079
+741911446,way,,memorial,Épernay,,,,48.5564392,3.7111902
+741911447,way,,park,Épernay,,,,48.5545652,3.7091836
+746383624,way,,park,Épernay,,,,48.7570794,3.9846632
+746680436,way,Square de la Vaure,park,Épernay,,,,48.7542165,3.9917786
+746680443,way,Parc de La Gueraldière,park,Épernay,,,,48.7581516,3.9887251
+763905149,way,,park,Épernay,,,,49.0733295,3.8813771
+764115718,way,,park,Épernay,,,,49.0696832,3.8781686
+775756824,way,,park,Épernay,,,,49.0437656,3.95469
+783395480,way,,park,Épernay,,,,48.6873479,3.8693111
+790465960,way,Château des Comtes de Champagne,monument,Épernay,,,,48.7240908,3.7197193
+791487590,way,Pressoir,attraction,Épernay,,,,48.612967,3.6782668
+791729668,way,Château des Granges,castle,Épernay,,,,48.7523955,3.6097322
+794847625,way,,memorial,Épernay,,,,48.5644534,3.7199528
+806966633,way,,garden,Épernay,,,,48.5465082,3.7673786
+822505385,way,La Cave aux Coquillages,museum,Épernay,"41 Rue du Bourg de Vesle, 51480, Fleury-la-Rivière",51480,https://www.geologie-oenologie.fr/,49.1004408,3.881707
+827338348,way,Château (ancien),castle,Épernay,,,,49.0813195,3.7085983
+846690293,way,Loisium Champagne,hotel,Épernay,"Route de Montflambert, 51160",51160,https://www.loisium.com/en/champagne/,49.0721557,4.0228987
+930754356,way,,castle,Épernay,,,,48.9300053,3.8239682
+931184656,way,Champagne Pol Roger,attraction,Épernay,,,,49.0419031,3.9626594
+931184657,way,Champagne Perrier Jouët,attraction,Épernay,,,,49.0422706,3.9609483
+941045885,way,Square Mac Mahon,park,Épernay,,,,49.0507353,3.9682368
+952995646,way,Parc Nelson Mandela,park,Épernay,,,,49.0365075,3.9715908
+972907025,way,Avenue de Champagne,attraction,Épernay,,,,49.0434775,3.9577832
+974791700,way,,park,Épernay,,,,48.8694354,3.5368669
+976991414,way,,garden,Épernay,,,,48.9507261,3.7026398
+976991415,way,,garden,Épernay,,,,48.9502183,3.7023696
+976992045,way,,park,Épernay,,,,48.949336,3.7030195
+1009137514,way,,park,Épernay,,,,49.0503445,4.1108924
+1009137515,way,,park,Épernay,,,,49.049433,4.1112853
+1009384366,way,,park,Épernay,,,,49.0276509,3.9549896
+1010770691,way,,park,Épernay,,,,48.9745474,4.0382621
+1060437609,way,Solarium de Bulléo,park,Épernay,"Parc des Loisirs Roger Menu, 51200",51200,,49.0351912,3.9513092
+1063544941,way,Parc Pierre Cheval,park,Épernay,,,,49.0834078,3.9419223
+1074500949,way,,garden,Épernay,,,,49.1304223,3.6367957
+1077201128,way,,garden,Épernay,,,,49.00766,3.9061305
+1078550415,way,B&B Hôtel Épernay,hotel,Épernay,"2 2 allée Général Alberico Albricci, 51200, Épernay",51200,https://www.hotel-bb.com/fr/hotel/epernay,49.0528967,3.9550639
+1154514244,way,,park,Épernay,,,,49.0424164,3.9573223
+1155976891,way,Portail de l'Église Saint-Martin (ancienne),monument,Épernay,,,,49.0438788,3.954499
+1187901850,way,,garden,Épernay,,,,49.0117104,3.9112401
+1188932858,way,Arboretum du Mesnil-sur-Oger,garden,Épernay,,,,48.9426114,4.0082439
+1189143642,way,,garden,Épernay,,,,49.0162483,3.8729924
+1189616270,way,,park,Épernay,,,,49.050364,3.8877539
+1201804452,way,,garden,Épernay,,,,48.8085288,3.6907169
+1205236616,way,,park,Épernay,,,,48.8823897,3.8499767
+1235541871,way,,park,Épernay,,,,48.6810861,3.718891
+1285103720,way,,park,Épernay,,,,49.0332932,3.9561507
+1285103725,way,Square des Frères Birin,park,Épernay,,,,49.0334362,3.9577795
+1285103733,way,Square Raoul Chandon,park,Épernay,,,,49.0363905,3.9518672
+1287333600,way,Square Lorraine,park,Épernay,,,,49.0754686,4.1745752
+1300366547,way,Relais de la Vallée,restaurant,Épernay,,,,49.0794285,4.0814702
+1300927179,way,,park,Épernay,,,,49.0289081,3.9571762
+1348955357,way,Le Lotus,restaurant,Épernay,,,,48.8706455,3.5385582
+1377430743,way,,garden,Épernay,,,,49.0083554,3.94642
+1379299128,way,,garden,Épernay,,,,48.979088,3.9534733
+1381187706,way,,garden,Épernay,,,,48.9958365,3.9178307
+1382334568,way,,garden,Épernay,,,,48.975346,3.9557436
+1382338394,way,,garden,Épernay,,,,48.9901929,3.9400261
+1383520450,way,,garden,Épernay,,,,48.9631825,3.972304
+1388442858,way,,castle,Épernay,,,,48.9986524,4.0100583
+1388442859,way,,castle,Épernay,,,,48.9984846,4.009847
+1388442860,way,,castle,Épernay,,,,48.9984471,4.0099649
+1388442861,way,,castle,Épernay,,,,48.9985347,4.0100321
+1388442862,way,,castle,Épernay,,,,48.9985746,4.0099059
+1388950919,way,,park,Épernay,,,,48.9851489,3.9881374
+1388992515,way,Parc VIX,park,Épernay,,,,48.9710664,4.0009545
+1443457808,way,,park,Épernay,,,,49.0262637,4.0332766
+1444658451,way,,park,Épernay,,,,49.0277458,4.0165923
+1497317367,way,,ruins,Épernay,,,,49.0816921,3.9410428
+1527851497,way,Avenue de Champagne,attraction,Épernay,,,,49.0432872,3.958837
+2174890,relation,La Banque,restaurant,Épernay,"40 rue general Leclerc, 51200, Épernay",51200,https://www.brasserie-labanque.fr/,49.0433505,3.9564345
+16085593,relation,,park,Épernay,,,,49.0074582,3.8613259
+16171850,relation,,park,Épernay,,,,48.8729508,3.543169
+20146189,relation,Abbaye (ancienne),ruins,Épernay,,,,48.6297685,3.5570641
+20168695,relation,Abbaye Saint-Pierre d'Hautvillers,attraction,Épernay,,,,49.0801818,3.9403117

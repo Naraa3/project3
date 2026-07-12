@@ -10,7 +10,7 @@ DATABASE_URL = os.getenv("DATABASE_URL")
 engine = create_engine(DATABASE_URL)
 
 # Read the cleaned CSV
-df = pd.read_csv("data/clean/france_osm_hotels_restaurants_clean.csv")
+df = pd.read_csv("data/clean/france_osm_poi_clean.csv")
 
 print(f"Rows to upload: {len(df)}")
 

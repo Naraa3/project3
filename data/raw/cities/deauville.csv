@@ -12,15 +12,20 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1864496232,node,Santa Lucia,restaurant,Deauville,,,,49.3592532,0.0796513
 2441146558,node,L'essentiel,restaurant,Deauville,29 Rue Mirabeau,,https://lessentieldeauville.com/,49.3600808,0.0793646
 2967132769,node,Berbère Club,restaurant,Deauville,,,,49.3592486,0.0769693
+3415115401,node,Carillon,artwork,Deauville,,,,49.3595836,0.074716
 3415116108,node,Il Parasole,restaurant,Deauville,,,,49.3592757,0.0725986
 3415175193,node,L'Institution,restaurant,Deauville,"79 Rue Général Leclerc, 14800, Deauville",14800,,49.3593407,0.0724105
 3415175394,node,Le Drakkar,restaurant,Deauville,,,https://www.ledrakkar-deauville.com/,49.3594306,0.0734671
+3415200994,node,Charles Auguste de Morny,artwork,Deauville,,,,49.3599651,0.0776396
 3415201995,node,Yacht Café,restaurant,Deauville,,,,49.3605741,0.0781992
 3415274893,node,Ibis,hotel,Deauville,9 Quai de la Marine,,https://all.accor.com/hotel/0795/index.fr.shtml,49.3603643,0.0805689
 3415274895,node,Le Berbère,restaurant,Deauville,11 Quai de la Marine,,,49.3602335,0.0806756
 3415274896,node,Mercure,hotel,Deauville,,,,49.3611253,0.0799864
+4934376323,node,,memorial,Deauville,,,,49.3616393,0.0754823
 5353288380,node,Villa Odette,hotel,Deauville,,,,49.3576642,0.0737654
 7683180486,node,La Cantine de Deauville,restaurant,Deauville,"90 Rue Eugène Colas, 14800, Deauville",14800,http://lacantinedeauville.fr/,49.3596008,0.0733833
+9254843199,node,,memorial,Deauville,,,,49.3553246,0.0699617
+9709246813,node,Cryptogram One,artwork,Deauville,,,,49.3598193,0.0805645
 9709246815,node,L'Odyssée,restaurant,Deauville,2 Rue Désiré le Hoc,,https://www.lodyssee-deauville.fr/,49.3599874,0.0807881
 9709265724,node,Augusto,restaurant,Deauville,,,https://www.restaurant-augusto.com/,49.3596808,0.0784345
 9709296677,node,Villa Leona,restaurant,Deauville,,,,49.3599219,0.079565
@@ -34,10 +39,13 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 10209347646,node,La Terrasse,restaurant,Deauville,,,,49.3620774,0.0699672
 10300292176,node,Le Bouillon Morny,restaurant,Deauville,"7 Rue Breney, 14800, Deauville",14800,https://www.bouillonmorny.fr,49.3603165,0.0787973
 10928622510,node,Novotel,hotel,Deauville,"17 Boulevard Eugène Cornuché, 14800, Deauville",14800,,49.3611626,0.0724525
+11064517694,node,Belvédère De Deauville,attraction,Deauville,"Quai de l'Impératrice Eugénie, 14800, Deauville",14800,,49.3629908,0.0805122
+11462388370,node,Laurence Delmotte-Berreby,gallery,Deauville,,,,49.3590299,0.0770979
 11462394970,node,Marie-Anne,hotel,Deauville,,,,49.3579032,0.0750663
 11470109971,node,Les Planches,restaurant,Deauville,,,https://www.lesplanches-deauville.fr/,49.3593879,0.0728154
 12175049986,node,Le Deauville,restaurant,Deauville,"3 Quai Louis Breguet, 14800, Deauville",14800,https://restaurantledeauville.com/,49.3631185,0.0807227
 12176236625,node,La Presqu'île,restaurant,Deauville,"1 Place Françoise Sagan, 14800, Deauville",14800,https://lapresquiledeauville.fr/,49.3613428,0.0827423
+12184146756,node,Désiré Le Hoc,memorial,Deauville,,,,49.3597222,0.0752443
 12224132476,node,La maison d'Ama,restaurant,Deauville,"17 Quai de l'Impératrice Eugénie, 14800, Deauville",14800,,49.3620544,0.0816337
 12224132477,node,Nicci,restaurant,Deauville,"15 Quai de l'Impératrice Eugénie, 14800, Deauville",14800,,49.3619257,0.0817197
 12224132478,node,Honorine,restaurant,Deauville,"Quai de l'Impératrice Eugénie, 14800, Deauville",14800,https://honorinedeauville.com,49.3610512,0.0822612
@@ -51,4 +59,31 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 13442416830,node,Le Hibouville,restaurant,Deauville,,,https://www.lehibouville-deauville.fr/,49.3600176,0.077232
 13449979409,node,Ital' Burger,restaurant,Deauville,,,,49.3611418,0.0783894
 13716051889,node,Pizza Campione,restaurant,Deauville,"38 Rue Olliffe, 14800, Deauville",14800,,49.3602973,0.076568
+13801055620,node,,memorial,Deauville,,,,49.3597975,0.0650582
+13801177690,node,,memorial,Deauville,,,,49.3589672,0.0730396
+13801978790,node,,memorial,Deauville,,,,49.3599849,0.0846802
+13802305957,node,,memorial,Deauville,,,,49.3441543,0.0709171
+13803214385,node,Plaque Royal Ulster Rifles,memorial,Deauville,,,,49.3609502,0.0850526
+13803233403,node,FOURNER - ROUCHE,memorial,Deauville,,,,49.3609624,0.0850479
+13849734859,node,,memorial,Deauville,,,,49.3597169,0.0719116
+13850113702,node,Le Prophet,artwork,Deauville,,,,49.3576688,0.0625274
 13931420236,node,Le paddoc,restaurant,Deauville,,,,49.3522704,0.0731205
+63612233,way,Hôtel Normandy Barrière,hotel,Deauville,,,https://www.hotelsbarriere.com/fr/deauville/le-normandy.html,49.3600387,0.0709638
+63612404,way,Hôtel Royal-Barrière,hotel,Deauville,,,,49.3580882,0.0677314
+63612552,way,Villa Strassburger,museum,Deauville,,,,49.351023,0.0744368
+63613170,way,Le Ciro's,restaurant,Deauville,,,https://www.ciros-restaurant.com/,49.3599424,0.0654092
+63615189,way,You,hotel,Deauville,,,https://www.youaredeauville.com/,49.3596693,0.0799716
+112396806,way,,garden,Deauville,,,,49.355052,0.0597876
+112396811,way,,garden,Deauville,,,,49.3561195,0.0621708
+164592450,way,,park,Deauville,,,,49.3572007,0.0619052
+164592452,way,,garden,Deauville,,,,49.3569655,0.0641032
+164592453,way,,garden,Deauville,,,,49.3577258,0.0657136
+165397035,way,,garden,Deauville,,,,49.3593817,0.0745875
+168956094,way,Résidence Pierre et Vacances,hotel,Deauville,,,,49.3441436,0.075652
+200909088,way,,beach,Deauville,,,,49.3655461,0.0747426
+962012630,way,,garden,Deauville,,,,-19.937947,-43.940849
+1101218883,way,La Péniche,restaurant,Deauville,,,,49.3630162,0.0709788
+1509844278,way,Carré militaire,memorial,Deauville,,,,49.3440694,0.0708695
+1002357,relation,Les Franciscaines,museum,Deauville,"145 b Avenue de la République, 14800, Deauville",14800,https://lesfranciscaines.fr/,49.3542777,0.0667507
+6571979,relation,Cantine,restaurant,Deauville,,,,49.3634493,0.0754129
+19120654,relation,Plage de Deauville,beach,Deauville,"14800, Deauville",14800,,49.3605727,0.0642821

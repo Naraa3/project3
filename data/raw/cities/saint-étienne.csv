@@ -1,0 +1,1775 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+244953708,node,Musée d'Art moderne et contemporain,museum,Saint-Étienne,,,https://mamc.saint-etienne.fr/,45.4694622,4.3742124
+384727104,node,L'Arobase,restaurant,Saint-Étienne,,,https://larobase-restaurant-saint-etienne.eatbu.com/,45.4398796,4.3909294
+384727107,node,Eco Pizza,restaurant,Saint-Étienne,,,,45.4401368,4.3912188
+392671677,node,Le Reflet,restaurant,Saint-Étienne,,,,45.4262225,4.4044653
+392671687,node,La Batisse,restaurant,Saint-Étienne,,,https://restaurant-labatisse42.fr/,45.4206786,4.4103716
+403182651,node,L'Escargot d'Or,restaurant,Saint-Étienne,,,https://lescargotdor.fr/,45.4339909,4.3881135
+492758386,node,Madone de Rochetaillée,viewpoint,Saint-Étienne,,,,45.412954,4.4403512
+560857302,node,La Taverne Brasserie,restaurant,Saint-Étienne,,,,45.4427295,4.3986088
+560857303,node,Ibis Styles,hotel,Saint-Étienne,,,,45.4426454,4.3986495
+560878982,node,La Loco,restaurant,Saint-Étienne,,,http://restaurant-la-loco.com/,45.4422584,4.3985514
+568096734,node,Ô Suivant,restaurant,Saint-Étienne,,,,45.4398277,4.3976708
+619347287,node,,memorial,Saint-Étienne,,,,45.389222,4.592167
+656446958,node,Le Bistro d'Antan,restaurant,Saint-Étienne,,,,45.4362354,4.3869916
+661339900,node,Sphinx,artwork,Saint-Étienne,,,,45.4312851,4.3878183
+661339906,node,Bistrot Gaga,restaurant,Saint-Étienne,,,,45.4327372,4.3877657
+664592363,node,La Grotte,restaurant,Saint-Étienne,,,https://lagrotterestaurant.fr/,45.4397001,4.3942406
+685756018,node,Les Perles d’Ivoire,restaurant,Saint-Étienne,,,,45.439169,4.3897595
+728919525,node,,memorial,Saint-Étienne,,,,45.426432,4.3973044
+738899776,node,Absinthe,restaurant,Saint-Étienne,,,https://www.absinthe.restaurant/,45.438834,4.3979855
+778673165,node,Le Prieuré,restaurant,Saint-Étienne,"6 Place des Portes, 42800",42800,,45.4793246,4.6470756
+784460204,node,Tricéphale,artwork,Saint-Étienne,,,,45.4364323,4.3856873
+926536389,node,La Casa,restaurant,Saint-Étienne,,,,45.4279324,4.3902114
+926586822,node,Resto Carthage,restaurant,Saint-Étienne,,,,45.4278022,4.3902517
+936978823,node,Victoire de Samothrace,memorial,Saint-Étienne,,,,45.4276115,4.383615
+944435373,node,Le Valjoly,restaurant,Saint-Étienne,,,https://www.restaurant-levaljoly.fr/,45.4942178,4.4350402
+982357941,node,Ruine Château du Toile,castle,Saint-Étienne,,,,45.381395,4.506303
+1005320887,node,Le Bistrot de la Famille,restaurant,Saint-Étienne,"10 Place de la Liberté, 42220, Bourg-Argental",42220,https://www.facebook.com/profile.php?id=100067137363486#,45.2960843,4.5588939
+1013129399,node,Square du Temps Passé,garden,Saint-Étienne,,,,45.4387614,4.3973751
+1362951220,node,Hommage à Picasso Horizon,artwork,Saint-Étienne,,,,45.4208485,4.3955761
+1467425522,node,Brasserie Le 37,restaurant,Saint-Étienne,,,,45.3901612,4.2879624
+1467425546,node,Firm'Hôtel,hotel,Saint-Étienne,,,,45.3901604,4.2880295
+1474396735,node,Mémorial de la Résistance et de la Déportation de la Loire,museum,Saint-Étienne,,,http://memorial-loire42.fr/,45.4356769,4.3863663
+1567980008,node,Les Roches de Marlin,viewpoint,Saint-Étienne,,,,45.4964231,4.6456461
+1569753548,node,Le Blindcat,restaurant,Saint-Étienne,"52 Boulevard Waldeck Rousseau, 42400, Saint-Chamond",42400,,45.4776275,4.5076692
+1600405667,node,Hôtel du Golf,hotel,Saint-Étienne,,,,45.4537284,4.3686636
+1600407552,node,l'Hôtel du Golf,restaurant,Saint-Étienne,,,,45.4536908,4.3684169
+1601318120,node,Chez les Fondus,restaurant,Saint-Étienne,,,,45.4370782,4.3871875
+1642939061,node,Di Voglia,restaurant,Saint-Étienne,,,,45.4566079,4.3917648
+1643993927,node,Lipstick,restaurant,Saint-Étienne,,,,45.4776142,4.3475058
+1644190524,node,Sushiyama,restaurant,Saint-Étienne,,,,45.4800806,4.3549068
+1648396396,node,brasserie,restaurant,Saint-Étienne,,,,45.4748245,4.3435659
+1730819523,node,Le Mea Culpa,restaurant,Saint-Étienne,,,,45.4556777,4.3832685
+1730841440,node,Mia Pasta,restaurant,Saint-Étienne,,,,45.4475285,4.3800445
+1735707736,node,Chirat Rochat,viewpoint,Saint-Étienne,,,,45.4309114,4.6321589
+1740261688,node,Sushi Himiko,restaurant,Saint-Étienne,"17 Rue Clovis Hugues, 42000",42000,,45.4479233,4.3824207
+1746796428,node,,viewpoint,Saint-Étienne,,,,45.4496506,4.3726626
+1749567500,node,Au secours,gallery,Saint-Étienne,"28 Rue Bourgneuf, 42000",42000,,45.4456264,4.3828581
+1749825527,node,Pizza Villars Kebab,restaurant,Saint-Étienne,,,,45.4683559,4.3552036
+1757134893,node,Les Toqués Genésiens,restaurant,Saint-Étienne,,,,45.3403831,4.4198225
+1757134929,node,Restaurant du Grand-Bois,restaurant,Saint-Étienne,,,,45.3264193,4.4822169
+1758099756,node,Restaurant Montmartin,restaurant,Saint-Étienne,,,,45.3396395,4.4184292
+1777878497,node,,viewpoint,Saint-Étienne,,,,45.4013537,4.33193
+1777878603,node,Notre-Dame du Chambon,memorial,Saint-Étienne,,,,45.4014601,4.3319756
+1788358411,node,Le Pied des Marches,gallery,Saint-Étienne,"16 Rue Roger Salengro, 42000, Saint-Étienne",42000,https://www.ruesdudeveloppementdurable.fr/le-pied-des-marches/,45.4423489,4.3890253
+1798094647,node,Campanile,hotel,Saint-Étienne,,,https://saint-etienne-est-saint-chamond.campanile.com/,45.4945814,4.525244
+1801789006,node,Vieux Tremplin,ruins,Saint-Étienne,,,,45.3617528,4.5175405
+1805088658,node,Source de la Font Ria,attraction,Saint-Étienne,,,,45.3666898,4.4331475
+1808515415,node,Chapelle Saint-Sabin,viewpoint,Saint-Étienne,,,,45.3671488,4.6206689
+1814604992,node,Le Petit Buveur,artwork,Saint-Étienne,,,,45.4374094,4.3863465
+1815578857,node,,memorial,Saint-Étienne,,,,45.3957751,4.2280802
+1820484179,node,Victor,restaurant,Saint-Étienne,,,,45.4430525,4.2609182
+1827809088,node,La Conciergerie,restaurant,Saint-Étienne,,,https://www.restaurant-la-conciergerie.fr/,45.5438485,4.2849257
+1827813791,node,Actuel Hôtel,hotel,Saint-Étienne,,,https://www.actuel-hotel.com/,45.5331427,4.2878453
+1835105267,node,Le Chaubouret,restaurant,Saint-Étienne,"42220, Thelis-La-Combe",42220,https://www.hotelrest-lechaubouret.com/,45.3674934,4.5279969
+1835118639,node,Auberge du Tremplin,restaurant,Saint-Étienne,"619 Chemin du Tremplin, 42660, Le Bessat",42660,,45.3631458,4.5183843
+1835367452,node,Hôtel restaurant le Chaubouret,hotel,Saint-Étienne,,,,45.3673549,4.527947
+1843406705,node,,memorial,Saint-Étienne,,,,45.4372804,4.3818167
+1884088837,node,La Cascade,restaurant,Saint-Étienne,"1985 Route de la Valla, 42131, La Valla-en-Gier",42131,,45.4260019,4.5166899
+1913678843,node,,memorial,Saint-Étienne,,,,45.5286325,4.6175669
+1920360441,node,Pierre de Chagnon,attraction,Saint-Étienne,,,,45.5352825,4.5532194
+1956401105,node,Écomusée des Bruneaux,museum,Saint-Étienne,,,http://www.chateaudesbruneaux.fr,45.3804997,4.2822893
+1968123889,node,,viewpoint,Saint-Étienne,,,,45.4599185,4.2608072
+1971541305,node,,artwork,Saint-Étienne,,,,45.4277484,4.4030172
+1971780851,node,,artwork,Saint-Étienne,,,,45.4280751,4.4021437
+2067062072,node,Le Saint-Martin,restaurant,Saint-Étienne,"33 Chemin du Bourg, 42400, Saint-Chamond",42400,,45.4614504,4.5214154
+2216436378,node,Le Phoenix,restaurant,Saint-Étienne,"9 Rue Marc Seguin, 42400, Saint-Chamond",42400,,45.4734495,4.5173424
+2228584016,node,,memorial,Saint-Étienne,,,,45.3979157,4.3326003
+2228586368,node,Stèle de la Résistance et de la Déportation,memorial,Saint-Étienne,,,,45.3957283,4.3261726
+2228868530,node,,castle,Saint-Étienne,,,,45.3869746,4.3128647
+2244917444,node,Edelweiss,restaurant,Saint-Étienne,"3 Place de la Halle, 42400, Saint-Chamond",42400,,45.4777314,4.5121688
+2244917445,node,Di Bellagio,restaurant,Saint-Étienne,4 Place Saint-Pierre,,https://www.dibellagio.fr/,45.4780161,4.5129083
+2266097269,node,Le Méliès,restaurant,Saint-Étienne,10 Place Jean Jaurès,,https://www.lemelies.com/restaurant-brasserie-le-melies/,45.4417015,4.3873193
+2266097270,node,Nota Bene,restaurant,Saint-Étienne,8 Place Jean Jaurès,,https://www.notabene42.com/,45.4415505,4.3873603
+2266097275,node,Beer Garden,restaurant,Saint-Étienne,,,,45.4417549,4.3873037
+2360731487,node,,artwork,Saint-Étienne,,,,45.3791731,4.2831638
+2369049469,node,,viewpoint,Saint-Étienne,,,,45.3960091,4.4413304
+2374743151,node,Chez Nico,restaurant,Saint-Étienne,"11 Rue Paul Bert, 42000, Saint-Etienne",42000,https://www.lesanremo1-pizzeria.fr/,45.44078,4.3837431
+2378055674,node,Lusa Ramen,restaurant,Saint-Étienne,4 Place Jean Jaurès,,https://lusaramen.com/,45.4411511,4.3874778
+2400034237,node,La Jasserie,restaurant,Saint-Étienne,,,https://lajasserie.com/restaurant.html,45.390722,4.5737726
+2406622449,node,Le Dégourdi,restaurant,Saint-Étienne,,,,45.4631281,4.3249442
+2408843696,node,Cefalù,restaurant,Saint-Étienne,"5 Cours Fauriel, 42100, Saint-Étienne",42100,https://pizzeria-cefalu-st-etienne.eatbu.com,45.4310563,4.3960447
+2414251583,node,Chez Steph et Dav,restaurant,Saint-Étienne,"5 Place d'Armeville, 42220, Bourg-Argental",42220,,45.2970769,4.5604847
+2416024715,node,Aux 2 ânes,restaurant,Saint-Étienne,,,https://aux-2-anes.eatbu.com/,45.525134,4.2778444
+2417437664,node,Monument aux Morts de la Taillée,memorial,Saint-Étienne,,,,45.4338128,4.3552386
+2417514168,node,La Rapée,restaurant,Saint-Étienne,,,,45.4380846,4.3657457
+2423361430,node,La croix du Planil,memorial,Saint-Étienne,,,,45.4154736,4.5487949
+2432440419,node,Jeanne d'Arc,memorial,Saint-Étienne,,,,45.436407,4.3851606
+2436685077,node,Le Verre Galant,restaurant,Saint-Étienne,,,,45.4382279,4.3901324
+2436685093,node,Le Cheval noir,hotel,Saint-Étienne,,,https://hotel-chevalnoir.fr/,45.4380171,4.3907118
+2436685115,node,Café de la Grand Poste,restaurant,Saint-Étienne,,,https://grandeposte.fr/,45.437076,4.3921924
+2448347575,node,Auberge de Rochetaillée,restaurant,Saint-Étienne,,,http://www.auberge-rochetaillee.fr,45.4098273,4.4460045
+2448347576,node,Les Plats Canailles,restaurant,Saint-Étienne,3 Rue du Parc,,https://www.lesplatscanailles.fr/,45.4100312,4.4458956
+2477666565,node,Muse de l'artisanat,artwork,Saint-Étienne,,,,45.4313851,4.3938808
+2496060863,node,La Sauvagère,restaurant,Saint-Étienne,"Rue Salvador Allende, 42350, La Talaudière",42350,,45.4752576,4.4258904
+2497306761,node,Pizza Dany,restaurant,Saint-Étienne,,,,45.529271,4.6198871
+2497330220,node,L'Orchidée,restaurant,Saint-Étienne,,,,45.5289331,4.6199319
+2498490839,node,Salle d'exposition,gallery,Saint-Étienne,,,,45.4345517,4.3246851
+2505108835,node,Kyoto,restaurant,Saint-Étienne,,,,45.4366375,4.389595
+2530810230,node,Le Feugerolles,restaurant,Saint-Étienne,"22 Rue de la République, 42500, Le Chambon-Feugerolles",42500,,45.3962583,4.3221179
+2560111480,node,,memorial,Saint-Étienne,,,,45.2965974,4.5607216
+2578046203,node,Maison de la passementerie,museum,Saint-Étienne,,,http://www.maison-passementerie.info,45.3147563,4.3619853
+2591216030,node,Musée des Verts,museum,Saint-Étienne,,,https://www.museedesverts.fr/,45.4601821,4.3892613
+2592356253,node,La Muse de Massenet,artwork,Saint-Étienne,,,,45.4372464,4.3903353
+2606079864,node,Stèle à la mémoire de Jean Moulin,memorial,Saint-Étienne,,,,45.5303122,4.6203676
+2606080758,node,Monument à la résistance et aux martyrs de la déportation,memorial,Saint-Étienne,,,,45.530175,4.6205312
+2617215227,node,La Métallurgie,artwork,Saint-Étienne,,,,45.4397428,4.3872372
+2617215228,node,La Rubanerie,artwork,Saint-Étienne,,,,45.4397916,4.3875776
+2630132528,node,Pizza Maria & Pipo,restaurant,Saint-Étienne,"1 Rue Pasteur, 42400, Saint-Chamond",42400,,45.4765598,4.5049171
+2630904116,node,À la mémoire de Francis Garnier,artwork,Saint-Étienne,,,,45.4332671,4.3983402
+2638077214,node,Rêves d'Ailleurs,gallery,Saint-Étienne,"23 Rue Paul Bert, 42000, Saint-Étienne",42000,https://revesdafrique42.canalblog.com/,45.4417882,4.3834199
+2641243679,node,L'Égyptienne,artwork,Saint-Étienne,,,,45.431274,4.3878161
+2643729992,node,Buste de Jean Moulin,memorial,Saint-Étienne,,,,45.4376639,4.3922232
+2648251703,node,Les Limbes,gallery,Saint-Étienne,"7 Rue Henri Barbusse, 42000",42000,https://leslimbes.com/,45.4338937,4.3933807
+2650563993,node,Monument de la Guerre d'Arménie,artwork,Saint-Étienne,,,,45.4322529,4.3904545
+2682123760,node,Sushiren,restaurant,Saint-Étienne,,,https://sushiren42.fr/,45.4376258,4.382997
+2687172098,node,Les anciens et amis de la Maison des Enfants du Chasseur,memorial,Saint-Étienne,,,,45.4621391,4.3255609
+2687644580,node,La Bougnette,restaurant,Saint-Étienne,,,https://www.labougnette.fr/,45.4644881,4.3224243
+2699632308,node,L'hédoniste,restaurant,Saint-Étienne,,,https://restaurant-lhedoniste.com/,45.4358197,4.3867969
+2725368539,node,La Victoire,artwork,Saint-Étienne,,,,45.438556,4.3764061
+2725487940,node,,viewpoint,Saint-Étienne,,,,45.478032,4.5098207
+2773569889,node,Monument aux Morts de la MAS,memorial,Saint-Étienne,,,,45.4506936,4.3844533
+2773569923,node,Gimme Shelter,artwork,Saint-Étienne,,,https://www.nathalietalec.com/creation-grants/gimme-shelter-2013/,45.4503284,4.3842721
+2788608760,node,La table d'Elsa,restaurant,Saint-Étienne,,,,45.507186,4.578851
+2801100301,node,,memorial,Saint-Étienne,,,,45.389232,4.2854358
+2829455547,node,,viewpoint,Saint-Étienne,,,,45.5001573,4.5640326
+2846243809,node,,viewpoint,Saint-Étienne,,,,45.4854577,4.5317842
+2862547312,node,Château de Bouthéon,attraction,Saint-Étienne,,,,45.5439212,4.2638307
+2867180206,node,Ancienne collégiale Saint-Jean-Baptiste du château,ruins,Saint-Étienne,,,,45.4784603,4.5095899
+2869818680,node,La Ferme Linossier,restaurant,Saint-Étienne,,,http://fermeauberge-linossier.com/,45.2700816,4.5653481
+2887595576,node,sculptures naturelles sur bois,artwork,Saint-Étienne,,,,45.4530054,4.6535325
+2893523396,node,,viewpoint,Saint-Étienne,,,,45.5006824,4.5654145
+2942508133,node,Kyriad,hotel,Saint-Étienne,,,https://saint-etienne-centre.kyriad.com/,45.4418206,4.4063572
+2970553076,node,,viewpoint,Saint-Étienne,,,,45.481237,4.708237
+2979366747,node,Oyisi,restaurant,Saint-Étienne,"55 Rue de la République, 42000, Saint-Étienne",42000,https://www.restaurant-japonais-oyisi.com/,45.4394247,4.3944876
+2995418660,node,,viewpoint,Saint-Étienne,,,,45.3078938,4.4399224
+2995429298,node,Restaurant Béal,restaurant,Saint-Étienne,,,,45.2838324,4.4446678
+3040771388,node,,viewpoint,Saint-Étienne,,,,45.3049426,4.5391528
+3043157958,node,Brasserie Le 5,restaurant,Saint-Étienne,"ZA la Gouyonniere, 42480, La Fouillouse",42480,https://www.brasserie-lecinq.com/,45.5229483,4.2921751
+3043220549,node,Amie Sushi Fusion,restaurant,Saint-Étienne,,,https://amiesushi.com/,45.522649,4.2916708
+3043596533,node,Pierre de Saint-Martin,attraction,Saint-Étienne,,,,45.3166429,4.4461363
+3047355290,node,Le Manolya,restaurant,Saint-Étienne,,,,45.4364869,4.3887423
+3050432369,node,,viewpoint,Saint-Étienne,,,,45.3849515,4.6157125
+3080487562,node,La Table des Matrus,restaurant,Saint-Étienne,,,https://www.la-table-des-matrus-restaurant-saint-etienne.fr/,45.4429795,4.3831855
+3082757333,node,Monument aux Morts de Saint-Julien-en-Jarez,memorial,Saint-Étienne,,,,45.4785688,4.5241993
+3089283169,node,Alta Mente,restaurant,Saint-Étienne,,,,45.4364398,4.3876192
+3089343009,node,Galerie Une Image,gallery,Saint-Étienne,,,,45.4430643,4.3842777
+3145155432,node,Château de Lachal,castle,Saint-Étienne,,,,45.5470738,4.5235203
+3158770473,node,Tasty Factory's,restaurant,Saint-Étienne,,,,45.5057233,4.57023
+3158865472,node,Table de lecture Chemin de decouverte,viewpoint,Saint-Étienne,,,,45.544979,4.5007095
+3159139038,node,Navigli,restaurant,Saint-Étienne,"15 Place Saint-Pierre, 42400, Saint-Chamond",42400,,45.4784024,4.5126253
+3172253562,node,Ristorante Del Arte,restaurant,Saint-Étienne,,,https://www.delarte.fr/store-finder/528001,45.4769964,4.3428668
+3181760366,node,,artwork,Saint-Étienne,,,,45.41749,4.67681
+3220572109,node,,ruins,Saint-Étienne,,,,45.5337649,4.555273
+3220574599,node,Aqueduc romain,ruins,Saint-Étienne,,,,45.5364,4.57022
+3229795591,node,Brasserie Cocagne Rôti,restaurant,Saint-Étienne,,,,45.4403985,4.4015348
+3241599297,node,La Tablée,restaurant,Saint-Étienne,15 Rue Robert,,https://cantine-la-tablee.fr/,45.4423383,4.3888561
+3294322846,node,Jeannette,restaurant,Saint-Étienne,,,https://www.creperie-jeannette.fr/,45.4418498,4.3852984
+3294367961,node,Momo's,restaurant,Saint-Étienne,,,,45.4413575,4.3850558
+3294367963,node,Les Poteaux Carrés,restaurant,Saint-Étienne,,,,45.4419313,4.3859428
+3294367975,node,Rococo,restaurant,Saint-Étienne,,,,45.4419136,4.3858202
+3294367976,node,L'Aile ou la Cuisse,restaurant,Saint-Étienne,,,,45.4418965,4.3857017
+3303799977,node,Bien dans mon assiette,restaurant,Saint-Étienne,,,,45.4565325,4.3923304
+3386146797,node,Bouillon de Famille,restaurant,Saint-Étienne,,,,45.440918,4.3982744
+3391838976,node,Les Négociants,restaurant,Saint-Étienne,,,https://les-negociants.eatbu.com/,45.4568975,4.3820059
+3412477504,node,Sushi Tomioka,restaurant,Saint-Étienne,,,http://sushi-tomioka.fr/,45.4430179,4.3847435
+3423337580,node,Le Ti' Punch,restaurant,Saint-Étienne,,,,45.4424102,4.3850863
+3461579508,node,Wa Bento,restaurant,Saint-Étienne,,,https://www.wabento.fr/,45.4346822,4.390944
+3467414139,node,Mille Grill,restaurant,Saint-Étienne,,,,45.4424348,4.3849096
+3469518292,node,Buste d'Émile Girodet,artwork,Saint-Étienne,,,,45.4478979,4.381859
+3469677906,node,Aux Saisons gourmandes,restaurant,Saint-Étienne,,,,45.4386652,4.3830706
+3481330994,node,B&B Hôtel,hotel,Saint-Étienne,"17 Rue Marc Charras, 42100, Saint-Étienne",42100,https://www.hotel-bb.com/fr/hotel/saint-etienne-monthieu,45.4441931,4.4243625
+3481724299,node,B&B Hôtel Saint-Étienne La Terrasse,hotel,Saint-Étienne,,,https://www.hotel-bb.com/fr/hotel/saint-etienne-la-terrasse,45.4680808,4.3680277
+3490818495,node,Royal Indien,restaurant,Saint-Étienne,,,,45.4283485,4.3901139
+3490818496,node,Le Muscat,restaurant,Saint-Étienne,,,,45.436179,4.3866726
+3490818497,node,Monument funéraire du Souvenir français,memorial,Saint-Étienne,,,,45.4426716,4.3936142
+3496714835,node,,viewpoint,Saint-Étienne,,,,45.434578,4.3866593
+3514727865,node,Espace archéologique Forez-Jarez,museum,Saint-Étienne,4 bis Rue André Malraux,,https://forez-jarez.fr/,45.4398855,4.3850242
+3514797418,node,Atelier et conservatoire des Meilleurs Ouvriers de France,museum,Saint-Étienne,4 Rue Jean Itard,,https://ateliers-conservatoire-mof.com/,45.4557141,4.3813463
+3543837435,node,,memorial,Saint-Étienne,,,,45.3732619,4.4880744
+3544056448,node,Jupiter,artwork,Saint-Étienne,,,,45.3699805,4.4962198
+3544056452,node,Mars,artwork,Saint-Étienne,,,,45.3710181,4.4944739
+3544056454,node,Mercure,artwork,Saint-Étienne,,,,45.3713843,4.4941298
+3544056458,node,Saturne,artwork,Saint-Étienne,,,,45.3736054,4.4888426
+3544056460,node,Soleil,artwork,Saint-Étienne,,,,45.3715198,4.4939081
+3544056462,node,Terre,artwork,Saint-Étienne,,,,45.3711736,4.4943402
+3544056464,node,Vénus,artwork,Saint-Étienne,,,,45.3712723,4.4942306
+3546488292,node,,memorial,Saint-Étienne,,,,45.5211551,4.4929255
+3546490093,node,Statue de l'Ange,memorial,Saint-Étienne,,,,45.5211685,4.491408
+3546490662,node,Sapin Géant,attraction,Saint-Étienne,,,,45.3529951,4.4923144
+3546490676,node,,ruins,Saint-Étienne,,,,45.3585004,4.4984688
+3600569493,node,Le Petit Boulogne,restaurant,Saint-Étienne,,,,45.4563702,4.3750811
+3617298916,node,Chez Ye,restaurant,Saint-Étienne,,,,45.4420255,4.3851875
+3617298917,node,Au Koura Koura,restaurant,Saint-Étienne,,,,45.4421464,4.3849955
+3617298919,node,Little Garden,restaurant,Saint-Étienne,,,https://mylittlegardenresto.wordpress.com/,45.4421008,4.3851648
+3617298920,node,Le Gold,restaurant,Saint-Étienne,,,,45.4429329,4.384765
+3617298923,node,Taj Mahal,restaurant,Saint-Étienne,,,,45.4422286,4.3849722
+3617357950,node,Jean Jaurès,artwork,Saint-Étienne,,,,45.4408697,4.3870833
+3617357951,node,José Frappa,artwork,Saint-Étienne,,,,45.4418523,4.3868082
+3617526055,node,Casa Giuseppe,restaurant,Saint-Étienne,,,,45.4405757,4.386234
+3617526056,node,Le Stromboli,restaurant,Saint-Étienne,,,,45.4405104,4.3857645
+3618351542,node,Bistrot de Sainté,restaurant,Saint-Étienne,7 Place Jean Jaurès,,,45.4407002,4.3854078
+3622145718,node,Hôtel Furania,hotel,Saint-Étienne,18 Rue de la Résistance,,https://www.hotelfurania.com,45.4391136,4.3858383
+3623130297,node,Le Dolce Rosa,restaurant,Saint-Étienne,,,,45.4422927,4.3849517
+3660391090,node,Goûts du jour,restaurant,Saint-Étienne,,,,45.4459293,4.3861096
+3668529939,node,Corne d'Aurochs,restaurant,Saint-Étienne,,,https://cornedaurochs.eatbu.com/,45.4403288,4.3903456
+3671878293,node,La Pinatelle,restaurant,Saint-Étienne,,,,45.4153616,4.3478226
+3704607325,node,Le Cartusien,restaurant,Saint-Étienne,,,https://lecartusien.com/,45.4790441,4.6472613
+3717636001,node,Auberge Genêts d'Or,restaurant,Saint-Étienne,,,https://www.lesgenetsdor42.fr/,45.4188523,4.4758059
+3737232325,node,Comptoir des mets,restaurant,Saint-Étienne,"9BIS Place Saint-Pierre, 42400, Saint-Chamond",42400,,45.4779193,4.5136643
+3765004806,node,,viewpoint,Saint-Étienne,,,,45.3825092,4.5727716
+3790485994,node,Belvédère du Guizay,viewpoint,Saint-Étienne,,,,45.395898,4.3994394
+3823550390,node,Beluga,gallery,Saint-Étienne,,,,45.4404487,4.3972549
+3842732733,node,Le Tom Sawyer,restaurant,Saint-Étienne,,,,45.4129332,4.3905256
+3842864061,node,,viewpoint,Saint-Étienne,,,,45.4647402,4.4467273
+3851749276,node,Auberge du May,restaurant,Saint-Étienne,Les Scies 42740 DOIZIEUX,,https://www.aubergedumay-doizieux.fr/,45.4113022,4.5885909
+3851749277,node,Ô Bistro,restaurant,Saint-Étienne,,,,45.4939843,4.5604921
+3851756396,node,812,restaurant,Saint-Étienne,,,,45.4405303,4.5765334
+3893173470,node,,artwork,Saint-Étienne,,,,45.4167115,4.4104197
+3893173471,node,,artwork,Saint-Étienne,,,,45.41755,4.40846
+3893573977,node,Petit musée d'art comptant pour rien,gallery,Saint-Étienne,,,,45.4411902,4.3889351
+3900155244,node,Tandoori Palace,restaurant,Saint-Étienne,,,,45.436354,4.389674
+3906814880,node,El Inca,restaurant,Saint-Étienne,"21 Rue Louis Braille, 42000, Saint-Étienne",42000,https://el-inca.fr,45.4401888,4.3888081
+3907979931,node,Le Midi en Semaine,restaurant,Saint-Étienne,,,,45.4380563,4.3893054
+3907979935,node,Gandot,restaurant,Saint-Étienne,,,https://gandot.fr/,45.4394578,4.38613
+3920286861,node,Chimère,restaurant,Saint-Étienne,,,,45.4368737,4.3869665
+3920351205,node,Comfort,hotel,Saint-Étienne,,,https://www.zenitude-hotel-residences.com/residences/saint-etienne/,45.4338768,4.3887798
+3928483299,node,Le 23,restaurant,Saint-Étienne,,,,45.4333339,4.3882736
+3931842348,node,Château du Mollard,castle,Saint-Étienne,,,,45.5163005,4.6140304
+3940114259,node,,artwork,Saint-Étienne,,,,45.4506052,4.3857687
+3958703782,node,,viewpoint,Saint-Étienne,,,,45.2894012,4.4704945
+3970744611,node,,artwork,Saint-Étienne,,,,45.4509671,4.3844056
+3989382257,node,,memorial,Saint-Étienne,,,,45.5444967,4.4866901
+3997775704,node,Les Terrasses de Maloé,restaurant,Saint-Étienne,,,https://www.lesterrassesdemaloe.fr/,45.4383249,4.3888802
+3997775709,node,Pizz'A L'ancienne,restaurant,Saint-Étienne,"31 Rue Gambetta, 42000, Saint-Étienne",42000,https://www.pizzalanciennesaint-etienne.fr/,45.4324236,4.389187
+4018998512,node,Château d'Albuzy,castle,Saint-Étienne,,,,45.5155364,4.4526975
+4020954315,node,,memorial,Saint-Étienne,,,,45.5553213,4.5352966
+4030295385,node,Ker Annick,restaurant,Saint-Étienne,,,,45.4357172,4.3914856
+4039026573,node,,memorial,Saint-Étienne,,,,45.4685736,4.3940073
+4054024999,node,,memorial,Saint-Étienne,,,,45.5708143,4.4825927
+4054749744,node,La Table de Claire,restaurant,Saint-Étienne,,,,45.4398696,4.427719
+4056052090,node,Le 76,restaurant,Saint-Étienne,,,,45.4304125,4.3908064
+4056140256,node,,memorial,Saint-Étienne,,,,45.4358149,4.4367444
+4056375878,node,Côté Sushi,restaurant,Saint-Étienne,,,https://cotesushi.com/restaurants/3580-cote-sushi-saint-etienne,45.4369879,4.3886424
+4059464622,node,La Madone,memorial,Saint-Étienne,,,,45.4165852,4.5213059
+4073547096,node,Pizz'à Bois,restaurant,Saint-Étienne,,,,45.4415255,4.3884557
+4095575021,node,,memorial,Saint-Étienne,,,,45.3806116,4.2825879
+4095575026,node,,artwork,Saint-Étienne,,,,45.3807623,4.2823814
+4104632625,node,,artwork,Saint-Étienne,,,,45.4351667,4.3938216
+4119649951,node,Plateau de la Danse,viewpoint,Saint-Étienne,,,,45.4353241,4.253875
+4127012309,node,,memorial,Saint-Étienne,,,,45.5426795,4.264397
+4134812124,node,,memorial,Saint-Étienne,,,,45.4855087,4.3870783
+4185733204,node,L & Lui,restaurant,Saint-Étienne,"21 Avenue de la Libération, 42400, Saint-Chamond",42400,,45.4734513,4.5157857
+4186788289,node,Pizza Cosy,restaurant,Saint-Étienne,,,,45.4303234,4.3900396
+4187635677,node,Le Grillon,restaurant,Saint-Étienne,,,,45.4309853,4.3893978
+4204852393,node,Fresh Mouv’,restaurant,Saint-Étienne,,,,45.4515214,4.4473721
+4204866689,node,Le Petit Relais,restaurant,Saint-Étienne,,,,45.4664169,4.4291653
+4216286368,node,Planque,restaurant,Saint-Étienne,,,,45.4698966,4.3742042
+4218549004,node,Le marmiton du Pilat,restaurant,Saint-Étienne,,,,45.3831138,4.4406455
+4225813696,node,,memorial,Saint-Étienne,,,,45.2833481,4.4445118
+4233728790,node,numéro dix,restaurant,Saint-Étienne,,,https://numerodix-cantine.fr/,45.4362994,4.3864883
+4254460710,node,La grotte sarrazine,attraction,Saint-Étienne,,,,45.3292292,4.5370452
+4268645489,node,Ruins of monastry,attraction,Saint-Étienne,,,,45.3613477,4.6630685
+4269507856,node,,artwork,Saint-Étienne,,,,45.5250567,4.6405632
+4271178168,node,La Cabane,museum,Saint-Étienne,,,,45.4498726,4.3862268
+4273113651,node,Au Grain de Sel,restaurant,Saint-Étienne,,,,45.4451803,4.3975125
+4282012205,node,Pierre Pingaule,attraction,Saint-Étienne,,,,45.3130039,4.4471201
+4282012206,node,Pierre Carriole,attraction,Saint-Étienne,,,,45.3142375,4.4474151
+4282269993,node,Pierre des trois Évêques,attraction,Saint-Étienne,,,,45.3020423,4.4892132
+4284945742,node,,viewpoint,Saint-Étienne,,,,45.5365952,4.5534978
+4302897590,node,Hôtel de France,hotel,Saint-Étienne,"56 Grand Rue, 42660, Le Bessat",42660,https://www.hoteldefrance-lebessat.fr/,45.368712,4.5155134
+4302905493,node,Copains Comme Cochons,restaurant,Saint-Étienne,"23 Place de l'Église, 42660, Le Bessat",42660,https://www.restaurant-copainscommecochons.com,45.368495,4.5165813
+4307120214,node,La Gondola,restaurant,Saint-Étienne,,,,45.4425908,4.3848549
+4307120215,node,Le Balafon,restaurant,Saint-Étienne,,,https://lebalafon.fr/,45.4427466,4.3848083
+4316704317,node,,memorial,Saint-Étienne,,,,45.368129,4.660713
+4316704342,node,,memorial,Saint-Étienne,,,,45.3682361,4.663264
+4318629662,node,Auberge de Lupé,restaurant,Saint-Étienne,,,,45.3708732,4.6998286
+4320667701,node,,memorial,Saint-Étienne,,,,45.3729347,4.7059507
+4327617668,node,,viewpoint,Saint-Étienne,,,,45.3846193,4.7286659
+4340779137,node,Semeurs de Trouble,gallery,Saint-Étienne,,,https://www.galeriesemeursdetrouble.com/,45.4377215,4.3882578
+4346255305,node,,memorial,Saint-Étienne,,,,45.4440556,4.3910157
+4360406579,node,Restaurant Le Val Gourmand,restaurant,Saint-Étienne,64 Place de la Mairie,,,45.520739,4.493086
+4398047734,node,Auberge des Granges,restaurant,Saint-Étienne,,,,45.4788574,4.3069833
+4417436980,node,Relais Saint-Michel,restaurant,Saint-Étienne,,,,45.4444604,4.7524439
+4427333604,node,Bistrot de la Gare,restaurant,Saint-Étienne,,,,45.4167788,4.7367029
+4445946763,node,Pizza L'Italia,restaurant,Saint-Étienne,,,,45.4406133,4.3831935
+4455036791,node,,memorial,Saint-Étienne,,,,45.4489229,4.4445129
+4509133921,node,Bol'appétit,restaurant,Saint-Étienne,,,https://www.bolappetit.com/,45.4480777,4.3835779
+4509166804,node,Bangkok Factory,restaurant,Saint-Étienne,,,,45.4398885,4.3976851
+4509201428,node,Chez Mao,restaurant,Saint-Étienne,,,,45.4375618,4.3891796
+4509235543,node,La Foccaccia,restaurant,Saint-Étienne,,,,45.4353666,4.3899531
+4509235544,node,Poco Loco,restaurant,Saint-Étienne,,,,45.4348782,4.390568
+4509235547,node,Spice Lounge,restaurant,Saint-Étienne,,,https://www.spicelounge.fr/,45.4342234,4.3913687
+4509282299,node,Crôusty Chaï,restaurant,Saint-Étienne,,,,45.4285986,4.3903196
+4509282300,node,L'Axolotl,restaurant,Saint-Étienne,39 Rue Désiré Claude,,,45.4280789,4.3893083
+4509282302,node,Le Ryad,restaurant,Saint-Étienne,,,,45.4280845,4.3943063
+4509295980,node,Le Némo,restaurant,Saint-Étienne,,,,45.4152637,4.4038442
+4513817617,node,Le Volkan,restaurant,Saint-Étienne,,,,45.4815757,4.4448312
+4513817619,node,L'Hospitalet,restaurant,Saint-Étienne,,,,45.4793673,4.4432275
+4513848902,node,Parc du château de Fontanès,park,Saint-Étienne,,,,45.5454205,4.434505
+4515555065,node,La Pérolière,restaurant,Saint-Étienne,,,,45.474236,4.442396
+4515559093,node,Le bonne franquette,restaurant,Saint-Étienne,,,,45.4691736,4.4328473
+4546335279,node,Estampille,gallery,Saint-Étienne,,,https://www.estampille-editions.com/,45.4398757,4.387378
+4559959782,node,Le Vieux Colombier,gallery,Saint-Étienne,,,,45.4313161,4.3895108
+4560172352,node,Tsuki,restaurant,Saint-Étienne,,,https://tsuki42.com/,45.4351099,4.3878177
+4560188135,node,La 4ème chambre,restaurant,Saint-Étienne,,,,45.4371448,4.3853823
+4570688388,node,,memorial,Saint-Étienne,,,,45.3378044,4.6007858
+4588877269,node,La Cachette,restaurant,Saint-Étienne,,,,45.4823965,4.4379615
+4588883607,node,Ô’ Tord Boyaux,restaurant,Saint-Étienne,,,,45.4809001,4.4491719
+4588893445,node,Toque & Gourmandise,restaurant,Saint-Étienne,8 Rue Louis Blanchard,,https://toqueetgourmandise.fr/,45.4799405,4.4476988
+4637593033,node,Frango Real,restaurant,Saint-Étienne,,,,45.4469637,4.4392367
+4676138646,node,Cooko's Coffee,restaurant,Saint-Étienne,48 Rue du Onze Novembre,,,45.4265171,4.3906366
+4683260717,node,Il Lo Caffè,restaurant,Saint-Étienne,,,,45.439256,4.3847002
+4719075844,node,Château de Vivert,castle,Saint-Étienne,,,,45.496569,4.3895587
+4790095138,node,Château de Malval,castle,Saint-Étienne,,,,45.5346056,4.3694043
+4795303520,node,Le Restaurant du Port,restaurant,Saint-Étienne,28,,https://www.lerestoduport.fr/,45.3800409,4.7515866
+4819655761,node,,artwork,Saint-Étienne,,,,45.4267273,4.3924251
+4827588050,node,Di Voglia,restaurant,Saint-Étienne,,,,45.4413294,4.3874328
+4878057573,node,La Pyramide,memorial,Saint-Étienne,,,,45.3661136,4.5236373
+4883615336,node,Le Hangar,restaurant,Saint-Étienne,,,,45.5292726,4.2782655
+4902584543,node,Chartreuse de Sainte-Croix-en-Jarez,attraction,Saint-Étienne,,,https://chartreuse-saintecroixenjarez.com,45.4793991,4.646481
+4905647835,node,Le Cardinal,restaurant,Saint-Étienne,,,,45.4795868,4.3557709
+4925879126,node,,memorial,Saint-Étienne,,,,45.5467955,4.4373532
+4932647631,node,Vénus,artwork,Saint-Étienne,,,,45.4413996,4.3863359
+4932647632,node,Apollon,artwork,Saint-Étienne,,,,45.4411606,4.3864026
+4932647633,node,Les Nymphes à la fontaine,artwork,Saint-Étienne,,,,45.4405946,4.38717
+4932647634,node,Le Babet,artwork,Saint-Étienne,,,,45.435153,4.3807976
+4934330469,node,La Diligence,hotel,Saint-Étienne,,,https://www.domaine-de-la-diligence.fr/,45.3410062,4.4583839
+4945729632,node,RésidHotel,hotel,Saint-Étienne,,,,45.4389575,4.3886516
+4950192812,node,Le National,hotel,Saint-Étienne,"3 Rue Cugnot, 42000, Saint-Étienne",42000,,45.4420383,4.3981847
+4965313617,node,Avion,artwork,Saint-Étienne,,,,45.5258218,4.2701689
+4970216221,node,Moulin Riffat,restaurant,Saint-Étienne,,,http://www.verdier-riffat.com/,45.4085957,4.2460301
+4977318372,node,Pizza Paradiso,restaurant,Saint-Étienne,"1 Boulevard Alamagny, 42400, Saint-Chamond",42400,,45.4695698,4.5140902
+5021733661,node,Double Ecluse du Rocher Percé,attraction,Saint-Étienne,,,,45.5503784,4.673886
+5024909322,node,Anatolia,restaurant,Saint-Étienne,"17 Avenue de la Libération, 42400, Saint-Chamond",42400,,45.4736398,4.515216
+5054275361,node,La Tontine,restaurant,Saint-Étienne,,,,45.3225832,4.6157718
+5148017225,node,,memorial,Saint-Étienne,,,,45.4676968,4.3532186
+5148025979,node,Hôtel restaurant de la Gare,hotel,Saint-Étienne,,,,45.4750099,4.3535887
+5181316734,node,Chrysalive,gallery,Saint-Étienne,,,,45.4583283,4.3813428
+5204693199,node,Statue de Michel Rondet,memorial,Saint-Étienne,,,,45.4038813,4.3662621
+5207181938,node,Nota Burger,restaurant,Saint-Étienne,,,https://www.notaburger42.com/,45.4415007,4.387372
+5247558064,node,Le Régency,restaurant,Saint-Étienne,,,https://www.restaurantleregency.fr/,45.4481604,4.3881382
+5247558066,node,Le Carnot,hotel,Saint-Étienne,,,,45.4480043,4.3875736
+5323825642,node,,memorial,Saint-Étienne,,,,45.4042615,4.2614625
+5413296953,node,Le Fusillé,artwork,Saint-Étienne,,,,45.4431244,4.3990484
+5413296954,node,Buste de Marc Seguin,artwork,Saint-Étienne,,,,45.4433745,4.3992945
+5418590908,node,Ouvrier terrassier,artwork,Saint-Étienne,,,,45.4318144,4.3872605
+5418590909,node,Le Coq Gaulois,artwork,Saint-Étienne,,,,45.431595,4.389191
+5418590910,node,Monument à la mémoire d'Antoine Durafour,memorial,Saint-Étienne,,,,45.4307149,4.3905662
+5418590911,node,Les Femmes Noires,artwork,Saint-Étienne,,,,45.4150464,4.3943837
+5418664149,node,La Baigneuse,artwork,Saint-Étienne,,,,45.4211089,4.4154503
+5418664150,node,Une Île Suffisante,artwork,Saint-Étienne,,,,45.4334065,4.3974015
+5418664151,node,Les chevaux bleus,artwork,Saint-Étienne,,,,45.4427149,4.4004765
+5418664153,node,La Dévideuse,artwork,Saint-Étienne,,,,45.4370476,4.3937711
+5418664154,node,Pouet,artwork,Saint-Étienne,,,,45.4348115,4.3921718
+5418664155,node,Les colosses,artwork,Saint-Étienne,,,,45.4350927,4.392446
+5418664156,node,Le Loup,artwork,Saint-Étienne,,,,45.4353456,4.3861616
+5418664158,node,Allégorie à l'armurerie,artwork,Saint-Étienne,,,,45.4371088,4.3864612
+5418664159,node,Apollon créant Asclépios,artwork,Saint-Étienne,,,,45.4326675,4.3918276
+5418664160,node,Buste de Geoffroy Guichard,memorial,Saint-Étienne,,,,45.4608877,4.389365
+5418664161,node,Le Mur de Fauriel,memorial,Saint-Étienne,,,,45.4373507,4.3932063
+5418664163,node,Buste de Jules Janin,memorial,Saint-Étienne,,,,45.4477082,4.3851928
+5418664164,node,Saint-Jean-Baptiste,artwork,Saint-Étienne,,,,45.4369004,4.3885302
+5520676909,node,,artwork,Saint-Étienne,,,,45.4051609,4.3601801
+5561882332,node,Jardin collectif du GEM,garden,Saint-Étienne,,,,45.4534283,4.3754381
+5598659172,node,Snack - bar,restaurant,Saint-Étienne,,,,45.4210405,4.6751217
+5598725759,node,,restaurant,Saint-Étienne,,,,45.4169989,4.6762576
+5598772292,node,Kebab Pilat,restaurant,Saint-Étienne,2 Rue Bourchany,,,45.4180385,4.6694774
+5598772305,node,,viewpoint,Saint-Étienne,,,,45.4186145,4.6716181
+5598772306,node,La halle,castle,Saint-Étienne,,,,45.4186118,4.6715219
+5598772307,node,Porte du château,castle,Saint-Étienne,,,,45.4186378,4.6711694
+5598879766,node,Buste de Gaston Baty,artwork,Saint-Étienne,,,,45.4197361,4.6826421
+5598879768,node,Pizzaliz,restaurant,Saint-Étienne,"1 Rue de la Gare, 42410",42410,https://pizzaliz.fr/,45.41776,4.6809748
+5598879775,node,La fabrique de la Soie,artwork,Saint-Étienne,,,,45.418319,4.6827362
+5598938875,node,Rond point du Planil,artwork,Saint-Étienne,,,,45.4200908,4.6904074
+5598960186,node,La pomme du Pilat,artwork,Saint-Étienne,,,,45.4205295,4.6971948
+5598974649,node,,artwork,Saint-Étienne,,,,45.4207116,4.6766284
+5599000139,node,Le tacot,artwork,Saint-Étienne,,,,45.4184566,4.6784632
+5599000140,node,,artwork,Saint-Étienne,,,,45.4186047,4.6782722
+5614174533,node,Combe de Montélier,viewpoint,Saint-Étienne,,,,45.4222208,4.726261
+5618186961,node,Les Pies Railleuses,restaurant,Saint-Étienne,,,http://www.lespiesrailleuses.fr/,45.3223278,4.6146384
+5624308825,node,"Stèle commémorative de ""l'Imbattable""",memorial,Saint-Étienne,,,,45.4070563,4.2368066
+5626687924,node,Porte Saint-Pierre,ruins,Saint-Étienne,,,,45.3862307,4.2879484
+5637902294,node,Marianne,memorial,Saint-Étienne,,,,45.4695669,4.5145184
+5650070626,node,Le Petit Forez,restaurant,Saint-Étienne,,,,45.4685066,4.3817277
+5650070627,node,China House,restaurant,Saint-Étienne,,,,45.4685959,4.381481
+5651706654,node,,artwork,Saint-Étienne,,,,45.4414064,4.3819307
+5657218909,node,La Fabuleuse Cantine,restaurant,Saint-Étienne,"1 Rue Claudius Ravachol, 42000, Saint-Étienne",42000,https://saint-etienne.lafabuleusecantine.fr/,45.4505536,4.3869891
+5678079598,node,Arts Et Couleurs,gallery,Saint-Étienne,,,,45.4763098,4.5103869
+5678118003,node,Au Fil Des Saisons,restaurant,Saint-Étienne,"21 Boulevard Waldeck Rousseau GR7, 42400, Saint-Chamond",42400,,45.4753724,4.5055411
+5726167369,node,Le Péché du Pilat,restaurant,Saint-Étienne,"24 Place de la Petite Sorbonne, 42520, Malleval",42520,,45.3845028,4.72663
+5727334278,node,Le Four à Bois,restaurant,Saint-Étienne,"8 Place de la Liberté, 42400, Saint-Chamond",42400,,45.4750588,4.5100777
+5727334279,node,Le Monte Cristo,restaurant,Saint-Étienne,"9 Place de la Liberté, 42400, Saint-Chamond",42400,,45.4750339,4.5101794
+5730147693,node,Le Dorian,restaurant,Saint-Étienne,"3 Place Dorian, 42400, Saint-Chamond",42400,,45.4755078,4.5093543
+5755477379,node,Notre-Dame-de-Chez-Nous,artwork,Saint-Étienne,,,,45.5278365,4.3783072
+5864928088,node,Le Canopy,restaurant,Saint-Étienne,,,,45.4349698,4.391236
+5870546549,node,Le Comptoir de Marrakech,restaurant,Saint-Étienne,"6 Place Saint-Pierre, 42400, Saint-Chamond",42400,,45.4780152,4.513083
+5870546993,node,,memorial,Saint-Étienne,,,,45.4782946,4.5149993
+5879354817,node,,viewpoint,Saint-Étienne,,,,45.4065722,4.2405445
+5900130185,node,La Savane,restaurant,Saint-Étienne,,,,45.4349002,4.3919086
+5900150416,node,"Madame, Table de Cheffe",restaurant,Saint-Étienne,"Place Villebœuf, 42000, Saint-Étienne",42000,https://www.restaurantmadame.fr/,45.4325938,4.3942601
+5923643147,node,Royal Wok,restaurant,Saint-Étienne,,,,45.4772725,4.3482766
+5987144490,node,La Maison Dorée,restaurant,Saint-Étienne,,,,45.432852,4.3884004
+5987144491,node,La Petite Cantine,restaurant,Saint-Étienne,,,,45.4329631,4.3883655
+6028331385,node,Pizza Cosy,restaurant,Saint-Étienne,"3 Rue du Moulin Gillier, 42290, Sorbiers",42290,,45.4807542,4.4443475
+6032667440,node,,memorial,Saint-Étienne,,,,45.5290761,4.372894
+6106013458,node,Resto'Campus,restaurant,Saint-Étienne,"2B Allée Galilée, 42400, Saint-Chamond",42400,,45.4892135,4.5211716
+6141245694,node,Madonne,artwork,Saint-Étienne,,,,45.4244748,4.3784762
+6150588123,node,,artwork,Saint-Étienne,,,,45.4204297,4.4117608
+6158318285,node,L'Agorà,restaurant,Saint-Étienne,,,,45.4426419,4.4027369
+6180648497,node,La Grande Muraille,restaurant,Saint-Étienne,"23 Rue Dugas Montbel, 42400, Saint-Chamond",42400,,45.4734465,4.516402
+6181444804,node,Hôtel/Restaurant Les Ambassadeurs,hotel,Saint-Étienne,"28 Avenue de la Libération, 42400, Saint-Chamond",42400,,45.4731643,4.5159041
+6181444872,node,Chez Lucie,restaurant,Saint-Étienne,"4 Avenue de la Libération, 42400, Saint-Chamond",42400,,45.4740575,4.5132748
+6202350694,node,Col de la République,viewpoint,Saint-Étienne,,,,45.3314851,4.4799391
+6219017121,node,Jean Dasté,artwork,Saint-Étienne,,,,45.4353756,4.3804932
+6220820041,node,Le Salah,restaurant,Saint-Étienne,,,,45.4380665,4.3847989
+6237971144,node,Shalimar,restaurant,Saint-Étienne,,,,45.4355531,4.3902702
+6264812072,node,La Petite Roche,restaurant,Saint-Étienne,La Croix de Chaubouret,,,45.3679868,4.5296912
+6276851633,node,,memorial,Saint-Étienne,,,,45.4143225,4.7311913
+6278394922,node,Au Baratin,restaurant,Saint-Étienne,,,,45.4357962,4.3937238
+6278925045,node,Le Cadet Gourmand,restaurant,Saint-Étienne,,,,45.4343381,4.3912848
+6282636711,node,,memorial,Saint-Étienne,,,,45.4571658,4.6935315
+6285583303,node,,artwork,Saint-Étienne,,,,45.3381298,4.6012874
+6285670522,node,Auberge de la Croix de Saint-Sabin,restaurant,Saint-Étienne,,,,45.3693776,4.6125233
+6293395283,node,,memorial,Saint-Étienne,,,,45.492394,4.5972347
+6296300120,node,Le Rendez-Vous,restaurant,Saint-Étienne,"40 Avenue Pasteur, 42152, L'Horme",42152,https://lerendezvouslhorme.fr/,45.4829779,4.5322049
+6307648835,node,,memorial,Saint-Étienne,,,,45.3847224,4.7261626
+6307648844,node,Vieux château de Roche Chauve,ruins,Saint-Étienne,,,,45.3829401,4.7276699
+6310570891,node,,viewpoint,Saint-Étienne,,,,45.3828725,4.7281876
+6310570902,node,,viewpoint,Saint-Étienne,,,,45.3829348,4.725849
+6310932276,node,,viewpoint,Saint-Étienne,,,,45.3863791,4.7255935
+6356159369,node,,artwork,Saint-Étienne,,,,45.5544074,4.6690525
+6359999100,node,Madone,artwork,Saint-Étienne,,,,45.4876597,4.3910017
+6360213870,node,Le Tableau Gourmand,restaurant,Saint-Étienne,"14 Place de la Mairie, 42520, Véranne",42520,https://www.letableaugourmand.fr/,45.3682695,4.662477
+6360224758,node,Auberge de Vert Ânes,restaurant,Saint-Étienne,"169 Impasse de Saint-Sabin, 42520, Véranne",42520,https://www.vertanes.fr,45.3704237,4.6181606
+6360356941,node,,memorial,Saint-Étienne,,,,45.3177272,4.5261757
+6393563466,node,Le Restaurant,restaurant,Saint-Étienne,,,,45.4943741,4.52553
+6418145918,node,Maison Duculty,restaurant,Saint-Étienne,,,,45.4470668,4.5836811
+6418163994,node,Maison des Tresses et Lacets,museum,Saint-Étienne,,,https://maisondestressesetlacets.fr/,45.4576024,4.5828409
+6506049967,node,Restaurant Réocreux,restaurant,Saint-Étienne,"13BIS Route de Saint-Étienne, 42400, Saint-Chamond",42400,,45.4673189,4.5001401
+6506054991,node,Le Pont Nantin,restaurant,Saint-Étienne,"44 Route de la Varizelle, 42400, Saint-Chamond",42400,https://www.restaurant-lepontnantin.fr/,45.4618266,4.4863347
+6512733660,node,Centre d'interprétation des usages de l'eau de la vallée du Cotatay,museum,Saint-Étienne,"Vallée de Cotatay, 42500, Le Chambon-Feugerolles",42500,,45.3900907,4.3588864
+6512773903,node,Croix du Jubilé de 1827,memorial,Saint-Étienne,,,,45.3822083,4.4416724
+6519008362,node,Auberge-Loisirs de la Barbanche,restaurant,Saint-Étienne,,,,45.3909536,4.4811662
+6522694705,node,Les croqueurs de pommes du terroir du Jarez,garden,Saint-Étienne,"Rue de la Péronnière, La Grand-Croix",,,45.501311,4.558624
+6527838919,node,Restaurant du Stade,restaurant,Saint-Étienne,"39 Route du Coin, 42400, Saint-Chamond",42400,,45.4687855,4.5310396
+6552517824,node,,artwork,Saint-Étienne,,,,45.4367119,4.3818524
+6563313359,node,,attraction,Saint-Étienne,,,,45.5667848,4.576562
+6563324972,node,Barrage détruit par arreté préfectoral 12-714 An 2012,attraction,Saint-Étienne,,,,45.5700719,4.581575
+6575175777,node,,artwork,Saint-Étienne,,,,45.4061859,4.3868742
+6576127935,node,Les Petites Bruyères,restaurant,Saint-Étienne,,,,45.4537081,4.5035922
+6597093624,node,Goût du bled,restaurant,Saint-Étienne,,,,45.436467,4.3872569
+6608981562,node,Restaurant Municipal de Saint-Chamond,restaurant,Saint-Étienne,"4 Rue du Garat, 42400, Saint-Chamond",42400,,45.4787055,4.5147661
+6611019523,node,Guno,restaurant,Saint-Étienne,,,,45.4357782,4.3901739
+6611021577,node,Gonzague,restaurant,Saint-Étienne,,,https://www.gonzague-burgers-saint-etienne.fr/,45.4361699,4.3900175
+6611854293,node,ruine maison,ruins,Saint-Étienne,,,,45.3585894,4.4995505
+6726017712,node,Auberge de la chapelle,restaurant,Saint-Étienne,"Route du Col de Grenouze, 42410, La Chapelle-Villars",42410,,45.4724769,4.7168891
+6743967068,node,,viewpoint,Saint-Étienne,,,,45.3947496,4.6392901
+6804195436,node,Ibis Budget,hotel,Saint-Étienne,,,,45.4422908,4.400007
+6804195437,node,Novotel,hotel,Saint-Étienne,,,,45.4425229,4.3998383
+6807740139,node,L'Atelier Nova,restaurant,Saint-Étienne,"20 Rue Royet de la Bastie, 42400, Saint-Chamond",42400,,45.4666735,4.5051756
+6822229374,node,Le Bistrot de Vingré,restaurant,Saint-Étienne,,,,45.4357005,4.3903574
+6864956742,node,O’Kanailles,restaurant,Saint-Étienne,,,,45.4337693,4.388167
+6871468042,node,Restaurant Hamdan,restaurant,Saint-Étienne,,,,45.457262,4.3819202
+6871763316,node,Ain Fouara,restaurant,Saint-Étienne,,,,45.436629,4.3831746
+6924043961,node,Les Pieds dans l'Pilat,restaurant,Saint-Étienne,"23 Route de Pélussin, 42520, Maclas",42520,https://www.lespiedsdanslpilat.fr/,45.3635287,4.6834135
+6926338146,node,,artwork,Saint-Étienne,,,,45.4753944,4.5084534
+6926338147,node,,artwork,Saint-Étienne,,,,45.4754068,4.5084799
+6926338148,node,,artwork,Saint-Étienne,,,,45.4753863,4.5084817
+6964046246,node,Bali Café,restaurant,Saint-Étienne,5 Rue de Lodi,,https://www.balicafe.fr/,45.4409813,4.388428
+7049533361,node,Steak House,restaurant,Saint-Étienne,,,,45.4542164,4.3906745
+7049552939,node,La Liberté Inachevée,artwork,Saint-Étienne,,,,45.4491096,4.3878447
+7089611623,node,La Bouche Pleine,restaurant,Saint-Étienne,,,,45.435054,4.3932801
+7103186904,node,,viewpoint,Saint-Étienne,,,,45.4611797,4.2602761
+7175249922,node,,restaurant,Saint-Étienne,,,,45.3593659,4.4594635
+7181700707,node,L'Atelier de Fauriel,restaurant,Saint-Étienne,,,,45.4262796,4.4043538
+7217248589,node,Le Daliaa,restaurant,Saint-Étienne,2 Place de l'Abbé Vincent,,,45.4179753,4.6712749
+7234877996,node,Lotus d'Asie,restaurant,Saint-Étienne,,,,45.4140808,4.295956
+7259090862,node,Auberge du château de Bobigneux,restaurant,Saint-Étienne,,,,45.2769392,4.5157138
+7278644980,node,L'Aqueduc Romain du Gier ou du Pilat,memorial,Saint-Étienne,,,,45.4609378,4.4949844
+7294661688,node,,memorial,Saint-Étienne,,,,45.4745424,4.5127961
+7305524581,node,Hôtel Restaurant du Parc,restaurant,Saint-Étienne,"141 Place de l'Église, 42520, Maclas",42520,,45.3624559,4.6853572
+7317405633,node,Le P'tit Saint-Just,restaurant,Saint-Étienne,,,,45.4372385,4.5791209
+7335301195,node,,memorial,Saint-Étienne,,,,45.461918,4.519383
+7335415197,node,,viewpoint,Saint-Étienne,,,,45.4695655,4.3980329
+7384769840,node,Miss Italia,restaurant,Saint-Étienne,139 Rue des Alliés,,,45.4417854,4.4151636
+7618202654,node,,viewpoint,Saint-Étienne,,,,45.4349317,4.3981814
+7618202655,node,,viewpoint,Saint-Étienne,,,,45.4328449,4.3967598
+7618202656,node,,viewpoint,Saint-Étienne,,,,45.4323559,4.4043411
+7618202657,node,,viewpoint,Saint-Étienne,,,,45.436907,4.3731041
+7618202658,node,,viewpoint,Saint-Étienne,,,,45.4258891,4.3801181
+7618220563,node,,viewpoint,Saint-Étienne,,,,45.4783955,4.3761874
+7658847982,node,Vélocio,memorial,Saint-Étienne,,,,45.3327669,4.4800843
+7693041566,node,,memorial,Saint-Étienne,,,,45.3228789,4.6139383
+7796188259,node,"Chambre d'hôtes ""Le Truchet""",hotel,Saint-Étienne,,,,45.421112,4.6610478
+7798350731,node,Ferme Auberge de la Blache Pécou,restaurant,Saint-Étienne,,,,45.2455615,4.5220797
+7830593205,node,La Fusée,artwork,Saint-Étienne,,,,45.4685534,4.5126978
+7868765161,node,Statue de Saint-Éloi,artwork,Saint-Étienne,,,,45.4694348,4.5072932
+7896421162,node,La Madone,memorial,Saint-Étienne,,,,45.3712927,4.4944101
+7927795283,node,Côté Parc,restaurant,Saint-Étienne,,,,45.4328011,4.39482
+8027731039,node,Auberge de Grange Rouet,restaurant,Saint-Étienne,"2600, 42410, Pavezin",42410,https://www.aubergedegrangerouet.com/grange-rouet,45.4520545,4.649718
+8027731040,node,La Ferme de la Croix,restaurant,Saint-Étienne,"2 Route de la Croix de Montvieux, Pélussin",,,45.4452644,4.6326363
+8042778341,node,Auberge du Col,restaurant,Saint-Étienne,,,,45.4647707,4.6782607
+8162478988,node,Planet Foot,artwork,Saint-Étienne,,,,45.4464715,4.3977286
+8179030084,node,Ibis,hotel,Saint-Étienne,,,https://all.accor.com/hotel/0801/index.fr.shtml,45.4670471,4.3777627
+8179073820,node,Hôtel Austria,hotel,Saint-Étienne,,,,45.4664475,4.3780012
+8195996298,node,Le Barboton,restaurant,Saint-Étienne,,,,45.4467336,4.3980825
+8196057887,node,Galerie Berthéas Les Tournesols,gallery,Saint-Étienne,,,,45.4359138,4.3937923
+8302804721,node,,viewpoint,Saint-Étienne,,,,45.3926835,4.6121637
+8309741001,node,,viewpoint,Saint-Étienne,,,,45.3764328,4.7445247
+8309747717,node,,viewpoint,Saint-Étienne,,,,45.3844152,4.7284669
+8419994346,node,,artwork,Saint-Étienne,,,,45.461829,4.3886122
+8419994352,node,,artwork,Saint-Étienne,,,,45.4424175,4.399441
+8446863343,node,Rocher de Chauchibat,viewpoint,Saint-Étienne,,,,45.3782348,4.6160483
+8477230148,node,Cascade du Dard,attraction,Saint-Étienne,,,,46.096156,6.3942177
+8485710215,node,Ô Dragon,restaurant,Saint-Étienne,,,,45.4439652,4.4242747
+8671080293,node,,memorial,Saint-Étienne,,,,45.4822197,4.5399101
+8742647833,node,Eat Sushi,restaurant,Saint-Étienne,"81 Avenue Pasteur, 42152, L'Horme",42152,https://www.eatsushi.fr/nos-restaurants/lhorme,45.4834543,4.5349596
+8779048756,node,Au Bureau,restaurant,Saint-Étienne,,,,45.4424886,4.4000452
+8792466462,node,Hôtel Vulcain,hotel,Saint-Étienne,"1 Rue du Puits Gillier, 42152, L'Horme",42152,https://www.hotel-vulcain.com/,45.4905576,4.5570036
+8812312094,node,Stèle à Renée,memorial,Saint-Étienne,,,,45.3883226,4.6284316
+8856467089,node,Stèle commémorative du crash de la Croix de Montvieux,memorial,Saint-Étienne,,,,45.4460069,4.6500088
+8882272298,node,Balade en âne,attraction,Saint-Étienne,,,,45.3911639,4.4814189
+8902089682,node,Auberge des Vignobles,restaurant,Saint-Étienne,,,,45.4170998,4.736639
+8902089704,node,Le Castel de Verlieu,restaurant,Saint-Étienne,,,,45.4389368,4.7461107
+8903579541,node,Le Relais des Gorges,restaurant,Saint-Étienne,,,,45.4016573,4.7365867
+8909420047,node,,viewpoint,Saint-Étienne,,,,45.3829689,4.7296951
+8921573479,node,,memorial,Saint-Étienne,,,,45.3690087,4.5138026
+8948904134,node,,viewpoint,Saint-Étienne,,,,45.4809652,4.6427496
+8954006621,node,Kitchen St.,restaurant,Saint-Étienne,,,https://www.kitchenstreet.fr/,45.4406949,4.398743
+8954006624,node,,artwork,Saint-Étienne,,,,45.4694785,4.3735327
+8958050635,node,La Java Bleue,restaurant,Saint-Étienne,,,https://www.restaurant-lajavableue.fr/,45.43154,4.3949161
+8958050638,node,Histoire Sans Faim,restaurant,Saint-Étienne,,,https://www.histoire-sans-faim.fr/,45.4324304,4.3941126
+9043412632,node,La Pizzamis,restaurant,Saint-Étienne,2 Rue Joannès Odin,,https://www.lapizzamis.fr/,45.5288943,4.3727616
+9064414747,node,Piccadilly Circus,restaurant,Saint-Étienne,,,,45.4353231,4.3903571
+9103411839,node,Maison Forte,restaurant,Saint-Étienne,,,,45.4944196,4.5980913
+9142675953,node,Belvédère de la Faucharat,viewpoint,Saint-Étienne,,,,45.3929126,4.615994
+9277713343,node,Brasserie Le Flaubert,restaurant,Saint-Étienne,,,,45.3864313,4.2859784
+9355265064,node,,artwork,Saint-Étienne,,,,45.4177076,4.5158198
+9388705405,node,Marcelin Champagnat,artwork,Saint-Étienne,,,,45.4151537,4.5166891
+9392025623,node,Le Viand'Art,restaurant,Saint-Étienne,"6 Route de Saint-Étienne, 42400, Saint-Chamond",42400,,45.4703487,4.5015048
+9438026153,node,Rocher percé,artwork,Saint-Étienne,,,,45.5490396,4.6733502
+9468120533,node,Brasserie du Breuil,restaurant,Saint-Étienne,"14 Place du Breuil, 42700, Firminy",42700,,45.3885013,4.288093
+9507652146,node,Monument Au 102ème Territorial,memorial,Saint-Étienne,,,,45.4318586,4.3883108
+9508084786,node,Carcasse d'avion,artwork,Saint-Étienne,,,,45.4325785,4.2713809
+9526378759,node,,memorial,Saint-Étienne,,,,45.5343939,4.5549993
+9560196343,node,1976,restaurant,Saint-Étienne,,,,45.4578279,4.3888025
+9755716167,node,Daphné changée en Lauriers,artwork,Saint-Étienne,,,,45.4411562,4.387003
+9759416634,node,Pont-Canal du Langonand,ruins,Saint-Étienne,,,,45.4715753,4.4916162
+9762427594,node,Pont du Féloin,ruins,Saint-Étienne,,,,45.5394563,4.5791301
+9762802054,node,Italian Trattoria,restaurant,Saint-Étienne,,,https://restaurants.it-trattoria.fr/saint-etienne-steel/,45.445985,4.4209563
+9762802055,node,3 Brasseurs,restaurant,Saint-Étienne,,,,45.4458752,4.4209537
+9762802056,node,Black & White,restaurant,Saint-Étienne,,,,45.4460308,4.4214833
+9762802058,node,Le Paradis du Fruit,restaurant,Saint-Étienne,,,,45.4456644,4.4213996
+9762802060,node,Holly's,restaurant,Saint-Étienne,,,https://hollysdiner.fr/les-restaurants/saint-etienne/,45.4463474,4.421585
+9765435584,node,Fresh Burritos,restaurant,Saint-Étienne,,,,45.4469567,4.421288
+9765435587,node,Woko,restaurant,Saint-Étienne,,,,45.4466885,4.421285
+9765435588,node,Captain Donut,restaurant,Saint-Étienne,,,,45.4465523,4.4212791
+9765435592,node,Ar Preti,restaurant,Saint-Étienne,,,,45.4471657,4.4210294
+9773719270,node,,memorial,Saint-Étienne,,,,45.478914,4.6467697
+9792602825,node,La Friterie,restaurant,Saint-Étienne,9 Rue Georges Dupré,,,45.4364183,4.3904767
+9830857623,node,Tendance Hôtel,hotel,Saint-Étienne,,,https://www.theoriginalshotels.com/hotels/tendance-hotel,45.5332434,4.2870661
+9881155265,node,La Baraka,restaurant,Saint-Étienne,,,,45.4486414,4.4031622
+9970037569,node,O' Vérin,restaurant,Saint-Étienne,,,,45.4537608,4.7536265
+10016610146,node,Tour de Montchal,ruins,Saint-Étienne,,,,45.2672312,4.5429546
+10025829149,node,,artwork,Saint-Étienne,,,,45.4774459,4.5074092
+10029425931,node,,viewpoint,Saint-Étienne,,,,45.4999082,4.5643442
+10033084866,node,,memorial,Saint-Étienne,,,,45.5283825,4.2637108
+10033328930,node,,memorial,Saint-Étienne,,,,45.3891882,4.6948328
+10038063128,node,Site de l'ancien château seigneurial de Saint-Ennemond,ruins,Saint-Étienne,,,,45.4789282,4.5096548
+10038063131,node,Ancienne porte du château,ruins,Saint-Étienne,,,,45.4791098,4.509724
+10040359825,node,,memorial,Saint-Étienne,,,,45.2699741,4.5656001
+10043133603,node,Laurent Odouard,memorial,Saint-Étienne,,,,45.3378996,4.6000421
+10043244347,node,,memorial,Saint-Étienne,,,,45.5613428,4.6666148
+10043533311,node,,memorial,Saint-Étienne,,,,45.3715817,4.2775276
+10043577877,node,,memorial,Saint-Étienne,,,,45.3885919,4.2664306
+10043607147,node,,memorial,Saint-Étienne,,,,45.3144769,4.3603168
+10044081127,node,,memorial,Saint-Étienne,,,,45.4856252,4.3782517
+10044203722,node,,memorial,Saint-Étienne,,,,45.4824873,4.5364205
+10044307152,node,,memorial,Saint-Étienne,,,,45.5441837,4.5654375
+10044307243,node,,memorial,Saint-Étienne,,,,45.4726831,4.7176658
+10044389608,node,Pizz'à Vitto,restaurant,Saint-Étienne,,,https://pizzavitto.fr/,45.5015699,4.3162408
+10046660413,node,,memorial,Saint-Étienne,,,,45.4983174,4.5690679
+10047832012,node,,memorial,Saint-Étienne,,,,45.4509656,4.5796576
+10048663681,node,,memorial,Saint-Étienne,,,,45.4208863,4.5183831
+10048668291,node,Mémorial les Loges de Montheux,memorial,Saint-Étienne,,,,45.3267125,4.5030193
+10061646117,node,Pizzeria de la Savoie,restaurant,Saint-Étienne,,,,45.4734634,4.5304724
+10064317222,node,Mamma Mia,restaurant,Saint-Étienne,"5B Rue du 17 Octobre 1961, 42400, Saint-Chamond",42400,,45.4595676,4.4890722
+10074978291,node,L‘Auberge,restaurant,Saint-Étienne,,,,45.4252098,4.6171611
+10075417723,node,Les Roses de Sable,restaurant,Saint-Étienne,"30 Rue Roche Molle, 42410, Vérin",42410,,45.4491122,4.753087
+10086485426,node,,ruins,Saint-Étienne,,,,45.4172903,4.740476
+10086485428,node,,memorial,Saint-Étienne,,,,45.4172795,4.74047
+10090685391,node,,artwork,Saint-Étienne,,,,45.4754553,4.5336468
+10092356697,node,,memorial,Saint-Étienne,,,,45.3627877,4.6850206
+10093449781,node,,memorial,Saint-Étienne,,,,45.4177511,4.6794802
+10093457469,node,,memorial,Saint-Étienne,,,,45.4659612,4.6711398
+10115141188,node,,artwork,Saint-Étienne,,,,45.4837714,4.5718809
+10162548396,node,,memorial,Saint-Étienne,,,,45.3998409,4.2241087
+10278572040,node,Tsing Tao,restaurant,Saint-Étienne,,,,45.4294028,4.3932037
+10286040090,node,Monument aux Morts d'Izieux,memorial,Saint-Étienne,,,,45.4600896,4.4983323
+10286177866,node,,memorial,Saint-Étienne,,,,45.5001825,4.3189224
+10286210978,node,,memorial,Saint-Étienne,,,,45.480705,4.4327598
+10286216971,node,,memorial,Saint-Étienne,,,,45.4049126,4.3706675
+10286622434,node,,memorial,Saint-Étienne,,,,45.3414701,4.4170195
+10287383452,node,,memorial,Saint-Étienne,,,,45.2700214,4.4953783
+10538779800,node,,memorial,Saint-Étienne,,,,45.4114338,4.4441248
+10538782309,node,,memorial,Saint-Étienne,,,,45.3878153,4.6715703
+10538799432,node,,memorial,Saint-Étienne,,,,45.4342375,4.3220104
+10538906464,node,,memorial,Saint-Étienne,,,,45.344516,4.6554108
+10538971389,node,Monument aux Morts de Saint-Martin-en-Coailleux,memorial,Saint-Étienne,,,,45.4622359,4.5180824
+10538973909,node,Monument aux Morts de Saint-Chamond,memorial,Saint-Étienne,,,,45.4818453,4.5169013
+10539276974,node,Monument aux Morts de Côte Chaude,memorial,Saint-Étienne,,,,45.4447536,4.3632791
+10539647513,node,,memorial,Saint-Étienne,,,,45.4469498,4.2587811
+10539647514,node,,memorial,Saint-Étienne,,,,45.4471833,4.2585747
+10539651966,node,Monument commémoratif du 38e RI,memorial,Saint-Étienne,,,,45.4278373,4.3919371
+10539651967,node,Monument régimentaire du 38e RI,memorial,Saint-Étienne,,,,45.4280192,4.3920167
+10539796163,node,,memorial,Saint-Étienne,,,,45.4475873,4.3325041
+10539800297,node,,memorial,Saint-Étienne,,,,45.5300068,4.5788796
+10598742876,node,,memorial,Saint-Étienne,,,,45.4554108,4.7535837
+10692205394,node,La magie de Lucie,artwork,Saint-Étienne,,,https://www.davidmesguich.com/la-magie-de-lucie,45.445466,4.4210896
+10706319094,node,,memorial,Saint-Étienne,,,,45.557151,4.6136027
+10706475976,node,,memorial,Saint-Étienne,,,,45.5470846,4.5885443
+10706513158,node,,memorial,Saint-Étienne,,,,45.4464553,4.7457974
+10715805726,node,,memorial,Saint-Étienne,,,,45.3818926,4.7469259
+10715809100,node,,memorial,Saint-Étienne,,,,45.4851702,4.5673291
+10811656504,node,,artwork,Saint-Étienne,,,,45.4430373,4.3995536
+10902710333,node,Château de Nantas,castle,Saint-Étienne,,,,45.4587949,4.4465393
+10905855652,node,R du Large,artwork,Saint-Étienne,,,,45.4349379,4.3925175
+10905855658,node,Le Cube Gigogne,artwork,Saint-Étienne,,,,45.434396,4.3924757
+10905855660,node,Le Cadre,artwork,Saint-Étienne,,,,45.4345561,4.3924008
+10931762044,node,Feu !,restaurant,Saint-Étienne,,,,45.4347742,4.390466
+10938033079,node,,viewpoint,Saint-Étienne,,,,45.4314394,4.6343743
+10940447863,node,Un Éléphant Dans un Jeu de Quilles,restaurant,Saint-Étienne,,,,45.4348196,4.3912055
+10941834386,node,Le Comptoir Syrien,restaurant,Saint-Étienne,,,https://comptoirsyrien.fr/,45.4278368,4.3938146
+10946243246,node,Le Bouillon Boivin,restaurant,Saint-Étienne,,,,45.4365707,4.385004
+10946353627,node,Saveurs Dom-Tom Restaurant,restaurant,Saint-Étienne,,,,45.4352878,4.3901455
+10946353629,node,Teixan,restaurant,Saint-Étienne,,,,45.435332,4.390039
+10978688223,node,,artwork,Saint-Étienne,,,,45.3957442,4.3256495
+10978688224,node,,artwork,Saint-Étienne,,,,45.3956836,4.3267091
+11013596882,node,Le Sukiu,restaurant,Saint-Étienne,,,,45.4120326,4.3902203
+11013684477,node,La Pizza Gourmande,restaurant,Saint-Étienne,7 Rue Gambetta,,https://la-pizza-gourmande.eatbu.com/,45.4462309,4.3352333
+11013684482,node,Métal Kafé,restaurant,Saint-Étienne,11 Place Charles de Gaulle,,https://metal-kafe.edan.io/,45.4465424,4.3360474
+11013684484,node,Ô Délicieux Terroir,restaurant,Saint-Étienne,5 Rue de la République,,,45.4458622,4.3368003
+11021823507,node,Espace Ahmed Benchikh,memorial,Saint-Étienne,,,,45.4420756,4.3902458
+11021823508,node,Tirailleur,artwork,Saint-Étienne,,,,45.4420883,4.3902654
+11033394110,node,Resto’Van,restaurant,Saint-Étienne,,,,45.4299592,4.3944109
+11042280165,node,Capriccio,restaurant,Saint-Étienne,,,,45.4426331,4.39765
+11051024007,node,Wood Pizza,restaurant,Saint-Étienne,,,,45.4415563,4.3841444
+11051624673,node,La Cocotte Stéphanoise,restaurant,Saint-Étienne,"2 Rue Ferrer, 42000, Saint-Étienne",42000,https://saintetienne.sevensquares.fr/la-cocotte-stephanoise/,45.4474332,4.4196406
+11069373205,node,,viewpoint,Saint-Étienne,,,,45.5018752,4.378246
+11099037792,node,Le Continental,restaurant,Saint-Étienne,,,,45.4614821,4.4163396
+11111307200,node,Maison du patrimoine et des lettres,museum,Saint-Étienne,,,https://www.saint-etienne.fr/la-maison-du-patrimoine-et-des-lettres,45.4361213,4.3855998
+11150763328,node,Monument aux morts du cimetière,memorial,Saint-Étienne,,,,45.3006509,4.567299
+11151739423,node,,memorial,Saint-Étienne,,,,45.4185849,4.2427868
+11151791951,node,Monument aux morts du cimetière,memorial,Saint-Étienne,,,,45.5230023,4.5441633
+11151791952,node,,memorial,Saint-Étienne,,,,45.523,4.54187
+11181144445,node,Monument aux morts du cimetière,memorial,Saint-Étienne,,,,45.5382012,4.6471299
+11183200602,node,Nouveau monument aux morts,memorial,Saint-Étienne,,,,45.5176478,4.6132854
+11184497049,node,,memorial,Saint-Étienne,,,,45.4283593,4.7403156
+11189254695,node,Le Grill,restaurant,Saint-Étienne,,,,45.446838,4.3828536
+11193982957,node,,memorial,Saint-Étienne,,,,45.4273386,4.582558
+11194155055,node,Stèle commémorative du crash Dakota C47 en 1944,memorial,Saint-Étienne,,,,45.3915954,4.5754208
+11206114704,node,,viewpoint,Saint-Étienne,,,,45.2907924,4.5727131
+11206114705,node,Virage aux animaux,artwork,Saint-Étienne,,,,45.2898711,4.5786729
+11206987563,node,,viewpoint,Saint-Étienne,,,,45.2663841,4.4975723
+11226657663,node,La Conciergerie,restaurant,Saint-Étienne,,,https://www.restaurant-la-conciergerie.fr/,45.3914754,4.2759414
+11230745459,node,Le Porto,restaurant,Saint-Étienne,,,,45.433676,4.4366392
+11232439671,node,Les Jardins de Charlotte,garden,Saint-Étienne,,,,45.44473,4.3681169
+11255059078,node,La Route Bleue,restaurant,Saint-Étienne,,,https://restaurantlaroutebleue.com/,45.4922572,4.3239892
+11255085753,node,La Pause,restaurant,Saint-Étienne,,,https://www.restaurantlapause.fr/,45.4920564,4.3818333
+11281552699,node,,viewpoint,Saint-Étienne,,,,45.4560478,4.3516032
+11281552700,node,,viewpoint,Saint-Étienne,,,,45.4594788,4.3479996
+11308097765,node,,artwork,Saint-Étienne,,,,45.3858429,4.2829349
+11313805013,node,Le Convi'Vial,restaurant,Saint-Étienne,"8 Rue de Baronnette, 42410, Chuyer",42410,,45.4568932,4.6924728
+11336050323,node,Le 77,restaurant,Saint-Étienne,,,,45.4417834,4.4063828
+11362000699,node,Jardin du Carbonifère,garden,Saint-Étienne,,,,45.4357595,4.3769876
+11381414101,node,Musée de la mine Michel Rondet,museum,Saint-Étienne,,,,45.4046977,4.3659798
+11399983800,node,Brasserie Geoffroy-Guichard,restaurant,Saint-Étienne,,,https://bgg.rest/,45.4601071,4.3892433
+11407798442,node,,viewpoint,Saint-Étienne,,,,45.4160502,4.422449
+11407798444,node,,memorial,Saint-Étienne,,,,45.4179814,4.4174165
+11421488452,node,,viewpoint,Saint-Étienne,,,,46.0974006,6.4138177
+11421488461,node,,viewpoint,Saint-Étienne,,,,46.0932145,6.392029
+11423398769,node,Piperno,restaurant,Saint-Étienne,,,https://piperno.fr/,45.437019,4.3886341
+11431974957,node,WW1,memorial,Saint-Étienne,,,,45.451188,4.591905
+11438863487,node,,viewpoint,Saint-Étienne,,,,45.4342653,4.4044893
+11466542665,node,Le Carré des Animaux,zoo,Saint-Étienne,,,,45.455557,4.615391
+11540002380,node,Crystal Bar Lounge,restaurant,Saint-Étienne,"4 Rue Grenette, 42500, Le Chambon-Feugerolles",42500,,45.3970395,4.3269272
+11540002384,node,Pizza Marsaletta chez Jo,restaurant,Saint-Étienne,"107 Rue de la République, 42500, Le Chambon-Feugerolles",42500,,45.395051,4.3126788
+11540002391,node,Pizzeria chez Roberto,restaurant,Saint-Étienne,"77 Rue de la Malafolie, 42500, Le Chambon-Feugerolles",42500,,45.3933673,4.2973126
+11540002394,node,Snack-Bar de l'Europe,restaurant,Saint-Étienne,"1 Rue Crozet Frères, 42500, Le Chambon-Feugerolles",42500,,45.396211,4.3311099
+11540002399,node,Le Grain de Sel,restaurant,Saint-Étienne,"39 Rue Maxime Gorki, 42500, Le Chambon-Feugerolles",42500,,45.3994997,4.3487657
+11540002401,node,Chez les Filles,restaurant,Saint-Étienne,"2 Rue du Vieux Bec, 42500, Le Chambon-Feugerolles",42500,,45.3934596,4.3085947
+11540002402,node,Les Amis Réunis,restaurant,Saint-Étienne,"62 Boulevard d'Auvergne, 42500, Le Chambon-Feugerolles",42500,,45.3922337,4.3166722
+11540002403,node,Le SNCF,restaurant,Saint-Étienne,"11 Avenue Charles de Gaulle, 42500, Le Chambon-Feugerolles",42500,,45.395289,4.3223614
+11564854499,node,,viewpoint,Saint-Étienne,,,,45.4301512,4.3683606
+11565101277,node,Quartier Libre,restaurant,Saint-Étienne,,,https://quartierlibre42.fr/,45.5232764,4.2968527
+11565117984,node,Take Off,restaurant,Saint-Étienne,,,https://takeoff-andrezieux.fr/,45.5236636,4.2973028
+11565123011,node,La Brasserie des Gourmands,restaurant,Saint-Étienne,,,https://www.labrasseriedesgourmands.fr/,45.5237484,4.2976078
+11565138917,node,Siii Gelato,restaurant,Saint-Étienne,,,,45.5244693,4.2983242
+11565140001,node,Basilic&Co,restaurant,Saint-Étienne,,,https://basilic-and-co.com/restaurants/pizzeria-andrezieux/,45.524195,4.2980027
+11584287858,node,Ciao Bella,restaurant,Saint-Étienne,,,,45.4606496,4.4047324
+11587019833,node,,artwork,Saint-Étienne,,,,45.4206882,4.4131257
+11601566880,node,,artwork,Saint-Étienne,,,,45.388914,4.2871213
+11607423737,node,,artwork,Saint-Étienne,,,,45.4192765,4.3124738
+11607444844,node,Pizza Cosy,restaurant,Saint-Étienne,,,,45.391474,4.2895778
+11619853127,node,Restaurant Balkanique,restaurant,Saint-Étienne,3 Rue des Frères Chappe,,,45.4400434,4.3913307
+11627169077,node,Pizza Napoli,restaurant,Saint-Étienne,,,,45.4379559,4.3910799
+11627389003,node,Plaque d'hommage à Eugène Claudius-Petit,memorial,Saint-Étienne,,,https://www.ville-firminy.fr/actualite/hommage-a-eugene-claudius-petit/,45.382245,4.2888683
+11735086513,node,Parc Joseph Sangueldoce,memorial,Saint-Étienne,,,,45.4378823,4.3780948
+11748215339,node,Le pot vert,artwork,Saint-Étienne,,,,45.4294503,4.4102393
+11757544337,node,,artwork,Saint-Étienne,,,,45.4228878,4.4256291
+11812600380,node,Le Coup de Soleil,restaurant,Saint-Étienne,,,,45.4506476,4.4038136
+11878831841,node,Girouette,artwork,Saint-Étienne,,,,45.4456747,4.3918086
+11878850502,node,,artwork,Saint-Étienne,,,,45.4460934,4.3922314
+11878850503,node,,artwork,Saint-Étienne,,,,45.4461404,4.392234
+11878976941,node,Girouette,artwork,Saint-Étienne,,,,45.4459023,4.3921727
+11881553092,node,Le MUR,artwork,Saint-Étienne,,,https://www.lemur.fr/mur/le-mur-de-saint-etienne/,45.4342505,4.3872532
+11928468941,node,Yerevan Garden,restaurant,Saint-Étienne,,,,45.4284612,4.3969417
+11930489843,node,,artwork,Saint-Étienne,,,,45.4453285,4.3987409
+11936527639,node,,artwork,Saint-Étienne,,,,45.5224834,4.492239
+11936527640,node,,artwork,Saint-Étienne,,,,45.5219706,4.4924672
+11936539767,node,Statue de la vierge (rosaire),artwork,Saint-Étienne,,,,45.5195555,4.4912424
+11945086517,node,Le 423,restaurant,Saint-Étienne,,,,45.5383827,4.2697147
+11950151965,node,Chez Kanda,restaurant,Saint-Étienne,,,,45.4456923,4.4068633
+11953279841,node,Station Pizza,restaurant,Saint-Étienne,,,,45.4464144,4.4067627
+11980378359,node,Monument du Brulé,memorial,Saint-Étienne,,,,45.4102001,4.3660214
+11988883596,node,,memorial,Saint-Étienne,,,,45.4474064,4.3349827
+11992724828,node,Le Tanger,restaurant,Saint-Étienne,,,,45.4456643,4.3839975
+11992724829,node,Pizzeria 500,restaurant,Saint-Étienne,,,https://pizzeria500.fr/,45.4444543,4.3844991
+11999083458,node,Le Palais de Délice,restaurant,Saint-Étienne,,,,45.4393783,4.3854704
+12003293626,node,La Piccola Palermo,restaurant,Saint-Étienne,,,,45.4483192,4.2553529
+12003293627,node,Chez les Dech',restaurant,Saint-Étienne,,,,45.4481917,4.2552153
+12010185942,node,Mémoriel en l’honneur de Sandrine Mazel et de Véronique Colombet,memorial,Saint-Étienne,,,,45.4149203,4.393979
+12010185954,node,,artwork,Saint-Étienne,,,,45.4147186,4.3936776
+12010185957,node,Le Centre du Monde,artwork,Saint-Étienne,,,,45.4148285,4.3937099
+12010220908,node,,memorial,Saint-Étienne,,,,45.4151449,4.3933664
+12028817084,node,,memorial,Saint-Étienne,,,,45.4666209,4.3788996
+12040219666,node,Sculpture Monumentale,artwork,Saint-Étienne,,,,45.4195125,4.393106
+12073771719,node,La Maison Nelly,restaurant,Saint-Étienne,,,https://www.nellytraiteurevents.fr/,45.4376627,4.3899525
+12076549312,node,Bi Brass,restaurant,Saint-Étienne,,,https://bibrass.fr/,45.4664778,4.3780685
+12084536154,node,La Mourine - maison des forgerons,museum,Saint-Étienne,,,https://www.maisondesforgerons.fr/,45.5453926,4.5904136
+12090525418,node,,viewpoint,Saint-Étienne,,,,45.443742,4.2609297
+12090525427,node,,viewpoint,Saint-Étienne,,,,45.4461281,4.2595434
+12095522853,node,Le Modern,restaurant,Saint-Étienne,,,,45.4191263,4.3996744
+12129518773,node,Le Mistral,restaurant,Saint-Étienne,,,,45.4573227,4.402479
+12129518780,node,Au Soleil,restaurant,Saint-Étienne,,,,45.4554878,4.3994739
+12140865811,node,Rezilientia,artwork,Saint-Étienne,,,,45.4402629,4.3882333
+12140865812,node,Vergers,artwork,Saint-Étienne,,,,45.4399392,4.3885918
+12145730059,node,,viewpoint,Saint-Étienne,,,,45.4943226,4.3760958
+12167594477,node,Chromosome,restaurant,Saint-Étienne,,,https://chromosome-saint-etienne.fr/,45.4290528,4.4011322
+12173061019,node,25 Côté Cour,restaurant,Saint-Étienne,,,,45.4531209,4.3904245
+12176637908,node,Asian House,restaurant,Saint-Étienne,,,,45.4335857,4.388212
+12179648736,node,Terminus du Forez,hotel,Saint-Étienne,,,https://hotel-terminusforez.com/,45.4423662,4.3986381
+12180852408,node,Quai 33,hotel,Saint-Étienne,,,,45.4425731,4.3986895
+12190218805,node,,artwork,Saint-Étienne,,,,45.432014,4.3961805
+12207288116,node,Chez Dada Resto,restaurant,Saint-Étienne,,,,45.429695,4.3928579
+12285615830,node,,viewpoint,Saint-Étienne,,,,45.3825047,4.440831
+12307830597,node,Pizzeria canicatti,restaurant,Saint-Étienne,,,,45.4866382,4.3643884
+12312151892,node,Aux Bonnes Assiettes,restaurant,Saint-Étienne,,,,45.4749295,4.3696873
+12325625739,node,Stèle du maquis franco-polonais de La Versanne,memorial,Saint-Étienne,,,,45.4035443,4.3709062
+12329363199,node,,memorial,Saint-Étienne,,,,45.4305974,4.3917198
+12345657793,node,Monument aux combattants d'Afrique du Nord,memorial,Saint-Étienne,,,,45.4397785,4.3960885
+12367307923,node,,memorial,Saint-Étienne,,,,45.4375298,4.5793242
+12452759119,node,,viewpoint,Saint-Étienne,,,,45.3957671,4.2344873
+12452759129,node,,viewpoint,Saint-Étienne,,,,45.3935364,4.2302812
+12452759132,node,,artwork,Saint-Étienne,,,,45.393484,4.2303421
+12468858253,node,,memorial,Saint-Étienne,,,,45.3996607,4.3617802
+12471112506,node,,memorial,Saint-Étienne,,,,45.5100124,4.5760314
+12473210557,node,Aux Terrasses de Bacchus,restaurant,Saint-Étienne,,,,45.4670013,4.3778783
+12521630305,node,Surface,gallery,Saint-Étienne,,,https://galeriesurface.wixsite.com/association-surface,45.4331668,4.3902484
+12522807607,node,Le Bachat,restaurant,Saint-Étienne,,,,45.3681013,4.5164027
+12556311860,node,O'Palermo,restaurant,Saint-Étienne,,,,45.434769,4.3241601
+12556311863,node,Seize Quinze,restaurant,Saint-Étienne,,,https://www.leseizequinze.fr/,45.4332892,4.328388
+12560709799,node,Monument aux étudiants de la Loire déportés,memorial,Saint-Étienne,,,,45.4275058,4.3923853
+12638057124,node,,memorial,Saint-Étienne,,,,45.3417509,4.6521164
+12652026399,node,Le jardin des 4M,restaurant,Saint-Étienne,,,https://www.jardindes4m.fr/,45.2792359,4.4488457
+12729889487,node,Le Comté Celte,restaurant,Saint-Étienne,,,https://www.lecomtecelte.fr/,45.4222404,4.3980651
+12747442005,node,Gözde Grill,restaurant,Saint-Étienne,,,,45.3967398,4.2913353
+12752249045,node,,memorial,Saint-Étienne,,,,45.4322518,4.3904614
+12850721594,node,Coline Cuisine,restaurant,Saint-Étienne,,,https://colinecuisine.eatbu.com,45.4796908,4.4321754
+12870424527,node,Musée des Arts Urbains et de Street Art,museum,Saint-Étienne,,,https://mausa.fr/museum/mausa-h07/,45.4659414,4.5071816
+12877327518,node,La Table du Mont,restaurant,Saint-Étienne,,,,45.4179895,4.3906924
+12922995038,node,,memorial,Saint-Étienne,,,,45.4481034,4.4027087
+12923429566,node,Canailles,restaurant,Saint-Étienne,,,,45.3876036,4.2874449
+12923429567,node,On n'est pas sorti de l'auberge,restaurant,Saint-Étienne,,,,45.3883933,4.2960653
+12923429568,node,Ô Corso,restaurant,Saint-Étienne,,,https://www.o-corso-restaurant-firminy.fr/,45.3896097,4.294752
+12923429569,node,L'Everest,restaurant,Saint-Étienne,,,,45.3879124,4.2851639
+12927632587,node,By Georgette,restaurant,Saint-Étienne,,,https://bygeorgette.fr/,45.5318177,4.2797917
+12951526961,node,Hôtel Restaurant Eclosion,hotel,Saint-Étienne,,,,45.4922356,4.5664541
+12984443122,node,Sister Pizz’,restaurant,Saint-Étienne,,,https://www.sisterpizz.fr/,45.427526,4.4002001
+12993358192,node,,memorial,Saint-Étienne,,,,45.5368507,4.4865001
+13011523552,node,Domaine des Jardins Suspendus,restaurant,Saint-Étienne,"41 Rue Antoine Marrel, 42800, Rive-de-Gier",42800,https://www.domainedesjardinssuspendus.fr/,45.5307415,4.6283749
+13031955604,node,,memorial,Saint-Étienne,,,,45.4205848,4.4133837
+13098405064,node,,artwork,Saint-Étienne,,,,45.4220106,4.398543
+13116013624,node,Hommage à Jeanne d'Arc,artwork,Saint-Étienne,,,,45.5238602,4.535429
+13123657002,node,Les Voiles,restaurant,Saint-Étienne,,,,45.5300647,4.2518799
+13185579505,node,Pizz&Pizza,restaurant,Saint-Étienne,,,https://www.pizzipizza-saint-chamond.com/,45.4742042,4.5135653
+13190688383,node,Le Convive,restaurant,Saint-Étienne,"8 Place de la Liberté, 42220, Bourg-Argental",42220,,45.2959774,4.5590299
+13192107059,node,,memorial,Saint-Étienne,,,,45.4768991,4.3779244
+13227481007,node,Splendid Hotel,hotel,Saint-Étienne,,,,45.4355407,4.3861498
+13230075462,node,,memorial,Saint-Étienne,,,,45.5096543,4.5742245
+13240176491,node,Le Souffle du Maroc,restaurant,Saint-Étienne,,,,45.4408874,4.3885195
+13277727574,node,L'Instant Présent,restaurant,Saint-Étienne,,,,45.4266369,4.4032404
+13287579654,node,Nour,restaurant,Saint-Étienne,,,,45.4514025,4.3917503
+13327754222,node,Auberge du Bernay,restaurant,Saint-Étienne,,,,45.4117744,4.4068607
+13458006337,node,,viewpoint,Saint-Étienne,,,,45.4687672,4.399147
+13483609803,node,La Cour d'École,restaurant,Saint-Étienne,,,,45.4273995,4.400575
+13513801111,node,Trattoria Merchionne,restaurant,Saint-Étienne,,,,45.4348299,4.3913204
+13525930959,node,,memorial,Saint-Étienne,,,,45.4219999,4.4223205
+13611628014,node,,artwork,Saint-Étienne,,,,45.4139289,4.3961247
+13667366016,node,,viewpoint,Saint-Étienne,,,,45.4181071,4.4958162
+13667366018,node,,viewpoint,Saint-Étienne,,,,45.4178308,4.4935021
+13667373612,node,,viewpoint,Saint-Étienne,,,,45.4166574,4.4828242
+13717860685,node,Orientalia,restaurant,Saint-Étienne,,,,45.4445614,4.3974604
+13730464637,node,,artwork,Saint-Étienne,,,,45.4516004,4.3880328
+13798965875,node,Le Centurion,restaurant,Saint-Étienne,,,https://www.lecenturion-saintetienne.fr/,45.436489,4.3908123
+13914525354,node,,memorial,Saint-Étienne,,,,45.3733189,4.4883613
+13924680824,node,,viewpoint,Saint-Étienne,,,,45.4194577,4.6682872
+13937913510,node,,memorial,Saint-Étienne,,,,45.5118952,4.5800988
+13953852500,node,Galerie nationale du design,museum,Saint-Étienne,,,https://www.galerienationaledudesign.fr/,45.4506306,4.3860247
+13985276472,node,Femme qui marche,artwork,Saint-Étienne,,,,45.4269832,4.3911699
+13985530020,node,,viewpoint,Saint-Étienne,,,,45.4785508,4.6448487
+13985530021,node,,viewpoint,Saint-Étienne,,,,45.484865,4.6561959
+13985530022,node,,viewpoint,Saint-Étienne,,,,45.4761823,4.6846605
+13985530023,node,,viewpoint,Saint-Étienne,,,,45.476436,4.6971339
+13985530024,node,,viewpoint,Saint-Étienne,,,,45.4690611,4.7025093
+13985530025,node,,viewpoint,Saint-Étienne,,,,45.4726351,4.713908
+13989622801,node,,viewpoint,Saint-Étienne,,,,45.3942855,4.4478183
+13989627301,node,,viewpoint,Saint-Étienne,,,,45.3941302,4.4476761
+13990649396,node,,memorial,Saint-Étienne,,,,45.3782656,4.4557401
+28895476,way,Place Anatole France,park,Saint-Étienne,,,,45.4306942,4.3902002
+33958960,way,Square des Ordres Nationaux,park,Saint-Étienne,,,,45.4317315,4.3888971
+33958961,way,Place Louis Comte,park,Saint-Étienne,,,,45.4316232,4.3881369
+40558049,way,Jardin Walt Disney,park,Saint-Étienne,,,,45.4221048,4.4259259
+40579734,way,Le Petit Train,attraction,Saint-Étienne,,,,45.4212359,4.4158599
+40579738,way,Parc de l'Europe,park,Saint-Étienne,,,,45.4207268,4.4168537
+41273611,way,Square des Six Aviateurs,park,Saint-Étienne,,,,45.417687,4.4175218
+44213098,way,,garden,Saint-Étienne,,,,45.4434885,4.3966775
+44838060,way,,garden,Saint-Étienne,,,,45.4364108,4.3851629
+47122638,way,Parc du Bois d'Avaize,park,Saint-Étienne,,,,45.4375892,4.4263573
+48956848,way,Place Villebœuf,park,Saint-Étienne,,,,45.4323821,4.3951291
+48956865,way,Square du 102e Régiment d'Infanterie,garden,Saint-Étienne,,,,45.420963,4.3967333
+48956872,way,Square Alain Grossmann,park,Saint-Étienne,,,,45.4264443,4.3973125
+49047701,way,Musée de la Mine Site Couriot,museum,Saint-Étienne,"3 Boulevard Maréchal Franchet d'Espèrey, 42000",42000,https://musee-mine.saint-etienne.fr/,45.4382282,4.3763628
+51895029,way,Jardin des Utopies,park,Saint-Étienne,,,,45.4149479,4.3939583
+52227780,way,,garden,Saint-Étienne,,,,45.4458136,4.3872528
+54436233,way,Square David Comberry,park,Saint-Étienne,,,,45.4268527,4.3870474
+54436250,way,Square Victor Schoelcher,park,Saint-Étienne,,,,45.4491043,4.3877217
+54567160,way,Square Amouroux,park,Saint-Étienne,,,,45.4139605,4.3967783
+56204237,way,Square Benoît Suzat,park,Saint-Étienne,,,,45.4492666,4.3942223
+56204262,way,Parc François Mitterrand,park,Saint-Étienne,,,,45.4506493,4.3938359
+56246302,way,Square Jean Alexis Bobichon,garden,Saint-Étienne,,,,45.4288198,4.4083591
+56246304,way,,park,Saint-Étienne,,,,45.4246492,4.4110734
+58828591,way,Square Antoine Viallard,park,Saint-Étienne,,,,45.4250398,4.4003038
+63244819,way,Square de la Cartonnerie,park,Saint-Étienne,,,,45.4463159,4.3831084
+63249746,way,La Maison du Portail Rouge,restaurant,Saint-Étienne,,,,45.4159241,4.4111231
+63260952,way,Ibis Budget,hotel,Saint-Étienne,21 Boulevard Georges Pompidou,,https://all.accor.com/hotel/2544/index.fr.shtml,45.4557674,4.4013104
+63268181,way,Jardin d'Éden,park,Saint-Étienne,,,,45.440073,4.3884247
+63268679,way,Hôtel Astoria,hotel,Saint-Étienne,,,https://www.hotel-astoria.fr,45.4199857,4.4069771
+63275866,way,La Rotonde,museum,Saint-Étienne,"158 Cours Fauriel, 42100, Saint-Étienne",42100,https://www.larotonde-sciences.com/,45.4233704,4.4078115
+63278097,way,Ceysson & Bénétière,gallery,Saint-Étienne,"10 Rue des Aciéries, 42000, Saint-Étienne",42000,https://www.ceyssonbenetiere.com/fr/locations/12/saint-etienne-aceries,45.4523629,4.3921801
+63283951,way,,park,Saint-Étienne,,,,45.4463858,4.3903557
+63301303,way,hotelF1,hotel,Saint-Étienne,"114 Rue des Aciéries, 42000",42000,https://all.accor.com/hotel/2400/index.fr.shtml,45.4595203,4.3965318
+63301681,way,Restaurant Universitaire,restaurant,Saint-Étienne,,,https://www.crous-lyon.fr/restaurant/restaurant-metare-a-saint-etienne/,45.4225179,4.4274049
+63303051,way,La Platine,museum,Saint-Étienne,3 Rue Javelin Pagnon,,,45.4502985,4.3852111
+63305240,way,Château de la Roche,castle,Saint-Étienne,,,,45.4195524,4.4284668
+63336031,way,Hôtel du Midi,hotel,Saint-Étienne,,,https://www.hotelmidi.fr/,45.4132849,4.3944455
+63340812,way,Château de la Perrotière,castle,Saint-Étienne,,,,45.4292788,4.4448689
+63340891,way,Musée d'Art et d'Industrie,museum,Saint-Étienne,2 Place Louis Comte,,https://mai.saint-etienne.fr/,45.4314555,4.3868821
+63485817,way,Musée Jean-Marie Somet,museum,Saint-Étienne,Rue du Puits Gallois,,https://www.histoire-patrimoine-villars.fr/,45.4642787,4.3552867
+63491048,way,Première Classe,hotel,Saint-Étienne,,,https://saint-etienne-nord-villars.premiereclasse.com/,45.4703413,4.3646239
+63491176,way,Campanile,hotel,Saint-Étienne,,,https://saint-etienne-nord-villars.campanile.com/,45.4684719,4.367691
+65624587,way,Le Panoramic,restaurant,Saint-Étienne,750 Chemin des Crêtes,,,45.3940719,4.402741
+65624763,way,Le Refuge,restaurant,Saint-Étienne,4280 Route du Guizay,,https://restaurant-lerefug.wixsite.com/restaurant-lerefuge/,45.3946568,4.4015872
+65626040,way,La Maison du Passementier,museum,Saint-Étienne,,,https://www.ville-st-jean-bonnefonds.fr/mdp,45.4474359,4.4347417
+65632499,way,Restaurant scolaire Lamartine,restaurant,Saint-Étienne,,,,45.4480229,4.4441411
+65633527,way,Restaurant scolaire Baraillère,restaurant,Saint-Étienne,,,,45.4467289,4.4337609
+65641379,way,Musée des Transports Urbains de Saint-Étienne et sa région,museum,Saint-Étienne,,,https://www.musee-transports42.fr/,45.4764608,4.3641268
+65777763,way,Château de Roche-la-Molière,castle,Saint-Étienne,,,,45.435288,4.322209
+65793539,way,Château de la Roare,castle,Saint-Étienne,,,,45.4297623,4.3142639
+77602592,way,,attraction,Saint-Étienne,,,,45.294818,4.4801485
+84580681,way,Le Monto'Zar,restaurant,Saint-Étienne,,,,45.3423474,4.4411375
+84580913,way,Château de Pérusel,castle,Saint-Étienne,,,,45.3556841,4.4294629
+84581583,way,La Ravarine,restaurant,Saint-Étienne,,,https://la-ravarine.eatbu.com/,45.3620759,4.4549717
+84582626,way,Auberge du Sapt,restaurant,Saint-Étienne,,,https://www.auberge-du-sapt.fr/,45.3291905,4.4252525
+86506703,way,Hôtel-restaurant de La Tour,hotel,Saint-Étienne,,,,45.3957745,4.3406219
+86518109,way,Château de Feugerolles,castle,Saint-Étienne,,,,45.3845587,4.3400536
+86591094,way,Parc de la Pouratte,park,Saint-Étienne,,,,45.3927531,4.3391138
+87560118,way,Abribis Hotel,hotel,Saint-Étienne,,,,45.3737208,4.2716709
+87560807,way,Église Saint-Pierre,attraction,Saint-Étienne,"29 Rue des Noyers, 42700, Firminy",42700,https://sitelecorbusier.com/decouvrir/eglise-saint-pierre/,45.383652,4.286192
+87564409,way,Maison de la Culture Le Corbusier,attraction,Saint-Étienne,,,https://sitelecorbusier.com/decouvrir/maison-de-la-culture/,45.3832975,4.2891765
+87564970,way,Château des Bruneaux,attraction,Saint-Étienne,,,,45.3804335,4.2822995
+87565162,way,Unité d'habitation de Firminy-Vert,attraction,Saint-Étienne,,,https://sitelecorbusier.com/decouvrir/unite-habitation/,45.3778891,4.2812827
+87565760,way,Musée des Sapeurs Pompiers de la Loire,museum,Saint-Étienne,"10 Rue de l'Abattoir, 42700, Firminy",42700,,45.39459,4.290921
+87566742,way,Buffalo Grill,restaurant,Saint-Étienne,,,,45.3877795,4.2988215
+87567967,way,Piscine André Wogenscky,attraction,Saint-Étienne,,,https://www.ville-firminy.fr/mon-temps-libre/piscine-andre-wogenscky/,45.3841375,4.2868555
+88687416,way,L'Art Home,restaurant,Saint-Étienne,,,,45.4091155,4.250476
+89932456,way,Square Gambetta,park,Saint-Étienne,,,,45.3953879,4.2658968
+95578135,way,Château Dorian,castle,Saint-Étienne,,,,45.388966,4.269981
+103629575,way,Jardin de Nessa,park,Saint-Étienne,,,,45.4535614,4.4481313
+104282161,way,Clos Vican,garden,Saint-Étienne,,,,45.4474914,4.4398644
+104363236,way,Jardin Saint-Charles,garden,Saint-Étienne,,,,45.4497703,4.4459319
+121809404,way,Parc Nelson Mandela,park,Saint-Étienne,,,,45.4756662,4.5139505
+122563654,way,,park,Saint-Étienne,,,,45.4861935,4.5726726
+122563945,way,,park,Saint-Étienne,,,,45.4839309,4.5743066
+122565292,way,,ruins,Saint-Étienne,,,,45.4849951,4.5739541
+122565722,way,,park,Saint-Étienne,,,,45.4845443,4.5744701
+124991132,way,Parc Joseph Sanguedolce,park,Saint-Étienne,,,,45.4365907,4.3772376
+130583631,way,Réservoir de chasse du siphon de la Durèze,ruins,Saint-Étienne,,,,45.5272191,4.5707407
+130671135,way,Pont-siphon de la Durèze,ruins,Saint-Étienne,,,,45.5291247,4.5745475
+133270040,way,Espace multisport,park,Saint-Étienne,,,,45.4498323,4.441126
+133625838,way,,garden,Saint-Étienne,,,,45.451736,4.4313136
+137160630,way,Chapelle de la Vierge,attraction,Saint-Étienne,,,,45.4818002,4.7088238
+144494031,way,Wok de lâm,restaurant,Saint-Étienne,,,,45.5303745,4.619016
+144806497,way,Maison du Patrimoine et de la Mesure,museum,Saint-Étienne,,,,45.480209,4.435311
+144900376,way,Jardin Félix Thiollier,park,Saint-Étienne,,,,45.443126,4.3808701
+145636399,way,Jardin Public Simone Signoret,park,Saint-Étienne,,,,45.5128223,4.5831866
+145636407,way,Square du Docteur Mugnery,garden,Saint-Étienne,,,,45.511632,4.5816963
+145779319,way,hotelF1,hotel,Saint-Étienne,"235 Rue de la Péronnière, 42320, Grand Croix",42320,https://all.accor.com/hotel/2428/index.fr.shtml,45.504059,4.5655635
+145782909,way,Buffalo Grill,restaurant,Saint-Étienne,,,,45.503578,4.564765
+146563641,way,Château de la Grange Merlin,castle,Saint-Étienne,,,,45.482817,4.5664855
+147026449,way,Restaurant Universitaire,restaurant,Saint-Étienne,,,,45.4292375,4.4217536
+148173088,way,Le calvaire,park,Saint-Étienne,,,,45.3209526,4.6134879
+149811420,way,,ruins,Saint-Étienne,,,,45.5745126,4.6134994
+154268656,way,Château Martouret,castle,Saint-Étienne,,,,45.524726,4.259293
+154269807,way,Best Western Porte du Forez,hotel,Saint-Étienne,,,https://www.bestwestern.fr/fr/hotel-Andrezieux-Boutheon-Best-Western-Saint-Etienne-Airport-93732,45.5317625,4.279545
+155011587,way,,garden,Saint-Étienne,,,,45.4346242,4.3865303
+156427693,way,,castle,Saint-Étienne,,,,45.419763,4.6701741
+158900767,way,Parc Jean Marc,park,Saint-Étienne,,,https://www.saint-etienne.fr/le-parc-jean-marc,45.474458,4.363784
+159295509,way,Le Lutin Park,attraction,Saint-Étienne,,,,45.44142,4.3859519
+160014921,way,Petit Train,attraction,Saint-Étienne,,,,45.4741874,4.3622413
+160071290,way,Château de Saint-Victor sur Loire,castle,Saint-Étienne,,,,45.4463206,4.2595328
+161510034,way,Square Louis Perrichon,park,Saint-Étienne,,,,45.4078614,4.3861391
+163245696,way,,park,Saint-Étienne,,,,45.4677814,4.353051
+163834301,way,,park,Saint-Étienne,,,,45.4660865,4.3528801
+164159099,way,Buffalo Grill,restaurant,Saint-Étienne,,,,45.483851,4.347211
+164374853,way,Château de Fontanès,castle,Saint-Étienne,,,,45.5453344,4.4352291
+165017801,way,Square Joseph Haubtmann,park,Saint-Étienne,,,,45.4388486,4.3928964
+166332696,way,Parc Jean Moulin,park,Saint-Étienne,,,,45.3957089,4.3261561
+166332725,way,Parc Jean-Jacques Rousseau,park,Saint-Étienne,,,,45.3948354,4.3276715
+166332788,way,Parc du Bouchet,park,Saint-Étienne,,,,45.3894411,4.3208417
+167184350,way,Square des Déportés,park,Saint-Étienne,,,,45.4275971,4.4093947
+167442101,way,Place Maréchal Foch,park,Saint-Étienne,,,,45.4518394,4.3822286
+167442570,way,,garden,Saint-Étienne,,,,45.4516943,4.3807388
+169244091,way,Parc de Montaud,park,Saint-Étienne,,,,45.4507127,4.3720641
+170123016,way,Square Saturnin Guichard,park,Saint-Étienne,,,,45.4104547,4.4081922
+170853076,way,,park,Saint-Étienne,,,,45.4435638,4.3838967
+170919537,way,Square Pierre Chovet,park,Saint-Étienne,,,,45.4419594,4.3907592
+170924955,way,,garden,Saint-Étienne,,,,45.4423618,4.3894387
+171049139,way,Jardin Maurice Combe,garden,Saint-Étienne,,,,45.4495601,4.384704
+171049141,way,Jardin Michel Olagnier,garden,Saint-Étienne,,,,45.4508557,4.3843439
+171076045,way,Place Girodet,park,Saint-Étienne,,,,45.4478955,4.3817742
+171784722,way,,park,Saint-Étienne,,,,45.4149836,4.3848543
+172156092,way,Tour observatoire,viewpoint,Saint-Étienne,,,,45.4508959,4.3854336
+172158699,way,,park,Saint-Étienne,,,,45.4510187,4.389399
+173133296,way,Crêt des 6 Soleils,artwork,Saint-Étienne,,,,45.4498487,4.3723384
+173519019,way,La Forêt Nourricière,garden,Saint-Étienne,,,,45.4338586,4.3828988
+178198229,way,,park,Saint-Étienne,,,,45.4899856,4.4483051
+181435013,way,Square Violette Maurice,park,Saint-Étienne,,,,45.4418088,4.4049556
+182930132,way,,park,Saint-Étienne,,,,45.4871527,4.4479204
+182930134,way,,park,Saint-Étienne,,,,45.4876211,4.4484441
+187275894,way,Square Massenet,garden,Saint-Étienne,,,,45.4372444,4.3903209
+196658245,way,Parc Novaciéries,park,Saint-Étienne,"42400, Saint-Chamond",42400,,45.4678313,4.5061054
+197181502,way,Parc de Fonsala,park,Saint-Étienne,,,,45.4745121,4.5354716
+200433664,way,Jardin Raspail,park,Saint-Étienne,,,,45.4319406,4.3816835
+211085367,way,Explora,museum,Saint-Étienne,8 Rue Calixte Plotton,,https://explora.saint-etienne.fr/,45.4355931,4.3752121
+211462275,way,,park,Saint-Étienne,,,,45.4477965,4.3853444
+212736324,way,Place Île de France,park,Saint-Étienne,,,,45.4750068,4.5335724
+217283995,way,,garden,Saint-Étienne,,,,45.4463858,4.259838
+219662062,way,Jardin des Plantes,park,Saint-Étienne,,,,45.4343796,4.4000962
+220339746,way,,park,Saint-Étienne,,,,45.4268316,4.4176539
+220475933,way,Place Preher,park,Saint-Étienne,,,,45.4202636,4.3958803
+221063772,way,Parc de la Cotonne-Montferré,park,Saint-Étienne,,,,45.4235101,4.3794948
+223048963,way,Parc Fernand Bost,park,Saint-Étienne,,,,45.4644811,4.3614998
+223847391,way,Square Docteur Georges Dujol,park,Saint-Étienne,,,,45.4404379,4.3924047
+224464183,way,square Eugène Delacroix,garden,Saint-Étienne,,,,45.4274987,4.4149425
+225585559,way,,park,Saint-Étienne,,,,45.4441728,4.3900824
+225688440,way,,garden,Saint-Étienne,,,,45.4431473,4.3908569
+227511905,way,Stade Le Corbusier,attraction,Saint-Étienne,,,https://sitelecorbusier.com/decouvrir/stade/,45.3833322,4.2878812
+228540250,way,Square Henry Rey-Hermé,garden,Saint-Étienne,,,,45.434374,4.3829988
+231202632,way,,ruins,Saint-Étienne,,,,45.342614,4.5642994
+232155406,way,Parc de Sous-Paulat,park,Saint-Étienne,,,,45.3856277,4.2807834
+233949150,way,Domaine de la Barollière,hotel,Saint-Étienne,,,https://www.barolliere.fr/,45.4680391,4.5557622
+235987271,way,Carrousel 1900,attraction,Saint-Étienne,,,,45.4390225,4.38746
+237355995,way,Parc de Montreynaud,park,Saint-Étienne,,,,45.4679842,4.4018003
+239329932,way,Square Marie-Jo Vidal Tarres,garden,Saint-Étienne,,,,45.422322,4.3824634
+239331367,way,,garden,Saint-Étienne,,,,45.4173474,4.3850453
+239402787,way,,park,Saint-Étienne,,,,45.4208565,4.3815393
+240485172,way,,garden,Saint-Étienne,,,,45.4300776,4.394861
+240485173,way,,garden,Saint-Étienne,,,,45.4301306,4.3948237
+240485178,way,,garden,Saint-Étienne,,,,45.4300351,4.3948533
+242333760,way,Square Auguste Gravier,park,Saint-Étienne,,,,45.472848,4.5167141
+242489239,way,Square Jeanne d'Arc,park,Saint-Étienne,,,,45.4761613,4.5070317
+242489441,way,Place des Fours Banaux,park,Saint-Étienne,,,,45.4774293,4.5105932
+242489443,way,Square du Janon,park,Saint-Étienne,,,,45.4770625,4.5091709
+243203890,way,Jardin de la Pacotière,park,Saint-Étienne,,,,45.4542428,4.4468048
+244440758,way,Monument Jacquard,memorial,Saint-Étienne,,,,45.4417495,4.381929
+244463939,way,,memorial,Saint-Étienne,,,,45.5386629,4.6475837
+246295494,way,,park,Saint-Étienne,,,,45.4380999,4.4080287
+247452797,way,Jardin public des trois sapins,park,Saint-Étienne,,,,45.4201913,4.6748676
+247452798,way,Parc Gaston Baty,park,Saint-Étienne,,,,45.4194883,4.6834029
+258804220,way,Jardin Louis Comte,garden,Saint-Étienne,,,,45.4315812,4.3876593
+262049521,way,Square Lucie et Louis Alvergnat,park,Saint-Étienne,,,,45.4425744,4.4147296
+262557977,way,Parc Jean Ferrat,park,Saint-Étienne,,,,45.4361986,4.3803128
+263178604,way,,park,Saint-Étienne,,,,45.4616245,4.3237223
+264970763,way,,park,Saint-Étienne,,,,45.4843373,4.5727939
+265743217,way,Le Vieux Frêne,restaurant,Saint-Étienne,7 Chemin du Sapillon,,,45.373711,4.4884155
+265745849,way,,castle,Saint-Étienne,,,,45.434238,4.509508
+266045275,way,Auberge du Grand Bois,hotel,Saint-Étienne,,,,45.32639,4.4819182
+266205494,way,Musée de la Radio,museum,Saint-Étienne,,,,45.34201,4.652349
+266229164,way,Château de Lupé,castle,Saint-Étienne,,,,45.373937,4.707163
+267037844,way,Square Marius Deplassieux,park,Saint-Étienne,,,,45.4828847,4.5402295
+275441842,way,Parc Vincent Brunon,park,Saint-Étienne,,,,45.3897674,4.2854015
+275948679,way,Place du 14 Juillet,garden,Saint-Étienne,,,,45.4779004,4.4316254
+276827188,way,Parc du château du Jarez,park,Saint-Étienne,,,,45.4758188,4.517309
+276827352,way,Square de la Brosse,park,Saint-Étienne,,,,45.4771201,4.5167694
+276832078,way,Parc Labesse,park,Saint-Étienne,,,,45.4702608,4.5330467
+276834333,way,Parc du Vieux Creux,park,Saint-Étienne,,,,45.4546388,4.5051002
+276853847,way,Place de Vendée,park,Saint-Étienne,,,,45.4734086,4.5293078
+276854426,way,Square du bicentenaire,park,Saint-Étienne,,,,45.4746218,4.5316056
+278488068,way,Aula Comtale,attraction,Saint-Étienne,,,,45.5282165,4.373794
+278488359,way,Porte du Croton,attraction,Saint-Étienne,,,,45.528059,4.3733395
+278602728,way,Parc de la Platière,park,Saint-Étienne,,,,45.4990913,4.5635524
+280520294,way,Parc municipal,park,Saint-Étienne,,,,45.4862985,4.5410987
+282757142,way,,park,Saint-Étienne,,,,45.4781069,4.5094243
+286219894,way,Jardin du Musée d'Art et d'Industrie,park,Saint-Étienne,,,,45.4311386,4.3865364
+299968674,way,,ruins,Saint-Étienne,,,,45.3032929,4.5398232
+310573417,way,Stèle de la paix,memorial,Saint-Étienne,,,,45.5251161,4.2600045
+310574072,way,Parc Martouret,park,Saint-Étienne,,,,45.5255412,4.2592581
+310576702,way,Parc des loisirs,park,Saint-Étienne,,,,45.5349596,4.2492449
+310656972,way,"Fresque de ""La Fabrique de la Soie""",artwork,Saint-Étienne,,,http://www.pascal-camacho.com,45.4183248,4.6827379
+312317780,way,L'arrosoir,restaurant,Saint-Étienne,"3, 42410, Pélussin",42410,,45.418443,4.677906
+312329213,way,Tâm à l'Affiche,restaurant,Saint-Étienne,,,,45.4187775,4.6751025
+312331504,way,Château de Virieu,castle,Saint-Étienne,,,,45.4183885,4.6704155
+312331527,way,La passerelle,gallery,Saint-Étienne,,,,45.418416,4.6707485
+312924636,way,Auberge Rossagny,restaurant,Saint-Étienne,,,,45.412147,4.647998
+314258188,way,Chez Jean-Marie,restaurant,Saint-Étienne,,,,45.4324005,4.54548
+319245154,way,Le chalet du pilat,restaurant,Saint-Étienne,"Les Rivets,, Bourg-Argental",,,45.2988555,4.5746465
+337680164,way,Château Grillet,castle,Saint-Étienne,,,http://chateau-grillet.com/fr/,45.4501165,4.751767
+337684273,way,,garden,Saint-Étienne,,,,45.4731165,4.712538
+337684786,way,L'Oliveraie,restaurant,Saint-Étienne,"298 Chemin du Pras, 42410, La Chapelle-Villars",42410,https://chateauchapellevillars.com/,45.4726164,4.7128067
+338203568,way,Château actuel,castle,Saint-Étienne,"73 Rue Renaud de Forez, 42520, Malleval",42520,,45.3830714,4.7297034
+338203731,way,Château de Volan,castle,Saint-Étienne,,,,45.3882405,4.7376329
+338347981,way,Espace Zoologique de Saint-Martin-La-Plaine,zoo,Saint-Étienne,,,,45.5507947,4.5848221
+338763657,way,,park,Saint-Étienne,,,,45.449955,4.382067
+338961983,way,Square Maurice Thuasne,park,Saint-Étienne,,,,45.409216,4.3851224
+339568214,way,Parc du Valfuret,park,Saint-Étienne,,,,45.4057212,4.3994262
+339731574,way,Bois de Grouchy,park,Saint-Étienne,,,,45.4622314,4.3755231
+340112237,way,Parc Public de Pinelon,park,Saint-Étienne,,,,45.4406089,4.3605203
+340270980,way,Jardin de la montée de Bailly,garden,Saint-Étienne,,,,45.4434122,4.3879751
+340288268,way,Square Lanza del Vasto,garden,Saint-Étienne,,,,45.4237957,4.3831038
+340289806,way,,park,Saint-Étienne,,,,45.4168161,4.3912025
+340918460,way,Jardin des Platanes,park,Saint-Étienne,,,,45.4619477,4.3793607
+340929601,way,,garden,Saint-Étienne,,,,45.4608966,4.3740629
+340933573,way,Place Jean Nocher,garden,Saint-Étienne,,,,45.4616083,4.3742311
+344662934,way,Square du Père Marey,park,Saint-Étienne,,,,45.4497167,4.4055215
+352844402,way,,park,Saint-Étienne,,,,45.4471934,4.2544756
+353841038,way,,park,Saint-Étienne,,,,45.4435539,4.3714589
+353841039,way,,garden,Saint-Étienne,,,,45.4433082,4.3704683
+355292874,way,,park,Saint-Étienne,,,,45.5451754,4.486432
+357366865,way,Square du Souvenir Français,park,Saint-Étienne,,,,45.4745919,4.5127181
+362356984,way,,garden,Saint-Étienne,,,,45.4460323,4.3880237
+375700769,way,Croix du Guizay,memorial,Saint-Étienne,,,,45.3956787,4.3995088
+377706550,way,,park,Saint-Étienne,,,,45.4365983,4.3857504
+377707515,way,,garden,Saint-Étienne,,,,45.4369538,4.3863873
+377707516,way,L'homme à la panthère,artwork,Saint-Étienne,,,,45.4368973,4.3864048
+379126089,way,Square Georges Rouault,park,Saint-Étienne,,,,45.4362109,4.4155986
+383789950,way,Jardin de la Biodiversité,garden,Saint-Étienne,,,,45.4214475,4.3850633
+383956721,way,,park,Saint-Étienne,,,,45.4194875,4.385449
+387383977,way,Génie Créatif,artwork,Saint-Étienne,,,https://citecreation.fr/actualites/la-fresque-du-genie-creatif-au-chambon-feugerolles/,45.383844,4.2804685
+394159624,way,Square des Fleurs,park,Saint-Étienne,,,,45.4345414,4.4149271
+399298982,way,Jardin des Résistants,park,Saint-Étienne,,,,45.4195783,4.3980056
+400405604,way,Square J.F. Kennedy,park,Saint-Étienne,,,,45.4642441,4.3794113
+400410219,way,,garden,Saint-Étienne,,,,45.43903,4.4104854
+400469674,way,,park,Saint-Étienne,,,,45.4550606,4.4149546
+400469677,way,Square Révérend Père Yves Le Gall,park,Saint-Étienne,,,,45.4533244,4.4161034
+400554615,way,Cristal,restaurant,Saint-Étienne,,,,45.4550081,4.413766
+401479108,way,,garden,Saint-Étienne,,,,45.4686479,4.3939985
+401625648,way,,garden,Saint-Étienne,,,,45.4688963,4.3922778
+402187451,way,,garden,Saint-Étienne,,,,45.4634402,4.4073658
+402275441,way,Place Louis Fontvieille,park,Saint-Étienne,,,,45.4402358,4.417894
+404695168,way,,park,Saint-Étienne,,,,45.4349953,4.4360126
+404704530,way,Square Émile Granger,park,Saint-Étienne,,,,45.431741,4.3774311
+405892175,way,Parc Forestier de la Perrotière,park,Saint-Étienne,,,,45.4287559,4.4439752
+405894111,way,Roseraie du Berland,garden,Saint-Étienne,,,,45.4333607,4.2942017
+407206876,way,,restaurant,Saint-Étienne,,,,45.3793043,4.7550152
+414747014,way,Globe,restaurant,Saint-Étienne,Rue Jules Verne,,https://leglobe42.wixsite.com/brasserie-le-globe,45.4406846,4.3409433
+419741124,way,Square Françoise Héritier,park,Saint-Étienne,,,,45.4680908,4.381719
+421883958,way,Bulle six coques,artwork,Saint-Étienne,,,,45.4500458,4.3845349
+422667593,way,La Géante,artwork,Saint-Étienne,,,,45.431996,4.3217441
+422667596,way,Transport de Fond,artwork,Saint-Étienne,,,,45.4331077,4.3234112
+422667599,way,L'Oiseau sorti du Nid,artwork,Saint-Étienne,,,,45.4357631,4.3231178
+422668942,way,Connexions,artwork,Saint-Étienne,,,,45.4337566,4.3220543
+422668943,way,Amoureux,artwork,Saint-Étienne,,,,45.4336894,4.3222037
+422673821,way,La Mine,artwork,Saint-Étienne,,,,45.4306729,4.3204699
+424732318,way,,park,Saint-Étienne,,,,45.5284867,4.6182044
+425913850,way,VIP,restaurant,Saint-Étienne,,,https://www.vipletigre.com/,45.5190932,4.5926668
+432923013,way,,park,Saint-Étienne,,,,45.3642967,4.6864377
+436081085,way,,park,Saint-Étienne,,,,45.4245785,4.4173164
+447475611,way,,garden,Saint-Étienne,,,,45.4378853,4.3816399
+454531861,way,Parc Fraisse,park,Saint-Étienne,,,,45.4899279,4.4346732
+455263537,way,Parc Nelson Mandela,park,Saint-Étienne,,,,45.3968064,4.2608861
+455513254,way,Parc Prévert,park,Saint-Étienne,,,,45.4007951,4.2596269
+463414556,way,Parc de la Mairie,park,Saint-Étienne,42 Rue Victor Hugo,,,45.4808734,4.436009
+463625949,way,Parc de la Sablière,park,Saint-Étienne,,,,45.4804428,4.4234803
+465500266,way,Le Lorettois,restaurant,Saint-Étienne,,,,45.5105081,4.5727419
+468779742,way,Parc du Clos Bayard,park,Saint-Étienne,,,,45.4704899,4.3795483
+468780113,way,Parc Saint-Michel,park,Saint-Étienne,,,,45.4728216,4.3773766
+484047097,way,,ruins,Saint-Étienne,,,,45.4488564,4.3890855
+485537413,way,Square Philippe Courbon,park,Saint-Étienne,,,,45.4170347,4.3984807
+496153545,way,,park,Saint-Étienne,,,,45.4884213,4.3732538
+496153549,way,Puits Beaunier,park,Saint-Étienne,,,,45.4681312,4.3591346
+500737734,way,,garden,Saint-Étienne,,,,45.4653203,4.3789261
+502906916,way,,park,Saint-Étienne,,,,45.4801881,4.3646076
+503085447,way,L'Aventure du Train,museum,Saint-Étienne,,,https://aventuredutrain.com/,45.5213682,4.2561402
+508152030,way,,park,Saint-Étienne,,,,45.4353206,4.3212197
+553864301,way,Square Camille Pradet,park,Saint-Étienne,,,,45.4531723,4.3617993
+569654136,way,,garden,Saint-Étienne,,,,45.4555445,4.3829497
+581962775,way,Ours et Renard,artwork,Saint-Étienne,,,,45.4329635,4.3216729
+582878627,way,L'enfant au masque,artwork,Saint-Étienne,,,,45.4319724,4.3890721
+582878628,way,Monument commémoratif aux combattants de la guerre de 1870,memorial,Saint-Étienne,,,,45.4317118,4.3887408
+582879171,way,Monument à Louis Comte,memorial,Saint-Étienne,,,,45.4315982,4.3877031
+582881154,way,,memorial,Saint-Étienne,,,,45.4395584,4.3963255
+582884442,way,Statue de la Liberté,artwork,Saint-Étienne,,,,45.4241813,4.3917396
+585488596,way,Portrait au Chignon,artwork,Saint-Étienne,,,,45.4331233,4.3210258
+585489471,way,Rigolade,artwork,Saint-Étienne,,,,45.435741,4.3376781
+585923818,way,Place du fossé,park,Saint-Étienne,,,,45.4182485,4.6698297
+586034534,way,La Grande Bouffe,artwork,Saint-Étienne,,,,45.4191661,4.3132719
+586036132,way,,garden,Saint-Étienne,,,,45.4177562,4.6710491
+586036134,way,,garden,Saint-Étienne,,,,45.4180214,4.6702268
+586037500,way,Homme et Femme,artwork,Saint-Étienne,,,,45.4353851,4.3374474
+586040688,way,Océan en Danger,artwork,Saint-Étienne,,,,45.4337203,4.3221584
+586042425,way,,garden,Saint-Étienne,,,,45.4167061,4.6685878
+588204847,way,,park,Saint-Étienne,,,,45.3230679,4.6143014
+594671072,way,,artwork,Saint-Étienne,,,,45.4326605,4.3228968
+594671079,way,,artwork,Saint-Étienne,,,,45.4364084,4.3218955
+595889992,way,,park,Saint-Étienne,,,,45.4749456,4.5060355
+596649063,way,,park,Saint-Étienne,,,,45.4747009,4.504934
+596844525,way,Square Marc et René Fressynet,park,Saint-Étienne,,,,45.475623,4.5081461
+597988179,way,Square des Droits de l'Homme et du Citoyen,park,Saint-Étienne,,,,45.4719355,4.5027098
+599170775,way,,park,Saint-Étienne,,,,45.4741821,4.5074551
+600116044,way,,park,Saint-Étienne,,,,45.473472,4.5087707
+600596236,way,,park,Saint-Étienne,,,,45.4747687,4.511424
+600596249,way,,park,Saint-Étienne,,,,45.475404,4.5108847
+600765325,way,Square Gourperonna,park,Saint-Étienne,,,,45.481132,4.5245217
+605095939,way,Square Charles Péguy,park,Saint-Étienne,,,,45.4359988,4.4176386
+613734585,way,Square Anne Frank,park,Saint-Étienne,,,,45.436714,4.4118493
+615450352,way,,park,Saint-Étienne,,,,45.4815644,4.5037774
+616088930,way,Esplanade Melchior Mitte de Chevrière,park,Saint-Étienne,,,,45.4771749,4.5067493
+618576532,way,,garden,Saint-Étienne,,,,45.4704513,4.3589937
+621140638,way,,park,Saint-Étienne,,,,45.4785644,4.511109
+621428845,way,,park,Saint-Étienne,,,,45.4783649,4.5150226
+621986289,way,Square Docteur José Pierre Simon,park,Saint-Étienne,,,,45.4772533,4.5133642
+621986307,way,,park,Saint-Étienne,,,,45.4708427,4.5082302
+625133668,way,,artwork,Saint-Étienne,,,,45.4328489,4.3227294
+643105264,way,,beach,Saint-Étienne,,,,45.4476425,4.2544253
+643359144,way,Square Henri Dunant,park,Saint-Étienne,,,,45.4647717,4.51455
+651718231,way,,park,Saint-Étienne,,,,45.4787953,4.512616
+655632922,way,,park,Saint-Étienne,,,,45.4822035,4.5307044
+656607889,way,Square Franklin Roosevelt,park,Saint-Étienne,,,,45.4207165,4.4114739
+656607891,way,Square Charles Exbrayat,park,Saint-Étienne,,,,45.4208148,4.4125759
+656610360,way,,park,Saint-Étienne,,,,45.4244201,4.4143505
+656610684,way,,garden,Saint-Étienne,,,,45.4276081,4.4178849
+659346630,way,,park,Saint-Étienne,,,,45.4787289,4.524273
+659491564,way,,park,Saint-Étienne,,,,45.4756517,4.5196214
+661862255,way,,garden,Saint-Étienne,,,,45.4579168,4.3986837
+663490889,way,,park,Saint-Étienne,,,,45.4803836,4.5329013
+663526639,way,,park,Saint-Étienne,,,,45.4809465,4.5328405
+663526650,way,,park,Saint-Étienne,,,,45.4794809,4.5316871
+663526653,way,,park,Saint-Étienne,,,,45.4795865,4.5320073
+663820667,way,,park,Saint-Étienne,,,,45.4775182,4.5303889
+664347717,way,,park,Saint-Étienne,,,,45.4770387,4.5372867
+664405628,way,Rond-Point du Québec,park,Saint-Étienne,,,,45.4782853,4.538637
+664450808,way,Place Joannès Merlat,park,Saint-Étienne,,,,45.4350995,4.3809653
+664510568,way,Petit Train,attraction,Saint-Étienne,,,,45.4740427,4.3626125
+665046151,way,jardin résidence crous,park,Saint-Étienne,,,,45.4220368,4.3868025
+665100950,way,Révolte,artwork,Saint-Étienne,,,,45.4333362,4.3285902
+667215020,way,,park,Saint-Étienne,,,,45.4764573,4.5291404
+667239941,way,,park,Saint-Étienne,,,,45.4749862,4.5280025
+667420919,way,,garden,Saint-Étienne,,,,45.4328031,4.3918209
+667420921,way,,garden,Saint-Étienne,,,,45.4332778,4.3913112
+668669348,way,,park,Saint-Étienne,,,,45.474868,4.5252117
+672247935,way,,park,Saint-Étienne,,,,45.4696171,4.5215021
+680029490,way,,garden,Saint-Étienne,,,,45.422839,4.4020944
+680347931,way,,park,Saint-Étienne,,,,45.4166583,4.4165389
+680347933,way,,park,Saint-Étienne,,,,45.4187407,4.4211283
+680355363,way,,park,Saint-Étienne,,,,45.4180986,4.4149804
+680355939,way,,park,Saint-Étienne,,,,45.4189553,4.4168365
+691288660,way,Esplanade du Premier Train,park,Saint-Étienne,,,,45.4442519,4.4207183
+691289181,way,Jardin Denfert,garden,Saint-Étienne,,,,45.4406143,4.3983399
+691896827,way,,park,Saint-Étienne,,,,45.4626228,4.5034519
+694824181,way,,park,Saint-Étienne,,,,45.4529708,4.3867482
+694824182,way,Cours des matières,park,Saint-Étienne,,,,45.4521949,4.3869679
+700046394,way,,park,Saint-Étienne,,,,45.4627037,4.5204481
+700177883,way,,garden,Saint-Étienne,,,,45.4061525,4.3874234
+700177889,way,Parc de Solaure,park,Saint-Étienne,,,,45.4053052,4.3869347
+701514831,way,,park,Saint-Étienne,,,,45.4872006,4.5004523
+701514833,way,,park,Saint-Étienne,,,,45.4871777,4.4993205
+701758786,way,,park,Saint-Étienne,,,,45.4633563,4.4910165
+701758789,way,,park,Saint-Étienne,,,,45.4590829,4.5007001
+703804301,way,,park,Saint-Étienne,,,,45.4633658,4.4987854
+703804303,way,,park,Saint-Étienne,,,,45.4631838,4.4976828
+704761647,way,,park,Saint-Étienne,,,,45.4641786,4.5045113
+705042831,way,,park,Saint-Étienne,,,,45.4664104,4.5177569
+706297510,way,,park,Saint-Étienne,,,,45.4634107,4.4959246
+706297511,way,,park,Saint-Étienne,,,,45.4630435,4.4960239
+708461093,way,,park,Saint-Étienne,,,,45.4673801,4.5267661
+711008119,way,,park,Saint-Étienne,,,,45.4644768,4.5033049
+711241255,way,,park,Saint-Étienne,,,,45.4626985,4.5132046
+722857241,way,,garden,Saint-Étienne,,,,45.4432752,4.3970493
+723966247,way,,park,Saint-Étienne,,,,45.4574727,4.507989
+726113731,way,,park,Saint-Étienne,,,,45.4670605,4.504711
+726763315,way,Esplanade Raymonde et Marcel Heyraud,park,Saint-Étienne,,,,45.4765052,4.5057613
+726763316,way,,park,Saint-Étienne,,,,45.4771478,4.5056658
+739493765,way,,park,Saint-Étienne,,,,45.3639571,4.6839617
+740639835,way,,park,Saint-Étienne,,,,45.3614517,4.6857078
+755597953,way,Les Comptoirs d'Alice et Jules,restaurant,Saint-Étienne,,,https://www.lescomptoirsdalice.fr/,45.4422556,4.4205519
+760399284,way,Espace François Royer,park,Saint-Étienne,,,,45.4073076,4.379447
+768466960,way,,park,Saint-Étienne,,,,45.3593788,4.6844437
+768466961,way,,park,Saint-Étienne,,,,45.3595083,4.683981
+768466967,way,,park,Saint-Étienne,,,,45.358519,4.6841503
+768466969,way,,park,Saint-Étienne,,,,45.3590539,4.6844304
+768466976,way,,park,Saint-Étienne,,,,45.3588938,4.6845924
+781164627,way,,garden,Saint-Étienne,,,,45.4727975,4.5169173
+781164629,way,,garden,Saint-Étienne,,,,45.4727102,4.516652
+782092679,way,,park,Saint-Étienne,,,,45.3572945,4.6856917
+782092681,way,,park,Saint-Étienne,,,,45.3575396,4.6837109
+782579904,way,,garden,Saint-Étienne,,,,45.4744793,4.5122919
+782579918,way,,garden,Saint-Étienne,,,,45.4754038,4.5084735
+782579920,way,,garden,Saint-Étienne,,,,45.4732588,4.5108303
+782579927,way,,garden,Saint-Étienne,,,,45.4753838,4.5198536
+782579928,way,,garden,Saint-Étienne,,,,45.4753569,4.5197906
+783426295,way,,garden,Saint-Étienne,,,,45.4747162,4.5114407
+783426298,way,,garden,Saint-Étienne,,,,45.4747676,4.5114893
+783426299,way,,garden,Saint-Étienne,,,,45.474788,4.5113613
+783745783,way,À la Table des Lys,restaurant,Saint-Étienne,,,https://www.latabledeslys.fr,45.4549806,4.3688461
+789644448,way,,park,Saint-Étienne,,,,45.4634384,4.4053311
+793350202,way,,park,Saint-Étienne,,,,45.4639865,4.4055313
+802446252,way,,artwork,Saint-Étienne,,,,45.4325777,4.3899184
+806160733,way,,park,Saint-Étienne,,,,45.500602,4.550955
+823896846,way,Square des Anciens Combattants,park,Saint-Étienne,,,,45.3729396,4.7059942
+839067720,way,,garden,Saint-Étienne,,,,45.4754406,4.5132503
+839067721,way,,garden,Saint-Étienne,,,,45.475176,4.5130512
+839067722,way,,garden,Saint-Étienne,,,,45.4752094,4.5133482
+839067723,way,,garden,Saint-Étienne,,,,45.475273,4.5136332
+839686164,way,,garden,Saint-Étienne,,,,45.4651418,4.5185454
+839759360,way,,garden,Saint-Étienne,,,,45.4659104,4.5141151
+839759361,way,,garden,Saint-Étienne,,,,45.465971,4.5141193
+839759362,way,,garden,Saint-Étienne,,,,45.4660078,4.5140869
+839759363,way,,garden,Saint-Étienne,,,,45.4660814,4.5140807
+839759370,way,,garden,Saint-Étienne,,,,45.4661026,4.5134391
+839759371,way,,garden,Saint-Étienne,,,,45.4661507,4.5138092
+839759381,way,,garden,Saint-Étienne,,,,45.4662484,4.5145598
+839759382,way,,garden,Saint-Étienne,,,,45.4663242,4.5152632
+839762100,way,,garden,Saint-Étienne,,,,45.4663422,4.5155561
+841367972,way,,artwork,Saint-Étienne,,,,45.4146445,4.308413
+841367973,way,,artwork,Saint-Étienne,,,,45.4148457,4.3081606
+854053157,way,Parc de la Ronze,park,Saint-Étienne,Route de l'Europe,,,45.5467241,4.5990853
+858268647,way,,park,Saint-Étienne,"Rue de la Croix Berthaud, 42400, Saint-Chamond",42400,,45.4665872,4.5210668
+875704521,way,,park,Saint-Étienne,,,,45.3873903,4.671505
+875704522,way,,park,Saint-Étienne,,,,45.3867889,4.671347
+875704524,way,,park,Saint-Étienne,,,,45.3907212,4.6734159
+875704535,way,L'Escale à Roisey,restaurant,Saint-Étienne,,,,45.3879794,4.6716209
+875704538,way,,park,Saint-Étienne,,,,45.3883095,4.677463
+883006875,way,,park,Saint-Étienne,,,,45.530051,4.6201406
+884003824,way,,park,Saint-Étienne,,,,45.4723689,4.408039
+894756366,way,Base de Loisir Saint-Pierre-de-Bœuf,park,Saint-Étienne,Saint-Pierre-de-Bœuf,,https://www.espaceeauxvives.com/,45.3794893,4.7530237
+896641434,way,Le Parc,park,Saint-Étienne,,,,45.528314,4.6016319
+899517553,way,,park,Saint-Étienne,,,,45.4869149,4.5306613
+899604881,way,Square du 8 Mai 1945,park,Saint-Étienne,,,,45.3250039,4.6106702
+899604958,way,Parc le Prémartin,park,Saint-Étienne,,,,45.3256348,4.6115609
+899604969,way,Pépinières et Roseraies Paul Croix,garden,Saint-Étienne,,,https://pepinieres-paul-croix.fr/,45.2967418,4.5672112
+900431161,way,,park,Saint-Étienne,,,,45.4895892,4.5316848
+900431162,way,,park,Saint-Étienne,,,,45.4892459,4.5323452
+900431163,way,,park,Saint-Étienne,,,,45.4879494,4.531271
+900431169,way,,park,Saint-Étienne,,,,45.4877407,4.5331819
+900712518,way,,park,Saint-Étienne,,,,45.4891463,4.5394374
+900824956,way,,park,Saint-Étienne,,,,45.491071,4.5400247
+900824957,way,,park,Saint-Étienne,,,,45.4911117,4.5387203
+900824958,way,,park,Saint-Étienne,,,,45.4908634,4.5378731
+900824959,way,,park,Saint-Étienne,,,,45.4905433,4.5352727
+901094315,way,,park,Saint-Étienne,,,,45.4871404,4.5359212
+901111585,way,,park,Saint-Étienne,,,,45.4914265,4.5433216
+901111586,way,,park,Saint-Étienne,,,,45.4912968,4.5434389
+901515229,way,,park,Saint-Étienne,,,,45.4919032,4.5458678
+901515230,way,,park,Saint-Étienne,,,,45.4919749,4.5468526
+902425989,way,,garden,Saint-Étienne,,,,45.4411052,4.7531446
+902428695,way,,garden,Saint-Étienne,,,,45.4371004,4.7504922
+902463079,way,,garden,Saint-Étienne,,,,45.4497577,4.7517324
+903476894,way,,garden,Saint-Étienne,,,,45.4434981,4.705659
+903512378,way,,garden,Saint-Étienne,,,,45.4439321,4.709428
+903730447,way,,garden,Saint-Étienne,,,,45.4430069,4.7125796
+903730450,way,,garden,Saint-Étienne,,,,45.4427485,4.7124032
+903730453,way,,garden,Saint-Étienne,,,,45.4424994,4.7105014
+903798210,way,,garden,Saint-Étienne,,,,45.440318,4.7170848
+903807487,way,,garden,Saint-Étienne,,,,45.440152,4.7197981
+903807489,way,,garden,Saint-Étienne,,,,45.4401457,4.7186774
+903889562,way,,garden,Saint-Étienne,,,,45.4463,4.7165986
+904164428,way,,garden,Saint-Étienne,,,,45.4440958,4.7287333
+904233824,way,,garden,Saint-Étienne,,,,45.4517122,4.7115551
+904240463,way,,garden,Saint-Étienne,,,,45.444108,4.714008
+904240464,way,,garden,Saint-Étienne,,,,45.4437926,4.7140984
+904240469,way,,garden,Saint-Étienne,,,,45.4446273,4.7136903
+905458598,way,,garden,Saint-Étienne,,,,45.4385582,4.7189914
+905458620,way,,garden,Saint-Étienne,,,,45.4388557,4.7179433
+905458621,way,,garden,Saint-Étienne,,,,45.4396487,4.7188792
+905468464,way,,garden,Saint-Étienne,,,,45.4392693,4.7070755
+905468465,way,,garden,Saint-Étienne,,,,45.4393465,4.707479
+905468466,way,,garden,Saint-Étienne,,,,45.4395067,4.7073596
+905468467,way,,garden,Saint-Étienne,,,,45.4395562,4.7069872
+905469480,way,,garden,Saint-Étienne,,,,45.4349649,4.7094704
+905469481,way,,garden,Saint-Étienne,,,,45.4352745,4.7099842
+905469484,way,,garden,Saint-Étienne,,,,45.4360605,4.7107512
+905587985,way,,garden,Saint-Étienne,,,,45.4377652,4.6998203
+905590110,way,,garden,Saint-Étienne,,,,45.4398013,4.6959783
+905592577,way,,garden,Saint-Étienne,,,,45.4393479,4.7002061
+905592578,way,,garden,Saint-Étienne,,,,45.4392814,4.6995912
+905608431,way,,garden,Saint-Étienne,,,,45.4359286,4.6997791
+905608432,way,,garden,Saint-Étienne,,,,45.4359647,4.699586
+906755845,way,,park,Saint-Étienne,,,,45.462067,4.3889905
+906917778,way,,garden,Saint-Étienne,,,,45.4313385,4.7288556
+908840931,way,,garden,Saint-Étienne,,,,45.4531562,4.7072677
+917441688,way,,park,Saint-Étienne,,,,45.4556529,4.7547904
+922985848,way,Explora parc,park,Saint-Étienne,,,,45.4361733,4.3762825
+925956732,way,Square Victore Laprade,park,Saint-Étienne,,,,45.4179736,4.3942508
+935721834,way,,park,Saint-Étienne,,,,45.4922416,4.5591695
+935721839,way,,park,Saint-Étienne,,,,45.4822504,4.5397757
+935902486,way,,park,Saint-Étienne,,,,45.4879716,4.54735
+937537110,way,,park,Saint-Étienne,,,,45.4872072,4.5441142
+937537121,way,,park,Saint-Étienne,,,,45.4862677,4.5430477
+944596655,way,,park,Saint-Étienne,,,,45.4820254,4.5420745
+944596658,way,,park,Saint-Étienne,,,,45.4817605,4.5415941
+944596665,way,,park,Saint-Étienne,,,,45.4820565,4.5427648
+944596672,way,,park,Saint-Étienne,,,,45.482365,4.5431223
+944674449,way,,park,Saint-Étienne,,,,45.483485,4.5413103
+944674452,way,,park,Saint-Étienne,,,,45.4834098,4.5410108
+944674453,way,,park,Saint-Étienne,,,,45.4833394,4.5412859
+944674456,way,,park,Saint-Étienne,,,,45.4841265,4.5419776
+944674457,way,,park,Saint-Étienne,,,,45.4838139,4.5418475
+944674459,way,,park,Saint-Étienne,,,,45.4836264,4.541409
+944674460,way,,park,Saint-Étienne,,,,45.4837589,4.5416365
+944674461,way,,park,Saint-Étienne,,,,45.48372,4.5416744
+944674462,way,,park,Saint-Étienne,,,,45.4840232,4.5415259
+944674468,way,,park,Saint-Étienne,,,,45.4834243,4.5417557
+944674469,way,,park,Saint-Étienne,,,,45.4837783,4.5404675
+944706748,way,,park,Saint-Étienne,,,,45.4859278,4.5441813
+944988919,way,,park,Saint-Étienne,,,,45.4939379,4.5583351
+944988920,way,,park,Saint-Étienne,,,,45.4935924,4.5587943
+944988921,way,,park,Saint-Étienne,,,,45.4941642,4.55945
+946535362,way,,park,Saint-Étienne,,,,45.4858314,4.5430551
+946535363,way,,park,Saint-Étienne,,,,45.4860958,4.5428294
+946535364,way,,park,Saint-Étienne,,,,45.4859821,4.5423471
+946535365,way,,park,Saint-Étienne,,,,45.4860788,4.5425717
+946535366,way,,park,Saint-Étienne,,,,45.485851,4.5427653
+946765615,way,,park,Saint-Étienne,,,,45.484725,4.5473748
+946765617,way,,park,Saint-Étienne,,,,45.4846808,4.5479509
+947137890,way,,park,Saint-Étienne,,,,45.4891542,4.5506303
+947192937,way,,park,Saint-Étienne,,,,45.4818837,4.5315304
+953674708,way,,park,Saint-Étienne,,,,45.4224123,4.3840041
+954835869,way,,park,Saint-Étienne,,,,45.4280284,4.4019734
+954835870,way,Espace Charles Rambaud,park,Saint-Étienne,,,,45.4274713,4.403703
+956242016,way,,park,Saint-Étienne,,,,45.423652,4.392129
+964917126,way,Château de Rochetaillée,castle,Saint-Étienne,,,,45.4101533,4.4462135
+965656569,way,Square des Apprentis,park,Saint-Étienne,,,,45.4567903,4.3843287
+973294457,way,,park,Saint-Étienne,,,,45.340689,4.4178162
+978968800,way,,garden,Saint-Étienne,,,,45.3822012,4.4405991
+978975303,way,Jardin pédagogique du Vignolet,garden,Saint-Étienne,,,,45.3738661,4.449331
+985813350,way,,garden,Saint-Étienne,,,,45.4710248,4.7091675
+986014967,way,,garden,Saint-Étienne,,,,45.4723198,4.7320828
+986621772,way,,garden,Saint-Étienne,,,,45.477621,4.7205933
+986621773,way,,garden,Saint-Étienne,,,,45.4777409,4.7201721
+986621774,way,,garden,Saint-Étienne,,,,45.4777704,4.7205189
+986621779,way,,garden,Saint-Étienne,,,,45.4779563,4.7199161
+986621780,way,,garden,Saint-Étienne,,,,45.478025,4.7200558
+986621781,way,,garden,Saint-Étienne,,,,45.4779928,4.7200065
+986621782,way,,garden,Saint-Étienne,,,,45.477807,4.7197917
+986621783,way,,garden,Saint-Étienne,,,,45.4778673,4.7194969
+990531760,way,,garden,Saint-Étienne,,,,45.4752563,4.7159075
+991148407,way,,garden,Saint-Étienne,,,,45.4865054,4.7247316
+991342779,way,,garden,Saint-Étienne,,,,45.4899783,4.7269777
+991342787,way,,garden,Saint-Étienne,,,,45.48706,4.7203888
+991428197,way,,garden,Saint-Étienne,,,,45.4833912,4.7403897
+991428198,way,,garden,Saint-Étienne,,,,45.4833831,4.7400804
+991428241,way,,garden,Saint-Étienne,,,,45.4843911,4.7405885
+995897945,way,,park,Saint-Étienne,,,,45.4637913,4.3794795
+996007268,way,,garden,Saint-Étienne,,,,45.4297614,4.6986146
+996007269,way,,garden,Saint-Étienne,,,,45.4298577,4.6991148
+996007279,way,,garden,Saint-Étienne,,,,45.4321335,4.7005787
+996293264,way,,garden,Saint-Étienne,,,,45.4213683,4.7167195
+997689483,way,Après la danse du cerf,artwork,Saint-Étienne,,,,45.4421207,4.4063307
+1004143051,way,,garden,Saint-Étienne,,,,45.4512949,4.4489957
+1004143052,way,,garden,Saint-Étienne,,,,45.4514872,4.4488603
+1006597904,way,,castle,Saint-Étienne,,,,45.3850468,4.2760869
+1007838204,way,Crêp'eat,restaurant,Saint-Étienne,,,https://crepeat.com/restaurant/crepeat-saint-etienne-monthieu/,45.4410546,4.422128
+1012708869,way,,garden,Saint-Étienne,,,,45.4182667,4.7344651
+1014031823,way,,park,Saint-Étienne,,,,45.4158843,4.5162644
+1015685557,way,,garden,Saint-Étienne,,,,45.4311476,4.6963091
+1015685565,way,,garden,Saint-Étienne,,,,45.4310182,4.6959948
+1015685566,way,,garden,Saint-Étienne,,,,45.430867,4.6957265
+1016680162,way,,garden,Saint-Étienne,,,,45.4312302,4.6965755
+1017880620,way,,park,Saint-Étienne,,,,45.4151648,4.51665
+1028910354,way,,garden,Saint-Étienne,,,,45.4264869,4.6883212
+1029990300,way,,garden,Saint-Étienne,,,,45.4348933,4.6842493
+1029990338,way,,garden,Saint-Étienne,,,,45.4353977,4.6845583
+1029990339,way,,garden,Saint-Étienne,,,,45.4355399,4.6849689
+1029990340,way,,garden,Saint-Étienne,,,,45.4356471,4.6847087
+1030965710,way,,garden,Saint-Étienne,,,,45.4354033,4.670902
+1031661647,way,Jardin des Mélisses,garden,Saint-Étienne,,,,45.4802165,4.3595344
+1031685937,way,Place des Carmes,park,Saint-Étienne,,,,45.3715769,4.2775365
+1032842478,way,Parc Puits des Granges,park,Saint-Étienne,,,,45.4262238,4.3196656
+1034232879,way,,garden,Saint-Étienne,,,,45.42591,4.6719176
+1034232880,way,,garden,Saint-Étienne,,,,45.4261648,4.6722713
+1036860364,way,,garden,Saint-Étienne,,,,45.4175447,4.6670105
+1037153671,way,,garden,Saint-Étienne,,,,45.4246725,4.6639504
+1037153673,way,,garden,Saint-Étienne,,,,45.4264252,4.665665
+1037153675,way,,garden,Saint-Étienne,,,,45.4243828,4.6635216
+1037153676,way,,garden,Saint-Étienne,,,,45.4246635,4.6630499
+1037153677,way,,garden,Saint-Étienne,,,,45.4244365,4.6629587
+1038084527,way,,garden,Saint-Étienne,,,,45.4317754,4.65615
+1038216603,way,,garden,Saint-Étienne,,,,45.4413064,4.650125
+1038216604,way,,garden,Saint-Étienne,,,,45.4414447,4.6493753
+1038216607,way,,garden,Saint-Étienne,,,,45.4413854,4.6496308
+1038216613,way,,garden,Saint-Étienne,,,,45.4413447,4.6499182
+1039403260,way,,garden,Saint-Étienne,,,,45.4523026,4.650106
+1051759819,way,parc des trois sapins,park,Saint-Étienne,,,,45.4201913,4.6748676
+1058199871,way,,park,Saint-Étienne,,,,45.4456299,4.3923903
+1059517579,way,,garden,Saint-Étienne,,,,45.4227978,4.4015179
+1086698736,way,Memphis,restaurant,Saint-Étienne,,,https://restaurants.memphis-restaurant.com/Saint-Etienne-Villars/,45.4706458,4.343376
+1089565785,way,,garden,Saint-Étienne,,,,45.4722532,4.508134
+1089565786,way,,garden,Saint-Étienne,,,,45.4723005,4.5082476
+1089565787,way,,garden,Saint-Étienne,,,,45.4720173,4.5068741
+1089565788,way,,garden,Saint-Étienne,,,,45.471903,4.5068136
+1089565789,way,,garden,Saint-Étienne,,,,45.4720228,4.5070531
+1090743587,way,,garden,Saint-Étienne,,,,45.4716124,4.5022733
+1090743588,way,,garden,Saint-Étienne,,,,45.4715387,4.5021157
+1090743589,way,,garden,Saint-Étienne,,,,45.4714675,4.5022712
+1090743590,way,,garden,Saint-Étienne,,,,45.4715259,4.5024849
+1090743591,way,,garden,Saint-Étienne,,,,45.4717343,4.5024571
+1090743592,way,,garden,Saint-Étienne,,,,45.4717484,4.5021711
+1091660388,way,Sadi Carnot,memorial,Saint-Étienne,,,,45.4755335,4.5138562
+1092480591,way,,garden,Saint-Étienne,,,,45.4711694,4.5082466
+1092480592,way,,garden,Saint-Étienne,,,,45.4711983,4.5079603
+1092480593,way,,garden,Saint-Étienne,,,,45.4712153,4.5077915
+1092480594,way,,garden,Saint-Étienne,,,,45.4712293,4.5076507
+1092480595,way,,garden,Saint-Étienne,,,,45.4711732,4.5085883
+1092480598,way,,garden,Saint-Étienne,,,,45.4711302,4.5079784
+1092480599,way,,garden,Saint-Étienne,,,,45.4711521,4.5077753
+1092480600,way,,garden,Saint-Étienne,,,,45.4711738,4.5075665
+1092480601,way,,garden,Saint-Étienne,,,,45.4708089,4.5077068
+1092480602,way,,garden,Saint-Étienne,,,,45.4707886,4.5079049
+1092480603,way,,garden,Saint-Étienne,,,,45.4707441,4.5072538
+1092480604,way,,garden,Saint-Étienne,,,,45.4709309,4.5074843
+1092480605,way,,garden,Saint-Étienne,,,,45.4710492,4.5086014
+1092480606,way,,garden,Saint-Étienne,,,,45.4708347,4.5088216
+1092480607,way,,garden,Saint-Étienne,,,,45.4705867,4.5085258
+1092480608,way,,garden,Saint-Étienne,,,,45.4706586,4.5087111
+1092480609,way,,garden,Saint-Étienne,,,,45.4708398,4.5084836
+1092480610,way,,garden,Saint-Étienne,,,,45.4706469,4.5082637
+1092480611,way,,garden,Saint-Étienne,,,,45.4704967,4.508896
+1093355171,way,,garden,Saint-Étienne,,,,45.4781691,4.5159614
+1093355172,way,,garden,Saint-Étienne,,,,45.4782283,4.5161738
+1093355173,way,,garden,Saint-Étienne,,,,45.4782876,4.5163859
+1093355174,way,,garden,Saint-Étienne,,,,45.4783307,4.5165399
+1093355175,way,,garden,Saint-Étienne,,,,45.4780296,4.5158893
+1093355176,way,,garden,Saint-Étienne,,,,45.4780701,4.5160425
+1093355177,way,,garden,Saint-Étienne,,,,45.4781153,4.5162636
+1093355178,way,,garden,Saint-Étienne,,,,45.4781855,4.5164706
+1093355182,way,,garden,Saint-Étienne,,,,45.4782362,4.5167493
+1093355183,way,,garden,Saint-Étienne,,,,45.4782558,4.5166291
+1093355189,way,,garden,Saint-Étienne,,,,45.4784865,4.5161833
+1093355190,way,,garden,Saint-Étienne,,,,45.4785461,4.5159241
+1093355192,way,,garden,Saint-Étienne,,,,45.4784133,4.5164991
+1093355193,way,,garden,Saint-Étienne,,,,45.4783609,4.5167244
+1093355195,way,,garden,Saint-Étienne,,,,45.4783037,4.5169776
+1094278820,way,,garden,Saint-Étienne,,,,45.464089,4.5034114
+1094278821,way,,garden,Saint-Étienne,,,,45.4641963,4.5034526
+1094278824,way,,garden,Saint-Étienne,,,,45.4642489,4.5033963
+1094278825,way,,garden,Saint-Étienne,,,,45.4639914,4.5032984
+1094278826,way,,garden,Saint-Étienne,,,,45.463919,4.5036417
+1094278827,way,,garden,Saint-Étienne,,,,45.4640921,4.5037084
+1094278831,way,,garden,Saint-Étienne,,,,45.4640392,4.5035774
+1094278832,way,,garden,Saint-Étienne,,,,45.4641219,4.5035996
+1094278833,way,,garden,Saint-Étienne,,,,45.4641505,4.5036493
+1094278834,way,,garden,Saint-Étienne,,,,45.4638217,4.5036071
+1094278835,way,,garden,Saint-Étienne,,,,45.4639173,4.5032841
+1094638976,way,,garden,Saint-Étienne,,,,45.4765037,4.5057108
+1095483916,way,,park,Saint-Étienne,,,,45.5022537,4.5651407
+1095505419,way,,garden,Saint-Étienne,,,,45.4753929,4.5172706
+1095505420,way,,garden,Saint-Étienne,,,,45.4754105,4.5173804
+1095505428,way,,garden,Saint-Étienne,,,,45.4752848,4.5177086
+1095505429,way,,garden,Saint-Étienne,,,,45.475464,4.5176577
+1095740152,way,,garden,Saint-Étienne,,,,45.4749323,4.5170829
+1095740153,way,,garden,Saint-Étienne,,,,45.4750061,4.5168761
+1095740155,way,,garden,Saint-Étienne,,,,45.4755428,4.51779
+1095740156,way,,garden,Saint-Étienne,,,,45.4752788,4.5178567
+1095740157,way,,garden,Saint-Étienne,,,,45.4751488,4.5181106
+1095916748,way,,garden,Saint-Étienne,,,,45.4766669,4.5167643
+1096049863,way,,garden,Saint-Étienne,,,,45.465276,4.5144433
+1096049864,way,,garden,Saint-Étienne,,,,45.4651306,4.5144183
+1096061802,way,,garden,Saint-Étienne,,,,45.4663359,4.5178547
+1096061803,way,,garden,Saint-Étienne,,,,45.4665191,4.517818
+1097304320,way,,garden,Saint-Étienne,,,,45.4824728,4.5310909
+1097304321,way,,garden,Saint-Étienne,,,,45.4823804,4.5311857
+1097304323,way,,garden,Saint-Étienne,,,,45.4824946,4.5313049
+1098682396,way,,garden,Saint-Étienne,,,,45.4758747,4.5303271
+1098682397,way,,garden,Saint-Étienne,,,,45.4754623,4.5300641
+1098682400,way,,garden,Saint-Étienne,,,,45.4752359,4.5299974
+1098682411,way,,garden,Saint-Étienne,,,,45.4769549,4.5309293
+1098682412,way,,garden,Saint-Étienne,,,,45.4768226,4.5307839
+1098908941,way,,garden,Saint-Étienne,,,,45.4734034,4.5293013
+1098940551,way,,garden,Saint-Étienne,,,,45.4747397,4.5334572
+1099640338,way,,garden,Saint-Étienne,,,,45.4699466,4.5342046
+1099640339,way,,garden,Saint-Étienne,,,,45.4701752,4.5336197
+1099640340,way,,garden,Saint-Étienne,,,,45.4703684,4.5332504
+1099640343,way,,garden,Saint-Étienne,,,,45.4698755,4.5336584
+1099640344,way,,garden,Saint-Étienne,,,,45.4696783,4.5335659
+1099640346,way,,garden,Saint-Étienne,,,,45.4700367,4.5331408
+1099640349,way,,garden,Saint-Étienne,,,,45.4701106,4.5329556
+1099640351,way,,garden,Saint-Étienne,,,,45.4705309,4.5328608
+1099640352,way,,garden,Saint-Étienne,,,,45.4704806,4.5325511
+1099640353,way,,garden,Saint-Étienne,,,,45.4704719,4.5323601
+1099640354,way,,garden,Saint-Étienne,,,,45.4702842,4.5331953
+1099640356,way,,garden,Saint-Étienne,,,,45.4705398,4.5329789
+1099647933,way,,garden,Saint-Étienne,,,,45.4697008,4.534163
+1099647934,way,,garden,Saint-Étienne,,,,45.4698844,4.534214
+1099647935,way,,garden,Saint-Étienne,,,,45.4699207,4.5340375
+1099647936,way,,garden,Saint-Étienne,,,,45.4700189,4.5338255
+1099945614,way,,garden,Saint-Étienne,,,,45.4695056,4.5333347
+1099945615,way,,garden,Saint-Étienne,,,,45.4695302,4.5328846
+1099945621,way,,garden,Saint-Étienne,,,,45.4701264,4.5332127
+1099945623,way,,garden,Saint-Étienne,,,,45.469376,4.5329664
+1100842152,way,,garden,Saint-Étienne,,,,45.4693257,4.5330432
+1100864731,way,,park,Saint-Étienne,,,,45.4579835,4.4876227
+1101716291,way,,garden,Saint-Étienne,,,,45.4760233,4.5294456
+1101716292,way,,garden,Saint-Étienne,,,,45.4758251,4.5295045
+1101716293,way,,garden,Saint-Étienne,,,,45.4755789,4.5296222
+1101830596,way,,garden,Saint-Étienne,,,,45.4753657,4.5307655
+1101830597,way,,garden,Saint-Étienne,,,,45.4753073,4.531115
+1101830601,way,,garden,Saint-Étienne,,,,45.475259,4.5313696
+1101830610,way,,garden,Saint-Étienne,,,,45.4752022,4.5317155
+1101830612,way,,garden,Saint-Étienne,,,,45.4751187,4.5319452
+1101830614,way,,garden,Saint-Étienne,,,,45.4750574,4.5321849
+1101830631,way,,garden,Saint-Étienne,,,,45.4748697,4.5328271
+1101931232,way,,garden,Saint-Étienne,,,,45.4770643,4.5322084
+1101931243,way,,garden,Saint-Étienne,,,,45.4760111,4.5319306
+1101931251,way,,garden,Saint-Étienne,,,,45.4764127,4.5311448
+1101931252,way,,garden,Saint-Étienne,,,,45.4762769,4.5309646
+1101931253,way,,garden,Saint-Étienne,,,,45.4761813,4.5308363
+1102110958,way,,garden,Saint-Étienne,,,,45.4769076,4.5315842
+1102110959,way,,garden,Saint-Étienne,,,,45.4768674,4.5316794
+1102110960,way,,garden,Saint-Étienne,,,,45.4769519,4.5318236
+1102110961,way,,garden,Saint-Étienne,,,,45.4768572,4.531621
+1102110962,way,,garden,Saint-Étienne,,,,45.4770609,4.5319674
+1102110963,way,,garden,Saint-Étienne,,,,45.4771821,4.5321033
+1102110964,way,,garden,Saint-Étienne,,,,45.4773129,4.5322367
+1102110965,way,,garden,Saint-Étienne,,,,45.4774151,4.5323938
+1102110966,way,,garden,Saint-Étienne,,,,45.4774971,4.5325061
+1110228707,way,,garden,Saint-Étienne,,,,45.3841352,4.3405812
+1110800972,way,,park,Saint-Étienne,,,,45.3998962,4.2240463
+1112717076,way,,park,Saint-Étienne,,,,45.3711545,4.7009585
+1112717091,way,,park,Saint-Étienne,,,,45.3711318,4.7014708
+1138434810,way,,garden,Saint-Étienne,,,,45.4187136,4.6767591
+1150155147,way,,garden,Saint-Étienne,,,,45.4490173,4.4026684
+1169354274,way,,park,Saint-Étienne,,,,45.367586,4.6622467
+1169354275,way,,park,Saint-Étienne,,,,45.3675686,4.6616373
+1180157080,way,,park,Saint-Étienne,,,,45.395407,4.3232776
+1180164468,way,,park,Saint-Étienne,,,,45.3981911,4.3538141
+1180413081,way,,park,Saint-Étienne,,,,45.3978311,4.3270537
+1180427397,way,,park,Saint-Étienne,,,,45.3983719,4.3325888
+1180427398,way,,park,Saint-Étienne,,,,45.3980362,4.3305515
+1180467023,way,,park,Saint-Étienne,,,,45.3899842,4.322194
+1180670496,way,,park,Saint-Étienne,,,,45.3972621,4.3204238
+1180671922,way,,park,Saint-Étienne,,,,45.3950751,4.3014171
+1182021558,way,,park,Saint-Étienne,,,,45.3949161,4.3470624
+1194336436,way,Jardin Partagé du Square Chovet,garden,Saint-Étienne,26 Rue Royet,,,45.4420191,4.3908922
+1196696163,way,La p'tite campagne,garden,Saint-Étienne,,,,45.4418691,4.3960169
+1198150740,way,,garden,Saint-Étienne,,,,45.4834252,4.5337747
+1198150741,way,,garden,Saint-Étienne,,,,45.4834419,4.5339494
+1198150744,way,,garden,Saint-Étienne,,,,45.4835221,4.5337025
+1198150746,way,,garden,Saint-Étienne,,,,45.4834169,4.5343953
+1198150748,way,,garden,Saint-Étienne,,,,45.4832173,4.5339277
+1198150749,way,,garden,Saint-Étienne,,,,45.4831172,4.5335907
+1198150750,way,,garden,Saint-Étienne,,,,45.4829499,4.5333968
+1198150751,way,,garden,Saint-Étienne,,,,45.4830105,4.5332137
+1198150752,way,,garden,Saint-Étienne,,,,45.4828117,4.5330983
+1198150753,way,,garden,Saint-Étienne,,,,45.4828384,4.5329409
+1198150754,way,,garden,Saint-Étienne,,,,45.4827863,4.5333264
+1198150755,way,,garden,Saint-Étienne,,,,45.4827643,4.5332565
+1198150756,way,,garden,Saint-Étienne,,,,45.4826686,4.5333982
+1198150757,way,,garden,Saint-Étienne,,,,45.4826472,4.5333288
+1198150758,way,,garden,Saint-Étienne,,,,45.4824754,4.5334051
+1198150759,way,,garden,Saint-Étienne,,,,45.4828918,4.5338401
+1198150761,way,,garden,Saint-Étienne,,,,45.4828485,4.5340965
+1198150762,way,,garden,Saint-Étienne,,,,45.482981,4.5339446
+1198150763,way,,garden,Saint-Étienne,,,,45.4830957,4.5340102
+1198150764,way,,garden,Saint-Étienne,,,,45.4832128,4.5342942
+1198150765,way,,garden,Saint-Étienne,,,,45.4833276,4.5346199
+1198150766,way,,garden,Saint-Étienne,,,,45.483289,4.5348176
+1198151712,way,,garden,Saint-Étienne,,,,45.4830907,4.5327206
+1198151713,way,,garden,Saint-Étienne,,,,45.4831571,4.532879
+1198151714,way,,garden,Saint-Étienne,,,,45.483197,4.5328855
+1198151715,way,,garden,Saint-Étienne,,,,45.4830152,4.5324032
+1198730129,way,,garden,Saint-Étienne,,,,45.4833955,4.5326105
+1198730130,way,,garden,Saint-Étienne,,,,45.483357,4.5324833
+1198730131,way,,garden,Saint-Étienne,,,,45.4832861,4.5322486
+1198730132,way,,garden,Saint-Étienne,,,,45.4834103,4.5327463
+1198730133,way,,garden,Saint-Étienne,,,,45.4832177,4.5321562
+1198730134,way,,garden,Saint-Étienne,,,,45.4831379,4.5321684
+1198730135,way,,garden,Saint-Étienne,,,,45.4830738,4.532241
+1198730308,way,,garden,Saint-Étienne,,,,45.4832138,4.5325811
+1198730309,way,,garden,Saint-Étienne,,,,45.4831525,4.5323753
+1198739357,way,,garden,Saint-Étienne,,,,45.483255,4.5350919
+1198739358,way,,garden,Saint-Étienne,,,,45.4834617,4.5348625
+1198739362,way,,garden,Saint-Étienne,,,,45.4836069,4.5349486
+1198739363,way,,garden,Saint-Étienne,,,,45.4836737,4.5351829
+1198739364,way,,garden,Saint-Étienne,,,,45.4837678,4.5356969
+1215632177,way,Le Berchu,garden,Saint-Étienne,,,,45.4427581,4.3888951
+1239852079,way,,park,Saint-Étienne,,,,45.4851374,4.3776312
+1240183278,way,,garden,Saint-Étienne,,,,45.4488898,4.4041163
+1248222816,way,,park,Saint-Étienne,,,,45.4731194,4.398352
+1250027208,way,,park,Saint-Étienne,,,,45.5215729,4.5884737
+1260869108,way,,park,Saint-Étienne,,,,45.5371302,4.6095586
+1260869109,way,,park,Saint-Étienne,,,,45.5362386,4.6096568
+1263058994,way,,ruins,Saint-Étienne,,,,45.4379034,4.3780997
+1263698587,way,,garden,Saint-Étienne,,,,45.4489542,4.4027876
+1263698593,way,,garden,Saint-Étienne,,,,45.4473603,4.4045703
+1263698600,way,,garden,Saint-Étienne,,,,45.4468773,4.4047437
+1263698601,way,,garden,Saint-Étienne,,,,45.4467816,4.4048562
+1263708325,way,,garden,Saint-Étienne,,,,45.4488621,4.4035901
+1266371227,way,,park,Saint-Étienne,,,,45.4818117,4.4285049
+1266371228,way,,park,Saint-Étienne,,,,45.4827321,4.4283648
+1272040379,way,Jardins de la Chazotte,garden,Saint-Étienne,,,,45.4759989,4.4373224
+1280683150,way,,garden,Saint-Étienne,,,,45.4396988,4.3973735
+1280683151,way,,garden,Saint-Étienne,,,,45.4397789,4.3975644
+1280725936,way,,garden,Saint-Étienne,,,,45.4418176,4.407792
+1280725940,way,,garden,Saint-Étienne,,,,45.4417099,4.4072712
+1280725942,way,,garden,Saint-Étienne,,,,45.4416871,4.4072021
+1280725946,way,,garden,Saint-Étienne,,,,45.4417757,4.4081503
+1280974851,way,,park,Saint-Étienne,,,,45.5188404,4.6094774
+1285938229,way,,garden,Saint-Étienne,,,,45.4366739,4.3860617
+1287136121,way,,garden,Saint-Étienne,,,,45.4386731,4.3931633
+1287136131,way,,garden,Saint-Étienne,,,,45.4390024,4.393221
+1287136132,way,,garden,Saint-Étienne,,,,45.4389491,4.393055
+1287136134,way,,garden,Saint-Étienne,,,,45.4387943,4.3931705
+1287136135,way,,garden,Saint-Étienne,,,,45.4386466,4.3930699
+1287136138,way,,garden,Saint-Étienne,,,,45.4387324,4.3932852
+1287136148,way,,garden,Saint-Étienne,,,,45.4390004,4.3931982
+1287136157,way,,garden,Saint-Étienne,,,,45.439012,4.3930978
+1287136160,way,,garden,Saint-Étienne,,,,45.4386849,4.3932256
+1287136166,way,,garden,Saint-Étienne,,,,45.4387955,4.3931213
+1287136169,way,,garden,Saint-Étienne,,,,45.4387292,4.3932674
+1287136173,way,,garden,Saint-Étienne,,,,45.4387843,4.3930619
+1287136176,way,,garden,Saint-Étienne,,,,45.4390174,4.3931369
+1287136179,way,,garden,Saint-Étienne,,,,45.4390475,4.3930498
+1287674153,way,,garden,Saint-Étienne,,,,45.4488808,4.4023972
+1287674154,way,,garden,Saint-Étienne,,,,45.4488045,4.4023035
+1287674155,way,,garden,Saint-Étienne,,,,45.4487625,4.4023218
+1287674157,way,,garden,Saint-Étienne,,,,45.4490244,4.4023037
+1287674158,way,,garden,Saint-Étienne,,,,45.4492475,4.4025318
+1287674159,way,,garden,Saint-Étienne,,,,45.449231,4.4024309
+1287674160,way,,garden,Saint-Étienne,,,,45.4486807,4.4012155
+1287674161,way,,garden,Saint-Étienne,,,,45.4483743,4.4008999
+1287674162,way,,garden,Saint-Étienne,,,,45.448295,4.4007474
+1287674163,way,,garden,Saint-Étienne,,,,45.4481349,4.400863
+1288922092,way,,garden,Saint-Étienne,,,,45.4464793,4.3829833
+1288926362,way,,park,Saint-Étienne,,,,45.524698,4.6157777
+1288926364,way,,park,Saint-Étienne,,,,45.5241799,4.6158903
+1288926643,way,,garden,Saint-Étienne,,,,45.4464674,4.3829867
+1288938841,way,,park,Saint-Étienne,,,,45.5222466,4.61372
+1289459997,way,,park,Saint-Étienne,,,,45.5200418,4.6149847
+1289465305,way,,park,Saint-Étienne,,,,45.5221404,4.6167751
+1291141133,way,,park,Saint-Étienne,,,,45.5211697,4.6168387
+1291141138,way,,park,Saint-Étienne,,,,45.5206314,4.6168522
+1293989508,way,,park,Saint-Étienne,,,,45.554195,4.6664442
+1296117690,way,,garden,Saint-Étienne,,,,45.4150654,4.3943983
+1296117697,way,,garden,Saint-Étienne,,,,45.4151266,4.3944334
+1296117703,way,,garden,Saint-Étienne,,,,45.4150124,4.3939571
+1296120459,way,,garden,Saint-Étienne,,,,45.4148473,4.3947163
+1296122876,way,,garden,Saint-Étienne,,,,45.4146471,4.393292
+1296126517,way,,garden,Saint-Étienne,,,,45.414929,4.3933598
+1296126521,way,,garden,Saint-Étienne,,,,45.4148045,4.3933723
+1296126523,way,,garden,Saint-Étienne,,,,45.4149924,4.3934173
+1296134480,way,,garden,Saint-Étienne,,,,45.4152126,4.393935
+1296649851,way,L’Envol,artwork,Saint-Étienne,,,,45.4151589,4.3941651
+1299984138,way,Monument du Bicentenaire de la Révolution,memorial,Saint-Étienne,,,,45.4193574,4.3931979
+1300570573,way,,garden,Saint-Étienne,,,,45.4393611,4.3872951
+1300570574,way,,garden,Saint-Étienne,,,,45.4391686,4.3873358
+1300570576,way,,garden,Saint-Étienne,,,,45.4394121,4.3876768
+1300570577,way,,garden,Saint-Étienne,,,,45.4388385,4.3878408
+1300570578,way,,garden,Saint-Étienne,,,,45.4390229,4.3877751
+1300570579,way,,garden,Saint-Étienne,,,,45.438768,4.3874727
+1300570580,way,,garden,Saint-Étienne,,,,45.4386165,4.3875047
+1300570582,way,,garden,Saint-Étienne,,,,45.4387245,4.3878742
+1300570583,way,,garden,Saint-Étienne,,,,45.4386662,4.3874981
+1300570584,way,,garden,Saint-Étienne,,,,45.4388713,4.3874433
+1300570585,way,,garden,Saint-Étienne,,,,45.4389682,4.3878116
+1300570586,way,,garden,Saint-Étienne,,,,45.4388962,4.3878172
+1300570587,way,,garden,Saint-Étienne,,,,45.4392416,4.3873233
+1300570589,way,,garden,Saint-Étienne,,,,45.4394395,4.3872724
+1300570590,way,,garden,Saint-Étienne,,,,45.4395396,4.3876402
+1300570592,way,,garden,Saint-Étienne,,,,45.4394972,4.3872514
+1313195567,way,Petit Train,attraction,Saint-Étienne,,,,45.4740021,4.362692
+1315687843,way,,garden,Saint-Étienne,,,,45.4641813,4.512809
+1315687844,way,,garden,Saint-Étienne,,,,45.4643046,4.5128534
+1315687845,way,,garden,Saint-Étienne,,,,45.4643275,4.5125769
+1315687859,way,,garden,Saint-Étienne,,,,45.4643535,4.5119448
+1315687861,way,,garden,Saint-Étienne,,,,45.4645383,4.5117908
+1315687863,way,,garden,Saint-Étienne,,,,45.4644687,4.5125326
+1315687866,way,,garden,Saint-Étienne,,,,45.4641447,4.5122157
+1315687867,way,,garden,Saint-Étienne,,,,45.4642415,4.5120488
+1315687869,way,,garden,Saint-Étienne,,,,45.464821,4.5116018
+1315690961,way,,garden,Saint-Étienne,,,,45.4651224,4.5114107
+1315690962,way,,garden,Saint-Étienne,,,,45.4652177,4.5112438
+1315690966,way,,garden,Saint-Étienne,,,,45.4652849,4.5111204
+1315690968,way,,garden,Saint-Étienne,,,,45.4654776,4.5119585
+1315690969,way,,garden,Saint-Étienne,,,,45.4653648,4.5119787
+1315690970,way,,garden,Saint-Étienne,,,,45.4651602,4.5121391
+1315690971,way,,garden,Saint-Étienne,,,,45.4652721,4.5121259
+1315690972,way,,garden,Saint-Étienne,,,,45.4656376,4.5118769
+1315690974,way,,garden,Saint-Étienne,,,,45.465501,4.5116349
+1323822676,way,,park,Saint-Étienne,,,,45.4684088,4.34004
+1328420222,way,Espace Marie Linossier,park,Saint-Étienne,,,,45.4331203,4.3804059
+1334257203,way,,park,Saint-Étienne,,,,45.4270748,4.5877687
+1338290366,way,,ruins,Saint-Étienne,,,,45.4126026,4.5912078
+1343431840,way,,artwork,Saint-Étienne,,,,45.4351254,4.3817222
+1350677557,way,,garden,Saint-Étienne,,,,45.4276852,4.3919715
+1350677559,way,,garden,Saint-Étienne,,,,45.4275938,4.3919917
+1355413852,way,,park,Saint-Étienne,,,,45.4288018,4.3812594
+1355801187,way,,garden,Saint-Étienne,,,,45.4293569,4.379597
+1359699953,way,,garden,Saint-Étienne,,,,45.462871,4.3800652
+1364695115,way,Boulodrome,park,Saint-Étienne,,,,45.3419681,4.6512318
+1366190404,way,,park,Saint-Étienne,,,,45.4328338,4.3787255
+1371221045,way,Parc Marcel Constant,park,Saint-Étienne,,,,45.3860524,4.2667732
+1372004490,way,,artwork,Saint-Étienne,,,,45.528376,4.6158415
+1373467050,way,,artwork,Saint-Étienne,,,,45.425723,4.5273718
+1377219039,way,,garden,Saint-Étienne,,,,45.4523244,4.3931726
+1377739917,way,La Table Des Champs,restaurant,Saint-Étienne,,,https://la-table-des-champs.eatbu.com/,45.3561647,4.3847551
+1385391202,way,,park,Saint-Étienne,,,,45.4285794,4.3914491
+1391845589,way,,park,Saint-Étienne,,,,45.5567516,4.5372641
+1413584142,way,,park,Saint-Étienne,,,,45.5011712,4.5735357
+1418097070,way,Le Petit Train,attraction,Saint-Étienne,,,,45.4213243,4.4161093
+1418125175,way,,garden,Saint-Étienne,,,,45.4205664,4.4149673
+1428062920,way,,garden,Saint-Étienne,,,,45.43612,4.3756625
+1428062921,way,,garden,Saint-Étienne,,,,45.4362316,4.3757152
+1447736396,way,,garden,Saint-Étienne,,,,45.4480421,4.4545701
+1460340823,way,,park,Saint-Étienne,,,,45.3733618,4.7056227
+1482848003,way,,park,Saint-Étienne,,,,46.0808942,6.405197
+1484899107,way,Les Îles,park,Saint-Étienne,,,,46.0839059,6.400975
+1497800815,way,Mur des Saint-Chamonais,artwork,Saint-Étienne,,,,45.4775273,4.5135796
+1499441528,way,,artwork,Saint-Étienne,,,,45.4336416,4.3797947
+1499542120,way,Square de la Résistance et des Déportés,park,Saint-Étienne,,,,45.4450571,4.3367959
+1499542123,way,,park,Saint-Étienne,,,,45.4476127,4.3348559
+1499542140,way,Square du Palau,park,Saint-Étienne,,,,45.4468798,4.336202
+1532313316,way,,garden,Saint-Étienne,,,,45.4034195,4.4774456
+1533977676,way,,park,Saint-Étienne,,,,45.4535655,4.4022952
+4775623,relation,Château de Villars,castle,Saint-Étienne,,,,45.4731399,4.7125145
+6985066,relation,Château de Cornillon,castle,Saint-Étienne,,,,45.397358,4.2375733
+12323680,relation,,garden,Saint-Étienne,,,,45.441148,4.3870039
+12452992,relation,,garden,Saint-Étienne,,,,45.4632424,4.7368792
+13304312,relation,,garden,Saint-Étienne,,,,45.4837546,4.7400628
+13305317,relation,,garden,Saint-Étienne,,,,45.4882235,4.7226925
+13306343,relation,,garden,Saint-Étienne,,,,45.4827424,4.7401718
+13598943,relation,,garden,Saint-Étienne,,,,45.4301872,4.6950972
+13839903,relation,,garden,Saint-Étienne,,,,45.4258131,4.6724338
+17823720,relation,,garden,Saint-Étienne,,,,45.4391222,4.3873608

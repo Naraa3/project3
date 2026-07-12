@@ -1,6 +1,9 @@
 osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 270629256,node,Chez Massimo,restaurant,Menton,,,,43.7622201,7.480362
 272541505,node,Bocca Fina,restaurant,Menton,,,,43.7647333,7.4824042
+272814139,node,Buste de Le Corbusier,memorial,Menton,,,,43.7505226,7.4875358
+274257471,node,Vieux village de Roquebrune,attraction,Menton,,,,43.7652056,7.4591818
+540403394,node,Vieux Castillon,ruins,Menton,,,,43.837613,7.4609657
 871711962,node,Hôtel Méditerranée,hotel,Menton,,,,43.7753336,7.5010957
 936896594,node,Le Piccadilly,restaurant,Menton,,,,43.76066,7.482755
 936913696,node,Reine d'azur,hotel,Menton,,,,43.759052,7.482436
@@ -10,9 +13,15 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 936955480,node,Pizza Plage,restaurant,Menton,,,,43.7577007,7.4806216
 936961365,node,Hôtel Le Grand Cap,hotel,Menton,"06190, Roquebrune-Cap-Martin",06190,,43.7582942,7.4797144
 963302995,node,La Môme Riviera,restaurant,Menton,,,,43.7515447,7.4875182
+1324207217,node,,artwork,Menton,,,,43.7757086,7.5067382
 1490950274,node,Le Saint-Yves,hotel,Menton,,,,43.8000519,7.4618771
 1510993734,node,Claridge's,hotel,Menton,06500,06500,,43.775941,7.498173
 1511069551,node,ORLY,hotel,Menton,"06500, Menton",06500,,43.7826798,7.5118153
+1658019663,node,L'Orme de Gorbio,attraction,Menton,,,https://www.gorbio.fr/lorme,43.7867037,7.4435887
+1699610768,node,,viewpoint,Menton,,,,43.7985194,7.4623406
+1699611474,node,web-cam,viewpoint,Menton,,,,43.8002521,7.4559266
+1699663740,node,Col de Verroux,viewpoint,Menton,,,,43.8201565,7.4593526
+1699663768,node,Pointe Siricocca,viewpoint,Menton,,,,43.8164569,7.4592432
 1756229647,node,Righi,restaurant,Menton,,,,43.7988634,7.4631309
 1756229661,node,Beau Séjour,restaurant,Menton,,,,43.7865301,7.4437149
 1756229662,node,Bistrot de l'Orme,restaurant,Menton,,,,43.7869032,7.4436532
@@ -30,15 +39,20 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1837011700,node,Princess & Richmond,hotel,Menton,,,,43.7699671,7.493264
 1837011701,node,Riva,hotel,Menton,,,,43.7697907,7.4930124
 1837011702,node,de Londres,hotel,Menton,,,,43.7715217,7.4954637
+1837011704,node,Musée Jean Cocteau - Collection Severin Wunderman,museum,Menton,,,https://museecocteaumenton.fr,43.7747355,7.5057931
+2169430571,node,Le Trabuquet,viewpoint,Menton,,,,43.7790267,7.5059968
 2194222406,node,Le Golfe Bleu (apparthotel),hotel,Menton,,,,43.7611128,7.4547007
+2423125062,node,Olivier Millénaire de Roquebrune-Cap-Martin,attraction,Menton,,,,43.7643265,7.4633042
 3414025695,node,Pizza l'Authentique,restaurant,Menton,"18 Rue de Prato, 06500, Menton",06500,,43.7747544,7.4985964
 3798363062,node,Sa Sa No,restaurant,Menton,,,,43.7699969,7.4934396
+4100888241,node,,viewpoint,Menton,,,https://youtu.be/YWPtjkJDpWE,43.7565749,7.4421377
 4200656353,node,La Roquebrunoise,restaurant,Menton,,,,43.7658378,7.4582379
 4226599976,node,Elsa,restaurant,Menton,,,https://www.montecarlosbm.com/en/restaurant-monaco/elsa,43.7508359,7.4442197
 4226615443,node,Jondal à La Vigie,restaurant,Menton,,,https://www.montecarlosbm.com/fr/restaurant-monaco/jondal-a-la-vigie,43.7499511,7.4448463
 4279092294,node,La Belle Vue,hotel,Menton,"45-47 Avenue Gabriel Hanotaux, 06190, Roquebrune-Cap-Martin",06190,http://www.labellevuercm.com/,43.7636682,7.4605273
 4316767527,node,Charme Regency,hotel,Menton,,,https://www.hotelregencymonaco.com/,43.7596323,7.4518752
 4316767605,node,Le Roquebrune,hotel,Menton,,,http://www.leroquebrune.com/,43.7597611,7.4520286
+4318900635,node,,viewpoint,Menton,,,,43.7648196,7.458704
 4330022383,node,Europizza 2000,restaurant,Menton,"193 Avenue Aristide Briand, 06190, Roquebrune-Cap-Martin",06190,,43.76505,7.4831074
 4437160601,node,Brasserie Le Majestic,restaurant,Menton,,,,43.7743033,7.4961765
 4437160605,node,Brasserie Theirs,restaurant,Menton,,,,43.7738337,7.4953986
@@ -48,6 +62,8 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5041693421,node,Le Balico,restaurant,Menton,Place aux Herbes,,,43.7757789,7.5068736
 5218748907,node,Hôtel Narev's,hotel,Menton,,,,43.776799,7.5036578
 5239188908,node,Casarella,restaurant,Menton,"15 Rue Grimaldi, 06190",06190,,43.764833,7.4592928
+5469871297,node,Domaine des Colombières,castle,Menton,,,https://www.lescolombieres.com/,43.7876342,7.5169095
+5518698621,node,Marina A-Z,artwork,Menton,,,,43.776237,7.5047049
 5620791218,node,La Loca,restaurant,Menton,,,,43.7862113,7.5277675
 5675165021,node,La Coupole,restaurant,Menton,"Avenue de Verdun, 06500",06500,,43.7733313,7.4976523
 5677528123,node,Paris Palace,restaurant,Menton,,,,43.7733249,7.4998885
@@ -56,35 +72,85 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5697157946,node,Le Petit Prince,restaurant,Menton,,,,43.7662964,7.4887106
 5710602875,node,Hôtel Richelieu,hotel,Menton,"26 Rue Partouneaux, 06500, Menton",06500,https://www.richelieu-menton.com/,43.7747633,7.4993548
 5851719407,node,Le Lido,restaurant,Menton,,,,43.775654,7.5066025
+5863672797,node,,viewpoint,Menton,,,,43.757252,7.4444461
 5871745885,node,Indian Take Away,restaurant,Menton,"10 Rue Albini, 06190",06190,http://www.iniantakeaway.com,43.7655464,7.4838285
 5959435989,node,La Fa Mi,restaurant,Menton,"2 Avenue Thiers, 06500",06500,,43.7742767,7.4951104
 6473975394,node,Le Saint-Yves,restaurant,Menton,,,,43.8000117,7.4618878
+6633141687,node,,viewpoint,Menton,,,,43.7885387,7.5268024
 6643918660,node,L'Exocet,restaurant,Menton,,,,43.7748402,7.5049645
 6726699385,node,Da Mitchou,restaurant,Menton,9 Promenade de la Mer,,,43.7809511,7.5099151
 6797191187,node,Les Incompris,restaurant,Menton,"7 et 8 Quai Gordon Bennett, 06500, Menton",06500,https://www.lesincompris.com/,43.776681,7.5084393
 7276136980,node,Mirazur,restaurant,Menton,,,https://www.mirazur.fr/,43.7859123,7.5280996
+7778331620,node,Said Berkane,gallery,Menton,,,,43.7769798,7.5062039
 7778331621,node,Le Cabanon,restaurant,Menton,,,http://plagedubuse.com/,43.7598619,7.4577941
 7779445543,node,La différAnce,restaurant,Menton,,,https://www.ladifferance.com/,43.7529964,7.4467288
+7856278271,node,Statue Saint Michel,artwork,Menton,,,,43.7769968,7.5112751
 8050006412,node,Casa Fuego,restaurant,Menton,80 bis Boulevard de Garavan,,https://www.casafuego.fr,43.7862346,7.527709
+8443790560,node,Plaque commémorative Henri PACHIAUDI,memorial,Menton,,,,43.7519728,7.4383793
+8852165839,node,,ruins,Menton,,,,43.7948963,7.5213221
+9514525398,node,Tour Lascaris,museum,Menton,,,https://www.gorbio.fr/exposition-estivale-au-musee-chateau-lascaris/,43.7861833,7.4453562
+9514525399,node,Vieux Chateau,castle,Menton,,,,43.7860866,7.4454548
 9673958446,node,Brasserie du Cap,restaurant,Menton,,,,43.7760956,7.5073527
 9673958447,node,La Vita'mine,restaurant,Menton,,,,43.7762422,7.5073437
 9774733879,node,Pierre et Vacances - Résidence Les Citronniers,hotel,Menton,,,,43.7749616,7.4993223
 9774733881,node,Pierre et Vacances - Résidence Les Rivages du Parc,hotel,Menton,,,,43.772867,7.4971685
 9839492217,node,La Crêpe,restaurant,Menton,6 Rue Trenca,,https://m.facebook.com/La-Cr%C3%AApe-%C3%A0-lEnvers-459251127933490/,43.77546,7.5048211
 9842142819,node,Le Bistrot des Jardins,restaurant,Menton,14 Avenue Boyer,,https://le-bistrot-des-jardins.fr,43.775125,7.4962853
+9843321295,node,,memorial,Menton,,,,43.774426,7.4942871
+9843324996,node,,viewpoint,Menton,,,,43.8003147,7.4637984
+9843324997,node,,viewpoint,Menton,,,,43.8006583,7.4634773
+9843325011,node,Place Bella Vista,viewpoint,Menton,,,,43.7987243,7.4631628
+9843325069,node,,memorial,Menton,,,,43.8014375,7.4622642
+9843340189,node,,viewpoint,Menton,,,,43.7772285,7.5071906
+9871684153,node,,viewpoint,Menton,,,,43.7941538,7.4547896
+9920798895,node,,artwork,Menton,,,,43.7577301,7.4739135
+9936625135,node,monument Résistance et Déportation,memorial,Menton,,,,43.7755731,7.5055148
 9942434420,node,L'Orangerie,restaurant,Menton,,,,43.7753574,7.5033496
 9954255398,node,Le Deck,restaurant,Menton,,,https://www.montecarlosbm.com/en/hotel-monaco/monte-carlo-beach/restaurants,43.7517432,7.4438789
 10005110361,node,La Pampa,restaurant,Menton,,,,43.7818895,7.5112341
+10005121711,node,,artwork,Menton,,,,43.7743694,7.5012172
 10005140717,node,Le Stanley,restaurant,Menton,"6 Place du Cap, 06500, Menton",06500,https://www.le-stanley-restaurant-menton.com/,43.7759743,7.5076868
+10011628742,node,,viewpoint,Menton,,,,43.7932263,7.4545369
+10199090800,node,,viewpoint,Menton,,,,43.7604494,7.4645439
+10302870734,node,,memorial,Menton,,,,43.7649457,7.4599621
 10308708904,node,Tony,restaurant,Menton,,,,43.7765357,7.5076879
+10796766322,node,,viewpoint,Menton,,,,43.8146415,7.5115424
+10798753523,node,,viewpoint,Menton,,,,43.7832749,7.4896824
 10886122612,node,Casa nostra pizzeria,restaurant,Menton,,,,43.7781356,7.4715662
 10945663806,node,Chez malika,restaurant,Menton,"5 Rue Honoré Augier, 06190",06190,,43.7646353,7.4849418
 10992398775,node,La Trattoria,restaurant,Menton,,,,43.7736134,7.4973675
+11002280221,node,,memorial,Menton,,,,43.8033182,7.4966464
+11002862380,node,Stèle Libération par First Special Service Force,memorial,Menton,,,,43.8074181,7.4987318
+11002862381,node,Stèle tableau d'Honneur 1914-1918,memorial,Menton,,,,43.8066956,7.4988123
+11003051015,node,Stèle commémorative du 22 juin 1940,memorial,Menton,,,,43.83298,7.5033753
+11003301532,node,,memorial,Menton,,,,43.83334,7.4721869
+11003301533,node,Stèle Libération par First Special Service Force,memorial,Menton,,,,43.8333429,7.4722044
+11034710379,node,,memorial,Menton,,,,43.7852205,7.4421475
+11034710380,node,,memorial,Menton,,,,43.7857869,7.4433947
+11057357731,node,Monument aux morts du cimetière Trabuquet,memorial,Menton,,,,43.780645,7.5058401
+11057433326,node,Stèles régimentaires des 25e 27e 65e 67e Bayaillons de Chasseurs,memorial,Menton,,,,43.7811527,7.5064582
+11057463590,node,Monument 1914-10+918 du Souvenir Français,memorial,Menton,,,,43.7811631,7.5056267
+11059333489,node,Plaque régimentaire First Special Service Force,memorial,Menton,,,,43.7755494,7.5054926
+11059356658,node,Plaque commémorative André DEPARDAY,memorial,Menton,,,,43.7774471,7.4936575
+11059369358,node,Plaque régimentaire 1re Division Française Libre,memorial,Menton,,,,43.7867193,7.5266902
+11059498658,node,Monument commémoratif Le Tirailleur de Menton,memorial,Menton,,,,43.7812902,7.5059849
+11059578339,node,Plaque commémorative Jean Pierre PELLICANO,memorial,Menton,,,,43.7762675,7.5077679
+11059676663,node,Plaque commémorative Joseph ARNALDI,memorial,Menton,,,,43.7862267,7.5297906
+11059768200,node,Stèle commémorative François DE MONLÉON,memorial,Menton,,,,43.7791515,7.5057244
+11060448265,node,Stèle commémorative des marins du Mentonnais,memorial,Menton,,,,43.7753305,7.5085555
+11060483500,node,Plaques commémoratives du commissariat de police,memorial,Menton,,,,43.7749706,7.4985428
+11071815777,node,Plaque commémorative CRAVI et VIAL,memorial,Menton,,,,43.7544307,7.4468075
+11071878925,node,Stèle commémorative CRAVI et VIAL,memorial,Menton,,,,43.7546428,7.4473158
+11071906321,node,Plaque régimentaire First Special Service Force,memorial,Menton,,,,43.7519757,7.4383669
+11071906322,node,Plaque commémorative des victimes civiles du 7-9-1944,memorial,Menton,,,,43.7519728,7.4383911
+11071947856,node,Plaque association Sportive Roquebrune-Cap Martin du 7-9-1944,memorial,Menton,,,,43.7518405,7.43866
+11071975335,node,Stèle commémorative François RATTO,memorial,Menton,,,,43.7639955,7.4802832
 11083930064,node,lagom,restaurant,Menton,,,,43.7758101,7.5042008
 11118514878,node,Restaurant L'Hippocampe,restaurant,Menton,44 Avenue Sir Winston Churchill,,https://www.hippocampe-restaurant.com/,43.7540604,7.4847586
 11118566230,node,Loulou Pirate,restaurant,Menton,46 Avenue Winston Churchill,,https://www.loulou-pirate.com/,43.7556752,7.4830554
 11128425205,node,Hôtel Menton Riviera,hotel,Menton,"57 Avenue de Sospel, 06505",06505,,43.7799737,7.4934923
 11366352078,node,Citron d'or,restaurant,Menton,"39 Avenue de Verdun, 06500, Menton",06500,,43.7753661,7.4951572
+11420947459,node,Louis Laurenti,artwork,Menton,,,,43.7753565,7.5029063
 11841706274,node,Ou Pastre,restaurant,Menton,"Rue Trenca, 06500",06500,https://ou-pastre.eatbu.com/?lang=en#menu,43.7753116,7.5047208
 11910508969,node,Alexandra,hotel,Menton,,,,43.756418,7.4819571
 12057945970,node,Lyõde,restaurant,Menton,"8 Promenade de la Mer, 06500, Menton",06500,,43.7809537,7.5097388
@@ -92,6 +158,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 12299918301,node,Biera d'Aqui,restaurant,Menton,"63 Avenue Cernuschi, 06500",06500,https://biera-daqui-06.fr/,43.7741506,7.4893856
 12323023277,node,,restaurant,Menton,,,,43.7844646,7.5197096
 12323065094,node,,restaurant,Menton,,,,43.7747735,7.5045353
+12323065184,node,,memorial,Menton,,,,43.7751127,7.5086882
 12323068363,node,,restaurant,Menton,,,,43.7734672,7.5001926
 12323073037,node,,restaurant,Menton,,,,43.7774065,7.5075864
 12323081317,node,,restaurant,Menton,,,,43.7844646,7.5197096
@@ -99,19 +166,130 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 12323093832,node,,hotel,Menton,,,,43.774759,7.50391
 12323095648,node,,restaurant,Menton,,,,43.7775125,7.5075376
 12323368757,node,,restaurant,Menton,,,,43.7712924,7.4960075
+12323382257,node,,memorial,Menton,,,,43.7602875,7.4835682
 12452885355,node,L'Ormeau,restaurant,Menton,,,,43.8035114,7.4968708
+12521718580,node,Ulysse,artwork,Menton,,,,43.7734835,7.505994
 12633138933,node,,restaurant,Menton,,,,43.7627106,7.4804047
+12716869049,node,,memorial,Menton,,,,43.7618342,7.4591416
 12717045336,node,Al Vecchio Forno,restaurant,Menton,39 Quai Bonaparte,,,43.7777906,7.5073984
 12717062934,node,,restaurant,Menton,,,,43.7785496,7.5071501
 12717072406,node,,restaurant,Menton,,,,43.7808117,7.5089474
+12717072727,node,,memorial,Menton,,,,43.7748495,7.5082129
 12717073622,node,restaurant Primo,restaurant,Menton,25 Quai Bonaparte,,,43.7771504,7.5077109
+12717074847,node,,memorial,Menton,,,,43.7751295,7.5086049
+12717074848,node,,memorial,Menton,,,,43.7751295,7.5086049
 12778843537,node,Hôtel de Belgique,hotel,Menton,,,,43.7751906,7.4944884
 12782563321,node,Da Franci,restaurant,Menton,,,,43.7754025,7.5051057
+13055693064,node,,viewpoint,Menton,,,,43.7999857,7.4628037
+13057558424,node,,artwork,Menton,,,,43.7758063,7.5047652
 13058579255,node,La Perle Noir - MENTON,restaurant,Menton,"7 Porte de France, 06500, Menton",06500,,43.7790808,7.5070044
+13061608007,node,,memorial,Menton,,,,43.7750175,7.4960981
+13061949626,node,,memorial,Menton,,,,43.7771897,7.5074004
+13062007493,node,La France triomphante,artwork,Menton,,,,43.7648321,7.4589147
+13062062593,node,,viewpoint,Menton,,,,43.800953,7.4617241
+13189579163,node,Terres en Partage,garden,Menton,Chemin des Guillons,,https://terresenpartage.fr/,43.789207,7.513393
+13301176784,node,,memorial,Menton,,,,43.7745214,7.5070882
+13301180763,node,,viewpoint,Menton,,,,43.7798916,7.509625
+13301614747,node,,artwork,Menton,,,,43.7561787,7.4799438
+13514436704,node,Stèle commémorative aux déportés,memorial,Menton,,,,43.763934,7.4801826
+13514436705,node,Stèles commémorative aux libérateurs alliés USA Canada,memorial,Menton,,,,43.7638681,7.4801558
 13577416201,node,Mont Goût,restaurant,Menton,7 Rue de Prato,,https://www.instagram.com/montgout/,43.7740651,7.4995165
 13577441001,node,Le Rouge-gorge,restaurant,Menton,5 Rue Max Barel,,https://www.instagram.com/lerougegorge_restaurant/,43.7750497,7.5018889
 13618470432,node,,restaurant,Menton,,,,43.7840662,7.5164546
+13618499181,node,,artwork,Menton,,,,43.7842883,7.5181119
+13618499184,node,Astrid Reina des Belges,memorial,Menton,,,,43.7850726,7.5264758
 13618507993,node,,restaurant,Menton,,,,43.7763634,7.5076089
+13618521328,node,Monument á l'impératrice Elisabeth,memorial,Menton,,,,43.7517895,7.4863692
+13618528944,node,,memorial,Menton,,,,43.7645682,7.487226
+13618531483,node,,memorial,Menton,,,,43.7558852,7.4776689
+13618534302,node,,artwork,Menton,,,,43.7570983,7.4741035
 13645041848,node,Iceberg,restaurant,Menton,,,,43.7757578,7.5054081
 13694806522,node,Le Lilly's,restaurant,Menton,,,,43.8008262,7.4615327
 13721357901,node,Colombale,restaurant,Menton,,,,43.7729425,7.4993095
+13919880785,node,,artwork,Menton,,,,43.7969959,7.4836346
+24648192,way,Plage de Golfe Bleu,beach,Menton,,,,43.7586714,7.4543229
+24648222,way,Plage du Buse,beach,Menton,,,,43.760121,7.4597986
+28146099,way,Plage Rondelli,beach,Menton,,,,43.780905,7.510511
+61995896,way,Musée Jean Cocteau - Le Bastion,museum,Menton,,,https://www.menton.fr/Musee-Jean-Cocteau-le-Bastion.html,43.7747864,7.5084598
+73549168,way,Plage du Marché,beach,Menton,,,,43.7733537,7.5026543
+103538558,way,Jardin Médiéval,attraction,Menton,,,,43.8002479,7.4635646
+137782697,way,L'Embuscade,restaurant,Menton,,,,43.77841,7.4982235
+137782788,way,Grand Hôtel National,attraction,Menton,,,https://www.menton.fr/Les-Palaces-de-Menton.html,43.777134,7.497822
+137783096,way,IBIS Styles,hotel,Menton,"10 Rue Villarey, 06500, Menton",06500,https://all.accor.com/hotel/7009/index.fr.shtml,43.7757665,7.5019635
+137783455,way,Ibis Budget,hotel,Menton,"57 Porte de France, 06500, Menton",06500,https://all.accor.com/hotel/2610/index.en.shtml,43.7845185,7.5177845
+137783602,way,Alexandra Palace,attraction,Menton,,,https://www.menton.fr/Les-Palaces-de-Menton.html,43.7677975,7.486603
+137783866,way,Musée de préhistoire régionale,museum,Menton,"Rue Lorédan Larchey, 06500, Menton",06500,https://www.menton.fr/Musee-de-Prehistoire-Regionale.html,43.7770185,7.503393
+137784064,way,Le Majestic,attraction,Menton,,,https://www.menton.fr/Les-Palaces-de-Menton.html,43.774858,7.4969455
+137784416,way,Le Malte,attraction,Menton,,,,43.77551,7.500713
+137784511,way,Hôtel des Ambassadeurs,hotel,Menton,,,https://www.gha-menton.com,43.7752135,7.497606
+137784539,way,Astoria,attraction,Menton,,,https://www.menton.fr/Les-Palaces-de-Menton.html,43.772369,7.4967085
+137784549,way,Palais Carnolès,museum,Menton,,,https://www.menton.fr/article.php3?id_article=268,43.766639,7.4879965
+137788073,way,Hôtel Parisien,hotel,Menton,"27 Avenue Cernuschi, 06500, Menton",06500,https://www.hotel-leparisien.com/,43.771585,7.4921065
+137789859,way,La Mia Passione,restaurant,Menton,"55 Porte de France, 06500, Menton",06500,,43.784323,7.517583
+137790342,way,Le Louvre,attraction,Menton,,,https://www.menton.fr/Les-Palaces-de-Menton.html,43.7759515,7.49675
+137791019,way,Maison de la rue Loredan-Larchey,attraction,Menton,,,,43.77672,7.5032805
+137793214,way,Bellevue,attraction,Menton,,,https://www.menton.fr/Les-Palaces-de-Menton.html,43.780546,7.507816
+137793251,way,Mont Fleuri,attraction,Menton,,,,43.7761765,7.491197
+137794418,way,Hôtel Prince de Galles,hotel,Menton,4 Avenue du General de Gaulle,,https://www.princedegalles.com/,43.766202,7.4883915
+137797518,way,Napoléon,hotel,Menton,"06500, Menton",06500,,43.7827711,7.5118542
+137797736,way,L'Orangeraie,hotel,Menton,"15 Rue Partouneaux, 06500, Menton",06500,https://www.vacanciel.com/hotel-club-menton-06-22.html,43.7760925,7.4986135
+138590512,way,Villa E-1027,museum,Menton,,,https://capmoderne.monuments-nationaux.fr/visiter/informations-pratiques,43.7599015,7.4631865
+138591731,way,,castle,Menton,,,,43.754242,7.4460195
+138591946,way,Château des Grimaldi,castle,Menton,,,,43.765265,7.45959
+142260413,way,,ruins,Menton,,,,43.8070235,7.514692
+151945351,way,Plage du Casino,beach,Menton,,,,43.7710776,7.4962998
+156571053,way,Jardin du Campanin,garden,Menton,,,,43.7764213,7.5080556
+157364747,way,jardins Biovès,park,Menton,,,,43.7751487,7.4959464
+157510969,way,Place Ardoïno,park,Menton,,,,43.7753526,7.502877
+157637519,way,,park,Menton,,,,43.7735291,7.5062062
+157637520,way,,park,Menton,,,,43.7740926,7.5071893
+159328178,way,Jardin botanique du Val Rahmeh,garden,Menton,,,https://www.jardinbotaniquevalrahmehmenton.fr,43.7848359,7.5111695
+159345896,way,Parc Départemental du Pian,park,Menton,,,,43.7849904,7.5136023
+159364059,way,,park,Menton,,,,43.785497,7.5149466
+163595327,way,Square des Etats Unis,park,Menton,,,,43.7727852,7.4966546
+170077907,way,jardins Biovès,park,Menton,,,,43.7737648,7.4977157
+185098861,way,Koaland,theme_park,Menton,,,https://koaland.fr/,43.7683722,7.4893526
+185275381,way,Jardin d'Agrumes du Palais Carnolès,park,Menton,,,https://www.parcsetjardins.fr/jardins/720-jardin-d-agrumes-du-palais-carnoles,43.7670693,7.4882848
+195279526,way,Square André Malraux,park,Menton,,,,43.7667953,7.4599231
+208077792,way,Fontana Rosa,park,Menton,,,,43.785576,7.5160337
+233630089,way,,park,Menton,,,,43.771773,7.4933479
+234238929,way,Le Jardin des Oliviers,park,Menton,,,,43.7640725,7.4663163
+432776904,way,,beach,Menton,,,,43.7633412,7.4863055
+432776905,way,,beach,Menton,,,,43.7597043,7.4836159
+476319928,way,Plage Hawaï,beach,Menton,,,,43.7849234,7.524815
+614087278,way,Hôtel Royal Westminster,hotel,Menton,,,,43.7744765,7.502407
+691473092,way,,garden,Menton,,,,43.7857503,7.5181444
+691473097,way,Les Colombières,garden,Menton,,,,43.7877263,7.5172174
+691526006,way,,garden,Menton,,,,43.785466,7.5171038
+691526008,way,,garden,Menton,,,,43.7859355,7.5174232
+716757489,way,Cour des Miracles,garden,Menton,,,,43.8047995,7.49701
+766474944,way,Serre de la Madone,garden,Menton,,,,43.7755608,7.4754501
+766475984,way,Château de Sainte-Agnès,castle,Menton,,,,43.8004929,7.4633387
+766729951,way,,garden,Menton,,,,43.7753986,7.4989524
+824747021,way,Parc du Cap-Martin,park,Menton,,,,43.7550429,7.4745628
+824747022,way,,park,Menton,,,,43.7565669,7.4750768
+833351653,way,Plage du Rocher,beach,Menton,,,,43.7562791,7.4509111
+833351673,way,Plage_de_Bon_Voyage,beach,Menton,,,,43.7536793,7.448012
+878847086,way,,park,Menton,,,,43.7505843,7.4403844
+1033339784,way,,beach,Menton,,,,43.7556537,7.4833357
+1033339787,way,,park,Menton,,,,43.7621174,7.4748829
+1034521954,way,,park,Menton,,,,43.7712289,7.4859903
+1067589886,way,,park,Menton,,,,43.7851299,7.5280198
+1086378343,way,,beach,Menton,,,,43.750888,7.4418522
+1086378344,way,,beach,Menton,,,,43.7510597,7.4427673
+1086378345,way,,beach,Menton,,,,43.7510767,7.4436872
+1127498598,way,,ruins,Menton,,,,43.8049991,7.5139644
+1132461285,way,,ruins,Menton,,,,43.8192401,7.4606526
+1161014183,way,,park,Menton,,,,43.7772725,7.4910812
+1161014185,way,,beach,Menton,,,,43.7655687,7.4884303
+1161014186,way,,park,Menton,,,,43.7643692,7.4881657
+1204129363,way,,garden,Menton,,,,43.7570319,7.4440521
+1256854808,way,Jardin Élisée Reclus,park,Menton,,,,43.7703573,7.4939928
+1332019368,way,Queen Victoria,memorial,Menton,,,,43.7791773,7.5073837
+1332019370,way,,garden,Menton,,,,43.7789162,7.507314
+1408631344,way,,garden,Menton,,,,43.7626989,7.4838931
+1446187868,way,Menton,hotel,Menton,,,,38.4928097,-122.4069248
+1451040906,way,Plage des Sablettes,beach,Menton,,,,43.7785368,7.508717
+1856270,relation,Impérial,attraction,Menton,,,https://www.menton.fr/Les-Palaces-de-Menton.html?oaq%5Bwhat%5D=Palace&oaq%5Btags%5D%5B0%5D=visites-du-patrimoine,43.7697625,7.4900095
+10693585,relation,Plage du Pont de Fer,beach,Menton,,,,43.7494897,7.4393652
+15600588,relation,The Maybourne Riviera,hotel,Menton,"1551 Route de la Turbie, 06190, Roquebrune-Cap-Martin",06190,https://www.maybourneriviera.com/fr/,43.7567052,7.4436912

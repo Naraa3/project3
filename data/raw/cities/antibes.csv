@@ -1,5 +1,6 @@
 osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 262279063,node,Hôtel Josse,hotel,Antibes,"8 Boulevard James Wyllie, 06160, Antibes",06160,,43.5721998,7.1255119
+262279662,node,,viewpoint,Antibes,,,,43.5748328,7.1255245
 365519383,node,Le Chrono,restaurant,Antibes,,,,43.5810537,7.1250963
 365519571,node,La Famiglia,restaurant,Antibes,34 Avenue Thiers,,https://www.facebook.com/restaurantlafamigliaantibes/,43.5828603,7.1229434
 365519582,node,Le Safranier,restaurant,Antibes,,,,43.5787777,7.1262527
@@ -33,12 +34,16 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 827268505,node,Berbeche,restaurant,Antibes,,,,43.569501,7.108431
 1116040837,node,Le Comptoir 233,restaurant,Antibes,"1791 Route de Nice, 06600, Antibes",06600,,43.615342,7.12749
 1128914889,node,Chez Jo,restaurant,Antibes,13 Avenue Louis Gallet,,,43.569439,7.1103181
+1231510621,node,monument aux morts Le Poilu,memorial,Antibes,,,,43.5905748,7.1263099
 1234251289,node,Hôtel du Nord,hotel,Antibes,,,,43.5736465,7.0878198
 1235128865,node,Chez les filles,restaurant,Antibes,,,,43.5801975,7.1217156
 1235128888,node,Salé Sucré,restaurant,Antibes,,,,43.5797079,7.122867
 1236689017,node,Coté Jardin,restaurant,Antibes,,,,43.572093,7.0896941
+1322634602,node,,viewpoint,Antibes,,,,43.5461994,7.1295755
+1322634641,node,,viewpoint,Antibes,,,,43.5460087,7.1295811
 1322634765,node,Castel Garoupe Axa,hotel,Antibes,,,,43.5530062,7.1321277
 1323052022,node,Le César,restaurant,Antibes,,,,43.5541912,7.1364313
+1380331091,node,Nomade,artwork,Antibes,,,,43.584952,7.130666
 1392190423,node,Cap d'Antibes Beach Hotel,hotel,Antibes,"10 Boulevard Maréchal Juin, 06160, Antibes",06160,,43.5613719,7.1179609
 1392372783,node,Hôtel de la Pinède,hotel,Antibes,,,,43.5679556,7.1135329
 1403402804,node,Pommodoro,restaurant,Antibes,11,,,43.5819397,7.1258053
@@ -46,17 +51,24 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1547995700,node,Cap Canailles,restaurant,Antibes,Boulevard du Littoral,,https://capcanailles.com/,43.5711742,7.0977036
 1638102296,node,Le Coq Gallois,restaurant,Antibes,,,https://www.lacasita-antibes.com/,43.5816322,7.1276444
 1638102319,node,Le César Café,restaurant,Antibes,5 Rue Aubernon,,,43.5816948,7.1276611
+1673389437,node,Aqueduc de Clausonnes (restes),ruins,Antibes,,,,43.605427,7.0677569
 1778127726,node,Le Brulot Pasta,restaurant,Antibes,,,,43.581312,7.1273295
 1924164185,node,Le Patio,restaurant,Antibes,,,https://www.lecafejardin.fr/,43.580153,7.1255856
 1924178745,node,Entre 2 Vins,restaurant,Antibes,2 Rue James Close,,,43.5802167,7.1256021
 1958500800,node,Hôtel Résidences Les Strélizias,hotel,Antibes,Rue Pierre Commanay,,https://www.lesstrelitzias.com/,43.5726421,7.1069675
 2049385820,node,Flunch,restaurant,Antibes,,,,43.6032184,7.0876309
 2173267623,node,La Jabotte,hotel,Antibes,"13 Avenue Max Maurey, 06160, Antibes",06160,https://www.jabotte.com/,43.569747,7.1272916
+2299979791,node,Walk of fame - Jazz musicians,attraction,Antibes,,,,43.5666287,7.1151817
 2461945025,node,Pasta e Basta,restaurant,Antibes,,,,43.5825698,7.1267478
 2461945026,node,Le Kashmir,restaurant,Antibes,,,https://www.lekashmirantibes.com/,43.582872,7.1268436
+2493016475,node,Square Albert 1er,viewpoint,Antibes,,,,43.5760182,7.125761
+2493016485,node,Musée d'Archéologie,viewpoint,Antibes,,,,43.5771438,7.1260609
 2578090574,node,Les Saveurs de Djerba,restaurant,Antibes,"3 Boulevard Dugommier, 06600, Antibes",06600,,43.5808103,7.1196664
+2590233805,node,,viewpoint,Antibes,,,,43.5489316,7.1223227
 2706840415,node,Bella Vita,restaurant,Antibes,,,,43.5708908,7.1025967
 2792977744,node,La Cafetière Fêlée,restaurant,Antibes,,,http://www.lacafetierefelee.com/,43.5807474,7.1246815
+2798708640,node,,viewpoint,Antibes,,,,43.544345,7.1333869
+2798708641,node,,viewpoint,Antibes,,,,43.5448665,7.1358043
 3039598858,node,O' Petit Liban,restaurant,Antibes,,,,43.5706286,7.1109074
 3039598859,node,Oishi,restaurant,Antibes,,,,43.5706668,7.1111283
 3039598865,node,Le Brebant,restaurant,Antibes,1 Avenue de l'Esterel,,,43.5704989,7.1110477
@@ -72,6 +84,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3042324102,node,Restaurant Le Zinc,restaurant,Antibes,15 Cours Masséna,,,43.580425,7.127279
 3042324103,node,Bar Bacchus,restaurant,Antibes,15 Cours Masséna,,,43.5804687,7.1272882
 3042324112,node,L'Ardoise,restaurant,Antibes,,,,43.5809757,7.1241186
+3042324120,node,,memorial,Antibes,,,,43.5813059,7.1276575
 3042324252,node,Le Brooklyn Sushi,restaurant,Antibes,,,,43.5824668,7.1267214
 3042324257,node,Casa Azul,restaurant,Antibes,,,,43.5818608,7.1278542
 3042324258,node,La Tour Antique,restaurant,Antibes,,,https://www.latourantique.fr/,43.5799615,7.127019
@@ -80,6 +93,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3044189723,node,Le 22,restaurant,Antibes,,,,43.5807749,7.1234697
 3044189729,node,Modern Hotel,hotel,Antibes,,,,43.580409,7.122804
 3044190547,node,La Piazza,restaurant,Antibes,30 Rue de la République,,,43.5808816,7.1238264
+3091353181,node,Monument de l'opération maritime d'avril 1942,memorial,Antibes,,,,43.5748403,7.1254526
 3117295672,node,Hôtel Juana,hotel,Antibes,Avenue Georges Gallice,,https://hotel-juana.com,43.5675661,7.1160503
 3128990318,node,Hôtel Hélios,hotel,Antibes,"3 Avenue Docteur Dautheville, 06160, Antibes",06160,,43.569394,7.1114983
 3129007966,node,Hôtel Émeraude,hotel,Antibes,11 Avenue Saramartel,,,43.5659139,7.1178127
@@ -109,8 +123,10 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4055892212,node,Amour Café,restaurant,Antibes,,,,43.5798432,7.1256595
 4057284977,node,Al Mare,restaurant,Antibes,,,https://al-mare-ristorante.eatbu.com,43.5701957,7.128439
 4057284985,node,Le Bistrot de la Plage,restaurant,Antibes,,,,43.5715241,7.1273465
+4126650813,node,,viewpoint,Antibes,,,,43.5677169,7.1327832
 4289478691,node,Vogue,hotel,Antibes,,,,43.560953,7.1365648
 4293502191,node,Bacon,restaurant,Antibes,,,https://maisondebacon.fr,43.5696597,7.1390165
+4327910637,node,Monument commémoratif de la Résistance,memorial,Antibes,,,,43.5812878,7.1232243
 4336967646,node,Richelieu Plage,restaurant,Antibes,,,,43.5664833,7.1140484
 4349888557,node,L'Atelier,restaurant,Antibes,,,http://www.latelier-antibes.com/,43.6012312,7.0859476
 4439152023,node,Moonshine,restaurant,Antibes,"8 Rue des Palmiers, 06600, Antibes",06600,http://www.moonshine-antibes.com/contact/,43.5819122,7.1273542
@@ -122,21 +138,37 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4777720419,node,Sushi Shop,restaurant,Antibes,"6 Boulevard Dugommier, 06600, Antibes",06600,https://www.sushishop.fr/,43.5812153,7.1197243
 4907680237,node,Chic N'Co,restaurant,Antibes,,,,43.5904722,7.1062068
 5017976723,node,La Joelette,restaurant,Antibes,,,,43.5545715,7.1357283
+5074618589,node,Colonne,memorial,Antibes,,,,43.5812429,7.125822
 5082048125,node,Hôtel le Colbert,hotel,Antibes,,,,43.5712568,7.1074481
 5082048321,node,Eden Hotel,hotel,Antibes,,,,43.5696312,7.1098905
 5346949838,node,La Coffee Biothèque,restaurant,Antibes,"233 Route de Grasse, 06600, Antibes",06600,,43.5915479,7.1041833
+5357835008,node,"Victimes de ""l'Atlantique I""",memorial,Antibes,,,,43.5831073,7.1276573
 5528631887,node,Hôtel Astor,hotel,Antibes,,,https://astorhotel.fr/,43.5732329,7.1136421
+5544818215,node,Aux marins peris en mer,memorial,Antibes,,,,43.5846292,7.1271471
+5553294363,node,Memorial des Rapatries d'Outre-Mer,memorial,Antibes,,,,43.5906536,7.1070723
 5566754419,node,Euphorie,restaurant,Antibes,"20 Rue des Casemates, 06600, Antibes",06600,https://www.instagram.com/euphorie_antibes?igsh=a3lhNnpkODR4MnVz,43.5827185,7.1269974
 5566782490,node,Crêperie du Port,restaurant,Antibes,,,,43.5828165,7.1268054
 5787049553,node,Hôtel Journel,hotel,Antibes,,,,43.5747003,7.1177454
+5863654562,node,,viewpoint,Antibes,,,,43.5923143,7.1287031
 6041746185,node,Ti Toques,restaurant,Antibes,"9 Avenue Louis Gallet, 06160, Antibes",06160,,43.5694104,7.1101823
 6042413485,node,L'acqua in bocca,restaurant,Antibes,"6 Square Dulys, 06160",06160,,43.5719284,7.1023522
 6190799612,node,Little Estasi,restaurant,Antibes,Avenue du 24 Août,,https://www.little-estasi.fr/,43.5796031,7.122745
 6190800248,node,La Fée Loca,restaurant,Antibes,,,,43.5796849,7.1232837
 6190952305,node,Goood,restaurant,Antibes,,,,43.5796078,7.1233269
+6280611839,node,A l'Aube des Temps,artwork,Antibes,,,,43.6045741,7.0690227
+6433758893,node,Flamant de Cuba ou Flamant des Caraïbes,attraction,Antibes,,,,43.613186,7.1264583
+6433758914,node,Manchot empereur et Gorfou sauteur,attraction,Antibes,,,,43.6143512,7.1256798
+6433808544,node,Ours polaire,attraction,Antibes,,,,43.6169799,7.1243892
+6433808591,node,,artwork,Antibes,,,,43.6153293,7.1259878
+6433808592,node,,artwork,Antibes,,,,43.6153817,7.1259247
 6433808593,node,Trattoria le Capri,restaurant,Antibes,,,,43.6162609,7.1252895
 6433835446,node,Neptune Grill,restaurant,Antibes,,,,43.6151899,7.1256613
+6433835483,node,,artwork,Antibes,,,,43.6167901,7.1251694
+6433835484,node,,artwork,Antibes,,,,43.6142921,7.1255664
+6433840517,node,,artwork,Antibes,,,,43.6139886,7.125309
 6461024913,node,Il Tinello,restaurant,Antibes,"35 Boulevard Charles Guillaumont, 06600;06160, Antibes",06600;06160,https://tinello.fr,43.5700452,7.1060472
+6465213901,node,,artwork,Antibes,,,,43.6168116,7.124816
+6466848663,node,,artwork,Antibes,,,,43.6144131,7.1256418
 6474749035,node,Pulcinella,restaurant,Antibes,1 Avenue Meissonnier,,https://pizzeria-pulcinella.com/,43.5792259,7.1234941
 6515125631,node,Le Bistrot,restaurant,Antibes,27 Avenue Amiral Courbet,,https://lebistrotjuan.com/,43.5699033,7.1087679
 6515253094,node,O'Ptit Juan,restaurant,Antibes,,,,43.5696863,7.1109894
@@ -148,11 +180,16 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 6515603231,node,Le Perroquet,restaurant,Antibes,,,,43.5679927,7.1144253
 6525598419,node,Les 3 Brasseurs,restaurant,Antibes,50 Voie Marie Fischer,,https://restaurants.3brasseurs.com/fr/s/brasseurs/antibes/884,43.5998636,7.0854618
 6525598420,node,Fradiavolo,restaurant,Antibes,,,,43.5996344,7.0855664
+6525598433,node,Stratos,artwork,Antibes,,,,43.5997646,7.0857408
 6537322425,node,Mistinguett,restaurant,Antibes,,,,43.5829633,7.1271705
+6537349283,node,Les Arcades,gallery,Antibes,18 Boulevard d'Aguillon,,https://www.antibes-juanlespins.com/sorties-loisirs/antibes-ville-de-culture/les-arcades-espace-dexposition,43.5830672,7.1256235
 6550012344,node,L'Esterel,restaurant,Antibes,,,,43.5693744,7.1072149
 6550021285,node,Plage des Îles,restaurant,Antibes,,,,43.5696014,7.1066532
 6595773967,node,L'Aromate,restaurant,Antibes,61 Avenue Philippe Rochat,,,43.5871291,7.1110859
 6600659332,node,La Petite Escale,restaurant,Antibes,,,,43.5798212,7.1230841
+6685564615,node,,viewpoint,Antibes,,,,43.5443464,7.1333835
+6754296499,node,,artwork,Antibes,,,,43.5999738,7.0854347
+6755316745,node,La Colonne à la mer,artwork,Antibes,,,,43.5806698,7.1285784
 6802245844,node,Eden Pizza,restaurant,Antibes,,,https://www.edenpizza.fr/,43.5973296,7.0946601
 6909976041,node,Best Western Antibes Riviera,hotel,Antibes,41 Avenue de Nice,,https://www.bestwestern.com/en_US/book/hotels-in-antibes/best-western-plus-antibes-riviera/propertyCode.93851.html,43.5937823,7.1196873
 6911482804,node,L'odyssée,restaurant,Antibes,14 Boulevard Maréchal Leclerc,,,43.5754614,7.1240695
@@ -163,6 +200,9 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 7141423712,node,Le Fricot,restaurant,Antibes,,,,43.5799337,7.1228493
 7141423713,node,La Badiane,restaurant,Antibes,3 Traverse du 24 Août,,,43.5798669,7.1228524
 7142778380,node,Ya Ya,restaurant,Antibes,,,,43.5709132,7.1028805
+7213637945,node,La baigneuse,artwork,Antibes,,,,43.5686451,7.1096847
+7714330373,node,,memorial,Antibes,,,,43.5786494,7.1256369
+7714330374,node,Victor Hugo,artwork,Antibes,,,,43.5784285,7.1266973
 7733519893,node,Ital Pizza,restaurant,Antibes,"548 Chemin des Moyennes Bréguières, 06600, Antibes",06600,https://italpizza-antibes.tastycloud.menu/,43.6071674,7.1182474
 8014274854,node,Diwan Al Bacha,restaurant,Antibes,"11 Avenue Tourre, 06600, Antibes",06600,https://www.restaurant-diwan-albacha.fr/,43.5813274,7.1200267
 8243229563,node,Café Lorette,restaurant,Antibes,26 Avenue de Nice,,,43.5929094,7.120665
@@ -171,16 +211,30 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 8814028021,node,India Wala,restaurant,Antibes,"53 Boulevard du Beau Rivage, 06600, Antibes",06600,,43.6052064,7.1235002
 8814143322,node,Cibo Italia,restaurant,Antibes,,,,43.6068216,7.1235261
 8814143324,node,Pizza Adelia,restaurant,Antibes,,,,43.6056181,7.1231736
+8895812101,node,Musee de l'Absinthe,museum,Antibes,,,,43.5808437,7.1274396
 8934078539,node,O' Foods,restaurant,Antibes,72 Boulevard Président Wilson,,,43.5745809,7.1166564
 8934078541,node,Sushi&Wok,restaurant,Antibes,72 Boulevard Président Wilson,,https://www.sushiandwok.fr/,43.5746972,7.1167119
+9000484221,node,Stèle commémorative Marius Albert et Joseph Daver,memorial,Antibes,,,,43.6085838,7.1248052
+9114938064,node,,memorial,Antibes,,,,43.5668083,7.1158253
 9502514201,node,Pane e Vino,restaurant,Antibes,2 Boulevard Maréchal Leclerc,,https://www.panevino.fr,43.5766468,7.1254301
 9608377247,node,Lagrange Apart Hotel,hotel,Antibes,,,,43.5996395,7.0840099
 9609112735,node,La Suite... du Salon,restaurant,Antibes,,,,43.5970938,7.0691446
+9752202133,node,,artwork,Antibes,,,,43.5686709,7.1106668
 9948201088,node,Café Kanter,restaurant,Antibes,,,https://cafe-kanter.eatbu.com,43.5776277,7.1240299
 9951285065,node,Naan’s,restaurant,Antibes,"42 Boulevard Président Wilson, 06600, Antibes",06600,,43.5771427,7.1179316
 9956762364,node,Bar restaurant Hôtel du Nord,restaurant,Antibes,"46 Avenue de Cannes, 06160, Antibes",06160,,43.5736469,7.0877697
+9964609845,node,,viewpoint,Antibes,,,,43.5452572,7.1293907
 10127593117,node,Irin,hotel,Antibes,,,,43.5817057,7.1258085
+10202301969,node,Triple Tour,attraction,Antibes,,,,43.6152818,7.1252278
+10202301970,node,Triple Tour,attraction,Antibes,,,,43.6156811,7.1246798
+10202317742,node,Spaceboat,attraction,Antibes,,,,43.6147411,7.1238452
+10202317743,node,Turbolance,attraction,Antibes,,,,43.6147385,7.1238961
+10202375720,node,Rainbow Cannon,attraction,Antibes,,,,43.6159658,7.1242946
+10202375721,node,Draguero,attraction,Antibes,,,,43.6159785,7.1242463
+10204358678,node,Soft,attraction,Antibes,,,,43.6158649,7.1245291
+10204358679,node,Wide Slide,attraction,Antibes,,,,43.6155911,7.1241316
 10232467947,node,Quanto Basta,restaurant,Antibes,,,,43.5765004,7.1176986
+10296935011,node,Albert 1er,artwork,Antibes,,,,43.5761621,7.1252616
 10554141024,node,Pizza Fifi,restaurant,Antibes,112 Boulevard Président Wilson,,http://www.pizzafifi.fr,43.570695,7.1143024
 10554141026,node,Le congrès,restaurant,Antibes,,,,43.568302,7.1149877
 10590047997,node,Casa Sapori,restaurant,Antibes,24 Rue Lacan,,,43.5821913,7.1238968
@@ -190,19 +244,39 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 10886112751,node,Mellow Factory,restaurant,Antibes,"7 Rue Sade, 06600, Antibes",06600,https://mellow-factory.fr/,43.5809464,7.1268762
 10935257261,node,Chez Mô,restaurant,Antibes,"46 Boulevard Albert 1er, 06600, Antibes",06600,https://chezmo-antibes.fr,43.5764343,7.1248761
 10948735048,node,Beirut Xpress,restaurant,Antibes,,,,43.5724599,7.0893379
+10968061804,node,,viewpoint,Antibes,,,,43.5698739,7.1383425
+10971064762,node,Plaques commémoratives 9e 20e 49e 60e Chasseurs,memorial,Antibes,,,,43.5795025,7.1244087
+10971410309,node,Monument aux morts du carré militaire,memorial,Antibes,,,,43.5908413,7.107979
+10972067698,node,Monument commémoratif du débarquement d'août 1944,memorial,Antibes,,,,43.6144383,7.1245725
+10973696995,node,Plaque commémorative André Manson,memorial,Antibes,,,,43.5812195,7.1248083
+10973706029,node,Plaque commémorative Georges Pagliuzza,memorial,Antibes,,,,43.5808251,7.1235235
+10973763950,node,Plaque commémorative Elie Lévy,memorial,Antibes,,,,43.5774066,7.1225455
+11015652655,node,Le colosse,artwork,Antibes,,,,43.5839593,7.1256678
+11065639803,node,Side Winder,attraction,Antibes,,,,43.6157634,7.1252841
+11069632205,node,Île aux pirates,attraction,Antibes,,,,43.6151173,7.1246111
+11140315224,node,Le jardin d'éden,artwork,Antibes,,,,43.5826113,7.1235902
 11152315306,node,Le 59,restaurant,Antibes,,,,43.5762523,7.1246378
 11181393347,node,Le 44,restaurant,Antibes,,,,43.5765718,7.1247361
+11196158913,node,Deep 9,artwork,Antibes,,,,43.5766906,7.1259554
+11206240520,node,À Charles de Gaulle,memorial,Antibes,,,,43.5801977,7.1208961
+11264630011,node,,artwork,Antibes,,,,43.5856039,7.1214377
+11271106064,node,,memorial,Antibes,,,,43.5851857,7.1216501
+11271106066,node,Albatros 300,artwork,Antibes,,,,43.5843765,7.1218756
 11298034373,node,Le P'tit Cageot,restaurant,Antibes,,,https://leptitcageot.com/,43.5815985,7.1246736
+11298034375,node,Maison Atelier,gallery,Antibes,19 Rue du Docteur François Delmas,,,43.582071,7.124488
 11298076045,node,L'Arazur,restaurant,Antibes,,,https://www.larazur.fr/,43.5819087,7.1274352
 11298076046,node,Le Bistrot Italien,restaurant,Antibes,,,https://www.lebistrot-italien.fr/,43.5817811,7.1276756
 11298119108,node,Le Championnet,restaurant,Antibes,"33 Cours Massena, Antibes",,,43.5811499,7.1274896
+11298119110,node,Galerie Clémenceau,gallery,Antibes,"24 Cours Massena, Antibes",,,43.5811802,7.1277792
 11298119112,node,Mersea,restaurant,Antibes,16 Cours Masséna,,,43.5809775,7.1277551
+11319857502,node,Espace Mer & Littoral,museum,Antibes,,,,43.5491294,7.1191192
 11391749822,node,Piperno,restaurant,Antibes,,,,43.5820787,7.1234408
 11422577716,node,Croc Liban,restaurant,Antibes,55 Chemin de Saint-Claude,,,43.5921981,7.1151872
 11423301761,node,Nananère,restaurant,Antibes,,,,43.5814227,7.1228767
 11423301762,node,Ferni,restaurant,Antibes,,,,43.5814487,7.1230198
 11423301763,node,Le Relais Du Postillon,hotel,Antibes,8 Rue Championnet,,https://www.relaisdupostillon.com/,43.5811637,7.1228241
 11423301764,node,Le Relais Du Postillon,restaurant,Antibes,8 Rue Championnet,,,43.5811003,7.1229058
+11425084925,node,Blind,artwork,Antibes,,,,43.583706,7.1275453
 11425441314,node,Le Relais du Postillon,hotel,Antibes,,,,43.5810887,7.1228802
 11425441318,node,La Pergola,restaurant,Antibes,23 Boulevard Président Wilson,,,43.5781217,7.11923
 11428402913,node,Cosmo Sushi,restaurant,Antibes,,,,43.5857847,7.1143547
@@ -214,16 +288,25 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 11559390668,node,L'île Bleue,restaurant,Antibes,,,,43.5810215,7.1267361
 11742169018,node,Antibes Grill,restaurant,Antibes,,,,43.5796177,7.118804
 11764638935,node,Hôtel La Villa Juan Beach,hotel,Antibes,5 Rue de l'Oratoire,,,43.56748,7.1167313
+11772263443,node,Saxo,artwork,Antibes,,,,43.567823,7.1141479
+11854096337,node,,memorial,Antibes,,,,43.5838157,7.1272673
 11923413284,node,Pizzagora,restaurant,Antibes,,,,43.5708969,7.1039086
 11931467280,node,Pizza d'Eline,restaurant,Antibes,3 Boulevard du Maréchal Foch,,,43.5793335,7.1193753
+11954507416,node,Le Défi,artwork,Antibes,,,,43.5813487,7.1289
 12022213754,node,Garden Beach Hotel,hotel,Antibes,,,,43.5673674,7.113672
 12119908355,node,Côté Sushi,restaurant,Antibes,,,,43.5820817,7.1235186
 12143772680,node,Le Piccolino,restaurant,Antibes,,,,43.5805788,7.1273625
 12154778974,node,Le Grand Cafè,restaurant,Antibes,,,,43.6032364,7.0885442
 12157909898,node,Camos,restaurant,Antibes,,,,43.601561,7.0855714
 12261187294,node,Le Stromboli,restaurant,Antibes,,,,43.5864842,7.0904856
+12324107163,node,,memorial,Antibes,,,,43.6114712,7.1263163
+12324123180,node,,artwork,Antibes,,,,43.6020408,7.1223871
 12324157009,node,Little Rock Diner,restaurant,Antibes,"141 Route de Nice, 06600, Antibes",06600,http://littlerockdiner.com/,43.6013549,7.1221763
 12327708344,node,Bistrot Margaux,restaurant,Antibes,,,https://www.bistrot-margaux-antibes.fr/,43.5855192,7.1207607
+12328318565,node,,artwork,Antibes,,,,43.5958774,7.0909058
+12328329592,node,,artwork,Antibes,,,,43.5958035,7.0910033
+12328332189,node,,artwork,Antibes,,,,43.5959329,7.0907614
+12331538096,node,"Antibes, la promenade à cheval, l'artiste et son fils Charles",artwork,Antibes,,,,43.5732988,7.1252637
 12350627488,node,Cap Riviera,restaurant,Antibes,,,,43.5673241,7.1127158
 12350627489,node,Chez Vincent,restaurant,Antibes,,,,43.5674249,7.1128159
 12399938001,node,Bistrot du coin,restaurant,Antibes,"7 Rue de la Pompe, 06600",06600,,43.5795887,7.1268751
@@ -231,11 +314,14 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 12534787434,node,Terre & Mer,restaurant,Antibes,,,,43.5718483,7.1024275
 12630627771,node,HanaSako,restaurant,Antibes,,,,43.5714736,7.104214
 12683640445,node,Paradis Thai,restaurant,Antibes,,,,43.5699493,7.1082006
+12747323153,node,Les amoureux sur talus,artwork,Antibes,,,,43.5811217,7.1258913
+12804578999,node,Uau Art,gallery,Antibes,,,,43.5826761,7.1267692
 12804598001,node,Chez Nando,restaurant,Antibes,,,,43.5823013,7.1267481
 12804598003,node,The Siam,restaurant,Antibes,,,,43.568107,7.1134797
 12804598004,node,Le J,restaurant,Antibes,,,,43.5683496,7.1133676
 12811408838,node,Romagna Mia,restaurant,Antibes,,,,43.5783064,7.1240401
 12846582841,node,Madras Café,restaurant,Antibes,,,,43.5702324,7.1111499
+12909410568,node,La Porteuse de Jarre,artwork,Antibes,,,,43.6113826,7.1263311
 12917771722,node,Pizzeria du Roi Soleil,restaurant,Antibes,,,,43.5835748,7.1089308
 12923904778,node,Effet Mer,restaurant,Antibes,,,,43.5697502,7.1061814
 13034618979,node,Résidence Aragon,hotel,Antibes,,,https://www.hotel-juanlespins.com,43.5731134,7.1129603
@@ -249,8 +335,177 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 13123797900,node,Villa Djunah,restaurant,Antibes,,,,43.5711968,7.1010533
 13140672917,node,Le Bon Matin,restaurant,Antibes,,,,43.5768575,7.123146
 13175427806,node,Vert Délice,restaurant,Antibes,,,,43.5826225,7.1210615
+13302055306,node,,artwork,Antibes,,,,43.5949245,7.09308
 13435949841,node,L'institution,restaurant,Antibes,"146 Boulevard Président Wilson, 06160, Antibes",06160,,43.5678895,7.1127306
 13438649451,node,Hôtel Pierre Loti,hotel,Antibes,"29 Rue Pierre Loti, 06160, Antibes",06160,,43.5748434,7.1018853
+13618505384,node,,artwork,Antibes,,,,43.5951386,7.1065371
 13856223988,node,Ban Kai Jaa,restaurant,Antibes,"8 rue du Dr Rostan, 06600, Antibes",06600,https://www.thaifoodantibes.com/,43.5815562,7.1247852
 13907917874,node,La clé de la Porte,restaurant,Antibes,,,,43.5822066,7.1281419
 13910228001,node,Le Five Cosy,restaurant,Antibes,"1465 Chemin des Combes, 06600",06600,https://lefivecosy.fr/,43.6009678,7.0891674
+22393150,way,Square François Pierre Cerutti,park,Antibes,,,,43.5938098,7.0969525
+24228505,way,,garden,Antibes,,,,43.5719975,7.1253576
+24228650,way,Jardin de la Pinède,park,Antibes,,,,43.5671392,7.1149402
+24228867,way,Square Elie Levy,park,Antibes,,,,43.5769329,7.1258754
+30074714,way,Square Sidney Bechet,park,Antibes,,,,43.568929,7.1151625
+31481731,way,,park,Antibes,,,,43.5729871,7.1251193
+60054332,way,Jardin René Cassin,park,Antibes,,,,43.5844335,7.1192516
+60144684,way,Plage des Ondes,beach,Antibes,,,,43.5544403,7.1220911
+68043132,way,La Taille de Guêpe,restaurant,Antibes,"24, 06600, Antibes",06600,,43.5802367,7.1250351
+68043429,way,Hôtel de l'Étoile,hotel,Antibes,"2 Avenue Gambetta, 06600, Antibes",06600,https://hoteletoile.com/,43.5824162,7.1200163
+68043925,way,Mordus,restaurant,Antibes,5,,,43.581137,7.1272047
+68044680,way,Le 1932 Hôtel & Spa,hotel,Antibes,"5 Avenue Saramartel, 06160, Antibes",06160,,43.5663249,7.117308
+68044870,way,Hôtel Alexandra,hotel,Antibes,15 Rue Pauline,,,43.5737832,7.1073649
+68046564,way,Miramar,hotel,Antibes,67 Chemin de la Plage d'Armant Jammot,,,43.5542653,7.1349797
+68046723,way,La Cascade,restaurant,Antibes,25-27 Rue Sade,,,43.5809175,7.1256894
+68047697,way,Le Village,restaurant,Antibes,"31 Rue James Close, 06600, Antibes",06600,,43.5808924,7.1250017
+68047701,way,Château de la Garoupe,castle,Antibes,,,,43.5510792,7.1378984
+68048171,way,La Jetée,restaurant,Antibes,,,,43.5688571,7.1090436
+68049080,way,Restaurant Le Collier,restaurant,Antibes,23 Boulevard Général Vautrin,,,43.5876306,7.1187835
+68049169,way,La Marjolaine,hotel,Antibes,,,,43.5698615,7.1130843
+68051013,way,Jeanne,restaurant,Antibes,"10 Rue Sade, 06600, Antibes",06600,,43.5810306,7.1268822
+68051130,way,Musée Picasso,museum,Antibes,"Place Mariejol, 06600, Antibes",06600,https://www.antibes-juanlespins.com/,43.5807499,7.1283024
+68051325,way,Musée de l'Ecole,museum,Antibes,,,,43.5836996,7.1250106
+68052995,way,Musée de la Poype,museum,Antibes,,,,43.6130346,7.1263737
+68054601,way,Gloria,restaurant,Antibes,,,,43.5682095,7.1132292
+68055325,way,Château Salé,castle,Antibes,,,,43.5850825,7.1120803
+68055687,way,Frankette,restaurant,Antibes,"3 Rue du Migrainier, 06600, Antibes",06600,https://frankette.com,43.5815542,7.1255371
+68055993,way,L'Écureuil Espagnol,restaurant,Antibes,,,https://ecureuil-espagnol.com/,43.5802025,7.1230036
+68056603,way,Parisiana Hotel,hotel,Antibes,"16 Avenue de l'Esterel, 06160, Antibes",06160,,43.5703337,7.109468
+68056988,way,Dennis Wines And Food,restaurant,Antibes,"28 Rue de Fersen, 06600, Antibes",06600,,43.5803534,7.1253117
+68056997,way,Hôtel de la Baie Dorée,hotel,Antibes,579 Boulevard de la Garoupe,,,43.5564552,7.1349153
+68057178,way,Hôtel du Cap-Eden-Roc,hotel,Antibes,"165 Boulevard John Fitzgerald Kennedy, 06160, Antibes",06160,https://www.oetkerhotels.com/fr/hotels/hotel-du-cap-eden-roc/l-hotel/,43.5483839,7.1217027
+68057301,way,Hôtel Sainte-Valérie,hotel,Antibes,13 Rue de l'Oratoire,,https://hotel-sainte-valerie.fr,43.5677238,7.1178195
+68057352,way,Relais Sud,hotel,Antibes,966,,http://relais-sud.fr/,43.5933546,7.0943494
+68057366,way,Le Sirana,restaurant,Antibes,,,,43.584749,7.1007416
+68058056,way,Le Brulot,restaurant,Antibes,3 Rue Frédéric Isnard,,http://www.brulot.fr/,43.5811834,7.1272614
+68060160,way,Chamkila,restaurant,Antibes,"4 Rue Sade, 06600, Antibes",06600,,43.5810237,7.1271869
+68060306,way,Hôtel des Mimosas,hotel,Antibes,Rue Pauline,,,43.5743477,7.1067864
+68061513,way,Le vesuvio,restaurant,Antibes,3 Avenue Georges Gallice,,,43.5679935,7.1131523
+68061624,way,Mama boon,restaurant,Antibes,"35 Rue des Revennes, 06600",06600,https://www.mamaboon.com/,43.5801312,7.1254631
+68063549,way,Hôtel du Levant,hotel,Antibes,"50 Chemin de la Plage d'Armant Jammot, 06160, Antibes",06160,,43.5544649,7.1347224
+68064889,way,Beau Site,hotel,Antibes,141 Boulevard John Fitzgerald Kennedy,,,43.5523045,7.1292353
+68064966,way,Le Rustic,restaurant,Antibes,33,,,43.5809627,7.1254278
+68065447,way,Hôtel La Villa,hotel,Antibes,43 Avenue Saramartel,,,43.5646588,7.1203145
+68066077,way,Marina Bay - Show Cooking,restaurant,Antibes,,,,43.6170971,7.1252772
+68067326,way,Hôtel Savoy,hotel,Antibes,,,,43.5681549,7.1124608
+68067589,way,Café des Chineurs,restaurant,Antibes,"28, 06600, Antibes",06600,,43.5827102,7.1281048
+68068995,way,Hôtel AC Ambassadeurs,hotel,Antibes,"50,52 Chemin des Sables, 06160, Juan-les-pins",06160,http://www.achoteljuanlespins.fr,43.5685152,7.1167536
+68070403,way,Château de la Croë,castle,Antibes,,,,43.546203,7.1341359
+68071542,way,La Bodega,restaurant,Antibes,"16 Avenue Docteur Dautheville, 06160, Antibes",06160,,43.5681536,7.1134029
+68073408,way,Hôtel Mademoiselle,hotel,Antibes,,,,43.568347,7.1129945
+68074000,way,Hôtel Residéal,hotel,Antibes,100 Rue Line Renaud-Loulou Gasté,,,43.5898548,7.1190767
+68074478,way,Le Chaudron,restaurant,Antibes,22 Rue Sade,,,43.5810703,7.1265339
+68074824,way,Musée d'Archéologie,museum,Antibes,,,https://www.antibes-juanlespins.com/culture/musee-d-archeologie,43.5773757,7.1260914
+68074966,way,Bistro Teatro,restaurant,Antibes,577 Avenue Jules Grec,,,43.5922032,7.1157364
+68075074,way,Hôtel Cécile,hotel,Antibes,,,,43.569898,7.1098928
+68076404,way,Hôtel le Collier,hotel,Antibes,"19 Boulevard Général Vautrin, 06600, Antibes",06600,https://www.lecollier-hotelrestaurant.com/,43.5872617,7.1185832
+68077087,way,Odalys Résidence Olympe,hotel,Antibes,670 Première Avenue,,,43.5999896,7.0939326
+68077272,way,Villa Djunah Beach,restaurant,Antibes,,,,43.5708088,7.1017239
+68078506,way,Best Western Astoria,hotel,Antibes,,,,43.5698267,7.1113091
+68078528,way,B&B Hotel,hotel,Antibes,95 Boulevard Raymond Poincaré,,,43.5731141,7.1005864
+68078538,way,Hôtel Belles Rives,hotel,Antibes,33 Boulevard Édouard Baudoin,,,43.5647733,7.1154113
+68078606,way,Hôtel Courbet,hotel,Antibes,33 Avenue Amiral Courbet,,,43.5694223,7.1088258
+68080346,way,La Côte à l'Os,restaurant,Antibes,"28 Rue James Close, 06600, Antibes",06600,,43.5808584,7.1252294
+68169718,way,,park,Antibes,,,,43.600459,7.1223745
+68517886,way,Parc Exflora,park,Antibes,,,,43.5717908,7.0888431
+107109126,way,Plage du Fort Carré,beach,Antibes,,,,43.5933489,7.1257092
+107118494,way,Plage de la pinède,beach,Antibes,,,,43.5666764,7.1133867
+107136655,way,Plage Gallice,beach,Antibes,,,,43.5635269,7.1157979
+110945673,way,Jardin botanique Villa Thuret,garden,Antibes,,,https://www.sophia.inra.fr/jardin_thuret,43.5641252,7.124517
+117395769,way,Plage Keller,beach,Antibes,,,,43.5542949,7.1365479
+117395770,way,Plage de la Baie des Milliardaires,beach,Antibes,,,,43.5464711,7.1294844
+121949770,way,Square Frank Jay Gould,park,Antibes,,,,43.566294,7.1150285
+127051418,way,Aux 2 Cuisses,restaurant,Antibes,,,,43.5987938,7.120709
+132571591,way,,beach,Antibes,,,,43.5692495,7.1071091
+132704813,way,Jardin Pauline,park,Antibes,,,,43.5722881,7.1063425
+132756671,way,Fort Carré,park,Antibes,,,,43.5905982,7.1277199
+151002524,way,Lavoir,attraction,Antibes,,,,43.5795564,7.1272396
+154871305,way,"Aqueduc de Clausonnes, d'Antipolis ou des Bouillides",ruins,Antibes,,,,43.6053952,7.0679607
+156401523,way,Résidence Hôtel Royal,hotel,Antibes,,,,43.5752078,7.1239779
+178364189,way,,beach,Antibes,,,,43.6205199,7.1311021
+181495569,way,,beach,Antibes,,,,43.544731,7.1320591
+237734883,way,Plage de la promenade du soleil,beach,Antibes,,,,43.56818,7.1100349
+283976772,way,Kid's Island,theme_park,Antibes,"06600, Antibes",06600,,43.6153587,7.1229512
+300938545,way,Parc des Semboules,park,Antibes,,,,43.5990547,7.0678787
+306826517,way,Antibes Land Park,theme_park,Antibes,"301 Route de Biot, 06600, Antibes",06600,,43.6127893,7.1223143
+312188452,way,Parc Albany,park,Antibes,,,,43.5664812,7.1192861
+314730854,way,Jardin de la Colle,park,Antibes,,,,43.5741744,7.108534
+325880850,way,Jardin Center Bay,park,Antibes,,,,43.5689458,7.1105374
+325880851,way,Jardin Center Bay,park,Antibes,,,,43.5690211,7.1100302
+330066274,way,Appart'City,hotel,Antibes,"2211 Chemin de Saint-Claude, 06600, Antibes",06600,,43.6008451,7.0925076
+330766777,way,Plage du port,beach,Antibes,,,,43.584046,7.1298859
+335726237,way,,garden,Antibes,,,,43.5760241,7.0875075
+335726240,way,Ambroisie Lauvert,garden,Antibes,,,,43.5762863,7.0878638
+335726939,way,L'oliveraie,garden,Antibes,,,,43.5715682,7.0898247
+335726940,way,L'oliveraie,garden,Antibes,,,,43.5721117,7.0883896
+335726941,way,L'orangeraie,garden,Antibes,,,,43.5714375,7.088
+335726942,way,La palmeraie,garden,Antibes,,,,43.570938,7.0884434
+352094204,way,Plage du Croûton,beach,Antibes,,,,43.5605021,7.1178181
+396198111,way,,garden,Antibes,,,,43.5806994,7.1153699
+404000610,way,,park,Antibes,,,,43.6017981,7.1247478
+479472052,way,Square Aimé Césaire,park,Antibes,,,,43.5788787,7.1192339
+501077117,way,Manchot de Magellan,attraction,Antibes,,,,43.6138869,7.1251372
+510698216,way,Place Vilmorin,park,Antibes,,,,43.5730141,7.1091238
+525727099,way,Plage Joseph,beach,Antibes,,,,43.5541587,7.1371468
+525727104,way,Plage de la Garoupe,beach,Antibes,,,,43.5545645,7.1357967
+527859113,way,Jardins d'Eilenroc,museum,Antibes,"Avenue Mrs. L. D. Beaumont, 06160, Antibes",06160,,43.5461582,7.1312456
+534261185,way,Parc de l'Estagnol,park,Antibes,,,,43.588076,7.0989853
+547270184,way,,park,Antibes,,,,43.6028379,7.1129374
+604981530,way,Red d'Hippo,restaurant,Antibes,,,,43.614667,7.1265652
+618259735,way,Golden Beef,restaurant,Antibes,"1 Avenue Général Maizière, 06600, Antibes",06600,https://golden-beef.fr,43.5774916,7.125827
+683717398,way,,garden,Antibes,,,,43.601276,7.1170821
+683717399,way,,garden,Antibes,,,,43.6015788,7.1170915
+683717831,way,,garden,Antibes,,,,43.6018979,7.1162992
+683717832,way,,garden,Antibes,,,,43.6024896,7.1172256
+684085479,way,Splash Battle,attraction,Antibes,,,,43.6152708,7.1236348
+686405081,way,Hôtel Marineland,hotel,Antibes,,,,43.6144784,7.126935
+686410512,way,Phoques,attraction,Antibes,,,,43.6172002,7.1257171
+686729962,way,,garden,Antibes,,,,43.6004613,7.0865395
+687279459,way,,garden,Antibes,,,,43.6008499,7.0860122
+687442785,way,,garden,Antibes,,,,43.603032,7.0873131
+715755061,way,So Lagoon,restaurant,Antibes,,,https://www.marineland.fr/planifier-votre-visite/decouvrez-aussi/lagon-dauphins-phoques,43.6177951,7.1255825
+740701104,way,Esplanade Simone Veil,park,Antibes,,,,43.5855575,7.1216175
+790863151,way,,beach,Antibes,,,,43.6021033,7.1262327
+803427305,way,Jardin de l'Îlet,garden,Antibes,,,,43.5748734,7.1244499
+804563708,way,Jardin Axel Kahn,park,Antibes,,,,43.5766757,7.1233635
+850826727,way,,park,Antibes,,,,43.5923489,7.0948426
+850826728,way,,garden,Antibes,,,,43.5921214,7.0954693
+850826729,way,,garden,Antibes,,,,43.5918961,7.095909
+866003216,way,,park,Antibes,,,,43.574244,7.1115385
+866003221,way,,park,Antibes,,,,43.5807607,7.1178504
+879812378,way,Plage du Casino,beach,Antibes,,,,43.5671976,7.1126495
+879859222,way,Plage du ponton courbet,beach,Antibes,,,,43.569027,7.1076188
+879859223,way,Grande Plage,beach,Antibes,,,,43.5699013,7.1053204
+889648049,way,Place des Droits de l'Enfance,park,Antibes,,,,43.5781972,7.1208512
+890980384,way,,park,Antibes,,,,43.5919329,7.1228092
+917502734,way,,park,Antibes,,,,43.5784077,7.121104
+936326543,way,,park,Antibes,,,,43.5991397,7.1208633
+952281930,way,NÂGA Street-food,restaurant,Antibes,"633 Route de Nice, 06600, Antibes",06600,http://naga-antibes.com/,43.6059839,7.1233815
+970893550,way,,park,Antibes,,,,43.6008894,7.1219789
+974444544,way,Plage de la Base de Voile,beach,Antibes,,,,43.5720029,7.1279151
+974460272,way,Jardin des poètes,park,Antibes,"Promenade de l'Amiral de Grasse, Antibes",,,43.5784694,7.1266619
+974634517,way,Royal Beach,restaurant,Antibes,,,https://www.hotel-royal-antibes.com/restaurant-plage-royal-beach/,43.5747434,7.1253803
+1099419858,way,Jardin Joséphine Baker,garden,Antibes,,,,43.5705233,7.1084551
+1170534124,way,Jardin Mélinée et Missak Manouchian,park,Antibes,,,,43.6000759,7.0906711
+1201623576,way,Le jardin d'éden,park,Antibes,,,,43.5828054,7.123454
+1216268400,way,,garden,Antibes,,,,43.5810585,7.1233999
+1246021502,way,,garden,Antibes,,,,43.6014693,7.1212735
+1246021709,way,,garden,Antibes,,,,43.6022012,7.1209809
+1314219860,way,Jardin du Val Claret,park,Antibes,,,,43.597874,7.1245375
+1359890713,way,,park,Antibes,,,,43.5502647,7.1391928
+1359890715,way,,park,Antibes,,,,43.5519559,7.1379429
+1359890719,way,,park,Antibes,,,,43.5479527,7.1202376
+1386300758,way,,beach,Antibes,,,,43.5699327,7.1384421
+1418017060,way,Jardin Martelly,park,Antibes,,,,43.574458,7.1159279
+1418295100,way,Parc du Pylône,park,Antibes,,,,43.613588,7.118146
+1442339165,way,,restaurant,Antibes,,,,43.5708756,7.1113228
+1448180363,way,Jardin du Grand Pin,park,Antibes,,,,43.568564,7.1103682
+1475947793,way,,garden,Antibes,,,,43.5632377,7.1166074
+288332,relation,Plage de la Salis,beach,Antibes,,,,43.5704475,7.1290069
+288333,relation,Plage de Ponteil,beach,Antibes,,,,43.5736936,7.1259194
+951764,relation,Plage de la Gravette,beach,Antibes,,,,43.5826834,7.1293618
+1074415,relation,Musée Peynet,museum,Antibes,,,,43.5809321,7.1259048
+2811893,relation,Plages de l'Ouest,beach,Antibes,,,,43.57064,7.0946564
+3259566,relation,Square Albert 1er,park,Antibes,,,,43.5762256,7.125412
+11608989,relation,,garden,Antibes,,,,43.561167,7.1294169
+12106206,relation,Plage du Pont du Lys,beach,Antibes,,,,43.5704993,7.1031344

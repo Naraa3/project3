@@ -1,22 +1,40 @@
 osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 252258756,node,,hotel,Nîmes,,,,43.9591359,4.7330343
+296929576,node,Statue Saint-Louis,artwork,Nîmes,,,,43.5667175,4.1900741
 301491991,node,La Maison d'Avignon,restaurant,Nîmes,30250,30250,,43.783135,4.0905323
 301491992,node,La Bistoure,restaurant,Nîmes,,,,43.7844203,4.0903799
+301492019,node,ancien moulin,viewpoint,Nîmes,,,,43.7822163,4.0917453
 303084830,node,Le Prieuré,hotel,Nîmes,"7 Place du Chapitre, 30400, Villeneuve-lès-Avignon",30400,https://www.leprieure.com/,43.9632638,4.7961564
 303084844,node,Les Jardins d'Été,restaurant,Nîmes,,,http://www.chartreuse.org/28/7/le-restaurant-de-la-chartreuse,43.9664933,4.7968217
+304075158,node,,viewpoint,Nîmes,,,,43.5351972,4.1319433
 360322409,node,Léo O Resto,restaurant,Nîmes,,,,43.9992196,4.6997332
+417976061,node,Tour Carbonnière,viewpoint,Nîmes,,,,43.5921378,4.2093555
 419423053,node,Guinguette La Frigoulette,restaurant,Nîmes,"Impasse du Darboussas, 30630, Saint-André-de-Roquepertuis",30630,,44.247431,4.4486006
+443082466,node,Porte fortifiée,ruins,Nîmes,,,,44.0789934,4.5577064
+443082474,node,Oppidum Saint-Vincent,attraction,Nîmes,,,,44.0780844,4.5593079
+443100344,node,,castle,Nîmes,,,,44.0496127,4.5344213
 443130814,node,Le Bistro de Lussan,restaurant,Nîmes,"Plca Jules Ferry, 30580",30580,https://www.lebistrotdelussan.fr/,44.1527309,4.3653657
+462855849,node,L'abribus,artwork,Nîmes,,,,43.8368201,4.3657098
+463774206,node,Porte d'Auguste,attraction,Nîmes,,,,43.8394385,4.3631549
+464119199,node,Monument aux morts départemental,memorial,Nîmes,,,,43.8340898,4.361464
 464787741,node,Mailan,restaurant,Nîmes,,,,43.8429048,4.36955
+467850266,node,,viewpoint,Nîmes,,,,43.8414379,4.3490391
+471783943,node,,viewpoint,Nîmes,,,,44.1798456,4.505144
+471847766,node,Belvédère des Concluses,viewpoint,Nîmes,,,,44.182988,4.402301
 471868276,node,Restaurant Le Mas du Bélier,restaurant,Nîmes,"Route de Bagnols, 30200",30200,,44.1946688,4.5231619
+475025661,node,,viewpoint,Nîmes,,,,44.1518066,4.5476673
+475025662,node,,monument,Nîmes,,,,44.1517801,4.5477168
 480760464,node,Le Saint-Pierre,restaurant,Nîmes,"1 Quai Christian Gozioso, 30240, Le Grau-du-Roi",30240,https://monmenu.comduponant.fr/lesaintpierre,43.5403134,4.1363785
+481001143,node,Statue de Nimeño II,artwork,Nîmes,,,,43.8341686,4.3600565
 485293340,node,Hôtel Central,hotel,Nîmes,"2 Place du Château, 30000, Nîmes",30000,,43.8390258,4.362729
 485357533,node,Bar Joe,restaurant,Nîmes,"44 Boulevard Victor Hugo, 30000",30000,,43.8375547,4.3559062
 485359288,node,Brasserie le Petit Jules,restaurant,Nîmes,"2 Boulevard Amiral Courbet, 30000, Nîmes",30000,http://brasserieleprintemps.fr/,43.8367288,4.362986
 485359292,node,Pizza Papa,restaurant,Nîmes,"8 Boulevard Amiral Courbet, 30000, Nîmes",30000,https://www.pizzapapa.fr/,43.8372904,4.3631031
 498963211,node,La Piazzetta,restaurant,Nîmes,"2a Place du Chapitre, 30000, Nîmes",30000,https://www.restaurant-lapiazzetta.com/,43.8379841,4.360787
+506302476,node,,viewpoint,Nîmes,,,,43.7367998,4.1661104
 510818404,node,Les Tables de la Fontaine,restaurant,Nîmes,"9 Quai Georges Clemenceau, 30900, Nîmes",30900,https://www.lestablesdelafontaine.com/,43.8395399,4.3484766
 516590329,node,Majestic,hotel,Nîmes,,,,43.834084,4.3654651
+528129145,node,,attraction,Nîmes,,,,43.8782936,4.4068772
 537118567,node,La Médina,restaurant,Nîmes,,,,43.836298,4.3637177
 537118570,node,W,restaurant,Nîmes,"9 Square de la Couronne, 30000, Nîmes",30000,http://www.w-restaurant.fr/,43.8366206,4.3636562
 537648888,node,Le Zinc,restaurant,Nîmes,"13 Rue de l'Agau, 30000, Nîmes",30000,,43.839451,4.356569
@@ -33,19 +51,38 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 579982414,node,Brasserie le Montcalm,restaurant,Nîmes,"21 Rue de la République, 30000, Nîmes",30000,,43.8321822,4.358124
 579989868,node,Le Carré d'Art,restaurant,Nîmes,"2 Rue Gaston Boissier, 30000, Nîmes",30000,,43.8383283,4.3543104
 582616523,node,Belle Sainte-Lucie,restaurant,Nîmes,,,,43.8241247,4.3683309
+616904528,node,,memorial,Nîmes,,,,43.9389056,4.5685034
 621492199,node,Les Oliviers,restaurant,Nîmes,,,,43.5643929,4.1606798
+624037796,node,,viewpoint,Nîmes,,,,43.9474588,4.5301314
+624037813,node,,viewpoint,Nîmes,,,,43.9476202,4.5308759
+624037908,node,,viewpoint,Nîmes,,,,43.9476544,4.532191
+624037940,node,,viewpoint,Nîmes,,,,43.9475805,4.5328207
+624037978,node,,viewpoint,Nîmes,,,,43.9479035,4.5330465
+624038004,node,,viewpoint,Nîmes,,,,43.9459265,4.5353605
+624038135,node,Tunnel,ruins,Nîmes,,,,43.9460441,4.5372073
+624038154,node,,ruins,Nîmes,,,,43.9464297,4.5366146
+633733213,node,Monument aux Morts,memorial,Nîmes,,,,43.6864676,4.2093418
 662214071,node,Le Troquet,restaurant,Nîmes,,,,43.8436182,4.3689422
 680342651,node,Le République,restaurant,Nîmes,"3 Rue de la République, 30000, Nîmes",30000,https://www.facebook.com/bistrotlerepublique/,43.8339582,4.359494
+703204932,node,,ruins,Nîmes,,,,43.8337458,4.205948
+740881006,node,,viewpoint,Nîmes,,,,44.1462133,4.2908585
 765328026,node,Nîmotel,hotel,Nîmes,"152 Rue Claude Nicolas Ledoux, 30900, Nîmes",30900,https://www.nimotel.com,43.8166589,4.3459949
 799431779,node,Logis Hôtel Uzès Pont du Gard,hotel,Nîmes,"2 Bis Rue de l'Émeraude, 30700, Uzès",30700,https://www.logishotels.com/fr/hotel/logis-hotel-uzes-pont-du-gard-427571,44.0022324,4.4162021
+802884456,node,Musée du bonbon Haribo,museum,Nîmes,"Pont des Charrettes, 30700",30700,https://www.museeharibo.fr/,43.9932407,4.4233526
+804266388,node,,viewpoint,Nîmes,,,,44.0049966,4.4223858
 810609674,node,La Terre de Feu,restaurant,Nîmes,,,,43.8135434,4.0611162
 837149536,node,Restaurant Crèperie Cèze Grand Rue,restaurant,Nîmes,,,,44.1936701,4.519239
+838173698,node,,viewpoint,Nîmes,,,,44.1948473,4.5185776
+856368027,node,Musée de la Terre,museum,Nîmes,"14 Rue de la Fontaine, 30700, Saint-Quentin-la-Poterie",30700,https://musee-poterie-mediterranee.com,44.0462235,4.4407029
 856372048,node,Hôtel des Pradines,hotel,Nîmes,,,,44.046077,4.4429774
 865453127,node,Auberge La Hulotte,restaurant,Nîmes,,,,44.1941175,4.5188167
-905829483,node,Les Jardins de la livrée,guest_house,Nîmes,,,,43.9644436,4.7957817
+871265438,node,,viewpoint,Nîmes,,,,44.2248755,4.4853377
+874746474,node,,viewpoint,Nîmes,,,,44.2018354,4.5012826
+905829483,node,Les Jardins de la livrée,restaurant,Nîmes,,,,43.9644436,4.7957817
 908282032,node,La Fleur de Sel,restaurant,Nîmes,,,,43.5675095,4.1918217
 908282514,node,Toro Luna,restaurant,Nîmes,"Place Saint-Louis, 30220, Aigues-Mortes",30220,,43.5669445,4.1901489
 908282566,node,Au Louis IX,restaurant,Nîmes,,,,43.5661246,4.193202
+908930249,node,Musée Pierre-de-Luxembourg,museum,Nîmes,,,http://www.musees.gard.fr,43.9637314,4.7968264
 910360450,node,Hôtel des Croisades,hotel,Nîmes,,,,43.5689899,4.1883622
 920214803,node,L'Ancien Thêatre,restaurant,Nîmes,"4 Rue Racine, 30900, Nîmes",30900,https://fr-fr.facebook.com/Lancientheatre,43.8374328,4.3548166
 920235503,node,Le 5 Paul,restaurant,Nîmes,"10 Rue de la Porte de France, 30900, Nîmes",30900,https://fr-fr.facebook.com/le5paul/,43.8361236,4.3556925
@@ -54,8 +91,17 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 920244323,node,Le Caboulot de la Sérendipité,restaurant,Nîmes,"26 Rue Jean Reboul, 30900, Nîmes",30900,https://lecaboulotdelaserendipite.fr/,43.834036,4.3578437
 920244342,node,Mamie Bigoude,restaurant,Nîmes,"10 Rue Jean Reboul, 30000, Nîmes",30000,https://www.comptoirmamiebigoude.com/,43.8346456,4.3580658
 922554225,node,Villa Vicha,hotel,Nîmes,,,,43.757175,4.1682654
+922842126,node,Moulin à huile,attraction,Nîmes,,,https://moulindelachartreuse.com/,43.9670843,4.7963801
+964121949,node,,memorial,Nîmes,,,,44.0243234,4.7931623
+969195095,node,Fernand Granon,memorial,Nîmes,,,,43.6726205,4.2388042
+1070740454,node,Chartreuse Notre-Dame-du-Val-de-Bénédiction,museum,Nîmes,"58 Rue de la République, 30404",30404,,43.9665144,4.7975804
 1077148039,node,Le provençal,restaurant,Nîmes,,,,43.6715536,4.4007738
+1132546377,node,,viewpoint,Nîmes,,,,43.9396375,4.4501512
 1137821421,node,Tibère Express,restaurant,Nîmes,,,,43.782866,4.087781
+1149512321,node,,viewpoint,Nîmes,,,,43.8807864,4.4478177
+1256650436,node,Karting,attraction,Nîmes,,,,43.9222928,4.5010897
+1262320608,node,,viewpoint,Nîmes,,,,43.942773,4.4689905
+1274577501,node,Maison du Boutis,museum,Nîmes,"9 Place du Général de Gaulle, 30420, Calvisson",30420,https://la-maison-du-boutis.fr/,43.7863898,4.1934943
 1305783586,node,Le Gafetou,restaurant,Nîmes,,,,43.5329016,4.1386362
 1305876326,node,La Taverne,restaurant,Nîmes,,,,43.5369584,4.1370567
 1305876330,node,Le Galion,restaurant,Nîmes,"11 Quai Colbert, 30240, Le Grau-du-Roi",30240,https://www.restaurant-le-galion.net,43.5362373,4.1355804
@@ -80,6 +126,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1306823346,node,Au Petit Bonheur,restaurant,Nîmes,,,,43.5329561,4.1387896
 1307501583,node,Le Miramar,hotel,Nîmes,"25 Avenue Frédéric Mistral, 30240, Le Grau-du-Roi",30240,https://www.cafe-miramar.fr,43.5318397,4.1402034
 1307501588,node,Le Miramar,restaurant,Nîmes,"25 Avenue Frédéric Mistral, 30240, Le Grau-du-Roi",30240,https://www.cafe-miramar.fr/restaurant.html,43.5317821,4.140089
+1351400604,node,Tour du moulin du duc,ruins,Nîmes,,,,44.0269044,4.4437829
 1364658899,node,La table de Marine,restaurant,Nîmes,"Place Jean Jaurès, 30200",30200,http://www.tabledemarine.com/,44.201341,4.545365
 1367564817,node,Auberge des 4 saisons,restaurant,Nîmes,"Saint-Gély, 30630",30630,,44.2064349,4.49398
 1369319979,node,La p'tite auberge,restaurant,Nîmes,"Route de Bagnols, 30200",30200,,44.1978677,4.5223899
@@ -88,39 +135,62 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1485582408,node,Au P'tit Nimois,restaurant,Nîmes,"14 Place du Marché, 30000, Nîmes",30000,,43.8362251,4.3588117
 1485582412,node,Cali Kitchen,restaurant,Nîmes,"8 Rue de la Maison Carrée, 30000",30000,https://calikitchen.fr,43.8375355,4.3566385
 1485582413,node,Pizzeria Cerutti,restaurant,Nîmes,"25 Rue de l'Horloge, 30000",30000,,43.8379998,4.3567404
+1520044938,node,,viewpoint,Nîmes,,,,43.7481111,4.1978774
 1557118747,node,Carré Jazz,restaurant,Nîmes,"25 Place de la Maison Carrée, 30000",30000,https://carrejazz.fr/,43.8379492,4.356614
 1641946135,node,Le Tracteur,restaurant,Nîmes,"Avenue du stade, 30700",30700,,43.9553967,4.4244767
+1650436709,node,Belvédère Mémoires de Garrigue,viewpoint,Nîmes,,,,43.9535684,4.5297539
 1676282596,node,Les Jasses de Camargue,hotel,Nîmes,,,https://www.jassesdecamargue.com/,43.7153603,4.1814427
+1683079403,node,,memorial,Nîmes,,,,44.0115558,4.4174024
 1706911963,node,Hôtel Le Cours,hotel,Nîmes,"10 Avenue François Griffeuille, 30800, Saint-Gilles",30800,,43.673455,4.4321486
 1708108090,node,Les concluses,restaurant,Nîmes,,,,44.1686627,4.4469618
 1726357544,node,,restaurant,Nîmes,,,,44.165842,4.6191494
+1727168426,node,Monument Émile Jamais,artwork,Nîmes,,,,43.7385462,4.1825439
 1734313251,node,Café restaurant des sports,restaurant,Nîmes,,,,43.7863929,4.1935643
 1741780656,node,Le Patio by Lou Caléou,restaurant,Nîmes,"23 Place de la Libération, 30250",30250,https://www.le-patio-by-lou-caleou.com,43.7816746,4.087799
 1754672885,node,O Répit,restaurant,Nîmes,,,,43.6921018,4.2051418
+1758344264,node,,attraction,Nîmes,,,,43.8239492,4.1776667
+1771476607,node,,memorial,Nîmes,,,,44.0449254,4.4405161
+1775459255,node,Le Castellas,ruins,Nîmes,,,,43.9263482,4.3348291
 1775534268,node,Mas d'Eyrolles,hotel,Nîmes,"70 Chemin de la Jasse d'Eyrolles, 30190, Sainte-Anastasie",30190,https://masdeyrolles.com,43.9213113,4.3122535
 1781591160,node,Bistro 148,restaurant,Nîmes,"148 Rue Jean Lauret, 30900, Nîmes",30900,,43.808974,4.361458
 1781597257,node,La Cantine,restaurant,Nîmes,"148 Rue Jean Lauret, 30900, Nîmes",30900,,43.8090404,4.3621296
 1785144863,node,Brasserie La Condamine,restaurant,Nîmes,,,,43.6894344,4.2739296
+1788642645,node,,viewpoint,Nîmes,,,,44.3035889,4.5565905
+1788648336,node,,castle,Nîmes,,,,44.3035813,4.5563598
 1788650024,node,Le Belvédère,restaurant,Nîmes,,,,44.3046621,4.5550705
 1798434500,node,Alexandre,restaurant,Nîmes,"2 Rue Xavier Tronc, 30128, Garons",30128,https://www.michelkayser.com/,43.767972,4.4230136
 1798434556,node,Cote Corse,restaurant,Nîmes,,,,43.7707182,4.4257582
+1802788211,node,Manoir du Docteur Perrier,monument,Nîmes,,,,43.7298287,4.240667
+1812631652,node,,memorial,Nîmes,,,,43.7430329,4.2223851
 1819080027,node,Hôtel de l'Atelier,hotel,Nîmes,,,,43.9631126,4.7979254
+1819888310,node,Maison du docteur Perrier,monument,Nîmes,,,,43.7429915,4.2247852
 1820406355,node,Le Passiflore,hotel,Nîmes,1 Rue Neuve,,,43.7431953,4.2191885
 1820406356,node,,restaurant,Nîmes,,,,43.7428833,4.2200897
 1829929480,node,,restaurant,Nîmes,,,,43.8761985,4.5924992
 1829929486,node,Le Magenta,restaurant,Nîmes,,,,43.8763213,4.5927404
+1851884078,node,La Nef solaire,artwork,Nîmes,,,,44.0014129,4.7003062
 1853272133,node,La Guinquette de Lecques,restaurant,Nîmes,,,,43.8355089,4.0656704
 1853272140,node,O Château,restaurant,Nîmes,,,,43.8087685,4.0691611
 1861267583,node,La Couronne,restaurant,Nîmes,"37 Rue des Trois Journées, 30130, Pont-Saint-Esprit",30130,,44.2581002,4.6483224
 1864902750,node,Aux Péchés Mignons,restaurant,Nîmes,,,,43.8094861,4.0687296
+1868556631,node,,memorial,Nîmes,,,,43.770747,4.4240798
 1871591875,node,La Halte Nautique,restaurant,Nîmes,"Port de Plaisance Quai Paul Riquet, 30127, Bellegarde",30127,https://www.facebook.com/lahaltenautique,43.7446153,4.5207914
 1874492462,node,Le Sans Chichi,restaurant,Nîmes,,,,43.8148183,4.3344175
 1876133691,node,La Fourchette Gourmande,restaurant,Nîmes,,,,44.1615632,4.4862954
+1876133747,node,,castle,Nîmes,,,,44.1612227,4.4860941
+1876319750,node,,memorial,Nîmes,,,,43.9633678,4.7994125
+1876395506,node,,memorial,Nîmes,,,,44.1137024,4.5222955
 1878059632,node,Les Chambres de la Bourse,hotel,Nîmes,"6 Place de la République, 30130, Pont-Saint-Esprit",30130,https://www.leschambresdelabourse.fr,44.255284,4.648059
 1878087505,node,Le Concorde,restaurant,Nîmes,"14 Place de la République, 30130, Pont-Saint-Esprit",30130,,44.2556256,4.6479405
 1878293029,node,The Family's,restaurant,Nîmes,"15 Allée Frédéric Mistral, 30130, Pont-Saint-Esprit",30130,,44.2557626,4.6479673
+1894788604,node,,viewpoint,Nîmes,,,,43.8600166,4.2861359
+1899794531,node,,viewpoint,Nîmes,,,,44.1802284,4.5088605
+1899794579,node,,viewpoint,Nîmes,,,,44.1807121,4.5145176
 1907395633,node,Café des grands pins,restaurant,Nîmes,,,,43.7851769,4.1950308
+1907933088,node,Le Portail,attraction,Nîmes,,,,44.186152,4.4096646
+1909960042,node,,viewpoint,Nîmes,,,,44.3415167,4.5042604
 1914293190,node,Restaurant La Taverne,restaurant,Nîmes,,,,44.014329,4.4198346
+1923349746,node,Monument aux morts,memorial,Nîmes,,,,43.7905951,4.3083809
 1932292749,node,,hotel,Nîmes,,,,43.9713674,4.5545153
 1938676370,node,Bar Restaurant Chez Lucas,restaurant,Nîmes,"Allée des Platanes, 30650, Saze",30650,https://www.facebook.com/Bar-Restaurant-Chez-Lucas-30650-SAZE-358858931220026/,43.9437652,4.6820504
 1940530121,node,Les Korrigans du Vidourle,restaurant,Nîmes,"2 Rue du Faubourg du Pont, 30250, Sommières",30250,http://www.leskorrigansduvidourle.com,43.7820998,4.0883963
@@ -128,19 +198,56 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1956781859,node,,restaurant,Nîmes,,,,44.0453849,4.7865757
 2003350352,node,Le Bistrot de La Chartreuse de Valbonne,restaurant,Nîmes,,,,44.2400665,4.5542176
 2006437462,node,Auberge de miémart,restaurant,Nîmes,,,,44.0593288,4.7780749
+2007148363,node,,memorial,Nîmes,,,,43.8591679,4.4414454
+2031493481,node,,attraction,Nîmes,,,,43.8354201,4.3615793
+2085983125,node,,viewpoint,Nîmes,,,,43.8162288,4.0114171
 2133440248,node,Le Bernon,hotel,Nîmes,"Route Nationale 86, 30330",30330,,44.0942726,4.5978554
 2133706141,node,Château du Val de Cèze,hotel,Nîmes,"69 Rue Léon Fontaine, 30200",30200,,44.1595009,4.6313504
 2133767597,node,Auberge des 4 Chemins,restaurant,Nîmes,,,,44.1046364,4.6079287
+2140504636,node,Chapelle Saint-Pierre,ruins,Nîmes,,,,43.9561943,4.5219989
+2146458848,node,La Notre-Dame de Saint-Geniès,attraction,Nîmes,,,,44.0589989,4.7247905
+2153059123,node,Ruines du Castellas,castle,Nîmes,,,,44.0584553,4.6400443
+2162914644,node,Statue d'Antonin le Pieux,artwork,Nîmes,"Square Antonin, 30000, Nîmes",30000,,43.8394398,4.3555195
 2165690411,node,Le Caprice,restaurant,Nîmes,,,,43.9813364,4.2269201
 2172217057,node,L'Ancienne Gare,restaurant,Nîmes,,,,43.9911593,4.4303355
 2172217058,node,L'Auberge d'Uzes,hotel,Nîmes,,,,43.9927521,4.4231437
 2172217059,node,Le Rive Gauche,restaurant,Nîmes,,,,43.9550281,4.540581
+2173872068,node,stèle en l'honneur du résistant Armand Romieux,memorial,Nîmes,,,,43.981401,4.2384118
+2173921242,node,Monument aux morts 1944 (Bataille de Moussac 1944),memorial,Nîmes,,,,43.9717488,4.2194703
+2174078890,node,Enseigne de tisserand,attraction,Nîmes,"Rue des Tisserands, 30190, Moussac",30190,,43.9812917,4.2238563
+2174816293,node,Le Ran,viewpoint,Nîmes,,,,43.9814209,4.2232574
+2174895410,node,Fenêtre médiévale,attraction,Nîmes,,,,43.9814191,4.2234209
+2174895411,node,Ancien Maréchal-ferrant,attraction,Nîmes,,,,43.980177,4.2242616
+2174968689,node,,memorial,Nîmes,,,,43.9795784,4.2258538
+2174968690,node,Pigeonnier,attraction,Nîmes,,,,43.9803757,4.2247485
+2174968695,node,ancienne Fontaine,attraction,Nîmes,,,,43.9801918,4.2244368
+2175164731,node,Pressoir à vin,attraction,Nîmes,,,,43.9808636,4.2273842
 2179749315,node,Bistrot des Arènes,restaurant,Nîmes,"11 Rue Bigot, 30000, Nîmes",30000,,43.8344649,4.3570232
+2181205927,node,Monument à portiques,ruins,Nîmes,,,,44.0780882,4.5608444
+2181205932,node,Temple d'Appolon,ruins,Nîmes,,,,44.077943,4.5595476
+2181205935,node,Thermes Romains,ruins,Nîmes,,,,44.0777277,4.5593907
+2181205939,node,Village médiéval,ruins,Nîmes,,,,44.0785845,4.5593468
+2184436816,node,,viewpoint,Nîmes,,,,43.781679,4.1841606
+2207331864,node,Château de Lussan,castle,Nîmes,,,,44.1538412,4.3668621
 2207997700,node,Basta Cosi!,restaurant,Nîmes,,,,43.9549909,4.7926035
 2241171634,node,La Salamandre,restaurant,Nîmes,13 Place Jean Jaurès,,,43.9642029,4.7975098
+2247757877,node,Château du Jonquier,castle,Nîmes,,,,44.172793,4.6908504
+2266459657,node,Les Cascades du Sautadet,attraction,Nîmes,,,,44.1893983,4.526968
 2271047748,node,L'Anagia,restaurant,Nîmes,"9 Avenue du Grand Chemin, 30114, Nages-et-Solorgues",30114,,43.7906004,4.2296074
+2271047749,node,,memorial,Nîmes,,,,43.7894952,4.2313665
+2284407135,node,,memorial,Nîmes,,,,43.8275618,4.2021426
+2284444135,node,,attraction,Nîmes,,,,43.8237349,4.1776822
+2284444138,node,date gravée 1791,attraction,Nîmes,,,,43.8240195,4.1772938
+2284495045,node,Oppidum de Mouressip,attraction,Nîmes,,,https://pop.culture.gouv.fr/notice/merimee/PA00103202,43.8313578,4.1895963
+2285132209,node,,attraction,Nîmes,,,,43.8291912,4.1725259
+2290386523,node,,attraction,Nîmes,,,,43.8279814,4.2019529
 2298093795,node,Hôtel Les Glycines,hotel,Nîmes,"8 Avenue Geoffroy Perret, 30210, Remoulins",30210,https://www.hotelrestaurantlesglycines.com,43.9386364,4.5599739
+2301850924,node,Citernes Romaines,attraction,Nîmes,"Rue de la fontaine romaine, 30114, Nages-et-Solorgues",30114,,43.792835,4.2309851
+2301945837,node,Grande Tour,attraction,Nîmes,,,,43.7952891,4.2269885
+2301945848,node,,viewpoint,Nîmes,,,,43.7947899,4.2260061
 2321260648,node,La table des marchands,restaurant,Nîmes,,,,43.7834441,4.2018526
+2328477193,node,,memorial,Nîmes,,,,43.7403846,4.1773271
+2328513842,node,,memorial,Nîmes,,,,43.7395992,4.1789873
 2331624929,node,,restaurant,Nîmes,,,,43.5075811,4.1452275
 2331628478,node,Le Petit Mazet,restaurant,Nîmes,2816 Route de l'Espiguette,,,43.5019958,4.1417574
 2346493839,node,Le Bato,restaurant,Nîmes,,,,43.8204149,4.3459089
@@ -150,7 +257,11 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2372624311,node,Rue Jardinière,restaurant,Nîmes,,,,43.7830231,4.0902403
 2383646793,node,Café de l'Avenir,restaurant,Nîmes,"3 Place de la République, 30740, Le Cailar",30740,https://cafe-de-l-avenir-le-cailar.edan.io/,43.6740004,4.2374424
 2383646797,node,Café du Pont,restaurant,Nîmes,"344 Route des Etangs, 30600, Vauvert",30600,,43.6389622,4.2981116
+2388339718,node,,viewpoint,Nîmes,,,,44.1537815,4.3644449
+2390026740,node,Chapelle St Géniès,ruins,Nîmes,,,,44.0214514,4.4160318
 2391964680,node,Maje,restaurant,Nîmes,,,,43.7549969,4.1458135
+2391964700,node,,memorial,Nîmes,,,,43.7553184,4.1457686
+2395161668,node,Monument aux morts,memorial,Nîmes,,,,43.9721912,4.2777278
 2400847619,node,Puech de l'Olivier,restaurant,Nîmes,,,,43.7279925,4.213039
 2400908233,node,L'Épicurienne,restaurant,Nîmes,,,,43.7834802,4.2041456
 2400969341,node,Côté Patio,restaurant,Nîmes,,,,43.7440927,4.2183302
@@ -159,25 +270,63 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2401825317,node,,restaurant,Nîmes,,,,43.673651,4.4327978
 2401825321,node,La Restanque,restaurant,Nîmes,,,,43.6729395,4.4341583
 2409711952,node,Auberge Gardoise,hotel,Nîmes,,,,44.1318689,4.3643295
+2417406347,node,Monument aux Morts,memorial,Nîmes,,,,43.6374418,4.1947094
 2421527526,node,Tango Paëlla,restaurant,Nîmes,,,,43.9583466,4.7751448
 2421527540,node,Osakka Sushi,restaurant,Nîmes,,,,43.9586519,4.7764674
 2421527541,node,Chez Cécile,restaurant,Nîmes,,,,43.9583474,4.775314
 2423143378,node,Maison Bronzini,restaurant,Nîmes,74 Rue de la République,,https://www.maisonbronzini.com,43.9669654,4.7963125
+2423157973,node,,viewpoint,Nîmes,,,,44.0061574,4.774776
+2425760529,node,Notre-Dame du Château,attraction,Nîmes,,,,44.0062072,4.7748371
+2438110444,node,chantepleure,attraction,Nîmes,,,,43.8447776,4.2820875
+2438110446,node,chantepleure,attraction,Nîmes,,,,43.8448225,4.2820866
+2438110450,node,escalier,attraction,Nîmes,,,,43.8456472,4.2814926
 2450346946,node,La Pause Family,restaurant,Nîmes,"155 Rue Paul Laurent, 30900, Nîmes",30900,,43.8097684,4.3656867
+2472304556,node,,viewpoint,Nîmes,,,,44.3017563,4.5583728
 2490235011,node,L'Azteca,restaurant,Nîmes,,,,43.7831598,4.1917983
+2490235021,node,,memorial,Nîmes,,,,43.7831888,4.1921436
+2493711025,node,Monument du Souvenir,monument,Nîmes,,,,43.859999,4.396379
+2493737445,node,Père et Maître de la Jeunesse,memorial,Nîmes,,,,43.859619,4.3961637
+2506995865,node,Nymphée,artwork,Nîmes,,,,43.8400076,4.3494854
+2507026367,node,,artwork,Nîmes,,,,43.8386488,4.3541083
+2507026397,node,,artwork,Nîmes,,,,43.8387866,4.3550166
+2507176214,node,Colonnes de César,attraction,Nîmes,,,,43.8160877,4.5993103
 2552849077,node,XL café restaurant,restaurant,Nîmes,"14 Rue du Marché, 30650, Rochefort-du-Gard",30650,,43.9756337,4.6874062
+2554099304,node,,artwork,Nîmes,,,,43.9833183,4.6968584
+2554099318,node,,artwork,Nîmes,,,,43.9833525,4.6969055
+2554099870,node,"1944 Rochefort du Gard, Maquis de la Résistance Armée",memorial,Nîmes,,,,43.9921728,4.6450873
+2554136021,node,,viewpoint,Nîmes,,,,43.6932444,4.2788872
+2554306022,node,,artwork,Nîmes,,,,43.9679879,4.6741671
+2576327990,node,,viewpoint,Nîmes,,,,44.335821,4.5063911
+2603124198,node,,viewpoint,Nîmes,,,,43.7726239,4.1198134
+2615291233,node,,memorial,Nîmes,,,,43.8871868,4.1890463
 2676933379,node,Le Palais de Jade,restaurant,Nîmes,,,,43.9595845,4.7566474
 2691705289,node,Les Arcades,hotel,Nîmes,23 Boulevard Gambetta,,http://www.les-arcades.fr,43.5655732,4.1923304
 2691705291,node,Villa Mazarin,hotel,Nîmes,,,https://www.villamazarin.com/,43.5648842,4.1919054
 2721781407,node,Le Comptoir des Saisons,restaurant,Nîmes,,,,43.9388618,4.5597233
+2721781410,node,,viewpoint,Nîmes,,,,43.9385462,4.5492566
 2724147013,node,Les 3 Canards,restaurant,Nîmes,,,,44.0111251,4.4191613
+2724147014,node,,viewpoint,Nîmes,,,,44.0114052,4.4223865
+2725622053,node,,memorial,Nîmes,,,,44.15349,4.366911
+2729298903,node,,viewpoint,Nîmes,,,,43.9717309,4.5538639
 2736827415,node,Soko Hotels Pont du Gard,restaurant,Nîmes,30210,30210,https://www.sokohotels.com,43.9462845,4.548623
+2736988321,node,,attraction,Nîmes,,,,44.244071,4.5532986
+2736988331,node,,attraction,Nîmes,,,,44.2453262,4.5590846
+2822958762,node,Dent de Serret,viewpoint,Nîmes,,,,44.2572343,4.3972373
 2823598044,node,Comptoir du 7,restaurant,Nîmes,,,,44.0137397,4.4221834
 2838230901,node,La Clède,restaurant,Nîmes,,,,43.7904406,4.3083214
+2841562122,node,Vestige de l'aqueduc de Nîmes,ruins,Nîmes,,,,43.9849699,4.4631451
+2841668230,node,Rochers de Castelviel,viewpoint,Nîmes,,,,44.3215773,4.5347717
+2849468583,node,,memorial,Nîmes,,,,43.5690107,4.1923228
+2854411828,node,ruines de l'aqueduc de Nîmes,ruins,Nîmes,,,,43.997609,4.4264455
 2868372426,node,L'instant du Sud,restaurant,Nîmes,,,,43.7295011,4.3489806
 2872777391,node,Le Shanghai,restaurant,Nîmes,,,,43.8142436,4.3509408
 2874375921,node,Memphis,restaurant,Nîmes,"145 Rue Michel Debré, 30900, Nîmes",30900,http://www.memphis-coffee.com/memphis-coffee-n%C3%AEmes,43.8143603,4.3681113
 2874376342,node,O Panda,restaurant,Nîmes,"145 Rue Michel Debré, 30900, Nîmes",30900,https://www.opanda.fr/restaurants-nimes.htm,43.8141953,4.3681765
+2876217029,node,Pierre de Foulc,viewpoint,Nîmes,,,,43.8345973,4.1908753
+2876222998,node,,viewpoint,Nîmes,,,,43.831137,4.1898794
+2897210491,node,,viewpoint,Nîmes,,,,43.9179002,4.5071516
+2897246889,node,,memorial,Nîmes,,,,43.914752,4.509255
+2910313011,node,Musée Georges Borias,museum,Nîmes,30700,30700,http://uzesmusee.blogspot.fr,44.0123491,4.4227387
 2911592250,node,La Dolce Vita,restaurant,Nîmes,12 Rue Marceau,,,43.5658127,4.1906639
 2911592251,node,Aromatik,restaurant,Nîmes,9 Rue Alsace Lorraine,,,43.5669453,4.1908152
 2911592256,node,Rue Emile Jamais,restaurant,Nîmes,5 Rue Émile Jamais,,,43.5663341,4.1906643
@@ -186,40 +335,78 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2914552033,node,La Table du Midi,restaurant,Nîmes,27 Rue Pasteur,,,43.5664169,4.1915928
 2914552034,node,Le Café du Commerce,restaurant,Nîmes,11 Place Saint-Louis,,,43.5668874,4.1897208
 2914552035,node,Le Minos,restaurant,Nîmes,7 Place Saint-Louis,,,43.5665651,4.1897554
+2914552036,node,Les Capucins,attraction,Nîmes,,,,43.5665094,4.1900125
 2914552037,node,Les Capucins,restaurant,Nîmes,2 Place Saint-Louis,,,43.5664769,4.1901032
 2914552038,node,Brasserie La Détente,restaurant,Nîmes,5 Place Saint-Louis,,,43.5665764,4.1898436
 2914552039,node,Restaurant Marie-Rosé,restaurant,Nîmes,13 Rue Pasteur,,,43.5665501,4.191228
 2914552040,node,Restaurant des Voyageurs,restaurant,Nîmes,8 Place Saint-Louis,,,43.5665984,4.1896978
 2914552041,node,Chez Vincent,restaurant,Nîmes,7 Rue Pasteur,,,43.5666435,4.1909661
+2923485526,node,Le Tacot Musée,museum,Nîmes,167 Avenue du Pont de Provence,,,43.572022,4.1938299
 2926265493,node,La Crêpe Rit,restaurant,Nîmes,"2 Place des Grands Jours, 30210",30210,,43.9389545,4.5601079
 2929496659,node,Le Sud,restaurant,Nîmes,,,,43.5224882,4.1490239
 2930809914,node,,restaurant,Nîmes,,,,43.5217444,4.1493446
 2931028158,node,,restaurant,Nîmes,,,,43.5235831,4.1456835
+2940550813,node,La Pomone,artwork,Nîmes,,,,43.5411718,4.1343885
 2945489216,node,Les Bains de Camargue,hotel,Nîmes,"227 Route des Marines, 30240, Le Grau-du-Roi",30240,,43.5179345,4.1249937
 2945489217,node,Le Panoramique,restaurant,Nîmes,,,,43.5178755,4.1252998
+2955471278,node,Statue de Tartarin et de son créateur Alphonse Daudet,artwork,Nîmes,,,,43.8056419,4.654524
 2955631669,node,Chez Olivier Bistrot,restaurant,Nîmes,,,,43.9641842,4.7970873
 2955888735,node,Ombre & Soleil,restaurant,Nîmes,,,,43.5274962,4.1403039
+2958797471,node,Borne milliaire au nom d'Auguste,monument,Nîmes,,,,43.8257918,4.2600401
+2981332697,node,,viewpoint,Nîmes,,,,44.1491121,4.2769854
+3017256988,node,Aqueduc de Nîmes,attraction,Nîmes,,,,43.9364222,4.5523246
+3058714894,node,Vieux Moulin,ruins,Nîmes,,,,44.0105191,4.425971
+3178419389,node,Vierge,artwork,Nîmes,,,,43.9096979,4.4208976
+3178419390,node,,memorial,Nîmes,,,,43.9097086,4.4213352
+3268160261,node,,artwork,Nîmes,,,,43.7436501,4.2098826
+3297123105,node,Belvédère,viewpoint,Nîmes,,,,43.8876018,4.2638432
+3305872261,node,,memorial,Nîmes,,,,43.8544623,4.1130935
+3305872267,node,,memorial,Nîmes,,,,43.8539589,4.1126487
+3309265051,node,Four à chaux,ruins,Nîmes,,,,43.9170497,4.6737546
 3360208697,node,La Croqu'au Sel,restaurant,Nîmes,"Impasse de l'Hôpital Saint-Jacques, 30660, Gallargues-le-Montueux",30660,https://www.facebook.com/LaCroqauSel,43.7218065,4.1737644
 3362523633,node,Le Resto del Piero,restaurant,Nîmes,,,,43.7222964,4.1869858
 3362849282,node,La Table à Rallonge,restaurant,Nîmes,,,https://www.latablearallonge.com/,43.6314096,4.1975204
+3366730745,node,,memorial,Nîmes,,,,43.7426274,4.2204011
+3390672060,node,Espace Jean Jaurès,gallery,Nîmes,Place du Docteur Arnoux,,,43.6920966,4.2752458
 3417526715,node,La Table des Platanes,restaurant,Nîmes,,,,43.686322,4.2071933
+3418607884,node,,attraction,Nîmes,,,,43.8380378,4.2826262
 3472859313,node,La Storia Cala'Breith,restaurant,Nîmes,"1A Rue du Petit Paris, 30660, Gallargues-le-Montueux",30660,https://www.facebook.com/LaStoriaCalaBreizh,43.7225436,4.1729717
+3472859324,node,Déesse de la Liberté,artwork,Nîmes,,,,43.7222941,4.1731574
+3472859325,node,Monument aux morts,memorial,Nîmes,,,,43.7223979,4.1732846
 3481129195,node,B&B Hôtel Nîmes Ville Active,hotel,Nîmes,"152 Rue Claude Nicolas Ledoux, 30900, Nîmes",30900,https://www.hotel-bb.com/fr/hotel/nimes-ville-active,43.81558,4.3468192
+3483927133,node,,ruins,Nîmes,,,,44.0608939,4.3213358
 3493063998,node,Ristorante Sansavino,restaurant,Nîmes,,,,43.7829994,4.08985
 3501126703,node,La Farandole,restaurant,Nîmes,,,,43.7830585,4.090583
 3501136034,node,Le Nulle part Ailleurs,restaurant,Nîmes,"11 Rue Paulin Capmal, 30250, Sommières",30250,https://lenullepartailleurs.com,43.7832733,4.0901997
 3501140568,node,Le Pix,restaurant,Nîmes,,,,43.7831094,4.0900628
 3508963121,node,Le Pékin,restaurant,Nîmes,,,,43.7840905,4.0881161
+3517597816,node,,memorial,Nîmes,,,,43.7700832,4.1230454
 3522462082,node,Ibis Budget,hotel,Nîmes,,,,43.8317103,4.367029
 3522465884,node,Ibis Styles,hotel,Nîmes,,,,43.8316764,4.3669327
+3526372708,node,,memorial,Nîmes,,,,43.7830256,4.197972
+3534161914,node,,memorial,Nîmes,,,,44.0607869,4.6412935
+3544375604,node,,viewpoint,Nîmes,,,,43.8507992,4.1553242
+3549720940,node,Musée de la Maison Romane,museum,Nîmes,"Place de la Maison Romane, 30800, Saint-Gilles",30800,https://saint-gilles.fr/musee-de-la-maison-romane,43.6769345,4.4310858
 3592061657,node,Brocantine,restaurant,Nîmes,"25 Cours Jean Jaurès, 30129, Manduel",30129,,43.8187695,4.4722781
+3596000205,node,L'Espérance,artwork,Nîmes,,,,43.5355013,4.1339691
 3596023750,node,L'Arhumatik,restaurant,Nîmes,"19bis Quai Docteur Cléon Griolet, 30250, Sommières",30250,https://www.larhumatik.fr,43.7816376,4.0904411
+3596023751,node,Monument aux Morts,memorial,Nîmes,,,https://monumentsmorts.univ-lille.fr/monument/5997/sommieres-place,43.7810772,4.0907031
 3598562272,node,L'InéviTable,restaurant,Nîmes,"11 bis Rue de la République, 30129, Manduel",30129,,43.8189229,4.4709173
+3599387928,node,Maison romane,attraction,Nîmes,"Place de la Maison Romane, 30800, Saint-Gilles",30800,,43.6770157,4.4308488
+3611159168,node,Monument aux morts,memorial,Nîmes,,,,43.9412351,4.6821667
+3662667502,node,,artwork,Nîmes,,,,43.8385892,4.3537987
+3662667503,node,,artwork,Nîmes,,,,43.8385765,4.353668
+3662694825,node,Némausa,artwork,Nîmes,,,,43.8391577,4.3532496
 3664218519,node,La Cérière,restaurant,Nîmes,,,,43.9389213,4.5629817
 3664223245,node,Lou Cigalon,restaurant,Nîmes,,,,43.9388988,4.5622027
+3667652699,node,,memorial,Nîmes,,,,43.9621723,4.2111179
+3667654000,node,,memorial,Nîmes,,,,43.9475683,4.2157032
+3668795534,node,,viewpoint,Nîmes,,,,43.8041224,4.1808779
+3677741703,node,Un siècle de roulottes,museum,Nîmes,,,https://www.unsieclederoulottes.com/,44.0526184,4.445757
 3680900778,node,Les Délices du Liban,restaurant,Nîmes,,,,43.782937,4.0894011
 3687859954,node,Tout Simplement,restaurant,Nîmes,1 Impasse du Château,,,44.0205717,4.5037343
 3688273747,node,L'Entr'Act,restaurant,Nîmes,"134 Avenue de Bernis, 30240, Le Grau-du-Roi",30240,,43.5435094,4.1309419
+3693331978,node,Musée du Chemin de Fer de Nîmes,museum,Nîmes,"97 Rue Pierre Semard, 30000, Nîmes",30000,https://www.museeduchemindeferdenimes.fr,43.8420937,4.3733994
 3711691104,node,La Dolce Vita,restaurant,Nîmes,"Rue de l'Oratoire, 30650, saze",30650,https://www.facebook.com/dolcevitasaze?fref=ts,43.9406783,4.6812122
 3712547269,node,La Palmeraie,restaurant,Nîmes,,,,43.5343534,4.1387219
 3715857002,node,Kenavo Crêperie,restaurant,Nîmes,,,,43.743736,4.220697
@@ -231,33 +418,67 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3729447191,node,Le Mas des Sables,hotel,Nîmes,,,,43.5862017,4.1974739
 3733301565,node,La Mama,restaurant,Nîmes,,,,43.5194728,4.1329967
 3733301566,node,Le Bistrot du Port,restaurant,Nîmes,,,,43.5193021,4.1327914
+3734609501,node,Les Jardins de l'Abbaye,attraction,Nîmes,,,,43.9664167,4.8018183
 3737706052,node,El Patio,restaurant,Nîmes,,,,43.964298,4.7969898
+3742506380,node,,viewpoint,Nîmes,,,,43.8271306,4.3267934
+3742895837,node,,viewpoint,Nîmes,,,,43.9612135,4.7971417
 3751991490,node,Ristorante La Toscane,restaurant,Nîmes,"159 Rue de la Mairie, 30920, Codognan",30920,https://latoscanepizza.fr/ristorante/,43.7311627,4.2192603
 3761503478,node,Le Cheval Blanc,restaurant,Nîmes,,,,43.7555252,4.2664977
 3762699398,node,Le Diable ô thym,restaurant,Nîmes,"6 Quai Lapérouse, 30240, Le Grau du Roi",30240,,43.520134,4.1343703
+3764808256,node,,ruins,Nîmes,,,,43.7941134,4.2217118
 3767475624,node,,restaurant,Nîmes,,,,43.527123,4.1419383
+3767475627,node,,artwork,Nîmes,,,,43.5271486,4.1411016
+3767475628,node,,artwork,Nîmes,,,,43.5271548,4.1411111
+3767475642,node,,artwork,Nîmes,,,,43.5272703,4.1411518
+3767475645,node,,artwork,Nîmes,,,,43.5273025,4.1411543
+3767475648,node,,artwork,Nîmes,,,,43.5273164,4.1411627
+3767475649,node,,artwork,Nîmes,,,,43.5273221,4.1411833
 3769027589,node,La Désirade,restaurant,Nîmes,,,,43.5268972,4.1391156
+3770563144,node,,attraction,Nîmes,,,,43.521495,4.1329187
+3778245095,node,Musée Albert-André,museum,Nîmes,"Hôtel de Ville Place Auguste Mallet, 30200, Bagnols-sur-Cèze",30200,https://www.bagnolssurceze.fr/vie-culturelle/musee-albert-andre/,44.161967,4.6203249
 3811341654,node,Marin'Air,restaurant,Nîmes,,,,43.5344225,4.1368109
 3811341857,node,Chez Coco & Co,restaurant,Nîmes,"1 Quai Colbert, 30240, Le Grau-du-Roi",30240,,43.5355749,4.1347349
 3811341860,node,Les Pieds dans l'Eau,restaurant,Nîmes,,,,43.5329628,4.1385166
 3811342208,node,La Trattoria,restaurant,Nîmes,,,,43.5345065,4.1372759
 3821103586,node,Le Castelas,restaurant,Nîmes,,,,43.900568,4.1029901
+3824746101,node,,monument,Nîmes,,,,44.0111939,4.7032656
 3842712919,node,La Bégude Poulon,restaurant,Nîmes,,,,43.9601839,4.5185343
+3858607138,node,,viewpoint,Nîmes,,,,43.7831332,4.0916141
 3921824905,node,Brasserie du Commerce,restaurant,Nîmes,,,,44.2157922,4.4689404
 3921830377,node,La Galantine,restaurant,Nîmes,,,,44.2144695,4.4677094
 3921850334,node,Le Plan d'Eau,restaurant,Nîmes,"Avenue du Lavoir, 30630, Goudargues",30630,,44.2148559,4.4704479
 3921851849,node,Chez Marianne,restaurant,Nîmes,,,,44.2154289,4.4695359
 3921852348,node,Grain de Soleil,restaurant,Nîmes,"16 Avenue de l'Ecluse, 30630, Goudargues",30630,https://www.restaurantlegraindesoleil.fr/,44.2149445,4.4698953
 3921860182,node,Le Mûrier,restaurant,Nîmes,,,,44.2607647,4.4206848
+3931955399,node,,memorial,Nîmes,,,,44.2912447,4.5288154
+3931989376,node,,memorial,Nîmes,,,,44.2718988,4.4803677
+3932208523,node,,memorial,Nîmes,,,,44.1518453,4.547597
+3970686080,node,graffiti,artwork,Nîmes,,,,43.8420183,4.3580847
 3984732413,node,Miyuki,restaurant,Nîmes,"Avenue de l'Europe, 30200, Bagnols-sur-Cèze",30200,,44.1659224,4.6191834
 4005753671,node,La Pataterie,restaurant,Nîmes,"145 Rue Michel Debré, 30900, Nîmes",30900,http://www.lapataterie.fr/par-ici-la-pataterie/la-pataterie-nimes,43.8141012,4.3681268
 4019678168,node,La Guinguette du Marché,restaurant,Nîmes,,,,43.5686512,4.1951072
 4019687128,node,L'Escale,restaurant,Nîmes,,,,43.568253,4.1916935
+4058474098,node,,memorial,Nîmes,,,,43.7882141,4.0969311
+4058661585,node,,artwork,Nîmes,,,,43.7891029,4.0979345
+4124497349,node,,artwork,Nîmes,,,,43.7468059,4.2232725
 4129960496,node,Fasthotel - Nimes,hotel,Nîmes,"2 Avenue de la Vistrenque, 30132, Caissargues",30132,,43.7976887,4.3834445
+4142492092,node,,memorial,Nîmes,,,,43.9037511,4.4738771
 4142492098,node,L'Enclos des Lauriers Roses,restaurant,Nîmes,,,,43.9044268,4.4706971
 4142492099,node,L'Enclos des Lauriers Roses,hotel,Nîmes,"71 Rue du 14 Juillet, 30210, Cabrières",30210,,43.9044401,4.4707342
+4154350135,node,Four à Chaux,ruins,Nîmes,,,,43.8279597,4.0421319
+4157704390,node,Erable de Montpellier,park,Nîmes,,,,43.9602082,4.7970261
+4157751115,node,Jardin botanique,park,Nîmes,,,,43.9687452,4.7941176
+4157753426,node,Jardin sec,park,Nîmes,,,,43.977124,4.7868359
+4157753677,node,Jardin sec,park,Nîmes,,,,43.9749313,4.7815734
+4157757789,node,Jardin sec,park,Nîmes,,,,43.9777231,4.7870518
+4157760133,node,Jardin sec,park,Nîmes,,,,43.9705818,4.7959306
+4157768402,node,Jardin de la Garenne,park,Nîmes,,,,43.9740116,4.7794029
+4157770888,node,Jardin sec,park,Nîmes,,,,43.9797938,4.785615
+4159082080,node,Parcours de santé,park,Nîmes,,,,44.1925913,4.7000156
+4159104694,node,Parcours de santé enfant,park,Nîmes,,,,44.1951798,4.7029231
 4160076089,node,L'Amarette,restaurant,Nîmes,"8 Avenue Jean Lasserre, 30240, Le Grau-du-Roi",30240,https://l-amarette.com/,43.5216208,4.1323143
 4179181711,node,La Reine toquée,restaurant,Nîmes,"2 Place du Château, 30820, Caveirac",30820,,43.825798,4.2608239
+4185307809,node,Mémorial de la Résistance et de la Déportation,memorial,Nîmes,,,,43.8258234,4.3536845
 4227958949,node,Le Blues Bar,restaurant,Nîmes,"5 Place du Jeu de Ballon, 30620, Bernis",30620,https://fr-fr.facebook.com/pages/category/Pizza-Place/Blues-Bar-Pizza-Bernis-914714391899315/,43.7655636,4.2876597
 4227958950,node,La Riviere Bleue,restaurant,Nîmes,,,,43.7656333,4.2877026
 4235443502,node,La Fontaine,restaurant,Nîmes,21 Place aux Herbes,,,44.0115146,4.4188998
@@ -269,40 +490,85 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4335735113,node,Ibis Nîmes Ouest,hotel,Nîmes,"268 Rue de l'Hostellerie, 30900, Nîmes",30900,https://all.accor.com/hotel/0629/index.fr.shtml,43.8140584,4.3442247
 4355106156,node,Le Saint-Gillois,hotel,Nîmes,,,,43.6739054,4.4324364
 4356999391,node,Appart'City,hotel,Nîmes,"1 Boulevard de Bruxelles, 30000, Nîmes",30000,https://www.appartcity.com/,43.8340742,4.3627333
+4424197719,node,,viewpoint,Nîmes,,,,43.8649301,4.1215742
+4424197760,node,,viewpoint,Nîmes,,,,43.8718934,4.1229421
+4439293566,node,Les Rochers Sculptés,artwork,Nîmes,,,https://ericbabaud.over-blog.com/2017/12/les-rochers-sculptes-de-st-chaptes.html,43.9754636,4.2946738
 4471778866,node,Papa Rôti,restaurant,Nîmes,,,,43.5699021,4.1881561
+4475367567,node,Statue de Fanfonne Guillierme,artwork,Nîmes,,,,43.6859483,4.20805
+4530611021,node,,viewpoint,Nîmes,,,,44.0802685,4.5526534
+4530885683,node,,viewpoint,Nîmes,,,,44.0841957,4.5400966
+4584470506,node,Capitelle,ruins,Nîmes,,,,43.8100457,4.1711932
+4585506388,node,Castellas de Belvezet,castle,Nîmes,,,,44.0830774,4.3561276
+4705192049,node,,artwork,Nîmes,,,,43.6778157,4.4297222
 4718864871,node,Tasty,restaurant,Nîmes,,,,43.8684612,4.4389365
+4757997409,node,,artwork,Nîmes,,,,43.9795964,4.4951884
+4764688725,node,Ruines de la chapelle Saint-Martin,ruins,Nîmes,,,,44.0736668,4.6375903
 4786448250,node,Naturabsolu,restaurant,Nîmes,10 Place Saint-Marc,,https://naturabsolu.fr/,43.9631661,4.7971522
+4802261119,node,Le mourre de Pitarracon,viewpoint,Nîmes,,,,43.9269975,4.6157205
+4821330523,node,,memorial,Nîmes,,,,43.9745597,4.6896568
+4831477397,node,Capitelles,ruins,Nîmes,,,,43.9143529,4.1631815
 4845594021,node,,restaurant,Nîmes,,,,43.7388715,4.1813193
 4870673509,node,,restaurant,Nîmes,,,,44.0077906,4.417713
+4885773718,node,,monument,Nîmes,,,,44.2611769,4.420776
+4885773719,node,,memorial,Nîmes,,,,44.2610559,4.4208812
 4909069290,node,Le Petit Vestric,restaurant,Nîmes,,,,43.7407812,4.2599554
 4911380521,node,I Trulli,restaurant,Nîmes,"13 Place Saint-Louis, 30220",30220,,43.5669688,4.1897949
+4913578904,node,Monument à Montcalm,memorial,Nîmes,,,https://www.vestric.fr/municipalite-vestric-candiac/vestric-candiac/le-monument-a-montcalm-et-gaston-bouzanque,43.7409019,4.2597556
+4924174429,node,,viewpoint,Nîmes,,,,43.5623716,4.1867861
 4931407762,node,Pizza Di Roma,restaurant,Nîmes,"750 Chemin des Aiguillons, 30230, Bouillargues",30230,http://www.pizza-di-roma.com,43.792375,4.4337884
 4933378078,node,,restaurant,Nîmes,,,,44.1620689,4.6177259
+4945768949,node,Domaine de Castille,castle,Nîmes,,,,43.973675,4.4981799
 4951481651,node,Barancini,restaurant,Nîmes,"2 Place Bellecroix, 30000, Nîmes",30000,,43.8386457,4.3614106
+4966720254,node,,memorial,Nîmes,,,,43.7887867,4.1226351
 4974957654,node,La Saladelle Jo et Marion,restaurant,Nîmes,"4 Rue Henri Aubanel, 30660, Gallargues-le-Montueux",30660,https://www.facebook.com/La-saladelle-2021-jo-marion-110940154407013,43.720228,4.169628
 4986809922,node,Le gardéchois,restaurant,Nîmes,,,,44.2992061,4.5668581
+4987054026,node,,viewpoint,Nîmes,,,,43.752545,4.5101145
+4991735161,node,,viewpoint,Nîmes,,,,43.5631701,4.1811985
+4991735189,node,,viewpoint,Nîmes,,,,43.5622723,4.1770247
+4991735196,node,,viewpoint,Nîmes,,,,43.5605094,4.1788563
+5002167553,node,,memorial,Nîmes,,,,43.7324994,4.219444
+5004629768,node,La Madone,artwork,Nîmes,,,,44.2985478,4.4679108
+5027129075,node,Ancienne Abbaye,ruins,Nîmes,,,https://www.pop.culture.gouv.fr/notice/merimee/PA00103205,43.6765234,4.4317484
+5030597122,node,Musée d'art contemporain,museum,Nîmes,,,https://www.carreartmusee.com/,43.8379709,4.3548178
 5041636506,node,Bambou Asia,restaurant,Nîmes,,,,43.7861974,4.1938323
+5079910191,node,,viewpoint,Nîmes,,,,44.1761158,4.6759567
+5079917621,node,,viewpoint,Nîmes,,,,44.1730169,4.6708923
+5081596707,node,,memorial,Nîmes,,,,44.2591794,4.6472573
 5095425221,node,,restaurant,Nîmes,,,,44.2199183,4.4804571
+5143544380,node,,memorial,Nîmes,,,,44.3045105,4.5547074
+5155429400,node,,memorial,Nîmes,,,,44.1665543,4.5752424
 5184858434,node,,restaurant,Nîmes,,,,44.1974444,4.656456
 5246113584,node,"Wine Bar ""Le Cheval Blanc""",restaurant,Nîmes,"1 Place des Arènes, 30000, Nîmes",30000,https://www.winebar-lechevalblanc.com/,43.8341162,4.3604852
 5250401332,node,,restaurant,Nîmes,,,,43.9778359,4.786596
+5250401336,node,Table d'orientation Tavel,viewpoint,Nîmes,,,,44.0056928,4.6643702
+5254709650,node,,viewpoint,Nîmes,,,,43.9480857,4.4807777
 5257802791,node,Le Grenier,restaurant,Nîmes,,,,44.0236906,4.7940516
 5257802793,node,Les Glycines,restaurant,Nîmes,,,,44.0233453,4.7935206
+5262328160,node,Table d'Orientation,viewpoint,Nîmes,,,,44.1066552,4.657462
+5268277568,node,,memorial,Nîmes,,,,43.8044148,4.2241506
+5298361605,node,Borne milliaire d'Antonin-le-Pieux,attraction,Nîmes,,,,43.8188524,4.473647
 5314585609,node,Da Enzo,restaurant,Nîmes,20 Avenue Général Leclerc,,,43.954933,4.7901747
 5314616058,node,Les Romarins,restaurant,Nîmes,,,,43.9575657,4.7633712
 5314616062,node,Ermitage Avignon,hotel,Nîmes,,,,43.9591518,4.7727562
 5331516321,node,Chez Coco,restaurant,Nîmes,19 Grand' Rue Jean Jaurès,,https://www.chez-coco.com,43.5674341,4.1904788
 5354363633,node,La Magnaneraie,hotel,Nîmes,37 Rue du Camp de Bataille,,,43.9661388,4.7881722
+5392480249,node,,beach,Nîmes,,,https://www.natu-rando.com/home/balade-en-canoe-au-pont-du-gard/le-gardon-sauvage/,43.9056593,4.5840405
+5396606655,node,Vinopanorama,museum,Nîmes,,,,43.7819218,4.1968457
 5401415164,node,La Cuisine du Boucher,restaurant,Nîmes,,,,44.0440382,4.4408892
 5401415165,node,Bar du Marché,restaurant,Nîmes,,,,44.0439784,4.4411279
 5409852071,node,Château de Saint-Victor,restaurant,Nîmes,,,,44.0414161,4.4839011
+5422881893,node,,memorial,Nîmes,,,,43.9117562,4.5555857
 5469780062,node,Le 7,restaurant,Nîmes,,,,43.9630788,4.7919086
+5483525881,node,Pont ancien,attraction,Nîmes,,,,43.8049171,4.6521413
+5493806813,node,,memorial,Nîmes,,,,43.821659,4.3567058
 5518880564,node,"La Viguerie, Pizzeria",restaurant,Nîmes,,,,43.5661763,4.1929333
+5528451238,node,Presta,gallery,Nîmes,,,,44.0126957,4.4190921
 5528458027,node,"La Bolee, creperie",restaurant,Nîmes,,,,44.013783,4.419705
 5531251837,node,Le Lotus d'Asie,restaurant,Nîmes,,,,43.9387321,4.5625229
 5538618192,node,Pizza du Duche,restaurant,Nîmes,"14 rue Jacques d'Uzès, 30700, Uzès",30700,https://pizzaduduche.weebly.com/,44.0129215,4.4192344
 5547242733,node,L‘École buissonière,restaurant,Nîmes,,,,44.0526138,4.7774675
 5551482756,node,A la maison,restaurant,Nîmes,,,,43.8156276,4.347378
+5599217231,node,Le Vieux Mas,attraction,Nîmes,"1352 Chemin de Beauvoir, 30300, Beaucaire",30300,https://vieux-mas.com/,43.7528844,4.5957601
 5679098882,node,Gumi Sushi,restaurant,Nîmes,,,,44.1759744,4.619631
 5688601829,node,Le Sicilien,restaurant,Nîmes,8 Avenue de Verdun,,,43.9583361,4.775071
 5688601831,node,Thaï Trucks,restaurant,Nîmes,5 Avenue de Verdun,,,43.9579538,4.775472
@@ -310,9 +576,13 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5736818030,node,La Baie d'Halong,restaurant,Nîmes,"5 Boulevard Victor Hugo, 30000, Nîmes",30000,https://www.labaiedhalongdenim.com/,43.8362874,4.3569978
 5789607824,node,Rest’O Gardon,restaurant,Nîmes,,,https://campingbellerive.fr/services-camping-bellerive-gard-30-4/,43.879802,4.5894505
 5834194238,node,Le Suite ...,restaurant,Nîmes,"223 Route des Marines, 30240, Le Grau-du-Roi",30240,,43.5141433,4.1248702
+5835825836,node,,memorial,Nîmes,,,,43.9089424,4.1953825
 5837960501,node,Chez Flore,restaurant,Nîmes,40 Boulevard des Carrières,,,43.9591006,4.7690608
 5837960509,node,La Strada,restaurant,Nîmes,,,,43.9588564,4.7561413
 5848146183,node,Farmers,restaurant,Nîmes,,,,43.8373638,4.3575755
+5861398135,node,,viewpoint,Nîmes,,,,43.6349141,4.2522749
+5861398170,node,,viewpoint,Nîmes,,,,43.6192732,4.2595848
+5865250796,node,,viewpoint,Nîmes,,,,44.1470406,4.6808951
 5888057651,node,La Locanda,restaurant,Nîmes,12,,,43.8376568,4.3565027
 5888057756,node,Largado,restaurant,Nîmes,"29 Rue de l'Horloge, 30000",30000,,43.8379042,4.3563896
 5893250514,node,Andiamo Pizza,restaurant,Nîmes,,,,44.0049952,4.7763256
@@ -322,11 +592,28 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5948498515,node,Rajput,restaurant,Nîmes,"15 Rue de la Porte de France, 30900, Nîmes",30900,,43.8343075,4.357003
 5963505308,node,L'Épicerie,restaurant,Nîmes,"Place de la République, 30300, Beaucaire",30300,,43.8079452,4.6457806
 5980936391,node,La Crêpe Savante,restaurant,Nîmes,,,,43.786102,4.1935796
+5981524433,node,,artwork,Nîmes,,,,43.8349086,4.3623599
+5981524434,node,Taureau,artwork,Nîmes,,,,43.8346371,4.3614709
+5993296179,node,Ruines du château de Sabran,castle,Nîmes,,,,44.1517541,4.5476156
+5993296180,node,Ancien château,castle,Nîmes,,,,44.0537853,4.78065
+5999839541,node,exposition photo permanente,museum,Nîmes,,,,44.1556108,4.3640879
+6002800067,node,,memorial,Nîmes,,,,43.8515614,4.1571214
 6046969611,node,Café Du Centre,restaurant,Nîmes,,,,43.6422072,4.2977403
 6050562013,node,Les Glycines,restaurant,Nîmes,"8 Avenue Geoffroy Perret, 30210, Remoulins",30210,https://www.hotelrestaurantlesglycines.com/restaurant,43.9386288,4.5601074
+6109289660,node,Optimum Loisirs,attraction,Nîmes,,,,43.7062581,4.1650875
 6123512890,node,Hôtel de la plage,hotel,Nîmes,,,,43.5352375,4.135961
 6134998043,node,Le Chalet des Vins,restaurant,Nîmes,,,,43.7482807,4.2547742
 6142577895,node,Trattoria Al Cantuccio,restaurant,Nîmes,,,,43.8101152,4.6430157
+6203892404,node,Manade Felix,attraction,Nîmes,,,https://www.camargue.fr/site/manade-felix/,43.6832373,4.1813624
+6228006285,node,Tour de l'horloge,attraction,Nîmes,"13 Place de l'Horloge, 30700",30700,,44.0453745,4.441785
+6229440185,node,Palacio del Barón de Castilla,attraction,Nîmes,Place de l'Évêché,,,44.0125933,4.4218655
+6231102885,node,La Porte des Pauses,attraction,Nîmes,,,,44.1526528,4.3648228
+6231102888,node,Le Puits,attraction,Nîmes,,,,44.1541627,4.3654098
+6231103085,node,Le jardin des Buis,attraction,Nîmes,,,,44.1519737,4.3665104
+6231103087,node,La Fontasse,attraction,Nîmes,,,,44.1530431,4.3671773
+6231103089,node,La Forge,attraction,Nîmes,,,,44.1534863,4.3672953
+6234334585,node,Porte de France,attraction,Nîmes,54 Rue de la Porte de France,,,43.8326738,4.3577689
+6234334785,node,Marché de Jean Jaurès,attraction,Nîmes,Avenue Jean Jaurès,,,43.8319171,4.3519268
 6303008218,node,La Jasse,restaurant,Nîmes,,,,44.0005808,4.3732466
 6303008224,node,Café Restaurant de l'Univers,restaurant,Nîmes,,,,44.0003387,4.3722971
 6331084210,node,Euro d'Asie,restaurant,Nîmes,,,,43.8142751,4.6131753
@@ -334,26 +621,55 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 6358871935,node,Château hôtel d'Arpaillargues,hotel,Nîmes,"Rue du Château, 30700, Arpaillargues",30700,https://www.chateaudarpaillargues.com/,43.9995901,4.3726914
 6404125200,node,La Table du 2,restaurant,Nîmes,"2bis Rue de la République, 30000, Nîmes",30000,https://latabledu2.com/,43.8336088,4.3594642
 6409716811,node,Le Comptoir des Halles,restaurant,Nîmes,"5 Rue Guizot, 30000, Nîmes",30000,https://m.facebook.com/pages/Le-Comptoir-Des-Halles/129459690442396,43.8391846,4.3580467
+6412726798,node,,viewpoint,Nîmes,,,,43.9485569,4.4694614
+6434265485,node,,viewpoint,Nîmes,,,,43.9460471,4.5357253
+6435618069,node,Belvédère Sud,viewpoint,Nîmes,,,,44.1176155,4.6522013
+6437218096,node,,memorial,Nîmes,,,,43.7396423,4.2006552
+6437717785,node,Belvédère Est,viewpoint,Nîmes,,,,44.1202405,4.6555824
+6437717885,node,Belvédère Nord,viewpoint,Nîmes,,,,44.1234237,4.6565436
+6448559398,node,,viewpoint,Nîmes,,,,43.7815659,4.1838646
+6448559399,node,,viewpoint,Nîmes,,,,43.7813939,4.1883733
 6467832728,node,Pizzeria du Grill,restaurant,Nîmes,,,,43.6279217,4.1920481
 6515090092,node,Les Templiers,restaurant,Nîmes,,,,43.5672621,4.1921787
+6517960602,node,,artwork,Nîmes,,,,43.8899435,4.6749374
 6525767733,node,Le Vivier,restaurant,Nîmes,,,,43.5382978,4.136944
 6525767734,node,Casa Lucho,restaurant,Nîmes,"2 Rue du Commandant Marceau, 30240, Le Grau-du-Roi",30240,,43.5377606,4.1371404
 6525767739,node,Il Gusto Italiano,restaurant,Nîmes,,,,43.5381495,4.1370164
 6547969961,node,Le Carpe Diem,restaurant,Nîmes,,,,43.7860329,4.1928788
+6551347185,node,Mas des Tourelles,museum,Nîmes,"4294 Route de Saint-Gilles, 30300",30300,,43.7940041,4.5851528
+6551360144,node,,memorial,Nîmes,,,,43.8045078,4.2510032
+6572982840,node,Oliviers Millénaires,attraction,Nîmes,,,,43.9486486,4.5351614
+6573019354,node,,viewpoint,Nîmes,,,,43.9474624,4.537121
+6573019362,node,,viewpoint,Nîmes,,,,43.9480978,4.5339555
+6573019363,node,,viewpoint,Nîmes,,,,43.9464665,4.5365512
+6589343100,node,Monument aux morts,memorial,Nîmes,,,,43.7403813,4.2590334
+6600189415,node,,memorial,Nîmes,,,,43.7576084,4.5157342
+6611606685,node,Meynes-Montfrin Old Train Station,attraction,Nîmes,,,,43.8723629,4.5763993
 6612939329,node,Restaurant la Barge,restaurant,Nîmes,,,,43.8056535,4.6435118
 6618711948,node,Café Ernest,restaurant,Nîmes,,,https://www.restaurant-le-cafe-ernest-uzes.fr/,44.0132079,4.4182601
 6631225285,node,Le Comptoir des Explorateurs,restaurant,Nîmes,"8 Rue Régale, 30000, Nîmes",30000,,43.8359655,4.3606782
+6632923877,node,Memorial,memorial,Nîmes,,,,43.7027078,4.568487
+6632961885,node,Mas de Provence,attraction,Nîmes,,,,43.7342907,4.5215931
 6651207985,node,Pizzeria des 3 piliers,restaurant,Nîmes,"143 Route de Sauve, 30900, Nîmes",30900,,43.8376659,4.3260283
+6655121136,node,Moulin de Marguerites,ruins,Nîmes,,,,43.8587934,4.4519825
 6657059054,node,La Terrasse,restaurant,Nîmes,30210,30210,https://www.pontdugard.fr/fr/restauration,43.9481066,4.5383668
+6657245348,node,,viewpoint,Nîmes,,,,43.9464653,4.5360958
 6657836375,node,La Cabrette,restaurant,Nîmes,,,,44.092711,4.594837
 6658031654,node,L'Olivier,restaurant,Nîmes,,,,44.010792,4.417658
+6679686221,node,Marché,attraction,Nîmes,,,,44.0115485,4.4161272
+6707853857,node,,viewpoint,Nîmes,,,,43.5556252,4.1205569
 6720548981,node,La Goulade café de pays,restaurant,Nîmes,Chemin des Granges,,http://lagouladecafe.fr/,44.1865311,4.3286346
+6743329710,node,Carrière romaine de Barutel,attraction,Nîmes,,,,43.8864126,4.3002532
+6749434222,node,sculpture de femme,artwork,Nîmes,,,,43.8004712,4.4290677
+6752822424,node,,memorial,Nîmes,,,,43.8009719,4.4262641
+6752853894,node,La Madone,artwork,Nîmes,,,,43.8009931,4.4265616
 6758605485,node,La part du diable,restaurant,Nîmes,"Rue Le Corbusier, 30000",30000,,43.8362798,4.4263739
 6758959577,node,Wasabi,restaurant,Nîmes,,,,43.8095412,4.364261
 6759027282,node,Restaurant Jérome Nutile,restaurant,Nîmes,,,https://www.jerome-nutile.com/fr/,43.8210317,4.3712916
 6765405750,node,Empire Hotel,hotel,Nîmes,"1 Boulevard Étienne Saintenac, 30000, Nîmes",30000,,43.8404018,4.3630203
 6766223468,node,Le Pré en Bulle,restaurant,Nîmes,"88 ter Avenue Jean Jaurès, 30900, Nîmes",30900,https://www.restaurant-lepreenbulle-nimes.fr/,43.8273151,4.3527924
 6766238542,node,Ever'in,restaurant,Nîmes,"1 Place Séverine, 30000, Nîmes",30000,,43.8306801,4.3526464
+6768364333,node,Musée des Cultures Taurines,museum,Nîmes,,,,43.8338575,4.3585507
 6768586591,node,Le Mas de Ponge,hotel,Nîmes,,,,43.8702153,4.30174
 6768630106,node,Auberge de l'Eau bouillie,hotel,Nîmes,,,,43.8535096,4.3406894
 6796575896,node,Le Panier Gourmand,restaurant,Nîmes,"3 Place de Mairie, 30630, Goudargues",30630,,44.2146697,4.4681274
@@ -369,15 +685,22 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 6934442382,node,L'Imprévu,restaurant,Nîmes,"6 Place d'Assas, 30900, Nîmes",30900,https://www.l-imprevu.com/,43.8388747,4.3544092
 6943694749,node,La damant bistrot chic,restaurant,Nîmes,"2 Boulevard Gambetta, 30000, Nîmes",30000,http://www.ledamant.fr/,43.8399869,4.3567906
 6947759911,node,SKAB,restaurant,Nîmes,"7 Rue de la République, 30000, Nîmes",30000,https://www.restaurant-skab.fr,43.8331524,4.3592903
+7016578962,node,,memorial,Nîmes,,,,44.192961,4.5211704
 7022684062,node,La Bourse,restaurant,Nîmes,,,,44.1618644,4.622869
 7022684063,node,L'Atomic,restaurant,Nîmes,,,,44.1618452,4.6229897
 7022684064,node,L'Etincelle,restaurant,Nîmes,,,,44.1617942,4.6232298
 7022684065,node,Le Dap's,restaurant,Nîmes,,,,44.1617595,4.6234028
+7026719176,node,,memorial,Nîmes,,,,44.1681493,4.5991623
+7037194029,node,Calvaire,artwork,Nîmes,,,,44.0791759,4.5781767
+7043694677,node,,artwork,Nîmes,,,,44.0346978,4.6905217
 7092509177,node,L'Aventure,restaurant,Nîmes,"16 Place du Marché, 30000, Nîmes",30000,,43.8361598,4.3586796
 7092509178,node,Le D K lé,restaurant,Nîmes,,,,43.837205,4.3569639
 7092509181,node,Le Palmier,restaurant,Nîmes,"18 Place du Marché, 30000, Nîmes",30000,https://www.tripadvisor.fr/Restaurant_Review-g187154-d5865582-Reviews-Le_Palmier-Nimes_Gard_Occitanie.html,43.8361172,4.3585689
 7095806601,node,Hôtel des remparts,hotel,Nîmes,,,,43.5679497,4.1901778
+7096515953,node,,attraction,Nîmes,,,,43.9620339,4.5918607
+7101090710,node,Reliquaire de Saint-Louis,attraction,Nîmes,,,,43.5669138,4.1906409
 7195369553,node,Cafétéria La Parenthèse,restaurant,Nîmes,,,,43.818353,4.3307433
+7214503913,node,Croix du sanglier,memorial,Nîmes,,,,43.6868572,4.2318574
 7217979689,node,Grand Buffet Wok,restaurant,Nîmes,,,,43.8194581,4.3474478
 7217979690,node,Le Siècle d'Or,restaurant,Nîmes,,,,43.819015,4.3490594
 7218000669,node,Le Bistronome,restaurant,Nîmes,,,,43.8137435,4.3481234
@@ -418,21 +741,44 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 7259534344,node,Pizzeria du vieux lavoir,restaurant,Nîmes,,,,43.9109849,4.5534661
 7259895564,node,Halles Auberge,restaurant,Nîmes,"5 Rue des Halles, 30000, Nîmes",30000,,43.8393229,4.3582946
 7265603251,node,Fo Ka Croc,restaurant,Nîmes,"53 Avenue Georges Pompidou, 30000, Nîmes",30000,Facebook,43.8365732,4.3458367
+7265619519,node,Monument commémoratif départemental 1870-1871,memorial,Nîmes,,,,43.8324547,4.3621797
 7266237350,node,Le Petit Mas,restaurant,Nîmes,"25 Rue de la Madeleine, 30000",30000,https://m.facebook.com/pages/le-petit-mas-nimes/305948416147793,43.8373916,4.3576431
 7266237357,node,L'Atypique,restaurant,Nîmes,,,,43.8372827,4.3574876
+7292604962,node,,memorial,Nîmes,,,,43.6913728,4.1990013
+7340836092,node,Les Calèches de Camargue,attraction,Nîmes,"30740, Le Caillar",30740,https://www.lescalechesdecamargue.com/,43.6716472,4.2432005
 7365561106,node,La Reine toquée,restaurant,Nîmes,,,,43.8259911,4.2604563
 7388560711,node,La Petite Cuillère,restaurant,Nîmes,1 Square Dagmar Silhol,,http://cuillere-et-annexe.com/restaurant-la-petite-cuillere-villeneuve-les-avignon/,43.9635748,4.7995492
+7390043441,node,,memorial,Nîmes,,,,43.7095199,4.1958044
 7393614278,node,Pizza du Pont,restaurant,Nîmes,,,,43.8470446,4.3958026
+7394643064,node,Monument aux morts,memorial,Nîmes,,,,44.0606998,4.4775879
 7400302127,node,Chez Tata,restaurant,Nîmes,,,,43.8158952,4.3201267
 7400425427,node,Le Potager,restaurant,Nîmes,,,,43.8303017,4.3696665
 7403781862,node,La Tosca,restaurant,Nîmes,,,,43.8574715,4.4033975
+7404941274,node,Marteliere,ruins,Nîmes,,,,43.6544498,4.1949489
 7409276346,node,L'Olive Noire,restaurant,Nîmes,,,,43.831639,4.3575169
 7409276348,node,Restaurant Dao Vien,restaurant,Nîmes,"31 Rue de la République, 30000, Nîmes",30000,,43.8315248,4.3574418
+7414752380,node,,ruins,Nîmes,,,,43.8044113,4.3101988
+7426063321,node,Parc de jeu pour enfant,park,Nîmes,,,,44.1069041,4.5883071
+7456885463,node,,park,Nîmes,,,,43.7938809,4.5621397
+7500834104,node,,memorial,Nîmes,,,,43.671028,4.2090553
+7500939385,node,Morts pour la France 1939-45,memorial,Nîmes,,,,43.6856458,4.2142272
 7505661101,node,Domaine du Grand Malherbes ****,hotel,Nîmes,,,,43.6582143,4.206931
+7512373555,node,,ruins,Nîmes,,,,43.6550559,4.2495202
 7538434466,node,Flunch,restaurant,Nîmes,,,,43.8170358,4.3423017
 7539412373,node,La Cité,restaurant,Nîmes,,,,43.8308458,4.3692717
 7552243564,node,Aubais Plage,restaurant,Nîmes,,,,43.7380842,4.142528
+7554383996,node,,memorial,Nîmes,,,,43.6823029,4.2071006
+7554479794,node,,memorial,Nîmes,,,,43.6980195,4.1752401
+7554479795,node,,memorial,Nîmes,,,,43.6980346,4.1752747
+7570837270,node,Fanfonne Guillierme,memorial,Nîmes,,,,43.685984,4.2079921
+7570837274,node,La Place Montredon les Cafés,memorial,Nîmes,,,,43.685715,4.2088959
+7570837281,node,La ville neuve,memorial,Nîmes,,,,43.6840807,4.2080985
 7572019516,node,L'industrie,restaurant,Nîmes,,,,44.0606854,4.6405981
+7580324205,node,A la mémoire des gardians amateurs,memorial,Nîmes,,,,43.6356038,4.2422623
+7623515843,node,Salle Giovanni Matini,memorial,Nîmes,,,,43.6872758,4.208832
+7623515844,node,COUNMEMOURESOUN DOU CENTENARI DE LA MANADO SANTENCO,memorial,Nîmes,,,,43.6872884,4.20886
+7644283560,node,,memorial,Nîmes,,,,43.5992932,4.2087544
+7657117926,node,,castle,Nîmes,,,,43.8503639,4.1557708
 7667005893,node,Hôtel de l'Amphithéâtre,hotel,Nîmes,"4 Rue des Arènes, 30000, Nîmes",30000,,43.8358676,4.358974
 7667028944,node,Le Clos des Capitelles,hotel,Nîmes,"37 Avenue Robert de Joly, 30620, Uchaud",30620,,43.7576569,4.270154
 7670780633,node,Domaine des Clos,hotel,Nîmes,"911 Chemin du Mas de la Tour, 30300, Beaucaire",30300,,43.774579,4.5596147
@@ -443,7 +789,12 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 7688216269,node,Le Pharos,restaurant,Nîmes,"227 Route des Marines, 30240, Le Grau-du-Roi",30240,,43.5186984,4.1243487
 7710513552,node,Le Mouton Noir,restaurant,Nîmes,"30760, Issirac",,https://www.le-mouton-noir.com/,44.2699973,4.4760139
 7717368813,node,Le Pinocchio,restaurant,Nîmes,,,,43.8871,4.189337
+7724638014,node,,viewpoint,Nîmes,,,,43.7899741,4.0963919
+7731536141,node,,ruins,Nîmes,,,,44.2791522,4.4955701
 7751940785,node,La cuisine des filles,restaurant,Nîmes,,,,44.0110077,4.4187327
+7765720055,node,Château de Montcalm,castle,Nîmes,"1 Rue Marquise de Boulay, 30600, Vestric-et-Candiac",30600,https://www.pop.culture.gouv.fr/notice/merimee//PA00103295,43.7406874,4.2594417
+7781948055,node,,memorial,Nîmes,,,,43.7043954,4.2135185
+7783587289,node,Parc des Aigrettes,park,Nîmes,,,,43.6952442,4.2476682
 7784852680,node,Aux Délices de la Mer,restaurant,Nîmes,"Route des Marines, 30240, Le Grau-du-Roi",30240,https://aux-delices-de-la-mer.edan.io/,43.5139326,4.138967
 7791901654,node,Vins De Nos Pères,restaurant,Nîmes,"150 Route de Nîmes, 30900, Caissargues",30900,http://www.vinsdenosperes.com,43.801432,4.3746182
 7791905243,node,Les Aubades,restaurant,Nîmes,"182 Rue de Banloux, 30640, Beauvoisin",30640,https://www.lesaubades.fr,43.7179479,4.3273373
@@ -452,16 +803,27 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 7791987089,node,Les Olivades,restaurant,Nîmes,"1 Rue des Trois Maures, 30000, Nîmes",30000,,43.8345286,4.3581649
 7808001885,node,Nivu Niconnu,restaurant,Nîmes,,,,43.5692081,4.1900102
 7816199785,node,La Pinède,restaurant,Nîmes,"Route d'Arles, 30220",30220,,43.5823672,4.2076479
+7818069285,node,Kite beach,attraction,Nîmes,,,,43.4916906,4.1233278
+7832700906,node,,artwork,Nîmes,,,,43.8316674,4.5650138
 7844725057,node,Crêperie La Terre Est Ronde,restaurant,Nîmes,,,https://www.creperie-la-terre-est-ronde.com/,43.7541631,4.5138636
 7865562993,node,L'oasis,restaurant,Nîmes,"4 Avenue de l'Hermione, 30240, Le Grau-du-Roi",30240,,43.5194231,4.1408432
+7882070540,node,Guy WIERZ,memorial,Nîmes,,,,43.660083,4.2481056
+7883320660,node,,viewpoint,Nîmes,,,,43.5638185,4.1883834
+7934833285,node,Lavoir (1843),attraction,Nîmes,,,,44.1937438,4.5186626
 7937494185,node,Bonnaure Nadine et Marion,restaurant,Nîmes,"Lieu-dit Mas Neuf, 30580",30580,,44.150617,4.362003
 7938167385,node,Maison Gramme,restaurant,Nîmes,"Place des Marronniers, 30580",30580,https://maisongramme.fr/,44.1533739,4.3661142
+7942846009,node,La Marteliere du Vidourle,ruins,Nîmes,,,,43.6198787,4.177398
 7943164480,node,L'Esplanade,restaurant,Nîmes,,,,43.7848929,4.0876186
+7946025909,node,"Base de loisirs et d'aventure au bord du Vidourle accrobranche, canoë, jeux gonflables avec eau",attraction,Nîmes,,,,43.6385271,4.1912672
+7952097656,node,Manade de La Vidourlenque,attraction,Nîmes,,,,43.6077419,4.1894687
+7952097657,node,Manade du Courgoulier,attraction,Nîmes,,,,43.612612,4.1824409
 7986907489,node,Restaurant la Source,restaurant,Nîmes,,,,43.7670309,4.0985854
 7995162778,node,Restaurant La Canopée - Château de Pondres,restaurant,Nîmes,,,,43.8076845,4.090295
 7995765294,node,Chez Tibère,restaurant,Nîmes,,,,43.7827021,4.0876572
 7995800743,node,Bab Mansour,restaurant,Nîmes,,,,43.7844928,4.0889005
+8016887933,node,,viewpoint,Nîmes,,,,43.6201934,4.2451955
 8035899669,node,Le Mercadante,restaurant,Nîmes,"4 Boulevard Gambetta, 30000, Nîmes",30000,http://mercadante.free.fr/index.php,43.8399853,4.3569872
+8044440938,node,,ruins,Nîmes,,,,43.9044083,4.5455571
 8115290241,node,Impertor,restaurant,Nîmes,"15 Rue Gaston Boissier, 30000, Nîmes",30000,https://www.maison-albar-hotels-l-imperator.com/,43.8386128,4.3526313
 8115293210,node,Bistrot de tatie Agnès,restaurant,Nîmes,"16 Rue de la Maison Carrée, 30000",30000,https://www.facebook.com/Le-Bistrot-de-Tatie-Agn%C3%A8s-114746393549896/,43.8377383,4.3564657
 8115338211,node,Sensoriau,restaurant,Nîmes,"60 Rue de la Porte de France, 30000, Nîmes",30000,,43.8324426,4.3577467
@@ -476,39 +838,70 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 8123833958,node,Menna,restaurant,Nîmes,"7 Rue de Bernis, 30000",30000,,43.8368777,4.3582148
 8123919660,node,Le Passage,restaurant,Nîmes,"15 Rue Fresque, 30000",30000,,43.8367657,4.3584205
 8123969235,node,,restaurant,Nîmes,12 Rue Fresque,,,43.8367741,4.3581516
+8190643082,node,Frédéric Mistral,artwork,Nîmes,,,,43.693782,4.6057555
+8190985292,node,Château de Guillaume de Nogaret,ruins,Nîmes,,,,43.7817065,4.1879157
 8196347925,node,,restaurant,Nîmes,,,,44.036224,4.325237
 8197457666,node,,restaurant,Nîmes,,,,43.9670875,4.2714403
 8201219809,node,Poum and Cow,restaurant,Nîmes,"42 Avenue Carnot, 30000, Nîmes",30000,,43.8340211,4.3669337
 8201261831,node,Brasserie des Fleurs,restaurant,Nîmes,"18 Avenue Feuchères, 30000, Nîmes",30000,https://brasseriedesfleurs.wixsite.com/labrasserie,43.8325003,4.3656037
 8201325077,node,L'Unik,restaurant,Nîmes,"73 Avenue Jean Jaurès, 30900, Nîmes",30900,,43.8262072,4.3540372
+8205064600,node,Le Kiosque,artwork,Nîmes,,,,43.770316,4.1211285
 8205475715,node,Sushi One,restaurant,Nîmes,"96 Avenue Jean Jaurès, 30900, Nîmes",30900,https://www.sushionenimes.fr/,43.8264694,4.3530544
 8205494303,node,Povo,restaurant,Nîmes,"52 Bis Avenue Jean Jaurès, 30900, Nîmes",30900,https://restaurant-povo.fr/,43.8333713,4.3510171
 8212404410,node,Kyoto Sushi,restaurant,Nîmes,"6 Boulevard Amiral Courbet, 30000, Nîmes",30000,https://kyotosushi.fr/,43.837057,4.3629969
 8218575631,node,Pizza Hut,restaurant,Nîmes,,,,43.8237846,4.347995
+8218575633,node,Parc des bienfaites,park,Nîmes,,,,43.8247599,4.3490625
 8218650860,node,Chez Hubert,restaurant,Nîmes,"2 Boulevard des Arènes, 30000, Nîmes",30000,,43.8354439,4.3589891
 8218699261,node,Brasserie des Arénes,restaurant,Nîmes,"4 Boulevard des Arènes, 30000, Nîmes",30000,http://brasseriedesarenes.fr/menu.html,43.8354988,4.3590669
 8219656520,node,La Méditerranée,restaurant,Nîmes,"21 Boulevard Gambetta, 30000, Nîmes",30000,,43.8406825,4.3605545
+8225160072,node,,memorial,Nîmes,,,,43.6347615,4.2520799
 8303116280,node,Restaurant O’banel,hotel,Nîmes,"1 Rue Fanfonne Guillierme, 30660, Gallargues-le-Montueux",30660,,43.7216508,4.1710809
+8309747733,node,,viewpoint,Nîmes,,,,44.2627121,4.4013367
+8309747747,node,,viewpoint,Nîmes,,,,44.2718634,4.4803197
+8309747748,node,,viewpoint,Nîmes,,,,44.3082903,4.5518281
 8310757327,node,Le Mauricette,restaurant,Nîmes,"24 Boulevard Victor Hugo, 30000, Nîmes",30000,https://www.facebook.chttps://www.tripadvisor.fr/Restaurant_Review-g187154-d14105976-Reviews-Le_Mauricette-Nimes_Gard_Occitanie.htmlom/LeMauricette-353026788437338/,43.8362787,4.3575807
+8323646172,node,,viewpoint,Nîmes,,,,43.9364057,4.5506861
 8323980016,node,La Guinguette,restaurant,Nîmes,"2 Route d'Uzès, 30190, Dions",30190,,43.9335944,4.2962264
+8337882962,node,,memorial,Nîmes,,,,43.899062,4.0832173
+8354372956,node,,memorial,Nîmes,,,,44.2628351,4.5971333
+8354372995,node,,memorial,Nîmes,,,,44.2866143,4.564411
+8358512178,node,Jardin des Mille et une Fleurs,garden,Nîmes,,,,44.2781188,4.5563167
 8383166614,node,La Patio Littré,restaurant,Nîmes,"10 Rue Littré, 30000, Nîmes",30000,https://restaurant-patio-littre-nimes.com/,43.8389228,4.3574622
 8383260449,node,Les délices de lola,restaurant,Nîmes,"9 Rue des Fourbisseurs, 30000, Nîmes",30000,https://www.lesdelicesdelola.fr/,43.8363949,4.3613657
 8383288102,node,Le Brennus,restaurant,Nîmes,"10 Place du Marché, 30000, Nîmes",30000,https://fr-fr.facebook.com/brennus.fr/,43.8362815,4.3589429
 8383547241,node,Le Chef Raphael,restaurant,Nîmes,"25 Rue de l'Hotel-Dieu, 30900, Nîmes",30900,https://www.lechefraphael.fr/,43.8334736,4.3550669
+8391484193,node,Général de Gaulle,memorial,Nîmes,,,,43.7595366,4.2725223
+8391484200,node,,memorial,Nîmes,,,,43.7589578,4.2712869
+8418992236,node,Gustave Moynier,memorial,Nîmes,,,,43.6733016,4.2362215
 8420148418,node,Le Petit Gourmand,restaurant,Nîmes,"5 Place de la République, 30240",30240,,43.535918,4.1370503
 8420150917,node,Brasserie l'Horizon,restaurant,Nîmes,30240,30240,,43.5362675,4.1370627
 8432670132,node,Le Tamaris,restaurant,Nîmes,"13 Rue Victor Hugo, 30740, Le Cailar",30740,http://www.restaurantletamaris.com,43.6747392,4.2367845
+8464130309,node,Camargue Autrefois,attraction,Nîmes,"30740, Le Cailar",30740,,43.6673696,4.2284209
+8464398397,node,,memorial,Nîmes,,,,43.6431904,4.2436768
+8502775123,node,Saint-Eugène,ruins,Nîmes,,,,43.9893889,4.4329474
+8504788776,node,Borie,ruins,Nîmes,,,,44.1758905,4.7016315
 8506239215,node,Paseotacos,restaurant,Nîmes,,,,43.8490373,4.6298326
+8509984214,node,Lac de Vallabrègues,park,Nîmes,,,,43.8578723,4.6256553
+8531025402,node,fontanille,park,Nîmes,,,,43.8204447,4.5534018
 8541958420,node,Best Buffet,restaurant,Nîmes,385 Route de Nîmes,,,43.8164281,4.6181495
+8567829344,node,,viewpoint,Nîmes,,,,43.5419002,4.1449498
+8567829350,node,,viewpoint,Nîmes,,,,43.5528562,4.1708116
+8603310221,node,Corps à Coeurs,artwork,Nîmes,,,,43.537367,4.1402367
 8610446683,node,Le Relais du Canard,restaurant,Nîmes,,,,43.826198,4.4945674
+8614730120,node,,artwork,Nîmes,,,,43.5358615,4.1458264
+8626534679,node,,viewpoint,Nîmes,,,,43.8538715,4.3251604
+8640036019,node,Monument aux Morts,memorial,Nîmes,,,,43.5357344,4.1385561
 8656093239,node,O'BPM,restaurant,Nîmes,"1 Place des Halles, 30660, Gallargues-le-Montueux",30660,https://www.facebook.com/OBPM-Burgers-Pizzas-Music-108618873895958,43.7215541,4.1743115
+8664210673,node,Ocres de Fougerras,attraction,Nîmes,,,,43.9184158,4.2924624
 8700392363,node,Hôtel des Tuileries,hotel,Nîmes,"22 Rue Roussy, 30000, Nîmes",30000,https://www.hoteldestuileries.com/,43.8364087,4.3647566
 8714465287,node,Brasserie du Midi Café,restaurant,Nîmes,"Rue des Médards, 30240, Le Grau-du-Roi",30240,,43.540869,4.1363342
 8714494044,node,Splendid,restaurant,Nîmes,"21 Boulevard Maréchal Juin, 30240, Le Grau-du-Roi",30240,,43.5343082,4.1369609
 8714584393,node,Fidji,restaurant,Nîmes,"Rond-Point du Trident, 30240, Le Grau-du-Roi",30240,https://fidji-restaurant.business.site,43.5142298,4.1390655
 8714969184,node,Le Deck by Spinaker,restaurant,Nîmes,"Voie de la Pointe du Môle, 30240, Le Grau-du-Roi",30240,https://www.spinaker.com/le-rooftop-the-deck/le-restaurant,43.5193555,4.1358608
 8726250794,node,Appart'City,hotel,Nîmes,,,https://www.appartcity.com/fr/destinations/languedoc-roussillon/nimes/nimes.html,43.8212934,4.3643608
+8731853000,node,Espace René Cavallier,memorial,Nîmes,,,,43.7164673,4.1529815
 8733413118,node,La tomate bleue,restaurant,Nîmes,,,,44.0115734,4.4147649
+8734242915,node,,memorial,Nîmes,,,,43.9469901,4.5359074
 8735827618,node,Pizza du bois des Espeisses,restaurant,Nîmes,,,,43.8578507,4.3310623
 8749366782,node,Victoria,restaurant,Nîmes,"2 Rue Cremieux, 30000, Nîmes",30000,,43.8389648,4.3611768
 8755266298,node,La Cabane du Pêcheur,restaurant,Nîmes,"90 Rue des Iris, 30240, Le Grau-du-Roi",30240,,43.5434937,4.1316977
@@ -519,49 +912,100 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 8821623417,node,Guinguette de Franquevaux,attraction,Nîmes,,,,43.6469155,4.348688
 8829712296,node,Brasserie La Farigoule,restaurant,Nîmes,"4 Impasse de la Malautière, 30250, Sommières",30250,http://www.brasserie-la-farigoule.com,43.7806442,4.0796255
 8848151379,node,Villa Héloïse,restaurant,Nîmes,"39 Place de la Libération, 30250",30250,,43.7814657,4.0869745
+8856293137,node,2 Colonnes,ruins,Nîmes,,,,43.9377849,4.1990886
 8927626865,node,Le Gard'Manger,restaurant,Nîmes,,,http://legardmanger.fr/,43.754116,4.5137378
 8930315515,node,Oh Mamma Mia,restaurant,Nîmes,"148 Rue Jean Lauret, 30900, Nîmes",30900,,43.8095958,4.3596202
+8931101294,node,,monument,Nîmes,,,,43.6920858,4.6114329
+8931131056,node,,monument,Nîmes,,,,43.6947297,4.6098948
+8931131057,node,,memorial,Nîmes,,,,43.694826,4.6098084
+8931131058,node,,memorial,Nîmes,,,,43.6949855,4.6097159
+8931131059,node,,memorial,Nîmes,,,,43.6951269,4.6096585
+8931131060,node,,memorial,Nîmes,,,,43.6952864,4.609566
+8931131061,node,,memorial,Nîmes,,,,43.6958272,4.6093149
+8931131062,node,,memorial,Nîmes,,,,43.6960205,4.6092184
+8931131063,node,,memorial,Nîmes,,,,43.6961866,4.6091432
+8931131064,node,,memorial,Nîmes,,,,43.6963526,4.6090649
+8931131065,node,,memorial,Nîmes,,,,43.6965026,4.6089938
+8931386586,node,Le Mas d'Argelas,ruins,Nîmes,,,,43.9138106,4.2784303
+8973569882,node,Champel,ruins,Nîmes,,,,43.9469311,4.1982643
+8977191004,node,Lacombe,ruins,Nîmes,,,,43.9459634,4.2258393
+8977202763,node,Brunel,ruins,Nîmes,,,,43.9461856,4.2299098
 8983239917,node,NEKO MARU,restaurant,Nîmes,"12 Rue Jean Reboul, 30000, Nîmes",30000,https://www.nekomaru.fr/,43.8345852,4.358031
 8993576827,node,Le Restaurant des Potiers,restaurant,Nîmes,,,,44.0460559,4.4404436
 8994015317,node,Epicerie et Taverne,restaurant,Nîmes,,,,44.3031121,4.5564727
 8998251243,node,Les 3 Canards,restaurant,Nîmes,,,,44.0109619,4.4193462
+8998334517,node,,artwork,Nîmes,,,,44.3029047,4.5560795
 9006341937,node,L'Effet Mer,restaurant,Nîmes,"223 Route des Marines, 30240, Le Grau-du-Roi",30240,https://l-effet-mer.business.site,43.5136106,4.1246192
 9006341938,node,Côté Plage,restaurant,Nîmes,"223 Route des Marines, 30240, Le Grau-du-Roi",30240,,43.5138664,4.124666
 9006341939,node,Le Moaï,restaurant,Nîmes,"223 Route des Marines, 30240, Le Grau-du-Roi",30240,,43.5141481,4.1247426
+9014020917,node,La Madone,memorial,Nîmes,,,,44.0474447,4.4448992
 9017967717,node,La Maison,restaurant,Nîmes,,,,44.0792626,4.5775303
 9018427983,node,L'atelier selon Freddy,restaurant,Nîmes,Rue du Grand Montagné,,,43.9593431,4.7565831
+9022614744,node,,memorial,Nîmes,,,,43.7544466,4.409389
 9038846601,node,Marina Beach,restaurant,Nîmes,"250 Route des Marines, 30240, Le Grau-du-Roi",30240,,43.5158111,4.1233369
 9039724013,node,Le Moment,restaurant,Nîmes,"Rue du Pic Saint-Loup, 30240, Le Grau-du-Roi",30240,https://lemoment.fr,43.5484382,4.1234002
+9041250160,node,,artwork,Nîmes,,,,43.96937,4.8116305
+9041253329,node,,viewpoint,Nîmes,,,,43.9652165,4.8007236
 9043937335,node,Le Mistral,restaurant,Nîmes,,,,43.5683354,4.1948544
 9050433876,node,L'Acte 2,restaurant,Nîmes,"196 Rue de Carrière Vieille, 30190, Saint-Chaptes",30190,https://restaurantlacte2.com/,43.9669503,4.2774129
 9055745990,node,M'plage,restaurant,Nîmes,"227 Route des Marines, 30240, Le Grau-du-Roi",30240,,43.5174,4.123199
 9063773722,node,Le Grand Sud,hotel,Nîmes,"45 Quai Colbert, 30240, Le Grau-du-Roi",30240,,43.5370451,4.137335
 9064081050,node,Oh Frère de la Côte!,restaurant,Nîmes,"58 Quai du Général Charles de Gaulle, 30240, Le Grau-du-Roi",30240,,43.5379233,4.1375485
+9064319007,node,Musée du Pont du Gard,museum,Nîmes,,,https://www.pontdugard.fr/fr,43.9517545,4.5348887
+9064319010,node,Ludo,museum,Nîmes,,,,43.9522369,4.535025
 9111391114,node,Pasta Minute,restaurant,Nîmes,,,,43.7975352,4.3825106
 9134502360,node,Côté Sushi,restaurant,Nîmes,"8 Boulevard Alphonse Daudet, 30000, Nîmes",30000,https://cotesushi.com/,43.8389845,4.3554761
+9140451057,node,Sainte Catherine 1996,memorial,Nîmes,,,,43.6790881,4.2153386
+9142484237,node,Général Charles de Gaulle,artwork,Nîmes,,,,43.5357798,4.1385209
+9142555033,node,,artwork,Nîmes,,,,43.852653,4.0792952
 9154197018,node,BOSC Traiteur,restaurant,Nîmes,5 Rue des halles,,,43.8391196,4.3585898
 9160569754,node,Huitrerie Saint-Jean,restaurant,Nîmes,"8 Avenue Jean Lasserre, 30240, Le Grau-du-Roi",30240,https://www.huitrerie-st-jean.com,43.5207934,4.131786
 9160569755,node,La Provençale,restaurant,Nîmes,"8 Avenue Jean Lasserre, 30240, Le Grau-du-Roi",30240,,43.5212049,4.1325914
+9160791402,node,Manade Agnel,attraction,Nîmes,,,https://www.manadeagnel.com/,43.6443083,4.2423489
 9161083427,node,La Crêperie du Grau-du-Roi,restaurant,Nîmes,"3 Rue Étienne Bonnèze, 30240, Le Grau-du-Roi",30240,https://www.lacreperiedugrau.com,43.537035,4.1375379
 9164082118,node,Le Pt'it Mercier,restaurant,Nîmes,"Route de Bagnols, 30700",30700,,44.0236745,4.4670527
 9168344465,node,La Guinguette,restaurant,Nîmes,,,,43.5669963,4.1918583
+9168944054,node,Musée tours et remparts d‘Aigues-Mortes,museum,Nîmes,,,aigues-mortes-monument.fr,43.5680121,4.1896016
+9177748435,node,Table orientation,viewpoint,Nîmes,,,,43.8508895,4.1581649
+9177759773,node,,memorial,Nîmes,,,,43.9331403,4.1295282
 9204888598,node,Le Patio de Léa,restaurant,Nîmes,,,,43.7187549,4.3212026
 9204888599,node,Chez Malika,restaurant,Nîmes,,,https://www.chezmalika.fr/,43.7190733,4.3210192
+9207609155,node,,viewpoint,Nîmes,,,,44.1230381,4.6568605
+9207609156,node,,viewpoint,Nîmes,,,,44.1219435,4.6562415
+9207609157,node,,viewpoint,Nîmes,,,,44.1194775,4.6553517
+9207609158,node,,viewpoint,Nîmes,,,,44.1230466,4.6532714
+9218666852,node,,ruins,Nîmes,,,,43.9934933,4.3338606
 9253848989,node,The One,restaurant,Nîmes,"145 Boulevard du Sergent Triaire, 30000, Nîmes",30000,https://the-one-nimes.eatbu.com/?lang=fr,43.8295206,4.3622554
+9308315883,node,Les hommes en mouvement,artwork,Nîmes,,,,43.9798161,4.7859765
+9320328914,node,,viewpoint,Nîmes,,,,43.9526199,4.763245
+9320328915,node,,viewpoint,Nîmes,,,,43.9519414,4.7686812
 9329555293,node,La Pôse Bistrot,restaurant,Nîmes,"1121 Route de Nîmes, 30220, Aigues-Mortes",30220,https://laposebistrot.fr,43.5778973,4.1985199
 9331809101,node,Hôtel Lou Garbin,hotel,Nîmes,"210 Avenue des Jardins, 30220, Saint-Laurent-d'Aigouze",30220,https://www.lou-garbin.com,43.6323557,4.1913239
+9368258974,node,,artwork,Nîmes,,,,43.8285082,4.5618585
+9377501497,node,Manade Saint Pierre,attraction,Nîmes,,,http://www.manade-saintpierre.com/,43.6622794,4.2263817
+9377501498,node,Écurie des pommiers,attraction,Nîmes,,,https://yandallo-ecuriedespommiers.e-monsite.com/,43.6592179,4.2354684
 9377693251,node,Cha U Kao,restaurant,Nîmes,,,,43.6173776,4.2050643
 9387878182,node,Le Galion,restaurant,Nîmes,,,,43.5664052,4.1913541
 9387878183,node,La Gourmandine,restaurant,Nîmes,,,,43.5664279,4.1912801
 9472274081,node,Chez Nico,restaurant,Nîmes,,,,44.105935,4.6592712
+9486427920,node,,viewpoint,Nîmes,,,,44.0934852,4.3309441
+9486740339,node,,viewpoint,Nîmes,,,,44.0787253,4.3515947
+9500706596,node,,attraction,Nîmes,,,,44.1087067,4.4357599
+9502641217,node,,memorial,Nîmes,,,,43.7540536,4.1460303
 9507854166,node,Le Dit Vin,restaurant,Nîmes,,,http://www.restoleditvin.com/,43.5676868,4.1901218
+9545993407,node,,memorial,Nîmes,,,,43.943935,4.1710203
 9567955462,node,La Casa Di Mora,restaurant,Nîmes,"35 Rue des Anciennes Écoles, 30330, Saint-Marcel-de-Careiret",30330,,44.143643,4.4881672
+9592587783,node,,viewpoint,Nîmes,,,,43.838438,4.6099319
 9601946418,node,La Table d'Azor,restaurant,Nîmes,,,,44.1495368,4.3626551
 9606518480,node,Les Escaravats,restaurant,Nîmes,"1 Rue des Escaravats, 30210, Remoulins",30210,https://restaurant-lesescaravats.eatbu.com/,43.9400953,4.5596193
 9609207996,node,duende,restaurant,Nîmes,,,https://www.maison-albar-hotels-l-imperator.com/fr/page/restaurant-gastronomique-nimes.5196.html,43.8386344,4.3528378
 9631567805,node,Le Bistrot des Frangins,restaurant,Nîmes,"135 Avenue de la Vistrenque, 30132, Caissargues",30132,https://le-bistrot-des-frangins.business.site/,43.7965839,4.3831476
 9652592430,node,Cafet' La Pinède,restaurant,Nîmes,,,,43.8433422,4.3568382
+9654562476,node,,viewpoint,Nîmes,,,,43.6467048,4.3481879
+9671902333,node,,garden,Nîmes,,,,43.8292715,4.4865954
+9691671084,node,,memorial,Nîmes,,,,43.9680364,4.5226028
 9720922137,node,Restaurant du Lavoir,restaurant,Nîmes,,,,43.8159599,4.12414
+9733482271,node,,artwork,Nîmes,,,,43.6893483,4.2747726
 9772831758,node,A La Bonne Table,restaurant,Nîmes,,,,44.2219945,4.4624796
 9776549617,node,Barque Bleue,restaurant,Nîmes,,,,43.5358738,4.1376268
 9779398953,node,Brasserie des Arts,restaurant,Nîmes,,,,43.8083897,4.6459009
@@ -578,32 +1022,70 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 9779424286,node,Du Nord au Sud,restaurant,Nîmes,,,,43.8056351,4.6452943
 9779477780,node,Les Doctrinaires,hotel,Nîmes,,,,43.8066922,4.6402181
 9779477801,node,Le Patio fleuri,restaurant,Nîmes,,,,43.8070056,4.6384473
+9779606005,node,,viewpoint,Nîmes,,,,43.7745646,4.1352582
 9780196101,node,Oyaki,restaurant,Nîmes,,,,43.807333,4.6380088
 9780196104,node,Brasserie Les Fontêtes,restaurant,Nîmes,,,,43.8075746,4.6384828
+9780223229,node,Le cocardier Goya,artwork,Nîmes,,,,43.8095976,4.6385294
 9792224015,node,La Louisia,restaurant,Nîmes,,,,44.0576564,4.7104857
 9792224016,node,Les jardins du Tesan,restaurant,Nîmes,,,,44.0560912,4.7117249
+9816084055,node,,viewpoint,Nîmes,,,,44.3410401,4.5044043
 9816632919,node,Twenty Campus,hotel,Nîmes,,,https://www.twenty-campus.com/fr/residences/twenty-campus-nimes/,43.8313406,4.3674946
+9816775086,node,,viewpoint,Nîmes,,,,43.772743,4.1195661
 9820182890,node,Maison Comte,restaurant,Nîmes,"19 Le Portalet, 30700, Uzès",30700,,44.011206,4.4206522
 9820182891,node,La Maison d'Uzès,hotel,Nîmes,"18 Rue du Docteur Blanchard, 30700, Uzès",30700,https://www.lamaisonduzes.fr/,44.0127969,4.4211537
 9841456752,node,Pizza Roll,restaurant,Nîmes,,,,43.9781198,4.787916
 9873202431,node,Le bistrot de capuget,restaurant,Nîmes,1800 Chemin de Campuget,,,43.8006331,4.5058894
+9876950155,node,L'Homme Oiseau,artwork,Nîmes,,,,43.52185,4.1250611
 9907956885,node,Empanadas Club,restaurant,Nîmes,"11 Rue Xavier Sigalon, 30000, Nîmes",30000,https://www.empanadasclub.com/empanadas-club-nimes-restaurant-argentin,43.8392632,4.3614573
 9907956886,node,L'Esclafidou - La Table du Cap,restaurant,Nîmes,"7 Rue Xavier Sigalon, 30000, Nîmes",30000,https://www.lesclafidou-latableducap-nimes.fr/,43.839158,4.3614131
 9907956887,node,Les Magnolias,restaurant,Nîmes,,,https://www.restaurantlesmagnolias.fr/,43.8391963,4.3618658
 9908281510,node,GAMEL,restaurant,Nîmes,"8 Rue Xavier Sigalon, 30000, Nîmes",30000,,43.8390971,4.3614935
 9909381021,node,,restaurant,Nîmes,,,,43.8745716,4.4663215
+9917807151,node,,memorial,Nîmes,,,,44.0533112,4.6982162
 9934311317,node,Guinguette Cèze ô soleil,restaurant,Nîmes,"Hameau de, Monteil, 30630, Montclus",30630,,44.2744882,4.4132524
+9947732229,node,,viewpoint,Nîmes,,,,44.1983674,4.502362
+9947732242,node,,memorial,Nîmes,,,,44.2018135,4.5012846
+9947732308,node,,viewpoint,Nîmes,,,,44.1996706,4.4949144
+9947749162,node,,viewpoint,Nîmes,,,,44.1988202,4.5012519
+9947749184,node,,viewpoint,Nîmes,,,,44.198794,4.5047452
+9954720267,node,,memorial,Nîmes,,,,43.8248265,4.2622879
+9957196357,node,,viewpoint,Nîmes,,,,44.3379893,4.5036716
+9957196360,node,,viewpoint,Nîmes,,,,44.3364613,4.5002934
+9958997117,node,,viewpoint,Nîmes,,,,44.2228219,4.4642876
+9958997217,node,,viewpoint,Nîmes,,,,44.2229873,4.464218
+9959002917,node,,viewpoint,Nîmes,,,,44.2233289,4.4645314
+9997621858,node,Bateau saint Louis,attraction,Nîmes,,,,43.5415061,4.13974
+10049346905,node,,memorial,Nîmes,,,,43.7889136,4.082065
+10049346906,node,,memorial,Nîmes,,,,43.7890344,4.0819954
 10060608076,node,Les Halles Solanid,restaurant,Nîmes,,,https://halles-solanid.fr/,43.8328253,4.3663928
 10087380623,node,Lodge Club,restaurant,Nîmes,,,,43.5057465,4.1383186
 10087380625,node,L'Octopus,restaurant,Nîmes,,,,43.5095662,4.136382
 10101909703,node,Chambre d’hôtes La Maison du Mole,hotel,Nîmes,,,,43.5520065,4.1679922
+10109925996,node,,artwork,Nîmes,,,,43.5391297,4.1418494
+10109926011,node,,artwork,Nîmes,,,,43.5378647,4.1427624
+10148265060,node,,viewpoint,Nîmes,,,,43.9386172,4.4324974
+10148372994,node,,viewpoint,Nîmes,,,,43.940812,4.4270515
+10178467139,node,,memorial,Nîmes,,,,44.0920975,4.5947577
+10178807095,node,,memorial,Nîmes,,,,43.7757227,4.1645586
+10178807096,node,,memorial,Nîmes,,,,43.7755629,4.1640986
+10178807097,node,,memorial,Nîmes,,,,43.7772255,4.1616301
+10178807099,node,,memorial,Nîmes,,,,43.7768836,4.1609822
+10218536960,node,,memorial,Nîmes,,,,43.9193964,4.1978228
+10238140919,node,,memorial,Nîmes,,,,43.9459903,4.2141652
+10262966697,node,Lieutenant-Colonel Pierre Colin,memorial,Nîmes,,,,43.8575256,4.4047296
 10277704725,node,Brasserie Croix du Sud,restaurant,Nîmes,,,,43.5338241,4.1375527
 10280178885,node,La Fabrique,restaurant,Nîmes,"17 Boulevard du Maréchal Juin, 30240, Le Grau-du-Roi",30240,,43.534662,4.1365196
 10284704925,node,L'Encierro,restaurant,Nîmes,,,,43.5368714,4.137529
 10290402162,node,Ibis Kitchen Lounge,restaurant,Nîmes,,,,43.8141534,4.3441547
 10553102209,node,Bambino,restaurant,Nîmes,35 Avenue Gabriel Péri,,,43.9579062,4.7969206
+10573235773,node,Trou du loup,viewpoint,Nîmes,,,,44.0046473,4.7003864
+10609158972,node,,viewpoint,Nîmes,,,,43.5463518,4.18665
 10656048026,node,Les petites mains,restaurant,Nîmes,,,,44.0139491,4.4176665
 10681444544,node,Le Bienheureux,restaurant,Nîmes,,,,44.2274864,4.6217289
+10693102315,node,Manade Rousseau,attraction,Nîmes,,,,43.6186382,4.2021374
+10693383938,node,plaque funéraire Arthur Mabelly,memorial,Nîmes,,,,43.7483929,4.1434633
+10698012600,node,,memorial,Nîmes,,,,44.2556897,4.6509368
+10700165783,node,Aux Martyrs de la Résistance,memorial,Nîmes,,,,44.258796,4.649255
 10705125056,node,Le Bistro des Clem's,restaurant,Nîmes,"7 Avenue Gaston Doumergue, 30130, Pont-Saint-Esprit",30130,,44.2545529,4.6478809
 10712450512,node,Le patio,restaurant,Nîmes,"17 Boulevard Gambetta, 30130, Pont-Saint-Esprit",30130,,44.2572282,4.6475136
 10712948860,node,Café Le Marseillais,restaurant,Nîmes,"32 Rue des Trois Journées, 30130, Pont-Saint-Esprit",30130,https://cafe-marseillais-pont-saint-esprit.eatbu.com,44.2577914,4.6481912
@@ -612,9 +1094,17 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 10717327201,node,La Bourse,restaurant,Nîmes,"7 Place de la République, 30130, Pont-Saint-Esprit",30130,https://la-bourse.eatbu.com,44.2552272,4.648081
 10717386612,node,Istanbul Restaurant,restaurant,Nîmes,"9 Rue de la Liberté, 30130, Pont-Saint-Esprit",30130,,44.2546933,4.6490483
 10717386630,node,Plaisir & Bien-être,restaurant,Nîmes,"70 Avenue Gaston Doumergue, 30130, Pont-Saint-Esprit",30130,,44.2553656,4.647123
+10724291363,node,Pont de la Combe de Gilles,attraction,Nîmes,,,,43.9377799,4.5515541
 10724295630,node,Mas de l'Olivier,restaurant,Nîmes,"1475 Avenue Général de Gaulle, 30130, Pont-Saint-Esprit",30130,https://www.mas-olivier.com/restaurant/,44.2426469,4.6424854
+10724304110,node,Aqueduc de Nîmes,attraction,Nîmes,,,,43.9387123,4.550483
+10724304463,node,Vestige de l'aqueduc de Nîmes,ruins,Nîmes,,,,43.9366303,4.553168
+10724305244,node,Vestige de l'aqueduc de Nîmes,ruins,Nîmes,,,,43.9369358,4.5538453
+10750728899,node,,memorial,Nîmes,,,,43.6517813,4.3468231
 10754005068,node,Hill Grill,restaurant,Nîmes,"210 Route d'Aigues Vives, 30420, Calvisson",30420,,43.7583845,4.1974207
+10782586044,node,,artwork,Nîmes,,,,43.7974141,4.381813
+10800161896,node,,memorial,Nîmes,,,,43.7900441,4.2056399
 10804540655,node,Domaine Saint-Pancrace,hotel,Nîmes,,,http://www.domainepancrace-adpjuniors.com/,44.2691428,4.6263733
+10807141907,node,,memorial,Nîmes,,,,43.6926617,4.2734191
 10807990770,node,Upper Pizza,restaurant,Nîmes,,,,43.7067586,4.268319
 10807990772,node,Restaurant-brasserie Le Cartel,restaurant,Nîmes,"Avenue du Mas Saint-Laurent, 30600, Vauvert",30600,https://brasserielecartel.fr,43.7059143,4.2686845
 10811325549,node,Pizza au feu de bois,restaurant,Nîmes,,,,43.6949854,4.2739555
@@ -623,15 +1113,21 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 10881560179,node,French Touch,restaurant,Nîmes,,,,43.8552468,4.402394
 10881560180,node,Léopard,restaurant,Nîmes,,,,43.8548769,4.4020457
 10951805380,node,Le Spot,restaurant,Nîmes,,,,43.519676,4.1403146
+10961171831,node,,artwork,Nîmes,,,,43.9498444,4.782904
+10965530507,node,Le Monde de Marie,theme_park,Nîmes,,,,43.7876959,4.0834643
+10965530509,node,Chapelle des Ursulines,museum,Nîmes,,,,43.7816843,4.0917561
 10975930017,node,Les mets chantent,restaurant,Nîmes,,,,43.9522172,4.4784524
 10975949766,node,Le château,restaurant,Nîmes,,,,43.9532255,4.4762484
 10975955491,node,Le castellas,restaurant,Nîmes,,,,43.9542077,4.4761211
 10975955563,node,,restaurant,Nîmes,,,,43.956584,4.4845434
 10975970565,node,Le castellas,hotel,Nîmes,,,,43.9542041,4.4761944
+11039890411,node,Musée et Source Perrier,museum,Nîmes,,,https://www.perrier.com/fr/visitezlemusee,43.7294648,4.2417854
 11042726267,node,La Maisonnée,restaurant,Nîmes,,,,43.8375955,4.3600424
 11042741367,node,Hôtel Chouleur Margaret,hotel,Nîmes,,,https://www.margaret-hotelchouleur.com/,43.8369609,4.3580027
 11042750013,node,Léone,restaurant,Nîmes,,,,43.8385045,4.3586906
+11048009823,node,Le Musée des Lavandières,museum,Nîmes,,,,44.0923088,4.5933526
 11050827835,node,Crêperie Nationale,restaurant,Nîmes,,,,43.8077749,4.6445395
+11063194506,node,,viewpoint,Nîmes,,,,43.9738998,4.6907407
 11063194520,node,Chez Papé et Mamé,restaurant,Nîmes,,,,43.9747631,4.6911027
 11065912310,node,Boulangerie Ange,restaurant,Nîmes,,,,43.8160959,4.3478113
 11069711479,node,,restaurant,Nîmes,,,,43.6929561,4.6109069
@@ -639,30 +1135,55 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 11073935075,node,Le Vieux Grill,restaurant,Nîmes,,,,43.8212549,4.3481046
 11073939182,node,Pasta Pizza,restaurant,Nîmes,,,,43.8292283,4.3555754
 11076955682,node,Les Collègues,restaurant,Nîmes,,,,43.8231722,4.3518563
+11077344327,node,Galerie d'Art Malumaca,gallery,Nîmes,,,,43.8395281,4.354821
 11078835367,node,Italia Mia,restaurant,Nîmes,35 rue du Cirque Romain,,https://italia-mia.fr,43.8319225,4.3534381
 11078867231,node,,restaurant,Nîmes,,,,43.8354628,4.3562918
+11078871582,node,La boîte magik,gallery,Nîmes,,,,43.8377741,4.3618769
 11079112393,node,Pizza Cosy,restaurant,Nîmes,"2 Rue de la Cité Foulc, 30000",30000,https://pizzerias.pizzacosy.fr/nimes-arenes/,43.8336826,4.3599236
 11079135625,node,Le Mont Liban,restaurant,Nîmes,3 Rue de la République,,,43.8334775,4.3596638
 11079135626,node,La Jouque,restaurant,Nîmes,,,,43.8327445,4.3591436
 11084223066,node,,restaurant,Nîmes,,,,43.9745104,4.6884891
 11096720686,node,Asialoha,restaurant,Nîmes,,,,43.8323659,4.3677546
 11108016505,node,Restaurant chez ma mere,restaurant,Nîmes,,,https://m.facebook.com/profile.php/?id=100064595475678,44.1164935,4.5319045
+11109590111,node,,memorial,Nîmes,,,,44.1114746,4.4124932
 11127406045,node,L'Oyat-Plage,restaurant,Nîmes,,,,43.4808889,4.1443994
 11133408105,node,Twenty Business Flats - Résidence Hôtelière,hotel,Nîmes,,,https://www.twentybusinessflats.com/,43.8313384,4.3674938
+11156440555,node,Boule,artwork,Nîmes,,,,43.8254401,4.3349389
+11211843109,node,,memorial,Nîmes,,,,44.051359,4.527372
+11211861369,node,La Madone,artwork,Nîmes,,,,44.2378842,4.4542292
 11221889924,node,Le Soleou,restaurant,Nîmes,"2 Rue de l'Altier, 30240, Le Grau-du-Roi",30240,,43.5193,4.1314168
+11266382784,node,,viewpoint,Nîmes,,,,43.9272763,4.3405049
+11298004047,node,,ruins,Nîmes,,,,44.1230607,4.6294819
 11453700730,node,Le flores,restaurant,Nîmes,,,,43.9701766,4.591106
+11534575618,node,,memorial,Nîmes,,,,43.8759463,4.5926264
 11550061148,node,Maison Lavandet,restaurant,Nîmes,,,https://www.privadiere.fr/hotel-restaurant-gastronomique-uzes,43.9859199,4.3023805
 11576542017,node,L'Esquielle,hotel,Nîmes,"2 Rue des Faubourgs, 30190, Saint-Geniès-de-Malgoirès",30190,https://www.esquielle.fr,43.945034,4.2180931
 11576542018,node,L'Esquielle,restaurant,Nîmes,"2 Rue des Faubourgs, 30190, Saint-Geniès-de-Malgoirès",30190,https://www.esquielle.fr/a-table,43.9449966,4.2179688
 11579129227,node,Ma P'tite Pause,restaurant,Nîmes,"Imp. du Château, 30260, Saint-Clément",30260,https://www.facebook.com/MaPtitePausechezLaetitia,43.8308899,4.0278304
 11634062433,node,Salakha,restaurant,Nîmes,2 impasse du Rhône,,,43.9541507,4.7912992
+11635706256,node,,memorial,Nîmes,,,,44.0850502,4.3630684
+11662878783,node,,memorial,Nîmes,,,,44.0028688,4.7697326
+11684569169,node,La Chapelle Des Jésuites,attraction,Nîmes,,,,43.8376176,4.3619835
+11684625470,node,La Maison Boulla,attraction,Nîmes,,,,43.8403356,4.3611348
+11716786022,node,Promenade des Perrières,park,Nîmes,,,,43.9847192,4.7967626
+11822566754,node,Institut Auguste Armand,attraction,Nîmes,,,,43.6346286,4.1949629
+11872119332,node,La Madone,artwork,Nîmes,,,,44.0356214,4.4823364
+11872119333,node,,viewpoint,Nîmes,,,,44.0356801,4.4822188
+11886615181,node,,viewpoint,Nîmes,,,,43.8569684,4.3247101
 11887205786,node,Felicita,restaurant,Nîmes,"Rue Don Sauveur Paganelli, 30900, Nîmes",30900,https://felicita-nimes.eatbu.com/,43.8438139,4.3067429
+11903301609,node,Moulin de Marnade,ruins,Nîmes,,,,44.252231,4.4413412
 11916717230,node,Boem,restaurant,Nîmes,,,,43.5719682,4.1937019
 11932758298,node,Paz Día,restaurant,Nîmes,,,,43.565993,4.1890738
 11984271743,node,Dasian,restaurant,Nîmes,,,,43.8182836,4.3926602
 11985990241,node,Namasté India,restaurant,Nîmes,"6 Rue Notre-Dame, 30000, Nîmes",30000,,43.8364488,4.3641843
+11989106475,node,,artwork,Nîmes,,,,43.5455668,4.1266517
 12002703870,node,Aubergine,restaurant,Nîmes,15 Rue de la République,,,43.964129,4.7967643
+12028948741,node,,memorial,Nîmes,,,,43.9303255,4.1275737
 12051720269,node,Le 19,restaurant,Nîmes,,,,43.5364473,4.1360033
+12068260929,node,Camargue autrement,attraction,Nîmes,"1745 Route de l'Espiguette, 30240, Le Grau-du-Roi",30240,https://www.camargue-autrement.com/,43.5108377,4.1461753
+12070521409,node,Camargue autrement,attraction,Nîmes,"1745 Route de l'Espiguette, 30240, Le Grau-du-Roi",30240,https://www.camargue-autrement.com/,43.5111542,4.1463026
+12073247191,node,,memorial,Nîmes,,,,44.2152976,4.4677015
+12073370189,node,Le taureau de Camargue,artwork,Nîmes,,,,43.641061,4.1952117
 12090149785,node,L'escale,hotel,Nîmes,,,,43.5688761,4.1882186
 12091504869,node,Royal Hotel - Noemy,hotel,Nîmes,,,,43.5763759,4.1978257
 12115590517,node,,restaurant,Nîmes,,,,43.5120551,4.1467268
@@ -672,29 +1193,60 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 12140751138,node,Avant Garde,restaurant,Nîmes,,,,43.8361868,4.3594308
 12141514058,node,Rouge,restaurant,Nîmes,,,,43.8370112,4.3579665
 12144736560,node,Oustan Camargais,restaurant,Nîmes,,,,43.5664221,4.1905716
+12146161267,node,,memorial,Nîmes,,,,44.2079173,4.5296656
 12162144604,node,Le Carola,restaurant,Nîmes,,,,44.0139405,4.4201775
 12162396054,node,,restaurant,Nîmes,,,,44.0525711,4.7787802
+12180095478,node,,viewpoint,Nîmes,,,,44.0079429,4.3850059
+12180157422,node,,viewpoint,Nîmes,,,,44.0086361,4.3812726
 12187910247,node,M'imagine sushi,restaurant,Nîmes,,,,43.891027,4.6801787
 12205697570,node,Ô La Bodega,restaurant,Nîmes,,,,43.5355904,4.1359566
+12205958980,node,,viewpoint,Nîmes,,,,43.6094322,4.34917
+12207435937,node,,viewpoint,Nîmes,,,,43.6081798,4.337812
+12208769115,node,Plage naturiste de l'Espiguette,beach,Nîmes,,,,43.4774654,4.1559248
 12218961927,node,Maza,restaurant,Nîmes,,,,43.8368202,4.3632817
 12222032427,node,Le Mas des ponts d'Arles,hotel,Nîmes,"10 Avenue des Prés d'Arlac, 30300, Fourques",30300,http://www.hoteldespontsdarles.com/,43.6901743,4.6061605
+12237617909,node,,memorial,Nîmes,,,,43.7701377,4.4222907
 12270874001,node,Croquer la pie,restaurant,Nîmes,,,,43.9735253,4.5837607
+12281759101,node,,viewpoint,Nîmes,,,,43.878436,4.5968955
+12293661710,node,Table d'orientation,viewpoint,Nîmes,,,,43.831443,4.2566957
+12296123580,node,Jardin de la chapelle d'Aubarne,park,Nîmes,"Rue de l'Église d'Aubarne, 30190, Sainte-Anastasie",30190,,43.9439637,4.332665
 12309589503,node,,restaurant,Nîmes,,,,43.8899414,4.6803098
 12309603901,node,,hotel,Nîmes,,,,43.8895674,4.6806599
 12309604001,node,,hotel,Nîmes,,,,43.8899421,4.6805416
+12309912901,node,,artwork,Nîmes,,,,43.8081501,4.6460631
+12312907503,node,Aqueduc de Nîmes,ruins,Nîmes,,,,43.9912975,4.4399555
+12318735965,node,,memorial,Nîmes,,,,43.9699656,4.5544209
 12319340201,node,casa di maria - pizza et epicerie italienne,restaurant,Nîmes,,,,43.5364709,4.1375108
 12319340301,node,au vin huit - restaurant à tapas et vin,restaurant,Nîmes,,,,43.5364483,4.1374298
 12319340302,node,Le Provencal,restaurant,Nîmes,45 Rue des Combattants,,,43.536749,4.1375114
 12324050490,node,Domaine Clausel,restaurant,Nîmes,"1 Rue des Treilles, 30210, Valliguières",30210,https://www.domaineclausel.com/fr/boutique,44.0070201,4.5789112
+12343825001,node,,artwork,Nîmes,,,,43.8401232,4.3558701
+12343825101,node,,artwork,Nîmes,,,,43.8401679,4.3560567
+12348633001,node,,memorial,Nîmes,,,,44.039723,4.581045
+12348685364,node,,memorial,Nîmes,,,,44.0067682,4.5783648
+12348732322,node,,viewpoint,Nîmes,,,,43.9719712,4.5542865
+12351040136,node,,artwork,Nîmes,,,,43.9373217,4.5552709
 12351059202,node,,restaurant,Nîmes,,,,43.8761156,4.4697911
 12351675666,node,Médiéval,hotel,Nîmes,,,,43.571904,4.1934307
+12353955282,node,,memorial,Nîmes,,,,43.5687872,4.1904567
 12354124656,node,,hotel,Nîmes,,,,43.5384916,4.1350597
+12354149037,node,A nos morts d'Afrique du Nord,memorial,Nîmes,,,,43.5417517,4.1322986
 12354164312,node,,restaurant,Nîmes,,,,43.537613,4.1384532
 12453196307,node,La Ferme de l'Ausselon,restaurant,Nîmes,"75 Rue de l'Ausselon, 30600, Vauvert",30600,https://la-ferme-de-lausselon-restaurant.eatbu.com,43.6912948,4.2718468
 12453541309,node,Le Romarin,restaurant,Nîmes,"116 Avenue Maurice Privat, 30600, Vauvert",30600,,43.6902298,4.2747136
+12456508887,node,,viewpoint,Nîmes,,,,43.9756771,4.597902
+12456542051,node,Croix,attraction,Nîmes,,,,43.9778685,4.5817456
+12456834484,node,,viewpoint,Nîmes,,,,44.0104294,4.4278248
+12558623949,node,,memorial,Nîmes,,,,44.0993482,4.6767963
+12558623950,node,,memorial,Nîmes,,,,44.0992705,4.676793
+12558623951,node,,memorial,Nîmes,,,,44.0993856,4.6768781
+12558623953,node,,memorial,Nîmes,,,,44.1002956,4.656692
+12558623974,node,,memorial,Nîmes,,,,44.0956287,4.7021084
 12562405692,node,Asian Sushi,restaurant,Nîmes,"7 Rue Saint-Étienne, 30700, Uzès",30700,https://www.asiansushi88uzes.fr/,44.0110479,4.418287
+12588339584,node,Bear Galerie,gallery,Nîmes,,,https://beargalerie.com/,44.0110276,4.4200049
 12598813516,node,Autentik Pizza,restaurant,Nîmes,"4 Place Urbain Richard, 30200, Bagnols-sur-Cèze",30200,,44.1613359,4.6182427
 12601768192,node,Restaurant L'Insolit,restaurant,Nîmes,"40 Rue des Combattants, 30240, Le Grau-du-Roi",30240,,43.5367704,4.1372977
+12610912256,node,,artwork,Nîmes,,,,44.1624763,4.6228396
 12613673569,node,Antico Pizzeria,restaurant,Nîmes,"17 Rue Léon Alègre, 30200, Bagnols-sur-Cèze",30200,,44.1631848,4.6214873
 12615511485,node,Crousty,restaurant,Nîmes,"4 Place Auguste Mallet, 30200, Bagnols-sur-Cèze",30200,,44.1622791,4.6196848
 12615511491,node,Le petit creux 30,restaurant,Nîmes,"6 Rue de la République, 30200, Bagnols-sur-Cèze",30200,,44.1625158,4.6196309
@@ -702,10 +1254,25 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 12626641001,node,La Pause du Port,restaurant,Nîmes,"Quai du Canal, 30800",30800,,43.6746107,4.435381
 12628613533,node,L'Escargot,restaurant,Nîmes,,,,43.7455888,4.2058325
 12630665713,node,L'Olea,restaurant,Nîmes,"95 Route Porte de la Vaunage, 30870, Saint-Côme-et-Maréujols",30870,https://www.restaurantloleavaunage.com/,43.8238051,4.1765682
+12659511995,node,,memorial,Nîmes,,,,43.867993,4.4036793
+12696386176,node,Mas de Cheylon,park,Nîmes,"30900, Nîmes",30900,,43.8000902,4.3418658
+12709518021,node,,memorial,Nîmes,,,,43.8671658,4.4029978
+12771036028,node,,viewpoint,Nîmes,,,,44.1338384,4.6529786
+12777226302,node,Ruines de l’église Sainte-Madeleine,ruins,Nîmes,,,,44.0594414,4.6399351
+12784109901,node,Terrain de volley-ball naturiste,attraction,Nîmes,,,,43.4777555,4.1549982
+12794120747,node,,artwork,Nîmes,,,,43.8406652,4.350141
+12794120748,node,,artwork,Nîmes,,,,43.8402874,4.3500889
 12794958440,node,Le Provencal,hotel,Nîmes,,,,43.5367261,4.1375178
+12829743715,node,,park,Nîmes,,,,43.7230475,4.3212251
 12829743720,node,,restaurant,Nîmes,,,,43.7249128,4.3200991
+12829747358,node,,park,Nîmes,,,,43.7609559,4.2710381
+12829755210,node,,park,Nîmes,,,,43.7230473,4.3212126
 12829755212,node,,restaurant,Nîmes,,,,43.727584,4.3240803
+12829755213,node,,park,Nîmes,,,,43.7527496,4.3124249
+12836709010,node,,viewpoint,Nîmes,,,,43.8769683,4.4095452
+12855278740,node,,memorial,Nîmes,,,,43.9674883,4.588987
 12856967067,node,Inari Okami,restaurant,Nîmes,"5 Quai Général de Gaulle, 30300, Beaucaire",30300,https://www.inariokami.com/,43.8064638,4.639431
+12880288348,node,,museum,Nîmes,4 Rue Carnot,,,43.852521,4.6271924
 12880765489,node,Le Kashmir,restaurant,Nîmes,11 Place Jean Jaurès,,,43.9642019,4.7974357
 12880765490,node,L'Heure Bleue,restaurant,Nîmes,5 Rue de la République,,,43.9638324,4.7967986
 12880765491,node,Chez Ju,restaurant,Nîmes,9 Rue de la République,,,43.9639404,4.7967972
@@ -715,53 +1282,1251 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 12880765496,node,Le Barrel,restaurant,Nîmes,,,,43.9630552,4.7971603
 12887531590,node,Le Repaire,restaurant,Nîmes,,,,43.7999729,4.3807379
 12901837701,node,Ma Cantine,restaurant,Nîmes,22 Boulevard Gambetta,,http://www.macantine-uzes.fr,44.0132879,4.4184671
+12902574892,node,Musée municipal de la Vignasse,museum,Nîmes,,,,43.8081772,4.6427555
+12909507049,node,,viewpoint,Nîmes,,,,43.7898127,4.5566168
+12909525392,node,,memorial,Nîmes,,,,43.8156755,4.3287693
+12909546250,node,,viewpoint,Nîmes,,,,43.9266175,4.7299112
+12909709887,node,Plaque commémorative Marius BOUSQUET,memorial,Nîmes,,,,43.8372029,4.3658364
+12909714900,node,Plaque commémorative Auguste ALLIOT,memorial,Nîmes,,,,43.8384068,4.3595678
+12909826185,node,Stèle commémorative du 2 mars 1944,memorial,Nîmes,,,,43.8440126,4.4004139
 12919302196,node,Mésopota'Nîmes,restaurant,Nîmes,"87 bis Rue de la République, 30000, Nîmes",30000,https://www.mesopotanimes.com/,43.8271743,4.3540378
+12944595761,node,,memorial,Nîmes,,,,43.723221,4.3266078
+12944595775,node,,memorial,Nîmes,,,,43.7331075,4.3496193
 12987828189,node,Lunch Grill,restaurant,Nîmes,,,,44.0032952,4.7042206
+12987869094,node,,viewpoint,Nîmes,,,,43.9308883,4.3254818
 12987869844,node,L'atelier Charal,restaurant,Nîmes,,,,43.8684373,4.4390502
 12987893501,node,Via Italia,restaurant,Nîmes,,,,43.9991835,4.699675
 12987893502,node,Origin'R,restaurant,Nîmes,,,,43.9991259,4.699581
 12993914499,node,Nido,restaurant,Nîmes,"223 Route des Marines, 30240, Le Grau-du-Roi",30240,,43.5142824,4.1247492
 12998017374,node,L'Avida,restaurant,Nîmes,"6 Place Jules Ferry, 30290, Laudun",30290,https://www.facebook.com/profile.php?id=100088428690381&sk=about,44.105001,4.6558575
+13000965335,node,,viewpoint,Nîmes,,,,43.8856136,4.4898022
 13002197643,node,Résidence Orfea Nimes,hotel,Nîmes,"97 Rue Pierre Semard, 30000, Nîmes",30000,,43.8419702,4.3725523
+13004915754,node,Plage de Collias,beach,Nîmes,,,,43.9517754,4.4798475
+13031050203,node,Parc Casse Noisette,theme_park,Nîmes,,,https://www.parc-casse-noisette.com/parc-casse-noisette-ardeche/,44.294199,4.5622451
 13031856302,node,Nury,restaurant,Nîmes,,,,44.2628543,4.5975284
 13040979469,node,Le Clément IV,restaurant,Nîmes,,,,43.6742259,4.4350347
+13048344826,node,Plage naturiste du Parc des Libertés,beach,Nîmes,,,,43.9903124,4.8435465
 13057542881,node,Rive droite,restaurant,Nîmes,,,,44.3033732,4.5561035
+13061445009,node,Muséum d'histoire naturelle et de prehistoire,museum,Nîmes,"13 Boulevard Amiral Courbet, 30000, Nîmes",30000,https://www.nimes.fr/que-faire-a-nimes/culture/les-musees-le-planetarium/museum-dhistoire-naturelle-et-de-prehistoire,43.8376667,4.3625231
+13061971965,node,View Salt sea,viewpoint,Nîmes,,,,43.5484326,4.1802629
 13063234823,node,Le Bistrot,restaurant,Nîmes,28 Avenue du Pont du Gard,,,43.948742,4.5446937
+13078285974,node,,memorial,Nîmes,,,,43.7697777,4.2870769
 13081952699,node,Matsuki,restaurant,Nîmes,,,,43.8378928,4.3584265
 13090686764,node,Les Jasses de Camargue,restaurant,Nîmes,,,,43.7154892,4.181299
+13112786978,node,Helio club de l'Espiguette,beach,Nîmes,,,,43.4780612,4.1537681
+13160648783,node,,memorial,Nîmes,,,,43.8012254,4.069767
+13240841524,node,Ancien Camp de Harkis Saint Maurice l'Ardoise,memorial,Nîmes,,,https://fr.wikipedia.org/wiki/Saint-Maurice-l'Ardoise,44.0790846,4.6846124
+13250262966,node,Vierge de Bagnols-sur-Cèze,monument,Nîmes,,,,44.1615058,4.6239486
 13289001920,node,Hôtel Bar des Sports,hotel,Nîmes,"1 Rue du Chien, 30200, Bagnols-sur-Cèze",30200,,44.1648472,4.6192452
 13316177103,node,Guinguette du cochon baigneur,restaurant,Nîmes,,,,43.9789871,4.2275671
+13319298002,node,,park,Nîmes,,,,43.9975243,4.42013
 13321811001,node,Cap Mas,restaurant,Nîmes,,,,44.0513723,4.5280712
 13326161184,node,Bar des Lices,restaurant,Nîmes,"10 Avenue Paul Vaillant Couturier, 30300, Fourques",30300,,43.6930697,4.6120352
 13326217183,node,Brasserie de l'Avenir,restaurant,Nîmes,"4 Avenue Paul Vaillant-Couturier, 30300, Fourques",30300,,43.692577,4.6116263
+13342228401,node,Jardin des Sculptures,monument,Nîmes,,,,43.5195019,4.1335572
 13355858675,node,La Fourquette,restaurant,Nîmes,"1 rue Barthélémy Contestin, 30300, Fourques",30300,,43.6963445,4.6008025
+13359120875,node,,memorial,Nîmes,,,,43.7873618,4.3141562
+13359777693,node,Joseph Thome,artwork,Nîmes,,,,44.1625162,4.6208566
+13376567863,node,,viewpoint,Nîmes,,,,43.9930666,4.8076961
+13376614473,node,,viewpoint,Nîmes,,,,44.0120214,4.4356633
+13388282410,node,,artwork,Nîmes,,,,43.9502235,4.7702227
+13388282411,node,,artwork,Nîmes,,,,43.9501699,4.7701788
 13396334842,node,La Crêperie Nîmoise,restaurant,Nîmes,,,,43.8379653,4.3588811
 13439406502,node,Villa Occitana,hotel,Nîmes,,,,43.7584425,4.1993002
 13446983223,node,Via Saigon,restaurant,Nîmes,,,,43.5196956,4.1402909
 13463007753,node,Guinguette Clovis,restaurant,Nîmes,"10 Route de Saint-Étienne des Sorts, 30130, Saint-Alexandre",30130,https://www.guinguetteclovis.com/,44.2285037,4.6539512
+13464099559,node,,memorial,Nîmes,,,,44.1602534,4.6120219
+13532936648,node,Espace Rabelais – centre oenotouristique,museum,Nîmes,"Place Auguste Mallet, 30200, Bagnols-sur-Cèze",30200,,44.1619317,4.6196896
 13533747930,node,Le P’tit Eric,restaurant,Nîmes,"8 Place Auguste Mallet, 30200, Bagnols-sur-Cèze",30200,https://www.le-ptit-eric-restaurant-bagnols-sur-ceze.fr/,44.1622599,4.6197863
 13533747931,node,O’pauseto,restaurant,Nîmes,"12 Place Auguste Mallet, 30200, Bagnols-sur-Cèze",30200,,44.1622474,4.6199132
 13533747932,node,Ô pas sage,restaurant,Nîmes,"16 Place Auguste Mallet, 30200, Bagnols-sur-Cèze",30200,,44.1622277,4.6200679
 13533747933,node,LE SUD,restaurant,Nîmes,,,,44.1618141,4.620026
 13533747934,node,La Crêperie de la Place,restaurant,Nîmes,,,,44.161834,4.6199558
 13538385688,node,Moment Delice,restaurant,Nîmes,"16 Avenue Paul Langevin, 30200, Bagnols-sur-Cèze",30200,,44.164807,4.6207636
+13545215143,node,,memorial,Nîmes,,,,43.8522088,4.6000588
+13545217841,node,,memorial,Nîmes,,,,43.875798,4.5907
+13545218730,node,,memorial,Nîmes,,,,44.0790291,4.5782114
+13545219657,node,,memorial,Nîmes,,,,43.8866062,4.5612569
+13545221865,node,,memorial,Nîmes,,,,43.8313503,4.5602703
+13545228228,node,,memorial,Nîmes,,,,44.108412,4.586853
 13584149925,node,Pizza Romanza,restaurant,Nîmes,,,,43.8283531,4.5481982
+13587284011,node,,memorial,Nîmes,,,,43.570558,4.193883
+13592534905,node,Boogaloo,gallery,Nîmes,"10 Grand' Rue, 30870, Clarensac",30870,https://www.boogaloo.fr/,43.827184,4.218019
+13596020700,node,St.Simon St.Jude,memorial,Nîmes,,,,43.5416471,4.1323968
+13596131001,node,,artwork,Nîmes,,,,43.5410884,4.1332158
+13644670301,node,Statue d'angle de saint Gilles,artwork,Nîmes,,,,43.6771659,4.4318273
+13645168724,node,,artwork,Nîmes,,,,43.7539971,4.5133245
 13658399982,node,Piz'Up,restaurant,Nîmes,,,,43.8495324,4.399678
 13685054916,node,Crousty Pizza,restaurant,Nîmes,1324 Route de Courbessac,,,43.8553219,4.4001595
+13688636550,node,Atelier Galerie,gallery,Nîmes,,,,43.8363199,4.3612473
 13688797028,node,l'Olivier,restaurant,Nîmes,,,,43.8330828,4.3659429
+13697303283,node,,memorial,Nîmes,,,,44.0388429,4.6930971
+13697335859,node,,memorial,Nîmes,,,,44.0111968,4.7032533
+13697335865,node,,memorial,Nîmes,,,,44.1324062,4.6642474
+13697347076,node,,memorial,Nîmes,,,,43.953781,4.768872
+13697352576,node,,memorial,Nîmes,,,,44.1519677,4.6831106
+13697353105,node,,memorial,Nîmes,,,,44.1962439,4.6250429
+13697353203,node,,memorial,Nîmes,,,,43.9651382,4.7944848
+13697353209,node,,memorial,Nîmes,,,,44.1283946,4.698885
+13697353210,node,,memorial,Nîmes,,,,44.1984644,4.6584774
+13697357583,node,,memorial,Nîmes,,,,44.2598345,4.5247653
+13697365422,node,,memorial,Nîmes,,,,44.0022146,4.7771098
+13697365423,node,,memorial,Nîmes,,,,44.0750732,4.7532211
+13697370204,node,,memorial,Nîmes,,,,44.1877794,4.706475
+13697372334,node,,memorial,Nîmes,,,,44.2277996,4.6222439
 13698285101,node,Les Poissons d'Argent,restaurant,Nîmes,"D62 - Route de la Petite Camargue, 30220",30220,http://www.les-poissons-dargent.com,43.5632028,4.1642309
+13705504119,node,,viewpoint,Nîmes,,,,43.9660335,4.7999639
+13705568655,node,Veuglaire,attraction,Nîmes,,,,43.9668742,4.800305
+13705568656,node,Trébuchet,attraction,Nîmes,,,,43.966899,4.8005522
 13710980632,node,L'entre nous,restaurant,Nîmes,,,,43.788827,4.114665
+13712013586,node,,memorial,Nîmes,,,,43.803295,4.039473
+13712017447,node,,memorial,Nîmes,,,,43.8707524,4.2099226
+13712059936,node,,memorial,Nîmes,,,,43.8291972,4.2169015
+13712059938,node,,memorial,Nîmes,,,,43.8059163,4.2463773
+13712066401,node,,memorial,Nîmes,,,,43.7757711,4.2302973
+13712069780,node,,memorial,Nîmes,,,,43.8112828,4.1243181
 13713140542,node,La Maison de Mamillésime,restaurant,Nîmes,,,,44.2548643,4.6493703
+13716284101,node,,memorial,Nîmes,,,,43.7885894,4.1212213
 13718151101,node,Taglio di Roma,restaurant,Nîmes,,,,43.8365498,4.359642
+13737505101,node,Parc de la Roubine des Chartreux,park,Nîmes,,,,43.9690524,4.7993736
+13760435490,node,,memorial,Nîmes,,,,44.1622494,4.485963
+13760477095,node,,memorial,Nîmes,,,,44.2680226,4.5131796
+13760520335,node,,memorial,Nîmes,,,,44.2400565,4.457301
+13760526793,node,,memorial,Nîmes,,,,44.2180357,4.4859786
+13760556508,node,,memorial,Nîmes,,,,44.1685314,4.4471539
 13763247701,node,Restaurant du Saunier,restaurant,Nîmes,,,,43.5551236,4.1857884
 13763600602,node,Le Torchon qui Brule,restaurant,Nîmes,,,,43.5667628,4.192085
 13763601701,node,Chez Jeannot,restaurant,Nîmes,,,,43.5667262,4.1921934
 13763603801,node,Hôtel les Templiers,hotel,Nîmes,,,,43.5669386,4.1919503
 13763705201,node,La Goulue,restaurant,Nîmes,,,,43.5664197,4.1894097
 13763708302,node,L'Express Chez Labrousse,restaurant,Nîmes,,,,43.5667311,4.189659
+13770193696,node,,viewpoint,Nîmes,,,,43.9394728,4.4336188
+13770208336,node,,viewpoint,Nîmes,,,,43.9393246,4.4335993
+13784851501,node,Chapelle Saint Jean de Rozilhan,monument,Nîmes,,,,44.0716453,4.5896475
 13788912934,node,Le Dodo Blanc,restaurant,Nîmes,2 Rue de la Bruyère,,,43.9575547,4.7588667
+13796406578,node,,memorial,Nîmes,,,,43.9386401,4.1510264
 13798689502,node,Le Petit Gourmand,restaurant,Nîmes,"179 Avenue Général de Gaulle, 30330",30330,https://www.le-petit-gourmand.fr/,44.0932545,4.5955303
 13813336034,node,Le Babbo,restaurant,Nîmes,,,,43.8146849,4.3673037
 13825495337,node,Le Bellie,restaurant,Nîmes,10 Chemin De La Savoye,,https://www.facebook.com/lebellierestaurant/?locale=fr_fr,43.9627926,4.799831
+13842581292,node,,memorial,Nîmes,,,,44.1625331,4.6208281
+13842637360,node,,memorial,Nîmes,,,,44.0904906,4.5071822
+13842697240,node,,memorial,Nîmes,,,,44.114898,4.526258
+13842717221,node,,memorial,Nîmes,,,,44.201068,4.5445317
+13842785314,node,,memorial,Nîmes,,,,44.183357,4.5802405
 13852355254,node,Paillotte glouglou,restaurant,Nîmes,1 Place des Platanes,,https://www.facebook.com/p/Paillote-glouglou-bar-restaurant-61558102236388/,44.1048202,4.4582222
+13859935333,node,,artwork,Nîmes,,,,43.5609444,4.1058492
+13897483103,node,Le Signal,artwork,Nîmes,,,,43.8377877,4.3577421
+13897483105,node,,artwork,Nîmes,,,,43.8393149,4.3495644
+13897483115,node,,artwork,Nîmes,,,,43.8391372,4.3502218
+13897483119,node,,artwork,Nîmes,,,,43.8393504,4.3497867
 13901066624,node,La Guingette de Cornillon,restaurant,Nîmes,,,,44.2250349,4.4881946
+13912000357,node,,memorial,Nîmes,,,,44.0314104,4.375252
+13912021523,node,,memorial,Nîmes,,,,44.0088022,4.326113
+13912025539,node,,memorial,Nîmes,,,,43.9367307,4.3226465
+13912035986,node,,memorial,Nîmes,,,,44.0363975,4.3546374
+13912038109,node,,memorial,Nîmes,,,,43.9931285,4.3144664
+13912038293,node,,memorial,Nîmes,,,,44.0025299,4.2711401
+13912044563,node,,memorial,Nîmes,,,,43.9639382,4.3699733
+13912044564,node,,memorial,Nîmes,,,,43.9786288,4.1674553
+13912045087,node,,memorial,Nîmes,,,,43.9991062,4.369428
+13912045414,node,,memorial,Nîmes,,,,43.9241977,4.2645574
+13914489885,node,,memorial,Nîmes,,,,43.8589456,4.4438342
+13914580020,node,,memorial,Nîmes,,,,43.7669031,4.2886448
+13959324438,node,,memorial,Nîmes,,,,44.1876731,4.3280294
+13988313150,node,,beach,Nîmes,,,,44.1751268,4.2632463
+13994158580,node,,memorial,Nîmes,,,,43.7965038,4.378941
+13994158581,node,,memorial,Nîmes,,,,44.0176097,4.467227
+13994163719,node,,memorial,Nîmes,,,,43.8351694,4.4963183
+13994196238,node,,memorial,Nîmes,,,,44.0224392,4.5054228
+13994199537,node,,memorial,Nîmes,,,,44.1015157,4.557108
+13994203781,node,,memorial,Nîmes,,,,43.8186506,4.4660122
+13994209835,node,,memorial,Nîmes,,,,43.993509,4.4503433
+13994209855,node,,memorial,Nîmes,,,,43.6957781,4.2725514
+13994215793,node,,memorial,Nîmes,,,,44.0450499,4.4808504
+13994217617,node,,memorial,Nîmes,,,,43.87597,4.493125
+13994218521,node,,memorial,Nîmes,,,,43.8776805,4.4679855
+13994218522,node,,memorial,Nîmes,,,,43.95437,4.479275
+13994221428,node,,memorial,Nîmes,,,,43.9537317,4.4249464
+13994223850,node,,memorial,Nîmes,,,,43.7546418,4.5146434
+13997626524,node,,attraction,Nîmes,,,,44.1750888,4.2634389
+13997626525,node,,attraction,Nîmes,,,,44.1777421,4.2562643
+28823716,way,Les Jardins de la Fontaine,park,Nîmes,,,,43.8413448,4.3499847
+28823724,way,Les Jardins de la Fontaine,park,Nîmes,,,,43.8391168,4.3497726
+34428784,way,Square du Mont Margarot,park,Nîmes,,,,43.8442103,4.3576751
+34430726,way,Square de la Couronne,park,Nîmes,,,,43.8364383,4.3632181
+34433504,way,Jardin des Jonquilles,park,Nîmes,,,,43.8275763,4.3758584
+38940083,way,Square de la Bouquerie,park,Nîmes,,,,43.8401059,4.3560189
+39061360,way,,park,Nîmes,,,,43.8414916,4.3796836
+39706808,way,Hôtel Novotel Atria,hotel,Nîmes,,,,43.8354245,4.3638011
+39712777,way,Planétarium,museum,Nîmes,,,,43.8431558,4.3654294
+39712994,way,Mont Duplan,park,Nîmes,,,,43.8441459,4.3658674
+39744084,way,Hôtel Doré,hotel,Nîmes,,,,43.8405724,4.3712934
+39793670,way,Le Cheval Blanc,hotel,Nîmes,1 Place des Arènes,,,43.8341406,4.3606419
+39851187,way,Wladimir Guiu,park,Nîmes,,,,43.8484344,4.3615017
+40143794,way,Impérator Concorde,hotel,Nîmes,"Quai de la Fontaine, 30000, Nîmes",30000,,43.8385485,4.3525856
+40174617,way,Galerie Jules Salles,gallery,Nîmes,,,,43.8372478,4.3624361
+40253584,way,Musée de la Romanité,museum,Nîmes,"16 Boulevard des Arènes, 30900, Nîmes",30900,https://museedelaromanite.fr/en/,43.8337983,4.3593654
+40306812,way,L'Annexe,restaurant,Nîmes,,,,43.8177947,4.3581192
+40306813,way,Pizza Papa,restaurant,Nîmes,"Centre Nemausa, 30000, Nîmes",30000,https://www.pizzapapa.fr/,43.8179806,4.3593459
+40778052,way,Place de Villevielle,park,Nîmes,,,,43.8687074,4.4049592
+40779698,way,Place Alexandre Sirvins,park,Nîmes,,,,43.8690851,4.4020465
+40780747,way,,park,Nîmes,,,,43.8576655,4.3951196
+41739034,way,,park,Nîmes,,,,43.7548609,4.4721186
+41829082,way,Hôtel Cesar,hotel,Nîmes,"17 Avenue Feuchères, 30000, Nîmes",30000,,43.8333155,4.3656308
+41829198,way,Hôtel Abalone,hotel,Nîmes,"23 Avenue Feuchères, Nîmes",,https://www.nimes-hotel.com/,43.8331039,4.366098
+41832267,way,Musée des Beaux-Arts,museum,Nîmes,,,https://www.nimes.fr/index.php?id=279,43.8319406,4.3605789
+41833938,way,Le Petit du Guesclin,restaurant,Nîmes,"10 Place du Guesclin, 30900, Nîmes",30900,,43.8321832,4.3622436
+41853792,way,Château Fadaise,castle,Nîmes,,,,43.8358899,4.3556461
+42188656,way,,park,Nîmes,,,,43.7367304,4.1669678
+44090229,way,3 Brasseurs,restaurant,Nîmes,,,,43.8190038,4.3598107
+44090231,way,La Criée,restaurant,Nîmes,,,,43.8194766,4.3595011
+44090233,way,Hippopotamus,restaurant,Nîmes,,,,43.8198301,4.3597427
+44142227,way,Le Drop,restaurant,Nîmes,"670 Chemin du Pont des Îles, 30000, Nîmes",30000,http://www.le-drop.com/,43.8301916,4.3898757
+45114027,way,,park,Nîmes,,,,43.8516863,4.3763192
+45363949,way,Ristorante Del Arte,restaurant,Nîmes,"80 Rue Antoine Blondin, 30900, Nîmes",30900,https://www.delarte.fr/restaurant-italien-pizzeria-nimes.html;www.delarte.fr/nimes,43.8189158,4.3538588
+45427937,way,L'Eléphant Nîmes,restaurant,Nîmes,,,https://restaurant-elephant.com/,43.8135177,4.3521107
+45480844,way,Square des Marronniers,park,Nîmes,,,,44.1614128,4.6245328
+46150964,way,,park,Nîmes,,,,43.848649,4.3888409
+49286353,way,Square Georges et René Anguiviel,park,Nîmes,,,,43.8779327,4.4736153
+49641691,way,Square Saint-Jean,park,Nîmes,,,,43.7559668,4.3160137
+49876555,way,Place du Château,park,Nîmes,,,,43.686002,4.2080354
+52532735,way,Resto U' St Césaire,restaurant,Nîmes,,,,43.8207025,4.327712
+53893270,way,Square Antonin,park,Nîmes,"Square Antonin, 30000, Nîmes",30000,,43.8394356,4.355526
+61233451,way,Hôtel C-Suite,hotel,Nîmes,"152 Rue Claude Nicolas Ledoux, 30900, Nîmes",30900,,43.8153796,4.3452151
+61235836,way,Sortie 25,restaurant,Nîmes,,,,43.8106047,4.3396443
+61238385,way,Buffalo Grill,restaurant,Nîmes,"185 Rue de l'Hostellerie, 30900, Nîmes",30900,https://www.buffalo-grill.fr/restaurant/nimes,43.8134631,4.3440532
+61238555,way,Kyriad Hôtel,hotel,Nîmes,,,,43.8145244,4.3443619
+61238556,way,Grand Hôtel de Nîmes,hotel,Nîmes,,,,43.8147279,4.3458526
+61238557,way,Kyriad Hôtel,hotel,Nîmes,,,,43.814634,4.3448768
+61238558,way,Hôtel Formule 1,hotel,Nîmes,,,,43.8156601,4.3428482
+63428522,way,Château de Montpezat,castle,Nîmes,,,https://www.pop.culture.gouv.fr/notice/merimee/PA00103086,43.850413,4.1559456
+63442785,way,La Grange,restaurant,Nîmes,,,,43.8563745,4.1134932
+63510321,way,,ruins,Nîmes,,,,43.8137424,4.2643233
+63553195,way,,castle,Nîmes,,,,43.8308468,4.0277217
+63604949,way,Guinguette de Dions,restaurant,Nîmes,,,,43.9331626,4.2940426
+63605179,way,Le château des Buissières,castle,Nîmes,,,,43.9317669,4.2944088
+63605185,way,,castle,Nîmes,,,,43.9316889,4.2943843
+63609811,way,Ô64,restaurant,Nîmes,"Route de Nîmes, 30210, Pouzilhac",30210,,44.0538195,4.5712775
+63609951,way,Hôtel La Closeraie de Pouzilhac,hotel,Nîmes,"6 Route départementale 6086, 30210, Pouzilhav=c",30210,,44.037334,4.5830152
+63610008,way,Château de Pouzilhac,castle,Nîmes,,,,44.04155,4.5793567
+66033678,way,Port Camargue Plage Sud,beach,Nîmes,,,,43.5151573,4.1215829
+66097905,way,Plage du Boucanet,beach,Nîmes,,,,43.5457372,4.1179073
+66098003,way,Port Camargue Plage Nord,beach,Nîmes,,,,43.5252698,4.1342438
+66481797,way,Hôtel Quai D´Azur,hotel,Nîmes,,,,43.538176,4.1371507
+66483394,way,Bamboo Beach,restaurant,Nîmes,,,,43.5458081,4.1252773
+66484237,way,Splendid,hotel,Nîmes,"21 Boulevard Maréchal Juin, 30240, Le Grau-du-Roi",30240,,43.5343027,4.1371472
+66485462,way,Le Spinaker,hotel,Nîmes,"Voie de la Pointe du Môle, 30240, Le Grau-du-Roi",30240,https://www.spinaker.com,43.5192818,4.1357951
+66492312,way,Bon Séjour,restaurant,Nîmes,,,,43.5116919,4.1458188
+70541559,way,Ancien lavoir,ruins,Nîmes,,,,44.0892642,4.5411639
+70587813,way,Château de la Fare,castle,Nîmes,,,http://lafare.bobot.eu/,44.1145477,4.5232164
+70604662,way,Château de Boussargues,castle,Nîmes,,,,44.1411875,4.5844784
+70824953,way,Manoir de Maransan,castle,Nîmes,,,,44.17496,4.6413257
+70827839,way,,castle,Nîmes,,,,44.1587983,4.6342077
+70829416,way,Château de Signac,castle,Nîmes,,,http://www.chateau-signac.com/,44.1441969,4.6438511
+70831107,way,Tennis Club des Roquettes,restaurant,Nîmes,,,,44.1533599,4.6407533
+70833454,way,,garden,Nîmes,,,,44.1534831,4.6466915
+70835959,way,Chez Yum Snack,restaurant,Nîmes,"12 Rue Saint Victor, 30200, Bagnols-sur-Cèze",30200,https://www.chezyumsnack.fr,44.1612961,4.6218204
+71236372,way,C la Vie,restaurant,Nîmes,,,,44.129872,4.6656178
+71237267,way,Le Mas d'Orsan,hotel,Nîmes,,,,44.1307259,4.664768
+71275849,way,,castle,Nîmes,,,,44.0788079,4.5779364
+71300839,way,Château de Lascours,castle,Nîmes,,,,44.102357,4.6781754
+71319429,way,Visiatome,museum,Nîmes,,,,44.1404155,4.6938349
+71341375,way,Espace Découverte du Pont-du-Gard,museum,Nîmes,,,,43.9519728,4.5348738
+71427361,way,,ruins,Nîmes,,,,44.1963354,4.5120322
+71427618,way,Château,castle,Nîmes,,,,44.1947079,4.5178956
+73208503,way,,memorial,Nîmes,,,,44.0532053,4.7780721
+73685445,way,,castle,Nîmes,,,,44.1682149,4.4458944
+73755869,way,Hôtel Mas de l'Olivier,hotel,Nîmes,"1475 Avenue Général de Gaulle, 30130, Pont-Saint-Esprit",30130,https://www.mas-olivier.com,44.2425878,4.64272
+73758873,way,Musée d'art sacré du Gard,museum,Nîmes,"2 Rue Saint-Jacques, 30130, Pont-Saint-Esprit",30130,http://www.musees.gard.fr,44.2551848,4.6510369
+73762538,way,Citadelle,castle,Nîmes,,,,44.2589586,4.6499979
+73764141,way,Château des Bruyères,castle,Nîmes,"Route de Saint-Étienne des Sorts, 30130, Pont-Saint-Esprit",30130,http://chateaudesbruyeres.wifeo.com,44.2368521,4.6569832
+73817785,way,Château de Générac,castle,Nîmes,,,,43.7257085,4.3484378
+73819662,way,,castle,Nîmes,,,,43.7040414,4.3827784
+73820636,way,,castle,Nîmes,,,,43.703807,4.3823093
+78521432,way,,beach,Nîmes,,,,44.2890664,4.5947897
+79074051,way,Station 3,artwork,Nîmes,,,,43.9827796,4.6976121
+79074052,way,Station 15,artwork,Nîmes,,,,43.9832639,4.697195
+79074053,way,Station 13,artwork,Nîmes,,,,43.9831987,4.6974089
+79074054,way,Station 8,attraction,Nîmes,,,,43.9831094,4.6976521
+79074056,way,Station 1,artwork,Nîmes,,,,43.982622,4.6974805
+79074061,way,Station 11,attraction,Nîmes,,,,43.9827853,4.696938
+79074064,way,Station 6,artwork,Nîmes,,,,43.9826858,4.6971628
+79074065,way,Station 4,artwork,Nîmes,,,,43.982648,4.6973057
+79074069,way,Station 14,artwork,Nîmes,,,,43.9830735,4.6969751
+79074071,way,Station 9,artwork,Nîmes,,,,43.9829903,4.6973943
+79074073,way,Station 7,artwork,Nîmes,,,,43.9828881,4.6974435
+79074075,way,Station 2,artwork,Nîmes,,,,43.9828651,4.6978871
+79074077,way,Station 12,artwork,Nîmes,,,,43.9830247,4.6971535
+79074080,way,Station 10,artwork,Nîmes,,,,43.9828955,4.6971669
+79074082,way,Station 5,artwork,Nîmes,,,,43.9824764,4.6969768
+79627079,way,Bistro Régent Nîmes,restaurant,Nîmes,,,https://www.bistro-regent.fr/ou-trouver-les-bistros/,43.8174906,4.3454909
+79710941,way,Square Paul Tondut,park,Nîmes,,,,43.8439269,4.3862477
+81584807,way,Château d'Aubais,castle,Nîmes,,,https://www.pop.culture.gouv.fr/notice/merimee/PA30000015,43.7538659,4.1455271
+83077906,way,Square Marcel Chevalier,park,Nîmes,,,,44.0527338,4.6996897
+85676586,way,,ruins,Nîmes,,,,43.7636999,4.1466985
+88806649,way,Fort Saint-André,attraction,Nîmes,,,,43.9662034,4.8011142
+92260582,way,Les Cèdres,hotel,Nîmes,39 Avenue Pasteur,,,43.9605547,4.7807457
+92264339,way,Abbaye Saint-André,attraction,Nîmes,,,,43.9659111,4.8009572
+92280226,way,La Guinguette du Vieux Moulin,restaurant,Nîmes,"5 Rue du Vieux Moulin, 30400, Villeneuve-lès-Avignon",30400,http://www.guinguettevieuxmoulin.com,43.9570654,4.7961329
+92283697,way,Tour Philippe le Bel,attraction,Nîmes,,,,43.9585814,4.7976043
+92304965,way,,castle,Nîmes,,,,43.9518489,4.7644054
+92315460,way,,castle,Nîmes,,,,43.9351136,4.7442132
+104661898,way,Château d'Aramon,castle,Nîmes,,,,43.8909667,4.6812417
+107436289,way,Square des Tamaris,park,Nîmes,,,,43.7840177,4.0801665
+107474773,way,Square Henri Cabanel,garden,Nîmes,,,,43.7885534,4.1211779
+107480209,way,Château d'Aujargues,castle,Nîmes,,,,43.7859119,4.1223938
+107480918,way,La Table du Marché,restaurant,Nîmes,"5 Rue des Narcisses, 30250, Aujargues",30250,https://www.hotellegrandjardin.fr,43.7892459,4.1142014
+107481040,way,Le Grand Jardin,hotel,Nîmes,"5 Rue des Narcisses, 30250, Aujargues",30250,https://www.hotellegrandjardin.fr,43.7892474,4.1138969
+107829829,way,Mas de Christin,castle,Nîmes,,,https://www.pop.culture.gouv.fr/notice/merimee/PA00103065,43.7610203,4.1019476
+107856477,way,L'Instant,restaurant,Nîmes,,,,43.8097691,4.1200217
+111594448,way,Aqueduc de Nîmes,attraction,Nîmes,,,,43.9463096,4.5387847
+113677683,way,Mexica Parc,attraction,Nîmes,,,https://www.mexicaparc.fr,44.0657839,4.7691846
+114252998,way,,park,Nîmes,,,,43.7381499,4.1813583
+114387803,way,,castle,Nîmes,,,,43.719839,4.322106
+114998184,way,Château d'Espeyran,castle,Nîmes,,,,43.644258,4.4032785
+114999818,way,,castle,Nîmes,,,,43.6662935,4.3713135
+114999887,way,,memorial,Nîmes,,,,43.676946,4.4340945
+115218537,way,Maison de Gaston Doumergue,monument,Nîmes,,,,43.740032,4.1784105
+115604686,way,La Cave,hotel,Nîmes,,,,43.8380285,4.0628015
+115620433,way,,garden,Nîmes,,,,43.5332871,4.1379991
+115633473,way,Square Antonin Revest,park,Nîmes,,,,43.5359246,4.1386746
+115708001,way,,park,Nîmes,,,,43.5420357,4.1349439
+115726439,way,Espace Ludique Bernis,park,Nîmes,"Rue des Iris, 30240, Le Grau-du-Roi",30240,,43.5437867,4.1305776
+115826785,way,,park,Nîmes,,,,43.5286223,4.1404697
+117970527,way,Abbaye Saint-Roman,attraction,Nîmes,,,https://abbaye-saint-roman.com/,43.8352859,4.6112303
+120537413,way,La Fille des vignes,restaurant,Nîmes,"Place Albert 1er, 30700, Uzès",30700,,44.0138175,4.4192605
+120538284,way,La Fille des vignes,restaurant,Nîmes,"18 Place Albert 1er, 30700, Uzès",30700,,44.0138445,4.419355
+120538376,way,La Table d'Uzès,restaurant,Nîmes,"Place de l'Evêché, 30700, Uzès",30700,https://www.latableduzes.fr/,44.012484,4.4215275
+120538833,way,Le 80 jours,restaurant,Nîmes,,,,44.014086,4.420243
+120538992,way,Au Petit Jardin,restaurant,Nîmes,"66 Boulevard Gambetta, 30700, Uzès",30700,https://www.aupetitjardinuzes.com,44.0119801,4.4174495
+120539230,way,Terroirs,restaurant,Nîmes,,,https://www.les-terroirs-restaurant-uzes.com/,44.0120465,4.4188105
+120542614,way,Le Cercle Rouge,restaurant,Nîmes,"2 Bis Rue de l'Emeraude, 30700, Uzès",30700,https://hoteluzes.com,44.002257,4.4164065
+120543631,way,Tour du moulin du Prévôt de la cathédrale,ruins,Nîmes,,,,44.0120132,4.4250867
+120543702,way,Château Bérard,hotel,Nîmes,,,https://chateau-berard.languedoc-hotels.com/fr/,44.0022155,4.425895
+120544003,way,Hostellerie provençale,hotel,Nîmes,,,,44.0107295,4.4178515
+120544598,way,Duché,castle,Nîmes,,,,44.0129225,4.419737
+120545154,way,Au Suisse d'Alger,restaurant,Nîmes,"17 Rue de la République, 30700, Uzès",30700,,44.012503,4.418581
+120546448,way,Hôtel La Taverne,hotel,Nîmes,,,,44.013943,4.419826
+120546562,way,Ten,restaurant,Nîmes,"10 Place Dampmartin, 30700, Uzès",30700,https://www.tenuzes.com/,44.0125185,4.41893
+120546847,way,Zanelli,restaurant,Nîmes,"3 Rue Nicolas Froment, 30700, Uzès",30700,,44.0110975,4.419349
+121206869,way,Moulin de la Baume,ruins,Nîmes,,,,43.9380047,4.4319729
+128455252,way,Les Dômes,restaurant,Nîmes,"8 Rue Edmond Aldosa, 30128, Garons",30128,,43.774784,4.4246455
+128660743,way,Exposition archéologique,museum,Nîmes,,,,43.7855985,4.399368
+128740587,way,,ruins,Nîmes,,,,43.6808635,4.1721045
+128740594,way,,castle,Nîmes,,,,43.68995,4.2088895
+128742227,way,,restaurant,Nîmes,,,,43.694791,4.2038675
+128743691,way,Château de Teillan,castle,Nîmes,,,,43.659972,4.190836
+128744685,way,L'Escale,restaurant,Nîmes,"Chemin des Sarcelles, 30470, Aimargues",30470,https://www.facebook.com/EscaleBellevueEnCamargue,43.6810195,4.214067
+128744828,way,Le Mazet,restaurant,Nîmes,2 Boulevard Saint-Louis,,,43.6856275,4.2079055
+128745503,way,Maison des Traditions,attraction,Nîmes,5 Rue du Petit Bercy,,,43.687327,4.20881
+128745627,way,Ibis Budget Porte de Camargue,hotel,Nîmes,"La Petite Camargue II, 30470, Aimargues",30470,www.ibis.com,43.701679,4.192631
+129288894,way,Le Vieux Château,castle,Nîmes,,,,44.075971,4.754943
+129947462,way,La Courtille,restaurant,Nîmes,,,,44.009608,4.7027869
+129949540,way,Le Physalis Restaurant,restaurant,Nîmes,"127 Rue Frédéric Mistral, 30126, Tavel",30126,https://restaurant-lephysalis.com,44.0115387,4.7003943
+129949588,way,Trattoria Del Gusto,restaurant,Nîmes,"128 Rue Frédéric Mistral, 30126, Tavel",30126,,44.0117276,4.7004301
+130016252,way,Restaurant,restaurant,Nîmes,,,,44.0004012,4.7564172
+130055855,way,,castle,Nîmes,,,,44.0324,4.4534885
+130179315,way,Hôtel le Robinson,hotel,Nîmes,"125 E Chemin de Robinson, 30300, Beaucaire",30300,,43.8236905,4.626345
+130180731,way,Hôtel Restaurant Les Vignes Blanches,hotel,Nîmes,"67 Avenue de Farciennes, 30300, Beaucaire",30300,https://www.lesvignesblanches.com,43.813474,4.6245865
+130181273,way,Auberge de l'Amandin,restaurant,Nîmes,"1076 Chemin de la Croix de Marbre, 30300, Beaucaire",30300,https://www.auberge-lamandin.com/,43.793729,4.63482
+130183323,way,Croix couverte,monument,Nîmes,,,,43.8017355,4.633331
+130187834,way,La Grotte,restaurant,Nîmes,,,,43.8104033,4.642955
+130793029,way,Parc du Mas de l'Hôpital,park,Nîmes,,,,43.770925,4.4357827
+130794340,way,Le jardin des Argonautes,park,Nîmes,,,,43.7698463,4.4312204
+130794342,way,,park,Nîmes,,,,43.7701136,4.4325132
+130794346,way,Square de la gare,park,Nîmes,,,,43.7699967,4.429445
+130796395,way,Les jardins de la mairie,park,Nîmes,,,,43.7707776,4.4243359
+136740880,way,Hôtel Canal,hotel,Nîmes,"440 Route de Nîmes, 30220, Aigues-Mortes",30220,https://www.hotel-canal.fr,43.5728956,4.1948193
+136741012,way,Le Bistrot Paiou,restaurant,Nîmes,"1 Rue du 4 Septembre, 30220, Aigues-Mortes",30220,,43.567588,4.1901325
+136742028,way,Chez Carrière,hotel,Nîmes,"18 Rue Pasteur, 30220, Aigues-Mortes",30220,,43.566439,4.1910815
+136742148,way,Le Saint-Louis,hotel,Nîmes,10 Rue Amiral Courbet,,,43.567375,4.189557
+136746458,way,Église Notre-Dame-des-Sablons,attraction,Nîmes,,,,43.5668935,4.190525
+138624363,way,Parc des Aubrys,park,Nîmes,,,,43.7537649,4.1501294
+143771287,way,Pont du Gard,attraction,Nîmes,"400 Route du Pont du Gard, 30210, Vers-Pont-du-Gard",30210,https://www.pontdugard.fr/,43.9472542,4.5353131
+151767878,way,,park,Nîmes,,,,43.766492,4.4358731
+152210028,way,Jardin des Plantes,garden,Nîmes,,,,43.952831,4.5298505
+155318441,way,,park,Nîmes,,,,43.5851645,4.3294644
+157160090,way,Arènes de Nîmes,attraction,Nîmes,,,https://www.arenes-nimes.com/,43.8348897,4.3596213
+158749218,way,,park,Nîmes,,,,44.179603,4.4388111
+158749219,way,,park,Nîmes,,,,44.1793423,4.439252
+158783014,way,,park,Nîmes,,,,44.2106203,4.4685419
+160157832,way,,beach,Nîmes,,,,44.2480656,4.4480972
+161242114,way,,castle,Nîmes,,,,44.1724089,4.5716285
+166376902,way,Château de Boissières,castle,Nîmes,,,,43.7735233,4.2339572
+168400679,way,,park,Nîmes,,,,43.7388258,4.2323534
+168832975,way,,park,Nîmes,,,,43.7670608,4.42463
+168972331,way,Auberge du Pont Romain,hotel,Nîmes,,,,43.7805805,4.091301
+169106879,way,,park,Nîmes,,,,43.7324697,4.2401691
+170852103,way,Le Cottage,park,Nîmes,,,,43.7430559,4.2256875
+172438264,way,Bois des Enfants,park,Nîmes,,,,43.7916712,4.3926484
+178943618,way,Parc de la Mairie,park,Nîmes,,,,43.8006564,4.4251338
+180918121,way,Tour de la Madonne,attraction,Nîmes,,,,43.7525723,4.5098925
+181104801,way,Hôtel Le Lys d'Or,hotel,Nîmes,"399 Rue de la République, 30600, Vauvert",30600,https://www.hotel-vauvert.com/,43.6937665,4.2747695
+181118733,way,Le fiacre,restaurant,Nîmes,,,,43.6901515,4.2753995
+181119828,way,Le Madisson,restaurant,Nîmes,,,,43.6913565,4.275057
+181502803,way,Auberge de Gajan,restaurant,Nîmes,,,,43.9029,4.2147285
+182346989,way,,park,Nîmes,,,,43.7939121,4.3210618
+182348698,way,,park,Nîmes,,,,43.7943456,4.320771
+183198257,way,,park,Nîmes,,,,43.7973394,4.3104419
+183873931,way,Moulin,ruins,Nîmes,,,,43.7947232,4.3072081
+183873946,way,Moulin,ruins,Nîmes,,,,43.794766,4.3075306
+184206980,way,Hôtel de l'Estelou (Ancienne Gare),hotel,Nîmes,"297 Route d'Aubais, 30250, Sommières",30250,https://www.hotelestelou.fr/,43.777751,4.0931015
+184210383,way,Alegria,restaurant,Nîmes,Rue Paulin Capmal,,,43.7831985,4.0899525
+185304033,way,,beach,Nîmes,,,,44.2678426,4.4205943
+185304040,way,,beach,Nîmes,,,,44.2716319,4.4171074
+185304041,way,,beach,Nîmes,,,,44.2728295,4.4137648
+185498428,way,Aqueduc de Nîmes,attraction,Nîmes,,,,43.9399299,4.5494163
+188135822,way,,beach,Nîmes,,,,44.1904114,4.502686
+188135824,way,,beach,Nîmes,,,,44.1900641,4.4989115
+189744154,way,Chartreuse de Valbonne,attraction,Nîmes,,,,44.2404327,4.5549922
+192112490,way,,ruins,Nîmes,,,,43.906278,4.1839755
+193001249,way,Tour Magne,viewpoint,Nîmes,,,,43.8430557,4.34947
+193896214,way,Château de la Tuilerie,castle,Nîmes,,,,43.7642023,4.3813139
+196715395,way,,beach,Nîmes,,,,44.2105522,4.5101642
+196715399,way,,beach,Nîmes,,,,44.202506,4.5197736
+196715401,way,,beach,Nîmes,,,,44.2046553,4.5228811
+196715403,way,,beach,Nîmes,,,,44.2101684,4.5148728
+196715405,way,,beach,Nîmes,,,,44.1959757,4.4913672
+196715408,way,,beach,Nîmes,,,,44.1933035,4.4944302
+200821294,way,Palais Épiscopal,castle,Nîmes,,,,43.9811615,4.223628
+203764244,way,Green Park,theme_park,Nîmes,,,https://www.greenpark.ovh/,43.9676333,4.270811
+204248567,way,Château de Saze,castle,Nîmes,,,,43.9414412,4.6811931
+207242273,way,,park,Nîmes,,,,43.9804356,4.2272254
+207718446,way,,park,Nîmes,,,,43.5449494,4.1329641
+209256685,way,,viewpoint,Nîmes,,,,43.8716591,4.4048429
+216975791,way,,garden,Nîmes,,,,43.8074869,4.0930199
+217141079,way,,viewpoint,Nîmes,,,,43.871877,4.4027456
+218624390,way,,park,Nîmes,,,,43.6771958,4.43424
+219239051,way,Ancien château de Vallabrix,castle,Nîmes,,,,44.0608872,4.4798995
+219268529,way,,park,Nîmes,,,,43.8257347,4.2022146
+219639266,way,,park,Nîmes,,,,43.6823304,4.4347671
+219658769,way,Restaurant Les Amandiers,restaurant,Nîmes,"42 Rue des Amandiers, 30320, Poulx",30320,,43.9031935,4.4214485
+220519625,way,,park,Nîmes,,,,43.8087173,4.0685478
+221229245,way,,castle,Nîmes,,,,44.0304231,4.3792915
+221450876,way,La Clé,restaurant,Nîmes,"2 Route d'Uzès, 30700, Sanilhac-Sagriès",30700,,43.9539788,4.426714
+221451078,way,Château de Sanilhac,castle,Nîmes,,,,43.9546835,4.4252445
+221504594,way,Le Moulin des Artistes,restaurant,Nîmes,,,,43.9374605,4.5558655
+221504616,way,,restaurant,Nîmes,,,,43.9386415,4.562521
+221504650,way,Les Acanthes,hotel,Nîmes,,,,43.938965,4.5701465
+221504704,way,Château de Rabasse,castle,Nîmes,,,,43.9352155,4.5802485
+221505548,way,,restaurant,Nîmes,,,,43.938925,4.5621955
+221505788,way,La Bouche rit,restaurant,Nîmes,,,,43.9461987,4.5703851
+221505870,way,,restaurant,Nîmes,,,,43.9389325,4.5629915
+221506131,way,Le Jardin d'Emilie,restaurant,Nîmes,,,,43.938829,4.5594715
+221982038,way,Château de Bosc,museum,Nîmes,,,https://www.bosc-musees.fr/,43.947529,4.668067
+224427190,way,Duché,castle,Nîmes,,,,44.012949,4.4197438
+225038005,way,Hôtel O’banel,hotel,Nîmes,"1 Rue Fanfonne Guillierme, 30660, Gallargues-le-Montueux",30660,https://www.hotelrestaurant-obanel.com,43.721734,4.171036
+225041407,way,Ancienne Maison Consulaire,museum,Nîmes,"Rue de la Bonnette Rouge, 30660, Gallargues-le-Montueux",30660,https://gallargues-le-montueux.fr/fr/lieux-divers/maison-consulaire-et-musee-de-gallargues-le-montueux,43.7219385,4.173964
+225325327,way,Château de Pondres,castle,Nîmes,"2 Allée du Pigeonnier, 30250, Villevielle",30250,https://www.chateaudepondres.fr/,43.8078543,4.0902377
+225325347,way,Château de Villevieille,castle,Nîmes,"1 Rue du Château, 30250, Villevieille",30250,https://www.pop.culture.gouv.fr/notice/merimee//PA00103323,43.7897667,4.0967985
+225326764,way,Les 4 Vents,restaurant,Nîmes,,,,43.7893858,4.0963897
+231075680,way,Musée 1900,museum,Nîmes,"Chemin du Moulin, 30700, Arpaillargues",30700,https://musee1900.com/,44.0019565,4.3863561
+232943662,way,L'Entre 2 Tours,restaurant,Nîmes,"30220, Saint-Laurent-d'Aigouze",30220,,43.588462,4.2110975
+232944831,way,Mas de la Tour Carbonnière,hotel,Nîmes,,,,43.58882,4.211171
+232945070,way,Le Griffou,restaurant,Nîmes,"146 Place de la République, 30220, Saint-Laurent-d'Aigouze",30220,,43.6348195,4.195183
+232945111,way,Château de Calvières,castle,Nîmes,,,https://www.pop.culture.gouv.fr/notice/merimee//PA30000035,43.634848,4.19461
+232945258,way,Le Glacier,restaurant,Nîmes,"272 Place de la République, 30220, Saint-Laurent-d'Aigouze",30220,,43.633855,4.19515
+232946056,way,Le Grand Café,restaurant,Nîmes,"225 Place de la République, 30220, Saint-Laurent-d'Aigouze",30220,,43.633849,4.1949315
+233656757,way,Jardin des Terres du Roy,park,Nîmes,,,,44.0024784,4.7690354
+234316248,way,Moulin à Vent,attraction,Nîmes,,,,44.0074098,4.7730419
+234455571,way,Grand Cloître,garden,Nîmes,,,,43.966805,4.7981045
+234455577,way,Jardin de la Bugade,garden,Nîmes,,,,43.9671304,4.798538
+234455578,way,Jardin des Senteurs,garden,Nîmes,,,,43.9671606,4.7979798
+234455579,way,Jardin des Simples,garden,Nîmes,,,,43.9664515,4.7982156
+234455580,way,Jardin du Procureur,garden,Nîmes,,,,43.9661163,4.7978555
+234455581,way,Petit Cloître,garden,Nîmes,,,,43.9663424,4.7979165
+234455584,way,,garden,Nîmes,,,,43.9666318,4.7971358
+234455585,way,,garden,Nîmes,,,,43.9665081,4.7971177
+234455586,way,,garden,Nîmes,,,,43.9666192,4.7973061
+234455587,way,,garden,Nîmes,,,,43.9664946,4.7972882
+237429113,way,La Rose Des Vents,restaurant,Nîmes,,,,44.0548595,4.282709
+238624263,way,Pinède,park,Nîmes,,,,43.8991536,4.4215065
+238936036,way,Place du Onze Novembre,park,Nîmes,,,,43.9745588,4.6896586
+243270959,way,Fontaine Pradier,artwork,Nîmes,,,,43.8349096,4.3623562
+245502758,way,Aqueduc gallo-romain,attraction,Nîmes,,,,43.9422529,4.5453926
+248648938,way,Calvaire,attraction,Nîmes,,,,43.9833264,4.6968997
+249003371,way,Maison Carrée,museum,Nîmes,"Place de la Maison Carrée, 30000",30000,https://www.arenes-nimes.com/fr/decouverte-lieu/maison-carree,43.8381914,4.3561318
+249023783,way,Carré d'Art,gallery,Nîmes,"16 Place de la Maison Carrée, 30000",30000,,43.8380242,4.3550529
+257743667,way,Tour de Constance,attraction,Nîmes,,,http://aigues-mortes.monuments-nationaux.fr/,43.5684809,4.1897035
+257911170,way,Château du Roi René,castle,Nîmes,,,http://chateau.tarascon.fr/,43.8066474,4.6549718
+263243866,way,Jardin public Hubert Rouger,park,Nîmes,,,,43.8323,4.3523821
+268631599,way,,park,Nîmes,,,,43.9279747,4.6025898
+270341442,way,Notre-Dame du Jasset,monument,Nîmes,,,,44.1295974,4.6651342
+270341443,way,La Soleïade,restaurant,Nîmes,,,,44.1311983,4.6664231
+270348386,way,,park,Nîmes,,,,44.1305339,4.6663561
+270350111,way,Square Ribière,park,Nîmes,,,,44.1315136,4.6669238
+270353883,way,Square les Balcons de Cesar,park,Nîmes,,,,44.1348694,4.6687869
+270353885,way,Square les Balcons de Cesar,park,Nîmes,,,,44.1338076,4.6689231
+274000224,way,Ibis budget Nimes est Marguerittes,hotel,Nîmes,,,,43.8578304,4.420136
+274001018,way,F1 Nîmes Est Marguerittes,hotel,Nîmes,,,http://www.hotelf1.com/fr/hotel-2389-formule-1-hotelf1-nimes-est-marguerittes/index.shtml,43.8571049,4.4231597
+276546708,way,La Colline des Mourgues,park,Nîmes,,,,43.9607661,4.7952106
+279595794,way,,park,Nîmes,,,,43.7959159,4.3197328
+281178135,way,La Bégude St. Pierre,hotel,Nîmes,"295 Chemin des Bégudes, 30210, Vers-pont-du-gard",30210,http://www.hotel-begude-saint-pierre.com/fr/hotel-la-begude-saint-pierre-uzes-site-officiel.php,43.9581661,4.5207855
+281179310,way,Chapelle Saint-Pierre,ruins,Nîmes,Vers-Pont-du-Gard,,,43.9561544,4.5220024
+285055344,way,La Petite Gare,restaurant,Nîmes,"435 Route d'Uzès, 30210, Vers-Pont-du-Gard",30210,https://lapetitegare.net/,43.966606,4.514925
+285055528,way,,ruins,Nîmes,,,,43.9478755,4.517628
+285055970,way,,ruins,Nîmes,,,,43.94721,4.5172355
+285056626,way,,ruins,Nîmes,,,,43.947167,4.5171775
+285056788,way,,ruins,Nîmes,,,,43.9471045,4.5170885
+285057107,way,Château de Saint-Privat,castle,Nîmes,,,,43.947626,4.516947
+285057258,way,,ruins,Nîmes,,,,43.946678,4.5161595
+285058642,way,,ruins,Nîmes,,,,43.9467925,4.515823
+286081193,way,Château de Lédenon,castle,Nîmes,,,,43.9181842,4.5072827
+287069419,way,La Guinguette Du Pont De Broussant,restaurant,Nîmes,,,,43.7356462,4.4806681
+287072549,way,Musée de l'eau,museum,Nîmes,"Chemin du Mas de Rispe, 30127, Bellegarde",30127,,43.7600348,4.5070259
+287897413,way,Square Henri Aubanel,park,Nîmes,,,,43.5701066,4.1967446
+288208451,way,Place de la Pintoune,park,Nîmes,,,,44.1013301,4.5580833
+289570879,way,Park Transmed,park,Nîmes,,,,43.5180522,4.1379348
+289570931,way,,park,Nîmes,,,,43.5141864,4.1341192
+289767736,way,,park,Nîmes,,,,43.5125285,4.136704
+291336387,way,SOWELL RESIDENCES LES SABLONS,hotel,Nîmes,"1551 Route de Carnon, 30240, Le Grau-du-Roi",30240,,43.5548678,4.1034163
+291776687,way,,garden,Nîmes,,,,43.5031052,4.143009
+291776691,way,,garden,Nîmes,,,,43.5030662,4.1423634
+292049231,way,,park,Nîmes,,,,43.9654916,4.7953731
+292075285,way,,park,Nîmes,,,,43.5261997,4.1423359
+292391547,way,Café de la Fontaine,restaurant,Nîmes,Saint-Bonnet-du-Gard,,,43.9278928,4.5445912
+294544740,way,Castellas,ruins,Nîmes,,,,44.1488933,4.2770892
+295330141,way,L'Espiguette,beach,Nîmes,,,,43.4720941,4.1728519
+297701991,way,Hanoï,restaurant,Nîmes,"1 Rue Saint-Charles, 30000, Nîmes",30000,,43.8411883,4.3600491
+303877558,way,,beach,Nîmes,,,,44.1854893,4.5267896
+304148334,way,,garden,Nîmes,,,,44.0108467,4.7006475
+305959468,way,,ruins,Nîmes,,,,43.9749061,4.5103974
+305971307,way,,ruins,Nîmes,,,,43.9762948,4.5133692
+309529929,way,Square Joseph Thome,park,Nîmes,,,,44.1625528,4.6208503
+309530933,way,Jardin Marcel Pagnol,park,Nîmes,,,,44.159677,4.6216771
+309530934,way,Parc du Mont Cotton,park,Nîmes,,,,44.1582454,4.618007
+309548217,way,,park,Nîmes,,,,44.1689461,4.6140495
+309548938,way,Site de loisirs de Bourdilhan,park,Nîmes,,,,44.1524967,4.6196591
+309599974,way,,park,Nîmes,,,,44.1643457,4.6250852
+309599978,way,,park,Nîmes,,,,44.1604843,4.6174552
+309599979,way,,park,Nîmes,,,,44.1602032,4.6174567
+309599980,way,,park,Nîmes,,,,44.1639533,4.6194194
+309599981,way,,park,Nîmes,,,,44.1638112,4.6193422
+310433073,way,Camping La Plage-Gard,restaurant,Nîmes,,,https://www.campinglaplage-gard.com/nl/,44.2459027,4.4505712
+315241703,way,Pizz' Olive,restaurant,Nîmes,,,,43.853117,4.627716
+324023913,way,Maison du Castor,museum,Nîmes,,,,43.952975,4.4831805
+324024117,way,Hôtel du Gardon,hotel,Nîmes,9 Rue Campchestève,,https://www.hotel-le-gardon.com/,43.9604856,4.4675613
+324025472,way,Piro,restaurant,Nîmes,6 Rue du Barry,,https://bulledecrepes.eatbu.com/,43.952664,4.4767295
+324140122,way,Château de La Bruguière,castle,Nîmes,,,,44.1111451,4.4135893
+324544719,way,,castle,Nîmes,,,,43.9938125,4.449937
+325286919,way,,hotel,Nîmes,,,,43.9864205,4.302096
+325287128,way,Le Domaine de Privadière,hotel,Nîmes,,,https://www.privadiere.fr/,43.986095,4.30238
+330267892,way,,garden,Nîmes,,,,43.8590028,4.1153142
+330379614,way,"Jardin Public ""Le Castellas""",park,Nîmes,"30600, Vauvert",30600,,43.6932155,4.2792939
+330672692,way,,park,Nîmes,,,,43.6967909,4.2737827
+331269341,way,,park,Nîmes,,,,43.69761,4.2762727
+331269364,way,Place Jean Giono,park,Nîmes,,,,43.6973989,4.280444
+331963798,way,Square Fernand Frès,park,Nîmes,,,,43.6926773,4.2734677
+340385968,way,Jardin Pompidou,park,Nîmes,Avenue Gabriel Péri,,,43.9579515,4.7956553
+342063703,way,Jardin Dubled,park,Nîmes,,,,43.8960273,4.2139353
+344133609,way,,park,Nîmes,,,,43.7878845,4.0973358
+346212166,way,,park,Nîmes,,,,43.7866823,4.1907598
+346808390,way,Parc du Château,park,Nîmes,,,,43.8255429,4.2600358
+352380319,way,Restaurant La Provence,restaurant,Nîmes,"180 D6086, 30210, Saint-Bonnet-du-Gard",30210,,43.926878,4.544402
+352399897,way,Greet Hotel La Fenouillère,hotel,Nîmes,,,https://www.lafenouillere.com/fr,43.95171,4.638662
+352400292,way,Artiste en Arts visuels,gallery,Nîmes,,,,43.9402805,4.6371215
+352400361,way,La Fenouillère,restaurant,Nîmes,,,https://www.lafenouillere.com/fr,43.9518055,4.6390375
+355549864,way,Château d'Arpaillargues,castle,Nîmes,,,,43.9996245,4.3726265
+356669213,way,Château d'Aubussargues,castle,Nîmes,,,,44.006637,4.324101
+356977815,way,Château de Saint-Chaptes,castle,Nîmes,,,,43.970369,4.27943
+356978789,way,Château de la Tour,castle,Nîmes,,,,43.9566605,4.287077
+357543072,way,Château de Brueys,castle,Nîmes,,,,44.0739516,4.2926795
+358888971,way,,ruins,Nîmes,,,,44.1782097,4.363333
+358889068,way,Château de Fan,castle,Nîmes,,,,44.156526,4.3586175
+358889844,way,La chapelle castrale (románica),attraction,Nîmes,,,,44.153689,4.3657768
+359576434,way,,park,Nîmes,,,,43.8308122,4.411449
+359610209,way,,park,Nîmes,,,,43.8579042,4.4462956
+364548584,way,,beach,Nîmes,,,,44.178126,4.5691901
+366826156,way,,garden,Nîmes,,,,44.1686617,4.6183779
+367785569,way,,garden,Nîmes,,,,43.7438245,4.2145463
+372590845,way,,park,Nîmes,,,,43.7412874,4.2601714
+373432997,way,Bassin des Otaries,attraction,Nîmes,,,,43.5269217,4.1409508
+373432998,way,Bassin des Requins,attraction,Nîmes,,,,43.5268022,4.1406325
+373433000,way,Plage Rive Gauche,beach,Nîmes,,,,43.5314895,4.1366454
+377738389,way,,attraction,Nîmes,,,,43.5336363,4.1376206
+383041893,way,Domaine de la Saussinette,park,Nîmes,,,,43.7855965,4.0769879
+385969215,way,Le Ya'Tis,hotel,Nîmes,Sait-Laurent-des-Arbres,,www.leyatis.com,44.0604867,4.7128055
+385982781,way,Château de Varenne,hotel,Nîmes,"30 Rue de la Calade, 30150, Sauveterre",30150,https://www.chateaudevarenne.com/,44.0256284,4.7923283
+387883888,way,Arque de Baron,ruins,Nîmes,,,,44.0428991,4.2727337
+389245307,way,,ruins,Nîmes,,,,43.9130612,4.6874457
+389354974,way,Gicon,attraction,Nîmes,,,,44.1732557,4.6707918
+402366237,way,Il Ristorante,restaurant,Nîmes,"155 Rue Paul Laurent, 30900, Nîmes",30900,https://www.ilristorante.fr/il-ristorante-le-restaurant-italien-de-nimes,43.8086814,4.3655889
+402366261,way,La Boucherie,restaurant,Nîmes,"59 Place André Bazile, 30900, Nîmes",30900,https://www.la-boucherie.fr/Restaurant/la-boucherie-nimes-30,43.8093534,4.3561359
+404889350,way,,castle,Nîmes,,,,44.1541359,4.3654494
+405027661,way,Église Saint-André,ruins,Nîmes,,,https://www.pop.culture.gouv.fr/notice/merimee//PA00103240,43.8157722,4.1283851
+405334801,way,L'entracte,restaurant,Nîmes,,,,43.9253884,4.256484
+406404968,way,,park,Nîmes,,,,43.7424458,4.1741824
+412884787,way,Jardin Public,park,Nîmes,,,,43.9039164,4.4737268
+412916178,way,,park,Nîmes,,,,43.905015,4.471859
+414776886,way,,park,Nîmes,,,,44.1945693,4.7030265
+417361874,way,Château de Caveirac,castle,Nîmes,,,,43.8260091,4.2607144
+421895991,way,,garden,Nîmes,,,,44.1569338,4.6252195
+429764229,way,,park,Nîmes,,,,43.5406526,4.1340438
+432953386,way,L'Espiguette,beach,Nîmes,,,,43.500963,4.1271197
+433219083,way,,beach,Nîmes,,,,44.216839,4.4779389
+433408657,way,,beach,Nîmes,,,,43.4644721,4.2073668
+435466894,way,,garden,Nîmes,,,,44.2086421,4.6762831
+442776888,way,,park,Nîmes,,,,44.1107361,4.4145677
+442776889,way,square,park,Nîmes,,,,44.1108811,4.4140073
+442776890,way,,park,Nîmes,,,,44.1099262,4.412903
+442789083,way,square,park,Nîmes,,,,44.1098673,4.4150387
+445482388,way,,garden,Nîmes,,,,44.1868699,4.7004809
+445637116,way,,garden,Nîmes,,,,44.2509575,4.65552
+474166809,way,,garden,Nîmes,,,,43.7914641,4.2305659
+474166815,way,,garden,Nîmes,,,,43.7915835,4.230623
+483660367,way,,beach,Nîmes,,,,43.5660212,4.1212066
+496932180,way,,castle,Nîmes,,,,44.2611994,4.4200681
+497419885,way,,park,Nîmes,,,,43.8520265,4.6111875
+501738325,way,,park,Nîmes,,,,43.7571353,4.5156684
+501738326,way,,park,Nîmes,,,,43.7578072,4.5045021
+502179388,way,,attraction,Nîmes,,,,43.7732878,4.23408
+506476182,way,Hôtel Mas de Boudan,hotel,Nîmes,,,,43.8210946,4.3711612
+507307834,way,Kaly Sushi,restaurant,Nîmes,201 Route d'Avignon,,https://www.kalysushi.com/restaurants/restaurant-kaly-sushi-nimes/,43.8537642,4.4008888
+508018882,way,,garden,Nîmes,,,,43.9660191,4.8015285
+508018883,way,,garden,Nîmes,,,,43.9660541,4.8014478
+508018884,way,,garden,Nîmes,,,,43.966069,4.8016794
+508018885,way,,garden,Nîmes,,,,43.9660265,4.801626
+514231058,way,Lavoir,attraction,Nîmes,,,,44.1086203,4.4363137
+514743456,way,Château de la Bastide d'Engras,castle,Nîmes,,,,44.0954551,4.4779309
+514786382,way,Château de Pougnadoresse,castle,Nîmes,,,,44.0930972,4.5070918
+521529267,way,,park,Nîmes,,,,44.2609214,4.6471662
+525425704,way,Parc de la mairie,park,Nîmes,,,,44.2607733,4.6468896
+538787246,way,,beach,Nîmes,,,,44.2993103,4.5706628
+540506378,way,Ruines du château,castle,Nîmes,,,,44.2613623,4.4201384
+541081004,way,Château de Sommières,castle,Nîmes,,,http://chateau-sommieres.fr,43.7825598,4.0919836
+544369366,way,Jardin Planchon,park,Nîmes,,,,44.1062561,4.6574433
+545060348,way,Escalier Monumental Saint-Pierre,attraction,Nîmes,,,,44.2572413,4.6513025
+545221822,way,,beach,Nîmes,,,,43.9481933,4.536582
+545221824,way,,beach,Nîmes,,,,43.9499712,4.5371851
+558332713,way,clauzel,park,Nîmes,,,,43.6710413,4.4279927
+558333020,way,Tamaris,park,Nîmes,,,,43.6723432,4.427034
+559500682,way,Domaine de Praden,park,Nîmes,,,,43.8555846,4.4315317
+561004250,way,Château de Saint-Victor,hotel,Nîmes,,,,44.0414047,4.4839253
+561004348,way,Château de Saint-Victor,hotel,Nîmes,,,,44.0415572,4.4841314
+561224493,way,,restaurant,Nîmes,,,,43.7567928,4.4074076
+562030375,way,,ruins,Nîmes,,,,43.6767379,4.4327943
+563958653,way,Centre de Loisirs,park,Nîmes,,,,43.7259327,4.3478597
+572342331,way,Place Galilée,park,Nîmes,,,,43.8287855,4.3266634
+577425930,way,,beach,Nîmes,,,,43.9515943,4.5198065
+577425931,way,,beach,Nîmes,,,,43.9458378,4.5253533
+577425932,way,,beach,Nîmes,,,,43.946731,4.5211407
+577425933,way,,beach,Nîmes,,,,43.9476338,4.5184922
+577425945,way,,beach,Nîmes,,,,43.9461796,4.523465
+577425946,way,,beach,Nîmes,,,,43.9463911,4.5190649
+577425948,way,,beach,Nîmes,,,,43.9525811,4.5202927
+577425950,way,,beach,Nîmes,,,,43.9529798,4.5088496
+577425953,way,,beach,Nîmes,,,,43.9531583,4.5105553
+577425957,way,Plaja dau Verç,beach,Nîmes,,,,43.9523944,4.5068542
+577425964,way,,beach,Nîmes,,,,43.9463148,4.5314694
+577425965,way,,beach,Nîmes,,,,43.9467714,4.5337016
+590955460,way,,park,Nîmes,,,,43.9391845,4.5644874
+591571027,way,,park,Nîmes,,,,43.9404593,4.5753189
+596927178,way,,beach,Nîmes,,,,43.9367725,4.5583351
+614258682,way,,garden,Nîmes,,,,43.6909306,4.205798
+614468994,way,,ruins,Nîmes,,,,43.6665996,4.1853854
+620424600,way,,garden,Nîmes,,,,43.6930588,4.200871
+628291549,way,Natu'Rando - Canoë -Vélo,attraction,Nîmes,Remoulins,,https://www.natu-rando.com/,43.941803,4.5593424
+628762257,way,,park,Nîmes,,,,43.942602,4.5704832
+628762258,way,,park,Nîmes,,,,43.9424956,4.5703869
+628762259,way,,park,Nîmes,,,,43.942546,4.5707135
+628762260,way,,park,Nîmes,,,,43.9424301,4.5706573
+628762261,way,,park,Nîmes,,,,43.94251,4.5705425
+631278983,way,,garden,Nîmes,,,,43.6945512,4.2015323
+637477674,way,,garden,Nîmes,,,,43.87138,4.0985562
+637505728,way,,garden,Nîmes,,,,43.8816992,4.094458
+639627676,way,Square du Vieux Rempart,park,Nîmes,,,,44.1310549,4.6665518
+643422683,way,Jardin de l'An 2000,garden,Nîmes,,,,44.0558837,4.7002023
+645975191,way,Plantons,garden,Nîmes,,,,43.8525376,4.6250749
+654357680,way,,park,Nîmes,,,,43.817861,4.2296183
+655950033,way,,garden,Nîmes,,,,43.5346268,4.1380888
+655950034,way,,garden,Nîmes,,,,43.5342428,4.1382938
+655950035,way,,garden,Nîmes,,,,43.534351,4.1381761
+655950036,way,,garden,Nîmes,,,,43.5342779,4.1382016
+655950037,way,,garden,Nîmes,,,,43.5342062,4.1382254
+655950038,way,,garden,Nîmes,,,,43.5341356,4.1382519
+655950040,way,,garden,Nîmes,,,,43.5338429,4.1381837
+655950041,way,,garden,Nîmes,,,,43.5336702,4.1383351
+655950042,way,,garden,Nîmes,,,,43.5338266,4.1378421
+657867476,way,Pizzeria du four,restaurant,Nîmes,"7 Rue du Four, 30870, Clarensac",30870,,43.8262785,4.2187949
+657870806,way,Parc pour enfants,park,Nîmes,,,,43.8227229,4.2284944
+657891201,way,Parc pour enfants,park,Nîmes,,,,43.8245564,4.2219982
+658517762,way,Espace Familial d'Ardejan,park,Nîmes,,,,43.8249122,4.1961427
+662284194,way,,garden,Nîmes,,,,43.8410805,4.0490506
+663488105,way,Château de Calvières,park,Nîmes,,,,43.6363515,4.1945317
+663501878,way,,garden,Nîmes,,,,43.6312941,4.1939236
+663501879,way,,garden,Nîmes,,,,43.6315225,4.1938673
+663501883,way,,garden,Nîmes,,,,43.6309312,4.1935985
+667634721,way,Parc de jeux enfant,park,Nîmes,,,,44.0419993,4.5775809
+668641220,way,,park,Nîmes,,,,43.8669402,4.4622764
+668641234,way,,park,Nîmes,,,,43.8627448,4.4529987
+668682790,way,,ruins,Nîmes,,,,43.8108318,4.2814989
+668683870,way,,ruins,Nîmes,,,,43.8103831,4.2807636
+668683871,way,,ruins,Nîmes,,,,43.8122322,4.283294
+669956534,way,Parc du Cosmos,park,Nîmes,,,https://www.parcducosmos.eu/,43.9624589,4.7539211
+672871775,way,Les Patios D'Or,park,Nîmes,,,,43.8289194,4.3715642
+675971666,way,,park,Nîmes,,,,44.0401892,4.5793812
+677307487,way,Jardin d'Élodie,park,Nîmes,,,,43.6778105,4.4201143
+682291643,way,Espace Marc Aurèle,garden,Nîmes,,,,43.8421225,4.3502038
+683694238,way,Jardin du Musée de la Romanité,garden,Nîmes,,,,43.8333923,4.3587328
+683700398,way,,garden,Nîmes,,,,43.8337664,4.35935
+683702037,way,Manège de l'Esplanade,attraction,Nîmes,,,,43.8354935,4.3628343
+685087239,way,,park,Nîmes,,,,43.8092734,4.0682228
+686302599,way,Square des Pénitents Blancs,park,Nîmes,,,,43.566405,4.1920899
+686600399,way,,park,Nîmes,,,,43.9170836,4.5521825
+686691116,way,Square Adrien Gauttier Soltero,park,Nîmes,,,,43.826054,4.3574748
+687248492,way,,park,Nîmes,,,,43.7337388,4.3471842
+687853003,way,,ruins,Nîmes,,,,43.7684809,4.1614999
+690491751,way,Aire de Jeu Jardin Malo,park,Nîmes,,,,44.0128367,4.6977926
+696702477,way,Square du mémorial d'Afrique du Nord,park,Nîmes,,,,43.5417973,4.1323303
+696702478,way,,park,Nîmes,,,,43.5383236,4.1377274
+700394757,way,Château de Montcalm,castle,Nîmes,,,,43.5721789,4.3140592
+700825317,way,Chapelle Saint-Étienne,ruins,Nîmes,,,,43.9634782,4.5942596
+703516216,way,,park,Nîmes,,,,43.7513826,4.262073
+705942818,way,,park,Nîmes,,,,44.1316668,4.3526399
+705942830,way,,park,Nîmes,,,,44.1312726,4.3535679
+708429647,way,,garden,Nîmes,,,,43.9477233,4.5378197
+708434906,way,,garden,Nîmes,,,,43.9473337,4.537275
+710675483,way,,park,Nîmes,,,,43.8317526,4.3684114
+710675484,way,,park,Nîmes,,,,43.8310585,4.3675723
+713508031,way,,park,Nîmes,,,,44.0149223,4.7258699
+713661666,way,Jardin de l'Abbé André Fresquet,garden,Nîmes,,,,44.0926842,4.5942177
+718054223,way,Le Bois des Noyers,park,Nîmes,,,,43.8199632,4.3729927
+718389716,way,Parc Blachère,park,Nîmes,,,,43.8003236,4.4289774
+718846197,way,Square du 19 mars 1962,park,Nîmes,,,,43.8010827,4.4223326
+720123017,way,Parc Georges Montagut,park,Nîmes,,,,43.8290585,4.3723779
+721525900,way,,park,Nîmes,,,,43.8306373,4.3277588
+721770328,way,Square des Courlis,park,Nîmes,,,,43.8382237,4.3171984
+721966468,way,,park,Nîmes,,,,43.7957119,4.4331434
+725355789,way,Breguet Br 1150 Atlantic,attraction,Nîmes,,,https://chan-nimes.org/,43.7650108,4.4062241
+729451427,way,,park,Nîmes,,,,43.9618465,4.742273
+732149291,way,Docteur André Gaujoux,park,Nîmes,,,,43.815667,4.329529
+736242891,way,Parc Meynier de Salinelles,park,Nîmes,,,,43.844255,4.3528041
+750398987,way,,park,Nîmes,,,,43.9271179,4.5955514
+751548512,way,,park,Nîmes,,,,44.1665888,4.6234913
+751960068,way,Square des Pénitents,garden,Nîmes,,,,44.1640071,4.6208424
+753143577,way,Place des Cèdres,park,Nîmes,,,,44.0799861,4.5786213
+753143612,way,,park,Nîmes,,,,44.0767494,4.5825882
+753679933,way,La Placette,park,Nîmes,,,,44.2975361,4.4675376
+753679939,way,Square du Clastres,park,Nîmes,,,,44.3068642,4.4717601
+753679950,way,,park,Nîmes,,,,44.3023194,4.4699047
+755443192,way,,viewpoint,Nîmes,,,,44.0120141,4.4356827
+755664105,way,,ruins,Nîmes,,,,44.0219281,4.419281
+758211496,way,,garden,Nîmes,,,,43.8998498,4.0870033
+758799295,way,,garden,Nîmes,,,,43.896783,4.0831308
+759038441,way,,garden,Nîmes,,,,43.905734,4.0852324
+760590297,way,,garden,Nîmes,,,,43.8376614,4.0560307
+760721308,way,,garden,Nîmes,,,,43.8305754,4.0857135
+761293316,way,,garden,Nîmes,,,,43.8301811,4.0932379
+761913410,way,,park,Nîmes,,,,43.825838,4.0682194
+761916280,way,,garden,Nîmes,,,,43.8330677,4.0928625
+763381623,way,,park,Nîmes,,,,43.9597158,4.4689045
+767477288,way,,garden,Nîmes,,,,43.8198178,4.0638319
+767477290,way,,park,Nîmes,,,,43.8190323,4.0642327
+768050619,way,,park,Nîmes,,,,43.7967883,4.0684125
+768051650,way,,garden,Nîmes,,,,43.7940149,4.0653692
+768053747,way,,garden,Nîmes,,,,43.7916121,4.0656012
+768247140,way,,garden,Nîmes,,,,43.7925648,4.063263
+769666984,way,,garden,Nîmes,,,,43.7856107,4.0529465
+769684340,way,,park,Nîmes,,,,43.7874285,4.3116526
+770869943,way,Jardin du Souvenir,memorial,Nîmes,,,,43.7934319,4.3060493
+771590296,way,,park,Nîmes,,,,43.8274529,4.4309198
+772268364,way,Aqueduc de Comps,ruins,Nîmes,,,,43.8417528,4.6061754
+773149120,way,Square Albert Soboul,garden,Nîmes,,,,43.8239577,4.3538539
+773664372,way,Square de Graverol,garden,Nîmes,,,,43.8423713,4.3580252
+774877849,way,Domaine de la Bastide,park,Nîmes,,,,43.785502,4.3476114
+778433308,way,Jardin Pierre Gamel,park,Nîmes,,,,43.8250664,4.3645141
+779509953,way,Jardin de la Camargue,park,Nîmes,,,,43.8230602,4.3560555
+780063421,way,Square de la Grotte,park,Nîmes,,,,43.8431419,4.3264331
+780724488,way,Plan des Reboussiers,park,Nîmes,,,,43.8627792,4.319385
+783416396,way,Square Jean Lasserre,park,Nîmes,,,,43.8212942,4.3573454
+786430001,way,,garden,Nîmes,,,,43.9018235,4.10072
+786533123,way,,park,Nîmes,,,,43.8430034,4.3846344
+787353659,way,,garden,Nîmes,,,,43.9038795,4.0908998
+787353660,way,,garden,Nîmes,,,,43.9046747,4.090516
+789159532,way,,garden,Nîmes,,,,43.9349242,4.1314274
+789333891,way,,garden,Nîmes,,,,43.93717,4.1300386
+790007304,way,,garden,Nîmes,,,,43.8617133,4.1053829
+790318163,way,,park,Nîmes,,,,43.6942174,4.612188
+790763581,way,,garden,Nîmes,,,,43.8436322,4.1339184
+790938794,way,,garden,Nîmes,,,,43.8494131,4.1079144
+791015817,way,,garden,Nîmes,,,,43.8375125,4.1057184
+791015964,way,,garden,Nîmes,,,,43.8362562,4.1106825
+792378913,way,,park,Nîmes,,,,43.8260334,4.3583406
+795203518,way,Arènes de Beaucaire,attraction,Nîmes,,,,43.8126862,4.6441006
+795468507,way,Arènes du Cailar,attraction,Nîmes,"Boulevard Marquis de Baroncelli, 30740, Le Cailar",30740,,43.6738269,4.2349105
+796876882,way,,artwork,Nîmes,,,,43.8219658,4.3289531
+798892276,way,Le Jardin du XIXeme,park,Nîmes,,,,43.8096589,4.6443646
+807003898,way,,garden,Nîmes,,,,43.8174497,4.3545048
+810360734,way,,garden,Nîmes,,,,43.8311096,4.3813993
+810361374,way,Place d'Austerlitz,park,Nîmes,,,,43.8260237,4.373544
+810361375,way,,park,Nîmes,,,,43.8256533,4.3735698
+810779241,way,Auberge de Tavel,hotel,Nîmes,"77 Route Romaine, 30126, Tavel",30126,https://www.auberge-de-tavel.com,44.0109043,4.7042202
+813859324,way,,park,Nîmes,,,,43.7886861,4.3066342
+821295717,way,,garden,Nîmes,,,,43.850626,4.1766501
+821295718,way,,garden,Nîmes,,,,43.8542051,4.1800203
+821295722,way,,garden,Nîmes,,,,43.8535911,4.1778651
+821295723,way,,garden,Nîmes,,,,43.8542726,4.1766346
+821295726,way,,garden,Nîmes,,,,43.8545302,4.1749535
+821295727,way,,garden,Nîmes,,,,43.8538044,4.1736439
+821304013,way,,garden,Nîmes,,,,43.8551747,4.1775411
+821369292,way,,garden,Nîmes,,,,43.8571561,4.1519985
+821382543,way,,garden,Nîmes,,,,43.8523687,4.1525403
+821732382,way,,garden,Nîmes,,,,43.8611653,4.1492376
+821746979,way,,garden,Nîmes,,,,44.0132185,4.42159
+822080127,way,,garden,Nîmes,,,,43.8606475,4.1655954
+822087493,way,,garden,Nîmes,,,,43.8604264,4.1602308
+822087494,way,,garden,Nîmes,,,,43.8599823,4.1588751
+822087964,way,,garden,Nîmes,,,,43.8547197,4.1556671
+822097625,way,,garden,Nîmes,,,,43.855447,4.1522821
+822097626,way,,garden,Nîmes,,,,43.8558424,4.1510618
+822097627,way,,garden,Nîmes,,,,43.8569057,4.1508177
+822122547,way,,garden,Nîmes,,,,43.8600422,4.1482722
+822127670,way,,garden,Nîmes,,,,43.8453403,4.1393619
+822127671,way,,garden,Nîmes,,,,43.8474894,4.1391514
+822255559,way,,garden,Nîmes,,,,43.8494151,4.1501659
+822255563,way,,garden,Nîmes,,,,43.8504761,4.1506755
+822270440,way,,garden,Nîmes,,,,43.8421204,4.1471187
+822312841,way,,garden,Nîmes,,,,43.8443567,4.1471323
+822316522,way,,garden,Nîmes,,,,43.8466314,4.15271
+822316523,way,,garden,Nîmes,,,,43.8467746,4.153752
+822397488,way,,garden,Nîmes,,,,43.8382637,4.1533722
+822397492,way,,garden,Nîmes,,,,43.8386709,4.1511758
+822397494,way,,garden,Nîmes,,,,43.8381789,4.1409493
+822399966,way,,garden,Nîmes,,,,43.8365486,4.1577338
+822401018,way,,garden,Nîmes,,,,43.8477196,4.1531515
+822401019,way,,garden,Nîmes,,,,43.8471856,4.1522547
+822402136,way,,garden,Nîmes,,,,43.8488698,4.1523499
+822576583,way,,garden,Nîmes,,,,43.8577441,4.184749
+822779272,way,,garden,Nîmes,,,,43.8340556,4.1289041
+824246620,way,,garden,Nîmes,,,,43.8840546,4.1832965
+825093221,way,,garden,Nîmes,,,,43.8941495,4.1691278
+825097457,way,,garden,Nîmes,,,,43.8967034,4.1592441
+825099810,way,,garden,Nîmes,,,,43.8918735,4.1599795
+825713421,way,,garden,Nîmes,,,,43.8683316,4.1740924
+826045686,way,,garden,Nîmes,,,,43.8928763,4.1930615
+827386811,way,,garden,Nîmes,,,,44.2896683,4.4715979
+827401355,way,,garden,Nîmes,,,,43.9106809,4.1906123
+827669458,way,,garden,Nîmes,,,,43.9119925,4.1706739
+828018633,way,,garden,Nîmes,,,,43.9148225,4.1710325
+828023199,way,,garden,Nîmes,,,,43.9014113,4.1618898
+847473037,way,,garden,Nîmes,,,,43.598791,4.1564527
+849104575,way,,park,Nîmes,,,,44.0540127,4.7772266
+851907515,way,,garden,Nîmes,,,,43.6448984,4.1951274
+851909787,way,,garden,Nîmes,,,,43.6892711,4.1982005
+852628530,way,,garden,Nîmes,,,,43.7791116,4.0894196
+852997627,way,,garden,Nîmes,,,,43.7795373,4.0915181
+852997629,way,,garden,Nîmes,,,,43.7777078,4.0914985
+852998255,way,,garden,Nîmes,,,,43.7795079,4.0838534
+853615955,way,,garden,Nîmes,,,,43.7879333,4.0740434
+853815793,way,,garden,Nîmes,,,,43.7842794,4.0609285
+854125550,way,,garden,Nîmes,,,,43.7799802,4.0660304
+854125552,way,,garden,Nîmes,,,,43.7811752,4.0642978
+854125554,way,,garden,Nîmes,,,,43.7821825,4.0663609
+854415091,way,,garden,Nîmes,,,,43.7755193,4.0878112
+854415096,way,,garden,Nîmes,,,,43.7783091,4.0882089
+854415097,way,,garden,Nîmes,,,,43.7780272,4.0872862
+854990329,way,,attraction,Nîmes,,,,43.7670938,4.4058257
+857989603,way,,garden,Nîmes,,,,43.7841332,4.0549395
+858003401,way,,garden,Nîmes,,,,43.7828223,4.0953986
+858220066,way,,garden,Nîmes,,,,43.7766352,4.0945752
+858220067,way,,garden,Nîmes,,,,43.7761785,4.0944953
+859158526,way,,garden,Nîmes,,,,43.7754547,4.0985317
+859159947,way,,garden,Nîmes,,,,43.7738711,4.0945934
+859159954,way,,garden,Nîmes,,,,43.7749151,4.097608
+859162008,way,,garden,Nîmes,,,,43.7749017,4.1015241
+859162010,way,,garden,Nîmes,,,,43.7763252,4.1003217
+859162013,way,,garden,Nîmes,,,,43.7760569,4.1006229
+859163974,way,,garden,Nîmes,,,,43.7743167,4.1034347
+859345313,way,,garden,Nîmes,,,,43.7704508,4.0826681
+859351587,way,,garden,Nîmes,,,,43.7681498,4.0864313
+859351590,way,,garden,Nîmes,,,,43.7680951,4.0844517
+859351595,way,,garden,Nîmes,,,,43.7707083,4.0849499
+859351600,way,,garden,Nîmes,,,,43.768781,4.0743745
+859354887,way,,garden,Nîmes,,,,43.7717207,4.0919988
+859354889,way,,garden,Nîmes,,,,43.7727764,4.0915228
+859428641,way,,garden,Nîmes,,,,43.7702166,4.0918296
+859756509,way,,park,Nîmes,,,,43.7615282,4.0980124
+859765936,way,,garden,Nîmes,,,,43.7619689,4.1005451
+859773036,way,,garden,Nîmes,,,,43.7684168,4.0941151
+859962876,way,,garden,Nîmes,,,,43.7689778,4.0924246
+859963595,way,,garden,Nîmes,,,,43.7719635,4.0886381
+859964568,way,,garden,Nîmes,,,,43.7718124,4.1031334
+859973342,way,,garden,Nîmes,,,,43.7768595,4.0628158
+859973345,way,,garden,Nîmes,,,,43.7736136,4.0691061
+860065241,way,,park,Nîmes,,,,43.6870775,4.2055197
+860207273,way,,garden,Nîmes,,,,43.7760121,4.0581439
+860210467,way,,garden,Nîmes,,,,43.779572,4.0562552
+860286556,way,,garden,Nîmes,,,,43.774711,4.0750434
+860286812,way,,garden,Nîmes,,,,43.7923306,4.0661632
+860575762,way,,garden,Nîmes,,,,43.7814807,4.1193943
+860576867,way,,garden,Nîmes,,,,43.7799107,4.1213697
+861120375,way,,garden,Nîmes,,,,43.7779334,4.1184085
+861184374,way,,garden,Nîmes,,,,43.7785031,4.1062918
+861186091,way,,garden,Nîmes,,,,43.7803138,4.1046147
+861187634,way,,garden,Nîmes,,,,43.7846183,4.1028491
+863907575,way,,garden,Nîmes,,,,43.7900109,4.1047769
+863914167,way,,garden,Nîmes,,,,43.7863794,4.1050525
+865755640,way,,garden,Nîmes,,,,43.8003166,4.078956
+865755641,way,,garden,Nîmes,,,,43.7965836,4.0792966
+865849872,way,,park,Nîmes,,,,43.8085484,4.0913311
+866220516,way,,garden,Nîmes,,,,43.8076167,4.089734
+866436105,way,,garden,Nîmes,,,,43.8011168,4.0833037
+866438255,way,,garden,Nîmes,,,,43.7988366,4.0866653
+866716985,way,,garden,Nîmes,,,,43.7975327,4.094859
+866771909,way,,garden,Nîmes,,,,43.7964795,4.0981633
+866776666,way,,garden,Nîmes,,,,43.8008339,4.102554
+867209315,way,,garden,Nîmes,,,,43.80561,4.1058116
+867209316,way,,garden,Nîmes,,,,43.8036719,4.1063333
+867514028,way,,garden,Nîmes,,,,43.808351,4.1019599
+867514030,way,,garden,Nîmes,,,,43.8095444,4.1013497
+867514031,way,,garden,Nîmes,,,,43.8101347,4.1024012
+867634254,way,,garden,Nîmes,,,,43.7979683,4.0872802
+867842654,way,,garden,Nîmes,,,,43.7987575,4.0878846
+867843730,way,,garden,Nîmes,,,,43.7962825,4.0819332
+867844876,way,,garden,Nîmes,,,,43.7977896,4.0849024
+868225395,way,,garden,Nîmes,,,,43.8031895,4.0974902
+868432489,way,,garden,Nîmes,,,,43.6848515,4.211122
+868439199,way,,garden,Nîmes,,,,43.7935009,4.1057043
+868439201,way,,garden,Nîmes,,,,43.7955226,4.1041204
+868547746,way,,garden,Nîmes,,,,43.7949818,4.1168864
+868550701,way,,garden,Nîmes,,,,43.801726,4.1163992
+868550702,way,,garden,Nîmes,,,,43.8006109,4.1138676
+868550705,way,,garden,Nîmes,,,,43.7998422,4.1145762
+868832014,way,,garden,Nîmes,,,,43.7833458,4.1059869
+872726768,way,Complexe 2020,park,Nîmes,,,,43.8315944,4.4875033
+876105093,way,,park,Nîmes,,,,44.1129966,4.6595252
+881419924,way,Le Potager,garden,Nîmes,,,,43.9675319,4.2708626
+881449690,way,,attraction,Nîmes,,,,43.9670653,4.2706348
+881449691,way,,attraction,Nîmes,,,,43.9672514,4.2705837
+881449693,way,,attraction,Nîmes,,,,43.9670481,4.2703148
+881449694,way,,attraction,Nîmes,,,,43.9670628,4.2700226
+881449695,way,,attraction,Nîmes,,,,43.9671797,4.2697968
+881449696,way,,attraction,Nîmes,,,,43.9672981,4.269882
+881449697,way,,attraction,Nîmes,,,,43.9673816,4.2700601
+881449698,way,,attraction,Nîmes,,,,43.9672257,4.2701939
+881585959,way,,attraction,Nîmes,,,,43.9673095,4.2721227
+891337072,way,,garden,Nîmes,,,,43.6862863,4.1961705
+891337096,way,,garden,Nîmes,,,,43.6802508,4.1905607
+895685925,way,,garden,Nîmes,,,,44.1519515,4.3664783
+895714099,way,,garden,Nîmes,,,,43.6873049,4.1778145
+897866307,way,,garden,Nîmes,,,,43.689728,4.1810574
+897874503,way,,garden,Nîmes,,,,43.6916865,4.1716671
+897880407,way,,garden,Nîmes,,,,43.6716231,4.2013199
+897880408,way,,garden,Nîmes,,,,43.6728243,4.1999182
+897921659,way,,garden,Nîmes,,,,43.6777896,4.2050923
+899867078,way,,park,Nîmes,,,,44.2609952,4.4195494
+900482735,way,Place Baptiste Marcet,park,Nîmes,,,,44.2567596,4.6500879
+900846876,way,,park,Nîmes,,,,43.5656013,4.2005961
+901713487,way,,garden,Nîmes,,,,43.6703919,4.2147073
+902786150,way,,garden,Nîmes,,,,43.7323006,4.2199955
+903609907,way,,garden,Nîmes,,,,43.6812871,4.1926148
+903609944,way,,garden,Nîmes,,,,43.6781282,4.1807136
+903609945,way,,garden,Nîmes,,,,43.6772986,4.179718
+903609953,way,,garden,Nîmes,,,,43.6759326,4.1811809
+903611099,way,,garden,Nîmes,,,,43.6716224,4.2102419
+903611100,way,,garden,Nîmes,,,,43.6724696,4.2106085
+903611119,way,,garden,Nîmes,,,,43.6799351,4.2129648
+903611120,way,,garden,Nîmes,,,,43.6805663,4.2121775
+908430113,way,,garden,Nîmes,,,,43.9536388,4.5478689
+914990238,way,,park,Nîmes,,,,43.8331768,4.4935772
+914990240,way,Parc de l'Eau,park,Nîmes,,,,43.8299322,4.4870456
+915385862,way,chapelle St Christophe,ruins,Nîmes,,,,43.9670869,4.5626492
+915407412,way,Tour Fenestrelle,attraction,Nîmes,,,,44.0120444,4.4222015
+928817212,way,,garden,Nîmes,,,,44.1535615,4.3646807
+928817213,way,,garden,Nîmes,,,,44.1529161,4.3647582
+928851876,way,,garden,Nîmes,,,,44.1524865,4.3667463
+934215934,way,,park,Nîmes,,,,43.8038799,4.4413128
+943207862,way,Espace Ludique Jean Lasserre,park,Nîmes,,,,43.522387,4.1372962
+943231998,way,Luna Park,theme_park,Nîmes,"201 Route de l'Espiguette, 30240, Le Grau-du-Roi",30240,,43.5236661,4.1508112
+943504850,way,Espace Ludique Le Trident,park,Nîmes,,,,43.5136998,4.1400801
+958673258,way,Babyland,theme_park,Nîmes,,,,43.5270412,4.1400862
+958676347,way,Patio de la mer,restaurant,Nîmes,,,,43.5270104,4.1406708
+958678808,way,Le Carré de la pêche,museum,Nîmes,,,,43.5271384,4.1404365
+965437605,way,,park,Nîmes,,,,43.8899679,4.6850901
+970639962,way,Le Bistrot,restaurant,Nîmes,"400 Avenue Claude Baillet, 30900, Nîmes",30900,,43.8122295,4.3620616
+970639963,way,Place au Goût,restaurant,Nîmes,"400 Avenue Claude Baillet, 30900, Nîmes",30900,,43.8122095,4.3618956
+971582626,way,,park,Nîmes,,,,44.0205709,4.5034104
+971677781,way,,park,Nîmes,,,,44.1315896,4.6679293
+971677783,way,,park,Nîmes,,,,44.1314284,4.6676368
+971677883,way,Cour Ancienne Ecole Privée,park,Nîmes,,,,44.1311342,4.6677918
+974764262,way,GMC CCKW,attraction,Nîmes,,,,43.7710864,4.405374
+974969052,way,,garden,Nîmes,,,,43.8731492,4.5758744
+974969053,way,,garden,Nîmes,,,,43.8729428,4.5753866
+975931046,way,,park,Nîmes,,,,43.8730276,4.5901557
+975931047,way,,park,Nîmes,,,,43.8740822,4.5912528
+977164032,way,Résidence Cap Camargue,hotel,Nîmes,"55 Rue du Taillevent, 30240, Le Grau-du-Roi",30240,https://www.vacanceole.com/location-vacances/78-residence-cap-camargue-grau-du-roi,43.5176871,4.1484891
+977422722,way,,monument,Nîmes,,,,43.8910299,4.5625343
+979533901,way,,park,Nîmes,,,,43.5483955,4.1262163
+979554746,way,Espace Ludique Pagnol,park,Nîmes,,,,43.5317577,4.1473666
+982879566,way,,beach,Nîmes,,,,43.9526585,4.5412298
+985471579,way,,park,Nîmes,,,,43.9670354,4.800677
+988404528,way,,park,Nîmes,,,,43.8288272,4.3573138
+989158349,way,Aqueduc de Nîmes,attraction,Nîmes,,,,43.9384583,4.5515869
+989158350,way,Aqueduc de Nîmes,attraction,Nîmes,,,,43.938722,4.5505057
+989158351,way,Aqueduc de Nîmes,attraction,Nîmes,,,,43.937134,4.5527354
+989158352,way,Pont de la Combe de Gilles,attraction,Nîmes,,,,43.9378064,4.5515491
+989158356,way,Pont de la Combe Pradier,attraction,Nîmes,,,,43.9390472,4.5473337
+989158357,way,Aqueduc de Nîmes,attraction,Nîmes,,,,43.94066,4.5470996
+989158358,way,Pont de la Combe Joseph,attraction,Nîmes,,,,43.9400003,4.5450147
+989158359,way,Aqueduc Gallo-Romain,attraction,Nîmes,,,,43.9420046,4.542969
+989158360,way,Aqueduc de Nîmes,attraction,Nîmes,,,,43.943971,4.5431097
+989158363,way,Pont du Combe Roussiere,attraction,Nîmes,,,,43.9461514,4.5413789
+993416596,way,,park,Nîmes,,,,43.8311776,4.026569
+993735395,way,,garden,Nîmes,,,,43.8375934,4.0715122
+997251787,way,,castle,Nîmes,,,,43.8099488,4.6450199
+997251789,way,,castle,Nîmes,,,,43.8103789,4.6444801
+997525194,way,,castle,Nîmes,,,,43.8100827,4.6436551
+997525196,way,Musée Auguste Jacquet,museum,Nîmes,,,,43.8090938,4.6455184
+997548344,way,Château de Beaucaire,attraction,Nîmes,"Place Raimond VII, 30300",30300,https://www.provence-camargue-tourisme.com/,43.8096909,4.6445251
+997557328,way,,castle,Nîmes,,,,43.8104575,4.6441417
+997565797,way,,castle,Nîmes,,,,43.8096266,4.6450971
+1009357189,way,Cantine,restaurant,Nîmes,,,,44.1448969,4.7086316
+1015632287,way,,park,Nîmes,,,,43.8262315,4.5578941
+1030299375,way,,garden,Nîmes,,,,44.1384814,4.6629541
+1030399003,way,,park,Nîmes,,,,43.8154033,4.3215487
+1041086121,way,,park,Nîmes,,,,43.7901103,4.0972891
+1044053951,way,Bun's Burger,restaurant,Nîmes,,,,43.8076889,4.3247493
+1054891215,way,,castle,Nîmes,,,,44.0178516,4.465894
+1080972038,way,Jardin botanique de la Noria,garden,Nîmes,,,,44.0402447,4.4175151
+1080972039,way,Jardin des Oules,park,Nîmes,,,,44.0413519,4.4832594
+1082513093,way,,garden,Nîmes,,,,43.8533661,4.2902033
+1084407991,way,Bassin de l'Oliveraie,park,Nîmes,"Route d'Uzès, 30000, Nïmes",30000,,43.8633511,4.3769567
+1101931855,way,,garden,Nîmes,,,,43.6856217,4.221958
+1101935771,way,,garden,Nîmes,,,,43.6812031,4.2045565
+1101935779,way,,garden,Nîmes,,,,43.6744884,4.2046997
+1101935784,way,,garden,Nîmes,,,,43.6867146,4.185465
+1101940536,way,,garden,Nîmes,,,,43.6204206,4.1899168
+1102336876,way,,garden,Nîmes,,,,43.6296407,4.1893011
+1106260058,way,Carrousel de la ville de Nîmes,attraction,Nîmes,,,,43.8363028,4.3628364
+1106285952,way,Parc de l’Esperion,park,Nîmes,,,,43.6821102,4.2716436
+1108539364,way,Tour Sarrazine,castle,Nîmes,,,,44.3034661,4.5564732
+1109133972,way,,beach,Nîmes,,,,43.9377221,4.4321292
+1109141462,way,,beach,Nîmes,,,,43.9367685,4.4342061
+1128401095,way,,garden,Nîmes,,,,43.7511013,4.520144
+1147354827,way,Square José Castello,park,Nîmes,,,,43.8304233,4.3887048
+1151425210,way,,garden,Nîmes,,,,44.1820857,4.6133938
+1155214829,way,Pont Cassé,ruins,Nîmes,,,,44.2784503,4.6185564
+1157435269,way,Ancien Jardin du Presbytère,garden,Nîmes,,,,43.7890791,4.1222305
+1161733012,way,,beach,Nîmes,,,,44.2843051,4.6375668
+1170869271,way,Parc de la citadelle,park,Nîmes,,,,44.2596949,4.6495276
+1193186407,way,Parc Barnal,park,Nîmes,,,,43.9456892,4.222316
+1194210542,way,,park,Nîmes,,,,43.9548747,4.7736791
+1194210543,way,,park,Nîmes,,,,43.9542378,4.7745241
+1210214668,way,,park,Nîmes,,,,44.0583516,4.3220047
+1210783356,way,,park,Nîmes,,,,43.8437279,4.3872552
+1210783361,way,Square Gérard Viala,park,Nîmes,,,,43.843287,4.3857673
+1213408431,way,,garden,Nîmes,,,,43.8399422,4.3645015
+1215960838,way,Ancien moulin,ruins,Nîmes,,,,43.9262451,4.3377802
+1219518404,way,Bréguet Br 1050 Alizé,attraction,Nîmes,,,https://chan-nimes.org/,43.7652664,4.406002
+1221348173,way,Jardin du Mas des Tilleuls,garden,Nîmes,,,,44.0488584,4.3227792
+1221497634,way,Jardin-forêt du Cabanon,garden,Nîmes,,,,43.9503124,4.7701838
+1221497635,way,,garden,Nîmes,,,,43.9501103,4.7704133
+1222494424,way,Terriers,park,Nîmes,,,,43.7875884,4.0975971
+1224876345,way,Saint-Gilles-le-Vieux,ruins,Nîmes,,,,43.7046097,4.1919359
+1229977013,way,Jardin Forêt El manantial,garden,Nîmes,,,https://www.facebook.com/people/Jardin-For%C3%AAt-El-manantial-Villeneuve-lez-avignon/100077648042832/,43.9695674,4.8047255
+1238856092,way,Jardins KosmopoetiK,park,Nîmes,,,,44.0067651,4.3551988
+1242207985,way,,garden,Nîmes,,,,44.0042665,4.3415289
+1242841737,way,,garden,Nîmes,,,,43.9865144,4.3014824
+1256889920,way,,park,Nîmes,,,,43.9775751,4.1665248
+1266767515,way,,park,Nîmes,,,,43.8403529,4.3043665
+1270314734,way,Parc de La Bergerie,park,Nîmes,Chemin de la Bergerie,,,43.9802921,4.7213948
+1277406602,way,,ruins,Nîmes,,,,44.2547033,4.5326969
+1279713296,way,,ruins,Nîmes,,,,43.9776844,4.5463764
+1279713297,way,,ruins,Nîmes,,,,43.9470544,4.5251971
+1279725965,way,,garden,Nîmes,,,,44.0037311,4.4013801
+1281162376,way,,garden,Nîmes,,,,43.7710431,4.0969724
+1286373296,way,,park,Nîmes,,,,43.5687395,4.1897776
+1286373312,way,,garden,Nîmes,,,,43.5685617,4.1912157
+1286373314,way,,park,Nîmes,,,,43.5690437,4.1924736
+1286373315,way,,park,Nîmes,,,,43.5687176,4.1938452
+1301568608,way,,park,Nîmes,,,,43.9582979,4.7535175
+1303647146,way,,garden,Nîmes,,,,44.0952077,4.7063761
+1303647147,way,,garden,Nîmes,,,,44.0948921,4.7064009
+1303647148,way,,garden,Nîmes,,,,44.0948978,4.705587
+1303667033,way,,park,Nîmes,,,,44.2152789,4.4677748
+1303668292,way,,garden,Nîmes,,,,44.2127759,4.4684462
+1308453776,way,Le H de Sernhac,restaurant,Nîmes,"2060 Route de Beaucaire, 30120, Sernhac",30120,https://www.lehdesernhac.fr/,43.9172047,4.5650315
+1308746205,way,Jardin de l'Aube,park,Nîmes,,,,43.7876242,4.0965725
+1321836150,way,Parc Alfred Magne,park,Nîmes,,,,43.8579041,4.4429784
+1331392736,way,,park,Nîmes,,,,43.9630605,4.5470389
+1335606320,way,,beach,Nîmes,,,,44.287111,4.5954595
+1335912166,way,,beach,Nîmes,,,,44.296571,4.5792804
+1337361887,way,,ruins,Nîmes,,,,43.9985431,4.4346401
+1341085848,way,,ruins,Nîmes,,,,44.2365021,4.6444631
+1343092069,way,,garden,Nîmes,,,,43.7348938,4.2169708
+1343092070,way,,garden,Nîmes,,,,43.734691,4.2170248
+1343092071,way,,garden,Nîmes,,,,43.7344815,4.217069
+1343092072,way,,garden,Nîmes,,,,43.7351941,4.2169038
+1343092073,way,,garden,Nîmes,,,,43.7356308,4.2167604
+1343092074,way,,garden,Nîmes,,,,43.7359804,4.2163053
+1343092075,way,,garden,Nîmes,,,,43.7361446,4.216185
+1346622956,way,Square Robert-Desnos,park,Nîmes,,,,44.1601645,4.611992
+1346644305,way,,garden,Nîmes,,,,44.1571922,4.6195452
+1346644306,way,,garden,Nîmes,,,,44.157,4.6199299
+1346644307,way,,garden,Nîmes,,,,44.1573991,4.6196198
+1346644308,way,,garden,Nîmes,,,,44.1572036,4.6201134
+1346644310,way,,garden,Nîmes,,,,44.1573222,4.6200138
+1346657869,way,,park,Nîmes,,,,44.1558187,4.6180701
+1346750065,way,,garden,Nîmes,,,,44.1553282,4.6187713
+1346750066,way,,garden,Nîmes,,,,44.1553347,4.6184347
+1348751256,way,,park,Nîmes,,,,43.7899676,4.197416
+1350860325,way,,garden,Nîmes,,,,43.9502538,4.7699879
+1353739279,way,,garden,Nîmes,,,,44.1566099,4.6206606
+1355771117,way,,garden,Nîmes,,,,44.1562091,4.6191322
+1355771133,way,,garden,Nîmes,,,,44.1550079,4.6165921
+1355904072,way,,garden,Nîmes,,,,44.1614296,4.6266486
+1355904073,way,,garden,Nîmes,,,,44.1616492,4.6265403
+1355904087,way,,garden,Nîmes,,,,44.159694,4.6249831
+1355904088,way,,garden,Nîmes,,,,44.1596542,4.6251456
+1355904089,way,,garden,Nîmes,,,,44.1595578,4.6254382
+1355904090,way,,garden,Nîmes,,,,44.1595902,4.6253245
+1355904091,way,,garden,Nîmes,,,,44.1597011,4.6252798
+1355988334,way,,garden,Nîmes,,,,44.1597738,4.6256637
+1355988335,way,,garden,Nîmes,,,,44.1597242,4.6256829
+1355988344,way,,garden,Nîmes,,,,44.1596872,4.6258679
+1355988345,way,,garden,Nîmes,,,,44.159502,4.6257314
+1358401133,way,,garden,Nîmes,,,,44.1609307,4.6181549
+1359914196,way,Parc du Duché,park,Nîmes,,,https://www.uzes.fr/decouvrir-uzes/a-voir-a-faire/parcs-et-jardins/le-parc-du-duche,44.0121675,4.4234131
+1359918626,way,Jardin médiéval,garden,Nîmes,"Impasse Port Royal, 30700, Uzès",30700,https://jardinmedievaluzes.com/,44.012129,4.419893
+1360102125,way,,garden,Nîmes,,,,44.1642039,4.6221139
+1360102136,way,,garden,Nîmes,,,,44.1642665,4.6221897
+1360207339,way,,garden,Nîmes,,,,44.1652026,4.6194786
+1360207340,way,,garden,Nîmes,,,,44.165181,4.6192936
+1360207346,way,,garden,Nîmes,,,,44.1653442,4.6195908
+1360207347,way,,garden,Nîmes,,,,44.1653971,4.6195782
+1360207349,way,Pizza Da Marco,restaurant,Nîmes,"Place Jean Jaurès, 30200, Bagnols-sur-Cèze",30200,https://pizzadamarco.wordpress.com/,44.1651256,4.6197128
+1360207354,way,,garden,Nîmes,,,,44.165128,4.6198034
+1360207355,way,,garden,Nîmes,,,,44.1653295,4.6188344
+1360207357,way,,garden,Nîmes,,,,44.1652417,4.6187798
+1360207370,way,,garden,Nîmes,,,,44.1654684,4.6188619
+1360310539,way,,garden,Nîmes,,,,44.1646295,4.6215573
+1360310542,way,,garden,Nîmes,,,,44.1645066,4.6219189
+1360310543,way,,garden,Nîmes,,,,44.1646772,4.6214246
+1360310544,way,,garden,Nîmes,,,,44.1647457,4.6212297
+1360310545,way,,garden,Nîmes,,,,44.1650519,4.6203353
+1360310546,way,,garden,Nîmes,,,,44.1651172,4.620139
+1360310547,way,,garden,Nîmes,,,,44.1650032,4.6204837
+1360310548,way,,garden,Nîmes,,,,44.1649613,4.6206237
+1360931239,way,,park,Nîmes,,,,43.5367325,4.1406943
+1360944264,way,,memorial,Nîmes,,,,44.161625,4.6177684
+1360944266,way,,garden,Nîmes,,,,44.1618719,4.6178055
+1362074668,way,,garden,Nîmes,,,,44.1623833,4.622791
+1362074670,way,,garden,Nîmes,,,,44.1623482,4.6229741
+1362074671,way,,garden,Nîmes,,,,44.1623418,4.6228793
+1362270287,way,Parc Paul-Eluard,park,Nîmes,,,,44.1580988,4.6190895
+1362270290,way,,garden,Nîmes,,,,44.1582233,4.6198726
+1362954507,way,,garden,Nîmes,,,,44.1614521,4.6231926
+1375101277,way,Les Aubuns,hotel,Nîmes,"Route Départementale 442, 30132, Caissargues",30132,http://www.country-hotel-nimes.com/,43.7727077,4.4074373
+1375343506,way,,garden,Nîmes,,,,43.8108069,4.1201937
+1376073150,way,,park,Nîmes,,,,43.869099,4.4030964
+1376153135,way,,ruins,Nîmes,,,,44.0196078,4.6587259
+1377465655,way,,ruins,Nîmes,,,,43.9526815,4.3042083
+1378597875,way,,garden,Nîmes,,,,44.2537105,4.6433288
+1378597878,way,,garden,Nîmes,,,,44.2536032,4.6433421
+1378597879,way,,garden,Nîmes,,,,44.2535455,4.6434252
+1378597881,way,,garden,Nîmes,,,,44.2533792,4.6434229
+1378597882,way,,garden,Nîmes,,,,44.2533699,4.6434791
+1378597884,way,,garden,Nîmes,,,,44.2533571,4.6433381
+1378597890,way,,garden,Nîmes,,,,44.2534775,4.6444967
+1378597891,way,,garden,Nîmes,,,,44.2535173,4.6441106
+1378597892,way,,garden,Nîmes,,,,44.2534407,4.644013
+1379294514,way,Bassin,ruins,Nîmes,,,,44.0194192,4.6588768
+1384929619,way,,attraction,Nîmes,,,,43.8791465,4.4058417
+1385726425,way,parc pour chien,park,Nîmes,,,,43.7277443,4.2269467
+1385726426,way,,park,Nîmes,,,,43.7253757,4.226805
+1386566634,way,,ruins,Nîmes,,,,43.8758325,4.4097997
+1386566635,way,,ruins,Nîmes,,,,43.8759035,4.4099957
+1389013068,way,Ancien télégraphe,ruins,Nîmes,,,,43.9173593,4.5034379
+1389353675,way,,garden,Nîmes,,,,43.5668665,4.1885395
+1389353680,way,,garden,Nîmes,,,,43.5706165,4.1948032
+1389353681,way,,garden,Nîmes,,,,43.5711655,4.1962518
+1389353682,way,,garden,Nîmes,,,,43.5714352,4.1965502
+1389353686,way,,garden,Nîmes,,,,43.5699647,4.1936425
+1396566764,way,,garden,Nîmes,,,,43.7998885,4.6336377
+1409118660,way,,park,Nîmes,,,,43.8089058,4.6275185
+1414726546,way,,beach,Nîmes,,,,43.9396706,4.5572623
+1414853013,way,,park,Nîmes,,,,43.880229,4.4887052
+1414942899,way,,beach,Nîmes,,,,43.9331158,4.5624683
+1414942908,way,,beach,Nîmes,,,,43.9318294,4.5639901
+1414962440,way,Association Le Jardin Partagé du Pays du Pont du Gard,garden,Nîmes,,,https://www.facebook.com/people/Association-Le-jardin-partag%C3%A9-du-pays-du-Pont-du-Gard/100088971800780/,43.9427312,4.5642692
+1414967439,way,,beach,Nîmes,,,,43.937697,4.5565741
+1414988593,way,,beach,Nîmes,,,,43.9294445,4.567916
+1415192921,way,,beach,Nîmes,,,,43.9270621,4.5723461
+1415192922,way,,beach,Nîmes,,,,43.9282343,4.5738914
+1415192926,way,,beach,Nîmes,,,,43.9318985,4.5647393
+1415199027,way,,beach,Nîmes,,,,43.9328692,4.5611286
+1415207469,way,,beach,Nîmes,,,,43.9485838,4.5559056
+1416098623,way,,garden,Nîmes,,,,43.9482993,4.517031
+1416357075,way,Plaja dau Verç,beach,Nîmes,,,,43.9508319,4.5000464
+1416357081,way,,beach,Nîmes,,,,43.9541463,4.5157233
+1419096606,way,,beach,Nîmes,,,,43.9506202,4.5033702
+1419148419,way,,beach,Nîmes,,,,43.9541449,4.4880229
+1419148424,way,,beach,Nîmes,,,,43.953591,4.4828801
+1420581602,way,,garden,Nîmes,,,,44.3001175,4.5635916
+1421507437,way,,beach,Nîmes,,,,43.9511346,4.5455252
+1422275071,way,,beach,Nîmes,,,,43.9537198,4.4902776
+1422286099,way,,beach,Nîmes,,,,43.9517185,4.4800432
+1422286101,way,,beach,Nîmes,,,,43.9518019,4.4812475
+1423064593,way,,park,Nîmes,,,,43.7623982,4.2843493
+1424097234,way,,beach,Nîmes,,,,43.9257386,4.5800042
+1424097235,way,,beach,Nîmes,,,,43.9274812,4.5774391
+1436868967,way,,beach,Nîmes,,,,43.9394521,4.442047
+1437016996,way,,beach,Nîmes,,,,43.94237,4.4528767
+1437016997,way,,beach,Nîmes,,,,43.9415739,4.451272
+1437016999,way,,beach,Nîmes,,,,43.9403765,4.4435545
+1441711612,way,,beach,Nîmes,,,,43.9463365,4.4699887
+1442024607,way,,beach,Nîmes,,,,43.9377164,4.4371281
+1444359853,way,,garden,Nîmes,,,,44.1615246,4.626327
+1444359854,way,,garden,Nîmes,,,,44.1615747,4.6262422
+1444359857,way,,garden,Nîmes,,,,44.1615649,4.626088
+1444862976,way,,garden,Nîmes,,,,44.1604661,4.6114923
+1444862977,way,,garden,Nîmes,,,,44.160692,4.6115143
+1448401003,way,Résidence des Oliviers,hotel,Nîmes,"650 Chemin de Bourdilhan, 30200, Bagnols-sur-Cèze",30200,https://www.residence-des-oliviers.fr/,44.1519113,4.6203284
+1448449524,way,Parc Albert Marquet,park,Nîmes,,,https://www.bagnolssurceze.fr/visiter-la-ville/parcs-et-espaces-verts/,44.1546853,4.60912
+1452675190,way,,garden,Nîmes,,,,43.8068746,4.0903105
+1454452857,way,,garden,Nîmes,,,,44.161523,4.6246143
+1454452858,way,,garden,Nîmes,,,,44.1614,4.6245722
+1454452859,way,,garden,Nîmes,,,,44.1614816,4.6248669
+1456004314,way,Aqueduc de Nîmes,attraction,Nîmes,,,,43.9458987,4.5420069
+1456004315,way,Aqueduc de Nîmes,attraction,Nîmes,,,,43.9459088,4.5417501
+1456004319,way,Ancien tracé de l'aqueduc,ruins,Nîmes,,,,43.9568592,4.5318383
+1456004320,way,Ancien tracé de l'Aqueduc Romain,ruins,Nîmes,,,,43.9641374,4.5313718
+1458492140,way,Square Valter Monti,park,Nîmes,,,,44.0974981,4.7015307
+1459521706,way,,garden,Nîmes,,,,43.9501415,4.76934
+1459521710,way,,garden,Nîmes,,,,43.9508551,4.7667846
+1459521711,way,,garden,Nîmes,,,,43.9504795,4.7708578
+1459521712,way,,garden,Nîmes,,,,43.9509161,4.7699957
+1459521713,way,,garden,Nîmes,,,,43.9502863,4.7715157
+1459521714,way,,garden,Nîmes,,,,43.9500393,4.7721004
+1459521716,way,,garden,Nîmes,,,,43.949928,4.7725032
+1459521717,way,,garden,Nîmes,,,,43.9495476,4.7732243
+1459864614,way,,garden,Nîmes,,,,43.8589949,4.1157293
+1460709104,way,,garden,Nîmes,,,,43.9483131,4.7714364
+1460709105,way,,garden,Nîmes,,,,43.9478004,4.7709523
+1467983724,way,,garden,Nîmes,,,,44.1642092,4.6247892
+1467983725,way,,garden,Nîmes,,,,44.1641192,4.6251877
+1468549306,way,,park,Nîmes,,,,44.1615347,4.6122549
+1472823213,way,,park,Nîmes,,,,44.1587324,4.6173455
+1472823214,way,,park,Nîmes,,,,44.1573147,4.6167945
+1472823215,way,,park,Nîmes,,,,44.1563446,4.6167457
+1472910568,way,,garden,Nîmes,,,,44.1539934,4.6219311
+1475150321,way,,garden,Nîmes,,,https://www.saintandrederoquepertuis.fr/lieux-et-batiments-a-voir/249/,44.2398911,4.4597632
+1500064591,way,Grand cloître,garden,Nîmes,,,,44.2405345,4.5551845
+1500322446,way,Émile Noël,artwork,Nîmes,,,,44.2513559,4.640839
+1501979466,way,,park,Nîmes,,,,44.1061108,4.4569968
+1482619,relation,Domaine de Montfrin,castle,Nîmes,,,,43.8773091,4.5938871
+3347792,relation,Chemin de Croix,attraction,Nîmes,,,,43.9828704,4.6974128
+4023166,relation,Château Boissy d'Anglas,castle,Nîmes,,,,43.6942805,4.612116
+6435143,relation,L'Espiguette,beach,Nîmes,,,,43.4928582,4.1352068
+7364704,relation,Château de Blauzac,castle,Nîmes,,,,43.964586,4.3695785
+7458063,relation,Château de Fontarèches,castle,Nîmes,,,,44.1077533,4.4381364
+8187922,relation,,beach,Nîmes,,,,43.9526661,4.5177667
+11370587,relation,,beach,Nîmes,,,,43.950634,4.5400167
+12127664,relation,"Base de loisirs ""Les Cigales""",park,Nîmes,"3201 Route d'Avignon, 30650, Rochefort-du-Gard",30650,https://www.sidscavar.fr/,43.961416,4.7225107
+12303934,relation,,garden,Nîmes,,,,43.6864828,4.2093342
+12514047,relation,Château de Saint-Siffret,castle,Nîmes,1 Rue du Château,,https://chateausaintsiffret.fr,44.017772,4.4658852
+16819030,relation,,museum,Nîmes,,,,43.8375835,4.3623985
+18030356,relation,Place de Maître Goguillot,park,Nîmes,,,,43.8377583,4.3605928
+18030358,relation,Musée du Vieux Nîmes,museum,Nîmes,,,https://www.nimes.fr/que-faire-a-nimes/culture/les-musees-le-planetarium/musee-du-vieux-nimes,43.8379246,4.3603926
+19928146,relation,Van Gogh,park,Nîmes,,,,43.7873903,4.3148092
+20162491,relation,,garden,Nîmes,,,,44.2537165,4.6436534

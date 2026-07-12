@@ -3,9 +3,11 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 343589438,node,Macau,restaurant,Lourdes,1767 Avenida Olegário Maciel,,https://www.restaurantemacau.com.br/,-19.9298122,-43.9468091
 353134374,node,Farroupilha,restaurant,Lourdes,,,,-19.9299685,-43.9468574
 353134374,node,Farroupilha,restaurant,Lourdes,,,,-19.9299685,-43.9468574
+477233743,node,Vierge Couronnée,memorial,Lourdes,,,,43.0976932,-0.0554996
 477797253,node,Casa Italia,restaurant,Lourdes,,,,43.0977953,-0.0505521
 477797257,node,Hôtel Marquette,hotel,Lourdes,,,,43.0978751,-0.0503393
 505538482,node,,restaurant,Lourdes,,,,-19.9386627,-43.9433008
+702759475,node,Moulin de Boly,museum,Lourdes,,,,43.0982444,-0.0488606
 981547991,node,Assacabrasa,restaurant,Lourdes,,,,-19.930666,-43.938844
 985714930,node,Braca Bar,restaurant,Lourdes,,,,-19.9324487,-43.9421592
 1231573288,node,Eddie Fine Burguer,restaurant,Lourdes,,,https://eddieburger.com.br/,-19.9382409,-43.9412824
@@ -25,7 +27,22 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1755069039,node,NKL,restaurant,Lourdes,,,,-19.9270313,-43.938205
 1849662584,node,Bristol,hotel,Lourdes,,,,-19.9269157,-43.9409733
 1937444133,node,Sakanã Sushi,restaurant,Lourdes,,,,-19.937769,-43.9443694
+2011485177,node,Saint Joachim,memorial,Lourdes,,,,43.0971416,-0.0564937
+2011485210,node,Saint Bernard,memorial,Lourdes,,,,43.0972109,-0.0568672
+2011485215,node,Saint Vincent de Paul,memorial,Lourdes,,,,43.0972422,-0.0561772
+2011485418,node,Saint Rémi,memorial,Lourdes,,,,43.0974432,-0.0559838
+2011485601,node,Saint Hyacinthe,memorial,Lourdes,,,,43.0978836,-0.057003
+2011485616,node,Saint Louis-Marie Grignion de Montfort,memorial,Lourdes,,,,43.0979911,-0.0563161
+2197509938,node,Bassins,attraction,Lourdes,,,,43.0967335,-0.0928741
+2355118876,node,Sainte-Bernadette,memorial,Lourdes,,,,43.0982259,-0.055057
+2529083373,node,Monument Maréchal Foch,memorial,Lourdes,,,,43.0931824,-0.0466334
+2529083374,node,Monument aux Morts,memorial,Lourdes,,,,43.0963122,-0.0464089
 2725904481,node,Restaurant Tibetain Lungta,restaurant,Lourdes,,,https://restaurantlungta.fr/,43.0969003,-0.046392
+3054641144,node,Sainte Anne,memorial,Lourdes,,,,43.0980255,-0.0566618
+3056330132,node,Station:14,memorial,Lourdes,,,,43.0953376,-0.0605099
+3056349233,node,Station:12,memorial,Lourdes,,,,43.0955946,-0.0597477
+3056349234,node,Station:13,memorial,Lourdes,,,,43.0957921,-0.0600089
+3508650805,node,Coeur Sacre,memorial,Lourdes,,,,43.0919298,-0.0519902
 3509196660,node,Hôtel Acadia,hotel,Lourdes,,,,43.0943018,-0.0560438
 3509196661,node,Hôtel Albion,hotel,Lourdes,,,,43.094931,-0.0565946
 3509196662,node,Hôtel America,hotel,Lourdes,,,,43.0945928,-0.0565927
@@ -75,6 +92,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3511118269,node,Hôtel Saint-Avit,hotel,Lourdes,,,,43.0946727,-0.0513535
 3511118270,node,Lorda Appart'Hôtel,hotel,Lourdes,,,,43.0914812,-0.0545251
 3511118271,node,Mercure Hôtel Impérial,hotel,Lourdes,,,,43.0948345,-0.0521637
+3511118272,node,Musée de Cire,museum,Lourdes,"87 Rue de la Grotte, 65100, Lourdes",65100,,43.0955925,-0.0511722
 3511131281,node,Hôtel La source,hotel,Lourdes,,,,43.0987717,-0.0504675
 3513533545,node,Hôtel Maris Stella,hotel,Lourdes,,,,43.0990261,-0.0502697
 3513533546,node,Hôtel Notre-Dame de Lorette,hotel,Lourdes,,,,43.0998523,-0.0543717
@@ -92,9 +110,15 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3623005217,node,Movenpick,restaurant,Lourdes,,,,14.625851,121.0055559
 3636943510,node,Sincere,restaurant,Lourdes,,,,14.6305169,121.002555
 3685985006,node,Speciali,restaurant,Lourdes,"805 Rua Fernandes Tourinho, 30112-000, Belo Horizonte",30112-000,,-19.9379245,-43.942332
+3725525290,node,Museu da Imagem e do Som,museum,Lourdes,"560 Avenida Álvares Cabral, Belo Horizonte",,,-19.9269169,-43.9401038
 3831385059,node,Arroba,restaurant,Lourdes,"Av. Bias Fortes, Belo Horizonte",,,-19.926744,-43.9424
+4003588241,node,,memorial,Lourdes,,,,11.0499778,124.0055021
+4289363213,node,Saint-Jean-Marie Vianney,memorial,Lourdes,,,,43.0978936,-0.0553956
+4601742489,node,Petites Buffet,attraction,Lourdes,1287 Rua Santa Catarina,,,-19.9320112,-43.9463228
+4663731190,node,,artwork,Lourdes,,,,-19.9358257,-43.9404552
 4671062157,node,Zénitude Hôtel-Résidences l'Acacia,hotel,Lourdes,,,,43.1009143,-0.0547983
 4672202759,node,La Frégate des Pirates,restaurant,Lourdes,,,,43.107149,-0.0762455
+4681669718,node,Rocher de la Vierge,viewpoint,Lourdes,,,,43.0919275,-0.0220483
 4682475702,node,Hôtel Beau Séjour,hotel,Lourdes,,,https://www.hotel-beausejour.com/,43.0997167,-0.0431346
 4682475703,node,Hôtel Lutetia,hotel,Lourdes,,,,43.0998029,-0.0438253
 4694212260,node,Divin,restaurant,Lourdes,6 Place de l'Église,,,43.0961583,-0.0454172
@@ -108,7 +132,27 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4715693115,node,Hôtel Chalet Saint-Louis,hotel,Lourdes,,,,43.0988695,-0.046197
 4715693160,node,Hôtel Alliance,hotel,Lourdes,,,,43.0917787,-0.0535588
 4715780896,node,Hôtel Saint-Jean-Baptiste,hotel,Lourdes,,,,43.0978611,-0.0465767
+4716535332,node,Musée Pyrénéen,museum,Lourdes,"25 Rue du Fort, 65100, Lourdes",65100,https://www.chateaufort-lourdes.fr/,43.0963657,-0.048516
 4717354706,node,Hôtel Continental,hotel,Lourdes,20 Avenue Bernadette Soubirous,,,43.0957664,-0.0534402
+4717354743,node,Sainte-Bernadette,memorial,Lourdes,,,,43.0966944,-0.0525456
+4717354746,node,Musée Sainte-Bernadette,museum,Lourdes,,,https://www.lourdes-infotourisme.com/offres/musee-sainte-bernadette-lourdes-fr-3152355/,43.0967003,-0.0521129
+4750928721,node,General Cemetery,memorial,Lourdes,,,,15.1408681,120.9403795
+4761590245,node,Saint Jean L'Évangeliste,memorial,Lourdes,,,,43.0976683,-0.0572199
+4761590247,node,Saint Jean Baptiste,memorial,Lourdes,,,,43.0973623,-0.0571646
+4813530480,node,,artwork,Lourdes,,,,43.0969651,-0.057594
+4813530496,node,Jesus et Bernadette Soubirous,memorial,Lourdes,,,,43.0954353,-0.0578737
+4816667276,node,Station:1,memorial,Lourdes,,,,43.0963679,-0.0566275
+4816667277,node,Station:2,memorial,Lourdes,,,,43.0961751,-0.0567945
+4816667278,node,Station:3,memorial,Lourdes,,,,43.0959979,-0.0572031
+4816667279,node,Station:4,memorial,Lourdes,,,,43.0956987,-0.0576578
+4816667280,node,Station:5,memorial,Lourdes,,,,43.096296,-0.0575746
+4816667281,node,Station:6,memorial,Lourdes,,,,43.0963324,-0.057856
+4816667282,node,Station:7,memorial,Lourdes,,,,43.0962605,-0.0581041
+4816667283,node,Station:8,memorial,Lourdes,,,,43.0959793,-0.0582214
+4816667284,node,Station:9,memorial,Lourdes,,,,43.0958761,-0.0585276
+4850604523,node,Station:11,memorial,Lourdes,,,,43.0954184,-0.059566
+4850604574,node,Station:10,memorial,Lourdes,,,,43.0956663,-0.0592044
+4958231645,node,Domaine du sanctuaire de Lourdes,attraction,Lourdes,,,,43.0973772,-0.0587496
 5001533722,node,Edifício Capri,hotel,Lourdes,1265 Rua da Bahia,,,-19.926018,-43.9376521
 5001839122,node,Fonte,restaurant,Lourdes,"619 Rua dos Guajajaras, 30180-100",30180-100,,-19.9259519,-43.9396431
 5193324755,node,Wok Grill,restaurant,Lourdes,,,,43.1071495,-0.0390326
@@ -121,38 +165,235 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5669810622,node,Tudo no espeto,restaurant,Lourdes,,,,-19.9299117,-43.9441721
 5703929422,node,Cafe Au Roi Albert,restaurant,Lourdes,,,,43.0950731,-0.0525751
 5703929423,node,Bar Restaurant Le Jeanne d’Arc,restaurant,Lourdes,,,,43.0951043,-0.0527883
+5859034053,node,,artwork,Lourdes,,,,43.0830028,-0.044649
 5917902444,node,Hôtel Saint-Clair,hotel,Lourdes,,,,43.0898995,-0.0533476
 6414829885,node,Roça Grande,restaurant,Lourdes,Rua dos Timbiras,,,-19.9262559,-43.9412806
+6483990100,node,Maison de la Connaissance du Risque Sismique,museum,Lourdes,,,https://www.c-prim.org/la-maison-sismique,43.0836582,-0.0446799
+6512191272,node,Saint Martin,memorial,Lourdes,,,,43.0978348,-0.0560654
 6560850848,node,Le Palacio,restaurant,Lourdes,,,,43.0935917,-0.0478297
 6742073905,node,Le Van Gogh,restaurant,Lourdes,,,,43.0951718,-0.0465357
 6914153385,node,Koctus Pizzaria,restaurant,Lourdes,Rua Marília de Dirceu,,,-19.9346937,-43.9461854
 7404865084,node,Kei,restaurant,Lourdes,"54 Rua Bárbara Heliodora, 30180-130, Belo Horizonte",30180-130,https://www.keicozinhajaponesa.com.br,-19.9314204,-43.9440163
+8363971497,node,Notre Dame de Lourdes,memorial,Lourdes,,,,43.0975312,-0.0585337
 8491784147,node,Makoy's Belly-chon,restaurant,Lourdes,"6010, Bogo",6010,,11.0502427,124.0065265
 8621997040,node,Myons Cuisine,restaurant,Lourdes,Mayon Street,,,14.6272881,120.9972341
 8622186028,node,The Original Red Baron,restaurant,Lourdes,,,,14.6286582,121.0000659
 8821213432,node,Bar Aqui Tudo é Bom - Lourdes,restaurant,Lourdes,"776 Avenida Bias Fortes, 30170-012, Belo Horizonte",30170-012,https://baraquitudoebom.com.br/,-19.9267304,-43.9424001
+9311280525,node,Le Cachot,museum,Lourdes,,,,43.0959411,-0.0475177
 9364428998,node,Gratitude,restaurant,Lourdes,603,,,-19.9309315,-43.9442024
 9364436879,node,O sentido do gosto,restaurant,Lourdes,607,,,-19.93092,-43.9443441
 9364462270,node,Magrí,restaurant,Lourdes,595,,,-19.9319906,-43.9446766
 9493812492,node,Brasserie Saint-Sauveur,restaurant,Lourdes,,,,43.096155,-0.0546786
+9495607066,node,Musée Bernadette,museum,Lourdes,,,,43.0998967,-0.0462622
+9498712541,node,Vierge Marie,memorial,Lourdes,,,,43.0981125,-0.0603242
+9499326962,node,Musée des miraculés,museum,Lourdes,,,,43.0981546,-0.0543764
+9502964101,node,,memorial,Lourdes,,,,43.0969765,-0.0565218
+9502964102,node,Sainte Thérèse de l'Enfant-Jésus,memorial,Lourdes,,,,43.0979519,-0.0547049
+9502964108,node,Saint Paul,memorial,Lourdes,,,,43.0973891,-0.05699
+9502964113,node,Piéta,memorial,Lourdes,,,,43.0987317,-0.0585779
+9502981618,node,Saint Margaret,memorial,Lourdes,,,,43.0976246,-0.0612164
+9502981619,node,Saint Pierre,memorial,Lourdes,,,,43.097689,-0.057048
+9525654723,node,Scénes de l'histoire de Bernadette et de Lourdes,artwork,Lourdes,,,,43.0982557,-0.0519738
+9525654726,node,Bernadette Soubirous,memorial,Lourdes,,,,43.0996972,-0.0455506
+9540443003,node,Grotte de Massabielle,attraction,Lourdes,,,,43.0975363,-0.0585217
+9556416186,node,Funiculaire du Pic du Jer,attraction,Lourdes,,,,43.0836263,-0.0441355
 9608150707,node,Les 100 Culottes,restaurant,Lourdes,20 Place du Champ Commun,,https://www.les100culottes.com/,43.093957,-0.0475198
+10036190822,node,Museo ng Pag-asa,museum,Lourdes,"84 Cordillera Street, 1114, Quezon City",1114,,14.6224749,121.0056156
 10245704609,node,A Pão de Queijaria,restaurant,Lourdes,,,,-19.926201,-43.9385151
+10650562105,node,,attraction,Lourdes,,,,43.0955316,-0.0608136
+10659314198,node,Sainte Bernadette,memorial,Lourdes,,,,43.0983459,-0.0581061
+10665552378,node,Sainte Bernadette,memorial,Lourdes,,,,43.097599,-0.0546465
 10676222857,node,omeletterie du fort,restaurant,Lourdes,,,,43.0964572,-0.0479888
 10676222858,node,L'angelus,restaurant,Lourdes,,,,43.0966354,-0.0478398
 10857838805,node,Made in Italy,restaurant,Lourdes,113 Rue de la Grotte,,,43.0950643,-0.0527032
 10860778922,node,Bistrot Le Navarre,restaurant,Lourdes,,,,43.0984041,-0.0493822
 10863310307,node,Chez Tonton pizzeria,restaurant,Lourdes,,,,43.0968516,-0.0457633
 10865411205,node,Entre 2 O,restaurant,Lourdes,,,,43.0921334,-0.055846
+11139517106,node,,museum,Lourdes,,,,43.0955898,-0.0510248
 11154283608,node,Au Coeur De l'Afrique,restaurant,Lourdes,,,,43.0971285,-0.0466584
 11154284105,node,Chez Tursan,restaurant,Lourdes,,,,43.0920405,-0.0463346
 12047822261,node,Le Parc,restaurant,Lourdes,,,,43.0997073,-0.0429068
 12289094143,node,Best Bite Kitchen,restaurant,Lourdes,,,,14.6210856,121.0039034
 12314387384,node,Mustache Pizzaria,restaurant,Lourdes,"1270 Rua Rio de Janeiro, 30160-041, Belo Horizonte",30160-041,,-19.9253447,-43.9405154
 12778281511,node,Hotel Sainte Catherine,hotel,Lourdes,,,,43.0907554,-0.0541227
+12820401691,node,,viewpoint,Lourdes,,,,43.0800704,-0.0328162
+12820401693,node,,viewpoint,Lourdes,,,,43.078457,-0.0319627
 12917200001,node,Asian Delices Food,restaurant,Lourdes,,,,43.0959872,-0.0552208
 13061731801,node,Café Le Genève,restaurant,Lourdes,"36 Boulevard de la Grotte, 65100",65100,,43.0983687,-0.0479989
 13071738201,node,ibis Belo Horizonte Liberdade,hotel,Lourdes,"602 Avenida João Pinheiro, 30130180",30130180,http://all.accord.com,-19.930351,-43.9377445
+13167631102,node,Centre de Ressources Historiques,museum,Lourdes,,,https://www.lourdes-france.org/centre-de-ressources-historiques-du-sanctuaire-de-lourdes/,43.0970492,-0.0583245
 13195272906,node,,restaurant,Lourdes,,,,43.0934582,-0.0496249
 13195272907,node,Hôtel de la Vallée,hotel,Lourdes,,,,43.0934611,-0.0497054
 13297225663,node,Alial Kabab Halal Food Restaurant,restaurant,Lourdes,,,,15.0298861,120.6882119
 13925726336,node,Rivierasol,restaurant,Lourdes,2 Passage Saint-Louis,,,43.0956075,-0.0531455
+52957795,way,Place des Tilleuls,park,Lourdes,,,,43.0928414,-0.0454877
+53014685,way,Château-fort de Lourdes,castle,Lourdes,,,,43.0965389,-0.0491122
+53055660,way,Restaurant du Golf,restaurant,Lourdes,,,,43.1054232,-0.0842596
+53146223,way,La Crêperie,restaurant,Lourdes,,,,43.1076788,-0.071821
+53152345,way,Salus Infirmorum,hotel,Lourdes,,,,43.0990465,-0.0509408
+61980827,way,Lourdes,hotel,Lourdes,,,,28.3796644,-16.72149
+68860233,way,Hôtel Ibis,hotel,Lourdes,,,,43.0988535,-0.0451109
+68860281,way,Hôtel Aux Armes de Belgique,hotel,Lourdes,,,,43.0982353,-0.0471912
+68860282,way,Hôtel Croix des Nordistes,hotel,Lourdes,,,,43.0983692,-0.0462381
+68860292,way,L'Avenue 44 by Nana,restaurant,Lourdes,"3 Boulevard de la Grotte, 65100, Lourdes",65100,https://www.lavenue44.com/,43.0993194,-0.0457028
+68860309,way,Hôtel La Coupole,hotel,Lourdes,,,,43.0982276,-0.0470349
+68860337,way,Hôtel Cercles Catholiques,hotel,Lourdes,,,,43.0982435,-0.0469141
+68860357,way,Florence Hôtel,hotel,Lourdes,,,,43.0993364,-0.0502705
+68860359,way,Hôtel Notre-Dame Auxiliatrice,hotel,Lourdes,,,,43.0982383,-0.0474762
+68860424,way,Hôtel du Château Fort,hotel,Lourdes,"31 Boulevard de la Grotte, 65100, Lourdes",65100,,43.0982262,-0.0462388
+68860433,way,Hôtel Duchesse Anne,hotel,Lourdes,,,,43.098242,-0.0467368
+68860449,way,Hôtel de Biarritz,hotel,Lourdes,,,,43.0983273,-0.0457461
+68860600,way,Maison Paternelle de Sainte Bernadette,museum,Lourdes,"2 Rue Bernadette Soubirous, 65100, Lourdes",65100,,43.098111,-0.0482826
+68860702,way,Hôtel le Milan,hotel,Lourdes,,,,43.097903,-0.047263
+68860797,way,Hôtel Saint-François Xavier,hotel,Lourdes,,,,43.0979612,-0.0475763
+68860811,way,Hôtel l'Arlecchino,hotel,Lourdes,,,,43.0977954,-0.0468676
+68860816,way,Hôtel la Fontaine,hotel,Lourdes,,,,43.0976414,-0.0470131
+68860821,way,Hôtel Les Graces de Marie,hotel,Lourdes,,,,43.0978674,-0.0462156
+68860842,way,Hôtel Saint-Pierre,hotel,Lourdes,,,,43.0978499,-0.0470242
+68860847,way,Hôtel Saint-Julien,hotel,Lourdes,,,,43.0980066,-0.0473684
+68862714,way,Hôtel La Régence,hotel,Lourdes,,,,43.0962808,-0.0478492
+68865927,way,Musée du Petit Lourdes,museum,Lourdes,"68 Avenue Peyramale, 65100, Lourdes",65100,,43.0900333,-0.0554689
+68865933,way,Hôtel Métropole,hotel,Lourdes,,,https://www.welcomelourdes.com/hotelmetropolelourdes/,43.0953606,-0.0549715
+68865948,way,Hôtel Eliseo,hotel,Lourdes,,,,43.0952521,-0.0565868
+68865954,way,Hôtel Astrid,hotel,Lourdes,,,,43.0949211,-0.0556838
+68865956,way,Hôtel Moderne,hotel,Lourdes,,,,43.0962907,-0.0542069
+68866002,way,Stella,hotel,Lourdes,,,,43.095033,-0.0552493
+68866008,way,Hôtel Helgon,hotel,Lourdes,,,,43.095085,-0.0542472
+68866023,way,Hôtel Saint-Sauveur,hotel,Lourdes,,,,43.0960728,-0.054653
+68866029,way,Hôtel croix des Bretons,hotel,Lourdes,"7 Rue Marie Saint-Frai, 65100, Lourdes",65100,,43.0952807,-0.0541892
+68866035,way,Hôtel Roissy,hotel,Lourdes,,,,43.095526,-0.0561241
+68866044,way,Hôtel Gallia & Londres,hotel,Lourdes,,,,43.0960341,-0.0536054
+68866052,way,Hôtel Agena,hotel,Lourdes,,,,43.0952531,-0.0534719
+68866054,way,Hôtel Padoue,hotel,Lourdes,,,,43.095057,-0.0562317
+68866067,way,Hôtel d'Irlande,hotel,Lourdes,,,,43.0951985,-0.0555927
+68866070,way,Hôtel Lys de Marie,hotel,Lourdes,,,,43.0941952,-0.0540895
+68866074,way,Hôtel Saint-Georges,hotel,Lourdes,,,,43.0933895,-0.0550235
+68866077,way,Hôtel Panorama,hotel,Lourdes,,,,43.0961202,-0.0549671
+68866091,way,Hôtel Jeanne d'Arc,hotel,Lourdes,,,,43.094219,-0.0544734
+68866109,way,Hôtel d'Angleterre,hotel,Lourdes,,,,43.0963766,-0.0547307
+68866111,way,Hôtel de Hollande,hotel,Lourdes,,,,43.0950169,-0.0539262
+68866128,way,Hôtel Chapelle et Parc,hotel,Lourdes,,,,43.0962999,-0.0537304
+68866131,way,Hôtel Notre-Dame de Lourdes,hotel,Lourdes,,,,43.0965053,-0.0538079
+68866144,way,,hotel,Lourdes,,,,43.0958737,-0.0534941
+68866151,way,Hôtel de Paris,hotel,Lourdes,,,,43.0960044,-0.0542619
+68866154,way,Hôtel Notre-Dame de France,hotel,Lourdes,,,,43.0949078,-0.0536206
+68866158,way,Hôtel Galilée Windsor,hotel,Lourdes,,,,43.0946893,-0.0537961
+68866168,way,Hôtel Royal,hotel,Lourdes,,,,43.0965003,-0.0545904
+68866171,way,Hôtel Le Rive Droite & Spa,hotel,Lourdes,"22 Avenue Peyramale, 65100, Lourdes",65100,https://www.hotel-lerivedroite-lourdes.com/,43.0940015,-0.0542918
+68866195,way,Hôtel Sainte-Suzanne,hotel,Lourdes,,,,43.0938783,-0.0543857
+68866707,way,Hôtel d'Espagne,hotel,Lourdes,,,,43.0939388,-0.0525837
+68866768,way,Hôtel Méditérannée,hotel,Lourdes,,,,43.0926469,-0.0536557
+68866776,way,,hotel,Lourdes,,,,43.0950348,-0.0521325
+68866973,way,Hôtel Louvre et Vincenette,hotel,Lourdes,,,,43.0952316,-0.0519321
+68866988,way,Hôtel Alba,hotel,Lourdes,,,,43.0920928,-0.0543607
+68867031,way,,hotel,Lourdes,,,,43.0949279,-0.0510468
+68867082,way,Château de Soum,castle,Lourdes,,,,43.0895482,-0.0470278
+68867122,way,Hôtel Saint-Louis de France,hotel,Lourdes,,,,43.0945416,-0.0523124
+68867144,way,,hotel,Lourdes,,,,43.0947218,-0.0514062
+69703061,way,Hôtel Du Viscos,hotel,Lourdes,6 Avenue Saint-Joseph,,,43.099736,-0.0406123
+69705557,way,,garden,Lourdes,,,,43.1019871,-0.0677451
+85734086,way,,park,Lourdes,,,,7.9444371,-72.8334958
+86976475,way,Museu Mineiro,museum,Lourdes,"342 Avenida João Pinheiro, 30130-180, Belo Horizonte",30130-180,,-19.9279603,-43.9372553
+94761688,way,Praça João Luiz Alves,park,Lourdes,,,,-19.9339539,-43.9457176
+130343049,way,L'Embarcadère,restaurant,Lourdes,,,,43.1061028,-0.0780847
+173976790,way,,park,Lourdes,,,,-20.967148,-50.2249969
+173976792,way,,park,Lourdes,,,,-20.9638215,-50.2247167
+173976797,way,,park,Lourdes,,,,-20.9631987,-50.2238254
+173976821,way,,park,Lourdes,,,,-20.9633944,-50.2258244
+173976823,way,,park,Lourdes,,,,-20.9628621,-50.2259645
+173976830,way,,park,Lourdes,,,,-20.9632825,-50.224521
+173981731,way,,park,Lourdes,,,,-20.9422349,-50.2414333
+173981738,way,,park,Lourdes,,,,-20.942624,-50.2412201
+173981747,way,,park,Lourdes,,,,-20.9418776,-50.241243
+173981761,way,,park,Lourdes,,,,-20.9422111,-50.2420288
+190572273,way,Hôtel Miramont,hotel,Lourdes,,,,43.0928626,-0.0553935
+190572360,way,Esplanade,garden,Lourdes,,,,43.097831,-0.054145
+190572370,way,,garden,Lourdes,,,,43.0979976,-0.0525181
+192210174,way,,park,Lourdes,,,,43.1081729,-0.0644337
+217386596,way,Parc de Rafael Alberti,park,Lourdes,,,,41.5542592,2.2216525
+230590765,way,,beach,Lourdes,,,,43.1055637,-0.0789337
+245453225,way,,park,Lourdes,,,,43.101914,-0.0599843
+245782699,way,,park,Lourdes,,,,43.0961054,-0.0502237
+245782979,way,Parc de l'You,park,Lourdes,,,,43.0920878,-0.0430769
+245783321,way,,park,Lourdes,,,,43.091189,-0.0548881
+265886932,way,Lourdes,restaurant,Lourdes,,,,-9.7500768,-35.8753232
+267013001,way,China Town's Best Food,restaurant,Lourdes,,,,14.6312481,121.0020815
+301412117,way,Hôtel Beau Site,hotel,Lourdes,,,,43.0932294,-0.0550781
+301412118,way,Hôtel Christina,hotel,Lourdes,,,,43.0926503,-0.0556153
+301412119,way,Hôtel Paradis,hotel,Lourdes,,,,43.0934629,-0.0530801
+301412120,way,Hôtel de l'Europe,hotel,Lourdes,,,,43.0930621,-0.055196
+317118306,way,Praça Getúlio Vargas,park,Lourdes,,,,-18.8643337,-41.9574789
+337888040,way,Praça Afonso Arinos,park,Lourdes,,,,-19.9253686,-43.9369303
+395560345,way,Nagano Pension,hotel,Lourdes,,,,11.0491491,124.0053275
+397269936,way,Rizal Park,park,Lourdes,,,,11.0499352,124.0055129
+433275972,way,Ibis Budget Minascentro,hotel,Lourdes,,,,-19.9268937,-43.9429791
+475697882,way,,park,Lourdes,,,,43.0968217,-0.0441913
+475697905,way,,park,Lourdes,,,,43.0959973,-0.0420926
+476959853,way,,park,Lourdes,,,,43.0915106,-0.0458203
+478296130,way,,park,Lourdes,,,,43.0987213,-0.0489423
+478296149,way,,park,Lourdes,,,,43.0976505,-0.0460525
+478342721,way,,park,Lourdes,,,,43.0924466,-0.0540728
+478465986,way,,park,Lourdes,,,,43.0994779,-0.058028
+478513031,way,,park,Lourdes,,,,43.0997904,-0.058445
+506511172,way,,park,Lourdes,,,,-16.7259711,-43.8506458
+526978235,way,,park,Lourdes,,,,41.5561428,2.220179
+544534269,way,Gruta Nossa Senhora de Itaúna,park,Lourdes,,,,-20.0818074,-44.5717323
+552674383,way,,restaurant,Lourdes,"2305 Rua dos Aimorés, Belo Hoizonte",,,-19.9267096,-43.9458308
+552674383,way,,restaurant,Lourdes,"2305 Rua dos Aimorés, Belo Hoizonte",,,-19.9267096,-43.9458308
+552674392,way,Dona Fulô,restaurant,Lourdes,"778 Rua Santa Catarina, Belo Hoizonte",,,-19.9274949,-43.9452775
+552674392,way,Dona Fulô,restaurant,Lourdes,"778 Rua Santa Catarina, Belo Hoizonte",,,-19.9274949,-43.9452775
+552937795,way,,restaurant,Lourdes,Rua Bernardo Guimarães,,,-19.928081,-43.9457944
+552937795,way,,restaurant,Lourdes,Rua Bernardo Guimarães,,,-19.928081,-43.9457944
+554335416,way,,park,Lourdes,,,,43.1107024,-0.0453931
+554355177,way,Bendito Japa,restaurant,Lourdes,,,,-19.929967,-43.9468069
+554355185,way,Macau,restaurant,Lourdes,,,,-19.9297463,-43.9467411
+555008800,way,Varanda,restaurant,Lourdes,"Avenida Álvares Cabral, Belo Horizonte",,,-19.9311787,-43.9467294
+557148417,way,Front Lawn,park,Lourdes,,,,15.0307546,120.688467
+558698292,way,Monumento Álvares Cabral,park,Lourdes,,,,-19.9270299,-43.9398584
+565567722,way,,restaurant,Lourdes,,,,-19.9293727,-43.9454212
+565567722,way,,restaurant,Lourdes,,,,-19.9293727,-43.9454212
+566813270,way,,park,Lourdes,,,,-20.0841724,-44.573612
+568381510,way,,restaurant,Lourdes,Rua Santa Catarina,,,-19.9276308,-43.9448311
+568383035,way,,park,Lourdes,,,,-20.0872132,-44.5722412
+568383036,way,Praça Igreja Nossa Senhora Aparecida,park,Lourdes,,,,-20.0867214,-44.5709315
+675572412,way,Praça Bairo de Lourdes,park,Lourdes,,,,-16.3326832,-48.9184832
+681404020,way,Praça Maria Inês Moreira,park,Lourdes,,,,-20.0775026,-44.5721346
+681487665,way,,park,Lourdes,,,,-20.0814487,-44.5719019
+737636456,way,,garden,Lourdes,,,,36.6594085,-4.5028104
+757327965,way,,park,Lourdes,,,,-20.2480144,-43.8023688
+848751381,way,IGLU Ice Cream,restaurant,Lourdes,,,,15.0300335,120.6883935
+929699644,way,Praça Luís de Camões,park,Lourdes,Belo Horizonte,,,-19.9334039,-43.9453499
+1034286209,way,,artwork,Lourdes,,,,43.0976177,-0.05465
+1090657574,way,Pampanga Sports Complex,park,Lourdes,,,,15.0305312,120.6867346
+1147087270,way,,artwork,Lourdes,,,,43.0970485,-0.0558351
+1175545613,way,,garden,Lourdes,,,,15.0321846,120.6876308
+1175545615,way,,garden,Lourdes,,,,15.0320433,120.6877871
+1187939026,way,Plazoleta de Lourdes,park,Lourdes,,,,3.3915083,-76.5568739
+1214304862,way,Praça Linear do Bela Vista,park,Lourdes,,,,-20.2488914,-43.7998169
+1221252803,way,,park,Lourdes,,,,43.1138901,-0.0354577
+1272069592,way,Comida Mineira,restaurant,Lourdes,"Rua Santa Catarina, Belo Horizonte",,,-19.9250451,-43.9442353
+1328213257,way,Ayumi,restaurant,Lourdes,"1965 Rua Gonçalves Dias, 30140-092, Belo Horizonte",30140-092,,-19.9299324,-43.9431298
+1328213257,way,Ayumi,restaurant,Lourdes,"1965 Rua Gonçalves Dias, 30140-092, Belo Horizonte",30140-092,,-19.9299324,-43.9431298
+1328213508,way,,restaurant,Lourdes,,,,-19.9320825,-43.9437376
+1328214395,way,,restaurant,Lourdes,,,,-19.9315687,-43.9438068
+1328215682,way,,restaurant,Lourdes,,,,-19.9316057,-43.9439104
+1328218032,way,,restaurant,Lourdes,,,,-19.9318803,-43.9445591
+1328218032,way,,restaurant,Lourdes,,,,-19.9318803,-43.9445591
+1328218351,way,Gennaro Lourdes,restaurant,Lourdes,,,,-19.931476,-43.9459957
+1328219138,way,OssO,restaurant,Lourdes,"1984 Rua São Paulo, 30170-132, Belo Horizonte",30170-132,,-19.9308413,-43.9433856
+1328219432,way,,restaurant,Lourdes,,,,-19.931909,-43.9444284
+1328219432,way,,restaurant,Lourdes,,,,-19.931909,-43.9444284
+1328221159,way,,restaurant,Lourdes,,,,-19.9312334,-43.9440235
+1328222302,way,Ancho,restaurant,Lourdes,,,,-19.9316825,-43.9450128
+1328222303,way,Pizza hut,restaurant,Lourdes,,,,-19.9316019,-43.9449922
+1328222322,way,,restaurant,Lourdes,,,,-19.9311782,-43.9438169
+1328222324,way,,restaurant,Lourdes,,,,-19.9310526,-43.9438036
+1328223031,way,,restaurant,Lourdes,,,,-19.9310401,-43.9441483
+1328224466,way,,restaurant,Lourdes,,,,-19.9310587,-43.9444313
+1328224467,way,,restaurant,Lourdes,,,,-19.9311851,-43.9444675
+1328225612,way,Transamerica Belo Horizonte Lourdes,hotel,Lourdes,"967 Avenida Álvares Cabral, 30160-042, Belo Horizonte",30160-042,,-19.9292546,-43.9432367
+1328225682,way,Nino,restaurant,Lourdes,,,,-19.9310616,-43.9449176
+1329984238,way,,restaurant,Lourdes,"Rua Tomás Gonzaga, 30140-092, Belo Horizonte",30140-092,,-19.9323404,-43.9440861
+1329984242,way,,restaurant,Lourdes,"Rua Tomás Gonzaga, 30140-092, Belo Horizonte",30140-092,,-19.9321779,-43.9446523
+1329984244,way,,restaurant,Lourdes,"Rua Tomás Gonzaga, 30140-092, Belo Horizonte",30140-092,,-19.932058,-43.9450828
+1465703951,way,Praça Igreja de Lourdes,park,Lourdes,,,,-19.9284715,-43.9386749

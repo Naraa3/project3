@@ -1,16 +1,29 @@
 osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+491421167,node,Croix de Bourgogne,monument,Nancy,,,,48.6852559,6.1710557
 543424175,node,L'Alsace à Table,restaurant,Nancy,,,,48.6940166,6.1807088
+554228719,node,,artwork,Nancy,,,,48.6957613,6.1808024
 560041977,node,Hôtel Littéraire Stendhal,hotel,Nancy,56 Place Monseigneur Ruch,,https://www.hotel-litteraire-stendhal.com/fr/,48.6917582,6.186497
+561173914,node,Dent de la Roche,viewpoint,Nancy,,,,48.634635,6.0365564
 563177031,node,Hôtel Nancy Sud - Vandœuvre,hotel,Nancy,,,https://www.simplyhotelsfrance.com/hotel/hotel-nancy-sud-vandoeuvre/,48.650667,6.1462614
+579391997,node,,memorial,Nancy,,,,48.676729,6.1736601
 647164421,node,Hungry Sushi,restaurant,Nancy,,,,48.6841479,6.1772376
+670171971,node,Monument de La Croix des Carmes,monument,Nancy,,,,48.9162441,5.9890241
 737271706,node,L'Avant Première,restaurant,Nancy,,,,48.6913546,6.1956945
+797799604,node,,artwork,Nancy,,,,48.6901994,6.1842955
+876082927,node,Ruines du château de Bainville-aux-Miroirs,ruins,Nancy,,,,48.4381215,6.277612
 933114517,node,Abracadabra,restaurant,Nancy,,,,48.7024634,6.1808556
 960686099,node,Residhome Apparthotel Nancy Lorraine,hotel,Nancy,9,,,48.6941144,6.1954989
 961473732,node,Saveurs & Cie,restaurant,Nancy,,,,48.7021645,6.2588643
+1049912347,node,Buste Monseigneur Petit,memorial,Nancy,,,,48.6819144,6.1743146
+1049912407,node,Émile Coué,memorial,Nancy,,,,48.6814394,6.170834
+1049912433,node,Sergent Blandan,memorial,Nancy,,,,48.6722261,6.1723915
 1160990885,node,Bar Restaurant de la Fontaine,restaurant,Nancy,10,,,48.65295,6.194948
+1211219584,node,Gallerie Graffigny,artwork,Nancy,,,,48.67027,6.146183
+1279682278,node,,memorial,Nancy,,,,48.6711984,6.1428918
 1301182760,node,Novotel Suites Nancy Centre,hotel,Nancy,2,,http://www.novotel.com/fr/hotel-5946-novotel-suites-nancy-centre/index.shtml,48.6927217,6.1952019
 1301939296,node,Beira Mar,restaurant,Nancy,64,,,48.7070902,6.1723186
 1313947968,node,Route 66,restaurant,Nancy,23,,https://www.restaurant-66.fr/,48.736171,6.163962
+1320858832,node,,memorial,Nancy,,,,48.633991,6.3223921
 1370155492,node,Hôtel Poincaré,hotel,Nancy,81,,,48.6885494,6.167189
 1370806406,node,Restaurant Beauregard,restaurant,Nancy,,,https://restaurant-le-beauregard.fr/,48.69348,6.139682
 1374547948,node,Pizzeria Adriatica,restaurant,Nancy,,,,48.6902854,6.171499
@@ -21,7 +34,12 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1374786764,node,Le Chagnot,restaurant,Nancy,,,,48.6906559,6.1824126
 1388521342,node,La Calabraise,restaurant,Nancy,,,,48.617823,6.3526087
 1388521348,node,Cafétéria Noël,restaurant,Nancy,,,,48.6126091,6.3652632
+1388521374,node,,memorial,Nancy,,,,48.6148294,6.3579983
+1388521400,node,,memorial,Nancy,,,,48.6161801,6.3548814
+1388522019,node,Mathieu de Dombasle,memorial,Nancy,,,,48.6271136,6.352755
+1388522147,node,,memorial,Nancy,,,,48.6274919,6.3511563
 1389579525,node,Hôtel Restaurant de la Meurthe,hotel,Nancy,,,,48.6401829,6.2700213
+1389579573,node,,memorial,Nancy,,,,48.6193242,6.3517331
 1439487011,node,Kebab l'Étoile,restaurant,Nancy,,,,48.75489,6.14119
 1451594042,node,Zhong Pin,restaurant,Nancy,,,https://www.zhong-pin.fr/,48.6839717,6.1730019
 1505616285,node,Hôtel Castel,hotel,Nancy,,,,48.615794,6.108561
@@ -29,6 +47,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1556273877,node,Le Coq en Fer,restaurant,Nancy,1bis,,,48.6903992,6.1847646
 1556273907,node,La Julienne,restaurant,Nancy,19,,,48.6909478,6.1847178
 1556273908,node,El Gusto,restaurant,Nancy,13,,,48.6911674,6.1845888
+1606992233,node,Bora Baden,gallery,Nancy,24,,http://www.borabaden.com/,48.6949714,6.181429
 1606992236,node,Papilles Alain,restaurant,Nancy,23,,,48.6954256,6.1810115
 1606992282,node,La Gavotte,restaurant,Nancy,47,,,48.6962576,6.1803447
 1606992286,node,La cave du Père Magott,restaurant,Nancy,45,,,48.6962154,6.1803917
@@ -46,16 +65,25 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1643037373,node,Bistrot Gros,restaurant,Nancy,,,https://gros-nancy.com,48.6956716,6.1778932
 1653241614,node,Hôtel Mercure Nancy Centre Gare,hotel,Nancy,,,,48.6907749,6.1748147
 1655805396,node,La Campagnola,restaurant,Nancy,,,https://www.restaurant-lacampagnola.fr/,48.731234,6.1690927
+1672428573,node,,memorial,Nancy,,,,48.6886259,6.1661455
+1694345057,node,,memorial,Nancy,,,,48.6880026,6.2094192
+1701325370,node,Panorama Bois le Pretre,viewpoint,Nancy,,,,48.9047105,6.0771446
+1701353789,node,Mémorial de la Captivité,memorial,Nancy,,,,48.9035848,6.0131395
+1711883249,node,Monument Barrès,memorial,Nancy,,,,48.4086156,6.070231
+1711887334,node,,viewpoint,Nancy,,,,48.4318613,6.0859232
+1720865105,node,Le Souvenir,artwork,Nancy,,,,48.6897183,6.1779835
 1740120860,node,Flunch,restaurant,Nancy,,,https://www.flunch.fr/restaurant/laxou/flunch-nancy-laxou,48.6909985,6.1264288
 1748419950,node,Restaurant Grill 23,restaurant,Nancy,23,,https://www.restaurantgrillle23.com/,48.7335235,6.1691174
 1748419964,node,Le Délice du Sahara,restaurant,Nancy,19,,,48.7335881,6.1691046
 1748419966,node,La Laiterie,restaurant,Nancy,,,,48.7330662,6.1692021
 1748671499,node,Angeluzzo,restaurant,Nancy,,,https://www.angeluzzo.fr/restaurant-nancy-kinepolis.php,48.6919193,6.1956748
+1763038716,node,,viewpoint,Nancy,,,,48.7135099,6.2088576
 1764542111,node,Express Bar,hotel,Nancy,,,,48.6892775,6.1753467
 1764542112,node,Qualys-Hôtel Nancy Centre,hotel,Nancy,8,,https://www.qualys-hotel.com/hotel/france/lorraine/nancy/nancy-centre,48.6894731,6.1757517
 1764542117,node,Ibis Nancy Centre Gare et Congrès,hotel,Nancy,3 Rue Crampel,,https://all.accor.com/hotel/0973/index.fr.shtml,48.6893564,6.1753148
 1802012043,node,La Résidence,hotel,Nancy,30,,http://www.hotel-laresidence-nancy.fr/index.php,48.682499,6.1775325
 1804209205,node,BraiseMaster,restaurant,Nancy,,,,48.6839456,6.1889104
+1814886318,node,,artwork,Nancy,,,,48.6811008,6.154419
 1827913977,node,Mandaloun,restaurant,Nancy,65,,http://www.mandaloun-nancy.fr,48.6966852,6.1797462
 1866469620,node,Brasserie l'Olympe,restaurant,Nancy,,,,48.7571984,6.154286
 1904763059,node,Restaurant Le Blouge,restaurant,Nancy,9,,,48.6905908,6.1712453
@@ -72,25 +100,49 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1990284850,node,La Fantasia,restaurant,Nancy,,,https://www.lafantasianancy.com/,48.687272,6.1885738
 1990284866,node,Le Méditerranéen,restaurant,Nancy,,,,48.6875483,6.1882056
 1992530495,node,Le Djurdjura,restaurant,Nancy,46,,,48.6884328,6.1860193
+2036975116,node,Fresque d'Antan,artwork,Nancy,,,,48.6853023,6.2112756
+2037921325,node,,artwork,Nancy,,,,48.6889417,6.2072196
+2041811260,node,Stèle 19 mars 1962,memorial,Nancy,,,,48.6675998,6.1713535
 2048203877,node,Le Georges,restaurant,Nancy,,,,48.6955207,6.1958163
 2051500189,node,Vietnam Street Food,restaurant,Nancy,,,https://vnsfsas.wixsite.com/vietnamstreetfood,48.6904748,6.185034
 2081417256,node,L'Hivervage,restaurant,Nancy,,,,48.6762851,6.1770651
 2082562631,node,Brasserie Monopol,restaurant,Nancy,,,,48.6339034,6.309818
+2092410596,node,,viewpoint,Nancy,,,,48.68533,6.1316652
+2099948425,node,,viewpoint,Nancy,,,,48.710407,6.1892048
+2104980851,node,,ruins,Nancy,,,,48.6946953,6.3756276
+2152637374,node,,ruins,Nancy,,,,48.6581563,6.3711155
+2219809358,node,,memorial,Nancy,,,,48.7930559,6.0455778
+2219824126,node,,monument,Nancy,,,,48.6264456,6.3557669
+2232502946,node,,memorial,Nancy,,,,48.79284,6.0455223
 2242722410,node,Pizzeria Sole Mio,restaurant,Nancy,,,,48.6823164,6.1653036
 2269936271,node,100 Patates,restaurant,Nancy,,,https://100-patates.com/restaurant/fiche/8-nancy,48.6924569,6.1945568
 2270722644,node,Le Terminus,restaurant,Nancy,48,,,48.6156099,6.1086245
 2270722946,node,L'Île aux Pizzas,restaurant,Nancy,,,,48.616673,6.1050977
 2283113177,node,Tradi'curieux,restaurant,Nancy,,,,48.4677646,6.1353323
 2291536247,node,Auberge de la Mirabelle,restaurant,Nancy,6,,,48.5571918,6.2932901
+2291536273,node,,memorial,Nancy,,,,48.5551143,6.2934384
 2296198757,node,Le Petit Marché des Filles,restaurant,Nancy,1,,https://lepetitmarchedesfilles.metro.rest/?,48.653892,6.1526304
+2296198794,node,,memorial,Nancy,,,,48.6552662,6.1672623
+2296964233,node,,memorial,Nancy,,,,48.4561825,6.1050161
+2301954768,node,"Totem ""Renaissance""",artwork,Nancy,,,,48.8110183,6.3326471
 2303800665,node,Les Nouveaux Abattoirs,restaurant,Nancy,4,,,48.6942969,6.197395
+2321144307,node,,memorial,Nancy,,,,48.747466,6.0773177
 2338159403,node,La Primatiale,restaurant,Nancy,,,,48.6904768,6.1853018
 2338159404,node,Les Bacchanales,restaurant,Nancy,,,,48.6904971,6.1853775
 2338159406,node,Mon Petit Bouchon,restaurant,Nancy,,,,48.6905185,6.1854576
+2367809612,node,,memorial,Nancy,,,,48.8094769,6.3268183
+2371697664,node,,memorial,Nancy,,,,48.8447795,6.2434971
+2376458987,node,,viewpoint,Nancy,,,,48.6291664,6.107894
 2383414107,node,Le Médrevil,restaurant,Nancy,,,,48.6857455,6.1610798
 2385419617,node,Tradita,restaurant,Nancy,,,,48.6714347,6.1667432
+2388693879,node,,memorial,Nancy,,,,48.6280687,6.1239632
+2388699449,node,Statue Saint-Vincent de Saragosse,artwork,Nancy,,,,48.6155443,6.1036474
 2391343919,node,Cafétéria,restaurant,Nancy,,,http://www.crous-nancy-metz.fr/,48.6944496,6.1664905
 2391343920,node,Factéria,restaurant,Nancy,,,http://www.crous-nancy-metz.fr/,48.6953952,6.1657463
+2403585879,node,Buste de Grandville,artwork,Nancy,,,,48.6987704,6.1807126
+2403585880,node,Buste de Sellier,artwork,Nancy,,,,48.695769,6.1840317
+2403585882,node,Monument Claude Gellée,artwork,Nancy,,,,48.6978916,6.1822818
+2403585883,node,Statue du Gaulois,artwork,Nancy,,,,48.6976051,6.1833627
 2414397775,node,La P’tite Brasserie,restaurant,Nancy,,,,48.6738945,6.1835797
 2423069105,node,Flunch,restaurant,Nancy,,,,48.7430177,6.1483973
 2451414094,node,Ibis Nancy Centre Stanislas,hotel,Nancy,,,https://all.accor.com/hotel/1393/index.fr.shtml,48.6935593,6.1918667
@@ -103,12 +155,17 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2472820993,node,La Marianne,restaurant,Nancy,,,https://www.restaurantlamarianne.fr/,48.6793124,6.1741648
 2505301792,node,Le Berbère,restaurant,Nancy,,,,48.7010428,6.1779247
 2509674718,node,Au Petit Palais,restaurant,Nancy,,,,48.6689477,6.1950616
+2516685065,node,,memorial,Nancy,,,,48.6252668,6.2022722
 2517989313,node,Tokyo,restaurant,Nancy,,,https://www.tokyo-nancy54.fr/,48.6552069,6.1867884
 2522422654,node,Brasserie du port,restaurant,Nancy,,,,48.9031417,6.062201
+2522422665,node,,memorial,Nancy,,,,48.9043869,6.0590799
 2531053938,node,Hôtel Stanislas,hotel,Nancy,22,,,48.6946048,6.187023
+2538609446,node,,memorial,Nancy,,,,48.6924992,6.1680519
 2551793344,node,Fratelli,restaurant,Nancy,,,,48.6874106,6.2449875
+2553434647,node,,artwork,Nancy,,,,48.6839648,6.221709
 2568833856,node,La P'tite Pause Créole,restaurant,Nancy,,,,48.7024792,6.1813396
 2568833857,node,Mille et une Saveurs,restaurant,Nancy,,,,48.7026332,6.1808609
+2572015872,node,,viewpoint,Nancy,,,,48.6587668,6.1626064
 2609492575,node,La Flambée,restaurant,Nancy,,,,48.6744998,6.1753775
 2619503602,node,O'Bon Grill,restaurant,Nancy,,,,48.672446,6.1724653
 2623155768,node,Au Coin de la Rue,restaurant,Nancy,,,,48.695537,6.1794206
@@ -116,21 +173,28 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2623465762,node,L'Épicerie Chez Marguerite,restaurant,Nancy,33,,http://www.lepicerie-nancy.com/,48.6940359,6.1807798
 2623465763,node,L'Escale,restaurant,Nancy,37,,https://www.restaurantlescale-nancy.fr/,48.6940022,6.1806455
 2623465764,node,Le Bouillon Lafayette,restaurant,Nancy,,,https://www.bouillonlafayette.fr/,48.6939819,6.1805765
+2624627248,node,Musée des Cordeliers (Arts et Traditions populaires),museum,Nancy,,,,48.697696,6.1789919
+2624646810,node,Statue Hubert Lyautey,memorial,Nancy,,,,48.6982171,6.1801166
 2625835347,node,TT histoire,restaurant,Nancy,,,,48.6924129,6.1869667
 2625894089,node,Aux Délices du Palais,restaurant,Nancy,,,,48.6967368,6.1796704
 2625894097,node,Brend'Oliv,restaurant,Nancy,141,,,48.6986782,6.1778748
 2625894108,node,Les Frères Marchand,restaurant,Nancy,97,,,48.6973916,6.1789518
 2627758708,node,Le Tiger,restaurant,Nancy,,,,48.6894327,6.1936902
 2628255664,node,The Tiger,restaurant,Nancy,,,https://thetigernancy.fr/fr,48.6931987,6.1910587
+2629208378,node,,memorial,Nancy,,,,48.712992,6.2151859
 2630581892,node,Le Grémillon,restaurant,Nancy,,,https://www.restaurant-gremillon-saintmax.fr/,48.7018504,6.2126823
+2633424017,node,,artwork,Nancy,,,,48.6845561,6.2143595
 2649481591,node,Essey Gourmand,restaurant,Nancy,,,,48.7050275,6.2208676
 2657544149,node,Sushi-Show,restaurant,Nancy,,,,48.6920644,6.1959848
 2657544159,node,PopKfé,restaurant,Nancy,,,,48.6922075,6.1962543
+2675857888,node,,viewpoint,Nancy,,,,48.6568705,6.1556163
 2698859476,node,Dolce Pizza,restaurant,Nancy,,,,48.6776784,6.1773391
 2709913353,node,L'Arrosoir,restaurant,Nancy,,,http://restaurant-arrosoir.com/,48.6942042,6.182672
 2725502484,node,Fraich’Art Bar Zinc,restaurant,Nancy,19,,https://www.lebarzinc.com/,48.6901534,6.1724182
 2729345288,node,Hôtel des Vosges,hotel,Nancy,87,,,48.6858607,6.1848067
 2732079779,node,Kim Seng,restaurant,Nancy,,,https://kimseng.fr/,48.6855276,6.1944329
+2733733221,node,,viewpoint,Nancy,,,,48.6881207,6.1401637
+2747791822,node,,artwork,Nancy,,,,48.6983016,6.1658792
 2770859486,node,Couscousserie des Petites Familles,restaurant,Nancy,,,,48.6957428,6.1794
 2772127467,node,Le Vestiaire,restaurant,Nancy,139,,,48.6985983,6.1779271
 2772127474,node,Boteco do Brasil,restaurant,Nancy,,,https://botecodobrasil.fr/,48.698674,6.178448
@@ -145,23 +209,46 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2820166829,node,La ball' o grill,restaurant,Nancy,,,,48.7107851,6.1702237
 2821143798,node,Le Napolitain,restaurant,Nancy,,,,48.7098099,6.1804082
 2877247901,node,Snacky Bar,restaurant,Nancy,,,,48.6136308,6.1032883
+2891857611,node,,viewpoint,Nancy,,,,48.4303713,6.0804412
 2904080344,node,La Petite Cuillère,restaurant,Nancy,123 Grande Rue,,https://www.lapetitecuillere.fr/,48.6980046,6.1784922
 2908220788,node,Le Gaigne,restaurant,Nancy,,,https://lafermedeschanottes.fr/restaurant-le-gaigne,48.4312805,6.1757294
 2956988613,node,Les Fourmis Rouges,restaurant,Nancy,,,,48.6930985,6.1989108
+2971579898,node,,memorial,Nancy,,,,48.679486,6.1674548
+2972066347,node,,memorial,Nancy,,,,48.7411515,6.3368001
+2990136726,node,Château Lyautey,castle,Nancy,,,,48.4437513,6.0286941
 2990164089,node,Le Relais de la Colline,restaurant,Nancy,,,http://www.lerelaisdelacolline.com,48.4301116,6.0838963
+2992309272,node,Colline de Sion,attraction,Nancy,,,,48.4282004,6.0849106
 2992549358,node,Chez Ernest,restaurant,Nancy,,,https://chez-ernest-restaurant-laxou.eatbu.com,48.6840553,6.1505165
 3042271145,node,Le Villeroy,restaurant,Nancy,,,https://levilleroy.eatbu.com/,48.6692337,6.1448329
+3042271161,node,,memorial,Nancy,,,,48.6691693,6.1452832
 3057806539,node,À La Bonne Gammelle,restaurant,Nancy,,,,48.6892201,6.1980181
 3092680904,node,Les 3 marches,restaurant,Nancy,8,,,48.6898242,6.1718907
 3122142069,node,Le V'Four,restaurant,Nancy,,,https://www.levfour.fr/,48.6967826,6.1789188
+3185246847,node,À tous les Français,memorial,Nancy,,,,48.6966207,6.1804567
 3207461905,node,Relais l'Obrion A31 - Aire l'Obrion,restaurant,Nancy,,,https://www.lescomptoirs-casino.fr/,48.8559371,6.088615
+3212842803,node,,memorial,Nancy,,,,48.6638245,6.2415396
+3213140958,node,,memorial,Nancy,,,,48.6653798,6.2439321
+3213150067,node,,memorial,Nancy,,,,48.6672337,6.2340872
+3221632128,node,,memorial,Nancy,,,,48.6564983,6.2662532
+3223738929,node,,viewpoint,Nancy,,,,48.6569232,6.147924
+3223743770,node,,viewpoint,Nancy,,,,48.6606427,6.1493535
 3237103672,node,Les Canailles,restaurant,Nancy,,,,48.6214799,6.1780596
 3237103673,node,Midi-Vins,restaurant,Nancy,,,,48.6216446,6.1784459
 3240248108,node,Resto Café de Ludres,restaurant,Nancy,,,,48.621829,6.1607223
 3248265860,node,Piopa,restaurant,Nancy,,,,48.6893051,6.1781807
+3254267600,node,,memorial,Nancy,,,,48.4681762,6.1823175
 3327632832,node,La Fournaise,restaurant,Nancy,,,http://www.lafournaise974.com,48.6857385,6.1941726
+3363740666,node,,artwork,Nancy,,,,48.6788041,6.1656747
+3372352772,node,,memorial,Nancy,,,,48.4688938,6.1373867
 3387540891,node,Prishtina,restaurant,Nancy,1,,,48.6706544,6.1789944
 3413435418,node,La Cantina,restaurant,Nancy,,,,48.7053793,6.2297717
+3508940393,node,,memorial,Nancy,,,,48.6281673,6.3476507
+3513390342,node,,memorial,Nancy,,,,48.6735764,6.1744133
+3659444530,node,Allégorie de l'Alliance,monument,Nancy,,,,48.6937772,6.1863039
+3659444552,node,Buste de Jules Crevaux,monument,Nancy,,,,48.6946111,6.1892419
+3685671913,node,,ruins,Nancy,,,,48.6618338,6.0201753
+3688224302,node,Buste d'Israël Silvestre,artwork,Nancy,,,,48.6942806,6.1823157
+3688224563,node,Buste de Ferdinand de Saint-Urbain,artwork,Nancy,,,,48.6943726,6.1822546
 3711539516,node,Iloa,restaurant,Nancy,20,,,48.7162624,6.2076401
 3729513325,node,Les Planches,restaurant,Nancy,22,,,48.6942385,6.1810092
 3729513326,node,La Gentilhommière,restaurant,Nancy,29,,,48.6940841,6.1809698
@@ -169,6 +256,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3729513328,node,La Piazzetta,restaurant,Nancy,,,,48.6941812,6.1807711
 3729513329,node,Le Bistrot de Gilles,restaurant,Nancy,,,,48.694056,6.1808571
 3729513331,node,Les Fils à Maman,restaurant,Nancy,41,,,48.6939635,6.1805035
+3751849169,node,,memorial,Nancy,,,,48.8162039,6.127331
 3812823541,node,Sushi Kōbe,restaurant,Nancy,,,http://www.sushikobe.fr/,48.6803891,6.1752215
 3826580107,node,L'Étoile d'Argent,restaurant,Nancy,,,https://www.letoiledargent.fr/,48.632898,6.3243762
 3905700761,node,La Bolée,restaurant,Nancy,,,,48.6877107,6.1824604
@@ -190,21 +278,43 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3930943598,node,Transparence,restaurant,Nancy,28,,https://restaurant-transparence.fr/,48.6930075,6.1812186
 3930943631,node,Le Café des Arts,restaurant,Nancy,5,,,48.6937784,6.1824583
 3960555803,node,Le Saint-Max,restaurant,Nancy,35,,,48.6983729,6.2063457
+3989955746,node,,memorial,Nancy,,,,48.4340582,6.1052796
+4051801744,node,,memorial,Nancy,,,,48.6856713,6.1416241
+4070467224,node,,viewpoint,Nancy,,,,48.6255414,6.0861399
 4086726370,node,La Ferme Sainte-Geneviève - L'Ermitage,restaurant,Nancy,,,https://fermesaintegenevieve.com/,48.7190707,6.2211957
 4088940607,node,Royal Gambas,restaurant,Nancy,,,https://royalgambas.eatbu.com/,48.6909569,6.1293564
+4100510586,node,Centre Culturel Georges Pomp It Up,gallery,Nancy,,,https://spraylab.fr/,48.6840458,6.1720664
 4119241560,node,Adagio Aparthotel,hotel,Nancy,,,https://www.adagio-city.com/fr/hotel-8988-aparthotel-adagio-access-nancy-centre/index.shtml,48.6936616,6.1911019
+4163587792,node,Le Cœur du Grand Nancy,artwork,Nancy,,,,48.6889391,6.1755887
+4169146719,node,,viewpoint,Nancy,,,,48.4085315,6.0701818
 4172962732,node,Au Point d'Interro,restaurant,Nancy,,,https://au-point-dinterro.business.site,48.6535866,6.1858684
+4202148613,node,,artwork,Nancy,,,,48.6941018,6.1981037
 4243328301,node,EV,restaurant,Nancy,,,,48.6777215,6.1685207
 4243415207,node,Koboon,restaurant,Nancy,,,https://www.koboon-resto.com/,48.6932792,6.1912234
+4252270392,node,Victor Lemoine,memorial,Nancy,,,,48.6807003,6.1710886
+4253359012,node,,memorial,Nancy,,,,48.9255444,6.0650443
+4253361702,node,,memorial,Nancy,,,,48.8925884,6.2271993
+4253362297,node,Borne Vauthier,memorial,Nancy,,,,48.7644012,6.42726
+4253396689,node,Borne Vauthier,memorial,Nancy,,,,48.9143278,6.0054309
 4259364429,node,3 Cageots,restaurant,Nancy,,,,48.6888622,6.1826448
 4309863418,node,M.Houmous,restaurant,Nancy,153 Rue Saint-Dizier,,https://www.monsieur-houmous.fr/,48.6864568,6.1857992
 4309863419,node,La Gargote,restaurant,Nancy,,,https://www.lagargote.com/,48.6856858,6.1408487
 4319695812,node,Brasserie Restaurant du Parc Sainte-Marie,restaurant,Nancy,,,http://brasserieduparc.fr/,48.6803748,6.1720244
+4323674071,node,Colonel Driant,memorial,Nancy,,,,48.6919918,6.1874249
+4323697686,node,,memorial,Nancy,,,,48.6954402,6.1823822
+4323743161,node,Général de Gaulle,memorial,Nancy,,,,48.6965549,6.1805033
+4323897066,node,Points de vue,artwork,Nancy,,,,48.6954324,6.189559
+4323897067,node,Points de vue,artwork,Nancy,,,,48.6911528,6.1753267
+4323897068,node,Points de vue,artwork,Nancy,,,,48.6979177,6.1741989
+4328377013,node,Mathieu de Dombasle,memorial,Nancy,,,,48.6917309,6.1782642
 4329957591,node,Arteteca,restaurant,Nancy,,,https://www.thefork.fr/restaurant/pizzeria-arteteca-r847683/menu,48.6868082,6.1710531
+4358699708,node,Points de vue,artwork,Nancy,,,,48.6917143,6.1859466
+4361326071,node,,memorial,Nancy,,,,48.4896768,6.093717
 4378671448,node,Le Shalimar,restaurant,Nancy,134,,,48.6867689,6.1853033
 4394080365,node,Chez Xuân,restaurant,Nancy,,,,48.6864445,6.1843835
 4394080368,node,Le Royal Rajasthan,restaurant,Nancy,,,,48.6866017,6.1842671
 4394080375,node,À l'ancienne,restaurant,Nancy,,,,48.6871293,6.1836392
+4396189366,node,Buste d'Henri Loritz,memorial,Nancy,,,,48.6906988,6.1922635
 4396365291,node,Le Bouche à Oreilles,restaurant,Nancy,,,,48.6907323,6.1809904
 4396365292,node,Le P'tit Bouche,restaurant,Nancy,,,,48.6907847,6.1809519
 4396408241,node,Le San Lorenzo,restaurant,Nancy,,,,48.6923409,6.1800699
@@ -218,23 +328,47 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4428245130,node,Tabarnak,restaurant,Nancy,,,,48.6846104,6.1789071
 4431569174,node,Chez Bébert,restaurant,Nancy,,,,48.69063,6.1801536
 4439056969,node,L'Escapade,restaurant,Nancy,,,,48.6925506,6.1895363
+4446065041,node,,memorial,Nancy,,,,48.693916,6.1354267
 4459307035,node,Le Picoti,restaurant,Nancy,,,,48.6985101,6.2061804
+4459318490,node,Square des Anciens Combattants d'Afrique du Nord,memorial,Nancy,,,,48.7005841,6.2040981
+4470172733,node,,memorial,Nancy,,,,48.6800478,6.1812321
 4475802602,node,La Linotte des Bois,restaurant,Nancy,,,https://restaurant-lalinottedesbois.com/,48.6643565,6.1354755
+4480789195,node,,memorial,Nancy,,,,48.7998082,5.9966288
+4480789196,node,,memorial,Nancy,,,,48.799821,5.9958476
+4480789197,node,,memorial,Nancy,,,,48.7998308,5.9958054
+4481985716,node,,viewpoint,Nancy,,,,48.6997739,6.1540694
+4484565092,node,,memorial,Nancy,,,,48.7928644,6.0022171
+4510804806,node,Daniel Meyer,memorial,Nancy,,,,48.6807779,6.1708305
+4523559351,node,,artwork,Nancy,,,,48.6890335,6.1926182
+4535093524,node,Astérix et les condés,artwork,Nancy,,,,48.776757,6.1375956
+4535093525,node,Breaking Bad,artwork,Nancy,,,,48.7768867,6.1374857
+4540659418,node,Mémorial Allemand,memorial,Nancy,,,,48.9286265,6.0045259
 4560408086,node,Hôtel Saint-Georges,hotel,Nancy,,,,48.6922912,6.1912463
 4562384964,node,Les 7 Bourriches,restaurant,Nancy,,,,48.6930015,6.1817752
+4589694068,node,Giulia,artwork,Nancy,,,,48.6887924,6.1791409
 4611405406,node,Auberge de la Colline,restaurant,Nancy,,,https://www.facebook.com/AubergedelaColline54/,48.4159524,6.0565465
+4666732142,node,Château de Villers-les-Prud'homme,castle,Nancy,,,,48.8364231,6.1398894
+4666732147,node,,castle,Nancy,,,,48.7531118,6.2288501
+4666732148,node,Château d'Etreval,castle,Nancy,,,,48.4533311,6.0489469
+4690905905,node,,artwork,Nancy,,,,48.653255,6.148138
+4692399520,node,,memorial,Nancy,,,,48.6780993,6.1631459
+4728436734,node,,memorial,Nancy,,,,48.6887091,6.1788875
+4728436735,node,,memorial,Nancy,,,,48.688709,6.1788875
 4758523692,node,Bout 'Choux,restaurant,Nancy,,,https://www.boutchouxrestaurant.com/,48.700909,6.2019002
 4807255506,node,Le Basilic,restaurant,Nancy,,,,48.632253,6.306263
 4807668586,node,La Cour des Arts,restaurant,Nancy,,,,48.6916027,6.1826329
+4815029672,node,Jeanne d'Arc,memorial,Nancy,,,,48.6297838,6.3082735
 4838085086,node,Buddha Palace,restaurant,Nancy,,,https://www.bouddhapalace.com,48.626172,6.3454056
 4847205241,node,La Maison dans le Parc,restaurant,Nancy,,,https://lamaisondansleparc.com/,48.6941849,6.1851687
 4847205242,node,Le Vivier,restaurant,Nancy,,,,48.6942312,6.1815193
 4847205243,node,Sisco,restaurant,Nancy,,,,48.6942573,6.181597
 4893579032,node,Le RDV,restaurant,Nancy,,,,48.6906299,6.1744805
 4970069877,node,Natsu,restaurant,Nancy,,,https://www.restaurant-natsu.fr/menu,48.6853514,6.1868275
+4982430463,node,,ruins,Nancy,,,,48.9026362,6.2958568
 4991079770,node,IT Italian Trattoria,restaurant,Nancy,,,https://it-trattoria.com/restaurant/nancy-henri-mengin,48.6894158,6.1815918
 4997952894,node,Le Boufflers,restaurant,Nancy,,,,48.6891658,6.1614614
 4998379578,node,Mama Betty,restaurant,Nancy,,,,48.6925009,6.1370013
+4998745175,node,Espace de Mémoire Lorraine 1939 - 1945,museum,Nancy,,,http://espacedememoire.fr/,48.4812214,6.0998824
 4999955285,node,Le Bistroquet,restaurant,Nancy,97,,http://www.restaurant-lebistroquet.com/,48.817174,6.1002094
 4999955289,node,Le P'tizognon,restaurant,Nancy,,,,48.9019989,6.0524084
 4999955290,node,Le Petit Gourmandin,restaurant,Nancy,,,https://www.restaurant-lepetitgourmandin.com/,48.9058887,6.0603653
@@ -246,15 +380,32 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4999955300,node,Au Balcon,restaurant,Nancy,,,https://aubalconrestaurant.fr,48.9032688,6.0556052
 4999955305,node,Chez Sonia & Bud,restaurant,Nancy,42,,,48.95635,6.0583003
 4999955311,node,La Grande Chope,restaurant,Nancy,,,https://la-grande-chope.e-monsite.com/,48.7550173,6.1417678
-4999955313,node,Auberge des Voyageurs,guest_house,Nancy,,,https://auberge-desvoyageurs54.fr,48.9543616,6.0369509
+4999955313,node,Auberge des Voyageurs,restaurant,Nancy,,,https://auberge-desvoyageurs54.fr,48.9543616,6.0369509
+5009900736,node,Pierre de la Fraternité,memorial,Nancy,,,,48.6679757,6.1743211
 5016549714,node,Kosy appart'hôtel Cœur de Ville,hotel,Nancy,,,,48.6903891,6.1749286
 5016549716,node,Néméa Appart hotel Nancy,hotel,Nancy,13,,https://www.nemea-appart-hotel.com/residence/france/lorraine/meurthe-et-moselle/nancy/residence-nancy-appart-hotel-121.html,48.6857224,6.1905244
 5031869715,node,Hôtel Ibis Styles Nancy Centre Gare,hotel,Nancy,3,,http://www.all-seasons-hotels.com/gb/hotel-6852-ibis-styles-nancy-centre-gare-ex-all-seasons/index.shtml,48.6903321,6.1714605
+5032757619,node,,memorial,Nancy,,,,48.617193,6.2016749
 5045385221,node,Le Dizneuf,restaurant,Nancy,19,,,48.6888316,6.1823196
+5047636403,node,,memorial,Nancy,,,,48.6639412,6.2157686
+5047636404,node,,memorial,Nancy,,,,48.6639465,6.2156466
+5047636405,node,,memorial,Nancy,,,,48.6636504,6.215605
+5047636412,node,,memorial,Nancy,,,,48.6638668,6.2161092
+5047636413,node,,memorial,Nancy,,,,48.6637844,6.2160274
+5047636414,node,,memorial,Nancy,,,,48.6633406,6.2160878
+5047636415,node,,memorial,Nancy,,,,48.6634629,6.2161012
 5051419148,node,La Mésange Bleue,restaurant,Nancy,,,,48.439225,6.2798975
+5055480444,node,,artwork,Nancy,,,,48.6984527,6.1836495
+5057775092,node,Château de l'Avant-Garde,ruins,Nancy,,,,48.7671359,6.11488
 5060366024,node,La Gloria,restaurant,Nancy,,,http://la-gloria-ristorante.eatbu.com,48.6180086,6.1775194
+5063865216,node,Alliance du Travail et de la Pensée,artwork,Nancy,,,,48.6918358,6.1882714
 5087018862,node,Tempio Pizzeria,restaurant,Nancy,,,,48.7496904,6.0662529
+5118341623,node,Stèle commémorative Charles PETIT Darnys,memorial,Nancy,,,,48.7109073,6.1778221
+5146877977,node,,memorial,Nancy,,,,48.8229661,6.2498555
 5163934126,node,L'Atelier,restaurant,Nancy,,,,48.7064111,6.1657455
+5175433523,node,,artwork,Nancy,,,,48.688022,6.2117238
+5188118550,node,Croix du soldat Fortuné Pouget,memorial,Nancy,,,,48.9646384,6.0868249
+5204678685,node,,viewpoint,Nancy,,,,48.6906262,6.1542246
 5248940375,node,Ippoudo Ramen,restaurant,Nancy,,,,48.6881714,6.1842767
 5257378122,node,Chez 86,restaurant,Nancy,,,,48.7017526,6.1715722
 5275776153,node,La Table de Bacchus,restaurant,Nancy,,,https://www.la-table-de-bacchus-restaurant-nancy.fr,48.6942109,6.1814486
@@ -263,66 +414,192 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5275776157,node,Le Potager,restaurant,Nancy,,,,48.6941282,6.1811215
 5275776158,node,Le Palais de Shalimar,restaurant,Nancy,14,,,48.6943269,6.1814119
 5275776159,node,Le Comptoir de Bacchus,restaurant,Nancy,,,,48.6942953,6.1813722
+5396673975,node,,memorial,Nancy,,,,48.6939707,6.1817442
+5396673976,node,,memorial,Nancy,,,,48.6932991,6.184339
 5396673991,node,Retrogusto,restaurant,Nancy,,,,48.6927735,6.1805358
 5467309176,node,(S)pace Artem,restaurant,Nancy,,,,48.6735688,6.1693227
 5534507807,node,Angelùzzo,restaurant,Nancy,,,https://www.angeluzzo.fr/,48.6903925,6.1829071
 5552595608,node,Les Têtes Brûlées,restaurant,Nancy,"Avenue Nelson Mandela, 54510, Tomblaine",54510,https://www.restolestetesbrulees.com/,48.691932,6.2258544
+5580925677,node,,memorial,Nancy,,,,48.9062244,6.0763802
+5580942340,node,Stèle Général Searby,memorial,Nancy,,,,48.9054774,6.0769115
+5581466599,node,Rempart de Mousson,ruins,Nancy,,,,48.9057188,6.0794637
+5584459247,node,,memorial,Nancy,,,,48.7202519,6.208581
 5600376725,node,Le Trianon,restaurant,Nancy,,,,48.7075801,6.1668399
 5600866789,node,Café Cuba,restaurant,Nancy,,,,48.6926017,6.1774797
 5600866796,node,À la Maison,restaurant,Nancy,,,,48.692435,6.1769615
 5600866797,node,Brasserie L'Académie,restaurant,Nancy,9,,,48.6925412,6.1773135
 5610133029,node,Pont 29,restaurant,Nancy,29,,,48.6882602,6.1820549
+5613668008,node,,viewpoint,Nancy,,,,48.7176357,6.2203361
 5615139821,node,Le Gaulius,restaurant,Nancy,,,,48.7051163,6.2212162
+5622709119,node,,memorial,Nancy,,,,48.3733297,6.0623905
+5629274772,node,,memorial,Nancy,,,,48.7086704,6.2209295
 5630123017,node,Agora Pizza,restaurant,Nancy,,,,48.7017932,6.2236032
 5645909524,node,Au Fin Couscous,restaurant,Nancy,,,,48.6104634,6.1427722
-5650040825,node,Chez La Moon,guest_house,Nancy,,,,48.4395239,6.2788999
+5650040825,node,Chez La Moon,restaurant,Nancy,,,,48.4395239,6.2788999
+5739146671,node,Le Taureau,artwork,Nancy,,,,48.6885179,6.1768416
 5763034651,node,Les Moulins Bleus,restaurant,Nancy,,,https://lesmoulinsbleus.com/nous-trouver/laxou/,48.6913611,6.126323
+5784029893,node,,viewpoint,Nancy,,,,48.7516254,6.0619228
 5826348049,node,Mamie Branchée,restaurant,Nancy,,,,48.6926649,6.1849359
+5851847452,node,,viewpoint,Nancy,,,,48.7264761,6.2484466
 5859236452,node,,hotel,Nancy,,,,48.5972582,6.0915
+5859236453,node,,viewpoint,Nancy,,,,48.5965905,6.091295
+5859298673,node,,viewpoint,Nancy,,,,48.5921095,6.0530446
 5896114686,node,Crock & Rock,restaurant,Nancy,,,https://croc-rock.eatbu.com/?lang=fr,48.6934983,6.1905698
 5899499995,node,L’Auberge,restaurant,Nancy,6 Place du Château,,,48.4667832,6.180339
+5916785331,node,Points de vue,artwork,Nancy,,,,48.6938984,6.1863264
+5916785335,node,,artwork,Nancy,,,,48.6833245,6.1966926
+5916785336,node,Stan,artwork,Nancy,,,,48.6953483,6.1897342
+5916785338,node,Le Mur,artwork,Nancy,,,,48.6885373,6.1815061
+5916785339,node,Le Bouquet,artwork,Nancy,,,,48.6851087,6.1867893
 5967392802,node,Vins et Tartines,restaurant,Nancy,,,,48.6884578,6.1819096
 5967392804,node,Les Pissenlits,restaurant,Nancy,,,https://www.les-pissenlits.com/,48.6883468,6.1819912
+5981386279,node,Stèle commémortative du 21e R. d'Aviation,memorial,Nancy,,,,48.7034689,6.2322038
+5981386280,node,Stèle commémorative du 69e R.I.,memorial,Nancy,,,,48.7032945,6.2316553
 6013449643,node,Les Enfants Terribles,restaurant,Nancy,,,https://lesenfantsterribles.groupekeller.fr/,48.648697,6.1524642
+6048548279,node,,viewpoint,Nancy,,,,48.693067,6.1600004
 6072480460,node,La Lorraine Perdue,restaurant,Nancy,,,https://www.lalorraineperdue.com/,48.4982921,6.0109068
+6276785039,node,Monument aux morts de 1870,memorial,Nancy,,,,48.9801099,6.0237935
+6372020233,node,,memorial,Nancy,,,,48.6952393,6.1261653
 6372052991,node,Au Bureau,restaurant,Nancy,31 Avenue de la Résistance,,https://www.aubureau.fr/restaurant/?ville=AB_LAXOU,48.6946858,6.1245556
 6374605487,node,Brasserie du Marché,restaurant,Nancy,,,,48.6647447,6.1741145
 6375685091,node,Hôtel Lorraine,hotel,Nancy,,,,48.6945982,6.1254189
 6383691293,node,Abbaye des Prémontrés - L'Hôtel,hotel,Nancy,,,https://www.abbaye-premontres.com/hotel/,48.9079942,6.0563716
+6391785158,node,L'éveil du printemps,artwork,Nancy,,,,48.9821229,6.0179596
+6391785168,node,jardin du Parc Parison,garden,Nancy,,,,48.9823849,6.019158
 6397855882,node,O'Noodle,restaurant,Nancy,,,https://onoodle54000.com,48.6930604,6.1819708
+6399457234,node,,memorial,Nancy,,,,48.9005307,6.0386657
 6418577264,node,L'instinct By C&M,restaurant,Nancy,,,https://www.linstinctbycm.fr/,48.7049446,6.2475004
 6418577265,node,Les Simone's,restaurant,Nancy,,,https://restolessimones.fr/,48.7049292,6.2472597
 6454289387,node,Iberico,restaurant,Nancy,,,,48.6845542,6.1864224
 6454289404,node,La Muraille de Chine,restaurant,Nancy,,,,48.691592,6.1758881
+6462679337,node,15 octobre 2000,memorial,Nancy,,,,48.9842621,6.0222611
+6486007383,node,,memorial,Nancy,,,,48.6248452,6.0825433
+6502019285,node,Calvaire,artwork,Nancy,,,,48.9879266,6.0092254
+6536405654,node,Création,artwork,Nancy,,,,48.9910818,6.0268132
 6537416417,node,La Flamme Dorée,restaurant,Nancy,,,,48.6717116,6.2050569
 6539873144,node,Zeugma,restaurant,Nancy,,,,48.6887476,6.184944
 6560925456,node,Stew Cook,restaurant,Nancy,,,,48.6874487,6.1874061
 6567903260,node,Le Capri,restaurant,Nancy,,,https://www.pizzeria-lecapri.fr/,48.6930261,6.1813693
 6574800296,node,Le Palais de Jaipur,restaurant,Nancy,23,,https://www.palaisdejaipur.com/,48.6941482,6.181191
+6596414693,node,,artwork,Nancy,,,,48.682132,6.1917325
 6614627332,node,Jacques,restaurant,Nancy,,,,48.695688,6.1808505
+6614630131,node,Idiotopie,gallery,Nancy,,,https://idiotopie.blogspot.com/,48.6946999,6.1816388
 6627197550,node,La Romana,restaurant,Nancy,,,,48.6945825,6.1817183
 6636704113,node,L'Amusette,restaurant,Nancy,,,https://lamusette.eatbu.com,48.6946153,6.1797966
 6636715207,node,Les Batteurs d'Or,restaurant,Nancy,,,,48.6895924,6.1800042
 6640474239,node,La Table de Manon,restaurant,Nancy,1,,https://latabledemanon.fr/,48.6115874,6.1022335
 6654979924,node,Le Capu,restaurant,Nancy,,,,48.692192,6.1806175
 6658472673,node,Nancy Food Pizzas - Au feu de bois,restaurant,Nancy,,,,48.6987985,6.1784776
+6680309851,node,La Girafe,artwork,Nancy,,,,48.7059125,6.1752284
 6694616151,node,Monsieur Fuji Sushi,restaurant,Nancy,,,https://monsieurfujisushi.eatbu.com,48.6905479,6.182789
+6710304196,node,Cité des Paysages,museum,Nancy,,,http://www.citedespaysages.meurthe-et-moselle.fr/,48.431377,6.0844683
 6723698152,node,Ciao Bella,restaurant,Nancy,4,,,48.690339,6.1846887
 6736223630,node,Le Clos Jeannon,restaurant,Nancy,,,,48.6685319,6.1444192
 6739146375,node,Résidence Art' & Facts,hotel,Nancy,83,,https://www.kosy-apparthotels.com/nos-residences/nancy-art-facts/,48.6764647,6.1694546
 6742057301,node,Les Tournesols,restaurant,Nancy,,,,48.6843506,6.1962445
+6745232711,node,,viewpoint,Nancy,,,,48.9917462,6.0066921
+6758702738,node,L'arbre de Vie,artwork,Nancy,,,https://www.vandoeuvre.fr/bien-etre/culture/354-km-parcours-artistique#arbre-de-vie,48.6600295,6.172518
+6767581346,node,,memorial,Nancy,,,,48.7041995,6.2325612
+6771134896,node,Musée Archéologique,museum,Nancy,,,https://shs-nancy.univ-lorraine.fr/le-musee-archeologique/,48.6953566,6.1657399
+6771509180,node,,artwork,Nancy,,,,48.684949,6.1923156
+6779957556,node,,artwork,Nancy,,,,48.6790295,6.1738957
 6795545784,node,Le Bistro Héré,restaurant,Nancy,24,,,48.6942438,6.1829243
+6838662608,node,Points de vue,artwork,Nancy,,,,48.6968206,6.1809953
+6950725893,node,Résidence Les Ardennes,artwork,Nancy,,,,48.6656614,6.171613
+6951281332,node,Cadastre napoléonien 1812,artwork,Nancy,,,,48.6631118,6.1728365
+6974018158,node,,memorial,Nancy,,,,48.8464378,5.946102
+6977242818,node,,memorial,Nancy,,,,48.883893,6.0553014
+6977242829,node,,memorial,Nancy,,,,48.8280764,6.0114272
+6977242833,node,,memorial,Nancy,,,,48.8417583,6.0647938
+6977242870,node,,memorial,Nancy,,,,48.8240901,6.1144763
+6977242886,node,,memorial,Nancy,,,,48.794636,6.1626823
+6987593523,node,,memorial,Nancy,,,,48.534077,6.0887405
+6987593558,node,,memorial,Nancy,,,,48.531879,6.1295161
+6990186400,node,,memorial,Nancy,,,,48.9589206,6.0576604
+6990186428,node,,memorial,Nancy,,,,48.9311124,6.2174758
+6990186444,node,,memorial,Nancy,,,,48.9025967,6.164411
+7023260666,node,,viewpoint,Nancy,,,,48.853821,6.1360166
+7026513759,node,,memorial,Nancy,,,,48.46363,6.1685322
+7026549386,node,,memorial,Nancy,,,,48.437426,6.2772556
+7026549409,node,,memorial,Nancy,,,,48.404689,6.1903252
+7026549411,node,,memorial,Nancy,,,,48.4077921,6.2151443
+7026549417,node,,memorial,Nancy,,,,48.4155693,6.2517129
 7037145600,node,Da' Gruma,restaurant,Nancy,6,,,48.6921997,6.1812945
 7037145659,node,Yom Thaï Food,restaurant,Nancy,,,,48.685811,6.1860099
 7037145669,node,L’Èbène,restaurant,Nancy,,,https://www.lebenerestaurant.fr/,48.6885172,6.1840212
+7040812707,node,,artwork,Nancy,,,,48.6858473,6.1618295
 7040812709,node,Les Domaines Qui Montent,restaurant,Nancy,,,,48.683947,6.1769458
+7040812713,node,Galerie de l'Atelier,gallery,Nancy,,,,48.6960605,6.1805637
+7043795693,node,Hommage à Lamour,artwork,Nancy,,,,48.6938619,6.1818382
+7043994349,node,Traits d'union,artwork,Nancy,,,,48.6904339,6.1767868
+7044542198,node,,memorial,Nancy,,,,48.3744085,6.1021073
 7059992011,node,Au bruit des bouchons,restaurant,Nancy,,,,48.6334587,6.3060227
+7062631725,node,,artwork,Nancy,,,,48.6923724,6.1849523
+7067026230,node,,memorial,Nancy,,,,48.6312764,6.3806192
 7067367510,node,Le Bakoua,restaurant,Nancy,,,,48.6869917,6.1827859
 7067367520,node,Khan,restaurant,Nancy,,,,48.6869367,6.1828671
 7067367537,node,Nemo Poke Bowl,restaurant,Nancy,,,,48.6917286,6.1812953
+7101018825,node,,artwork,Nancy,,,,48.9021759,6.0629271
+7110365108,node,,memorial,Nancy,,,,48.5867624,6.2362071
+7123314007,node,,memorial,Nancy,,,,48.6916544,6.1768907
+7126257249,node,Homme de vitruve,artwork,Nancy,,,,48.6703293,6.146109
+7126319395,node,La protectrice,artwork,Nancy,,,,48.6703781,6.1442167
+7126319405,node,Le banc des z'amoureux,artwork,Nancy,,,,48.6705237,6.1453948
+7126319412,node,La chute d'Icare,artwork,Nancy,,,,48.6712743,6.1449227
+7126319419,node,Item,artwork,Nancy,,,,48.6710016,6.1459748
+7126319423,node,Le Massaï,artwork,Nancy,,,,48.6706048,6.1460372
+7130908895,node,,memorial,Nancy,,,,48.430833,6.0837704
+7132997778,node,,memorial,Nancy,,,,48.5558916,6.3115221
+7132997826,node,,memorial,Nancy,,,,48.5884481,6.2831383
+7132997838,node,,memorial,Nancy,,,,48.6018551,6.2671175
+7133506656,node,,memorial,Nancy,,,,48.6023447,6.3956384
+7137191433,node,,memorial,Nancy,,,,48.4900086,6.2019512
+7137191434,node,,memorial,Nancy,,,,48.4893282,6.1612038
+7137191476,node,,memorial,Nancy,,,,48.5071079,6.1369599
+7159098270,node,,memorial,Nancy,,,,48.9014742,6.0544983
+7164321753,node,,memorial,Nancy,,,,48.4978011,6.0063571
+7164336616,node,,memorial,Nancy,,,,48.4987045,6.0655823
+7165579423,node,L'autre palette des sonneurs,artwork,Nancy,,,,48.9872307,6.00034
+7165579424,node,Aux pieds des arbres,artwork,Nancy,,,,48.9878134,6.0021409
+7165579425,node,La maison du nectar,artwork,Nancy,,,,48.9881647,6.0027549
+7165579426,node,Le regard,artwork,Nancy,,,,48.9882871,6.0029637
+7165579427,node,Cadres de vie,artwork,Nancy,,,,48.9885612,6.003491
+7165579428,node,Osier les verres,artwork,Nancy,,,,48.988788,6.0044814
+7165579429,node,L'arbre à nichoirs,artwork,Nancy,,,,48.988904,6.0057337
+7165579430,node,La grappe,artwork,Nancy,,,,48.9892269,6.0073995
+7166958814,node,,memorial,Nancy,,,,48.7542423,6.2806204
+7166959226,node,,memorial,Nancy,,,,48.4995682,6.2508881
+7188829318,node,Forteresse des Rays,ruins,Nancy,,,,48.7572621,6.1229333
+7206388338,node,,memorial,Nancy,,,,48.4634673,6.080889
 7217251889,node,Les Délices d'Asie,restaurant,Nancy,,,https://lesdelicesdasie.eatbu.com,48.7100354,6.171005
+7242974741,node,,memorial,Nancy,,,,48.815919,6.3049224
+7248029748,node,,memorial,Nancy,,,,48.7808954,6.3507816
+7252232889,node,,artwork,Nancy,,,,48.6932236,6.159165
+7255673952,node,,memorial,Nancy,,,,48.695349,6.171466
+7258283210,node,,memorial,Nancy,,,,48.8361709,5.9944823
+7258283283,node,,memorial,Nancy,,,,48.7334806,6.1635162
+7266227633,node,,memorial,Nancy,,,,48.4712773,6.2663001
+7278039698,node,,artwork,Nancy,,,,48.7526052,6.1689305
+7280294856,node,Louis Majorelle,artwork,Nancy,,,,48.6800136,6.1655341
+7282819132,node,,memorial,Nancy,,,,48.7595873,6.0550801
+7282819142,node,,memorial,Nancy,,,,48.7433113,6.2556316
+7282819150,node,,memorial,Nancy,,,,48.7162943,6.2659281
+7282819152,node,,memorial,Nancy,,,,48.7356888,6.237174
+7282835194,node,,memorial,Nancy,,,,48.702232,6.2577244
+7282835196,node,,memorial,Nancy,,,,48.7507492,6.2243027
+7282835227,node,,memorial,Nancy,,,,48.5840107,6.0653248
+7285976740,node,,memorial,Nancy,,,,48.8907303,6.0893534
+7285984961,node,,memorial,Nancy,,,,48.8568067,6.2894475
+7285985009,node,,memorial,Nancy,,,,48.7949178,6.2295467
+7285985071,node,,memorial,Nancy,,,,48.8138,6.2503262
+7285985159,node,,memorial,Nancy,,,,48.8315791,6.2005229
+7285985160,node,,memorial,Nancy,,,,48.8761745,6.196686
 7289367236,node,Les prés dans le plat,restaurant,Nancy,,,https://lespresdansleplat.fr/,48.7352085,6.1686233
+7289631539,node,Extrait du discours du Congrès de la paix 21 août 1849,memorial,Nancy,,,,48.6896685,6.17285
+7308847133,node,,memorial,Nancy,,,,48.7229198,6.1284506
+7319265047,node,Matrice,artwork,Nancy,,,,48.6849425,6.1527367
 7337274826,node,,restaurant,Nancy,,,https://fort-pelissier.com,48.597342,6.0917377
+7342619924,node,,viewpoint,Nancy,,,,48.4276643,6.2541696
 7354588176,node,,restaurant,Nancy,,,,48.7031004,6.153215
 7379192344,node,Saveurs et Parfums d'Italie,restaurant,Nancy,,,,48.6894546,6.1826392
 7406123826,node,L'impromptu,restaurant,Nancy,,,,48.6892954,6.183238
@@ -333,122 +610,1088 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 7444265522,node,La Lorette,restaurant,Nancy,,,,48.7416933,6.3493268
 7453632701,node,La Nouvelle Soyotte,restaurant,Nancy,43,,https://la-nouvelle-soyotte.business.site/,48.747811,6.2021617
 7463616022,node,Lilaver,restaurant,Nancy,,,,48.9075671,6.0494281
+7463887956,node,,memorial,Nancy,,,,48.695237,6.1812946
+7471266179,node,,memorial,Nancy,,,,48.654995,6.1497246
+7471266180,node,,memorial,Nancy,,,,48.6524189,6.1505644
 7471812472,node,Chingu,restaurant,Nancy,,,https://chingu.fr/,48.6938481,6.1807387
 7479507171,node,,restaurant,Nancy,,,https://www.domainedesion.com/restaurant-colline-de-sion/,48.4194794,6.0944253
 7519329186,node,Au Petit Gourmet,restaurant,Nancy,,,,48.6138298,6.2536018
 7529231618,node,Bagel & Salsa,restaurant,Nancy,,,https://www.bageletsalsanancy.fr/,48.6731241,6.1733491
+7575408875,node,,memorial,Nancy,,,,48.74129,6.3154636
 7589230949,node,Resto' Cours Léopold,restaurant,Nancy,16,,https://www.crous-lorraine.fr/restaurant/cours-leopold/,48.6950159,6.1772029
 7593524297,node,La Villa des Roses,restaurant,Nancy,,,,48.742709,6.2405705
 7596723867,node,La Fauvette,restaurant,Nancy,6,,,48.616258,6.1054212
+7608770028,node,Les 3 ours polaires,artwork,Nancy,,,,48.6886326,6.1788676
+7622463148,node,,memorial,Nancy,,,,48.7516945,6.2043297
+7631525254,node,Vivre Ensemble,artwork,Nancy,,,https://www.vandoeuvre.fr/bien-etre/culture/354-km-parcours-artistique#vivre-ensemble,48.6642379,6.174248
+7706808065,node,Chapelle des Templiers,ruins,Nancy,,,,48.9037533,6.0788691
+7737338677,node,,viewpoint,Nancy,,,,48.7728238,6.1269419
+7737338679,node,,viewpoint,Nancy,,,,48.7942172,6.0809045
+7737338680,node,,viewpoint,Nancy,,,,48.7991958,6.0963814
+7737365193,node,,viewpoint,Nancy,,,,48.8051145,6.1374755
+7737365195,node,,viewpoint,Nancy,,,,48.8035088,6.2342262
+7737365196,node,,viewpoint,Nancy,,,,48.8029169,6.2071279
+7737365197,node,,viewpoint,Nancy,,,,48.7854348,6.2055346
+7737365229,node,,viewpoint,Nancy,,,,48.8019303,6.1290032
+7737365232,node,,viewpoint,Nancy,,,,48.7846053,6.1545683
+7737365233,node,,viewpoint,Nancy,,,,48.7541676,6.0639556
+7737365244,node,,viewpoint,Nancy,,,,48.763021,6.1622009
+7737365245,node,,viewpoint,Nancy,,,,48.7695204,6.1666003
+7737365275,node,,viewpoint,Nancy,,,,48.7492531,6.1784993
+7737365276,node,,viewpoint,Nancy,,,,48.7885636,6.0492443
+7737365277,node,,viewpoint,Nancy,,,,48.732769,6.1554343
 7810305472,node,Le Chardon,restaurant,Nancy,,,https://restaurant-lechardon.fr/,48.6855063,6.1865969
+7835439112,node,,memorial,Nancy,,,,48.6859571,6.1813858
+7835439113,node,,memorial,Nancy,,,,48.6859527,6.1813887
+7849356480,node,Belvédère,viewpoint,Nancy,,,,48.6407571,6.1690787
 7887242139,node,Relais de la Poste,restaurant,Nancy,,,,48.5689233,6.1880774
 7930698946,node,Pause café,restaurant,Nancy,,,https://pausecafe-custines.fr/,48.7919529,6.1427602
 7930707621,node,Pizzeria La Ruota,restaurant,Nancy,,,https://www.pizzeria-italienne-custines.fr/,48.7927514,6.1441452
 7948641996,node,À la table de l'étang,restaurant,Nancy,,,,48.8058618,6.1166757
 7963600305,node,Le Cartel à Mémé,restaurant,Nancy,,,,48.9036585,6.0559815
 8010392060,node,Pizzeria Les Roses,restaurant,Nancy,,,https://pizzerialesroses.wordpress.com/,48.7902851,6.0459843
+8042855111,node,,memorial,Nancy,,,,48.6934557,6.1876078
 8069684003,node,La Nonna,restaurant,Nancy,,,,48.7671021,6.0573895
 8072237588,node,Périscolaire chateau,restaurant,Nancy,,,,48.7313072,6.1657803
+8072579057,node,,artwork,Nancy,,,,48.663826,6.2160408
+8072579058,node,,artwork,Nancy,,,,48.663842,6.2161139
+8072579077,node,,artwork,Nancy,,,,48.6669181,6.2089072
+8075516362,node,Mounky Parc,theme_park,Nancy,,,,48.6432561,6.1860243
 8094549301,node,Little Italia,restaurant,Nancy,,,https://little-italia-frouard.business.site/,48.748839,6.1486512
 8094549309,node,Le Rossignol,restaurant,Nancy,,,,48.7603447,6.1241407
 8094609033,node,Passion Coco,restaurant,Nancy,,,http://www.pizzeria-passion-coco.fr/,48.7610062,6.1325451
+8094806640,node,,artwork,Nancy,,,,48.6612158,6.182708
 8143917485,node,L'Arsenal,restaurant,Nancy,,,,48.6968892,6.1776717
 8148716020,node,L'Entre Deux,restaurant,Nancy,,,https://lentre-deux.eatbu.com/,48.7777289,6.1310187
 8148716022,node,French Food,restaurant,Nancy,,,,48.7760119,6.1307308
 8148716024,node,Le Pompéen,restaurant,Nancy,49,,http://lepompeen.free.fr/,48.7697903,6.1287296
+8174053272,node,Bière de Dombasle,artwork,Nancy,,,,48.6841893,6.1787853
+8174053276,node,Le Kreu,gallery,Nancy,,,,48.6953891,6.1805621
+8174053278,node,L'arbre suspendu,artwork,Nancy,,,,48.6990121,6.1777696
+8174053282,node,Virginie Mauvais,memorial,Nancy,,,,48.697756,6.1788444
 8174053298,node,Au Soleil de Provence,restaurant,Nancy,,,,48.684422,6.1779713
 8178787277,node,Grand Buffet 54,restaurant,Nancy,"2 Rue Jean Ferrat, 54270, Essey-lès-Nancy",54270,,48.712213,6.2414662
 8187605359,node,Le 27,restaurant,Nancy,27,,,48.6922505,6.1807965
 8241544030,node,Khao Thip,restaurant,Nancy,1 bis Rue des Quatre Églises,,,48.6887846,6.1826749
+8242769420,node,,memorial,Nancy,,,,48.7000086,6.1658474
+8264408319,node,Deux voyageurs,artwork,Nancy,,,,48.7508071,6.0622551
+8264408320,node,Deux voyageurs,artwork,Nancy,,,,48.7510255,6.0623402
+8300174040,node,,memorial,Nancy,,,,48.5873143,6.0326241
+8300988568,node,François de Bassompierre,memorial,Nancy,,,,48.4668874,6.1787434
 8316091230,node,Restaurant Gizem,restaurant,Nancy,,,,48.7478029,6.2019083
+8349456388,node,Ouvrez l'œil,artwork,Nancy,,,,48.9866992,6.0003269
+8349456389,node,Ouvrez l'œil,artwork,Nancy,,,,48.987288,6.0004777
+8349456390,node,Ouvrez l'œil,artwork,Nancy,,,,48.9872906,6.0005689
+8349456391,node,Ouvrez l'œil,artwork,Nancy,,,,48.9874714,6.001267
+8349456392,node,Ouvrez l'œil,artwork,Nancy,,,,48.987787,6.0020616
+8349456393,node,Ouvrez l'œil,artwork,Nancy,,,,48.9878349,6.0021997
+8349456394,node,Ouvrez l'œil,artwork,Nancy,,,,48.9882221,6.0028736
+8349456395,node,Ouvrez l'œil,artwork,Nancy,,,,48.9883669,6.0031023
+8349456396,node,Ouvrez l'œil,artwork,Nancy,,,,48.9887541,6.0036025
+8349456397,node,Ouvrez l'œil,artwork,Nancy,,,,48.9888637,6.0045748
+8349456398,node,L'arbre à nichoirs,artwork,Nancy,,,,48.988935,6.0051186
+8349456399,node,La Grappe,artwork,Nancy,,,,48.9888897,6.0055404
+8349456400,node,Totems,artwork,Nancy,,,,48.9888831,6.0059843
+8349456401,node,Ouvrez la Cage aux Oiseaux,artwork,Nancy,,,,48.9903369,6.0083601
+8349456402,node,Ouvrez l'œil,artwork,Nancy,,,,48.9900715,6.0079021
+8349456403,node,Le Champ des Rondelles,artwork,Nancy,,,,48.9900644,6.0078411
+8349456404,node,Totems,artwork,Nancy,,,,48.9896764,6.0076513
+8349456406,node,P'tits Bonhommes,artwork,Nancy,,,,48.9916107,6.0120535
 8415885525,node,Bon’t,restaurant,Nancy,90,,,48.6889241,6.1920556
+8485053326,node,Accumulateur à minerai Zinzin,ruins,Nancy,,,,48.6270785,6.0550126
+8485064635,node,,ruins,Nancy,,,,48.6075171,6.0969591
 8485082892,node,O'break,restaurant,Nancy,42 bis,,,48.6166653,6.0902221
+8500573114,node,Le Corbeux et le Renard,artwork,Nancy,,,,48.6659556,6.180847
+8504108523,node,,artwork,Nancy,,,,48.6837406,6.1805285
+8504108535,node,Jean Jaurès,memorial,Nancy,,,,48.6826055,6.1777621
+8504108570,node,,artwork,Nancy,,,,48.683787,6.1804856
+8507604137,node,,memorial,Nancy,,,,48.6899067,6.181596
 8567985115,node,KungFu nouilles,restaurant,Nancy,,,https://kungfunouilles.fr/,48.6894843,6.1809969
 8567999219,node,Au Merle Blanc,restaurant,Nancy,,,https://www.aumerleblanc.fr/,48.6895521,6.180947
+8567999223,node,Edmont de Goncourt,memorial,Nancy,,,,48.690726,6.1812525
+8567999224,node,Hervé Bize,gallery,Nancy,,,,48.6923603,6.1818689
 8567999230,node,La Maison Chinoise,restaurant,Nancy,,,,48.6845451,6.1785517
+8567999246,node,À la mémoire des cheminots,memorial,Nancy,,,,48.6893265,6.174678
+8568899997,node,,artwork,Nancy,,,,48.6336606,6.29704
 8574931558,node,Pho Etoile,restaurant,Nancy,,,,48.692881,6.1814324
+8574931571,node,Maison alsacienne datant de 1804,memorial,Nancy,,,,48.6808291,6.1718138
+8614389357,node,,viewpoint,Nancy,,,,48.7204882,6.1461018
+8614389358,node,,artwork,Nancy,,,,48.7275726,6.1557901
+8648672941,node,,memorial,Nancy,,,,48.835722,6.0113648
+8675879731,node,,attraction,Nancy,,,,48.652067,6.1724248
+8681093728,node,,garden,Nancy,,,,48.7222474,6.1328387
+8694169697,node,,attraction,Nancy,,,,48.6534816,6.1721619
+8694169698,node,,attraction,Nancy,,,,48.6533543,6.1723792
+8694169707,node,,attraction,Nancy,,,,48.6530688,6.1724533
+8694169739,node,,attraction,Nancy,,,,48.6525771,6.1724254
+8730811805,node,,memorial,Nancy,,,,48.6824819,6.1712954
+8739467543,node,"x,y,z / 3 lignes sur pla,",artwork,Nancy,,,,48.957966,6.0733722
+8758117411,node,,memorial,Nancy,,,,48.6758176,6.1696663
+8769368653,node,Alexis Vautrin,memorial,Nancy,,,,48.6825509,6.1745615
 8808806597,node,L'Alpa,restaurant,Nancy,,,https://www.tchiz-nancy.fr/,48.6911445,6.2021765
 8862034029,node,Céline food,restaurant,Nancy,,,,48.6893584,6.193728
 9023576915,node,Up To You,restaurant,Nancy,,,,48.6945234,6.1817557
 9053464817,node,La Traviata,restaurant,Nancy,,,,48.6967073,6.1797136
+9104987568,node,Primate 2000,artwork,Nancy,,,,48.7349542,6.1674107
+9162020037,node,Compagnie lorraine d'électricité,memorial,Nancy,,,,48.6832724,6.179347
+9172100226,node,Antoine Drouot,memorial,Nancy,,,,48.6887456,6.174049
+9201057279,node,,artwork,Nancy,,,,48.7038322,6.1485307
+9216824010,node,Français souvenez-vous,memorial,Nancy,,,,48.7600479,6.062756
+9241049344,node,,artwork,Nancy,,,,48.6841724,6.1779526
+9248240137,node,Galerie Neuf,gallery,Nancy,,,,48.693704,6.1807718
+9248240138,node,Galerie Lillebonne,gallery,Nancy,,,http://www.mjclillebonne.org/index.php?option=com_galery_detail&typeEvent=5&view=content&id=1,48.6952564,6.178485
+9248240139,node,My Monkey,gallery,Nancy,,,https://mymonkey.fr/,48.6888951,6.19148
 9258765620,node,,restaurant,Nancy,,,,48.688777,6.174094
 9258765638,node,Terroirs,restaurant,Nancy,,,,48.6813869,6.1662058
 9258765640,node,Le Cadet,restaurant,Nancy,,,,48.6820217,6.1659939
 9258765663,node,La Brasserie des Bains,restaurant,Nancy,,,,48.6782373,6.1696248
 9258765684,node,La Medina,restaurant,Nancy,,,https://restaurant-la-medina.fr/,48.6676136,6.1665313
 9258765694,node,Pizza Hut,restaurant,Nancy,,,https://www.pizzahut.fr/huts/fr-1/43-nancy-centre-gare,48.686047,6.1715743
+9280857792,node,Galerie des Michottes,gallery,Nancy,,,,48.6926817,6.1789076
+9340941032,node,Pierre Louis Maubeuge,monument,Nancy,,,,48.45134,6.0981739
+9379947974,node,,memorial,Nancy,,,,48.6666305,6.2157321
+9380421605,node,,memorial,Nancy,,,,48.6583816,6.177491
+9413868169,node,,memorial,Nancy,,,,48.7309932,6.2382824
+9442430327,node,Notre Dame de Belleville,memorial,Nancy,,,,48.8141078,6.0883352
+9461179218,node,,ruins,Nancy,,,,48.7544234,6.2796475
+9466138948,node,,viewpoint,Nancy,,,,48.7540117,6.279481
 9492727793,node,Le Local,restaurant,Nancy,,,,48.685958,6.1689457
 9492774961,node,La Yourte,restaurant,Nancy,,,,48.6865396,6.1707586
+9560279138,node,Bannières,artwork,Nancy,,,https://www.vandoeuvre.fr/bien-etre/culture/354-km-parcours-artistique#bannieres,48.6629978,6.172976
+9568105503,node,Verticale en V,artwork,Nancy,,,https://www.vandoeuvre.fr/bien-etre/culture/354-km-parcours-artistique#verticale-en-v,48.6603732,6.1729032
+9568105504,node,Confinement,artwork,Nancy,,,https://www.vandoeuvre.fr/bien-etre/culture/354-km-parcours-artistique#confinement,48.6675701,6.1744012
+9568105505,node,L'errant,artwork,Nancy,,,https://www.vandoeuvre.fr/bien-etre/culture/354-km-parcours-artistique#l-errant,48.6676983,6.1741029
+9568105506,node,La sieste,artwork,Nancy,,,https://www.vandoeuvre.fr/bien-etre/culture/354-km-parcours-artistique#la-sieste,48.6676385,6.170557
 9663412491,node,Hôtel Campanile Nancy Centre - Gare,hotel,Nancy,12,,,48.6916735,6.1754872
+9721067762,node,,artwork,Nancy,,,,48.6827793,6.1629638
+9755417153,node,Sculpter un jardin à l'échelle humaine,artwork,Nancy,,,,48.6833004,6.1607295
+9792745170,node,,artwork,Nancy,,,,48.6839824,6.1764506
 9812845656,node,Hôtel Stanley,hotel,Nancy,,,,48.6893223,6.1782374
+9817503602,node,Okidok,theme_park,Nancy,,,,48.6083434,6.1616862
 9817503613,node,Restaurant du Breuil,restaurant,Nancy,,,,48.6082406,6.1617837
 9822979164,node,Kung Fu Nouilles,restaurant,Nancy,,,,48.6895092,6.1809785
+9822979169,node,,memorial,Nancy,,,,48.6896696,6.1810248
+9825772670,node,Jardin du Pré Latour,park,Nancy,,,,48.9177126,6.0666266
+9838631566,node,,memorial,Nancy,,,,48.6962437,6.1763171
+9842077250,node,,artwork,Nancy,,,,48.6623698,6.1862717
+9859052382,node,Monument Funéraire,artwork,Nancy,,,,48.6802143,6.1650398
+9859052385,node,,artwork,Nancy,,,,48.6865335,6.1682282
+9859052390,node,Ancienne Porte Cochère Des Ateliers Gallé,artwork,Nancy,,,,48.6803938,6.165657
+9870547234,node,Fabul'eau,artwork,Nancy,,,,48.6773873,6.1862166
 9883120645,node,Appart'City Nancy,hotel,Nancy,10,,,48.6925998,6.1981545
+9895469031,node,,memorial,Nancy,,,,48.6883623,6.1941593
+9896794937,node,,memorial,Nancy,,,,48.7083808,6.1794718
+9905852348,node,Lionnois,memorial,Nancy,,,,48.6960213,6.1806073
+9905852368,node,,artwork,Nancy,,,,48.6958863,6.1807249
 9905852371,node,Barbara Kitchen,restaurant,Nancy,,,,48.6893234,6.1798208
 9905852373,node,Piperno,restaurant,Nancy,"1 bis Rue Notre-Dame, 54000, Nancy",54000,https://piperno.fr/restaurants/4472-piperno-nancy,48.6892573,6.1804359
+9907749977,node,dans cette maison est né Henri Poincaré,memorial,Nancy,,,,48.6978424,6.178578
+9907749983,node,Galerie Victoria,gallery,Nancy,,,,48.6906545,6.1855228
+9994627088,node,,viewpoint,Nancy,,,,48.664379,6.1479223
+9999324156,node,,artwork,Nancy,,,,48.6571653,6.1670221
 10037691320,node,Au Bureau,restaurant,Nancy,,,https://www.aubureau.fr/restaurant/?ville=AB_Ludres,48.6181411,6.1759332
+10068046364,node,,memorial,Nancy,,,,48.7017673,6.1867619
+10075360134,node,Isabey Est Né Dans Cette Maison,memorial,Nancy,,,,48.6891537,6.1835494
+10120544901,node,,artwork,Nancy,,,,48.9039925,6.0814754
 10130975303,node,Le Jardin des Thermes,restaurant,Nancy,,,http://www.lejardindesthermes.net,48.6760186,6.1697988
 10163905390,node,Hôtel Foch,hotel,Nancy,8 Avenue Foch,,,48.6886617,6.1737433
+10242741603,node,Memorial 356eme Régiment d'infanterie,memorial,Nancy,,,,48.9155209,6.021321
 10270129551,node,Potes & Cocottes,restaurant,Nancy,,,,48.6534703,6.1775967
 10270129552,node,Restaurant de l'Hippodrome,restaurant,Nancy,,,,48.6518809,6.1409336
+10270248556,node,La Fête Républicaine,artwork,Nancy,,,,48.6600262,6.1728583
+10295851539,node,Association École de Nancy,memorial,Nancy,,,,48.6906731,6.1775023
 10297544971,node,La Pizz',restaurant,Nancy,,,https://lapizzludres.wixsite.com/lapizz,48.6191317,6.178219
+10313430563,node,,memorial,Nancy,,,,48.6594928,6.140288
+10313430564,node,,memorial,Nancy,,,,48.6563382,6.1263967
+10676635851,node,,memorial,Nancy,,,,48.8364872,6.074283
+10678841984,node,,viewpoint,Nancy,,,,48.850534,6.0707511
+10679300391,node,La Gouvy,memorial,Nancy,,,,48.8440522,6.0711969
+10682891196,node,,viewpoint,Nancy,,,,48.8484302,6.0696657
+10684088510,node,,artwork,Nancy,,,,48.866252,6.0781753
+10688999510,node,,viewpoint,Nancy,,,,48.6277923,6.1490074
+10692330840,node,,viewpoint,Nancy,,,,48.8501349,6.056589
+10692330841,node,Filiale Hommage,memorial,Nancy,,,,48.8689295,6.0459765
+10695457998,node,Borne des Antonistes,memorial,Nancy,,,,48.9195235,6.0187521
+10701412708,node,Notre Dame De Consolation,artwork,Nancy,,,,48.8538402,6.1359802
 10753880722,node,La Maison des Chercheurs,hotel,Nancy,167,,,48.6670316,6.1661148
 10753880731,node,Brasserie Restaurant Monplaisir,restaurant,Nancy,172,,,48.667476,6.1677561
 10753880739,node,Brasserie De La Fontaine du Vélodrome,restaurant,Nancy,,,https://www.brasserie-lafontaine.fr/,48.6675448,6.1671307
 10769240443,node,"Un peu, Bocaux",restaurant,Nancy,,,https://unpeubocaux.com,48.6683798,6.1827267
 10781228136,node,Villa Thermae,hotel,Nancy,,,https://villathermae.fr/villa-thermae-de-nancy/,48.6792834,6.1681828
 10794940365,node,Hungry Sushi,restaurant,Nancy,,,,48.6998869,6.2056968
+10807855269,node,,viewpoint,Nancy,,,,48.8320815,6.1337501
+10807855274,node,,viewpoint,Nancy,,,,48.952211,6.0885852
+10807855279,node,,viewpoint,Nancy,,,,48.9568842,6.0795299
+10807994116,node,,viewpoint,Nancy,,,,48.9301771,6.0873153
+10815346187,node,,viewpoint,Nancy,,,,48.9890506,6.0184519
 10826827562,node,Restaurant du Château,restaurant,Nancy,,,http://www.au-chateau.fr/le-restaurant/,48.6563918,6.1473633
+10829033871,node,Group Hug,artwork,Nancy,,,,48.7020732,6.1872167
+10848237292,node,,artwork,Nancy,,,,48.6605339,6.1733083
+10861834624,node,,viewpoint,Nancy,,,,48.944803,5.9824741
+10861897698,node,,viewpoint,Nancy,,,,48.9623054,6.0086846
 10891933349,node,Rest'authentik,restaurant,Nancy,54530,54530,,48.9835596,6.0202642
 10901345188,node,Restaurant Hippone,restaurant,Nancy,,,,48.6674708,6.198423
 10919970779,node,Antoinette Restaurant Nancy,restaurant,Nancy,,,https://antoinette.sharies.co,48.6914161,6.1881767
 10944768689,node,Buffalo Grill,restaurant,Nancy,1052 Route de Briey,,https://www.buffalo-grill.fr/restaurant/pont-a-mousson,48.9105028,6.0387227
+10959246266,node,Borne des Antonistes,memorial,Nancy,,,,48.9189407,6.0190608
 10971519261,node,Ô Tour des Grillades,restaurant,Nancy,,,https://otourdesgrillades.eatbu.com,48.6431533,6.1853108
+10992302746,node,Panorama Nancy,viewpoint,Nancy,,,,48.9044195,6.0778713
+11019760894,node,La Grappe de fer,artwork,Nancy,,,,48.6579574,6.1734585
+11019760895,node,Willy PEPINO,memorial,Nancy,,,,48.65799,6.1736597
+11043543063,node,Objet Urbain Vraiment Non Identifié,artwork,Nancy,,,,48.6835748,6.1851646
 11045381528,node,L'Atelier 35,restaurant,Nancy,,,,48.6880922,6.1821784
 11045381529,node,Yom Thaï Food,restaurant,Nancy,,,,48.6881775,6.1821157
 11056105812,node,Au P'tit Naan,restaurant,Nancy,,,https://www.au-ptit-naan-restaurant-nancy.fr/,48.6706367,6.1792795
+11077631876,node,Stase & vestiaires René Pleimelding,memorial,Nancy,,,,48.7664228,6.0495946
 11093737583,node,L'Escabelle,restaurant,Nancy,,,,48.6867719,6.2108176
 11117556955,node,Chalet du steak,restaurant,Nancy,,,,48.7076937,6.2479976
 11119945492,node,Le loup dans la bergerie,restaurant,Nancy,21 Avenue du Général de Gaulle,,https://leloupdanslabergerie.groupekeller.fr/,48.7120208,6.252039
+11121382074,node,Group Hug,artwork,Nancy,,,,48.6834025,6.1904099
 11127304327,node,La couscousière,restaurant,Nancy,"83 Avenue du 69e Régiment d'Infanterie, 54270, Essey-lès-Nancy",54270,https://restaurant-lacouscoussiere.fr/,48.7095795,6.238554
 11133823384,node,La Punjab,restaurant,Nancy,"77 Avenue du 69e Régiment d'Infanterie, 54270, Essey-lès-Nancy",54270,https://punjab-nancy.eatbu.com/,48.7087556,6.2376998
+11141849322,node,,artwork,Nancy,,,,48.6701328,6.1632752
+11141849323,node,,artwork,Nancy,,,,48.6698387,6.1638617
+11179020518,node,,memorial,Nancy,,,,48.882663,6.0530964
+11228692038,node,,monument,Nancy,,,,48.9382659,6.0267403
+11232543990,node,Monument commémoratif des morts pour la Libération,memorial,Nancy,,,,48.7114658,6.1623345
 11240630379,node,Vaudémont,restaurant,Nancy,,,http://www.brasserie-vaudemont.com/,48.6944446,6.1821125
 11246957905,node,B comme bœuf,restaurant,Nancy,,,,48.6892571,6.1831208
 11255358016,node,L'Essentiel,restaurant,Nancy,,,,48.677795,6.158265
 11255358029,node,La Verdine,restaurant,Nancy,,,,48.6819854,6.1648958
+11279444757,node,,memorial,Nancy,,,,48.5022434,6.0321493
+11303376146,node,Bestiaire Inabstrait,artwork,Nancy,,,,48.681948,6.1787328
+11336830633,node,,memorial,Nancy,,,,48.5308691,6.065646
+11343873651,node,,artwork,Nancy,,,,48.663991,6.1766007
+11343873652,node,,artwork,Nancy,,,,48.6639706,6.1765544
+11343873653,node,Énergie,artwork,Nancy,,,,48.667981,6.190124
+11352323834,node,Points de vue,artwork,Nancy,,,,48.6943319,6.1828103
+11352323835,node,Points de vue,artwork,Nancy,,,,48.6935786,6.1831576
+11380139044,node,,artwork,Nancy,,,,48.6647337,6.1785562
 11429489766,node,Hôtel du Château,hotel,Nancy,,,,48.6563294,6.1473202
 11451918648,node,La Buvette,restaurant,Nancy,,,http://www.au-chateau.fr/le-restaurant/,48.6562136,6.1471986
+11527612793,node,Roche du Battinchêne,viewpoint,Nancy,,,,48.799987,6.0852333
+11527612795,node,,viewpoint,Nancy,,,,48.810062,6.1059692
+11534857650,node,,memorial,Nancy,,,,48.5065857,6.1033438
 11635488969,node,Le village Afrotaste,restaurant,Nancy,"45-47 Boulevard Lobau, 54000",54000,,48.6891666,6.1943737
+11716721854,node,,artwork,Nancy,,,,48.6516445,6.1617504
+11717464608,node,,memorial,Nancy,,,,48.9568045,6.0781552
+11717464628,node,Saint-Bernard,memorial,Nancy,,,,48.9567794,6.078404
+11717464630,node,,memorial,Nancy,,,,48.9571444,6.0787828
+11717464644,node,Morts pour la France,memorial,Nancy,,,,48.9559362,6.0850766
+11717464645,node,Paul CROZET FOURNEYRON,memorial,Nancy,,,,48.9559547,6.0850109
+11727887314,node,,viewpoint,Nancy,,,,48.9587585,6.0881451
+11727887315,node,,viewpoint,Nancy,,,,48.9678223,6.0775101
 11730390969,node,L’Arborio,restaurant,Nancy,,,,48.6968744,6.1794531
 11762314797,node,L'Ardoise,restaurant,Nancy,,,,48.6938711,6.1807861
 11762314798,node,Osaka Street Food,restaurant,Nancy,,,,48.6939141,6.1809602
 11762314801,node,Papa Joe,restaurant,Nancy,,,,48.6940446,6.181485
 11762314803,node,La Cerise sur le Gâteau,restaurant,Nancy,,,,48.6942492,6.1817521
+11763395180,node,,viewpoint,Nancy,,,,48.8682938,6.1189288
 11775608757,node,Le Mont Liban,restaurant,Nancy,,,,48.6914452,6.1842475
 11775629865,node,Trattoria San Giorgio,restaurant,Nancy,85,,,48.692296,6.186887
 11775629867,node,Brasserie Saint-Georges,restaurant,Nancy,,,https://brasserie-saint-georges-nancy.eatbu.com,48.6921629,6.1864714
 11778599490,node,L’Auberge Francine,restaurant,Nancy,,,https://www.auberge-francine.fr,48.6726803,6.1940608
+11807280335,node,Eugène Tisserant,memorial,Nancy,,,,48.6901088,6.1796186
+11810224939,node,Group Hug,artwork,Nancy,,,,48.6866816,6.1813842
+11840471041,node,,artwork,Nancy,,,,48.9084312,6.0552046
+11840471042,node,,artwork,Nancy,,,,48.9085108,6.0556004
+11840471043,node,,artwork,Nancy,,,,48.9082521,6.0557401
+11840471044,node,,artwork,Nancy,,,,48.9081679,6.0553443
+11861899150,node,,artwork,Nancy,,,,48.6663981,6.1800803
+11861899151,node,,artwork,Nancy,,,,48.6665199,6.1804946
+11905168197,node,,artwork,Nancy,,,,48.6368188,6.3131475
+11905168198,node,,artwork,Nancy,,,,48.6373293,6.3141882
+11905185378,node,Mine de Varangéville,attraction,Nancy,,,https://www.visiteminedevarangeville.com/,48.6371755,6.3122852
 11942233777,node,Les Jardins d'Esther,restaurant,Nancy,4,,https://www.lesjardinsdesther.com,48.6982103,6.1743055
+11953558654,node,Camille Cavallier,artwork,Nancy,,,,48.6932721,6.1652613
 11962451169,node,Nonna,restaurant,Nancy,,,https://nonnofamiglia.fr/nonna,48.6933618,6.1984759
 12022536373,node,Le Majeur,restaurant,Nancy,,,https://www.lemajeurnancy.fr/,48.687469,6.1802162
+12022975490,node,,memorial,Nancy,,,,48.6966673,6.1551326
+12022975520,node,,memorial,Nancy,,,,48.6960563,6.1549039
+12022975521,node,,memorial,Nancy,,,,48.6960846,6.1548959
+12022975524,node,,memorial,Nancy,,,,48.696136,6.1548623
+12022975525,node,,memorial,Nancy,,,,48.6962148,6.1548248
+12022975526,node,,memorial,Nancy,,,,48.696271,6.1548141
+12022975527,node,,memorial,Nancy,,,,48.6964673,6.1547728
+12022975528,node,,memorial,Nancy,,,,48.6965837,6.1547654
+12022975529,node,,memorial,Nancy,,,,48.696637,6.1547802
+12022975530,node,,memorial,Nancy,,,,48.6966383,6.1547866
+12022975531,node,,memorial,Nancy,,,,48.6966609,6.1547876
+12022975532,node,,memorial,Nancy,,,,48.6966965,6.1548017
+12022975533,node,,memorial,Nancy,,,,48.6967348,6.1548084
+12022975534,node,,memorial,Nancy,,,,48.6967731,6.154852
+12022975535,node,,memorial,Nancy,,,,48.6967625,6.1549569
+12022975542,node,,memorial,Nancy,,,,48.6967596,6.1550246
+12022975547,node,,memorial,Nancy,,,,48.6970845,6.1554846
+12057358298,node,,memorial,Nancy,,,,48.6788694,6.1833306
+12124815801,node,Échelle de crues,viewpoint,Nancy,,,,48.976338,6.040263
+12124839901,node,Station d'observation accessible,viewpoint,Nancy,,,,48.9808129,6.0400437
+12125017425,node,,artwork,Nancy,,,,48.6942651,6.1885388
+12198752046,node,,memorial,Nancy,,,,48.6158176,6.1017272
 12199305135,node,French Trattoria,restaurant,Nancy,,,https://french-trattoria.fr,48.6964341,6.1727994
 12238849286,node,Le Comptoir Saint Michel,restaurant,Nancy,,,https://www.lecomptoirstmichel.com/,48.6969222,6.1791839
 12296584833,node,Dr Food,restaurant,Nancy,,,,48.6486917,6.1523332
+12299747708,node,Nancy,artwork,Nancy,,,,48.6899127,6.1756043
+12299747722,node,Hommage à Samuel Paty,memorial,Nancy,,,,48.6666314,6.1633789
+12361713979,node,Vallée du graff,artwork,Nancy,,,,48.7030146,6.1871721
 12378615207,node,P'tit Fauve,restaurant,Nancy,,,,48.6890605,6.1725217
+12383083033,node,Dren Abdullahu,memorial,Nancy,,,,48.6857746,6.173095
+12404607051,node,fresque monumentale,artwork,Nancy,,,,48.6695823,6.1759771
+12429048439,node,,viewpoint,Nancy,,,,48.8069766,6.106638
 12475365048,node,,restaurant,Nancy,,,,48.6195338,6.0381336
 12515219767,node,Gilio's Pizza,restaurant,Nancy,,,,48.6825311,6.1742383
 12589832348,node,L'Etna,restaurant,Nancy,,,http://etna-nancy.com/,48.6862192,6.1699424
+12708532248,node,Capsule temporelle,attraction,Nancy,,,,48.8904834,6.2237241
+12709771633,node,,viewpoint,Nancy,,,,48.7465888,6.2766072
+12709927380,node,À la mémoire de Louis Marin,memorial,Nancy,,,,48.7920953,6.1999665
+12778648829,node,,viewpoint,Nancy,,,,48.8300693,6.0059387
+12802967593,node,,viewpoint,Nancy,,,,48.7763085,6.1377795
+12802985803,node,Galerie,gallery,Nancy,,,,48.75228,6.0643116
+12803998478,node,,artwork,Nancy,,,,48.6834261,6.1880998
+12803998485,node,Eugène Hugo,memorial,Nancy,,,,48.6939339,6.1811139
 12804025302,node,Le petit Badiem,restaurant,Nancy,,,,48.6941028,6.1817241
+12852661301,node,Musée au fil du papier,museum,Nancy,"13 Rue Magot de Rogéville, 54700",54700,https://ville-pont-a-mousson.fr/fr/gl/25755/3096/musee-au-fil-du-papier,48.9016231,6.056238
+12877226901,node,Pierre ESCURAS  Mort pour la France,memorial,Nancy,,,,48.6291643,6.3471936
 12925766306,node,L’imprévu,restaurant,Nancy,"1 bis Rue Charles Hermite, 54110",54110,https://restaurant-limprevudombasle.fr/,48.6031095,6.3621081
 12997940205,node,Maddak,restaurant,Nancy,,,,48.6989718,6.1790839
 13009724700,node,ZENTITUDE,hotel,Nancy,,,,48.6890375,6.1948587
+13027308923,node,Virgilio Dago,memorial,Nancy,,,,48.73465,6.167975
+13027308924,node,Mario Dago,memorial,Nancy,,,,48.7346506,6.1679732
+13027308925,node,Florian Dago,memorial,Nancy,,,,48.7346511,6.1679714
+13027308926,node,Tranquillo Dago,memorial,Nancy,,,,48.7346517,6.1679696
+13034980184,node,,memorial,Nancy,,,,48.487298,6.0451633
+13068404653,node,,memorial,Nancy,,,,48.6848263,6.1920714
+13121083971,node,Le Cerf,artwork,Nancy,,,,48.6630634,6.1763538
+13165703408,node,,memorial,Nancy,,,,48.6897272,6.2509556
 13234583205,node,L'Entre pôtes,restaurant,Nancy,,,,48.6079448,6.1483432
 13238571086,node,Polmard,restaurant,Nancy,,,https://www.polmard-nancy.com/,48.6923761,6.1791592
+13255758202,node,,viewpoint,Nancy,,,,48.9754252,6.0405029
+13255760001,node,,viewpoint,Nancy,,,,48.9753951,6.0404577
 13471131431,node,Hanoi Tokyo,restaurant,Nancy,,,,48.6721911,6.1540655
 13547073850,node,Resto du Park,restaurant,Nancy,,,,48.782746,6.1370661
+13666765657,node,,artwork,Nancy,,,,48.686311,6.1427207
+13688981345,node,,viewpoint,Nancy,,,,48.7142031,6.2297772
+13688981346,node,,viewpoint,Nancy,,,,48.7129626,6.2247966
 13720352750,node,Villa Emilia,hotel,Nancy,,,https://villaemilianancy.com/,48.6901851,6.1809399
+13730681516,node,,artwork,Nancy,,,,48.6852007,6.1526453
+13742022394,node,,memorial,Nancy,,,,48.7163004,6.3235112
+13743491345,node,,memorial,Nancy,,,,48.6308789,6.3021814
+13743555468,node,,memorial,Nancy,,,,48.4197066,6.1322833
+13743743429,node,,memorial,Nancy,,,,48.7650874,6.4223771
+13749711053,node,,memorial,Nancy,,,,48.6667166,6.2355265
+13759034893,node,,memorial,Nancy,,,,48.6231194,6.1617338
+13759551432,node,,memorial,Nancy,,,,48.9106865,6.2516634
+13759612003,node,,memorial,Nancy,,,,48.5071246,6.2032278
+13759615210,node,,memorial,Nancy,,,,48.9309934,6.1023796
 13764400350,node,Hotel bar Azur,hotel,Nancy,"84 Rue Saint-Dizier, 54000, Nancy",54000,,48.688376,6.1841131
+13767761551,node,,memorial,Nancy,,,,48.6955497,6.3117478
+13781866828,node,,memorial,Nancy,,,,48.6790878,6.1722819
+13782731483,node,,memorial,Nancy,,,,48.7480463,6.4180014
+13802481902,node,Monument de la Shoah,memorial,Nancy,,,,48.6878419,6.1778925
 13803905882,node,Iran Banoo,restaurant,Nancy,,,,48.6798669,6.1758096
+13817475773,node,,memorial,Nancy,,,,48.672284,6.1723295
+13830710206,node,Des murmures et des éclats,memorial,Nancy,,,,48.689008,6.1909616
 13838104367,node,Ciao Tutti,restaurant,Nancy,,,https://ciao-tutti-nancy.eatbu.com,48.6817835,6.1980034
 13861344745,node,La Goulette,restaurant,Nancy,,,,48.6802977,6.1953864
 13925250506,node,D'Pizza,restaurant,Nancy,,,https://dpizza54.com/,48.7035711,6.1952434
+13954161122,node,,artwork,Nancy,,,,48.684521,6.1525432
+13983808185,node,Lanterne de Kanazawa,artwork,Nancy,,,,48.6926783,6.1941281
+19836781,way,Parc de la Pépinière,park,Nancy,,,,48.6979178,6.1846117
+36969250,way,Parc Sainte-Marie,park,Nancy,,,,48.6803264,6.1707921
+37055985,way,Jardin du Belvédère,park,Nancy,,,,48.6909966,6.1543291
+37178271,way,Square Georges Brassens,park,Nancy,,,,48.6997297,6.147804
+38782620,way,Jardin du Palais du Gouvernement,park,Nancy,,,,48.6975284,6.1806698
+40076526,way,Parc d'Agrément,park,Nancy,,,,48.6980116,6.1290615
+40645922,way,Parc Richard Pouille,park,Nancy,,,,48.6648996,6.179164
+41051479,way,Porte Stanislas,attraction,Nancy,,,https://www.pop.culture.gouv.fr/notice/merimee/PA00106318,48.6911524,6.1754913
+41458865,way,Immeuble Génin-Louis,attraction,Nancy,,,https://www.pop.culture.gouv.fr/notice/merimee/PA00106263,48.6898801,6.1791861
+42558765,way,Parc Blondlot,park,Nancy,,,,48.6919171,6.173563
+42783172,way,Jardin Botanique Jean-Marie Pelt,garden,Nancy,,,https://www.jardinbotaniquedenancy.eu/,48.6603982,6.1562994
+42783174,way,Parc de la Sapinière,park,Nancy,,,,48.6569659,6.1592268
+43019905,way,Grand Hôtel de la Reine,hotel,Nancy,,,https://www.hoteldelareine.com/,48.6936386,6.1843281
+43159465,way,Statue Emmanuel Héré,monument,Nancy,,,,48.6945491,6.1830505
+43159467,way,Statue Jacques Callot,artwork,Nancy,,,,48.6943246,6.1822716
+43271045,way,Statue Jeanne d'Arc,monument,Nancy,,,,48.6941322,6.1803202
+43271048,way,,garden,Nancy,,,,48.6941767,6.1803466
+43271049,way,,garden,Nancy,,,,48.6940645,6.180357
+43323114,way,Villa Majorelle,museum,Nancy,,,https://musee-ecole-de-nancy.nancy.fr/la-villa-majorelle-2887.html,48.6854678,6.1638692
+43472900,way,Jardin Alzheimer,park,Nancy,,,,48.6865484,6.1926167
+43688370,way,,garden,Nancy,,,,48.6930751,6.1786417
+44052386,way,,garden,Nancy,,,,48.6966589,6.1802459
+44052387,way,,garden,Nancy,,,,48.6964408,6.1804908
+44390636,way,Porte Désilles,attraction,Nancy,,,https://www.pop.culture.gouv.fr/notice/merimee/PA00106314,48.6979621,6.1741653
+45423359,way,Square Ernest Bichat,park,Nancy,,,,48.6984258,6.1774595
+48735769,way,Resto' Saurupt,restaurant,Nancy,,,https://www.crous-lorraine.fr/restaurant/saurupt/,48.6805248,6.1840054
+48805150,way,Château du Charmois,castle,Nancy,,,https://www.vandoeuvre.fr/fiche-annuaire/chateau-du-charmois/,48.6682318,6.1742001
+49791497,way,Musée de l'École de Nancy,museum,Nancy,,,https://musee-ecole-de-nancy.nancy.fr/,48.680535,6.1659982
+50207761,way,Acadia Resid'Hôtel,hotel,Nancy,,,,48.6827083,6.1716849
+54791391,way,Jardin de la Citadelle,garden,Nancy,,,,48.7001348,6.1787009
+58406509,way,Porte Sainte-Catherine,attraction,Nancy,,,https://www.pop.culture.gouv.fr/notice/merimee/PA00106315,48.695561,6.189941
+58416039,way,Porte Saint-Georges,attraction,Nancy,,,https://www.pop.culture.gouv.fr/notice/merimee/PA00106316,48.6923163,6.1884338
+58514723,way,"Le Château, Centre Culturel",castle,Nancy,,,https://www.saint-max.fr/fr/172/102/25/les-lieux-culturels.html,48.699262,6.2042266
+61521653,way,Bastion d'Haussonville,ruins,Nancy,,,https://www.pop.culture.gouv.fr/notice/merimee/PA00135698,48.6939147,6.1817941
+64003170,way,Muséum-Aquarium de Nancy,museum,Nancy,,,https://www.museumaquariumdenancy.eu/,48.6947304,6.1882723
+64004430,way,Jardin Dominique-Alexandre Godron,park,Nancy,,,,48.694755,6.1889856
+79245436,way,Maison du docteur Alexis Dollander,attraction,Nancy,,,,48.6861388,6.1632394
+82739382,way,,park,Nancy,,,,48.7003404,6.2600124
+89056415,way,Château du Montet,castle,Nancy,,,,48.6585977,6.1537892
+89057170,way,Hôtel Restaurant Ibis Nancy Brabois,hotel,Nancy,,,http://www.ibis.com/fr/hotel-1584-ibis-nancy-brabois/index.shtml,48.650688,6.1449445
+89057553,way,Restaurant Universitaire de Brabois,restaurant,Nancy,,,http://www.crous-nancy-metz.fr/crous/sites/crous/accueil/restauration/lesrestosu/nancy/restoubrabois/d40766b27f0000010033392508c73d97,48.648558,6.1408015
+89074969,way,Restaurant Universitaire Vandoeuvre - Vélodrome,restaurant,Nancy,,,https://www.crous-lorraine.fr/restaurant/velodrome/,48.6667569,6.1638877
+89096027,way,Chez Gino,restaurant,Nancy,,,,48.6538075,6.1864424
+89096609,way,Léon de Bruxelles,restaurant,Nancy,,,https://brasserie.restaurantleon.fr/fr/nancy-vandoeuvre,48.6534825,6.1836385
+89352365,way,Restaurant Universitaire de Médreville,restaurant,Nancy,,,https://www.crous-lorraine.fr/restaurant/medreville/,48.6844464,6.1587093
+90499884,way,Square Monseigneur Petit,park,Nancy,,,,48.6818382,6.1740532
+99535923,way,Tempio Pizzeria,restaurant,Nancy,,,,48.669274,6.1993225
+99539317,way,,ruins,Nancy,,,,48.6638255,6.1962535
+99542401,way,Le Féru des Sciences,museum,Nancy,,,,48.6665095,6.2088325
+100424546,way,La Fontaine,restaurant,Nancy,"Place de la Fontaine, 54180, Heillecourt",54180,,48.652954,6.1948115
+105074507,way,,castle,Nancy,,,,48.6696105,6.1457916
+105075563,way,Château de Brabois,hotel,Nancy,,,,48.6562876,6.1473509
+105076467,way,Château Madame de Graffigny,castle,Nancy,,,,48.6702177,6.1460535
+105076935,way,Château de Rémicourt,castle,Nancy,,,,48.666419,6.1516037
+105077174,way,Château Saint-Fiacre,castle,Nancy,,,,48.666178,6.148663
+114348818,way,Château de la Flie,castle,Nancy,,,,48.745368,6.056055
+114986699,way,La Villa,restaurant,Nancy,,,,48.6974125,6.199708
+115010890,way,Restaurant Universitaire Stanislas-Meurthe,restaurant,Nancy,,,http://www.crous-nancy-metz.fr/crous/sites/crous/accueil/restauration/lesrestosu/nancy/restoustanislasmeurthe/d4115cac7f0000010166a97ecde32a93,48.6952695,6.1972195
+115500618,way,Scarpetta,restaurant,Nancy,,,,48.637148,6.183591
+115500782,way,hotelF1 Nancy Sud,hotel,Nancy,,,,48.6392752,6.1837237
+115500831,way,ibis Budget Nancy Sud,hotel,Nancy,,,,48.6387295,6.1835715
+115501179,way,La Boucherie,restaurant,Nancy,,,,48.6371915,6.184096
+115501383,way,Redbeef,restaurant,Nancy,,,,48.6428874,6.1844088
+115501428,way,Hôtel Arcole,hotel,Nancy,,,,48.6362855,6.1803905
+115501768,way,Uni Buffet,restaurant,Nancy,2,,https://www.unibuffet.com/,48.647069,6.1835405
+115598450,way,,restaurant,Nancy,,,,48.6360025,6.12898
+115598662,way,La Maniguette,restaurant,Nancy,,,,48.645298,6.1391311
+116578310,way,Château de Bas,castle,Nancy,,,,48.7313915,6.1653435
+116580778,way,Château de Haut,castle,Nancy,,,,48.733723,6.1651225
+120187530,way,,restaurant,Nancy,,,,48.7126005,6.2492705
+120188700,way,Buffalo Grill,restaurant,Nancy,,,,48.710492,6.2416455
+120189037,way,Kyriad,hotel,Nancy,"28 Rue des Tarbes Prolongée, 54270, Essey-lès-Nancy",54270,https://direct-nancy-est-essey.kyriad.com/fr-fr/,48.712071,6.2490515
+120190093,way,Kyriad,restaurant,Nancy,"28 Rue des Tarbes Prolongée, 54270, Essey-lès-Nancy",54270,https://direct-nancy-est-essey.kyriad.com/fr-fr/hotel-restaurants/,48.712376,6.248799
+122581519,way,Première Classe,hotel,Nancy,,,https://nancy-sud-ludres.premiereclasse.com/,48.6157755,6.1769925
+122581587,way,Bonsai Hotel,hotel,Nancy,,,,48.61634,6.1770175
+122583832,way,L'Atelier,restaurant,Nancy,,,https://latelier-restaurant-ludres.fr/,48.617739,6.178105
+122583916,way,La Winery - Maison jbs,restaurant,Nancy,,,https://la-winery-maison-jbs.eatbu.com/?lang=fr,48.616875,6.17687
+122585261,way,Marguerite,restaurant,Nancy,280 Rue Berthollet,,https://restaurant-chez-marguerite.fr/,48.6154306,6.1778377
+129803163,way,,memorial,Nancy,,,,48.6046506,6.1008233
+130675372,way,Hôtel F1,hotel,Nancy,,,https://all.accor.com/hotel/2321/index.fr.shtml,48.7583624,6.1524637
+132954581,way,Square Varcollier,park,Nancy,,,,48.6822012,6.1860416
+136821605,way,La Table d'Alex,restaurant,Nancy,,,,48.5894425,6.172134
+136821956,way,Au Bon Accueil,restaurant,Nancy,,,,48.591642,6.1658715
+136837092,way,La Parenthèse,restaurant,Nancy,,,,48.6150656,6.2032739
+136837131,way,,castle,Nancy,,,,48.6264536,6.2021485
+137256338,way,Accumulateur à minerai Zublin,ruins,Nancy,,,,48.6311915,6.1073885
+137353564,way,Ibis budget Nancy Laxou,hotel,Nancy,,,,48.69559,6.124019
+137353742,way,,memorial,Nancy,,,,48.6951295,6.1257919
+137465833,way,Parc Léo Lagrange,park,Nancy,,,,48.7007093,6.1265968
+138970193,way,Musée français de la brasserie,museum,Nancy,,,https://www.passionbrasserie.com/,48.633973,6.296842
+138971125,way,Musée du Cinéma et de la Photographie,museum,Nancy,,,,48.631572,6.2895505
+138987550,way,Basilique Saint-Nicolas,attraction,Nancy,,,,48.6316325,6.3039915
+139274998,way,Hôtel de l'Île,hotel,Nancy,,,https://hotel-de-lile.com/,48.7919985,6.1235085
+139287649,way,,restaurant,Nancy,,,,48.8058425,6.1166485
+142510596,way,Château de Montaigu,castle,Nancy,,,,48.6634155,6.2158195
+144916655,way,Château De Charmilly,castle,Nancy,,,,48.9140705,6.0346895
+144925042,way,Hotel Du Parc,hotel,Nancy,,,,48.9072585,6.049701
+145896647,way,Panorama Metz,viewpoint,Nancy,,,,48.9049409,6.0783119
+146086874,way,La Diligence,restaurant,Nancy,,,,48.8436487,6.0700747
+146089857,way,Delicat'essen,restaurant,Nancy,,,,48.843088,6.068555
+146091742,way,Musée du Chateau de Dieulouard,museum,Nancy,,,,48.842812,6.0682805
+146091892,way,Chateau du Saunerot,ruins,Nancy,,,,48.8232345,6.030211
+147556052,way,Château de Clairefontaine,castle,Nancy,,,,48.6566025,6.2635345
+147556146,way,Château d'Art-sur-Meurthe,castle,Nancy,,,,48.6571295,6.264777
+147560092,way,,ruins,Nancy,,,,48.6565205,6.306978
+148232812,way,Le Petit Moulin,restaurant,Nancy,,,,48.5742255,6.1063705
+148698043,way,Maison de Jean Prouvé,attraction,Nancy,,,,48.700769,6.1614545
+149544970,way,Hôtel de la Côte,hotel,Nancy,,,,48.8934049,5.9785009
+152636444,way,Parc municipal du Château,park,Nancy,,,,48.7299163,6.1654151
+153774957,way,Campanile,hotel,Nancy,,,,48.9339841,6.109569
+153782922,way,Maison du Sel,museum,Nancy,,,https://www.lamaisondusel.fr/,48.6611685,6.36346
+159045020,way,,park,Nancy,,,,48.709218,6.1823237
+163787687,way,Parc Olry,park,Nancy,,,,48.6824222,6.1935803
+165014770,way,Zénith du Grand Nancy,attraction,Nancy,Rue du Zénith,,https://www.zenith-de-nancy.com/,48.7102011,6.139373
+167163356,way,Château de Morey,castle,Nancy,,,,48.8271534,6.1625457
+167163357,way,Château Colin,castle,Nancy,,,,48.8754815,6.19724
+167375126,way,Château de Saulxures-lès-Nancy,castle,Nancy,,,https://www.chateau-de-saulxures.fr/,48.6890442,6.25293
+168537989,way,Parc du Château Corbin,park,Nancy,,,,48.7517306,6.0620528
+168771370,way,Jardin Paul Verlaine,park,Nancy,,,,48.6880566,6.1638272
+174829514,way,Cerise Nancy,hotel,Nancy,,,https://www.cerise-hotels-residences.com/fr/hotels-et-residences/details/nancy,48.6994195,6.1444715
+176035806,way,La Pelouse,garden,Nancy,,,,48.7555483,6.1688468
+176152971,way,,park,Nancy,,,,48.7511041,6.164411
+176949127,way,Square Père Alain Gorius,park,Nancy,,,,48.6876999,6.185937
+177188931,way,Parc Charles III,park,Nancy,,,,48.6897584,6.1904301
+179578903,way,,park,Nancy,,,,48.6457444,6.1768794
+179803817,way,Place de la Croix-de-Bourgogne,park,Nancy,,,,48.6852486,6.1713454
+180458284,way,Parc Madame de Graffigny,park,Nancy,,,,48.6712632,6.1453238
+183639528,way,Parc de Rémicourt,park,Nancy,,,,48.6674275,6.1530744
+184725048,way,Statue Stanislas Leszczyński,monument,Nancy,,,,48.6935354,6.1832718
+184726660,way,Statue Drouot,monument,Nancy,,,,48.695481,6.1759511
+184896607,way,,park,Nancy,,,,48.6125322,6.1683049
+184896610,way,,park,Nancy,,,,48.6121888,6.1686752
+184896612,way,,park,Nancy,,,,48.6123216,6.1674175
+184899389,way,,park,Nancy,,,,48.6124378,6.1698288
+184899390,way,,park,Nancy,,,,48.6119687,6.1707744
+184899391,way,,park,Nancy,,,,48.6129715,6.1712238
+184899392,way,,park,Nancy,,,,48.6141439,6.1718048
+184899393,way,,park,Nancy,,,,48.6124647,6.1709639
+184899394,way,,park,Nancy,,,,48.61503,6.172246
+186634671,way,,park,Nancy,,,,48.6139666,6.1637321
+186634672,way,,park,Nancy,,,,48.6131496,6.162295
+186634673,way,,park,Nancy,,,,48.6135275,6.1629188
+186641664,way,,park,Nancy,,,,48.6159596,6.1634048
+187780598,way,,park,Nancy,,,,48.616982,6.1647755
+192428258,way,Domaine du Charmois,park,Nancy,,,,48.6685715,6.1744926
+193672096,way,,park,Nancy,,,,48.6833461,6.1610357
+193672099,way,,park,Nancy,,,,48.6827804,6.1615539
+193672109,way,,park,Nancy,,,,48.6840378,6.1605296
+195370755,way,Château de Pierrefort,castle,Nancy,,,,48.8413921,5.9387596
+198067746,way,Pizza Kangourou,restaurant,Nancy,,,https://www.kangouroupizzas.com/,48.6355795,6.3147855
+199829577,way,Observatoire Ornithologique et des Paysages,attraction,Nancy,,,,48.6641944,6.3541669
+204694245,way,Square Général Chevert,park,Nancy,,,,48.6731261,6.1758037
+204724002,way,De Passage,artwork,Nancy,,,https://www.vandoeuvre.fr/bien-etre/culture/354-km-parcours-artistique#de-passage,48.6662812,6.1666114
+205961487,way,Square Jules Dorget,park,Nancy,,,,48.6790522,6.1874545
+206587487,way,Square Chopin,park,Nancy,,,,48.6819028,6.1787648
+211969970,way,Ancien Lavoir,ruins,Nancy,,,,48.6626545,6.3679354
+221015829,way,,monument,Nancy,,,,48.4855232,6.084104
+221627437,way,Étang du Jardinet,park,Nancy,,,,48.8198201,6.2570058
+223124379,way,,memorial,Nancy,,,,48.734662,6.1679721
+223332174,way,Porte de Ville,attraction,Nancy,,,,48.7538055,6.0638546
+223745280,way,Nancy,hotel,Nancy,,,,44.0106026,12.6464022
+225467318,way,Manoir,castle,Nancy,,,,48.62152,6.046104
+227798324,way,Mine Musée du Val de Fer,museum,Nancy,,,https://minedeneuvesmaisons.org/,48.631564,6.1087415
+227798626,way,Théâtre de verdure,park,Nancy,,,,48.632355,6.108842
+232012910,way,Espace Animalier,zoo,Nancy,,,https://www.nancy.fr/utile/nancy-la-ville-qui-cultive-la-vie/l-espace-animalier-de-la-pepiniere-233.html,48.6990546,6.184027
+232157198,way,Crocodile,restaurant,Nancy,,,,48.648505,6.1821956
+232970968,way,Square du Montet,park,Nancy,,,,48.6769108,6.1782405
+238420640,way,,castle,Nancy,,,,48.8955615,6.1859585
+238428840,way,,hotel,Nancy,,,,48.8882742,6.2289127
+238429308,way,Château (ancien),castle,Nancy,,,,48.8911119,6.2236813
+239243358,way,,park,Nancy,,,,48.6930412,6.1972305
+241785210,way,Square Marguerite Hocquard,park,Nancy,,,,48.6699095,6.1609738
+241958782,way,Square Saurupt-Clemenceau,park,Nancy,,,,48.6752104,6.1815717
+242705790,way,Château de Fléville,castle,Nancy,,,,48.6284263,6.2017522
+243555287,way,Parc Fénal,park,Nancy,,,,48.6588254,6.2271884
+247281133,way,Square des Bosquets,park,Nancy,,,,48.6838839,6.1488486
+247556441,way,Parc de la Mairie,park,Nancy,,,,48.7119838,6.1638746
+250842921,way,,memorial,Nancy,,,,48.6849093,6.1516855
+253112709,way,Obélisque de Nancy,monument,Nancy,,,,48.6941999,6.1768691
+256326442,way,Domaine de Montaigu,park,Nancy,,,,48.664699,6.2131146
+256884541,way,Jardins du Belvédère,park,Nancy,,,,48.6904634,6.1538812
+256907600,way,Place des Ducs de Bar,park,Nancy,,,,48.683672,6.1625278
+257982627,way,,park,Nancy,,,,48.6901041,6.1392291
+259272096,way,Jardin de l'An 2000,park,Nancy,,,,48.7007469,6.2208126
+259276688,way,Parc Maringer,park,Nancy,,,,48.701069,6.2187913
+259828549,way,Square Jean XXIII,park,Nancy,,,,48.6987931,6.2117313
+263288106,way,Jardin du Joli Coeur,park,Nancy,,,,48.7016244,6.1748541
+267806455,way,Parc de la Cure d'Air,park,Nancy,,,,48.6932444,6.1595923
+267997358,way,,park,Nancy,,,,48.6848475,6.1473904
+269602847,way,Parc Bonnet,park,Nancy,,,,48.6987026,6.1658769
+270844803,way,Square Reynier,park,Nancy,,,,48.6825781,6.1466845
+281785114,way,Square Henri Dunant,park,Nancy,,,,48.8997963,6.0522891
+281785235,way,Jardin d'enfants,park,Nancy,,,,48.8976754,6.0586756
+285531604,way,Tour Brunehaut,ruins,Nancy,,,,48.4175885,6.0537105
+292372007,way,,park,Nancy,,,,48.6776752,6.1751663
+294135936,way,La Cour des Sens,restaurant,Nancy,9 Rue de Benney,,,48.523192,6.1631985
+295403875,way,Terrain Saint-Bodon,park,Nancy,,,,48.6988797,6.1643954
+296304569,way,,hotel,Nancy,,,,48.66871,6.144387
+299421520,way,,park,Nancy,,,,48.6001607,6.1651414
+301686574,way,Parc de Brabois,park,Nancy,,,,48.6617725,6.1459134
+303231759,way,,memorial,Nancy,,,,48.6544946,6.1975369
+303517485,way,Jardin François Nourissier,garden,Nancy,,,,48.6919774,6.1787973
+305057818,way,Parc Saint-Mansuy,park,Nancy,,,,48.6965266,6.1551313
+305160356,way,Parc du Tonneau,park,Nancy,,,,48.6572675,6.1665752
+307215940,way,Parc de la Ronchère,park,Nancy,,,,48.6482448,6.1740762
+310758819,way,,memorial,Nancy,,,,48.6722767,6.1930389
+310758823,way,,memorial,Nancy,,,,48.671695,6.1927953
+312634109,way,Roseraie,garden,Nancy,,,,48.6982588,6.1829989
+312634113,way,Roseraie,garden,Nancy,,,,48.6983879,6.1834487
+312634114,way,Roseraie,garden,Nancy,,,,48.698323,6.1832252
+313309148,way,,park,Nancy,,,,48.6648531,6.3012033
+315511108,way,Jardin des Sens Jean Schmitt,garden,Nancy,,,,48.697403,6.1438132
+317590135,way,Parc Saint-Blaine,park,Nancy,,,,48.6241191,6.1754188
+317637723,way,,castle,Nancy,,,,48.549969,6.252791
+317658610,way,Parc Sainte-Thérèse,park,Nancy,,,,48.620089,6.1640562
+317729577,way,,memorial,Nancy,,,,48.621477,6.1618069
+318870542,way,Square du Gau-Odernheim,park,Nancy,,,,48.7020938,6.2573787
+319076731,way,Square des Capucines,park,Nancy,,,,48.6875587,6.1512603
+323263033,way,,park,Nancy,,,,48.5864141,6.1490187
+323264161,way,,park,Nancy,,,,48.5883252,6.1507043
+323264162,way,,park,Nancy,,,,48.5884769,6.1524522
+323264163,way,,park,Nancy,,,,48.5870648,6.1502107
+331441661,way,Château de Neuviller-sur-Moselle,castle,Nancy,,,,48.4933015,6.2869505
+332860977,way,Le Jardin d'Eau,park,Nancy,,,,48.6933998,6.194046
+332880466,way,Square des Aulnes,park,Nancy,,,,48.6940197,6.193385
+332880467,way,Square des Frênes,park,Nancy,,,,48.6926727,6.1946507
+332880468,way,Square des Ginkgo,park,Nancy,,,,48.6933294,6.1940235
+332880469,way,Square des Ptérocaryers,park,Nancy,,,,48.6936762,6.193703
+332880470,way,Square des Tulipiers,park,Nancy,,,,48.6929825,6.1943478
+339206808,way,Centre Spirituel Diocésain Le Carmel,park,Nancy,,,http://www.csdnancy.fr/,48.6937533,6.1502712
+339312906,way,Restaurant Le Quai Saint-Martin,restaurant,Nancy,,,https://www.lequaisaintmartin.fr/,48.9015418,6.0633549
+339945453,way,,park,Nancy,,,,48.6890239,6.1274962
+360180202,way,Jardin des Sources,park,Nancy,,,,48.698482,6.1616338
+361469959,way,Jardin du musée des Beaux-Arts,park,Nancy,,,,48.6937658,6.1820715
+375505901,way,B&B Hôtel,hotel,Nancy,,,https://www.hotel-bb.com/fr/hotels/nancy-laxou.htm,48.6929979,6.1309674
+378170147,way,B&B Hôtel Nancy Frouard (1),hotel,Nancy,,,,48.742669,6.1511271
+378170148,way,B&B Hôtel Nancy Frouard (2),hotel,Nancy,,,https://www.hotel-bb.com/fr/hotels/nancy-frouard-2.htm,48.7429723,6.1504423
+381792798,way,Parc Robert Bentz,park,Nancy,,,,48.6596317,6.1879168
+389178770,way,La Taverne,restaurant,Nancy,,,,48.711358,6.241195
+389517552,way,Parc de l'Hôtel de Ville,park,Nancy,,,,48.701153,6.2071732
+392147673,way,,park,Nancy,,,,48.6893359,6.2117849
+392345811,way,,park,Nancy,,,,48.6879507,6.2141019
+392865314,way,Parc du Château,park,Nancy,,,,48.6987904,6.2048669
+395175263,way,Parc Joseph Huet,park,Nancy,,,,48.7013454,6.2038695
+404298364,way,,park,Nancy,,,,48.697658,6.1334887
+404298384,way,Ibis Styles Nancy Ouest Laxou,hotel,Nancy,,,,48.6966477,6.132139
+404786430,way,Parc Albert André,park,Nancy,,,,48.6191364,6.0898148
+404788706,way,Parc de la Mairie,park,Nancy,,,,48.6226908,6.0853061
+405980325,way,,garden,Nancy,,,,48.3929106,6.1382085
+407771251,way,Hôtel Novotel Nancy,hotel,Nancy,,,http://www.novotel.com/fr/hotel-0407-novotel-nancy/index.shtml,48.6955198,6.1254154
+408030149,way,Square Jeannette Vallance,park,Nancy,,,,48.6835771,6.1706113
+408503792,way,L'Auberge,restaurant,Nancy,,,https://www.lauberge.fr/,48.694541,6.1269956
+420296220,way,Square du Maroc,park,Nancy,,,,48.6175662,6.3524057
+420524998,way,Square du monument,park,Nancy,,,,48.6193112,6.3516791
+424419473,way,,park,Nancy,,,,48.6198229,6.3552168
+425714335,way,,park,Nancy,,,,48.6910754,6.1994479
+430327505,way,La coulée verte,park,Nancy,,,,48.6693578,6.1496661
+437362528,way,,park,Nancy,,,,48.6934637,6.1981688
+437970343,way,,park,Nancy,,,,48.6812429,6.2242407
+441785694,way,Square Françoise Lesure,park,Nancy,,,,48.6734253,6.2068804
+441897496,way,Parc Georges Brassens - La Grand-Mare des Canards,park,Nancy,,,,48.6797299,6.2254356
+443217764,way,Square des Potiers,park,Nancy,,,,48.6631179,6.1671996
+446715003,way,Jardin du Musée de l'École de Nancy,park,Nancy,,,,48.6801381,6.1656741
+450270842,way,Square Émile Moselly,park,Nancy,,,,48.7139423,6.2539679
+450504607,way,Parc Robert Schuman,park,Nancy,,,,48.7137546,6.2587559
+450505617,way,,park,Nancy,,,,48.710502,6.2549536
+463945283,way,Première Classe,hotel,Nancy,"28 Rue des Tarbes Prolongée, 54270, Essey-lès-Nancy",54270,https://nancy-est-essey.premiereclasse.com/fr-fr/,48.7111824,6.249215
+463945285,way,Première Classe,hotel,Nancy,,,http://www.premiere-classe-nancy-est-essey.fr/fr,48.7111833,6.2492142
+471599447,way,,park,Nancy,,,,48.6680177,6.1378031
+475149586,way,Arboretum d'Amance,garden,Nancy,,,https://arboretum-amance.nancy.hub.inrae.fr/,48.7509273,6.3352811
+479355325,way,Square Jean Lamour,park,Nancy,,,,48.7123695,6.2530209
+480280821,way,Square Paul Verlaine,park,Nancy,,,,48.7106983,6.263344
+480521252,way,Square Maurice Barrès,park,Nancy,,,,48.7124871,6.2640737
+480526401,way,Square Claude Deranton,park,Nancy,,,,48.7167256,6.2655494
+480723960,way,Square des Épicéas,park,Nancy,,,,48.7200475,6.2632124
+491723613,way,,park,Nancy,,,,48.6347646,6.317514
+494277357,way,,park,Nancy,,,,48.6507162,6.1922966
+496597836,way,,garden,Nancy,,,,48.3930614,6.1298761
+499350676,way,,garden,Nancy,,,,48.4066565,6.1206229
+500511678,way,Parc Grandjean,park,Nancy,,,,48.6223949,6.1601315
+506553165,way,,park,Nancy,,,,48.794403,6.2298025
+507098338,way,,park,Nancy,,,,48.7777496,6.2680744
+510003909,way,Parc Alain Moncel,park,Nancy,,,,48.8409238,6.2522153
+510003910,way,,park,Nancy,,,,48.8399729,6.2502778
+512949916,way,Parc des Étangs,park,Nancy,,,,48.6816428,6.23956
+514809198,way,Le 7 de table,restaurant,Nancy,,,https://www.le7detable.com/,48.9196823,6.0586951
+514899693,way,Kyriad Design Enzo,hotel,Nancy,,,https://www.kyriad.com/fr/hotels/kyriad-design-enzo-pont-mousson,48.9005824,6.0647125
+515085967,way,In Hôtel,hotel,Nancy,,,,48.7431999,6.1511308
+515085968,way,Buffalo Grill,restaurant,Nancy,,,,48.7436881,6.1509736
+515085969,way,Le Refuge,restaurant,Nancy,,,https://restaurant-le-refuge.fr/,48.7436951,6.1502218
+517973426,way,Chaubourot,park,Nancy,,,,48.5670251,6.1893301
+518037930,way,,park,Nancy,,,,48.672555,6.1553323
+518037931,way,,park,Nancy,,,,48.6709701,6.1540017
+518094119,way,Le Crocodile,restaurant,Nancy,,,,48.6495877,6.0835518
+518094120,way,Auberge de Maître Marcel,restaurant,Nancy,,,http://www.aubergedemaitremarcel.fr/,48.6496795,6.0853614
+518592059,way,Jardin Biancamaria,garden,Nancy,,,,48.6697776,6.186825
+519287095,way,,garden,Nancy,,,,48.6936861,6.1886368
+526547184,way,Parc de l'Embanie,park,Nancy,,,,48.6496936,6.1988668
+527287858,way,Tour du Crany,ruins,Nancy,,,,48.7660519,6.2332388
+527953470,way,Kyriad,hotel,Nancy,,,,48.704988,6.1397175
+530095574,way,Restaurant employés,restaurant,Nancy,,,,48.6775005,6.1353185
+535004133,way,,park,Nancy,,,,48.6992534,6.133183
+551717851,way,Statue René II,memorial,Nancy,,,,48.6962084,6.1792381
+554702633,way,Place du 8 Mai 1945,garden,Nancy,,,,48.8801664,6.0515758
+568709430,way,,park,Nancy,,,,48.3728342,6.0978726
+580408733,way,Parc des Carrières,park,Nancy,,,,48.704302,6.147685
+583815945,way,Rempart de Mousson,ruins,Nancy,,,,48.9038003,6.0784324
+589077033,way,Parc des Cigognes,park,Nancy,,,,48.6345427,6.3009154
+589513324,way,Parc du Haut-Château,park,Nancy,,,,48.7090455,6.2204662
+589524745,way,,park,Nancy,,,,48.7068889,6.2319486
+591882551,way,Kyriad,hotel,Nancy,,,https://nancy-sud-ludres.kyriad.com/,48.6150028,6.1771318
+609049258,way,,park,Nancy,,,,48.6120183,6.3583982
+612005944,way,,park,Nancy,,,,48.5834696,6.0615464
+616395569,way,Horloge Florale,artwork,Nancy,,,,48.6970668,6.1831324
+620129963,way,Fort Pélissier,attraction,Nancy,,,https://fort-pelissier.com/,48.5974076,6.090624
+626732957,way,Street Painting #8,artwork,Nancy,,,,48.6904679,6.1803587
+626732958,way,Street Painting #8,artwork,Nancy,,,,48.6897542,6.1808789
+633687832,way,,park,Nancy,,,,48.6801913,6.2270218
+642309427,way,Le Brichambeau,restaurant,Nancy,Route de Mirecourt,,https://www.brichambeau.com/,48.6637578,6.1885108
+642309462,way,Parc de Brichambeau,park,Nancy,,,,48.6625122,6.1866951
+643510817,way,,park,Nancy,,,,48.663506,6.18492
+648188415,way,Parc Parison,park,Nancy,,,,48.9826067,6.0185435
+652947227,way,Château Anthoine,castle,Nancy,,,,48.6569052,6.1702016
+656607780,way,,garden,Nancy,,,,48.6896827,6.1422937
+656609109,way,,garden,Nancy,,,,48.6896292,6.1425468
+656609110,way,,garden,Nancy,,,,48.6895617,6.1428068
+670230209,way,Parc Heymonet,park,Nancy,,,,48.9850321,6.0216025
+673137638,way,Hôtel Restaurant Cottage,hotel,Nancy,,,https://www.cottagenancy.com/,48.6499263,6.1452994
+683236102,way,,castle,Nancy,,,,48.9098341,6.2457127
+685496953,way,,park,Nancy,,,,48.6638353,6.2098594
+692061840,way,,memorial,Nancy,,,,48.3945357,6.1316765
+692691318,way,Espace de loisirs Jean Bouin,park,Nancy,,,,48.979339,6.0295197
+694529484,way,,memorial,Nancy,,,,48.8731749,6.0413201
+695554981,way,,park,Nancy,,,,48.975304,6.0253745
+696334933,way,Château de Renémont,castle,Nancy,,,,48.66659,6.207117
+696754513,way,,memorial,Nancy,,,,48.6691393,6.2071943
+703381131,way,,memorial,Nancy,,,,48.4933058,6.289401
+705061207,way,,memorial,Nancy,,,,48.6768364,6.3443965
+708799247,way,,memorial,Nancy,,,,48.6229429,6.0469968
+717270697,way,Square d'Oerlinghausen,park,Nancy,,,,48.6689611,6.1442524
+720396802,way,,park,Nancy,,,,48.9052172,6.0544968
+724795150,way,Parc de l'Abiétinée,garden,Nancy,,,,48.7083258,6.1952096
+727892658,way,Parc Poirel Espace Nature et Détente,park,Nancy,,,,48.599484,6.3336657
+727892884,way,Square des Cordeliers,park,Nancy,,,,48.5973855,6.3327564
+736955858,way,Espace paysager de Bellefontaine,park,Nancy,,,,48.7245858,6.1489012
+745364892,way,,memorial,Nancy,,,,48.9436303,5.9993502
+745364900,way,,memorial,Nancy,,,,48.8703289,6.1152922
+745364903,way,,memorial,Nancy,,,,48.819869,6.093282
+746696299,way,,memorial,Nancy,,,,48.5846836,6.0956135
+747029101,way,,memorial,Nancy,,,,48.9003204,6.0158391
+747029103,way,,memorial,Nancy,,,,48.9636661,6.0589652
+747029106,way,,memorial,Nancy,,,,48.9559562,6.0901172
+747029109,way,,memorial,Nancy,,,,48.8967928,6.2526013
+747029110,way,,memorial,Nancy,,,,48.8989821,6.2061841
+747029111,way,,memorial,Nancy,,,,48.9188098,6.1801688
+749178316,way,,park,Nancy,,,,48.6741229,6.1561511
+749178317,way,,park,Nancy,,,,48.6745665,6.1576583
+749178399,way,Square du Pont de Villers,park,Nancy,,,,48.6766002,6.1565002
+749225438,way,Monument du Grand Couronné,memorial,Nancy,,,,48.8674551,6.1190352
+751624291,way,,memorial,Nancy,,,,48.4341928,6.2447477
+753920204,way,Musée des Beaux-Arts,museum,Nancy,,,https://musee-des-beaux-arts.nancy.fr/,48.693659,6.1819394
+754635583,way,,memorial,Nancy,,,,48.7985067,6.101832
+760743447,way,,garden,Nancy,,,,48.6839596,6.2217078
+763100413,way,Monument pour la paix,memorial,Nancy,,,,48.4296424,6.0838901
+763100416,way,,memorial,Nancy,,,,48.4082471,6.1175104
+763100423,way,,memorial,Nancy,,,,48.3993365,6.0796054
+763169947,way,,memorial,Nancy,,,,48.4652681,6.0117211
+763169948,way,,memorial,Nancy,,,,48.4430821,6.0292889
+763169949,way,,memorial,Nancy,,,,48.4304032,6.0284039
+763420503,way,,park,Nancy,,,,48.6837712,6.1934797
+767609587,way,,memorial,Nancy,,,,48.5130766,6.2212463
+770059623,way,La Malpierre,memorial,Nancy,,,,48.6985858,6.1049874
+771927420,way,,memorial,Nancy,,,,48.4265485,6.1680885
+771927423,way,,memorial,Nancy,,,,48.5072323,6.1032449
+771927425,way,,memorial,Nancy,,,,48.4738126,6.0978124
+771927426,way,,memorial,Nancy,,,,48.4875809,6.0891297
+771927428,way,,memorial,Nancy,,,,48.45556,6.0534824
+775967255,way,La Faisanderie,restaurant,Nancy,,,https://www.lafermefaisanderie.fr/,48.5813607,6.0931816
+775967257,way,Espace Lecomte,park,Nancy,,,,48.5827464,6.0962313
+776278710,way,,memorial,Nancy,,,,48.8044181,6.3411149
+776278712,way,,memorial,Nancy,,,,48.8407216,6.2912334
+776799194,way,,memorial,Nancy,,,,48.7720473,6.2601813
+776799195,way,,memorial,Nancy,,,,48.7511461,6.1637021
+776799196,way,,memorial,Nancy,,,,48.7007447,6.2077538
+776799197,way,,memorial,Nancy,,,,48.9051088,6.0581751
+776799198,way,,memorial,Nancy,,,,48.91678,6.1568154
+777743773,way,,memorial,Nancy,,,,48.4873611,6.045172
+777743778,way,,memorial,Nancy,,,,48.7069389,6.388697
+778539194,way,,memorial,Nancy,,,,48.466772,6.290966
+778568471,way,Les anciens moulins de Champigneulles,ruins,Nancy,,,,48.723779,6.1487714
+779951875,way,,memorial,Nancy,,,,48.7585648,6.1176319
+779951877,way,,memorial,Nancy,,,,48.7470162,6.2751358
+779951880,way,,memorial,Nancy,,,,48.6897201,6.2509486
+779951883,way,,memorial,Nancy,,,,48.7090487,6.221523
+779951884,way,,memorial,Nancy,,,,48.6343527,6.310472
+779951887,way,,memorial,Nancy,,,,48.6509741,6.2364588
+779951888,way,,memorial,Nancy,,,,48.7135897,6.1869737
+779951892,way,,memorial,Nancy,,,,48.7152974,6.1635313
+780313539,way,,memorial,Nancy,,,,48.7914612,6.141316
+780313540,way,,memorial,Nancy,,,,48.9116023,6.2769103
+780313541,way,,memorial,Nancy,,,,48.8896599,6.1840993
+780313542,way,,memorial,Nancy,,,,48.8883726,6.2271982
+780313544,way,Monument aux morts,memorial,Nancy,,,,48.8877802,6.2284256
+780313549,way,,memorial,Nancy,,,,48.9014721,6.2943212
+780313550,way,,memorial,Nancy,,,,48.8749575,6.2945839
+780313558,way,,memorial,Nancy,,,,48.8025944,6.2657637
+780313567,way,,memorial,Nancy,,,,48.7925639,6.205666
+780640261,way,,memorial,Nancy,,,,48.9837584,6.0199604
+780640263,way,,memorial,Nancy,,,,48.9534605,6.037472
+780640265,way,,memorial,Nancy,,,,48.9344351,6.0269793
+780640266,way,Château de Mousson,ruins,Nancy,,,,48.9048382,6.0775488
+780640271,way,Panoram Méandres de la Moselle,viewpoint,Nancy,,,,48.9035819,6.0798765
+782699731,way,Jardin des 1000 Fleurs,garden,Nancy,,,https://www.rqlaxou.fr/actions-de-lien-social/,48.6831232,6.1404154
+790339626,way,,memorial,Nancy,,,,48.6352462,6.0477688
+796976551,way,,memorial,Nancy,,,,48.7463235,6.2049234
+798029214,way,,memorial,Nancy,,,,48.6952559,6.1812571
+804964990,way,,park,Nancy,,,,48.7082469,6.257543
+805055493,way,,park,Nancy,,,,48.7070678,6.2608772
+805113046,way,L'Instant Terroir,restaurant,Nancy,,,,48.4698337,6.2569788
+805152141,way,,park,Nancy,,,,48.7039198,6.2621458
+805152142,way,,park,Nancy,,,,48.7044758,6.261921
+805252406,way,Square Boris Vian,park,Nancy,,,,48.6926109,6.1405399
+818102854,way,,park,Nancy,,,,48.7494828,6.222245
+824541918,way,,memorial,Nancy,,,,48.7654665,6.1228314
+839718525,way,Musée de l’Air et du Solaire,museum,Nancy,,,,48.7925515,5.9786772
+854047053,way,Musée Lorrain,museum,Nancy,,,https://www.musee-lorrain.nancy.fr/,48.697162,6.1797342
+856036879,way,Hôtel Bagatelle,hotel,Nancy,,,,48.9062986,6.060317
+860372866,way,Porte de la Citadelle,attraction,Nancy,,,https://www.pop.culture.gouv.fr/notice/merimee/PA00106312,48.7001347,6.1781051
+866726128,way,,memorial,Nancy,,,,48.901519,6.0509446
+879938504,way,,park,Nancy,,,,48.701308,6.1550167
+879950226,way,,memorial,Nancy,,,,48.456314,6.2891364
+880497683,way,,park,Nancy,,,,48.4527578,6.2528318
+893058732,way,,memorial,Nancy,,,,48.5638321,6.1251407
+893058733,way,,memorial,Nancy,,,,48.8194862,5.9806131
+893146896,way,Place des Landres,park,Nancy,,,,48.4668912,6.1787246
+895046333,way,,memorial,Nancy,,,https://www.mairie-flavigny-sur-moselle.fr/sites/flavigny/files/inline-files/circuit-decouverte-Flavigny.pdf,48.5772219,6.1795886
+895280274,way,Château d'Haroué,castle,Nancy,,,https://www.chateau-haroue.fr/,48.4654597,6.1818205
+904502184,way,,memorial,Nancy,,,,48.5991692,6.3367513
+915110441,way,Jardin de l’Étoile,garden,Nancy,,,,48.661186,6.1810521
+945469723,way,,beach,Nancy,,,,48.9443057,6.0553377
+956949867,way,ibis Styles Nancy-Sud,hotel,Nancy,,,,48.6379927,6.1838369
+959151867,way,Parc Jean et Henri Prouvé,park,Nancy,,,,48.6696313,6.1862186
+970461434,way,,park,Nancy,,,,48.6932764,6.2454305
+985424016,way,Square de l'Angle,park,Nancy,,,,48.6856506,6.1677813
+985987181,way,Parc François Mitterrand,park,Nancy,,,,48.7039416,6.1661507
+988509947,way,Espace Claudie Haigneré,park,Nancy,,,,48.6808467,6.1537928
+996474035,way,L'Haillier,attraction,Nancy,,,,48.7049599,6.1482891
+996474036,way,La Grande Pinède,attraction,Nancy,,,,48.7048882,6.1489963
+996728021,way,,park,Nancy,,,,48.615455,6.1118118
+1002701452,way,Îlot de fraicheur,park,Nancy,,,,48.7109518,6.1617027
+1002736139,way,Square d'Eppendorf,park,Nancy,,,,48.7609274,6.1313299
+1011479044,way,,garden,Nancy,,,,48.6680476,6.1655855
+1011479045,way,,garden,Nancy,,,,48.6679627,6.1654307
+1011479046,way,,garden,Nancy,,,,48.6681197,6.1656654
+1020673220,way,,memorial,Nancy,,,,48.6117343,6.1398537
+1020673221,way,,memorial,Nancy,,,,48.7043649,6.1667916
+1020673222,way,,memorial,Nancy,,,,48.6135267,6.2533101
+1020673223,way,,memorial,Nancy,,,,48.6166287,6.0930238
+1022398325,way,Château de Neuviller-sur-Moselle,castle,Nancy,,,,48.4933791,6.2867667
+1025158081,way,,restaurant,Nancy,,,,48.7013321,6.2639489
+1040491795,way,,park,Nancy,,,,48.5861474,6.0954822
+1051739090,way,,attraction,Nancy,,,,48.5745751,6.1911285
+1063207872,way,,memorial,Nancy,,,,48.4670713,6.2913464
+1069854210,way,Le jardin collectif du Charmois,garden,Nancy,,,,48.6693743,6.1768108
+1072805332,way,Le Couarail de la renarde,garden,Nancy,,,,48.6681579,6.1830428
+1089893722,way,Viet Manh,restaurant,Nancy,,,,48.662512,6.1749304
+1092147485,way,Jardin de Lisbonne,garden,Nancy,,,,48.6628683,6.1710164
+1092147487,way,Jardin de la Forêt Noire,garden,Nancy,,,,48.659751,6.1783002
+1092147488,way,Jardin de Louvain,garden,Nancy,,,,48.6660832,6.1688257
+1092147489,way,Le coin nature de Nomade,garden,Nancy,,,http://mjc-nomade.fr/2020/09/09/le-coin-nature-de-nomade-3/,48.6669051,6.1809599
+1096217738,way,Hôtel de Guise,hotel,Nancy,,,,48.6974172,6.1770866
+1104670392,way,Resto Nations,restaurant,Nancy,,,,48.6624878,6.1754793
+1109076027,way,Le Select,restaurant,Nancy,,,,48.662122,6.1755936
+1112324021,way,,park,Nancy,,,,48.6674391,6.1670602
+1116325855,way,Cour des Érables,park,Nancy,,,,48.672544,6.1705419
+1116325856,way,,park,Nancy,,,,48.6727836,6.170282
+1116325857,way,,park,Nancy,,,,48.6729021,6.1707783
+1116325858,way,,park,Nancy,,,,48.6731443,6.1701798
+1116325859,way,Cour des Pins,park,Nancy,,,,48.6734369,6.1699938
+1116325860,way,Cour des Chênes,park,Nancy,,,,48.6741258,6.1694397
+1147406968,way,Square Francois Mitterand,park,Nancy,,,,48.8364556,6.074094
+1149904178,way,Parc de l’Avenir,park,Nancy,,,,48.7137779,6.182688
+1150144485,way,Château des contes Ferri de Ludres,castle,Nancy,,,,48.6210874,6.1640112
+1150144491,way,,garden,Nancy,,,,48.6211094,6.1646274
+1150287940,way,Chateau du Saunerot,ruins,Nancy,,,,48.8233109,6.0311267
+1150287941,way,Chateau du Saunerot,ruins,Nancy,,,,48.8230914,6.0309681
+1151177751,way,,garden,Nancy,,,,48.898195,6.055287
+1154236270,way,,memorial,Nancy,,,,48.6618755,6.364368
+1154335537,way,,garden,Nancy,,,,48.8339407,6.0742535
+1155283311,way,Esplanade François Borella,park,Nancy,,,,48.6797821,6.1681881
+1155381026,way,,garden,Nancy,,,,48.8261945,6.0920025
+1155580262,way,,garden,Nancy,,,,48.8698047,6.0385546
+1155659977,way,,garden,Nancy,,,,48.7960306,6.1366524
+1155659978,way,,garden,Nancy,,,,48.7964476,6.137022
+1156160647,way,,garden,Nancy,,,,48.5667571,6.1922381
+1156189955,way,,beach,Nancy,,,,48.5699864,6.1961862
+1156189962,way,,park,Nancy,,,,48.5681459,6.1891206
+1156795788,way,,garden,Nancy,,,,48.9115361,6.0545354
+1156795796,way,,garden,Nancy,,,,48.9136199,6.0554812
+1157454473,way,Fontaines aux Chiens,ruins,Nancy,,,,48.8620486,6.0078585
+1157476622,way,lavoir,ruins,Nancy,,,,48.8639424,6.004083
+1163472700,way,,garden,Nancy,,,,48.6666749,6.167889
+1164716177,way,Simit&borek,restaurant,Nancy,,,,48.6621073,6.175946
+1164866121,way,,attraction,Nancy,,,,48.5775268,6.1834828
+1172016920,way,Parc boisé Guy Souhait,park,Nancy,,,,48.8903361,6.0442031
+1173780823,way,Hôtel Revotel,hotel,Nancy,,,https://www.revotel-hotel.com/,48.6890291,6.1709829
+1175075652,way,,park,Nancy,,,,48.8783118,6.0570362
+1178548593,way,,garden,Nancy,,,,48.6360978,6.3087481
+1185702858,way,Square des Terreaux,park,Nancy,,,,48.7635392,6.1214496
+1187896144,way,Square de la convention internationale des droits de l'enfant,park,Nancy,,,,48.7966553,6.0957764
+1193925223,way,,beach,Nancy,,,,48.5944094,6.3481621
+1202739775,way,Square Florentin,park,Nancy,,,,48.6886266,6.1966001
+1204644926,way,,park,Nancy,,,,48.6606776,6.180285
+1208465745,way,Jardin partagé - Lycée Henri Loritz,garden,Nancy,,,,48.6911647,6.1918021
+1212618920,way,,park,Nancy,,,,48.883249,6.04428
+1219878478,way,Petits plaisirs existentiels,artwork,Nancy,,,,48.6854969,6.1908005
+1219889742,way,Bestiaire Inabstrait,artwork,Nancy,,,,48.6821398,6.1786215
+1226018086,way,,memorial,Nancy,,,,48.5314978,6.067379
+1229488064,way,Square Claude Baudoin,park,Nancy,,,,48.654208,6.1739454
+1231039336,way,Hôtel Maison Carrée,hotel,Nancy,,,,48.5942858,6.1537189
+1239595401,way,Square Camille Cavallier,park,Nancy,,,,48.6932151,6.165145
+1243109404,way,,memorial,Nancy,,,,48.6444797,6.1758514
+1243783993,way,,park,Nancy,,,,48.6541658,6.173889
+1259358862,way,,park,Nancy,,,,48.6643199,6.1969021
+1266432224,way,,garden,Nancy,,,,48.8360689,6.1396918
+1269004779,way,,garden,Nancy,,,,48.7030491,6.1623853
+1269049742,way,,garden,Nancy,,,,48.6876711,6.1724461
+1271569639,way,,garden,Nancy,,,,48.6706005,6.1634284
+1272496332,way,,garden,Nancy,,,,48.9083904,6.0550854
+1272496333,way,,garden,Nancy,,,,48.9081284,6.0552246
+1272496334,way,,garden,Nancy,,,,48.9084795,6.0554806
+1272496335,way,,garden,Nancy,,,,48.9082204,6.0556171
+1272496336,way,,garden,Nancy,,,,48.9085958,6.0555397
+1272496337,way,,garden,Nancy,,,,48.9085076,6.0551477
+1272496338,way,,garden,Nancy,,,,48.9083382,6.0556769
+1272496339,way,,garden,Nancy,,,,48.9082461,6.0552825
+1272496340,way,,garden,Nancy,,,,48.908091,6.0554011
+1272496341,way,,garden,Nancy,,,,48.9081822,6.055798
+1272496342,way,,garden,Nancy,,,,48.9084402,6.0556598
+1272496344,way,,garden,Nancy,,,,48.908297,6.0558538
+1272496345,way,,garden,Nancy,,,,48.9082092,6.05546
+1272496346,way,,garden,Nancy,,,,48.9084672,6.0553235
+1272496347,way,,garden,Nancy,,,,48.9085581,6.0557178
+1272496349,way,,garden,Nancy,,,,48.9078485,6.0561535
+1272496350,way,,garden,Nancy,,,,48.9076772,6.0562428
+1272496351,way,,garden,Nancy,,,,48.9076168,6.0559821
+1272496352,way,,garden,Nancy,,,,48.907786,6.0558865
+1272899142,way,Le Jardin des Poètes,park,Nancy,,,,48.6192937,6.367054
+1273561456,way,,garden,Nancy,,,,48.9083736,6.0549624
+1273561457,way,,garden,Nancy,,,,48.9081147,6.0550954
+1273561458,way,,garden,Nancy,,,,48.90857,6.0558325
+1273561459,way,,garden,Nancy,,,,48.9083114,6.0559719
+1273561461,way,,garden,Nancy,,,,48.9083524,6.0552639
+1274272626,way,,memorial,Nancy,,,,48.4883777,6.0926539
+1275168373,way,,garden,Nancy,,,,48.9079478,6.0553438
+1275168374,way,,garden,Nancy,,,,48.908081,6.0559304
+1276240126,way,Musée agricole de Vroncourt,museum,Nancy,,,,48.464395,6.0802125
+1289480924,way,,memorial,Nancy,,,,48.6663973,6.3038554
+1294710436,way,,park,Nancy,,,,48.656316,6.1148377
+1298981844,way,,park,Nancy,,,,48.6575696,6.1176589
+1301961160,way,,garden,Nancy,,,,48.665433,6.1572781
+1302546821,way,,artwork,Nancy,,,,48.6789446,6.1716685
+1302546826,way,,artwork,Nancy,,,,48.6788472,6.1712306
+1308322641,way,,garden,Nancy,,,,48.6270162,6.2041049
+1318075108,way,,park,Nancy,,,,48.6163582,6.0918886
+1329246996,way,,park,Nancy,,,,48.906842,6.0576556
+1330877129,way,,zoo,Nancy,,,,48.7500891,6.2280687
+1341507922,way,,garden,Nancy,,,,48.4398618,6.2805063
+1344578218,way,Cafétéria,restaurant,Nancy,,,,48.6415496,6.1851285
+1350777533,way,,park,Nancy,,,,48.6015966,6.3951492
+1356963030,way,,garden,Nancy,,,,48.6158543,6.1691272
+1356963031,way,,garden,Nancy,,,,48.6158215,6.1693758
+1356963033,way,,garden,Nancy,,,,48.6158799,6.1689015
+1356976843,way,,garden,Nancy,,,,48.616072,6.1691745
+1356976844,way,,garden,Nancy,,,,48.6161177,6.1689095
+1356976845,way,,garden,Nancy,,,,48.616208,6.1691274
+1356976846,way,,garden,Nancy,,,,48.6160958,6.1694228
+1356976847,way,,garden,Nancy,,,,48.6163175,6.1694602
+1356976848,way,,garden,Nancy,,,,48.6163572,6.1692694
+1356976849,way,,garden,Nancy,,,,48.6163982,6.1690808
+1356976850,way,,garden,Nancy,,,,48.6156333,6.1688528
+1356976851,way,,garden,Nancy,,,,48.615506,6.1688275
+1356976852,way,,garden,Nancy,,,,48.615496,6.1690566
+1356976853,way,,garden,Nancy,,,,48.6155614,6.1692463
+1356976854,way,,garden,Nancy,,,,48.6155258,6.1695071
+1356976855,way,,garden,Nancy,,,,48.6155667,6.1696985
+1356976869,way,,garden,Nancy,,,,48.6153638,6.1688196
+1356976870,way,,garden,Nancy,,,,48.6154162,6.16905
+1356976871,way,,garden,Nancy,,,,48.6153489,6.1692478
+1356976872,way,,garden,Nancy,,,,48.6153387,6.1694249
+1356976881,way,,garden,Nancy,,,,48.6156621,6.1691064
+1356976885,way,,garden,Nancy,,,,48.6153452,6.1696339
+1356976886,way,,garden,Nancy,,,,48.6152131,6.1695766
+1358387808,way,,garden,Nancy,,,,48.6153845,6.1684291
+1358399170,way,,garden,Nancy,,,,48.6159842,6.1697789
+1358399171,way,,garden,Nancy,,,,48.6160723,6.1699036
+1358399173,way,,garden,Nancy,,,,48.6162623,6.1699697
+1358399174,way,,garden,Nancy,,,,48.6164413,6.1700033
+1358399175,way,,garden,Nancy,,,,48.6164953,6.1698804
+1358399176,way,,garden,Nancy,,,,48.6165577,6.1696415
+1358399177,way,,garden,Nancy,,,,48.6166087,6.1694922
+1358399179,way,,garden,Nancy,,,,48.6166705,6.1693104
+1358399180,way,,garden,Nancy,,,,48.6167588,6.1690873
+1358399181,way,,garden,Nancy,,,,48.6167569,6.1688239
+1358399182,way,,garden,Nancy,,,,48.6165485,6.1686838
+1358399183,way,,garden,Nancy,,,,48.6165232,6.168927
+1358399184,way,,garden,Nancy,,,,48.6164172,6.1687167
+1358399185,way,,garden,Nancy,,,,48.6163319,6.168571
+1358399186,way,,garden,Nancy,,,,48.6162975,6.1688196
+1358399187,way,,garden,Nancy,,,,48.6162498,6.1685162
+1358399188,way,,garden,Nancy,,,,48.6161879,6.1687549
+1358399189,way,,garden,Nancy,,,,48.6161008,6.1687359
+1358399190,way,,garden,Nancy,,,,48.6161624,6.1684933
+1358399192,way,,garden,Nancy,,,,48.6160005,6.168512
+1358399193,way,,garden,Nancy,,,,48.6158408,6.1684499
+1358399194,way,,garden,Nancy,,,,48.6157106,6.168392
+1358399195,way,,garden,Nancy,,,,48.6155649,6.1683414
+1358399196,way,,garden,Nancy,,,,48.6154097,6.1681683
+1358409767,way,,garden,Nancy,,,,48.6156034,6.1700198
+1358409768,way,,garden,Nancy,,,,48.6154016,6.1700662
+1358409769,way,,garden,Nancy,,,,48.6154372,6.1698215
+1358409770,way,,garden,Nancy,,,,48.615252,6.1698741
+1358409774,way,,garden,Nancy,,,,48.616333,6.1703022
+1358409775,way,,garden,Nancy,,,,48.6161171,6.1702306
+1358409776,way,,garden,Nancy,,,,48.6159309,6.1701586
+1358409785,way,,garden,Nancy,,,,48.6163302,6.170587
+1358409786,way,,garden,Nancy,,,,48.6163026,6.1708244
+1358409787,way,,garden,Nancy,,,,48.6162699,6.1710652
+1358409788,way,,garden,Nancy,,,,48.6162333,6.171301
+1358409789,way,,garden,Nancy,,,,48.6162017,6.1715506
+1358409790,way,,garden,Nancy,,,,48.6160356,6.1716264
+1359268459,way,,garden,Nancy,,,,48.6158511,6.1717197
+1359268460,way,,garden,Nancy,,,,48.6157017,6.1718583
+1359268461,way,,garden,Nancy,,,,48.6155634,6.1720419
+1359268469,way,,garden,Nancy,,,,48.6153645,6.1720128
+1359268470,way,,garden,Nancy,,,,48.6151934,6.1719325
+1359268471,way,,garden,Nancy,,,,48.6150234,6.1718488
+1359268472,way,,garden,Nancy,,,,48.6148555,6.1717629
+1359268473,way,,garden,Nancy,,,,48.6146649,6.1716893
+1369179258,way,Le jardin de Mélanie,garden,Nancy,,,,48.7084534,6.1811193
+1371055023,way,Jardin des fortifications,park,Nancy,,,,48.6850569,6.1827383
+1371055028,way,,garden,Nancy,,,,48.6852159,6.1825094
+1371055029,way,,garden,Nancy,,,,48.6853696,6.1828523
+1371882506,way,Square Marcelle Verelle,park,Nancy,,,,48.9009985,6.0388863
+1377591769,way,Parc Mainvaux,park,Nancy,,,,48.7034574,6.1965125
+1380070618,way,,park,Nancy,,,,48.7851524,6.1441455
+1387004113,way,,garden,Nancy,,,,48.679245,6.1872737
+1387004114,way,,garden,Nancy,,,,48.6792078,6.1872612
+1387004119,way,,garden,Nancy,,,,48.6791807,6.1873964
+1428961208,way,Aile Cosmos,restaurant,Nancy,,,,48.6552868,6.1505243
+1429192556,way,,park,Nancy,,,,48.4727118,6.2944539
+1430842243,way,Pizza Nath,restaurant,Nancy,"Avenue de l'Europe, 54700, Pont-à-Mousson",54700,https://pizzanath.eatbu.com,48.9168499,6.0637266
+1432385579,way,Parc Maurice Bruno,park,Nancy,,,,48.8157667,6.1278421
+1433359508,way,,garden,Nancy,,,,48.6887294,6.1712227
+1441846966,way,,memorial,Nancy,,,,48.6133715,6.0891251
+1444725982,way,Parc de l'Hôtel de Ville Pol Choné,park,Nancy,,,,48.6851415,6.152176
+1450030882,way,,garden,Nancy,,,,48.6151466,6.1703297
+1450030883,way,,garden,Nancy,,,,48.6150693,6.1705778
+1450030884,way,,garden,Nancy,,,,48.6149901,6.170799
+1450030885,way,,garden,Nancy,,,,48.6149099,6.1710728
+1450030886,way,,garden,Nancy,,,,48.6148225,6.1712845
+1450030887,way,,garden,Nancy,,,,48.614992,6.1713718
+1450030888,way,,garden,Nancy,,,,48.6151537,6.1714416
+1450030889,way,,garden,Nancy,,,,48.6152686,6.1714775
+1450030890,way,,garden,Nancy,,,,48.6153594,6.1715373
+1450030891,way,,garden,Nancy,,,,48.6153095,6.1711828
+1450030892,way,,garden,Nancy,,,,48.615179,6.1710562
+1450030893,way,,garden,Nancy,,,,48.6152216,6.1707072
+1450032932,way,,garden,Nancy,,,,48.6153386,6.1703827
+1450032933,way,,garden,Nancy,,,,48.6155118,6.1704436
+1450032934,way,,garden,Nancy,,,,48.6156891,6.170516
+1450032935,way,,garden,Nancy,,,,48.6158452,6.17058
+1450032936,way,,garden,Nancy,,,,48.6160131,6.1706601
+1450032937,way,,garden,Nancy,,,,48.6156847,6.1708283
+1450032938,way,,garden,Nancy,,,,48.6156254,6.1711426
+1450032939,way,,garden,Nancy,,,,48.6159543,6.1709828
+1450032940,way,,garden,Nancy,,,,48.6158834,6.1711932
+1450032941,way,,garden,Nancy,,,,48.6157231,6.1713113
+1450032942,way,,garden,Nancy,,,,48.6155698,6.1714559
+1450033011,way,,garden,Nancy,,,,48.6154325,6.1707268
+1456912173,way,,park,Nancy,,,,48.5879822,6.2329073
+1461950715,way,,park,Nancy,,,,48.7930962,6.0004187
+1497173364,way,,park,Nancy,,,,48.6824287,6.1828521
+1522716156,way,,park,Nancy,,,,48.7118223,6.1704828
+1528791205,way,,artwork,Nancy,,,,48.7040609,6.1930146
+1530908320,way,,park,Nancy,,,,48.7051004,6.1542088
+1531158915,way,Foot à 8,park,Nancy,,,,48.9446614,6.0028014
+1531158916,way,Basket,park,Nancy,,,,48.9444332,6.0026423
+1531158917,way,Aire de jeux,park,Nancy,,,,48.9444592,6.0019181
+1531158918,way,Boulodrome,park,Nancy,,,,48.944316,6.0021173
+1531159211,way,Pique-Nique,park,Nancy,,,,48.9441764,6.002256
+1531159212,way,Table pique-nique,park,Nancy,,,,48.9401482,6.0022186
+1531159697,way,Aire de jeux,park,Nancy,,,,48.9430466,5.9940014
+1531249326,way,,garden,Nancy,,,,48.7015431,6.1477973
+1533042247,way,La Fontaine,restaurant,Nancy,"Place de la Fontaine, 54180, Heillecourt",54180,,48.6528975,6.1948239
+1535671743,way,,park,Nancy,,,,48.6417816,6.2607831
+1976163,relation,,castle,Nancy,,,,48.8473725,6.1224045
+7391556,relation,Château d'Écuelle,castle,Nancy,,,,48.7774715,6.268214
+11214896,relation,,park,Nancy,,,,48.6618341,6.181665

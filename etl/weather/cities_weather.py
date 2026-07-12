@@ -40,7 +40,6 @@ CITIES = [
     {"city": "Clermont-Ferrand", "lat": 45.7772, "lon": 3.0870},
     {"city": "Saint-Malo", "lat": 48.6493, "lon": -2.0257},
     {"city": "Lourdes", "lat": 43.0950, "lon": -0.0462},
-    {"city": "Honfleur", "lat": 49.4194, "lon": 0.2329},
     {"city": "Deauville", "lat": 49.3594, "lon": 0.0745},
     {"city": "Blois", "lat": 47.5861, "lon": 1.3359},
     {"city": "Amboise", "lat": 47.4125, "lon": 0.9827},

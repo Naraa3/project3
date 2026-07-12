@@ -1,6 +1,17 @@
 osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+244131002,node,Veuve Clicquot,attraction,Reims,,,,49.2402093,4.0458473
+281787689,node,Calvaire,monument,Reims,,,,49.256293,3.7428175
 309294678,node,Autogrill,restaurant,Reims,,,,49.120524,4.2448393
+670166251,node,,memorial,Reims,,,,49.1529219,4.2990847
+874429343,node,,memorial,Reims,,,,49.2949309,4.1193263
+1006665683,node,,memorial,Reims,,,,49.2198082,4.0566063
+1012531076,node,,memorial,Reims,,,,49.2870594,4.0550284
+1012681594,node,,memorial,Reims,,,,49.3389189,4.0986446
+1071213823,node,Jeanne d'Arc,memorial,Reims,,,,49.2570619,4.0341304
 1071236209,node,Le Bistrot du Forum,restaurant,Reims,"6 Place du Forum, 51100, Reims",51100,https://www.lebistrotduforum.com/,49.2562737,4.0340532
+1071291013,node,,memorial,Reims,,,,49.2513091,4.0233671
+1106850130,node,Statue de Jeanne d'Arc,artwork,Reims,,,,49.2536376,4.032257
+1118058373,node,Statue du Maréchal Drouet Comte d'Erlon,monument,Reims,,,,49.2476964,4.0439898
 1118857350,node,La Rose des Sables,restaurant,Reims,,,,49.2517921,4.0424969
 1118918069,node,Grand Hôtel Continental,hotel,Reims,"95 Place Drouet d'Erlon, 51100, Reims",51100,https://www.continental-hotel.fr,49.2569483,4.0256695
 1118918078,node,Le Coq Rouge,restaurant,Reims,,,,49.2516342,4.0337432
@@ -12,8 +23,17 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1118980252,node,La Ferme des Saveurs,restaurant,Reims,Avenue Hoche,,,49.2365227,4.0663303
 1118980257,node,Papillons,restaurant,Reims,,,,49.232014,4.0837045
 1129495295,node,Best Western Hôtel de la Paix,hotel,Reims,9,,https://www.bestwestern-lapaix-reims.com/,49.2545185,4.0262373
+1141334746,node,,memorial,Reims,,,,49.2219927,3.986535
+1209434497,node,Monument aux morts,memorial,Reims,,,,49.2919816,4.3681925
+1219318170,node,,memorial,Reims,,,,49.2495452,4.2160916
+1219464976,node,monument aux morts,memorial,Reims,,,,49.2704929,4.1489703
+1238531841,node,,monument,Reims,,,,49.3059581,4.2877323
+1240187089,node,,memorial,Reims,,,,49.3482727,4.2197132
+1268746517,node,,memorial,Reims,,,,49.334677,4.1473649
+1449633201,node,Monument aux Morts,memorial,Reims,,,,49.2364204,4.465797
 1719837730,node,Première Classe,hotel,Reims,,,,49.2133213,4.0140015
 1753998125,node,La Table des Sacres,restaurant,Reims,"6 Rue Gambetta, 51100, Reims",51100,,49.2506414,4.0352714
+1764568730,node,Monument Aux Morts,memorial,Reims,,,,49.3131474,3.7350897
 1785414896,node,Sardegna,restaurant,Reims,,,,49.2699998,4.0253266
 1785904349,node,Kyodo Sushi,restaurant,Reims,"130 Avenue de Laon, 51100, Reims",51100,https://kyodosushi.fr/,49.2673586,4.0247665
 1786720395,node,Da Nello,restaurant,Reims,,,,49.2567149,4.0372071
@@ -22,39 +42,89 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1834074873,node,Les Sarments,restaurant,Reims,,,,49.2684949,4.0446081
 1834075317,node,La vieille Champagne,restaurant,Reims,,,,49.2679558,4.0448012
 1834363875,node,Le Jamin,restaurant,Reims,18,,http://www.lejamin.com/,49.2611662,4.0468432
+1932849499,node,,viewpoint,Reims,,,,49.1955385,3.9336307
+2114873900,node,Tombes Commonwealth WWII,memorial,Reims,,,,49.314436,4.1708832
+2116858649,node,Commonwealth WWII,memorial,Reims,,,,49.3158693,4.1586285
+2280070616,node,Monument aux Morts,memorial,Reims,,,,49.2602555,3.6810071
 2300164859,node,L'Expérience,restaurant,Reims,"83 Place Drouet d'Erlon, 51100, Reims",51100,https://www.lexperience-reims.fr/,49.2564904,4.0259286
+2316827129,node,Monument aux morts de Fismes,memorial,Reims,,,,49.3073313,3.6821067
+2318183811,node,Monument aux victimes de la peste,memorial,Reims,,,,49.250771,4.0208276
+2370745712,node,tombe du Lieutenant Pépin,memorial,Reims,,,,49.2239552,3.9972702
 2380712048,node,Buffalo Grill,restaurant,Reims,,,,49.1203226,4.2446739
 2399713000,node,Le Clairmarais,restaurant,Reims,,,,49.2617491,4.0248668
+2538100705,node,Borne Vauthier,memorial,Reims,,,,49.2019801,4.2551175
+2544758024,node,Colonne mémorielle,memorial,Reims,,,,49.1867876,3.841293
 2771807099,node,Flunch,restaurant,Reims,"51430, Tinqueux",51430,,49.2549294,3.978333
+2930652217,node,Pierre d’heures,artwork,Reims,,,,49.2510573,4.0350879
 2968380596,node,L'Ermitage,restaurant,Reims,,,,49.2676376,4.1272204
 2974391017,node,Les Quatre Vents,restaurant,Reims,,,,49.272497,3.8919609
 2986056091,node,Flunch,restaurant,Reims,,,,49.2611154,4.0668289
 3024419007,node,Nihao,restaurant,Reims,"1 Route de Soissons, 51430, Tinqueux",51430,http://restaurant-nihao.fr/,49.2509987,3.9843818
+3032251404,node,,memorial,Reims,,,,49.2250486,3.8397237
+3033454509,node,,memorial,Reims,,,,49.2558038,4.0610388
 3033545574,node,Le Saint-Valentin,restaurant,Reims,,,,49.2628046,4.1055442
+3034539518,node,,memorial,Reims,,,,49.2163675,3.8199094
 3041498741,node,Best Western Centre Reims,hotel,Reims,,,,49.2563035,4.0260904
+3053419082,node,,memorial,Reims,,,,49.2109627,3.7604488
+3054868660,node,,memorial,Reims,,,,49.209437,3.7438608
+3249869485,node,Monument aux Morts,memorial,Reims,,,,49.1965277,4.1826024
+3255762576,node,Monument Farman 1er vol inter-ville Bouy Reims,memorial,Reims,,,https://www.aerosteles.net/stelefr-prunay-events,49.2105069,4.1486716
+3269345893,node,,memorial,Reims,,,,49.252323,3.7675764
+3271136479,node,Château de Prin,castle,Reims,,,,49.2347323,3.7729984
+3284417330,node,,memorial,Reims,,,,49.2261024,3.7398085
 3328361092,node,Brasserie Au Conti,restaurant,Reims,93,,,49.2569088,4.0257372
+3417493847,node,,castle,Reims,,,,49.3352273,4.0218517
 3473041983,node,Hôtel Akena,hotel,Reims,"79 Rue Alfred Kastler, 51430",51430,https://hotel-akena-reims.fr/,49.2213606,4.0025953
 3481388893,node,B&B Hôtel,hotel,Reims,4,,https://www.hotel-bb.com/fr/-/hotelByName.htm?id=4562,49.2582333,4.0220711
 3528639836,node,Au Touring,hotel,Reims,,,http://www.autouring.com/,49.2558298,4.0241515
 3640201131,node,Domaine les Crayères,hotel,Reims,,,,49.2412482,4.0517291
+3646436454,node,monument aux morts,memorial,Reims,,,,49.3156349,3.8003257
 3646649252,node,L'Auberg'Inn,restaurant,Reims,55 Route Nationale,,,49.2870767,3.8125063
 3647130619,node,Au Chant des Galipes,restaurant,Reims,,,,49.1472062,4.1626715
+3648929753,node,Grinyland,theme_park,Reims,"6 Rue de la Libération, 51400, Sept-Saulx",51400,,49.1534466,4.242173
 3663798500,node,Le Bistrot du Circuit,restaurant,Reims,,,,49.2508969,3.9101731
+3719031698,node,Ferme du Puisieux,ruins,Reims,,,,49.2524148,3.6928895
 3723373174,node,Hôtel Cecyl,hotel,Reims,24,,,49.2548933,4.0259984
+3779218155,node,Monument aux morts du 103e R.I,memorial,Reims,,,,49.1976954,4.4201877
+3973545796,node,,memorial,Reims,,,,49.297243,4.3205811
+3986238915,node,,castle,Reims,,,,49.3422965,4.2242421
 3986239218,node,Au Petit Four,restaurant,Reims,,,,49.3497196,4.2079461
+3986531945,node,,castle,Reims,,,,49.2941856,3.9468028
+3989468620,node,monument aux morts,memorial,Reims,,,,49.3350485,3.9090141
+3989578597,node,Table d'Observation,viewpoint,Reims,,,,49.1467312,4.1557037
 3992206591,node,Les Pionniers,restaurant,Reims,1,,https://www.facebook.com/lespionners/,49.2178219,4.0227157
 3992206600,node,Campanile,restaurant,Reims,,,,49.2191483,4.0224259
 3992207083,node,Le Soleil d'Asie,restaurant,Reims,,,,49.2189027,4.0216072
 3997430341,node,Shanghai Tower,restaurant,Reims,17,,,49.2309142,4.0854826
+4111856617,node,,memorial,Reims,,,,49.3461435,3.9725134
+4112233233,node,,memorial,Reims,,,,49.3568728,3.9386948
+4114768156,node,,memorial,Reims,,,,49.3572513,3.992966
 4209368962,node,Mets Envies,restaurant,Reims,"3 Place Truchon, 51220, Hermonville",51220,https://www.restaurant-metsenvies.fr/,49.334868,3.9086502
+4253007607,node,Borne Vauthier,memorial,Reims,,,,49.2317695,3.9114117
+4253217801,node,Borne Vauthier,memorial,Reims,,,,49.1941243,4.4154492
+4253228002,node,Borne Vauthier,memorial,Reims,,,,49.2684834,4.0693915
+4253228003,node,Borne Vauthier,memorial,Reims,,,,49.2804173,4.0134199
+4253229600,node,Borne Vauthier,memorial,Reims,,,,49.2512625,3.9849493
+4253230100,node,Borne Vauthier,memorial,Reims,,,,49.2171156,4.1298033
+4255859827,node,,memorial,Reims,,,,49.3142697,3.9503345
+4260059951,node,,memorial,Reims,,,,49.3484112,3.921166
 4274841990,node,Fujin Chinese Buffet,restaurant,Reims,"52 Avenue Sarah Bernhardt, 51430, Tinqueux",51430,,49.2507592,3.9780055
+4283754585,node,Le moulin de Verzenay,viewpoint,Reims,,,,49.1629097,4.1362369
+4283754587,node,Musée de la Vigne,museum,Reims,,,https://www.phare-verzenay.com/,49.1581834,4.151461
 4321668390,node,La Fermette Champenoise,hotel,Reims,"8 Rue de la Picardie, 51700",51700,,49.1484335,3.7877131
 4373148663,node,Lys du Roy,restaurant,Reims,,,,49.1644514,3.9720247
 4387276100,node,Le Hangar,restaurant,Reims,"3 Avenue des Goisses, 51350, Cormontreuil",51350,https://lehangar51.com/,49.2159066,4.059478
+4399596809,node,,memorial,Reims,,,,49.2889462,4.0058762
+4404264395,node,Chamery,monument,Reims,,,,49.1754548,3.9535592
+4534116167,node,,memorial,Reims,,,,49.3397474,4.023444
+4702959197,node,,memorial,Reims,,,,49.1587335,4.1108361
+4823754342,node,Église (ruines de l'),ruins,Reims,,,,49.2362474,4.4656542
 4869858124,node,Le Gaulois,restaurant,Reims,"2 Place Drouet d'Erlon, 51100, Reims",51100,https://www.brasserielegaulois.com/,49.2543976,4.0280328
 4903206070,node,Salon de thé Le Tau,restaurant,Reims,2,,,49.2531394,4.0340256
 4928350991,node,Le Coquet,restaurant,Reims,"6 Place de la Liberté, 51500, Ludes",51500,,49.1525929,4.0803326
 4999413174,node,Blue Hotel,hotel,Reims,"1 Rue de Bernex, 51370, Saint-Brice-Courcelles",51370,https://www.blue-hotel-reims.fr/,49.2812627,4.0054719
+5039435757,node,,memorial,Reims,,,,49.3234023,4.004377
+5141673914,node,Monument aux Morts 14-18,memorial,Reims,,,,49.3231792,4.0019901
 5141690037,node,KWABO,restaurant,Reims,"31 Rue de Courcelles, 51100, Reims",51100,https://kwabo-reims.fr/,49.2582155,4.0212648
 5155442243,node,Hôtel de la Cathédrale,hotel,Reims,"20 Rue Libergier, 51000",51000,,49.2521368,4.0291533
 5160740628,node,Hôtel Europe,hotel,Reims,,,,49.2541079,4.0251967
@@ -64,15 +134,36 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5161358276,node,Le Bon Moine,restaurant,Reims,,,,49.2526425,4.0284875
 5161366417,node,Au Bureau,restaurant,Reims,"9 Place du Cardinal Luçon, 51100, Reims",51100,https://www.aubureau.fr/restaurant/?ville=AB_Reims,49.2529084,4.0326095
 5163323114,node,Shin'Zen,restaurant,Reims,,,,49.2514309,4.0239081
+5163323117,node,Dans l'intervalle,artwork,Reims,,,https://www.christianlapie.net/oeuvres/315/dans-lintervalle/,49.251484,4.0236637
 5163802878,node,L'Antica,restaurant,Reims,"48 Rue Chanzy, 51100, Reims",51100,https://www.pizza-antica.fr,49.2517687,4.0326394
 5163802880,node,La Trattoria,restaurant,Reims,"45 Rue Chanzy, 51100, Reims",51100,,49.2520519,4.0327499
+5165612244,node,La Poule Des Champs,attraction,Reims,,,https://lapouledeschamps.com/,49.1986167,4.4194019
 5171794202,node,Sakura sushi & thaï,restaurant,Reims,,,,49.2605091,4.0225173
 5171794204,node,La Pizza de Nico,restaurant,Reims,"9 Rue Gaston Boyer, 51100, Reims",51100,https://lapizzadenico.com/restaurant/la-pizza-de-nico-reims/,49.2615301,4.0200866
 5174221829,node,L'Univers,restaurant,Reims,"67 Rue de Courcelles, 51100, Reims",51100,,49.2591392,4.0203406
+5174505359,node,,monument,Reims,,,,49.394018,3.9231135
+5262359893,node,Théorie du Chaos,artwork,Reims,,,,49.2433583,4.0630892
+5262359894,node,Na2C-Ar-Ne-Fe,artwork,Reims,,,,49.2415581,4.0661855
+5305449397,node,,memorial,Reims,,,,49.2250399,3.8397525
+5305567385,node,,memorial,Reims,,,,49.2645578,3.9873491
 5310179287,node,Appart'Hotel,hotel,Reims,17,,,49.2633399,4.0363216
+5326108647,node,En hommage au lieutenant de vaisseau Georges Hebert,memorial,Reims,,,,49.2404445,4.0561238
+5326108648,node,Monument de guerre,monument,Reims,,,,49.2395682,4.057907
+5326108649,node,Monument aux Sportifs Rémois,monument,Reims,,,,49.2403437,4.0572794
+5326108650,node,Stèle pommery,memorial,Reims,,,,49.2386427,4.0526632
+5406809694,node,Mosaïque en sept panneaux,artwork,Reims,,,,49.2438318,4.0636332
+5448918676,node,Départ du circuit des écrivains en guerre - panneau 1/9,attraction,Reims,,,,49.3126642,3.6794613
+5450272007,node,,memorial,Reims,,,,49.2383099,4.0635854
 5538329223,node,Chez Armand,restaurant,Reims,"4 Place du Forum, 51100, Reims",51100,https://www.chez-armand-bistro.fr/,49.2561867,4.0338478
 5538329224,node,Côté Sushi,restaurant,Reims,"7 Place du Forum, 51100, Reims",51100,,49.2561023,4.032644
+5579012047,node,,viewpoint,Reims,,,,49.1488285,4.1198906
+5599029678,node,Monument aux morts,memorial,Reims,,,,49.175039,4.2227488
+5652471111,node,,memorial,Reims,,,,49.1552312,4.0864557
+5669186456,node,Monument aux morts,memorial,Reims,,,,49.2040463,4.4190855
+5743577555,node,,memorial,Reims,,,,49.2765531,3.8908258
+5749655790,node,,memorial,Reims,,,,49.1981576,3.9521612
 5753490321,node,Ristorante Del Arte,restaurant,Reims,"10 Rue Jacques de la Giraudière, 51100",51100,https://www.delarte.fr/restaurants/3681-reims-village,49.2398877,4.0847993
+5757174778,node,,memorial,Reims,,,,49.254306,3.8616801
 5782715098,node,Sacré Brunch,restaurant,Reims,"59 Rue Cérès, 51000, Reims",51000,https://sacrebrunch.com,49.2570393,4.03786
 5792020602,node,Alba,restaurant,Reims,"5 Rue Salin, 51100",51100,https://www.restaurantalba.fr,49.257145,4.0312433
 5792583819,node,Le Café du Palais,restaurant,Reims,"12;14 Place Myron Herrick, 51100",51100,,49.254644,4.0312482
@@ -91,9 +182,17 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5858990388,node,Ö double A,restaurant,Reims,"32 Place du Forum, 51100, Reims",51100,,49.2570986,4.0345717
 5858990390,node,Au Fil des Saisons,restaurant,Reims,"13 Rue Courmeaux, 51100, Reims",51100,https://www.au-fil-des-saisons.fr,49.2570531,4.0355179
 5861221088,node,Bulle 1924,restaurant,Reims,"14 Place Aristide Briand, 51100, Reims",51100,https://www.bulle1924.fr,49.2574552,4.0396889
+5887484888,node,,memorial,Reims,,,,49.3413796,3.9855817
+5887507833,node,,garden,Reims,,,,49.3459387,3.9807989
+5909715642,node,,artwork,Reims,,,,49.2700984,4.0158983
+5964588592,node,,memorial,Reims,,,,49.2063025,3.8237853
+5976536303,node,,memorial,Reims,,,,49.1789621,3.7928554
 6000934280,node,Gambetta,hotel,Reims,,,,49.2506303,4.0357599
+6030340285,node,,memorial,Reims,,,,49.1474686,3.7578884
+6077559462,node,Monument aux Morts de Boult sur Suippe,memorial,Reims,,,,49.3690648,4.1472267
 6129515287,node,,restaurant,Reims,,,,49.2537547,4.0281019
 6132548185,node,Bootlegger Speakeasy,restaurant,Reims,,,,49.2607934,4.0218782
+6151941041,node,Mirage,artwork,Reims,,,,49.2833098,4.001597
 6184855683,node,Chez P'tit Viet,restaurant,Reims,11,,,49.2543106,4.028918
 6222668525,node,L'ArTdoise,restaurant,Reims,"2 Rue Gabriel Voisin, 51100, Reims",51100,https://lartdoise.brasseriemaison.fr,49.2358882,4.0691951
 6284566521,node,Punjab,restaurant,Reims,"6 Rue en Mémoire des Harkis, 51100, Reims",51100,https://punjab-reims.fr,49.2916124,4.0232101
@@ -108,12 +207,33 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 6359311526,node,Le Palace,restaurant,Reims,14,,,49.2578016,4.0407218
 6412459265,node,Racine,restaurant,Reims,"6 Place Godinot, 51100",51100,,49.2527649,4.0374948
 6550798570,node,Restaurant Le Parc,hotel,Reims,,,,49.241174,4.0516654
+6719995495,node,218 Squadron,memorial,Reims,,,,49.189872,4.3959246
+6720002698,node,,memorial,Reims,,,,49.2002104,4.2840476
 6747058052,node,La Boucherie,restaurant,Reims,"2 Rue Henri Moissan, 51430, Bezannes",51430,https://www.la-boucherie.fr/restaurant-viande/reims/,49.2162343,3.9960315
 6770375697,node,La Maye,restaurant,Reims,,,,49.2852419,4.0584086
 6799417094,node,Sushido,restaurant,Reims,"62 Rue Gambetta, 51100",51100,https://sushido-reims.fr/,49.2485109,4.0373108
+6815240733,node,La Sidération des Étoiles,artwork,Reims,,,,49.3131648,3.6795402
+6815240734,node,,artwork,Reims,,,,49.3128929,3.6798285
+6815240735,node,,artwork,Reims,,,,49.3129252,3.6797279
+6815240736,node,,artwork,Reims,,,,49.3129733,3.679803
+6815240737,node,,artwork,Reims,,,,49.3130266,3.6798473
+6815240738,node,,artwork,Reims,,,,49.3130468,3.6799546
+6815240739,node,,artwork,Reims,,,,49.3131525,3.6800404
+6828611698,node,,memorial,Reims,,,,49.1643185,3.904161
 6924074785,node,Pizza Sarda,restaurant,Reims,"58 Rue Gambetta, 51100, Reims",51100,,49.2486206,4.0372017
 6932797185,node,La Braise,restaurant,Reims,"1 Rue Jean-Jacques Rousseau, 51100, Reims",51100,,49.2580526,4.0330663
 6936993986,node,Au Cul de Poule,restaurant,Reims,"46 Boulevard Carteret, 51000",51000,https://www.auculdepoule.com/,49.2578133,4.0478964
+6942475486,node,Ancienne fontaine,monument,Reims,,,,49.2445615,4.0433903
+6942492287,node,Le Premier Architecte,artwork,Reims,,,,49.2439771,4.0488055
+6942492288,node,Immeuble Kodak (Art déco),monument,Reims,,,,49.2532333,4.0278698
+6942499385,node,Statue Andrew Carnegie,monument,Reims,,,,49.2531192,4.0356988
+6944372085,node,Les grands magasins (art déco),monument,Reims,,,,49.2549058,4.0295501
+6944385487,node,Passage Subé (Art déco),monument,Reims,,,,49.2547692,4.0282859
+6944385488,node,Manège pour enfants,attraction,Reims,,,,49.2543969,4.0286244
+6944385489,node,Docks rémois et familistère,monument,Reims,,,,49.2535169,4.0291527
+6944397685,node,Ancien Cinéma Opéra (Art déco),monument,Reims,,,,49.2538511,4.0273012
+6944415885,node,Villa Douce,monument,Reims,,,,49.2559074,4.0407006
+6944415886,node,Ancienne fabrique de fromages Boucher (Art déco),monument,Reims,,,,49.2599868,4.0321216
 6967200388,node,Marcel & Jane,restaurant,Reims,,,,49.2477592,4.0383551
 6968939685,node,Anamour Grill,restaurant,Reims,,,,49.2469428,4.0386062
 6976415885,node,Reims Pizza Kebab,restaurant,Reims,,,,49.2488454,4.0369426
@@ -126,12 +246,16 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 6979247086,node,Gueuleton,restaurant,Reims,1,,https://gueuleton.fr/,49.254791,4.0355426
 6982165886,node,Casa d’Urso,restaurant,Reims,,,,49.2511805,4.0382332
 6982165989,node,Pizza Piano,restaurant,Reims,,,,49.2471012,4.0417484
+6982805585,node,L’illustrateur,gallery,Reims,,,,49.2521132,4.0319939
 6982822685,node,Laman,restaurant,Reims,,,,49.2509094,4.0347646
+6982902007,node,Le Poilu du Cornillet,memorial,Reims,,,,49.2381466,4.2649769
 6983072885,node,Nuraghé Pizza à Emporter,restaurant,Reims,,,,49.2449751,4.043822
 6983085499,node,Pizzéria Venizia,restaurant,Reims,,,https://venizia51.fr/venizia-pizza/reims-barbatre/560/0/12480/page.htm,49.2450683,4.0441183
 6983086289,node,Au Plat du Jour,restaurant,Reims,,,,49.2454189,4.0438137
 6983287885,node,Pizza La Mama,restaurant,Reims,"134 Boulevard Saint-Marceaux, 51100",51100,,49.2522826,4.0437957
 6983496885,node,Le Fontenoy,restaurant,Reims,170,,,49.2507611,4.0525685
+6984825086,node,,memorial,Reims,,,,49.2397865,4.05806
+6984935987,node,Monument à l’Armée Noire,monument,Reims,,,,49.2397871,4.0580414
 6985301664,node,Liji,restaurant,Reims,"1 Rue Eugène Desteuque, 51100",51100,https://liji51.com,49.2550441,4.0353602
 6986594989,node,Le Clem Restaurant,restaurant,Reims,,,,49.2509751,4.048973
 6987074886,node,La Verriére,restaurant,Reims,2,,,49.2545517,4.0222505
@@ -148,49 +272,87 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 7018229485,node,Hanuri Korean Grill Reims,restaurant,Reims,"1 Rue de Contrai, 51100, Reims",51100,https://www.hanuri.fr/reims/,49.2511487,4.0353386
 7023969685,node,Le Neuf,restaurant,Reims,"9 Route de Bétheny, 51450",51450,,49.2693773,4.0481227
 7025250795,node,New Saigon,restaurant,Reims,8,,,49.2901882,4.0221491
+7030744259,node,Musée Hôtel le Vergeur,museum,Reims,,,https://museelevergeur.com/,49.2570926,4.0340955
 7031571831,node,Le Bouclards,restaurant,Reims,,,,49.250017,4.0339293
 7033206607,node,Le Valentino,restaurant,Reims,5,,,49.2924772,4.0184038
+7033516486,node,Luchrone,artwork,Reims,,,,49.2396723,4.0388466
+7036857830,node,Restitution d'un tumulus Gaulois,monument,Reims,,,,49.2900714,4.0206974
+7036921358,node,Restitution d'une tombe à char gauloise,monument,Reims,,,,49.2905876,4.0203765
 7042380186,node,Flunch,restaurant,Reims,,,,49.215134,4.0569579
 7044015485,node,La Table de Bertacchi,restaurant,Reims,"13 Rue Louis Néel, 51430",51430,https://bertacchi.fr/,49.2221773,4.0027006
 7044039985,node,L’Atelier du Pasta,restaurant,Reims,"Rue Louis Néel, 51430",51430,http://latelierdipasta.fr,49.2237919,4.003857
 7044982486,node,Le 19 Green Bezannes,restaurant,Reims,"151 Rue Louis Victor de Broglie, 51430",51430,http://19green-reims-bezannes.com,49.216301,4.0055107
 7048769985,node,Le Farman,restaurant,Reims,,,,49.2367342,4.0728898
+7050050305,node,Henry Herduin,memorial,Reims,,,,49.2491414,4.0371147
 7051659585,node,Oh Caribou,restaurant,Reims,,,https://mangerbouger.fr/,49.2498048,4.0362001
 7058379186,node,La Villa,restaurant,Reims,"30 Rue de Mars, 51000",51000,http://lavillareims.fr,49.259297,4.0318802
 7069085585,node,Gabrielle,restaurant,Reims,,,,49.2526986,4.032732
+7073407675,node,Ancien Collège des Jésuites,attraction,Reims,"Place Museux, 51100, Reims",51100,,49.2464714,4.0404268
 7086408191,node,Le Bambi,restaurant,Reims,51100,51100,https://lebambireims.fr/,49.2523509,4.0316907
 7099351100,node,La Boucherie,restaurant,Reims,,,,49.2396702,4.0850618
 7099743311,node,Royal St Brice,restaurant,Reims,1 Rue de Bernex,,,49.2791993,4.0049941
 7110353286,node,Tip Khao,restaurant,Reims,,,https://www.tipkhao.fr/,49.2518836,4.023995
 7187507787,node,Feifei,restaurant,Reims,9,,,49.2402437,4.0842821
+7194173268,node,,artwork,Reims,,,,49.2839833,4.0558675
+7203110507,node,vive la Champagne,artwork,Reims,,,,49.20274,4.0509914
 7207832585,node,La Table D'Arthur,restaurant,Reims,,,,49.2554988,4.0356582
+7221241072,node,,artwork,Reims,,,,49.286954,4.0585415
+7229911476,node,Le Livre,artwork,Reims,,,,49.2445225,4.0398801
+7229943997,node,,memorial,Reims,,,,49.2441416,4.0415985
+7234200065,node,,memorial,Reims,,,,49.3045441,3.9646779
+7235801857,node,V.FAY,memorial,Reims,,,,49.2203821,4.062151
+7242166850,node,Statue de Saint-Jean-Baptiste de La Salle,artwork,Reims,,,,49.2509561,4.036632
+7247120204,node,,memorial,Reims,,,,49.2510077,4.0353138
+7247120205,node,,memorial,Reims,,,,49.2510941,4.0353021
+7250900412,node,Tour de France eddy MERCKX,artwork,Reims,,,,49.2528231,4.0368222
+7250900413,node,La chute,artwork,Reims,,,,49.251203,4.0351678
+7291406425,node,Hommage aux Martyrs de la Résistance,memorial,Reims,,,,49.2539836,4.0258944
+7305676230,node,,artwork,Reims,,,,49.232927,4.0254089
+7332066531,node,,memorial,Reims,,,,49.24964,4.0145959
+7335225207,node,,memorial,Reims,,,,49.2472236,4.0115328
+7352438149,node,Square Rue de Verzy,park,Reims,,,,49.2381036,4.0335337
 7353828518,node,brasserie,restaurant,Reims,,,,49.2247326,4.0216398
 7354966635,node,The Food Box,restaurant,Reims,,,,49.2355594,4.007636
 7354966637,node,Speedza 51,restaurant,Reims,,,,49.2360551,4.0070325
 7366412150,node,Le Petit Vatel,restaurant,Reims,"139 Rue de Neufchâtel, 51000",51000,https://www.petit-vatel-reims.fr/,49.2769096,4.026678
 7366782318,node,L'Espace Pizza 51,restaurant,Reims,331,,,49.2742173,4.0182192
+7374432346,node,Charles Arnould Ancien Maire de Reims,artwork,Reims,,,,49.2694616,4.0201856
 7376596017,node,L'Espelette,restaurant,Reims,"29 Rue Roger Salengro, 51000",51000,https://lespelette-reims.fr/,49.2724863,4.0241454
+7383063433,node,Ange du Sourire,artwork,Reims,,,,49.2535711,4.0328796
+7388312345,node,,artwork,Reims,,,https://cultures-j.com/les-vitraux-de-chagall-dans-la-chapelle-daxe-de-la-cathedrale-de-reims/,49.2541441,4.0347562
 7389878682,node,Les Cocottes,restaurant,Reims,"70 Rue de Cernay, 51100",51100,https://www.lescocottesduculdepoule.com/,49.25729,4.0482038
+7392315338,node,,memorial,Reims,,,,49.2480683,4.0081803
 7395080516,node,Restaurant du Parc,restaurant,Reims,,,,49.2409513,4.056776
 7432964610,node,Casa Délice,restaurant,Reims,,,https://www.casadelice.com/,49.2734432,4.0270809
 7434309955,node,Mille et une Graines,restaurant,Reims,,,,49.2608536,4.0665085
 7448534476,node,Chez Nous,restaurant,Reims,30,,,49.2468051,4.0122057
 7474237239,node,Le Saint-rémi,restaurant,Reims,,,,49.2427373,4.0396958
 7474476830,node,Pause Café,restaurant,Reims,,,,49.242214,4.0376628
+7481915882,node,Georges JANTZY,artwork,Reims,,,,49.2466468,4.0450432
+7499113527,node,,memorial,Reims,,,,49.2292342,4.0301976
 7500696105,node,La Cucina di Fossati,restaurant,Reims,"56 Rue de Cernay, 51100, Reims",51100,,49.2571946,4.0470962
+7501446810,node,Le Grand Foudre Pommery,artwork,Reims,,,,49.2431123,4.0526724
 7504371472,node,La Caravane,restaurant,Reims,"13 Rue des Docks Rémois, 51450, Bétheny",51450,https://www.la-caravane.fr/,49.2719983,4.0444212
+7508518309,node,,memorial,Reims,,,,49.2455544,4.0458651
+7508534541,node,,memorial,Reims,,,,49.2455854,4.0458798
 7511320010,node,La Calle Havana,restaurant,Reims,"4 Rue Honoré Ganteaume, 51450, Bétheny",51450,,49.2722675,4.0431675
 7515594927,node,Signorizza,restaurant,Reims,,,https://restaurant-pizzeria.signorizza.com/store/signorizza-ormes-ormes-11728,49.2471747,3.9790316
+7523758037,node,Souviens Toi,memorial,Reims,,,,49.2653688,3.9883507
 7543580913,node,Coco Pizzas,restaurant,Reims,"12 Place des Fleurs, 51450, Bétheny",51450,,49.2847487,4.0569108
+7549526566,node,,memorial,Reims,,,,49.2528933,4.0294989
 7572199702,node,Wasa Sushi,restaurant,Reims,,,,49.2828454,4.000148
 7591638237,node,Duprat et Duprat,restaurant,Reims,,,,49.2707499,4.0266025
 7591638238,node,Le Vérone,restaurant,Reims,2,,https://www.pizzeria-leverone.fr/,49.270523,4.0269287
 7592458900,node,Top Pizza,restaurant,Reims,88,,https://pizzatop-reims.fr/pizza-top/reims/245/0/12062/page.htm,49.2689561,4.0332315
 7592482065,node,La Table Saint-Thomas,restaurant,Reims,58,,https://latablesaint-thomas51.eatbu.com/,49.2658002,4.0289079
+7594277048,node,,memorial,Reims,,,,49.3381598,3.8350319
 7595382743,node,L'Aqua,restaurant,Reims,"83 Avenue du 29 Août 1944, 51430, Tinqueux",51430,,49.2509875,3.9849296
 7596304934,node,Le Kiosque à Pizza,restaurant,Reims,"50 Avenue Sarah Bernhardt, 51430, Tinqueux",51430,,49.2497592,3.9781244
 7596489693,node,Le Restaurant Campanile Reims Ouest,restaurant,Reims,,,,49.2489259,3.9783845
+7691526128,node,Pierre LEGROS,memorial,Reims,,,,49.2483549,4.0406245
 7700378898,node,Le Relais de Sillery,restaurant,Reims,"3 Rue de la Gare, 51500, Sillery",51500,,49.2001807,4.1425847
+7710193712,node,Monument des Laboureurs,artwork,Reims,,,,49.3357645,4.1507975
+7720753677,node,Napoléon 1er,memorial,Reims,,,,49.2540369,4.0300052
 7767898052,node,,restaurant,Reims,"8 Rue Sainte-Macre, 51170, Fismes",51170,,49.3073376,3.6793469
 7769564885,node,,restaurant,Reims,,,,49.2248401,4.0215049
 7769564895,node,Pacific Pizza,restaurant,Reims,,,,49.2246306,4.0221464
@@ -198,6 +360,9 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 7769857563,node,Eat Night,restaurant,Reims,,,,49.2247597,4.0219331
 7769857565,node,Gokan Fast,restaurant,Reims,,,,49.2248859,4.0216491
 7773719515,node,Fismes Pizz,restaurant,Reims,"3 Rue des Conciles, 51170, Fismes",51170,,49.3068563,3.6846646
+7792350493,node,COLLEGIUM,memorial,Reims,,,,49.2522615,4.0371255
+7794533819,node,,artwork,Reims,,,,49.3087528,3.6662064
+7794533820,node,,artwork,Reims,,,,49.3087383,3.6662333
 7794594015,node,L'Esplanade,hotel,Reims,"8 Rue des Chailleaux, 51170, Fismes",51170,,49.3068409,3.6778934
 7794671656,node,L'Esplanade,restaurant,Reims,"8 Rue des Chailleaux, 51170, Fismes",51170,,49.3067825,3.6779905
 7798382740,node,O'Comptoir,restaurant,Reims,,,,49.258737,4.0106393
@@ -205,52 +370,266 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 7810075294,node,Un Truck de Food,restaurant,Reims,44,,,49.2372907,4.0395415
 7816086303,node,Bistrot des Halles,restaurant,Reims,18,,https://www.bistrotdeshallesreims.com/,49.2601129,4.0315875
 7816086304,node,Les Vieux de la Vieille,restaurant,Reims,16,,,49.2601506,4.0323576
+7819402644,node,Le 15 Mars 2007 Premier arrêt en gare Champagne-Ardenne TGV Reims - Bezanne,memorial,Reims,,,,49.2145096,3.9948067
+7819412464,node,1 Février 2006 Pose de la première pierre,memorial,Reims,,,,49.2145378,3.9948253
+7820151177,node,La Raison,artwork,Reims,,,,49.2152627,4.0015308
+7820168700,node,Lost Dog,artwork,Reims,,,,49.2147807,3.9998133
+7820168701,node,Dans l'Intervalle,artwork,Reims,,,,49.2153507,3.9953309
+7820168702,node,Dans l'Intervalle,artwork,Reims,,,,49.215279,3.9951137
+7820168703,node,Dans l'Intervalle,artwork,Reims,,,,49.2150502,3.9949969
+7820168704,node,Dans l'Intervalle,artwork,Reims,,,,49.2155413,3.9956601
+7820168705,node,Le Dino Lego,artwork,Reims,,,,49.214998,3.9983795
 7820168706,node,V Saveur Pizza,restaurant,Reims,Rue Jean Dausset,,,49.214429,4.0028183
 7820168707,node,Bouche B;Restaurent House,restaurant,Reims,"9 Rue Jean Dausset, 51430, Bezannes",51430,https://restauranthouse.fr/,49.2145552,4.0029443
+7820168708,node,,artwork,Reims,,,,49.2145475,4.0027998
+7820168709,node,Rage de Vivre,artwork,Reims,,,,49.2144134,4.00352
+7820416675,node,Fresque de PRO 176,artwork,Reims,,,,49.2191078,3.998549
+7820457373,node,La Marianne,artwork,Reims,,,,49.2192992,3.9867704
+7820464361,node,Sonner le glas,artwork,Reims,,,,49.2496461,4.0337632
+7820513811,node,Fresque à 6 mains,artwork,Reims,,,,49.2526185,4.0292016
+7822449455,node,,memorial,Reims,,,,49.2607461,4.0292108
+7822545457,node,Rhin et Danube,memorial,Reims,,,,49.2600359,4.0282445
+7822545458,node,Pierre Bouchez,memorial,Reims,,,,49.2601467,4.0280302
+7822562987,node,,artwork,Reims,,,,49.2188612,3.9856102
+7822687431,node,Dans l'Intervalle,artwork,Reims,,,,49.2164781,3.9970987
+7822687432,node,Dans l'Intervalle,artwork,Reims,,,,49.2165324,3.997006
+7822687433,node,Dans l'Intervalle,artwork,Reims,,,,49.2164921,3.9970274
+7822687434,node,Dans l'Intervalle,artwork,Reims,,,,49.2162923,3.9968746
+7822687435,node,Dans l'Intervalle,artwork,Reims,,,,49.21604,3.9965286
+7822687436,node,Arbre à Vent,artwork,Reims,,,,49.2164399,3.9978994
 7825985462,node,Hôtel du Centre,hotel,Reims,,,,49.3496157,4.222383
+7837082202,node,Mémorial Jean Mackenzie,memorial,Reims,,,,49.2925451,4.0022587
+7837479765,node,Le combat de Cerfs,artwork,Reims,,,,49.2533731,4.0204795
+7840201611,node,,memorial,Reims,,,,49.3124221,3.679506
+7843513431,node,jacques DETRE,memorial,Reims,,,,49.2529572,4.0380205
+7844162654,node,L'Homme Réfléchi,artwork,Reims,,,,49.2236549,4.0538644
+7844328879,node,Monument aux Morts,memorial,Reims,,,,49.2210908,4.0517502
+7844328880,node,Monument en l’honneur des martyrs de la Résistance.,memorial,Reims,,,,49.2211541,4.0516843
+7846451307,node,Marcel BATREAU,memorial,Reims,,,,49.2417591,4.0356397
+7847598722,node,,viewpoint,Reims,,,,49.2164615,4.128154
+7847598723,node,Monument aux soldats russes du Fort de la Pompelle,memorial,Reims,,,,49.216218,4.1281309
+7850534567,node,,artwork,Reims,,,,49.2542038,4.0215751
+7850534568,node,,artwork,Reims,,,,49.2541636,4.0217092
+7850534572,node,Kiosque Anna Politkovskaïa,memorial,Reims,,,,49.2539918,4.0202545
+7850599834,node,Trônes,artwork,Reims,,,,49.2532963,4.0213627
+7850599835,node,Trônes,artwork,Reims,,,,49.2532457,4.02131
+7850599836,node,Trônes,artwork,Reims,,,,49.2532551,4.021228
+7850599837,node,,artwork,Reims,,,,49.2532857,4.0212831
+7850729887,node,Tour de France Bernard Hinault,artwork,Reims,,,,49.2506994,4.0261011
+7856839362,node,Vignes datant du XVIIe siècle.,attraction,Reims,,,,49.2463961,4.0404566
+7856839363,node,Ancienne Bibliothèque,attraction,Reims,,,,49.2460641,4.0406208
+7856978404,node,FRAC Champagne-Ardenne,museum,Reims,,,,49.246247,4.0397177
+7857050865,node,Socle statuaire Ambroise Petit,artwork,Reims,,,,49.243231,4.042829
 7858610943,node,Résidence Laudine,hotel,Reims,7,,https://residence-laudine-reims.hotelmix.fr/,49.2458625,4.0514543
+7858754568,node,Parcours sans fin,artwork,Reims,,,,49.2376503,4.0035613
+7862210001,node,Les Portes de Courlancy II,memorial,Reims,,,,49.2464366,4.0181415
 7872238935,node,La Medina,restaurant,Reims,"13 Rue de Châtivesle, 51000",51000,http://www.lamedinareims.fr/,49.2557717,4.0258345
 7881238502,node,Le Petit Carbet,restaurant,Reims,,,,49.2511688,4.0498024
 7884438846,node,Comedia Pizza,restaurant,Reims,10,,https://comedia-pizza-reims.fr/comedia-pizza/reims-courlancy/554/0/11110/a-emporter/page.htm,49.2500501,4.0188655
+7884825361,node,Immeuble Kodak,attraction,Reims,,,,49.2530462,4.028019
+7885044150,node,Église Saint-Jacques,attraction,Reims,,,,49.2541325,4.0285661
+7891013854,node,Léon Mayeur,memorial,Reims,,,,49.2521387,4.0393267
+7891013855,node,,artwork,Reims,,,,49.2523724,4.0396139
+7891102761,node,,artwork,Reims,,,,49.275335,4.0116834
+7902347988,node,Le Premier Voyage en Aéroplane,memorial,Reims,,,https://www.aerosteles.net/stelefr-reims-farman-parc,49.2394029,4.0599987
+7904120481,node,Fresque représentant la tête du roi Lothaire,artwork,Reims,Rue du Tournebonneau,,,49.2409161,4.0386115
+7905403126,node,,artwork,Reims,,,,49.2414954,4.0402196
+7905870317,node,Fleur des Vents,artwork,Reims,,,,49.2296117,4.0060658
+7909955777,node,,artwork,Reims,,,,49.3133128,3.6797317
+7947657578,node,,park,Reims,,,,49.2321091,4.0676393
+7951882663,node,,artwork,Reims,,,,49.2499179,4.0209258
+7952505816,node,,artwork,Reims,,,,49.2464614,4.0194897
+7965893326,node,,memorial,Reims,,,,49.2601093,4.0313081
+7974718460,node,Digiwolf,artwork,Reims,,,,49.2516844,4.0330082
+7974718461,node,Maurice Rouas,memorial,Reims,,,,49.2515591,4.0333169
+7975901681,node,Marcel André Jazaron,memorial,Reims,,,,49.2485637,4.0375941
+7975901682,node,André Jazaron,memorial,Reims,,,,49.248535,4.0376177
+7975931113,node,Pierre Millant,memorial,Reims,,,,49.2491565,4.0371056
+7977108244,node,,memorial,Reims,,,,49.2608444,4.0290094
+7978695411,node,Antoine Pluche,memorial,Reims,,,,49.2572586,4.0343562
+7978695414,node,André Louis Zimmermann,memorial,Reims,,,,49.2571953,4.0329512
+7979999216,node,Claudius Burgod,memorial,Reims,,,,49.25691,4.0331771
+7985967166,node,Profondeur des choses,artwork,Reims,,,,49.2350457,4.0020016
+7989921191,node,Six religieuses,artwork,Reims,,,,49.2369963,4.0001638
+7989921192,node,Six religieuses,artwork,Reims,,,,49.2368299,4.0007217
+7990016088,node,Lion assis,artwork,Reims,,,,49.2546927,4.0195914
+7991973649,node,Monument aux morts tombés pour la conquête de Madagascar,memorial,Reims,,,,49.2808561,4.0181238
+7992594072,node,La Stèle,artwork,Reims,,,,49.2824748,4.0218118
+7997469310,node,,artwork,Reims,,,,49.252802,4.0302525
+7997469311,node,L'ordre,artwork,Reims,,,,49.2529351,4.0301881
+7997469312,node,La Paix,artwork,Reims,,,,49.2527338,4.030113
+7997469313,node,La Force,artwork,Reims,,,,49.2528511,4.0300031
+7997469314,node,La Guerre,artwork,Reims,,,,49.2528089,4.0303034
+7999281082,node,Histoire du Quartier,artwork,Reims,,,,49.2353448,4.0489571
+8000747263,node,Henri Deneux,artwork,Reims,,,,49.2537433,4.0352386
+8001305182,node,Hommage à la technologie,artwork,Reims,,,,49.2411211,4.0618831
+8004046244,node,,artwork,Reims,,,,49.2406877,4.0220606
+8004075572,node,,artwork,Reims,,,,49.2420261,4.0250485
+8004105417,node,,artwork,Reims,,,,49.2456302,4.0179476
+8047938456,node,Porteuse d'eau,artwork,Reims,,,,49.2482535,4.0630542
+8048242773,node,L'oiseau sur la Branche,artwork,Reims,,,,49.2529009,4.0290022
+8050718426,node,Raymond Kopa,artwork,Reims,,,,49.2463185,4.0246472
+8050908485,node,,artwork,Reims,,,,49.2654313,4.025566
+8051702883,node,Projet Art2 πR,artwork,Reims,,,,49.2484516,4.0569638
+8066263496,node,Saint-Sixte,artwork,Reims,,,,49.2500504,4.0377191
+8068955059,node,,artwork,Reims,,,,49.2441328,4.0261571
+8071140987,node,,artwork,Reims,,,,49.2335821,4.0467919
+8074999618,node,,artwork,Reims,,,,49.2452223,4.0364893
+8082447933,node,Borne de la voie de la Liberté,artwork,Reims,,,,49.2539374,4.0407044
+8085029061,node,A la mémoire des Victimes des atrocités allemandes,artwork,Reims,,,,49.2305953,4.0151973
+8092028755,node,Orgeval (re)fait le mur,artwork,Reims,,,,49.2821432,4.020464
+8092171736,node,Le Champagne,artwork,Reims,,,,49.2362487,4.042236
+8103858582,node,Les Guetteurs,artwork,Reims,,,,49.2329749,4.0323944
+8103929409,node,Le bâteau parmi les étoiles,artwork,Reims,,,,49.2266873,4.035448
+8119560349,node,Musée dedans ..Musée dehors. Les animaux s'échappent du musée,artwork,Reims,,,,49.2681252,4.0466689
+8138375981,node,,memorial,Reims,,,,49.2702955,4.0345742
+8140952266,node,,memorial,Reims,,,,49.2545683,4.041797
+8141089554,node,L’homme au centre de l’Univers en expansion,artwork,Reims,,,,49.2512809,4.0457642
+8180767193,node,,artwork,Reims,,,,49.2530419,4.029615
+8181149757,node,,artwork,Reims,,,,49.2456175,4.0173522
+8186544984,node,,memorial,Reims,,,,49.2521821,4.0553443
+8186544985,node,,memorial,Reims,,,,49.2524429,4.0554537
+8190467772,node,J’ai maché des arbres…,artwork,Reims,,,,49.2279844,4.0136154
+8197462282,node,Sans titre,artwork,Reims,,,,49.2302326,4.0167768
+8207556807,node,Bien-vivre ici,artwork,Reims,,,,49.2292154,4.0104484
+8223880915,node,"Edmond Marin la Meslée,",memorial,Reims,,,,49.254153,4.0330984
+8224533774,node,,artwork,Reims,,,,49.2639733,4.0503118
+8225404461,node,Marie François André Schneiter,memorial,Reims,,,,49.2540973,4.0404412
+8237765279,node,Jeune Fille,artwork,Reims,,,,49.2136289,4.0294775
+8239512981,node,Fille à la fleur,artwork,Reims,,,https://www.trompe-l-oeil.info/graffitis/details.php?image_id=6327,49.2126406,4.02602
+8245035421,node,,artwork,Reims,,,,49.219794,3.9977951
+8251771274,node,,artwork,Reims,,,,49.2778417,4.0084008
 8259525721,node,Hôtel des Arcades,hotel,Reims,,,,49.2552146,4.0279793
+8263340908,node,À Camille Rique,memorial,Reims,,,,49.2413135,4.0399332
+8263382944,node,,artwork,Reims,,,,49.2576338,4.0280609
+8281108004,node,,artwork,Reims,,,,49.2686781,4.0177608
+8281371609,node,,artwork,Reims,,,,49.2764847,4.0111306
+8285730528,node,,artwork,Reims,,,,49.2763644,4.008639
 8291634820,node,Au Soleil d'Or,restaurant,Reims,"8 Rue du Lieutenant Alexandre, 51490, Époye",51490,,49.2895098,4.2397705
+8292570356,node,Moulin à Prière,artwork,Reims,,,,49.2232034,4.0166958
+8306504355,node,,memorial,Reims,,,,49.2775183,4.0179803
+8308295337,node,,artwork,Reims,,,,49.2514113,4.0398273
 8309498127,node,Cantine,restaurant,Reims,,,,49.2425535,4.0271459
+8312902258,node,Sequoi sempervirens,memorial,Reims,,,,49.241672,4.0454792
+8318397425,node,,artwork,Reims,,,,49.2451839,4.0376643
+8318397440,node,Sans titre,artwork,Reims,,,,49.2441854,4.0364067
+8325236747,node,Formes en expension,artwork,Reims,,,,49.2494286,4.0644727
+8325736466,node,,artwork,Reims,,,,49.2273095,4.0327093
+8325736467,node,Instable,artwork,Reims,,,,49.2276323,4.032965
+8327370029,node,Six religieuses,artwork,Reims,,,,49.2378448,3.9993346
+8327583078,node,Le carousel (homme)),artwork,Reims,,,,49.2522281,4.0256388
+8327583079,node,Le carousel (femme)),artwork,Reims,,,,49.2522597,4.0257168
+8327627676,node,La ronde,artwork,Reims,,,,49.2688832,4.0143079
+8328218322,node,,artwork,Reims,,,,49.2637109,4.059479
+8342687211,node,,memorial,Reims,,,,49.2510183,4.0355378
+8343300708,node,,artwork,Reims,,,,49.2752711,4.0269241
+8346442112,node,,artwork,Reims,,,,49.2655683,4.0445496
+8365025361,node,,artwork,Reims,,,,49.2326617,4.0257889
+8365025364,node,,artwork,Reims,,,,49.2326942,4.0247671
 8390355875,node,Restaurent House,restaurant,Reims,"23 Rue Jacques de la Giraudière, 51100, Reims",51100,https://restauranthouse.fr/,49.241651,4.0854781
+8394567446,node,Un homme,artwork,Reims,,,,49.2647776,4.012166
+8394567447,node,Les oiseaux,artwork,Reims,,,,49.2652041,4.0119711
+8395265477,node,,artwork,Reims,,,,49.2371067,4.0116344
+8400811250,node,,artwork,Reims,,,,49.2358834,4.0662591
+8429388163,node,,artwork,Reims,,,,49.2797693,4.0241681
+8431554935,node,Grand Transhumant,artwork,Reims,,,,49.2455306,4.0363953
+8431554936,node,Après-midi paisible,artwork,Reims,,,,49.2455586,4.0364838
+8431554937,node,"De l'exil, autoportrait",artwork,Reims,,,,49.2453643,4.0366769
+8432327234,node,Sans titre,artwork,Reims,,,,49.2420699,4.0153496
+8433078666,node,Petite fille à l'éolienne,artwork,Reims,,,,49.2372307,4.0157398
 8441037718,node,La Grappe à Pizza,restaurant,Reims,"36 Rue Thiers, 51360",51360,,49.1587357,4.1462276
+8480135394,node,Contact,artwork,Reims,,,,49.2703007,4.0440347
+8480162347,node,Sans titre,artwork,Reims,,,,49.2668106,4.0724315
+8494283260,node,Robert Berland,memorial,Reims,,,,49.2547764,4.0292258
+8538246363,node,,memorial,Reims,,,,49.2406894,4.0531248
+8566815797,node,,artwork,Reims,,,,49.250133,4.0339595
+8614919775,node,Carabinier,artwork,Reims,,,,49.2433316,4.020457
 8835617223,node,Le Relais Brasserie Pizzeria,restaurant,Reims,,,,49.2862054,3.8146799
+8860671133,node,"Monument ""Aux héros de la Grande Guerre""",memorial,Reims,,,,49.2177406,4.1321125
+8868748371,node,Une femme,artwork,Reims,,,,49.264926,4.0124794
+8890053599,node,Peinture muralle,artwork,Reims,,,,49.2216114,4.0372264
+8892527856,node,,artwork,Reims,,,,49.2525689,4.0213129
+8892527857,node,,artwork,Reims,,,,49.2526821,4.0213895
+8892527885,node,Statue de Louis XV,artwork,Reims,,,,49.2555167,4.0341187
 8911456219,node,Atelier Mala,restaurant,Reims,"44 Rue des Élus, 51000",51000,https://ateliermala-reims.com,49.2551414,4.0301834
 8914975432,node,La Pizza Dorée,restaurant,Reims,,,,49.2080129,4.1482563
+8954710088,node,Dans l'intervalle,artwork,Reims,,,https://www.christianlapie.net/oeuvres/315/dans-lintervalle/,49.2516977,4.0234719
+8980977347,node,Stèle en mémoire du Docteur J.B. Langlet,memorial,Reims,,,,49.2574756,4.0295675
 8990680841,node,Gambetta Food,restaurant,Reims,,,,49.2506081,4.0357757
 9001365620,node,Hortus,restaurant,Reims,"51 Cours Christian Lange, 51430, Bezannes",51430,,49.2184784,3.9979938
+9001709488,node,D. Eisenhower Citoyen d'Honneur de la ville de Reims,memorial,Reims,,,,49.2589301,4.0372235
+9070521188,node,Axe,artwork,Reims,,,,49.2686012,4.0352886
 9201206282,node,L'Escale Farman,hotel,Reims,,,,49.2081935,4.1482447
+9205602182,node,,artwork,Reims,,,,49.2457967,4.041738
+9214387012,node,Guillaume Tronson du Coudray,memorial,Reims,,,,49.2557045,4.0352963
+9214443855,node,Hommage des Réunionnais à Colbert,memorial,Reims,,,,49.2560606,4.0351388
+9214457763,node,Maison natale de Jean-baptiste Colbert,memorial,Reims,,,,49.256042,4.0352878
+9387748361,node,Zig Zag Parc,theme_park,Reims,,,https://www.zigzagparc.fr/,49.1683256,4.2075181
 9393796108,node,Le Cœur des Bulles,restaurant,Reims,,,,49.1764214,4.2155997
+9394371124,node,Mémorial de la reprise de Reims par Napoléon,memorial,Reims,,,,49.2573387,3.9728485
+9412636049,node,Sans titre connu,artwork,Reims,,,,49.2668518,4.0726358
+9432236593,node,Moronvilliers,memorial,Reims,,,,49.2404392,4.3291054
+9556210404,node,,artwork,Reims,,,,49.2580461,4.0190262
+9801450956,node,René HUON,memorial,Reims,,,,49.2465952,4.0439377
+9801450957,node,Jean TUAL,memorial,Reims,,,,49.2469256,4.0436668
+9802421490,node,,viewpoint,Reims,,,,49.1582498,4.1518745
 9882954205,node,Les Pizzas de circuit,restaurant,Reims,,,,49.2508644,3.9154456
 9893767650,node,La table Cora,restaurant,Reims,,,,49.216214,4.0543401
+9931943726,node,,memorial,Reims,,,,49.183221,3.8035595
+9931943727,node,,artwork,Reims,,,,49.1782194,3.7989024
+9984266092,node,,artwork,Reims,,,,49.2163602,3.9437903
 10009069430,node,Le Parisien,hotel,Reims,,,,49.2650103,4.0259729
 10017805520,node,Délices d'Asie,restaurant,Reims,"131 Avenue Jean Jaurès, 51100, Reims",51100,,49.2608792,4.0484196
+10033258553,node,,memorial,Reims,,,,49.3072755,3.6800365
+10033258554,node,,memorial,Reims,,,,49.307234,3.680029
+10033456018,node,,memorial,Reims,,,,49.3133832,4.2638301
+10045958133,node,,memorial,Reims,,,,49.2490307,3.9910064
 10057112583,node,,restaurant,Reims,,,,49.2833927,4.0099243
+10088796015,node,,artwork,Reims,,,,49.2645438,4.0109573
 10095905817,node,Piperno,restaurant,Reims,"52 Place Drouet d'Erlon, 51100, Reims",51100,https://piperno.fr/restaurants/3137-piperno-reims,49.255911,4.0270546
 10103697517,node,ThaiShi,restaurant,Reims,,,,49.2630389,4.0543035
 10135380853,node,Le Ch'ti Resto,restaurant,Reims,,,,49.2609389,4.0495432
 10154109298,node,L'ours Bleu,restaurant,Reims,"4 Rue Gaston Boyer, 51100, Reims",51100,https://www.privateaser.com/lieu/48117-l-ours-bleu,49.2609417,4.0216298
+10157971749,node,,artwork,Reims,,,,49.2587528,4.0247892
+10315621423,node,,memorial,Reims,,,,49.265382,4.042707
+10588880249,node,,memorial,Reims,,,,49.2875047,3.8133164
+10686000744,node,"Panneau ""REIMS""",attraction,Reims,,,,49.2608773,4.0291555
+10686193466,node,3W Gallery,gallery,Reims,"27 Rue Henri IV, 51000, Reims",51000,,49.2597467,4.0307004
 10700021723,node,Resto U Paul Fort,restaurant,Reims,6 Boulevard Franchet d'Esperey,,https://www.crous-reims.fr/restaurant/resto-u-paul-fort-2/,49.2415756,4.0152585
 10704781896,node,Casa Aprile,restaurant,Reims,,,,49.2573584,4.0397186
 10704806076,node,L'Ardennais,restaurant,Reims,"9 Avenue Jean Jaurès, 51100, Reims",51100,https://www.brasserie-lardennais.com/fr/,49.2578259,4.0400144
 10704821226,node,DS Café,restaurant,Reims,,,,49.2556717,4.0335564
 10733333875,node,Resto Afghan,restaurant,Reims,60 rue Clovis Chezel,,,49.2395153,4.0313446
+10755362349,node,Mémorial Maryse Bastié,artwork,Reims,,,,49.2707912,4.0441835
+10758276595,node,,memorial,Reims,,,,49.1762915,3.8611502
 10829853251,node,Dubble,restaurant,Reims,"33 Cours Christian Lange, 51430, Bezannes",51430,,49.2187667,3.9966304
 10881190913,node,A Table !,restaurant,Reims,"102 Rue Émile Zola, 51100, Reims",51100,https://a-table-reims.eatbu.com/,49.2682187,4.0265906
 10895993834,node,DK le gout du sénégal,restaurant,Reims,"70 Rue Émile Zola, 51100, Reims",51100,,49.2672909,4.0271752
 10896049550,node,sacrebleu,restaurant,Reims,"5 Boulevard Robespierre, 51100, Reims",51100,,49.2707654,4.0266865
+10911047627,node,UNESCO,memorial,Reims,,,,49.2532996,4.0331683
+11128278334,node,,memorial,Reims,,,,49.0915941,4.2257754
+11128278343,node,,memorial,Reims,,,,49.3058464,4.2878933
+11128278344,node,,memorial,Reims,,,,49.3277005,4.2645179
+11128278402,node,,memorial,Reims,,,,49.3841054,4.0677457
+11137262071,node,,memorial,Reims,,,,49.2246667,3.9127649
+11137262085,node,,memorial,Reims,,,,49.2352194,3.9121749
 11143612342,node,Residhome Reims Centre,hotel,Reims,,,,49.2577249,4.0231405
+11158383202,node,,viewpoint,Reims,,,,49.2041361,3.9302244
 11161887405,node,La Fontaine,restaurant,Reims,"131 Rue du Barbâtre, 51100",51100,,49.2476267,4.0412812
 11278360269,node,Croquignole,restaurant,Reims,"55 Rue Camille Lenoir, 51100",51100,,49.2605128,4.0406419
+11323157023,node,,memorial,Reims,,,,49.3469521,3.9797286
+11323357066,node,,memorial,Reims,,,,49.3845478,4.0407658
+11393531569,node,Les Maretz Monuments des Tirailleurs,monument,Reims,,,,49.2858434,3.9670561
 11446193077,node,Bangkok factory,restaurant,Reims,,,https://bangkokfactory.fr/,49.2524568,4.0257562
 11593023569,node,Chez Vincent,restaurant,Reims,7 Rue du Loup,,,49.2376459,4.0900982
 11658115674,node,Le Joliron,restaurant,Reims,,,,49.2543094,3.7396066
 11663261898,node,Le Sarcy,restaurant,Reims,,,,49.2067457,3.824419
+11687819089,node,,memorial,Reims,,,,49.245166,3.8670541
 11715726860,node,,restaurant,Reims,,,,49.2632853,4.0007441
+11736949369,node,Luna Park,ruins,Reims,,,,49.1619929,4.0386027
+11736949370,node,pressoir,viewpoint,Reims,,,,49.1631368,4.0390837
 11746454549,node,Cul Sec,restaurant,Reims,"61 Rue de Cernay, 51100, Reims",51100,https://www.culsec-reims.fr/,49.257449,4.0481184
+11776467389,node,,memorial,Reims,,,,49.2457543,4.0227994
 11802169629,node,Resto Grill,restaurant,Reims,"11 Avenue Jean Jaurès, 51100, Reims",51100,,49.2578836,4.0401368
 11816619177,node,3 Brasseurs,restaurant,Reims,"73 Place Drouet d'Erlon, 51100, Reims",51100,https://restaurants.3brasseurs.com/fr/3-brasseurs-reims,49.2562242,4.0261516
 11828367335,node,Alfred Burger,restaurant,Reims,"6 Place Myron Herrick, 51100, Reims",51100,,49.2546564,4.0314668
@@ -262,17 +641,30 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 11921753411,node,Restaurant universitaire CROUS,restaurant,Reims,,,,49.2323447,4.0680993
 11924758069,node,Louise,restaurant,Reims,"15 Rue Marx Dormoy, 51100, Reims",51100,,49.2538456,4.0280377
 11924768269,node,Canard Street,restaurant,Reims,"3 Rue Marx Dormoy, 51100, Reims",51100,https://www.canard-street.fr,49.2536038,4.0282705
+11942567126,node,,memorial,Reims,,,,49.3094537,3.7664338
+11945984397,node,chateau de saint brice courcelles,castle,Reims,,,,49.2685347,3.9900498
 11980886879,node,Monopole,hotel,Reims,,,,49.2549252,4.0277885
+12009212074,node,,artwork,Reims,,,,49.2495586,4.0579276
+12014854676,node,,memorial,Reims,,,,49.2534943,4.0452305
 12050627949,node,Giulia Ristorante,restaurant,Reims,"2 Rue de Mars, 51100, Reims",51100,https://restaurant-giulia.squarespace.com,49.2581781,4.0324101
 12050627950,node,L'ExtrA,restaurant,Reims,"23 ter Rue du Temple, 51100, Reims",51100,https://lextra-reims.fr/,49.2599569,4.0323811
+12053358345,node,,memorial,Reims,,,,49.2592722,4.0245706
 12093773302,node,ibis Styles Reims Centre Cathédrale,hotel,Reims,"21 Boulevard Paul Doumer, 51100",51100,https://all.accor.com/hotel/8714/index.fr.shtml,49.2501583,4.0259235
+12127778207,node,,artwork,Reims,,,,49.2430267,4.0428806
 12134098776,node,Les 7 anges,hotel,Reims,,,https://septanges.com/,49.2542806,4.0355672
+12155625498,node,Fresque Kaldea,artwork,Reims,,,,49.2493429,4.0625166
+12155625499,node,Fesque Yoldie,artwork,Reims,,,,49.2493219,4.0626668
+12155646501,node,Fesque Quentin Dubois,artwork,Reims,,,,49.252019,4.0644463
 12158375811,node,Version Originale,restaurant,Reims,"25 bis Rue du Temple, 51100, Reims",51100,https://www.vo-reims.fr/,49.2599314,4.031825
 12158375813,node,Aroma,restaurant,Reims,"23 Rue du Temple, 51100, Reims",51100,https://www.aroma-baramanger.com/,49.2599691,4.0326514
 12158375814,node,Copain comme cochon,restaurant,Reims,"23 bis Rue du Temple, 51100, Reims",51100,,49.2599669,4.0325203
+12166807169,node,,memorial,Reims,,,,49.2626694,3.8452037
+12166867613,node,,artwork,Reims,,,,49.1653829,4.0463688
+12167990508,node,Monument aux morts,memorial,Reims,,,,49.1656705,4.0432603
 12192512902,node,Hôtel Latino,hotel,Reims,"33 Place Drouet d'Erlon, 51100, Reims",51100,https://www.latinocafe.fr/hotel/,49.2548141,4.0269952
 12192805470,node,Réjane et Norbert,restaurant,Reims,"38 Rue des Élus, 51100, Reims",51100,https://rejaneetnorbert.fr/,49.2553412,4.0307465
 12193369873,node,Le Troquet du Tambour,restaurant,Reims,,,,49.2572885,4.0328274
+12195400981,node,,memorial,Reims,,,,49.257514,4.0262571
 12196569572,node,Séoul,restaurant,Reims,"90 Place Drouet d'Erlon, 51100, Reims",51100,https://seoul-reims.fr/,49.256996,4.0264376
 12205673621,node,Un indien dans la ville,restaurant,Reims,"84 Place Drouet d'Erlon, 51100, Reims",51100,https://www.unindiendanslaville.fr/,49.2568641,4.0265411
 12207007673,node,Hôtel Crystal,hotel,Reims,"86 Place Drouet d'Erlon, 51100, Reims",51100,https://hotel-crystal.fr,49.2569347,4.0266138
@@ -280,27 +672,2065 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 12271862928,node,Odette,restaurant,Reims,"43 Boulevard Foch, 51100, Reims",51100,,49.2575699,4.0264333
 12273053747,node,Green sur mesure,restaurant,Reims,"4 Rue Gaston Boyer, 51100, Reims",51100,https://restaurants.greensurmesure.fr/reims-clairmarais/,49.2608664,4.0217523
 12273120381,node,La Grande Georgette,restaurant,Reims,"18 Rue Tronsson Ducoudray, 51100, Reims",51100,https://www.lacasernechanzy.com/fr/restaurant-et-bar.html,49.2535101,4.0316688
+12288060044,node,Raymond Poupart,memorial,Reims,,,,49.2561764,4.036147
 12328186601,node,Coq et vins,restaurant,Reims,"3 Rue de la Prévôté, 51390",51390,https://coqetvins-villedommange.blogspot.com/,49.2001112,3.9360385
 12344463532,node,Les Cornichons,restaurant,Reims,"13 Rue du Général Sarrail, 51100, Reims",51100,,49.2585305,4.0303576
 12438564159,node,La grosse bouteille,restaurant,Reims,"12 Rue de Mars, 51100, Reims",51100,,49.2587389,4.0320094
+12438564160,node,Champagne Jacquart,memorial,Reims,,,,49.2583115,4.0321678
+12487040179,node,roue à aube,attraction,Reims,,,,49.2262122,4.0528238
 12648297890,node,Épices et tout,restaurant,Reims,"13 Rue de Courcelles, 51100, Reims",51100,https://stephanepigeon1.wixsite.com/sas-rhodes--epices,49.2576225,4.0217655
+12744234813,node,,artwork,Reims,,,,49.2516673,4.0377047
 12759233401,node,La Renardière,restaurant,Reims,,,,49.221068,4.0974908
 12768464392,node,La Bigoudène,restaurant,Reims,,,,49.2514096,4.0297572
 12823369802,node,La grappe à pizza,restaurant,Reims,,,https://la-grappe-a-pizza.eatbu.com,49.1584658,4.1437375
+12839605892,node,,memorial,Reims,,,,49.3705972,3.8965034
+12839796278,node,Jehanne d'Arc,memorial,Reims,,,,49.370348,3.8950808
 12860519993,node,Holiday Inn Express & Suites Reims - Rives de Vesles,hotel,Reims,"12 Rue de l'Abreuvoir, 51100, Reims",51100,,49.2520036,4.0181155
+12918872204,node,,memorial,Reims,,,,49.1741072,3.7720422
 12941645994,node,o sushi 51,restaurant,Reims,,,https://osushi51.fr,49.2618866,4.0290435
 12992092002,node,Pino's Pizzeria,restaurant,Reims,,,,49.2457849,3.910208
+13074242701,node,Pansement de rue Ememem,artwork,Reims,,,,49.2531641,4.0359666
+13074286602,node,"Pansement de rue, Ememem",artwork,Reims,,,,49.2551693,4.033075
+13074300602,node,"Pansement de rue, Ememem",artwork,Reims,,,,49.2563563,4.0309549
+13099881020,node,Grenier de Saint-Honoré - Musée du Pain,museum,Reims,,,https://www.reims-tourisme.com/activite/le-grenier-saint-honore/,49.304954,3.6813199
 13104212637,node,Prise de Mousse,restaurant,Reims,,,,49.165125,4.0461535
+13106079820,node,,artwork,Reims,,,,49.1656473,4.0422339
+13108454773,node,,memorial,Reims,,,,49.2943386,4.3155927
 13138546131,node,Red's,restaurant,Reims,"Parking Leclerc, 51500, Champfleury",51500,https://www.red-s.online/,49.2025468,4.0162466
 13180502302,node,Crêpe Touch Cormontreuil,restaurant,Reims,"1 Boulevard d'Alsace Lorraine, 51350, Cormontreuil",51350,https://www.crepetouch.com/,49.2168886,4.0498942
 13254743701,node,La Table de la boucherie Guiset,restaurant,Reims,"53 Cours Christian Lange, 51430",51430,https://www.maison-guiset.fr/,49.2186087,3.9980926
 13264577670,node,,restaurant,Reims,,,https://meetist.fr/,49.2555319,4.0281636
 13333415237,node,Bistro des Anges,restaurant,Reims,"12 Rue Chanzy, 51100, Reims",51100,https://bistrodesanges.com,49.2526857,4.0313172
+13343039854,node,,memorial,Reims,,,,49.1872938,4.4167448
+13343039855,node,,memorial,Reims,,,,49.188907,4.4033155
+13343039856,node,,memorial,Reims,,,,49.190479,4.3901643
+13343039857,node,,memorial,Reims,,,,49.1921197,4.3763144
+13343039858,node,,memorial,Reims,,,,49.1936841,4.3628825
+13343039859,node,,memorial,Reims,,,,49.1948441,4.3491784
+13343039860,node,,memorial,Reims,,,,49.1959939,4.3355408
+13343039861,node,,memorial,Reims,,,,49.1971814,4.321948
+13343039866,node,,memorial,Reims,,,,49.1982102,4.3081963
+13343039867,node,,memorial,Reims,,,,49.1992088,4.2946847
+13343039868,node,,memorial,Reims,,,,49.2001946,4.2810644
+13343039869,node,,memorial,Reims,,,,49.2011073,4.2674945
+13343039870,node,,memorial,Reims,,,,49.2020243,4.2538259
+13343039871,node,,memorial,Reims,,,,49.2029807,4.2397363
+13343039872,node,,memorial,Reims,,,,49.2038498,4.2265232
+13343039873,node,,memorial,Reims,,,,49.2047356,4.2128592
+13343039875,node,,memorial,Reims,,,,49.2361406,4.0721736
+13343039876,node,,memorial,Reims,,,,49.239989,4.0596568
+13343039877,node,,memorial,Reims,,,,49.2323909,4.0846288
+13343039878,node,,memorial,Reims,,,,49.2284109,4.0968972
+13343039879,node,,memorial,Reims,,,,49.2247797,4.1090289
+13343039880,node,,memorial,Reims,,,,49.2205754,4.1226022
+13343039881,node,,memorial,Reims,,,,49.2166948,4.1340606
+13343039882,node,,memorial,Reims,,,,49.2103915,4.1438379
+13343039883,node,,memorial,Reims,,,,49.2103692,4.1473429
+13343039884,node,,memorial,Reims,,,,49.2056231,4.1991689
+13343039885,node,,memorial,Reims,,,,49.2070554,4.1857337
+13343039886,node,,memorial,Reims,,,,49.2096556,4.1725526
+13343039887,node,,memorial,Reims,,,,49.2122817,4.1594095
 13356353901,node,Au coeur de l'Orient,restaurant,Reims,"4 Rue de la Magdeleine, 51100",51100,https://o-coeur-de-l-orient.eatbu.com/,49.2520039,4.0231246
 13368976510,node,Appart'City Confort Reims Centre,hotel,Reims,"33 Rue Ponsardin, 51100, Reims",51100,https://www.appartcity.com/fr/destinations/champagne-ardenne/reims/reims-centre.html,49.2523294,4.0403677
 13423788519,node,Restaurant Atlantis,restaurant,Reims,avenue des goisses,,https://atlantis-reims.fr,49.2139366,4.0594047
 13440651883,node,Block'Out,restaurant,Reims,"33 Rue Jacques de la Giraudière, 51100, Reims",51100,https://www.blockout.fr/reims,49.2409461,4.0860139
 13495632201,node,Grill Garden,restaurant,Reims,,,https://grillgarden.eatbu.com/?lang=fr,49.3024184,4.3259695
+13631013612,node,,memorial,Reims,,,,49.173268,4.1864281
 13631055169,node,Victor by Sharies Reims,restaurant,Reims,"8 Rue des Docks Rémois, 51100, Reims",51100,https://sharies.co/fr/restaurants/victor,49.2615939,4.0219753
 13674339501,node,Aku Ramen,restaurant,Reims,"161 Rue de Vesle, 51100, Reims",51100,https://rakuramenreims.fr/fr,49.2516812,4.0241278
 13929348747,node,TasThé,restaurant,Reims,7 Place Mozart,,,49.2385076,4.0225233
+13978987087,node,,memorial,Reims,,,,49.1933563,4.3660788
+13978987094,node,,memorial,Reims,,,,49.1936351,4.3686811
+13997715241,node,Italian Trattoria Reims,restaurant,Reims,,,,49.2565947,4.0259451
+27546158,way,Hautes Promenades,park,Reims,,,,49.2599556,4.0284001
+27546341,way,Basses Promenades,park,Reims,,,,49.2565656,4.0237499
+30883409,way,Parc Saint-John Perse,park,Reims,,,,49.2398143,4.006572
+30883410,way,Square rue George Sand,park,Reims,,,,49.2409382,3.9999583
+31293390,way,Square André Gide,park,Reims,,,,49.2196299,4.0309052
+31293397,way,Parc Pierre Mendès France,park,Reims,,,,49.2216604,4.0253521
+31340676,way,Parc Léo Lagrange,park,Reims,,,,49.2454647,4.0226906
+31432295,way,Cryptoportique,attraction,Reims,,,,49.2566568,4.034014
+31432297,way,Square Charles Sarazin,park,Reims,2,,,49.2574131,4.0345316
+31432321,way,Square des Cordeliers,park,Reims,,,,49.2548599,4.0381618
+31526236,way,Parc Saint-Remi,park,Reims,,,,49.2439847,4.0411019
+31526237,way,Parc des Arènes du Sud,park,Reims,,,,49.2404751,4.0409391
+31678850,way,Parc de la Butte Saint-Nicaise,park,Reims,,,,49.243001,4.0472409
+31901468,way,Square Docteur Chevrier,park,Reims,,,,49.2597933,4.0410628
+31910277,way,Parc Michel Sicre,park,Reims,,,,49.268221,4.0763382
+31910279,way,Parc Michel Sicre,park,Reims,,,,49.2696277,4.0755082
+32117194,way,Place Hélène Boucher,park,Reims,,,,49.2775694,4.013193
+32119431,way,Square de la Cannetière,park,Reims,,,,49.2872253,4.0037201
+32642635,way,Place Saint-Laurent,park,Reims,,,,49.2352393,4.0502567
+33621582,way,Monuments aux Morts - Taissy,memorial,Reims,,,,49.2123697,4.0924642
+40710932,way,Square des Victimes de la Gestapo,park,Reims,"18 Rue Jeanne d'Arc, 51000, Reims",51000,,49.2539706,4.0262206
+41455924,way,Square des Jacobins,park,Reims,,,,49.2517591,4.0317562
+41455925,way,Square René et Henri Druart,park,Reims,,,,49.2523028,4.0312107
+41662792,way,Square Georges Jantzy,park,Reims,,,,49.2469646,4.0448011
+41691030,way,Jardin de la Gare,park,Reims,,,,49.149073,4.1609973
+41755987,way,Square Sylvain Consdorff,park,Reims,,,,49.241341,4.0336635
+41989329,way,Square des Capucins,park,Reims,,,,49.2507926,4.0313793
+42718920,way,Parc de Champagne,park,Reims,,,,49.2383924,4.0548589
+42755772,way,Parc des Essillards,park,Reims,,,,49.2330331,4.0655253
+83643556,way,,park,Reims,,,,49.2253803,3.9848108
+83645994,way,,park,Reims,,,,49.2260328,3.985064
+84595281,way,Statue de Louis XV,artwork,Reims,,,,49.2555163,4.0341188
+84665680,way,Château des Crayères,castle,Reims,,,,49.241156,4.051737
+84665688,way,Monument à l'Armée Noire,memorial,Reims,,,,49.2406812,4.0531217
+84665762,way,Brasserie Le Jardin,restaurant,Reims,,,,49.2408546,4.0504372
+84750313,way,Jardin Henri Deneux,park,Reims,,,,49.2538641,4.0351064
+86525151,way,Musée de l'aéronautique,museum,Reims,,,,49.2861192,4.0581372
+86541703,way,Restaurant Campanile,restaurant,Reims,,,,49.2176279,4.0730638
+86581420,way,,park,Reims,,,,49.2236848,4.0512748
+86581675,way,Pizza Paï,restaurant,Reims,4,,http://www.pizzapai.com,49.2170896,4.0571013
+86601142,way,L'Aqua,restaurant,Reims,"83 Avenue du 29 Août 1944, 51430, Tinqueux",51430,,49.2509794,3.9849817
+86602217,way,Ibis,hotel,Reims,,,,49.2521648,3.9775912
+86603734,way,hotelF1,hotel,Reims,"16 Avenue d'AFN, 51430, Tinqueux",51430,https://hotelf1-reims-tinqueux.hotelmix.fr/,49.2507096,3.9764045
+86603957,way,Buffalo Grill,restaurant,Reims,,,,49.2474747,4.0000955
+86604712,way,Le Restaurant Campanile Reims Ouest,restaurant,Reims,,,,49.2489224,3.9784501
+86604771,way,B&B HOTEL,hotel,Reims,"1 Avenue d'Afrique du Nord, 51430, Tinqueux",51430,https://www.hotel-bb.com/fr/hotel/reims-tinqueux,49.251118,3.9768432
+86604893,way,Le Grain de Sel,restaurant,Reims,,,,49.246971,3.9997073
+86605816,way,Hôtel Campanile Reims Ouest Tinqueux,hotel,Reims,"42 Avenue Sarah Bernhardt, 51430, Tinqueux",51430,,49.2485456,3.9786153
+86606025,way,L'Assiette Champenoise,restaurant,Reims,"40 Avenue Paul Vaillant Couturier, 51430, Tinqueux",51430,,49.2479319,4.0029569
+86629873,way,Ibis Budget,hotel,Reims,"Rue des Sentiniers, 51430, Tinqueux",51430,,49.2549648,3.968102
+86629916,way,Léon,restaurant,Reims,"Rue de Ormisseaux, 51370, Thillois",51370,https://restaurants.leon-de-bruxelles.fr/fr/s/moules-frites/reims-thillois/37905,49.2552756,3.9655616
+86630199,way,Wok Millésime,restaurant,Reims,Rue des Sentiniers,,https://wokmillesime-reims.fr/,49.2537726,3.9678403
+86630308,way,Ristorante Del Arte,restaurant,Reims,"Rue de Ormisseaux, 51370, Thillois",51370,https://www.delarte.fr/store-finder/124001,49.2549345,3.9652962
+86630449,way,Sherlock Pub,restaurant,Reims,"Rue de Ormisseaux, 51370, Thillois",51370,https://www.facebook.com/sherlock.reims.thillois,49.2556709,3.9657522
+86630553,way,Hippopotamus,restaurant,Reims,"Rue de Ormisseaux, 51370, Thillois",51370,https://www.hippopotamus.fr/Carte/reims-thillois,49.2546288,3.9650383
+86713727,way,Le Saint-Léonard,restaurant,Reims,"16 Grande Rue, 51500, Saint-Léonard",51500,,49.2215207,4.0963664
+86976585,way,La Garenne,restaurant,Reims,,,,49.2602066,3.9514081
+87842958,way,Buffalo Grill,restaurant,Reims,8,,,49.2850872,4.0251853
+87844749,way,Le Vérone,restaurant,Reims,2,,,49.2704717,4.0269155
+87849574,way,Hôtel Au Tambour,hotel,Reims,"63 Rue de Magneux, 51100, Reims",51100,,49.2627671,4.0128065
+87851796,way,Top Pizza,restaurant,Reims,88,,https://pizzatop-reims.fr/pizza-top/reims/245/0/12062/page.htm,49.2689352,4.0333103
+87858821,way,,restaurant,Reims,,,,49.2657507,4.028942
+88250069,way,Shiva,restaurant,Reims,"99 Rue de Courlancy, 51100, Reims",51100,,49.2448042,4.0191837
+88250472,way,Hôtel Campanile,hotel,Reims,,,,49.2191312,4.0227487
+88256408,way,Kyriad,hotel,Reims,,,,49.2184456,4.0246243
+90716204,way,,park,Reims,,,,49.2630481,4.0305617
+90716949,way,Le Panda,restaurant,Reims,"1 Boulevard Marcellin Berthelot, 51100, Reims",51100,,49.2694247,4.0695896
+90724972,way,Champagnes G.H. Mumm & Cie,attraction,Reims,,,http://www.ghmumm.com/,49.2639318,4.0369087
+90735188,way,Restaurant Universitaire Moulin de la Housse,restaurant,Reims,"4 Chemin des Rouliers, 51100, Reims",51100,https://www.crous-reims.fr/restaurant/cafeteria-moulin-de-la-housse/,49.2419462,4.0604098
+90737324,way,Monument aux Morts de la Guerre 1914-1918,memorial,Reims,,,,49.2618663,4.0304483
+90822631,way,O' Grand Buffet,restaurant,Reims,"51100, Reims",51100,,49.2878346,4.0230368
+92043056,way,Brit Hotel,hotel,Reims,"10 Rue Maurice Hollande, 51100, Reims",51100,https://hotel-reims-pompelle.brithotel.fr,49.2309065,4.0875343
+92043125,way,Hôtel Mercure Reims Parc des Expositions,hotel,Reims,2,,https://www.accorhotels.com/fr/hotel-0363-hotel-mercure-reims-parc-des-expositions/index.shtml,49.2360398,4.0690494
+92044853,way,Kyriad Hotel,hotel,Reims,12,,,49.2332569,4.0670203
+92294792,way,Cathédrale Notre-Dame,attraction,Reims,,,https://www.cathedrale-reims.com,49.2537686,4.033823
+92295160,way,Le Trésor,ruins,Reims,,,,49.2540516,4.0329458
+92295352,way,Hôtel aux Sacres,hotel,Reims,,,,49.2583069,4.0306587
+92295547,way,Hôtel Alsace,hotel,Reims,,,,49.2589162,4.030514
+92295935,way,Holiday Inn Reims - Centre-Ville,hotel,Reims,"46 Rue Buirette, 51100, Reims",51100,https://www.ihg.com/holidayinn/hotels/fr/fr/reims/rhegc/hoteldetail#,49.2543875,4.0240528
+92296018,way,Ibis Reims Centre Cathédrale,hotel,Reims,21,,,49.2498698,4.0256386
+92296301,way,Palais du Tau,museum,Reims,2,,https://www.palais-du-tau.fr/,49.2532652,4.0343524
+92297254,way,Ardenn' Hotel,hotel,Reims,6,,,49.2541858,4.0235699
+92303046,way,Hôtel Victoria,hotel,Reims,,,,49.2548674,4.0269711
+92307199,way,La Caserne Chanzy,hotel,Reims,"18 Rue Tronsson Ducoudray, 51000, Reims",51000,https://www.lacasernechanzy.com,49.2535705,4.0314303
+92307570,way,Golden Tulip Reims L'Univers,hotel,Reims,41,,,49.2578423,4.0268415
+92308922,way,Brasserie Excelsior,restaurant,Reims,"96 Place Drouet d'Erlon, 51000, Reims",51000,https://www.brasserie-excelsior-reims.fr,49.2574151,4.0262602
+92309276,way,Basilique Saint-Remi,attraction,Reims,,,,49.243071,4.0418455
+93798755,way,Parc des Buttes de la Muire,park,Reims,,,,49.2356563,3.9974602
+94215633,way,Parc Marcel Lemaire,park,Reims,,,,49.2830309,4.0045233
+94224713,way,Parc de l'Europe,park,Reims,,,,49.2472556,4.0667585
+94226516,way,Parc du Pont de Vesle,park,Reims,,,,49.2501824,4.0207364
+94230687,way,Parc de la Patte d'Oie,park,Reims,,,,49.2537432,4.0207835
+94230730,way,Jardin d’horticulture Pierre Schneiter,park,Reims,"50 Boulevard Louis Roederer, 51100, Reims",51100,https://www.reims.fr/qualite-de-vie-environnement/parcs-et-jardins-de-la-ville-de-reims/les-parcs-et-jardins-de-la-ville/les-jardins-du-centre-ville/jardin-dhorticulture-pierre-schneiter,49.2548293,4.0193361
+94231689,way,Parc de la Cure d'Air,park,Reims,,,,49.2467618,4.0079772
+94237296,way,Parc des anciens des Trois Rivières,park,Reims,,,,49.2331001,4.0451922
+94639671,way,Parc Jean Moulin,park,Reims,,,,49.2529626,4.0609723
+94656402,way,Square Gustave Laurent,park,Reims,99 Bis,,,49.2540207,4.0525072
+94662941,way,Parc Trois Fontaines,park,Reims,,,,49.2769592,4.0088301
+94665883,way,Parc des Landais,park,Reims,,,,49.2285418,4.0110202
+94665885,way,Parc Saint-Bruno,park,Reims,,,,49.2278099,4.0090931
+94665888,way,Square Léon Blum,park,Reims,,,,49.2253346,4.0082435
+94666974,way,Parc François Arago,park,Reims,,,,49.2293772,4.0056015
+94667216,way,Parc Maryse Bastié,park,Reims,,,,49.2684693,4.0462479
+94667281,way,Parc de la Verrerie,park,Reims,,,,49.2351387,4.0535998
+94667563,way,Parc rue Bazin,park,Reims,,,,49.2305462,4.0327686
+94668327,way,Square Jacques Simon,park,Reims,,,,49.2239024,4.0129443
+94668328,way,Parc Raoul Dufy,park,Reims,,,,49.2251885,4.0132044
+94709564,way,Jardin du Musée des Beaux-Arts,park,Reims,,,,49.2527488,4.0301658
+94709565,way,Espace de loisirs Orgeval,park,Reims,,,,49.2841997,4.0225677
+94709569,way,Square Paul Vieille,park,Reims,,,,49.2833598,4.0257666
+94716455,way,Square Laon-Belges,park,Reims,,,,49.2751394,4.0173313
+94728375,way,Square Paul Machuel,park,Reims,,,,49.2427137,4.0325838
+94759684,way,Square rue de Verzy,park,Reims,,,,49.2380752,4.0336482
+94767833,way,Square rue de Canterbury,park,Reims,,,,49.2340484,4.0347054
+94836169,way,Square Clément Marot,park,Reims,,,,49.2218554,4.0325561
+94837661,way,Square Éric Tabarly,park,Reims,,,,49.2265543,4.0351343
+94837897,way,Place Charles Lepagnol,park,Reims,,,,49.2282913,4.0447622
+94945915,way,Square de la Porte de Paris,park,Reims,,,,49.2493118,4.0157541
+95037017,way,Square du Chanoine Goderneaux,park,Reims,182,,,49.2616301,4.0518054
+95037020,way,Square Jean Machet,park,Reims,,,,49.2625695,4.055259
+95037022,way,Place Dauphinot,park,Reims,,,,49.263435,4.0568192
+95147870,way,Square rue de Cernay,park,Reims,,,,49.2584649,4.0551451
+95148890,way,Square des Épinettes,park,Reims,,,,49.2662302,4.0697343
+95149498,way,Square Place Auguste Blanqui,park,Reims,,,,49.2661502,4.0449639
+95151049,way,Square Georges Méliès,park,Reims,,,,49.2139023,4.0295885
+95151947,way,Parc du Bois d'Amour,park,Reims,,,,49.2496675,4.0114002
+95431726,way,ruines de l'ancien château de la Malle,castle,Reims,,,,49.272614,3.9879105
+95432015,way,Château de Courcelles,castle,Reims,,,,49.268539,3.990009
+95459802,way,Square du Palais de Justice,park,Reims,,,,49.2536714,4.0322712
+95459809,way,Ruines du couvent des Cordeliers,ruins,Reims,,,,49.2548625,4.0381388
+95508873,way,Square Jan Palach,park,Reims,,,,49.2607638,4.0155776
+95511236,way,Square Alexandre Henrot,park,Reims,,,,49.2643678,4.0156609
+95516260,way,Square Henri Jolicoeur,park,Reims,,,,49.2652989,4.025276
+95599646,way,Square René Dumont,park,Reims,,,,49.2700705,4.0163239
+95809644,way,Square Jean Marcel Mourlanne,park,Reims,,,,49.2753963,4.0321831
+96508641,way,Square Demaison,park,Reims,,,,49.2479364,4.0633641
+96508642,way,Square des Moulins,park,Reims,,,,49.2457692,4.0372374
+96508643,way,Square d’Aix-la-Chapelle,park,Reims,,,,49.2533534,4.0626927
+96509023,way,Square Henri Lecompte,park,Reims,,,,49.2761952,4.0139251
+96509024,way,Square Sadi Lecointe,park,Reims,,,,49.2550675,4.06588
+96509025,way,Square Ponsardin,park,Reims,,,,49.2472692,4.0436651
+96510152,way,Square des Frères Prot,park,Reims,,,,49.2714667,4.0196072
+96510153,way,Square Michel-Ange,park,Reims,,,,49.26769,4.0123194
+96510155,way,Square Jean-Baptiste Corot,park,Reims,,,,49.2706724,4.0130112
+96510157,way,Square Saint-Jean,park,Reims,,,,49.2893165,4.0057517
+96520904,way,Square Charles Péguy - Jacques Cellier,park,Reims,,,,49.2825449,4.030476
+96520905,way,Square Hachette,park,Reims,,,,49.2863842,4.01388
+96520906,way,Square des Tondeurs,park,Reims,,,,49.2829928,4.0132193
+96520908,way,Square Berthe Aubert et Fernande Mondet,park,Reims,,,,49.2685166,4.0297908
+96588681,way,Square des Droits de l'Enfant,park,Reims,,,,49.2420418,4.0022994
+162087524,way,,hotel,Reims,,,,49.306827,3.6779625
+171262951,way,Musée du Fort de la Pompelle,museum,Reims,"Route de Châlons-en-Champagne, 51500, Puisieulx",51500,https://musees-reims.fr/fr/musees/musee-du-fort-de-la-pompelle/,49.2162527,4.1290784
+188571352,way,Château de Lagery,castle,Reims,,,,49.208123,3.7453075
+189575778,way,,castle,Reims,,,,49.3250215,3.9068825
+190608406,way,B&B Hôtel,hotel,Reims,,,,49.216118,3.995747
+191815864,way,Le Soleil d'Or bar-restaurant,restaurant,Reims,,,,49.1352819,4.195381
+199983195,way,Nauroy (village detruit),ruins,Reims,,,,49.2384526,4.2669204
+205964002,way,Château de Sept-Saulx,castle,Reims,,,,49.1597148,4.2432223
+219433963,way,,attraction,Reims,,,,49.270035,4.3890695
+220887200,way,3 Brasseurs,restaurant,Reims,"6 Rue des Terres Blanches, 51370",51370,,49.2564475,3.9682365
+220887201,way,Il Ristorante,restaurant,Reims,"8 Rue des Terres Blanches, 51370, Thillois",51370,,49.256547,3.967791
+220887232,way,Daltons Smoke House,restaurant,Reims,"4 Rue des Terres Blanches, 51370, Thillois",51370,https://the-daltons-smokehouse.com/,49.2562955,3.9685455
+221527141,way,,park,Reims,,,,49.3133726,4.2698228
+222742857,way,Mémorial à la 4e division US,attraction,Reims,,,,49.3106964,3.647304
+222743748,way,Monument aux morts,memorial,Reims,,,,49.3071482,3.6815478
+222748102,way,Cimetière militaire allemand de Loivre,attraction,Reims,,,https://kriegsgraeberstaetten.volksbund.de/friedhof/loivre,49.3665202,3.963996
+222748751,way,Abbaye du Mont Dor,attraction,Reims,,,,49.3039385,3.9664936
+222752580,way,Parc Municipal Charles Collignon,park,Reims,,,,49.2896374,3.815664
+222752972,way,Mémorial en hommage aux Hôpitaux d'Orientation et d'Évacuation de la Première Guerre mondiale,attraction,Reims,,,,49.3001475,3.8312932
+222753237,way,Monument aux morts,memorial,Reims,,,,49.3280388,3.9427903
+222753418,way,Lavoir municipal,attraction,Reims,,,,49.327156,3.9467909
+222778703,way,Parc des Grenouilles Vertes,park,Reims,,,,49.2403981,4.0361636
+222784804,way,jardin du couvent,park,Reims,,,,49.2489868,4.0386528
+222786283,way,"Monument au premier vol intercités par HenriFarman, Bouy-Reims",attraction,Reims,"Avenue Henri Farman, 51100, Reims",51100,,49.2394183,4.0599401
+222786309,way,Monument à Henri Farman,memorial,Reims,,,,49.2364462,4.0707455
+222803539,way,monument aux morts,memorial,Reims,,,,49.1996221,4.01766
+222804486,way,,memorial,Reims,,,,49.2012397,3.9346881
+222804811,way,bunker de la deuxième guerre mondiale,ruins,Reims,,,,49.2049216,3.929915
+222806364,way,,memorial,Reims,,,,49.1868739,3.9534847
+222807432,way,,memorial,Reims,,,,49.1617177,3.9766607
+222863964,way,,memorial,Reims,,,,49.2191247,3.9225311
+222865047,way,Cimetière militaire italien de Bligny,memorial,Reims,,,,49.1894271,3.8406636
+222865377,way,Jardin de mémoire italien,memorial,Reims,,,,49.187381,3.8416573
+222868686,way,,memorial,Reims,,,,49.2641343,4.1044422
+222869026,way,jardin de l'espace culturel,park,Reims,,,,49.2638283,4.1049748
+222870535,way,,attraction,Reims,,,,49.2539861,4.1558171
+222870601,way,jardin du pressoir,park,Reims,,,,49.2526678,4.1569275
+222871380,way,monument aux morts,memorial,Reims,,,,49.1993361,4.1327797
+222872434,way,,memorial,Reims,,,,49.2305957,4.015194
+222909500,way,Monument aux morts Résistance,memorial,Reims,,,,49.2962633,3.934215
+222909881,way,Monument aux morts,memorial,Reims,,,,49.3162897,3.9622963
+222910036,way,carré militaire 1e Guerre mondiale,attraction,Reims,,,,49.3170013,3.9609217
+222910626,way,,memorial,Reims,,,,49.2977178,3.9304456
+222912183,way,monument aux morts,memorial,Reims,,,,49.1943819,3.9979978
+222912335,way,monument aux morts,memorial,Reims,,,,49.219411,3.9600899
+222912901,way,Monument aux Morts à Gueux,memorial,Reims,,,,49.2488028,3.9083435
+222912990,way,monument à la Résistance,monument,Reims,,,,49.2494959,3.9079204
+222914781,way,,memorial,Reims,,,,49.2707344,3.8194361
+222915340,way,,memorial,Reims,,,,49.1929908,4.1139471
+222935041,way,parc de la Mairie,park,Reims,,,,49.1746988,4.2223479
+222937235,way,,memorial,Reims,,,,49.190588,4.2915331
+222941389,way,Cimetière militaire international du Bois du Puits,memorial,Reims,,,,49.1939329,4.3678465
+222943211,way,Monument juin 1940,attraction,Reims,,,,49.1705725,4.315929
+222943623,way,Borne voie romaine par NIII,attraction,Reims,,,,49.1529038,4.2990578
+223418245,way,,memorial,Reims,,,,49.3109894,3.8444502
+223418997,way,,park,Reims,,,,49.335479,3.9094651
+223419744,way,,park,Reims,,,,49.3705795,3.8952628
+223419987,way,Monument Rousseau 69e DI 1914,attraction,Reims,,,,49.3701851,3.9064873
+223421220,way,,memorial,Reims,,,,49.3507437,4.0688128
+223422394,way,,memorial,Reims,,,,49.3044196,4.1524013
+224331455,way,Château de Sacy,hotel,Reims,Rue des Croisettes,,https://www.chateaudesacy-reims.fr/,49.1942791,3.9472958
+224646127,way,Le Pont-monument de Fismette,attraction,Reims,,,,49.3125742,3.6795712
+224646556,way,,memorial,Reims,,,,49.2748586,3.8842128
+224647327,way,,memorial,Reims,,,,49.2123944,3.8855803
+224647462,way,Noron,park,Reims,,,,49.210831,3.8918855
+224852464,way,Esplanade des Capucins,park,Reims,,,,49.2433102,4.0381943
+225381650,way,Parc des Crayères,park,Reims,,,,49.2418794,4.049551
+225383058,way,Statue Colbert,artwork,Reims,,,,49.2447261,4.0406526
+225383200,way,Monument à Colbert,artwork,Reims,,,,49.2582401,4.0257229
+225383900,way,Le Champ d’Émotion,memorial,Reims,,,,49.2539164,4.0260553
+225384664,way,Jardin du Musée-hôtel Le Vergeur,park,Reims,,,,49.2572242,4.0338579
+225384889,way,Jardin des comtes de Champagne,park,Reims,,,,49.2572969,4.033314
+225385037,way,Ancien Cellier d'expédition Mum,attraction,Reims,4 bis,,,49.2583712,4.0321881
+225664191,way,jardin de l'hôtel Ponsardin,park,Reims,,,,49.255964,4.0372978
+225664318,way,Statue Baptème de Clovis,attraction,Reims,,,,49.2430365,4.0429064
+225666204,way,Monument au Comte Drouet d'Erlon,attraction,Reims,,,,49.2628851,4.031846
+238291521,way,Monument 213 RI,monument,Reims,,,,49.2579932,4.0351321
+240262810,way,,memorial,Reims,,,,49.3141349,4.171221
+254713041,way,Ancien moulin,ruins,Reims,,,,49.18974,4.0579205
+254729549,way,Resto Romain,restaurant,Reims,,,,49.2832935,4.1097036
+305743168,way,Le Grand Cerf,restaurant,Reims,"50 Route Nationale, 51500, Villers-Allerand",51500,https://www.le-grand-cerf.fr/,49.1617071,4.0108416
+320293435,way,Le Relais de Sillery,restaurant,Reims,"3 Rue de la Gare, 51500, Sillery",51500,https://www.relaisdesillery.fr/,49.2001565,4.142542
+330521577,way,Aire de Jeu,park,Reims,"Rue de la Gare, 51400, Sept Saulx",51400,,49.1501067,4.2550713
+331095091,way,,garden,Reims,,,,49.2919374,4.3646279
+331095092,way,,garden,Reims,,,,49.292882,4.3605512
+331095093,way,,garden,Reims,,,,49.2928207,4.3609508
+334688212,way,,park,Reims,,,,49.3345946,4.0227803
+356239412,way,,park,Reims,,,,49.3076023,4.1502937
+367841006,way,Square André Bridoux,park,Reims,,,,49.2538763,3.9858649
+393508970,way,Best Hotel Reims Croix Blandin,hotel,Reims,10,,,49.2419043,4.0782549
+393898373,way,L’Épi d’Or,restaurant,Reims,Rue Rol Tanguy,,,49.2907943,4.0287147
+394341140,way,Parc Communal,park,Reims,,,,49.299449,4.3207021
+395450460,way,,park,Reims,,,,49.2956867,4.1227828
+395718161,way,,castle,Reims,,,,49.2711405,3.818385
+395800518,way,Les Promenades Fleuries,park,Reims,,,,49.3470638,4.2133177
+396026728,way,,park,Reims,,,,49.266015,3.9619666
+396391322,way,Parc de la Muire,park,Reims,,,,49.2210005,3.9861851
+396904829,way,Parc de la Cerisaie,park,Reims,,,,49.2288466,4.0550328
+400007933,way,La table du petit bonhomme,restaurant,Reims,,,,49.1653544,4.0432925
+403021095,way,Musée de l'aéronautique,museum,Reims,,,,49.2859532,4.0579658
+409585014,way,,park,Reims,,,,49.3567345,3.9936642
+413298695,way,Lavoir de Trépail,attraction,Reims,,,,49.1081839,4.1779084
+437443430,way,La Billeterie,restaurant,Reims,,,,49.1825036,3.8056877
+440082858,way,,park,Reims,,,,49.362146,4.1588128
+442473807,way,Parc Saint Charles,park,Reims,,,,49.2558674,4.0126377
+446629424,way,Hôtel Azur,hotel,Reims,"9 Rue des Écrevées, 51100, Reims",51100,https://www.hotel-azur-reims.com,49.2590845,4.0312259
+474571240,way,Buffalo Grill,restaurant,Reims,,,,49.2138731,4.0606518
+475878769,way,Parc Bernard Stasi,park,Reims,,,,49.2605578,4.0576746
+475878770,way,Promenade du Peignage,park,Reims,,,,49.2599544,4.060239
+479524002,way,Square Sidi Bel Abbès,park,Reims,,,,49.2674621,4.0700389
+491617914,way,Square de la Liberté,park,Reims,,,,49.28439,4.0063424
+531616423,way,Musée des Beaux-Arts,museum,Reims,,,,49.2529719,4.0304423
+544378337,way,Jardin des simples,garden,Reims,,,,49.2385519,4.0534017
+549724439,way,,park,Reims,,,,49.2821405,4.048749
+550250907,way,Parc Dannstadt-Schauernheim,park,Reims,,,,49.2907431,4.0600037
+551450941,way,,garden,Reims,,,,49.2427606,4.0632194
+554614576,way,Square du Vieux Port,park,Reims,,,,49.2453862,4.0324209
+557011995,way,Moulin de la Housse,artwork,Reims,,,,49.2424582,4.0612163
+558731962,way,Parc de la Vesle,park,Reims,,,,49.2441321,4.0313241
+566033440,way,,park,Reims,,,,49.2368258,4.0619548
+566033441,way,,park,Reims,,,,49.237571,4.0627679
+570822560,way,Monument aux infirmières,monument,Reims,,,,49.2573802,4.0391509
+624474053,way,Phare de Verzenay,attraction,Reims,,,https://www.phare-verzenay.com,49.1582367,4.1513816
+624476223,way,Square Nathalie d'Esterno,park,Reims,,,,49.2515277,4.0551345
+625731064,way,Parc Christian Pozzo di Borgo,park,Reims,,,,49.2722213,4.027449
+625755902,way,Place Nicolas Bergier,park,Reims,,,,49.2601261,4.053017
+625755903,way,Terrain rue de la Maladrerie,park,Reims,,,,49.2700721,4.055874
+625755906,way,Parc Rosa Parks,park,Reims,,,,49.2390688,4.0198333
+625755907,way,Parc Wangari Maathai,park,Reims,,,,49.234847,4.0272849
+625755908,way,Place du 11 Novembre,park,Reims,,,,49.248265,4.0566003
+625755909,way,Place Verte,park,Reims,,,,49.2695418,4.0201316
+625755910,way,Place Amélie Doublié,park,Reims,,,,49.2666122,4.0301417
+626971382,way,Hôtel Restaurant Bar Doré,hotel,Reims,"2 Rue du Pavé, 51110, Boult-sur-Suippe",51110,,49.3687985,4.1477156
+627557427,way,Square du Docteur Billard,park,Reims,,,,49.2367072,4.0063728
+629100294,way,Vestiges du Couvent des Jacobins,ruins,Reims,,,,49.2516975,4.0318427
+629193605,way,Musée Saint-Remi,museum,Reims,,,,49.243381,4.041061
+629203637,way,Square Joliot-Curie,park,Reims,Rue Frédéric et Irène Joliot Curie,,,49.2278623,4.0004646
+629204607,way,Parc des Châtillons,park,Reims,,,,49.2294502,4.038433
+629231503,way,Chapelle Foujita,museum,Reims,33,,https://musees-reims.fr/fr/musees/la-chapelle-foujita/,49.2641333,4.0382024
+629232715,way,Musée de l'Automobile,museum,Reims,"84 Avenue Georges Clemenceau, 51100, Reims",51100,,49.2502074,4.0500724
+633895885,way,,garden,Reims,,,,49.2668551,4.050702
+636520817,way,,garden,Reims,,,,49.2662117,4.0727351
+636520818,way,,garden,Reims,,,,49.2662295,4.0728084
+636520819,way,,garden,Reims,,,,49.2662492,4.0728881
+636520820,way,,garden,Reims,,,,49.2662691,4.0729695
+636520821,way,,garden,Reims,,,,49.2662891,4.0730499
+636520822,way,,garden,Reims,,,,49.2663088,4.0731295
+636520823,way,,garden,Reims,,,,49.2663275,4.073208
+636520824,way,,garden,Reims,,,,49.2663475,4.0732864
+636520825,way,,garden,Reims,,,,49.2663662,4.0733642
+636520826,way,,garden,Reims,,,,49.266122,4.072757
+636520827,way,,garden,Reims,,,,49.2661366,4.0728194
+636520828,way,,garden,Reims,,,,49.2661516,4.0728796
+636520830,way,,garden,Reims,,,,49.2661661,4.0729399
+636520831,way,,garden,Reims,,,,49.2661802,4.0729971
+636520832,way,,garden,Reims,,,,49.2661946,4.0730589
+636520833,way,,garden,Reims,,,,49.2662087,4.0731162
+636520834,way,,garden,Reims,,,,49.2662203,4.0731843
+636520835,way,,garden,Reims,,,,49.2662395,4.0732622
+636520836,way,,garden,Reims,,,,49.2662573,4.0733366
+636520837,way,,garden,Reims,,,,49.2662753,4.0734128
+636947365,way,,garden,Reims,,,,49.2783211,4.021717
+636947366,way,,garden,Reims,,,,49.2782662,4.0216025
+636947367,way,,garden,Reims,,,,49.2782433,4.0215203
+636947368,way,,garden,Reims,,,,49.27822,4.0214097
+636947369,way,,garden,Reims,,,,49.2781835,4.0213271
+636947370,way,,garden,Reims,,,,49.2781694,4.0212537
+636947371,way,,garden,Reims,,,,49.2781532,4.0211901
+638004654,way,,garden,Reims,,,,49.2663962,4.0678794
+638004655,way,,garden,Reims,,,,49.266395,4.0676798
+638004656,way,,garden,Reims,,,,49.266397,4.067495
+638004657,way,,garden,Reims,,,,49.2662568,4.0674634
+638004658,way,,garden,Reims,,,,49.2663108,4.0674129
+638004659,way,,garden,Reims,,,,49.2663503,4.0673818
+638004660,way,,garden,Reims,,,,49.2664011,4.0673329
+638004661,way,,garden,Reims,,,,49.2664386,4.0673042
+640096893,way,,garden,Reims,,,,49.2658999,4.065944
+640096894,way,,garden,Reims,,,,49.2658613,4.0659745
+640096895,way,,garden,Reims,,,,49.2658096,4.0660238
+640096896,way,,garden,Reims,,,,49.2657696,4.0660536
+640096897,way,,garden,Reims,,,,49.2657175,4.0661048
+640096904,way,,garden,Reims,,,,49.2656364,4.0661476
+640096905,way,,garden,Reims,,,,49.2655831,4.0661987
+640096906,way,,garden,Reims,,,,49.2655439,4.0662276
+640096907,way,,garden,Reims,,,,49.2654919,4.0662791
+640096908,way,,garden,Reims,,,,49.2654422,4.0663452
+640096909,way,,garden,Reims,,,,49.2653735,4.0664039
+640096910,way,,garden,Reims,,,,49.2653119,4.0664539
+640111721,way,,garden,Reims,,,,49.2655793,4.0669289
+640111722,way,,garden,Reims,,,,49.265519,4.0669613
+640111723,way,,garden,Reims,,,,49.2656152,4.0670548
+640111734,way,,garden,Reims,,,,49.2656244,4.0667354
+640111735,way,,garden,Reims,,,,49.2656409,4.0668136
+640111736,way,,garden,Reims,,,,49.2656744,4.0668933
+640111737,way,,garden,Reims,,,,49.2656927,4.0669502
+640111738,way,,garden,Reims,,,,49.2657252,4.0670277
+640111739,way,,garden,Reims,,,,49.2657521,4.067106
+640520226,way,,garden,Reims,,,,49.2658288,4.0673963
+640520227,way,,garden,Reims,,,,49.2658193,4.0675373
+640520228,way,,garden,Reims,,,,49.2659012,4.0676342
+640520229,way,,garden,Reims,,,,49.2659581,4.0677615
+640520230,way,,garden,Reims,,,,49.2660343,4.0679774
+640520231,way,,garden,Reims,,,,49.2659797,4.0674087
+640520232,way,,garden,Reims,,,,49.2656303,4.0676531
+640520233,way,,garden,Reims,,,,49.2657153,4.0678228
+640539535,way,,garden,Reims,,,,49.2708423,4.0681888
+640539536,way,,garden,Reims,,,,49.2709367,4.0682816
+640539538,way,,garden,Reims,,,,49.2710249,4.0683757
+640539540,way,,garden,Reims,,,,49.2706932,4.068243
+640539541,way,,garden,Reims,,,,49.2707511,4.0683544
+640539542,way,,garden,Reims,,,,49.2708506,4.0684442
+640539547,way,,garden,Reims,,,,49.2706424,4.0682642
+640539549,way,,garden,Reims,,,,49.2706769,4.0684505
+640539551,way,,garden,Reims,,,,49.270512,4.0683392
+640539553,way,,garden,Reims,,,,49.2705146,4.0685259
+640539557,way,,garden,Reims,,,,49.2703784,4.0684053
+640539558,way,,garden,Reims,,,,49.2703903,4.0686038
+640539560,way,,garden,Reims,,,,49.2702659,4.068471
+640539561,way,,garden,Reims,,,,49.2702677,4.0686837
+640539567,way,,garden,Reims,,,,49.270171,4.0688506
+640539569,way,,garden,Reims,,,,49.2700642,4.0686175
+640539576,way,,garden,Reims,,,,49.2700172,4.0688214
+640631914,way,,garden,Reims,,,,49.2698376,4.0690026
+640631915,way,,garden,Reims,,,,49.2698702,4.0686361
+640631918,way,,garden,Reims,,,,49.2697875,4.0685634
+640631919,way,,garden,Reims,,,,49.2697114,4.0684739
+640631921,way,,garden,Reims,,,,49.2696409,4.0685994
+640631922,way,,garden,Reims,,,,49.2696906,4.0687413
+640631925,way,,garden,Reims,,,,49.2697573,4.068818
+640631970,way,,garden,Reims,,,,49.2706602,4.0679518
+640631971,way,,garden,Reims,,,,49.2705751,4.0678551
+640631973,way,,garden,Reims,,,,49.2705023,4.0677515
+640631974,way,,garden,Reims,,,,49.2704203,4.0676543
+640631976,way,,garden,Reims,,,,49.2704872,4.0680206
+640631978,way,,garden,Reims,,,,49.2704322,4.0679087
+640631980,way,,garden,Reims,,,,49.2703274,4.0678257
+640631982,way,,garden,Reims,,,,49.2702714,4.0677054
+640631985,way,,garden,Reims,,,,49.2703379,4.0680387
+640631987,way,,garden,Reims,,,,49.2701542,4.067804
+640631991,way,,garden,Reims,,,,49.2701325,4.0681136
+640631994,way,,garden,Reims,,,,49.2699932,4.0681895
+640631995,way,,garden,Reims,,,,49.2698011,4.0680628
+640632000,way,,garden,Reims,,,,49.2699912,4.0679097
+640637700,way,,garden,Reims,,,,49.2593914,4.0164775
+640637701,way,,garden,Reims,,,,49.259424,4.0165681
+640637702,way,,garden,Reims,,,,49.2594507,4.0166511
+640637703,way,,garden,Reims,,,,49.2595096,4.0168101
+640637704,way,,garden,Reims,,,,49.2595386,4.0168867
+640637705,way,,garden,Reims,,,,49.2595707,4.0169769
+640637714,way,,garden,Reims,,,,49.2597328,4.0168525
+640637715,way,,garden,Reims,,,,49.2596935,4.016885
+640637716,way,,garden,Reims,,,,49.2596527,4.0169198
+640637717,way,,garden,Reims,,,,49.259613,4.0169523
+640637718,way,,garden,Reims,,,,49.2596613,4.0162668
+640637719,way,,garden,Reims,,,,49.2598381,4.0167403
+640637720,way,,garden,Reims,,,,49.2598227,4.0165423
+640637721,way,,garden,Reims,,,,49.2597662,4.0163909
+640637722,way,,garden,Reims,,,,49.2597945,4.0164655
+641342279,way,,garden,Reims,,,,49.2356712,4.051185
+641979980,way,,garden,Reims,,,,49.2698212,4.0112587
+641979981,way,,garden,Reims,,,,49.2697418,4.0112525
+641979982,way,,garden,Reims,,,,49.2696694,4.0112355
+641979983,way,,garden,Reims,,,,49.2695988,4.0112467
+641979984,way,,garden,Reims,,,,49.2695045,4.0112599
+641979985,way,,garden,Reims,,,,49.2694349,4.0112993
+641979986,way,,garden,Reims,,,,49.2693671,4.0112867
+641979987,way,,garden,Reims,,,,49.2692973,4.0112604
+641979988,way,,garden,Reims,,,,49.2699517,4.0113797
+641979989,way,,garden,Reims,,,,49.2698417,4.0113756
+641979990,way,,garden,Reims,,,,49.2697047,4.0114493
+641979991,way,,garden,Reims,,,,49.2696488,4.0114581
+641979992,way,,garden,Reims,,,,49.2695841,4.0114838
+641979993,way,,garden,Reims,,,,49.2694984,4.0114824
+641979994,way,,garden,Reims,,,,49.2694187,4.0115681
+641979995,way,,garden,Reims,,,,49.2693474,4.011572
+641979996,way,,garden,Reims,,,,49.269278,4.0115764
+641979997,way,,garden,Reims,,,,49.2692061,4.0115304
+641979998,way,,garden,Reims,,,,49.2691206,4.0114723
+641979999,way,,garden,Reims,,,,49.2691838,4.0112543
+641980000,way,,garden,Reims,,,,49.2692461,4.0111412
+641980001,way,,garden,Reims,,,,49.2699648,4.0111223
+642677530,way,,garden,Reims,,,,49.2689535,4.0111764
+642677531,way,,garden,Reims,,,,49.2688865,4.0111879
+642677532,way,,garden,Reims,,,,49.2688189,4.0111764
+642677533,way,,garden,Reims,,,,49.2687416,4.0111709
+642677534,way,,garden,Reims,,,,49.2686671,4.0111671
+642677535,way,,garden,Reims,,,,49.2685932,4.0111463
+642677536,way,,garden,Reims,,,,49.2685222,4.0111153
+642677537,way,,garden,Reims,,,,49.2684512,4.0111038
+642677538,way,,garden,Reims,,,,49.2683825,4.0110915
+642677539,way,,garden,Reims,,,,49.268307,4.0110789
+642677540,way,,garden,Reims,,,,49.2682351,4.011088
+642677541,way,,garden,Reims,,,,49.2681685,4.0110766
+642677542,way,,garden,Reims,,,,49.2680947,4.011069
+642677543,way,,garden,Reims,,,,49.2680272,4.0110477
+642677544,way,,garden,Reims,,,,49.2679607,4.0110425
+642677545,way,,garden,Reims,,,,49.2688766,4.0114982
+642677547,way,,garden,Reims,,,,49.2687808,4.0115062
+642677548,way,,garden,Reims,,,,49.2687118,4.0115025
+642677549,way,,garden,Reims,,,,49.2686387,4.011491
+642677550,way,,garden,Reims,,,,49.2685624,4.0114791
+642677551,way,,garden,Reims,,,,49.2684925,4.0114208
+642677552,way,,garden,Reims,,,,49.2684177,4.0114412
+642677553,way,,garden,Reims,,,,49.2683452,4.0114297
+642677554,way,,garden,Reims,,,,49.2682761,4.0113961
+642677555,way,,garden,Reims,,,,49.2681944,4.0113939
+642677556,way,,garden,Reims,,,,49.2680962,4.0112908
+642677557,way,,garden,Reims,,,,49.2680796,4.0114244
+642677558,way,,garden,Reims,,,,49.2680614,4.0115326
+642812499,way,,garden,Reims,,,,49.2678016,4.0110117
+642812501,way,,garden,Reims,,,,49.267734,4.0110072
+642812503,way,,garden,Reims,,,,49.2676642,4.0109797
+642812505,way,,garden,Reims,,,,49.2675941,4.0109535
+642812508,way,,garden,Reims,,,,49.2675143,4.0109925
+642812510,way,,garden,Reims,,,,49.2674419,4.0109813
+642812512,way,,garden,Reims,,,,49.267375,4.0109486
+642812514,way,,garden,Reims,,,,49.2673023,4.0109429
+642812516,way,,garden,Reims,,,,49.2672283,4.0109115
+642812518,way,,garden,Reims,,,,49.2671544,4.0108995
+642812520,way,,garden,Reims,,,,49.2670864,4.0108898
+642812522,way,,garden,Reims,,,,49.2670138,4.0108749
+642812524,way,,garden,Reims,,,,49.2669448,4.0108734
+642812526,way,,garden,Reims,,,,49.2677731,4.0113412
+642812529,way,,garden,Reims,,,,49.2677101,4.0113211
+642812531,way,,garden,Reims,,,,49.2676405,4.0113075
+642812545,way,,garden,Reims,,,,49.2675672,4.0112896
+642812547,way,,garden,Reims,,,,49.267488,4.0112841
+642812549,way,,garden,Reims,,,,49.2674192,4.011303
+642812551,way,,garden,Reims,,,,49.2673505,4.0112917
+642812553,way,,garden,Reims,,,,49.2672788,4.0112453
+642812555,way,,garden,Reims,,,,49.2672098,4.0111999
+642812557,way,,garden,Reims,,,,49.2671387,4.0111866
+642812559,way,,garden,Reims,,,,49.2670636,4.0111994
+642812561,way,,garden,Reims,,,,49.2669928,4.0112024
+642812563,way,,garden,Reims,,,,49.2669185,4.0112365
+642814748,way,,garden,Reims,,,,49.2686271,4.0121067
+642814749,way,,garden,Reims,,,,49.2684361,4.012042
+642814750,way,,garden,Reims,,,,49.2683668,4.0120574
+642814751,way,,garden,Reims,,,,49.2683327,4.0121577
+642814752,way,,garden,Reims,,,,49.2682962,4.0122399
+642814753,way,,garden,Reims,,,,49.2682236,4.0122919
+642814755,way,,garden,Reims,,,,49.2681811,4.0123435
+642814761,way,,garden,Reims,,,,49.2681175,4.0123961
+642814764,way,,garden,Reims,,,,49.2680479,4.0124053
+642814766,way,,garden,Reims,,,,49.2679828,4.0124357
+642814768,way,,garden,Reims,,,,49.2679165,4.0125635
+642814770,way,,garden,Reims,,,,49.2681816,4.0120765
+642814772,way,,garden,Reims,,,,49.2680737,4.0121779
+642814774,way,,garden,Reims,,,,49.2680049,4.0121539
+642814777,way,,garden,Reims,,,,49.2679382,4.0121748
+642815632,way,,garden,Reims,,,,49.2674518,4.0120818
+642815633,way,,garden,Reims,,,,49.2673671,4.0121208
+642815634,way,,garden,Reims,,,,49.2672991,4.0121238
+642815635,way,,garden,Reims,,,,49.2672256,4.0120929
+642815636,way,,garden,Reims,,,,49.2671558,4.012099
+642815637,way,,garden,Reims,,,,49.2670816,4.0120577
+642815638,way,,garden,Reims,,,,49.2670064,4.0120436
+642815639,way,,garden,Reims,,,,49.2669348,4.0120282
+642815640,way,,garden,Reims,,,,49.2669109,4.0123757
+642815641,way,,garden,Reims,,,,49.266843,4.0123555
+642815642,way,,garden,Reims,,,,49.2669822,4.0123885
+642815644,way,,garden,Reims,,,,49.2670534,4.0124006
+642815646,way,,garden,Reims,,,,49.2671094,4.0124524
+642815648,way,,garden,Reims,,,,49.2672079,4.0124359
+642815650,way,,garden,Reims,,,,49.2672749,4.0124483
+642815651,way,,garden,Reims,,,,49.2673395,4.0125232
+642815652,way,,garden,Reims,,,,49.2674186,4.0124674
+642850009,way,,garden,Reims,,,,49.2667838,4.0108472
+642850010,way,,garden,Reims,,,,49.2667143,4.0108251
+642850011,way,,garden,Reims,,,,49.2666457,4.0108173
+642850012,way,,garden,Reims,,,,49.266576,4.0108009
+642850013,way,,garden,Reims,,,,49.2665204,4.010812
+642850015,way,,garden,Reims,,,,49.2667598,4.0112095
+642850016,way,,garden,Reims,,,,49.2666953,4.0111555
+642850017,way,,garden,Reims,,,,49.2666237,4.0111327
+642850018,way,,garden,Reims,,,,49.2665524,4.011127
+642850019,way,,garden,Reims,,,,49.2664796,4.0111082
+642850020,way,,garden,Reims,,,,49.2664252,4.0107864
+642850021,way,,garden,Reims,,,,49.266354,4.0107773
+642850022,way,,garden,Reims,,,,49.2662912,4.0107335
+642850023,way,,garden,Reims,,,,49.2662169,4.0107489
+642850024,way,,garden,Reims,,,,49.2661419,4.0107347
+642850025,way,,garden,Reims,,,,49.2660795,4.0107318
+642850026,way,,garden,Reims,,,,49.2660034,4.0107485
+642850027,way,,garden,Reims,,,,49.2659229,4.0107334
+642850028,way,,garden,Reims,,,,49.2658529,4.0107055
+642850029,way,,garden,Reims,,,,49.2657823,4.010727
+642850030,way,,garden,Reims,,,,49.2657125,4.0107167
+642850031,way,,garden,Reims,,,,49.2656295,4.0107615
+642850032,way,,garden,Reims,,,,49.2655355,4.0107849
+642850033,way,,garden,Reims,,,,49.2654797,4.0107364
+642850034,way,,garden,Reims,,,,49.265427,4.0105489
+642850035,way,,garden,Reims,,,,49.26536,4.0106152
+642850036,way,,garden,Reims,,,,49.26529,4.0105424
+642850037,way,,garden,Reims,,,,49.2652305,4.0105151
+642850038,way,,garden,Reims,,,,49.2661008,4.0110997
+642850039,way,,garden,Reims,,,,49.2659766,4.0110953
+642850040,way,,garden,Reims,,,,49.2659084,4.0111269
+642850041,way,,garden,Reims,,,,49.265811,4.0111701
+642850042,way,,garden,Reims,,,,49.2657345,4.0111927
+642850043,way,,garden,Reims,,,,49.2656623,4.0112217
+642850044,way,,garden,Reims,,,,49.2656004,4.0113012
+642850045,way,,garden,Reims,,,,49.2664048,4.0111158
+642850046,way,,garden,Reims,,,,49.2663287,4.011107
+642850047,way,,garden,Reims,,,,49.2662632,4.0110961
+642850048,way,,garden,Reims,,,,49.2661942,4.0110719
+642873927,way,,garden,Reims,,,,49.2667066,4.0119285
+642873928,way,,garden,Reims,,,,49.2666315,4.0120041
+642873929,way,,garden,Reims,,,,49.266564,4.0119953
+642873930,way,,garden,Reims,,,,49.2664963,4.0119494
+642873931,way,,garden,Reims,,,,49.2664429,4.0119259
+642873932,way,,garden,Reims,,,,49.266356,4.0119528
+642873933,way,,garden,Reims,,,,49.2662875,4.011946
+642873934,way,,garden,Reims,,,,49.2662221,4.0119809
+642873935,way,,garden,Reims,,,,49.2661493,4.011997
+642873936,way,,garden,Reims,,,,49.266074,4.0119979
+642873937,way,,garden,Reims,,,,49.2660046,4.012027
+642873938,way,,garden,Reims,,,,49.2659466,4.0120893
+642873939,way,,garden,Reims,,,,49.2658701,4.0120999
+642873940,way,,garden,Reims,,,,49.2666714,4.0124167
+642873941,way,,garden,Reims,,,,49.2666131,4.0122675
+642873942,way,,garden,Reims,,,,49.2665401,4.012311
+642873943,way,,garden,Reims,,,,49.2664734,4.0122948
+642873944,way,,garden,Reims,,,,49.2664108,4.0122891
+642873945,way,,garden,Reims,,,,49.2662794,4.0122916
+642873946,way,,garden,Reims,,,,49.2661843,4.012306
+642873948,way,,garden,Reims,,,,49.2661039,4.0123435
+642873950,way,,garden,Reims,,,,49.2660277,4.0123756
+642873951,way,,garden,Reims,,,,49.2659431,4.0127371
+642873953,way,,garden,Reims,,,,49.2659001,4.0126195
+642873955,way,,garden,Reims,,,,49.2657544,4.0122285
+642873956,way,,garden,Reims,,,,49.2657069,4.0121364
+642873957,way,,garden,Reims,,,,49.2656827,4.0120493
+642873958,way,,garden,Reims,,,,49.2656286,4.0119599
+642925518,way,,garden,Reims,,,,49.2305547,4.0076115
+643103764,way,,garden,Reims,,,,49.2299826,4.0064149
+643103771,way,,garden,Reims,,,,49.230854,4.0054631
+643103783,way,,garden,Reims,,,,49.2303074,4.0054242
+643106039,way,,garden,Reims,,,,49.2302123,4.0051833
+643106045,way,,garden,Reims,,,,49.2300522,4.0058092
+643122682,way,,garden,Reims,,,,49.231437,4.0052317
+643160442,way,,park,Reims,,,,49.2296887,4.0046782
+645054745,way,,garden,Reims,,,,49.226955,4.0105911
+645575088,way,,garden,Reims,,,,49.227237,4.0100271
+645575091,way,,garden,Reims,,,,49.2269428,4.0096174
+645951642,way,,garden,Reims,,,,49.2300951,4.0128504
+645951643,way,,garden,Reims,,,,49.2295572,4.0128879
+647005233,way,,park,Reims,,,,49.3669124,4.153446
+647005234,way,,park,Reims,,,,49.3672202,4.1537001
+649114075,way,Domaine du Châlet,hotel,Reims,,,,49.1543529,4.0579493
+649269724,way,,garden,Reims,,,,49.261729,4.0190526
+649712177,way,,garden,Reims,,,,49.2621935,4.0201027
+651517633,way,,garden,Reims,,,,49.2357872,4.0152806
+651680041,way,,garden,Reims,,,,49.2718032,4.0179917
+651680042,way,,garden,Reims,,,,49.2718579,4.0180558
+651680044,way,,garden,Reims,,,,49.2719014,4.0181186
+651680045,way,,garden,Reims,,,,49.2719497,4.0181889
+651680046,way,,garden,Reims,,,,49.2719927,4.018251
+651680048,way,,garden,Reims,,,,49.2720323,4.0183063
+651680049,way,,garden,Reims,,,,49.2720756,4.0183702
+651680050,way,,garden,Reims,,,,49.2721246,4.0184407
+651680052,way,,garden,Reims,,,,49.272168,4.0185036
+651680054,way,,garden,Reims,,,,49.272216,4.0185714
+651680080,way,,garden,Reims,,,,49.2726083,4.019521
+651680081,way,,garden,Reims,,,,49.2725634,4.0194548
+651680082,way,,garden,Reims,,,,49.2725022,4.0193633
+651680083,way,,garden,Reims,,,,49.2724669,4.0193087
+651680084,way,,garden,Reims,,,,49.2724053,4.0192171
+651680085,way,,garden,Reims,,,,49.2723768,4.0191625
+651680086,way,,garden,Reims,,,,49.2723031,4.0191294
+651680088,way,,garden,Reims,,,,49.2722469,4.0190378
+651680089,way,,garden,Reims,,,,49.2722106,4.0191405
+651680091,way,,garden,Reims,,,,49.2721633,4.019198
+651680093,way,,garden,Reims,,,,49.2721052,4.0192849
+651680094,way,,garden,Reims,,,,49.2720681,4.0193384
+651680095,way,,garden,Reims,,,,49.2720479,4.0193748
+651692596,way,,garden,Reims,,,,49.2716827,4.0181952
+651692597,way,,garden,Reims,,,,49.2717169,4.0182491
+651692598,way,,garden,Reims,,,,49.2717555,4.0183045
+651692599,way,,garden,Reims,,,,49.2718211,4.0183883
+651692600,way,,garden,Reims,,,,49.2718541,4.0184442
+651692601,way,,garden,Reims,,,,49.2718931,4.0185024
+651692602,way,,garden,Reims,,,,49.2719326,4.0185568
+651692603,way,,garden,Reims,,,,49.2719979,4.0186415
+651692604,way,,garden,Reims,,,,49.2720407,4.0186807
+651694010,way,,garden,Reims,,,,49.271603,4.0182966
+651694011,way,,garden,Reims,,,,49.2715595,4.0183598
+651694012,way,,garden,Reims,,,,49.2715281,4.0184077
+651699048,way,,garden,Reims,,,,49.2727433,4.0194856
+651714851,way,,garden,Reims,,,,49.2718475,4.0187722
+651716806,way,Bar Restaurant du Centre,restaurant,Reims,,,,49.3496206,4.2224724
+652079526,way,,garden,Reims,,,,49.2450399,4.010394
+652079528,way,,garden,Reims,,,,49.2453136,4.0100954
+652079531,way,,garden,Reims,,,,49.2455818,4.0097918
+652079533,way,,garden,Reims,,,,49.2458498,4.0094859
+652862816,way,La Forge,hotel,Reims,"7 Rue du Point du Jour, 51170, Arcis-le-Ponsart",51170,,49.2367756,3.6947415
+654207990,way,,park,Reims,,,,49.1581772,4.1517474
+654208002,way,,park,Reims,,,,49.1576538,4.1431752
+655242627,way,Parc Camille Guérin,park,Reims,,,,49.272803,4.0496975
+655412147,way,Brit Hotel Reims la Neuvillette,hotel,Reims,"1 Rue Bertrand Russell, 51100, Reims",51100,,49.2848335,4.0152763
+655412148,way,Brit Hotel Reims la Neuvillette - bâtiment B,hotel,Reims,"5 Rue Bertrand Russell, 51100, Reims",51100,,49.2844338,4.0140794
+658590691,way,Villa Demoiselle,museum,Reims,,,,49.2433113,4.0497384
+659516365,way,,garden,Reims,,,,49.2578708,4.0150845
+660652677,way,Arbane,restaurant,Reims,7,,,49.2573144,4.0273876
+660701918,way,Le Court 1920,restaurant,Reims,,,,49.250529,4.044798
+660723897,way,Viet Quan,restaurant,Reims,183,,,49.2620397,4.0514679
+660885533,way,B&B HOTEL Reims Centre Erlon,hotel,Reims,28,,,49.2595639,4.0255795
+660909880,way,Galerie28.com,gallery,Reims,11 Rue de l'Arbalète,,,49.2562708,4.0316167
+662654730,way,SODAD,restaurant,Reims,36,,https://sodad-restaurant-reims.eatbu.com/,49.2554156,4.0309427
+664795811,way,John Expose,gallery,Reims,,,,49.2477204,4.0408234
+666314944,way,Le Chamois,restaurant,Reims,,,,49.2514695,4.029662
+678715908,way,parc des Nelmonts,park,Reims,,,,49.2884567,4.1091155
+678732541,way,aire de jeu de l'Escal,park,Reims,,,,49.2949534,4.1168017
+678734369,way,parc du monument aux morts,park,Reims,"Rue de la Paix, 51420, Witry les Reims",51420,,49.2948273,4.1198497
+684469233,way,Parc de la Roseraie,park,Reims,,,,49.237913,4.0382893
+684470395,way,Jardin Intergénérationnel Coup de Pousse,garden,Reims,,,,49.2386629,4.0381536
+707483998,way,Potager de l'école,garden,Reims,,,,49.2114928,4.091623
+715912920,way,Parc des Coteaux,park,Reims,,,,49.220139,4.0013009
+715912921,way,Parc de la Roselière,park,Reims,,,,49.2268706,3.9983283
+718199335,way,,park,Reims,,,,49.216955,3.9980969
+720939798,way,Square Colbert,park,Reims,,,,49.2581613,4.0258241
+720964468,way,Radisson Hotel Reims,hotel,Reims,"11 - 13 Boulevard Jules César, 51100, Reims",51100,https://www.radissonhotels.com/fr-fr/hotels/radisson-reims,49.264859,4.0310795
+723872192,way,,park,Reims,,,,49.2201128,3.9940996
+724162544,way,,park,Reims,,,,49.2487448,3.9085346
+724162545,way,Place des Fêtes,park,Reims,,,,49.2484732,3.9075115
+724531436,way,Le Thiers,restaurant,Reims,22,,https://brasserie-lethiers.fr/,49.2581467,4.0289037
+724551126,way,,garden,Reims,,,,49.2578274,4.0277149
+724551128,way,,garden,Reims,,,,49.2578267,4.0272838
+724551130,way,Le Spark,restaurant,Reims,41,,https://www.lespark.com/fr/,49.2578931,4.0268672
+724568831,way,Le Foch,restaurant,Reims,37,,https://www.lefoch.com/,49.2580529,4.0270567
+724766111,way,Comme chez Vous,restaurant,Reims,,,,49.2513464,4.022438
+727144726,way,,park,Reims,,,,49.2177913,3.998982
+727319566,way,,park,Reims,,,,49.3076183,3.6828158
+727871566,way,L'Atelier,restaurant,Reims,"2 Rue Tronsson Ducoudray, 51100, Reims",51100,https://www.restaurantlatelierreims.com,49.2540952,4.0311401
+728503855,way,L'Alambic,restaurant,Reims,63 bis,,https://www.restaurant-lalambic.fr/,49.2546823,4.0229843
+729493027,way,Parc Jean Vancraeyenest,park,Reims,,,,49.2868634,4.0379086
+733912661,way,,restaurant,Reims,"11 Rue de l'Espérance, 51600, Aubérive",51600,https://www.restaurant-auberive.com,49.2031142,4.4166409
+734141903,way,,memorial,Reims,,,,49.2371282,4.4109512
+734600753,way,,park,Reims,,,,49.271033,4.0127385
+739917132,way,,garden,Reims,,,,49.2400373,4.0163842
+739917133,way,,garden,Reims,,,,49.2400656,4.0163455
+739917134,way,,garden,Reims,,,,49.2400969,4.0163081
+739917135,way,,garden,Reims,,,,49.2401263,4.0162493
+739917136,way,,garden,Reims,,,,49.2401672,4.0161966
+739917137,way,,garden,Reims,,,,49.2402132,4.016137
+739917138,way,,garden,Reims,,,,49.2402595,4.0160805
+739917139,way,,garden,Reims,,,,49.2403067,4.0160201
+739917140,way,,garden,Reims,,,,49.2403532,4.0159642
+739917141,way,,garden,Reims,,,,49.2403973,4.0159277
+739917142,way,,garden,Reims,,,,49.2404277,4.0158902
+739917143,way,,garden,Reims,,,,49.2404591,4.0158511
+739917144,way,,garden,Reims,,,,49.2405046,4.0158116
+739946549,way,,garden,Reims,,,,49.240597,4.0163249
+739946550,way,,garden,Reims,,,,49.2405518,4.0163943
+739946551,way,,garden,Reims,,,,49.2405218,4.0164412
+739946552,way,,garden,Reims,,,,49.2404973,4.0164798
+739946553,way,,garden,Reims,,,,49.2404738,4.0165169
+739946554,way,,garden,Reims,,,,49.2404375,4.0165686
+739946555,way,,garden,Reims,,,,49.2403906,4.0166455
+739946556,way,,garden,Reims,,,,49.2404633,4.0168569
+739946557,way,,garden,Reims,,,,49.2404369,4.0168975
+739946558,way,,garden,Reims,,,,49.2404096,4.0169387
+739946559,way,,garden,Reims,,,,49.2407907,4.0163472
+739946560,way,,garden,Reims,,,,49.2407637,4.0163918
+739946561,way,,garden,Reims,,,,49.2407367,4.0164341
+741215757,way,parc et residence,park,Reims,,,,49.2378681,4.0157781
+741653886,way,,garden,Reims,,,,49.2460716,4.0614464
+741653887,way,,garden,Reims,,,,49.2458278,4.0619395
+741719193,way,,garden,Reims,,,,49.2448724,4.0555684
+746172995,way,,garden,Reims,,,,49.2664567,4.0473904
+750285971,way,,garden,Reims,,,,49.2658237,4.0218533
+750285972,way,,garden,Reims,,,,49.2657756,4.0218799
+750285973,way,,garden,Reims,,,,49.2657171,4.0219195
+751249912,way,Place de la Mairie,park,Reims,,,,49.288791,4.0052015
+752030984,way,Parc Benazir Bhutto,park,Reims,,,,49.2817132,4.0157889
+752834820,way,,garden,Reims,,,,49.2364377,4.0170511
+752903269,way,,garden,Reims,,,,49.2461473,4.0419431
+752903270,way,,garden,Reims,,,,49.2457282,4.0415697
+752903271,way,,garden,Reims,,,,49.2456811,4.0411776
+753493107,way,,garden,Reims,,,,49.2644883,4.0214806
+753493108,way,,garden,Reims,,,,49.2645146,4.0215497
+753493117,way,,garden,Reims,,,,49.2647798,4.0222384
+753493118,way,,garden,Reims,,,,49.2648058,4.0223072
+753686762,way,,garden,Reims,,,,49.2832587,4.028494
+753686763,way,,garden,Reims,,,,49.2832775,4.02857
+753686764,way,,garden,Reims,,,,49.2831523,4.0286421
+753686765,way,,garden,Reims,,,,49.2831335,4.0285656
+753686766,way,,garden,Reims,,,,49.283009,4.0286372
+753686767,way,,garden,Reims,,,,49.2830278,4.0287132
+753686768,way,,garden,Reims,,,,49.2828844,4.0287084
+753686769,way,,garden,Reims,,,,49.2829029,4.0287844
+753686770,way,,garden,Reims,,,,49.2827917,4.0288277
+753686771,way,,garden,Reims,,,,49.2828157,4.0290232
+753686772,way,,garden,Reims,,,,49.2829186,4.0293847
+753686773,way,,garden,Reims,,,,49.2829598,4.0295686
+753686774,way,,garden,Reims,,,,49.2830888,4.0295566
+753686775,way,,garden,Reims,,,,49.2830699,4.0294793
+753686776,way,,garden,Reims,,,,49.2832139,4.0294856
+753686777,way,,garden,Reims,,,,49.2831954,4.0294087
+753686778,way,,garden,Reims,,,,49.2833384,4.0294149
+753686779,way,,garden,Reims,,,,49.2833196,4.0293375
+753686780,way,,garden,Reims,,,,49.2834636,4.0293442
+753686781,way,,garden,Reims,,,,49.2834452,4.0292664
+753686782,way,,garden,Reims,,,,49.2835898,4.0292727
+753686783,way,,garden,Reims,,,,49.2835714,4.0291952
+753686784,way,,garden,Reims,,,,49.2837143,4.0292024
+753686785,way,,garden,Reims,,,,49.2836956,4.0291245
+753750995,way,,garden,Reims,,,,49.2813544,4.0150504
+753750996,way,,garden,Reims,,,,49.2813,4.0150859
+753750997,way,,garden,Reims,,,,49.2812496,4.0151201
+753750998,way,,garden,Reims,,,,49.2811996,4.0151547
+753750999,way,,garden,Reims,,,,49.2811489,4.0151889
+753751000,way,,garden,Reims,,,,49.2810975,4.0152242
+753751001,way,,garden,Reims,,,,49.2811466,4.0143385
+753751002,way,,garden,Reims,,,,49.281094,4.0143733
+753751003,way,,garden,Reims,,,,49.2810444,4.0144089
+753751004,way,,garden,Reims,,,,49.2809929,4.0144519
+753751005,way,,garden,Reims,,,,49.2809426,4.0144913
+753751006,way,,garden,Reims,,,,49.2808955,4.0145288
+753756026,way,,garden,Reims,,,,49.2801082,4.0141217
+754393560,way,Square Joséphine Baker,park,Reims,,,,49.2800261,4.0231582
+755407205,way,,garden,Reims,,,,49.2818101,4.0184784
+755407206,way,,garden,Reims,,,,49.2818234,4.0185827
+755407207,way,,garden,Reims,,,,49.2818362,4.018683
+755407208,way,,garden,Reims,,,,49.2818494,4.0187851
+755407209,way,,garden,Reims,,,,49.2818628,4.0188884
+755407210,way,,garden,Reims,,,,49.2818764,4.0189941
+755440795,way,,park,Reims,,,,49.281905,4.0185421
+755440798,way,,garden,Reims,,,,49.2816898,4.0183564
+755440799,way,,garden,Reims,,,,49.2816978,4.0184219
+755440800,way,,garden,Reims,,,,49.2819768,4.0179142
+755440801,way,,garden,Reims,,,,49.2819305,4.0179892
+755440802,way,,garden,Reims,,,,49.2820364,4.018009
+755440806,way,,garden,Reims,,,,49.2818691,4.0180264
+755440809,way,,garden,Reims,,,,49.2818084,4.0181961
+755440810,way,,garden,Reims,,,,49.2818011,4.0180959
+755447797,way,Fresque d'Orgeval,artwork,Reims,,,,49.2821425,4.0204589
+755447811,way,Les allées de la Pergola,garden,Reims,,,,49.2821049,4.0198651
+755456708,way,,garden,Reims,,,,49.2821926,4.0185612
+755456709,way,,garden,Reims,,,,49.2822306,4.0186238
+755471811,way,,garden,Reims,,,,49.2791103,4.0246831
+755471812,way,,garden,Reims,,,,49.2790909,4.0248247
+755471813,way,,garden,Reims,,,,49.2791012,4.0249141
+755471814,way,,garden,Reims,,,,49.2791182,4.0250216
+755471815,way,,garden,Reims,,,,49.2791283,4.0251102
+755471816,way,,garden,Reims,,,,49.2791452,4.0252168
+755471817,way,,garden,Reims,,,,49.2791552,4.0253045
+755471818,way,,garden,Reims,,,,49.2791729,4.0254188
+755634434,way,,park,Reims,,,,49.2793771,4.0247976
+755634435,way,,park,Reims,,,,49.2794406,4.0251984
+755634436,way,,garden,Reims,,,,49.2796154,4.0253018
+755634437,way,,garden,Reims,,,,49.2795589,4.0253191
+755634438,way,,garden,Reims,,,,49.2795063,4.0253349
+755634439,way,,garden,Reims,,,,49.2794516,4.025352
+756465798,way,Golden Tulip Reims,hotel,Reims,"21 Rue Jean Dausset, 51340, Bezannes",51340,https://reims.goldentulip.com/,49.213544,4.0028088
+760711366,way,,park,Reims,,,,49.2380644,4.0183636
+760803688,way,,garden,Reims,,,,49.2382057,4.0192974
+764340926,way,,garden,Reims,,,,49.2152151,4.0300384
+764340927,way,,garden,Reims,,,,49.2151765,4.0300872
+764340928,way,,garden,Reims,,,,49.2151511,4.0301233
+764340929,way,,garden,Reims,,,,49.2151281,4.030165
+764340934,way,,garden,Reims,,,,49.2151829,4.030442
+764340935,way,,garden,Reims,,,,49.2151398,4.0304994
+764340936,way,,garden,Reims,,,,49.2151034,4.0305548
+764340940,way,,garden,Reims,,,,49.2152722,4.0306209
+764340943,way,,garden,Reims,,,,49.2151439,4.0306787
+764340945,way,,garden,Reims,,,,49.2150042,4.0306986
+764340947,way,,garden,Reims,,,,49.2149561,4.0305639
+764340949,way,,garden,Reims,,,,49.2153311,4.0304335
+764340950,way,,garden,Reims,,,,49.2153123,4.030206
+764340954,way,,garden,Reims,,,,49.2148643,4.0298719
+764340955,way,,garden,Reims,,,,49.2148385,4.0299656
+764340956,way,,garden,Reims,,,,49.2147674,4.0298082
+764340957,way,,garden,Reims,,,,49.2147407,4.0299006
+764340962,way,,garden,Reims,,,,49.2146962,4.0297248
+764341487,way,,garden,Reims,,,,49.2147149,4.0302118
+764341488,way,,garden,Reims,,,,49.2146155,4.0301664
+764341490,way,,garden,Reims,,,,49.2141533,4.030394
+764341491,way,,garden,Reims,,,,49.2141473,4.0302554
+764341492,way,,garden,Reims,,,,49.2141828,4.0301177
+764341493,way,,garden,Reims,,,,49.2143973,4.0299507
+764341494,way,,garden,Reims,,,,49.2143713,4.0300426
+764341495,way,,garden,Reims,,,,49.2144945,4.0300157
+764341496,way,,garden,Reims,,,,49.2144682,4.0301074
+764341502,way,,garden,Reims,,,,49.2142001,4.0306933
+764341503,way,,garden,Reims,,,,49.21428,4.0307691
+764341504,way,,garden,Reims,,,,49.214394,4.0308305
+764341505,way,,garden,Reims,,,,49.2145273,4.0308481
+764341508,way,,garden,Reims,,,,49.2146985,4.0309111
+764341512,way,,garden,Reims,,,,49.2148234,4.030914
+764341513,way,,garden,Reims,,,,49.2149223,4.030977
+764341515,way,,garden,Reims,,,,49.2145114,4.0306881
+764342785,way,,garden,Reims,,,,49.2152303,4.0307786
+764342786,way,,garden,Reims,,,,49.2146996,4.0304638
+764342787,way,,garden,Reims,,,,49.2147307,4.0303566
+764366656,way,,garden,Reims,,,,49.2348434,4.0191962
+764366657,way,,garden,Reims,,,,49.2351423,4.0181952
+764620465,way,,park,Reims,,,,49.2870171,4.0550219
+764620467,way,,park,Reims,,,,49.2873812,4.055854
+764620468,way,,park,Reims,,,,49.2874164,4.0552205
+764620481,way,Parc Marie-Louise Dupont,park,Reims,"51450, Bétheny",51450,,49.2696289,4.0501498
+770743780,way,,garden,Reims,,,,49.2798837,4.0479786
+770743824,way,Square Colbert,park,Reims,,,,49.2581613,4.0258241
+772438564,way,,garden,Reims,,,,49.1634646,4.0397159
+772667096,way,Square Noel Pra,park,Reims,,,,49.2688183,3.9725566
+774959510,way,,park,Reims,,,,49.2489201,4.0368462
+775980066,way,,ruins,Reims,,,,49.2430306,4.3039993
+775980067,way,,ruins,Reims,,,,49.2443833,4.3043977
+775980068,way,,ruins,Reims,,,,49.2440042,4.3028245
+775980069,way,,ruins,Reims,,,,49.2437476,4.3031973
+775980070,way,,ruins,Reims,,,,49.2435988,4.3036694
+775980071,way,,ruins,Reims,,,,49.2437477,4.309935
+775980076,way,,ruins,Reims,,,,49.2460949,4.3173165
+775980077,way,,ruins,Reims,,,,49.2459259,4.3156025
+775980078,way,,ruins,Reims,,,,49.2458927,4.3138069
+775980079,way,,ruins,Reims,,,,49.2475342,4.3137746
+775980080,way,,ruins,Reims,,,,49.2478581,4.3137546
+775980081,way,,ruins,Reims,,,,49.2476278,4.3171449
+779354509,way,,park,Reims,,,,49.2643388,3.9888458
+781053007,way,La Caravane Cantine,restaurant,Reims,,,,49.2719817,4.0444433
+782688268,way,,garden,Reims,,,,49.2487594,4.0001339
+782688269,way,,garden,Reims,,,,49.2491744,4.0001776
+783828229,way,,garden,Reims,,,,49.2564379,4.0195564
+784480745,way,,garden,Reims,,,,49.2501335,4.0124887
+784756828,way,Ibis Budget,hotel,Reims,,,,49.2364092,4.0693955
+785858204,way,Parc de la Paix,park,Reims,,,,49.220529,4.0528632
+785869709,way,Parc Claude-Monet,park,Reims,,,,49.2183482,4.0415973
+785900814,way,Parc Jean-Giono,park,Reims,,,,49.2194948,4.0451979
+785997453,way,Parc du Champ-Bertin,park,Reims,,,,49.2186636,4.0554957
+788862964,way,Square des Fères Prot,park,Reims,Rue de Pouillon,,,49.2714667,4.0196072
+791366511,way,,garden,Reims,,,,49.2079701,4.0268187
+794153804,way,,garden,Reims,,,,49.25174,4.0508941
+794154789,way,,garden,Reims,,,,49.2515763,4.0504501
+797134511,way,Square Louis Lemal,park,Reims,,,,49.3711119,3.8981657
+799028527,way,,garden,Reims,,,,49.2331099,4.035685
+799028531,way,,garden,Reims,,,,49.2331903,4.0359788
+800088904,way,,garden,Reims,,,,49.2480109,4.0416013
+800088909,way,Le Jardin de Gabriel,garden,Reims,,,,49.248214,4.0419185
+801961719,way,,garden,Reims,,,,49.2423153,4.0497025
+804847583,way,,garden,Reims,,,,49.2695383,3.9952356
+813237968,way,,restaurant,Reims,,,,49.2497652,3.9781268
+825151184,way,,garden,Reims,,,,49.339535,4.092726
+825151185,way,,garden,Reims,,,,49.3369749,4.0967289
+829972034,way,Monument aux Martyrs de la Résistance et de la Déportation,memorial,Reims,,,,49.2598846,4.0278742
+832680669,way,Parc de l'Araignéee,park,Reims,,,,49.3045623,3.6873007
+833445889,way,,park,Reims,,,,49.3079441,3.6889014
+833470015,way,Parc de la Place du 19 mars 1962,park,Reims,Place du 19 mars 1962,,,49.3085981,3.6907158
+833640656,way,Parc de Wesphalie,park,Reims,,,,49.3079391,3.695131
+834021088,way,,park,Reims,,,,49.3061309,3.6921454
+834193226,way,,park,Reims,,,,49.3046281,3.6922562
+834207818,way,,park,Reims,,,,49.3054161,3.6909234
+834245886,way,,park,Reims,,,,49.3025109,3.6805648
+835260344,way,,park,Reims,,,,49.2998209,3.6748359
+837123717,way,,park,Reims,,,,49.3238507,4.0042386
+837127420,way,,park,Reims,,,,49.3243262,4.0062348
+837158698,way,,park,Reims,,,,49.3258608,4.0032936
+837904546,way,Mur de Libre Expression,artwork,Reims,,,,49.2456557,4.0301972
+840163372,way,,park,Reims,,,,49.2578227,3.9019271
+840249736,way,Berges du Vieux Port,park,Reims,,,,49.247883,4.0274508
+856978528,way,,garden,Reims,,,,49.2540532,4.0189069
+858017535,way,,garden,Reims,,,,49.2344807,4.0449277
+860996182,way,,park,Reims,,,,49.2556608,3.9553746
+863323060,way,Jardin partagé,garden,Reims,,,,49.2567933,4.0195916
+863556873,way,,garden,Reims,,,,49.2683072,4.0323647
+863556874,way,,garden,Reims,,,,49.2684097,4.03236
+863556878,way,,garden,Reims,,,,49.2682018,4.0323249
+871858403,way,Parc Pierre de Fermat,park,Reims,,,,49.2792128,4.0207554
+874533924,way,,garden,Reims,,,,49.251753,4.0434385
+875255057,way,Square de la Porte Mars,park,Reims,,,,49.2607851,4.0303391
+875493246,way,,garden,Reims,,,,49.2847024,4.0316749
+875493247,way,,garden,Reims,,,,49.2847215,4.0317614
+875503907,way,,garden,Reims,,,,49.2847249,4.0318555
+875503908,way,,garden,Reims,,,,49.2847585,4.031933
+875503909,way,,garden,Reims,,,,49.2847778,4.0320176
+875503910,way,,garden,Reims,,,,49.2847955,4.0321001
+875503911,way,,garden,Reims,,,,49.2846411,4.0318611
+875503912,way,,garden,Reims,,,,49.2845861,4.0318896
+875503913,way,,garden,Reims,,,,49.2845332,4.0319163
+875503914,way,,garden,Reims,,,,49.2844772,4.0319449
+875503915,way,,garden,Reims,,,,49.2844222,4.0319741
+875503916,way,,garden,Reims,,,,49.2843692,4.0320132
+875503917,way,,garden,Reims,,,,49.2846707,4.0319972
+875503918,way,,garden,Reims,,,,49.2846196,4.0320399
+875503919,way,,garden,Reims,,,,49.284565,4.0320674
+875503920,way,,garden,Reims,,,,49.2845103,4.0320951
+875503921,way,,garden,Reims,,,,49.2844538,4.0321241
+875503922,way,,garden,Reims,,,,49.2843967,4.0321378
+875503923,way,,garden,Reims,,,,49.2843543,4.0322995
+875503924,way,,garden,Reims,,,,49.2843362,4.0322149
+875503925,way,,garden,Reims,,,,49.2843277,4.0321261
+875503926,way,,garden,Reims,,,,49.2842988,4.0320474
+875503927,way,,garden,Reims,,,,49.2842806,4.031962
+875503928,way,,garden,Reims,,,,49.2842622,4.0318879
+875503929,way,,garden,Reims,,,,49.2841359,4.0318507
+875503930,way,,garden,Reims,,,,49.2841177,4.0317657
+875503931,way,,garden,Reims,,,,49.2840997,4.0316803
+875503932,way,,garden,Reims,,,,49.2842421,4.0313486
+875503933,way,,garden,Reims,,,,49.2842981,4.0313248
+875503934,way,,garden,Reims,,,,49.2843543,4.0313014
+875503935,way,,garden,Reims,,,,49.2844113,4.0312782
+875503936,way,,garden,Reims,,,,49.2844646,4.0312538
+875503937,way,,garden,Reims,,,,49.2845201,4.0312314
+875503938,way,,garden,Reims,,,,49.2845753,4.0312067
+875503939,way,,garden,Reims,,,,49.2846311,4.0311832
+875503940,way,,garden,Reims,,,,49.284728,4.0312919
+875503941,way,,garden,Reims,,,,49.2847125,4.0312062
+875503942,way,,garden,Reims,,,,49.2846966,4.0311195
+875503943,way,,garden,Reims,,,,49.2846813,4.0310345
+875503944,way,,garden,Reims,,,,49.2846656,4.03095
+875503945,way,,garden,Reims,,,,49.2846493,4.0308633
+875503946,way,,garden,Reims,,,,49.2846028,4.0310309
+875503947,way,,garden,Reims,,,,49.2845474,4.0310552
+875503948,way,,garden,Reims,,,,49.2844922,4.031078
+875503949,way,,garden,Reims,,,,49.284437,4.0311019
+875503950,way,,garden,Reims,,,,49.2843595,4.0311236
+875503951,way,,garden,Reims,,,,49.2842343,4.0310915
+875507575,way,,garden,Reims,,,,49.2845377,4.0301044
+875507576,way,,garden,Reims,,,,49.2845495,4.0301815
+875507577,way,,garden,Reims,,,,49.2845616,4.0302667
+875507578,way,,garden,Reims,,,,49.2845733,4.0303536
+875507579,way,,garden,Reims,,,,49.2845858,4.030442
+875507580,way,,garden,Reims,,,,49.284598,4.0305296
+875507581,way,,garden,Reims,,,,49.284484,4.0302561
+875507582,way,,garden,Reims,,,,49.2844293,4.0302914
+875507583,way,,garden,Reims,,,,49.2843721,4.0303084
+875507584,way,,garden,Reims,,,,49.2843136,4.0303124
+875507585,way,,garden,Reims,,,,49.2842566,4.0303313
+875507586,way,,garden,Reims,,,,49.2841292,4.0302733
+875507587,way,,garden,Reims,,,,49.2841669,4.0306347
+875507588,way,,garden,Reims,,,,49.2842781,4.0304852
+875507589,way,,garden,Reims,,,,49.284335,4.0304672
+875507590,way,,garden,Reims,,,,49.284392,4.0304474
+875507591,way,,garden,Reims,,,,49.2844483,4.030429
+875507592,way,,garden,Reims,,,,49.2845052,4.0304107
+875507594,way,,garden,Reims,,,,49.2844031,4.0293245
+875507595,way,,garden,Reims,,,,49.2844119,4.0294154
+875507596,way,,garden,Reims,,,,49.2844207,4.0295021
+875507597,way,,garden,Reims,,,,49.2844282,4.0295888
+875507598,way,,garden,Reims,,,,49.2844369,4.0296775
+875507599,way,,garden,Reims,,,,49.2844314,4.0297529
+875507600,way,,garden,Reims,,,,49.2843357,4.029485
+875507601,way,,garden,Reims,,,,49.2842778,4.0294985
+875507602,way,,garden,Reims,,,,49.2842206,4.0295111
+875507603,way,,garden,Reims,,,,49.2843505,4.0296407
+875507604,way,,garden,Reims,,,,49.2842923,4.0296543
+875507605,way,,garden,Reims,,,,49.2842352,4.0296675
+875507606,way,,garden,Reims,,,,49.2840765,4.029517
+875507607,way,,garden,Reims,,,,49.2841793,4.0296801
+875507608,way,,garden,Reims,,,,49.2840671,4.0298142
+875511478,way,,garden,Reims,,,,49.2841262,4.027814
+875511479,way,,garden,Reims,,,,49.2841223,4.0279049
+875511480,way,,garden,Reims,,,,49.2841191,4.0279935
+875511481,way,,garden,Reims,,,,49.284116,4.0280817
+875511482,way,,garden,Reims,,,,49.2841121,4.0281719
+875511483,way,,garden,Reims,,,,49.2841087,4.0282597
+875511484,way,,garden,Reims,,,,49.2840426,4.02795
+875511485,way,,garden,Reims,,,,49.2839853,4.0279453
+875511486,way,,garden,Reims,,,,49.2839283,4.0279397
+875511487,way,,garden,Reims,,,,49.2838701,4.027935
+875511488,way,,garden,Reims,,,,49.2840365,4.0281088
+875511489,way,,garden,Reims,,,,49.2839798,4.0281031
+875511490,way,,garden,Reims,,,,49.2839221,4.0280985
+875511491,way,,garden,Reims,,,,49.2838645,4.0280938
+875511492,way,,garden,Reims,,,,49.2838115,4.0279299
+875511493,way,,garden,Reims,,,,49.2838057,4.0280882
+875511494,way,,garden,Reims,,,,49.2837541,4.0279252
+875511495,way,,garden,Reims,,,,49.283749,4.0280824
+875511496,way,,garden,Reims,,,,49.2836971,4.027919
+875511497,way,,garden,Reims,,,,49.2836906,4.0280778
+875511498,way,,garden,Reims,,,,49.2836383,4.0279144
+875511499,way,,garden,Reims,,,,49.2836316,4.0280721
+875511500,way,,garden,Reims,,,,49.2835788,4.0279273
+875511501,way,,garden,Reims,,,,49.2835729,4.028067
+875511502,way,,garden,Reims,,,,49.283519,4.0277608
+875511503,way,,garden,Reims,,,,49.2835155,4.0278513
+875511504,way,,garden,Reims,,,,49.283512,4.0279393
+875511505,way,,garden,Reims,,,,49.2835092,4.0280266
+875511506,way,,garden,Reims,,,,49.2835055,4.0281174
+875511507,way,,garden,Reims,,,,49.2835091,4.0282062
+875511512,way,,garden,Reims,,,,49.28399,4.0285577
+875511513,way,,garden,Reims,,,,49.2839908,4.0286459
+875511514,way,,garden,Reims,,,,49.2839918,4.0287352
+875511515,way,,garden,Reims,,,,49.2839921,4.0288254
+875511516,way,,garden,Reims,,,,49.2839926,4.0289143
+875511517,way,,garden,Reims,,,,49.283993,4.0290033
+875511518,way,,garden,Reims,,,,49.2840462,4.028701
+875511519,way,,garden,Reims,,,,49.2840477,4.0288585
+875511520,way,,garden,Reims,,,,49.2841055,4.0287132
+875511521,way,,garden,Reims,,,,49.2841066,4.0288572
+875511522,way,,garden,Reims,,,,49.2841644,4.0286983
+875511523,way,,garden,Reims,,,,49.2841657,4.0288563
+875511524,way,,garden,Reims,,,,49.2842238,4.0287137
+875511525,way,,garden,Reims,,,,49.2842248,4.0288555
+875511526,way,,garden,Reims,,,,49.2842841,4.0285523
+875511527,way,,garden,Reims,,,,49.2842949,4.0286418
+875511528,way,,garden,Reims,,,,49.2842956,4.0287314
+875511529,way,,garden,Reims,,,,49.2842847,4.0288204
+875511530,way,,garden,Reims,,,,49.2842968,4.0289091
+875511531,way,,garden,Reims,,,,49.284298,4.0289984
+875515599,way,Hôtel Première Classe Reims Nord-Bétheny,hotel,Reims,,,,49.2850464,4.0311956
+875753612,way,,garden,Reims,,,,49.284289,4.0269919
+875753613,way,,garden,Reims,,,,49.2842051,4.0268927
+875753614,way,,garden,Reims,,,,49.2841511,4.0269085
+875753615,way,,garden,Reims,,,,49.2841011,4.0268782
+875753616,way,,garden,Reims,,,,49.2840508,4.0268996
+875753617,way,,garden,Reims,,,,49.2840011,4.0268954
+875753618,way,,garden,Reims,,,,49.2839496,4.0268914
+875753619,way,,garden,Reims,,,,49.2838988,4.0268659
+875753620,way,,garden,Reims,,,,49.2841422,4.0267642
+875753621,way,,garden,Reims,,,,49.284145,4.0266858
+875753622,way,,garden,Reims,,,,49.2841482,4.0266069
+875753623,way,,garden,Reims,,,,49.2841511,4.0265265
+875753624,way,,garden,Reims,,,,49.2841543,4.026447
+875753625,way,,garden,Reims,,,,49.2841571,4.0263681
+875753626,way,,garden,Reims,,,,49.2841604,4.0262899
+875753627,way,,garden,Reims,,,,49.2841631,4.0262111
+875753628,way,,garden,Reims,,,,49.2840749,4.02641
+875753629,way,,garden,Reims,,,,49.2840241,4.026382
+875753630,way,,garden,Reims,,,,49.283973,4.0263777
+875753631,way,,garden,Reims,,,,49.2839215,4.0263731
+875753632,way,,garden,Reims,,,,49.2838698,4.0263688
+875753633,way,,garden,Reims,,,,49.2838184,4.0263642
+875753634,way,,garden,Reims,,,,49.283767,4.0263599
+875753635,way,,garden,Reims,,,,49.2837152,4.0263557
+875753636,way,,garden,Reims,,,,49.2836658,4.0263515
+875753637,way,,garden,Reims,,,,49.2836155,4.0263469
+875753638,way,,garden,Reims,,,,49.2833892,4.0260641
+875753639,way,,garden,Reims,,,,49.2833794,4.025985
+875753640,way,,garden,Reims,,,,49.2833698,4.0259075
+875753641,way,,garden,Reims,,,,49.2833605,4.0258313
+875753642,way,,garden,Reims,,,,49.2833508,4.0257546
+875753643,way,,garden,Reims,,,,49.2833416,4.0256782
+875753644,way,,garden,Reims,,,,49.283332,4.025602
+875753645,way,,garden,Reims,,,,49.2833044,4.0255297
+875753646,way,,garden,Reims,,,,49.283313,4.0254481
+875753647,way,,garden,Reims,,,,49.2832884,4.0253769
+875753648,way,,garden,Reims,,,,49.283999,4.0258196
+875753649,way,,garden,Reims,,,,49.2839759,4.0257452
+875753650,way,,garden,Reims,,,,49.2839798,4.0256637
+875753651,way,,garden,Reims,,,,49.2839704,4.0255856
+875753652,way,,garden,Reims,,,,49.2839471,4.025513
+875753653,way,,garden,Reims,,,,49.2839373,4.0254383
+875753654,way,,garden,Reims,,,,49.283942,4.0253564
+875753655,way,,garden,Reims,,,,49.2839328,4.0252777
+875753656,way,,garden,Reims,,,,49.2838713,4.0255089
+875753657,way,,garden,Reims,,,,49.2838204,4.0255234
+875753658,way,,garden,Reims,,,,49.2837722,4.0255594
+875753659,way,,garden,Reims,,,,49.2837183,4.0255528
+875753660,way,,garden,Reims,,,,49.2836679,4.0255674
+875753661,way,,garden,Reims,,,,49.283884,4.0256129
+875753662,way,,garden,Reims,,,,49.2838366,4.0256486
+875753663,way,,garden,Reims,,,,49.2837844,4.0256631
+875753664,way,,garden,Reims,,,,49.2837336,4.0256776
+875753665,way,,garden,Reims,,,,49.2836836,4.025692
+875753666,way,,garden,Reims,,,,49.2838093,4.024942
+875753667,way,,garden,Reims,,,,49.283789,4.0248707
+875753668,way,,garden,Reims,,,,49.2837689,4.0247997
+875753669,way,,garden,Reims,,,,49.2837492,4.0247284
+875753670,way,,garden,Reims,,,,49.2837282,4.0246558
+875753671,way,,garden,Reims,,,,49.2837074,4.0245817
+875753672,way,,garden,Reims,,,,49.2836731,4.024519
+875753673,way,,garden,Reims,,,,49.2836667,4.0244384
+875753674,way,,garden,Reims,,,,49.2836348,4.0246559
+875753675,way,,garden,Reims,,,,49.2835878,4.0246863
+875753676,way,,garden,Reims,,,,49.2835403,4.0247177
+875753677,way,,garden,Reims,,,,49.2834938,4.0247486
+875753678,way,,garden,Reims,,,,49.2834464,4.0247795
+875753679,way,,garden,Reims,,,,49.2836827,4.0248256
+875753680,way,,garden,Reims,,,,49.2836349,4.024858
+875753681,way,,garden,Reims,,,,49.2835887,4.024888
+875753682,way,,garden,Reims,,,,49.2835417,4.0249198
+875753683,way,,garden,Reims,,,,49.2834946,4.0249507
+875753684,way,,garden,Reims,,,,49.2834464,4.0249824
+875753685,way,,garden,Reims,,,,49.2833987,4.0248104
+875753686,way,,garden,Reims,,,,49.2833509,4.0248427
+875753687,way,,garden,Reims,,,,49.2833034,4.0248728
+875753688,way,,garden,Reims,,,,49.2832561,4.0249051
+875753689,way,,garden,Reims,,,,49.2832075,4.0249362
+875800691,way,Prim Hôtel,hotel,Reims,,,,49.2824095,4.1081617
+877266447,way,Cour des Ifs,park,Reims,,,,49.2516486,4.0366937
+881237892,way,,garden,Reims,,,,49.2416067,4.0441241
+881262464,way,,park,Reims,,,,49.301334,4.1488559
+881593833,way,Le Clos Maryse,garden,Reims,,,,49.2679532,4.0466011
+881621763,way,,park,Reims,,,,49.3057413,4.1536016
+881621765,way,,park,Reims,,,,49.3045775,4.1545059
+881621767,way,,park,Reims,,,,49.30382,4.1547029
+881635813,way,,park,Reims,,,,49.3006155,4.154604
+881717776,way,,garden,Reims,,,,49.2407524,4.0380509
+884133939,way,Jardin de l'hôtel Huet,garden,Reims,,,,49.2615062,4.0355093
+884315396,way,,park,Reims,,,,49.2833844,4.0564767
+884342848,way,,restaurant,Reims,,,,49.2543443,4.0252732
+886640929,way,Parc du Champagne Mumm,park,Reims,,,,49.2644338,4.036938
+886710957,way,,park,Reims,,,,49.2244544,4.0007171
+886710958,way,,park,Reims,,,,49.2238428,4.0023943
+886795318,way,,park,Reims,,,,49.2269093,4.0055438
+887838261,way,,park,Reims,,,,49.2227173,4.0390001
+887863558,way,,park,Reims,,,,49.2207506,4.0399288
+889186818,way,Square Jean Macé,park,Reims,,,,49.2759003,4.0188793
+891356427,way,Ville de Reims,garden,Reims,,,,49.274535,4.0143657
+891356428,way,Ville de Reims,garden,Reims,,,,49.2750044,4.0152071
+893730747,way,Jardin du Carré des Sens,garden,Reims,,,,49.2775432,4.0168788
+894537541,way,,garden,Reims,,,,49.2447829,4.0408549
+902808357,way,Musée de la Reddition,museum,Reims,12 Rue du Président Franklin Roosevelt,,https://musees-reims.fr/fr/musees/musee-de-la-reddition/,49.2622382,4.0261627
+903353062,way,B&B,hotel,Reims,,,,49.2433563,4.0777431
+911022996,way,,park,Reims,,,,49.2612246,3.9923473
+920184113,way,,garden,Reims,,,,49.2378008,4.0144628
+920184114,way,,garden,Reims,,,,49.237489,4.0144951
+920184117,way,,garden,Reims,,,,49.2371127,4.0145776
+920184118,way,,garden,Reims,,,,49.2365293,4.0145373
+920184119,way,,garden,Reims,,,,49.2361627,4.0145545
+920184121,way,,garden,Reims,,,,49.235979,4.0145345
+920184122,way,,garden,Reims,,,,49.2363463,4.0145343
+933912084,way,,park,Reims,,,,49.2109696,4.0199946
+933912085,way,,park,Reims,,,,49.2109393,4.0207109
+933912086,way,,garden,Reims,,,,49.2109761,4.021129
+933912087,way,,garden,Reims,,,,49.2109489,4.0210965
+933912088,way,,garden,Reims,,,,49.2109224,4.0210604
+933912089,way,,garden,Reims,,,,49.2108958,4.0210255
+933912090,way,,garden,Reims,,,,49.2108801,4.020943
+933912091,way,,garden,Reims,,,,49.2108885,4.0209894
+933919596,way,,park,Reims,,,,49.2100594,4.0197856
+933919598,way,,park,Reims,,,,49.2100995,4.0205892
+933951484,way,,garden,Reims,,,,49.2101464,4.021042
+933951485,way,,garden,Reims,,,,49.2101454,4.0211156
+933951486,way,,garden,Reims,,,,49.2101399,4.0211818
+933951487,way,,garden,Reims,,,,49.2101181,4.0212479
+933951488,way,,garden,Reims,,,,49.2100969,4.0213177
+933951489,way,,garden,Reims,,,,49.2100746,4.0213846
+933951490,way,,garden,Reims,,,,49.2100546,4.0214615
+933951491,way,,garden,Reims,,,,49.2100278,4.0215479
+933951492,way,,garden,Reims,,,,49.2099942,4.0216355
+933951493,way,,garden,Reims,,,,49.2099712,4.021707
+933951494,way,,garden,Reims,,,,49.209947,4.0217774
+933990865,way,,garden,Reims,,,,49.2282543,3.9998638
+933990866,way,,garden,Reims,,,,49.2283106,3.9996867
+933990867,way,,garden,Reims,,,,49.2283403,3.9995826
+933990868,way,,garden,Reims,,,,49.228291,3.9993089
+933990869,way,,garden,Reims,,,,49.2283364,3.9991542
+933990870,way,,garden,Reims,,,,49.228371,3.9990619
+933990871,way,,garden,Reims,,,,49.2284094,3.9989617
+933990872,way,,garden,Reims,,,,49.2284566,3.9988323
+933990873,way,,garden,Reims,,,,49.2285061,3.9986912
+933990874,way,,garden,Reims,,,,49.2285478,3.9985396
+933990875,way,,garden,Reims,,,,49.2285943,3.9984602
+933990876,way,,garden,Reims,,,,49.2286128,3.9983549
+933990877,way,,garden,Reims,,,,49.2286746,3.9982542
+934002289,way,,garden,Reims,,,,49.2290637,3.9981333
+934002290,way,,garden,Reims,,,,49.2291357,3.998188
+934002291,way,,garden,Reims,,,,49.2291886,3.9982407
+934002292,way,,garden,Reims,,,,49.229227,3.9983186
+934002293,way,,garden,Reims,,,,49.2292719,3.9983803
+934002294,way,,garden,Reims,,,,49.2293397,3.9984729
+934002295,way,,garden,Reims,,,,49.2294536,3.9986402
+934002296,way,,garden,Reims,,,,49.2295724,3.9987996
+934002297,way,,garden,Reims,,,,49.2296076,3.9988821
+934002298,way,,garden,Reims,,,,49.2296435,3.998965
+934002299,way,,garden,Reims,,,,49.2296326,3.9991248
+934002320,way,,garden,Reims,,,,49.2296288,3.9992205
+934002321,way,,garden,Reims,,,,49.2296906,3.9992303
+934002322,way,,garden,Reims,,,,49.2297517,3.9992534
+934002323,way,,garden,Reims,,,,49.22981,3.9992835
+934002324,way,,garden,Reims,,,,49.2298668,3.9993133
+934002325,way,,garden,Reims,,,,49.229925,3.999343
+934002326,way,,garden,Reims,,,,49.2299802,3.9993729
+934002332,way,,garden,Reims,,,,49.2303627,3.9998765
+934002333,way,,garden,Reims,,,,49.2302897,3.9998018
+934002334,way,,garden,Reims,,,,49.2301822,3.9996727
+934002335,way,,garden,Reims,,,,49.230087,3.999563
+934002336,way,,garden,Reims,,,,49.2300284,3.9995325
+934030079,way,,garden,Reims,,,,49.2292295,3.9992659
+934030080,way,,garden,Reims,,,,49.229079,3.9993007
+934030081,way,,garden,Reims,,,,49.2290354,3.9993701
+934030082,way,,garden,Reims,,,,49.229027,3.9994788
+934030083,way,,garden,Reims,,,,49.2290127,3.9996152
+934030084,way,,garden,Reims,,,,49.2289097,3.9991337
+934030085,way,,garden,Reims,,,,49.2289222,3.9993701
+934030086,way,,garden,Reims,,,,49.2288975,3.9994697
+934030087,way,,garden,Reims,,,,49.228857,3.9995416
+934030088,way,,garden,Reims,,,,49.2287445,3.99957
+934030089,way,,garden,Reims,,,,49.2291714,3.9991581
+934030090,way,,garden,Reims,,,,49.229104,3.9990797
+934030091,way,,garden,Reims,,,,49.2290321,3.9990599
+934030092,way,,garden,Reims,,,,49.2289768,3.9988821
+934042974,way,,garden,Reims,,,,49.231157,4.0014025
+934042975,way,,garden,Reims,,,,49.2312025,4.0011307
+934042976,way,,garden,Reims,,,,49.2311888,4.001045
+934042977,way,,garden,Reims,,,,49.2311577,4.0009649
+934042978,way,,garden,Reims,,,,49.2310638,4.0008244
+934042979,way,,garden,Reims,,,,49.2309484,4.0006696
+934042980,way,,garden,Reims,,,,49.2308559,4.0005289
+934042981,way,,garden,Reims,,,,49.2308084,4.000469
+934042982,way,,garden,Reims,,,,49.2307042,4.0005116
+934042983,way,,garden,Reims,,,,49.2307201,4.0003738
+934042984,way,,garden,Reims,,,,49.2306443,4.0002949
+934042985,way,,garden,Reims,,,,49.2305976,4.0002347
+934042986,way,,garden,Reims,,,,49.2305509,4.0001738
+934042987,way,,garden,Reims,,,,49.2304898,4.0000503
+934042988,way,,garden,Reims,,,,49.2304201,4.0001026
+934172255,way,,garden,Reims,,,,49.2310493,4.0016682
+934172256,way,,garden,Reims,,,,49.2309446,4.0018102
+934172257,way,,garden,Reims,,,,49.2308876,4.0018708
+934172258,way,,garden,Reims,,,,49.2308394,4.0019313
+934172259,way,,garden,Reims,,,,49.2307843,4.0019757
+934172260,way,,garden,Reims,,,,49.2307264,4.0020352
+934172261,way,,garden,Reims,,,,49.2307067,4.0021587
+934172262,way,,garden,Reims,,,,49.2306828,4.0022689
+934172263,way,,garden,Reims,,,,49.2306312,4.0024033
+934172264,way,,garden,Reims,,,,49.2304913,4.0025421
+934185146,way,,garden,Reims,,,,49.230663,4.0008259
+934185147,way,,garden,Reims,,,,49.2306244,4.0008834
+934185148,way,,garden,Reims,,,,49.2307864,4.0010138
+934185149,way,,garden,Reims,,,,49.230678,4.0011679
+934185150,way,,garden,Reims,,,,49.230642,4.0014353
+934185151,way,,garden,Reims,,,,49.2305742,4.0012732
+934185152,way,,garden,Reims,,,,49.2305322,4.0012044
+934185153,way,,garden,Reims,,,,49.2304957,4.0011316
+934185154,way,,garden,Reims,,,,49.2304579,4.00105
+934185155,way,,garden,Reims,,,,49.2305358,4.0009118
+934185156,way,,garden,Reims,,,,49.2303913,4.0009032
+934185199,way,,garden,Reims,,,,49.2302173,4.0002961
+934185200,way,,garden,Reims,,,,49.2301898,4.000373
+934185201,way,,garden,Reims,,,,49.2301774,4.0004792
+934185202,way,,garden,Reims,,,,49.2301414,4.0005638
+934185203,way,,garden,Reims,,,,49.2301038,4.0006379
+934185204,way,,garden,Reims,,,,49.2300379,4.0007521
+934185205,way,,garden,Reims,,,,49.2300687,4.0008492
+934185206,way,,garden,Reims,,,,49.230161,4.0001214
+934185207,way,,garden,Reims,,,,49.2301437,4.0002098
+934185208,way,,garden,Reims,,,,49.2300819,4.0002895
+934185209,way,,garden,Reims,,,,49.2300616,4.0003791
+934185210,way,,garden,Reims,,,,49.230042,4.0004686
+934185211,way,,garden,Reims,,,,49.229995,4.0006478
+934185212,way,,garden,Reims,,,,49.2299268,4.0006519
+934260296,way,,garden,Reims,,,,49.2302916,4.0020425
+934260297,way,,garden,Reims,,,,49.2302865,4.0018141
+934260298,way,,garden,Reims,,,,49.23021,4.0016157
+934260299,way,,garden,Reims,,,,49.2301238,4.0013756
+934260300,way,,garden,Reims,,,,49.230205,4.0022231
+934260301,way,,garden,Reims,,,,49.2301446,4.0019874
+934260302,way,,garden,Reims,,,,49.2300898,4.0018252
+934260303,way,,garden,Reims,,,,49.2299532,4.0016421
+934260304,way,,garden,Reims,,,,49.2299943,4.001353
+934260305,way,,garden,Reims,,,,49.2299498,4.0012912
+934260306,way,,garden,Reims,,,,49.229904,4.0012295
+934260307,way,,garden,Reims,,,,49.2298496,4.0011674
+934260308,way,,garden,Reims,,,,49.2298632,4.0015003
+934260309,way,,garden,Reims,,,,49.2297823,4.0013764
+934260310,way,,garden,Reims,,,,49.2297637,4.0009917
+934263341,way,,garden,Reims,,,,49.2296801,4.0011896
+934263348,way,,garden,Reims,,,,49.2296561,4.0009512
+934263349,way,,garden,Reims,,,,49.2295717,4.0009073
+934263350,way,,garden,Reims,,,,49.2295134,4.0008767
+934263351,way,,garden,Reims,,,,49.2294542,4.000847
+934263352,way,,garden,Reims,,,,49.2293879,4.0008125
+934263353,way,,garden,Reims,,,,49.2295515,4.001111
+934263354,way,,garden,Reims,,,,49.2294483,4.0009924
+934263355,way,,garden,Reims,,,,49.2292913,4.0009056
+934263373,way,,garden,Reims,,,,49.2288198,4.0012982
+934263374,way,,garden,Reims,,,,49.2289871,4.0011436
+934263375,way,,garden,Reims,,,,49.2291095,4.0010389
+934263381,way,,garden,Reims,,,,49.2291726,4.0006115
+934263382,way,,garden,Reims,,,,49.2290116,4.0006719
+934263385,way,,garden,Reims,,,,49.2288765,4.0007484
+934263387,way,,garden,Reims,,,,49.2287779,4.0009851
+934419724,way,,garden,Reims,,,,49.2296821,3.9997612
+934419725,way,,garden,Reims,,,,49.2296691,3.9998698
+934419726,way,,garden,Reims,,,,49.2296569,3.9999632
+934419727,way,,garden,Reims,,,,49.2296652,4.000067
+934419728,way,,garden,Reims,,,,49.2296515,4.0001596
+934419729,way,,garden,Reims,,,,49.2296318,4.0002523
+934419730,way,,garden,Reims,,,,49.2296544,4.0004569
+934419731,way,,garden,Reims,,,,49.2295998,4.000392
+934419740,way,,garden,Reims,,,,49.2295738,3.9999806
+934419741,way,,garden,Reims,,,,49.2295685,4.0000756
+934419742,way,,garden,Reims,,,,49.2295631,4.0001701
+934419743,way,,garden,Reims,,,,49.2295333,4.0003366
+934419744,way,,garden,Reims,,,,49.2294409,4.0003545
+934419750,way,,garden,Reims,,,,49.2294551,3.9997077
+934419751,way,,garden,Reims,,,,49.2293483,3.9996525
+934419752,way,,garden,Reims,,,,49.2292874,3.9996476
+934419785,way,,garden,Reims,,,,49.2289515,4.0003615
+934419786,way,,garden,Reims,,,,49.2289654,4.0002731
+934419787,way,,garden,Reims,,,,49.2289169,4.0001378
+934419788,way,,garden,Reims,,,,49.2288808,4.0000627
+934419789,way,,garden,Reims,,,,49.2288436,3.9999857
+934419790,way,,garden,Reims,,,,49.2288437,3.9998691
+934419791,way,,garden,Reims,,,,49.2288072,3.9997914
+934419792,way,,garden,Reims,,,,49.2287402,3.9997224
+934419800,way,,garden,Reims,,,,49.2290365,3.9998775
+934419801,way,,garden,Reims,,,,49.2290475,4.0000178
+934419802,way,,garden,Reims,,,,49.2290451,4.0001124
+934419806,way,,garden,Reims,,,,49.229075,4.000292
+934419809,way,,garden,Reims,,,,49.2291589,4.0003113
+934425736,way,,garden,Reims,,,,49.2281505,4.0004814
+934425737,way,,garden,Reims,,,,49.2281846,4.0003893
+934425740,way,,garden,Reims,,,,49.2282919,4.0004932
+934425742,way,,garden,Reims,,,,49.2283415,4.0005854
+934425744,way,,garden,Reims,,,,49.2283964,4.0006392
+934425746,way,,garden,Reims,,,,49.2284499,4.0007221
+934425748,way,,garden,Reims,,,,49.2285104,4.0007593
+934425750,way,,garden,Reims,,,,49.228612,4.0007826
+934425753,way,,garden,Reims,,,,49.228625,4.0009047
+934425760,way,,garden,Reims,,,,49.2286997,4.0006462
+934425772,way,,garden,Reims,,,,49.2284121,4.0003378
+934425773,way,,garden,Reims,,,,49.2283695,4.0002722
+934425774,way,,garden,Reims,,,,49.2283293,4.0002017
+934425775,way,,garden,Reims,,,,49.2284752,4.0003901
+934425776,way,,garden,Reims,,,,49.228514,4.0004651
+934425777,way,,garden,Reims,,,,49.2285526,4.0005413
+934425778,way,,garden,Reims,,,,49.2286057,4.0006397
+934438651,way,,garden,Reims,,,,49.2279495,4.000783
+934438652,way,,garden,Reims,,,,49.2279242,4.00087
+934438653,way,,garden,Reims,,,,49.2279082,4.0009585
+934438654,way,,garden,Reims,,,,49.2278922,4.0010502
+934438655,way,,garden,Reims,,,,49.2278467,4.0011526
+934438682,way,,garden,Reims,,,,49.227833,4.0013008
+934438683,way,,garden,Reims,,,,49.2279666,4.0014543
+934438686,way,,garden,Reims,,,,49.2280594,4.0016042
+934438689,way,,garden,Reims,,,,49.2285163,4.0014302
+934438690,way,,garden,Reims,,,,49.2284561,4.0014146
+934438691,way,,garden,Reims,,,,49.2283966,4.0013899
+934438692,way,,garden,Reims,,,,49.2283369,4.001365
+934438693,way,,garden,Reims,,,,49.2282777,4.0013411
+934438694,way,,garden,Reims,,,,49.2281969,4.001435
+934438695,way,,garden,Reims,,,,49.2281364,4.0014091
+934438696,way,,garden,Reims,,,,49.2281756,4.0017944
+934438698,way,,garden,Reims,,,,49.2282659,4.0019332
+934438699,way,,garden,Reims,,,,49.228307,4.0017854
+934438700,way,,garden,Reims,,,,49.2283886,4.0017456
+934438701,way,,garden,Reims,,,,49.2285434,4.0015943
+934665683,way,,garden,Reims,,,,49.2286344,4.0068201
+934665684,way,,garden,Reims,,,,49.2285626,4.0069521
+934665685,way,,garden,Reims,,,,49.2284545,4.0070349
+934665686,way,,garden,Reims,,,,49.2286196,4.0070252
+934665700,way,,garden,Reims,,,,49.2281985,4.0060466
+934665701,way,,garden,Reims,,,,49.228237,4.0061974
+934665702,way,,garden,Reims,,,,49.2283823,4.0063875
+934665703,way,,garden,Reims,,,,49.2282189,4.0064301
+934665704,way,,garden,Reims,,,,49.2280756,4.0064898
+934665705,way,,garden,Reims,,,,49.2281313,4.006238
+934665716,way,,garden,Reims,,,,49.2277904,4.0060163
+934665717,way,,garden,Reims,,,,49.227686,4.0059717
+934665718,way,,garden,Reims,,,,49.2278949,4.0061643
+934665719,way,,garden,Reims,,,,49.2280526,4.0060253
+934665726,way,,garden,Reims,,,,49.2275042,4.0059372
+934665728,way,,garden,Reims,,,,49.2274157,4.0061883
+934665729,way,,garden,Reims,,,,49.2273599,4.0059733
+934665730,way,,garden,Reims,,,,49.2271296,4.0060448
+934772714,way,,garden,Reims,,,,49.2282602,4.0047167
+934772715,way,,garden,Reims,,,,49.2281821,4.0046818
+934772719,way,,garden,Reims,,,,49.2283369,4.0047463
+934772720,way,,garden,Reims,,,,49.2283547,4.0049004
+934772721,way,,garden,Reims,,,,49.2283901,4.0049623
+934772722,way,,garden,Reims,,,,49.2284332,4.0050856
+934772723,way,,garden,Reims,,,,49.2283642,4.005147
+934772724,way,,garden,Reims,,,,49.2283122,4.0052189
+934772725,way,,garden,Reims,,,,49.2282617,4.0052832
+934772734,way,,garden,Reims,,,,49.2282263,4.0054053
+934772735,way,,garden,Reims,,,,49.2281398,4.0053741
+934772736,way,,garden,Reims,,,,49.2280708,4.0054019
+934772741,way,,garden,Reims,,,,49.2279939,4.0054337
+934772742,way,,garden,Reims,,,,49.2279015,4.0053848
+934772745,way,,garden,Reims,,,,49.2278321,4.0053667
+934772746,way,,garden,Reims,,,,49.2277653,4.00528
+934772747,way,,garden,Reims,,,,49.2277017,4.005217
+934772751,way,,garden,Reims,,,,49.2276318,4.0051514
+934772752,way,,garden,Reims,,,,49.2275608,4.0052185
+934772753,way,,garden,Reims,,,,49.2274898,4.0052641
+934772758,way,,garden,Reims,,,,49.2274188,4.0052859
+934772759,way,,garden,Reims,,,,49.2273513,4.0052191
+934779387,way,,garden,Reims,,,,49.2277113,4.0042779
+934779388,way,,garden,Reims,,,,49.2277783,4.0043386
+934779389,way,,garden,Reims,,,,49.2279227,4.0041614
+934779390,way,,garden,Reims,,,,49.2279033,4.0042994
+934779391,way,,garden,Reims,,,,49.2279601,4.0044222
+934779392,way,,garden,Reims,,,,49.2279288,4.0045184
+934779399,way,,garden,Reims,,,,49.2279151,4.0046242
+934779402,way,,garden,Reims,,,,49.2278977,4.0047282
+934779403,way,,garden,Reims,,,,49.2278689,4.0048297
+934779404,way,,garden,Reims,,,,49.2278233,4.004929
+934779405,way,,garden,Reims,,,,49.2278019,4.0050571
+934787954,way,,garden,Reims,,,,49.2274548,4.004135
+934787955,way,,garden,Reims,,,,49.2274315,4.0042645
+934787956,way,,garden,Reims,,,,49.2274424,4.0043691
+934787962,way,,garden,Reims,,,,49.2275209,4.0045465
+934787963,way,,garden,Reims,,,,49.2274138,4.0045412
+934787968,way,,garden,Reims,,,,49.2274146,4.0046393
+934787969,way,,garden,Reims,,,,49.2273082,4.0046712
+934787973,way,,garden,Reims,,,,49.2272351,4.0046487
+934787974,way,,garden,Reims,,,,49.227175,4.0046291
+934787975,way,,garden,Reims,,,,49.2271113,4.0045876
+934787980,way,,garden,Reims,,,,49.2270461,4.0045351
+934787981,way,,garden,Reims,,,,49.2269843,4.0044841
+934787982,way,,garden,Reims,,,,49.2269207,4.0044353
+934787987,way,,garden,Reims,,,,49.2267934,4.0042643
+934787989,way,,garden,Reims,,,,49.2266416,4.0042795
+934787992,way,,garden,Reims,,,,49.2262258,4.0055367
+934787993,way,,garden,Reims,,,,49.2262636,4.0053301
+934787997,way,,garden,Reims,,,,49.2262963,4.005153
+934787998,way,,garden,Reims,,,,49.226343,4.0050491
+934787999,way,,garden,Reims,,,,49.2264286,4.0049522
+934788000,way,,garden,Reims,,,,49.2264117,4.0047252
+934788005,way,,garden,Reims,,,,49.2265042,4.0045781
+934788006,way,,garden,Reims,,,,49.2265174,4.0044348
+934788007,way,,garden,Reims,,,,49.2265587,4.0043499
+934979087,way,,garden,Reims,,,,49.227192,4.004189
+934979088,way,,garden,Reims,,,,49.2270943,4.0040992
+934979089,way,,garden,Reims,,,,49.2270673,4.003944
+934979090,way,,garden,Reims,,,,49.2269846,4.0039628
+934979091,way,,garden,Reims,,,,49.2269186,4.0039125
+934979092,way,,garden,Reims,,,,49.2268531,4.0038656
+934979093,way,,garden,Reims,,,,49.2267737,4.003661
+934979103,way,,garden,Reims,,,,49.2263732,4.0056783
+934979104,way,,garden,Reims,,,,49.2263937,4.0057927
+934979105,way,,garden,Reims,,,,49.2264203,4.0058917
+934979106,way,,garden,Reims,,,,49.2264456,4.0060078
+934979107,way,,garden,Reims,,,,49.2265057,4.0061039
+934979114,way,,garden,Reims,,,,49.2265362,4.0062168
+934979115,way,,garden,Reims,,,,49.2265306,4.0063267
+934979116,way,,garden,Reims,,,,49.2265213,4.0064117
+934979117,way,,garden,Reims,,,,49.2265033,4.0065551
+934979121,way,,garden,Reims,,,,49.2264046,4.0065026
+934979122,way,,garden,Reims,,,,49.226344,4.0063489
+934979124,way,,garden,Reims,,,,49.2262138,4.0062448
+934979126,way,,garden,Reims,,,,49.2262767,4.0062909
+934979129,way,,garden,Reims,,,,49.2261092,4.0059863
+934979131,way,,garden,Reims,,,,49.2260659,4.0068171
+934979134,way,,garden,Reims,,,,49.2259722,4.0066873
+934979135,way,,garden,Reims,,,,49.2259092,4.0065701
+934979136,way,,garden,Reims,,,,49.2258875,4.0064025
+934979137,way,,garden,Reims,,,,49.2259249,4.0062908
+934979141,way,,garden,Reims,,,,49.2259695,4.0061133
+934979143,way,,garden,Reims,,,,49.2262866,4.0067325
+934979144,way,,garden,Reims,,,,49.2262665,4.0068333
+934979145,way,,garden,Reims,,,,49.2262351,4.0069422
+934979146,way,,garden,Reims,,,,49.2262041,4.0070077
+934979147,way,,garden,Reims,,,,49.2261292,4.0070442
+934979154,way,,garden,Reims,,,,49.2260433,4.0071036
+934979156,way,,garden,Reims,,,,49.2259474,4.0069045
+934979157,way,,garden,Reims,,,,49.2258811,4.0068673
+934979158,way,,garden,Reims,,,,49.2258145,4.0068422
+934979165,way,,garden,Reims,,,,49.2256636,4.0069145
+934986978,way,,garden,Reims,,,,49.226714,4.0055892
+934986979,way,,garden,Reims,,,,49.2267809,4.0056538
+934986984,way,,garden,Reims,,,,49.2267921,4.0059622
+934986985,way,,garden,Reims,,,,49.2268491,4.0057908
+934986989,way,,garden,Reims,,,,49.2268923,4.0057798
+934986990,way,,garden,Reims,,,,49.2269141,4.0056655
+934986995,way,,garden,Reims,,,,49.2270544,4.0056356
+934986997,way,,garden,Reims,,,,49.2270376,4.0054963
+934986998,way,,garden,Reims,,,,49.2270752,4.0053948
+934987004,way,,garden,Reims,,,,49.2271061,4.0052763
+934987005,way,,garden,Reims,,,,49.2270138,4.0052163
+934987008,way,,garden,Reims,,,,49.2269453,4.0051396
+934987010,way,,garden,Reims,,,,49.2268763,4.0050672
+934987013,way,,garden,Reims,,,,49.2267853,4.0050426
+934987016,way,,garden,Reims,,,,49.2267308,4.0050078
+934987017,way,,garden,Reims,,,,49.2266925,4.0048781
+934987020,way,,garden,Reims,,,,49.2266016,4.0051795
+934987023,way,,garden,Reims,,,,49.2266672,4.0052684
+934987028,way,,garden,Reims,,,,49.2267174,4.005337
+934987042,way,,garden,Reims,,,,49.2269458,4.0075511
+934987043,way,,garden,Reims,,,,49.226967,4.0076882
+934987044,way,,garden,Reims,,,,49.2269849,4.0078117
+934987045,way,,garden,Reims,,,,49.2269969,4.0079562
+934987046,way,,garden,Reims,,,,49.2269057,4.0078197
+934987052,way,,garden,Reims,,,,49.2271164,4.0081618
+934987053,way,,garden,Reims,,,,49.2270255,4.0080503
+934987056,way,,garden,Reims,,,,49.2269699,4.0081464
+934987057,way,,garden,Reims,,,,49.2268807,4.0080363
+934987058,way,,garden,Reims,,,,49.2268991,4.0082607
+934987059,way,,garden,Reims,,,,49.2268304,4.0084085
+935124216,way,,garden,Reims,,,,49.2267059,4.0068452
+935124217,way,,garden,Reims,,,,49.226753,4.0070686
+935124218,way,,garden,Reims,,,,49.2268037,4.0072135
+935124219,way,,garden,Reims,,,,49.2266962,4.0072522
+935124220,way,,garden,Reims,,,,49.226666,4.0071519
+935124225,way,,garden,Reims,,,,49.2266017,4.0073961
+935124226,way,,garden,Reims,,,,49.2265585,4.0072877
+935124228,way,,garden,Reims,,,,49.2265371,4.0075584
+935124230,way,,garden,Reims,,,,49.2264863,4.0074321
+935124233,way,,garden,Reims,,,,49.2264608,4.0077188
+935124234,way,,garden,Reims,,,,49.2263692,4.0075258
+935124237,way,,garden,Reims,,,,49.2266965,4.0083034
+935124238,way,,garden,Reims,,,,49.2265984,4.008195
+935124239,way,,garden,Reims,,,,49.2264919,4.0080813
+935124244,way,,garden,Reims,,,,49.2264071,4.007947
+935124245,way,,garden,Reims,,,,49.2262677,4.0079383
+935124252,way,,garden,Reims,,,,49.2261372,4.0077907
+935124253,way,,garden,Reims,,,,49.2262176,4.0075733
+935124257,way,,garden,Reims,,,,49.2259995,4.0076464
+935124258,way,,garden,Reims,,,,49.2258672,4.0075307
+935124263,way,,garden,Reims,,,,49.225754,4.0075369
+935124264,way,,garden,Reims,,,,49.2256965,4.0074785
+935124265,way,,garden,Reims,,,,49.2256223,4.0074458
+935124267,way,,garden,Reims,,,,49.2255184,4.0073031
+935126984,way,,park,Reims,,,,49.2266127,4.0054378
+935128220,way,,park,Reims,,,,49.2279441,4.0050301
+935522974,way,,park,Reims,,,,49.2283511,4.0028509
+941967187,way,,restaurant,Reims,,,,49.2525393,4.0590091
+961119281,way,,park,Reims,,,,49.2869864,4.0554476
+974813678,way,,park,Reims,,,,49.2162384,4.0956082
+976410284,way,,garden,Reims,,,,49.250631,4.0248717
+976410285,way,,garden,Reims,,,,49.2506541,4.0249289
+976410286,way,,garden,Reims,,,,49.250694,4.0250271
+976410287,way,,garden,Reims,,,,49.2507318,4.0250987
+976410288,way,,garden,Reims,,,,49.2507694,4.025175
+976410289,way,,garden,Reims,,,,49.2507989,4.0252557
+976410291,way,,garden,Reims,,,,49.2508201,4.0253289
+976762222,way,,garden,Reims,,,,49.250862,4.025443
+976762225,way,,garden,Reims,,,,49.250988,4.0254187
+976859073,way,,garden,Reims,,,,49.2508961,4.0256975
+976859074,way,,garden,Reims,,,,49.2509066,4.0257439
+976859075,way,,garden,Reims,,,,49.2509301,4.0256664
+976859076,way,,garden,Reims,,,,49.2509838,4.02564
+976859077,way,,garden,Reims,,,,49.2510265,4.025592
+976859078,way,,garden,Reims,,,,49.251075,4.0255362
+976859079,way,,garden,Reims,,,,49.2511279,4.0255111
+976859080,way,,garden,Reims,,,,49.2511808,4.0254834
+977037756,way,,garden,Reims,,,,49.2639918,4.0126511
+980961720,way,Appart’City,hotel,Reims,17,,,49.2415954,4.0756173
+988813611,way,,park,Reims,,,,49.3232418,4.0046655
+988824853,way,,park,Reims,,,,49.3223875,4.0017702
+990538904,way,Mausolée Alexandre Dubarry,memorial,Reims,,,,49.1735128,4.221578
+997692908,way,Square du Trésor,park,Reims,,,,49.2540775,4.0331084
+999876025,way,Parc Harmel,park,Reims,,,,49.3519015,4.2150695
+1004790918,way,,park,Reims,,,,49.2756956,3.8890367
+1016584788,way,,park,Reims,,,,49.2603845,3.8609348
+1017781815,way,Parc des Grands Bois,park,Reims,,,,49.1759309,4.2176301
+1017781816,way,Parc des Petits Bois,park,Reims,,,,49.1760901,4.2212068
+1018209405,way,,park,Reims,,,,49.1774029,4.2127892
+1023024947,way,Moronvilliers (village détruit),ruins,Reims,,,,49.2411406,4.3315114
+1059343589,way,Hyatt Centric Reims,hotel,Reims,"31 Boulevard Paul Doumer, 51100, Reims",51100,https://www.hyatt.com/hyatt-centric/reict-hyatt-centric-reims,49.2490562,4.0271374
+1059343590,way,Le Rem',restaurant,Reims,31 Boulevard Paul Doumer,,,49.2490128,4.0269795
+1059459418,way,Hôtel Campanile Reims Centre Cathédrale,hotel,Reims,,,,49.2486577,4.0277255
+1059459420,way,Le Restaurant,restaurant,Reims,,,,49.2486504,4.0275527
+1060099145,way,,garden,Reims,,,,49.2490889,4.0294431
+1060099146,way,,garden,Reims,,,,49.2490385,4.029287
+1060099147,way,,garden,Reims,,,,49.2489746,4.0291264
+1060099148,way,,garden,Reims,,,,49.2489199,4.0289689
+1060099149,way,,garden,Reims,,,,49.2488583,4.0288124
+1060099150,way,,garden,Reims,,,,49.2488053,4.0286673
+1060099151,way,,garden,Reims,,,,49.2487448,4.0285332
+1060200244,way,,garden,Reims,,,,49.2484687,4.0299232
+1060200246,way,,garden,Reims,,,,49.248437,4.0298281
+1060200247,way,,garden,Reims,,,,49.2483999,4.0297528
+1060200248,way,,garden,Reims,,,,49.2483697,4.0296634
+1060200249,way,,garden,Reims,,,,49.2483333,4.0295821
+1060200250,way,,garden,Reims,,,,49.2483039,4.0294979
+1060200251,way,,garden,Reims,,,,49.2482733,4.0294099
+1060200252,way,,garden,Reims,,,,49.2482392,4.0293132
+1060200260,way,,garden,Reims,,,,49.2485118,4.0291067
+1060200261,way,,garden,Reims,,,,49.2485431,4.0291965
+1060200262,way,,garden,Reims,,,,49.2485721,4.0292824
+1060200263,way,,garden,Reims,,,,49.2486021,4.0293696
+1060200264,way,,garden,Reims,,,,49.2486322,4.0294583
+1060200265,way,,garden,Reims,,,,49.2486619,4.0295467
+1060291962,way,Memphis,restaurant,Reims,"25 Rue des Laps, 51350, Cormontreuil",51350,http://memphis-coffee.com/,49.2157447,4.0436718
+1064919027,way,,park,Reims,"Rue Léonard de Vinci, 51000, Reims",51000,,49.2689608,4.0121792
+1077630328,way,,garden,Reims,,,,49.2306768,4.018807
+1083806233,way,,park,Reims,,,,49.1806847,3.8009065
+1091180257,way,Parc Alain Lescouet,park,Reims,,,,49.2685468,3.9790692
+1091893901,way,,park,Reims,,,,49.1637303,4.0139526
+1107172875,way,,park,Reims,,,,49.2148975,3.994085
+1107943749,way,,garden,Reims,,,,49.281659,4.0185527
+1107943750,way,,garden,Reims,,,,49.281672,4.0186545
+1107943751,way,,garden,Reims,,,,49.2816849,4.0187558
+1107943752,way,,garden,Reims,,,,49.2816985,4.0188605
+1107943753,way,,garden,Reims,,,,49.2817117,4.0189629
+1107943754,way,,garden,Reims,,,,49.2817253,4.019068
+1108119890,way,,garden,Reims,,,,49.2805835,4.0219847
+1108365377,way,,garden,Reims,,,,49.2731673,4.0267539
+1108365378,way,,garden,Reims,,,,49.2728983,4.027145
+1109977014,way,,garden,Reims,,,,49.263502,4.0616247
+1109977015,way,,garden,Reims,,,,49.2632303,4.0617742
+1109977016,way,,garden,Reims,,,,49.2631135,4.0618156
+1109977017,way,,garden,Reims,,,,49.2628187,4.0619775
+1109977018,way,,garden,Reims,,,,49.2625755,4.0621319
+1109977019,way,,garden,Reims,,,,49.2624736,4.0622135
+1110224944,way,,garden,Reims,,,,49.2607055,4.0614795
+1110224947,way,,garden,Reims,,,,49.2606368,4.061475
+1110224948,way,,garden,Reims,,,,49.2605682,4.061477
+1110224949,way,,garden,Reims,,,,49.2604992,4.061476
+1110224950,way,,garden,Reims,,,,49.2604308,4.0614675
+1110224951,way,,garden,Reims,,,,49.2603628,4.061453
+1110224952,way,,garden,Reims,,,,49.2602956,4.061439
+1110224953,way,,garden,Reims,,,,49.2605321,4.061786
+1110255163,way,,garden,Reims,,,,49.2605255,4.060638
+1110255164,way,,garden,Reims,,,,49.2605217,4.060728
+1110255165,way,,garden,Reims,,,,49.2604585,4.060633
+1110255166,way,,garden,Reims,,,,49.260455,4.0607228
+1110255167,way,,garden,Reims,,,,49.2603907,4.0606283
+1110255168,way,,garden,Reims,,,,49.2603875,4.0607175
+1110255169,way,,garden,Reims,,,,49.2603244,4.0606222
+1110255170,way,,garden,Reims,,,,49.260321,4.0607118
+1110255174,way,,garden,Reims,,,,49.2605765,4.0607292
+1110255175,way,,garden,Reims,,,,49.2605928,4.060611
+1110255179,way,,garden,Reims,,,,49.2606622,4.0608642
+1110255180,way,,garden,Reims,,,,49.2607491,4.0609937
+1110255184,way,,garden,Reims,,,,49.2602445,4.0608185
+1110255185,way,,garden,Reims,,,,49.2602479,4.0607128
+1110255186,way,,garden,Reims,,,,49.2602635,4.0609051
+1110493531,way,,garden,Reims,,,,49.2603799,4.0597615
+1110697996,way,,artwork,Reims,,,,49.2386848,4.0216009
+1112348170,way,,park,Reims,,,,49.2666868,3.9635942
+1112463847,way,,garden,Reims,,,,49.2570205,4.0608724
+1112463848,way,,garden,Reims,,,,49.2569673,4.0608621
+1112463849,way,,garden,Reims,,,,49.256901,4.0608203
+1112463850,way,,garden,Reims,,,,49.2568479,4.0607958
+1112463851,way,,garden,Reims,,,,49.2567815,4.0607909
+1112463852,way,,garden,Reims,,,,49.2567271,4.0607681
+1112463853,way,,garden,Reims,,,,49.256661,4.0607604
+1112463854,way,,garden,Reims,,,,49.2566072,4.0607513
+1112463855,way,,garden,Reims,,,,49.2564696,4.0607151
+1112463856,way,,garden,Reims,,,,49.2564156,4.0607052
+1114875766,way,,garden,Reims,,,,49.2581477,4.0630381
+1114875767,way,,garden,Reims,,,,49.2581434,4.0631595
+1114875768,way,,garden,Reims,,,,49.2580817,4.0630315
+1114875769,way,,garden,Reims,,,,49.2580149,4.0630249
+1114875770,way,,garden,Reims,,,,49.2579485,4.0630184
+1114875771,way,,garden,Reims,,,,49.2578811,4.0630117
+1114875772,way,,garden,Reims,,,,49.2580775,4.063153
+1114875773,way,,garden,Reims,,,,49.2580118,4.0631385
+1114875774,way,,garden,Reims,,,,49.2579452,4.0631296
+1114875775,way,,garden,Reims,,,,49.2578782,4.063116
+1114875791,way,,garden,Reims,,,,49.2583914,4.0620049
+1114875792,way,,garden,Reims,,,,49.258333,4.0624341
+1114875798,way,,garden,Reims,,,,49.2582309,4.0622243
+1114875799,way,,garden,Reims,,,,49.257978,4.0621952
+1116007909,way,,park,Reims,,,,49.2605744,3.98522
+1116010154,way,,park,Reims,,,,49.2141521,4.0977683
+1116975541,way,,park,Reims,,,,49.2619635,4.0436689
+1117658624,way,,garden,Reims,,,,49.2736782,4.0162469
+1117664072,way,,garden,Reims,,,,49.2742087,4.0169743
+1117664073,way,,garden,Reims,,,,49.2744722,4.0174107
+1117668724,way,,garden,Reims,,,,49.2727054,4.0160207
+1117668733,way,,garden,Reims,,,,49.2733583,4.0178109
+1117668735,way,,garden,Reims,,,,49.2730749,4.0171693
+1117673533,way,,garden,Reims,,,,49.2735118,4.0169534
+1117832648,way,,garden,Reims,,,,49.2733686,4.0160036
+1120436304,way,,garden,Reims,,,,49.2563289,4.0558957
+1120436305,way,,garden,Reims,,,,49.2562595,4.0559089
+1120436306,way,,garden,Reims,,,,49.2562085,4.0558481
+1120436307,way,,garden,Reims,,,,49.2561391,4.0558431
+1120436308,way,,garden,Reims,,,,49.2562731,4.0560277
+1120436309,way,,garden,Reims,,,,49.2562648,4.0561094
+1120436310,way,,garden,Reims,,,,49.2562482,4.0561898
+1120436311,way,,garden,Reims,,,,49.2562673,4.0562807
+1120436312,way,,garden,Reims,,,,49.2562431,4.0563591
+1120436313,way,,garden,Reims,,,,49.2562318,4.0564409
+1120436314,way,,garden,Reims,,,,49.2562157,4.0565195
+1120436315,way,,garden,Reims,,,,49.2562075,4.0565995
+1120436316,way,,garden,Reims,,,,49.2562253,4.0566848
+1120436317,way,,garden,Reims,,,,49.2562025,4.0567603
+1120436318,way,,garden,Reims,,,,49.2562044,4.0568469
+1120436319,way,,garden,Reims,,,,49.2562005,4.0569323
+1120436320,way,,garden,Reims,,,,49.2561603,4.0570025
+1120436321,way,,garden,Reims,,,,49.2561472,4.0570826
+1120436322,way,,garden,Reims,,,,49.2561595,4.0571694
+1120436323,way,,garden,Reims,,,,49.2560755,4.0573287
+1121080124,way,,garden,Reims,,,,49.2396485,4.0167583
+1121080125,way,,garden,Reims,,,,49.2396813,4.0167956
+1121080126,way,,garden,Reims,,,,49.2397177,4.0168516
+1121080127,way,,garden,Reims,,,,49.2397548,4.016909
+1121080128,way,,garden,Reims,,,,49.2398021,4.0169808
+1121080129,way,,garden,Reims,,,,49.2398584,4.0170666
+1121080130,way,,garden,Reims,,,,49.2399071,4.0171408
+1121080131,way,,garden,Reims,,,,49.2399468,4.0172003
+1121080132,way,,garden,Reims,,,,49.2400128,4.0170974
+1121080133,way,,garden,Reims,,,,49.2399736,4.017038
+1121080134,way,,garden,Reims,,,,49.2399248,4.0169635
+1121080135,way,,garden,Reims,,,,49.2398685,4.016878
+1121080136,way,,garden,Reims,,,,49.2398216,4.0168058
+1121080137,way,,garden,Reims,,,,49.2397597,4.0167089
+1121080138,way,,garden,Reims,,,,49.2401543,4.0170304
+1121080139,way,,garden,Reims,,,,49.2400982,4.0171286
+1121080140,way,,garden,Reims,,,,49.2400557,4.0171945
+1121080141,way,,garden,Reims,,,,49.2400134,4.0172604
+1121080142,way,,garden,Reims,,,,49.2399706,4.0173268
+1121080143,way,,garden,Reims,,,,49.2399034,4.0174172
+1123147807,way,,garden,Reims,,,,49.2388649,4.017393
+1123147808,way,,garden,Reims,,,,49.2390657,4.017245
+1123147809,way,,garden,Reims,,,,49.2391255,4.0173242
+1123147810,way,,garden,Reims,,,,49.2391661,4.0173873
+1123147811,way,,garden,Reims,,,,49.239207,4.0174492
+1123147812,way,,garden,Reims,,,,49.2392475,4.0175119
+1123147813,way,,garden,Reims,,,,49.2392885,4.0175741
+1123147814,way,,garden,Reims,,,,49.2393294,4.0176361
+1123147815,way,,garden,Reims,,,,49.2393699,4.0176985
+1123147816,way,,garden,Reims,,,,49.2394112,4.0177606
+1123148837,way,,garden,Reims,,,,49.2394904,4.0176382
+1123148838,way,,garden,Reims,,,,49.2394501,4.017576
+1123148839,way,,garden,Reims,,,,49.239409,4.0175147
+1123148840,way,,garden,Reims,,,,49.2393685,4.0174519
+1123148841,way,,garden,Reims,,,,49.2393275,4.0173898
+1123148842,way,,garden,Reims,,,,49.2392866,4.0173279
+1123148843,way,,garden,Reims,,,,49.239246,4.0172652
+1123148844,way,,garden,Reims,,,,49.2391731,4.017172
+1123155963,way,,garden,Reims,,,,49.2395197,4.0177367
+1123155964,way,,garden,Reims,,,,49.2395716,4.0178171
+1123155965,way,,garden,Reims,,,,49.2395039,4.0179188
+1123155966,way,,garden,Reims,,,,49.2394522,4.0178389
+1123155967,way,,garden,Reims,,,,49.2396168,4.0179116
+1123155968,way,,garden,Reims,,,,49.2395645,4.0179893
+1123155969,way,,garden,Reims,,,,49.2394812,4.0181203
+1123155970,way,,garden,Reims,,,,49.2394296,4.0182014
+1123155971,way,,garden,Reims,,,,49.2397521,4.0176757
+1123155972,way,,garden,Reims,,,,49.2396832,4.0177817
+1123155973,way,,garden,Reims,,,,49.2397173,4.0176228
+1123155974,way,,garden,Reims,,,,49.2396451,4.017513
+1123155975,way,,garden,Reims,,,,49.2393764,4.0181448
+1123155976,way,,garden,Reims,,,,49.2393053,4.0180363
+1123161798,way,,garden,Reims,,,,49.2388231,4.0184206
+1123161827,way,,garden,Reims,,,,49.2378867,4.018661
+1123161828,way,,garden,Reims,,,,49.2378411,4.0187301
+1123161829,way,,garden,Reims,,,,49.2377949,4.0188014
+1123161830,way,,garden,Reims,,,,49.2377494,4.0188713
+1123161831,way,,garden,Reims,,,,49.2377038,4.018938
+1123161832,way,,garden,Reims,,,,49.2376583,4.0190087
+1123161833,way,,garden,Reims,,,,49.2376118,4.0190789
+1123161834,way,,garden,Reims,,,,49.2375667,4.0191474
+1123161835,way,,garden,Reims,,,,49.2374629,4.0188498
+1123161836,way,,garden,Reims,,,,49.2375114,4.0187806
+1123161837,way,,garden,Reims,,,,49.2375658,4.0187072
+1123161838,way,,garden,Reims,,,,49.2376216,4.0186342
+1123161839,way,,garden,Reims,,,,49.2376701,4.0185691
+1123161840,way,,garden,Reims,,,,49.2377233,4.0184958
+1123182211,way,,park,Reims,,,,49.267469,4.0501885
+1123330500,way,,garden,Reims,,,,49.2411728,4.0155828
+1123367283,way,,garden,Reims,,,,49.2753359,4.0100269
+1123369121,way,,garden,Reims,,,,49.2760738,4.0109467
+1123407441,way,,garden,Reims,,,,49.2751335,4.0115738
+1123424317,way,,garden,Reims,,,,49.2749598,4.0100662
+1123424318,way,,garden,Reims,,,,49.2749726,4.0101554
+1123424319,way,,garden,Reims,,,,49.2749856,4.0102483
+1123424320,way,,garden,Reims,,,,49.2750023,4.0103409
+1123424321,way,,garden,Reims,,,,49.2750154,4.0104308
+1123424322,way,,garden,Reims,,,,49.275029,4.0105212
+1123424323,way,,garden,Reims,,,,49.2750411,4.0106136
+1123424324,way,,garden,Reims,,,,49.2750492,4.010701
+1123424325,way,,garden,Reims,,,,49.2749213,4.0103716
+1123424326,way,,garden,Reims,,,,49.2748579,4.0103848
+1123424327,way,,garden,Reims,,,,49.2747981,4.0104055
+1123424328,way,,garden,Reims,,,,49.2747361,4.0104248
+1123424329,way,,garden,Reims,,,,49.2749468,4.0105703
+1123424330,way,,garden,Reims,,,,49.2748881,4.01059
+1123424331,way,,garden,Reims,,,,49.2748273,4.01061
+1123424332,way,,garden,Reims,,,,49.274765,4.0106304
+1123424333,way,,garden,Reims,,,,49.2747042,4.0106494
+1123424334,way,,garden,Reims,,,,49.2746418,4.0106697
+1123424335,way,,garden,Reims,,,,49.2746748,4.0104451
+1123424336,way,,garden,Reims,,,,49.2745895,4.0104365
+1123424337,way,,garden,Reims,,,,49.2745053,4.010457
+1123424338,way,,garden,Reims,,,,49.2745804,4.0106899
+1123424339,way,,garden,Reims,,,,49.2745182,4.0107012
+1123424340,way,,garden,Reims,,,,49.2744304,4.010535
+1123424341,way,,garden,Reims,,,,49.2744566,4.0107216
+1123424342,way,,garden,Reims,,,,49.2743954,4.0107413
+1123424343,way,,garden,Reims,,,,49.2743685,4.0105557
+1123424344,way,,garden,Reims,,,,49.2743062,4.0105655
+1123424345,way,,garden,Reims,,,,49.2742461,4.0105788
+1123424346,way,,garden,Reims,,,,49.2741839,4.010599
+1123424347,way,,garden,Reims,,,,49.2741231,4.0106278
+1123424348,way,,garden,Reims,,,,49.2740631,4.0106669
+1123424349,way,,garden,Reims,,,,49.2740473,4.0108104
+1123424350,way,,garden,Reims,,,,49.2740601,4.0109025
+1123424351,way,,garden,Reims,,,,49.2740729,4.0109962
+1123424352,way,,garden,Reims,,,,49.2740909,4.0110868
+1123424353,way,,garden,Reims,,,,49.2741029,4.0111749
+1123424354,way,,garden,Reims,,,,49.2741519,4.0112897
+1123424355,way,,garden,Reims,,,,49.2741652,4.0114218
+1123424356,way,,garden,Reims,,,,49.2741514,4.0115516
+1123424357,way,,garden,Reims,,,,49.2741644,4.0116439
+1123424358,way,,garden,Reims,,,,49.2741822,4.0117351
+1123424359,way,,garden,Reims,,,,49.2741952,4.0118291
+1123424360,way,,garden,Reims,,,,49.2742083,4.011919
+1123424361,way,,garden,Reims,,,,49.274221,4.0120099
+1123424362,way,,garden,Reims,,,,49.2742279,4.0121016
+1123424363,way,,garden,Reims,,,,49.2742814,4.0122267
+1123424364,way,,garden,Reims,,,,49.2742952,4.0123501
+1123424365,way,,garden,Reims,,,,49.2742809,4.0124755
+1123424366,way,,garden,Reims,,,,49.2742937,4.0125692
+1123424367,way,,garden,Reims,,,,49.2743067,4.0126621
+1123424368,way,,garden,Reims,,,,49.2743236,4.0127489
+1123424369,way,,garden,Reims,,,,49.2743369,4.0128446
+1123424370,way,,garden,Reims,,,,49.2743507,4.0129443
+1123424371,way,,garden,Reims,,,,49.2743684,4.0130694
+1123424372,way,,garden,Reims,,,,49.2746446,4.0130528
+1123424373,way,,garden,Reims,,,,49.2745874,4.0130911
+1123424374,way,,garden,Reims,,,,49.2745305,4.013128
+1123424375,way,,garden,Reims,,,,49.2744831,4.0131654
+1123424376,way,,garden,Reims,,,,49.2744287,4.0132331
+1123424377,way,,garden,Reims,,,,49.2743995,4.0133953
+1123426021,way,,garden,Reims,,,,49.2751037,4.0112163
+1123426022,way,,garden,Reims,,,,49.275042,4.0112428
+1123426023,way,,garden,Reims,,,,49.2749819,4.0112628
+1123426024,way,,garden,Reims,,,,49.27492,4.011283
+1123426025,way,,garden,Reims,,,,49.2747979,4.0113167
+1123426026,way,,garden,Reims,,,,49.2747358,4.0113373
+1123426027,way,,garden,Reims,,,,49.2746741,4.0113578
+1123426028,way,,garden,Reims,,,,49.2746133,4.0113837
+1123426029,way,,garden,Reims,,,,49.2745521,4.0114037
+1123426030,way,,garden,Reims,,,,49.2744919,4.0114233
+1123426031,way,,garden,Reims,,,,49.274435,4.0114642
+1123426032,way,,garden,Reims,,,,49.2750174,4.0120076
+1123426033,way,,garden,Reims,,,,49.2749565,4.0120343
+1123426034,way,,garden,Reims,,,,49.274894,4.0120541
+1123426035,way,,garden,Reims,,,,49.2748322,4.0120733
+1123426036,way,,garden,Reims,,,,49.2747747,4.0120919
+1123426037,way,,garden,Reims,,,,49.2747129,4.0121032
+1123426038,way,,garden,Reims,,,,49.2746536,4.0121224
+1123426039,way,,garden,Reims,,,,49.2745944,4.0121405
+1123426040,way,,garden,Reims,,,,49.274648,4.0127164
+1123426041,way,,garden,Reims,,,,49.2747422,4.0127811
+1123426042,way,,garden,Reims,,,,49.2748026,4.0127493
+1123426043,way,,garden,Reims,,,,49.2749094,4.0127578
+1123426044,way,,garden,Reims,,,,49.2748538,4.0128204
+1123426045,way,,garden,Reims,,,,49.2748019,4.0128705
+1123426046,way,,garden,Reims,,,,49.2747378,4.0129288
+1123426047,way,,garden,Reims,,,,49.2753694,4.0124796
+1123426048,way,,garden,Reims,,,,49.2752937,4.0125803
+1123426049,way,,garden,Reims,,,,49.2752373,4.0126211
+1123426050,way,,garden,Reims,,,,49.2751763,4.0126622
+1123426051,way,,garden,Reims,,,,49.2751197,4.0127094
+1123426052,way,,garden,Reims,,,,49.2750606,4.0127517
+1123426053,way,,garden,Reims,,,,49.2750001,4.0127753
+1123442008,way,,garden,Reims,,,,49.2636006,4.0169797
+1123445182,way,,garden,Reims,,,,49.2635882,4.0179907
+1123737182,way,,garden,Reims,,,,49.278853,4.010302
+1123737190,way,,garden,Reims,,,,49.2802436,4.012662
+1123737195,way,,garden,Reims,,,,49.2795959,4.0123372
+1123983444,way,,garden,Reims,,,,49.2724023,4.0167462
+1123983445,way,,garden,Reims,,,,49.2725534,4.0166688
+1123983446,way,,garden,Reims,,,,49.2724913,4.0165737
+1123983447,way,,garden,Reims,,,,49.2724429,4.0164996
+1123983448,way,,garden,Reims,,,,49.2723974,4.0164242
+1123983449,way,,garden,Reims,,,,49.2723451,4.0163108
+1123995874,way,,garden,Reims,,,,49.2728549,4.0145038
+1126753519,way,,garden,Reims,,,,49.2640059,4.0593712
+1127333138,way,,garden,Reims,,,,49.262367,4.0572613
+1128225279,way,,garden,Reims,,,,49.2789805,4.0156057
+1128321799,way,,garden,Reims,,,,49.265485,4.0409856
+1128327413,way,,garden,Reims,,,,49.2657466,4.0454391
+1134945834,way,,garden,Reims,,,,49.2563423,4.0509596
+1134945835,way,,garden,Reims,,,,49.2563557,4.0508391
+1134945836,way,,garden,Reims,,,,49.2563155,4.0508769
+1134945837,way,,garden,Reims,,,,49.256268,4.0509507
+1134945838,way,,garden,Reims,,,,49.2562126,4.0509813
+1134945839,way,,garden,Reims,,,,49.2561552,4.051013
+1157053035,way,,park,Reims,,,,49.2577977,3.9924259
+1175113745,way,,garden,Reims,,,,49.2123019,4.0402143
+1175113746,way,,garden,Reims,,,,49.212405,4.0400027
+1175113747,way,,garden,Reims,,,,49.2124932,4.039775
+1175113748,way,,garden,Reims,,,,49.2125612,4.0396173
+1175113749,way,,garden,Reims,,,,49.2124319,4.0395764
+1175113750,way,,garden,Reims,,,,49.2124357,4.0394109
+1175113751,way,,garden,Reims,,,,49.2124189,4.0395943
+1175113752,way,,garden,Reims,,,,49.2123267,4.0396822
+1175113755,way,,garden,Reims,,,,49.2122435,4.0398761
+1175113760,way,,garden,Reims,,,,49.2121631,4.040069
+1175113761,way,,garden,Reims,,,,49.2125771,4.0390721
+1175113762,way,,garden,Reims,,,,49.2127155,4.0392629
+1187326341,way,,garden,Reims,,,,49.2655977,4.0323104
+1189843543,way,Verger conservatoire,park,Reims,,,,49.2469712,3.7594475
+1192066171,way,,memorial,Reims,,,,49.1419995,3.7367347
+1196487993,way,,garden,Reims,,,,49.1562655,4.0646249
+1199940010,way,,park,Reims,,,,49.2487346,4.2164521
+1202531964,way,,garden,Reims,,,,49.2586446,4.0447366
+1212112903,way,,park,Reims,,,,49.1774097,4.2189857
+1223157984,way,,garden,Reims,,,,49.1574143,4.063719
+1223157992,way,,garden,Reims,,,,49.1581279,4.0618413
+1223157993,way,,garden,Reims,,,,49.1580852,4.0613806
+1223158771,way,,garden,Reims,,,,49.1493337,4.0818114
+1223291639,way,,park,Reims,,,,49.2764391,4.0277537
+1251673889,way,,garden,Reims,,,,49.2605692,4.0236793
+1254179604,way,,memorial,Reims,,,,49.2563329,3.7367167
+1254952151,way,,garden,Reims,,,,49.2566014,4.0435787
+1255913742,way,,memorial,Reims,,,,49.2351258,3.7938747
+1257151204,way,,memorial,Reims,,,,49.2458996,3.876222
+1258338196,way,,memorial,Reims,,,,49.2956028,3.943846
+1258395487,way,,garden,Reims,,,,49.2923841,3.9576478
+1258395491,way,,garden,Reims,,,,49.2923997,3.9549641
+1258556526,way,,garden,Reims,,,,49.2964763,3.9560888
+1258968769,way,,garden,Reims,,,,49.2981818,3.95056
+1258968776,way,,garden,Reims,,,,49.2988424,3.9438986
+1258987332,way,,garden,Reims,,,,49.3113269,3.9462517
+1258987334,way,,garden,Reims,,,,49.3107342,3.9484211
+1260555619,way,,garden,Reims,,,,49.3123278,3.9602961
+1260555641,way,,garden,Reims,,,,49.3140784,3.9631067
+1262238787,way,,garden,Reims,,,,49.3301671,3.9072195
+1262976204,way,,park,Reims,,,,49.2503333,4.0475474
+1262976206,way,,park,Reims,,,,49.2498741,4.0467275
+1265114021,way,,park,Reims,,,,49.2736557,3.8925305
+1265465900,way,,garden,Reims,,,,49.2584175,4.045445
+1265465901,way,,garden,Reims,,,,49.2583122,4.045453
+1265465902,way,,garden,Reims,,,,49.258273,4.0455652
+1265465903,way,,garden,Reims,,,,49.2581832,4.0454498
+1265465904,way,,garden,Reims,,,,49.2581055,4.0456299
+1265465905,way,,garden,Reims,,,,49.2584045,4.045121
+1265465907,way,,garden,Reims,,,,49.2588791,4.0449149
+1265465908,way,,garden,Reims,,,,49.2589994,4.0449337
+1265465909,way,,garden,Reims,,,,49.2589816,4.0448446
+1266206435,way,,garden,Reims,,,,49.2591072,4.0453316
+1266926731,way,,memorial,Reims,,,,49.2685044,3.9728778
+1271383763,way,,garden,Reims,,,,49.3337431,3.9126999
+1274359174,way,,garden,Reims,,,,49.3670221,3.8998443
+1274359180,way,,garden,Reims,,,,49.3672488,3.8962641
+1274359188,way,,garden,Reims,,,,49.3666283,3.8860705
+1274359190,way,,garden,Reims,,,,49.3686901,3.8841944
+1275421047,way,,park,Reims,,,,49.2475728,3.9899099
+1275737417,way,,garden,Reims,,,,49.3499723,3.9175576
+1275738326,way,,garden,Reims,,,,49.3515963,3.924142
+1279561312,way,,memorial,Reims,,,,49.2370762,3.6957774
+1290631716,way,,garden,Reims,,,,49.2614753,4.0233605
+1294835643,way,Square Jean de La Fontaine,park,Reims,,,,49.2624096,4.099748
+1296005914,way,,park,Reims,,,,49.3072486,3.7030443
+1314503164,way,Square de la Liberté,park,Reims,,,,49.1653945,4.0463463
+1320133960,way,,park,Reims,,,,49.3659225,4.1683198
+1323213264,way,,park,Reims,,,,49.2111577,4.1005538
+1323247176,way,,park,Reims,,,,49.2411885,3.9574954
+1323250887,way,,park,Reims,,,,49.1579165,3.9122318
+1334211003,way,Pavillon Nicolas Ruinart,gallery,Reims,,,,49.2441663,4.0533261
+1395592569,way,Parc Roger Copitet,park,Reims,,,,49.234253,4.0465224
+1395671655,way,,park,Reims,,,,49.1741066,3.771897
+1415437221,way,Parc Sadi Lecointe,park,Reims,,,,49.256129,4.0659471
+1421967395,way,Fort-de-saint-thierry,ruins,Reims,,,https://www.saint-thierry.fr/association-du-fort-de-saint-thierry/,49.315538,3.9313705
+1432736942,way,,park,Reims,,,,49.2663711,4.0501498
+1433358251,way,Crêp Eat,restaurant,Reims,"4 Rue des Laps, 51350, Cormontreuil",51350,https://crepeat.com/,49.2140196,4.0464524
+1449459414,way,,park,Reims,,,,49.2501545,4.0099588
+1456730249,way,Le p'tit Léo,park,Reims,,,,49.2206389,4.0950376
+1456740359,way,François Mauriac,park,Reims,,,,49.2323562,4.004074
+1456883980,way,Place des Oliviers,restaurant,Reims,"19 Rue Jacques de la Giraudière, 51100, Reims",51100,https://www.placedesoliviers.fr/,49.2388174,4.0854393
+1486122700,way,,park,Reims,,,,49.3483212,4.2197449
+1486122715,way,Square Harmel,park,Reims,,,,49.3502072,4.2154882
+1494412553,way,,garden,Reims,,,,49.2327578,4.0925467
+2559771,relation,Château de Vaux Varennes,castle,Reims,,,,49.336766,3.856707
+3331965,relation,Monument aux morts des offensives d'avril 1917,memorial,Reims,,,,49.2020659,4.255202
+5905841,relation,Parc de loisir et de sport de la Croix Cordier,park,Reims,,,,49.2441766,3.988832
+9111153,relation,Square Hachette,park,Reims,,,,49.2862152,4.0121857
+17538369,relation,Parc Gilles Ferreira,park,Reims,,,,49.2127809,4.023973
+17766195,relation,,garden,Reims,,,,49.250244,4.0571148
+19482858,relation,Théorie du Chaos,artwork,Reims,,,,49.2432513,4.0632161

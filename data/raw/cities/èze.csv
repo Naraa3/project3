@@ -1,8 +1,13 @@
 osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+1395006348,node,,viewpoint,Èze,,,,43.7283055,7.3612737
 1395868617,node,Château Eza,hotel,Èze,,,,43.7276864,7.3609672
 1395868622,node,La Chèvre d'Or,hotel,Èze,,,,43.727424,7.3620834
+1584068012,node,Mont Bastide,viewpoint,Èze,,,,43.7300323,7.3501455
 2169413507,node,Hermitage Du Col D'Eze,restaurant,Èze,"1951 Avenue des Diables Bleus, 06360",06360,https://restaurant-le-v.com/,43.7314276,7.3415312
 2169413508,node,,hotel,Èze,,,,43.7315129,7.3416796
+2264703462,node,,viewpoint,Èze,,,,43.7284427,7.3627645
+2769480916,node,,monument,Èze,,,,43.7333992,7.3892653
+2935254886,node,,viewpoint,Èze,,,,43.72973,7.3595418
 3338961193,node,L'Antre Potes,restaurant,Èze,,,,43.7292974,7.3617797
 3943060842,node,L'Oliveto,restaurant,Èze,Boulevard du Maréchal Leclerc,,,43.7300036,7.3616692
 3943148925,node,La Villa d'Èze,restaurant,Èze,,,,43.7299474,7.3619883
@@ -17,9 +22,38 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3944245572,node,Le Mas Provencal,restaurant,Èze,,,,43.7305152,7.3627056
 4277224790,node,Anjuna Beach Resort,restaurant,Èze,"1 Avenue de la Liberté, 06360 Èze, Франция",,,43.7190601,7.3524336
 5592933935,node,La Table de Patrick Raingeard Eze,restaurant,Èze,,,https://www.capestel.com/en/restaurant/,43.7183276,7.3743999
+5863672792,node,,viewpoint,Èze,,,,43.7285924,7.3572466
+5863672793,node,,viewpoint,Èze,,,,43.7350009,7.3516076
+5863672794,node,,viewpoint,Èze,,,,43.7382642,7.3557045
 6635204700,node,Da Rossana,restaurant,Èze,"36 Basse Corniche, 06360",06360,,43.7192489,7.3513305
 6705097386,node,Food’Èze,restaurant,Èze,,,,43.7276447,7.3549475
+6705115885,node,,viewpoint,Èze,,,,43.7357051,7.366005
+6988768132,node,,viewpoint,Èze,,,,43.7275696,7.3549323
+8849152305,node,,viewpoint,Èze,,,,43.7352836,7.3718917
 9011293819,node,La Vieille Maison,restaurant,Èze,"18 Avenue de la Liberté, 06360",06360,,43.7224798,7.3563762
+9291100979,node,,viewpoint,Èze,,,,43.7355227,7.3778779
+9291100981,node,,viewpoint,Èze,,,,43.7355106,7.3759065
+9291100982,node,,viewpoint,Èze,,,,43.7353473,7.371051
+9291100983,node,,viewpoint,Èze,,,,43.7365334,7.3700961
+9291100984,node,,viewpoint,Èze,,,,43.7367,7.3698454
+9902444234,node,,viewpoint,Èze,,,,43.7267334,7.3436874
 9969679344,node,Deli',restaurant,Èze,5 Rue du Château,,,43.7280213,7.361535
 10937003735,node,Mets Vins Chics,restaurant,Èze,,,,43.7293741,7.3618269
+11033146685,node,,memorial,Èze,,,,43.7285903,7.3613778
 11403973249,node,La Campagne,restaurant,Èze,,,,43.7323165,7.3895759
+12558608646,node,,artwork,Èze,,,,43.7280983,7.3610548
+13183978218,node,,viewpoint,Èze,,,,43.729272,7.3577343
+13972156564,node,,viewpoint,Èze,,,,43.7231936,7.3458849
+62656399,way,Auberge de La Croix du Pape,restaurant,Èze,3054 Avenue des Diables Bleus,,,43.7358817,7.3504264
+62662193,way,Cap Estel,hotel,Èze,1312 Avenue Raymond Poincaré,,https://www.capestel.com/,43.7183193,7.3741043
+62664322,way,Parfumerie Fragonard,attraction,Èze,La Condamine,,https://www.fragonard.com/,43.7296853,7.3632923
+62665115,way,Eza Vista,hotel,Èze,"244 Avenue de Verdun, 06360",06360,,43.730503,7.3632013
+125628957,way,Château d'Èze,castle,Èze,,,,43.7283555,7.3612153
+324293457,way,,beach,Èze,,,,43.7217854,7.3576188
+432412956,way,,beach,Èze,,,,43.7203225,7.3673642
+771289584,way,,beach,Èze,,,,43.7176126,7.3508993
+771289585,way,,beach,Èze,,,,43.7194503,7.3532057
+772255206,way,Plage de Saint-Laurent d'Èze,beach,Èze,,,,43.7222538,7.3813427
+1034716582,way,Plage naturiste,beach,Èze,,,,43.7207436,7.3782276
+1035283729,way,,beach,Èze,,,,43.7203097,7.3772968
+11534199,relation,Jardin exotique d'Èze,attraction,Èze,"20 Rue du Château, 06360, Eze",06360,https://billetterie.jardinexotique-eze.fr,43.7282241,7.3612304

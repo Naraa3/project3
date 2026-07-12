@@ -1,0 +1,493 @@
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+296960429,node,Le Belvedere,restaurant,Bastia,,,,42.6017986,9.4970964
+464714624,node,Serra di Pigno,viewpoint,Bastia,,,,42.6953078,9.3998671
+670063242,node,,viewpoint,Bastia,,,,42.9745842,9.3647946
+836829032,node,Le Saint Antoine,restaurant,Bastia,,,,42.5413362,9.4420986
+836829048,node,L'Albizzia,restaurant,Bastia,,,,42.5270966,9.4404863
+905793717,node,L´Onda,restaurant,Bastia,,,,42.8879525,9.4730497
+908458310,node,Monument de Mineurs,memorial,Bastia,,,,42.9289407,9.4262983
+1128823705,node,Hôtel Napoléon,hotel,Bastia,"43 Boulevard Pascal Paoli, 20200",20200,,42.7016847,9.4503994
+1128823713,node,Hôtel Bonaparte,hotel,Bastia,,,,42.7031048,9.4508321
+1436384995,node,,viewpoint,Bastia,,,,42.7234545,9.4574169
+1436387612,node,,viewpoint,Bastia,,,,42.8513355,9.48522
+1436439080,node,,ruins,Bastia,,,,42.9666466,9.4555273
+1436439081,node,,viewpoint,Bastia,,,,42.9666638,9.4554772
+1436441938,node,,viewpoint,Bastia,,,,42.9745173,9.3648343
+1838787689,node,,restaurant,Bastia,,,,42.6960469,9.4492315
+2097691033,node,A Strega,restaurant,Bastia,,,,42.7742692,9.4760496
+2121778784,node,Hôtel Pineto,hotel,Bastia,,,,42.6339888,9.4664082
+2121778796,node,La Pagode,restaurant,Bastia,Lido de la Marana,,,42.6297106,9.4694626
+2121778801,node,Brasserie Pizzeria U Casone,restaurant,Bastia,,,,42.6154947,9.4787181
+2121778808,node,Hôtel Isola,hotel,Bastia,"Route des Marines de Borgo, 20290",20290,https://www.isolahotel.com/,42.6037664,9.4906554
+2121835834,node,Point-Chaud d'Ortale,restaurant,Bastia,,,https://www.point-chaud-dortale-restaurant-biguglia.fr/,42.593651,9.438243
+2121837349,node,Cala Bianca,hotel,Bastia,"Route des Marines de Borgo, 20290",20290,https://www.adonis-residence-borgo.com/,42.5976223,9.4965455
+2311279356,node,A Piazetta,restaurant,Bastia,,,,42.7741765,9.4756094
+2311279377,node,Le Pirate,restaurant,Bastia,,,,42.7741842,9.4764385
+2315744954,node,Thalassa,hotel,Bastia,,,https://www.hotelthalassa.fr/,42.7239309,9.4569607
+2359389513,node,BABBU Hôtel,hotel,Bastia,"Boulevard Pascal Paoli, 20200, Bastia",20200,,42.6979984,9.4493148
+2409069336,node,Brasserie Colomba,restaurant,Bastia,,,,42.6966358,9.4499851
+2409069337,node,Hôtel Central Bastia,hotel,Bastia,,,https://www.centralhotel.fr/,42.6994419,9.4492169
+2409069339,node,La Grotte,restaurant,Bastia,,,,42.697996,9.4503564
+2409069342,node,Tratoria Al Dente,restaurant,Bastia,,,,42.6962721,9.4495667
+2460422587,node,Isulottu,restaurant,Bastia,,,,42.9591826,9.3541016
+2467669192,node,,memorial,Bastia,,,,43.5609213,10.3171681
+2483371180,node,U Pozzu,hotel,Bastia,,,,42.8079051,9.4884348
+2483371524,node,Grazie Mille,restaurant,Bastia,,,,42.6973963,9.4514609
+2483371525,node,La Vinoteca di u Mercà,restaurant,Bastia,,,,42.6973332,9.4514394
+2483371526,node,Saveurs Lao,restaurant,Bastia,,,,42.6968197,9.4506052
+2483371527,node,A la Bottarga,restaurant,Bastia,,,,42.696796,9.4507125
+2483371531,node,Tratteria,restaurant,Bastia,,,,42.697688,9.4507729
+2501129851,node,Vincentello d'Istria,artwork,Bastia,,,,42.6287525,9.4375101
+2502758000,node,,artwork,Bastia,,,,42.7021826,9.4525047
+2504264100,node,,memorial,Bastia,,,,42.67202,9.4434978
+2504294889,node,Paul,restaurant,Bastia,,,,42.6234333,9.4374504
+2629173683,node,O'Lamparo,restaurant,Bastia,D80,,,42.887653,9.3345886
+3392554550,node,Le Sampiero,restaurant,Bastia,Place du Donjon,,,42.693094,9.4508995
+3397294250,node,La Boucherie,restaurant,Bastia,,,,42.6296774,9.4381443
+3422572915,node,,viewpoint,Bastia,,,,42.6412912,9.4513852
+3666091112,node,A Macciotta,restaurant,Bastia,,,,42.9659407,9.3511774
+3697659894,node,U Sant Antone,restaurant,Bastia,,,,42.83655,9.4802414
+4235498190,node,,restaurant,Bastia,,,,42.6971243,9.4520136
+4291432901,node,La Tour,viewpoint,Bastia,,,,42.7851536,9.3434745
+4328220189,node,,attraction,Bastia,,,,42.8160154,9.3415178
+4331502084,node,,viewpoint,Bastia,,,,42.7216867,9.4140919
+4340891889,node,El Campinca,restaurant,Bastia,,,,42.7638322,9.4684175
+4413025518,node,Monument commémoratif de Napoléon Ier,memorial,Bastia,,,,42.6998246,9.4509419
+4451916889,node,Wagon de Pizza,restaurant,Bastia,,,,42.5950364,9.4392071
+4460914455,node,,viewpoint,Bastia,,,,42.7720227,9.4626979
+4465022300,node,Babbu Café,restaurant,Bastia,,,,42.6969573,9.4495807
+4469072258,node,OResto!,restaurant,Bastia,,,,42.7009957,9.4499336
+4505172795,node,A Funtana,restaurant,Bastia,"15 Avenue Émile Sari, 20200",20200,,42.7047975,9.4521082
+4505172796,node,Pizzeria glacier Gino,restaurant,Bastia,"11 Avenue Émile Sari, 20200",20200,,42.7044377,9.4519895
+4584364566,node,Castello San Colombano,castle,Bastia,,,,42.950565,9.4112593
+4714233554,node,Le Bistrot du Marché,restaurant,Bastia,,,,42.6977363,9.4506253
+4714233555,node,Le A,restaurant,Bastia,,,,42.6972348,9.4514228
+4714233556,node,L'Ardoise,restaurant,Bastia,,,,42.6971383,9.4513919
+4714239757,node,Sushi My Karma,restaurant,Bastia,,,https://www.mykarmashop.com/,42.7023819,9.4508923
+4714239761,node,La piazza,restaurant,Bastia,Place Saint-Nicolas,,,42.700424,9.4505462
+4941137453,node,,viewpoint,Bastia,,,,42.9050854,9.372443
+4942122679,node,Ancien couvent d'Oveglia,ruins,Bastia,,,,42.8853196,9.423767
+4973245321,node,Coté Marine,restaurant,Bastia,,,,42.6965698,9.4504714
+5003003133,node,,viewpoint,Bastia,,,,42.6934233,9.4518957
+5003016138,node,Point de vue sur le port,viewpoint,Bastia,,,,42.6932791,9.4512813
+5205866334,node,,viewpoint,Bastia,,,,42.7064637,9.4084891
+5205866335,node,,viewpoint,Bastia,,,,42.6988096,9.428017
+5340333238,node,A Cantina,restaurant,Bastia,2 Boulevard Paoli,,,42.696069,9.4474296
+5354750824,node,Les Cédrats Du Cap Corse,museum,Bastia,,,https://www.lescedratsducapcorse.com,42.8757083,9.3417183
+5375046757,node,Buste de César Vezzani,artwork,Bastia,,,,42.697555,9.4480947
+5488262807,node,A Loghja,restaurant,Bastia,,,,42.6982979,9.4507124
+5600532523,node,La Corniche,hotel,Bastia,,,https://www.hotel-lacorniche.com,42.7347436,9.4343187
+5600534042,node,La Place,restaurant,Bastia,,,,42.7362976,9.4375821
+5622713610,node,,viewpoint,Bastia,,,,42.8457556,9.3295222
+5692466252,node,San Lorenzu,restaurant,Bastia,,,,42.6303814,9.4374529
+5699788014,node,,viewpoint,Bastia,,,,42.9748901,9.3621516
+5711318879,node,,restaurant,Bastia,,,,42.6978925,9.4521368
+5747760672,node,Castellu,hotel,Bastia,,,,42.5503525,9.4464329
+5747766240,node,Auberge Les Oliviers,hotel,Bastia,"Route de la Canonica, 20290, Lucciana",20290,https://www.auberge-lesoliviers.com/,42.537478,9.4725852
+5784728342,node,Torremare Hôtel-Restaurant,hotel,Bastia,,,,42.7412074,9.461339
+5801621655,node,,viewpoint,Bastia,,,,42.8637552,9.3370562
+5801914954,node,,viewpoint,Bastia,,,,42.9730186,9.3666303
+5801936353,node,,viewpoint,Bastia,,,,42.9740096,9.364725
+5807413022,node,Pub Concorde,restaurant,Bastia,,,,42.699927,9.4503668
+5807413229,node,L'Epica,restaurant,Bastia,,,,42.6964827,9.4509029
+5807430546,node,Café WHA!,restaurant,Bastia,,,,42.6964216,9.4509485
+5807431191,node,Karma,restaurant,Bastia,,,,42.6964513,9.4508055
+5807432911,node,Chez Huguette,restaurant,Bastia,,,,42.6957465,9.4495435
+5848244753,node,Hôtel L'Alivi,hotel,Bastia,,,https://hotel-alivi.com,42.7169922,9.4557463
+5848258485,node,L'Archipel,restaurant,Bastia,,,,42.7175252,9.4558966
+5983525574,node,A Casa Nostra,restaurant,Bastia,,,,42.5226522,9.4012178
+5983525575,node,Pizza Jean,restaurant,Bastia,"4414 Route des Marines de Borgo, 20290",20290,,42.5952713,9.4988348
+5983525578,node,Pizzeria Bar Glace,restaurant,Bastia,,,,42.5995342,9.4940375
+5983530644,node,La Trattoria,restaurant,Bastia,,,,42.6551975,9.4432864
+5983574169,node,Restaurant Pizzeria,restaurant,Bastia,,,,42.7201005,9.4540873
+5983576257,node,,hotel,Bastia,,,,42.7214223,9.4549146
+5983586832,node,U San Martinu,hotel,Bastia,122,,,42.7364309,9.4373448
+5983608547,node,Museum Dian'arte,museum,Bastia,Route des Marines de Borgo,,https://www.gabriel-diana.com/,42.6058217,9.488278
+6178128668,node,Brasserie de la Gare,restaurant,Bastia,,,,42.7023839,9.4487294
+6298090997,node,La Sassa,restaurant,Bastia,"Montée de la Tour, 20217",20217,,42.7848599,9.3435369
+6509622586,node,Mica Nome,restaurant,Bastia,"10 Rue Pino, 20200",20200,,42.6969446,9.4519533
+6511071386,node,A Cantina,restaurant,Bastia,,,,42.8886967,9.4751519
+6511095985,node,,viewpoint,Bastia,,,,42.7739546,9.4772889
+6697892045,node,L'Arenacciu,restaurant,Bastia,,,,43.006281,9.4019343
+6699836609,node,La Plage,restaurant,Bastia,,,,42.7761924,9.4773759
+6699836611,node,Le Grilladin,restaurant,Bastia,,,,42.7765397,9.4763986
+6700783182,node,u Fragnu,restaurant,Bastia,,,,42.775181,9.4767679
+6700783183,node,Ind'E Noi,restaurant,Bastia,,,,42.773958,9.4754119
+6700783184,node,La Terrasse,restaurant,Bastia,,,,42.7738914,9.4754216
+6700813686,node,L'Esquinade,restaurant,Bastia,20222,20222,,42.7742142,9.4762177
+6700881223,node,Demeure Castel Brando Hôtel & Spa,hotel,Bastia,20222,20222,http://www.castelbrando.com,42.7742257,9.4748271
+6742535344,node,Le Patio,restaurant,Bastia,"Avenue Sampiero Corso, 20600, Bastia",,,42.6641719,9.441859
+6749219563,node,,viewpoint,Bastia,,,,42.9599387,9.4245912
+6783320286,node,Vieux-Port de Bastia,attraction,Bastia,,,,42.6962224,9.4500042
+6783320287,node,Citadelle,attraction,Bastia,,,,42.6933474,9.4524199
+6789344685,node,,viewpoint,Bastia,,,,42.9859137,9.463491
+6904672157,node,,viewpoint,Bastia,,,,42.7260601,9.4129766
+6904833365,node,,viewpoint,Bastia,,,,42.9129401,9.3480593
+7642910088,node,,viewpoint,Bastia,,,,42.7850509,9.3457896
+7655630086,node,Stella Marina,hotel,Bastia,,,,42.9608361,9.4494227
+7659036085,node,U Lampione,restaurant,Bastia,"Port de Macinaggio, 20248",20248,,42.9594403,9.4527549
+7746463827,node,Hôtel Spa La Madrague,hotel,Bastia,,,,42.5431433,9.4694691
+7810696310,node,,memorial,Bastia,,,,42.8753046,9.4306751
+7810696323,node,Torra Masiena,restaurant,Bastia,,,,42.8713064,9.4780804
+7846932985,node,A Scaletta,restaurant,Bastia,4 Rue Saint-Jean,,,42.6966798,9.4502317
+7846933085,node,Boccafine,restaurant,Bastia,20217,20217,,42.7847319,9.3449244
+7899270885,node,,viewpoint,Bastia,,,,42.7303545,9.4450183
+7988360885,node,U Cavallu di Mare,restaurant,Bastia,,,,42.9657134,9.3490103
+8006945186,node,I Fioretti,hotel,Bastia,,,,42.8451788,9.3317862
+8026633932,node,,memorial,Bastia,,,,42.8969011,9.4048561
+8109853908,node,,ruins,Bastia,,,,42.6946039,9.4435027
+8296879565,node,La Renaissance,restaurant,Bastia,,,,42.7020807,9.4500398
+8296879567,node,Le Petit Montmartre,restaurant,Bastia,,,,42.7017804,9.4499429
+8303389343,node,U Paisanu,restaurant,Bastia,,,https://www.upaisanu.com,42.696606,9.4517651
+8319325265,node,Pub Concorde,restaurant,Bastia,,,,42.7000155,9.4500701
+8540541605,node,Village abandonné de Mata,ruins,Bastia,,,,42.8979496,9.455188
+8609969033,node,COMO Cucina healthy VG,restaurant,Bastia,"9 Rue Luce de Casabianca, 20200",20200,https://comocucina.fr/,42.7038052,9.4528418
+8902252175,node,Descente de la Gabella - Falata à a Gabella,attraction,Bastia,,,,42.6945426,9.4506612
+9014273272,node,Nova,restaurant,Bastia,,,,42.6972106,9.4492783
+9014719342,node,Le Mademoiselle,restaurant,Bastia,,,,42.6971519,9.4492881
+9069418571,node,Camping la pietra,restaurant,Bastia,,,,42.839286,9.4735697
+9081714695,node,Pascal Paoli,artwork,Bastia,,,,42.7848318,9.3449097
+9087651204,node,Philippe Leclerc de Hauteclocque,artwork,Bastia,,,,42.7026795,9.4480674
+9142490893,node,Ancienne carrière de marbre vert de mer du Bevinco,ruins,Bastia,,,,42.6099036,9.4332647
+9152844817,node,Geppeto,restaurant,Bastia,"1 Boulevard Général Giraud, 20200",20200,,42.6960733,9.4465088
+9163316033,node,,memorial,Bastia,,,,42.8766927,9.3550637
+9677424835,node,Le Vieux Moulin,hotel,Bastia,,,,42.9654825,9.3501552
+9768021688,node,,memorial,Bastia,,,,42.9445067,9.3663101
+9782095830,node,,memorial,Bastia,,,,42.9776996,9.3839479
+9782095833,node,,memorial,Bastia,,,,42.9261233,9.4513213
+9782095835,node,,memorial,Bastia,,,,42.845462,9.4271938
+9782095836,node,,memorial,Bastia,,,,42.8181863,9.4376937
+9782095837,node,,memorial,Bastia,,,,42.7746647,9.47463
+9782095840,node,,memorial,Bastia,,,,42.7115327,9.4351067
+9827325917,node,Bocca di Violu,viewpoint,Bastia,,,,42.8018514,9.3640806
+9887655720,node,Les chênes chez Victor,restaurant,Bastia,,,,42.8455663,9.4279347
+9891391895,node,A stalla,restaurant,Bastia,,,,42.7848661,9.3447429
+9896790177,node,Modern' Bar,restaurant,Bastia,26-27,,,42.5545404,9.4255782
+9901210787,node,,memorial,Bastia,,,,42.5546688,9.4296122
+10024699885,node,U Capezzu,restaurant,Bastia,Marina di Luri,,https://www.facebook.com/people/U-Capezzu/100057029967033/,42.8886961,9.4753964
+10236419522,node,,viewpoint,Bastia,,,,42.8000112,9.345327
+10236419523,node,Restaurant Morganti,restaurant,Bastia,,,https://www.restaurantmorganti.com/,42.8099896,9.3362665
+10280822073,node,Au Bon Clocher,hotel,Bastia,"20217, Canari",20217,https://restaurant-hotel-canari.fr/,42.8452001,9.3302374
+10281026909,node,,memorial,Bastia,,,,42.8451005,9.3311287
+10918373932,node,,viewpoint,Bastia,,,,42.9201001,9.4616795
+10944099675,node,A Casetta,restaurant,Bastia,,,,42.7750955,9.4757271
+10944099676,node,Les Américains,restaurant,Bastia,,,,42.7742527,9.4746491
+10945697971,node,Hôtel Marina d'Oro,hotel,Bastia,,,,42.9572728,9.4549335
+10945697972,node,Brasserie Uscalu,restaurant,Bastia,Rue des Pêcheurs,,,42.9577151,9.454117
+10991511005,node,,viewpoint,Bastia,,,,42.887383,9.4351184
+11018640541,node,Ottimo,restaurant,Bastia,,,,42.6960439,9.4495731
+11018640580,node,Corto,restaurant,Bastia,"1 Rue de la Marine, 20200",20200,https://www.whatiseat.com/fr/menu/corto/,42.6965762,9.4497764
+11018640623,node,La Soupière,restaurant,Bastia,,,,42.6930243,9.4517163
+11018640624,node,Chez Vincent,restaurant,Bastia,,,,42.6932441,9.4515111
+11018640625,node,Citadelle Bar,restaurant,Bastia,,,,42.6931854,9.4512503
+11045459105,node,Rest'O Paoli,restaurant,Bastia,,,,42.6962189,9.4476481
+11045459108,node,Le Palais,hotel,Bastia,,,,42.6961647,9.4475589
+11045459228,node,Posta Vecchia,hotel,Bastia,8 Rue Posta Vecchia,,https://www.hotel-posta-vecchia-bastia.com/,42.6977915,9.4521354
+11228559479,node,,restaurant,Bastia,,,,42.6838981,9.4445877
+11228574438,node,Sud Hotel,restaurant,Bastia,,,https://sudhotel-bastia.com/le-restaurant,42.6814711,9.4438237
+11228574439,node,Sud Hotel,hotel,Bastia,,,,42.6814929,9.4437048
+11515463619,node,,memorial,Bastia,,,,42.9548016,9.4174159
+11535296781,node,Stèle de Saint-Exupéry,memorial,Bastia,,,,42.5471371,9.4806728
+11582579672,node,,memorial,Bastia,,,,42.766838,9.3694255
+11606233190,node,,memorial,Bastia,,,,42.960213,9.3690459
+11813530371,node,A Pasterella,restaurant,Bastia,,,,42.8879799,9.474082
+11928306282,node,,viewpoint,Bastia,,,,42.7945428,9.4907925
+11928692241,node,,viewpoint,Bastia,,,,42.9240706,9.4605434
+11930366240,node,,viewpoint,Bastia,,,,42.9630584,9.3480163
+11933157552,node,,viewpoint,Bastia,,,,42.8563914,9.3371348
+12053849269,node,Chez Ade,restaurant,Bastia,"Place Louis Vincetti, 20600",20600,,42.6926715,9.4495439
+12062166141,node,Pont génois,attraction,Bastia,,,,42.8802684,9.4335065
+12070132169,node,Hotel Residence Lido Marana,hotel,Bastia,"Route du Stade, 20600",20600,,42.6544648,9.4426329
+12070154170,node,Hotel Ariana,hotel,Bastia,20200,20200,https://www.hotel-ariana.fr/,42.7440029,9.4626269
+12162223065,node,Delizia,restaurant,Bastia,,,,42.7032052,9.4502203
+12163120088,node,My Karma Traiteur,restaurant,Bastia,,,,42.7037861,9.4503418
+12207007674,node,Casa di è Scenze,museum,Bastia,,,,42.6788048,9.4399932
+12208796323,node,,ruins,Bastia,,,,42.698555,9.4280934
+12246009743,node,Brasserie L'Amiral,restaurant,Bastia,,,,42.7059435,9.4529257
+12511828901,node,Casamozza,restaurant,Bastia,,,,42.5246097,9.4441916
+12666553595,node,L'Arsenale,gallery,Bastia,,,,42.6930817,9.4505563
+12738731708,node,Bar de la marine,restaurant,Bastia,,,,42.8094512,9.335877
+12750512546,node,L'Aghja,restaurant,Bastia,,,,42.6799327,9.427846
+12779339001,node,Les Affranchis,restaurant,Bastia,,,,42.6932128,9.4513532
+12786959801,node,Mare E Monti,restaurant,Bastia,,,,42.6965723,9.4506001
+12840339101,node,Le Galion,restaurant,Bastia,,,,42.8099395,9.4891278
+12842638901,node,A Casaiola,restaurant,Bastia,,,,42.8115958,9.4895071
+12847320801,node,U San Martinu,restaurant,Bastia,,,https://www.ferme-usanmartinu.com/,42.810349,9.4673087
+12880994687,node,,memorial,Bastia,,,,42.658582,9.4138053
+12882250067,node,Mercure,hotel,Bastia,,,,42.5948082,9.4366215
+12884612075,node,,memorial,Bastia,,,,42.627448,9.4208649
+12930230982,node,,ruins,Bastia,,,,42.863917,9.4798276
+12953638367,node,,ruins,Bastia,,,,42.5663677,9.52423
+12964615382,node,,artwork,Bastia,,,,42.8196804,9.486452
+12964615400,node,,artwork,Bastia,,,,42.81706,9.4883651
+12964623202,node,,artwork,Bastia,,,,42.8178774,9.4863456
+13022892668,node,,viewpoint,Bastia,,,,42.7207432,9.4239403
+13022975502,node,U Libecciu,hotel,Bastia,"235 Strada di Foce, 20248",20248,https://www.u-libecciu.com/,42.9598051,9.4502994
+13026867854,node,L'ébistine,restaurant,Bastia,,,,42.6582545,9.41415
+13027263891,node,,memorial,Bastia,,,,42.7139849,9.4305545
+13027310338,node,,viewpoint,Bastia,,,,42.7167946,9.4435601
+13027310342,node,I Balconi di Campu Canicciu,attraction,Bastia,,,,42.7173685,9.4426264
+13027310356,node,,viewpoint,Bastia,,,,42.7166974,9.4444325
+13109260737,node,Pizza de la Gare,restaurant,Bastia,,,,42.7025056,9.4476132
+13110986911,node,Effet Mer,restaurant,Bastia,,,,42.837628,9.4791524
+13110986912,node,Les Chasseurs,hotel,Bastia,,,,42.8410997,9.4780457
+13110986913,node,La Vela,restaurant,Bastia,,,,42.8388892,9.4795937
+13110986914,node,Ferme Auberge l'Aghja,restaurant,Bastia,,,,42.8370857,9.476263
+13206372255,node,,viewpoint,Bastia,,,,42.9872877,9.460666
+13249714901,node,,viewpoint,Bastia,,,,42.9051604,9.3716738
+13251893653,node,Le Saïgon,restaurant,Bastia,,,,42.6953809,9.4501015
+13257228982,node,,ruins,Bastia,,,,42.9663572,9.4567322
+13286678801,node,A Storia,hotel,Bastia,,,,42.7015172,9.4478654
+13305928070,node,Le Vesuvio 2B,restaurant,Bastia,,,,42.5508168,9.4414877
+13357607900,node,,restaurant,Bastia,,,,43.5602705,10.3254291
+13376391196,node,Brasserie La Causerie,restaurant,Bastia,,,https://la-causerie.fr/,42.6541092,9.4425049
+13378149810,node,Restaurant Le 193,restaurant,Bastia,,,,42.6577364,9.4419418
+13383209672,node,Snack Aladdin,restaurant,Bastia,,,,42.673417,9.443095
+13384336662,node,Restaurant Pizzeria La Table chez Straboni,restaurant,Bastia,,,,42.702349,9.4510336
+13427439746,node,Restaurant Gourmet d'Asie,restaurant,Bastia,"1 Rue François Lota, 20290, Bastia",20290,https://www.corseweb.corsica/20718/bagnaja-grand-bastia/bastia/restaurant-gourmet-dasie-a-bastia/,42.6633198,9.4414565
+13435140601,node,Restaurant Pinellucciu Lasagnaria,restaurant,Bastia,10b Avenue Émile Sari,,,42.7046499,9.452319
+13439871901,node,adn,restaurant,Bastia,,,,42.7009533,9.4499905
+13446627988,node,Musée d'ethnographie de Bastia,museum,Bastia,,,http://musee.bastia.corsica/fr/accueil-885.html,42.6936827,9.4510328
+13451430214,node,Groot,restaurant,Bastia,,,,42.649115,9.4400127
+13452297838,node,Le Lancone,hotel,Bastia,,,,42.6212516,9.4366694
+13452297850,node,A Casa Manca,restaurant,Bastia,,,,42.6187852,9.4367663
+13453031554,node,,memorial,Bastia,,,,42.7035729,9.4451478
+13472977974,node,L'étudiant,restaurant,Bastia,,,,42.7032549,9.443513
+13641354477,node,Zebrus,restaurant,Bastia,,,,42.6959911,9.4470097
+13652780201,node,U Sant Agnellu,hotel,Bastia,"Piazza d'Olivo, 20247",20247,https://www.hotelusantagnellu.com/fr,42.9550433,9.4174281
+13667134228,node,Pizza Ficabruna,restaurant,Bastia,,,,42.6286138,9.4302128
+13667842532,node,Pizzeria Micka,restaurant,Bastia,,,,42.6379635,9.433601
+13669679354,node,Résidence hotel Oro Biancu,hotel,Bastia,,,,42.562498,9.5270157
+13669679357,node,Casa Livia,restaurant,Bastia,,,,42.5470411,9.5261373
+13701023974,node,La Table du Tavignanu,restaurant,Bastia,,,,42.5867081,9.4390078
+13703952402,node,Gioia,restaurant,Bastia,,,,42.709395,9.4551755
+13703972801,node,la Sirène,artwork,Bastia,,,,42.7055087,9.4543628
+13704000401,node,La Casbah,restaurant,Bastia,,,,42.7054477,9.4531594
+13732254701,node,Mercà,restaurant,Bastia,"Place du Marché, 20200",20200,,42.6967015,9.4512258
+13732293901,node,Le Conti,restaurant,Bastia,"9 Boulevard Général de Gaulle, 20200",20200,,42.7005354,9.4505731
+13756697046,node,U cicarnu,restaurant,Bastia,,,,42.5569024,9.4423976
+13761878841,node,,artwork,Bastia,,,,42.6950652,9.4491789
+13761878858,node,,artwork,Bastia,,,,42.6948417,9.44881
+13761878859,node,,artwork,Bastia,,,,42.6948436,9.4485034
+13761878860,node,,artwork,Bastia,,,,42.6948492,9.4484298
+13796600572,node,L’After Work,restaurant,Bastia,,,,42.5509322,9.4427138
+13796600593,node,Castellu,hotel,Bastia,146 Corsu di l'Aeroportu,,https://hotel-castellu.com/,42.5493801,9.4436997
+13821278712,node,,viewpoint,Bastia,,,,42.7679772,9.4682448
+13835969444,node,Univers,hotel,Bastia,,,,42.7021997,9.4502527
+13836129399,node,La teranga,restaurant,Bastia,,,,42.7020308,9.4491408
+13836133101,node,U san Petrone,restaurant,Bastia,,,,42.7018462,9.4494086
+13890857401,node,Sole è Frescu,restaurant,Bastia,,,,42.5256164,9.4108411
+13914277302,node,UPianuPianu,restaurant,Bastia,,,,42.88855,9.4749207
+13917939675,node,A Mugliarese,restaurant,Bastia,,,,42.8672628,9.3407158
+13935707901,node,Atelier Dixbis,gallery,Bastia,,,,42.6947117,9.4482728
+13936397001,node,Galerie d'art Noir et Blanc,gallery,Bastia,,,,42.6975995,9.4505846
+13936397002,node,,restaurant,Bastia,,,,42.696825,9.4519487
+13936407701,node,Chez Marnie,restaurant,Bastia,,,,42.6969895,9.4520061
+13936411201,node,A Piazzetta Vechju Portu,restaurant,Bastia,,,,42.6964301,9.4519301
+13936411202,node,La Rhumerie,restaurant,Bastia,,,,42.6964486,9.4518085
+13936435602,node,Lavezzi,restaurant,Bastia,,,,42.6966582,9.4504686
+13936439901,node,Col Tempo,restaurant,Bastia,,,,42.6966412,9.4502532
+13963010598,node,Rôtisserie de Furiani,restaurant,Bastia,,,,42.6559668,9.434205
+13970102171,node,Le Bouillon Bastiais,restaurant,Bastia,"Rue du Juge Falcone, 20200, Bastia",20200,https://www.bouillonbastiais.com/,42.7050875,9.4409843
+13994239401,node,Le Marina,restaurant,Bastia,,,,42.7038774,9.4534368
+33839421,way,Marine de Pietracorbara,beach,Bastia,,,,42.8388404,9.4802287
+78051184,way,Bastia,ruins,Bastia,,,,45.7095815,11.3178493
+122464016,way,Hôtel des Gouverneurs,hotel,Bastia,3 bis Rue des Turquines,,,42.6932709,9.4522792
+122464150,way,,castle,Bastia,,,,42.7012207,9.4276428
+122464463,way,Sole Meo,restaurant,Bastia,,,https://www.solemeo.com/,42.6680084,9.4469336
+122464497,way,Les Sables Rouges,restaurant,Bastia,,,,42.6732555,9.4451361
+122464537,way,Villa Lota,castle,Bastia,,,,42.7038402,9.4313031
+122464801,way,Le Sampiero,hotel,Bastia,,,,42.6639212,9.4417386
+122464904,way,Le Tempus,restaurant,Bastia,,,,42.6767292,9.4448078
+122464959,way,Best Western Montecristo-Bastia,hotel,Bastia,"20 Avenue Jean Zuccarelli, 20200",20200,https://bestwestern.fr/,42.7028555,9.4407446
+122465910,way,Hôtel Port Toga,hotel,Bastia,Ront Point de Toga,,,42.7071461,9.4527774
+122466631,way,Village Corse miniature,artwork,Bastia,,,,42.6912637,9.4520329
+122466949,way,Le Social,restaurant,Bastia,,,,42.6636123,9.4418745
+122467537,way,Hôtel Ostella,hotel,Bastia,Avenue Sampiero Corso,,,42.6676461,9.4407732
+122469205,way,Adonis Hotel Le Bastia,hotel,Bastia,,,,42.6974363,9.4450103
+130705514,way,,beach,Bastia,,,,42.6714465,9.4467904
+164353829,way,Château de Cenci,castle,Bastia,,,,42.8434415,9.3291325
+164354660,way,L'auberge Du Chat Qui Pêche,restaurant,Bastia,10 RD 80,,https://lechatquipeche.corsica/,42.8291225,9.3190245
+172113938,way,Tour Génoise d'Agnello,attraction,Bastia,,,,43.0099169,9.4270935
+172425159,way,Chez Auguste,restaurant,Bastia,,,,42.757843,9.4654216
+173053072,way,Jardin de l'Annonciade,park,Bastia,,,,42.7049022,9.444448
+193185392,way,,park,Bastia,,,,43.5604794,10.3208073
+208353715,way,Plage de Nonza,beach,Bastia,,,,42.7921036,9.3443917
+210573298,way,,beach,Bastia,,,,42.8867082,9.4737831
+210580685,way,Plage de Macinaggio,beach,Bastia,,,,42.9637053,9.4525387
+223689821,way,Maison de la Bottarga,restaurant,Bastia,"Strada di a Laguna, 20600, Furiani",20600,https://bottarga.corsica/restaurants-maison-de-la-bottarga/,42.6553241,9.442453
+238190082,way,,beach,Bastia,,,,42.9609631,9.3500204
+238202650,way,,beach,Bastia,,,,42.6274023,9.4726369
+242653495,way,,garden,Bastia,,,,42.5945512,9.4386669
+242653496,way,,garden,Bastia,,,,42.628749,9.4375089
+243243604,way,,garden,Bastia,,,,42.6856004,9.4462369
+243337611,way,,beach,Bastia,,,,42.6639454,9.4488073
+243868100,way,Glacère Nivera Nova,attraction,Bastia,,,,42.7238985,9.4186559
+257356987,way,Alisu,beach,Bastia,,,,42.9244666,9.3618756
+266245827,way,Bee House,restaurant,Bastia,,,,42.6443112,9.4392169
+266245842,way,Rico et les pirates,theme_park,Bastia,,,https://www.ricoetlessuperheros.fr/,42.6469622,9.4411011
+266246049,way,Écomusée du Fortin,museum,Bastia,,,https://www.maranagolo-tourisme.com/activite/ecomusee-du-fortin/,42.6413881,9.4512603
+266246495,way,Igesa La MARANA,hotel,Bastia,,,https://www.igesa.fr/vos-vacances/recherche-sejour/reserver-mes-vacances/etablissement/corse-village-club-la-marana,42.6442557,9.4583164
+273051124,way,Baracataggio,beach,Bastia,,,,42.8001142,9.3408931
+273051128,way,,beach,Bastia,,,,42.7601757,9.3400047
+273051131,way,,beach,Bastia,,,,42.8043518,9.3381057
+273051135,way,,beach,Bastia,,,,42.80976,9.3334504
+285012657,way,,ruins,Bastia,,,,42.5390094,9.4955167
+303473684,way,A Cala,restaurant,Bastia,,,,43.0055203,9.4112509
+303473688,way,Plage de Cala,beach,Bastia,,,,43.0070356,9.4134119
+303473689,way,,beach,Bastia,,,,43.0056769,9.4091318
+303482232,way,,restaurant,Bastia,,,,43.0055354,9.4045048
+307603643,way,U paradisu,restaurant,Bastia,,,,42.9745335,9.4539745
+307603645,way,Tour de Santa-Maria-della-Chiappella,attraction,Bastia,,,,42.9908255,9.4518209
+321439703,way,Hôtel Restaurant de la Lagune Lucciana,hotel,Bastia,,,https://www.hotel-la-lagune.com/fr/,42.5481224,9.5309674
+321447258,way,A Canonica,restaurant,Bastia,,,,42.5399737,9.4927151
+321459583,way,Hôtel Poretta,hotel,Bastia,Route de l'aéroport,,https://www.hotel-poretta.com/,42.5511331,9.4658277
+321459693,way,Bleu comme un jardin,restaurant,Bastia,,,https://www.facebook.com/Bleu-Comme-Un-Jardin-192294878073930/,42.5515837,9.4663229
+321459749,way,Le S'yntex,restaurant,Bastia,,,,42.5501233,9.4650652
+321459817,way,L'Escale,restaurant,Bastia,,,,42.5508653,9.4650619
+321468066,way,Pizzeria U Fornu,restaurant,Bastia,,,,42.5273198,9.4416871
+321468165,way,L'Agnone,restaurant,Bastia,,,,42.5475517,9.4416658
+334870797,way,Casabianca,attraction,Bastia,,,,42.7016426,9.4522548
+335255145,way,Square Nelson Mandela,park,Bastia,Rue du capitaine then,,,42.6737276,9.4382006
+356906028,way,,garden,Bastia,,,,42.5510134,9.4660176
+356906029,way,,garden,Bastia,,,,42.5508357,9.4655711
+356906031,way,,garden,Bastia,,,,42.5509933,9.4658185
+356906032,way,,garden,Bastia,,,,42.5510602,9.4657781
+361862194,way,Palais des Gouverneurs,castle,Bastia,,,,42.6936604,9.4510555
+369806230,way,,beach,Bastia,,,,42.5306166,9.5335613
+376272939,way,Plage de Scalo,beach,Bastia,,,,42.9123159,9.3475303
+385571558,way,,beach,Bastia,,,,42.8899831,9.4742276
+386621166,way,Pietra Cinta,hotel,Bastia,20275,20275,,43.0059497,9.4021842
+387801835,way,,beach,Bastia,,,,43.0067554,9.3896499
+388927202,way,Hôtel le Saint-Jean,hotel,Bastia,,,,42.976321,9.3805635
+390137333,way,,beach,Bastia,,,,43.004452,9.3732769
+391734718,way,Le Langoustier,restaurant,Bastia,,,,42.9662855,9.3496645
+391734728,way,La Bella Vista,restaurant,Bastia,,,,42.96629,9.3502971
+391773450,way,Du Pecheur,restaurant,Bastia,,,,42.9658859,9.3510456
+393002618,way,La Jetée,hotel,Bastia,,,,42.9655776,9.3489405
+393002647,way,U Marinaru,hotel,Bastia,,,,42.9658062,9.3531053
+399582975,way,Plage de la Marana,beach,Bastia,,,,42.5726709,9.5202708
+405007877,way,,beach,Bastia,,,,42.866389,9.3405839
+414093715,way,,hotel,Bastia,,,,42.9467345,9.4468481
+419840767,way,,beach,Bastia,,,,42.876535,9.4731629
+425934136,way,,ruins,Bastia,,,,42.9561343,9.4135451
+435217651,way,Bocca di Santa Maria,ruins,Bastia,,,,42.7781183,9.4151479
+439015858,way,,castle,Bastia,,,,42.9580545,9.3662403
+439715917,way,,beach,Bastia,,,,42.7643328,9.4682246
+443385210,way,,park,Bastia,,,,42.7116655,9.4339909
+443579280,way,,beach,Bastia,,,,42.7120374,9.455042
+443580535,way,,beach,Bastia,,,,42.7574613,9.4656228
+443762661,way,,monument,Bastia,,,,42.7013483,9.4514618
+443762981,way,,memorial,Bastia,,,,42.7013477,9.451474
+443764775,way,,monument,Bastia,,,,42.699819,9.4509447
+443764777,way,,memorial,Bastia,,,,42.6998199,9.4509424
+449000408,way,Tour,ruins,Bastia,,,,42.7794796,9.4590917
+449124638,way,Ancien couvent,ruins,Bastia,,,,42.7761233,9.4635402
+453495564,way,Cors'Hôtel,hotel,Bastia,,,,42.6264609,9.4392619
+453495580,way,L'Atellu,restaurant,Bastia,,,,42.6203159,9.4372867
+459361409,way,Jardin Romieu,garden,Bastia,,,,42.6941249,9.4511391
+503369804,way,,beach,Bastia,,,,42.9266154,9.3598241
+503830777,way,,beach,Bastia,,,,42.9228945,9.3596614
+536367197,way,,ruins,Bastia,,,,42.8268309,9.4301074
+536367198,way,,ruins,Bastia,,,,42.8269071,9.4300957
+588744896,way,Tour de Miomo,attraction,Bastia,,,,42.7414829,9.4617377
+590087366,way,Musée archéologique de Mariana,museum,Bastia,,,https://www.musee-mariana.com,42.5420443,9.4967438
+593976414,way,Château Cagninacci,castle,Bastia,,,,42.7381134,9.4327295
+595185758,way,Pietracap,hotel,Bastia,,,,42.7215935,9.451699
+597003175,way,,ruins,Bastia,,,,42.9276417,9.4156632
+597424542,way,Moulin Procaccini,attraction,Bastia,,,,42.9518446,9.3551463
+597424545,way,Moulin Ghielfucci,attraction,Bastia,,,,42.950897,9.3574033
+597565366,way,Château Fantauzzi,castle,Bastia,,,,42.9477437,9.3661564
+598238856,way,Vela d'Oro,restaurant,Bastia,,,,42.9577677,9.4536999
+598238903,way,U Culombu,restaurant,Bastia,,,,42.9591926,9.4528702
+598313684,way,Château Stoppielle,castle,Bastia,,,,42.970887,9.3603718
+598445620,way,Palazzu de Francesco Semidei,castle,Bastia,,,,42.9608241,9.3682654
+608021847,way,La Paillote,restaurant,Bastia,,,,42.6729087,9.4456202
+610057932,way,Plage de Cala Genovese,beach,Bastia,,,,42.9916626,9.4483458
+610057933,way,Plage de Cala Francese,beach,Bastia,,,,42.9944435,9.4432603
+610057934,way,Plage de Tamarone,beach,Bastia,,,,42.9753342,9.4551572
+628661540,way,,beach,Bastia,,,,42.9625097,9.3491205
+634384481,way,Chapelle San Michele Vecchiu,ruins,Bastia,,,,42.8922707,9.3931601
+656322993,way,Le Farniente,restaurant,Bastia,,,,42.7602023,9.3401749
+656502075,way,Pont génois de Conchigliu,attraction,Bastia,,,,42.8630093,9.3505952
+656502077,way,,ruins,Bastia,,,,42.8640346,9.3528449
+656538662,way,Piazza François Mattei,park,Bastia,,,,42.7090926,9.4535215
+669230503,way,,garden,Bastia,,,,42.6712065,9.4425173
+669230504,way,,garden,Bastia,,,,42.6725895,9.4370778
+669237025,way,,garden,Bastia,,,,42.6800212,9.4418795
+669489058,way,Plage de Grisgione - Arinella di Grisgione,beach,Bastia,,,,42.7337203,9.4613256
+669490824,way,,beach,Bastia,,,,42.7185765,9.4558281
+669525719,way,,garden,Bastia,,,,42.5494163,9.4420493
+669529912,way,,garden,Bastia,,,,42.5193404,9.4401269
+677121581,way,Guarded beach,beach,Bastia,,,,42.740839,9.4616921
+677121619,way,Pont Génois Guadubughjj,attraction,Bastia,,,,42.8412761,9.4204557
+684833110,way,Stèle commémorative du 5 mai 1992,memorial,Bastia,,,,42.6524875,9.4425921
+694332326,way,Plage de îles,attraction,Bastia,,,,42.9843661,9.4622013
+750731585,way,U Misincu,hotel,Bastia,,,,42.8742424,9.4720974
+775733319,way,Spaziu Mantinum,park,Bastia,,,,42.6935367,9.4515839
+799415223,way,,garden,Bastia,,,,43.5612817,10.3209678
+799415224,way,,garden,Bastia,,,,43.5605536,10.3208342
+799415289,way,,garden,Bastia,,,,43.5611283,10.3203629
+799415290,way,,garden,Bastia,,,,43.5608274,10.3209867
+852158949,way,,beach,Bastia,,,,42.5386074,9.5335286
+852158963,way,,beach,Bastia,,,,42.5483731,9.5314252
+856946510,way,,garden,Bastia,,,,42.9121157,9.3598486
+862361989,way,,beach,Bastia,,,,42.7206824,9.4561798
+871768592,way,Parc Luccianella,park,Bastia,,,,42.6397954,9.4339058
+873300734,way,,ruins,Bastia,,,,42.6827796,9.4115617
+873300735,way,,ruins,Bastia,,,,42.6822575,9.4120655
+873300736,way,,ruins,Bastia,,,,42.6827026,9.411968
+873300737,way,,ruins,Bastia,,,,42.6829713,9.4115311
+873300738,way,,ruins,Bastia,,,,42.6823136,9.4116884
+873300739,way,,ruins,Bastia,,,,42.6825384,9.4120775
+873300740,way,,ruins,Bastia,,,,42.6826977,9.4112021
+873300741,way,,ruins,Bastia,,,,42.6825427,9.4112719
+873300742,way,,ruins,Bastia,,,,42.6824785,9.411392
+873300743,way,,ruins,Bastia,,,,42.6824581,9.411649
+873300757,way,Boulodrome,park,Bastia,,,,42.6772105,9.4399969
+889644553,way,Moulin Mattei,attraction,Bastia,,,,42.9745913,9.3647978
+895894592,way,Parc de Fornacina,park,Bastia,,,,42.6427382,9.4447057
+971140146,way,,beach,Bastia,,,,42.8091658,9.4899901
+989187547,way,Jardin de la villa Lota,garden,Bastia,,,,42.7037134,9.4313595
+1079685477,way,,memorial,Bastia,,,,42.5543533,9.4255454
+1087773699,way,Square Albert 1er,park,Bastia,,,,42.6975587,9.452331
+1087981941,way,Arboretum Ortu Cardoni,garden,Bastia,,,,42.7085906,9.4379566
+1097293324,way,,beach,Bastia,,,,43.0078985,9.3874258
+1102070607,way,"Jardin Pécunia ""Arboretum de Lupino""",park,Bastia,,,,42.6829669,9.4410301
+1178107798,way,,park,Bastia,,,,42.7745925,9.4751383
+1185847395,way,Scala di l'Ortu,garden,Bastia,,,,42.6815776,9.4437189
+1185847500,way,Square Favalelli,garden,Bastia,,,,42.6969537,9.4470091
+1185847517,way,Jardin du Chiostro,garden,Bastia,,,,42.6915855,9.4513808
+1185847520,way,,garden,Bastia,,,,42.7012278,9.4272801
+1185847937,way,,park,Bastia,,,,42.6772736,9.4450114
+1185847945,way,Plage de Ficaghjola,beach,Bastia,,,,42.6899385,9.4479458
+1186313044,way,,garden,Bastia,,,,42.6976151,9.4502867
+1186313064,way,,garden,Bastia,,,,42.6867596,9.4450551
+1195095303,way,,garden,Bastia,,,,42.6950314,9.449981
+1195095321,way,,garden,Bastia,,,,42.6949805,9.4476539
+1202655706,way,Place de l'Hôtel de Ville,park,Bastia,,,,42.6187231,9.4360971
+1233553847,way,Parc du Guadello,park,Bastia,,,,42.6944816,9.4433294
+1233553848,way,,park,Bastia,,,,42.6928592,9.4458751
+1233553849,way,Parc Forte à A Croce,park,Bastia,,,,42.6927677,9.4422554
+1238978842,way,,park,Bastia,,,,42.7144986,9.4525035
+1239543040,way,,ruins,Bastia,,,,42.9516585,9.4102842
+1246202176,way,,ruins,Bastia,,,,42.8979127,9.4547548
+1252162241,way,,garden,Bastia,,,,42.9067314,9.350762
+1377055444,way,,park,Bastia,,,,42.6795014,9.4328718
+1382883438,way,,park,Bastia,,,,42.5959257,9.4340928
+1382883439,way,,park,Bastia,,,,42.5942879,9.4315267
+1383072267,way,,park,Bastia,,,,42.6268656,9.430777
+1395341814,way,,park,Bastia,,,,42.6152748,9.4297685
+1395341822,way,,park,Bastia,,,,42.6229357,9.4348404
+1409690009,way,Tour de Giottani,ruins,Bastia,,,,42.8676292,9.3396527
+1411101959,way,Tour de Castellare,ruins,Bastia,,,,42.8336026,9.4814567
+1423536973,way,,beach,Bastia,,,,42.647429,9.4582654
+1426098861,way,,garden,Bastia,,,,42.6938027,9.4402131
+1457834456,way,Tour de Capo Sagro,ruins,Bastia,,,,42.7947417,9.4910461
+1459293501,way,,garden,Bastia,,,,42.6745877,9.443725
+1466796769,way,,garden,Bastia,,,,42.7035978,9.445264
+1470874269,way,Paillotte Grisgione,restaurant,Bastia,,,,42.7336551,9.461059
+1503731321,way,,garden,Bastia,,,,42.6958155,9.448331
+1529435042,way,,beach,Bastia,,,,42.9650208,9.3482759
+1673465,relation,Palais de Justice,castle,Bastia,,,,42.6952392,9.4459879
+7363247,relation,Casa Strenna,attraction,Bastia,,,,42.9747378,9.3783813

@@ -1,10 +1,13 @@
-osm_id,osm_type,name,category,city,address,post code,website,lat,lon
+osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+279871021,node,Écluses de Fonserannes,attraction,Béziers,,,,43.3303002,3.1986383
 317901840,node,La Terrasse,restaurant,Béziers,,,,43.3122972,3.3641955
+366986145,node,Roc Suzadou,viewpoint,Béziers,,,,43.4192781,2.6224616
+388261494,node,Gorges de la Cesse,viewpoint,Béziers,,,,43.3553935,2.6806735
 425698210,node,L'Ellispe,restaurant,Béziers,,,,43.2847806,3.445475
 425698218,node,Au Grau Coquillage,restaurant,Béziers,Place de la République,,,43.2849161,3.4460213
 425698223,node,Bella Vita,restaurant,Béziers,7 bis Quai Commandant Meric,,,43.2839731,3.4448697
-425698270,node,Les Ondines,restaurant,Béziers,"1 Boulevard du Front de Mer, Agde",,,43.2831463,3.4448469
-427696051,node,Le Grand Café,restaurant,Béziers,"1 Avenue de Cassan, Roujan",,,43.5051848,3.3101604
+425698270,node,Les Ondines,restaurant,Béziers,"1 Boulevard du Front de Mer, 34300, Agde",34300,,43.2831463,3.4448469
+427696051,node,Le Grand Café,restaurant,Béziers,"1 Avenue de Cassan, 34320, Roujan",34320,,43.5051848,3.3101604
 428589538,node,Hôtel Le Languedoc,hotel,Béziers,,,,43.307909,3.4796271
 429711397,node,La Pergola,restaurant,Béziers,8 Passage des Boutiques,,,43.2846228,3.4449117
 429711398,node,Le Bahia,restaurant,Béziers,1 Quai Commandant Meric,,,43.284462,3.4448373
@@ -13,14 +16,17 @@ osm_id,osm_type,name,category,city,address,post code,website,lat,lon
 429711773,node,Les Amandiers,hotel,Béziers,,,,43.3112297,3.4820019
 429711774,node,Saigon,restaurant,Béziers,,,,43.3110595,3.4816521
 429711790,node,Giacomo,restaurant,Béziers,5 Rue de l'Hotel du Cheval Blanc,,,43.3139934,3.4686623
-431074753,node,Latitude 43 By Les P’tits Potes,restaurant,Béziers,"1 Place Neuve, Magalas",,,43.4713614,3.2225047
+429711792,node,Galerie des peintres agathois,gallery,Béziers,,,,43.313606,3.467922
+431074753,node,Latitude 43 By Les P’tits Potes,restaurant,Béziers,"1 Place Neuve, 34480, Magalas",34480,,43.4713614,3.2225047
 431074757,node,La Tramontane,restaurant,Béziers,,,,43.4716497,3.2229768
 431216195,node,Auberge du Caroux,restaurant,Béziers,,,,43.5669333,2.9595292
+431216222,node,,viewpoint,Béziers,,,,43.6433046,2.9674319
 431418841,node,L'Horizon,restaurant,Béziers,,,,43.2830529,3.4479624
-431419318,node,Hôtel Araur,hotel,Béziers,"1 Avenue de Vias, Agde",,https://www.hotelaraur.com/,43.3142708,3.4672654
+431419318,node,Hôtel Araur,hotel,Béziers,"1 Avenue de Vias, 34300, Agde",34300,https://www.hotelaraur.com/,43.3142708,3.4672654
 431419322,node,La Chaumière,hotel,Béziers,,,,43.3105137,3.4640422
 431419324,node,Le K' Lamar,restaurant,Béziers,,,,43.286342,3.4432066
 431580144,node,Le Plazza,restaurant,Béziers,,,,43.312639,3.4705755
+432451555,node,Memoire de Comte Sandricourt,memorial,Béziers,,,,43.3145932,3.4695278
 432451556,node,Bar Brasserie Le Commerce,restaurant,Béziers,,,,43.3143794,3.4697494
 432451557,node,La Calade,restaurant,Béziers,,,,43.3150979,3.4707357
 461306899,node,Lou Pas d'Oc,restaurant,Béziers,,,,43.2631271,3.3257423
@@ -32,12 +38,20 @@ osm_id,osm_type,name,category,city,address,post code,website,lat,lon
 497527728,node,Les Palmiers,restaurant,Béziers,10 bis,,https://lespalmiers.restaurant/,43.4607697,3.423482
 500265421,node,La Rapière,restaurant,Béziers,,,,43.6155501,3.1597629
 608446629,node,Domaine de Saint-Apolis,hotel,Béziers,Saint-Apolis,,,43.414167,3.4371004
+610182047,node,,viewpoint,Béziers,,,,43.2747419,3.5149374
 617404213,node,Campanile,hotel,Béziers,,,,43.3341046,3.2763786
 618441172,node,Première classe,hotel,Béziers,1 Rue de l'Acropole,,,43.3337344,3.2756808
 627069352,node,Le Terminus,restaurant,Béziers,,,,43.3516914,2.9539861
 630483382,node,Le Vieux Logis,restaurant,Béziers,,,,43.3137652,3.4189449
 630486994,node,L'Amandine,restaurant,Béziers,,,,43.312517,3.418324
+687618111,node,,viewpoint,Béziers,,,,43.5999911,3.0147741
+693151716,node,,viewpoint,Béziers,,,,43.5517372,2.7917599
+700728781,node,Honoré de Balzac,artwork,Béziers,,,,43.2842306,3.5146099
+721061288,node,Grotte de la Devèze,attraction,Béziers,,,,43.4738559,2.7131791
 721432284,node,Auberge au Fil de l'Eau,hotel,Béziers,,,,43.5568461,2.9120139
+725587453,node,Pic de Tantajo,viewpoint,Béziers,,,,43.5957859,3.1644753
+725587456,node,,ruins,Béziers,,,,43.5943934,3.1601186
+766570357,node,Chapelle de la Dourque,viewpoint,Béziers,,,,43.4886291,2.9060985
 766570820,node,Auberge,restaurant,Béziers,,,,43.4852882,2.8978204
 793900476,node,Pizzeria Le Triangle,restaurant,Béziers,,,,43.2336737,3.2597695
 836310509,node,Le Balcon,restaurant,Béziers,,,,43.6008224,2.7041669
@@ -45,77 +59,141 @@ osm_id,osm_type,name,category,city,address,post code,website,lat,lon
 862169924,node,Bar & Brasserie Le Figuier,restaurant,Béziers,,,,43.3165091,2.6364252
 881197182,node,Le Petit Nice,restaurant,Béziers,,,,43.5002663,3.0300584
 910829219,node,La Gardianne,restaurant,Béziers,,,,43.2908144,3.3624512
+964798392,node,,viewpoint,Béziers,,,,43.5925495,3.1407996
+965382618,node,Château de Mourcairol,ruins,Béziers,,,,43.5705472,3.1007179
+1036995973,node,Ruines de moulin à vent,ruins,Béziers,,,,43.4541981,3.2282691
+1045839827,node,Monument aux morts de la 1ère guerre mondiale,memorial,Béziers,,,,43.5938774,3.1146201
+1166236106,node,Éspace d’Art Contemporain,museum,Béziers,,,https://www.grandorb.fr/Musees/Maison-des-Arts/5/4337.html,43.618016,3.1549053
+1166236174,node,Maison des Arts,museum,Béziers,"19 avenue Abbé Tarroux, 34600, Bédarieux",34600,https://www.grandorb.fr/Musees/Maison-des-Arts/5/4337.html,43.6179771,3.1549544
+1249732058,node,Caissenols Le Haut,ruins,Béziers,,,,43.6384538,2.9848665
+1273468288,node,,viewpoint,Béziers,,,,43.5898428,2.8367902
+1273468293,node,,viewpoint,Béziers,,,,43.5458502,2.7872555
+1273468659,node,,viewpoint,Béziers,,,,43.5585997,2.8202047
+1273469171,node,Monument de la Résistance et de la Déportation,memorial,Béziers,,,,43.5989462,2.8399292
+1273469184,node,Stèle Pierre Granier,monument,Béziers,,,,43.5986627,2.8398484
+1273499377,node,,viewpoint,Béziers,,,,43.5375093,2.7796105
+1314295516,node,Maison du Patrimoine,museum,Béziers,,,,43.3122,3.4172546
 1314305769,node,Cafe de la Paix,restaurant,Béziers,,,,43.3125201,3.4185004
-1347469571,node,La Taverne,restaurant,Béziers,18 Quai de la Trinquette,,,43.2824001,3.5139998
-1347469577,node,Le Petit Comptoir,restaurant,Béziers,14 Quai de la Trinquette,,,43.2823501,3.5140598
-1347469580,node,News Café,restaurant,Béziers,40 Rue de la Gabelle,,,43.2857896,3.5096903
-1347469602,node,Mer & Sable,restaurant,Béziers,6 Quai de la Trinquette,,,43.2822501,3.5142297
-1347469607,node,La Table de Marthe,restaurant,Béziers,12 Quai de la Trinquette,,,43.2823301,3.5140998
-1360748894,node,Hôtel Le Mirador,hotel,Béziers,"4 Boulevard du Front de Mer, Portiragnes",,,43.2777361,3.3637108
+1319641009,node,Le Petit Train du Cap d'Agde,attraction,Béziers,,,,43.2851399,3.5105508
+1347469571,node,La Taverne,restaurant,Béziers,"18 Quai de la Trinquette, 34300",34300,,43.2824001,3.5139998
+1347469577,node,Le Petit Comptoir,restaurant,Béziers,"14 Quai de la Trinquette, 34300",34300,,43.2823501,3.5140598
+1347469580,node,News Café,restaurant,Béziers,"40 Rue de la Gabelle, 34300",34300,,43.2857896,3.5096903
+1347469602,node,Mer & Sable,restaurant,Béziers,"6 Quai de la Trinquette, 34300",34300,,43.2822501,3.5142297
+1347469607,node,La Table de Marthe,restaurant,Béziers,"12 Quai de la Trinquette, 34300",34300,,43.2823301,3.5140998
+1360748894,node,Hôtel Le Mirador,hotel,Béziers,"4 Boulevard du Front de Mer, 34420, Portiragnes",34420,,43.2777361,3.3637108
+1368145930,node,,ruins,Béziers,,,,43.6507288,3.1285935
 1399543511,node,,restaurant,Béziers,,,,43.332388,2.7969309
-1413600202,node,Crêperie La Grange,restaurant,Béziers,16 Quai Jean Miquel,,,43.2838701,3.5128702
-1413600205,node,L'Arlequin,restaurant,Béziers,54 Quai Jean Miquel,,,43.284771,3.5114996
-1413600207,node,La Pâte à Crêpe,restaurant,Béziers,1 Place Agde Marine,,,43.2836208,3.51325
-1413600209,node,Miami Prime,restaurant,Béziers,56 Quai Jean Miquel,,,43.2849302,3.5112197
-1413600216,node,Nautilus,restaurant,Béziers,52 Quai Jean Miquel,,,43.28465,3.5116795
-1413600220,node,Quai n°XV,restaurant,Béziers,60 Quai Jean Miquel,,,43.28499,3.5109201
+1404871500,node,Croix de Marcou,viewpoint,Béziers,,,,43.698,3.00644
+1413600202,node,Crêperie La Grange,restaurant,Béziers,"16 Quai Jean Miquel, 34300",34300,,43.2838701,3.5128702
+1413600205,node,L'Arlequin,restaurant,Béziers,"54 Quai Jean Miquel, 34300",34300,,43.284771,3.5114996
+1413600207,node,La Pâte à Crêpe,restaurant,Béziers,"1 Place Agde Marine, 34300",34300,,43.2836208,3.51325
+1413600209,node,Miami Prime,restaurant,Béziers,"56 Quai Jean Miquel, 34300",34300,,43.2849302,3.5112197
+1413600216,node,Nautilus,restaurant,Béziers,"52 Quai Jean Miquel, 34300",34300,,43.28465,3.5116795
+1413600220,node,Quai n°XV,restaurant,Béziers,"60 Quai Jean Miquel, 34300",34300,,43.28499,3.5109201
+1453163874,node,,viewpoint,Béziers,,,,43.5440847,2.7986112
+1453164595,node,,viewpoint,Béziers,,,,43.551375,2.7935262
+1474240591,node,Musée du Biterrois,museum,Béziers,,,https://www.ville-beziers.fr/index.cfm,43.3382478,3.2149323
 1474248926,node,Me Gusta Tapas,restaurant,Béziers,60 Avenue Président Wilson,,,43.3353496,3.2261527
 1474248932,node,Memphis,restaurant,Béziers,,,,43.3354901,3.2254569
 1477537490,node,La Dolce Vita - Chez Francesco,restaurant,Béziers,,,,43.488443,2.7603467
 1477537495,node,Le Somail,restaurant,Béziers,,,,43.4887629,2.757347
 1502695544,node,,restaurant,Béziers,,,,43.2326791,3.2619644
+1564993266,node,,ruins,Béziers,,,,43.404371,2.968914
+1622037773,node,Musée de Dado,artwork,Béziers,,,,43.2638391,3.3134427
+1623559455,node,Musée d'Art Contemporain,museum,Béziers,"146 Avenue de la Plage, 34410, Sérignan",34410,https://mrac.laregion.fr,43.2803566,3.2809514
 1623634690,node,Brasserie Saint-Roch,restaurant,Béziers,,,,43.2821738,3.2805075
 1623852389,node,Restaurant Touy,restaurant,Béziers,,,,43.6063018,2.7990318
 1654231024,node,restaurant Barba,restaurant,Béziers,,,,43.3565611,3.2399638
+1667416284,node,Église,monument,Béziers,,,,43.691609,3.1665265
+1667421103,node,,memorial,Béziers,,,,43.6948832,3.164686
+1711093824,node,Les Termes,ruins,Béziers,,,,43.4016058,3.0734847
+1713236246,node,Caissenols Le Bas,ruins,Béziers,,,,43.6419708,2.9890035
+1715105295,node,Cloître,attraction,Béziers,,,,43.3969726,3.4173305
+1715105300,node,Le Fort,viewpoint,Béziers,,,,43.3953919,3.4175128
 1715157429,node,L'explorateur,restaurant,Béziers,3 Place Jean Jaures,,https://www.explorateur-agde.fr/,43.3143086,3.4693553
 1721611241,node,Les Agapes,restaurant,Béziers,,,,43.3920313,3.101976
+1723311672,node,Plage Sérignan,beach,Béziers,,,,43.2709233,3.3473562
 1729681214,node,Sun Beach,restaurant,Béziers,,,,43.2998895,3.5357459
-1739857546,node,Christophe Colomb,restaurant,Béziers,52 Quai de la Trinquette,,,43.2829402,3.5131594
-1739857563,node,L'Ami Louis,restaurant,Béziers,12 Quai Di Dominico,,,43.2847903,3.5093005
-1739857565,node,MacMoules,restaurant,Béziers,44 Quai de la Trinquette,,,43.2828501,3.5133106
-1739857566,node,La Créoline,restaurant,Béziers,42 Quai de la Trinquette,,,43.2827901,3.5134096
-1739857567,node,La Marine,restaurant,Béziers,8-12 Quai du Beaupré,,,43.2831974,3.5131669
-1739857568,node,La Table de K'NA,restaurant,Béziers,13 Rue de la Gabelle,,,43.2845501,3.5094503
-1739857573,node,O Phil d'Elo,restaurant,Béziers,24 Quai Di Dominico,,,43.2845001,3.5094997
-1739857575,node,Les Étolies Basques,restaurant,Béziers,36 Quai de la Trinquette,,,43.28268,3.5135601
+1739857546,node,Christophe Colomb,restaurant,Béziers,"52 Quai de la Trinquette, 34300",34300,,43.2829402,3.5131594
+1739857563,node,L'Ami Louis,restaurant,Béziers,"12 Quai Di Dominico, 34300",34300,,43.2847903,3.5093005
+1739857565,node,MacMoules,restaurant,Béziers,"44 Quai de la Trinquette, 34300",34300,,43.2828501,3.5133106
+1739857566,node,La Créoline,restaurant,Béziers,"42 Quai de la Trinquette, 34300",34300,,43.2827901,3.5134096
+1739857567,node,La Marine,restaurant,Béziers,"8-12 Quai du Beaupré, 34300",34300,,43.2831974,3.5131669
+1739857568,node,La Table de K'NA,restaurant,Béziers,"13 Rue de la Gabelle, 34300",34300,,43.2845501,3.5094503
+1739857573,node,O Phil d'Elo,restaurant,Béziers,"24 Quai Di Dominico, 34300",34300,,43.2845001,3.5094997
+1739857575,node,Les Étolies Basques,restaurant,Béziers,"36 Quai de la Trinquette, 34300",34300,,43.28268,3.5135601
+1787322091,node,,viewpoint,Béziers,,,,43.2659793,3.2312591
+1789884371,node,Plan de la Gascagne,viewpoint,Béziers,,,,43.4870379,2.7573734
 1796467009,node,La Bodega,restaurant,Béziers,,,,43.2955167,3.5253346
 1796467085,node,Ô 2 Frères,restaurant,Béziers,1 Allée de la Flânerie,,,43.2826654,3.51941
+1832900831,node,,viewpoint,Béziers,,,,43.6340057,3.2242743
+1832977560,node,,viewpoint,Béziers,,,,43.6921191,3.026579
+1846876057,node,Tour de Roquebrun,viewpoint,Béziers,,,,43.5015829,3.0303153
+1853581764,node,La Croix de Mounis,attraction,Béziers,,,,43.6853032,2.9622416
 1885836479,node,La Voûte,restaurant,Béziers,,,,43.8034723,3.1114773
 1885836481,node,Le Relais de Ceilhes,hotel,Béziers,,,,43.802769,3.1111942
+1885836483,node,,museum,Béziers,,,,43.8034372,3.1111844
+1892072895,node,,memorial,Béziers,,,,43.5664567,2.959592
 1913693233,node,Le Tiki,restaurant,Béziers,,,,43.2669184,3.3360481
 1915818137,node,Le Pacific,restaurant,Béziers,,,,43.2668302,3.3353445
 1915865857,node,Le Cristal,restaurant,Béziers,42 Allée Paul Riquet,,,43.3421077,3.2168196
-1917284209,node,Les Jours Heureux,restaurant,Béziers,"6 Boulevard Jean Moulin, Valras-Plage",,,43.2460495,3.2940646
-1917284216,node,Les III Pachas,restaurant,Béziers,"Allées Charles de Gaulle, Valras-Plage",,,43.2469617,3.2942838
-1961427513,node,Concorde,hotel,Béziers,"7 Rue Solferino, Béziers",,http://www.hotel-concorde-beziers.com,43.3438337,3.2175832
-1961427526,node,Hôtel de France,hotel,Béziers,"36 Rue Boïeldieu, Béziers",,https://www.hotel-2-france.com/,43.3434845,3.2174154
+1915865863,node,Pierre-Paul Riquet,artwork,Béziers,,,,43.3415942,3.2175409
+1917223768,node,,viewpoint,Béziers,,,,43.3090658,3.1086508
+1917284209,node,Les Jours Heureux,restaurant,Béziers,"6 Boulevard Jean Moulin, 34350, Valras-Plage",34350,,43.2460495,3.2940646
+1917284216,node,Les III Pachas,restaurant,Béziers,"Allées Charles de Gaulle, 34350, Valras-Plage",34350,,43.2469617,3.2942838
+1961427513,node,Concorde,hotel,Béziers,"7 Rue Solferino, 34500, Béziers",34500,http://www.hotel-concorde-beziers.com,43.3438337,3.2175832
+1961427526,node,Hôtel de France,hotel,Béziers,"36 Rue Boïeldieu, 34500, Béziers",34500,https://www.hotel-2-france.com/,43.3434845,3.2174154
+2033573064,node,Vierge,artwork,Béziers,,,,43.3072277,3.2062988
 2091895656,node,Ma Ferme,restaurant,Béziers,,,,43.2665231,3.2871735
+2094686221,node,"Monument des fusillés du 7 août 1944, Statue de Jean Moulin",artwork,Béziers,Place du 14 juillet,,,43.3476406,3.2219029
 2122991817,node,La Suite,restaurant,Béziers,39 Avenue Émile Claparède,,,43.3441879,3.229248
+2139962533,node,Bâtiment de la mine,ruins,Béziers,,,,43.3526349,2.6970293
+2140053385,node,,artwork,Béziers,,,,43.3856051,3.4635117
+2140475800,node,Vue sur l'étang de Montady et sur l'oppidum d'ensérune,viewpoint,Béziers,,,,43.329408,3.119389
+2140479167,node,Point de vue sur l'étang de Montady,viewpoint,Béziers,,,,43.31027,3.114283
+2141571787,node,Pont Romain de Saint-Thibéry,ruins,Béziers,,,,43.3927442,3.4327259
 2144065978,node,L'Avenue,restaurant,Béziers,21 Avenue Victor Hugo,,,43.3167988,3.4664943
-2147047655,node,La Ribote,restaurant,Béziers,9 Rue de l'Amour,,https://laribote.com/,43.312945,3.4685205
-2170964777,node,Ô Petits Bontemps,restaurant,Béziers,"Avenue Jean Moulin, Béziers",,,43.348244,3.223234
-2173079953,node,Hôtel de Vigniamont,hotel,Béziers,5 Rue Massillon,,,43.4597797,3.4216515
-2188934500,node,La Brasserie d'Abeilhan,restaurant,Béziers,"4 Place General de Gaulle, Abeilhan",,https://www.brasserie-abeilhan.fr,43.4500054,3.2947885
+2147047655,node,La Ribote,restaurant,Béziers,"9 Rue de l'Amour, 34300",34300,https://laribote.com/,43.312945,3.4685205
+2170964777,node,Ô Petits Bontemps,restaurant,Béziers,"Avenue Jean Moulin, 34500, Béziers",34500,,43.348244,3.223234
+2171461383,node,Pont du Diable,attraction,Béziers,,,,43.5571012,2.9118207
+2173079953,node,Hôtel de Vigniamont,hotel,Béziers,"5 Rue Massillon, 34120",34120,,43.4597797,3.4216515
+2173138620,node,Musée de la Porte,museum,Béziers,,,,43.4616475,3.4228899
+2178650812,node,,viewpoint,Béziers,,,,43.4747516,3.4652111
+2188934500,node,La Brasserie d'Abeilhan,restaurant,Béziers,"4 Place General de Gaulle, 34290, Abeilhan",34290,https://www.brasserie-abeilhan.fr,43.4500054,3.2947885
+2189028940,node,,viewpoint,Béziers,,,,43.4464474,3.2907894
 2226860829,node,Le Conti,restaurant,Béziers,,,,43.4591689,3.42506
 2226860833,node,La Mamita,restaurant,Béziers,,,,43.4606556,3.4234801
 2226878330,node,L'Estacade,restaurant,Béziers,9 Rue de l'Estacade,,,43.2742607,3.5098954
 2226878334,node,Méditerrannée,restaurant,Béziers,,,,43.2744284,3.5096514
 2241304697,node,Delice Corner,restaurant,Béziers,21 Rue de l'Estacade,,,43.2740264,3.5102602
-2260217658,node,Le New Port,restaurant,Béziers,"Port de plaisance, Colombiers",,https://www.facebook.com/newport.colombiers,43.3135437,3.1429189
-2277014039,node,Les Meulières,restaurant,Béziers,"4 Place occitane, La Livinière",,https://lesmeulieres.fr/,43.3171191,2.6358505
+2260217658,node,Le New Port,restaurant,Béziers,"Port de plaisance, 34440, Colombiers",34440,https://www.facebook.com/newport.colombiers,43.3135437,3.1429189
+2260662331,node,Belvédère de la Pente d'Eau,viewpoint,Béziers,,,,43.3302657,3.2003709
+2277014039,node,Les Meulières,restaurant,Béziers,"4 Place occitane, 34210, La Livinière",34210,https://lesmeulieres.fr/,43.3171191,2.6358505
 2286973712,node,L'Hacienda,restaurant,Béziers,,,http://www.restaurantlhacienda.fr/,43.3813273,3.4159122
-2362667495,node,Les Fleurs d'Olargues,restaurant,Béziers,Pont du DIable,,http://www.fleurs-de-olargues.com/,43.5565342,2.9107775
+2323701728,node,,ruins,Béziers,,,,43.27657,3.3423095
+2323701766,node,,ruins,Béziers,,,,43.2771587,3.3417141
+2323701801,node,,ruins,Béziers,,,,43.2777419,3.3411989
+2323701850,node,,ruins,Béziers,,,,43.2788086,3.340168
+2323701881,node,,ruins,Béziers,,,,43.2795319,3.3393498
+2330939900,node,,viewpoint,Béziers,,,,43.3443469,2.7534318
+2358969583,node,Moulin Médiéval,attraction,Béziers,,,,43.392913,3.4322882
+2362667495,node,Les Fleurs d'Olargues,restaurant,Béziers,"Pont du DIable, 34390",34390,http://www.fleurs-de-olargues.com/,43.5565342,2.9107775
 2362675129,node,Hotel Bar Restaurant Laissac-Speiser,restaurant,Béziers,,,,43.5567975,2.9162335
+2363258019,node,Statue Vierge Marie,artwork,Béziers,,,,43.4255524,3.3045529
+2383345899,node,Château-Abbaye de Cassan,museum,Béziers,,,,43.509157,3.2881664
 2386517037,node,All'Italienne,restaurant,Béziers,,,,43.3834896,3.4665481
 2386517047,node,La Noria,restaurant,Béziers,14 Avenue de la Gardie,,,43.3862668,3.4701107
 2386517049,node,La Table de Florensac,restaurant,Béziers,9 Avenue Alexandre Laval,,https://www.latabledeflorensac.fr/,43.3849645,3.4632404
+2387297153,node,Pédalorail,attraction,Béziers,,,,43.3948966,3.4188992
 2399512111,node,,restaurant,Béziers,,,,43.2736454,3.508442
 2402447653,node,Le Floride,restaurant,Béziers,4 Rue de la Toison d'Or,,,43.2755288,3.5088191
 2402447716,node,,restaurant,Béziers,,,,43.2772961,3.5098169
 2402522453,node,La Bonne Mère,restaurant,Béziers,6 Allée des Phocéèns,,,43.2750766,3.5125064
 2404188817,node,,restaurant,Béziers,,,,43.2795134,3.5018983
+2407725312,node,Curiosité de Lauriole,attraction,Béziers,,,,43.3480506,2.6713796
 2415758320,node,Au rendez-vous des bateliers,restaurant,Béziers,,,,43.2920902,3.3717442
-2417733030,node,Ibis Styles Béziers Centre,hotel,Béziers,"33 Avenue Camille Saint-Saëns, Béziers",,https://all.accor.com/hotel/5639/index.en.shtml,43.3424582,3.2206825
+2417733030,node,Ibis Styles Béziers Centre,hotel,Béziers,"33 Avenue Camille Saint-Saëns, 34500, Béziers",34500,https://all.accor.com/hotel/5639/index.en.shtml,43.3424582,3.2206825
+2438041344,node,,viewpoint,Béziers,,,,43.3716006,2.74397
 2454456601,node,La Galiote,hotel,Béziers,,,,43.3142248,3.4692772
 2454456604,node,La Marina,restaurant,Béziers,26 Rue Andre Chassefieres,,https://www.restaurantlamarinaagde.fr/,43.3124064,3.466782
 2454456608,node,La Place,restaurant,Béziers,,,,43.3120273,3.4669599
@@ -126,18 +204,36 @@ osm_id,osm_type,name,category,city,address,post code,website,lat,lon
 2457262902,node,Le Jardin,restaurant,Béziers,,,,43.4611531,3.4232671
 2457262906,node,Le Vieux Coq,restaurant,Béziers,,,,43.4611941,3.4230556
 2464336513,node,Le Lodge Crêperie,restaurant,Béziers,,,,43.292275,3.4179098
-2464336552,node,The Brasserie,restaurant,Béziers,"Avenue de la Méditerranée, Vias",,,43.2931185,3.4176976
+2464336552,node,The Brasserie,restaurant,Béziers,"Avenue de la Méditerranée, 34300, Vias",34300,,43.2931185,3.4176976
+2465022318,node,Jardin de Saint-Jacques,viewpoint,Béziers,,,,43.3375267,3.2135707
 2465022319,node,La Vigne Gourmande,restaurant,Béziers,,,,43.3374302,3.2239509
+2465022349,node,,viewpoint,Béziers,,,,43.598642,3.0943614
+2466422761,node,Château de Grandsagnes,castle,Béziers,,,,43.5220664,2.6828012
 2468759261,node,L'auberge Provençale,restaurant,Béziers,15 Allées Général Charles de Gaulle,,,43.2469533,3.2936883
+2469190139,node,Chapelle Saint-Germain,attraction,Béziers,,,,43.3247625,2.6941715
 2470012825,node,Le Relais Bleu,hotel,Béziers,,,,43.325696,3.0419295
 2470012867,node,Vinauberge,hotel,Béziers,,,https://www.vinauberge.com/,43.3059469,3.0766854
 2470024242,node,Auberge de la Croisade,restaurant,Béziers,,,https://www.auberge-de-la-croisade.com,43.3145999,2.9566926
-2510595891,node,La Batelière,restaurant,Béziers,"Quai Élie Amouroux, Capestang",,,43.3314381,3.0421219
-2510810320,node,Le Provence,restaurant,Béziers,"Place Jean Jaurès, Capestang",,,43.3277785,3.0442095
-2511801431,node,La Tour Sarrasine,restaurant,Béziers,"27 Boulevard Paul Riquet, Poilhes",,https://tour-sarrasine.cover.page,43.3065523,3.0772233
+2510595891,node,La Batelière,restaurant,Béziers,"Quai Élie Amouroux, 34310, Capestang",34310,,43.3314381,3.0421219
+2510810320,node,Le Provence,restaurant,Béziers,"Place Jean Jaurès, 34310, Capestang",34310,,43.3277785,3.0442095
+2511801431,node,La Tour Sarrasine,restaurant,Béziers,"27 Boulevard Paul Riquet, 34310, Poilhes",34310,https://tour-sarrasine.cover.page,43.3065523,3.0772233
+2513990866,node,Portail de Roquandouire,attraction,Béziers,,,,43.6524173,3.0013238
 2517135915,node,La Cremade - Pizzeria,restaurant,Béziers,,,,43.3175861,3.2814551
 2519093638,node,L'auberge,restaurant,Béziers,,,,43.5859525,2.8776263
 2519093639,node,L'auberge,hotel,Béziers,,,,43.585973,2.8774624
+2519093955,node,,ruins,Béziers,,,,43.5614655,2.8596043
+2519093978,node,,ruins,Béziers,,,,43.562536,2.8598001
+2519094030,node,,ruins,Béziers,,,,43.5668207,2.8511861
+2519094031,node,,ruins,Béziers,,,,43.5668351,2.8518145
+2519094339,node,,ruins,Béziers,,,,43.5971095,2.8870643
+2563850503,node,,viewpoint,Béziers,,,,43.5579655,3.1146554
+2563850505,node,,viewpoint,Béziers,,,,43.5582331,3.1066467
+2563850531,node,,viewpoint,Béziers,,,,43.5629384,3.1021077
+2563850562,node,,viewpoint,Béziers,,,,43.5700574,3.1007048
+2563850601,node,,viewpoint,Béziers,,,,43.5718073,3.0999533
+2581781111,node,,viewpoint,Béziers,,,,43.6924719,3.0997968
+2581781138,node,,viewpoint,Béziers,,,,43.6927226,3.0969284
+2581781758,node,,viewpoint,Béziers,,,,43.7022175,3.0883829
 2590658960,node,Galimar,hotel,Béziers,4 Chemin de Roucarasse,,http://www.galimar.fr/,43.5912882,3.085106
 2590658961,node,Galimar,restaurant,Béziers,17 Boulevard Saint-Michel,,http://www.galimar.fr/,43.591351,3.0851045
 2590882474,node,Belleville,hotel,Béziers,,,,43.5952473,3.0823503
@@ -149,66 +245,241 @@ osm_id,osm_type,name,category,city,address,post code,website,lat,lon
 2590882517,node,La Terraza,restaurant,Béziers,,,,43.594557,3.0821437
 2590939838,node,Hôtel des Thermes,hotel,Béziers,6 Rue du Docteur Privat,,https://hoteldesthermes-lamalou.fr,43.5943652,3.0806159
 2590939840,node,Hôtel des Thermes,restaurant,Béziers,2 Avenue Georges Clémenceau,,https://hoteldesthermes-lamalou.fr,43.5942533,3.0807597
+2591032144,node,,memorial,Béziers,,,,43.5979027,3.0800223
+2591032309,node,Lavoir,attraction,Béziers,,,,43.6054963,3.0658092
+2597788157,node,,memorial,Béziers,,,,43.4359696,3.437352
+2617953461,node,,ruins,Béziers,,,,43.3635084,2.6874196
+2617953475,node,,ruins,Béziers,,,,43.3694758,2.7116015
+2620420415,node,La Malvoisine (Trébuchet),attraction,Béziers,,,,43.3533372,2.7484591
+2620420705,node,,ruins,Béziers,,,,43.3653945,2.7565696
 2622894313,node,D'Âme Crêpe,restaurant,Béziers,,,,43.3539972,2.7466275
+2622894315,node,Gorges du Brian,viewpoint,Béziers,,,,43.3564806,2.7439554
 2622894318,node,La Table des Troubadours,restaurant,Béziers,,,,43.353988,2.7458633
 2622894319,node,La Terrasse,restaurant,Béziers,,,,43.3541427,2.7460776
+2622894330,node,Musée archéologique,museum,Béziers,,,https://musees-occitanie.fr/musee/musee-archeologique-de-minerve/,43.3543868,2.7460475
+2622894331,node,Porte des Templiers,attraction,Béziers,,,,43.3537828,2.7465817
+2622894347,node,,memorial,Béziers,,,,43.354417,2.7463129
+2622894356,node,,viewpoint,Béziers,,,,43.3552765,2.7436961
+2622894463,node,,viewpoint,Béziers,,,,43.3628919,2.7436289
+2622894507,node,,viewpoint,Béziers,,,,43.3649871,2.7555246
+2622894567,node,,viewpoint,Béziers,,,,43.3680505,2.7517068
+2622894578,node,,viewpoint,Béziers,,,,43.3733759,2.7565906
 2694809195,node,Allo'thentic,restaurant,Béziers,74 Avenue Georges Clémenceau,,,43.3476789,3.2192813
+2699031947,node,Tour du Pin,castle,Béziers,,,,43.5439828,3.0067051
 2699036929,node,La Capitelle,restaurant,Béziers,,,,43.5902288,3.1019303
+2700633327,node,A Roger Gailhard,memorial,Béziers,,,,43.539859,2.9740246
+2700633330,node,Pressoir,attraction,Béziers,,,,43.5397814,2.9740231
+2700633332,node,San Julio,ruins,Béziers,,,,43.5413823,2.987979
+2700633333,node,Tour du Pin,viewpoint,Béziers,,,,43.544,3.00672
+2700633334,node,Tour,ruins,Béziers,,,,43.54157,2.9774565
+2700633335,node,Tête sculptée dans une alcove murale,artwork,Béziers,,,,43.5410722,2.9764634
+2700633435,node,,ruins,Béziers,,,,43.5414152,2.9918434
+2700633458,node,,ruins,Béziers,,,,43.5434059,2.9826281
+2700633460,node,,ruins,Béziers,,,,43.5458415,2.9851242
+2700633461,node,,ruins,Béziers,,,,43.5518862,2.9954263
+2700633462,node,,ruins,Béziers,,,,43.5520208,2.9969231
 2706804063,node,,restaurant,Béziers,,,,43.3917919,3.1031274
 2792745909,node,Le Relais des Oliviers,restaurant,Béziers,,,,43.5401742,3.1830883
-2952313850,node,Freeman Pizza,restaurant,Béziers,"2 Boulevard des Matelots, Agde",,,43.2935724,3.5288329
-2952318793,node,Waiki Beach,restaurant,Béziers,"2 Boulevard des Matelots, Agde",,https://www.waikibeach.com/,43.2938213,3.5260679
+2802321618,node,,memorial,Béziers,,,,43.652439,3.0396067
+2821965655,node,,ruins,Béziers,,,,43.6484025,3.0234032
+2821965671,node,,ruins,Béziers,,,,43.6487532,3.0235412
+2821965698,node,,ruins,Béziers,,,,43.6593151,3.0166246
+2826080230,node,Parcours aérien dans les arbres,attraction,Béziers,,,,43.4747988,3.5417433
+2854311680,node,,viewpoint,Béziers,,,,43.2934046,3.4944984
+2888050505,node,Four à Chaux,attraction,Béziers,,,,43.4108863,2.9632025
+2892981400,node,Maison du Mouflon,museum,Béziers,,,https://caroux-gites-de-douch.com,43.6111179,2.9740454
+2892982024,node,Stèle maquis Bir-Hakeim 10 septembre 1943,memorial,Béziers,,,,43.6143134,2.9788885
+2935223471,node,Château de Coujan,castle,Béziers,,,,43.4793389,3.1429548
+2935255731,node,Château féodal de Murviel-lès-Béziers,castle,Béziers,,,,43.4401944,3.1437046
+2943187619,node,Monument commémoratif combat de Fontjun 6 et 7 juin 1944,memorial,Béziers,,,,43.4172674,2.9739099
+2952313850,node,Freeman Pizza,restaurant,Béziers,"2 Boulevard des Matelots, 34300, Agde",34300,,43.2935724,3.5288329
+2952318793,node,Waiki Beach,restaurant,Béziers,"2 Boulevard des Matelots, 34300, Agde",34300,https://www.waikibeach.com/,43.2938213,3.5260679
 2957527663,node,Le Fitkot,restaurant,Béziers,,,https://www.facebook.com/pages/Le-fritkot/189196381119024,43.2464759,3.2941765
+2961973115,node,Tête de Mouflon,artwork,Béziers,,,,43.6110812,2.9740408
 2978918727,node,L'Aromaé,restaurant,Béziers,,,,43.4232101,3.1627409
 2980869885,node,Chez Clairette,restaurant,Béziers,,,,43.2762778,3.4917754
 2980869888,node,le Thoma's,restaurant,Béziers,1 Rue du Pacifique,,,43.2762124,3.4917239
+2981108233,node,L'Éphèbe d'Agde,artwork,Béziers,,,,43.2964654,3.4708353
 2982455281,node,Flunch,restaurant,Béziers,,,,43.3451757,3.2418121
 3023351227,node,Le Delphinium,restaurant,Béziers,13 Avenue des Elysées,,,43.2411683,3.2807109
 3023351228,node,Chez Francky,restaurant,Béziers,13 Avenue des Elysées,,,43.2409778,3.2807588
 3023354134,node,Pizza Casino Beach,restaurant,Béziers,13 Avenue des Elysées,,,43.2408355,3.2808518
-3066706992,node,L'Ortensia,restaurant,Béziers,"2 Rue du Château, Saint-Gervais-sur-Mare",,https://www.restaurant-ortensia.com/,43.6507135,3.0411074
-3069779926,node,La Comédie de Pézenas,hotel,Béziers,"18 Rue Denfert Rochereau, Pézenas",,https://www.la-comedie-de-pezenas.com/,43.4583919,3.4232535
-3069784477,node,Côté Mas,restaurant,Béziers,"Route de Villeveyrac, Montagnac",,https://www.cote-mas.fr/,43.4891034,3.5175531
+3052747512,node,Ruines de l'ancienne abbaye Saint-Pierre de Nayran,viewpoint,Béziers,,,,43.6599461,3.0408894
+3052747513,node,Ruines de Nayran,viewpoint,Béziers,,,,43.660753,3.0394496
+3052771779,node,,viewpoint,Béziers,,,,43.666721,3.068217
+3066705462,node,Ruine du Nébuzon,ruins,Béziers,,,,43.6443955,3.0228687
+3066706992,node,L'Ortensia,restaurant,Béziers,"2 Rue du Château, 34610, Saint-Gervais-sur-Mare",34610,https://www.restaurant-ortensia.com/,43.6507135,3.0411074
+3069779926,node,La Comédie de Pézenas,hotel,Béziers,"18 Rue Denfert Rochereau, 34120, Pézenas",34120,https://www.la-comedie-de-pezenas.com/,43.4583919,3.4232535
+3069784477,node,Côté Mas,restaurant,Béziers,"Route de Villeveyrac, 34530, Montagnac",34530,https://www.cote-mas.fr/,43.4891034,3.5175531
+3099469796,node,,viewpoint,Béziers,,,,43.6886497,3.2476563
+3099470426,node,,viewpoint,Béziers,,,,43.6971954,3.2137844
 3102808348,node,BierKulture,restaurant,Béziers,,,,43.4807549,3.4829474
 3102808349,node,L'esplanade,restaurant,Béziers,25 Avenue du 11 Novembre,,,43.4799259,3.4826499
+3102808357,node,,memorial,Béziers,,,,43.4787921,3.4811207
+3104475784,node,Vierge,artwork,Béziers,,,,43.4752251,3.4777119
+3170133997,node,,artwork,Béziers,,,,43.4051321,3.5106327
+3174827705,node,,memorial,Béziers,,,,43.4065585,3.5073697
 3183714647,node,La Grillade,hotel,Béziers,,,,43.3062053,3.1648873
 3183714648,node,La Grillade,restaurant,Béziers,,,,43.3062869,3.164773
-3206190558,node,Pizzeria Cecilia,restaurant,Béziers,"580 Chemin de Quarante, maureilhan",,,43.3529708,3.1223033
+3189062066,node,Notre-Dame de l'Assomption,artwork,Béziers,,,,43.5528048,3.3072297
+3206190558,node,Pizzeria Cecilia,restaurant,Béziers,"580 Chemin de Quarante, 34370, maureilhan",34370,,43.3529708,3.1223033
+3223985267,node,,viewpoint,Béziers,,,,43.5330025,3.3150298
+3223985274,node,,viewpoint,Béziers,,,,43.5405479,3.3160488
 3224059766,node,L'Escampette,restaurant,Béziers,12 Place Lieutenant Paul Gauffre,,,43.5342792,3.3310879
 3224059767,node,Le Very'Table,restaurant,Béziers,6 Rue de Saint-Alban,,,43.5338791,3.3322714
-3254573161,node,Äponem - Auberge du Presbytère,restaurant,Béziers,1 Rue de l'Église,,https://www.aponem-aubergedupresbytere.fr/,43.5544858,3.2985132
+3224059769,node,,memorial,Béziers,,,,43.5355449,3.3344435
+3224059771,node,Vierge,artwork,Béziers,,,,43.5331154,3.3300548
+3224059803,node,,artwork,Béziers,,,,43.5339363,3.3325743
+3246671385,node,Nabines,ruins,Béziers,,,,43.5214602,2.6775362
+3248906309,node,Chapelle Saint-Côme,ruins,Béziers,,,,43.3021992,2.777793
+3252901465,node,Espace Muséographique Les Lumières de la Mine,museum,Béziers,,,https://www.grandorb.fr/Sortir/Musees/Espace-museographique-Les-lumieres-de-la-mine/4334.html,43.6949216,3.1648437
+3254066798,node,,viewpoint,Béziers,,,,43.5508729,3.3070821
+3254066837,node,,viewpoint,Béziers,,,,43.5527945,3.3072391
+3254066843,node,,viewpoint,Béziers,,,,43.5530179,3.316839
+3254242861,node,,viewpoint,Béziers,,,,43.3104468,3.1169454
+3254573161,node,Äponem - Auberge du Presbytère,restaurant,Béziers,"1 Rue de l'Église, 34320",34320,https://www.aponem-aubergedupresbytere.fr/,43.5544858,3.2985132
+3254573163,node,,monument,Béziers,,,,43.554466,3.2988414
+3256868830,node,Saint-Bauléry,ruins,Béziers,,,,43.4069805,3.004463
 3258719361,node,L'Escale,restaurant,Béziers,,,,43.5123169,3.2728776
+3258760769,node,,memorial,Béziers,,,,43.5126486,3.2723868
+3258922659,node,,viewpoint,Béziers,,,,43.5295214,3.2668479
+3258922691,node,,viewpoint,Béziers,,,,43.5318253,3.2648475
+3258922694,node,,viewpoint,Béziers,,,,43.5322175,3.2593513
+3259091774,node,Vierge,artwork,Béziers,,,,43.51337,3.2732843
+3259091796,node,,memorial,Béziers,,,,43.5134514,3.2736647
+3260732976,node,,ruins,Béziers,,,,43.3443668,2.7781683
+3260809307,node,,viewpoint,Béziers,,,,43.3524839,2.7006
+3261283703,node,,viewpoint,Béziers,,,,43.4327936,2.7025468
+3261393402,node,,ruins,Béziers,,,,43.3293887,2.757359
+3262573767,node,Grange Lasserre,ruins,Béziers,,,,43.5720737,3.2190342
+3264280569,node,,ruins,Béziers,,,,43.5693376,3.2274377
+3264562873,node,Stèle des aviateurs,memorial,Béziers,,,,43.5850203,3.2117066
+3264562874,node,,ruins,Béziers,,,,43.5852201,3.2095559
+3264583586,node,,viewpoint,Béziers,,,,43.5618652,3.1992172
+3264583643,node,,memorial,Béziers,,,,43.5648151,3.1909222
+3264583762,node,,viewpoint,Béziers,,,,43.5701272,3.1845502
+3264992227,node,la Calvélarié,ruins,Béziers,,,,43.521345,2.756932
+3265040692,node,Les Bories,ruins,Béziers,,,,43.4810651,2.9086779
+3265365525,node,Ensemble marbrier du moulin de Biot,ruins,Béziers,,,,43.3450393,2.5597694
+3266168762,node,Château de Roquessels,attraction,Béziers,,,,43.5524027,3.2231713
+3266169736,node,,viewpoint,Béziers,,,,43.5646424,3.2162165
 3269734435,node,,restaurant,Béziers,,,,43.3438524,3.258084
 3269734486,node,La Coupole,restaurant,Béziers,23 Rue du Commandant Kieffer,,,43.3416816,3.2619649
+3269734488,node,"Jardin Médiéval ""Saint-Jean des Anneaux",garden,Béziers,,,,43.3406812,3.2580229
+3269830234,node,Stèle de Jules Roucayrol,memorial,Béziers,,,,43.5218805,3.3112314
+3269834520,node,,ruins,Béziers,,,,43.5241676,3.2935143
+3269834522,node,,ruins,Béziers,,,,43.524365,3.2942772
+3269834524,node,,viewpoint,Béziers,,,,43.5245396,3.2927551
+3269834527,node,,ruins,Béziers,,,,43.5260197,3.2970908
+3269834534,node,,ruins,Béziers,,,,43.5300512,3.3113413
+3274215199,node,,ruins,Béziers,,,,43.3601649,2.5529712
+3274215200,node,,ruins,Béziers,,,,43.3630804,2.5554327
+3281286994,node,,viewpoint,Béziers,,,,43.5472356,3.1244657
+3304536746,node,,ruins,Béziers,,,,43.3390245,2.6446509
+3343987719,node,Sculpture (statue : le sommelier),artwork,Béziers,,,,43.467278,3.4969395
+3344001194,node,La Dégustation,artwork,Béziers,,,,43.4533402,3.4937021
+3344017865,node,Le Pressoir,artwork,Béziers,,,,43.4523901,3.4868408
+3344031925,node,Le Viticulteur,artwork,Béziers,,,,43.446414,3.4848773
+3344032814,node,Bacchus,artwork,Béziers,,,,43.4443246,3.4837536
+3344056049,node,La Vendangeuse,artwork,Béziers,,,,43.4464861,3.4773485
+3344056516,node,La Bouteille,artwork,Béziers,,,,43.4482192,3.4746448
+3344078364,node,La Fête,artwork,Béziers,,,,43.4554841,3.4916956
+3344088417,node,La Symbiose,artwork,Béziers,,,,43.4508967,3.4976662
+3344100418,node,La Prospérité,artwork,Béziers,,,,43.445454,3.497162
+3344101975,node,AOC,artwork,Béziers,,,,43.4380205,3.503036
+3344101976,node,La Vitalité,artwork,Béziers,,,,43.4479758,3.5045327
+3344180869,node,,viewpoint,Béziers,,,,43.4178058,3.1850052
+3344193549,node,Les Grands Hommes,artwork,Béziers,,,,43.476978,3.4838543
+3344193550,node,Le Porteur,artwork,Béziers,,,,43.4769391,3.4836504
+3345647451,node,Pepezuc,artwork,Béziers,,,,43.3430951,3.2131037
 3437669316,node,Auberge Minervoise,restaurant,Béziers,,,,43.3379052,2.8188611
 3437746147,node,Auberge des Amis,restaurant,Béziers,,,,43.3379387,2.8171853
-3481175093,node,B&B Hôtel,hotel,Béziers,"Parc actipolis, Villeneuve-lès-Béziers",,https://www.hotel-bb.com/fr/-/hotelByName.htm?id=4423,43.3337581,3.2751542
-3498239987,node,Château de Lunas,restaurant,Béziers,"Promenade des Platanettes, Lunas-les-Châteaux",,http://chateaudelunas.fr/,43.7071814,3.1945859
+3479228716,node,,memorial,Béziers,,,,43.6010259,2.7041955
+3479289984,node,,artwork,Béziers,,,,43.3844206,2.6210712
+3481175093,node,B&B Hôtel,hotel,Béziers,"Parc actipolis, 34420, Villeneuve-lès-Béziers",34420,https://www.hotel-bb.com/fr/-/hotelByName.htm?id=4423,43.3337581,3.2751542
+3498207712,node,Statue de la Vierge à l'enfant,artwork,Béziers,,,,43.7102397,3.223793
+3498239987,node,Château de Lunas,restaurant,Béziers,"Promenade des Platanettes, 34650, Lunas-les-Châteaux",34650,http://chateaudelunas.fr/,43.7071814,3.1945859
 3498239992,node,Le Bouchon d'Orb,restaurant,Béziers,,,,43.7088639,3.1947371
 3560640523,node,Le Mistral,restaurant,Béziers,,,,43.2818995,3.2802941
 3564081575,node,Brasserie FOP's,restaurant,Béziers,,,,43.2818053,3.280757
+3625677739,node,Jardin Méditerranéen,garden,Béziers,Ruhe de la Tour,,,43.5013211,3.0302525
 3646928936,node,La TB,restaurant,Béziers,77 Allée de la Flânerie,,,43.2839521,3.5168948
+3655997931,node,,artwork,Béziers,,,,43.2821064,3.5160622
+3662297397,node,,memorial,Béziers,,,,43.2754186,3.5140497
 3665226673,node,La Caravelle,restaurant,Béziers,,,,43.2770779,3.495661
 3665226674,node,Les copains d'abord,restaurant,Béziers,,,,43.2776989,3.4952815
 3666398385,node,Pizza Pino,restaurant,Béziers,,,,43.2776475,3.4953482
 3666405926,node,Les Jardins de l'Alhambra,restaurant,Béziers,,,,43.2811272,3.4987171
 3666418778,node,Chez Gégé,restaurant,Béziers,,,,43.2853388,3.5112296
 3666418779,node,La Casa Nostra,restaurant,Béziers,67 Avenue des Sergents,,,43.2854677,3.5112832
-3666418780,node,Le Monde des Grillades,restaurant,Béziers,14 Place Terrisse,,,43.2856097,3.5112625
-3666418783,node,La Pixturi,restaurant,Béziers,10 Place Terrisse,,,43.2857146,3.5111532
+3666418780,node,Le Monde des Grillades,restaurant,Béziers,"14 Place Terrisse, 34300",34300,,43.2856097,3.5112625
+3666418783,node,La Pixturi,restaurant,Béziers,"10 Place Terrisse, 34300",34300,,43.2857146,3.5111532
 3666418784,node,Au Blé Noir,restaurant,Béziers,67 Avenue des Sergents,,,43.2853779,3.5112618
 3672241711,node,Le Quai d'Eux,restaurant,Béziers,78 Mail de Rochelongue,,,43.2764324,3.4838035
 3672259466,node,cece Pizza,restaurant,Béziers,,,,43.2760252,3.4856261
 3672259467,node,Les Trésors de la mer,restaurant,Béziers,8 Rue Raffanel,,,43.2760643,3.4856583
+3673608825,node,,memorial,Béziers,,,,43.5561898,2.9137576
+3682432531,node,Pédalorail St Thibery,attraction,Béziers,Chemin du Pont Romain,,,43.3925737,3.4321515
+3682742509,node,Rempart,ruins,Béziers,,,,43.507819,3.369451
+3682755901,node,,artwork,Béziers,,,,43.5070352,3.3708566
+3709212325,node,,memorial,Béziers,,,,43.4708679,3.2234155
+3713942530,node,Monument aux Morts,memorial,Béziers,,,,43.5151572,3.4089485
+3731576219,node,Stèle commémorative du 17 août 1944,memorial,Béziers,,,,43.6835308,3.1696948
+3735497625,node,,memorial,Béziers,,,,43.5080579,3.3103524
+3735497626,node,Statue de la Vierge,artwork,Béziers,,,,43.5082362,3.3103168
+3735987927,node,,memorial,Béziers,,,,43.4829179,3.2800839
 3746332448,node,Auberge des Consuls,restaurant,Béziers,,,,43.6006479,2.7027975
 3746332450,node,La Commanderie,restaurant,Béziers,,,,43.6010174,2.7036032
-4014635140,node,Hôtel In Situ,hotel,Béziers,"Avenue du 22 Août 1944, Béziers",,,43.3435997,3.222749
+3812972495,node,Commémoration d'un accident aérien,memorial,Béziers,,,,43.5329321,2.8078317
+3884123747,node,,viewpoint,Béziers,,,,43.3533248,2.7475046
+3890956624,node,,viewpoint,Béziers,,,,43.3290707,2.7399441
+3910705811,node,,memorial,Béziers,,,,43.3722589,3.2498243
+3940774426,node,,memorial,Béziers,,,,43.588861,3.2514476
+3942688958,node,,viewpoint,Béziers,,,,43.567418,3.2637778
+3944965330,node,,viewpoint,Béziers,,,,43.5634617,3.2486912
+3992313139,node,Séguy,ruins,Béziers,,,,43.314757,2.6116314
+4003828053,node,,ruins,Béziers,,,,43.4012019,2.9876505
+4005466824,node,,ruins,Béziers,,,,43.3845952,2.8943495
+4005466837,node,,ruins,Béziers,,,,43.3855859,2.8952701
+4009701518,node,,memorial,Béziers,,,,43.5658029,2.9310729
+4014635140,node,Hôtel In Situ,hotel,Béziers,"Avenue du 22 Août 1944, 34500, Béziers",34500,,43.3435997,3.222749
 4023734600,node,Pizzeria Le Cardinal,restaurant,Béziers,10 Avenue du Pont Vieux,,,43.338409,3.2050328
-4023751239,node,Le Balthus,restaurant,Béziers,"Rue Guibal, Béziers",,,43.3437902,3.215279
+4023751239,node,Le Balthus,restaurant,Béziers,"Rue Guibal, 34500, Béziers",34500,,43.3437902,3.215279
 4032631889,node,P'tit Dej Hôtel Beziers,hotel,Béziers,,,https://www.ptitdejhotel-beziers-est.com/,43.3294815,3.2879002
+4034121942,node,Calisso,ruins,Béziers,,,,43.4898425,2.9898569
+4036261952,node,,artwork,Béziers,,,,43.3964044,3.3677792
+4036449781,node,,memorial,Béziers,,,,43.3947721,3.3660388
+4038190553,node,La Seigne,ruins,Béziers,,,,43.4368444,3.0291259
+4038495686,node,Rigoula,ruins,Béziers,,,,43.4126225,3.0807627
+4038512492,node,Petit Mus,ruins,Béziers,,,,43.4267894,3.1147448
+4038981960,node,,memorial,Béziers,,,,43.4266295,3.2993542
+4039279711,node,Château de l'Hermitage de Combas,castle,Béziers,,,,43.4371024,3.3287025
+4039279712,node,Château du Coussat,castle,Béziers,,,,43.4308097,3.3146862
+4040269430,node,,ruins,Béziers,,,,43.3813432,2.573743
+4043339734,node,La Balme,ruins,Béziers,,,,43.4084276,2.6234308
+4049694833,node,Les Cadastres,ruins,Béziers,,,,43.4238815,3.5267913
+4054245458,node,,ruins,Béziers,,,,43.4105734,2.8515998
+4054734236,node,Las Borios,ruins,Béziers,,,,43.4618865,2.8086445
+4055210420,node,Saint-Aulary,ruins,Béziers,,,,43.5014516,2.7626934
+4059703821,node,,viewpoint,Béziers,,,,43.3484064,2.7160836
+4068495415,node,Le Causse,ruins,Béziers,,,,43.4263916,3.3703799
+4070078053,node,,ruins,Béziers,,,,43.4019268,2.6429857
+4077415871,node,,memorial,Béziers,,,,43.3228394,3.3041098
+4079298633,node,,artwork,Béziers,,,,43.2690372,3.2234498
 4080594248,node,,restaurant,Béziers,,,,43.2361784,3.2595078
-4083318993,node,Les Enfants Terribles,restaurant,Béziers,"28 Boulevard de la République, Villeneuve-lès-Béziers",,https://restaurant-hotel-lesenfantsterribles34.fr/,43.3157246,3.2808199
-4089823504,node,Ristorante Del Arte,restaurant,Béziers,"51 Avenue de la Voie Domitienne, Béziers",,https://www.delarte.fr/restaurants/1284-beziers,43.3479072,3.2519773
+4083318993,node,Les Enfants Terribles,restaurant,Béziers,"28 Boulevard de la République, 34420, Villeneuve-lès-Béziers",34420,https://restaurant-hotel-lesenfantsterribles34.fr/,43.3157246,3.2808199
+4083434634,node,Église Sainte-Euphémie,ruins,Béziers,,,,43.425682,2.8264458
+4083440861,node,,ruins,Béziers,,,,43.429798,2.8302733
+4086212128,node,,ruins,Béziers,,,,43.434048,3.0539759
+4089823504,node,Ristorante Del Arte,restaurant,Béziers,"51 Avenue de la Voie Domitienne, 34500, Béziers",34500,https://www.delarte.fr/restaurants/1284-beziers,43.3479072,3.2519773
+4102662100,node,Chapelle Saint-Vincent,ruins,Béziers,,,,43.3622112,3.0244248
+4114668073,node,Château,ruins,Béziers,,,,43.3550407,2.5798218
+4134270080,node,Musée agathois Jules Baudou,museum,Béziers,"5 Rue de la Fraternité, 34300, Agde",34300,https://www.museeagathois.fr,43.3118294,3.4686196
+4140625280,node,Stèle de la Paix,memorial,Béziers,,,,43.3467478,2.9620262
+4158528106,node,Oppidum de Magalas,attraction,Béziers,,,,43.4751977,3.2299925
+4183765841,node,,viewpoint,Béziers,,,,43.5578657,2.9178305
+4237356518,node,,memorial,Béziers,,,,43.7368141,3.1943266
+4268100315,node,,memorial,Béziers,,,,43.4480813,2.9836599
 4296933751,node,,restaurant,Béziers,,,,43.2763641,3.4920987
 4298821834,node,,restaurant,Béziers,,,,43.3892637,3.4633726
 4301240139,node,Vivaldi,restaurant,Béziers,,,,43.2754699,3.4849134
@@ -221,95 +492,174 @@ osm_id,osm_type,name,category,city,address,post code,website,lat,lon
 4301782998,node,Le Corail,restaurant,Béziers,,,,43.2758772,3.4851331
 4301787639,node,Le Palmier d'Or,restaurant,Béziers,,,,43.275967,3.484963
 4303261765,node,Pizzeria di Leonelli,restaurant,Béziers,,,,43.276226,3.4860489
+4307388034,node,Hommage aux pieds-noirs,monument,Béziers,,,,43.2775223,3.516728
 4307388039,node,La Cabane du Pêcheur,restaurant,Béziers,1 Rue de la Capitainerie,,,43.2742626,3.5091799
 4307398759,node,Le Solo,restaurant,Béziers,,,,43.2797185,3.5166429
 4307823931,node,Au Bonheur du Goût,restaurant,Béziers,,,,43.2741824,3.5100387
 4307823932,node,Au Soleil,restaurant,Béziers,,,,43.274116,3.5101406
 4307827467,node,Le Nautic,restaurant,Béziers,,,,43.2743659,3.5097302
 4307827469,node,Da Peppino,restaurant,Béziers,9 Rue de l'Estacade,,,43.2741412,3.5100977
-4308786090,node,La Villa Guy & Spa,hotel,Béziers,"2 Rue verdi, Béziers",,https://lavillaguy.com/,43.3429084,3.2250865
+4308786090,node,La Villa Guy & Spa,hotel,Béziers,"2 Rue verdi, 34500, Béziers",34500,https://lavillaguy.com/,43.3429084,3.2250865
 4312457017,node,La Galinière,restaurant,Béziers,,,,43.3263025,3.044771
+4315720373,node,,memorial,Béziers,,,,43.4495266,3.0489122
+4323497627,node,,memorial,Béziers,,,,43.4354056,2.913301
+4326555665,node,,monument,Béziers,,,,43.2774378,3.2831018
 4329040890,node,La Marmite du Pecheur,restaurant,Béziers,3 Boulevard Jean Dauga,,https://www.la-marmite-du-pecheur.com/,43.2482836,3.2952522
-4329050689,node,La Madrague,restaurant,Béziers,27 Boulevard Jean Dauga,,,43.2497645,3.2959727
+4329050689,node,La Madrague,restaurant,Béziers,"27 Boulevard Jean Dauga, 34350",34350,,43.2497645,3.2959727
 4329131970,node,L'Infini,restaurant,Béziers,,,,43.2747051,3.4867761
-4335113293,node,Mary’s,restaurant,Béziers,,,,43.2939932,3.525797
-4335113294,node,Les Jardins du 16,restaurant,Béziers,,,,43.2956222,3.5288328
-4335130191,node,Le Bangkok,restaurant,Béziers,3 Avenue des Matelots,,,43.2955506,3.5287994
-4335183489,node,Istar,restaurant,Béziers,,,,43.2940772,3.5261509
-4335183689,node,L’air marin,restaurant,Béziers,,,,43.2955068,3.5286179
-4335189589,node,Le Boudoir,restaurant,Béziers,Avenue de la Joliette,,,43.2953461,3.5248497
-4335376896,node,Le Baskin,restaurant,Béziers,,,,43.2935614,3.5289903
-4336608793,node,Cow Girl,restaurant,Béziers,,,,43.2942877,3.5257278
+4335113293,node,Mary’s,restaurant,Béziers,34300,34300,,43.2939932,3.525797
+4335113294,node,Les Jardins du 16,restaurant,Béziers,34300,34300,,43.2956222,3.5288328
+4335130191,node,Le Bangkok,restaurant,Béziers,"3 Avenue des Matelots, 34300",34300,,43.2955506,3.5287994
+4335183489,node,Istar,restaurant,Béziers,34300,34300,,43.2940772,3.5261509
+4335183689,node,L’air marin,restaurant,Béziers,34300,34300,,43.2955068,3.5286179
+4335183850,node,Plaque commémorative Henri Mas,memorial,Béziers,,,,43.5065559,3.3106238
+4335189589,node,Le Boudoir,restaurant,Béziers,"Avenue de la Joliette, 34300",34300,,43.2953461,3.5248497
+4335376896,node,Le Baskin,restaurant,Béziers,34300,34300,,43.2935614,3.5289903
+4336608793,node,Cow Girl,restaurant,Béziers,34300,34300,,43.2942877,3.5257278
+4337110389,node,Zoo Le Nouveau Monde,attraction,Béziers,Route de Bessan,,,43.3820963,3.3911676
+4350192132,node,,memorial,Béziers,,,,43.617852,2.8568757
+4350216346,node,Fourmi Géante,artwork,Béziers,,,,43.6099351,3.1717984
+4353830823,node,,artwork,Béziers,,,,43.383031,3.4656344
 4357959497,node,,hotel,Béziers,7 Rue Jean-Paul Poumayrac,,,43.2756026,3.4822511
-4377110682,node,L'Ocre Rouge,restaurant,Béziers,"12 Place de la Croix, Hérépian",,http://www.locrerouge.fr,43.5926048,3.1165501
-4459073591,node,La Cave,restaurant,Béziers,Place de l'Ormeau,,,43.3535723,2.7770411
-4470121760,node,Petit Pierre,restaurant,Béziers,"22 Avenue Pierre Verdier, Béziers",,,43.344297,3.2308641
-4470126604,node,Buffet La Fraicheur,restaurant,Béziers,"Avenue Pierre Verdier, Béziers",,,43.3450185,3.2370943
+4364965753,node,,viewpoint,Béziers,,,,43.6852942,2.9622242
+4377110682,node,L'Ocre Rouge,restaurant,Béziers,"12 Place de la Croix, 34600, Hérépian",34600,http://www.locrerouge.fr,43.5926048,3.1165501
+4459073591,node,La Cave,restaurant,Béziers,"Place de l'Ormeau, 34210",34210,,43.3535723,2.7770411
+4470121760,node,Petit Pierre,restaurant,Béziers,"22 Avenue Pierre Verdier, 34500, Béziers",34500,,43.344297,3.2308641
+4470126604,node,Buffet La Fraicheur,restaurant,Béziers,"Avenue Pierre Verdier, 34500, Béziers",34500,,43.3450185,3.2370943
 4498735332,node,Chez Paul,restaurant,Béziers,,,,43.4618061,3.423385
 4498735334,node,Le Galiese,restaurant,Béziers,,,,43.4615581,3.4231823
-4620680575,node,Aux 2 Rivières,restaurant,Béziers,"5 Rue du Caire, Minerve",,,43.353414,2.7473117
+4547695769,node,Statue du Taureau,artwork,Béziers,,,,43.3323327,3.2620781
+4548842856,node,Statue Alphonse Mas,artwork,Béziers,,,,43.3398853,3.215835
+4564786255,node,Alzou,ruins,Béziers,,,,43.6823303,3.1389646
+4568412376,node,Sirène,artwork,Béziers,,,,43.2828512,3.4447245
+4614624812,node,,ruins,Béziers,,,,43.3874933,2.8989045
+4614745423,node,,ruins,Béziers,,,,43.372923,2.8499649
+4614978394,node,,ruins,Béziers,,,,43.3712018,2.9067306
+4620680575,node,Aux 2 Rivières,restaurant,Béziers,"5 Rue du Caire, 34210, Minerve",34210,,43.353414,2.7473117
 4623160709,node,La Montagne,restaurant,Béziers,,,,43.3139689,3.1400513
+4628380191,node,,viewpoint,Béziers,,,,43.5047264,3.048932
+4665919021,node,,memorial,Béziers,,,,43.5362201,3.4272475
 4695459711,node,La Lapinière,restaurant,Béziers,,,,43.3124429,3.1731652
 4695675201,node,Resto des potos,restaurant,Béziers,6 Rue de l'Artisanat,,,43.3064794,3.1676875
 4695675243,node,Brasserie Canté Café,restaurant,Béziers,,,,43.310334,3.1698943
+4719454449,node,Château de Pailhès,castle,Béziers,,,,43.4311533,3.1863702
+4720673510,node,,memorial,Béziers,,,,43.4309678,3.1861207
+4720673520,node,,artwork,Béziers,,,,43.43028,3.1860785
 4720673530,node,A boire et à manger,restaurant,Béziers,,,,43.4300347,3.1875397
 4721045723,node,La Cuisine de Bassac,restaurant,Béziers,,,,43.4404968,3.2072761
+4721045778,node,,artwork,Béziers,,,,43.4392317,3.2058901
 4722241427,node,Palais de Shayan,restaurant,Béziers,,,,43.3431931,3.2130378
 4722241428,node,Le Patio,restaurant,Béziers,,,https://restaurant-patio.fr,43.3438968,3.2132665
-4722241430,node,L'Alchimie,restaurant,Béziers,"2 Place de la Madeleine, Béziers",,,43.344651,3.2126084
+4722241430,node,L'Alchimie,restaurant,Béziers,"2 Place de la Madeleine, 34500, Béziers",34500,,43.344651,3.2126084
 4722241431,node,Les Caves de la Madeleine,restaurant,Béziers,2 Place de la Madeleine,,,43.3445948,3.2125648
 4722241432,node,Au Soleil,restaurant,Béziers,,,,43.3447114,3.2126673
 4722241445,node,Le Taj Mahal,restaurant,Béziers,,,,43.347837,3.2165145
 4722289296,node,Les Bons Amis,restaurant,Béziers,16 Rue Docteur Vernhes,,,43.3418115,3.2112953
+4722289301,node,Trompe-l'oeil,artwork,Béziers,,,,43.3419452,3.2113239
 4722289303,node,Pizzeria Aux Trois Arches,restaurant,Béziers,,,,43.3420372,3.2114699
 4722289304,node,Le XVIII,restaurant,Béziers,,,,43.3420733,3.211596
 4722289305,node,Le Petit Marais,restaurant,Béziers,,,,43.3421191,3.2117516
 4722289307,node,Le Vieux Siège,restaurant,Béziers,6 Place des Trois Six,,https://www.facebook.com/levieuxsiege/,43.3421013,3.2125284
-4722289308,node,le bistrot de l'hotel de ville beziers,restaurant,Béziers,"8 place des trois six, beziers",,,43.3420467,3.2125753
-4722289309,node,Le Trois Six,restaurant,Béziers,"10 Place des Trois Six, Béziers",,https://www.facebook.com/Le-Trois-Six-580760852105305/,43.3420048,3.2126115
+4722289308,node,le bistrot de l'hotel de ville beziers,restaurant,Béziers,"8 place des trois six, 34500, beziers",34500,,43.3420467,3.2125753
+4722289309,node,Le Trois Six,restaurant,Béziers,"10 Place des Trois Six, 34500, Béziers",34500,https://www.facebook.com/Le-Trois-Six-580760852105305/,43.3420048,3.2126115
 4722289310,node,Le Forum,restaurant,Béziers,,,,43.3419604,3.2126504
 4722289324,node,Le Millefeuille,restaurant,Béziers,,,,43.3419076,3.2129989
+4722362886,node,Monument d'Injalbert,artwork,Béziers,,,,43.3414157,3.2106826
 4722363892,node,Les Louis,restaurant,Béziers,,,,43.3418204,3.2102731
+4722363909,node,Statue de Jacques Vanière,artwork,Béziers,,,,43.3408682,3.2106101
 4725696435,node,Pizzacozy,restaurant,Béziers,,,,43.3451298,3.2153998
+4725696451,node,Monument à Jean Moulin,monument,Béziers,,,,43.338903,3.2203876
+4725696465,node,Enfant au poisson,artwork,Béziers,,,,43.3384255,3.2210676
 4725696722,node,Los amigos,restaurant,Béziers,16 Avenue Maréchal Joffre,,,43.3403847,3.2174762
+4725696791,node,,artwork,Béziers,,,,43.3375101,3.2135848
 4726429757,node,Pizza Hut,restaurant,Béziers,,,,43.3593624,3.3458894
-4795716022,node,Le Bistronome,restaurant,Béziers,Rue Charles Barthès,,https://www.lebistronome34.com/,43.4884733,2.7587503
+4727939404,node,Buste de Maffre Ermengaud,artwork,Béziers,,,,43.3383152,3.2216715
+4727939405,node,Buste de Benjamin Fabre,artwork,Béziers,,,,43.3381669,3.2215924
+4727939406,node,Buste de Paul-Bernard Rozier,artwork,Béziers,,,,43.3382171,3.2213013
+4727939407,node,Buste de Gabriel Azais,artwork,Béziers,,,,43.33838,3.2214301
+4727939408,node,Buste de Jean-Pons-Guillaume Viennet,artwork,Béziers,,,,43.3384585,3.2206844
+4727939409,node,Buste de Jacques Azais,artwork,Béziers,,,,43.3386156,3.2209017
+4732046099,node,,artwork,Béziers,,,,43.339123,3.2199597
+4732046100,node,,artwork,Béziers,,,,43.3391098,3.2200891
+4732046101,node,,artwork,Béziers,,,,43.3391357,3.2198176
+4732046107,node,Victor Hugo,artwork,Béziers,,,,43.337907,3.2195237
+4732046108,node,Buste de Jean Laurès,artwork,Béziers,,,,43.3377062,3.2200197
+4739842740,node,Château Saint-Bauzille,castle,Béziers,,,,43.3565329,3.2923736
+4739842741,node,Château de Poussan-le-Haut,castle,Béziers,,,,43.3069681,3.1844171
+4741162821,node,Château de Preignes-le-Vieux,castle,Béziers,,,,43.3265337,3.3779134
+4795716022,node,Le Bistronome,restaurant,Béziers,"Rue Charles Barthès, 34220",34220,https://www.lebistronome34.com/,43.4884733,2.7587503
 4832325089,node,Burger & Bianca,restaurant,Béziers,42 Rue Paul Riquet,,,43.3444404,3.2131452
-4833518680,node,Hôtel le XIX,hotel,Béziers,"19 Place Jean Jaurès, Béziers",,http://www.hoteldixneuf.com,43.3411987,3.2153146
+4833518680,node,Hôtel le XIX,hotel,Béziers,"19 Place Jean Jaurès, 34500, Béziers",34500,http://www.hoteldixneuf.com,43.3411987,3.2153146
+4848689224,node,Musée Boby Lapointe,museum,Béziers,"1 Place Gambetta, 34120, Pézenas",34120,https://bobylapointe.fr/l'a-mus%C3%A9e,43.460971,3.4233302
+4855928502,node,,artwork,Béziers,,,,43.4273726,2.7640023
+4855928509,node,Orus The Moon Bird,artwork,Béziers,,,,43.4181521,2.7406659
 4859884231,node,Le Bistrot de la Vière,restaurant,Béziers,,,,43.3817021,3.4010343
-4860721395,node,L'Écluse,restaurant,Béziers,"16 Avenue Pierre Bérégovoy, Villeneuve-lès-Béziers",,https://www.restaurant-ecluse-beziers.fr/,43.3230118,3.2644544
+4860721395,node,L'Écluse,restaurant,Béziers,"16 Avenue Pierre Bérégovoy, 34420, Villeneuve-lès-Béziers",34420,https://www.restaurant-ecluse-beziers.fr/,43.3230118,3.2644544
 4868217868,node,Ibis,hotel,Béziers,,,,43.3348514,3.2781533
 4868222504,node,Ibis Budget,hotel,Béziers,,,,43.3354087,3.278149
 4883817473,node,Pizza di Mario,restaurant,Béziers,,,,43.4605827,3.4234367
 4893834121,node,Hana sushi,restaurant,Béziers,2 Rue Aristide Rouzière,,,43.4607606,3.4241062
 4922465451,node,Auberge La Resse,hotel,Béziers,,,,43.5976379,2.6938485
+4945729512,node,Fourmi Géante,artwork,Béziers,,,,43.6104733,3.1721791
+4945729513,node,Fourmi Géante,artwork,Béziers,,,,43.6104296,3.1720409
+4948524790,node,Montagne de Conil,viewpoint,Béziers,,,,43.6140655,3.0326627
 4970923624,node,King Pizza,restaurant,Béziers,,,,43.2817668,3.4975476
 4973931421,node,La Plage,restaurant,Béziers,2 Passage du Soleil Levant,,,43.2827704,3.5204009
 4978088227,node,Aquabouff,restaurant,Béziers,,,,43.2808065,3.494796
 4978088228,node,La Parenthèse,restaurant,Béziers,,,,43.285492,3.5091309
+4987931832,node,,artwork,Béziers,,,,43.6107998,2.9752421
 5002047226,node,Donna Louisa - Pizzeria Artisanale Grill au Feu de Bois,restaurant,Béziers,2 bis Rue de l'Occitanie,,,43.3239534,3.3055072
 5031624821,node,La Paillotte,restaurant,Béziers,,,,43.2780561,3.3573871
-5031624921,node,Marie Jack,restaurant,Béziers,"Place du Bicentenaire, Portiragnes",,https://www.facebook.com/Restaurant-Marie-Jack-229684950404840/,43.2781465,3.3574704
-5036205924,node,L'Imprévu,restaurant,Béziers,"Place du Bicentenaire, Portiragnes",,https://www.facebook.com/limprevuportiragnes/menu/?locale=fr_FR,43.2783138,3.3575725
+5031624921,node,Marie Jack,restaurant,Béziers,"Place du Bicentenaire, 34420, Portiragnes",34420,https://www.facebook.com/Restaurant-Marie-Jack-229684950404840/,43.2781465,3.3574704
+5036205924,node,L'Imprévu,restaurant,Béziers,"Place du Bicentenaire, 34420, Portiragnes",34420,https://www.facebook.com/limprevuportiragnes/menu/?locale=fr_FR,43.2783138,3.3575725
 5040765344,node,IL Catanese,restaurant,Béziers,7 Boulevard du Onze Novembre,,https://m.facebook.com/IL-Catanese-Italiensicilienpizzeriaouvert-a-lann%C3%A9e-150160456306/,43.2438045,3.2879095
 5058817869,node,Aux Petits Oignons,restaurant,Béziers,,,,43.2850857,2.7283256
+5059487086,node,,memorial,Béziers,,,,43.3702219,3.1579877
 5059795785,node,Restaurant Bel / Parc Hotel,restaurant,Béziers,,,,43.2824637,2.7307643
-5059848017,node,Restaurant L'Écluse,restaurant,Béziers,"2 Écluse d'Ognon, Olonzac",,,43.2694309,2.7386715
+5059848017,node,Restaurant L'Écluse,restaurant,Béziers,"2 Écluse d'Ognon, 34210, Olonzac",34210,,43.2694309,2.7386715
 5060456356,node,Restaurant 33,restaurant,Béziers,,,,43.2903416,3.1270288
 5060468953,node,Restaurant Bar Acropole,restaurant,Béziers,,,,43.2897449,3.1284062
+5127135901,node,Moulin en ruine,ruins,Béziers,,,,43.5988993,3.0391551
+5127137215,node,,viewpoint,Béziers,,,,43.6064703,3.0299692
 5141345785,node,Le Restaurant des 9 Écluses,restaurant,Béziers,,,,43.3302283,3.1981293
 5148479108,node,La Baraka,restaurant,Béziers,34 Avenue Camille Saint Saëns,,,43.3422373,3.2205686
 5193687924,node,O grain de Sel,restaurant,Béziers,,,,43.2848085,3.4449124
 5193687925,node,Le Ponton,restaurant,Béziers,19 Quai Commandant Meric,,,43.2847328,3.444909
+5236085203,node,,viewpoint,Béziers,,,,43.3910408,2.8609997
+5260435321,node,Ancienne chapelle Saint-Georges,ruins,Béziers,,,,43.7058191,3.1983792
+5268779106,node,Ruines de la Renarderie-Vieille,ruins,Béziers,,,,43.5354438,3.086606
 5313907522,node,La cantine,restaurant,Béziers,,,,43.285502,3.510656
 5313907823,node,Le Thai,restaurant,Béziers,,,,43.285734,3.511014
-5387958021,node,Le Jardin d’Eden,hotel,Béziers,Boulevard des Matelots,,,43.2951328,3.5298674
+5316472394,node,,memorial,Béziers,,,,43.3005259,3.4817321
+5318387467,node,,artwork,Béziers,,,,43.300355,3.4719395
+5318387469,node,Cathédrale d'Agde,artwork,Béziers,,,,43.3013212,3.470258
+5320027602,node,Bataille de Camerone (Mexique),memorial,Béziers,,,,43.3000193,3.4636682
+5339049229,node,trompe l’œil,artwork,Béziers,,,,43.3452087,3.2157353
+5339049230,node,trompe l’œil Marcelin Albert,artwork,Béziers,,,,43.3392851,3.2136533
+5339051132,node,trompe l’œil théâtre,artwork,Béziers,,,,43.3445576,3.2156626
+5339051133,node,trompe l’œil Molière,artwork,Béziers,,,,43.3411553,3.2136884
+5339053626,node,trompe l’œil Pèlerin St Jean de Compostele,artwork,Béziers,,,,43.3384803,3.2143615
+5339089021,node,Trompe l’œil L’Arlesienne,artwork,Béziers,,,,43.3425414,3.2174265
+5341009094,node,Fresque murale Le Chameau de Béziers,artwork,Béziers,,,,43.354858,3.2369924
+5387958021,node,Le Jardin d’Eden,hotel,Béziers,"Boulevard des Matelots, 34300",34300,,43.2951328,3.5298674
+5411770426,node,,ruins,Béziers,,,,43.5940226,2.9206911
+5411835543,node,,viewpoint,Béziers,,,,43.5883752,2.9089884
+5433921552,node,,ruins,Béziers,,,,43.5974306,2.921682
+5434958995,node,,ruins,Béziers,,,,43.5212398,3.0172652
+5435007581,node,,ruins,Béziers,,,,43.4943005,3.1018674
+5435007752,node,,ruins,Béziers,,,,43.4914938,3.0971657
+5435416532,node,,ruins,Béziers,,,,43.5364414,3.0747852
 5473241239,node,Le Voilis,hotel,Béziers,,,http://www.voilis.com/,43.2831604,3.4489107
+5522710413,node,,memorial,Béziers,,,,43.5047443,3.3718316
+5522710414,node,Statue de la Vierge,artwork,Béziers,,,,43.5042728,3.3721034
+5522711136,node,Pressoir manuel,artwork,Béziers,,,,43.510883,3.3672862
 5557505922,node,La Jetée,restaurant,Béziers,,,,43.2839926,3.5077576
 5559829664,node,Lou Recantou,restaurant,Béziers,Rue de la Tramontane,,,43.2766271,3.3578945
 5559840681,node,L‘Amirada,restaurant,Béziers,Avenue de la Méditerranée,,https://www.lamirada.fr/,43.3214815,3.2888566
+5594297486,node,Espace Patrimoine,museum,Béziers,"3 Place de l'Église, 34720, Caux",34720,https://www.lesamisduclocherdecaux.com/,43.5068378,3.3689492
 5602381221,node,L'Ardoise,restaurant,Béziers,3 Rue Lambert Maurel,,https://lardoisedumarche.com/,43.2839219,3.4496075
 5610121974,node,La Lampisterie,restaurant,Béziers,Piste Verte,,,43.5564934,2.9167676
+5613326057,node,,viewpoint,Béziers,,,,43.3491536,2.706086
 5613328717,node,China Town,restaurant,Béziers,,,,43.3422664,3.2198857
 5613328932,node,L'hôtel particulier,hotel,Béziers,,,,43.343721,3.2224187
 5613328936,node,La Charnière,restaurant,Béziers,,,,43.3415746,3.2152326
@@ -328,7 +678,9 @@ osm_id,osm_type,name,category,city,address,post code,website,lat,lon
 5613329010,node,Au pif rouge,restaurant,Béziers,,,,43.3420549,3.2137658
 5613329013,node,Eben Ezer,restaurant,Béziers,,,,43.3437694,3.2179687
 5613329016,node,Au pays des magrets,restaurant,Béziers,,,,43.3433444,3.2237512
+5613329019,node,,viewpoint,Béziers,,,,43.3422199,3.2092099
 5613329020,node,Le pouss pouss,restaurant,Béziers,,,,43.34388,3.2277112
+5639483927,node,Le Roc,ruins,Béziers,,,,43.4093665,2.7174318
 5666725916,node,Patio d‘Oc,restaurant,Béziers,,,,43.2814899,3.2805624
 5667877192,node,La Table de Rive gauche,restaurant,Béziers,,,,43.2813528,3.2918027
 5667877193,node,lou serinhanot,restaurant,Béziers,10 Place de la Libération,,,43.2823933,3.2801441
@@ -341,87 +693,257 @@ osm_id,osm_type,name,category,city,address,post code,website,lat,lon
 5686010069,node,Le Lapin de Baluffe,restaurant,Béziers,,,,43.2910129,3.4639507
 5688729337,node,L'Arrivage,restaurant,Béziers,,,,43.2856728,3.5108688
 5688729338,node,Sea Side,restaurant,Béziers,,,,43.2855485,3.510758
-5700035052,node,Tête d'anchois,restaurant,Béziers,"19 Rue de la Foire, Caux",,https://tetedanchois.fr/,43.507129,3.3678198
+5700035052,node,Tête d'anchois,restaurant,Béziers,"19 Rue de la Foire, 34720, Caux",34720,https://tetedanchois.fr/,43.507129,3.3678198
+5715772300,node,,memorial,Béziers,,,,43.506981,3.3694806
 5720418857,node,La Gam'L,restaurant,Béziers,,,,43.284523,3.4533224
+5723364954,node,Statue de la Vierge,artwork,Béziers,,,,43.5066764,3.4562784
+5723364955,node,,memorial,Béziers,,,,43.5066969,3.4560786
+5736496823,node,,attraction,Béziers,,,,43.3400722,3.2185632
+5769922980,node,,artwork,Béziers,,,,43.3575793,3.1208945
 5795915802,node,Le Mathi's,restaurant,Béziers,22 Allées Paul Riquet,,,43.3434518,3.2159777
 5803541113,node,L'Especiaria,restaurant,Béziers,,,,43.2898521,2.7661189
 5808889453,node,La Belle Époque,restaurant,Béziers,,,,43.460568,3.4225084
 5812892363,node,La guinguette,restaurant,Béziers,1 Avenue Carrion de Nizas,,,43.4643536,3.4234535
+5814351623,node,,artwork,Béziers,,,,43.5057429,3.3703442
+5824175590,node,,viewpoint,Béziers,,,,43.5514777,2.7922412
+5825326384,node,,memorial,Béziers,,,,43.2995956,2.759563
 5844761448,node,Les Pieds dans le Plat,restaurant,Béziers,,,,43.459292,3.4227584
+5914101366,node,Parc éolien George Bartoletti,park,Béziers,,,,43.6846259,3.1270344
 5923934187,node,L'Assiette d'Anatole,restaurant,Béziers,,,,43.45923,3.4227342
 5923978686,node,Chez Hansi,restaurant,Béziers,,,,43.4595436,3.4226524
+6017343147,node,Trompe l'oeil 9 écluses,artwork,Béziers,,,,43.3389486,3.2115707
+6054297605,node,,artwork,Béziers,,,https://www.peinturemurale.com/portfolio/le-trompe-loeil-de-bedarieux/,43.6161272,3.1572881
+6054330933,node,,artwork,Béziers,,,,43.6149089,3.1584051
+6136083742,node,Monument aux Morts,memorial,Béziers,,,,43.6158724,3.1578607
 6149273415,node,Lou Pradal,hotel,Béziers,,,,43.5507508,2.6891867
 6153726938,node,Relais Chantovent,restaurant,Béziers,17 Grand Rue,,,43.3541753,2.7469525
 6155902289,node,Le Poisson Verre,restaurant,Béziers,5 Rue de la Foire,,,43.460034,3.4232547
 6155982985,node,Piaaz L'Entracte,restaurant,Béziers,,,,43.4592081,3.4247741
 6155982987,node,La Ripaille,restaurant,Béziers,2 Rue de la Foire,,,43.4601315,3.4232755
+6209094829,node,,memorial,Béziers,,,,43.4889753,2.7576654
+6240795327,node,Buste de Claude Terrisse,artwork,Béziers,,,,43.3139736,3.4719505
 6315882386,node,Brasserie Pizzeria,restaurant,Béziers,,,,43.3036539,3.4844955
+6418391756,node,,viewpoint,Béziers,,,,43.3403475,3.2112117
+6486032849,node,,memorial,Béziers,,,,43.4344252,3.4410938
+6486096159,node,,artwork,Béziers,,,,43.3292428,3.0411221
+6486125646,node,Plaque commémorative de la rafle du 9 juin 1944,memorial,Béziers,,,,43.3280523,3.0441959
 6512140876,node,Chez Mamitta,restaurant,Béziers,8 Boulevard du Front de Mer,,,43.283114,3.4460613
+6532859521,node,,viewpoint,Béziers,,,,43.4016688,3.4719596
 6539435730,node,Café-Brasserie du Midi,restaurant,Béziers,,,,43.4605957,3.425025
 6548112408,node,Brasserie le Concept,restaurant,Béziers,,,,43.3137828,3.4683276
 6550037555,node,La plage,restaurant,Béziers,,,,43.2830681,3.4486238
 6550037556,node,Velicio,restaurant,Béziers,27 Boulevard du Front de Mer,,,43.2830579,3.4487551
+6572176600,node,Abri (en bois) + vue,viewpoint,Béziers,,,,43.7126194,3.0890764
+6691258999,node,,artwork,Béziers,,,,43.3350286,3.1985316
+6697504491,node,Table d'orientation,viewpoint,Béziers,,,,43.3550412,2.6643692
+6698777189,node,La Candela,viewpoint,Béziers,,,,43.3553349,2.7449261
 6720807178,node,Le 120,restaurant,Béziers,10 Rue Conti,,,43.459512,3.4242306
 6724795496,node,Chez Ricardo,restaurant,Béziers,5 Chemin du Front de Mer,,,43.2813429,3.5200234
-6887277080,node,Le Pitchoun,restaurant,Béziers,3 Place Saint-Clair,,,43.2848323,3.5121661
+6768555180,node,Bunker 638,museum,Béziers,,,https://www.capdagde.com/tourisme/patrimoine-culturel/bunkers-638-et-610/,43.28858,3.4381286
+6887277080,node,Le Pitchoun,restaurant,Béziers,"3 Place Saint-Clair, 34300",34300,,43.2848323,3.5121661
+6895349339,node,,viewpoint,Béziers,,,,43.6057156,3.0302323
+6990989411,node,Amphitrite,artwork,Béziers,,,,43.3120484,3.4666827
+7021323124,node,,viewpoint,Béziers,,,,43.2988134,3.5001602
+7021348884,node,,viewpoint,Béziers,,,,43.3419607,3.2092839
+7026375377,node,,viewpoint,Béziers,,,,43.2776476,3.3514308
+7095870185,node,,artwork,Béziers,,,,43.5797842,3.0601242
+7151898668,node,,artwork,Béziers,,,,43.3471587,3.2227203
+7151898669,node,,artwork,Béziers,,,,43.3473783,3.2233399
+7196392736,node,,memorial,Béziers,,,,43.3600001,3.4247437
+7276525692,node,,viewpoint,Béziers,,,,43.330765,2.8497451
 7295278093,node,La Rouquette,restaurant,Béziers,,,,43.3668992,3.0502322
 7308994478,node,La Boufanelle,restaurant,Béziers,,,,43.3650809,3.2477608
+7312357942,node,,memorial,Béziers,,,,43.4452818,3.378654
+7322417038,node,,artwork,Béziers,,,,43.3354505,3.2522421
+7497231349,node,,viewpoint,Béziers,,,,43.2898218,2.7809868
 7501712233,node,Auberge de l'Espinouse,hotel,Béziers,,,https://aubergeespinouse.fr/,43.6064129,2.7976293
 7523253431,node,Château St Pierre de Serjac,hotel,Béziers,,,,43.4705473,3.2506181
+7553558656,node,,memorial,Béziers,,,,43.6057035,2.7986348
+7556039483,node,Stèle FFI,memorial,Béziers,,,https://fusilles-40-44.maitron.fr/?article178947,43.5694249,3.1699848
+7556039484,node,Stèle Louis Marres,memorial,Béziers,,,https://fusilles-40-44.maitron.fr/?article178947,43.5694283,3.1699506
+7556041985,node,Stèle Andrée de David-Beauregard,memorial,Béziers,,,https://fusilles-40-44.maitron.fr/?article178947,43.5694347,3.1699097
+7578366011,node,Table d’orientation du Caroux,viewpoint,Béziers,,,,43.5903634,2.9790965
+7609595777,node,Le Poulot,ruins,Béziers,,,,43.6894461,2.9840394
 7618449488,node,Chez Graziella,restaurant,Béziers,2 Place de la Republique,,,43.2847207,3.4454761
+7618887608,node,Buste d'Alexandre Laissac,artwork,Béziers,,,,43.556471,2.9148719
 7633225536,node,Le Hype,restaurant,Béziers,,,,43.2833639,3.444771
 7682721654,node,Ché Olive,restaurant,Béziers,,,,43.3721761,3.0102168
+7691586674,node,,memorial,Béziers,,,,43.5289208,2.8336365
 7692473906,node,l'Orangerie,restaurant,Béziers,,,,43.3435033,3.2152831
+7699412628,node,Vierge du Redondel,artwork,Béziers,,,,43.7072253,3.1958387
 7699856957,node,Chez Olivia,restaurant,Béziers,,,,43.7054669,3.1872198
-7705357114,node,Auberge Gourmande,restaurant,Béziers,Lunas-les-Châteaux,,,43.7075155,3.1934633
+7705355359,node,,viewpoint,Béziers,,,,43.7079648,3.1973418
+7705355360,node,,viewpoint,Béziers,,,,43.7072809,3.1958664
+7705357114,node,Auberge Gourmande,restaurant,Béziers,"34650, Lunas-les-Châteaux",34650,,43.7075155,3.1934633
+7726204432,node,Oppidum,ruins,Béziers,,,,43.6413517,2.9714584
+7726228464,node,Point Sublime,viewpoint,Béziers,,,,43.6307,2.9491
+7736444401,node,Statue de la liberté,artwork,Béziers,,,,43.360628,3.4273508
+7764777538,node,Avenue des Justes parmis les Nations,memorial,Béziers,,,https://yadvashem-france.org/les-justes-parmi-les-nations/lieux-de-memoire/avenue-des-justes-a-bedarieux/,43.6120132,3.1702547
+7810421688,node,,memorial,Béziers,,,,43.3120648,2.660045
+7829182793,node,,memorial,Béziers,,,,43.3285874,2.6000704
 7831651053,node,Le Pourquoi Pas,restaurant,Béziers,,,https://lepourquoipas.eu,43.3252603,2.9945791
+7888197985,node,,viewpoint,Béziers,,,,43.4438313,2.8731576
 7895088587,node,Café de la Paix,restaurant,Béziers,,,,43.422082,2.9466781
-7906132471,node,Maison Carne,restaurant,Béziers,"Place Jean Jaurès, Béziers",,,43.3419252,3.2161884
+7906128477,node,Fresque Estienne d'Orves,artwork,Béziers,,,,43.3404293,3.2150506
+7906132471,node,Maison Carne,restaurant,Béziers,"Place Jean Jaurès, 34500, Béziers",34500,,43.3419252,3.2161884
+7934590374,node,Château de Cazilhac,castle,Béziers,,,,43.7074946,3.1668198
 8017165992,node,La Bohemia,restaurant,Béziers,,,,43.293445,3.5291853
 8123686519,node,Les chalets de la plage,hotel,Béziers,,,,43.2784839,3.363301
 8254947402,node,La Tour,restaurant,Béziers,4 Rue Marcelle Huc et Resistants,,,43.3297148,3.1204666
-8382460159,node,Chez l'Éclusier,restaurant,Béziers,"Port de plaisance, Colombiers",,https://restaurantchezleclusier.eatbu.com,43.3136929,3.1423097
-8382460165,node,Le Camion Marius,restaurant,Béziers,"15 Rue du Pin, Montady",,https://www.facebook.com/lecamionMarius/,43.3335354,3.1283179
+8342112735,node,,viewpoint,Béziers,,,,43.4773893,3.0134779
+8378053701,node,,viewpoint,Béziers,,,,43.3275318,2.8997489
+8382460159,node,Chez l'Éclusier,restaurant,Béziers,"Port de plaisance, 34440, Colombiers",34440,https://restaurantchezleclusier.eatbu.com,43.3136929,3.1423097
+8382460165,node,Le Camion Marius,restaurant,Béziers,"15 Rue du Pin, 34310, Montady",34310,https://www.facebook.com/lecamionMarius/,43.3335354,3.1283179
+8412670278,node,,artwork,Béziers,,,,43.344523,3.2186817
 8483411841,node,Guinguette de la Laiterie,restaurant,Béziers,,,https://la-guinguette-de-la-laiterie.business.site/,43.344597,3.2072644
+8488702087,node,,memorial,Béziers,,,,43.4287464,2.6534021
+8488713924,node,Lautié,ruins,Béziers,,,,43.4367439,2.6972508
+8506277309,node,Table d'orientation,viewpoint,Béziers,,,,43.474532,2.7157849
+8506364049,node,Statue de la Vierge,memorial,Béziers,,,,43.459714,2.6606226
 8542090497,node,Le Yucca,restaurant,Béziers,Chemin du Verdale,,,43.5981004,3.0827479
 8542660675,node,L'Orangeraie,restaurant,Béziers,,,,43.3852186,3.1654492
 8548763311,node,Chai Christine Cannac,restaurant,Béziers,3 Square Robert Schuman,,,43.6154312,3.1596649
-8662731899,node,Ô K’mil Délices,restaurant,Béziers,"31 Avenue Charles de Gaulle, Montady",,https://okmildelices.com,43.3375193,3.1360706
-8664493668,node,Bar Restaurant des Amis Tito,restaurant,Béziers,"5 Place de la République, Puisserguier",,,43.3681639,3.0410414
-8724558328,node,Le Saint-Martin,restaurant,Béziers,"1 Rue des Chandelles, Agde",,,43.2842708,3.5077077
+8551852608,node,,artwork,Béziers,,,,43.3841006,3.4678669
+8573192964,node,,artwork,Béziers,,,,43.3163028,3.2814547
+8586124261,node,Ancre de bâteau,artwork,Béziers,,,,43.2489764,3.2924116
+8591425891,node,Gaïa,artwork,Béziers,,,,43.2442576,3.2909478
+8594351083,node,,ruins,Béziers,,,,43.64757,3.0242282
+8625774372,node,,memorial,Béziers,,,,43.6137483,3.0408725
+8641839539,node,,viewpoint,Béziers,,,,43.3413873,2.9629652
+8662731899,node,Ô K’mil Délices,restaurant,Béziers,"31 Avenue Charles de Gaulle, 34310, Montady",34310,https://okmildelices.com,43.3375193,3.1360706
+8664493668,node,Bar Restaurant des Amis Tito,restaurant,Béziers,"5 Place de la République, 34620, Puisserguier",34620,,43.3681639,3.0410414
+8677595342,node,Vestiges aval du Castellas,ruins,Béziers,,,,43.5748681,2.9360989
+8688322301,node,Statue de la Vierge,artwork,Béziers,,,,43.4457453,3.3798918
+8712853711,node,Bau Filliti,viewpoint,Béziers,,,,43.5971997,2.9448896
+8724558328,node,Le Saint-Martin,restaurant,Béziers,"1 Rue des Chandelles, 34300, Agde",34300,,43.2842708,3.5077077
+8734573148,node,,artwork,Béziers,,,,43.3958394,3.3671285
+8749666266,node,Table d'Orientation,viewpoint,Béziers,,,,43.7488217,3.096792
 8749809822,node,Mon restaurant d’été,restaurant,Béziers,,,,43.2709446,3.3297932
+8757810583,node,,viewpoint,Béziers,,,,43.3385881,3.2078313
 8816585202,node,Le Thai de Castigno,restaurant,Béziers,,,,43.3972168,2.8887661
 8824350325,node,Damejane,restaurant,Béziers,880 Route de Pézenas,,,43.5645235,3.1894521
+8831853443,node,,viewpoint,Béziers,,,,43.3531065,2.5813747
 8833129291,node,Château de Siran,hotel,Béziers,,,https://www.chateau-de-siran.com/fr/,43.3128056,2.6620737
 8864977748,node,La Mécanique des Frères Bonano,restaurant,Béziers,,,,43.5784057,3.0231906
 8865081743,node,Lo T’chapaïre,restaurant,Béziers,,,,43.5658009,2.9578608
 8865081755,node,La Rodge,restaurant,Béziers,,,,43.5665038,2.9611921
 8910602259,node,Au P‘tit Gaulois,restaurant,Béziers,,,,43.2391439,3.2779392
 8910613540,node,Sasu Bella Sicilia,restaurant,Béziers,15 Avenue des Elysées,,,43.2392548,3.2781484
+8917724925,node,Plaque des martyrs,memorial,Béziers,,,,43.6736861,3.1709685
+8917771781,node,,artwork,Béziers,,,,43.6524675,3.1305684
 8929318890,node,Nudisme Interdit,restaurant,Béziers,,,,43.2753948,3.4954437
 8929320169,node,Jungle Beach,restaurant,Béziers,2 Impasse des Sargasses,,,43.2752501,3.4988784
 8929337915,node,Bianca Beach,restaurant,Béziers,,,,43.2754967,3.4968258
 8929337916,node,Plage du Golf,restaurant,Béziers,,,,43.2749651,3.5007245
 8941940443,node,Le bivouac qui fume,restaurant,Béziers,,,,43.4530232,3.4213636
+8957526298,node,,memorial,Béziers,,,,43.3225871,2.7372634
 8969188734,node,La Barraquita,restaurant,Béziers,,,,43.5646494,2.9749211
+8976805457,node,,memorial,Béziers,,,,43.424279,3.0281422
+8987808318,node,Tata,attraction,Béziers,,,,43.4297855,3.3013518
+9008383697,node,,memorial,Béziers,,,,43.5084978,3.0755369
 9008388907,node,El Chupito,restaurant,Béziers,,,,43.266272,3.3325768
 9008554413,node,Ô Délices des Campeurs...,restaurant,Béziers,,,,43.2685086,3.3328187
 9009615560,node,Restaurant Le Saint-Pierre,restaurant,Béziers,,,,43.2930236,3.4170317
+9017388030,node,,artwork,Béziers,,,,43.2672968,3.3306364
+9022469891,node,Plage de la Grande Maïre,beach,Béziers,,,,43.268035,3.3410232
+9026525620,node,Plage des Orpellières,beach,Béziers,,,,43.2585557,3.320302
+9026588360,node,,artwork,Béziers,,,,43.2800934,3.2799421
 9031393137,node,L'Esclop,restaurant,Béziers,,,,43.523675,2.8280979
 9037268368,node,L'Artichaud,restaurant,Béziers,1 Avenue de l'Espinouse,,,43.5934396,3.1141291
 9037268372,node,,restaurant,Béziers,,,,43.5928933,3.1150961
+9067025164,node,,artwork,Béziers,,,,43.4571757,3.4248759
+9067355623,node,,viewpoint,Béziers,,,,43.5581611,2.9681696
 9069595782,node,Guinguette du mil'yeux,restaurant,Béziers,,,,43.5688792,2.9823164
 9070568407,node,L'atelier 7,restaurant,Béziers,7 Avenue du Martinet,,,43.5810385,3.0127546
+9077833556,node,,memorial,Béziers,,,,43.6115365,3.0079104
+9082385294,node,,viewpoint,Béziers,,,,43.3595981,2.744206
+9092347243,node,,memorial,Béziers,,,,43.6795802,3.1686673
 9100740879,node,Restaurant de l'Orb,restaurant,Béziers,1 Rue du Pied de Poule,,,43.4496375,3.0482977
+9103787544,node,,viewpoint,Béziers,,,,43.5938754,2.9690846
+9111393254,node,,ruins,Béziers,,,,43.3481598,2.8687097
+9119508475,node,,viewpoint,Béziers,,,,43.5989952,2.9987797
+9122844614,node,,memorial,Béziers,,,,43.3119972,2.6397161
 9138622924,node,,restaurant,Béziers,,,,43.2887501,3.1280947
+9150051961,node,Gorges de Colombières,attraction,Béziers,,,,43.5833894,3.011309
+9159006225,node,,viewpoint,Béziers,,,,43.4960142,3.0199558
+9165489990,node,,viewpoint,Béziers,,,,43.575604,2.9359365
+9165490013,node,Vestiges amont du Castellas,ruins,Béziers,,,,43.5755894,2.9359874
+9166793335,node,,ruins,Béziers,,,,43.3561646,2.9170632
+9167684109,node,Menhir,artwork,Béziers,,,,43.5328739,2.6850035
+9167744586,node,Dolmen,artwork,Béziers,,,,43.530319,2.6896548
+9167744587,node,Menhir,artwork,Béziers,,,,43.52958,2.6976451
+9167744588,node,Menhir,artwork,Béziers,,,,43.5295334,2.6977859
+9167744589,node,Menhir,artwork,Béziers,,,,43.5289101,2.6961404
+9167744590,node,Menhir,artwork,Béziers,,,,43.5287215,2.6955423
+9167744591,node,Menhir,artwork,Béziers,,,,43.5283636,2.6952794
+9167744592,node,Menhir,artwork,Béziers,,,,43.5288712,2.6948664
+9167744593,node,Menhir,artwork,Béziers,,,,43.5290754,2.6941234
+9167744594,node,Menhir,artwork,Béziers,,,,43.5293865,2.6942039
+9167744595,node,Menhir,artwork,Béziers,,,,43.529651,2.6937318
+9167744596,node,Menhir,artwork,Béziers,,,,43.5297288,2.6929834
+9167744597,node,Menhir,artwork,Béziers,,,,43.5314906,2.6920339
+9167744598,node,Menhir,artwork,Béziers,,,,43.5311912,2.6923344
+9167744599,node,Menhir,artwork,Béziers,,,,43.5311056,2.6919883
+9167744600,node,Menhir,artwork,Béziers,,,,43.5308431,2.6904085
+9167744601,node,Menhir,artwork,Béziers,,,,43.53053,2.6898935
+9167744602,node,Menhir,artwork,Béziers,,,,43.5300263,2.6900062
+9167744603,node,Menhir,artwork,Béziers,,,,43.5302402,2.6889306
+9167744604,node,Menhir,artwork,Béziers,,,,43.530775,2.6876566
+9169203096,node,,memorial,Béziers,,,,43.4571917,2.7636583
+9169559876,node,,memorial,Béziers,,,,43.3808807,2.9166046
+9169964205,node,Longuet,ruins,Béziers,,,,43.3163233,2.750887
+9171511727,node,,memorial,Béziers,,,,43.2924916,3.2640512
+9172304362,node,,memorial,Béziers,,,,43.4107203,2.8281688
+9176580760,node,,ruins,Béziers,,,,43.5537618,2.999524
+9180785807,node,,memorial,Béziers,,,,43.5716068,2.8300403
+9180796788,node,Les Sieyres,ruins,Béziers,,,,43.5716486,2.8306666
+9180803007,node,Les Carbounios,ruins,Béziers,,,,43.5745246,2.7512491
+9180844637,node,Cairoux le Haut,ruins,Béziers,,,,43.5734024,2.7827382
+9180844638,node,,memorial,Béziers,,,,43.5736754,2.7900821
+9213995071,node,,memorial,Béziers,,,,43.3013557,3.4830912
 9215953110,node,La Guinguette,restaurant,Béziers,,,,43.2193269,3.2329277
-9269544465,node,Lady Sushi,restaurant,Béziers,"3 Rue des Garrigues, Agde",,https://lady-sushi.fr,43.3071322,3.490284
+9218455171,node,Barques avec jouteurs en pleine action,artwork,Béziers,,,,43.3077283,3.4955768
+9221360065,node,,artwork,Béziers,,,,43.6122255,3.1665006
+9241362214,node,,memorial,Béziers,,,,43.4616544,3.4200701
+9242636517,node,Carrière de Coumiac,attraction,Béziers,,,,43.4694408,3.0586374
+9242773131,node,,viewpoint,Béziers,,,,43.4120373,2.9361739
+9246917127,node,,memorial,Béziers,,,,43.4753429,3.0836896
+9256442460,node,Cabanes de Luttes,ruins,Béziers,,,,43.5749584,2.9628364
+9266769538,node,La Vaysse,ruins,Béziers,,,,43.7215016,3.0900067
+9269544465,node,Lady Sushi,restaurant,Béziers,"3 Rue des Garrigues, 34300, Agde",34300,https://lady-sushi.fr,43.3071322,3.490284
+9271804544,node,La Science,artwork,Béziers,,,,43.3116685,3.4707683
+9272104582,node,Camp d'Agde,memorial,Béziers,,,,43.3122833,3.4795533
+9272338169,node,,memorial,Béziers,,,,43.3057741,3.4753682
+9376489468,node,,artwork,Béziers,,,,43.2355629,3.2724975
 9387925309,node,Restaurant Le Saint-Germain,restaurant,Béziers,,,,43.4586451,3.4150931
 9387925310,node,Hôtel Le Saint-Germain,hotel,Béziers,,,https://www.hotel-saint-germain-pezenas.com/,43.458761,3.4150556
+9400498220,node,Musée du Jouet et de l'Objet ancien,museum,Béziers,,,https://www.grandorb.fr/Sortir/Musees/Musee-du-jouet-et-de-l-objet-ancien/4678.html,43.6186107,3.1629288
 9403147281,node,Le chantier,restaurant,Béziers,,,,43.6121611,3.1706136
+9439261118,node,Monument de Molière,artwork,Béziers,,,,43.4609828,3.4256032
+9439261138,node,Frédéric Mistral,artwork,Béziers,,,,43.4617511,3.4205951
+9441682395,node,Mine Brochin,ruins,Béziers,,,,43.6777716,3.1002327
+9441727648,node,Puits Sainte-Barbe,memorial,Béziers,,,,43.6767251,3.0962765
+9441742676,node,,viewpoint,Béziers,,,,43.6740894,3.0895126
+9441742695,node,Mine Simon,ruins,Béziers,,,,43.680683,3.0880373
+9441742696,node,Mine des Pommiers,ruins,Béziers,,,,43.6791897,3.0899068
+9441742698,node,Arboretum,park,Béziers,,,,43.6796608,3.0900114
+9441742699,node,Musée Graissessac Autrefois,museum,Béziers,,,https://graissessac.fr/tourisme-et-patrimoine/musee/,43.6775492,3.0953571
+9441751148,node,Puits d’aérage de la mine de La Fournaque,ruins,Béziers,,,,43.6790209,3.0996426
+9441798744,node,La Padène,ruins,Béziers,,,,43.6725658,3.1008477
+9445874884,node,,artwork,Béziers,,,,43.4857871,3.2916431
+9504388208,node,Montcamp,ruins,Béziers,,,,43.4021166,2.8125644
+9562566103,node,,artwork,Béziers,,,,43.7560073,3.0999305
+9562566104,node,,viewpoint,Béziers,,,,43.755983,3.099832
 9562566111,node,L'Avenette Gourmande,restaurant,Béziers,,,,43.7574284,3.1011128
+9581774208,node,,viewpoint,Béziers,,,,43.2979812,3.5044791
+9581774212,node,,viewpoint,Béziers,,,,43.2996522,3.5022126
 9581811462,node,Le Seven,restaurant,Béziers,2 Rue des Vaisseaux,,,43.2834314,3.5198535
+9581850648,node,,memorial,Béziers,,,,43.2748168,3.5148197
+9581850672,node,,artwork,Béziers,,,,43.2818173,3.5152491
 9621476022,node,Le Somail,hotel,Béziers,,,,43.4887606,2.7572599
+9637165748,node,,artwork,Béziers,,,,43.5947116,3.1124146
+9643291553,node,,viewpoint,Béziers,,,,43.6926332,3.0608798
+9643551088,node,,artwork,Béziers,,,,43.5087132,2.793282
 9678054646,node,Le Grand Bleu,restaurant,Béziers,2 Passage du Soleil Levant,,,43.2830839,3.5199648
 9679719125,node,Côté Sud,restaurant,Béziers,,,,43.3439044,3.2115258
 9692065434,node,L'Escale,restaurant,Béziers,,,,43.3375931,3.2182076
@@ -433,9 +955,20 @@ osm_id,osm_type,name,category,city,address,post code,website,lat,lon
 9692162634,node,Hôtel Imperator,hotel,Béziers,,,,43.3429069,3.2163066
 9692162635,node,Hôtel des Poètes,hotel,Béziers,,,https://www.beziers-mediterranee.com/hotel/hotel-des-poetes/,43.3393127,3.2186763
 9692162636,node,Hôtel d'Angleterre,hotel,Béziers,,,,43.3415424,3.2152095
-9709100896,node,O'Bella Ciao,restaurant,Béziers,"Avenue de la Tramontane, Portiragnes",,,43.2768178,3.357631
+9709100896,node,O'Bella Ciao,restaurant,Béziers,"Avenue de la Tramontane, 34420, Portiragnes",34420,,43.2768178,3.357631
+9709906774,node,,ruins,Béziers,,,,43.6365233,3.2009999
+9711700729,node,,viewpoint,Béziers,,,,43.3552013,2.6932088
+9721663342,node,,memorial,Béziers,,,,43.299538,2.7593507
+9723653218,node,,viewpoint,Béziers,,,,43.6602542,3.2529412
+9729418856,node,Square Marius Fargat,memorial,Béziers,,,,43.6813554,3.0920278
+9732706813,node,,viewpoint,Béziers,,,,43.552426,2.8037047
+9740302213,node,Notre-Dame de Fontcerise,artwork,Béziers,,,,43.4995189,3.1731941
 9760337598,node,Le Vauban,restaurant,Béziers,15 Rue du Chateau,,https://levauban-capestang.fr/,43.3283876,3.0458984
-9782370821,node,Aux Caz'elles,restaurant,Béziers,5 Place de la Fontaine,,,43.5058751,3.457354
+9763808363,node,Trompe l'oeil,artwork,Béziers,,,,43.3263507,3.0452546
+9769662287,node,,viewpoint,Béziers,,,,43.482609,2.9755585
+9770547138,node,,memorial,Béziers,,,,43.4913191,2.9612045
+9782370821,node,Aux Caz'elles,restaurant,Béziers,"5 Place de la Fontaine, 34120",34120,,43.5058751,3.457354
+9855345658,node,Pressoir,artwork,Béziers,,,,43.3735977,3.0177011
 9862685217,node,Au vieux Puits,restaurant,Béziers,,,,43.3038483,3.3359197
 9866159118,node,La Gibrine,restaurant,Béziers,,,,43.2783635,3.357683
 9868667017,node,Les Voiles,restaurant,Béziers,,,,43.2731218,3.3520276
@@ -454,89 +987,278 @@ osm_id,osm_type,name,category,city,address,post code,website,lat,lon
 9874637517,node,Le Tama,restaurant,Béziers,13 Rue du Commandant Malet,,,43.2863926,3.442756
 9874637518,node,La perle Orientale,restaurant,Béziers,,,,43.2864424,3.4427578
 9876494018,node,Le petit Baigneur,restaurant,Béziers,18 Rue Andre Chassefieres,,,43.3129383,3.4671617
+9876494030,node,,artwork,Béziers,,,,43.3133304,3.4689666
 9876516417,node,L'Amiral,restaurant,Béziers,2 Rue Andre Chassefieres,,,43.3135048,3.4677195
+9877092719,node,,artwork,Béziers,,,,43.2777434,3.3646014
 9877434442,node,Le Jardin des Sablons,restaurant,Béziers,,,,43.280304,3.3638358
 9880956495,node,Mira-Mar,hotel,Béziers,,,,43.2462353,3.2942395
 9886724396,node,Le Jardin des Délices,restaurant,Béziers,,,https://le-jardin-des-delices-restaurant-portiragnes.eatbu.com/,43.3003647,3.3320586
+9909857546,node,,artwork,Béziers,,,,43.3684454,3.0408257
+9916573404,node,,artwork,Béziers,,,,43.4304683,2.966267
+9920714542,node,,memorial,Béziers,,,,43.5013833,2.7117629
+9921439644,node,,viewpoint,Béziers,,,,43.6500891,3.0407761
+9922041239,node,,memorial,Béziers,,,,43.422397,3.1679529
+9934087578,node,,artwork,Béziers,,,,43.5904717,3.0827787
 9955425420,node,Le Mississippi,restaurant,Béziers,,,,43.2934838,3.5292146
 9961084966,node,Bagatelle,restaurant,Béziers,,,,43.294112,3.5260038
 9961099565,node,Le piment vert,restaurant,Béziers,,,,43.2939324,3.5256498
+9961558588,node,Musée du Jouet,museum,Béziers,"2b Rue Montmorency, 34120, Pézenas",34120,https://www.museedujouetpezenas.com/,43.4623338,3.4230527
 9964685818,node,,restaurant,Béziers,,,,43.2953838,3.5283895
+9976054191,node,,artwork,Béziers,,,,43.3950841,3.4212314
+9978665653,node,Stèle commémorative 20 août 1944,memorial,Béziers,,,,43.4534223,3.2142211
+9978727577,node,,memorial,Béziers,,,,43.4502323,2.8465191
 9979768032,node,,restaurant,Béziers,,,,43.4041599,2.6317017
+9979768104,node,,memorial,Béziers,,,,43.4334689,2.6440787
+9981402800,node,,memorial,Béziers,,,,43.6153219,3.0418812
 9986405028,node,L'O Berge,restaurant,Béziers,,,,43.3173557,3.3044024
+9987744761,node,Stèle des Champs Blancs,memorial,Béziers,,,,43.5128735,3.3900717
+9987809950,node,Plaque commémorative Marianne Ros,memorial,Béziers,,,,43.5331289,3.3303362
+9991021221,node,Vierge du Mercadal,artwork,Béziers,,,,43.5264481,2.8330417
+10009458463,node,,memorial,Béziers,,,,43.5722267,2.9858605
+10009458464,node,,memorial,Béziers,,,,43.5721976,2.985886
+10009458485,node,,memorial,Béziers,,,,43.5779295,3.0063929
+10021316575,node,,memorial,Béziers,,,,43.4737291,2.7124918
 10052886819,node,Le Ty Zac,restaurant,Béziers,5 Allée Géneral de Gaulle,,,43.2839652,2.7314426
 10059243227,node,Le bistrot d'Hervé,restaurant,Béziers,,,,43.3108515,3.4734652
+10060670204,node,Moulin d'Azam,ruins,Béziers,,,,43.3503238,2.7060485
+10072666714,node,,memorial,Béziers,,,,43.4105027,3.2551945
+10087493540,node,Pressoir,artwork,Béziers,,,,43.4127661,3.2539815
 10116038277,node,Auberge du Pont de Réals,restaurant,Béziers,,,,43.4369329,3.0999282
+10127728162,node,,memorial,Béziers,,,,43.3370059,2.8543666
+10131379906,node,,viewpoint,Béziers,,,,43.2985781,3.50284
+10131379907,node,,viewpoint,Béziers,,,,43.2983959,3.5026256
+10167593317,node,,artwork,Béziers,,,,43.3413575,3.2159347
+10171602176,node,,viewpoint,Béziers,,,,43.3586262,2.6374027
+10175231136,node,,artwork,Béziers,,,,43.3130015,3.4181819
+10175231171,node,,memorial,Béziers,,,,43.3123549,3.4169198
+10188841817,node,,artwork,Béziers,,,,43.4775515,3.4260075
+10188841819,node,,artwork,Béziers,,,,43.4775132,3.4260512
+10188841897,node,,artwork,Béziers,,,,43.477407,3.425917
+10188841909,node,,artwork,Béziers,,,,43.4774898,3.4258449
 10199034136,node,Le Grain de Riz,restaurant,Béziers,,,https://www.facebook.com/AliceGrainDeRiz/,43.4544389,3.4219707
 10210137048,node,Sushi Verdun,restaurant,Béziers,,,,43.4570487,3.4252959
+10214634217,node,,artwork,Béziers,,,,43.4590766,3.4203918
+10214634218,node,,artwork,Béziers,,,,43.4594997,3.4207549
 10215270308,node,Le Pezenas,restaurant,Béziers,17 Rue Raspail,,,43.4599586,3.4229259
+10215281320,node,,artwork,Béziers,,,,43.4612899,3.4225211
+10215281322,node,La Maman des Poissons,artwork,Béziers,,,,43.4611966,3.4224017
 10215281327,node,Les Cordeliers,restaurant,Béziers,,,,43.4627197,3.4247646
-10292932489,node,Le Bistrot,restaurant,Béziers,"3 Impasse Pépi Pagés, Caux",,https://www.facebook.com/profile.php?id=100087969219959,43.5081476,3.3704567
+10219709561,node,Thomas Jefferson,memorial,Béziers,,,,43.3301678,3.197851
+10261099687,node,,artwork,Béziers,,,,43.2837772,3.5138428
+10292932489,node,Le Bistrot,restaurant,Béziers,"3 Impasse Pépi Pagés, 34720, Caux",34720,https://www.facebook.com/profile.php?id=100087969219959,43.5081476,3.3704567
 10304124929,node,Le Suprême,restaurant,Béziers,,,,43.461249,3.4189704
 10315347061,node,Le Bistro Barrière,restaurant,Béziers,,,https://www.casinosbarriere.com/fr/cap-d-agde/bistro-barriere.html,43.2883078,3.5087666
 10316540346,node,La Casa Mo'a,restaurant,Béziers,,,,43.4210381,3.161965
 10316540384,node,La Table de Mel,restaurant,Béziers,,,,43.4221733,3.1601357
+10317015671,node,Père Guy Gilbert,artwork,Béziers,,,,43.2877494,3.5082945
 10536651604,node,L'Étape,restaurant,Béziers,,,,43.2953243,3.2172936
 10538940293,node,L'Assiette du Boucher,restaurant,Béziers,,,,43.4509854,3.4173153
+10539062129,node,,memorial,Béziers,,,,43.4599992,3.4046218
+10562955997,node,L'Oustal des Abeilles,museum,Béziers,,,,43.5886192,3.1785774
 10576633655,node,Le Relais Bleu,restaurant,Béziers,,,,43.3257138,3.0418825
+10578595176,node,Les Mates Basses,attraction,Béziers,,,,43.5631655,3.1688773
+10579770183,node,La Gardiole,ruins,Béziers,,,,43.2910958,2.6254656
+10586326677,node,,memorial,Béziers,,,,43.5648609,3.1905181
 10586665131,node,Le Johane,restaurant,Béziers,,,,43.3439393,3.2116456
 10587288745,node,Cave,restaurant,Béziers,,,,43.5005254,3.029321
 10591067549,node,Brasserie Molière,restaurant,Béziers,,,https://www.brasserie-moliere-pezenas.fr/,43.4607918,3.4244009
 10593099857,node,Casa Lemon,restaurant,Béziers,6 Rue Four de la Ville,,,43.4611679,3.422199
-10722462978,node,Tacos Time,restaurant,Béziers,"4 Avenue François Curée, Pézenas",,,43.4578327,3.4220612
+10685793140,node,Marcel Roger,memorial,Béziers,,,,43.5665438,2.9595213
+10697333461,node,,artwork,Béziers,,,,43.58025,3.0626133
+10712060213,node,,viewpoint,Béziers,,,,43.4101226,3.0581199
+10712060267,node,Villeraze,ruins,Béziers,,,,43.411958,3.0717462
+10722462978,node,Tacos Time,restaurant,Béziers,"4 Avenue François Curée, 34120, Pézenas",34120,,43.4578327,3.4220612
+10722462999,node,Louis Paulhan 1883-1963,memorial,Béziers,,,,43.4596001,3.418747
+10723633031,node,,viewpoint,Béziers,,,,43.5138621,3.5140848
+10731483911,node,Arbre de la Liberté,memorial,Béziers,,,,43.2693273,3.226169
+10744004470,node,Ici naquit Beziers,memorial,Béziers,,,,43.335575,3.2134768
+10744718785,node,,viewpoint,Béziers,,,,43.2527055,3.3063607
+10744745075,node,,artwork,Béziers,,,,43.3169012,3.2817562
+10745004859,node,,memorial,Béziers,,,,43.3130161,3.4137256
+10745114438,node,Ordre National du Mérite,memorial,Béziers,,,,43.3143109,3.4644565
 10745327694,node,Aux Diablotins,restaurant,Béziers,7 Rue du 4 Septembre,,,43.3136751,3.4717548
 10745327695,node,Than Resto,restaurant,Béziers,,,,43.3135026,3.4716761
+10764558142,node,,viewpoint,Béziers,,,,43.5530539,3.2906492
 10798886935,node,La Fourchette Libanaise,restaurant,Béziers,2 Rue du Mont Saint Loup,,https://www.lafourchettelibanaise.com/,43.3135165,3.4725028
 10801470245,node,JLC,restaurant,Béziers,,,,43.2849927,3.446095
-10903243873,node,Pizzette,restaurant,Béziers,"2 Rue Victor de Moléon, Agde",,https://www.pizzette.fr,43.3086014,3.4925999
+10833775987,node,,memorial,Béziers,,,,43.4536357,3.4272891
+10834466058,node,Base de Réals,attraction,Béziers,,,https://herault.fr/510-base-de-reals.htm,43.4369976,3.0895772
+10860771122,node,,artwork,Béziers,,,,43.2793234,3.2825384
+10899600329,node,Moulin de Bessan,ruins,Béziers,,,,43.3623693,3.4451173
+10903243873,node,Pizzette,restaurant,Béziers,"2 Rue Victor de Moléon, 34300, Agde",34300,https://www.pizzette.fr,43.3086014,3.4925999
 10936396885,node,La paranthèse,restaurant,Béziers,,,,43.2250155,3.2431549
 10951329977,node,Pizz'Bessanaise,restaurant,Béziers,6 Rue des Caves,,,43.3610356,3.4257665
 10956782513,node,Le LucaToni,restaurant,Béziers,,,,43.2477479,3.2943263
-10992701985,node,L’Ô de Vie,restaurant,Béziers,"23 Boulevard Jean Moulin, Valras-Plage",,https://www.lodevie.fr,43.2445412,3.2909047
-10992701986,node,Le Sépia,restaurant,Béziers,"28 Rue Frédéric Mistral, Valras-Plage",,https://www.restaurant-sepia-valras.fr,43.2439415,3.2891242
+10957588673,node,,memorial,Béziers,,,,43.3684006,3.0436662
+10968957516,node,,artwork,Béziers,,,,43.3527413,3.2247759
+10984692693,node,,memorial,Béziers,,,,43.5061424,2.7927563
+10992701985,node,L’Ô de Vie,restaurant,Béziers,"23 Boulevard Jean Moulin, 34350, Valras-Plage",34350,https://www.lodevie.fr,43.2445412,3.2909047
+10992701986,node,Le Sépia,restaurant,Béziers,"28 Rue Frédéric Mistral, 34350, Valras-Plage",34350,https://www.restaurant-sepia-valras.fr,43.2439415,3.2891242
+11017385408,node,,zoo,Béziers,,,,43.3157924,3.4697177
 11017482818,node,La Case Créole,restaurant,Béziers,,,,43.2975275,3.5237585
-11077737874,node,Pizza Pasta,restaurant,Béziers,"310 Avenue Ingarrigues, Lignan-sur-Orb",,,43.37928,3.1748836
+11019832189,node,,memorial,Béziers,,,,43.3197603,3.2794348
+11027461931,node,La Maison de l'Abeille,museum,Béziers,,,,43.3853204,2.6205423
+11067827591,node,Au triomphe de la République,artwork,Béziers,,,,43.4200758,3.3677347
+11067843012,node,,memorial,Béziers,,,,43.4203515,3.3676043
+11077737874,node,Pizza Pasta,restaurant,Béziers,"310 Avenue Ingarrigues, 34490, Lignan-sur-Orb",34490,,43.37928,3.1748836
 11080289980,node,Le Dali,restaurant,Béziers,2 Allées Général Charles de Gaulle,,,43.2465748,3.294668
 11083171106,node,Les Vagues,restaurant,Béziers,124 Chemin du Littoral Prolonge,,,43.277003,3.4705272
-11091684100,node,Le Waleli's,restaurant,Béziers,"1 Avenue du Mas Viel, Servian",,,43.4205305,3.3129195
+11091684100,node,Le Waleli's,restaurant,Béziers,"1 Avenue du Mas Viel, 34290, Servian",34290,,43.4205305,3.3129195
+11091800629,node,,memorial,Béziers,,,,43.4711308,3.3434264
+11093669505,node,Jardin Garrigue et Papillons,attraction,Béziers,,,,43.5102978,3.2573991
+11093850039,node,,viewpoint,Béziers,,,,43.6776251,3.0921206
 11096964964,node,La Franquette,restaurant,Béziers,,,,43.2736276,3.1727544
 11099110105,node,Le Glacier,restaurant,Béziers,1 Plan de la Fontaine,,,43.2722247,3.1726382
 11107803434,node,,restaurant,Béziers,,,,43.2962624,3.4181052
 11109184969,node,,restaurant,Béziers,,,https://aire-camping-car-vias.com/,43.3141917,3.3716245
 11134145272,node,,restaurant,Béziers,,,https://lascours34.fr/,43.7988908,3.0752207
+11153290036,node,la Vergne,ruins,Béziers,,,,43.6343697,2.8406712
+11159892740,node,,memorial,Béziers,,,,43.7067349,3.1936842
 11160425897,node,Les chambres du Prieuré,hotel,Béziers,,,https://www.restaurant-delauzun.com/hotel,43.4827882,3.4115459
 11160425898,node,Restaurant de Lauzun,restaurant,Béziers,,,https://www.restaurant-delauzun.com/les-restaurants/restaurant,43.4825191,3.4115104
 11162705005,node,Le Rajasthan,restaurant,Béziers,Port Soleil,,,43.2961286,3.5232884
 11162798606,node,Plaisirs et crustacés,restaurant,Béziers,,,,43.2958907,3.5241372
+11165290551,node,Pressoir manuel transportable,artwork,Béziers,,,,43.510241,3.3625962
+11165290552,node,Charrette,artwork,Béziers,,,,43.5055851,3.3785008
+11165290553,node,Saint Joseph,artwork,Béziers,,,,43.507204,3.36777
+11165290554,node,Hercules,artwork,Béziers,,,,43.5072041,3.3677665
+11165337828,node,Bel-Air,ruins,Béziers,,,,43.3652072,2.9783521
+11166936570,node,,artwork,Béziers,,,,43.3992402,2.7106994
+11180476592,node,Plage de la Dalle,beach,Béziers,,,,43.2806828,3.5198842
 11226878023,node,La Petite Abbaye,restaurant,Béziers,,,,43.5923703,3.0823879
 11226892267,node,Hôtel de Ma Tante,hotel,Béziers,,,,43.5921755,3.0822672
+11229513996,node,L'Angoisse,artwork,Béziers,,,,43.4586663,3.4188408
+11229513997,node,Le Couple,artwork,Béziers,,,,43.4584922,3.4185533
+11229514003,node,L'Amour,artwork,Béziers,,,,43.4586265,3.4192477
+11229514004,node,Bobo Léon,artwork,Béziers,,,,43.4589798,3.4191967
+11229562035,node,,memorial,Béziers,,,,43.4740371,3.0865524
+11230921874,node,,memorial,Béziers,,,,43.4408007,3.145478
 11236676106,node,We Sush'U,restaurant,Béziers,,,,43.4551855,3.4079753
 11248001305,node,Les suites de Peyrat,hotel,Béziers,,,,43.4617402,3.423351
-11262639733,node,Cap & Mestra,restaurant,Béziers,"71 bis La Promenade, Puissalicon",,,43.4577029,3.2370587
-11262658254,node,Chez Louka,restaurant,Béziers,"97 Avenue de Béziers, Puissalicon",,https://www.chezlouka.com,43.458136,3.2334548
-11264655293,node,Don Papa,restaurant,Béziers,"4 Rue Saint-Laurent, Magalas",,,43.4716842,3.2226267
-11265151136,node,Cabaret Le Show Bizz,restaurant,Béziers,"1 Rue de l'Audacieuse 2, Magalas",,https://leshowbizz.fr,43.4689705,3.2072785
+11249157445,node,,artwork,Béziers,,,,43.4218196,3.1691245
+11262639733,node,Cap & Mestra,restaurant,Béziers,"71 bis La Promenade, 34480, Puissalicon",34480,,43.4577029,3.2370587
+11262658254,node,Chez Louka,restaurant,Béziers,"97 Avenue de Béziers, 34480, Puissalicon",34480,https://www.chezlouka.com,43.458136,3.2334548
+11264655293,node,Don Papa,restaurant,Béziers,"4 Rue Saint-Laurent, 34480, Magalas",34480,,43.4716842,3.2226267
+11265151136,node,Cabaret Le Show Bizz,restaurant,Béziers,"1 Rue de l'Audacieuse 2, 34480, Magalas",34480,https://leshowbizz.fr,43.4689705,3.2072785
+11276934356,node,Vierge à l'Enfant,artwork,Béziers,,,,43.5068306,3.3680471
 11278147634,node,L'Alba,restaurant,Béziers,13 Quai Commandant Meric,,,43.2842696,3.4448708
-11282021848,node,Lou Baralet,restaurant,Béziers,"74 bis Avenue de Pézenas, Roujan",,https://lou-baralet-restaurant-roujan.eatbu.com,43.5027095,3.3153561
-11282021863,node,Le Petit Péché,restaurant,Béziers,"8 Avenue de Caux, Roujan",,,43.5046523,3.3132511
-11282042073,node,Pitchou Pizza,restaurant,Béziers,"10 Rue de l'Hôpital, Roujan",,https://www.pitchoupizza.com/,43.5054107,3.3104385
-11298183384,node,Ô délices de Jeff,restaurant,Béziers,"1 Place du Bicentenaire, Portiragnes",,,43.2785428,3.3579269
-11341892169,node,Auberge du Cabarétou,restaurant,Béziers,Riols,,,43.5313472,2.7574029
+11279426298,node,,memorial,Béziers,,,,43.4864488,3.3071785
+11281177943,node,Pressoir,artwork,Béziers,,,,43.4893527,3.3067047
+11282021848,node,Lou Baralet,restaurant,Béziers,"74 bis Avenue de Pézenas, 34320, Roujan",34320,https://lou-baralet-restaurant-roujan.eatbu.com,43.5027095,3.3153561
+11282021863,node,Le Petit Péché,restaurant,Béziers,"8 Avenue de Caux, 34320, Roujan",34320,,43.5046523,3.3132511
+11282042073,node,Pitchou Pizza,restaurant,Béziers,"10 Rue de l'Hôpital, 34320, Roujan",34320,https://www.pitchoupizza.com/,43.5054107,3.3104385
+11285892169,node,,memorial,Béziers,,,,43.6036685,3.1449019
+11285892170,node,Monument aux morts de 1870,memorial,Béziers,,,,43.6191937,3.1605659
+11286067890,node,,memorial,Béziers,,,,43.2842154,2.7316643
+11286096315,node,,memorial,Béziers,,,,43.3402403,3.2107816
+11289821636,node,Stèle commémorative Pierre Sirven,memorial,Béziers,,,,43.4768021,3.4882148
+11289821637,node,,memorial,Béziers,,,,43.4788349,3.4810492
+11293787444,node,Stèle commémorative Daniel Dervin,memorial,Béziers,,,,43.5307828,3.43238
+11293787460,node,,memorial,Béziers,,,,43.5378642,3.4258461
+11294346423,node,Plaque commémorative André Arbouy,memorial,Béziers,,,,43.5896947,3.2513096
+11295375624,node,,artwork,Béziers,,,,43.4219984,3.4056194
+11296420365,node,,memorial,Béziers,,,,43.4828806,3.2731198
+11296425570,node,,memorial,Béziers,,,,43.4849773,3.3097571
+11298162456,node,,memorial,Béziers,,,,43.4454872,3.383431
+11298183384,node,Ô délices de Jeff,restaurant,Béziers,"1 Place du Bicentenaire, 34420, Portiragnes",34420,,43.2785428,3.3579269
+11298340007,node,,memorial,Béziers,,,,43.3564522,3.4241724
+11298361656,node,,memorial,Béziers,,,,43.4063351,3.5075388
+11298432658,node,,memorial,Béziers,,,,43.3820577,3.4693019
+11298441085,node,,memorial,Béziers,,,,43.3825421,3.470407
+11298747465,node,,memorial,Béziers,,,,43.4522705,3.0533986
+11298749125,node,,memorial,Béziers,,,,43.5389404,2.9793052
+11298749135,node,,memorial,Béziers,,,,43.4500526,2.8468698
+11298789292,node,,memorial,Béziers,,,,43.3859983,2.8325529
+11298789317,node,,memorial,Béziers,,,,43.396769,2.8894995
+11298812321,node,,memorial,Béziers,,,,43.3736708,3.0109426
+11298819544,node,,memorial,Béziers,,,,43.4021512,2.976153
+11298819568,node,,memorial,Béziers,,,,43.4271238,2.9707751
+11298828027,node,,memorial,Béziers,,,,43.4209484,2.946764
+11298861010,node,,memorial,Béziers,,,,43.3946371,3.1039502
+11298885130,node,,memorial,Béziers,,,,43.5138274,2.9550532
+11298909166,node,,memorial,Béziers,,,,43.5123577,2.9869696
+11298909167,node,,memorial,Béziers,,,,43.5003723,3.0303648
+11300153916,node,,memorial,Béziers,,,,43.3239074,2.714706
+11300153927,node,,artwork,Béziers,,,,43.3246996,2.7147737
+11300153947,node,,memorial,Béziers,,,,43.3537594,2.7757055
+11300153948,node,,memorial,Béziers,,,,43.3318681,2.7960715
+11300153955,node,,memorial,Béziers,,,,43.3396316,2.905979
+11300201589,node,,memorial,Béziers,,,,43.2871685,2.7651161
+11300225919,node,Monument commémoratif de la Résistance août 1944,memorial,Béziers,,,,43.4459883,2.6858478
+11300237406,node,,memorial,Béziers,,,,43.4186446,2.7414455
+11300299496,node,,memorial,Béziers,,,,43.3251816,2.6018172
+11300992541,node,,memorial,Béziers,,,,43.3485333,2.9606196
+11301058311,node,,memorial,Béziers,,,,43.2695451,3.2264815
+11301089611,node,,memorial,Béziers,,,,43.3585268,3.1241506
+11301089612,node,,memorial,Béziers,,,,43.3583156,3.123712
+11301119503,node,Plaque commémorative de Rodney Maurice Rodgers,memorial,Béziers,,,,43.3247135,3.2838992
+11301148414,node,,memorial,Béziers,,,,43.2787209,3.2831871
+11301168775,node,,memorial,Béziers,,,,43.2475156,3.2929423
+11301170053,node,,memorial,Béziers,,,,43.293283,3.0338475
+11301188313,node,,memorial,Béziers,,,,43.3044135,3.3398323
+11301189020,node,,memorial,Béziers,,,,43.3123494,3.1361915
+11301189023,node,,memorial,Béziers,,,,43.2700154,3.1750665
+11301202172,node,,memorial,Béziers,,,,43.3304534,3.118908
+11301202177,node,,memorial,Béziers,,,,43.2928189,3.1292854
+11303306736,node,,memorial,Béziers,,,,43.423291,3.1752419
+11303315705,node,,memorial,Béziers,,,,43.4399136,3.143266
+11303315709,node,,memorial,Béziers,,,,43.4350246,3.1852178
+11303335963,node,Stèle commémorative du 21 août 1944,memorial,Béziers,,,,43.4544201,3.2079857
+11303335965,node,,memorial,Béziers,,,,43.4746291,3.2414184
+11303397570,node,,memorial,Béziers,,,,43.4567235,3.2236075
+11308486871,node,Stèle commémorative du 21 août 1944,memorial,Béziers,,,,43.4737437,2.7124543
+11308486880,node,,memorial,Béziers,,,,43.4965065,2.6943655
+11308555187,node,Monument commémoratif du 10 août 1944,memorial,Béziers,,,,43.5010433,2.7914561
+11308566246,node,,memorial,Béziers,,,,43.5849961,2.8771942
+11308566247,node,,memorial,Béziers,,,,43.5656622,2.9304934
+11308566259,node,,memorial,Béziers,,,,43.5606155,2.8791207
+11308567696,node,,memorial,Béziers,,,,43.6300998,2.9077955
+11308567697,node,,memorial,Béziers,,,,43.6183012,2.8598537
+11310755846,node,,memorial,Béziers,,,,43.6753617,3.1186306
+11310755859,node,,memorial,Béziers,,,,43.6674326,3.105475
+11310755867,node,,memorial,Béziers,,,,43.6802148,3.0917327
+11310807184,node,,memorial,Béziers,,,,43.635419,3.1081042
+11310807185,node,,memorial,Béziers,,,,43.6556879,3.1490408
+11334758202,node,,memorial,Béziers,,,,43.2925009,3.2640465
+11336188859,node,,memorial,Béziers,,,,43.4446004,3.2024474
+11341892169,node,Auberge du Cabarétou,restaurant,Béziers,"34220, Riols",34220,,43.5313472,2.7574029
+11342450072,node,,memorial,Béziers,,,,43.3050191,3.0812526
 11350717931,node,Les Muriers d'Avène,restaurant,Béziers,,,,43.7541989,3.1106641
 11361669232,node,,restaurant,Béziers,,,,43.4607511,3.4244936
 11361669233,node,,restaurant,Béziers,,,,43.46058,3.4247902
 11362443911,node,Pizz'Avène,restaurant,Béziers,,,,43.7573185,3.1005352
 11362450719,node,L'Épicurien d'Orb,restaurant,Béziers,11 Rue de la Tine,,,43.6938058,3.1649674
 11366195915,node,Bar des Artistes,restaurant,Béziers,,,,43.5789273,3.0612938
+11381871078,node,Stèle commémorative Charles Miquel,memorial,Béziers,,,,43.3032004,3.4853787
+11386524826,node,,memorial,Béziers,,,,43.3255593,3.3092484
+11407194988,node,Stèle commémorative Harold E. Kline,memorial,Béziers,,,,43.4422123,3.4115777
+11422671172,node,Caffort,ruins,Béziers,,,,43.4440861,2.6345944
+11422671245,node,Balue,ruins,Béziers,,,,43.436779,2.6823056
+11422956916,node,la Sagnette,ruins,Béziers,,,,43.4922613,2.6682186
+11425160108,node,lou Mort,ruins,Béziers,,,,43.4365297,2.793231
+11425160109,node,Marcory,ruins,Béziers,,,,43.4307021,2.7847338
+11425199858,node,Sequios,ruins,Béziers,,,,43.3978604,2.8254068
+11425355695,node,la Mausse,ruins,Béziers,,,,43.5100205,2.9191553
+11498445236,node,,memorial,Béziers,,,,43.3471233,3.2212336
+11498525348,node,,memorial,Béziers,,,,43.4494241,3.0487291
 11519806563,node,Thaï Udon Thani,restaurant,Béziers,,,,43.4603947,3.4215809
+11519832976,node,,artwork,Béziers,,,,43.4605672,3.4218003
 11519832977,node,Le Wet State,restaurant,Béziers,,,,43.4605056,3.4219661
-11556765773,node,Café de l'Union,restaurant,Béziers,"10, Nizas",,,43.5123007,3.4076291
-11649527521,node,Le Cèdre du Liban,restaurant,Béziers,"60 Allées Paul Riquet, Béziers",,,43.3402084,3.2181208
+11556765773,node,Café de l'Union,restaurant,Béziers,"10, 34320, Nizas",34320,,43.5123007,3.4076291
+11646875994,node,,memorial,Béziers,,,,43.666692,3.0065055
+11646875996,node,,artwork,Béziers,,,,43.614115,2.9786454
+11649527521,node,Le Cèdre du Liban,restaurant,Béziers,"60 Allées Paul Riquet, 34500, Béziers",34500,,43.3402084,3.2181208
+11654742836,node,,memorial,Béziers,,,,43.5514865,2.6891372
+11658142845,node,,memorial,Béziers,,,,43.4518762,3.2790099
+11658481534,node,Menhir,artwork,Béziers,,,,43.5313788,2.6848657
 11662869672,node,,restaurant,Béziers,,,,43.3453906,3.2191946
+11668875534,node,,artwork,Béziers,,,,43.3872955,3.1095868
 11668875536,node,Les Agapes,hotel,Béziers,1 Boulevard Pasteur,,,43.392067,3.1020083
 11691471434,node,La Victoire,restaurant,Béziers,,,,43.3410563,3.2183857
+11712379467,node,Stèle aux républicains de Neffiès,memorial,Béziers,,,,43.5354178,3.3308573
 11716970802,node,Fleurs d'Asie,restaurant,Béziers,3 Avenue Georges Clémenceau,,,43.3452931,3.2158498
 11724176370,node,Brasserie Gusto,restaurant,Béziers,,,,43.322282,3.2877888
+11733717499,node,Colline aux vents,viewpoint,Béziers,,,,43.4844764,3.3464916
 11735325553,node,Noodles,restaurant,Béziers,36 Allées Paul Riquet,,,43.3424486,3.2166552
 11735348548,node,La Perle d'Asie,restaurant,Béziers,,,,43.3468501,3.2182263
 11735360647,node,La Paillote,restaurant,Béziers,32 Allées Paul Riquet,,,43.3426271,3.2165298
@@ -545,79 +1267,1084 @@ osm_id,osm_type,name,category,city,address,post code,website,lat,lon
 11735366343,node,Le Petit Ju,restaurant,Béziers,18 Allées Paul Riquet,,,43.3437625,3.2158102
 11735369476,node,Pica Pica,restaurant,Béziers,20 Boulevard Jean Jaurès,,,43.3413545,3.2154478
 11735370278,node,El Maestro,restaurant,Béziers,50 Allées Paul Riquet,,,43.3407339,3.2177719
+11737310351,node,,artwork,Béziers,,,,43.3215107,2.7365536
 11738617231,node,Le palais de Djenna,restaurant,Béziers,9 bis,,,43.313076,3.4188449
 11738652307,node,La remise à Christian,restaurant,Béziers,,,,43.3125525,3.4190175
 11759059728,node,,restaurant,Béziers,,,,43.2855292,2.7284526
+11800627601,node,,memorial,Béziers,,,,43.5506661,3.2229846
 11807002761,node,La Flambée,restaurant,Béziers,,,,43.3494825,3.2209841
+11811671380,node,Auguste Cot,memorial,Béziers,,,,43.6146636,3.158519
+11812037626,node,,artwork,Béziers,,,,43.3294677,2.6003671
 11860306685,node,Ciboulette et Chocolat,restaurant,Béziers,,,https://cibouletteetchocolat.wordpress.com/,43.4611928,3.4209145
 11918526056,node,La Scène,restaurant,Béziers,,,,43.3065689,3.206373
+11920101994,node,,artwork,Béziers,,,,43.3068875,3.2079803
+11920136871,node,Sirène plantureuse,artwork,Béziers,,,,43.3079898,3.20815
+11920136885,node,,artwork,Béziers,,,,43.3072825,3.2076265
+11920186351,node,Saint Joseph,artwork,Béziers,,,,43.3065254,3.2072313
 11921654649,node,La Tonnelle,restaurant,Béziers,,,https://pizza-la-tonnelle.com/,43.3568158,3.1239058
+11929519516,node,,memorial,Béziers,,,,43.5752347,2.9442175
+11935555918,node,Velocio,memorial,Béziers,,,,43.6306066,3.0395529
+11944652885,node,,memorial,Béziers,,,,43.2873579,3.1313302
 11969215016,node,L'Amphitryon,restaurant,Béziers,5 Rue Marechal de Plantavit,,,43.4616372,3.4235147
 11972403597,node,La Cour Pavée,restaurant,Béziers,,,,43.4588117,3.4255054
 11972403604,node,Les Marronniers,restaurant,Béziers,,,,43.4565745,3.4241579
+11983874966,node,Anne Guillon,gallery,Béziers,,,,43.4609465,3.4220582
+11984233574,node,Le Fil,gallery,Béziers,,,,43.4612129,3.4225723
+11984233579,node,,artwork,Béziers,,,,43.4615574,3.4226545
 11984233587,node,La Pomme d'Amour,restaurant,Béziers,,,,43.4612373,3.4232873
 11984233598,node,L'Arc-en-ciel,restaurant,Béziers,,,,43.4608469,3.4230353
+11984233601,node,Galerie St-Roch,gallery,Béziers,,,,43.4609511,3.4226038
 11984233603,node,Le Napolitain,restaurant,Béziers,,,,43.4611062,3.4226755
+11984233610,node,YLB,gallery,Béziers,,,,43.4609096,3.4222596
+11984233637,node,Combettes,gallery,Béziers,,,,43.4607266,3.4230318
 11984233638,node,Royal,restaurant,Béziers,,,,43.4609246,3.4232296
+11984233640,node,L'Art du Feu,gallery,Béziers,,,,43.4608386,3.4233041
+11984256289,node,Galerie de l'hôtel de Viques,gallery,Béziers,,,,43.4601974,3.4229774
 12002747594,node,Casa Lorca,restaurant,Béziers,,,,43.4610665,3.423709
 12002747607,node,La Fabrique,restaurant,Béziers,,,,43.4608515,3.4240063
 12035492557,node,La Table du Gatinié,restaurant,Béziers,,,,43.576049,3.068792
+12051870390,node,,viewpoint,Béziers,,,,43.472394,3.0762638
+12051870395,node,,viewpoint,Béziers,,,,43.4684752,3.074732
+12051873654,node,,viewpoint,Béziers,,,,43.4796036,3.081643
+12052851535,node,Archipel Plage,beach,Béziers,,,,43.2407518,3.282717
 12089046046,node,Le Marius,restaurant,Béziers,,,,43.2470374,3.2935824
 12089092725,node,Chez Penda,restaurant,Béziers,,,,43.2473143,3.2934069
 12089116044,node,Le Pélican,restaurant,Béziers,,,,43.2472623,3.2939875
 12090387199,node,Chez Yaya,restaurant,Béziers,,,,43.2731312,3.1722612
 12094083515,node,Casa Ditta,restaurant,Béziers,23 Boulevard Gambetta,,,43.2463038,3.2937747
 12128156426,node,Courtepaille,restaurant,Béziers,,,,43.3676918,3.2224676
+12142177226,node,,artwork,Béziers,,,,43.2946147,3.2612188
 12153540601,node,La Bodega,restaurant,Béziers,,,,43.2953116,3.5251663
 12157570301,node,O Caprices,restaurant,Béziers,4 Avenue de Port Ambonne,,,43.2958407,3.5229514
 12160223797,node,Hot n' Spicy Too,restaurant,Béziers,2 Avenue d'Amphitrite,,,43.2956463,3.5252278
 12160420501,node,L’envie,restaurant,Béziers,,,,43.295407,3.5285784
 12160514401,node,Ghymnos,restaurant,Béziers,,,,43.294978,3.5285633
 12161665801,node,Le troquet de René,restaurant,Béziers,4 bis Rue des Nereides,,,43.2974398,3.527657
+12162339928,node,,artwork,Béziers,,,,43.5722552,2.9563706
+12162369308,node,,artwork,Béziers,,,,43.5723458,2.9566692
+12174811383,node,,memorial,Béziers,,,,43.3310583,3.0408968
 12177327695,node,Pizza's Milano,restaurant,Béziers,,,,43.3366879,3.2545401
 12177426116,node,L'odyssée,restaurant,Béziers,,,,43.3372536,3.2541499
 12177426120,node,Au Bouddha gourmet,restaurant,Béziers,,,,43.3370459,3.25463
+12191544002,node,,memorial,Béziers,,,,43.4826366,3.4857797
+12198942255,node,,monument,Béziers,,,,43.3986029,3.4166877
+12207184694,node,,memorial,Béziers,,,,43.4230714,3.4055371
+12231895219,node,galerie 144,gallery,Béziers,,,,43.2842375,2.7301936
+12231895220,node,Le Coin dArt,gallery,Béziers,,,https://lecoindart.wordpress.com/,43.2842382,2.730616
 12287763846,node,,restaurant,Béziers,,,,43.2355388,3.2683585
+12297772086,node,,memorial,Béziers,,,,43.3869908,3.1680366
 12361809618,node,La Table du Mineur,restaurant,Béziers,,,,43.6786901,3.0947366
+12387002215,node,,memorial,Béziers,,,,43.307597,2.6627811
 12390531631,node,La Table des Vignerons,restaurant,Béziers,,,,43.4442648,3.3833092
+12390609237,node,,artwork,Béziers,,,,43.351692,2.7781811
+12452915031,node,,ruins,Béziers,,,,43.5455387,2.9855995
 12474202327,node,Hanoi,restaurant,Béziers,,,,43.2851639,3.5118094
+12498066596,node,Césarion,artwork,Béziers,,,,43.2982137,3.4706335
+12498073302,node,,artwork,Béziers,,,,43.2827847,3.4507422
+12559220980,node,,artwork,Béziers,,,,43.4213415,2.9469967
+12559220985,node,,artwork,Béziers,,,,43.4212222,2.9469806
+12593467690,node,,memorial,Béziers,,,,43.4678765,3.2241141
+12593467691,node,Aire de jeux Gelly Fernand Servant Henry,memorial,Béziers,,,,43.4679615,3.2199014
 12621041754,node,Brasserie Glacier,restaurant,Béziers,,,,43.3071963,3.4905833
 12623898657,node,Le Magellan,restaurant,Béziers,25 Impasse du Globe,,https://www.lemagellancapdagde.com/,43.2818147,3.5139602
-12748973501,node,Grand Café Occitan,restaurant,Béziers,7 Rue de l'Occitanie,,https://www.grandcafeoccitan.com/,43.3291737,2.6001391
+12626245598,node,,memorial,Béziers,,,,43.4575084,3.4199283
+12626526675,node,Stèle commémorative A.F.N,memorial,Béziers,,,,43.457174,3.4207083
+12658837359,node,,memorial,Béziers,,,,43.3914472,3.5093741
+12702441942,node,,artwork,Béziers,,,,43.6151243,3.1543484
+12702483152,node,,memorial,Béziers,,,,43.612306,3.1622657
+12716794375,node,Monument aux morts en Algérie,memorial,Béziers,,,,43.5047829,3.3718
+12726948446,node,,viewpoint,Béziers,,,,43.5307987,2.9929566
+12748973501,node,Grand Café Occitan,restaurant,Béziers,"7 Rue de l'Occitanie, 34210",34210,https://www.grandcafeoccitan.com/,43.3291737,2.6001391
+12776854198,node,,ruins,Béziers,,,,43.6180468,3.1104427
+12776854199,node,,ruins,Béziers,,,,43.6187566,3.112072
+12794116775,node,Musée archéologique,museum,Béziers,"5 Rue Saint-Grégoire, 34600, Villemagne-l'Argentière",34600,,43.6172819,3.1193683
+12814788363,node,Capitelle,ruins,Béziers,,,,43.5463413,3.0412088
+12818897122,node,,ruins,Béziers,,,,43.4072076,2.9485818
+12818897127,node,,ruins,Béziers,,,,43.4072834,2.9493514
+12818897135,node,,ruins,Béziers,,,,43.4062131,2.9499501
+12847268996,node,,memorial,Béziers,,,,43.3079829,3.4917911
 12861133641,node,Vertueux,restaurant,Béziers,4 Place Louis Bessière,,,43.3136653,3.4695701
 12883086646,node,"Épicerie,café,restau Le Local",restaurant,Béziers,3 Rue de la République,,,43.6163528,3.1576005
 12902167629,node,Sanuki Sushi,restaurant,Béziers,,,,43.4267266,3.3002888
 12912857601,node,Sunpa Restaurant,restaurant,Béziers,,,,43.2978186,3.3472808
+12918090874,node,,ruins,Béziers,,,,43.6804503,2.995972
+12919064716,node,,memorial,Béziers,,,,43.6631098,3.0506571
 12923765841,node,,restaurant,Béziers,,,,43.602889,2.6808312
 12923765842,node,,hotel,Béziers,,,,43.6029437,2.6806438
+12950538410,node,Stèle commémorative Raymond Canitrot,memorial,Béziers,,,,43.6644644,3.0209089
+12951280214,node,,artwork,Béziers,,,,43.4601761,3.4191905
 12951280262,node,The Fresh Food Factory,restaurant,Béziers,,,https://thefreshfoodfactory.fr/,43.4590881,3.4241746
 12951470597,node,Ou Es-Tu Ginger,restaurant,Béziers,Rue Calquieres Basses,,,43.4583459,3.4283018
 12953620688,node,Krousthaï Asian Food,restaurant,Béziers,,,,43.4569701,3.4252108
 12987868678,node,Buffalo Grill,restaurant,Béziers,,,,43.3604721,3.3438756
 12987868679,node,Ciao,restaurant,Béziers,,,,43.3604748,3.344131
+13002570872,node,La naissance de Venus,artwork,Béziers,Place de l'Évêché,,http://remijacques.xyz/sculptures-monumentales-symposiums/,43.4882955,2.7598209
+13003841410,node,Monument commémoratif aux Harkis,memorial,Béziers,Place du Foirail,,,43.4887112,2.7581382
+13003841413,node,Jumelage Navarcles Saint-Pons-de-Thomières,memorial,Béziers,,,,43.4884777,2.7598085
+13003841414,node,,memorial,Béziers,,,,43.4883622,2.7596913
+13003841415,node,Stèle Charles Barthès,memorial,Béziers,Place Charles Barthès,,,43.4881586,2.7595758
+13009476343,node,,memorial,Béziers,,,,43.6174835,3.1195545
 13016755436,node,Saveurs d'Asie,restaurant,Béziers,4 Boulevard Maréchal Juin,,,43.3491042,3.2396618
+13017070926,node,Chant Albigense,artwork,Béziers,Place du Marché,,,43.4884145,2.7615454
+13017070941,node,,memorial,Béziers,,,,43.4885643,2.7598518
+13017070942,node,,memorial,Béziers,,,,43.4886314,2.7594796
+13017070943,node,,memorial,Béziers,,,,43.4884417,2.760516
+13017070944,node,Taloc,artwork,Béziers,Place du Foiralet,,,43.4876587,2.7589033
+13017070947,node,Vague,artwork,Béziers,Chapelle des Pénitents,,,43.4869911,2.7594334
+13017070948,node,Piercing,artwork,Béziers,Rue de l'Empery,,,43.4873165,2.7608033
+13017849039,node,Le Saintponien,artwork,Béziers,Place du Foirail,,,43.4897852,2.7565767
+13017849069,node,Métamorphose d'une goutte,artwork,Béziers,Place du Foirail,,,43.4899115,2.7566963
+13017849070,node,Plaque commémorative résistance,memorial,Béziers,,,,43.4898634,2.7569327
+13017849071,node,Caudale,artwork,Béziers,Source du Jaur,,,43.4871795,2.7574654
+13017857281,node,,artwork,Béziers,,,,43.4869619,2.7631241
+13018923830,node,Tunnel naturel de Minerve,attraction,Béziers,,,,43.3537299,2.7449323
+13026928452,node,Pangaea Terre d'aventures,theme_park,Béziers,,,https://pangaeaventure.fr/,43.2315625,3.2538997
 13028556957,node,,restaurant,Béziers,,,,43.3119004,3.3643968
 13031159159,node,La Croix Blanche,restaurant,Béziers,,,,43.489427,2.7584972
+13037901827,node,,beach,Béziers,,,,43.50442,2.9874481
 13042791230,node,Les platanes,restaurant,Béziers,Poilhes,,https://tour-sarrasine.cover.page,43.3073341,3.0774213
+13045803339,node,,viewpoint,Béziers,,,,43.5577971,2.9131177
 13047950801,node,Goélia,hotel,Béziers,,,,43.2780636,3.3557687
+13050747640,node,Vicomte Raimond-Roger Trencavel,artwork,Béziers,,,,43.3419103,3.2095936
+13050747641,node,Jeanne D'Arc,artwork,Béziers,,,,43.3418301,3.2100865
+13052331484,node,,viewpoint,Béziers,,,,43.6486828,3.042088
 13056376240,node,Ô fagot,restaurant,Béziers,,,,43.2433915,3.2849277
 13070638101,node,Le Bistrot de Colombier,restaurant,Béziers,,,,43.31323,3.1432404
+13082104626,node,,viewpoint,Béziers,,,,43.5743667,2.9668168
+13092309680,node,,artwork,Béziers,,,,43.3972543,3.3646886
+13095000775,node,Le violoniste,artwork,Béziers,,,,43.3975289,3.361219
+13096736446,node,Meule,artwork,Béziers,,,,43.5080156,3.3720655
+13096736489,node,Caux 2000,artwork,Béziers,,,,43.5108072,3.3688891
+13101771956,node,Les Folies Gruss,attraction,Béziers,,,,43.3271603,3.1936552
+13108462803,node,,viewpoint,Béziers,,,,43.5918051,2.9752124
+13116973072,node,,memorial,Béziers,,,,43.6681686,2.9732032
+13157754808,node,,viewpoint,Béziers,,,,43.6032503,3.0083573
+13157754815,node,,viewpoint,Béziers,,,,43.5844391,3.0103756
+13157754816,node,,viewpoint,Béziers,,,,43.5956645,3.0089945
 13162999560,node,"The Originals City, Hôtel Le Pavillon",hotel,Béziers,,,,43.3302629,3.2875707
+13175380680,node,,memorial,Béziers,,,,43.3150058,3.4683736
 13175386431,node,Cap India,restaurant,Béziers,12 Rue du 4 Septembre,,,43.3129698,3.4709942
-13363810626,node,L'échoppe,restaurant,Béziers,"28 Rue Paul Riquet, Béziers",,https://echoppe-resto.fr,43.3438093,3.212481
+13175799426,node,Le Lion de Magrou,artwork,Béziers,,,,43.345529,3.2181148
+13186247702,node,Trompe-l'oeil - Trencavel,artwork,Béziers,,,,43.3419254,3.2146207
+13186249102,node,Trompe-l'oeil Dortus de Mairan,artwork,Béziers,,,,43.3438804,3.2143225
+13186249103,node,Trompe-l'oeil - Jean Moulin,artwork,Béziers,,,,43.3429254,3.2142679
+13186249104,node,Trompe-l'oeil - Tonnelier Tiquetonne,artwork,Béziers,,,,43.3426185,3.2152757
+13186249105,node,Trompe-l'oeil - Arrivée du train en gare du midi,artwork,Béziers,,,,43.3398714,3.216737
+13186250501,node,Trompe-l'oeil - Casimir Péret,artwork,Béziers,,,,43.345602,3.2153204
+13186250601,node,Trompe-l'oeil - Musée d'Histoire,artwork,Béziers,,,,43.3413096,3.2131738
+13249938419,node,Statue de la Liberté,artwork,Béziers,,,,43.4705908,3.0281962
+13344303509,node,,artwork,Béziers,,,,43.3130956,3.3383609
+13344311754,node,,artwork,Béziers,,,,43.293552,3.1268443
+13344522332,node,,artwork,Béziers,,,,43.3170418,3.2816896
+13355087009,node,,ruins,Béziers,,,,43.5076585,3.3688498
+13357927831,node,Mémorial Paul Vidal de la Blache,memorial,Béziers,,,,43.4790522,3.4047825
+13363810626,node,L'échoppe,restaurant,Béziers,"28 Rue Paul Riquet, 34500, Béziers",34500,https://echoppe-resto.fr,43.3438093,3.212481
 13392931717,node,La Trattoria,restaurant,Béziers,,,,43.3451049,3.2414525
 13410410110,node,Florès Food,restaurant,Béziers,2 Place de l'Imbaisse,,,43.5791559,3.0615868
-13689954257,node,Les Valseuses,restaurant,Béziers,"5 Place de la République, Caux",,,43.5065775,3.3686339
+13417999718,node,,memorial,Béziers,,,,43.4573947,3.4026663
+13473270856,node,,memorial,Béziers,,,,43.5119532,3.5127434
+13473270857,node,,memorial,Béziers,,,,43.5138161,3.5128073
+13473325856,node,,memorial,Béziers,,,,43.6671013,3.2343011
+13473745429,node,,memorial,Béziers,,,,43.5029745,3.2429998
+13506619006,node,,memorial,Béziers,,,,43.4692107,3.4659089
+13507068402,node,,memorial,Béziers,,,,43.4950527,3.4369111
+13507089405,node,,memorial,Béziers,,,,43.4363894,3.2576649
+13507107488,node,,memorial,Béziers,,,,43.4976255,3.1682532
+13507114083,node,,memorial,Béziers,,,,43.4218022,3.2415824
+13507118567,node,,memorial,Béziers,,,,43.4013083,3.1902042
+13507139042,node,,memorial,Béziers,,,,43.4685858,3.1831523
+13507187506,node,,memorial,Béziers,,,,43.4931225,3.176914
+13507240246,node,,memorial,Béziers,,,,43.4976109,3.1682835
+13507685480,node,,memorial,Béziers,,,,43.5210691,3.2011714
+13507700011,node,,memorial,Béziers,,,,43.5209781,3.1971467
+13507700953,node,,memorial,Béziers,,,,43.5446156,3.1250744
+13507707332,node,,memorial,Béziers,,,,43.5497024,3.1560603
+13507724520,node,,memorial,Béziers,,,,43.5820378,3.1053202
+13507732229,node,,memorial,Béziers,,,,43.53713,3.1048229
+13507790746,node,,memorial,Béziers,,,,43.5784231,3.0622153
+13512483448,node,,memorial,Béziers,,,,43.5545328,3.2990879
+13512501982,node,,memorial,Béziers,,,,43.3939441,3.4174404
+13515755058,node,,memorial,Béziers,,,,43.6797149,3.0033463
+13515761141,node,,memorial,Béziers,,,,43.6737782,3.0702678
+13515765105,node,,memorial,Béziers,,,,43.803077,3.1092664
+13515771576,node,,memorial,Béziers,,,,43.6267501,3.1036323
+13515781166,node,,memorial,Béziers,,,,43.3879124,2.734563
+13515803271,node,,memorial,Béziers,,,,43.5315067,2.8553689
+13515835340,node,,memorial,Béziers,,,,43.3518051,2.9439011
+13515846849,node,,memorial,Béziers,,,,43.2893448,2.7305273
+13521727215,node,,artwork,Béziers,,,,43.3426199,3.2351602
+13522756617,node,,memorial,Béziers,,,,43.757629,3.1017382
+13522785956,node,,memorial,Béziers,,,,43.6030231,3.0465557
+13522847015,node,,memorial,Béziers,,,,43.5649758,3.1898785
+13589723194,node,,artwork,Béziers,,,,43.2720832,3.2613891
+13589739593,node,,artwork,Béziers,,,,43.2700484,3.2170488
+13589744293,node,,artwork,Béziers,,,,43.2689417,3.2211364
+13589746209,node,,artwork,Béziers,,,,43.2695911,3.1687637
+13591102365,node,,artwork,Béziers,,,,43.2844518,3.2804534
+13591121358,node,,artwork,Béziers,,,,43.2843919,3.2803368
+13591121560,node,,memorial,Béziers,,,,43.3036444,3.3317187
+13689954257,node,Les Valseuses,restaurant,Béziers,"5 Place de la République, 34720, Caux",34720,,43.5065775,3.3686339
 13705110005,node,La Casa de la Mamé,restaurant,Béziers,34 Rue Droite,,,43.3961988,3.4170077
+13713402830,node,Géologiquement vôtre !,viewpoint,Béziers,,,,43.4842549,3.3475359
 13715655001,node,L' Éclipse,restaurant,Béziers,,,,43.2328251,3.2615998
+13740401961,node,Clocher Porche,memorial,Béziers,,,,43.5069296,3.3687096
+13740444474,node,François de Bedos de Celles,memorial,Béziers,,,,43.5077619,3.3694387
+13740444475,node,Grimaud de Caux,memorial,Béziers,,,,43.5075152,3.3689697
+13740444476,node,Le Général Causse,memorial,Béziers,,,,43.507946,3.3696497
+13740444478,node,Four banal du Seigneur,memorial,Béziers,,,,43.5069391,3.3684503
+13740444479,node,"Justice Royale, Bannerette, Marché et Puits",memorial,Béziers,,,,43.5072579,3.3679652
+13740444480,node,Général Causse,memorial,Béziers,,,,43.5072519,3.3679633
+13742366685,node,Cinquantenaire de  l'Ordre national du Mérite,memorial,Béziers,,,,43.5103823,3.3689071
+13742366687,node,Plaque du bicentenaire de la Révolution française,memorial,Béziers,,,,43.5070379,3.3694951
+13742378479,node,Maison de Jean Pomarèdes,memorial,Béziers,,,,43.507295,3.3694501
+13742378480,node,Maison de Pépi Pagès,memorial,Béziers,,,,43.5075762,3.3664885
+13742984098,node,1939-1945,memorial,Béziers,,,,43.5048596,3.3712687
+13742984099,node,1914-1916,memorial,Béziers,,,,43.5048658,3.3712631
+13742984100,node,1917-1918,memorial,Béziers,,,,43.5048535,3.3712744
+13746079914,node,Les Vignerons de Caux,artwork,Béziers,,,,43.5108715,3.3673172
 13766585828,node,Le Moulin de Pézenas,hotel,Béziers,,,https://amazing.katestravelexperience.eu/le-moulin-de-pezenas-pezenas123456789-france?correlationID=cae28d02-3387-41c7-9260-51d66a252e40,43.4344084,3.4245195
+13779761852,node,Fontaine de Philia,artwork,Béziers,,,,43.3977658,3.3262163
+13780226974,node,,viewpoint,Béziers,,,,43.3971247,3.3263803
+13780233367,node,,viewpoint,Béziers,,,,43.3980537,3.3239306
 13784456402,node,La Plancha des Halles,restaurant,Béziers,12 Place Pierre Semard,,,43.3432818,3.2119023
 13784456501,node,Hallegria,restaurant,Béziers,12 Place Pierre Semard,,,43.3435232,3.2119767
 13785099533,node,L'Escale,hotel,Béziers,6 Place de la Republique,,,43.2849732,3.4457597
-13810861801,node,La Marianne,restaurant,Béziers,13 Boulevard Pasteur,,https://www.la-marianne.fr/,43.3164321,3.2817435
+13785565169,node,,viewpoint,Béziers,,,,43.5076179,3.0543735
+13785565170,node,,viewpoint,Béziers,,,,43.5076215,3.0544368
+13798499615,node,,viewpoint,Béziers,,,,43.4107955,2.6013371
+13799376070,node,Source des Chartreux,ruins,Béziers,,,,43.4993732,3.3538206
+13806068892,node,,viewpoint,Béziers,,,,43.4267799,3.359785
+13810835627,node,Rempart,ruins,Béziers,,,,43.5074332,3.3698798
+13810835628,node,Vierge,artwork,Béziers,,,,43.5056481,3.368487
+13810861801,node,La Marianne,restaurant,Béziers,"13 Boulevard Pasteur, 34420",34420,https://www.la-marianne.fr/,43.3164321,3.2817435
+13811590320,node,,viewpoint,Béziers,,,,43.6507656,2.9918552
+13811590330,node,,viewpoint,Béziers,,,,43.6432762,2.9752197
+13811590350,node,,viewpoint,Béziers,,,,43.6230124,2.9893111
+13820708916,node,,viewpoint,Béziers,,,,43.452779,3.2768382
 13825297716,node,Les amis d'Oc,restaurant,Béziers,47 Avenue Capitaine Pierre Azema,,,43.4806596,3.4847965
+13858030739,node,Plaques commémoratives Jardin de Fontjun,memorial,Béziers,,,,43.3305133,3.1187851
+13858030745,node,Stèle commémorative 6 et 7 juin 1944,memorial,Béziers,,,,43.3309475,3.1212339
+13860473759,node,,memorial,Béziers,,,,43.5060953,3.4573285
+13889737248,node,,beach,Béziers,,,,43.5156376,2.9921142
+13891498898,node,,artwork,Béziers,,,,43.5008433,3.3180792
+13891654392,node,Pressoir,artwork,Béziers,,,,43.4895028,3.3066027
+13894121099,node,,artwork,Béziers,,,,43.5013519,3.320326
 13897216001,node,Ô Malice,restaurant,Béziers,,,,43.5612164,2.9734306
+13910637345,node,Stèle commémorative Pierre Cougnenc,memorial,Béziers,,,,43.2680735,2.7569079
+13921032686,node,,viewpoint,Béziers,,,,43.6918681,3.0968627
 13935079585,node,L'imprévu,restaurant,Béziers,,,,43.2945659,3.2625204
 13935122725,node,Le Nouvel Air,restaurant,Béziers,,,,43.2943536,3.2625216
 13935251436,node,La Table D'Amaya,restaurant,Béziers,,,,43.2942846,3.2623609
-13978084709,node,La Madragde,restaurant,Béziers,"44 Rue de la Gabelle, Le Cap d'Agde",,http://www.facebook.com/Restaurant-La-Madragde-152896331407439/,43.2856132,3.5094401
+13947194244,node,Atelier Jatteau,gallery,Béziers,,,,43.3683433,2.6306791
+13950316275,node,,viewpoint,Béziers,,,,43.5410593,2.7986023
+13955923504,node,,memorial,Béziers,,,,43.4988681,3.328313
+13978084709,node,La Madragde,restaurant,Béziers,"44 Rue de la Gabelle, 34300, Le Cap d'Agde",34300,http://www.facebook.com/Restaurant-La-Madragde-152896331407439/,43.2856132,3.5094401
+13980597415,node,Plo de Mailhac,memorial,Béziers,,,,43.4473726,2.7286236
+13983096830,node,,viewpoint,Béziers,,,,43.6002825,3.1691413
+13983130748,node,,artwork,Béziers,,,,43.4884952,2.7596347
+13989719150,node,,viewpoint,Béziers,,,,43.3555077,2.7440615
+13990144000,node,,memorial,Béziers,,,,43.5087036,3.0761724
+13990144001,node,,memorial,Béziers,,,,43.5087115,3.0761766
+13995115230,node,,restaurant,Béziers,,,,43.4900595,2.9567331
+13995127862,node,,memorial,Béziers,,,,43.4912713,2.9613455
+13995140039,node,,memorial,Béziers,,,,43.5003789,3.030401
+13997055765,node,,ruins,Béziers,,,,43.2769625,2.7126404
+13997342292,node,,memorial,Béziers,,,,43.5722403,2.9858592
+13997342294,node,Stèle commémorative du 22 août 1944,memorial,Béziers,,,,43.5739435,2.9948915
+25661665,way,Plage naturiste Cap d'Agde,beach,Béziers,,,https://nudebeachmap.com/places/cap-dagde/,43.2973239,3.5340448
+37098727,way,Plage du Grau d'Agde,beach,Béziers,,,,43.2781015,3.4669903
+38068439,way,Jardin du Plateau des Poètes,attraction,Béziers,,,,43.3383834,3.2203577
+38136942,way,Square Maximilien Robespierre,garden,Béziers,,,,43.3384572,3.2150194
+38138518,way,Pont Vieux,attraction,Béziers,,,,43.3392018,3.2077267
+38146923,way,Parc de la Gare du Nord,park,Béziers,,,,43.3514877,3.2243003
+38321781,way,Square Docteur Joseph Senty,park,Béziers,,,,43.3514186,3.2350973
+38321782,way,Square Théodore Aubanel,park,Béziers,,,,43.3522903,3.2371837
+38324337,way,Jardin Public Des Bassins,garden,Béziers,,,,43.3518423,3.2275184
+38346405,way,Parc de la Gayonne,park,Béziers,,,,43.3337846,3.2576193
+38869181,way,La Cabane 2,restaurant,Béziers,,,,43.2696524,3.3403135
+43890169,way,,attraction,Béziers,,,,43.5924341,2.9754799
+43890170,way,,attraction,Béziers,,,,43.5913136,2.9765279
+43890177,way,,attraction,Béziers,,,,43.5913974,2.976789
+43890180,way,,attraction,Béziers,,,,43.5911294,2.9774556
+46798496,way,Square Jean Moulin,park,Béziers,,,,43.4615981,3.4200999
+46831893,way,Square Molière,park,Béziers,,,,43.4609683,3.4256059
+48268242,way,Hôtel Gil de France,hotel,Béziers,"10 Avenue des Alizés, 34300, Agde",34300,https://www.gildefrance.fr,43.2807261,3.4923623
+48268243,way,Hôtel Alhambra,hotel,Béziers,"9 Avenue du Passeur Challiès, 34300",34300,,43.2808957,3.4989027
+48268246,way,Hôtel Azur,hotel,Béziers,"18 Avenue des Îles d'Amérique, 34300",34300,,43.2818473,3.4984404
+48268247,way,La Bergerie du Cap,hotel,Béziers,"4 Avenue de Cassiopée, 34300",34300,,43.2963929,3.5147898
+48268248,way,Hôtel Le Bellevue,hotel,Béziers,"12 Impasse des Gabelous, 34300",34300,,43.2799125,3.5175012
+48269462,way,Hôtel Les Grenadines,hotel,Béziers,"6 Impasse Marie Céleste, 34300",34300,,43.2781015,3.4924688
+48269463,way,Palmyra Golf Hôtel,hotel,Béziers,"4 Avenue des Alizés, 34300",34300,,43.2837006,3.49648
+48269464,way,Hôtel La Grande Conque,hotel,Béziers,"13 bis Rue des Etrusques, 34300",34300,,43.2762867,3.5143021
+48269465,way,La Voile d'Or,hotel,Béziers,"25 Impasse du Globe, 34300",34300,,43.2817042,3.5143206
+48269466,way,Hôtel Cap Maya,hotel,Béziers,2 Rue du Tambour,,https://www.theoriginalshotels.com/hotels/hotel-cap-maya,43.2863535,3.5090406
+48269469,way,Hôtel-Restaurant Le Pêcheur,restaurant,Béziers,"1 Chemin du Front de Mer, 34300",34300,,43.2811572,3.5199524
+64246981,way,,beach,Béziers,,,,43.2763125,3.3618064
+64645617,way,Ferme La Yole,zoo,Béziers,,,,43.2376472,3.2585015
+71033475,way,,beach,Béziers,,,,43.602227,2.6796194
+71842549,way,Hôtel Tennis International,hotel,Béziers,"3 Avenue de la Vigne, 34300",34300,,43.2907015,3.5103423
+71935081,way,Hôtel Eve,hotel,Béziers,"Impasse Saissan, 34300",34300,,43.295619,3.521596
+72023742,way,Hôtel Capaô,hotel,Béziers,"1 Rue des Corsaires, 34300",34300,,43.2767768,3.4946962
+72028936,way,Coco Beach,restaurant,Béziers,,,,43.2827064,3.5201588
+72092747,way,Yseria Hôtel,hotel,Béziers,"2 Place Jean Jaurès, 34300, Agde",34300,https://www.yseria.fr/,43.3139655,3.469873
+72092769,way,Cathédrale Saint-Étienne,attraction,Béziers,"3 Rue Hôtel du Cheval Blanc, 34300, Agde",34300,https://eglisedagde.jimdo.com,43.314004,3.4691041
+72446304,way,Hôtel Grand Cap,hotel,Béziers,"5 Rue de la Citrine, 34300, Agde",34300,https://www.hotel-grandcap.com,43.3003537,3.4733202
+72631028,way,Jardin J Callas & H Roquebernou,park,Béziers,,,,43.3163196,2.634696
+77225831,way,,park,Béziers,,,,43.5820781,3.0647134
+77228023,way,,park,Béziers,,,,43.5807902,3.0596108
+77810265,way,,park,Béziers,,,,43.5821888,3.1036591
+86553304,way,Oppidum d'Ensérune,attraction,Béziers,,,,43.3098006,3.1117479
+92089398,way,,beach,Béziers,,,,43.2898074,3.4222748
+92089417,way,La Dune,beach,Béziers,,,,43.2817246,3.3771449
+92089427,way,,beach,Béziers,,,,43.2878235,3.3999247
+92089442,way,Le Petit Mousse,beach,Béziers,,,,43.2850168,3.3889428
+92089450,way,,beach,Béziers,,,,43.2887122,3.4068624
+92089457,way,,beach,Béziers,,,,43.2873779,3.3984384
+92089476,way,,beach,Béziers,,,,43.2870757,3.3969519
+92089487,way,,beach,Béziers,,,,43.2718019,3.3499488
+92089498,way,,beach,Béziers,,,,43.2881007,3.4028731
+92089519,way,Plage Sérignan,beach,Béziers,,,,43.2602905,3.3240575
+92089528,way,Plage de la Redoute,beach,Béziers,,,,43.2792342,3.3697889
+92089549,way,,beach,Béziers,,,,43.2878747,3.4008927
+97220425,way,Fabrikus World,theme_park,Béziers,,,https://fabrikusworld.com/,43.3011068,3.4121733
+97367203,way,,beach,Béziers,,,,43.2746159,2.7076788
+100884577,way,La Boca Loca,restaurant,Béziers,"22 Rue Sur le Puits, 34600, Bédarieux",34600,,43.6153795,3.1589485
+100887166,way,Hôtel de l'Orb,hotel,Béziers,,,https://www.hotel-orb.com,43.605299,3.148118
+100890522,way,Chapelle Saint-Raphaël de la Bastide,monument,Béziers,,,,43.5914576,3.1362602
+100955198,way,,museum,Béziers,,,,43.617991,3.1549215
+109300558,way,Jardin Public,park,Béziers,,,,43.5053293,3.313059
+109303158,way,,garden,Béziers,,,,43.507455,3.314923
+109928364,way,Square Général Causse,park,Béziers,,,,43.5063514,3.3683352
+110990447,way,Le P'tit resto,restaurant,Béziers,,,,43.5791535,3.0628969
+114813822,way,Plage de la Grande Conque,beach,Béziers,,,,43.2761158,3.5155281
+114813824,way,Plage du Môle,beach,Béziers,,,,43.2834103,3.521865
+114813830,way,La Plagette,beach,Béziers,,,,43.2745731,3.5121529
+114813833,way,,beach,Béziers,,,,43.2805312,3.5195928
+114843096,way,Plage de la Tamarissière,beach,Béziers,,,,43.2869032,3.4362096
+121297710,way,Plan Saint-Jude,garden,Béziers,,,,43.3399313,3.2101888
+122476615,way,,ruins,Béziers,,,,43.6799685,3.147126
+122477350,way,,ruins,Béziers,,,,43.679988,3.1468985
+122477618,way,,ruins,Béziers,,,,43.679808,3.1472138
+122825160,way,Église Saint-Pierre-de-Rhèdes,attraction,Béziers,,,,43.5878214,3.0788049
+122894325,way,,ruins,Béziers,,,,43.276203,2.706464
+122894329,way,,castle,Béziers,,,,43.2822248,2.7094704
+122895748,way,,restaurant,Béziers,,,,43.2753205,2.7080565
+127446018,way,Jardin de Saint-Adrien,garden,Béziers,,,https://www.jardindesaintadrien.com/,43.3978112,3.3252678
+127486846,way,Place des Carbounières,park,Béziers,,,,43.6007052,3.0807675
+127787816,way,Hôtel Oz'inn,hotel,Béziers,"7 Rue des Néréides, 34300",34300,,43.2966352,3.5260828
+133152277,way,,castle,Béziers,,,,43.3241908,3.2379044
+133163316,way,Béziers Plage,castle,Béziers,,,,43.3781575,3.225287
+133165920,way,Ibis Budget,hotel,Béziers,"Impasse de la Ginieisse, 34500, Béziers",34500,,43.3461631,3.2567754
+133166819,way,Château de Libouriac,castle,Béziers,,,,43.3702325,3.267257
+133221167,way,CALICE,restaurant,Béziers,"30 Boulevard Bertrand Duguesclin, 34500, Béziers",34500,https://restaurantcalice.fr/,43.3435333,3.2231075
+133221695,way,Pizzeria La Provencale,restaurant,Béziers,"Boulevard du Président Kennedy, 34500, Beziers",34500,,43.3509275,3.239618
+133221827,way,L'ALTER-NATIVE,restaurant,Béziers,"12 Rue de Boieldieu, 34500, Béziers",34500,https://lalternativegoujon.fr/reservation/,43.3427995,3.217664
+133221915,way,,castle,Béziers,,,,43.3392215,3.219984
+133221922,way,Zénitude Hôtel - Résidences,hotel,Béziers,9 Rue d'Alembert,,https://www.zenitude-hotel-residences.com/fr_FR/residence/beziers/132,43.3446845,3.2220655
+133221943,way,Maria Thérésa,restaurant,Béziers,"54 Avenue du 22 Août 1944, 34500, Béziers",34500,,43.343911,3.219629
+133222022,way,3 Brasseurs,restaurant,Béziers,"21 Avenue de la Voie Domitienne, 34500, Béziers",34500,,43.347259,3.2425165
+133271309,way,Basilique Saint-Aphrodise,attraction,Béziers,,,,43.3470825,3.2148905
+133271311,way,Église Saint-Jacques,attraction,Béziers,,,,43.3377333,3.2138457
+133271313,way,Église Sainte-Madeleine,attraction,Béziers,,,,43.344963,3.213003
+133272385,way,L'Oustal de Montibel,restaurant,Béziers,"Impasse Sainte-Ursule, 34500, Béziers",34500,http://oustaldemontibel.free.fr/index.html,43.344255,3.2113095
+133272637,way,Musée Fabregat,museum,Béziers,,,,43.3414655,3.211242
+133272647,way,Musée Taurin,museum,Béziers,"7 Rue Massol, 34500, Béziers",34500,,43.3409245,3.212288
+133277716,way,Musée des Beaux Arts Fayet,museum,Béziers,"Rue du Capus, 34500, Béziers",34500,https://www.ville-beziers.fr/culture/02.cfm3,43.3426005,3.2110625
+133279543,way,La Prison,hotel,Béziers,,,https://www.hotellaprison.com/,43.3412715,3.2093579
+133455441,way,Hôtel Althéa,hotel,Béziers,,,,43.338907,3.2719572
+133455651,way,Hôtel F1,hotel,Béziers,,,,43.348926,3.2469895
+133546507,way,Parc Anne Castelbon,park,Béziers,"Rue du Parc, 34760, Boujan-sur-Libron",34760,,43.372054,3.2484768
+133555937,way,Musée Chapy,museum,Béziers,"14 Rue du Muscat, 34760, Boujan-sur-Libron",34760,https://www.beziers-mediterranee.com/patrimoine-culturel/musee-chapy/,43.3666765,3.2457515
+133850726,way,Oppidum d'Ensérune,museum,Béziers,"Site archéologique d'Ensérune, 34440, Nissan-lez-Enserune",34440,,43.3101166,3.113387
+133851097,way,Chapelle Notre-Dame de la Miséricorde,attraction,Béziers,,,,43.2991588,3.1392285
+133959968,way,,park,Béziers,,,,43.2866559,3.130657
+135444502,way,La Resse,restaurant,Béziers,,,,43.5976637,2.6938499
+135445518,way,La Tenèle,ruins,Béziers,,,,43.6359562,2.6490234
+135449250,way,Sagnes de Gos,ruins,Béziers,,,,43.630669,2.64494
+138791638,way,Ristorante Del Arte,restaurant,Béziers,"Boulevard René Cassin, 34300, Agde",34300,https://www.delarte.fr/restaurants/4405-agde,43.3073176,3.4923672
+149393333,way,"Bâtiment ""ORB""",hotel,Béziers,"Chemin des Orpellières, 34350, Valras-Plage",34350,,43.249774,3.2989333
+149393592,way,Bâtiment Bellevue,hotel,Béziers,"Chemin des Orpellières, 34350, Valras-Plage",34350,,43.2497678,3.2992521
+149393897,way,"Bâtiment ""Phare""",hotel,Béziers,"Chemin des Orpellières, 34350, Valras-Plage",34350,,43.2494283,3.2994544
+149394489,way,"Bâtiment ""Dune""",hotel,Béziers,"Chemin des Orpellières, 34350, Valras-Plage",34350,,43.2503564,3.3012314
+149396616,way,"Bâtiment ""Maisonnette""",hotel,Béziers,,,,43.2496949,3.3001017
+149401723,way,Salle rouge,restaurant,Béziers,,,,43.2495361,3.2996052
+149404422,way,Aire de Jeux de la Yole,park,Béziers,,,,43.2684449,3.2721115
+149413101,way,Petit Bois,park,Béziers,,,,43.2791679,3.2732518
+155079000,way,Château d'Adissan,castle,Béziers,,,,43.53507,3.426961
+155431424,way,Château de Cazouls-d'Hérault,castle,Béziers,,,,43.5063015,3.4566755
+158232700,way,Le Trou du Météore,attraction,Béziers,,,https://www.hou.usra.edu/meetings/lpsc2023/pdf/1910.pdf,43.5362409,3.1304073
+164097117,way,Parc Pierre Danos,park,Béziers,,,,43.6005605,3.0823098
+164102990,way,Square du Professeur Grasset,park,Béziers,,,,43.593399,3.0810226
+172605632,way,Parc Marcel Roux,park,Béziers,,,,43.6937171,3.16587
+174491793,way,Portail de Roquandouire,attraction,Béziers,,,,43.6525648,3.001365
+178387339,way,Musée de Préhistoire Régionale,museum,Béziers,"8 Grand'Rue, 34220, Saint-Pons-de-Thomières",34220,https://www.herault-tourisme.com/fr/fiche/patrimoine-culturel/musee-de-prehistoire-regionale-saint-pons-de-thomieres_TFOPCULAR0340000014/,43.4886505,2.758696
+178389129,way,,ruins,Béziers,,,,43.4913335,2.7703155
+178389832,way,,ruins,Béziers,,,,43.4903979,2.7716608
+178543737,way,Musée Français de la Spéléologie,museum,Béziers,,,,43.473911,2.7132765
+178544960,way,Nabat le haut,hotel,Béziers,,,,43.48651,2.685226
+178545155,way,Sagnette,ruins,Béziers,,,,43.4920915,2.6683125
+185520366,way,,memorial,Béziers,,,,43.3373084,3.2193062
+191548223,way,Manovi Plage,restaurant,Béziers,,,https://www.manovi-plage.com/,43.2735052,3.5040956
+192818074,way,Domaine Départemental de Bayssan,park,Béziers,,,https://scene-de-bayssan.herault.fr/,43.3065172,3.2078169
+200933341,way,Bois Haut,ruins,Béziers,,,,43.372227,2.6727359
+201189277,way,Château d'Autignac,castle,Béziers,,,https://www.chateauautignac.fr/,43.4991162,3.1707859
+204094269,way,,park,Béziers,,,,43.3852469,3.4613417
+204237175,way,Pont Vieux,attraction,Béziers,,,,43.3987787,3.4164224
+207020270,way,Pont du Diable,attraction,Béziers,,,,43.6250557,3.1166008
+208613593,way,,park,Béziers,,,,43.4474992,3.297085
+216033724,way,Parc Sans Souci,park,Béziers,,,,43.4586724,3.4190221
+218289149,way,Château de Sauvian,castle,Béziers,,,https://www.chateaudesauvian.com,43.2951835,3.2642075
+219548111,way,,castle,Béziers,,,,43.3682416,3.429379
+219552057,way,Chapelle Saint-Laurent,ruins,Béziers,,,,43.3429725,3.424577
+226147923,way,,park,Béziers,,,,43.3348141,3.1250409
+230833231,way,Plage de la Séoune,beach,Béziers,,,,43.2650277,3.3343574
+230833232,way,Plage Sérignan,beach,Béziers,,,,43.2529461,3.3099901
+232053287,way,Luna Park,theme_park,Béziers,,,,43.279197,3.5039122
+232075172,way,Dino World,theme_park,Béziers,,,https://www.dinoworld.fr,43.2799877,3.5022515
+241517644,way,Château de Lézignan-la-Cèbe,castle,Béziers,,,,43.4932965,3.439036
+244311938,way,,park,Béziers,,,,43.3356494,3.2137836
+244413234,way,Pizze Di Rosa,restaurant,Béziers,"8 Grand Rue, 34360, Saint-Chinian",34360,,43.4208921,2.9473151
+246496474,way,Chapelle Saint-Pierre,monument,Béziers,,,,43.4595301,3.2887181
+246496540,way,,memorial,Béziers,,,,43.4495765,3.2956735
+246496609,way,,ruins,Béziers,,,,43.4464179,3.2908719
+253119055,way,Parc de l'Usclade,park,Béziers,,,,43.5942775,3.0798632
+254614608,way,,castle,Béziers,,,,43.5577696,2.9126358
+256237127,way,,garden,Béziers,,,,43.6532395,3.042615
+263545054,way,Château d'Agel,castle,Béziers,,,,43.338257,2.853374
+265029815,way,,park,Béziers,,,,43.3912397,3.1044157
+265089166,way,Auberge de Saint-Martin,restaurant,Béziers,"Route de Saint-Pons, 34210, Beaufort",34210,,43.2995172,2.7591572
+265089167,way,Château de Beaufort,castle,Béziers,,,,43.2974609,2.7573748
+269376960,way,Chapelle Notre-Dame-de-la-Roque,ruins,Béziers,,,,43.5474283,3.1246386
+274270178,way,B&B Hôtel,hotel,Béziers,"Rue des Frères Bouillon, 34120, Pézenas",34120,https://www.hotel-bb.com/fr/-/hotelByName.htm?id=4572,43.4462932,3.4107338
+274270365,way,Garrigae Distillerie de Pézenas,hotel,Béziers,"6 Rue Calquières Hautes, 34120",34120,https://garrigae.fr/etablissements/distillerie-de-pezenas/,43.4613763,3.4262651
+274270736,way,Musée de Vulliod Saint-Germain,museum,Béziers,,,https://www.ville-pezenas.fr/sepanouir/culture-theatre-et-expos/les-lieux-de-culture/ville-de-culture/,43.4613836,3.4230434
+274270773,way,,castle,Béziers,,,,43.4618063,3.421972
+274270845,way,Restaurant Les Amandiers,restaurant,Béziers,,,,43.4557812,3.4253165
+274270908,way,Domaine de la Grange des Prés,castle,Béziers,,,,43.4737723,3.4335099
+274274106,way,Château de Castelsec,castle,Béziers,,,,43.4544032,3.4169081
+274275001,way,Chez Magali,restaurant,Béziers,,,,43.4597799,3.4236351
+274275397,way,Château de Conas,castle,Béziers,,,,43.441531,3.4194569
+274275674,way,Château de Saint-Martin-de-Graves,castle,Béziers,,,https://www.chateau-saintmartin-de-graves.com,43.4608857,3.451937
+274277663,way,A Table,restaurant,Béziers,,,,43.4483905,3.4155179
+274277871,way,L'Essentiel,restaurant,Béziers,"17 Rue des Frères Bouillon, 34120, Pézenas",34120,,43.4463542,3.4100287
+275782451,way,Château de Colombières sur Orb,castle,Béziers,,,,43.5781347,3.000335
+277731815,way,Hôtel de la Mer,hotel,Béziers,"23 Boulevard Michelet, 34350, Valras-Plage",34350,https://www.hoteldelamervalras.com,43.2446225,3.290833
+277734763,way,Hôtel Alcyon,hotel,Béziers,"11 ter Boulevard Michelet, 34350, Valras-Plage",34350,https://www.hotel-valras-plage.fr,43.245441,3.290194
+278033403,way,Auberge de Bessilles,restaurant,Béziers,,,,43.4746497,3.5400983
+278122225,way,Musée Archéologique,museum,Béziers,,,,43.3037245,3.3377655
+278122284,way,Le Plaza Hotel,hotel,Béziers,,,,43.313939,3.345275
+278129775,way,Mon rêve d'enfant,restaurant,Béziers,,,,43.3038645,3.3368949
+278242535,way,La Boule Ronde,ruins,Béziers,,,,43.4740333,3.4927849
+278824456,way,,ruins,Béziers,,,,43.685875,3.162247
+278825357,way,Four de la Verrerie,ruins,Béziers,,,,43.6942897,3.1669409
+281473718,way,Plage Richelieu,beach,Béziers,,,,43.2740507,3.4971421
+281473719,way,Plage de la Roquille,beach,Béziers,,,,43.2883212,3.5262521
+282497209,way,,park,Béziers,,,,43.4208948,2.9466448
+285180360,way,Combeginière,ruins,Béziers,,,,43.4619639,2.6608252
+287976668,way,,museum,Béziers,,,,43.2639248,3.3133456
+287976701,way,Mini golf du lion,restaurant,Béziers,,,,43.2689616,3.3363433
+287979195,way,La Bodega,restaurant,Béziers,,,,43.2683008,3.3389638
+289157631,way,,castle,Béziers,,,,43.339523,3.391931
+289158665,way,Hôtel Myriam,hotel,Béziers,1245 Avenue de la Méditerranée,,https://www.motelmyriam.com/,43.291271,3.4157825
+293286815,way,,park,Béziers,,,,43.2784656,3.4883291
+293538795,way,,park,Béziers,,,,43.2851311,3.5070762
+294003478,way,,beach,Béziers,,,,43.2922459,3.5228289
+294003479,way,,beach,Béziers,,,,43.2926291,3.5227847
+304719113,way,Château de DIo,castle,Béziers,,,,43.6674095,3.2111436
+304719301,way,,ruins,Béziers,,,,43.682858,3.228357
+305053818,way,Château des archevêques de Narbonne,attraction,Béziers,,,,43.3286346,3.0453088
+305056357,way,Collégiale Saint-Étienne,attraction,Béziers,,,,43.3281515,3.043896
+305785984,way,Place du Souvenir Français,garden,Béziers,,,,43.4787929,3.4811128
+307474911,way,Château de Perdiguier,castle,Béziers,,,,43.367494,3.1707395
+309038864,way,Portail de Roquandouire,attraction,Béziers,,,,43.6522581,3.0012846
+311399834,way,Château de Pinet,castle,Béziers,,,,43.4015894,3.5149385
+311400403,way,,garden,Béziers,,,,43.406183,3.507715
+318994577,way,Château de Castellas,castle,Béziers,,,,43.5508253,3.3070077
+322521693,way,Château de la Tour,castle,Béziers,,,,43.3393712,3.1373285
+323344052,way,,ruins,Béziers,,,,43.6251394,3.1184495
+324591852,way,Esplanade Farret,park,Béziers,,,,43.4999784,3.027075
+326243751,way,Château de Lignan,hotel,Béziers,,,,43.3853045,3.1652355
+327536119,way,La Carte Timbrée,restaurant,Béziers,"3, 34490, Thézan-lès-Béziers",34490,https://restaurant-thezan.fr,43.4214115,3.1692785
+328434169,way,Château de Mus,castle,Béziers,"34500, Murviel-lès-Béziers",34500,https://www.chateau-mus.com/,43.4299824,3.1185703
+330988135,way,Jardin Médiéval Saint-Jean des Anneaux,park,Béziers,,,,43.3406526,3.2582259
+330988136,way,Saint-Jean d'Aureilhan,park,Béziers,,,,43.3397209,3.2578439
+331649100,way,Château de Lavagnac,castle,Béziers,,,,43.5090996,3.4748453
+340411582,way,Château de Montpézat,castle,Béziers,,,https://www.chateau-montpezat.com/,43.4742661,3.3849324
+344619109,way,,ruins,Béziers,,,,43.5072039,3.0084484
+360092556,way,Hôtel Mercure Golf Cap d'Agde,hotel,Béziers,"1 Rue Volvire de Brassac, 34300",34300,,43.2836415,3.4972969
+361481549,way,Esplanade du 21 Juillet 1969,park,Béziers,,,,43.31035,3.1476084
+364216303,way,Salve,memorial,Béziers,,,,43.5048504,3.3712549
+364628980,way,Cantine municipale,restaurant,Béziers,,,https://caux.fr/,43.5106855,3.3686655
+365514708,way,Les Cazalets,ruins,Béziers,,,,43.6934995,3.0766105
+365514826,way,,castle,Béziers,,,,43.672499,3.0999575
+366566333,way,,park,Béziers,,,,43.668075,3.1049279
+366919741,way,Place de l'Agenouillade,park,Béziers,,,,43.2927083,3.4564185
+368427038,way,Combecrose Bas,ruins,Béziers,,,,43.6152445,2.831563
+368427081,way,Alary,ruins,Béziers,,,,43.623609,2.834586
+368427137,way,L'Espinasse,ruins,Béziers,,,,43.6315004,2.8572903
+368427227,way,Faurous,ruins,Béziers,,,,43.622062,2.83484
+369854254,way,,park,Béziers,,,,43.4828229,3.2804041
+370964092,way,Conservatoire de Tastavy,museum,Béziers,,,https://tastavy869476266.wordpress.com/presentation/,43.6475975,2.7045378
+371685973,way,Place des Égyptiens,park,Béziers,,,,43.287211,3.5044987
+386859992,way,Chapelle Saint-Nicolas de Talpuciac,ruins,Béziers,,,,43.4342186,3.4704377
+386859994,way,Château des Barons de Guers,castle,Béziers,,,,43.4353125,3.4380155
+386860707,way,Moulin de Castelnau,ruins,Béziers,,,,43.4500855,3.4409871
+389202478,way,Jardin Méditerranéen,garden,Béziers,"Lotissement Les Aires, 34120, Nézignan-l'Évêque",34120,,43.4233203,3.4091158
+389219488,way,"réservoir street art ""NOON""",artwork,Béziers,,,,43.4213669,3.405966
+389219688,way,Hôtel Saint-Alban,hotel,Béziers,31 bis Avenue d'Agde,,,43.4195856,3.407732
+393911057,way,Square de la Vierge,park,Béziers,,,,43.3840192,3.169194
+398955005,way,Square Marcel Pagnol,park,Béziers,,,,43.4191958,3.3634066
+398957254,way,L'Asparagus,restaurant,Béziers,2 Avenue de Montblanc,,,43.4171859,3.3631494
+398957393,way,La Tour à Pizza,restaurant,Béziers,,,,43.4209985,3.365441
+401436855,way,Château de Saint-Pierre,castle,Béziers,,,,43.4050872,3.370089
+401439123,way,Château de Montmarin,castle,Béziers,,,https://domainedemontmarin.fr,43.345927,3.3714837
+401491306,way,,park,Béziers,,,,43.4304553,3.3156165
+401580287,way,Château d'Espondeilhan,castle,Béziers,,,,43.4360905,3.2602262
+402433481,way,Château de Maureilhan,castle,Béziers,,,,43.359033,3.1202042
+406615577,way,Château de Puissalicon,castle,Béziers,,,,43.4582345,3.2359955
+406615639,way,Château de Saint-Pierre-de-Serjac,castle,Béziers,,,,43.4705631,3.2506232
+406616244,way,Tour romane,attraction,Béziers,,,,43.4563214,3.2236723
+406617626,way,Château des Évêques,castle,Béziers,,,,43.4586585,3.2352645
+406620088,way,,park,Béziers,,,,43.4596826,3.2205639
+406651225,way,,castle,Béziers,,,,43.3072285,3.0770059
+409352284,way,"Abbatiale Sainte-Marie de Fontcaude, de l'ordre des Prémontrés",attraction,Béziers,,,,43.4179673,3.0552832
+411310489,way,Château de Colombiers,castle,Béziers,,,https://chateaudecolombiers.com/,43.3149566,3.1403114
+411370904,way,Esplanade du 3 Décembre 1967,park,Béziers,,,,43.3129696,3.14431
+412749114,way,Château de Quarante,castle,Béziers,,,,43.3458415,2.9661685
+412749115,way,Château de Roueïre,castle,Béziers,,,,43.3521525,2.997063
+412749117,way,Les Carrasses,castle,Béziers,,,,43.3440605,3.0251038
+412751578,way,Église Sainte-Marie,attraction,Béziers,,,https://collegiale-sainte-marie-quarante.pagesperso-orange.fr/tf/tf_gener.htm,43.3472835,2.9609775
+413359325,way,,ruins,Béziers,,,,43.4068684,3.2114453
+413616341,way,Château de Sériège,castle,Béziers,,,,43.3303475,2.9501005
+413616507,way,,museum,Béziers,,,,43.355553,2.9406115
+413616908,way,,ruins,Béziers,,,,43.330283,2.9329535
+413617034,way,,ruins,Béziers,,,,43.330231,2.932809
+413617227,way,,ruins,Béziers,,,,43.350186,2.9173805
+413617257,way,,ruins,Béziers,,,,43.330383,2.9328635
+413937531,way,,ruins,Béziers,,,,43.3900184,3.1861526
+414432424,way,Château de Creissan,castle,Béziers,,,http://www.creissan.com/ChateauCreissan,43.3744385,3.009688
+416556811,way,"Ensemble castral dit ""castellas"" Saint-Michel de Mourcairol",attraction,Béziers,,,,43.5774076,3.0941503
+418456655,way,,ruins,Béziers,,,,43.4085482,3.2208154
+421991610,way,Château de Margon,castle,Béziers,"16 Rue du Château, 34320, Margon",34320,http://www.chateaudemargon.com,43.4863631,3.3061592
+421992361,way,Le Petit Margonnais,restaurant,Béziers,"6 Avenue d'Alignan, 34320, Margon",34320,,43.4863247,3.3077174
+424243956,way,,garden,Béziers,,,,43.7156513,3.1710405
+424243957,way,,garden,Béziers,,,,43.7155739,3.1711677
+424243958,way,,garden,Béziers,,,,43.7154935,3.1712874
+424243959,way,,garden,Béziers,,,,43.7157754,3.170781
+424243960,way,,garden,Béziers,,,,43.7159044,3.1705559
+424277478,way,,ruins,Béziers,,,,43.7163087,3.1624055
+424293941,way,Château de Lunas,castle,Béziers,,,,43.7071573,3.1945598
+425241849,way,Musée de la Cloche et de la Sonnaille,museum,Béziers,,,,43.5945802,3.1125578
+426783819,way,Porte Neuve,attraction,Béziers,,,,43.5568149,2.9149003
+428203272,way,Le Soleau,restaurant,Béziers,,,,43.3214847,3.2867898
+428206367,way,,artwork,Béziers,,,,43.3134733,3.2832751
+430609256,way,,park,Béziers,,,,43.4694416,3.1775277
+431663907,way,Château Féodal de Pézènes-les-Mines,castle,Béziers,,,,43.5890284,3.252029
+433803615,way,Arguzac,ruins,Béziers,,,,43.412224,2.7772522
+435613372,way,Château de Roujan,castle,Béziers,,,,43.5047816,3.3107679
+435615576,way,Chapelle Saint-Nazaire de Roujan,ruins,Béziers,"34320, Roujan",34320,,43.4920666,3.3169611
+435641255,way,,park,Béziers,,,,43.508392,3.3140739
+435803289,way,Château de Cazilhac,castle,Béziers,,,,43.4746022,3.2572535
+435803290,way,Château de Pouzolles,castle,Béziers,,,,43.4835671,3.279127
+436548677,way,Château de Saint-Geniès-de-Fontedit,castle,Béziers,,,,43.4678515,3.1774011
+437993990,way,Brasserie Monsieur Pierre,restaurant,Béziers,"16 Rue de l'Audacieuse, 34480, Magalas",34480,,43.4676506,3.2087652
+447768525,way,La Régasse,ruins,Béziers,,,,43.7450508,3.0673671
+447768963,way,Les Caumettes,ruins,Béziers,,,,43.7592177,3.0757569
+461333911,way,,park,Béziers,,,,43.2923105,3.4559928
+463699085,way,,ruins,Béziers,,,,43.6947397,3.1572891
+464993249,way,,ruins,Béziers,,,,43.7170952,3.1636322
+464993250,way,,ruins,Béziers,,,,43.7171717,3.1649588
+464993755,way,,garden,Béziers,,,,43.7170725,3.1683883
+467450649,way,Église Saint-Étienne,attraction,Béziers,,,,43.3545394,2.7460549
+469435184,way,,restaurant,Béziers,,,,43.3185484,3.1431791
+469888997,way,,park,Béziers,,,,43.3672179,3.1712331
+474596593,way,,ruins,Béziers,,,,43.6907309,3.1534319
+476221807,way,Placette Ferdinand Fabre,park,Béziers,,,,43.6750611,3.1575271
+479019724,way,Jardin des Évêques,garden,Béziers,,,,43.3409222,3.2101198
+482471255,way,Square Braille,garden,Béziers,,,,43.3397964,3.2253115
+489549743,way,,ruins,Béziers,,,,43.3811616,3.1303946
+493420207,way,,ruins,Béziers,,,,43.3100374,3.1171386
+496338756,way,Place des Vendanges,park,Béziers,,,,43.3589164,3.162599
+500159330,way,,park,Béziers,,,,43.4987184,3.169408
+501287717,way,La Grande Roue,attraction,Béziers,,,,43.2852702,3.5099393
+518220394,way,,park,Béziers,,,,43.3328848,3.2039433
+540183581,way,Square Jacques Lapergue,park,Béziers,,,,43.2872184,3.4508689
+544400127,way,Eau thermale Avène l'hôtel,hotel,Béziers,,,,43.7556515,3.1099927
+546917330,way,,garden,Béziers,,,,43.3635134,3.0642078
+575042920,way,Camp Redon,ruins,Béziers,,,,43.406915,2.9551462
+575569256,way,Tour du Jeu de Ballon,castle,Béziers,,,,43.5074293,3.3676394
+608386754,way,Fontaine musicale,attraction,Béziers,,,,43.3410673,3.2159783
+608386767,way,,garden,Béziers,,,,43.340879,3.2161168
+608386768,way,,garden,Béziers,,,,43.3412696,3.2158936
+612254128,way,Amphithéâtre du Pont Vieux,park,Béziers,,,,43.3390947,3.2068088
+612254129,way,Jardin Emile Aïn,garden,Béziers,,,,43.3384351,3.2073965
+612254130,way,Terrain du Bosquet,park,Béziers,,,,43.3331497,3.213161
+619215512,way,Amphithéâtre Romain,garden,Béziers,,,,43.3395635,3.214066
+635376062,way,aire de jeu,park,Béziers,,,,43.3031433,3.4766609
+643300250,way,Parc Pierre Rabhi,park,Béziers,,,,43.6070187,3.1540086
+643455762,way,Espace Victor Goudou,park,Béziers,,,,43.361477,3.4313691
+644480515,way,,restaurant,Béziers,"Chemin des Orpellières, 34350, Valras-Plage",34350,,43.2497854,3.2994071
+654819836,way,Jardin des plantes Frédéric-Jacques Temple,park,Béziers,,,,43.6191239,3.1629
+672298573,way,Château de Pardailhan,castle,Béziers,Pardailhan,,,43.451611,2.8466047
+676009116,way,,beach,Béziers,,,,43.2795277,3.5183517
+685293305,way,,garden,Béziers,,,,43.3070793,3.2067861
+686361951,way,,garden,Béziers,,,,43.6520378,3.0384724
+686361952,way,,garden,Béziers,,,,43.6529448,3.0389173
+686361953,way,,garden,Béziers,,,,43.6544482,3.0403832
+686361954,way,,garden,Béziers,,,,43.6537172,3.038825
+686369022,way,,garden,Béziers,,,,43.6413488,3.0290247
+686425497,way,,garden,Béziers,,,,43.6434232,3.0302937
+686449762,way,,garden,Béziers,,,,43.6432437,3.0320777
+686449765,way,,garden,Béziers,,,,43.6440815,3.0351837
+686450886,way,,garden,Béziers,,,,43.6421348,3.0252736
+686503951,way,,garden,Béziers,,,,43.6420734,3.0293211
+686507475,way,,garden,Béziers,,,,43.6434776,3.0312268
+687922361,way,,park,Béziers,,,,43.4690387,3.3430485
+691248081,way,,park,Béziers,,,,43.3292368,3.0411827
+696018090,way,Château de Manse,castle,Béziers,,,,43.4953861,3.3477724
+698937122,way,,castle,Béziers,,,,43.4857959,3.3671213
+708137442,way,,garden,Béziers,,,,43.6473151,3.0353353
+708138139,way,,garden,Béziers,,,,43.6503783,3.0350135
+708138717,way,,garden,Béziers,,,,43.6464103,3.0350077
+708139669,way,,garden,Béziers,,,,43.6461604,3.0368534
+708139859,way,,garden,Béziers,,,,43.6512211,3.0371736
+708677530,way,,garden,Béziers,,,,43.6507227,3.0418999
+709046362,way,,garden,Béziers,,,,43.6585327,3.0383694
+709885764,way,Saint-Pierre de l'Espinouse,ruins,Béziers,,,,43.6120483,2.8990025
+713662699,way,,park,Béziers,,,,43.2758579,3.3569577
+713870773,way,,park,Béziers,,,,43.3730008,3.0124025
+719323718,way,Saint-Bauléry,ruins,Béziers,,,,43.4069415,3.0044523
+725810446,way,Les Jardins d'Amélie,garden,Béziers,,,,43.4710972,3.4045472
+770612755,way,Parc sportif Myriam Nicole,park,Béziers,,,,43.3074179,3.2096172
+773654975,way,,park,Béziers,,,,43.2853098,2.7266698
+779334163,way,Cactus Park (parc floral et animalier),garden,Béziers,,,https://www.cactuspark.fr/,43.348917,3.4177153
+780942483,way,,park,Béziers,,,,43.4268023,3.3130967
+780944806,way,,park,Béziers,,,,43.308728,3.151784
+780978537,way,,park,Béziers,,,,43.4413948,3.1418511
+782668271,way,Hôtel Le Monestié,hotel,Béziers,,,,43.3660549,3.2459295
+783420113,way,,ruins,Béziers,,,,43.4896423,2.9494165
+783936960,way,L'Hacienda,restaurant,Béziers,,,,43.2709624,3.2476274
+787654303,way,Espace Papanou,park,Béziers,"34120, Nézignan-l'Évêque",34120,,43.4232638,3.4063291
+797699287,way,,ruins,Béziers,,,,43.488459,2.7699646
+797699294,way,,ruins,Béziers,,,,43.4905426,2.7715276
+797700964,way,,ruins,Béziers,,,,43.4897998,2.7716032
+797700968,way,,ruins,Béziers,,,,43.4912286,2.770588
+804289634,way,,garden,Béziers,,,,43.4449756,3.2069898
+807990079,way,Aire de Jeux Herriot,park,Béziers,,,,43.3370526,3.2274619
+824548150,way,,park,Béziers,,,,43.7066583,3.1928063
+824598868,way,,park,Béziers,,,,43.7059748,3.1891137
+824746486,way,,garden,Béziers,,,,43.7085735,3.1953935
+824746487,way,,garden,Béziers,,,,43.7086688,3.1951142
+824746489,way,,park,Béziers,,,,43.7055904,3.1909902
+824746490,way,,garden,Béziers,,,,43.7064878,3.1924089
+824746491,way,,garden,Béziers,,,,43.7069541,3.1929225
+824746498,way,,ruins,Béziers,,,,43.7058433,3.1983425
+824746499,way,,ruins,Béziers,,,,43.7070415,3.197087
+824750872,way,,garden,Béziers,,,,43.7088881,3.1953676
+824750873,way,,garden,Béziers,,,,43.7095549,3.1953167
+824750874,way,,garden,Béziers,,,,43.7093249,3.1953471
+824750875,way,,garden,Béziers,,,,43.7091297,3.1953521
+824750876,way,,garden,Béziers,,,,43.7092807,3.1957059
+824750877,way,,garden,Béziers,,,,43.7091741,3.1957971
+824750879,way,,garden,Béziers,,,,43.709568,3.1958263
+824750880,way,,garden,Béziers,,,,43.7089673,3.1958151
+824750881,way,,garden,Béziers,,,,43.7085003,3.1958063
+824750882,way,,garden,Béziers,,,,43.7081096,3.1968555
+824750883,way,,garden,Béziers,,,,43.7080914,3.196668
+824750884,way,,garden,Béziers,,,,43.7080725,3.1965155
+824750885,way,,garden,Béziers,,,,43.7080842,3.1964025
+824750886,way,,garden,Béziers,,,,43.7080849,3.1962729
+824750888,way,,garden,Béziers,,,,43.7080153,3.1970543
+824750889,way,,garden,Béziers,,,,43.7082176,3.1976111
+824750890,way,,garden,Béziers,,,,43.7082238,3.1953609
+825098243,way,,garden,Béziers,,,,43.7077044,3.1944464
+825098244,way,,garden,Béziers,,,,43.7075763,3.1941718
+825098245,way,,garden,Béziers,,,,43.7075697,3.1944104
+825098247,way,,garden,Béziers,,,,43.7066932,3.1920379
+825098248,way,,garden,Béziers,,,,43.7063756,3.1920171
+825211750,way,,garden,Béziers,,,,43.7073917,3.1921295
+828438237,way,Plaine de Jeux Christian Prax,park,Béziers,,,,43.2912305,3.2484783
+828786224,way,,park,Béziers,,,,43.2918398,3.1272609
+828786225,way,Square,park,Béziers,,,,43.2918605,3.1277666
+832879617,way,Hundestrand,beach,Béziers,,,,43.2717322,3.3495576
+834719882,way,Square Jérôme B d'Aussilloux,park,Béziers,,,,43.3127443,2.6621987
+834719889,way,,park,Béziers,,,,43.3123111,2.662563
+836851703,way,,park,Béziers,,,,43.311903,2.6600484
+837114299,way,,park,Béziers,,,,43.4973958,3.438091
+838290734,way,,park,Béziers,,,,43.3740124,3.0125116
+839040846,way,Place de la République,park,Béziers,,,,43.3314962,2.6014594
+839621392,way,Square Joseph Lazare,park,Béziers,,,,43.3511354,3.2200768
+839646802,way,Place d'Isly,park,Béziers,,,,43.3334352,3.2479137
+839646843,way,,park,Béziers,,,,43.3372121,3.2534927
+843829135,way,,park,Béziers,,,,43.3649646,3.4226379
+852331309,way,,park,Béziers,,,,43.3045453,3.474704
+857878210,way,Hôtel Hélios,hotel,Béziers,"12 Rue du Labech, 34300",34300,,43.2895642,3.5058497
+871588698,way,Parc du Pistoulet,park,Béziers,"Chemin du Pistoulet, 34720, Caux",34720,,43.5084754,3.3648676
+913242158,way,Jardin de le Plantade,garden,Béziers,,,,43.3447699,3.2071787
+913242160,way,,park,Béziers,,,,43.3472321,3.2050835
+914269443,way,,park,Béziers,,,,43.3953375,3.5002816
+918928898,way,,park,Béziers,,,,43.3914438,3.108974
+920551940,way,Square Marius Fargat,garden,Béziers,,,,43.6814011,3.091977
+922492591,way,,beach,Béziers,,,,43.4986279,3.0298206
+922861468,way,,park,Béziers,,,,43.3135753,3.2831395
+925252454,way,,park,Béziers,,,,43.2524772,3.2869922
+925301354,way,Ancienne église Saint-Laurent de Fereyrolles,ruins,Béziers,,,,43.6718166,3.081779
+925949119,way,Place des Romarins,park,Béziers,,,,43.31362,3.4122151
+925949120,way,,park,Béziers,,,,43.313655,3.4106718
+926025293,way,,park,Béziers,,,,43.3107651,3.4225631
+934079054,way,,park,Béziers,,,,43.5890139,3.0915979
+944767087,way,Jardin du Faubourg,park,Béziers,,,,43.3371051,3.205164
+944767114,way,,park,Béziers,,,,43.3305956,3.2010536
+944816298,way,Square Saint-Louis,park,Béziers,,,,43.3419728,3.2096456
+945363855,way,Parc Clemenceau,park,Béziers,,,,43.3499001,3.2231394
+948199698,way,Brasserie La Presse Gourmande,restaurant,Béziers,"Avenue de Pézenas, 34320, Roujan",34320,,43.5003282,3.3198704
+951970771,way,,park,Béziers,,,,43.5321513,3.3310769
+952293702,way,,park,Béziers,,,,43.3234235,3.2383503
+954244877,way,La Candela,attraction,Béziers,,,,43.3552482,2.7451226
+959654232,way,,park,Béziers,,,,43.3897619,3.5315436
+960647825,way,,park,Béziers,,,,43.3391137,3.3920154
+961504330,way,,park,Béziers,,,,43.326805,3.3789061
+961504334,way,,park,Béziers,,,,43.3217209,3.416622
+963605520,way,Square Lou Recantou,park,Béziers,,,,43.3691556,3.1484741
+964010382,way,Esplanade Rhin et Danube,park,Béziers,,,,43.2945947,3.2544771
+964089291,way,,park,Béziers,,,,43.6730444,3.171104
+965375266,way,,park,Béziers,,,,43.6537787,3.1293633
+969640580,way,Tour de la Gascagne,castle,Béziers,,,,43.4867507,2.7575138
+970962161,way,,park,Béziers,,,,43.2939744,3.030105
+971356369,way,,garden,Béziers,,,,43.4536466,3.4276397
+972540038,way,,park,Béziers,,,,43.6332396,3.2255028
+973171695,way,,park,Béziers,,,,43.3372868,2.9087729
+973224220,way,Ruines du vialais,ruins,Béziers,,,,43.6358577,2.9629321
+974393110,way,,beach,Béziers,,,,43.6034627,2.6566073
+979861516,way,,beach,Béziers,,,,43.4357083,3.1026827
+979861518,way,,beach,Béziers,,,,43.436632,3.101979
+979861519,way,,beach,Béziers,,,,43.4380296,3.1012418
+979861520,way,,beach,Béziers,,,,43.4507456,3.0450326
+979861521,way,,beach,Béziers,,,,43.4516553,3.0478284
+979861522,way,,beach,Béziers,,,,43.45597,3.0539501
+980938405,way,,park,Béziers,,,,43.5666501,2.9600351
+983358098,way,Placette de la Coopérative,park,Béziers,,,,43.6780931,3.1681273
+986976460,way,,park,Béziers,,,,43.3120314,2.6398985
+987217671,way,,park,Béziers,,,,43.3372937,2.8171393
+988816432,way,Gorges d'Héric,attraction,Béziers,,,,43.5867001,2.9583424
+988945259,way,Château de Grézan,castle,Béziers,,,,43.5043633,3.1939839
+989912557,way,Gorges de la Cesse,attraction,Béziers,,,,43.3536162,2.7073244
+989914552,way,Canyon de Dieuvaille,attraction,Béziers,,,,43.3856786,2.8506168
+992455202,way,,park,Béziers,,,,43.3808894,2.9165107
+997723420,way,Sapori Di CASA,restaurant,Béziers,"Boulevard Maurice Pacull, 34300, Agde",34300,https://restaurants.hippopotamus.fr/hippopotamus-steakhouse-fb1825ae1b91,43.2981971,3.4744559
+997723423,way,Cafétéria Crescendo,restaurant,Béziers,"Boulevard Maurice Pacull, 34300, Agde",34300,https://www.crescendo-restauration.fr/restaurant-agde-28.html,43.2983885,3.473509
+1002724833,way,Domaine La Yole,theme_park,Béziers,,,,43.2324138,3.2547976
+1016550654,way,,park,Béziers,,,,43.308809,3.4109937
+1027381809,way,plage publique,beach,Béziers,,,,43.5614684,2.970878
+1034812247,way,,park,Béziers,,,,43.5088667,3.2864108
+1038247151,way,,park,Béziers,,,,43.7546498,3.1118952
+1038677749,way,,garden,Béziers,,,,43.4874346,2.758555
+1038677753,way,,garden,Béziers,,,,43.4870367,2.7619264
+1038715183,way,,garden,Béziers,,,,43.488932,2.7579664
+1040866479,way,Parc Aventure Outdoor Climbing,theme_park,Béziers,,,,43.2986696,3.3663722
+1047450991,way,,garden,Béziers,,,,43.5608716,3.189107
+1058386784,way,,park,Béziers,,,,43.5957703,3.03604
+1060104903,way,,park,Béziers,,,,43.4956098,3.1672877
+1062851075,way,,park,Béziers,,,,43.3286066,3.0457376
+1075994838,way,,park,Béziers,,,,43.5920238,3.1119728
+1076186056,way,Plage de Farinette,beach,Béziers,,,,43.2888687,3.4119825
+1078792261,way,Place du Languedoc,park,Béziers,,,,43.516249,3.4082465
+1079131210,way,Parc du Château,park,Béziers,,,,43.4863479,3.3050092
+1079133082,way,Place Saint-Michel,park,Béziers,,,,43.4792348,3.2810343
+1079190412,way,,garden,Béziers,,,,43.4952206,3.4361803
+1079197975,way,,garden,Béziers,,,,43.492476,3.4383679
+1080799748,way,,garden,Béziers,,,,43.4173383,3.3656332
+1081786549,way,Place de l'Olivier,park,Béziers,,,,43.4222133,2.9544485
+1082490798,way,,park,Béziers,,,,43.44945,3.0579388
+1085207599,way,Fontaine du Théron,attraction,Béziers,,,,43.3290188,3.0449115
+1086488864,way,La Placette,park,Béziers,,,,43.648938,3.168353
+1088459387,way,Jardin des Chênes Verts,park,Béziers,,,,43.675872,3.1658392
+1088951753,way,,park,Béziers,,,,43.3949711,3.4214506
+1089200029,way,Espace paysager Jean Augé,park,Béziers,,,,43.6251565,3.107384
+1092137803,way,,park,Béziers,,,,43.304863,3.3396386
+1093272555,way,,attraction,Béziers,,,,43.5914463,2.9763947
+1093272556,way,,attraction,Béziers,,,,43.5917306,2.9762893
+1095866315,way,,park,Béziers,,,,43.689493,3.1683882
+1098022399,way,,park,Béziers,,,,43.2778067,2.7302646
+1100555064,way,,park,Béziers,,,,43.4213629,3.2359296
+1102839254,way,,park,Béziers,,,,43.3464419,2.9649634
+1102839255,way,,park,Béziers,,,,43.3462205,2.9662194
+1104939857,way,Parcours sportif Bourbaki,park,Béziers,,,,43.3480332,3.3245274
+1106144606,way,,attraction,Béziers,,,,43.2785513,3.5055065
+1106144607,way,,attraction,Béziers,,,,43.2785909,3.5052016
+1111714591,way,,garden,Béziers,,,,43.3658756,3.4205195
+1111714592,way,,garden,Béziers,,,,43.3657458,3.4205616
+1111714593,way,,garden,Béziers,,,,43.3658555,3.4207569
+1111714594,way,,garden,Béziers,,,,43.3658942,3.4209774
+1111714595,way,,garden,Béziers,,,,43.3658976,3.4210576
+1111714596,way,,garden,Béziers,,,,43.3657672,3.4211198
+1111714597,way,,garden,Béziers,,,,43.3657603,3.4209433
+1111714598,way,,garden,Béziers,,,,43.3657815,3.4214798
+1111714599,way,,garden,Béziers,,,,43.365876,3.4212915
+1111714600,way,,garden,Béziers,,,,43.366245,3.4207175
+1111714601,way,,garden,Béziers,,,,43.3663374,3.4205128
+1111714602,way,,garden,Béziers,,,,43.3662036,3.4204925
+1111714603,way,,garden,Béziers,,,,43.3663534,3.4208907
+1111714604,way,,garden,Béziers,,,,43.3662324,3.421196
+1111714605,way,,garden,Béziers,,,,43.3663224,3.4213095
+1111714606,way,,garden,Béziers,,,,43.3663748,3.4214307
+1111714607,way,,garden,Béziers,,,,43.3660125,3.4211935
+1111846790,way,Square Paul Bergonhe,garden,Béziers,,,,43.3022547,3.4747307
+1112021346,way,,garden,Béziers,,,,43.3597325,3.4263065
+1112045583,way,,garden,Béziers,,,,43.3603979,3.4288147
+1112163290,way,,garden,Béziers,,,,43.420399,3.2898812
+1113050345,way,,garden,Béziers,,,,43.3578676,3.425228
+1113050347,way,,garden,Béziers,,,,43.3607225,3.4256519
+1113103340,way,Parc de la Treille,park,Béziers,,,,43.4256993,3.2998231
+1115158426,way,,garden,Béziers,,,,43.449389,3.4214285
+1117647686,way,La Pinède,park,Béziers,,,,43.458101,3.4166627
+1118285343,way,,garden,Béziers,,,,43.4208884,3.4068117
+1123430065,way,,ruins,Béziers,,,,43.4442864,3.0657394
+1130618474,way,,park,Béziers,,,,43.2592111,3.2517623
+1134256315,way,Parc du Cygne,park,Béziers,,,,43.3487118,3.2084557
+1150144955,way,,park,Béziers,,,,43.7071476,3.1667809
+1150205473,way,Place Saint-Saturnin,park,Béziers,,,,43.6376116,3.1107495
+1161672058,way,Domaine Départemental de Savignac,park,Béziers,,,,43.4193691,3.1285778
+1161672072,way,Pyramide inversée,attraction,Béziers,,,,43.4141216,3.1328128
+1165170260,way,L'Olivada,park,Béziers,,,,43.3695773,3.0412663
+1168924197,way,,restaurant,Béziers,,,,43.2546358,3.2914535
+1169664931,way,Parc Massenet,park,Béziers,,,,43.4542944,3.4190707
+1174562500,way,Bistrot La Prison,restaurant,Béziers,,,,43.3410466,3.2092694
+1174750799,way,Chiringuito,restaurant,Béziers,"plage de la Farinette, 34450, Vias Plage",34450,https://chiringuito-vias.fr/,43.2896184,3.4158961
+1174817229,way,,park,Béziers,,,,43.3841845,3.4642254
+1183762900,way,Parc de la Mairie,park,Béziers,,,,43.2807535,3.2800509
+1191572497,way,,park,Béziers,,,,43.3588035,3.2072981
+1193747182,way,,park,Béziers,,,,43.2822826,3.2689702
+1198129139,way,,ruins,Béziers,,,,43.7974514,3.0967839
+1204129124,way,,garden,Béziers,,,,43.4645705,3.3925434
+1205215840,way,,park,Béziers,,,,43.2682336,3.2848651
+1212040418,way,,park,Béziers,,,,43.3488029,3.2476469
+1218848889,way,,park,Béziers,,,,43.5351577,3.4300216
+1218851100,way,,park,Béziers,,,,43.5150658,3.4088573
+1219406231,way,,park,Béziers,,,,43.3737093,3.0114864
+1219544689,way,,park,Béziers,,,,43.3536743,2.775792
+1219549349,way,Espace André Barreau,park,Béziers,,,,43.419952,2.7434209
+1223265280,way,,park,Béziers,,,,43.6559161,3.0442104
+1225173586,way,,park,Béziers,,,,43.4554789,3.4142867
+1235168934,way,,garden,Béziers,,,,43.3605405,3.424632
+1253797306,way,Espace les Frênes,park,Béziers,,,,43.5514665,2.6891405
+1255225162,way,Square du 8 Mai 1945,park,Béziers,,,,43.3873296,3.1095761
+1257368328,way,Square de l'ancienne gare,park,Béziers,,,,43.391091,3.4940714
+1263470780,way,,garden,Béziers,,,,43.3280119,3.1825402
+1263470781,way,,garden,Béziers,,,,43.3251126,3.1773237
+1271384544,way,,garden,Béziers,,,,43.3577333,3.4128828
+1279862296,way,Les Bassins de la Soure,ruins,Béziers,,,,43.6942879,3.1607392
+1286084537,way,,viewpoint,Béziers,,,,43.2340842,3.2382953
+1288641899,way,,park,Béziers,,,,43.379944,3.4689553
+1290964802,way,,garden,Béziers,,,,43.4612714,3.4240474
+1290964817,way,,garden,Béziers,,,,43.4580073,3.4237765
+1291129185,way,,garden,Béziers,,,,43.4576788,3.4127611
+1291129186,way,,garden,Béziers,,,,43.4576999,3.4128574
+1291129187,way,,garden,Béziers,,,,43.4575828,3.412949
+1291129188,way,,garden,Béziers,,,,43.4575873,3.4130453
+1291129189,way,,garden,Béziers,,,,43.457262,3.4130804
+1291129190,way,,garden,Béziers,,,,43.4574399,3.4129191
+1291129215,way,,garden,Béziers,,,,43.4610209,3.4101914
+1292156950,way,,park,Béziers,,,,43.6145447,3.0965808
+1305892049,way,,garden,Béziers,,,,43.4621919,3.4162953
+1307036680,way,,park,Béziers,,,,43.4820752,3.3953399
+1307036682,way,,restaurant,Béziers,,,https://www.parc-lumieres.com/,43.4818459,3.3952937
+1314824685,way,,park,Béziers,,,,43.2864569,3.121078
+1315323742,way,Carré de corps restitués Résistance,memorial,Béziers,,,,43.331272,3.0403664
+1315323743,way,Carré de corps restitués,memorial,Béziers,,,,43.3310735,3.0409449
+1316020927,way,,park,Béziers,,,,43.3124904,3.139525
+1316717196,way,Aire de jeux Léonce Claris,park,Béziers,,,,43.4826594,3.3046685
+1317163074,way,Square du Souvenir,memorial,Béziers,,,,43.4934163,3.4317418
+1317163075,way,Square du Souvenir,park,Béziers,,,,43.493501,3.431838
+1319048700,way,Jardin du Millénaire,park,Béziers,,,,43.4206216,3.4102349
+1326460483,way,,park,Béziers,,,,43.2878773,3.1229683
+1337227521,way,Ancienne source sulfureuse,ruins,Béziers,,,,43.2681753,3.196014
+1339803490,way,Parc de l'abbé Anglade,park,Béziers,,,,43.4462554,3.3808501
+1340359302,way,,garden,Béziers,,,,43.2732334,3.2179776
+1340359303,way,,garden,Béziers,,,,43.2730091,3.218298
+1340359304,way,,garden,Béziers,,,,43.2728071,3.2184975
+1340870415,way,,garden,Béziers,,,,43.480113,3.0873336
+1346768973,way,,ruins,Béziers,,,,43.7148139,3.2249815
+1347066461,way,,ruins,Béziers,,,,43.741289,3.2236925
+1347066462,way,,ruins,Béziers,,,,43.7415108,3.2234694
+1349965934,way,Square de l'Espérance,park,Béziers,,,,43.3099062,3.4751579
+1355198197,way,,garden,Béziers,,,,43.4364837,3.3280293
+1356527091,way,Place de la Colline,park,Béziers,,,,43.425052,2.9423189
+1356527103,way,Place de l'Ancienne Gare,park,Béziers,,,,43.4214866,2.9513749
+1357807666,way,Plaine de Jeux Les Tulipes,park,Béziers,,,,43.2907506,3.2552355
+1358234727,way,Parc de la Cigalière,park,Béziers,,,,43.2853798,3.2784969
+1358234728,way,Parc de la Prade,park,Béziers,,,,43.2860254,3.2769731
+1363678221,way,,park,Béziers,,,,43.460887,3.4162311
+1368393458,way,,park,Béziers,,,,43.4970134,3.4373494
+1372106246,way,Tour des lapins,ruins,Béziers,,,,43.4856909,3.3965921
+1373762447,way,,ruins,Béziers,,,,43.3458214,2.7713459
+1373762452,way,,ruins,Béziers,,,,43.3453872,2.7686319
+1373763076,way,,ruins,Béziers,,,,43.3443493,2.7781502
+1373766442,way,,ruins,Béziers,,,,43.348148,2.8686814
+1374487141,way,,ruins,Béziers,,,,43.3481949,2.5672548
+1374487145,way,,ruins,Béziers,,,,43.3481381,2.5667799
+1374487146,way,,ruins,Béziers,,,,43.3498153,2.567444
+1374802788,way,,ruins,Béziers,,,,43.3741851,2.8077297
+1374949764,way,,ruins,Béziers,,,,43.3383561,2.5508396
+1378858800,way,,ruins,Béziers,,,,43.6311374,3.1866132
+1378858807,way,,ruins,Béziers,,,,43.6311069,3.1903315
+1378858820,way,,ruins,Béziers,,,,43.6290675,3.190176
+1378858824,way,,ruins,Béziers,,,,43.6286829,3.1882528
+1378858825,way,,ruins,Béziers,,,,43.6286741,3.1890574
+1378858826,way,,ruins,Béziers,,,,43.6280393,3.1883131
+1378858833,way,,ruins,Béziers,,,,43.6295565,3.1941282
+1379374948,way,,ruins,Béziers,,,,43.4687302,3.0578405
+1380070689,way,,ruins,Béziers,,,,43.5924639,3.0334218
+1382560126,way,La Gambille,restaurant,Béziers,,,https://www.facebook.com/LaGambille,43.3128193,3.3153742
+1384154977,way,,ruins,Béziers,,,,43.5078089,2.990957
+1384538523,way,,ruins,Béziers,,,,43.4045582,2.944496
+1385808794,way,,park,Béziers,,,,43.4587142,3.4204199
+1396595364,way,,garden,Béziers,,,,43.4572729,3.4236519
+1396806609,way,,garden,Béziers,,,,43.4519287,3.4236839
+1396806614,way,,garden,Béziers,,,,43.4522889,3.4251845
+1396806615,way,,garden,Béziers,,,,43.4521996,3.425091
+1396806616,way,,garden,Béziers,,,,43.4521065,3.4250016
+1396806621,way,,garden,Béziers,,,,43.4500618,3.4223627
+1396806622,way,,garden,Béziers,,,,43.4505602,3.4212195
+1396806623,way,,garden,Béziers,,,,43.450672,3.4199984
+1396806633,way,,garden,Béziers,,,,43.4520127,3.4249228
+1396806635,way,,garden,Béziers,,,,43.4518834,3.4248357
+1397189913,way,,garden,Béziers,,,,43.4584385,3.4250045
+1397189914,way,,garden,Béziers,,,,43.4584148,3.4246437
+1397189915,way,,garden,Béziers,,,,43.458136,3.4250042
+1409414230,way,,garden,Béziers,,,,43.4608091,3.4199583
+1409472811,way,,garden,Béziers,,,,43.4584818,3.4268814
+1409472814,way,,garden,Béziers,,,,43.4587225,3.4271861
+1409472818,way,,garden,Béziers,,,,43.4582871,3.4279207
+1409472820,way,,garden,Béziers,,,,43.4581814,3.4282864
+1409472830,way,,garden,Béziers,,,,43.4578887,3.4286413
+1409472854,way,,garden,Béziers,,,,43.4577926,3.4277122
+1409483218,way,,garden,Béziers,,,,43.457769,3.4260759
+1409483219,way,,garden,Béziers,,,,43.4576027,3.425924
+1409497943,way,,garden,Béziers,,,,43.458258,3.4264071
+1409497944,way,,garden,Béziers,,,,43.4580844,3.4263863
+1409497949,way,,garden,Béziers,,,,43.4588485,3.424633
+1409497954,way,,garden,Béziers,,,,43.4588779,3.4259308
+1409516661,way,,garden,Béziers,,,,43.4589983,3.415185
+1409990948,way,,garden,Béziers,,,,43.4511587,3.4217242
+1409990961,way,,garden,Béziers,,,,43.4519377,3.4254361
+1409994010,way,,garden,Béziers,,,,43.4498798,3.4253085
+1410009424,way,,artwork,Béziers,,,,43.4627206,3.4181819
+1410009428,way,,garden,Béziers,,,,43.4619241,3.420033
+1410037973,way,,garden,Béziers,,,,43.4624585,3.4235718
+1410037974,way,,garden,Béziers,,,,43.4624536,3.4238511
+1410037980,way,,garden,Béziers,,,,43.4632184,3.4237061
+1410038013,way,,garden,Béziers,,,,43.4635842,3.4230374
+1410038031,way,,garden,Béziers,,,,43.4628582,3.4225579
+1410047837,way,,garden,Béziers,,,,43.4633275,3.4204974
+1410047843,way,,garden,Béziers,,,,43.4637172,3.419703
+1410047844,way,,garden,Béziers,,,,43.463731,3.4199401
+1410047870,way,,garden,Béziers,,,,43.46253,3.4210034
+1410849107,way,,garden,Béziers,,,,43.4594291,3.4262102
+1410849125,way,,garden,Béziers,,,,43.4630698,3.4251659
+1410849142,way,,garden,Béziers,,,,43.4639721,3.424599
+1410849143,way,,garden,Béziers,,,,43.4641149,3.4244961
+1410849144,way,,garden,Béziers,,,,43.4639334,3.4254451
+1410860093,way,,garden,Béziers,,,,43.4640994,3.4278011
+1410860098,way,,garden,Béziers,,,,43.4623495,3.4287816
+1410929491,way,,garden,Béziers,,,,43.4616396,3.4273054
+1410929498,way,,garden,Béziers,,,,43.462004,3.426416
+1410929499,way,,garden,Béziers,,,,43.4622076,3.4258498
+1411116973,way,,garden,Béziers,,,,43.4654194,3.4237407
+1411142527,way,,garden,Béziers,,,,43.4660264,3.4235511
+1411186762,way,,garden,Béziers,,,,43.4611333,3.4183885
+1411913140,way,,garden,Béziers,,,,43.461535,3.4089848
+1412137068,way,,garden,Béziers,,,,43.4592975,3.4079822
+1412141486,way,,garden,Béziers,,,,43.4599316,3.4100944
+1412141487,way,,garden,Béziers,,,,43.4599858,3.4102406
+1412141488,way,,garden,Béziers,,,,43.4599472,3.410011
+1412141489,way,,garden,Béziers,,,,43.4599607,3.4099325
+1412141490,way,,garden,Béziers,,,,43.4598259,3.4098194
+1412141491,way,,garden,Béziers,,,,43.4597987,3.4098961
+1412141492,way,,garden,Béziers,,,,43.4597708,3.409975
+1412141493,way,,garden,Béziers,,,,43.4597449,3.4100493
+1412141499,way,,garden,Béziers,,,,43.4596346,3.4098879
+1412141500,way,,garden,Béziers,,,,43.4596631,3.4098097
+1412141501,way,,garden,Béziers,,,,43.4596899,3.4097338
+1412141502,way,,garden,Béziers,,,,43.4596077,3.4099625
+1412141507,way,,garden,Béziers,,,,43.4595011,3.4097876
+1412141508,way,,garden,Béziers,,,,43.4594746,3.4098622
+1412141509,way,,garden,Béziers,,,,43.4595279,3.4097126
+1412141510,way,,garden,Béziers,,,,43.4595557,3.4096371
+1412141518,way,,garden,Béziers,,,,43.4593081,3.4097079
+1412141519,way,,garden,Béziers,,,,43.4593514,3.4096393
+1412141520,way,,garden,Béziers,,,,43.4594054,3.4094675
+1412141521,way,,garden,Béziers,,,,43.4594304,3.4094024
+1412141522,way,,garden,Béziers,,,,43.4594722,3.4093433
+1412141523,way,,garden,Béziers,,,,43.4587526,3.4092151
+1412141524,way,,garden,Béziers,,,,43.4588526,3.409133
+1412141528,way,,garden,Béziers,,,,43.4592863,3.4094304
+1412141529,way,,garden,Béziers,,,,43.4592363,3.4094781
+1412141530,way,,garden,Béziers,,,,43.4591833,3.4095295
+1412985654,way,,garden,Béziers,,,,43.4556163,3.4164871
+1412985655,way,,garden,Béziers,,,,43.4557033,3.4163396
+1412985656,way,,garden,Béziers,,,,43.4555116,3.4166267
+1415443042,way,,garden,Béziers,,,,43.4878376,2.7618101
+1416503948,way,,park,Béziers,,,,43.4873041,2.7630044
+1416596663,way,,garden,Béziers,,,,43.4887112,2.7581372
+1416596664,way,,garden,Béziers,,,,43.4897861,2.7565772
+1416596666,way,Parc de la Source du Jaur,park,Béziers,,,,43.4873092,2.7576216
+1416596672,way,,garden,Béziers,,,,43.4875967,2.7575107
+1417738061,way,La Paillote,restaurant,Béziers,,,,43.3128605,3.3605382
+1417742691,way,Le Garden Grill,restaurant,Béziers,,,,43.3119806,3.365314
+1424482599,way,,park,Béziers,,,,43.3911045,3.3667492
+1424662999,way,,park,Béziers,,,,43.3975264,3.3612972
+1425054256,way,,park,Béziers,,,,43.5077041,3.3727826
+1447198709,way,,ruins,Béziers,,,,43.7153903,3.219727
+1451826382,way,Moulins à eau de Gabian XIIeme siècle ( Ruines ),ruins,Béziers,"Chemin de la Resclauze, 34320, gabian",34320,https://inventaire.patrimoines.laregion.fr/dossier/IA34010639,43.5152542,3.2662183
+1457732293,way,,garden,Béziers,,,,43.4508087,3.4135114
+1458737470,way,,garden,Béziers,,,,43.449406,3.405835
+1458737474,way,,garden,Béziers,,,,43.448903,3.4044274
+1459517139,way,,garden,Béziers,,,,43.4488453,3.3683878
+1477822632,way,,garden,Béziers,,,,43.4668226,3.0814117
+1497303499,way,,garden,Béziers,,,,43.392662,3.4110487
+1497303514,way,,garden,Béziers,,,,43.3915515,3.4026888
+1497958810,way,,garden,Béziers,,,,43.3912903,3.4093276
+1498185172,way,,garden,Béziers,,,,43.38768,3.3917078
+1499605157,way,,garden,Béziers,,,,43.3843336,3.3647963
+1499882040,way,,garden,Béziers,,,,43.400948,3.3661573
+1499882047,way,,park,Béziers,,,,43.3997546,3.3691492
+1501147075,way,,ruins,Béziers,,,,43.3736264,2.7929695
+1502413279,way,,garden,Béziers,,,,43.3967088,3.3424089
+1502515822,way,,park,Béziers,,,,43.4154959,3.4087079
+1502767629,way,,garden,Béziers,,,,43.4047524,3.3565315
+1502782370,way,,garden,Béziers,,,,43.4162255,3.4050011
+1502782371,way,,garden,Béziers,,,,43.4166667,3.4053604
+1503292934,way,,garden,Béziers,,,,43.4221838,3.4142424
+1505763578,way,,garden,Béziers,,,,43.4105323,3.3581915
+1505763579,way,,garden,Béziers,,,,43.4108619,3.356377
+1505804228,way,,garden,Béziers,,,,43.416435,3.3719909
+1506611739,way,,garden,Béziers,,,,43.3819947,3.3259495
+1506611740,way,,garden,Béziers,,,,43.3817836,3.3258367
+1506656621,way,Pèlerin,artwork,Béziers,,,,43.3969881,3.3266066
+1509717279,way,,garden,Béziers,,,,43.3850009,3.3208199
+1512530102,way,,garden,Béziers,,,,43.45035,3.2731118
+1512530131,way,,garden,Béziers,,,,43.4493384,3.2719349
+1512986185,way,,park,Béziers,,,,43.4205216,3.3086852
+1512993429,way,,garden,Béziers,,,,43.4251675,3.301011
+1512993430,way,,garden,Béziers,,,,43.4248256,3.3004863
+1518324231,way,Jardin de Fontjun,garden,Béziers,,,,43.3305711,3.1187503
+1521276113,way,,ruins,Béziers,,,,43.6720287,3.1010818
+1521276117,way,,ruins,Béziers,,,,43.6724857,3.101598
+1524059813,way,,park,Béziers,,,,43.491529,3.3064286
+1524339633,way,,park,Béziers,,,,43.504776,3.3123794
+1533492928,way,,garden,Béziers,,,,43.3541917,2.7468709
+1535259824,way,,park,Béziers,,,,43.5350065,3.3422843
+1536133458,way,,park,Béziers,,,,43.5131159,3.4055453
+302044,relation,Canal du Midi,attraction,Béziers,,,,43.4050497,2.478324
+1131132,relation,Musée de l'Éphèbe,museum,Béziers,"Avenue des Hallebardes, 34300, Le Cap d'Agde",34300,https://www.museecapdagde.com,43.286887,3.5138127
+1791179,relation,Cathédrale Saint-Nazaire,attraction,Béziers,,,,43.341497,3.210051
+2251361,relation,Parc Belle Isle,park,Béziers,,,,43.3179712,3.4700502
+2379424,relation,,beach,Béziers,,,,43.2299294,3.2688971
+3675769,relation,,castle,Béziers,,,,43.5234992,3.1964336
+4578914,relation,Château de Puimisson,castle,Béziers,,,,43.439716,3.2057525
+11339423,relation,Château Carrion-Nizas,castle,Béziers,,,,43.5124212,3.4080316
+15712537,relation,Pyramide,attraction,Béziers,,,,43.4144558,3.1327798
+16620051,relation,Plaques commémoratives 1914-1918,memorial,Béziers,,,,43.4459852,2.6858505
+17142537,relation,Château de Cabrerolles,castle,Béziers,,,,43.5468138,3.1246997
+19365669,relation,Chez Michou,restaurant,Béziers,"34220, Saint-Pons-de-Thomières",34220,,43.4889903,2.7583244

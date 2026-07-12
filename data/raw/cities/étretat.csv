@@ -1,4 +1,8 @@
 osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+399449569,node,Porte d'Aval,viewpoint,Étretat,,,,49.7069796,0.1940913
+494242922,node,,viewpoint,Étretat,,,,49.7066456,0.1964597
+1605544539,node,La Manneporte,attraction,Étretat,,,,49.7043869,0.1892245
+1605544541,node,Porte d'Amont,attraction,Étretat,,,,49.7145434,0.2058596
 2687649536,node,Taverne des Deux Augustins,hotel,Étretat,"Place Maréchal Foch, 76790, Étretat",76790,http://www.les2augustins.com,49.7080713,0.2042768
 2687649538,node,Crêperie Lahn Bihoué,restaurant,Étretat,,,,49.7082184,0.204898
 2687649540,node,Hôtel des Falaises,hotel,Étretat,,,,49.7081563,0.2036935
@@ -6,8 +10,10 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2687649644,node,La Résidence,hotel,Étretat,,,,49.7081784,0.2039228
 2687649645,node,La Salamandre,restaurant,Étretat,"2 Boulevard Président René Coty, 76790, Étretat",76790,,49.7082707,0.2038063
 2687649647,node,Le Galion,restaurant,Étretat,"Boulevard Président René Coty, 76790, Étretat",76790,https://etretat-legalion.fr/,49.7083677,0.2036821
+2687649930,node,,memorial,Étretat,,,,49.7077829,0.2105835
 2688918183,node,L'Aiguille Creuse,hotel,Étretat,"Place du Général de Gaulle, 76790, Étretat",76790,https://www.hotellaiguillecreuse.fr/fr,49.7074094,0.2020095
 2689037074,node,A l'Origine,restaurant,Étretat,,,,49.7079982,0.2021016
+2689037085,node,Au Général Presbythériau,memorial,Étretat,,,,49.7092525,0.2032481
 2689037093,node,Auberge Express,restaurant,Étretat,,,,49.7077756,0.2041088
 2689037135,node,Dormy House,hotel,Étretat,76790,76790,,49.7064199,0.201036
 2689037142,node,Hôtel l'Escale,hotel,Étretat,,,,49.7078942,0.2042138
@@ -16,22 +22,64 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2689037247,node,Le Bistroquet,restaurant,Étretat,,,,49.7085305,0.2024886
 2689037253,node,Le Clos Lupin,restaurant,Étretat,37 Rue Alphonse Karr,,,49.7073158,0.2025352
 2689037283,node,Le Rayon Vert,hotel,Étretat,,,,49.7079885,0.2020793
+2690511936,node,La Chambre des Demoiselles,attraction,Étretat,,,,49.7070123,0.1945106
 2913281099,node,Hôtel d'Angleterre,hotel,Étretat,,,,49.7060354,0.2036234
 2913282431,node,New Windsor,hotel,Étretat,,,,49.7067846,0.2051798
+3396201897,node,,viewpoint,Étretat,,,,49.7175338,0.2230452
 3414934916,node,,hotel,Étretat,,,,49.7083353,0.203487
 3414934917,node,Le Bicorne,restaurant,Étretat,"5 Boulevard Président René Coty, 76790, Étretat",76790,https://le-bicorne.fr/,49.7083778,0.2034623
 3747925839,node,Crêperie La Grange,restaurant,Étretat,"Front de Mer, 76790, Étretat",76790,,49.7080599,0.2020502
 3747940619,node,Restaurant du Perrey,restaurant,Étretat,"Front de Mer, 76790, Étretat",76790,,49.7081135,0.2021732
 4798529310,node,Oyster club,restaurant,Étretat,"27 Rue Alphonse Karr, 76790, Étretat",76790,,49.7072072,0.2029384
+4954327090,node,,viewpoint,Étretat,,,,49.7058478,0.1934699
+4954346848,node,,viewpoint,Étretat,,,,49.706523,0.1949027
+5627621376,node,,viewpoint,Étretat,,,,49.7111652,0.2051197
 5809220411,node,Hoa Binh,restaurant,Étretat,"44 Bis Rue Alphonse Karr, 76790, Étretat",76790,,49.7076477,0.2019154
+5821270320,node,Porte d'Aval,attraction,Étretat,,,,49.7072382,0.1937601
+5848665645,node,,viewpoint,Étretat,,,,49.7042537,0.1892593
 6299766432,node,L'Atelier,restaurant,Étretat,"12 Rue Alphonse Karr, 76790, Étretat",76790,,49.706987,0.2035663
 6334517785,node,Le Bistretatais,restaurant,Étretat,17 Rue Adolphe Boissaye,,https://www.etretat-le-bistretatais.fr/,49.7084505,0.2030904
+6450693588,node,Arrêt du petit train touristique,attraction,Étretat,,,,49.7001284,0.2157977
+6450693589,node,"Le Clos Lupin, Maison Maurice Leblanc",attraction,Étretat,"15 Rue Guy de Maupassant, 76790, Étretat",76790,,49.7060544,0.2069583
 6682178585,node,Le Bel Ami,restaurant,Étretat,"25 Rue Alphonse Karr, 76790",76790,https://www.lebelami.com/,49.7071372,0.203153
 7638452014,node,L'Huitrière,restaurant,Étretat,,,,49.7072883,0.201013
 7640042485,node,Les Roches Blanches,restaurant,Étretat,,,,49.7095365,0.2038228
+7724290626,node,,memorial,Étretat,,,,49.71123,0.2071537
+9108289224,node,,artwork,Étretat,,,,49.7105969,0.2054089
+9108289225,node,,artwork,Étretat,,,,49.7103333,0.2066159
+9197836527,node,,viewpoint,Étretat,,,,49.698687,0.1833654
+9870678474,node,,viewpoint,Étretat,,,,49.7069536,0.1940773
 9872306566,node,Coté Mer,restaurant,Étretat,20 Rue du Général Leclerc,,https://cotemeretretat.wixsite.com/restaurantcotemer,49.7080107,0.2019556
 9908261761,node,Le Glacier d'Étretat,restaurant,Étretat,"3 Boulevard Président René Coty, 76790, Étretat",76790,,49.7083174,0.2035109
+10047741965,node,,viewpoint,Étretat,,,,49.7068225,0.1986375
+10047894671,node,,viewpoint,Étretat,,,,49.7104871,0.2042123
+10651983808,node,,viewpoint,Étretat,,,,49.7064983,0.1977338
+10964252332,node,,viewpoint,Étretat,,,,49.7137057,0.2065619
+11151954909,node,,viewpoint,Étretat,,,,49.7142669,0.2116504
+11151954913,node,,viewpoint,Étretat,,,,49.7158668,0.2172683
+11151954916,node,,viewpoint,Étretat,,,,49.7153031,0.2159433
+11159731432,node,,memorial,Étretat,,,,49.7077506,0.2101041
+11163269813,node,,viewpoint,Étretat,,,,49.7106333,0.2057386
+11163269814,node,,artwork,Étretat,,,,49.7106968,0.2073455
 11260123693,node,La Villa,hotel,Étretat,"10 Avenue de Verdun, 76790, Étretat",76790,,49.7074301,0.2070896
 11825690894,node,Vert Olive,restaurant,Étretat,"43 Rue Alphonse Karr, 76790, Étretat",76790,,49.7073868,0.2023013
 12118160483,node,Le Homard Bleu,restaurant,Étretat,,,,49.7097585,0.2038789
 12178236001,node,La Courtine,restaurant,Étretat,"40 Rue Prosper Brindejont, 76790",76790,,49.7081237,0.2025455
+263275241,way,Le Romain d'Étretat,restaurant,Étretat,Rue de l'Abbé Cochet,,https://www.leromaindetretat.com/,49.7088212,0.2041378
+505513894,way,,viewpoint,Étretat,,,,49.7064184,0.1951325
+618819444,way,Restaurant du Golf d'Étretat,restaurant,Étretat,,,,49.7056669,0.1999341
+619187095,way,Maison Maurice Leblanc,museum,Étretat,,,,49.7062784,0.2067977
+619187152,way,,hotel,Étretat,,,,49.7074262,0.2071292
+639119253,way,Château des Aygues,castle,Étretat,,,,49.7050349,0.2136609
+639465701,way,Musée du Patrimoine,museum,Étretat,"Avenue Damilaville, 76790, Étretat",76790,http://www.etretat.net/,49.7109243,0.2073971
+692956592,way,,beach,Étretat,,,,49.7005179,0.1851408
+692956593,way,,beach,Étretat,,,,49.7031883,0.1887564
+692956597,way,,beach,Étretat,,,,49.7055321,0.1921598
+706234959,way,,beach,Étretat,,,,49.7021955,0.1876541
+827362061,way,Les Jardins d'Etretat,garden,Étretat,,,https://etretatgarden.fr/,49.7105011,0.206523
+832933767,way,,park,Étretat,,,,49.7029899,0.2089867
+834332385,way,Monument Nungesser et Coli,memorial,Étretat,,,https://www.lieux-insolites.fr/seinemar/nungessercoli/nungessercoli.htm,49.7112572,0.2075184
+968921369,way,Vélo-Rails Étretat Pays de Caux,attraction,Étretat,,,,49.7085276,0.2172625
+12029990,relation,,beach,Étretat,,,,49.7103727,0.2019529
+13217212,relation,,park,Étretat,,,,49.7112864,0.2073219
+20341876,relation,Dormy House,hotel,Étretat,76790,76790,,49.7060358,0.2012825

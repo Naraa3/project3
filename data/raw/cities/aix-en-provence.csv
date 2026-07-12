@@ -1,39 +1,97 @@
 osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+34505703,node,Musée Granet,museum,Aix-en-Provence,Aix-en-Provence,,,43.5254678,5.4526102
+274930229,node,Rocher de Chateau Virant,viewpoint,Aix-en-Provence,,,,43.5545345,5.1419547
+274935819,node,,viewpoint,Aix-en-Provence,,,,43.5661693,5.2447719
+300667872,node,Monument du Roi René,memorial,Aix-en-Provence,,,,43.5270688,5.4512044
+300868930,node,Statue Bailly de Suffren,monument,Aix-en-Provence,,,,43.6213716,5.2975957
+300868940,node,,memorial,Aix-en-Provence,,,,43.6208089,5.2984164
 304002428,node,Grand Hôtel du Roi René,hotel,Aix-en-Provence,24 Boulevard du Roi René,,http://m.accorhotels.com/de/hotel-1169-grand-hotel-roi-rene-aix-en-provence-centre-mgallery-collection/index.shtml,43.5235527,5.4495744
+305120632,node,Château de Vauvenargues,attraction,Aix-en-Provence,,,,43.5539219,5.6038441
+308011940,node,,memorial,Aix-en-Provence,,,,43.6546852,5.2614525
+309399706,node,Place des Martyrs,memorial,Aix-en-Provence,,,,43.6420522,5.095936
 331102587,node,Ma Nine,restaurant,Aix-en-Provence,12 Place de la République,,,43.6206757,5.2985152
 331103508,node,Les Braises Rouges,restaurant,Aix-en-Provence,,,,43.6247324,5.2944343
 351361652,node,Restaurant Administratif,restaurant,Aix-en-Provence,,,,43.4907045,5.3774043
 361593720,node,Eurasia,restaurant,Aix-en-Provence,,,,43.413217,5.3638228
 363984988,node,Le Vincennes,restaurant,Aix-en-Provence,,,,43.6290404,5.130506
 363993523,node,Glacier Délices de la Tonnelle,restaurant,Aix-en-Provence,,,,43.6268443,5.1689902
+382024891,node,Le Géant de Provence (Platane),attraction,Aix-en-Provence,,,,43.7002858,5.085077
 403298245,node,Campanile Meyreuil - Aix Est,hotel,Aix-en-Provence,157 Rd 96,,,43.4911782,5.5239485
+473832128,node,Point de Vue de Pergine,viewpoint,Aix-en-Provence,,,,43.4170892,5.516766
+477015846,node,Vue sur la haute vallée de l'Arc,viewpoint,Aix-en-Provence,,,,43.5048421,5.6155319
 492647152,node,Campanile,hotel,Aix-en-Provence,,,,43.6306959,5.1190641
+566577188,node,,viewpoint,Aix-en-Provence,,,,43.7113922,4.9813483
+634863578,node,Grottes de Calès,attraction,Aix-en-Provence,,,,43.7041084,5.0819875
+672997327,node,,viewpoint,Aix-en-Provence,,,,43.6863842,5.2504248
 673417045,node,Lautraix,restaurant,Aix-en-Provence,"255 Route de Berre, 13090, Aix-en-Provence",13090,https://lautraix.com/,43.53513,5.4077797
 673417066,node,Best Western,hotel,Aix-en-Provence,,,,43.5278348,5.4344544
+673417135,node,Portail Cézanne,monument,Aix-en-Provence,,,,43.5426282,5.4454535
 690066380,node,Patry Traiteur,restaurant,Aix-en-Provence,"8 Avenue du 8 Mail 1945, 13410, Lambesc",13410,,43.6499192,5.2551592
+765563373,node,Cité du Livre,monument,Aix-en-Provence,,,,43.5247579,5.4391336
+772444575,node,treize,gallery,Aix-en-Provence,"13 Rue des Bouteilles, 13100, Aix-en-Provence",13100,,43.5292155,5.4491286
+799519599,node,Château des Taillades,castle,Aix-en-Provence,,,,43.6907189,5.225985
 800862113,node,La table de Rina,restaurant,Aix-en-Provence,"19 Chemin du Cimetière, Ventabren",,,43.5356074,5.2951638
 848084869,node,Naruto,restaurant,Aix-en-Provence,"19 Rue de la Verrerie, 13100, Aix-en-Provence",13100,https://www.restaurant-naruto.com/,43.5293116,5.4471499
+894166170,node,Atelier Cézanne,museum,Aix-en-Provence,,,http://www.atelier-cezanne.com,43.538403,5.4462542
+921273362,node,Musée Suffren et du Vieux Saint-Cannat,museum,Aix-en-Provence,,,http://www.saint-cannat.fr/index.php?option=com_content&view=category&id=126&Itemid=207,43.6211959,5.2973745
+990544612,node,Écurie de Bèdes,attraction,Aix-en-Provence,"D11, 13490",13490,,43.6583515,5.6767375
+995542244,node,,viewpoint,Aix-en-Provence,,,,43.5346339,5.2942994
+995542792,node,,viewpoint,Aix-en-Provence,,,,43.5363388,5.2929884
 1010855590,node,Résidence Les Estudines Aix Jas de Bouffan,hotel,Aix-en-Provence,"4 Rue Achille Emperaire, 13090",13090,https://www.estudines.com/logement-etudiant-aix-en-provence/residence-jas-de-bouffan,43.5216873,5.423381
 1010855630,node,Radisson Hôtel Aix-en-Provence,hotel,Aix-en-Provence,"40 Route de Galice, 13090, Aix-en-Provence",13090,https://www.radissonhotels.com/en-us/hotels/radisson-aix-en-provence?cid=a%3Ase+b%3Agmb+c%3Aemea+i%3Alocal+e%3Arad+d%3Aukirwe+h%3AFRQXBAAA,43.5286598,5.4260213
+1028968661,node,,artwork,Aix-en-Provence,,,,43.5294165,5.4477703
+1039261367,node,Ermitage Saint-Honorat de Roquefavour (vestiges),ruins,Aix-en-Provence,,,http://www.roquepertuse.org/ventabren-hps-ermitage.html,43.5198261,5.3061391
 1044051895,node,Brasserie des Platanes,restaurant,Aix-en-Provence,"42 Rue de l'Ecole, 13100, Aix-en-Provence",13100,,43.5556953,5.4598611
 1058609154,node,Dubble,restaurant,Aix-en-Provence,"80 Rue Charles Duchesne, 13290, Aix-en-Provence",13290,https://www.dubble-food.com/3-43-38-restauration-dubble-food-dubble_aix-les-milles.html,43.4910727,5.3717275
 1079761499,node,Creperie de la Tour,restaurant,Aix-en-Provence,,,,43.417479,5.5040747
 1080259770,node,Villa Victoria B&B,hotel,Aix-en-Provence,,,,43.4248238,5.5445283
+1080264128,node,Musée de la Mine,museum,Aix-en-Provence,,,,43.4332097,5.5329101
 1192629825,node,Tama Sushis,restaurant,Aix-en-Provence,"127 Cours Victor Hugo, 13370, Mallemort",13370,https://tamasushis.com/,43.7294117,5.1803771
+1200975320,node,,viewpoint,Aix-en-Provence,,,,43.530887,5.5800134
+1200975418,node,La Brèche des Moines,viewpoint,Aix-en-Provence,,,,43.5313925,5.5785297
 1274327753,node,Hôtel Rotonde,hotel,Aix-en-Provence,Avenue des Belges,,,43.5239274,5.4425271
 1274362216,node,Hôtel du globe,hotel,Aix-en-Provence,"74 Cours Sextius, 13100, Aix-en-Provence",13100,,43.5301895,5.4440592
 1274434659,node,Hôtel Artea,hotel,Aix-en-Provence,4 Boulevard de la République,,,43.5271803,5.442998
 1315429313,node,Le petit bistrot,restaurant,Aix-en-Provence,"45 Rue Isaac Newton, 13100, La Duranne",13100,https://www.facebook.com/petitbistrotduranne/,43.4905278,5.3570227
+1327741283,node,Château de la Reine Jeanne,castle,Aix-en-Provence,,,,43.5379235,5.2925141
+1328499803,node,Durance -ancien Pont de Mirabeau,viewpoint,Aix-en-Provence,,,,43.6894744,5.6681563
+1340107539,node,Jardin des peintres,viewpoint,Aix-en-Provence,,,,43.5445524,5.4442365
 1345786323,node,Les terrasses du Z5,restaurant,Aix-en-Provence,,,,43.4793693,5.3972283
+1454426223,node,Château,castle,Aix-en-Provence,,,,43.7007902,5.0827311
 1475917131,node,L'Oiseau la Fleur,restaurant,Aix-en-Provence,Avenue du Général de Gaulle,,,43.4336918,5.4298636
 1492958384,node,La Table de L’Arbois,restaurant,Aix-en-Provence,,,http://www.larbois.fr/pageDynamique.php?titre=Restaurant&page_id=1,43.4260676,5.365694
+1562199756,node,Saint-Jean du Puy,viewpoint,Aix-en-Provence,,,,43.4178793,5.7038302
 1635685047,node,La Baume-lès-Aix,hotel,Aix-en-Provence,,,http://www.labaumeaix.com,43.5037007,5.4240916
+1684615857,node,,ruins,Aix-en-Provence,,,,43.414657,5.4548802
+1685718151,node,Notre dame du Rôt,ruins,Aix-en-Provence,,,,43.4042126,5.4749513
 1686267639,node,Le grand Puech,restaurant,Aix-en-Provence,"8 Rue Saint-Sébastien, 13105",13105,,43.4138409,5.5052715
 1686976155,node,La Table Verte,restaurant,Aix-en-Provence,Chemin de Roman,,,43.471244,5.4519581
+1692505526,node,Monument Aux Morts,memorial,Aix-en-Provence,,,,43.4289956,5.4376975
 1698625390,node,Hôtel Birdy,hotel,Aix-en-Provence,,,https://www.hotel-birdy.com/,43.4814705,5.366184
 1724299723,node,Les Sarments,restaurant,Aix-en-Provence,,,https://www.restaurant-sarments.com/,43.5257276,5.6745507
+1724768637,node,ancienne carrière,attraction,Aix-en-Provence,,,,43.7113442,5.071371
+1754661420,node,Porte de l'hôtel de ville,monument,Aix-en-Provence,,,,43.529971,5.4476932
+1754661435,node,Porte de l'hôtel d'Ailhaud,monument,Aix-en-Provence,,,,43.5298227,5.4509305
+1754858258,node,Porte hôtel de Gras,monument,Aix-en-Provence,,,,43.5292957,5.4507897
+1754858262,node,Porte de l'hôtel de Montauron,monument,Aix-en-Provence,,,,43.5273063,5.4513704
+1762167803,node,Porte de l'hôtel Maurel de Pontevès,monument,Aix-en-Provence,,,,43.5267068,5.4500229
+1762167805,node,Porte de l'hôtel d'Estienne de Saint-Jean,monument,Aix-en-Provence,,,,43.530856,5.4474258
+1762167807,node,Porte de l'hôtel de Roquesante,monument,Aix-en-Provence,,,,43.5282631,5.4513194
+1762167809,node,Porte de la cathédrale Saint-Sauveur,monument,Aix-en-Provence,,,,43.5316846,5.4470556
+1762167810,node,Porte hôtel d'Agut,monument,Aix-en-Provence,,,,43.5295622,5.4508232
+1762973764,node,Fontaine du Sanglier,artwork,Aix-en-Provence,,,,43.5290477,5.4481951
+1769497904,node,Porte de l'hôtel Bonnet de la Baume,monument,Aix-en-Provence,,,,43.5258994,5.4507104
+1769497907,node,Porte de l'hôtel de Galice,monument,Aix-en-Provence,,,,43.5314429,5.4488167
+1769497909,node,Porte de l'hôtel de Lacépède-Simiane,monument,Aix-en-Provence,,,,43.5289106,5.4519244
+1769497910,node,Porte de l'hôtel de Panisse-Passis,monument,Aix-en-Provence,,,,43.5280839,5.4524276
+1769497911,node,Porte de l'hôtel de Saphallin,monument,Aix-en-Provence,,,,43.5299399,5.4501029
+1781110406,node,,memorial,Aix-en-Provence,,,,43.7203431,5.2729879
 1789900678,node,L'Accent,restaurant,Aix-en-Provence,,,,43.6866627,5.7105968
+1789900680,node,,viewpoint,Aix-en-Provence,,,,43.6845773,5.7079822
 1789900687,node,Bar de la Mairie,restaurant,Aix-en-Provence,,,https://cafe-restaurant-de-la-mairie-saint-paul-lez-durance.eatbu.com,43.6871473,5.7086441
+1790075086,node,,viewpoint,Aix-en-Provence,,,,43.5306986,5.5816648
+1790075624,node,,viewpoint,Aix-en-Provence,,,,43.5304217,5.5837927
+1790095080,node,,viewpoint,Aix-en-Provence,,,,43.4594764,5.3554261
 1790143386,node,Au Bureau,restaurant,Aix-en-Provence,"180 Rue Baby Jourdan, 13480, Plan de Campagne",13480,,43.4194041,5.3576624
 1790148528,node,Odette,restaurant,Aix-en-Provence,650 Route d'Apt,,,43.4470661,5.3609218
 1790151119,node,La Réserve,restaurant,Aix-en-Provence,,,,43.4603751,5.3524513
@@ -46,31 +104,54 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1809728807,node,Bagel Story,restaurant,Aix-en-Provence,"7 Rue Bouèno Carrièro, 13100, Aix-en-Provence",13100,https://bagelstory.fr/,43.5284776,5.449663
 1809734443,node,O'Gustus,restaurant,Aix-en-Provence,"7 Rue des Bouteilles, 13100, Aix-en-Provence",13100,https://ogustus.com/,43.5303219,5.4488983
 1814784249,node,La Flambée du village,restaurant,Aix-en-Provence,"3 Avenue de la République, 13880, Velaux",13880,,43.5228764,5.254951
-1946760461,node,Chez Ama,restaurant,Aix-en-Provence,"9 Rue Isolette, 13100, Aix-en-Provence",13100,,43.5274677,5.4463733
+1834352189,node,Château,ruins,Aix-en-Provence,,,,43.7039587,5.1606784
+1864063894,node,Château de Cabriès,castle,Aix-en-Provence,,,,43.4411387,5.3790294
+1864065398,node,Musée Edgar Mélik,museum,Aix-en-Provence,,,,43.4412009,5.3788631
+1946760461,node,Chez Ama,restaurant,Aix-en-Provence,"11 Rue Isolette, 13100, Aix-en-Provence",13100,,43.5274677,5.4463733
 2039981246,node,Petit Baron,restaurant,Aix-en-Provence,"2 Place des Fontêtes, 13100, Aix-en-Provence",13100,,43.5299155,5.4455644
 2121382234,node,Le Donjon Gourmand,restaurant,Aix-en-Provence,"86 Cours Victor Hugo, 13980, Alleins",13980,https://le-donjon-gourmand.business.site/,43.7034817,5.1607641
+2121451196,node,Chapelle romane du cimetière,ruins,Aix-en-Provence,,,,43.6906258,5.1500987
 2135781972,node,Le bistrot de la Manufacture,restaurant,Aix-en-Provence,,,,43.5250109,5.439096
-2138098271,node,Villa Gallici,hotel,Aix-en-Provence,"18 Avenue de la Violette, 13100",13100,https://www.villagallici.com/,43.5361904,5.4485697
+2138098271,node,Villa Gallici,hotel,Aix-en-Provence,"16 Avenue de la Violette, 13100",13100,https://www.villagallici.com/,43.5361904,5.4485697
 2173395608,node,Les Jardins de Mozart,hotel,Aix-en-Provence,,,,43.5257596,5.4415664
+2192562051,node,Villa gallo-romaine de la Trébillanne,ruins,Aix-en-Provence,,,,43.4644346,5.3577807
 2241170307,node,Hôtel Paul,hotel,Aix-en-Provence,"10 Avenue Pasteur, 13100, Aix-en-Provence",13100,,43.5332639,5.4461162
 2249213903,node,Zazaï,restaurant,Aix-en-Provence,"500 Route de Berre, 13090, Aix-en-Provence",13090,http://zazai.fr/,43.5349864,5.411046
+2277203469,node,,memorial,Aix-en-Provence,,,,43.5764014,5.1660517
+2277203551,node,Stèle Pompiers,memorial,Aix-en-Provence,,,,43.5766967,5.1650539
+2277203705,node,,memorial,Aix-en-Provence,,,,43.5755075,5.1655903
+2277204199,node,Vigie,viewpoint,Aix-en-Provence,,,,43.57686,5.1539924
+2279238777,node,Stèle Victor Schoelcher,monument,Aix-en-Provence,,,,43.5261941,5.4148454
+2279270359,node,Mosaïque de Robert Combas,artwork,Aix-en-Provence,,,,43.5261651,5.4142905
 2302702909,node,Le Milazzo,restaurant,Aix-en-Provence,3 Place Lucien Fauchier,,https://le-milazzo.fr/,43.5699814,5.3546358
+2303656867,node,,viewpoint,Aix-en-Provence,,,,43.7121681,4.982623
 2307042060,node,La Table d'Isa,restaurant,Aix-en-Provence,,,,43.6317437,5.487943
+2322907938,node,Vigie André Chauvin,viewpoint,Aix-en-Provence,,,,43.561311,5.1946844
 2324233023,node,Le télégraphe,restaurant,Aix-en-Provence,,,,43.6309597,5.4575984
+2353655896,node,Maison des Sports Novembre 1990 Jean-François Picheral Mairie de la Ville d'Aix-en-Provence,monument,Aix-en-Provence,,,,43.5113715,5.4659878
 2380302911,node,Les Saveurs d'Aix,restaurant,Aix-en-Provence,"1 Avenue du Maréchal de Lattre de Tassigny, 13100, Aix-en-Provence",13100,,43.5296811,5.4390636
+2409891796,node,Statue allégorique - Industries et Arts Décoratifs,artwork,Aix-en-Provence,,,,43.5262934,5.4461629
 2417776110,node,Paristanbul,restaurant,Aix-en-Provence,"13 Rue de la Couronne, 13100, Aix-en-Provence",13100,,43.5275759,5.4458471
+2429331847,node,,memorial,Aix-en-Provence,,,,43.7140325,5.3097233
 2440421310,node,Brasserie du Cours,restaurant,Aix-en-Provence,,,,43.4291757,5.4359485
 2441232044,node,La belle époque,restaurant,Aix-en-Provence,"29 Cours Mirabeau, 13100, Aix-en-Provence",13100,,43.5269619,5.4486602
 2441481097,node,La Pinède,restaurant,Aix-en-Provence,"3 D Rue Frédéric Mistral, 13090, Aix-en-Provence",13090,https://lapinede-aix.fr/,43.5265461,5.4507991
 2442703536,node,La Calèche,restaurant,Aix-en-Provence,,,,43.5271739,5.4472867
 2450658123,node,,restaurant,Aix-en-Provence,,,,43.7205429,5.3105665
 2450658124,node,,hotel,Aix-en-Provence,,,,43.7205642,5.3107542
+2463613880,node,Jacquemart,monument,Aix-en-Provence,,,,43.5297145,5.4509849
 2539551747,node,Au coin libanais,restaurant,Aix-en-Provence,,,,43.5231693,5.4499285
 2595613131,node,Grand Hôtel de la Poste,hotel,Aix-en-Provence,,,https://www.ghpsalon.com/,43.6415321,5.0968022
+2606153759,node,,viewpoint,Aix-en-Provence,,,,43.6947699,5.1625077
 2698100491,node,Au P'tit Couvent,restaurant,Aix-en-Provence,"90 Avenue Sadi Carnot, 13980, Alleins",13980,,43.7024132,5.1620932
+2698100530,node,Vierge,monument,Aix-en-Provence,,,,43.7040006,5.1587456
 2719978076,node,Chez toussaint,restaurant,Aix-en-Provence,,,,43.4735935,5.4974229
+2864779891,node,Les 4 départements,artwork,Aix-en-Provence,,,,43.688741,5.6671069
+2912902262,node,,monument,Aix-en-Provence,,,,43.4613315,5.3579277
+2951292253,node,Le Géant,viewpoint,Aix-en-Provence,,,,43.4096516,5.5103888
+2964073999,node,Mémorial,memorial,Aix-en-Provence,,,,43.4731737,5.4396002
 2972027445,node,Le Bouddoir,restaurant,Aix-en-Provence,"28 Place des Tanneurs, 13100, Aix-en-Provence",13100,https://restaurant-lebouddoir-aix.fr/,43.528293,5.445791
-2972041441,node,Café du Temps,restaurant,Aix-en-Provence,31,,,43.5282822,5.4454508
+2972041441,node,Café du Temps,restaurant,Aix-en-Provence,31 Rue de la Couronne,,,43.5282822,5.4454508
 2972074154,node,Chez Lion,restaurant,Aix-en-Provence,"26 Place des Tanneurs, 13100, Aix-en-Provence",13100,https://chezlion.fr/,43.5281667,5.4457396
 2972838772,node,Le Mas de Meyreuil,restaurant,Aix-en-Provence,106 Rd 96,,,43.4915528,5.5239879
 2972849509,node,Brasserie La Fontaine,restaurant,Aix-en-Provence,,,,43.4894126,5.5679216
@@ -79,101 +160,170 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3002643773,node,Le Relais Bleu,restaurant,Aix-en-Provence,,,http://www.restaurant-relaisbleau.com,43.5093589,5.4903717
 3039832497,node,Brasserie du Parc,restaurant,Aix-en-Provence,"1330 Rue Jean-René Guillibert Gauthier de la Lauzière, 13290, Aix-en-Provence",13290,https://www.labrasserieduparc.com/,43.4783632,5.3715316
 3046134830,node,Le Mas des Écureuils,hotel,Aix-en-Provence,,,,43.5111133,5.3900626
+3095448844,node,,artwork,Aix-en-Provence,,,https://space-invaders.com/,43.5280686,5.4456013
 3136992956,node,Bar de Bel Air,restaurant,Aix-en-Provence,,,,43.6407873,5.0577113
+3199893401,node,Saint-Pons,castle,Aix-en-Provence,,,,43.5096826,5.7019892
 3216288795,node,La Crep Sautiere,restaurant,Aix-en-Provence,"18 Rue de Bédarrides, 13100, Aix-en-Provence",13100,,43.5279062,5.4473469
-3216288796,node,La Tomate Verte,restaurant,Aix-en-Provence,"15 Rue des Tanneurs, 13100, Aix-en-Provence",13100,https://latomateverte.com,43.5278178,5.4461358
+3216288796,node,La Tomate Verte,restaurant,Aix-en-Provence,"17 Rue des Tanneurs, 13100, Aix-en-Provence",13100,https://latomateverte.com,43.5278178,5.4461358
 3216411835,node,Le Petit Bistrot,restaurant,Aix-en-Provence,"4 Place des Augustins, 13100, Aix-en-Provence",13100,,43.527179,5.4464027
 3216411837,node,La maison du Handbuger,restaurant,Aix-en-Provence,"8 Place des Augustins, 13100, Aix-en-Provence",13100,https://www.burger-bar.fr/,43.5271692,5.4462793
 3216411841,node,Pizzeria Chez Jo,restaurant,Aix-en-Provence,"59 Rue Espariat, 13100, Aix-en-Provence",13100,https://www.chez-jo.fr/,43.5270039,5.4464617
-3216411843,node,Hôtel de France,hotel,Aix-en-Provence,"Rue Espariat, 13100, Aix-en-Provence",13100,,43.526932,5.4463088
+3216411843,node,Hôtel de France,hotel,Aix-en-Provence,"63 Rue Espariat, 13100, Aix-en-Provence",13100,,43.526932,5.4463088
+3219224875,node,Saint-Laurent Imbert,artwork,Aix-en-Provence,,,,43.4600504,5.3531446
 3252443561,node,Le Nélio,hotel,Aix-en-Provence,,,,43.492038,5.3714822
 3252443562,node,Le Nélio,restaurant,Aix-en-Provence,"155 Rue Charles Duchesne, 13290, Aix-en-Provence",13290,https://www.lenelio.com/,43.4918726,5.3712596
+3260110641,node,La Cabre d'Or,artwork,Aix-en-Provence,,,,43.4461213,5.3610847
+3263070836,node,,viewpoint,Aix-en-Provence,,,,43.5147535,5.3167988
 3369411388,node,New Saigon,restaurant,Aix-en-Provence,"580 Rue Guillaume du Vair, 13290, Aix-en-Provence",13290,,43.5076524,5.4014776
-3412717403,node,La Fromagerie du Passage,restaurant,Aix-en-Provence,,,https://lafromageriedupassage.com,43.5276744,5.450806
+3377960776,node,L'Eolienne,monument,Aix-en-Provence,,,,43.4442152,5.4192164
+3386751437,node,,artwork,Aix-en-Provence,,,,43.4259729,5.3876514
+3412717403,node,La Fromagerie du Passage,restaurant,Aix-en-Provence,2 Rue Fabrot,,https://lafromageriedupassage.com,43.5276744,5.450806
 3414530351,node,Le Relais Cézanne,restaurant,Aix-en-Provence,,,,43.5218245,5.5114456
-3469796567,node,Divan d'Antioche,restaurant,Aix-en-Provence,,,,43.5302069,5.447277
+3414530367,node,,viewpoint,Aix-en-Provence,,,,43.5328167,5.5131482
+3414530383,node,,viewpoint,Aix-en-Provence,,,,43.5350234,5.5056602
+3416304471,node,,memorial,Aix-en-Provence,,,,43.5345963,5.6387147
+3416306729,node,,viewpoint,Aix-en-Provence,,,,43.5337118,5.6377373
+3417035443,node,,memorial,Aix-en-Provence,,,,43.5539164,5.6869902
+3430511915,node,La grotte aux palmiers,attraction,Aix-en-Provence,,,,43.6483686,5.5835152
+3430511916,node,Point de vue sur le village et le chateau,viewpoint,Aix-en-Provence,,,,43.648532,5.583358
+3469796567,node,Divan d'Antioche,restaurant,Aix-en-Provence,8 Forum des Cardeurs,,,43.5302069,5.447277
 3469865679,node,Foussa café,restaurant,Aix-en-Provence,,,,43.6646042,5.3472036
+3469865685,node,Calix meus inebrians,artwork,Aix-en-Provence,,,,43.6357266,5.4165696
+3469865686,node,Meditation bell,artwork,Aix-en-Provence,,,,43.6336899,5.4132872
+3469865687,node,Drop by Tom Shannon,artwork,Aix-en-Provence,,,,43.634608,5.4163755
 3469865803,node,Le rancard,restaurant,Aix-en-Provence,,,,43.6637041,5.3475824
-3470915336,node,Les Caves Henri IV by Jean-Luc Le Formal,restaurant,Aix-en-Provence,"32 Rue Espariat, 13100, Aix-en-Provence",13100,http://www.restaurant-leformal.com/,43.5275671,5.4475794
+3470085896,node,,memorial,Aix-en-Provence,,,,43.5219169,5.5124676
+3470085900,node,,memorial,Aix-en-Provence,,,,43.5219955,5.5127677
+3470915336,node,Les Caves Henri IV by Jean-Luc Le Formal,restaurant,Aix-en-Provence,"34 Rue Espariat, 13100, Aix-en-Provence",13100,http://www.restaurant-leformal.com/,43.5275671,5.4475794
 3471818609,node,Le Pigonnet,hotel,Aix-en-Provence,,,https://www.hotelpigonnet.com/,43.517917,5.4420008
 3471837769,node,Lumpia,restaurant,Aix-en-Provence,,,,43.4601515,5.3533399
 3471838697,node,Le Pigonnet,restaurant,Aix-en-Provence,"5 Avenue du Pigonnet, 13090, Aix-en-Provence",13090,https://www.esprit-de-france.com/fr/hotels/hotel-le-pigonnet/restaurant/restaurant-la-table-du-pigonnet,43.5177827,5.4420501
+3472633618,node,Infinity,artwork,Aix-en-Provence,,,,43.6352954,5.4196971
 3541347668,node,Chez L'Oncle,restaurant,Aix-en-Provence,,,,43.4013331,5.2685797
 3631308377,node,Au petit coin,restaurant,Aix-en-Provence,"601 Avenue Gaston Berger, 13100, Aix-en-Provence",13100,,43.5134647,5.4533464
+3663809608,node,,viewpoint,Aix-en-Provence,,,,43.685663,5.7271991
+3663809613,node,,ruins,Aix-en-Provence,,,,43.6849693,5.7276341
 3699467140,node,L'Archevêché,restaurant,Aix-en-Provence,"36 Rue Gaston de Saporta, 13100, Aix-en-Provence",13100,https://archeveche-aix.fr/,43.5313765,5.4471831
 3703453638,node,La boucherie,restaurant,Aix-en-Provence,,,,43.6278385,5.1138796
 3708573992,node,La Bastide du Moulin à Poivre,restaurant,Aix-en-Provence,,,,43.6305927,5.1514606
 3730982130,node,Le Mas du Soleil,restaurant,Aix-en-Provence,,,,43.6424516,5.1038103
 3748128058,node,Au Petit Gourmet,restaurant,Aix-en-Provence,,,,43.4471858,5.685884
 3748128060,node,Rôtisserie & Pizzéria Palacio,restaurant,Aix-en-Provence,,,,43.4474346,5.6859259
+3748359924,node,,ruins,Aix-en-Provence,,,,43.4470051,5.6549577
+3757688702,node,Hôtel d'Arlatan-Lauris,castle,Aix-en-Provence,,,,43.5269612,5.4538622
+3757688706,node,Hôtel de Réauville,castle,Aix-en-Provence,,,,43.5262631,5.4487926
+3757721699,node,Hôtel Thomassin de Saint-Paul,castle,Aix-en-Provence,13100,13100,,43.5313939,5.4469671
 3762345205,node,Hôtel d'Angleterre,hotel,Aix-en-Provence,"98 Cours Carnot, 13300, Salon-de-Provence",13300,https://www.hotelangleterresalon.com/,43.6409426,5.0959212
-3766455524,node,Be Wok,restaurant,Aix-en-Provence,"4 Rue Corindon, 13510, Éguilles",13510,,43.545734,5.3593797
+3766455524,node,Be Wok,restaurant,Aix-en-Provence,"190 Rue Corindon, 13510, Éguilles",13510,,43.545734,5.3593797
+3770885188,node,,memorial,Aix-en-Provence,,,,43.5826197,5.4208599
 3809335279,node,Hôtel Select,hotel,Aix-en-Provence,"35 Rue de Suffren, 13300, Salon-de-Provence",13300,https://www.hotel-select-provence.fr/,43.6428482,5.0954462
-3905445261,node,Aux Délices du Liban,restaurant,Aix-en-Provence,,,https://aux-delices-du-liban.com,43.529805,5.4452277
-3905445262,node,Chez Nine,restaurant,Aix-en-Provence,"22 bis Rue du 11 Novembre, 13100, Aix-en-Provence",13100,,43.5284683,5.4433928
+3809337593,node,Michel de Nostredame,artwork,Aix-en-Provence,,,,43.6423118,5.094968
+3864415558,node,Ruines du hameau du Thubet,ruins,Aix-en-Provence,,,,43.4110695,5.5580992
+3895646771,node,,viewpoint,Aix-en-Provence,,,,43.4273922,5.6280665
+3905445261,node,Aux Délices du Liban,restaurant,Aix-en-Provence,33 Rue Lieutaud,,https://aux-delices-du-liban.com,43.529805,5.4452277
+3905445262,node,Chez Nine,restaurant,Aix-en-Provence,"22 Rue du Onze Novembre, 13100, Aix-en-Provence",13100,,43.5284683,5.4433928
 3905445263,node,L'Orangerie,restaurant,Aix-en-Provence,"2 Rue des Étuves, 13100, Aix-en-Provence",13100,https://www.aquabella.fr/restaurants-bars/restaurant-l-orangerie,43.5312022,5.444537
 4000494415,node,Le Grain de sel,restaurant,Aix-en-Provence,,,,43.7145301,5.3083689
 4000739893,node,Le Bocage,restaurant,Aix-en-Provence,34 Rue de l'Église,,,43.7144382,5.3105837
 4000801551,node,Le Mayabou,restaurant,Aix-en-Provence,,,,43.7150464,5.3112347
+4005411018,node,Château de Trets,castle,Aix-en-Provence,,,,43.4462474,5.6863066
+4011477980,node,Vierge,artwork,Aix-en-Provence,,,,43.7162344,5.3110032
 4015468563,node,Brasserie Ferrero,restaurant,Aix-en-Provence,"Impasse de la Gare, 13113, Lamanon",13113,,43.7012595,5.0919293
 4051008988,node,L'Épicurien,restaurant,Aix-en-Provence,"27 Route de Salon, 13330, Pélissanne",13330,,43.6292835,5.1358622
+4051172964,node,Statue Souvenir de la Paix 1945,memorial,Aix-en-Provence,,,,43.6326714,5.1433278
 4065696964,node,Brasserie Camille,restaurant,Aix-en-Provence,"Route de la Côte d'Azur, 13590, Meyreuil",13590,https://brasseriecamille.fr,43.495886,5.5223428
+4097895756,node,Oppidum d'Untinos,ruins,Aix-en-Provence,,,,43.5223887,5.5841951
 4110221118,node,Drôle d'Endroit,restaurant,Aix-en-Provence,"14 Rue Annonerie Vieille, 13100, Aix-en-Provence",13100,http://www.droledendroit.net/,43.5280981,5.4477006
-4110292099,node,Chez Charlotte,restaurant,Aix-en-Provence,,,,43.527774,5.4446607
+4110292099,node,Chez Charlotte,restaurant,Aix-en-Provence,32 Rue des Bernardines,,,43.527774,5.4446607
+4110292100,node,Galerie de l'ESDAC,gallery,Aix-en-Provence,,,http://www.galerie-esdac.com/,43.5276496,5.4438386
+4120432490,node,Domaine du Puyfond,castle,Aix-en-Provence,,,https://www.domaine-puyfond.com/,43.5865448,5.4631692
 4120483391,node,Appart'Hotel Garden & City Puyricard - Le Logis des Clercs,hotel,Aix-en-Provence,380 Chemin de la Quille,,https://garden-city.fr/fr/appart-hotel/garden-city-aix-en-provence-puyricard,43.5870073,5.4261308
+4133040889,node,Le château,monument,Aix-en-Provence,,,,43.4316937,5.5451811
+4138824361,node,,viewpoint,Aix-en-Provence,,,,43.7107832,5.2014987
+4141593493,node,,memorial,Aix-en-Provence,,,,43.6369812,5.6387067
+4176900207,node,,artwork,Aix-en-Provence,,,,43.4535552,5.4654763
+4190489354,node,,viewpoint,Aix-en-Provence,,,,43.7325255,5.1803461
+4227778489,node,Col de Portes,viewpoint,Aix-en-Provence,,,,43.5482619,5.6650147
 4227789191,node,Lou Cassaire,restaurant,Aix-en-Provence,Boulevard de la République,,,43.6372809,5.6398836
+4227829889,node,Domaine Départemental de Taulisson,attraction,Aix-en-Provence,,,,43.5907544,5.6426473
 4237749089,node,Concorde,hotel,Aix-en-Provence,68 Boulevard du Roi René,,,43.5245644,5.4538715
 4273483742,node,Delhi Delice,restaurant,Aix-en-Provence,"22 Rue Félibre Gaut, 13100, Aix-en-Provence",13100,http://www.delhidelice.fr,43.5287472,5.4469446
-4291417448,node,L'Estello,restaurant,Aix-en-Provence,"1 Cours Mirabeau, 13100, Aix-en-Provence",13100,https://sites.google.com/view/estello-aix-en-provence/accueil,43.5266221,5.4460668
+4291417448,node,L'Estello,restaurant,Aix-en-Provence,"5 Rue Victor Leydet, 13100, Aix-en-Provence",13100,https://sites.google.com/view/estello-aix-en-provence/accueil,43.5266221,5.4460668
 4294159592,node,Les Bannettes,restaurant,Aix-en-Provence,,,https://www.les-bannettes.fr/,43.4871765,5.6106358
+4298407418,node,Montagne Sainte-Victoire,attraction,Aix-en-Provence,,,,43.5353364,5.6247282
 4316280692,node,Le Portofino,restaurant,Aix-en-Provence,"38 Forum des Cardeurs, 13100, Aix-en-Provence",13100,https://leportofinoaix.fr,43.5300643,5.4461876
 4332965397,node,Hôtel Adagio Aix Centre,hotel,Aix-en-Provence,,,,43.528945,5.4408534
 4342277389,node,Place de hotel ville,hotel,Aix-en-Provence,,,,43.5296386,5.4477544
 4363637013,node,Le Temps des Secrets,restaurant,Aix-en-Provence,,,,43.6396984,5.0983724
+4383077095,node,,memorial,Aix-en-Provence,,,,43.6718702,5.7163375
 4416883905,node,Le Jardin,restaurant,Aix-en-Provence,"678 Avenue des Frères Roqueplan, 13370",13370,https://le-jardin-mallemort.fr/,43.7301435,5.1772147
 4419249070,node,Bento Chiyo,restaurant,Aix-en-Provence,"7 Rue Portalis, 13100, Aix-en-Provence",13100,,43.5292977,5.4517416
-4419249075,node,Fresh Box,restaurant,Aix-en-Provence,"11 Rue Granet, 13100, Aix-en-Provence",13100,https://www.freshbox13.fr/,43.5298488,5.4490341
+4419249075,node,Fresh Box,restaurant,Aix-en-Provence,"13 Rue Granet, 13100, Aix-en-Provence",13100,https://www.freshbox13.fr/,43.5298488,5.4490341
 4419249076,node,Bistroquet,restaurant,Aix-en-Provence,"27 Place Ramus, 13100, Aix-en-Provence",13100,https://www.lebistroquet.fr/,43.5281662,5.4471166
 4419900816,node,Le Bistrot,restaurant,Aix-en-Provence,"5 Rue Campra, 13100, Aix-en-Provence",13100,,43.5309579,5.4483757
+4490599179,node,La Fontaine Obscure,gallery,Aix-en-Provence,,,,43.5155165,5.4438399
 4490969994,node,La Terrasse de Maxime,restaurant,Aix-en-Provence,"40 Avenue Robert Schuman, 13090, Aix-en-Provence",13090,,43.5148376,5.4457264
 4494871589,node,Aix'T'Asie,restaurant,Aix-en-Provence,4 Boulevard des Deux Ormes,,https://m.facebook.com/AixtAsie-FOOD-121043501674284/,43.5321914,5.4132588
 4515518291,node,Pizza Capri,restaurant,Aix-en-Provence,,,,43.6383998,5.094946
-4556153092,node,La Menara,restaurant,Aix-en-Provence,"24 Rue des Tanneurs, 13100, Aix-en-Provence",13100,https://www.la-menara.com/,43.5281468,5.4459548
+4527943441,node,,park,Aix-en-Provence,,,,43.5121744,5.4510204
+4530287396,node,,viewpoint,Aix-en-Provence,,,,43.396908,5.2967855
+4540234591,node,3 bis f,museum,Aix-en-Provence,"109 Avenue du Petit Barthélémy, 13617",13617,https://www.3bisf.com/,43.521207,5.4398754
+4556153092,node,La Menara,restaurant,Aix-en-Provence,"16 Bis Rue des Tanneurs, 13100, Aix-en-Provence",13100,https://www.la-menara.com/,43.5281468,5.4459548
 4556153093,node,Le Piston,restaurant,Aix-en-Provence,,,,43.5276577,5.4463219
 4556153094,node,Maurizio,restaurant,Aix-en-Provence,"2 Rue des Tanneurs, 13090, Aix-en-Provence",13090,,43.5276164,5.4465754
 4556153095,node,Nem Viet,restaurant,Aix-en-Provence,"4 Rue Isolette, 13100, Aix-en-Provence",13100,,43.5273362,5.4465286
-4556153290,node,Jardin Mazarin,restaurant,Aix-en-Provence,"15 Rue du 4 Septembre, 13100, Aix-en-Provence",13100,https://www.jardinmazarin.com/,43.5251473,5.4502777
-4556153292,node,Monna Isa,restaurant,Aix-en-Provence,"19 Place Ramus, 13100, Aix-en-Provence",13100,,43.5282221,5.4471404
+4556153290,node,Jardin Mazarin,restaurant,Aix-en-Provence,"15 Rue du Quatre Septembre, 13100, Aix-en-Provence",13100,https://www.jardinmazarin.com/,43.5251473,5.4502777
+4556153292,node,Monna Isa,restaurant,Aix-en-Provence,"27 Place Ramus, 13100, Aix-en-Provence",13100,,43.5282221,5.4471404
 4556153294,node,Jaquou le Croquant,restaurant,Aix-en-Provence,"2 Rue Aumône Vieille, 13100, Aix-en-Provence",13100,https://www.jacquoulecroquant.com/,43.5283817,5.4466455
 4556153295,node,Étude,restaurant,Aix-en-Provence,,,https://www.etude-aix.fr/,43.5283637,5.4465213
 4556153296,node,La Flamme d'Aix,restaurant,Aix-en-Provence,"9 Rue Aumône Vieille, 13100, Aix-en-Provence",13100,https://laflamme-aix.fr/,43.5282807,5.4464133
 4556188891,node,Taiyo,restaurant,Aix-en-Provence,"1 Rue de l'Annonciade, 13100, Aix-en-Provence",13100,https://taiyorestaurant.fr/fr,43.5283767,5.4467168
 4556188892,node,Les Vieiles Canailles,restaurant,Aix-en-Provence,"7 Rue Isolette, 13100, Aix-en-Provence",13100,https://vieilles-canailles.fr/,43.5274293,5.4464096
 4556188893,node,Le Patio,restaurant,Aix-en-Provence,"16 Rue Victor Leydet, 13100, Aix-en-Provence",13100,https://www.lepatio-aix.fr/,43.5272248,5.445536
-4556211689,node,Le Ramus,restaurant,Aix-en-Provence,"12 Place Ramus, 13100, Aix-en-Provence",13100,https://www.restaurant-le-ramus-aix.fr/,43.5283412,5.4470475
+4556211689,node,Le Ramus,restaurant,Aix-en-Provence,"5 Place Ramus, 13100, Aix-en-Provence",13100,https://www.restaurant-le-ramus-aix.fr/,43.5283412,5.4470475
 4556211690,node,Izumi,restaurant,Aix-en-Provence,,,,43.5273515,5.4464379
 4556212289,node,Le Bouche à Oreille,restaurant,Aix-en-Provence,"1 Rue Aumône Vieille, 13100, Aix-en-Provence",13100,,43.5283017,5.4467017
-4556212389,node,La Case Créole,restaurant,Aix-en-Provence,"50 Rue Aumône Vieille, 13100, Aix-en-Provence",13100,https://casecreole.fr/en,43.5283398,5.4461078
+4556212389,node,La Case Créole,restaurant,Aix-en-Provence,"17 Rue de l'Aumône Vieille, 13100, Aix-en-Provence",13100,https://casecreole.fr/en,43.5283398,5.4461078
 4589206645,node,Aux milles & une pizza,restaurant,Aix-en-Provence,,,,43.4474324,5.6828614
 4592259800,node,Daïsuki,restaurant,Aix-en-Provence,"24 Avenue Jean Jaurès, 13530, Trets",13530,https://daisukitrets.fr,43.4479938,5.6869844
 4599504944,node,Assiettes d'Asie,restaurant,Aix-en-Provence,,,,43.4648987,5.6101039
-4642785937,node,Mammo,restaurant,Aix-en-Provence,"15 Rue Constantin, 13100, Aix-en-Provence",13100,,43.5305607,5.4502782
+4633304874,node,,artwork,Aix-en-Provence,,,,43.4409342,5.4581965
+4642785937,node,Mammo,restaurant,Aix-en-Provence,"1 Rue Constantin, 13100, Aix-en-Provence",13100,,43.5305607,5.4502782
 4660436120,node,Le Chastel,restaurant,Aix-en-Provence,"2 Rue Portalis, 13100, Aix-en-Provence",13100,https://www.lechastel.fr/,43.5291587,5.4515174
 4660436121,node,Le Saint Jean,restaurant,Aix-en-Provence,"16 Place des Prêcheurs, 13100, Aix-en-Provence",13100,https://aixlesaintjean.fr/,43.5291089,5.4514968
 4660436122,node,Pizza Des Arts,restaurant,Aix-en-Provence,"4 Place Joachim Gasquet, 13100, Aix-en-Provence",13100,,43.5292259,5.4533999
 4660436123,node,Grenache,restaurant,Aix-en-Provence,"2 Place Joachim Gasquet, 13100, Aix-en-Provence",13100,https://grenache-aix.eatbu.com/?lang=fr,43.5292213,5.4533178
+4675055065,node,,artwork,Aix-en-Provence,,,,43.6413631,5.0953846
+4675118595,node,Antoni Blasi Crousillat,artwork,Aix-en-Provence,,,,43.6413271,5.0968871
 4687111232,node,Chapitre Vin,restaurant,Aix-en-Provence,,,https://chapitre-vin.com/,43.5128178,5.4265263
-4696892381,node,Yojisu,restaurant,Aix-en-Provence,"130 Rue Bastide de Verdaches, 13100, Aix-en-Provence",13100,http://www.yoji.fr/,43.5088496,5.4025911
+4687250731,node,,memorial,Aix-en-Provence,,,,43.686198,5.395613
+4695530029,node,Le Galet,artwork,Aix-en-Provence,,,,43.6333033,5.5284339
+4695534567,node,,memorial,Aix-en-Provence,,,,43.635597,5.528227
+4696892381,node,Yojisu,restaurant,Aix-en-Provence,"160 Rue Bastide de Verdaches, 13100, Aix-en-Provence",13100,http://www.yoji.fr/,43.5088496,5.4025911
 4709942205,node,La Taverne,restaurant,Aix-en-Provence,"5 Rue Georges Clemenceau, 13330, Pélissanne",13330,,43.6306026,5.1489746
 4710553636,node,Napoli,restaurant,Aix-en-Provence,"7 Rue Émile Zola, 13650, Meyrargues",13650,,43.6354729,5.5284671
+4734391612,node,La cave de l'ours,gallery,Aix-en-Provence,"Traverse Jean Jaurès, 13650, Meyrargues",13650,,43.6345543,5.5282636
+4745933846,node,Château de Barème,castle,Aix-en-Provence,,,,43.4789349,5.4657056
 4759864048,node,Chez Thomé,restaurant,Aix-en-Provence,,,,43.5211155,5.5112721
+4783195722,node,Ruines,attraction,Aix-en-Provence,,,,43.4099081,5.5587708
+4783197121,node,Puits Bonaventure,attraction,Aix-en-Provence,,,,43.4218814,5.5545498
+4783203123,node,Puits Béthune,attraction,Aix-en-Provence,,,,43.4104268,5.5585765
 4795428923,node,Le P'tit Breton,restaurant,Aix-en-Provence,"67 Rue d'Italie, 13100, Aix-en-Provence",13100,https://www.leptitbreton-creperie.com/restaurant/le-ptit-breton-aix,43.5251393,5.4540778
 4798660729,node,Le royal Gambetta,restaurant,Aix-en-Provence,"18 Cours Gambetta, 13100, Aix-en-Provence",13100,,43.5239454,5.4549756
 4798784521,node,Tandem,restaurant,Aix-en-Provence,"38 Rue Lieutaud, 13100, Aix-en-Provence",13100,https://www.tandem-aix.fr,43.5297434,5.4454099
 4799990922,node,Ayki,restaurant,Aix-en-Provence,,,,43.449433,5.689615
-4813285723,node,Le Poivre d'Ane,restaurant,Aix-en-Provence,"40 Forum des Cardeurs, 13100, Aix-en-Provence",13100,https://lepoivredane.eatbu.com/?lang=fr,43.5300427,5.4461334
+4813285723,node,Le Poivre d'Ane,restaurant,Aix-en-Provence,"6 Rue du Cancel, 13100, Aix-en-Provence",13100,https://lepoivredane.eatbu.com/?lang=fr,43.5300427,5.4461334
 4813296622,node,L'Opera,restaurant,Aix-en-Provence,"18 Rue Fermée, 13100, Aix-en-Provence",13100,https://lopera-restaurant-aix-en-provence.fr/fr,43.5284345,5.4443176
 4822891276,node,Dodo Kitchen,restaurant,Aix-en-Provence,"4 Rue des Alpilles, 13090, Aix-en-Provence",13090,https://dodokitchenrestaurant.fr,43.5167472,5.4364327
+4826993523,node,Puits Prosper,attraction,Aix-en-Provence,,,,43.4200903,5.5577803
+4837926321,node,,viewpoint,Aix-en-Provence,,,,43.526326,5.4456432
+4876172846,node,Église de Roquemartine,ruins,Aix-en-Provence,,,,43.7152197,5.0328058
+4878029809,node,Fontaine des Quatre-Dauphins,attraction,Aix-en-Provence,,,,43.5253259,5.4501697
+4878029810,node,Domaine du Grand-Saint-Jean,castle,Aix-en-Provence,,,,43.6030499,5.3720838
+4878029811,node,Château de Montjustin,castle,Aix-en-Provence,,,,43.5764522,5.4018255
+4878029813,node,Château de la Mignarde,castle,Aix-en-Provence,,,,43.5662926,5.4755191
+4878029814,node,Bastide Bel-Air,castle,Aix-en-Provence,,,,43.558218,5.4581156
+4878885013,node,Hôtel de Valbelle,monument,Aix-en-Provence,,,,43.5308791,5.4513203
 4910994899,node,Nachos,restaurant,Aix-en-Provence,,,,43.6389816,5.0942415
 4910994900,node,Le hangar,restaurant,Aix-en-Provence,,,,43.6387865,5.0942465
 4910994901,node,SayTo,restaurant,Aix-en-Provence,,,,43.6387195,5.0942519
@@ -182,28 +332,37 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4918146222,node,Le Cintra,restaurant,Aix-en-Provence,"14 Place Jeanne d'Arc, 13100, Aix-en-Provence",13100,,43.5272027,5.4439065
 4923036536,node,La Case à Palabres,restaurant,Aix-en-Provence,,,https://www.lacaseapalabres.fr/,43.6425659,5.0966333
 4969312159,node,Résidence Séjour & Affaires Mirabeau,hotel,Aix-en-Provence,"615 Avenue Wolfgang Amadeus Mozart, 13100, Aix-en-Provence",13100,,43.5252563,5.4412976
-4988318854,node,La Chichoumeille,restaurant,Aix-en-Provence,"4 Avenue Albert Couton, 13290, Les Milles",13290,,43.5032919,5.3881895
+4988318854,node,La Chichoumeille,restaurant,Aix-en-Provence,"6 Avenue Albert Couton, 13290, Les Milles",13290,,43.5032919,5.3881895
 5060429717,node,Pizzeria,restaurant,Aix-en-Provence,,,,43.5553249,5.6005779
 5060437191,node,Le Couscoussier de Provence,restaurant,Aix-en-Provence,"5 Boulevard du Moraliste, 13126, Vauvenargues",13126,,43.5554539,5.5999717
 5060437834,node,Le Sainte-Victoire,restaurant,Aix-en-Provence,,,,43.5553392,5.6007022
 5069463819,node,Café des Negociants,restaurant,Aix-en-Provence,"4 Avenue Pasteur, 13100, Aix-en-Provence",13100,,43.5329683,5.4462808
-5072184344,node,Da Noemi,restaurant,Aix-en-Provence,"9 Rue Jacques de la Roque, 13100, Aix-en-Provence",13100,https://da-noemi-aix-en-provence.fr/fr,43.5321876,5.4465567
+5072184344,node,Da Noemi,restaurant,Aix-en-Provence,"2 Rue des Nobles, 13100, Aix-en-Provence",13100,https://da-noemi-aix-en-provence.fr/fr,43.5321876,5.4465567
 5072809244,node,Francesca,restaurant,Aix-en-Provence,"15 Cours Gambetta, 13100, Aix-en-Provence",13100,http://www.francesca.com/fr/restaurants/francesca-aix-en-provence,43.5242272,5.4551416
+5111304319,node,Maison de Nostradamus,museum,Aix-en-Provence,"Rue Nostradamus, 13300, Salon-de-Provence",13300,https://maisondenostradamus.fr/,43.6408606,5.0976495
 5124171218,node,Le Garde Manger,restaurant,Aix-en-Provence,,,,43.5294423,5.4442421
 5126467377,node,Brunch Aila,restaurant,Aix-en-Provence,"52 Place Richelme, 13100, Aix-en-Provence",13100,https://brunchaila.fr/,43.5290791,5.4483539
 5130347844,node,Tita,restaurant,Aix-en-Provence,"11 Rue des Bernardines, 13100, Aix-en-Provence",13100,https://www.titaaix.fr/,43.5276071,5.445437
 5169158451,node,Le Mogador,restaurant,Aix-en-Provence,"4 Avenue Fortuné Ferrini, 13100, Aix-en-Provence",13100,,43.5102699,5.4417971
 5174429898,node,Hanzo,restaurant,Aix-en-Provence,"1 Boulevard Victor Coq, 13100, Aix-en-Provence",13100,https://hanzobento.fr/,43.5241555,5.440615
 5174677810,node,Marasino - Vinoteca Restaurant Lounge bar,restaurant,Aix-en-Provence,,,,43.5253248,5.4456108
+5285585523,node,Ruine de la boulangerie,castle,Aix-en-Provence,,,,43.6438524,5.4337915
 5359541023,node,Casa Capri,restaurant,Aix-en-Provence,"48 Rue des Cordeliers, 13100, Aix-en-Provence",13100,,43.5295379,5.4457436
 5397723721,node,Phatsara,restaurant,Aix-en-Provence,"4 Rue Vanloo, 13100",13100,,43.5296901,5.4435184
 5406117786,node,Lunch & Cie,restaurant,Aix-en-Provence,"55 Rue Pythagore, 13100",13100,,43.4886831,5.3419784
 5406117787,node,"Brasserie Y,Z",restaurant,Aix-en-Provence,"20 Avenue du Grand Vallat, 13100, Aix-en-Provence",13100,https://www.brasserie-yz.fr/,43.4921157,5.3543973
 5407713766,node,La table d'elisa,restaurant,Aix-en-Provence,,,,43.4960275,5.3511377
 5407713780,node,Pauseto,restaurant,Aix-en-Provence,"560 Avenue Galilée, 13290, Aix-en-Provence",13290,,43.4856988,5.341583
+5411849806,node,Table d'orientation,viewpoint,Aix-en-Provence,,,,43.6287152,5.5279055
+5411857310,node,,viewpoint,Aix-en-Provence,,,,43.6270846,5.5232686
 5414714208,node,Picolo Saxo,restaurant,Aix-en-Provence,"55 Rue Pythagore, 13100",13100,https://www.picolosaxo.com/,43.4885431,5.341985
 5427726661,node,Hôtel des Augustins,hotel,Aix-en-Provence,"3 Rue de la Masse, 13100, Aix-en-Provence",13100,,43.5268953,5.4471923
+5486521439,node,Bastide de Montfinal,castle,Aix-en-Provence,,,,43.4561798,5.3910562
+5494458747,node,Ferme-grenier fortifiée de Coudouneu,ruins,Aix-en-Provence,,,,43.5605669,5.1602657
+5494458748,node,Château du Petit Pommier,castle,Aix-en-Provence,,,,43.593158,5.170269
+5494458749,node,Domaine d'Aiguebelle,castle,Aix-en-Provence,,,,43.6579914,5.2815485
 5555279180,node,Les Quatre Dauphins,hotel,Aix-en-Provence,"54 Rue Roux Alphéran, 13100, Aix-en-Provence",13100,https://www.lesquatredauphins.fr,43.5249067,5.4503561
+5583891180,node,Square Fernand Singerlé,garden,Aix-en-Provence,,,,43.6347132,5.5287902
 5587026711,node,Le Petit Bistrot,restaurant,Aix-en-Provence,"1 Rue Méjanes, 13100, Aix-en-Provence",13100,https://lepetitbistrot-richelme.fr/,43.5291907,5.4483811
 5614116516,node,Les Pins,restaurant,Aix-en-Provence,,,,43.7079523,5.2135284
 5614116517,node,Les Tilleuls,restaurant,Aix-en-Provence,,,,43.7081955,5.2107047
@@ -212,76 +371,109 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5628380944,node,Chez Romu,restaurant,Aix-en-Provence,"20 bis Rue du Grand Logis, 13510",13510,,43.5691202,5.3544968
 5673001525,node,Lou Cigalou,restaurant,Aix-en-Provence,"90 Chemin de la Pioline, 13547, Aix-en-Provence",13547,,43.510428,5.4093525
 5679242321,node,Le Relais du Coche,restaurant,Aix-en-Provence,,,,43.6939549,5.0301376
-5701356521,node,Crepes a Gogo,restaurant,Aix-en-Provence,"Passage Victor Hugo, 13100, Aix-en-Provence",13100,,43.5259755,5.4460229
+5701356521,node,Crepes a Gogo,restaurant,Aix-en-Provence,"1 Avenue Victor Hugo, 13100, Aix-en-Provence",13100,,43.5259755,5.4460229
+5729053502,node,Signal en V,artwork,Aix-en-Provence,,,,43.5180444,5.4291192
 5730579117,node,Le bœuf chantant,restaurant,Aix-en-Provence,,,,43.6868835,5.7101716
-5740354821,node,De l'Une à l'Autre,restaurant,Aix-en-Provence,"12 Rue du Cancel, 13100, Aix-en-Provence",13100,,43.5305071,5.4456786
+5740354821,node,De l'Une à l'Autre,restaurant,Aix-en-Provence,"14 Rue du Cancel, 13100, Aix-en-Provence",13100,,43.5305071,5.4456786
+5791899155,node,Aqueduc romain de la Traconnade,ruins,Aix-en-Provence,,,,43.6332037,5.5212822
 5815425608,node,Les Halles de Peyrolles,restaurant,Aix-en-Provence,,,,43.6457787,5.5733781
 5815425610,node,L'Atelier des 2J,restaurant,Aix-en-Provence,,,,43.6462984,5.5864518
+5845962349,node,Statue allégorique - Arts et Sciences,artwork,Aix-en-Provence,,,,43.5264839,5.4461222
 5851375378,node,Lulu,restaurant,Aix-en-Provence,"560 Avenue Galilée, 13290, Aix-en-Provence",13290,https://www.lulu-restaurant.com/,43.4855939,5.3417548
 5851979590,node,L'Atélier Gourmand,restaurant,Aix-en-Provence,,,,43.5971095,5.480434
+5858579959,node,,memorial,Aix-en-Provence,,,,43.5521776,5.6794813
 5859326115,node,Le Provençal,restaurant,Aix-en-Provence,,,,43.6301231,5.149848
+5929623159,node,Mardi 10 mars 2015 sur l'autoroute A9,artwork,Aix-en-Provence,,,,43.5884868,5.1904955
+5966577629,node,,viewpoint,Aix-en-Provence,,,,43.4553595,5.3175413
 6003812772,node,Opère,restaurant,Aix-en-Provence,"1840 Route de Berre, 13090, Aix-en-Provence",13090,https://www.opere.fr/,43.5352143,5.3945725
+6061732220,node,Stèle des Héros de la Résistance,memorial,Aix-en-Provence,,,,43.6803093,5.6808312
 6173290167,node,Restaurant Indochine,restaurant,Aix-en-Provence,"859 Avenue des Frères Roqueplan, 13370, Mallemort",13370,,43.7283518,5.178085
 6173290169,node,Café de la Poste,restaurant,Aix-en-Provence,"36 Place Louis Usclat, 13370, Mallemort",13370,https://www.cafedelapostemallemort.fr/,43.7293519,5.1774359
 6183031086,node,Restaurant Pierre Reboul,restaurant,Aix-en-Provence,"260 Rue Guillaume du Vair, 13290, Aix-en-Provence",13290,https://www.chateaudelapioline.com/fr/restaurant-gastronomique-aix.html,43.5089735,5.4045268
 6255955990,node,Le Yen,restaurant,Aix-en-Provence,"2-4 Rue Paul Doumer, 13100, Aix-en-Provence",13100,https://leyen-aixenprovence.fr/,43.5269145,5.4465865
+6328441506,node,,garden,Aix-en-Provence,,,,43.4413456,5.3978024
+6335498369,node,Musée rurale et d'histoire locale,museum,Aix-en-Provence,,,,43.637046,5.6380194
+6335588877,node,Château Revelette,castle,Aix-en-Provence,,,,43.616418,5.6639341
 6345282222,node,A table,restaurant,Aix-en-Provence,,,,43.5895601,5.1900514
+6345567465,node,,viewpoint,Aix-en-Provence,,,,43.5312015,5.5138856
+6345567466,node,,viewpoint,Aix-en-Provence,,,,43.5270356,5.5070409
+6345568737,node,,viewpoint,Aix-en-Provence,,,,43.5242101,5.5235604
+6345568738,node,,viewpoint,Aix-en-Provence,,,,43.5281519,5.5074117
+6345569013,node,,viewpoint,Aix-en-Provence,,,,43.5322584,5.5113752
 6387470402,node,Seito Sushi & Grill,restaurant,Aix-en-Provence,"14 Place Jeanne d'Arc, 13100, Aix-en-Provence",13100,http://www.seito.fr,43.5272462,5.4437686
+6443159683,node,,park,Aix-en-Provence,,,,43.526127,5.4153264
+6481568899,node,Nostradamus,monument,Aix-en-Provence,,,,43.6318635,5.1008456
+6481568900,node,Savon de Marseille,monument,Aix-en-Provence,,,,43.6272004,5.1024798
 6481595951,node,Coquillages Roy René,restaurant,Aix-en-Provence,"120 Route d'Avignon, 13090",13090,,43.5482416,5.427198
+6502273587,node,Château La Coste,artwork,Aix-en-Provence,,,,43.6329641,5.4223725
+6512084590,node,,viewpoint,Aix-en-Provence,,,,43.5215043,5.5296153
+6515317678,node,Commémoration Du Bicentenaire De La Révolution,memorial,Aix-en-Provence,,,,43.6347129,5.5273491
 6517226185,node,La Chimère Café,restaurant,Aix-en-Provence,"15 Rue Brueys, 13100",13100,,43.5280673,5.4446183
 6556441398,node,Le Filet de Bœuf,restaurant,Aix-en-Provence,,,,43.4172741,5.3581165
 6580255283,node,Girafe,restaurant,Aix-en-Provence,"6 Rue de la Verrerie, 13100, Aix-en-Provence",13100,https://www.girafe-aix.fr/,43.5299388,5.4469892
 6611782663,node,La Pizza,restaurant,Aix-en-Provence,"3 Rue Aude, 13100, Aix-en-Provence",13100,,43.5280709,5.4481746
+6641871546,node,Table d'orientation,viewpoint,Aix-en-Provence,,,,43.6483219,5.4368346
 6665035517,node,La table du boucher,restaurant,Aix-en-Provence,,,,43.5080471,5.4981799
+6690367285,node,ligne descente vtt,attraction,Aix-en-Provence,,,,43.5373924,5.2925466
+6690367385,node,spot éloigné,attraction,Aix-en-Provence,,,,43.5411316,5.3129183
 6700078394,node,Ô grain de pizz,restaurant,Aix-en-Provence,,,,43.5413606,5.2708997
 6700120989,node,L'Autrefois,restaurant,Aix-en-Provence,,,,43.6287,5.129655
+6700121010,node,Pélican,artwork,Aix-en-Provence,,,,43.6295824,5.1363015
 6743756446,node,Trattoria Dai Giuliani,restaurant,Aix-en-Provence,,,,43.4600474,5.353359
+6793813504,node,bikepark Éguilles,attraction,Aix-en-Provence,,,,43.5788387,5.3165872
 6824301986,node,Sinh Ky,restaurant,Aix-en-Provence,"33 Rue de la Verrerie, 13100, Aix-en-Provence",13100,http://www.livraison-plat-asiatique-aix.fr,43.5286352,5.447284
+6844904115,node,Jardin à la française,garden,Aix-en-Provence,,,,43.5308378,5.4421793
 6851579158,node,domaine du vert moulin,restaurant,Aix-en-Provence,"1685 Chemin du Moulin, 13610, le puy sainte reparade",13610,https://domaine.vertmoulin.com/,43.6701266,5.4472093
-6858411311,node,Vendôme,hotel,Aix-en-Provence,,,,43.5288303,5.4382856
+6858411311,node,Vendôme,hotel,Aix-en-Provence,10 Cours des Minimes,,,43.5288303,5.4382856
 6859704269,node,Le Maharaja,restaurant,Aix-en-Provence,"16 Rue des Tanneurs, 13100, Aix-en-Provence",13100,,43.5279931,5.4461308
 6859704275,node,Mitch,restaurant,Aix-en-Provence,"26 Rue des Tanneurs, 13100, Aix-en-Provence",13100,,43.5282236,5.4458512
-6862706484,node,Bella Vita,restaurant,Aix-en-Provence,,,,43.5272933,5.4472556
+6862706484,node,Bella Vita,restaurant,Aix-en-Provence,10 Rue de la Masse,,,43.5272933,5.4472556
 6863867800,node,Loubon,restaurant,Aix-en-Provence,"33 Cours Mirabeau, 13100, Aix-en-Provence",13100,,43.5269805,5.4490566
+6865859674,node,,viewpoint,Aix-en-Provence,,,,43.5411207,5.5345584
+6865904039,node,Galerie Saltiel,gallery,Aix-en-Provence,,,,43.5286818,5.4481357
 6865904046,node,Gueuleton,restaurant,Aix-en-Provence,"70 Place Richelme, 13100, Aix-en-Provence",13100,https://www.gueuleton.fr/gueuleton-aix-en-provence/,43.5288461,5.4482247
+6896375811,node,Bel air fine art,gallery,Aix-en-Provence,,,,43.5274035,5.4504724
 6898126784,node,Le Forum,restaurant,Aix-en-Provence,"6 Rue Peyresc, 13100, Aix-en-Provence",13100,,43.5290633,5.4503174
 6898524992,node,Via Veneto Chez Nino,restaurant,Aix-en-Provence,"6 Rue du Griffon, 13100, Aix-en-Provence",13100,https://viavenetocheznino.eatbu.com/,43.5308006,5.4487429
-6899493605,node,Chez Laurette,restaurant,Aix-en-Provence,,,,43.5301881,5.4473467
-6899493608,node,Comptoir des Cardeurs,restaurant,Aix-en-Provence,"18 Forum des Cardeurs, 13100, Aix-en-Provence",13100,,43.530177,5.4474372
+6899493605,node,Chez Laurette,restaurant,Aix-en-Provence,4 Forum des Cardeurs,,,43.5301881,5.4473467
+6899493608,node,Comptoir des Cardeurs,restaurant,Aix-en-Provence,"4 Forum des Cardeurs, 13100, Aix-en-Provence",13100,,43.530177,5.4474372
 6899493614,node,La Maison du Handburger,restaurant,Aix-en-Provence,"Forum des Cardeurs, Aix-en-Provence",,,43.5298719,5.446661
 6899635616,node,Di Micheli,restaurant,Aix-en-Provence,,,,43.5297877,5.4463288
-6899635636,node,Les baratineurs,restaurant,Aix-en-Provence,"41 Forum des Cardeurs, 13100, Aix-en-Provence",13100,https://www.les-baratineurs-restaurant-aix-en-provence.com/,43.5296623,5.4454554
+6899635636,node,Les baratineurs,restaurant,Aix-en-Provence,"60 Rue des Cordeliers, 13100, Aix-en-Provence",13100,https://www.les-baratineurs-restaurant-aix-en-provence.com/,43.5296623,5.4454554
 6899635637,node,Angelina,restaurant,Aix-en-Provence,"7 Rue Mérindol, 13100, Aix-en-Provence",13100,https://angelina-aix-en-provence.fr/fr,43.5301354,5.4451711
 6899635644,node,Au p'tit tajine,restaurant,Aix-en-Provence,"4 Rue de la Treille, 13100, Aix-en-Provence",13100,,43.5297389,5.4445344
 6899635651,node,Faubourg 46,restaurant,Aix-en-Provence,"46 Cours Sextius, 13100, Aix-en-Provence",13100,https://faubourg46.fr/,43.5294057,5.4438193
-6900403981,node,Bottega da Verri,restaurant,Aix-en-Provence,,,,43.5294587,5.4459673
+6900403981,node,Bottega da Verri,restaurant,Aix-en-Provence,29 Rue des Cordeliers,,,43.5294587,5.4459673
 6900403983,node,Panuozzo MIO,restaurant,Aix-en-Provence,,,,43.529553,5.4460559
 6902505755,node,Le Papagayo,restaurant,Aix-en-Provence,,,https://papagayo-aix.fr/,43.5301845,5.4466973
-6902505756,node,Prima Pasta,restaurant,Aix-en-Provence,,,https://www.prima-pasta.fr/,43.5301369,5.4464726
+6902505756,node,Prima Pasta,restaurant,Aix-en-Provence,28 Forum des Cardeurs,,https://www.prima-pasta.fr/,43.5301369,5.4464726
 6902505757,node,Chez Nous,restaurant,Aix-en-Provence,"30 Forum des Cardeurs, 13100, Aix-en-Provence",13100,,43.5301193,5.4463915
 6902505758,node,Le Rendez-Vous,restaurant,Aix-en-Provence,"32 Forum des Cardeurs, 13100, Aix-en-Provence",13100,https://www.le-rendez-vous-restaurant-aix-en-provence.com/,43.5300994,5.4463291
 6902510986,node,Pekyo,restaurant,Aix-en-Provence,"12 Rue Vanloo, 13100, Aix-en-Provence",13100,https://pekyo-13.fr/,43.5299047,5.4432321
-6902511001,node,La marocaine,restaurant,Aix-en-Provence,"3 Rue Vanloo, 13100, Aix-en-Provence",13100,,43.5296818,5.4438141
+6902511001,node,La marocaine,restaurant,Aix-en-Provence,"5 Rue Vanloo, 13100, Aix-en-Provence",13100,,43.5296818,5.4438141
 6904731678,node,Mr. Chou,restaurant,Aix-en-Provence,"42-44 Cours Sextius, 13100, Aix-en-Provence",13100,,43.5293411,5.4438371
-6909510551,node,La Caravelle,hotel,Aix-en-Provence,,,,43.5248652,5.4536243
+6909510551,node,La Caravelle,hotel,Aix-en-Provence,29 Boulevard du Roi René,,,43.5248652,5.4536243
 6911328243,node,Solférino,restaurant,Aix-en-Provence,"3 Place d'Arménie, 13100, Aix-en-Provence",13100,,43.5251251,5.4538526
 6911328272,node,Les Voutes,restaurant,Aix-en-Provence,"17 Rue d'Italie, 13100, Aix-en-Provence",13100,,43.5263659,5.452799
 6911328277,node,Entre Midi et Deux,restaurant,Aix-en-Provence,"9 Rue d'Italie, 13100, Aix-en-Provence",13100,,43.5265594,5.4526243
 6911341885,node,Hitokuchi,restaurant,Aix-en-Provence,"1 Rue d'Italie, 13100, Aix-en-Provence",13100,https://hitokuchi.eatbu.com/?lang=fr,43.5269005,5.4523739
 6911341890,node,Le Forbin,restaurant,Aix-en-Provence,"2 Rue d'Italie, 13100, Aix-en-Provence",13100,https://leforbin.fr/,43.5269345,5.4521436
-6918676127,node,Maison Carne,restaurant,Aix-en-Provence,"11 Rue du Maréchal Joffre, 13100, Aix-en-Provence",13100,https://www.maisoncarne.com/,43.5268699,5.4529
+6918676127,node,Maison Carne,restaurant,Aix-en-Provence,"11 Bis Rue du Maréchal Joffre, 13100, Aix-en-Provence",13100,https://www.maisoncarne.com/,43.5268699,5.4529
 6918676142,node,Tanja,restaurant,Aix-en-Provence,"30 Rue du Maréchal Joffre, 13100, Aix-en-Provence",13100,https://www.instagram.com/tanja.aix/,43.5264546,5.4544988
 6918676152,node,Le Miollis,restaurant,Aix-en-Provence,,,,43.5278019,5.4547849
 6992115139,node,Au Bureau,restaurant,Aix-en-Provence,,,https://www.aubureau.fr/resto/au-bureau-salon-de-provence/,43.6399635,5.0982659
-7001800853,node,Brasserie du Park,restaurant,Aix-en-Provence,"1093 Route d'Avignon, 13090, Aix-en-Provence",13090,,43.5563386,5.4190611
+7001800853,node,Brasserie du Park,restaurant,Aix-en-Provence,"1080 Route d'Avignon, 13090, Aix-en-Provence",13090,,43.5563386,5.4190611
 7004254436,node,L’escargot,restaurant,Aix-en-Provence,"10 Avenue Winston Churchill, 13090, Aix-en-Provence",13090,https://escargotaix.com/,43.5192774,5.4454525
 7018836239,node,Wild Café,restaurant,Aix-en-Provence,"28 Avenue Fortuné Ferrini, 13080, Aix-en-Provence",13080,https://wild-cafe.eatbu.com/,43.5101766,5.4416874
-7018836240,node,Chez Gaby,restaurant,Aix-en-Provence,"42 Avenue Fortuné Ferrini, 13090, Aix-en-Provence",13090,,43.5101143,5.441627
+7018836240,node,Chez Gaby,restaurant,Aix-en-Provence,"28 Avenue Fortuné Ferrini, 13090, Aix-en-Provence",13090,,43.5101143,5.441627
 7018842750,node,Brasserie du Pont de l'Arc,restaurant,Aix-en-Provence,"56 Avenue Fortuné Ferrini, 13090, Aix-en-Provence",13090,https://pontdelarc.wixsite.com/bpa,43.5100375,5.4414742
 7018842751,node,Nao Sushi,restaurant,Aix-en-Provence,,,,43.5099869,5.4413883
 7018842752,node,Cholox,restaurant,Aix-en-Provence,,,,43.5097153,5.4415387
 7025851186,node,Cafétéria de la MMSH,restaurant,Aix-en-Provence,"5 Rue du Château de l'Horloge, 13090, Aix-en-Provence",13090,https://www.crous-aix-marseille.fr/restaurant/cafeteria-mmsh-3/,43.5284548,5.4182696
 7026392090,node,Paroxysme,restaurant,Aix-en-Provence,"2 Rue Boulegon, 13100, Aix-en-Provence",13100,,43.5308737,5.4492143
+7047889693,node,Tom Morel,memorial,Aix-en-Provence,,,,43.5313184,5.4508324
+7056721199,node,Gianni Fasciani Fine Arts,gallery,Aix-en-Provence,,,,43.527387,5.4541576
+7056798891,node,L’Essentiel,gallery,Aix-en-Provence,,,,43.5275824,5.4525201
 7065776367,node,Seven Seventy,restaurant,Aix-en-Provence,"21 Avenue des Belges, 13100, Aix-en-Provence",13100,https://synagogue-aixenprovence.fr/informations-communautaires/,43.5236353,5.4419946
 7065877244,node,Le Souk Provençal,restaurant,Aix-en-Provence,"15 Avenue Albert Baudoin, 13090, Aix-en-Provence",13090,https://lesoukprovencal.eatbu.com/,43.5252984,5.4337573
 7065877256,node,Big Sushi,restaurant,Aix-en-Provence,,,,43.5252858,5.4365985
@@ -290,9 +482,16 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 7091071328,node,La Bouchée,restaurant,Aix-en-Provence,"5 Rue d'Entrecasteaux, 13100, Aix-en-Provence",13100,https://labouchee-aix.com/,43.5285481,5.4450279
 7091071329,node,Dîna,restaurant,Aix-en-Provence,"2 Rue d'Entrecasteaux, 13100, Aix-en-Provence",13100,https://dina-aix-en-provence.fr/fr,43.5286468,5.4450749
 7091071340,node,La Cascada,restaurant,Aix-en-Provence,"29 Rue Fermée, 13100, Aix-en-Provence",13100,https://lacascada.fr/,43.5283583,5.4443805
+7124295585,node,Drop Free ride,viewpoint,Aix-en-Provence,,,,43.5314892,5.2925949
 7153732248,node,Toinou Les Fruits de Mer,restaurant,Aix-en-Provence,"58 Avenue Henri Malacrida, 13100, Aix-en-Provence",13100,https://www.toinou.com/,43.5117829,5.4737867
+7159074754,node,,memorial,Aix-en-Provence,,,,43.64657,5.5841944
+7175294661,node,,viewpoint,Aix-en-Provence,,,,43.4049265,5.510949
 7209316428,node,Restaurant Universitaire des Fenouillères,restaurant,Aix-en-Provence,,,,43.5138502,5.4482705
-7244604596,node,l'Incontournable,restaurant,Aix-en-Provence,"5 Rue des Epinaux, 13100, Aix-en-Provence",13100,,43.5300346,5.4500925
+7223412953,node,,ruins,Aix-en-Provence,,,,43.5282517,5.4508533
+7244604596,node,l'Incontournable,restaurant,Aix-en-Provence,"14 Rue Lucas de Montigny, 13100, Aix-en-Provence",13100,,43.5300346,5.4500925
+7249638799,node,,artwork,Aix-en-Provence,,,,43.5244207,5.4229894
+7274053478,node,,viewpoint,Aix-en-Provence,,,,43.6282331,5.5339115
+7274959539,node,stèle en souvenir de l'équipage du fennec,memorial,Aix-en-Provence,,,,43.5001355,5.3030659
 7284836357,node,Au Goût du Monde,restaurant,Aix-en-Provence,"38 Rue des Bernardines, 13100, Aix-en-Provence",13100,https://www.augoutdumonde.fr/,43.5277835,5.4444013
 7308523235,node,Pizza Malia,restaurant,Aix-en-Provence,"113 Rue Fernand Pauriol, 13370, Mallemort",13370,,43.730373,5.1793123
 7308792927,node,Pizza du château,restaurant,Aix-en-Provence,"8 Grand Rue, 13370, Mallemort",13370,http://www.pizza-mallemort.com/,43.7315155,5.1804931
@@ -304,39 +503,74 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 7447752897,node,Le Moulin de Vernègues,hotel,Aix-en-Provence,"Route Nationale 7, 13370, Mallemort",13370,https://www.moulindevernegues.com/en/,43.7043819,5.2067673
 7447752898,node,Les Voûtes,restaurant,Aix-en-Provence,"Route Nationale 7, 13370, Mallemort",13370,https://www.moulindevernegues.com/en,43.7045767,5.2066899
 7447752904,node,Es Beu La Vie,restaurant,Aix-en-Provence,"Club House du Golf de Pont Royal, 13370, Mallemort",13370,https://www.restaurantesbeulavie.com/,43.7062829,5.2099134
+7494211185,node,spot free ride,attraction,Aix-en-Provence,,,,43.540435,5.287631
+7531244685,node,Bikepark T rider,attraction,Aix-en-Provence,13122,13122,https://instagram.com/t_riders_team,43.5407487,5.3128088
 7550761700,node,Ô Pablotin,restaurant,Aix-en-Provence,,,,43.4650899,5.6072968
 7550761701,node,Restaurant Le Provence,restaurant,Aix-en-Provence,,,,43.4649414,5.6071485
 7550888360,node,Pizza Caffé Saint-Charles,restaurant,Aix-en-Provence,,,,43.4635867,5.6084977
 7550888377,node,Sushi Couronne,restaurant,Aix-en-Provence,,,,43.4633941,5.6130222
+7553172525,node,,monument,Aix-en-Provence,,,,43.6955319,5.0306254
 7553203397,node,Le Gôut des Alpilles,restaurant,Aix-en-Provence,,,,43.6953089,5.0304655
+7581380275,node,,memorial,Aix-en-Provence,,,,43.5553795,5.600975
 7581532348,node,Chez Le Garde,restaurant,Aix-en-Provence,"342 Route Départementale 10, 13126, Vauvenargues",13126,https://www.chez-le-garde.fr/,43.554155,5.5790515
 7588236297,node,Hôtel Sainte Victoire,hotel,Aix-en-Provence,"33 Avenue des Maquisards, 13126, Vauvenargues",13126,https://www.hotelsaintevictoire.com,43.5553874,5.6057368
+7613719928,node,,artwork,Aix-en-Provence,,,,43.4549616,5.5619743
 7617224917,node,Hippopotamus,restaurant,Aix-en-Provence,"393 Rue Roger Frilley, 13170, Les Pennes-Mirabeau",13170,,43.4133175,5.3608569
 7619650347,node,Restaurant La Maison du Château,restaurant,Aix-en-Provence,"Montée de l'Église, 13790, Châteauneuf-le-Rouge",13790,https://www.lamaisonduchateau.fr,43.4889121,5.5685478
 7623628015,node,La Boucherie,restaurant,Aix-en-Provence,,,,43.5831419,5.473467
 7623651242,node,L'Opus bistro,restaurant,Aix-en-Provence,,,,43.5820804,5.4725204
+7625003185,node,,viewpoint,Aix-en-Provence,,,,43.5415177,5.2581664
+7638298949,node,,viewpoint,Aix-en-Provence,,,,43.3986034,5.4478009
+7638300213,node,,viewpoint,Aix-en-Provence,,,,43.4052978,5.4645845
+7689289274,node,Savonnerie Marius Fabre,museum,Aix-en-Provence,,,https://www.marius-fabre.com/,43.6376309,5.0902616
 7689306956,node,Le Moulin d'Isnard,restaurant,Aix-en-Provence,25 Rue Moulin d'Isnard,,,43.6406288,5.0970806
 7727328679,node,L’Eden,restaurant,Aix-en-Provence,1020 Route de Berre,,,43.5443,5.36242
 7744140446,node,Le Mas d'Entremont,hotel,Aix-en-Provence,,,https://www.masdentremont.com/,43.5503381,5.4253854
+7815473354,node,,viewpoint,Aix-en-Provence,,,,43.5366625,5.4499292
+7820436387,node,Fabriciens M.M,memorial,Aix-en-Provence,,,,43.5401387,5.294792
+7920452685,node,Maison de mort de Paul Cézanne,attraction,Aix-en-Provence,"23 Rue Boulegon, 13100",13100,,43.5310356,5.4501039
 7961903475,node,Le Mas de Fauchon,restaurant,Aix-en-Provence,,,,43.6065406,5.2889121
+8174585580,node,Irma Reybaud,memorial,Aix-en-Provence,,,,43.6073499,5.365818
 8174683603,node,Indochine,restaurant,Aix-en-Provence,,,,43.6301648,5.1541315
 8175098829,node,Tokyo Sushi,restaurant,Aix-en-Provence,,,,43.6308589,5.150819
 8175098830,node,Pizza de la place,restaurant,Aix-en-Provence,,,,43.6310385,5.150355
 8203818448,node,Lou Pataclé,restaurant,Aix-en-Provence,20 Place Cabardel,,,43.6301263,5.1497622
 8209096251,node,Gourmand d'Asie,restaurant,Aix-en-Provence,,,,43.6227608,5.0881773
-8214112454,node,Le Bouchon,restaurant,Aix-en-Provence,"58 Avenue Marcel Pagnol, 13880, Velaux",13880,https://lebouchon-velaux.fr,43.5277455,5.2582221
+8214112454,node,Le Bouchon,restaurant,Aix-en-Provence,"58 e Avenue Marcel Pagnol, 13880, Velaux",13880,https://lebouchon-velaux.fr,43.5277455,5.2582221
 8214112455,node,Clos la Verdière,hotel,Aix-en-Provence,"1 Rue André-Marie Ampère, 13880, Velaux",13880,https://closlaverdiere.fr,43.5161267,5.2318667
 8214112457,node,L'Unisson,restaurant,Aix-en-Provence,"200 Allée Louis Sibethal, 13880, Velaux",13880,,43.5361943,5.2475435
+8214171081,node,Tour Musée,museum,Aix-en-Provence,"Rue de la Tour, 13880, Velaux",13880,,43.5222188,5.2527463
+8224944190,node,,viewpoint,Aix-en-Provence,,,,43.3867539,5.4334805
+8301110006,node,Crouching Spider,artwork,Aix-en-Provence,,,,43.635188,5.4201436
 8339375095,node,A Casetta,restaurant,Aix-en-Provence,"2 Chemin de la Sarrière, 13590, Meyreuil",13590,,43.4768251,5.4914706
-8416526337,node,Le mariole,restaurant,Aix-en-Provence,"15 Passage Agard, 13100, Aix-en-Provence",13100,https://www.lemariolegruppo.fr/,43.5273933,5.4508098
+8400005079,node,,viewpoint,Aix-en-Provence,,,,43.6534587,5.1675316
+8416526337,node,Le mariole,restaurant,Aix-en-Provence,"9 Passage Agard, 13100, Aix-en-Provence",13100,https://www.lemariolegruppo.fr/,43.5273933,5.4508098
 8427055941,node,La Durancette,restaurant,Aix-en-Provence,"1 Rue du Monument, 13560, Sénas",13560,https://restaurant-la-durancette-senas.eatbu.com/,43.7464363,5.0761136
 8459257730,node,Côté Cour,restaurant,Aix-en-Provence,"19 Cours Mirabeau, 13100, Aix-en-Provence",13100,https://restaurantcotecour.fr/,43.526822,5.4477301
 8529207386,node,Restaurant 592,restaurant,Aix-en-Provence,,,,43.4630918,5.6155761
+8544958952,node,Aqueduc romain de la Traconnade,ruins,Aix-en-Provence,,,,43.6323004,5.5221025
+8595256920,node,Grotte des maquisards,memorial,Aix-en-Provence,,,,43.3975915,5.4488709
+8769731066,node,Carrières de Bibémus,attraction,Aix-en-Provence,,,https://www.cezanne-en-provence.com/les-sites-de-cezanne/carrieres-de-bibemus/,43.5310321,5.5005692
+8794770225,node,Croix de Lorraine,memorial,Aix-en-Provence,,,,43.4507502,5.4129095
 8807283101,node,Le Comptoir,restaurant,Aix-en-Provence,,,,43.4512734,5.4121509
+8851021082,node,,viewpoint,Aix-en-Provence,,,,43.6263123,5.2059663
+8851171963,node,Tapir,attraction,Aix-en-Provence,,,,43.6253086,5.2084311
+8851298287,node,Émeu,attraction,Aix-en-Provence,,,,43.6226761,5.212494
+8851324358,node,Âne de Somalie,attraction,Aix-en-Provence,,,,43.6235488,5.2107131
+8851330292,node,Tamanoir,attraction,Aix-en-Provence,,,,43.6227484,5.2117286
+8851345308,node,Wallaby de Bennet,attraction,Aix-en-Provence,,,,43.6227453,5.2122685
+8851348094,node,Nandou d'Amérique,attraction,Aix-en-Provence,,,,43.6228467,5.211966
+8851374992,node,Oryx Algazelle,attraction,Aix-en-Provence,,,,43.6234763,5.211003
+8851390212,node,Nilgaut,attraction,Aix-en-Provence,,,,43.62209,5.2124578
+8851390213,node,Daim Moucheté,attraction,Aix-en-Provence,,,,43.6220019,5.2127891
+8851390214,node,Antilope Cervicapre,attraction,Aix-en-Provence,,,,43.6218238,5.2125921
+8853938822,node,Chèvre Naine,attraction,Aix-en-Provence,,,,43.6228825,5.2075566
+8855189389,node,,artwork,Aix-en-Provence,,,,43.6260723,5.2047783
+8855189390,node,,artwork,Aix-en-Provence,,,,43.6260269,5.2047791
 8867810420,node,Les Copains D'abord,restaurant,Aix-en-Provence,"Allée de Trets, 13710, Fuveau",13710,https://www.facebook.com/people/Les-Copains-Dabord/100063622208205/,43.4781963,5.5385762
 8894490131,node,Ma première cantine,restaurant,Aix-en-Provence,"5 Avenue Victor Hugo, 13100, Aix-en-Provence",13100,https://mapremierecantine.fr/aix.html,43.5255597,5.4466612
 8894490132,node,Corner Bistro,restaurant,Aix-en-Provence,"3 Avenue Victor Hugo, 13100, Aix-en-Provence",13100,https://www.cornerbistro-restaurant-aix-en-provence.fr/,43.5256226,5.4465291
-8894490133,node,La Petite Ferme,restaurant,Aix-en-Provence,"7 Avenue Victor Hugo, 13100, Aix-en-Provence",13100,https://lapetiteferme-aix.com/,43.5254763,5.4467021
+8894490133,node,La Petite Ferme,restaurant,Aix-en-Provence,"7 Rue Villars, 13100, Aix-en-Provence",13100,https://lapetiteferme-aix.com/,43.5254763,5.4467021
 8975059007,node,Hôtel Negrecoste,hotel,Aix-en-Provence,"33 Cours Mirabeau, 13100, Aix-en-Provence",13100,,43.52697,5.4489955
 8976590657,node,BIG BRO,restaurant,Aix-en-Provence,"6 Place des Augustins, 13100, Aix-en-Provence",13100,https://www.bigbroaix.com/,43.5271719,5.4463528
 8976590658,node,La Rotonde,restaurant,Aix-en-Provence,"Place Jeanne d'Arc, 13100, Aix-en-Provence",13100,https://www.larotonde-aix.com/,43.5268705,5.445357
@@ -344,9 +578,11 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 8977102375,node,Le Balto,restaurant,Aix-en-Provence,"63 Rue d'Italie, 13100, Aix-en-Provence",13100,https://monsiterestaurant.wixsite.com/le-balto,43.5252208,5.4539702
 8977278184,node,Cézanne Boutique Hotel,hotel,Aix-en-Provence,,,,43.5235666,5.445875
 8980070834,node,Jardin d'Asie,restaurant,Aix-en-Provence,,,,43.447507,5.6855744
+8989552506,node,Accceuil Acrro passion,attraction,Aix-en-Provence,,,,43.6368489,5.106657
 9045421265,node,Riders Pizza #19,restaurant,Aix-en-Provence,,,,43.7452703,5.0755632
+9045455922,node,,memorial,Aix-en-Provence,,,,43.745729,5.0762723
 9063728066,node,Hôtel en ville,hotel,Aix-en-Provence,,,,43.53205,5.4515268
-9063982519,node,Naya,restaurant,Aix-en-Provence,,,,43.5333458,5.4560218
+9063982519,node,Naya,restaurant,Aix-en-Provence,6 Avenue Jean Moulin,,,43.5333458,5.4560218
 9084108524,node,Taverna par Éléa,restaurant,Aix-en-Provence,"15 Rue Jacques de la Roque, 13100, Aix-en-Provence",13100,,43.5319574,5.4466849
 9128773328,node,Domaine la Sibérie - Clos des Cigales,hotel,Aix-en-Provence,"7150 Route du Puy-Sainte-Réparade, 13540, Aix-en-Provence",13540,,43.6165274,5.4396711
 9178404136,node,Kyriad,hotel,Aix-en-Provence,,,,43.4261402,5.3634979
@@ -354,59 +590,103 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 9232388130,node,Maison Nosh,restaurant,Aix-en-Provence,"Place François Villon, 13100, Aix-en-Provence",13100,http://www.maison-nosh.com/,43.5256315,5.4437936
 9263334303,node,Domaine de Roquerousse,hotel,Aix-en-Provence,"Route Jean Moulin, 13300, Salon-de-Provence",13300,https://www.domainederoquerousse.com/,43.6764835,5.1025861
 9294728552,node,Princesse 17,restaurant,Aix-en-Provence,"8 Rue de la Paix, 13100, Aix-en-Provence",13100,,43.529806,5.443329
+9294728559,node,la gallery,gallery,Aix-en-Provence,"15 Rue Vanloo, 13100, Aix-en-Provence",13100,,43.52981,5.443434
 9294728564,node,La Galzoneria,restaurant,Aix-en-Provence,"21 Rue Vanloo, 13100, Aix-en-Provence",13100,,43.529903,5.443335
 9297688317,node,L'olivier,restaurant,Aix-en-Provence,32 Rue du Bourg Neuf,,,43.6408143,5.0986195
 9370261505,node,Le Grand Bleu,restaurant,Aix-en-Provence,,,,43.4202919,5.3574053
+9373550577,node,,memorial,Aix-en-Provence,,,,43.7085406,5.0280398
+9412189224,node,,viewpoint,Aix-en-Provence,,,,43.5184798,5.3132889
 9414753618,node,Blooming Day,restaurant,Aix-en-Provence,"Allée Claude Debussy, 13880, Velaux",13880,https://www.bloomingday.fr,43.5339469,5.2522354
 9465474095,node,Buffalo Grill,restaurant,Aix-en-Provence,,,,43.6231017,5.0992791
+9492862692,node,,artwork,Aix-en-Provence,,,,43.7383882,5.0789372
 9493939810,node,,restaurant,Aix-en-Provence,,,,43.4150676,5.3669054
 9495594256,node,Nirvana Buffet,restaurant,Aix-en-Provence,,,,43.4138404,5.3663175
 9498586983,node,Le Tre Galles,restaurant,Aix-en-Provence,,,,43.4225844,5.3848457
 9499397641,node,Marcel à Table,restaurant,Aix-en-Provence,429 Avenue Etienne Rabattu,,,43.4183611,5.3538179
 9500887371,node,Domaine la Guérine,restaurant,Aix-en-Provence,,,,43.4377775,5.3497597
 9500928195,node,Campanile,restaurant,Aix-en-Provence,,,,43.5184207,5.4082919
-9508449733,node,Brasserie Le 3G,restaurant,Aix-en-Provence,"13480, Cabriès",13480,,43.4203523,5.3624234
+9508449733,node,Brasserie Le 3G,restaurant,Aix-en-Provence,"460 Route des Freres Brun, 13480, Cabriès",13480,,43.4203523,5.3624234
 9508449757,node,La Cantine d'Édouard,restaurant,Aix-en-Provence,"Rue du Plan de Campagne, 13170, Les Pennes-Mirabeau",13170,,43.4195246,5.3610644
 9508449797,node,Vapiano,restaurant,Aix-en-Provence,,,,43.4188214,5.3601943
 9508449805,node,La Brasserie,restaurant,Aix-en-Provence,,,,43.4197036,5.3612466
+9517305881,node,,viewpoint,Aix-en-Provence,,,,43.4337804,5.742984
+9517305907,node,,viewpoint,Aix-en-Provence,,,,43.4316952,5.7381477
+9552958327,node,Monument au mort,memorial,Aix-en-Provence,,,,43.5237314,5.2540089
+9557410992,node,,memorial,Aix-en-Provence,,,,43.5234954,5.2540396
 9588594960,node,Mercure,restaurant,Aix-en-Provence,285 Rue du Docteur Albert Aynaud,,,43.4900334,5.3519645
+9598044283,node,Lavoir Saint Thomas de Villeneuve,ruins,Aix-en-Provence,,,,43.5320018,5.4602595
 9605412791,node,Enjoy Sushi,restaurant,Aix-en-Provence,"1621 Chemin du Vallon des Brayes, 13880, Velaux",13880,https://www.enjoysushi.fr/restaurants/enjoy-sushi-velaux,43.5171699,5.2314244
+9612382080,node,Saint André,monument,Aix-en-Provence,,,,43.5164307,5.4719888
+9651978995,node,Circle of Riverstone,artwork,Aix-en-Provence,,,,43.6348836,5.4156281
+9651978996,node,Four cubes to contemplate our environment,artwork,Aix-en-Provence,,,,43.6338665,5.4140804
 9651978997,node,,hotel,Aix-en-Provence,,,https://www.villalacoste.com/,43.6328894,5.4146944
+9651983007,node,Boxes Full of air,artwork,Aix-en-Provence,,,,43.6348429,5.4199266
+9651983033,node,House of air,artwork,Aix-en-Provence,,,,43.6287434,5.4163958
+9651983034,node,AIX,artwork,Aix-en-Provence,,,,43.6322956,5.4165229
 9666221311,node,La Bastide de Venelles,restaurant,Aix-en-Provence,"Rue des Michelons, 13770, Venelles",13770,https://www.labastidedevenelles.fr/,43.5896219,5.4892626
+9677644889,node,,artwork,Aix-en-Provence,,,,43.6651109,5.3455539
 9682604017,node,Toasushi,restaurant,Aix-en-Provence,,,https://www.toasushi.fr/,43.5428784,5.3681213
+9696714884,node,,viewpoint,Aix-en-Provence,,,,43.6958438,5.2755188
+9707101097,node,Musée Gardanne Autrefois,museum,Aix-en-Provence,,,,43.4547931,5.4694186
+9711742322,node,Musée Sahut,museum,Aix-en-Provence,,,,43.4298118,5.4347248
+9711742323,node,Musée Archéologique,museum,Aix-en-Provence,,,,43.429824,5.434905
+9717808981,node,1994,memorial,Aix-en-Provence,,,,43.4282032,5.4370332
+9717825619,node,,memorial,Aix-en-Provence,,,,43.4302545,5.4355671
 9717825728,node,L'Instant,restaurant,Aix-en-Provence,,,,43.4292137,5.4186219
+9727477330,node,,memorial,Aix-en-Provence,,,,43.4166195,5.3168654
 9735740991,node,Restaurant Genji,restaurant,Aix-en-Provence,13 Avenue Emile Zola,,,43.4175949,5.2885506
 9735741000,node,Brit Hôtel Marseille Aéroport,hotel,Aix-en-Provence,14 Avenue Jean Jaures,,,43.417397,5.2826009
+9735896862,node,Table d'Orientation,viewpoint,Aix-en-Provence,,,,43.4103712,5.3100668
 9735896864,node,La Baronne,restaurant,Aix-en-Provence,,,,43.411717,5.3137852
+9735924362,node,,memorial,Aix-en-Provence,,,,43.4102387,5.3114248
+9735924363,node,,memorial,Aix-en-Provence,,,,43.4102424,5.3114328
 9740811865,node,Le Repaire,restaurant,Aix-en-Provence,76 Chemin de Tres Moulins,,https://lerepaire13116.wixsite.com/monsite,43.6899204,5.1664171
 9760385089,node,Le Préau,restaurant,Aix-en-Provence,,,,43.6637857,5.3472635
 9803550950,node,Casa Giulia,restaurant,Aix-en-Provence,"115 Rue Arnaud Borrili, 13290, Aix-en-Provence",13290,https://aixpioline.fr/casa-giulia/,43.5067714,5.4034033
+9826415469,node,,viewpoint,Aix-en-Provence,,,,43.5164478,5.3147967
 9858966383,node,Grey Sushi,restaurant,Aix-en-Provence,"4 Avenue des Belges, 13100, Aix-en-Provence",13100,https://www.grey-sushi.fr/,43.5252486,5.4447133
 9882819621,node,L'envie,restaurant,Aix-en-Provence,"16 Rue Duperrier, 13100, Aix-en-Provence",13100,,43.5293317,5.4430015
-9883024070,node,Sielanka,restaurant,Aix-en-Provence,"22 Cours Sextius, 13100, Aix-en-Provence",13100,https://www.restaurant-sielanka.fr/,43.528478,5.4435226
+9883024070,node,Sielanka,restaurant,Aix-en-Provence,"22 Rue du Onze Novembre, 13100, Aix-en-Provence",13100,https://www.restaurant-sielanka.fr/,43.528478,5.4435226
+9909355937,node,,viewpoint,Aix-en-Provence,,,,43.395126,5.295791
 9914763170,node,Nguyen Thanh,restaurant,Aix-en-Provence,"16 Rue Gaston de Saporta, 13100, Aix-en-Provence",13100,https://www.nguyenthanh.fr/,43.5307641,5.4475747
-9914771634,node,La Fontaine,restaurant,Aix-en-Provence,"40 Rue de la Verrerie, 13100, Aix-en-Provence",13100,https://www.la-fontaine-restaurant-aix-en-provence.fr/,43.528575,5.4471011
+9914763174,node,Galerie Goyet,gallery,Aix-en-Provence,,,,43.5318672,5.446731
+9914771634,node,La Fontaine,restaurant,Aix-en-Provence,"40 Rue Verrerie, 13100, Aix-en-Provence",13100,https://www.la-fontaine-restaurant-aix-en-provence.fr/,43.528575,5.4471011
 9914771636,node,Les P’tites Bouchées,restaurant,Aix-en-Provence,"17 Rue Aumône Vieille, 13100, Aix-en-Provence",13100,http://lesptitesbouchees.com/#menus,43.528282,5.4461118
-9914771637,node,Cay Tam,restaurant,Aix-en-Provence,"29 Rue de la Verrerie, 13100, Aix-en-Provence",13100,https://caytam.fr/,43.5288351,5.447199
+9914771637,node,Cay Tam,restaurant,Aix-en-Provence,"29 Rue Verrerie, 13100, Aix-en-Provence",13100,https://caytam.fr/,43.5288351,5.447199
+9945556760,node,Urban Kids,theme_park,Aix-en-Provence,43 Avenue de la Grande Begude,,,43.5890897,5.4755847
 9946844277,node,Le Four Aixois,restaurant,Aix-en-Provence,"4 Rue Boulegon, 13100, Aix-en-Provence",13100,,43.5308582,5.4493678
 9947880617,node,Délices Capoue,restaurant,Aix-en-Provence,"34 Rue Brueys, 13100, Aix-en-Provence",13100,https://www.ddcpizza.fr/,43.5281506,5.4442223
+9957109514,node,Ruines France,ruins,Aix-en-Provence,,,,43.5709258,5.577618
+10020829417,node,,memorial,Aix-en-Provence,,,,43.5261986,5.4448654
+10033269462,node,Monument de la Légion d'honneur,memorial,Aix-en-Provence,,,,43.6407174,5.0935534
+10042821645,node,,viewpoint,Aix-en-Provence,,,,43.5339157,5.6374432
 10136167608,node,Cantine,restaurant,Aix-en-Provence,,,,43.6805486,5.7709255
+10144831478,node,A Victor Leydet,artwork,Aix-en-Provence,,,,43.5269943,5.4449292
 10145022717,node,LeKabanon des écuries de l'aube,restaurant,Aix-en-Provence,"Route du Plan de Lorgue, 13100",13100,https://www.lesecuriesdelaube.com/,43.5449373,5.5031792
+10152370017,node,Moulin,ruins,Aix-en-Provence,,,,43.687668,5.7087473
 10173635994,node,Le Piano Gourmand,restaurant,Aix-en-Provence,,,,43.6628409,5.3491669
 10198050317,node,Li palace raviolis,restaurant,Aix-en-Provence,"4 Rue Emeric David, 13100, Aix-en-Provence",13100,,43.5281746,5.45203
+10267799724,node,Ferme Velauxienne,zoo,Aix-en-Provence,"3410 Chemin de la Joséphine, 13880, Velaux",13880,https://www.fermevelauxienne.fr/,43.5416675,5.2223321
 10271216921,node,IT Italian Trattoria,restaurant,Aix-en-Provence,"37 Cours Mirabeau, 13100, Aix-en-Provence",13100,https://restaurants.it-trattoria.fr/aix-en-provence-cours-mirabeau/,43.527003,5.4492406
 10287188606,node,O'Gustus,restaurant,Aix-en-Provence,"7 Rue des Bouteilles, 13100, Aix-en-Provence",13100,https://ogustus.com/,43.5291228,5.4489469
 10287189815,node,Kyoto,restaurant,Aix-en-Provence,"9 Rue Constantin, 13100, Aix-en-Provence",13100,https://kyoto-lepetitjapon.fr/,43.5305132,5.4498415
+10287191615,node,Néa,gallery,Aix-en-Provence,,,,43.5297441,5.4494833
+10287191616,node,Les Paris Helene,gallery,Aix-en-Provence,,,,43.529712,5.4496148
+10287191617,node,Ars longa,gallery,Aix-en-Provence,,,,43.5296945,5.449568
+10292039294,node,Galerie Jean-Louis Ramand,gallery,Aix-en-Provence,,,,43.5257781,5.4525834
 10292094764,node,La Brocherie,restaurant,Aix-en-Provence,"5 Rue Fernand Dol, 13100, Aix-en-Provence",13100,https://www.labrocherieaix.com/,43.5259995,5.4522434
 10292094765,node,La Maison Française,restaurant,Aix-en-Provence,,,,43.5260355,5.4524824
 10293031250,node,Dolce sapore,restaurant,Aix-en-Provence,,,,43.4489312,5.3984703
+10298090804,node,monument aux morts,memorial,Aix-en-Provence,,,,43.7133267,5.3149742
+10298315739,node,Monument aux Résistants 16 juin 1944,memorial,Aix-en-Provence,,,,43.519429,5.583239
+10298336159,node,Monument du Sublime Réveil,memorial,Aix-en-Provence,,,,43.6374153,5.0938766
 10307227480,node,Le Dragon D'or,restaurant,Aix-en-Provence,,,https://www.dragon-dor-venelles.fr/,43.581261,5.4717235
-10309465915,node,Peppino,restaurant,Aix-en-Provence,,,,43.5885827,5.4755476
+10309465915,node,Peppino,restaurant,Aix-en-Provence,43 Avenue de la Grande Begude,,,43.5885827,5.4755476
 10563715273,node,La Table de La Fontaine,restaurant,Aix-en-Provence,,,,43.5453094,5.2811831
 10624064406,node,Le Col 5,restaurant,Aix-en-Provence,"24 Rue de la Verrerie, 13100, Aix-en-Provence",13100,https://lecol5.fr/fr,43.5292862,5.4470845
 10648362639,node,Opanda,restaurant,Aix-en-Provence,,,,43.4129451,5.357921
-10649847206,node,La Maison des Fondues,restaurant,Aix-en-Provence,"11 Rue de la Verrerie, 13100, Aix-en-Provence",13100,http://www.maisondesfondues.com/,43.529416,5.4471316
-10691342374,node,Les Fils à Maman,restaurant,Aix-en-Provence,"42 Rue de la Verrerie, 13100, Aix-en-Provence",13100,https://www.lesfilsamaman.com/,43.5285001,5.4471362
+10649847206,node,La Maison des Fondues,restaurant,Aix-en-Provence,"13 Rue Verrerie, 13100, Aix-en-Provence",13100,http://www.maisondesfondues.com/,43.529416,5.4471316
+10691342374,node,Les Fils à Maman,restaurant,Aix-en-Provence,"12 Place Ramus, 13100, Aix-en-Provence",13100,https://www.lesfilsamaman.com/,43.5285001,5.4471362
 10716674248,node,Ze Kitchen,restaurant,Aix-en-Provence,"524 Avenue Pierre Brossolette, 13090, Aix-en-Provence",13090,,43.5185431,5.4426258
 10736576692,node,,restaurant,Aix-en-Provence,,,,43.648181,5.4604338
 10743486834,node,L'appart,restaurant,Aix-en-Provence,,,,43.5264038,5.4506655
@@ -414,6 +694,8 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 10773848405,node,Oh,restaurant,Aix-en-Provence,"14 Rue Félibre Gaut, 13100, Aix-en-Provence",13100,https://ohsushiaix.fr/,43.5290992,5.4465124
 10791555305,node,Monte Alta,hotel,Aix-en-Provence,Chemin de Mireille,,https://www.montealta.com/,43.6435999,5.0992753
 10795808328,node,OKKO Sushi,restaurant,Aix-en-Provence,"4 Cours Gambetta, 13100, Aix-en-Provence",13100,https://aix-en-provence.okkosushi.com/,43.5244324,5.4544759
+10797714867,node,Belvédère du lac,viewpoint,Aix-en-Provence,,,,43.5415688,5.5363049
+10797797004,node,Aqueduc de Saint-Antonin,ruins,Aix-en-Provence,,,,43.5252212,5.510897
 10860071105,node,L’endroit,restaurant,Aix-en-Provence,"20 Montée André Viallat, 13300",13300,,43.6401684,5.097516
 10941381847,node,Papa,restaurant,Aix-en-Provence,,,,43.6393358,5.0951179
 10941381848,node,La Baronne,restaurant,Aix-en-Provence,,,,43.6392751,5.0951112
@@ -439,32 +721,94 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 10942398764,node,L'épicerie,restaurant,Aix-en-Provence,,,,43.6404724,5.0989624
 10942398765,node,Orchidée,restaurant,Aix-en-Provence,,,,43.6409559,5.0978913
 10947465107,node,l'Estive,restaurant,Aix-en-Provence,,,,43.6359267,5.0995359
+10980620164,node,,memorial,Aix-en-Provence,,,,43.4103495,5.318294
+10982340107,node,,viewpoint,Aix-en-Provence,,,,43.5394534,5.2926547
 11009689544,node,Saveur du Portugal,restaurant,Aix-en-Provence,,,,43.5456687,5.1845525
 11017556425,node,Chez Lulu,restaurant,Aix-en-Provence,"11 Rue Chastel, 13100, Aix-en-Provence",13100,https://chezlulu-aix.com/,43.5288864,5.4519179
+11061292500,node,Fresque aire de battage,artwork,Aix-en-Provence,,,,43.5226874,5.2530673
+11061304962,node,Fresque Espace Nova,artwork,Aix-en-Provence,,,,43.5306295,5.2550523
+11061313222,node,Fresque Clochemerle,artwork,Aix-en-Provence,,,,43.5227342,5.2542227
+11061332236,node,Fresque village de Velaux,artwork,Aix-en-Provence,,,,43.522056,5.2524752
 11063230771,node,Au Petit Resto,restaurant,Aix-en-Provence,"6 Rue Borely, 13120, Gardanne",13120,,43.4549598,5.4710167
 11063240170,node,Palandoken 25,restaurant,Aix-en-Provence,"7 Cours Forbin, 13120, Gardanne",13120,,43.4547949,5.4707635
 11063252547,node,Le Cézanne,restaurant,Aix-en-Provence,"25 Cours Forbin, 13120, Gardanne",13120,,43.4543073,5.4703802
 11063264319,node,N'guyen Traiteur,restaurant,Aix-en-Provence,"19 Cours Forbin, 13120, Gardanne",13120,,43.4544815,5.4705328
-11063272820,node,Le Bistrot Caire,restaurant,Aix-en-Provence,"11 Place François Caire, 13880, Velaux",13880,https://www.lebistrotcaire.fr,43.5224484,5.2538584
+11063272820,node,Le Bistrot Caire,restaurant,Aix-en-Provence,"5 Place François Caire, 13880, Velaux",13880,https://www.lebistrotcaire.fr,43.5224484,5.2538584
+11067392922,node,Musée du Viel Aix,museum,Aix-en-Provence,"17 Rue Gaston de Saporta, 13100, Aix-en-Provence",13100,https://www.aixenprovence.fr/Presentation-du-Musee-du-Vieil-Aix,43.5308312,5.4473561
+11120883030,node,,artwork,Aix-en-Provence,,,,43.6431792,5.0972758
+11134316586,node,,memorial,Aix-en-Provence,,,,43.558364,5.250062
 11145961846,node,Le Marigny,restaurant,Aix-en-Provence,,,,43.6390133,5.0991621
 11152714905,node,Master Pizza,restaurant,Aix-en-Provence,,,,43.5944886,5.1290541
 11161372588,node,Ô 2 Frères,restaurant,Aix-en-Provence,,,,43.6395961,5.0954634
 11161380774,node,Pizza Antoine,restaurant,Aix-en-Provence,,,,43.6398745,5.0955185
 11161384828,node,Atmosph'R,restaurant,Aix-en-Provence,,,https://www.restaurantatmosphr.fr/,43.5261962,5.4378663
+11161387296,node,Musée de Salon et de la Crau,museum,Aix-en-Provence,,,,43.6399928,5.0970015
+11161402909,node,Musée de l'Empéri,museum,Aix-en-Provence,,,https://www.salondeprovence.fr/index.php/emperi,43.6400173,5.0969938
 11162038107,node,Enjoy Sushi,restaurant,Aix-en-Provence,,,,43.5080682,5.4989368
-11190586567,node,Kim Sushi,restaurant,Aix-en-Provence,"31 Rue Boulegon, 13100",13100,,43.5311097,5.4504006
+11190586567,node,Kim Sushi,restaurant,Aix-en-Provence,"29 Rue Boulegon, 13100",13100,,43.5311097,5.4504006
+11222884845,node,Le moulin a huile - musee,museum,Aix-en-Provence,,,,43.5258217,5.6756743
+11233995355,node,,artwork,Aix-en-Provence,,,,43.5306022,5.4422218
+11233995357,node,,artwork,Aix-en-Provence,,,,43.5306095,5.4422691
+11257402937,node,,memorial,Aix-en-Provence,,,,43.7102104,5.3244576
 11273899494,node,Brasserie le 5,restaurant,Aix-en-Provence,"1261 Chemin du Vallon des Brayes, Z.A La Verdière N°1, 13880, Velaux",13880,https://brasserie-le-5.fr,43.5169683,5.2316464
+11304829469,node,,viewpoint,Aix-en-Provence,,,,43.5184687,5.3118665
+11332768909,node,,viewpoint,Aix-en-Provence,,,,43.7181044,5.75011
 11367495128,node,Alto Gusto,restaurant,Aix-en-Provence,465 Rue Claude Nicolas Ledoux,,,43.4818761,5.3868243
+11430046228,node,,memorial,Aix-en-Provence,,,,43.7195405,5.2471785
+11430066030,node,,memorial,Aix-en-Provence,,,,43.7189813,5.2490556
+11430066076,node,,memorial,Aix-en-Provence,,,,43.7220948,5.2793665
+11476074998,node,,artwork,Aix-en-Provence,,,,43.5251866,5.4396965
+11476074999,node,Emile Zola,artwork,Aix-en-Provence,,,,43.5275435,5.4520394
+11476075001,node,Le manege,artwork,Aix-en-Provence,,,,43.5248321,5.4420641
+11476075002,node,,artwork,Aix-en-Provence,,,,43.5314754,5.4468696
+11476075003,node,,artwork,Aix-en-Provence,,,,43.5253213,5.4393862
+11486144446,node,,memorial,Aix-en-Provence,,,,43.5111629,5.5459959
+11524390620,node,Camp harkis du logis d'Anne,artwork,Aix-en-Provence,,,,43.6694412,5.6486219
+11560282874,node,Le monorail junior,attraction,Aix-en-Provence,,,,43.6076121,5.335224
+11560282918,node,Le train,attraction,Aix-en-Provence,,,,43.6064745,5.3363988
+11637223728,node,,artwork,Aix-en-Provence,,,,43.6881247,5.1988364
 11655965650,node,Trattoria Salone,restaurant,Aix-en-Provence,,,https://www.trattoria-salone.fr,43.6417059,5.0972972
+11696645285,node,,viewpoint,Aix-en-Provence,,,,43.6898625,5.6671206
+11696645286,node,,viewpoint,Aix-en-Provence,,,,43.6898594,5.6672809
+11696645287,node,,viewpoint,Aix-en-Provence,,,,43.689342,5.6672476
+11696645288,node,,viewpoint,Aix-en-Provence,,,,43.6893482,5.667083
+11696645450,node,,viewpoint,Aix-en-Provence,,,,43.6894755,5.6686827
+11696645451,node,,viewpoint,Aix-en-Provence,,,,43.690063,5.6699937
+11696645452,node,,viewpoint,Aix-en-Provence,,,,43.6905062,5.6712711
+11700204670,node,,attraction,Aix-en-Provence,,,,43.5231587,5.4587104
+11700209769,node,Maison Natale de Cezanne,attraction,Aix-en-Provence,,,,43.5273351,5.4543046
+11711328956,node,,artwork,Aix-en-Provence,,,,43.6349218,5.4166691
+11711328964,node,Faux Pas,artwork,Aix-en-Provence,,,,43.6287766,5.4195379
+11711328966,node,Labyrinth,artwork,Aix-en-Provence,,,,43.6301126,5.4191856
+11711379170,node,Consignez votre secret,artwork,Aix-en-Provence,,,,43.6284314,5.418884
+11711379172,node,Silver Room,artwork,Aix-en-Provence,,,,43.6292772,5.4191676
+11711379178,node,Schism,artwork,Aix-en-Provence,,,,43.629772,5.4192835
+11711379179,node,,artwork,Aix-en-Provence,,,,43.6303152,5.4148462
 11711379200,node,Tadao Ando,restaurant,Aix-en-Provence,,,,43.6353603,5.4198679
 11711379206,node,La Terrasse Provençale,restaurant,Aix-en-Provence,,,,43.6357965,5.4195585
+11711379221,node,Ici reposent les secrets des promeneurs,artwork,Aix-en-Provence,,,,43.6283141,5.4192152
+11711379226,node,,viewpoint,Aix-en-Provence,,,,43.6298776,5.4182602
+11711379227,node,Komo Rebi,artwork,Aix-en-Provence,,,,43.6299706,5.4169794
+11711379236,node,Rail Car,artwork,Aix-en-Provence,,,,43.6286862,5.416632
+11711379245,node,,artwork,Aix-en-Provence,,,,43.6337694,5.4148722
+11711379276,node,,artwork,Aix-en-Provence,,,,43.6360027,5.4159669
+11711379282,node,Tunga,artwork,Aix-en-Provence,,,,43.6313358,5.4193434
+11711379302,node,,artwork,Aix-en-Provence,,,,43.6345824,5.4204967
 11756556184,node,Vintrépide,restaurant,Aix-en-Provence,"48 Rue du Puits Neuf, 13100, Aix-en-Provence",13100,,43.5318307,5.4505868
+11758452622,node,,artwork,Aix-en-Provence,,,,43.531053,5.4420842
+11758452625,node,,artwork,Aix-en-Provence,,,,43.5310576,5.4421546
+11758721563,node,,artwork,Aix-en-Provence,,,,43.6389733,5.098532
 11770791061,node,Caribou Café,restaurant,Aix-en-Provence,"19 Cours Victor Leydet, 13710, Fuveau",13710,https://www.facebook.com/cariboucafedevillage,43.4539513,5.5625597
 11789755967,node,Riders Pizza Livraison,restaurant,Aix-en-Provence,,,,43.7444037,5.0773782
 11789810169,node,Au bar à Pizz,restaurant,Aix-en-Provence,26 Avenue Jean Jaurès,,,43.7442593,5.0774104
 11795183457,node,La bella donna,restaurant,Aix-en-Provence,,,,43.6414021,5.0966704
 11796047620,node,Le Bistro du Potager,restaurant,Aix-en-Provence,,,,43.6403962,5.0954605
+11800404102,node,,memorial,Aix-en-Provence,,,,43.6413007,5.0952047
 11828713279,node,Odalys City Appart Hotel les Floridianes,hotel,Aix-en-Provence,,,,43.5213336,5.4447612
+11835094956,node,Oppidum de roquefavour,ruins,Aix-en-Provence,,,,43.5204706,5.3136548
+11836003243,node,Mémorial Jean Moulin,artwork,Aix-en-Provence,,,,43.6652572,5.0951108
+11850614210,node,Parc de la Garenne,park,Aix-en-Provence,"Chemin de la Garenne, 13880, Velaux",13880,,43.5241467,5.2525954
+11862393424,node,Atelier-galerie de peinture Bérengère Badi,gallery,Aix-en-Provence,,,,43.5304204,5.4507663
 11874190075,node,Le four sous le platane,restaurant,Aix-en-Provence,"31 Rue de la Couronne, 13100, Aix-en-Provence",13100,,43.5282177,5.4454835
 11888609895,node,Les Terrasses du Sun,restaurant,Aix-en-Provence,"165 Chemin de la Valette, 13290, Les Milles",13290,https://lesterrassesdusun.fr/,43.4985125,5.378298
 11892029123,node,Le Palais d'Asie,restaurant,Aix-en-Provence,,,,43.6406241,5.0947133
@@ -472,119 +816,202 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 11897192880,node,Brasserie Vitalis,restaurant,Aix-en-Provence,"24 Cours Victor Leydet, 13710, Fuveau",13710,,43.4541699,5.5627029
 11898754419,node,Kwetu,restaurant,Aix-en-Provence,,,https://kwetu.fr/,43.6364527,5.0993823
 11898754421,node,Hai Sushi,restaurant,Aix-en-Provence,,,https://haisushi.fr/,43.6363304,5.0994225
+11914077823,node,,memorial,Aix-en-Provence,,,,43.4291173,5.4415231
 11919526188,node,Valeria - Le Clan des Mammas,restaurant,Aix-en-Provence,"20 Forum des Cardeurs, 13100, Aix-en-Provence",13100,https://www.leclandesmamma.com/restaurant/valeria/,43.5302373,5.4468089
-11926839349,node,Pause Plaisir,restaurant,Aix-en-Provence,,,,43.5297347,5.4433902
+11926839349,node,Pause Plaisir,restaurant,Aix-en-Provence,6 Rue Vanloo,,,43.5297347,5.4433902
 11934424562,node,Enjoy Sushi,restaurant,Aix-en-Provence,"297 Rue Jean-Pierre Saez, 13100, Aix-en-Provence",13100,,43.4858346,5.3486516
 11936684507,node,Le Kafoutche,restaurant,Aix-en-Provence,"Chemin de l'Héritière, 13122, Ventabren",13122,https://le-kafoutche.carrd.co,43.5488605,5.2950425
+11951935107,node,,viewpoint,Aix-en-Provence,,,,43.4506029,5.4134129
+11958148486,node,,memorial,Aix-en-Provence,,,,43.598377,5.484748
 11966392933,node,Les Zèles 114,restaurant,Aix-en-Provence,"Aérodrome Aix Les Milles Bâtiment A01 Chemin de la Badesse, 13290, Aix-en-Provence",13290,https://www.leszeles114.fr/,43.5025643,5.3727728
 11970512114,node,Le Comptoir du Parc,restaurant,Aix-en-Provence,"350 Avenue Jean-René Guillibert Gauthier de la Lauzière, Parc du Golf, 13290, Aix-en-Provence",13290,https://www.nosrestaurantslecomptoir.com/accueil-le-comptoir-du-parc,43.4840534,5.3625754
 11990048818,node,L'Assiette Bio,restaurant,Aix-en-Provence,,,,43.730372,5.1672639
 12002733867,node,Le Delicatessen,restaurant,Aix-en-Provence,,,,43.6393933,5.0961204
 12009198663,node,L'entrecôte du château,restaurant,Aix-en-Provence,,,,43.6398607,5.0960931
 12049556340,node,Il Jomelia,restaurant,Aix-en-Provence,"1248 Chemin du Vallon des Brayes, 13880, Velaux",13880,https://le-kiosque-italien.fr,43.5172706,5.2323831
-12083301431,node,Bahn Teo,restaurant,Aix-en-Provence,,,,43.6213772,5.2978759
-12083301432,node,Titi Pizza,restaurant,Aix-en-Provence,,,,43.6211623,5.2983587
-12083301448,node,O'Tropical,restaurant,Aix-en-Provence,,,,43.6196946,5.3034937
-12083318100,node,Pizza Vincent,restaurant,Aix-en-Provence,,,,43.6205281,5.2979068
+12083301431,node,Bahn Teo,restaurant,Aix-en-Provence,8 Place de la Bascule,,,43.6213772,5.2978759
+12083301432,node,Titi Pizza,restaurant,Aix-en-Provence,3 Place de la République,,,43.6211623,5.2983587
+12083301448,node,O'Tropical,restaurant,Aix-en-Provence,75 Avenue Camille Pelletan,,,43.6196946,5.3034937
+12083318100,node,Pizza Vincent,restaurant,Aix-en-Provence,7 Place Gambetta,,,43.6205281,5.2979068
 12083572054,node,Toasty Poke,restaurant,Aix-en-Provence,,,,43.6408856,5.0973711
 12083572059,node,L'Eskal Kréol,restaurant,Aix-en-Provence,,,,43.6408628,5.0973828
 12083572061,node,Kohi-Noor,restaurant,Aix-en-Provence,,,,43.6411067,5.0970651
+12108190197,node,,memorial,Aix-en-Provence,,,,43.7293364,5.2108112
 12112749627,node,Chez Clo,restaurant,Aix-en-Provence,"28 Cours Forbin, 13120, Gardanne",13120,,43.4544682,5.4699094
 12112752780,node,Phan Gia,restaurant,Aix-en-Provence,"36 Cours de la République, 13120, Gardanne",13120,,43.4561876,5.4719225
 12112771256,node,La Grignote,restaurant,Aix-en-Provence,"22 Rue Mignet, 13120, Gardanne",13120,,43.4562104,5.4727544
 12112826765,node,L'atelier Sushi,restaurant,Aix-en-Provence,26 Rue Jules Ferry,,,43.4525078,5.4684399
+12119039789,node,Fresque village de Velaux,artwork,Aix-en-Provence,,,,43.5234818,5.2539882
+12120259009,node,Femmes Celèbres,artwork,Aix-en-Provence,,,,43.5348843,5.2480362
+12120259012,node,Fresque Jean Jaurès,artwork,Aix-en-Provence,,,,43.534435,5.2478223
+12120530911,node,Mémorial Henri Barbusse,memorial,Aix-en-Provence,,,,43.5332757,5.2539931
+12121702339,node,Cabanon de Cézanne,museum,Aix-en-Provence,,,,43.531045,5.5006662
+12122488840,node,Chapellerie L.-A. Cézanne,attraction,Aix-en-Provence,,,,43.5272157,5.4507448
 12122543193,node,La guinguette,restaurant,Aix-en-Provence,,,,43.4419436,5.3797965
+12128993536,node,,garden,Aix-en-Provence,,,,43.5382067,5.4557613
+12167808491,node,,viewpoint,Aix-en-Provence,,,,43.6960387,5.2763526
 12195517271,node,Les Arcades,restaurant,Aix-en-Provence,"Chemin du Coton Rouge, 13100, Aix-en-Provence",13100,,43.5123298,5.4546511
+12208900075,node,Oppidum de Roque Vaoutade,castle,Aix-en-Provence,,,,43.5231966,5.6175234
+12212040897,node,Évasion,artwork,Aix-en-Provence,,,,43.5329767,5.2530899
 12215761665,node,Chez Tony,restaurant,Aix-en-Provence,"Allée Claude Debussy, 13880, Velaux",13880,,43.5339506,5.2511769
+12229553000,node,A-Z’Art,gallery,Aix-en-Provence,,,,43.5387182,5.293242
 12241598286,node,Casa'Hotel,hotel,Aix-en-Provence,,,,43.5275139,5.4413322
 12242007774,node,Hôtel Cardinal,hotel,Aix-en-Provence,"24 Rue Cardinale, Aix-en-Provence",,https://hotel-cardinal-aix.com,43.5255572,5.4517417
+12247212166,node,,memorial,Aix-en-Provence,,,,43.6379469,5.0994775
+12259415796,node,Mémorial Georges Guynemer,memorial,Aix-en-Provence,,,,43.61645,5.111291
+12291499278,node,Vierge,artwork,Aix-en-Provence,,,,43.5378979,5.2930335
+12291516062,node,,memorial,Aix-en-Provence,,,,43.5378351,5.294842
+12291535548,node,Borne 15,artwork,Aix-en-Provence,,,,43.538455,5.2942374
+12302357465,node,Croix Jubilé de l'An 2000,attraction,Aix-en-Provence,,,,43.4195506,5.7053979
 12316093231,node,La Batisse,restaurant,Aix-en-Provence,,,,43.6308652,5.1522439
 12316106341,node,Panamera,restaurant,Aix-en-Provence,"41 Rue Georges Clemenceau, 13330, Pélissanne",13330,,43.6314204,5.1499184
 12316237496,node,A Quoi Pizza,restaurant,Aix-en-Provence,,,,43.6305895,5.1528273
-12331247587,node,Little Sénégal,restaurant,Aix-en-Provence,,,,43.5288477,5.443669
+12316297117,node,Salle Marthe Reversat,gallery,Aix-en-Provence,,,,43.6309157,5.1525296
+12331247587,node,Little Sénégal,restaurant,Aix-en-Provence,32 Cours Sextius,,,43.5288477,5.443669
+12343721188,node,"A Jean Serge Longy, Jacques Pourchelle",memorial,Aix-en-Provence,,,,43.7243911,5.32413
+12346913939,node,Monument Aux Morts,memorial,Aix-en-Provence,,,,43.6304463,5.154392
 12352448239,node,L'Embellie,restaurant,Aix-en-Provence,,,,43.6390684,5.0951135
 12379023252,node,La Cantine,restaurant,Aix-en-Provence,6 Avenue Jean Jaures,,,43.4184686,5.2830136
+12388839417,node,Puit Dubreuil,attraction,Aix-en-Provence,,,,43.41472,5.5603404
 12395081629,node,Pala's Pizza,restaurant,Aix-en-Provence,,,,43.6405912,5.10017
 12423158839,node,L'Italien,restaurant,Aix-en-Provence,,,,43.6358894,5.4192726
 12423158844,node,Francis Mallmann en Provence,restaurant,Aix-en-Provence,,,,43.6357667,5.4197288
 12426224325,node,L'Atelier Charal,restaurant,Aix-en-Provence,,,,43.4716254,5.6437182
+12439968114,node,Nostradamus,artwork,Aix-en-Provence,,,,43.6406995,5.0974971
+12439981482,node,Nostradamus,artwork,Aix-en-Provence,,,,43.6403877,5.0976511
 12462619146,node,Fresh Food,restaurant,Aix-en-Provence,,,,43.6421474,5.0964242
 12462657239,node,La Popote Minute,restaurant,Aix-en-Provence,,,,43.6423942,5.096602
 12462701019,node,Hôtel Régina,hotel,Aix-en-Provence,,,,43.6435611,5.0954381
 12466216197,node,Restaurant Bleu,restaurant,Aix-en-Provence,,,,43.6423355,5.09681
 12466303009,node,Le Cocorico,restaurant,Aix-en-Provence,,,,43.642603,5.0951889
+12467065346,node,,memorial,Aix-en-Provence,,,,43.6381362,5.6347758
+12473624753,node,,artwork,Aix-en-Provence,,,,43.4563751,5.4716528
+12496152938,node,,memorial,Aix-en-Provence,,,,43.4542965,5.470352
 12496282233,node,Italian Food,restaurant,Aix-en-Provence,"2 Place de Gueydan, 13120, Gardanne",13120,,43.4542399,5.4684796
 12496557822,node,La Cantine,restaurant,Aix-en-Provence,"8 Boulevard Carnot, 13120, Gardanne",13120,,43.4544982,5.4677193
 12509286987,node,L’entrée suite,restaurant,Aix-en-Provence,,,,43.49255,5.3545541
 12512804072,node,Nostra Pizza Club,restaurant,Aix-en-Provence,,,,43.4350207,5.4641893
+12516247625,node,,memorial,Aix-en-Provence,,,,43.4563743,5.4716604
+12516985393,node,,memorial,Aix-en-Provence,,,,43.4555552,5.471158
 12518197553,node,Le petit capucci,restaurant,Aix-en-Provence,170 Rue des Monges,,https://lepetitcapucci.fr/,43.4925956,5.354493
+12535040896,node,,viewpoint,Aix-en-Provence,,,,43.4055018,5.4983791
+12535064437,node,,viewpoint,Aix-en-Provence,,,,43.408503,5.4821331
+12539129237,node,Sentier Botanique De Sainte Propice,garden,Aix-en-Provence,,,,43.5208496,5.275801
+12547384206,node,,memorial,Aix-en-Provence,,,,43.4532089,5.4707005
 12549392916,node,L'Étage,restaurant,Aix-en-Provence,"1330 Rue Jean-René Guillibert Gauthier de la Lauzière, 13290, Aix-en-Provence",13290,https://www.labrasserieduparc.com/restaurant-traditionnel-terrasse-pole-activite-aix-en-provence,43.4784523,5.3715837
 12551019179,node,Le Riad,restaurant,Aix-en-Provence,"21 Rue Lieutaud, 13100, Aix-en-Provence",13100,https://www.leriad.com/,43.5293042,5.4450552
 12551524273,node,Le Zinc d'Hugo,restaurant,Aix-en-Provence,"22 Rue Lieutaud, 13100, Aix-en-Provence",13100,https://zinc-hugo.com/,43.5290676,5.4453205
 12551568579,node,Cambarou,restaurant,Aix-en-Provence,"13 Cours Mirabeau, 13100, Aix-en-Provence",13100,https://www.cambarou.fr/,43.52675,5.4468604
+12551631275,node,Cézanne TV,artwork,Aix-en-Provence,,,,43.5348843,5.2998103
 12568591102,node,Domaine Gaogaïa,hotel,Aix-en-Provence,"1075 Chemin du Mont Robert, 13290",13290,,43.4961796,5.3947771
 12568627901,node,Gaodina,restaurant,Aix-en-Provence,"1075 Chemin du Mont Robert, 13290",13290,https://gaodina.com,43.4962866,5.3949529
-12570744629,node,Aji-Sushi,restaurant,Aix-en-Provence,"14 Rue de la Couronne, 13100, Aix-en-Provence",13100,https://ajisushi.fr,43.527688,5.4459406
+12570744629,node,Aji-Sushi,restaurant,Aix-en-Provence,"8 Rue des Bernardines, 13100, Aix-en-Provence",13100,https://ajisushi.fr,43.527688,5.4459406
 12570744632,node,Pasta Luce,restaurant,Aix-en-Provence,"22 Rue de la Couronne, 13100, Aix-en-Provence",13100,,43.527969,5.445755
-12574952897,node,Café de la Fontaine,restaurant,Aix-en-Provence,"13100, Aix-en-Provence",13100,,43.5268797,5.4457348
+12574952897,node,Café de la Fontaine,restaurant,Aix-en-Provence,"2 A Place Jeanne d'Arc, 13100, Aix-en-Provence",13100,,43.5268797,5.4457348
 12576179597,node,No Name,restaurant,Aix-en-Provence,"11 Rue de la Couronne, 13100, Aix-en-Provence",13100,https://www.no-name-restaurant-aix-en-provence.fr/,43.527536,5.4458783
 12576855094,node,Sushi Couronne,restaurant,Aix-en-Provence,"23 Rue de la Couronne, 13100, Aix-en-Provence",13100,,43.5279321,5.4456657
 12576855098,node,Licandro,restaurant,Aix-en-Provence,"18 Rue de la Couronne, 13100, Aix-en-Provence",13100,https://www.licandrolebistro.com/,43.5277643,5.4458674
 12576897596,node,Tonkin,restaurant,Aix-en-Provence,"9 Rue Boulegon, 13100, Aix-en-Provence",13100,,43.5308539,5.44959
 12576908731,node,La Braise,restaurant,Aix-en-Provence,"Rue des Bernardines, 13100, Aix-en-Provence",13100,,43.5276777,5.4455492
 12578709470,node,Betty's Resto,restaurant,Aix-en-Provence,"8 Rue Boulegon, 13100, Aix-en-Provence",13100,https://hcrestaurant.fr/,43.5309038,5.4494686
+12578814623,node,Galerie À,gallery,Aix-en-Provence,"9 Rue Loubon, 13100, Aix-en-Provence",13100,https://www.miriam-hartmann.com/,43.5299491,5.4493549
+12579480876,node,Parallax,gallery,Aix-en-Provence,,,https://www.galerieparallax.fr,43.529969,5.4501107
+12579480878,node,,memorial,Aix-en-Provence,,,,43.5301191,5.4499994
+12579580700,node,,memorial,Aix-en-Provence,,,,43.4564339,5.4780346
 12580247684,node,Les Galinas,restaurant,Aix-en-Provence,,,,43.5305892,5.4497617
+12580247690,node,Galerie Vincent Bercker,gallery,Aix-en-Provence,"10 Rue de Matheron, 13100, Aix-en-Provence",13100,,43.5303826,5.4494128
+12580247693,node,,memorial,Aix-en-Provence,,,,43.5314385,5.44749
 12580259904,node,La Maison du Bistrot,restaurant,Aix-en-Provence,,,,43.5311286,5.4488163
 12582831269,node,Steak 'n Shake,restaurant,Aix-en-Provence,"13170, Les Pennes-Mirabeau",13170,https://steaknshake.fr/,43.4136168,5.3616063
-12584664098,node,La Table Tunisienne,restaurant,Aix-en-Provence,,,,43.5297467,5.4435922
-12589745456,node,Thala,restaurant,Aix-en-Provence,,,,43.5285855,5.4472546
+12584664098,node,La Table Tunisienne,restaurant,Aix-en-Provence,9 Rue Vanloo,,,43.5297467,5.4435922
+12584932931,node,,memorial,Aix-en-Provence,,,,43.5291606,5.4438088
+12589745456,node,Thala,restaurant,Aix-en-Provence,35 Rue Verrerie,,,43.5285855,5.4472546
 12589745457,node,La plume végétale,restaurant,Aix-en-Provence,,,,43.5283437,5.4462539
-12596684113,node,Pizza Bella,restaurant,Aix-en-Provence,"2990 Avenue Thiers, 13320, Bouc Bel Air",13320,https://ciaopizzabella.fr/,43.4474129,5.4327883
+12596684113,node,Pizza Bella,restaurant,Aix-en-Provence,"2936 Avenue Thiers, 13320, Bouc Bel Air",13320,https://ciaopizzabella.fr/,43.4474129,5.4327883
 12597089503,node,Tan Tien,restaurant,Aix-en-Provence,,,,43.4490273,5.3982766
 12600573908,node,,hotel,Aix-en-Provence,,,,43.4409283,5.4331642
 12600573909,node,,restaurant,Aix-en-Provence,,,,43.4409624,5.4332327
-12609349810,node,Miel Sushi,restaurant,Aix-en-Provence,,,,43.5282871,5.4461879
+12609349810,node,Miel Sushi,restaurant,Aix-en-Provence,15 Rue de l'Aumône Vieille,,,43.5282871,5.4461879
 12610759337,node,Le Moulin des Sens,restaurant,Aix-en-Provence,,,,43.6406316,5.0969116
+12619399491,node,Vue du Parking Saint-Jean du Puy,viewpoint,Aix-en-Provence,,,,43.4189058,5.7043938
 12621430030,node,Grand Boise,restaurant,Aix-en-Provence,,,,43.489077,5.6426937
 12621445954,node,Le clos des oliviers,restaurant,Aix-en-Provence,,,,43.5404566,5.1507185
 12628374896,node,O Bistrot Camoin,restaurant,Aix-en-Provence,1 Avenue de la Poste,,,43.4805814,5.6226148
+12631477881,node,Gloire aux Martyrs du Droit,memorial,Aix-en-Provence,,,,43.4808801,5.6222638
+12631477882,node,,artwork,Aix-en-Provence,,,,43.4804192,5.6222446
 12633376495,node,Nino Café,restaurant,Aix-en-Provence,"41 Cours Mirabeau, 13100, Aix-en-Provence",13100,https://www.ninocafe.fr/,43.5270384,5.4493971
+12638485692,node,,memorial,Aix-en-Provence,,,,43.4318809,5.4701009
 12641573713,node,L'éveil du goût,restaurant,Aix-en-Provence,"22 Rue Jean Henri Fabre, 13790, Rousset",13790,,43.4809529,5.6226409
+12647082307,node,Portalis,artwork,Aix-en-Provence,,,,43.5283848,5.4507742
+12647082308,node,Simeon,artwork,Aix-en-Provence,,,,43.5286101,5.450868
 12648172843,node,,restaurant,Aix-en-Provence,,,,43.4536566,5.5620992
+12657382894,node,,memorial,Aix-en-Provence,,,,43.4548184,5.5627814
+12657382895,node,,viewpoint,Aix-en-Provence,,,,43.4554593,5.5623863
+12670449675,node,,memorial,Aix-en-Provence,,,,43.4312198,5.5446056
+12670853746,node,Le Rocher,artwork,Aix-en-Provence,,,https://bureaudesguides-gr2013.fr/hospitalite-le-rocher/?parent_id=9555h,43.4912553,5.3061926
 12691306964,node,Bistro Burger,restaurant,Aix-en-Provence,"ZAC Avon, 13120, Gardanne",13120,https://www.bistroburger-gardanne.fr/,43.4467492,5.4578503
+12709873666,node,,memorial,Aix-en-Provence,,,,43.630045,5.1760634
 12712739057,node,,restaurant,Aix-en-Provence,,,,43.6178158,5.3088118
+12720202304,node,,memorial,Aix-en-Provence,,,,43.4142621,5.5048043
+12722639605,node,Maison de la Mémoire,museum,Aix-en-Provence,,,,43.4142153,5.5044796
+12722639606,node,,memorial,Aix-en-Provence,,,,43.4142085,5.5044662
+12723739190,node,,viewpoint,Aix-en-Provence,,,,43.4146675,5.5040434
+12723745846,node,,memorial,Aix-en-Provence,,,,43.4144121,5.5046457
+12723745867,node,,memorial,Aix-en-Provence,,,,43.4146813,5.504083
 12731974578,node,Yan Sushi,restaurant,Aix-en-Provence,,,,43.4606659,5.3530639
+12742840842,node,,artwork,Aix-en-Provence,,,,43.5218898,5.5127065
+12745018989,node,,memorial,Aix-en-Provence,,,,43.5266241,5.4364188
 12745029690,node,Le Milan'O,restaurant,Aix-en-Provence,,,,43.4643062,5.4851349
+12752227880,node,,memorial,Aix-en-Provence,,,,43.5241038,5.4599462
+12754460660,node,Space & Time,artwork,Aix-en-Provence,,,,43.4912309,5.3332622
+12754920010,node,,memorial,Aix-en-Provence,,,,43.4567156,5.479408
 12754920025,node,Sushi et Noodles,restaurant,Aix-en-Provence,"48 Avenue Héroult, 13120, Gardanne",13120,,43.4570955,5.4778211
+12760176700,node,,memorial,Aix-en-Provence,,,,43.6120077,5.3235628
 12762811749,node,Le Mas Bottero,restaurant,Aix-en-Provence,,,,43.6087699,5.3302299
-12763168605,node,D'Amour,restaurant,Aix-en-Provence,,,,43.526883,5.4518072
-12763168617,node,La Cantina,restaurant,Aix-en-Provence,,,,43.5272978,5.4517057
+12762868577,node,,memorial,Aix-en-Provence,,,,43.5261767,5.446001
+12762958905,node,,memorial,Aix-en-Provence,,,,43.5265965,5.4491258
+12763168605,node,D'Amour,restaurant,Aix-en-Provence,58 Bis Cours Mirabeau,,,43.526883,5.4518072
+12763168617,node,La Cantina,restaurant,Aix-en-Provence,2 Rue Tournefort,,,43.5272978,5.4517057
 12763168629,node,La Bastide de Paula,restaurant,Aix-en-Provence,"43 Cours Mirabeau, 13100, Aix-en-Provence",13100,https://labastidedepaula.fr/,43.5270623,5.4496552
 12763168634,node,Le Mirabeau,restaurant,Aix-en-Provence,,,,43.5269603,5.4489202
-12768269767,node,Palmyra,restaurant,Aix-en-Provence,"3 Rue Portalis, 13100, Aix-en-Provence",13100,,43.5291909,5.4516918
+12763183900,node,,memorial,Aix-en-Provence,,,,43.5251535,5.4488799
+12763225401,node,,memorial,Aix-en-Provence,,,,43.5251561,5.4489012
+12766596929,node,,memorial,Aix-en-Provence,,,,43.5257613,5.4532859
+12768269767,node,Palmyra,restaurant,Aix-en-Provence,"2 Rue Portalis, 13100, Aix-en-Provence",13100,,43.5291909,5.4516918
+12768269768,node,,memorial,Aix-en-Provence,,,,43.5292699,5.4516807
 12768358514,node,Palmyra,restaurant,Aix-en-Provence,"2 Rue Portalis, 13100, Aix-en-Provence",13100,,43.5292734,5.451641
 12768358515,node,Ao,restaurant,Aix-en-Provence,"Rue Portalis, 13100, Aix-en-Provence",13100,,43.5293038,5.4518184
 12768449789,node,Le Rituel,restaurant,Aix-en-Provence,,,,43.6367325,5.1740777
 12769105365,node,Da Aldo,restaurant,Aix-en-Provence,"14 Rue Portalis, 13100, Aix-en-Provence",13100,https://trattoria-da-aldo.cover.page/fr,43.5292727,5.4522423
 12769106475,node,Le Jasmin,restaurant,Aix-en-Provence,"6 Rue de la Fonderie, 13100, Aix-en-Provence",13100,,43.5291841,5.4534693
-12769117939,node,Hotel des Arts,hotel,Aix-en-Provence,,,,43.5293001,5.4535557
+12769117939,node,Hotel des Arts,hotel,Aix-en-Provence,3 Rue de la Fonderie,,,43.5293001,5.4535557
+12773036701,node,Trou de la lune,viewpoint,Aix-en-Provence,,,,43.5965924,5.6132351
 12773036801,node,Chambres d'hôtes Le Catalan,hotel,Aix-en-Provence,"1550 Chemin de Blanchon, 13490",13490,https://www.le-catalan.com/,43.6199514,5.6163992
 12773036901,node,Chambres d'hôtes Le Catalan,hotel,Aix-en-Provence,"1550 Chemin de Blanchon, 13490",13490,https://www.le-catalan.com/,43.621263,5.6165371
+12773140870,node,,memorial,Aix-en-Provence,,,,43.5281872,5.4511454
 12778507550,node,Caffé Cardeurs,restaurant,Aix-en-Provence,,,,43.5302545,5.4469977
 12779413732,node,Breakfast Club,restaurant,Aix-en-Provence,,,https://www.breakfastclubfrance.com,43.5260241,5.452397
-12779872890,node,Coucou,restaurant,Aix-en-Provence,,,https://www.coucou-aix.fr,43.5296384,5.4469717
-12779932812,node,La Casa des Jumelles,restaurant,Aix-en-Provence,"20 Rue des Cordeliers, 13100, Aix-en-Provence",13100,,43.529609,5.4467149
+12779805458,node,,memorial,Aix-en-Provence,,,,43.5262176,5.450763
+12779872890,node,Coucou,restaurant,Aix-en-Provence,4 Rue des Cordeliers,,https://www.coucou-aix.fr,43.5296384,5.4469717
+12779932812,node,La Casa des Jumelles,restaurant,Aix-en-Provence,"22 Rue des Cordeliers, 13100, Aix-en-Provence",13100,,43.529609,5.4467149
 12779932817,node,enjoysushi,restaurant,Aix-en-Provence,,,,43.5295707,5.4447166
+12809621448,node,Stèle de l'aviateur canadien,memorial,Aix-en-Provence,,,,43.4648289,5.5642107
+12827047975,node,,memorial,Aix-en-Provence,,,,43.4550302,5.4692465
 12828657234,node,Il était une fois,restaurant,Aix-en-Provence,,,,43.528735,5.4453466
 12828657235,node,Chez Hanson,restaurant,Aix-en-Provence,6 Rue Lieutaud,,,43.5288195,5.4453534
 12840348088,node,Pema,restaurant,Aix-en-Provence,,,,43.529559,5.4471506
+12842804442,node,space invader,artwork,Aix-en-Provence,,,,43.5285287,5.4431706
 12851370628,node,Le Rendez-vous,restaurant,Aix-en-Provence,,,,43.4538355,5.5451538
+12863234614,node,Galerie le Container,gallery,Aix-en-Provence,,,,43.5296704,5.4490516
 12863238548,node,Taster,restaurant,Aix-en-Provence,,,,43.5290319,5.4442364
+12863254451,node,,memorial,Aix-en-Provence,,,,43.528563,5.447726
 12863261449,node,Yves,restaurant,Aix-en-Provence,,,,43.5282145,5.4439961
-12863300625,node,Fatto Bene,restaurant,Aix-en-Provence,,,,43.5275467,5.4463699
+12863300625,node,Fatto Bene,restaurant,Aix-en-Provence,11 Rue Isolette,,,43.5275467,5.4463699
 12863356897,node,Tay Lai,restaurant,Aix-en-Provence,16 Rue des Marseillais,,,43.5290854,5.4469575
 12879075901,node,L'atelier des Saisons,restaurant,Aix-en-Provence,,,,43.5277156,5.4507173
+12881263457,node,,memorial,Aix-en-Provence,,,,43.4538743,5.557983
 12884020048,node,Pizza Caffé,restaurant,Aix-en-Provence,,,,43.4539053,5.5585006
+12895410300,node,,viewpoint,Aix-en-Provence,,,,43.4544243,5.5611235
 12901877417,node,Chez Cam,restaurant,Aix-en-Provence,,,,43.6416646,5.0982394
 12901879849,node,Le Riad,restaurant,Aix-en-Provence,,,,43.6370477,5.0995634
 12901882009,node,Pasta Moules,restaurant,Aix-en-Provence,,,,43.6374892,5.0994274
@@ -592,36 +1019,39 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 12914271207,node,SD sushi,restaurant,Aix-en-Provence,1 Rue Buscaille,,,43.5307556,5.4494388
 12921774813,node,La Bonne Brise,restaurant,Aix-en-Provence,1600 Avenue de Provence,,https://www.restaurant-labonnebrise.fr/,43.4259156,5.3294004
 12945378252,node,Le Bouillon Aixois,restaurant,Aix-en-Provence,29 Rue de la Couronne,,,43.5281552,5.4455064
-12947062309,node,Arom,restaurant,Aix-en-Provence,,,https://www.arom-restaurant.fr/fr,43.5272312,5.4466247
+12947062309,node,Arom,restaurant,Aix-en-Provence,44 Rue Espariat,,https://www.arom-restaurant.fr/fr,43.5272312,5.4466247
 12947065019,node,Maison Daniel,restaurant,Aix-en-Provence,7 Rue du Maréchal Foch,,,43.5294471,5.4476855
+12947167448,node,,memorial,Aix-en-Provence,,,,43.4777258,5.5384715
 12949916454,node,Pat'A Pizz,restaurant,Aix-en-Provence,,,,43.4470912,5.5658949
 12952249475,node,Le Singe Vert,restaurant,Aix-en-Provence,15 Cours Mirabeau,,,43.5266972,5.4470344
 12960668618,node,Folia,restaurant,Aix-en-Provence,,,,43.529825,5.447
 12987814399,node,BChef,restaurant,Aix-en-Provence,,,,43.4696202,5.6552889
 12987879552,node,Tasty & Co,restaurant,Aix-en-Provence,,,,43.4715251,5.6436296
 12995346364,node,La Maison des Raviolis,restaurant,Aix-en-Provence,,,,43.5289639,5.4470867
-13006965192,node,Shakespeare,restaurant,Aix-en-Provence,,,,43.5282205,5.4467926
-13006965194,node,Tredici Pizzeria,restaurant,Aix-en-Provence,,,,43.5281381,5.4472129
-13006965195,node,Arev,restaurant,Aix-en-Provence,,,,43.5282026,5.4469156
+13006965192,node,Shakespeare,restaurant,Aix-en-Provence,9 Place Ramus,,,43.5282205,5.4467926
+13006965194,node,Tredici Pizzeria,restaurant,Aix-en-Provence,25 Rue Bédarrides,,,43.5281381,5.4472129
+13006965195,node,Arev,restaurant,Aix-en-Provence,3 Place Ramus,,,43.5282026,5.4469156
 13029460613,node,Azimut,restaurant,Aix-en-Provence,,,,43.5304745,5.4478224
 13029460616,node,Kiwa,restaurant,Aix-en-Provence,,,,43.5304329,5.4484398
 13029799952,node,Flic En Flac,restaurant,Aix-en-Provence,,,,43.5310188,5.4496845
-13029799957,node,Charlie,restaurant,Aix-en-Provence,,,,43.5311629,5.4502031
+13029799957,node,Charlie,restaurant,Aix-en-Provence,36 Rue Boulegon,,,43.5311629,5.4502031
 13029799963,node,Bistro Wu,restaurant,Aix-en-Provence,,,,43.5309393,5.4497788
 13029799966,node,Las Casas,restaurant,Aix-en-Provence,,,,43.5310921,5.4503466
-13029799968,node,Asia Food,restaurant,Aix-en-Provence,,,,43.5311463,5.4505417
-13031949799,node,La Kemia,restaurant,Aix-en-Provence,,,,43.5284273,5.4472657
-13031949800,node,La Verrerie,restaurant,Aix-en-Provence,,,https://laverrerieaix.eatbu.com/?lang=fr,43.5287172,5.4472295
+13029799968,node,Asia Food,restaurant,Aix-en-Provence,35 Rue Boulegon,,,43.5311463,5.4505417
+13031779705,node,,memorial,Aix-en-Provence,,,,43.4419876,5.3790697
+13031949799,node,La Kemia,restaurant,Aix-en-Provence,44 Rue Verrerie,,,43.5284273,5.4472657
+13031949800,node,La Verrerie,restaurant,Aix-en-Provence,31 Rue Verrerie,,https://laverrerieaix.eatbu.com/?lang=fr,43.5287172,5.4472295
 13031972704,node,Alibaba,restaurant,Aix-en-Provence,,,,43.528965,5.4466813
-13034365413,node,Tchang Les Nouilles Vivantes,restaurant,Aix-en-Provence,,,https://lesnouillesvivantes.fr/,43.5287921,5.4470022
+13034365413,node,Tchang Les Nouilles Vivantes,restaurant,Aix-en-Provence,39 Rue Félibre Gaut,,https://lesnouillesvivantes.fr/,43.5287921,5.4470022
 13034365414,node,Empanadas Club,restaurant,Aix-en-Provence,,,https://www.empanadasclub.com/empanadas-club-aix-en-provence-restaurant-argentin,43.5289031,5.4468614
-13034365415,node,La Cita,restaurant,Aix-en-Provence,,,https://lacita.fr/,43.5290303,5.4466133
-13039787484,node,Piacere,restaurant,Aix-en-Provence,,,,43.5276261,5.4461576
-13039804498,node,La Cabane En Ville,restaurant,Aix-en-Provence,,,,43.5289359,5.4453322
+13034365415,node,La Cita,restaurant,Aix-en-Provence,16 Rue Félibre Gaut,,https://lacita.fr/,43.5290303,5.4466133
+13039787484,node,Piacere,restaurant,Aix-en-Provence,6 Rue des Bernardines,,,43.5276261,5.4461576
+13039804498,node,La Cabane En Ville,restaurant,Aix-en-Provence,8 Rue Lieutaud,,,43.5289359,5.4453322
 13056517718,node,Edykos,restaurant,Aix-en-Provence,,,,43.5283141,5.4450008
 13056574854,node,Chez Annie,restaurant,Aix-en-Provence,,,,43.5076597,5.4141481
-13056774118,node,La station,restaurant,Aix-en-Provence,,,,43.5304009,5.4483512
-13069408154,node,Mamone,restaurant,Aix-en-Provence,,,,43.5251862,5.4540337
+13056774118,node,La station,restaurant,Aix-en-Provence,4 Rue Paul Bert,,,43.5304009,5.4483512
+13061420933,node,Galerie Nea,gallery,Aix-en-Provence,,,https://www.galerienea.com,43.5299081,5.4497573
+13069408154,node,Mamone,restaurant,Aix-en-Provence,65 Rue d'Italie,,,43.5251862,5.4540337
 13069420176,node,Gnocchi della Nonna,restaurant,Aix-en-Provence,,,,43.5265367,5.4524811
 13069690701,node,L’'instant cosy,restaurant,Aix-en-Provence,,,,43.4797429,5.3821976
 13095875399,node,Luberon Parc,restaurant,Aix-en-Provence,,,,43.7141086,5.2454994
@@ -631,26 +1061,74 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 13116115122,node,Le Solaïa,restaurant,Aix-en-Provence,,,,43.4625164,5.5973709
 13118962873,node,École de pizza de John BERGH,restaurant,Aix-en-Provence,"9 Cours des Alpes, 13650, Meyrargues",13650,,43.6372293,5.528272
 13121549693,node,Les Michels Restaurant,restaurant,Aix-en-Provence,"7 Rue du Chêne de Louiset, 13790, Peynier",13790,https://www.restaurantlesmichels.fr,43.4475809,5.6017916
+13126376994,node,Loutre d'Asie,attraction,Aix-en-Provence,,,,43.6231182,5.2089996
+13126376995,node,Binturong,attraction,Aix-en-Provence,,,,43.6231729,5.2089644
+13126755419,node,Alpaga,attraction,Aix-en-Provence,,,,43.6254984,5.2080356
+13126755420,node,Rhinocéros Blanc,attraction,Aix-en-Provence,,,,43.6262468,5.2064432
+13126755421,node,Oryx Beïsa,attraction,Aix-en-Provence,,,,43.6260289,5.2066527
+13126755422,node,Gnou Bleu,attraction,Aix-en-Provence,,,,43.6261898,5.2070442
+13127723817,node,Watusi,attraction,Aix-en-Provence,,,,43.6237253,5.2101894
+13127723818,node,Yack,attraction,Aix-en-Provence,,,,43.6234322,5.2117613
+13127723819,node,Mouton Karakul,attraction,Aix-en-Provence,,,,43.6233673,5.2120676
 13131467530,node,Acampa,restaurant,Aix-en-Provence,,,,43.4695404,5.5976945
+13132447549,node,Gazelle,attraction,Aix-en-Provence,,,,43.6260636,5.2082644
+13132447550,node,Autruche,attraction,Aix-en-Provence,,,,43.6261456,5.2085719
+13133735556,node,Flamant du Chili,attraction,Aix-en-Provence,,,,43.6228957,5.2118339
+13134378158,node,Dromadaire,attraction,Aix-en-Provence,,,,43.6221482,5.2134916
+13134378160,node,Âne de Provence,attraction,Aix-en-Provence,,,,43.6220112,5.2138018
+13134432685,node,,viewpoint,Aix-en-Provence,,,,43.6237751,5.2072466
 13136371163,node,Le Bistrot Lou Pais,restaurant,Aix-en-Provence,"RN 96, Quartier de la Grange, 13650, Meyrargues",13650,,43.6428039,5.5422065
+13136394578,node,Strength with 24K gold leaf suit & skippers,artwork,Aix-en-Provence,,,,43.5266993,5.4493206
+13136412781,node,Aix-en-Provence : à ses enfants morts pour la Patrie,artwork,Aix-en-Provence,,,,43.5268476,5.444683
 13143061201,node,Maison Sainte-Victoire,restaurant,Aix-en-Provence,,,,43.5191344,5.5839208
+13161891835,node,,artwork,Aix-en-Provence,,,,43.4795664,5.6204297
 13171634079,node,Biga Pizza Rousset,restaurant,Aix-en-Provence,6 Rue du Four,,,43.4821025,5.6225839
+13173190496,node,,viewpoint,Aix-en-Provence,,,,43.6319907,5.5273489
+13185824221,node,,artwork,Aix-en-Provence,,,,43.4911152,5.354532
 13188564427,node,La Galinière,restaurant,Aix-en-Provence,,,,43.4893568,5.5898136
+13192521436,node,Musée Arteum,museum,Aix-en-Provence,,,,43.4890206,5.5692521
+13195679521,node,,artwork,Aix-en-Provence,,,,43.4887041,5.5653425
+13200935286,node,Sous-Lieutenant Campagnole,memorial,Aix-en-Provence,,,https://www.aerosteles.net/stelefr-lanconprovence-campagnole,43.5744779,5.1305075
+13236497123,node,,artwork,Aix-en-Provence,,,,43.7289125,5.1800615
+13238853183,node,,memorial,Aix-en-Provence,,,,43.4868637,5.494115
+13250052695,node,,artwork,Aix-en-Provence,,,,43.6375685,5.4137137
+13252316262,node,La Montagne Sainte-Victoire au-dessus de la route du Tholonet,artwork,Aix-en-Provence,,,,43.522235,5.5144049
+13252359917,node,Château Noir,artwork,Aix-en-Provence,,,,43.5222954,5.514449
+13252383495,node,À Paul Cezannc,memorial,Aix-en-Provence,,,,43.5222101,5.5144015
+13265005170,node,,artwork,Aix-en-Provence,,,,43.5445494,5.4441914
+13265005171,node,,artwork,Aix-en-Provence,,,,43.5445348,5.4441888
+13265005172,node,,artwork,Aix-en-Provence,,,,43.5445209,5.4441875
+13265005173,node,,artwork,Aix-en-Provence,,,,43.5445093,5.4441912
+13265005174,node,,artwork,Aix-en-Provence,,,,43.5444974,5.444197
+13265005175,node,,artwork,Aix-en-Provence,,,,43.5444875,5.4442044
+13265769193,node,Morts 14-18,memorial,Aix-en-Provence,,,,43.6340116,5.1513554
+13267106369,node,,memorial,Aix-en-Provence,,,,43.4852734,5.4178718
 13289133552,node,Naia,restaurant,Aix-en-Provence,,,,43.5073702,5.4063357
+13296906447,node,,viewpoint,Aix-en-Provence,,,,43.384321,5.4280892
 13306346391,node,La Bella Vista Restaurant,restaurant,Aix-en-Provence,,,,43.4362535,5.5406983
 13307904818,node,L'Art des Mets,restaurant,Aix-en-Provence,"9 Avenue Saint-Véredème, 13430, Eyguières",13430,https://www.restaurant-artdesmets.fr/,43.6934184,5.028459
 13307910730,node,La table des frangins,restaurant,Aix-en-Provence,"6 Avenue Saint-Véredème, 13430, Eyguières",13430,https://www.latabledesfrangins.fr/,43.693351,5.0288507
 13308251691,node,D'sushis,restaurant,Aix-en-Provence,,,,43.4335557,5.5404342
+13308269322,node,,viewpoint,Aix-en-Provence,,,,43.4331285,5.5358479
 13311356316,node,Original,restaurant,Aix-en-Provence,,,,43.4309096,5.5439137
 13313160137,node,Les Petites Cantines (Aix),restaurant,Aix-en-Provence,"Place Victor Schoelcher, 13090, Aix-en-Provence",13090,https://aix-en-provence.lespetitescantines.org/,43.5262748,5.4145888
+13313665748,node,Oppidum du Salounet,ruins,Aix-en-Provence,,,,43.6527728,5.1282329
+13313702465,node,villa gallo-romaine,ruins,Aix-en-Provence,,,,43.6252011,5.1414505
+13313702466,node,Via Aurelia,ruins,Aix-en-Provence,,,,43.6253956,5.1416119
+13338224630,node,,artwork,Aix-en-Provence,,,,43.5235379,5.4389201
+13358823175,node,,viewpoint,Aix-en-Provence,,,,43.6943716,5.014117
+13358823186,node,,viewpoint,Aix-en-Provence,,,,43.6947003,5.0141092
+13358843750,node,,viewpoint,Aix-en-Provence,,,,43.6955055,5.012918
 13359292247,node,Station Pizza,restaurant,Aix-en-Provence,10 Avenue des Rhododendrons Biver,,,43.4334436,5.4663189
 13381834981,node,Bacao,restaurant,Aix-en-Provence,,,,43.4611986,5.4815457
 13383312209,node,La Parenthèse,restaurant,Aix-en-Provence,,,,43.4555763,5.4669369
 13417783786,node,Indiana Café,restaurant,Aix-en-Provence,"Avenue du Plan de Campagne, 13170, Les Pennes-Mirabeau",13170,https://www.indianacafe.fr/restaurant/plan-de-campagne,43.4139761,5.361942
 13418599342,node,Moun's,restaurant,Aix-en-Provence,15 Avenue Roger Guigon,,,43.4288688,5.4365263
 13418599343,node,,restaurant,Aix-en-Provence,,,,43.4292104,5.4387518
+13440332900,node,,memorial,Aix-en-Provence,,,,43.4582052,5.3523697
 13456007701,node,,hotel,Aix-en-Provence,,,https://chateaudelagaude.com/?ved=2ahUKEwjSyPm19oqSAxU8AvsDHTaUOygQgU96BQiWARAE,43.568847,5.4784707
-13456008001,node,Chateau De La Gaude,hotel,Aix-en-Provence,,,https://chateaudelagaude.com/?ved=2ahUKEwjSyPm19oqSAxU8AvsDHTaUOygQgU96BQiWARAE,43.568847,5.4784707
+13456008001,node,Chateau De La Gaude,hotel,Aix-en-Provence,3959 Route des Pinchinats,,https://chateaudelagaude.com/?ved=2ahUKEwjSyPm19oqSAxU8AvsDHTaUOygQgU96BQiWARAE,43.568847,5.4784707
+13470831570,node,,memorial,Aix-en-Provence,,,,43.4656383,5.3529719
 13506661185,node,Le Cœur de Jade,restaurant,Aix-en-Provence,5 Rue Charles Duchesne,,,43.4916927,5.3707876
 13506675133,node,Sapporo,restaurant,Aix-en-Provence,,,,43.4917328,5.3708478
 13506840539,node,,restaurant,Aix-en-Provence,,,,43.4848565,5.4195872
@@ -660,14 +1138,18 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 13506840565,node,Tra Vinh,restaurant,Aix-en-Provence,27 Route Ancienne Route Nationale 8,,,43.4849159,5.4192346
 13506842582,node,Le P'tit Midi,restaurant,Aix-en-Provence,,,,43.4916125,5.3707037
 13506885658,node,La Mie Dinette,restaurant,Aix-en-Provence,,,,43.4914662,5.3709699
+13515860459,node,,memorial,Aix-en-Provence,,,,43.5389427,5.2922849
+13516392746,node,,memorial,Aix-en-Provence,,,,43.5377648,5.2948316
 13516774854,node,Mesa,restaurant,Aix-en-Provence,,,,43.5293727,5.4504671
-13516864826,node,Frères Brioche,restaurant,Aix-en-Provence,,,,43.5307826,5.4494317
-13521940692,node,Sarriette,restaurant,Aix-en-Provence,,,,43.5290553,5.4529844
-13521946900,node,Moment,restaurant,Aix-en-Provence,,,,43.5290986,5.452999
-13522005429,node,Nangadef,restaurant,Aix-en-Provence,,,,43.5292661,5.4530704
+13516864826,node,Frères Brioche,restaurant,Aix-en-Provence,3 Rue Boulegon,,,43.5307826,5.4494317
+13518011410,node,Vue de la Croix du Jubilé de l'An 2000,viewpoint,Aix-en-Provence,,,,43.4195502,5.7053518
+13521940692,node,Sarriette,restaurant,Aix-en-Provence,23 Rue Lacépède,,,43.5290553,5.4529844
+13521946900,node,Moment,restaurant,Aix-en-Provence,25 Rue Lacépède,,,43.5290986,5.452999
+13522005429,node,Nangadef,restaurant,Aix-en-Provence,29 Place Joachim Gasquet,,,43.5292661,5.4530704
 13525140555,node,Restaurant des Muriers,restaurant,Aix-en-Provence,,,,43.4432392,5.3977231
 13525140558,node,Pizzeria Amulino,restaurant,Aix-en-Provence,,,https://www.pizzeria-amulino.fr/,43.4489778,5.3982437
-13525910706,node,le Boui Boui,restaurant,Aix-en-Provence,,,,43.5309982,5.4491518
+13525910706,node,le Boui Boui,restaurant,Aix-en-Provence,"1 Rue du Puits Neuf, 13100, Aix-en-Provence",13100,https://lebouibouiaix.fr/,43.5309982,5.4491518
+13532227170,node,,memorial,Aix-en-Provence,,,,43.5306349,5.4550361
 13535224942,node,Royal Kechmara,restaurant,Aix-en-Provence,"Chemin des Rigons, 13170, Les Pennes-Mirabeau",13170,https://royalkechmara.fr/,43.4141891,5.3618113
 13535224944,node,Paradis du Fruit,restaurant,Aix-en-Provence,,,https://www.leparadisdufruit.fr/,43.4141112,5.3618718
 13535224945,node,Steak‘n Shake,restaurant,Aix-en-Provence,"Chemin des Rigons, 13170, Les Pennes-Mirabeau",13170,https://contact45464.wixsite.com/steaknshakepdc/menu,43.4139085,5.3620276
@@ -677,6 +1159,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 13535224952,node,Heiko,restaurant,Aix-en-Provence,,,https://www.heiko-poke.com/plan-de-campagne/,43.4140146,5.362047
 13542870571,node,Istanbul Lounge,restaurant,Aix-en-Provence,"128 Rue Pierre Pierrel, 13480, Cabriès",13480,,43.4191279,5.3578327
 13544695568,node,Bistro Régent,restaurant,Aix-en-Provence,"Chemin des Pennes aux Pins, Les Pennes-Mirabeau",,https://bistro-regent.fr,43.4132391,5.3637632
+13564053310,node,Le Castellas,castle,Aix-en-Provence,,,https://omc-la-fare.fr/le-castellas/,43.5596089,5.2061344
 13565389299,node,3 Brasseurs,restaurant,Aix-en-Provence,"Chemin de la Grande Campagne 13480 Cabriès, 13480, Cabriès",13480,,43.4206231,5.3603947
 13568148266,node,Sushi Food Truck Plan de Campagne,restaurant,Aix-en-Provence,"417 Avenue Barreau Nord-Sud, 13480, Cabriès",13480,,43.4185541,5.3631735
 13568298199,node,GAYA Restaurant,restaurant,Aix-en-Provence,"Avenue Étienne Rabattu, 13480, Cabriès",13480,,43.4201811,5.3577301
@@ -688,27 +1171,913 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 13575889695,node,La Brasserie,restaurant,Aix-en-Provence,,,,43.4188028,5.3607387
 13580306774,node,China Express,restaurant,Aix-en-Provence,"135 Rue René Squadroni, 13480, Cabriès",13480,,43.4206553,5.3662501
 13583034557,node,Les Comédiens,restaurant,Aix-en-Provence,,,,43.4211345,5.3582677
+13587674782,node,Wildlife Art And Decoration,gallery,Aix-en-Provence,,,https://www.aurelien-art.com,43.5306214,5.4501919
 13592806760,node,Chez Pia,restaurant,Aix-en-Provence,1480 Avenue d'Arménie,,,43.451109,5.4490099
+13593038040,node,,artwork,Aix-en-Provence,,,,43.45441,5.4703165
 13595429977,node,La Terrasse,restaurant,Aix-en-Provence,,,,43.431819,5.3988982
+13595793010,node,,memorial,Aix-en-Provence,,,,43.4424949,5.4202486
 13606259973,node,,restaurant,Aix-en-Provence,,,,43.511845,5.4853149
 13606259974,node,,restaurant,Aix-en-Provence,,,,43.5096019,5.4898811
+13606263326,node,,artwork,Aix-en-Provence,,,,43.6315281,5.1010871
 13606266916,node,,restaurant,Aix-en-Provence,,,,43.5118952,5.4851739
 13606274593,node,,restaurant,Aix-en-Provence,,,,43.463524,5.6122972
+13607928450,node,,artwork,Aix-en-Provence,,,,43.4494395,5.677685
 13608041715,node,Snack de l'Orient à l'Occident,restaurant,Aix-en-Provence,,,,43.4473729,5.6851438
 13608041719,node,Sushi Kohi Sami's,restaurant,Aix-en-Provence,,,,43.4472468,5.6853034
 13608041723,node,Le Safran,restaurant,Aix-en-Provence,,,,43.4477626,5.6833507
 13608041724,node,Le Patio,restaurant,Aix-en-Provence,,,,43.4476766,5.6851039
+13658824482,node,,memorial,Aix-en-Provence,,,,43.460099,5.3549202
 13666916740,node,Brasserie Léopold,restaurant,Aix-en-Provence,,,,43.5255458,5.4459525
-13686335707,node,Kim d'Asie,restaurant,Aix-en-Provence,,,,43.5267765,5.4532969
+13686335707,node,Kim d'Asie,restaurant,Aix-en-Provence,13 Rue du Maréchal Joffre,,,43.5267765,5.4532969
+13686718638,node,La Galerie Chez Cathy,gallery,Aix-en-Provence,,,,43.530453,5.4493633
 13701085660,node,,restaurant,Aix-en-Provence,,,,43.4725054,5.6139445
+13705512187,node,,artwork,Aix-en-Provence,,,,43.5261505,5.444352
+13707473655,node,,artwork,Aix-en-Provence,,,,43.6321415,5.418155
+13707499533,node,,artwork,Aix-en-Provence,,,,43.6316052,5.4188
+13707521627,node,,artwork,Aix-en-Provence,,,,43.6313207,5.4190257
+13707521628,node,,artwork,Aix-en-Provence,,,,43.6313594,5.4196912
+13707601089,node,,artwork,Aix-en-Provence,,,,43.6301223,5.4154371
+13707601092,node,,artwork,Aix-en-Provence,,,,43.6303579,5.4151877
+13707667530,node,,artwork,Aix-en-Provence,,,,43.6302262,5.4157479
+13707672525,node,,artwork,Aix-en-Provence,,,,43.6300421,5.4158519
+13707675641,node,,viewpoint,Aix-en-Provence,,,,43.6304668,5.4146946
+13707687752,node,,artwork,Aix-en-Provence,,,,43.6318888,5.4154399
+13707690971,node,,artwork,Aix-en-Provence,,,,43.6303756,5.4146105
+13707691078,node,,artwork,Aix-en-Provence,,,,43.6310914,5.415376
+13707703420,node,,artwork,Aix-en-Provence,,,,43.6355089,5.4176005
+13707704926,node,,artwork,Aix-en-Provence,,,,43.6319834,5.416117
+13707721327,node,,artwork,Aix-en-Provence,,,,43.6351078,5.4187807
+13708298876,node,,artwork,Aix-en-Provence,,,,43.6365203,5.4175608
+13708365652,node,,artwork,Aix-en-Provence,,,,43.6351497,5.4154668
+13708425673,node,,artwork,Aix-en-Provence,,,,43.634937,5.4174609
+13708501556,node,,artwork,Aix-en-Provence,,,,43.6357669,5.4170648
+13708521616,node,,artwork,Aix-en-Provence,,,,43.6354375,5.4193875
+13708931541,node,Galerie Bastide,gallery,Aix-en-Provence,,,,43.6359966,5.4189708
+13708943060,node,Galerie des Anciens Chais,gallery,Aix-en-Provence,,,,43.6362503,5.4196072
+13709114348,node,,viewpoint,Aix-en-Provence,,,,43.4307192,5.3536535
 13713381763,node,Joliane,restaurant,Aix-en-Provence,,,,43.6275504,5.1144011
+13713900405,node,Oak Room,artwork,Aix-en-Provence,,,,43.6302604,5.4182873
+13713911440,node,,artwork,Aix-en-Provence,,,,43.6350428,5.4173178
+13713911441,node,,artwork,Aix-en-Provence,,,,43.6350773,5.4174963
 13718235395,node,Logis Hôtel Déjeunez sous l'Arbre,hotel,Aix-en-Provence,,,,43.4726488,5.6138244
 13722783895,node,Ferme auberge Terre de Mistral,restaurant,Aix-en-Provence,,,,43.4706988,5.6283931
 13727301291,node,,restaurant,Aix-en-Provence,,,,43.7133994,5.1883167
+13730573835,node,,memorial,Aix-en-Provence,,,,43.524972,5.682611
+13730657991,node,,memorial,Aix-en-Provence,,,,43.6452059,5.577721
+13746156796,node,,memorial,Aix-en-Provence,,,,43.503,5.383082
+13746210582,node,,memorial,Aix-en-Provence,,,,43.7051089,5.1721665
+13746213449,node,,memorial,Aix-en-Provence,,,,43.4423867,5.378014
+13746216896,node,,memorial,Aix-en-Provence,,,,43.547519,5.523112
+13760723885,node,,artwork,Aix-en-Provence,,,,43.4481497,5.6391226
 13771243320,node,Les Vieux Couteaux,restaurant,Aix-en-Provence,,,,43.4468214,5.6399846
+13789868501,node,Vue Aqueduc,viewpoint,Aix-en-Provence,,,,43.5188012,5.314084
+13789889802,node,Vue Aqueduc,viewpoint,Aix-en-Provence,,,,43.5184965,5.3126381
 13812234501,node,Le Garden,restaurant,Aix-en-Provence,Route de Berre,,,43.5348622,5.4087431
+13820925073,node,,artwork,Aix-en-Provence,,,,43.4257573,5.624623
+13894291250,node,,memorial,Aix-en-Provence,,,,43.4595291,5.3529628
 13894324335,node,La Station,restaurant,Aix-en-Provence,,,,43.4657923,5.3534623
 13917019276,node,Racine,restaurant,Aix-en-Provence,"95 Route d'Apt, 13480, Cabriès",13480,https://restaurant-racine.fr/,43.4514974,5.3598139
 13918232662,node,Jacquemard,restaurant,Aix-en-Provence,"2 Avenue de Badonviller, 13410, Lambesc",13410,https://www.restaurantjacquemard.fr/,43.6552523,5.2603262
 13930711990,node,Bistro Japon,restaurant,Aix-en-Provence,,,,43.529228,5.4504535
 13947213880,node,Foud,restaurant,Aix-en-Provence,"140 Rue Frédéric Joliot Curie, 13290, Aix-en-Provence",13290,https://foud.com/,43.4891105,5.3788728
+13947740189,node,,memorial,Aix-en-Provence,,,,43.4474666,5.6839791
+23879379,way,Parc Gilbert Vilers,park,Aix-en-Provence,,,,43.5244443,5.4202395
+24529025,way,Parc Jourdan,park,Aix-en-Provence,,,,43.5213332,5.4486866
+25261390,way,Aqueduc de Roquefavour,attraction,Aix-en-Provence,,,,43.5163694,5.3128266
+25583450,way,Parc Saint-Mitre,park,Aix-en-Provence,,,https://www.aixenprovence.fr/Parc-St-Mitre,43.5331497,5.4236697
+27408156,way,Notre-Dame de l'Assomption,monument,Aix-en-Provence,,,,43.6550311,5.2613049
+27429437,way,Traiteur,restaurant,Aix-en-Provence,"38 Avenue Jean Monnet, 13410, Lambesc",13410,,43.6489386,5.2541307
+27653334,way,,park,Aix-en-Provence,,,,43.5220434,5.4410818
+27680397,way,,park,Aix-en-Provence,,,,43.5235706,5.4487073
+28144569,way,GRAM'S Café & Cuisine locale,restaurant,Aix-en-Provence,"3 Route d'Aix, 13410, Lambesc",13410,https://www.gramscafe.fr/,43.6522137,5.263768
+28148011,way,,park,Aix-en-Provence,,,,43.531337,5.4444156
+28168292,way,Place du Général de Gaulle,park,Aix-en-Provence,,,,43.6416759,5.0951812
+28170619,way,Place Jean XXIII,park,Aix-en-Provence,,,,43.6431389,5.0972162
+28813208,way,Restaurant Universitaire Nord,restaurant,Aix-en-Provence,,,,43.5191232,5.4475855
+30377361,way,Jardin Public,garden,Aix-en-Provence,,,,43.5913073,5.1220908
+31483127,way,Village des Automates,theme_park,Aix-en-Provence,"1050 Chemin de la Diligence, 13760, Saint-Cannat",13760,https://www.villagedesautomates.com/,43.6070692,5.3356129
+31508280,way,Brasserie Marius,restaurant,Aix-en-Provence,"29 Rue Grande, 13410, Lambesc",13410,,43.6536505,5.2616211
+31513768,way,L'Ile aux Sandwich,restaurant,Aix-en-Provence,"7 Avenue de Verdun, 13410, Lambesc",13410,,43.653426,5.2653795
+38076764,way,Clinique du Château de Florans,castle,Aix-en-Provence,,,,43.7166813,5.3113293
+44997190,way,Parc Rambot,park,Aix-en-Provence,,,,43.5311554,5.4553187
+44997383,way,Parc de Grassi,park,Aix-en-Provence,"13100, Aix-en-Provence",13100,,43.533251,5.4439939
+44997384,way,Parc Vendôme,park,Aix-en-Provence,,,,43.5308078,5.4422831
+53026492,way,J'M les crêpes,restaurant,Aix-en-Provence,"3 Rue du Chapeau Rouge, 13410, Lambesc",13410,,43.6535704,5.2617635
+53155515,way,Tour du Jacquemard,monument,Aix-en-Provence,,,,43.6538937,5.2617947
+53155516,way,La Tour d'Angkor,restaurant,Aix-en-Provence,"1 Place de la République, 13410, Lambesc",13410,,43.6538586,5.2619052
+53157554,way,Château de Madame Sévigné,castle,Aix-en-Provence,"5 Rue Madame de Sévigné, 13410, Lambesc",13410,,43.653626,5.2624749
+53159005,way,Burger Industry,restaurant,Aix-en-Provence,"5 Rue Eugène Pelletan, 13410, Lambesc",13410,https://www.burgerindustry.fr/menus,43.6532792,5.2627106
+53159611,way,Au Petit Rouquin,restaurant,Aix-en-Provence,"1 bis Rue des Tisseurs, 13410, Lambesc",13410,https://aupetitrouquin.fr/,43.6535286,5.2612615
+53171079,way,Lavoir,monument,Aix-en-Provence,"13410, Lambesc",13410,,43.6553894,5.2616887
+53277279,way,Le Bras d'Or,hotel,Aix-en-Provence,"3 Boulevard Gambetta, 13410, Lambesc",13410,,43.6521878,5.2630379
+53278966,way,Musée des Amis du Vieux Lambesc,museum,Aix-en-Provence,"4 Rue du Jas, 13410, Lambesc",13410,,43.651836,5.2617538
+53356672,way,La Table de Chez Nous,restaurant,Aix-en-Provence,"8 Avenue Jules Ferry, 13410, Lambesc",13410,,43.6521273,5.2653852
+53356884,way,Lavoir,monument,Aix-en-Provence,,,,43.6536631,5.2682329
+53383787,way,Mairie d'Éguilles,attraction,Aix-en-Provence,,,,43.5686132,5.3542067
+53730627,way,Aux Delices De Cathy,restaurant,Aix-en-Provence,"5 Avenue du 8 Mai 1945, 13410, Lambesc",13410,,43.6487678,5.2629589
+53730628,way,Le Bambou,restaurant,Aix-en-Provence,"6 Avenue des Quatre Termes, 13410, Lambesc",13410,,43.6486829,5.2626532
+54211733,way,Notre-Dame de l'Assomption,monument,Aix-en-Provence,,,,43.6550835,5.2610123
+59529750,way,,museum,Aix-en-Provence,,,,43.5277006,5.4488063
+62924869,way,Château de Cabanes,castle,Aix-en-Provence,,,,43.6275222,5.4060999
+62973499,way,,ruins,Aix-en-Provence,,,,43.5977323,5.2733706
+62981319,way,Le 86,restaurant,Aix-en-Provence,,,,43.6209766,5.2985126
+62991735,way,La pomme croquante,attraction,Aix-en-Provence,,,,43.60587,5.3373796
+64064378,way,domaine du mazet,ruins,Aix-en-Provence,,,,43.5808794,5.2689604
+64069962,way,,ruins,Aix-en-Provence,,,,43.5806829,5.2687736
+64072964,way,,ruins,Aix-en-Provence,,,,43.5808234,5.2685842
+64218861,way,Le Bistrot d AURONS,restaurant,Aix-en-Provence,,,,43.6644904,5.1554985
+65468795,way,Chapelle Saint-Michel,monument,Aix-en-Provence,,,,43.6568063,5.2614659
+65473029,way,Restaurant La Gare,restaurant,Aix-en-Provence,"2 Avenue du Général de Gaulle, 13410, Lambesc",13410,,43.6546229,5.2685156
+65710725,way,,ruins,Aix-en-Provence,,,,43.5555071,5.2913929
+65715148,way,,ruins,Aix-en-Provence,,,,43.5554771,5.2913296
+65719714,way,,ruins,Aix-en-Provence,,,,43.5554275,5.2926695
+66133011,way,Château de Saint-Antonin,castle,Aix-en-Provence,,,,43.5191289,5.5820125
+66155502,way,,hotel,Aix-en-Provence,,,,43.7167203,5.7484171
+66155718,way,,hotel,Aix-en-Provence,,,,43.7171473,5.7487791
+66156564,way,,hotel,Aix-en-Provence,,,,43.7177745,5.7493401
+66156799,way,,hotel,Aix-en-Provence,,,,43.7168106,5.7491216
+66157111,way,Château de Cadarache,hotel,Aix-en-Provence,,,,43.7175632,5.7495923
+66157729,way,,hotel,Aix-en-Provence,,,,43.7171413,5.7496813
+66340664,way,Château de la Barben,attraction,Aix-en-Provence,,,,43.628021,5.2059049
+66341105,way,Le Bistro du Zoo,restaurant,Aix-en-Provence,,,,43.6257969,5.2047199
+66342023,way,La Touloubre,hotel,Aix-en-Provence,29 Chemin du Salatier,,,43.629762,5.1753289
+66528196,way,Domaine de Violaine,castle,Aix-en-Provence,,,,43.5873515,5.4680771
+66534411,way,Le Môme,restaurant,Aix-en-Provence,"5 Rue du Grand Logis, 13770, Venelles",13770,,43.5998025,5.4854246
+67532178,way,La Bastide de Cabriès,restaurant,Aix-en-Provence,,,,43.4575784,5.3340255
+67539336,way,CoCo Loco,restaurant,Aix-en-Provence,142 Route des Freres Brun,,,43.4222092,5.3657554
+67543640,way,Château de Trébillane,castle,Aix-en-Provence,,,,43.4606535,5.3517833
+67681122,way,Le Rétro Burger/Pizza,restaurant,Aix-en-Provence,,,,43.5590972,5.24691
+68301893,way,Campanile,hotel,Aix-en-Provence,,,,43.5117561,5.4366259
+68311050,way,Club House,restaurant,Aix-en-Provence,,,,43.5104998,5.4664228
+68311264,way,,hotel,Aix-en-Provence,,,,43.5111692,5.467281
+68311339,way,Novotel,hotel,Aix-en-Provence,,,,43.5134332,5.4662059
+68311485,way,,hotel,Aix-en-Provence,,,,43.5116232,5.4672524
+68311643,way,Adonis Arc Hôtel,hotel,Aix-en-Provence,40 Avenue Henri Malacrida,,https://www.adonis-archotel-aix.com/,43.5138092,5.4699701
+85451504,way,Aux Deux Saveurs,restaurant,Aix-en-Provence,"63 Boulevard de la République, 13490, Jouques",13490,,43.6372836,5.6396068
+85452757,way,L'Essentiel,restaurant,Aix-en-Provence,"43 Boulevard de la République, 13490, Jouques",13490,,43.6371963,5.638806
+85495249,way,Château de Meyrargues,castle,Aix-en-Provence,,,,43.6342105,5.5300449
+85501935,way,,gallery,Aix-en-Provence,,,,43.6362124,5.4197646
+85506454,way,Château de Fonscolombe,castle,Aix-en-Provence,,,,43.6391993,5.468224
+85591405,way,Château de Charleval,castle,Aix-en-Provence,,,,43.7211934,5.2444439
+86676771,way,Bastide de Romégas,castle,Aix-en-Provence,,,,43.5734983,5.44917
+86677699,way,Côté Lac,restaurant,Aix-en-Provence,,,,43.5715976,5.4303925
+86682361,way,Château du Seuil,castle,Aix-en-Provence,,,,43.618685,5.3779388
+86887404,way,Château de la Calade,castle,Aix-en-Provence,,,,43.5727801,5.3897898
+86890078,way,Kassia Cheese Naan,restaurant,Aix-en-Provence,"5 Boulevard de la Grande Thumine, 13090, Aix-en-Provence",13090,,43.5219378,5.414026
+86891758,way,Méli-Mélo,restaurant,Aix-en-Provence,"1040 Chemin des Figons, 13090, Aix-en-Provence",13090,,43.5489067,5.3806398
+86891783,way,Campanile,hotel,Aix-en-Provence,,,,43.5213496,5.4179976
+86892262,way,Pizza Cosy,restaurant,Aix-en-Provence,"445 Route de Berre, 13090, Aix-en-Provence",13090,https://www.pizzacosy.fr/pizzerias/pizza-cosy-aix-en-provence/,43.5344571,5.4114095
+86896524,way,Appart’hotel Odalys Aix Chartreuse,hotel,Aix-en-Provence,"44, 13090, Aix-en-Provence",13090,,43.5301159,5.4259508
+87163827,way,Moulin de la bastide Beisson,ruins,Aix-en-Provence,,,,43.5378286,5.4486865
+87164237,way,"Chapelle Notre-Dame de Consolation, dite chapelle Saint-Jacques ou de l'Hôpital",attraction,Aix-en-Provence,,,,43.5350272,5.4464429
+87182747,way,Château de la Gaude,castle,Aix-en-Provence,,,https://chateaudelagaude.com/?ved=2ahUKEwjSyPm19oqSAxU8AvsDHTaUOygQgU96BQiWARAE,43.5688358,5.4784744
+87183296,way,Campagne Bruguier,castle,Aix-en-Provence,,,,43.5415079,5.4640249
+87184314,way,Bastide la Torse,castle,Aix-en-Provence,,,,43.522733,5.4658279
+87185123,way,Hôtel L'Atrium d'Anaite,hotel,Aix-en-Provence,15 Cours Gambetta,,,43.5241037,5.4555156
+87187118,way,Hôtel** Le Prieuré,hotel,Aix-en-Provence,,,https://www.aix-en-provence-hotel-le-prieure.fr/,43.5431172,5.4598476
+87189057,way,Bastide de Repentance,castle,Aix-en-Provence,,,,43.5393603,5.4785327
+87272411,way,Bastide de la Félicité,castle,Aix-en-Provence,,,,43.50632,5.4313166
+87273370,way,La Paillote by Damien,restaurant,Aix-en-Provence,"1600 Route des Milles, Domaine de la Parade, 13090, Aix-en-Provence",13090,https://www.la-paillote-by-damien-aix-en-provence.com/,43.5098003,5.4209845
+87302055,way,Cantine,restaurant,Aix-en-Provence,,,,43.5201045,5.5084395
+87302384,way,,castle,Aix-en-Provence,,,,43.5477662,5.5257641
+87739930,way,Bastide du Jas de Bouffan,castle,Aix-en-Provence,,,,43.5270486,5.4290037
+87741780,way,Pavillon Vendôme,museum,Aix-en-Provence,"13 Rue de la Molle, 13100, Aix-en-Provence",13100,https://www.aixenprovence.fr/Pavillon-Vendome,43.5311324,5.4420887
+87741963,way,Pavillon Noir,attraction,Aix-en-Provence,"530 Avenue Wolfgang Amadeus Mozart, 13627, Aix-en-Provence",13627,https://www.preljocaj.org/,43.5253433,5.4400901
+87742365,way,Logis du Bras d'Or,museum,Aix-en-Provence,"2 Avenue Joseph Villevieille, 13100, Aix-en-Provence",13100,,43.5269175,5.4432673
+87797553,way,Marasino,restaurant,Aix-en-Provence,2 bis,,,43.5254101,5.4459171
+87798063,way,Hôtel Saint-Christophe,hotel,Aix-en-Provence,2 B Avenue Victor Hugo,,https://www.hotel-saintchristophe.com/fr,43.5254926,5.445799
+87798976,way,Hôtel Cézanne,hotel,Aix-en-Provence,"40 Avenue Victor Hugo, 13100, Aix-en-Provence",13100,,43.5235498,5.4457823
+87799212,way,L'Expresso Café,restaurant,Aix-en-Provence,20 Avenue Jules Ferry,,http://lexpressocafe.com/,43.518108,5.4492021
+87799487,way,Les Inséparables,restaurant,Aix-en-Provence,4 Bis Rue de la Reine Astrid,,https://lesinseparables-aix.fr/,43.520983,5.4433778
+87799648,way,Escale Oceania,hotel,Aix-en-Provence,,,,43.5127546,5.4608529
+87800272,way,Restaurant universitaire les Gazelles,restaurant,Aix-en-Provence,,,,43.5178874,5.4502169
+87800930,way,Monsieur Sushi,restaurant,Aix-en-Provence,"38 Avenue Victor Hugo, 13100, Aix-en-Provence",13100,https://monsieur-sushi.com/,43.5236513,5.445995
+87801442,way,Chez Pierre,restaurant,Aix-en-Provence,10 Avenue Victor Hugo,,,43.5248863,5.4460176
+88611851,way,Aquabella,hotel,Aix-en-Provence,"2 Rue des Etuves, 13100",13100,https://www.aquabella.fr,43.5310932,5.4446959
+88612341,way,Hôtel de Châteauneuf,castle,Aix-en-Provence,,,,43.5259659,5.4484524
+88612391,way,Musée du Palais de l’Archevêché,castle,Aix-en-Provence,"28 Place des Martyrs de la Résistance, 13100, Aix-en-Provence",13100,,43.5317393,5.4481442
+88612425,way,Hôtel Paul Arbaud,museum,Aix-en-Provence,"2a Rue du 4 Septembre, 13090, Aix-en-Provence",13090,https://museebiblioarbaud.fr/,43.5261602,5.4498121
+88612731,way,Gallifet Art Center,museum,Aix-en-Provence,"52 Rue Cardinale, 13100, Aix-en-Provence",13100,,43.5254576,5.4480042
+88613051,way,Musée Granet,museum,Aix-en-Provence,21 Rue Roux Alphéran,,,43.5253361,5.4528756
+88613461,way,Granet XXème - Collection Planque,museum,Aix-en-Provence,"Place Jean Boyer, 13100, Aix-en-Provence",13100,https://www.museegranet-aixenprovence.fr/nc/accueil.html,43.5262755,5.454012
+88613610,way,Hôtel de Caumont - Centre d'Art,museum,Aix-en-Provence,"3 Rue Joseph Cabassol, 13100, Aix-en-Provence",13100,https://www.caumont-centredart.com/,43.5260202,5.4491445
+88614075,way,Hôtel d'Estienne de Saint-Jean,museum,Aix-en-Provence,,,https://www.aixenprovence.fr/Presentation-du-Musee-du-Vieil-Aix,43.5307708,5.4472712
+88763750,way,Bastide d'Orcel,castle,Aix-en-Provence,,,,43.5157003,5.3971085
+88764272,way,Best Western,hotel,Aix-en-Provence,"97 Rue du Docteur Aynaud, 13857",13857,,43.4901232,5.3519967
+88768486,way,Ibis Budget,hotel,Aix-en-Provence,10 Rue du Lieutenant Parayre,,https://www.accorhotels.com/fr/hotel-6372-etap-hotel-aix-en-provence-les-milles/index.shtml,43.494771,5.3686478
+88768709,way,Château de la Pioline,castle,Aix-en-Provence,,,,43.5088958,5.4046765
+88768751,way,La Scène2,restaurant,Aix-en-Provence,190 Rue Pierre Duhem,,https://www.lascene-aix.com/,43.4787908,5.3746747
+88769135,way,Restaurant Inter Entreprises du petit Arbois,restaurant,Aix-en-Provence,,,,43.492255,5.3310609
+88769175,way,Club des jazz,restaurant,Aix-en-Provence,,,,43.492212,5.372838
+88770430,way,Appart'City,hotel,Aix-en-Provence,,,,43.4925008,5.3514122
+88770695,way,Château de Lenfant (ou Lanfant),castle,Aix-en-Provence,,,,43.478508,5.3913299
+88771262,way,Site-Mémorial du Camp des Milles,museum,Aix-en-Provence,"40 Chemin de la Badesse, 13547, Aix-en-Provence",13547,https://www.campdesmilles.org/,43.5040058,5.3815405
+92752906,way,,castle,Aix-en-Provence,,,,43.451822,5.4123195
+92759669,way,Kyriad,hotel,Aix-en-Provence,,,,43.426179,5.3859565
+92760750,way,,ruins,Aix-en-Provence,,,,43.453556,5.416596
+94069583,way,Tour,ruins,Aix-en-Provence,,,,43.6475669,5.436682
+100332113,way,l'atelier de la cheffe,restaurant,Aix-en-Provence,,,,43.6408066,5.098235
+100335016,way,Ibis,hotel,Aix-en-Provence,,,,43.6277222,5.1147473
+100337904,way,Hôtel du Midi,hotel,Aix-en-Provence,,,,43.6330895,5.1003016
+100338465,way,La Petite Cabane,restaurant,Aix-en-Provence,,,,43.6406041,5.0980189
+100358395,way,Hôtel de Provence,hotel,Aix-en-Provence,,,,43.6393791,5.0902653
+100362277,way,Greet,hotel,Aix-en-Provence,,,,43.6274725,5.1138334
+100372494,way,Abbaye de Sainte-Croix,hotel,Aix-en-Provence,,,,43.6522762,5.1314155
+100375757,way,La Jauffrette,restaurant,Aix-en-Provence,,,,43.6097671,5.0982494
+100377491,way,Tokyo,restaurant,Aix-en-Provence,,,https://www.tokyosalon.fr/,43.6408655,5.0983099
+100378638,way,,castle,Aix-en-Provence,,,,43.6069177,5.0942842
+100388354,way,B&B Hôtel,hotel,Aix-en-Provence,"Route d'Aix-en-Provence, 13300, Salon-de-Provence",13300,https://www.hotel-bb.com/fr/hotels/salon-de-provence.htm,43.6283871,5.1236572
+100389121,way,Brit Hôtel,hotel,Aix-en-Provence,,,https://salon-provence.brithotel.fr/,43.6057769,5.0984243
+101025028,way,Ibis Styles,hotel,Aix-en-Provence,,,,43.4170146,5.3507186
+101028249,way,Dragon Impérial,restaurant,Aix-en-Provence,"2515 Chemin de Velaux, 13170, Les Pennes-Mirabeau",13170,,43.4140431,5.3508325
+101034978,way,Buffalo Grill,restaurant,Aix-en-Provence,"13480, Cabriès",13480,,43.4179609,5.3651551
+101035096,way,Château de Valabre,castle,Aix-en-Provence,,,,43.4725695,5.4423056
+101037128,way,Piu,restaurant,Aix-en-Provence,"3 Impasse le Mirabeau, 13170, Les Pennes-Mirabeau",13170,https://www.restaurantpiu.fr/le-menu-w1,43.4164535,5.3558113
+101042299,way,Hôtel F1 Marseille Plan de Campagne n°2,hotel,Aix-en-Provence,"Chemin des Rigons, 13170, Les Pennes-Mirabeau",13170,https://www.accorhotels.com/fr/hotel-2264-formule-1-hotelf1-marseille-plan-de-campagne-n1/index.shtml,43.4141977,5.3657034
+101049894,way,Hôtel F1 Marseille Plan de Campagne n°1,hotel,Aix-en-Provence,"Avenue Victor Mellan, 13480, Cabriès",13480,https://www.accorhotels.com/fr/hotel-2372-formule-1-hotelf1-marseille-plan-de-campagne-n2/index.shtml,43.4183606,5.3648672
+101053564,way,Écomusée de la Forêt,museum,Aix-en-Provence,Chemin de Roman,,https://www.ecomusee-foret.org/,43.4709946,5.4517799
+101061684,way,La Grillade Coté Terre,restaurant,Aix-en-Provence,,,,43.4132553,5.3521543
+101063502,way,BBQ Hallal,restaurant,Aix-en-Provence,,,,43.4192629,5.3660565
+101065546,way,Monument aux morts,memorial,Aix-en-Provence,,,,43.4102675,5.3055169
+101067088,way,,ruins,Aix-en-Provence,,,,43.3956968,5.3315786
+101088558,way,hotelF1,hotel,Aix-en-Provence,,,https://all.accor.com/hotel/2551/index.en.shtml#origin=hotelf1,43.49059,5.5260082
+101088915,way,Les rois Maj,restaurant,Aix-en-Provence,,,https://www.lesroismaj.com/,43.4714412,5.4910795
+101091916,way,La Bonne Table,restaurant,Aix-en-Provence,,,,43.4726602,5.4901136
+101094398,way,B&B Hotels,hotel,Aix-en-Provence,,,,43.4914121,5.5292752
+101101159,way,Le bouche à oreilles,restaurant,Aix-en-Provence,,,,43.4723383,5.4917274
+102430174,way,Château Roquemartine,castle,Aix-en-Provence,,,,43.7224075,5.0102025
+104062931,way,Chapelle du Trou,ruins,Aix-en-Provence,,,,43.5285363,5.5701232
+104808301,way,A Quoi Pizza,restaurant,Aix-en-Provence,,,https://www.pizza-lancon.com/,43.5894143,5.1195096
+105021745,way,Jardin des peintres,park,Aix-en-Provence,,,https://www.aixenprovence.fr/Jardin-des-peintres,43.5446355,5.4447767
+105409059,way,Moulin,ruins,Aix-en-Provence,,,,43.7059618,5.16466
+107981795,way,,restaurant,Aix-en-Provence,,,,43.630606,5.1489325
+107985353,way,La Table de Manon,restaurant,Aix-en-Provence,1 lot Avenue Pasteur,,,43.630035,5.1540315
+129057560,way,Hôtel de la Vallée de l'Arc,hotel,Aix-en-Provence,,,https://www.hotelvalleedelarc.com/,43.447542,5.6857265
+129059817,way,La Ferme de Noé,museum,Aix-en-Provence,,,https://www.lafermedenoe.com/,43.473047,5.6723635
+130617902,way,Musée Provençal des Transports,museum,Aix-en-Provence,"Chemin d'Aix, 13710, Fuveau",13710,https://www.cppva.com/,43.4700585,5.5480945
+130620886,way,Hôtel Mount Ventùri,hotel,Aix-en-Provence,Avenue Olivier Perroy,,,43.46952,5.598236
+130621858,way,L'Olivier,restaurant,Aix-en-Provence,,,,43.4626421,5.6094275
+136064473,way,Bistrot Romain,restaurant,Aix-en-Provence,,,,43.4157844,5.3611511
+136064529,way,Shangaï Fast Food,restaurant,Aix-en-Provence,,,,43.4155833,5.3612136
+136064532,way,El Rancho,restaurant,Aix-en-Provence,,,,43.4154875,5.3612534
+157023274,way,,park,Aix-en-Provence,,,,43.4293395,5.4347224
+158093051,way,Le Germinal,restaurant,Aix-en-Provence,"1093 Route de Puits Gérard, 13105, Mimet",13105,,43.4307975,5.46893
+158093593,way,Logis Hotels,hotel,Aix-en-Provence,,,,43.4137675,5.505226
+158093688,way,Château-Bas,castle,Aix-en-Provence,,,,43.426723,5.485289
+158172393,way,,ruins,Aix-en-Provence,,,,43.5537515,5.5969365
+158172705,way,,ruins,Aix-en-Provence,,,,43.5454953,5.5960152
+158173100,way,,ruins,Aix-en-Provence,,,,43.5454994,5.5965473
+158173537,way,Château du Grand Sambuc,castle,Aix-en-Provence,,,,43.5824561,5.6214908
+158574707,way,Château des 4 Tours,castle,Aix-en-Provence,,,,43.5329835,5.2534039
+160928421,way,,ruins,Aix-en-Provence,,,,43.413281,5.4409395
+165083155,way,Parc d'Albertas,park,Aix-en-Provence,,,,43.4534085,5.4058035
+168644565,way,Vina Wok,restaurant,Aix-en-Provence,533 Rue Honore Martin,,,43.4227735,5.3654667
+171852772,way,Parc du Tholonet,park,Aix-en-Provence,,,,43.5225727,5.5109381
+171853392,way,B&B Hôtel,hotel,Aix-en-Provence,"425 Allée François Aubrun, 13100, Le Tholonet",13100,,43.511462,5.4872303
+172270827,way,,hotel,Aix-en-Provence,,,,43.5121338,5.4868511
+172270828,way,,hotel,Aix-en-Provence,,,,43.5122298,5.4876794
+172270829,way,,hotel,Aix-en-Provence,,,,43.5122611,5.4874605
+172270830,way,,hotel,Aix-en-Provence,,,,43.5122339,5.4880884
+172270831,way,,hotel,Aix-en-Provence,,,,43.5121905,5.4872454
+172271188,way,Cour carrée,park,Aix-en-Provence,,,,43.5244077,5.4388426
+198411272,way,Novotel Aix-en-Provence Pont de l'Arc,hotel,Aix-en-Provence,1340 Avenue de l'Arc de Meyran,,,43.511153,5.4570267
+203190000,way,La Crouzzéria,restaurant,Aix-en-Provence,,,,43.5179299,5.4505497
+205036671,way,B&B Hotels,hotel,Aix-en-Provence,"4 Avenue de l'Arc de Meyran, 13100, Aix-en-Provence",13100,,43.51105,5.4467267
+217558856,way,Le lavoir de Fontrouge,ruins,Aix-en-Provence,,,,43.4608106,5.3554049
+219406604,way,,park,Aix-en-Provence,,,,43.5427313,5.4475107
+220021467,way,Le 14 Bis,restaurant,Aix-en-Provence,"8 a Route d'Aix, 13410, Lambesc",13410,,43.6512371,5.2636854
+221537284,way,Parma Pizza,restaurant,Aix-en-Provence,,,,43.5226584,5.4508088
+228953957,way,Carrousel Paul Cézanne,attraction,Aix-en-Provence,,,,43.5269811,5.4443323
+231038283,way,Savoir Et Mets,restaurant,Aix-en-Provence,,,https://www.savoir-et-mets.com/restaurant,43.6933692,5.7278033
+232052315,way,Jardin des remparts,park,Aix-en-Provence,,,,43.4469696,5.6828419
+232486869,way,La Rotonde,attraction,Aix-en-Provence,,,,43.5262916,5.4454186
+233706809,way,Monument Joseph Sec,monument,Aix-en-Provence,,,,43.5331828,5.4463096
+234804260,way,,ruins,Aix-en-Provence,,,,43.7161378,5.3289634
+244140129,way,Square Léopold Cadière,park,Aix-en-Provence,,,,43.5326362,5.4507402
+245808022,way,Bastide du Roy René,hotel,Aix-en-Provence,,,,43.5114637,5.4676806
+246277494,way,Ibis Aix-en-Provence,hotel,Aix-en-Provence,31 Avenue des Infirmeries,,https://all.accor.com/booking/fr/ibis/hotel/0714,43.5119483,5.4656873
+251783707,way,,park,Aix-en-Provence,,,,43.5318292,5.2563392
+254468816,way,La maison d'été,hotel,Aix-en-Provence,"34 Rue Maréchal Joffre, 13300, Salon-de-Provence",13300,,43.6417138,5.0985847
+258804435,way,,ruins,Aix-en-Provence,,,,43.5527516,5.6640928
+268060634,way,Aqueduc romain de la Traconnade,attraction,Aix-en-Provence,,,,43.6334945,5.533661
+270376166,way,,garden,Aix-en-Provence,,,,43.4468335,5.6444022
+289762940,way,,hotel,Aix-en-Provence,,,,43.7168919,5.7488844
+291680177,way,Parc des Marronniers,park,Aix-en-Provence,"Place des Marronniers, 13320, Bouc-Bel-Air",13320,,43.4401735,5.423271
+291889795,way,,park,Aix-en-Provence,,,,43.7191665,5.3065501
+291938942,way,,park,Aix-en-Provence,,,,43.7159499,5.3092842
+291938944,way,Parc du château de Florans,park,Aix-en-Provence,,,,43.719138,5.3123205
+295849431,way,Hôtel Renaissance,hotel,Aix-en-Provence,,,https://renaissance-hotels.marriott.com/renaissance-aix-en-provence-hotel,43.5259706,5.4379526
+320310077,way,Oppidum de la Tête de l'Ost,ruins,Aix-en-Provence,,,,43.4137085,5.5126704
+320310078,way,Oppidum de la Tête de l'Ost,ruins,Aix-en-Provence,,,,43.4134888,5.5127945
+329911182,way,Parc animalier de La Barben,zoo,Aix-en-Provence,"Route du Chateau, 13330, La Barben",13330,https://www.parcanimalierlabarben.com/,43.6239235,5.2104083
+334332586,way,Conservatoire Darius Milhaud,attraction,Aix-en-Provence,"380 Avenue Wolfgang Amadeus Mozart, 13100, Aix-en-Provence",13100,https://aixenprovence.fr/Conservatoire,43.5255202,5.4392227
+334857428,way,,park,Aix-en-Provence,,,,43.5303579,5.4426367
+339335295,way,,park,Aix-en-Provence,,,,43.5782073,5.4200772
+339335298,way,,park,Aix-en-Provence,,,,43.5784896,5.4224302
+345710614,way,,park,Aix-en-Provence,,,,43.4554753,5.3310617
+352159592,way,Jardin Notre-Dame-de-Vie,park,Aix-en-Provence,,,,43.6222793,5.2952801
+355529863,way,,park,Aix-en-Provence,,,,43.5214059,5.4242479
+355529866,way,,park,Aix-en-Provence,,,,43.5205525,5.4252828
+355529867,way,,park,Aix-en-Provence,,,,43.5208587,5.4248328
+361746960,way,Abbaye de Silvacane,attraction,Aix-en-Provence,,,,43.7159061,5.3290923
+366092449,way,parc Saint-Martin,park,Aix-en-Provence,,,,43.6314306,5.1536727
+366866947,way,,ruins,Aix-en-Provence,,,,43.7054307,5.0829572
+366866948,way,,ruins,Aix-en-Provence,,,,43.7053967,5.0829686
+366866949,way,,ruins,Aix-en-Provence,,,,43.7053109,5.0830148
+373764436,way,,park,Aix-en-Provence,,,,43.6688403,5.3513737
+377541415,way,Villa Amara,hotel,Aix-en-Provence,"19 Cours des Arts et Metiers, 13100",13100,https://www.villa-amara.fr,43.5308607,5.4546175
+398527480,way,Place du Chat de Lune,park,Aix-en-Provence,,,,43.4552994,5.5605843
+399521052,way,Parc Forestier de la chapelle,park,Aix-en-Provence,,,,43.4508091,5.5641644
+407177051,way,,park,Aix-en-Provence,,,,43.4282438,5.3837058
+412909100,way,Château (restes),castle,Aix-en-Provence,,,,43.6657838,5.3458514
+439493974,way,Square Jane Aublet,park,Aix-en-Provence,,,,43.5088155,5.4380644
+445224049,way,Dinopedia Parc Provence,theme_park,Aix-en-Provence,"Lieu Dit Grand Pont, 13640, La Roque d'Antheron",13640,https://www.le-monde-de-dinopedia.fr/nos-parcs/dinopedia-parc-provence/,43.7230409,5.288362
+448168683,way,L'Urban,restaurant,Aix-en-Provence,,,,43.6936557,5.733903
+456803714,way,,ruins,Aix-en-Provence,,,,43.3760396,5.3255621
+462882772,way,Château de Roquemartine (vestiges du),castle,Aix-en-Provence,,,,43.7154068,5.032618
+466157211,way,Jardin Maurice Plantier,park,Aix-en-Provence,,,,43.5839409,5.4705071
+472086905,way,,park,Aix-en-Provence,,,,43.6656438,5.4175152
+472086906,way,,park,Aix-en-Provence,,,,43.6653654,5.4175442
+472086924,way,,park,Aix-en-Provence,,,,43.6653254,5.4167537
+472086933,way,,park,Aix-en-Provence,,,,43.6659244,5.4175566
+474434330,way,Musée du Calisson,museum,Aix-en-Provence,"Route d'Avignon, 13089",13089,https://www.calisson.com/,43.5816558,5.378538
+490101730,way,,park,Aix-en-Provence,,,,43.4911432,5.3317229
+493501804,way,Parc de Valabre,park,Aix-en-Provence,,,,43.4743432,5.4359405
+499453957,way,,park,Aix-en-Provence,,,,43.641964,5.1069175
+499453960,way,,park,Aix-en-Provence,,,,43.6425618,5.1069129
+499453966,way,,park,Aix-en-Provence,,,,43.6419791,5.1057068
+499453991,way,Square Docteur François Blanc,park,Aix-en-Provence,,,,43.6411582,5.1046202
+499916796,way,Parc de la Légion d'Honneur,park,Aix-en-Provence,,,,43.6410197,5.0935394
+528066980,way,,garden,Aix-en-Provence,,,,43.4981977,5.3414751
+528066981,way,,garden,Aix-en-Provence,,,,43.4984269,5.3418867
+528066984,way,,garden,Aix-en-Provence,,,,43.4985513,5.3413391
+528752038,way,Le Mazet,ruins,Aix-en-Provence,,,,43.6088967,5.4381587
+533341999,way,,park,Aix-en-Provence,,,,43.5293681,5.4414409
+534324431,way,Jardin pédagogique du collège.,garden,Aix-en-Provence,,,,43.4819032,5.4102764
+537241073,way,,garden,Aix-en-Provence,,,,43.5186806,5.4658558
+544125101,way,Parc Saint-Dominique,park,Aix-en-Provence,,,,43.3943301,5.3392522
+545469832,way,Parc Jean Giono,park,Aix-en-Provence,,,,43.3803016,5.3410901
+546582887,way,Place du Marché,garden,Aix-en-Provence,,,,43.4190315,5.3393801
+550425552,way,Parc Zintia,park,Aix-en-Provence,,,,43.6302094,5.1026181
+557500496,way,,garden,Aix-en-Provence,,,,43.5256413,5.4378347
+557500498,way,Jardin Thomson,park,Aix-en-Provence,,,,43.5253793,5.4375894
+560538692,way,,garden,Aix-en-Provence,,,,43.4862603,5.3460291
+560538695,way,Parc des Restanques,park,Aix-en-Provence,,,,43.4846402,5.3466159
+560538848,way,,garden,Aix-en-Provence,,,,43.4843759,5.348613
+562007404,way,Restaurant COCOTTE,restaurant,Aix-en-Provence,"175 Chemin des Piboules, 13090, Aix-en-Provence",13090,,43.5132634,5.4245098
+563727298,way,,park,Aix-en-Provence,,,,43.5126702,5.4461667
+563727301,way,,park,Aix-en-Provence,,,,43.512275,5.4460848
+565161477,way,,park,Aix-en-Provence,,,,43.525677,5.436485
+572394348,way,,park,Aix-en-Provence,,,,43.4364031,5.4187351
+587693515,way,,garden,Aix-en-Provence,,,,43.6502631,5.1026565
+587700428,way,Parc du Mas,park,Aix-en-Provence,,,,43.6520876,5.1009036
+601019002,way,Parc de la Bastide du Jas de Bouffan,park,Aix-en-Provence,,,,43.5267025,5.4290044
+603834757,way,,park,Aix-en-Provence,,,,43.6865634,5.7081741
+606255820,way,Parc du Font du Roy,park,Aix-en-Provence,,,,43.4502467,5.4710687
+609688472,way,Parc Notre-Dame,garden,Aix-en-Provence,,,,43.4534798,5.4857419
+610566467,way,Parc des quatre tours,park,Aix-en-Provence,,,,43.5329537,5.2529066
+615590879,way,Bastide de la Félicité,hotel,Aix-en-Provence,,,,43.5061303,5.4312984
+615960427,way,,garden,Aix-en-Provence,,,,43.5094442,5.4623355
+620345567,way,,ruins,Aix-en-Provence,,,,43.565637,5.2888684
+620345570,way,,ruins,Aix-en-Provence,,,,43.566719,5.3039875
+622102750,way,,park,Aix-en-Provence,,,,43.515529,5.4375528
+622249879,way,,ruins,Aix-en-Provence,,,,43.3889974,5.2754168
+627594284,way,Parc des Collines de Cuques,park,Aix-en-Provence,,,,43.5151477,5.4589082
+643497935,way,,garden,Aix-en-Provence,,,,43.5142707,5.4710199
+643497936,way,,garden,Aix-en-Provence,,,,43.5141599,5.4709161
+643497938,way,,garden,Aix-en-Provence,,,,43.5140591,5.4708821
+643497940,way,,garden,Aix-en-Provence,,,,43.5139631,5.4709869
+643497941,way,,garden,Aix-en-Provence,,,,43.5137107,5.4715464
+643497943,way,,garden,Aix-en-Provence,,,,43.5139487,5.4717109
+646907451,way,,park,Aix-en-Provence,,,,43.4584162,5.458685
+649743673,way,Restaurant II,restaurant,Aix-en-Provence,Bt 278,,,43.680649,5.7711682
+653697293,way,,beach,Aix-en-Provence,,,,43.6566927,5.582107
+663959976,way,Les Hameaux de la Torse,garden,Aix-en-Provence,"34,36,38 Avenue des Écoles Militaires Saint-Cyr et Maixent",,,43.5251758,5.4657961
+665102338,way,Villa Saint-Ange,hotel,Aix-en-Provence,"5 Traverse Saint-Pierre, 13100, Aix-en-Provence",13100,https://villasaintange.com/fr/,43.5232926,5.4580212
+666656598,way,Parc de la Babiole,park,Aix-en-Provence,,,,43.4378126,5.4021976
+666874884,way,Mare écologique,garden,Aix-en-Provence,,,,43.469755,5.4516485
+667036777,way,,garden,Aix-en-Provence,,,,43.5201857,5.46672
+667039641,way,,garden,Aix-en-Provence,,,,43.5206607,5.4650425
+667041659,way,,garden,Aix-en-Provence,,,,43.5202907,5.4634037
+667041661,way,,garden,Aix-en-Provence,,,,43.521629,5.4649099
+667041664,way,,garden,Aix-en-Provence,,,,43.5208936,5.464557
+667041668,way,,garden,Aix-en-Provence,,,,43.5202908,5.4645019
+667041670,way,,garden,Aix-en-Provence,,,,43.5215779,5.4642248
+667041672,way,,garden,Aix-en-Provence,,,,43.5197569,5.4633311
+667041677,way,,garden,Aix-en-Provence,,,,43.5214958,5.4652019
+667041956,way,,garden,Aix-en-Provence,,,,43.5193371,5.4643279
+670941138,way,Garden & City,hotel,Aix-en-Provence,,,,43.5868238,5.4260056
+675764122,way,,garden,Aix-en-Provence,,,,43.4412067,5.3977629
+675764123,way,,garden,Aix-en-Provence,,,,43.4407458,5.3978496
+676069719,way,,garden,Aix-en-Provence,,,,43.6289289,5.1137841
+676069723,way,,garden,Aix-en-Provence,,,,43.6284155,5.1158142
+676069725,way,,garden,Aix-en-Provence,,,,43.6284903,5.115854
+676077028,way,,garden,Aix-en-Provence,,,,43.6289168,5.1178921
+676077030,way,,garden,Aix-en-Provence,,,,43.6298718,5.1155869
+677763510,way,,garden,Aix-en-Provence,,,,43.6304627,5.1187125
+677763511,way,,garden,Aix-en-Provence,,,,43.6305286,5.1187538
+677763512,way,,garden,Aix-en-Provence,,,,43.6305519,5.118503
+677763513,way,,garden,Aix-en-Provence,,,,43.6304966,5.1192094
+678010183,way,,garden,Aix-en-Provence,,,,43.4151709,5.2795897
+678010184,way,,garden,Aix-en-Provence,,,,43.4153719,5.2802505
+678010186,way,,garden,Aix-en-Provence,,,,43.4155882,5.280271
+678010195,way,,garden,Aix-en-Provence,,,,43.4152997,5.2793447
+678456669,way,,garden,Aix-en-Provence,,,,43.445149,5.5521415
+680883045,way,,garden,Aix-en-Provence,,,,43.638495,5.0424438
+681192181,way,Parc Trittia,park,Aix-en-Provence,,,,43.4504255,5.6808395
+681204962,way,,garden,Aix-en-Provence,,,,43.6333262,5.0916752
+681204963,way,,garden,Aix-en-Provence,,,,43.6335761,5.0914699
+681204964,way,,garden,Aix-en-Provence,,,,43.6334913,5.0915548
+681204975,way,,garden,Aix-en-Provence,,,,43.6323778,5.0949337
+681373758,way,,garden,Aix-en-Provence,,,,43.6359861,5.0410391
+681380977,way,,garden,Aix-en-Provence,,,,43.6377009,5.0389566
+681380978,way,,garden,Aix-en-Provence,,,,43.6375984,5.0389256
+681380979,way,,garden,Aix-en-Provence,,,,43.6376262,5.0399223
+682278768,way,,garden,Aix-en-Provence,,,,43.4323146,5.3970722
+682278769,way,,garden,Aix-en-Provence,,,,43.4313731,5.3957635
+682278770,way,,garden,Aix-en-Provence,,,,43.4309348,5.3958056
+682278771,way,,garden,Aix-en-Provence,,,,43.4311491,5.3956667
+682278776,way,,garden,Aix-en-Provence,,,,43.4316503,5.3946737
+682278777,way,,garden,Aix-en-Provence,,,,43.4323797,5.3972453
+682278779,way,,garden,Aix-en-Provence,,,,43.4319224,5.3971428
+682278780,way,,garden,Aix-en-Provence,,,,43.4306364,5.3981177
+682289986,way,,garden,Aix-en-Provence,,,,43.432053,5.3963744
+682289987,way,,garden,Aix-en-Provence,,,,43.4326773,5.3976765
+682289992,way,,garden,Aix-en-Provence,,,,43.430509,5.3992936
+682290687,way,,garden,Aix-en-Provence,,,,43.4309627,5.3972834
+682292257,way,,garden,Aix-en-Provence,,,,43.4300906,5.3999869
+682292258,way,,garden,Aix-en-Provence,,,,43.429908,5.3999511
+682292259,way,,garden,Aix-en-Provence,,,,43.430369,5.3991262
+682292260,way,,garden,Aix-en-Provence,,,,43.4302217,5.3990871
+682292261,way,,garden,Aix-en-Provence,,,,43.4305267,5.398944
+682292262,way,,garden,Aix-en-Provence,,,,43.430369,5.3989381
+682292264,way,,garden,Aix-en-Provence,,,,43.4306804,5.3989526
+682293134,way,,garden,Aix-en-Provence,,,,43.4325431,5.3971324
+682293135,way,,garden,Aix-en-Provence,,,,43.4310079,5.395974
+682293136,way,,garden,Aix-en-Provence,,,,43.4310837,5.396148
+682374796,way,,garden,Aix-en-Provence,,,,43.4905433,5.3323434
+684106654,way,,garden,Aix-en-Provence,,,,43.6283538,5.1234636
+684106655,way,,garden,Aix-en-Provence,,,,43.628298,5.1237983
+684205314,way,,garden,Aix-en-Provence,,,,43.6463744,5.254027
+684606414,way,,garden,Aix-en-Provence,,,,43.5459413,5.3587601
+684610539,way,,garden,Aix-en-Provence,,,,43.5463242,5.3579438
+684617458,way,,garden,Aix-en-Provence,,,,43.546345,5.3611831
+684618762,way,,garden,Aix-en-Provence,,,,43.5452092,5.359592
+684884261,way,,garden,Aix-en-Provence,,,,43.5463929,5.3647359
+684884262,way,,garden,Aix-en-Provence,,,,43.5458097,5.3644602
+684884266,way,,garden,Aix-en-Provence,,,,43.5463876,5.3640068
+684884267,way,,garden,Aix-en-Provence,,,,43.5466703,5.3638551
+684884281,way,,garden,Aix-en-Provence,,,,43.546144,5.3627893
+685254116,way,,garden,Aix-en-Provence,,,,43.547698,5.3656087
+685254128,way,,garden,Aix-en-Provence,,,,43.5466392,5.3662862
+685556729,way,Le Mozart,hotel,Aix-en-Provence,,,https://www.hotelmozart.fr,43.5221373,5.4582167
+685597931,way,,garden,Aix-en-Provence,,,,43.4698494,5.5974981
+686727982,way,,garden,Aix-en-Provence,,,,43.47495,5.6062524
+686727984,way,,garden,Aix-en-Provence,,,,43.4740833,5.6069075
+686971628,way,,garden,Aix-en-Provence,,,,43.4702245,5.5990104
+686972030,way,,garden,Aix-en-Provence,,,,43.4701796,5.6078817
+687369157,way,,garden,Aix-en-Provence,,,,43.5261873,5.4156293
+687443374,way,,garden,Aix-en-Provence,,,,43.4701766,5.6073645
+687491861,way,,garden,Aix-en-Provence,,,,43.4726488,5.6060375
+687491863,way,,garden,Aix-en-Provence,,,,43.47254,5.6061654
+687491865,way,,garden,Aix-en-Provence,,,,43.4724148,5.6063284
+687491866,way,,garden,Aix-en-Provence,,,,43.4722683,5.6064859
+687661979,way,,garden,Aix-en-Provence,,,,43.4706613,5.608174
+690424039,way,,garden,Aix-en-Provence,,,,43.4679935,5.6142182
+690424041,way,,garden,Aix-en-Provence,,,,43.4685961,5.6099293
+695032726,way,,garden,Aix-en-Provence,,,,43.7250241,5.1716957
+699841416,way,,garden,Aix-en-Provence,,,,43.636274,5.0757287
+699841417,way,,garden,Aix-en-Provence,,,,43.6364258,5.076134
+699841418,way,,garden,Aix-en-Provence,,,,43.6368726,5.0761142
+700028962,way,,hotel,Aix-en-Provence,,,,43.542962,5.3737818
+702920322,way,Anim'o park,theme_park,Aix-en-Provence,"20 Chemin de Pellegrin, 13710, Fuveau",13710,,43.4762214,5.5685806
+708422273,way,Château de Foscolombe,hotel,Aix-en-Provence,,,https://fonscolombe.fr/fr/,43.6389387,5.4679645
+708476912,way,Château de la Pioline,hotel,Aix-en-Provence,,,https://www.chateaudelapioline.com/fr/,43.5091573,5.406314
+712429974,way,,park,Aix-en-Provence,,,,43.5707429,5.3567165
+712429976,way,Square Joseph Guidonne,park,Aix-en-Provence,,,,43.5717861,5.3568605
+712429983,way,Grand Place,park,Aix-en-Provence,,,,43.5704964,5.3538577
+733702573,way,Parc de l'aviateur David Arthur Cary,park,Aix-en-Provence,,,,43.4647555,5.564162
+734533009,way,Parc des Platanes,park,Aix-en-Provence,,,,43.6988146,5.0840116
+746980688,way,Grand Théâtre de Provence,attraction,Aix-en-Provence,,,,43.5259693,5.4400546
+751971617,way,Ibis Styles,hotel,Aix-en-Provence,"3 Boulevard de la Grande Thumine, 13090, Aix-en-Provence",13090,http://www.ibis.com/fr/hotel-9492-ibis-styles-aix-en-provence-mas-des-oliviers/index.shtml,43.5216542,5.415147
+753476868,way,Jardin à la française,garden,Aix-en-Provence,,,,43.5685702,5.4783281
+753476869,way,,garden,Aix-en-Provence,,,,43.5680911,5.4780494
+767384764,way,,park,Aix-en-Provence,,,,43.5165107,5.4650482
+767384765,way,,park,Aix-en-Provence,,,,43.5160628,5.4651492
+767384766,way,,park,Aix-en-Provence,,,,43.5161765,5.46456
+772244786,way,,garden,Aix-en-Provence,,,,43.5179789,5.4547888
+778104748,way,Square Paul Camoin,park,Aix-en-Provence,,,,43.5031501,5.3895335
+778846099,way,,garden,Aix-en-Provence,,,,43.5289494,5.4046731
+778846100,way,,garden,Aix-en-Provence,,,,43.5289741,5.4047303
+778846101,way,,garden,Aix-en-Provence,,,,43.5289932,5.4046374
+778846102,way,,garden,Aix-en-Provence,,,,43.529011,5.4046976
+778846103,way,,garden,Aix-en-Provence,,,,43.529041,5.404741
+778846104,way,,garden,Aix-en-Provence,,,,43.5288954,5.4047075
+778846105,way,,garden,Aix-en-Provence,,,,43.5289002,5.4047855
+778855734,way,,garden,Aix-en-Provence,,,,43.5292318,5.4045303
+778855735,way,,garden,Aix-en-Provence,,,,43.5292936,5.4045186
+778855736,way,,garden,Aix-en-Provence,,,,43.5293525,5.4045129
+778855737,way,,garden,Aix-en-Provence,,,,43.5294107,5.4045097
+778855738,way,,garden,Aix-en-Provence,,,,43.5294576,5.4045043
+782914020,way,,park,Aix-en-Provence,,,,43.7289728,5.1801582
+788126391,way,,garden,Aix-en-Provence,,,,43.5310405,5.434441
+792031077,way,,park,Aix-en-Provence,,,,43.7195797,5.2471659
+792031078,way,,park,Aix-en-Provence,,,,43.7196512,5.2492469
+797348588,way,Le petit resto,restaurant,Aix-en-Provence,"Avenue du Verdalai, 13790, Peynier",13790,,43.462721,5.6217242
+800985763,way,Le Vieux Vernègues,ruins,Aix-en-Provence,,,,43.6902055,5.1674722
+800997611,way,Église Saint-Jacques,ruins,Aix-en-Provence,,,,43.6890034,5.1683378
+809177764,way,Resid'Artel Val de Durance,hotel,Aix-en-Provence,,,https://www.resid-artel-valdedurance.biz,43.6932381,5.7323765
+810043168,way,,park,Aix-en-Provence,,,,43.6540779,5.0832
+812441104,way,Parc du Pigeonnier,park,Aix-en-Provence,,,,43.6462396,5.0923305
+822068283,way,,park,Aix-en-Provence,,,,43.6431976,5.5812003
+822068932,way,Grand Pré,park,Aix-en-Provence,,,,43.636511,5.6386649
+827705322,way,,artwork,Aix-en-Provence,,,,43.4351965,5.4258855
+829717427,way,,garden,Aix-en-Provence,,,,43.5510814,5.4349229
+837975031,way,Dan B.,restaurant,Aix-en-Provence,"1 Rue Frédéric Mistral, Ventabren",,https://www.danb.fr/en/,43.5389003,5.2920416
+846780147,way,,park,Aix-en-Provence,,,,43.4823011,5.4185452
+851546126,way,Garden & city,hotel,Aix-en-Provence,"280 Avenue Francis Perrin, 13790, Rousset",13790,,43.4666575,5.6062131
+858198970,way,,garden,Aix-en-Provence,,,,43.4631994,5.6151627
+858488376,way,L'Escaillon,restaurant,Aix-en-Provence,,,,43.463195,5.6126929
+874913297,way,Hôtel B&b Aix En Provence - Venelles,hotel,Aix-en-Provence,102 Avenue des Logissons,,,43.5833659,5.4740488
+878737170,way,,restaurant,Aix-en-Provence,,,,43.6301634,5.1541355
+893136380,way,,park,Aix-en-Provence,,,,43.5122218,5.4701747
+920270916,way,,memorial,Aix-en-Provence,,,,43.665767,5.3477545
+956397546,way,Guépard,attraction,Aix-en-Provence,,,,43.625998,5.2088971
+956398419,way,Casoar à Casque,attraction,Aix-en-Provence,,,,43.6255091,5.2089277
+956400952,way,Zèbre de Burchell,attraction,Aix-en-Provence,,,,43.6242834,5.2092243
+956401228,way,Crocodile du Nil,attraction,Aix-en-Provence,,,,43.6246412,5.2098755
+956402243,way,Zone de présentation des oiseaux en vol,attraction,Aix-en-Provence,,,,43.6243121,5.2109525
+956404971,way,Ibis Rouge,attraction,Aix-en-Provence,,,,43.6231932,5.2104621
+956410585,way,,attraction,Aix-en-Provence,,,,43.6221098,5.2136419
+956411582,way,Loup d'Europe,attraction,Aix-en-Provence,,,,43.6214083,5.2131379
+956563665,way,Volière Vautour Fauve,attraction,Aix-en-Provence,,,,43.6220348,5.2107789
+956681349,way,Hyène Rayée,attraction,Aix-en-Provence,,,,43.6242405,5.2086587
+956686643,way,Loup à crinière,attraction,Aix-en-Provence,,,,43.6235406,5.2092443
+956691399,way,Mouflon à Manchettes,attraction,Aix-en-Provence,,,,43.6230576,5.2081275
+956820363,way,Suricate,attraction,Aix-en-Provence,,,,43.6257293,5.20681
+956820364,way,Fennec,attraction,Aix-en-Provence,,,,43.6258196,5.2069552
+956820365,way,Chouette de l'oural,attraction,Aix-en-Provence,,,,43.6258368,5.2071075
+956939413,way,Tortue des Seychelles,attraction,Aix-en-Provence,,,,43.6243399,5.2070234
+956949680,way,Vivarium,attraction,Aix-en-Provence,,,,43.6260542,5.2041214
+957976349,way,,garden,Aix-en-Provence,,,,43.6275589,5.2058856
+957976350,way,,garden,Aix-en-Provence,,,,43.6274591,5.2058758
+957976351,way,,garden,Aix-en-Provence,,,,43.6274502,5.2060601
+957976352,way,,garden,Aix-en-Provence,,,,43.6275535,5.2060738
+957976353,way,,garden,Aix-en-Provence,,,,43.6275434,5.206283
+957976354,way,,garden,Aix-en-Provence,,,,43.6275359,5.206478
+957976355,way,,garden,Aix-en-Provence,,,,43.6274386,5.2062839
+957976356,way,,garden,Aix-en-Provence,,,,43.6274307,5.2064679
+963180947,way,Accro Passion,attraction,Aix-en-Provence,"Chemin de la Pinède, 13300",13300,https://accropassion.com/,43.6376887,5.1063158
+987906675,way,,memorial,Aix-en-Provence,,,,43.6196606,5.1119879
+987906676,way,,memorial,Aix-en-Provence,,,,43.6193759,5.1143287
+993969572,way,Il Ristorante,restaurant,Aix-en-Provence,"208 Route des Freres Brun, 13170, Cabriès",13170,https://www.ilristorante.fr/il-ristorante-le-restaurant-italien-de-plan-de-campagne-cabries/,43.422042,5.3647951
+999320649,way,Parc du Couloubleau,park,Aix-en-Provence,,,,43.6317672,5.6429826
+1009276048,way,Bois de la Cortésine,park,Aix-en-Provence,,,,43.528649,5.4629652
+1013143997,way,Descenderie de mine du 18e siecle gardanne,memorial,Aix-en-Provence,,,,43.4571523,5.4634196
+1014273656,way,,park,Aix-en-Provence,,,,43.5283436,5.4087857
+1014333026,way,,garden,Aix-en-Provence,,,,43.5296224,5.4095338
+1014333027,way,,garden,Aix-en-Provence,,,,43.5295504,5.4095006
+1014333028,way,,garden,Aix-en-Provence,,,,43.5294854,5.409478
+1014333029,way,,garden,Aix-en-Provence,,,,43.529399,5.4094638
+1014333030,way,,garden,Aix-en-Provence,,,,43.5293212,5.4094545
+1014333031,way,,garden,Aix-en-Provence,,,,43.5292603,5.4094022
+1014333032,way,,garden,Aix-en-Provence,,,,43.5292046,5.4094686
+1014333033,way,,garden,Aix-en-Provence,,,,43.5291302,5.4094155
+1014333034,way,,garden,Aix-en-Provence,,,,43.5290508,5.4094083
+1014333035,way,,garden,Aix-en-Provence,,,,43.5289729,5.4094262
+1014333036,way,,garden,Aix-en-Provence,,,,43.5288822,5.4094162
+1014333037,way,,garden,Aix-en-Provence,,,,43.5288009,5.4094417
+1014333038,way,,garden,Aix-en-Provence,,,,43.5287223,5.4094492
+1014333039,way,,garden,Aix-en-Provence,,,,43.5286261,5.4094524
+1014333040,way,,garden,Aix-en-Provence,,,,43.5285119,5.4094686
+1014333041,way,,garden,Aix-en-Provence,,,,43.5284232,5.4094436
+1014333042,way,,garden,Aix-en-Provence,,,,43.5283202,5.4094233
+1014333043,way,,garden,Aix-en-Provence,,,,43.5282477,5.4094217
+1014333044,way,,garden,Aix-en-Provence,,,,43.5281842,5.4094138
+1014333045,way,,garden,Aix-en-Provence,,,,43.5280872,5.4094215
+1014348146,way,,garden,Aix-en-Provence,,,,43.5290131,5.4081825
+1014348147,way,,garden,Aix-en-Provence,,,,43.5282516,5.4084004
+1014348148,way,,garden,Aix-en-Provence,,,,43.5280825,5.4086543
+1014348149,way,,garden,Aix-en-Provence,,,,43.5281083,5.4088611
+1014348150,way,,garden,Aix-en-Provence,,,,43.528136,5.4090642
+1014348154,way,,garden,Aix-en-Provence,,,,43.5282545,5.4083751
+1014348155,way,,garden,Aix-en-Provence,,,,43.5275677,5.4090265
+1014573298,way,,park,Aix-en-Provence,,,,43.5274366,5.4046633
+1014607591,way,,garden,Aix-en-Provence,,,,43.5277377,5.4064902
+1015119118,way,,garden,Aix-en-Provence,,,,43.5273957,5.4070224
+1015119119,way,,garden,Aix-en-Provence,,,,43.5273539,5.4068084
+1015119120,way,,garden,Aix-en-Provence,,,,43.5274768,5.4067037
+1020491389,way,Camp de Marius,ruins,Aix-en-Provence,,,,43.5197389,5.3138876
+1020491390,way,,ruins,Aix-en-Provence,,,,43.5196148,5.3138733
+1020491391,way,,ruins,Aix-en-Provence,,,,43.5200574,5.3149091
+1020491392,way,,ruins,Aix-en-Provence,,,,43.5197512,5.314621
+1030438093,way,,garden,Aix-en-Provence,,,,43.5261281,5.4353558
+1030456409,way,,garden,Aix-en-Provence,,,,43.5239494,5.4342894
+1030456410,way,,garden,Aix-en-Provence,,,,43.5242282,5.4324871
+1030456411,way,,garden,Aix-en-Provence,,,,43.5245999,5.4306074
+1030456412,way,,garden,Aix-en-Provence,,,,43.524822,5.429441
+1030456413,way,,garden,Aix-en-Provence,,,,43.5249861,5.4272652
+1030456414,way,,garden,Aix-en-Provence,,,,43.5250598,5.4245882
+1030456417,way,,garden,Aix-en-Provence,,,,43.525171,5.4257235
+1030456418,way,,garden,Aix-en-Provence,,,,43.5244369,5.4318874
+1030456419,way,,garden,Aix-en-Provence,,,,43.5243246,5.4324124
+1030456420,way,,garden,Aix-en-Provence,,,,43.5241965,5.4321691
+1030456421,way,,garden,Aix-en-Provence,,,,43.5240471,5.4329139
+1033654195,way,,garden,Aix-en-Provence,,,,43.5179906,5.4542647
+1033958079,way,,garden,Aix-en-Provence,,,,43.5180517,5.4601253
+1033958080,way,,garden,Aix-en-Provence,,,,43.5181436,5.4603298
+1033958081,way,,garden,Aix-en-Provence,,,,43.5183215,5.4601397
+1034285799,way,,garden,Aix-en-Provence,,,,43.5426508,5.4404184
+1034285800,way,,garden,Aix-en-Provence,,,,43.5410004,5.4402199
+1037741658,way,,garden,Aix-en-Provence,,,,43.5264892,5.6504475
+1044296784,way,Espace Jacques Durand,garden,Aix-en-Provence,,,,43.5153761,5.4733516
+1045129531,way,,garden,Aix-en-Provence,,,,43.5212482,5.4311181
+1045345547,way,,garden,Aix-en-Provence,,,,43.538168,5.4717662
+1045345548,way,,garden,Aix-en-Provence,,,,43.5385508,5.471227
+1045351147,way,,garden,Aix-en-Provence,,,,43.5375409,5.4716259
+1045351148,way,,garden,Aix-en-Provence,,,,43.5374806,5.4720682
+1045351149,way,,garden,Aix-en-Provence,,,,43.5376135,5.4725382
+1045351150,way,,garden,Aix-en-Provence,,,,43.5374774,5.472972
+1045351151,way,,garden,Aix-en-Provence,,,,43.537375,5.4704607
+1046947256,way,,garden,Aix-en-Provence,,,,43.5147647,5.439627
+1050299721,way,Pavillon de musique,artwork,Aix-en-Provence,,,,43.6353374,5.4179865
+1050299725,way,Pavillon d'exposition,gallery,Aix-en-Provence,,,,43.6362459,5.4146683
+1050299728,way,Multiplied resistance screened,artwork,Aix-en-Provence,,,,43.6312512,5.4162153
+1050299736,way,Gate,artwork,Aix-en-Provence,,,,43.6348462,5.4229823
+1050299739,way,,garden,Aix-en-Provence,,,,43.6358802,5.4178682
+1050299740,way,,artwork,Aix-en-Provence,,,,43.6303908,5.4148616
+1050299744,way,Wall of Light Cubed,artwork,Aix-en-Provence,,,,43.6327737,5.4188411
+1050299745,way,Donegal,artwork,Aix-en-Provence,,,,43.632946,5.4199795
+1052430773,way,,garden,Aix-en-Provence,,,,43.5093339,5.3923588
+1052430774,way,,garden,Aix-en-Provence,,,,43.5089549,5.3905768
+1053394418,way,,garden,Aix-en-Provence,,,,43.4907424,5.4400217
+1053394419,way,,garden,Aix-en-Provence,,,,43.4897249,5.4395388
+1056915556,way,Pizza La Simianaise,restaurant,Aix-en-Provence,,,,43.4293996,5.4367432
+1057556474,way,Parc Départmental de Roques Hautes,park,Aix-en-Provence,,,,43.5356111,5.5380995
+1058335550,way,Ferme pédagogique,zoo,Aix-en-Provence,,,,43.4131991,5.4732125
+1058624389,way,Parc Municipal Victor Mellan,park,Aix-en-Provence,,,,43.4175355,5.316023
+1062075388,way,,park,Aix-en-Provence,,,,43.4809356,5.3907722
+1067589195,way,,garden,Aix-en-Provence,,,,43.4812648,5.3863537
+1069367885,way,Jardin Pour Deux Mains,garden,Aix-en-Provence,,,,43.6360289,5.5300725
+1072301757,way,,attraction,Aix-en-Provence,,,,43.6361046,5.531584
+1074885529,way,,park,Aix-en-Provence,,,,43.5245329,5.4380202
+1075789166,way,,garden,Aix-en-Provence,,,,43.5314152,5.4151587
+1076134562,way,,garden,Aix-en-Provence,,,https://www.caumont-centredart.com/en/discover/discovering-site/gardens,43.5258404,5.4493662
+1076798723,way,,garden,Aix-en-Provence,,,,43.5264564,5.4392166
+1076799286,way,,garden,Aix-en-Provence,,,,43.526669,5.4395106
+1083784867,way,,park,Aix-en-Provence,,,,43.535556,5.4329705
+1085430019,way,,garden,Aix-en-Provence,,,,43.50101,5.391519
+1097386707,way,,garden,Aix-en-Provence,,,,43.6610141,5.3540708
+1099301731,way,Parc Jacques Prévert,park,Aix-en-Provence,13300,13300,,43.6512432,5.0900536
+1099755275,way,,park,Aix-en-Provence,,,,43.5629905,5.3528217
+1120395569,way,,ruins,Aix-en-Provence,,,,43.5455429,5.5961884
+1121502078,way,Parc du Chateau,park,Aix-en-Provence,,,,43.6341452,5.5308826
+1127318461,way,Jardin du Domaine de la Violaine,garden,Aix-en-Provence,,,,43.5870863,5.4682428
+1157733651,way,,ruins,Aix-en-Provence,,,,43.5480513,5.1234907
+1157733652,way,,ruins,Aix-en-Provence,,,,43.5485144,5.1240496
+1160651384,way,,garden,Aix-en-Provence,,,,43.4315695,5.3971151
+1160651387,way,,garden,Aix-en-Provence,,,,43.4323668,5.3968084
+1162782770,way,Zone de Loisirs - Lot. San Bovieri,park,Aix-en-Provence,,,,43.441012,5.4713255
+1169527869,way,,park,Aix-en-Provence,,,,43.7344113,5.1792429
+1170103874,way,Parc des Garrigues,park,Aix-en-Provence,"640 Avenue de Lambesc, 13840, Rognes",13840,,43.6619668,5.3306172
+1174949163,way,,garden,Aix-en-Provence,,,,43.6473455,5.57595
+1176470979,way,,garden,Aix-en-Provence,,,,43.5066345,5.4479135
+1180391890,way,Aqueduc de Roquefavour,attraction,Aix-en-Provence,,,,43.5163709,5.312831
+1184429420,way,,garden,Aix-en-Provence,,,,43.4717786,5.4963109
+1184478520,way,,garden,Aix-en-Provence,,,,43.7209789,5.269697
+1184478521,way,,garden,Aix-en-Provence,,,,43.7205057,5.2680274
+1186174802,way,,ruins,Aix-en-Provence,,,,43.5200173,5.3134284
+1191613004,way,,artwork,Aix-en-Provence,,,,43.4553627,5.4649262
+1198819384,way,,park,Aix-en-Provence,,,,43.6436558,5.098769
+1204312195,way,,park,Aix-en-Provence,,,,43.6386069,5.1015615
+1210512356,way,Jardin du Grenier à Blé,park,Aix-en-Provence,,,,43.640124,5.1001037
+1216250766,way,Square Georges Bizet,park,Aix-en-Provence,,,,43.7447542,5.0783249
+1218522436,way,,park,Aix-en-Provence,,,,43.4536714,5.3175543
+1223799295,way,Place Paul et Carmen Maurin de Carnac,park,Aix-en-Provence,,,,43.51935,5.5832945
+1223799311,way,,garden,Aix-en-Provence,,,,43.5189709,5.5814181
+1232285857,way,,park,Aix-en-Provence,,,,43.7187011,5.2506717
+1237820065,way,,park,Aix-en-Provence,,,,43.5219766,5.5117807
+1240454275,way,Ancien Pont de Mirabeau,ruins,Aix-en-Provence,,,,43.6894777,5.6681348
+1243709708,way,Jardin Joseph Richaud,park,Aix-en-Provence,,,,43.6198864,5.2990891
+1243754906,way,La Baleine,attraction,Aix-en-Provence,,,,43.6062009,5.3362896
+1243754911,way,Les États-Unis,attraction,Aix-en-Provence,,,,43.6073966,5.3352985
+1243754916,way,L'Amazonie,attraction,Aix-en-Provence,,,,43.6071205,5.3355412
+1243754917,way,La Polynésie,attraction,Aix-en-Provence,,,,43.6069446,5.3356266
+1243754922,way,La chine,attraction,Aix-en-Provence,,,,43.6066394,5.3358623
+1243754923,way,Le mexique,attraction,Aix-en-Provence,,,,43.6064949,5.3359953
+1243754924,way,Le monde oriental,attraction,Aix-en-Provence,,,,43.6067372,5.335634
+1243754940,way,Le château enchanté,attraction,Aix-en-Provence,,,,43.6069262,5.3352201
+1245275086,way,,ruins,Aix-en-Provence,,,,43.4199212,5.3120207
+1250834055,way,,garden,Aix-en-Provence,,,,43.4716811,5.4919455
+1250834056,way,,garden,Aix-en-Provence,,,,43.4715055,5.4919468
+1250834057,way,,garden,Aix-en-Provence,,,,43.471751,5.4920421
+1250834058,way,,garden,Aix-en-Provence,,,,43.4716585,5.4920421
+1250834059,way,,garden,Aix-en-Provence,,,,43.4715688,5.4920468
+1250834060,way,,garden,Aix-en-Provence,,,,43.47148,5.4920482
+1250834061,way,,garden,Aix-en-Provence,,,,43.4718454,5.4920407
+1250834062,way,,garden,Aix-en-Provence,,,,43.4719429,5.492038
+1250834063,way,,garden,Aix-en-Provence,,,,43.4719422,5.4919637
+1250834064,way,,garden,Aix-en-Provence,,,,43.4718453,5.4919649
+1250839820,way,,garden,Aix-en-Provence,,,,43.4718307,5.4952021
+1259712616,way,,artwork,Aix-en-Provence,,,,43.6287017,5.4186897
+1266287953,way,,garden,Aix-en-Provence,,,,43.6454663,5.0927792
+1268346090,way,,ruins,Aix-en-Provence,,,,43.6622951,5.6479264
+1268346091,way,,ruins,Aix-en-Provence,,,,43.6623681,5.647952
+1271691442,way,,park,Aix-en-Provence,,,,43.5498735,5.2221815
+1271691452,way,,garden,Aix-en-Provence,,,,43.5562345,5.2484883
+1274477828,way,,garden,Aix-en-Provence,,,,43.6422578,5.0970118
+1274477830,way,,garden,Aix-en-Provence,,,,43.6431631,5.0977739
+1274477832,way,,garden,Aix-en-Provence,,,,43.6430807,5.0952721
+1274477833,way,,garden,Aix-en-Provence,,,,43.6434837,5.0958356
+1274477834,way,,garden,Aix-en-Provence,,,,43.6432895,5.0959927
+1274477835,way,,garden,Aix-en-Provence,,,,43.6429379,5.0967256
+1274477836,way,,garden,Aix-en-Provence,,,,43.6428785,5.0964056
+1274477837,way,,garden,Aix-en-Provence,,,,43.643163,5.0964521
+1274477844,way,,garden,Aix-en-Provence,,,,43.6431102,5.0968123
+1284206829,way,,ruins,Aix-en-Provence,,,,43.4285979,5.4383463
+1284206830,way,,ruins,Aix-en-Provence,,,,43.4285917,5.4384927
+1284206831,way,,ruins,Aix-en-Provence,,,,43.4286256,5.4384745
+1284206832,way,La Chapelle des Pénitents,ruins,Aix-en-Provence,,,,43.4285917,5.4384927
+1288747795,way,Parc de Fontlaure,park,Aix-en-Provence,,,,43.5683828,5.352747
+1299886178,way,,garden,Aix-en-Provence,,,,43.6222312,5.1003808
+1304657766,way,,garden,Aix-en-Provence,,,,43.6206934,5.2904755
+1304802523,way,Parc Émile Tavan,park,Aix-en-Provence,,,,43.53062,5.440191
+1304914914,way,,park,Aix-en-Provence,,,,43.5376903,5.454505
+1304917588,way,La Pinède des Trois Moulins,park,Aix-en-Provence,,,,43.5375575,5.4561768
+1304926176,way,,garden,Aix-en-Provence,,,,43.5370838,5.4546482
+1304927926,way,,park,Aix-en-Provence,,,,43.5363343,5.4561527
+1309010047,way,,ruins,Aix-en-Provence,,,,43.5196167,5.3140687
+1309010048,way,,ruins,Aix-en-Provence,,,,43.5195734,5.3139845
+1309010049,way,,ruins,Aix-en-Provence,,,,43.5197492,5.3138874
+1309010050,way,,ruins,Aix-en-Provence,,,,43.5197381,5.3138745
+1309010051,way,,ruins,Aix-en-Provence,,,,43.5196507,5.313794
+1309010052,way,,ruins,Aix-en-Provence,,,,43.5196406,5.3138637
+1309010053,way,,ruins,Aix-en-Provence,,,,43.5196176,5.3138888
+1309010054,way,,ruins,Aix-en-Provence,,,,43.5195803,5.3139088
+1309010055,way,,ruins,Aix-en-Provence,,,,43.5196258,5.3139641
+1309010056,way,,ruins,Aix-en-Provence,,,,43.5195967,5.3139463
+1309010057,way,,ruins,Aix-en-Provence,,,,43.5196443,5.3139232
+1309010058,way,,ruins,Aix-en-Provence,,,,43.5196243,5.3139728
+1309010059,way,,ruins,Aix-en-Provence,,,,43.5196208,5.3140136
+1315892583,way,Aqueduc romain de la Traconnade,ruins,Aix-en-Provence,,,,43.6334948,5.5336595
+1316514438,way,,ruins,Aix-en-Provence,,,,43.6897836,5.1667632
+1317612572,way,Jardin Japonais,garden,Aix-en-Provence,,,,43.5337384,5.4221944
+1321706171,way,,park,Aix-en-Provence,,,,43.6440004,5.0804164
+1321706176,way,,park,Aix-en-Provence,,,,43.6439153,5.0841499
+1332729767,way,,garden,Aix-en-Provence,,,,43.6653192,5.0841815
+1332729778,way,,garden,Aix-en-Provence,,,,43.6676752,5.0837899
+1332729781,way,,garden,Aix-en-Provence,,,,43.6687718,5.0838543
+1334001600,way,,garden,Aix-en-Provence,,,,43.6679589,5.0819969
+1334001601,way,,garden,Aix-en-Provence,,,,43.6669219,5.0793568
+1334359118,way,,garden,Aix-en-Provence,,,,43.7006262,5.0830767
+1334603934,way,Parc Yvan Dellerm,park,Aix-en-Provence,,,,43.6303175,5.1567359
+1335206248,way,,attraction,Aix-en-Provence,,,,43.6385198,5.095086
+1340732622,way,Parc Urbain à Papillons,park,Aix-en-Provence,,,https://www.aixenprovence.fr/Parc-urbain-a-papillons,43.5085043,5.467395
+1345177662,way,Monument des Héros et Martyrs de Sainte-Anne,memorial,Aix-en-Provence,,,http://maquis-sainteanne.fr/,43.6965517,5.2759016
+1347191257,way,Pinède Saint-Léon,park,Aix-en-Provence,,,,43.6369841,5.1067069
+1349824304,way,,garden,Aix-en-Provence,,,,43.6561959,5.5790019
+1349824787,way,,garden,Aix-en-Provence,,,,43.6562909,5.5795848
+1349824788,way,,garden,Aix-en-Provence,,,,43.6562535,5.5787834
+1349824789,way,,garden,Aix-en-Provence,,,,43.6565773,5.5786879
+1350710907,way,,garden,Aix-en-Provence,,,,43.487535,5.35892
+1350710908,way,,garden,Aix-en-Provence,,,,43.4875333,5.3586846
+1350710909,way,,garden,Aix-en-Provence,,,,43.4875011,5.3588097
+1350710910,way,,garden,Aix-en-Provence,,,,43.4876045,5.3587004
+1352750422,way,,garden,Aix-en-Provence,,,,43.6489678,5.0724703
+1356856484,way,,ruins,Aix-en-Provence,,,,43.709971,5.364478
+1356856485,way,,ruins,Aix-en-Provence,,,,43.7099555,5.3645497
+1358137048,way,,garden,Aix-en-Provence,,,,43.4879946,5.3566393
+1362980549,way,,memorial,Aix-en-Provence,,,,43.4104872,5.6851996
+1364500025,way,,ruins,Aix-en-Provence,,,,43.6898073,5.1666698
+1378018074,way,,garden,Aix-en-Provence,,,,43.4874806,5.3584025
+1378018075,way,,garden,Aix-en-Provence,,,,43.4876146,5.3588329
+1378098174,way,Jardin Canus Natus,garden,Aix-en-Provence,,,,43.6220985,5.3038889
+1379202320,way,Parc Du Château,park,Aix-en-Provence,,,,43.4315255,5.5457669
+1379675776,way,,garden,Aix-en-Provence,,,,43.4143483,5.4281046
+1380464327,way,,garden,Aix-en-Provence,,,,43.6495874,5.0567231
+1380464329,way,,garden,Aix-en-Provence,,,,43.6486214,5.0549306
+1380464330,way,,garden,Aix-en-Provence,,,,43.6488295,5.0556032
+1380464345,way,,garden,Aix-en-Provence,,,,43.6449323,5.057352
+1381718652,way,,park,Aix-en-Provence,,,,43.4899136,5.3549946
+1382550308,way,,garden,Aix-en-Provence,,,,43.4907955,5.3541366
+1383606385,way,,park,Aix-en-Provence,,,,43.5978108,5.4809291
+1385139026,way,Le Kalypso Coquillages,restaurant,Aix-en-Provence,,,,43.5470823,5.2939202
+1386497195,way,Jardins Partagés de Gréasque,garden,Aix-en-Provence,,,,43.4299317,5.5437791
+1387326576,way,,garden,Aix-en-Provence,,,,43.458548,5.5560541
+1388286681,way,Domaine Sainte-Victoire,restaurant,Aix-en-Provence,,,,43.4530839,5.5432485
+1390710560,way,,park,Aix-en-Provence,,,,43.4548901,5.5588522
+1392462202,way,Pinède de la Bastide Haute,park,Aix-en-Provence,,,,43.6538274,5.1025513
+1394819695,way,,garden,Aix-en-Provence,,,,43.5237671,5.5475169
+1394819696,way,,garden,Aix-en-Provence,,,,43.5237101,5.5473656
+1408574609,way,,garden,Aix-en-Provence,,,,43.5195821,5.4329273
+1408579332,way,Parc Adèle Milloz,park,Aix-en-Provence,,,,43.5193011,5.4308036
+1409683559,way,Parc du Vallat,park,Aix-en-Provence,,,,43.653301,5.2561414
+1410305864,way,,garden,Aix-en-Provence,,,,43.5253713,5.4350891
+1414327209,way,,garden,Aix-en-Provence,,,,43.5266651,5.437177
+1414715860,way,,garden,Aix-en-Provence,,,,43.5268057,5.4399243
+1416678744,way,Rocher Mistral,theme_park,Aix-en-Provence,2441 Route du Château,,https://www.rochermistral.com,43.6281554,5.2051708
+1427348306,way,,park,Aix-en-Provence,,,,43.4470138,5.6013701
+1427856042,way,Panthère,attraction,Aix-en-Provence,,,,43.6260687,5.205548
+1427856043,way,Ara,attraction,Aix-en-Provence,,,,43.6263603,5.2051192
+1427856044,way,Grand Hocco,attraction,Aix-en-Provence,,,,43.626377,5.2053226
+1427856045,way,Gibbon à Favoris Roux,attraction,Aix-en-Provence,,,,43.6247418,5.2066147
+1427856046,way,Capucin Brun,attraction,Aix-en-Provence,,,,43.6249958,5.2064487
+1427856047,way,Ouistiti à Pinceaux Blancs,attraction,Aix-en-Provence,,,,43.6248714,5.2067587
+1427856048,way,Tamarin Pinché,attraction,Aix-en-Provence,,,,43.6250873,5.2065793
+1427856050,way,Coati à Queue Annelée,attraction,Aix-en-Provence,,,,43.62576,5.2073139
+1427856052,way,Saimiri,attraction,Aix-en-Provence,,,,43.6254455,5.2075101
+1427856053,way,,attraction,Aix-en-Provence,,,,43.6254386,5.2082587
+1427856054,way,Lion,attraction,Aix-en-Provence,,,,43.6250795,5.2093786
+1427856056,way,Marabout d'Afrique,attraction,Aix-en-Provence,,,,43.624266,5.2102385
+1427856057,way,Lémurien (Vari Noir et Blanc),attraction,Aix-en-Provence,,,,43.6232758,5.2069737
+1427856058,way,Panda Roux,attraction,Aix-en-Provence,,,,43.6235641,5.206739
+1427856059,way,Chèvre Naine,attraction,Aix-en-Provence,,,,43.6230616,5.2069169
+1427856060,way,"Chèvre Naine, Tortue Sillonnée",attraction,Aix-en-Provence,,,,43.6228843,5.2075335
+1427937695,way,Hippopotame,attraction,Aix-en-Provence,,,,43.6231036,5.2131556
+1428238582,way,Grivet Cercopithèque,attraction,Aix-en-Provence,,,,43.6242009,5.2070934
+1428238583,way,Lion,attraction,Aix-en-Provence,,,,43.6250795,5.2093786
+1428238584,way,Cigogne,attraction,Aix-en-Provence,,,,43.6240124,5.2100663
+1428670304,way,Pécari à collier,attraction,Aix-en-Provence,,,,43.6230653,5.210859
+1428767755,way,Lynx d'Eurasie,attraction,Aix-en-Provence,,,,43.6230582,5.2099139
+1428767756,way,Serval,attraction,Aix-en-Provence,,,,43.6228819,5.2102034
+1428767757,way,Tigre,attraction,Aix-en-Provence,,,,43.6224531,5.2110027
+1428767761,way,Macaque Crabier,attraction,Aix-en-Provence,,,,43.622516,5.2095769
+1428771418,way,Cerf Élaphe,attraction,Aix-en-Provence,,,,43.6221835,5.2095521
+1430923608,way,,garden,Aix-en-Provence,,,,43.4910487,5.3613394
+1431499718,way,,garden,Aix-en-Provence,,,,43.4829489,5.612751
+1432259550,way,,garden,Aix-en-Provence,,,,43.4847468,5.6231696
+1433318081,way,Restaurant I,restaurant,Aix-en-Provence,Bt 103,,,43.6974685,5.7447467
+1434019819,way,,garden,Aix-en-Provence,,,,43.4913528,5.3560193
+1434019823,way,,garden,Aix-en-Provence,,,,43.4910531,5.3563116
+1434019827,way,,garden,Aix-en-Provence,,,,43.4911934,5.3560457
+1434342737,way,,garden,Aix-en-Provence,,,,43.4918445,5.3549793
+1434342738,way,,garden,Aix-en-Provence,,,,43.4915992,5.3549768
+1434342742,way,,garden,Aix-en-Provence,,,,43.4917632,5.3546769
+1434579068,way,,garden,Aix-en-Provence,,,,43.4913307,5.3544512
+1434579069,way,,garden,Aix-en-Provence,,,,43.4917239,5.354569
+1434837597,way,Mercure Aix-en-Provence Sainte-Victoire,hotel,Aix-en-Provence,,,,43.4888835,5.5897278
+1435380872,way,,garden,Aix-en-Provence,,,,43.5189352,5.4337674
+1444677531,way,,park,Aix-en-Provence,,,,43.4568914,5.4757899
+1445851863,way,Monument aux Morts de 14-18,memorial,Aix-en-Provence,,,,43.6340096,5.151357
+1445959716,way,Long Bún,restaurant,Aix-en-Provence,"8 Route Ancienne Route Nationale 8, 13080, Luynes",13080,,43.4830144,5.4173407
+1445993367,way,Parc Stéphane Jullien,park,Aix-en-Provence,,,,43.4870593,5.4155141
+1446520592,way,,park,Aix-en-Provence,,,,43.5389252,5.302886
+1446520599,way,,garden,Aix-en-Provence,,,,43.5474196,5.2973861
+1451089573,way,Place des Mineurs,park,Aix-en-Provence,,,,43.4324067,5.5383898
+1451911193,way,Oppidum du Salounet,ruins,Aix-en-Provence,,,,43.6527595,5.12823
+1451911194,way,,ruins,Aix-en-Provence,,,,43.6529174,5.1279273
+1451911195,way,,ruins,Aix-en-Provence,,,,43.6528656,5.1279742
+1451911196,way,,ruins,Aix-en-Provence,,,,43.6528247,5.1287741
+1451911885,way,,ruins,Aix-en-Provence,,,,43.6256039,5.1421904
+1451911886,way,,ruins,Aix-en-Provence,,,,43.6247077,5.1416348
+1456921943,way,,garden,Aix-en-Provence,,,,43.54308,5.4603877
+1460083894,way,,park,Aix-en-Provence,,,,43.4566331,5.4678423
+1465509620,way,,park,Aix-en-Provence,,,,43.5359343,5.4347259
+1466418915,way,,ruins,Aix-en-Provence,,,,43.6894985,5.1674799
+1466418916,way,,ruins,Aix-en-Provence,,,,43.6896096,5.1680621
+1466418917,way,,ruins,Aix-en-Provence,,,,43.689553,5.1682005
+1466418918,way,,ruins,Aix-en-Provence,,,,43.6899589,5.1678817
+1466418919,way,,ruins,Aix-en-Provence,,,,43.6898204,5.1675694
+1466418920,way,,ruins,Aix-en-Provence,,,,43.6901478,5.1666492
+1466418921,way,,ruins,Aix-en-Provence,,,,43.6901211,5.1666372
+1466418922,way,,ruins,Aix-en-Provence,,,,43.6901422,5.1666983
+1466418923,way,,ruins,Aix-en-Provence,,,,43.6899145,5.1669557
+1466418924,way,,ruins,Aix-en-Provence,,,,43.6898123,5.1670804
+1467070846,way,,ruins,Aix-en-Provence,,,,43.7017659,5.3789629
+1467070847,way,,ruins,Aix-en-Provence,,,,43.7018863,5.3788752
+1467070848,way,Chateau de Sainte Esteve de Janson,ruins,Aix-en-Provence,,,,43.7020396,5.3789336
+1467070849,way,,ruins,Aix-en-Provence,,,,43.7018957,5.378813
+1470267770,way,,park,Aix-en-Provence,,,,43.4359911,5.5356786
+1473000764,way,Chapelle et hermitage Saint-Honorat de Roquefavour,ruins,Aix-en-Provence,,,,43.5200377,5.3061714
+1475142956,way,Marcella - Restaurant Italien,restaurant,Aix-en-Provence,"1140 Rue André Ampère, 13290, Aix en Provence",13290,https://restaurant.marcellatrattoria.fr,43.4849475,5.3798684
+1478877057,way,,park,Aix-en-Provence,,,,43.6501657,5.1050242
+1480014803,way,,garden,Aix-en-Provence,,,,43.4275818,5.4298804
+1484320411,way,,ruins,Aix-en-Provence,,,,43.4221124,5.5548365
+1484320418,way,,ruins,Aix-en-Provence,,,,43.4203941,5.5578452
+1484414385,way,,ruins,Aix-en-Provence,,,,43.4107764,5.5584654
+1490220453,way,,viewpoint,Aix-en-Provence,,,,43.4592918,5.355476
+1493630352,way,La Bastide Bourrelly,hotel,Aix-en-Provence,,,https://labastidebourrelly.com/,43.4610332,5.3536402
+1493961952,way,,ruins,Aix-en-Provence,,,,43.4469471,5.6243174
+1497369704,way,,park,Aix-en-Provence,,,,43.6355692,5.4187452
+1511346877,way,,ruins,Aix-en-Provence,,,,43.5252866,5.562178
+1528287785,way,,garden,Aix-en-Provence,,,,43.4619417,5.3577509
+1434901,relation,Château de l'Empéri,castle,Aix-en-Provence,,,,43.6401187,5.0971246
+2283837,relation,Château de Peyrolles,attraction,Aix-en-Provence,,,,43.6482027,5.5837853
+3934665,relation,Fondation Vasarely,museum,Aix-en-Provence,"1 Avenue Marcel Pagnol, 13090, Aix-en-Provence",13090,,43.5213935,5.4248642
+5455579,relation,Parc Maureau,garden,Aix-en-Provence,,,,43.6308821,5.1513776
+9273758,relation,Pavillon de chasse du Roi René,castle,Aix-en-Provence,,,,43.4716133,5.4439273
+12107871,relation,Parc de la Torse,park,Aix-en-Provence,,,,43.5226453,5.4656518
+12870697,relation,Girafe,attraction,Aix-en-Provence,,,,43.6239794,5.2078712
+12870699,relation,Éléphant,attraction,Aix-en-Provence,,,,43.6242706,5.2076344
+13281386,relation,Aix Hotel,hotel,Aix-en-Provence,Aix-en-Provence,,,43.4920784,5.3710417
+13993286,relation,,garden,Aix-en-Provence,,,,43.5242511,5.4170664
+13993902,relation,,garden,Aix-en-Provence,,,,43.5243771,5.4180829
+14060114,relation,,garden,Aix-en-Provence,,,,43.4890441,5.4390593
+14957483,relation,,park,Aix-en-Provence,,,,43.509405,5.4570572
+15812569,relation,,garden,Aix-en-Provence,,,,43.7347268,5.1774534
+16439945,relation,,garden,Aix-en-Provence,,,,43.474023,5.5799537
+16730798,relation,,park,Aix-en-Provence,,,,43.5266254,5.6816014
+17307955,relation,Parc du Grand Barret - dit du Roc fleuri,park,Aix-en-Provence,,,,43.5298588,5.4654483
+17329318,relation,The Marriage Of New York And Athens,artwork,Aix-en-Provence,,,,43.6314116,5.4173503
+20197810,relation,Bastide de Paula,hotel,Aix-en-Provence,,,,43.5270931,5.4495143
+20207139,relation,Abbaye de Silvacane,attraction,Aix-en-Provence,,,,43.7159061,5.3290923

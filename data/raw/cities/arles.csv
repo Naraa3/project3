@@ -1,31 +1,63 @@
 osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+76850188,node,,viewpoint,Arles,,,,43.7029875,4.7213031
 256432447,node,Le Fangassier,hotel,Arles,"12 Route de Cacharel, 13460, Saintes-Maries de la Mer",13460,https://www.hotel-le-fangassier.com/,43.4544348,4.4306847
+300637737,node,Carrières des Lumières,attraction,Arles,"13520, Les Baux-de-Provence",13520,https://www.carrieres-lumieres.com/fr/home,43.7488969,4.7972179
+304078416,node,,viewpoint,Arles,,,,43.4873548,4.6437267
 332189806,node,La Medina,restaurant,Arles,,,,43.6788178,4.6199788
+411498779,node,,viewpoint,Arles,,,,43.7726553,4.8324769
+411498833,node,Belvédère Pierre de Brun,viewpoint,Arles,,,,43.7729555,4.8322967
 422848790,node,,hotel,Arles,,,,43.4506193,4.4305584
+427574237,node,Le Point de Vue des Salins,viewpoint,Arles,,,,43.4012311,4.7520109
+430172350,node,Ancien Fort d'Ancise,ruins,Arles,,,,43.7541932,4.9258051
 510116610,node,La Pirate,restaurant,Arles,,,,43.4519489,4.4284933
+534459711,node,Monument aux morts,memorial,Arles,,,,43.3870174,4.8039568
+534865867,node,,viewpoint,Arles,,,,43.7498637,4.7929701
+631476627,node,,viewpoint,Arles,,,,43.7640151,4.9503181
+669996387,node,,memorial,Arles,,,,43.8803587,4.8571819
+669996388,node,,memorial,Arles,,,,43.8803365,4.8571881
+669997276,node,,memorial,Arles,,,,43.7880644,5.0435156
 674756761,node,Hôtel st Victor,hotel,Arles,,,,43.7155625,4.6976592
 674758833,node,Auberge des Balastres,hotel,Arles,,,,43.7326207,4.7067038
+674759097,node,La Vieille Font,monument,Arles,,,,43.725784,4.7002512
+674768575,node,Cimetière,monument,Arles,,,,43.7292176,4.7142039
 677813393,node,Bistrot des Canisses,restaurant,Arles,,,,43.725854,4.7082459
+678874765,node,,monument,Arles,,,,43.7239347,4.6916754
+679076586,node,Tour,attraction,Arles,,,,43.7257954,4.7018003
+747139074,node,Maison de Frédéric Mistral,museum,Arles,,,http://www.mairiemaillane.fr/musee-maillane.php,43.8314021,4.7826929
 765335650,node,Le Cheval Blanc,hotel,Arles,,,,43.6746158,4.6236438
+772734265,node,Monument aux morts de la guerre de 1914-1918,memorial,Arles,,,,43.7884908,4.8297276
 849779491,node,Maison Hache,restaurant,Arles,,,,43.7610205,4.9500196
 849779494,node,La Bastide,hotel,Arles,,,,43.7543821,4.9612123
 849781088,node,Sous les Micocouliers,restaurant,Arles,,,,43.7611144,4.9505347
 850172182,node,L'Aubergine,restaurant,Arles,,,,43.7605534,4.9506022
 902320899,node,Mas du Prieur,hotel,Arles,,,,43.6526736,4.6607894
 915293717,node,Café de Commerce,restaurant,Arles,,,,43.8614901,4.6929988
+915301032,node,Saint-Christophe,artwork,Arles,,,,43.8618606,4.694071
 1029953532,node,La Cachette,restaurant,Arles,"19 Place Honoré Clair, 13200, Arles",13200,,43.6773891,4.6254464
+1029989081,node,Les Alpilles,viewpoint,Arles,,,,43.6779173,4.6327014
+1029996800,node,La cour de l'archevêché,attraction,Arles,"13200, Arles",13200,,43.6763555,4.6282294
 1030007981,node,La Cantine Végétale,restaurant,Arles,"Place Félix Rey, 13200, Arles",13200,https://www.lacantinevegetale.fr/,43.6755869,4.625747
+1124081206,node,Manade Cavallini - Mas de Pioch,attraction,Arles,,,,43.5288793,4.3995043
+1152928882,node,Château de Châteaurenard,castle,Arles,,,,43.8826429,4.8569387
+1281511421,node,,viewpoint,Arles,,,,43.7628106,4.8620962
+1281511572,node,,viewpoint,Arles,,,,43.7601071,4.8826707
 1325592744,node,L'Aile ou la cuisse,restaurant,Arles,,,,43.788108,4.8319043
 1325592756,node,Le Bistrot des Alpilles,restaurant,Arles,,,,43.7888483,4.8332977
 1325592759,node,Chez L,restaurant,Arles,,,,43.7888237,4.8327496
+1327818364,node,Abbaye de Montmajour,attraction,Arles,,,https://www.abbaye-montmajour.fr,43.7059437,4.6642559
+1343694248,node,,viewpoint,Arles,,,,43.761361,4.8428475
 1362712342,node,La Playa,restaurant,Arles,,,,43.4553728,4.4418555
 1392069017,node,Villa Glanum,hotel,Arles,"13210, Saint-Rémy-de-Provence",13210,,43.7776336,4.8314342
+1416388849,node,Le Café la Nuit,attraction,Arles,,,,43.6774815,4.6272405
 1416400029,node,Hôtel du Forum,hotel,Arles,"10 Place du Forum, 13200, Arles",13200,https://www.hotelduforum.com/,43.677434,4.626736
 1416483516,node,Apostrophe Café,restaurant,Arles,,,,43.677683,4.627231
 1416523999,node,Hôtel Jules César,hotel,Arles,"9 Boulevard des Lices, 13200, Arles",13200,https://www.hotel-julescesar.fr/,43.6749565,4.6284895
 1446024304,node,Le Mas de la Roseraie,hotel,Arles,,,,43.6645343,4.6550544
 1450119955,node,Le Bautezar,restaurant,Arles,"Grand Rue, 13520, Les Baux-de-Provence",13520,,43.7441194,4.7951951
+1450119976,node,,viewpoint,Arles,,,,43.7433638,4.7938689
 1514443568,node,Le Bistrot de Mathieu,restaurant,Arles,,,,43.8684531,4.8365712
+1652843470,node,Arboretum du Badon,viewpoint,Arles,,,,43.7514143,4.9422796
+1653843718,node,Pont Van-Gogh,viewpoint,Arles,,,,43.6569988,4.6209761
 1660001260,node,La Bergerie de Méjanes,restaurant,Arles,,,https://mejanes-camargue.fr/fr/restaurants-la-bergerie-de-mejanes,43.5701862,4.5055994
 1660001261,node,LeRemake,restaurant,Arles,,,,43.452106,4.4271039
 1660001269,node,Le Tourne Broche,restaurant,Arles,,,,43.4519326,4.4272045
@@ -33,7 +65,9 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1660321010,node,L'abbaye de Montmajour,restaurant,Arles,,,,43.7066232,4.6645765
 1661525832,node,Le Calendal,hotel,Arles,"5 Rue Porte de Laure, 13200, Arles",13200,https://www.lecalendal.com/,43.676837,4.6305078
 1666982559,node,,hotel,Arles,,,,43.795239,4.695252
+1723311727,node,Plage de la Goule,beach,Arles,,,,43.4591833,4.4658557
 1776980191,node,Le Prince noir,hotel,Arles,,,,43.743388,4.7952774
+1784188965,node,,viewpoint,Arles,,,,43.5484492,4.6292804
 1849074941,node,Ibis,hotel,Arles,,,https://all.accor.com/ssr/app/ibis/rates/0692/index.fr.shtml?destination=arles-france&compositions=1&dateIn=2025-05-29&dateOut=2025-05-30&nights=1&hideWDR=false&accessibleRoom=false,43.6661132,4.633434
 1923483659,node,Hôtel de Cacharel,hotel,Arles,"13460, Les Saintes Maries de la Mer",13460,https://www.hotel-cacharel.com/,43.4932032,4.445088
 1932292663,node,Le Cloître,hotel,Arles,,,https://www.lecloitre.com,43.6760412,4.6287726
@@ -47,20 +81,41 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2241171373,node,Regence,hotel,Arles,13200,13200,https://www.hotel-regence.com/,43.6809626,4.6305871
 2241171450,node,Chez Mam Goz,restaurant,Arles,,,,43.6766192,4.6304142
 2268113071,node,L'Amandière,hotel,Arles,,,https://hotel-amandiere.com/,43.7954762,4.8397597
+2340117500,node,Frédéric Mistral,artwork,Arles,,,,43.6775075,4.6269666
 2364553384,node,Cabane Bambou,restaurant,Arles,,,,43.6397266,4.8931163
+2429201283,node,,memorial,Arles,,,,43.4499666,4.4263672
+2429201287,node,,memorial,Arles,,,,43.450418,4.4280711
+2429201320,node,,memorial,Arles,,,,43.4523774,4.4286998
 2486682704,node,Les Goûts orientaux,restaurant,Arles,"10 Rue du 4 Septembre, 13200, Arles",13200,,43.6796327,4.6307644
+2604360605,node,Origines Galerie D'art,gallery,Arles,44 Rue des Arènes,,,43.6778293,4.6274634
 2676885600,node,Hôtel Constantin,hotel,Arles,,,,43.6740076,4.6220075
+2767070442,node,,monument,Arles,,,,43.7855028,4.9997827
 2809969132,node,Ibis Budget,hotel,Arles,,,,43.671002,4.6193443
 2809969133,node,Ibis Styles,hotel,Arles,,,,43.6709187,4.6196339
+2928737886,node,Observatoire du Mas Neuf,viewpoint,Arles,,,,43.5716815,4.5419637
 2929379148,node,La Terrasse des Baux,restaurant,Arles,,,,43.743927,4.7949822
 2937408734,node,Hôtel du Musée,hotel,Arles,11 Rue du Grand Prieuré,,http://www.hoteldumusee.com,43.6791081,4.6279263
+2955471278,node,Statue de Tartarin et de son créateur Alphonse Daudet,artwork,Arles,,,,43.8056419,4.654524
+3054462176,node,"Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin",attraction,Arles,,,,43.8070021,4.6609583
+3054462177,node,Musée du tissu Souleïado,museum,Arles,"Rue Charles Demery, 13150, Tarascon",13150,,43.8049028,4.6595926
 3056980900,node,Du côté des olivades,restaurant,Arles,,,,43.7233878,4.7969882
 3074353235,node,Le Terminus,restaurant,Arles,"6 Place Colonel Berrurier, 13150, Tarascon",13150,,43.8024457,4.6569504
 3074353236,node,Bistro la Place,restaurant,Arles,"2 Place Colonel Berrurier, 13150, Tarascon",13150,,43.8026163,4.6570712
 3118228772,node,Le Chiangmaiï,restaurant,Arles,"20bis Rue du Soleil, 13310, Saint-Martin-de-Crau",13310,https://www.lechiangmai.fr/,43.6356767,4.8145898
+3127937833,node,,memorial,Arles,,,,43.6776201,4.6320844
+3127937837,node,,memorial,Arles,,,,43.6778475,4.6325911
 3129286492,node,Le Trident,restaurant,Arles,"10 Place Colonel Berrurier, 13150, Tarascon",13150,,43.8020314,4.6566555
 3129306044,node,Tailles de bon,restaurant,Arles,"1 Place Colonel Berrurier, 13150, Tarascon",13150,https://www.tailles-de-bon-restaurant.com/,43.8015581,4.6578084
+3131171444,node,,viewpoint,Arles,,,,43.6783141,4.6307104
 3148210544,node,Arles Plaza,hotel,Arles,"45 Avenue Sadi Carnot, 13200, Arles",13200,https://www.hotelarlesplaza.com/,43.6716396,4.6239284
+3180375150,node,Arles RDT 13,attraction,Arles,,,,43.6862362,4.6337745
+3180376376,node,Les 2 lions,viewpoint,Arles,Rue Marius Saulcy,,,43.683742,4.6261557
+3180376378,node,Les 2 lions,viewpoint,Arles,,,,43.6837639,4.6300222
+3187204997,node,Statue de la Vierge dorée,monument,Arles,,,,43.8803521,4.8571893
+3246014507,node,,viewpoint,Arles,,,,43.6782698,4.6236604
+3248234666,node,Coordon Bleu,artwork,Arles,,,,43.6779832,4.6326511
+3248234667,node,Atelier du Cartonnage,gallery,Arles,"40 Rue du 4 Septembre, 13200, Arles",13200,,43.6791122,4.6294294
+3280439478,node,,viewpoint,Arles,,,,43.7578396,4.8167936
 3346369106,node,La Bodega,restaurant,Arles,,,,43.45204,4.4291853
 3346369108,node,La Siesta by NC,restaurant,Arles,10 Avenue Van Gogh,,https://brasserielasiestabync.com/,43.4504992,4.4284026
 3346369109,node,Le Penequet,restaurant,Arles,,,,43.4506138,4.4293613
@@ -70,21 +125,53 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3346458333,node,Le Dauphin Bleu,hotel,Arles,,,,43.4523625,4.4336418
 3346477302,node,Les Launes,restaurant,Arles,,,,43.4498911,4.4227025
 3346477303,node,,hotel,Arles,,,,43.4533431,4.4348245
+3368090667,node,,viewpoint,Arles,,,,43.7439831,4.7969036
+3368101163,node,Table d'orientation des Baux,viewpoint,Arles,,,,43.7527213,4.7958373
 3380969015,node,Le Baux Gourmand,restaurant,Arles,"Grand Rue, 13520, Les Baux-de-Provence",13520,,43.7444188,4.7953718
+3384209828,node,La plate-forme de la bergerie,viewpoint,Arles,,,,43.5375545,4.7558989
+3384570242,node,La Vague,artwork,Arles,,,,43.5375322,4.7507709
+3570244393,node,,memorial,Arles,,,,43.790362,5.0398505
+3707991038,node,Tours de Castillon,attraction,Arles,,,,43.704697,4.7894001
 3708006825,node,balladins,hotel,Arles,,,,43.698185,4.642152
 3717106760,node,Brasserie La Fontaine,restaurant,Arles,,,,43.452067,4.4277934
 3717106762,node,La Grange,restaurant,Arles,Avenue Frédéric Mistral,,,43.4518477,4.4266621
 3717106763,node,La Maison de Jeanne,restaurant,Arles,4 Place Jousé d'Arbaud,,,43.4518161,4.4271573
+3717106768,node,,memorial,Arles,,,,43.4511988,4.4278932
+3717106805,node,,artwork,Arles,,,,43.4523634,4.4272657
 3717258725,node,La Suite...,restaurant,Arles,,,,43.4525299,4.428509
+3718806466,node,Camargue,artwork,Arles,,,,43.4505223,4.4291075
+3718806467,node,Crin Blanc,artwork,Arles,,,,43.4520874,4.4289236
+3718806476,node,Vovo,artwork,Arles,,,,43.4502029,4.4264298
+3718806512,node,,memorial,Arles,,,,43.4522853,4.4285653
+3722885545,node,,artwork,Arles,,,,43.4560877,4.4270598
 3810989002,node,La Chassagnette,restaurant,Arles,"13200, Arles",13200,https://www.chassagnette.fr/,43.5676344,4.6674351
+3824891823,node,Équipages alliés,memorial,Arles,,,https://www.aerosteles.net/stelefr-stmartindecrau-gb11,43.6554656,4.7673092
+3826549571,node,Héraclès,artwork,Arles,,,,43.7013526,4.6765419
+3826571559,node,Monument Jaubert,monument,Arles,,,,43.7289569,4.7370147
+3953380723,node,,viewpoint,Arles,,,,43.7632302,4.9488774
 4073105689,node,Le Crin Blanc,hotel,Arles,"Domaine CRIN BLANC CD 37 HAMEAU de SALIERS ALBARON, 13200, Arles",13200,,43.6611715,4.4735933
+4076789982,node,Carré des Zouaves,memorial,Arles,,,,43.6771131,4.6337753
+4076804584,node,,memorial,Arles,,,,43.6770733,4.633892
 4150775892,node,Auberge De Noves,hotel,Arles,"Route de CHATEAURENARD, 13550, Châteaurenard",13550,https://www.aubergedenoves.com/,43.8853276,4.8821324
+4163811411,node,Galerie des Cyprès,gallery,Arles,2 Place Joseph Hilaire,,,43.7891173,4.8316986
 4235272512,node,Mad de Rey,hotel,Arles,,,,43.8852954,4.7989462
 4239915096,node,Best Western,hotel,Arles,1 Rue Émile Fassin,,,43.6744605,4.628249
 4265707058,node,Le Plaza,restaurant,Arles,,,,43.6782607,4.6263833
+4269953272,node,,memorial,Arles,,,,43.8017018,4.6568468
+4283197368,node,,viewpoint,Arles,,,,43.5331859,4.6425292
+4283197369,node,,viewpoint,Arles,,,,43.534104,4.6428501
+4286186489,node,Les Cryptoportiques,attraction,Arles,,,http://www.patrimoine.ville-arles.fr/index.php?action=edifice&id=18,43.6767939,4.6274309
+4291018634,node,,memorial,Arles,,,,43.8016968,4.6578176
+4337116888,node,Hôtel de la tour du Brau,attraction,Arles,,,,43.7431632,4.7943993
 4362380530,node,Mas Des Lys,hotel,Arles,,,,43.4743395,4.4096433
 4362387036,node,Mas De Lys,hotel,Arles,,,,43.4746103,4.4093624
+4367543319,node,,castle,Arles,,,,43.567343,4.5783226
 4423835150,node,Le Côté jardin,restaurant,Arles,"4 Place Albert Gérard, 13660, Orgon",13660,http://www.le-cote-jardin.fr/,43.7915996,5.0400704
+4439354992,node,,viewpoint,Arles,,,,43.7412589,4.7926399
+4439356666,node,,viewpoint,Arles,,,,43.7446487,4.7949653
+4439700189,node,Val d'Enfer,attraction,Arles,,,,43.7496075,4.7943559
+4442406047,node,Esplanade du château,attraction,Arles,,,,43.7423159,4.7949242
+4442406048,node,Musée Yves Brayer,museum,Arles,"Place F. de Herain, 13520, Les Baux-de-Provence",13520,https://www.yvesbrayer.com/fr/musee-des-baux-de-provence/le-musee/,43.7436927,4.794548
 4462926856,node,L'Oustaù de Baumanière,hotel,Arles,,,https://www.baumaniere.com/hebergement,43.7401362,4.7885263
 4462926857,node,L'Oustaù de Baumanière,restaurant,Arles,"13520, Les Baux-de-Provence",13520,https://www.baumaniere.com/gastronomie/loustau-de-baumaniere,43.7470213,4.7955483
 4462926858,node,La Cabro d'Or,restaurant,Arles,,,https://www.baumaniere.com/gastronomie/la-cabro-dor,43.740138,4.7873357
@@ -95,12 +182,14 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4798785428,node,Le Criquet,restaurant,Arles,"21 Rue Porte de Laure, 13200, Arles",13200,,43.6763869,4.630598
 4798788892,node,L'Escaladou,restaurant,Arles,"23 Rue Porte de Laure, 13200, Arles",13200,,43.6763271,4.6305807
 4831204031,node,Hôtel Présent,hotel,Arles,5 Place Voltaire,,https://www.hotelpresent.fr/,43.6799574,4.6314955
+4876354026,node,,artwork,Arles,,,,43.4523841,4.4340396
 4876392525,node,La bouvine,restaurant,Arles,,,,43.4519165,4.4269125
 4876392622,node,La taverne Italienne,restaurant,Arles,,,,43.4521459,4.4270132
 4876402321,node,Le Rouget,restaurant,Arles,,,,43.451303,4.4264997
 4876452521,node,La Casita,restaurant,Arles,3 Rue Espelly,,,43.4507916,4.4271858
 4876455825,node,Les flots bleus,restaurant,Arles,,,,43.4510263,4.4266439
 4877529124,node,Restaurant Le Pont Des Bannes,restaurant,Arles,"Route d'Arles, 13460, Saintes-Maries-de-la-Mer",13460,https://www.lesbainsgardians.com/restaurant-bar,43.4639805,4.4200605
+4879752644,node,Chapelle Saint-Victor (restes),ruins,Arles,,,,43.7172136,4.6942413
 4880159621,node,Les Salicornes,restaurant,Arles,"Rue du Vaccares, 13200, Arles",13200,,43.5738403,4.622833
 4880159622,node,Le Mazet du Vaccarès,restaurant,Arles,"13200, Arles",13200,https://mazet-du-vaccares.fr/,43.5577623,4.490796
 4880159623,node,Le Galoubet,hotel,Arles,,,,43.4562016,4.4321921
@@ -108,6 +197,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4881632728,node,La Mama Sita,restaurant,Arles,"8 Avenue Léon Gambetta, 13460",13460,,43.4508009,4.4298066
 4881632729,node,Le Fournelet,restaurant,Arles,,,,43.4508156,4.4301099
 4881639321,node,Casa Marina,hotel,Arles,,,,43.4510457,4.4309346
+4904654465,node,Le Berger,artwork,Arles,,,,43.637307,4.7987427
 4904657017,node,La Transumance,hotel,Arles,,,,43.6327478,4.8021621
 4938177333,node,Memphis,restaurant,Arles,"Route Nationale 113, 13200, Arles",13200,https://memphis-coffee.com/memphis-arles,43.6513638,4.6694516
 4976301289,node,Le Double J,restaurant,Arles,,,,43.4497261,4.4017121
@@ -129,6 +219,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5000382446,node,Le Jardin des Délices,restaurant,Arles,,,,43.450009,4.4230058
 5034687914,node,La Celtie,restaurant,Arles,29 Rue du 8 Mai 1945,,,43.7877486,4.8314364
 5047658708,node,Paulette,restaurant,Arles,,,,43.7617623,4.9494521
+5120402722,node,Moulin à Huile Coopérative,attraction,Arles,,,,43.6871866,4.8781904
 5131089321,node,Chez xa,restaurant,Arles,"24 Boulevard Mirabeau, 13210",13210,,43.7894058,4.8336713
 5184858429,node,Le Bistrot de l'Église,restaurant,Arles,,,,43.4514506,4.4281758
 5205926635,node,L’entrevue,restaurant,Arles,"Place Nina Berberova, 13200",13200,https://www.lentrevue-restaurant.com/,43.6784883,4.6248283
@@ -136,17 +227,36 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5281652279,node,La Tour de Pise,restaurant,Arles,"24 Rue du Président Wilson, 13200, Arles",13200,,43.6758533,4.6261361
 5281778341,node,L'ingénu,restaurant,Arles,"13 Place Voltaire, 13200, Arles",13200,,43.6799334,4.6317509
 5281821728,node,Sous les figuiers,hotel,Arles,,,https://www.hotelsouslesfiguiers.com/,43.7913137,4.8311291
+5297003809,node,,artwork,Arles,,,,43.6382181,4.8298575
+5299352540,node,Aux Enfants e Raphele,memorial,Arles,,,,43.6450182,4.7175117
 5299700181,node,La Bergerie Provencale,restaurant,Arles,"Route de la Crau, 13280, Raphele les Arles",13280,,43.6489321,4.7051534
 5313316583,node,Restaurant Bellevue,restaurant,Arles,,,,43.786883,5.0466425
+5320874710,node,Le Bois Francois,park,Arles,,,,43.3930806,4.7915595
 5327934619,node,Le Bistrot de Mogador,restaurant,Arles,"Route de Maussane, 13990, Fontvieille",13990,,43.7355997,4.742256
+5339224013,node,,memorial,Arles,,,,43.6650001,4.6478612
+5341440491,node,,park,Arles,,,,43.4077749,4.7318678
+5349485937,node,,artwork,Arles,,,,43.6469712,4.7206134
 5350859487,node,Chez Vincent,restaurant,Arles,"Route de la Crau, 13280, Raphele",13280,,43.6450349,4.716257
 5351512223,node,Chez Marco,restaurant,Arles,"39 Avenue de la République, 13310, Saint-Martin-de-Crau",13310,,43.637432,4.8074012
 5351530782,node,Hoi-An,restaurant,Arles,"Place Général de Gaulle, 13310, Saint-Martin-de-Crau",13310,,43.6375885,4.80791
 5351544536,node,Le Saint'M,restaurant,Arles,"6 Place Georges Brassens, 13310, Saint-Martin-de-Crau",13310,http://www.saintmenprovence.com/,43.6383427,4.8101995
 5358650597,node,Hostellerie de la Tour,hotel,Arles,3 Rue des Plumelets,,,43.7262158,4.7026816
+5409945647,node,Couvent des Cordeliers,attraction,Arles,"2 Rue Frédéric Mistral, 13150, Tarascon",13150,,43.8044043,4.6575691
+5426745169,node,Gilbert le Roy,memorial,Arles,,,,43.457508,4.4470114
+5431356603,node,,memorial,Arles,,,,43.4535008,4.4364081
+5444117951,node,Aqueduc Romain des Alpilles,attraction,Arles,,,,43.6760675,4.6330586
+5446727049,node,Aqueduc Romain des Alpilles,attraction,Arles,,,,43.6763028,4.6326572
+5465181393,node,,memorial,Arles,,,,43.839568,4.917144
 5470513475,node,Café de la Fontaine,restaurant,Arles,70 Avenue de la Vallée des Baux,,https://www.lecafedelafontaine.com/,43.7208247,4.8052232
 5470517582,node,Au Bistrot Marin,restaurant,Arles,68 Avenue de la Vallée des Baux,,https://www.aubistrotmarin.fr/,43.7208489,4.80514
+5485260214,node,Château de Mas Blanc,castle,Arles,,,,43.7898551,4.7636367
+5486521437,node,Monument aux morts de la guerre de 1914-1918,memorial,Arles,,,,43.8609599,4.9495993
+5494458753,node,Autel de la Coquille,attraction,Arles,,,,43.7266831,4.7437278
+5520216322,node,,viewpoint,Arles,,,,43.4398149,4.6149358
+5545080748,node,Corrales de Gimeaux,attraction,Arles,,,,43.674267,4.6036576
+5545790330,node,,memorial,Arles,,,,43.6369963,4.8015955
 5552059636,node,Hôtel de l'Avenir,hotel,Arles,"Avenue de la République, 13310, Saint-Martin-de-Crau",13310,,43.6380124,4.8088106
+5631055735,node,Canard téléporté,artwork,Arles,,,,43.5356047,4.7535389
 5664005108,node,Roma,restaurant,Arles,"33 Boulevard Marceau, 13210, Saint-Rémy-de-Provence",13210,https://www.restaurant-le-roma.com,43.7880224,4.8304248
 5664005114,node,Café La Place,restaurant,Arles,,,http://cafedelaplace-stremy.fr/,43.7884979,4.8292324
 5664005115,node,Hôtel Gounod,hotel,Arles,,,,43.7886347,4.8292293
@@ -168,9 +278,19 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5845665413,node,Cuisine des anges,restaurant,Arles,,,,43.7880639,4.8313056
 5849779054,node,Honoré,restaurant,Arles,3 Boulevard Mirabeau,,https://www.honorebrunch.fr,43.7885696,4.8328865
 5887711067,node,L'Oustalet Maianen,restaurant,Arles,"16 Avenue Lamartine, 13910, Maillane",13910,,43.8312982,4.7824344
+5918023209,node,Le jardin de la Paix,memorial,Arles,,,,43.7346047,4.8366555
 5981777605,node,Cuit Cuit,restaurant,Arles,"2 Rue du Docteur Fanton, 13200, Arles",13200,https://www.thegoodarles.com/entreprises/rotisserie-et-sommeil-arles-cuit-cuit/,43.6783048,4.6276008
 6002816012,node,Brasserie des arènes,restaurant,Arles,,,,43.4504438,4.4272557
+6002841722,node,Maison du Riz,museum,Arles,,,https://www.maisonduriz.com/,43.6136072,4.4547978
 6049353369,node,La Table Cabannaise,restaurant,Arles,,,,43.8609964,4.94853
+6073340907,node,Prise d’eau de la Grande Montlong,attraction,Arles,,,https://lphdpa.wordpress.com/2015/12/02/lancienne-prise-deau-de-la-grande-montlong/,43.6350731,4.6070254
+6073340908,node,,viewpoint,Arles,,,,43.6350275,4.6071513
+6102492822,node,Vestige du forum,attraction,Arles,,,,43.6774121,4.6270617
+6102571611,node,,memorial,Arles,,,,43.6852307,4.6320512
+6102623017,node,,artwork,Arles,,,,43.6837768,4.6261402
+6102623018,node,,artwork,Arles,,,,43.6836916,4.6261397
+6102623025,node,,artwork,Arles,,,,43.683808,4.6300235
+6102623026,node,,artwork,Arles,,,,43.6837249,4.6300249
 6111102143,node,Le rendez-vous,restaurant,Arles,"17 Rue Copernic, 13310, Saint-Martin-de-Crau",13310,https://www.facebook.com/lerendezvousstmartindecrau/,43.6426339,4.7970974
 6113889082,node,Izakayan,restaurant,Arles,"3 Rue de la Cavalerie, 13200, Arles",13200,,43.6809102,4.6314216
 6116862899,node,Euro d'Asie,restaurant,Arles,,,,43.6641186,4.6395831
@@ -186,7 +306,10 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 6139984636,node,Menara,restaurant,Arles,"5 Rue Voltaire, 13200, Arles",13200,,43.6804227,4.6313352
 6139992066,node,Hôtel Le Voltaire,hotel,Arles,"1 Place Voltaire, 13200, Arles",13200,https://www.hotelvoltairearles.com,43.679999,4.631315
 6140017216,node,Le Cochon qui fume,restaurant,Arles,"Rue Léon Blum, 13200, Arles",13200,,43.6800865,4.6309173
+6140017219,node,Aux Arts exetera...,gallery,Arles,"55 Rue Condorcet, 13200, Arles",13200,,43.6796404,4.6315623
 6140017220,node,Le Ginestre,restaurant,Arles,"53 Rue Condorcet, 13200, Arles",13200,,43.6796666,4.6317227
+6140930584,node,SpeedBird,gallery,Arles,"19 Rue des Suisses, 13200, Arles",13200,https://www.speedbirdphotovintage.com/,43.6783883,4.6281883
+6140969885,node,,gallery,Arles,,,,43.6774338,4.6253509
 6142324502,node,Pizza Moulin's,restaurant,Arles,"27 Route de la Crau, 13280, Raphèle-lès-Arles",13280,,43.6449393,4.718537
 6147018743,node,Le Vingt-Quatre,restaurant,Arles,"24 Avenue Victor Hugo, 13200, Arles",13200,,43.6750083,4.6354253
 6147018745,node,Les Ateliers,restaurant,Arles,"31 Avenue Victor Hugo, 13200, Arles",13200,https://www.brasserie-les-ateliers-restaurant-arles.com/,43.6746558,4.6350457
@@ -195,26 +318,45 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 6165849235,node,Lou Marquès,restaurant,Arles,"9 Boulevard des Lices, 13200, Arles",13200,https://www.hotel-julescesar.fr/fr/page/restaurant-bar.45.html,43.6749185,4.6282548
 6166963727,node,Jardin des Arts,restaurant,Arles,"38 Rue de la République, 13200, Arles",13200,https://jardindesarts.fr/,43.676458,4.6258102
 6173558205,node,L'Estelle en Camargue,hotel,Arles,,,https://www.hotelestelle.com/,43.4704019,4.3957623
+6178341785,node,Conservatoire du santon provençal,museum,Arles,"14 Rond-Point des Arènes, 13200, Arles",13200,https://www.facebook.com/Conservatoire-du-santon-proven%C3%A7al-1807905296116298/,43.6781148,4.6301021
 6178367296,node,La Maison des Gourmants,restaurant,Arles,"26 Rond-Point des Arènes, 13200, Arles",13200,https://www.facebook.com/pages/La-Maison-des-Gourmands/242466292889455,43.6769785,4.6306328
 6178367298,node,Chez Félix,restaurant,Arles,"32BIS Rond-Point des Arènes, 13200, Arles",13200,https://restaurant-chez-felix.fr/,43.6769749,4.6310522
 6178367299,node,Sakura,restaurant,Arles,"32 Rond-Point des Arènes, 13200, Arles",13200,https://sakurarles.com/,43.6769793,4.6309792
+6214739885,node,Musée des Alpilles,museum,Arles,,,https://www.mairie-saintremydeprovence.com/que-faire-a-saint-remy/envie-de-culture/musee-des-alpilles/,43.7894582,4.8308012
+6335508017,node,Musée Estrine - Présence Van Gogh,museum,Arles,"8 Rue Lucien Estrine, 13210, Saint-Rémy-de-Provence",13210,https://www.musee-estrine.fr/,43.7887777,4.8322436
+6335522681,node,Musée d'Art et d'Histoire,museum,Arles,,,,43.8045291,4.6574648
+6343183396,node,Marais du Verdier,attraction,Arles,,,,43.5261826,4.6949623
+6343183401,node,Marais du Verdier,viewpoint,Arles,,,,43.5315629,4.699969
+6382009138,node,,viewpoint,Arles,,,,43.5396141,4.6376818
+6382009144,node,,viewpoint,Arles,,,,43.5453973,4.6308264
+6418246605,node,Parc Naturel Régional de Camargue,attraction,Arles,,,,43.6245853,4.5286464
+6427516930,node,,memorial,Arles,,,,43.4144453,4.7313416
+6429106696,node,Tour du Tampan,attraction,Arles,,,,43.411145,4.6767359
+6434385786,node,,viewpoint,Arles,,,,43.8981748,4.7482951
 6444027985,node,La Maison - Domaine de Bournissac,restaurant,Arles,,,www.lamaison-a-bournissac.com,43.835269,4.8821608
 6449149985,node,Bar Restaurant de l'Étang,restaurant,Arles,,,,43.4516126,4.4248263
 6455896713,node,Chez Toinou,restaurant,Arles,,,,43.3854063,4.8053095
 6455960164,node,Brasserie les Pins,restaurant,Arles,,,,43.3876689,4.8025067
 6482067186,node,Mas Saint Bertrand,restaurant,Arles,,,https://www.mas-saint-bertrand.com,43.4488329,4.6614848
 6513213749,node,Palace grill,restaurant,Arles,,,,43.637918,4.8093046
+6521298085,node,L'atelier du sculpteur,gallery,Arles,,,,43.6890306,4.8709861
+6539828986,node,Maison Natale de Nostradamus,memorial,Arles,,,,43.7881994,4.8305789
 6544199473,node,Le Mas du Capoun,restaurant,Arles,"27 Avenue des Paluds, 13940, Mollégès",13940,http://www.masducapoun.com/,43.8066271,4.9474675
 6544267527,node,Bistrot Chez Ju,restaurant,Arles,"21 Traverse du poids public, 13940, Mollégès",13940,https://bistrot-chez-ju.fr,43.8052238,4.9499065
 6546893839,node,La Maison Bleue,hotel,Arles,"35 Avenue du Comtat, 13940, Mollégès",13940,,43.8067076,4.9499968
 6546950187,node,Clos Dou Capoun,hotel,Arles,"27 Avenue des Paluds, 13940, Mollégès",13940,http://www.masducapoun.com/,43.8066409,4.9475589
 6547169175,node,Mas des Angelots,hotel,Arles,"435 Chemin de Bouscaron, 13940, Mollégès",13940,,43.8018912,4.9540203
+6551455918,node,,viewpoint,Arles,,,,43.6350081,4.7930776
+6551547388,node,,viewpoint,Arles,,,,43.6341631,4.7961178
 6554791568,node,Albergo Provenza,hotel,Arles,"Chemin de la Crau, 13670, Saint-Andiol",13670,,43.8268224,4.9558224
 6554982396,node,Le Mas Des Peupliers,hotel,Arles,"Chemin des Costières, 13670, Saint-Andiol",13670,https://www.location-alpilles.com/,43.8161296,4.9272602
+6555020990,node,Le jardin du Papet - Agriculteur,garden,Arles,,,http://www.jardindupapet.com/,43.8013475,4.9284898
 6555172777,node,Traiteur Girard,restaurant,Arles,"921 Route de Saint-Rémy, 13670, Saint-Andiol",13670,,43.8284763,4.9266125
 6557691883,node,Restaurant Route 66,restaurant,Arles,"533 Route de Marseille, 13750, Plan-d'Orgon",13750,,43.8043764,5.0006001
+6557861924,node,Ground Control,gallery,Arles,"Avenue Paulin Talabot, 13200, Arles",13200,,43.6855013,4.6318563
 6557866268,node,Le Planais,restaurant,Arles,"92 Route de Cavaillon, 13750, Plan-d'Orgon",13750,https://www.leplanais-pizzeria.fr/,43.8079718,4.9965507
 6557934277,node,La Cigale au bord de l'eau,hotel,Arles,"447 Route des Écoles, 13750, Plan-d'Orgon",13750,,43.813394,4.9996816
+6567752122,node,Carrières des Lumières,attraction,Arles,"13520, Les Baux-de-Provence",13520,www.carrieres-lumieres.com;https://www.carrieres-lumieres.com/fr/home,43.7483648,4.7964245
 6596578102,node,Casa Marina,restaurant,Arles,,,,43.4510171,4.4308515
 6610178568,node,Un Bouchon en Provence,restaurant,Arles,,,,43.8406042,4.8408673
 6621123181,node,Gaudina,restaurant,Arles,,,,43.6777384,4.627812
@@ -226,6 +368,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 6776736886,node,Le pueblo,restaurant,Arles,,,,43.5852605,4.4575139
 6820038985,node,Le Patio des Alyscamps,restaurant,Arles,,,,43.67339,4.6325297
 6821695685,node,La Casa Romana,restaurant,Arles,6 Rue Joseph Roumanille,,https://www.casa-romana-restaurant-saintes-maries-de-la-mer.fr/,43.4523194,4.4278556
+6823447252,node,Cabestan de la carrière Saint-Paul,attraction,Arles,,,,43.7762216,4.8329524
 6863551313,node,Kaly Sushi,restaurant,Arles,,,,43.7037938,4.6440508
 6863551323,node,Dreams Donuts,restaurant,Arles,,,https://www.maison-annepauline.com/,43.7041941,4.6441985
 6863679722,node,Chez Etienne,restaurant,Arles,,,https://www.facebook.com/Bistrot-Chez-Etienne--110763346968280/,43.7051944,4.6439276
@@ -238,6 +381,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 6919776022,node,Bodeguita,restaurant,Arles,"16 Rue de l'Hôtel de Ville, 13200, Arles",13200,https://www.bodeguita.fr/,43.6776545,4.6276975
 6928764195,node,Restaurant de la Treille,restaurant,Arles,"13150, Tarascon",13150,https://www.frigolet.com/un-lieu-d-accueil/restaurant,43.8581138,4.7269812
 7027703513,node,Chez Madame Ly,restaurant,Arles,"7 Avenue Albert Schweitzer, 13210, Saint-Rémy-de-Provence",13210,,43.7930032,4.8332927
+7042119689,node,,artwork,Arles,,,,43.3961255,4.796211
 7054329269,node,Jaipur Palace,restaurant,Arles,"27 Rue Porte de Laure, 13200, Arles",13200,,43.676192,4.6304967
 7061418749,node,La Telline,restaurant,Arles,,,,43.5779201,4.621604
 7074407978,node,Le By Pass,restaurant,Arles,,,,43.4147137,4.7344032
@@ -248,6 +392,9 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 7080801646,node,Sô Sushi,restaurant,Arles,"24 Boulevard des Lices, 13200, Arles",13200,,43.6754229,4.6275262
 7084629457,node,Le Petit Arles,restaurant,Arles,"29 Rue de l'Hôtel de Ville, 13200, Arles",13200,,43.6772363,4.6278336
 7101090866,node,Dim-Mui,restaurant,Arles,"22 Rue de l'Hôtel de Ville, 13200, Arles",13200,,43.677443,4.6277137
+7105297858,node,Dr J.Urpar,artwork,Arles,,,,43.6754313,4.6310082
+7105312812,node,,artwork,Arles,,,,43.6753751,4.6307202
+7105322749,node,,artwork,Arles,,,,43.6753867,4.6305839
 7105340781,node,Pia,restaurant,Arles,,,,43.6752624,4.6262266
 7105361877,node,La Comédie,restaurant,Arles,"10 Boulevard Georges Clemenceau, 13200, Arles",13200,https://lacomedie-arles.com/,43.675267,4.6260346
 7105413109,node,Café George,restaurant,Arles,"20 Boulevard Georges Clemenceau, 13200, Arles",13200,https://cafe-georges-arles.fr/,43.6753124,4.6257357
@@ -256,6 +403,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 7107820767,node,L'Hostellerie des Arènes,restaurant,Arles,"62 Rue du Refuge, 13200, Arles",13200,https://www.l-hostellerie-des-arenes-restaurant-arles.com/,43.6783924,4.6315805
 7107838888,node,Crok'Panda,restaurant,Arles,,,,43.6795996,4.6309725
 7107838889,node,Le Pitchounet,restaurant,Arles,"22 Place Voltaire, 13200, Arles",13200,,43.6797351,4.6310069
+7108067281,node,Observatoire,viewpoint,Arles,,,,43.5651719,4.5126962
 7122952182,node,L'Oriel,restaurant,Arles,"3 Rue Barrêmes, 13200, Arles",13200,,43.6775697,4.6264452
 7137263689,node,La Caravelle,restaurant,Arles,,,,43.6790759,4.6267524
 7137515909,node,La Gueule du Loup,restaurant,Arles,"39 Rue des Arènes, 13200, Arles",13200,https://www.restaurant-lagueuleduloup.fr/,43.6777369,4.6279747
@@ -263,32 +411,69 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 7137530664,node,Chez ta Mère,restaurant,Arles,"42 Rue des Arènes, 13200, Arles",13200,,43.6778407,4.627524
 7138765344,node,La Bohême,restaurant,Arles,"6 Rue Balze, 13200, Arles",13200,,43.6769589,4.6265356
 7147642316,node,Chez Fabrice,restaurant,Arles,"25 Avenue Nostradamus, 13310, Saint-Martin-de-Crau",13310,,43.638765,4.8164177
+7193966627,node,,viewpoint,Arles,,,,43.4110641,4.6767523
+7201392037,node,,viewpoint,Arles,,,,43.7485021,4.7893651
 7286408976,node,Le Restaurant Pluvinel,restaurant,Arles,"40, 13520",13520,https://pluvinel.fr/pluvinel_restaurant.html,43.7091214,4.8072775
+7293005485,node,Alphonse Daudet,artwork,Arles,,,,43.7255663,4.7084581
 7432977496,node,,hotel,Arles,,,,43.3882058,4.8085275
 7432977498,node,Le Bistrot du Marché,restaurant,Arles,,,,43.3878201,4.8079544
+7436753411,node,,memorial,Arles,,,,43.8090179,4.9989094
 7464322165,node,L'oranger,restaurant,Arles,,,,43.8631172,4.6935165
 7485637277,node,La Brasserie de Marie,restaurant,Arles,,,,43.8028331,4.6625415
+7488617737,node,,viewpoint,Arles,,,,43.864879,4.6946905
+7666464912,node,bassin de convergence des aqueducs,attraction,Arles,,,,43.7059556,4.7217867
+7677308425,node,,artwork,Arles,,,,43.7867474,5.042833
 7751993085,node,Chez Rachida,restaurant,Arles,,,,43.8191716,4.8050098
 7762465072,node,Le Constantin,restaurant,Arles,"6 Rue du Sauvage, 13200, Arles",13200,,43.6787599,4.627505
 7788067027,node,N'Apo,restaurant,Arles,"Place du Forum, 13200, Arles",13200,,43.6775699,4.6272446
 7797191358,node,Mas des Rièges,hotel,Arles,,,,43.4615855,4.4289091
 7885097090,node,Le Bouchon Rouge,restaurant,Arles,"Rue du Trencat, 13520, Les Baux-de-Provence",13520,https://www.lebouchonrouge.fr,43.7433947,4.7948815
+7922832885,node,Porte de Eyguières (s.XVIII),attraction,Arles,,,,43.7442392,4.7948668
+7923129885,node,Logis de Brisson-Peyre,attraction,Arles,"Grand Rue, 13520, Les Baux-de-Provence",13520,https://www.lesbauxdeprovence.com/activites/patrimoine/post-tenebras-lux,43.7437928,4.7952123
 8013732747,node,Aki Poke,restaurant,Arles,,,,43.6767726,4.6251332
+8013732748,node,Galerie Anne Clergue,gallery,Arles,,,,43.67705,4.6274399
+8112370456,node,,artwork,Arles,,,,43.6799075,4.6390487
+8169996802,node,,park,Arles,,,,43.6353375,4.7960155
 8319639782,node,La Guigou,hotel,Arles,,,https://www.baumaniere.com/hebergement,43.743976,4.7910646
 8355896546,node,O'sushi bar,restaurant,Arles,3 Avenue de la Libération,,https://www.so-sushi-bar.fr/,43.7889654,4.8338838
+8434241395,node,Léa Lund & Éric K photo,gallery,Arles,"16 Rue du Docteur Fanton, 13200, Arles",13200,,43.6781654,4.6269702
+8442806344,node,,viewpoint,Arles,,,,43.7502781,4.7930038
 8445160682,node,,restaurant,Arles,,,,43.876008,4.9019442
+8447059148,node,,memorial,Arles,,,,43.7896323,4.8323086
+8447059151,node,,artwork,Arles,,,,43.789296,4.8322134
+8450373322,node,Musée Maurice Pezet,museum,Arles,,,https://www.alpillesenprovence.com/fiches/musee-maurice-pezet-musee-dhistoire-locale/,43.7637106,4.9492121
+8450373323,node,,artwork,Arles,,,,43.7633246,4.9490686
+8450373324,node,,memorial,Arles,,,,43.7632808,4.9487706
 8460879458,node,Le Mistral,restaurant,Arles,"26 Boulevard Itam, 13150, Tarascon",13150,,43.8062913,4.6590771
 8504054938,node,Jana la Cuisine du Voyage;Jana la cuisine du voyage,restaurant,Arles,"5 Avenue de la Libération, 13210, Saint-Rémy-de-Provence",13210,https://jana-la-cuisine-du-voyage.eatbu.com,43.7889687,4.834014
+8507918307,node,Alphonse De Lamartine,artwork,Arles,,,,43.6819261,4.630512
+8531080314,node,La Tarasque,artwork,Arles,,,,43.8059187,4.6546322
+8538091475,node,Belvédère de Notre-Dame-du-Château,viewpoint,Arles,,,,43.7775287,4.7442184
 8578779562,node,L'Ami Provençal,restaurant,Arles,"35 Place de l'Église, 13990, Fontvieille",13990,https://lamiprovencal.fr/,43.7263429,4.70936
+8596091470,node,,viewpoint,Arles,,,,43.5370509,4.7518454
+8768365118,node,Zone naturiste de la plage de Piémanson,beach,Arles,,,,43.344773,4.7997125
+8818809013,node,Ancienne abbaye d'Ulmet,viewpoint,Arles,,,,43.4658637,4.6346348
+8872939531,node,Atelier Luma,gallery,Arles,,,,43.6730498,4.638228
+8875553814,node,Chemin des Espagnols,memorial,Arles,,,,43.7791359,4.8288716
 8892432655,node,Le Bistro Populaire,restaurant,Arles,"1 Rue Girard le Bleu, 13200, Arles",13200,https://www.thegoodarles.com/entreprises/bistrot-populaire-restaurant-coquillages-arles/,43.6769899,4.6312759
+8909815615,node,,viewpoint,Arles,,,,43.7464661,4.799057
 8926371926,node,Brasserie du MIN,restaurant,Arles,,,,43.8862643,4.8572989
 8954361026,node,Le château,restaurant,Arles,,,https://restaurant-le-chateau13.eatbu.com/?lang=fr,43.8063629,4.6556978
 8954361028,node,La Canterane,hotel,Arles,,,,43.8067071,4.6557527
 8954361029,node,Le Tartarin,restaurant,Arles,,,https://www.campingtartarin.fr/,43.8076578,4.6561226
 9015329518,node,L'Essentiel,restaurant,Arles,"Place Antonelle, 13200, Arles",13200,,43.677196,4.624293
 9015414981,node,,restaurant,Arles,,,https://www.masdaigret.com/hotel-restaurant-baux-de-provence,43.7451777,4.7995562
+9017638917,node,La Chapelle Saint-Clerg,monument,Arles,,,,43.769477,4.8380775
 9029685886,node,Les Baux Jus,restaurant,Arles,,,,43.7441752,4.7949665
 9031317116,node,La Camarque,restaurant,Arles,,,,43.4100203,4.7269743
+9045300672,node,Moulin Alphonse Daudet,attraction,Arles,,,,43.7209796,4.7128215
+9051342757,node,,viewpoint,Arles,,,,43.7432585,4.7960673
+9074441513,node,Arles Galerie,gallery,Arles,,,,43.6778315,4.6264596
+9097447759,node,Le Corridor à sept portes coulissantes (Carsten Höller),artwork,Arles,,,,43.6727851,4.6372161
+9098391841,node,"Mémoire,2021 (Kerstin Brätsch)",artwork,Arles,,,,43.6742591,4.635754
+9098595417,node,Charloun Rieu,memorial,Arles,,,,43.7414666,4.7935919
+9216451401,node,,viewpoint,Arles,,,,43.8596637,4.7180625
+9218996118,node,,artwork,Arles,,,,43.4502085,4.4087974
 9236048114,node,L'Adresse,restaurant,Arles,,,,43.6751341,4.6337376
 9236079048,node,Brasserie L'Arôme,restaurant,Arles,"Avenue Victor Hugo, 13200, Arles",13200,,43.674776,4.6328558
 9287745896,node,Dans la Cuisine,restaurant,Arles,,,,43.6768143,4.6429625
@@ -297,26 +482,43 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 9380024518,node,Dune,restaurant,Arles,"8 Rue Réattu, 13200, Arles",13200,,43.678816,4.6280938
 9441785350,node,Le Comptoir des Gourmets,restaurant,Arles,"18 Place Colonel Berrurier, 13150, Tarascon",13150,,43.8017151,4.6564722
 9486105020,node,Les Arnelles,hotel,Arles,"Route d'Arles, 13460, Saintes-Maries-de-la-Mer",13460,https://www.lesarnelles.com,43.4623082,4.423316
+9518451536,node,,viewpoint,Arles,,,,43.4868637,4.4054776
+9518451548,node,Espace Alan R. Johnson,viewpoint,Arles,,,,43.4876631,4.4061985
+9544208233,node,,viewpoint,Arles,,,,43.7479157,4.7963556
 9555793746,node,Du début à la faim,restaurant,Arles,"10 Rue du Président Wilson, 13200, Arles",13200,,43.6761681,4.6260426
+9583730357,node,,viewpoint,Arles,,,,43.6822809,4.6302084
+9583730358,node,La Nuit étoilée sur le Rhône,attraction,Arles,,,,43.6823531,4.6301502
+9598034291,node,,artwork,Arles,,,,43.7927477,4.8334285
+9600399063,node,,artwork,Arles,,,,43.7889663,4.8269355
 9606124913,node,L'Aile ou la Cuisse,restaurant,Arles,"34 Boulevard Mirabeau, 13210, Saint-Rémy-de-Provence",13210,https://www.laile-ou-la-cuisse-restaurant-saint-remy-de-provence.com/,43.7899915,4.8342064
 9606134419,node,Les délices de C.Line.B,restaurant,Arles,"34 Boulevard Mirabeau, 13210, Saint-Rémy-de-Provence",13210,https://www.laile-ou-la-cuisse-restaurant-saint-remy-de-provence.com/,43.7897027,4.8342572
 9657797317,node,Pizza KBO,restaurant,Arles,,,,43.4101387,4.7264989
 9669821034,node,Wok D'asie,restaurant,Arles,102 Chemin de l'Oratoire,,https://www.lewokdasie.fr,43.888733,4.852618
 9673936623,node,Le Forum,restaurant,Arles,,,,43.6493607,4.6382019
 9707558899,node,Café Restaurant de l'Avenir,restaurant,Arles,"2 Avenue Alain Guigue, 13104, Arles",13104,,43.5587602,4.7277741
+9721219929,node,,viewpoint,Arles,,,,43.7216496,4.7093169
 9727008941,node,L'Embuscadère,restaurant,Arles,,,,43.4508279,4.4306614
 9763839719,node,La Cuisine au Planet,restaurant,Arles,"144 Grand'Rue, 13990",13990,https://lacuisineauplanet.fr/,43.7264153,4.7074211
+9773277901,node,,viewpoint,Arles,,,,43.377607,4.8088842
+9773319539,node,,viewpoint,Arles,,,,43.3755748,4.8116237
+9776806896,node,,viewpoint,Arles,,,,43.5353663,4.7535619
 9796572008,node,La ginguette aux perroquets,restaurant,Arles,494 Route de Robert,,https://la-guinguette-aux-perroquets.eatbu.com/?lang=fr,43.5511111,4.7240842
 9813016630,node,Chez Nina,restaurant,Arles,,,,43.4150464,4.7344716
 9831564069,node,QG,restaurant,Arles,"Rue Amédée Pichot, 13200, Arles",13200,,43.6799614,4.6307686
 9846791717,node,Le Progrès,restaurant,Arles,,,,43.760833,4.9501719
 9850598209,node,L'Atelier du Moulin,restaurant,Arles,"Rue de L'Armistice, 13930, Aureille les Alpilles",13930,,43.7065515,4.9477346
+9855878398,node,,viewpoint,Arles,,,,43.7513957,4.7932403
 9859125220,node,O Jinko,restaurant,Arles,"8 Place Paul Doumer, 13200, Arles",13200,,43.6767956,4.6231991
 9862769997,node,Pizzeria La Mamma,restaurant,Arles,,,,43.6792791,4.630293
 9862769998,node,La Pergula,restaurant,Arles,,,,43.6763942,4.6304622
 9864018423,node,Restaurant chez Maria et Didier,restaurant,Arles,,,,43.8030521,4.6582415
 9864018451,node,Bistro la Caseta,restaurant,Arles,,,,43.8045567,4.6570478
 9864323477,node,Le Médina,restaurant,Arles,"31 Rue des Porcelets, 13200, Arles",13200,https://fr.restaurantguru.com/La-Medina-Arles-Arles,43.676858,4.6236705
+9871813152,node,,viewpoint,Arles,,,,43.7420647,4.7941799
+9871955902,node,,viewpoint,Arles,,,,43.7419656,4.7947319
+9871955903,node,,viewpoint,Arles,,,,43.7414885,4.7939009
+9919250691,node,Aux Docks d'Arles,gallery,Arles,,,https://www.auxdocksdarles.com/,43.6784145,4.625302
+9921481995,node,,artwork,Arles,,,,43.7186837,4.7841749
 9922510831,node,À Côté,restaurant,Arles,"16 Rue du Capitaine Fouque, 13460, Les Saintes-Maries-de-la-Mer",13460,,43.4506336,4.4280219
 9943437217,node,La régie,restaurant,Arles,,,,43.5220034,4.4053803
 9952274696,node,Brasserie Le Caf'Or,restaurant,Arles,852 Boulevard Ernest Genevet,,,43.8877043,4.8556375
@@ -324,15 +526,36 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 9960095310,node,Pizza Pronto,restaurant,Arles,,,https://pizzapronto13.com/,43.8832464,4.8524428
 9960095311,node,Les Glycines d'Antan,restaurant,Arles,12 Avenue Victor Hugo,,https://www.lesglycinesdantan.fr/,43.8828786,4.8535455
 9967410770,node,Family's Pizza,restaurant,Arles,"5 Rue Isaac Newton, 13310, Saint-Martin-de-Crau",13310,,43.6408665,4.7973652
+9994426608,node,Vue de Saintes-Maries,artwork,Arles,,,,43.4497381,4.4280722
+10000366240,node,,viewpoint,Arles,,,,43.7405891,4.7569357
+10000404965,node,,viewpoint,Arles,,,,43.7402786,4.7567985
+10006708896,node,,viewpoint,Arles,,,,43.7405561,4.7575629
 10066478325,node,Padthai-ya,restaurant,Arles,"1 Rue Isaac Newton, 13310, Saint-Martin-de-Crau",13310,,43.6412812,4.7971429
 10066478326,node,Ho Sushi,restaurant,Arles,"1 Rue Isaac Newton, 13310, Saint-Martin-de-Crau",13310,,43.6412607,4.7972456
+10102912853,node,"Musée Jean Moulin ""Souvenir de mon pays""",museum,Arles,"Place du Maréchal de Lattre de Tassigny, 13670, Saint-Andiol",13670,,43.8354484,4.9445378
+10126583436,node,Mémorial du GB 11,memorial,Arles,,,https://www.aerosteles.net/stelefr-stmartindecrau-gb11,43.6554456,4.7672833
+10221746970,node,Galerie Huit Arles,gallery,Arles,8 Rue de la Calade,,https://www.galeriehuitarles.com/,43.676999,4.6289488
 10221759902,node,Le Maquis Akwaba,restaurant,Arles,,,,43.6769882,4.6306758
+10240512538,node,Sentier botanique,attraction,Arles,,,,43.7601319,4.8376689
+10245151893,node,,viewpoint,Arles,,,,43.7522715,4.7942303
 10253080911,node,Pizza Vero,restaurant,Arles,37 Rue des Iris,,,43.6436714,4.8186837
 10253613747,node,Hôtel de l'Amphithéâtre,hotel,Arles,"5 Rue Diderot, 13200, Arles",13200,https://www.hotelamphitheatre.fr/,43.6773392,4.6291267
 10253614045,node,Hôtel du Viaduc,hotel,Arles,"9 Rue du Viaduc, 13150, Tarascon",13150,https://www.hotelduviaduc.com/,43.801637,4.6602242
 10282352209,node,La Fabrique Des Sens,restaurant,Arles,,,,43.4522572,4.4334703
+10282711488,node,,viewpoint,Arles,,,,43.7445943,4.7965706
+10282711492,node,,viewpoint,Arles,,,,43.7438312,4.7967804
+10282747160,node,,viewpoint,Arles,,,,43.744639,4.7966761
+10293668696,node,,artwork,Arles,,,,43.78451,4.8318043
+10298054405,node,monument aux morts,memorial,Arles,,,,43.8659834,4.6910618
+10298070469,node,monument aux morts,memorial,Arles,,,,43.899165,4.749363
+10298239365,node,monument aux morts,memorial,Arles,,,,43.7210548,4.8051305
+10298260240,node,Monument aux morts,memorial,Arles,,,,43.6889151,4.8716401
+10298275052,node,monument aux morts,memorial,Arles,,,,43.8985125,4.8030358
 10314514434,node,Sotheary,restaurant,Arles,"28 Rue Voltaire, 13200",13200,,43.6794938,4.6309604
 10539888010,node,Hôtel Le Provençal,hotel,Arles,,,https://www.leprovencal-tarascon.com/,43.8032304,4.6565526
+10576896099,node,Galerie les Antiques,gallery,Arles,,,,43.7884331,4.8319795
+10676378719,node,Camp de Saliers,memorial,Arles,,,,43.6362701,4.475779
+10678643590,node,,viewpoint,Arles,,,,43.7445654,4.7905331
 10779325555,node,Hôtel Arlatan,hotel,Arles,"20 Rue du Sauvage, 13200, Arles",13200,https://www.arlatan.com/,43.678583,4.6271698
 10779331301,node,L'Arlatan,restaurant,Arles,"26 Rue du Sauvage, 13200, Arles",13200,https://www.arlatan.com/fr/,43.6784029,4.6270921
 10792196302,node,L'antonelle,restaurant,Arles,,,,43.6769807,4.624335
@@ -353,29 +576,49 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 10989217178,node,La Guinguette des Baux,restaurant,Arles,,,,43.7493522,4.7954229
 10998263813,node,Chez Adrien,restaurant,Arles,76 Grand'Rue,,,43.7265491,4.7084782
 11012962805,node,Monstre,restaurant,Arles,,,,43.6770994,4.6256171
+11020928484,node,,viewpoint,Arles,,,,43.7422894,4.7955888
+11020956048,node,,viewpoint,Arles,,,,43.7426192,4.7957748
 11044441485,node,La Table du Meunier,restaurant,Arles,,,,43.7264913,4.710328
 11067664169,node,Hôtel de l'Image,hotel,Arles,,,,43.7878871,4.832741
 11125741929,node,Le Cafe Du Soleil,restaurant,Arles,"144 Avenue Henri Barbusse, 13630, Eyragues",13630,,43.839517,4.8401356
+11156266105,node,renonculacees,attraction,Arles,,,,43.7753155,4.8338155
 11156490906,node,,restaurant,Arles,,,,43.7879812,4.8319173
 11159221106,node,Lulu's Kitchen,restaurant,Arles,,,,43.6762535,4.6305156
 11173489837,node,Antico Mulino,restaurant,Arles,13210 Impasse Jaume Comte,,,43.7881559,4.8322024
 11179396637,node,mesiba,restaurant,Arles,"15 B Avenue André et Denis Pellissier, 13210",13210,https://www.mesiba.fr/,43.7881634,4.8408402
+11192811137,node,Archéologique sites,attraction,Arles,,,,43.7783134,4.7454004
+11228686890,node,,memorial,Arles,,,,43.7877459,4.8307646
 11229141237,node,Le Central,hotel,Arles,27 Cours Carnot,,https://www.facebook.com/restaurantlecentral/,43.8834906,4.8545225
 11229144037,node,Bar des Allées,restaurant,Arles,,,https://www.le-cafe-des-allees-restaurant-chateaurenard.com/,43.8839678,4.8571003
 11240491343,node,Snack Camargue,restaurant,Arles,,,,43.4520895,4.4271985
 11240491344,node,Lou Planet Provençal,restaurant,Arles,,,,43.451885,4.4269942
+11267484470,node,,viewpoint,Arles,,,,43.8821071,4.8576757
+11267484521,node,,viewpoint,Arles,,,,43.8819902,4.8569321
+11267484527,node,,viewpoint,Arles,,,,43.882006,4.8569884
+11268038419,node,,memorial,Arles,,,,43.8830278,4.8623857
+11268038512,node,,memorial,Arles,,,,43.8829202,4.8626912
 11272593509,node,Camille en Provence,restaurant,Arles,19 Boulevard du Quatre Septembre,,,43.8819733,4.8541063
+11274560987,node,,memorial,Arles,,,,43.8836278,4.8565967
+11291160826,node,,memorial,Arles,,,,43.8782461,4.8494557
 11291166802,node,Jimmy N Drinks,restaurant,Arles,6 Rue Fernand Gras,,,43.8833653,4.8544145
 11291236098,node,Bar des Lonnes,restaurant,Arles,,,,43.8822112,4.8314608
 11329517892,node,Hanoi & Café,restaurant,Arles,,,,43.8773184,4.9028004
 11336261435,node,Le Cabanon,restaurant,Arles,,,,43.6976118,4.6354353
 11336333314,node,Krystal,restaurant,Arles,,,https://lekrystal.com/restaurants/,43.6657036,4.7492517
 11463641969,node,Mecha Uma,restaurant,Arles,"15 Avenue de la Libération, 13210",13210,https://mecha-uma-saint-remy.eatbu.com/,43.788877,4.834484
+11473270251,node,,memorial,Arles,,,,43.7844351,4.8287983
 11543813902,node,Aux Pieds Tanques,restaurant,Arles,3 Giratoire Place Saint Joseph,,,43.9022112,4.7559914
+11613754467,node,Musée Auguste Chabaud,museum,Arles,"41 Cours National, 13690, Graveson",13690,,43.8509822,4.7723717
 11654584269,node,Mas de l’echanson,restaurant,Arles,,,,43.8881397,4.8627199
+11676416393,node,,memorial,Arles,,,,43.8402201,4.8455806
 11741698166,node,Côté Jardin,restaurant,Arles,,,,43.4507046,4.4263849
 11788040416,node,,hotel,Arles,,,,43.6784202,4.6288197
+11831626993,node,Fisheye,gallery,Arles,,,https://fisheyegallery.fr/,43.6774622,4.6247327
+11835929698,node,Fondation Lee Ufan,museum,Arles,,,https://leeufan-arles.org/,43.6779567,4.6281607
+11842349554,node,Chapelle des Trinitaires,museum,Arles,33 rue de la République,,,43.676316,4.6258436
+11842368369,node,Espace Van Gogh,attraction,Arles,,,,43.6757217,4.6255035
 11892105869,node,L'Apsara,restaurant,Arles,,,https://www.apsara-arles.com/,43.6794422,4.6315523
+11893130578,node,Plage Est,beach,Arles,,,,43.4592833,4.4773716
 11893549469,node,Le Nid,hotel,Arles,,,,43.4893212,4.4040816
 11893549570,node,Le Chalut,restaurant,Arles,,,,43.4524036,4.4270483
 11893549571,node,L'escaluna,restaurant,Arles,,,,43.4523306,4.4268637
@@ -390,15 +633,23 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 11895170269,node,Le Delta,restaurant,Arles,,,,43.4523367,4.4282149
 11895544069,node,Colosseo Pinsa Romana,restaurant,Arles,23 bis Rond-Point des Arènes,,https://www.colosseo-pinsa.com/,43.6781243,4.6316601
 11895548169,node,Mon Chou,restaurant,Arles,,,,43.6799561,4.6314112
+11896619369,node,Mémorial aux déportés,memorial,Arles,,,,43.676618,4.6328588
+11896872604,node,,viewpoint,Arles,,,,43.7862825,5.0419739
+11896972070,node,Galerie d'Arts,gallery,Arles,,,,43.679205,4.6298173
+11896993969,node,,viewpoint,Arles,,,,43.7520571,4.7967703
+11898200755,node,,artwork,Arles,,,,43.5699373,4.5057844
+11898226590,node,,artwork,Arles,,,,43.5572313,4.7289046
 11899275570,node,Le Chante Clair,restaurant,Arles,3 Place des Remparts,,,43.4521839,4.4275422
 11899284970,node,Le Tamaris,restaurant,Arles,,,,43.4523386,4.4276579
 11907848108,node,Ô Caprices de Mathias,restaurant,Arles,,,,43.7812227,4.8404874
 11927907847,node,La cabane du pêcheur chez za,restaurant,Arles,,,,43.4868752,4.3826752
+11938226389,node,,viewpoint,Arles,,,,43.6667389,4.6530446
 11940206009,node,Nord-Pinus,restaurant,Arles,,,https://nord-pinus.com/fr/restaurant,43.6773832,4.6269576
 11942001854,node,L'Auberge Sommelier,restaurant,Arles,,,,43.7810238,4.725254
 11942079977,node,O - Bistrot Gourmand,restaurant,Arles,,,,43.7813935,4.7317635
 11953197591,node,Le Patio,restaurant,Arles,,,,43.7279029,4.7123419
 11953235717,node,La Regalido,hotel,Arles,,,,43.7273942,4.7097056
+11955693674,node,Musée des Saintes-Maries-de-la-Mer,museum,Arles,"6 Avenue Théodore Aubanel, 13460, Saintes-Maries-de-la-Mer",13460,https://museedessaintesmariesdelamer.fr,43.4503082,4.4256232
 11967543843,node,L'O à la bouche,restaurant,Arles,,,,43.680757,4.6313927
 11982723470,node,Le Goustarou,restaurant,Arles,,,,43.7884278,4.8308753
 11983511470,node,Vente à Emporter,restaurant,Arles,Boulevard Gambetta,,,43.7904974,4.8325316
@@ -418,41 +669,82 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 12281500674,node,L'AO,restaurant,Arles,,,,43.7897264,4.8303911
 12284675829,node,Volubilis,restaurant,Arles,,,,43.7887819,4.8352489
 12388655447,node,Meinado,restaurant,Arles,,,,43.6750923,4.6246195
+12453411771,node,,memorial,Arles,,,,43.7893506,4.8309369
+12453464380,node,,memorial,Arles,,,,43.7893141,4.8322145
+12516733796,node,,artwork,Arles,,,,43.6971258,4.7150089
 12545945340,node,Nem d'Asie,restaurant,Arles,,,,43.9015585,4.7559756
+12551191201,node,Aqueduc Nord Souterrain,attraction,Arles,,,,43.7068913,4.7161548
 12574179941,node,Hôtel de la Source,hotel,Arles,,,,43.6629742,4.6505364
+12585317780,node,,memorial,Arles,,,,43.384081,4.8090437
+12585317781,node,Stèle des rapatriés,memorial,Arles,,,,43.3888864,4.8355777
 12686573667,node,Le saint Pierre,restaurant,Arles,,,,43.6803865,4.6217365
 12704416707,node,Gestion de patrimoine à Arles,restaurant,Arles,,,https://gestiondepatrimoinearles.fr/gestion-de-patrimoine-a-arles/,43.6674997,4.6237576
+12707783290,node,Cyril Colombeau,memorial,Arles,,,,43.6734972,4.6061952
+12707835506,node,,artwork,Arles,,,,43.6750517,4.6234282
+12707873224,node,,memorial,Arles,,,,43.6750332,4.631076
+12707996133,node,,artwork,Arles,,,,43.6628208,4.6504132
+12708002894,node,,artwork,Arles,,,,43.6615897,4.6519154
+12708002898,node,,artwork,Arles,,,,43.6614268,4.6528089
+12715391506,node,Le Grenier à Olives,museum,Arles,,,,43.7239407,4.8003821
 12722366101,node,Dim-Mui,restaurant,Arles,"22 Rue de l'Hôtel de Ville, 13200",13200,,43.6774552,4.6277262
+12737327701,node,,attraction,Arles,,,,43.7766544,5.0230661
+12737327901,node,,viewpoint,Arles,,,,43.7777891,5.0345706
+12737328001,node,,viewpoint,Arles,,,,43.7855588,5.0329974
+12737328101,node,,viewpoint,Arles,,,,43.7812447,5.0371803
 12757793533,node,4M,restaurant,Arles,,,https://www.restaurant-4m.fr/,43.618506,4.79455
 12765476001,node,L'espianada restaurant sarde,restaurant,Arles,"15 Avenue de la Vallée des Baux, 13520",13520,https://www.restaurant-lespianada.fr/,43.7219393,4.8001129
 12778455601,node,Sucellus,restaurant,Arles,,,,43.794392,4.6928491
 12790347156,node,Le bistro du canotier,restaurant,Arles,,,,43.8985384,4.802807
 12790347158,node,asia,restaurant,Arles,"7 Place du Marché, 13870, Rognonas",13870,,43.8986526,4.8035744
+12804540382,node,,memorial,Arles,,,,43.787149,5.043415
 12806176601,node,La Rumba,restaurant,Arles,,,,43.4518049,4.4266449
 12847003519,node,Ibis Budget Arles Sud Fourchon,hotel,Arles,"Rue Charles Chaplin, 13200, Arles",13200,https://all.accor.com/hotel/5036/index.en.shtml,43.664387,4.6349625
 12862414121,node,Le Petit Rocher,restaurant,Arles,,,,43.7433241,4.7947549
 12862451327,node,Le Café du Musée,restaurant,Arles,,,,43.744059,4.7951897
 12873937020,node,RoadHouse en Camargue,restaurant,Arles,3 Rue Marcel Carrière,,,43.4551078,4.433698
+12877621258,node,,memorial,Arles,,,,43.6749389,4.6277303
 12905971812,node,,restaurant,Arles,,,,43.8942817,4.7046933
+12909475580,node,,viewpoint,Arles,,,,43.8980837,4.7499852
+12925481646,node,,viewpoint,Arles,,,,43.5317102,4.6993718
+12980024095,node,,viewpoint,Arles,,,,43.7434771,4.7939942
+12982381751,node,,memorial,Arles,,,,43.7441755,4.7945383
+13030436325,node,Porte d'Auguste,attraction,Arles,,,http://www.patrimoine.ville-arles.fr/index.php?action=edifice&id=45,43.6762532,4.6325962
+13050634949,node,Agents victimes des deux guerres,memorial,Arles,,,,43.6725843,4.6362485
+13083767355,node,,memorial,Arles,,,,43.6754274,4.6306665
 13128049598,node,,restaurant,Arles,,,,43.6854341,4.6339795
+13146803827,node,Tartarin de Tarascon,artwork,Arles,,,,43.8049523,4.6575083
 13157781064,node,Le Rodin,hotel,Arles,"20 Rue Auguste Rodin, 13200, Arles",13200,https://www.hotel-lerodin.fr/,43.6884114,4.6383659
 13189074549,node,La braise de mer,restaurant,Arles,9 Avenue Van Gogh,,,43.4504445,4.4271584
+13196244828,node,A TOUT LES FRANCAIS,memorial,Arles,,,,43.6370506,4.8082076
 13261689977,node,Pizzeria Chez Robert,restaurant,Arles,"15 Rue André Benoit, 13200, Arles",13200,,43.680006,4.6199565
 13264504653,node,Le Coin des Amis,restaurant,Arles,,,https://www.le-coin-des-amis.com/,43.7269188,4.7108607
+13338611975,node,,artwork,Arles,,,,43.6371777,4.8059393
 13388869004,node,West Coast,restaurant,Arles,,,https://westcoastcafenoves.wixsite.com/westcoastcafe,43.8317575,4.8854447
+13413890333,node,Arles Gallery,gallery,Arles,,,,43.6778351,4.6265485
+13413894397,node,Kiriatu,gallery,Arles,,,,43.6775065,4.6249921
 13452366301,node,L'oiseau qui chante,restaurant,Arles,"150 Route de Maillane, 13210",13210,,43.7946264,4.8289773
 13462503571,node,Le 16,restaurant,Arles,,,https://maisonleseize.com/,43.676943,4.6240918
 13505169563,node,Le Saint-Rémy,hotel,Arles,"16 Boulevard Victor Hugo, 13210, Saint-Rémy-de-Provence",13210,,43.7871435,4.8315107
 13505169572,node,Lou Patio,restaurant,Arles,"16 Boulevard Victor Hugo, 13210, Saint-Rémy-de-Provence",13210,,43.7871405,4.8314268
+13585404454,node,,memorial,Arles,,,,43.6090213,4.7839965
 13595674449,node,,restaurant,Arles,,,,43.3801187,4.814075
+13617739545,node,Vénus d'Arles,artwork,Arles,,,,43.6720359,4.6253945
+13653191269,node,,artwork,Arles,,,,43.8591677,4.6484971
 13674749083,node,Le Maya,restaurant,Arles,,,,43.4521267,4.4281782
 13674778500,node,Hôtel du Maset,hotel,Arles,,,,43.4566884,4.4263125
 13674814754,node,Chez Chico,restaurant,Arles,,,,43.454756,4.4276995
 13674857287,node,Mas des Salicornes,hotel,Arles,,,,43.456884,4.4258752
+13694214097,node,,artwork,Arles,,,,43.7423197,4.7955161
+13694214110,node,,memorial,Arles,,,,43.7444343,4.7951583
 13713479301,node,Camille Ô Baux,restaurant,Arles,,,,43.7441165,4.7950053
+13718968786,node,point rouge,gallery,Arles,,,,43.789292,4.8318282
 13719034919,node,province holidays,hotel,Arles,,,,43.7886632,4.8326609
 13733171108,node,O Panneu…,restaurant,Arles,,,,43.4529765,4.4277133
+13742318637,node,,viewpoint,Arles,,,,43.7277943,4.8081522
+13742318647,node,,viewpoint,Arles,,,,43.7292081,4.8122738
+13758692301,node,Croix de Camargue,monument,Arles,,,,43.4504461,4.4166623
 13767271315,node,Chez Mario,restaurant,Arles,10 Rue Paul Peyron,,https://www.pizzeriachezmario.com/,43.450679,4.4278625
+13767411892,node,,artwork,Arles,,,,43.4501335,4.4165712
 13769485701,node,Pizza Do,restaurant,Arles,"11 bis Rue de la Poste, 13690",13690,,43.8513106,4.7737659
 13776178301,node,La Piccola,restaurant,Arles,89 Avenue de la Vallée des Baux,,,43.7204981,4.8077618
 13776178302,node,Bistrot Saint-Roche. Chez Joan & Vincent,restaurant,Arles,Avenue de la Vallée des Baux,,,43.7205146,4.8074085
@@ -460,3 +752,448 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 13776309301,node,Au 49. Chez Gwen & Alex,restaurant,Arles,,,,43.721371,4.8043081
 13779738201,node,Logis Hotels Restaurants,hotel,Arles,,,,43.7202841,4.8074063
 13784819301,node,Les Gourmandises de Marcel. Galetterie Glacier,restaurant,Arles,78 Avenue de la Vallée des Baux,,,43.7206674,4.8056643
+13819167764,node,Musée de la Mode et du Costume,museum,Arles,,,https://musee-mode-costume.fragonard.com/,43.677043,4.6282849
+13928640901,node,La Plantation (Bâtiment abandonné),ruins,Arles,,,,43.5938158,4.4687319
+18640509,way,,garden,Arles,,,,43.6399998,4.7569565
+35068967,way,Saint-Rémy Vieille Ville,attraction,Arles,,,,43.788961,4.8318253
+35146200,way,Le Tiki III,attraction,Arles,,,,43.4507978,4.3981746
+35269026,way,,beach,Arles,,,,43.4553909,4.4432837
+35269031,way,,beach,Arles,,,,43.4516353,4.4335715
+35269057,way,Plage des Arènes,beach,Arles,,,,43.4489902,4.4257729
+35269077,way,,beach,Arles,,,,43.4490074,4.4147257
+38178607,way,Monument du Cheval de trait,memorial,Arles,,,,43.8051097,4.9485972
+61978658,way,,park,Arles,,,,43.788963,4.810492
+66114718,way,Le Relais Gourmand,restaurant,Arles,,,,43.788326,4.7558501
+66224270,way,Mas de l'Oulivier,hotel,Arles,,,https://www.masdeloulivie.com/,43.734296,4.7792054
+66225850,way,Le Mas d'Aigret,hotel,Arles,"555 Route des Oliviers, 13520, Les Baux-de-Provence",13520,https://www.masdaigret.com/3,43.7452339,4.7997097
+66226056,way,,attraction,Arles,,,,43.7440219,4.7923146
+88336962,way,Château d'Avignon,castle,Arles,,,,43.5585492,4.4102267
+88495595,way,L'Oeuvre au Noir,garden,Arles,,,,43.7725634,4.946331
+88495597,way,Jardin magique,garden,Arles,,,,43.7722138,4.9460375
+88495600,way,Chemin de Berechit,garden,Arles,,,,43.7720515,4.9460509
+88495601,way,L'Oeuvre au Blanc,garden,Arles,,,,43.7724938,4.9460102
+88495604,way,Jardin de l'Alchimiste,attraction,Arles,,,,43.7723357,4.9460065
+88495605,way,L'Oeuvre au Rouge,garden,Arles,,,,43.7724192,4.9456665
+99717878,way,Musée Urgonia,museum,Arles,,,,43.790807,5.0376953
+99719104,way,Auberge du Parc,hotel,Arles,,,,43.7819471,5.0456428
+99719430,way,Le Relais des Fumades,hotel,Arles,"route de Marseille - D7N, 13660, Orgon",13660,,43.776704,5.053159
+99719894,way,Aux Petits Pavés,restaurant,Arles,"Route Nationale 7 - Nord, 13660, Orgon",13660,,43.7642211,5.0616969
+99720636,way,Chez Titi,restaurant,Arles,,,,43.7814219,5.0395115
+99733048,way,Le Mas Gourmand,restaurant,Arles,"3190 Route d'Avignon, 13160, Châteaurenard",13160,https://www.mas-gourmand.fr/,43.9034921,4.8162882
+99741972,way,Musée des outils agraires et des traditions,museum,Arles,,,,43.8834258,4.8555649
+99743012,way,Akena City,hotel,Arles,,,,43.8858521,4.8693979
+101437066,way,Château d'Escanin,castle,Arles,,,,43.7249758,4.7818829
+101442885,way,Le Vallon de Gayet,hotel,Arles,,,https://www.levallondegayet.com/hotel,43.699684,4.863456
+101443610,way,Mas de Brau,monument,Arles,,,,43.6904905,4.8610354
+101443666,way,Hôtel Terriciaë,hotel,Arles,"Route de Maussane, 13890, Mouriès",13890,,43.695106,4.8528809
+101444060,way,Le Vallon de Gayet,restaurant,Arles,Route de Servanes,,https://www.levallondegayet.com/restaurant,43.6997812,4.8640276
+101449180,way,Lavoir,attraction,Arles,,,,43.7215232,4.8040603
+101449865,way,Aux délices des Alpilles,restaurant,Arles,"Avenue des Alpilles, 13520, Maussane-les-Alpilles",13520,,43.7207767,4.8095503
+101449875,way,Lavoir,attraction,Arles,,,,43.7220956,4.8010643
+101450315,way,Le Mas des Marguerites,hotel,Arles,,,,43.7162595,4.8001037
+101451348,way,Moulin á Huile du Mas de Barres,attraction,Arles,,,www.masdesbarres.com/,43.7153408,4.8339314
+101451410,way,Best Western Aurelia,hotel,Arles,,,,43.7176157,4.8125751
+101451641,way,Aux Ateliers « Chez Franck et Flo »,restaurant,Arles,"115 avenue de la Vallée des Baux, 13520, Maussane-les-Alpilles",13520,,43.7203203,4.8103143
+101453236,way,Hôtel Val Baussenc,hotel,Arles,,,,43.718935,4.8102359
+102057680,way,Kyriad,hotel,Arles,"Rue des Fourches, 13200, Arles",13200,,43.6628044,4.6373428
+102059076,way,,ruins,Arles,,,,43.7457441,4.6411331
+102063909,way,Grand Café Malarte,restaurant,Arles,"2 Boulevard des Lices, 13200, Arles",13200,https://www.grand-cafe-malarte-restaurant-arles.com/,43.6754923,4.628215
+102064258,way,L'Atelier,restaurant,Arles,"7 Rue des Carmes, 13200, Arles",13200,https://www.rabanel.com/le-restaurant-l-atelier.html,43.6759616,4.6269836
+102064898,way,,ruins,Arles,,,,43.4081177,4.7327847
+102066100,way,Auberge des Plaines,hotel,Arles,,,,43.6442182,4.5684427
+102069613,way,Mas de la Brune,hotel,Arles,,,,43.7721882,4.9450647
+102070000,way,Chapelle Saint-Sixte,attraction,Arles,,,,43.7622308,4.966885
+102070486,way,Hôtel de la Muette,hotel,Arles,"15 Rue des Suisses, 13200, Arles",13200,https://www.hotel-muette.com/,43.6783328,4.6284874
+102071083,way,Auberge du Mas de la Fenière,hotel,Arles,"3037 Route de la Crau, 13200, Arles",13200,https://www.lafeniere.com/,43.6529686,4.6880056
+102073705,way,Chapelle des Pénitents blancs,monument,Arles,,,,43.7637007,4.9492841
+102073819,way,Horloge,ruins,Arles,,,,43.7632651,4.9487537
+102074332,way,Noemys,hotel,Arles,,,https://noemys.fr/hotels/hotel/noemys-arles/,43.6654624,4.6334911
+102075937,way,La Guinguette Arlésienne,restaurant,Arles,,,,43.6309548,4.7432624
+102076310,way,,ruins,Arles,,,,43.4077769,4.7321067
+102077401,way,Le CERCO,museum,Arles,"Rue Yvan Audouard, 13200, Arles",13200,https://www.museonarlaten.fr/museon/CG13/pid/244,43.673154,4.6390656
+102077531,way,,ruins,Arles,,,,43.4080709,4.7327974
+102079275,way,Hôtel Les Cabanettes,hotel,Arles,"13200 D572N, Arles",,https://www.lescabanettes.com/,43.6650657,4.4642318
+102083399,way,Domaine de la Palissade,attraction,Arles,,,http://www.palissade.fr,43.3758825,4.8105156
+102084077,way,Noemys,hotel,Arles,,,https://noemys.fr/hotels/hotel/noemys-arles/,43.6653824,4.6339914
+102087918,way,Chapelle (restes),ruins,Arles,,,,43.7135006,4.6842393
+102088608,way,,restaurant,Arles,,,,43.438647,4.6722501
+102088663,way,Château de Barbegal,castle,Arles,"1 Route de Fontvieille, 13280, Raphele les Arles",13280,,43.6974072,4.7149346
+102089059,way,,ruins,Arles,,,,43.4079678,4.7328456
+102090331,way,,memorial,Arles,,,,43.4138273,4.7291139
+102090982,way,Palais de l'Archevêché,attraction,Arles,35 Place de la République,,,43.676384,4.6279695
+102092419,way,Buffalo Grill,restaurant,Arles,,,,43.6630071,4.6369338
+102093172,way,Moulin de Daudet,attraction,Arles,,,,43.7209774,4.7128237
+102093267,way,Château de Montauban,attraction,Arles,,,,43.7261414,4.7142375
+102094949,way,Musée de la Camargue,museum,Arles,"Route des Saintes-Maries-de-la-Mer, 13200, Arles",13200,https://museedelacamargue.com/,43.624218,4.5286308
+102095000,way,Le Madaleno,hotel,Arles,,,,43.7282012,4.758675
+102096022,way,Moulin Sourdon,attraction,Arles,,,,43.72165,4.7093172
+102096414,way,Hôtel Belesso,hotel,Arles,,,,43.7285631,4.7178227
+102097425,way,Première Classe,hotel,Arles,"Rue des Fourches, 13200, Arles",13200,,43.6626785,4.6380153
+102097508,way,,ruins,Arles,,,,43.4075687,4.7321931
+102097549,way,moulin Tissot,attraction,Arles,,,,43.7243175,4.7139201
+102097597,way,Moulin Ramet,attraction,Arles,,,,43.7232882,4.7122815
+102098811,way,,castle,Arles,,,,43.4183741,4.7341784
+102099277,way,Cathédrale Saint-Trophime d'Arles,attraction,Arles,,,,43.6766406,4.6282766
+102101650,way,La Civette Portagnel,restaurant,Arles,"79 Rue Portagnel, 13200, Arles",13200,,43.6782755,4.6334402
+102102960,way,,ruins,Arles,,,,43.4080177,4.7325908
+102103179,way,Siècle d'Or,restaurant,Arles,,,,43.6649018,4.6443562
+102104150,way,,ruins,Arles,,,,43.4079143,4.7326391
+102105764,way,Le Nord-Pinus,hotel,Arles,,,https://nord-pinus.com/fr/,43.6773003,4.6269772
+102106543,way,Hôtel de ville d'Arles,attraction,Arles,Place de la République,,,43.6768381,4.6275778
+102106952,way,,ruins,Arles,,,,43.4076222,4.7323955
+102107260,way,La Bastide,restaurant,Arles,,,,43.6506658,4.6424303
+102107640,way,Hôtel le Relais de Poste,hotel,Arles,"2 Rue Molière, 13200, Arles",13200,,43.6756393,4.6262105
+102107974,way,Couvent Saint-Césaire,attraction,Arles,,,,43.6756718,4.6320826
+102109425,way,Chapelle des Trinitaires,gallery,Arles,,,,43.6763177,4.6258495
+102109772,way,Le Saint Laurent,restaurant,Arles,"14 Rue des Fourches, 13200, Arles",13200,https://www.facebook.com/LESAINTLAURENTARLES/,43.6627173,4.6385161
+102110656,way,Le Réfectoire,restaurant,Arles,"33 Avenue Victor Hugo, 13200, Arles",13200,,43.6745255,4.6353013
+102113687,way,Le Flamant Rose,hotel,Arles,"184 Rue des Peupliers Blancs, 13200, Arles",13200,https://www.leflamantrose.com/,43.6116426,4.4758057
+102114822,way,Hôtel Porte de Camargue - Les Quais d'Arles,hotel,Arles,"15 Rue Noguier, Arles",,https://www.portecamargue.com/,43.6796742,4.6212937
+102114962,way,Obélisque d'Arles,attraction,Arles,,,,43.6764236,4.6276018
+102115088,way,Longo Maï,hotel,Arles,,,,43.5240323,4.7059603
+102116363,way,Mécha Uma,restaurant,Arles,"6 Rue Favorin, 13200, Arles",13200,https://mecha-uma-restaurant-arles.eatbu.com/?lang=fr,43.677605,4.6274629
+102116387,way,,ruins,Arles,,,,43.6914828,4.6446023
+107868155,way,Palais de Justice,castle,Arles,,,,43.8048277,4.6580413
+107870199,way,,restaurant,Arles,,,,43.8058461,4.6577719
+107870916,way,Hôtel des Artistes,hotel,Arles,"7 Boulevard Victor Hugo, 13150, Tarascon",13150,https://www.hotel-des-artistes.com/,43.8034065,4.6592766
+107871624,way,Restaurant Saïgon,restaurant,Arles,,,,43.8043085,4.6550975
+109129417,way,La Lagune,restaurant,Arles,,,,43.3870917,4.849645
+109129734,way,Yacht Club Restaurant,restaurant,Arles,,,,43.385487,4.8340725
+109132424,way,Hôtel François,hotel,Arles,"1 Rue Joseph Gallas, 13230, Port-Saint-Louis-du-Rhône",13230,,43.3886443,4.8108683
+109133230,way,Au duo,restaurant,Arles,,,,43.3885863,4.8108408
+109133650,way,Hôtel de la Plage,hotel,Arles,,,,43.380167,4.8139765
+109134551,way,Le Passeport,restaurant,Arles,,,,43.3838055,4.8067635
+114813726,way,Site archéologique de Glanum,attraction,Arles,,,https://www.site-glanum.fr/,43.773472,4.8325086
+114824582,way,Arc de triomphe de Glanum,monument,Arles,,,,43.7765515,4.8312301
+114832595,way,Le Cabanon,restaurant,Arles,,,,43.789095,4.833391
+114834066,way,Les Résidences de Métifiot,hotel,Arles,"Chemin de la Croix des Vertus, 13210, Saint-Rémy-de-Provence",13210,,43.781467,4.8403421
+114834704,way,Domaine de Lagoy,castle,Arles,,,,43.8089625,4.84978
+114835494,way,Musée lapidaire,museum,Arles,"1 Rue du Parage, 13210, Saint-Rémy-de-Provence",13210,,43.789629,4.831056
+114838964,way,Les pieds dans l'eau,restaurant,Arles,,,,43.787228,4.831815
+114839927,way,Hôtel de la Caume,hotel,Arles,,,,43.786384,4.8588415
+114842322,way,Château de Roussan,castle,Arles,,,,43.790969,4.8074185
+114899433,way,Musée Témoignage et Patrimoine,museum,Arles,,,,43.8414385,4.8388755
+114946139,way,Château,castle,Arles,,,,43.900773,4.7472405
+114947907,way,Hôtel Castel Mouisson,attraction,Arles,"Chemin Sous les Roches, 13570, Barbentane",13570,https://www.hotel-castelmouisson.com/,43.8975965,4.764873
+114948523,way,Tour du Cardinal Grimaldi,castle,Arles,,,,43.897449,4.748376
+114951093,way,Hôtel la Bastide,hotel,Arles,,,,43.8636918,4.6920089
+153293942,way,Domaine Paul Ricard de Méjanes,attraction,Arles,,,https://mejanes-camargue.fr/,43.5688086,4.5053818
+153610120,way,Chapelle Saint-Gabriel,attraction,Arles,,,,43.7665842,4.6950456
+153610205,way,Les Mazets des Roches,hotel,Arles,"Route de Fontvieille, 13150, Tarascon",13150,http://mazetsdesroches.com/,43.7639285,4.6947145
+153612721,way,Château de Goubelet,castle,Arles,,,,43.796313,4.6695605
+153621208,way,Tour Saint-Gabriel,attraction,Arles,,,,43.7667154,4.6980431
+153622169,way,La Maison Penchée,restaurant,Arles,,,,43.7678144,4.6929407
+153622690,way,Mas de Panisse,castle,Arles,,,,43.7779315,4.674558
+153625805,way,Bistrot du Roubian,restaurant,Arles,,,,43.7943395,4.6902302
+153626494,way,La Clef des Champs,restaurant,Arles,"Quartier Saint-Gabriel, 13150, Tarascon",13150,https://www.facebook.com/lacledeschamp/,43.7670315,4.6907575
+153626759,way,,ruins,Arles,,,,43.824363,4.6922365
+155036483,way,Théâtre antique,attraction,Arles,,,,43.6764816,4.6299351
+155285163,way,Plage Napoléon,beach,Arles,,,,43.3565052,4.8860544
+158387935,way,Maison de la Transhumance,museum,Arles,,,,43.5965665,4.7887453
+158391202,way,Château de Vilpail,castle,Arles,,,,43.658968,4.839498
+158401574,way,Château de Vergière,castle,Arles,,,,43.5711305,4.8192015
+158402806,way,Maison de la Crau,museum,Arles,"2 Place Léon Michaud, 13310, Saint-Martin-de-Crau",13310,http://www.cen-paca.org/index.php?rub=4&pag=4_ecomusee,43.6370776,4.8061041
+158403771,way,Rétro Musée,museum,Arles,,,,43.6371605,4.805663
+163436789,way,L'Abrivado,hotel,Arles,,,,43.450443,4.4262135
+163436820,way,L'Amirauté,restaurant,Arles,,,,43.449722,4.421604
+163436917,way,Mas des Templiers,castle,Arles,,,,43.5698253,4.5029742
+163436968,way,Hôtel Le Mirage,hotel,Arles,,,https://www.lemirage.camargue.fr/,43.4529045,4.430834
+163438769,way,Les Vagues,hotel,Arles,,,,43.4503835,4.4250505
+163439005,way,Mas de la Fouque,hotel,Arles,,,,43.466712,4.4048255
+163439121,way,Les Bains Gardians,hotel,Arles,"RD 570, 13460, Saintes-Maries-de-la-Mer",13460,https://www.lesbainsgardians.com/,43.4658025,4.420006
+163448780,way,Musée Paul Ricard,museum,Arles,"13200, Arles",13200,https://mejanes-camargue.fr/,43.5697874,4.5025451
+163451270,way,Hangar des Expositions,gallery,Arles,,,,43.570076,4.5082823
+163452614,way,Gare Petit train de Méjanes,attraction,Arles,,,https://mejanes-camargue.fr/fr/visites-touristiques-le-petit-train-de-mejanes,43.569204,4.5052265
+163455604,way,Mas de la Fouque,hotel,Arles,,,,43.466643,4.4043965
+163455954,way,Église Notre-Dame-de-la-Mer,attraction,Arles,,,,43.451611,4.427761
+172379231,way,Jardin des 4 saisons,garden,Arles,"9 Rue du Calada, 13690",13690,,43.8544795,4.7710624
+175880597,way,Domaine de Bourgeac,hotel,Arles,,,"https://www.vacances-lagrange.com/vacances-location-mer-montagne,logements-provence-arriere-pays,baux-de-provence-le-paradou-LEPARA-L-DOMA-residence.html",43.7242314,4.7951857
+176021645,way,Arènes de Maussane,attraction,Arles,,,,43.7172393,4.8070414
+176021664,way,,park,Arles,,,,43.7234231,4.8044744
+180660987,way,,beach,Arles,,,,43.454195,4.4403868
+182086087,way,Inter-Hotel Mireille,hotel,Arles,"2 Place Saint-Pierre, 13200, Arles",13200,https://www.hotel-mireille.com/,43.6803509,4.6231033
+189614651,way,"Hortus, Jardin d'inspiration romaine",garden,Arles,,,http://www.arles-antique.cg13.fr/jardin_hortus/,43.6737602,4.6173973
+205196498,way,,ruins,Arles,,,,43.7047137,4.7890246
+205228881,way,,park,Arles,,,,43.7210488,4.7863657
+205229355,way,Tombe de Charloun Rieu,attraction,Arles,,,https://www.pop.culture.gouv.fr/notice/memoire/MHR93_20101301915,43.722443,4.7859733
+205229597,way,Acqueduc romain,ruins,Arles,,,,43.7212606,4.777207
+213778652,way,Aqueduc Romain de Barbegal,attraction,Arles,,,,43.7039398,4.7210884
+236818153,way,Nécropole des Alyscamps,attraction,Arles,,,,43.6722167,4.6353189
+245052251,way,Parc du Moulin Peyre,park,Arles,,,,43.6911332,4.8706998
+245052254,way,Jardin du Petit Mas,park,Arles,,,,43.6886739,4.8737181
+257911170,way,Château du Roi René,castle,Arles,,,http://chateau.tarascon.fr/,43.8066474,4.6549718
+277159349,way,,park,Arles,,,,43.6753482,4.6194723
+295199685,way,,ruins,Arles,,,,43.7732432,4.8331866
+295199686,way,Le temple géminés,ruins,Arles,,,,43.7732197,4.8326953
+295224219,way,,ruins,Arles,,,,43.7724405,4.8330446
+295224224,way,,ruins,Arles,,,,43.7729781,4.8327944
+295224232,way,,ruins,Arles,,,,43.7725559,4.8331826
+295224240,way,,ruins,Arles,,,,43.7729837,4.8329099
+295224243,way,,ruins,Arles,,,,43.7721428,4.8331614
+295224245,way,La maison de Sulla,ruins,Arles,,,,43.7737606,4.8326496
+295224246,way,Porticus,ruins,Arles,,,,43.7728605,4.8331715
+300574496,way,,park,Arles,,,,43.6718872,4.6161335
+301154479,way,Arènes de Salin-de-Giraud,attraction,Arles,,,,43.4160174,4.7338869
+301163334,way,Maison de la Chasse et de la Nature,museum,Arles,,,,43.6401361,4.9255203
+301571362,way,Cirque romain,attraction,Arles,,,,43.6734543,4.6185175
+302431621,way,Square du Dix Mai,garden,Arles,,,,43.6812722,4.6159424
+312825702,way,,castle,Arles,,,,43.8826624,4.856932
+318184027,way,Le Patio de Camargue,restaurant,Arles,,,http://chico.fr/patiowp/,43.6676646,4.6107328
+318344650,way,Pont Van-Gogh,attraction,Arles,,,,43.6569459,4.6211363
+329862230,way,Château des Baux-de-Provence,attraction,Arles,,,,43.7439773,4.7965861
+329862231,way,Place Prince Rainier III de Monaco,attraction,Arles,,,,43.7436444,4.7951474
+329862232,way,Délonstrations médiévales.,attraction,Arles,,,,43.7442619,4.7961215
+337631804,way,Plateau des Antiques,attraction,Arles,,,https://www.patrimoine-antique.com/html/saintremy.html,43.7765179,4.831159
+374443929,way,,memorial,Arles,,,,43.6371321,4.8063497
+374444265,way,Jardin public,park,Arles,,,,43.6365591,4.8109212
+424123330,way,Parc du Chateau du rocher de la Coste,park,Arles,,,,43.876253,4.9004216
+424136180,way,Parvis Hôtel de Ville,park,Arles,,,,43.8753349,4.9016426
+424141479,way,,park,Arles,,,,43.875046,4.9004841
+433543020,way,,beach,Arles,,,,43.4470737,4.4015326
+433543112,way,,beach,Arles,,,,43.4480385,4.4050419
+433543121,way,,beach,Arles,,,,43.4496568,4.4282565
+433554695,way,,beach,Arles,,,,43.4504243,4.3956719
+433554696,way,,beach,Arles,,,,43.4518566,4.3906182
+433554697,way,,beach,Arles,,,,43.4544298,4.3680252
+433554698,way,,beach,Arles,,,,43.4545287,4.3707321
+433554703,way,,beach,Arles,,,,43.4514937,4.3919198
+433554706,way,,beach,Arles,,,,43.4540584,4.3719336
+433554708,way,,beach,Arles,,,,43.4540136,4.3726505
+433554709,way,,beach,Arles,,,,43.4533276,4.3815923
+433554710,way,,beach,Arles,,,,43.4538113,4.374568
+433554712,way,,beach,Arles,,,,43.4534606,4.3803713
+433554715,way,,beach,Arles,,,,43.4532162,4.3827837
+433554717,way,,beach,Arles,,,,43.453027,4.3840492
+433554720,way,,beach,Arles,,,,43.4538487,4.3752193
+433554721,way,,beach,Arles,,,,43.4523808,4.3882667
+433554725,way,,beach,Arles,,,,43.4527081,4.385892
+446697730,way,Château d'Estoublon,castle,Arles,,,,43.7357214,4.7419529
+446697759,way,Chapelle Saint-Blaise (ancienne),gallery,Arles,,,,43.7428733,4.7945977
+446697908,way,Musée des Santons,museum,Arles,,,,43.7447407,4.7949958
+446788129,way,,park,Arles,,,,43.741647,4.7884323
+449416988,way,,garden,Arles,,,,43.7675076,4.81133
+461361168,way,Château de Boulbon,castle,Arles,,,,43.8628569,4.6953112
+467736499,way,Parc de la Révolution,park,Arles,,,,43.3878692,4.8006547
+477946544,way,,garden,Arles,,,,43.7871077,4.783531
+488976357,way,Parc des Ateliers,attraction,Arles,"Boulevard Victor Hugo, 13200, Arles",13200,https://www.luma-arles.org,43.6729947,4.6373021
+499489340,way,,park,Arles,,,,43.6352858,4.7960164
+499654041,way,Tonton Gust,restaurant,Arles,,,https://www.tontongust.fr/,43.6286221,4.8009771
+500058333,way,,park,Arles,,,,43.6836425,4.6321738
+525541098,way,Ibis Budget,hotel,Arles,,,,43.6286301,4.8037814
+526121395,way,,garden,Arles,,,,43.6388401,4.8144754
+526121396,way,,garden,Arles,,,,43.6389381,4.8145623
+531408276,way,Jardin des Avettes - Ruchers-écoles citoyens,garden,Arles,"13200, Arles",13200,https://www.ville-arles.fr/environnement/biodiversite/des-ruches-en-ville/les-ruchers-ecoles-a-arles.php,43.6670961,4.6490234
+536874902,way,Domaine de l'étang des Aulnes,park,Arles,,,,43.597462,4.7872452
+543793961,way,,garden,Arles,,,,43.5359319,4.7536701
+545216022,way,Meunerie Romaine de Barbegal,attraction,Arles,,,,43.702703,4.7211565
+547235065,way,,restaurant,Arles,,,,43.7903869,4.7106915
+549914732,way,,park,Arles,,,,43.6393831,4.8098708
+550390331,way,Roulotte-Snack,restaurant,Arles,,,,43.7231758,4.7183543
+550400320,way,,park,Arles,,,,43.6983147,4.7897596
+550400328,way,,beach,Arles,,,,43.6982815,4.7879163
+550400329,way,,park,Arles,,,,43.6983797,4.7877723
+550400331,way,,park,Arles,,,,43.6979354,4.7894075
+550403795,way,,park,Arles,,,,43.699315,4.7860585
+550404528,way,,park,Arles,,,,43.6975733,4.7888573
+550407893,way,,ruins,Arles,,,,43.7048892,4.7898086
+550407894,way,,ruins,Arles,,,,43.7044487,4.7897198
+550415668,way,,park,Arles,,,,43.7051858,4.7688158
+551649622,way,,park,Arles,,,,43.7354418,4.7430229
+552007406,way,,park,Arles,,,,43.6720489,4.615106
+553061690,way,,park,Arles,,,,43.6538519,4.692834
+553332928,way,,park,Arles,,,,43.416619,4.7317348
+553336927,way,,park,Arles,,,,43.4182488,4.7343837
+554057151,way,,garden,Arles,,,,43.7182255,4.8348357
+554068423,way,,park,Arles,,,,43.7196042,4.835769
+554709547,way,,garden,Arles,,,,43.7071116,4.8446261
+554712334,way,,garden,Arles,,,,43.7078192,4.827161
+557070095,way,,park,Arles,,,,43.6390437,4.8086129
+570997208,way,,monument,Arles,,,,43.7884926,4.8297321
+597051888,way,Del Arte,restaurant,Arles,"13200, Arles",13200,https://www.delarte.fr/restaurants/1353-arles,43.6677615,4.6357323
+604043715,way,,park,Arles,,,,43.6591091,4.8390826
+613009452,way,,beach,Arles,,,,43.4489839,4.4073007
+617881288,way,Le Castelet des Alpilles,hotel,Arles,,,,43.7844901,4.831379
+643063673,way,,ruins,Arles,,,,43.6725462,4.6171862
+650286192,way,,park,Arles,,,,43.6190829,4.6572512
+651696887,way,,garden,Arles,,,,43.6411747,4.7981697
+655254477,way,,garden,Arles,,,,43.6383119,4.8098563
+655617141,way,,garden,Arles,,,,43.6447596,4.7206265
+658410312,way,Le Manège d'Autrefois,attraction,Arles,,,,43.6748785,4.6277509
+668887065,way,Jardin Aquatique Aux Fleurs de l'Eau,attraction,Arles,,,https://www.auxfleursdeleau.fr/,43.8429212,4.782551
+675410767,way,,garden,Arles,,,,43.8870466,4.7787357
+677376534,way,Phare de la Gacholle,attraction,Arles,,,,43.4548463,4.5703207
+677842333,way,,garden,Arles,,,,43.8495846,4.9662868
+677842340,way,,garden,Arles,,,,43.8498528,4.9661176
+677842349,way,,garden,Arles,,,,43.8506961,4.9657413
+677842350,way,,garden,Arles,,,,43.8509646,4.9664654
+677842351,way,,garden,Arles,,,,43.85097,4.9667378
+679253034,way,,garden,Arles,,,,43.856885,4.9543479
+679253035,way,,garden,Arles,,,,43.8571943,4.9541458
+684944312,way,,park,Arles,,,,43.745864,4.6544067
+684962736,way,La Tour,viewpoint,Arles,,,,43.379511,4.8054441
+686167604,way,,beach,Arles,,,,43.401771,4.5913075
+686650782,way,,park,Arles,,,,43.6679008,4.6105935
+686650783,way,,park,Arles,,,,43.6676571,4.6108243
+688434224,way,PLage Olga,beach,Arles,,,,43.3919159,4.8529495
+688453231,way,Le Cabanon,restaurant,Arles,,,,43.3849387,4.8046219
+691182715,way,,garden,Arles,,,,43.6545377,4.7006029
+691307586,way,,park,Arles,,,,43.672916,4.642764
+691311081,way,,park,Arles,,,,43.6710166,4.6373359
+697071788,way,,garden,Arles,,,,43.6348004,4.7931433
+697072536,way,,garden,Arles,,,,43.6339981,4.7958545
+698615148,way,,park,Arles,,,,43.8410518,4.9212924
+698616439,way,,park,Arles,,,,43.8396738,4.9173536
+700884849,way,Drum Café,restaurant,Arles,"35 Avenue Victor Hugo, 13200, Arles",13200,https://www.luma.org/arles/nous-rendre-visite/se-restaurer-au-parc-des-ateliers/drum-cafe.html,43.6744148,4.6369565
+708212257,way,,park,Arles,,,,43.7260932,4.7141585
+710727648,way,"La Verrerie, tiers-lieu culturel & citoyen",attraction,Arles,,,https://laverreriearles.fr/,43.6817883,4.6207471
+712447407,way,,beach,Arles,,,,43.453397,4.4375682
+712447408,way,,beach,Arles,,,,43.4541619,4.4390007
+715018343,way,Arènes des Saintes-Maries-de-la-Mer,attraction,Arles,,,,43.449868,4.42703
+726949290,way,Le potager,garden,Arles,,,,43.5675582,4.6669779
+726949293,way,,park,Arles,,,,43.5674965,4.6678987
+733021220,way,Bambous en Provence,attraction,Arles,"2388 Route de Graveson, 13630, Eyragues",13630,https://www.bambous-en-provence.com/,43.8508018,4.8090877
+733039820,way,,park,Arles,,,,43.7771808,4.833902
+739055785,way,,garden,Arles,,,,43.6735355,4.6171222
+739055787,way,,garden,Arles,,,,43.6738108,4.6174468
+739109398,way,Château de Romanin,castle,Arles,,,,43.7626014,4.8947103
+757783474,way,Les Deux Colonnes,ruins,Arles,,,,43.6764537,4.6295603
+757783475,way,,ruins,Arles,,,,43.676516,4.6295628
+757783476,way,,ruins,Arles,,,,43.6764608,4.6295602
+757783477,way,,ruins,Arles,,,,43.6764464,4.6295597
+760912456,way,Plage privée du Grand Radeau,beach,Arles,,,,43.4568211,4.3517358
+766323112,way,,park,Arles,,,,43.5088737,4.6681635
+770910281,way,Square Barbentan,park,Arles,,,,43.850242,4.7747939
+771413562,way,Ruines de Chateau,attraction,Arles,,,,43.7465517,4.799041
+779306505,way,,attraction,Arles,,,,43.7057927,4.7217636
+779929192,way,Parc des Cordes,restaurant,Arles,"13990, Fontvieille",13990,https://www.thegoodarles.com/entreprises/restaurant-fontvieille-parc-des-cordes/,43.7096748,4.6839676
+780557573,way,,park,Arles,,,,43.7246351,4.7805631
+781118005,way,La citerne,ruins,Arles,,,,43.7403962,4.757
+781620188,way,,park,Arles,,,,43.5707621,4.8201151
+782192598,way,,park,Arles,,,,43.6729231,4.5979903
+782645096,way,,garden,Arles,,,,43.6677212,4.8406396
+783091528,way,,park,Arles,,,,43.7056486,4.8666307
+783372801,way,,ruins,Arles,,,,43.5658573,4.6424084
+785075907,way,L'Ile aux loisirs,park,Arles,,,,43.6485873,4.6394415
+785651316,way,Les Petites Maisons,hotel,Arles,,,https://www.les-petites-maisons.com/,43.7269164,4.7882627
+795125426,way,Arènes Pierre Plantevin,attraction,Arles,,,,43.6483391,4.7209723
+795143788,way,Arènes Louis Thiers,attraction,Arles,,,,43.6345172,4.806705
+795149654,way,Arènes Municipales Chomel Coinon,attraction,Arles,,,,43.7834372,4.83396
+795156052,way,Arènes Jacques Durand,attraction,Arles,"Avenue Roger Salengro, 13150, Tarascon",13150,,43.8076349,4.6589767
+863524707,way,,garden,Arles,,,,43.7914013,5.0296065
+872772466,way,,park,Arles,,,,43.8507188,4.7674991
+896451234,way,,park,Arles,,,,43.6460264,4.7224139
+909562385,way,,attraction,Arles,,,,43.8749586,4.9022055
+918575187,way,,park,Arles,,,,43.8052621,4.6735582
+918576245,way,parc de l'argelier,park,Arles,argelier,,,43.7967924,4.8353779
+918576246,way,Parc bien vivre,park,Arles,,,,43.7972312,4.8341288
+926564890,way,,garden,Arles,,,,43.5361051,4.7540021
+928881807,way,,park,Arles,,,,43.6562681,4.6386317
+943470749,way,B&B Hotel,hotel,Arles,,,,43.6278957,4.8020708
+958370147,way,Le jardin paysager,attraction,Arles,,,,43.6728155,4.637278
+958882888,way,Skate Park (Koo Jeong),artwork,Arles,,,,43.6740077,4.6371205
+958895616,way,Intestin bouclé (Franz West),artwork,Arles,,,,43.6737631,4.636253
+958920173,way,,garden,Arles,,,,43.6737184,4.6365739
+958927448,way,,garden,Arles,,,,43.6742328,4.6359406
+958927449,way,,garden,Arles,,,,43.6738673,4.6361681
+958927450,way,,garden,Arles,,,,43.6736468,4.6363364
+958930501,way,,garden,Arles,,,,43.6732743,4.6368087
+958936236,way,,garden,Arles,,,,43.672584,4.636405
+958939439,way,,garden,Arles,,,,43.672161,4.6369401
+959116455,way,Jardin Public Fernand Benoît,park,Arles,,,,43.4119127,4.7295092
+963210472,way,Le moulin,attraction,Arles,,,,43.7416919,4.7931208
+963458791,way,Vélorail des Alpilles,attraction,Arles,"13990, Fontvieille",13990,https://www.veloraildesalpilles.fr/,43.7285319,4.7070864
+975910096,way,,park,Arles,,,,43.4100349,4.7275523
+985164720,way,Musée de la Camargue,museum,Arles,6399 Route des Saintes-Maries-de-la-Mer,,https://museedelacamargue.com/,43.6241478,4.5290061
+986012766,way,,garden,Arles,,,,43.6650978,4.4647647
+986012773,way,,garden,Arles,,,,43.6649475,4.4640123
+991100755,way,Aqueduc romain,ruins,Arles,,,,43.7112742,4.6990305
+996142385,way,Hypogée du Castelet,attraction,Arles,,,,43.7093433,4.6761095
+1013692074,way,Pont de Constantin,attraction,Arles,,,,43.6820684,4.6267857
+1050817422,way,Le Jardin,garden,Arles,,,,43.68171,4.6204471
+1051585626,way,Les Filles d'à côté,restaurant,Arles,"13200, Arles",13200,https://fr-fr.facebook.com/pg/LeKillians/about/?ref=page_internal,43.707295,4.6439115
+1051904765,way,La Pataterie,restaurant,Arles,,,https://www.lapataterie.fr/,43.6655783,4.6385119
+1053842248,way,La Croix de Camargue,monument,Arles,,,,43.5695693,4.5053276
+1054817193,way,Institut Médico-Educatif les Abeilles,park,Arles,"Route des Abeilles, 13990, Fontvieille",13990,https://lesabeilles.fr/dispositif/ime-les-abeilles-de-fontvieille/,43.7223276,4.7190992
+1054818163,way,Centre aéré l’Écureuil,park,Arles,,,,43.7239372,4.7199284
+1064106441,way,Bord,artwork,Arles,,,,43.3785,4.8058756
+1064553210,way,Airstream le pont à bulles,artwork,Arles,,,,43.5351159,4.7567866
+1064558625,way,Marcher dans les roseaux,artwork,Arles,,,,43.536217,4.7513473
+1064558626,way,Sentir le vent,artwork,Arles,,,,43.5367241,4.7509707
+1076504143,way,Plan dallé,attraction,Arles,,,,43.7420259,4.7934989
+1076514188,way,Fenêtre Renaissance,attraction,Arles,,,,43.7437386,4.7951235
+1087052083,way,L'Arche de Méo,zoo,Arles,"999 Route de Saint-Andiol, 13940, Mollégès",13940,https://parc-animalier-paca.fr/,43.816172,4.9460315
+1113120818,way,Château d'Aureille,ruins,Arles,,,,43.7078324,4.9489333
+1124485906,way,Baliste,attraction,Arles,,,,43.7446412,4.7961842
+1124499779,way,Bélier,attraction,Arles,,,,43.7430653,4.7957945
+1124499780,way,Grand trébuchet,attraction,Arles,,,,43.7425596,4.7954362
+1126181764,way,Pont d'Ulmet,attraction,Arles,,,,43.4712418,4.6244005
+1128217045,way,Jardin d'été,park,Arles,,,,43.6756383,4.6303151
+1135063517,way,,garden,Arles,,,,43.8991906,4.8769398
+1135063518,way,,garden,Arles,,,,43.8994423,4.877257
+1147133831,way,Castrum de Montpaon,attraction,Arles,,,,43.7402725,4.7571722
+1154010093,way,cantine,restaurant,Arles,,,,43.8843772,4.8752963
+1162265556,way,Square des Anciens Combattants,park,Arles,,,,43.6930544,4.868949
+1163079497,way,Jardin de la Paix2,garden,Arles,,,,43.611775,4.4753833
+1164451077,way,,park,Arles,,,,43.815043,4.6617406
+1171486289,way,Jardins de Quiqueran,park,Arles,,,,43.742554,4.7948576
+1171721548,way,Carte de France de la Pierre de Taillle,artwork,Arles,,,,43.7235647,4.8044782
+1189606232,way,La Marianne,memorial,Arles,,,,43.7262209,4.7094888
+1249686145,way,,castle,Arles,,,,43.7901661,5.0415998
+1255986133,way,,park,Arles,,,,43.8383178,4.8346607
+1255986139,way,Parc des Poètes,park,Arles,,,,43.8414846,4.8386626
+1255986146,way,,park,Arles,,,,43.8321329,4.8527949
+1267224443,way,,memorial,Arles,,,,43.6750141,4.6302499
+1288326252,way,83.5° Arc x 13,artwork,Arles,,,,43.6817256,4.6317683
+1288904132,way,,attraction,Arles,,,,43.7077301,4.7104592
+1290749627,way,Fontaine Amédée Pichot,attraction,Arles,,,,43.6804078,4.6311412
+1349806102,way,,garden,Arles,,,,43.7906747,5.0327521
+1352749833,way,,artwork,Arles,,,,43.6969498,4.7155264
+1352749834,way,,artwork,Arles,,,,43.6969626,4.7155385
+1358409173,way,,ruins,Arles,,,,43.7470427,4.7255747
+1366263676,way,,garden,Arles,,,,43.737402,4.7394299
+1382511211,way,Square de Verdun,park,Arles,,,,43.789328,4.8290809
+1388482847,way,Parc du Château,park,Arles,"13670, Saint-Andiol",13670,,43.8381601,4.9429277
+1394176293,way,King Loisirs - La terre des princes,theme_park,Arles,"Route des Baux, 13210",13210,https://king-loisirs.fr/,43.7786198,4.7947574
+1410550769,way,,garden,Arles,,,,43.911685,4.7857617
+1410550779,way,,garden,Arles,,,,43.9119934,4.7849525
+1411367408,way,Square Rose Liotard,park,Arles,,,,43.8501708,4.7780235
+1413036768,way,,park,Arles,,,,43.8232586,4.7819684
+1444249170,way,Parc du Grand Gallègue,park,Arles,,,,43.6852925,4.6111546
+1445432841,way,,park,Arles,,,,43.7905497,5.0291529
+1446187872,way,Arles,hotel,Arles,,,,38.4930834,-122.4065299
+1453380385,way,,garden,Arles,,,,43.6885842,4.6411554
+1479747311,way,Monastère Saint-Maur,ruins,Arles,,,,43.7055588,4.6631896
+1483024498,way,,park,Arles,,,,43.664279,4.4802604
+1493634724,way,Le Domaine Méjan,hotel,Arles,,,https://www.domaine-mejan.com/fr/,43.7250855,4.7929877
+1520558717,way,,artwork,Arles,,,,43.6241687,4.5293655
+1451755,relation,Musée Réattu,museum,Arles,"12 Rue du Grand Prieuré, 13200, Arles",13200,http://www.museereattu.arles.fr,43.679281,4.6277462
+1451761,relation,Musée Arlaten,museum,Arles,"29 Rue de la République, 13200, Arles",13200,https://www.museonarlaten.fr/,43.6766678,4.6261157
+1600923,relation,Prieuré de Saint-Paul-de-Mausole (ancien),attraction,Arles,,,,43.7766175,4.83483
+2975584,relation,,beach,Arles,,,,43.4203469,4.5882875
+2975585,relation,,beach,Arles,,,,43.4489478,4.5189318
+4006288,relation,Hôtel Mauleon,attraction,Arles,,,,43.8074486,4.6622227
+5944281,relation,Musée de l'Arles antique,museum,Arles,"Avenue Jean Monnet, 13200, Arles",13200,,43.6727217,4.6163447
+6639099,relation,Le Fabian des Baux,hotel,Arles,"13520, Les Baux-de-Provence",13520,https://hotelfabiandesbaux.com/,43.7314901,4.8162013
+7642249,relation,Marais de Beauchamp et du Petit Clar,attraction,Arles,,,,43.6720865,4.6569788
+8134330,relation,Vestiges romains de Caparon,attraction,Arles,,,,43.7041896,4.7212097
+9604476,relation,Château de la Jansonne,castle,Arles,,,,43.6544499,4.7001698
+10706295,relation,Plage de Beauduc,beach,Arles,,,,43.3808516,4.5718074
+10906771,relation,Parc du Ponant,park,Arles,,,,43.3966942,4.7944666
+11568686,relation,Arboretum Le Jardin de Gaston,garden,Arles,,,,43.6333087,4.8092702
+12267069,relation,Parc paysagé de la baisse de Raillon,park,Arles,,,,43.6302534,4.7861158
+12627387,relation,Vestige de l'aqueduc romain,attraction,Arles,,,,43.7079258,4.7089118
+12721662,relation,Tour Luma,attraction,Arles,,,,43.6742103,4.6368217
+12896849,relation,Hôtel du Parc,hotel,Arles,,,https://www.luma.org/arles/nous-rendre-visite/ou-dormir/hotel-du-parc.html,43.6744213,4.6355871
+13102892,relation,Porte de la Cavalerie,attraction,Arles,rue de la cavalerie,,,43.6811479,4.631336
+13365704,relation,,ruins,Arles,,,,43.7054735,4.662761
+13587236,relation,Plage de Piémanson,beach,Arles,,,,43.3398168,4.7930512
+14043583,relation,Villa Benkemoun,gallery,Arles,,,https://www.villabenkemoun.fr/,43.6508508,4.6399473
+14879797,relation,Espace de loisirs de la Baisse de Raillon,park,Arles,"13310, Saint-Martin-de-Crau",13310,,43.6343146,4.7941885
+15019954,relation,,park,Arles,,,,43.739329,4.8811305
+15845169,relation,Espace Benjamin Priaulet,park,Arles,,,,43.7221486,4.8040443
+15969633,relation,Domaine départemental du Château d’Avignon,park,Arles,,,https://www.departement13.fr/nos-actions/culture/les-lieux-daccueil/chateau-davignon-un-domaine-en-camargue/,43.5573258,4.4101077
+17579620,relation,,beach,Arles,,,,43.4593836,4.4579622
+17809425,relation,Espace COSMOS,garden,Arles,,,https://www.facebook.com/pg/espace.cosmos/about/?ref=page_internal,43.6593779,4.7967224
+18614102,relation,,castle,Arles,,,,43.748686,4.7601494
+19888657,relation,Prieuré de Saint-Peyre d'Entremonts,ruins,Arles,,,,43.7567672,4.7377599
+20683028,relation,Jardins de la Tour,park,Arles,,,,43.384603,4.8053324

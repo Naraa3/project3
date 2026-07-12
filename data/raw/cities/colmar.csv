@@ -1,65 +1,162 @@
 osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 243495090,node,B & B hotel,hotel,Colmar,,,,48.1126379,7.3676609
 247105450,node,Aux Amis de la Lauch,restaurant,Colmar,,,,48.0559665,7.3514552
+255456996,node,Château du Hohlandsbourg,attraction,Colmar,"Route des Cinq Châteaux, 68920",68920,,48.0599159,7.2691921
+260301789,node,,viewpoint,Colmar,,,,48.0422537,7.3074235
 260422019,node,Brasserie des Arcades,restaurant,Colmar,"Grand'Rue, 68000, Colmar",68000,https://arcades.pagesperso-orange.fr/,48.0770025,7.3601363
+262506725,node,Altenkraehkopf,viewpoint,Colmar,,,,48.1066897,7.0837256
 266643987,node,Le Flamm's,restaurant,Colmar,,,,48.0781074,7.3581941
+268944838,node,Statue du Général Jean Rapp,artwork,Colmar,,,,48.0770127,7.354183
+268944859,node,Statue d'Armand Joseph Bruat,artwork,Colmar,,,,48.0755785,7.3527612
+269137668,node,Théophile Conrad Pfeffel,attraction,Colmar,,,,48.0755368,7.3577627
+276637633,node,Monument aux Morts,memorial,Colmar,,,,48.0402542,7.5454368
+286059532,node,,viewpoint,Colmar,,,,48.0833252,7.0521178
+286062887,node,,viewpoint,Colmar,,,,48.1013673,7.0678278
 293726584,node,Hôtel l'Europe,hotel,Colmar,,,https://www.hotel-europe-colmar.com/,48.0772762,7.4038329
-300141209,node,Auberge du Geisbach,guest_house,Colmar,Luttenbach,,http://www.geisbach.fr,48.0204604,7.1187932
+300141209,node,Auberge du Geisbach,restaurant,Colmar,Luttenbach,,http://www.geisbach.fr,48.0204604,7.1187932
 300145832,node,Aux Deux Clefs,hotel,Colmar,12 Rue de l'Altenhof,,http://auxdeuxclefs.hotels-kempf.com,48.0146001,7.0651862
-301207452,node,Ferme-Auberge Les Trois Fours,guest_house,Colmar,,,https://www.auberge-des-trois-fours.com/,48.053337,7.0245321
-302362367,node,Ferme Auberge Kahlenwasen,guest_house,Colmar,Luttenbach près Munster,,https://www.tourisme-alsace.com/fr/231001097-Ferme-auberge-du-Kahlenwasen.html,47.9889696,7.124078
+301207452,node,Ferme-Auberge Les Trois Fours,restaurant,Colmar,,,https://www.auberge-des-trois-fours.com/,48.053337,7.0245321
+302362367,node,Ferme Auberge Kahlenwasen,restaurant,Colmar,Luttenbach près Munster,,https://www.tourisme-alsace.com/fr/231001097-Ferme-auberge-du-Kahlenwasen.html,47.9889696,7.124078
 325004638,node,Ferme Auberge Deybach (Schnepfenried),restaurant,Colmar,"Le Schnepfenried, 68380, Mittlach",68380,https://www.ferme-auberge-deybach.fr/,47.9908022,7.0405139
+348549234,node,,memorial,Colmar,,,,48.0250196,7.5749408
+351581104,node,,memorial,Colmar,,,,48.0178464,7.5300495
 411065335,node,Ferme Auberge du Schiessroth,restaurant,Colmar,Metzeral,,https://www.jds.fr/metzeral/ferme-auberge-alsace/ferme-auberge-du-schiessroth-le-gaschney-metzeral-haut-rhin-2132_L,48.0294309,7.0325765
-411065417,node,Le Schallern,guest_house,Colmar,"Gaschney, 68380, Muhlbach-sur-Munster",68380,https://www.leschallern.com,48.0374534,7.0400761
-411065418,node,Ferme Auberge Hinterberg,guest_house,Colmar,,,https://www.vallee-munster.eu/fr/gourmande/fermes-auberges-vallee-munster/F231000931_ranch-auberge-hinterberg-metzeral.html,48.018259,7.0508952
+411065417,node,Le Schallern,restaurant,Colmar,"Gaschney, 68380, Muhlbach-sur-Munster",68380,https://www.leschallern.com,48.0374534,7.0400761
+411065418,node,Ferme Auberge Hinterberg,restaurant,Colmar,,,https://www.vallee-munster.eu/fr/gourmande/fermes-auberges-vallee-munster/F231000931_ranch-auberge-hinterberg-metzeral.html,48.018259,7.0508952
+415760121,node,Rainkopf,viewpoint,Colmar,,,,48.009745,6.9827593
+415774804,node,,viewpoint,Colmar,,,,48.0763633,7.0363319
+415774844,node,,viewpoint,Colmar,,,,48.1023809,7.06846
+443995232,node,Taubenklangfelsen,viewpoint,Colmar,,,,48.107439,7.0716457
+447806516,node,Belvédère de la petite Fecht,viewpoint,Colmar,,,,48.0592738,7.0238887
+467382601,node,Rocher Turenne,attraction,Colmar,,,,48.0502785,7.2618495
 467405854,node,Ferme-Auberge Strohberg,restaurant,Colmar,"68230, Wasserbourg",68230,https://www.ferme-auberge-strohberg.com/,47.9828305,7.1325653
 467407680,node,Auberge du Boenlesgrab,restaurant,Colmar,,,,47.976901,7.1477459
 469373086,node,Ferme Auberge du Braunkopf,restaurant,Colmar,,,http://www.auberge-braunkopf.com,48.0229098,7.0644044
+470199589,node,Statue de la Liberté,artwork,Colmar,,,,48.1084062,7.3636331
+496239319,node,Belvédère des Hirschsteine,viewpoint,Colmar,,,,48.0697828,7.0345412
+496239352,node,Hirschsteine,attraction,Colmar,,,,48.0696817,7.0339845
+496239353,node,Spitzenfelsen,viewpoint,Colmar,,,,48.0645065,7.0325092
 496239839,node,Gaertlesrain,restaurant,Colmar,Soultzeren,,https://www.jds.fr/soultzeren/ferme-auberge-alsace/auberge-gaertlesrain-soultzeren-haut-rhin-2127_L,48.089015,7.0686673
-568321307,node,Ferme Auberge Wassmatt,guest_house,Colmar,"134 Wassmatt, 68230, Wasserbourg",68230,http://www.ferme-auberge-wassmatt.com/,47.9946506,7.1373414
+568321307,node,Ferme Auberge Wassmatt,restaurant,Colmar,"134 Wassmatt, 68230, Wasserbourg",68230,http://www.ferme-auberge-wassmatt.com/,47.9946506,7.1373414
+575678502,node,Diable Rouge,artwork,Colmar,,,,48.0941319,7.3612755
 599392343,node,Les Deux Cléfs,hotel,Colmar,,,https://www.2clefs.com/,48.0872617,7.2777119
+605309641,node,Maréchal de Lattre de Tassigny,attraction,Colmar,,,,48.077344,7.3511561
+605463218,node,Gustave Adolphe Hirn,artwork,Colmar,,,,48.0734677,7.3548399
+609085866,node,Statue de Frédéric Auguste Bartholdi,artwork,Colmar,,,,48.0704895,7.3531423
+609158055,node,Quai de la Poissonerie,viewpoint,Colmar,,,,48.0743391,7.3597709
 609628471,node,Restaurant le Zinc,restaurant,Colmar,"45 Grand'Rue, 68000",68000,https://www.lezinccolmar.fr/,48.0748936,7.357441
 614311651,node,Crêperie CrêP'Stub,restaurant,Colmar,,,,48.0753613,7.3592922
 614720266,node,La cochonaille,restaurant,Colmar,"1 Rue de la Grenouillère, 68000, Colmar",68000,,48.0775069,7.361524
 658603930,node,Via Roma,restaurant,Colmar,,,,48.07473,7.3439514
 658611175,node,Le Rendez-Vous de Chasse,restaurant,Colmar,,,,48.0725616,7.3476104
 658611176,node,L'Auberge,restaurant,Colmar,,,,48.0726774,7.3477154
+663601656,node,Musée Vauban,museum,Colmar,,,,48.0157574,7.525851
+666984286,node,,monument,Colmar,,,,48.0864729,7.2802287
+674695872,node,Monument aux Morts,memorial,Colmar,,,,48.0747858,7.282254
 681555268,node,ibis Styles Colmar Centre,hotel,Colmar,,,,48.0768229,7.3553763
+681839514,node,Monument aux Morts,memorial,Colmar,,,,48.0395855,7.1332073
+683135352,node,Monument aux morts de Luttenbach-près-Munster,memorial,Colmar,,,,48.0329817,7.1194055
+685084692,node,Musée Gallo-Romain,museum,Colmar,"Le Capitole Rue de l'Église, 68600, Biesheim",68600,https://www.biesheim.fr/culture-loisirs/musee-gallo-romain/,48.039525,7.5455969
 685084711,node,Hostellerie Groff - Aux deux clefs,hotel,Colmar,,,,48.0413152,7.5394405
+686687356,node,Monument aux Morts,memorial,Colmar,,,,48.0199976,7.4065139
+687493918,node,Grotte de Lourdes,monument,Colmar,,,,48.0571571,7.2985251
+687626744,node,Monument aux Morts,memorial,Colmar,,,,48.0428623,7.3058665
+690531215,node,Buste de Charles- Xavier Thomas,memorial,Colmar,,,,48.0755058,7.354044
+690531629,node,Jean-Jacques Waltz (alias Hansi),monument,Colmar,,,,48.0774127,7.3546466
+692838674,node,,monument,Colmar,,,,48.0437625,7.5389148
+695376368,node,Monument aux Morts,memorial,Colmar,,,,48.0179463,7.3288137
 738241085,node,Hôtel restaurant Panorama,hotel,Colmar,,,https://www.hotel-panorama-alsace.com/,48.0601877,7.1359925
+739544920,node,Monument aux Morts,memorial,Colmar,,,,48.0184203,7.2949505
+880817011,node,Ancienne Abbaye Saint-Gregoire,ruins,Colmar,,,,48.0400563,7.1377548
 895655251,node,Caveau Saint-Pierre,restaurant,Colmar,,,,48.0729377,7.3571515
 899484970,node,Ferme Auberge du Kastelberg,restaurant,Colmar,,,https://www.ferme-auberge-kastelberg.fr/,48.0148286,7.0116296
 906764500,node,Ferme Auberge du Ried,restaurant,Colmar,,,https://www.aubergeduried.fr/,48.0039078,7.13396
+908202490,node,,viewpoint,Colmar,,,,48.0606413,7.0415016
+908202978,node,Bichtstein,viewpoint,Colmar,,,,48.078011,7.08763
+916684835,node,Monument Charles Grad,monument,Colmar,,,,48.0854178,7.2804825
+916859091,node,Corps de Garde,attraction,Colmar,,,,48.0868554,7.2781001
 928060353,node,Ferme-Auberge du Lameysberg,restaurant,Colmar,Breitenbach,,https://www.jds.fr/breitenbach-haut-rhin/musee/ferme-lameysberg-musee-du-fromage-de-munster-breitenbach-haut-rhin-1700_L,48.0026031,7.1105792
+928060391,node,Monument aux Morts,memorial,Colmar,,,,48.0239258,7.1001868
+954321663,node,La Croix du Moulin,memorial,Colmar,,,,48.1394695,7.4634024
+955841383,node,Statue,monument,Colmar,,,,48.0424792,7.3054748
+963225240,node,La petite Venise,viewpoint,Colmar,,,,48.0726413,7.3570327
 977824683,node,Fast Hotel,hotel,Colmar,,,,48.1284632,7.3610163
+985439589,node,Le Petit Vigneron,artwork,Colmar,,,,48.0745736,7.3593602
+1107926262,node,,viewpoint,Colmar,,,,48.0373622,7.0154842
 1131677835,node,Restaurant Le Panoramic,restaurant,Colmar,,,https://fr.restaurant-le-panoramic.fr/,47.9860881,7.0487476
+1166853557,node,Monument aux Morts,memorial,Colmar,,,,48.0388345,7.2034823
+1169950765,node,Narrenstein,viewpoint,Colmar,,,,48.0429516,7.1408942
+1187331736,node,Monument,monument,Colmar,,,,48.0464967,7.1752782
+1187406851,node,Monument aux Morts,memorial,Colmar,,,,48.0304096,7.1457707
+1194328604,node,Monument aux morts,memorial,Colmar,,,,48.0542703,7.1006169
+1198050302,node,Monument aux morts,memorial,Colmar,,,,48.0366816,7.1746776
+1202200719,node,,viewpoint,Colmar,,,,48.0942234,7.2461753
 1247193372,node,Hôtel Ibis,hotel,Colmar,,,,48.0779121,7.4029882
+1251307569,node,Monument,monument,Colmar,,,,48.0620356,7.4152855
 1255529808,node,La Bonne Tourte,restaurant,Colmar,,,,48.0171778,7.5294974
+1256591076,node,Musée de l'Instrumentation Optique,museum,Colmar,Place de la mairie,,,48.0395709,7.5457548
 1256679259,node,La Clef des Champs,hotel,Colmar,,,,48.0401557,7.5443544
 1256679777,node,l'Arlequin,restaurant,Colmar,,,,48.040433,7.5443586
+1259381067,node,,memorial,Colmar,,,,48.013118,7.5696816
+1259941585,node,Mémorial AEDEIF,memorial,Colmar,,,,48.0904277,7.2708247
+1265125753,node,Musée Unterlinden,museum,Colmar,"Place Unterlinden, 68000, Colmar",68000,https://www.musee-unterlinden.com,48.0798635,7.3555565
 1265138564,node,Le Colombier,hotel,Colmar,,,,48.0738104,7.358225
 1265168883,node,A l'Echevin,restaurant,Colmar,,,,48.0737254,7.3567506
 1268459870,node,B & B hotel,hotel,Colmar,,,,48.1128355,7.3651714
 1268459891,node,La Boucherie,restaurant,Colmar,,,,48.1124723,7.3650885
-1270253832,node,Auberge et Chalets de la Wormsa,chalet,Colmar,"72 Rue de l'Altenhof, 68380, Metzeral",68380,https://alsace-chalets.fr,48.0108864,7.0532324
+1270253832,node,Auberge et Chalets de la Wormsa,restaurant,Colmar,"72 Rue de l'Altenhof, 68380, Metzeral",68380,https://alsace-chalets.fr,48.0108864,7.0532324
+1270544636,node,Belvédère 1er Spitzkopf,viewpoint,Colmar,,,,48.0258068,7.0230152
+1284202626,node,,viewpoint,Colmar,,,,48.0330608,7.2328956
+1302742547,node,,viewpoint,Colmar,,,,48.0705031,7.030129
+1381628314,node,Krappenfels,viewpoint,Colmar,,,,48.0823674,7.1980542
+1392614141,node,Monument aux Morts,memorial,Colmar,"Place de l'École, 68320, Wickerschwihr",68320,,48.0978892,7.4376135
+1393522316,node,Monument aux Morts,memorial,Colmar,,,,48.0894013,7.4498289
+1434120808,node,Sculpture Liebherr (Exclos 72),artwork,Colmar,,,,48.0932116,7.355822
 1451092801,node,L'olivier,restaurant,Colmar,2 Rue Saint-Grégoire,,https://lolivier-munster.com/,48.0407623,7.136105
 1484320518,node,Restaurant de la Poste,restaurant,Colmar,,,,48.0272847,7.501747
+1490125145,node,,viewpoint,Colmar,,,,48.0903015,7.2712946
+1516663704,node,,memorial,Colmar,,,,47.9701412,7.073851
+1528348860,node,Monument Meyer,memorial,Colmar,"Chemin du Panorama, 68920, Wintzenheim",68920,,48.0662163,7.2766499
+1532770780,node,Monument aux Morts,memorial,Colmar,,,,48.0638131,7.2222845
+1544586519,node,Grotte,monument,Colmar,,,,48.0621741,7.2830182
+1544586520,node,Grotte,monument,Colmar,,,,48.0623036,7.2835961
+1547340765,node,Saint-Joseph,monument,Colmar,,,,48.0652118,7.2796766
+1552079676,node,,viewpoint,Colmar,,,,48.0665324,7.2506717
+1590479567,node,Monument aux Morts,memorial,Colmar,,,,48.1475146,7.4885984
+1621325366,node,Monument aux morts,memorial,Colmar,,,,47.9764884,7.6038743
+1649473238,node,Statue Saint-Léon,monument,Colmar,,,,48.0427115,7.3063716
 1658059316,node,d'Melichkann,restaurant,Colmar,,,,48.1246432,7.4781346
 1668557409,node,La Cigogne,restaurant,Colmar,,,,48.0941164,7.3744738
 1671207816,node,Au P'tit Munster,restaurant,Colmar,,,,48.0409506,7.1381317
-1712386957,node,Ferme-Auberge Rothenbrunnen,guest_house,Colmar,"68380, Sondernach",68380,https://www.rothenbrunnen.fr/,47.9826277,7.1194643
-1731396571,node,Auberge du Steinwasen,guest_house,Colmar,"Route des Crêtes, 68380, Metzeral",68380,http://steinwasen.free.fr/,47.9940505,6.9857868
+1712386957,node,Ferme-Auberge Rothenbrunnen,restaurant,Colmar,"68380, Sondernach",68380,https://www.rothenbrunnen.fr/,47.9826277,7.1194643
+1731396571,node,Auberge du Steinwasen,restaurant,Colmar,"Route des Crêtes, 68380, Metzeral",68380,http://steinwasen.free.fr/,47.9940505,6.9857868
+1735500982,node,Mémorial Chasseurs  47 - 64 - 67 - 68 BCP,memorial,Colmar,,,,48.0383222,7.0874674
+1735500990,node,Mémorial Jean de Guardia,memorial,Colmar,,,,48.0384605,7.0875304
 1738545520,node,Café la Coccinelle,restaurant,Colmar,,,,48.1161758,7.5327851
+1740059722,node,,viewpoint,Colmar,,,,48.0628414,7.1161699
+1755129001,node,Square Alphonse Halter,monument,Colmar,,,,48.0200444,7.524876
 1767711098,node,Restaurant de la Hardt,restaurant,Colmar,,,,48.0979668,7.3364878
+1861584819,node,,viewpoint,Colmar,,,,48.1065728,7.0829467
 1865773754,node,Restaurant Pfeffel,restaurant,Colmar,,,,48.0799834,7.3562339
+1873336923,node,Station intermédiaire du téléphérique Wasserbourg-Petit Ballon,ruins,Colmar,,,,47.987392,7.1336211
+1919937707,node,,viewpoint,Colmar,,,,48.1081243,7.0736779
+1923885595,node,,memorial,Colmar,,,,48.079739,7.0581203
 1929251016,node,Hôtel Quatorze,hotel,Colmar,,,,48.0762613,7.3565002
 2001013191,node,Le 3,restaurant,Colmar,,,,48.0768891,7.3587843
 2274264116,node,Bistrot des Lavandières,restaurant,Colmar,"12 Rue Saint-Jean, 68000, Colmar",68000,,48.0742152,7.3569345
 2274264141,node,Le Schongauer,restaurant,Colmar,,,,48.0765091,7.3581147
+2295900453,node,,memorial,Colmar,,,,48.0369685,7.0497104
 2295909198,node,Ferme Auberge du Gaschney,restaurant,Colmar,"Le Gaschney, 68380, Muhlbach-sur-Munster",68380,https://www.fermeaubergealsace.fr/fr/nos-fermes-auberges/fermes-auberges-haute-alsace/F231001872_ferme-auberge-du-gaschney-muhlbach-sur-munster/,48.0337497,7.0449014
 2302157484,node,A la Ville de Nancy,hotel,Colmar,"48 Rue Vauban, 68000, Colmar",68000,,48.0794638,7.3624917
 2377063499,node,Hôtel Restaurant Bar Valneige,hotel,Colmar,"21 Rue Principale, 68380, Mittlach",68380,https://www.hotelrestaurantvalneige.fr/,48.0037942,7.033587
+2433858281,node,Monument aux Morts,memorial,Colmar,,,,48.0347801,7.2808653
 2442569163,node,"La Tropezienne, Pizzeria",restaurant,Colmar,,,,48.0519331,7.205048
+2445867766,node,Belvédère Emile Hertzog,viewpoint,Colmar,,,,47.9968723,7.1334394
+2515145576,node,Breitfirst,ruins,Colmar,,,,47.9475972,7.0269775
+2519063337,node,Stèle de l'ancien cimetière du Katzenstein,memorial,Colmar,,,,48.0622043,7.1173898
+2560993386,node,,ruins,Colmar,,,,48.0433105,7.1404682
+2560993389,node,,ruins,Colmar,,,,48.0437445,7.1399317
+2581177031,node,Anc. Maison Forestièrer (Ruines),ruins,Colmar,,,,48.0706112,7.203751
 2630574193,node,Le Flory,restaurant,Colmar,"5 Rue Mangold, 68000, Colmar",68000,,48.0773957,7.359891
 2660977749,node,Le Soleil d'Or,restaurant,Colmar,,,,48.0130233,7.0716522
 2665181247,node,L'île au saveur gastronomique,restaurant,Colmar,,,,48.0848992,7.3569206
@@ -67,20 +164,40 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2668192558,node,L'Incontournable,restaurant,Colmar,,,,48.0780072,7.3625633
 2702400612,node,Restaurant de la Tour,restaurant,Colmar,,,,48.0864635,7.2782612
 2726836496,node,La Pataterie,restaurant,Colmar,,,,48.0964687,7.369795
+2728924091,node,Monument Albert Schweitzer,monument,Colmar,,,,48.0465747,7.17102
+2731861410,node,Okidok,theme_park,Colmar,,,https://okidok.fr/colmar/,48.09649,7.3694993
 2741685396,node,Milligusto,restaurant,Colmar,,,https://www.milligusto.com/,48.0962073,7.3692559
 2820233895,node,La Rose Rouge,restaurant,Colmar,,,,48.0069562,7.3831361
 2827567502,node,Les Remparts,restaurant,Colmar,,,,48.018016,7.5307018
 2835118553,node,La Grangelière,restaurant,Colmar,,,https://la-grangeliere-eguisheim.eatbu.com/,48.0418791,7.3045626
 2835118554,node,Le Pavillon Gourmand,restaurant,Colmar,101 Rue du Rempart Sud,,http://pavillon-gourmand.fr,48.0431801,7.3044998
+2851686460,node,Jean Giovanni,memorial,Colmar,,,,48.037906,7.0900027
+2851686824,node,Croix du caporal Félix Bouchet,memorial,Colmar,,,,48.0397505,7.0942155
+2930584527,node,,garden,Colmar,,,,48.0400136,7.5444601
 2935854850,node,Le Petit Schlossberg,restaurant,Colmar,"2 Rue de l'Ange, 68000, Colmar",68000,https://www.le-petit-schlossberg.com/,48.0782956,7.3611256
+3025410492,node,,viewpoint,Colmar,,,,48.0838355,7.2098868
+3072289923,node,Place Emile Kienzler,memorial,Colmar,,,,48.0128464,6.985562
+3072306733,node,,viewpoint,Colmar,,,,48.0532546,7.0260135
+3100822724,node,,viewpoint,Colmar,,,,48.0690446,7.1309555
+3101582854,node,Caporal WILLIAM André Morgan 6.B.C.A,memorial,Colmar,,,,48.0393375,7.0849213
 3143647129,node,Ferme Auberge Bichstein (Position estimée/visée !),restaurant,Colmar,Soultzeren,,https://www.jds.fr/soultzeren/ferme-auberge-alsace/auberge-bichstein-soultzeren-haut-rhin-2126_L,48.0749309,7.0950779
 3143730030,node,Ferme Auberge au Grand Hêtre,restaurant,Colmar,,,https://www.jds.fr/metzeral/ferme-auberge-alsace/ferme-auberge-grand-hetre-schnepfenried-metzeral-haut-rhin-2090_L,47.9900422,7.0479438
 3143816961,node,Ferme Auberge Wettstein,restaurant,Colmar,Soultzeren,,https://www.jds.fr/soultzeren/ferme-auberge-alsace/auberge-du-wettstein-soultzeren-haut-rhin-2135_L,48.0872539,7.112616
 3172252962,node,Ristorante Del Arte,restaurant,Colmar,"Cinéma CGR, 68000, Colmar",68000,https://www.delarte.fr/restaurant-italien-pizzeria-colmar-cinema-cgr.html,48.0816667,7.355782
+3197834220,node,,viewpoint,Colmar,,,,48.0779332,7.1264041
 3201790665,node,New Wok Tao,restaurant,Colmar,,,,48.0730827,7.4068286
 3296170496,node,Stammtisch,restaurant,Colmar,,,,48.0865917,7.2781973
+3325093705,node,,viewpoint,Colmar,,,,48.0059698,7.0471449
+3325873113,node,,viewpoint,Colmar,,,,47.9892679,7.0457292
+3325932110,node,Kuhfeil,viewpoint,Colmar,,,,48.0147876,7.0805253
+3325951741,node,,viewpoint,Colmar,,,,48.0084408,7.0781868
 3456334462,node,Restaurant Aux Abeilles,restaurant,Colmar,"25 Route de Gunsbach, 68140, Munster",68140,,48.0439482,7.1524995
 3458722017,node,Colmarappart,hotel,Colmar,,,,48.0764474,7.3596985
+3505283224,node,Monument 1914,monument,Colmar,,,,48.0968885,7.2165672
+3505283227,node,Monument Rotary,monument,Colmar,,,,48.0970084,7.2168586
+3526274439,node,Grande Carrière,ruins,Colmar,,,,48.0793686,7.13741
+3543324076,node,,viewpoint,Colmar,,,,48.0535671,7.0313998
+3543324142,node,,viewpoint,Colmar,,,,48.0585667,7.0254681
 3560684223,node,Oh Happy Day,restaurant,Colmar,,,,48.0805692,7.3573518
 3618136262,node,Restaurant vingt-sept,restaurant,Colmar,,,,48.074718,7.3453184
 3618164931,node,Le Grain,restaurant,Colmar,,,,48.080904,7.3465912
@@ -88,17 +205,27 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3618284528,node,Pizza aux 4 saisons,restaurant,Colmar,,,,48.0850378,7.3389729
 3619696130,node,La Storia,restaurant,Colmar,,,,48.0680109,7.3443769
 3621361580,node,Odalys Appart' Hotel La Rose d'Argent Colmar,hotel,Colmar,,,,48.0788247,7.3656154
+3668556516,node,,ruins,Colmar,,,,47.9788722,7.1187498
+3742757862,node,,memorial,Colmar,,,,48.015624,7.5318155
 3803109286,node,A la Ville de Colmar,hotel,Colmar,,,,48.0721438,7.2927019
+3912941571,node,Stèle Préfet Erignac,monument,Colmar,,,,48.0747027,7.3518327
 3914081864,node,La Table de Louise,restaurant,Colmar,,,,48.0792696,7.351988
 3914107878,node,Matoine Bistrot vivant,restaurant,Colmar,,,,48.0792033,7.3599949
 3914128984,node,L'Un des Sens,restaurant,Colmar,,,,48.076028,7.3560442
 3914128985,node,Les Racines,restaurant,Colmar,,,,48.0778421,7.362786
 3914163789,node,La Cocotte de Grand-Mère,restaurant,Colmar,,,,48.0775528,7.3561914
+4147595003,node,Mémorial de Mike et Greg,memorial,Colmar,,,,48.092221,7.5693463
 4187444396,node,,hotel,Colmar,,,,48.0788138,7.3571103
 4195684046,node,Salon de Thé de la Boulangerie Marx,restaurant,Colmar,,,,48.0428615,7.305728
 4213390142,node,Schwendi Bier- un Wistub,restaurant,Colmar,,,,48.0762968,7.3595789
 4242832839,node,Europe,restaurant,Colmar,,,,48.0779278,7.3302841
+4253433508,node,Borne Vauthier,memorial,Colmar,,,,48.0585116,7.1019867
+4295953065,node,Form Aventures,theme_park,Colmar,,,https://www.formaventures.com/,47.9861517,7.0475758
 4311490091,node,Caveau du Vigneron,restaurant,Colmar,5 Grand'Rue,,https://caveau-du-vigneron.fr/,48.0866986,7.2773547
+4322163862,node,La petite Venise,attraction,Colmar,,,,48.0739769,7.3573058
+4344643796,node,,viewpoint,Colmar,,,,48.0864785,7.0562307
+4344643801,node,,viewpoint,Colmar,,,,48.0869085,7.0558364
+4478898156,node,,viewpoint,Colmar,,,,48.0495208,7.0235032
 4505716689,node,Le Mamie Nova,restaurant,Colmar,"44 Rue Vauban, 68000, Colmar",68000,,48.0793861,7.3622475
 4541087789,node,L'Amandine,restaurant,Colmar,,,https://amandine.alsace,48.0779054,7.3581038
 4568791890,node,La Strada,restaurant,Colmar,,,,48.0647478,7.4159
@@ -115,8 +242,10 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4972590921,node,La baie de Tien Sa,restaurant,Colmar,,,,48.0812676,7.3577158
 4973369323,node,coulmoer,restaurant,Colmar,,,,48.0754232,7.3587012
 5000716321,node,Taverne Médiévale,restaurant,Colmar,"5 Rue de Ribeaupierre, 68125",68125,,48.1252991,7.3660843
+5013906164,node,Statue de l'Ours,artwork,Colmar,,,,48.0073479,7.0395788
 5027986621,node,Restaurant Au Vieux Porche,restaurant,Colmar,"16 Rue des Trois-Châteaux, 68420",68420,https://www.auvieuxporche.fr/,48.0423858,7.3038218
 5037097934,node,Lüser Stub,restaurant,Colmar,,,,48.0731397,7.3576268
+5046067221,node,,viewpoint,Colmar,,,,48.0105418,7.0236809
 5054370134,node,Restaurant au Chaudron,restaurant,Colmar,,,,48.075507,7.3588233
 5079043210,node,Caveau Heuhaus - Bar Restaurant Winstub,restaurant,Colmar,,,,48.0428149,7.3052242
 5079043211,node,Hôtel Auberge des Trois Châteaux,hotel,Colmar,26 Grand'Rue,,https://www.auberge-3-chateaux.fr/,48.0430651,7.3058103
@@ -124,20 +253,40 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5079043213,node,Hostellerie du Château,hotel,Colmar,,,https://eguisheim-hostellerie-du-chateau.fr/,48.0424832,7.3062864
 5079043214,node,La Taverne du Chateau,restaurant,Colmar,,,,48.0428096,7.3066767
 5079043216,node,A. Edel,restaurant,Colmar,,,,48.0427988,7.3062193
+5332986494,node,L'Ambulance Alpine,museum,Colmar,,,http://www.mittlach.fr/musee-ambulance-alpine,48.0030487,7.0320415
+5332987586,node,Four à Os,ruins,Colmar,,,,47.9955328,7.0222373
 5528490095,node,Au Soleil Levant,restaurant,Colmar,,,,48.0765453,7.3561838
+5554129301,node,Monument aux Morts,memorial,Colmar,,,,48.0135842,7.0727662
+5598347323,node,,ruins,Colmar,,,,47.9957185,7.0929996
 5615181921,node,Vecchia Romagna,restaurant,Colmar,,,,48.0534466,7.329708
 5627958047,node,Djerba La Douce,restaurant,Colmar,"1A Rue Mangold, 68000, Colmar",68000,,48.0774774,7.3603318
+5801840032,node,Monument Dubarle,memorial,Colmar,,,,48.0056005,7.0578754
 5807929496,node,Winstub Le Cygne,restaurant,Colmar,,,,48.0800573,7.3506904
 5826327245,node,Le Fer Rouge,restaurant,Colmar,,,https://leferrouge.alsace/,48.075983,7.3586503
+5833966686,node,Petite Venise,attraction,Colmar,,,,48.0746338,7.3603262
+5834146361,node,Château des Hattstatt-Schauenbourg,castle,Colmar,,,,48.0360826,7.2015072
+5841646398,node,Stèle Émile Hertzog,memorial,Colmar,,,,47.9923609,7.1311052
+5845638791,node,"Les grands soutiens du monde - Justice, Patriotisme, Travail",artwork,Colmar,,,,48.0765786,7.3575844
 5858707802,node,Pension Le Châlet,restaurant,Colmar,"1 Route du Ried, 68380, Luttenbach-près-Munster",68380,https://le-chalet-luttenbach.com/,48.0316054,7.1189663
+5940074706,node,,viewpoint,Colmar,,,,48.0601887,7.269972
 5992726285,node,L'île aux tacos,restaurant,Colmar,,,,48.0849978,7.3570524
 5992901385,node,Le Stam,restaurant,Colmar,"1 Place des Dominicains, 68000",68000,,48.0782473,7.3573186
 6047201514,node,La Maison,hotel,Colmar,"Col de la Schlucht, 68140, Stosswhir",68140,,48.0635346,7.0234716
+6085794786,node,,viewpoint,Colmar,,,,48.0636598,7.0303462
+6179164245,node,Paul Haeffelin,memorial,Colmar,,,,48.0532847,7.2786663
+6313146186,node,Tranchée,memorial,Colmar,,,,48.0792807,7.136693
 6328529504,node,Collis Martis,restaurant,Colmar,,,,48.0979057,7.3554406
+6389073831,node,Stèle Sidi Brahim,memorial,Colmar,,,,47.9698049,7.0784202
 6414636897,node,Version Originale 68,restaurant,Colmar,,,,48.0745326,7.360531
 6422009733,node,Le Bistrot des Copains,restaurant,Colmar,,,,48.0770276,7.357729
+6431762342,node,La Ferme Aux Rennes,zoo,Colmar,,,https://lafermeauxrennes.com/,48.0780628,7.0586121
+6432792998,node,Deutscher Bunker Wk1,attraction,Colmar,,,,48.0402602,7.1055318
+6462338258,node,,viewpoint,Colmar,,,,48.0937122,7.2738553
+6567971030,node,,viewpoint,Colmar,,,,48.0522885,7.27495
 6582196960,node,La Perle des Vosges,restaurant,Colmar,"22 Route du Gaschney, 68380, Muhlbach-sur-Munster",68380,,48.0277686,7.080043
 6582196961,node,La Perle des Vosges,hotel,Colmar,"22 Route du Gaschney, 68380, Muhlbach-sur-Munster",68380,,48.0277354,7.0802447
+6603690152,node,,viewpoint,Colmar,,,,48.0050716,6.9814994
+6604583004,node,,viewpoint,Colmar,,,,47.9529174,7.0532035
 6635746277,node,Roma,restaurant,Colmar,,,,48.0864033,7.2752511
 6635805547,node,Little Italy,restaurant,Colmar,,,,48.0864413,7.275433
 6641119694,node,La Pizza du Coin,restaurant,Colmar,"10 Place de la Gare, 68000, Colmar",68000,https://lapizzadenico.com/restaurant/restaurant-italien-colmar-gare/,48.073309,7.3475593
@@ -145,8 +294,13 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 6694248645,node,Mamma Giovanna,restaurant,Colmar,,,,48.0772121,7.3566733
 6734234986,node,Chambre du Monde,hotel,Colmar,"10 Place de la Mairie, 68000",68000,,48.0800523,7.3578343
 6735202187,node,Casa Gina,restaurant,Colmar,,,https://www.facebook.com/epiceriecasagina/,48.0727261,7.290452
+6782267385,node,Mémrial de l'Altmattkopf,memorial,Colmar,,,,48.0276744,7.0644865
+6782267386,node,,viewpoint,Colmar,,,,48.0277847,7.0644966
+6795990385,node,MAUSA Vauban,museum,Colmar,"15 Rue d'Angoulême, 68600, Neuf-Brisach",68600,,48.0153272,7.5264556
 6822526351,node,Hôtel Novotel Suites Colmar Centre,hotel,Colmar,,,,48.0715602,7.3604219
+6832823290,node,,artwork,Colmar,,,,48.0151064,7.5289622
 6852401764,node,La Stub,restaurant,Colmar,,,,48.0749397,7.357192
+6880877195,node,Maison des Têtes,attraction,Colmar,,,,48.0785603,7.3555319
 6935569593,node,Restaurant Winstub la Schlitte,restaurant,Colmar,7,,,48.0394743,7.1398871
 6935967550,node,Winstub S’Stewla,restaurant,Colmar,"3 Rue Alfred Hartmann, 68140",68140,,48.0410923,7.1390501
 7005859285,node,L’atelier De Bene,restaurant,Colmar,,,,48.0417716,7.3065589
@@ -155,6 +309,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 7168267788,node,Jadis et Gourmande,restaurant,Colmar,,,,48.0758516,7.3585275
 7209049771,node,Café Restaurant Schongauer,restaurant,Colmar,"Place d'Unterlinden, Colmar",,https://www.musee-unterlinden.com/visites-et-activites/cafe-restaurant-schongauer/,48.080365,7.3556834
 7230513485,node,Flamm'Anna,restaurant,Colmar,"21 Quai de la Poissonnerie, 68000, Colmar",68000,,48.0745068,7.360453
+7238969583,node,,viewpoint,Colmar,,,,48.078322,7.1204293
 7322177517,node,La Table de Catherine,restaurant,Colmar,,,,48.0412012,7.5401076
 7354659983,node,Au rendez-vous de 22h08,restaurant,Colmar,"44 Grand'Rue, 68230, Turckheim",68230,,48.0865803,7.2755755
 7448377350,node,Auberge aux quatre saisons,restaurant,Colmar,40,,https://www.auberge4saisonsmunster.fr/,48.041627,7.1339406
@@ -162,7 +317,21 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 7448377371,node,La table des Malker,restaurant,Colmar,4 Grand'Rue,,,48.0412377,7.1367264
 7448621513,node,Le Ramloc,restaurant,Colmar,,,,48.0768413,7.3615983
 7448729484,node,L'atelier des Saveurs,restaurant,Colmar,,,,48.0746423,7.3572515
+7570121748,node,Trois Châteaux,viewpoint,Colmar,,,,48.0444486,7.2609249
+7600366699,node,,viewpoint,Colmar,,,,48.1028991,7.06899
+7618290358,node,,viewpoint,Colmar,,,,48.0150531,6.994974
+7731758975,node,,memorial,Colmar,,,,48.0478932,7.0555737
 7781532506,node,,restaurant,Colmar,,,,48.0921938,7.4337794
+7802013160,node,Rochers de la Martinswand,viewpoint,Colmar,,,,48.0470658,7.0157062
+7802015592,node,,viewpoint,Colmar,,,,48.03966,7.0236463
+7833649228,node,,viewpoint,Colmar,,,,48.0221372,7.213323
+7833649230,node,,viewpoint,Colmar,,,,48.0221345,7.2137958
+7833649274,node,,viewpoint,Colmar,,,,48.0233827,7.2116601
+7837767713,node,Téléphérique Retournemer - Wormsa 1914/1918,ruins,Colmar,,,,48.0338597,7.0188643
+7846054134,node,Rhein-Marck,monument,Colmar,,,,48.0916268,7.5531971
+7879038950,node,,viewpoint,Colmar,,,,47.9784757,7.1412528
+7973407973,node,Stèle Du Lancaster Du 7 Janvier 1945,memorial,Colmar,,,,48.0662099,7.1358706
+7973408030,node,,viewpoint,Colmar,,,,48.0429634,7.1409474
 7993096321,node,Cuit Lu Cru,restaurant,Colmar,,,,48.0745552,7.3595661
 7993096322,node,Tabula Rasa,restaurant,Colmar,"22 Avenue de la République, 68000, Colmar",68000,,48.077058,7.3526322
 7993116354,node,Hammana Café,restaurant,Colmar,,,,48.0792658,7.3551664
@@ -170,70 +339,1157 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 8034224075,node,Chez Hansi,restaurant,Colmar,,,https://www.brasseriechezhansi.fr/,48.0761507,7.3586143
 8035341457,node,Le Palais des Pandas,restaurant,Colmar,"1 Rue du Pourquoi Pas, 68600, Volgelsheim",68600,https://restaurant-le-soleil-du-rhin.business.site/,48.0108813,7.5408068
 8112240148,node,La Romantica,restaurant,Colmar,,,,48.0763713,7.3592736
+8400288240,node,,viewpoint,Colmar,,,,48.0176203,7.0898154
+8522000113,node,Vestiges allemand 1914-18,ruins,Colmar,,,,48.0345686,7.184918
+8578346118,node,,memorial,Colmar,,,,48.0012197,6.9807411
+8616083622,node,Stèle 2ème DB,memorial,Colmar,,,,48.1445373,7.4879645
+8616083623,node,Borne du Serment de Koufra,memorial,Colmar,,,https://www.voiedela2edb.fr/,48.142718,7.4871571
+8662573461,node,Vierge,artwork,Colmar,,,,48.0360175,7.2086321
 8718721286,node,La Casa Pizza,restaurant,Colmar,,,https://la-casa-pizza.edan.io/,48.0183623,7.5277826
+8826631802,node,Monument aux Morts,memorial,Colmar,,,,48.0028999,7.160157
+9007714663,node,,ruins,Colmar,,,,48.0666785,7.1361802
+9038343110,node,,viewpoint,Colmar,,,,48.0644434,7.0345652
+9046117287,node,Kriegsrelikte WKI,memorial,Colmar,,,,48.0775187,7.1335713
+9054391568,node,,monument,Colmar,,,,48.0859654,7.27003
 9089424840,node,Adriatico,restaurant,Colmar,,,,48.0797932,7.3628955
 9089424842,node,Pizzeria Da Maurizio,restaurant,Colmar,,,,48.079781,7.3619204
 9089424843,node,Au Petit Vauban,restaurant,Colmar,"15 Rue Vauban, 68000, Colmar",68000,,48.0785239,7.361288
 9124207739,node,Lucca e dintorni,restaurant,Colmar,,,,48.0790221,7.3598616
 9162302020,node,Au Chasseur,restaurant,Colmar,"4 Rue du Chasseur, 68000, Colmar",68000,https://www.restaurant-auchasseur.fr/,48.0771043,7.3613266
 9165752878,node,La Baie d'Halong,restaurant,Colmar,,,,48.0784829,7.3606828
+9172652034,node,,ruins,Colmar,,,,47.9728385,6.9985907
+9178441035,node,,viewpoint,Colmar,,,,48.0205402,7.0652399
+9197715429,node,,viewpoint,Colmar,,,,48.1046859,7.0694284
+9197715435,node,,viewpoint,Colmar,,,,48.0904622,7.0648241
 9311762630,node,Crêp’ôz,restaurant,Colmar,,,,48.0802735,7.3563895
 9311767317,node,La Petite Alsace,restaurant,Colmar,,,,48.0802271,7.3563698
+9359650305,node,,memorial,Colmar,,,,47.9966057,7.0728356
+9364213889,node,,viewpoint,Colmar,,,,48.0361776,7.1637322
+9364213891,node,,viewpoint,Colmar,,,,48.0363086,7.1644949
+9405148720,node,,memorial,Colmar,,,,48.0545577,7.4463812
+9450730564,node,,viewpoint,Colmar,,,,48.0358892,7.1792648
 9507999726,node,Hôtel Roess,hotel,Colmar,"16 Route du Linge, 68140, Hohrod",68140,https://www.hotel-roess.fr/,48.0649245,7.1357506
+9587289717,node,Maison Albert Schweitzer,museum,Colmar,8 Rue de Munster,,https://www.schweitzer.org/,48.0461961,7.1726785
+9605972294,node,,memorial,Colmar,,,,48.0157996,7.5320573
+9610853517,node,Mémorial Audie Murphy,memorial,Colmar,,,,48.1227961,7.420888
+9660645505,node,,viewpoint,Colmar,,,,48.0270546,7.2534351
+9669065690,node,,viewpoint,Colmar,,,,48.0370049,7.0146695
+9680585410,node,,viewpoint,Colmar,,,,48.0222051,7.1346893
+9692082998,node,La longue vue d'Alsace,viewpoint,Colmar,,,,48.0374129,7.0167159
+9839376099,node,,artwork,Colmar,,,,48.089621,7.3761268
+9872741749,node,,memorial,Colmar,,,,48.0435168,7.0163838
+9872741750,node,,memorial,Colmar,,,,48.0435165,7.0163746
+9878917949,node,Mémorial du Lancaster PB 765,memorial,Colmar,,,,48.125775,7.4275705
+9883597321,node,,viewpoint,Colmar,,,,47.9974281,7.0877656
+9890122982,node,La Marseillaise,memorial,Colmar,,,,48.0734547,7.0587028
+9892890504,node,Les Chiens de traineaux 1914-1918,memorial,Colmar,,,,48.0817289,7.0502982
 9905770039,node,La Planque,restaurant,Colmar,"6 Rue Rapp, 68140, Munster",68140,https://la-planque.jimdosite.com/,48.0406816,7.1323148
+9915833389,node,,ruins,Colmar,,,,48.0564105,7.1607621
 10072740222,node,Hani,restaurant,Colmar,2 Rue Saint-Louis,,https://hani-neufbrisach.fr/hani-restaurant/,48.0167514,7.5286305
+10090522019,node,,viewpoint,Colmar,,,,48.0302107,7.0236778
+10106802848,node,,viewpoint,Colmar,,,,48.0028235,7.0276092
+10115169954,node,,memorial,Colmar,,,,48.0788133,7.142892
+10117159898,node,Kriegsrelikte WK1,memorial,Colmar,,,,48.0435673,7.0750663
 10124204441,node,L'Esprit Libre,restaurant,Colmar,,,,48.0810866,7.3940546
+10138423020,node,,ruins,Colmar,,,,48.0264328,7.1607969
+10138423024,node,,viewpoint,Colmar,,,,48.0165463,7.1590695
+10138423160,node,,ruins,Colmar,,,,47.9955997,7.1126879
 10197366517,node,Husseren Collections,hotel,Colmar,,,,48.0350168,7.2762147
 10286404309,node,Le palais gourmand,restaurant,Colmar,"14 Grand'Rue, 68000, Colmar",68000,,48.0772285,7.360217
+10298576580,node,,viewpoint,Colmar,,,,48.0297687,7.2325057
+10313647625,node,,ruins,Colmar,,,,47.9886348,7.1381269
 10554658485,node,Ô tour du Grill,restaurant,Colmar,,,,48.1070555,7.3711923
 10746251963,node,Dagsbourg,restaurant,Colmar,,,https://pizzeria-le-dagsbourg.fr/,48.0436286,7.3066226
+10792970518,node,,viewpoint,Colmar,,,,47.9818915,7.0115549
 10798809670,node,Brasserie Winstub,restaurant,Colmar,,,,48.077927,7.402913
+10876022841,node,,viewpoint,Colmar,,,,48.0102146,7.0633
+10957872817,node,,ruins,Colmar,,,,48.0164969,6.9996565
+10957872821,node,,memorial,Colmar,,,,48.0110538,6.9979178
+10957872828,node,,viewpoint,Colmar,,,,48.0102411,6.9910461
+10962174556,node,,viewpoint,Colmar,,,,48.0169013,7.07036
 11020587111,node,Kanpai Sushi,restaurant,Colmar,,,,48.0180353,7.5295602
 11051119361,node,La trot à fromage,restaurant,Colmar,,,,48.0426805,7.3055366
 11074915105,node,Sushia,restaurant,Colmar,"3 Rue du Mouton, 68000, Colmar",68000,https://sushia.fr/,48.0776986,7.3596679
+11089091701,node,Monument aux morts de Muhlbach-sur-Munster,memorial,Colmar,,,,48.0246636,7.080679
+11093042323,node,,viewpoint,Colmar,,,,48.0465749,7.171067
+11102539247,node,,viewpoint,Colmar,,,,47.9526739,7.0590643
+11150633774,node,Maison Voltaire,attraction,Colmar,,,,48.0771431,7.3556535
 11150962770,node,Dussourd,restaurant,Colmar,,,,48.0779657,7.3568655
+11152762854,node,Manneken-Pis de Colmar,artwork,Colmar,,,,48.0758455,7.3581336
+11153310136,node,,monument,Colmar,,,,48.0405036,7.3040451
 11196155652,node,La Place 23,restaurant,Colmar,,,,48.0777231,7.3576783
+11285499187,node,Choco Story,museum,Colmar,12 Place de la Cathédrale,,https://www.choco-story-colmar.fr/,48.0769548,7.3585502
+11285642807,node,,memorial,Colmar,,,,48.076398,7.3608157
 11285642813,node,Bö & Zine,restaurant,Colmar,,,,48.080607,7.3638949
+11285650190,node,,viewpoint,Colmar,,,,48.0987772,7.222757
+11285668240,node,,memorial,Colmar,,,,48.0653549,7.2916348
+11285668255,node,,viewpoint,Colmar,,,,48.0368504,7.275378
+11310460015,node,Monument de la Paix,memorial,Colmar,,,,48.0395653,7.1410742
 11311230207,node,La Taverne de Schongauer,restaurant,Colmar,,,,48.0795197,7.3620868
 11311290981,node,Savannah Café Restaurant,restaurant,Colmar,"30 Rue Vauban, 68000, Colmar",68000,,48.0789276,7.3617247
 11311294802,node,Suki,restaurant,Colmar,"6 Rue Vauban, 68000, Colmar",68000,,48.0782115,7.3612501
+11323264494,node,Place du Capitaine Dreyfus,memorial,Colmar,,,,48.0757229,7.3444652
 11328009541,node,,restaurant,Colmar,,,,48.0852848,7.320585
 11405775292,node,Le Florentin,restaurant,Colmar,,,,48.0084523,7.3842093
 11463459869,node,Le Palmyre,restaurant,Colmar,1 Rue du Canard,,,48.0744386,7.3567768
 11472948572,node,Brasserie du Musée,restaurant,Colmar,,,,48.0789786,7.3564917
+11660168292,node,,viewpoint,Colmar,,,,48.0108739,7.0805998
 11765868103,node,La Villa des Saveurs,restaurant,Colmar,"14 Route de Sainte-Croix en Plaine, 68280",68280,,48.0409842,7.409965
+11765887927,node,,artwork,Colmar,,,,48.0737817,7.3561001
 11795253844,node,A la Schtouwa,restaurant,Colmar,,,,48.1271797,7.3694589
+11804200916,node,,park,Colmar,,,,48.0739182,7.3546872
 11865702163,node,La Fusion,restaurant,Colmar,"14 Place d'Armes Général de Gaulle, 68600, Neuf-Brisach",68600,,48.0171254,7.528782
+11871904525,node,,viewpoint,Colmar,,,,48.0974407,7.224883
 11901220290,node,Maison Rouge,restaurant,Colmar,,,,48.0748545,7.3588336
 11901220294,node,La Taverne,restaurant,Colmar,,,,48.0751825,7.3582993
 11901871858,node,Au Bureau,restaurant,Colmar,,,,48.0821031,7.3556885
 11958852969,node,Muang Thai,restaurant,Colmar,"21 Rue de la 5e Division Blindée, 68000",68000,,48.0825579,7.3553614
 11976533093,node,La Plage,restaurant,Colmar,"68600, Vogelgrun",68600,https://laplage-iledurhin.fr/,48.0235897,7.5781277
+11986328570,node,Maison Zum Kragen,attraction,Colmar,9 Rue des Marchands,,,48.0767704,7.3580294
 12002732644,node,Le Saint Cru,restaurant,Colmar,,,,48.0183326,7.3750038
+12037090429,node,,viewpoint,Colmar,,,,48.0669003,7.2542
+12055229709,node,,memorial,Colmar,,,,48.0617811,7.0258241
+12059585465,node,Abris tôle,ruins,Colmar,,,,48.0373281,7.0902169
 12075233681,node,Turkuaz,restaurant,Colmar,,,,48.0108261,7.5555081
+12075401320,node,Monument aux Morts,memorial,Colmar,,,,48.0062429,7.5584622
 12078050431,node,Le théâtre,restaurant,Colmar,,,,48.0795296,7.3542577
+12103869701,node,Carré d'artistes,gallery,Colmar,"2 Place de l'École, 68000",68000,https://www.carredartistes.com,48.077568,7.3558655
+12120499414,node,Pompe à bras incendie,museum,Colmar,,,,48.0338742,7.1712348
+12125321762,node,,viewpoint,Colmar,,,,48.0806206,7.1127061
 12144197050,node,Brasserie des Tanneurs,restaurant,Colmar,"12 Rue des Tanneurs, 68000, Colmar",68000,https://www.brasserie-des-tanneurs.fr/,48.0752913,7.3593562
+12145659077,node,,memorial,Colmar,,,,48.053901,7.204333
+12145659078,node,,memorial,Colmar,,,,48.0539537,7.2040746
+12168443441,node,,memorial,Colmar,,,,47.9832649,7.0674507
+12194969472,node,Téléphérique de la Wormsa,ruins,Colmar,,,,48.0171022,7.0329182
+12197129523,node,,memorial,Colmar,,,,48.0004028,7.0255358
+12197129538,node,Route Forestière François,memorial,Colmar,,,,48.0108813,7.0522259
+12248998239,node,,viewpoint,Colmar,,,,48.0407661,7.0143979
 12273279717,node,l'Europeen,restaurant,Colmar,,,,48.0230255,7.5780717
+12402108051,node,,artwork,Colmar,,,,48.0638847,7.4763173
+12444878640,node,,viewpoint,Colmar,,,,48.0383114,7.1832839
+12492008033,node,Allée Roget Sibler,memorial,Colmar,,,,48.0585275,7.2687699
+12492049132,node,,memorial,Colmar,,,,48.0527351,7.2672647
 12492863811,node,Airlunch,restaurant,Colmar,10 Rue Émile Schwoerer,,https://m.facebook.com/100085023201475/,48.1019544,7.367249
+12539776453,node,Monument aux Morts,memorial,Colmar,,,,48.1258162,7.3792519
+12550224353,node,Mémorial des Malgré-Nous,memorial,Colmar,,,,48.1257531,7.3792385
 12610472757,node,Sushi Chez Na ＆ Hana Kiri,restaurant,Colmar,39 Cours Sainte-Anne,,https://hanakiri.fr/fr/#home,48.0806695,7.3574116
 12625800585,node,Pizza Dos,restaurant,Colmar,"8 Rue du Mouton, 68000, Colmar",68000,,48.0775991,7.3602335
 12855645501,node,Marché Frais,restaurant,Colmar,106 Route de Bâle,,,48.0655369,7.3617174
+12855865448,node,,memorial,Colmar,,,,48.0780879,7.3630446
+12855942890,node,,memorial,Colmar,,,,48.0796689,7.353268
 12899644142,node,Pizza Malice,restaurant,Colmar,,,https://www.pizzamalice.fr/,48.0398019,7.1294354
 12901734533,node,Restaurant Aras,restaurant,Colmar,,,,48.0816443,7.3911478
+12946694160,node,Stèle du soldat Dunz,memorial,Colmar,,,,48.0055604,7.0858876
 13015780602,node,Winstub Factory,restaurant,Colmar,42 Grand'Rue,,https://www.winstub-factory.com/,48.076315,7.3592194
 13016852927,node,Les Bateliers,restaurant,Colmar,,,,48.0738057,7.3572289
 13019156802,node,Nagoya,restaurant,Colmar,,,,48.0791656,7.3558189
+13030754783,node,,memorial,Colmar,,,,48.0121058,7.1375528
+13074495184,node,Arthur Borach,memorial,Colmar,,,,48.0189943,7.5262335
+13074495185,node,Salomon Samuel,memorial,Colmar,,,,48.0188573,7.5303365
+13074495186,node,Suzanne Caroline Weill née Katz,memorial,Colmar,,,,48.0193323,7.5301354
+13074495187,node,José Joseph Weill,memorial,Colmar,,,,48.0193331,7.5301363
+13074495188,node,Pauline Lévy,memorial,Colmar,,,,48.0180819,7.5296668
+13074495189,node,Maurice Weill,memorial,Colmar,,,,48.0193315,7.5301344
+13074495190,node,Henriette Weill née Lévy,memorial,Colmar,,,,48.01808,7.5296599
+13074495191,node,Paul Lévy,memorial,Colmar,,,,48.0180903,7.5296729
+13074495192,node,Émile Samuel,memorial,Colmar,,,,48.0167162,7.5293038
+13074495193,node,Palmyre Samuel née Bernheim,memorial,Colmar,,,,48.0167174,7.5293052
+13074495194,node,Hélène Samuel,memorial,Colmar,,,,48.016715,7.5293024
+13074495195,node,Philippe Gidemann,memorial,Colmar,,,,48.0191742,7.5265546
+13074495196,node,Dora Holzmann née Mayer,memorial,Colmar,,,,48.019748,7.5285671
+13074495197,node,Hélène Sarah Holzmann,memorial,Colmar,,,,48.0197473,7.5285661
+13074495198,node,Miriam Holzmann,memorial,Colmar,,,,48.0197465,7.5285652
+13074495199,node,Hermann Holzmann,memorial,Colmar,,,,48.0197488,7.528568
+13074495200,node,Dina Holzmann,memorial,Colmar,,,,48.0197457,7.5285643
 13074873850,node,kas'fratz,restaurant,Colmar,"7 Rue du Château, 68420, Eguisheim",68420,,48.0423675,7.3063401
+13075094391,node,Léon Bloch,memorial,Colmar,,,,48.1479104,7.4866794
+13075094392,node,Pauline Samuel,memorial,Colmar,,,,48.1485349,7.4867776
+13075094393,node,Nathalie Weil,memorial,Colmar,,,,48.1468438,7.4863417
+13075094394,node,Émile Heimendinger,memorial,Colmar,,,,48.1460724,7.4857349
+13075948224,node,Mélanie Rottenberg née Alexandre,memorial,Colmar,,,,48.0402335,7.5453967
+13075948225,node,Isaac Rottenberg,memorial,Colmar,,,,48.0402344,7.5453959
+13075948226,node,Gabrielle Bicard née Weill,memorial,Colmar,,,,48.0393411,7.545405
+13075948227,node,Théophile Bicard,memorial,Colmar,,,,48.039341,7.5454065
+13075948228,node,Fernande Seligmann née Bicard,memorial,Colmar,,,,48.038612,7.5456597
+13075948229,node,Renée Seligmann,memorial,Colmar,,,,48.0386121,7.5456613
+13075948230,node,Camille Bicard,memorial,Colmar,,,,48.0386117,7.545657
+13075948231,node,André Abraham Samuel,memorial,Colmar,,,,48.0386256,7.5460143
+13075948232,node,Henriette Samuel née Ullmann,memorial,Colmar,,,,48.0386267,7.5460149
+13075948233,node,Simon Samuel,memorial,Colmar,,,,48.0386266,7.5460133
+13078280288,node,,memorial,Colmar,,,,48.0162276,7.0102262
 13088868896,node,Little Italy,restaurant,Colmar,"12 Rue des Prêtres, 68000, Colmar",68000,https://www.litalypizza.fr/,48.0781239,7.3589676
+13092714949,node,,memorial,Colmar,,,,48.0368711,7.0141685
+13107346914,node,Encadrement Drey,gallery,Colmar,,,,48.0784882,7.353224
+13119348506,node,Théodore Lévy,memorial,Colmar,,,,48.081324,7.3913466
+13119348507,node,Lucie Carpe,memorial,Colmar,,,,48.0813271,7.3913473
+13119348508,node,Marguerite Lévy née Bickart,memorial,Colmar,,,,48.0813253,7.3913469
+13119348509,node,Émilie Dreyfus née Worms,memorial,Colmar,,,,48.0810612,7.3930166
+13119348510,node,Claude Dreyfus,memorial,Colmar,,,,48.0810616,7.3930147
+13119348511,node,Adolphe Dreyfus,memorial,Colmar,,,,48.0810608,7.3930185
+13119348512,node,Jeanne Brunschwig née Wertenschlag,memorial,Colmar,,,,48.0791825,7.3913819
+13119348513,node,Camille Judas,memorial,Colmar,,,,48.0791824,7.3913868
+13119348514,node,Yvonne Judas née Brunschwig,memorial,Colmar,,,,48.0791816,7.3913844
+13119348515,node,Pierre Martin Lippmann,memorial,Colmar,,,,48.0791815,7.3913892
 13247458862,node,La P'tite Etoile,restaurant,Colmar,,,,48.0169147,7.5293821
 13267263890,node,La Pergola,restaurant,Colmar,,,,48.076838,7.3574838
 13268374049,node,La Kilbe,restaurant,Colmar,"37 Route de Neuf-Brisach, 68000, Colmar",68000,https://www.la-kilbe.com,48.0801036,7.3658172
 13282846214,node,Hostellerie du Pape,restaurant,Colmar,,,,48.0422276,7.3095426
+13315859289,node,,memorial,Colmar,,,,48.0372197,7.2008117
+13317875131,node,Henriette Picard née Schwab,memorial,Colmar,,,,48.0723376,7.2898679
+13326334062,node,,viewpoint,Colmar,,,,47.9935198,7.0146726
+13357209420,node,,artwork,Colmar,,,,48.0728234,7.3572203
 13367927002,node,Le Silex,restaurant,Colmar,,,,48.0823037,7.3520323
 13367943874,node,Winstub Unterlinden,restaurant,Colmar,,,,48.0799772,7.3561341
 13390644187,node,Le Maharaja,restaurant,Colmar,"82 Grand'Rue, 68000, Colmar",68000,,48.0744978,7.3568245
+13393367665,node,,viewpoint,Colmar,,,,47.9820519,7.0401025
 13444694083,node,Le coin du meunier,restaurant,Colmar,1 place de l'école,,http://www.lecoindumeunier.com/,48.0193914,7.3284543
 13444736335,node,Lyd'île,restaurant,Colmar,1 rue des papeteries,,,48.0841743,7.3505608
+13760911902,node,,ruins,Colmar,,,,48.033671,7.0159491
+13764556464,node,,memorial,Colmar,,,,48.0744198,7.3571239
 13825102502,node,Aux Armes de Colmar,restaurant,Colmar,"2b Rue Rapp, 68000",68000,,48.0792369,7.3590872
 13891474421,node,Au Koifhus,restaurant,Colmar,,,,48.0759841,7.3596705
 13894162534,node,La petite colmarienne,restaurant,Colmar,"25 Rue Vauban, 68000, Colmar",68000,,48.0788472,7.3614873
+13895150727,node,,beach,Colmar,,,,48.0239821,7.5782165
+13936461230,node,Marcel Schwob,memorial,Colmar,,,"https://www.herrlisheim-pres-colmar.fr/images/publications/2023/Documents_divers/STOLPERSTEINE_CIRCUIT.pdf#page=4&zoom=auto,-81,842",48.0177243,7.3281363
+13936461231,node,Julie Geismar,memorial,Colmar,,,"https://www.herrlisheim-pres-colmar.fr/images/publications/2023/Documents_divers/STOLPERSTEINE_CIRCUIT.pdf#page=5&zoom=auto,-81,842",48.0182684,7.3292769
+13936461232,node,Jean Weill,memorial,Colmar,,,"https://www.herrlisheim-pres-colmar.fr/images/publications/2023/Documents_divers/STOLPERSTEINE_CIRCUIT.pdf#page=6&zoom=auto,-81,842",48.0174085,7.329048
+13936461233,node,Henriette Neheimer née Bicard,memorial,Colmar,,,"https://www.herrlisheim-pres-colmar.fr/images/publications/2023/Documents_divers/STOLPERSTEINE_CIRCUIT.pdf#page=8&zoom=auto,-81,842",48.0173908,7.3287435
+13936461234,node,Georges Gintzburger,memorial,Colmar,,,"https://www.herrlisheim-pres-colmar.fr/images/publications/2023/Documents_divers/STOLPERSTEINE_CIRCUIT.pdf#page=13&zoom=auto,-81,842",48.0174787,7.3276301
+13936621285,node,Salomon Schnerb,memorial,Colmar,,,"https://www.herrlisheim-pres-colmar.fr/images/publications/2023/Documents_divers/STOLPERSTEINE_CIRCUIT.pdf#page=20&zoom=auto,-81,508",48.0167208,7.3283706
+13936621286,node,Mélanie Schwob née Blum,memorial,Colmar,,,"https://www.herrlisheim-pres-colmar.fr/images/publications/2023/Documents_divers/STOLPERSTEINE_CIRCUIT.pdf#page=21&zoom=auto,-81,842",48.0167233,7.3283691
+13936621287,node,Roger Bickert dit Bicard,memorial,Colmar,,,"https://www.herrlisheim-pres-colmar.fr/images/publications/2023/Documents_divers/STOLPERSTEINE_CIRCUIT.pdf#page=22&zoom=auto,-81,842",48.0167258,7.3283677
+13936621288,node,Marthe Ebstein née Picard,memorial,Colmar,,,"https://www.herrlisheim-pres-colmar.fr/images/publications/2023/Documents_divers/STOLPERSTEINE_CIRCUIT.pdf#page=19&zoom=auto,-81,842",48.0167192,7.3283732
+13936621289,node,Marguerite Picard,memorial,Colmar,,,"https://www.herrlisheim-pres-colmar.fr/images/publications/2023/Documents_divers/STOLPERSTEINE_CIRCUIT.pdf#page=19&zoom=auto,-81,842",48.0167182,7.3283738
+13936621290,node,Séraphin Bickert dit Cerf Bicard,memorial,Colmar,,,"https://www.herrlisheim-pres-colmar.fr/images/publications/2023/Documents_divers/STOLPERSTEINE_CIRCUIT.pdf#page=19&zoom=auto,-81,842",48.0167183,7.3283721
+13936621291,node,Roger Picard,memorial,Colmar,,,"https://www.herrlisheim-pres-colmar.fr/images/publications/2023/Documents_divers/STOLPERSTEINE_CIRCUIT.pdf#page=16&zoom=auto,-81,681",48.016716,7.3283766
+13936621292,node,Jacqueline Wallach,memorial,Colmar,,,"https://www.herrlisheim-pres-colmar.fr/images/publications/2023/Documents_divers/STOLPERSTEINE_CIRCUIT.pdf#page=16&zoom=auto,-81,681",48.0167153,7.3283755
+13936621293,node,Francis Picard,memorial,Colmar,,,"https://www.herrlisheim-pres-colmar.fr/images/publications/2023/Documents_divers/STOLPERSTEINE_CIRCUIT.pdf#page=16&zoom=auto,-81,681",48.0167161,7.328375
+13936621294,node,Marc Schwob,memorial,Colmar,,,"https://www.herrlisheim-pres-colmar.fr/images/publications/2023/Documents_divers/STOLPERSTEINE_CIRCUIT.pdf#page=16&zoom=auto,-81,681",48.0167158,7.3283736
+13936621295,node,Céline Wallach née Schwob,memorial,Colmar,,,"https://www.herrlisheim-pres-colmar.fr/images/publications/2023/Documents_divers/STOLPERSTEINE_CIRCUIT.pdf#page=16&zoom=auto,-81,681",48.0167149,7.3283741
+13936621296,node,Florence Courlander,memorial,Colmar,,,"https://www.herrlisheim-pres-colmar.fr/images/publications/2023/Documents_divers/STOLPERSTEINE_CIRCUIT.pdf#page=15&zoom=auto,-81,689",48.0167128,7.3283769
+13936621297,node,Adèle Courlander née Schnerb,memorial,Colmar,,,"https://www.herrlisheim-pres-colmar.fr/images/publications/2023/Documents_divers/STOLPERSTEINE_CIRCUIT.pdf#page=15&zoom=auto,-81,689",48.0167124,7.3283756
+13936621298,node,Céline Ettinger née Schnerb,memorial,Colmar,,,"https://www.herrlisheim-pres-colmar.fr/images/publications/2023/Documents_divers/STOLPERSTEINE_CIRCUIT.pdf#page=14&zoom=auto,-81,842",48.0167099,7.328377
+13936621299,node,Edmond Ettinger,memorial,Colmar,,,"https://www.herrlisheim-pres-colmar.fr/images/publications/2023/Documents_divers/STOLPERSTEINE_CIRCUIT.pdf#page=14&zoom=auto,-81,842",48.016709,7.3283776
+13936621300,node,Rose Geismar née Blum,memorial,Colmar,,,"https://www.herrlisheim-pres-colmar.fr/images/publications/2023/Documents_divers/STOLPERSTEINE_CIRCUIT.pdf#page=11&zoom=auto,-81,842",48.016161,7.3284632
+13936645401,node,Bernard Geismar,memorial,Colmar,,,"https://www.herrlisheim-pres-colmar.fr/images/publications/2023/Documents_divers/STOLPERSTEINE_CIRCUIT.pdf#page=11&zoom=auto,-81,842",48.0161607,7.3284647
+13936645402,node,Blanche Weill,memorial,Colmar,,,"https://www.herrlisheim-pres-colmar.fr/images/publications/2023/Documents_divers/STOLPERSTEINE_CIRCUIT.pdf#page=9&zoom=auto,-81,842",48.0163793,7.3298247
+13936645403,node,Adèle Weill,memorial,Colmar,,,"https://www.herrlisheim-pres-colmar.fr/images/publications/2023/Documents_divers/STOLPERSTEINE_CIRCUIT.pdf#page=9&zoom=auto,-81,842",48.0163785,7.3298255
+13946034261,node,Ancien Pont des Américains,attraction,Colmar,,,,48.0716079,7.3940173
+13987652539,node,Triceratops Sculpture,artwork,Colmar,,,,48.0152152,7.5259411
+23222129,way,Place André Malraux,park,Colmar,,,,48.072898,7.3424436
+23306383,way,Place des Vosges,park,Colmar,,,,48.072801,7.335193
+23860941,way,,park,Colmar,,,,48.0843072,7.3241071
+24437101,way,,park,Colmar,,,,48.0752619,7.3637625
+24747316,way,Champ de Mars,park,Colmar,,,,48.0760332,7.3529574
+24766194,way,Square Pfeffel,park,Colmar,,,,48.0755295,7.3577567
+26645560,way,,park,Colmar,,,,48.0772393,7.3901756
+45267678,way,Jardin Méquillet,park,Colmar,,,,48.073143,7.3521519
+46353648,way,Le Cloître,garden,Colmar,,,,48.0796611,7.3553936
+47573845,way,Ancien corps de garde,attraction,Colmar,,,,48.076869,7.357802
+47576071,way,Maison Pfister,attraction,Colmar,,,,48.0767378,7.3581489
+47576073,way,Musée Bartholdi,museum,Colmar,,,,48.076611,7.3575592
+47576074,way,Maison des Arcades,attraction,Colmar,,,,48.0768477,7.3600174
+47576350,way,Parc de Lattre de Tassigny,park,Colmar,,,,48.0772503,7.3514215
+47577843,way,Musée d'Histoire Naturelle et d'Éthnographie,museum,Colmar,,,https://www.museumcolmar.org/,48.0736402,7.3587792
+47584584,way,Musée du Jouet,museum,Colmar,,,,48.0791033,7.3622061
+47585370,way,Square Gustave Adolphe Hirn,park,Colmar,,,,48.0734944,7.3548645
+47897336,way,Parc de la Cour d'appel,park,Colmar,,,,48.0712715,7.3516515
+47909272,way,Restaurant Universitaire,restaurant,Colmar,,,,48.0772597,7.3717504
+47928362,way,Logis Rapp,hotel,Colmar,,,,48.0763307,7.3558815
+48348759,way,Hôtel Mercure Colmar Centre,hotel,Colmar,,,,48.0809245,7.3571935
+48359437,way,Anadolu,restaurant,Colmar,"31 Rue Vauban, 68000, Colmar",68000,,48.0790686,7.3615379
+48392542,way,La Cour des Anges,restaurant,Colmar,,,https://www.la-cour-des-anges.com,48.0759456,7.3601502
+48393380,way,Saint-Martin,hotel,Colmar,,,,48.0764484,7.3592534
+48399454,way,Maison Adolphe,attraction,Colmar,,,,48.076852,7.3580978
+48400146,way,L'Atelier du Peintre,restaurant,Colmar,,,,48.0763227,7.3580011
+48437490,way,Balladins Primo,hotel,Colmar,,,,48.0814612,7.3573211
+48438550,way,Chez Kuna - Au Canon d'Or,restaurant,Colmar,,,,48.081354,7.353761
+48460906,way,Parc de la Montagne Verte,park,Colmar,,,,48.0754162,7.3605913
+48502995,way,Les Dominicains,restaurant,Colmar,"1 Rue de Reiset, 68000, Colmar",68000,https://brasserie-dominicains.fr/,48.0786839,7.3572698
+48507898,way,Restaurant du Marché,restaurant,Colmar,"20 Place de la Cathédrale, 68000, Colmar",68000,,48.0774877,7.357086
+48507906,way,Le Ginko,restaurant,Colmar,,,,48.0768637,7.3572242
+48509843,way,Le Bartholdi,restaurant,Colmar,,,,48.0781214,7.3559846
+48535329,way,Sézanne,restaurant,Colmar,,,,48.0767837,7.3595721
+48546266,way,Musée Hansi,museum,Colmar,,,,48.0787615,7.3548044
+48546430,way,La Loge,restaurant,Colmar,,,,48.0785631,7.3544183
+48549563,way,Le Meistermann,restaurant,Colmar,,,,48.0779733,7.3534667
+48550798,way,,park,Colmar,,,,48.0786651,7.3522116
+48582340,way,Monument Marin la Meslée,memorial,Colmar,,,,47.9552427,7.4810396
+48583764,way,"The Originals City, Hôtel Colmar Gare",hotel,Colmar,,,,48.0771655,7.3495082
+48584516,way,,park,Colmar,,,,48.0790237,7.3628299
+48585649,way,Ibis,hotel,Colmar,,,,48.0791099,7.3635067
+48591603,way,,park,Colmar,,,,48.0819069,7.3652872
+48591620,way,Monument aux Morts,memorial,Colmar,,,,48.081854,7.3656047
+48637338,way,Ibis Budget Colmar Centre,hotel,Colmar,,,,48.0796666,7.3522203
+48646687,way,Paul & Pia,hotel,Colmar,,,,48.0764185,7.3499697
+48648585,way,MGallery L'Esquisse hôtel et spa,hotel,Colmar,,,https://www.lesquisse-colmar.com,48.0755752,7.3535736
+48674206,way,Le Maréchal,hotel,Colmar,,,,48.0736092,7.3568325
+48674207,way,,restaurant,Colmar,,,,48.0737266,7.3568834
+48688827,way,Bristol,hotel,Colmar,"7 Place de la Gare, 68000, Colmar",68000,https://www.grand-hotel-bristol.com/,48.0725541,7.3477329
+48755436,way,Wistub de la Petite Venise,restaurant,Colmar,,,,48.0739726,7.3580403
+48755440,way,Winstub La Krutenau,restaurant,Colmar,,,http://resto.krutenau.free.fr/,48.0740879,7.3577993
+48755443,way,Wistub Brenner,restaurant,Colmar,,,https://wistub-brenner.fr,48.0739195,7.3577849
+48755450,way,JY'S,restaurant,Colmar,,,,48.0741043,7.3587061
+48755456,way,La Fleur de Sel,restaurant,Colmar,,,,48.0739939,7.3593988
+48755466,way,L'Epicurien,restaurant,Colmar,,,,48.0741388,7.3603367
+48755469,way,Le Colombier,hotel,Colmar,,,,48.0738758,7.358275
+48755506,way,,restaurant,Colmar,,,,48.0742543,7.360097
+48792499,way,Hôtel Turenne,hotel,Colmar,,,,48.071973,7.3604921
+48793899,way,Parc Saint-François-Xavier,park,Colmar,,,,48.0724175,7.3626005
+48965502,way,Greet Hotel Colmar,hotel,Colmar,83 Route de Bâle,,,48.0639878,7.3628314
+49048709,way,Logis Hôtel Beauséjour Colmar,hotel,Colmar,"25 Rue du Ladhof, 68000, Colmar",68000,https://www.beausejour.fr/,48.0840677,7.3659818
+49336866,way,Colmar Hôtel,hotel,Colmar,,,,48.0708444,7.3463483
+49338099,way,Place Desportes,park,Colmar,,,,48.068816,7.3486131
+49405000,way,,park,Colmar,,,,48.0687667,7.3496849
+49689040,way,Château Kiener,castle,Colmar,,,,48.066601,7.3499384
+49896464,way,Square du Général Henri de Vernejoul,park,Colmar,,,,48.0830849,7.3561435
+49974186,way,Kyriad Colmar Cité Administrative,hotel,Colmar,,,,48.0859444,7.3575416
+50000624,way,Place Jean-Sébastien Bach,park,Colmar,,,,48.0896833,7.3661092
+50004224,way,Arc en Ciel,hotel,Colmar,,,,48.0874166,7.3609494
+50228910,way,Place Billing,park,Colmar,,,,48.082756,7.3684209
+50300075,way,,park,Colmar,,,,48.0882417,7.3718669
+50672507,way,Le Clos Alexi,restaurant,Colmar,,,,48.0458159,7.3464973
+50999895,way,Auberge du Dachsbuhl,restaurant,Colmar,,,,48.0597784,7.3804273
+50999897,way,Auberge du Neuland,restaurant,Colmar,"2 Chemin du Neuland, Colmar",,https://www.auberge-du-neuland.fr/,48.059055,7.3809028
+51097929,way,"Restaurant ""Waldeslust""",restaurant,Colmar,,,,48.1129993,7.337156
+51194021,way,Musée des Usines Municipales,museum,Colmar,,,,48.0558756,7.3701091
+51206720,way,Formule 1,hotel,Colmar,,,,48.1077309,7.3629054
+51206730,way,Ibis Styles,hotel,Colmar,,,,48.1104888,7.362437
+51206743,way,,hotel,Colmar,,,,48.1110619,7.3623797
+51256062,way,Restaurant du Ladhof,restaurant,Colmar,,,,48.1069717,7.3860063
+51256065,way,Hôtel du Ladhof,hotel,Colmar,,,,48.106623,7.3856539
+51256991,way,Wok 168,restaurant,Colmar,,,,48.101477,7.3615255
+51351163,way,square Saint-Joseph,park,Colmar,,,,48.0818066,7.3453727
+51552565,way,Place du Chanoine Oberlechner,park,Colmar,,,,48.0698186,7.3359359
+51689919,way,,park,Colmar,,,,48.0672177,7.3308846
+51732540,way,,park,Colmar,,,,48.0751181,7.3235234
+51811490,way,"Square des ""Malgré Nous""",park,Colmar,,,,48.0767107,7.3415229
+51984300,way,,park,Colmar,,,,48.0835848,7.3379679
+52061004,way,,park,Colmar,,,,48.0840724,7.3261749
+52173356,way,Buffalo Grill,restaurant,Colmar,,,,48.0841389,7.313206
+52173357,way,B&B Hôtel Colmar,hotel,Colmar,,,,48.0838788,7.3138979
+52565308,way,Palais de l'Est,restaurant,Colmar,,,,48.0844045,7.3138594
+53157683,way,Léon de Bruxelles,restaurant,Colmar,,,,48.102177,7.3617476
+53555977,way,Observatoire de la Nature du Neuland,attraction,Colmar,,,,48.0552964,7.3934336
+53628791,way,,restaurant,Colmar,,,,48.0592697,7.2315147
+54059555,way,,park,Colmar,,,,48.0392433,7.1332996
+54622137,way,Château Saint-Léon Pfalz,castle,Colmar,,,,48.0425952,7.3060016
+54842916,way,Hôtel Colmar Vignes,hotel,Colmar,,,https://hotel-colmar-vignes.fr/,48.0432129,7.3039535
+54842918,way,A la Ville de Nancy,restaurant,Colmar,"2 Place Charles de Gaulle, 68420",68420,https://www.villedenancy-eguisheim.com/fr/,48.0434913,7.3044202
+55821605,way,Villa Rosa,hotel,Colmar,,,https://www.villarosa.fr/,48.0990293,7.2341901
+55821608,way,Mon Repos,restaurant,Colmar,,,,48.098629,7.234915
+58113208,way,Husseren Collections,hotel,Colmar,68420,68420,https://hotel-spa-collections.com/,48.035111,7.2761088
+60451166,way,Ferme Auberge Obschel,restaurant,Colmar,,,https://www.auberge-obschel.fr/,48.092075,7.2063359
+65692369,way,Monument aux Morts,memorial,Colmar,,,,48.0597947,7.1354295
+66174849,way,Ferme-Auberge Buchwald,restaurant,Colmar,"68230, Wasserbourg",68230,https://www.fermeaubergealsace.fr/fr/nos-fermes-auberges/fermes-auberges-haute-alsace/F231001095_ferme-auberge-buchwald-wasserbourg/,47.9909362,7.1322378
+66174891,way,,ruins,Colmar,,,,47.9814739,7.1330032
+66175373,way,,ruins,Colmar,,,,47.9815548,7.1331067
+66176320,way,,ruins,Colmar,,,,47.9815403,7.1331668
+66187354,way,Ferme Auberge Kastelberg,restaurant,Colmar,,,,48.0148442,7.0117027
+66200407,way,Musée de la Schlitte et des Métiers du Bois,museum,Colmar,,,https://lemuseedelaschlitte.fr/,48.0248797,7.0880422
+66592809,way,Ferme Auberge Christlesgut,restaurant,Colmar,,,https://www.christlesgut.com/,48.0044305,7.1222186
+66969233,way,Ferme-Auberge Uff Rain,restaurant,Colmar,"Route du Schnepfenried, Metzeral",,https://www.fermeaubergealsace.fr/fr/nos-fermes-auberges/fermes-auberges-haute-alsace/F231001868_ferme-auberge-uff-rain-metzeral/,47.9684558,7.0317952
+67235409,way,Hôtel de Gerardmer,hotel,Colmar,"38 Route de la Schlucht, 68140, Soultzeren",68140,,48.0639731,7.1026084
+67235541,way,Ferme Auberge du Glasborn-Linge,restaurant,Colmar,Soultzeren,,https://www.ferme-auberge-glasborn.fr/,48.0781307,7.1277999
+67235764,way,,ruins,Colmar,,,,48.0961392,7.093074
+67235985,way,Ferme Auberge Seestaedle,restaurant,Colmar,Soultzeren,,https://www.aubergedutanet.com/,48.0827963,7.0581134
+67236202,way,Ferme Auberge Soultzersmatt,restaurant,Colmar,Soultzeren,,https://www.fermeaubergealsace.fr/fr/nos-fermes-auberges/fermes-auberges-haute-alsace/F231001321_ferme-auberge-soultzersmatt-soultzeren/,48.0678303,7.0882529
+67237066,way,Ferme Auberge du Musmiss,restaurant,Colmar,,,"https://www.fermeaubergealsace.fr/index.php/les-fermes-auberges-haut-rhin-alsace/produit?view=produit&layout=produit-xsl&produitId=231001111&sessionalea=0,840893",48.0881047,7.1101494
+67238098,way,Monument aux Morts,memorial,Colmar,,,,48.0627777,7.1037522
+67306934,way,parc Acker,park,Colmar,,,,48.0870001,7.3130449
+68144826,way,Grand Hotel,hotel,Colmar,,,,48.0393612,7.1345165
+68146261,way,Domaine de Haslach,hotel,Colmar,,,https://www.domaine-haslach.com/,48.0558561,7.1432477
+68146441,way,,ruins,Colmar,,,,48.0390352,7.1606217
+68147012,way,La Verte Vallée,hotel,Colmar,"10 Rue Alfred Hartmann, 68140, Munster",68140,,48.0405806,7.1425332
+68147151,way,Hôtel des Vosges,hotel,Colmar,"58 Grand'Rue, 68140, Munster",68140,https://www.hotelbardesvosges.fr/,48.0418725,7.132837
+68147419,way,Hôtel-Restaurant de la Cigogne,hotel,Colmar,,,https://cigogne-munster.fr/,48.0410605,7.137455
+68147749,way,Domaine de Haslach,hotel,Colmar,,,https://www.domaine-haslach.com/,48.0561019,7.1431724
+68148393,way,L'Imprévu,restaurant,Colmar,"1 Rue de Luttenbach, 68140, Munster",68140,,48.0413767,7.1322695
+68148925,way,Hôtel Deybach,hotel,Colmar,"4 Chemin du Badischhof, 68140, Munster",68140,https://www.hotel-deybach.com/,48.0402519,7.1501098
+71262194,way,Auberge de Schantzwasen,restaurant,Colmar,,,https://www.auberge-schantzwasen.com/,48.0781726,7.0586686
+71262529,way,Auberge Schupferen,restaurant,Colmar,,,https://www.jds.fr/stosswihr/ferme-auberge-alsace/auberge-schupferen-stosswihr-haut-rhin-2134_L,48.0757909,7.052683
+71262743,way,Marcairie du Frankenthal,restaurant,Colmar,"68140, Stosswhir",68140,,48.043295,7.0213131
+71263435,way,Flam's Gourmandes,restaurant,Colmar,"61 Route de la Schlucht, 68140, Stosswihr",68140,https://www.flamgourmandes.fr/,48.0505387,7.1102036
+71263643,way,Les Fougères,hotel,Colmar,,,,48.0608631,7.0908412
+71264194,way,A L'ancienne Poste,restaurant,Colmar,,,,48.0513917,7.1082954
+71264346,way,Le Village,restaurant,Colmar,"61 Grand'Rue, 68140, Stosswihr",68140,,48.0539197,7.104856
+71264733,way,Au Tapis Rouge,restaurant,Colmar,,,,48.052677,7.0961758
+71745093,way,Première Classe,hotel,Colmar,,,,48.1293712,7.3608561
+77021450,way,Au Bon Coin,restaurant,Colmar,,,,48.0736741,7.2910065
+77021461,way,,park,Colmar,,,,48.0730182,7.2903142
+77345409,way,,park,Colmar,,,,48.0727967,7.2899202
+77345415,way,Cristal,hotel,Colmar,,,,48.0737513,7.285368
+77981165,way,Les Portes de La Vallée,hotel,Colmar,"29 Route Romaine, 68230, Turckheim",68230,https://www.hotelturckheim.com/,48.0821892,7.2815798
+78032698,way,Hôtel des Vosges,hotel,Colmar,,,,48.086113,7.2778351
+78040611,way,Le Stammtisch,restaurant,Colmar,,,,48.08661,7.2782227
+78040624,way,Square Charles Grad,park,Colmar,,,,48.0864253,7.2800932
+78040635,way,L'Auberge du Veilleur,restaurant,Colmar,,,,48.0864299,7.2779771
+78042270,way,L'Auberge du Brand,hotel,Colmar,"8 Grand'Rue, 68230",68230,https://aubergedubrand.fr/,48.0868557,7.2773218
+78043070,way,Musée Mémorial des Combats de la Poche de Colmar,museum,Colmar,,,https://musee.turckheim-alsace.com,48.0883721,7.2766187
+78043071,way,,park,Colmar,,,,48.0870652,7.278198
+78043964,way,Berceau du Vigneron,hotel,Colmar,,,https://berceauduvigneron.fr/,48.0863633,7.2778369
+78146324,way,Caveau du Chemin de Ronde,restaurant,Colmar,,,,48.0863276,7.2716091
+78193918,way,,park,Colmar,,,,48.0875312,7.2784191
+78323963,way,,park,Colmar,,,,48.0903652,7.291227
+78393904,way,,park,Colmar,,,,48.0859665,7.2700097
+78393936,way,Monument Turenne,monument,Colmar,,,,48.0859639,7.2700282
+78401849,way,Place de la Wann,park,Colmar,,,,48.0848573,7.2599649
+80323372,way,,park,Colmar,,,,48.015179,7.5398881
+81103190,way,Le Hagueneck - Le Pied de Cochon,restaurant,Colmar,,,,48.0578742,7.2983661
+81104119,way,Au Soleil,hotel,Colmar,,,https://www.hotel-restaurant-au-soleil.fr/,48.059232,7.2987087
+81273922,way,,ruins,Colmar,,,,48.0523284,7.2750739
+81352181,way,,museum,Colmar,,,,48.0598544,7.2694925
+81382789,way,Ville de Colmar,restaurant,Colmar,,,,48.0594678,7.3008662
+81382799,way,La Palette,hotel,Colmar,,,https://www.lapalette.fr/,48.0601429,7.3031953
+81660821,way,Hostellerie du Pape,hotel,Colmar,,,,48.0424297,7.3095615
+81928459,way,Caveau d'Éguisheim,restaurant,Colmar,,,,48.0429285,7.3064885
+81929465,way,Auberge du Rempart,hotel,Colmar,"3 Rue du Rempart Sud, 68420, Eguisheim",68420,https://www.auberge-du-rempart.com,48.0422655,7.3075153
+82028009,way,Auberge des 3 Châteaux,hotel,Colmar,,,,48.0431591,7.3058288
+82205205,way,,park,Colmar,,,,48.0484036,7.310469
+82215719,way,Belle-Vue,restaurant,Colmar,,,,48.040076,7.3213609
+82215805,way,Belle-Vue,hotel,Colmar,,,,48.0399016,7.3211775
+83676253,way,Au Trou du Cru,restaurant,Colmar,,,,48.041517,7.4115681
+83676257,way,Bim Hudsala,restaurant,Colmar,,,,48.0412893,7.4124393
+83701680,way,Restaurant de la Gare,restaurant,Colmar,,,,48.0462474,7.419471
+97607832,way,Ô Lavoir,restaurant,Colmar,,,https://olavoir.fr/,48.036325,7.2031185
+97624622,way,Auberge Obersolberg,restaurant,Colmar,"117 Ober Solberg, 68140, Eschbach-au-Val",68140,https://www.obersolberg.fr/,48.02215,7.1356115
+97756717,way,La Maison du Fromage,museum,Colmar,"23 Rue de Munster, 68140, Gunsbach",68140,https://www.maisondufromage-munster.com/,48.0451564,7.1679501
+97758036,way,Le Restaurant de la Maison du Fromage,restaurant,Colmar,23 Rue de Munster,,https://maisondufromage-munster.com/le-restaurant/,48.0454427,7.167125
+97772958,way,Maison d’hôtes du Landersbach,hotel,Colmar,"5 Rue du Landersbach, 68380, Sondernach",68380,https://www.chambresdhotesvalleedemunster.com/,47.9975467,7.0752289
+97773073,way,Restaurant Le Panoramic,restaurant,Colmar,,,https://restaurant-le-panoramic.fr/,47.9859831,7.0487533
+97774018,way,Auberge du Raedlé,restaurant,Colmar,,,,47.9672533,7.0572058
+108563054,way,Baran Kebap,restaurant,Colmar,,,,48.0806689,7.3948521
+108743093,way,Hôtel du Cerf,hotel,Colmar,,,,48.081463,7.3887047
+108958977,way,Espace d'Art Contemporain André Malraux,museum,Colmar,"4 Rue Rapp, 68000, Colmar",68000,https://eacam.eu,48.0791855,7.3593539
+109726188,way,Aux 2 Roses,hotel,Colmar,,,https://www.alsace2roses.com/,48.0189414,7.5299546
+109867538,way,Hostellerie Groff - Aux Deux Clefs,restaurant,Colmar,"50 Grand'Rue, 68600, Biesheim",68600,,48.0414343,7.5395125
+110205604,way,Le Caballin,hotel,Colmar,"Île du Rhin, 68600, Vogelgrun",68600,https://hotellecaballin.com/,48.0195419,7.5816496
+112015871,way,Restaurant Turkuaz,restaurant,Colmar,"11 Route de Volgelsheim, 68600, Algolsheim",68600,,48.0107843,7.5555533
+122245973,way,Monument aux morts,artwork,Colmar,,,,48.0084735,7.3856385
+122369027,way,Le rendez-vous Des Copains,hotel,Colmar,5 Grand Rue,,https://rdv-des-copains.fr,48.02093,7.4080755
+123357645,way,boitier electrique,park,Colmar,,,,48.093428,7.5521415
+123438175,way,Jardin botanique,garden,Colmar,,,,48.1107468,7.5484944
+125358119,way,Brit Hotel,hotel,Colmar,,,,48.092319,7.4335515
+137513483,way,Parc de la Bleich,park,Colmar,,,,48.0783245,7.3696912
+137635328,way,Fontaine Bruat,monument,Colmar,,,,48.0755789,7.3527575
+137833795,way,Ancien lavoir,museum,Colmar,,,,48.016328,7.329723
+140703963,way,Square Joseph Sissler,park,Colmar,,,,48.0622198,7.2199148
+140703996,way,Château de Walbach,castle,Colmar,,,,48.0644765,7.2209599
+141362532,way,,ruins,Colmar,,,,48.0514384,7.2673254
+141515325,way,,garden,Colmar,,,,48.0897453,7.3289263
+145182004,way,Villa Rosa,hotel,Colmar,,,,48.0989518,7.2342636
+148190634,way,La Table du Pélerin,restaurant,Colmar,,,https://www.tabledupelerin.com,47.9473695,7.548149
+150638011,way,,beach,Colmar,,,,48.1143546,7.3746818
+158614851,way,,park,Colmar,,,,48.0606761,7.2268789
+159821030,way,,park,Colmar,,,,48.0823328,7.3469299
+159821031,way,,park,Colmar,,,,48.0822665,7.3471468
+163549712,way,,ruins,Colmar,,,,48.0618261,7.1250276
+167800754,way,,park,Colmar,,,,48.0839361,7.3481049
+174618288,way,Parc Docteur Albert Schweitzer,park,Colmar,,,,48.0397576,7.142318
+174619582,way,Parc de la Fecht,park,Colmar,,,,48.0407278,7.1447677
+175259372,way,Auberge du Moulin,restaurant,Colmar,,,,48.070584,7.4782404
+233929704,way,Vicus Routier Romain,attraction,Colmar,,,,48.0625366,7.2922904
+234888928,way,,park,Colmar,,,,48.0905242,7.3344514
+236777574,way,Musée Unterlinden,museum,Colmar,,,,48.0803851,7.3557446
+240528752,way,Ferme-Auberge du Salzbach,restaurant,Colmar,"68380, Metzeral",68380,https://www.salzbach.com/,47.9579851,7.0295067
+241971110,way,Parc du Millénaire,park,Colmar,,,,48.0467148,7.3096096
+241972281,way,Parc des Cigognes,park,Colmar,,,,48.0419722,7.3007854
+260426213,way,,park,Colmar,,,,48.0849895,7.3575089
+295075631,way,,park,Colmar,,,,48.0239624,7.5773774
+325794314,way,Place du 1er Février,garden,Colmar,,,,48.0809355,7.3939384
+327411360,way,Confort Hôtel,hotel,Colmar,,,,48.0992299,7.3628781
+335599385,way,,park,Colmar,,,,48.0436156,7.1357784
+346031449,way,Ruines du Schwarzenbourg,castle,Colmar,,,,48.0377849,7.1647717
+374352385,way,,park,Colmar,,,,47.9899746,7.5502478
+377181334,way,Le jardin des Simples,garden,Colmar,,,,48.0602371,7.2687096
+388094124,way,Musée Unterlinden,museum,Colmar,,,,48.0801704,7.3559615
+388095685,way,Café Rapp,restaurant,Colmar,,,,48.0772622,7.3534756
+389395692,way,Europa Sonore,artwork,Colmar,,,,48.0155887,7.5253424
+389395693,way,Europa Sonore,artwork,Colmar,,,,48.0155161,7.5254782
+389395694,way,Europa Sonore,artwork,Colmar,,,,48.01544,7.5256082
+395119726,way,Auberge du Lac,restaurant,Colmar,,,,48.0540303,7.3629307
+401955700,way,Boden,park,Colmar,,,,48.0727978,7.2804341
+409841768,way,,park,Colmar,,,,48.0935503,7.553694
+416326112,way,B&B Hôtel Colmar Parc des Expositions,hotel,Colmar,,,,48.096169,7.3618099
+451913352,way,La Nouvelle Auberge,restaurant,Colmar,,,https://www.nauberge.com/,48.0462835,7.2084107
+480248875,way,,park,Colmar,,,,48.0751014,7.2821671
+485340928,way,,ruins,Colmar,,,,48.0376203,7.1649803
+485340929,way,,ruins,Colmar,,,,48.0377618,7.1651762
+485340930,way,,ruins,Colmar,,,,48.0376542,7.1649496
+485353108,way,Ruine du Haneck,castle,Colmar,,,,48.0236977,7.2120545
+485353109,way,Ruine du Burgstalschloss,castle,Colmar,,,,48.0232096,7.2124961
+489090570,way,L'Ackerhof,museum,Colmar,,,,48.0805261,7.3558011
+492855519,way,,park,Colmar,,,,48.0703359,7.3291965
+555573436,way,,park,Colmar,,,,48.0767399,7.3252411
+567864801,way,Colmar,restaurant,Colmar,"212 Doorniksesteenweg, 8500, Kortrijk",8500,,50.8123403,3.2743733
+617560616,way,,park,Colmar,,,,48.0660573,7.337399
+687543195,way,Kinii,restaurant,Colmar,,,,48.0769521,7.4025806
+695836331,way,,attraction,Colmar,,,,47.980609,7.1253725
+705609681,way,Parc du Natala,park,Colmar,"36 Chemin du Natala, 68000, Colmar",68000,,48.0701205,7.3820258
+724358928,way,Ouvrage de Heiteren,castle,Colmar,,,,48.0006201,7.5334272
+788985288,way,,park,Colmar,,,,48.0807854,7.3933503
+808107628,way,,park,Colmar,,,,48.0656467,7.3559834
+818012708,way,,ruins,Colmar,,,,47.9742034,6.9952604
+888247810,way,,park,Colmar,,,,48.0339773,7.1712294
+905804487,way,,garden,Colmar,,,,48.0615632,7.1050862
+905804540,way,,garden,Colmar,,,,48.0584161,7.0997297
+905804554,way,,garden,Colmar,,,,48.0578521,7.1001002
+905804573,way,,garden,Colmar,,,,48.061462,7.100554
+905804580,way,,garden,Colmar,,,,48.061578,7.1005933
+905808961,way,,garden,Colmar,,,,48.0632247,7.1006015
+905808977,way,,garden,Colmar,,,,48.0631563,7.1053287
+905813016,way,,garden,Colmar,,,,48.0630298,7.1019838
+905813026,way,,garden,Colmar,,,,48.0621152,7.1051861
+905813031,way,,garden,Colmar,,,,48.06201,7.1072662
+906163927,way,,garden,Colmar,,,,48.0693577,7.1116743
+906178330,way,,garden,Colmar,,,,48.0603783,7.1112954
+906178340,way,,garden,Colmar,,,,48.0944515,7.0949769
+906178352,way,,garden,Colmar,,,,48.0618365,7.104024
+906178372,way,,garden,Colmar,,,,48.0597817,7.0997799
+906178381,way,,garden,Colmar,,,,48.0627884,7.1004591
+906178382,way,,garden,Colmar,,,,48.0626328,7.1014818
+906188491,way,,garden,Colmar,,,,48.062433,7.1029998
+906188495,way,,garden,Colmar,,,,48.062186,7.1037089
+906188496,way,,garden,Colmar,,,,48.0619586,7.1039597
+906188503,way,,garden,Colmar,,,,48.0641283,7.1018393
+906188511,way,,garden,Colmar,,,,48.0645258,7.1017761
+906188541,way,,garden,Colmar,,,,48.0654932,7.1024022
+906188550,way,,garden,Colmar,,,,48.0657667,7.1014601
+906188561,way,,garden,Colmar,,,,48.0668601,7.1034191
+906188562,way,,garden,Colmar,,,,48.0671394,7.1029784
+906188567,way,,garden,Colmar,,,,48.0677622,7.1023761
+906188573,way,,garden,Colmar,,,,48.0684718,7.1035207
+906188575,way,,garden,Colmar,,,,48.0686927,7.1024746
+906188609,way,,garden,Colmar,,,,48.0718737,7.0993189
+906188621,way,,garden,Colmar,,,,48.0735444,7.100373
+906193883,way,,garden,Colmar,,,,48.0730481,7.1032261
+906257436,way,,garden,Colmar,,,,48.0610147,7.1040828
+906257439,way,,garden,Colmar,,,,48.0586699,7.0995958
+906257444,way,,garden,Colmar,,,,48.0588617,7.100668
+906257445,way,,garden,Colmar,,,,48.0590897,7.1008079
+906257447,way,,garden,Colmar,,,,48.0608297,7.1011505
+906257449,way,,garden,Colmar,,,,48.061624,7.1010188
+906257461,way,,garden,Colmar,,,,48.0628356,7.104552
+906257471,way,,garden,Colmar,,,,48.0626026,7.0999315
+906257472,way,,garden,Colmar,,,,48.0649403,7.1013654
+906257475,way,,garden,Colmar,,,,48.0657699,7.1018746
+906257484,way,,garden,Colmar,,,,48.0691345,7.1041308
+906257486,way,,garden,Colmar,,,,48.0688596,7.104324
+906257487,way,,garden,Colmar,,,,48.0688049,7.1041482
+906278699,way,,garden,Colmar,,,,48.061435,7.1009928
+906278700,way,,garden,Colmar,,,,48.0615807,7.1002091
+906278702,way,,garden,Colmar,,,,48.0618084,7.1012778
+906278708,way,,garden,Colmar,,,,48.0621801,7.1031884
+906278711,way,,garden,Colmar,,,,48.0618682,7.1037367
+906278715,way,,garden,Colmar,,,,48.0615621,7.1055203
+906278720,way,,garden,Colmar,,,,48.0625439,7.1052235
+906278721,way,,garden,Colmar,,,,48.0629859,7.1048638
+906278724,way,,garden,Colmar,,,,48.0651263,7.1047758
+906278731,way,,garden,Colmar,,,,48.0681648,7.1020588
+906278738,way,,garden,Colmar,,,,48.0679753,7.1061409
+906278757,way,,garden,Colmar,,,,48.0691095,7.1103067
+906278760,way,,garden,Colmar,,,,48.0710227,7.1080625
+906291193,way,,garden,Colmar,,,,48.0676799,7.1068926
+906291196,way,,garden,Colmar,,,,48.0694977,7.1005666
+906291199,way,,garden,Colmar,,,,48.0637928,7.1033267
+906291200,way,,garden,Colmar,,,,48.0637304,7.1031265
+906291203,way,,garden,Colmar,,,,48.0634014,7.1034246
+906291218,way,,garden,Colmar,,,,48.0598701,7.1011286
+906291228,way,,garden,Colmar,,,,48.0620841,7.0997683
+906291238,way,,garden,Colmar,,,,48.0610082,7.1010218
+906291242,way,,garden,Colmar,,,,48.0609761,7.1012848
+906291261,way,,garden,Colmar,,,,48.0621614,7.1061535
+906321322,way,,garden,Colmar,,,,48.0785551,7.0987146
+907109301,way,,garden,Colmar,,,,48.0594402,7.1274835
+907109322,way,,garden,Colmar,,,,48.0613146,7.1368818
+907109328,way,,garden,Colmar,,,,48.0623872,7.1368181
+907109331,way,,garden,Colmar,,,,48.0619752,7.1371202
+907120663,way,,garden,Colmar,,,,48.0635323,7.1375792
+907120672,way,,garden,Colmar,,,,48.0653877,7.1354144
+907133533,way,,garden,Colmar,,,,48.0653329,7.129072
+907133534,way,,garden,Colmar,,,,48.0656998,7.128541
+907133540,way,,garden,Colmar,,,,48.0661963,7.1276722
+907133544,way,,garden,Colmar,,,,48.0661162,7.128
+907133545,way,,garden,Colmar,,,,48.0661018,7.1289719
+907133555,way,,garden,Colmar,,,,48.064709,7.1302375
+907133567,way,,garden,Colmar,,,,48.0550448,7.1221927
+907138029,way,,garden,Colmar,,,,48.045183,7.1311443
+907146354,way,,garden,Colmar,,,,48.0536962,7.1236004
+907146366,way,,garden,Colmar,,,,48.0513665,7.1218459
+907146367,way,,garden,Colmar,,,,48.0512056,7.1218287
+907146377,way,,garden,Colmar,,,,48.0536549,7.1247061
+907146380,way,,garden,Colmar,,,,48.0541567,7.1253557
+907146422,way,,garden,Colmar,,,,48.0556897,7.123506
+907268144,way,,garden,Colmar,,,,48.0511482,7.1543844
+907268146,way,,garden,Colmar,,,,48.0489164,7.1583347
+907268157,way,,garden,Colmar,,,,48.0456469,7.1713272
+907268185,way,,garden,Colmar,,,,48.0461946,7.1736893
+907273958,way,,garden,Colmar,,,,48.046601,7.1799381
+907273967,way,,garden,Colmar,,,,48.0476448,7.1775426
+907485516,way,,garden,Colmar,,,,48.0688507,7.1032434
+907485518,way,,garden,Colmar,,,,48.0634379,7.1016734
+907485520,way,,garden,Colmar,,,,48.0635496,7.1016597
+907485523,way,,garden,Colmar,,,,48.0637732,7.1016633
+907485526,way,,garden,Colmar,,,,48.0585076,7.0999553
+907499273,way,,garden,Colmar,,,,48.0548782,7.1038882
+907499282,way,,garden,Colmar,,,,48.0538419,7.1037533
+907499283,way,,garden,Colmar,,,,48.053786,7.1042067
+907499327,way,,garden,Colmar,,,,48.0518002,7.1069952
+907499329,way,,garden,Colmar,,,,48.0521161,7.1067822
+907499339,way,,garden,Colmar,,,,48.0544213,7.1041608
+907511304,way,,garden,Colmar,,,,48.0516375,7.1076182
+907511311,way,,garden,Colmar,,,,48.0514558,7.1057151
+907511316,way,,garden,Colmar,,,,48.0520603,7.1015685
+907511332,way,,garden,Colmar,,,,48.0518999,7.0990552
+907511335,way,,garden,Colmar,,,,48.0518074,7.0987453
+907511360,way,,garden,Colmar,,,,48.0518895,7.1002456
+907511387,way,,garden,Colmar,,,,48.0535483,7.1020791
+907517773,way,,garden,Colmar,,,,48.0512633,7.1079615
+907517776,way,,garden,Colmar,,,,48.0515248,7.1065794
+907517794,way,,garden,Colmar,,,,48.053418,7.0973692
+907517813,way,,garden,Colmar,,,,48.0541258,7.096609
+907517817,way,,garden,Colmar,,,,48.0539141,7.0968323
+907517823,way,,garden,Colmar,,,,48.0538922,7.0961899
+907517831,way,,garden,Colmar,,,,48.0535654,7.0958908
+907517832,way,,garden,Colmar,,,,48.0535566,7.0961275
+907517837,way,,garden,Colmar,,,,48.0522387,7.0958423
+907517844,way,,garden,Colmar,,,,48.0524709,7.0950757
+907517884,way,,garden,Colmar,,,,48.052582,7.0934918
+907529011,way,,garden,Colmar,,,,48.0519465,7.0958782
+907529013,way,,garden,Colmar,,,,48.0519285,7.0962121
+907637842,way,,garden,Colmar,,,,48.0544082,7.1265355
+907637846,way,,garden,Colmar,,,,48.0542217,7.1247543
+907637855,way,,garden,Colmar,,,,48.0545449,7.1227926
+907637859,way,,garden,Colmar,,,,48.0552281,7.1224391
+907637875,way,,garden,Colmar,,,,48.0526174,7.1309245
+907643797,way,,garden,Colmar,,,,48.0545745,7.1241366
+907643799,way,,garden,Colmar,,,,48.0536777,7.125465
+907747861,way,,garden,Colmar,,,,48.0654027,7.1149986
+907820367,way,,garden,Colmar,,,,48.0626709,7.1019534
+907820370,way,,garden,Colmar,,,,48.0612598,7.0987953
+907820373,way,,garden,Colmar,,,,48.0618965,7.1009565
+907820378,way,,garden,Colmar,,,,48.0533224,7.1030766
+907820406,way,,garden,Colmar,,,,48.0517242,7.1087607
+907820407,way,,garden,Colmar,,,,48.0515793,7.1089519
+907820409,way,,garden,Colmar,,,,48.0514701,7.109253
+907820430,way,,garden,Colmar,,,,48.0511687,7.1110016
+907820433,way,,garden,Colmar,,,,48.0508728,7.1115636
+907820434,way,,garden,Colmar,,,,48.0507145,7.1117933
+907820439,way,,garden,Colmar,,,,48.050661,7.1119358
+907820443,way,,garden,Colmar,,,,48.0509255,7.1122403
+907820452,way,,garden,Colmar,,,,48.0505505,7.1127666
+907820453,way,,garden,Colmar,,,,48.0505372,7.1126105
+907820457,way,,garden,Colmar,,,,48.0502169,7.1135788
+907820460,way,,garden,Colmar,,,,48.0494132,7.1131633
+907820465,way,,garden,Colmar,,,,48.0496116,7.1123991
+907840075,way,,garden,Colmar,,,,48.0518554,7.1133289
+907840087,way,,garden,Colmar,,,,48.0518816,7.1140868
+907840094,way,,garden,Colmar,,,,48.0498616,7.1121983
+907840107,way,,garden,Colmar,,,,48.04897,7.114477
+907840110,way,,garden,Colmar,,,,48.0483438,7.1141458
+907840140,way,,garden,Colmar,,,,48.0477076,7.1148967
+907840145,way,,garden,Colmar,,,,48.0473431,7.1156051
+907840150,way,,garden,Colmar,,,,48.0470816,7.1158844
+907840154,way,,garden,Colmar,,,,48.0469025,7.1162052
+907840178,way,,garden,Colmar,,,,48.0460489,7.1194876
+907851008,way,,garden,Colmar,,,,48.0475121,7.1164432
+907851018,way,,garden,Colmar,,,,48.0481359,7.116529
+907851047,way,,garden,Colmar,,,,48.0484857,7.1154207
+907851050,way,,garden,Colmar,,,,48.0486551,7.1154774
+907851089,way,,garden,Colmar,,,,48.049704,7.1137499
+907851122,way,,garden,Colmar,,,,48.0518426,7.1117456
+907851131,way,,garden,Colmar,,,,48.0523427,7.1114811
+907864955,way,,garden,Colmar,,,,48.0521141,7.1106599
+907864985,way,,garden,Colmar,,,,48.0547272,7.1046539
+907865018,way,,garden,Colmar,,,,48.0537693,7.1015732
+907865030,way,,garden,Colmar,,,,48.0536612,7.0950546
+907873473,way,,garden,Colmar,,,,48.0545671,7.0991245
+907873486,way,,garden,Colmar,,,,48.0534772,7.0969218
+907873495,way,,garden,Colmar,,,,48.0543926,7.0948743
+907873498,way,,garden,Colmar,,,,48.0538154,7.0875509
+907873502,way,,garden,Colmar,,,,48.0535601,7.0873034
+907873514,way,,garden,Colmar,,,,48.0540046,7.0893606
+907873537,way,,garden,Colmar,,,,48.0536372,7.0907851
+907873550,way,,garden,Colmar,,,,48.0523538,7.0918759
+907960919,way,,garden,Colmar,,,,48.0539315,7.1034025
+907960959,way,,garden,Colmar,,,,48.0467505,7.1222287
+907960963,way,,garden,Colmar,,,,48.0461585,7.1229292
+907960975,way,,garden,Colmar,,,,48.0446678,7.1233171
+907960999,way,,garden,Colmar,,,,48.0491475,7.1159381
+907972802,way,,garden,Colmar,,,,48.0459322,7.1226775
+907972810,way,,garden,Colmar,,,,48.0458583,7.1203894
+907972811,way,,garden,Colmar,,,,48.0464106,7.1215604
+907972815,way,,garden,Colmar,,,,48.0462975,7.1221858
+907972821,way,,garden,Colmar,,,,48.0474464,7.1209414
+907972830,way,,garden,Colmar,,,,48.0486659,7.1205129
+907972854,way,,garden,Colmar,,,,48.0492483,7.118562
+907972857,way,,garden,Colmar,,,,48.0494586,7.1187153
+907972868,way,,garden,Colmar,,,,48.0506796,7.1204817
+907972878,way,,garden,Colmar,,,,48.048815,7.1219477
+907977194,way,,garden,Colmar,,,,48.0507252,7.1205814
+907989443,way,,garden,Colmar,,,,48.0479328,7.11833
+907989452,way,,garden,Colmar,,,,48.0506903,7.1090792
+907989457,way,,garden,Colmar,,,,48.0508731,7.1087497
+907989459,way,,garden,Colmar,,,,48.0510865,7.1073043
+907989460,way,,garden,Colmar,,,,48.050973,7.1062366
+907989464,way,,garden,Colmar,,,,48.0517062,7.1057286
+907989484,way,,garden,Colmar,,,,48.0516365,7.0978702
+907989502,way,,garden,Colmar,,,,48.0519599,7.0919979
+907989510,way,,garden,Colmar,,,,48.0540958,7.0902036
+907989518,way,,garden,Colmar,,,,48.0534968,7.087302
+907989538,way,,garden,Colmar,,,,48.0525939,7.0943572
+907989559,way,,garden,Colmar,,,,48.0544463,7.0975834
+908000033,way,,garden,Colmar,,,,48.0517973,7.0992508
+908000047,way,,garden,Colmar,,,,48.0517636,7.1074746
+908000095,way,,garden,Colmar,,,,48.0544005,7.1069738
+908000101,way,,garden,Colmar,,,,48.0552186,7.1077804
+908000113,way,,garden,Colmar,,,,48.0535605,7.1092176
+908000120,way,,garden,Colmar,,,,48.0559866,7.1054544
+908000121,way,,garden,Colmar,,,,48.0559834,7.1057195
+908000124,way,,garden,Colmar,,,,48.0557411,7.1049292
+908000125,way,,garden,Colmar,,,,48.0556577,7.1048746
+908000127,way,,garden,Colmar,,,,48.0548175,7.1042435
+908000140,way,,garden,Colmar,,,,48.0540496,7.1052867
+908013230,way,,garden,Colmar,,,,48.0548876,7.0930047
+908013242,way,,garden,Colmar,,,,48.0544188,7.0942329
+908013266,way,,garden,Colmar,,,,48.056141,7.0917903
+908013268,way,,garden,Colmar,,,,48.0560997,7.0923994
+908013278,way,,garden,Colmar,,,,48.0543838,7.0958643
+908013287,way,,garden,Colmar,,,,48.0544375,7.0965177
+908025118,way,,garden,Colmar,,,,48.0553953,7.0914087
+908025124,way,,garden,Colmar,,,,48.0558472,7.0908719
+908025141,way,,garden,Colmar,,,,48.0561717,7.0892079
+908025166,way,,garden,Colmar,,,,48.0566426,7.0856976
+908025196,way,,garden,Colmar,,,,48.0568062,7.0835157
+908025200,way,,garden,Colmar,,,,48.0565941,7.0832704
+908025515,way,,garden,Colmar,,,,48.056945,7.0851631
+908096384,way,,garden,Colmar,,,,48.0574214,7.0821005
+908096388,way,,garden,Colmar,,,,48.0562594,7.0831653
+908096389,way,,garden,Colmar,,,,48.0564207,7.0830972
+908096392,way,,garden,Colmar,,,,48.0569288,7.0840971
+908096400,way,,garden,Colmar,,,,48.0559858,7.080546
+908096407,way,,garden,Colmar,,,,48.0559238,7.0812822
+908096408,way,,garden,Colmar,,,,48.0559542,7.0813909
+908096415,way,,garden,Colmar,,,,48.0560595,7.0816891
+908142266,way,,garden,Colmar,,,,48.0563856,7.0799632
+908154988,way,,garden,Colmar,,,,48.0542792,7.087326
+908161484,way,,garden,Colmar,,,,48.05408,7.0847785
+908161493,way,,garden,Colmar,,,,48.0542916,7.0832712
+908161524,way,,garden,Colmar,,,,48.0548083,7.079506
+908161533,way,,garden,Colmar,,,,48.0543815,7.0873327
+908291805,way,,garden,Colmar,,,,48.056849,7.1105015
+908291808,way,,garden,Colmar,,,,48.0571607,7.1095712
+908291813,way,,garden,Colmar,,,,48.05485,7.1114559
+908309343,way,,garden,Colmar,,,,48.0503563,7.1217419
+908311613,way,,garden,Colmar,,,,48.0519771,7.123781
+908311614,way,,garden,Colmar,,,,48.0511736,7.1220581
+908311627,way,,garden,Colmar,,,,48.0481161,7.1260597
+908311633,way,,garden,Colmar,,,,48.046905,7.1283796
+908311636,way,,garden,Colmar,,,,48.0482166,7.1254086
+908311637,way,,garden,Colmar,,,,48.0481039,7.1250619
+908314068,way,,garden,Colmar,,,,48.0667777,7.123764
+908516303,way,,garden,Colmar,,,,48.0458771,7.1623571
+908681596,way,,garden,Colmar,,,,48.0507132,7.1386198
+908681598,way,,garden,Colmar,,,,48.0514177,7.138254
+908681600,way,,garden,Colmar,,,,48.0506805,7.1384589
+908681601,way,,garden,Colmar,,,,48.0510571,7.1387364
+908681602,way,,garden,Colmar,,,,48.0511609,7.1385148
+908681616,way,,garden,Colmar,,,,48.0519168,7.1417958
+909136944,way,,garden,Colmar,,,,48.095017,7.2157042
+909136970,way,,garden,Colmar,,,,48.0331832,7.1077044
+909136972,way,,garden,Colmar,,,,48.03295,7.1080482
+909136976,way,,garden,Colmar,,,,48.0324174,7.1076956
+909136977,way,,garden,Colmar,,,,48.0331395,7.108198
+909136978,way,,garden,Colmar,,,,48.0332296,7.1082814
+909136982,way,,garden,Colmar,,,,48.032124,7.1087653
+909136985,way,,garden,Colmar,,,,48.0322683,7.1094811
+909142562,way,,garden,Colmar,,,,48.0623511,7.2222058
+909142577,way,,garden,Colmar,,,,48.0602803,7.2252395
+909142583,way,,garden,Colmar,,,,48.0599876,7.2263373
+911616807,way,,garden,Colmar,,,,48.0779384,7.1027407
+911616810,way,,garden,Colmar,,,,48.0780275,7.1032892
+911616823,way,,garden,Colmar,,,,48.0698139,7.1140481
+911616824,way,,garden,Colmar,,,,48.0664856,7.1227606
+916002968,way,,garden,Colmar,,,,48.0989837,7.2346955
+925350831,way,Ruines du château de Wassenberg,castle,Colmar,,,,48.0066021,7.1620245
+936030550,way,,garden,Colmar,,,,48.0442416,7.1239854
+936030571,way,,garden,Colmar,,,,48.0439453,7.1255809
+936030573,way,,garden,Colmar,,,,48.0444453,7.1260239
+936441206,way,,garden,Colmar,,,,48.0508614,7.1091918
+936475800,way,,garden,Colmar,,,,48.0508457,7.1104198
+936475807,way,,garden,Colmar,,,,48.0521019,7.1081716
+936475808,way,,garden,Colmar,,,,48.0520489,7.1082811
+936488789,way,,garden,Colmar,,,,48.0520827,7.108958
+936488793,way,,garden,Colmar,,,,48.0519994,7.1056315
+936497223,way,,garden,Colmar,,,,48.0520487,7.1064546
+936497241,way,,garden,Colmar,,,,48.0555743,7.0908916
+936497242,way,,garden,Colmar,,,,48.0557809,7.0913616
+936848696,way,,garden,Colmar,,,,48.053169,7.1034066
+936848700,way,,garden,Colmar,,,,48.0530556,7.1043138
+936848702,way,,garden,Colmar,,,,48.0529703,7.1033726
+937410570,way,,garden,Colmar,,,,48.051957,7.1132843
+937410571,way,,garden,Colmar,,,,48.0500366,7.1125396
+937410573,way,,garden,Colmar,,,,48.054034,7.0991668
+937410574,way,,garden,Colmar,,,,48.0543329,7.099732
+937410575,way,,garden,Colmar,,,,48.0540432,7.0995945
+937410599,way,,garden,Colmar,,,,48.0614692,7.1030079
+937410605,way,,garden,Colmar,,,,48.0611878,7.1041237
+937435549,way,,garden,Colmar,,,,48.0601124,7.100737
+937435555,way,,garden,Colmar,,,,48.0611114,7.1005359
+937435556,way,,garden,Colmar,,,,48.0606004,7.1012227
+937435561,way,,garden,Colmar,,,,48.0668869,7.1019582
+937443350,way,,garden,Colmar,,,,48.0705554,7.1012864
+937443357,way,,garden,Colmar,,,,48.071602,7.0993951
+937443358,way,,garden,Colmar,,,,48.0716977,7.0996061
+937443359,way,,garden,Colmar,,,,48.0711474,7.0990297
+937443364,way,,garden,Colmar,,,,48.0708775,7.100057
+937443370,way,,garden,Colmar,,,,48.0691039,7.102727
+937443371,way,,garden,Colmar,,,,48.0677364,7.1026111
+937443372,way,,garden,Colmar,,,,48.06594,7.1017906
+937443374,way,,garden,Colmar,,,,48.0650269,7.1020991
+937860029,way,,garden,Colmar,,,,48.0832435,7.278896
+937860043,way,,garden,Colmar,,,,48.0816827,7.278732
+937860044,way,,garden,Colmar,,,,48.0820139,7.278296
+937860054,way,,garden,Colmar,,,,48.0804942,7.2809263
+937860064,way,,garden,Colmar,,,,48.0809939,7.2792292
+937865792,way,,garden,Colmar,,,,48.0546457,7.0999441
+939065052,way,,garden,Colmar,,,,48.0469043,7.1158794
+939065056,way,,garden,Colmar,,,,48.0475118,7.1166206
+939065059,way,,garden,Colmar,,,,48.0487771,7.1201968
+939065060,way,,garden,Colmar,,,,48.0486652,7.1204361
+939452952,way,,garden,Colmar,,,,48.0534866,7.097428
+939452953,way,,garden,Colmar,,,,48.0534586,7.0971833
+939472667,way,,garden,Colmar,,,,48.0516494,7.0945523
+939472674,way,,garden,Colmar,,,,48.0479208,7.0951075
+939472677,way,,garden,Colmar,,,,48.0525663,7.1029395
+939472682,way,,garden,Colmar,,,,48.0544715,7.0982565
+939472686,way,,garden,Colmar,,,,48.054107,7.0971249
+939472688,way,,garden,Colmar,,,,48.0542612,7.096038
+939472689,way,,garden,Colmar,,,,48.05405,7.0954486
+939472694,way,,garden,Colmar,,,,48.055525,7.0925109
+939472696,way,,garden,Colmar,,,,48.0551263,7.0926814
+939495147,way,,garden,Colmar,,,,48.053294,7.0872429
+939495150,way,,garden,Colmar,,,,48.0540035,7.087905
+939495158,way,,garden,Colmar,,,,48.0550755,7.1053102
+939495160,way,,garden,Colmar,,,,48.0558898,7.1052031
+942707692,way,,garden,Colmar,,,,48.0539648,7.1255476
+942974468,way,,garden,Colmar,,,,48.0548071,7.1266831
+942974477,way,,garden,Colmar,,,,48.0544966,7.1259397
+943000684,way,,park,Colmar,,,,48.0605344,7.1354514
+943010173,way,,garden,Colmar,,,,48.0623267,7.1046909
+943025977,way,,garden,Colmar,,,,48.0569546,7.0994931
+943025979,way,,garden,Colmar,,,,48.0581945,7.0975435
+943025981,way,,garden,Colmar,,,,48.0582351,7.0980649
+943027849,way,,garden,Colmar,,,,48.0606581,7.0998379
+943140748,way,,park,Colmar,,,,48.0190883,7.3296689
+943140750,way,,park,Colmar,,,,48.0202786,7.3226177
+943596249,way,,garden,Colmar,,,,48.0567347,7.0873634
+943596256,way,,garden,Colmar,,,,48.0513979,7.1008045
+943596269,way,,garden,Colmar,,,,48.0537609,7.1045527
+943596273,way,,garden,Colmar,,,,48.0519147,7.1134201
+943602186,way,,garden,Colmar,,,,48.0561896,7.0858461
+943602188,way,,garden,Colmar,,,,48.0547791,7.0802551
+943602200,way,,garden,Colmar,,,,48.0561492,7.0817919
+943616790,way,,garden,Colmar,,,,48.050997,7.1109354
+943616802,way,,garden,Colmar,,,,48.0524381,7.0945679
+943634956,way,,garden,Colmar,,,,48.0503754,7.1119943
+943634975,way,,garden,Colmar,,,,48.0463657,7.1162064
+944016690,way,,garden,Colmar,,,,48.0563332,7.0825074
+944016691,way,,garden,Colmar,,,,48.0569844,7.081046
+944016696,way,,garden,Colmar,,,,48.0562491,7.0809717
+944016697,way,,garden,Colmar,,,,48.0561265,7.0815297
+944018336,way,,garden,Colmar,,,,48.0571295,7.0811507
+944018339,way,,garden,Colmar,,,,48.0571374,7.0815633
+944018340,way,,garden,Colmar,,,,48.0571844,7.0814751
+944031527,way,,garden,Colmar,,,,48.0632022,7.1034694
+944031530,way,,garden,Colmar,,,,48.0636036,7.1036612
+944033707,way,,garden,Colmar,,,,48.0575099,7.0820326
+944048181,way,,garden,Colmar,,,,48.0420324,7.1409142
+944402329,way,,garden,Colmar,,,,48.0425061,7.1395571
+944402332,way,,garden,Colmar,,,,48.0424523,7.1404372
+944402366,way,,garden,Colmar,,,,48.0361279,7.138996
+944402402,way,,garden,Colmar,,,,48.0348681,7.1392048
+944402408,way,,garden,Colmar,,,,48.0349964,7.1393064
+944402418,way,,garden,Colmar,,,,48.0354308,7.1392464
+944402424,way,,garden,Colmar,,,,48.0365231,7.1395806
+944402437,way,,garden,Colmar,,,,48.0358663,7.1415646
+944402443,way,,garden,Colmar,,,,48.0353632,7.1408886
+944402449,way,,garden,Colmar,,,,48.0358229,7.1402258
+944421059,way,,garden,Colmar,,,,48.0369877,7.141444
+944421071,way,,garden,Colmar,,,,48.0362775,7.1407923
+944421079,way,,garden,Colmar,,,,48.0342286,7.1423864
+944421144,way,,garden,Colmar,,,,48.0332401,7.127584
+944427744,way,,garden,Colmar,,,,48.0341803,7.1281781
+944861472,way,,garden,Colmar,,,,48.0438127,7.1283045
+944861479,way,,garden,Colmar,,,,48.0439438,7.1279185
+944861481,way,,park,Colmar,,,,48.0439126,7.1277904
+944861491,way,,park,Colmar,,,,48.044359,7.1278449
+944861493,way,,garden,Colmar,,,,48.0444682,7.127847
+944861494,way,,garden,Colmar,,,,48.0442721,7.1284798
+944861495,way,,park,Colmar,,,,48.0441557,7.1280732
+944861500,way,,garden,Colmar,,,,48.0429561,7.1265799
+944871350,way,,garden,Colmar,,,,48.0384292,7.1299287
+944871407,way,,garden,Colmar,,,,48.0361065,7.1242389
+945208358,way,,garden,Colmar,,,,48.0322217,7.1184687
+945208377,way,,garden,Colmar,,,,48.0319331,7.1189536
+945208417,way,,garden,Colmar,,,,48.0298157,7.1176153
+945218902,way,,garden,Colmar,,,,48.030071,7.1190692
+945218903,way,,garden,Colmar,,,,48.0296264,7.1191228
+945218925,way,,garden,Colmar,,,,48.0283279,7.1167217
+945218939,way,,garden,Colmar,,,,48.0293864,7.1153282
+945218963,way,,garden,Colmar,,,,48.0301382,7.1169337
+945218964,way,,garden,Colmar,,,,48.0304393,7.1175217
+945231008,way,,garden,Colmar,,,,48.0305,7.1161635
+945231015,way,,garden,Colmar,,,,48.0315061,7.1150229
+945231016,way,,garden,Colmar,,,,48.0318864,7.1150475
+945231021,way,,garden,Colmar,,,,48.0321036,7.1155397
+945231030,way,,garden,Colmar,,,,48.032265,7.1157239
+945231050,way,,garden,Colmar,,,,48.0324952,7.1163389
+945231062,way,,garden,Colmar,,,,48.0321306,7.1178098
+945243381,way,,garden,Colmar,,,,48.0248021,7.1028661
+945243385,way,,garden,Colmar,,,,48.0246553,7.1032077
+945243387,way,,garden,Colmar,,,,48.0248473,7.1037328
+945243403,way,,garden,Colmar,,,,48.0378383,7.1225099
+945243406,way,,garden,Colmar,,,,48.037548,7.1214081
+945243409,way,,garden,Colmar,,,,48.037296,7.1214256
+945243426,way,,garden,Colmar,,,,48.0383328,7.1262382
+945276070,way,,garden,Colmar,,,,48.0201563,7.1051949
+945566825,way,,garden,Colmar,,,,48.0432872,7.1111134
+945566828,way,,garden,Colmar,,,,48.0435253,7.1118501
+945566833,way,,garden,Colmar,,,,48.0472945,7.1150798
+945566834,way,,garden,Colmar,,,,48.0474431,7.1153312
+945583093,way,,garden,Colmar,,,,48.0532908,7.0928754
+945583094,way,,garden,Colmar,,,,48.0533006,7.0925117
+945583095,way,,garden,Colmar,,,,48.0532698,7.0932992
+945583096,way,,garden,Colmar,,,,48.0530682,7.0935821
+945583098,way,,garden,Colmar,,,,48.0484474,7.1165359
+945583099,way,,garden,Colmar,,,,48.0485946,7.1155357
+945583101,way,,garden,Colmar,,,,48.048483,7.1156947
+947481275,way,,park,Colmar,,,,48.0876518,7.3636887
+947481276,way,square Herzog,park,Colmar,,,,48.0843688,7.3193943
+947481282,way,place Hertrich,park,Colmar,,,,48.0882038,7.2835751
+951568104,way,,garden,Colmar,,,,48.0550692,7.0929639
+951815127,way,,garden,Colmar,,,,48.0675348,7.1197843
+951815131,way,,garden,Colmar,,,,48.0672431,7.1163909
+951815148,way,,garden,Colmar,,,,48.0543425,7.1228638
+961423432,way,Ferme Auberge du Forlet,restaurant,Colmar,,,https://www.fermeaubergealsace.fr/fr/nos-fermes-auberges/fermes-auberges-haute-alsace/F231001107_ferme-auberge-du-forlet-soultzeren/,48.1034856,7.0747816
+961708322,way,,garden,Colmar,,,,48.0754668,7.0943064
+961708349,way,,garden,Colmar,,,,48.0742643,7.1005645
+962034954,way,,garden,Colmar,,,,48.0509017,7.1215666
+962034961,way,,garden,Colmar,,,,48.0405124,7.1327268
+962059171,way,,garden,Colmar,,,,48.0407614,7.1346196
+962059175,way,,garden,Colmar,,,,48.0405502,7.1359324
+962059176,way,,garden,Colmar,,,,48.0402924,7.136147
+962059179,way,,garden,Colmar,,,,48.0400769,7.1368009
+962059188,way,,garden,Colmar,,,,48.0387008,7.1401592
+962059196,way,,park,Colmar,,,,48.0384723,7.1415104
+962059201,way,,garden,Colmar,,,,48.0386078,7.1436531
+962059214,way,,garden,Colmar,,,,48.0375659,7.1419066
+962059240,way,,garden,Colmar,,,,48.0340342,7.1442355
+962059245,way,,garden,Colmar,,,,48.0329693,7.1455167
+962059248,way,,garden,Colmar,,,,48.0324694,7.1449565
+962059249,way,,garden,Colmar,,,,48.0321417,7.1453298
+962059255,way,,garden,Colmar,,,,48.0309277,7.1449558
+962059268,way,,garden,Colmar,,,,48.0321749,7.1454828
+962064615,way,,garden,Colmar,,,,48.031289,7.1454099
+962064628,way,,garden,Colmar,,,,48.0332286,7.1431682
+962064638,way,,garden,Colmar,,,,48.0360017,7.1407697
+962064643,way,,garden,Colmar,,,,48.0334632,7.1428579
+962064648,way,,garden,Colmar,,,,48.0336332,7.1387132
+962064657,way,,garden,Colmar,,,,48.033224,7.1376828
+962065424,way,,garden,Colmar,,,,48.034897,7.1428667
+962065427,way,,garden,Colmar,,,,48.0380727,7.1463646
+962691316,way,,garden,Colmar,,,,48.0282152,7.1443066
+962691318,way,,garden,Colmar,,,,48.0281516,7.1454818
+962691319,way,,garden,Colmar,,,,48.0281051,7.145728
+962691325,way,,garden,Colmar,,,,48.0273473,7.1456501
+962691351,way,,garden,Colmar,,,,48.0240233,7.1467735
+962691364,way,,garden,Colmar,,,,48.0278484,7.1454027
+962695368,way,,garden,Colmar,,,,48.0290101,7.1462784
+962703457,way,,garden,Colmar,,,,48.0352756,7.1746424
+962703481,way,,garden,Colmar,,,,48.0334278,7.1707254
+962703482,way,,garden,Colmar,,,,48.0332855,7.1704935
+962713566,way,,garden,Colmar,,,,48.0335314,7.1699843
+962713570,way,,garden,Colmar,,,,48.0342517,7.1703009
+962713574,way,,garden,Colmar,,,,48.0326276,7.1688669
+962713577,way,,garden,Colmar,,,,48.0318238,7.1681923
+962713599,way,,garden,Colmar,,,,48.0361864,7.1735996
+962713608,way,,garden,Colmar,,,,48.0373751,7.1745156
+962713628,way,,garden,Colmar,,,,48.0382625,7.1745554
+963009786,way,,garden,Colmar,,,,48.035233,7.140068
+963009788,way,,garden,Colmar,,,,48.0415602,7.1375933
+963009789,way,,garden,Colmar,,,,48.0422036,7.1384552
+963016624,way,,garden,Colmar,,,,48.032182,7.1100152
+963016629,way,,garden,Colmar,,,,48.0326319,7.1088821
+963029436,way,,garden,Colmar,,,,48.0307558,7.1217546
+963029450,way,,garden,Colmar,,,,48.0311391,7.1233194
+963029454,way,,garden,Colmar,,,,48.0333162,7.1281381
+963029455,way,,garden,Colmar,,,,48.0337372,7.1292485
+963029474,way,,garden,Colmar,,,,48.0408215,7.1331745
+963029483,way,,garden,Colmar,,,,48.0414788,7.1307465
+963033743,way,,garden,Colmar,,,,48.0405998,7.1279559
+963248251,way,,garden,Colmar,,,,48.0539913,7.0984441
+963254890,way,,garden,Colmar,,,,48.0553823,7.1237279
+963272205,way,,garden,Colmar,,,,48.0598748,7.0938381
+963272206,way,,garden,Colmar,,,,48.0604315,7.0945626
+963272207,way,,garden,Colmar,,,,48.0602641,7.0945057
+963272221,way,,garden,Colmar,,,,48.0609898,7.0949393
+963272223,way,,garden,Colmar,,,,48.0610724,7.0945352
+963272239,way,,garden,Colmar,,,,48.0690567,7.0934953
+963272260,way,,garden,Colmar,,,,48.0705306,7.0942134
+963282283,way,,garden,Colmar,,,,48.0441007,7.1263989
+963484970,way,,garden,Colmar,,,,48.0618519,7.0999889
+963778558,way,,garden,Colmar,,,,48.063146,7.1026679
+963778559,way,,garden,Colmar,,,,48.0632395,7.1027257
+963778561,way,,garden,Colmar,,,,48.0635418,7.1031977
+963778562,way,,garden,Colmar,,,,48.063447,7.1033001
+963778568,way,,garden,Colmar,,,,48.064407,7.1022472
+963778571,way,,garden,Colmar,,,,48.0621142,7.1067536
+963778998,way,,garden,Colmar,,,,48.0638812,7.1021129
+964031848,way,,garden,Colmar,,,,48.0465749,7.1158799
+964031851,way,,garden,Colmar,,,,48.0475649,7.1192322
+964035768,way,,garden,Colmar,,,,48.047413,7.1272213
+964035769,way,,garden,Colmar,,,,48.0470991,7.1278865
+964035771,way,,garden,Colmar,,,,48.0453195,7.1256836
+964058435,way,,garden,Colmar,,,,48.0678012,7.1054443
+964058436,way,,garden,Colmar,,,,48.0676199,7.1033216
+964058441,way,,garden,Colmar,,,,48.0432841,7.1285272
+964058448,way,,garden,Colmar,,,,48.0427935,7.1292396
+964058459,way,,garden,Colmar,,,,48.0417338,7.1291076
+964058463,way,,garden,Colmar,,,,48.0405218,7.1287126
+964069955,way,,garden,Colmar,,,,48.0391987,7.1282343
+964069962,way,,garden,Colmar,,,,48.0387382,7.1292173
+964069963,way,,garden,Colmar,,,,48.0385304,7.1293716
+964075208,way,,garden,Colmar,,,,48.0384848,7.1447347
+964075223,way,,garden,Colmar,,,,48.0390368,7.1513525
+964075257,way,,garden,Colmar,,,,48.0392557,7.1451735
+964075262,way,,garden,Colmar,,,,48.0391963,7.1449638
+964082859,way,,garden,Colmar,,,,48.0395358,7.1256374
+964089621,way,,garden,Colmar,,,,48.0369841,7.12317
+964089627,way,,garden,Colmar,,,,48.0362992,7.1177396
+970855880,way,,beach,Colmar,,,,47.9219753,7.5771138
+972944165,way,,garden,Colmar,,,,48.0327096,7.1692244
+977647012,way,,park,Colmar,,,,48.043677,7.4182961
+977647018,way,,park,Colmar,,,,48.0827655,7.404291
+987081036,way,ruine du chäteau du baron de Courbertin,ruins,Colmar,,,,48.0308545,7.1136045
+987500862,way,,park,Colmar,,,,48.08307,7.2819441
+1005924502,way,,garden,Colmar,,,,48.0313836,7.1686941
+1005924505,way,,garden,Colmar,,,,48.0326077,7.1681606
+1005924506,way,,garden,Colmar,,,,48.0327529,7.1686274
+1020964665,way,,park,Colmar,,,,48.0114035,7.384277
+1032356398,way,,park,Colmar,,,,48.0402725,7.1538268
+1033606442,way,Colmar,restaurant,Colmar,"1073 Kortrijksesteenweg, 9051, Sint-Denijs-Westrem",9051,,51.0199995,3.6850742
+1035797934,way,,park,Colmar,,,,48.0873356,7.2796052
+1088243013,way,Ossarium,memorial,Colmar,,,,48.0786399,7.1448809
+1105031588,way,Ehem. französische OP-Station Wk1,ruins,Colmar,,,,48.0398624,7.0531494
+1105631721,way,,ruins,Colmar,,,,48.0396827,7.1050328
+1105636080,way,Ehem. Bergstation Deutsche Materialseilbahn,ruins,Colmar,,,,48.0440783,7.1032328
+1105638562,way,Dertscher Befehlsstand Wk1,ruins,Colmar,,,,48.0378508,7.0994823
+1108628141,way,,garden,Colmar,,,,48.043964,7.1344465
+1111876256,way,,park,Colmar,,,,48.0721174,7.2909993
+1118306764,way,,park,Colmar,,,,48.0792779,7.3546887
+1132152661,way,,garden,Colmar,,,,48.070823,7.2969208
+1155611313,way,James Vignoble Hôtel,hotel,Colmar,"6 Rue des Trois Pierres, 68420, Eguisheim",68420,https://www.jameshotel-vignoble.com/,48.0448856,7.3020967
+1173238616,way,Jardin des simples,garden,Colmar,,,,48.0785394,7.3561542
+1173238617,way,Jardin du Cloitre,garden,Colmar,,,,48.0785635,7.3565592
+1185219064,way,,park,Colmar,,,,48.0127778,7.5415223
+1185219073,way,,garden,Colmar,,,,48.0098297,7.533638
+1188457114,way,,garden,Colmar,,,,48.0169643,7.5709726
+1188535727,way,,garden,Colmar,,,,48.016137,7.5367794
+1188550434,way,,garden,Colmar,,,,48.0260382,7.5279006
+1188550436,way,,garden,Colmar,,,,48.0273618,7.5293969
+1188631251,way,,garden,Colmar,,,,48.0196141,7.5516688
+1188639732,way,,garden,Colmar,,,,48.0339602,7.5654078
+1196366562,way,,garden,Colmar,,,,48.0769168,7.2856193
+1196387540,way,,garden,Colmar,,,,48.0769476,7.3582108
+1196387541,way,,garden,Colmar,,,,48.0771066,7.3577801
+1196525994,way,,garden,Colmar,,,,48.047685,7.2179297
+1201476367,way,,garden,Colmar,,,,48.0769511,7.3584311
+1201476368,way,,garden,Colmar,,,,48.0774104,7.3575019
+1201501341,way,,garden,Colmar,,,,48.0770127,7.3587795
+1212975757,way,,garden,Colmar,,,,48.0780714,7.3588183
+1212975759,way,,garden,Colmar,,,,48.0779046,7.3587175
+1213229660,way,Cimetière Militaire Germania,memorial,Colmar,,,,48.0390076,7.0593231
+1213396836,way,,garden,Colmar,,,,48.0777537,7.3579374
+1214027512,way,Caballin,park,Colmar,"ile du rhin, 68600, Vogelgrun",68600,,48.0191077,7.5808349
+1214519757,way,,garden,Colmar,,,,48.0749675,7.3372894
+1214787275,way,,park,Colmar,,,,48.0769547,7.3359369
+1214787276,way,,park,Colmar,,,,48.0770441,7.3366165
+1214787278,way,,garden,Colmar,,,,48.0752636,7.3391401
+1217188544,way,,garden,Colmar,,,,48.0776899,7.3587754
+1217188545,way,,garden,Colmar,,,,48.0776423,7.3589603
+1217188546,way,,garden,Colmar,,,,48.077759,7.3584413
+1217427849,way,,garden,Colmar,,,,48.0777033,7.358452
+1217427850,way,,garden,Colmar,,,,48.0776721,7.3584004
+1218881092,way,,garden,Colmar,,,,48.0775967,7.3588284
+1219074426,way,,ruins,Colmar,,,,48.0420796,7.1511821
+1220594343,way,,park,Colmar,,,,48.0448844,7.1675485
+1224597729,way,,garden,Colmar,,,,48.0782746,7.3589814
+1224751793,way,,garden,Colmar,,,,48.0789265,7.3598424
+1224751794,way,,garden,Colmar,,,,48.0787054,7.3599537
+1225232487,way,,garden,Colmar,,,,48.0775927,7.3591439
+1225240909,way,,garden,Colmar,,,,48.0773325,7.3590113
+1225240910,way,,garden,Colmar,,,,48.0774273,7.359122
+1225508650,way,,garden,Colmar,,,,48.0773467,7.3587257
+1225508651,way,,garden,Colmar,,,,48.0774148,7.3586368
+1225508652,way,,garden,Colmar,,,,48.0774679,7.3585668
+1225508653,way,,garden,Colmar,,,,48.0773422,7.3586015
+1226790338,way,,garden,Colmar,,,,48.0775265,7.359231
+1226790339,way,,garden,Colmar,,,,48.0774339,7.3589727
+1226790340,way,,garden,Colmar,,,,48.0775189,7.3591319
+1226790341,way,,garden,Colmar,,,,48.0775552,7.3590744
+1226790342,way,,garden,Colmar,,,,48.0774591,7.3590709
+1227208715,way,,garden,Colmar,,,,48.0793846,7.3597332
+1227208717,way,,garden,Colmar,,,,48.0794576,7.3598364
+1227208718,way,,garden,Colmar,,,,48.0793606,7.3599533
+1227208720,way,,garden,Colmar,,,,48.0792201,7.3598606
+1227208721,way,,garden,Colmar,,,,48.0791074,7.3597302
+1227208722,way,,garden,Colmar,,,,48.0792424,7.3596533
+1227448040,way,,garden,Colmar,,,,48.0792682,7.3600224
+1230373106,way,,garden,Colmar,,,,48.0776365,7.3582545
+1230373108,way,,garden,Colmar,,,,48.0776251,7.3579901
+1230597011,way,,garden,Colmar,,,,48.0776947,7.3581245
+1236018862,way,,park,Colmar,,,,48.0399559,7.138193
+1236018878,way,,park,Colmar,,,,48.0390865,7.1346631
+1268983835,way,,park,Colmar,,,,48.04464,7.5407643
+1269016182,way,Parc du Wasen,park,Colmar,,,,48.0145962,7.3299148
+1278908798,way,,park,Colmar,,,,48.0189047,7.3303111
+1288464830,way,,park,Colmar,,,,48.0594268,7.2320364
+1288467529,way,,park,Colmar,,,,48.0583825,7.2263268
+1297717714,way,,garden,Colmar,,,,48.0776202,7.3586751
+1297717715,way,,garden,Colmar,,,,48.077552,7.3587891
+1297717716,way,,garden,Colmar,,,,48.076984,7.3577713
+1299445249,way,Château du Pflixbourg,castle,Colmar,,,,48.0671561,7.254276
+1299447815,way,Dagsbourg,castle,Colmar,,,,48.0392539,7.2728759
+1299447816,way,Weckmund,castle,Colmar,,,,48.0384455,7.2734831
+1299447817,way,Wahlenbourg,castle,Colmar,,,,48.0387643,7.2729872
+1299447818,way,Les Trois Châteaux,attraction,Colmar,,,,48.0389113,7.2731289
+1299825914,way,,park,Colmar,,,,48.042799,7.1339879
+1303913927,way,Monument aux Morts,memorial,Colmar,,,,48.0062287,7.5584575
+1312985564,way,,garden,Colmar,,,,48.0381705,7.1725816
+1312985582,way,,garden,Colmar,,,,48.0395046,7.183513
+1324065375,way,,garden,Colmar,,,,48.0044453,7.589296
+1340115555,way,,park,Colmar,,,,48.0380433,7.5449161
+1342954730,way,,garden,Colmar,,,,48.0322294,7.1151288
+1377383289,way,,ruins,Colmar,,,,47.9700562,6.9999659
+1412799319,way,,park,Colmar,,,,48.02367,7.1017366
+1416475622,way,,garden,Colmar,,,,48.0740676,7.3572382
+1416475628,way,,garden,Colmar,,,,48.0739815,7.3574887
+1422824112,way,,garden,Colmar,,,,48.0734251,7.3997219
+1422824991,way,,garden,Colmar,,,,48.0711258,7.3542297
+1422824994,way,,garden,Colmar,,,,48.0722391,7.3565354
+1422824995,way,,garden,Colmar,,,,48.0735738,7.360562
+1422824996,way,,garden,Colmar,,,,48.0702844,7.3565235
+1423058150,way,Au p'tit Muntz,restaurant,Colmar,"16 Rue Joseph de Pauw, 68320, Muntzenheim",68320,,48.1030372,7.4649225
+1424340897,way,,park,Colmar,,,,48.0425865,7.3121197
+1432575513,way,D’r gàrta,garden,Colmar,,,,48.0539749,7.124752
+1488794946,way,,ruins,Colmar,,,,47.9621573,7.0082924
+1498546526,way,,memorial,Colmar,,,,48.0274561,7.3771874
+377117,relation,La Maison des têtes,hotel,Colmar,,,,48.0784638,7.3556143
+385727,relation,Place d'Unterlinden,park,Colmar,,,,48.0795399,7.3560814
+405741,relation,Place Claude Debussy,park,Colmar,,,,48.0904292,7.3625812
+546304,relation,Auberge Alsacienne,hotel,Colmar,,,https://www.auberge-alsacienne.net/,48.0424579,7.3092122
+3020355,relation,Hohlandsbourg,castle,Colmar,,,,48.0599123,7.2691259
+3512281,relation,,park,Colmar,,,,48.017578,7.5283496
+6677473,relation,Château de Hagueneck,castle,Colmar,,,,48.0523095,7.2750579
+7141703,relation,Ruine du Schrankenfels,castle,Colmar,,,,48.0219958,7.2133926

@@ -1,20 +1,57 @@
 osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+340028020,node,Musée des Pêcheries,museum,Le Havre,"3 Quai Capitaine Jean Recher, 76400, Fécamp",76400,https://www.musee-fecamp.fr/,49.7616776,0.368255
+344790958,node,,memorial,Le Havre,,,,49.4947626,0.5794029
+368868948,node,Abbaye du Valasse,castle,Le Havre,,,,49.5308333,0.5089919
+376302957,node,,memorial,Le Havre,,,,49.4939763,0.579708
+378402725,node,Château de Cramesnil,castle,Le Havre,,,,49.5101477,0.3706707
+378402734,node,Calvaire,monument,Le Havre,,,,49.5106218,0.3589971
+399449569,node,Porte d'Aval,viewpoint,Le Havre,,,,49.7069796,0.1940913
 493876994,node,Le Pavillon,restaurant,Le Havre,,,https://www.restaurant-le-pavillon-fecamp.fr/,49.7593784,0.3614846
+493943448,node,,ruins,Le Havre,,,,49.7678024,0.3689
+493943488,node,Belvédère du Cap Fagnet,viewpoint,Le Havre,,,https://www.fecampclick.fr/fagnet.html,49.7673549,0.3675664
+493943557,node,WW II: Poste d'Observation,ruins,Le Havre,,,,49.7685494,0.379397
+493943566,node,WWII Bunker,ruins,Le Havre,,,,49.7671149,0.3687142
+493943606,node,,viewpoint,Le Havre,,,,49.768295,0.3702352
+493947140,node,WW II: Poste de Commandement,ruins,Le Havre,,,,49.7663535,0.3798961
+493947173,node,WW II: supposé l'hopital allemand,ruins,Le Havre,,,,49.7654601,0.3795987
+493947201,node,WW II: Poste de Commandement,ruins,Le Havre,,,,49.7654594,0.3757025
+493947263,node,WW II: Poste de canon,ruins,Le Havre,,,,49.7656614,0.3779941
+494008268,node,Musée découverte du Chocolat,museum,Le Havre,,,https://chocolatshautot.com/le-musee-du-chocolat/,49.7506507,0.416871
+494242922,node,,viewpoint,Le Havre,,,,49.7066456,0.1964597
+494253854,node,Ecomusée de la Pomme et du Cidre,museum,Le Havre,"1315 Route de Goderville, 76110, Bretteville-du-Grand-Caux",76110,http://www.ecomuseeducidre.fr/,49.6561385,0.3785581
 551434967,node,Crêperie Au Petit Breton,restaurant,Le Havre,"11 Rue Dauphine, 76600, Le Havre",76600,,49.4886735,0.1118583
 551434985,node,La Bigouden,restaurant,Le Havre,"88 Rue de Bretagne, 76600, Le Havre",76600,,49.488511,0.1146115
+551434990,node,Salon des Navigateurs,museum,Le Havre,"1 Rue du Petit Croissant, 76600, Le Havre",76600,,49.4886976,0.1134301
 551435016,node,La Croisette,restaurant,Le Havre,"29 Rue Guillemard, 76600, Le Havre",76600,,49.4959442,0.0939589
 551435062,node,Brasserie Georges.B,restaurant,Le Havre,"1 Rue Frédéric Bellanger, 76600, Le Havre",76600,https://brasserie-georges-b.fr/,49.4958607,0.0944256
 551445377,node,La Braise Gourmande,restaurant,Le Havre,"12 Rue Jean de La Fontaine, 76600, Le Havre",76600,,49.4879101,0.1129595
 551445380,node,Le Nuage dans la Tasse,restaurant,Le Havre,,,http://lenuagedanslatasse.com/,49.4937505,0.1042357
 551445384,node,La taverne Paillette,restaurant,Le Havre,,,,49.4953431,0.1032056
+804042824,node,,memorial,Le Havre,,,,49.5415925,0.1591205
 828950331,node,Campanile,hotel,Le Havre,,,,49.5337715,0.1870905
+835894233,node,"Écrivains du XXe siècle (Hugues Le Roux, La Villehervé, Laurent-Cernières)",artwork,Le Havre,"14 Rue Raoul Dufy, 76600, Le Havre",76600,,49.4942721,0.1030612
+1019991165,node,La table d'orientation,viewpoint,Le Havre,,,,49.5071797,0.073734
 1070438393,node,Le Cordon Bleu,hotel,Le Havre,,,,49.5017082,0.2171022
+1296108349,node,,ruins,Le Havre,,,,49.5141878,0.0672647
+1296108354,node,,ruins,Le Havre,,,,49.5148723,0.0672271
+1296108356,node,,ruins,Le Havre,,,,49.5164098,0.0674252
+1296108358,node,,ruins,Le Havre,,,,49.5178647,0.0681
 1400446164,node,Hôtel Normand,hotel,Le Havre,,,,49.7387392,0.3120948
+1400446166,node,,viewpoint,Le Havre,,,,49.7386387,0.2932335
 1400446167,node,,restaurant,Le Havre,,,,49.7387674,0.3123067
 1472085194,node,Pickles Burger,restaurant,Le Havre,"35 Rue Pierre Guinard, 76600, Le Havre",76600,,49.4852969,0.1304972
+1481313161,node,Jehan de Grouchy,artwork,Le Havre,,,,49.5045151,0.1955064
+1495602252,node,,memorial,Le Havre,,,,49.7571597,0.3763263
+1605544539,node,La Manneporte,attraction,Le Havre,,,,49.7043869,0.1892245
+1605544541,node,Porte d'Amont,attraction,Le Havre,,,,49.7145434,0.2058596
+1627920574,node,Osezlacier,artwork,Le Havre,Place Caillard,,,49.4854665,0.1276305
 1688159723,node,Les brochettes de Sam,restaurant,Le Havre,"98 Rue Saint-Jacques, 76600, Le Havre",76600,,49.4871802,0.1102793
+1690485694,node,,viewpoint,Le Havre,,,,49.5022767,0.0920968
 1691657890,node,Le Bistrot des grands bassins,restaurant,Le Havre,"23 Boulevard de l'Amiral Mouchez, 76600, Le Havre",76600,https://www.lebistrotdesgrandsbassins.fr/,49.4843955,0.1315331
 1715984194,node,Restaurant Brasserie du Pasino,restaurant,Le Havre,,,https://www.pasinohotellehavre.com/en/restaurant-bar/the-brasserie-du-pasino,49.4912507,0.1117954
+1723311713,node,Plage de St Adresse,beach,Le Havre,,,,49.522228,0.06816
+1788580529,node,Mémorial de Bruneval,memorial,Le Havre,,,http://www.bruneval42.com/memorial,49.666181,0.1600458
+1801680062,node,Guerre,memorial,Le Havre,,,,49.5465606,0.4187194
 1801817365,node,Le P'ti Parisien,restaurant,Le Havre,"51 Rue Jules Siegfried, 76600, Le Havre",76600,,49.4922973,0.1119459
 1817609468,node,Roméo,restaurant,Le Havre,"48, 76600, Le Havre",76600,,49.4954301,0.0944788
 1867028932,node,Babayoshi,restaurant,Le Havre,"34 Rue Édouard Herriot, 76600, Le Havre",76600,https://babayoshi.fr/,49.496253,0.1085626
@@ -40,18 +77,35 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1867528738,node,Krousty sabaïdi,restaurant,Le Havre,"104 Cours de la République, 76600, Le Havre",76600,https://www.kroustyresto.fr/,49.4972763,0.1281344
 1867545211,node,Le Famosa,restaurant,Le Havre,,,,49.4920569,0.1348938
 1867581924,node,La Mian,restaurant,Le Havre,"7 Rue Jean-Baptiste Eyriès, 76600, Le Havre",76600,,49.4932625,0.1166042
+1941043046,node,Aux Dockers Du Port Du Havre Victimes De L'Amiante,memorial,Le Havre,,,,49.483493,0.1307046
 1971622781,node,Buffalo Grill,restaurant,Le Havre,,,,49.5222125,0.1906701
 1977661980,node,Soleil vert,restaurant,Le Havre,,,,49.4978346,0.1117162
 2013745705,node,Crêperie Coty,restaurant,Le Havre,"22 Rue Casimir Périer, 76600, Le Havre",76600,,49.4961244,0.1122047
+2014099809,node,Porte Océane,monument,Le Havre,,,,49.4934903,0.0966133
+2014102227,node,Amiral Mouchez,viewpoint,Le Havre,,,,49.5018308,0.1174236
+2014102677,node,,viewpoint,Le Havre,,,,49.5029739,0.1214451
+2014103684,node,,viewpoint,Le Havre,,,,49.5000928,0.104102
+2014104598,node,,viewpoint,Le Havre,,,,49.5060081,0.0798065
+2014105336,node,,viewpoint,Le Havre,,,,49.5108882,0.0681067
 2014622798,node,La Sirène,restaurant,Le Havre,"49 Rue du Docteur Cousture, 76600, Le Havre",76600,,49.4955626,0.0967863
 2014631160,node,Le Diapason,restaurant,Le Havre,"8 Rue Bernardin de Saint-Pierre, 76600, Le Havre",76600,https://restaurant-le-diapason.fr/,49.4895683,0.1052031
+2014631324,node,Ancienne Poste Centrale,monument,Le Havre,,,,49.4919356,0.1135233
 2014632189,node,Le Deauville,restaurant,Le Havre,,,,49.495439,0.1094001
 2017595678,node,Sant'Anna,restaurant,Le Havre,"83 Quai de Southampton, 76600, Le Havre",76600,https://santanna.fr/,49.4865411,0.1105302
 2017595683,node,À l'Ardoise,restaurant,Le Havre,"85 Quai de Southampton, 76600, Le Havre",76600,https://www.lardoise-lehavre.fr/,49.4865691,0.1106002
+2017612100,node,,viewpoint,Le Havre,,,,49.4903538,0.1124846
 2017644509,node,Country Club,restaurant,Le Havre,"26 Rue du Fort, 76620, Le Havre",76620,,49.5021744,0.0957422
 2017661931,node,,restaurant,Le Havre,,,,49.5000923,0.1343392
 2017705362,node,Hôtel Parisien,hotel,Le Havre,"1 Cours de la République, 76600, Le Havre",76600,,49.4924223,0.1235931
 2030557773,node,Le Taj Mahal,restaurant,Le Havre,"23 Rue Jean de La Fontaine, 76600, Le Havre",76600,https://www.restaurant-taj-mahal.fr/,49.4881939,0.1128543
+2089825719,node,Château des Hogues,castle,Le Havre,,,,49.7279514,0.3297101
+2090023624,node,Château de Franqueville,castle,Le Havre,,,,49.7205291,0.4321804
+2090317563,node,Château de Bénouville,castle,Le Havre,,,,49.7147395,0.2439137
+2090830037,node,,castle,Le Havre,,,,49.6966819,0.3475331
+2091237985,node,Le Pas Griand,castle,Le Havre,,,,49.8050904,0.5357014
+2091323533,node,,castle,Le Havre,,,,49.7888586,0.4946089
+2092476099,node,Château,castle,Le Havre,,,,49.7409363,0.5135504
+2092565809,node,,memorial,Le Havre,,,,49.7698137,0.4856848
 2111040629,node,Le grand carrefour,restaurant,Le Havre,"54 Rue du Général Faidherbe, 76600, Le Havre",76600,,49.4873019,0.1133639
 2111044453,node,La Cabane Maltée,restaurant,Le Havre,,,,49.4889736,0.1123558
 2111044991,node,La P'tite Savoie,restaurant,Le Havre,"33 Rue de Bretagne, 76600, Le Havre",76600,,49.4890677,0.112628
@@ -63,7 +117,16 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2111107384,node,Bienvenue en Asie,restaurant,Le Havre,,,,49.4952856,0.1129657
 2111124049,node,Monsieur Auguste,restaurant,Le Havre,,,https://www.monsieurauguste.fr/,49.493482,0.1095792
 2111225778,node,Le Bistrot Parisien,restaurant,Le Havre,"39 Place de l'Hôtel de Ville, 76600, Le Havre",76600,,49.4927805,0.1060955
+2111262733,node,Ondine,artwork,Le Havre,,,,49.4951028,0.1056824
+2119941457,node,,viewpoint,Le Havre,,,,49.4839387,0.1016577
+2119941572,node,,viewpoint,Le Havre,,,,49.4877511,0.0926718
+2119941715,node,,viewpoint,Le Havre,,,,49.487083,0.0908677
+2119942324,node,,viewpoint,Le Havre,,,,49.5019638,0.0865605
+2119946448,node,,viewpoint,Le Havre,,,,49.5043753,0.0830568
+2119949144,node,,viewpoint,Le Havre,,,,49.5043962,0.0804819
+2119949473,node,,viewpoint,Le Havre,,,,49.5087122,0.0683208
 2119960944,node,Eugénie,restaurant,Le Havre,,,https://eugenie-restaurant.fr/,49.5024018,0.0835879
+2119966878,node,,viewpoint,Le Havre,,,,49.5571304,0.0914816
 2120017395,node,Les Galets,restaurant,Le Havre,"Promenade André Duroméa, 76600, Le Havre",76600,http://lesgaletsubereat.com/,49.4961873,0.0923487
 2120017396,node,La Hève,restaurant,Le Havre,"32 Promenade André Duroméa, 76600, Le Havre",76600,,49.4956329,0.0928193
 2120017397,node,Le Grill,restaurant,Le Havre,"Promenade André Duroméa, 76600, Le Havre",76600,,49.4973058,0.0914269
@@ -79,20 +142,39 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2120020467,node,Les pieds dans l'eau,restaurant,Le Havre,"Promenade André Duroméa, 76600, Le Havre",76600,,49.4964313,0.0921726
 2120022304,node,Le Pattaya,restaurant,Le Havre,"36 Promenade André Duroméa, 76600, Le Havre",76600,https://pattayalh.fr/,49.4963213,0.0922629
 2120022578,node,Le France,restaurant,Le Havre,"16 Promenade André Duroméa, 76600, Le Havre",76600,,49.4954994,0.0929172
+2120028408,node,,viewpoint,Le Havre,,,,49.5006928,0.0907116
+2120034473,node,Immeuble Dufayel,monument,Le Havre,,,,49.5047699,0.0808
 2121420302,node,Sushi Makers,restaurant,Le Havre,"18, 76600, Le Havre",76600,https://sushimakers.fr/,49.4897626,0.1080153
 2121433659,node,,restaurant,Le Havre,,,,49.4912706,0.1040108
 2121434017,node,Bouchon Normand,restaurant,Le Havre,"77 Rue Louis Brindeau, 76600, Le Havre",76600,https://www.bouchonnormand.fr/,49.4912715,0.1042242
+2121502732,node,,viewpoint,Le Havre,,,,49.4879498,0.1249477
+2163591834,node,Château du Tôt,castle,Le Havre,,,,49.5743874,0.1761542
 2266593245,node,Le Zgorthiote,restaurant,Le Havre,"110 Rue Jules Siegfried, 76600, Le Havre",76600,,49.4919212,0.1171866
 2323323416,node,Georges V,restaurant,Le Havre,"145 Quai George V, 76600, Le Havre",76600,https://legeorgev.fr/,49.4908457,0.1182185
 2323323420,node,Hanami Sushi,restaurant,Le Havre,"153 Quai George V, 76600, Le Havre",76600,,49.4908346,0.1184431
+2347968999,node,Domaine du château de Trébons,castle,Le Havre,,,,49.6613441,0.4150739
+2356119456,node,Château,castle,Le Havre,,,,49.68359,0.5012365
+2356309246,node,,castle,Le Havre,,,,49.7084622,0.4773112
+2356636395,node,,castle,Le Havre,,,,49.6546598,0.6105507
+2360518210,node,Maison forte dite Le Vieux Château,castle,Le Havre,,,,49.6474653,0.3673397
+2385792991,node,Mémorial franco-belge,memorial,Le Havre,,,,49.5008173,0.0908175
 2392234509,node,La Fontaine Fleurie,restaurant,Le Havre,"21 Avenue Jean Jaurès, 76290, Fontaine-la-Mallet",76290,https://www.restaurantlafontainefleurie.fr/,49.5345452,0.146263
 2459278541,node,La Plume,restaurant,Le Havre,,,,49.4985285,0.1680789
 2459286848,node,Le Ballobar,restaurant,Le Havre,,,,49.4983861,0.1680736
+2501390035,node,Ville Reconstruite par Auguste Perret,viewpoint,Le Havre,,,,49.5030562,0.0931744
+2501395397,node,Jardin d'Asie Orientale,garden,Le Havre,,,,49.5054747,0.0948642
+2501395417,node,Jardins Cayeux,garden,Le Havre,,,,49.5034601,0.0953255
+2501395429,node,Jardins des Explorateurs Contemporins,garden,Le Havre,,,,49.5031374,0.0926756
+2501395433,node,Jardins d'Amérique du Nord,garden,Le Havre,,,,49.5051788,0.0921021
+2501395435,node,Jardins Austral,garden,Le Havre,,,,49.5036756,0.0958332
 2509236765,node,Brasserie de Normandie,restaurant,Le Havre,36 Rue Bernardin de Saint-Pierre,,,49.4906026,0.105354
 2509237819,node,Les Korrigans,restaurant,Le Havre,"54 Quai Michel Féré, 76600, Le Havre",76600,,49.4895766,0.1113432
 2513791127,node,Oscar Hôtel,hotel,Le Havre,"106 Rue Voltaire, 76600, Le Havre",76600,,49.4897719,0.1072404
 2561165056,node,L'atelier des Gourmets,restaurant,Le Havre,,,https://facebook.com/L-atelier-Des-Gourmets-362408711225460/posts/?ref=page_internal&mt_nav=0,49.5549281,0.1159988
 2561791209,node,Pizza Tonton,restaurant,Le Havre,"5 Rue Félix Faure, 76930, Octeville-sur-Mer",76930,,49.5547495,0.1162692
+2562649154,node,,memorial,Le Havre,,,,49.5958292,0.1295518
+2592468072,node,,viewpoint,Le Havre,,,,49.7670018,0.3710077
+2619136623,node,2e Guerre mondiale,memorial,Le Havre,,,,49.483936,0.1016204
 2625624196,node,Le Cormoran,restaurant,Le Havre,,,https://lecormoran76.fr/,49.4856658,0.2099908
 2631657692,node,Restaurant universitaire,restaurant,Le Havre,"76600, Le Havre",76600,,49.5152851,0.1630241
 2687649536,node,Taverne des Deux Augustins,hotel,Le Havre,"Place Maréchal Foch, 76790, Étretat",76790,http://www.les2augustins.com,49.7080713,0.2042768
@@ -102,8 +184,10 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2687649644,node,La Résidence,hotel,Le Havre,,,,49.7081784,0.2039228
 2687649645,node,La Salamandre,restaurant,Le Havre,"2 Boulevard Président René Coty, 76790, Étretat",76790,,49.7082707,0.2038063
 2687649647,node,Le Galion,restaurant,Le Havre,"Boulevard Président René Coty, 76790, Étretat",76790,https://etretat-legalion.fr/,49.7083677,0.2036821
+2687649930,node,,memorial,Le Havre,,,,49.7077829,0.2105835
 2688918183,node,L'Aiguille Creuse,hotel,Le Havre,"Place du Général de Gaulle, 76790, Étretat",76790,https://www.hotellaiguillecreuse.fr/fr,49.7074094,0.2020095
 2689037074,node,A l'Origine,restaurant,Le Havre,,,,49.7079982,0.2021016
+2689037085,node,Au Général Presbythériau,memorial,Le Havre,,,,49.7092525,0.2032481
 2689037093,node,Auberge Express,restaurant,Le Havre,,,,49.7077756,0.2041088
 2689037135,node,Dormy House,hotel,Le Havre,76790,76790,,49.7064199,0.201036
 2689037142,node,Hôtel l'Escale,hotel,Le Havre,,,,49.7078942,0.2042138
@@ -112,6 +196,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2689037247,node,Le Bistroquet,restaurant,Le Havre,,,,49.7085305,0.2024886
 2689037253,node,Le Clos Lupin,restaurant,Le Havre,37 Rue Alphonse Karr,,,49.7073158,0.2025352
 2689037283,node,Le Rayon Vert,hotel,Le Havre,,,,49.7079885,0.2020793
+2690511936,node,La Chambre des Demoiselles,attraction,Le Havre,,,,49.7070123,0.1945106
 2692252780,node,Cantine du Fort,restaurant,Le Havre,"33 Rue du 329e Régiment d'Infanterie, 76600, Le Havre",76600,https://letetris.fr/,49.503875,0.1207997
 2700198633,node,Le Saint-Louis,restaurant,Le Havre,"40 Rue du Général de Lasalle, 76600, Le Havre",76600,,49.487058,0.145096
 2701831991,node,Flunch,restaurant,Le Havre,,,,49.5216193,0.1138196
@@ -120,6 +205,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2703054487,node,B&B Hotel Le Havre Centre,hotel,Le Havre,"126 Cours de la République, 76600, Le Havre",76600,https://www.hotel-bb.com/fr/hotel/le-havre-centre,49.4981747,0.1287718
 2703054649,node,LH Station Café,restaurant,Le Havre,"25 Allée Aimé Césaire, 76600, Le Havre",76600,https://www.lhstationcafe.fr/,49.4935322,0.1244584
 2703054728,node,African fusion,restaurant,Le Havre,"89 Cours de la République, 76600, Le Havre",76600,https://www.afriknfusion.fr/,49.4962771,0.1266494
+2704004769,node,"Navigateurs et géographes (Guillaume Le Testu, Dubocage de Bléville, Marcel Hérubel, d’Après de Mannevillette)",artwork,Le Havre,,,,49.4930758,0.1023416
 2704174038,node,Dubai,restaurant,Le Havre,,,,49.4982182,0.1170261
 2704174086,node,Le Joubeil,restaurant,Le Havre,,,,49.4974691,0.1136955
 2704738569,node,Le Relais,restaurant,Le Havre,,,,49.4835169,0.1526112
@@ -130,6 +216,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2710686126,node,Da Nonnina,restaurant,Le Havre,"5 Rue de l'Alma, 76600, Le Havre",76600,https://www.danonnina.fr/,49.4958815,0.096249
 2710686199,node,Black pearl,restaurant,Le Havre,"68 Rue Frédéric Bellanger, 76600, Le Havre",76600,,49.4953696,0.099256
 2710750051,node,Casel del forno,restaurant,Le Havre,,,,49.4948864,0.1053207
+2712374287,node,La Glacière,gallery,Le Havre,"9 Rue Rollon, 76600, Le Havre",76600,http://galerie.laglaciere-lh.fr/,49.500753,0.1255507
 2713610786,node,Ibis Styles,hotel,Le Havre,"121 Rue de Paris, 76600, Le Havre",76600,https://all.accor.com,49.488449,0.1073403
 2713610901,node,Bistrot Canaille,restaurant,Le Havre,"32 Rue du Général Faidherbe, 76600, Le Havre",76600,https://www.bistrot-canaille.com/,49.4874205,0.1127879
 2713611051,node,Sonny,restaurant,Le Havre,"57 Rue Dauphine, 76600, Le Havre",76600,,49.4883534,0.1132442
@@ -137,6 +224,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2713674385,node,L'Eure gourmande,restaurant,Le Havre,"16 Place Désiré Rebeuf, 76600, Le Havre",76600,,49.4860362,0.135514
 2713674918,node,Quai des délices,restaurant,Le Havre,"57 Rue Marceau, 76600, Le Havre",76600,,49.4869297,0.1354144
 2720710038,node,Waka Waka,restaurant,Le Havre,"94 Rue Casimir Delavigne, 76600, Le Havre",76600,,49.4956711,0.1244973
+2722000179,node,,viewpoint,Le Havre,,,,49.5029872,0.0925366
 2760756405,node,La Grillade,restaurant,Le Havre,53 Rue Louis Caron,,,49.7593891,0.3626595
 2830393801,node,Allouvi,restaurant,Le Havre,,,,49.761181,0.365491
 2830402401,node,Le Big Ben,restaurant,Le Havre,"12 Place Nicolas Selle, 76400, Fécamp",76400,https://www.brasserielebigben.fr,49.760398,0.367116
@@ -156,6 +244,8 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2830513401,node,Au Gré du Vent,restaurant,Le Havre,,,,49.758978,0.361989
 2833193604,node,Le Daniel's,restaurant,Le Havre,"5 Place Nicolas Selle, 76400, Fécamp",76400,,49.760256,0.367362
 2833195202,node,Le Repaire,restaurant,Le Havre,"7 Rue Vicomté, 76400, Fécamp",76400,,49.7602482,0.3670284
+2886711029,node,Abbé Cochet,memorial,Le Havre,,,,49.498968,0.107638
+2889528401,node,Lanterne des Morts,memorial,Le Havre,,,,49.769802,0.485679
 2913281099,node,Hôtel d'Angleterre,hotel,Le Havre,,,,49.7060354,0.2036234
 2913282402,node,Brasserie de l'Abbaye,restaurant,Le Havre,"1 Place François Mitterrand, 76290, Montivilliers",76290,,49.5450135,0.1918321
 2913282409,node,La Fourchette,restaurant,Le Havre,,,,49.7601117,0.3671775
@@ -164,17 +254,21 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2913368128,node,Le Fécamp,hotel,Le Havre,,,,49.5722067,0.4695222
 2913368129,node,Pizza Mariana,restaurant,Le Havre,,,,49.5713766,0.4705413
 2916438595,node,Hôtel Les Loges,hotel,Le Havre,"81 Rue de la Gare, 76790, Les Loges",76790,https://hotelleslogesdetretat.com/,49.7002523,0.2819438
+2917429347,node,La Vierge Noire,attraction,Le Havre,,,,49.5031587,0.1662965
+2989558633,node,Château d'Angerval,castle,Le Havre,,,,49.788864,0.494626
 2992068733,node,Le Molière,restaurant,Le Havre,"10 Place Charles de Gaulle, 76400, Fécamp",76400,,49.757163,0.376782
-3018617858,node,V.I. Pizz,restaurant,Le Havre,,,,49.5886629,0.2814206
 3037207252,node,La Falaise,restaurant,Le Havre,,,,49.739199,0.311547
 3100549736,node,Auberge du Fond-Pitron,hotel,Le Havre,,,,49.730674,0.336597
 3119271122,node,Carmin,hotel,Le Havre,"15 Rue Georges Braque, 76600, Le Havre",76600,,49.494874,0.1054936
 3125733254,node,La Sardaigne,restaurant,Le Havre,"6 Rue Jean de La Fontaine, 76600, Le Havre",76600,,49.4877793,0.1128852
 3238509208,node,Wok grill,restaurant,Le Havre,"70 Quai des Antilles, 76600, Le Havre",76600,http://www.wokgrill.fr,49.4901595,0.1322611
 3393989390,node,Le Petit Saint-Pierre,restaurant,Le Havre,,,,49.7393123,0.3104494
+3396201897,node,,viewpoint,Le Havre,,,,49.7175338,0.2230452
 3414934916,node,,hotel,Le Havre,,,,49.7083353,0.203487
 3414934917,node,Le Bicorne,restaurant,Le Havre,"5 Boulevard Président René Coty, 76790, Étretat",76790,https://le-bicorne.fr/,49.7083778,0.2034623
+3551901100,node,Sissi,memorial,Le Havre,,,,49.8049898,0.5305302
 3551901102,node,Les 3 Roses,restaurant,Le Havre,,,,49.8063034,0.5291824
+3551901105,node,,memorial,Le Havre,,,,49.804505,0.5289625
 3677285555,node,Les Enfants Sages,restaurant,Le Havre,"20 Rue Gustave Lennier, 76600, Le Havre",76600,https://www.restaurant-lesenfantssages.com/,49.4889073,0.1083263
 3745178778,node,Il Girasole Ristorante,restaurant,Le Havre,,,,49.5076567,0.2248508
 3747925839,node,Crêperie La Grange,restaurant,Le Havre,"Front de Mer, 76790, Étretat",76790,,49.7080599,0.2020502
@@ -186,28 +280,115 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4061268928,node,La Voile Bleue,restaurant,Le Havre,,,,49.491854,0.0973809
 4064706569,node,La table du Pradon,restaurant,Le Havre,,,,49.512532,0.236045
 4131514755,node,Dai Duong,restaurant,Le Havre,"67 Rue de Richelieu, 76600, Le Havre",76600,,49.489352,0.1060875
+4319272098,node,Galerie Hamon,gallery,Le Havre,,,https://www.galeriehamon.com/,49.4926708,0.1094948
+4334127865,node,Épingle à nourrice,artwork,Le Havre,,,,49.5004641,0.1579811
+4334127866,node,Clôture musicale,artwork,Le Havre,,,,49.5046898,0.1389669
+4334127867,node,Attrape Nuages,artwork,Le Havre,,,,49.5026972,0.1191749
+4334127868,node,Le Rouge et le Le Noir,artwork,Le Havre,,,,49.5207308,0.0786145
+4334127869,node,Épingle à Linge,artwork,Le Havre,,,,49.5170079,0.1194538
+4334127870,node,Les Oiseaux,artwork,Le Havre,,,,49.4928373,0.1078063
+4334127871,node,L'Été,artwork,Le Havre,,,,49.493535,0.1031313
+4334127872,node,Les Jambes,artwork,Le Havre,,,,49.4935533,0.101648
+4334127873,node,La Rolande,artwork,Le Havre,,,,49.4936352,0.1000937
+4334127874,node,Danse Printanière,artwork,Le Havre,,,,49.4848834,0.1043396
+4334127875,node,Maternité,artwork,Le Havre,,,,49.5074513,0.1073987
+4334127876,node,Christ,artwork,Le Havre,,,,49.5021354,0.1594013
+4334156775,node,La Main,artwork,Le Havre,,,,49.4905494,0.1066687
+4334156776,node,Monument commémoratif de la Résistance et de la Déportation,monument,Le Havre,,,,49.4932571,0.1074993
+4334156777,node,Monument aux Morts de la Guerre d'Indochine,memorial,Le Havre,,,,49.4907117,0.1081912
+4334156778,node,Baigneur et Baigneuse,artwork,Le Havre,"76600, Le Havre",76600,,49.4941208,0.1249892
+4335436700,node,Hercule terrassant l'Hydre de Lerne,artwork,Le Havre,98 Avenue Foch,,,49.4929544,0.1058178
+4335436701,node,Corsaire avec sabre,artwork,Le Havre,94 Avenue Foch,,,49.4929735,0.1054798
+4335436702,node,"Archéologues et érudits (Gabriel Monod, Charles Vesque, Abbé Cochet, Alphonse Martin)",artwork,Le Havre,,,,49.4930442,0.1033147
+4335436703,node,"Médecins (Docteur Soret, Docteur Richard)",artwork,Le Havre,,,,49.4930548,0.1029885
+4335436704,node,"Naturalistes (Charles-Alexandre Lesueur, Gustave Lennier, Abbé Dicquemare)",artwork,Le Havre,,,,49.4930656,0.1026553
+4335436705,node,"Musiciens et sculpteurs (André Caplet, Henry Woollett, Pierre Haumont, Pierre Beauvallet)",artwork,Le Havre,,,,49.4930925,0.1018033
+4335436706,node,"Peintres (Raymond Lecourt, Georges Binet, Othon Friesz, Raoul Dufy)",artwork,Le Havre,,,,49.4931199,0.1009234
+4335436707,node,"L’industrie (Caillard, Dubosc, Evers)",artwork,Le Havre,,,,49.4931277,0.1006562
+4335436708,node,"La construction navale (Nillus, Mazeline, Normand)",artwork,Le Havre,,,,49.4931622,0.0995922
+4335436709,node,Le Footballeur,artwork,Le Havre,,,,49.4930903,0.0988789
+4335481936,node,"Écrivains du XVIIe siècle (M. et Mme Lafayette, G. et M. de Scudéry)",artwork,Le Havre,,,,49.4937686,0.1033026
+4335481937,node,Écrivain du XVIe siècle (Guillaume de Marceilles),artwork,Le Havre,,,,49.4937655,0.1033998
+4335481938,node,Les écrivains : Bernardin de Saint-Pierre / 1737-1814,artwork,Le Havre,"4 Rue Raoul Dufy, 76600, Le Havre",76600,,49.4938603,0.103027
+4335481939,node,Les écrivains : Casimir Delavigne / 1793 1843,artwork,Le Havre,"8 Rue Raoul Dufy, 76600, Le Havre",76600,,49.4939648,0.1030348
+4335481940,node,"Écrivains du XIXe siècle (Ancelot, L. Buquet, J. Tellier)",artwork,Le Havre,"14 Rue Raoul Dufy, 76600, Le Havre",76600,,49.4942246,0.1030542
+4335481942,node,Les fondateurs : Jérôme Bellarmato,artwork,Le Havre,,,,49.4937366,0.1044015
+4335481943,node,Les fondateurs : Amiral du Chillou,artwork,Le Havre,,,,49.4937271,0.1047268
+4335481944,node,Les fondateurs : Jacques d’Estimauville,artwork,Le Havre,"89 Avenue Foch, 76600, Le Havre",76600,,49.4937462,0.104022
+4335481945,node,Les fondateurs : Michel Ferré,artwork,Le Havre,"107 Avenue Foch, 76600, Le Havre",76600,,49.4937201,0.1049863
+4335481946,node,"Les aviateurs (Hubert Latham, G. Guérin, Jean Maridor, R. Le Bihan et G. Fifre)",artwork,Le Havre,"117 Avenue Foch, 76600, Le Havre",76600,,49.4936931,0.1057976
+4335494930,node,Soldat du Moyen-âge,artwork,Le Havre,178 Boulevard François 1er,,,49.4923683,0.0995855
+4335494931,node,Femme au hennin,artwork,Le Havre,174 Boulevard François 1er,,,49.4921173,0.0995663
+4337226574,node,Plaque commémorative Jules Durand,memorial,Le Havre,,,,49.4829606,0.1373804
+4337226575,node,Les Hémisphères,artwork,Le Havre,"Rue Paul Marion, 76600, Le Havre",76600,,49.4837216,0.1329636
+4337226579,node,Baleine,artwork,Le Havre,,,,49.4905537,0.118414
+4337285570,node,"Oh, ce sera beau !",artwork,Le Havre,,,,49.511594,0.0935253
+4337285571,node,"Oh, ce sera beau !",artwork,Le Havre,,,,49.504961,0.1169343
+4337285572,node,"Oh, ce sera beau !",artwork,Le Havre,,,,49.5069505,0.1276613
+4337285573,node,"Oh, ce sera beau !",artwork,Le Havre,,,,49.5039908,0.1260642
+4337285574,node,"Oh, ce sera beau !",artwork,Le Havre,,,,49.5159157,0.1198369
+4337285575,node,"Oh, ce sera beau !",artwork,Le Havre,,,,49.5097753,0.1425072
+4337285576,node,"Oh, ce sera beau !",artwork,Le Havre,,,,49.5094967,0.1545053
+4337285577,node,"Oh, ce sera beau !",artwork,Le Havre,,,,49.5151952,0.1721325
+4337285578,node,"Oh, ce sera beau !",artwork,Le Havre,,,,49.4823884,0.1616226
+4337285579,node,"Oh, ce sera beau !",artwork,Le Havre,,,,49.4872665,0.1024294
+4337285580,node,L'art dans la rue,artwork,Le Havre,,,,49.4869978,0.10266
+4337285581,node,"Oh, ce sera beau !",artwork,Le Havre,,,,49.4880803,0.1021108
 4337921699,node,Changma,restaurant,Le Havre,"4 Rue du Roi Albert, 76310, Sainte-Adresse",76310,,49.5026946,0.0857757
 4342896273,node,Le Phare,restaurant,Le Havre,"32 Promenade André Duroméa, 76600, Le Havre",76600,,49.4960752,0.0924543
+4342896274,node,Ulysse,artwork,Le Havre,,,,49.5043275,0.0775511
 4415600533,node,La Cave du Salut,restaurant,Le Havre,7 Quai de la Vicomté,,,49.7607507,0.3664398
+4457988355,node,,memorial,Le Havre,,,,49.7590425,0.3666088
 4469733652,node,Le Tom'Jo,restaurant,Le Havre,"37 Le Bourg, 76790, Les Loges",76790,,49.6989259,0.2819561
 4473603506,node,"Bar, Restaurant, Pension ""Au Bec Fin""",restaurant,Le Havre,"9 Avenue Marcel le Mignot, 76700",76700,,49.5020193,0.2150811
 4475397597,node,Pizza del Mondo,restaurant,Le Havre,9-11 Place Victor Hugo,,https://www.pizza-delmondo.com/,49.5064353,0.1990632
 4510937742,node,La P'tite Auberge,restaurant,Le Havre,"20 Rue du Havre, 76170, Lillebonne",76170,,49.5194741,0.5319167
+4558790110,node,,memorial,Le Havre,,,,49.4753426,0.6338098
+4561543994,node,,castle,Le Havre,,,,49.7661245,0.5460483
+4732909963,node,,memorial,Le Havre,,,,49.7887673,0.4517786
 4798529310,node,Oyster club,restaurant,Le Havre,"27 Rue Alphonse Karr, 76790, Étretat",76790,,49.7072072,0.2029384
 4881320021,node,Sans détour,hotel,Le Havre,,,,49.4922834,0.1158505
 4881326521,node,La petite gourmandise,restaurant,Le Havre,"68 Rue des Drapiers, 76600, Le Havre",76600,,49.4876772,0.110223
 4913327736,node,L'Escale Gourmande,restaurant,Le Havre,,,,49.5198395,0.5288162
+4939771153,node,,memorial,Le Havre,,,,49.7532041,0.523672
+4954327090,node,,viewpoint,Le Havre,,,,49.7058478,0.1934699
+4954346848,node,,viewpoint,Le Havre,,,,49.706523,0.1949027
+4971946522,node,WW II: Abri fortifié,ruins,Le Havre,,,,49.7664469,0.3814615
+4988622126,node,Musée Gallo-Romain Juliobona,museum,Le Havre,,,https://musee-juliobona.cauxseine.fr/,49.5182553,0.5366071
 4988622127,node,La Moule en Fête,restaurant,Le Havre,,,,49.518187,0.5363172
 4993904231,node,Pizzeria de l'abbaye,restaurant,Le Havre,,,,49.5561209,0.4844387
+4996819684,node,,monument,Le Havre,,,,49.6391959,0.2213063
+5034216321,node,Forum de Juliobona,ruins,Le Havre,,,,49.518708,0.5344852
+5034216421,node,Les thermes de Juliobona,ruins,Le Havre,,,,49.5209718,0.5351603
 5035403421,node,Les calètes,restaurant,Le Havre,,,,49.5070829,0.1981045
+5049654333,node,"Albert 1er, Roi des Belges",artwork,Le Havre,,,,49.5027032,0.086347
 5049654334,node,Le Grand Large,restaurant,Le Havre,"11 Place Clemenceau, 76310, Sainte-Adresse",76310,,49.5025858,0.08551
 5049654335,node,La petite rade,hotel,Le Havre,"3-5 Place Clemenceau, 76310, Sainte-Adresse",76310,https://www.lapetiteradehotel-lehavre.com/,49.5023684,0.0859642
+5107561030,node,,memorial,Le Havre,,,,49.6467509,0.3674177
 5119562835,node,Le 6ème Sens,restaurant,Le Havre,"8 b Rue Émile Benard, 76110, Goderville",76110,,49.6455024,0.3676711
+5146003964,node,Château de Cuverville,castle,Le Havre,,,,49.6590166,0.2731508
+5146003985,node,Château de Beuzeville-la-Grenier,castle,Le Havre,,,,49.5832521,0.4307681
+5170025550,node,,memorial,Le Havre,,,,49.717543,0.25093
+5170039590,node,,memorial,Le Havre,,,,49.6715295,0.1889517
+5170039591,node,,memorial,Le Havre,,,,49.6830009,0.2023594
+5170077076,node,,memorial,Le Havre,,,,49.6160152,0.1469245
 5218834714,node,Restaurant La Boucane,restaurant,Le Havre,"12 Grand Quai, 76400, Fécamp",76400,https://www.la-boucane.com/,49.7619073,0.3682169
+5231130459,node,,monument,Le Havre,,,,49.7478319,0.3749299
+5241693442,node,Monuments aux morts,memorial,Le Havre,,,,49.4905036,0.1080894
 5324651924,node,Le Tilleulais,restaurant,Le Havre,"759 Route du Havre, 76790, Le Tilleul",76790,https://www.letilleulais.fr/,49.6827658,0.2019958
+5627621376,node,,viewpoint,Le Havre,,,,49.7111652,0.2051197
+5674584550,node,,viewpoint,Le Havre,,,,49.6495785,0.1576736
+5772707638,node,,memorial,Le Havre,,,,49.5715082,0.4709017
 5809220411,node,Hoa Binh,restaurant,Le Havre,"44 Bis Rue Alphonse Karr, 76790, Étretat",76790,,49.7076477,0.2019154
+5821270320,node,Porte d'Aval,attraction,Le Havre,,,,49.7072382,0.1937601
 5827743993,node,Au Bureau,restaurant,Le Havre,"76290, Montivilliers",76290,,49.5245772,0.1910863
 5827743998,node,Flunch,restaurant,Le Havre,"76290, Montivilliers",76290,https://restaurant.flunch.fr/montivilliers/flunch-le-havre-montivilliers/,49.5279176,0.1897654
+5848665645,node,,viewpoint,Le Havre,,,,49.7042537,0.1892593
+5868830675,node,,viewpoint,Le Havre,,,,49.8104028,0.4934035
+5876711315,node,,viewpoint,Le Havre,,,,49.546801,0.0849069
+5964801553,node,Buste de Jules Durand,memorial,Le Havre,,,,49.4912576,0.1261568
+6185688024,node,Vrille,artwork,Le Havre,,,,49.4944071,0.2656493
+6185688061,node,Vrille,artwork,Le Havre,,,,49.4951539,0.2672946
 6188054775,node,Le 129ème,restaurant,Le Havre,"76600, Le Havre",76600,,49.4914704,0.1186598
 6188281705,node,Kyriad Hôtel,hotel,Le Havre,"5 Rue des Castors, 76290, Montivilliers",76290,https://www.kyriad.com/fr-fr/nos-hotels/france/normandie/hotels-montivilliers/,49.5331586,0.1802727
 6191911297,node,Campanile,restaurant,Le Havre,"76700, Gonfreville-l'Orcher",76700,,49.5103708,0.229142
@@ -216,80 +397,192 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 6298899919,node,Juste-à-Côté,restaurant,Le Havre,"18 Avenue Maréchal de Lattre de Tassigny, 76430, Saint-Romain-de-Colbosc",76430,,49.5311748,0.3492363
 6298919085,node,Café des Halles,restaurant,Le Havre,"14 Rue François Hanin, 76430, Saint-Romain-de-Colbosc",76430,,49.5293881,0.3586515
 6298922365,node,Sénaka Sushi,restaurant,Le Havre,,,https://senaka-sushi.metro.rest/,49.5297565,0.3576362
+6299286534,node,UP#3,artwork,Le Havre,,,,49.4937315,0.0922274
+6299289270,node,Jusqu’au bout du monde,artwork,Le Havre,,,,49.48772,0.0927749
 6299766432,node,L'Atelier,restaurant,Le Havre,"12 Rue Alphonse Karr, 76790, Étretat",76790,,49.706987,0.2035663
+6310404979,node,Pointe de l’étrave du paquebot France,artwork,Le Havre,,,,49.4859744,0.114732
+6328467788,node,,memorial,Le Havre,,,,49.4919311,0.1194589
 6334517785,node,Le Bistretatais,restaurant,Le Havre,17 Rue Adolphe Boissaye,,https://www.etretat-le-bistretatais.fr/,49.7084505,0.2030904
+6404868080,node,Hommage aux Marins Terre-Neuvas,memorial,Le Havre,,,,49.7670685,0.3711018
+6406174443,node,Leon Dufour,memorial,Le Havre,,,,49.7557077,0.3768211
+6415680838,node,Hommage aux Marins,memorial,Le Havre,,,,49.7393185,0.3102279
+6415706724,node,,memorial,Le Havre,,,,49.7370889,0.3142265
+6450693588,node,Arrêt du petit train touristique,attraction,Le Havre,,,,49.7001284,0.2157977
+6450693589,node,"Le Clos Lupin, Maison Maurice Leblanc",attraction,Le Havre,"15 Rue Guy de Maupassant, 76790, Étretat",76790,,49.7060544,0.2069583
+6492636840,node,Monument commémorant la destruction totale dela commune en septembre 1944,monument,Le Havre,,,,49.5348732,0.146257
+6542067378,node,,memorial,Le Havre,,,,49.6434744,0.1621493
+6553576691,node,Cloche du camp Tareyton,memorial,Le Havre,,,,49.5151502,0.1402834
+6611694119,node,Les Oiseaux (Passaros),artwork,Le Havre,,,,49.4900624,0.1063514
 6682178585,node,Le Bel Ami,restaurant,Le Havre,"25 Rue Alphonse Karr, 76790",76790,https://www.lebelami.com/,49.7071372,0.203153
 6726977885,node,The Architect,restaurant,Le Havre,"55 Quai de Southampton, 76600, Le Havre",76600,https://www.thearchitect.fr/,49.486076,0.1093223
 6727007204,node,Asian Kitchen,restaurant,Le Havre,"11 bis Rue Jules Lecesne, 76600, Le Havre",76600,,49.4941201,0.1104413
+6751070369,node,Statue de François 1er,artwork,Le Havre,,,,49.489634,0.1101617
+6769578042,node,Gouzou,artwork,Le Havre,,,,49.5045088,0.1206609
+6769578043,node,Gouzou,artwork,Le Havre,,,,49.5035534,0.1210746
+6769578044,node,Gouzou,artwork,Le Havre,,,,49.5033638,0.1205529
+6769578045,node,Gouzou,artwork,Le Havre,,,,49.5023174,0.1185487
+6776633715,node,Impact,artwork,Le Havre,,,,49.4904609,0.1090087
+6776633716,node,Jardins Fantômes,artwork,Le Havre,,,,49.4890886,0.1109364
 6795269904,node,L'atelier pizza du Tilleul,restaurant,Le Havre,"1 Rue Élisée Reclus, 76600, Le Havre",76600,http://www.pizzadutilleul.fr/,49.5025528,0.1628933
+6797151332,node,,viewpoint,Le Havre,,,,49.4843499,0.1074541
+6817997305,node,Stele Perrey,memorial,Le Havre,,,,49.4885325,0.0983046
 6856173469,node,Saïgon,restaurant,Le Havre,"106 Rue d'Étretat, 76600, Le Havre",76600,,49.497287,0.098119
+6900324283,node,Monument aux Morts,memorial,Le Havre,,,,49.7030168,0.4498601
 7043372695,node,Le Punjab,restaurant,Le Havre,"7 Rue du Général Faidherbe, 76600, Le Havre",76600,,49.4879315,0.1117711
 7043372700,node,Le Margote,restaurant,Le Havre,"50 Quai Michel Féré, 76600, Le Havre",76600,,49.4894879,0.1113499
+7083757734,node,,memorial,Le Havre,,,,49.5221907,0.5301495
+7086554365,node,,viewpoint,Le Havre,,,,49.7392258,0.3080181
+7089835925,node,Le Havre Art Base,gallery,Le Havre,"76600, Le Havre",76600,https://lhartbase.wixsite.com/lhab,49.504766,0.1224455
 7195433476,node,Kinii,restaurant,Le Havre,"76290, Montivilliers",76290,https://kinii-restaurant-montivilliers.eatbu.com/,49.5262463,0.1883035
 7440961483,node,La Singerie,restaurant,Le Havre,"13 Rue Bernardin de Saint-Pierre, 76600, Le Havre",76600,https://www.la-singerie.com/,49.4905543,0.1049781
+7462886768,node,,artwork,Le Havre,,,,49.5155943,0.1474442
+7462886769,node,,artwork,Le Havre,,,,49.5151725,0.1449384
 7596195287,node,Saint-Christophe,hotel,Le Havre,"25 Rue du Maréchal Leclerc, 76790, Le Tilleul",76790,https://www.saintchristophehotel.fr/,49.6827891,0.2022725
 7638452014,node,L'Huitrière,restaurant,Le Havre,,,,49.7072883,0.201013
 7640042485,node,Les Roches Blanches,restaurant,Le Havre,,,,49.7095365,0.2038228
+7649054348,node,Passé négrier de la ville,memorial,Le Havre,,,,49.4842696,0.1020882
+7649094028,node,Seconde Guerre Mondiale,memorial,Le Havre,,,,49.4840922,0.1027562
+7649094029,node,Seconde Guerre Mondiale,memorial,Le Havre,,,,49.4858761,0.1008074
 7649136459,node,L'Havrais bière,restaurant,Le Havre,"1 Rue de Paris, 76600, Le Havre",76600,https://lhavraisbiere.fr/,49.4855156,0.1071031
 7714436233,node,Cantine scolaire,restaurant,Le Havre,,,,49.5916428,0.428039
+7724290626,node,,memorial,Le Havre,,,,49.71123,0.2071537
 7736073193,node,Etretat Aventure,hotel,Le Havre,,,https://etretat-aventure.fr/,49.6855537,0.2660993
+7772396844,node,Plage de Vaucottes,beach,Le Havre,,,,49.7380413,0.2908842
+7793731072,node,Apparitions,artwork,Le Havre,,,,49.4861509,0.1070659
+7793763517,node,Apparitions,artwork,Le Havre,,,,49.4859631,0.1088425
+7793770891,node,Jardins Fantômes,artwork,Le Havre,,,,49.4887898,0.1098709
+7793786264,node,Monsieur Goéland,artwork,Le Havre,,,,49.4876179,0.10819
+7793797525,node,Parabole,artwork,Le Havre,,,,49.5041004,0.1810524
+7798893539,node,Apparitions,artwork,Le Havre,,,,49.4861032,0.1074419
 7852417569,node,La Crêperie,restaurant,Le Havre,"5 Rue de l'Hôtel de Ville, 76430, Saint-Romain-de-Colbosc",76430,,49.5287509,0.3580994
 7862627423,node,Comme Chez Nous,restaurant,Le Havre,,,,49.5914469,0.4270561
 7884982034,node,Fujiya-Sushi,restaurant,Le Havre,"30 Cours de la République, 76600, Le Havre",76600,https://fujiyasushi.fr/restaurants-japonais-le-havre-fujiya-sushi/,49.4936779,0.1254902
+7889416386,node,,viewpoint,Le Havre,,,,49.4646502,0.4389198
+7889425985,node,,viewpoint,Le Havre,,,,49.4624404,0.4326071
+7889427785,node,,viewpoint,Le Havre,,,,49.460672,0.4270033
 8016549890,node,cercle mixte,restaurant,Le Havre,,,,49.5053232,0.1787956
 8016876866,node,Stadium bar & grill,restaurant,Le Havre,,,,49.4995445,0.1707735
+8081693471,node,,memorial,Le Havre,,,,49.5284601,0.3590051
 8121171683,node,Hôtel Le Bec au Cauchois,hotel,Le Havre,"22 Rue André Fiquet, 76540, Valmont",76540,,49.7446113,0.4920628
 8121171685,node,"Restaurant Pierre Caillet, Le Bec au Cauchois",restaurant,Le Havre,"22 Rue André Fiquet, 76540, Valmont",76540,https://maisoncaillet.com/,49.7446263,0.491909
 8225278266,node,Hôtel du Commerce,restaurant,Le Havre,,,,49.6510312,0.5919362
 8231978911,node,Voiture Bar-Restaurant l'Aiguillage,restaurant,Le Havre,,,http://velo-rails-etretat.fr/train-restaurant/,49.7017211,0.2838931
+8231978913,node,,memorial,Le Havre,,,,49.6993016,0.2821438
 8235655761,node,Le Nautique,restaurant,Le Havre,,,,49.7379108,0.3131463
+8319736166,node,"Maison des Croyances, Vie d'Antan et Traditions du Terroir",museum,Le Havre,,,,49.8074586,0.4952819
+8473520238,node,,memorial,Le Havre,,,,49.5367646,0.4527354
 8570052752,node,Hôtel-Restaurant Le Carnot,restaurant,Le Havre,,,https://lecarnot.fr,49.5731607,0.472918
 8570052789,node,,restaurant,Le Havre,,,,49.5719035,0.4720451
+8580838411,node,,memorial,Le Havre,,,,49.5747646,0.4195223
+8615979863,node,,memorial,Le Havre,,,,49.610146,0.3560472
 8626746131,node,O Fourno,restaurant,Le Havre,"13 Rue Chevalier, 76600, Le Havre",76600,,49.4893608,0.112953
 8699432814,node,Restaurant de Bolleville,restaurant,Le Havre,,,,49.5988538,0.5627885
+8703125655,node,,memorial,Le Havre,,,,49.6128731,0.5969499
+8956540924,node,,memorial,Le Havre,,,,49.804911,0.528651
 9016423025,node,La table de Benoît,restaurant,Le Havre,,,https://www.fecampclick.fr/tabledebenoit.html,49.7575468,0.3779274
 9016659684,node,Le Nomad,restaurant,Le Havre,,,,49.7582448,0.3770856
 9029852760,node,Pizza du Tilleul,restaurant,Le Havre,,,,49.6803802,0.200184
 9105906071,node,Le Cabestan et sa Plume,restaurant,Le Havre,,,,49.7392337,0.3095021
 9105967100,node,La Sirene,restaurant,Le Havre,,,,49.7392589,0.3095872
 9106180381,node,La Sirene,hotel,Le Havre,,,,49.7392285,0.3096962
+9108289224,node,,artwork,Le Havre,,,,49.7105969,0.2054089
+9108289225,node,,artwork,Le Havre,,,,49.7103333,0.2066159
+9197836527,node,,viewpoint,Le Havre,,,,49.698687,0.1833654
+9199311641,node,,viewpoint,Le Havre,,,,49.6689341,0.1603109
 9204394738,node,Le Pure,restaurant,Le Havre,"93 Quai de Southampton, 76600, Le Havre",76600,https://www.restaurant-lepure-lehavre.com/,49.4866523,0.1108208
+9236298915,node,morceau du mur de Berlin,attraction,Le Havre,,,,49.5020348,0.2175345
+9264111644,node,Parc du Telhuet,park,Le Havre,,,,49.4964586,0.579254
+9315788881,node,,viewpoint,Le Havre,,,,49.8235963,0.5217374
+9315788882,node,,viewpoint,Le Havre,,,,49.8203159,0.5149982
+9366184264,node,,memorial,Le Havre,,,,49.5061264,0.0849877
+9483755235,node,ancien bac du Hode,ruins,Le Havre,,,,49.4451172,0.3644869
 9507558529,node,Ristorante Al Dente,restaurant,Le Havre,,,,49.4907682,0.105633
+9597073511,node,"city stade, boulodrome",park,Le Havre,,,,49.6976745,0.3487571
+9597149721,node,Circuit vtt/bmx,park,Le Havre,,,,49.6979186,0.3491191
 9651065561,node,Big Moh,restaurant,Le Havre,"7 Avenue du 8 Mai 1945, 76610, Le Havre",76610,,49.5134871,0.162806
+9870678474,node,,viewpoint,Le Havre,,,,49.7069536,0.1940773
 9872306566,node,Coté Mer,restaurant,Le Havre,20 Rue du Général Leclerc,,https://cotemeretretat.wixsite.com/restaurantcotemer,49.7080107,0.2019556
+9899147615,node,Jardin du théâtre antique,garden,Le Havre,,,,49.517912,0.5371759
 9908261761,node,Le Glacier d'Étretat,restaurant,Le Havre,"3 Boulevard Président René Coty, 76790, Étretat",76790,,49.7083174,0.2035109
 9934079628,node,Cantine,restaurant,Le Havre,,,,49.4874116,0.112127
+9965444431,node,Les jardins de Louanne & K,park,Le Havre,Route de Ganzeville,,https://www.lesjardinsdelouanne.com/,49.7463737,0.4026803
+10047741965,node,,viewpoint,Le Havre,,,,49.7068225,0.1986375
+10047894671,node,,viewpoint,Le Havre,,,,49.7104871,0.2042123
+10054400538,node,Gold Coast,artwork,Le Havre,,,,49.4844942,0.1017007
 10056873481,node,La Bise,restaurant,Le Havre,"1 Rue Maurice Taconet, 76310, Sainte-Adresse",76310,,49.5032305,0.0820385
 10064675603,node,Les Fauves,restaurant,Le Havre,"2 Boulevard Clemenceau, 76600, Le Havre",76600,,49.4848484,0.1029356
+10064710244,node,Sans titre,artwork,Le Havre,,,,49.4963988,0.096611
+10065295056,node,Volubiles pour Aimé (cylindre végétal),artwork,Le Havre,,,,49.4938335,0.1231541
 10065307337,node,Hilton Garden Inn Le Havre Centre,hotel,Le Havre,"128 Boulevard Clemenceau, 76600, Le Havre",76600,https://www.hilton.com/en/hotels/lehlhgi-hilton-garden-inn-le-havre-centre,49.4899549,0.0978114
+10106090315,node,Sorcière de la mer,artwork,Le Havre,,,,49.4865547,0.1126095
+10106102955,node,Sisyphus Casemate,artwork,Le Havre,,,,49.5053251,0.0939938
+10106115983,node,Le Temps Suspendu,artwork,Le Havre,,,,49.5035022,0.0928562
+10106125202,node,Algues et coquillages (bancs),artwork,Le Havre,,,,49.4892214,0.1132138
 10106162049,node,A-Bento,restaurant,Le Havre,"66 Rue du Maréchal Gallieni, 76600, Le Havre",76600,,49.4963774,0.1123497
+10132733835,node,Mascarade Gallery,gallery,Le Havre,"8 Rue Jean Macé, 76600, Le Havre",76600,,49.4875781,0.109514
 10135626612,node,Maison M,restaurant,Le Havre,"91 Quai Colbert, 76600, Le Havre",76600,,49.4923683,0.129073
 10137337244,node,L'Atlas,restaurant,Le Havre,"21 Rue des Galions, 76600, Le Havre",76600,https://normandieresto.com/restaurant/latlas-couscous-le-havre/,49.4867178,0.1098615
 10169451288,node,L'Atelier,restaurant,Le Havre,"47 Place Jules Ferry, 76600, Le Havre",76600,,49.4920562,0.1111611
+10171339953,node,Château du Bec-Crespin,castle,Le Havre,,,,49.5974585,0.2073754
 10197128373,node,Le Cardinal,restaurant,Le Havre,"107 Boulevard de Strasbourg, 76600, Le Havre",76600,https://restaurant-le-cardinal.fr/,49.4930032,0.1148332
+10208414406,node,L'Heure du bain,artwork,Le Havre,,,,49.7621671,0.3635244
+10250833187,node,,viewpoint,Le Havre,,,,49.7672832,0.3679074
 10255621558,node,La Tablée,restaurant,Le Havre,"69 Rue Guillemard, 76600, Le Havre",76600,https://la-tablee.fr/,49.4975363,0.0940513
+10604318547,node,Eric Baudet,gallery,Le Havre,"121 Avenue Foch, 76600, Le Havre",76600,https://galerie-ericbaudet.fr/,49.4936971,0.1059859
+10609197259,node,,viewpoint,Le Havre,,,,49.6428497,0.1530201
+10609218415,node,,artwork,Le Havre,,,,49.6388256,0.1862656
+10651983808,node,,viewpoint,Le Havre,,,,49.7064983,0.1977338
 10652329838,node,Le Barbican,hotel,Le Havre,,,,49.760455,0.36765
+10696612532,node,,memorial,Le Havre,,,,49.7669936,0.3710626
+10696612533,node,Fécamp Capitale des Terre-Neuvas,viewpoint,Le Havre,,,,49.7667633,0.3708507
+10706553309,node,500 ans du Havre,memorial,Le Havre,,,,49.4904943,0.1084114
+10797310096,node,,memorial,Le Havre,,,,49.5284128,0.358694
+10816776121,node,Conservatoire Maritime du Havre,museum,Le Havre,"Quai du Brésil, 76600, Le Havre",76600,https://conservatoire-maritime.com/,49.4826391,0.1276649
 10840205693,node,Le Resto,restaurant,Le Havre,"37 Quai de la Saône, 76600, Le Havre",76600,https://lehangarzero.fr/,49.483123,0.1365227
 10856018571,node,Restaurant franco-kabyle,restaurant,Le Havre,"23 Avenue René Coty, 76600, Le Havre",76600,,49.4959061,0.1094807
 10856077089,node,Odalys City,hotel,Le Havre,"95 Quai Colbert, 76600, Le Havre",76600,https://www.odalys-vacances.com/location-ville/normandie/le-havre/centre-les-docks.html,49.4926319,0.1297033
 10856077090,node,Odalys City,hotel,Le Havre,"25 Cours du Commandant Fratacci, 76600, Le Havre",76600,https://www.odalys-vacances.com/,49.4914117,0.1228465
 10941743378,node,,restaurant,Le Havre,,,,49.4898099,0.5676044
 10957764505,node,Goût de Moscou,restaurant,Le Havre,"47 Rue de la République, 76700, Harfleur",76700,,49.5072042,0.1991041
+10964111454,node,,viewpoint,Le Havre,,,,49.7183391,0.234365
+10964111455,node,,viewpoint,Le Havre,,,,49.7180271,0.2311655
+10964111456,node,,viewpoint,Le Havre,,,,49.7205331,0.2419732
+10964252332,node,,viewpoint,Le Havre,,,,49.7137057,0.2065619
+11001939679,node,Char Astonia,memorial,Le Havre,,,,49.5416048,0.1593427
+11001939680,node,,memorial,Le Havre,,,,49.5416,0.158944
 11038626969,node,Le rest'au chaud,restaurant,Le Havre,,,,49.6524712,0.5918589
+11047121663,node,Hôtel Dubocage de Bléville - Musée,museum,Le Havre,"1 Rue Jérôme Bellarmato, 76600, Le Havre",76600,http://www.musees-mah-lehavre.fr/musees/hotel-dubocage-bleville,49.488922,0.1143595
+11059304639,node,,viewpoint,Le Havre,,,,49.5149106,0.0673201
+11063562787,node,,artwork,Le Havre,,,,49.4929045,0.5702021
+11064555033,node,,viewpoint,Le Havre,,,,49.5238921,0.0697304
 11074146012,node,Happy-Dock,restaurant,Le Havre,"Chaussée Georges Pompidou, 76600, Le Havre",76600,https://happydock.brasseriemaison.fr/,49.4902385,0.1168991
 11110568606,node,Jilani,restaurant,Le Havre,"79 Rue Émile Zola, 76600, Le Havre",76600,https://pizzeria-jilani.fr/,49.4886704,0.1072192
 11111308841,node,Hôtel d'Angleterre,hotel,Le Havre,,,https://www.boutiquehotel-angleterre-lehavre.com/,49.4940531,0.0993652
 11118816572,node,Don Gusto,restaurant,Le Havre,"79 Rue Louis Brindeau, 76600, Le Havre",76600,,49.4912702,0.1042805
 11132623373,node,Bloom,restaurant,Le Havre,"63 Quai de Southampton, 76600, Le Havre",76600,,49.486188,0.1096212
 11145903909,node,Delhi Kaboul,restaurant,Le Havre,"41 Rue du Général Faidherbe, 76600, Le Havre",76600,,49.4876201,0.1131431
+11151954909,node,,viewpoint,Le Havre,,,,49.7142669,0.2116504
+11151954913,node,,viewpoint,Le Havre,,,,49.7158668,0.2172683
+11151954916,node,,viewpoint,Le Havre,,,,49.7153031,0.2159433
+11155037217,node,,gallery,Le Havre,,,,49.738299,0.3119262
+11155037218,node,,gallery,Le Havre,,,,49.738494,0.3117532
+11159731432,node,,memorial,Le Havre,,,,49.7077506,0.2101041
+11163269813,node,,viewpoint,Le Havre,,,,49.7106333,0.2057386
+11163269814,node,,artwork,Le Havre,,,,49.7106968,0.2073455
+11197350740,node,,memorial,Le Havre,,,,49.5026329,0.1603591
+11198721100,node,,artwork,Le Havre,,,,49.489028,0.1127381
 11198727461,node,Plaanch Grill,restaurant,Le Havre,"8 Avenue du Camp Dolent, 76700, Gonfreville-l'Orcher",76700,,49.505707,0.2230264
 11207680637,node,Smart Appart Le Havre,hotel,Le Havre,"97 Cours de la République, 76600, Le Havre",76600,https://www.smart-appart.fr,49.4965016,0.1268417
+11215891126,node,Monument aux morts,memorial,Le Havre,,,,49.5467813,0.4184222
 11227247100,node,Beef & Wine,restaurant,Le Havre,,,,49.4912226,0.1059339
 11233294563,node,Macicia,restaurant,Le Havre,"6 Rue Saint-Jacques, 76600, Le Havre",76600,https://www.macicia.fr/,49.4861485,0.1076475
+11256169821,node,Ancienne porte de la Léproserie,ruins,Le Havre,,,,49.5302272,0.3568636
 11256810635,node,Origines,restaurant,Le Havre,"61 Rue Casimir Delavigne, 76600, Le Havre",76600,https://www.origines-lehavre.com/,49.4949336,0.1212551
 11260123693,node,La Villa,hotel,Le Havre,"10 Avenue de Verdun, 76790, Étretat",76790,,49.7074301,0.2070896
 11288636998,node,Calice et Mandibule,restaurant,Le Havre,"16 Rue de Paris, 76600, Le Havre",76600,https://www.calice-mandibule.fr/,49.486037,0.1074915
+11302293033,node,Corinne Le Monnier,gallery,Le Havre,"149 Rue Victor Hugo, 76600, Le Havre",76600,,49.4917345,0.1089097
 11310310460,node,La fringale,restaurant,Le Havre,"106 Rue Victor Hugo, 76600, Le Havre",76600,,49.491636,0.1061818
+11310468870,node,Stéphane Padu,gallery,Le Havre,"105 Rue de Paris, 76600, Le Havre",76600,,49.4881354,0.1073212
 11310468964,node,Le Potager,restaurant,Le Havre,"180 Rue de Paris, 76600, Le Havre",76600,,49.4918741,0.1078906
 11313920512,node,Le Bidule,restaurant,Le Havre,"12 Quai Michel Féré, 76600, Le Havre",76600,,49.488177,0.111475
 11313920516,node,Les huit viandes,restaurant,Le Havre,"20 Quai Michel Féré, 76600, Le Havre",76600,,49.488333,0.111428
@@ -304,6 +597,12 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 11331126358,node,La Couscousserie,restaurant,Le Havre,"78 Rue Saint-Jacques, 76600, Le Havre",76600,,49.4868749,0.1094981
 11331191184,node,Saveurs îles Maurice,restaurant,Le Havre,"71 Quai de Southampton, 76600, Le Havre",76600,https://www.restaurant-saveursilemaurice-lehavre.fr/,49.4863038,0.1099256
 11331191187,node,Le Sorrento,restaurant,Le Havre,"77 Quai de Southampton, 76600, Le Havre",76600,,49.4864731,0.1103572
+11341687227,node,Esplanade Jacques Chirac,memorial,Le Havre,,,,49.4870968,0.0984513
+11341687228,node,Esplanade Jacques Chirac,memorial,Le Havre,,,,49.486245,0.0984168
+11345845008,node,,memorial,Le Havre,,,,49.510903,0.2007475
+11351515179,node,Coupes,artwork,Le Havre,,,,49.4926817,0.1246544
+11356646630,node,,artwork,Le Havre,,,,49.4895938,0.1132183
+11357219900,node,,viewpoint,Le Havre,,,,49.7617048,0.368269
 11383826105,node,Le Piasceki,restaurant,Le Havre,4 Rue du Docteur Piasceki,,,49.4937921,0.1393335
 11392367308,node,L'Angle d'Orcher,restaurant,Le Havre,"16 Rue Maurice Thorez, 76700, Gonfreville-l'Orcher",76700,https://www.langledorcher.fr/,49.5026913,0.2354269
 11393689721,node,Les Régates,restaurant,Le Havre,"Quai Éric Tabarly, 76600, Le Havre",76600,https://www.restaurantlesregates.fr/,49.491584,0.0957919
@@ -313,66 +612,488 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 11522304734,node,Mister Cook,restaurant,Le Havre,"2 Route du Havre, 76400, Fécamp",76400,,49.7487383,0.3714092
 11611519797,node,Auberge de Norville,hotel,Le Havre,"6 Rue des Écoles, 76330, Norville",76330,,49.4761731,0.6392301
 11772032899,node,Les Fanfarons,restaurant,Le Havre,"38 Place du Chillou, 76600, Le Havre",76600,,49.491555,0.111056
+11804981972,node,,artwork,Le Havre,,,,49.501208,0.1297756
 11825690894,node,Vert Olive,restaurant,Le Havre,"43 Rue Alphonse Karr, 76790, Étretat",76790,,49.7073868,0.2023013
 11825850657,node,Birgit,hotel,Le Havre,"Quai Colbert, 76600, Le Havre",76600,https://lehavre.hotelbirgit.com/,49.4931742,0.1307178
+11829102754,node,Douville Andrée,gallery,Le Havre,"81 Rue Louis Brindeau, 76600, Le Havre",76600,https://andree-douville.e-monsite.com/,49.4912662,0.104333
 11854356987,node,Le Chillou,restaurant,Le Havre,"41 Rue du Chillou, 76600, Le Havre",76600,,49.4920067,0.1100951
+11876230235,node,,viewpoint,Le Havre,,,,49.4545751,0.3648756
+11876230236,node,,viewpoint,Le Havre,,,,49.4531767,0.3647574
+11876230237,node,,viewpoint,Le Havre,,,,49.450341,0.3649806
 11893600600,node,Chez Dhan,restaurant,Le Havre,,,,49.4912576,0.1164277
 11895980978,node,Le Panorama,restaurant,Le Havre,"1 Promenade François Lebel, 76310, Sainte-Adresse",76310,,49.5041883,0.0779522
 11898417970,node,Le Cabestan et sa Plume,restaurant,Le Havre,,,,49.7392302,0.3093953
 11906547381,node,La Bonne Adresse,hotel,Le Havre,"29 Rue du Général de Gaulle, 76310, Sainte-Adresse",76310,https://www.logishotels.com/fr/hotel/logis-hotel-la-bonne-adresse-118958,49.5032443,0.0887902
+11912315389,node,,viewpoint,Le Havre,,,,49.6841022,0.1641438
+11912656308,node,,viewpoint,Le Havre,,,,49.7825775,0.4190625
+11912711309,node,,viewpoint,Le Havre,,,,49.7663274,0.3725679
 11917587841,node,Quint & Sens,restaurant,Le Havre,"98 Rue du Président Wilson, 76600, Le Havre",76600,,49.4962811,0.1003441
 11917587842,node,Il Padrino,restaurant,Le Havre,"100 Rue du Président Wilson, 76600, Le Havre",76600,,49.4963641,0.1002241
+11941595029,node,La Lune,artwork,Le Havre,,,,49.4944521,0.1015135
 11987783388,node,Giacomo,restaurant,Le Havre,"75 Avenue Rouget de Lisle, 76610, Le Havre",76610,https://giacomo.eatbu.com/,49.5055709,0.1427684
 11990537469,node,La guinguette d'Aboun,restaurant,Le Havre,Rue de la Bouteillerie,,https://www.abountartines.com/,49.5237849,0.1732081
+11991432720,node,Épi,artwork,Le Havre,,,,49.5008411,0.0881304
 12039943507,node,ManéPizza,restaurant,Le Havre,"17 Place de la Mairie, 76133, Manéglise",76133,,49.5653885,0.2558982
+12068210659,node,Parc Viviani,park,Le Havre,,,,49.4922946,0.154497
+12068216274,node,Jardins familiaux,garden,Le Havre,,,,49.4927032,0.1549774
+12068216275,node,Jardins familiaux,garden,Le Havre,,,,49.4917805,0.1541341
 12070304839,node,Sushi Time,restaurant,Le Havre,"1 Rue de l'Étang, 76170, Lillebonne",76170,,49.5200955,0.5363664
+12113287669,node,,viewpoint,Le Havre,,,,49.8111726,0.4927419
 12118160483,node,Le Homard Bleu,restaurant,Le Havre,,,,49.7097585,0.2038789
+12163171382,node,Parc de la Sauvagette,theme_park,Le Havre,"323 RD 6015, 76210, Lanquetot",76210,https://www.lasauvagette.com/,49.5804161,0.5240858
+12163174447,node,La Fontaine enchantée,theme_park,Le Havre,"76290, Fontaine-la-Mallet",76290,https://www.parc-lafontaine-enchantee.com/,49.5294961,0.1431923
 12178236001,node,La Courtine,restaurant,Le Havre,"40 Rue Prosper Brindejont, 76790",76790,,49.7081237,0.2025455
+12216645097,node,,memorial,Le Havre,,,,49.5075563,0.4122964
 12228239108,node,Mona Lisa,restaurant,Le Havre,"52 Rue Raoul Dufy, 76600, Le Havre",76600,https://monalisalehavre.fr/,49.4950486,0.1031363
+12271209951,node,Le Havre Port Center,museum,Le Havre,"Terminal de la Citadelle, 76600, Le Havre",76600,https://lehavreportcenter.com/,49.4851476,0.1166193
 12307368572,node,Crep'eat,restaurant,Le Havre,"76290, Montivilliers",76290,,49.5246872,0.191258
 12307432010,node,Le 66,restaurant,Le Havre,,,,49.5277035,0.190253
 12307590594,node,Tudo Bem,restaurant,Le Havre,"10 Place Albert René, 76600, Le Havre",76600,https://tudo-bem.fr/,49.4888834,0.106101
+12344317954,node,Pacifique,artwork,Le Havre,,,,49.4881273,0.1249574
 12371065547,node,Casino,restaurant,Le Havre,"156 Chaussée Gayant, 76400, Fécamp",76400,,49.760682,0.3741649
 12391367532,node,Le Sophie's,restaurant,Le Havre,,,,49.4761556,0.639217
 12441604176,node,L'Horizon,restaurant,Le Havre,"21 Rue Pierre Semard, 76600, Le Havre",76600,https://restaurantlhorizon.fr/,49.4967576,0.147817
 12475785493,node,Le paradis du fruit,restaurant,Le Havre,"45 Boulevard de Leningrad, 76600, Le Havre",76600,https://www.leparadisdufruit.fr,49.4968484,0.1481901
 12532185498,node,Route 76,restaurant,Le Havre,"6 Route de Criquetot, 76110, Écrainville",76110,,49.6497427,0.3256894
+12546903731,node,,memorial,Le Havre,,,,49.5676334,0.2552878
+12625551454,node,,viewpoint,Le Havre,,,,49.8192713,0.5117666
 12641333741,node,Brunch & compagnie,restaurant,Le Havre,"3 bis Rue de Verdun, 76280, Criquetot-l'Esneval",76280,,49.6441719,0.2659746
 12670623155,node,Hotel Le Carnot,hotel,Le Havre,,,,49.5731434,0.4729408
 12670623156,node,Le Carnot Saveur Du Monde,restaurant,Le Havre,,,,49.5730956,0.4729319
+12688508497,node,Appartement témoin Perret,museum,Le Havre,"5 Place de l'Hôtel de Ville, 76600, Le Havre",76600,https://www.lehavreseine-patrimoine.fr/,49.4922369,0.1073466
+12731290498,node,,memorial,Le Havre,,,,49.5737535,0.4750252
 12731699503,node,Aux Portes de l'Orient,restaurant,Le Havre,380 Rue Pierre Mendès-France,,https://auxportesdelorient.com/,49.5153362,0.1547521
 12731868701,node,Sakura Sushi,restaurant,Le Havre,184 Rue du Maréchal Joffre,,http://sakura-lehavre.fr,49.4999437,0.1309974
 12731929201,node,The Dayte,restaurant,Le Havre,"75 Cours de la République, 76600",76600,,49.4957107,0.1262401
 12731965101,node,Asian One,restaurant,Le Havre,"138 Cours de la République, 76600",76600,,49.4987482,0.1292174
 12731965201,node,S Delice - Le Petit Resto,restaurant,Le Havre,9 Rue de Verdun,,http://sdelice-lh.fr,49.5011494,0.146171
 12734383581,node,Cooking family,restaurant,Le Havre,"Route de Saint-Martin-du-Manoir, 76700, Gonfreville-l'Orcher",76700,,49.5231423,0.2176959
+12758143576,node,,viewpoint,Le Havre,,,,49.5057089,0.0806792
 12770394944,node,Le Normandie,restaurant,Le Havre,,,,49.6499999,0.5918661
 12792038227,node,Vent d'ouest,hotel,Le Havre,"3 Avenue Gambetta, 76400, Fécamp",76400,https://www.hotelventdouest-fecamp.fr/,49.758606,0.3753938
 12792136051,node,Buffalo Grill,restaurant,Le Havre,"201 Rue de la Briqueterie, 76400, Saint-Léonard",76400,https://www.buffalo-grill.fr/nos-restaurants/fecamp,49.7299103,0.3664925
 12829932885,node,Chez André,restaurant,Le Havre,9 Rue Louis Philippe,,https://www.restauration-chezandre.fr/,49.4947959,0.0994274
+12830968426,node,,memorial,Le Havre,,,,49.6514496,0.5936458
 12844253513,node,Le Picardie,restaurant,Le Havre,"51 Avenue Marcel le Mignot, 76700, Gonfreville-l'Orcher",76700,,49.4979671,0.2314548
 12844813935,node,Nachos,restaurant,Le Havre,"65 Rue Bernardin de Saint-Pierre, 76600, Le Havre",76600,,49.4915479,0.1050994
 12847456479,node,Popi's Family,restaurant,Le Havre,,,,49.4909631,0.103673
 12847456482,node,Why Not,restaurant,Le Havre,,,https://le-why-not-lh.eatbu.com/,49.4910841,0.1105178
 12848715535,node,Au Bureau,restaurant,Le Havre,"36 Rue Bernardin de Saint-Pierre, 76600, Le Havre",76600,,49.4905616,0.1053406
+12909159020,node,,memorial,Le Havre,,,,49.5754832,0.3339541
 12988260194,node,LenMarigon,restaurant,Le Havre,,,,49.4923371,0.1231381
 12995925233,node,Pizzeria Mallet,restaurant,Le Havre,"8 Rue de la République, 76280, Gonneville-la-Mallet",76280,https://www.pizzeria-mallet.fr/,49.639553,0.2223859
+13006054438,node,,memorial,Le Havre,,,,49.76143,0.5007456
+13006136114,node,,viewpoint,Le Havre,,,,49.4812685,0.3433882
+13006136115,node,,viewpoint,Le Havre,,,,49.4899091,0.3063833
+13006136116,node,,viewpoint,Le Havre,,,,49.5042129,0.1811031
+13006136117,node,,viewpoint,Le Havre,,,,49.5424034,0.2024902
 13007823965,node,La couscoussière,restaurant,Le Havre,,,,49.497835,0.1152877
 13008570709,node,Sushi First,restaurant,Le Havre,,,https://www.sushi-first.com/,49.4974925,0.1137929
 13008571913,node,Bella Storia,restaurant,Le Havre,,,,49.4979224,0.1156991
 13008572105,node,Damas,restaurant,Le Havre,,,,49.4980094,0.1161043
+13013920641,node,Arts Amis,gallery,Le Havre,,,,49.4999175,0.1237014
 13013952506,node,Himalayan Yak & Yeti,restaurant,Le Havre,,,,49.5000793,0.1252898
 13026127248,node,Le Petit Brett,restaurant,Le Havre,"139 Voie du Nord, 76110, Bretteville-du-Grand-Caux",76110,https://lepetitbrett.eatbu.com/,49.6568336,0.3621227
+13028861819,node,Hélène Abraham,memorial,Le Havre,,,,49.4987108,0.1233037
+13028861820,node,Paul Abraham,memorial,Le Havre,,,,49.49871,0.1233017
+13046059083,node,,memorial,Le Havre,,,,49.5983859,0.4775669
 13048172001,node,Goélia,hotel,Le Havre,,,,49.6965353,0.3479832
 13060089137,node,Palmyra,restaurant,Le Havre,,,,49.4912196,0.1057939
+13095246543,node,plage des Petites Dalles,beach,Le Havre,,,,49.8253729,0.5238776
 13097084731,node,Zenao Apart'hôtel,hotel,Le Havre,"55 Rue Jean Jaurès, 76290, Montivilliers",76290,,49.5463074,0.2050757
+13112431037,node,Sifra Letchinko,memorial,Le Havre,,,,49.5014132,0.130353
+13112431038,node,Marc Bernheim,memorial,Le Havre,,,,49.4890674,0.1074198
+13112431039,node,Anna Fuchs,memorial,Le Havre,,,,49.4983148,0.1288469
+13112431040,node,Simone Fuchs,memorial,Le Havre,,,,49.4983153,0.1288456
+13112431041,node,Madeleine Fuchs,memorial,Le Havre,,,,49.4983144,0.1288449
+13112431042,node,Marie Fuchs,memorial,Le Havre,,,,49.4983161,0.1288463
+13112431043,node,Jean Loeb,memorial,Le Havre,,,,49.4997316,0.0914706
+13112431044,node,André Loeb,memorial,Le Havre,,,,49.4997327,0.0914707
+13112431045,node,Mina Loeb,memorial,Le Havre,,,,49.4997315,0.0914727
+13112431046,node,Pauline Ledermann,memorial,Le Havre,,,,49.4997326,0.0914728
+13112610333,node,Simon Fdida,memorial,Le Havre,,,,49.4958801,0.107342
+13112610334,node,David Fourmann,memorial,Le Havre,,,,49.4957334,0.0965267
+13112610335,node,Gérard Morpain,memorial,Le Havre,,,,49.4959899,0.1137746
+13112610336,node,Violette Silberstein,memorial,Le Havre,,,,49.4970976,0.1279832
+13112610337,node,Rosalie Silberstein,memorial,Le Havre,,,,49.4970976,0.1279847
+13112610338,node,Antoine Silberstein,memorial,Le Havre,,,,49.4970977,0.1279862
+13112610339,node,Suzanne Meyer,memorial,Le Havre,,,,49.4925692,0.1120599
+13112610340,node,Denise Meyer,memorial,Le Havre,,,,49.4925703,0.11206
+13112610341,node,Léon Meyer,memorial,Le Havre,,,,49.4925682,0.1120598
+13112610342,node,Beila Fourmann,memorial,Le Havre,,,,49.4873543,0.1081478
+13112610343,node,Leibisch Fourmann,memorial,Le Havre,,,,49.4873543,0.1081462
+13112610344,node,Janine Onijas,memorial,Le Havre,,,,49.4873384,0.1086583
+13112610345,node,Lisa Onijas,memorial,Le Havre,,,,49.4873372,0.1086565
+13112610346,node,Dora Swyck,memorial,Le Havre,,,,49.4873371,0.1086582
+13112610347,node,Moïse Onijas,memorial,Le Havre,,,,49.4873384,0.1086566
+13112630650,node,Bella Pochez née Weil,memorial,Le Havre,,,,49.7585823,0.3734614
+13112630651,node,Isaac Léon Licht,memorial,Le Havre,,,,49.7583074,0.3843461
+13112630652,node,Frimet Fernande Licht née Klinger,memorial,Le Havre,,,,49.7583069,0.3843474
 13130746516,node,La Maison,restaurant,Le Havre,19 Rue de l'Amiral Courbet,,,49.4857193,0.1314096
+13141124143,node,,memorial,Le Havre,,,,49.517769,0.0955697
 13141291353,node,Crep's & Co,restaurant,Le Havre,,,,49.5718279,0.4714569
 13183451253,node,Le Cormoran,hotel,Le Havre,,,,49.4856912,0.2098412
+13250795788,node,Robert Delasalle,memorial,Le Havre,,,,49.7568771,0.3776326
+13250795789,node,Alida Delasalle née Charbonnier,memorial,Le Havre,,,,49.7568764,0.3776337
 13322305701,node,Maison hoi an,restaurant,Le Havre,,,,49.4945352,0.1219528
 13444968250,node,Sushi Nigiri,restaurant,Le Havre,,,,49.4948318,0.1229178
 13478890584,node,Pizza du Coin,restaurant,Le Havre,,,,49.5054524,0.1141076
+13594588003,node,,memorial,Le Havre,,,,49.72804,0.2801743
+13594595247,node,,memorial,Le Havre,,,,49.8070774,0.4937616
+13594596788,node,,memorial,Le Havre,,,,49.7217014,0.3318425
+13649087867,node,,memorial,Le Havre,,,,49.5043437,0.1301998
+13649087873,node,,memorial,Le Havre,,,,49.5045034,0.1268906
+13649087879,node,,memorial,Le Havre,,,,49.5045732,0.1317118
+13649087880,node,,memorial,Le Havre,,,,49.5048548,0.1309489
 13702285795,node,Le garde-manger,restaurant,Le Havre,,,,49.4960044,0.0986816
+13708763297,node,La forme,gallery,Le Havre,,,,49.4961584,0.1038337
+13758247492,node,Incarnato,gallery,Le Havre,,,,49.4989457,0.1202315
+13811115188,node,Le Moulin,park,Le Havre,,,,49.5833783,0.2137804
+13828093373,node,Morceau du mur de Berlin,attraction,Le Havre,"Promenade Nelson Mandela, 76700, Gonfreville-l'Orcher",76700,,49.5022806,0.2266781
+13894863275,node,,ruins,Le Havre,,,,49.7675833,0.3699495
 13914068292,node,Lucciola,restaurant,Le Havre,,,,49.4888793,0.1120093
+13936365649,node,Sur le motif,artwork,Le Havre,,,,49.4857619,0.1100551
+13947819601,node,,ruins,Le Havre,,,,49.7648271,0.3767071
 13953727206,node,Le bouche à oreille,restaurant,Le Havre,,,,49.4926495,0.1010359
+13990087302,node,,memorial,Le Havre,,,,49.7422471,0.5143374
 13990423601,node,L'évasion,restaurant,Le Havre,,,,49.7511012,0.4052112
+13998510403,node,Le chateau du Val d'Arques,castle,Le Havre,,,,49.5642956,0.4427584
+13999783101,node,Restaurant Café La Laiterie,restaurant,Le Havre,,,,49.537236,0.5051546
+14000706126,node,Vipizz,restaurant,Le Havre,,,,49.5883844,0.282543
+22338491,way,Square Saint-Roch,park,Le Havre,,,,49.4944545,0.1020187
+24594653,way,,beach,Le Havre,,,,49.7553372,0.349542
+38614239,way,,garden,Le Havre,,,,49.4950942,0.5692082
+38614249,way,,park,Le Havre,,,,49.4898288,0.5702369
+44620728,way,Jardin Jean Rostand,garden,Le Havre,,,,49.5185146,0.5385516
+63715790,way,Sure Hotel Port-Jérome,hotel,Le Havre,"1 Avenue de l'Amiral Grasset, 76330",76330,https://sure-hotel-by-best-western-port-jerome-le-havre.business.site/,49.4934137,0.5600101
+64017992,way,Donjon,ruins,Le Havre,,,,49.5191691,0.5390751
+64018103,way,La P'tite Fringale,restaurant,Le Havre,,,,49.496264,0.5360075
+64021017,way,Musée Municipal,museum,Le Havre,,,http://musee-juliobona.fr/,49.5182161,0.5378023
+64206649,way,,ruins,Le Havre,,,,49.5365391,0.508317
+64288256,way,HR Coccina,hotel,Le Havre,,,,49.5726229,0.4926718
+64292869,way,Château du Val au Grès,castle,Le Havre,,,,49.5756872,0.4702719
+64431862,way,Château d'Ételan,castle,Le Havre,,,,49.4663946,0.6279609
+69942675,way,Hôtel Pasino,hotel,Le Havre,,,,49.491292,0.1120238
+69981531,way,Musée d'Art Moderne André Malraux,museum,Le Havre,"2 Boulevard Clemenceau, 76600, Le Havre",76600,https://www.muma-lehavre.fr/,49.4849687,0.1027076
+69985795,way,Mercure,hotel,Le Havre,"Chaussée Georges Pompidou, 76600, Le Havre",76600,,49.4902524,0.1170197
+69985982,way,,museum,Le Havre,,,,49.4889486,0.1143192
+69985999,way,Novotel,hotel,Le Havre,"76600, Le Havre",76600,,49.4915225,0.1250659
+69986231,way,,museum,Le Havre,,,,49.4889354,0.1144765
+69986279,way,,museum,Le Havre,,,,49.4890155,0.1143104
+70398536,way,Le colombier,attraction,Le Havre,,,,49.5236589,0.1740484
+70405994,way,Bernardin de Saint-Pierre,artwork,Le Havre,,,,49.4928709,0.116986
+70406135,way,Casimir Delavigne,artwork,Le Havre,,,,49.4928208,0.117606
+70985951,way,Bar Hôtel Le France,hotel,Le Havre,,,,49.49605,0.1260993
+74395533,way,,beach,Le Havre,Sainte-Adresse,,,49.5070248,0.0754998
+74874718,way,Foyer des Dockers,restaurant,Le Havre,"Rue des Chargeurs Réunis, 76620, Le Havre",76620,,49.4840202,0.1390856
+75042731,way,Ibis Budget,hotel,Le Havre,"38 Rue du Docteur Piasceki, 76600, Le Havre",76600,https://all.accor.com/hotel/3492/index.fr.shtml,49.4941727,0.1428827
+75271240,way,Jardin Japonais,garden,Le Havre,,,,49.4888465,0.1191028
+76087045,way,Prieuré de Graville,museum,Le Havre,"Rue de l'Abbaye, 76600, Le Havre",76600,http://www.abbayegraville.lehavre.fr,49.5033045,0.1651579
+107309346,way,Square Claude Érignac,park,Le Havre,,,,49.492589,0.1126824
+109181489,way,Jardins de la Plage,park,Le Havre,,,,49.4967999,0.0919056
+109249562,way,Promenades du Prince Eugène,park,Le Havre,,,,49.4989432,0.10117
+109294936,way,Jardins de l'Hôtel de Ville,park,Le Havre,,,,49.492936,0.107814
+109295001,way,Square Albert René,park,Le Havre,"76600, Le Havre",76600,,49.4889662,0.1055229
+111592509,way,,memorial,Le Havre,,,,49.5140569,0.1242888
+114542945,way,Pain de Sucre,monument,Le Havre,,,,49.5044774,0.0832154
+116985960,way,Place Saint-Valéry,garden,Le Havre,,,,49.5362988,0.1460871
+118815727,way,,park,Le Havre,,,,49.548003,0.2003581
+118987313,way,Ô festin,restaurant,Le Havre,76290,76290,https://ofestin76.eatbu.com/,49.5234495,0.1924405
+125155781,way,B&B Hôtels Le Havre,hotel,Le Havre,"12 Avenue du Clos Labedoyère, 76700",76700,,49.503525,0.1962785
+125155783,way,B&B Hôtels Le Havre 2,hotel,Le Havre,"Rue des Courtines, 76700, Harfleur",76700,,49.5034663,0.1970373
+125155785,way,Ibis,hotel,Le Havre,,,,49.503333,0.195367
+125522834,way,Musée du Prieuré,museum,Le Havre,"50 Rue du Prieuré, 76700, Harfleur",76700,https://www.harfleur.fr/equipements_culturels_et_sportifs.html,49.5074165,0.201448
+125548057,way,Manoir de Bévilliers,castle,Le Havre,,,,49.514697,0.2179065
+125549340,way,hotelF1,hotel,Le Havre,,,,49.5096117,0.2297604
+125549393,way,Kyriad Hôtel,hotel,Le Havre,"76700, Gonfreville-l'Orcher",76700,,49.5101564,0.2295551
+125695954,way,WWII Bunker,ruins,Le Havre,,,,49.7394716,0.305659
+125695957,way,WWII Bunker,ruins,Le Havre,,,,49.7395473,0.3048679
+129957809,way,Château d'Orcher,castle,Le Havre,,,,49.4967857,0.24665
+133631956,way,Maison du Patrimoine et des Cités Provisoires,museum,Le Havre,"2b Rue du 8 Mai 1945, 76430, Gonfreville-l'Orcher",76430,,49.5093658,0.2354445
+133631958,way,Maison du Patrimoine et des Cités Provisoires,museum,Le Havre,"2b Rue du 8 Mai 1945, 76430, Gonfreville-l'Orcher",76430,,49.509086,0.235638
+135936943,way,Château de Fécamp,ruins,Le Havre,,,,49.7549935,0.3795675
+135938057,way,Hôtel de la Plage,hotel,Le Havre,"87 Rue de la Plage, 76400, Fécamp",76400,,49.759309,0.3624775
+135938060,way,Hôtel du Grand Cerf - Maison du patrimoine,monument,Le Havre,,,,49.7548585,0.381111
+135938204,way,Ancien comptoir de Jacques Cœur,attraction,Le Havre,"124 Quai Guy de Maupassant, 76400, Fécamp",76400,,49.7639035,0.3688295
+135938334,way,WWII Radar (Würzburg),ruins,Le Havre,,,,49.7679405,0.3693165
+135938420,way,Le Normandy,hotel,Le Havre,"4 Avenue Gambetta, 76400",76400,https://www.normandy-fecamp.com/,49.7586255,0.3767635
+135940753,way,Le Grand Pavois,hotel,Le Havre,,,,49.760881,0.3659365
+135941647,way,WWII Radar (Mammut),ruins,Le Havre,,,,49.7675648,0.3684678
+135946207,way,Le Spazio,restaurant,Le Havre,"238 Avenue Jean Lorrain, 76400, Fécamp",76400,,49.762348,0.3772185
+135948039,way,Hôtel d'Angleterre,hotel,Le Havre,,,,49.7589895,0.3620805
+135948580,way,Addim Kebab,restaurant,Le Havre,"63 Quai Berigny, 76400, Fécamp",76400,,49.7600215,0.3690985
+135949613,way,Ferme de la Chapelle,hotel,Le Havre,"Route du Phare, 76400, Fécamp",76400,,49.767468,0.3714065
+135950056,way,Palais Bénédictine,museum,Le Havre,,,,49.7590325,0.3677575
+137089887,way,La Cerlangue,castle,Le Havre,,,,49.496502,0.4319195
+137099280,way,La Marine,hotel,Le Havre,"10 Route du Havre, 76430, Tancarville",76430,,49.476017,0.4638915
+137120677,way,Gabion d'Or,restaurant,Le Havre,"Route des Falaises, 76430, Sandouville",76430,,49.4864187,0.3203883
+137233418,way,Château de Gromesnil,castle,Le Havre,,,,49.5183415,0.3467085
+137416035,way,Château de Filières,castle,Le Havre,,,,49.5616066,0.3722306
+138932360,way,Auberge des Voyageurs,restaurant,Le Havre,"1, 76110, Goderville",76110,https://www.aubergedesvoyageurs76.com/,49.649296,0.363771
+149522137,way,Jardin fluvial,park,Le Havre,,,,49.4830179,0.1349348
+149522138,way,Jardin fluvial,park,Le Havre,,,,49.4836384,0.1289522
+156781002,way,Carrousel du Havre,attraction,Le Havre,,,,49.4966724,0.1108949
+167462463,way,,garden,Le Havre,,,,49.6736917,0.166964
+173045886,way,Plage d'Antifer,beach,Le Havre,,,,49.6470055,0.1531287
+178760834,way,Square d'Edreville,park,Le Havre,,,,49.4879212,0.1136441
+184560738,way,Parc de la Foret de Montgeon,park,Le Havre,,,,49.514202,0.1422748
+190822871,way,Square François Mitterrand,park,Le Havre,,,,49.5752838,0.4705447
+199050879,way,,beach,Le Havre,,,,49.8088226,0.4868645
+199055851,way,,beach,Le Havre,,,,49.8194225,0.5112277
+199084804,way,,beach,Le Havre,,,,49.8254175,0.5238727
+201172747,way,Parc François Mitterrand,park,Le Havre,,,,49.4984528,0.1414833
+203802433,way,Château de Glatig,castle,Le Havre,,,,49.6769635,0.3787858
+203816396,way,Château Blanc,castle,Le Havre,,,,49.6534535,0.4183371
+203816415,way,Château de Trébons,castle,Le Havre,,,,49.6618455,0.4153324
+203980651,way,Éco-Jardin Participatif,garden,Le Havre,,,,49.5196193,0.0901803
+204987284,way,Château des Ifs,castle,Le Havre,,,,49.7013133,0.3938881
+205238088,way,La Vitrine du Lin,museum,Le Havre,,,,49.6679233,0.3797311
+225935270,way,,castle,Le Havre,,,,49.6017602,0.4563954
+225995541,way,Château d'Antiville,castle,Le Havre,,,,49.6418084,0.4013079
+226313221,way,,castle,Le Havre,,,,49.651011,0.318565
+226313324,way,,castle,Le Havre,,,,49.6407229,0.3178646
+226634891,way,Manoir des Portes,castle,Le Havre,,,,49.6289955,0.482612
+226927417,way,,park,Le Havre,,,,49.6511309,0.5953489
+226997669,way,Auberge le Puits Fleuri,restaurant,Le Havre,"Route d'Yport, 76111, Vattetot-sur-Mer",76111,https://www.puits-fleuri-etretat.fr/,49.7276835,0.2802379
+227408963,way,Au plaisir gourmand,restaurant,Le Havre,,,,49.6437775,0.2668955
+229209065,way,La Roseraie,garden,Le Havre,,,,49.5059852,0.0922388
+249742205,way,,beach,Le Havre,,,,49.662024,0.1561398
+260913786,way,Labyrinthe Végétal,garden,Le Havre,,,,49.5032384,0.093887
+263275241,way,Le Romain d'Étretat,restaurant,Le Havre,Rue de l'Abbé Cochet,,https://www.leromaindetretat.com/,49.7088212,0.2041378
+265378835,way,Le Bout du monde,park,Le Havre,,,,49.5090498,0.0683043
+287758204,way,Ancienne abbaye,attraction,Le Havre,,,,49.5450935,0.1926565
+294836713,way,Boulevard,ruins,Le Havre,,,,49.5045711,0.2019141
+294836714,way,Porte aux Cerfs,ruins,Le Havre,,,,49.5047153,0.2014488
+294836715,way,,ruins,Le Havre,,,,49.5045888,0.2014099
+303883340,way,Le signal,artwork,Le Havre,,,,49.4848927,0.1021639
+303998935,way,,park,Le Havre,,,,49.494721,0.094521
+304585642,way,,park,Le Havre,,,,49.4933857,0.1001039
+310473841,way,,castle,Le Havre,,,,49.708681,0.4784415
+310527080,way,Château de Baclair,castle,Le Havre,,,,49.595537,0.497625
+358202500,way,,park,Le Havre,,,,49.5693457,0.4748976
+400809500,way,Eklo Hotels,hotel,Le Havre,"466 Avenue du Bois au Coq, 76620, Le Havre",76620,https://www.eklohotels.com/,49.5197036,0.1159584
+403456701,way,,garden,Le Havre,,,,49.508601,0.1997933
+431709506,way,Château de Tancarville,castle,Le Havre,,,,49.4842988,0.4641258
+435307761,way,,park,Le Havre,,,,49.5026365,0.1633497
+475479465,way,,park,Le Havre,,,,49.5101467,0.2362753
+497507357,way,Square Grosos,park,Le Havre,,,,49.5012824,0.1296948
+505513894,way,,viewpoint,Le Havre,,,,49.7064184,0.1951325
+518890179,way,,park,Le Havre,,,,49.4939811,0.0953655
+519942603,way,Le Belvédère,restaurant,Le Havre,"Rue du Belvédère, 76280, Saint-Jouin-Bruneval",76280,https://www.le-belvedere.com/,49.6488454,0.1569972
+530404117,way,,garden,Le Havre,,,,49.5378812,0.1396986
+532379542,way,,park,Le Havre,,,,49.4918016,0.1261275
+532379543,way,,park,Le Havre,,,,49.4918201,0.1264207
+532379544,way,,park,Le Havre,,,,49.4919118,0.1265439
+533124445,way,,garden,Le Havre,,,,49.4919059,0.0970599
+533132999,way,,park,Le Havre,,,,49.49349,0.1046263
+533133498,way,,park,Le Havre,,,,49.493442,0.105843
+533136154,way,,park,Le Havre,,,,49.4936307,0.1001172
+533141748,way,,park,Le Havre,,,,49.4937391,0.1002354
+533156086,way,,park,Le Havre,,,,49.4932929,0.102784
+533157537,way,,park,Le Havre,,,,49.4932419,0.1046053
+533157880,way,,park,Le Havre,,,,49.4932156,0.105827
+535182607,way,Château de Montgeon,park,Le Havre,,,,49.5158872,0.1783947
+538784842,way,Catène de conteneurs,artwork,Le Havre,,,,49.4848413,0.1071929
+539993271,way,Parc du Ramponneau,park,Le Havre,,,,49.745789,0.3695384
+542231394,way,Jardin de la bibliothèque Armand Salacrou,park,Le Havre,,,,49.4942977,0.1109211
+542315847,way,,park,Le Havre,,,,49.4876545,0.1063578
+542405497,way,,park,Le Havre,,,,49.4865104,0.1006702
+542888746,way,,park,Le Havre,,,,49.4895317,0.1070625
+542904115,way,,park,Le Havre,,,,49.7529381,0.3988213
+546169604,way,Le Clos Marguerite,hotel,Le Havre,,,,49.7363608,0.3147387
+548714769,way,Jardin de Caucriauville,park,Le Havre,,,,49.5132873,0.1775655
+548719875,way,,park,Le Havre,,,,49.5177305,0.1700283
+548723135,way,,park,Le Havre,,,,49.5173764,0.1675703
+549977109,way,Château du Bec-Crespin,castle,Le Havre,,,,49.597571,0.2072662
+549977953,way,Château du Bec-Crespin,castle,Le Havre,,,,49.5976897,0.2078255
+551344479,way,Château de Fréfossé,castle,Le Havre,,,,49.6932089,0.2067696
+561312817,way,Aux amis de la route,restaurant,Le Havre,"49 Route Nationale, 76640, Alvimare",76640,https://www.relais-routiers.com/Relais_Routiers_recherche.asp?nrelais=SEPT30764,49.6031369,0.6273217
+591315745,way,,park,Le Havre,,,,49.7481794,0.4572727
+593725302,way,Château de Briquedalle,castle,Le Havre,,,,49.7941654,0.5365655
+593725846,way,Château de Sassetot,hotel,Le Havre,,,http://www.hotelchateaudesissi.com/,49.806191,0.5290268
+593726293,way,Les Relais des Dalles,restaurant,Le Havre,,,,49.8045914,0.5302629
+595381280,way,,beach,Le Havre,,,,49.6615744,0.1523492
+598423776,way,Auberge des Tonnelles,hotel,Le Havre,"2 Chemin des Falaises, 76400, Saint-Léonard",76400,https://www.hotel-lestonnelles-etretat.com/,49.7468705,0.3474802
+606662232,way,,castle,Le Havre,,,,49.653164,0.5379103
+607692014,way,Auberge d'Ypreville,restaurant,Le Havre,,,https://www.aubergedypreville.fr,49.6948114,0.5325262
+616350311,way,,park,Le Havre,,,,49.5252139,0.3610734
+618819444,way,Restaurant du Golf d'Étretat,restaurant,Le Havre,,,,49.7056669,0.1999341
+619187095,way,Maison Maurice Leblanc,museum,Le Havre,,,,49.7062784,0.2067977
+619187152,way,,hotel,Le Havre,,,,49.7074262,0.2071292
+630176315,way,Muséum d'Histoire Naturelle,museum,Le Havre,"Place du Vieux Marché, 76600, Le Havre",76600,https://www.museum-lehavre.fr/,49.48777,0.109079
+632450579,way,Premiere Classe Le Havre Centre,hotel,Le Havre,"66 Rue Nungesser et Coli, 76600, Le Havre",76600,https://www.premiereclasse.com/,49.4969262,0.1515212
+632505595,way,Adagio Access Aparthotel,hotel,Le Havre,"66 Rue de l'Aviateur Guérin, 76600, Le Havre",76600,https://www.adagio-city.com/fr/hotel-8986-aparthotel-adagio-access-le-havre-les-docks/index.shtml,49.4878285,0.1319355
+632776231,way,Château de Gruville,castle,Le Havre,,,,49.7207066,0.4595704
+639119253,way,Château des Aygues,castle,Le Havre,,,,49.7050349,0.2136609
+639465701,way,Musée du Patrimoine,museum,Le Havre,"Avenue Damilaville, 76790, Étretat",76790,http://www.etretat.net/,49.7109243,0.2073971
+652259026,way,Au bon coin,restaurant,Le Havre,"1 Rue de la Sucrerie, 76400, Colleville",76400,,49.7496885,0.4595514
+652717417,way,Château de Gruville,castle,Le Havre,"6, 76400, Contremoulins",76400,,49.7228907,0.4556001
+654981155,way,,garden,Le Havre,,,,49.5435174,0.1896792
+654981156,way,,garden,Le Havre,,,,49.5436868,0.1896207
+662629447,way,,park,Le Havre,,,,49.5192543,0.088187
+662663250,way,,park,Le Havre,,,,49.5266162,0.1087866
+662663264,way,,park,Le Havre,,,,49.5282516,0.1125349
+662909763,way,,park,Le Havre,,,,49.5303883,0.1172728
+662909764,way,,park,Le Havre,,,,49.5276371,0.121349
+682850907,way,Château de Bailleul,castle,Le Havre,,,,49.6742223,0.450011
+683885452,way,Le petit parc,park,Le Havre,"Rue Alexandre Legros, 76400, Fécamp",76400,,49.7556202,0.3768879
+691183215,way,,garden,Le Havre,,,,49.5467232,0.189032
+691183972,way,,garden,Le Havre,,,,49.5472218,0.1891276
+691279523,way,,park,Le Havre,,,,49.5466076,0.1892556
+691733197,way,,garden,Le Havre,,,,49.5311246,0.0988893
+691734465,way,,garden,Le Havre,,,,49.5310599,0.0991435
+691734466,way,,garden,Le Havre,,,,49.5309127,0.0985609
+691753419,way,,garden,Le Havre,,,,49.5287486,0.1026419
+692956591,way,Le Tilleul - Antifer,beach,Le Havre,,,,49.6958414,0.1785368
+692956592,way,,beach,Le Havre,,,,49.7005179,0.1851408
+692956593,way,,beach,Le Havre,,,,49.7031883,0.1887564
+692956597,way,,beach,Le Havre,,,,49.7055321,0.1921598
+692995832,way,,beach,Le Havre,,,,49.7422437,0.3225946
+692995833,way,,beach,Le Havre,,,,49.7407609,0.3005094
+693000325,way,Plage du Fourquet,beach,Le Havre,,,,49.6886291,0.166808
+694307843,way,,park,Le Havre,,,,49.6077986,0.2337598
+694984642,way,,park,Le Havre,,,,49.5049348,0.1964848
+703286204,way,Parc Hauser,park,Le Havre,"83 Rue de Tourneville, 76600, Le Havre",76600,,49.5025049,0.1260607
+704384275,way,,park,Le Havre,,,,49.6433233,0.1626051
+704641092,way,,garden,Le Havre,,,,49.5230811,0.0912369
+705037513,way,,garden,Le Havre,,,,49.5239559,0.0937324
+705037514,way,,garden,Le Havre,,,,49.5241162,0.0934375
+705037515,way,,garden,Le Havre,,,,49.524076,0.0928984
+705037516,way,,garden,Le Havre,,,,49.5239131,0.0924917
+705038841,way,,garden,Le Havre,,,,49.5246514,0.0922929
+706234959,way,,beach,Le Havre,,,,49.7021955,0.1876541
+708478107,way,Parc Saint-Just,park,Le Havre,,,,49.519351,0.0903818
+710997588,way,Esplanade Nelson Mandela,park,Le Havre,,,,49.4844811,0.1050457
+719028783,way,Arboretum de la foret de Montgeon,park,Le Havre,,,,49.5208989,0.1544592
+720476354,way,Square Jean Holker,park,Le Havre,,,,49.496477,0.1210642
+739260445,way,,park,Le Havre,,,,49.5082593,0.1460371
+739419322,way,,park,Le Havre,,,,49.5096267,0.1529336
+750788790,way,Côte et mer,restaurant,Le Havre,,,,49.6497264,0.1529831
+750788791,way,La frite d'or,restaurant,Le Havre,,,,49.6498614,0.1525282
+751876739,way,,park,Le Havre,,,,49.5036457,0.2684688
+755405562,way,,park,Le Havre,,,,49.5246319,0.36527
+755405563,way,Forme et Sport,restaurant,Le Havre,"220 Route d'Oudalle, 76430, Saint-Romain-de-Colbosc",76430,https://www.formeetsport.com/,49.5225698,0.3484525
+757329037,way,,park,Le Havre,,,,49.5034567,0.2233337
+776522390,way,,park,Le Havre,,,,49.5130845,0.4740065
+777271359,way,,park,Le Havre,,,,49.5210909,0.5316816
+803435552,way,,memorial,Le Havre,,,,49.5882589,0.2818584
+804964900,way,Plage du Havre,beach,Le Havre,"76600, Le Havre",76600,,49.4957127,0.0897376
+825267599,way,,park,Le Havre,,,,49.6822224,0.205215
+827078556,way,,beach,Le Havre,,,,49.7832289,0.4193352
+827362061,way,Les Jardins d'Etretat,garden,Le Havre,,,https://etretatgarden.fr/,49.7105011,0.206523
+832933767,way,,park,Le Havre,,,,49.7029899,0.2089867
+834332385,way,Monument Nungesser et Coli,memorial,Le Havre,,,https://www.lieux-insolites.fr/seinemar/nungessercoli/nungessercoli.htm,49.7112572,0.2075184
+837365915,way,,park,Le Havre,,,,49.7573119,0.3833687
+838202838,way,Jardin Danton,park,Le Havre,"Rue Lesueur, Le Havre",,,49.49456,0.1225271
+838219583,way,Parc Jules Verne,park,Le Havre,"Rue Louis Blanc, Le Havre",,,49.5069382,0.1297469
+838219887,way,Jardin Jean Defrêne,park,Le Havre,"Rue André Vimbert, Le Havre",,,49.5217302,0.1598554
+860312965,way,,garden,Le Havre,,,,49.4863399,0.1032036
+860312969,way,,garden,Le Havre,,,,49.4874274,0.102243
+860312970,way,,garden,Le Havre,,,,49.487158,0.1024854
+860312971,way,,garden,Le Havre,,,,49.4877426,0.1020021
+860371435,way,,park,Le Havre,,,,49.5000633,0.1574926
+863670435,way,Ibis Budget,hotel,Le Havre,1 Boulevard Suzanne Clément,,http://www.ibis.com/fr/hotel-2715-ibis-budget-fecamp/index.shtml,49.752721,0.394943
+867317316,way,,garden,Le Havre,,,,49.5352561,0.1425466
+867319372,way,,garden,Le Havre,,,,49.5347118,0.1462559
+867484174,way,,garden,Le Havre,,,,49.5388932,0.1400972
+867493377,way,,garden,Le Havre,,,,49.5334499,0.1417093
+867493378,way,,garden,Le Havre,,,,49.533283,0.1412636
+880144565,way,,garden,Le Havre,,,,49.5160743,0.1295238
+908164072,way,,garden,Le Havre,,,,49.4948171,0.5765905
+952020062,way,,park,Le Havre,,,,49.5954979,0.1307279
+963879761,way,,park,Le Havre,,,,49.5109468,0.1626324
+963881337,way,,park,Le Havre,,,,49.5089821,0.1628817
+968107905,way,,zoo,Le Havre,,,,49.7833986,0.5388632
+968921369,way,Vélo-Rails Étretat Pays de Caux,attraction,Le Havre,,,,49.7085276,0.2172625
+968921371,way,Vélo-Rails Étretat Pays de Caux,attraction,Le Havre,,,https://velo-rails-etretat.fr/,49.7017442,0.2843501
+996152060,way,,garden,Le Havre,,,,49.6651489,0.1610645
+1000909890,way,,garden,Le Havre,,,,49.7464464,0.4019466
+1009658791,way,,park,Le Havre,,,,49.804372,0.5310801
+1028500336,way,,park,Le Havre,,,,49.488501,0.1418179
+1054799093,way,,garden,Le Havre,,,,49.5242903,0.223971
+1070362010,way,Jost,hotel,Le Havre,"42 Rue Bonnivet, 76600, Le Havre",76600,https://www.jostlehavre.com/,49.4937866,0.1228343
+1080495859,way,,park,Le Havre,,,,49.6997242,0.2868557
+1087320763,way,James Kingston Stellin,memorial,Le Havre,,,https://nzhistory.govt.nz/media/photo/james-stellin-memorial,49.6547364,0.464875
+1097903420,way,,park,Le Havre,,,,49.5083896,0.0689421
+1097903423,way,,park,Le Havre,,,,49.5066577,0.0702667
+1098031745,way,,park,Le Havre,,,,49.5119287,0.0891906
+1099626355,way,,garden,Le Havre,,,,49.5043454,0.0775368
+1099633646,way,,garden,Le Havre,,,,49.5050535,0.0940223
+1099633647,way,,garden,Le Havre,,,,49.5049695,0.0940539
+1099633648,way,,garden,Le Havre,,,,49.5048834,0.0940848
+1099633649,way,,garden,Le Havre,,,,49.5048001,0.094118
+1099633650,way,,garden,Le Havre,,,,49.5047183,0.0941497
+1099633651,way,,garden,Le Havre,,,,49.504627,0.0941873
+1099633652,way,,garden,Le Havre,,,,49.5044905,0.0942374
+1099633653,way,,garden,Le Havre,,,,49.5044011,0.094272
+1099633654,way,,garden,Le Havre,,,,49.5043174,0.0943029
+1099633655,way,,garden,Le Havre,,,,49.5042341,0.0943368
+1099633656,way,,garden,Le Havre,,,,49.5041509,0.0943692
+1099633657,way,,garden,Le Havre,,,,49.5049779,0.0935424
+1099633658,way,,garden,Le Havre,,,,49.5048922,0.0935749
+1099633659,way,,garden,Le Havre,,,,49.504808,0.0936066
+1099633660,way,,garden,Le Havre,,,,49.5047228,0.0936412
+1099633661,way,,garden,Le Havre,,,,49.5046405,0.0936714
+1099633662,way,,garden,Le Havre,,,,49.5045563,0.0937031
+1099633663,way,,garden,Le Havre,,,,49.5044156,0.0937583
+1099633664,way,,garden,Le Havre,,,,49.5043251,0.0937908
+1099633665,way,,garden,Le Havre,,,,49.5042428,0.0938239
+1099633666,way,,garden,Le Havre,,,,49.5041596,0.0938549
+1099633667,way,,garden,Le Havre,,,,49.5040749,0.0938888
+1099647048,way,,garden,Le Havre,,,,49.5020676,0.0858071
+1099659639,way,,park,Le Havre,,,,49.5006403,0.0908029
+1102338792,way,,garden,Le Havre,,,,49.5116752,0.0892528
+1102350592,way,,park,Le Havre,,,,49.5011128,0.099492
+1102352856,way,,garden,Le Havre,,,,49.5018228,0.1029766
+1102352857,way,,garden,Le Havre,,,,49.50155,0.1020351
+1102355000,way,,garden,Le Havre,,,,49.5011274,0.1024353
+1116370967,way,,garden,Le Havre,,,,49.5031886,0.1197479
+1159129878,way,Esplanade Jacques Chirac,park,Le Havre,,,,49.4857252,0.1000672
+1160888405,way,Jardin pédagogique,garden,Le Havre,,,,49.518512,0.3457551
+1163096769,way,Narrow House,artwork,Le Havre,,,,49.4926149,0.1126766
+1179788061,way,,garden,Le Havre,,,,49.5075803,0.2001758
+1181776282,way,Marie Blachère,restaurant,Le Havre,,,,49.4923427,0.1245431
+1190186863,way,Parc Winston Churchill,park,Le Havre,"76600, Le Havre",76600,,49.4930924,0.1356577
+1190348400,way,,garden,Le Havre,,,,49.5147795,0.098726
+1192957527,way,,garden,Le Havre,,,,49.4895068,0.1280879
+1195225725,way,WWII Bunker,ruins,Le Havre,,,,49.7397212,0.2955401
+1197165679,way,Parc du Précieux Sang,park,Le Havre,"5c Rue du Précieux Sang, 76400, Fécamp",76400,,49.7581457,0.3831434
+1197883464,way,Parc Henri Odièvre,park,Le Havre,,,,49.5261022,0.3609368
+1203906268,way,,park,Le Havre,,,,49.720877,0.332091
+1230939402,way,,garden,Le Havre,,,,49.5009189,0.1021939
+1286791316,way,Bunker en ruine,ruins,Le Havre,,,,49.6719198,0.1629076
+1300045611,way,,garden,Le Havre,,,,49.4859692,0.1146308
+1307980062,way,3 Brasseurs,restaurant,Le Havre,,,,49.4909751,0.1308334
+1307980102,way,Crep'eat,restaurant,Le Havre,,,,49.4900811,0.1297052
+1307980104,way,Le Club,restaurant,Le Havre,,,,49.4900016,0.1299982
+1307980112,way,Miyaki,restaurant,Le Havre,"70 Quai des Antilles, 76600, Le Havre",76600,https://www.miyaki.fr/,49.4896425,0.1304303
+1307980124,way,Old Wild West,restaurant,Le Havre,,,,49.4900859,0.1312834
+1307988016,way,Waffle Factory,restaurant,Le Havre,,,,49.4902279,0.1309332
+1323204496,way,Zénitude Appart hôtel,hotel,Le Havre,"23 Rue Fénelon, 76600, Le Havre",76600,,49.5002472,0.1411238
+1334593454,way,Aire de la Sitelle,park,Le Havre,,,,49.5290877,0.4050672
+1364819529,way,Square de la paix,park,Le Havre,"Square de la Paix, 76210, Bolbec",76210,,49.574231,0.4753196
+1374865472,way,,artwork,Le Havre,,,,49.5738837,0.4745879
+1374865473,way,,artwork,Le Havre,,,,49.5737008,0.4743373
+1415597201,way,,park,Le Havre,,,,49.6064818,0.444032
+1419236281,way,,park,Le Havre,,,,49.4835179,0.4655113
+1428534876,way,PumpTrack,park,Le Havre,,,,49.525771,0.5325068
+1489059230,way,,memorial,Le Havre,,,,49.5063832,0.1345458
+1524470223,way,WWII Radar (Mammut),ruins,Le Havre,,,,49.7676387,0.36858
+1524470224,way,WWII Radar (Mammut),ruins,Le Havre,,,,49.7676035,0.3685286
+1529402226,way,,restaurant,Le Havre,,,,49.6985092,0.2758014
+1153674,relation,Jardins Suspendus,park,Le Havre,,,,49.5043155,0.0939804
+2277030,relation,Forêt de Montgeon,park,Le Havre,,,,49.5204145,0.1414152
+3931030,relation,Au Deux Rivières,restaurant,Le Havre,"170 Route de Valmont, 76400, Fécamp",76400,,49.7541917,0.4051163
+10067814,relation,Maison de l'Armateur,museum,Le Havre,"3 Quai de l'Île, 76600, Le Havre",76600,https://www.lehavre.fr/annuaire/maison-de-larmateur,49.4869264,0.1128247
+12029871,relation,Yport,beach,Le Havre,,,,49.7401078,0.3084197
+12029990,relation,,beach,Le Havre,,,,49.7103727,0.2019529
+12211821,relation,,park,Le Havre,,,,49.5092815,0.1959858
+12535335,relation,Parc du Château de Gromesnil,park,Le Havre,,,,49.5178722,0.3466685
+12586680,relation,,garden,Le Havre,,,,49.5212791,0.5468446
+13217212,relation,,park,Le Havre,,,,49.7112864,0.2073219
+13275022,relation,Domaine du château de Bailleul,castle,Le Havre,,,,49.6737367,0.4501061
+13489847,relation,,park,Le Havre,,,,49.5259676,0.530231
+14459018,relation,,beach,Le Havre,,,,49.7381729,0.2905391
+17258552,relation,Parc de Rouelles,park,Le Havre,,,,49.5260413,0.1775462
+20341876,relation,Dormy House,hotel,Le Havre,76790,76790,,49.7060358,0.2012825
+20976278,relation,,garden,Le Havre,,,,49.7445456,0.4925389

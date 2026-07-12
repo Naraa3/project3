@@ -1,9 +1,12 @@
 osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+1364876468,node,Gorges du Blavet,viewpoint,Fréjus,,,,43.5205965,6.6505981
 1485189857,node,Bar Restaurant de l'Estérel,restaurant,Fréjus,,,,43.5263381,6.8375161
 1485189860,node,La Table d'Amanda,restaurant,Fréjus,,,,43.5289479,6.820393
 1485189875,node,L'Estirado des Adrets,restaurant,Fréjus,,,,43.5153181,6.8108121
 1485189876,node,Le Relais des Adrets,restaurant,Fréjus,,,,43.5257564,6.8140276
 1485189884,node,,hotel,Fréjus,,,,43.5152666,6.8109435
+1718052671,node,Mont Vinaigre,viewpoint,Fréjus,,,,43.5021547,6.8218167
+1813077236,node,Enfants De Frejus,memorial,Fréjus,,,,43.4327173,6.7325376
 1867006875,node,Le cadet Rousselle,restaurant,Fréjus,83600,83600,,43.4333473,6.732871
 1867007918,node,L'Arénas,hotel,Fréjus,,,,43.4324168,6.7331214
 1998480626,node,La Rose des Sables,restaurant,Fréjus,,,,43.4218484,6.7451718
@@ -11,16 +14,32 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1999649016,node,Au Moussaillon,restaurant,Fréjus,,,,43.4229067,6.7497525
 2000001576,node,Le Bœuf sur le Quai,restaurant,Fréjus,,,,43.4232848,6.7461642
 2000007691,node,Le César,restaurant,Fréjus,,,https://www.restaurantlecesar.com/,43.4224837,6.748731
+2106125110,node,,monument,Fréjus,,,,43.4573578,6.7265498
+2106132267,node,,monument,Fréjus,,,,43.4343947,6.7306697
 2106144757,node,,restaurant,Fréjus,,,,43.4340207,6.7353904
 2106180927,node,,restaurant,Fréjus,,,,43.4228631,6.7493808
+2213352894,node,Stèle Auguste Muterse,memorial,Fréjus,,,,43.49572,6.81835
 2929612274,node,Zenitude Hôtel et Résidence,hotel,Fréjus,"566 Via Aurelia, 83600, Fréjus",83600,https://zenitude-hotel-residences.com/residences/12/153/frejus-3-la-tour-de-mare.htm,43.4549828,6.7607546
+3297511968,node,,viewpoint,Fréjus,,,,43.4966054,6.8062055
+3297512012,node,,viewpoint,Fréjus,,,,43.5024764,6.8172776
+3297528261,node,,viewpoint,Fréjus,,,,43.4957578,6.8018698
 3415605815,node,Sépia,restaurant,Fréjus,"37 Quai de Marc Antoine, 83600, Fréjus",83600,https://www.sepiafrejus.fr/,43.4228613,6.7485464
 3483672093,node,B&B Hôtel,hotel,Fréjus,"Z.I. La Palud - Nationale 7, 83600, Fréjus",83600,https://www.hotel-bb.com/fr/hotel/frejus-puget-sur-argens,43.4389688,6.7133581
 3790781834,node,Auberge des Adrets,hotel,Fréjus,,,https://www.auberge-adrets.com/,43.5138172,6.827071
 4071335389,node,Chicken',restaurant,Fréjus,"116 Avenue de Verdun, 83600, Fréjus",83600,www.lamaisondupouletfrejus.fr,43.4329494,6.7308526
+4403919533,node,,viewpoint,Fréjus,,,,43.5164094,6.6523705
+4411040230,node,,viewpoint,Fréjus,,,,43.5237383,6.6955184
+4432308160,node,,viewpoint,Fréjus,,,,43.5160816,6.6560358
+4432309323,node,,viewpoint,Fréjus,,,,43.5309065,6.6428728
+4663672372,node,Mémorial de Malpasset,memorial,Fréjus,,,,43.4339981,6.7276422
+4693934519,node,Mine,ruins,Fréjus,,,,43.5138701,6.7766503
 4711367522,node,,restaurant,Fréjus,Rue des Combattants d'Afrique du Nord,,,43.4503691,6.7273058
 4711367523,node,,restaurant,Fréjus,Rue des Combattants d'Afrique du Nord,,,43.4505775,6.7277606
+4743587527,node,Ruines medievales,ruins,Fréjus,,,,43.5273507,6.6616715
+4919261921,node,,viewpoint,Fréjus,,,,43.5032194,6.8211861
+4942157707,node,Roland Garros,memorial,Fréjus,,,,43.4186528,6.746278
 5153599248,node,Brasserie Le Palais,restaurant,Fréjus,,,,43.4340242,6.7369079
+5153599254,node,Musée d'Histoire Locale de Fréjus,museum,Fréjus,,,,43.4336631,6.7359806
 5154748312,node,Les Micocouliers,restaurant,Fréjus,,,,43.4331149,6.7359729
 5154748313,node,Crêperie des Délices,restaurant,Fréjus,,,,43.4327182,6.7366954
 5154748314,node,Le Jardin de Jules,restaurant,Fréjus,,,,43.4332438,6.7361806
@@ -38,6 +57,11 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5769119170,node,Saveur d'Asie,restaurant,Fréjus,,,,43.4248054,6.7601818
 5769119171,node,La Moule Joyeuse,restaurant,Fréjus,,,,43.4242808,6.7579574
 5769119269,node,Kazaar,restaurant,Fréjus,,,,43.4238866,6.7582483
+5863654564,node,,viewpoint,Fréjus,,,,43.5017602,6.8204552
+5863654565,node,,viewpoint,Fréjus,,,,43.4229172,6.7466747
+6010137243,node,,viewpoint,Fréjus,,,,43.4450692,6.7436476
+6080253557,node,Oppidum de l'Auriasque,ruins,Fréjus,,,,43.4894883,6.7709394
+6080272259,node,,artwork,Fréjus,,,,43.4717774,6.7440498
 6290769909,node,Ocean Drive,restaurant,Fréjus,,,,43.3983591,6.729269
 6564914485,node,À Table!,restaurant,Fréjus,"137 Rue Grisolle, 83600",83600,,43.4323182,6.7370045
 6652865396,node,La Bocca,restaurant,Fréjus,,,,43.4250073,6.7618434
@@ -45,26 +69,55 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 6652883325,node,Vach' et Moi,restaurant,Fréjus,,,,43.4249079,6.762715
 6779853593,node,Le Milano,restaurant,Fréjus,,,,43.4225439,6.7529973
 6855125571,node,La Cave Romaine,restaurant,Fréjus,114 Rue de Camelin,,,43.4320153,6.7355197
+6908352530,node,Oppidum du Barban,ruins,Fréjus,,,,43.4760196,6.7930276
+6908371257,node,Oppidum du Bonnet du capelan,ruins,Fréjus,,,,43.4752526,6.8092469
 6943284415,node,Let's Wok,restaurant,Fréjus,"146 Rue Georges Besse, 83600, Fréjus",83600,,43.4381641,6.7177287
 7070436311,node,Le Flore,hotel,Fréjus,,,,43.4322963,6.7357296
 7070443710,node,Le Basilic,restaurant,Fréjus,,,,43.4322686,6.7366194
 7393231297,node,Sushi Klub,restaurant,Fréjus,,,,43.432412,6.734924
 7394073348,node,La Terrasse Du Capitou,restaurant,Fréjus,,,,43.4682405,6.7343476
 7394182412,node,Excel Café Restaurant,restaurant,Fréjus,,,,43.4649963,6.7316841
+7622099579,node,,viewpoint,Fréjus,,,,43.5061876,6.8738668
 7743209544,node,L'amandier,restaurant,Fréjus,,,,43.4327873,6.7370902
+7743209559,node,Petit train touristique,attraction,Fréjus,,,,43.434173,6.7377178
 7743209578,node,Vie Del Gusto,restaurant,Fréjus,,,,43.4321598,6.7358736
 7743234797,node,La Riviera,restaurant,Fréjus,,,,43.432098,6.7364496
+7743234804,node,Baptistère,attraction,Fréjus,,,,43.4330996,6.7365873
 7743234806,node,L'Entrée des Artistes,restaurant,Fréjus,,,,43.4324008,6.7372461
+7743234825,node,Atelier d'art Tramoni,gallery,Fréjus,,,,43.4329235,6.7375116
+8236619117,node,Parking capel Amont,attraction,Fréjus,,,,43.5206309,6.6498505
+8245861084,node,,ruins,Fréjus,,,,43.4294378,6.7373694
+8246782478,node,Jumelage Fréjus-Triberg,memorial,Fréjus,,,,43.4430064,6.7448655
+8259976962,node,Mur des jardins de César,ruins,Fréjus,,,,43.4557183,6.7535984
 8951736584,node,Le 7th Heaven,restaurant,Fréjus,123 Boulevard de la Libération,,,43.4244484,6.7586495
+8975309117,node,,attraction,Fréjus,,,,43.4019431,6.7297583
 8976437617,node,Brasero,restaurant,Fréjus,,,,43.4228207,6.7486263
 9047560854,node,La Terrasse,restaurant,Fréjus,,,,43.3993344,6.7150234
 9098275065,node,Joy's Pizza,restaurant,Fréjus,1623 Rue des Combattants d'Afrique du Nord,,,43.4502174,6.7269753
 9162773977,node,Le Merou Ardent,restaurant,Fréjus,,,,43.4245186,6.7589877
+9224801269,node,MD 315 R,attraction,Fréjus,,,,43.4212533,6.7387325
+9309422202,node,,viewpoint,Fréjus,,,,43.5193783,6.6585075
+9309433444,node,,viewpoint,Fréjus,,,,43.515183,6.656423
+9309433491,node,,viewpoint,Fréjus,,,,43.5161383,6.6557435
+9351729782,node,Belvédère du Barrage de Malpasset,viewpoint,Fréjus,,,,43.5115084,6.7556772
+9379249490,node,,viewpoint,Fréjus,,,,43.5022894,6.7968021
+9461271888,node,,monument,Fréjus,,,,43.4914206,6.8000496
+9467181720,node,,ruins,Fréjus,,,,43.5173524,6.8790407
+9528921971,node,Aqva Foroivliensis,ruins,Fréjus,,,,43.4797144,6.7525072
+9732655373,node,,viewpoint,Fréjus,,,,43.3895301,6.731438
+10034660588,node,Mini musée de plein air archéologique,museum,Fréjus,,,,43.5307783,6.6906333
 10086631548,node,Le Catalogne,hotel,Fréjus,,,,43.3817518,6.7210613
+10832069716,node,,viewpoint,Fréjus,,,,43.5014898,6.8146013
+10832075789,node,,viewpoint,Fréjus,,,,43.5055442,6.7821224
+10869278664,node,Mémorial de l'Armée Noire,memorial,Fréjus,,,,43.42356,6.7563731
 11077365205,node,Le caractere,restaurant,Fréjus,"342 Avenue de la Corniche d'Azur, 83370",83370,,43.3911886,6.7273465
 11089763106,node,La Tarantella,restaurant,Fréjus,"558 Boulevard Honoré de Balzac, 83370",83370,https://www.latarantella.fr/,43.3871915,6.7206139
+11462297994,node,,artwork,Fréjus,,,,43.4234873,6.7461745
+11462478220,node,,artwork,Fréjus,,,,43.4624118,6.7436851
+11462478261,node,Sainte Brigitte,artwork,Fréjus,,,,43.4602699,6.7435312
 11904558207,node,Le Comptoir D'Adriano,restaurant,Fréjus,,,https://www.facebook.com/p/Le-Comptoir-DAdriano-100043096547579/,43.4430098,6.7530432
 11913922042,node,Le P'tit Resto,restaurant,Fréjus,,,,43.4260202,6.7608554
+11999370644,node,statue de l'abbé Sieyès,artwork,Fréjus,,,,43.4343635,6.7371583
 12070173769,node,Kokonut,restaurant,Fréjus,,,,43.4003758,6.7301736
 12361235504,node,L'Envie,restaurant,Fréjus,"565 Grande Rue, 83600, Bagnols-en-Forêt",83600,,43.5371618,6.6989471
 12361235505,node,Les Remèdes de Bacchus,restaurant,Fréjus,"545 Grande Rue, 83600, Bagnols-en-Forêt",83600,,43.5372541,6.6987306
@@ -74,10 +127,136 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 12894661025,node,Le Cosy,hotel,Fréjus,,,,43.39159,6.7269538
 12894668976,node,L'Émeraude,restaurant,Fréjus,,,,43.3918349,6.7282933
 13071257943,node,Madre Mio,restaurant,Fréjus,,,,43.466127,6.7630247
+13112786672,node,,ruins,Fréjus,,,,43.5093562,6.7589159
 13159908609,node,Da Gennaro,restaurant,Fréjus,,,,43.4305767,6.7362156
+13305104264,node,,memorial,Fréjus,,,,43.4330527,6.7272289
 13306169440,node,,restaurant,Fréjus,,,,43.3925203,6.7278101
 13306210094,node,,restaurant,Fréjus,,,,43.3914121,6.7276821
 13306210098,node,,restaurant,Fréjus,,,,43.3801861,6.7196392
 13306211305,node,,restaurant,Fréjus,,,,43.390543,6.7263316
 13306213359,node,,restaurant,Fréjus,,,,43.3911363,6.7267872
+13615056598,node,,memorial,Fréjus,,,,43.437621,6.7419247
 13709049201,node,Les Copains d'Abord,restaurant,Fréjus,,,,43.4323385,6.7355738
+26234844,way,Luna Park,theme_park,Fréjus,"83600, Fréjus",83600,https://lunaparkfrejus.fr/,43.4209955,6.7282759
+30102340,way,Plage du Grand Boucharel,beach,Fréjus,,,,43.3723389,6.7143854
+31992921,way,Jardin Jean XXIII,park,Fréjus,,,,43.4336828,6.7375854
+32068292,way,Square des Moulins,garden,Fréjus,,,,43.4308384,6.7369294
+32068310,way,Square du Printemps,park,Fréjus,,,,43.4271002,6.7317128
+32353942,way,Parc de la Libération,park,Fréjus,,,,43.424847,6.7633357
+32479316,way,Place Jean-Marie Lachize,park,Fréjus,,,,43.4314526,6.7565191
+32592974,way,Monument aux morts,memorial,Fréjus,,,,43.3849012,6.7222753
+49781780,way,Plage des Esclamandes,beach,Fréjus,,,,43.4069414,6.7343833
+69758789,way,,ruins,Fréjus,,,,43.4384594,6.7426383
+69759054,way,Musée Archéologique,museum,Fréjus,,,http://www.ville-frejus.fr/fr/decouvrir-et-sortir/histoire-et-patrimoine/musees-et-monuments/musee-archeologique,43.4333017,6.7365776
+69760285,way,,attraction,Fréjus,,,,43.4343884,6.7373109
+69760677,way,Hôtel Kyriad Fréjus Centre - Saint-Raphaël,hotel,Fréjus,"422 Avenue André Léotard, 83600, Fréjus",83600,https://www.kyriad.com/fr/hotels/kyriad-frejus-centre-saint-raphael,43.4384041,6.7468823
+69763561,way,La Marée,restaurant,Fréjus,,,,43.4232629,6.7477873
+69768705,way,,restaurant,Fréjus,,,,43.4167406,6.743226
+69770315,way,,ruins,Fréjus,,,,43.4378602,6.7372045
+69772963,way,,restaurant,Fréjus,,,,43.3918822,6.7283345
+69773352,way,,ruins,Fréjus,,,,43.4392821,6.7431411
+69776352,way,,ruins,Fréjus,,,,43.4959814,6.7577981
+69776709,way,,ruins,Fréjus,,,,43.4378572,6.741485
+69778886,way,,ruins,Fréjus,,,,43.4958067,6.760452
+69792905,way,,restaurant,Fréjus,,,,43.3917084,6.7282277
+69797137,way,Horus Hôtel,hotel,Fréjus,"1583 Route de Cannes, 83600, Fréjus",83600,https://horushotel.fr,43.4640994,6.7601237
+69797424,way,Résidence Villa Romana,hotel,Fréjus,"265 Avenue de Port Fréjus, 83600, Fréjus",83600,,43.4228246,6.7505143
+69801343,way,Mercure Thalassa Fréjus,hotel,Fréjus,"16 Quai dei Caravello, 83600, Fréjus",83600,,43.4198659,6.7465558
+69805039,way,,ruins,Fréjus,,,,43.4402204,6.7437258
+69806849,way,,ruins,Fréjus,,,,43.4385285,6.742678
+69807640,way,Villa Aurélienne,castle,Fréjus,"83600, Fréjus",83600,,43.444759,6.7424776
+69807697,way,El Patio,restaurant,Fréjus,,,,43.4228432,6.7422344
+69809388,way,,ruins,Fréjus,,,,43.437777,6.7413275
+69845886,way,La Bastide du Pizzaiolo,restaurant,Fréjus,74 Avenue Eugène Joly,,,43.4254059,6.737319
+69847371,way,,ruins,Fréjus,,,,43.4726343,6.7111136
+69857753,way,,ruins,Fréjus,,,,43.4382542,6.7422545
+69858007,way,Atoll,hotel,Fréjus,,,,43.4214597,6.7438808
+69858088,way,,ruins,Fréjus,,,,43.4376218,6.74102
+69858291,way,,restaurant,Fréjus,,,,43.3917622,6.7282544
+69859217,way,,ruins,Fréjus,,,,43.4377008,6.7411744
+69861559,way,Hôtel des Quatre-Saisons,hotel,Fréjus,,,,43.4323305,6.7342215
+69862371,way,Le Tam Tam,restaurant,Fréjus,,,,43.4229602,6.7482391
+96491287,way,Plage de la Galiote,beach,Fréjus,,,,43.3928076,6.7282135
+112136998,way,Parc Areca,park,Fréjus,,,,43.387523,6.728357
+135326895,way,,beach,Fréjus,,,,43.4184701,6.7467567
+135326900,way,plage base nature,beach,Fréjus,,,,43.413225,6.7406093
+136794717,way,Fréjus plage,beach,Fréjus,,,,43.4226321,6.7566268
+160022826,way,Le Pinedon,restaurant,Fréjus,,,,43.5388825,6.696165
+171570079,way,Musée des Troupes de Marine,museum,Fréjus,,,https://www.defense.gouv.fr/terre/histoire-et-patrimoine/patrimoine/musees/musee-des-troupes-de-marine,43.4720966,6.7204425
+196664432,way,Base nature François Léotard,park,Fréjus,,,,43.4176279,6.7361177
+240872475,way,,park,Fréjus,,,,43.5443238,6.7039238
+269193449,way,,garden,Fréjus,,,,43.4453488,6.7705381
+281651593,way,Jardin de la Villa Marie,park,Fréjus,,,,43.4347066,6.7431163
+282484352,way,,park,Fréjus,,,,43.4381292,6.7404659
+299470411,way,Parc Aurélien,park,Fréjus,,,,43.4437266,6.7427525
+339192637,way,Plage des Esclamandes,beach,Fréjus,,,,43.3993399,6.7305514
+368154779,way,Gisant de Malpasset,memorial,Fréjus,,,,43.4342795,6.727698
+434901975,way,,ruins,Fréjus,,,,43.4960745,6.7777805
+469542816,way,Arche de Gargalon-Nord,ruins,Fréjus,,,,43.4727889,6.7534095
+472144481,way,,garden,Fréjus,,,,43.4347587,6.7262434
+472148503,way,,ruins,Fréjus,,,,43.4381566,6.7376879
+472148504,way,,ruins,Fréjus,,,,43.4382935,6.7384289
+472148505,way,,ruins,Fréjus,,,,43.4378988,6.7396452
+472148506,way,,ruins,Fréjus,,,,43.4377425,6.7398967
+472150841,way,Clos de la Tour,park,Fréjus,,,,43.4364624,6.7366732
+472150842,way,Jardin public du clos de la tour,park,Fréjus,,,,43.4364058,6.7357742
+474765535,way,,park,Fréjus,,,,43.5385936,6.7009811
+474775447,way,,park,Fréjus,,,,43.5383774,6.698773
+503994800,way,Le Cabanon,restaurant,Fréjus,,,,43.4187476,6.7465605
+504403901,way,Pont du Gargalon,ruins,Fréjus,,,,43.4721442,6.7529873
+522243661,way,Centre d'histoire et d'étude des troupes d'outre-mer (CHEtom°,museum,Fréjus,,,,43.4715485,6.7209276
+532952700,way,,park,Fréjus,,,,43.4225354,6.7449963
+541656387,way,IGESA Village Vacances Destremau,hotel,Fréjus,"1848 Route de Cannes, 83600, Fréjus",83600,https://www.igesa.fr/vos-vacances/recherche-sejour/reserver-mes-vacances/etablissement/frejus/,43.464868,6.7640403
+561064361,way,,ruins,Fréjus,,,,43.4416507,6.7445887
+561064363,way,,ruins,Fréjus,,,,43.4411094,6.7442602
+561064366,way,,ruins,Fréjus,,,,43.4421524,6.7448364
+575368234,way,,memorial,Fréjus,,,,43.4340154,6.7342509
+575373182,way,Pagode Hông Hiên Tu,attraction,Fréjus,,,,43.444826,6.7505049
+575373187,way,Mémorial des guerres d'Indochine,attraction,Fréjus,,,,43.4455904,6.7519472
+575373188,way,,memorial,Fréjus,,,,43.4459377,6.7512432
+597420178,way,,ruins,Fréjus,,,,43.4729399,6.7535076
+627111443,way,Parc Zoologique de Fréjus,zoo,Fréjus,,,https://zoo-frejus.com/,43.4752721,6.7364672
+628844816,way,,restaurant,Fréjus,,,,43.4570004,6.7373112
+647442151,way,Oppidum de l'Auriasque,ruins,Fréjus,,,,43.4891125,6.7708721
+683250655,way,Fraternité Blanche Universelle - Centre de congrès international,park,Fréjus,,,https://www.fbu.org/2015/pages/asso-ciation/bonfin.html,43.4802511,6.7288615
+683511896,way,,garden,Fréjus,,,,43.4420901,6.7059667
+683511901,way,,garden,Fréjus,,,,43.4413547,6.7074589
+686195930,way,Bloc du Barrage de Malpasset,ruins,Fréjus,,,,43.5032519,6.7585559
+686195932,way,Bloc du Barrage de Malpasset,ruins,Fréjus,,,,43.5034766,6.7587969
+686195933,way,Bloc du Barrage de Malpasset,ruins,Fréjus,,,,43.5086454,6.7557208
+686195934,way,Bloc du Barrage de Malpasset,ruins,Fréjus,,,,43.5085031,6.7556709
+706805460,way,Clos des Roses,hotel,Fréjus,,,https://www.closdesroses.com/fr/accueil-vignoble-clos-des-roses,43.4587385,6.7464128
+799490873,way,Jardin partagé,garden,Fréjus,,,,43.5231768,6.8713435
+886779064,way,,ruins,Fréjus,,,,43.4300456,6.7363896
+886872372,way,,ruins,Fréjus,,,,43.4424555,6.7447964
+886872373,way,,ruins,Fréjus,,,,43.4395967,6.7433398
+886872376,way,,ruins,Fréjus,,,,43.4373806,6.7405314
+886872377,way,,ruins,Fréjus,,,,43.4373266,6.7363555
+886892689,way,Arches Bérenguier,ruins,Fréjus,,,,43.4653706,6.7490548
+888375806,way,Arches de la Moutte,ruins,Fréjus,,,,43.478924,6.7524565
+888375809,way,Arches Bouteillière,ruins,Fréjus,,,,43.4825412,6.7494917
+888440202,way,Arche biaise de la Moutte,ruins,Fréjus,,,,43.4795632,6.7506493
+888565309,way,Pont de Jaumin,ruins,Fréjus,,,,43.527139,6.7729161
+888565310,way,Jaumin-Nord,ruins,Fréjus,,,,43.5278192,6.7732058
+948469731,way,Plage de la corniche d'azur,beach,Fréjus,,,,43.3703261,6.7138497
+988960405,way,"Horus Hotel, Bar, Restaurant et Karaokés",restaurant,Fréjus,"1583 Route de Cannes, 83600, Fréjus",83600,https://horushotel.fr,43.4641121,6.7601883
+1009916911,way,Square du Souvenir Français,park,Fréjus,,,,43.4377118,6.7355401
+1034376414,way,Bloc du Barrage de Malpasset,ruins,Fréjus,,,,43.5086103,6.7549689
+1034376415,way,Bloc du Barrage de Malpasset,ruins,Fréjus,,,,43.5085742,6.7548343
+1124421628,way,,memorial,Fréjus,,,,43.4362312,6.7333292
+1183341957,way,Calanque des Corailleurs,beach,Fréjus,,,,43.381458,6.7238091
+1183341959,way,,beach,Fréjus,,,,43.3859611,6.7278651
+1183341962,way,,beach,Fréjus,,,,43.3842145,6.7266573
+1183341964,way,Plage du Pébrier,beach,Fréjus,,,,43.378573,6.7204068
+1183341966,way,,beach,Fréjus,,,,43.3830471,6.7257157
+1183341971,way,Calanque du four à chaux,beach,Fréjus,,,,43.379912,6.7217107
+1253195038,way,,garden,Fréjus,,,,43.467968,6.7357553
+1255251575,way,,garden,Fréjus,,,,43.4668835,6.7341548
+1255251592,way,,garden,Fréjus,,,,43.4670386,6.7328142
+1265123144,way,,park,Fréjus,,,,43.4297651,6.7367408
+1313467777,way,,garden,Fréjus,,,,43.4697962,6.7434123
+1492346301,way,,garden,Fréjus,,,,43.428342,6.7279533
+1503826280,way,La Ferme d'Idéfix,zoo,Fréjus,"Chemin de Plan des Granges, Bagnols-en-Forêt",,https://ferme-idefix.wixsite.com/fermedidefi,43.541538,6.6648146
+10752374,relation,Barrage de Malpasset,ruins,Fréjus,,,,43.5119148,6.7571127
+12046336,relation,Arches Bonnet-Serailler,ruins,Fréjus,,,,43.4598643,6.7535497
+12091740,relation,Arches Sénéquier-Escoffet,ruins,Fréjus,,,,43.4870547,6.7453356

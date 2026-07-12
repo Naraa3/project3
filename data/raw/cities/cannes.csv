@@ -1,9 +1,13 @@
 osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+244424022,node,Belvédère du Maquis,viewpoint,Cannes,,,,43.5633391,6.9816794
+262282588,node,Belvédère du Dragon,viewpoint,Cannes,,,,43.5179633,7.0349512
 600879540,node,La Pizza Cresci,restaurant,Cannes,,,,43.5504447,7.0119138
 648461258,node,Sushi Kan,restaurant,Cannes,,,,43.552003,7.0235764
 796729848,node,Ruc Hôtel Cannes,hotel,Cannes,06400,06400,,43.5549339,7.0301147
 797742146,node,Les Tourrades,hotel,Cannes,"06400, Cannes",06400,,43.5506946,6.9610966
+952751739,node,Place de la Castre,viewpoint,Cannes,,,,43.550571,7.0106982
 952751876,node,La Corne,restaurant,Cannes,"16 Rue Saint-Dizier, 06400, Cannes",06400,,43.5512811,7.0088572
+953082381,node,,viewpoint,Cannes,,,,43.5510191,7.0103688
 981397008,node,Bistrot à Huitres,restaurant,Cannes,"31 Cours Félix Faure, 06400, Cannes",06400,,43.5519921,7.0134845
 981397017,node,Le Rendez-Vous,restaurant,Cannes,"35 Cours Félix Faure, 06400, Cannes",06400,,43.5520652,7.0136105
 981397019,node,Astoux et Brun,restaurant,Cannes,,,,43.5519415,7.0132711
@@ -14,6 +18,8 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1300567270,node,Eden Hotel & Spa,hotel,Cannes,"06400, Cannes",06400,,43.5517995,7.0282612
 1334402575,node,JW Marriott,hotel,Cannes,,,https://www.marriott.com/fr/hotels/ncejw-jw-marriott-cannes/overview,43.5500358,7.0253329
 1377975230,node,Hôtel Cannes Centre Univers,hotel,Cannes,"2 Rue du Maréchal Foch, 06400, Cannes",06400,https://hotelcannescentreunivers.com-hotel.com/,43.5526284,7.0189228
+1448524210,node,,ruins,Cannes,,,,43.5080915,7.0377368
+1448524227,node,Chapelle Saint-Michel,ruins,Cannes,,,,43.5089315,7.0458614
 1530146319,node,Warm'up,restaurant,Cannes,,,,43.54922,6.9665829
 1551733871,node,Cave Croisette,restaurant,Cannes,151 Rue d'Antibes,,,43.5514238,7.0296737
 1555741809,node,Pizza Hut,restaurant,Cannes,,,https://www.pizzahut.fr/huts/fr-1/193-cannes/,43.5582654,7.0166434
@@ -23,24 +29,35 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1737279592,node,Amici Ristorante Italiano,restaurant,Cannes,,,,43.5485822,6.9808404
 1757091700,node,Amarante,hotel,Cannes,,,,43.5616156,7.0169317
 1757091716,node,Suite Novotel,hotel,Cannes,,,,43.5582283,7.0170912
+1774996117,node,Stèle commémorative de l'équipage du B-24 Liberator,memorial,Cannes,,,,43.5599703,6.9978691
 1776942472,node,Lutétia,hotel,Cannes,,,,43.5553686,7.0160144
 1866514958,node,Hôtel Le Splendid,hotel,Cannes,,,,43.5520683,7.0158788
 1866514964,node,Cristal,hotel,Cannes,06400,06400,,43.5515431,7.0254089
 1866514965,node,Hôtel Barrière Le Gray d'Albion,hotel,Cannes,,,,43.5521158,7.021006
 1870674947,node,Au Mal Assis,restaurant,Cannes,,,,43.5496472,7.0121042
 1870674950,node,Le Melting Pot,restaurant,Cannes,,,,43.5494864,7.0118374
+1915849312,node,Belvédère du Cèdre,viewpoint,Cannes,,,,43.5593064,6.9939541
+1922684278,node,Croix des Gardes,viewpoint,Cannes,,,,43.5579915,6.990394
 1978637484,node,Montaigne,hotel,Cannes,"4 Rue Montaigne, 06400, Cannes",06400,https://www.hotel-montaigne.com,43.55496,7.0176358
+2140249778,node,Sirène Atlante,artwork,Cannes,,,https://mermaidsofearth.com/mermaid-statues-mermaid-sculptures/public/atlante-mermaid-statue-in-cannes/,43.5413956,7.0295497
 2181349769,node,Délices Yang,restaurant,Cannes,,,,43.5525431,7.0146354
 2338272970,node,Congres Festivals (des),hotel,Cannes,,,,43.5525924,7.0230485
 2388520432,node,San Telmo,restaurant,Cannes,"31 Rue Hoche, 06400, Cannes",06400,,43.5531185,7.0214647
 2440865015,node,L'Ardoise,restaurant,Cannes,,,,43.5524593,7.0158188
 2440865017,node,Le Bistro Gourmand,restaurant,Cannes,,,,43.5522386,7.0113008
+2575214168,node,Rochers du Coke,ruins,Cannes,,,,43.5480676,6.9844786
 2607932716,node,Sushi Bar Wazakura,restaurant,Cannes,13 Rue de Bône,,,43.552286,7.028689
 2632213730,node,Best Western,hotel,Cannes,,,,43.5521897,7.0283329
+2685646684,node,,memorial,Cannes,,,,43.5511084,7.0127568
 2698193914,node,Le Bistrot de l'ecailler,restaurant,Cannes,,,,43.5518289,7.012562
 2698193924,node,La Belle Assiette,restaurant,Cannes,,,,43.5518085,7.0125056
+2820190245,node,,viewpoint,Cannes,,,,43.5221138,7.0341093
 2824215842,node,La Guérite,restaurant,Cannes,,,https://laguerite.fr/,43.5238531,7.0467788
 2824215843,node,L'Escale,restaurant,Cannes,,,https://escale-ilesdelerins.pagesperso-orange.fr/,43.5224992,7.0405358
+2824215844,node,Musée du Masque de fer et du Fort Royal,museum,Cannes,,,https://www.cannes.com/fr/culture/musees-et-expositions/musee-du-masque-de-fer-et-du-fort-royal/a-voir-au-musee.html,43.523904,7.0453202
+2853508319,node,Statue de Jeanne d'Arc,memorial,Cannes,,,,43.5481897,7.0122089
+2893555901,node,Belvédère de Roquebillère,viewpoint,Cannes,,,,43.5607996,6.9809893
+2913439415,node,Jetée Albert Edouard Sud,viewpoint,Cannes,,,,43.547648,7.016188
 3023509575,node,Le Speakeasy,restaurant,Cannes,,,,43.5485042,7.0303062
 3023509577,node,Beau,restaurant,Cannes,,,,43.54859,7.0303062
 3023509579,node,Black Pearl,restaurant,Cannes,,,,43.5483597,7.0302818
@@ -89,14 +106,32 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3100507656,node,La Boussole Carrée,restaurant,Cannes,,,,43.5520831,7.0249612
 3280732708,node,Balladins,hotel,Cannes,,,,43.5515113,6.9562487
 3309711664,node,Le Royal de Chine,restaurant,Cannes,"142 Avenue Francis Tonner, 06150, Cannes",06150,,43.5500648,6.969244
+3310465092,node,,viewpoint,Cannes,,,,43.5663215,7.0380345
+3336626022,node,Pointe Croisette,viewpoint,Cannes,,,,43.5351044,7.0379394
 3481256394,node,B&B Hôtel,hotel,Cannes,,,https://www.hotel-bb.com/fr/hotels/cannes-ouest-la-bocca.htm,43.5484888,6.9626539
+3603424275,node,,viewpoint,Cannes,,,,43.5544394,7.0423691
 3666307803,node,Le relais des semailles,restaurant,Cannes,"9 Rue Saint-Antoine, 06400, Cannes",06400,,43.5512998,7.0112303
 3667356410,node,Le Canberra,hotel,Cannes,,,,43.5519747,7.0259719
 3667405145,node,Hôtel de Paris,hotel,Cannes,06400,06400,,43.5524902,7.023889
+3667405176,node,La Reprise du vainqueur,artwork,Cannes,,,,43.551572,7.0177065
 3667405187,node,La Californie,restaurant,Cannes,,,,43.5517919,7.0169835
 3672404868,node,Bâoli,restaurant,Cannes,,,https://lebaoli.com/,43.5404985,7.0341122
 3716898174,node,Le Caveau 30,restaurant,Cannes,,,,43.5521359,7.0139669
 3740052473,node,Le Maghreb,restaurant,Cannes,"40 Rue de Mimont, 06400, Cannes",06400,,43.5555231,7.023
+4012411322,node,Murs Peints - Cinéma Cannes,artwork,Cannes,,,https://www.cannes.com/en/cannes-and-cinema/the-walls-of-cannes-are-also-part-of-the-cast/painted-walls.html,43.5507745,7.0117009
+4012416837,node,Murs Peints - Charlie Chaplin,artwork,Cannes,,,https://www.cannes.com/fr/culture/cannes-et-le-cinema/cannes-aux-couleurs-du-7e-art/murs-peints.html,43.551761,7.0063542
+4012423997,node,Murs Peints - Hôtel de la Plage,artwork,Cannes,,,https://www.cannes.com/fr/culture/cannes-et-le-cinema/cannes-aux-couleurs-du-7e-art/murs-peints.html,43.5510748,7.0087038
+4012423998,node,Murs Peints - Trompe l’œil,artwork,Cannes,,,https://www.cannes.com/fr/culture/cannes-et-le-cinema/cannes-aux-couleurs-du-7e-art/murs-peints.html,43.5513061,7.0087869
+4012426290,node,Murs Peints - L’envers du décor,artwork,Cannes,,,https://www.cannes.com/fr/culture/cannes-et-le-cinema/cannes-aux-couleurs-du-7e-art/murs-peints.html,43.5515943,7.0092383
+4012426291,node,Murs Peints - Buster Keaton,artwork,Cannes,,,https://www.cannes.com/fr/culture/cannes-et-le-cinema/cannes-aux-couleurs-du-7e-art/murs-peints.html,43.5518149,7.0096577
+4012431741,node,Murs Peints - Gérard Philipe,artwork,Cannes,,,https://www.cannes.com/fr/culture/cannes-et-le-cinema/cannes-aux-couleurs-du-7e-art/murs-peints.html,43.5528114,7.0118173
+4012431742,node,Murs Peints - Le 7e Art,artwork,Cannes,,,https://www.cannes.com/fr/culture/cannes-et-le-cinema/cannes-aux-couleurs-du-7e-art/murs-peints.html,43.553741,7.0168231
+4012431743,node,Murs Peints - Marilyn Monroe,artwork,Cannes,,,https://www.cannes.com/fr/culture/cannes-et-le-cinema/cannes-aux-couleurs-du-7e-art/murs-peints.html,43.5544678,7.0205245
+4012465425,node,Murs Peints - Harold Lloyd,artwork,Cannes,,,https://www.cannes.com/fr/culture/cannes-et-le-cinema/cannes-aux-couleurs-du-7e-art/murs-peints.html,43.5550042,7.022141
+4012465426,node,Murs Peints - Les Baisers De Cinema,artwork,Cannes,,,https://www.cannes.com/fr/culture/cannes-et-le-cinema/cannes-aux-couleurs-du-7e-art/murs-peints.html,43.556441,7.0234792
+4012465427,node,Murs Peints - Cannes movie car museum,artwork,Cannes,,,https://www.cannes.com/fr/culture/cannes-et-le-cinema/cannes-aux-couleurs-du-7e-art/murs-peints.html,43.556657,7.0232418
+4012472240,node,Murs Peints - Plein Soleil - Alain Delon,artwork,Cannes,,,https://www.cannes.com/fr/culture/cannes-et-le-cinema/cannes-aux-couleurs-du-7e-art/murs-peints.html,43.5495051,6.975177
+4040655961,node,Alain Gerbault,memorial,Cannes,,,,43.5489086,7.0174671
 4040655962,node,Bijou Plage,restaurant,Cannes,,,,43.539212,7.0342079
 4040655971,node,Le Moure Rouge,restaurant,Cannes,,,,43.5415637,7.0398146
 4040655975,node,Pomme D'api,restaurant,Cannes,,,,43.5382156,7.0383963
@@ -115,10 +150,13 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4569107454,node,Stan'Suiss,restaurant,Cannes,,,,43.5530147,7.0081318
 4569107455,node,Memphis,restaurant,Cannes,,,,43.5523078,7.0082083
 4707713790,node,L'Eponyme,restaurant,Cannes,,,,43.5522854,7.0281328
+4709963789,node,Balades guidées en gyropodes - CannesVisiTour,attraction,Cannes,"Quai Max Laubeuf, 06400",06400,http://www.cannesvisitour.com,43.5475647,7.0127531
 4816309322,node,Auberge Provençale da Bouttau,restaurant,Cannes,10 Rue Saint-Antoine,,,43.5514519,7.0111252
+4835545114,node,Galerie Bartoux Cannes,gallery,Cannes,"64 Boulevard de la Croisette, 06400, Cannes",06400,https://www.galeries-bartoux.com/fr/galeries/galerie-cannes-croisette/,43.5485033,7.029595
 4882516625,node,Villa Botanica,hotel,Cannes,,,,43.5534619,7.0244109
 4993217922,node,La Paillote by Gaston & Gastounette,restaurant,Cannes,"6-7 Quai Saint-Pierre, 06400",06400,https://gaston-gastounette.fr/,43.5501895,7.0119689
 4994685121,node,L'Assiette Provençale,restaurant,Cannes,"9 Quai Saint-Pierre, 06400",06400,https://www.assiette-provencale.fr/,43.5500366,7.0120186
+5044988723,node,,memorial,Cannes,,,,43.5505773,7.0106625
 5296182753,node,Les Agapantes,hotel,Cannes,108 Avenue Maurice Chevalier,,,43.5622233,6.9613915
 5362334168,node,Citadines,hotel,Cannes,"1 Rue le Poussin, 06400, Cannes",06400,,43.5559222,7.0165731
 5362334169,node,China Town,restaurant,Cannes,"2 Boulevard Carnot, 06400, Cannes",06400,,43.5543971,7.0172137
@@ -151,6 +189,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5398008837,node,JW Grill,restaurant,Cannes,,,,43.5500436,7.0250672
 5398008843,node,Carlton Restaurant,restaurant,Cannes,,,https://www.carlton-cannes.com/fr/gastronomie/carlton-restaurant/,43.5493126,7.0274866
 5408421576,node,L'Authentic,restaurant,Cannes,"92 Avenue Francis Tonner, 06150, Cannes",06150,,43.54969,6.9758702
+5599039239,node,Monument des droits de l'enfant,memorial,Cannes,,,,43.5460486,7.0328669
 5599890745,node,Comme à la Maison,restaurant,Cannes,,,,43.5514953,7.0219718
 5599890753,node,Juice Lab,restaurant,Cannes,,,,43.5517257,7.0222629
 5599890762,node,Chyrstie,restaurant,Cannes,,,,43.5510115,7.0217609
@@ -158,18 +197,27 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5747700521,node,Le Manoir,restaurant,Cannes,"4 Petite Rue Saint-Antoine, 06400",06400,https://www.lemanoircannes.fr,43.5513108,7.0109266
 5764039761,node,L'etabli,restaurant,Cannes,,,,43.5487362,7.0083907
 5764039764,node,La Canna Suisse,restaurant,Cannes,,,,43.5518982,7.009783
+5863527602,node,,viewpoint,Cannes,,,,43.560893,6.9857135
+5863527603,node,,viewpoint,Cannes,,,,43.5616098,6.9809024
+5863654561,node,,viewpoint,Cannes,,,,43.557511,7.042983
 5895652751,node,La Dolce Vita,restaurant,Cannes,"83 Avenue de Lérins, 06400, Cannes",06400,,43.5387337,7.0380459
 5916877787,node,Le grain de sel,restaurant,Cannes,25 Rue Hoche,,,43.5531171,7.0209806
 5924238765,node,,restaurant,Cannes,,,,43.5543072,6.9578642
 6147135213,node,Pizza Jean-Jean,restaurant,Cannes,,,,43.5425446,7.0386483
 6291109225,node,Bistro les Canailles,restaurant,Cannes,12 Rue Jean Daumas,,,43.5532026,7.0254749
+6297312041,node,André Capron,memorial,Cannes,,,,43.5646011,7.0172112
+6419653782,node,Walk of Fame,attraction,Cannes,"06400, Cannes",06400,,43.5511921,7.0173269
 6445805585,node,Meat,restaurant,Cannes,,,,43.5515101,7.0108539
 6445805586,node,Uva,restaurant,Cannes,,,,43.5532077,7.0248594
 6445816986,node,Le Pompon,restaurant,Cannes,,,,43.5523425,7.0146476
+6461706126,node,Galerie Arista,gallery,Cannes,,,,43.5524464,7.0109024
 6558469485,node,Le Pastis,restaurant,Cannes,,,http://restaurantlepastis.com,43.5510643,7.0228888
+6577449884,node,À Lord Brougham,artwork,Cannes,,,,43.5520497,7.0154069
+6577595661,node,Virginie Hériot,memorial,Cannes,,,,43.5487036,7.0171811
 6696605903,node,Mim,restaurant,Cannes,,,,43.5457681,7.0343721
 6698502811,node,,restaurant,Cannes,,,https://www.facebook.com/LeDuplexCannes/,43.5385989,7.0386769
 6707415586,node,sardine,restaurant,Cannes,Rue Florian,,,43.5521277,7.0233349
+6779591069,node,Tamaris,beach,Cannes,,,,43.5357063,7.0365724
 6936990724,node,Le Napoléon Bonaparte,restaurant,Cannes,"Boulevard Jean Hibert, 06400, Cannes",06400,,43.5482822,7.0106314
 6936990725,node,Le Flamenco,restaurant,Cannes,"Boulevard Jean Hibert, 06400, Cannes",06400,,43.5482878,7.0104847
 6944280984,node,Mirabelle,restaurant,Cannes,,,,43.5516449,7.0105635
@@ -183,12 +231,19 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 7462923331,node,HappyFood,restaurant,Cannes,"81 Avenue de Grasse, 06400, Cannes",06400,http://www.happyfood06.fr/wordpress/,43.5551846,7.0119623
 7516943075,node,"La Pizzaiola ""Chez Xavier""",restaurant,Cannes,"10 Rue Marceau, 06400, Cannes",06400,https://www.pizzaiolachezxavier.com/,43.5529738,7.0240442
 7595873400,node,Le Fouquet's,restaurant,Cannes,,,,43.5477587,7.0308612
+7744666065,node,,memorial,Cannes,,,,43.5064909,7.0440384
 8002414353,node,Van Crepes Holland,restaurant,Cannes,,,https://van-crepes-holland.eatbu.com/,43.5589152,7.0170384
+8019041240,node,Roger Stiegler,memorial,Cannes,,,,43.5508245,7.0104783
+8044799751,node,,artwork,Cannes,,,,43.5504423,7.0205319
 8094007346,node,La Fleur d'Oranger,restaurant,Cannes,,,,43.5527286,6.9574463
 8267882095,node,Restaurant New Indien,restaurant,Cannes,,,,43.5487552,6.9808258
 8599822844,node,Fafa Pizza,restaurant,Cannes,,,,43.5563527,7.0234427
 8731360798,node,Regina di Napoli,restaurant,Cannes,,,,43.5549262,6.9703732
+8766010441,node,,artwork,Cannes,,,,43.5597068,6.9977372
+8935228254,node,Square Daniel Cordier,park,Cannes,,,,43.5393541,7.0346968
+8960315203,node,Chapelle Sainte-Anne,museum,Cannes,,,,43.5500757,7.0103076
 8961264518,node,La Libera,restaurant,Cannes,,,,43.5513022,7.0230619
+8967684617,node,Murales - Pulp Fiction,artwork,Cannes,,,,43.5461517,7.0341365
 9034227784,node,Parthenopi,restaurant,Cannes,,,,43.5524644,7.0144436
 9164314907,node,Ciro's Cannes,restaurant,Cannes,,,https://www.hotelsbarriere.com/cannes/le-majestic/restaurants-et-bars/ciro-s-cannes,43.5500135,7.0195434
 9208287958,node,Le Fouquet's,restaurant,Cannes,,,,43.5512606,7.0198013
@@ -222,11 +277,27 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 10181290561,node,Le bénitier,restaurant,Cannes,,,,43.548302,7.0092909
 10200127858,node,Hôtel Ibis Cannes Centre,hotel,Cannes,"8 Rue Marceau, 06400, Cannes",06400,,43.552968,7.0238254
 10289408775,node,MÖYE,restaurant,Cannes,"84 Boulevard de la Croisette, 06400, Cannes",06400,https://www.moye-restaurant.com/menus-carte/,43.5457891,7.0342469
+10302972484,node,carré militaire Marne du Souvenir Français,memorial,Cannes,,,,43.5596534,7.004437
 10816721857,node,La Cocotte,restaurant,Cannes,,,,43.5535783,7.0244095
+10823669371,node,,artwork,Cannes,,,,43.5512317,7.0300441
+10826977161,node,Monument au Général de Gaulle,memorial,Cannes,,,,43.5449937,7.0334472
+10827025526,node,Mémorial du génocide arménien,memorial,Cannes,,,,43.5388785,7.035439
 10980556569,node,Fred l'écaillaier,restaurant,Cannes,,,,43.5388205,7.0377734
+10990073901,node,Monument aux morts de la guerre de Crimée,memorial,Cannes,,,,43.522533,7.0493351
+10990136843,node,Monument aux morts de Cannes-La Bocca,memorial,Cannes,,,,43.551391,6.9769617
+10991810050,node,Monument commémoratif aux marins,memorial,Cannes,,,,43.5480415,7.0117439
+10991992434,node,Plaque commémorative Claude Levisalles,memorial,Cannes,,,,43.5581284,7.0212933
+10992001452,node,Plaque commémorative Hélène Vagliano,memorial,Cannes,,,,43.5550006,7.027401
+10992009679,node,Plaque commémorative Léon Noël,memorial,Cannes,,,,43.5581354,7.0213291
+10992103436,node,Plaque commémorative Groupe Jean Marie,memorial,Cannes,,,,43.5560398,7.0165897
+10992409638,node,Stèle commémorative Francis Tonner Henri Bergia,memorial,Cannes,,,,43.5502179,6.9623225
+10992450674,node,Stèle commémorative des fusillés villa Montfleury,memorial,Cannes,,,,43.555533,7.0315591
+10992450683,node,Plaque commémorative des élèves juifs déporté,memorial,Cannes,,,,43.5643781,7.0169202
 11049211548,node,Le Dauphin,restaurant,Cannes,,,,43.5520235,7.0169256
 11049278125,node,La Perle,restaurant,Cannes,,,,43.5520965,7.0138074
+11101921506,node,,memorial,Cannes,,,,43.508944,7.0461313
 11281757639,node,Carré d'as,restaurant,Cannes,,,,43.5554921,7.0233562
+11283676368,node,,artwork,Cannes,,,,43.5566398,7.024665
 11286450870,node,Chez Wael,restaurant,Cannes,,,,43.5562543,7.0233281
 11299680869,node,Le Bao (Bouche À Oreille),restaurant,Cannes,,,https://www.lebouchaoreille.com/,43.5526027,7.024572
 11470519238,node,Dolce Farniente,restaurant,Cannes,,,,43.5498566,7.030554
@@ -235,6 +306,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 12077255069,node,Boutique Hôtel Couleurs du Sud,hotel,Cannes,,,https://www.cannes-hotel-couleurs-du-sud.com/,43.5497616,7.0079345
 12207576386,node,La Bigoudène,restaurant,Cannes,,,,43.5519411,7.012861
 12207576393,node,La Pizzeria 66,restaurant,Cannes,,,,43.5518518,7.0126552
+12246373050,node,Général De Gaulle,memorial,Cannes,,,,43.5517247,7.0156438
 12304075756,node,Hotera,hotel,Cannes,,,,43.5533699,7.0194195
 12386078983,node,Le Cosi,restaurant,Cannes,"12 Rue du Suquet, 06400, Cannes",06400,https://www.lecosi.fr/,43.5515653,7.010209
 12386078984,node,Le Marais,restaurant,Cannes,"9 Rue du Suquet, 06400, Cannes",06400,https://restaurantlemarais.fr/,43.5515267,7.0100151
@@ -242,6 +314,9 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 12386078987,node,Le bistrot du suquet,restaurant,Cannes,"19 Rue du Suquet, 06400, Cannes",06400,,43.5515235,7.0098137
 12386078989,node,Le XXIV,restaurant,Cannes,"2 Rue du Suquet, 06400, Cannes",06400,https://le24suquet.fr/,43.5515101,7.0096272
 12461465540,node,Tredici pizzeria Forville,restaurant,Cannes,,,,43.5526935,7.0116075
+12617883114,node,Francl Gallery,gallery,Cannes,,,,43.5517079,7.0196785
+12629179791,node,,memorial,Cannes,,,,43.5494078,7.0493495
+12629179792,node,Olivier en souvenir d'Olivier,memorial,Cannes,,,,43.5500012,7.0518169
 12638575552,node,Yelo Belle Époque,hotel,Cannes,,,https://www.sonder.com/fr-fr/destinations/cannes/yelo-belle-epoque/c37235?sleeps=1,43.553428,7.0216776
 12638575553,node,Madame Hien,restaurant,Cannes,,,https://madamehiencannes.com/,43.5533907,7.021674
 12638575556,node,Hôtel du Nord,hotel,Cannes,,,,43.5535517,7.0197955
@@ -254,6 +329,9 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 13132994999,node,Fervor,restaurant,Cannes,"5 Rue des Frères Casanova, 06400, Cannes",06400,,43.5528393,7.0196778
 13132995000,node,Rebelion,restaurant,Cannes,"3 Rue des Frères Casanova, 06400, Cannes",06400,,43.5527313,7.0196801
 13543255222,node,La Cave,restaurant,Cannes,,,https://www.lacavecannes.com,43.5528582,7.0247948
+13615116255,node,,artwork,Cannes,,,,43.5506058,7.0200566
+13615123008,node,,artwork,Cannes,,,,43.5485444,7.0124233
+13615128679,node,,memorial,Cannes,,,,43.5508158,7.0189853
 13638749471,node,côté jardin,restaurant,Cannes,12,,,43.5567612,7.0148222
 13638769028,node,su rice,restaurant,Cannes,53,,,43.5585242,7.0166364
 13685922672,node,Hôtel Regina,hotel,Cannes,,,,43.54953,7.0291974
@@ -267,9 +345,181 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 13694679439,node,Hop Sushi,restaurant,Cannes,,,,43.5497796,7.0305674
 13695539269,node,Bouillon des artistes,restaurant,Cannes,,,,43.5503197,7.0119418
 13695568092,node,Ô Choubouloute,restaurant,Cannes,,,,43.5497946,7.0120751
+13696426981,node,,memorial,Cannes,,,,43.5506068,7.018826
+13697641228,node,Galerie 20,gallery,Cannes,,,,43.5529854,7.0208273
 13697654735,node,7Art,hotel,Cannes,,,,43.5536954,7.0167914
 13697656092,node,Love Café,restaurant,Cannes,,,,43.5529845,7.02107
 13697662418,node,Kabayan,restaurant,Cannes,,,,43.553599,7.0167541
 13698116043,node,Aux délices arméniens,restaurant,Cannes,,,,43.5533391,7.0233234
 13698740401,node,Zuma Cannes,restaurant,Cannes,"Place Franklin Roosevelt, 06400",06400,https://www.zumarestaurant.com/,43.5360743,7.0376555
+13715898487,node,Fresque Maupassant,artwork,Cannes,,,,43.5545814,7.0119529
+13728169401,node,Tapis rouge - Red carpet,attraction,Cannes,,,,43.550801,7.0183335
 13871211701,node,Medami,restaurant,Cannes,"30 Rue Hoche, 06400",06400,https://www.medamicannes.com/,43.5529591,7.0217487
+13898342701,node,,viewpoint,Cannes,,,,43.5164968,7.0530746
+8038271,way,Les jardins de la Roseraie,park,Cannes,,,,43.5446858,7.0335347
+26334200,way,Plage Brigitte Bardot,beach,Cannes,,,,43.549456,7.0189675
+64916904,way,Caban'Ice,restaurant,Cannes,,,,43.5484812,7.0097449
+64917198,way,Musée des explorations du monde,museum,Cannes,"06400, Cannes",06400,https://www.cannes.com/fr/culture/musees-et-expositions/musee-des-explorations-du-monde.html,43.5501469,7.0103782
+64917786,way,Lou Souleou,restaurant,Cannes,,,,43.5484851,7.0095281
+64918098,way,La Tour du Masque,attraction,Cannes,,,,43.5500184,7.0114887
+64918434,way,Canopy by Hilton Cannes,hotel,Cannes,"2 Boulevard Jean Hibert, 06400, Cannes",06400,https://www.hilton.com/en/hotels/ceqcfpy-canopy-cannes/,43.5484896,7.0117526
+64947025,way,Vegaluna,restaurant,Cannes,,,,43.5488846,7.0273027
+64947035,way,Grand Hotel Cannes,hotel,Cannes,"45 Boulevard de la Croisette, 06400, Cannes",06400,,43.5510699,7.0247696
+64947054,way,Sun Riviera,hotel,Cannes,"06400, Cannes",06400,http://www.sun-riviera.com,43.5516655,7.0275577
+64947084,way,Lucia Cannes,restaurant,Cannes,,,,43.5495347,7.0253786
+64947133,way,Rado Beach Helen,restaurant,Cannes,,,,43.5483332,7.0286866
+64947206,way,Annex Beach,restaurant,Cannes,,,,43.5492105,7.0263684
+64947296,way,Intercontinental Carlton Cannes,hotel,Cannes,,,,43.5498924,7.0272915
+64947306,way,Hôtel Martinez,hotel,Cannes,"73 Boulevard de la Croisette, 06400, Cannes",06400,,43.5482917,7.0310061
+64947366,way,Plage Goéland,restaurant,Cannes,,,,43.5501218,7.0229016
+64947417,way,Mademoiselle Gray,restaurant,Cannes,,,,43.5500771,7.023139
+64947425,way,Palais des Festivals et des Congrès,attraction,Cannes,"1 Boulevard de la Croisette, 06400, Cannes",06400,,43.5506798,7.0177463
+64947440,way,La Môme Plage,restaurant,Cannes,,,,43.5499701,7.0236589
+64947473,way,Palais Stéphanie Beach,restaurant,Cannes,,,,43.5497334,7.0246523
+64947511,way,Plage Ondine,restaurant,Cannes,,,,43.5486138,7.0280247
+64947527,way,Barrière Le Majestic,hotel,Cannes,,,https://www.hotelsbarriere.com/fr/cannes/le-majestic.html,43.5512305,7.0199714
+64947601,way,Hôtel America,hotel,Cannes,,,,43.5516928,7.0201161
+64947627,way,Carlton Beach Club,restaurant,Cannes,"52 La Croisette, 06400, Cannes",06400,https://carltoncannes-thebeachclub.com/welcome/,43.5489644,7.0270781
+64947661,way,Croisette Beach,hotel,Cannes,"13 Rue du Canada, 06400, Cannes",06400,https://www.croisettebeach.com/,43.5501215,7.0282291
+64947662,way,La Plage du Martinez,restaurant,Cannes,"Boulevard de la Croisette, Cannes",,,43.5477329,7.0298819
+64947674,way,Arcotel,hotel,Cannes,,,,43.5533419,7.0204138
+64947750,way,Hyde Beach,restaurant,Cannes,"Boulevard de la Croisette, Cannes",,https://www.hydebeachcannes.com,43.5497894,7.0244165
+64947758,way,La Plage du Festival,restaurant,Cannes,,,,43.5493802,7.0258816
+64947872,way,Copal Beach,restaurant,Cannes,,,,43.548703,7.0277924
+64947995,way,C Beach,restaurant,Cannes,,,,43.549918,7.0238938
+64947996,way,Plage Miramar,restaurant,Cannes,,,,43.5480158,7.0293385
+64948006,way,Plage Mandala,restaurant,Cannes,,,,43.548429,7.0284737
+64948034,way,Croisette Beach,restaurant,Cannes,"Boulevard de la Croisette, Cannes",,,43.5481216,7.0291327
+64948045,way,Nehô Suites,hotel,Cannes,,,https://neho4you.com/en/neho-suites-cannes-croisette,43.5499018,7.0301617
+64965638,way,Hôtel Alexandre III,hotel,Cannes,"15 Boulevard Alexandre III, 06400",06400,http://www.hotel-madrilene.com,43.546695,7.0363894
+64971340,way,La Tonnelle,restaurant,Cannes,,,https://www.tonnelle-abbayedelerins.com/,43.5088597,7.042628
+64971359,way,Monastère de Lérins,castle,Cannes,,,,43.5052481,7.0478042
+65073554,way,Villa Domergue,museum,Cannes,,,https://www.cannes.com/fr/mairie/annuaire-pratique/lieux/eqt_munic/villa-domergue-et-ses-jardins.html,43.5599062,7.0412158
+65074083,way,Chapelle Bellini,museum,Cannes,Allée du Parc Fiorentina,,https://museechapellebellini.com/,43.5603923,7.0323741
+65078397,way,Cannes Gallia,hotel,Cannes,,,,43.5550488,7.0302513
+65083933,way,Oxford,hotel,Cannes,,,,43.5643214,7.0215924
+65135468,way,Chalet de L'Isére,hotel,Cannes,,,,43.5546832,7.0122319
+65135844,way,Albert Ier,hotel,Cannes,,,,43.5550052,7.0104441
+65136511,way,,hotel,Cannes,,,,43.5539444,7.0158411
+65155828,way,,ruins,Cannes,,,,43.5595249,6.993772
+65156556,way,,ruins,Cannes,,,,43.559648,6.9936798
+65214138,way,Château de la Tour,hotel,Cannes,,,,43.5516418,6.9888896
+65214874,way,Villa Livia,hotel,Cannes,"12 Avenue Font de Veyre, 06150, Cannes",06150,https://www.pierreetvacances.com/fr-fr/fp_N1Z_location-residence-villa-livia?currency=EUR,43.5524798,6.988551
+65245129,way,Pierre & Vacances Cannes Verrerie,hotel,Cannes,6 Rue de la Verrerie,,https://www.pierreetvacances.com/fr-fr/fp_CSL_location-residence-cannes-verrerie,43.5481593,6.9790318
+65246072,way,Hôtel Kyriad,hotel,Cannes,,,,43.5509329,6.9612184
+65246221,way,bâtiment N00,restaurant,Cannes,,,,43.5391305,6.9560392
+65246692,way,Restaurant La Bastide Rouge,restaurant,Cannes,,,,43.5510088,6.9613787
+65246870,way,Campanile,hotel,Cannes,06400,06400,,43.5489713,6.9556374
+67187052,way,Square Carnot,park,Cannes,,,,43.5650566,7.0174088
+81796878,way,Square François Musso,park,Cannes,,,,43.5511905,7.0092351
+114958604,way,,beach,Cannes,,,,43.5456965,6.9732644
+114959265,way,,beach,Cannes,,,,43.5478964,6.9834856
+114959965,way,Plage Waikiki,beach,Cannes,,,,43.5484456,7.0056217
+115947177,way,,beach,Cannes,,,,43.5475359,6.9807922
+117804143,way,Square Frédéric Mistral,park,Cannes,,,,43.549307,7.0069449
+126122328,way,Plage des dauphins,beach,Cannes,,,,43.5341594,6.95202
+139613906,way,Jardin de la Ferme Giaume,park,Cannes,,,,43.5544687,6.9654777
+147673584,way,Jardin Marthe Villalonga,park,Cannes,,,https://www.cannes.com/fr/cadre-de-vie/grands-travaux/realisations/espace-vert-promenade/jardin-public-marthe-villalonga-ex-jardin-de-mores.html,43.5487094,6.9839727
+156657132,way,Square Joseph Barthelemy,park,Cannes,,,,43.5496703,6.9806839
+161443232,way,Square de Verdun,park,Cannes,,,,43.5394526,7.0346787
+161443295,way,Bijou Plage,beach,Cannes,,,,43.5386392,7.0346126
+161453422,way,Plage Gazagnaire,beach,Cannes,,,,43.5393155,7.0395023
+199544041,way,Square Jean Hibert,park,Cannes,,,,43.5480557,7.0118617
+199544043,way,,beach,Cannes,,,,43.5475511,7.0111927
+201871010,way,Parc Saint-Nicolas,park,Cannes,,,,43.5547885,7.019412
+201872939,way,Square Léo Callandry,park,Cannes,,,,43.5618336,7.0171756
+205108083,way,Place de l'Étang,park,Cannes,,,,43.5391076,7.037612
+207986791,way,Tapis rouge,attraction,Cannes,,,,43.5508082,7.0183583
+207986839,way,Plage Brigitte Bardot,beach,Cannes,,,,43.5499923,7.0214937
+207986843,way,Plage de la Croisette,beach,Cannes,,,,43.5479264,7.027577
+211022074,way,,garden,Cannes,,,,43.5530401,7.0321536
+219906962,way,Butte de Saint-Cassien,park,Cannes,,,,43.5493021,6.9545074
+223749378,way,Cannes,hotel,Cannes,,,,44.0049962,12.656065
+275469422,way,,park,Cannes,,,,43.5490628,6.9853355
+287775028,way,Jardin des Hespérides,park,Cannes,,,,43.54145,7.0378374
+287777729,way,,beach,Cannes,,,,43.5355696,7.0362981
+287781249,way,,beach,Cannes,,,,43.5380163,6.955939
+287781250,way,Plage de la Bocca,beach,Cannes,,,,43.5428156,6.9645635
+299927701,way,,artwork,Cannes,,,,43.550758,7.0117389
+299927705,way,Film Cars Paintings,artwork,Cannes,,,,43.5566308,7.023243
+362429828,way,Square Mérimée,park,Cannes,,,,43.5515472,7.0176983
+363637756,way,,park,Cannes,,,,43.5629398,7.0446646
+366677354,way,Okko,hotel,Cannes,6 bis Place de la Gare,,https://www.okkohotels.com/fr/page/cannes/okko-hotels-cannes-centre-hotel-4-etoiles-au-pied-de-la-gare.3097.html,43.5538155,7.0211168
+404698485,way,,park,Cannes,,,,43.5616558,6.9567448
+467184745,way,,garden,Cannes,,,,43.5368972,7.0367423
+476913365,way,Square Stephan Vahanian,park,Cannes,,,,43.5543776,7.0218381
+479306896,way,,park,Cannes,,,,43.5580861,7.0227818
+512401056,way,Square d'Aurèle,park,Cannes,"22 Rue Aurélienne, 06150, Cannes",06150,,43.5520114,6.9738622
+538993397,way,square,park,Cannes,,,,43.5576858,6.964143
+538994596,way,Square HLM ranguin,park,Cannes,,,,43.5682449,6.9675242
+538995409,way,Jardin des Gourguettes,park,Cannes,,,,43.5722561,6.9610217
+539187762,way,Square Sainte-Rosalie,park,Cannes,,,,43.5532996,6.9762578
+539188036,way,Jardin des 7 anges,park,Cannes,,,,43.5628962,7.0015295
+539188800,way,Square des Oliviers,park,Cannes,,,,43.5591873,7.028994
+539189815,way,Jardin du Périer,park,Cannes,,,,43.5660266,6.9950337
+539189817,way,Square des Frères Gaudino Joly,park,Cannes,,,,43.5555538,7.0283165
+539189819,way,Square du Gallia,park,Cannes,,,,43.5545941,7.0290938
+539191794,way,Square René Cassin,park,Cannes,,,,43.5511842,7.032682
+539191795,way,Square Stephan Vahanian,park,Cannes,,,,43.5545498,7.0218898
+539193818,way,Jardin Montfleury,park,Cannes,,,,43.5545494,7.0324333
+539193819,way,Square Mont Chevalier,park,Cannes,,,,43.5503498,7.0110664
+539195386,way,Villa Rothschild et ses jardins,park,Cannes,,,,43.5514154,7.0024901
+539198276,way,Esplanade George Pompidou -,park,Cannes,,,,43.5506036,7.0201587
+539447250,way,Parc Beauvallon,park,Cannes,,,,43.5630252,7.011838
+540437612,way,Promenade de la Croisette,park,Cannes,,,,43.5415259,7.0345826
+558776481,way,Le Cabanon,restaurant,Cannes,,,,43.5436131,6.9661964
+629916202,way,,garden,Cannes,,,,43.5368037,7.03646
+645693200,way,,garden,Cannes,,,,43.5511796,7.026002
+648472932,way,"Plage ""Thalès""",beach,Cannes,,,http://voilespace.blogspot.fr/,43.5382879,6.9560982
+682955610,way,,garden,Cannes,,,,43.5507918,6.9571904
+682955617,way,,garden,Cannes,,,,43.5523598,6.9567863
+682955618,way,,garden,Cannes,,,,43.5520849,6.9567404
+682955629,way,,garden,Cannes,,,,43.5544634,6.9571809
+692839505,way,,garden,Cannes,,,,43.5502349,7.0242626
+692839506,way,,garden,Cannes,,,,43.5505655,7.0248845
+692839507,way,,garden,Cannes,,,,43.5504737,7.0242732
+692839508,way,,garden,Cannes,,,,43.5503401,7.0237804
+710705120,way,,garden,Cannes,,,,43.5507504,7.0086044
+722747588,way,Tamaris,restaurant,Cannes,,,,43.5356456,7.0369459
+722747589,way,,garden,Cannes,,,,43.5364983,7.0375271
+722747590,way,,garden,Cannes,,,,43.5364832,7.0377257
+722747591,way,,garden,Cannes,,,,43.5365214,7.0372811
+722747592,way,,garden,Cannes,,,,43.5365506,7.0370682
+743707573,way,,garden,Cannes,,,,43.5552194,7.0291389
+750268710,way,,garden,Cannes,,,,43.5536187,7.0331062
+750268711,way,,garden,Cannes,,,,43.5535313,7.0329857
+826887317,way,Square Méro,park,Cannes,,,,43.5550301,7.0096711
+844999416,way,,garden,Cannes,,,,43.5550805,7.0324932
+844999419,way,,garden,Cannes,,,,43.5555661,7.0319758
+844999421,way,,garden,Cannes,,,,43.5553105,7.0332222
+978189359,way,,beach,Cannes,,,,43.522548,7.0347693
+1113400421,way,Square Mallarmé,park,Cannes,,,https://www.cannes.com/fr/mairie/annuaire-pratique/equipements-municipaux/square-stephane-mallarme.html,43.5554925,7.0151984
+1124616224,way,,park,Cannes,,,,-32.9045426,-60.7980026
+1165413523,way,Wok&Sushi,restaurant,Cannes,,,,43.5539179,7.0187797
+1176472042,way,,garden,Cannes,,,,43.5517354,6.9732927
+1177320419,way,,garden,Cannes,,,,43.5518593,6.9729434
+1177584242,way,,garden,Cannes,,,,43.5525028,6.9729683
+1177584262,way,,garden,Cannes,,,,43.552655,6.9733703
+1177586752,way,,garden,Cannes,,,,43.5527228,6.9727144
+1177586753,way,,garden,Cannes,,,,43.5526916,6.972941
+1177586754,way,,garden,Cannes,,,,43.5526814,6.9731777
+1177586758,way,,garden,Cannes,,,,43.5526318,6.9735465
+1196075992,way,PAPYLEE,restaurant,Cannes,,,,43.5539572,7.0189718
+1256134903,way,Avion de la Bocca,artwork,Cannes,,,,43.5501146,6.9574688
+1302258997,way,,garden,Cannes,,,,43.5494142,7.0269179
+1302258998,way,,garden,Cannes,,,,43.5493232,7.0271874
+1312494470,way,,park,Cannes,,,,43.5435882,7.0382564
+1324485514,way,Jardin du Caroubier,park,Cannes,,,,43.5510598,7.0102071
+1363850596,way,La table ronde,park,Cannes,,,,43.5498063,7.0521058
+1363850597,way,Rond de palmiers,garden,Cannes,,,,43.5495638,7.0496099
+1363850610,way,Jardin tropical,garden,Cannes,,,,43.5491586,7.0502887
+1385608687,way,,garden,Cannes,,,,43.5540067,6.9642688
+1415149653,way,,garden,Cannes,,,,43.5558979,6.9902621
+1430792886,way,Cannes,hotel,Cannes,,,,38.4923464,-122.4066171
+1494452688,way,,beach,Cannes,,,,43.522577,7.0497633
+1494452690,way,,beach,Cannes,,,,43.5206972,7.0548438
+1494452692,way,La Piscine,beach,Cannes,,,,43.5160116,7.0572627
+1494452694,way,,beach,Cannes,,,,43.5161024,7.0494007
+1497981367,way,Halte Varaldi,park,Cannes,,,,43.5554889,7.0121376
+4075713,relation,,beach,Cannes,,,,43.5485615,6.9928157
+12001749,relation,Place du Commandant Maria,park,Cannes,,,,43.5559376,7.0237405

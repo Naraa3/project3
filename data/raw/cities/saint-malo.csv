@@ -1,15 +1,32 @@
 osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+534727001,node,,viewpoint,Saint-Malo,,,,48.6344717,-2.0489715
+644660687,node,,viewpoint,Saint-Malo,,,,48.6375918,-2.1331819
+644660688,node,Pointe du Décollé,viewpoint,Saint-Malo,,,,48.6449326,-2.1125937
+662464363,node,,memorial,Saint-Malo,,,,48.6513998,-2.0235837
+670137175,node,Notre-Dame la Dominatrice de Bizeux,memorial,Saint-Malo,,,,48.6280033,-2.026309
+686512484,node,Mémorial 1939-1945,museum,Saint-Malo,"35400, Saint-Malo",35400,https://www.saint-malo.fr/accueil/sortir/musees/memorial-39-45/,48.6372803,-2.0292297
+693738756,node,Ruines du Château de la Roche-Montbourcher,attraction,Saint-Malo,,,,48.4210868,-1.6527629
+695232458,node,Menhir La Pierre-Longue,attraction,Saint-Malo,,,,48.4200215,-1.6706675
+733173393,node,Menhir de Champ-Dolent,attraction,Saint-Malo,,,,48.5353226,-1.7393339
+775945300,node,Maison de la Baie du Mont Saint-Michel,attraction,Saint-Malo,"35960, Le Vivier-sur-Mer",35960,https://www.maison-baie.com/,48.603517,-1.7670318
 947116791,node,Le Décollé,restaurant,Saint-Malo,,,,48.6439353,-2.1127272
 947195964,node,L'Amirauté,restaurant,Saint-Malo,1 Boulevard du Décollé,,http://www.facebook.com/pages/LAmirauté,48.6437835,-2.1128462
+974273303,node,Statue de Chateaubriand,memorial,Saint-Malo,,,,48.4069486,-1.7539723
 977515627,node,L'Équateur,restaurant,Saint-Malo,3 Promenade des Alliés,,,48.6354715,-2.0542307
 977552525,node,Taratata,restaurant,Saint-Malo,,,,48.6351007,-2.05284
 977574424,node,Petit Bleu,restaurant,Saint-Malo,31 Rue de la Vallée,,https://www.lebalafon-restaurant-dinard.fr/,48.6312289,-2.0572822
 987969699,node,Le relais de Tournebride,restaurant,Saint-Malo,,,,48.4150825,-1.8396239
 989671111,node,Le Parvis,restaurant,Saint-Malo,,,,48.4116409,-1.8120151
+989671117,node,Monument aux morts,memorial,Saint-Malo,,,,48.4119816,-1.8130935
 997115064,node,Brasserie La Pointe du Grouin,restaurant,Saint-Malo,,,,48.7083153,-1.8455037
 1078806875,node,Ibis Styles,hotel,Saint-Malo,,,http://www.hotel-saint-malo-ibis-styles.com/,48.6486267,-2.0239888
 1098938896,node,Fidelis,restaurant,Saint-Malo,,,,48.6500168,-2.0234323
+1099143647,node,,artwork,Saint-Malo,,,,48.6505966,-2.0248378
+1148167845,node,La Motte Beaumanoir,castle,Saint-Malo,,,,48.414505,-1.9129509
+1150870341,node,La Maison des Feins,ruins,Saint-Malo,,,,48.4847904,-1.8767756
 1229176821,node,La Drolonnerie,restaurant,Saint-Malo,,,,48.4699443,-1.8006248
+1257727824,node,Monastère de Beaufort,castle,Saint-Malo,,,,48.5032923,-1.820329
+1363631120,node,Statue de Mahé de La Bourdonnais,artwork,Saint-Malo,,,,48.6462122,-2.0236223
 1365800412,node,Breizh café,restaurant,Saint-Malo,,,,48.6351017,-2.0536219
 1365800426,node,Le Wilson,restaurant,Saint-Malo,21 Boulevard du Président Wilson,,,48.635106,-2.053456
 1365800435,node,L'Aventure,restaurant,Saint-Malo,4 Rue Yves Verney,,,48.6347742,-2.0556833
@@ -19,9 +36,9 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1365877720,node,Le Marché des Anges,restaurant,Saint-Malo,,,,48.632175,-2.0584498
 1366952890,node,La Malouinière,restaurant,Saint-Malo,,,,48.6501641,-2.0231843
 1366952891,node,Le Saint-Vicent,restaurant,Saint-Malo,,,,48.6500277,-2.0232639
-1366952892,node,Knop Café Burger,restaurant,Saint-Malo,,,,48.6502482,-2.0231265
+1366952892,node,Armelle,restaurant,Saint-Malo,,,,48.6502482,-2.0231265
 1366952897,node,Café de Saint-Malo,restaurant,Saint-Malo,,,,48.6503675,-2.0234241
-1366952898,node,Restaurant des Remparts,restaurant,Saint-Malo,,,,48.6498554,-2.0233722
+1366952898,node,Perla di Napoli,restaurant,Saint-Malo,,,,48.6498554,-2.0233722
 1366952899,node,La Pignatta,restaurant,Saint-Malo,,,,48.649756,-2.0234302
 1368056056,node,Hôtel de l'Univers,hotel,Saint-Malo,,,https://www.hotel-univers-saintmalo.com/bar-de-l-univers.php,48.6510826,-2.0239307
 1368056088,node,Le Bistrot de Jean,restaurant,Saint-Malo,,,,48.6503342,-2.0248247
@@ -32,12 +49,24 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1369171390,node,L'Équipage,restaurant,Saint-Malo,,,http://creperielequipage.eresto.net/,48.6495573,-2.0237186
 1369319746,node,Le Petit Crêpier,restaurant,Saint-Malo,6 Rue Sainte-Barbe,,,48.6498246,-2.0239134
 1371108986,node,Le Biniou,restaurant,Saint-Malo,,,https://www.creperie-le-biniou.fr/,48.6498448,-2.0246474
+1390189406,node,,viewpoint,Saint-Malo,,,,48.603935,-2.020266
 1397185523,node,Le Newport,restaurant,Saint-Malo,,,https://le-newport.fr,48.6346253,-2.0559858
 1397185540,node,8 Bis,restaurant,Saint-Malo,8 Bis Rue Yves Verney,,,48.6345799,-2.0560764
 1432260888,node,Crêperie du Télégraphe,restaurant,Saint-Malo,,,,48.5798489,-1.6264138
 1432609446,node,Korydwenn,restaurant,Saint-Malo,,,,48.5521364,-1.5850196
+1433073933,node,Observatoire ornithologique,viewpoint,Saint-Malo,,,,48.5134008,-1.5095877
+1438771959,node,,viewpoint,Saint-Malo,,,,48.574339,-1.6849456
 1486417475,node,Chez Chantal,restaurant,Saint-Malo,,,,48.6485712,-2.0266399
 1486417477,node,Porte Saint-Pierre,restaurant,Saint-Malo,,,,48.6478413,-2.0283473
+1486417522,node,,memorial,Saint-Malo,,,,48.646263,-2.0264588
+1486417523,node,,memorial,Saint-Malo,,,,48.646814,-2.028205
+1486417524,node,,memorial,Saint-Malo,,,,48.6477023,-2.0258725
+1486417528,node,,memorial,Saint-Malo,,,,48.6489035,-2.0263626
+1486417529,node,,memorial,Saint-Malo,,,,48.6507739,-2.0232608
+1486417530,node,,memorial,Saint-Malo,,,,48.6514141,-2.0236164
+1550940597,node,Statue de Jacques Cartier,artwork,Saint-Malo,,,,48.6471604,-2.028732
+1557201052,node,,viewpoint,Saint-Malo,,,,48.6829939,-1.9905557
+1559388252,node,Monument aux morts de Paramé,memorial,Saint-Malo,,,,48.6564118,-1.9843629
 1578458426,node,La Vague,restaurant,Saint-Malo,"73 Boulevard de Rochebonne, 35400, Saint-Malo",35400,,48.6627576,-1.9890075
 1645737171,node,Le cancalais,restaurant,Saint-Malo,"12 Quai Gambetta, 35260",35260,http://www.lecancalais.fr/,48.6712875,-1.8542679
 1645777679,node,La Mère Champlain,hotel,Saint-Malo,1 Quai de l'Administrateur-en-Chef Thomas,,https://www.lamerechamplain.com/,48.6711204,-1.8527208
@@ -45,6 +74,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1691305345,node,Le Coquillage,restaurant,Saint-Malo,"Le Buot, 35350, Saint-Méloir-des-Ondes",35350,https://www.maisons-de-bricourt.com/fr/page/le-coquillage,48.6430426,-1.8710769
 1692549827,node,La Villa,restaurant,Saint-Malo,,,,48.6051946,-1.8994647
 1693575608,node,La Table des Marais,restaurant,Saint-Malo,,,,48.5943903,-1.8431972
+1708677196,node,Cathédraloscope,museum,Saint-Malo,"4 Place de la Cathédrale, 35120",35120,https://www.cathedraloscope.com/,48.5500395,-1.75601
 1718072232,node,Les Doris,restaurant,Saint-Malo,,,,48.5702721,-1.973896
 1718382652,node,Au Galichon,restaurant,Saint-Malo,"5 Rue de la Grande Cohue, 35430",35430,http://www.augalichon.fr,48.5701525,-1.9729744
 1718409622,node,Auberge du Clos des Vignes,restaurant,Saint-Malo,"La Porte, 35430, Saint-Jouan-des-Guérets",35430,https://www.aubergeduclosdesvignes.com/,48.5977499,-1.9883522
@@ -53,20 +83,44 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1789886850,node,Le Bistrot de Solidor,restaurant,Saint-Malo,,,,48.6358768,-2.0262902
 1789888386,node,La Corderie,restaurant,Saint-Malo,,,https://www.lacorderie-restaurant.com,48.6348412,-2.0284554
 1824106894,node,Le Skipper,restaurant,Saint-Malo,,,,48.6131277,-2.0359913
+1902520657,node,Mont Garrot,viewpoint,Saint-Malo,,,,48.5631803,-1.9650369
+2054173189,node,,viewpoint,Saint-Malo,,,,48.6357106,-2.0475407
+2054173195,node,,viewpoint,Saint-Malo,,,,48.6389008,-2.0484259
 2203795256,node,Tous à table,restaurant,Saint-Malo,,,,48.5883769,-1.8444314
+2213460279,node,Château de Miniac,castle,Saint-Malo,,,https://www.chateauminiac.com/,48.5043044,-1.8909709
 2214756525,node,Les Flots Gourmands,restaurant,Saint-Malo,,,,48.6555751,-2.005048
 2242323959,node,Le Baratin,restaurant,Saint-Malo,"La Fourberie, 35800, Saint-Lunaire",35800,,48.6319317,-2.085209
 2246817111,node,Maison Vermer,restaurant,Saint-Malo,"79 Boulevard de Rochebonne, 35400, Saint-Malo",35400,https://www.maisonvermer.fr/,48.6629471,-1.9891516
+2261235741,node,Parc des Rousses,park,Saint-Malo,,,,48.6571894,-1.9893899
+2265945605,node,Alfred Hitchcock,artwork,Saint-Malo,,,,48.6354719,-2.0547452
+2265945606,node,Marins péris ou disparus en mer,memorial,Saint-Malo,,,,48.6399179,-2.0624269
+2274358689,node,Parc des Rousses,park,Saint-Malo,,,,48.655971,-1.9895048
+2274360405,node,Parc de La Fontaine au Lièvre,park,Saint-Malo,,,,48.6502987,-1.978775
+2281050511,node,,viewpoint,Saint-Malo,,,,48.6172872,-2.0146694
+2286574339,node,,viewpoint,Saint-Malo,,,,48.6317984,-2.0218192
 2286841234,node,,restaurant,Saint-Malo,,,,48.5969652,-1.887248
+2286890912,node,,viewpoint,Saint-Malo,,,,48.6342718,-2.0306512
+2286891039,node,,viewpoint,Saint-Malo,,,,48.6371657,-2.0291955
+2286891049,node,,viewpoint,Saint-Malo,,,,48.6383308,-2.0286739
+2287008122,node,,viewpoint,Saint-Malo,,,,48.6375685,-2.0309957
+2287008260,node,,viewpoint,Saint-Malo,,,,48.6382021,-2.0305154
 2302970149,node,Le moulin du Mont,restaurant,Saint-Malo,,,,48.5718537,-1.7687194
+2302970165,node,Statue de la Vierge,artwork,Saint-Malo,,,,48.5720765,-1.7666233
+2327187886,node,,artwork,Saint-Malo,,,,48.4110529,-1.7488004
+2359894091,node,,viewpoint,Saint-Malo,,,,48.571861,-1.9803099
+2359907520,node,,viewpoint,Saint-Malo,,,,48.5845195,-1.9867844
+2364554327,node,Sphère armillaire,artwork,Saint-Malo,,,,48.2944822,-1.9552874
+2392065372,node,,viewpoint,Saint-Malo,,,,48.6655051,-1.8649033
 2420275966,node,Restaurant Le Cap Horn,restaurant,Saint-Malo,,,https://www.restaurant-caphorn.fr/,48.6580426,-1.9991781
 2505224133,node,La Capitainerie,restaurant,Saint-Malo,10 Rue Jean-Marie Savatte,,,48.675329,-1.8514034
 2510651377,node,La P'tite Rôtisserie,restaurant,Saint-Malo,,,,48.6502223,-2.0248586
 2515089887,node,Comme à la maison,restaurant,Saint-Malo,39 B Rue du Port,,,48.6749149,-1.8522004
 2536328859,node,Hostellerie du Vieux Moulin,hotel,Saint-Malo,"Vallée des Moulins, 35630, Hédé-Bazouges",35630,,48.294001,-1.8038177
 2628631529,node,Crêperie l'Hermine,restaurant,Saint-Malo,Rue des Préaux,,https://www.creperie-hermine.com/,48.6181331,-2.1269531
+2810668746,node,Musée de l'Outil et des Métiers,museum,Saint-Malo,Tinténiac,,http://www.tinteniac.fr/musee_outil_et_metiers/,48.331952,-1.8324062
 2813028697,node,K'Origan Pizzas,restaurant,Saint-Malo,,,,48.3280833,-1.8330032
 2839167768,node,Le Relais des Ondes,restaurant,Saint-Malo,,,,48.6199377,-1.8516289
+2839188126,node,1914 - 1918,memorial,Saint-Malo,,,,48.619388,-1.8502744
 2839197320,node,Chez Claude - La Cuisine A L'Ardoise,restaurant,Saint-Malo,,,,48.6188277,-1.8499257
 2839201425,node,Baia,restaurant,Saint-Malo,,,,48.6186167,-1.8495073
 2839201426,node,La Fleur de Sarrasin,restaurant,Saint-Malo,,,,48.6181114,-1.8486785
@@ -99,7 +153,23 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2846041041,node,Côté Boeuf,restaurant,Saint-Malo,,,,48.6326394,-1.8645015
 2876756245,node,La Petite Longère,restaurant,Saint-Malo,8,,,48.6360542,-2.0680032
 2876756254,node,Café de la plage,restaurant,Saint-Malo,66 Boulevard Albert Lacroix,,,48.6364062,-2.0678126
+2885252184,node,,viewpoint,Saint-Malo,,,,48.5720707,-1.766643
+2889776558,node,Monument aux Morts,memorial,Saint-Malo,,,,48.6796762,-1.8561213
+2900461283,node,Rocher Napoléon,viewpoint,Saint-Malo,,,,48.6420741,-2.115868
+2904700119,node,,memorial,Saint-Malo,,,,48.2956587,-1.8023255
+2916198076,node,Monument aux Morts,memorial,Saint-Malo,,,,48.6040333,-1.8928359
+2919231034,node,Monument aux Morts,memorial,Saint-Malo,,,,48.5616926,-1.9288627
+2924944603,node,,memorial,Saint-Malo,,,,48.5885974,-1.5929857
+2927623354,node,Monument aux Morts,memorial,Saint-Malo,,,,48.5859819,-1.6567969
+2936058254,node,Monument aux Morts,memorial,Saint-Malo,,,,48.5139781,-1.8992989
+2944184700,node,Monument aux Morts,memorial,Saint-Malo,,,,48.527404,-1.8478723
+2946126457,node,Monument aux Morts,memorial,Saint-Malo,,,,48.5637742,-1.8629427
+2948447099,node,Monument aux Morts,memorial,Saint-Malo,,,,48.5954411,-1.8432082
+2952486098,node,Monument aux Morts,memorial,Saint-Malo,,,,48.5481444,-1.9538666
+2952758943,node,,monument,Saint-Malo,,,,48.5713136,-1.9703937
+2955844389,node,,memorial,Saint-Malo,,,,48.5881909,-1.633591
 2957577141,node,L'escale des Bouchots,restaurant,Saint-Malo,"22 Rue du Bout de la Ville, 35120, Hirel",35120,http://www.lescaledesbouchots.com/,48.6103223,-1.8259485
+2959024537,node,Monument aux Morts,memorial,Saint-Malo,,,,48.6752139,-1.9108421
 3002199633,node,Bar Restaurant de la Mer,restaurant,Saint-Malo,,,,48.602112,-1.7689367
 3010960334,node,Chez Madeleine,restaurant,Saint-Malo,,,,48.4915414,-1.7278748
 3011217637,node,Hotêl des Ormes,hotel,Saint-Malo,,,,48.4886902,-1.7315793
@@ -110,12 +180,21 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3016285633,node,Le Comptoir,restaurant,Saint-Malo,,,,48.5006363,-1.7342333
 3018197517,node,Casa Cosi,restaurant,Saint-Malo,,,https://www.casa-cosi.fr/,48.6309165,-2.0082239
 3021458149,node,Le Beauséjour,restaurant,Saint-Malo,,,https://www.beausejourbrasserie.fr,48.6359791,-2.0683392
+3043075986,node,colonne de Lorgeril,memorial,Saint-Malo,,,,48.418556,-1.9102452
+3070532050,node,Monument aux Morts,memorial,Saint-Malo,,,,48.5517336,-1.5841737
 3076950638,node,Le Bistrot de la Houle,restaurant,Saint-Malo,,,,48.6252985,-2.1366624
+3099226005,node,Monument aux Morts,memorial,Saint-Malo,,,,48.5242939,-1.7754542
+3105722441,node,Statue de Robert Surcouf,memorial,Saint-Malo,,,,48.6503738,-2.0281779
 3119273455,node,La Table,restaurant,Saint-Malo,7 Rue Thévenard,,,48.6481207,-2.0268025
+3123279755,node,,memorial,Saint-Malo,,,,48.509915,-1.6972821
+3133355345,node,Monument aux Morts,memorial,Saint-Malo,,,,48.4965668,-1.5876429
 3142536647,node,Hôtel des Abers,hotel,Saint-Malo,10 Rue de la Corne de Cerf,,https://www.hoteldesabers.com/,48.6505034,-2.0248745
 3158178424,node,Le Yacht,restaurant,Saint-Malo,Promenade du Clair de Lune,,https://www.dinard-restaurant-le-yacht.fr/,48.6330161,-2.0512097
+3159832622,node,Monument aux Morts,memorial,Saint-Malo,,,,48.5126187,-1.6606005
+3190672580,node,Monument aux Morts,memorial,Saint-Malo,,,,48.3942709,-1.6494969
 3194504504,node,Hôtel de la Houle,hotel,Saint-Malo,14,,,48.6252282,-2.1366784
 3194504505,node,Le Pot de Beurre,restaurant,Saint-Malo,,,,48.6337181,-2.1075898
+3197741720,node,Monument aux Morts,memorial,Saint-Malo,,,,48.6276587,-2.0556512
 3213047907,node,Ô Divino,restaurant,Saint-Malo,"8 Rue des Cordiers, 35400, Saint-Malo",35400,,48.6479177,-2.0243723
 3284685069,node,Brasserie du Sillon,restaurant,Saint-Malo,,,https://www.brasseriedusillon.com/,48.6542788,-2.009392
 3284685109,node,La Corniche,restaurant,Saint-Malo,4 Chaussée du Sillon,,https://www.lacorniche-saintmalo.fr/,48.6519813,-2.0182885
@@ -127,7 +206,12 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3354222555,node,Piccola mia - Gastronomia,restaurant,Saint-Malo,"57 Rue Ville-Pépin, 35400, Saint-Malo",35400,https://ifratelligroup.fr/piccola-mia/,48.6344666,-2.013496
 3356890410,node,La Belle Enora,restaurant,Saint-Malo,,,https://www.creperie-kynouh.fr/,48.6355898,-2.0672501
 3359599222,node,Les Voiles de Solidor,restaurant,Saint-Malo,,,,48.6374128,-2.0259739
+3375265357,node,Monseigneur Duchesne,artwork,Saint-Malo,,,,48.6361755,-2.0214402
 3381565752,node,Hôtel d'Aleth,hotel,Saint-Malo,,,https://www.hotel-aleth-saint-malo.com/,48.6359308,-2.0217775
+3413177427,node,Chateaubriand,artwork,Saint-Malo,,,,48.551327,-1.7516797
+3416142806,node,,memorial,Saint-Malo,,,,48.4737932,-1.6504112
+3421992629,node,Girouette,artwork,Saint-Malo,,,,48.580195,-1.6478076
+3430399817,node,,memorial,Saint-Malo,,,,48.5494632,-1.7533302
 3444531642,node,Gîte Parfum d'Embruns,hotel,Saint-Malo,"2 Rue du Bord de Mer, 35120, Hirel",35120,http://hirel.centerblog.net/,48.6068179,-1.8024671
 3444556974,node,Hôtel restaurant de la Plage,hotel,Saint-Malo,"Rue Eugène et Auguste Feyen, 35260, Cancale",35260,https://www.hoteldelaplage-cancale.com/,48.7005305,-1.8503334
 3447296319,node,Gîte La Ville Auray,hotel,Saint-Malo,,,https://www.ville-auray.com/,48.6581057,-1.9544006
@@ -140,6 +224,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3468571495,node,L'Écluse,restaurant,Saint-Malo,3 Boulevard Féart,,,48.6347728,-2.0545769
 3551812169,node,Hôtel de la Porte Saint-Pierre,hotel,Saint-Malo,1,,https://www.hotel-portestpierre.com/,48.6479494,-2.0282119
 3551812182,node,Les Chiens du Guet,restaurant,Saint-Malo,4,,,48.6478067,-2.0284535
+3637917373,node,Pointe des Crolles,viewpoint,Saint-Malo,,,,48.6713937,-1.8517824
 3641537781,node,Le Petit St Lu,restaurant,Saint-Malo,91 Boulevard du Général de Gaulle,,,48.636455,-2.1078936
 3641537787,node,Le Théâtre,restaurant,Saint-Malo,333 Boulevard du Général de Gaulle,,,48.636958,-2.1110898
 3641537790,node,Damea,restaurant,Saint-Malo,301 Boulevard du Général de Gaulle,,,48.636899,-2.1105805
@@ -163,6 +248,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3741618041,node,Hôtel de la Cité,hotel,Saint-Malo,,,,48.6512504,-2.0251622
 3741618042,node,Le Corps de Garde,restaurant,Saint-Malo,3 Montée Notre-Dame,,https://le-corps-de-garde.com/,48.6490859,-2.0282552
 3741618043,node,Les Voiles,restaurant,Saint-Malo,,,,48.6492104,-2.0239427
+3741618951,node,Crêperie Le Môle,restaurant,Saint-Malo,,,,48.6465379,-2.0262872
 3741618960,node,Café Simon,restaurant,Saint-Malo,,,,48.6491512,-2.0239795
 3741618961,node,O' de Mer,restaurant,Saint-Malo,,,,48.6492857,-2.0238895
 3741618962,node,Zolibato,restaurant,Saint-Malo,,,,48.6493365,-2.0238551
@@ -177,9 +263,18 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3741620775,node,Le père Bougeard,restaurant,Saint-Malo,,,,48.649467,-2.0238709
 3741620799,node,Aux Épis d'Or,restaurant,Saint-Malo,3 Rue André Desilles,,,48.647822,-2.0261975
 3741620803,node,Bistro du Rocher,restaurant,Saint-Malo,19 Rue de Toulouse,,,48.6467291,-2.0262404
+3781147697,node,,memorial,Saint-Malo,,,,48.4668057,-1.76673
+3783911761,node,,memorial,Saint-Malo,,,,48.6139059,-1.8402581
+3783911762,node,,memorial,Saint-Malo,,,,48.6138972,-1.8402072
+3799534210,node,,memorial,Saint-Malo,,,,48.4501936,-1.7275272
 3803141605,node,L'Amiral,restaurant,Saint-Malo,,,,48.6446441,-2.0250377
 3833532790,node,Galettes de Saint-Malo,restaurant,Saint-Malo,,,,48.6338385,-2.0123403
 3833532791,node,La Fourchette de Léonie,restaurant,Saint-Malo,,,https://www.la-fourchette-de-leonie.fr/,48.63378,-2.0126453
+3900438009,node,,memorial,Saint-Malo,,,,48.3840441,-1.8252171
+3901532997,node,,memorial,Saint-Malo,,,,48.3726481,-1.8759668
+3922595121,node,,memorial,Saint-Malo,,,,48.4496796,-1.6631457
+3956732957,node,,memorial,Saint-Malo,,,,48.4096309,-1.7522964
+4111320645,node,Monument aux Américains,memorial,Saint-Malo,,,,48.5791512,-2.0570939
 4167927896,node,Résidence MMV Le Domaine du Mont,hotel,Saint-Malo,"Route de la Baie, L'Hôpital, 35610, Roz Sur Couesnon",35610,https://www.mmv.fr/residence-club-mont-saint-michel-le-domaine-du-mont,48.5938054,-1.5963356
 4172941725,node,La Parenthèse,restaurant,Saint-Malo,2ter,,,48.6349473,-2.0536324
 4172941746,node,Sucré Salé,restaurant,Saint-Malo,,,,48.6230434,-2.1364599
@@ -221,55 +316,86 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4207806535,node,Hôtel Cartier,hotel,Saint-Malo,13 Rue Saint-Vincent,,https://www.hotel-cartier.com/,48.6500289,-2.0247872
 4207806536,node,Au p'tit bouchot,restaurant,Saint-Malo,,,,48.6489854,-2.0248112
 4213650554,node,La Vieille Auberge,restaurant,Saint-Malo,,,http://www.lavieilleauberge.net/fr/,48.2975887,-1.8072729
+4241944154,node,Monument aux morts,memorial,Saint-Malo,,,,48.5756054,-2.0125482
 4247539065,node,Le Hoggar,restaurant,Saint-Malo,,,,48.6374904,-2.0179463
 4247539078,node,Tan&em,restaurant,Saint-Malo,,,,48.6351956,-2.0138539
 4247539339,node,La Mouette,restaurant,Saint-Malo,,,,48.6397735,-2.0187157
 4247539340,node,Le rajasthan,restaurant,Saint-Malo,,,,48.6394899,-2.0185321
 4247539341,node,L'Olivetto,restaurant,Saint-Malo,,,,48.6387616,-2.0185082
+4253595541,node,L'Atelier,gallery,Saint-Malo,,,,48.6475069,-2.0267498
 4253595545,node,Crêperie Bergamote,restaurant,Saint-Malo,,,https://www.bergamotesaintmalo.com/,48.6492896,-2.0263194
-4254355995,node,Hôtel-restaurant du Lac Combourg,hotel,Saint-Malo,"2 Place Chateaubriand, 35270, Combourg",35270,hotel-combourg.com,48.4068901,-1.7537073
+4254355995,node,Hôtel-restaurant du Lac Combourg,hotel,Saint-Malo,"2 Place Chateaubriand, 35270, Combourg",35270,https://www.hotel-combourg.com/,48.4068901,-1.7537073
 4257897349,node,La Socca,restaurant,Saint-Malo,,,,48.6374561,-2.017308
 4265633441,node,À l'Abri des Flots,restaurant,Saint-Malo,,,,48.6336573,-2.0564849
 4294458455,node,La Rustigue,restaurant,Saint-Malo,,,,48.5690684,-1.5456008
+4325641414,node,,memorial,Saint-Malo,,,,48.5794191,-2.0604005
 4325641417,node,La Petite Cantine,restaurant,Saint-Malo,9,,,48.5791152,-2.058693
+4325642493,node,,memorial,Saint-Malo,,,,48.5795128,-2.0602192
 4349454691,node,Au Rocher de Cancale,restaurant,Saint-Malo,5 Quai de l'Administrateur-en-Chef Thomas,,,48.6709441,-1.8519881
 4355633801,node,La Rance,restaurant,Saint-Malo,7,,https://www.restaurantlarance.fr/,48.5795798,-2.0583349
 4402804027,node,L'escale gourmande,restaurant,Saint-Malo,,,,48.3309889,-1.8321746
+4462181180,node,Carré militaire du Commonwealth,memorial,Saint-Malo,,,,48.6216415,-2.0619167
 4471446801,node,Coté Plage,restaurant,Saint-Malo,,,,48.635479,-2.0538951
 4541708753,node,Le Bouche à Oreille,restaurant,Saint-Malo,,,,48.6555125,-2.0047165
+4585333937,node,,monument,Saint-Malo,,,,48.3445588,-1.827215
+4589371389,node,Manoir du Grand Trémaudan,castle,Saint-Malo,,,,48.3883586,-1.7759725
+4638315956,node,Tour la Montagnaise,attraction,Saint-Malo,,,,45.1999837,-71.4898309
+4714905290,node,Observatoire ornithologique de la Musse,viewpoint,Saint-Malo,,,,48.5088822,-1.5100569
+4715006920,node,Observatoire,viewpoint,Saint-Malo,,,,48.519276,-1.5153022
 4738797684,node,Hôtel Otonali,hotel,Saint-Malo,,,https://www.otonali.fr/,48.6522813,-2.011459
+4749653466,node,,memorial,Saint-Malo,,,,48.5512555,-1.6990775
 4806622505,node,Potelé,restaurant,Saint-Malo,,,,48.6350061,-2.0534565
 4806622512,node,L'Arganier,restaurant,Saint-Malo,,,,48.6349997,-2.0526727
 4806622514,node,Sadi2,restaurant,Saint-Malo,,,http://www.dinard-sadi2.fr/,48.6339278,-2.0579244
 4907576313,node,Les Trois Marches,restaurant,Saint-Malo,,,,48.6160565,-2.0593966
+4907821121,node,Statue de René Duguay-Trouin,artwork,Saint-Malo,,,,48.6466054,-2.0237527
+4908827812,node,,viewpoint,Saint-Malo,,,,48.6506863,-2.0287089
+4908827813,node,,viewpoint,Saint-Malo,,,,48.6477703,-2.0288961
+4908827814,node,,viewpoint,Saint-Malo,,,,48.6469683,-2.029128
+4931965750,node,Belvédère sur la Baie du Mont St Michel,viewpoint,Saint-Malo,,,,48.590418,-1.5910484
 4940392436,node,L'Inattendu,restaurant,Saint-Malo,,,,48.6158456,-2.0572349
+4943965443,node,Georgianna Lizotte-Ouellet,memorial,Saint-Malo,,,,45.2000388,-71.4906223
+4946929969,node,,viewpoint,Saint-Malo,,,,48.6491382,-2.0283715
 4946929973,node,Le Bar à Tartines,restaurant,Saint-Malo,,,,48.6486337,-2.0241814
 4946929975,node,L'Adressse,hotel,Saint-Malo,"3 Rue des Poulieurs, 35400, Saint-Malo",35400,https://www.hotel-saint-malo-ladresse.com/,48.6519467,-2.0170092
 4946929977,node,Les Korrigans,restaurant,Saint-Malo,,,,48.6486648,-2.0241722
 4946929979,node,Le Talamara,restaurant,Saint-Malo,,,,48.6531773,-2.0115665
 4946929981,node,Cosa Nostra,restaurant,Saint-Malo,,,,48.6531141,-2.0123579
 4946929982,node,Les 7 Mers,restaurant,Saint-Malo,,,http://www.lenouveaumonde.fr,48.653516,-2.0109968
+4990866347,node,Château de Lupin,castle,Saint-Malo,,,,48.6817313,-1.9424638
 5036588858,node,Le Rocher,restaurant,Saint-Malo,24 Place du Canada,,,48.6820343,-1.9680953
 5043341123,node,Mont bon'heur,restaurant,Saint-Malo,,,,48.5697279,-1.7682612
 5071586821,node,La Gourmand'ille,restaurant,Saint-Malo,"22 Rue de la Herse, 35400, Saint Malo",35400,https://la-gourmandille.business.site/,48.6484405,-2.0248584
+5089272123,node,,attraction,Saint-Malo,,,,48.5322171,-1.5630667
 5115018488,node,Cantine Scolaire,restaurant,Saint-Malo,,,,48.6044164,-1.8929916
 5115018490,node,Hôtel Restaurant du Commerce,restaurant,Saint-Malo,,,,48.6043823,-1.8942576
 5292459369,node,La Table Ronde,restaurant,Saint-Malo,,,,48.5497626,-1.7548764
+5292459959,node,,viewpoint,Saint-Malo,,,,48.6737492,-1.8483169
+5314151442,node,Galerie Jean-Luc Le Mounier,gallery,Saint-Malo,,,https://www.lemounier.fr,48.6337312,-2.053565
 5376761007,node,Le Rockabilly,hotel,Saint-Malo,"5 Boulevard de la Tour d'Auvergne, 35400, Saint-Malo",35400,https://hotel-le-rockabilly.business.site/,48.6517523,-2.0080651
 5432749523,node,Château Mont-Dol,hotel,Saint-Malo,"1 Rue de la Mairie, 35120",35120,,48.5702258,-1.7701569
 5485070161,node,La Cour du Temple,restaurant,Saint-Malo,"5, 35270, Combourg",35270,https://www.moncommerce35.fr/lacourdutemple-combourg,48.4080102,-1.7527686
 5492083699,node,Le Rockabilly,restaurant,Saint-Malo,"5 Boulevard de la Tour d'Auvergne, 35400, Saint-Malo",35400,https://hotel-le-rockabilly.business.site/,48.6517793,-2.0081275
+5492103446,node,,memorial,Saint-Malo,,,,48.5113895,-1.5445595
+5521238768,node,Aux Américains,memorial,Saint-Malo,,,,48.623108,-2.13879
 5582729273,node,Au pied d'cheval,restaurant,Saint-Malo,10 Quai Gambetta,,https://www.restaurant-aupieddcheval.fr/,48.6712535,-1.8541286
 5582729275,node,La Bisquine,restaurant,Saint-Malo,13 Quai Gambetta,,,48.6712507,-1.8543915
 5583854411,node,La Bisquine,restaurant,Saint-Malo,,,,48.650111,-2.0232109
+5583854521,node,,memorial,Saint-Malo,,,,48.649993,-2.0262343
+5607526187,node,,artwork,Saint-Malo,,,,48.5517651,-1.7521932
 5634693344,node,Ti Nevez,restaurant,Saint-Malo,"12 Rue Broussais, 35400, Saint-Malo",35400,,48.6486977,-2.0262043
 5635091376,node,Crêperie du Roy,restaurant,Saint-Malo,,,https://www.facebook.com/CreperieDuRoy/,48.6340991,-2.0547036
+5682239756,node,Bicentenaire Canal d'Ille et Rance,memorial,Saint-Malo,,,,48.3053967,-1.7933015
+5682239758,node,,artwork,Saint-Malo,,,,48.3043581,-1.7905371
+5741333190,node,,viewpoint,Saint-Malo,,,,48.5390924,-1.7545895
+5741333217,node,,viewpoint,Saint-Malo,,,,48.5395141,-1.75438
 5776823364,node,Breizh Café,restaurant,Saint-Malo,7 Quai de l'Administrateur-en-Chef Thomas,,,48.6709031,-1.851809
 5776823365,node,Le Phare,restaurant,Saint-Malo,6 Quai de l'Administrateur-en-Chef Thomas,,,48.6709314,-1.8518904
 5776823366,node,Le Continental,hotel,Saint-Malo,4 Quai de l'Administrateur-en-Chef Thomas,,,48.6709527,-1.852096
 5776823372,node,Chez Odette,restaurant,Saint-Malo,1 Place de la Chapelle,,,48.6712317,-1.8527665
 5776823373,node,Ty Skorn,restaurant,Saint-Malo,4 Place de la Chapelle,,,48.6713451,-1.8527799
 5776823374,node,La Source,restaurant,Saint-Malo,,,,48.6683279,-1.8625029
+5827792757,node,hommage à l’équipage du « Pourquoi pas ? »,memorial,Saint-Malo,,,,48.6347365,-2.0247579
 5839480288,node,Breizh Café,restaurant,Saint-Malo,,,https://breizhcafe.com/,48.6480781,-2.0251038
 5843933525,node,Les Ribines Brasserie,restaurant,Saint-Malo,,,,48.6056596,-1.7106646
 5853108655,node,Brit Hotel Alghotel,hotel,Saint-Malo,61 Avenue du Général de Gaulle,,https://hotel-cancale-alghotel.brithotel.fr/,48.6782286,-1.8611483
@@ -277,6 +403,9 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5873867572,node,Côté Mer,restaurant,Saint-Malo,"4 Rue Ernest Lamort, 35260, Cancale",35260,,48.6681455,-1.8626032
 5873868685,node,Chez Victor,restaurant,Saint-Malo,8 Quai de l'Administrateur-en-Chef Thomas,,,48.6708563,-1.8516261
 5876666985,node,Au pied de cheval,restaurant,Saint-Malo,10 Quai Gambetta,,,48.6712651,-1.8541344
+5964374392,node,Grotte de Notre-Dame de la Libération,attraction,Saint-Malo,,,,48.5697476,-1.5478639
+5974957224,node,Salle du Piano,attraction,Saint-Malo,,,,48.6968064,-1.8958655
+5998167786,node,,viewpoint,Saint-Malo,,,,48.671906,-1.8538854
 6023081355,node,Le Dock,restaurant,Saint-Malo,,,https://www.ledock-stmalo.fr/,48.6521097,-2.0131484
 6024415667,node,Le Nessay,hotel,Saint-Malo,,,,48.6239012,-2.1428489
 6031850350,node,La Taverne,restaurant,Saint-Malo,,,,48.6467041,-2.0086163
@@ -284,17 +413,39 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 6031850360,node,Mister Pizza,restaurant,Saint-Malo,,,,48.6459534,-2.0086338
 6033192685,node,Café Goulu,restaurant,Saint-Malo,,,,48.6371521,-1.9045709
 6134694101,node,Crêp'Pizz,restaurant,Saint-Malo,,,,48.3292466,-1.8424026
+6150179351,node,,viewpoint,Saint-Malo,,,,48.6573312,-1.8645537
 6169018496,node,Oyster Club,restaurant,Saint-Malo,,,,48.6335866,-2.0568145
+6173295964,node,,viewpoint,Saint-Malo,,,,48.6372374,-2.0470633
+6173295972,node,Ève tentée par le serpent,artwork,Saint-Malo,,,,48.6344902,-2.0490723
+6177045353,node,SS Hilda,memorial,Saint-Malo,,,,48.6348135,-2.0550263
+6177045386,node,Yves Verney,memorial,Saint-Malo,,,,48.6348704,-2.0548595
 6191062145,node,Bistrot de la grève,restaurant,Saint-Malo,,,,48.5696329,-1.9747258
+6209724411,node,Monument aux morts,memorial,Saint-Malo,,,,48.5609448,-1.9299057
+6225370167,node,Monument aux morts,memorial,Saint-Malo,,,,48.6375936,-1.9026722
 6359367380,node,Diélo Pizza,restaurant,Saint-Malo,18 Rue du Port,,https://www.facebook.com/150059002287217,48.676672,-1.8514523
 6389600652,node,Le Glacier,restaurant,Saint-Malo,1 Promenade des Alliés,,,48.6354725,-2.0544084
 6389600657,node,L'Appel du Large,restaurant,Saint-Malo,4 Boulevard du Président Wilson,,http://www.casino-barriere-dinard.com,48.6355166,-2.0535387
 6389600660,node,Le Cent80,restaurant,Saint-Malo,,,,48.6355164,-2.0536443
+6410347971,node,,viewpoint,Saint-Malo,,,,48.6244356,-2.1381819
+6410361196,node,Saint-Briac-sur-Mer - Mai 2016,memorial,Saint-Malo,,,,48.6256266,-2.1406886
+6424008189,node,Train touristique,attraction,Saint-Malo,,,,48.6507841,-2.0221559
+6439263222,node,Victoria Melita,memorial,Saint-Malo,,,,48.6207018,-2.1364296
+6471101328,node,À Winston Churchill,memorial,Saint-Malo,,,,48.6345962,-2.0528463
+6504291785,node,Calvaire,attraction,Saint-Malo,,,,48.3657054,-1.8030563
 6540703407,node,PEP's (Partage Et Plaisirs Simples),restaurant,Saint-Malo,19 Boulevard du Président Wilson,,,48.6351115,-2.053287
+6616940948,node,,viewpoint,Saint-Malo,,,,48.6397414,-2.0585309
+6711089862,node,Aux Enfants de Saint-Malo morts pour la France,memorial,Saint-Malo,,,,48.6513029,-2.0064785
+6711170597,node,Paramé à ses morts pour la France,memorial,Saint-Malo,,,,48.6512569,-2.0064589
+6711170616,node,Aux Enfants de Saint-Servan morts pour la France,memorial,Saint-Malo,,,,48.6513482,-2.0064499
 6747050283,node,Le Repaire des Corsaires,restaurant,Saint-Malo,,,https://lerepairedescorsaires.fr/,48.6763616,-2.0710087
+6760308407,node,,memorial,Saint-Malo,,,,48.3289508,-1.8384558
+6760312532,node,,memorial,Saint-Malo,,,,48.3574819,-1.7149481
+6814262600,node,Ancienne abbaye de la Vieuville,ruins,Saint-Malo,,,,48.5267999,-1.6857335
+6833290037,node,Place Joseph Frontin,memorial,Saint-Malo,,,,48.6347685,-2.0549709
 6845017860,node,Crêperie La Marie-Cêcile,restaurant,Saint-Malo,,,,48.6812965,-1.9676726
 6845110459,node,L'Atelier,restaurant,Saint-Malo,,,,48.6482611,-2.0248056
 6845110461,node,Le 128,restaurant,Saint-Malo,128 Chaussée du Sillon,,,48.6554371,-2.0048936
+6850846395,node,Le petit train marin,attraction,Saint-Malo,,,,48.6048134,-1.713579
 6850900664,node,Le point G,restaurant,Saint-Malo,,,,48.5889078,-1.6585253
 6928604882,node,Côté Soleil,restaurant,Saint-Malo,,,,48.6338925,-2.0562881
 6928604884,node,Le Dauphin,restaurant,Saint-Malo,5 Boulevard Féart,,,48.6345509,-2.0546045
@@ -304,29 +455,40 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 7090592689,node,Hôtel Balmoral,hotel,Saint-Malo,,,,48.6330865,-2.0537661
 7090592690,node,Merci Monsieur,restaurant,Saint-Malo,,,,48.6329741,-2.0537761
 7090592691,node,La Cour de Récré,restaurant,Saint-Malo,,,,48.6328968,-2.0537825
+7124482097,node,,memorial,Saint-Malo,,,,48.569723,-1.7670795
 7154914185,node,Bistro Autour du Beurre,restaurant,Saint-Malo,,,https://www.maisonbordier.com/,48.6481595,-2.0251184
+7296385884,node,C.O.R.D.(e),theme_park,Saint-Malo,,,https://www.corde-cancale.fr/,48.6713333,-1.8619763
 7310411546,node,Pourquoi Pas,restaurant,Saint-Malo,,,,48.6344466,-2.0490168
 7392441348,node,Crêperie de la tour,restaurant,Saint-Malo,"1 Esplanade du Commandant Yves Menguy, 35400, Saint-Malo",35400,,48.6353908,-2.0236804
+7392755343,node,,memorial,Saint-Malo,,,,48.3978073,-1.9031601
 7476305476,node,Le Bistrot de Courtoisville,restaurant,Saint-Malo,,,https://lebistrotdecourtoisville.com,48.6571775,-1.9963575
 7590518594,node,Thaï et Sushi,restaurant,Saint-Malo,13 Rue Henri Maulion,,https://dinard-sushi-thai.com/,48.633057,-2.0556031
 7592199059,node,Maître Sarrasin,restaurant,Saint-Malo,,,,48.6327012,-2.0770423
 7592199060,node,BiVio Pizza,restaurant,Saint-Malo,"39 Rue de Starnberg, 35800, Dinard",35800,,48.6326781,-2.0768961
+7598641110,node,,artwork,Saint-Malo,,,,48.6054332,-1.8872868
 7619515085,node,Salon de thé Le Beaufort,restaurant,Saint-Malo,,,,48.655147,-2.0070204
+7713604217,node,,memorial,Saint-Malo,,,,48.3348311,-1.9372354
+7713604245,node,,artwork,Saint-Malo,,,,48.3373172,-1.9334657
+7713604257,node,,memorial,Saint-Malo,,,,48.3371947,-1.9335361
 7788044985,node,Le P’tit Crabe,restaurant,Saint-Malo,"1 Rue Gouin de Beauchesne, 35400",35400,,48.6489692,-2.0262082
 7808270706,node,Comète,restaurant,Saint-Malo,,,https://cometesaintlunaire.com/,48.6366588,-2.1109641
 7808323124,node,Hôtel Kan Avel,hotel,Saint-Malo,,,,48.6346355,-2.1080531
 7853781734,node,L'Angevine,restaurant,Saint-Malo,,,,48.4041577,-1.7528047
+7945340247,node,Musée des Terre-neuvas,museum,Saint-Malo,,,https://www.mpterreneuvas.fr/,48.651391,-2.0025252
 7948013304,node,Cook'in Café,restaurant,Saint-Malo,3 Avenue Franklin Roosevelt,,,48.6435629,-2.008787
 8219880859,node,Le Chateaubriand,restaurant,Saint-Malo,,,,48.550928,-1.7519088
 8401720237,node,La P'tite Parlotte,restaurant,Saint-Malo,"8 Rue Gustave Flaubert, 35400, Saint-Malo",35400,https://www.facebook.com/ptiteparlotte/,48.6578924,-1.9840128
+8433106387,node,Esplanade Alphonse Ollivier,memorial,Saint-Malo,,,,48.6317723,-2.1156152
 8443604815,node,La Place,restaurant,Saint-Malo,,,https://laplace-dinard.com,48.633313,-2.0561704
 8655655089,node,,restaurant,Saint-Malo,,,,48.5494803,-1.7559822
 8655655090,node,,restaurant,Saint-Malo,,,,48.5494721,-1.7561249
 8736711219,node,Le Pic à Bulot,restaurant,Saint-Malo,,,,48.635804,-2.0678565
 8830193999,node,Ar Iniz,hotel,Saint-Malo,"8 Boulevard Hébert, 35400, Saint-Malo",35400,https://ariniz.com/fr/accueil/,48.6619458,-1.9920722
+8888534359,node,,viewpoint,Saint-Malo,,,,48.6171234,-1.8472753
 8890161660,node,Crêperie des ambassadeurs,restaurant,Saint-Malo,,,,48.6548337,-2.0077591
 8898254340,node,Crevette,restaurant,Saint-Malo,,,https://crevettebistro.lovable.app,48.6249683,-2.1367256
 8911090415,node,Riva Café,restaurant,Saint-Malo,,,,48.657524,-1.99653
+8911559574,node,Au Fil Doré,artwork,Saint-Malo,,,,48.6488506,-2.0271289
 8922676479,node,Covent Garden,restaurant,Saint-Malo,"17 Rue Gustave Flaubert, 35400, Saint-Malo",35400,,48.6579645,-1.9837883
 8926554353,node,La Gouesnière,restaurant,Saint-Malo,,,https://www.domaine-du-limonay.com/fr/restaurant/la-gouesniere/,48.6151657,-1.9054854
 8930310908,node,Sabaï Sushi & Thaï,restaurant,Saint-Malo,,,,48.6627044,-1.9883815
@@ -336,22 +498,40 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 8930316665,node,Thailand Burinam,restaurant,Saint-Malo,,,,48.6569853,-1.9845499
 8930923830,node,Hôtel Printania,hotel,Saint-Malo,,,,48.6355324,-2.0489073
 8941384053,node,L'Aquarelle,restaurant,Saint-Malo,,,,48.6494902,-2.023608
+8978448317,node,Atelier Manoli Musée Jardin Sculptures,museum,Saint-Malo,"9 Rue du Suet, 35780",35780,https://www.manoli.org/,48.608614,-2.0355974
+8986123079,node,,viewpoint,Saint-Malo,,,,48.6236296,-2.0309204
+9021118123,node,Mur romain d'Alet,ruins,Saint-Malo,,,,48.637576,-2.0269292
+9021118129,node,,viewpoint,Saint-Malo,,,,48.6374672,-2.0265574
 9057270487,node,Dames,restaurant,Saint-Malo,"23bis Rue de Rennes, 35120, Dol-de-Bretagne",35120,https://restaurant-dames.com/,48.5463343,-1.748422
 9062212093,node,La Dégust',restaurant,Saint-Malo,,,,48.6343752,-1.8655566
 9064596817,node,L'Escondida,restaurant,Saint-Malo,,,https://www.pizzeria-escondida.fr/,48.6746621,-1.9102156
+9120366371,node,Maison du Marais,attraction,Saint-Malo,,,https://www.ccdol-baiemsm.bzh/la-maison-du-marais/,48.512166,-1.5128249
 9162203018,node,La lanterne crêperie,restaurant,Saint-Malo,,,,48.4087625,-1.7517463
 9196374610,node,Taverne du Barrage,restaurant,Saint-Malo,,,,48.618836,-2.0035087
+9221761973,node,,memorial,Saint-Malo,,,,48.5539642,-1.7305058
+9232614895,node,,viewpoint,Saint-Malo,,,,48.6775459,-1.987132
+9246190136,node,Château de la Buzardière,castle,Saint-Malo,,,,48.3482116,-1.8904493
 9369664409,node,Hôtel de la Mer,hotel,Saint-Malo,,,,48.6560982,-2.0023517
 9369664415,node,L'Étrave,restaurant,Saint-Malo,,,,48.6574451,-2.0015655
 9387887655,node,Bar du Centre,restaurant,Saint-Malo,,,,48.5497493,-1.7538253
 9387887661,node,La Grabotais,restaurant,Saint-Malo,,,,48.5504953,-1.7535009
 9387887662,node,Le Porche Au Pain,restaurant,Saint-Malo,,,,48.5504115,-1.7535148
+9476742563,node,,memorial,Saint-Malo,,,,48.6372305,-2.0293285
+9476742568,node,,memorial,Saint-Malo,,,,48.6378001,-2.0292397
+9476742569,node,,memorial,Saint-Malo,,,,48.6378107,-2.0292341
+9476742582,node,,memorial,Saint-Malo,,,,48.6372315,-2.0293282
+9520107226,node,Château de Beauregard,castle,Saint-Malo,,,,48.6529635,-1.8698713
+9536021761,node,,attraction,Saint-Malo,,,,48.668204,-1.8619684
+9536031117,node,,memorial,Saint-Malo,,,,48.6721609,-1.8517367
 9538435301,node,La table du chef,restaurant,Saint-Malo,,,https://www.domaine-du-limonay.com/fr/restaurant/la-table-du-chef/,48.6151257,-1.9054011
 9554944995,node,Popote & Broc’,restaurant,Saint-Malo,"15 Boulevard de la République, 35400, Saint-Malo",35400,,48.6503595,-2.0081147
+9565752986,node,Château du Grand Val,castle,Saint-Malo,,,https://grandval.nu/fr/,48.3811855,-1.737112
 9651041437,node,L'auberge Lucas,restaurant,Saint-Malo,"16 Rue de Brocéliande, 35190, Cardroc",35190,https://www.auberge-lucas-35.fr/,48.2846802,-1.8903834
+9653238714,node,,viewpoint,Saint-Malo,,,,48.6392028,-2.0728869
 9655404412,node,Les Tilleuls,hotel,Saint-Malo,,,,48.6308807,-2.0610711
 9664368250,node,Passenger,restaurant,Saint-Malo,,,,48.6483063,-2.0265249
 9666837626,node,Mr K Pizzeria,restaurant,Saint-Malo,,,,48.648411,-2.0267095
+9669604035,node,,viewpoint,Saint-Malo,,,,48.5697603,-1.9736727
 9677150942,node,La Boucherie,restaurant,Saint-Malo,,,,48.6206398,-1.9944119
 9677298834,node,Grand-Mère Augustine,restaurant,Saint-Malo,,,,48.6495783,-2.0235449
 9677298835,node,New Corsaire,restaurant,Saint-Malo,,,,48.6496712,-2.0234774
@@ -361,23 +541,68 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 9726354940,node,Bouche en Folie,restaurant,Saint-Malo,14,,,48.6490365,-2.0278865
 9751125649,node,O'Sens,restaurant,Saint-Malo,,,,48.6393679,-2.0745026
 9759716738,node,Le Ticia,restaurant,Saint-Malo,,,,48.3128749,-1.8986607
+9776559011,node,La demeure de Corsaire - Hôtel Magon,museum,Saint-Malo,"5 Rue d'Asfeld, 35400, Saint-Malo",35400,https://demeure-de-corsaire.com/,48.6469433,-2.0241028
 9776607124,node,Grain noir,restaurant,Saint-Malo,"16 Rue de la Herse, 35400, Saint-Malo",35400,,48.6481944,-2.0247927
 9777741110,node,La Bodega’ZH,restaurant,Saint-Malo,"12 Rue des Cordiers, 35400, Saint-Malo",35400,,48.6482986,-2.024303
 9779827278,node,,restaurant,Saint-Malo,,,,48.6101075,-1.9861135
+9783526556,node,,memorial,Saint-Malo,,,,48.6370886,-2.068661
+9783526566,node,,artwork,Saint-Malo,,,,48.6395252,-2.0736079
+9783526567,node,,artwork,Saint-Malo,,,,48.6393895,-2.0734599
+9783526615,node,,artwork,Saint-Malo,,,,48.6398896,-2.0744703
+9783835711,node,,memorial,Saint-Malo,,,,48.6367772,-2.0298029
+9836971291,node,,memorial,Saint-Malo,,,,48.657866,-1.9831771
+9836971301,node,,artwork,Saint-Malo,,,,48.6576351,-1.9830031
+9836971302,node,,memorial,Saint-Malo,,,,48.6579446,-1.9824223
+9839255377,node,,artwork,Saint-Malo,,,,48.634181,-2.0253795
+9852661955,node,,memorial,Saint-Malo,,,,48.3298577,-1.8403523
 9856508996,node,Au bouchot,restaurant,Saint-Malo,,,,48.6023013,-1.7708655
 9856653440,node,Le Dol'Mène aux Saveurs,restaurant,Saint-Malo,"2 Rue des Perrons, 35120, Dol-de-Bretagne",35120,,48.5499886,-1.7544675
 9893013364,node,Carrement Crep',restaurant,Saint-Malo,,,,48.6173905,-2.0370003
 9905554162,node,L'entract',restaurant,Saint-Malo,,,,48.3287178,-1.8348147
+9907260067,node,Microzoo,zoo,Saint-Malo,"9 Place Vauban, 35400, Saint-Malo",35400,https://microzoo.fr/,48.6516317,-2.0240893
 9907311407,node,Home Burger,restaurant,Saint-Malo,"6 Rue Sainte-Barbe, 35400, Saint-Malo",35400,https://www.burger-saint-malo.fr/,48.6497968,-2.0239
+9913028388,node,,memorial,Saint-Malo,,,,48.7094748,-1.8448058
+9914868145,node,,memorial,Saint-Malo,,,,48.6712798,-1.8517067
 9915776186,node,La Voile Bleue,restaurant,Saint-Malo,2 Quai de l'Administrateur-en-Chef Thomas,,,48.671037,-1.852462
+9923382617,node,Villa La Garde,monument,Saint-Malo,,,,48.6375601,-2.0478103
+9923386017,node,La Batterie,monument,Saint-Malo,,,,48.6386878,-2.0480652
+9923388817,node,Les Vedettes Blanches,monument,Saint-Malo,,,,48.6363885,-2.0491328
+9923390317,node,Banque Jules Boutin,monument,Saint-Malo,,,,48.6339784,-2.0509035
+9937399881,node,,memorial,Saint-Malo,,,,48.6133791,-2.0362913
 9978126330,node,Dào Viên,restaurant,Saint-Malo,,,,48.6288225,-2.005772
+10005218422,node,,artwork,Saint-Malo,,,,48.6296887,-2.0068552
+10005218423,node,,artwork,Saint-Malo,,,,48.6297124,-2.0068933
 10016046087,node,Le Bistrot de Cancale,restaurant,Saint-Malo,5 Rue Eugène et Auguste Feyen,,https://www.maisons-de-bricourt.com/fr/page/le-bistrot-de-cancale,48.7011594,-1.8501157
+10044748446,node,,viewpoint,Saint-Malo,,,,48.6253967,-2.0125859
+10066668555,node,,memorial,Saint-Malo,,,,48.5752744,-1.8826237
+10097059455,node,,memorial,Saint-Malo,,,,48.567095,-2.0463213
+10103101717,node,Site de la Dame Jouanne (ruines),monument,Saint-Malo,,,,48.6344735,-2.1396718
+10139284944,node,Plage du Vallion,beach,Saint-Malo,,,,48.5933749,-1.9787783
 10141228153,node,Why Not bar & food,restaurant,Saint-Malo,,,,48.6472268,-2.0087525
+10608393792,node,,memorial,Saint-Malo,,,,48.6371799,-2.016079
 10612079754,node,La fine bouche,restaurant,Saint-Malo,,,,48.6362299,-2.0145777
 10612079758,node,Au panier d'Italie,restaurant,Saint-Malo,,,,48.6362574,-2.0146038
+10614079197,node,,memorial,Saint-Malo,,,,48.6381191,-2.0167758
+10651576984,node,,memorial,Saint-Malo,,,,48.6471673,-2.0287335
+10653167060,node,,artwork,Saint-Malo,,,,48.6507382,-2.0246686
+10655557058,node,Espace SADECC,gallery,Saint-Malo,,,,48.6520634,-2.0135967
 10655557102,node,Atelier de la Crêpe,restaurant,Saint-Malo,,,,48.6518845,-2.0152617
+10659718856,node,Plastic Wave,artwork,Saint-Malo,,,,48.6278074,-2.0545894
+10665206757,node,,memorial,Saint-Malo,,,,48.6389802,-2.0477619
+10665206772,node,Fossiles,artwork,Saint-Malo,,,,48.6362297,-2.0487558
+10665206795,node,Kisses from Bretagne,artwork,Saint-Malo,,,,48.6349732,-2.0487165
+10665206820,node,Une empreinte des empreintes,artwork,Saint-Malo,,,,48.6340086,-2.0499865
+10665206856,node,,artwork,Saint-Malo,,,,48.633452,-2.0507388
+10665206891,node,Paul Crolard Maire de Dinard,memorial,Saint-Malo,,,,48.6321498,-2.0510986
+10665206980,node,La belle époque,artwork,Saint-Malo,,,,48.6298676,-2.0531915
+10665207083,node,Baptêmes de terre,artwork,Saint-Malo,,,,48.6292693,-2.0538403
+10670974702,node,Statue de Diane,artwork,Saint-Malo,,,,48.6185605,-2.0155585
+10671102875,node,Statue de Menton,artwork,Saint-Malo,,,,48.6161705,-2.0132813
+10734336239,node,Pop Corn Labyrinthe,theme_park,Saint-Malo,,,https://www.popcornlabyrinthe.fr/st-malo/,48.6121082,-1.9640796
 10799105647,node,Le château de sable,restaurant,Saint-Malo,26 La Guimorais,,https://m.facebook.com/people/Le-chateau-de-sable/100089705599358/,48.6881072,-1.9381737
 10820351604,node,L'atelier de l'huître,restaurant,Saint-Malo,"15 Quai Gambetta, Cancale",,https://www.facebook.com/atelierdelhuitre/?locale=fr_FR,48.6711774,-1.8545516
+10846326406,node,Vue sur le pont vers Dinan,viewpoint,Saint-Malo,,,,48.5570712,-1.9756128
+10846391905,node,Pointe,viewpoint,Saint-Malo,,,,48.5564569,-1.9772209
 10894259153,node,Le Baragwin,restaurant,Saint-Malo,"3 Rue du Puits aux Braies, 35400, Saint-Malo",35400,,48.6487676,-2.0244229
 10921467551,node,Au Large - Chez Natacha,restaurant,Saint-Malo,,,,48.7010111,-1.8501254
 10921476338,node,La Petite Plage,restaurant,Saint-Malo,1 Rue Eugène et Auguste Feyen,,,48.7008172,-1.8501172
@@ -385,21 +610,34 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 10973478769,node,Kin Di,restaurant,Saint-Malo,,,https://www.kin-di.fr/,48.6577156,-1.9846943
 11010190304,node,Mucho Gusto,restaurant,Saint-Malo,"84 Boulevard de Chateaubriand, 35400, Saint-Malo",35400,,48.6578595,-1.9960472
 11049006555,node,Le Cancaven,restaurant,Saint-Malo,"3 Place de la République, Dinard",,,48.6333928,-2.0558831
+11053206460,node,Centre Abbé Fouré,museum,Saint-Malo,"26 Avenue de la Varde, 35400, Saint-Malo",35400,https://rochersrotheneufartbrut.com/,48.681976,-1.9776597
+11059675512,node,Chemin Loup-Pendu - Landran,artwork,Saint-Malo,,,,48.4270167,-1.6859749
 11075428087,node,L'art Caddy,restaurant,Saint-Malo,"7 Rue des Petits Degrés, 35400, Saint-Malo",35400,https://www.lartcaddy.com/,48.6486156,-2.0247061
 11089013905,node,Les Terrasses de Saint-Eno,restaurant,Saint-Malo,"Rue Roger Vercel, 35800",35800,,48.6382705,-2.0695985
 11111711114,node,Buffalo Grill,restaurant,Saint-Malo,,,,48.6252765,-1.989487
+11141702856,node,,memorial,Saint-Malo,,,,48.6528683,-2.0331731
+11144442451,node,,artwork,Saint-Malo,,,,48.6480841,-2.0277734
+11144442486,node,Bateau,attraction,Saint-Malo,,,,48.6783898,-1.943748
 11146074915,node,1934,restaurant,Saint-Malo,,,https://www.restaurant-1934.fr/,48.6519714,-2.0122321
 11146076342,node,Le Millesim’,restaurant,Saint-Malo,,,,48.6483404,-2.0240979
 11146076343,node,L'Armateur,restaurant,Saint-Malo,,,,48.6483628,-2.0242784
 11146311823,node,Elizabeth,hotel,Saint-Malo,,,https://saintmalo-hotel-elizabeth.com/,48.6476464,-2.0244178
+11157700344,node,,artwork,Saint-Malo,,,,48.5759284,-2.0178944
 11158542230,node,Port Malo,hotel,Saint-Malo,,,,48.6509499,-2.02472
 11162854045,node,Pomme et Sarrasin,restaurant,Saint-Malo,,,,48.6485844,-2.0062017
 11164440333,node,Pizza Cosy,restaurant,Saint-Malo,,,,48.6217353,-1.9943448
+11197924709,node,,artwork,Saint-Malo,,,,48.6473908,-2.0269007
+11197924718,node,Jacques Cartier,memorial,Saint-Malo,,,,48.6495075,-2.0257602
 11199959593,node,Maison Egler,restaurant,Saint-Malo,,,,48.532358,-1.9161869
+11219266137,node,,viewpoint,Saint-Malo,,,,48.4046705,-1.751668
+11254870021,node,Château de la Croix Chemin,castle,Saint-Malo,,,https://www.chambreauchateau-bretagne.fr/,48.3919351,-1.6492767
+11259454177,node,,memorial,Saint-Malo,,,,48.5465718,-1.7512038
+11339308250,node,,artwork,Saint-Malo,,,,48.6107488,-2.036528
 11386731539,node,La Table Malouine,restaurant,Saint-Malo,,,,48.6499381,-2.0233152
 11473017837,node,Ar Terra Nova,hotel,Saint-Malo,8 Rue Godard,,https://www.hotelarterranova.com/,48.6364705,-2.0140681
 11473017843,node,La dolce vita,restaurant,Saint-Malo,,,,48.6545937,-2.003704
 11473017844,node,Alexandra,hotel,Saint-Malo,,,,48.6573613,-2.0014939
+11617212287,node,Daniel Albohair,memorial,Saint-Malo,,,https://trousseaprojets.fr/projet/5235-parcours-de-deportes-de-saint-malo,48.6624279,-1.9889696
 11862050298,node,Faccia Tosta,restaurant,Saint-Malo,,,,48.6630757,-1.9883598
 11898113271,node,Fidelis,restaurant,Saint-Malo,,,,48.6499679,-2.0234653
 11925807784,node,,restaurant,Saint-Malo,,,,48.5501485,-1.7256358
@@ -408,63 +646,657 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 11928398976,node,Hôtel du Tertre,hotel,Saint-Malo,,,,48.5698359,-1.7680167
 11931092488,node,Les Couesnons,restaurant,Saint-Malo,,,,48.5943444,-1.5986776
 11959949381,node,Ar bleiz,restaurant,Saint-Malo,,,,48.6484055,-2.0240766
+11980640220,node,,memorial,Saint-Malo,,,,48.4028586,-1.9048689
+11980640221,node,,memorial,Saint-Malo,,,,48.3949625,-1.8993111
+11980640222,node,,memorial,Saint-Malo,,,,48.388283,-1.8902526
+11980640223,node,,memorial,Saint-Malo,,,,48.3815863,-1.8812677
+11980640224,node,,memorial,Saint-Malo,,,,48.3648339,-1.8714953
+11980640225,node,,memorial,Saint-Malo,,,,48.3564904,-1.8664579
+11980640226,node,,memorial,Saint-Malo,,,,48.3487709,-1.8595957
+11980640227,node,,memorial,Saint-Malo,,,,48.3414635,-1.8517257
+11980640228,node,,memorial,Saint-Malo,,,,48.3341162,-1.8439247
+11980640229,node,,memorial,Saint-Malo,,,,48.3207995,-1.8287771
+11980640230,node,,memorial,Saint-Malo,,,,48.3123901,-1.8239633
+11980640231,node,,memorial,Saint-Malo,,,,48.3041667,-1.8183446
+11980640233,node,,memorial,Saint-Malo,,,,48.2974195,-1.8097065
+11981704381,node,,memorial,Saint-Malo,,,,48.6509643,-2.0084007
+11981704382,node,,memorial,Saint-Malo,,,,48.6421278,-2.0087321
+11981704383,node,,memorial,Saint-Malo,,,,48.6261526,-2.0016533
+11981704384,node,,memorial,Saint-Malo,,,,48.6142486,-1.9835225
+11981704385,node,,memorial,Saint-Malo,,,,48.5873923,-1.9561707
+11981704386,node,,memorial,Saint-Malo,,,,48.5941612,-1.9648971
+11981704387,node,,memorial,Saint-Malo,,,,48.5778462,-1.9462236
+11981704388,node,,memorial,Saint-Malo,,,,48.5735852,-1.9380367
+11981704389,node,,memorial,Saint-Malo,,,,48.5674982,-1.9282295
+11981704390,node,,memorial,Saint-Malo,,,,48.5513646,-1.9256234
+11981704391,node,,memorial,Saint-Malo,,,,48.54276,-1.9215952
+11981704392,node,,memorial,Saint-Malo,,,,48.5256354,-1.9133712
+11981704393,node,,memorial,Saint-Malo,,,,48.4997267,-1.9032692
+11981704394,node,,memorial,Saint-Malo,,,,48.4823379,-1.9091153
+11981704395,node,,memorial,Saint-Malo,,,,48.4734791,-1.9116279
+11981704396,node,,memorial,Saint-Malo,,,,48.4647018,-1.9141067
+11981704397,node,,memorial,Saint-Malo,,,,48.4558263,-1.9149293
+11981704398,node,,memorial,Saint-Malo,,,,48.4469811,-1.9138364
+11981704399,node,,memorial,Saint-Malo,,,,48.4380725,-1.9149275
+11981704400,node,,memorial,Saint-Malo,,,,48.4292516,-1.9135198
+11981704401,node,,memorial,Saint-Malo,,,,48.4184004,-1.9096967
+11981704402,node,,memorial,Saint-Malo,,,,48.4095568,-1.9071975
+11987116850,node,L'hermine,artwork,Saint-Malo,,,,48.5519459,-1.735385
 12036398833,node,Le Kidygwen,restaurant,Saint-Malo,,,,48.6556122,-2.0049588
 12036427538,node,Les Embruns,restaurant,Saint-Malo,,,,48.6552516,-2.005507
 12036428400,node,Chez Simone,restaurant,Saint-Malo,,,,48.6487988,-2.0038112
+12037647512,node,,viewpoint,Saint-Malo,,,,48.7105456,-1.8445947
 12040019640,node,Tandoori Food,restaurant,Saint-Malo,,,,48.6623157,-1.9890413
 12047893519,node,Le Louno,restaurant,Saint-Malo,"36 Rue Claude Monet, 35400, Saint-Malo",35400,,48.6133184,-1.9548828
 12076885328,node,Le Magellan,hotel,Saint-Malo,,,,48.6632309,-1.9890351
+12077099812,node,Grotte Notre Dame,memorial,Saint-Malo,,,,48.3339148,-1.9336306
+12077328644,node,,viewpoint,Saint-Malo,,,,48.711437,-1.8447164
+12077340481,node,,viewpoint,Saint-Malo,,,,48.7118558,-1.844445
+12077340625,node,,viewpoint,Saint-Malo,,,,48.7116384,-1.8446649
 12087455885,node,Crèp' Pizz,restaurant,Saint-Malo,,,,48.4128686,-1.7466827
 12091574127,node,Le Chill,restaurant,Saint-Malo,41 Rue de la Croix Desilles,,,48.6571564,-1.9704881
 12093363283,node,Studio Sauvage Cantine,restaurant,Saint-Malo,"77 Rue Ville-Pépin, 35400, Saint-Malo",35400,https://studiosauvage.fr/cantine,48.6331719,-2.0119635
+12102802801,node,,viewpoint,Saint-Malo,,,,48.5881986,-2.0087184
 12112350758,node,Hokkaido sushi & ramen,restaurant,Saint-Malo,,,,48.6449466,-2.0086936
+12135690220,node,Maen vag,artwork,Saint-Malo,,,,48.5506759,-1.7565087
 12136918626,node,Le Bistrot,restaurant,Saint-Malo,,,,48.5518843,-1.7500994
+12137211078,node,Labyrinthe,artwork,Saint-Malo,,,,48.5501307,-1.7561475
+12137211085,node,Monument du Tro Breizh,memorial,Saint-Malo,,,,48.5505235,-1.7559397
+12137261338,node,Mur d'expression,artwork,Saint-Malo,,,,48.5476619,-1.75726
 12163252336,node,La Cabane,restaurant,Saint-Malo,,,https://www.lacabane-saintmalo.com/,48.6518765,-2.0154407
 12173260168,node,Le W,restaurant,Saint-Malo,,,,48.6376668,-1.9043428
 12224057119,node,La Timonerie,restaurant,Saint-Malo,"19 Rue de la Janaie, 35400, Saint-Malo",35400,https://utopi.bzh/etablissement/restaurants-solidaires,48.6315581,-1.9822436
-12312827184,node,Logis-Hôtel du Chateau,hotel,Saint-Malo,"35270, Combourg",35270,hotelduchateau.com,48.4069897,-1.7543186
+12312827184,node,Logis-Hôtel du Chateau,hotel,Saint-Malo,"35270, Combourg",35270,https://hotelduchateau.com/,48.4069897,-1.7543186
 12318644323,node,Deux Degrés Ouest,restaurant,Saint-Malo,3 Rue de la Pie qui Boit,,https://www.2degresouest.com/,48.64792,-2.0267527
 12373621571,node,Mamma Breizh,restaurant,Saint-Malo,55 Rue Nicolas Bouvier,,,48.6472372,-2.0053871
+12401141177,node,,artwork,Saint-Malo,,,,48.6354923,-2.0090192
 12456955365,node,Bar à Naan,restaurant,Saint-Malo,12 Boulevard des Talards,,https://www.baranaan.fr/,48.6464336,-2.0086542
 12478369703,node,Cosy Braise,restaurant,Saint-Malo,2 Rue des Hauts-Sablons,,,48.6358124,-2.022069
 12595336653,node,Pizz’mania,restaurant,Saint-Malo,21 Avenue Aristide Briand,,,48.6487107,-2.0013265
 12596312693,node,La Rose des Sables,restaurant,Saint-Malo,,,,48.6521825,-2.0126343
+12596382008,node,,viewpoint,Saint-Malo,,,,48.6648609,-1.988894
+12600194428,node,,viewpoint,Saint-Malo,,,,48.6839753,-1.9890951
 12628865824,node,Les Gamins,restaurant,Saint-Malo,,,,48.6338196,-2.0130364
+12712896987,node,Les ânes du canal - ferme pédagogique,zoo,Saint-Malo,"35440, Dingé",35440,https://www.lesanesducanal.com/,48.352065,-1.6661229
+12787829325,node,,gallery,Saint-Malo,,,,48.6760249,-1.8516031
+12787831187,node,,memorial,Saint-Malo,,,,48.6783614,-1.8595795
+12787835673,node,,memorial,Saint-Malo,,,,48.6749519,-1.8526278
+12787845042,node,,gallery,Saint-Malo,,,,48.6774791,-1.8511012
 12787854584,node,Juste à côté,restaurant,Saint-Malo,,,,48.6679972,-1.8627203
+12787854614,node,Aline,gallery,Saint-Malo,,,,48.6722143,-1.8530855
+12787856903,node,,memorial,Saint-Malo,,,,48.6705104,-1.8516372
+12787859092,node,,memorial,Saint-Malo,,,,48.6697016,-1.8567215
+12791802839,node,Galerie du Marais,gallery,Saint-Malo,,,,48.6497609,-2.0262817
 12791851983,node,Le Cambusier,restaurant,Saint-Malo,6 Rue des Cordiers,,,48.6478404,-2.0243896
+12791875636,node,,gallery,Saint-Malo,,,,48.6497905,-2.0266104
+12791878937,node,,gallery,Saint-Malo,,,,48.6497845,-2.0265121
+12791887906,node,,gallery,Saint-Malo,,,,48.6492159,-2.0260808
 12804648603,node,Château Hôtel du Colombier,hotel,Saint-Malo,,,,48.637874,-1.9678985
 12806265473,node,BouiBoui,restaurant,Saint-Malo,,,,48.6327978,-2.0077655
 12824328486,node,A mon Resto,restaurant,Saint-Malo,"1 Place Arthur Regnault, 35430, Saint-Père-Marc-en-Poulet",35430,,48.5880721,-1.924773
 12830928646,node,L'Ulteam,restaurant,Saint-Malo,,,,48.636107,-2.1210541
 12890614887,node,Brasse Bouillon,restaurant,Saint-Malo,,,,48.5506686,-1.7529843
+12944226301,node,,viewpoint,Saint-Malo,,,,48.6379288,-2.0304959
+12946779191,node,,viewpoint,Saint-Malo,,,,48.7107165,-1.8443771
+12946838727,node,,viewpoint,Saint-Malo,,,,48.7092688,-1.843461
 12966457141,node,Le Refuge,restaurant,Saint-Malo,,,,48.5864268,-1.6570579
 12966457145,node,L’Évêché,restaurant,Saint-Malo,,,,48.5505894,-1.7549903
 13016868148,node,O’Bikini Bé,restaurant,Saint-Malo,,,https://bikinibe.fr/,48.652076,-2.0174431
+13022756901,node,maison de Thierry,attraction,Saint-Malo,,,,48.6683356,-1.973328
 13028399023,node,Bistrot Quai du barrage,restaurant,Saint-Malo,35780,35780,,48.6153788,-2.0291818
 13029828957,node,Crêperie des Bés,restaurant,Saint-Malo,,,,48.6480435,-2.0268319
 13039097023,node,La Perle Malouine,restaurant,Saint-Malo,,,,48.6492483,-2.0239117
 13039097024,node,Le Pirate,restaurant,Saint-Malo,,,,48.6492187,-2.0237757
 13039097025,node,Le Castello,restaurant,Saint-Malo,,,,48.6493016,-2.0237278
+13041739218,node,,ruins,Saint-Malo,,,,48.6525102,-2.0336902
 13056272504,node,La Caraïbe,restaurant,Saint-Malo,,,,48.6491728,-2.0260546
+13070615607,node,Lapins au poulailler,artwork,Saint-Malo,,,,48.6189629,-2.134277
 13073893279,node,Izakaya,restaurant,Saint-Malo,,,https://www.otonali.fr/izakaya-restaurant-japonais,48.6522677,-2.011703
 13098974702,node,La Marine,restaurant,Saint-Malo,,,https://www.lamarine-restaurant.fr/,48.6685992,-1.8615496
+13141006398,node,,artwork,Saint-Malo,,,,48.6498537,-2.0216751
 13146748587,node,Hôtel Beau Rivage,hotel,Saint-Malo,,,,48.6020315,-1.7692126
 13294458279,node,La fourchette à droite,restaurant,Saint-Malo,,,,48.6478228,-2.0266922
 13327031760,node,Hotêl de Bretagne,restaurant,Saint-Malo,,,https://www.hotel-de-bretagne35.fr/restaurant-hotel-restaurant-dol-de-bretagne,48.5512799,-1.7522074
 13327031761,node,Hotêl de Bretagne,hotel,Saint-Malo,,,https://www.hotel-de-bretagne35.fr/,48.5511734,-1.752255
 13327031763,node,MoonLight,restaurant,Saint-Malo,,,https://moonlight-indian-restaurant.eatbu.com/?lang=fr,48.5509222,-1.7520411
+13344328291,node,,viewpoint,Saint-Malo,,,,48.6280685,-2.0177735
+13346255012,node,,memorial,Saint-Malo,,,,48.6155188,-1.9776068
+13346255013,node,,memorial,Saint-Malo,,,,48.6132233,-1.9642397
+13346255014,node,,memorial,Saint-Malo,,,,48.6067918,-1.9542394
+13346255015,node,,memorial,Saint-Malo,,,,48.6035539,-1.9420313
+13346255016,node,,memorial,Saint-Malo,,,,48.6043183,-1.9285348
+13346255017,node,,memorial,Saint-Malo,,,,48.6051668,-1.9007779
+13346255018,node,,memorial,Saint-Malo,,,,48.6050781,-1.9141531
+13346255019,node,,memorial,Saint-Malo,,,,48.6009833,-1.8884254
+13346255020,node,,memorial,Saint-Malo,,,,48.598928,-1.8784925
+13346255021,node,,memorial,Saint-Malo,,,,48.5939003,-1.8678374
+13346255022,node,,memorial,Saint-Malo,,,,48.5899654,-1.8549118
+13346255023,node,,memorial,Saint-Malo,,,,48.5878382,-1.8428238
+13346255024,node,,memorial,Saint-Malo,,,,48.5835513,-1.8309939
+13346255025,node,,memorial,Saint-Malo,,,,48.579843,-1.8187848
+13346255026,node,,memorial,Saint-Malo,,,,48.5760291,-1.8063159
+13346255027,node,,memorial,Saint-Malo,,,,48.5717234,-1.7946148
+13346255028,node,,memorial,Saint-Malo,,,,48.5603217,-1.7738333
+13346255029,node,,memorial,Saint-Malo,,,,48.5665681,-1.7835027
+13346255030,node,,memorial,Saint-Malo,,,,48.553806,-1.7284215
+13346255031,node,,memorial,Saint-Malo,,,,48.5532201,-1.7139319
+13346255032,node,,memorial,Saint-Malo,,,,48.5528259,-1.701004
+13346255033,node,,memorial,Saint-Malo,,,,48.5519813,-1.6881046
+13346255034,node,,memorial,Saint-Malo,,,,48.5456957,-1.6609854
+13346255035,node,,memorial,Saint-Malo,,,,48.5435649,-1.6118225
+13346255036,node,,memorial,Saint-Malo,,,,48.5456806,-1.5987555
+13346255037,node,,memorial,Saint-Malo,,,,48.5483459,-1.5858427
+13346255038,node,,memorial,Saint-Malo,,,,48.5511474,-1.5730163
+13346255039,node,,memorial,Saint-Malo,,,,48.5508125,-1.5473925
 13383099301,node,Bouliche,restaurant,Saint-Malo,"16 Rue Ville-Pépin, 35400",35400,,48.636921,-2.0157103
 13384189401,node,Samsara,restaurant,Saint-Malo,"13 Boulevard Deminiac, 35120",35120,,48.5495329,-1.7520728
+13387641865,node,Hommage à Jean-Baptiste Charcot,memorial,Saint-Malo,,,,48.6348161,-2.0246857
+13429643908,node,,artwork,Saint-Malo,,,,48.2975533,-1.7930422
 13474256991,node,Ty Billig,restaurant,Saint-Malo,"29 Grande Rue, 35430, Saint-Jouan-des-Guérets",35430,,48.600608,-1.9744074
 13495200932,node,La barque à papa,restaurant,Saint-Malo,,,https://www.labarqueapapa.com/,48.6352359,-2.0226214
 13506510086,node,Bollywood Fried Chicken,restaurant,Saint-Malo,,,,48.6468044,-2.0086139
+13529650806,node,À Jules Boutin,artwork,Saint-Malo,,,,48.6359512,-2.047817
+13541888358,node,,memorial,Saint-Malo,,,,48.2884797,-1.8671523
 13670109301,node,Snack Malo,restaurant,Saint-Malo,,,,48.6484332,-2.0241042
+13696005215,node,,memorial,Saint-Malo,,,,48.5327644,-1.5582709
 13703697909,node,Bouiboui,restaurant,Saint-Malo,"62 Rue de la Pie, 35400",35400,https://bouiboui.bzh/,48.6327706,-2.0076199
+13713333778,node,,memorial,Saint-Malo,,,,48.6329086,-2.0066888
 13725383308,node,Mamie Bigoude,restaurant,Saint-Malo,,,,48.648318,-2.0254417
+13732895167,node,,artwork,Saint-Malo,,,,48.6514595,-2.0216963
 13752148246,node,Lou A La Plage,restaurant,Saint-Malo,,,,48.635379,-2.0551035
 13755606701,node,Le monde à l'endroit,restaurant,Saint-Malo,"7 Rue de la Pie qui Boit, 35400, Saint-Malo",35400,https://www.lemondealendroit.fr,48.6480106,-2.0271546
+13796129959,node,Jacques Weill,memorial,Saint-Malo,,,,48.6377115,-2.0142593
+13796129960,node,Louis Robert Hirsch,memorial,Saint-Malo,,,,48.6377136,-2.0142606
+13796129961,node,Claude Weill,memorial,Saint-Malo,,,,48.6377125,-2.01426
+13796129962,node,Alphonse Asch,memorial,Saint-Malo,,,,48.6377126,-2.0142619
+13796129963,node,Marthe Asch née Mosbacher,memorial,Saint-Malo,,,,48.6377116,-2.0142612
 13798507201,node,La Table de Breizh,restaurant,Saint-Malo,"7 Quai de l'Administrateur-en-Chef Thomas, 35260",35260,,48.6709535,-1.8517775
 13811568011,node,Anca,restaurant,Saint-Malo,,,,48.6368763,-2.1105332
+13819499544,node,Statue de Louis XVI,artwork,Saint-Malo,,,,48.2945012,-1.957157
 13901647388,node,Casa Fratelli,restaurant,Saint-Malo,,,,48.6247219,-2.1367162
+13914121886,node,Statue de Philémon,artwork,Saint-Malo,,,,48.2917397,-1.9565375
+13914121890,node,Statue de Beaucis,artwork,Saint-Malo,,,,48.2938728,-1.9563782
 13974028866,node,Chemist la mere,restaurant,Saint-Malo,,,,48.6149729,-1.9877738
-13987670214,node,Restaurant Atala,restaurant,Saint-Malo,,,atala-restaurant.com,48.4069329,-1.7543121
+13987670214,node,Restaurant Atala,restaurant,Saint-Malo,,,https://atala-restaurant.com/,48.4069329,-1.7543121
+13996245546,node,Vaillant,gallery,Saint-Malo,,,,48.6502691,-2.024731
+5678064,way,Plage de Cancale,beach,Saint-Malo,,,,48.6694346,-1.8573668
+24020608,way,Plage du Port,beach,Saint-Malo,,,,48.6936116,-1.9297199
+25877808,way,Plage de Port Picain,beach,Saint-Malo,,,,48.6948209,-1.8486451
+27825374,way,Plage du Verger,beach,Saint-Malo,,,,48.6963671,-1.8762309
+27825376,way,Plage du Guesclin,beach,Saint-Malo,,,,48.6925967,-1.8996159
+27825377,way,Plage du Petit Port,beach,Saint-Malo,,,,48.6971283,-1.8842872
+37770446,way,Square des Tourelles,park,Saint-Malo,,,,48.622987,-2.1267148
+37795123,way,Square du Tertre Amard,park,Saint-Malo,,,,48.6208307,-2.1266982
+37795492,way,Jardin Armel-Beaufils,park,Saint-Malo,,,,48.6237838,-2.1375218
+49250089,way,Square du Docteur Tuloup,garden,Saint-Malo,,,,48.6473433,-2.0272808
+51926314,way,Ibis,hotel,Saint-Malo,"35400, Saint-Malo",35400,,48.6531113,-2.0121459
+51932767,way,Jardin de la Légion d'Honneur (anciennes douves du château),garden,Saint-Malo,,,,48.651293,-2.0221051
+51938194,way,Hôtel Mercure Saint-Malo Front de Mer,hotel,Saint-Malo,,,,48.6524015,-2.0141747
+52518232,way,Hôtel Escale Océania,hotel,Saint-Malo,"76 Chaussée du Sillon, 35400",35400,,48.6540596,-2.0086206
+52563229,way,Hôtel Ambassadeurs,hotel,Saint-Malo,,,,48.6548057,-2.0077478
+52563254,way,Hôtel Le Beaufort,hotel,Saint-Malo,,,,48.6551217,-2.0069704
+52563427,way,Hôtel Kyriad Saint-Malo Plage,hotel,Saint-Malo,,,,48.6556011,-2.0056856
+52563453,way,Hôtel Logis de Brocéliande,hotel,Saint-Malo,,,,48.6554683,-2.0062267
+52563847,way,Hôtel Le Jersey,hotel,Saint-Malo,,,https://www.antineahotel.com/hotel-le-jersey/,48.6557549,-2.0054606
+52563852,way,Hôtel Artimon,hotel,Saint-Malo,,,,48.6557306,-2.0047803
+52813615,way,Le Grand Hôtel des Thermes,hotel,Saint-Malo,,,,48.6582224,-1.9994425
+53673375,way,,garden,Saint-Malo,,,,48.647706,-2.025716
+53809229,way,Place du Québec,park,Saint-Malo,,,,48.6503128,-2.0279263
+53809230,way,,garden,Saint-Malo,,,,48.6483252,-2.0284259
+53820574,way,Le Grand Bé,hotel,Saint-Malo,,,,48.6498415,-2.0272094
+53820576,way,,park,Saint-Malo,,,,48.6494085,-2.0271413
+54284375,way,Fort d'Aleth,castle,Saint-Malo,,,,48.6372224,-2.0297159
+55170835,way,,park,Saint-Malo,,,,48.6227395,-2.0067089
+55170860,way,Plage des Fours à Chaux,beach,Saint-Malo,,,,48.6272382,-2.0139362
+55362207,way,,park,Saint-Malo,,,,48.6202867,-2.0073868
+55451126,way,,park,Saint-Malo,,,,48.6190514,-1.9984406
+55503715,way,Brit Hotel Le Transat,hotel,Saint-Malo,,,https://hotel-saint-malo-transat.brithotel.fr/,48.6218765,-1.9913764
+55633302,way,,garden,Saint-Malo,,,,48.6299251,-1.9921847
+57934438,way,Square Albert Thomas,garden,Saint-Malo,,,,48.6448744,-2.0007659
+67356198,way,,castle,Saint-Malo,,,,48.4887861,-1.7555425
+67356264,way,Château de Halouze,castle,Saint-Malo,,,,48.526811,-1.7773717
+67487865,way,,restaurant,Saint-Malo,,,,48.5484307,-1.6844545
+67488670,way,,ruins,Saint-Malo,,,,48.5377359,-1.6668179
+77235261,way,Parc du Château,park,Saint-Malo,,,,48.4094843,-1.7564035
+81315868,way,,ruins,Saint-Malo,,,,48.6239884,-2.0840675
+81316003,way,,ruins,Saint-Malo,,,,48.6235776,-2.0835815
+81427998,way,Château du Nessay,castle,Saint-Malo,,,,48.6237983,-2.1429388
+81435867,way,Les Halles,gallery,Saint-Malo,,,,48.6184576,-2.1329918
+82668164,way,Château de Landal,castle,Saint-Malo,,,,48.4910137,-1.6752768
+82668391,way,,ruins,Saint-Malo,,,,48.4904315,-1.6747017
+83060840,way,Maison des produits du terroir et de la gastronomie,museum,Saint-Malo,11 Route de la Saline,,,48.6054069,-1.7234959
+83061311,way,L'abri des grèves,restaurant,Saint-Malo,"2 bis Rue de la Plage, 35120, Cherrueix",35120,,48.6063992,-1.7105515
+83061727,way,,memorial,Saint-Malo,,,,48.6054231,-1.710485
+83351965,way,Maison du Canal,museum,Saint-Malo,,,,48.3055089,-1.7932357
+83353312,way,Les Fées Gourmandes,restaurant,Saint-Malo,,,http://lesfeesgourmandes.com/,48.2955704,-1.8020954
+83996095,way,Manoir du Houx,castle,Saint-Malo,,,,48.5746302,-2.0162088
+84001475,way,Manoir de la Motte aux Montfortins,castle,Saint-Malo,,,,48.6054872,-2.0511495
+84002714,way,Kyriad Saint-Malo Ouest,hotel,Saint-Malo,,,,48.613185,-2.0356973
+84003447,way,L'escale,restaurant,Saint-Malo,37 Rue de Dinard,,,48.6049384,-2.0330161
+84006961,way,Jersey Lillie,restaurant,Saint-Malo,51bis Rue de la Cale de Jouvente,,,48.5948122,-2.0182016
+84007097,way,La Maison,restaurant,Saint-Malo,,,,48.6057757,-2.0565784
+84009461,way,Le Relais,restaurant,Saint-Malo,,,,48.580206,-2.0586898
+84010271,way,La Cale de Jouvente,restaurant,Saint-Malo,51 Rue de la Cale de Jouvente,,,48.5947476,-2.0180356
+84010799,way,,castle,Saint-Malo,,,,48.6008949,-2.0269354
+84011493,way,Buffalo Grill,restaurant,Saint-Malo,,,,48.6145004,-2.0593359
+84019822,way,Les Alizés,hotel,Saint-Malo,,,,48.6299188,-2.0628437
+84020256,way,Château de Port-Breton,castle,Saint-Malo,,,,48.622354,-2.053191
+84022147,way,,zoo,Saint-Malo,,,,48.6211534,-2.0541408
+84022571,way,Armor Restaurant,restaurant,Saint-Malo,"72 Boulevard Jules Verger, 35800, Dinard",35800,https://utopi.bzh/etablissement/restaurants-solidaires,48.6135542,-2.070924
+84023375,way,Hôtel Royal Émeraude,hotel,Saint-Malo,,,,48.6350755,-2.0557846
+84024841,way,Grand Hôtel Barrière,hotel,Saint-Malo,,,,48.6332795,-2.0518634
+84025654,way,Le petit montmartre,restaurant,Saint-Malo,"1 Rue de la Haute Guais, 35800, Dinard",35800,https://www.le-petit-montmartre-dinard.fr,48.6216314,-2.0445594
+84026056,way,Villa Reine Hortense,hotel,Saint-Malo,,,,48.6366181,-2.0571161
+84026589,way,Emeria Thalasso & Spa,hotel,Saint-Malo,,,https://www.emeriadinard.com,48.6390393,-2.0744219
+84027795,way,Villa Eugénie,castle,Saint-Malo,,,,48.6281868,-2.0571445
+84028162,way,La fourchette,restaurant,Saint-Malo,,,,48.6236275,-2.0319647
+84029088,way,Villa Les Roches Brunes,monument,Saint-Malo,,,,48.6399502,-2.0572012
+84588890,way,Château du Logis,castle,Saint-Malo,,,,48.381885,-1.835618
+85568760,way,Ancien moulin,ruins,Saint-Malo,,,,48.5632065,-1.9649531
+85764811,way,La Béréchère,castle,Saint-Malo,,,,48.3003588,-1.8909285
+85917759,way,Château de Barbe Brûlée,castle,Saint-Malo,,,,48.7032097,-1.8453565
+85917824,way,Le Chatelier,hotel,Saint-Malo,,,,48.6799721,-1.871614
+85919336,way,Maison natale de Jeanne Jugan,attraction,Saint-Malo,,,,48.67884,-1.8624961
+85920227,way,La Pointe du Grouin,hotel,Saint-Malo,,,https://www.hotelpointedugrouin.com/,48.7081062,-1.8455557
+85920917,way,Les P'tites Croix,restaurant,Saint-Malo,,,,48.6793285,-1.8616843
+85921469,way,Manoir des Douets Fleuris,hotel,Saint-Malo,,,,48.6817026,-1.8716685
+85922042,way,Musée des Arts et Traditions Populaires de Cancale,museum,Saint-Malo,,,,48.6771979,-1.850294
+85923473,way,La Ferme Marine de Cancale,attraction,Saint-Malo,,,,48.6620752,-1.865048
+87877001,way,Les 3 Mousque’Breizh,restaurant,Saint-Malo,"11 Rue des Princes, 35270, Combourg",35270,,48.4085001,-1.7523806
+87877646,way,Château de la Bouteillerie,castle,Saint-Malo,,,,48.4144587,-1.7983071
+87878451,way,,castle,Saint-Malo,,,,48.4585958,-1.7884342
+87879883,way,Château de Trémigon,castle,Saint-Malo,,,,48.4474198,-1.7617217
+87881498,way,L'Hypothėse,restaurant,Saint-Malo,,,,48.410634,-1.7490854
+88269510,way,,castle,Saint-Malo,,,,48.5624299,-1.9291789
+90458773,way,Manoir des Beauvais,castle,Saint-Malo,,,,48.5463045,-1.7467795
+90462171,way,Manoir de la Belle-Noë,castle,Saint-Malo,"35120, Dol-de-Bretagne",35120,http://www.bellenoe.fr/,48.5300844,-1.7141224
+90530851,way,La Flambée,restaurant,Saint-Malo,,,,48.551707,-1.7498615
+90531625,way,Hôtel de la Gare,hotel,Saint-Malo,,,,48.545112,-1.750305
+92179718,way,Château de la Chesnaie,castle,Saint-Malo,3 La Chenaie,,,48.4435757,-1.9410109
+92354438,way,Château de l'Esquilly,castle,Saint-Malo,,,,48.393142,-1.9036188
+92355170,way,La Bourbansais,castle,Saint-Malo,,,,48.404382,-1.896901
+92355402,way,Aux Délices des Sens,restaurant,Saint-Malo,,,,48.3979989,-1.9030221
+92356343,way,,castle,Saint-Malo,,,,48.3964463,-1.882726
+93162165,way,L'Ille Ô Saveurs,restaurant,Saint-Malo,,,,48.3735647,-1.8765612
+93163446,way,Les Pieds sous la Table,restaurant,Saint-Malo,,,,48.3782479,-1.8793998
+93236234,way,Château de la Fosse aux Loups,castle,Saint-Malo,,,,48.3637579,-1.90708
+93270129,way,Château de Vilhoet,castle,Saint-Malo,,,,48.5027385,-1.7307335
+94144999,way,Château du Rouvre,castle,Saint-Malo,,,,48.4375419,-1.8696871
+94671196,way,Hôtel Le Gambetta,hotel,Saint-Malo,,,,48.6556265,-1.9939426
+94671361,way,Hôtel Alba,hotel,Saint-Malo,,,,48.6567281,-2.0033097
+94671365,way,Malouinière Le Valmarin,hotel,Saint-Malo,,,https://www.levalmarin.com/,48.6345075,-2.0180267
+94671893,way,Le Bénétin,restaurant,Saint-Malo,,,http://www.restaurant-lebenetin.com/,48.686104,-1.9676346
+94672342,way,Château de la Briantais,castle,Saint-Malo,,,,48.618043,-2.01248
+94672650,way,,restaurant,Saint-Malo,,,,48.6568519,-1.9943633
+94672669,way,Hôtel La Rotonde,hotel,Saint-Malo,1 Boulevard de Chateaubriand,,https://www.larotonde-saintmalo.fr/,48.662406,-1.9888143
+94676003,way,Hôtel La Villefromoy,hotel,Saint-Malo,,,,48.6611531,-1.9916489
+94677328,way,,castle,Saint-Malo,,,,48.6378838,-1.9679205
+94679611,way,Hôtel Ibis La Madeleine,hotel,Saint-Malo,,,,48.6254071,-1.98986
+94680151,way,Ibis Budget Saint-Malo Centre,hotel,Saint-Malo,,,,48.6384647,-2.0094724
+94680320,way,Grand Hotel de Courtoisville,hotel,Saint-Malo,,,,48.6581934,-1.9972516
+94681124,way,Château du Vau Garni,castle,Saint-Malo,,,,48.6221848,-2.0092501
+94681538,way,Le Nautibus,attraction,Saint-Malo,,,,48.6204379,-1.9952251
+94684825,way,La pie qui boit,hotel,Saint-Malo,,,,48.648072,-2.0273204
+94685859,way,hotelF1,hotel,Saint-Malo,,,,48.6215173,-1.987171
+94686594,way,Hôtel Eden,hotel,Saint-Malo,"1 Rue de l'Étang, 35400, Saint-Malo",35400,https://www.hotel-eden-saintmalo.com/,48.6617807,-1.9894795
+94976806,way,Kyriad prestige,hotel,Saint-Malo,,,,48.6356057,-1.9885187
+94979274,way,Le Retro,restaurant,Saint-Malo,,,,48.6379165,-1.9818085
+94980148,way,CCE Air France,hotel,Saint-Malo,,,,48.6544669,-1.9847396
+94983062,way,B&B Hôtel,hotel,Saint-Malo,"76 Avenue du Général de Gaulle, 35400, Saint-Malo",35400,https://www.hotel-bb.com/fr/-/hotelByName.htm?id=0155,48.6369489,-1.9904186
+94983709,way,Le Chateaubriand,hotel,Saint-Malo,,,,48.6513657,-2.0239075
+94986494,way,Le Saint-Placide,restaurant,Saint-Malo,,,https://st-placide.com/,48.6296892,-2.0105885
+94989319,way,Le Surcouf,hotel,Saint-Malo,17 Avenue du Révérend Père Umbricht,,,48.6578667,-1.9943506
+94995335,way,Hôtel Alpha Océan,hotel,Saint-Malo,,,,48.6633199,-1.9896236
+94996615,way,Hôtel Logis La Grassinais,hotel,Saint-Malo,,,,48.6242544,-1.9879118
+95105242,way,Château de la Ville-aux-Oiseaux,castle,Saint-Malo,,,,48.5981423,-1.9891501
+95134482,way,Fort du Guesclin,castle,Saint-Malo,,,,48.6967748,-1.8959185
+95134744,way,,ruins,Saint-Malo,,,,48.69651,-1.9345503
+95134826,way,Oppidum,ruins,Saint-Malo,,,,48.6966426,-1.9368203
+95135716,way,Colette,restaurant,Saint-Malo,,,https://www.colette.bzh/,48.6915398,-1.944966
+95135823,way,,ruins,Saint-Malo,,,,48.6952235,-1.9325078
+95168844,way,Maison Tirel Guerin,hotel,Saint-Malo,,,https://www.domaine-du-limonay.com/fr/maison-tirel-guerin/,48.6151218,-1.905415
+95168905,way,Château de Vaulerault,castle,Saint-Malo,,,,48.6545922,-1.868594
+95174069,way,Bistrot 1936,restaurant,Saint-Malo,,,https://www.domaine-du-limonay.com/fr/restaurant/bistrot-136/,48.6149592,-1.9053944
+95174112,way,Villa Adélaïde,hotel,Saint-Malo,,,https://www.domaine-du-limonay.com/fr/villa-adelaide/,48.6150599,-1.905928
+95176344,way,La Cambuse du Corsaire,restaurant,Saint-Malo,"32 Rue d'Émeraude, 35350, Saint-Méloir-des-Ondes",35350,,48.6391057,-1.9097065
+95176824,way,,castle,Saint-Malo,,,,48.6411702,-1.9337338
+95314244,way,Château de Bonaban,castle,Saint-Malo,,,,48.5973559,-1.887696
+95336765,way,,hotel,Saint-Malo,,,,48.6208613,-1.8539389
+95515103,way,Église abbatiale de la Purification-de-la-Sainte-Vierge,attraction,Saint-Malo,,,,48.4913484,-1.8348278
+95515520,way,,castle,Saint-Malo,,,,48.4938875,-1.855793
+95865272,way,,castle,Saint-Malo,,,,48.4867314,-1.5859491
+95865775,way,,castle,Saint-Malo,,,,48.4869628,-1.5859752
+95866086,way,,castle,Saint-Malo,,,,48.4869642,-1.5859056
+95866102,way,Maison du sabot,museum,Saint-Malo,"Rue de la Mairie, 35610, Trans-la-Forêt",35610,,48.4969797,-1.5873723
+96264163,way,Domaine de Chanteloup,restaurant,Saint-Malo,"35120, Mont Dol",35120,https://le-domaine-de-chanteloup.com/,48.565003,-1.7773169
+96316461,way,Les Quatre Salines,restaurant,Saint-Malo,3 Rue des Quatre Salines,,https://restaurant-mont-saint-michel.com/,48.5951529,-1.5900131
+96317315,way,Cabaret Mont St. Michel,attraction,Saint-Malo,,,,48.5932295,-1.5968289
+96317951,way,Maison des Polders,museum,Saint-Malo,3 Rue des Mondrins,,,48.5954837,-1.5886552
+96601550,way,,castle,Saint-Malo,,,,48.5392478,-1.5419764
+96658183,way,,castle,Saint-Malo,,,,48.4993226,-1.5562429
+96705443,way,Plage du Môle,beach,Saint-Malo,,,,48.6450964,-2.031398
+96705445,way,Plage de Bon Secours,beach,Saint-Malo,,,,48.6487134,-2.0298563
+96923335,way,Plage Malo,beach,Saint-Malo,,,,48.6528605,-2.0266504
+99412099,way,Château de Québriac,castle,Saint-Malo,,,,48.3510217,-1.8231013
+99412376,way,L'arbre en bois,restaurant,Saint-Malo,12 Rue de la Liberté,,,48.3445553,-1.8268843
+102649476,way,Parc des Loisirs,park,Saint-Malo,"266 Chemin Auckland, J0B 2Y0, Saint-Malo",J0B 2Y0,,45.2038103,-71.5016869
+110086897,way,Le Relais des Onze Ecluses,restaurant,Saint-Malo,,,,48.2989365,-1.818579
+110088032,way,Château de la Besnelais,castle,Saint-Malo,,,,48.3097755,-1.8200605
+111353535,way,Château de Lanrigan,castle,Saint-Malo,,,,48.3967851,-1.7011829
+121242041,way,,park,Saint-Malo,,,,48.5899274,-1.5914389
+135735172,way,Château de Tourdelain,castle,Saint-Malo,,,,48.32983,-1.931396
+135736274,way,,castle,Saint-Malo,,,,48.3348675,-1.9210021
+141105511,way,Plage du Val,beach,Saint-Malo,,,,48.6841187,-1.9737537
+141105544,way,Plage du Nicet,beach,Saint-Malo,,,,48.6836049,-1.9790259
+141130991,way,Plage du Minihic,beach,Saint-Malo,,,,48.670555,-1.9888001
+141610924,way,La vallée verte,park,Saint-Malo,,,,48.665995,-1.9812388
+141611313,way,Le Pont Tocqué,park,Saint-Malo,,,,48.6651155,-1.9760495
+141648063,way,Château de Saint-Malo,castle,Saint-Malo,,,,48.6514164,-2.0226076
+141652344,way,Statue de François-René de Chateaubriand,memorial,Saint-Malo,,,,48.6513748,-2.0210335
+141691803,way,Monument aux morts,memorial,Saint-Malo,,,,48.6500906,-2.0260982
+141693287,way,Tombeau de François René de Chateaubriand,attraction,Saint-Malo,,,,48.6530227,-2.0331543
+141748654,way,Enclos de la Résistance,park,Saint-Malo,,,,48.6499838,-2.0263341
+141752606,way,Plage des Bas-Sablons,beach,Saint-Malo,,,,48.6382916,-2.0203366
+141965426,way,Monument Hommage à l'amiral Bouvet,memorial,Saint-Malo,,,,48.6375805,-2.016196
+142034214,way,Parc de la Cité d'Alet,park,Saint-Malo,,,,48.6362558,-2.0287875
+142145803,way,Le Jardin de La Briantais,park,Saint-Malo,,,,48.6621854,-1.9874893
+142245711,way,Musée Jacques Cartier,museum,Saint-Malo,,,,48.673985,-1.9660616
+142254292,way,Les Rochers sculptés,artwork,Saint-Malo,,,,48.6867325,-1.9682313
+142271723,way,Fort d'Arboulé,ruins,Saint-Malo,,,,48.6801658,-1.9882705
+142299313,way,Plage de l'Éventail,beach,Saint-Malo,,,,48.6527964,-2.0228176
+142301906,way,Plage de Rochebonne,beach,Saint-Malo,,,,48.666109,-1.9928208
+142305078,way,,park,Saint-Malo,,,,48.6715637,-1.9782499
+142305526,way,,park,Saint-Malo,,,,48.6682892,-1.9779149
+142312244,way,Plage du Havre,beach,Saint-Malo,,,,48.6810202,-1.957816
+142312595,way,Plage de la Guimorais,beach,Saint-Malo,,,,48.6900984,-1.95035
+142313034,way,,beach,Saint-Malo,,,,48.6843136,-1.9448215
+142317708,way,Parc du Nicet,park,Saint-Malo,"26 Avenue de la Varde, 35400, Saint-Malo",35400,,48.6821054,-1.9781528
+142321107,way,,park,Saint-Malo,,,,48.6641068,-1.9820135
+142321185,way,Square Jean Lemasson,park,Saint-Malo,,,,48.6612656,-1.9797456
+142490096,way,Plage du Pont,beach,Saint-Malo,,,,48.6747148,-1.9850652
+144388643,way,Parc des Chênes,park,Saint-Malo,,,,48.6547123,-1.9788988
+151773216,way,Plage de la Varde,beach,Saint-Malo,,,,48.6819447,-1.9857374
+151773962,way,,beach,Saint-Malo,,,,48.6872108,-1.966956
+153658325,way,Parc de La Briantais,park,Saint-Malo,,,,48.6189388,-2.0135291
+155452985,way,Parc de Port-Breton,park,Saint-Malo,,,,48.6222576,-2.0525606
+156261612,way,,park,Saint-Malo,,,,48.541629,-1.7571625
+158857760,way,Les Douves,park,Saint-Malo,,,,48.5519798,-1.7521
+158859544,way,La Vallée du Guyoult,park,Saint-Malo,,,,48.5413834,-1.7546423
+160806597,way,Plage du Béchet,beach,Saint-Malo,,,,48.6252189,-2.1406139
+160806623,way,Plage de la Petite Salinette,beach,Saint-Malo,,,,48.6266086,-2.1463842
+162140026,way,Anse Saint-Père,beach,Saint-Malo,,,,48.6338049,-2.027458
+162140030,way,Plage de Solidor,beach,Saint-Malo,,,,48.6340039,-2.022829
+162140031,way,Plage du Rosais,beach,Saint-Malo,,,,48.6243865,-2.0134757
+167688426,way,Plage de l'Écluse,beach,Saint-Malo,,,,48.6364787,-2.054338
+171495020,way,Grève de Garel,beach,Saint-Malo,,,,48.5767535,-2.0010946
+173600035,way,,park,Saint-Malo,,,,48.6499685,-1.9714676
+174453940,way,,park,Saint-Malo,,,,48.636504,-1.9863776
+186491633,way,,garden,Saint-Malo,,,,48.4076543,-1.7498501
+194608760,way,Parc des Tourelles,park,Saint-Malo,,,,48.6339755,-2.0617722
+194622948,way,Square Langevin,park,Saint-Malo,,,,48.6369199,-2.0691162
+194622968,way,,park,Saint-Malo,,,,48.6395909,-2.0630156
+196331274,way,,beach,Saint-Malo,,,,48.6058276,-2.0316379
+196331277,way,,beach,Saint-Malo,,,,48.6085222,-2.0313192
+196331280,way,,beach,Saint-Malo,,,,48.6070708,-2.0305503
+197492653,way,Plage de Saint-Énogat,beach,Saint-Malo,,,,48.6390853,-2.0693681
+197492654,way,Plage de Port-Riou,beach,Saint-Malo,,,,48.6392692,-2.0650198
+207163851,way,Plage du Tertre Pelé,beach,Saint-Malo,,,,48.6318798,-2.1451862
+207906595,way,,garden,Saint-Malo,,,,48.6727972,-1.9791393
+207906598,way,,garden,Saint-Malo,,,,48.6731036,-1.9794569
+212407019,way,,park,Saint-Malo,,,,48.653458,-1.9814527
+214447601,way,Hôtel Les Charmettes,hotel,Saint-Malo,,,,48.6593902,-1.9963895
+216798199,way,,ruins,Saint-Malo,,,,48.6807262,-1.9878865
+216798202,way,,ruins,Saint-Malo,,,,48.6813546,-1.9889819
+216798207,way,,ruins,Saint-Malo,,,,48.6811111,-1.9890851
+216798211,way,,ruins,Saint-Malo,,,,48.6807223,-1.9887918
+216799793,way,,ruins,Saint-Malo,,,,48.6814842,-1.9898096
+218897569,way,,ruins,Saint-Malo,,,,48.6179228,-2.0142812
+218897570,way,,ruins,Saint-Malo,,,,48.617853,-2.0145568
+218897574,way,Temple de Cupidon,monument,Saint-Malo,,,,48.6173881,-2.0143744
+219557804,way,Cathédrale Saint-Pierre d'Aleth,ruins,Saint-Malo,,,,48.6358549,-2.0269393
+219584053,way,,ruins,Saint-Malo,,,,48.6342588,-2.0308135
+219706631,way,Vallée de l'Amitié,park,Saint-Malo,,,,48.6273175,-2.1019571
+219753944,way,,garden,Saint-Malo,,,,48.6348114,-2.0280635
+219813825,way,,ruins,Saint-Malo,,,,48.680216,-1.987838
+219813826,way,,ruins,Saint-Malo,,,,48.6805971,-1.9883473
+219870241,way,Parc de Bel-Air,park,Saint-Malo,,,,48.6357354,-2.016464
+220171224,way,Fort du Naye,ruins,Saint-Malo,,,,48.6422439,-2.0218881
+220226763,way,,park,Saint-Malo,,,,48.636596,-2.0124981
+220342204,way,Parc de La Roseraie,park,Saint-Malo,,,,48.6333208,-2.0149793
+221029552,way,,beach,Saint-Malo,,,,48.6174462,-2.1358467
+242990812,way,Plage de la Vicomté,beach,Saint-Malo,,,,48.6256016,-2.0361627
+244832902,way,Grande Plage,beach,Saint-Malo,,,,48.6378509,-2.1089108
+246508865,way,Square Jean Boucher,park,Saint-Malo,,,,48.2970319,-1.8003717
+248798164,way,Hôtel Le Nouveau Monde,hotel,Saint-Malo,,,https://www.hotel-le-nouveau-monde.fr/,48.6534661,-2.0107694
+257268196,way,,park,Saint-Malo,,,,48.6238261,-2.1429091
+270051365,way,,beach,Saint-Malo,,,,48.6760303,-2.0702375
+276022571,way,Plage du Port aux Chevaux,beach,Saint-Malo,,,,48.63177,-2.1498993
+276264764,way,,beach,Saint-Malo,,,,48.6071673,-1.7100283
+277344840,way,Jardin du Westerwald,park,Saint-Malo,,,,48.5781394,-2.0549863
+283704928,way,,park,Saint-Malo,,,,48.6354346,-2.0697836
+285019949,way,,ruins,Saint-Malo,,,,48.7100508,-1.8455042
+285500396,way,Plage de la Passagère,beach,Saint-Malo,,,,48.5982925,-2.0108626
+285569738,way,,park,Saint-Malo,,,,48.5985488,-2.0107191
+286387298,way,,beach,Saint-Malo,,,,48.6388434,-2.1163095
+286799216,way,Place du Château,park,Saint-Malo,,,,48.2961274,-1.8042839
+288365253,way,,ruins,Saint-Malo,,,,48.5621114,-1.9301731
+288365307,way,,ruins,Saint-Malo,,,,48.5623998,-1.9296891
+289115752,way,Saint-Alexandre,park,Saint-Malo,,,,48.6288594,-2.072207
+289951632,way,,park,Saint-Malo,,,,48.3444241,-1.8301348
+289958744,way,,park,Saint-Malo,,,,48.3442893,-1.828795
+290523562,way,Plage de la Grande Salinette,beach,Saint-Malo,,,,48.6246412,-2.1437739
+290533002,way,Plage de la Touesse,beach,Saint-Malo,,,,48.6928891,-1.9232223
+290561311,way,Plage de la Fosse aux Vaults,beach,Saint-Malo,,,,48.6339195,-2.0942804
+290703254,way,Plage de Longchamp,beach,Saint-Malo,,,,48.6368026,-2.1222913
+290703255,way,Plage de Port Hue,beach,Saint-Malo,,,,48.6325846,-2.1400195
+290703256,way,Plage de la Fourberie,beach,Saint-Malo,,,,48.6352892,-2.0861677
+290703257,way,Plage du Perron,beach,Saint-Malo,,,,48.6291006,-2.15123
+291755850,way,,park,Saint-Malo,,,,48.5507388,-1.9444068
+291777310,way,,beach,Saint-Malo,,,,48.5755323,-1.9824814
+291777313,way,,beach,Saint-Malo,,,,48.5777416,-1.9835198
+291977816,way,Plage du Port-Blanc,beach,Saint-Malo,,,,48.6364923,-2.0819086
+291977817,way,Plage du Prieuré,beach,Saint-Malo,,,,48.625726,-2.0522614
+292109109,way,Square Nominoë,park,Saint-Malo,,,,48.5505186,-1.7568656
+292109110,way,Square de la Résistance,park,Saint-Malo,,,,48.5464767,-1.7510991
+292191640,way,Square Charcot,park,Saint-Malo,,,,48.6001862,-1.9713082
+292459415,way,Jardin du Val,park,Saint-Malo,,,,48.683055,-1.9731384
+293065709,way,,ruins,Saint-Malo,,,,48.617239,-2.0082958
+293890963,way,Square du Petit Champ,park,Saint-Malo,,,,48.6434577,-2.0022162
+300966181,way,Blockhaus,ruins,Saint-Malo,,,,48.6133266,-2.0837155
+302244196,way,Place du Docteur Gringoire,park,Saint-Malo,,,,48.5511731,-1.7016265
+303373567,way,Plage de la Garde Guérin,beach,Saint-Malo,,,,48.6346822,-2.1359846
+305880291,way,Tour Solidor,castle,Saint-Malo,,,,48.6340325,-2.0260685
+328602204,way,,park,Saint-Malo,,,,48.6363939,-2.0211653
+329140665,way,Au Commandant Charcot,memorial,Saint-Malo,,,,48.6384721,-2.0290283
+330410590,way,Hôtel Oceania,hotel,Saint-Malo,,,,48.65174,-2.0186965
+330410592,way,Bello Mio,restaurant,Saint-Malo,"3 Place du Poncel, 35400, Saint-Malo",35400,https://ifratelligroup.fr/,48.6295605,-2.0111075
+330983420,way,Campanile,hotel,Saint-Malo,,,,48.6035982,-1.973747
+330983422,way,Hôtel Première Classe,hotel,Saint-Malo,,,,48.6034715,-1.9745969
+340311788,way,Cobac Parc,theme_park,Saint-Malo,,,https://www.cobac-parc.com/,48.438238,-1.831529
+344872920,way,Plage des Hirondelles,beach,Saint-Malo,,,,48.6409878,-2.1168872
+349766882,way,Plage des Chevrets,beach,Saint-Malo,,,,48.6926067,-1.9465988
+362117930,way,Plage de Port-Mer,beach,Saint-Malo,,,,48.701115,-1.8494231
+366433740,way,La Trinquette du Yacht Club,restaurant,Saint-Malo,,,https://www.latrinquette.fr/,48.6490698,-2.0210871
+372306716,way,Hôtel Antinéa,hotel,Saint-Malo,,,https://www.antineahotel.com/hotel-antinea/,48.6558926,-2.005268
+374467932,way,,park,Saint-Malo,,,,48.6081005,-2.0295863
+375505141,way,Monument aux Morts,memorial,Saint-Malo,,,,48.5991496,-1.9731628
+375505754,way,B&B Hôtel Saint-Malo Sud,hotel,Saint-Malo,,,https://www.hotel-bb.com/fr/hotels/saint-malo-st-jouan.htm,48.6033598,-1.9751041
+376941135,way,Carrousel Malouin,attraction,Saint-Malo,,,,48.6508136,-2.0227379
+384680317,way,Zoo de la Bourbansais,zoo,Saint-Malo,,,https://www.labourbansais.com/,48.4013632,-1.9003295
+393037757,way,,beach,Saint-Malo,,,,48.6860283,-1.9705528
+393037759,way,Plage du Saussaye,beach,Saint-Malo,,,,48.7002775,-1.8621273
+409092982,way,,beach,Saint-Malo,,,,48.6396634,-2.0777178
+421135694,way,Moulin à marée de Fosse Mort,ruins,Saint-Malo,,,,48.5711987,-2.0104524
+421547757,way,Hôtel Le Manoir du Cunningham,hotel,Saint-Malo,,,https://www.st-malo-hotel-cunningham.com/,48.6361625,-2.0205436
+424820717,way,,park,Saint-Malo,,,,48.575404,-2.0109454
+432212030,way,Jardin public du Presbytère,park,Saint-Malo,,,,48.6348377,-2.1101051
+463231192,way,Les Jardins de Bazouge,garden,Saint-Malo,,,,48.3125613,-1.7715729
+469531979,way,Observatoir St-Malo,park,Saint-Malo,,,,45.1999919,-71.4901585
+469531981,way,,park,Saint-Malo,,,,45.1986509,-71.4977155
+474681857,way,Le Comptoir de la Licorne,restaurant,Saint-Malo,,,,48.6104699,-2.06426
+484786889,way,Hôtel de la Gare,hotel,Saint-Malo,,,https://www.hoteldelagare-stmalo.fr/,48.6467013,-2.0090785
+485330844,way,Plage de La Hoguette,beach,Saint-Malo,,,,48.6615938,-2.0002079
+485330850,way,Plage du Sillon,beach,Saint-Malo,,,,48.6566294,-2.0133301
+498380244,way,,garden,Saint-Malo,,,,48.6479599,-2.0256934
+499630305,way,Crique du Fort,beach,Saint-Malo,,,,48.6786338,-1.9882433
+501804166,way,Gourmet Wok,restaurant,Saint-Malo,,,https://www.restaurant-asiatique-saintjouandesguerets.fr/,48.6003982,-1.9697718
+503967613,way,L'Ami,restaurant,Saint-Malo,,,,48.6129785,-2.0472126
+504243413,way,,park,Saint-Malo,,,,45.1790162,-71.5456626
+507807958,way,,garden,Saint-Malo,,,,48.5943295,-2.030095
+507813159,way,,park,Saint-Malo,,,,48.5997333,-2.0268893
+507813160,way,,park,Saint-Malo,,,,48.5992974,-2.0270012
+507821630,way,,park,Saint-Malo,,,,48.5997102,-2.0278161
+507840857,way,,park,Saint-Malo,,,,48.5802848,-2.014694
+508700630,way,,garden,Saint-Malo,,,,48.6466391,-2.0045532
+508700631,way,,garden,Saint-Malo,,,,48.6466693,-2.0047293
+508700632,way,,garden,Saint-Malo,,,,48.6467003,-2.0049078
+518426641,way,HotelF1,hotel,Saint-Malo,,,http://www.hotelf1.com/fr/hotel-2469-formule-1-hotelf1-saint-malo-dinard/location.shtml,48.6115059,-2.0520238
+536595383,way,,park,Saint-Malo,,,,48.5481214,-1.7568181
+538809701,way,,park,Saint-Malo,,,,48.4499471,-1.9111592
+587716906,way,Castelbrac,hotel,Saint-Malo,,,,48.634528,-2.0493042
+587716910,way,Anse du Bec de la Vallée,beach,Saint-Malo,,,,48.6360359,-2.0486128
+621784043,way,,ruins,Saint-Malo,,,,48.7128762,-1.8359077
+623381490,way,,beach,Saint-Malo,,,,48.6209969,-1.8510735
+625292816,way,Place de la Barette,park,Saint-Malo,,,,48.6208612,-2.1236485
+625295237,way,,park,Saint-Malo,,,,48.6322837,-2.0558197
+625296180,way,,park,Saint-Malo,,,,48.6280927,-2.0570988
+625778755,way,,park,Saint-Malo,Cancale,,,48.6751435,-1.8529616
+641655890,way,Cours O Bistrot,restaurant,Saint-Malo,"53 Rue de la Ville-es-Cours, 35400, Saint-Malo",35400,https://coursobistrot.fr,48.6311188,-1.9714217
+655577862,way,,park,Saint-Malo,,,,48.6326519,-2.0764468
+656556479,way,Plage de Porcon,beach,Saint-Malo,,,,48.6523009,-1.8684543
+659765316,way,Esplanade Yves Verney,park,Saint-Malo,,,,48.6343421,-2.055384
+663425164,way,,garden,Saint-Malo,,,,48.5616216,-1.9293773
+665106438,way,Jardin du Souvenir,garden,Saint-Malo,,,,48.6376808,-1.9026252
+677465246,way,Kyriad Dol-de-Bretagne,hotel,Saint-Malo,"28 Rue de la Rouelle, 35120",35120,https://dol-de-bretagne.kyriad.com/fr-fr/,48.5505367,-1.71912
+684653045,way,Hôtel du Parc des Tourelles,hotel,Saint-Malo,,,,48.6333361,-2.0597977
+684653046,way,Hôtel Saint-Michel,hotel,Saint-Malo,,,,48.6312657,-2.063418
+708815510,way,Plage de Port Briac,beach,Saint-Malo,,,,48.6902348,-1.8466387
+799468212,way,Jardin des Petits Murs,garden,Saint-Malo,,,,48.6487245,-2.0282775
+800465786,way,Jardin de la Louisiane,garden,Saint-Malo,,,,48.637371,-1.9946479
+838949258,way,Ibis,hotel,Saint-Malo,,,,48.5680997,-1.5429108
+839915783,way,,beach,Saint-Malo,,,,48.6973709,-1.8719418
+839915784,way,,beach,Saint-Malo,,,,48.6981106,-1.8706785
+840295444,way,,garden,Saint-Malo,,,,48.4037232,-1.8973863
+840295445,way,,garden,Saint-Malo,,,,48.4033352,-1.8972305
+848295234,way,Le Chatelet,park,Saint-Malo,"Balcon d'Émeraude, 35800, Saint-Briac-sur-Mer",35800,,48.6165043,-2.1363553
+848374319,way,,park,Saint-Malo,,,,48.6181172,-2.1359828
+858275329,way,,park,Saint-Malo,,,,48.5509599,-1.7564647
+863030251,way,Plage naturiste,beach,Saint-Malo,,,,48.6342039,-2.0896783
+892328831,way,,ruins,Saint-Malo,,,,48.6951256,-1.9373379
+913211229,way,,park,Saint-Malo,,,,48.2879167,-1.8634346
+917539243,way,,park,Saint-Malo,,,,48.3583957,-1.7173199
+933879957,way,,park,Saint-Malo,,,,48.5492892,-1.744519
+943445983,way,,park,Saint-Malo,,,,48.2938118,-1.8468263
+956941354,way,,beach,Saint-Malo,,,,48.6369358,-2.1590066
+958378546,way,,beach,Saint-Malo,,,,48.639966,-2.0594014
+958439939,way,,ruins,Saint-Malo,,,,48.637154,-2.1321647
+958439940,way,,ruins,Saint-Malo,,,,48.6369797,-2.1335917
+967960565,way,Parc Surcouf,park,Saint-Malo,,,,48.6363426,-2.0477032
+971350900,way,,beach,Saint-Malo,,,,48.4917963,-1.7299399
+998123667,way,Ibis Styles Saint-Malo Port,hotel,Saint-Malo,,,,48.6393801,-2.014136
+1041586743,way,Buste de Jacques Cartier,artwork,Saint-Malo,,,,48.6811802,-1.96791
+1065055870,way,,park,Saint-Malo,,,,48.4089337,-1.7469523
+1065056927,way,Étoile du Roy,attraction,Saint-Malo,,,https://www.etoile-marine.com/,48.6508341,-2.0209352
+1065422350,way,,park,Saint-Malo,,,,48.4070349,-1.738732
+1066687882,way,,memorial,Saint-Malo,,,,48.6058644,-1.801439
+1066993900,way,,memorial,Saint-Malo,,,,48.6024725,-1.7755719
+1068194017,way,,park,Saint-Malo,,,,48.5512334,-1.7356394
+1071331608,way,,park,Saint-Malo,,,,48.6145103,-1.9596337
+1071332308,way,,park,Saint-Malo,,,,48.5981923,-1.9700168
+1071333436,way,,park,Saint-Malo,,,,48.5997971,-1.9772733
+1071335884,way,,park,Saint-Malo,,,,48.5780849,-1.8836256
+1071336145,way,,park,Saint-Malo,,,,48.6147364,-1.9542903
+1074140376,way,,park,Saint-Malo,,,,48.329477,-1.8400905
+1077628739,way,,park,Saint-Malo,,,,48.5503786,-1.7562978
+1077628740,way,,park,Saint-Malo,,,,48.5504211,-1.7561175
+1079087863,way,,park,Saint-Malo,Cancale,,,48.6762494,-1.8472731
+1081115665,way,Parc de Vau Garni,park,Saint-Malo,,,,48.6241495,-2.0117636
+1083865339,way,,park,Saint-Malo,,,,48.5264696,-1.8492826
+1089060622,way,,garden,Saint-Malo,,,,48.6323358,-2.0156475
+1089903371,way,,garden,Saint-Malo,,,,48.6320493,-2.0149633
+1089903372,way,,garden,Saint-Malo,,,,48.6321195,-2.0151945
+1089903373,way,,garden,Saint-Malo,,,,48.6322354,-2.0154332
+1098293092,way,,garden,Saint-Malo,,,,48.6562328,-1.9774299
+1190599430,way,Reine Marine,hotel,Saint-Malo,,,https://www.reinemarine.com/,48.6693211,-1.9840929
+1220592654,way,Château de Montmuran,castle,Saint-Malo,,,,48.2937757,-1.860952
+1228485114,way,,memorial,Saint-Malo,,,,48.6715215,-1.8517577
+1231998187,way,,park,Saint-Malo,,,,48.4052466,-1.7468353
+1278764640,way,Plage des Chevrets,beach,Saint-Malo,,,,48.6940381,-1.9385066
+1293820985,way,,park,Saint-Malo,,,,48.3087905,-1.9408346
+1301381385,way,,park,Saint-Malo,,,,45.1987149,-71.5000456
+1307680053,way,,garden,Saint-Malo,,,,48.5526919,-1.9323162
+1311227011,way,,park,Saint-Malo,,,,48.5464693,-1.7451927
+1311227012,way,,park,Saint-Malo,,,,48.5464056,-1.7441123
+1341639580,way,,garden,Saint-Malo,,,,48.6534405,-2.0063224
+1341639581,way,,garden,Saint-Malo,,,,48.6539016,-2.0072579
+1341639582,way,,garden,Saint-Malo,,,,48.6546031,-2.0072057
+1341639583,way,,garden,Saint-Malo,,,,48.6546957,-2.0064206
+1351273663,way,,garden,Saint-Malo,,,,48.6482457,-2.0282902
+1351342447,way,,garden,Saint-Malo,,,,48.647053,-2.0236272
+1361408847,way,,garden,Saint-Malo,,,,48.6958906,-1.8545746
+1361408852,way,,garden,Saint-Malo,,,,48.6958254,-1.8539006
+1361438114,way,,garden,Saint-Malo,,,,48.6959625,-1.8530029
+1361438126,way,,garden,Saint-Malo,,,,48.6962844,-1.8535389
+1361438127,way,,garden,Saint-Malo,,,,48.6962537,-1.8533095
+1361438129,way,,garden,Saint-Malo,,,,48.6962346,-1.8529574
+1361438141,way,,garden,Saint-Malo,,,,48.6950074,-1.8536169
+1361438148,way,,garden,Saint-Malo,,,,48.6953163,-1.8536362
+1361438164,way,,garden,Saint-Malo,,,,48.6964078,-1.853783
+1361476750,way,,garden,Saint-Malo,,,,48.6957709,-1.8521941
+1361476753,way,,garden,Saint-Malo,,,,48.6953077,-1.8519313
+1361533634,way,,garden,Saint-Malo,,,,48.6977029,-1.8535937
+1361555015,way,,garden,Saint-Malo,,,,48.6994581,-1.8533092
+1361555017,way,,garden,Saint-Malo,,,,48.6994459,-1.8530905
+1361555022,way,,garden,Saint-Malo,,,,48.6988341,-1.8542018
+1381983857,way,,restaurant,Saint-Malo,,,,48.4032076,-1.8951152
+1413781288,way,,park,Saint-Malo,,,,48.332761,-1.8299219
+1427555320,way,Jardin d'Amélie et Jules,park,Saint-Malo,,,,48.2949588,-1.8007854
+1442165317,way,,garden,Saint-Malo,,,,48.6369241,-2.0255248
+1442165319,way,,garden,Saint-Malo,,,,48.6364143,-2.0250241
+1442165320,way,,garden,Saint-Malo,,,,48.6364256,-2.0252546
+1442178444,way,,garden,Saint-Malo,,,,48.6361924,-2.0269503
+1442178445,way,,garden,Saint-Malo,,,,48.6361561,-2.026789
+1442195758,way,,garden,Saint-Malo,,,,48.6353628,-2.0257379
+1442195760,way,,garden,Saint-Malo,,,,48.6354172,-2.0254258
+1442195761,way,,garden,Saint-Malo,,,,48.6354437,-2.0251921
+1442195764,way,,garden,Saint-Malo,,,,48.6350524,-2.0252371
+1442195765,way,,garden,Saint-Malo,,,,48.635091,-2.0251103
+1442195766,way,,garden,Saint-Malo,,,,48.6351211,-2.0250115
+1442195785,way,,garden,Saint-Malo,,,,48.6358285,-2.0240012
+1442195788,way,,garden,Saint-Malo,,,,48.6346392,-2.0250115
+1442209048,way,,garden,Saint-Malo,,,,48.6353406,-2.0270303
+1442209049,way,,garden,Saint-Malo,,,,48.6355086,-2.0271075
+1442209050,way,,garden,Saint-Malo,,,,48.6355608,-2.0269149
+1442209052,way,,garden,Saint-Malo,,,,48.6352716,-2.0275744
+1442209053,way,,garden,Saint-Malo,,,,48.6352081,-2.0277264
+1442209054,way,,garden,Saint-Malo,,,,48.6351083,-2.0280727
+1442209055,way,,garden,Saint-Malo,,,,48.6349964,-2.0280093
+1445798765,way,,garden,Saint-Malo,,,,48.6498538,-2.0259839
+1445825759,way,,garden,Saint-Malo,,,,48.6428308,-2.0137577
+1455323404,way,,beach,Saint-Malo,,,,48.7051943,-1.8440744
+1455323409,way,,beach,Saint-Malo,,,,48.7095524,-1.8471287
+1455524082,way,,beach,Saint-Malo,,,,48.6979486,-1.8479078
+1455524086,way,,beach,Saint-Malo,,,,48.6992583,-1.8494341
+1456696445,way,,beach,Saint-Malo,,,,48.6878846,-1.9542491
+1456969299,way,,beach,Saint-Malo,,,,48.6824494,-1.9813841
+1456969314,way,,beach,Saint-Malo,,,,48.6874724,-1.9652246
+1458514641,way,,beach,Saint-Malo,,,,48.6965816,-1.932844
+1458514643,way,,beach,Saint-Malo,,,,48.6949348,-1.9379707
+1458515668,way,,beach,Saint-Malo,,,,48.6907811,-1.9130782
+1472717269,way,,garden,Saint-Malo,,,,48.5992023,-1.9722944
+1472717270,way,,garden,Saint-Malo,,,,48.5990833,-1.9721979
+1472717271,way,,garden,Saint-Malo,,,,48.5989432,-1.9722465
+1472717272,way,,garden,Saint-Malo,,,,48.5988708,-1.9722025
+1472717273,way,,garden,Saint-Malo,,,,48.598855,-1.9722751
+1472717274,way,,garden,Saint-Malo,,,,48.5989207,-1.9723315
+1481163842,way,Jardin Hamon Vaujoyeux,garden,Saint-Malo,,,,48.6775807,-1.8498584
+1304779,relation,Château de Combourg,castle,Saint-Malo,,,,48.4075766,-1.7537936
+5234212,relation,,park,Saint-Malo,,,,48.4497659,-1.6628018
+5234243,relation,,park,Saint-Malo,,,,48.4473494,-1.9135443
+5241369,relation,,park,Saint-Malo,,,,48.3728737,-1.8758725
+5246003,relation,,park,Saint-Malo,,,,48.3977044,-1.9036392
+5835609,relation,Parc des Corbières,park,Saint-Malo,,,,48.6324176,-2.0210636
+8553746,relation,Parc de Caradeuc,park,Saint-Malo,,,,48.2938281,-1.9568834
+11793297,relation,Château de Hédé,ruins,Saint-Malo,,,,48.2960292,-1.8050964
+12891839,relation,,beach,Saint-Malo,,,,48.6204179,-2.030966
+13938792,relation,Musée Jacques Cartier,museum,Saint-Malo,,,,48.673985,-1.9660616

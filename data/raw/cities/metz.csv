@@ -1,44 +1,85 @@
 osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+252174133,node,Old dam wall,viewpoint,Metz,,,,-30.5957343,151.7997968
+325652246,node,Metz Gorge Lookout,viewpoint,Metz,,,,-30.5741024,151.885353
 409212405,node,T'Chiz,restaurant,Metz,,,https://tchiz.fr,49.1343457,6.1983834
 409212407,node,Waffle Addict,restaurant,Metz,,,,49.1344043,6.1986974
 409212408,node,Java,restaurant,Metz,,,https://www.superjava.fr,49.1343996,6.1989722
 409212411,node,Taksim,restaurant,Metz,,,,49.1346621,6.198182
+409212412,node,Pass Partoo,theme_park,Metz,,,https://www.passpartoo-metz.fr,49.134938,6.1981724
+430761763,node,Monument aux Morts,memorial,Metz,,,,49.1391527,6.2369775
 452285199,node,Le Romarin,restaurant,Metz,,,https://www.romarinmetz.fr,49.1111734,6.1790205
+669104052,node,Trésor de la Cathédrale,museum,Metz,,,http://cathedrale-metz.fr/,49.1206345,6.1756634
 669248165,node,Grand Hôtel de Metz,hotel,Metz,,,https://all.accor.com/ssr/app/mercure/rates/B6Z0/index.fr.shtml,49.11815,6.1745768
 669248170,node,Hôtel Bristol,hotel,Metz,,,https://www.bristol-metz.fr/,49.1088464,6.1742354
 669248174,node,Best Western Metz Centre Gare,hotel,Metz,,,https://www.bestwestern.fr/fr/hotel-Metz-Best-Western-Metz-Centre-Gare-93949,49.1091539,6.1747966
 669248713,node,Shalimar,restaurant,Metz,,,,49.1223164,6.1780202
+734224046,node,,memorial,Metz,,,,49.1140348,6.1782616
 807172601,node,Restaurant Avenue,restaurant,Metz,,,,49.2475108,6.1358482
+821886760,node,Monument du 1er Corps d'Armée allemand,memorial,Metz,,,,49.1283608,6.2771952
 893447308,node,Cafeteria Crescendo,restaurant,Metz,,,https://www.crescendo-restauration.fr/nos-restaurants/hauconcourt-94/,49.2145406,6.1697727
+1161245267,node,,artwork,Metz,,,,49.102906,6.157941
+1161355925,node,,artwork,Metz,,,,49.1030015,6.1581409
 1190806674,node,Chez Branko,restaurant,Metz,,,,49.1004024,6.1728228
+1246368070,node,Haut Saint-Pierre,viewpoint,Metz,,,,49.0558784,6.4425359
+1388552668,node,,viewpoint,Metz,,,,49.1184443,6.1858287
+1394675223,node,,viewpoint,Metz,,,,49.0908141,6.1918613
+1395320307,node,Tremblement de Ciel,artwork,Metz,,,,49.1040682,6.1846435
 1402835021,node,La Jeep,restaurant,Metz,,,,49.111012,6.178733
 1428148543,node,Enfin,restaurant,Metz,,,,49.1183646,6.1759597
+1446018801,node,,viewpoint,Metz,,,,49.1615945,6.1169946
 1457189213,node,Tezel,restaurant,Metz,,,,49.1087051,6.3917051
 1457189232,node,L'Auberge du Gros,restaurant,Metz,,,,49.1136844,6.351154
+1464999029,node,Calvaire,artwork,Metz,,,,49.1570078,6.1000758
+1468053868,node,,memorial,Metz,,,,49.0980379,6.1723756
+1490724995,node,,artwork,Metz,,,,49.1600642,6.1040538
+1492738245,node,Statue de Saint-Fiacre,memorial,Metz,,,,49.0974493,6.1780071
+1501432282,node,,memorial,Metz,,,,49.1050967,6.095795
+1516723109,node,La Belle Croix,viewpoint,Metz,,,,49.1238306,6.1896744
+1518120835,node,Mémorial Américain,memorial,Metz,,,,49.1247913,6.1879699
+1545703380,node,Statue de Saint-Louis,memorial,Metz,,,,49.1170644,6.1790201
+1551002943,node,Croix Sainte-Agathe,memorial,Metz,,,,49.0973718,6.169747
 1558498622,node,Hôtel la Citadelle,hotel,Metz,,,https://mgallery.accor.com/fr/hotels/9199.html,49.1140832,6.169553
+1597317741,node,Abbaye Saint-Arnould,attraction,Metz,,,,49.1180682,6.1716777
 1601730245,node,Taj Mahal,restaurant,Metz,,,https://tajmahalmetz.fr,49.1213657,6.1771417
 1606348959,node,Chez Moi,restaurant,Metz,,,https://www.chez-moi.fr/,49.1163155,6.1827624
 1606363216,node,OK Pizza,restaurant,Metz,,,,49.1167145,6.1846687
+1628130448,node,Château de Borny,attraction,Metz,,,,49.1098581,6.2257396
 1632497824,node,Les Amis de Saint-Louis,restaurant,Metz,,,http://www.lesamisdesaintlouis.fr/,49.1132168,6.1818245
+1638487961,node,Les Fontaines Dansantes,attraction,Metz,,,https://metz.fr/agenda/fiche-37502.php,49.1165029,6.1681636
 1641743611,node,L'Ère des Tulipes - Lale Devri,restaurant,Metz,,,,49.111236,6.2309605
 1734797316,node,Le Rond Point,restaurant,Metz,,,https://lerondpointmetz.fr/,49.1089439,6.1663301
 1738663991,node,Le FilaJoe,restaurant,Metz,,,,49.1588351,6.1057685
+1751702011,node,,viewpoint,Metz,,,,49.113652,6.1173321
+1846238243,node,,memorial,Metz,,,,49.1116316,6.1732717
 1879893112,node,Le Quai Des Saveurs,restaurant,Metz,"69 Rue de la Gare, 57300, Hagondange",57300,http://www.quaidessaveurs.com/,49.2534283,6.1646208
+1898071035,node,,viewpoint,Metz,,,,49.152144,6.1051212
+1906552449,node,,viewpoint,Metz,,,,49.1630601,6.1047919
+1906552450,node,,viewpoint,Metz,,,,49.1648575,6.0989765
+1906556237,node,,viewpoint,Metz,,,,49.1585237,6.1236383
 1952167767,node,56MaisonChapelle,restaurant,Metz,,,https://www.56maisonchapelle.fr,49.0996698,6.1732774
 1955580186,node,Beef & Co,restaurant,Metz,,,http://www.beefandco.com/fr,49.0952836,6.2206922
 2099763529,node,Délices Veggies,restaurant,Metz,"1 Place Jeanne d'Arc, 57000, Metz",57000,https://delices-veggies.com/,49.121226,6.1797711
+2108115403,node,Colonne de Merten,memorial,Metz,,,,49.1155606,6.1738398
 2108143480,node,Angelùzzo,restaurant,Metz,,,,49.1184489,6.1765042
 2108143487,node,La Taverne,restaurant,Metz,,,,49.1163965,6.1730481
 2108143488,node,Crêperie Le Saint-Malo,restaurant,Metz,,,https://www.creperie-metz.com/,49.1172344,6.1738944
 2108153943,node,Grim’ Café,restaurant,Metz,,,,49.1185059,6.1763606
+2108154151,node,Notre-Dame de Metz,memorial,Metz,,,,49.1185228,6.1759995
 2108156065,node,Les Moulins Bleus,restaurant,Metz,,,https://lesmoulinsbleus.com/,49.1190589,6.1755338
 2108970011,node,La Dolce Vita,restaurant,Metz,,,https://ladolcevita.site-solocal.com/,49.1168131,6.1779514
 2161105125,node,Kyou Sushi,restaurant,Metz,,,https://metz.kyousushi.com/,49.1192067,6.1710659
 2164605426,node,Italian Trattoria,restaurant,Metz,,,https://it-trattoria.fr/,49.1184535,6.1749106
 2164610686,node,Zich,restaurant,Metz,,,,49.119573,6.1778544
+2209952411,node,Calvaire,artwork,Metz,,,,49.1409864,6.122505
 2232018415,node,Les Trappistes Metz,restaurant,Metz,,,,49.1198574,6.1733219
+2293831324,node,,viewpoint,Metz,,,,49.1166589,6.1691414
+2293831325,node,,viewpoint,Metz,,,,49.1173541,6.1687269
+2347292671,node,Château Rexroth,castle,Metz,,,,49.1972082,6.3951718
 2365534330,node,Auberge de Vezon,restaurant,Metz,"58 Rue des Vignerons, 57420, marieulles vezon",57420,https://www.auberge-de-vezon.fr/,49.0066742,6.0944918
 2394130298,node,Hôtel ibis Metz Centre Cathédrale,hotel,Metz,,,http://www.accorhotels.com/,49.1240518,6.1790328
+2397792983,node,,memorial,Metz,,,,49.1738179,6.237427
+2405165519,node,Prinz-Friedrich-Karl-Gedenkstein,memorial,Metz,,,,49.0780446,5.9674158
+2434018565,node,Association Ascomemo,museum,Metz,,,http://ascomemo.chez.com/,49.2523756,6.1539849
 2459476946,node,La Forêt,restaurant,Metz,,,https://www.restaurant-laforet.com/,49.2422827,6.1362277
 2459476957,node,Le 7ème Art,restaurant,Metz,,,,49.2421567,6.1340658
 2496294154,node,Kurzé,restaurant,Metz,,,,49.1226085,6.1790734
@@ -46,24 +87,51 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2576820488,node,Asian House,restaurant,Metz,,,,49.1060452,6.2334633
 2624681931,node,Hôtel Campanile Metz Est,hotel,Metz,,,https://www.campanile.com/fr/hotels/campanile-metz-est-technopole,49.1061398,6.21846
 2624681936,node,Les Rives du Lac,restaurant,Metz,,,,49.1049228,6.219566
+2677612775,node,L'Atelier de Charles,gallery,Metz,,,,49.1069064,6.1083925
 2812802491,node,Au Petit Louis,restaurant,Metz,,,https://aupetitlouis.net,49.1099725,6.1669104
 2820486248,node,La Couscoussière,restaurant,Metz,,,http://www.restaurant-lacouscoussiere.fr,49.116458,6.1801536
 2864998472,node,L'Assiette au Bœuf,restaurant,Metz,,,https://www.assietteauboeuf.fr/,49.1198333,6.1703137
 2864998474,node,Hôtel du Théâtre,hotel,Metz,,,https://www.hoteldutheatre-metz.fr,49.1214975,6.1707297
 2865016099,node,La Vieille France,restaurant,Metz,,,,49.1207018,6.1736134
+2901424943,node,Buste de Verlaine,memorial,Metz,,,,49.1169582,6.1690414
+2901671008,node,,viewpoint,Metz,,,,49.119217,6.1804721
+2901957990,node,Le Cheval de Bronze,memorial,Metz,,,,49.1165296,6.17125
+2901958110,node,La Naïade,memorial,Metz,,,,49.1163303,6.171655
 2921918335,node,Flunch,restaurant,Metz,,,,49.1942603,6.1476917
+3039323326,node,Gorge Lookout,viewpoint,Metz,,,,-30.60197,151.8118146
+3039326572,node,The Penstock,viewpoint,Metz,,,,-30.6039299,151.809708
+3039338363,node,power station,ruins,Metz,,,,-30.603881,151.8123808
 3040931374,node,Hôtel Novotel Metz Centre,hotel,Metz,,,https://all.accor.com/hotel/0589/index.fr.shtml,49.1177389,6.1785527
+3048697653,node,Bataille de 1870,memorial,Metz,,,,49.0695744,5.9753803
+3048697654,node,,memorial,Metz,,,,49.0719923,5.9818927
+3048697655,node,,memorial,Metz,,,,49.0789888,5.9735617
+3048697659,node,,memorial,Metz,,,,49.0729693,5.980337
+3048697661,node,,memorial,Metz,,,,49.0955079,5.9732452
+3048697696,node,,memorial,Metz,,,,49.0955851,5.9743664
+3048697706,node,,memorial,Metz,,,,49.0756822,5.9709975
+3048697708,node,,memorial,Metz,,,,49.0756506,5.9740499
+3048697713,node,,memorial,Metz,,,,49.0725265,5.9773329
+3053183131,node,Château de Champion,ruins,Metz,,,,49.2107214,6.2713938
 3092321385,node,Chez Baptiste,restaurant,Metz,,,http://www.chez-baptiste.fr,49.1083134,6.1733134
 3105664252,node,L'italiano,restaurant,Metz,,,,49.0783014,6.1848093
 3140449151,node,La Popote,restaurant,Metz,,,https://www.lapopote-metz.com/,49.1057251,6.1687325
+3147654231,node,Memorial 1870,memorial,Metz,,,,49.0994913,5.9906501
+3149847713,node,Liberazione,artwork,Metz,,,,49.1079073,6.1846404
 3172254962,node,Ristorante Del Arte,restaurant,Metz,,,https://www.delarte.fr/store-finder/397001,49.1091063,6.2325597
+3210680053,node,Monument Allemand de la 21e régiment d'infanterie de Brandenbourg,monument,Metz,,,,49.0938905,5.9581398
+3210680054,node,Monument Français de la guerre de 1870,monument,Metz,,,,49.0927547,5.9409505
+3215416699,node,Monument Allemand de la guerre de 1870,memorial,Metz,,,,49.0921045,5.9375779
 3387041079,node,Fukushima,restaurant,Metz,11 Rue Pasteur,,https://fukushimapasteur.fr,49.1088659,6.1713162
 3481779094,node,B&B Hôtel,hotel,Metz,Rue du Patural,,https://www.hotel-bb.com/fr/hotel/metz-semecourt,49.1902629,6.1467492
+3491475166,node,,memorial,Metz,,,,49.1107613,6.4033169
+3492351095,node,,memorial,Metz,,,,49.1082539,6.4058283
 3492498499,node,Café de la Croix de Lorraine,restaurant,Metz,,,,49.1089663,6.4053328
 3506863642,node,Casa Ricci,restaurant,Metz,,,http://www.casaricci.fr/,49.1189997,6.1720355
 3670939037,node,Le Wengé Lounge,restaurant,Metz,,,,49.1160919,6.1785842
+3670939040,node,Galerie Octave Cowbell,gallery,Metz,,,https://www.octavecowbell.fr,49.1173374,6.1791163
 3711621056,node,Sushi Villa,restaurant,Metz,,,,49.1092429,6.2329761
 3743882172,node,OnaLaVie,restaurant,Metz,,,http://laviesaine.fr/restaurants/192/metz/,49.0746874,6.0967613
+3743882173,node,Les Jardins du Val de Moselle,garden,Metz,,,http://jardins-val-moselle.doomby.com/,49.1278325,6.1549945
 3801438213,node,Brasserie Baudelaire,restaurant,Metz,,,,49.1207175,6.158791
 3886529291,node,Le Pizzaiolo,restaurant,Metz,,,,49.1211283,6.1751654
 3887852638,node,Restaurant Moze,restaurant,Metz,,,https://mozerestaurant.fr,49.1136795,6.1787995
@@ -74,6 +142,8 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4022760888,node,Mama Mia Pizza,restaurant,Metz,,,https://www.pizza-mamamia.com,49.1037179,6.2122441
 4030062509,node,Le Relais de Solgne,restaurant,Metz,,,,48.9667078,6.2960818
 4060455166,node,Le Parvis,restaurant,Metz,,,,49.119345,6.1753617
+4062774210,node,,garden,Metz,,,,49.1348141,6.3073153
+4063845252,node,,monument,Metz,,,,49.108862,6.1989207
 4064068347,node,Le Saint-Pierre,restaurant,Metz,"77 Rue aux Arènes, 57000, Metz",57000,,49.1053598,6.1741834
 4085714830,node,Hôtel Escurial,hotel,Metz,,,http://www.hotel-metz-escurial.fr,49.1088184,6.1718337
 4091440160,node,Au Rocher du Lion,restaurant,Metz,"12 Rue du Neufbourg, 57000, Metz",57000,,49.1132931,6.1780727
@@ -105,11 +175,14 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4124840235,node,Terrubi,restaurant,Metz,,,,49.1157945,6.1811491
 4133680663,node,2'Moiselles,restaurant,Metz,,,https://www.2moiselles.net,49.116403,6.1833701
 4148104211,node,La Villa Brooklyn,restaurant,Metz,,,,49.101989,6.1676682
+4148935325,node,,viewpoint,Metz,,,,49.1320862,6.1360351
 4172264092,node,Öz Urfa,restaurant,Metz,,,,49.114939,6.236256
 4184449379,node,Gran Gusto,restaurant,Metz,,,,49.1002038,6.1798435
 4192260886,node,L'Auberge Fleurie,restaurant,Metz,,,,49.0401287,6.1944897
+4230376143,node,,monument,Metz,,,,49.0350841,6.0583407
 4239777577,node,Brasserie d'Alsace,restaurant,Metz,"64 Rue de la Gare, 57300, Hagondange",57300,,49.2527994,6.1646646
 4250209607,node,Ô Paradis Éthiopien,restaurant,Metz,,,http://www.restaurant-oparadisethiopien.com,49.1038337,6.1655722
+4259662705,node,Château,castle,Metz,,,,49.1442491,6.0063303
 4267501563,node,Balthazar,restaurant,Metz,43 Rue du Pont des Roches,,,49.1201734,6.1730195
 4267501564,node,L'Éveil,restaurant,Metz,,,,49.1202145,6.1731982
 4291075867,node,Le 17.45,restaurant,Metz,,,,49.1147981,6.1785542
@@ -133,11 +206,12 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4350282432,node,L’Établi de Papy Louis,restaurant,Metz,,,https://www.letablimetz.fr,49.1171345,6.1788565
 4351095749,node,Wok de la Gare,restaurant,Metz,,,,49.1111215,6.1772002
 4357991529,node,L'Antre Nous,restaurant,Metz,,,,49.2195947,6.2118746
+4371806550,node,,memorial,Metz,,,,49.1191206,6.1732415
 4373366844,node,Noodles & Company,restaurant,Metz,,,https://www.noodle-restaurant.com,49.1150325,6.175481
 4373366845,node,Toki,restaurant,Metz,,,https://toki57.fr,49.1149814,6.1756113
 4373366846,node,Villa Preziosa,restaurant,Metz,,,https://villa-preziosa.eatbu.com/?lang=fr,49.1149867,6.1756831
 4373366851,node,Les Copains d'Abord,restaurant,Metz,,,,49.1148958,6.1759169
-4374392188,node,L'Escale,restaurant,Metz,,,https://lescale57530.wixsite.com/my-site-1,49.0666086,6.3096492
+4374392188,node,Chez Coquette,restaurant,Metz,,,,49.0666086,6.3096492
 4375978698,node,L'Encas,restaurant,Metz,,,,49.20236,6.298976
 4378854660,node,Hôtel B and B,hotel,Metz,,,https://www.hotel-bb.com/fr/hotels/metz-est-technopole-pole-sante.htm,49.0851836,6.240318
 4382460689,node,Oishii Sushi,restaurant,Metz,,,https://oishii-sushi.vercel.app/,49.1171922,6.1738443
@@ -145,10 +219,26 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4403357143,node,Au Cul d'Poule,restaurant,Metz,,,,49.120575,6.1741601
 4407299775,node,Le Shalimar,restaurant,Metz,,,https://restaurant-shalimar.com,49.1205105,6.1694909
 4413911950,node,Les Jardins de Bellevue,restaurant,Metz,,,,49.1120667,6.2164412
+4426774580,node,221.5° ARC x 15,artwork,Metz,,,,49.113379,6.169477
 4426790222,node,O Petit Japon,restaurant,Metz,,,,49.1122888,6.1719346
+4450379457,node,,artwork,Metz,,,,49.1126703,6.169937
 4452362953,node,Le Ch'ti,restaurant,Metz,,,,49.1437619,6.1642278
+4456638461,node,Hôtel de Gournay-Burtaigne,attraction,Metz,,,,49.1158625,6.1819466
+4466008207,node,Mémorial à Jean Moulin,artwork,Metz,,,,49.109757,6.1772873
+4500849271,node,,memorial,Metz,,,,49.1444987,6.0071971
+4507793191,node,,monument,Metz,,,,49.21522,6.1577921
+4537003136,node,,monument,Metz,,,,49.1503331,6.1469378
+4541753787,node,,artwork,Metz,,,,49.1515295,6.1513383
+4553189475,node,,monument,Metz,,,,49.1508439,6.1623846
+4580502668,node,Félix Peupion,memorial,Metz,,,,49.1068616,6.1616831
 4582182153,node,Au Tweety's,restaurant,Metz,,,,49.1011123,6.1558891
+4582197880,node,,artwork,Metz,,,,49.1003882,6.1554343
 4660618849,node,Decani Grill,restaurant,Metz,,,,49.1342203,6.1697932
+4677927227,node,Château de Mardigny,castle,Metz,,,,48.9759242,6.0868137
+4677927231,node,Ancien palais abbatial,castle,Metz,,,,49.0538126,5.9967669
+4677927233,node,,castle,Metz,,,,49.0117367,6.2351021
+4677927236,node,Ancien château Lasalle,castle,Metz,,,,49.1238674,6.1483654
+4677927239,node,,castle,Metz,,,,49.0304527,6.386355
 4686173061,node,Darna,restaurant,Metz,,,,49.1178516,6.1831915
 4694073344,node,Wok Time,restaurant,Metz,,,,49.1192499,6.1712383
 4694074729,node,La Crêperie,restaurant,Metz,,,,49.118953,6.1716916
@@ -157,19 +247,32 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4694074736,node,Kyôdaï,restaurant,Metz,,,,49.1189522,6.1716276
 4694074737,node,Nomade,restaurant,Metz,,,,49.1189509,6.1715458
 4694074743,node,La Station,restaurant,Metz,,,,49.1192818,6.1715337
+4718526040,node,Modulab,gallery,Metz,,,https://modulab.fr,49.117103,6.1816562
+4736109414,node,Crapauduc,attraction,Metz,,,,49.1248085,6.1023223
+4736109415,node,Arboretum,attraction,Metz,,,,49.1255424,6.1156632
+4763029763,node,,memorial,Metz,,,,49.1261044,6.2275786
 4767775727,node,Lunch Box,restaurant,Metz,,,,49.1072679,6.1797076
+4781588393,node,,memorial,Metz,,,,49.1364761,6.2039613
+4797060526,node,,viewpoint,Metz,,,,49.0118048,6.0836892
 4802630831,node,Parmentel,restaurant,Metz,,,,49.1212591,6.1494064
+4804462673,node,,viewpoint,Metz,,,,48.9960567,6.062325
 4804796022,node,Mamma Mia,restaurant,Metz,,,,49.120499,6.1468683
 4811867163,node,Pizza Buffet,restaurant,Metz,,,https://www.pizzabuffet.fr,49.0739862,6.0969679
 4813805220,node,La Grange au Parc,restaurant,Metz,,,,49.0901338,6.2337205
 4813850674,node,Tommy’s Diner café,restaurant,Metz,,,https://www.tommys-cafe.com/tommys-diner-moulins-les-metz/,49.0814809,6.1019658
 4824047281,node,Pizzeria Parma,restaurant,Metz,,,,49.1240723,6.1495035
 4829171845,node,Bistro des Canailles,restaurant,Metz,,,https://www.bistrodescanailles.fr,49.1271974,6.1955715
+4829171846,node,,artwork,Metz,,,,49.1269903,6.1951504
 4839846636,node,Hôtel du Centre,hotel,Metz,,,https://sites.google.com/view/hotel-du-centre-hagondange/inicio,49.251961,6.167362
 4846735086,node,Le 83,restaurant,Metz,,,,49.0935193,6.1320414
+4874418620,node,Square du chemin des Dames,garden,Metz,,,,49.1171037,6.0873874
 4874482066,node,Fontanella,restaurant,Metz,,,https://fontanella.eatbu.com,49.1201819,6.0815267
 4881311601,node,Bouillon Batignolles,restaurant,Metz,,,,49.1160296,6.1732263
+4883589246,node,La cadole du gentilhomme,attraction,Metz,,,,49.1315345,6.1084978
+4888518367,node,Hôtel de la Bulette,attraction,Metz,,,,49.1200258,6.1789906
+4888518375,node,,attraction,Metz,,,,49.1135322,6.1780829
 4892969694,node,Nami,restaurant,Metz,,,,49.1115743,6.0947809
+4897488161,node,Maisons,attraction,Metz,,,,49.117184,6.1788706
 4900640237,node,Le Châlet de Vaux,restaurant,Metz,,,,49.0905272,6.0926244
 4908218251,node,Au Bon Bouillon,restaurant,Metz,,,,49.0931852,6.0805698
 4922489852,node,Pasta in Festa,restaurant,Metz,,,http://www.pasta-in-festa.com,49.0997072,6.1515845
@@ -181,6 +284,8 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4946348077,node,Pizzeria Luisa,restaurant,Metz,,,,49.114817,6.1822665
 4946348079,node,Timilìa,restaurant,Metz,,,https://www.ristorante-timilia.com,49.1149296,6.1828945
 4962230228,node,La Piazza,restaurant,Metz,,,,49.2419158,6.1769817
+5007586104,node,Le Gardien du seuil,artwork,Metz,,,,49.1136974,6.1699257
+5007586105,node,Le Carrosse,artwork,Metz,,,,49.1150909,6.1710924
 5009109471,node,Line Asie,restaurant,Metz,,,https://lineasie.fr,49.1185333,6.174725
 5016854269,node,Hôtel du Centre,hotel,Metz,,,http://hotelducentremetz.com/,49.1165184,6.1766793
 5016854270,node,Residence Odalys Metz Manufacture,hotel,Metz,,,https://www.odalys-vacances.com/location-ville/alsace/metz/metz-manufacture.html#,49.1246416,6.1714503
@@ -195,7 +300,11 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5044549748,node,Le BaB,restaurant,Metz,,,https://lebabmetz.eatbu.com,49.1163312,6.1786481
 5044549752,node,Serial Burger,restaurant,Metz,,,,49.1158899,6.1785576
 5044549753,node,Ogre,restaurant,Metz,,,https://www.ogre-metz.com/,49.1158491,6.1785479
+5057941484,node,Abraham Fabert,artwork,Metz,,,,49.1200546,6.176316
+5057941485,node,,artwork,Metz,,,,49.1194545,6.1756987
+5057941486,node,,artwork,Metz,,,,49.119534,6.1755509
 5062455494,node,Campanile Metz Centre Gare,hotel,Metz,,,https://www.campanile.com/fr/hotels/campanile-metz-centre-gare,49.1075315,6.1773017
+5063833098,node,Statue de Lafayette,artwork,Metz,,,,49.1175627,6.1697003
 5066768800,node,La Fleure de Ly,restaurant,Metz,5 Rue des Piques,,https://www.lafleuredely.fr,49.1211921,6.1756025
 5066768805,node,L'Assiette et le Verre,restaurant,Metz,,,,49.1204777,6.173902
 5066768806,node,Haryana,restaurant,Metz,,,https://www.restaurantharyana.com,49.1204356,6.1737954
@@ -203,7 +312,9 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5104075221,node,Brasserie Pompidou,restaurant,Metz,,,,49.1067865,6.1790586
 5111719889,node,Gojona,restaurant,Metz,,,,49.1160371,6.1833715
 5169748635,node,Le Saint-Marcel,restaurant,Metz,,,,49.1212431,6.1712654
+5179686181,node,Art Mazell,gallery,Metz,,,,49.1154411,6.1839174
 5179686185,node,Oisif,restaurant,Metz,,,,49.1193494,6.1777932
+5179686186,node,L'atelier Chimérique,gallery,Metz,,,,49.1193147,6.1777624
 5179686189,node,Les Pas Sages,restaurant,Metz,,,,49.1192423,6.1776598
 5179686190,node,Trattoria Arditi,restaurant,Metz,,,https://trattoria-arditi.eatbu.com/,49.1191174,6.1775403
 5275437352,node,Nigiri Bar,restaurant,Metz,,,,49.118563,6.1755556
@@ -211,10 +322,14 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5295737382,node,Takoyaki,restaurant,Metz,,,,49.1065234,6.176547
 5295789119,node,Le Siècle d'Or,restaurant,Metz,,,,49.0735524,6.0962178
 5297531117,node,Guarà,restaurant,Metz,,,,49.1158244,6.1805185
+5318461604,node,Vigy,attraction,Metz,"1 Rue de la Gare, 57640, Vigy",57640,,49.2039275,6.2913784
 5343346328,node,Le Soleil d'Or,restaurant,Metz,,,,49.0613061,6.1187531
+5343346333,node,,memorial,Metz,,,,49.0593802,6.1204362
 5343346335,node,Au Nid Gourmand,restaurant,Metz,,,,49.0593538,6.1214916
 5350168536,node,Steak & Pasta,restaurant,Metz,,,,49.0669039,6.1407244
+5366457900,node,,memorial,Metz,,,,49.0607107,6.1533791
 5407617716,node,Kefan Traiteur,restaurant,Metz,,,https://kefan-traiteur.business.site/,49.1057253,6.1821076
+5440524095,node,Square du Docteur Job,garden,Metz,,,,49.2517631,6.0928296
 5456852046,node,Au Bureau,restaurant,Metz,,,,49.1048112,6.1821725
 5457311759,node,Ayako Sushi,restaurant,Metz,,,https://ayakosushi.fr/restaurant-ayako-metz-muse,49.1057286,6.1818566
 5466761099,node,Buffalo Grill,restaurant,Metz,,,,49.191159,6.1463181
@@ -224,77 +339,208 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5467200319,node,Au Bureau,restaurant,Metz,,,,49.1918457,6.1452296
 5467201527,node,Wafu,restaurant,Metz,,,,49.187791,6.1438236
 5507928036,node,Le Flore,restaurant,Metz,,,,49.110684,6.1743311
+5617014242,node,,park,Metz,,,,49.0927197,6.1428687
+5695510205,node,,memorial,Metz,,,,49.0780607,6.0792066
 5781412577,node,La Patatine,restaurant,Metz,,,,49.0788096,6.1133413
 5800987854,node,Maranello,restaurant,Metz,,,,49.2265113,6.1564207
+5822086741,node,Monument aux Morts,memorial,Metz,,,,49.2592967,6.1430756
+5900506790,node,,castle,Metz,,,,49.1431954,6.2197862
+5904252909,node,Gustave Kahn,artwork,Metz,,,,49.1233848,6.1801506
+5957643611,node,,memorial,Metz,,,,49.0688594,6.0697031
+5970432594,node,,castle,Metz,,,,49.1664567,6.3652207
 5972231506,node,Samoussa Party,restaurant,Metz,,,http://www.samoussaparty.com,49.1053958,6.1736438
 5979390485,node,Médina Pizza,restaurant,Metz,,,,49.0996674,6.1618342
 5986233391,node,Moya,restaurant,Metz,,,,49.1051088,6.1735762
+5995379764,node,Parking Parc du Pâtis,attraction,Metz,,,,49.1594083,6.1353362
 6017779215,node,Mona,restaurant,Metz,,,,49.1119173,6.1724186
+6018268844,node,,viewpoint,Metz,,,,49.1305538,6.1187084
+6053410415,node,Statue de la Délivrance,memorial,Metz,,,,49.1144057,6.1435709
 6138945341,node,La Pietra,restaurant,Metz,,,https://www.restaurant-la-pietra.fr,49.0796309,6.1495062
 6181823049,node,Di Roma,restaurant,Metz,,,http://www.di-roma-metz.fr,49.1087883,6.1741109
+6216341358,node,,memorial,Metz,,,,49.1129832,6.1293284
+6223344535,node,,viewpoint,Metz,,,,49.0407937,6.0468267
+6326537758,node,"Monument Allemand de la brigade de cavalerie ""Bredow""",monument,Metz,,,,49.1072907,5.9870167
+6326537761,node,Monument Allemand de la 16e régiment de hussards,monument,Metz,,,,49.1079017,5.9851181
+6326537762,node,Monument Allemand de la régiment de hussards de Zieten,monument,Metz,,,,49.1080206,5.981808
+6326564346,node,,memorial,Metz,,,,49.114217,6.0295569
 6345363975,node,Piopa Lasagna-Caffé,restaurant,Metz,,,,49.107574,6.1806296
+6351169804,node,,memorial,Metz,,,,49.0783493,6.3160658
+6449478225,node,A nos morts,memorial,Metz,,,,48.9623793,6.1864816
+6466700841,node,Hannoversches Feldartillerie Regiment Nr 10,monument,Metz,,,,49.0928795,5.9408458
+6466703790,node,,monument,Metz,,,,49.0933113,5.937973
 6481626346,node,Queen Mamma,restaurant,Metz,,,,49.085243,6.2389638
 6502120527,node,Le Jardin Suspendu,restaurant,Metz,,,https://www.le-jardin-suspendu.fr/,49.1109343,6.1736928
 6502606016,node,La Fringale,hotel,Metz,,,,49.1946739,5.9991677
 6502606018,node,Au Petit Charolais,restaurant,Metz,,,,49.1988067,5.9958543
 6502606019,node,Cristal Restaurant Gril,restaurant,Metz,,,,49.199101,5.9970557
+6533417434,node,Pince à linge géante,artwork,Metz,,,,49.1035449,6.1571102
+6533417438,node,,artwork,Metz,,,,49.1031755,6.1579921
+6533417439,node,,artwork,Metz,,,,49.103059,6.1577383
 6533417441,node,Restaurant du Parc,restaurant,Metz,"73 Rue de Pont-à-Mousson, 57950, Montigny-lès-Metz",57950,,49.1035154,6.1580712
+6533417451,node,,artwork,Metz,,,,49.1029556,6.1573551
 6534083284,node,Pizza Hut,restaurant,Metz,,,,49.1029235,6.160444
+6536950441,node,,memorial,Metz,,,,49.16247,6.0344123
+6536995938,node,,memorial,Metz,,,,49.1624782,6.0353105
+6536995945,node,,memorial,Metz,,,,49.1649882,6.0332226
 6547808573,node,Arita,restaurant,Metz,,,,49.1145708,6.178409
+6567281466,node,La Bottega,gallery,Metz,,,,49.1192012,6.1774751
+6569726039,node,Vélorail de Vigy,attraction,Metz,,,https://www.alemftrain.fr/Velorail/,49.205078,6.291452
+6577029264,node,,viewpoint,Metz,,,,49.1331235,6.1406755
 6746796818,node,Mayakora,restaurant,Metz,,,,49.1428688,6.1640288
+6758820960,node,,memorial,Metz,,,,49.1964978,6.2009749
+6760390688,node,,viewpoint,Metz,,,,49.1894759,6.1935103
+6761062389,node,Guépard,attraction,Metz,,,,49.2468904,6.141057
+6761062394,node,Jaguar,attraction,Metz,,,,49.2468571,6.142142
+6761062396,node,Hippopotame,attraction,Metz,,,,49.246907,6.141753
+6761062410,node,Flamant rose,attraction,Metz,,,,49.2448488,6.1421701
+6761062475,node,Chèvre,attraction,Metz,,,,49.2456157,6.1405688
+6761062489,node,Pony Ranch,attraction,Metz,,,,49.2453653,6.1373046
+6796091085,node,,viewpoint,Metz,,,,49.1078063,6.1937409
+6796098185,node,Belvédère Temple Neuf - Cathédrale,viewpoint,Metz,,,,49.1197429,6.1703825
+6796104885,node,La Moselle - Pont Moyen,viewpoint,Metz,,,,49.1201841,6.1714217
+6796104887,node,Belvédère Temple Neuf,viewpoint,Metz,,,,49.121337,6.1747462
+6973686977,node,,artwork,Metz,,,,49.1207121,6.3590718
 7142207858,node,La Réserve,restaurant,Metz,,,,49.1140877,6.1695251
 7150874030,node,Cantine,restaurant,Metz,,,,49.0967379,6.2000354
 7234196408,node,La Storia,restaurant,Metz,,,,49.1166802,6.1767902
 7251588473,node,La Toscane,restaurant,Metz,,,,49.1165957,6.1767178
+7277549488,node,Buste du Roi Albert,artwork,Metz,,,,49.111553,6.1765404
+7278160803,node,Eugène Rolland Memorial,artwork,Metz,,,,49.1242231,6.1718071
 7308632772,node,Le Kashmir,restaurant,Metz,,,,49.0985488,6.1612157
 7308632773,node,Honey Coffee & Food,restaurant,Metz,,,https://honey-nancy.fr,49.1082793,6.1709209
 7419546525,node,La Table - Boire & Manger,restaurant,Metz,,,https://latable-metz.fr,49.1190578,6.1721988
 7419606452,node,Baan Kok Thaï,restaurant,Metz,,,https://baankokthai.fr,49.1190299,6.1713365
 7429930027,node,100 Patates,restaurant,Metz,,,https://100-patates.com/restaurants/moulins-les-metz/,49.081784,6.1025629
 7526721200,node,La Tuilerie,restaurant,Metz,,,https://la-tuilerie-restaurant.onataste.fr,49.0739658,6.0947115
+7533759671,node,Belvédère d'Alep,garden,Metz,,,,49.1181824,6.1674573
 7533759684,node,Terraza,restaurant,Metz,,,,49.1178594,6.1670717
+7558569206,node,,viewpoint,Metz,,,,49.0798057,6.2249799
+7627090487,node,Monument des Passeurs,memorial,Metz,,,,49.020875,6.0485141
+7627114265,node,Les convois de la souffrance,memorial,Metz,,,,49.0254498,6.052402
+7640015115,node,Saint-Christophe,memorial,Metz,,,,49.0968728,6.1424929
+7640268709,node,L'envol,artwork,Metz,,,,49.0929421,6.1300559
+7646041183,node,Le cerf aux abois,artwork,Metz,,,,49.1042915,6.1620853
 7701695588,node,Le Panoramic,restaurant,Metz,,,,49.1085989,6.2421642
 7705056732,node,Fratell's,restaurant,Metz,,,,49.1167146,6.1766498
 7705862759,node,Boire & Manger,restaurant,Metz,47 Avenue de Nancy,,,49.1069888,6.1646202
+7728088134,node,L'homme du 3e millenaire,artwork,Metz,,,,49.1014914,6.1542987
+7804324442,node,Arrosoir des jardins sous la fontaine,artwork,Metz,,,,49.1013048,6.1514466
+7834676685,node,Mémorial 33ème rgt fusiliers prussiens,memorial,Metz,,,,49.1160769,6.0556228
 7867808077,node,La Jonque d'Or,restaurant,Metz,,,,49.1182368,6.1779377
+7894037799,node,Monument Moussard,memorial,Metz,,,,49.0610784,6.0037718
+7900159101,node,Cridart,gallery,Metz,"1 Rue d'Enfer, 57000, Metz",57000,https://www.cridart.com/,49.118512,6.1786596
 7929395610,node,L'Atelier Papilles,restaurant,Metz,,,,49.0716935,6.091309
 7945794680,node,Le Gargantua Bistronomie,restaurant,Metz,,,,49.2412213,6.1337208
 7961286117,node,Vol 128,restaurant,Metz,,,,49.0803281,6.1242105
 7961286596,node,Buffet du Monde,restaurant,Metz,,,,49.0767766,6.1027383
 8119954374,node,Le Savoureux,restaurant,Metz,,,,49.1155701,6.2094027
+8174027803,node,Monument Allemand de la 35e régiment de fusiliers de Brandenbourg,monument,Metz,,,,49.0938496,5.9547274
+8174098887,node,Monument Allemand de Guillaume Ier de Prusse,monument,Metz,,,,49.116902,6.0201612
 8238959752,node,Domaine de la Grange,restaurant,Metz,,,,49.0782643,6.1530653
 8268335642,node,Le Clos des Chefs,restaurant,Metz,,,https://www.leclosdeschefs.fr/,49.0779657,6.145162
+8281425147,node,,memorial,Metz,,,,49.1280965,6.2259717
+8307439661,node,,memorial,Metz,,,,49.1278267,6.1246325
+8350188012,node,Vierge,memorial,Metz,,,,49.0731314,6.2175161
+8355266591,node,,memorial,Metz,,,,49.0744424,6.2226238
+8418362411,node,,memorial,Metz,,,,49.0126187,6.3962614
 8510707750,node,Bistro de Vincent,restaurant,Metz,,,,49.0747039,6.2233615
+8569157462,node,Statue du Général de Gaulle,artwork,Metz,,,,49.1099306,6.1765976
+8646688224,node,Parvis des Thermes,park,Metz,,,,49.242316,6.1348764
 8651520816,node,Auberge du Grand Pré,restaurant,Metz,,,https://www.ferme-aubergedugrandpre.fr/,48.9885534,6.0885915
+8668010590,node,Saut dans le vide,attraction,Metz,,,,49.0222232,6.1009001
+8668010591,node,Escalade,attraction,Metz,,,,49.0217484,6.100698
+8668010593,node,Méga Glisse,attraction,Metz,,,,49.0225208,6.0999649
+8668302510,node,Balade à Poney,attraction,Metz,,,,49.0216332,6.1003377
+8693886366,node,Archery Tag,attraction,Metz,,,,49.0227264,6.1007935
+8693886367,node,Zone de départ Paintball Adultes,attraction,Metz,,,,49.0213787,6.1026594
+8693886368,node,Crazy Kart,attraction,Metz,,,,49.0223188,6.1018769
+8693886369,node,Quad Kids,attraction,Metz,,,,49.0223679,6.1013136
+8693886370,node,Big Air Jump,attraction,Metz,,,,49.0221291,6.1010135
+8693886371,node,Laser Game,attraction,Metz,,,,49.0219226,6.1013606
+8693886375,node,Tir à l'arc,attraction,Metz,,,,49.0202347,6.0996044
+8693886376,node,Petit Robin,attraction,Metz,,,,49.0229434,6.1009295
+8693886377,node,Tir à l'arc,attraction,Metz,,,,49.023107,6.1011306
+8693886378,node,Parcours Pitchounes,attraction,Metz,,,,49.0183314,6.1007739
+8693886379,node,Parcours Famille,attraction,Metz,,,,49.0182646,6.1007497
+8693886380,node,Parcours Aventure,attraction,Metz,,,,49.0181485,6.1007605
+8693886381,node,Méga Tyrolienne,attraction,Metz,,,,49.0184159,6.0998807
+8693886382,node,Bumper Boat,attraction,Metz,,,,49.0208421,6.1010609
+8693886383,node,Parcours Sportif,attraction,Metz,,,,49.0183877,6.1011601
 8713073060,node,Au P'tit Comité,restaurant,Metz,,,,49.1121523,6.171655
 8744179299,node,Le Graoully,restaurant,Metz,,,,49.0516682,6.0070512
 8787393380,node,Aux Vieilles Casseroles,restaurant,Metz,,,,49.1079699,6.1704575
+9016672934,node,Pokey Paint,theme_park,Metz,,,,49.0238918,6.1030142
 9025051160,node,Il Ristorante,restaurant,Metz,,,https://www.ilristorante.fr/il-ristorante-metz-jouy-aux-arches/,49.076143,6.10084
 9043618311,node,Watami,restaurant,Metz,,,,49.1153946,6.1802487
 9045345899,node,F&A Lino,restaurant,Metz,,,,49.1303804,6.1982216
+9067798529,node,,artwork,Metz,,,,49.2531391,6.1658752
+9103826926,node,Château de Charleville-sous-Bois,castle,Metz,,,,49.1909259,6.4115954
+9139165715,node,Musée Walygator Parc,museum,Metz,,,,49.2261311,6.155963
 9187177624,node,Nouvelle Ère,restaurant,Metz,,,https://restaurant-nouvelleere.com,49.1056838,6.1646172
 9202644951,node,Da Luigi,restaurant,Metz,,,,49.114776,6.1786805
+9216763739,node,Mémorial Marie & Mathias,memorial,Metz,,,,49.1214922,6.1798222
 9216846151,node,Le Shalimar,restaurant,Metz,,,https://restaurant-shalimar-augny.fr,49.0742558,6.1026726
 9216846171,node,La Boca,restaurant,Metz,,,,49.0740016,6.1050751
+9227878498,node,CENTRE DE DOCUMENTATION + MUSEE « MOSELLE EN GUERRE 1939-45 » (ASCOMEMO),museum,Metz,,,http://ascomemo.chez.com,49.2453038,6.1651654
 9246999642,node,L'Ours Hardi,restaurant,Metz,,,,49.1191785,6.1733326
 9275621385,node,Manita Pizza,restaurant,Metz,,,,49.1087601,6.1717844
 9278780916,node,Chez les Filles,restaurant,Metz,,,,49.0799177,6.1870634
+9286625868,node,,memorial,Metz,,,,49.0782112,6.1840564
 9472279836,node,Aux Petits Oignons,restaurant,Metz,,,,49.0963841,6.1288986
 9535110049,node,Le Jardin,restaurant,Metz,,,https://www.lesrestaurantsnicolaspierre.com/le-jardin/,49.0795455,6.0986834
+9554762313,node,Général Mangin,artwork,Metz,,,,49.1103639,6.1744007
+9652840196,node,,memorial,Metz,,,,49.1092895,6.2263231
 9690118442,node,Petite Géorgie,restaurant,Metz,,,,49.1003014,6.1623358
+9698289984,node,,artwork,Metz,,,,49.0966619,6.13066
 9705861984,node,Le Relais du Languedoc,restaurant,Metz,,,,49.0925543,6.1304706
 9706958340,node,Old Wild West,restaurant,Metz,,,https://www.oldwildwest.fr/code/26681/metz-c-c-waves-actisud,49.0808569,6.1014859
 9706958341,node,Queen Mamma,restaurant,Metz,,,https://queen-mamma.com/,49.0809093,6.1013455
 9706979712,node,Bouillon Batignoles,restaurant,Metz,,,https://waves.bouillon-batignolles.com,49.0816173,6.1022091
 9722665058,node,Chez Pava,restaurant,Metz,,,,49.0997514,6.1622109
 9722726898,node,Original Grill Home,restaurant,Metz,,,,49.0986916,6.1613258
+9813720393,node,Monument allemand,monument,Metz,,,,49.1566016,6.0227695
+9881259353,node,Source Lumière,artwork,Metz,,,,49.2488869,6.1413593
+9881259363,node,Source Eau,artwork,Metz,,,,49.2468068,6.1366537
+9881259364,node,Source Énergie,artwork,Metz,,,,49.2449447,6.1324305
+9881259365,node,Source Flamme,artwork,Metz,,,,49.2427733,6.1275288
+9897015491,node,Waterjump,attraction,Metz,,,,49.0216452,6.1031501
+9897359649,node,Jardin d'exposition,garden,Metz,,,,49.0754027,6.3095002
+9897359650,node,La collection d'Agrumes,garden,Metz,,,,49.0752367,6.3090349
+9897359651,node,Le tunnel des Courges,garden,Metz,,,,49.0753131,6.3089839
+9897359652,node,Le potager d'un curieux,garden,Metz,,,,49.0749995,6.3085172
+9897359653,node,Le jardin de l'interdit,garden,Metz,,,,49.0753369,6.3085655
+9897359654,node,Le jardin des sens,garden,Metz,,,,49.0757418,6.3093071
+9897359660,node,Le jardin des Robinsons,garden,Metz,,,,49.0759729,6.308489
+9897359661,node,Le labyrinthe des formes fruitières,garden,Metz,,,,49.0758051,6.3076737
+9897359662,node,Le verger praire,garden,Metz,,,,49.0755363,6.3078815
+9897359663,node,Le jardin des herbes,garden,Metz,,,,49.0751954,6.3081176
+9897359664,node,Le jardin des petits fruits,garden,Metz,,,,49.0751225,6.307793
+9897359665,node,Le jardin des fleurs à croquer,garden,Metz,,,,49.075018,6.3074819
+9897359666,node,Le potager d'un Epicurien,garden,Metz,,,,49.075365,6.3074323
+9897359670,node,L'allée des cerisiers,garden,Metz,,,,49.0755711,6.3070401
+9897359671,node,Le clos des saveurs,garden,Metz,,,,49.0751708,6.3064574
+9897359672,node,Le jardin sur graviers,garden,Metz,,,,49.0751005,6.3085174
+9897359673,node,"Ohtehra, Voyagez en territoire amérindien",garden,Metz,,,,49.0748264,6.307702
+9897359674,node,"Te Putake, Voyagez en territoire Maori",garden,Metz,,,,49.074533,6.3079246
+9897359676,node,La clairière des nèfles,garden,Metz,,,,49.0744223,6.3072326
+9905743250,node,,artwork,Metz,,,,49.1166858,6.1756902
 9907818355,node,O'Mezza,restaurant,Metz,,,,49.1209582,6.1688239
+9922096312,node,,artwork,Metz,,,,49.0999641,6.1556848
 9937423617,node,Le Carré d'Ars,restaurant,Metz,"2 Rue d'Aigremont, 57130",57130,https://www.restaurant-arcus.fr/,49.0766255,6.0761404
+9984119585,node,,artwork,Metz,,,,49.0889467,6.1634285
+9986140060,node,,viewpoint,Metz,,,,49.0863633,6.1608574
+9992799346,node,,memorial,Metz,,,,49.0605793,6.1539678
+9992799360,node,Marianne,artwork,Metz,,,,49.060453,6.1537455
 9996998120,node,Le Marly Go,restaurant,Metz,,,https://lemarlygo.fr,49.0593431,6.1553911
 9999891321,node,Balkan Food,restaurant,Metz,,,,49.0871722,6.1519555
 9999891323,node,À l'Ancienne,restaurant,Metz,,,,49.0871432,6.1521466
 10000026257,node,Al forno di Cutri,restaurant,Metz,,,,49.0586179,6.1578155
+10019127395,node,L'Une et l'Autre,artwork,Metz,,,,49.1002516,6.1527801
 10033556105,node,Au Bureau,restaurant,Metz,,,,49.0764539,6.1012683
+10033998777,node,Tour d'Enfer,ruins,Metz,,,,49.1131817,6.1671716
+10052128819,node,,memorial,Metz,,,,49.1037773,6.2705631
+10052128874,node,,memorial,Metz,,,,49.1015343,6.2730841
+10068575614,node,Tchantchès,artwork,Metz,,,,49.1090352,6.1675626
 10082313147,node,Pocha,restaurant,Metz,,,https://pocha-restaurant.fr/fr,49.1183907,6.1768451
 10083470212,node,La Fabrique,restaurant,Metz,,,,49.1202095,6.1698592
 10083488857,node,L‘heure de la Pause,restaurant,Metz,,,,49.1210407,6.1740151
@@ -305,66 +551,200 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 10102989085,node,Taormina,restaurant,Metz,,,,49.1208797,6.148932
 10117201319,node,Spok,restaurant,Metz,7 Rue Édouard Belin,,https://restaurants.spok.fr/metz/,49.1041728,6.2226377
 10157773352,node,Le 11,restaurant,Metz,,,https://www.brasserie-le11.fr,49.1107429,6.1721358
+10160109247,node,,memorial,Metz,,,,49.1197604,6.1697703
+10160203207,node,,artwork,Metz,,,,49.107044,6.1717122
+10162359844,node,,memorial,Metz,,,,49.1060897,6.1678518
+10271138794,node,,viewpoint,Metz,,,,49.2296202,6.4074601
 10291408947,node,Basilic & Co,restaurant,Metz,,,https://basilic-and-co.com/restaurants/pizzeria-montigny-les-metz/,49.1035957,6.1618197
 10554129972,node,San Lorenzo,restaurant,Metz,,,,49.1167645,6.1768625
+10554438662,node,,memorial,Metz,,,,49.1194293,6.1710188
 10584618523,node,Le Bar des Halles,restaurant,Metz,,,https://bardeshalles.eatbu.com,49.1195016,6.1738435
+10680818614,node,Bassin de décantation,ruins,Metz,,,,49.068367,6.0681707
 10692468652,node,La Pagaille,restaurant,Metz,,,,49.1162574,6.1763771
+10693204753,node,Les Trois Grâces,artwork,Metz,,,,49.103194,6.1582044
+10717621754,node,,artwork,Metz,,,,49.1244736,6.1769832
+10737965407,node,Belvédère des Varieux,viewpoint,Metz,,,https://www.intramuros.org/ancy-dornot/decouvrir/5640,49.0628531,6.046088
 10743338766,node,Moody's Food,restaurant,Metz,,,,49.1110055,6.2310146
 10743364907,node,Pizzaroot,restaurant,Metz,,,,49.1109618,6.2310316
 10839926914,node,Angkor Wat,restaurant,Metz,,,https://awbbt.fr/fr,49.1238569,6.1729571
+10859731256,node,Au Pastel,gallery,Metz,,,,49.1191547,6.177587
+10859731972,node,Cridart,gallery,Metz,,,,49.1190591,6.1761194
 10859738406,node,Yummy's Makers,restaurant,Metz,,,,49.1190963,6.1760336
+10860300213,node,,artwork,Metz,,,,49.0584484,6.1568498
 10891918625,node,Chez ROSA,restaurant,Metz,"41A Rue de Verdun, 57160, Moulins-lès-Metz",57160,https://chezrosa.fr,49.1075948,6.1064993
 10891918960,node,Sakana Ramen,restaurant,Metz,,,http://sakanaramen.fr,49.1163449,6.1799606
 10895567552,node,B&B Hôtel,hotel,Metz,,,https://www.hotel-bb.com/fr/hotel/metz-jouy-aux-arches,49.0798578,6.0988591
+10902519552,node,,viewpoint,Metz,,,,48.9948625,6.0772648
 10965601529,node,La Basse-Cour,restaurant,Metz,,,,49.1198506,6.2419085
+10965815499,node,,memorial,Metz,,,,49.1275849,6.234137
 10989397212,node,L'Esplanade,restaurant,Metz,,,,49.1161735,6.1721447
+10995049524,node,,memorial,Metz,,,,49.1542023,6.2713795
+11015746420,node,Megama,artwork,Metz,,,,49.1148299,6.1761804
+11015746421,node,T2000,artwork,Metz,,,,49.1221955,6.1859798
+11015746422,node,La Sentinaile,artwork,Metz,,,,49.1149042,6.1701677
+11030094606,node,Parc de l'ancienne église,park,Metz,,,,49.0329418,6.0576777
+11046313113,node,,memorial,Metz,,,,49.2080663,6.2350731
+11057476237,node,,memorial,Metz,,,,49.16751,6.0444908
+11057476238,node,,memorial,Metz,,,,49.1672476,6.0441662
+11060622110,node,,memorial,Metz,,,,49.1095621,6.0301658
+11062093038,node,,memorial,Metz,,,,49.127474,6.1749651
+11086055568,node,,artwork,Metz,,,,49.1203681,6.1683453
 11100005856,node,Crêperie Ar Preti,restaurant,Metz,,,https://arpreti.com/2018/06/20/waves-augny/,49.0816222,6.1024759
+11108151944,node,Vieux cimetière Juif du XVII siècle,memorial,Metz,,,,49.1253334,6.1820491
 11113923033,node,Bistrot Régent,restaurant,Metz,,,https://www.wavesactisud.com/les-restaurants/504/bistro-regent,49.0819844,6.1032008
 11114663997,node,,restaurant,Metz,,,,49.2427088,6.2058758
+11114951663,node,,memorial,Metz,,,,49.2369898,6.173542
+11115816134,node,Galerie PJ,gallery,Metz,,,,49.1210003,6.17681
+11115821946,node,Le 29,gallery,Metz,,,,49.1219068,6.1778202
+11116050246,node,,artwork,Metz,,,,49.1227462,6.1709841
+11134845535,node,,artwork,Metz,,,,49.1252291,6.1736297
 11148324370,node,512 Restaurant,restaurant,Metz,,,http://www.au512.com/,49.1145659,6.1435917
+11211285648,node,,memorial,Metz,,,,49.029111,6.096474
+11296117760,node,L'éducation c'est la boussole de la vie,artwork,Metz,,,,49.1499794,6.1495942
+11332318309,node,Droit au but,artwork,Metz,,,,49.1217016,6.1844196
+11371510781,node,,artwork,Metz,,,,49.0999527,6.1757504
 11385801837,node,L'Auberge Du Lion D'Or,restaurant,Metz,"32 Rue Raymond Mondon, 57130, Ancy-sur-Moselle",57130,https://laubergeduliondor.eatbu.com/,49.0578759,6.0587239
+11462811521,node,Musée de la Tuile Paul Mangin,museum,Metz,,,,48.9382257,6.2994013
+11471880438,node,,memorial,Metz,,,,49.1176645,6.2646713
+11494271394,node,Prison Island,attraction,Metz,,,https://prisonisland-metz.com,49.0871447,6.1193207
+11500657518,node,,artwork,Metz,,,,49.1061125,6.1735514
+11500657528,node,,artwork,Metz,,,,49.1141264,6.1728746
 11506776957,node,Angelùzzo,restaurant,Metz,,,https://www.angeluzzo.fr,49.104289,6.1821778
+11511679999,node,,memorial,Metz,,,,49.1257888,6.17416
+11517061358,node,,artwork,Metz,,,,49.1097782,6.1867824
 11608926082,node,13 Or Restaurant,restaurant,Metz,,,,49.0853831,6.240221
 11613785150,node,Akoïa Restaurant,restaurant,Metz,1 Rue de l'Europe,,,49.2456315,6.1345473
+11653001821,node,,memorial,Metz,,,,49.1239949,6.1721465
+11727887316,node,,viewpoint,Metz,,,,48.9679597,6.0778803
 11805028475,node,La Cantoche,restaurant,Metz,,,https://www.lacantoche.org/,49.1225238,6.1875292
+11813554169,node,,viewpoint,Metz,,,,49.1204032,6.1116587
+11847907837,node,,memorial,Metz,,,,49.1260625,6.1737356
+11860708156,node,,memorial,Metz,,,,49.1229397,6.178474
+11861565024,node,,memorial,Metz,,,,49.1093745,6.1796511
 11861569051,node,Milano,restaurant,Metz,,,https://milano-muse.com,49.1071491,6.1812893
 11861658701,node,Ohpara,restaurant,Metz,,,,49.1178213,6.1846785
+11861756002,node,,viewpoint,Metz,,,,49.1173914,6.1856789
+11861767136,node,,viewpoint,Metz,,,,49.1245248,6.1859075
+11861767137,node,,viewpoint,Metz,,,,49.1256279,6.1855764
+11861767140,node,,viewpoint,Metz,,,,49.1205434,6.1859318
+11861767141,node,,viewpoint,Metz,,,,49.1211424,6.1862867
+11866726863,node,,artwork,Metz,,,,49.1148597,6.2196507
+11877137381,node,,gallery,Metz,,,,49.1050414,6.1733131
+11889298355,node,0.15 Essais Dynamiques,gallery,Metz,,,,49.1197502,6.1673391
+11889352747,node,,artwork,Metz,,,,49.121079,6.162875
+11889556338,node,,artwork,Metz,,,,49.1207387,6.16616
+11889556339,node,,artwork,Metz,,,,49.1200102,6.1611026
+11891751851,node,,memorial,Metz,,,,49.1265587,6.1623894
+11893661143,node,,memorial,Metz,,,,49.1215035,6.1746852
 11949461696,node,Référence,restaurant,Metz,,,http://référence57.com,49.1240636,6.1648617
+11964787605,node,,artwork,Metz,,,,49.1095746,6.170472
 11970670185,node,Umé,restaurant,Metz,,,https://www.centrepompidou-metz.fr/fr/preparer-ma-visite/restaurants,49.1079403,6.1819297
 11970670186,node,Yozora,restaurant,Metz,,,https://www.centrepompidou-metz.fr/fr/preparer-ma-visite/restaurants,49.1079174,6.1818223
 11974077365,node,What The Food,restaurant,Metz,4 Rue Gambetta,,https://wtfood-metz.fr,49.1109077,6.1737384
+12003614121,node,,artwork,Metz,,,,49.1340211,6.1765084
 12004079169,node,Chok Die Thai,restaurant,Metz,,,https://www.chok-die-thai.com,49.1159908,6.1822978
+12014657279,node,,artwork,Metz,,,,49.1138071,6.1781406
+12057953542,node,,artwork,Metz,,,,49.1055883,6.1818613
+12057968393,node,,artwork,Metz,,,,49.1084478,6.1811552
+12059924078,node,,artwork,Metz,,,,49.1128649,6.1845211
+12064353861,node,,artwork,Metz,,,,49.1063643,6.1090083
+12064488114,node,,memorial,Metz,,,,49.1117628,6.0940082
+12064493042,node,,memorial,Metz,,,,49.1075458,6.1061689
+12065289583,node,,memorial,Metz,,,,49.1206936,6.2776562
+12065844427,node,,memorial,Metz,,,,49.1188499,6.1441131
 12077967096,node,Nonna,restaurant,Metz,131 Voie de la Liberté,,,49.1100384,6.126897
 12077979577,node,Label' Pizz,restaurant,Metz,,,,49.1119108,6.1325591
 12078006791,node,Le Cooks,restaurant,Metz,,,,49.1089621,6.1249193
+12078083836,node,,memorial,Metz,,,,49.1080311,6.1188196
+12078292419,node,,memorial,Metz,,,,49.1169581,6.1416547
+12095925010,node,Archéosite Celte,museum,Metz,,,https://mairie-mondelange.fr/decouvrir/834,49.255701,6.1527563
+12102628823,node,,memorial,Metz,,,,49.0754481,6.1840675
 12102630220,node,,restaurant,Metz,,,,49.0776233,6.1837079
 12110080183,node,Feel Sushi,restaurant,Metz,,,,49.0832053,6.108075
 12110651002,node,La Belle Époque,restaurant,Metz,,,http://labelleepoque-metz.com/accueil.html,49.0957797,6.2201659
+12112846593,node,Trampoline,attraction,Metz,,,,49.0197125,6.1002264
+12135371801,node,,artwork,Metz,,,,49.223103,6.2334267
+12178289583,node,,artwork,Metz,,,,49.120644,6.1840593
 12247189244,node,Pizzeria Scampia,restaurant,Metz,,,,49.1335165,6.1529813
+12271872681,node,,memorial,Metz,,,,49.0439626,6.1592716
 12275927373,node,Poulaillon,restaurant,Metz,,,,49.1942403,6.1463609
+12276882938,node,,memorial,Metz,,,,49.05608,6.2453176
+12277319499,node,Mille Lieux,artwork,Metz,,,,49.0939574,6.1562931
 12319161279,node,Saveurs du Tibet,restaurant,Metz,,,,49.1182445,6.1804879
+12349545624,node,Le mémorial de la tête de pont de Dornot-Corny,memorial,Metz,,,,49.0462546,6.0625477
+12349559132,node,,memorial,Metz,,,,49.1137843,6.0299086
+12355475991,node,Maison de l'Éclusier,attraction,Metz,,,,49.1147626,6.1666332
+12362378676,node,,viewpoint,Metz,,,,49.1196603,6.171258
+12362378677,node,,memorial,Metz,,,,49.1193817,6.1706165
+12378536615,node,Nathan Chiche,gallery,Metz,"90 Rue Jean-Julien Barbé, 57070, Vantoux",57070,https://www.nathanchiche.com/,49.1304004,6.2326788
+12396181350,node,Gloriette de la Folie,attraction,Metz,,,,49.047152,6.0051567
 12413099930,node,Au Pays du Cèdre,restaurant,Metz,,,,49.0852557,6.239453
+12431634448,node,Portrait du Préfet Marcel Rebourset,artwork,Metz,,,,49.1190481,6.1689534
 12441793333,node,Le Bistrot Moderne,restaurant,Metz,,,,49.0662833,6.1399959
+12461098091,node,,artwork,Metz,,,,49.0801542,6.1245246
 12461107503,node,Domaine de la Résidence,hotel,Metz,,,https://www.domaineresidence.com/fr/hebergement-insolite-moselle,49.0803002,6.1243617
 12473406295,node,Restaurant Aime,restaurant,Metz,,,,49.0975199,6.1444562
 12547619965,node,L'Aérogare,restaurant,Metz,,,https://www.laerogare.fr,49.0999393,6.1853725
+12556486358,node,Maison Natale de Verlaine,museum,Metz,,,,49.1172179,6.1716753
+12571300979,node,,memorial,Metz,,,,49.119399,6.0460867
+12591213601,node,Parc Simon,park,Metz,,,,49.0607405,6.1234829
+12602093936,node,,artwork,Metz,,,,49.1900368,6.4113465
 12616254258,node,La Tour de Léandre,restaurant,Metz,,,https://tourdeleandre.fr,49.1469002,6.1618846
+12616926358,node,Les Perma'nautes,garden,Metz,,,,49.0960007,6.1296275
+12629055411,node,,memorial,Metz,,,,49.16621,6.1899301
 12631272333,node,L'Escale,restaurant,Metz,,,https://lescale-restaurant.eatbu.com/?lang=fr,49.1419892,6.1730323
+12641424967,node,,memorial,Metz,,,,49.0736691,6.3434657
+12643657259,node,,artwork,Metz,,,,49.1336866,6.1557831
+12643663048,node,,artwork,Metz,,,,49.1337261,6.1557398
 12644219260,node,Chez Aldo,restaurant,Metz,,,,49.0839836,6.0876599
 12661094471,node,La Baraka,restaurant,Metz,,,,49.1205304,6.1740913
 12666658165,node,Résidence Orfea Metz,hotel,Metz,,,,49.1063745,6.1742855
 12668971388,node,O'Grand Buffet,restaurant,Metz,,,,49.0780972,6.1113113
+12692607684,node,Portrait d’Amable Tastu,artwork,Metz,,,,49.1214401,6.1785072
+12707447430,node,Flickinger,gallery,Metz,,,,49.1215347,6.1772978
 12708215930,node,Restaurant Food Hall,restaurant,Metz,,,,49.0789383,6.105778
 12709379333,node,La Cuisine de Rose,restaurant,Metz,,,https://www.maisonhelermetz.com/fr/cuisine-de-rose.html,49.1041444,6.1815419
+12709999338,node,,memorial,Metz,,,,49.0934958,6.1566847
 12716978373,node,Naga,restaurant,Metz,,,,49.0770615,6.0962597
+12716978376,node,Les Acrobates,theme_park,Metz,,,https://lesacrobates.jimdofree.com/metz/,49.0804091,6.0990534
+12723731958,node,,memorial,Metz,,,,49.1188913,6.1740756
 12748186452,node,Le Marcelino,restaurant,Metz,33 Rue Saint-Marcel,,,49.1217758,6.1708499
+12750024116,node,,memorial,Metz,,,,49.1061632,6.1684664
+12788431598,node,,memorial,Metz,,,,49.1092188,6.2833326
+12812293298,node,Maison Villeroy et Boch,attraction,Metz,,,,49.1049844,6.1656634
+12820295155,node,Monument aux Morts de Retonfey,memorial,Metz,,,,49.13496,6.3047801
+12825867822,node,,viewpoint,Metz,,,,49.1152938,6.1628172
+12828090901,node,,viewpoint,Metz,,,,49.0466345,6.0052462
+12834618681,node,,memorial,Metz,,,,49.1149543,6.1712926
+12842616481,node,Château de Montoy,castle,Metz,,,,49.1201216,6.2775141
 12860204372,node,Miki Sushi,restaurant,Metz,,,https://www.mikisushi57.fr,49.1106294,6.1882163
+12889149935,node,,memorial,Metz,,,,49.1175706,6.1764671
+12920753630,node,,artwork,Metz,,,,49.1244286,6.1754607
 12945352940,node,Eden Hôtel Woippy Metz-Nord,restaurant,Metz,,,,49.1525439,6.1582917
 12961957814,node,Chez Pierre,restaurant,Metz,,,https://restaurant-chezpierre.com/,49.1133699,6.112376
 12966578728,node,Grandbar,restaurant,Metz,,,,49.1793187,6.0541296
 12976250828,node,Houps !,restaurant,Metz,,,,49.1172425,6.17888
+13002772915,node,Monument aux morts,memorial,Metz,,,,49.094211,6.0796301
+13012023457,node,Stéphanie Hoffnung,memorial,Metz,,,,49.1044063,6.1660179
+13012023458,node,Marthe Hoffnung,memorial,Metz,,,,49.1044023,6.1660144
+13012023459,node,Élie Bloch,memorial,Metz,,,,49.1076395,6.1716253
+13012023460,node,Georgette Bloch née Samuel,memorial,Metz,,,,49.1076368,6.1716259
+13012023461,node,Myriam Bloch,memorial,Metz,,,,49.1076342,6.1716265
+13013647744,node,Achille Alexandre,memorial,Metz,,,,49.1014299,6.1565206
+13013647745,node,Claude Alexandre,memorial,Metz,,,,49.1014294,6.156519
+13017756281,node,,memorial,Metz,,,,49.1073817,6.1623877
+13017756282,node,Georgette Bernard,memorial,Metz,,,,49.0976788,6.1560133
+13017756283,node,Lucienne Bernard,memorial,Metz,,,,49.0976778,6.1560116
+13017756284,node,Denise Bernard,memorial,Metz,,,,49.0976768,6.1560098
+13020848563,node,Charles Delestraint,memorial,Metz,,,,49.1058573,6.1603573
+13020848564,node,Paul Simminger,memorial,Metz,,,,49.1011014,6.156446
+13020848565,node,Marcel Ney,memorial,Metz,,,,49.0937211,6.1625159
 13042469091,node,En Faim,restaurant,Metz,,,https://enfaimamneville.wixsite.com/restaurant,49.2603879,6.1429093
+13052336969,node,,artwork,Metz,,,,49.141774,6.3777068
 13056562572,node,Brass'Burger,restaurant,Metz,,,https://brassburger-restaurant-remilly.eatbu.com,49.0116137,6.395933
+13065197353,node,,artwork,Metz,,,,49.1136151,6.1768421
+13092038300,node,,memorial,Metz,,,,49.1173888,6.1716505
+13092050525,node,,memorial,Metz,,,,49.1138347,6.1766529
 13092062786,node,Casa Presto,restaurant,Metz,,,,49.1007166,6.1751417
 13104195347,node,Délia,restaurant,Metz,,,,49.1513564,6.1579431
 13107720364,node,AS Restaurant,restaurant,Metz,,,,49.1353691,6.2028517
@@ -372,40 +752,703 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 13112686981,node,Buffalo Grill,restaurant,Metz,,,https://www.buffalo-grill.fr/nos-restaurants/metz-jouy-aux-arches,49.0791914,6.1027226
 13119603179,node,Coq N' Roll,hotel,Metz,,,,49.1245377,6.1648828
 13131426832,node,À la Table 66,restaurant,Metz,,,,49.0675235,6.2454752
+13131452546,node,,monument,Metz,,,,49.1499627,6.1472802
+13131452547,node,,memorial,Metz,,,,49.1502382,6.1469879
 13134009921,node,Ūmmi,restaurant,Metz,,,,49.1489312,6.1595856
 13134952808,node,Les Rives,restaurant,Metz,,,,49.1181783,6.1485432
 13136748809,node,NC Restaurant - Meydan,restaurant,Metz,,,,49.1460132,6.161581
+13142798959,node,,artwork,Metz,,,,49.0842497,6.3525264
+13142798960,node,,artwork,Metz,,,,49.0839949,6.352704
+13142798961,node,,artwork,Metz,,,,49.0834103,6.3548704
+13142798963,node,Le vieux Moulin,ruins,Metz,,,,49.0654381,6.3160853
+13168136509,node,,artwork,Metz,,,,49.1313381,6.1513663
 13180765065,node,Dubble,restaurant,Metz,,,https://www.dubble-food.com/restaurants/metz-technopole,49.1065508,6.2339783
 13237124669,node,H2O,restaurant,Metz,,,,49.0872833,6.1192538
 13247805355,node,Café-restaurant de la Gare,restaurant,Metz,,,https://cafe-de-la-gare-metz.gaqo.net/,49.1377362,6.1680991
 13248324349,node,Le Green View,restaurant,Metz,,,https://www.restaurantlegreenview.fr/,49.1001257,6.2253599
+13248770421,node,,memorial,Metz,,,,48.9662186,6.2959928
 13258121773,node,Chez Mistinguette,restaurant,Metz,,,,49.0873618,6.1191547
 13289254281,node,,restaurant,Metz,,,,49.2490313,6.1279292
 13293337963,node,Le Ch'ti,hotel,Metz,,,,49.1437966,6.1643245
 13325225758,node,Big Chef,restaurant,Metz,,,,49.1145948,6.2477458
 13325237304,node,Snack Dylla,restaurant,Metz,,,,49.1140294,6.2477482
+13331531401,node,,artwork,Metz,,,,49.1200072,6.1839119
 13340267145,node,Chez Ange,restaurant,Metz,,,,49.1181669,6.1796298
 13341353591,node,Bella Napoli,restaurant,Metz,,,,49.1341306,6.1697841
+13343313355,node,,memorial,Metz,,,,49.1221673,6.1524701
+13343313356,node,,memorial,Metz,,,,49.1027232,6.0767021
+13343313357,node,,memorial,Metz,,,,49.1073728,6.0676188
+13343313358,node,,memorial,Metz,,,,49.1101883,6.0575407
+13343313359,node,,memorial,Metz,,,,49.1176415,6.0516288
+13343313360,node,,memorial,Metz,,,,49.1177282,6.0384531
+13343313361,node,,memorial,Metz,,,,49.1128386,6.0279446
+13343313362,node,,memorial,Metz,,,,49.108303,6.0153871
+13343313363,node,,memorial,Metz,,,,49.1033952,6.0039053
+13343313364,node,,memorial,Metz,,,,49.0986297,5.992413
+13343313365,node,,memorial,Metz,,,,49.096473,5.9793205
+13343313366,node,,memorial,Metz,,,,49.0950671,5.9658196
+13343313367,node,,memorial,Metz,,,,49.0937841,5.9522919
+13343313368,node,,memorial,Metz,,,,49.0931729,5.9386964
 13364384111,node,Restaurant d'application du lycée Raymond Mondon,restaurant,Metz,,,,49.1057805,6.2128964
 13364384112,node,Restaurant pédagogique du lycée Raymond Mondon,restaurant,Metz,,,,49.1053857,6.2127195
 13364384113,node,Restaurant brasserie du lycée Raymond Mondon,restaurant,Metz,,,,49.1050232,6.2126054
+13364384114,node,Buste de Raymond Mondon,artwork,Metz,,,,49.1058657,6.2123303
+13364384115,node,,artwork,Metz,,,,49.106165,6.2122733
 13370776583,node,Manna Pizzeria,restaurant,Metz,,,,49.1159127,6.1825572
+13384233168,node,,artwork,Metz,,,,48.98697,6.1616964
+13384233169,node,,monument,Metz,,,,48.9870821,6.1616677
 13392043461,node,L'Escale,hotel,Metz,,,,49.142062,6.1731076
+13397102568,node,,memorial,Metz,,,,49.0001935,6.0847966
+13397145308,node,Falaises,attraction,Metz,,,,48.9950077,6.0774273
+13426498173,node,,artwork,Metz,,,,49.2201139,6.0559481
+13426498174,node,Monument aux Morts,memorial,Metz,,,,49.2204623,6.0562127
+13426498185,node,,artwork,Metz,,,,49.2193919,6.0610516
+13456300703,node,Monument dédié aux victimes russes de la Seconde Guerre mondiale,memorial,Metz,,,https://www.hagondange.fr/fr/Itineraire-2/POINT-6-Cimetiere-025.html,49.2465122,6.1689969
+13456300704,node,Monument dédié aux victimes civiles de la guerre 1939-45,memorial,Metz,,,https://www.hagondange.fr/fr/Itineraire-2/POINT-6-Cimetiere-025.html,49.2469893,6.1687897
+13456300745,node,La Cicatrice,memorial,Metz,,,https://www.hagondange.fr/fr/Itineraire-2/POINT-6-Cimetiere-025.html,49.2474137,6.1686278
+13461968336,node,,artwork,Metz,,,,49.14352,6.166761
+13461968362,node,,memorial,Metz,,,,49.1331367,6.1698639
+13476611963,node,Le sorcier aux serpents,artwork,Metz,,,,49.2218606,6.0592297
 13500847971,node,Chez Salva,restaurant,Metz,,,,49.2287268,6.1111215
+13504517295,node,Monuments aux Morts,memorial,Metz,,,,49.225975,6.1006809
+13519412499,node,Cimetière militaire,memorial,Metz,,,,49.2022124,6.0411628
+13521584848,node,,memorial,Metz,,,,49.1999852,6.0364484
+13524357115,node,Carré militaire 1870-1871,memorial,Metz,,,,49.1892533,6.0355077
+13524570391,node,Monument commémoratif 1870-1871,memorial,Metz,,,,49.1856516,6.0311902
+13524646425,node,"Monument commémoratif 1870-1871, 3. Garde Regiment Zu Fuss",memorial,Metz,,,,49.1869771,6.0323623
+13524646426,node,"Monument commémoratif 1870-1871, 1. Garde Regiment Zu Fuss",memorial,Metz,,,,49.1870645,6.0322625
 13555341451,node,Pasta e Vita,restaurant,Metz,28 Rue Raymond Mondon,,https://pastaevita.fr/,49.2013021,6.0383745
 13581977416,node,Aux 3 capitaines,restaurant,Metz,,,https://www.aux-trois-capitaines.com/,49.1748788,6.2123169
+13593066176,node,,monument,Metz,,,,49.0665975,6.308416
 13596532035,node,Le Tassili,restaurant,Metz,4 Rue Henry de Ladonchamps,,,49.1521139,6.1479101
+13603917374,node,Angie d'Art,gallery,Metz,,,,49.1191191,6.1759778
 13607526469,node,Émotions,restaurant,Metz,50 Rue du Général de Gaulle,,,49.130024,6.1254005
 13623856209,node,Charlie’s Corner,restaurant,Metz,,,,49.1239607,6.1790322
+13624596483,node,,artwork,Metz,,,,49.0906768,6.1543242
 13624606069,node,Izmir Palace,restaurant,Metz,,,,49.0838172,6.1492472
+13624685493,node,,artwork,Metz,,,,49.0619151,6.1516439
 13624784595,node,Kokomi,restaurant,Metz,,,https://kokomi-feves.fr,49.1866576,6.150075
+13634585855,node,,artwork,Metz,,,,49.1286683,6.1682029
+13634609189,node,,memorial,Metz,,,,49.1211691,6.1751263
 13675758518,node,Restaurant de l'Esat,restaurant,Metz,,,,49.0800967,6.1445864
+13686137543,node,,memorial,Metz,,,,48.9669215,6.1491801
 13687966191,node,Nonna,restaurant,Metz,,,,49.1071586,6.1708933
+13706251481,node,,memorial,Metz,,,,49.2337996,6.0780547
 13713834627,node,La Poêlée,restaurant,Metz,,,,49.0683013,6.1428114
+13797010905,node,Hélène David,memorial,Metz,,,,48.9600665,6.3773917
+13797010906,node,Julien David,memorial,Metz,,,,48.9600658,6.3773905
+13797010907,node,Camille David née Bénédict,memorial,Metz,,,,48.960065,6.3773916
+13797010908,node,David David,memorial,Metz,,,,48.9600657,6.3773928
+13798809645,node,Henri Gerstenhaben,memorial,Metz,,,,49.1085407,6.169821
+13798809646,node,Léon Bleitrach,memorial,Metz,,,,49.1083201,6.1709254
+13798809647,node,Simone Claire Gerstenhaben,memorial,Metz,,,,49.1066845,6.1708601
+13798809648,node,Jeanne Gerstenhaben née Weil,memorial,Metz,,,,49.1066839,6.170859
+13798809649,node,Othon Gerstenhaben,memorial,Metz,,,,49.106685,6.1708613
+13817511053,node,Belvédère Tour de Drince,viewpoint,Metz,,,,49.2373538,6.0923313
+13817511054,node,La grotte de la Fliegen Maus,attraction,Metz,,,,49.2337988,6.0781054
+13817511056,node,La descente de la renarde,attraction,Metz,,,,49.2339779,6.0782829
 13893869212,node,Auberge Lorraine,restaurant,Metz,1 rue de Metz,,,49.24238,6.2063953
 13907986141,node,Le Gloria,restaurant,Metz,,,,49.1250853,6.2023495
+13913015883,node,,artwork,Metz,,,,49.0945556,6.1549879
+13913083598,node,,artwork,Metz,,,,49.1193375,6.1799946
+13920675630,node,Gardienne du Feu,artwork,Metz,,,,49.1220439,6.17925
+13920698210,node,Çay and Simit,artwork,Metz,,,,49.1153666,6.1823504
+13927999989,node,,viewpoint,Metz,,,,49.1198722,6.1809237
+13927999990,node,,viewpoint,Metz,,,,49.1196024,6.1807636
 13935732104,node,Restaurant Anatolia,restaurant,Metz,,,,49.2092599,6.1603334
+13954209641,node,,memorial,Metz,,,,49.0541341,5.9986126
 13955933336,node,,restaurant,Metz,,,,49.1533416,6.1442195
 13961057151,node,Restaurant de l'Amitié,restaurant,Metz,,,,49.1300342,6.2768358
+13962687885,node,,memorial,Metz,,,,49.0773803,6.0781934
+13962711195,node,,memorial,Metz,,,,49.0775825,6.0788841
+13962761510,node,,memorial,Metz,,,,49.0257283,6.0473368
+13962763113,node,,memorial,Metz,,,,49.0565689,6.0584205
+13966708836,node,,artwork,Metz,,,,49.1125209,6.1690822
 13968637385,node,Hopesun,restaurant,Metz,,,,49.1103724,6.172138
 13991960701,node,Di Clara,restaurant,Metz,"3 Rue Dupont des Loges, 57000",57000,,49.1170537,6.1769835
+13993298712,node,Vierge du Moulin,artwork,Metz,,,,49.123018,6.1764525
+34108887,way,Square du Luxembourg,park,Metz,,,,49.1223537,6.1687106
+34112627,way,Porte Serpenoise,attraction,Metz,,,,49.1125704,6.1710235
+34112628,way,,memorial,Metz,,,,49.1121594,6.1703319
+34112633,way,Magasin aux Vivres,attraction,Metz,5,,,49.1141255,6.1695906
+34681131,way,Ancien Château d'Eau de la Gare,attraction,Metz,,,,49.11086,6.1792782
+34681134,way,Place Saint-Thiébault,park,Metz,,,,49.1124793,6.177797
+34681146,way,Square Camoufle,park,Metz,,,,49.1120474,6.1735775
+34681147,way,Tour Camoufle,attraction,Metz,,,,49.1119355,6.1735087
+35214195,way,Porte des Allemands,castle,Metz,,,,49.1178795,6.185568
+35317387,way,Caserne Steinmetz,attraction,Metz,,,,49.1216242,6.1877213
+35547299,way,Restaurant universitaire Paul Verlaine,restaurant,Metz,,,https://www.crous-lorraine.fr/restaurant/resto-u-verlaine/,49.1188168,6.1644102
+37076378,way,Square Joséphine Guy,park,Metz,,,,49.0717257,6.1925755
+37243573,way,Château de Mercy,castle,Metz,,,,49.0844178,6.2439311
+37417826,way,Parc du Bois Joli,park,Metz,,,,49.0589902,6.1676452
+37886263,way,Parc Municipal,park,Metz,,,,49.0764818,6.073143
+47298259,way,Poste de la Gare,attraction,Metz,,,,49.1083838,6.1743913
+47298297,way,Hôtel Cecil Metz Gare,hotel,Metz,"14 Rue Pasteur, 57000",57000,https://cecilhotel-metz.fr/,49.1092224,6.1725079
+48874567,way,,garden,Metz,,,,49.1129416,6.1723162
+49807098,way,Maison des Têtes,attraction,Metz,,,,49.1181395,6.1780722
+58602253,way,Jardin Jean-Baptiste Keune,park,Metz,,,,49.1087546,6.1809615
+58815286,way,Hôtel de Gournay,attraction,Metz,,,,49.1155659,6.177771
+59294933,way,Mercure Metz Centre,hotel,Metz,29,,,49.1128987,6.1767886
+62413482,way,Hôtel de Malte,attraction,Metz,9,,,49.1185599,6.1791048
+62456489,way,Jardin des Tanneurs,park,Metz,,,,49.1197084,6.1811211
+62490116,way,Cloître des Récollets,attraction,Metz,,,,49.1194862,6.180221
+62490137,way,Chapelle Saint-Genest,attraction,Metz,2,,,49.1185916,6.1784124
+62948918,way,Papy Disco,restaurant,Metz,,,,49.1159228,6.1690561
+63234063,way,Musée de la Cour d'Or,museum,Metz,"2 Rue du Haut-Poirier, 57000, Metz",57000,http://musee.eurometropolemetz.eu/,49.1213393,6.1786369
+63234116,way,Grenier de Chèvremont,attraction,Metz,,,,49.121665,6.1785419
+63256340,way,FRAC Lorraine,museum,Metz,1 bis Rue des Trinitaires,,https://www.fraclorraine.org/,49.1207067,6.1794934
+64776465,way,Grange des Antonistes,attraction,Metz,7,,,49.121177,6.175813
+65395785,way,,ruins,Metz,,,,49.1211976,6.1852579
+65412273,way,Tour des Tailleurs,ruins,Metz,,,,49.1241734,6.1857035
+65413845,way,Tour au Diable,ruins,Metz,,,,49.1256497,6.1850583
+65475034,way,Tour des Tisserands,ruins,Metz,,,,49.1247653,6.1821651
+65475037,way,,ruins,Metz,,,,49.1250871,6.1851898
+65475042,way,,ruins,Metz,,,,49.1251295,6.1834785
+65475045,way,Tour de la Cité,ruins,Metz,,,,49.1223318,6.1858237
+65475054,way,Tour des Chevriers,ruins,Metz,,,,49.125133,6.1829429
+65475056,way,Tour de la Cité,ruins,Metz,,,,49.1216984,6.1855
+65475059,way,,ruins,Metz,,,,49.1242453,6.1856062
+65475064,way,Tour de la Cité,ruins,Metz,,,,49.1220199,6.1856411
+65475067,way,,ruins,Metz,,,,49.1219263,6.185575
+65475069,way,Tour des Wercolliers,ruins,Metz,,,,49.1254948,6.1841595
+65475074,way,Tour des Massons,ruins,Metz,,,,49.1246206,6.1853447
+65475078,way,Tour des Maréchaux,ruins,Metz,,,,49.125301,6.1851502
+65475081,way,Tour des Coustelliers,ruins,Metz,,,,49.1255798,6.1845918
+65475083,way,Tour des Chauldronniers,ruins,Metz,,,,49.1249515,6.1851823
+65475085,way,Porte de la Madeleine,ruins,Metz,,,,49.1245485,6.1853586
+66767768,way,Buffalo Grill,restaurant,Metz,,,,49.2465205,6.1350342
+68995901,way,Ibis Styles Metz Centre,hotel,Metz,22,,,49.1163501,6.1811818
+74760997,way,Walygator Grand Est,theme_park,Metz,"57280, Maizières-lès-Metz",57280,https://www.walygatorparc.com/grandest/,49.2280336,6.1565119
+91327700,way,,park,Metz,,,,49.0584367,6.058337
+91393601,way,,park,Metz,,,,49.0608454,6.058644
+99075764,way,Lavoir,ruins,Metz,,,,49.1484665,6.147224
+99075926,way,,ruins,Metz,,,,49.1804355,6.1682271
+99076047,way,Ibis Metz-Woippy,hotel,Metz,"56 Rue du Fort Gambetta, 57140, Woippy",57140,,49.1507675,6.177701
+99076082,way,Eden Hôtel Woippy Metz-Nord,hotel,Metz,1,,https://hoteleden-metz.com/,49.152493,6.158289
+99077518,way,,ruins,Metz,,,,49.1805436,6.168415
+99083591,way,,ruins,Metz,,,,49.177233,6.1757992
+99085906,way,Kyriad Direct Metz Nord,hotel,Metz,,,https://direct-metz-nord-woippy.kyriad.com/,49.1507345,6.1765795
+99344747,way,Bistrot Sous la Vigne,restaurant,Metz,43 Grand'Rue,,https://sous-la-vigne.eatbu.com,49.1426805,6.1218585
+100472899,way,,castle,Metz,,,,49.090009,6.1759195
+100472931,way,Pierrot Poulet bicyclette,restaurant,Metz,1 Allée Marguerite,,,49.08975,6.1608205
+100477010,way,,castle,Metz,,,,49.0890565,6.174992
+100479595,way,Château de Courcelles,attraction,Metz,73,,,49.102978,6.158018
+103031408,way,Gare de Vallières-Vantoux,attraction,Metz,47,,,49.1242632,6.2307779
+103135261,way,Chapelle Sainte-Chrétienne,ruins,Metz,116,,,49.0972245,6.172683
+103137343,way,Ancien Hôpital Notre-Dame-de-Bon-Secours,attraction,Metz,57,,,49.124658,6.1803745
+103138981,way,Église Saint-Livier,attraction,Metz,,,,49.1241055,6.177702
+103139227,way,Manoir Amos,attraction,Metz,29,,,49.101481,6.166436
+103140128,way,,ruins,Metz,6,,,49.0966265,6.1824465
+103142065,way,Tour du Temple de Garnison,ruins,Metz,,,,49.122612,6.1700135
+103143092,way,Hôtel d'Arros,attraction,Metz,2,,,49.1254884,6.1760969
+108343647,way,,park,Metz,,,,49.1213075,6.3501947
+109802910,way,Château de l'ermitage Saint-Jean,castle,Metz,,,,49.1063292,6.1052431
+113395115,way,Au Martin Pêcheur,restaurant,Metz,,,,49.2495545,6.183379
+116873548,way,,memorial,Metz,,,,49.1174492,6.0550223
+116873784,way,Memorial 1870-71,memorial,Metz,,,,49.1236992,6.0443
+120923122,way,Parc du château de Courcelles,park,Metz,,,,49.1033682,6.1573056
+123772478,way,Hôtel Orion,hotel,Metz,,,https://www.enzo-hotels.com/hotel/enzo-hotels-1er-amneville,49.2410895,6.133681
+123772677,way,Brasserie La Taverne Amnéville,restaurant,Metz,"Rue du Bois de Clouange, 57360, Amnéville",57360,,49.2431915,6.132585
+123772834,way,Hôtel St Eloi,hotel,Metz,,,https://www.enzo-hotels.com/hotel/enzo-hotels-steloy/,49.2421165,6.1338305
+123772970,way,Hôtel Diane,hotel,Metz,,,https://www.enzo-hotels.com/hotel/enzo-hotels-diane-amneville/,49.242205,6.136444
+123773139,way,Hôtel Marso,hotel,Metz,,,,49.2477455,6.1358265
+123775621,way,Résidence des Sources,hotel,Metz,,,https://www.residence-des-sources.fr/,49.2402885,6.135819
+123782799,way,Le Panoramique,restaurant,Metz,,,,49.2435495,6.1244805
+123881909,way,Place Jean Burger,park,Metz,,,,49.2556279,6.1423179
+124790005,way,Square Saint-Amand,park,Metz,,,,49.0922889,6.1767774
+124808863,way,Parc du Pas du Loup,park,Metz,,,,49.0893654,6.1900894
+132438217,way,Les Moulins Bleus,restaurant,Metz,,,,49.133425,6.1986029
+132442037,way,,ruins,Metz,126,,,49.13509,6.2027005
+132455762,way,La Table de Malroy,restaurant,Metz,,,,49.1742605,6.2119175
+132994188,way,Château de Lue,castle,Metz,,,,49.1610384,6.384404
+133180556,way,Château des Étangs,castle,Metz,,,,49.141273,6.3770445
+133958729,way,Château Volte-Face,castle,Metz,,,,48.98815,6.219165
+134431410,way,Novotel Metz Amnéville,hotel,Metz,,,https://all.accor.com/hotel/0446/index.fr.shtml,49.2180055,6.1710975
+134431605,way,Mosella Buffet,restaurant,Metz,"Route de Maizières, 57282, Hauconcourt",57282,,49.2169173,6.1721484
+134564499,way,Parc de Gloucester,park,Metz,,,,49.113226,6.2261215
+135205986,way,Square Loiseau de Persuis,park,Metz,,,,49.1007231,6.178319
+135211134,way,Square Général Giraud,park,Metz,,,,49.1135354,6.1694407
+135211135,way,Square Gallieni,park,Metz,,,,49.1126323,6.1699433
+135409715,way,Tour Bismarck,attraction,Metz,,,,49.1217071,6.1356633
+136020245,way,Square des Jardiniers,park,Metz,,,,49.0972438,6.1780439
+136577699,way,Parc Sainte-Chrétienne,park,Metz,,,,49.0962057,6.1734503
+136860191,way,Lavoir,attraction,Metz,,,,49.104935,6.0908805
+136860351,way,Pressoir,attraction,Metz,,,,49.1050265,6.0959725
+137523115,way,Château de Chahury,castle,Metz,2,,,49.118796,6.0823208
+137537236,way,Au Rendez-Vous des Pêcheurs,restaurant,Metz,60,,,49.096612,6.100053
+137656286,way,Le Jardin devant-Blory,park,Metz,,,,49.0862256,6.1608028
+137665427,way,Ibis Budget Metz Sud,hotel,Metz,491,,https://all.accor.com/hotel/6385/index.fr.shtml,49.0775105,6.110811
+137665559,way,Parrillada,restaurant,Metz,325 Rue du Prayon,,,49.07952,6.105466
+137666099,way,B&B Hôtel,hotel,Metz,58 Rue des Bécottes,,https://www.hotel-bb.com/fr/hotel/metz-augny,49.0771825,6.1122625
+137667386,way,Restaurant Pomodoro,restaurant,Metz,,,,49.0782715,6.106813
+137667435,way,3 Brasseurs,restaurant,Metz,307 Rue du Prayon,,,49.079231,6.104938
+137667453,way,Crocodile,restaurant,Metz,243 Rue du Prayon,,,49.078937,6.1041775
+137679919,way,Château de Vaux,castle,Metz,,,,49.094465,6.0811685
+137854832,way,Le Pt'it Bistrot,restaurant,Metz,,,,49.0748745,6.077265
+137879105,way,Tour des Esprits,ruins,Metz,,,,49.1209362,6.1856135
+137879106,way,Pont des Basses-Grilles de la Seille,ruins,Metz,,,,49.1210352,6.1854316
+137879566,way,,ruins,Metz,,,,49.1205402,6.1852472
+138210471,way,Monument commémoratif allemand,monument,Metz,,,,49.1037945,6.2705055
+138210498,way,Château d'Aubigny,castle,Metz,,,,49.1017382,6.273002
+138461227,way,Porte de Sarrelouis,attraction,Metz,,,,49.1206286,6.191447
+138463088,way,,attraction,Metz,,,,49.117309,6.1891427
+138939310,way,Hôtel Siatel,hotel,Metz,,,https://siatel-metz.lorrainehotels.net,49.1834011,6.1460615
+139073458,way,Ristorante Del Arte,restaurant,Metz,,,,49.1919445,6.1462265
+139074467,way,Première Classe,hotel,Metz,,,,49.186717,6.144003
+139965511,way,,restaurant,Metz,,,,49.1864835,6.033896
+139966194,way,Monument commémoratif 1870-1871 du 12e Corps d'armée saxon,memorial,Metz,,,,49.1924719,6.0348885
+139971424,way,Monument commémoratif 1870-1871 de la Garde royale prussienne,memorial,Metz,,,,49.1857495,6.0314225
+139991081,way,,park,Metz,,,,49.1878969,6.0352622
+140299785,way,Jardin des plantes médicinales,garden,Metz,,,,49.1194438,6.1801442
+140564624,way,L'Essentiel,restaurant,Metz,,,,49.1959115,5.9968355
+140567075,way,La Fresque,restaurant,Metz,,,,49.1911485,6.0036645
+140570181,way,Le Quercus,restaurant,Metz,,,,49.193436,6.0007345
+140770141,way,Monument du 9e Bataillon des chasseurs Lauenbourgeois,memorial,Metz,,,,49.141392,6.0289445
+140770575,way,Ferme auberge de Chantereine,restaurant,Metz,,,http://chantereine57.fr,49.142503,6.0229494
+142060132,way,Parc de la Cheneau,park,Metz,,,,49.1132464,6.2082462
+143039168,way,Square Dornès,park,Metz,,,,49.0998187,6.1599468
+143039177,way,Square Dornès,park,Metz,,,,49.1004448,6.1604285
+143836303,way,Square Alexis de Tocqueville,park,Metz,,,,49.1240263,6.1763226
+144563538,way,Château de la Horgne-au-Sablon,ruins,Metz,,,,49.0896353,6.1751731
+144737742,way,Square du Chanoine Martin,park,Metz,,,,49.1013288,6.1653037
+149769410,way,Moulin des Thermes,attraction,Metz,,,,49.1230518,6.1765618
+150846352,way,Domaine du château de Landonvillers,castle,Metz,30 Allée des Tilleuls,,https://www.vogel-chateau.com/,49.1350248,6.3965878
+150846374,way,Château d'Urville,castle,Metz,,,,49.106699,6.380543
+151988763,way,L'escapade,restaurant,Metz,,,,48.9990715,6.100222
+155004627,way,Pont du Sauvage,ruins,Metz,,,,49.1192406,6.1469927
+155421244,way,Château Espagne (ancien),castle,Metz,,,,49.1364801,6.2372153
+156978133,way,Place Durutte,park,Metz,,,,49.1133152,6.203032
+157855571,way,Parc de la Cavalerie,park,Metz,,,,49.1259448,6.1685825
+158987237,way,Le Colisée,restaurant,Metz,"22 Rue de la Gare, 57300, Hagondange",57300,,49.251344,6.167107
+158987781,way,Saloon,restaurant,Metz,,,,49.2285845,6.1560145
+158989688,way,Waikiki Beach,restaurant,Metz,,,,49.2271225,6.1574995
+158989855,way,Waly Games,attraction,Metz,,,,49.229293,6.1550725
+158994249,way,Le Goût du Village,restaurant,Metz,"44 Rue Ambroise Croizat, 57300, Hagondange",57300,https://legoutduvillage.com/,49.244974,6.166347
+158995908,way,La Rivière Sauvage,attraction,Metz,,,,49.2277803,6.1572833
+158997826,way,B&B HOTEL Amnéville-les-Thermes,hotel,Metz,"Bois de Coulange, 57360, Hagondange",57360,,49.2461807,6.1367832
+159255674,way,Le Grand Patural,park,Metz,,,,49.1179291,6.1510521
+161626234,way,Maison de Robert Schuman,museum,Metz,"8;10;12 Rue Robert Schuman, 57160, Scy-Chazelles",57160,,49.1103213,6.1111803
+171944975,way,Les Jardins Jean-Marie Pelt,park,Metz,,,https://metz.fr/lieux/lieu-150.php,49.1065929,6.1857569
+172064083,way,Jardin Botanique,park,Metz,,,,49.1046794,6.1606371
+172074910,way,Base de loisir de l'Esplanade,park,Metz,,,,49.1158528,6.1631071
+173671079,way,Jardin Boufflers,park,Metz,,,,49.1175504,6.1698297
+182349008,way,Fort des Bordes,attraction,Metz,,,,49.1177046,6.2207814
+188150830,way,Ancien moulin de Belletanche,ruins,Metz,,,,49.1107873,6.2138848
+188364783,way,Jardins des Sœurs de Sainte-Chrétienne,garden,Metz,,,,49.0969923,6.1732988
+188366425,way,Jardin des Cinq Sens,garden,Metz,,,,49.1125686,6.180858
+188396869,way,Jardin Fabert,garden,Metz,,,,49.1226156,6.1765639
+194005072,way,L'Esplanade,park,Metz,,,https://metz.fr/lieux/lieu-50.php,49.1159672,6.1705871
+195433713,way,Entrepôt frigorifique militaire,attraction,Metz,,,,49.119069,6.1864182
+195608932,way,Couvent Saint-Pierre-aux-Nonnains,attraction,Metz,,,,49.1152613,6.1696355
+196824985,way,Square du Tagnon,park,Metz,,,,49.1240916,6.0775222
+196827246,way,Square du Saulcy,park,Metz,,,,49.1265949,6.0797263
+196837720,way,,park,Metz,,,,49.1231467,6.0810685
+197059835,way,Le Grand Domaine,park,Metz,,,,49.116614,6.2272702
+197463099,way,,park,Metz,,,,49.1182951,6.0828843
+198194798,way,Association Lorraine d'Exploitation et de Modélisme Ferroviaires,attraction,Metz,1 Rue de la Gare,,https://www.alemftrain.fr/,49.20392,6.2915835
+198194997,way,Vigy Labyrinthe,attraction,Metz,,,https://vigy-labyrinthe.fr,49.204008,6.2908475
+199045960,way,Église Saint-Nabor de Colombey,ruins,Metz,,,,49.1082441,6.2658012
+199045961,way,Château de Colombey,castle,Metz,,,,49.1078595,6.2622197
+199047546,way,Moulin d'Aubigny,ruins,Metz,,,,49.1028804,6.2642757
+199223670,way,Place Bouchotte,park,Metz,,,,49.0927094,6.1817132
+201788603,way,Residhome Appart'Hôtel Metz Lorraine,hotel,Metz,,,https://www.residhome.com/residence-hoteliere-aparthotel-metz-154.html,49.1073214,6.1728014
+201815218,way,Square Jacqueline Picard,park,Metz,,,,49.1261047,6.1779079
+203113168,way,,attraction,Metz,,,,49.1236638,6.1883007
+203577718,way,Square Théophile Dedun,park,Metz,,,,49.0979865,6.1724623
+203583292,way,,park,Metz,,,,49.0972795,6.1757853
+204737615,way,,park,Metz,,,,49.0869574,6.1637654
+206570640,way,Parc du Lac aux Cygnes,park,Metz,,,,49.1161597,6.1673274
+207502381,way,Zoo d'Amnéville,zoo,Metz,,,http://www.zoo-amneville.com,49.2460332,6.1400952
+207764200,way,,park,Metz,,,,49.2147964,6.1556538
+210370366,way,,garden,Metz,,,,49.117428,6.1710038
+211103330,way,Jardin des plantes toxiques,garden,Metz,,,,49.1198608,6.1800449
+212663768,way,Parc de Nauvigne,park,Metz,,,,49.1419556,6.1247651
+213923197,way,Cloître Sainte-Constance,attraction,Metz,,,,49.1223745,6.172248
+217859857,way,Parc du Moulin,park,Metz,,,,49.1555795,6.107996
+218107717,way,Golden Tulip Amnéville,hotel,Metz,,,https://amneville.goldentulip.com,49.2443358,6.1324891
+218924053,way,Parc Marthe Cohn,park,Metz,,,,49.1234862,6.208909
+219919399,way,,garden,Metz,,,,49.1135151,6.1680433
+219919400,way,,garden,Metz,,,,49.1154483,6.1689
+219919401,way,,garden,Metz,,,,49.1145765,6.1690489
+219929825,way,,park,Metz,,,,49.1177737,6.1690588
+219949735,way,,park,Metz,,,,49.1313915,6.1969942
+220278078,way,,park,Metz,,,,49.1174592,6.2214022
+220800668,way,Square Champs-aux-Oies,park,Metz,,,,49.078492,6.1835687
+224983700,way,Espace Ballastière,park,Metz,,,,49.2527673,6.1572401
+227338020,way,Porte en Chandellerue,ruins,Metz,,,,49.1213307,6.18527
+228138250,way,Parcours historique de la bataille de Dornot,memorial,Metz,,,,49.0463265,6.0627626
+232976889,way,Ancien Lavoir,attraction,Metz,,,,49.1232874,6.1774783
+232976890,way,Ancien Lavoir,attraction,Metz,,,,49.1232301,6.1774753
+233523118,way,Restaurant universitaire,restaurant,Metz,6,,,49.0995597,6.2225863
+233523132,way,Best Western Plus Metz Technopole,hotel,Metz,1,,http://www.hotel-metz-technopole.fr/,49.0999924,6.2253378
+233978712,way,Le Relais de la Planchette,restaurant,Metz,,,,49.1164215,6.2769785
+234335406,way,Les Tuileries,hotel,Metz,,,https://hotel-lestuileries.com/,49.0316687,6.1100831
+234908487,way,Parc Municipal,park,Metz,,,,49.2484565,6.1713515
+234981224,way,Château de Pange,castle,Metz,,,,49.083543,6.3538678
+234985740,way,Base Nautique Ballastière,attraction,Metz,Rue du Docteur Viville,,,49.2547299,6.1575683
+238091862,way,Dragon Fly,restaurant,Metz,,,,49.2436795,6.1302661
+238874945,way,Restaurant du Fort,restaurant,Metz,"Allée du Fort, 57070",57070,https://www.restaurantdufort.fr/,49.1409048,6.2134307
+238900826,way,Ouvrage d'Avigny,ruins,Metz,,,,49.0128981,6.1899668
+238900827,way,Batterie,ruins,Metz,,,,49.014701,6.1962326
+238900829,way,Ouvrage de Verny,ruins,Metz,,,,49.0134885,6.2008305
+238900833,way,Ouvrage de Lamen,ruins,Metz,,,,49.0169877,6.1988431
+238900838,way,Ouvrage de la Seile,ruins,Metz,,,,49.0123125,6.1871218
+238900979,way,Abri,ruins,Metz,,,,49.0145407,6.1996281
+238903183,way,Casernement,ruins,Metz,,,,49.0237209,6.2355385
+238903772,way,Batterie (ruine),ruins,Metz,,,,49.022791,6.2368878
+239214734,way,Enzo Hôtels,hotel,Metz,231,,https://www.enzo-hotels.com/hotel/appartement-metz-sud-augny/,49.0779239,6.108542
+247240061,way,HotelF1 Metz Actipole,hotel,Metz,13,,https://all.accor.com/hotel/2381/index.fr.shtml,49.115685,6.2514965
+247251232,way,Hôtel Première Classe,hotel,Metz,4 Rue de Courcelles,,,49.0936165,6.235502
+247444867,way,Ibis Budget Metz Technopôle,hotel,Metz,3 Rue des Dinandiers,,http://www.ibis.com/de/hotel-5920-ibis-budget-metz-technopole/index.shtml,49.1097678,6.2295454
+247445386,way,Buffalo Grill,restaurant,Metz,16,,https://www.buffalo-grill.fr/nos-restaurants/metz-borny,49.1081971,6.225707
+248134853,way,,park,Metz,,,,49.2488266,6.173077
+259625524,way,Jardin du Quart-Livre,park,Metz,,,https://metz.fr/lieux/lieu-3625.php,49.1184945,6.1783985
+259633855,way,Jardin Jérôme Maestre,park,Metz,,,,49.1309005,6.1508484
+259634713,way,Square Louis Joseph Pirolle,park,Metz,,,,49.0984756,6.1786892
+259638890,way,Square Grandmaison,park,Metz,,,,49.0986508,6.1939746
+265045421,way,Jardin des Amours,park,Metz,,,,49.1190315,6.1848149
+266631702,way,,park,Metz,,,,49.1201052,6.1847835
+274637111,way,Metz'in - Restaurant Universitaire,restaurant,Metz,6,,,49.0947741,6.2286682
+288096978,way,,garden,Metz,,,,49.1203815,6.1817005
+288096979,way,,garden,Metz,,,,49.1200582,6.1819353
+289809275,way,,park,Metz,,,,49.1147404,6.1551402
+289809279,way,,park,Metz,,,,49.1162709,6.1550437
+290417805,way,Square Fernand Traver,park,Metz,,,,49.0989867,6.1572046
+297248276,way,,park,Metz,,,,49.1061101,6.3358697
+297248277,way,,park,Metz,,,,49.1062876,6.3362687
+297732720,way,Parc Sainte-Anne,park,Metz,,,,49.1227642,6.0999757
+299784715,way,"Monument du 15e régiment d’infanterie, 2e régiment d’infanterie westphalien",monument,Metz,,,,49.1110829,6.2545613
+299785619,way,Monument du 7e bataillon de chasseurs westphalien,monument,Metz,,,,49.1087788,6.2560635
+299786561,way,Monument du 13e régiment d’infanterie westphalien,monument,Metz,,,,49.1079172,6.2573035
+299787455,way,Monument du 73e régiment de fusiliers hanovriens,monument,Metz,,,,49.11695,6.2566547
+299788224,way,"Monument du 76e régiment d’infanterie, 2e régiment d’infanterie hanséatique",monument,Metz,,,,49.1193851,6.2554732
+299896280,way,Hôtel hotelF1,hotel,Metz,9 Rue Périgot,,https://all.accor.com/ssr/app/hotelf1/rates/2320/index.fr.shtml,49.129654,6.1617401
+299896479,way,Adams Hotel,hotel,Metz,3,,,49.1420129,6.1659841
+306916977,way,Éléphant,attraction,Metz,,,,49.2476611,6.1423906
+306917415,way,Plaine africaine,attraction,Metz,,,,49.2480097,6.1414397
+306917790,way,Rhinocéros blanc,attraction,Metz,,,,49.2476636,6.1404329
+306921729,way,Arènes des Oiseaux,attraction,Metz,,,,49.2441764,6.1386174
+306927519,way,Gorille,attraction,Metz,,,,49.244736,6.1412476
+306927878,way,Manchot de Humboldt,attraction,Metz,,,,49.2459487,6.1420834
+306930775,way,Panthère des neiges,attraction,Metz,,,,49.2468835,6.1405053
+307015272,way,Tigre blanc,attraction,Metz,,,,49.2443962,6.1399968
+307208481,way,Croix de Lorraine,memorial,Metz,,,,49.0551744,6.4415034
+307537754,way,Ours blanc,attraction,Metz,,,,49.2465624,6.1409445
+307553952,way,Singes,attraction,Metz,,,,49.246371,6.1403855
+307553954,way,Flamant rose,attraction,Metz,,,,49.2461558,6.1393314
+307554970,way,Loups de l'Arctique,attraction,Metz,,,,49.2461737,6.1412945
+307554971,way,Lynx des Carpates,attraction,Metz,,,,49.245592,6.1387411
+307555481,way,Ours brun,attraction,Metz,,,,49.2455101,6.139368
+307555483,way,Lycaon,attraction,Metz,,,,49.2454607,6.1401165
+309445273,way,Musée de la guerre de 1870,museum,Metz,"11 rue de Metz, 57130",57130,https://www.mosellepassion.fr/index.php/les-sites-moselle-passion/musee-de-la-guerre-de-1870,49.1140214,6.0297598
+309565072,way,Château de Lorry,castle,Metz,,,,48.9898335,6.0856455
+309850898,way,Statue de la Vierge,memorial,Metz,,,,49.0547406,6.0023296
+312282927,way,Casemate,ruins,Metz,,,,49.1250652,6.1713969
+312476569,way,Maison de la Terre de Gorze,museum,Metz,22 Rue de l'Église,,,49.0536257,5.9975446
+313730447,way,Mémorial de la Résistance et de la Déportation,memorial,Metz,,,,49.0971284,6.202479
+314782789,way,,monument,Metz,,,,49.0675225,6.081402
+315070077,way,Ayako Sushi,restaurant,Metz,15E,,https://www.ayakosushi.fr/restaurant-ayako-jouy-aux-arches,49.0757755,6.0973355
+315070949,way,Ristorante Del Arte,restaurant,Metz,14,,https://www.delarte.fr/restaurant-italien-pizzeria-metz-jouy-aux-arches.html,49.0797795,6.101204
+315070951,way,Première Classe,hotel,Metz,16,,https://metz-sud-jouy-aux-arches.premiereclasse.com,49.0796185,6.1007495
+315070953,way,Hôtel Campanile,hotel,Metz,,,https://www.campanile.com/fr/hotels/campanile-metz-sud-jouy-aux-arches,49.0794125,6.0999315
+315070954,way,Restaurant Campanile,restaurant,Metz,,,https://metz-sud-jouy-aux-arches.campanile.com,49.079169,6.100193
+321579558,way,Parc de la Roseraie,park,Metz,,,,49.0957877,6.242909
+321602608,way,,park,Metz,,,,49.0972029,6.2424355
+325939784,way,Le Campagnol,restaurant,Metz,"42 Rue de Metz, 57680, Corny-sur-Moselle",57680,,49.034696,6.059959
+338834461,way,Place Joseph Schaff,park,Metz,,,,49.100895,6.1543203
+341962387,way,,garden,Metz,,,,49.1294288,6.1537101
+342081884,way,Parc du Sansonnet,park,Metz,,,,49.1367649,6.1535968
+376612337,way,Jardin Marcel Rebourset,garden,Metz,,,,49.1190728,6.1683474
+376763739,way,,garden,Metz,,,,49.1247531,6.1759899
+403516743,way,Square Simon-Louis Frères,park,Metz,,,,49.1114981,6.2021928
+403986811,way,L'Oeuvre de Jaumont,museum,Metz,"Ecart St Hubert, 57360, Malancourt-la-Montagne",57360,https://oeuvredejaumont.jimdoweb.com,49.2100406,6.0639318
+406512614,way,,garden,Metz,,,,49.1094379,6.1739296
+411524904,way,Hôtel de Heu,attraction,Metz,19,,,49.1144436,6.1782142
+412246901,way,Hôtel Le Mondon,hotel,Metz,,,http://www.hotel-le-mondon-metz.fr/,49.1119862,6.172223
+413676020,way,Parc d'Arros,park,Metz,,,,49.1312585,6.1265386
+414743624,way,Square Tschudy,park,Metz,,,,49.1109137,6.2203479
+423650431,way,,park,Metz,,,,49.1352043,6.1333877
+426045236,way,Square des Maraichers,park,Metz,,,,49.1411662,6.1678307
+435374625,way,Orang-outang,attraction,Metz,,,,49.2446621,6.1391761
+435374628,way,Extended Reality World,attraction,Metz,,,,49.2438378,6.1374269
+437997391,way,,zoo,Metz,,,https://www.mosl.fr/fr/fiche-sit/f1368000046_le-fond-saint-martin-rombas,49.2396692,6.0784315
+437997392,way,Arboretum du Fond Saint-Martin,park,Metz,,,,49.2374685,6.0745428
+440263411,way,,beach,Metz,,,,49.0815334,6.1029493
+440263412,way,,beach,Metz,,,,49.0811607,6.102715
+440486090,way,Caserne Steinmetz,attraction,Metz,,,,49.1211203,6.1878307
+440486091,way,Caserne Steinmetz,attraction,Metz,,,,49.1206161,6.1879395
+440486092,way,Caserne Steinmetz,attraction,Metz,,,,49.1221312,6.1876113
+440486093,way,Caserne Steinmetz,attraction,Metz,,,,49.1201035,6.1880545
+443857789,way,Square de l'Amitié,park,Metz,,,,49.1125292,6.2176677
+446192489,way,Square de la Liberté,park,Metz,,,,49.1140527,6.1554961
+462169794,way,,park,Metz,,,,49.1163659,6.1395063
+470840936,way,Place de Maud'Huy,park,Metz,,,,49.1089248,6.1671916
+476280568,way,,park,Metz,,,,48.9397378,6.3036021
+478523869,way,,garden,Metz,,,,49.1351564,6.3013123
+478523870,way,,garden,Metz,,,,49.1349993,6.3013498
+479663850,way,Parc du Nec,park,Metz,,,,49.0613431,6.1631807
+479663851,way,Place des Droits de l'Homme,park,Metz,,,,49.0606389,6.1536332
+480211795,way,Enclos des daims et bouctins,park,Metz,,,,49.1557713,6.1370534
+480211796,way,Volière,park,Metz,,,,49.1560431,6.1356792
+483168242,way,Parc de la Seille,park,Metz,,,,49.0651139,6.1557482
+485388935,way,Square du Souvenir Français,garden,Metz,,,,49.1364322,6.2039633
+486847242,way,Parc de l'ancien château,park,Metz,,,,48.9962757,6.0568964
+497796715,way,,park,Metz,,,,49.1070567,6.0930102
+498099695,way,,park,Metz,,,,49.10156,6.0867129
+499912262,way,Maison de Rabelais,attraction,Metz,2,,,49.1185638,6.178494
+504908414,way,Centre Pompidou-Metz,museum,Metz,,,https://www.centrepompidou-metz.fr,49.1082009,6.1815826
+509836907,way,Tour de Piz,restaurant,Metz,,,https://www.latour-depizz.com/,49.2448302,6.16631
+511532346,way,,park,Metz,,,,49.1126275,6.1863501
+518025699,way,,park,Metz,,,,49.110392,6.2016596
+518752246,way,,park,Metz,,,,49.2010254,6.159959
+519576485,way,,park,Metz,,,,48.9892548,6.2173932
+525458223,way,,ruins,Metz,,,,49.122475,6.1859424
+547961080,way,Medusa,restaurant,Metz,12 bis,,,49.1321617,6.1994346
+551514318,way,,park,Metz,,,,49.2469553,6.092885
+561553439,way,Square Franklin Roosevelt,park,Metz,,,,49.0769303,6.0763897
+565009677,way,Café Fauve,restaurant,Metz,,,,49.1833993,6.1439034
+576811855,way,,park,Metz,,,,49.0876558,6.1670827
+612258861,way,Chalet Bavarois,restaurant,Metz,,,,49.2290338,6.1585806
+612947423,way,Les Jeux De Waly,attraction,Metz,,,,49.2282336,6.1583661
+635625822,way,Volière,park,Metz,,,,49.1560606,6.1356691
+635625823,way,Enclos dains et bouctins,park,Metz,,,,49.155778,6.1370468
+635625824,way,Enclos des cerfs,park,Metz,,,,49.1550718,6.1378347
+639382301,way,,park,Metz,,,,49.0740294,6.0761679
+639408191,way,,park,Metz,,,,49.0773808,6.0737165
+661153180,way,,garden,Metz,,,,49.1234171,6.1778198
+661158417,way,Ney,monument,Metz,,,,49.1154697,6.1715164
+661164398,way,Le Poilu libérateur,memorial,Metz,,,,49.1165173,6.1693957
+663655990,way,Parc du Breuil,park,Metz,,,,49.1297538,6.1298593
+664237882,way,Château Fabert,castle,Metz,,,,49.1059346,6.1073395
+679053792,way,,garden,Metz,,,,49.0994247,6.1729522
+687944087,way,Parc Bazelaire,park,Metz,,,,48.9618824,6.1833801
+687944100,way,Maison-forte de Louvigny,castle,Metz,,,,48.962426,6.1817541
+687944127,way,,park,Metz,,,,48.9632554,6.184033
+691275606,way,Square Boufflers,park,Metz,,,,49.0698157,6.2542286
+707553444,way,Parc de Brieux,park,Metz,,,,49.2065046,6.1686737
+711867670,way,,memorial,Metz,,,,49.0696128,5.9753154
+720416819,way,Rapaces,attraction,Metz,,,,49.2445608,6.1381881
+727063929,way,Square du Chemin des Dames,park,Metz,,,,49.1168746,6.0878618
+731991302,way,,park,Metz,,,,49.1139612,6.1787074
+739108415,way,"Maison Heler Metz, Curio Collection by Hilton",hotel,Metz,,,https://www.hilton.com/en/hotels/etzmhqq-maison-heler-metz/,49.1042212,6.181453
+751357230,way,,garden,Metz,,,,49.1604748,6.3517539
+753607829,way,,memorial,Metz,,,,49.1007456,6.1561372
+760403330,way,,ruins,Metz,,,,49.0969868,6.2035901
+778986910,way,Hôtel Campanile Metz Nord,hotel,Metz,45,,https://metz-nord.campanile.com,49.149581,6.1763538
+806886671,way,Jardin Sœur Emmanuelle,garden,Metz,,,,49.0962133,6.1900675
+808371785,way,,park,Metz,,,,49.076297,6.2226877
+836148968,way,Parc Robert Schuman,park,Metz,,,,49.0998779,6.1409452
+836150536,way,Square des Jardins sous la Fontaine,park,Metz,,,,49.1013414,6.1515305
+839756839,way,,park,Metz,,,,49.1872032,6.0434652
+846586946,way,Square des Pins,park,Metz,,,,49.1342972,6.2142967
+850851351,way,,garden,Metz,,,,49.022758,6.2464655
+850851353,way,,garden,Metz,,,,49.0228019,6.2464434
+850851354,way,,garden,Metz,,,,49.0226356,6.2465684
+850851355,way,,garden,Metz,,,,49.0228063,6.2467435
+850851356,way,,garden,Metz,,,,49.0227718,6.246977
+876131312,way,,ruins,Metz,,,,49.1780007,6.1757624
+876131317,way,,ruins,Metz,,,,49.1773214,6.1756508
+876131318,way,,ruins,Metz,,,,49.1772419,6.1760006
+876131319,way,,ruins,Metz,,,,49.177238,6.1756708
+876300837,way,,memorial,Metz,,,,49.0756073,5.9740674
+876300838,way,,memorial,Metz,,,,49.0729781,5.9803168
+876300839,way,,memorial,Metz,,,,49.0720349,5.9818147
+876300840,way,,memorial,Metz,,,,49.0757071,5.9709645
+876300842,way,,memorial,Metz,,,,49.0780313,5.9673714
+882555163,way,,garden,Metz,,,,49.1855825,6.3341724
+886142491,way,La Pataterie,restaurant,Metz,"4, 57360, Hagondange",57360,https://www.lapataterie.fr,49.2480787,6.1383049
+886190275,way,Le Galion,restaurant,Metz,"57360, Marange-Silvange",57360,,49.2371973,6.1281805
+886510029,way,,garden,Metz,,,,49.1658719,6.3649296
+891243464,way,,park,Metz,,,,49.1141454,6.1894441
+891243465,way,,park,Metz,,,,49.1138075,6.1904136
+891243466,way,,park,Metz,,,,49.1127477,6.191619
+891243467,way,,park,Metz,,,,49.1126248,6.1909659
+901520930,way,Parc du Vallon,park,Metz,,,,49.0959617,6.2169302
+911138849,way,,park,Metz,,,,49.0887298,6.1702085
+916387721,way,,park,Metz,,,,49.1919624,6.1280579
+922463069,way,,park,Metz,,,,49.0014792,6.2005436
+926259117,way,Woippy Plage,beach,Metz,,,,49.1546709,6.1623484
+932792861,way,Parvis de la Piscine,park,Metz,,,,49.2441836,6.1358975
+932796626,way,,park,Metz,,,,49.2423496,6.1350006
+935294131,way,Parc de loisirs Pokeyland,theme_park,Metz,,,https://www.pokeyland.com,49.0218656,6.1022777
+965864943,way,Espace Marie et Mathias,park,Metz,,,,49.058487,6.0618079
+978962044,way,Jardin Marsha P. Johnson et Sylvia Rivera,park,Metz,,,,49.1155671,6.1689802
+993304307,way,,garden,Metz,,,,49.1319169,6.2493217
+998330341,way,Parc Marie et Mathias,park,Metz,,,,49.1303731,6.1960492
+1000246449,way,,garden,Metz,,,,48.9663171,6.2450265
+1004789062,way,Parc municipal,park,Metz,,,,49.1927647,6.001841
+1005916714,way,Parc Roseraie Jouin,garden,Metz,,,,49.057283,6.145367
+1006090240,way,,garden,Metz,,,,49.0430169,6.270368
+1006090241,way,,garden,Metz,,,,49.0430293,6.2701232
+1006090243,way,,garden,Metz,,,,49.0430552,6.2699576
+1006090244,way,,garden,Metz,,,,49.0435369,6.2707649
+1006293391,way,,garden,Metz,,,,48.953938,6.1436697
+1006293392,way,,garden,Metz,,,,48.953712,6.1436024
+1006293393,way,,garden,Metz,,,,48.9538553,6.1433776
+1006535506,way,,park,Metz,,,,49.0787765,6.186024
+1006861274,way,,park,Metz,,,,49.2239338,6.2172374
+1016666675,way,,park,Metz,,,,49.1000195,6.1748918
+1025973981,way,,park,Metz,,,,49.1060156,6.1589079
+1034319534,way,,park,Metz,,,,49.1931907,6.1318705
+1041091824,way,Espace naturel pédagogique et convivial,garden,Metz,,,https://www.cpncoquelicots.org/,49.1315919,6.2150709
+1042747163,way,Square Félix Peupion,park,Metz,,,,49.1008479,6.1564389
+1044251389,way,,park,Metz,,,,49.1563279,6.1475544
+1050014642,way,Square Paul Lacombe,park,Metz,,,,49.006943,6.2057615
+1050014647,way,Parc du Château,park,Metz,,,,49.0089996,6.2038769
+1050014661,way,Les Jardins Partagés de Verny,garden,Metz,,,https://www.verny.fr/index.php/la-vie-a-verny/associations/culture-et-loisirs/784-ljpv-les-jardins-partages-de-verny-incroyables-comestibles,49.0088003,6.2047418
+1050315520,way,,park,Metz,,,,49.0917214,6.1221045
+1050761960,way,,memorial,Metz,,,,49.1880941,6.0371084
+1063385161,way,,park,Metz,,,,49.1046106,6.2064091
+1063385162,way,,park,Metz,,,,49.1036128,6.2062598
+1063385163,way,,park,Metz,,,,49.10245,6.2061027
+1066491005,way,,park,Metz,,,,49.1021014,6.2085463
+1079744041,way,Mini Ferme,attraction,Metz,,,,49.0223385,6.1026948
+1079757795,way,,garden,Metz,,,,49.0752863,6.3089283
+1079757796,way,,garden,Metz,,,,49.0759738,6.3086178
+1080896764,way,Square Pierre Simon,park,Metz,,,,49.1035618,6.1968524
+1081173417,way,Jardin des Générations,garden,Metz,,,,49.09988,6.1570083
+1089632097,way,,park,Metz,,,,49.0889236,6.1665021
+1089910256,way,La Boucherie,restaurant,Metz,"56 Rue du Fort Gambetta, 57140",57140,,49.1504811,6.1777453
+1090542276,way,Jardin d'Amour,park,Metz,,,,49.1205189,6.1718807
+1090822731,way,,garden,Metz,,,,49.1023845,6.1565741
+1092198654,way,,park,Metz,,,,49.0896037,6.1511656
+1093940567,way,La Clairière,park,Metz,,,,49.1002465,6.1528242
+1108514315,way,,garden,Metz,,,,49.0736925,6.2234305
+1109761481,way,,park,Metz,,,,49.0943207,6.1505395
+1113189479,way,,garden,Metz,,,,49.2116745,6.1699434
+1113189484,way,,garden,Metz,,,,49.2060629,6.1728869
+1117466498,way,,garden,Metz,,,,49.1659312,6.1833953
+1119801411,way,,garden,Metz,,,,49.1561909,6.2313086
+1120303129,way,,park,Metz,,,,49.2208394,6.1953477
+1120303140,way,,garden,Metz,,,,49.2197586,6.1886018
+1120303144,way,,garden,Metz,,,,49.2202858,6.1895252
+1122689937,way,,park,Metz,,,,49.2127589,6.1104788
+1126236778,way,,ruins,Metz,,,,49.1777912,6.1763144
+1126236780,way,,ruins,Metz,,,,49.1775531,6.1765137
+1126236781,way,,ruins,Metz,,,,49.1774192,6.1761398
+1126236783,way,,ruins,Metz,,,,49.1780509,6.1761654
+1156192494,way,,garden,Metz,,,,49.1359646,6.1720015
+1167136269,way,,park,Metz,,,,49.0864361,6.3587635
+1187777746,way,Parc de l'Ancienne Église,park,Metz,,,,49.0329002,6.0575851
+1188934943,way,,garden,Metz,,,,49.1954812,6.1171868
+1189621352,way,Parc des Encralus,park,Metz,,,,49.2387538,6.2020632
+1197161752,way,,ruins,Metz,,,,49.0253986,6.2227696
+1198108676,way,,garden,Metz,,,,49.0404764,6.2037852
+1198215114,way,,garden,Metz,,,,49.038544,6.1989119
+1198215127,way,,garden,Metz,,,,49.0394132,6.1974512
+1198215130,way,,garden,Metz,,,,49.0396027,6.1980356
+1198215135,way,,garden,Metz,,,,49.0393776,6.1988532
+1198215140,way,,garden,Metz,,,,49.0399793,6.1998889
+1198215142,way,,garden,Metz,,,,49.0397343,6.1994845
+1198215147,way,,garden,Metz,,,,49.0386685,6.1998264
+1198215156,way,,garden,Metz,,,,49.0400399,6.2019124
+1198289620,way,Parc écologique et de la biodiversité de Scy-Chazelles,park,Metz,,,,49.1136527,6.1183465
+1198289622,way,,garden,Metz,,,,49.1134092,6.1182782
+1201710340,way,ACE Hotel Metz,hotel,Metz,90 bis Boulevard Solidarité,,https://www.ace-hotel-metz.com/fr/,49.1038202,6.2347735
+1204694600,way,Square des Glycines,park,Metz,,,,49.1090684,6.0891812
+1210520735,way,,garden,Metz,,,,49.1743663,6.2431651
+1211923013,way,Monument du Souvenir Français,memorial,Metz,,,,49.1293499,6.2742854
+1212255545,way,,garden,Metz,,,,49.1071397,6.3804828
+1237239821,way,,park,Metz,,,,49.2603333,6.1139425
+1237271134,way,,garden,Metz,,,,49.0987798,6.1637239
+1246251975,way,Parc Saint-Vincent de Paul,park,Metz,,,,49.0456161,6.157112
+1266711247,way,,park,Metz,,,,49.0659823,6.3072355
+1266754208,way,,park,Metz,,,,49.0586366,6.0778444
+1273195257,way,Résidence du Val de Pierre,hotel,Metz,,,,49.1240515,6.2590191
+1279066462,way,Place Jean Burger,park,Metz,,,,49.2375327,6.1736987
+1279119545,way,,park,Metz,,,,49.2445994,6.1732745
+1289826905,way,Square Marie Judlin,park,Metz,,,,49.1207064,6.1848091
+1302686803,way,La Maison de Manfred,restaurant,Metz,,,,49.1042246,6.1814403
+1302848708,way,,park,Metz,,,,49.1352349,6.1654624
+1305207207,way,Plaine de la Vacquinière,park,Metz,,,,49.1054295,6.1560095
+1305810046,way,Paintball Kids,attraction,Metz,,,,49.0215816,6.1018877
+1306216718,way,Léon de Bruxelles,restaurant,Metz,,,https://www.restaurantleon.fr/nos-restaurants/metz-augny,49.0763188,6.1010881
+1312084836,way,Parcours pieds nus,attraction,Metz,,,,49.020687,6.1003083
+1312084839,way,Parcours Pitchounes,attraction,Metz,,,,49.0210468,6.1006437
+1312084840,way,Les Cabanes de Pokey,attraction,Metz,,,,49.02107,6.1003393
+1312084841,way,Ejector,attraction,Metz,,,,49.0213925,6.1007086
+1314201150,way,,park,Metz,,,,49.0612989,6.0783249
+1324856391,way,,park,Metz,,,,49.1484577,6.1453043
+1327869818,way,Loisirama,theme_park,Metz,,,https://www.loisirama.eu,49.0874137,6.1194773
+1334903252,way,Parc Freinet,park,Metz,,,,49.0645572,6.1615255
+1340091385,way,,park,Metz,,,,49.049818,6.00397
+1351265072,way,,garden,Metz,,,,49.0926683,6.2694624
+1355670688,way,Square Abbé Marx,park,Metz,,,,49.1370018,6.2062579
+1366655936,way,La Serpentine,artwork,Metz,,,,49.1167095,6.1750514
+1367335421,way,,garden,Metz,,,,49.1049086,6.1811733
+1370487696,way,Jardin Amable-Tastu,garden,Metz,,,,49.1213659,6.1784012
+1374393631,way,Square Isabelle Viallat,park,Metz,,,,49.0980442,6.1920879
+1374393633,way,Jardin du Grand-Pâtural,park,Metz,,,,49.1015124,6.2366522
+1408637256,way,,park,Metz,,,,49.1393791,6.3029431
+1408785836,way,Parc de l'Archyre,park,Metz,,,,49.110239,6.1207024
+1409189511,way,,park,Metz,,,,49.1883924,6.0033825
+1409567631,way,,park,Metz,,,,49.245076,6.2044138
+1410109666,way,Square Henri Fiske,park,Metz,,,,49.251774,6.0971687
+1410158676,way,,park,Metz,,,,49.2249904,6.1047285
+1411135141,way,Square du révérend Père André,park,Metz,,,,49.2602239,6.1406194
+1411152399,way,,park,Metz,,,,49.2512856,6.1402359
+1413565389,way,Jardin suspendu,garden,Metz,,,https://metz.fr/lieux/lieu-4584.php,49.1197983,6.1805717
+1422451369,way,,garden,Metz,,,,49.0898155,5.96349
+1423009032,way,Flamant nain,attraction,Metz,,,,49.2466924,6.1419668
+1423009033,way,Volière sud-américaine,attraction,Metz,,,,49.2466004,6.1423052
+1423009034,way,Panda roux,attraction,Metz,,,,49.2462678,6.1421646
+1423009035,way,Loutre,attraction,Metz,,,,49.2462868,6.1419626
+1423272860,way,Mini-ferme,attraction,Metz,,,,49.2458623,6.1407087
+1423272861,way,Potamochère,attraction,Metz,,,,49.2452507,6.1401667
+1423379414,way,,park,Metz,,,,49.0866345,6.1526482
+1423530171,way,Mandrill,attraction,Metz,,,,49.2485149,6.1424712
+1423849132,way,Maki Catta,attraction,Metz,,,,49.2472726,6.1413966
+1423849135,way,Otarie de Californie,attraction,Metz,,,,49.2473919,6.1395869
+1423849137,way,Maki vari,attraction,Metz,,,,49.2483356,6.140951
+1423849144,way,Pélican gris,attraction,Metz,,,,49.2474247,6.1413164
+1424092598,way,Tortue Rayonnée,attraction,Metz,,,,49.2478052,6.1430821
+1424092599,way,Dik-Dik de Kirk,attraction,Metz,,,,49.2474895,6.1431821
+1424092605,way,Roussette d’Egypte,attraction,Metz,,,,49.2480044,6.1424557
+1424765340,way,Mangouste,attraction,Metz,,,,49.2460075,6.1389352
+1424765341,way,Caracal,attraction,Metz,,,,49.2460127,6.139213
+1424765342,way,Coatis,attraction,Metz,,,,49.2457984,6.1391112
+1424765343,way,Panthère de l’Amour,attraction,Metz,,,,49.245728,6.1394422
+1424765346,way,Wallabies,attraction,Metz,,,,49.2454629,6.1415293
+1424765347,way,Suricate,attraction,Metz,,,,49.2452222,6.1405268
+1424765348,way,Pélican frisé,attraction,Metz,,,,49.2454477,6.1420275
+1424968879,way,Raton-laveur,attraction,Metz,,,,49.2462887,6.1388726
+1424968880,way,Tigre blanc,attraction,Metz,,,,49.246606,6.1395479
+1424968888,way,Lion,attraction,Metz,,,,49.2459834,6.1402732
+1425038128,way,Grand-duc du Bengale,attraction,Metz,,,,49.2461306,6.1390506
+1426208002,way,,garden,Metz,,,,49.1539802,6.195151
+1442212731,way,Volière du jardin botanique,zoo,Metz,,,,49.1041621,6.1609298
+1446276755,way,Parc municipal,park,Metz,,,,49.1094683,6.4059319
+1452608865,way,Jardin Caroline Aigle,park,Metz,,,,49.1144124,6.1679095
+1452619104,way,Square Roger Fraisse,park,Metz,,,,49.076116,6.1904616
+1453329307,way,Square Jean-Pierre Lonchamp,park,Metz,,,,49.1362689,6.1639115
+1453332327,way,Square Monique Berlioux,park,Metz,,,,49.0932471,6.2456317
+1453333508,way,Square des Quatre Bornes,park,Metz,,,,49.1395064,6.1486914
+1459394696,way,Espace André Helstroffer,park,Metz,,,,49.0153469,6.2184896
+1462605716,way,,ruins,Metz,,,,49.1236045,6.2835161
+1462605717,way,,ruins,Metz,,,,49.123673,6.2838552
+1471717000,way,,memorial,Metz,,,,49.2259756,6.1006824
+1474151909,way,"Monument commémoratif 1870-1871, 4. Garde Regiment Zu Fuss",memorial,Metz,,,,49.1915991,6.0350934
+1474183860,way,,park,Metz,,,,49.1891372,6.0353007
+1476750097,way,,garden,Metz,,,,49.0538134,5.9961686
+1486128936,way,Parc Jacques Prévert,park,Metz,,,,49.0941711,6.1549314
+1493161769,way,Jardin des Découvertes,garden,Metz,,,,49.1023365,6.1301287
+1493161770,way,Prairies Jean-Marie Pelt,park,Metz,,,,49.103061,6.1316868
+1498070122,way,,park,Metz,,,,49.115277,6.1096952
+1513985527,way,,park,Metz,,,,49.0658181,6.3034334
+1513985534,way,,park,Metz,,,,49.0654565,6.3023125
+1513985535,way,,park,Metz,,,,49.0650874,6.3011947
+1516931289,way,,garden,Metz,,,,49.0915936,6.1524345
+1516933224,way,,garden,Metz,,,,49.0921105,6.153184
+1524746727,way,Parc des Trois Haies,park,Metz,,,,49.0920661,6.1178021
+1526244555,way,Les Jardins fruitiers de Laquenexy,attraction,Metz,"4 Rue Bourger et Perrin, 57530, Laquenexy",57530,,49.0745208,6.3077175
+1532135325,way,,park,Metz,,,,49.1227137,6.1875704
+1532135783,way,Jardin de la mairie de Saint-Julien lès Metz,garden,Metz,,,,49.1336778,6.2018128
+231668,relation,Hôtel des Postes,attraction,Metz,,,,49.1098339,6.1750257
+611099,relation,Hôtel des Arts et Métiers,attraction,Metz,,,,49.1112016,6.1733848
+975966,relation,Hôtel Saint-Livier,attraction,Metz,1,,,49.1206832,6.1794934
+1463017,relation,Abbaye Saint-Vincent,attraction,Metz,,,,49.1231345,6.1724504
+4236892,relation,Aqueduc Romain,attraction,Metz,,,,49.0665586,6.0753125
+6505829,relation,Base de Loisirs du Fond Saint-Martin,theme_park,Metz,,,,49.2394441,6.0767739
+7805845,relation,Château de Woippy,castle,Metz,,,,49.1520451,6.1454657
+10404673,relation,Ibis Styles,hotel,Metz,,,https://all.accor.com/hotel/6854/index.fr.shtml,49.1111882,6.1762002
+11308176,relation,Parc René Taesch,park,Metz,,,,49.0975193,6.1694027

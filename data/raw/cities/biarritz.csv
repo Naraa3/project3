@@ -1,4 +1,5 @@
 osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+746271493,node,Musée de la Mer,museum,Biarritz,,,https://www.paysbasque.net/aquariums-et-musees/musee-de-la-mer-biarritz/,43.4833364,-1.568191
 854903782,node,Première classe,hotel,Biarritz,,,,43.4663954,-1.5405777
 886843917,node,Posada Biarritz,hotel,Biarritz,,,,-34.7936976,-55.5086153
 907595850,node,,restaurant,Biarritz,,,,-34.7936936,-55.5087934
@@ -21,13 +22,19 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1363045787,node,Xuxu,restaurant,Biarritz,"8bis, 64200",64200,,43.4844249,-1.5483352
 1415224366,node,Le Royalty,restaurant,Biarritz,,,,43.4823514,-1.5607501
 1464304895,node,Octopus,restaurant,Biarritz,"2 Rue Gardères, 64200, Biarritz",64200,https://octopus-biarritz.com/,43.4829443,-1.559571
+1464304928,node,Statue de la Vierge,artwork,Biarritz,,,,43.4840677,-1.5702939
+1635628044,node,,viewpoint,Biarritz,,,,43.4931771,-1.5540945
 1635640446,node,Hôtel Eddouard VII,hotel,Biarritz,,,https://www.hotel-edouardvii.com,43.479262,-1.5623341
 1635645886,node,Hôtel le Biarritz,hotel,Biarritz,,,https://www.hotel-le-biarritz.com/,43.4693977,-1.5692582
 1635645906,node,Le Ponton,restaurant,Biarritz,,,,43.469223,-1.5693349
+1691117692,node,Aux Morts pour la France (1914-1918 1939-1945),memorial,Biarritz,,,,43.4835262,-1.5684384
+1691117744,node,Rocher de la Vierge,viewpoint,Biarritz,,,,43.4843232,-1.5709229
 1895020129,node,Le Bon coin,hotel,Biarritz,,,,43.4822188,-1.5543702
 1895026557,node,Hôtel Oxo,hotel,Biarritz,,,,43.4817128,-1.5546169
 1895026566,node,Le café des artistes,restaurant,Biarritz,26 Avenue du Maréchal Foch,,https://www.cafedesartistesbiarritz.com/,43.480017,-1.5587227
 1895027968,node,Jules Verne,hotel,Biarritz,,,,43.4785287,-1.555486
+1895088892,node,,viewpoint,Biarritz,,,,43.4830046,-1.5590849
+2422908367,node,,viewpoint,Biarritz,,,,43.4678754,-1.5726369
 2425157642,node,Casa Juan Pedro,restaurant,Biarritz,,,http://casajuanpedro.com/,43.4830524,-1.565791
 2425157673,node,Chez Albert,restaurant,Biarritz,"51 Allée Port des Pêcheurs, 64200",64200,,43.4831011,-1.5653029
 2425157710,node,Le Corsaire,restaurant,Biarritz,,,,43.4831284,-1.5655281
@@ -35,6 +42,8 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2425164191,node,Crêperie,restaurant,Biarritz,,,,43.4819277,-1.5646773
 2426458192,node,Hôtel Parc Mazon,hotel,Biarritz,,,,43.4777538,-1.5622065
 2426579863,node,Les Terrasses,restaurant,Biarritz,,,,43.478538,-1.564523
+2428702318,node,Grande Amapola,artwork,Biarritz,,,,43.4793161,-1.558721
+2428702355,node,Faune,artwork,Biarritz,,,,43.4795958,-1.5603505
 2431603578,node,Maison Plaisir,restaurant,Biarritz,,,,43.4814856,-1.5585135
 2432919072,node,Chez Scott,restaurant,Biarritz,,,,43.4810214,-1.5582216
 2432919077,node,Chez Pilou,restaurant,Biarritz,,,,43.4816765,-1.5580367
@@ -42,12 +51,14 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2432919091,node,Hôtel Alcyon,hotel,Biarritz,,,,43.481241,-1.5575206
 2432919097,node,La Goulue,restaurant,Biarritz,"3 Rue Étienne Ardoin, 64200",64200,http://www.lagouluebiarritz.com/,43.4805829,-1.5583178
 2432919103,node,Sillon,restaurant,Biarritz,,,,43.4810103,-1.5584573
+2432919114,node,Légende de Biarritz,artwork,Biarritz,,,,43.4805941,-1.5586183
 2432927642,node,Helbidea - Bistrot locavore,restaurant,Biarritz,,,,43.4818909,-1.5571667
 2433987631,node,Bar Jean,restaurant,Biarritz,"5 Rue des Halles, 64200",64200,https://barjean-biarritz.fr/,43.4812782,-1.5625382
 2433987632,node,Chistera & Coquillages,restaurant,Biarritz,"13 13 Rue des Halles, 64200, Biarritz",64200,https://chisteraetcoquillages.fr/,43.4811368,-1.5618861
 2435452685,node,Bistrot des Halles,restaurant,Biarritz,,,,43.4807533,-1.5624008
 2443499141,node,Cantina Biarritz Bodega Restaurant de Nuit,restaurant,Biarritz,,,,43.4788892,-1.5622154
 2443576986,node,Hôtel Saint-Julien,hotel,Biarritz,,,https://saint-julien-biarritz.com/,43.4790298,-1.5625226
+2521282612,node,,viewpoint,Biarritz,,,,43.4940552,-1.5528906
 2702756266,node,Le Bistrot gourmet,restaurant,Biarritz,"18 Rue de la Bergerie, 64200, Biarritz",64200,https://le-bistrot-gourmet.com/,43.4860631,-1.5509466
 2702756268,node,L'Impertinent,restaurant,Biarritz,"5 Rue d'Alsace, 64200, Biarritz",64200,https://www.l-impertinent.fr/,43.486443,-1.5504442
 2796127025,node,L.M.B,restaurant,Biarritz,"58 Avenue Édouard VII, 64200, Biarritz",64200,,43.484464,-1.5568829
@@ -58,14 +69,22 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2798505764,node,Happy Days Diner,restaurant,Biarritz,"46 Avenue Édouard VII, 64200, Biarritz",64200,,43.4838587,-1.5580141
 2798505765,node,Le Bellevue,hotel,Biarritz,"5 Avenue Édouard VII, 64200, Biarritz",64200,,43.4835772,-1.5588359
 2799172201,node,La Trattoria,restaurant,Biarritz,"20 Avenue Édouard VII, 64200, Biarritz",64200,,43.4834852,-1.5584406
+3080643023,node,,viewpoint,Biarritz,,,,43.4840475,-1.5631157
+3259967790,node,,viewpoint,Biarritz,,,,43.4831667,-1.5608722
 3520082111,node,Le O2 Verdun,restaurant,Biarritz,,,,43.4818866,-1.5541852
 3703207825,node,Le Galion,restaurant,Biarritz,,,,43.4840944,-1.5583338
+3710733725,node,,viewpoint,Biarritz,,,,43.4829847,-1.5676631
+3710768127,node,Vue sur le port de Biarritz,viewpoint,Biarritz,,,,43.4826699,-1.5652627
+3713419479,node,Helice du Frans Hals,artwork,Biarritz,,,,43.4933251,-1.5541921
 3731890887,node,Pizzeria Le Capri,restaurant,Biarritz,,,https://www.lecapribiarritz.fr/,43.4826119,-1.5636938
+3731893314,node,,viewpoint,Biarritz,,,,43.4913612,-1.5523295
 3871575603,node,Leonie,restaurant,Biarritz,,,http://www.restaurant-leonie.com,43.4828825,-1.5442289
 4147089391,node,Hôtel Les Alizes,hotel,Biarritz,13 Rue du Port-Vieux,,,43.4820713,-1.5662305
+4301924529,node,Rocher de la Vierge,attraction,Biarritz,,,,43.4842074,-1.57058
 4308055395,node,Arosta,restaurant,Biarritz,52 Avenue Alan Seeger,,,43.4494188,-1.5449932
 4319202491,node,Sushiwave,restaurant,Biarritz,,,,43.4863508,-1.5500134
 4319290089,node,,restaurant,Biarritz,,,,43.4868258,-1.5502478
+4329164650,node,,viewpoint,Biarritz,,,,43.4840701,-1.5667561
 4330743199,node,La Petite Plage,restaurant,Biarritz,,,,43.4783499,-1.5645523
 4330743200,node,Arena Biarritz,restaurant,Biarritz,,,,43.4823534,-1.5671689
 4442609251,node,Txinako,restaurant,Biarritz,"4 Rue des Mésanges, 64200, Biarritz",64200,,43.4624768,-1.5392862
@@ -90,25 +109,41 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4877320066,node,L'Equinoxe,restaurant,Biarritz,,,,43.482088,-1.5663417
 4877320068,node,Les Baigneuses,hotel,Biarritz,,,,43.4822291,-1.566624
 4877320069,node,Les Baigneuses,restaurant,Biarritz,,,,43.4823065,-1.5667997
+4877320081,node,Les Armées Française de la Libération,memorial,Biarritz,,,,43.4832912,-1.5685331
+4877320086,node,,viewpoint,Biarritz,,,,43.4834027,-1.5667058
 4877320111,node,Hôtel L'Atalaye,hotel,Biarritz,,,,43.4822053,-1.5645513
 4877320112,node,La Marine,hotel,Biarritz,,,,43.4819863,-1.5645768
 4877320120,node,Bouillon Hortense,restaurant,Biarritz,11 Rue Gardères,,,43.4828281,-1.5595215
 4914369269,node,Agri Eder,hotel,Biarritz,13 Rue Peyroloubilh,,https://www.hotel-argieder.fr/,43.4807016,-1.5642316
 4914369619,node,Judicious,restaurant,Biarritz,,,,43.4818199,-1.5647688
+5031109910,node,,viewpoint,Biarritz,,,,43.4918908,-1.5525853
+5172882721,node,,viewpoint,Biarritz,,,,43.4837852,-1.5663177
 5172904422,node,Le Tandem,restaurant,Biarritz,,,,43.4827925,-1.563645
+5173004522,node,,viewpoint,Biarritz,,,,43.4838881,-1.5622527
+5711047106,node,,viewpoint,Biarritz,,,,43.4829784,-1.5611864
 5711382686,node,Barranco,restaurant,Biarritz,"Rue Gambetta, 64200, Biarritz",64200,,43.4793705,-1.5640997
 5721802022,node,La P’tite Creperie,restaurant,Biarritz,,,,43.4821592,-1.5661352
+5733461969,node,Euskal Baserria,artwork,Biarritz,,,,43.4829187,-1.5612081
+5733482126,node,Urkuku,artwork,Biarritz,,,,43.4808659,-1.5615367
+5733482127,node,La Dame de la Mer,artwork,Biarritz,,,,43.462244,-1.5708931
+5733482128,node,Cabesa de Régina,artwork,Biarritz,,,,43.4844658,-1.5571133
+5733482130,node,Arbre Main,artwork,Biarritz,,,,43.4849349,-1.5579072
+5825958094,node,Musée historique du Biarritz Olympique,museum,Biarritz,,,https://musee-historique-biarritz-olympique.fr/,43.4813157,-1.5389822
 5873254385,node,Bali Bowls,restaurant,Biarritz,"4 Rue Gaston Larre, 64200",64200,,43.4818009,-1.565721
 5927013275,node,Le Gamaritz,hotel,Biarritz,"5 Perspective Côte des Basques, 64200, Biarritz",64200,https://hotel-biarritz-gamaritz.com/,43.4816058,-1.5662182
 6041759137,node,Saline,restaurant,Biarritz,,,,43.4795604,-1.5642039
 6041813604,node,Hôtel Beau-Séjour,hotel,Biarritz,,,,43.4818365,-1.5659514
 6041849234,node,Le Saphir,hotel,Biarritz,,,,43.4817382,-1.5653975
 6076858394,node,Palais de Jade,restaurant,Biarritz,"2 Avenue de la Reine Victoria, 64200, Biarritz",64200,,43.4850217,-1.5561288
+6076889372,node,Galerie d'art Bouscayrol,gallery,Biarritz,"2 Avenue de la Reine Victoria, 64200, Biarritz",64200,,43.4850428,-1.5559917
 6166374337,node,Restaurant d'Application du Lycée Hôtelier,restaurant,Biarritz,,,,43.4624846,-1.5524381
 6274733931,node,Les 3 Salsas,restaurant,Biarritz,,,,43.4741817,-1.5642678
 6499493786,node,MORI’S,restaurant,Biarritz,,,,43.4819542,-1.5534274
+6499673516,node,,artwork,Biarritz,,,,43.4806181,-1.5553015
+6499684280,node,El Sol,artwork,Biarritz,,,,43.480873,-1.5552366
 6759476071,node,La Station,restaurant,Biarritz,,,,43.4595724,-1.5465692
 6813787753,node,La Cantine,restaurant,Biarritz,,,http://www.lacantinebiarritz.com,43.481264,-1.5585332
+6813925543,node,L'oeil de prince,gallery,Biarritz,,,,43.4811611,-1.5588928
 6813960405,node,Santosha,restaurant,Biarritz,,,,43.4817399,-1.5573723
 6814013313,node,Frozen Palm,restaurant,Biarritz,,,,43.4809838,-1.5587567
 6817376288,node,Olatua,restaurant,Biarritz,,,,43.4836712,-1.5675644
@@ -120,6 +155,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 7216291585,node,Le Campero,restaurant,Biarritz,,,,43.4821115,-1.5634264
 7275490985,node,La Belloteka,restaurant,Biarritz,,,,43.4806291,-1.5624752
 7350331594,node,You Sushi,restaurant,Biarritz,,,,43.4766224,-1.547939
+7783833885,node,,viewpoint,Biarritz,,,,43.4717018,-1.5690781
 8000143006,node,Le petit hôtel,hotel,Biarritz,,,,43.4828485,-1.5596501
 8000145796,node,OPIOM,restaurant,Biarritz,64200,64200,,43.4854606,-1.5569646
 8000147635,node,Akena,hotel,Biarritz,,,,43.4853881,-1.552392
@@ -127,19 +163,27 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 8013513985,node,Xuxu,restaurant,Biarritz,"8 bis, 64200",64200,,43.4850859,-1.5483012
 8303136846,node,Kanbar Sagardotegia,restaurant,Biarritz,"4 Rue de la Poste, 64200, Biarritz",64200,,43.4815905,-1.5606442
 8656532688,node,ahpe Restaurant,restaurant,Biarritz,"34 Avenue du Président J.F. Kennedy, 64200",64200,,43.4722663,-1.5558488
+9945840346,node,,artwork,Biarritz,,,,43.4839672,-1.5663347
+9945840349,node,,viewpoint,Biarritz,,,,43.4841127,-1.5631282
+10099318610,node,"Hera, Neptune, Gaia",artwork,Biarritz,,,,43.4826855,-1.5675541
+10099389950,node,Le M.U.R.,artwork,Biarritz,,,,43.4810268,-1.5629481
 10228958660,node,Nemea Appart'Hotel Biarritz Les Hauts de Milady,hotel,Biarritz,"24 Avenue de la Milady, 64200, Biarritz",64200,,43.4697542,-1.5682396
 10228958661,node,Lagun,restaurant,Biarritz,"28 Avenue de la Milady, 64200, Biarritz",64200,,43.4692378,-1.5684216
 10293030427,node,Sakae,restaurant,Biarritz,21 avenue du jardin public,,https://sakae-biarritz.fr,43.4800239,-1.5588162
+10294960414,node,La chapelle des surfeurs,artwork,Biarritz,,,,43.4797394,-1.5662539
+10308477675,node,,artwork,Biarritz,,,,43.4837184,-1.5669614
 10575914641,node,Hôtel VAL FLORES LOGIS,hotel,Biarritz,48 Avenue de la Marne,,https://www.hotel-valflores.com/,43.4837303,-1.548567
 10916635405,node,Aiete,restaurant,Biarritz,"22 Rue Harispe, 64200, Biarritz",64200,,43.4736917,-1.5656593
 11051513713,node,Zou,restaurant,Biarritz,,,,43.4794499,-1.5642415
 11051515125,node,Carøe,restaurant,Biarritz,,,,43.4791302,-1.5642817
 11051515127,node,California Kitchen,restaurant,Biarritz,,,,43.4793112,-1.5643474
+11065155356,node,Malibran,artwork,Biarritz,,,,43.4836735,-1.5575182
 11374350862,node,Taco del diablo,restaurant,Biarritz,,,,43.459035,-1.5409661
 11374405554,node,La table des docks,restaurant,Biarritz,,,,43.4593081,-1.5406662
 11407115894,node,Chez Isabella,restaurant,Biarritz,,,,43.4595761,-1.5405991
 11407115895,node,Casa Santa Maria,restaurant,Biarritz,,,,43.4595778,-1.5406413
 11407119003,node,So Wok,restaurant,Biarritz,,,,43.4595554,-1.5400789
+11527509259,node,Ikurrak,artwork,Biarritz,,,,43.4850303,-1.5461343
 11667048490,node,2P Gourmands Les Épicuriens,restaurant,Biarritz,,,,43.4619316,-1.5403822
 11667095518,node,Chez Anna,restaurant,Biarritz,,,,43.4625204,-1.5396242
 11898242985,node,Haragia,restaurant,Biarritz,"26 Rue Gambetta, 64200",64200,,43.481361,-1.563252
@@ -152,12 +196,40 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 11898369169,node,EPOQ,restaurant,Biarritz,"11 Rue du Helder, 64200",64200,,43.4815038,-1.5578272
 11916155408,node,Le Jap Ona,restaurant,Biarritz,"1 Rue des Hirondelles, 64200, Biarritz",64200,https://lejap-ona.com/,43.463128,-1.5397518
 12070407869,node,Café De La Place,restaurant,Biarritz,,,,43.4825711,-1.5642388
+12097122539,node,,viewpoint,Biarritz,,,,43.4577555,-1.5583773
 12228258701,node,Bimbo,restaurant,Biarritz,,,,43.4797978,-1.5584964
 12319141302,node,Harremanak - Port des Pêcheurs,restaurant,Biarritz,,,,43.4830891,-1.5649239
+12348071908,node,,artwork,Biarritz,,,https://space-invaders.com/,43.4803177,-1.5456601
+12349547800,node,,artwork,Biarritz,,,https://space-invaders.com/,43.4812033,-1.5669732
+12349557467,node,,artwork,Biarritz,,,,43.4812598,-1.5669424
+12349581361,node,,artwork,Biarritz,,,,43.4797611,-1.565236
+12349589377,node,,artwork,Biarritz,,,https://space-invaders.com/,43.4783045,-1.5579615
 12360179102,node,Polo bistrot,restaurant,Biarritz,,,https://www.polobistrot.fr/,43.4727512,-1.5560017
+12419465040,node,,artwork,Biarritz,,,https://space-invaders.com/,43.462325,-1.5726083
+12419518600,node,,artwork,Biarritz,,,https://space-invaders.com/,43.4834588,-1.5681143
+12419537297,node,,artwork,Biarritz,,,https://space-invaders.com/,43.47642,-1.5666623
+12419541088,node,,artwork,Biarritz,,,https://space-invaders.com/,43.4815566,-1.5688897
+12419541203,node,,artwork,Biarritz,,,https://space-invaders.com/,43.4793228,-1.5583947
+12419552489,node,,artwork,Biarritz,,,https://www.space-invaders.com/world/bab/,43.4822628,-1.5680015
+12419574641,node,,artwork,Biarritz,,,https://space-invaders.com/,43.4835415,-1.5624781
+12419583359,node,,artwork,Biarritz,,,https://space-invaders.com/,43.4868433,-1.5570276
+12419601880,node,,artwork,Biarritz,,,https://space-invaders.com/,43.4863878,-1.55729
+12419626475,node,,artwork,Biarritz,,,https://space-invaders.com/,43.489054,-1.5538572
+12419760542,node,,artwork,Biarritz,,,https://space-invaders.com/,43.4813128,-1.5591342
+12419769605,node,,artwork,Biarritz,,,https://space-invaders.com/,43.4818624,-1.5565185
+12469525538,node,,artwork,Biarritz,,,https://space-invaders.com/,43.4828995,-1.5608742
+12469526409,node,,artwork,Biarritz,,,https://space-invaders.com/,43.4818417,-1.5649679
+12469527632,node,,artwork,Biarritz,,,https://space-invaders.com/,43.4820417,-1.5655949
+12469536738,node,,artwork,Biarritz,,,https://space-invaders.com/,43.4835773,-1.5600154
+12469628954,node,,artwork,Biarritz,,,,43.4824754,-1.560917
+12469644194,node,,artwork,Biarritz,,,,43.4821232,-1.5608084
+12515221022,node,,artwork,Biarritz,,,,43.4793305,-1.5595049
+12516938609,node,,artwork,Biarritz,,,https://space-invaders.com/,43.4816413,-1.5638803
 12589808202,node,Bistrot Angeluan,restaurant,Biarritz,,,,43.4862168,-1.5499797
 12840736201,node,The Bayou,restaurant,Biarritz,,,,43.4852605,-1.5480897
 12843632101,node,Freya,restaurant,Biarritz,,,,43.4866559,-1.5496935
+13051977071,node,Buste de Pierre Foursans,artwork,Biarritz,,,,43.4798188,-1.5597677
+13081903464,node,,memorial,Biarritz,,,,43.4820087,-1.5603457
 13123702501,node,Le jardin,restaurant,Biarritz,"4 Avenue Jaulerry, 64200",64200,,43.4806679,-1.5601582
 13142726153,node,Ragazzi da Peppone,restaurant,Biarritz,,,,43.4816151,-1.5612728
 13142726172,node,Maison Garnier,hotel,Biarritz,,,,43.4804187,-1.5633108
@@ -165,8 +237,108 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 13261731955,node,L'Alchimie,restaurant,Biarritz,,,,43.4812324,-1.5622569
 13374083601,node,AUZOKO,restaurant,Biarritz,,,,43.4816349,-1.5588936
 13384307401,node,PIUMA,restaurant,Biarritz,,,,43.461612,-1.5401297
+13393852301,node,plaza auto sustentable Biarritz,park,Biarritz,,,,-34.7912733,-55.5097188
 13434568401,node,Sakae,restaurant,Biarritz,,,,43.4678243,-1.553373
 13481618701,node,Smashé,restaurant,Biarritz,,,https://www.smashegang.com/,43.481608,-1.5588259
+13624767754,node,,artwork,Biarritz,,,,43.4800459,-1.5620398
+13704090057,node,,artwork,Biarritz,,,https://www.instagram.com/reel/DKSiXNmCAIF/?igsh=dnNycG95bG04Zm1w,43.4824744,-1.5609051
 13786705701,node,Deoun,restaurant,Biarritz,,,,43.4740504,-1.564609
 13794964301,node,Gatxi,restaurant,Biarritz,,,,43.4810268,-1.5581426
+13833826467,node,,artwork,Biarritz,,,,43.4767288,-1.5518298
 13949695501,node,creperie biarritz sarrasin,restaurant,Biarritz,"6 Avenue de la Marne, 64200",64200,http://biarritz-sarrasin.fr,43.4840348,-1.5566769
+41647737,way,Biarritz,hotel,Biarritz,,,,-15.7901501,-47.885167
+60157439,way,Jardin Public Pierre Forsans,park,Biarritz,,,,43.4795319,-1.5595997
+60226857,way,Résidence Bellevue Plage,hotel,Biarritz,"Boulevard du Général de Gaulle, 64200, Biarritz",64200,http://www.hotel-bellevue-biarritz.com/,43.4832618,-1.5620494
+60263916,way,,park,Biarritz,,,,43.4798014,-1.5576247
+71968538,way,La Maison du Lierre,hotel,Biarritz,"3 Avenue du Jardin Public, 64200, Biarritz",64200,https://www.hotel-maisondulierre-biarritz.com/,43.480179,-1.5607591
+71971544,way,Hôtel Plaza,hotel,Biarritz,,,,43.4827956,-1.5584536
+71971802,way,Hôtel de Silhouette,hotel,Biarritz,,,https://www.hotel-silhouette-biarritz.com/,43.4810729,-1.5634143
+71974678,way,Musée Asiatica,museum,Biarritz,1 Rue Guy Petit,,,43.4781173,-1.5553425
+71976853,way,Milady Beach,restaurant,Biarritz,,,,43.4654703,-1.5739827
+71977022,way,Hôtel Sofitel Biaritz Le Miramar,hotel,Biarritz,"13 Rue Louison Bobet, 64200, Biarritz",64200,,43.4880397,-1.5542977
+71980296,way,Château Boulard,castle,Biarritz,,,,43.4749857,-1.5589476
+71981443,way,Hôtel Régina,hotel,Biarritz,"24 Avenue de l'Impératrice, 64200, Biarritz",64200,https://www.thalassa.com/fr/destination-thalasso/sejour-cures-thalasso-spa-biarritz.html,43.4912657,-1.5515938
+71984448,way,Le Garage,hotel,Biarritz,,,,43.4905843,-1.5515465
+71989797,way,Jules Verne,hotel,Biarritz,,,,43.4786411,-1.5557068
+71992480,way,Le Talaia Hôtel & Spa Biarritz,hotel,Biarritz,"1 Carrefour Helianthe, 64200, Biarritz",64200,,43.4781868,-1.5644267
+71992639,way,Musée Historique Biarritz,museum,Biarritz,,,https://www.musee-historique-biarritz.fr,43.4815599,-1.5621728
+71993102,way,Mirano,hotel,Biarritz,,,,43.4745042,-1.5526133
+71994139,way,Eugénie,hotel,Biarritz,,,,43.4697575,-1.5698808
+71994502,way,Sure Hotel,hotel,Biarritz,,,https://surehotel-biarritz.com/,43.4718873,-1.5347487
+71996554,way,Phare de la Pointe Saint-Martin,viewpoint,Biarritz,,,https://tourisme.biarritz.fr/fr/que-faire/sites-et-musees/le-pharedecouvrir,43.4937661,-1.5539002
+71996616,way,Marloe Biarritz,restaurant,Biarritz,"45 Avenue du Président J.F. Kennedy, 64200, Biarritz",64200,https://marloe-biarritz.fr/,43.4730086,-1.5560989
+71997657,way,Gare du Midi,attraction,Biarritz,,,,43.479483,-1.5579338
+71998846,way,Le Château Du Clair De Lune,hotel,Biarritz,,,https://www.hotelclairlune.fr/,43.4497162,-1.5467465
+72023447,way,Amarys,restaurant,Biarritz,,,https://surehotel-biarritz.com/fra/restaurants,43.4722104,-1.5348081
+121216027,way,Portu zaharra,beach,Biarritz,,,,43.4835449,-1.5633731
+121216042,way,,beach,Biarritz,,,,43.4836792,-1.5626282
+121230997,way,Plage du Miramar,beach,Biarritz,,,,43.4910564,-1.553047
+121832048,way,,park,Biarritz,,,,43.4630563,-1.575003
+121832050,way,Plage de la Milady,beach,Biarritz,,,,43.4641929,-1.5756379
+126604091,way,Square Jean-Baptiste Lassalle,park,Biarritz,,,,43.4753432,-1.5664025
+137667561,way,Parc Mazon,park,Biarritz,,,,43.4775364,-1.5615151
+156866423,way,Grande Plage,beach,Biarritz,,,,43.4853231,-1.5591981
+156866444,way,Plage du Port Vieux,beach,Biarritz,,,,43.4825239,-1.5679242
+156866495,way,Plage du Miramar,beach,Biarritz,,,,43.4882982,-1.5555127
+233206440,way,Jardin des Rocailles,park,Biarritz,,,,43.480754,-1.5549951
+233243259,way,Hôtel du Palais,hotel,Biarritz,"Avenue de l'Impératrice, 64200, Biarritz",64200,https://www.hyatt.com/en-US/hotel/france/hotel-du-louvre/paraz,43.4864401,-1.5562146
+234747198,way,Square Pierre Foursans,park,Biarritz,,,,43.4795505,-1.5596347
+236296273,way,Jardin Public Natacha,park,Biarritz,,,,43.4735347,-1.558583
+249245278,way,Plage de la Marbellla,beach,Biarritz,,,,43.4678214,-1.5735163
+250242717,way,La Cité de l'Océan,museum,Biarritz,"1 Avenue de la Plage, 64210, Biarritz",64210,https://www.citedelocean.com,43.4621033,-1.5723167
+319403762,way,Square Ferdinand Hirigoyen,park,Biarritz,,,,43.4872891,-1.5488571
+372217507,way,Jardin Pauline Carton,park,Biarritz,,,,43.4825133,-1.554661
+420035346,way,,park,Biarritz,,,,43.4838132,-1.5672366
+420035349,way,,park,Biarritz,,,,43.4836325,-1.5669503
+420035350,way,Esplanade des Anciens Combattants,park,Biarritz,,,,43.483539,-1.5685198
+420884245,way,Café de la Grande Plage,restaurant,Biarritz,,,,43.4838425,-1.5596551
+600773803,way,,garden,Biarritz,,,,43.4767421,-1.565476
+601668875,way,,garden,Biarritz,,,,43.4830878,-1.5637234
+601668878,way,,garden,Biarritz,,,,43.4830608,-1.5641748
+601668880,way,,garden,Biarritz,,,,43.4829836,-1.5636192
+604164982,way,,garden,Biarritz,,,,43.4826895,-1.5613501
+604164983,way,,garden,Biarritz,,,,43.4826697,-1.5611422
+604317522,way,,park,Biarritz,,,,43.4780734,-1.5548108
+609224848,way,,garden,Biarritz,,,,43.4820689,-1.5639221
+609224849,way,,garden,Biarritz,,,,43.4822556,-1.5639337
+609224851,way,,garden,Biarritz,,,,43.4821242,-1.563926
+609224852,way,,garden,Biarritz,,,,43.4826611,-1.5644742
+641577843,way,Le Grand Large,hotel,Biarritz,,,,43.4807534,-1.5650134
+701230429,way,Jardin Lahouze,park,Biarritz,,,,43.4798403,-1.5460988
+720477555,way,,park,Biarritz,,,,43.4809003,-1.5481548
+797363592,way,Square Docteur André Lafaille,park,Biarritz,,,,43.4844056,-1.5447729
+798094411,way,,park,Biarritz,,,,43.4834946,-1.5576121
+798094412,way,,park,Biarritz,,,,43.4831908,-1.5577302
+798094413,way,,park,Biarritz,,,,43.4832192,-1.55742
+798094414,way,,park,Biarritz,,,,43.4835919,-1.5573515
+798094415,way,,park,Biarritz,,,,43.4836885,-1.5575958
+798094416,way,,park,Biarritz,,,,43.4837194,-1.5573733
+807090951,way,,beach,Biarritz,,,,43.4835177,-1.5615147
+810316214,way,,park,Biarritz,,,,43.4787937,-1.5576347
+810316215,way,,park,Biarritz,,,,43.4790923,-1.5578789
+810435333,way,,park,Biarritz,,,,43.4671947,-1.5712093
+857710277,way,Jardin des Thermes Salins,park,Biarritz,"Avenue de la Reine Victoria, 64200, Biarritz",64200,,43.4849818,-1.5463723
+897462990,way,,park,Biarritz,,,,43.4495411,-1.5537341
+911358270,way,,park,Biarritz,,,,43.4585686,-1.5524708
+957873505,way,,park,Biarritz,,,,43.476873,-1.5614391
+958145790,way,,park,Biarritz,,,,43.493159,-1.5528343
+958145791,way,,park,Biarritz,,,,43.492974,-1.5526771
+958145792,way,,park,Biarritz,,,,43.4925835,-1.5524598
+958145793,way,,park,Biarritz,,,,43.491986,-1.5520954
+958145794,way,,park,Biarritz,,,,43.4915454,-1.5520585
+958145795,way,,park,Biarritz,,,,43.4913491,-1.552151
+958145796,way,,park,Biarritz,,,,43.4912037,-1.5522761
+974233833,way,Place Pierre Pradier,park,Biarritz,,,,43.4744223,-1.563636
+1056456888,way,,park,Biarritz,,,,43.4728898,-1.5648263
+1117821317,way,Jardins de la Grande Plage,park,Biarritz,,,,43.4852255,-1.5577491
+1135423508,way,,park,Biarritz,,,,43.4849248,-1.5578967
+1153998096,way,,garden,Biarritz,,,,43.4788246,-1.5518661
+1425785932,way,,garden,Biarritz,,,,43.4800512,-1.5497188
+1433569848,way,Biarritz,restaurant,Biarritz,,,,36.2986913,-5.2698755
+1446187878,way,Biarritz,hotel,Biarritz,,,,38.4933847,-122.4069923
+1535565258,way,Jardin de Grammont,garden,Biarritz,,,https://www.biodiverscite.fr/lieu-biodiverscite/jardin-de-grammont/,43.4751911,-1.5518963
+2469856,relation,Playa Biarritz,beach,Biarritz,,,,-34.7958352,-55.5162004
+2856392,relation,Parc du Lac Marion,park,Biarritz,,,,43.466257,-1.5493731
+14543664,relation,,garden,Biarritz,,,,43.4598658,-1.5463628
+14901289,relation,Square Edouard VII,park,Biarritz,,,,43.4852255,-1.5577491
+15009347,relation,,park,Biarritz,,,,43.4824971,-1.5652332

@@ -2,12 +2,21 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1601476116,node,Hôtel du Cheval Blanc,hotel,Honfleur,,,,49.4216072,0.2337451
 1789930038,node,La Cidrerie,restaurant,Honfleur,,,https://www.creperie-lacidrerie-honfleur.com/,49.4214397,0.2327889
 1998280815,node,La Ferme Saint-Simeon,hotel,Honfleur,,,https://www.fermesaintsimeon.fr/,49.4237756,0.2246561
+2571394693,node,Château de la Fontaine Saint-Léger,castle,Honfleur,,,,49.3094629,0.2026138
 2913282406,node,Le Lingot,restaurant,Honfleur,,,https://www.lelingothonfleur.com/,49.4215807,0.2319646
 2913282411,node,La Lieutenance,restaurant,Honfleur,,,https://www.restaurant-honfleur.com/,49.4214428,0.2323851
 2913282412,node,La Maison Bleue,restaurant,Honfleur,"Quai Saint-Étienne, 14600, Honfleur",14600,,49.4195819,0.2334239
 2913282416,node,Le Corsaire,restaurant,Honfleur,,,,49.421547,0.2320692
 2913282421,node,Le Week-end,restaurant,Honfleur,,,,49.4195285,0.2334972
+2913284693,node,Albert SOREL,memorial,Honfleur,,,,49.4193533,0.2333311
 2917363062,node,Le Vieux Honfleur,restaurant,Honfleur,13 Quai Saint-Étienne,,https://www.vieuxhonfleur.fr/,49.4196923,0.2335169
+2917398454,node,Musée Satie,museum,Honfleur,Rue Haute,,https://www.musees-honfleur.fr/menucacher.html,49.4235042,0.2306695
+3022190005,node,Mont-Joli,viewpoint,Honfleur,,,,49.4200495,0.2255576
+3656671251,node,,castle,Honfleur,,,,49.3279683,0.3146333
+4377367191,node,Musée Eugène Boudin,museum,Honfleur,Rue de l'Homme de Bois,,https://www.musees-honfleur.fr/,49.4223549,0.2305791
+4479342404,node,Monument Notre-Dame de Grâce,memorial,Honfleur,,,,49.4200694,0.2254537
+4715082413,node,Mémorial aux marins perdus en mer,memorial,Honfleur,,,,49.4263646,0.2316086
+4859354356,node,Avant-port,attraction,Honfleur,,,,49.4225742,0.2349904
 5027200522,node,,restaurant,Honfleur,,,,49.4217804,0.2323048
 5027200526,node,L'Escale,restaurant,Honfleur,,,,49.4197059,0.2350339
 5027200527,node,Le Bistro du Port,restaurant,Honfleur,12,,,49.4198507,0.2351814
@@ -17,24 +26,73 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5292333606,node,Crêperie Sainte-Catherine,restaurant,Honfleur,,,,49.4208925,0.232847
 5292335699,node,Le Petit Bistrot,restaurant,Honfleur,,,,49.4199337,0.2321736
 5292336484,node,Acte II,restaurant,Honfleur,,,,49.4189472,0.2345468
+5508117230,node,Hôtel des ventes de Honfleur,attraction,Honfleur,14600,14600,http://www.honfleur-encheres.fr,49.4182957,0.2288608
 5685236634,node,La Maison de Pierre & Valerie,hotel,Honfleur,,,https://www.lmdpv.com/fr,49.4205015,0.228437
 5685236642,node,Ferme de la grande cour,hotel,Honfleur,,,,49.4211375,0.2189809
 5685252314,node,Hôtel Monet,hotel,Honfleur,,,https://www.hotel-monet-honfleur.com/,49.4189941,0.2264446
+5888837517,node,,memorial,Honfleur,,,,49.418225,0.2351226
 6239495024,node,Le Bréard,restaurant,Honfleur,7,,,49.4207873,0.2318528
 6239521267,node,Le manoir des impressionnistes,hotel,Honfleur,,,https://www.manoirdesimpressionnistes.fr/,49.4239827,0.2166977
+6567648285,node,,viewpoint,Honfleur,,,,49.4206383,0.2340067
+6567648485,node,,viewpoint,Honfleur,,,,49.4196117,0.2326872
 6567674985,node,Brasserie de l'Église,restaurant,Honfleur,,,,49.4215335,0.2321336
+6567763285,node,Le Jardín du Tripot,attraction,Honfleur,,,,49.4188354,0.232635
 6629729592,node,L'Ostrea,restaurant,Honfleur,"3 Quai Saint-Étienne, 14600",14600,,49.4206543,0.2343313
 6660724983,node,La Cantine,restaurant,Honfleur,,,,49.4216592,0.2330501
+6684769941,node,Charles V le Sage,memorial,Honfleur,,,,49.4280685,0.2251272
+6684769942,node,Claude Monet,memorial,Honfleur,,,,49.4279032,0.2251621
+6684769943,node,Eugène Boudin,memorial,Honfleur,,,,49.4280149,0.2257347
+6684769944,node,"Marie-Catherine, le Jumel de Barneville",memorial,Honfleur,,,,49.4279285,0.2263959
+6684769945,node,Albert Sorel,memorial,Honfleur,,,,49.4279119,0.2283887
+6684769946,node,Pierre Berthelot,memorial,Honfleur,,,,49.4279939,0.22837
+6684769947,node,Binot Paulmier de Gonneville,memorial,Honfleur,,,,49.4278439,0.2289829
+6684769948,node,Alphonse Allais,memorial,Honfleur,,,,49.4279573,0.2290164
+6684769949,node,Lucie Delarue-Mardrus,memorial,Honfleur,,,,49.4279791,0.2296024
+6684769950,node,Erik Satie,memorial,Honfleur,,,,49.4279773,0.2299994
+7179675885,node,Musée d'Ethnographie,museum,Honfleur,"Rue de la Prison, 14600",14600,https://www.musees-honfleur.fr/,49.4196131,0.233695
+7276645812,node,Baron Léonard B. Motard,memorial,Honfleur,,,,49.4273633,0.2254705
+7276645846,node,Jean Doublet,memorial,Honfleur,,,,49.4280436,0.2244218
+7276645847,node,Alexandre Olivier Exmelin,memorial,Honfleur,,,,49.4280489,0.2242769
+7276645848,node,Louis-Alexandre Dubourg,memorial,Honfleur,,,,49.4280358,0.2270946
+7276645849,node,Anne-Marie Louise d'Orléans,memorial,Honfleur,,,,49.4280358,0.2265903
+7276645850,node,Johan Barthold Jongkind,memorial,Honfleur,,,,49.428034,0.2263637
+7276645851,node,Charles Baudelaire,memorial,Honfleur,,,,49.4280506,0.2260606
+7276645860,node,Léon Leclerc,memorial,Honfleur,,,,49.4279678,0.2268988
+7276645888,node,Jean-Baptiste Colbert,memorial,Honfleur,,,,49.4279089,0.2286281
+7276645889,node,Samuel de Champlain,memorial,Honfleur,,,,49.4279773,0.2287683
+7276645997,node,Françoise Sagan,memorial,Honfleur,,,,49.4271757,0.2288944
+7276645998,node,Michel Serrault,memorial,Honfleur,,,,49.4271775,0.2285296
+7276677622,node,Morpho bleu,attraction,Honfleur,,,,49.4257369,0.2293637
+7276677623,node,Ptilope Superbe,attraction,Honfleur,,,,49.425757,0.2292189
+7276677624,node,Goura de Victoria,attraction,Honfleur,,,,49.4256462,0.2293007
+7276677625,node,Loriquet de Swainson,attraction,Honfleur,,,,49.4257208,0.229408
+7276677626,node,Ptilope Porphyre,attraction,Honfleur,,,,49.4257286,0.2291653
+7276677627,node,Loriquet de Goldie,attraction,Honfleur,,,,49.4257155,0.2294683
+7276677628,node,Touraco joues blanches,attraction,Honfleur,,,,49.4255978,0.2295173
+7276677629,node,Pigeon de Nicobar,attraction,Honfleur,,,,49.4257681,0.2293145
+7276677630,node,Diamand de Gould,attraction,Honfleur,,,,49.4256972,0.2292243
+7276677631,node,Rouloul couronné,attraction,Honfleur,,,,49.4256501,0.229473
+7276677632,node,Carpes Koï,attraction,Honfleur,,,,49.4256963,0.2293758
+7276677633,node,Paddas de Java,attraction,Honfleur,,,,49.4256806,0.2294791
+7276677634,node,Divers papillons,attraction,Honfleur,,,,49.4257005,0.2293091
 7637994785,node,Les pieds dans l'herbe,restaurant,Honfleur,,,,49.4136042,0.2479169
+7725597908,node,,memorial,Honfleur,,,,49.3924242,0.2971848
+7752543625,node,,viewpoint,Honfleur,,,,49.4235578,0.2218944
+7833701685,node,,viewpoint,Honfleur,,,,49.4214701,0.234412
+8322050027,node,,memorial,Honfleur,,,,49.3479934,0.187028
 8874255796,node,La Chaumière,hotel,Honfleur,,,,49.4192898,0.199838
 8883360061,node,Auberge du Moulin Saint-Georges,restaurant,Honfleur,,,http://www.moulinsaintgeorges.com/,49.4061259,0.1704552
+8883499897,node,,memorial,Honfleur,,,,49.4067511,0.1769594
 8928138307,node,L'Endroit,restaurant,Honfleur,"3 Rue Paul et Charles Bréard, 14600, Honfleur",14600,https://www.restaurantlendroithonfleur.com/,49.4182055,0.2332404
+9025971714,node,,memorial,Honfleur,,,,49.4068978,0.2737112
 9263497206,node,SaQuaNa,restaurant,Honfleur,"22, 14600, Honfleur",14600,https://saquana.fr/,49.4215589,0.2327624
 9711463717,node,Le Café de Paris,restaurant,Honfleur,,,,49.4214693,0.2335516
 9739579321,node,Les Deux Ponts,restaurant,Honfleur,,,https://lesdeuxponts-honfleur.fr/,49.4196365,0.2354509
 9772591313,node,Coup De Fourchette,restaurant,Honfleur,"3 Route de Rouen, 14600, La Rivière-Saint-Sauveur",14600,,49.4076164,0.2736147
 9927443681,node,Woke up,restaurant,Honfleur,,,,49.4105081,0.2515346
 9930085966,node,O5,restaurant,Honfleur,,,,49.4118832,0.2526512
+9959622348,node,,artwork,Honfleur,,,,49.4185449,0.2348699
+9959622349,node,Fontaine des Moulières,artwork,Honfleur,,,,49.4186934,0.2340333
 9980434846,node,L'Enclos,restaurant,Honfleur,,,,49.4190193,0.2344776
 10016216917,node,Hôtel du Dauphin,hotel,Honfleur,,,https://hotel-du-dauphin.com/,49.4205933,0.2321229
 10016217017,node,L’Huître Brûlée,restaurant,Honfleur,,,https://www.huitrebrulee.com/,49.4204751,0.2319457
@@ -44,18 +102,27 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 10147414417,node,L'Art du Bistrot,restaurant,Honfleur,,,,49.4214742,0.2322963
 10210530723,node,L'Oxalis,restaurant,Honfleur,"2, 14600, Honfleur",14600,https://www.oxalis-honfleur.fr/,49.4200602,0.2348533
 10984908375,node,J'en Crêpe D'envie,restaurant,Honfleur,"5 Rue Haute, 14600, Honfleur",14600,,49.4217646,0.2327513
+11021665933,node,,artwork,Honfleur,,,,49.4185106,0.2330556
+11021666000,node,,artwork,Honfleur,,,,49.4187142,0.2328685
+11021769331,node,,memorial,Honfleur,,,,49.4148365,0.2261192
 11031937132,node,Le Merle Blanc,restaurant,Honfleur,,,,49.3867938,0.2392551
 11089146159,node,Il Parasole,restaurant,Honfleur,,,https://www.ilparasole.com/,49.4217503,0.2329165
+11089146619,node,Art Gallery Varvara Bracho,gallery,Honfleur,"11 Rue Haute, 14600, Honfleur",14600,https://varvara-bracho.com/home/,49.4218882,0.2325854
 11089146625,node,Cap 42,restaurant,Honfleur,,,,49.4206401,0.2326214
 11089146688,node,Au P'tit Mareyeur,restaurant,Honfleur,,,,49.4217889,0.2328604
 11089146796,node,Le Bistro de 2 Mains,restaurant,Honfleur,,,https://lebistrode2mains.com/,49.4206045,0.2326095
+11089146808,node,La p'tite galerie,gallery,Honfleur,,,https://www.laptitegalerie.net/,49.4213925,0.2318206
+11089147179,node,Espace Expressions,gallery,Honfleur,,,http://www.espace-expressions.fr/,49.4222124,0.2323131
 11089147240,node,Le café du port,restaurant,Honfleur,"7 Rue Haute, 14600, Honfleur",14600,,49.4218061,0.2326929
 11186609096,node,Les Cascades,restaurant,Honfleur,,,,49.4191517,0.2342516
 11186609097,node,Les marmottes,restaurant,Honfleur,,,,49.419212,0.2342489
+11681652426,node,,memorial,Honfleur,,,,49.3837427,0.2439761
 11704293850,node,Entre terre et mer,hotel,Honfleur,,,https://www.hotel-centre-honfleur.com/,49.4214912,0.2329722
 11704294720,node,Côté Resto,restaurant,Honfleur,,,https://www.cote-resto-honfleur.com,49.4213932,0.2325679
+11704294751,node,Jingle,gallery,Honfleur,"12 Place Pierre Berthelot, 14600, Honfleur",14600,https://www.artjingle.com/,49.4205206,0.2321878
 11736235941,node,Manoir de le poterie,hotel,Honfleur,chemin Paul Ruel,,,49.4028452,0.1424008
 11738302835,node,Le Louis XVI,restaurant,Honfleur,,,,49.4028309,0.1425328
+11745468491,node,E. Boudin,artwork,Honfleur,,,,49.423036,0.2332846
 11838465670,node,L'alcyone,restaurant,Honfleur,,,,49.4187095,0.2336659
 11838465671,node,Au Relais des Cyclistes,restaurant,Honfleur,,,,49.4186612,0.2336886
 11838465675,node,All Seasons Honfleur,hotel,Honfleur,,,,49.4190469,0.2353932
@@ -63,6 +130,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 11838465682,node,,restaurant,Honfleur,,,,49.4122779,0.2525973
 11838829888,node,Au Val d'Auge,restaurant,Honfleur,"15 Rue des Brioleurs, 14130, Saint-Gatien-des-Bois",14130,https://pizzeria-auvaldauge.com/,49.348162,0.1853929
 11838845745,node,Auberge Le Cheval Blanc,hotel,Honfleur,"35 Rue des Brioleurs, 14130, Saint-Gatien-des-Bois",14130,,49.3483126,0.1846542
+11883177001,node,,memorial,Honfleur,,,,49.4198302,0.2358878
 11893562569,node,Laurence,restaurant,Honfleur,,,,49.4210053,0.2312991
 11998996263,node,Ibis Honfleur,hotel,Honfleur,"Cours Jean de Vienne, 14600, Honfleur",14600,https://all.accor.com/hotel/5645/index.fr.shtml,49.4141379,0.246444
 12060113088,node,Entre Terre et Mer,restaurant,Honfleur,"12 Place Hamelin, 14600, Honfleur",14600,https://www.entreterreetmer-honfleur.com/,49.4216222,0.2330999
@@ -72,7 +140,9 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 12146104260,node,Brasserie Les 4G,restaurant,Honfleur,"Avenue de Normandie, 14600, Honfleur",14600,,49.416295,0.2652806
 12182632293,node,Sauvage,restaurant,Honfleur,,,,49.4177843,0.2313978
 12257733688,node,La Fleur de Sel,restaurant,Honfleur,,,https://www.lafleurdesel-honfleur.com/,49.4220016,0.2324344
+12378956803,node,,monument,Honfleur,,,,49.4193563,0.2333351
 12378956809,node,Le Fleuron,restaurant,Honfleur,,,https://www.lefleuron-honfleur.fr/,49.419233,0.2330518
+12473622884,node,,castle,Honfleur,,,,49.4225519,0.224157
 12514063291,node,Hyppocampe,restaurant,Honfleur,,,,49.4205463,0.2325839
 12514063292,node,Le Bistro à Crèpes,restaurant,Honfleur,,,,49.4217992,0.2338982
 12514063293,node,Cercle Vert,restaurant,Honfleur,,,,49.4202552,0.2284748
@@ -86,12 +156,15 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 12860285575,node,Chez Pierrot,restaurant,Honfleur,84 Quai Sainte-Catherine,,https://www.chez-pierrot-honfleur.fr/,49.4198065,0.2320917
 12860285576,node,La P'Tite Voile,restaurant,Honfleur,,,,49.4200922,0.2322859
 12860285579,node,Crêperie La Trinquette,restaurant,Honfleur,,,,49.420256,0.2323961
+12860285581,node,Galerie Mouce,gallery,Honfleur,,,https://www.mouceghazavi.com/,49.420344,0.2324446
 12860285583,node,Perroquet Vert,restaurant,Honfleur,,,,49.4204703,0.2325203
 12860285584,node,Le Marin,restaurant,Honfleur,38 Quai Sainte-Catherine,,,49.4207089,0.2326603
 12860285587,node,Loula's Coffee,restaurant,Honfleur,30 Quai Sainte-Catherine,,,49.4208707,0.2328013
 12860285588,node,Le Sainte-Catherine,restaurant,Honfleur,24 Quai Sainte-Catherine,,,49.420939,0.2329064
+12862592999,node,,memorial,Honfleur,,,,49.3370736,0.3075789
 12873498225,node,L'Envie,restaurant,Honfleur,"14 Place de la Porte de Rouen, 14600",14600,,49.4185888,0.2337344
 12873498226,node,L'Assiette Gourmande,restaurant,Honfleur,,,,49.4188184,0.2336071
+12875296495,node,La mora,museum,Honfleur,,,,49.4226088,0.2360189
 13022805270,node,La Ferronnerie,restaurant,Honfleur,,,https://laferronnerie.fr/fr,49.4225779,0.2324656
 13026793045,node,La Ferronnerie,restaurant,Honfleur,"19 Place Augustin Normand, 14600, Honfleur",14600,https://laferronnerie.fr/,49.4220948,0.2332834
 13100275275,node,La Cour Sainte-Catherine,hotel,Honfleur,,,,49.4205104,0.2287215
@@ -99,7 +172,74 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 13100275277,node,La Maison de Lucie,hotel,Honfleur,,,https://www.lamaisondelucie.com/,49.4218119,0.2296981
 13177204243,node,Sissi et Voltaire,restaurant,Honfleur,"Place Saint-Léonard, 14600, Honfleur",14600,,49.4177777,0.2341077
 13353106067,node,Albertine,restaurant,Honfleur,,,https://www.albertinehonfleur.fr/,49.41577,0.2301298
+13545154611,node,,memorial,Honfleur,,,,49.3702675,0.2748372
+13545154612,node,,memorial,Honfleur,,,,49.3569219,0.2352512
+13546833737,node,,memorial,Honfleur,,,,49.3927966,0.2083004
+13546833738,node,,memorial,Honfleur,,,,49.3881684,0.1872355
 13576105964,node,La Mère Poule,restaurant,Honfleur,,,,49.4190458,0.2320498
 13703016171,node,Amore Mio,restaurant,Honfleur,,,http://amore-mio-restaurant-honfleur.metro.biz,49.4213701,0.2331841
+13703016173,node,Galerie d'art Ewa Dabrowska,gallery,Honfleur,42 Rue de l'Homme de Bois,,,49.4223679,0.2314139
 13732112100,node,Creperie Des Arts,restaurant,Honfleur,,,,49.4207335,0.2316434
+13732133603,node,Atelier H,gallery,Honfleur,,,,49.4207778,0.2314141
+13819250085,node,Albert MANUEL,memorial,Honfleur,,,,49.4170079,0.2304862
+13824765669,node,,memorial,Honfleur,,,,49.4148967,0.2256588
+13825125004,node,,memorial,Honfleur,,,,49.3567832,0.2355007
 13982546200,node,4 mâts,restaurant,Honfleur,,,,49.4196528,0.2345778
+13982588407,node,Daniel Lallemand,gallery,Honfleur,,,,49.419674,0.2349625
+104078999,way,Parc des loisirs,park,Honfleur,"320 Rue Saint-Jean, G0R 1N0, Honfleur",G0R 1N0,,46.6562349,-70.8822182
+136764016,way,Ibis budget Honfleur Centre Ville,hotel,Honfleur,Rue des Vases,,,49.418399,0.237814
+136764486,way,Le Gambetta,restaurant,Honfleur,"58 Rue Haute, 14600, Honfleur",14600,,49.422906,0.231286
+136764656,way,,hotel,Honfleur,,,,49.419756,0.2351555
+136765051,way,La Lieutenance,attraction,Honfleur,,,,49.421011,0.2335244
+136765155,way,Saint-Delis,hotel,Honfleur,,,https://hotel-saint-delis.fr,49.420454,0.2302795
+136765306,way,Le Rituel,hotel,Honfleur,,,https://www.lerituel-honfleur.fr/,49.4155902,0.2302517
+136765558,way,Manoir du Désert,castle,Honfleur,,,,49.406469,0.2368275
+136767599,way,Manoir de Conti en pans de bois à Vasouy,castle,Honfleur,,,,49.4188421,0.197749
+136767761,way,La Mora,attraction,Honfleur,"2 Jetée de l'Est, 14600, Honfleur",14600,https://www.la-mora.org/,49.4224911,0.2362016
+136770668,way,Musée de la Marine,museum,Honfleur,,,https://www.musees-honfleur.fr/,49.419722,0.233732
+136770671,way,Naturospace,zoo,Honfleur,"Boulevard Charles V, 14600, Honfleur",14600,https://www.naturospace.com/,49.4256585,0.2293605
+136771109,way,Mercure,hotel,Honfleur,,,,49.418265,0.2381215
+136772348,way,Oncle Scott,restaurant,Honfleur,"Cours Jean de Vienne, 14600, Honfleur",14600,,49.4149221,0.2467901
+136773936,way,L'Invitation au Voyage,hotel,Honfleur,,,https://linvitationauvoyagehonfleur.com,49.4195328,0.234828
+146931195,way,Jardin des Personnalités,park,Honfleur,,,,49.4269066,0.2276564
+177656458,way,Les Jardins de Coppelia,hotel,Honfleur,"478 Route du Bois du Breuil, 14600, Pennedepie",14600,https://jardins-coppelia.com/fr/,49.403675,0.1783065
+263095985,way,Campanile,restaurant,Honfleur,,,,49.4107775,0.2539095
+263096308,way,B&B Hôtel,hotel,Honfleur,"Chemin du banc, 14600, La Rivière-Saint-Sauveur",14600,https://www.hotel-bb.com/fr/-/hotelByName.htm?id=4335,49.4107131,0.2598852
+263096323,way,Antarès,hotel,Honfleur,,,,49.4096935,0.252284
+263098209,way,Première Classe,hotel,Honfleur,,,,49.411586,0.251091
+263175718,way,Blockhaus de la gare,museum,Honfleur,"2 Quai Fernand Herbo, 14600, Honfleur",14600,http://www.blockhausdelagare.fr/,49.417556,0.2421245
+263179962,way,Château d'Ablon,castle,Honfleur,,,,49.388471,0.301181
+286155183,way,Château de Barneville,castle,Honfleur,,,,49.38857,0.1874814
+287218931,way,Tulip Inn Hotel,hotel,Honfleur,,,https://tulip-inn-honfleur.goldentulip.com/fr-fr/,49.4155207,0.2433029
+287758567,way,,memorial,Honfleur,,,,49.4171156,0.2305172
+296843976,way,Arboretum du Val de l'Air,park,Honfleur,,,,49.3381008,0.2219337
+359758742,way,L'Assiette des Mondes,restaurant,Honfleur,,,,49.399546,0.214514
+359758765,way,Pavillon de la Reine,castle,Honfleur,,,,49.40993,0.216185
+451301764,way,Jardin Retrouvé,park,Honfleur,,,,49.4243072,0.2322583
+498345441,way,,park,Honfleur,,,,46.653789,-70.8830771
+551429362,way,,park,Honfleur,,,,49.4183017,0.2352373
+551429363,way,,park,Honfleur,,,,49.4180073,0.235133
+624113097,way,Plage de Butin,beach,Honfleur,,,,49.4197131,0.1962554
+627583462,way,,beach,Honfleur,,,,49.4290934,0.134946
+709603963,way,,park,Honfleur,,,,49.3949307,0.2415812
+827593263,way,Campanile,hotel,Honfleur,,,,49.4105297,0.2537926
+867275463,way,,park,Honfleur,,,,49.4101735,0.2647482
+972632977,way,Hôtel Eden Spa,hotel,Honfleur,"Avenue de Normandie, 14600, Honfleur",14600,https://www.hoteledenspa.com/,49.4138411,0.2645623
+975366029,way,Place de la Mairie,park,Honfleur,,,,49.4077133,0.2717116
+1076537058,way,,garden,Honfleur,,,,49.4197047,0.2291635
+1076537059,way,,garden,Honfleur,,,,49.419601,0.2287655
+1076537064,way,L'Ecrin,hotel,Honfleur,"19, 14600, Honfleur",14600,,49.4197161,0.2289983
+1099819116,way,,garden,Honfleur,,,,49.3965831,0.1551086
+1099838882,way,,garden,Honfleur,,,,49.3998342,0.1668848
+1099838885,way,,garden,Honfleur,,,,49.4017551,0.1659661
+1099838886,way,,garden,Honfleur,,,,49.4008058,0.1686389
+1099855676,way,,garden,Honfleur,,,,49.4009942,0.1517594
+1099855677,way,,garden,Honfleur,,,,49.3977166,0.1546109
+1099865276,way,,garden,Honfleur,,,,49.3896647,0.1877011
+1099871622,way,,garden,Honfleur,,,,49.3780496,0.1674407
+1099871623,way,,garden,Honfleur,,,,49.3777178,0.1690244
+1186723491,way,,garden,Honfleur,,,,49.4176279,0.2280767
+1375008582,way,,garden,Honfleur,,,,49.4082057,0.2472099
+1389552644,way,Square Morchard Bishop,park,Honfleur,,,,49.3481932,0.186439
+1420418742,way,Le Victoria,restaurant,Honfleur,"Rue Jean Lepeudry, 14600, Honfleur",14600,https://www.restaurantlevictoria.fr/,49.4233495,0.2552359
+7250438,relation,Manoir Quiquengrogne,castle,Honfleur,,,,49.419076,0.2294615

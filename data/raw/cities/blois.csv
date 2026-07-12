@@ -1,24 +1,43 @@
 osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+253315552,node,,memorial,Blois,,,,47.9106211,1.5288031
+267385297,node,,viewpoint,Blois,,,,47.6185784,1.5377104
 267385690,node,La Chanterelle,restaurant,Blois,,,https://chanterelle.eatbu.com/?lang=fr,47.6725465,1.5285287
 295875660,node,Le Rhinocéros,restaurant,Blois,,,,47.6839896,1.557269
+295879199,node,Château de Villesavin,castle,Blois,,,https://www.chateau-de-villesavin.fr/,47.546477,1.5141808
 567442257,node,Hostellerie du Château,hotel,Blois,2 Rue Maréchal de Lattre,,https://domaine-des-chateaux.fr,47.4816621,1.1889173
+751328873,node,,castle,Blois,,,,47.5102745,1.4155743
 813478129,node,Hôtel du Bellay,hotel,Blois,,,,47.5885787,1.3304976
 821527912,node,Le comptoir des tilleuls,restaurant,Blois,41150,41150,https://domaine-chaumont.fr/fr/hotel-restaurants/le-comptoir-des-tilleuls,47.4767753,1.1823905
+920062067,node,,memorial,Blois,,,,47.4385355,1.2962779
 920073793,node,L'Herbe Rouge,restaurant,Blois,,,,47.4697083,1.2685854
+920074895,node,Monument aux Morts,memorial,Blois,,,,47.4707498,1.2630029
+920089597,node,Cimetière des Chiens,attraction,Blois,,,,47.4771949,1.1861438
+920304133,node,,viewpoint,Blois,,,,47.4793252,1.1818014
+921798412,node,,viewpoint,Blois,,,,47.6185287,1.5299747
+941446510,node,,memorial,Blois,,,,47.4753771,1.2909749
 965900882,node,Le Concorde,restaurant,Blois,,,,47.6821218,1.2074695
 1029795178,node,La Flambée,restaurant,Blois,,,,47.6707347,1.2380421
+1033812843,node,Pont Romain,ruins,Blois,,,,47.5454503,1.3835516
+1372735872,node,Monument aux Morts,memorial,Blois,,,,47.5270463,1.3836602
 1414585283,node,Loire Kafé,restaurant,Blois,"Lac de Loire D951, 41350, Vineuil",41350,http://traineurs-de-loire.com/loirekafe/,47.607778,1.3751886
 1436569468,node,Au bouchon Lyonnais,restaurant,Blois,,,,47.5856025,1.3326193
 1448840509,node,Le Castelet,restaurant,Blois,41000,41000,,47.5849568,1.3317468
 1486942330,node,La Scaleta,restaurant,Blois,,,https://la-scaleta.fr/restaurant-blois,47.5887301,1.3310962
 1502247421,node,L'Orée de Chambord,hotel,Blois,"14 Route de Chambord, 41250, Maslives",41250,https://www.loreedechambord.com/,47.6319569,1.4805284
+1613242065,node,,castle,Blois,,,,47.5192608,1.4286612
+1838590446,node,Porthos,artwork,Blois,,,,47.5510225,1.5390552
 1856428584,node,Hôtel du Cygne,hotel,Blois,"5 Rue René Masson, 41250",41250,https://www.hotelducygne.com,47.5482014,1.5410437
 1859401739,node,Sorrente,restaurant,Blois,"11 Place de la Halle, 41250",41250,,47.5481632,1.5412775
 1879330793,node,Manoir Bel Air,hotel,Blois,"1, 41500, Saint-Dyé-sur-Loire",41500,https://manoirbelair.com/,47.658274,1.4946705
 1932180271,node,Veget'Halles,restaurant,Blois,,,https://www.facebook.com/profile.php?id=100057131303709,47.5920358,1.3366795
+1935838930,node,L'Hydouanière,castle,Blois,,,,47.5150592,1.4159864
 1973553009,node,,restaurant,Blois,,,,47.5772266,1.2169135
 2025438369,node,Maison Tatami,restaurant,Blois,,,,47.5921168,1.3301872
 2036003347,node,,restaurant,Blois,,,,47.4379499,1.2939829
+2191433968,node,Les trois sapins,viewpoint,Blois,,,,47.4771446,1.2417231
+2281937110,node,Château du Logis,castle,Blois,,,,47.6441548,1.257477
+2299891564,node,,artwork,Blois,,,,47.6384348,1.4109209
+2308762670,node,,memorial,Blois,,,,47.6141839,1.4143673
 2380663614,node,Château de Bois Renard,hotel,Blois,,,,47.6682556,1.5781251
 2385221074,node,La Bigoudène,restaurant,Blois,,,,47.5492514,1.5428333
 2407820929,node,O'Blend,restaurant,Blois,,,,47.5854415,1.3247778
@@ -26,19 +45,45 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2407938144,node,L'agriculture,restaurant,Blois,,,,47.5387099,1.500463
 2428609347,node,Saint Martin,restaurant,Blois,,,,47.6498961,1.6091879
 2432510503,node,Hostellerie les Couronnes,hotel,Blois,,,,47.4999029,1.2260143
+2504431196,node,,viewpoint,Blois,,,,47.585854,1.3297897
 2504457344,node,Auberge du Bon Terroir,restaurant,Blois,20,,https://auberge-bon-terroir.fr/,47.6650068,1.523725
+2611489075,node,Moulin à Vent,attraction,Blois,,,,47.8384893,1.3031205
+2682524345,node,,memorial,Blois,,,,47.6062223,1.1424367
+2687405320,node,Monument aux morts,memorial,Blois,,,,47.7000953,1.5087791
+2706815791,node,"Fontaine Brouat, lavoir du XIXe.",attraction,Blois,,,,47.6406274,1.4410767
+2757859311,node,Château du Guérinet,castle,Blois,,,,47.5951104,1.1714848
+2804139847,node,Le Vieux Pressoir,castle,Blois,,,,47.4855713,1.3004456
 2977773098,node,Les Armes du Château,restaurant,Blois,"Place Saint-Louis, 41250, Chambord",41250,https://relaisdechambord.com/lesarmesduchateau/,47.6158672,1.5142804
 2977773101,node,Hôtel du Château,hotel,Blois,,,,47.5397363,1.5039175
 2977773104,node,Le Saint-Louis,restaurant,Blois,"41250, Chambord",41250,,47.6158802,1.5140989
 2988288441,node,Savourer,restaurant,Blois,,,,47.589241,1.3313198
 2988288448,node,Le Triboulet,restaurant,Blois,,,,47.5855254,1.3320587
+3025691752,node,,viewpoint,Blois,,,,47.6443475,1.5273079
+3025691785,node,,viewpoint,Blois,,,,47.6470977,1.530296
+3026897751,node,,castle,Blois,,,,47.5296293,1.3004901
 3028407941,node,Au Grand Chancelier,restaurant,Blois,,,,47.4992522,1.4598228
+3028407946,node,Salle des trophées,attraction,Blois,,,,47.4985345,1.458326
+3060894719,node,,viewpoint,Blois,,,,47.486478,1.1886042
+3085948818,node,Maison de la Loire,museum,Blois,"73 Rue Nationale, Saint-Dyé-sur-Loire",,https://www.maisondeloire41.fr/,47.6554355,1.4875391
+3091658686,node,Pressoir,attraction,Blois,,,,47.7699872,1.4447933
+3093725528,node,Château d'Avaray,castle,Blois,,,,47.7207642,1.561396
+3093859728,node,,park,Blois,,,,47.7222884,1.5644109
 3227746657,node,Le Col Vert,restaurant,Blois,,,https://www.aubergelecolvert.fr/,47.5357812,1.6081308
+3461254236,node,,memorial,Blois,,,,47.863045,1.530561
+3469636075,node,,memorial,Blois,,,,47.6566514,1.4073211
+3487616306,node,,memorial,Blois,,,,47.6918939,1.5121251
 3488810979,node,La maison,restaurant,Blois,,,,47.5841407,1.3302617
 3488810980,node,Les Banquettes Rouges,restaurant,Blois,,,https://linktr.ee/lesbanquettesrouges,47.5843868,1.330695
+3493833736,node,,memorial,Blois,,,,47.6640447,1.3741769
+3493833756,node,,memorial,Blois,,,,47.7944225,1.526455
+3524253508,node,Notre-Dame de la Paix,memorial,Blois,,,,47.8461649,1.3803557
+3524253517,node,,memorial,Blois,,,,47.8516731,1.4479495
+3524253521,node,,memorial,Blois,,,,47.8811522,1.4159925
+3565629469,node,166th Engineers Combat Battalion 1943-1945,memorial,Blois,,,,47.5820697,1.2945653
 3640194023,node,Domaine des Hauts de Loire,hotel,Blois,"79 Rue Gilbert Navard, 41150, Onzain",41150,http://domainehautsloire.com/,47.5084346,1.1429061
 3671974100,node,La Parenthèse,restaurant,Blois,2 Rue du Maréchal Leclerc,,,47.4816618,1.1892572
 3672000754,node,,restaurant,Blois,,,,47.6672113,1.5300154
+3688594069,node,,memorial,Blois,,,,47.9031204,1.4635103
 3703654738,node,L'auberge du Château,restaurant,Blois,,,,47.7692016,1.4436342
 3709755025,node,La Croix Blanche,restaurant,Blois,,,,47.4716168,1.1254847
 3741245919,node,Osaka,restaurant,Blois,,,https://www.osaka-blois.fr/,47.5853253,1.3325521
@@ -46,8 +91,13 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3812439085,node,Chez Jym,restaurant,Blois,"26, 41220, Saint-Laurent-Nouan",41220,,47.7171974,1.6118084
 3956680977,node,Appart'Tourisme Blois Châteaux de la Loire,hotel,Blois,,,,47.5850912,1.3321084
 4199162799,node,First Inn Hotel,hotel,Blois,,,,47.6113629,1.3360822
+4247279195,node,,memorial,Blois,,,,47.5917967,1.1964191
+4248013576,node,,memorial,Blois,,,,47.5234366,1.2496156
 4266061790,node,Château de Colliers,hotel,Blois,"Route de Blois, 41500, Muides-sur-Loire",41500,https://www.chateau-colliers.com/,47.665628,1.515083
+4279086542,node,,memorial,Blois,,,,47.8155602,1.4812316
+4279161268,node,,memorial,Blois,,,,47.7416044,1.4214608
 4310897845,node,balladins Blois,hotel,Blois,,,https://www.balladins.com/mon-hotel/blois/,47.6134455,1.3364941
+4337147763,node,,memorial,Blois,,,,47.7017816,1.6278393
 4512023298,node,Chez Madeleine,restaurant,Blois,,,http://www.restaurant-chez-madeleine.com/,47.5121233,1.4557547
 4512043546,node,Relais des Trois Châteaux,hotel,Blois,1 Place Victor Hugo,,https://www.relaisdestroischateaux.com/,47.5091114,1.4548268
 4512846171,node,La Pergola,restaurant,Blois,74,,http://www.restaurant-pizzeria-cour-cheverny.fr,47.5086995,1.4548399
@@ -55,15 +105,29 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4513233001,node,Le Saint-Hubert,hotel,Blois,122,,https://www.hotel-sthubert.com/,47.5072964,1.4575114
 4513233002,node,,hotel,Blois,,,https://www.hotel-sthubert.com/restaurant,47.5073176,1.4574776
 4659267790,node,L'orée des chateaux,hotel,Blois,"9 bis, 41250",41250,http://www.oree-des-chateaux.com/158-contact.html,47.5532831,1.5379066
+4660296663,node,Monument Lafargue,memorial,Blois,,,,47.5467202,1.3446805
 4733078329,node,Kyriad,hotel,Blois,"Rue de la Vallée Maillard, 41000",41000,,47.6124414,1.3336079
+4733877522,node,Musée de la Resistance,museum,Blois,,,,47.5829042,1.3311325
+4744758228,node,,memorial,Blois,,,,47.4894406,1.4071217
 4745860212,node,Le Pavillon,hotel,Blois,"2, 41000, Blois",41000,https://www.hotelrestaurant-lepavillon.com/fr/hotel-blois-centre-ville-pas-cher-le-pavillon-accueil.php,47.5840729,1.3395024
+4814849496,node,Château de Toisy,castle,Blois,,,,47.6814355,1.2440488
+4840964308,node,Ferme équestre des bords de Loire,park,Blois,,,,47.4837399,1.1930054
+4880443735,node,,memorial,Blois,,,,47.6357044,1.4390191
+4884048656,node,,memorial,Blois,,,,47.6522392,1.6716789
+4905659351,node,,memorial,Blois,,,,47.6560454,1.6734057
+4909278621,node,Le Joueur de trompette,artwork,Blois,,,,47.4955359,1.2984033
+4922490760,node,,memorial,Blois,,,,47.82583,1.3904975
 4933316593,node,Le Prieuré,restaurant,Blois,"36, 41150, Chaumont-sur-Loire",41150,https://www.facebook.com/restaurantleprieure41/,47.482237,1.1925323
 4933316596,node,La Tavola des Lys,restaurant,Blois,"71, 41150, Chaumont-sur-Loire",41150,https://www.hoteldesbordsdeloire.com/,47.4802312,1.1836726
 4933316597,node,La Madeleine de Proust,restaurant,Blois,"33, 41150, Chaumont-sur-Loire",41150,,47.4821178,1.1927877
 4933316599,node,Hôtel de la Loire,hotel,Blois,"71, 41150, Chaumont-sur-Loire",41150,https://www.hoteldesbordsdeloire.com/,47.4801943,1.1836471
+4936757626,node,,viewpoint,Blois,,,,47.6163205,1.5204921
+4972394965,node,Manoir de Laleu,castle,Blois,,,,47.5108493,1.2041509
 5028363521,node,Au Rendez-Vous des Pêcheurs,restaurant,Blois,"27 Rue de Foix, 41000",41000,https://rendezvousdespecheurs.com/,47.5824581,1.3290853
 5130480353,node,La Tartine,restaurant,Blois,,,,47.5870626,1.3359492
 5150389821,node,Family Pizza,restaurant,Blois,3,,,47.5810401,1.3074761
+5165455936,node,,viewpoint,Blois,,,,47.587372,1.6051547
+5167120875,node,,artwork,Blois,,,,47.5873197,1.6051104
 5284718578,node,,restaurant,Blois,,,,47.487796,1.4616618
 5297326341,node,Côté Hôtel,hotel,Blois,,,https://www.lamaisondacote.fr/cote-hotel,47.6409922,1.4452215
 5297326342,node,Relais de la Loire,restaurant,Blois,,,https://www.relaisdelaloire.fr/fr,47.6411551,1.4454697
@@ -77,65 +141,206 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5775010331,node,La Creusille,restaurant,Blois,,,,47.5855288,1.3422743
 5775044719,node,La Pause en Loire,restaurant,Blois,,,,47.5862205,1.3435667
 5805141627,node,,restaurant,Blois,,,,47.4900686,1.2600535
+5860556840,node,Écuries du Maréchal de Saxe,museum,Blois,,,https://www.chambord.org/fr/faire-son-marche-aux-ecuries-du-chateau/,47.6152371,1.5201717
+5918174085,node,Château de Saint-Gervais,castle,Blois,,,,47.5700875,1.3532837
+6026925990,node,,ruins,Blois,,,http://vallee-de-la-cisse.fr/spip.php?rubrique38,47.5594411,1.2442776
 6127978985,node,L'auberge des 3 traiteurs,restaurant,Blois,,,,47.6045713,1.1406948
 6191741992,node,Brasserie-Restaurant des Trois Marchands,restaurant,Blois,,,,47.5088473,1.454966
+6196366102,node,Musée Tintin,museum,Blois,,,https://www.chateau-cheverny.fr/tintin/l-exposition-permanente.html,47.4991716,1.4585817
 6198706352,node,Hôtel Restaurant Le Monarque,hotel,Blois,"61 Rue Porte Chartraine, 41000, Blois",41000,https://hotel-lemonarque.com/,47.5888738,1.3314266
 6258317785,node,Les Arcades,restaurant,Blois,,,,47.5855176,1.3332579
 6316032271,node,Le Clipper,restaurant,Blois,,,https://www.leclipper.fr/,47.5858693,1.3333358
+6357625095,node,,memorial,Blois,,,,47.5436145,1.1576387
 6380420184,node,Brasserie du Golf de la Carte,restaurant,Blois,,,,47.5000115,1.2251429
+6568018405,node,,memorial,Blois,,,,47.9102883,1.5186916
+6578679585,node,Croix Louise Piat,memorial,Blois,,,,47.6736347,1.6472015
+6629669615,node,,memorial,Blois,,,,47.496041,1.2988989
+6631407652,node,,artwork,Blois,,,,47.4947745,1.2966308
+6631407681,node,Musée d'outils anciens et d'art populaire,museum,Blois,,,https://musee-les-montils.fr/,47.4949982,1.2966434
 6716166248,node,Hôtel ibis Styles Blois Centre Gare,hotel,Blois,"16, 41000, Blois",41000,,47.5835498,1.3223432
 6935990747,node,Best Western Blois Chateau,hotel,Blois,"8 Avenue Jean Laigret, 41000, Blois",41000,,47.5854113,1.3246305
 7128775388,node,Le Grand Saint-Michel,restaurant,Blois,"Place Saint-Louis, 41250, Chambord",41250,https://relaisdechambord.com/legrandsaintmichel/,47.6164265,1.5138878
 7137555886,node,Bistrot des Hauts de Loire,restaurant,Blois,,,,47.5091667,1.1430668
 7137559185,node,Domaine des Hauts de Loire,restaurant,Blois,79 Rue Gilbert Navard,,https://www.hautsdeloire.com/,47.5082922,1.142803
+7160974264,node,,viewpoint,Blois,,,,47.5848428,1.3311218
+7160974265,node,,viewpoint,Blois,,,,47.5853307,1.3315932
+7160974266,node,,viewpoint,Blois,,,,47.5859615,1.3332812
+7167781595,node,,viewpoint,Blois,,,,47.5855575,1.3324631
+7167943806,node,Jean-Eugène Robert-Houdin,artwork,Blois,,,,47.5863321,1.3330182
+7170311038,node,Grand Escalier,attraction,Blois,,,,47.5857587,1.3306589
+7170311039,node,Salle des États,attraction,Blois,,,,47.5860441,1.3310636
+7170311041,node,Aile Louis XII,attraction,Blois,,,,47.5858923,1.3312998
+7170311042,node,Aile François Ier,attraction,Blois,,,,47.5859135,1.3306868
+7170311043,node,Aile Gaston d'Orléans,attraction,Blois,,,,47.5854154,1.3305325
+7170311044,node,Musée des Beaux-Arts de Blois,museum,Blois,,,http://www.blois.fr/39-chateau-royal.htm,47.5857788,1.3313739
+7170311045,node,Galerie Charles d'Orléans,attraction,Blois,,,,47.5855419,1.3311656
+7170440611,node,Cour du Château,attraction,Blois,,,,47.5856428,1.330902
+7176465151,node,Statue de Diane,artwork,Blois,,,,47.5855787,1.3276556
+7192967128,node,Pavillons d'Octroi,attraction,Blois,,,,47.5836076,1.3226391
 7202060767,node,Appart'City Blois,hotel,Blois,,,,47.58354,1.3248349
+7203866645,node,Portail de la Chocolaterie,attraction,Blois,,,,47.5843794,1.3251586
+7285341385,node,,viewpoint,Blois,,,,47.6117304,1.3833271
 7356556077,node,Auberge du Pressoire,restaurant,Blois,"1, 41290, Rhodon",41290,,47.7533231,1.2677877
+7363261283,node,Jeanne la Lorraine,artwork,Blois,,,,47.589334,1.338439
+7363261302,node,Paul Renouard,artwork,Blois,,,,47.589511,1.3383323
+7363261366,node,,artwork,Blois,,,,47.5892767,1.3384013
+7363261404,node,,viewpoint,Blois,,,,47.5892418,1.338556
+7375441802,node,Statue de Denis Papin,artwork,Blois,,,,47.5879506,1.3332536
+7384969855,node,Escalier Denis Papin,attraction,Blois,,,,47.5878157,1.3334517
+7392441626,node,Mémorial de la ville de Blois 1939-1945,memorial,Blois,,,,47.589598,1.3343954
+7392441627,node,Mémorial départemental,memorial,Blois,,,,47.5897017,1.3345409
+7400042471,node,,memorial,Blois,,,,47.5853034,1.3339349
+7412611943,node,Buste de l'Abbé Grégoire,artwork,Blois,,,,47.5836723,1.3324561
+7428052155,node,Muséum d'Histoire naturelle de Blois,museum,Blois,,,https://www.blois.fr/attractive/remarquable/museum,47.5846288,1.3328141
 7430438701,node,Hôtel Ibis Blois Centre Château,hotel,Blois,,,,47.5870932,1.3314484
+7439924309,node,Les 3 Clefs,artwork,Blois,,,,47.58707,1.3343921
 7553581579,node,Café Hôtel Restaurant de la Gare,restaurant,Blois,,,,47.4917326,1.1842536
 7553632877,node,Café Hôtel Restaurant de la Gare,hotel,Blois,,,,47.4917942,1.1844367
+7728474670,node,,artwork,Blois,,,,47.5010097,1.4581198
+7728996075,node,Le Cerf,artwork,Blois,,,,47.6136355,1.5172477
 7859163985,node,L'Espérance,restaurant,Blois,,,,47.6579947,1.4995052
+7984529320,node,,viewpoint,Blois,,,,47.5857319,1.3328565
 7993150237,node,Le Comptoir de Mamie Bigoude,restaurant,Blois,,,https://comptoirmamiebigoude.com/restaurant-breton-blois,47.5863289,1.3338693
+8040735885,node,La mini-ferme d'Emma,zoo,Blois,,,,47.6110693,1.3660723
+8040735889,node,,viewpoint,Blois,,,,47.5888665,1.3375563
+8042676758,node,So irresistible!,artwork,Blois,,,,47.5852966,1.3311564
 8143498845,node,Au Bistrot d'Eugénie,restaurant,Blois,,,https://www.facebook.com/Au-Bistrot-dEug%C3%A9nie-113216063435101/,47.5923956,1.4527978
+8259221523,node,,viewpoint,Blois,,,,47.5427509,1.5179187
+8265075712,node,,memorial,Blois,,,,47.9105672,1.5284699
 8342926648,node,Ibis Budget Blois centre,hotel,Blois,"4, 41000",41000,http://www.ibis.com/fr/hotel-2553-ibis-budget-blois-centre/index.shtml,47.5872639,1.3279028
+8656771317,node,Mégalithes de la Nivardière,attraction,Blois,,,,47.944401,1.489708
+8694832217,node,Château de Talcy,castle,Blois,,,,47.769422,1.4445631
 8909636787,node,L'Hote Antique,restaurant,Blois,5,,,47.587578,1.3283365
 9131853463,node,Anne de Bretagne,hotel,Blois,,,,47.5866613,1.3270127
 9164988054,node,Assa,restaurant,Blois,,,,47.5698728,1.3075307
 9257862703,node,La Case Créole,restaurant,Blois,,,,47.5925971,1.3309721
+9269346790,node,Cheval de Fer Blaisois,museum,Blois,"41000, Saint-Sulpice-de-Pommeray",41000,http://saintsulpicedepommeray.fr/le-musee-ferroviaire/,47.6050166,1.2659277
+9274878704,node,,artwork,Blois,,,,47.5979435,1.3328622
+9285826448,node,,artwork,Blois,,,,47.7053273,1.5177922
+9294186960,node,Pont médiéval de Blois,ruins,Blois,,,,47.5849453,1.3363019
+9332412983,node,Ancien système de pèche médiéval,ruins,Blois,,,,47.583734,1.3349305
+9332599014,node,,artwork,Blois,,,,47.5903615,1.3362293
+9350080802,node,La Vierge Marie,artwork,Blois,,,,47.5908914,1.3309873
+9356374375,node,La Vierge Marie,artwork,Blois,,,,47.589528,1.3298308
+9367012859,node,,artwork,Blois,,,,47.5896807,1.3292134
 9370301261,node,Au Petit Grec,restaurant,Blois,,,,47.5893949,1.3308713
+9379507258,node,,monument,Blois,,,,47.5799751,1.3450787
 9397193382,node,Chez Philippe,restaurant,Blois,,,,47.590626,1.3350444
+9397656967,node,Centre de la Résistance de la Déportation et de la Mémoire,museum,Blois,,,,47.5863366,1.330776
+9413296709,node,Galerie Dominique,gallery,Blois,,,,47.5857246,1.3348517
 9420724938,node,O'Zénith,restaurant,Blois,,,,47.5989608,1.3284387
 9565106964,node,La Ferme des 3 Maillets,hotel,Blois,"RD2152, 41500, Avaray",41500,https://www.ferme-3maillets.fr/,47.7294328,1.5538767
+9602766726,node,Vierge compatissante,artwork,Blois,,,,47.593678,1.3333461
+9673993722,node,,memorial,Blois,,,,47.6483575,1.3059494
 9722524964,node,Aux délices d'Asie,restaurant,Blois,,,,47.5727819,1.3562845
 9724787709,node,Louise de Savoie,hotel,Blois,,,http://hotel-blois.com,47.5848466,1.3248087
 9748777300,node,Restaurant du Lycée de l'Hôtellerie et du Tourisme,restaurant,Blois,,,https://lycee-hotellerie-tourisme.fr,47.5718295,1.3066973
 9748777301,node,Hôtel du Lycée d'hotellerie et du Tourisme,hotel,Blois,"174, 41000, Blois",41000,,47.5722453,1.3063018
+9830423020,node,,memorial,Blois,,,,47.6149135,1.5163169
+9880623471,node,,artwork,Blois,,,,47.5944682,1.3433821
+9892352354,node,Guerre franco-prussienne,memorial,Blois,,,,47.5855669,1.3266738
+9900040417,node,,castle,Blois,37150,37150,,47.69885,1.5231431
 9906071181,node,Fou D'Loire,restaurant,Blois,22 Promenade de Trouillat,,https://foudloire.fr/,47.4806109,1.1846506
 9907630894,node,L'Aïoli Chez Christ,restaurant,Blois,2 Avenue de la République,,,47.497449,1.1789502
 9907653874,node,Chez Poppy,restaurant,Blois,22,,https://www.facebook.com/Chez-Poppy-496524014131779/,47.5233639,1.2437698
 9908005766,node,L'Embarcadère,restaurant,Blois,16 quai Ulysse Besnard,,,47.5715785,1.3102973
+9909691818,node,,artwork,Blois,,,,47.5892311,1.3380117
+9999144416,node,,artwork,Blois,,,,47.5817158,1.3033599
 10012140317,node,Arménie restauration,restaurant,Blois,,,,47.5849491,1.3324816
+10099268951,node,Le presse citron,artwork,Blois,,,,47.4737806,1.1792166
+10099268952,node,Volcan,artwork,Blois,,,,47.4737683,1.1787551
+10099269216,node,Banc délirant,artwork,Blois,,,,47.4756352,1.1813679
+10099269217,node,Ondulations,artwork,Blois,,,,47.4762958,1.1806044
+10102842892,node,Flux,artwork,Blois,,,,47.4784701,1.1824301
+10102842893,node,,artwork,Blois,,,,47.4779859,1.1828373
+10102842894,node,,artwork,Blois,,,,47.4781312,1.1825004
+10102842895,node,,artwork,Blois,,,,47.4780813,1.1827809
+10102842896,node,Momento fecundo,artwork,Blois,,,,47.4777187,1.1834191
+10102842897,node,,artwork,Blois,,,,47.4780061,1.1825328
+10102842898,node,Objets sphériques,artwork,Blois,,,,47.4777375,1.1839592
+10102842899,node,Anastazia,artwork,Blois,,,,47.4785467,1.1849225
+10102842900,node,Arbre chemin,artwork,Blois,,,,47.4778531,1.1844431
+10102842901,node,Cabanes dans les arbres,artwork,Blois,,,,47.4772532,1.1841179
+10102842902,node,Cabanes dans les arbres,artwork,Blois,,,,47.4789435,1.1871481
+10102842903,node,Cabanes dans les arbres,artwork,Blois,,,,47.4780156,1.1876814
+10102842904,node,Les racines de la Loire,artwork,Blois,,,,47.4782773,1.1867133
+10102842905,node,L’Arbre aux Échelles,artwork,Blois,,,,47.4793597,1.1862883
+10102842906,node,Cire perdue,artwork,Blois,,,,47.4800267,1.1851891
 10162630917,node,La Salamandre,restaurant,Blois,"1, 41220",41220,,47.6296295,1.5959817
+10173128580,node,La Grande parole,artwork,Blois,,,,47.5854421,1.324186
 10204873854,node,Le Lion D'Or,restaurant,Blois,1,,,47.4945227,1.261126
+10245376965,node,Jardin Joseph Dupleix,garden,Blois,,,,47.6017932,1.3291487
+10280889497,node,Lieutenant Beau,memorial,Blois,,,,47.9101479,1.5298985
+10282617792,node,,memorial,Blois,,,,47.9085227,1.5298249
+10287673322,node,,memorial,Blois,,,,47.910692,1.5283641
+10289682075,node,,memorial,Blois,,,,47.9458418,1.4845061
+10299654313,node,,viewpoint,Blois,,,,47.6364723,1.5075951
+10299654616,node,,viewpoint,Blois,,,,47.6344221,1.505648
 10314773181,node,Les 2 Roues,restaurant,Blois,"28, 41120, Les Montils",41120,,47.4983512,1.2986599
 10588833714,node,Le Bœuf Gourmand,restaurant,Blois,,,,47.5905607,1.3348782
+10778142511,node,,artwork,Blois,,,,47.5865052,1.3302916
+10812525722,node,,memorial,Blois,,,,47.9588226,1.4292254
 10840302638,node,,restaurant,Blois,,,,47.6061341,1.3313882
+10890214206,node,,artwork,Blois,,,,47.6682004,1.5254514
+10899239461,node,,artwork,Blois,,,,47.617406,1.515455
+10899239462,node,,viewpoint,Blois,,,,47.6177964,1.5149442
+10899267690,node,,viewpoint,Blois,,,,47.6419309,1.4445816
+10904664037,node,,memorial,Blois,,,,47.6392199,1.4445876
 10904668649,node,Relais de la Loire,hotel,Blois,,,https://www.relaisdelaloire.fr/fr,47.6411685,1.4455433
+11015491152,node,A la Mémoire du Cl Chereau Daniel,memorial,Blois,,,,47.5822921,1.2984073
 11017350883,node,La renaissance,restaurant,Blois,,,,47.822851,1.2941375
+11138180805,node,,viewpoint,Blois,,,,47.5834014,1.3379814
 11138465605,node,Brut Maison de Cuisine,restaurant,Blois,,,,47.5834461,1.3384333
 11184189037,node,Côté Loire,restaurant,Blois,"2 Place de la Grève, 41000, Blois",41000,https://www.coteloire.com/restaurant-hotel-restaurant-blois,47.5827848,1.3308535
+11185904840,node,,memorial,Blois,,,,47.8327065,1.3804359
+11219273137,node,,viewpoint,Blois,,,,47.6182697,1.5360189
+11219273237,node,,viewpoint,Blois,,,,47.6184252,1.5331836
+11221299208,node,,memorial,Blois,,,,47.6517209,1.1830734
+11221299232,node,,memorial,Blois,,,,47.6167958,1.1263092
+11232358786,node,,memorial,Blois,,,,47.8219996,1.2947667
+11232358823,node,,memorial,Blois,,,,47.7959093,1.2696129
+11232358851,node,,memorial,Blois,,,,47.7830403,1.2529403
+11232358855,node,,memorial,Blois,,,,47.7753548,1.3007788
+11232358916,node,,memorial,Blois,,,,47.7563268,1.2690584
+11232359122,node,,memorial,Blois,,,,47.7143149,1.2534472
 11262072038,node,Au Gré du Vent,restaurant,Blois,,,,47.5389467,1.5023013
+11289273650,node,,memorial,Blois,,,,47.5990504,1.0635716
 11315878607,node,Oumami,restaurant,Blois,,,,47.5485742,1.5414067
 11315878608,node,Le rendez-vous des gourmets,restaurant,Blois,,,,47.5491657,1.5407245
 11315878609,node,Hôtel de la Bonnheure,hotel,Blois,,,,47.5479695,1.5411633
+11378407259,node,,memorial,Blois,,,,47.6481923,1.1227184
+11394144352,node,,memorial,Blois,,,,47.5731521,1.3023814
 11576071506,node,Sushi Corene,restaurant,Blois,,,,47.5883343,1.3315563
 11576073289,node,Maymouna,restaurant,Blois,,,,47.5866133,1.330851
 11582093391,node,Royal Grill,restaurant,Blois,,,,47.5917703,1.3229004
+11586396668,node,,memorial,Blois,,,,47.5973522,1.3309857
+11586484069,node,,memorial,Blois,,,,47.5973584,1.3309669
+11586484070,node,,memorial,Blois,,,,47.5973592,1.330945
+11586484071,node,,memorial,Blois,,,,47.5973498,1.3310184
 11669157585,node,L'auberge du Moulin,restaurant,Blois,,,,47.5676572,1.3436517
+11669161256,node,"Ici le 5 Juillet 1944 Le S/Lieut Auguste Michel dit ""FITO"" Chef de Détachement F.T.P.F Est Tombé Sous les Balles Nazies Dans Sa 19e Année",memorial,Blois,,,,47.5672952,1.3456621
+11710444684,node,Le Petit Prince,artwork,Blois,,,,47.5872088,1.3338198
+11710458773,node,Rapetou,artwork,Blois,,,,47.5873506,1.3345823
+11711031982,node,Pluto,artwork,Blois,,,,47.5852192,1.3318225
+11711071310,node,The red octopus,artwork,Blois,,,,47.5871911,1.3325237
+11727677136,node,Leprechaun,artwork,Blois,,,,47.5873965,1.3332851
 11738945952,node,Le Médicis,restaurant,Blois,"2 Allée François 1er, 41000, Blois",41000,https://www.le-medicis.com/,47.5843869,1.317443
 11747707037,node,Le Bam,restaurant,Blois,,,https://lebam41.fr,47.5413193,1.5120781
+11760731339,node,,museum,Blois,,,,47.4993762,1.4594787
+11811556204,node,,artwork,Blois,,,,47.6238678,1.3891321
+11811556205,node,,artwork,Blois,,,,47.6236514,1.3893656
+11811556206,node,,artwork,Blois,,,,47.623696,1.3894382
+11830113663,node,,memorial,Blois,,,,47.6432372,1.4038462
 11832622766,node,Ana M.,restaurant,Blois,"15 Quai de La Saussaye, 41000, Blois",41000,,47.5852935,1.3347239
+11845417483,node,,artwork,Blois,,,,47.498344,1.4575249
 11888639222,node,Beelodge Blois,hotel,Blois,1 Rue Germaine Tillion,,https://www.beelodge.com/,47.5858839,1.3247183
 11917913908,node,Palais des L'is,restaurant,Blois,,,,47.7113561,1.2550075
+11926164915,node,,artwork,Blois,,,,47.5003198,1.4532782
+11926164929,node,,artwork,Blois,,,,47.5004545,1.4527824
+11926164939,node,,artwork,Blois,,,,47.5005392,1.4526942
+11926164943,node,,artwork,Blois,,,,47.500366,1.4526222
+11926164966,node,,artwork,Blois,,,,47.5006502,1.4525685
+11926164969,node,,artwork,Blois,,,,47.5009479,1.4583995
 12014426857,node,Volfoni,restaurant,Blois,,,,47.6079619,1.3287398
 12014426858,node,Buffalo Grill,restaurant,Blois,,,,47.6083229,1.3287049
 12059062039,node,Chez Walter,restaurant,Blois,63 Rue Nationale,,,47.6556708,1.4881799
@@ -150,23 +355,2037 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 12187892857,node,Chez Soan,restaurant,Blois,"1, 41000, Blois",41000,https://chez-soan-blois.eatbu.com/?lang=fr,47.5863882,1.3362387
 12258001054,node,Fleur de Loire,restaurant,Blois,,,https://fleurdeloire.com/en/christophe-hay-restaurant.html,47.5822963,1.337872
 12376016304,node,Léon de Bruxelles,restaurant,Blois,,,,47.5718825,1.3721212
+12387844540,node,,artwork,Blois,,,https://www.mifamosa.fr/blois/,47.5838435,1.3329171
 12425281434,node,,restaurant,Blois,,,,47.586565,1.3157202
 12430570160,node,B&B Hotel,hotel,Blois,,,,47.6098345,1.3334546
 12459148078,node,Les Burgers d'Annie,restaurant,Blois,"2 Rue Saint-Martin, 41000, Blois",41000,https://chezmamieannie.com/,47.5862631,1.3335088
+12534685759,node,,attraction,Blois,,,,47.5637701,1.3625583
+12547497090,node,,artwork,Blois,,,,47.5859077,1.3314147
+12553474291,node,Stèle des FANY's,memorial,Blois,,,https://www.stlaurentnouan.fr/influenceur/les-fanys/,47.6646274,1.600716
 12777402762,node,REDZZA,restaurant,Blois,"2 Rue Ducoux, 41000, Blois",41000,https://redzza.com/,47.5845629,1.3251396
+12777402764,node,Buste de Victor-Auguste Poulain,artwork,Blois,,,,47.5839161,1.3259056
+12811729303,node,,memorial,Blois,,,,47.6221921,1.3248409
 12825694298,node,Le Bistrot du Chef,restaurant,Blois,,,,47.5833342,1.3382546
+12849685283,node,Monument aux morts,memorial,Blois,,,,47.631762,1.2838989
+12876202921,node,Grand Cerf,artwork,Blois,,,,47.6161377,1.5129744
 12880830882,node,Kim's Box,restaurant,Blois,,,,47.57253,1.3559915
 12880889825,node,Wilson Street,restaurant,Blois,,,,47.5820518,1.3422572
+12884567062,node,,artwork,Blois,,,,47.6164242,1.5169372
+12884567064,node,"Louix XIV présentant son petit-fils, le duc d'Anjou comme roi d'Espagne sous le nom de Philippe V",artwork,Blois,,,,47.6164418,1.5169926
+12884567065,node,François Michel Le Tellier Marquis de Louvois,artwork,Blois,,,,47.616431,1.5170253
+12884567068,node,Stanislas Leszczynski,artwork,Blois,,,,47.6164164,1.5170442
+12884567070,node,Catherine Opalinska (1682-1747),artwork,Blois,,,https://www.chambord.org/fr/rdc/salle-des-illustres/catherine-opalinska-1682-1747/,47.6163948,1.5170722
+12884567071,node,Le maréchal de Turenne,artwork,Blois,,,,47.6163822,1.5170886
+12884567080,node,Louis XIII Roi de France et de Navarre,artwork,Blois,,,https://www.chambord.org/fr/rdc/salle-des-illustres/louis-xiii-1601-1643-dapres-philippe-de-champaigne-1602-1674/,47.6163238,1.5170178
+12884567081,node,"Portrait intime du dauphin Louis (futur Louis XIV) et de sa mère, la reine Anne d’Autriche",artwork,Blois,,,https://www.chambord.org/fr/rdc/salle-des-illustres/portrait-intime-du-dauphin-louis-futur-louis-xiv/,47.616342,1.5169942
+12884567084,node,La Reconnaissance du duc d’Anjou comme roi d’Espagne,artwork,Blois,,,https://www.chambord.org/fr/rdc/salle-des-illustres/la-reconnaissance-du-duc-danjou-comme-roi-despagne-baron-francois-gerard-1770-1837/,47.6163352,1.5170684
+12884578599,node,Buste de Louis XVIII,artwork,Blois,,,https://www.chambord.org/fr/rdc/salle-des-bourbon/buste-de-louis-xviii-1755-1824-dapres-achille-etienne-joseph-valois/,47.6162462,1.5167746
+12884578600,node,,artwork,Blois,,,,47.6162509,1.5167592
+12884611526,node,François Ier tuant un sanglier,artwork,Blois,,,https://www.chambord.org/fr/rdc/salle-des-chasses/francois-ier-tuant-un-sanglier/,47.6161925,1.5173168
+12884611530,node,L’Hallali,artwork,Blois,,,https://www.chambord.org/fr/rdc/salle-des-chasses/lhallali-sur-pied/,47.6162307,1.5172829
+12884611531,node,Le Relancé,artwork,Blois,,,https://www.chambord.org/fr/rdc/salle-des-chasses/la-curee-louis-godefroy-jadin-1805-1882/,47.6162584,1.5172471
+12884611542,node,Diane de Poitiers chassant le cerf,artwork,Blois,,,https://www.chambord.org/fr/rdc/salle-des-chasses/diane-de-poitiers-chassant-le-cerf/,47.6162632,1.5171862
+12884611543,node,François Ier chassant le sanglier,artwork,Blois,,,,47.6162447,1.517153
+12884611544,node,La Curée,artwork,Blois,,,https://www.chambord.org/fr/rdc/salle-des-chasses/la-curee-louis-godefroy-jadin-1805-1882/,47.6162557,1.5171668
+12884611545,node,L'Ébat,artwork,Blois,,,https://www.chambord.org/fr/rdc/salle-des-chasses/meute-de-s-a-r-le-duc-dorleans-ou-lebat/,47.6162168,1.5171578
+12884625501,node,Buste de Charles X,artwork,Blois,,,https://www.chambord.org/fr/rdc/salle-des-bourbon/buste-de-charles-x-1757-1836-dapres-theophile-francois-marcel-bra-1797-1863/,47.6162633,1.5167499
+12884625502,node,Marie-Antoinette d'Autriche,artwork,Blois,,,,47.6162724,1.5167316
+12884625503,node,,artwork,Blois,,,,47.6162886,1.516733
+12884625504,node,Buste du duc de Berry,artwork,Blois,,,https://www.chambord.org/fr/rdc/salle-des-bourbon/buste-du-duc-de-berry-1778-1820-joseph-varin/,47.6162787,1.5167314
+12884632494,node,"Buste d'Henri, comte de Chambord",artwork,Blois,,,https://www.chambord.org/fr/rdc/salle-des-bourbon/buste-dhenri-comte-de-chambord-1820-1883-louis-alexandre-lefevre/,47.6162155,1.5168124
+12886803865,node,Portrait en pied de François Ier,artwork,Blois,,,https://www.chambord.org/fr/rdc/portrait-en-pied-de-francois-ier-1494-1547/,47.6162061,1.5171451
+12886803866,node,Buste de François Ier en armure,artwork,Blois,,,,47.6162179,1.5171234
+12886803891,node,Entrevue du camp du drap d'or 7 juin 1520,artwork,Blois,,,https://www.chambord.org/fr/rdc/lentrevue-du-camp-du-drap-dor/,47.616104,1.5171331
+12887081426,node,"Louis de France, Dauphin (1729-1765)",artwork,Blois,,,,47.6162245,1.5167932
+12887081427,node,,artwork,Blois,,,,47.6162055,1.5168175
+12887081428,node,,artwork,Blois,,,,47.6162719,1.5168844
+12887081429,node,,artwork,Blois,,,,47.6162542,1.5169072
+12887081430,node,Naissance du Duc de Bordeaux (futur comte de Chambord),artwork,Blois,,,,47.616229,1.5168906
+12887622274,node,"Jules Grévy, président de la République française",artwork,Blois,,,,47.6161925,1.5172377
+12887622275,node,"Henri, comte de Chambord",artwork,Blois,,,,47.6162034,1.517257
+12887622276,node,Le Comte de Chambord,artwork,Blois,,,,47.6162074,1.517318
+12887650712,node,Buste de Molière,artwork,Blois,,,https://www.chambord.org/fr/1eretage/theatre-de-moliere/buste-de-moliere/,47.6161033,1.5171418
+12887650713,node,Buste de Lully,artwork,Blois,,,https://www.chambord.org/fr/1eretage/theatre-de-moliere/buste-de-lully/,47.6161151,1.5171255
+12887650714,node,Portière du Char de Triomphe,artwork,Blois,,,https://www.chambord.org/fr/1eretage/vestibule-sud-portiere-du-char-de-triomphe/,47.616108,1.5171293
+12887650715,node,Tenture de l’Histoire d’Artémise Soldats portant des tours et des trophées,artwork,Blois,,,https://www.chambord.org/fr/1eretage/vestibule-sud-tenture-de-lhistoire-dartemise/,47.616214,1.5171348
+12889631990,node,La mort de Charles X,artwork,Blois,,,,47.6162356,1.5173029
+12897292134,node,Buste du maréchal de Saxe D’après Laurent Delvaux,artwork,Blois,,,,47.6164272,1.5169439
+12897292136,node,Louis XV (1710-1774),artwork,Blois,,,,47.6162924,1.5169575
+12897292143,node,"Maurice comte de Saxe, maréchal des armées du roi, maréchal de France",artwork,Blois,,,,47.6163164,1.516849
+12897292144,node,Anne d’Autriche en robe de deuil,artwork,Blois,,,,47.6162814,1.5169215
+12897292145,node,Portrait présumé de Marie-Thérèse d’Autriche,artwork,Blois,,,,47.6162815,1.5169207
+12897292146,node,"Louis XV, roi de France et de Navarre (1710-1774) D’après Louis-Michel van Loo",artwork,Blois,,,,47.6163533,1.5169508
+12897292147,node,Marie Leszczynska (1703-1768) D’après Jean-Marc Nattier (1684-1766),artwork,Blois,,,,47.6163548,1.5169488
+12897292148,node,"Louis de France, dauphin (1729-1765) Atelier de Jean-Marc Nattier (1684-1766)",artwork,Blois,,,,47.6163364,1.5169727
+12897292149,node,Stanislas Leszczynski (1677-1766),artwork,Blois,,,,47.6163743,1.5169235
+12898190519,node,Madame de Maintenon,artwork,Blois,,,,47.6164635,1.5169864
+12898190551,node,,artwork,Blois,,,,47.6161804,1.5174333
+12898190552,node,,artwork,Blois,,,,47.6161983,1.5174244
+12898190553,node,,artwork,Blois,,,,47.6162163,1.5174259
+12898190554,node,,artwork,Blois,,,,47.6162367,1.5174277
+12898190555,node,Régate sur le grand canal de Venise,artwork,Blois,,,,47.6162365,1.5175484
+12898215070,node,Chasse au sanglier,artwork,Blois,,,,47.6159807,1.5169716
+12899373972,node,,memorial,Blois,,,,47.6148158,1.5201562
 12987650613,node,Territoires de France,restaurant,Blois,,,,47.6657209,1.3870977
 13062241116,node,Les Tisons by Punta Cana,restaurant,Blois,"17 Route Nationale, 41260, La Chaussée-Saint-Victor",41260,https://www.puntacanarestaurant.fr/,47.607317,1.3547625
+13074893628,node,,memorial,Blois,,,,47.7387254,1.3430786
 13075735501,node,L’entre 2,restaurant,Blois,,,,47.4977881,1.263308
+13094034938,node,,memorial,Blois,,,,47.6873949,1.5620229
 13096345083,node,La Renaissance,hotel,Blois,,,,47.5875499,1.3280957
+13096438823,node,,memorial,Blois,,,,47.5851302,1.3337875
+13101655942,node,,memorial,Blois,,,,47.890365,1.3036964
+13101655943,node,,memorial,Blois,,,,47.8559075,1.267586
+13101655985,node,,memorial,Blois,,,,47.8230614,1.4982341
+13101657044,node,,memorial,Blois,,,,47.889032,1.3711908
+13101657045,node,,memorial,Blois,,,,47.9108099,1.5285701
+13101657046,node,,memorial,Blois,,,,47.932814,1.378402
+13101657047,node,,memorial,Blois,,,,47.9707433,1.533613
+13101657048,node,,memorial,Blois,,,,47.9864332,1.4695079
+13101657049,node,,memorial,Blois,,,,47.9125372,1.5338628
+13104640082,node,,memorial,Blois,,,,47.6345085,1.2835845
+13104640097,node,,memorial,Blois,,,,47.6469954,1.2657512
+13104640098,node,,memorial,Blois,,,,47.6671178,1.2346034
+13104645514,node,,memorial,Blois,,,,47.6845191,1.2949886
+13104645522,node,,memorial,Blois,,,,47.7442507,1.3627023
+13104645533,node,,memorial,Blois,,,,47.7231453,1.4050008
+13104645538,node,,memorial,Blois,,,,47.7193894,1.420117
+13104645543,node,,memorial,Blois,,,,47.7711056,1.4458756
+13104645544,node,,memorial,Blois,,,,47.7983273,1.5206516
+13107929256,node,,memorial,Blois,,,,47.509639,1.4565544
+13107929273,node,,memorial,Blois,,,,47.5102745,1.551623
+13107929353,node,,memorial,Blois,,,,47.5333158,1.6110939
+13107929360,node,,memorial,Blois,,,,47.5588774,1.5944158
+13107929370,node,,memorial,Blois,,,,47.5392385,1.4992419
+13107929381,node,,memorial,Blois,,,,47.592597,1.4578781
+13107929422,node,,memorial,Blois,,,,47.7243046,1.5609305
+13107929448,node,,memorial,Blois,,,,47.7188397,1.6158686
+13107929458,node,,memorial,Blois,,,,47.667674,1.523252
+13107929471,node,,memorial,Blois,,,,47.6300753,1.5960749
+13107929511,node,Jean Desjoyaux,memorial,Blois,,,,47.6387897,1.4207896
+13107929513,node,,memorial,Blois,,,,47.6416004,1.449268
+13107929559,node,,memorial,Blois,,,,47.5805166,1.3841369
+13107929588,node,,memorial,Blois,,,,47.6130413,1.3649534
+13108540477,node,,memorial,Blois,,,,47.4671383,1.1377025
+13108799575,node,,memorial,Blois,,,,47.5688541,1.3604164
+13108799577,node,,memorial,Blois,,,,47.5412181,1.3125873
+13108800110,node,,memorial,Blois,,,,47.5038103,1.3350306
+13108800120,node,,memorial,Blois,,,,47.4962105,1.3717367
+13108800122,node,,memorial,Blois,,,,47.6136213,1.2392302
+13108800142,node,,memorial,Blois,,,,47.5778954,1.2145391
+13108800143,node,,memorial,Blois,,,,47.5718318,1.2082936
+13108800153,node,,memorial,Blois,,,,47.5630745,1.2202334
+13108800154,node,,memorial,Blois,,,,47.5403839,1.2194838
+13108800179,node,,memorial,Blois,,,,47.540847,1.2245049
+13108800185,node,,memorial,Blois,,,,47.5112035,1.119141
 13110943445,node,Au Petit Troglo,restaurant,Blois,,,https://aupetittroglo.fr/,47.4806435,1.1855858
+13174985684,node,À la Mémoire des Anciens Élèves de l'École Victor-Hugo Morts pour la France 1914-1918,memorial,Blois,,,,47.5856096,1.3288393
 13228286001,node,Hôtel Le Cosy,hotel,Blois,"3 Route de Vendôme, 41000",41000,,47.6116752,1.3076998
+13272596701,node,,viewpoint,Blois,,,,47.5850981,1.3313134
 13392921491,node,Logis Hôtel Restaurant La Diligence,hotel,Blois,,,https://www.hotel-la-diligence.com/,47.6551748,1.6738464
 13392921492,node,La Diligence,restaurant,Blois,,,https://www.hotel-la-diligence.com/restaurant-la-ferte-st-cyr-blois,47.6552879,1.6738497
 13415936241,node,Chez Napoléon,restaurant,Blois,,,,47.4999628,1.1737056
 13415949336,node,La Charbonnette,restaurant,Blois,,,,47.5002856,1.1741914
+13588858462,node,,memorial,Blois,,,,47.6674511,1.4585786
+13666765549,node,,garden,Blois,,,,47.5741554,1.397694
 13764501401,node,Khmer Wok,restaurant,Blois,"19 Rue de la Justice, 41150",41150,https://khmer-wok-veuzain-sur-loire.eatbu.com,47.5007225,1.1740611
 13962591001,node,Hôtel Auberge du Centre,hotel,Blois,"34 Grande Rue, 41120",41120,https://www.auberge-du-centre.com/,47.4969704,1.3707743
 13965253102,node,La Cour des Rois,restaurant,Blois,"5-7 Rue du Chêne des Dames, 41700",41700,http://lacourdesrois.eatbu.com,47.4988912,1.460345
+13997083014,node,,restaurant,Blois,,,,47.6669961,1.4612326
+44729316,way,Parc de la paix,park,Blois,,,,47.4827854,1.1909498
+55130758,way,Square Pasteur,park,Blois,,,,47.5855321,1.3267396
+55507841,way,,park,Blois,,,,47.5834622,1.3264438
+55994950,way,,garden,Blois,,,,47.5827536,1.3179679
+60366060,way,Château de Monrepos,castle,Blois,,,,47.5184057,1.4026323
+60431459,way,Château de Conon,castle,Blois,,,,47.5254649,1.4018583
+60741388,way,Château de Bousseuil,castle,Blois,,,,47.5342207,1.4067099
+60741394,way,Château de Montrion,castle,Blois,,,,47.5343891,1.3992538
+63368498,way,Cantine scolaire,restaurant,Blois,,,,47.9086725,1.5308546
+78320208,way,Domaine de Chaumont-sur-Loire,park,Blois,,,,47.4772055,1.1837907
+78419518,way,Festival international des Jardins,garden,Blois,,,,47.475685,1.1805181
+80416871,way,Château des Rochères,castle,Blois,,,,47.522618,1.416595
+80417574,way,Château de la Gagnotterie,castle,Blois,,,,47.5220304,1.394911
+80418137,way,Château de Beauregard,attraction,Blois,,,https://www.beauregard-loire.com/,47.5369703,1.3841857
+80418150,way,Château de la Boissière,castle,Blois,,,,47.5140227,1.3538064
+80418840,way,La Vieille Tour,restaurant,Blois,7,,https://www.restaurant-la-vieille-tour-blois.com/,47.5257096,1.3828723
+80419013,way,Auberge du Lion d'Or,hotel,Blois,,,,47.5259908,1.3829001
+80419995,way,Château de la Rozelle,hotel,Blois,,,https://www.chateaudelarozelle.com/fr/,47.5226406,1.3876249
+86391352,way,,memorial,Blois,,,,47.6083357,1.359736
+86631872,way,Tourhotel,hotel,Blois,,,,47.6088295,1.3564954
+86633289,way,Villa Bellagio,hotel,Blois,,,,47.6057659,1.3571282
+94729856,way,Hôtel Saint Cyr,hotel,Blois,,,https://www.hotel-st-cyr.com/,47.658538,1.672415
+107249482,way,Le Pinocchio,restaurant,Blois,,,,47.499121,1.4604163
+107249655,way,Château du Breuil,hotel,Blois,"23, Cheverny",,https://www.sources-cheverny.com/,47.4788437,1.4324395
+107251067,way,Château de Troussay,attraction,Blois,,,,47.4913706,1.4244965
+107251244,way,Château de Cheverny,attraction,Blois,,,https://www.chateau-cheverny.fr/,47.5002328,1.4580187
+107252369,way,Château de la Grande Bourdonnière,castle,Blois,,,,47.4962792,1.4322459
+116168675,way,,castle,Blois,,,,47.501131,1.174803
+118643441,way,Le Patio,restaurant,Blois,"3 Place de la Résistance, 41000, Blois",41000,,47.5864257,1.3361515
+118643461,way,Au Coin d'Table,restaurant,Blois,"7, 41000, Blois",41000,,47.586777,1.3362095
+118643470,way,Le bistrot de Léonard,restaurant,Blois,"8, 41000, Blois",41000,,47.5866555,1.33654
+118643674,way,Maison de la BD,museum,Blois,,,http://www.blois.fr/39-chateau-royal.htm,47.5847255,1.3332532
+118644554,way,Poivre et Sel,restaurant,Blois,"9, 41000, Blois",41000,https://www.restaurantpoivreetsel41.com,47.587137,1.334949
+118644557,way,300 grammes,restaurant,Blois,"6, 41000, Blois",41000,,47.5870305,1.3353935
+118644809,way,,restaurant,Blois,"12 Rue des Trois Clefs, 41000, Blois",41000,,47.587034,1.3340725
+118644824,way,Hôtel Viart,attraction,Blois,"47, 41000, Blois",41000,,47.5869315,1.3335055
+118645362,way,Maison de la Magie,museum,Blois,,,https://www.maisondelamagie.fr,47.5864409,1.333118
+118645364,way,Le petit bistro,restaurant,Blois,"6, 41000, Blois",41000,,47.5864567,1.3337008
+118647164,way,Hôtel de Condé,attraction,Blois,"3, 41000, Blois",41000,,47.587553,1.3353325
+118647228,way,Plumes de Pékin,restaurant,Blois,"3, 41000, Blois",41000,,47.587711,1.3345045
+118647349,way,Hôtel de France et de Guise,hotel,Blois,,,,47.5869585,1.330495
+118647416,way,Hôtel d'Alluye,attraction,Blois,"8, 41000, Blois",41000,,47.587774,1.3318885
+118648809,way,Le Petit Honfleur,restaurant,Blois,"18 Rue Beauvoir, 41000",41000,https://lepetithonfleur.fr/,47.588204,1.3319225
+118650458,way,Novotel Blois Centre Val de Loire,hotel,Blois,"26 Avenue du Maréchal Maunoury, 41000, Blois",41000,https://all.accor.com/hotel/B2W9/index.fr.shtml,47.5917235,1.3361625
+118650485,way,Restaurant administratif de Blois,restaurant,Blois,"18, 41000, Blois",41000,,47.5943058,1.3364757
+118686651,way,Saqartvelo,restaurant,Blois,29 Rue du Foix,,,47.5823675,1.3289255
+118689480,way,Hôtel Anne de Bretagne,hotel,Blois,,,,47.5863415,1.3266582
+118691330,way,,restaurant,Blois,,,,47.5889725,1.3291525
+118703592,way,Via Vietnam,restaurant,Blois,"2, 41000, Blois",41000,,47.5923521,1.341204
+118705209,way,Brit Hôtel Blois - Le Préma,hotel,Blois,,,,47.613784,1.335425
+118705627,way,Hôtel Premiere Classe Blois Nord,hotel,Blois,"14, 41000, Blois",41000,,47.612403,1.3318615
+118705675,way,La Boucherie,restaurant,Blois,,,,47.6112005,1.336964
+118705679,way,Ristorante del Arte,restaurant,Blois,"41000, Blois",41000,,47.612558,1.3373875
+118705685,way,Bistro Régent Blois,restaurant,Blois,,,,47.6125785,1.3386505
+118720641,way,Au Bacchus Gourmand,restaurant,Blois,,,,47.581421,1.343238
+118721939,way,Les Planches,restaurant,Blois,"5 Rue du Grenier à Sel, 41000, Blois",41000,,47.587747,1.3370315
+118721940,way,Diffa,restaurant,Blois,"46, 41000, Blois",41000,,47.587678,1.337295
+118721979,way,Le Madras,restaurant,Blois,"54, 41000, Blois",41000,https://www.le-madras.com/,47.587966,1.3376575
+118722013,way,‑ NIU ‑,restaurant,Blois,"44, 41000, Blois",41000,,47.5878825,1.338324
+118806751,way,Château de Menars,castle,Blois,,,,47.638728,1.410576
+118808328,way,Observatoire Loire,museum,Blois,"Levée de la Loire, 41260, La Chaussée-Saint-Victor",41260,https://www.observatoireloire.fr/index.php,47.5987405,1.3602085
+118817320,way,Buffalo Grill,restaurant,Blois,,,,47.606781,1.354195
+118818130,way,Château des Basses Roches,hotel,Blois,,,http://www.chateaudesbassesroches.fr/,47.6119422,1.3665865
+118818710,way,Moulin Chouard,ruins,Blois,,,,47.6189677,1.3720082
+118844356,way,Château de Saint-Denis-sur-Loire,castle,Blois,,,,47.624308,1.388453
+118852958,way,Château de Chaumont-sur-Loire,attraction,Blois,,,,47.479155,1.1818405
+119087311,way,Château de la Vicomté,castle,Blois,,,,47.5449925,1.280665
+123396156,way,Fleur de Loire,hotel,Blois,"41000, Blois",41000,https://fleurdeloire.com,47.5824346,1.3377135
+129032360,way,Le Saint-Florent,hotel,Blois,14,,,47.5624855,1.4624125
+172352833,way,balladins,hotel,Blois,"245, 41350, Saint-Gervais-la-Forêt",41350,,47.5663205,1.3719935
+172352838,way,La Taverne de Maître Kanter,restaurant,Blois,,,,47.5641405,1.3729615
+172353129,way,Interhôtel-Ikar,hotel,Blois,,,,47.563801,1.3715245
+181538186,way,Hôtel Campanile Blois Sud,hotel,Blois,"48, 41350, Vineuil",41350,http://www.campanile-blois-sud-vineuil.fr/,47.5836625,1.36798
+181538222,way,La relève,restaurant,Blois,"6 Place du 11 Novembre, 41350, Vineuil",41350,,47.5814845,1.377616
+181538595,way,La P'tite Tablée,restaurant,Blois,,,,47.581468,1.3769285
+181591117,way,Château des Grotteaux,castle,Blois,,,http://www.chateau-des-grotteaux.com/,47.5850225,1.421081
+181591266,way,Château de Nanteuil,castle,Blois,,,,47.579495,1.4100535
+181591271,way,Château Saumery,castle,Blois,,,,47.6053375,1.469046
+182063083,way,Relais de Chambord,hotel,Blois,Place Saint-Louis,,https://relaisdechambord.com/,47.6163267,1.5136094
+182108312,way,Hôtel de la Bonheure,hotel,Blois,9 bis,,,47.5475645,1.540432
+182108364,way,Musée de la Chocolaterie Max Vauché,museum,Blois,"22, 41250, Bracieux",41250,https://www.maxvauche-chocolatier.com/,47.5504895,1.5386555
+182109550,way,Au relais d'Artemis,restaurant,Blois,,,,47.554197,1.5389765
+182230010,way,Les Ogonnières,castle,Blois,,,,47.5229475,1.5086114
+182265331,way,Château d'Herbault,castle,Blois,,,,47.5498356,1.5715591
+182784646,way,La Ravinière,castle,Blois,,,,47.510591,1.574583
+182784671,way,Gué la Guette,castle,Blois,,,,47.4913625,1.52258
+183219378,way,,ruins,Blois,,,,47.5213085,1.4224375
+183219750,way,Château Ségigny,castle,Blois,,,,47.498263,1.4962735
+183219788,way,Château de Chantreuil,castle,Blois,,,,47.5066285,1.465446
+183222188,way,Château de la Sistière,castle,Blois,,,,47.517783,1.4873025
+183223067,way,,castle,Blois,,,,47.502516,1.478153
+183223086,way,Manoir du Vivier,castle,Blois,,,,47.530492,1.4294135
+193065583,way,,park,Blois,,,,47.4411492,1.3011882
+194278289,way,,castle,Blois,,,,47.444356,1.2615815
+208325547,way,,park,Blois,,,,47.7103705,1.5440512
+220705339,way,,garden,Blois,,,,47.6369598,1.4053587
+222225722,way,Château de Nozieux,castle,Blois,,,,47.626806,1.4229515
+230003717,way,,park,Blois,,,,47.4784198,1.257032
+231209928,way,Château de Rocon,castle,Blois,,,,47.5520875,1.2239465
+231210422,way,,memorial,Blois,,,,47.5406024,1.1944247
+240990589,way,Château de Chambord,attraction,Blois,,,https://www.chambord.org/,47.6160699,1.5172092
+243004652,way,Conservatoire de Blois,museum,Blois,"14 Rue de la Paix, 41000, Blois",41000,https://conservatoire.agglopolys.fr/,47.5892394,1.328941
+243006817,way,,park,Blois,,,,47.614683,1.5150728
+243397341,way,Château de Cour-sur-Loire,castle,Blois,,,,47.6501975,1.4262225
+243475848,way,,hotel,Blois,,,,47.632343,1.4805885
+256783737,way,,garden,Blois,,,,47.5340174,1.4216923
+258210445,way,Sushi Mii,restaurant,Blois,5 bis,,https://www.sushimii.fr/,47.703765,1.5058625
+258260431,way,Place de la Halle,park,Blois,,,,47.7037799,1.5066396
+262598954,way,Place Saint-Martin,garden,Blois,,,,47.6059547,1.1424676
+262599136,way,Square du Souvenir Français,garden,Blois,,,,47.606218,1.1423831
+264089978,way,Chateau de Chanteloire,castle,Blois,,,,47.5369125,1.2356805
+264090057,way,Château de l'Isle Verte,castle,Blois,,,,47.536593,1.2555095
+266410934,way,Place du 8 Mai 1945,park,Blois,,,,47.5031264,1.3341425
+278087672,way,La Taille de Biou,park,Blois,,,,47.5951118,1.4482481
+278731000,way,Hôtel le verger,hotel,Blois,"14 rue du port Prichard, 41220, Saint-Laurent Nouan",41220,,47.7074655,1.5912935
+278734696,way,,attraction,Blois,"Rue du Moulin Saint-Jacques, 41220, Saint-Laurent-Nouan",41220,https://www.tourisme-saintlaurentnouan.fr/visiter-saint-laurent-nouan/moulin-%C3%A0-vent/,47.68261,1.5532645
+297265204,way,,park,Blois,,,,47.6010086,1.3986547
+297353284,way,,park,Blois,,,,47.5937421,1.3195865
+297823384,way,Parc de Feuillarde,park,Blois,,,,47.5786051,1.3716921
+297823390,way,,park,Blois,,,,47.5736683,1.3978598
+297868609,way,,park,Blois,,,,47.5867056,1.3695123
+303186827,way,,park,Blois,,,,47.5828983,1.3738778
+304576870,way,Jardin du Château de Talcy,garden,Blois,,,https://www.chateau-talcy.fr/,47.7709507,1.4445127
+337982516,way,,castle,Blois,,,,47.65649,1.1549911
+337993794,way,Château de Freschines,castle,Blois,,,,47.696603,1.2286279
+340447666,way,PURE,restaurant,Blois,"65, 41000, Blois",41000,,47.590139,1.299477
+340449616,way,Le Boudoir,restaurant,Blois,"10, 41000, Blois",41000,,47.5868465,1.3358995
+340585694,way,Place des Sarazines,park,Blois,,,,47.5979157,1.3140019
+340591691,way,Mercure Hôtel,hotel,Blois,,,,47.5892985,1.3400525
+350419547,way,,park,Blois,,,,47.5044482,1.1240125
+350811835,way,Mirador,ruins,Blois,,,,47.5753602,1.2813341
+352873823,way,,garden,Blois,,,,47.5963584,1.1148896
+366137745,way,Château de la Pigeonnière,castle,Blois,,,,47.532869,1.3024995
+366139656,way,Château du Plessis-Villelouet,castle,Blois,,,,47.529647,1.30056
+420330345,way,La Trouvaille,restaurant,Blois,"5, 41000, Blois",41000,,47.5841889,1.3397157
+428887583,way,,park,Blois,,,,47.8325253,1.3807802
+440832109,way,Auberge de la Caillère,hotel,Blois,"36 Route des Montils, 41120, Candé-sur-Beuvron",41120,,47.4943606,1.2703562
+440834017,way,Château de Candé,castle,Blois,,,,47.4974317,1.2547184
+440865678,way,Château de Madon,castle,Blois,,,,47.5174145,1.2904207
+440934146,way,Tour du château des Montils,attraction,Blois,,,,47.4946353,1.2968906
+441536650,way,Moulin de Rochechouard,attraction,Blois,,,,47.6659973,1.4629296
+443631358,way,,castle,Blois,,,,47.4792671,1.256652
+443807681,way,,castle,Blois,,,,47.5060081,1.3423022
+444420719,way,,castle,Blois,,,,47.4838955,1.109011
+444562849,way,Château des Tertres,hotel,Blois,"11 Rue de Meuves, 41150, Onzain",41150,https://www.chateau-tertres.com/,47.4963643,1.1567494
+450769420,way,,park,Blois,,,,47.8288473,1.3916191
+476895995,way,,castle,Blois,,,,47.7104412,1.2536609
+479417273,way,,castle,Blois,,,,47.9895938,1.4493426
+480307463,way,Courtepaille,restaurant,Blois,,,,47.6056239,1.3272978
+502350174,way,L'Oratoire,restaurant,Blois,1 Avenue du Docteur Jean Laigret,,,47.586628,1.3290115
+516088912,way,,castle,Blois,,,,47.4714497,1.4091772
+516088947,way,Château de la Coque,castle,Blois,,,,47.5138638,1.4001682
+516348485,way,Château de Chitenay,castle,Blois,,,,47.4935701,1.3776867
+519735771,way,,ruins,Blois,,,,47.5782473,1.4082158
+519736251,way,,ruins,Blois,,,,47.590288,1.4327394
+567413219,way,Château du Marais,castle,Blois,,,,47.6666764,1.5292835
+567794501,way,Château de Montlivault,castle,Blois,,,,47.6393665,1.4436658
+569065648,way,Square Henri Vincenot,park,Blois,,,,47.820667,1.2937488
+576698601,way,,park,Blois,,,,47.6988359,1.5151261
+583041656,way,,park,Blois,,,,47.9119624,1.5237417
+611833349,way,,beach,Blois,,,,47.5920839,1.348007
+618249875,way,,park,Blois,,,,47.6424862,1.4154948
+618488851,way,Château de Pezay,castle,Blois,,,,47.6548911,1.3104029
+622697231,way,Château du Breuil,restaurant,Blois,"Chemin du Breuil, Cheverny",,https://www.sources-cheverny.com/,47.4788572,1.4328217
+631526850,way,Restaurant,restaurant,Blois,,,,47.5265167,1.1868312
+705417923,way,,garden,Blois,,,,47.4983908,1.3034608
+705492337,way,Aire de loisirs des Masnières,park,Blois,,,,47.4976676,1.3036498
+705749873,way,Monument aux Morts pour la France,memorial,Blois,,,,47.4966929,1.2932165
+705749881,way,,park,Blois,,,,47.4945833,1.2969002
+705837731,way,,garden,Blois,,,,47.494343,1.2958535
+705837735,way,,garden,Blois,,,,47.4944548,1.295608
+705843705,way,,garden,Blois,,,,47.4949749,1.2962269
+706136178,way,,garden,Blois,,,,47.4965863,1.2983593
+706155728,way,,garden,Blois,,,,47.4953349,1.2950435
+706155730,way,,garden,Blois,,,,47.4953707,1.2951842
+706235251,way,,garden,Blois,,,,47.4944047,1.2963838
+706235268,way,,garden,Blois,,,,47.4940998,1.2957248
+706684392,way,,garden,Blois,,,,47.4942131,1.2977348
+706729295,way,,garden,Blois,,,,47.4944141,1.2984455
+706729297,way,,garden,Blois,,,,47.4948073,1.2985269
+712613041,way,,garden,Blois,,,,47.5734771,1.3032939
+753596100,way,Parc des Mées,park,Blois,,,,47.5993035,1.3586773
+766747642,way,,garden,Blois,,,,47.5853726,1.3302373
+766747643,way,,garden,Blois,,,,47.5852286,1.3304909
+766747652,way,Château Royal de Blois,attraction,Blois,,,https://www.chateaudeblois.fr/,47.585593,1.3307776
+766747659,way,,garden,Blois,,,,47.5858315,1.3303273
+767722062,way,,garden,Blois,,,,47.5862965,1.3332148
+767722066,way,,garden,Blois,,,,47.5863513,1.3326805
+768686815,way,,garden,Blois,,,,47.5857453,1.3277707
+768686816,way,,garden,Blois,,,,47.5855801,1.3276563
+768686827,way,,garden,Blois,,,,47.585465,1.3271545
+768686837,way,,garden,Blois,,,,47.585302,1.3269449
+768843957,way,,garden,Blois,,,,47.5856655,1.3286247
+768843958,way,,garden,Blois,,,,47.5856864,1.328592
+768843959,way,,garden,Blois,,,,47.5857072,1.3285593
+768843960,way,,garden,Blois,,,,47.5857278,1.3285273
+768843961,way,,garden,Blois,,,,47.5857491,1.3284939
+768843962,way,,garden,Blois,,,,47.5857695,1.3284619
+768843963,way,,garden,Blois,,,,47.5857903,1.3284292
+768843964,way,,garden,Blois,,,,47.5854912,1.3288982
+768843965,way,,garden,Blois,,,,47.5855121,1.3288655
+768843966,way,,garden,Blois,,,,47.5855325,1.3288334
+768843967,way,,garden,Blois,,,,47.5855538,1.3288001
+768843968,way,,garden,Blois,,,,47.5855743,1.3287682
+768843969,way,,garden,Blois,,,,47.5855951,1.3287354
+768843970,way,,garden,Blois,,,,47.585513,1.3289285
+768843971,way,,garden,Blois,,,,47.5855339,1.3288958
+768843972,way,,garden,Blois,,,,47.5855544,1.3288638
+768843973,way,,garden,Blois,,,,47.5855756,1.3288304
+768843974,way,,garden,Blois,,,,47.5855961,1.3287984
+768843975,way,,garden,Blois,,,,47.585617,1.3287657
+768843976,way,,garden,Blois,,,,47.5854693,1.328868
+768843977,way,,garden,Blois,,,,47.5854902,1.3288353
+768843978,way,,garden,Blois,,,,47.5855107,1.3288032
+768843979,way,,garden,Blois,,,,47.585532,1.3287699
+768843980,way,,garden,Blois,,,,47.5855524,1.3287379
+768843981,way,,garden,Blois,,,,47.5855732,1.3287052
+768843982,way,,garden,Blois,,,,47.585688,1.328655
+768843983,way,,garden,Blois,,,,47.5857089,1.3286223
+768843984,way,,garden,Blois,,,,47.5857297,1.3285896
+768843985,way,,garden,Blois,,,,47.5857503,1.3285575
+768843986,way,,garden,Blois,,,,47.5857715,1.3285242
+768843987,way,,garden,Blois,,,,47.585792,1.3284922
+768843988,way,,garden,Blois,,,,47.5858128,1.3284595
+768843989,way,,garden,Blois,,,,47.5856428,1.3285944
+768843990,way,,garden,Blois,,,,47.5856637,1.3285618
+768843991,way,,garden,Blois,,,,47.5856845,1.328529
+768843992,way,,garden,Blois,,,,47.5857051,1.328497
+768843993,way,,garden,Blois,,,,47.5857264,1.3284637
+768843994,way,,garden,Blois,,,,47.5857467,1.3284317
+768843995,way,,garden,Blois,,,,47.5857677,1.328399
+768844002,way,Jardin des Lices,park,Blois,,,,47.5852035,1.327944
+768844003,way,Jardin de Diane,park,Blois,,,,47.5856223,1.3276353
+768844006,way,Bastion du Roy,park,Blois,,,,47.5855962,1.3294661
+768844009,way,,garden,Blois,,,,47.5854367,1.3295623
+768844010,way,,garden,Blois,,,,47.5855576,1.3296688
+768849001,way,Jardin des Fleurs Royales,park,Blois,,,,47.5856318,1.3286467
+768970467,way,,garden,Blois,,,,47.5859845,1.3294467
+768970468,way,,garden,Blois,,,,47.5859272,1.329534
+768970469,way,,garden,Blois,,,,47.5859308,1.3293679
+768970470,way,,garden,Blois,,,,47.5858738,1.3294556
+768970487,way,,garden,Blois,,,,47.5858362,1.3284445
+768970490,way,,garden,Blois,,,,47.585646,1.3289794
+768970491,way,,garden,Blois,,,,47.5857273,1.3289338
+768970492,way,,garden,Blois,,,,47.5857777,1.328778
+768970493,way,,garden,Blois,,,,47.5855931,1.3291049
+768970494,way,,garden,Blois,,,,47.5856764,1.3292607
+768970495,way,,garden,Blois,,,,47.5857656,1.3292864
+768970496,way,,garden,Blois,,,,47.5857994,1.3291291
+768970533,way,Jardin des Simples,park,Blois,,,,47.5857674,1.3289926
+769449981,way,,garden,Blois,,,,47.5835897,1.3243933
+769763447,way,,garden,Blois,,,,47.585539,1.3207815
+769763448,way,,garden,Blois,,,,47.5854245,1.3208296
+769763455,way,,garden,Blois,,,,47.5858856,1.3211968
+769763456,way,,garden,Blois,,,,47.5858753,1.3212972
+769763457,way,,garden,Blois,,,,47.5857654,1.321102
+769763458,way,,garden,Blois,,,,47.5856654,1.3208399
+769763459,way,,garden,Blois,,,,47.5855702,1.3205368
+769763460,way,,garden,Blois,,,,47.5856455,1.3204677
+769763461,way,,garden,Blois,,,,47.5853437,1.320648
+769763462,way,,garden,Blois,,,,47.5854849,1.3203638
+769763479,way,,garden,Blois,,,,47.585422,1.3200258
+769763480,way,,garden,Blois,,,,47.58524,1.320335
+769763488,way,,garden,Blois,,,,47.5857917,1.3203264
+769763489,way,,garden,Blois,,,,47.5857287,1.3202193
+769763490,way,,garden,Blois,,,,47.585719,1.3203265
+770066140,way,,garden,Blois,,,,47.5851038,1.3207359
+770066141,way,,garden,Blois,,,,47.5851273,1.3209202
+770880701,way,,garden,Blois,,,,47.583765,1.3215438
+771043773,way,,garden,Blois,,,,47.5848228,1.3222628
+771043774,way,,garden,Blois,,,,47.5847775,1.3221848
+780239199,way,,ruins,Blois,,,,47.6164239,1.3768756
+780239200,way,,ruins,Blois,,,,47.6148666,1.3789887
+780239202,way,,ruins,Blois,,,,47.6126506,1.3820504
+780239203,way,,ruins,Blois,,,,47.6122016,1.3826727
+780918612,way,,garden,Blois,,,,47.495934,1.2940181
+780918615,way,,garden,Blois,,,,47.4961288,1.2939807
+780918623,way,,garden,Blois,,,,47.496502,1.293754
+780918648,way,,garden,Blois,,,,47.495576,1.2937038
+781314887,way,,garden,Blois,,,,47.4946429,1.2948101
+781806281,way,,garden,Blois,,,,47.4951899,1.2941655
+781806282,way,,garden,Blois,,,,47.4952238,1.294258
+781806300,way,,garden,Blois,,,,47.4958011,1.2954298
+781806303,way,,garden,Blois,,,,47.4958115,1.2953326
+782083929,way,,garden,Blois,,,,47.494818,1.2914801
+782083959,way,,garden,Blois,,,,47.4952805,1.2925099
+782186946,way,,garden,Blois,,,,47.4950746,1.2910115
+782186949,way,,garden,Blois,,,,47.4948978,1.2908959
+782186950,way,,garden,Blois,,,,47.4949402,1.2910848
+782186951,way,,garden,Blois,,,,47.4949934,1.2907338
+782493083,way,,garden,Blois,,,,47.4953309,1.298641
+782713997,way,,garden,Blois,,,,47.4960811,1.3007394
+782714035,way,,garden,Blois,,,,47.4951217,1.30047
+783168122,way,,garden,Blois,,,,47.4938124,1.3028664
+783168135,way,,garden,Blois,,,,47.4943352,1.3004653
+787905737,way,Jardins de l’Évêché,park,Blois,,,,47.5894663,1.3381871
+787905738,way,Roseraie des jardins de l’Évêché,park,Blois,,,,47.5888419,1.3377971
+787905746,way,,garden,Blois,,,,47.5894682,1.3385829
+787905747,way,,garden,Blois,,,,47.5896452,1.3388205
+788158815,way,,garden,Blois,,,,47.5886994,1.336243
+788585331,way,,garden,Blois,,,,47.5903347,1.3331796
+788585332,way,,garden,Blois,,,,47.5902512,1.333243
+788585333,way,,garden,Blois,,,,47.5901983,1.3330926
+788585334,way,,garden,Blois,,,,47.5902822,1.3330302
+788877976,way,,garden,Blois,,,,47.5877522,1.332964
+788877978,way,,garden,Blois,,,,47.5876313,1.3323588
+790754246,way,Monument aux Morts 1914-1918,memorial,Blois,,,,47.5898795,1.3341721
+790754250,way,Square du 11 Novembre 1918 et du 8 Mai 1945,park,Blois,,,,47.5897571,1.3342583
+790754256,way,,garden,Blois,,,,47.5899341,1.3342169
+790754257,way,,garden,Blois,,,,47.5898815,1.3340355
+791167595,way,,garden,Blois,,,,47.5905316,1.336038
+791167596,way,,garden,Blois,,,,47.590247,1.3361757
+791167597,way,,garden,Blois,,,,47.5906375,1.3363567
+791167598,way,,garden,Blois,,,,47.5903857,1.3365381
+791386018,way,,garden,Blois,,,,47.5906447,1.3369335
+791386019,way,,garden,Blois,,,,47.5907189,1.3369215
+791386020,way,,garden,Blois,,,,47.5907571,1.3369478
+791386021,way,,garden,Blois,,,,47.5907652,1.337007
+791386022,way,,garden,Blois,,,,47.590727,1.3370994
+791386023,way,,garden,Blois,,,,47.5906888,1.337204
+792717341,way,Square de l'Abbé Grégoire,park,Blois,,,,47.5836536,1.3324863
+793090178,way,,garden,Blois,,,,47.6014928,1.3433437
+794201551,way,,garden,Blois,,,,47.5853814,1.3321247
+795458588,way,,park,Blois,,,,47.5831659,1.3286714
+799129882,way,,garden,Blois,,,,47.8574574,1.5236373
+810219531,way,,garden,Blois,,,,47.4966563,1.2982752
+810235888,way,,garden,Blois,,,,47.4960037,1.2967533
+810299401,way,,garden,Blois,,,,47.4961117,1.3024161
+810299402,way,,garden,Blois,,,,47.496387,1.3024395
+813950599,way,,garden,Blois,,,,47.4958382,1.297073
+813950604,way,,garden,Blois,,,,47.4959796,1.2971869
+813950613,way,,garden,Blois,,,,47.4961316,1.297414
+813950637,way,,garden,Blois,,,,47.4956859,1.2977341
+813950639,way,,garden,Blois,,,,47.4961433,1.2972076
+819115005,way,,garden,Blois,,,,47.6008887,1.3277859
+819115006,way,,garden,Blois,,,,47.6007943,1.3271415
+819766003,way,,garden,Blois,,,,47.601888,1.3279124
+819766004,way,,garden,Blois,,,,47.6020122,1.3279165
+821155686,way,Le Rendez-Vous,restaurant,Blois,,,,47.5731917,1.3741621
+821155687,way,Stratto,restaurant,Blois,,,,47.5731238,1.3742134
+821155713,way,Flunch,restaurant,Blois,,,,47.5723765,1.3744021
+827853151,way,Labyrinthe,attraction,Blois,,,,47.5020198,1.4574065
+897674710,way,,garden,Blois,,,,47.587418,1.3285075
+897971300,way,,garden,Blois,,,,47.5875626,1.3297093
+897971302,way,,garden,Blois,,,,47.5875261,1.3299102
+897971307,way,,garden,Blois,,,,47.5874646,1.3297584
+897971308,way,,garden,Blois,,,,47.5873903,1.329884
+906216204,way,,garden,Blois,,,,47.585173,1.3176503
+906216206,way,,garden,Blois,,,,47.5850599,1.3175898
+906216207,way,,garden,Blois,,,,47.5847953,1.317361
+906216208,way,,garden,Blois,,,,47.5847825,1.3174668
+929371710,way,Square de la Gare,park,Blois,,,,47.5204709,1.2472277
+965012359,way,,park,Blois,,,,47.6153742,1.5121759
+965012360,way,,garden,Blois,,,,47.6155573,1.512735
+981028657,way,,garden,Blois,,,,47.4987118,1.3021856
+981028658,way,,garden,Blois,,,,47.4984759,1.3024412
+981028659,way,,garden,Blois,,,,47.4986678,1.3013625
+981028662,way,,garden,Blois,,,,47.4991465,1.302638
+981028704,way,,garden,Blois,,,,47.4987449,1.3008329
+981615563,way,,garden,Blois,,,,47.4970747,1.2999729
+981615564,way,,garden,Blois,,,,47.4971575,1.2999748
+981981622,way,,garden,Blois,,,,47.496274,1.2992679
+991105048,way,Parc de la Basilique,park,Blois,,,,47.5948201,1.343759
+1004649848,way,,garden,Blois,,,,47.5857853,1.3241962
+1004649849,way,,garden,Blois,,,,47.5855784,1.3241713
+1004649850,way,,garden,Blois,,,,47.5856974,1.3243034
+1004774720,way,,garden,Blois,,,,47.5913841,1.3244244
+1011488660,way,Pont antique à duits,ruins,Blois,,,,47.5809936,1.3312777
+1011488661,way,Duits du Pont Médiéval,ruins,Blois,,,,47.5870008,1.343471
+1011488662,way,Pont antique à duits,ruins,Blois,,,,47.5840791,1.3354432
+1013314256,way,,park,Blois,,,,47.5915832,1.3422839
+1014009675,way,,park,Blois,,,,47.5801516,1.3037978
+1014368201,way,,park,Blois,,,,47.5870045,1.3298964
+1015866795,way,Terrasses du Château,park,Blois,,,,47.5853294,1.3303173
+1015866796,way,Jardins du Château,park,Blois,,,,47.5852034,1.3312255
+1016230730,way,,garden,Blois,,,,47.9127578,1.5242008
+1016567183,way,Crescendo,restaurant,Blois,,,,47.6150485,1.32405
+1016631503,way,Parc de la Gare,park,Blois,,,,47.5865115,1.3261122
+1017121562,way,,garden,Blois,,,,47.5853887,1.3242721
+1017121563,way,,garden,Blois,,,,47.5850973,1.3241098
+1017141555,way,,garden,Blois,,,,47.5823088,1.3222871
+1017577681,way,,garden,Blois,,,,47.592723,1.3237641
+1017577692,way,,garden,Blois,,,,47.5913092,1.3239287
+1017577693,way,,garden,Blois,,,,47.5915303,1.3243759
+1017577694,way,,garden,Blois,,,,47.591773,1.324709
+1017577695,way,,garden,Blois,,,,47.5918112,1.3244665
+1017577696,way,,garden,Blois,,,,47.5912362,1.3239799
+1017577697,way,,garden,Blois,,,,47.5912073,1.3241268
+1017577698,way,,garden,Blois,,,,47.5911775,1.3242255
+1017577699,way,,garden,Blois,,,,47.5912893,1.3246475
+1017577700,way,,garden,Blois,,,,47.5911005,1.3243544
+1017903408,way,,garden,Blois,,,,47.5910588,1.3244988
+1017903409,way,,garden,Blois,,,,47.5910193,1.3245943
+1017903411,way,,garden,Blois,,,,47.5909891,1.3248301
+1018866664,way,,garden,Blois,,,,47.5913354,1.3248904
+1018866665,way,,garden,Blois,,,,47.5912483,1.3251328
+1018866666,way,,garden,Blois,,,,47.5912706,1.3250287
+1018866668,way,,garden,Blois,,,,47.5912114,1.3252665
+1018866669,way,,garden,Blois,,,,47.5910477,1.3251792
+1018866670,way,,garden,Blois,,,,47.5911271,1.3248897
+1018866673,way,,garden,Blois,,,,47.5911083,1.325376
+1018866674,way,,garden,Blois,,,,47.590859,1.3254389
+1018866676,way,,garden,Blois,,,,47.5907274,1.3253579
+1034236867,way,,garden,Blois,,,,47.499343,1.4608999
+1035104318,way,,garden,Blois,,,,47.6163382,1.5147192
+1035104319,way,,garden,Blois,,,,47.6164153,1.5144685
+1036840158,way,Port de la Creusille,park,Blois,,,,47.5874271,1.3457568
+1037898375,way,Circuit Vapeur Denis Papin,park,Blois,,,www.cvdp.fr,47.5074457,1.3782382
+1042028908,way,Parc de La Corbillière,park,Blois,,,,47.6972841,1.5069956
+1047294828,way,,garden,Blois,,,,47.5173814,1.3237988
+1047294829,way,,garden,Blois,,,,47.5163436,1.3232286
+1047294830,way,,garden,Blois,,,,47.5168173,1.3236628
+1047509557,way,,garden,Blois,,,,47.5158485,1.3252426
+1047509569,way,,garden,Blois,,,,47.5177485,1.3233175
+1047509573,way,,garden,Blois,,,,47.5164413,1.3231119
+1049890413,way,Square Alain-Gerbault,park,Blois,,,,47.5915932,1.3079962
+1049905952,way,,garden,Blois,,,,47.5107056,1.3188775
+1049905962,way,,garden,Blois,,,,47.5116683,1.3199938
+1051370248,way,,garden,Blois,,,,47.5120278,1.3208403
+1051370249,way,,garden,Blois,,,,47.5116752,1.321204
+1051370250,way,,garden,Blois,,,,47.5117501,1.321178
+1051370251,way,,garden,Blois,,,,47.5118616,1.3212274
+1051553581,way,,garden,Blois,,,,47.5144573,1.3265369
+1051553604,way,,garden,Blois,,,,47.513154,1.3220903
+1052030270,way,,garden,Blois,,,,47.5141036,1.3278934
+1052089459,way,,garden,Blois,,,,47.4983398,1.2994918
+1056517962,way,,park,Blois,,,,47.6682559,1.525468
+1065452260,way,Archéovillage,theme_park,Blois,,,https://www.archeopourtous.org,47.7319771,1.6493269
+1071886327,way,,garden,Blois,,,,47.5757808,1.2996527
+1071886328,way,,garden,Blois,,,,47.5756518,1.2997358
+1071886329,way,,garden,Blois,,,,47.5755512,1.2998187
+1071886330,way,,garden,Blois,,,,47.57539,1.2999213
+1071886331,way,,garden,Blois,,,,47.5753004,1.2999997
+1071886332,way,,garden,Blois,,,,47.575198,1.3000761
+1071886333,way,,garden,Blois,,,,47.5750988,1.3001321
+1071886334,way,,garden,Blois,,,,47.5906731,1.3255779
+1071886335,way,,garden,Blois,,,,47.5905796,1.3256035
+1071886336,way,,garden,Blois,,,,47.5905027,1.3252323
+1071886337,way,,garden,Blois,,,,47.575472,1.2990012
+1071886338,way,,garden,Blois,,,,47.5754078,1.2990356
+1071886339,way,,garden,Blois,,,,47.5753297,1.2991053
+1071886340,way,,garden,Blois,,,,47.5752675,1.2991378
+1071886341,way,,garden,Blois,,,,47.5751872,1.2992064
+1071886342,way,,garden,Blois,,,,47.5751309,1.2992585
+1071886343,way,,garden,Blois,,,,47.5750514,1.2993272
+1071886344,way,,garden,Blois,,,,47.5749883,1.2993607
+1071886345,way,,garden,Blois,,,,47.5749092,1.29943
+1071886346,way,,garden,Blois,,,,47.5748291,1.2994667
+1076645313,way,,ruins,Blois,,,,47.6144197,1.3796
+1085126085,way,,garden,Blois,,,,47.5136037,1.3246465
+1085126103,way,,garden,Blois,,,,47.5133608,1.3240923
+1086232029,way,,garden,Blois,,,,47.4967941,1.3039935
+1086232041,way,,garden,Blois,,,,47.4962905,1.3029695
+1086232046,way,,garden,Blois,,,,47.4962445,1.3025873
+1086268174,way,,garden,Blois,,,,47.4976743,1.3037151
+1086387537,way,,garden,Blois,,,,47.4949453,1.3026791
+1086387561,way,,garden,Blois,,,,47.495305,1.3021566
+1086387566,way,,garden,Blois,,,,47.4957198,1.3021288
+1086478247,way,,garden,Blois,,,,47.495708,1.3042769
+1086899596,way,,garden,Blois,,,,47.4948673,1.3034258
+1086899608,way,,garden,Blois,,,,47.4949816,1.3052674
+1087228779,way,,garden,Blois,,,,47.4981623,1.2882993
+1087228799,way,,garden,Blois,,,,47.4985152,1.2881161
+1087453216,way,,garden,Blois,,,,47.5001588,1.2987887
+1088875756,way,,garden,Blois,,,,47.5123933,1.3327195
+1088875778,way,,garden,Blois,,,,47.5122552,1.3333554
+1088875785,way,,garden,Blois,,,,47.5127338,1.3317241
+1088875793,way,,garden,Blois,,,,47.5122705,1.3326199
+1088875810,way,,garden,Blois,,,,47.5121482,1.3328819
+1088875823,way,,garden,Blois,,,,47.5120294,1.3329164
+1088875864,way,,garden,Blois,,,,47.5116683,1.3330133
+1088922590,way,,garden,Blois,,,,47.510402,1.3320025
+1088922592,way,,garden,Blois,,,,47.5104168,1.3316966
+1088922595,way,,garden,Blois,,,,47.5103814,1.3313478
+1088922596,way,,garden,Blois,,,,47.5104245,1.3314123
+1088922603,way,,garden,Blois,,,,47.5105437,1.3315113
+1088922609,way,,garden,Blois,,,,47.5103809,1.3309876
+1088922634,way,,garden,Blois,,,,47.5106322,1.3306867
+1088933388,way,,garden,Blois,,,,47.5109129,1.3318456
+1088933389,way,,garden,Blois,,,,47.510973,1.3317405
+1088933396,way,,garden,Blois,,,,47.5113537,1.3314595
+1088933408,way,,garden,Blois,,,,47.5112187,1.3318201
+1088933409,way,,garden,Blois,,,,47.5112455,1.3316807
+1088933415,way,,garden,Blois,,,,47.5111029,1.3318858
+1089481581,way,,garden,Blois,,,,47.510903,1.3210301
+1089620819,way,,garden,Blois,,,,47.5910761,1.2972838
+1089620825,way,,garden,Blois,,,,47.5916594,1.296708
+1089620833,way,,garden,Blois,,,,47.5920375,1.2983735
+1089620840,way,,garden,Blois,,,,47.591652,1.2992534
+1089620845,way,,garden,Blois,,,,47.5909123,1.298743
+1089624401,way,,garden,Blois,,,,47.5928541,1.2993702
+1089624408,way,,garden,Blois,,,,47.5925129,1.2991168
+1089624409,way,,garden,Blois,,,,47.5924586,1.2988786
+1089624410,way,,garden,Blois,,,,47.5924088,1.2986419
+1089624411,way,,garden,Blois,,,,47.5923718,1.298407
+1089624412,way,,garden,Blois,,,,47.5923794,1.2981668
+1089624416,way,,garden,Blois,,,,47.5923482,1.2975186
+1089624417,way,,garden,Blois,,,,47.592314,1.297237
+1089624420,way,,garden,Blois,,,,47.5930426,1.29941
+1089624421,way,,garden,Blois,,,,47.593202,1.2994089
+1089624422,way,,garden,Blois,,,,47.5933222,1.2993944
+1089624427,way,,garden,Blois,,,,47.5935836,1.2992657
+1089624428,way,,garden,Blois,,,,47.5928253,1.2982626
+1089624437,way,,garden,Blois,,,,47.5928699,1.2989255
+1089624441,way,,garden,Blois,,,,47.5931507,1.2986486
+1089624442,way,,garden,Blois,,,,47.5931616,1.2983657
+1089624445,way,,garden,Blois,,,,47.5933038,1.2980395
+1089633768,way,,garden,Blois,,,,47.5930029,1.2978861
+1089633769,way,,garden,Blois,,,,47.5931176,1.2977082
+1089633777,way,,garden,Blois,,,,47.5935799,1.2987682
+1089633780,way,,garden,Blois,,,,47.5936489,1.2985301
+1089633781,way,,garden,Blois,,,,47.5936884,1.2983624
+1089633784,way,,garden,Blois,,,,47.5937161,1.2980897
+1089633785,way,,garden,Blois,,,,47.5938879,1.2979054
+1089633794,way,,garden,Blois,,,,47.5940839,1.2974043
+1089633811,way,,garden,Blois,,,,47.593752,1.2959543
+1089633813,way,,garden,Blois,,,,47.5936909,1.2975315
+1089633828,way,,garden,Blois,,,,47.5939787,1.2967024
+1089633839,way,,garden,Blois,,,,47.5941122,1.2960928
+1089658956,way,,garden,Blois,,,,47.5110631,1.321995
+1089658958,way,,garden,Blois,,,,47.5109212,1.3220475
+1089658971,way,,garden,Blois,,,,47.5112687,1.3227337
+1089659007,way,,garden,Blois,,,,47.5106392,1.3236571
+1089659018,way,,garden,Blois,,,,47.5108134,1.3232605
+1089659019,way,,garden,Blois,,,,47.5105876,1.3228811
+1089659033,way,,garden,Blois,,,,47.5113949,1.3227789
+1089659043,way,,garden,Blois,,,,47.511633,1.3224993
+1089664828,way,,garden,Blois,,,,47.5225024,1.3753918
+1089664829,way,,garden,Blois,,,,47.5224638,1.3752977
+1089664830,way,,garden,Blois,,,,47.5230578,1.3755829
+1089664831,way,,garden,Blois,,,,47.5229761,1.3756302
+1089664832,way,,garden,Blois,,,,47.5227491,1.3752779
+1089729343,way,,garden,Blois,,,,47.5949545,1.297013
+1089729344,way,,garden,Blois,,,,47.5946981,1.2970431
+1089729346,way,,garden,Blois,,,,47.5943337,1.2970192
+1089729347,way,,garden,Blois,,,,47.594342,1.2972917
+1089739967,way,,garden,Blois,,,,47.5940067,1.2987658
+1089739987,way,,garden,Blois,,,,47.594587,1.2992966
+1089739989,way,,garden,Blois,,,,47.5946045,1.2990609
+1089740004,way,,garden,Blois,,,,47.5941186,1.2982754
+1089740008,way,,garden,Blois,,,,47.5942776,1.2979434
+1089740017,way,,garden,Blois,,,,47.5945341,1.2984151
+1089740018,way,,garden,Blois,,,,47.594646,1.2984203
+1089740023,way,,garden,Blois,,,,47.5948962,1.2981048
+1089740024,way,,garden,Blois,,,,47.5949857,1.2982574
+1089752068,way,,garden,Blois,,,,47.5945283,1.297735
+1089752073,way,,garden,Blois,,,,47.5948038,1.2976524
+1089752074,way,,garden,Blois,,,,47.5949038,1.2976475
+1089752077,way,,garden,Blois,,,,47.5950899,1.2977029
+1089752080,way,,garden,Blois,,,,47.5954787,1.297277
+1089752081,way,,garden,Blois,,,,47.5955137,1.2970665
+1089752082,way,,garden,Blois,,,,47.5955575,1.2968776
+1089752083,way,,garden,Blois,,,,47.5956018,1.2966887
+1089752084,way,,garden,Blois,,,,47.5956377,1.2964814
+1089752085,way,,garden,Blois,,,,47.5956954,1.2962358
+1089752086,way,,garden,Blois,,,,47.5959014,1.2961991
+1089752087,way,,garden,Blois,,,,47.5960771,1.2962193
+1089752089,way,,garden,Blois,,,,47.5963687,1.2964365
+1089752095,way,,garden,Blois,,,,47.5968388,1.2967494
+1089752096,way,,garden,Blois,,,,47.5970175,1.2968184
+1089752097,way,,garden,Blois,,,,47.5971334,1.2969504
+1089752098,way,,garden,Blois,,,,47.595854,1.2976344
+1089752100,way,,garden,Blois,,,,47.5959166,1.2972592
+1089752103,way,,garden,Blois,,,,47.5962489,1.2969467
+1089752104,way,,garden,Blois,,,,47.5962388,1.2972152
+1089752105,way,,garden,Blois,,,,47.5962226,1.2974277
+1089752109,way,,garden,Blois,,,,47.5963491,1.2979036
+1089752110,way,,garden,Blois,,,,47.5962132,1.2979038
+1089752114,way,,garden,Blois,,,,47.59617,1.2983901
+1089752119,way,,garden,Blois,,,,47.5965025,1.2984802
+1089752120,way,,garden,Blois,,,,47.5963275,1.2987154
+1090109024,way,,garden,Blois,,,,47.5954165,1.2976996
+1090109034,way,,garden,Blois,,,,47.5951963,1.2985741
+1090109056,way,,garden,Blois,,,,47.5968156,1.2977066
+1090109057,way,,garden,Blois,,,,47.5966775,1.297831
+1090943312,way,,garden,Blois,,,,47.596503,1.298945
+1090943313,way,,garden,Blois,,,,47.5966147,1.2990333
+1090943314,way,,garden,Blois,,,,47.5967938,1.2991073
+1090943315,way,,garden,Blois,,,,47.5967395,1.2988235
+1090943316,way,,garden,Blois,,,,47.5969255,1.2988804
+1090943317,way,,garden,Blois,,,,47.5969714,1.2991911
+1090943321,way,,garden,Blois,,,,47.5975922,1.2979831
+1090943322,way,,garden,Blois,,,,47.5977129,1.2977343
+1090943323,way,,garden,Blois,,,,47.5978413,1.2975134
+1090943324,way,,garden,Blois,,,,47.5979555,1.2975567
+1090943325,way,,garden,Blois,,,,47.5980681,1.2976514
+1090943327,way,,garden,Blois,,,,47.5982898,1.297862
+1090943328,way,,garden,Blois,,,,47.5985419,1.2978165
+1090943329,way,,garden,Blois,,,,47.5985407,1.298078
+1090943330,way,,garden,Blois,,,,47.5985329,1.2984047
+1090943331,way,,garden,Blois,,,,47.5984002,1.298544
+1090943332,way,,garden,Blois,,,,47.5983452,1.2987739
+1090943333,way,,garden,Blois,,,,47.5982157,1.2988316
+1090943334,way,,garden,Blois,,,,47.5980215,1.2987984
+1090943335,way,,garden,Blois,,,,47.5979166,1.2986918
+1090943336,way,,garden,Blois,,,,47.5978446,1.2984691
+1090943338,way,,garden,Blois,,,,47.597663,1.2983633
+1090943342,way,,garden,Blois,,,,47.5975112,1.2984873
+1090943343,way,,garden,Blois,,,,47.5974674,1.2989279
+1090943345,way,,garden,Blois,,,,47.5972371,1.2987673
+1090943349,way,,garden,Blois,,,,47.5968142,1.2997298
+1090943358,way,,garden,Blois,,,,47.5972325,1.2996758
+1090943359,way,,garden,Blois,,,,47.5973506,1.2996429
+1090943360,way,,garden,Blois,,,,47.5974705,1.2996103
+1090943362,way,,garden,Blois,,,,47.5979309,1.2994838
+1090943363,way,,garden,Blois,,,,47.5978592,1.2996222
+1090943364,way,,garden,Blois,,,,47.5977922,1.2997688
+1090943365,way,,garden,Blois,,,,47.5977262,1.2999089
+1090943366,way,,garden,Blois,,,,47.5976518,1.3000714
+1090943373,way,,garden,Blois,,,,47.5974817,1.3004384
+1090943386,way,,garden,Blois,,,,47.5971722,1.3010311
+1093913028,way,,garden,Blois,,,,47.597049,1.3015374
+1093913033,way,,garden,Blois,,,,47.5967848,1.3011421
+1093913036,way,,garden,Blois,,,,47.5967979,1.3004833
+1093913041,way,,garden,Blois,,,,47.5970745,1.3007217
+1093913042,way,,garden,Blois,,,,47.5969367,1.300267
+1093913049,way,,garden,Blois,,,,47.5972954,1.3002881
+1093944374,way,,garden,Blois,,,,47.6000671,1.3039204
+1093944384,way,,garden,Blois,,,,47.6008133,1.3049043
+1093944390,way,,garden,Blois,,,,47.6006839,1.304162
+1094102138,way,,garden,Blois,,,,47.6005113,1.3068209
+1094102146,way,,garden,Blois,,,,47.600867,1.3060016
+1094102149,way,,garden,Blois,,,,47.6008936,1.305732
+1094102154,way,,garden,Blois,,,,47.6008279,1.3051324
+1094280372,way,,garden,Blois,,,,47.5999006,1.3067486
+1094280377,way,,garden,Blois,,,,47.6003586,1.3068752
+1094406886,way,,garden,Blois,,,,47.6001616,1.3062175
+1094406890,way,,garden,Blois,,,,47.6004033,1.3059124
+1094406897,way,,garden,Blois,,,,47.6004952,1.3057831
+1094406904,way,,garden,Blois,,,,47.6003255,1.3047121
+1094406909,way,,garden,Blois,,,,47.5999513,1.3050198
+1094406910,way,,garden,Blois,,,,47.5997356,1.3049964
+1094406913,way,,garden,Blois,,,,47.5993595,1.3045764
+1096786561,way,,garden,Blois,,,,47.6523062,1.6716193
+1096786562,way,,garden,Blois,,,,47.6522851,1.67178
+1100914522,way,,garden,Blois,,,,47.512317,1.3280644
+1100914524,way,,garden,Blois,,,,47.5125518,1.3282575
+1101832469,way,,garden,Blois,,,,47.5127222,1.3277189
+1102684798,way,,garden,Blois,,,,47.5092523,1.1428134
+1103657353,way,Le jardin coréen,garden,Blois,,,,47.473359,1.1792703
+1103657354,way,Les jardins japonais,garden,Blois,,,,47.474278,1.1807596
+1103657356,way,Le jardin des nuées qui s'attardent,garden,Blois,,,,47.4753219,1.1785406
+1103657357,way,Carbon pool,artwork,Blois,,,,47.4747177,1.1819184
+1103657365,way,"Hualu, Ermitage sur Loire",garden,Blois,,,,47.4759142,1.1789162
+1103657366,way,Le jardin anglais,garden,Blois,,,,47.4755701,1.1791883
+1103657367,way,Le jardin miroir,garden,Blois,,,,47.4757683,1.1792428
+1103657368,way,Carré et Rond,garden,Blois,,,,47.4761963,1.1794412
+1103657372,way,Le jardin des hypothèses,garden,Blois,,,,47.4760279,1.1797962
+1103657373,way,Le jardin chinois,garden,Blois,,,,47.475875,1.1794601
+1103657374,way,La collection des dahlias,garden,Blois,,,,47.4762041,1.1812908
+1103657375,way,La collection des pivoines,garden,Blois,,,,47.4763712,1.1813161
+1103657376,way,Le jardin d'eau,garden,Blois,,,,47.47558,1.1820945
+1103657381,way,Sous le soleil africain,garden,Blois,,,,47.4758458,1.1821606
+1103657386,way,Le jardin méditéranéen de Jean Mus,garden,Blois,,,,47.4759897,1.1820096
+1112536639,way,Ancien relais de Saint Jaques de Compostelle,ruins,Blois,,,,47.5392083,1.3851504
+1120224146,way,,garden,Blois,,,,47.5129058,1.325287
+1120224164,way,,garden,Blois,,,,47.5119139,1.3234066
+1120224178,way,,garden,Blois,,,,47.5114104,1.3248871
+1120224195,way,,garden,Blois,,,,47.5111149,1.32485
+1124014649,way,,garden,Blois,,,,47.5128567,1.32514
+1124014681,way,,garden,Blois,,,,47.5131935,1.3258376
+1124302118,way,,garden,Blois,,,,47.5017474,1.2994427
+1124667510,way,,garden,Blois,,,,47.5012251,1.29926
+1124667594,way,,garden,Blois,,,,47.5023129,1.3022513
+1124667595,way,,garden,Blois,,,,47.5022507,1.3021759
+1124953227,way,,garden,Blois,,,,47.5013821,1.3005387
+1125408788,way,,garden,Blois,,,,47.5028369,1.3029227
+1125408804,way,,garden,Blois,,,,47.5024077,1.3033253
+1125408805,way,,garden,Blois,,,,47.5026006,1.3037182
+1125408819,way,,garden,Blois,,,,47.5013822,1.3021259
+1125408835,way,,garden,Blois,,,,47.5013842,1.3019257
+1125459306,way,,garden,Blois,,,,47.5018059,1.3038871
+1125824051,way,,garden,Blois,,,,47.502776,1.3004707
+1125824076,way,,garden,Blois,,,,47.5014777,1.3022544
+1125824092,way,,garden,Blois,,,,47.5017992,1.3031051
+1125944213,way,,garden,Blois,,,,47.5038189,1.3004187
+1125944226,way,,garden,Blois,,,,47.5034143,1.3004469
+1125944243,way,,garden,Blois,,,,47.5032113,1.3012513
+1126022333,way,,garden,Blois,,,,47.50713,1.3033951
+1126022334,way,,garden,Blois,,,,47.5070866,1.303507
+1126028218,way,,garden,Blois,,,,47.5065992,1.3002755
+1126226738,way,,garden,Blois,,,,47.5048289,1.2997413
+1126226739,way,,garden,Blois,,,,47.505805,1.2999079
+1126794657,way,,garden,Blois,,,,47.4971367,1.297925
+1126794667,way,,garden,Blois,,,,47.4968791,1.2974586
+1126794680,way,,garden,Blois,,,,47.4965149,1.296678
+1126794699,way,,garden,Blois,,,,47.4969663,1.2957413
+1126917250,way,,garden,Blois,,,,47.4988852,1.2952766
+1126917275,way,,garden,Blois,,,,47.4984728,1.2935804
+1126917276,way,,garden,Blois,,,,47.4985471,1.293652
+1126917277,way,,garden,Blois,,,,47.4985175,1.293512
+1127625059,way,,garden,Blois,,,,47.4982897,1.2953566
+1128098600,way,,garden,Blois,,,,47.4986905,1.2975527
+1128098604,way,,garden,Blois,,,,47.4987439,1.2977147
+1128098660,way,,garden,Blois,,,,47.4987296,1.2957898
+1128228031,way,,garden,Blois,,,,47.4979754,1.2986205
+1128228111,way,,garden,Blois,,,,47.4989874,1.2965682
+1128228117,way,,garden,Blois,,,,47.4986732,1.2963809
+1128228118,way,,garden,Blois,,,,47.4987962,1.2963933
+1131712307,way,,ruins,Blois,,,,47.6153174,1.3783659
+1133292092,way,,garden,Blois,,,,47.5990947,1.3054999
+1133292093,way,,garden,Blois,,,,47.598982,1.3056906
+1133292114,way,,garden,Blois,,,,47.5983489,1.3047247
+1133292119,way,,garden,Blois,,,,47.597923,1.3057448
+1133292120,way,,garden,Blois,,,,47.5979822,1.3059956
+1133292125,way,,garden,Blois,,,,47.5976086,1.3049229
+1133292126,way,,garden,Blois,,,,47.5975105,1.3050873
+1133292128,way,,garden,Blois,,,,47.597408,1.3055956
+1133292129,way,,garden,Blois,,,,47.5974496,1.3058125
+1133292130,way,,garden,Blois,,,,47.5975086,1.306025
+1133388868,way,,garden,Blois,,,,47.5982554,1.3072482
+1133388869,way,,garden,Blois,,,,47.6005909,1.3082253
+1133394093,way,,garden,Blois,,,,47.6035709,1.3110517
+1133394096,way,,garden,Blois,,,,47.6035655,1.3106227
+1133394106,way,,garden,Blois,,,,47.6034008,1.3104075
+1133394115,way,,garden,Blois,,,,47.6029201,1.3099056
+1133394119,way,,garden,Blois,,,,47.6026411,1.3097144
+1133394123,way,,garden,Blois,,,,47.602593,1.3092078
+1133394131,way,,garden,Blois,,,,47.6023998,1.3090254
+1133394139,way,,garden,Blois,,,,47.6019419,1.3085082
+1133394147,way,,garden,Blois,,,,47.6018619,1.3084217
+1133394157,way,,garden,Blois,,,,47.6014179,1.3078055
+1133394158,way,,garden,Blois,,,,47.6012322,1.3076634
+1133394165,way,,garden,Blois,,,,47.6008299,1.3076592
+1133394166,way,,garden,Blois,,,,47.6007189,1.307731
+1133395749,way,,garden,Blois,,,,47.6012155,1.3084266
+1133396353,way,,garden,Blois,,,,47.6023156,1.3113425
+1133396356,way,,garden,Blois,,,,47.6022023,1.3110225
+1133396358,way,,garden,Blois,,,,47.6021494,1.3109065
+1133396362,way,,garden,Blois,,,,47.6021085,1.3104696
+1133682708,way,,garden,Blois,,,,47.6024259,1.3101944
+1133682709,way,,garden,Blois,,,,47.6023745,1.3104583
+1133682711,way,,garden,Blois,,,,47.6024938,1.3109241
+1133682712,way,,garden,Blois,,,,47.6025994,1.3111198
+1136975611,way,,garden,Blois,,,,47.6012176,1.3091091
+1136975613,way,,garden,Blois,,,,47.6013872,1.3097231
+1136975614,way,,garden,Blois,,,,47.6013198,1.3095903
+1136975615,way,,garden,Blois,,,,47.6016253,1.3094437
+1136975616,way,,garden,Blois,,,,47.60152,1.3092817
+1136975617,way,,garden,Blois,,,,47.602364,1.3125085
+1136975620,way,,garden,Blois,,,,47.6026129,1.3125125
+1136975621,way,,garden,Blois,,,,47.6027194,1.3123324
+1136975622,way,,garden,Blois,,,,47.6028347,1.312124
+1136975623,way,,garden,Blois,,,,47.6029935,1.3119412
+1136975624,way,,garden,Blois,,,,47.6031088,1.3117008
+1136975625,way,,garden,Blois,,,,47.6031981,1.3114888
+1136975628,way,,garden,Blois,,,,47.6031674,1.3110911
+1155709014,way,,park,Blois,,,,47.5370553,1.5015468
+1156583815,way,Les Prés de Mont,park,Blois,,,,47.591634,1.2166205
+1156806753,way,,park,Blois,,,,47.6091103,1.2780571
+1157006221,way,,park,Blois,,,,47.5824727,1.3706795
+1157062634,way,,park,Blois,,,,47.6098557,1.3551265
+1157062649,way,,park,Blois,,,,47.6134834,1.3583524
+1158275732,way,,garden,Blois,,,,47.5930779,1.3376138
+1158275733,way,,garden,Blois,,,,47.5929988,1.3375243
+1159135802,way,,garden,Blois,,,,47.5913819,1.3382841
+1165166205,way,,garden,Blois,,,,47.6017177,1.3104102
+1165166206,way,,garden,Blois,,,,47.6017123,1.3101609
+1165166213,way,,garden,Blois,,,,47.6010709,1.3090594
+1165171359,way,,garden,Blois,,,,47.6008989,1.3112667
+1165171360,way,,garden,Blois,,,,47.6008289,1.3110644
+1165171367,way,,garden,Blois,,,,47.6007318,1.3098414
+1165171372,way,,garden,Blois,,,,47.6011427,1.3109456
+1165171373,way,,garden,Blois,,,,47.6012944,1.3111062
+1171238795,way,,garden,Blois,,,,47.6019789,1.3116445
+1171238796,way,,garden,Blois,,,,47.601898,1.3115921
+1171238799,way,,garden,Blois,,,,47.6016973,1.3115796
+1171238800,way,,garden,Blois,,,,47.6016061,1.3116596
+1171238804,way,,garden,Blois,,,,47.6013655,1.3118289
+1171238809,way,,garden,Blois,,,,47.6011332,1.312
+1171242856,way,,garden,Blois,,,,47.6006282,1.3115817
+1171242857,way,,garden,Blois,,,,47.6005584,1.3115375
+1171242858,way,,garden,Blois,,,,47.6004726,1.3115007
+1171242863,way,,garden,Blois,,,,47.6002693,1.311408
+1171242864,way,,garden,Blois,,,,47.6001659,1.3113754
+1171242869,way,,garden,Blois,,,,47.5999094,1.3113417
+1171242870,way,,garden,Blois,,,,47.5997864,1.3113407
+1171242871,way,,garden,Blois,,,,47.5997045,1.3114017
+1171242874,way,,garden,Blois,,,,47.5995707,1.3116882
+1171242875,way,,garden,Blois,,,,47.5995162,1.3118192
+1171242876,way,,garden,Blois,,,,47.5994645,1.3119581
+1171246159,way,,garden,Blois,,,,47.6009645,1.3121192
+1171246160,way,,garden,Blois,,,,47.6008524,1.3122012
+1171246161,way,,garden,Blois,,,,47.6006799,1.3122061
+1171246162,way,,garden,Blois,,,,47.600585,1.3121776
+1171246163,way,,garden,Blois,,,,47.6004931,1.3121108
+1171246172,way,,garden,Blois,,,,47.6001922,1.3118891
+1171246173,way,,garden,Blois,,,,47.6000669,1.3118869
+1171246178,way,,garden,Blois,,,,47.5998667,1.3119878
+1171246181,way,,garden,Blois,,,,47.5997794,1.3122263
+1186864013,way,,park,Blois,,,,47.7980726,1.5563451
+1194954429,way,La Fée Clochette,artwork,Blois,,,,47.5913055,1.3305545
+1196788389,way,,garden,Blois,,,,47.5985079,1.301531
+1196788390,way,,garden,Blois,,,,47.5984384,1.3014458
+1196788392,way,,garden,Blois,,,,47.5983237,1.30125
+1196788400,way,,garden,Blois,,,,47.5984715,1.3010906
+1196788405,way,,garden,Blois,,,,47.5987123,1.3006397
+1196788406,way,,garden,Blois,,,,47.5987648,1.3005409
+1196788414,way,,garden,Blois,,,,47.5989156,1.3016293
+1196788415,way,,garden,Blois,,,,47.5989267,1.3015383
+1196788416,way,,garden,Blois,,,,47.5989412,1.3014493
+1196788417,way,,garden,Blois,,,,47.5989496,1.3013674
+1196788418,way,,garden,Blois,,,,47.5989478,1.3012729
+1196788419,way,,garden,Blois,,,,47.598949,1.3011877
+1196788420,way,,garden,Blois,,,,47.5989476,1.3010915
+1196788421,way,,garden,Blois,,,,47.5989443,1.3010057
+1196788422,way,,garden,Blois,,,,47.5989363,1.3009171
+1196788423,way,,garden,Blois,,,,47.5989278,1.3008091
+1196788424,way,,garden,Blois,,,,47.59895,1.3006947
+1196794975,way,,garden,Blois,,,,47.5968722,1.3028561
+1196794976,way,,garden,Blois,,,,47.5969736,1.3025228
+1196794977,way,,garden,Blois,,,,47.5971037,1.3022911
+1196794980,way,,garden,Blois,,,,47.59729,1.3019509
+1196794983,way,,garden,Blois,,,,47.5975061,1.3015031
+1196794984,way,,garden,Blois,,,,47.597644,1.3018322
+1196794986,way,,garden,Blois,,,,47.5980485,1.3016206
+1196794987,way,,garden,Blois,,,,47.5981409,1.3015319
+1196794988,way,,garden,Blois,,,,47.5982184,1.3014427
+1196794989,way,,garden,Blois,,,,47.5981748,1.3011876
+1196794995,way,,garden,Blois,,,,47.5977879,1.3010225
+1196794996,way,,garden,Blois,,,,47.5977149,1.3011754
+1196794997,way,,garden,Blois,,,,47.5976605,1.300946
+1196794998,way,,garden,Blois,,,,47.5977441,1.3007551
+1196794999,way,,garden,Blois,,,,47.5978167,1.3005704
+1196795000,way,,garden,Blois,,,,47.5980315,1.3002959
+1196798257,way,,garden,Blois,,,,47.6020929,1.312635
+1196798258,way,,garden,Blois,,,,47.6020375,1.3124447
+1196798260,way,,garden,Blois,,,,47.601867,1.31205
+1196798261,way,,garden,Blois,,,,47.6016519,1.3120239
+1196798263,way,,garden,Blois,,,,47.6013715,1.3123014
+1196798264,way,,garden,Blois,,,,47.6012439,1.3124316
+1196798266,way,,garden,Blois,,,,47.6009444,1.3127247
+1196798267,way,,garden,Blois,,,,47.6008216,1.3127954
+1196798269,way,,garden,Blois,,,,47.6005481,1.3126962
+1196798270,way,,garden,Blois,,,,47.6004009,1.3125806
+1197017906,way,,garden,Blois,,,,47.6017033,1.3139437
+1197017909,way,,garden,Blois,,,,47.602071,1.3134198
+1197017910,way,,garden,Blois,,,,47.6021738,1.3132055
+1201035862,way,,garden,Blois,,,,47.6008294,1.3134443
+1201035864,way,,garden,Blois,,,,47.6009904,1.3133538
+1201035865,way,,garden,Blois,,,,47.6010863,1.3136691
+1201035866,way,,garden,Blois,,,,47.6012388,1.3135674
+1201035869,way,,garden,Blois,,,,47.6012864,1.3130761
+1201039212,way,,garden,Blois,,,,47.6004008,1.3145505
+1201039213,way,,garden,Blois,,,,47.600287,1.3143752
+1201039215,way,,garden,Blois,,,,47.6003003,1.3139133
+1201039217,way,,garden,Blois,,,,47.5999822,1.314141
+1201039218,way,,garden,Blois,,,,47.6000161,1.3139275
+1201039220,way,,garden,Blois,,,,47.6002949,1.313676
+1201039221,way,,garden,Blois,,,,47.6000996,1.3134611
+1201039223,way,,garden,Blois,,,,47.600139,1.3132443
+1201041473,way,,garden,Blois,,,,47.5994889,1.3174119
+1201041474,way,,garden,Blois,,,,47.5996686,1.3174232
+1201041480,way,,garden,Blois,,,,47.6003472,1.316168
+1201041481,way,,garden,Blois,,,,47.600472,1.3159697
+1201041483,way,,garden,Blois,,,,47.6007057,1.3155269
+1201041484,way,,garden,Blois,,,,47.6006476,1.3152015
+1201041485,way,,garden,Blois,,,,47.6007668,1.3151801
+1201041486,way,,garden,Blois,,,,47.600875,1.3149856
+1203609697,way,,garden,Blois,,,,47.5996568,1.316697
+1203609700,way,,garden,Blois,,,,47.5997651,1.3164885
+1203609701,way,,garden,Blois,,,,47.5997176,1.3160792
+1203609705,way,,garden,Blois,,,,47.5998329,1.3158717
+1203782420,way,,garden,Blois,,,,47.5990704,1.3151639
+1203782421,way,,garden,Blois,,,,47.5990058,1.3153776
+1203782422,way,,garden,Blois,,,,47.5989609,1.3156056
+1203782423,way,,garden,Blois,,,,47.5991233,1.3156903
+1203782426,way,,garden,Blois,,,,47.5995126,1.3148711
+1203782427,way,,garden,Blois,,,,47.5996813,1.3148975
+1203782434,way,,garden,Blois,,,,47.5997883,1.3153071
+1203782435,way,,garden,Blois,,,,47.5999415,1.3151992
+1203785343,way,,garden,Blois,,,,47.5985752,1.3143636
+1203785344,way,,garden,Blois,,,,47.5986556,1.3141559
+1203785346,way,,garden,Blois,,,,47.5988052,1.3137716
+1203785347,way,,garden,Blois,,,,47.5988623,1.3135408
+1203785349,way,,garden,Blois,,,,47.5992422,1.3134952
+1203785350,way,,garden,Blois,,,,47.5988626,1.3143426
+1203785351,way,,garden,Blois,,,,47.5990561,1.3143722
+1203803725,way,,garden,Blois,,,,47.5984433,1.3120359
+1203803726,way,,garden,Blois,,,,47.5985735,1.3121124
+1203803727,way,,garden,Blois,,,,47.5986671,1.3123174
+1203803728,way,,garden,Blois,,,,47.5985672,1.3125301
+1203803731,way,,garden,Blois,,,,47.5984268,1.3127287
+1203803734,way,,garden,Blois,,,,47.5987194,1.3129959
+1203803736,way,,garden,Blois,,,,47.59849,1.3134571
+1203803737,way,,garden,Blois,,,,47.5986365,1.3136164
+1203875568,way,,garden,Blois,,,,47.5987171,1.3171494
+1203875569,way,,garden,Blois,,,,47.5987889,1.3169885
+1203875572,way,,garden,Blois,,,,47.5992323,1.3163362
+1203875573,way,,garden,Blois,,,,47.5990698,1.3162125
+1203875574,way,,garden,Blois,,,,47.5989225,1.3160877
+1203875576,way,,garden,Blois,,,,47.5987583,1.3160741
+1203875580,way,,garden,Blois,,,,47.5978561,1.3161947
+1203875581,way,,garden,Blois,,,,47.5979213,1.3160419
+1203875584,way,,garden,Blois,,,,47.598162,1.3154963
+1203875585,way,,garden,Blois,,,,47.5983058,1.3156553
+1203877381,way,,garden,Blois,,,,47.5991016,1.3181782
+1203877382,way,,garden,Blois,,,,47.5991768,1.317964
+1203877383,way,,garden,Blois,,,,47.5989859,1.3179302
+1203877384,way,,garden,Blois,,,,47.5988592,1.3178056
+1203877385,way,,garden,Blois,,,,47.5987301,1.3176835
+1203877386,way,,garden,Blois,,,,47.5986028,1.3175585
+1203877389,way,,garden,Blois,,,,47.5984888,1.3174486
+1203877392,way,,garden,Blois,,,,47.5982802,1.3172567
+1203877393,way,,garden,Blois,,,,47.5980622,1.3170466
+1203877394,way,,garden,Blois,,,,47.5981362,1.3168302
+1203877395,way,,garden,Blois,,,,47.5979479,1.3167984
+1203879521,way,,garden,Blois,,,,47.5993205,1.3183875
+1203879524,way,,garden,Blois,,,,47.5995301,1.3185776
+1203879525,way,,garden,Blois,,,,47.5996676,1.318714
+1203879526,way,,garden,Blois,,,,47.5998295,1.3188868
+1203879527,way,,garden,Blois,,,,47.6000916,1.3191399
+1203879532,way,,garden,Blois,,,,47.6003203,1.3186601
+1203879535,way,,garden,Blois,,,,47.5997329,1.3182752
+1203879536,way,,garden,Blois,,,,47.5997706,1.3180495
+1203879537,way,,garden,Blois,,,,47.5995865,1.3178698
+1203879538,way,,garden,Blois,,,,47.5994681,1.3177547
+1203879539,way,,garden,Blois,,,,47.599358,1.3176439
+1203879540,way,,garden,Blois,,,,47.5992428,1.3175301
+1203881992,way,,garden,Blois,,,,47.5971668,1.3111286
+1203882000,way,,garden,Blois,,,,47.5973691,1.3112309
+1203882001,way,,garden,Blois,,,,47.5975196,1.3108473
+1203882003,way,,garden,Blois,,,,47.5974657,1.3113128
+1203882008,way,,garden,Blois,,,,47.5978219,1.3111051
+1203882009,way,,garden,Blois,,,,47.5976729,1.3114891
+1203882011,way,,garden,Blois,,,,47.5978037,1.3117623
+1203882013,way,,garden,Blois,,,,47.5978702,1.3115459
+1203882014,way,,garden,Blois,,,,47.5979177,1.3113748
+1203882015,way,,garden,Blois,,,,47.5979817,1.3111531
+1203883839,way,,garden,Blois,,,,47.5970132,1.3121071
+1203883840,way,,garden,Blois,,,,47.5969448,1.312435
+1203883841,way,,garden,Blois,,,,47.5970499,1.312367
+1203883842,way,,garden,Blois,,,,47.5972524,1.3125262
+1203883843,way,,garden,Blois,,,,47.5972185,1.312666
+1203883844,way,,garden,Blois,,,,47.5971735,1.3128787
+1203883845,way,,garden,Blois,,,,47.5970495,1.312875
+1203883846,way,,garden,Blois,,,,47.5968793,1.313054
+1203883847,way,,garden,Blois,,,,47.596845,1.313245
+1203883848,way,,garden,Blois,,,,47.5970136,1.3134093
+1203883849,way,,garden,Blois,,,,47.5971708,1.313461
+1203883850,way,,garden,Blois,,,,47.5972957,1.3137003
+1203883851,way,,garden,Blois,,,,47.5974354,1.3137808
+1203883852,way,,garden,Blois,,,,47.5975289,1.3134862
+1203883853,way,,garden,Blois,,,,47.5975212,1.3133139
+1203883854,way,,garden,Blois,,,,47.5976509,1.313092
+1203883855,way,,garden,Blois,,,,47.5976745,1.3129031
+1203883856,way,,garden,Blois,,,,47.5977095,1.3126839
+1203883857,way,,garden,Blois,,,,47.5976701,1.3123788
+1203883858,way,,garden,Blois,,,,47.5977184,1.3121713
+1203883859,way,,garden,Blois,,,,47.5974985,1.3120455
+1203883860,way,,garden,Blois,,,,47.5973487,1.3119174
+1203885264,way,,garden,Blois,,,,47.5968672,1.3137283
+1203885265,way,,garden,Blois,,,,47.5967165,1.3136398
+1203885272,way,,garden,Blois,,,,47.596138,1.3134214
+1203894135,way,,park,Blois,,,,47.5964609,1.3128171
+1203894137,way,,garden,Blois,,,,47.5961726,1.3128223
+1203894140,way,,garden,Blois,,,,47.5964027,1.3131438
+1203894143,way,,garden,Blois,,,,47.5965879,1.3132897
+1212223438,way,,garden,Blois,,,,47.5965815,1.312235
+1212223439,way,,garden,Blois,,,,47.5967033,1.3123126
+1212223440,way,,garden,Blois,,,,47.5968645,1.3118973
+1212223441,way,,garden,Blois,,,,47.5963893,1.3112915
+1212223442,way,,garden,Blois,,,,47.596467,1.3110907
+1212223443,way,,garden,Blois,,,,47.5966061,1.3112858
+1212223446,way,,garden,Blois,,,,47.5968113,1.3114607
+1212229324,way,,garden,Blois,,,,47.5959052,1.3131963
+1212229325,way,,garden,Blois,,,,47.5957303,1.3131171
+1212229326,way,,garden,Blois,,,,47.5956011,1.3129142
+1212229327,way,,garden,Blois,,,,47.5956885,1.3126722
+1212229328,way,,garden,Blois,,,,47.5959948,1.3126454
+1212229329,way,,garden,Blois,,,,47.5961269,1.3124706
+1212229330,way,,garden,Blois,,,,47.5961731,1.3123425
+1212229331,way,,garden,Blois,,,,47.5962242,1.3121224
+1212229332,way,,garden,Blois,,,,47.5961529,1.3118416
+1212229333,way,,garden,Blois,,,,47.5963387,1.3119134
+1212229334,way,,garden,Blois,,,,47.5964471,1.3119999
+1212362887,way,,park,Blois,,,,47.7118497,1.2534687
+1215942810,way,,garden,Blois,,,,47.5958263,1.3110696
+1215942811,way,,garden,Blois,,,,47.5956447,1.3109612
+1215942812,way,,garden,Blois,,,,47.5955437,1.3108742
+1215942813,way,,garden,Blois,,,,47.5954885,1.3105842
+1215942814,way,,garden,Blois,,,,47.5953173,1.3104536
+1215942815,way,,garden,Blois,,,,47.5953959,1.310192
+1215942819,way,,garden,Blois,,,,47.5956281,1.3102828
+1215942820,way,,garden,Blois,,,,47.5955612,1.3104703
+1215942821,way,,garden,Blois,,,,47.5956726,1.3105891
+1215942822,way,,garden,Blois,,,,47.5957449,1.3104627
+1215942823,way,,garden,Blois,,,,47.5958488,1.3105532
+1215942824,way,,garden,Blois,,,,47.5958042,1.3107083
+1215942825,way,,garden,Blois,,,,47.5959714,1.3107244
+1215942826,way,,garden,Blois,,,,47.5961441,1.3108125
+1215942827,way,,garden,Blois,,,,47.5960129,1.3109697
+1215942828,way,,garden,Blois,,,,47.5961357,1.3110925
+1215942829,way,,garden,Blois,,,,47.5960903,1.311214
+1215942830,way,,garden,Blois,,,,47.5959841,1.3112025
+1215942831,way,,garden,Blois,,,,47.5961324,1.3113056
+1215942832,way,,garden,Blois,,,,47.5961861,1.3113503
+1215942833,way,,garden,Blois,,,,47.5959798,1.3115402
+1215942835,way,,garden,Blois,,,,47.5958114,1.311424
+1215942836,way,,garden,Blois,,,,47.5956915,1.3113481
+1215942838,way,,garden,Blois,,,,47.5955637,1.3115802
+1215942839,way,,garden,Blois,,,,47.5955127,1.3117102
+1215942840,way,,garden,Blois,,,,47.5956896,1.3115089
+1215942841,way,,garden,Blois,,,,47.5956655,1.3116173
+1215942842,way,,garden,Blois,,,,47.5956071,1.3118116
+1215942843,way,,garden,Blois,,,,47.5955464,1.3119871
+1215942844,way,,garden,Blois,,,,47.5954443,1.3121695
+1215942845,way,,garden,Blois,,,,47.5952647,1.3120247
+1215942846,way,,garden,Blois,,,,47.5951525,1.3121861
+1215942847,way,,garden,Blois,,,,47.595118,1.3124504
+1215942848,way,,garden,Blois,,,,47.5950485,1.3125859
+1215942849,way,,garden,Blois,,,,47.5949088,1.3128286
+1215942851,way,,garden,Blois,,,,47.5950513,1.3130153
+1215942852,way,,garden,Blois,,,,47.5952056,1.3130142
+1220266749,way,,garden,Blois,,,,47.595511,1.3111181
+1220266750,way,,park,Blois,,,,47.5951814,1.3112742
+1220269685,way,,garden,Blois,,,,47.5947764,1.3124042
+1220269686,way,,garden,Blois,,,,47.5946676,1.3126419
+1220269687,way,,garden,Blois,,,,47.5949038,1.3122263
+1220269688,way,,garden,Blois,,,,47.5949093,1.3120132
+1220269689,way,,garden,Blois,,,,47.5950232,1.3118691
+1220269690,way,,garden,Blois,,,,47.5945365,1.3111151
+1220269695,way,,garden,Blois,,,,47.5947395,1.3107606
+1220269698,way,,garden,Blois,,,,47.5951821,1.3101959
+1220621253,way,,garden,Blois,,,,47.5879601,1.287593
+1220621254,way,,garden,Blois,,,,47.5879984,1.2878961
+1220621257,way,,garden,Blois,,,,47.5886334,1.2881248
+1220621260,way,,garden,Blois,,,,47.5882998,1.2869757
+1221369650,way,,garden,Blois,,,,47.6472652,1.3662395
+1222829311,way,Chez Lucette,restaurant,Blois,41000,41000,,47.6024254,1.3494101
+1222912761,way,,garden,Blois,,,,47.5929463,1.3168082
+1222912762,way,,garden,Blois,,,,47.5926875,1.316655
+1222912765,way,,garden,Blois,,,,47.5920028,1.3173726
+1222912767,way,,garden,Blois,,,,47.5920244,1.3168375
+1222912768,way,,garden,Blois,,,,47.5920464,1.3166035
+1222912769,way,,garden,Blois,,,,47.5920907,1.3165161
+1222912770,way,,garden,Blois,,,,47.592115,1.3163761
+1222912773,way,,garden,Blois,,,,47.592203,1.3158525
+1222912774,way,,garden,Blois,,,,47.5922215,1.3155835
+1222912775,way,,garden,Blois,,,,47.5921903,1.3150916
+1222912776,way,,garden,Blois,,,,47.5920822,1.3149058
+1222914460,way,,garden,Blois,,,,47.5927194,1.3176347
+1222914461,way,,garden,Blois,,,,47.5923964,1.3174526
+1222914462,way,,garden,Blois,,,,47.5929251,1.3175603
+1222914463,way,,garden,Blois,,,,47.5925855,1.3173907
+1222914464,way,,garden,Blois,,,,47.5928658,1.3173009
+1222914465,way,,garden,Blois,,,,47.5925724,1.3170943
+1222914466,way,,garden,Blois,,,,47.5930229,1.3171679
+1222914467,way,,garden,Blois,,,,47.5926455,1.3169606
+1222915243,way,,garden,Blois,,,,47.5871489,1.2892477
+1222915247,way,,garden,Blois,,,,47.5871366,1.2883329
+1222915251,way,,garden,Blois,,,,47.5876028,1.2886499
+1222945989,way,,garden,Blois,,,,47.586397,1.2899363
+1222945992,way,,garden,Blois,,,,47.5864863,1.2889666
+1222945993,way,,garden,Blois,,,,47.5866132,1.2890681
+1222945995,way,,garden,Blois,,,,47.5867646,1.2887075
+1223831658,way,,garden,Blois,,,,47.586721,1.2915075
+1223831659,way,,garden,Blois,,,,47.5867474,1.2911894
+1223831661,way,,garden,Blois,,,,47.5865359,1.2909856
+1223831662,way,,garden,Blois,,,,47.5864393,1.2907955
+1223831665,way,,garden,Blois,,,,47.5867114,1.290732
+1223831666,way,,garden,Blois,,,,47.5866198,1.290549
+1223831668,way,,garden,Blois,,,,47.5870658,1.2906112
+1223831669,way,,garden,Blois,,,,47.5871324,1.2903782
+1223831670,way,,garden,Blois,,,,47.5869484,1.2902961
+1223831672,way,,garden,Blois,,,,47.586965,1.2898805
+1223831673,way,,garden,Blois,,,,47.5871505,1.2901556
+1223831675,way,,garden,Blois,,,,47.587029,1.2896843
+1223831677,way,,garden,Blois,,,,47.5872686,1.289944
+1224542215,way,,garden,Blois,,,,47.5877021,1.2905809
+1224542216,way,,garden,Blois,,,,47.5865378,1.2918582
+1224542217,way,,garden,Blois,,,,47.5863655,1.2918429
+1224542218,way,,garden,Blois,,,,47.5862643,1.2916898
+1244665311,way,,garden,Blois,,,,47.591587,1.318494
+1245788721,way,,garden,Blois,,,,47.6058273,1.327682
+1245828618,way,Jardins du Château,park,Blois,,,,47.5858432,1.3328473
+1246114297,way,,garden,Blois,,,,47.5837754,1.3024924
+1246114302,way,,garden,Blois,,,,47.5836382,1.3031516
+1246114306,way,,garden,Blois,,,,47.5839357,1.3028728
+1246114315,way,,garden,Blois,,,,47.5834646,1.3027711
+1246118774,way,,garden,Blois,,,,47.5832076,1.3026219
+1246118777,way,,garden,Blois,,,,47.5836482,1.3022086
+1246118778,way,,garden,Blois,,,,47.583043,1.3022165
+1246118779,way,,garden,Blois,,,,47.5834803,1.3018085
+1246118785,way,,garden,Blois,,,,47.583342,1.3024334
+1246118786,way,,garden,Blois,,,,47.5831186,1.3024273
+1246118792,way,,garden,Blois,,,,47.5833448,1.3019907
+1246118793,way,,garden,Blois,,,,47.5832065,1.3021223
+1246118795,way,,garden,Blois,,,,47.5835711,1.3020005
+1246147456,way,,garden,Blois,,,,47.5843324,1.3040459
+1246147457,way,,garden,Blois,,,,47.5844072,1.3042831
+1246147466,way,,garden,Blois,,,,47.5841402,1.3042784
+1246147474,way,,garden,Blois,,,,47.5842261,1.3033734
+1246147479,way,,garden,Blois,,,,47.5840357,1.3034174
+1246147480,way,,garden,Blois,,,,47.584408,1.3049104
+1246147484,way,,garden,Blois,,,,47.5838984,1.303681
+1246147490,way,,garden,Blois,,,,47.5840134,1.3038464
+1246147492,way,,garden,Blois,,,,47.5841441,1.303193
+1246469143,way,,garden,Blois,,,,47.584701,1.3040038
+1246469150,way,,garden,Blois,,,,47.5847423,1.3044464
+1246469168,way,,garden,Blois,,,,47.5847237,1.3042245
+1246469174,way,,garden,Blois,,,,47.5848257,1.3049341
+1246469184,way,,garden,Blois,,,,47.5847911,1.3046707
+1254285356,way,,garden,Blois,,,,47.5887933,1.3373613
+1267785906,way,,garden,Blois,,,,47.6265209,1.3842554
+1267791000,way,,garden,Blois,,,,47.6259321,1.3852668
+1271934802,way,,garden,Blois,,,,47.6256329,1.3873493
+1271934809,way,,garden,Blois,,,,47.625528,1.3875418
+1271934822,way,,garden,Blois,,,,47.6258055,1.388302
+1271934842,way,,garden,Blois,,,,47.6253387,1.387529
+1272007279,way,,garden,Blois,,,,47.625135,1.3889006
+1273032299,way,,garden,Blois,,,,47.6249256,1.3863724
+1273071541,way,,ruins,Blois,,,,47.623575,1.3874631
+1273270643,way,,garden,Blois,,,,47.6244667,1.3843598
+1273270660,way,,garden,Blois,,,,47.6241466,1.3845781
+1273621635,way,,garden,Blois,,,,47.6247486,1.3824026
+1273621651,way,,garden,Blois,,,,47.6249825,1.3826246
+1273621667,way,,garden,Blois,,,,47.6251148,1.3827803
+1274092144,way,,garden,Blois,,,,47.6237115,1.3834473
+1275241807,way,,garden,Blois,,,,47.6236927,1.382755
+1276098296,way,,garden,Blois,,,,47.6241114,1.381684
+1276098308,way,,garden,Blois,,,,47.6236063,1.3815019
+1278534423,way,Jardin L'Ancel François,park,Blois,,,,47.4861115,1.1145504
+1278534424,way,,memorial,Blois,,,,47.4865919,1.1147158
+1283583696,way,,garden,Blois,,,,47.6146783,1.516672
+1283583697,way,,garden,Blois,,,,47.6145925,1.5167712
+1283631105,way,,garden,Blois,,,,47.6143192,1.5227926
+1283645194,way,,garden,Blois,,,,47.6153708,1.5201077
+1283645195,way,,garden,Blois,,,,47.6151218,1.5201201
+1283645196,way,,garden,Blois,,,,47.6152618,1.5199372
+1283645197,way,,garden,Blois,,,,47.6149029,1.5207085
+1283645198,way,,garden,Blois,,,,47.6147925,1.5205164
+1283645199,way,,garden,Blois,,,,47.6150318,1.5205519
+1283645515,way,,garden,Blois,,,,47.6152282,1.5202845
+1285721549,way,,garden,Blois,,,,47.500996,1.4578319
+1306865218,way,,garden,Blois,,,,47.6229044,1.3805433
+1309062293,way,,park,Blois,,,,47.5270271,1.3101619
+1311683381,way,Auberge des Cocottes,restaurant,Blois,"4 Rue des Cormiers, 41120, Chailles",41120,,47.5292577,1.3068395
+1332586907,way,Parc Valin de la Vaissière,park,Blois,,,,47.5851822,1.3342729
+1377474405,way,Aushopping Jardin,park,Blois,,,,47.5707716,1.3743634
+1388554943,way,Parc du Cosson,park,Blois,,,,47.5408537,1.3065464
+1425944830,way,,park,Blois,,,,47.5629838,1.6034821
+1426041696,way,,castle,Blois,,,,47.545983,1.1579355
+1452909613,way,Parc des Bosseries,park,Blois,,,,47.504324,1.177382
+1470200561,way,,park,Blois,,,,47.6653222,1.4836398
+1482603172,way,Le Bois Des Chambres,hotel,Blois,Route de Queneau,,https://leboisdeschambres.fr,47.473113,1.1830266
+1482603173,way,Le Grand Chaume,restaurant,Blois,,,https://leboisdeschambres.fr/restaurant,47.4729711,1.1824155
+1501146954,way,,garden,Blois,,,,47.5837263,1.2973912
+1501146961,way,,garden,Blois,,,,47.5834038,1.2962454
+1501146963,way,,garden,Blois,,,,47.5833961,1.295819
+1501146964,way,,garden,Blois,,,,47.5835153,1.2955596
+1501146967,way,,garden,Blois,,,,47.5837962,1.2946324
+1501146975,way,,garden,Blois,,,,47.5840707,1.2970909
+1501146976,way,,garden,Blois,,,,47.5840608,1.2973398
+1532762159,way,,park,Blois,,,,47.7166327,1.4391836
+2833490,relation,Jardin Augustin Thierry,park,Blois,,,,47.5863854,1.330119
+4060148,relation,Château de Talcy,attraction,Blois,,,http://talcy.monuments-nationaux.fr/fr/,47.7694895,1.4445975
+9815040,relation,Musée d'outils anciens et d'art populaire,museum,Blois,,,,47.4949988,1.2966429
+11010416,relation,Mail Pierre Charlot,park,Blois,,,,47.6001629,1.3416721
+13542710,relation,,ruins,Blois,,,,47.5963216,1.3605183
+13677245,relation,Romainland,theme_park,Blois,"100 Levée des Tuileries, 41000, Blois",41000,,47.5992159,1.3578763
+14146451,relation,Ponts Saint-Michel,ruins,Blois,,,,47.5683564,1.3416219
+14347051,relation,Parc de l'arrou,park,Blois,,,,47.5864283,1.3026742
+14508407,relation,,garden,Blois,,,,47.5905987,1.2979928
+14508408,relation,,garden,Blois,,,,47.590514,1.2982604
+14508409,relation,,garden,Blois,,,,47.590706,1.2978198
+14508410,relation,,garden,Blois,,,,47.5908205,1.2976182
+14508411,relation,,garden,Blois,,,,47.5909461,1.2974456
+14508412,relation,,garden,Blois,,,,47.5912135,1.297136
+14508413,relation,,garden,Blois,,,,47.5913611,1.2969977
+14508414,relation,,garden,Blois,,,,47.5915107,1.2968675
+14508415,relation,,garden,Blois,,,,47.5918844,1.296686
+14508416,relation,,garden,Blois,,,,47.5919684,1.2969215
+14508417,relation,,garden,Blois,,,,47.5920076,1.2972634
+14508418,relation,,garden,Blois,,,,47.5920505,1.2974937
+14508419,relation,,garden,Blois,,,,47.592116,1.2977885
+14508420,relation,,garden,Blois,,,,47.5920719,1.2980145
+14508421,relation,,garden,Blois,,,,47.5920833,1.2985838
+14508422,relation,,garden,Blois,,,,47.5921277,1.2988141
+14508423,relation,,garden,Blois,,,,47.5921884,1.2990682
+14508424,relation,,garden,Blois,,,,47.5922027,1.2993355
+14508425,relation,,garden,Blois,,,,47.5919981,1.2993451
+14508426,relation,,garden,Blois,,,,47.5918021,1.2993041
+14508427,relation,,garden,Blois,,,,47.591356,1.2990802
+14508428,relation,,garden,Blois,,,,47.59121,1.2989888
+14508429,relation,,garden,Blois,,,,47.59106,1.2988671
+14508430,relation,,garden,Blois,,,,47.5907758,1.2986188
+14508431,relation,,garden,Blois,,,,47.5905812,1.2985316
+14508432,relation,,garden,Blois,,,,47.5914566,1.2986333
+14508433,relation,,garden,Blois,,,,47.5915347,1.2983934
+14508434,relation,,garden,Blois,,,,47.5913008,1.2983753
+14508435,relation,,garden,Blois,,,,47.5911236,1.2983472
+14508436,relation,,garden,Blois,,,,47.5909975,1.2981879
+14508437,relation,,garden,Blois,,,,47.5911603,1.2979999
+14508438,relation,,garden,Blois,,,,47.5912866,1.2978756
+14508439,relation,,garden,Blois,,,,47.591398,1.2976661
+14508440,relation,,garden,Blois,,,,47.5915108,1.2975007
+14508441,relation,,garden,Blois,,,,47.5916903,1.2973375
+14508442,relation,,garden,Blois,,,,47.5917402,1.2976961
+14508443,relation,,garden,Blois,,,,47.5916664,1.2979214
+14508444,relation,,garden,Blois,,,,47.5915776,1.2981382
+14508498,relation,,garden,Blois,,,,47.592722,1.2993466
+14508499,relation,,garden,Blois,,,,47.5926144,1.299317
+14508500,relation,,garden,Blois,,,,47.5925675,1.2992825
+14508501,relation,,garden,Blois,,,,47.5926804,1.2975675
+14508502,relation,,garden,Blois,,,,47.592554,1.2976799
+14508503,relation,,garden,Blois,,,,47.5924373,1.2978238
+14508504,relation,,garden,Blois,,,,47.5922708,1.2970128
+14508505,relation,,garden,Blois,,,,47.592217,1.2967891
+14508506,relation,,garden,Blois,,,,47.5934209,1.2993761
+14508507,relation,,garden,Blois,,,,47.5935154,1.299349
+14508508,relation,,garden,Blois,,,,47.5928238,1.2984266
+14508509,relation,,garden,Blois,,,,47.5928243,1.2985336
+14508510,relation,,garden,Blois,,,,47.5928287,1.2986405
+14508511,relation,,garden,Blois,,,,47.5928522,1.2987467
+14508512,relation,,garden,Blois,,,,47.5931966,1.2989334
+14508513,relation,,garden,Blois,,,,47.5931762,1.2988025
+14508514,relation,,garden,Blois,,,,47.5932122,1.2982296
+14508626,relation,,garden,Blois,,,,47.5928686,1.2980187
+14508627,relation,,garden,Blois,,,,47.5932321,1.2975311
+14508628,relation,,garden,Blois,,,,47.5933484,1.2973556
+14508630,relation,,garden,Blois,,,,47.5936057,1.2986568
+14508631,relation,,garden,Blois,,,,47.5936903,1.2982235
+14508632,relation,,garden,Blois,,,,47.593925,1.2977884
+14508633,relation,,garden,Blois,,,,47.5939667,1.2977057
+14508634,relation,,garden,Blois,,,,47.5940189,1.297623
+14508635,relation,,garden,Blois,,,,47.5940593,1.2975418
+14508636,relation,,garden,Blois,,,,47.5926181,1.2969208
+14508637,relation,,garden,Blois,,,,47.592772,1.297039
+14508638,relation,,garden,Blois,,,,47.5930537,1.2970727
+14508639,relation,,garden,Blois,,,,47.5930897,1.2967967
+14508640,relation,,garden,Blois,,,,47.5931162,1.2965434
+14508641,relation,,garden,Blois,,,,47.5931489,1.2962638
+14508642,relation,,garden,Blois,,,,47.5929422,1.2963161
+14508643,relation,,garden,Blois,,,,47.5927814,1.2966592
+14508644,relation,,garden,Blois,,,,47.593505,1.2971658
+14508645,relation,,garden,Blois,,,,47.5935339,1.2968061
+14508646,relation,,garden,Blois,,,,47.5935343,1.2965368
+14508647,relation,,garden,Blois,,,,47.5935388,1.2961919
+14508648,relation,,garden,Blois,,,,47.5936001,1.2960356
+14508649,relation,,garden,Blois,,,,47.5939424,1.2958825
+14508650,relation,,garden,Blois,,,,47.593718,1.2974252
+14508651,relation,,garden,Blois,,,,47.5937713,1.2973334
+14508652,relation,,garden,Blois,,,,47.5938278,1.2972414
+14508653,relation,,garden,Blois,,,,47.5938577,1.2971484
+14508654,relation,,garden,Blois,,,,47.593889,1.2970545
+14508655,relation,,garden,Blois,,,,47.5939165,1.2969583
+14508656,relation,,garden,Blois,,,,47.5939517,1.2968424
+14508657,relation,,garden,Blois,,,,47.593994,1.2965857
+14508658,relation,,garden,Blois,,,,47.5940026,1.2964903
+14508659,relation,,garden,Blois,,,,47.5940079,1.2963971
+14508660,relation,,garden,Blois,,,,47.5940348,1.2963045
+14508661,relation,,garden,Blois,,,,47.5940762,1.2962115
+14509257,relation,,garden,Blois,,,,47.5228932,1.3752869
+14510349,relation,,garden,Blois,,,,47.5921789,1.2964118
+14510350,relation,,garden,Blois,,,,47.5922496,1.2962068
+14510351,relation,,garden,Blois,,,,47.5924292,1.2960894
+14510352,relation,,garden,Blois,,,,47.5925932,1.2959505
+14510353,relation,,garden,Blois,,,,47.5927579,1.2958118
+14510354,relation,,garden,Blois,,,,47.5929541,1.2957062
+14510355,relation,,garden,Blois,,,,47.5931136,1.2955625
+14510356,relation,,garden,Blois,,,,47.5932907,1.295456
+14510357,relation,,garden,Blois,,,,47.5934887,1.2953356
+14510358,relation,,garden,Blois,,,,47.5937445,1.2952604
+14510359,relation,,garden,Blois,,,,47.5939653,1.2952726
+14510360,relation,,garden,Blois,,,,47.5941751,1.2952731
+14510361,relation,,garden,Blois,,,,47.5943815,1.295292
+14510362,relation,,garden,Blois,,,,47.5945878,1.2953918
+14510363,relation,,garden,Blois,,,,47.5946753,1.2956565
+14510364,relation,,garden,Blois,,,,47.5948801,1.2955037
+14510365,relation,,garden,Blois,,,,47.5951513,1.2956173
+14510366,relation,,garden,Blois,,,,47.595287,1.2958334
+14510367,relation,,garden,Blois,,,,47.5944815,1.2960586
+14510368,relation,,garden,Blois,,,,47.5945481,1.2964895
+14510369,relation,,garden,Blois,,,,47.5946409,1.2963805
+14510370,relation,,garden,Blois,,,,47.5947283,1.2962105
+14510371,relation,,garden,Blois,,,,47.5952172,1.2962349
+14510372,relation,,garden,Blois,,,,47.5951322,1.2964994
+14510373,relation,,garden,Blois,,,,47.595048,1.2967944
+14510374,relation,,garden,Blois,,,,47.5945276,1.297097
+14510531,relation,,garden,Blois,,,,47.5940235,1.2989104
+14510532,relation,,garden,Blois,,,,47.5940183,1.2990454
+14510533,relation,,garden,Blois,,,,47.5940039,1.2993227
+14510534,relation,,garden,Blois,,,,47.5940365,1.2994182
+14510535,relation,,garden,Blois,,,,47.5941275,1.2994691
+14510536,relation,,garden,Blois,,,,47.5942596,1.2995734
+14510537,relation,,garden,Blois,,,,47.5944273,1.2995876
+14510538,relation,,garden,Blois,,,,47.5944726,1.2995154
+14510539,relation,,garden,Blois,,,,47.5945198,1.2994219
+14510540,relation,,garden,Blois,,,,47.594495,1.2989466
+14510541,relation,,garden,Blois,,,,47.5944416,1.2988568
+14510542,relation,,garden,Blois,,,,47.5943886,1.2987664
+14510543,relation,,garden,Blois,,,,47.5943464,1.2986754
+14510544,relation,,garden,Blois,,,,47.5942926,1.2985693
+14510545,relation,,garden,Blois,,,,47.5942388,1.298478
+14510546,relation,,garden,Blois,,,,47.5941765,1.2983881
+14510548,relation,,garden,Blois,,,,47.5943398,1.2980364
+14510549,relation,,garden,Blois,,,,47.5943896,1.298123
+14510550,relation,,garden,Blois,,,,47.5944402,1.298209
+14510551,relation,,garden,Blois,,,,47.594488,1.2982936
+14510552,relation,,garden,Blois,,,,47.5947736,1.2983696
+14510553,relation,,garden,Blois,,,,47.5948307,1.2983383
+14510722,relation,,garden,Blois,,,,47.5946391,1.2976785
+14510723,relation,,garden,Blois,,,,47.5947168,1.2976696
+14510724,relation,,garden,Blois,,,,47.5950099,1.2976685
+14510725,relation,,garden,Blois,,,,47.5962033,1.2963367
+14510726,relation,,garden,Blois,,,,47.5965128,1.2965633
+14510727,relation,,garden,Blois,,,,47.5966062,1.2967144
+14510728,relation,,garden,Blois,,,,47.5966309,1.2972186
+14510729,relation,,garden,Blois,,,,47.5967313,1.2970242
+14510730,relation,,garden,Blois,,,,47.5958803,1.2974374
+14510731,relation,,garden,Blois,,,,47.5959517,1.2970879
+14510732,relation,,garden,Blois,,,,47.5959997,1.296915
+14510733,relation,,garden,Blois,,,,47.5962035,1.2976616
+14510734,relation,,garden,Blois,,,,47.5960031,1.2979326
+14510735,relation,,garden,Blois,,,,47.5960951,1.2981191
+14510736,relation,,garden,Blois,,,,47.5963256,1.2983508
+14510737,relation,,garden,Blois,,,,47.5964109,1.2983855
+14515274,relation,,garden,Blois,,,,47.5953924,1.2978322
+14515275,relation,,garden,Blois,,,,47.5953609,1.2979147
+14515276,relation,,garden,Blois,,,,47.5953304,1.298
+14515277,relation,,garden,Blois,,,,47.5953023,1.298085
+14515278,relation,,garden,Blois,,,,47.5952121,1.2984342
+14515279,relation,,garden,Blois,,,,47.5952275,1.2983457
+14515280,relation,,garden,Blois,,,,47.5952503,1.2982547
+14515281,relation,,garden,Blois,,,,47.5952756,1.2981688
+14515282,relation,,garden,Blois,,,,47.5970741,1.2974214
+14515283,relation,,garden,Blois,,,,47.5969632,1.2975631
+14515284,relation,,garden,Blois,,,,47.5967026,1.2982041
+14515285,relation,,garden,Blois,,,,47.596923,1.2980688
+14515286,relation,,garden,Blois,,,,47.5968925,1.298443
+14515287,relation,,garden,Blois,,,,47.5970503,1.2983608
+14515288,relation,,garden,Blois,,,,47.5972077,1.2982528
+14515289,relation,,garden,Blois,,,,47.5972256,1.2979751
+14515290,relation,,garden,Blois,,,,47.597154,1.2977766
+14515291,relation,,garden,Blois,,,,47.5972012,1.2973358
+14515292,relation,,garden,Blois,,,,47.5973345,1.2970944
+14515293,relation,,garden,Blois,,,,47.5974611,1.2971493
+14515294,relation,,garden,Blois,,,,47.5975781,1.2972538
+14515295,relation,,garden,Blois,,,,47.5976686,1.2973516
+14527806,relation,,garden,Blois,,,,47.5969335,1.2990296
+14527807,relation,,garden,Blois,,,,47.5975369,1.2978034
+14527808,relation,,garden,Blois,,,,47.5981731,1.2977546
+14527809,relation,,garden,Blois,,,,47.5978505,1.2982428
+14527810,relation,,garden,Blois,,,,47.5975924,1.2987027
+14527811,relation,,garden,Blois,,,,47.5973539,1.2986759
+14527812,relation,,garden,Blois,,,,47.597276,1.2989679
+14527813,relation,,garden,Blois,,,,47.5973175,1.2991318
+14527814,relation,,garden,Blois,,,,47.596939,1.2997406
+14527815,relation,,garden,Blois,,,,47.5970056,1.2997319
+14527816,relation,,garden,Blois,,,,47.5970727,1.2997189
+14527817,relation,,garden,Blois,,,,47.5971409,1.2997016
+14527818,relation,,garden,Blois,,,,47.5976483,1.2995934
+14527819,relation,,garden,Blois,,,,47.5976064,1.3001688
+14527820,relation,,garden,Blois,,,,47.5975679,1.3002518
+14527821,relation,,garden,Blois,,,,47.5975298,1.3003348
+14527822,relation,,garden,Blois,,,,47.5974329,1.300544
+14527823,relation,,garden,Blois,,,,47.5973939,1.3006287
+14527824,relation,,garden,Blois,,,,47.5973376,1.3007041
+14527825,relation,,garden,Blois,,,,47.597297,1.3007785
+14527826,relation,,garden,Blois,,,,47.5972577,1.3008604
+14527827,relation,,garden,Blois,,,,47.5972183,1.3009413
+14572805,relation,,garden,Blois,,,,47.5968465,1.301229
+14572806,relation,,garden,Blois,,,,47.5968961,1.301298
+14572807,relation,,garden,Blois,,,,47.5969447,1.3013685
+14572808,relation,,garden,Blois,,,,47.5969946,1.3014395
+14572809,relation,,garden,Blois,,,,47.5968733,1.3005667
+14572810,relation,,garden,Blois,,,,47.5969343,1.3006136
+14572811,relation,,garden,Blois,,,,47.5969954,1.3006602
+14572812,relation,,garden,Blois,,,,47.597122,1.3002833
+14572813,relation,,garden,Blois,,,,47.5970519,1.3002754
+14572814,relation,,garden,Blois,,,,47.5971904,1.3002906
+14573113,relation,,garden,Blois,,,,47.6001762,1.3039616
+14573114,relation,,garden,Blois,,,,47.6002599,1.3039738
+14573115,relation,,garden,Blois,,,,47.6003405,1.3039941
+14573116,relation,,garden,Blois,,,,47.6005219,1.3040147
+14573117,relation,,garden,Blois,,,,47.6007793,1.3047343
+14573118,relation,,garden,Blois,,,,47.6007545,1.3046144
+14573119,relation,,garden,Blois,,,,47.6007332,1.3045085
+14573120,relation,,garden,Blois,,,,47.6007155,1.3044154
+14573121,relation,,garden,Blois,,,,47.6006986,1.304324
+14574976,relation,,garden,Blois,,,,47.6005594,1.3066542
+14574977,relation,,garden,Blois,,,,47.6006122,1.3065361
+14574978,relation,,garden,Blois,,,,47.6006507,1.306468
+14574979,relation,,garden,Blois,,,,47.6006921,1.3064026
+14574980,relation,,garden,Blois,,,,47.6007331,1.3063242
+14574981,relation,,garden,Blois,,,,47.6007778,1.3062349
+14574982,relation,,garden,Blois,,,,47.6008187,1.3061158
+14574983,relation,,garden,Blois,,,,47.6008789,1.3054808
+14574984,relation,,garden,Blois,,,,47.6008652,1.3053536
+14574985,relation,,garden,Blois,,,,47.6008521,1.3052689
+14576444,relation,,garden,Blois,,,,47.6000158,1.3067448
+14576445,relation,,garden,Blois,,,,47.6001189,1.3067654
+14576446,relation,,garden,Blois,,,,47.6001856,1.3067874
+14576447,relation,,garden,Blois,,,,47.6002436,1.3068116
+14577988,relation,,garden,Blois,,,,47.6002517,1.3061383
+14577989,relation,,garden,Blois,,,,47.600327,1.306049
+14577990,relation,,garden,Blois,,,,47.600469,1.3055467
+14577991,relation,,garden,Blois,,,,47.6004473,1.3054313
+14577992,relation,,garden,Blois,,,,47.6004234,1.3053014
+14577993,relation,,garden,Blois,,,,47.6003946,1.3051458
+14577994,relation,,garden,Blois,,,,47.6003629,1.3050266
+14577995,relation,,garden,Blois,,,,47.6003405,1.3048915
+14577996,relation,,garden,Blois,,,,47.5996515,1.304472
+14577997,relation,,garden,Blois,,,,47.5998267,1.3045355
+14577998,relation,,garden,Blois,,,,47.6000018,1.3046001
+14577999,relation,,garden,Blois,,,,47.6002051,1.3046616
+14578000,relation,,garden,Blois,,,,47.5995732,1.3049378
+14578001,relation,,garden,Blois,,,,47.5993831,1.3049063
+14578002,relation,,garden,Blois,,,,47.5994574,1.3044171
+14579170,relation,,garden,Blois,,,,47.5991727,1.3062132
+14579171,relation,,garden,Blois,,,,47.5994424,1.3062479
+14579172,relation,,garden,Blois,,,,47.5995039,1.3067363
+14579173,relation,,garden,Blois,,,,47.5995978,1.3065146
+14579174,relation,,garden,Blois,,,,47.5997142,1.3063128
+14579175,relation,,garden,Blois,,,,47.5998316,1.3061587
+14579176,relation,,garden,Blois,,,,47.5997833,1.3058781
+14579177,relation,,garden,Blois,,,,47.5995106,1.3059285
+14579178,relation,,garden,Blois,,,,47.5994484,1.3055758
+14579179,relation,,garden,Blois,,,,47.5997139,1.3055663
+14579180,relation,,garden,Blois,,,,47.6000735,1.3058862
+14579181,relation,,garden,Blois,,,,47.6001864,1.3055903
+14579182,relation,,garden,Blois,,,,47.6001309,1.3051339
+15335487,relation,,garden,Blois,,,,47.5990325,1.3049513
+15335488,relation,,garden,Blois,,,,47.599075,1.3052336
+15335489,relation,,garden,Blois,,,,47.599019,1.3060569
+15335490,relation,,garden,Blois,,,,47.5988294,1.3052554
+15335491,relation,,garden,Blois,,,,47.5986863,1.3054746
+15335492,relation,,garden,Blois,,,,47.598669,1.3058173
+15335493,relation,,garden,Blois,,,,47.5987268,1.3060485
+15335494,relation,,garden,Blois,,,,47.5987857,1.3063975
+15335495,relation,,garden,Blois,,,,47.5989079,1.3037569
+15335496,relation,,garden,Blois,,,,47.5989577,1.303981
+15335497,relation,,garden,Blois,,,,47.5990492,1.3042532
+15335498,relation,,garden,Blois,,,,47.5989457,1.3043711
+15335499,relation,,garden,Blois,,,,47.5987387,1.3042429
+15335500,relation,,garden,Blois,,,,47.5985744,1.30418
+15335501,relation,,garden,Blois,,,,47.5983842,1.3041482
+15335502,relation,,garden,Blois,,,,47.5986679,1.304839
+15335503,relation,,garden,Blois,,,,47.5985373,1.3049887
+15335504,relation,,garden,Blois,,,,47.5984137,1.3051813
+15335505,relation,,garden,Blois,,,,47.5982379,1.3053363
+15335506,relation,,garden,Blois,,,,47.5982058,1.3056387
+15335507,relation,,garden,Blois,,,,47.5982806,1.3059003
+15335508,relation,,garden,Blois,,,,47.5983305,1.3061308
+15335509,relation,,garden,Blois,,,,47.5981891,1.3048662
+15335510,relation,,garden,Blois,,,,47.5980629,1.3050589
+15335511,relation,,garden,Blois,,,,47.5979116,1.3052342
+15335512,relation,,garden,Blois,,,,47.597884,1.3055166
+15335513,relation,,garden,Blois,,,,47.5981159,1.3041958
+15335514,relation,,garden,Blois,,,,47.5979798,1.3043894
+15335515,relation,,garden,Blois,,,,47.5978479,1.3045643
+15335516,relation,,garden,Blois,,,,47.597723,1.3047496
+15335517,relation,,garden,Blois,,,,47.5973761,1.305296
+15335518,relation,,garden,Blois,,,,47.5975924,1.3063232
+15336690,relation,,garden,Blois,,,,47.5978422,1.3064815
+15336691,relation,,garden,Blois,,,,47.5980586,1.3065194
+15336692,relation,,garden,Blois,,,,47.5982331,1.306582
+15336693,relation,,garden,Blois,,,,47.598438,1.3066141
+15336694,relation,,garden,Blois,,,,47.5984823,1.306919
+15336695,relation,,garden,Blois,,,,47.5983777,1.3070691
+15336696,relation,,garden,Blois,,,,47.6006107,1.3081119
+15336735,relation,,garden,Blois,,,,47.603598,1.3108343
+15336736,relation,,garden,Blois,,,,47.6035933,1.3107444
+15336737,relation,,garden,Blois,,,,47.6033243,1.3103221
+15336738,relation,,garden,Blois,,,,47.6032785,1.3102615
+15336739,relation,,garden,Blois,,,,47.6032314,1.3102025
+15336740,relation,,garden,Blois,,,,47.6031696,1.3101431
+15336741,relation,,garden,Blois,,,,47.6031134,1.3101133
+15336742,relation,,garden,Blois,,,,47.6030672,1.3100663
+15336743,relation,,garden,Blois,,,,47.6030212,1.3100065
+15336744,relation,,garden,Blois,,,,47.6029756,1.3099475
+15336745,relation,,garden,Blois,,,,47.6026515,1.3095771
+15336746,relation,,garden,Blois,,,,47.6026395,1.3094867
+15336747,relation,,garden,Blois,,,,47.6026317,1.3094029
+15336748,relation,,garden,Blois,,,,47.602301,1.3089394
+15336749,relation,,garden,Blois,,,,47.6022545,1.3088806
+15336750,relation,,garden,Blois,,,,47.6022092,1.308819
+15336751,relation,,garden,Blois,,,,47.6021616,1.3087592
+15336752,relation,,garden,Blois,,,,47.6021082,1.3087103
+15336753,relation,,garden,Blois,,,,47.6020628,1.3086499
+15336754,relation,,garden,Blois,,,,47.6020175,1.3085901
+15336755,relation,,garden,Blois,,,,47.6018006,1.3083375
+15336756,relation,,garden,Blois,,,,47.6017545,1.3082805
+15336757,relation,,garden,Blois,,,,47.6017208,1.3082205
+15336758,relation,,garden,Blois,,,,47.6016749,1.3081424
+15336759,relation,,garden,Blois,,,,47.6016284,1.3080816
+15336760,relation,,garden,Blois,,,,47.6015828,1.3080223
+15336761,relation,,garden,Blois,,,,47.6015375,1.3079648
+15336762,relation,,garden,Blois,,,,47.6014899,1.3079085
+15336763,relation,,garden,Blois,,,,47.6009622,1.3076575
+15336764,relation,,garden,Blois,,,,47.6010229,1.3076549
+15336765,relation,,garden,Blois,,,,47.6010851,1.3076567
+15336766,relation,,garden,Blois,,,,47.6006327,1.308029
+15336767,relation,,garden,Blois,,,,47.6006582,1.3079482
+15336768,relation,,garden,Blois,,,,47.600688,1.3078718
+15336809,relation,,garden,Blois,,,,47.6015029,1.3086988
+15336810,relation,,garden,Blois,,,,47.601663,1.3088401
+15336811,relation,,garden,Blois,,,,47.6017827,1.3090604
+15336812,relation,,garden,Blois,,,,47.6019637,1.3092584
+15336813,relation,,garden,Blois,,,,47.6020142,1.3094956
+15336814,relation,,garden,Blois,,,,47.6020499,1.3097507
+15336815,relation,,garden,Blois,,,,47.602082,1.3099945
+15336816,relation,,garden,Blois,,,,47.6020947,1.31022
+15336817,relation,,garden,Blois,,,,47.600694,1.3086946
+15336818,relation,,garden,Blois,,,,47.6008382,1.3085546
+15336819,relation,,garden,Blois,,,,47.6010279,1.3084662
+15336820,relation,,garden,Blois,,,,47.6013394,1.3085194
+15336826,relation,,garden,Blois,,,,47.6022408,1.3111372
+15336827,relation,,garden,Blois,,,,47.6022704,1.3112273
+15336828,relation,,garden,Blois,,,,47.602391,1.3115368
+15336829,relation,,garden,Blois,,,,47.6021326,1.3107485
+15336830,relation,,garden,Blois,,,,47.602122,1.3106331
+15340048,relation,,garden,Blois,,,,47.6024707,1.3118292
+15340049,relation,,garden,Blois,,,,47.6026284,1.3117247
+15340050,relation,,garden,Blois,,,,47.6027562,1.3115303
+15340051,relation,,garden,Blois,,,,47.6026765,1.3113006
+15340052,relation,,garden,Blois,,,,47.6024024,1.3107431
+15418687,relation,,garden,Blois,,,,47.6013603,1.3091788
+15418688,relation,,garden,Blois,,,,47.6024668,1.3126008
+15418689,relation,,garden,Blois,,,,47.6032347,1.3112537
+15418690,relation,,garden,Blois,,,,47.6030485,1.310961
+15418691,relation,,garden,Blois,,,,47.6029178,1.3107659
+15418692,relation,,garden,Blois,,,,47.6027941,1.3105953
+15418693,relation,,garden,Blois,,,,47.6027103,1.3103691
+15764240,relation,,garden,Blois,,,,47.6017043,1.3099357
+15764241,relation,,garden,Blois,,,,47.6016853,1.3097095
+15764242,relation,,garden,Blois,,,,47.6014182,1.3099716
+15764243,relation,,garden,Blois,,,,47.6014265,1.3102001
+15764244,relation,,garden,Blois,,,,47.6008857,1.3090235
+15764245,relation,,garden,Blois,,,,47.6009986,1.309434
+15764246,relation,,garden,Blois,,,,47.6008383,1.3093338
+15764247,relation,,garden,Blois,,,,47.6011552,1.3095193
+15764340,relation,,garden,Blois,,,,47.6008197,1.3116139
+15764341,relation,,garden,Blois,,,,47.6009785,1.3114884
+15764342,relation,,garden,Blois,,,,47.6008318,1.3108308
+15764343,relation,,garden,Blois,,,,47.6009252,1.3105171
+15764344,relation,,garden,Blois,,,,47.6010558,1.3103038
+15764345,relation,,garden,Blois,,,,47.6010725,1.3099622
+15764346,relation,,garden,Blois,,,,47.6008643,1.309982
+15764347,relation,,garden,Blois,,,,47.6005916,1.309643
+15764348,relation,,garden,Blois,,,,47.600447,1.3094265
+15764349,relation,,garden,Blois,,,,47.6013241,1.310509
+15764350,relation,,garden,Blois,,,,47.6012153,1.3107162
+15764351,relation,,garden,Blois,,,,47.6014225,1.310975
+15764352,relation,,garden,Blois,,,,47.6015218,1.3108183
+15764353,relation,,garden,Blois,,,,47.6016183,1.3106292
+15833942,relation,,garden,Blois,,,,47.6022393,1.3122844
+15833943,relation,,garden,Blois,,,,47.6021615,1.3120223
+15833944,relation,,garden,Blois,,,,47.6020759,1.3118541
+15833945,relation,,garden,Blois,,,,47.6020128,1.311758
+15833946,relation,,garden,Blois,,,,47.6017988,1.311574
+15833947,relation,,garden,Blois,,,,47.6015347,1.3117128
+15833948,relation,,garden,Blois,,,,47.6014589,1.3117665
+15833949,relation,,garden,Blois,,,,47.6012923,1.3118836
+15833950,relation,,garden,Blois,,,,47.6012345,1.3119252
+15834039,relation,,garden,Blois,,,,47.6003948,1.3114666
+15834040,relation,,garden,Blois,,,,47.6003339,1.3114398
+15834041,relation,,garden,Blois,,,,47.600073,1.3113573
+15834042,relation,,garden,Blois,,,,47.6000113,1.3113523
+15834043,relation,,garden,Blois,,,,47.5996339,1.3115523
+15834125,relation,,garden,Blois,,,,47.6004208,1.3120525
+15834126,relation,,garden,Blois,,,,47.6003664,1.3120118
+15834127,relation,,garden,Blois,,,,47.6003054,1.3119729
+15834128,relation,,garden,Blois,,,,47.6002491,1.3119297
+15834129,relation,,garden,Blois,,,,47.6000078,1.3119116
+15834130,relation,,garden,Blois,,,,47.5999513,1.3119509
+15834131,relation,,garden,Blois,,,,47.5998169,1.3120808
+16184169,relation,,garden,Blois,,,,47.600255,1.3124362
+16184322,relation,,garden,Blois,,,,47.598913,1.3020316
+16184323,relation,,garden,Blois,,,,47.5988562,1.301961
+16184324,relation,,garden,Blois,,,,47.5987996,1.3018916
+16184325,relation,,garden,Blois,,,,47.5987421,1.3018211
+16184326,relation,,garden,Blois,,,,47.5986843,1.3017497
+16184327,relation,,garden,Blois,,,,47.5986273,1.3016789
+16184328,relation,,garden,Blois,,,,47.5985706,1.3016087
+16184329,relation,,garden,Blois,,,,47.5983758,1.301368
+16184330,relation,,garden,Blois,,,,47.5985238,1.3009899
+16184331,relation,,garden,Blois,,,,47.5985694,1.3009051
+16184332,relation,,garden,Blois,,,,47.5986154,1.3008184
+16184333,relation,,garden,Blois,,,,47.5986623,1.3007313
+16184334,relation,,garden,Blois,,,,47.5988146,1.3004492
+16184335,relation,,garden,Blois,,,,47.5988605,1.3003645
+16184336,relation,,garden,Blois,,,,47.5989065,1.3002783
+16184337,relation,,garden,Blois,,,,47.5987904,1.3010714
+16184338,relation,,garden,Blois,,,,47.5988,1.3014078
+16184371,relation,,garden,Blois,,,,47.5970966,1.30206
+16184372,relation,,garden,Blois,,,,47.5972367,1.3021345
+16184373,relation,,garden,Blois,,,,47.5974073,1.3017352
+16184374,relation,,garden,Blois,,,,47.5979492,1.3017483
+16184375,relation,,garden,Blois,,,,47.5981985,1.3009156
+16184376,relation,,garden,Blois,,,,47.5978767,1.3008804
+16184377,relation,,garden,Blois,,,,47.5979754,1.3007429
+16184402,relation,,garden,Blois,,,,47.601966,1.3122062
+16184403,relation,,garden,Blois,,,,47.6015151,1.3121635
+16184404,relation,,garden,Blois,,,,47.6011233,1.3126231
+16184405,relation,,garden,Blois,,,,47.6006734,1.3128624
+16189357,relation,,garden,Blois,,,,47.600951,1.3144947
+16189358,relation,,garden,Blois,,,,47.6011156,1.3143179
+16189359,relation,,garden,Blois,,,,47.60126,1.3142097
+16189360,relation,,garden,Blois,,,,47.6013993,1.3141252
+16189361,relation,,garden,Blois,,,,47.6015608,1.3140425
+16189362,relation,,garden,Blois,,,,47.6018548,1.3138336
+16189363,relation,,garden,Blois,,,,47.6019646,1.3136352
+16189364,relation,,garden,Blois,,,,47.6022163,1.3128833
+16229689,relation,,garden,Blois,,,,47.6006759,1.3136736
+16229690,relation,,garden,Blois,,,,47.6006377,1.3134275
+16229691,relation,,garden,Blois,,,,47.6009401,1.3137953
+16229692,relation,,garden,Blois,,,,47.600763,1.3139329
+16229693,relation,,garden,Blois,,,,47.6011429,1.3132118
+16229694,relation,,garden,Blois,,,,47.6013882,1.3134715
+16229695,relation,,garden,Blois,,,,47.6014181,1.3129513
+16229696,relation,,garden,Blois,,,,47.6015466,1.3133671
+16229697,relation,,garden,Blois,,,,47.6017177,1.3132903
+16229698,relation,,garden,Blois,,,,47.6015474,1.3128241
+16229699,relation,,garden,Blois,,,,47.6017794,1.3130116
+16229700,relation,,garden,Blois,,,,47.6017401,1.3127572
+16229701,relation,,garden,Blois,,,,47.6016782,1.3125518
+16229716,relation,,garden,Blois,,,,47.6006978,1.3143585
+16229717,relation,,garden,Blois,,,,47.6004882,1.3147539
+16229718,relation,,garden,Blois,,,,47.6005614,1.3142354
+16229719,relation,,garden,Blois,,,,47.6006059,1.3145682
+16229720,relation,,garden,Blois,,,,47.6004323,1.3140602
+16229721,relation,,garden,Blois,,,,47.6001543,1.3141908
+16229722,relation,,garden,Blois,,,,47.6000577,1.3136939
+16229723,relation,,garden,Blois,,,,47.6003417,1.3134111
+16229724,relation,,garden,Blois,,,,47.6003777,1.3131609
+16229725,relation,,garden,Blois,,,,47.6001748,1.3130094
+16229800,relation,,garden,Blois,,,,47.5991802,1.3170492
+16229801,relation,,garden,Blois,,,,47.5993233,1.3172397
+16229802,relation,,garden,Blois,,,,47.5997972,1.3172464
+16229803,relation,,garden,Blois,,,,47.5999046,1.3169898
+16229804,relation,,garden,Blois,,,,47.600014,1.3167766
+16229805,relation,,garden,Blois,,,,47.6001215,1.3165626
+16229806,relation,,garden,Blois,,,,47.6002298,1.316359
+16229807,relation,,garden,Blois,,,,47.600617,1.3157737
+16259949,relation,,garden,Blois,,,,47.5993773,1.3167056
+16259950,relation,,garden,Blois,,,,47.5994884,1.3164885
+16259951,relation,,garden,Blois,,,,47.5995405,1.3168486
+16259952,relation,,garden,Blois,,,,47.5996034,1.3162836
+16259953,relation,,garden,Blois,,,,47.5998733,1.3162754
+16259954,relation,,garden,Blois,,,,47.5999908,1.3160613
+16259955,relation,,garden,Blois,,,,47.599948,1.3156849
+16259956,relation,,garden,Blois,,,,47.6001162,1.3158592
+16259957,relation,,garden,Blois,,,,47.600092,1.3155103
+16259958,relation,,garden,Blois,,,,47.6002512,1.3156824
+16259959,relation,,garden,Blois,,,,47.6003048,1.3154223
+16260575,relation,,garden,Blois,,,,47.5989811,1.3148701
+16260576,relation,,garden,Blois,,,,47.5991647,1.3148697
+16260577,relation,,garden,Blois,,,,47.5992289,1.3154115
+16260578,relation,,garden,Blois,,,,47.5993462,1.3149874
+16260579,relation,,garden,Blois,,,,47.5995192,1.3152224
+16260580,relation,,garden,Blois,,,,47.5994238,1.3155111
+16260581,relation,,garden,Blois,,,,47.5994229,1.3159431
+16260582,relation,,garden,Blois,,,,47.599541,1.3157165
+16260583,relation,,garden,Blois,,,,47.5996502,1.3154877
+16260584,relation,,garden,Blois,,,,47.6000347,1.315037
+16260585,relation,,garden,Blois,,,,47.5998659,1.3149621
+16260652,relation,,garden,Blois,,,,47.5984863,1.3145858
+16260653,relation,,garden,Blois,,,,47.598729,1.3139664
+16260654,relation,,garden,Blois,,,,47.5990654,1.3134937
+16260655,relation,,garden,Blois,,,,47.5992377,1.3140294
+16260656,relation,,garden,Blois,,,,47.5990203,1.3140282
+16260657,relation,,garden,Blois,,,,47.5992363,1.3143722
+16260658,relation,,garden,Blois,,,,47.5994151,1.3143725
+16260659,relation,,garden,Blois,,,,47.5994169,1.313985
+16260660,relation,,garden,Blois,,,,47.5994496,1.3135497
+16260661,relation,,garden,Blois,,,,47.5996195,1.3143632
+16260662,relation,,garden,Blois,,,,47.5996446,1.3140432
+16260663,relation,,garden,Blois,,,,47.5996732,1.3137535
+16260664,relation,,garden,Blois,,,,47.5997287,1.3134651
+16260753,relation,,garden,Blois,,,,47.5981722,1.3131544
+16260754,relation,,garden,Blois,,,,47.5984718,1.3120066
+16260755,relation,,garden,Blois,,,,47.5985277,1.3128222
+16260756,relation,,garden,Blois,,,,47.59861,1.3128897
+16260757,relation,,garden,Blois,,,,47.5986997,1.3133441
+16261814,relation,,garden,Blois,,,,47.5989629,1.3164824
+16261815,relation,,garden,Blois,,,,47.5988739,1.3167658
+16261816,relation,,garden,Blois,,,,47.5986311,1.3166483
+16261817,relation,,garden,Blois,,,,47.5983306,1.3163284
+16261818,relation,,garden,Blois,,,,47.5984862,1.3164922
+16261819,relation,,garden,Blois,,,,47.5981755,1.3161684
+16261820,relation,,garden,Blois,,,,47.5979959,1.3158878
+16261821,relation,,garden,Blois,,,,47.5980686,1.3157072
+16261822,relation,,garden,Blois,,,,47.5985271,1.3159775
+16261823,relation,,garden,Blois,,,,47.5986524,1.3157509
+16261824,relation,,garden,Blois,,,,47.5986324,1.3153173
+16261825,relation,,garden,Blois,,,,47.5985024,1.3151827
+16261826,relation,,garden,Blois,,,,47.5983259,1.3150504
+16261845,relation,,garden,Blois,,,,47.5983652,1.3173285
+16261846,relation,,garden,Blois,,,,47.598415,1.3173757
+16261847,relation,,garden,Blois,,,,47.5978167,1.3166759
+16261848,relation,,garden,Blois,,,,47.5976216,1.3165166
+16261885,relation,,garden,Blois,,,,47.599404,1.318456
+16261886,relation,,garden,Blois,,,,47.5994546,1.3185051
+16261887,relation,,garden,Blois,,,,47.6002156,1.3190099
+16261888,relation,,garden,Blois,,,,47.6002833,1.3188638
+16261889,relation,,garden,Blois,,,,47.6000768,1.3184856
+16261890,relation,,garden,Blois,,,,47.5999337,1.3183421
+16261891,relation,,garden,Blois,,,,47.5991215,1.3174098
+16261892,relation,,garden,Blois,,,,47.598993,1.3172963
+16261914,relation,,garden,Blois,,,,47.5972491,1.3162109
+16261915,relation,,garden,Blois,,,,47.5975449,1.3157366
+16261916,relation,,garden,Blois,,,,47.5976496,1.3155665
+16261917,relation,,garden,Blois,,,,47.5977987,1.3153222
+16261918,relation,,garden,Blois,,,,47.5980337,1.3149297
+16261942,relation,,garden,Blois,,,,47.5970255,1.3110312
+16261943,relation,,garden,Blois,,,,47.597201,1.3108433
+16261944,relation,,garden,Blois,,,,47.5972818,1.3111573
+16261945,relation,,garden,Blois,,,,47.5975685,1.3114006
+16261946,relation,,garden,Blois,,,,47.5978404,1.3116549
+16261947,relation,,garden,Blois,,,,47.5977185,1.3110176
+16261948,relation,,garden,Blois,,,,47.5976162,1.3109295
+16261949,relation,,garden,Blois,,,,47.5974317,1.3107722
+16261950,relation,,garden,Blois,,,,47.5973363,1.3106332
+16261972,relation,,garden,Blois,,,,47.5971887,1.3117943
+16261986,relation,,garden,Blois,,,,47.596283,1.3135351
+16261987,relation,,garden,Blois,,,,47.5963856,1.3136243
+16261988,relation,,garden,Blois,,,,47.5965118,1.313733
+16262206,relation,,garden,Blois,,,,47.5962833,1.3129458
+16262207,relation,,garden,Blois,,,,47.5964893,1.3132182
+16262208,relation,,garden,Blois,,,,47.5967462,1.3127682
+16262209,relation,,garden,Blois,,,,47.5966619,1.3130473
+16262210,relation,,garden,Blois,,,,47.5967176,1.3129196
+16262211,relation,,garden,Blois,,,,47.5965979,1.3125783
+16262212,relation,,garden,Blois,,,,47.59652,1.3124863
+16262213,relation,,garden,Blois,,,,47.5964288,1.3124437
+16356332,relation,,garden,Blois,,,,47.5969402,1.311577
+16405646,relation,,garden,Blois,,,,47.596709,1.3113724
+16635775,relation,,garden,Blois,,,,47.5948949,1.3102951
+16644476,relation,,garden,Blois,,,,47.5887162,1.2902097
+16644477,relation,,garden,Blois,,,,47.5876411,1.2900856
+16644478,relation,,garden,Blois,,,,47.5876746,1.2896455
+16644479,relation,,garden,Blois,,,,47.5877648,1.289387
+16644480,relation,,garden,Blois,,,,47.5882231,1.2892659
+16644481,relation,,garden,Blois,,,,47.5883162,1.2889595
+16644482,relation,,garden,Blois,,,,47.5883545,1.2886632
+16644483,relation,,garden,Blois,,,,47.5883715,1.2883672
+16644484,relation,,garden,Blois,,,,47.588335,1.2879991
+16644485,relation,,garden,Blois,,,,47.5884889,1.2880655
+16644486,relation,,garden,Blois,,,,47.5887889,1.2882255
+16644487,relation,,garden,Blois,,,,47.5883031,1.287449
+16644488,relation,,garden,Blois,,,,47.5892843,1.2877369
+16644489,relation,,garden,Blois,,,,47.5895077,1.2876723
+16685423,relation,,garden,Blois,,,,47.5919013,1.3173913
+16685424,relation,,garden,Blois,,,,47.5920532,1.3171139
+16685425,relation,,garden,Blois,,,,47.592141,1.3162264
+16685426,relation,,garden,Blois,,,,47.5921704,1.3160588
+16685469,relation,,garden,Blois,,,,47.5873728,1.2891589
+16685470,relation,,garden,Blois,,,,47.5873864,1.2894973
+16685471,relation,,garden,Blois,,,,47.587624,1.2890015
+16685472,relation,,garden,Blois,,,,47.587306,1.2888453
+16685473,relation,,garden,Blois,,,,47.5870855,1.2888556
+16685474,relation,,garden,Blois,,,,47.5869796,1.2882571
+16685475,relation,,garden,Blois,,,,47.5873183,1.2884459
+16685476,relation,,garden,Blois,,,,47.5874845,1.2885432
+16686019,relation,,garden,Blois,,,,47.5858234,1.2913834
+16686020,relation,,garden,Blois,,,,47.5857056,1.2917524
+16686021,relation,,garden,Blois,,,,47.5859334,1.2916842
+16686022,relation,,garden,Blois,,,,47.5858466,1.2910218
+16686023,relation,,garden,Blois,,,,47.5858795,1.2907169
+16686024,relation,,garden,Blois,,,,47.5859878,1.2904393
+16686025,relation,,garden,Blois,,,,47.5860866,1.2901946
+16686026,relation,,garden,Blois,,,,47.5862871,1.2894897
+16686027,relation,,garden,Blois,,,,47.5861929,1.2898799
+16686028,relation,,garden,Blois,,,,47.5864438,1.2895515
+16686029,relation,,garden,Blois,,,,47.5865735,1.2897901
+16686030,relation,,garden,Blois,,,,47.5867214,1.2896021
+16686031,relation,,garden,Blois,,,,47.5868217,1.2890853
+16686032,relation,,garden,Blois,,,,47.5866355,1.2885536
+16701648,relation,,garden,Blois,,,,47.5866484,1.2910863
+16701649,relation,,garden,Blois,,,,47.5862636,1.2907298
+16701650,relation,,garden,Blois,,,,47.5869189,1.2908093
+16701651,relation,,garden,Blois,,,,47.586624,1.2902899
+16701652,relation,,garden,Blois,,,,47.5868493,1.2900482
+16701653,relation,,garden,Blois,,,,47.5871748,1.2897842
+16705355,relation,,garden,Blois,,,,47.587974,1.2909377
+16705356,relation,,garden,Blois,,,,47.5877194,1.2908989
+16705357,relation,,garden,Blois,,,,47.5862253,1.2914378
+16705358,relation,,garden,Blois,,,,47.5862254,1.291231
+17128656,relation,,garden,Blois,,,,47.5893821,1.3173428
+17128657,relation,,garden,Blois,,,,47.5892306,1.3176222
+17128658,relation,,garden,Blois,,,,47.5892128,1.3173649
+17128659,relation,,garden,Blois,,,,47.5891568,1.3172586
+17128660,relation,,garden,Blois,,,,47.5890711,1.3171338
+17128661,relation,,garden,Blois,,,,47.5889692,1.3169732
+17128662,relation,,garden,Blois,,,,47.5888669,1.3168308
+17128663,relation,,garden,Blois,,,,47.5887374,1.3166299
+17128664,relation,,garden,Blois,,,,47.5886114,1.316437
+17128665,relation,,garden,Blois,,,,47.5885409,1.3163201
+17128666,relation,,garden,Blois,,,,47.5884766,1.3162087
+17128667,relation,,garden,Blois,,,,47.5884038,1.3161109
+17128668,relation,,garden,Blois,,,,47.5874882,1.3153481
+17128669,relation,,garden,Blois,,,,47.587554,1.3151861
+17128670,relation,,garden,Blois,,,,47.5877572,1.3154507
+17128671,relation,,garden,Blois,,,,47.587875,1.3155868
+17128672,relation,,garden,Blois,,,,47.5879852,1.3157123
+17128673,relation,,garden,Blois,,,,47.588087,1.315823
+17128863,relation,,garden,Blois,,,,47.5904341,1.3183654
+17128864,relation,,garden,Blois,,,,47.5905737,1.3185341
+17128865,relation,,garden,Blois,,,,47.5906993,1.3186813
+17128866,relation,,garden,Blois,,,,47.5912543,1.3184539
+17128867,relation,,garden,Blois,,,,47.5912005,1.3185817
+17128868,relation,,garden,Blois,,,,47.591155,1.3186889
+17128869,relation,,garden,Blois,,,,47.5908434,1.3188213
+17128870,relation,,garden,Blois,,,,47.5909429,1.3190807
+17128871,relation,,garden,Blois,,,,47.5910961,1.3192314
+17128872,relation,,garden,Blois,,,,47.5911401,1.3190651
+17128873,relation,,garden,Blois,,,,47.5913297,1.3194839
+17128874,relation,,garden,Blois,,,,47.5915552,1.3196631
+17128875,relation,,garden,Blois,,,,47.5914919,1.3193558
+17128876,relation,,garden,Blois,,,,47.5915405,1.3191772
+17128877,relation,,garden,Blois,,,,47.5916765,1.3189857
+17128878,relation,,garden,Blois,,,,47.589777,1.3174349
+17128879,relation,,garden,Blois,,,,47.58972,1.3174135
+17128880,relation,,garden,Blois,,,,47.5897175,1.3172411
+17128881,relation,,garden,Blois,,,,47.5896077,1.3173092
+17128882,relation,,garden,Blois,,,,47.5895575,1.3174542
+17128883,relation,,garden,Blois,,,,47.5894116,1.3176585
+17128884,relation,,garden,Blois,,,,47.5893331,1.317846
+17148635,relation,,garden,Blois,,,,47.5838633,1.3026747
+17148637,relation,,garden,Blois,,,,47.5836393,1.3026708
+17148638,relation,,garden,Blois,,,,47.5837708,1.30297
+17148640,relation,,garden,Blois,,,,47.5835533,1.3029721
+17148777,relation,,garden,Blois,,,,47.5834797,1.3023016
+17149110,relation,,garden,Blois,,,,47.5838267,1.3034849
+17149113,relation,,garden,Blois,,,,47.5840702,1.3040885
+17149115,relation,,garden,Blois,,,,47.5842188,1.3044682
+17149117,relation,,garden,Blois,,,,47.5843439,1.3046279
+17149120,relation,,garden,Blois,,,,47.5843084,1.3038421
+17149121,relation,,garden,Blois,,,,47.584276,1.3036113
+17154563,relation,,garden,Blois,,,,47.5848447,1.3054653
+17154564,relation,,garden,Blois,,,,47.5847149,1.3052995
+17154565,relation,,garden,Blois,,,,47.5845774,1.305181
+17154566,relation,,garden,Blois,,,,47.5848687,1.3052276
+17154572,relation,,garden,Blois,,,,47.5846832,1.3037819
+17154573,relation,,garden,Blois,,,,47.5846823,1.3035572
+17154574,relation,,garden,Blois,,,,47.5846765,1.3033254
+17154575,relation,,garden,Blois,,,,47.584671,1.302999
+17154576,relation,,garden,Blois,,,,47.5847124,1.3027496
+17154577,relation,,garden,Blois,,,,47.5845341,1.3028781
+17154578,relation,,garden,Blois,,,,47.5843854,1.3030247
+17154608,relation,,garden,Blois,,,,47.5840141,1.3064278
+17154609,relation,,garden,Blois,,,,47.5841692,1.3063294
+17154610,relation,,garden,Blois,,,,47.5843014,1.306266
+17154611,relation,,garden,Blois,,,,47.584473,1.3062666
+17154612,relation,,garden,Blois,,,,47.5845796,1.3063979
+17154613,relation,,garden,Blois,,,,47.5848055,1.3065132
+17154614,relation,,garden,Blois,,,,47.5850066,1.3063604
+17154615,relation,,garden,Blois,,,,47.5850463,1.3060618
+17154616,relation,,garden,Blois,,,,47.5849769,1.3058077
+17228971,relation,,garden,Blois,,,,47.5833185,1.3034601
+17228972,relation,,garden,Blois,,,,47.5834232,1.3036878
+17228973,relation,,garden,Blois,,,,47.5834927,1.3038499
+17228974,relation,,garden,Blois,,,,47.5835613,1.304019
+17228975,relation,,garden,Blois,,,,47.5836222,1.3042002
+17228976,relation,,garden,Blois,,,,47.583721,1.3044141
+17228977,relation,,garden,Blois,,,,47.5838045,1.3045997
+17228978,relation,,garden,Blois,,,,47.5838857,1.3047911
+17228979,relation,,garden,Blois,,,,47.583968,1.3049827
+17228980,relation,,garden,Blois,,,,47.5840486,1.3051711
+17228981,relation,,garden,Blois,,,,47.5841297,1.3053622
+17228982,relation,,garden,Blois,,,,47.5842095,1.3055528
+17228983,relation,,garden,Blois,,,,47.5842823,1.3057218
+17229130,relation,,garden,Blois,,,,47.5830491,1.3030943
+17229131,relation,,garden,Blois,,,,47.5829806,1.3028876
+17229132,relation,,garden,Blois,,,,47.5828955,1.3026738
+17229133,relation,,garden,Blois,,,,47.5828113,1.3024552
+17229134,relation,,garden,Blois,,,,47.5826922,1.3031005
+17229135,relation,,garden,Blois,,,,47.5826524,1.3029173
+17229136,relation,,garden,Blois,,,,47.5826036,1.3027675
+17229137,relation,,garden,Blois,,,,47.5825636,1.3024927
+17229138,relation,,garden,Blois,,,,47.5824877,1.3022726
+17229139,relation,,garden,Blois,,,,47.5827115,1.3022048
+17229140,relation,,garden,Blois,,,,47.5826003,1.3017923
+17229141,relation,,garden,Blois,,,,47.5824693,1.301553
+17229142,relation,,garden,Blois,,,,47.5828311,1.301979
+17229143,relation,,garden,Blois,,,,47.5829607,1.3018436
+17229144,relation,,garden,Blois,,,,47.583098,1.3017153
+17229145,relation,,garden,Blois,,,,47.5832345,1.3015881
+17229146,relation,,garden,Blois,,,,47.5833562,1.3014601
+20507775,relation,,garden,Blois,,,,47.5835417,1.2971851
+20507776,relation,,garden,Blois,,,,47.5833204,1.2970892
+20507777,relation,,garden,Blois,,,,47.5834187,1.2967812
+20507778,relation,,garden,Blois,,,,47.5836836,1.2967358
+20507779,relation,,garden,Blois,,,,47.5829157,1.2968783
+20507780,relation,,garden,Blois,,,,47.5830689,1.2964577
+20507781,relation,,garden,Blois,,,,47.5832249,1.2962545
+20507782,relation,,garden,Blois,,,,47.5836173,1.296197
+20507783,relation,,garden,Blois,,,,47.5836442,1.2954458
+20507784,relation,,garden,Blois,,,,47.5836582,1.2948712
+20507785,relation,,garden,Blois,,,,47.5840292,1.2947901
+20507786,relation,,garden,Blois,,,,47.5840721,1.2952458
+20507787,relation,,garden,Blois,,,,47.5840525,1.2955469
+20507788,relation,,garden,Blois,,,,47.584065,1.2959976
+20507789,relation,,garden,Blois,,,,47.584045,1.2962673
+20507790,relation,,garden,Blois,,,,47.5840454,1.2965419
+20507791,relation,,garden,Blois,,,,47.5840538,1.2968156

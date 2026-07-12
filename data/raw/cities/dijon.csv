@@ -1,20 +1,34 @@
 osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+250971125,node,Table d'orientation du parc de la Combe Saint-Joseph,viewpoint,Dijon,"17 Rue Gustave Noblemaire, 21000, Dijon",21000,,47.3072418,4.9924536
+251517192,node,Crebillon,artwork,Dijon,,,,47.314963,5.0297102
 255728482,node,Marco Polo,restaurant,Dijon,,,https://www.marcopolodijon.com/,47.3201157,5.0359844
 255731744,node,Mano De Pina,restaurant,Dijon,,,,47.3201768,5.0360003
+255935624,node,Muséum d'Histoire Naturelle,museum,Dijon,,,https://ma-nature.dijon.fr/,47.3218523,5.0289424
 256276605,node,L'Édito,restaurant,Dijon,,,https://www.restaurant-ledito-dijon.fr/,47.3233936,5.0350105
 256396180,node,En Face la Cité,restaurant,Dijon,Dijon,,,47.3183319,5.0306434
+257396133,node,Monument des Martyrs de la déportation,memorial,Dijon,,,,47.3129562,5.0500805
+257750210,node,Ours blanc,artwork,Dijon,,,,47.3238834,5.0331909
+261645175,node,Statue de François Rude,memorial,Dijon,,,,47.3252937,5.0322273
 262373880,node,La Braserade,restaurant,Dijon,,,,47.3286912,5.0416721
+262373894,node,Statue de Saint-Bernard,memorial,Dijon,,,,47.3256341,5.038814
+262544247,node,"Char Sherman ""Duguay-Trouin""",memorial,Dijon,,,,47.3291013,5.0431555
 262552103,node,La Bon'Heure,restaurant,Dijon,"Avenue Aristide Briand, 21000, Dijon",21000,,47.330747,5.0487599
 266015694,node,Refuge des Pirates,restaurant,Dijon,,,http://refugedespirates.fr/,47.3515791,5.0580714
+359129906,node,,memorial,Dijon,,,,47.2926903,5.0006094
+443667944,node,,memorial,Dijon,,,,47.4401573,5.092822
 477615741,node,Kyriad Dijon Sud Longvic,hotel,Dijon,,,https://dijon-sud-longvic.kyriad.com,47.2717815,5.0452097
 477615919,node,greet Hotel Dijon Sud Longvic,hotel,Dijon,,,https://all.accor.com/hotel/C0T5/index.fr.shtml,47.2715764,5.0440596
+670013280,node,,memorial,Dijon,,,,47.2308173,5.447266
+697186392,node,,memorial,Dijon,,,,47.2662967,5.0069971
 703548676,node,Holiday Inn,hotel,Dijon,,,,47.3554713,5.0514677
+860536088,node,Monument de la Victoire,memorial,Dijon,,,,47.308543,5.0462188
 890307278,node,Soleil de Tunis,restaurant,Dijon,"21 Rue de la Manutention, 21000, Dijon",21000,,47.3164899,5.0343803
 890307287,node,Les Remparts,restaurant,Dijon,,,,47.3167042,5.0342326
 890307292,node,Le Pharaon,restaurant,Dijon,,,,47.3175444,5.0340926
 890307330,node,Le piano qui fume,restaurant,Dijon,,,https://www.lepianoquifume.com/,47.3190328,5.0373275
 890307348,node,Chambouletous,restaurant,Dijon,,,,47.3191481,5.0374992
 890727690,node,Dallo Zio,restaurant,Dijon,,,,47.316085,5.0379425
+890968559,node,,memorial,Dijon,,,,47.3066163,4.7045154
 891812235,node,Le Shanti,restaurant,Dijon,,,http://leshanti.unblog.fr/,47.3176605,5.0348679
 891812240,node,L'Âge de Raisin,restaurant,Dijon,"67 Rue Berbisey, 21000, Dijon",21000,https://age-de-raisin.fr/,47.3176791,5.0349417
 891812242,node,Sushi King,restaurant,Dijon,,,,47.3187817,5.0350738
@@ -31,7 +45,13 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 902330149,node,La Closerie,restaurant,Dijon,,,,47.3184475,5.0380434
 905520191,node,Le Gril' Laure,restaurant,Dijon,,,,47.3211751,5.0338636
 905520220,node,Hostellerie du Chapeau Rouge,hotel,Dijon,"5 Rue Michelet, 21000, Dijon",21000,https://www.chapeau-rouge.fr/fr/chambres-et-suites-hotel-charme-dijon,47.321321,5.0357327
+907529628,node,,memorial,Dijon,,,,47.3050433,4.6421268
+1067704891,node,,memorial,Dijon,,,,47.5642319,5.4379865
+1067776735,node,,memorial,Dijon,,,,47.5640677,5.4240303
+1069197817,node,Monument aux morts,memorial,Dijon,,,,47.5266133,5.3697335
+1344525760,node,,memorial,Dijon,,,,47.642539,5.0783557
 1345107024,node,Aki,restaurant,Dijon,,,https://www.aki2010.com/,47.3187386,5.0357743
+1351139869,node,,memorial,Dijon,,,,47.3102048,5.1840951
 1377668596,node,La barca,restaurant,Dijon,,,,47.3054238,5.1016543
 1377770198,node,Le Tire Bouchon,restaurant,Dijon,,,https://restaurant-letirebouchon.fr/,47.3101009,5.0946329
 1377806294,node,S&S Grill,restaurant,Dijon,"61 Rue d'York, 21000, Dijon",21000,,47.3353881,5.060158
@@ -51,24 +71,37 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1383431252,node,Auberge de la Charme,restaurant,Dijon,,,,47.3756859,4.8989149
 1383431260,node,La Ferme du Coucou,hotel,Dijon,,,,47.3752833,4.9003333
 1383431264,node,Le Sabayon,restaurant,Dijon,,,,47.37565,4.8990833
+1387869045,node,,memorial,Dijon,,,,47.346361,5.0205333
 1392538814,node,Les Feuillus,restaurant,Dijon,,,,47.6186886,5.0137628
 1399447182,node,Hôtel ibis budget Dijon Saint-Apollinaire,hotel,Dijon,"6 Rue des Longènes, 21850, Saint-Apollinaire",21850,,47.329585,5.0772478
 1401835493,node,Chez Grand-Mère,restaurant,Dijon,"3, 21560, Couternon",21560,,47.3314369,5.1497164
+1401839875,node,,memorial,Dijon,,,,47.3343295,5.1488051
 1402205112,node,La Musarde,restaurant,Dijon,"7 rue des riottes, 21121",21121,https://www.lamusarde.fr/,47.3642389,4.9928973
+1404428095,node,Monument aux morts,memorial,Dijon,,,,47.3324238,5.0813072
 1404428151,node,Pizza du bourg,restaurant,Dijon,"639 Route de Gray, 21850, Saint-Apollinaire",21850,https://www.pizzadubourg.com/,47.3316949,5.0844555
+1404808681,node,,memorial,Dijon,,,,47.369518,5.0248277
+1412407439,node,Jardin des Poètes,garden,Dijon,,,,47.3133646,4.9920435
 1415905527,node,Le Méditerranéen,restaurant,Dijon,,,,47.3293565,5.0429751
+1416591570,node,Château de Brognon,castle,Dijon,,,,47.4026375,5.1703068
+1418401947,node,,memorial,Dijon,,,,47.4551514,4.8822544
 1419915122,node,Spica,restaurant,Dijon,"48 Rue de la Préfecture, 21000, Dijon",21000,https://www.restaurantspica.com/,47.3247128,5.0425512
 1422149578,node,Hôtel Darcy,hotel,Dijon,,,https://hotel-darcy.fr/,47.3230455,5.0349886
 1422149594,node,Restaurant de la Porte Guillaume,restaurant,Dijon,,,https://hotel-darcy.fr/restaurant/,47.3230701,5.0350001
 1423824919,node,IBIS Arquebuse,hotel,Dijon,"15A Avenue Albert 1er, 21000, Dijon",21000,,47.3221929,5.0238833
 1430869839,node,O'Bareuzai,restaurant,Dijon,,,,47.3225869,5.0390516
+1436786784,node,Cadole,attraction,Dijon,,,,47.307815,4.9623793
+1436786786,node,Cadole,attraction,Dijon,,,,47.3082743,4.9642525
+1436786788,node,Cadole,attraction,Dijon,,,,47.3085376,4.9654541
 1460282831,node,Le Coin Repas,restaurant,Dijon,,,,47.3109273,5.0529502
 1460287411,node,Le Burguignon,restaurant,Dijon,,,https://instagram.com/le.burguignon?igshid=YmMyMTA2M2Y=,47.3131536,5.0568291
 1483540615,node,Brasserie la Cantine,restaurant,Dijon,"6 Avenue Alain Savary, 21000, Dijon",21000,https://www.crous-bfc.fr/restaurant/brasserie-la-cantine/,47.3137746,5.0681104
 1493118985,node,BollyWood lounge,restaurant,Dijon,,,,47.3193665,5.0333094
+1493118991,node,Musée archéologique de Dijon,museum,Dijon,"5 Rue Docteur Maret, 21000, Dijon",21000,https://musees.dijon.fr/,47.3218301,5.0350557
 1495892275,node,La Cloche,restaurant,Dijon,,,,47.3240207,5.0340914
 1501152100,node,Chalet Du Steak,restaurant,Dijon,58 Rue de Longvic,,,47.2836044,5.0226604
 1501152111,node,La Cantine de la Côte,restaurant,Dijon,"355 Avenue Jean Moulin, 21160, Marsannay-la-Côte",21160,,47.2799992,5.0203273
+1501674289,node,Vierge noire de Saulx-le-Duc,memorial,Dijon,,,,47.5389787,5.0174917
+1501741679,node,Fort de la Motte Giron,viewpoint,Dijon,,,,47.3149601,4.987365
 1509645516,node,Pourquoi pas ?,restaurant,Dijon,,,https://www.pourquoipas-dijon.com/,47.3195294,5.0356031
 1515593465,node,Min'Chine,restaurant,Dijon,,,,47.3224315,5.0252287
 1521709631,node,Kyriad Dijon-Mirande,hotel,Dijon,"12 Rue Pierre de Coubertin, 21000, Dijon",21000,,47.3114876,5.0802798
@@ -76,43 +109,149 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1538137976,node,Hôtel des Allées,hotel,Dijon,,,,47.3107725,5.046236
 1538219779,node,Le Sauvage,restaurant,Dijon,,,,47.3190994,5.0338976
 1545706265,node,Le Lion d'Or,restaurant,Dijon,,,,47.405647,5.0174493
+1603597024,node,,memorial,Dijon,,,,47.6109011,5.1563144
+1612379663,node,,memorial,Dijon,,,,47.559033,5.1283342
+1612469987,node,,memorial,Dijon,,,,47.5627724,5.116229
+1618974639,node,,memorial,Dijon,,,,47.6078844,5.4281904
+1619446956,node,,memorial,Dijon,,,,47.5190237,5.1301994
+1622518551,node,,memorial,Dijon,,,,47.3998801,5.143464
+1623705699,node,,memorial,Dijon,,,,47.5285031,5.2341407
+1623708003,node,,memorial,Dijon,,,,47.5345114,5.2304517
+1624463387,node,,memorial,Dijon,,,,47.5644599,5.2128892
+1625913182,node,,memorial,Dijon,,,,47.5195275,5.0494436
+1625913218,node,,memorial,Dijon,,,,47.5214252,5.0608607
+1628126038,node,,memorial,Dijon,,,,47.5179222,5.1714274
+1629365672,node,,memorial,Dijon,,,,47.2933712,4.8045509
+1630514362,node,,memorial,Dijon,,,,47.54058,4.9665309
+1633022957,node,,memorial,Dijon,,,,47.5060451,4.7812862
 1633233131,node,Chez Ti,restaurant,Dijon,,,,47.3179566,5.0351258
 1633233134,node,Aux Délices d'Annaba,restaurant,Dijon,,,https://www.lepetitgascon.fr/,47.317982,5.0351838
+1635434159,node,,memorial,Dijon,,,,47.4500184,4.9278413
+1636992775,node,,memorial,Dijon,,,,47.6310648,5.210997
 1637581988,node,Parapluie,restaurant,Dijon,,,https://www.parapluie-dijon.com/,47.3188736,5.0337622
+1639637250,node,Un Pignon de la Grande Église,ruins,Dijon,,,,47.3218436,5.0178854
+1642094894,node,,memorial,Dijon,,,,47.5909115,5.3195448
+1645873786,node,,memorial,Dijon,,,,47.5011544,5.2970091
+1646793296,node,,memorial,Dijon,,,,47.4903282,5.2097554
+1651789440,node,,memorial,Dijon,,,,47.5398844,5.4319903
+1652668062,node,,memorial,Dijon,,,,47.5019532,5.3738735
+1653521297,node,,memorial,Dijon,,,,47.4641161,5.3631025
+1653639493,node,,memorial,Dijon,,,,47.461635,5.1485614
+1656209130,node,Point de vue : Agglomération de Dijon,viewpoint,Dijon,,,,47.361597,4.991076
+1658983802,node,,memorial,Dijon,,,,47.430081,5.0524014
+1662772302,node,La faune des gravières,artwork,Dijon,,,,47.44339,5.187016
 1669831140,node,Hôtel du Stade,restaurant,Dijon,,,,47.3217469,5.0532768
+1679645814,node,,memorial,Dijon,,,,47.5974893,5.0804844
+1697563200,node,,memorial,Dijon,,,,47.3981079,5.0979236
+1697565800,node,,memorial,Dijon,,,,47.3987077,5.0997731
+1707330487,node,,memorial,Dijon,,,,47.6189572,5.0142547
+1717446873,node,,memorial,Dijon,,,,47.6517849,5.0048026
+1759423117,node,,memorial,Dijon,,,,47.4403734,4.7900675
+1759485325,node,,memorial,Dijon,,,,47.4576583,4.7636565
+1768966448,node,,memorial,Dijon,,,,47.4030612,5.1198596
+1769419559,node,Place Victore Noël,artwork,Dijon,,,,47.4134407,5.2054526
+1792406306,node,Château de Talmay,castle,Dijon,"1 Place du Château, 21270, Talmay",21270,,47.3562718,5.4350731
+1823955335,node,,memorial,Dijon,,,,47.3620308,4.7603791
 1882605632,node,,restaurant,Dijon,,,,47.2421434,5.2195476
 1886807385,node,Hôtel de France,hotel,Dijon,,,,47.2421743,5.2177854
+1886807441,node,,memorial,Dijon,,,,47.2407539,5.2188919
+1887472955,node,Roche-de-Leu,viewpoint,Dijon,,,,47.2594212,4.7333619
+1887478356,node,Roche-de-Slée,viewpoint,Dijon,,,,47.2598928,4.7428949
+1891695254,node,,viewpoint,Dijon,,,,47.2149443,4.7345701
+1893126447,node,Le Châtelet,ruins,Dijon,,,,47.2666122,4.709686
+1913702850,node,,memorial,Dijon,,,,47.4125538,5.2056772
+1925212352,node,,memorial,Dijon,,,,47.4070203,4.9451099
+1934790524,node,,memorial,Dijon,,,,47.2764354,4.827626
+2023564180,node,Tour d'Oysel,attraction,Dijon,"21310, Bèze",21310,,47.467425,5.27224
+2025223708,node,,memorial,Dijon,,,,47.4381704,5.3004882
+2026852676,node,,memorial,Dijon,,,,47.433923,5.2306438
+2027837060,node,,memorial,Dijon,,,,47.3992944,5.317467
+2034880368,node,,memorial,Dijon,,,,47.3784777,5.2531031
 2039800554,node,Les Tramways,restaurant,Dijon,,,https://bistrot-des-tramways.business.site/,47.3247416,5.052054
+2039885967,node,Monument de la Défense,monument,Dijon,,,,47.3216688,5.0522089
+2040863275,node,,memorial,Dijon,,,,47.3292226,5.2703927
+2042104792,node,,memorial,Dijon,,,,47.4371567,5.3686083
+2043445825,node,,memorial,Dijon,,,,47.2933242,5.3998026
+2045872717,node,,memorial,Dijon,,,,47.4046608,5.4042559
+2045872991,node,,memorial,Dijon,,,,47.4052073,5.4038191
+2046620437,node,,memorial,Dijon,,,,47.3574133,5.4150676
 2048123785,node,La Criée,restaurant,Dijon,"4 Rue de la Glacière, 21850, Saint-Apollinaire",21850,https://restaurant.lacriee.com/44-la-criee-dijon,47.3260493,5.0759575
 2048123815,node,Courtepaille,restaurant,Dijon,,,,47.326042,5.0752134
+2048185981,node,,memorial,Dijon,,,,47.3554623,5.4382748
+2054344879,node,,memorial,Dijon,,,,47.3174607,5.208404
+2056073337,node,,memorial,Dijon,,,,47.2765355,5.1753869
+2070321977,node,,memorial,Dijon,,,,47.223644,5.2678842
+2073368114,node,,memorial,Dijon,,,,47.205011,5.2890261
+2084153616,node,,memorial,Dijon,,,,47.367446,4.7058861
+2085799712,node,,memorial,Dijon,,,,47.2175563,4.7458648
 2086879834,node,Domaine de Pont de Pany,restaurant,Dijon,,,,47.2958314,4.810567
+2092001690,node,,memorial,Dijon,,,,47.3313437,4.7596934
+2092058679,node,,memorial,Dijon,,,,47.3123316,4.7420204
+2092176926,node,,memorial,Dijon,,,,47.3100785,4.7762437
+2092272953,node,,memorial,Dijon,,,,47.3236947,4.7938351
+2092587092,node,,memorial,Dijon,,,,47.3292353,4.82634
+2092664766,node,,memorial,Dijon,,,,47.3461472,4.7988013
+2095363871,node,,memorial,Dijon,,,,47.3422873,4.8672215
 2105765793,node,Pizz'Artistes,restaurant,Dijon,,,,47.3280356,5.0534268
+2106837277,node,,viewpoint,Dijon,,,,47.6074632,5.1479408
+2106853997,node,,memorial,Dijon,,,,47.6234348,5.117945
+2119375160,node,,memorial,Dijon,,,,47.3108874,4.6789311
+2145473348,node,Tente,artwork,Dijon,,,,47.3126397,5.0722111
 2146284863,node,Le Noti,restaurant,Dijon,,,https://noti-dijon.fr/,47.3281961,5.0493107
+2148171573,node,,memorial,Dijon,,,,47.1550737,5.1604269
+2148187591,node,Notre-Dame de Lée,memorial,Dijon,,,,47.1452798,5.1551048
 2163325429,node,L'Bout d'la Rue,restaurant,Dijon,,,https://restaurant-lboutdlarue.com/,47.3240783,5.044031
+2163335003,node,,artwork,Dijon,,,,47.324281,5.0452327
 2163346974,node,Cafétéria Droit-Lettre,restaurant,Dijon,,,https://www.crous-bfc.fr/restaurant/cafet-droit-lettres/,47.3140916,5.0646816
 2164614904,node,Flunch,restaurant,Dijon,,,,47.3117632,5.1033827
 2164615348,node,Royal Quétigny,restaurant,Dijon,,,,47.3116806,5.1026736
+2164615831,node,Hommage à Jacques Monod,artwork,Dijon,,,,47.3146519,5.0660744
 2185115119,node,Restaurant Le Bourguignon,restaurant,Dijon,,,https://www.le-bourguignon.com/,47.4661095,5.2702052
+2185115154,node,Source de la Bèze,viewpoint,Dijon,,,,47.4707583,5.2706475
+2185150498,node,Four Banal,attraction,Dijon,"Rue Dom Clément, 21310, Bèze",21310,,47.4675645,5.2695331
+2185150499,node,Lavoir des Sœurs,attraction,Dijon,"21310, Bèze",21310,,47.4674778,5.2722785
+2185150500,node,Maison Dom Clément,attraction,Dijon,"Rue Dom Clément, 21310, Bèze",21310,,47.4677297,5.2693765
 2185150519,node,Le Renard'eau,restaurant,Dijon,,,https://www.auberge-renardeau-21.fr/restaurant,47.4681677,5.2703703
+2185150539,node,École Monastique,attraction,Dijon,"Rue des Ponts, 21310, Bèze",21310,,47.466926,5.2698052
+2210348069,node,Tour Philippe Le Bon,viewpoint,Dijon,,,,47.3219441,5.0416159
 2210348070,node,Hôtel Victor Hugo,hotel,Dijon,23 Rue des Fleurs,,http://hotelvictorhugo-dijon.com/,47.3264795,5.0337117
+2260914911,node,,artwork,Dijon,,,,47.3144344,5.0349879
 2295254785,node,Chez Léon,restaurant,Dijon,,,https://www.restochezleon.fr/,47.32471,5.0388085
 2342144086,node,,restaurant,Dijon,,,,47.1933873,5.3870314
 2342144101,node,Des Marronniers,restaurant,Dijon,,,,47.3043871,5.4175132
 2342144103,node,La Taverne,restaurant,Dijon,,,,47.3044841,5.4169343
 2342144114,node,,restaurant,Dijon,,,,47.3049528,5.4114781
+2412100738,node,Départ du Vélorail de la Vingeanne,attraction,Dijon,,,,47.4467439,5.3998309
 2424051715,node,La Musarde,hotel,Dijon,,,,47.3643006,4.992892
+2450934214,node,,memorial,Dijon,,,,47.313905,4.8594362
 2471248904,node,Salsapelpa,restaurant,Dijon,"1 Rue Marceau, 21000, Dijon",21000,,47.3275519,5.0447265
 2482018429,node,Wok 30,restaurant,Dijon,,,,47.3214973,5.0541864
+2482864557,node,Musée Rude,museum,Dijon,,,https://musees.dijon.fr/,47.321005,5.0442148
 2504497269,node,Caffé Cosi,restaurant,Dijon,,,,47.3242312,5.0402675
+2506663494,node,Improvisations Tellem,artwork,Dijon,,,,47.3137934,5.0656384
+2524738671,node,,memorial,Dijon,,,,47.3342306,5.0038883
 2539265191,node,La Jeanne Brasserie,restaurant,Dijon,,,https://www.lajeanne-brasserie.fr,47.3259673,5.0451191
+2539265620,node,Anti-Robot,artwork,Dijon,,,,47.3156806,5.066863
 2563070125,node,Sushi Feist,restaurant,Dijon,,,,47.3237606,5.0312207
 2568987296,node,L'Arôme,restaurant,Dijon,,,https://www.restaurant-aromedijon.com/,47.3258256,5.0452384
 2568987318,node,Le Palazzio,restaurant,Dijon,"18 Place de la République, 21000",21000,https://le-palazzio-dijon.eatbu.com/?lang=fr,47.3259061,5.045234
+2606266591,node,,memorial,Dijon,,,,47.2401715,5.1145048
+2610663658,node,,attraction,Dijon,,,,47.675919,5.0442852
+2610724477,node,Statue de l'Hercule,memorial,Dijon,,,,47.406121,5.0172537
 2617457576,node,Campanile,hotel,Dijon,,,,47.3233226,5.0296721
+2618784953,node,Monument aux Morts Indochine-Corée,memorial,Dijon,,,,47.326029,5.0655088
+2618785480,node,,memorial,Dijon,,,,47.3482902,5.0381654
+2622578806,node,Table d'orientation de Chenôve,viewpoint,Dijon,,,,47.2898963,4.9948296
+2623337683,node,Chapelle Saint-Maurice,ruins,Dijon,,,,47.2407235,4.7475911
+2632290981,node,,memorial,Dijon,,,,47.3575527,5.0466541
+2632758641,node,Mémorial Allemand,memorial,Dijon,,,,47.3428771,5.0419621
 2637616581,node,Le Patio,restaurant,Dijon,,,https://le-patio-restaurant-quetigny.metro.bar/?lang=fr#,47.3107003,5.1052619
 2639535617,node,La Flambée,hotel,Dijon,,,https://laflambee.fr/,47.2884602,5.0988673
 2639535618,node,La Flambée,restaurant,Dijon,,,https://laflambee.fr/,47.2885791,5.0987447
+2648562752,node,Castel,castle,Dijon,,,,47.3106069,5.0366305
+2648562762,node,Maison dite Le Petit Cîteaux,attraction,Dijon,,,,47.3210934,5.0340452
 2655160183,node,Bowling,restaurant,Dijon,,,,47.2785866,5.0072203
+2658177677,node,,ruins,Dijon,,,,47.1956709,5.2236785
 2670271041,node,Régal Pizza,restaurant,Dijon,,,,47.3260378,5.0288993
 2704020290,node,Le Saint-Antoine,hotel,Dijon,"32 Rue de Franche-Comté, 21760, Lamarche-sur-Saône",21760,https://www.le-saint-antoine.fr/,47.2769903,5.3843638
 2704020296,node,Restaurant Le Nymphéa,restaurant,Dijon,"21760, Lamarche-sur-Saône",21760,,47.2760045,5.3877952
@@ -120,16 +259,29 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2731950464,node,Hôtel de Paris,hotel,Dijon,,,,47.323373,5.0301872
 2731952076,node,La Scala,restaurant,Dijon,,,,47.3233608,5.0300771
 2731954494,node,Le Comptoir,restaurant,Dijon,,,,47.3233382,5.0298098
+2751550494,node,Musée Magnin,museum,Dijon,"4 Rue des Bons Enfants, 21000, Dijon",21000,https://musee-magnin.fr/,47.3209486,5.0422275
+2751550505,node,Statue de Jean-Philippe Rameau,artwork,Dijon,,,,47.3280214,5.0498912
+2761200211,node,,viewpoint,Dijon,,,,47.303711,4.900657
+2807522079,node,Ancienne villa,ruins,Dijon,,,,47.3024783,5.0550187
 2884850310,node,La Dame d'Aquitaine,restaurant,Dijon,,,https://www.ladamedaquitaine.fr/,47.3202027,5.0368261
 2891210013,node,Palais Nippon,restaurant,Dijon,"18 Avenue Garibaldi, 21000, Dijon",21000,https://www.palaisnippon.com/,47.3281271,5.0442922
-2918974905,node,Restaurant Hôtel du Corbeau,hotel,Dijon,"1 Rue de Berbis, 21130, Auxonne",21130,https://www.lecorbeau-auxonne.com,47.1942971,5.3879551
+2918974905,node,Restaurant Hôtel le Corbeau,hotel,Dijon,"1 Rue de Berbis, 21130, Auxonne",21130,https://hotel-auxonne.com/restaurant/,47.1942925,5.3879599
 2921555828,node,Kyriad,hotel,Dijon,"7-9 Rue Docteur Albert Rémy, 21000",21000,https://www.kyriaddijon.com,47.3228642,5.0298303
 2921600704,node,Caveau de Saulx,restaurant,Dijon,13,,https://www.lecaveaudesaulx.fr/,47.3251914,5.0457332
 2921600782,node,Hôtel le Chambellan,hotel,Dijon,92,,https://www.hotel-chambellan.com/,47.3217325,5.0451601
 2923414657,node,Les Bistrottines,restaurant,Dijon,"170 Avenue Victor Hugo, 21000, Dijon",21000,,47.3345555,5.0152462
+2961918695,node,,memorial,Dijon,,,,47.1357741,5.3386827
+3010198835,node,,viewpoint,Dijon,,,,47.3261751,4.9862865
 3012240657,node,Thai & Dijon,restaurant,Dijon,,,,47.3250885,5.0451574
+3022388643,node,Vue sur Dijon,viewpoint,Dijon,,,,47.3722737,4.9876079
 3024706472,node,L'autrement,restaurant,Dijon,,,,47.3342836,5.077603
+3048244346,node,Éperon barré du châtelet d'Etaules,ruins,Dijon,,,,47.4081828,4.9121526
+3094854712,node,,viewpoint,Dijon,,,,47.3920481,4.874221
+3128502570,node,,castle,Dijon,,,,47.4090795,5.3969073
 3172251461,node,Ristorante Del Arte,restaurant,Dijon,"1 Allée Olivier de la Marche, 21160, Marsannay-la-Côte",21160,https://www.delarte.fr/restaurant-italien-pizzeria-dijon-marsannay-la-cote.html,47.28035,5.0190599
+3188833483,node,,viewpoint,Dijon,,,,47.2839837,4.8432782
+3190582288,node,Balcon de Jauget,viewpoint,Dijon,,,,47.2490123,4.7248813
+3411435329,node,,memorial,Dijon,,,,47.1967412,5.1514721
 3413218326,node,Le Shamrat,restaurant,Dijon,"9 Rue Marceau, 21000, Dijon",21000,,47.3279603,5.0451585
 3413220017,node,Le Bora,restaurant,Dijon,"8 Petite Rue de Pouilly, 21000, Dijon",21000,,47.327961,5.0446128
 3423517057,node,La Grasihade,restaurant,Dijon,"43 Allée de la Cude, 21370, Velars-sur-Ouche",21370,,47.3180455,4.9174795
@@ -148,18 +300,43 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3453754220,node,L‘AbenFant,restaurant,Dijon,,,https://restaurantlabenfant.fr/,47.3199803,5.0397934
 3453754221,node,Monique boire et manger,restaurant,Dijon,,,https://www.moniqueboireetmanger.fr/,47.319907,5.0398175
 3481141393,node,B&B Hôtel,hotel,Dijon,,,https://www.hotel-bb.com/fr/-/hotelByName.htm?id=4706,47.3228478,5.0368823
+3501750138,node,Le tire-barbe,viewpoint,Dijon,,,,47.4198577,4.9651392
+3501750157,node,Le balcon Suzon,viewpoint,Dijon,,,,47.4161239,4.974024
+3524351661,node,Monument aux Morts,memorial,Dijon,,,,47.2988799,5.1353568
 3541476986,node,Kyriad Prestige,hotel,Dijon,,,,47.3235873,5.0296779
+3597236464,node,Monument pour la paix,memorial,Dijon,,,,47.3848971,5.0454932
+3599418095,node,,memorial,Dijon,,,,47.2880746,5.493723
 3606611561,node,Le Petit Roi de la Lune,restaurant,Dijon,,,https://www.lepetitroidelalune.fr/,47.3199683,5.0399997
 3662761465,node,Pizza Dell'Is,restaurant,Dijon,"7 Place de la République, 21120, Is-sur-Tille",21120,,47.5237466,5.1126334
+3662900138,node,Monument du Général Giraud,memorial,Dijon,,,,47.3363225,5.0522101
+3662925856,node,Le Champ du feu,artwork,Dijon,,,,47.3277261,5.0479682
+3667180778,node,,memorial,Dijon,,,,47.1794256,5.3516772
 3681022145,node,La Brasserie,restaurant,Dijon,,,,47.3326977,5.0688474
 3683996790,node,La Fontaine du Bonheur,restaurant,Dijon,,,,47.2782605,5.0167125
+3692234500,node,Table d'orientation nord,viewpoint,Dijon,,,,47.32564,5.0876416
+3692234501,node,Table d'orientation sud,viewpoint,Dijon,,,,47.3254519,5.0875169
+3700211200,node,,memorial,Dijon,,,,47.4682763,5.2699765
 3719738500,node,L'Auberge du Moulin Thibel,restaurant,Dijon,21410,21410,,47.2639239,4.7686529
 3719774826,node,Le FAim Bien,restaurant,Dijon,"1 Place de la Mairie, 21410, Barbirey-sur-Ouche",21410,https://lefaimbien.eatbu.com,47.2530531,4.755626
+3730665029,node,,viewpoint,Dijon,,,,47.3269391,4.7884033
 3742930727,node,Ristorante Del Arte,restaurant,Dijon,"1B Rue du Cap Vert, 21800, Quetigny",21800,https://www.delarte.fr/restaurant-italien-pizzeria-dijon-quetigny.html,47.3124101,5.0909556
+3749955433,node,,memorial,Dijon,,,,47.2049897,5.2241316
+3749955817,node,,castle,Dijon,,,,47.2105375,5.2191111
+3757156593,node,Statue de Saint-Simeon,memorial,Dijon,,,,47.5384459,5.0160616
+3757160262,node,,memorial,Dijon,,,,47.4777329,5.0697828
 3774040915,node,Le Cheval Blanc,restaurant,Dijon,,,,47.52412,5.110969
 3774083584,node,Ô Dix d'Is,restaurant,Dijon,"10 Rue Dominique Ancemot, 21120, Is-sur-Tille",21120,https://restaurant-odixdis.fr/,47.5229828,5.1129152
+3786588778,node,Domaine du Château,castle,Dijon,,,,47.2524701,4.7543826
+3811682834,node,L'Envol,artwork,Dijon,,,https://patrimoine.bourgognefranchecomte.fr/connaitre-le-patrimoine/les-ressources-documentaires/acces-aux-dossiers-dinventaire/etude/9b5d6816-dd4c-431c-9054-589d1ce78055.html,47.334554,5.0175032
+3812355988,node,Néosys Paintball,theme_park,Dijon,,,,47.3438375,4.9963677
 3818623782,node,Campanile,hotel,Dijon,,,https://dijon-congres-clemenceau.campanile.com/fr-fr/,47.3286624,5.0593041
 3841495918,node,Le Central (Ibis Styles),hotel,Dijon,"3 Place Grangier, 21000, Dijon",21000,https://www.hotel-ibiscentral-dijon.fr/,47.3230963,5.037305
+3877090366,node,Viaduc de Fin,attraction,Dijon,,,,47.3212612,4.8914131
+3880577629,node,Viaduc de Fin,attraction,Dijon,,,,47.321277,4.8915041
+3880635413,node,Memorial des Aviateurs,memorial,Dijon,,,,47.3031828,4.9511077
+4011901299,node,,viewpoint,Dijon,,,,47.2788403,4.9284015
+4027627050,node,,memorial,Dijon,,,,47.3529234,4.9986317
+4028880131,node,Cadole,attraction,Dijon,,,,47.3610855,5.0053104
 4047457830,node,Cafeteria Gabriel,restaurant,Dijon,Esplanade Erasme,,,47.3161926,5.0657349
 4079717534,node,L'Évidence,restaurant,Dijon,,,https://restaurant-levidence-dijon.com/,47.3218065,5.0467479
 4079717535,node,Akdeniz,restaurant,Dijon,,,,47.3218395,5.0465801
@@ -167,6 +344,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4097537975,node,Le café du pont,restaurant,Dijon,,,,47.3191268,5.0221621
 4102090579,node,Les Garçons,restaurant,Dijon,,,https://chezpierreetjules.eatbu.com/,47.3188104,5.0343983
 4110220363,node,Le Puits XV,restaurant,Dijon,,,http://www.lepuitsxv.com,47.3488187,4.7725807
+4112082331,node,Panorama des Roches de Baulme la Roche,viewpoint,Dijon,,,,47.3501958,4.800019
 4113584690,node,Le Patara,restaurant,Dijon,"69 Rue de Mazy, 21160, Marsannay-la-Côte",21160,https://www.facebook.com/people/Restaurant-Le-Patara/61572493381893/,47.2708992,4.9885297
 4119503374,node,My Wok,restaurant,Dijon,,,,47.3267179,5.0464831
 4119503378,node,Le Rameau,restaurant,Dijon,,,https://brasserie-lerameau.fr,47.3276409,5.0489276
@@ -176,6 +354,14 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4126782262,node,Brasserie de l'Hôtel de Ville,restaurant,Dijon,,,,47.3209529,5.0411897
 4126782271,node,Le Pré aux Clercs,restaurant,Dijon,,,https://www.lepreauxclercs.fr/,47.3209167,5.0415421
 4133802326,node,Le Potimarron,restaurant,Dijon,,,,47.3180885,5.0270771
+4144302273,node,Mémorial Départemental A.F.N,memorial,Dijon,,,,47.3248255,5.0647702
+4145241488,node,,ruins,Dijon,,,,47.3480635,4.8690699
+4153807511,node,,viewpoint,Dijon,,,,47.2760618,4.952653
+4153978766,node,,memorial,Dijon,,,,47.1730216,5.1620135
+4165359592,node,Pont à Trois Niveaux,attraction,Dijon,,,,47.264797,4.6487888
+4178906592,node,,memorial,Dijon,,,,47.3049239,5.4157531
+4195508096,node,,memorial,Dijon,,,,47.4953078,4.760885
+4224372662,node,,memorial,Dijon,,,,47.2702859,4.9884885
 4240788347,node,Appart'hôtel Odalys Les Cordeliers,hotel,Dijon,"3-5 Rue Turgot, 21000, Dijon",21000,https://www.odalys-vacances.com/location-campagne/bourgogne-et-ain/dijon/les-cordeliers.html,47.3182618,5.0403622
 4240930934,node,Le Bouchon du Palais,restaurant,Dijon,,,https://www.bouchondupalais.fr/,47.3205545,5.0415561
 4240930935,node,Le Carpe Diem,restaurant,Dijon,,,,47.3205192,5.0415125
@@ -189,27 +375,51 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4245757490,node,Villa Vauban,restaurant,Dijon,,,,47.3205481,5.0409788
 4245763391,node,Restaurant Bistronomique,restaurant,Dijon,,,,47.3209014,5.0411433
 4247467289,node,Hôtel des Ducs,hotel,Dijon,,,,47.3218086,5.0437173
+4274227893,node,,viewpoint,Dijon,,,,47.304672,4.9869361
 4314647469,node,Aparthotel Adagio Access,hotel,Dijon,"33 Rue de Mulhouse, 21000, Dijon",21000,,47.3257335,5.0492284
 4314647471,node,Fado à Mesa,restaurant,Dijon,,,https://www.facebook.com/FadoAMesa,47.3237299,5.0446847
 4314658544,node,Le Marrakech,restaurant,Dijon,,,,47.3196401,5.0355259
+4333709478,node,Jardin de Roches,attraction,Dijon,,,,47.3214415,5.0293766
+4340320011,node,Monument aux Morts,memorial,Dijon,,,,47.2391416,5.1417346
+4345822696,node,Le Lion de Némée,artwork,Dijon,,,,47.3218159,5.0267524
+4346141588,node,Benigne Legouz de Gerland,artwork,Dijon,,,,47.3206925,5.0277131
+4347251927,node,Aloysius Bertrand,artwork,Dijon,,,,47.3214451,5.0285107
+4352536567,node,Faunesse aux pipeaux,artwork,Dijon,,,,47.3221832,5.0272169
+4352546783,node,Alexis Piron,artwork,Dijon,,,,47.3203554,5.0281239
+4365160630,node,,artwork,Dijon,,,,47.3209181,5.0271468
+4373358545,node,,memorial,Dijon,,,,47.3153587,5.0293002
 4396697736,node,Anshu,restaurant,Dijon,,,,47.3243727,5.0294897
 4396697739,node,New Delhices,restaurant,Dijon,,,,47.3243206,5.0302491
 4396697741,node,Sushi Park,restaurant,Dijon,,,,47.3243945,5.0289432
 4396697744,node,Phö Dijon,restaurant,Dijon,,,,47.3243161,5.0303779
+4405346052,node,,artwork,Dijon,,,,47.3092734,5.0164873
+4447928743,node,Monument aux morts 14-18,memorial,Dijon,,,,47.3293494,5.2676935
 4460234338,node,Koki,restaurant,Dijon,,,https://kokidijon.fr,47.344707,5.0454698
 4469021135,node,Memphis,restaurant,Dijon,,,,47.2859871,5.019832
 4475976473,node,The Little Italy,restaurant,Dijon,,,https://www.thelittleitaly-shop.com/#dijon,47.32311,5.042976
+4491065726,node,Maquis Lucius,memorial,Dijon,,,,47.6147371,4.9794766
+4493885829,node,,viewpoint,Dijon,,,,47.6169091,4.9806782
+4510857246,node,,memorial,Dijon,,,,47.3235624,5.0441408
 4510857247,node,L'Auguste,restaurant,Dijon,"6 Rue Auguste Comte, 21000, Dijon",21000,,47.3236087,5.0441858
 4519548205,node,Hôtel Chateaubriand,hotel,Dijon,,,,47.3233828,5.0306726
 4562727394,node,Ibis Budget Dijon Centre Clemenceau,hotel,Dijon,,,https://all.accor.com/hotel/B1R3/index.fr.shtml,47.3295089,5.0518391
 4565189708,node,Le Bistingo,restaurant,Dijon,,,,47.3239185,5.0357119
 4571085800,node,L'instant,restaurant,Dijon,,,,47.3409397,5.0674148
+4580007353,node,Fort d'Asnières (ou Fort Brûlé),attraction,Dijon,,,,47.3948975,5.0513928
+4591263762,node,Château et sa chapelle,castle,Dijon,,,,47.4919872,5.2118116
+4618260677,node,Château de Jancigny,castle,Dijon,,,,47.3832524,5.4063061
 4690682413,node,3 Brasseurs,restaurant,Dijon,,,,47.3126659,5.0902355
 4690682414,node,La Boucherie,restaurant,Dijon,,,,47.3124176,5.090421
+4696515678,node,,memorial,Dijon,,,,47.3482534,5.0487226
+4696515679,node,,memorial,Dijon,,,,47.3483244,5.0487891
 4700127470,node,Piccolina,restaurant,Dijon,,,,47.3389811,5.0384279
 4719165668,node,Le Phénicien,restaurant,Dijon,,,https://www.restaurant-lephenicien.fr/,47.3218265,5.0466435
 4720404009,node,O'summum,restaurant,Dijon,,,,47.3215967,5.0475897
+4726922526,node,,artwork,Dijon,,,,47.3393805,4.9967193
 4728550685,node,La botte,restaurant,Dijon,,,,47.3106456,5.2789012
+4729261166,node,,memorial,Dijon,,,,47.3235449,5.0273525
+4729261167,node,,memorial,Dijon,,,,47.3235379,5.0273331
+4729261168,node,Stèle de l'appel du 18 Juin 1940,memorial,Dijon,,,,47.3251052,5.0641676
 4734602303,node,Le Petit Vatel,restaurant,Dijon,,,,47.3145276,5.047776
 4734602308,node,Émile,restaurant,Dijon,,,,47.3153076,5.0457359
 4734602311,node,Akatsuki,restaurant,Dijon,,,https://restaurant-akatsuki.fr/,47.315377,5.0450898
@@ -229,12 +439,27 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4738384761,node,Le Relais d'Arc,restaurant,Dijon,,,,47.3468034,5.191917
 4738384763,node,Le Grill,restaurant,Dijon,,,,47.3447173,5.1902585
 4738384764,node,Pizz'Arc,restaurant,Dijon,,,,47.3445244,5.1914694
+4751592471,node,,viewpoint,Dijon,,,,47.2961168,4.9254718
+4751592472,node,,viewpoint,Dijon,,,,47.2871733,4.9211964
+4751592473,node,,viewpoint,Dijon,,,,47.2860708,4.9210086
+4755009134,node,Paix,memorial,Dijon,,,,47.3539277,5.0465812
+4756008446,node,Brise Cuisses,viewpoint,Dijon,,,,47.2954226,4.8447895
+4760813412,node,Porte du diable,ruins,Dijon,,,,47.3570004,4.9648864
 4775400399,node,Le relais des fac,restaurant,Dijon,,,,47.3139382,5.0622994
 4779191024,node,Chez Fleurot,hotel,Dijon,,,,47.2621074,5.0758801
+4803568225,node,Airland-amusements,theme_park,Dijon,,,,47.3486852,5.1689343
 4809745036,node,Relais de la Sans Fond,hotel,Dijon,,,,47.2434778,5.0563989
+4811678800,node,,viewpoint,Dijon,,,,47.4356932,4.9605817
+4811680129,node,stèle du lieutenant Sambain,memorial,Dijon,,,,47.4192699,4.9771699
+4846470599,node,Bordes,ruins,Dijon,,,,47.4145308,4.8415884
+4853741045,node,,viewpoint,Dijon,,,,47.415323,4.9223068
+4853741064,node,,viewpoint,Dijon,,,,47.4215726,4.9163899
 4880784866,node,Greet,restaurant,Dijon,,,,47.2717242,5.0441013
+4883179843,node,,memorial,Dijon,,,,47.318559,4.9074648
+4958092744,node,L'ouvrage du vent,artwork,Dijon,,,,47.3268273,5.0497607
 4964612943,node,My spicy snack,restaurant,Dijon,,,,47.3301529,5.0447286
 4990041561,node,Les Molidors,restaurant,Dijon,"24 Rue Constant Pierrot, 21000, Dijon",21000,,47.3153923,5.0615658
+4990403324,node,Construction spatiale N°101,artwork,Dijon,,,,47.3146663,5.0683531
 5042905930,node,L'Atelier,restaurant,Dijon,,,,47.3558303,5.0369637
 5042910191,node,Appart'city,hotel,Dijon,,,,47.3547401,5.0376913
 5042953829,node,Campanile,hotel,Dijon,,,,47.3561266,5.0452655
@@ -251,22 +476,43 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5107747687,node,Buffet d'Asie,restaurant,Dijon,,,,47.2840335,5.0190844
 5107747693,node,LA CICCIOLINA,restaurant,Dijon,,,https://la-cicciolina-restaurant.eatbu.com/?lang=fr,47.2956463,5.0181851
 5107747694,node,Le Boucanier,restaurant,Dijon,,,,47.2958839,5.0182309
+5139039375,node,Grenadier,artwork,Dijon,,,,47.3260523,5.0074857
 5139462563,node,La P'tite Fringale,restaurant,Dijon,,,,47.578563,5.3976032
 5141805483,node,Hôtel Vertigo,hotel,Dijon,3 Rue Devosge,,https://www.vertigohoteldijon.com/fr/,47.3244015,5.0343132
+5141876795,node,Musée d'art sacré,museum,Dijon,"15 Rue Sainte-Anne, 21000, Dijon",21000,https://art-sacre.dijon.fr/,47.3177794,5.0379087
 5150710994,node,Alfred Burgers & Vins,restaurant,Dijon,,,https://www.alfredburgers.fr/,47.3193415,5.0350457
 5164625403,node,Le Palmier,restaurant,Dijon,,,,47.3352682,5.044523
 5164625410,node,La Petite Istanbul,restaurant,Dijon,,,,47.3338249,5.0438445
 5164625419,node,Le Concept,restaurant,Dijon,,,,47.3349337,5.0419535
+5216141740,node,Cabiote Maurice,attraction,Dijon,,,,47.3711232,4.9967826
 5227082727,node,American way,restaurant,Dijon,,,,47.3650598,5.0498311
 5227082729,node,Le Cordina by Tom,restaurant,Dijon,,,,47.366007,5.0503508
 5227082730,node,Le Parc,restaurant,Dijon,,,,47.3658425,5.0502705
+5257337691,node,La Chouette,artwork,Dijon,,,,47.3227928,5.0415518
+5257337694,node,Le Jacquemart,attraction,Dijon,,,,47.3226719,5.0412127
 5264685414,node,L'Hémicycle,restaurant,Dijon,,,https://restaurant-hemicycle.fr/,47.3211861,5.040826
 5287754854,node,Le National,restaurant,Dijon,,,,47.3173089,5.0430817
+5303047433,node,Napoléon Bonaparte,memorial,Dijon,,,,47.1935994,5.3884815
+5313676821,node,Christ aux liens,memorial,Dijon,,,,47.4040153,5.0186078
+5341606563,node,Vierge de Vaux-Saules,memorial,Dijon,,,,47.4664778,4.810572
 5366076236,node,Auberge des Tilleuls,restaurant,Dijon,,,,47.4065445,5.0172899
 5459449699,node,Bar Brasserie De La Tille,restaurant,Dijon,,,,47.1368679,5.3414458
 5533132230,node,La Papaye Verte,restaurant,Dijon,"4 Rue Marceau, 21000, Dijon",21000,http://www.la-papaye-verte.fr,47.3274121,5.0449013
+5536426871,node,Château de Blagny-sur-Vingeanne,castle,Dijon,,,,47.4371228,5.3696337
+5536427373,node,Château (ruines),ruins,Dijon,,,,47.5599985,5.2693337
+5536427632,node,Château de Beaumont-sur-Vingeanne,castle,Dijon,,,,47.4610828,5.3652277
 5538423011,node,Sushi-King,restaurant,Dijon,,,,47.3189741,5.0346398
+5538572680,node,,castle,Dijon,,,,47.4780255,5.1419986
+5538572686,node,Château de Montmusard,castle,Dijon,,,,47.324796,5.0593194
+5538572688,node,,castle,Dijon,,,,47.5398303,4.9683362
+5539657604,node,Château de Tanyot,castle,Dijon,,,,47.4026634,5.2706024
+5539657609,node,,castle,Dijon,,,,47.4112346,4.7120297
+5539658546,node,,castle,Dijon,,,,47.4308762,4.7041494
+5548493173,node,Palais abbatial,castle,Dijon,,,,47.4395128,4.7894906
+5559137572,node,Porte Saint-Pierre,ruins,Dijon,,,,47.3172266,5.0432539
+5570904537,node,Portail compagnonnique,attraction,Dijon,,,,47.6001769,5.0821537
 5591153355,node,Acqua e Farina,restaurant,Dijon,,,https://pizzeria-acquaefarina.fr/,47.322831,5.0398643
+5630464581,node,,memorial,Dijon,,,,47.3716135,4.7990017
 5637296217,node,Le Savignien,restaurant,Dijon,,,,47.4296804,5.0517026
 5644375732,node,Le Pinocchio,restaurant,Dijon,"Route d'Athée, 21130, Auxonne",21130,,47.1988218,5.3822869
 5647101971,node,Popotes,restaurant,Dijon,,,https://popotes.fr/popotes-cantine-respectueuse-ouvre-bientot-ses-portes-a-dijon/,47.3284039,5.0498445
@@ -278,59 +524,142 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5797929653,node,Le Bellevue,restaurant,Dijon,"30 Rue de la Libération, 21540, Sombernon",21540,,47.3050768,4.7014357
 5802994433,node,Hôtel de l'Orée des Charmes,hotel,Dijon,"56 Rue d'Avau, 21540, Blaisy-Bas",21540,,47.3733906,4.740574
 5803933353,node,Osaka,restaurant,Dijon,,,http://www.osakadijon.fr,47.3227193,5.0397951
+5811123122,node,Caroline Charbonnel,memorial,Dijon,,,,47.5216137,5.1130075
+5811123136,node,,memorial,Dijon,,,,47.5209846,5.1099202
 5830304043,node,Academy's Loft,hotel,Dijon,,,,47.3185295,5.0337338
 5863069669,node,Le Dauphine,restaurant,Dijon,,,,47.3213128,5.0390004
 5863293259,node,Azerole,restaurant,Dijon,,,https://azerole-dijon.fr/,47.3181936,5.0356664
+5864538357,node,,memorial,Dijon,,,,47.3123865,5.0089711
 5884600435,node,l'Imprévu,restaurant,Dijon,,,,47.3924283,5.3089955
+5901736151,node,,memorial,Dijon,,,,47.4465764,5.1896879
+5908066371,node,Le M.U.R. Dijon,artwork,Dijon,,,https://lemurdijon.com/,47.3240419,5.0447329
+5908066375,node,,artwork,Dijon,,,,47.3230596,5.0394175
 5915894590,node,Abyssinia,restaurant,Dijon,,,https://www.abyssinia-ethiopia.fr,47.3272049,5.0494426
+5940912035,node,Château de Blaisy-Haut,castle,Dijon,,,,47.3636766,4.7581503
+5943872110,node,Puits XV,attraction,Dijon,,,,47.3492237,4.7731291
 5969202917,node,So,restaurant,Dijon,,,https://guide.michelin.com/fr/fr/bourgogne-franche-comte/dijon/restaurant/so,47.3196321,5.0409599
 6019936835,node,Miam Pizza Longvic,restaurant,Dijon,,,https://www.facebook.com/profile.php?id=61571250447513&mibextid=ZbWKwL,47.2860075,5.0636433
 6038823336,node,Le neuf bis,restaurant,Dijon,,,http://www.le9bis.fr/,47.3201053,5.0529149
 6043550359,node,Hotel Inn,hotel,Dijon,14 Avenue de Bourgogne,,,47.3117762,5.1052481
+6043614588,node,Jardins familiaux,garden,Dijon,,,,47.3186582,5.1223867
+6075957579,node,,artwork,Dijon,,,,47.3196796,5.0530404
 6084242123,node,ABE,restaurant,Dijon,,,,47.3101727,5.0259709
 6084242124,node,Un pied chez La Marinette,restaurant,Dijon,,,,47.3103052,5.0260166
 6096439321,node,Le Vendôme,restaurant,Dijon,,,,47.3024885,5.0221427
 6134832502,node,Saveurs de Porto,restaurant,Dijon,,,,47.3441184,5.0457085
 6153979085,node,Hôtel du Palais,hotel,Dijon,,,,47.3194716,5.042377
+6186181599,node,Monument aux Morts des 27e et 227e Régiments d'Infanterie,memorial,Dijon,,,,47.3294988,5.0449797
 6192291159,node,Samouraï sushis,restaurant,Dijon,,,,47.3229549,5.0436617
+6236212440,node,For the Girls…,artwork,Dijon,,,,47.3186042,5.0348246
+6242303466,node,,viewpoint,Dijon,,,,47.4358801,4.9480888
+6242303467,node,,viewpoint,Dijon,,,,47.4354785,4.941569
 6247093569,node,Le Tablier,restaurant,Dijon,"1 Rue du Châtel, 21110, Rouvres-en-Plaine",21110,https://le-tablier-restaurant.eatbu.com/?lang=fr,47.2376038,5.1419087
 6247532684,node,Bangkok Factory,restaurant,Dijon,,,,47.3188998,5.0357708
+6266053322,node,,artwork,Dijon,,,,47.3237252,5.0443779
+6266053323,node,,artwork,Dijon,,,,47.3237197,5.0443943
+6296072504,node,,memorial,Dijon,,,,47.3087951,5.0144067
 6296773556,node,Boui-Boui,restaurant,Dijon,"1 Rue Neuve, 21160",21160,,47.2707779,4.9890086
 6347153190,node,Kebab des facultés,restaurant,Dijon,"19 Rue Louis Boulanger, 21000, Dijon",21000,,47.3155101,5.0640917
+6349987683,node,Vue sur la plaine de Saône,viewpoint,Dijon,,,,47.2924487,4.9315424
+6502651810,node,Semper Virens,artwork,Dijon,,,,47.322009,5.0387911
 6533988749,node,Le coin caché,restaurant,Dijon,,,https://www.le-coin-cache.fr/,47.3290742,5.0388001
 6541960618,node,Restaurant 23,restaurant,Dijon,,,,47.5656672,5.4366822
 6542538490,node,La Tour,restaurant,Dijon,,,,47.5255592,5.3702097
 6542546142,node,L'Entre-Pot,restaurant,Dijon,,,,47.5278961,5.3760271
 6549212961,node,La Pinocchio,restaurant,Dijon,,,,47.1988124,5.3822662
 6557903695,node,"Hôtel Restaurant ""Castel Burgond / Les Trois Ducs""",restaurant,Dijon,,,,47.3429428,5.0011907
+6566354374,node,,memorial,Dijon,,,,47.3019196,5.0218941
+6638656461,node,Fabrique de pain d'épices Mulot et Petit Jean,museum,Dijon,"6 Boulevard de l'Ouest, 21000, Dijon",21000,https://mulotpetitjean.com/fr/,47.3240205,5.0187828
 6644328573,node,Sakura So' Ramen,restaurant,Dijon,,,,47.3230855,5.0354622
+6647984499,node,Le Héron,artwork,Dijon,,,,47.3141665,5.0243468
 6723685338,node,Le P'tit Dij,restaurant,Dijon,,,https://brasserieleptitdij.eatbu.com,47.3266891,5.0514782
+6757761701,node,,viewpoint,Dijon,,,,47.3015106,4.9003713
+6757761702,node,,viewpoint,Dijon,,,,47.3021013,4.899975
 6761273418,node,Bistrot L’Essentiel,restaurant,Dijon,"12 Rue Audra, 21000, Dijon",21000,,47.3256631,5.0343258
+6789434542,node,Liquid Knowledge,artwork,Dijon,,,,47.3126752,5.0641753
+6789449810,node,Welcome,artwork,Dijon,,,,47.3148285,5.0656173
+6789449812,node,Divionis Mechanica Fossilia Arman,artwork,Dijon,,,,47.3107841,5.069534
+6815974262,node,,artwork,Dijon,,,https://www.space-invaders.com/,47.3230472,5.038456
+6815984060,node,,artwork,Dijon,,,https://www.space-invaders.com/,47.3223985,5.0427208
+6815984061,node,,artwork,Dijon,,,https://www.space-invaders.com/,47.3237433,5.0443251
+6815984062,node,,artwork,Dijon,,,https://www.space-invaders.com/,47.3242078,5.0395279
+6816004142,node,,artwork,Dijon,,,https://www.space-invaders.com/,47.3254,5.0458191
+6816004143,node,,artwork,Dijon,,,https://www.space-invaders.com/,47.3208667,5.0433825
+6835218342,node,,viewpoint,Dijon,,,,47.3283848,5.005623
+7021602767,node,,viewpoint,Dijon,,,,47.4403471,4.7771387
+7021620198,node,,memorial,Dijon,,,,47.4890068,4.8054081
 7040780122,node,Auberge Campagnarde,hotel,Dijon,,,,47.4412826,4.7880154
 7040780123,node,Relais de la Source,hotel,Dijon,,,https://www.relaisdelasource.com/,47.440992,4.7884487
+7109234039,node,,memorial,Dijon,,,,47.669946,5.0240309
+7119747233,node,,castle,Dijon,,,,47.5586326,5.1257888
+7133667440,node,Plaque,memorial,Dijon,,,,47.5880847,5.0961606
+7193495561,node,,viewpoint,Dijon,,,,47.3423188,4.8333848
+7193495563,node,,viewpoint,Dijon,,,,47.3448309,4.8509474
+7193495564,node,,viewpoint,Dijon,,,,47.348686,4.854484
+7199618982,node,,memorial,Dijon,,,,47.6209044,5.1113349
+7207065108,node,,ruins,Dijon,,,,47.3282162,4.78725
 7216213743,node,L'Aspérule,restaurant,Dijon,,,,47.3248138,5.0450367
+7216840095,node,,castle,Dijon,,,,47.43683,5.2978116
+7218284530,node,,artwork,Dijon,,,,47.3288949,5.0387496
 7309284712,node,Kpizz,restaurant,Dijon,"9 Route de Fontaine-Française, 21490",21490,,47.3501432,5.1294165
+7393032982,node,Borne du finage,memorial,Dijon,,,,47.5241989,5.0847221
 7405134740,node,Au Bois Tordu,restaurant,Dijon,,,,47.3058638,5.0598595
 7415886417,node,In Teglia,restaurant,Dijon,"3 Rue de l'Aqueduc Darcy, 21121, Ahuy",21121,,47.3562723,5.0352891
 7462552328,node,My Wok,restaurant,Dijon,,,https://www.my-wok.com/dijon-cap-nord,47.3413667,5.062344
 7476890245,node,Les Gourmands Disent,restaurant,Dijon,"36 Rue de Fontaine-lès-Dijon, 21000, Dijon",21000,,47.3325605,5.0270507
+7650417017,node,,ruins,Dijon,,,,47.3597976,5.0078934
+7691696207,node,Compteur du temps,artwork,Dijon,,,,47.3233775,5.0367043
+7736729479,node,,memorial,Dijon,,,,47.2317367,5.3728972
+7743267267,node,La faune des gravières,artwork,Dijon,,,,47.4434369,5.1870535
+7786995276,node,Abbé Pierre,memorial,Dijon,,,,47.3321034,5.0904854
+7798175270,node,,artwork,Dijon,,,,47.4703059,5.2710704
 7798175273,node,Restaurant Le Relais,restaurant,Dijon,,,https://www.hotelrestaurantlerelaisbeze.com/,47.4669191,5.2695243
 7803271625,node,L'Escale,restaurant,Dijon,,,,47.3411647,5.0381528
+7850518699,node,,memorial,Dijon,,,,47.1851196,5.2423382
+7850585081,node,,memorial,Dijon,,,,47.1867438,5.2337535
+7902946067,node,Couvent des Minimes,ruins,Dijon,,,,47.3059825,4.9011308
+7993591415,node,Cadole,attraction,Dijon,,,,47.3473994,5.0080034
+8013274333,node,Le Vendangeur,artwork,Dijon,,,,47.3221928,5.0390002
 8015643672,node,Paulette,restaurant,Dijon,,,https://www.paulette-restaurant.com/,47.3238864,5.039393
+8077452967,node,,artwork,Dijon,,,,47.3220374,5.0419253
 8111336645,node,Viet's Corner,restaurant,Dijon,,,,47.3215092,5.0540117
+8140034940,node,,memorial,Dijon,,,,47.2720672,5.4001424
 8194478178,node,Les Mijoteuses,restaurant,Dijon,,,,47.3086284,5.0243703
 8194510697,node,La baraque,restaurant,Dijon,"29 Rue des Frères Montgolfier, 21300, Chenôve",21300,,47.2971772,5.0218357
 8219605547,node,Ittshin Izakaya,restaurant,Dijon,,,https://www.ittshinrestaurants.com,47.3268981,5.0468887
 8245230442,node,Toasty Brunch,restaurant,Dijon,,,,47.3197587,5.0396119
+8285032464,node,La fontaine aux grenouilles,artwork,Dijon,,,,47.3234277,5.0340805
+8286121092,node,Point de vue,artwork,Dijon,,,,47.3221032,5.0424552
+8286196012,node,,memorial,Dijon,,,,47.32121,5.0340374
 8293660020,node,Les Petits Oignons,restaurant,Dijon,,,,47.3216628,5.0473474
+8396481523,node,,artwork,Dijon,,,,47.5247299,5.367927
 8410857837,node,Gallery 412,restaurant,Dijon,,,,47.3552908,5.0508364
+8467402593,node,Buste d'Henry Darcy,artwork,Dijon,,,,47.3244741,5.0316615
+8478736262,node,,memorial,Dijon,,,,47.4061229,5.0165629
+8478736263,node,,memorial,Dijon,,,,47.4061273,5.0169094
+8482008769,node,Le Mirabellum,museum,Dijon,,,,47.3978716,5.3141729
+8482008770,node,Mirabellum,museum,Dijon,,,https://www.mirabellum.fr/,47.3979758,5.3141883
+8482008771,node,Le Paon,artwork,Dijon,,,,47.3980551,5.3169328
+8498105530,node,Dassault Super Mystère B2,attraction,Dijon,,,,47.2736248,5.0756308
+8498109900,node,Dassault Mirage III,memorial,Dijon,,,,47.2706535,5.0784851
+8500945691,node,Stele de commémoration,memorial,Dijon,,,,47.6254599,5.1167631
+8501377120,node,Joël Chambault,memorial,Dijon,,,,47.3220724,5.0408693
+8501500534,node,,memorial,Dijon,,,,47.2640361,4.7696516
 8509617478,node,Ittshin Ramen - République,restaurant,Dijon,2 Boulevard Georges Clemenceau,,,47.3267991,5.0465713
+8558096750,node,,memorial,Dijon,,,,47.3502498,4.905311
+8578616837,node,,memorial,Dijon,,,,47.3672499,4.8644319
+8578616838,node,,memorial,Dijon,,,,47.3638603,4.8570714
 8580690133,node,Hôtel des Halles,hotel,Dijon,,,https://www.hoteldeshalles-dijon.com/,47.3255595,5.0367851
 8587075800,node,Bobun Monge,restaurant,Dijon,,,,47.3184103,5.032953
+8598838001,node,Jacques-Bénigne Bossuet,artwork,Dijon,,,,47.320258,5.0364938
 8599546944,node,Central Sushi,restaurant,Dijon,,,,47.3234853,5.0314896
+8623226924,node,,memorial,Dijon,,,,47.3450055,5.017013
+8623226925,node,,memorial,Dijon,,,,47.3449896,5.0172906
 8696911409,node,Torikara san,restaurant,Dijon,,,,47.324738,5.0450049
 8712791741,node,La table d'Arc,restaurant,Dijon,,,,47.3473986,5.1814626
+8715465456,node,,viewpoint,Dijon,,,,47.4778152,4.9781316
 8718597026,node,Le comptoir gourmand,restaurant,Dijon,,,,47.6166146,4.916984
+8718597055,node,,memorial,Dijon,,,,47.61694,4.9174212
 8721051447,node,L'atelier de Sophie,restaurant,Dijon,,,,47.3994419,5.3166351
 8721051448,node,Le Café de la place,restaurant,Dijon,,,,47.3991587,5.317142
 8728126953,node,Hôtel République,hotel,Dijon,,,,47.3256862,5.0447244
@@ -339,41 +668,101 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 8731635992,node,My Roll's Chez Rosie,restaurant,Dijon,,,https://www.myrollsdijon.com,47.3276069,5.0491098
 8735825321,node,Le Jacquemart,hotel,Dijon,,,,47.3235554,5.0435638
 8735825333,node,La Maison des Cariatides,restaurant,Dijon,"28 Rue Chaudronnerie, 21000, Dijon",21000,https://www.maisondescariatides.com/,47.3228898,5.0440946
+8738723479,node,,memorial,Dijon,,,,47.2129484,5.253109
+8811771522,node,Le Rêve ailé,artwork,Dijon,,,,47.3155531,5.0267287
+8818218603,node,Plaque Henri Barabant,memorial,Dijon,,,,47.3291754,5.0345145
+8818268245,node,Plaque Roger Cuvillier et le Pan Cinor,memorial,Dijon,,,,47.3273982,5.0330539
 8818281382,node,Le Montchapet,hotel,Dijon,,,,47.3273197,5.0333565
+8826181262,node,,memorial,Dijon,,,,47.3795357,5.0703152
+8826187321,node,,memorial,Dijon,,,,47.3674548,5.0821167
 8848963625,node,Le 75,restaurant,Dijon,,,,47.3393522,5.0464427
+8875435276,node,,artwork,Dijon,,,,47.3236451,5.0331559
+8875469617,node,Maison du général Henri Giraud,memorial,Dijon,,,,47.3267133,5.029032
+8875501621,node,,artwork,Dijon,,,,47.3334816,5.0365718
+8901903060,node,,artwork,Dijon,,,,47.3211178,5.0393653
+8904770558,node,,artwork,Dijon,,,,47.3212012,5.0394099
+8904792991,node,,artwork,Dijon,,,,47.3215627,5.0389027
+8910041620,node,Vierge,artwork,Dijon,,,,47.282755,4.7790266
+8914025951,node,Claus Sluter,artwork,Dijon,,,,47.321672,5.042475
 8923062741,node,Jiu,restaurant,Dijon,,,https://app.aji-code.com/place/252178,47.3187321,5.0352882
 8932724760,node,Burger restaurant,restaurant,Dijon,,,,47.3266181,5.0401177
+8948470694,node,,artwork,Dijon,,,,47.3259032,5.036342
+8948470695,node,,artwork,Dijon,,,,47.3257265,5.0356371
+8948528312,node,Statue de Saint-Éloi,artwork,Dijon,,,,47.3220749,5.0426186
+8948559500,node,,artwork,Dijon,,,,47.3253858,5.043018
+8951518439,node,Commémoration Marcelle Parde,memorial,Dijon,,,,47.3273317,5.0471917
 8951584670,node,Hôtel du Stade,hotel,Dijon,,,,47.3217486,5.0532288
 8985946017,node,Le Nid,restaurant,Dijon,61 Rue des Godrans,,,47.3224783,5.0384475
+8989440173,node,,viewpoint,Dijon,,,,47.259505,4.7288384
+8992661495,node,Stèle Jean-Claude Rude,memorial,Dijon,,,,47.3220595,4.8982942
 8993709865,node,Holly's Diner,restaurant,Dijon,,,,47.3128732,5.0902639
+9026548990,node,,memorial,Dijon,,,,47.1931765,5.390241
+9026549000,node,,artwork,Dijon,,,,47.19671,5.3907157
 9041217541,node,Malo,restaurant,Dijon,,,,47.3233862,5.0355917
 9043603375,node,Les Docks de Bourgogne,restaurant,Dijon,"7 Avenue Albert 1er, 21000, Dijon",21000,https://www.lesdocksdebourgogne.fr,47.3224172,5.0253954
 9043630597,node,Le Chamois,restaurant,Dijon,"16 Avenue Garibaldi, 21000, Dijon",21000,https://www.restaurantlechamoisdijon.fr/,47.3279419,5.0443032
 9053363798,node,Kisoro,restaurant,Dijon,,,,47.3243855,5.0293918
+9113176162,node,Cadole,attraction,Dijon,,,,47.3102148,4.9431289
+9113176163,node,Cadole,attraction,Dijon,,,,47.3095697,4.9477179
+9113176164,node,Cadole,attraction,Dijon,,,,47.3037363,4.9508684
+9134622272,node,Dialogue Intime,artwork,Dijon,,,,47.3276898,5.0777684
+9146331719,node,,memorial,Dijon,,,,47.3054317,5.0494018
 9151990243,node,Les Cornichons,restaurant,Dijon,"42 Avenue de Stalingrad, 21000, Dijon",21000,http://www.lavapeur.com/brasserie,47.3459421,5.0597678
+9212108830,node,,memorial,Dijon,,,,47.2741878,5.0769814
 9282954849,node,Eat Salad,restaurant,Dijon,,,,47.3566782,5.0392595
 9320496279,node,Le New Colonial,restaurant,Dijon,,,,47.3290509,5.0383976
 9340586689,node,Restaurant William Frachot,restaurant,Dijon,,,https://www.chapeau-rouge.fr/fr/restaurant-gastronomique-dijon,47.3212699,5.0357882
 9376527438,node,Eat salad,restaurant,Dijon,,,,47.3229859,5.0369428
+9409590720,node,,viewpoint,Dijon,,,,47.3344518,5.0031116
+9409590726,node,,viewpoint,Dijon,,,,47.3354396,5.0017101
 9438171782,node,Le Gustave,restaurant,Dijon,,,https://lyc-lecastel-dijon.eclat-bfc.fr/la-vie-de-l-etablissement/restaurants-pedagogiques/,47.31066,5.0364722
 9442805146,node,Oh !! Casse Croute,restaurant,Dijon,,,,47.3285159,5.054391
+9495927528,node,,memorial,Dijon,,,,47.3093395,5.0014961
+9502577804,node,,memorial,Dijon,,,,47.3419752,5.0016537
+9502619137,node,,memorial,Dijon,,,,47.308159,5.0403311
 9505171432,node,My Thaï,restaurant,Dijon,,,,47.3234097,5.0306576
+9508130963,node,,artwork,Dijon,,,,47.3206277,5.0429337
+9508133478,node,,artwork,Dijon,,,,47.321749,5.0401712
+9508145489,node,,artwork,Dijon,,,,47.32429,5.0405613
+9516868252,node,,memorial,Dijon,,,,47.3435062,5.0187513
+9554267745,node,,artwork,Dijon,,,,47.3222907,5.0414477
 9562122199,node,L'alsacien Dijon,restaurant,Dijon,,,https://www.lalsacien.com/restaurant-alsacien-flammekueche-dijon/,47.3231337,5.0366033
+9632253235,node,ECO,gallery,Dijon,,,https://www.eco21260.com/,47.5902358,5.3181969
 9730420070,node,La Table des Climats,restaurant,Dijon,,,https://www.latabledesclimats.fr/,47.317084,5.0304203
 9730420073,node,Hilton,hotel,Dijon,,,,47.3165095,5.030179
 9735132127,node,Holiday Inn Express,hotel,Dijon,,,,47.326962,5.0762383
 9737359417,node,Le Brasserie Des Loges,restaurant,Dijon,,,,47.3210501,5.043004
 9769036518,node,Bouillon Notre-Dame,restaurant,Dijon,,,,47.3226737,5.04096
+9772864686,node,Le Diable et le Chat bleu,artwork,Dijon,,,,47.282154,4.9465718
 9784662486,node,Madeleine Café,restaurant,Dijon,,,https://madeleinecafe.fr/,47.3226954,5.042899
+9797155457,node,,memorial,Dijon,,,,47.2943578,5.010513
+9798322153,node,L’Espoir,artwork,Dijon,,,,47.3298449,5.0880072
+9800233173,node,Mère et l'Enfant,artwork,Dijon,,,,47.3354835,5.0784744
+9800245933,node,L'Oiseau de feu,artwork,Dijon,,,,47.3338835,5.084882
+9802349020,node,Mémorial à la mémoire des Déportés de Guerre,memorial,Dijon,,,,47.3234733,5.0488937
+9854971737,node,Rosier de l'Amitiè,memorial,Dijon,,,,47.3021687,5.1334595
+9879567026,node,Réserve écologique des Maillys,zoo,Dijon,,,,47.1591721,5.3495542
 9883059623,node,Le Trappeur,restaurant,Dijon,,,https://letrappeur-dijon.net,47.3180942,5.0415178
 9885509252,node,Sushi d'or,restaurant,Dijon,,,https://www.sushidordijon.com/,47.3209854,5.0398547
 9908227734,node,Sartaj,restaurant,Dijon,,,,47.3189356,5.0371857
 9908227736,node,Al Tarboush,restaurant,Dijon,68 Rue Berbisey,,,47.3184538,5.0364447
 9908227738,node,Chez l'Ben,restaurant,Dijon,,,,47.3178117,5.0352296
 9910078917,node,Bangkok Factory,restaurant,Dijon,,,,47.3306452,5.0432357
+9914723327,node,,memorial,Dijon,,,,47.6530786,4.9385935
+9914793280,node,,memorial,Dijon,,,,47.6630725,4.9660045
+9918590934,node,,memorial,Dijon,,,,47.5400934,4.9304134
+9918591043,node,,ruins,Dijon,,,,47.5470143,4.9155561
+9921318777,node,Here,artwork,Dijon,,,,47.3221884,5.02671
 9974166062,node,Xich Lô,restaurant,Dijon,,,,47.3237257,5.0310727
+9993663679,node,,beach,Dijon,,,,47.1375956,5.3431215
+10003953397,node,RCAF Crash site Memorial,memorial,Dijon,,,,47.2100429,5.1163909
 10007245708,node,Meurette & Persillé,restaurant,Dijon,,,,47.317272,5.0296521
 10045981219,node,Awan Dimsum,restaurant,Dijon,,,,47.3184667,5.0356452
+10058311101,node,,artwork,Dijon,,,,47.323292,5.0363651
+10058355592,node,,artwork,Dijon,,,,47.3204082,5.0421122
+10058355593,node,,artwork,Dijon,,,,47.3218403,5.0424069
+10058355594,node,,artwork,Dijon,,,,47.3233738,5.0438005
+10058409712,node,,artwork,Dijon,,,,47.3049275,5.1194172
 10058425983,node,Aux baguettes d'or,restaurant,Dijon,,,,47.3150009,5.0994262
 10069862989,node,Rotisserie Nilamin,restaurant,Dijon,,,,47.3290617,5.0385747
 10077614230,node,Meridio,restaurant,Dijon,,,,47.319985,5.0396515
@@ -383,51 +772,102 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 10079594761,node,Fu Yun,restaurant,Dijon,,,,47.323702,5.0385151
 10079704300,node,Les 3 Bures,restaurant,Dijon,,,http://www.les3bures.com/,47.3242935,5.039619
 10080283082,node,Place d’Italie,restaurant,Dijon,"4-6 Place des Cordeliers, 21000, Dijon",21000,https://placeditaliedijon.fr/,47.3191146,5.0404047
+10106337142,node,18 Juin 1940 - Appel du Général de Gaulle,memorial,Dijon,,,,47.3387724,5.0218939
 10111282768,node,Saison,restaurant,Dijon,,,https://www.saison-restaurant.fr/,47.3228563,5.0438508
 10131924284,node,La cantine de la Fourmilière,restaurant,Dijon,,,https://www.lafourmiliere-dijon.fr/,47.332857,5.0422941
+10154795221,node,Le Parc,zoo,Dijon,,,,47.3371464,4.9847324
 10214689126,node,Kyriad Prestige Dijon Nord Valmy,hotel,Dijon,"Impasse aux Charmes d'Asnières, 21000, Dijon",21000,https://prestige-dijon-nord.kyriad.com,47.360422,5.0496171
+10262429088,node,Sculpture d'ours polaire,artwork,Dijon,,,,47.3504712,5.0510708
 10308687826,node,Trilogie et saveurs,restaurant,Dijon,78 Rue Vannerie,,https://trilogie-saveurs.eatbu.com/,47.3221985,5.0451983
+10567254850,node,,artwork,Dijon,,,,47.3205927,5.0379206
 10589393665,node,Hôtel Thurot,hotel,Dijon,,,,47.3265675,5.0281856
 10612639492,node,Slice Pizza,restaurant,Dijon,,,,47.3189089,5.0338091
+10665211011,node,La Belle Croix,artwork,Dijon,,,,47.3159112,5.0293122
 10665701962,node,Chez Mes Sœurs,restaurant,Dijon,,,,47.3227203,5.0405963
 10674876060,node,Ganesh Akash,restaurant,Dijon,,,,47.324354,5.0433941
 10678286011,node,Côté Sushi,restaurant,Dijon,,,https://cotesushi.com/restaurants/3789-cote-sushi-dijon,47.3235222,5.0392912
 10680682180,node,Mezze du Liban,restaurant,Dijon,"31 Rue Chabot-Charny, 21000, Dijon",21000,,47.3204606,5.0431657
 10771298557,node,,hotel,Dijon,,,,47.3496404,5.0731958
+10780330132,node,,memorial,Dijon,,,,47.3111215,5.4480483
+10780330142,node,,memorial,Dijon,,,,47.5210128,4.7164929
 10784440481,node,3 Brasseurs,restaurant,Dijon,,,https://restaurants.3brasseurs.com/fr/3-brasseurs-dijon-toison-d-or,47.3561314,5.051854
+10799072060,node,,ruins,Dijon,,,,47.3461291,4.8682442
+10814464315,node,,memorial,Dijon,,,,47.1686641,5.1379544
 10816701854,node,Pizza Saint-Sauveur,restaurant,Dijon,,,,47.3024893,5.1329077
 10820454316,node,La Rotisserie des Halles,restaurant,Dijon,,,https://www.larotisseriedeshallesdijon.fr/,47.3231314,5.0396934
+10826337783,node,,artwork,Dijon,,,,47.3220227,5.0389624
 10832420187,node,Quetign'eat,restaurant,Dijon,,,,47.3136957,5.1109917
 10844529929,node,ChanhChhay,restaurant,Dijon,,,,47.321689,5.0472449
 10846826110,node,Nuage,restaurant,Dijon,,,,47.3199369,5.0363328
 10852736607,node,Clos des Saveurs,restaurant,Dijon,,,https://le-clos-des-saveurs.eatbu.com/?lang=fr,47.3227772,5.0453505
+10852736608,node,,artwork,Dijon,,,,47.3217729,5.0462991
+10852767855,node,,viewpoint,Dijon,,,,47.3457527,4.8680563
 10862665065,node,Tomah'grill,restaurant,Dijon,,,,47.3078899,5.1058169
 10939040152,node,Cave,restaurant,Dijon,,,https://cave.restaurant/,47.3220653,5.0454502
 10975951837,node,Simone,restaurant,Dijon,,,,47.324062,5.0385821
+11026504113,node,,memorial,Dijon,,,,47.319309,4.5957644
+11078137556,node,,memorial,Dijon,,,,47.3290447,5.0394395
+11078137557,node,,memorial,Dijon,,,,47.3308638,5.0420418
 11080997117,node,Factory Crepes,restaurant,Dijon,,,,47.3231446,5.0327432
 11080999181,node,My wok,restaurant,Dijon,,,,47.3231543,5.032771
 11081006195,node,Pho Viet,restaurant,Dijon,,,,47.3251994,5.0449822
+11081022421,node,Artist's gallery,gallery,Dijon,,,,47.3230075,5.0430361
+11082687767,node,,ruins,Dijon,,,,47.3042614,4.9005178
+11102725507,node,Parc Évasion Chevigny,theme_park,Dijon,,,https://www.parc-evasion.com/chevigny/activites-du-parc-chevigny/accrospider/,47.2978977,5.1474087
+11107390136,node,,memorial,Dijon,,,,47.3642821,4.9939036
 11108206162,node,Taj Mahal,restaurant,Dijon,,,,47.3204868,5.0414643
+11165200854,node,,memorial,Dijon,,,,47.2476712,5.1999836
+11179224672,node,,memorial,Dijon,,,,47.3485225,5.0237503
+11179224673,node,,memorial,Dijon,,,,47.3452934,5.0173398
+11229990556,node,Stèle du maquis Morane combat de Turcey,memorial,Dijon,,,,47.4078436,4.7064978
+11255212382,node,,memorial,Dijon,,,,47.220208,5.2518296
+11257878081,node,,memorial,Dijon,,,,47.2297597,5.1941541
+11258005053,node,,memorial,Dijon,,,,47.2670908,5.4517949
+11258038507,node,,memorial,Dijon,,,,47.2479463,5.3476677
 11271529947,node,Hôtel Lamartine,hotel,Dijon,,,,47.3210192,5.0399114
 11355478169,node,La Mia Cucina,restaurant,Dijon,,,,47.3446218,5.0644394
 11409756512,node,Cibo,restaurant,Dijon,,,https://www.cibo.restaurant,47.3219045,5.0454523
+11415503010,node,,memorial,Dijon,,,,47.1816767,5.3048737
 11462554677,node,A la bonne heure,restaurant,Dijon,,,,47.3560464,5.0518157
 11466111062,node,Le Central,restaurant,Dijon,,,,47.3230489,5.0375799
 11466120064,node,Brasserie François,restaurant,Dijon,,,,47.3229152,5.0397198
 11466120462,node,Le p'tit Zinc,restaurant,Dijon,,,,47.3227952,5.0400628
+11466124305,node,Traces du temps,artwork,Dijon,,,,47.3224998,5.0385375
+11466144156,node,Mémoire d'automne,artwork,Dijon,,,,47.3239972,5.0386285
+11466145339,node,,artwork,Dijon,,,,47.3227722,5.0409697
+11466145341,node,,artwork,Dijon,,,,47.3224088,5.0388826
 11489645853,node,Comptoir de la cité,restaurant,Dijon,,,https://www.lecomptoirdelacite.fr/,47.3175413,5.0305226
+11513888665,node,Chimère,artwork,Dijon,,,,47.3227823,5.0415837
+11518940461,node,,artwork,Dijon,,,,47.3187104,5.0355106
+11524436192,node,,artwork,Dijon,,,,47.3103496,5.0687501
+11553500883,node,,memorial,Dijon,,,,47.3843846,5.2843093
+11572256904,node,Jardin des 5 roses,garden,Dijon,,,,47.3356976,5.0050389
 11578480639,node,La Chouchou,restaurant,Dijon,"42 Rue Amiral Pierre, 21000, Dijon",21000,,47.3032251,5.0583353
+11584838074,node,Cadole,attraction,Dijon,,,,47.360587,5.0068967
+11586626270,node,,artwork,Dijon,,,,47.3320093,5.0049734
 11595002291,node,La P'tite Trattoria,restaurant,Dijon,,,,47.3218744,5.0497516
 11601973037,node,Royal Buffet,restaurant,Dijon,"3 Impasse de Reggio, 21000, Dijon",21000,https://royalbuffetdijon.fr/,47.3392648,5.0682379
 11642134694,node,Dadas Food,restaurant,Dijon,,,,47.3475334,5.1841831
+11762069507,node,,memorial,Dijon,,,,47.3444998,5.3051206
 11814139686,node,,restaurant,Dijon,,,,47.3633468,4.8982923
+11816250262,node,,viewpoint,Dijon,,,,47.3349399,4.8101402
+11816332845,node,,viewpoint,Dijon,,,,47.3482038,4.801825
 11824196214,node,Gîte Amazonia Dijon,hotel,Dijon,,,https://www.giteamazoniadijon.fr,47.3300918,5.0564262
 11900429204,node,In Teglia,restaurant,Dijon,"4 Rue Guillaume Tell, 21000, Dijon",21000,,47.326761,5.0285732
+11922201286,node,,memorial,Dijon,,,,47.2125765,5.1843114
+11925965181,node,Galerie Lorella Santiago,gallery,Dijon,,,,47.3261006,5.0319485
+11933117252,node,,viewpoint,Dijon,,,,47.3272203,4.7894976
 11945136556,node,Nomad Hôtel,hotel,Dijon,"30 Rue des Perrières, 21000, Dijon",21000,https://www.nomad-hotels.com/hotel/nomad-hotel-dijon,47.3245517,5.0274029
+11962674945,node,La voie romaine,ruins,Dijon,,,,47.301248,5.0453837
+11962674947,node,Junon Cesi,artwork,Dijon,,,,47.3014824,5.0489254
+11966165622,node,L‘air,artwork,Dijon,,,,47.3241252,5.0331458
+11966327944,node,Moise,artwork,Dijon,,,,47.3218716,5.0260877
+11966327947,node,Deux Sphinges,artwork,Dijon,,,,47.3213163,5.0263451
 11979103021,node,Residhome Dijon Cité des Vignes,hotel,Dijon,1 Avenue de l'Ouche,,https://www.residhome.com/residence-hoteliere-aparthotel-dijon-400.html,47.3183701,5.0282237
 12014601539,node,Table du Cap,restaurant,Dijon,,,https://www.restaurant-tableducap-dijon.fr/,47.3425284,5.0674105
 12033476364,node,ibis Styles Dijon Sud Domaine de Beauregard,hotel,Dijon,,,https://all.accor.com/hotel/B7R6/index.fr.shtml,47.2717163,5.0427975
 12033532044,node,Chez Cocotte & Moustache,restaurant,Dijon,,,,47.277652,5.0571234
+12121040008,node,Velorail de la Vingeanne,attraction,Dijon,,,https://www.veloraildelavingeanne.fr/,47.4465725,5.3993109
 12175008678,node,La Cave se Rebiffe,restaurant,Dijon,,,,47.3226229,5.045559
 12208504747,node,Aloft Dijon,hotel,Dijon,,,,47.3236121,5.037034
 12209806401,node,Café Du Crucifix,restaurant,Dijon,"8 Rue Nationale, 21800, Crimolois",21800,,47.2752207,5.1201127
@@ -435,10 +875,24 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 12227998893,node,Pizza Bonaparte,restaurant,Dijon,,,,47.1912314,5.3919436
 12254999642,node,Döner Kebab,restaurant,Dijon,,,,47.3024779,5.050477
 12256311417,node,La Montagne,restaurant,Dijon,,,,47.3896736,4.9370151
+12282140140,node,Sculptures en bois,artwork,Dijon,,,,47.3204091,5.0065324
+12292432192,node,,viewpoint,Dijon,,,,47.2931228,4.9747444
 12293580215,node,Genlis Pizza,restaurant,Dijon,,,,47.2414056,5.2195587
 12306954164,node,O Comaven,restaurant,Dijon,,,,47.3231805,5.0385359
+12306998195,node,,artwork,Dijon,,,,47.3245613,5.0389819
+12313923607,node,Madagascar Melman,artwork,Dijon,,,,47.3221231,5.0400198
+12313949151,node,Madagascar Marty,artwork,Dijon,,,,47.3219005,5.0388212
+12313951177,node,Snoopy 117,artwork,Dijon,,,,47.3259483,5.0457561
+12313960603,node,Madagascar Pingouin 116,artwork,Dijon,,,,47.3220496,5.0389824
+12313960604,node,,artwork,Dijon,,,,47.3220527,5.0390181
+12313960605,node,Madagascar Pingouin 114,artwork,Dijon,,,,47.3220518,5.0390596
+12331514936,node,,artwork,Dijon,,,,47.3102255,5.0940688
+12347002572,node,,memorial,Dijon,,,,47.2811911,4.6748729
+12360050081,node,,memorial,Dijon,,,,47.409424,5.2765778
 12412746378,node,Royal Kebab,restaurant,Dijon,,,,47.194307,5.3885369
 12430188102,node,Le Petit Blanc,restaurant,Dijon,,,,47.4004653,5.1423294
+12444190670,node,Galerie La Source,gallery,Dijon,,,,47.3448042,5.0183393
+12444801257,node,Grenier de Talant,gallery,Dijon,,,,47.3374844,5.0042222
 12488018811,node,Dédé Restaurant,restaurant,Dijon,,,,47.3148467,5.0503959
 12488626714,node,Dédé Restaurant,restaurant,Dijon,54 Boulevard Voltaire,,,47.3148467,5.0503959
 12504358906,node,Bar de la Terrasse,restaurant,Dijon,,,,47.1867522,5.3983441
@@ -448,17 +902,30 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 12626490001,node,Curieuses,restaurant,Dijon,,,,47.3208993,5.033937
 12638763609,node,Domaine de la Roche,restaurant,Dijon,"36 Grande Rue, 21490, Clénay",21490,https://domainedelaroche-restaurant.com/,47.4040632,5.121147
 12640631101,node,Italisamo,restaurant,Dijon,,,https://italisamo.com/,47.3058273,5.0988489
+12653030168,node,Cadole,attraction,Dijon,,,,47.3064608,4.9550135
+12653030186,node,Cadole,attraction,Dijon,,,,47.308706,4.9498684
+12656567138,node,Les ateliers moutarde,attraction,Dijon,,,,47.3186474,5.0334098
 12656964466,node,Le Jardin De Faustine,restaurant,Dijon,,,,47.2916891,5.0990937
 12662537991,node,Résidence Orfea Dijon,hotel,Dijon,"35 Cour de la Gare Pierre Semard, 21000, Dijon",21000,,47.3236182,5.0262911
+12759368911,node,,memorial,Dijon,,,,47.5787277,5.4085886
 12769147370,node,Chez Odile,restaurant,Dijon,"5 Rue Docteur André Brulet, 21000, Dijon",21000,,47.3262944,5.0577294
 12770422563,node,Le pré Saint Georges,restaurant,Dijon,,,,47.6336585,4.8717408
+12803948727,node,Cadole,attraction,Dijon,,,,47.3108658,4.944633
+12803948728,node,Cadole,attraction,Dijon,,,,47.3124714,4.9662061
+12828169156,node,,memorial,Dijon,,,,47.2798391,5.1072988
 12836998251,node,Frantalia,restaurant,Dijon,,,,47.3062376,5.0985497
 12865230376,node,Turnip,restaurant,Dijon,,,https://www.turnip-dijon.com/,47.3200275,5.0386488
+12875858482,node,,memorial,Dijon,,,,47.288604,4.7946284
 12915278591,node,La Hulotte,restaurant,Dijon,,,,47.4683017,5.2685905
 12915618584,node,Hotel Le Relais,hotel,Dijon,,,https://www.hotelrestaurantlerelaisbeze.com/,47.4669571,5.2694945
 12915618585,node,Auberge Le Renard'eau,hotel,Dijon,,,https://www.auberge-renardeau-21.fr/hotel,47.4683131,5.2703889
 12915618586,node,Hotel Le Bourguignon,hotel,Dijon,,,https://www.le-bourguignon.com/,47.4661445,5.2700069
+12943376178,node,,artwork,Dijon,,,,47.2797038,5.1079888
+13004340581,node,,memorial,Dijon,,,,47.2529267,4.7561979
+13004349834,node,,memorial,Dijon,,,,47.5227046,5.433186
 13017857146,node,Best Western Dijon Quetigny,hotel,Dijon,,,,47.3123145,5.0899784
+13020860866,node,,memorial,Dijon,,,,47.3501882,5.1302598
+13027128350,node,Le jardin du soleil,artwork,Dijon,,,,47.2845499,4.7669117
 13028646368,node,P&P,restaurant,Dijon,,,,47.3577968,5.0517405
 13036061797,node,ibis Styles Dijon Sud Domaine de Beauregard,hotel,Dijon,,,https://all.accor.com/hotel/B7R6/index.fr.shtml,47.2712475,5.0427813
 13036061798,node,La Table de Beauregard,restaurant,Dijon,,,,47.2712114,5.0432248
@@ -466,25 +933,157 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 13036061800,node,L'Authentique,restaurant,Dijon,,,https://www.restaurant-lauthentique.fr/,47.2725794,5.0476343
 13073559474,node,Summus,restaurant,Dijon,,,,47.3091636,4.710537
 13092883353,node,Valentine et Hugo,restaurant,Dijon,,,,47.3203731,5.0411353
+13092883556,node,,artwork,Dijon,,,,47.3210844,5.0419727
 13096394661,node,Tran,restaurant,Dijon,,,,47.3579086,5.0519163
+13098631399,node,Plaque commémorative F.F.I.,memorial,Dijon,,,,47.3116663,5.4479005
+13108561964,node,Jacques Lichtenstein,memorial,Dijon,,,,47.3215667,5.0406104
+13108561965,node,Raphaël Amon,memorial,Dijon,,,,47.3215841,5.0398026
+13108561966,node,Pierre Baruch,memorial,Dijon,,,,47.3199463,5.0400567
+13108561967,node,Robert Blum,memorial,Dijon,,,,47.3189654,5.0374194
+13108561968,node,Zysla Blankenberg,memorial,Dijon,,,,47.3175979,5.0367942
+13108561969,node,Wolf Blankenberg,memorial,Dijon,,,,47.3175996,5.0367921
+13108561970,node,Joseph Blankenberg,memorial,Dijon,,,,47.3175988,5.0367932
+13108561971,node,Jacob Cher,memorial,Dijon,,,,47.3273927,5.0437586
+13108561972,node,Maurice Bigio,memorial,Dijon,,,,47.3287423,5.0388958
+13108561973,node,Victor Friedrich,memorial,Dijon,,,,47.3281737,5.0334441
+13108561974,node,Gustave Judenkirsz,memorial,Dijon,,,,47.3251986,5.0290267
+13108561975,node,Alfred Hauser,memorial,Dijon,,,,47.3291693,5.0271859
+13108561976,node,René Lévy,memorial,Dijon,,,,47.3176949,5.0551976
+13108652896,node,Eidel Roudnick,memorial,Dijon,,,,47.3286246,5.0265716
+13108652897,node,Hélène Roudnick,memorial,Dijon,,,,47.3286254,5.0265726
+13108652898,node,Chaïm Roudnick,memorial,Dijon,,,,47.3286238,5.0265707
+13108652899,node,Thérèse Katz,memorial,Dijon,,,,47.3288863,5.0253434
+13108652900,node,Anita Oppenheimer,memorial,Dijon,,,,47.3288853,5.0253429
+13108660101,node,Malka Herckowicz,memorial,Dijon,,,,47.3253661,5.0450855
+13108660102,node,Idel Lebensart,memorial,Dijon,,,,47.3212877,5.0481017
+13108660103,node,Herta Kohlmann,memorial,Dijon,,,,47.3228803,5.0411579
+13108660104,node,Léon Israël,memorial,Dijon,,,,47.3198047,5.0452137
+13108961518,node,Arthur Salm,memorial,Dijon,,,,47.3076339,5.0502752
+13108961519,node,Fernand Uhry,memorial,Dijon,,,,47.3268701,5.0384508
+13108961520,node,Manuel Lev,memorial,Dijon,,,,47.3217212,5.0532443
+13108961521,node,Ruchla Zlotowicz,memorial,Dijon,,,,47.3163497,5.0343201
+13108961522,node,Mireille Steinitz,memorial,Dijon,,,,47.3312939,5.0212133
+13108961523,node,Rosa Steinitz,memorial,Dijon,,,,47.3312934,5.0212146
+13108961524,node,Edmond Michel,memorial,Dijon,,,,47.3451016,5.0414991
+13108961525,node,Irma Michel,memorial,Dijon,,,,47.3451006,5.0414993
+13108961526,node,Lilly Michel,memorial,Dijon,,,,47.3451026,5.0414989
+13109226128,node,,memorial,Dijon,,,,47.1451392,5.4315476
+13116090814,node,,viewpoint,Dijon,,,,47.3329046,4.8260087
+13120834714,node,,memorial,Dijon,,,,47.2926773,4.7346065
 13152295562,node,Le Marta,restaurant,Dijon,,,,47.3266224,5.0465741
+13158124852,node,,viewpoint,Dijon,,,,47.3339549,5.0039731
 13175065902,node,Les Epleumiens,restaurant,Dijon,"267 Route de Gray, 21850",21850,,47.3309327,5.0799148
+13208520799,node,Cellule-musée Sainte Élisabeth de la Trinité,museum,Dijon,,,https://elisabeth-dijon.org/fr/,47.2677994,4.9290615
 13230628682,node,Restaurant de l'Horloge,restaurant,Dijon,,,,47.3561844,5.0518161
 13230630634,node,My Wok,restaurant,Dijon,,,,47.3562361,5.0517526
+13239657455,node,Sainte Elisabeth de la Tinité,artwork,Dijon,,,,47.2679766,4.9292594
 13305325797,node,Le Crusoé,restaurant,Dijon,,,https://lecrusoe.fr,47.3013615,5.0506094
 13345167820,node,Da Vincy,restaurant,Dijon,,,,47.1879066,5.398271
+13379172101,node,Vierge,artwork,Dijon,,,,47.3231281,5.0412793
 13386288356,node,Comptoir du green,restaurant,Dijon,,,,47.310735,5.0901438
 13389678982,node,I Fratelli,restaurant,Dijon,,,https://ifratellidijon.fr/,47.3381934,5.063411
 13395938136,node,Auberge du Vieux Pressoir,restaurant,Dijon,,,https://www.aubergeduvieuxpressoir.com/index.php,47.2933579,5.0012854
+13410901271,node,"Vert Olive par Astral et Tollens, Rouge Bordeaux par Impact et Tollens, Bleu de France par Lefranc et Boirolac, Jaune Soleil par Astral et Novémail",artwork,Dijon,,,,47.3143145,5.0669892
+13410901272,node,,artwork,Dijon,,,,47.3140453,5.0649494
+13410901273,node,Méandre,artwork,Dijon,,,,47.3142917,5.067126
+13410975087,node,Les Trois Nappes,artwork,Dijon,,,,47.3228706,5.0715382
+13411673656,node,"Construction plastique spatio-temporelle n°10 émanant de la pyramide, hommage à Maurice Allemand",artwork,Dijon,,,,47.23805,5.2272794
 13419257705,node,Relais de la Source,restaurant,Dijon,,,https://www.relaisdelasource.com/le-restaurant/,47.4409612,4.7883707
 13420760900,node,La Clairière,restaurant,Dijon,,,https://www.restogitelaclairiere.com/,47.4550453,4.8827496
+13458270820,node,,memorial,Dijon,,,,47.3699468,4.7378741
 13484012344,node,l'etaP,restaurant,Dijon,,,https://souber.fr/letap/,47.2710444,5.0597888
+13571771092,node,,memorial,Dijon,,,,47.5692759,5.3510823
+13571823284,node,,memorial,Dijon,,,,47.5983267,5.3738374
+13571834165,node,,memorial,Dijon,,,,47.5597966,5.2707291
+13584203632,node,,memorial,Dijon,,,,47.4069859,5.0769461
+13584211489,node,,memorial,Dijon,,,,47.3805957,5.190681
+13584224562,node,,memorial,Dijon,,,,47.4475981,5.0581462
+13584229707,node,,memorial,Dijon,,,,47.428853,5.1487637
+13584230082,node,,memorial,Dijon,,,,47.4037179,5.163764
+13611068762,node,,memorial,Dijon,,,,47.2582566,5.4549703
 13611092063,node,Maison L'Essentiel,restaurant,Dijon,,,https://restaurant-lessentiel-dijon.fr/,47.3296156,5.0242499
+13626839560,node,,memorial,Dijon,,,,47.575456,4.8062779
+13643812076,node,,memorial,Dijon,,,,47.1585597,5.4038078
+13643833165,node,,memorial,Dijon,,,,47.1471981,5.3910944
+13643844304,node,,artwork,Dijon,,,,47.1568083,5.4054689
+13649158854,node,,memorial,Dijon,,,,47.3901149,5.3929285
+13649204580,node,,memorial,Dijon,,,,47.3532575,5.3791698
+13649204651,node,,memorial,Dijon,,,,47.3358349,5.3600148
+13649214802,node,,memorial,Dijon,,,,47.3294244,5.4534641
+13649274821,node,,memorial,Dijon,,,,47.3344332,5.4258306
+13664078292,node,,memorial,Dijon,,,,47.2109367,5.3536874
+13664082979,node,,memorial,Dijon,,,,47.2062917,5.2670119
+13664090105,node,,memorial,Dijon,,,,47.1954199,5.3899284
+13664090106,node,,memorial,Dijon,,,,47.1906447,5.2927661
+13664093214,node,,memorial,Dijon,,,,47.2410829,5.3851213
+13664094117,node,,memorial,Dijon,,,,47.1766897,5.3153675
+13664095840,node,,memorial,Dijon,,,,47.2585445,5.2518604
+13664096770,node,,memorial,Dijon,,,,47.2820409,5.2621633
+13664103512,node,,memorial,Dijon,,,,47.2705102,5.3852356
+13670899459,node,,memorial,Dijon,,,,47.5319065,4.9850569
+13670901154,node,,memorial,Dijon,,,,47.5113175,5.0349877
+13670905890,node,,memorial,Dijon,,,,47.602869,4.9436931
+13670913529,node,,memorial,Dijon,,,,47.5269524,5.1683047
+13670915285,node,,memorial,Dijon,,,,47.4812854,5.3808539
+13670917469,node,,memorial,Dijon,,,,47.4730469,5.3686135
+13670922001,node,,memorial,Dijon,,,,47.5244716,5.3679425
+13670923422,node,,memorial,Dijon,,,,47.4471264,5.3916353
+13679749897,node,,artwork,Dijon,,,,47.3124775,5.1113678
+13696053936,node,Monument des aviateurs,memorial,Dijon,,,,47.4249883,4.8513098
+13701141386,node,,artwork,Dijon,,,,47.330633,5.0324737
+13701141387,node,,artwork,Dijon,,,,47.3306047,5.0324601
+13703944997,node,,ruins,Dijon,,,,47.439256,4.7769136
+13707377179,node,,viewpoint,Dijon,,,,47.4118003,4.9930626
+13707377180,node,,viewpoint,Dijon,,,,47.4101756,4.995771
+13707377181,node,,viewpoint,Dijon,,,,47.4103246,4.9958807
+13719012305,node,,memorial,Dijon,,,,47.2852827,5.0616912
+13719017130,node,,memorial,Dijon,,,,47.3394417,4.9725226
+13719018127,node,,memorial,Dijon,,,,47.2915375,5.1016798
+13719018211,node,,memorial,Dijon,,,,47.406903,4.8931283
+13719018219,node,,memorial,Dijon,,,,47.2736361,4.9913067
+13719027265,node,,memorial,Dijon,,,,47.2355542,5.0616266
+13719027266,node,,memorial,Dijon,,,,47.2623097,5.0752346
+13719045194,node,,memorial,Dijon,,,,47.2742201,5.1195223
+13719046363,node,,memorial,Dijon,,,,47.2156335,5.1321753
+13719050565,node,,memorial,Dijon,,,,47.2553094,5.1451917
+13740002625,node,,memorial,Dijon,,,,47.2344369,4.7433813
+13740003137,node,,memorial,Dijon,,,,47.2844747,4.7631193
+13760427505,node,,park,Dijon,,,,47.3299106,4.826769
+13760427608,node,,park,Dijon,,,,47.3290199,4.8262724
 13774962067,node,Pica Pica,restaurant,Dijon,,,https://www.picapica-dijon.fr/,47.3213952,5.038427
+13786316639,node,,memorial,Dijon,,,,47.2400831,4.8172292
+13789080864,node,,memorial,Dijon,,,,47.3076236,5.292083
+13789130803,node,,memorial,Dijon,,,,47.2609669,5.2852973
+13789143625,node,,memorial,Dijon,,,,47.3216675,5.3174628
+13789148754,node,,memorial,Dijon,,,,47.3585855,5.2666195
+13805415767,node,Rencontre dans le temps,artwork,Dijon,,,,47.3214187,5.0382954
+13807004446,node,,memorial,Dijon,,,,47.428956,4.7057187
+13807018384,node,,memorial,Dijon,,,,47.43377,4.7864705
+13807033926,node,,memorial,Dijon,,,,47.4061116,4.717177
+13807043185,node,,memorial,Dijon,,,,47.4448891,4.7376524
+13830864969,node,,ruins,Dijon,,,,47.4156674,4.9103918
+13834379288,node,,ruins,Dijon,,,,47.4047063,4.8787846
 13839289409,node,Le 38,restaurant,Dijon,,,https://www.mlebrunch.com,47.3146945,5.0469719
 13840507910,node,Ô Palais,restaurant,Dijon,,,,47.3303782,5.0564713
+13840523128,node,,ruins,Dijon,,,,47.453913,4.9802134
 13850964071,node,Africkanisch,restaurant,Dijon,,,,47.3238592,5.0293411
 13852400221,node,Kinomai,restaurant,Dijon,,,,47.3257614,5.0287946
+13870244799,node,,memorial,Dijon,,,,47.3654852,4.6892786
+13870836275,node,,memorial,Dijon,,,,47.3157586,4.6450423
+13871026734,node,,memorial,Dijon,,,,47.3911624,4.7569166
+13871030147,node,,memorial,Dijon,,,,47.3510817,4.6903557
+13876724415,node,,memorial,Dijon,,,,47.2801056,5.2224381
+13876782374,node,,memorial,Dijon,,,,47.3639248,5.1552206
+13876807318,node,,memorial,Dijon,,,,47.2810956,5.1920051
+13876858029,node,,memorial,Dijon,,,,47.2952373,4.9401992
+13876862620,node,,memorial,Dijon,,,,47.1833153,5.1961363
+13876863981,node,,memorial,Dijon,,,,47.2041663,5.2046324
+13876963849,node,,memorial,Dijon,,,,47.2714661,4.7118727
+13877000116,node,,memorial,Dijon,,,,47.269291,4.6580931
+13952842390,node,,ruins,Dijon,,,,47.3314712,4.9731216
+13952868273,node,,ruins,Dijon,,,,47.3343754,4.9679188
+13952868274,node,,ruins,Dijon,,,,47.3344336,4.9690691
+13975403207,node,,memorial,Dijon,,,,47.3037718,4.6833579
 13990488351,node,O' Crousti Poulet,restaurant,Dijon,,,https://ocroustipouletoriginal.com/restaurant/dijon,47.3215187,5.048037
 13990500182,node,O' Crousti Poulet,restaurant,Dijon,,,https://ocroustipouletoriginal.com/restaurant/dijon,47.3386956,5.0675922
 13990875221,node,Bohébon,restaurant,Dijon,,,,47.3558217,5.0509672
@@ -493,3 +1092,659 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 13992895373,node,Pizza Paolo,restaurant,Dijon,,,,47.356176,5.0518325
 13992895374,node,Only Gan,restaurant,Dijon,,,,47.3562343,5.0517027
 13992895375,node,Mistral,restaurant,Dijon,,,,47.3562748,5.0515695
+13995048761,node,Restaurant Hôtel le Corbeau,hotel,Dijon,"1 Rue de Berbis, 21130, Auxonne",21130,https://hotel-auxonne.com/restaurant/,47.1943143,5.3879019
+4848668,way,Square Henri Vallée,park,Dijon,,,,47.3105312,5.0191323
+4936175,way,Parc Henri Détang,park,Dijon,,,,47.3133668,5.1147868
+4942254,way,Parc des Cèdres,park,Dijon,,,,47.3104276,5.1159899
+5228630,way,,park,Dijon,,,,47.2791382,5.0608565
+5228937,way,Parc de la Colombière,park,Dijon,,,https://patrimoine.dijon.fr/lieu-remarquable/le-parc-de-la-colombiere,47.2995743,5.0461426
+5734933,way,Square Georges Serraz,park,Dijon,,,,47.3018952,5.0160215
+23149156,way,Square Clément Janin,park,Dijon,,,,47.3070311,5.0522239
+23161674,way,Jardin du Château de Larrey,park,Dijon,,,,47.3138977,5.0135119
+23162301,way,Jardin du Ruisseau de la Fontaine d'Ouche,park,Dijon,,,,47.3170566,5.0080458
+23170663,way,Square Georges Brassens,park,Dijon,,,,47.3020706,5.0073859
+23170780,way,Square Georges Connes,park,Dijon,,,,47.3013356,5.0051708
+23183486,way,Promenade Quai Gauthey,park,Dijon,,,,47.3096438,5.0295876
+23183611,way,Square Rue de l'Île,park,Dijon,,,,47.3119751,5.0293739
+23195040,way,Square du Nuits-Saint-Georges,park,Dijon,,,,47.3054875,5.017114
+23196222,way,Square en Saint-Jacques,park,Dijon,,,,47.3023958,5.013817
+23196228,way,Square des Valendons,park,Dijon,,,,47.3028065,5.0098928
+23196229,way,Square des Violettes,park,Dijon,,,,47.3033513,5.0085609
+23196359,way,Square Chapelle Saint-Jacques,park,Dijon,,,,47.3074623,5.011206
+23197164,way,Mail Tino Rossi,park,Dijon,,,,47.310605,5.0074113
+23197172,way,,park,Dijon,,,,47.3102837,5.0091379
+23204014,way,Jardin des Quatre Saisons,park,Dijon,,,,47.3098852,5.0084864
+23206623,way,Parc des Grésilles,park,Dijon,,,,47.3337911,5.0718127
+23207379,way,,park,Dijon,,,,47.3268875,5.0679207
+23207544,way,,park,Dijon,,,,47.3285685,5.0712909
+23207545,way,,park,Dijon,,,,47.3274326,5.0722441
+23255269,way,Square du Volnay,park,Dijon,,,,47.3120602,5.0169068
+23255601,way,Square Gaston Roupnel,park,Dijon,,,,47.31645,5.0375362
+23258047,way,Square du 19 Mars 1962,park,Dijon,,,,47.3246651,5.0646912
+23261581,way,Square du 18 Juin,park,Dijon,,,,47.3250264,5.0641349
+23263001,way,Square Chevreul,park,Dijon,,,,47.3076511,5.0437125
+23266361,way,Port du Canal,park,Dijon,,,,47.3144815,5.0265882
+23280237,way,Jardin de l'Arquebuse,park,Dijon,"1 Avenue Albert 1er, 21000, Dijon",21000,,47.3211953,5.0276358
+23282223,way,Square Sainte-Chantal,park,Dijon,,,,47.3152185,5.0226248
+23297500,way,Square des Ribottées,park,Dijon,,,,47.3295299,5.0595568
+23297536,way,Square Camille Flammarion,park,Dijon,,,,47.3312547,5.0633469
+23297561,way,Square Laplace,park,Dijon,,,,47.3317896,5.0621973
+23297567,way,Square Lavoisier,park,Dijon,,,,47.3324764,5.0616642
+23330324,way,Jardin Jean de Berbisey,park,Dijon,,,,47.3180718,5.0374918
+23363257,way,Musée de la vie bourguignonne Perrin de Puycousin,museum,Dijon,"17 Rue Sainte-Anne, 21000, Dijon",21000,https://musees.dijon.fr/,47.3174424,5.0380043
+23432504,way,Square de Bourges,park,Dijon,,,,47.3205668,5.0049497
+23465056,way,Square des Ducs de Bourgogne,park,Dijon,,,,47.3220466,5.0421864
+23484272,way,Square de la République,park,Dijon,,,,47.3263919,5.0460272
+23575397,way,Square Darcy,park,Dijon,,,,47.3244102,5.0323474
+23610371,way,Promenade de l'Ouche,park,Dijon,,,,47.3006248,5.0381433
+23657406,way,Parc Clémenceau,park,Dijon,,,,47.3266961,5.0496831
+23657415,way,Square Rue de Colmar,park,Dijon,,,,47.3267408,5.0518326
+23756688,way,Square Edmond de Debeaumarché,park,Dijon,,,,47.3130099,5.0501024
+23757742,way,Square du Creux d'Enfer,park,Dijon,,,,47.3171155,5.0579782
+23788402,way,,garden,Dijon,,,,47.3261571,5.0294776
+23792974,way,Place du Président Wilson,park,Dijon,,,,47.3161527,5.0433186
+23817770,way,Esplanade Amédée Bargy,park,Dijon,,,,47.3175833,5.0248111
+23817793,way,Esplanade du Clos de Maillonas,park,Dijon,,,,47.309235,5.0329442
+23955525,way,Square des Saunières,park,Dijon,,,,47.3316911,5.0177341
+23966908,way,Square Charles le Téméraire,park,Dijon,,,,47.3323314,5.0266892
+23966913,way,,park,Dijon,,,,47.3340089,5.0219797
+23967033,way,,park,Dijon,,,,47.3310992,5.0270515
+23967332,way,,park,Dijon,,,,47.3348498,5.0284511
+23967345,way,Square Darius Milhaud,park,Dijon,,,,47.3332815,5.0333365
+23967349,way,,park,Dijon,,,,47.335243,5.0320163
+23967350,way,Square Paul Éluard,park,Dijon,,,,47.3346088,5.0319184
+23967484,way,Square Montchapet,park,Dijon,,,,47.3309387,5.0293751
+23985698,way,,park,Dijon,,,,47.295673,5.0514424
+23986775,way,,park,Dijon,,,,47.305995,5.0636556
+23986787,way,Mail André Moreau,park,Dijon,,,,47.3094367,5.0651515
+24032019,way,Square Eugène Spuller,park,Dijon,,,,47.3299389,5.0312511
+24032145,way,,park,Dijon,,,,47.3304404,5.0320778
+24032146,way,Square Marguerite - Jean Menneveau,park,Dijon,,,,47.3270139,5.0307447
+24048895,way,Place Paul Bert,park,Dijon,,,,47.3306804,5.0326014
+24153706,way,Square Paul et Henriette Dard,park,Dijon,,,,47.3335158,5.0362643
+24153714,way,,park,Dijon,,,,47.3356826,5.0312218
+24154533,way,Place Barbe,garden,Dijon,,,,47.3288961,5.0386543
+24232040,way,Place Saint-Bernard,park,Dijon,,,,47.3255411,5.0388773
+24232060,way,Place Charles François Dupuis,park,Dijon,,,,47.3266284,5.0381554
+24244027,way,Parc du Drapeau,park,Dijon,,,,47.3375417,5.0428351
+24249034,way,Square de la République,park,Dijon,,,,47.3268958,5.0439497
+24249046,way,,park,Dijon,,,,47.3324518,5.0426704
+24249467,way,,park,Dijon,,,,47.3287466,5.0427981
+24263937,way,Square Général Giraud,park,Dijon,,,,47.336163,5.052147
+24272636,way,Parc de la Toison d'Or,park,Dijon,,,,47.3550029,5.0549435
+24279631,way,Promenade du Suzon,park,Dijon,,,,47.3509221,5.0374141
+24279637,way,,park,Dijon,,,,47.3537003,5.0372826
+24279641,way,,park,Dijon,,,,47.3525809,5.0400299
+24291395,way,Square Pascal,park,Dijon,,,,47.3375054,5.0545836
+24295581,way,Parc de l'Hôtel d'Esterno,park,Dijon,,,,47.3194037,5.0366889
+24423959,way,Square Gabriel Lejard,park,Dijon,,,,47.3210981,5.058038
+24424421,way,Espace Vert de l'Éperon,park,Dijon,,,,47.3214499,4.9950121
+24452668,way,Parc du Château de Pouilly,park,Dijon,,,,47.3474288,5.0508255
+24475631,way,Jardin Japonais,park,Dijon,,,,47.3484944,5.038119
+24481729,way,Square de la Charmette,park,Dijon,,,,47.3461879,5.0397791
+24482064,way,,park,Dijon,,,,47.3478088,5.0385192
+24482364,way,,park,Dijon,,,,47.3439075,5.0419596
+24482943,way,,park,Dijon,,,,47.3444255,5.0415015
+24482991,way,Square Émile Poillot,park,Dijon,,,,47.3450388,5.0376551
+31797372,way,,park,Dijon,,,,47.2920958,5.0051671
+31825989,way,Plaine Gambetta,park,Dijon,,,,47.2959465,5.0101762
+31826690,way,,park,Dijon,,,,47.2943448,5.0139252
+31902590,way,Parc du Cèdre,park,Dijon,,,,47.29585,5.005975
+31922709,way,,park,Dijon,,,,47.3016236,5.0115508
+31970860,way,Le Clos du Roy,park,Dijon,,,https://chenove.fr/le-jardin-du-clos-du-roy,47.2918395,4.9986
+31970907,way,La ferme à l'École,zoo,Dijon,,,,47.2914544,4.9995691
+34635577,way,,park,Dijon,,,,47.3423782,5.0348453
+34998321,way,,park,Dijon,,,,47.3442588,5.0351473
+41434954,way,Église Saint-Philibert,museum,Dijon,,,,47.3209744,5.0349281
+41443862,way,FRAC Bourgogne,museum,Dijon,"21-23 Rue de l'Arquebuse, 21000, Dijon",21000,http://www.frac-bourgogne.org,47.3195015,5.0304458
+41497059,way,Mama Shelter,hotel,Dijon,,,https://fr.mamashelter.com/dijon/,47.322217,5.0339439
+41497744,way,Porte Guillaume,monument,Dijon,,,,47.3232884,5.034732
+41497749,way,Monument Henry Darcy,memorial,Dijon,,,,47.3244861,5.0316286
+41501851,way,Église Sainte-Anne,museum,Dijon,"Rue Sainte-Anne, 21000, Dijon",21000,,47.3177323,5.0379625
+41883734,way,Hôtel de Saulx,hotel,Dijon,,,,47.3251579,5.0459594
+41921074,way,Mail Boulevard de Verdun,park,Dijon,,,,47.3258046,5.0517571
+42272474,way,Parc de la Fontaine aux Fées,park,Dijon,,,,47.3325684,5.0005379
+47335658,way,Parc des Carrières Bacquin,park,Dijon,,,,47.3259513,5.0183754
+47731774,way,Terrain de Jeux des Carrières de l'Ouest,park,Dijon,,,,47.3265896,5.0133962
+47977012,way,,park,Dijon,,,,47.3224097,5.009198
+48371406,way,Square des Gênois,park,Dijon,,,,47.3355941,5.0231787
+52084068,way,Parc des Basses Combottes,park,Dijon,,,,47.3396504,5.0232754
+55752632,way,Square du Patis,park,Dijon,,,,47.2712613,5.0051821
+58115373,way,hotelF1,hotel,Dijon,,,https://all.accor.com/hotel/2390/index.en.shtml#origin=hotelf1,47.3509639,5.0687214
+58115378,way,B&B Hôtel,hotel,Dijon,"1 Rue des Ardennes, 21000, Dijon",21000,https://www.hotel-bb.com/fr/-/hotelByName.htm?id=0304,47.3508229,5.0690696
+58115386,way,Hôtel Première Classe,hotel,Dijon,,,,47.3518312,5.0692987
+58115387,way,Kyriad Direct Dijon Nord,hotel,Dijon,"4 Rue des Ardennes, 21000",21000,https://direct-dijon-nord.kyriad.com,47.3515283,5.0697255
+58445010,way,Le Cap Nord,restaurant,Dijon,"1 Rue du Bailly, 21000",21000,,47.3494191,5.0735921
+71123831,way,Le Lieu Dit,restaurant,Dijon,"5 Rue Parmentier, Dijon",,,47.3274919,5.0464491
+72478127,way,Square du Petit Citeaux,park,Dijon,,,,47.3141833,5.0354897
+77190666,way,Château Rose,castle,Dijon,,,,47.3182899,4.5963644
+80345679,way,Château d'Aiserey,castle,Dijon,,,,47.1736748,5.1631783
+87966256,way,Château de Fontaine-Française,castle,Dijon,,,,47.526899,5.3682433
+114351778,way,Chapelle des Climats,museum,Dijon,,,,47.3167594,5.0298764
+115427098,way,Restaurant universitaire Montmuzard,restaurant,Dijon,"8 B Rue Recteur Marcel Bouchard, 21000, Dijon",21000,https://www.crous-bfc.fr/restaurant/restaurant-montmuzard/,47.3143249,5.0700907
+117731738,way,L'Échappée Belle,restaurant,Dijon,,,,47.343556,5.0191515
+117832925,way,L'entrecôte,restaurant,Dijon,16 Rue Paul Langevin,,,47.3379535,5.014155
+117833126,way,,ruins,Dijon,,,,47.3295615,5.0049955
+117833504,way,,ruins,Dijon,,,,47.329441,5.004806
+117833779,way,,ruins,Dijon,,,,47.3295645,5.004923
+117834167,way,,ruins,Dijon,,,,47.3295945,5.004791
+117834603,way,La Bonbonnière,hotel,Dijon,"24 Rue des Orfèvres, 21240, Talant",21240,https://www.labonbonnierehotel.fr/,47.3356701,5.0021339
+117834836,way,,ruins,Dijon,,,,47.329514,5.0047195
+119334424,way,Vieille porte,attraction,Dijon,,,,47.6699046,5.0244247
+119380774,way,,park,Dijon,,,,47.3454502,5.1872154
+119389411,way,,memorial,Dijon,,,,47.3426051,5.1906768
+119390833,way,,park,Dijon,,,,47.3446333,5.1837679
+120443263,way,l'Hôtel d'Arc,hotel,Dijon,,,,47.3467576,5.1912307
+120443267,way,Les Marronniers,hotel,Dijon,,,,47.3448253,5.1915862
+120512680,way,Place du Moulin,park,Dijon,,,,47.306952,5.1821504
+121718835,way,,park,Dijon,,,,47.3181383,5.1108596
+123892643,way,,castle,Dijon,,,,47.3346015,5.154796
+124008698,way,Square du 19 Mars,park,Dijon,,,,47.3299393,5.0879548
+124308876,way,Restaurant Universitaire Mansart,restaurant,Dijon,"94 Boulevard Mansart, 21000, Dijon",21000,https://www.crous-bfc.fr/restaurant/restaurant-mansart/,47.311194,5.061852
+125711288,way,Château,castle,Dijon,,,,47.3340915,5.084029
+125713280,way,Musée de l'électricité de Bourgogne,museum,Dijon,,,http://www.musee-electricite.fr/,47.3278275,5.0939145
+125896421,way,Place Chanoine Kir,park,Dijon,,,,47.3291476,5.0901316
+125943809,way,Ye Sushi,restaurant,Dijon,"47 Avenue Raymond Poincaré, 21000, Dijon",21000,,47.329111,5.0661106
+125956673,way,Latitude21,garden,Dijon,"33 Rue de Montmuzard, 21000, Dijon",21000,,47.325475,5.062321
+125959735,way,Hôtel du Stade,hotel,Dijon,,,,47.3218405,5.0533815
+126032785,way,,ruins,Dijon,,,,47.30663,5.0224025
+126072952,way,Château de Pouilly,castle,Dijon,,,,47.3479189,5.0497886
+126264987,way,Hôtel Restaurant Du Parc de la Colombière,hotel,Dijon,,,,47.302197,5.0502335
+126405657,way,,park,Dijon,,,,47.3142249,5.1180315
+126414172,way,La Chaumine,restaurant,Dijon,"105 Rue de Chenôve, 21000, Dijon",21000,https://www.facebook.com/lachauminedijon/,47.302777,5.0196785
+126687446,way,Esplanade des Marcs d'Or,park,Dijon,,,,47.3141389,5.0029402
+126705509,way,Parc des Varennes,park,Dijon,,,,47.3357363,5.0948043
+128921405,way,Kyriad Direct,hotel,Dijon,,,,47.2817903,5.0185848
+128921454,way,Saveurs d'Asie,restaurant,Dijon,,,,47.2838355,5.0200266
+128921464,way,inter-Hotel Armony,hotel,Dijon,,,,47.2814544,5.0190495
+128921471,way,Aparté,hotel,Dijon,,,,47.281177,5.0194077
+129124497,way,Cité Internationale de la Gastronomie et du Vin,attraction,Dijon,,,https://www.citedelagastronomie-dijon.fr,47.3168658,5.0298042
+129218271,way,Plage du Lac Chanoine Kir,beach,Dijon,,,https://www.destinationdijon.com/dijon-plage/,47.3259075,5.0061801
+129614788,way,,garden,Dijon,,,,47.319236,5.0209177
+132622146,way,,park,Dijon,,,,47.3135872,5.049408
+133171562,way,Ibis,hotel,Dijon,1 Rue Bolotte,,https://www.accorhotels.com/fr/hotel-0698-ibis-dijon-sud/index.shtml,47.2721398,5.003483
+133370760,way,,park,Dijon,,,,47.3164288,5.031879
+136114823,way,Square des Bénédictins,park,Dijon,,,,47.321927,5.034605
+136774986,way,,castle,Dijon,,,,47.5390955,4.935641
+144043942,way,,castle,Dijon,,,,47.275559,4.9164675
+147095114,way,Hôtel Restaurant Le Natural,hotel,Dijon,"11 Rue du Moulin, 21260, Selongey",21260,https://www.hotel-restaurant-lenatural.com/,47.592385,5.1728945
+147980690,way,Auberge Côté Rivière,restaurant,Dijon,,,,47.5239395,5.108161
+147981841,way,,memorial,Dijon,,,,47.5215386,5.1122924
+148389261,way,Parc des Capucins,park,Dijon,,,,47.5220053,5.1081581
+149260534,way,Boulangerie,restaurant,Dijon,"51 Route de Langres, 21120, Til-Châtel",21120,https://www.anatoleetcelestin.fr/contact/,47.5201144,5.1785061
+149298510,way,Greet,hotel,Dijon,,,,47.2715725,5.044069
+149303674,way,Château de Longvic,castle,Dijon,,,,47.2862865,5.061791
+149613487,way,Château de Meixmoron,castle,Dijon,,,,47.5220654,5.0682637
+149658809,way,,memorial,Dijon,,,,47.5404295,5.0183505
+150084515,way,,castle,Dijon,,,,47.30414,5.137265
+150272650,way,,castle,Dijon,,,,47.5314405,4.841357
+151780258,way,Château de Lux,castle,Dijon,,,,47.4920615,5.2118745
+152029394,way,,memorial,Dijon,,,,47.52803,5.3879135
+152390504,way,Château de Rosières,castle,Dijon,,,,47.4984941,5.4035648
+152391122,way,,castle,Dijon,,,,47.5234702,5.4282363
+154193092,way,Fort de Varois,attraction,Dijon,,,,47.3477053,5.1331029
+158526955,way,Château de Vantoux (1704),castle,Dijon,,,,47.3935165,5.019775
+158528027,way,Parc Eugène Noblot,park,Dijon,"Ruelle au Bailly, 21380, Marsannay-le-Bois",21380,,47.4393848,5.0967483
+158541877,way,Services techniques,park,Dijon,,,,47.3512371,4.9985015
+158543515,way,Levanna,restaurant,Dijon,"10 Rue de Dijon, 21121, Daix",21121,,47.3512848,4.9990523
+158634891,way,Château d'Arcelot,attraction,Dijon,"2 Rue de Champs-Rosé, 21310, Arceau",21310,,47.368828,5.192929
+158636554,way,Café restaurant traiteur,restaurant,Dijon,,,,47.4126695,5.205273
+158637490,way,Château de Beire-le-Châtel,castle,Dijon,,,,47.4129695,5.202217
+158640069,way,Château de Bressey,castle,Dijon,,,,47.3107402,5.183667
+158645519,way,Le relais des monts,restaurant,Dijon,"1 Grande Rue, 21160, Corcelles-les-Monts",21160,,47.2952255,4.940936
+158645599,way,Château de Gouville,castle,Dijon,,,,47.2977975,4.9660905
+158660171,way,Château de Préville,castle,Dijon,,,,47.2637135,5.054479
+158672424,way,La Table du Rocher,restaurant,Dijon,"85 Route de Beaune, 21160, Marsannay-la-Côte",21160,https://www.latabledurocher.fr/,47.2692845,5.000902
+158672502,way,B&B Hotel Dijon Les Portes du Sud,hotel,Dijon,"190 Allée Olivier de la Marche, 21160, Marsannay-la-Côte",21160,https://www.hotel-bb.com/fr/hotel/dijon-les-portes-du-sud,47.2806545,5.0178245
+158672505,way,B&B Hotel Dijon Marsannay,hotel,Dijon,"Parc d'Activités Acti-Sud, 21160, Marsannay-la-Côte",21160,https://www.hotel-bb.com/fr/hotel/dijon-marsannay,47.2788455,5.0156135
+158672683,way,Novotel,hotel,Dijon,"11 Route de Beaune, 21160, Marsannay-la-Côte",21160,http://www.novotel.com/nl/hotel-0418-novotel-dijon-sud/index.shtml,47.2793205,5.0086145
+158675397,way,Première Classe,hotel,Dijon,,,,47.2800835,5.018446
+158676572,way,Uni Buffet,restaurant,Dijon,,,https://www.uni-buffet.com/,47.2798035,5.0173785
+158676677,way,O'Grill,restaurant,Dijon,,,,47.280537,5.018295
+158676730,way,Le Nicobike,restaurant,Dijon,17 Rue Gustave Eiffel,,,47.28142,5.011437
+158676938,way,Buffalo Grill,restaurant,Dijon,,,,47.2813225,5.011828
+158682385,way,Château de Belleneuve,castle,Dijon,,,,47.3576455,5.263849
+158906608,way,,castle,Dijon,,,,47.6020175,4.9382365
+159530089,way,,ruins,Dijon,,,,47.6186221,4.9187268
+159530126,way,,ruins,Dijon,,,,47.618373,4.919392
+159530146,way,,ruins,Dijon,,,,47.6184105,4.9174715
+159530494,way,,ruins,Dijon,,,,47.6157805,4.9193565
+159530504,way,,ruins,Dijon,,,,47.615437,4.918877
+159530560,way,,ruins,Dijon,,,,47.6161405,4.919871
+159530567,way,,ruins,Dijon,,,,47.6183501,4.9170919
+164293287,way,CRV,restaurant,Dijon,"27 Rue Carnot, 21440, Saint-Seine-l'Abbaye",21440,https://www.resto-crv.com/,47.439393,4.7881795
+164297804,way,Ecole-musée de Champagny,museum,Dijon,,,,47.457886,4.7636945
+164311218,way,,memorial,Dijon,,,,47.466308,4.804554
+164713219,way,Esplanade de l'Ordre National du Mérite,park,Dijon,,,,47.3153808,5.0432914
+166894168,way,,park,Dijon,,,,47.310549,5.045673
+166894169,way,,park,Dijon,,,,47.3039429,5.0477646
+166894170,way,,park,Dijon,,,,47.303679,5.0488585
+166894172,way,,park,Dijon,,,,47.3079256,5.0461183
+166918599,way,,park,Dijon,,,,47.3142279,5.0435906
+166918600,way,,park,Dijon,,,,47.3116244,5.0446122
+166918601,way,,park,Dijon,,,,47.313393,5.0439263
+167096341,way,,park,Dijon,,,,47.3461283,5.0579756
+167867276,way,Parc de la Maison des Sociétés,park,Dijon,,,,47.2717427,4.9884539
+171952866,way,,beach,Dijon,,,,47.3484395,5.1700643
+175641505,way,Musée des Beaux Arts,museum,Dijon,"Place de la Sainte-Chapelle, 21000, Dijon",21000,https://musees.dijon.fr/,47.3216285,5.0423315
+175801702,way,jardin de rocailles,garden,Dijon,,,,47.3262584,5.0190637
+175801724,way,,zoo,Dijon,,,,47.3254121,5.0189347
+178256205,way,,castle,Dijon,,,,47.25283,4.7548805
+178256217,way,,castle,Dijon,,,,47.252783,4.75488
+178256299,way,,castle,Dijon,,,,47.252574,4.754878
+192208502,way,La Venelle,restaurant,Dijon,,,,47.3984285,5.3154715
+193635605,way,Auberge La Vingeanne,restaurant,Dijon,,,,47.446715,5.391704
+194147277,way,,castle,Dijon,,,,47.356919,5.4164435
+197365338,way,Château des Maillys,castle,Dijon,,,,47.137519,5.335604
+199203059,way,Le Cav'O,restaurant,Dijon,"7 Rue de la Grande Place, 21410, Mâlain",21410,https://sites.google.com/view/restaurant-traiteur-le-cavo/,47.3280385,4.7925765
+199540458,way,,attraction,Dijon,,,,47.3424325,4.873966
+199540463,way,Château de Lantenay.,castle,Dijon,,,,47.343287,4.8707105
+199540546,way,Chapelle Saint-Louis,attraction,Dijon,,,,47.3457477,4.8682457
+204833249,way,,castle,Dijon,,,,47.1570085,5.1633355
+204841606,way,,park,Dijon,,,,47.1581477,5.1586505
+207007568,way,Esplanade Érasme,park,Dijon,,,,47.3143622,5.0660422
+207007654,way,,park,Dijon,,,,47.3124371,5.0684962
+216592625,way,,garden,Dijon,,,,47.3097343,5.0028882
+220510302,way,,park,Dijon,,,,47.3395166,5.034579
+225128986,way,Place de l'Hôtel de Ville,park,Dijon,,,,47.3417594,5.0221746
+225129663,way,Place des Feuillants,park,Dijon,,,,47.3454976,5.0166987
+225180397,way,,park,Dijon,,,,47.3425984,5.0223648
+225485920,way,,park,Dijon,,,,47.3368506,5.030475
+228546698,way,Diabolic Pizza,restaurant,Dijon,,,,47.2725365,5.3842485
+235859220,way,Lichey,castle,Dijon,,,,47.3121085,5.0821637
+240268964,way,Square Marin la Meslée,park,Dijon,,,,47.2708849,5.0069469
+242833368,way,,park,Dijon,,,,47.3854885,5.0470467
+252341238,way,,park,Dijon,,,,47.2790399,4.9895319
+252664503,way,Square des Billetottes,park,Dijon,,,,47.3028041,5.0211303
+253449485,way,Redoute de Saint-Apollinaire,attraction,Dijon,,,,47.3366187,5.0742877
+254700834,way,Le Bon coin,restaurant,Dijon,"43 Avenue Roland Carraz, 21300, Chenôve",21300,,47.298796,5.0201035
+254701105,way,Chez Louise,restaurant,Dijon,"51 Avenue Roland Carraz, 21300, Chenôve",21300,https://www.achat-dijon.com/restaurant-chez-louise,47.298033,5.0196105
+254701129,way,Léon,restaurant,Dijon,,,https://restaurants.leon-de-bruxelles.fr/fr/s/moules-frites/dijon---chenove/62003,47.2808965,5.02241
+254703426,way,Buffalo Grill,restaurant,Dijon,,,,47.2857125,5.0107945
+254703529,way,Sakura Sushi,restaurant,Dijon,"112 Avenue Roland Carraz, 21300, Chenôve",21300,https://sakura-sushi-21-fontaine-les-dijon.zenchef.com/,47.2888865,5.0125065
+254703810,way,Poules,attraction,Dijon,,,,47.2915636,4.9996158
+254704080,way,Panda de Chine,restaurant,Dijon,"147 Avenue Roland Carraz, 21300, Chenôve",21300,https://panda-de-chine.business.site/,47.288527,5.0139955
+254823853,way,,castle,Dijon,,,,47.236784,5.117029
+254845987,way,,park,Dijon,,,,47.332261,5.0459281
+256194384,way,Château de Beauregard,castle,Dijon,,,,47.2712071,5.0427761
+256477098,way,,park,Dijon,,,,47.2863349,5.0060667
+256477099,way,,park,Dijon,,,,47.2861649,5.007167
+256477101,way,Espace Parabiago,park,Dijon,,,,47.2855231,5.0082421
+256695428,way,Château de Marigny,ruins,Dijon,,,,47.240883,4.7474166
+257038846,way,Courtepaille,restaurant,Dijon,"Impasse aux Charmes d'Asnières, 21000, Dijon",21000,,47.3601567,5.0485321
+257038848,way,Ristorante Del Arte,restaurant,Dijon,"ZAC Parc Valmy, 21000, Dijon",21000,https://www.delarte.fr/restaurant-italien-pizzeria-dijon.html,47.3599385,5.0492501
+257763389,way,,park,Dijon,,,,47.3282386,5.0701709
+257806197,way,Parc des Argentières,park,Dijon,,,,47.3152236,5.057022
+257806200,way,Square des Petites Roches,park,Dijon,,,,47.3140478,5.0564067
+257806372,way,,park,Dijon,,,,47.3134948,5.0526738
+258221155,way,Verger François Bugnon,garden,Dijon,,,,47.3315773,5.0018845
+258301253,way,Mess,restaurant,Dijon,,,,47.2753318,5.0977774
+258301455,way,,park,Dijon,,,,47.2728092,5.0747142
+259344632,way,Square Ernst Johnson,park,Dijon,,,,47.3315055,5.0097376
+260050528,way,Parc de l'Arsenal,park,Dijon,,,,47.30614,5.0253619
+260177390,way,,park,Dijon,,,,47.2392037,5.141742
+260177411,way,,park,Dijon,,,,47.238257,5.1417268
+266693654,way,Café de la place,restaurant,Dijon,,,,47.1725232,5.1628944
+270440720,way,,park,Dijon,,,,47.3415402,5.0370527
+284792534,way,,park,Dijon,,,,47.350689,5.0080863
+287873309,way,Grand Hôtel La Cloche,hotel,Dijon,14 Place Darcy,,https://www.hotel-lacloche.fr/,47.3243161,5.0337981
+287873335,way,L'aparthoteL LhL,hotel,Dijon,"4 Rue Audra, 21000, Dijon",21000,https://www.aparthotel-dijon.com/,47.3258245,5.0351774
+291330542,way,Place Salvador Allende,park,Dijon,,,,47.2891975,5.0036873
+291330543,way,Square Pierre Curie,park,Dijon,,,,47.2898826,5.0015636
+291330544,way,,park,Dijon,,,,47.289343,5.0019069
+292483039,way,Château de Longecourt-en-Plaine,castle,Dijon,,,,47.1968142,5.152855
+296669492,way,,park,Dijon,,,,47.2109473,5.3536553
+297107544,way,Promenade de l'Ouche,park,Dijon,,,,47.3193199,5.0191092
+298322041,way,,zoo,Dijon,,,,47.3150783,5.0570509
+299047806,way,Le Paquier,park,Dijon,,,,47.3296998,4.8277671
+304373451,way,Parc de la Redoute de Saint-Apollinaire,park,Dijon,,,,47.3366568,5.0744991
+311452680,way,Commanderie de la Romagne,castle,Dijon,,,https://www.romagne.com/,47.5916135,5.3935217
+320483620,way,Square du Petit Bernard,park,Dijon,,,,47.3046438,5.0354706
+320483621,way,Terrain des verriers,park,Dijon,,,,47.3016592,5.0367466
+324088848,way,Château Guenichot de Nogent,castle,Dijon,,,,47.24465,5.138559
+329571005,way,,garden,Dijon,,,,47.2658938,4.9937404
+329853783,way,Parc Municipal,park,Dijon,,,,47.2652932,5.008735
+331216674,way,,park,Dijon,,,,47.3199594,4.8994107
+334755694,way,Square des Corbaulées,park,Dijon,,,,47.3293812,5.0064583
+338973862,way,Square des Pétignys,park,Dijon,,,,47.2984015,5.0118724
+339315093,way,Place du Marronnier,park,Dijon,,,,47.3519735,5.0018579
+340145605,way,,park,Dijon,,,,47.2990966,5.0009401
+340608443,way,Square Salvador Allende,park,Dijon,,,,47.3395839,4.9947039
+361885137,way,Parc animalier,zoo,Dijon,,,,47.2986678,5.0428045
+361885138,way,Parc animalier,zoo,Dijon,,,,47.2979715,5.0428817
+361885139,way,Parc animalier,zoo,Dijon,,,,47.2986638,5.0438369
+364765238,way,Parc de Pré-Thomas,park,Dijon,,,,47.3260908,5.0862112
+368210481,way,,park,Dijon,,,,47.4121952,5.0130849
+371471746,way,,park,Dijon,,,,47.1824673,5.2453473
+372186158,way,Square du Parc des Sports,park,Dijon,,,,47.3259422,5.0664132
+374066652,way,Place de Verdun,park,Dijon,,,,47.5224892,5.1148838
+374100865,way,Park Suite,hotel,Dijon,,,,47.35478,5.0378843
+375333545,way,,park,Dijon,,,,47.3468354,5.0045962
+375647136,way,,park,Dijon,,,,47.3504767,5.0030241
+376334042,way,Parc des Tourelles,park,Dijon,,,,47.3528365,4.9949889
+376562427,way,,park,Dijon,,,,47.3511591,4.9988259
+376615980,way,,park,Dijon,,,,47.3524581,4.9942436
+384708790,way,Parc de la Combe à la Serpent,park,Dijon,,,https://www.dijon.fr/dijon-a-votre-service/nature-et-animaux/parcs-et-jardins/,47.3124648,4.9674932
+408319995,way,,park,Dijon,,,,47.3270677,4.9981629
+411157043,way,,beach,Dijon,,,,47.3135697,4.6069141
+422023842,way,Parc Miami,park,Dijon,,,,47.1923097,5.3879661
+441919398,way,Le jardin du soleil,park,Dijon,,,,47.2842219,4.7671933
+452225414,way,,garden,Dijon,,,,47.6144857,4.9794152
+480888393,way,Parc de la Source,park,Dijon,,,,47.4700833,5.2699508
+490984363,way,,ruins,Dijon,,,,47.6186915,4.9185276
+496636967,way,,garden,Dijon,,,,47.3186561,4.9076858
+498387662,way,Rouissoir,ruins,Dijon,,,,47.5957216,4.9988933
+498387663,way,Rouissoir,ruins,Dijon,,,,47.5957013,4.9988108
+498387664,way,Rouissoir,ruins,Dijon,,,,47.5956809,4.9987296
+498387665,way,Rouissoir,ruins,Dijon,,,,47.5956616,4.9986483
+501426580,way,,park,Dijon,,,,47.3433079,5.0529341
+501426608,way,,park,Dijon,,,,47.3441585,5.0510783
+503843320,way,Jardin des Saules,park,Dijon,,,,47.3507422,5.0491737
+524313157,way,Parc de la Toison d'Or,zoo,Dijon,,,,47.3555291,5.0563618
+525872848,way,,park,Dijon,,,,47.3332906,5.0636365
+525872849,way,Square d'Arsonval,park,Dijon,,,,47.3298068,5.0619156
+539228913,way,Monument à la République Fraternelle des Peuples,artwork,Dijon,,,,47.3266515,5.0449604
+540992691,way,,park,Dijon,,,,47.3204834,5.0687409
+543106992,way,,park,Dijon,,,,47.3259831,5.0656903
+543665746,way,Parc Hyacinthe Vincent,park,Dijon,,,,47.3257438,5.0715513
+544819199,way,,park,Dijon,,,,47.3170999,5.0425446
+545056202,way,Roseraie,garden,Dijon,,,,47.3221851,5.0272187
+556903596,way,Les Jardins de Barbirey,garden,Dijon,,,,47.2524564,4.7542407
+560170953,way,,beach,Dijon,,,,47.3140884,4.6056662
+578916561,way,,garden,Dijon,,,,47.2669977,5.4507731
+584460805,way,Square de la Paix,park,Dijon,,,,47.3339572,5.0802919
+598384895,way,Roseraie,garden,Dijon,,,,47.3271199,4.7880289
+598384896,way,Jardin potager,garden,Dijon,,,,47.3271694,4.7878003
+598384898,way,Jardin potager,garden,Dijon,,,,47.3269568,4.788253
+614305012,way,,park,Dijon,,,,47.5211118,5.1139285
+615272977,way,La Colline aux Courges,garden,Dijon,,,,47.3222415,5.0197686
+616095925,way,,park,Dijon,,,,47.2906113,5.1304723
+617710734,way,Château de Grancey,attraction,Dijon,,,,47.6669965,5.0261109
+620738527,way,Place de l'Espoir,park,Dijon,,,,47.2459061,5.2285226
+644902513,way,Parc à daims,park,Dijon,,,,47.3156355,4.9582135
+646804387,way,,park,Dijon,,,,47.3196155,5.053316
+651655576,way,,garden,Dijon,,,,47.2859924,5.0695874
+655143025,way,,park,Dijon,,,,47.2838067,5.0653102
+658684703,way,Piste Municipale d'Éducation Routière,park,Dijon,,,,47.30634,5.0285291
+658953201,way,,garden,Dijon,,,,47.4977611,4.7614513
+660120308,way,Square Samuel Paty,park,Dijon,,,,47.3243218,5.048972
+662688888,way,,park,Dijon,,,,47.294787,5.0578447
+665908675,way,A la bonne heure,restaurant,Dijon,"Rue des Prés Potets, 21121, Fontaine-lès-Dijon",21121,http://restaurants.casino-restauration.fr/casino_restauration/bourgogne-franche-comte/cote-d-or/fontaine-les-dijon/DV144-ALBH/fontaine-les-dijon,47.3565945,5.0339017
+666415628,way,,park,Dijon,,,,47.307506,5.0795174
+666417915,way,,park,Dijon,,,,47.3085289,5.0790441
+666418451,way,,garden,Dijon,,,,47.3067341,5.0813222
+672358528,way,Grand Buffet,restaurant,Dijon,"169 Avenue Roland Carraz, 21300, Chenôve",21300,,47.2831973,5.0103108
+672618710,way,,park,Dijon,,,,47.2864878,5.0612416
+681599021,way,,park,Dijon,,,,47.2894529,5.0614167
+682057543,way,,park,Dijon,,,,47.2901754,5.0608324
+682057665,way,,park,Dijon,,,,47.2900268,5.0600486
+682058383,way,,park,Dijon,,,,47.2889579,5.062596
+682059370,way,,park,Dijon,,,,47.2885529,5.0621624
+682197203,way,,park,Dijon,,,,47.2890482,5.0638635
+682197204,way,,park,Dijon,,,,47.2893405,5.0647263
+682197611,way,,park,Dijon,,,,47.2885094,5.0642428
+682198417,way,,park,Dijon,,,,47.2903044,5.0640502
+710634193,way,Esplanade de Corcelles,park,Dijon,,,,47.3115653,5.0010502
+710635424,way,Square du Coteau de Giron,park,Dijon,,,,47.3099279,4.9930808
+710638492,way,Promenade de la Fontaine Sainte-Anne,park,Dijon,,,,47.3067379,4.9975898
+710645511,way,Parc de la Combe Saint-Joseph,park,Dijon,,,,47.3055927,4.9898983
+710681826,way,Parc de la Combe Persil,park,Dijon,,,,47.3105795,4.9936613
+710711851,way,,park,Dijon,,,,47.3340838,5.0860701
+710719552,way,Promenade du Bief de l'Ouche,park,Dijon,,,,47.3121586,5.0311665
+713743304,way,Square Gustave Eiffel,park,Dijon,,,,47.3166755,5.0265252
+713956934,way,,park,Dijon,,,,47.3416536,5.0550018
+714386531,way,Clos de l'Église,park,Dijon,,,,47.3908919,4.9410292
+714868944,way,,park,Dijon,,,,47.3143325,5.0315566
+715061191,way,Obélisque,monument,Dijon,,,,47.3149997,5.0281989
+715161568,way,,park,Dijon,,,,47.2936993,4.939087
+715313742,way,Square Colette,park,Dijon,,,,47.3213417,5.0456604
+717309097,way,Cours Junot,park,Dijon,,,,47.3376421,5.0463036
+722921564,way,,park,Dijon,,,,47.3360262,5.0086462
+733093748,way,Mail des Lochères,park,Dijon,,,,47.3305995,5.0668316
+733906766,way,Parc de la Motte-Giron,park,Dijon,,,,47.3134999,4.9821941
+740818570,way,Promenade Toussaint Louverture,park,Dijon,,,,47.3332678,5.0694687
+747987114,way,,park,Dijon,,,,47.3313067,5.0193551
+751829644,way,,park,Dijon,,,,47.3841618,5.113224
+752942287,way,,park,Dijon,,,,47.3974302,5.1013463
+753474959,way,,park,Dijon,,,,47.3906681,4.9421077
+753477240,way,,park,Dijon,,,,47.3898586,4.939552
+760935845,way,,park,Dijon,,,,47.6687064,5.0261159
+761552830,way,,park,Dijon,,,,47.4933332,5.211113
+762422627,way,,memorial,Dijon,,,,47.5337891,5.2292373
+762428143,way,Monument aux morts,memorial,Dijon,,,,47.5869031,5.1852454
+762683126,way,Monument,memorial,Dijon,,,,47.6517813,5.0048351
+765190679,way,Air de repos,park,Dijon,,,,47.5870699,5.2116278
+765190682,way,,park,Dijon,,,,47.5861279,5.212039
+765190683,way,,park,Dijon,,,,47.5856329,5.2088114
+769448229,way,,garden,Dijon,,,,47.5109912,5.123556
+770050677,way,Square Renan,park,Dijon,,,,47.3443056,5.0464849
+770817717,way,,park,Dijon,,,,47.3372762,5.0558817
+770817718,way,,park,Dijon,,,,47.3386249,5.0557501
+772641286,way,,park,Dijon,,,,47.2866672,5.0641507
+772654428,way,,park,Dijon,,,,47.3045009,5.0621249
+772656610,way,,park,Dijon,,,,47.3021291,5.0665224
+773699966,way,,park,Dijon,,,,47.2962389,5.0494671
+773701119,way,,park,Dijon,,,,47.2967633,5.0502228
+773701120,way,,park,Dijon,,,,47.2970715,5.050325
+773833368,way,,park,Dijon,,,,47.3825389,5.3273203
+773857461,way,Fontaine Henri IV,memorial,Dijon,,,,47.5279563,5.3878948
+775769029,way,,park,Dijon,,,,47.5271824,5.3680793
+776523831,way,,park,Dijon,,,,47.1945122,5.3954707
+776603565,way,,park,Dijon,,,,47.2087343,5.347104
+784577268,way,,park,Dijon,,,,47.2951158,4.9385829
+786591006,way,Salle polyvalante,park,Dijon,,,,47.5138431,5.1342755
+799473393,way,,park,Dijon,,,,47.340848,4.9929837
+816785911,way,Jardin de Sainte-Anne,park,Dijon,"21000, Dijon",21000,,47.3173158,5.0380043
+816785914,way,Jardin des Carmélites,park,Dijon,,,,47.3185738,5.0389181
+840695715,way,parc du haut de Belleneuve,park,Dijon,"rue des sports, 21310, Belleneuve",21310,,47.3689432,5.2672485
+841410190,way,,beach,Dijon,,,,47.18838,5.2441552
+841410215,way,,park,Dijon,,,,47.185562,5.2404965
+841494623,way,,park,Dijon,,,,47.36445,5.2646194
+841494624,way,,park,Dijon,,,,47.3652194,5.2643601
+841494626,way,,park,Dijon,,,,47.3620826,5.2649532
+841494627,way,,park,Dijon,,,,47.3617471,5.2650449
+841494628,way,,park,Dijon,,,,47.3694888,5.2694912
+841933303,way,,park,Dijon,,,,47.3589044,5.2678673
+842173092,way,,park,Dijon,,,,47.3569785,5.2653923
+846208570,way,Jardin de la Banque de France,park,Dijon,,,,47.3246696,5.0394871
+851401114,way,,garden,Dijon,,,,47.4983479,5.4038578
+881019289,way,Promenade du Mail,park,Dijon,,,,47.301417,5.0135463
+881021923,way,,park,Dijon,,,,47.3142625,5.0297639
+893169504,way,Promenade du Clair Bois,park,Dijon,,,,47.3049877,5.1828221
+895488760,way,,park,Dijon,,,,47.319,4.908614
+896972755,way,Les Allées du Château,park,Dijon,,,,47.3047696,5.1321189
+904079616,way,,park,Dijon,,,,47.5253206,5.3681574
+904079618,way,,park,Dijon,,,,47.524767,5.3679225
+907156618,way,Parc de la Maison de Marsannay,park,Dijon,,,,47.2792147,4.99401
+910947325,way,,park,Dijon,,,,47.3117075,4.85961
+913071444,way,Jardin public de la Cure et du Vivier,park,Dijon,,,,47.3981766,5.3169453
+913125721,way,,garden,Dijon,,,,47.3043183,5.1359801
+913125722,way,,garden,Dijon,,,,47.3041911,5.135941
+913125723,way,,garden,Dijon,,,,47.3042333,5.1365978
+913125724,way,,garden,Dijon,,,,47.3041046,5.1365603
+913125725,way,,park,Dijon,,,,47.304222,5.13614
+922218621,way,,park,Dijon,,,,47.336315,5.1459919
+922221204,way,,park,Dijon,,,,47.3392396,5.1522711
+925706602,way,,park,Dijon,,,,47.3076029,5.0447552
+932707641,way,,park,Dijon,,,,47.2880729,5.0605995
+932716069,way,,park,Dijon,,,,47.309513,5.0272269
+948482254,way,Cours Paul Morelon,park,Dijon,,,,47.348792,5.0234068
+948788269,way,Promenades de Pouilly,park,Dijon,,,,47.3480246,5.0530204
+952731881,way,,park,Dijon,,,,47.3480075,5.0310622
+955368859,way,Square du Père de Foucauld,park,Dijon,,,,47.309872,5.0019191
+960736032,way,,garden,Dijon,,,,47.461204,5.3600237
+960736033,way,,garden,Dijon,,,,47.4616702,5.3603743
+960736034,way,,garden,Dijon,,,,47.461602,5.3613763
+960736037,way,,garden,Dijon,,,,47.4630827,5.3612031
+960736052,way,,garden,Dijon,,,,47.4603728,5.3645993
+964200290,way,,garden,Dijon,,,,47.2677965,4.995366
+971703972,way,,garden,Dijon,,,,47.3136061,5.1047288
+974224533,way,,garden,Dijon,,,,47.5276324,5.2353268
+974224550,way,,garden,Dijon,,,,47.5306001,5.2292918
+974224563,way,,garden,Dijon,,,,47.5303732,5.2335436
+974224566,way,,garden,Dijon,,,,47.5313971,5.233707
+974224568,way,,garden,Dijon,,,,47.5322703,5.2334895
+974333715,way,,garden,Dijon,,,,47.5617586,5.2692294
+974333718,way,,garden,Dijon,,,,47.5618671,5.273179
+979317376,way,Terrain de Jeux Allée de la Saône,park,Dijon,,,,47.3133407,5.0245952
+998578916,way,,garden,Dijon,,,,47.3510274,5.0297512
+1011828397,way,Square Docteur Jobard,park,Dijon,,,,47.5226422,5.1100381
+1012294770,way,Parc des Carrières,park,Dijon,,,,47.5122332,5.1060365
+1012374250,way,,park,Dijon,,,,47.2610553,5.2851849
+1013409513,way,Plateau de la Cour du Roy,park,Dijon,,,,47.3347488,5.003238
+1014090993,way,,park,Dijon,,,,47.5183349,5.1116209
+1017653415,way,Square Maryse Bastié,park,Dijon,,,,47.3008689,5.0601632
+1018356879,way,,park,Dijon,,,,47.3345612,5.0841809
+1020611622,way,,park,Dijon,,,,47.3000286,5.1207149
+1020654323,way,,park,Dijon,,,,47.2898017,5.1231675
+1020673644,way,,park,Dijon,,,,47.2953349,5.1242473
+1024874435,way,,garden,Dijon,,,,47.3364588,5.0616929
+1024874436,way,,garden,Dijon,,,,47.3366751,5.0621951
+1024874437,way,,garden,Dijon,,,,47.3366519,5.0623807
+1051560285,way,,park,Dijon,,,,47.312435,5.1259766
+1051810876,way,Place de Ronce Vitte,park,Dijon,,,,47.3129023,5.1201063
+1051947714,way,,park,Dijon,,,,47.3152803,5.1013795
+1053142165,way,,park,Dijon,,,,47.3700726,5.0812158
+1053142173,way,,park,Dijon,,,,47.367954,5.0775839
+1053463284,way,,park,Dijon,,,,47.3789999,5.0643863
+1053626111,way,,park,Dijon,,,,47.2624761,5.0443226
+1053646890,way,,park,Dijon,,,,47.258079,5.0467199
+1061157104,way,,park,Dijon,,,,47.3233297,4.7941456
+1061382769,way,Square du Chambertin,park,Dijon,,,,47.3146446,5.0144882
+1062738423,way,Promenade de la Redoute,park,Dijon,,,,47.3307638,5.0726427
+1074001949,way,,garden,Dijon,,,,47.3037265,5.1388371
+1074412913,way,,park,Dijon,,,,47.3013177,5.1323951
+1079080686,way,,beach,Dijon,,,,47.3097132,5.4253092
+1082004392,way,,garden,Dijon,,,,47.5759346,4.8060041
+1082232820,way,,park,Dijon,,,,47.3053501,5.0492884
+1096887175,way,La Cuisine expérientielle,restaurant,Dijon,,,,47.3174284,5.0295005
+1101199891,way,Jardin du 19 Mars 1962,park,Dijon,,,,47.3393878,5.0005377
+1101199892,way,Square des logis de Bourgogne,park,Dijon,,,,47.3400115,4.999296
+1116281558,way,,park,Dijon,,,,47.1545462,5.3793155
+1118908406,way,,garden,Dijon,,,,47.2311755,5.4543786
+1118908409,way,,garden,Dijon,,,,47.2337054,5.4513355
+1118908414,way,,garden,Dijon,,,,47.2295005,5.4388607
+1118908424,way,,garden,Dijon,,,,47.2281558,5.4440624
+1133920237,way,Holiday Inn Dijon Sud,hotel,Dijon,"3 Rue de Beauregard, 21600, Longvic",21600,https://www.ihg.com/holidayinn/hotels/fr/fr/longvic/dijon/hoteldetail,47.2721595,5.0464426
+1135288892,way,,park,Dijon,,,,47.3313441,5.0764132
+1135293374,way,,park,Dijon,,,,47.3360412,5.0792987
+1138463525,way,,park,Dijon,,,,47.2328824,5.2299159
+1138463531,way,,park,Dijon,,,,47.2397329,5.2294336
+1144541950,way,,park,Dijon,,,,47.2811906,5.0619374
+1151633156,way,Parc Jeanne Barret,park,Dijon,,,,47.344821,5.043309
+1159475821,way,Les Petits Jardiniers de Trochères,garden,Dijon,,,https://trocheres.com/category/les-petits-jardiniers/,47.3457718,5.3032958
+1161458688,way,,garden,Dijon,,,,47.2623126,4.771858
+1162245657,way,,park,Dijon,,,,47.2644027,4.7701686
+1162798717,way,,garden,Dijon,,,,47.1676446,5.1392045
+1163792182,way,,park,Dijon,,,,47.3416639,5.0436851
+1167332949,way,Place Laurent Poisneuf,memorial,Dijon,,,,47.3177109,5.0349273
+1170412261,way,Verger conservatoire de Quetigny,park,Dijon,,,,47.3180501,5.1041575
+1175726426,way,B&B Hotel Dijon Valmy Toison d'Or,hotel,Dijon,,,,47.3593142,5.0547709
+1177274963,way,,park,Dijon,,,,47.3410509,5.041717
+1177862531,way,,park,Dijon,,,,47.3527373,5.0585471
+1181067845,way,Parc des Eaux,park,Dijon,,,,47.2962103,5.1075606
+1181746091,way,,park,Dijon,,,,47.295372,5.1092245
+1181746092,way,,park,Dijon,,,,47.2946627,5.1079184
+1181746145,way,,park,Dijon,,,,47.2928294,5.108911
+1190180115,way,Jardin de l'Orangerie d'Arcelot,garden,Dijon,,,,47.3683044,5.1946017
+1211200588,way,,garden,Dijon,,,,47.4220669,4.7718076
+1211200608,way,,garden,Dijon,,,,47.4164045,4.7842469
+1211200609,way,,garden,Dijon,,,,47.4181732,4.7847055
+1211200647,way,,garden,Dijon,,,,47.4166642,4.7891678
+1211229776,way,,garden,Dijon,,,,47.4346588,4.7895335
+1218606000,way,,park,Dijon,,,,47.3660261,4.9949886
+1219375245,way,,park,Dijon,,,,47.2803818,4.9996295
+1219876558,way,Espace Schœlcher,park,Dijon,,,,47.2771136,5.1123863
+1224726694,way,,garden,Dijon,,,,47.5834593,5.1897605
+1224726695,way,,garden,Dijon,,,,47.5842272,5.1891077
+1224726696,way,,garden,Dijon,,,,47.5833957,5.1906779
+1224726731,way,,park,Dijon,,,,47.589362,5.1882459
+1224789588,way,,garden,Dijon,,,,47.6287061,5.206911
+1224789602,way,,garden,Dijon,,,,47.6282121,5.2098261
+1224789604,way,,garden,Dijon,,,,47.6278503,5.2101579
+1224794290,way,,park,Dijon,,,,47.5909151,5.1852098
+1227958113,way,,park,Dijon,,,,47.365759,5.0247618
+1243131514,way,,park,Dijon,,,,47.3985261,5.3246847
+1245491863,way,,garden,Dijon,,,,47.3032499,5.0585911
+1245491864,way,,garden,Dijon,,,,47.3022767,5.0566168
+1256632153,way,,park,Dijon,,,,47.3175916,5.0208584
+1259336833,way,Réserve Urbaine de Biodiversité du Suzon,park,Dijon,,,,47.3490389,5.0358814
+1272210576,way,,park,Dijon,,,,47.133921,5.334441
+1272563167,way,,park,Dijon,,,,47.2067885,5.2855427
+1274173760,way,Madeleine Tournamille,garden,Dijon,,,,47.329042,5.0251001
+1284687390,way,,beach,Dijon,,,,47.1782781,5.3003785
+1284687481,way,Square du 11 Novembre 1918,park,Dijon,,,,47.2414936,5.223015
+1300180694,way,,park,Dijon,,,,47.3377622,5.1510419
+1310191638,way,,park,Dijon,,,,47.1796045,5.3549837
+1346586553,way,,park,Dijon,,,,47.2138762,5.2530708
+1351238125,way,,park,Dijon,,,,47.2308479,5.2492867
+1364374602,way,,park,Dijon,,,,47.2603877,5.0747
+1364537333,way,Mémorial des fusillés,monument,Dijon,,,,47.3275735,5.0722285
+1381166426,way,Square Carrelet de Loisy,park,Dijon,,,,47.3202472,5.0447605
+1385559412,way,,park,Dijon,,,,47.2798449,5.1070963
+1387811362,way,,garden,Dijon,,,,47.3561501,5.4353158
+1387811363,way,,garden,Dijon,,,,47.3560523,5.4351229
+1387811364,way,,garden,Dijon,,,,47.3560114,5.4354655
+1387811365,way,,garden,Dijon,,,,47.3559137,5.4352736
+1387811368,way,,garden,Dijon,,,,47.355924,5.434984
+1387811369,way,,garden,Dijon,,,,47.3558299,5.4350913
+1387811370,way,,garden,Dijon,,,,47.3557449,5.4347559
+1387811371,way,,garden,Dijon,,,,47.3558628,5.434003
+1387811372,way,,garden,Dijon,,,,47.3559446,5.4345517
+1387811373,way,,garden,Dijon,,,,47.3559736,5.4342034
+1387811374,way,,garden,Dijon,,,,47.3556696,5.4339916
+1387811375,way,,garden,Dijon,,,,47.3554337,5.4341672
+1387811376,way,,garden,Dijon,,,,47.3554563,5.4345345
+1387811377,way,,garden,Dijon,,,,47.3555608,5.4347582
+1387811378,way,,garden,Dijon,,,,47.3553842,5.4349539
+1387811379,way,,garden,Dijon,,,,47.3553603,5.4352768
+1387811380,way,,garden,Dijon,,,,47.3551056,5.4352477
+1387811381,way,,garden,Dijon,,,,47.3549914,5.4350538
+1387811382,way,,garden,Dijon,,,,47.3549599,5.4346386
+1387811383,way,,garden,Dijon,,,,47.3552853,5.4346821
+1387811384,way,,garden,Dijon,,,,47.3567453,5.4347827
+1387811385,way,,garden,Dijon,,,,47.3565652,5.4344273
+1387811386,way,,garden,Dijon,,,,47.356983,5.4340225
+1387811387,way,,garden,Dijon,,,,47.3571194,5.4343392
+1413563983,way,,park,Dijon,,,,47.2766315,5.1093768
+1416523264,way,Jardin de l’hôtel de Vogüé,park,Dijon,,,,47.3230247,5.0423885
+1417757234,way,,garden,Dijon,,,,47.2914774,4.9991446
+1417757235,way,,garden,Dijon,,,,47.2913984,4.9991142
+1417757236,way,,garden,Dijon,,,,47.2913157,4.9990814
+1417757237,way,Oies,attraction,Dijon,,,,47.2915113,4.9992792
+1417757238,way,,garden,Dijon,,,,47.2913027,4.9989834
+1417757239,way,,garden,Dijon,,,,47.2913079,4.9989588
+1417757240,way,,garden,Dijon,,,,47.2913231,4.9989719
+1417757241,way,,garden,Dijon,,,,47.2913511,4.9990014
+1417757242,way,,garden,Dijon,,,,47.2913663,4.9990143
+1417757243,way,,garden,Dijon,,,,47.2913717,4.9989902
+1417757244,way,,garden,Dijon,,,,47.2913867,4.9990029
+1417757245,way,,garden,Dijon,,,,47.2914176,4.999009
+1417757246,way,,garden,Dijon,,,,47.2914325,4.9990213
+1417757247,way,,garden,Dijon,,,,47.2914275,4.9990455
+1417757248,way,Cochons et chèvres,attraction,Dijon,,,,47.2912575,4.9992241
+1417757251,way,Paons,attraction,Dijon,,,,47.2915421,4.9997344
+1417757252,way,Vache,attraction,Dijon,,,,47.2912618,4.999773
+1417757254,way,Âne,attraction,Dijon,,,,47.2919337,4.9985384
+1424119536,way,Jardin de la cure,garden,Dijon,,,,47.4697113,5.269333
+1424610309,way,,garden,Dijon,,,,47.4104033,5.1336579
+1426629075,way,Place du Champ de Foire,park,Dijon,,,,47.2419821,5.1405465
+1426629076,way,,park,Dijon,,,,47.241187,5.1398126
+1426634094,way,,park,Dijon,,,,47.2410491,5.1458388
+1490200432,way,,garden,Dijon,,,,47.375608,4.9054212
+1495415085,way,Le Titulaire,restaurant,Dijon,"Rue des Champs Guerets, 21440, Saint Martin du Mont",21440,https://www.facebook.com/profile.php?id=61571911026796,47.4339406,4.8088306
+1501195818,way,,garden,Dijon,,,,47.3257348,4.8177651
+1515460974,way,Square Mirande,park,Dijon,,,,47.3189827,5.0498439
+1526864928,way,La Casa di Papa,restaurant,Dijon,,,,47.2194065,5.1320894
+2123664,relation,Château des Evêques,castle,Dijon,,,,47.3386091,4.9727705
+2345676,relation,Palais des Ducs et États de Bourgogne,castle,Dijon,,,,47.3217741,5.0415636
+4617954,relation,Hôtel balladins Dijon/Marsannay,hotel,Dijon,"84 Route de Beaune, 21160, Marsannay-la-Côte",21160,https://www.balladins.com/fr/mon-hotel/dijon-marsannay/,47.2691287,4.9998388
+6398764,relation,Campanile,hotel,Dijon,,,,47.280702,5.0172135
+8735252,relation,Jardin botanique,garden,Dijon,,,,47.3213942,5.0278538
+9774529,relation,,park,Dijon,,,,47.3330128,5.0450398
+11714222,relation,Château de Mâlain,castle,Dijon,,,,47.3270842,4.7880957
+13756255,relation,Éthic Étapes Dijon - CRI,hotel,Dijon,"1 Avenue Champollion, 21000, Dijon",21000,https://www.cri-dijon.com/,47.3364528,5.0616729
+17355446,relation,Château d'Auxonne,castle,Dijon,,,,47.191634,5.3830751
+19146921,relation,,garden,Dijon,,,,47.3569233,5.4345931
+19146922,relation,,garden,Dijon,,,,47.3567503,5.4342394
+20775242,relation,Porte des allées du parc,monument,Dijon,,,,47.3153956,5.0433058

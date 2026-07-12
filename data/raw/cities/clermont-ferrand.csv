@@ -1,12 +1,27 @@
 osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+282195588,node,,viewpoint,Clermont-Ferrand,,,,45.7723459,2.9652078
 583258230,node,Ma plus belle histoire,restaurant,Clermont-Ferrand,,,,45.7728065,3.2385492
+593828212,node,Tour de Neuville,ruins,Clermont-Ferrand,,,,45.7471926,3.4410677
 664656102,node,L'Estredelle,hotel,Clermont-Ferrand,,,,45.797509,3.2572522
 664656132,node,Auberge du Pont,restaurant,Clermont-Ferrand,,,https://auberge-du-pont.com/,45.797417,3.2582625
 806581945,node,Délices wok,restaurant,Clermont-Ferrand,,,,45.7796274,3.1403709
 813524162,node,Le Mozart,restaurant,Clermont-Ferrand,,,,45.7808158,3.0756867
 813668311,node,L'Initial,restaurant,Clermont-Ferrand,,,,45.7808466,3.0822215
+814697285,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7771857,3.0893955
+814697892,node,,artwork,Clermont-Ferrand,,,https://www.mifamosa.fr/clermont-ferrand/,45.7774181,3.0870144
+814703581,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7784206,3.0872549
+815120974,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.777106,3.0860983
 815129327,node,Holiday Inn,hotel,Clermont-Ferrand,,,,45.7703973,3.0864998
 815133265,node,La Fée Maison,restaurant,Clermont-Ferrand,,,,45.7776921,3.0836962
+821638569,node,,memorial,Clermont-Ferrand,,,,45.8501653,3.0848303
+821642274,node,Calvaire,memorial,Clermont-Ferrand,,,,45.849962,3.0859752
+842588441,node,,viewpoint,Clermont-Ferrand,,,,45.6736406,3.1063923
+860790324,node,,memorial,Clermont-Ferrand,,,,45.7178462,3.116725
+860800846,node,,viewpoint,Clermont-Ferrand,,,,45.7199178,3.1268406
+873803844,node,,viewpoint,Clermont-Ferrand,,,,45.7534653,3.1956468
+964776905,node,,viewpoint,Clermont-Ferrand,,,,45.8329963,3.0732309
+965239974,node,Puy de Chanturgue,viewpoint,Clermont-Ferrand,,,,45.8003405,3.0938897
+996558651,node,,viewpoint,Clermont-Ferrand,,,,45.8456838,3.0859027
 1119207215,node,Le Vésuve,restaurant,Clermont-Ferrand,,,,45.7852755,3.0857498
 1119207221,node,Le Bouchon de Jaude,restaurant,Clermont-Ferrand,,,,45.7777523,3.0811041
 1119207224,node,Le Puy de la Lune,restaurant,Clermont-Ferrand,,,,45.7801057,3.081458
@@ -16,27 +31,50 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1119207265,node,La Tente Berbère,restaurant,Clermont-Ferrand,,,,45.7817997,3.0949571
 1119207288,node,Le Boeuf Café,restaurant,Clermont-Ferrand,,,,45.7778472,3.0838312
 1119207292,node,La Régalade,restaurant,Clermont-Ferrand,,,,45.7777599,3.0826718
+1222036838,node,,memorial,Clermont-Ferrand,,,,45.7807344,3.0859726
 1257580864,node,Lou Tassou,hotel,Clermont-Ferrand,"14 Place des Ramacles, 63170, Aubière",63170,,45.7497371,3.1114208
 1257580865,node,Délice Kébab,restaurant,Clermont-Ferrand,13 Place de la Libération,,,45.7508048,3.1113877
 1257580883,node,Les Ramacles,restaurant,Clermont-Ferrand,,,,45.7498865,3.1120906
 1270846046,node,Le Choucas,restaurant,Clermont-Ferrand,,,,45.7825944,3.093321
+1354685536,node,,viewpoint,Clermont-Ferrand,,,,45.7526256,3.0499076
 1400276622,node,Ibis Budget,hotel,Clermont-Ferrand,"3 Boulevard Ambroise Brugière, 63100, Clermont-Ferrand",63100,https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=5651&merchantid=seo-maps-FR-5651&sourceid=aw-cen&utm_medium=seo+maps&utm_source=google+Maps&utm_campaign=seo+maps&y_source=1_MTUzNjA0NzItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D,45.7917839,3.1186781
 1400276624,node,Ibis Montferrand,hotel,Clermont-Ferrand,"3 Boulevard Ambroise Brugière, 63100, Clermont-Ferrand",63100,https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=0929&merchantid=seo-maps-FR-0929&sourceid=aw-cen&utm_medium=seo+maps&utm_source=google+Maps&utm_campaign=seo+maps&y_source=1_MTUzNTk1NDctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D,45.791739,3.118426
+1407221482,node,Château de Chadieu,castle,Clermont-Ferrand,,,,45.6413909,3.2063948
 1453606199,node,L'Odevie,restaurant,Clermont-Ferrand,,,,45.7735784,3.0812953
 1587067572,node,À la bonne heure,restaurant,Clermont-Ferrand,,,,45.7710323,3.081031
 1686317176,node,La Cigale,restaurant,Clermont-Ferrand,,,,45.7758003,3.0664192
 1701011062,node,Piazza Italia,restaurant,Clermont-Ferrand,,,,45.7748083,3.0842753
 1704102478,node,La Calèche,hotel,Clermont-Ferrand,,,,45.7333083,3.0640865
+1724032959,node,Monument aux Morts,memorial,Clermont-Ferrand,,,,45.7443767,3.0585897
+1741271769,node,,viewpoint,Clermont-Ferrand,,,,45.7713623,2.9604149
+1741271771,node,,viewpoint,Clermont-Ferrand,,,,45.7716933,2.9628805
+1741271781,node,,viewpoint,Clermont-Ferrand,,,,45.7717426,2.9611086
 1785497750,node,Chez Lisette,restaurant,Clermont-Ferrand,,,,45.8292614,3.0773348
 1785654452,node,Le Vigosche,restaurant,Clermont-Ferrand,,,,45.8501465,3.0864051
+1785947970,node,,viewpoint,Clermont-Ferrand,,,,45.8547077,3.089975
 1786504960,node,Café Ballainvilliers,restaurant,Clermont-Ferrand,,,,45.7754417,3.0866066
 1786516073,node,Konnichiwa,restaurant,Clermont-Ferrand,,,,45.7755954,3.0863356
 1786532933,node,Hôtel le Lion,hotel,Clermont-Ferrand,,,,45.7768387,3.0814391
 1786573396,node,,restaurant,Clermont-Ferrand,,,,45.7750076,3.0827655
 1787299844,node,Brasserie Berthelot,restaurant,Clermont-Ferrand,,,,45.7801517,3.0724678
+1787308468,node,Memorial de la résistance,memorial,Clermont-Ferrand,,,,45.7797802,3.069648
 1788234884,node,Brasserie Madeleine,restaurant,Clermont-Ferrand,"3 Place de la Victoire, 63000, Clermont-Ferrand",63000,https://www.brasseriemadeleine-clermont.fr/,45.7781307,3.08617
 1788389053,node,La Grange,restaurant,Clermont-Ferrand,,,,45.8315198,3.1057131
+1809880586,node,Monument aux Morts,memorial,Clermont-Ferrand,,,,45.7790608,3.064716
+1811258028,node,,memorial,Clermont-Ferrand,,,,45.7761744,3.0729479
+1813887682,node,Jardin méditerranéen,garden,Clermont-Ferrand,,,,45.7883155,3.0717361
+1819061009,node,Buste d'Alexandre Varenne,artwork,Clermont-Ferrand,,,,45.7768603,3.077554
+1820472743,node,,memorial,Clermont-Ferrand,,,,45.7795221,3.0924183
 1832055180,node,Domino's,restaurant,Clermont-Ferrand,,,,45.735588,3.1776138
+1834704880,node,Vue Panoramique du Plateau de Notre-Dame de Roche,viewpoint,Clermont-Ferrand,,,,45.6840808,3.3195309
+1834755778,node,Château de Saint-Cirgues,castle,Clermont-Ferrand,,,,45.7084428,3.3152287
+1836315335,node,Lassias,viewpoint,Clermont-Ferrand,,,,45.6848549,3.2943059
+1836316741,node,,viewpoint,Clermont-Ferrand,,,,45.6577307,3.2876648
+1836573035,node,Mémorial des 20 résistants fusillés par les allemands le 20.12.1943,memorial,Clermont-Ferrand,,,,45.7854883,3.1076559
+1844042055,node,Symposium de sculpture monumentale (1996-1997),monument,Clermont-Ferrand,,,,45.7656889,3.1154155
+1846127838,node,Monument aux Morts 1939-1945,memorial,Clermont-Ferrand,,,,45.7662356,3.0950452
+1861880354,node,Champs des Martyres,memorial,Clermont-Ferrand,,,,45.7826038,3.0376152
+1894998512,node,Le Cornonet,viewpoint,Clermont-Ferrand,,,,45.7348953,3.1982716
 1912697804,node,La table de Fred,restaurant,Clermont-Ferrand,,,,45.7927789,3.1132675
 1932121673,node,Le Den's,restaurant,Clermont-Ferrand,,,,45.7806945,3.0772926
 1933808653,node,Tarterie de Venise,restaurant,Clermont-Ferrand,9 Rue de l'Hôtel de Ville,,https://tarteriedevenise.com/beaumont.php,45.7534128,3.0864809
@@ -47,22 +85,41 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2086025567,node,L'Ostal,restaurant,Clermont-Ferrand,,,https://www.lostal-restaurant.fr/,45.7810079,3.0879869
 2110930360,node,Inckliné,restaurant,Clermont-Ferrand,,,,45.7761291,3.0850763
 2110936872,node,Bougnat Burger,restaurant,Clermont-Ferrand,10 Boulevard Léon Malfreyt,,https://www.bougnatburger.fr/,45.7739156,3.085635
+2195105278,node,Monument aux morts,memorial,Clermont-Ferrand,,,,45.7611965,3.0486909
 2249213892,node,Radisson,hotel,Clermont-Ferrand,,,,45.7694201,3.0834
+2249337451,node,Table d'orientation,viewpoint,Clermont-Ferrand,,,,45.668111,3.0833741
 2294772351,node,Espace Volcan,hotel,Clermont-Ferrand,"Route du Col de la Moreno, 63122, Laschamps",63122,http://www.espacevolcan.fr/,45.7399751,2.9641354
 2294772361,node,Le G.R.,restaurant,Clermont-Ferrand,"63122, Laschamps",63122,,45.7405267,2.9659161
+2297677357,node,Château de Saint-Saturnin,castle,Clermont-Ferrand,,,,45.6586489,3.0926661
+2302497576,node,Montagne de la Serre,viewpoint,Clermont-Ferrand,,,,45.6682229,3.0834548
+2302497577,node,,viewpoint,Clermont-Ferrand,,,,45.6612407,3.0946579
+2303441054,node,,viewpoint,Clermont-Ferrand,,,,45.6492537,3.0650381
+2319467710,node,,viewpoint,Clermont-Ferrand,,,,45.6627447,2.9913459
+2328101290,node,Vue de la Vallée de la Monne,viewpoint,Clermont-Ferrand,,,,45.6530636,3.1060717
+2328101482,node,Vue de la Vallée de la Monne 2,viewpoint,Clermont-Ferrand,,,,45.6525987,3.1037114
 2329265429,node,Bistrot A Table,restaurant,Clermont-Ferrand,,,,45.7871057,3.1059792
 2329265432,node,Courtepaille,restaurant,Clermont-Ferrand,"3 Boulevard Ambroise Brugière, 63100, Clermont-Ferrand",63100,https://restaurants.courtepaille.com/restaurant-courtepaille-clermont-ferrand-montferrand-id370,45.7918486,3.1182848
 2329352934,node,La table d'Andrea,restaurant,Clermont-Ferrand,,,,45.7843766,3.1239268
+2330374285,node,"Liauzun, ancienne léproserie",ruins,Clermont-Ferrand,,,,45.637185,3.0704018
 2351927720,node,Le resto d'Épicure,restaurant,Clermont-Ferrand,,,,45.7703426,2.9627062
+2387189159,node,Vélorail des Volcans,attraction,Clermont-Ferrand,,,https://www.ecoloisirs.fr/nos-sites/velorail-des-volcans,45.7492698,3.3292371
 2403957323,node,Les arcandiers,restaurant,Clermont-Ferrand,,,,45.7784111,3.0871865
+2440611756,node,,memorial,Clermont-Ferrand,,,,45.729886,3.2279504
 2453811592,node,Il Visconti,restaurant,Clermont-Ferrand,"9 Rue du Terrail, 63000",63000,https://www.ilvisconti.com/,45.7785011,3.0871633
 2487635216,node,Le Marmotel,hotel,Clermont-Ferrand,"18 Boulevard Winston Churchill, 63000, Clermond-Ferrand",63000,,45.7611809,3.0950256
+2493175211,node,Fontaine Wallace,artwork,Clermont-Ferrand,,,,45.777852,3.0822522
+2505279804,node,,viewpoint,Clermont-Ferrand,,,,45.7824023,3.0426438
+2508081006,node,Esplanade du 8 Mai 1945,memorial,Clermont-Ferrand,,,,45.75304,3.088511
+2522475429,node,Statue du pape Urbain II,memorial,Clermont-Ferrand,,,,45.7780268,3.0858004
 2523286799,node,Hôtel Océania,hotel,Clermont-Ferrand,"82 Boulevard François Mitterrand, 63000",63000,https://www.oceaniahotels.com/oceania-clermont-ferrand,45.7717857,3.083681
+2523309000,node,Statue de Neptune,artwork,Clermont-Ferrand,,,,45.7762742,3.0837938
 2523324970,node,Bambochella,restaurant,Clermont-Ferrand,"9 Boulevard Léon Malfreyt, 63000, Clermont-Ferrand",63000,https://www.labambochella.fr/,45.7736172,3.0856506
+2523334510,node,,artwork,Clermont-Ferrand,,,,45.7772442,3.0835829
 2523341807,node,Hôtel Régina,hotel,Clermont-Ferrand,,,,45.7754641,3.0791775
 2523342189,node,Zorzi,restaurant,Clermont-Ferrand,,,,45.7738382,3.0798271
 2523354169,node,Honoré,restaurant,Clermont-Ferrand,,,,45.7785662,3.0865005
 2523367180,node,Pizza Tino,restaurant,Clermont-Ferrand,,,,45.7759304,3.0817059
+2523525675,node,,memorial,Clermont-Ferrand,,,,45.7483982,3.3592087
 2523953426,node,Envie,restaurant,Clermont-Ferrand,,,,45.7778666,3.0828402
 2523958040,node,Hôtel Le Saint-Joseph,hotel,Clermont-Ferrand,,,,45.7788851,3.0944466
 2524422774,node,Larderia,restaurant,Clermont-Ferrand,Rue des Chaussetiers,,,45.7783109,3.0840308
@@ -81,38 +138,73 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 2528697208,node,n°3,restaurant,Clermont-Ferrand,,,,45.7739192,3.0846731
 2622046572,node,Au BDV,restaurant,Clermont-Ferrand,,,,45.7753595,3.0873247
 2760886767,node,B2K6,restaurant,Clermont-Ferrand,6 Rue du Caire,,,45.7695191,3.1970576
+2765145851,node,Deux Chevaux,artwork,Clermont-Ferrand,,,,45.7745753,3.1791179
 2823201826,node,Okinawa,restaurant,Clermont-Ferrand,,,,45.7804851,3.0819386
+2898962176,node,Statue de Blaise Pascal,artwork,Clermont-Ferrand,,,,45.7803376,3.084671
 2898962186,node,O'Ramen,restaurant,Clermont-Ferrand,"16 Rue Saint-Adjutor, 63000",63000,https://oramen63.fr/,45.7789596,3.0804464
 2900715040,node,La Grange africaine,restaurant,Clermont-Ferrand,,,,45.7795643,3.0849707
+2930747621,node,Tour de Layat,ruins,Clermont-Ferrand,,,,45.7808633,3.0864883
 2930747643,node,Kitchen et compagnie,restaurant,Clermont-Ferrand,,,,45.778415,3.0831709
+2935097658,node,,viewpoint,Clermont-Ferrand,,,,45.7171385,3.3871801
+2939279661,node,,ruins,Clermont-Ferrand,,,,45.661387,3.18773
+2939280401,node,,ruins,Clermont-Ferrand,,,,45.661327,3.187644
 2940670756,node,Auberge de la Fontaine du Berger,restaurant,Clermont-Ferrand,,,https://www.auberge.fr/,45.7997277,2.9919099
+2978798668,node,,memorial,Clermont-Ferrand,,,,45.6826632,3.1848594
+3009302871,node,Belvédère de la basilique,viewpoint,Clermont-Ferrand,,,,45.7806526,3.0900763
+3014581877,node,,artwork,Clermont-Ferrand,,,,45.7199913,3.0177843
+3014581885,node,,memorial,Clermont-Ferrand,,,,45.7203406,3.0184951
 3039620687,node,Le P'tit Nice,restaurant,Clermont-Ferrand,"2 Rue de la Châtaigneraie, 63110, Beaumont",63110,,45.7499281,3.0791016
 3099983193,node,Le Couvige Rallye,restaurant,Clermont-Ferrand,,,,45.7824061,3.0959131
 3102206417,node,La maison Raviolis,restaurant,Clermont-Ferrand,,,https://www.lamaisonraviolis.fr/,45.7687031,3.0785234
 3106414805,node,Le 24,restaurant,Clermont-Ferrand,,,,45.7753687,3.0862829
+3145152270,node,Rocher du Salut,viewpoint,Clermont-Ferrand,,,,45.7578631,3.0360354
+3244596040,node,Château de la Prade,castle,Clermont-Ferrand,,,,45.8275108,3.108206
+3280997054,node,,artwork,Clermont-Ferrand,,,,45.830324,3.0977963
+3281656241,node,,artwork,Clermont-Ferrand,,,,45.8307924,3.0932877
 3285515023,node,El Gaucho,restaurant,Clermont-Ferrand,,,,45.7334462,3.1809001
 3286259823,node,Adagio Access Clermont-Ferrand Carré Jaude,hotel,Clermont-Ferrand,,,,45.7743305,3.080506
 3286558644,node,Le Pescalune,restaurant,Clermont-Ferrand,"19 Rue Jean Jaurès, 63170, Pérignat-lès-Sarliève",63170,https://www.lepescalune.com/,45.7357534,3.1403368
+3299066675,node,Plateau de Gergovie,viewpoint,Clermont-Ferrand,,,,45.7190899,3.1233534
 3316884252,node,Gootu,restaurant,Clermont-Ferrand,63000,63000,https://www.gootu.fr/,45.7606066,3.1313667
+3324271392,node,Ancienne ferme,ruins,Clermont-Ferrand,,,,45.7818967,3.146826
 3350448712,node,L'Instantané,restaurant,Clermont-Ferrand,,,,45.7773962,3.086932
+3384421021,node,,viewpoint,Clermont-Ferrand,,,,45.6305867,3.427071
 3387550898,node,Le Santooka,restaurant,Clermont-Ferrand,,,,45.7784429,3.0806272
 3434288854,node,Ayanami Sushi,restaurant,Clermont-Ferrand,,,,45.7684588,3.1241251
 3434329331,node,Au Petit Chabichou,restaurant,Clermont-Ferrand,,,,45.7677602,3.1295853
 3434381621,node,Restaurant hotel de la Gare,hotel,Clermont-Ferrand,,,https://www.hotel-de-la-gare-cournon.fr,45.7389199,3.1684338
 3434447040,node,Royal Cournon,restaurant,Clermont-Ferrand,,,,45.7503056,3.1602932
+3470927541,node,Boule Erratique,artwork,Clermont-Ferrand,,,,45.788306,3.0744236
+3489493649,node,,memorial,Clermont-Ferrand,,,,45.6841743,3.1909696
 3510346122,node,Kanka family 2,restaurant,Clermont-Ferrand,,,,45.7609204,3.1211566
+3523642905,node,,memorial,Clermont-Ferrand,,,,45.7221162,3.1855852
+3533653682,node,Salle Gaillard,gallery,Clermont-Ferrand,,,,45.7800559,3.0825884
+3534437912,node,,memorial,Clermont-Ferrand,,,,45.6706948,3.1296783
 3551141951,node,Le Prévert,restaurant,Clermont-Ferrand,,,,45.7799347,3.0709034
+3624058091,node,,memorial,Clermont-Ferrand,,,,45.6710678,3.2377149
+3624059318,node,,memorial,Clermont-Ferrand,,,,45.6711062,3.2376967
 3641970752,node,Le Volcan,restaurant,Clermont-Ferrand,,,,45.7594449,3.1441008
 3668563299,node,L'Auvergnat,restaurant,Clermont-Ferrand,,,,45.763586,3.1272113
 3700160299,node,La Chaumière,restaurant,Clermont-Ferrand,13 Avenue du Sancy,,,45.7140097,3.0701484
+3706131391,node,,viewpoint,Clermont-Ferrand,,,,45.7597206,3.0692915
+3756321454,node,,memorial,Clermont-Ferrand,,,,45.6690526,3.1094242
+3760529168,node,,viewpoint,Clermont-Ferrand,,,,45.7993671,3.096486
 3780981488,node,Volcan & CO,restaurant,Clermont-Ferrand,"60 Avenue de la Libération, 63000, Clermont-ferrand",63000,https://www.volcan-and-co.fr/,45.7653136,3.0826787
 3793335300,node,Campanile,hotel,Clermont-Ferrand,"120 Avenue de la République, 63100",63100,https://clermont-ferrand-centre.campanile.com/,45.7888667,3.1090771
 3794419175,node,The Oval,restaurant,Clermont-Ferrand,,,,45.788453,3.1071334
+3794522550,node,,viewpoint,Clermont-Ferrand,,,,45.8010302,3.0752165
+3818625360,node,,ruins,Clermont-Ferrand,,,,45.668131,3.0343584
 3825450131,node,Pizzeria Villa Regina,restaurant,Clermont-Ferrand,,,,45.7261755,3.0633308
 3832416648,node,Deux Gros,restaurant,Clermont-Ferrand,,,,45.7700855,3.0811976
 3834182322,node,Le Fiesta Grande,restaurant,Clermont-Ferrand,,,,45.7784684,3.0831291
+3837317599,node,,artwork,Clermont-Ferrand,5,,,45.7786598,3.087702
 3837418143,node,Chez Jamyang,restaurant,Clermont-Ferrand,"7 Rue des Archers, 63000, Clermont-Ferrand",63000,,45.7795629,3.0901265
+3841807564,node,,artwork,Clermont-Ferrand,10 bis,,,45.7769755,3.0870731
+3841807570,node,,artwork,Clermont-Ferrand,18,,,45.7765984,3.0871737
+3841807579,node,,artwork,Clermont-Ferrand,5,,,45.7769228,3.0871591
 3843607620,node,Jamyang 1959,restaurant,Clermont-Ferrand,"61 Boulevard Trudaine, 63000, Clermont-Ferrand",63000,,45.7794288,3.0904705
+3886714391,node,Maison du 16e siècle,attraction,Clermont-Ferrand,,,,45.7803924,3.0883297
+3886714392,node,Maneil Tatoo Creations,attraction,Clermont-Ferrand,,,,45.7803631,3.0872249
 3903671944,node,Tanuki,restaurant,Clermont-Ferrand,"19 Rue de l'Ange, 63000, Clermont-Ferrand",63000,https://tanukistreetfood.com/short/2vcmq2,45.7790132,3.0808137
 3904460261,node,Belle inn,hotel,Clermont-Ferrand,"Rond-Point de la Pardieu, 63000, Clermont-Ferrand",63000,,45.7605387,3.1326681
 3904501157,node,Bistro La Pardieu,restaurant,Clermont-Ferrand,"2 Avenue Michel-Ange, 63000, Clermont-Ferrand",63000,,45.7610268,3.1311364
@@ -121,11 +213,14 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3934055546,node,La bonne franquette,restaurant,Clermont-Ferrand,,,,45.7373144,3.1742243
 3934055548,node,Le Petit Bouchon (Chez Odile),restaurant,Clermont-Ferrand,,,,45.7374202,3.1750981
 3944709752,node,pinocchio pizzeria,restaurant,Clermont-Ferrand,,,,45.7289992,3.1862274
+3944740669,node,Château de la Ribeyre,castle,Clermont-Ferrand,,,,45.7227399,3.2009583
+3953025661,node,,memorial,Clermont-Ferrand,,,,45.7811583,3.1043915
 3959684145,node,La Côte & l'Arête,restaurant,Clermont-Ferrand,,,https://www.lacoteetlarete.fr,45.7586819,3.1461916
 3959684146,node,Au Bureau,restaurant,Clermont-Ferrand,,,,45.7579775,3.1476033
 3959777336,node,Le Kepler,restaurant,Clermont-Ferrand,,,,45.7798555,3.1206918
 3974573486,node,Les Halles Du Brezet,restaurant,Clermont-Ferrand,"19 Avenue de l'Agriculture, 63000, Clermont-Ferrand",63000,,45.7799911,3.1228306
 3988119815,node,L'Astrolabe,restaurant,Clermont-Ferrand,,,,45.7852996,3.1409609
+3991930804,node,Rues montorcier et kleber,attraction,Clermont-Ferrand,"3 Rue Kléber, 63100, Clermont-Ferrand",63100,,45.7929495,3.1138917
 4011445479,node,m la pizza,restaurant,Clermont-Ferrand,"42 Rue des Plaines, 63800, Cournon-d'Auvergne",63800,https://www.mlapizza.fr/,45.7337758,3.1833051
 4023954206,node,Le Ruck,restaurant,Clermont-Ferrand,,,,45.787231,3.1062474
 4023954207,node,Le Caramel,restaurant,Clermont-Ferrand,,,,45.7872273,3.1058558
@@ -137,6 +232,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4106485169,node,Number One Pizza,restaurant,Clermont-Ferrand,,,,45.7760788,3.0858319
 4109661893,node,Popina,restaurant,Clermont-Ferrand,,,,45.7790608,3.0833955
 4143121925,node,Brasserie du Théâtre,restaurant,Clermont-Ferrand,,,,45.777571,3.0828127
+4143165395,node,Mémorial Départemental AFN,memorial,Clermont-Ferrand,,,,45.7811309,3.0901342
 4143198689,node,L'Étoile de Fès,restaurant,Clermont-Ferrand,,,,45.7804325,3.0809247
 4143202789,node,Volcan Hôtel,hotel,Clermont-Ferrand,,,,45.7804273,3.081119
 4144716789,node,Le Panadura,restaurant,Clermont-Ferrand,,,,45.780375,3.0875792
@@ -145,10 +241,12 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4169428189,node,L'ardoise,restaurant,Clermont-Ferrand,,,,45.7823096,3.0793432
 4169462490,node,La table d'Isidore,restaurant,Clermont-Ferrand,,,,45.7669515,3.0556278
 4169543490,node,Le César,restaurant,Clermont-Ferrand,,,,45.7675833,3.0556967
+4170064591,node,,memorial,Clermont-Ferrand,,,,45.7293623,3.232529
 4173144594,node,Mumbai Darbar,restaurant,Clermont-Ferrand,,,,45.7248353,3.3395505
 4187177390,node,La Cassolette,restaurant,Clermont-Ferrand,,,,45.7792003,3.0803744
 4187183989,node,Polypode,restaurant,Clermont-Ferrand,,,,45.7788673,3.0794683
 4190325664,node,Appart'City,hotel,Clermont-Ferrand,"46 Boulevard Pasteur, 63000, Clermont-Ferrand",63000,https://www.appartcity.com/fr/destinations/auvergne/clermont-ferrand/clermont-ferrand-centre.html,45.7730714,3.077424
+4198387801,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7785418,3.0899688
 4199893897,node,Les gourmands disent,restaurant,Clermont-Ferrand,,,https://www.pizzeria-les-gourmands-disent.fr/,45.6693194,3.1072482
 4206299689,node,Toit pour toi,restaurant,Clermont-Ferrand,"1 Rue de la Narse, 63670, Orcet",63670,https://www.toit-pour-toi.fr/,45.7024663,3.1691249
 4209647489,node,Restaurant du Stade,restaurant,Clermont-Ferrand,,,,45.7702352,3.0801315
@@ -160,6 +258,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4230356093,node,Sushi Spot,restaurant,Clermont-Ferrand,,,,45.7734117,3.0934525
 4231912695,node,La Table au Plafond,restaurant,Clermont-Ferrand,,,http://latableauplafond.wix.com/,45.7777321,3.0862189
 4233659390,node,Jardin Secret,restaurant,Clermont-Ferrand,,,,45.7771348,3.0862626
+4266476990,node,Tour de guet,viewpoint,Clermont-Ferrand,,,,45.7629022,3.0651738
 4272824678,node,L'Orient Express,restaurant,Clermont-Ferrand,,,,45.7785921,3.1112202
 4355024655,node,L'O de Source,restaurant,Clermont-Ferrand,,,,45.7646673,3.0486797
 4392445908,node,Hôtel Beaulieu,hotel,Clermont-Ferrand,,,,45.7738576,3.0928467
@@ -167,15 +266,18 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4419436987,node,Quality Hotel Clermont Kennedy,hotel,Clermont-Ferrand,,,,45.8039011,3.118348
 4427593090,node,La Tonkinoise,restaurant,Clermont-Ferrand,,,,45.7783948,3.0834483
 4427593192,node,À la Bonne Franquette,restaurant,Clermont-Ferrand,,,,45.7797958,3.0783943
+4459919056,node,Sommet de la Tour,viewpoint,Clermont-Ferrand,,,,45.7787859,3.085964
 4460071499,node,Stadium Bar,restaurant,Clermont-Ferrand,,,,45.8103757,3.1142425
 4489489723,node,Le Petit Chaperon Rouge,restaurant,Clermont-Ferrand,,,,45.7809129,3.0783574
 4489489724,node,Amphitryon Capucine,restaurant,Clermont-Ferrand,,,,45.7809077,3.0782366
 4499218391,node,Le 62,restaurant,Clermont-Ferrand,"62 Rue Fontgiève, 63000",63000,,45.7808541,3.0774575
 4499345503,node,Le Devant,restaurant,Clermont-Ferrand,,,,45.7787911,3.0834813
 4519788734,node,Comme à la Maison,restaurant,Clermont-Ferrand,,,,45.788896,3.1153999
+4524874500,node,Puy Giroux,viewpoint,Clermont-Ferrand,,,,45.7046649,3.0765363
 4524972271,node,Hostellerie Le Petit Bonneval,hotel,Clermont-Ferrand,"96 Avenue de la République, 63170, Pérignat-lès-Sarliève",63170,https://lepetitbonneval.com/,45.7245143,3.1469604
 4548936071,node,Bouillon Tigre,restaurant,Clermont-Ferrand,"16 Rue de la Préfecture, 63000, Clermont-Ferrand",63000,https://www.facebook.com/bouillontigre/,45.7776082,3.0830847
 4548936074,node,Le Distil,restaurant,Clermont-Ferrand,,,,45.7776425,3.0833347
+4585558637,node,Stèle Mirage III,memorial,Clermont-Ferrand,,,,45.7784588,3.1679226
 4586045985,node,chambre et Gîte Entre lacs et volcans,restaurant,Clermont-Ferrand,6 Rue Roland Brousse,,https://entrelacsetvolcans.fr/,45.6926513,2.9965587
 4597017792,node,Shalimar,restaurant,Clermont-Ferrand,,,,45.7783853,3.0802878
 4597047492,node,Le Pile Poêle,restaurant,Clermont-Ferrand,,,,45.7785046,3.0809064
@@ -185,9 +287,12 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4631580934,node,Sushi,restaurant,Clermont-Ferrand,,,https://www.sushi63.fr/,45.7627545,3.0993597
 4678660996,node,Aux Joyeux Pétanqueurs,restaurant,Clermont-Ferrand,,,,45.7698034,3.0812448
 4704910892,node,Le Pinocchio,restaurant,Clermont-Ferrand,,,,45.7784669,3.0802946
+4710530474,node,"""L'index"" de Desaix",artwork,Clermont-Ferrand,,,,45.7757937,3.0821847
 4710787679,node,Pizza Hut,restaurant,Clermont-Ferrand,,,https://www.pizzahut.fr,45.7735973,3.0908352
 4730465899,node,Auberge du Vieux Four,restaurant,Clermont-Ferrand,,,,45.7491285,3.3024111
 4731078202,node,Shanghai Wok,restaurant,Clermont-Ferrand,,,,45.819577,3.1555501
+4739415218,node,Château fort de la Rochette,castle,Clermont-Ferrand,,,,45.6721048,3.4424193
+4739415421,node,Ancien château fort,castle,Clermont-Ferrand,,,,45.6857483,3.1283275
 4742507014,node,Le Bourbonnais,restaurant,Clermont-Ferrand,,,,45.784096,3.1148445
 4748210225,node,Loukum,restaurant,Clermont-Ferrand,"127 Avenue de la République, Cébazat",,,45.8196405,3.1080455
 4748210237,node,Sultan Restaurant,restaurant,Clermont-Ferrand,,,,45.8083097,3.1090846
@@ -197,30 +302,60 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4823427242,node,Hanguk Bap,restaurant,Clermont-Ferrand,,,,45.7866919,3.0894431
 4829408333,node,Les Sablons,restaurant,Clermont-Ferrand,"Route de Vichy, 63430",63430,,45.8033706,3.2613604
 4864035556,node,Poivre Rouge,restaurant,Clermont-Ferrand,"200 Boulevard Étienne Clémentel, 63100, Clermont-Ferrand",63100,,45.8118372,3.1105573
+4865195509,node,Transformation,artwork,Clermont-Ferrand,,,,45.7880111,3.1063243
 4870416891,node,Chez Julie,restaurant,Clermont-Ferrand,,,,45.674088,3.4835551
 4889725490,node,Speed'zza,restaurant,Clermont-Ferrand,"32 bis Rue de Rabanesse, 63000, Clermont-Ferrand",63000,https://www.speedzza63.com/,45.7681381,3.0864287
 4920351184,node,Au Toucan,restaurant,Clermont-Ferrand,,,https://restaurant-aubiere.weebly.com/,45.7498413,3.1343064
+4944168519,node,Statue Des Gens Assis,artwork,Clermont-Ferrand,,,,45.7432586,3.2097385
 4947065121,node,Le Zénith de Mon Père,restaurant,Clermont-Ferrand,,,,45.7763188,3.0871487
 4947089322,node,L'Alant,restaurant,Clermont-Ferrand,"1 Rue de l'Ancien Poids de Ville, 63000",63000,,45.7785386,3.0833986
 4947093123,node,Bath's,restaurant,Clermont-Ferrand,,,,45.7792006,3.0826764
 4955497621,node,Lalibela,restaurant,Clermont-Ferrand,25 Avenue de la République,,,45.7833983,3.0974716
 4965878033,node,Le Tarbouch des Dômes,restaurant,Clermont-Ferrand,,,,45.7783517,3.0801246
 4982615829,node,Le Comptoir,restaurant,Clermont-Ferrand,,,,45.77978,3.0808489
+5020955861,node,Octopus Montanus,artwork,Clermont-Ferrand,,,https://www.horizons-sancy.com/oeuvres2015/octopus-montanus,45.7225062,3.0585852
 5028721684,node,La patate chaude,restaurant,Clermont-Ferrand,,,,45.7379062,3.2081375
 5028762669,node,Yuzu,restaurant,Clermont-Ferrand,,,https://yuzu.restaurant/,45.735451,3.1784414
 5031797276,node,Brasserie Romeu,restaurant,Clermont-Ferrand,,,,45.7825733,3.1198521
 5032844561,node,La Pasta Im'mobile,restaurant,Clermont-Ferrand,,,,45.7832804,3.1194085
+5033979922,node,Monument aux morts 1914-1918,memorial,Clermont-Ferrand,,,,45.6759696,3.4830629
+5038898713,node,Henri Lecoq,artwork,Clermont-Ferrand,,,,45.7732805,3.0883563
 5049019206,node,Delhi Saï,restaurant,Clermont-Ferrand,,,,45.8165264,3.111075
 5049019211,node,Pizz'Eco,restaurant,Clermont-Ferrand,,,,45.8164851,3.1103781
+5050971404,node,buste de Pierre-Alphonse Julien,artwork,Clermont-Ferrand,,,,45.7733774,3.0876913
 5062189222,node,Archipel Volcans,hotel,Clermont-Ferrand,19 Route de Clermont,,https://www.archipel-volcans.com/,45.7449938,2.9689774
 5063638510,node,L'Alambic,restaurant,Clermont-Ferrand,,,,45.7809932,3.0821659
+5093136050,node,,viewpoint,Clermont-Ferrand,,,,45.6666759,2.9494321
+5093136076,node,,viewpoint,Clermont-Ferrand,,,,45.6681483,2.9483458
 5127991323,node,Bistro Régent,restaurant,Clermont-Ferrand,3 Avenue Lavoisier,,,45.7579721,3.144572
 5169831180,node,Chez Yasmina,restaurant,Clermont-Ferrand,24 Rue des Gras,,,45.7787868,3.0839833
 5171256921,node,Filipote Pizza,restaurant,Clermont-Ferrand,,,,45.7303577,3.2120906
 5195482927,node,Terres Latines,restaurant,Clermont-Ferrand,,,,45.7768543,3.0838554
 5195483023,node,Le Nandou,restaurant,Clermont-Ferrand,,,,45.7764628,3.0840798
 5195568421,node,Lard de Vivre,restaurant,Clermont-Ferrand,,,,45.7783153,3.0839245
+5202385126,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.775651,3.0825843
+5202386569,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7759949,3.0832114
+5202388607,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7761105,3.0862673
+5204827310,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7909238,3.1131422
+5204875246,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7860864,3.0794877
+5206219952,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7785767,3.0808917
+5206221918,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7787096,3.0841904
+5206224443,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7787054,3.0820063
+5206246016,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7777566,3.0899573
+5206249654,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7778592,3.0872107
+5208040203,node,Bibendum,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7783273,3.0847898
+5208042612,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7784668,3.0829632
+5208056270,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7786153,3.0792856
+5208060063,node,Bela Lugosi,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7739071,3.0755768
+5208064168,node,,artwork,Clermont-Ferrand,,,,45.773487,3.0750758
+5208066889,node,Volcano,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7691678,3.0839749
+5208067452,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7711317,3.0834667
+5208099042,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7765543,3.0987919
+5208101827,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.777176,3.1013887
+5208105292,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7794253,3.1004495
+5217125668,node,Les Ateliers,gallery,Clermont-Ferrand,,,https://oukonva.fr/lieu/303,45.7922358,3.1439425
 5223316923,node,Bistro Vénitien,restaurant,Clermont-Ferrand,,,,45.7787854,3.0838191
+5226598424,node,,memorial,Clermont-Ferrand,,,,45.7727805,3.1358891
 5236661825,node,Ôpanda,restaurant,Clermont-Ferrand,,,,45.8124125,3.1102518
 5244349432,node,BioAuvergne,restaurant,Clermont-Ferrand,,,http://www.bio-auvergne.com/,45.7842596,3.1012787
 5248371921,node,Le Bistrot de Clermont,restaurant,Clermont-Ferrand,,,,45.7694556,3.0833587
@@ -234,6 +369,7 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5414154323,node,Basilic & Co,restaurant,Clermont-Ferrand,,,,45.7806715,3.0814195
 5433783021,node,Chez Kim Loan,restaurant,Clermont-Ferrand,,,,45.7785354,3.0866568
 5465165926,node,Moya,restaurant,Clermont-Ferrand,,,https://moya63.com/,45.7736126,3.0810246
+5518147785,node,Le Bloc de Cournols,attraction,Clermont-Ferrand,,,,45.6360596,3.0344414
 5525823271,node,Le Tablier,restaurant,Clermont-Ferrand,,,,45.7796061,3.0782785
 5525823273,node,Dadino Pizze,restaurant,Clermont-Ferrand,,,https://www.dadinopizze.fr/,45.7792152,3.079931
 5525823480,node,Les Tontons,restaurant,Clermont-Ferrand,,,https://bistrotlestontons.fr/,45.7794015,3.0791786
@@ -241,7 +377,11 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5552145021,node,Que du Bonheur,restaurant,Clermont-Ferrand,,,,45.7794273,3.0841798
 5552145121,node,Le Buronnier,restaurant,Clermont-Ferrand,,,,45.7793783,3.0841283
 5554063021,node,Le Yack,restaurant,Clermont-Ferrand,,,,45.7754676,3.0849857
+5583000967,node,La Chrysomèle — Galerie d'art,gallery,Clermont-Ferrand,,,https://lachrysomèle.fr,45.7704697,3.079133
+5586799456,node,,memorial,Clermont-Ferrand,,,,45.7976553,3.2482603
+5586799457,node,Musée Pierre Mondanel,museum,Clermont-Ferrand,"Place de l'Aire, 63430, Pont-du-Château",63430,,45.7971804,3.2487678
 5586799461,node,,restaurant,Clermont-Ferrand,,,,45.7934213,3.2494112
+5586844180,node,,viewpoint,Clermont-Ferrand,,,,45.7969909,3.248992
 5611387310,node,Les P'tits Plats,restaurant,Clermont-Ferrand,,,,45.7801513,3.0900794
 5611387319,node,Restaurant DJ,restaurant,Clermont-Ferrand,,,,45.7798055,3.095507
 5634430223,node,Les Saveurs d'Afrique,restaurant,Clermont-Ferrand,,,,45.7799405,3.083356
@@ -249,12 +389,20 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 5639819921,node,Le Petit Albert,restaurant,Clermont-Ferrand,,,,45.7794143,3.0943258
 5639819922,node,La Mama,restaurant,Clermont-Ferrand,,,,45.7787909,3.0953806
 5675666249,node,Royal d'Asie,restaurant,Clermont-Ferrand,23 Rue Henri Matisse,,,45.7763627,3.1985594
+5681812753,node,plan d'eau des orleaux,park,Clermont-Ferrand,,,,45.6510912,3.1995337
 5710912198,node,La Cocotte Bleue,restaurant,Clermont-Ferrand,2 Boulevard du Lac,,https://www.lacocottebleue.com,45.6659593,2.9823925
 5717969425,node,Extrême-Orient,restaurant,Clermont-Ferrand,,,,45.7795064,3.0843806
+5766070749,node,,viewpoint,Clermont-Ferrand,,,,45.7220178,3.2260914
+5796952476,node,Monument aux Morts,memorial,Clermont-Ferrand,,,,45.7410798,2.9672414
+5839531396,node,,viewpoint,Clermont-Ferrand,,,,45.8577733,3.0903818
 5863234290,node,Cacot,restaurant,Clermont-Ferrand,"49 Rue des Courtiaux, 63000, Clermont-Ferrand",63000,https://www.cacot.fr/,45.7688261,3.1289223
 5878893885,node,Le Chaudron,restaurant,Clermont-Ferrand,,,,45.7684372,3.1309222
+5884952192,node,,viewpoint,Clermont-Ferrand,,,,45.7733522,2.9626501
+5938057200,node,,artwork,Clermont-Ferrand,,,,45.7708299,3.0765514
+5938072657,node,Serge Gainsbourg,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.788907,3.0987238
 5943376976,node,La Gourmandine,restaurant,Clermont-Ferrand,,,,45.7782142,3.0810009
 6007096200,node,Le Bistrot d'à Côté,restaurant,Clermont-Ferrand,"16 Rue des Minimes, 63000",63000,,45.7778934,3.0810753
+6007641252,node,Nu au bain,artwork,Clermont-Ferrand,,,,45.7724725,3.0883874
 6027177987,node,Comme Chez Soi,restaurant,Clermont-Ferrand,,,,45.7797298,3.0833309
 6052682685,node,B Bistro,restaurant,Clermont-Ferrand,,,,45.793334,3.1133688
 6082917618,node,Los Dos Hermanos,restaurant,Clermont-Ferrand,,,,45.7749808,3.0848951
@@ -262,6 +410,8 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 6085781533,node,Brasserie Pizzeria La Grange,restaurant,Clermont-Ferrand,,,,45.7933195,3.2291852
 6085792660,node,Le Brazza,restaurant,Clermont-Ferrand,,,,45.799406,3.2485621
 6085792989,node,Pizza Fidelio,restaurant,Clermont-Ferrand,,,,45.7991905,3.2447393
+6085793928,node,Mémorial Général de Gaulle,memorial,Clermont-Ferrand,,,,45.8009086,3.2446575
+6137348244,node,Le Grand Arbre,artwork,Clermont-Ferrand,,,,45.7885239,3.1035468
 6140498369,node,Le Gusto,restaurant,Clermont-Ferrand,200 Boulevard Étienne Clémentel,,,45.8125964,3.1098059
 6165650986,node,Mama Africa,restaurant,Clermont-Ferrand,,,,45.7813894,3.0937256
 6165651386,node,Wok Thai,restaurant,Clermont-Ferrand,,,,45.7813183,3.0934547
@@ -271,11 +421,40 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 6278964885,node,Maiko,restaurant,Clermont-Ferrand,,,,45.780372,3.0901784
 6279001187,node,Rodizio.V,restaurant,Clermont-Ferrand,,,,45.7802893,3.0871325
 6295550197,node,Le Dôme,restaurant,Clermont-Ferrand,,,,45.7746716,3.0825174
+6305292585,node,,gallery,Clermont-Ferrand,,,,45.7792173,3.0858314
 6323246778,node,Le Patio Des Carmes,restaurant,Clermont-Ferrand,,,,45.7826179,3.0932099
 6335153111,node,Le Chardonnay,restaurant,Clermont-Ferrand,"1 Place Philippe Marcombes, 63000, Clermont-Ferrand",63000,https://www.lechardonnay.fr/,45.7793759,3.0864684
 6371329021,node,La Grange Aux Ayres,hotel,Clermont-Ferrand,,,http://lagrangeauxayres.fr/,45.6224918,3.0468512
 6373956285,node,Les Gourmets d'Angkor,restaurant,Clermont-Ferrand,,,,45.7843686,3.0939194
 6398370489,node,La Table de Thierry,restaurant,Clermont-Ferrand,,,,45.7779397,3.0851095
+6409360749,node,Monument aux Morts,memorial,Clermont-Ferrand,,,,45.7533587,3.1158002
+6409394761,node,,memorial,Clermont-Ferrand,,,,45.7363114,3.1385296
+6411661464,node,Plaque Commémorative,memorial,Clermont-Ferrand,,,,45.752299,3.0831818
+6411664700,node,,memorial,Clermont-Ferrand,,,,45.7749727,3.0673904
+6411685464,node,Monument aux Morts,memorial,Clermont-Ferrand,,,,45.7946834,3.0528639
+6411697874,node,Monument aux Morts,memorial,Clermont-Ferrand,,,,45.7506194,3.0919744
+6412010397,node,,memorial,Clermont-Ferrand,,,,45.8286655,3.0777172
+6412047766,node,Monument aux Morts 1870-1871,memorial,Clermont-Ferrand,,,,45.7835175,3.0962396
+6412047767,node,Monument aux Morts 1914-1918,memorial,Clermont-Ferrand,,,,45.7835794,3.0959733
+6412061851,node,Monument aux Morts - Soldats Américains 1914-1918,memorial,Clermont-Ferrand,,,,45.7788659,3.1249604
+6412065167,node,Monument aux Morts 1939-1945,memorial,Clermont-Ferrand,,,,45.7927001,3.0792406
+6412069713,node,Monument aux Morts du Cimetière de Montferrand,memorial,Clermont-Ferrand,,,,45.7912779,3.1183752
+6412084991,node,Monument aux Morts,memorial,Clermont-Ferrand,,,,45.8345818,3.1041425
+6412092417,node,Monument aux Morts,memorial,Clermont-Ferrand,,,,45.7324728,3.0665111
+6412106233,node,Monument aux Morts,memorial,Clermont-Ferrand,,,,45.8045147,3.1136262
+6413348890,node,Monument aux Morts,memorial,Clermont-Ferrand,,,,45.7971687,3.1603995
+6413913542,node,Monument aux Morts,memorial,Clermont-Ferrand,,,,45.7311164,3.0976724
+6413933690,node,Monument aux Morts,memorial,Clermont-Ferrand,,,,45.7125736,3.0892767
+6413933691,node,Monument aux Morts,memorial,Clermont-Ferrand,,,,45.7107562,3.072876
+6413950495,node,Monument aux Morts,memorial,Clermont-Ferrand,,,,45.8121082,3.0570249
+6413950499,node,,memorial,Clermont-Ferrand,,,,45.8070408,3.0079787
+6413955190,node,,memorial,Clermont-Ferrand,,,,45.7834327,3.0114192
+6413961134,node,Monument aux Morts,memorial,Clermont-Ferrand,,,,45.7031165,3.1684026
+6413988369,node,Monument aux Morts,memorial,Clermont-Ferrand,,,,45.6948066,3.0985034
+6413993952,node,Monument aux Morts,memorial,Clermont-Ferrand,,,,45.7025423,3.1088163
+6414020182,node,,memorial,Clermont-Ferrand,,,,45.7023016,3.1293499
+6414020183,node,,memorial,Clermont-Ferrand,,,,45.7099253,3.1226422
+6416005817,node,,memorial,Clermont-Ferrand,,,,45.8240347,3.1442255
 6461966685,node,Le Kyl's,restaurant,Clermont-Ferrand,,,,45.7893928,3.0978296
 6494657485,node,Chez Louise,restaurant,Clermont-Ferrand,,,,45.7849694,3.1025951
 6494661498,node,Le Six3,restaurant,Clermont-Ferrand,,,,45.7850907,3.1031645
@@ -283,6 +462,8 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 6524625675,node,Pamina,restaurant,Clermont-Ferrand,"9 Rue Saint-Hérem, 63000, Clermont-Ferrand",63000,,45.7800338,3.0850573
 6530433988,node,Kazmia,restaurant,Clermont-Ferrand,,,,45.7795312,3.0957502
 6532185585,node,La Palmeraie,restaurant,Clermont-Ferrand,,,,45.779156,3.0846816
+6547762356,node,Canon à lumière,artwork,Clermont-Ferrand,,,,45.7607688,3.1086341
+6547762439,node,Sphères,artwork,Clermont-Ferrand,,,,45.7620061,3.1085051
 6557260885,node,La Parenthèse,restaurant,Clermont-Ferrand,,,,45.7907615,3.1103205
 6557646186,node,Carré crêperie,restaurant,Clermont-Ferrand,2 Rue de la Treille,,,45.7772034,3.0863272
 6561152651,node,L'Antre de Dionysos,restaurant,Clermont-Ferrand,"25 Rue de Rabanesse, 63000, Clermont-Ferrand",63000,https://www.lantrededionysos.fr/,45.7684412,3.0867831
@@ -295,38 +476,104 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 6694279085,node,Bistrot Klam',restaurant,Clermont-Ferrand,,,,45.8156977,3.1490763
 6708776686,node,Café In,restaurant,Clermont-Ferrand,"9 Rond-Point de la Pardieu, 63000, Clermont-Ferrand",63000,,45.7603578,3.1322669
 6708776687,node,Why Not,restaurant,Clermont-Ferrand,"1 Avenue Michel-Ange, 63000, Clermont-Ferrand",63000,,45.7600966,3.1323019
+6723839706,node,Bas-relief : le Lavement des pieds,artwork,Clermont-Ferrand,,,,45.7787951,3.0845709
 6749745712,node,Les petits ventres,restaurant,Clermont-Ferrand,,,,45.7238498,3.3398642
+6762235823,node,Parc des Landais,park,Clermont-Ferrand,,,,45.7654208,3.1098643
 6812372986,node,Artyster,hotel,Clermont-Ferrand,,,,45.7803992,3.0813296
+6853909017,node,,viewpoint,Clermont-Ferrand,,,,45.7316261,3.0555807
+6866807439,node,,artwork,Clermont-Ferrand,,,,45.7611359,3.1132088
 6903246905,node,Pavillon Lamartine,restaurant,Clermont-Ferrand,,,,45.7773198,3.079267
 6974017585,node,Le Bistrot du Marché,restaurant,Clermont-Ferrand,"10 Place Saint-Pierre, 63000, Clermont-Ferrand",63000,https://www.lebistrot-dumarche.fr/,45.779308,3.0833551
 6992752685,node,Le Comptoir des Saveurs,restaurant,Clermont-Ferrand,"5 Rue Sainte-Claire, 63000, Clermont-Ferrand",63000,https://www.le-comptoir-des-saveurs.fr/,45.7805931,3.0822082
 7050533029,node,Agalyne,restaurant,Clermont-Ferrand,,,https://www.epiceriem.fr,45.7728005,3.0814731
+7050581458,node,,viewpoint,Clermont-Ferrand,,,,45.8032267,3.0163261
+7113923833,node,,artwork,Clermont-Ferrand,,,,45.7936147,3.0756465
 7214320056,node,Fille à Papa,restaurant,Clermont-Ferrand,,,,45.7779916,3.0836269
 7214592984,node,Flagrants Délices,restaurant,Clermont-Ferrand,,,https://flagrants-delices-restaurant-clermont-ferrand.eatbu.com/?lang=fr#contact,45.78042,3.0806306
 7285574386,node,Nhu-y,restaurant,Clermont-Ferrand,28 Rue Saint-Dominique,,https://www.restaurant-nhu-y.com/,45.778385,3.0798338
 7376879252,node,Délices d'Asie,restaurant,Clermont-Ferrand,,,,45.7809232,3.0789738
 7389533107,node,Le Royan,restaurant,Clermont-Ferrand,,,,45.7758595,3.0794691
+7443567354,node,,ruins,Clermont-Ferrand,,,,45.7579006,3.0699926
 7603071204,node,La Maison Bleue,restaurant,Clermont-Ferrand,,,,45.8027221,3.1102952
+7606217404,node,Table d'orientation,viewpoint,Clermont-Ferrand,,,,45.7422986,3.1209913
+7612257092,node,,memorial,Clermont-Ferrand,,,,45.6937435,3.2224032
 7612530247,node,Pizzeria Dubien,restaurant,Clermont-Ferrand,,,,45.694391,3.2239461
+7694322451,node,,artwork,Clermont-Ferrand,,,,45.679282,3.009568
+7694369176,node,Le loup devenu berger,artwork,Clermont-Ferrand,,,,45.679601,3.0094502
+7694369177,node,Le torrent et la rivière,artwork,Clermont-Ferrand,,,,45.6795446,3.0095803
+7694369178,node,Le Pot de terre et le Pot de fer,artwork,Clermont-Ferrand,,,,45.6782787,3.0098493
+7694427589,node,Le laboureur et ses enfants,artwork,Clermont-Ferrand,,,,45.6792867,3.0095815
+7694427591,node,La Colombe et la Fourmi,artwork,Clermont-Ferrand,,,,45.6789274,3.0116994
+7694427602,node,La poule aux œufs d'or,artwork,Clermont-Ferrand,,,,45.6795306,3.0126135
+7694467491,node,Le Loup et la Cigogne,artwork,Clermont-Ferrand,,,,45.6779468,3.016649
+7822084385,node,Jardin des Fées,attraction,Clermont-Ferrand,"35 Rue Aristide Briand, 63000",63000,,45.7605489,3.0743791
+7843491810,node,,artwork,Clermont-Ferrand,,,,45.6421083,3.2452603
 7902675321,node,Côté Tiretaine,restaurant,Clermont-Ferrand,,,,45.7680834,3.0144898
+7942612697,node,,memorial,Clermont-Ferrand,,,,45.769532,3.0865395
+7942612698,node,En hommage à l'expérience de Blaise Pascal,memorial,Clermont-Ferrand,,,,45.777158,3.0813103
 7962032585,node,Hôtel du Midi,hotel,Clermont-Ferrand,,,,45.7790333,3.0996636
 7988563385,node,La Rivière des Parfums,restaurant,Clermont-Ferrand,,,https://www.larivieredesparfums.com/,45.7824654,3.0925834
 8010201873,node,Le Meli,restaurant,Clermont-Ferrand,48 Rue des Chandiots,,,45.7893626,3.1165673
+8177466990,node,,viewpoint,Clermont-Ferrand,,,,45.7991396,3.0636157
 8197100552,node,Rei Galo Restaurant,restaurant,Clermont-Ferrand,7 Rue Robert Lemoy,,https://www.reigalo.fr/,45.8173367,3.1110796
+8243029955,node,"Musée de la Résistance, de l'internement et de la déportation",museum,Clermont-Ferrand,"7 Place de Beaulieu, 63400, Chamalières",63400,https://www.clermontmetropole.eu/fr/bouger-se-divertir/le-dynamisme-culturel/les-musees-de-clermont-auvergne-metropole/musee-de-la-resistance-de-linternement-et-de-la-deportation/,45.7792062,3.0687885
+8247823075,node,,memorial,Clermont-Ferrand,,,,45.7222715,3.4710856
+8258058765,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7803474,3.0881855
+8258066757,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7803852,3.0820322
+8258066758,node,,artwork,Clermont-Ferrand,,,,45.7803409,3.082391
+8303535570,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7709557,3.0865968
+8303535571,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7743819,3.086599
+8402481369,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7791767,3.0847892
+8402481370,node,,artwork,Clermont-Ferrand,,,,45.7799428,3.0860075
+8402481371,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7802068,3.0867984
+8402485838,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7733527,3.0919602
+8402487099,node,,artwork,Clermont-Ferrand,,,,45.777858,3.0816625
 8553297449,node,Auberge de la Jonchère,restaurant,Clermont-Ferrand,,,,45.7137084,3.3945941
+8617938397,node,,artwork,Clermont-Ferrand,,,,45.6630067,3.2079182
 8657095122,node,Eklo,hotel,Clermont-Ferrand,"6 Rue Auger, 63100, Clermont-Ferrand",63100,https://www.eklohotels.com/fr/clermont-ferrand,45.781673,3.1055347
+8734423691,node,Escalier du château de Bellerive,ruins,Clermont-Ferrand,,,,45.7221559,3.2147618
 8736823586,node,Les Briques Rouges,restaurant,Clermont-Ferrand,,,,45.6847856,3.1745388
+8806711921,node,,viewpoint,Clermont-Ferrand,,,,45.6643353,3.1931578
+8862146717,node,Marché de Chamalières,attraction,Clermont-Ferrand,"Parking Square de Verdun, 63400",63400,https://www.ville-chamalieres.fr/-Foires-et-marches-.html,45.7761123,3.0683521
 8866932812,node,Le Magnétic,restaurant,Clermont-Ferrand,,,,45.7841672,3.098989
 8866932813,node,Aiden by Best Western,hotel,Clermont-Ferrand,,,,45.7842837,3.0988925
+9018301678,node,,memorial,Clermont-Ferrand,,,,45.6798766,3.4423117
 9078728966,node,British book club,restaurant,Clermont-Ferrand,,,https://www.thebritishbookclub.com/,45.7809808,3.0815335
+9152804762,node,,memorial,Clermont-Ferrand,,,,45.8281851,3.1419286
+9152804777,node,,memorial,Clermont-Ferrand,,,,45.833229,3.1434893
 9171558617,node,Restaurant Suédois,restaurant,Clermont-Ferrand,,,,45.8035054,3.1393484
+9199140114,node,,viewpoint,Clermont-Ferrand,,,,45.6606979,3.1778029
+9199140115,node,,viewpoint,Clermont-Ferrand,,,,45.6591701,3.179823
+9199160212,node,,viewpoint,Clermont-Ferrand,,,,45.6791965,3.2428845
+9199160213,node,,viewpoint,Clermont-Ferrand,,,,45.6799109,3.2429629
 9209395588,node,Le Bistrot de Robert,restaurant,Clermont-Ferrand,12 Place de la Rodade,,,45.7937757,3.1097605
+9210327983,node,,memorial,Clermont-Ferrand,,,,45.6866093,3.125111
+9212914579,node,,memorial,Clermont-Ferrand,,,,45.7954789,3.1042059
 9216118519,node,Chez Charles,restaurant,Clermont-Ferrand,"6 Avenue Léonard de Vinci, 63000, Clermont-Ferrand",63000,https://chezcharles.restaurant/votre-charles/9,45.7631011,3.1338825
+9246740462,node,Byblis pleure,artwork,Clermont-Ferrand,,,,45.7733545,3.0880152
+9246740463,node,,artwork,Clermont-Ferrand,,,,45.7712629,3.0877201
+9296423759,node,,memorial,Clermont-Ferrand,,,,45.7879998,3.122047
+9316359199,node,,artwork,Clermont-Ferrand,,,,45.7976035,3.1312101
+9335207613,node,Ancien convoyeur minier,ruins,Clermont-Ferrand,,,,45.7254114,3.2146273
+9382408050,node,,viewpoint,Clermont-Ferrand,,,,45.7730164,2.9640368
 9438177484,node,yam yam,restaurant,Clermont-Ferrand,,,,45.7799362,3.0832024
 9471817211,node,rouge tendance,restaurant,Clermont-Ferrand,,,,45.7581697,3.1478975
+9491962119,node,Vieux lavoir,ruins,Clermont-Ferrand,,,,45.6388195,3.2476915
+9505645056,node,Pierre Schoendoerffer,memorial,Clermont-Ferrand,,,,45.7762621,3.0717371
+9682296573,node,L'Esprit et la Matière,artwork,Clermont-Ferrand,,,,45.7770919,3.0887056
+9682585592,node,L’œil,artwork,Clermont-Ferrand,,,,45.7773261,3.0888955
+9731785317,node,,artwork,Clermont-Ferrand,,,,45.7845385,3.0984933
+9731785318,node,,artwork,Clermont-Ferrand,,,,45.7835325,3.0808662
+9731785417,node,,artwork,Clermont-Ferrand,,,,45.7817961,3.0874409
+9754347741,node,,garden,Clermont-Ferrand,,,,45.7594414,3.1376883
+9758222924,node,,viewpoint,Clermont-Ferrand,,,,45.6795061,3.1574958
+9769533418,node,,artwork,Clermont-Ferrand,,,,45.7791493,3.0677943
 9804191175,node,Ibis Styles,hotel,Clermont-Ferrand,,,https://all.accor.com/hotel/B2L8/index.fr.shtml,45.7865874,3.103395
+9864049072,node,,artwork,Clermont-Ferrand,,,,45.8305857,3.0978318
 9880486317,node,L'entre deux,restaurant,Clermont-Ferrand,"2, 63430",63430,,45.7977385,3.2377462
 9883022669,node,Les Délices de Thu,restaurant,Clermont-Ferrand,"81 ter Avenue Jean Noëllet, 63170, Beaumont",63170,https://www.facebook.com/profile.php?id=100072611585116,45.7575342,3.1025738
+9892378337,node,,memorial,Clermont-Ferrand,,,,45.6422337,3.0037003
+9904013925,node,,viewpoint,Clermont-Ferrand,,,,45.7977867,2.9705307
 9920625713,node,Le Petit Tablier,restaurant,Clermont-Ferrand,,,http://lepetittablier.com/,45.837721,3.1175844
 9920633833,node,Charles Bonpain,restaurant,Clermont-Ferrand,,,https://www.charles-bonpain.fr/,45.8376032,3.117732
 9920648719,node,La FAK,restaurant,Clermont-Ferrand,,,https://www.la-fak.com/,45.8410704,3.1176737
@@ -334,16 +581,59 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 9922869118,node,La clé des champs,restaurant,Clermont-Ferrand,,,,45.7648716,2.9970829
 9922869119,node,Auberge de la Baraque Géraldine Laubrières,restaurant,Clermont-Ferrand,,,https://www.laubrieres.com,45.7800968,3.0214629
 9922869120,node,Le relais des Puys,hotel,Clermont-Ferrand,,,,45.7798872,3.0218055
+9931412770,node,Monument aux morts,memorial,Clermont-Ferrand,,,,45.6437091,3.2425859
 9961182281,node,La maison du Gaucher,restaurant,Clermont-Ferrand,"32 Rue du Cheval Blanc, 63000, Clermont-Ferrand",63000,,45.7782765,3.0825648
 9977133958,node,Eat Salad,restaurant,Clermont-Ferrand,,,,45.7842243,3.1103988
 9979598678,node,Olive & Pomme,restaurant,Clermont-Ferrand,,,,45.7540392,3.1362716
+10010663068,node,,artwork,Clermont-Ferrand,,,,45.7277082,3.1064647
+10044529017,node,,artwork,Clermont-Ferrand,,,,45.7932746,3.0711985
 10068663398,node,Tosta Pizza,restaurant,Clermont-Ferrand,"31 Boulevard Gambetta, 63400, Chamalières",63400,https://www.tosta-pizza-chamalieres.fr/,45.7681133,3.0709122
+10073637818,node,,artwork,Clermont-Ferrand,,,,45.7806907,3.0883275
+10120544917,node,,artwork,Clermont-Ferrand,,,,45.7803595,3.0882001
+10120555817,node,,artwork,Clermont-Ferrand,,,,45.7800087,3.0880249
+10120555818,node,,artwork,Clermont-Ferrand,,,,45.779537,3.0879656
+10120555820,node,,artwork,Clermont-Ferrand,,,,45.7788815,3.0880206
+10120555917,node,,artwork,Clermont-Ferrand,,,,45.7798833,3.0879704
+10120556017,node,,artwork,Clermont-Ferrand,,,,45.7798845,3.0879225
+10120556018,node,,artwork,Clermont-Ferrand,,,,45.7783507,3.0873965
+10120556019,node,,artwork,Clermont-Ferrand,,,,45.7777753,3.087091
+10120561417,node,,artwork,Clermont-Ferrand,,,,45.7788197,3.0878111
+10120619617,node,,artwork,Clermont-Ferrand,,,,45.7774964,3.0869077
+10120619619,node,,artwork,Clermont-Ferrand,,,,45.7775135,3.0864637
+10120619817,node,,artwork,Clermont-Ferrand,,,,45.7770728,3.086373
+10120620617,node,,artwork,Clermont-Ferrand,,,,45.7768801,3.0862562
+10120620917,node,,artwork,Clermont-Ferrand,,,,45.7763757,3.0863282
+10120620918,node,,artwork,Clermont-Ferrand,Rue des Chaussetiers,,,45.7782589,3.0839902
+10133117265,node,,artwork,Clermont-Ferrand,,,,45.7739925,3.0875269
+10133129387,node,,artwork,Clermont-Ferrand,,,,45.7740917,3.0873635
+10133150717,node,,artwork,Clermont-Ferrand,,,,45.7740911,3.087472
+10133151395,node,,artwork,Clermont-Ferrand,,,,45.7742125,3.0873726
+10133224118,node,,artwork,Clermont-Ferrand,,,,45.7759274,3.0870218
+10133246049,node,,artwork,Clermont-Ferrand,,,,45.7763307,3.0871851
+10133255752,node,,artwork,Clermont-Ferrand,Rue Abbé Girard,,,45.7764234,3.0872444
+10133277266,node,,artwork,Clermont-Ferrand,,,,45.7770019,3.0870618
+10133320054,node,,artwork,Clermont-Ferrand,,,,45.7774983,3.08711
+10135157301,node,Hanimale,artwork,Clermont-Ferrand,,,,45.7735873,3.0866579
+10166535227,node,,artwork,Clermont-Ferrand,,,,45.78057,3.0867722
+10166535228,node,,artwork,Clermont-Ferrand,,,,45.7783619,3.0848978
+10166535230,node,,artwork,Clermont-Ferrand,,,,45.7783269,3.0853279
+10166535231,node,Prunelle,artwork,Clermont-Ferrand,,,,45.7774775,3.0869326
+10166967689,node,,viewpoint,Clermont-Ferrand,,,,45.8046943,2.9752208
+10166991075,node,,viewpoint,Clermont-Ferrand,,,,45.7946761,2.9598488
+10181168275,node,,artwork,Clermont-Ferrand,,,,45.7762003,3.0816661
+10203467327,node,,artwork,Clermont-Ferrand,,,,45.7761241,3.0816893
+10237544409,node,,artwork,Clermont-Ferrand,,,,45.7814333,3.0991094
+10253449409,node,,artwork,Clermont-Ferrand,,,,45.7729879,3.0635988
 10271677140,node,L'Himalaya,restaurant,Clermont-Ferrand,"1 Avenue Michel-Ange, 63000, Clermont-Ferrand",63000,https://himalaya63.fr/,45.7606732,3.1326444
+10273761734,node,,artwork,Clermont-Ferrand,,,,45.7919292,3.0704821
 10312964049,node,Le bruit du bouchon,restaurant,Clermont-Ferrand,,,,45.7795817,3.0834888
+10570693612,node,,viewpoint,Clermont-Ferrand,,,,45.7881856,3.0736893
+10655948915,node,Stèle du génocide arménien de Clermont-Ferrand,memorial,Clermont-Ferrand,,,,45.7828852,3.0785417
 10658456105,node,Hanami,restaurant,Clermont-Ferrand,,,https://www.hanami-brezet.fr/,45.7895498,3.138625
 10709422987,node,Restaurant poulet braseira,restaurant,Clermont-Ferrand,,,,45.7946856,3.2576528
 10774346605,node,Le Maharaja,restaurant,Clermont-Ferrand,,,,45.7768509,3.1010762
 10827570388,node,Le Canon Paisible,restaurant,Clermont-Ferrand,,,,45.7898775,3.0832897
+10833502105,node,,memorial,Clermont-Ferrand,,,,45.7940214,3.0918874
 10833882964,node,La Tour de Pizz',restaurant,Clermont-Ferrand,"Boulevard Maurice Pourchon, 63100",,https://scoum63.wixsite.com/tourdepizz,45.7926298,3.091344
 10839467119,node,Antep,restaurant,Clermont-Ferrand,,,,45.7868957,3.0903524
 10861062705,node,Thaï Break,restaurant,Clermont-Ferrand,,,,45.7890461,3.1381451
@@ -351,35 +641,79 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 10884154694,node,Pizza Et Basta,restaurant,Clermont-Ferrand,Boulevard Jean-Baptiste Dumas,,,45.7870455,3.0848066
 10912659451,node,,restaurant,Clermont-Ferrand,,,,45.7808852,3.082204
 10951923914,node,Yuzu,restaurant,Clermont-Ferrand,,,,45.7649859,3.1251888
+11145649005,node,,viewpoint,Clermont-Ferrand,,,,45.7961864,2.9737266
 11159124260,node,Pékin Express,restaurant,Clermont-Ferrand,,,,45.7730979,3.0919996
 11159124261,node,O'Frenchy's,restaurant,Clermont-Ferrand,,,,45.7728163,3.0911829
+11164681145,node,,viewpoint,Clermont-Ferrand,,,,45.7692101,2.9610492
+11165052781,node,,viewpoint,Clermont-Ferrand,,,,45.7735962,2.9664637
 11174828046,node,Fuzu,restaurant,Clermont-Ferrand,"40 Avenue Lavoisier, 63170, Aubière",63170,https://fuzu-clermont.fr/,45.7553797,3.1447928
 11176724065,node,Fresh Burritos,restaurant,Clermont-Ferrand,,,https://restaurants.freshburritos.fr/CLERMONT%20FERRAND/,45.7735306,3.0919341
+11194024768,node,,artwork,Clermont-Ferrand,,,,45.7797218,3.0841677
+11219328650,node,,artwork,Clermont-Ferrand,,,,45.7794608,3.0879641
+11243018253,node,,artwork,Clermont-Ferrand,,,,45.7275239,2.9917354
+11275930382,node,,artwork,Clermont-Ferrand,,,,45.7357363,3.1379576
+11311414269,node,,viewpoint,Clermont-Ferrand,,,,45.8029464,3.0036668
+11333517213,node,,memorial,Clermont-Ferrand,,,,45.8119557,3.2992471
+11333517224,node,,memorial,Clermont-Ferrand,,,,45.677597,3.4103835
+11333517225,node,,memorial,Clermont-Ferrand,,,,45.7267796,3.3411255
+11333517226,node,,memorial,Clermont-Ferrand,,,,45.7486087,3.2863415
 11387487959,node,Bar le Cyrano,restaurant,Clermont-Ferrand,,,,45.7240741,3.3381751
 11387487961,node,Le Petit Naples,restaurant,Clermont-Ferrand,,,https://www.lepetitnaples-billom.com/,45.7240357,3.3383899
+11446001803,node,,artwork,Clermont-Ferrand,,,,45.7892363,3.0725604
 11552885196,node,PIÙ PIÙ,restaurant,Clermont-Ferrand,"1 Rue Jean Rochon, 63000, Clermont-Ferrand",63000,https://piu-piu.com/,45.7791817,3.0825044
 11569288149,node,Gao Sheng d'Asie,restaurant,Clermont-Ferrand,4 Rue des Chazots,,,45.751953,3.133284
 11582506255,node,Sambuca,restaurant,Clermont-Ferrand,"55 Avenue d'Italie, 63000, Clermont-Ferrand",63000,,45.7775377,3.0963616
 11608466132,node,Les Ruelles de Marrakech,restaurant,Clermont-Ferrand,,,,45.7752771,3.0848513
 11610997482,node,Les Jardins de Saulzet,restaurant,Clermont-Ferrand,,,https://www.lesjardinsdesaulzet.fr/,45.7136391,3.0703533
+11637717001,node,La France,artwork,Clermont-Ferrand,,,,45.7711105,3.0896307
+11637962959,node,,artwork,Clermont-Ferrand,,,,45.7794822,3.136709
+11646494980,node,,artwork,Clermont-Ferrand,,,,45.7707903,3.0888046
+11646993963,node,Notre-Dame de Monton,artwork,Clermont-Ferrand,,,,45.6795682,3.1576906
+11662816017,node,,artwork,Clermont-Ferrand,,,,45.7599487,3.0892716
+11662824424,node,,artwork,Clermont-Ferrand,,,,45.7934044,3.08053
+11672267869,node,Monument aux morts 14-18,memorial,Clermont-Ferrand,,,,45.6481349,3.2404147
+11672267879,node,Mémorial aux soldats de l'Afrique du Nord,memorial,Clermont-Ferrand,,,,45.6456271,3.2412518
+11727813123,node,,memorial,Clermont-Ferrand,,,,45.7481978,3.170408
+11728329046,node,,memorial,Clermont-Ferrand,,,,45.7678747,2.960393
 11778606997,node,Aux Canuts Des Dômes,restaurant,Clermont-Ferrand,"55 Boulevard Gustave Flaubert, 63000",63000,,45.7697226,3.1236984
 11819976004,node,Nonna,restaurant,Clermont-Ferrand,"8 Rue de la Tour d'Auvergne, 63000, Clermont-Ferrand",63000,,45.7769283,3.0834248
 11832987542,node,Island Poké,restaurant,Clermont-Ferrand,,,,45.7792492,3.0814533
+11834880809,node,,artwork,Clermont-Ferrand,,,,45.7835537,3.0809629
+11834888757,node,,artwork,Clermont-Ferrand,,,,45.783362,3.0809575
 11841684462,node,Il Gusto di Napoli,restaurant,Clermont-Ferrand,"10 Place de Salford, 63100, Clermont-Ferrand",63100,https://ilgustodinapoli.com/,45.7794335,3.0920945
+11860659652,node,,artwork,Clermont-Ferrand,,,,45.7394941,3.0601983
+11867285542,node,,viewpoint,Clermont-Ferrand,,,,45.7836176,3.0495572
+11867479527,node,,viewpoint,Clermont-Ferrand,,,,45.7193661,3.1228899
+11895381900,node,,castle,Clermont-Ferrand,,,,45.6838888,3.4808743
 11975720169,node,Papapoule by Lo,restaurant,Clermont-Ferrand,"46 Avenue des Thermes, 63400",63400,https://www.papapoulebylo.fr/,45.7719427,3.063275
 11989938549,node,La table d'en face,restaurant,Clermont-Ferrand,"6 Place des Carmes Déchaux, 63000, Clermont-Ferrand",63000,https://www.latabledenface.com/,45.7825676,3.0934448
 11990582962,node,Break&Home Clermont-Ferrand,hotel,Clermont-Ferrand,,,https://breakandhome.com/clermont-ferrand,45.782355,3.0912009
 12047984088,node,Le Petit Casse Graine,restaurant,Clermont-Ferrand,,,,45.7695566,3.0090451
+12075195911,node,,memorial,Clermont-Ferrand,,,,45.6447073,3.4351387
 12094752771,node,Séjours & Affaires aparthotel Clermont Ferrand Park République,hotel,Clermont-Ferrand,117 Avenue de la République,,https://www.sejours-affaires.com/residence-hoteliere-aparthotel-clermontferrand-165.html,45.7888323,3.108
 12103897139,node,Pizza Maestro Chignat,restaurant,Clermont-Ferrand,,,https://pizza-maestro-chignat.fr/,45.7858156,3.2811848
 12132267625,node,Hollywood Pizza,restaurant,Clermont-Ferrand,,,,45.6628095,3.2085694
 12141645710,node,Sushi wheel's,restaurant,Clermont-Ferrand,,,,45.7228283,3.3399905
+12143910242,node,Jean Jaurès,memorial,Clermont-Ferrand,,,,45.7768487,3.0969434
 12144945805,node,Le comptoir de la Colombe,restaurant,Clermont-Ferrand,,,,45.6418546,3.2456005
 12172043486,node,Chez Alice,restaurant,Clermont-Ferrand,74 Rue Henri Barbusse,,,45.7825423,3.0928655
 12180564540,node,La galerie des saveurs,restaurant,Clermont-Ferrand,,,,45.7397984,3.1987861
+12235908469,node,,artwork,Clermont-Ferrand,,,,45.7881403,3.0750849
+12253315087,node,GTMC,artwork,Clermont-Ferrand,,,,45.8116289,3.086713
+12296120262,node,,ruins,Clermont-Ferrand,,,,45.7882282,3.0763576
+12313954486,node,Snoopy 120,artwork,Clermont-Ferrand,,,,45.7777761,3.0858583
 12316032425,node,Le Petit Graillou,restaurant,Clermont-Ferrand,,,,45.7639407,3.0059877
+12345977909,node,Table d'orientation nord,viewpoint,Clermont-Ferrand,,,,45.7738021,3.2860619
 12358446315,node,Chat'Lounge,restaurant,Clermont-Ferrand,"2 Place Gilbert Gaillard, 63000, Clermont-Ferrand",63000,https://chatlounge.fr/,45.7804335,3.0831865
+12389655020,node,Parc de Gravenoire,park,Clermont-Ferrand,"63122, Ceyrat",63122,,45.7519903,3.0581891
 12420861853,node,Agrim,restaurant,Clermont-Ferrand,,,https://www.restaurant-agrim.fr/,45.7756623,3.1734356
+12460915449,node,,viewpoint,Clermont-Ferrand,,,,45.6600479,3.0932092
+12551280919,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7757426,3.0870173
+12551312625,node,,artwork,Clermont-Ferrand,,,https://space-invaders.com/,45.7804549,3.0909086
+12595154321,node,,artwork,Clermont-Ferrand,,,,45.761467,3.1282827
+12638034320,node,,viewpoint,Clermont-Ferrand,,,,45.8081283,3.0807597
+12752665516,node,,park,Clermont-Ferrand,,,,45.8159155,3.1208138
+12759079203,node,Théatre antique de Montaudoux,ruins,Clermont-Ferrand,,,,45.7608333,3.0723597
 12775745649,node,L'Estanco,restaurant,Clermont-Ferrand,"40 Bis Avenue des Thermes, 63400",63400,,45.7723434,3.0636753
 12860559268,node,La Donna Maria,restaurant,Clermont-Ferrand,,,,45.7792407,3.0833651
 12864509801,node,Piperno,restaurant,Clermont-Ferrand,"11 Place de la Victoire, 63000, Clermont-Ferrand",63000,https://piperno.fr,45.7775404,3.0856799
@@ -389,22 +723,727 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 12980603484,node,Anatole,restaurant,Clermont-Ferrand,,,,45.7799359,3.1196984
 12989462761,node,Buumi,restaurant,Clermont-Ferrand,,,,45.7783589,3.0809824
 13001905502,node,La gaufrerie de Louise,restaurant,Clermont-Ferrand,23 Boulevard du Lac,,,45.667597,2.9832857
+13017269099,node,,viewpoint,Clermont-Ferrand,,,,45.7211973,3.4028199
 13028037182,node,Distributeur le petit Naples,restaurant,Clermont-Ferrand,,,,45.6421287,3.2450512
 13039981230,node,IV Saisons Pizz,restaurant,Clermont-Ferrand,,,,45.7446153,3.1774005
 13125430119,node,Les Domaines Qui Montent,restaurant,Clermont-Ferrand,,,https://www.ldqm-clermont.fr/,45.7766644,3.0759148
 13167526728,node,Planty Kitchen,restaurant,Clermont-Ferrand,,,,45.7794592,3.0832138
 13178703513,node,Le Duguesclin,restaurant,Clermont-Ferrand,,,https://le-duguesclin.fr,45.795212,3.1128189
+13183939127,node,La Forêt des Arboris,theme_park,Clermont-Ferrand,,,https://www.laforetdesarboris.fr/,45.6739883,2.9943083
+13208366701,node,,viewpoint,Clermont-Ferrand,,,,45.8092636,2.9804646
+13361826846,node,Cabane en pierres sèches,attraction,Clermont-Ferrand,,,,45.6681416,3.0855202
+13361828475,node,Cabane en pierres sèches,attraction,Clermont-Ferrand,,,,45.6688454,3.0887107
+13361828478,node,Cabane en pierres sèches,attraction,Clermont-Ferrand,,,,45.6676186,3.0871415
+13361828485,node,Cabane Terrier,attraction,Clermont-Ferrand,,,,45.6678891,3.0888872
+13361828508,node,Cabane Aiguier,attraction,Clermont-Ferrand,,,,45.6685109,3.0861081
+13361828545,node,Cabane en pierres sèches,attraction,Clermont-Ferrand,,,,45.6679832,3.0857651
+13361828591,node,Cabane en pierres sèches,attraction,Clermont-Ferrand,,,,45.6684597,3.0888576
+13373349563,node,,artwork,Clermont-Ferrand,,,,45.7814563,3.0918403
+13373357740,node,,artwork,Clermont-Ferrand,,,,45.7876109,3.0998985
+13373359151,node,,artwork,Clermont-Ferrand,,,,45.7799148,3.0829301
+13373926673,node,,viewpoint,Clermont-Ferrand,,,,45.6794544,3.0949761
+13443007348,node,Palais des comtes d'Auvergne,castle,Clermont-Ferrand,,,,45.643212,3.2460877
+13461849297,node,,artwork,Clermont-Ferrand,,,,45.7733311,3.08925
+13463497077,node,,artwork,Clermont-Ferrand,,,,45.7793201,3.0826481
+13481846557,node,,viewpoint,Clermont-Ferrand,,,,45.8003043,3.0693402
+13484060271,node,,memorial,Clermont-Ferrand,,,,45.7717113,2.9629077
+13522947999,node,,memorial,Clermont-Ferrand,,,,45.7288026,3.2326536
+13525046360,node,,memorial,Clermont-Ferrand,,,,45.7766332,3.3168834
 13527388903,node,Baci Baci Pizza,restaurant,Clermont-Ferrand,"50 Avenue Pasteur, Chamalières",,https://bacibaci-pizza.eatbu.com/,45.7734516,3.0751038
 13532485178,node,Chez le Pistore,restaurant,Clermont-Ferrand,"4 Rue Michel Rocard, 63000, Clermont-Ferrand",63000,https://www.instagram.com/chezlepistore/,45.7721868,3.0859845
+13588003935,node,,viewpoint,Clermont-Ferrand,,,,45.7586857,3.068759
 13602447627,node,Le 17.45,restaurant,Clermont-Ferrand,"6 Rue Michel Rocard, 63000, Clermont-Ferrand",63000,https://www.le17-45.fr/,45.7722148,3.0856865
 13625610625,node,Italio,restaurant,Clermont-Ferrand,,,https://www.italio.fr/,45.7671348,3.0945494
 13638695128,node,Restaurant de L’Oceania,restaurant,Clermont-Ferrand,,,,45.7717071,3.0837355
+13647758588,node,,memorial,Clermont-Ferrand,,,,45.7027656,3.432391
 13707759474,node,Chez Maximes,restaurant,Clermont-Ferrand,78 Rue Lamartine,,https://www.restaurantchezmaximes.com/,45.7770501,3.0775467
+13708860385,node,,artwork,Clermont-Ferrand,,,,45.7798264,3.0879682
+13708879555,node,,gallery,Clermont-Ferrand,,,,45.7791811,3.0880045
+13708884014,node,,artwork,Clermont-Ferrand,,,,45.7881086,3.1057087
+13721799447,node,,ruins,Clermont-Ferrand,,,,45.7997876,2.985168
+13789766106,node,,gallery,Clermont-Ferrand,,,,45.780255,3.0894221
+13794093303,node,Affût I,artwork,Clermont-Ferrand,,,,45.7735249,3.0887667
+13814990609,node,,memorial,Clermont-Ferrand,,,,45.6506877,3.3283371
 13820380988,node,Casa di Maestro,restaurant,Clermont-Ferrand,,,,45.7466361,3.0949139
 13844119813,node,Bangkok Factory,restaurant,Clermont-Ferrand,,,,45.760545,3.1377424
 13844123003,node,Buumi,restaurant,Clermont-Ferrand,,,,45.7605484,3.1374934
 13898649208,node,Grand Mess - Le Grand Restaurant,restaurant,Clermont-Ferrand,,,,45.7615789,3.1414284
 13898649209,node,Grand Mess - Le Bouillon,restaurant,Clermont-Ferrand,,,,45.761361,3.141762
+13908820009,node,,memorial,Clermont-Ferrand,,,,45.6749719,3.0836662
 13946153609,node,La Mangoune,restaurant,Clermont-Ferrand,"1 Rue Didier Daurat, 63000, Clermont-Ferrand",63000,https://lamangoune63.com/,45.7874931,3.140446
 13947599750,node,O bistrot,restaurant,Clermont-Ferrand,,,,45.7271972,3.3402315
+13965335408,node,Château du Buron,castle,Clermont-Ferrand,,,,45.6177198,3.2444047
 13978030651,node,Les bonnes manières,restaurant,Clermont-Ferrand,,,,45.7254394,3.3388452
+13996275746,node,,restaurant,Clermont-Ferrand,,,,45.6664932,2.9924709
+4245800,way,Jardin Lecoq,park,Clermont-Ferrand,,,,45.7722981,3.0884129
+25871533,way,Temple de Mercure,attraction,Clermont-Ferrand,,,,45.7717795,2.9645044
+33036679,way,Parc de Montjuzet,park,Clermont-Ferrand,,,,45.7889749,3.0734994
+34405309,way,,ruins,Clermont-Ferrand,,,,45.747209,3.0237128
+35155024,way,,park,Clermont-Ferrand,,,,45.7687911,3.0850221
+35163950,way,Parc du Creux de l'Enfer,park,Clermont-Ferrand,,,,45.7660934,3.1143234
+37722391,way,,ruins,Clermont-Ferrand,,,,45.7472267,3.0235835
+37722392,way,,ruins,Clermont-Ferrand,,,,45.7468091,3.0238767
+38280269,way,Parc de Boisbeaumont,park,Clermont-Ferrand,,,,45.7554285,3.0995921
+38682593,way,Terrain au lavoir,garden,Clermont-Ferrand,,,,45.7772347,3.0655746
+41246431,way,Parc Franck Bayle,park,Clermont-Ferrand,,,,45.7522393,3.1163555
+44311518,way,Square de la Résistance,park,Clermont-Ferrand,,,,45.7769056,3.0968188
+52175243,way,Place de l'Aire,park,Clermont-Ferrand,,,,45.7971797,3.249447
+62799687,way,Château de la Bâtisse,castle,Clermont-Ferrand,,,,45.6916037,3.0844885
+62800002,way,Château de Varvasse,castle,Clermont-Ferrand,,,,45.693798,3.1019255
+62837237,way,La Rôtisserie,restaurant,Clermont-Ferrand,"30 Avenue Lavoisier, 63170, Aubière",63170,https://www.larotisserie.eu/,45.7555986,3.1424252
+62837276,way,La Brasserie,restaurant,Clermont-Ferrand,"10 Rue des Sauzes, Aubière",,,45.7557306,3.130638
+62837342,way,The Originals City Hôtel,hotel,Clermont-Ferrand,"8 Avenue Lavoisier, Aubière",,,45.7581326,3.1435857
+62837611,way,Honoré,restaurant,Clermont-Ferrand,"64 Avenue Ernest Cristal, 63170, Aubière",63170,https://www.honore-restaurant.fr/,45.7588289,3.1433169
+62837805,way,La Boucherie,restaurant,Clermont-Ferrand,"26 bis Avenue Lavoisier, 63170, Aubière",63170,,45.7559075,3.1421798
+62838083,way,Ibis Budget,hotel,Clermont-Ferrand,"22 Avenue Lavoisier, 63170, Aubière",63170,,45.7567776,3.1418239
+62838553,way,Brasserie 5ème saison,restaurant,Clermont-Ferrand,"34 Avenue de Cournon, 63170, Aubière",63170,,45.7528261,3.1356686
+62839786,way,Musée de la Vigne et du Vin,museum,Clermont-Ferrand,"24 bis Avenue Jean Noëllet, 63170",63170,,45.7535152,3.1061311
+62839838,way,Brit Hôtel,hotel,Clermont-Ferrand,"20 Avenue Lavoisier, 63170, Aubière",63170,https://www.clermont-sud.brit-hotel.fr,45.7569878,3.1419249
+62840092,way,Mokoo,restaurant,Clermont-Ferrand,"8 Avenue Lavoisier, 63170, Aubière",63170,https://www.mokoo.fr/,45.7581972,3.1432298
+62840120,way,Ô Panda,restaurant,Clermont-Ferrand,"96 Avenue Ernest Cristal, 63170, Aubière",63170,,45.7568968,3.1476675
+62840334,way,Chez le Brasseur,restaurant,Clermont-Ferrand,"14 Avenue Lavoisier, 63170, Aubière",63170,https://www.chezlebrasseur.com/,45.7580208,3.1419564
+62841002,way,Ristorante Del Arte,restaurant,Clermont-Ferrand,"26 Avenue Lavoisier, 63170, Aubière",63170,https://www.delarte.fr/restaurant-italien-pizzeria-clermont-ferrand-aubiere.html,45.7561448,3.1421164
+62841015,way,Le Bouche B,restaurant,Clermont-Ferrand,"15 Avenue Lavoisier, 63170, Aubière",63170,,45.7568292,3.145181
+62841157,way,Première Classe,hotel,Clermont-Ferrand,"18 Avenue Lavoisier, 63170, Aubière",63170,,45.757313,3.1418425
+62842077,way,Campanile,hotel,Clermont-Ferrand,"16 Avenue Lavoisier, 63170, Aubière",63170,,45.7577089,3.1418516
+62842989,way,L'Overnial,restaurant,Clermont-Ferrand,"82 Avenue Ernest Cristal, 63170, Aubière",63170,https://www.lovernial.fr/,45.7584021,3.145025
+62843140,way,B&B Hôtel Clermond-Ferrand Sud Aubière,hotel,Clermont-Ferrand,"28 Avenue Lavoisier, 63170, Aubière",63170,https://www.hotel-bb.com/fr/hotels/clermont-ferrand-sud-aubiere.htm,45.7557588,3.1423658
+62843773,way,La Paillotte à Francis,restaurant,Clermont-Ferrand,3 Rue des Ribes,,,45.7546411,3.1465167
+62843992,way,Hippopotamus,restaurant,Clermont-Ferrand,"24 Avenue Lavoisier, 63170, Aubière",63170,,45.7564462,3.1420848
+62845146,way,Oishi,restaurant,Clermont-Ferrand,"49 Avenue Lavoisier, Aubière",,,45.7564545,3.1455488
+62845234,way,Restaurant Universitaire des Cézeaux,restaurant,Clermont-Ferrand,"27 Avenue Blaise Pascal, 63170",63170,https://www.crous-clermont.fr/restaurant/resto-u-restocezo/,45.7584928,3.1137734
+62846353,way,Esprit Latin,restaurant,Clermont-Ferrand,"38 Avenue Lavoisier, 63170, Aubière",63170,,45.7553296,3.144374
+62847446,way,Campanile,hotel,Clermont-Ferrand,,,,45.757726,3.1413197
+62943329,way,Chez Freddo,restaurant,Clermont-Ferrand,,,,45.7054198,3.0204667
+63096385,way,Hôtel Best Western Gergovie,hotel,Clermont-Ferrand,"25 Allée du Petit Puy, 63170, Pérignat-lès-Sarliève",63170,,45.7356382,3.148103
+63096609,way,,castle,Clermont-Ferrand,,,,45.7358032,3.1386341
+63098765,way,Restaurant Hotel Best Western Gergovie,restaurant,Clermont-Ferrand,"25 Allée du Petit Puy, 63170, Pérignat-lès-Sarliève",63170,,45.7356241,3.148322
+63187520,way,Château de Blanzat,castle,Clermont-Ferrand,,,,45.8271935,3.0741097
+63206477,way,Cantine VetAgro Sup,restaurant,Clermont-Ferrand,,,,45.7753586,3.1750032
+63207420,way,La Deuche,restaurant,Clermont-Ferrand,18 ter Rue de Milan,,https://www.restaurant-ladeuche.com/,45.773791,3.204058
+63209028,way,La Deuche,restaurant,Clermont-Ferrand,18 ter Rue de Milan,,https://www.restaurant-ladeuche.com/,45.77382,3.2039124
+63209043,way,,garden,Clermont-Ferrand,,,,45.7757512,3.1738978
+63467650,way,Aux 3 gourmands,restaurant,Clermont-Ferrand,,,,45.7437678,3.1673449
+63475420,way,La Terrasse,restaurant,Clermont-Ferrand,,,,45.7313535,3.2108376
+63475804,way,Aux 3 gourmands,restaurant,Clermont-Ferrand,,,,45.7436598,3.167371
+63477352,way,Brasserie du rond point,restaurant,Clermont-Ferrand,,,,45.7539806,3.1568995
+63478135,way,Château de la Ribeyre,castle,Clermont-Ferrand,,,,45.7231344,3.2012837
+63478431,way,traiteur montrognon,restaurant,Clermont-Ferrand,,,,45.7422338,3.1677536
+64141468,way,Château d'Opme,castle,Clermont-Ferrand,2 Rue Maréchal de Lattre de Tassigny,,,45.707323,3.0899302
+64963674,way,Princesse Flore,hotel,Clermont-Ferrand,,,,45.7670474,3.0556151
+65155076,way,Hôtel de l'Artière,hotel,Clermont-Ferrand,,,,45.7212823,3.0685728
+66400774,way,Hôtel Le Chatel,hotel,Clermont-Ferrand,,,,45.7655773,3.0534436
+66401027,way,Le Biniou,restaurant,Clermont-Ferrand,,,,45.7653662,3.0484464
+66401865,way,Musée de Royat,museum,Clermont-Ferrand,,,,45.7648623,3.0492133
+66669878,way,Ristorante Del Arte,restaurant,Clermont-Ferrand,"ZAC du Brezet Est, 63000, Clermont-Ferrand",63000,https://www.delarte.fr/restaurant-italien-pizzeria-clermont-ferrand.html,45.7862693,3.140281
+66669912,way,B&B Hôtel,hotel,Clermont-Ferrand,,,,45.7867005,3.1413557
+66670886,way,Hôtel Novotel Clermont-Ferrand,hotel,Clermont-Ferrand,,,https://www.hotel-novotel-clermontferrand.com/,45.7865107,3.1425436
+66671080,way,Le Jules Verne,restaurant,Clermont-Ferrand,"1 Rue Jules Verne, 63100",63100,,45.7862068,3.1370789
+66671270,way,Hôtel F1 Clermont-Ferrand Est,hotel,Clermont-Ferrand,,,https://all.accor.com/hotel/2286/index.fr.shtml,45.7859009,3.1404062
+66684793,way,Flunch,restaurant,Clermont-Ferrand,,,,45.7635902,3.1251955
+66685545,way,Buffalo Grill,restaurant,Clermont-Ferrand,,,,45.7667577,3.125623
+66686204,way,Campanile,hotel,Clermont-Ferrand,,,,45.7750491,3.1202954
+66686259,way,Léon,restaurant,Clermont-Ferrand,,,,45.7672268,3.125468
+66687132,way,Contact Hotel Lune Etoile La Pardieu,hotel,Clermont-Ferrand,,,,45.7676608,3.1252845
+66687335,way,Le chaudron,restaurant,Clermont-Ferrand,"66 Rue des Courtiaux, 63000, Clermont-Ferrand",63000,,45.7684348,3.1308771
+66687867,way,Au Cochon Corrézien,restaurant,Clermont-Ferrand,,,,45.7652554,3.124497
+66733873,way,La Mère Moustache,restaurant,Clermont-Ferrand,,,,45.7602541,3.1414631
+66733956,way,Kyriad Clermont-Ferrand Sud La Pardieu,hotel,Clermont-Ferrand,,,,45.7600145,3.1421501
+66734111,way,Cosmo Society (Ex B. Box Club),restaurant,Clermont-Ferrand,,,,45.7629322,3.1403465
+66734298,way,La Criée,restaurant,Clermont-Ferrand,,,,45.7607488,3.1407446
+66735490,way,Le Quai,restaurant,Clermont-Ferrand,,,https://www.quai63.com/,45.7603852,3.1412211
+66736644,way,Château des Vergnes,castle,Clermont-Ferrand,,,,45.8130072,3.1286182
+66738047,way,Ace Hotel,hotel,Clermont-Ferrand,,,,45.7597831,3.1427401
+66738090,way,Caffè Mazzo,restaurant,Clermont-Ferrand,,,,45.7611314,3.1407092
+66835063,way,Courtepaille,restaurant,Clermont-Ferrand,,,,45.8098787,3.1097401
+66849596,way,La Boucherie,restaurant,Clermont-Ferrand,,,https://www.la-boucherie.fr/restaurant-viande/clermont-ferrand/,45.8037482,3.1174833
+66955465,way,Château d'Auteyras,castle,Clermont-Ferrand,,,,45.726425,3.3778447
+67015490,way,Musée d'Art Roger Quilliot,museum,Clermont-Ferrand,63100,63100,https://www.clermontmetropole.eu/bouger-se-divertir/le-dynamisme-culturel/les-musees-de-clermont-auvergne-metropole/marq-musee-dart-roger-quilliot/,45.7939309,3.116073
+67330461,way,La Pergola,restaurant,Clermont-Ferrand,,,,45.7861506,3.0930579
+67330727,way,Suite Novotel,hotel,Clermont-Ferrand,63100,63100,,45.7853075,3.102073
+67358511,way,Basilique Notre-Dame-du-Port,attraction,Clermont-Ferrand,,,,45.7806816,3.089627
+67358530,way,Hôtel littéraire Alexandre Vialatte,hotel,Clermont-Ferrand,16 Place Delille,,https://www.hotelvialatte.com/,45.7802528,3.0918729
+67372654,way,IL Giardino,restaurant,Clermont-Ferrand,,,,45.7820617,3.0984464
+67373063,way,La Vache qui Tête,restaurant,Clermont-Ferrand,,,,45.7791683,3.0810121
+67373188,way,Ibis Styles,hotel,Clermont-Ferrand,,,,45.7798259,3.1010622
+67373203,way,L'Entre Deux,restaurant,Clermont-Ferrand,63000,63000,,45.7804251,3.0820691
+67490795,way,Fond Régional d'Art Contemporain,museum,Clermont-Ferrand,,,https://fracauvergne.fr/,45.7783271,3.0868586
+67490953,way,Hôtel Zurich,hotel,Clermont-Ferrand,,,,45.780254,3.1018465
+67491385,way,La table du Puy,restaurant,Clermont-Ferrand,,,,45.7771807,3.0869552
+67491430,way,L'écureuil,restaurant,Clermont-Ferrand,,,,45.7790269,3.0805255
+67491448,way,Jean Claude Leclerc,restaurant,Clermont-Ferrand,,,,45.7789181,3.0805071
+67497345,way,Hôtel Saint-André,hotel,Clermont-Ferrand,,,,45.7785396,3.0985846
+67517840,way,Cathédrale Notre-Dame-de-l'Assomption,attraction,Clermont-Ferrand,"Place de la Victoire, 63000, Clermont-Ferrand",63000,,45.7787336,3.0858214
+67518704,way,Hôtel Fontfreyde Centre Photographique,museum,Clermont-Ferrand,,,,45.7788961,3.08327
+67552132,way,Muséum Henri-Lecoq,museum,Clermont-Ferrand,,,,45.7742009,3.0884524
+67552324,way,Pavillon Lecoq,restaurant,Clermont-Ferrand,2 Cours Sablon,,,45.7724559,3.0892443
+67603988,way,Château de Rabanesse,castle,Clermont-Ferrand,,,,45.7687021,3.0870387
+67886560,way,Balladins Clermont / Chateaugay,hotel,Clermont-Ferrand,,,,45.8516706,3.1122344
+68195842,way,Parc Jay,park,Clermont-Ferrand,,,,45.8494915,3.0853344
+69707123,way,Parc de la Treille,park,Clermont-Ferrand,,,,45.8250127,3.149223
+71528111,way,Parc des Landais,garden,Clermont-Ferrand,,,,45.7654765,3.1098861
+71528144,way,,park,Clermont-Ferrand,,,,45.7684986,3.1090126
+71528146,way,Square des Meuniers,park,Clermont-Ferrand,,,,45.7670006,3.1043019
+71528166,way,Parc et Complexe Sportif de La Mourette,park,Clermont-Ferrand,,,,45.7514243,3.0997474
+79439075,way,Château de Montrognon,ruins,Clermont-Ferrand,,,,45.7309403,3.0793339
+83344293,way,Château de Bellevue,castle,Clermont-Ferrand,,,,45.7633869,3.0619569
+83702715,way,Le Tand’m,restaurant,Clermont-Ferrand,"7 Avenue Joseph Claussat, 63400, Chamalières",63400,,45.7771769,3.0714977
+83709984,way,Manoir de Beaulieu,castle,Clermont-Ferrand,,,,45.7788957,3.0675994
+83912777,way,Labyrinthe des Volcans,attraction,Clermont-Ferrand,,,http://labyrinthe-des-volcans.com/,45.7785505,3.1829455
+84158130,way,Le Pré,restaurant,Clermont-Ferrand,,,,45.7886573,3.0519931
+84553676,way,La Maison Rouge,restaurant,Clermont-Ferrand,,,,45.8242538,3.111507
+84555542,way,L'inévitable,restaurant,Clermont-Ferrand,,,,45.8398277,3.124557
+84561640,way,Buffalo Grill,restaurant,Clermont-Ferrand,,,,45.8178044,3.1091116
+85024389,way,La Pierre Carrée,viewpoint,Clermont-Ferrand,,,,45.7839565,3.0494918
+85406566,way,Square Champréal,park,Clermont-Ferrand,,,,45.767522,3.0710964
+85825167,way,Place Camille Ballofy,park,Clermont-Ferrand,,,,45.8296052,3.0771365
+88387556,way,Square Amadéo,park,Clermont-Ferrand,,,,45.7780692,3.0732459
+91284316,way,Château de Sampigny,castle,Clermont-Ferrand,,,,45.8247235,3.141336
+91286927,way,Fasthôtel,hotel,Clermont-Ferrand,"84 Chemin Donna-Vignat, 63360, Gerzat",63360,,45.841219,3.1573885
+91287486,way,Kyriad DIRECT,hotel,Clermont-Ferrand,"82 Chemin Donna-Vignat, 63360, Gerzat",63360,,45.8406735,3.157644
+91289094,way,La Boucherie,restaurant,Clermont-Ferrand,,,,45.8402635,3.1576495
+91291067,way,B&B Hôtel,hotel,Clermont-Ferrand,"78 Chemin Donna-Vignat, 63360, Gerzat",63360,,45.8398215,3.157767
+91637394,way,,castle,Clermont-Ferrand,,,,45.7091227,3.3726926
+92451250,way,Château de Seymiers,castle,Clermont-Ferrand,,,,45.6817545,3.399425
+92655741,way,Château des Martinanches,castle,Clermont-Ferrand,,,,45.6408047,3.4998718
+92715599,way,Donjon,castle,Clermont-Ferrand,,,,45.6721478,3.4421745
+96521272,way,,park,Clermont-Ferrand,,,,45.7861717,3.0998557
+102196385,way,Château de Cheix,castle,Clermont-Ferrand,,,,45.73502,3.4495315
+102607973,way,,ruins,Clermont-Ferrand,,,,45.7452575,3.3718085
+106135744,way,Square Olympe de Gouges,park,Clermont-Ferrand,,,,45.7804472,3.0858781
+106247602,way,,park,Clermont-Ferrand,,,,45.6866381,3.1913565
+107558563,way,Chez Didier,restaurant,Clermont-Ferrand,,,,45.7937923,3.2584874
+107672138,way,Chez Dubien,restaurant,Clermont-Ferrand,,,,45.778601,3.2485105
+107790533,way,Château de Chignat,castle,Clermont-Ferrand,,,,45.787666,3.274852
+107791396,way,Église Notre-Dame,ruins,Clermont-Ferrand,,,,45.773547,3.286975
+108227051,way,,park,Clermont-Ferrand,,,,45.6671325,2.9839027
+108227052,way,,beach,Clermont-Ferrand,,,,45.6669178,2.9840409
+109971343,way,Espace Verger du Caire,park,Clermont-Ferrand,,,,45.7189519,3.1878705
+111525865,way,,park,Clermont-Ferrand,,,,45.7837467,3.0838843
+111528978,way,,garden,Clermont-Ferrand,,,,45.7675575,3.0868396
+131667688,way,,park,Clermont-Ferrand,,,,45.670549,3.0045401
+137391846,way,Ancien Circuit de Charade,ruins,Clermont-Ferrand,,,,45.7455269,3.0253976
+142541902,way,Château de Turluron,ruins,Clermont-Ferrand,,,,45.724072,3.3192031
+146391999,way,Maison Grenouille,restaurant,Clermont-Ferrand,,,,45.7292153,3.2323113
+146412763,way,,memorial,Clermont-Ferrand,,,,45.7246955,3.2375657
+147568921,way,,garden,Clermont-Ferrand,,,,45.6435645,3.245413
+147572363,way,Au fil de l'eau,restaurant,Clermont-Ferrand,,,https://aufildeleau63.jimdo.com/,45.6607551,3.2016064
+148934526,way,Château de Murol en Saint-Amant,castle,Clermont-Ferrand,,,,45.667757,3.1083375
+148955090,way,Monument commémoratif à Vercingétorix,monument,Clermont-Ferrand,,,,45.720992,3.1268935
+148955255,way,La Hutte Gauloise,restaurant,Clermont-Ferrand,,,https://lahuttegauloise.com/,45.721379,3.126566
+148966238,way,Le clos d'Orcet,restaurant,Clermont-Ferrand,,,,45.707065,3.157176
+148990916,way,Château de Chalendrat,castle,Clermont-Ferrand,,,,45.695964,3.2328325
+149018430,way,Château de Montfleury,castle,Clermont-Ferrand,,,,45.6633296,3.2533898
+149164281,way,Auberge de l'Ailloux,restaurant,Clermont-Ferrand,,,,45.6113926,3.3504367
+149250008,way,,castle,Clermont-Ferrand,,,,45.59836,3.234841
+149899045,way,Château de Bard,castle,Clermont-Ferrand,,,,45.74238,3.2766495
+149899059,way,,castle,Clermont-Ferrand,,,,45.7423015,3.2768425
+150012122,way,Tour des Forts de La Sauvetat,castle,Clermont-Ferrand,,,,45.635633,3.1703
+150050592,way,Le Terroir des Bons Vivants,restaurant,Clermont-Ferrand,"54 Rue du Moulin, 63670, Le Cendre",63670,,45.722559,3.191075
+150099200,way,Le Châlet,restaurant,Clermont-Ferrand,,,,45.6785308,3.2049702
+151100420,way,Château de Travers,castle,Clermont-Ferrand,,,,45.6464421,3.1058939
+151114239,way,,castle,Clermont-Ferrand,,,,45.659037,3.0929545
+151114891,way,Église Notre-Dame,attraction,Clermont-Ferrand,,,,45.6600643,3.0934774
+151115586,way,,castle,Clermont-Ferrand,,,,45.6587605,3.092715
+154538981,way,Parc Montjoly,park,Clermont-Ferrand,,,,45.7744682,3.068077
+154542917,way,Parc Amélie Murat,park,Clermont-Ferrand,,,,45.7742446,3.0692679
+157998693,way,Château de Vassel,castle,Clermont-Ferrand,,,,45.7646041,3.3082675
+166962597,way,Hôtel Clermont Estaing,hotel,Clermont-Ferrand,,,,45.7884723,3.1136929
+167951235,way,Square Curie,garden,Clermont-Ferrand,,,,45.7928367,3.1649345
+169120045,way,Square Charles Sabourin,garden,Clermont-Ferrand,,,,45.7946748,3.052901
+169219681,way,Clinique Médicale de Cardio Pneumologie,garden,Clermont-Ferrand,,,,45.7936289,3.0519066
+169437984,way,Hôtel Première Classe Clermont-Ferrand Nord,hotel,Clermont-Ferrand,,,,45.8031297,3.116449
+169827387,way,,garden,Clermont-Ferrand,,,,45.7808909,3.052003
+169828318,way,,park,Clermont-Ferrand,,,,45.7792322,3.0527412
+169833721,way,,park,Clermont-Ferrand,,,,45.7753771,3.0607801
+169835123,way,,park,Clermont-Ferrand,,,,45.775466,3.06392
+169838777,way,Square Louis Chartoire,garden,Clermont-Ferrand,,,,45.775903,3.0631045
+169929793,way,,park,Clermont-Ferrand,,,,45.7813689,3.0653222
+169957793,way,Square de Verdun,garden,Clermont-Ferrand,,,,45.776787,3.0688039
+169966286,way,Parc Beaulieu,garden,Clermont-Ferrand,,,,45.7797365,3.0697178
+169970613,way,,garden,Clermont-Ferrand,,,,45.7808729,3.0705048
+169974279,way,,garden,Clermont-Ferrand,,,,45.7792704,3.0684839
+169975266,way,,garden,Clermont-Ferrand,,,,45.7781506,3.0700243
+169993994,way,Square Abbé Toury,park,Clermont-Ferrand,,,,45.7738181,3.1027781
+170127481,way,Place des Trois Ponts,park,Clermont-Ferrand,,,,45.782904,3.0869788
+170187523,way,Parc Thermal,park,Clermont-Ferrand,,,,45.7682665,3.0577748
+170232566,way,Square Aimé Coulaudon,park,Clermont-Ferrand,,,,45.773792,3.0761601
+170240459,way,Square Michel de l'Hospital,park,Clermont-Ferrand,,,,45.7770934,3.0889153
+170240461,way,Place Michel de l'Hospital,park,Clermont-Ferrand,,,,45.7764821,3.088906
+170610112,way,Parc de la Fraternité,park,Clermont-Ferrand,,,,45.8134653,3.1037207
+170703179,way,,garden,Clermont-Ferrand,,,,45.8095683,3.0986009
+170713588,way,,park,Clermont-Ferrand,,,,45.8120117,3.1268367
+170715932,way,Square d'Assas,park,Clermont-Ferrand,,,,45.7764129,3.0837636
+170745837,way,,park,Clermont-Ferrand,,,,45.8093086,3.1266364
+170751436,way,Jardin Botanique de la Charme,garden,Clermont-Ferrand,,,,45.8005146,3.1237806
+170760440,way,Place Pierre Lapadu-Hargues,park,Clermont-Ferrand,,,,45.7742813,3.1060862
+170844395,way,,garden,Clermont-Ferrand,,,,45.8089701,3.119016
+170900711,way,,garden,Clermont-Ferrand,,,,45.8174394,3.1420064
+171014627,way,,park,Clermont-Ferrand,,,,45.8009556,3.1666387
+171034142,way,,garden,Clermont-Ferrand,,,,45.7957725,3.1699531
+172107587,way,Parc Municipal,park,Clermont-Ferrand,,,,45.7675585,3.1969737
+172771834,way,,garden,Clermont-Ferrand,,,,45.793163,3.1168667
+172772321,way,,garden,Clermont-Ferrand,,,,45.7937026,3.1169611
+172772867,way,Place de la Comtesse G.,park,Clermont-Ferrand,,,,45.7928939,3.1169339
+172785731,way,,garden,Clermont-Ferrand,,,,45.7990073,3.1145642
+172792391,way,,garden,Clermont-Ferrand,,,,45.7998647,3.1201301
+172934715,way,Square de la Cerisière,garden,Clermont-Ferrand,,,,45.7937012,3.1126036
+173040024,way,,garden,Clermont-Ferrand,,,,45.7872822,3.0866326
+173730098,way,,park,Clermont-Ferrand,,,,45.7653636,3.1191958
+173739190,way,,park,Clermont-Ferrand,,,,45.7627164,3.0498179
+173769181,way,,park,Clermont-Ferrand,,,,45.7614069,3.1335384
+173846477,way,Square Louis Loucheur,park,Clermont-Ferrand,,,,45.7620136,3.0956113
+173962679,way,Parc de la Muraille,park,Clermont-Ferrand,,,,45.7671237,3.0910718
+174283162,way,,garden,Clermont-Ferrand,,,,45.7810464,3.0873592
+174317953,way,Square du 8 mai 1945,park,Clermont-Ferrand,,,,45.7649917,3.0445165
+174735489,way,Square Norman,garden,Clermont-Ferrand,,,,45.7938312,3.0967875
+175648092,way,Espace Ariccia,park,Clermont-Ferrand,,,,45.7313908,3.2016186
+175648093,way,Espace Ariccia,park,Clermont-Ferrand,,,,45.731666,3.2033705
+180893587,way,Statue de Vercingétorix,memorial,Clermont-Ferrand,,,,45.7771211,3.081944
+180893883,way,Statue du Général Desaix,artwork,Clermont-Ferrand,,,,45.7758758,3.0822855
+183711595,way,Bassin d'Orage du Pourliat,park,Clermont-Ferrand,,,,45.7476794,3.0910428
+183711597,way,Parc du Bray,park,Clermont-Ferrand,,,,45.7477525,3.0828603
+185885485,way,Parc Bernard-de-Tocqueville,park,Clermont-Ferrand,,,,45.7309569,3.1013155
+189549854,way,Grand Mess Clermont-Ferrand,hotel,Clermont-Ferrand,"15 Rue de l'Éminée, 63000, Clermont-Ferrand",63000,https://www.grandmess.com/,45.7613652,3.1414329
+214749110,way,Sanctuaires gaulois et gallo-romain,ruins,Clermont-Ferrand,,,,45.6646752,3.188447
+218216834,way,Château de Montlosier,castle,Clermont-Ferrand,,,,45.694635,2.951054
+218217121,way,Hôtel Marius,hotel,Clermont-Ferrand,,,,45.6659335,2.981976
+218219756,way,Domaine du Lac,restaurant,Clermont-Ferrand,,,,45.667457,2.9839735
+218712142,way,Square du Moulin,park,Clermont-Ferrand,,,,45.7946625,3.110443
+218714579,way,,park,Clermont-Ferrand,,,,45.7947479,3.1113698
+220526888,way,,park,Clermont-Ferrand,,,,45.7495842,3.0692459
+227570714,way,Parc Montcervier,park,Clermont-Ferrand,,,,45.6447425,3.2493158
+233100189,way,,park,Clermont-Ferrand,,,,45.7758724,3.096566
+239571222,way,,park,Clermont-Ferrand,,,,45.7606087,3.0564117
+240848895,way,,garden,Clermont-Ferrand,,,,45.7047778,3.1315948
+249198673,way,Fontaine pétrifiante du pont naturel Saint-Alyre,attraction,Clermont-Ferrand,"32 Rue du Pont Naturel, 63000",63000,,45.7835845,3.0791149
+251327413,way,Square des Pègues,park,Clermont-Ferrand,,,,45.8228662,3.1493157
+251515816,way,,artwork,Clermont-Ferrand,,,,45.7505612,3.091031
+262847942,way,,park,Clermont-Ferrand,,,,45.7455678,3.0784854
+263694133,way,,park,Clermont-Ferrand,,,,45.7422797,3.2057728
+264760723,way,,park,Clermont-Ferrand,,,,45.7504298,3.3365601
+271077389,way,,park,Clermont-Ferrand,,,,45.786023,3.1422789
+276678903,way,Square de Verdun,park,Clermont-Ferrand,,,,45.7526594,3.083771
+278781886,way,Château de Montmorin,castle,Clermont-Ferrand,,,,45.6949284,3.3608056
+289202007,way,,garden,Clermont-Ferrand,,,,45.7878814,3.0612112
+289515418,way,Square Blaise Pascal,park,Clermont-Ferrand,,,,45.7804164,3.0848561
+290526815,way,Parc du Château des Quayres,garden,Clermont-Ferrand,,,,45.6554447,3.2465277
+290615198,way,Parc Bargoin,park,Clermont-Ferrand,,,,45.7633466,3.0630114
+290615201,way,Parc du château de la Batisse,park,Clermont-Ferrand,,,,45.6914125,3.0833433
+290643186,way,,park,Clermont-Ferrand,,,,45.6642615,3.2550156
+290802629,way,,park,Clermont-Ferrand,,,,45.6682618,3.2362241
+294295149,way,Square Pierre le Canadien,park,Clermont-Ferrand,,,,45.6826918,3.1848861
+294918122,way,Esplanade Simone Veil,park,Clermont-Ferrand,,,,45.7202349,3.1792642
+294971124,way,Square de la Résistance,park,Clermont-Ferrand,,,,45.8364796,3.1459163
+295077556,way,Square des Anciens Combattants A.F.N.,park,Clermont-Ferrand,,,,45.8236874,3.1424177
+297565215,way,,park,Clermont-Ferrand,,,,45.7052623,3.0218355
+299573476,way,,garden,Clermont-Ferrand,,,,45.7743664,3.108836
+300076608,way,,park,Clermont-Ferrand,,,,45.6332368,3.1685044
+300488001,way,Espace Temple de Mercure,museum,Clermont-Ferrand,,,,45.772144,2.9646158
+300488106,way,Les Hirondelles,hotel,Clermont-Ferrand,,,https://www.hotel-leshirondelles.com,45.7860655,3.0155911
+300488151,way,Château de Sarcenat,castle,Clermont-Ferrand,,,,45.7958434,3.0295128
+300489173,way,Le Village Auvergnat,restaurant,Clermont-Ferrand,,,,45.7691795,3.0039288
+303948578,way,,park,Clermont-Ferrand,,,,45.7245324,3.3397192
+304086082,way,Espace 2000,garden,Clermont-Ferrand,,,,45.6762936,3.482241
+304764812,way,Théâtre Romain,ruins,Clermont-Ferrand,,,,45.6644755,3.1892501
+305105432,way,Parc Thermal,park,Clermont-Ferrand,,,,45.7656621,3.0539704
+309254799,way,,garden,Clermont-Ferrand,,,,45.7984913,3.1187021
+309559396,way,,park,Clermont-Ferrand,,,,45.8130917,3.1285334
+309951448,way,Château de Fontanay,castle,Clermont-Ferrand,,,,45.715641,3.264717
+310124207,way,Château de Busséol,castle,Clermont-Ferrand,,,,45.6929281,3.2566157
+310124208,way,Château de Coppel,castle,Clermont-Ferrand,,,,45.6832838,3.3311056
+310124209,way,Château de Sarlièves,castle,Clermont-Ferrand,,,,45.7396564,3.1627311
+310124210,way,Château de la Chaux-Montgros,castle,Clermont-Ferrand,,,,45.6628485,3.3193867
+310267102,way,Château de la Bâtisse,park,Clermont-Ferrand,,,,45.6914541,3.0832202
+310312780,way,Château de Mezel,castle,Clermont-Ferrand,,,,45.755387,3.241848
+315469804,way,,park,Clermont-Ferrand,,,,45.6741,3.1280875
+318095535,way,Domaine de la Prade,park,Clermont-Ferrand,,,,45.8269873,3.1077971
+321220310,way,Château de Mauzun,castle,Clermont-Ferrand,,,,45.7056227,3.4283803
+321646965,way,,park,Clermont-Ferrand,"63170, Pérignat-lès-Sarliève",63170,,45.7362882,3.1378198
+323447128,way,,park,Clermont-Ferrand,,,,45.6691454,3.126505
+325873330,way,Sentier du bitume,attraction,Clermont-Ferrand,,,,45.7820946,3.146726
+339754942,way,Place d'Arménie,park,Clermont-Ferrand,,,,45.7827835,3.0786153
+339754943,way,,park,Clermont-Ferrand,,,,45.7828841,3.0775469
+339756970,way,,park,Clermont-Ferrand,,,,45.7798358,3.0891081
+345716077,way,Espace des Marronniers,park,Clermont-Ferrand,,,,45.7222196,3.185823
+355406287,way,Jules & John,restaurant,Clermont-Ferrand,,,https://www.jules-et-john.fr/,45.7820375,3.1199946
+358480805,way,Espace Junisson,park,Clermont-Ferrand,,,,45.7230489,3.1849728
+360407067,way,,garden,Clermont-Ferrand,,,,45.7990343,3.1175642
+368620121,way,,beach,Clermont-Ferrand,,,,45.6630752,2.9906856
+373825718,way,,park,Clermont-Ferrand,,,,45.7486404,3.0624494
+377282216,way,,park,Clermont-Ferrand,,,,45.79301,3.108505
+378434613,way,Square de l'Appel du 18 Juin 1940,garden,Clermont-Ferrand,,,,45.7732414,3.1210437
+380883941,way,Musée Bargoin,museum,Clermont-Ferrand,,,,45.7739978,3.0873549
+389430963,way,Théâtre Gaulois,ruins,Clermont-Ferrand,,,,45.6644165,3.1893756
+389430998,way,,ruins,Clermont-Ferrand,,,,45.6643931,3.1891453
+389431001,way,Quartier commerçant,ruins,Clermont-Ferrand,,,,45.665314,3.1884128
+390131544,way,,park,Clermont-Ferrand,,,,45.7392599,3.2169657
+392288656,way,,beach,Clermont-Ferrand,,,,45.7426286,3.2208902
+394184829,way,,beach,Clermont-Ferrand,,,,45.7587436,3.2182243
+395160335,way,,garden,Clermont-Ferrand,,,,45.7065268,3.0898499
+395160336,way,,garden,Clermont-Ferrand,,,,45.706517,3.0901357
+395160337,way,,garden,Clermont-Ferrand,,,,45.7063285,3.0898448
+395160338,way,,garden,Clermont-Ferrand,,,,45.7063118,3.0901365
+395444491,way,Monument aux Morts,memorial,Clermont-Ferrand,,,,45.7727032,3.2010299
+397557381,way,,memorial,Clermont-Ferrand,,,,45.7513877,3.2799033
+397975481,way,Parc Leon Lepetit,park,Clermont-Ferrand,,,,45.700544,3.1284713
+402033530,way,Place Léon Garmy,park,Clermont-Ferrand,,,,45.7805449,3.0983453
+420772236,way,,park,Clermont-Ferrand,,,,45.8279462,3.0793201
+429483015,way,Anatolia Parc,theme_park,Clermont-Ferrand,,,https://www.anatoliaparc.fr/,45.703237,3.157011
+437520974,way,Parc du Galion,park,Clermont-Ferrand,,,,45.8294814,3.1573541
+440186997,way,,park,Clermont-Ferrand,,,,45.7705308,3.0607948
+443098146,way,,beach,Clermont-Ferrand,,,,45.6686514,3.207847
+445899047,way,Jardin de l'Alchémille,park,Clermont-Ferrand,,,,45.7601567,3.1154819
+454675236,way,L'Auguste,restaurant,Clermont-Ferrand,,,http://www.augustebrasserie.fr/,45.7749311,3.0817017
+454675246,way,Hôtel Mercure,hotel,Clermont-Ferrand,,,,45.7752106,3.0818184
+457303232,way,,park,Clermont-Ferrand,,,,45.7317544,3.1457989
+457303233,way,,park,Clermont-Ferrand,,,,45.73352,3.1456223
+482254360,way,Ferme Urbaine Clermont-Ferrand,garden,Clermont-Ferrand,,,,45.7596792,3.0798106
+496422959,way,,garden,Clermont-Ferrand,,,,45.7968659,3.1222448
+496422960,way,,garden,Clermont-Ferrand,,,,45.7970571,3.1224353
+499873251,way,Square Suzanne Lacore,park,Clermont-Ferrand,,,,45.7822901,3.0848609
+509309060,way,,park,Clermont-Ferrand,,,,45.7447207,3.2121202
+510295063,way,,park,Clermont-Ferrand,,,,45.7433003,3.2107965
+510305141,way,,park,Clermont-Ferrand,,,,45.7400089,3.2194964
+513247352,way,,garden,Clermont-Ferrand,,,,45.7966883,3.1228447
+513247353,way,,garden,Clermont-Ferrand,,,,45.796906,3.122565
+515025523,way,Memphis,restaurant,Clermont-Ferrand,,,,45.7617653,3.1422535
+515170250,way,,park,Clermont-Ferrand,,,,45.694047,3.2210748
+515488400,way,,garden,Clermont-Ferrand,,,,45.7727265,3.0885365
+515488401,way,,garden,Clermont-Ferrand,,,,45.7729646,3.08791
+515488402,way,,garden,Clermont-Ferrand,,,,45.7730825,3.0881638
+515488698,way,,garden,Clermont-Ferrand,,,,45.7730159,3.0887046
+515489055,way,La mémoire des crapauds,artwork,Clermont-Ferrand,,,,45.7727156,3.0888031
+517031061,way,,park,Clermont-Ferrand,,,,45.70878,3.1222085
+520149639,way,,park,Clermont-Ferrand,,,,45.8364082,3.1113437
+526274531,way,,park,Clermont-Ferrand,,,,45.7372502,3.1909183
+528712196,way,Coulée Verte,park,Clermont-Ferrand,,,,45.7228832,3.1983966
+528712786,way,coulée verte,park,Clermont-Ferrand,,,,45.7236512,3.1957366
+528714748,way,coulée verte,park,Clermont-Ferrand,,,,45.7220957,3.1924084
+528715077,way,coulée verte,park,Clermont-Ferrand,,,,45.7205812,3.1900874
+528724305,way,,park,Clermont-Ferrand,,,,45.7478241,3.212484
+533342092,way,,memorial,Clermont-Ferrand,,,,45.741812,3.1990817
+541391446,way,Bistrot Gorki,restaurant,Clermont-Ferrand,33 Rue Gonod,,https://bistrotgorki.fr/,45.7743191,3.0824844
+549808125,way,Ibis,hotel,Clermont-Ferrand,,,,45.7792147,3.1181601
+550505493,way,Ibis Styles,hotel,Clermont-Ferrand,,,,45.7853803,3.1410123
+550505497,way,Ibis Budget,hotel,Clermont-Ferrand,,,,45.7872757,3.1396683
+585498139,way,Square du 19 mars 1962,park,Clermont-Ferrand,,,,45.7994922,3.2444349
+596552266,way,,park,Clermont-Ferrand,,,,45.7842958,3.0906186
+596552270,way,,park,Clermont-Ferrand,,,,45.783878,3.0904475
+596552271,way,,park,Clermont-Ferrand,,,,45.783811,3.0907593
+596948564,way,,park,Clermont-Ferrand,,,,45.7299218,3.1979976
+596948565,way,,park,Clermont-Ferrand,,,,45.7304623,3.1951592
+596958032,way,,park,Clermont-Ferrand,,,,45.7231125,3.1869005
+596958034,way,jardins potagers du village,garden,Clermont-Ferrand,,,,45.7216799,3.1905128
+603135689,way,,park,Clermont-Ferrand,,,,45.7438312,3.2126927
+630584348,way,L'Aventure Michelin,museum,Clermont-Ferrand,,,,45.7905583,3.1054988
+635925226,way,,park,Clermont-Ferrand,,,,45.7655302,3.1070807
+635925244,way,,park,Clermont-Ferrand,,,,45.7649003,3.107272
+644884677,way,,park,Clermont-Ferrand,,,,45.7616215,3.0489575
+648125215,way,,park,Clermont-Ferrand,,,,45.793632,3.2439983
+648192235,way,Monument aux Déportés,memorial,Clermont-Ferrand,,,,45.8029864,3.2442833
+653796199,way,,park,Clermont-Ferrand,,,,45.8035717,3.2463727
+658588073,way,Château de Buron,ruins,Clermont-Ferrand,,,,45.6176909,3.2444304
+675665749,way,,memorial,Clermont-Ferrand,,,,45.7318036,3.3045838
+683945658,way,Musée archéologique de la bataille de Gergovie,museum,Clermont-Ferrand,63670,63670,https://musee-gergovie.fr/,45.7197725,3.1269403
+690815213,way,,memorial,Clermont-Ferrand,,,,45.6933552,3.3096058
+695105869,way,Kyriad Eco - Clermont Ferrand Estaing,hotel,Clermont-Ferrand,,,https://eco-clermont-ferrand-estaing.kyriad.com/,45.7843339,3.110543
+696120088,way,,garden,Clermont-Ferrand,,,,45.7860797,3.0925478
+696120089,way,,garden,Clermont-Ferrand,,,,45.7858616,3.0928741
+698712098,way,,park,Clermont-Ferrand,,,,45.7687713,3.0869723
+704805005,way,,park,Clermont-Ferrand,,,,45.763611,3.1009734
+705633591,way,,garden,Clermont-Ferrand,,,,45.7714026,3.0924726
+712058459,way,,park,Clermont-Ferrand,,,,45.7150733,3.1917601
+712541084,way,,park,Clermont-Ferrand,,,,45.7693677,3.1160195
+715913105,way,,park,Clermont-Ferrand,,,,45.7749828,3.0894215
+721162729,way,,park,Clermont-Ferrand,,,,45.7392903,3.2158754
+728066654,way,Jardin des Carmes,park,Clermont-Ferrand,,,,45.782897,3.095113
+740180556,way,,garden,Clermont-Ferrand,,,,45.7778212,3.0930917
+741322733,way,,park,Clermont-Ferrand,,,,45.7517299,3.1126708
+747525526,way,,park,Clermont-Ferrand,,,,45.7661333,3.1904473
+770438827,way,Mairie de Pont-du-Château,castle,Clermont-Ferrand,,,,45.7969834,3.2484955
+780948687,way,,garden,Clermont-Ferrand,,,,45.774182,3.0827029
+780948690,way,,garden,Clermont-Ferrand,,,,45.773814,3.0828895
+780948691,way,,garden,Clermont-Ferrand,,,,45.7739514,3.0825822
+784522442,way,Jardin d'enfants,park,Clermont-Ferrand,"63450, Olloix",63450,,45.6213234,3.0474478
+826566120,way,,park,Clermont-Ferrand,,,,45.6335415,3.1737453
+832514770,way,Square des Meix,park,Clermont-Ferrand,,,,45.7130971,3.1891808
+832514772,way,Esplanade des coteaux,park,Clermont-Ferrand,,,,45.7148819,3.1893342
+838524468,way,,garden,Clermont-Ferrand,,,,45.7742363,3.1004539
+846944013,way,Square Gabriel Pasturel,park,Clermont-Ferrand,,,,45.7869944,3.1131005
+853755719,way,,garden,Clermont-Ferrand,,,,45.7806044,3.0935919
+853755720,way,,garden,Clermont-Ferrand,,,,45.7808735,3.0939892
+858125230,way,Square des Neufs Soleils,park,Clermont-Ferrand,,,,45.7657892,3.0941707
+858151108,way,,park,Clermont-Ferrand,,,,45.7683286,3.0989727
+860623425,way,,park,Clermont-Ferrand,,,,45.8302395,3.0808327
+860623448,way,,garden,Clermont-Ferrand,,,,45.8286597,3.0777725
+872386628,way,Parc d'Opme,park,Clermont-Ferrand,,,,45.7080064,3.0909642
+872386629,way,Parc de Saulzet-le-Chaud,park,Clermont-Ferrand,,,,45.7137325,3.0681226
+897919217,way,,park,Clermont-Ferrand,,,,45.8164032,3.107492
+902279847,way,Parc Bopfingen,park,Clermont-Ferrand,,,,45.7543103,3.0862305
+919942927,way,,park,Clermont-Ferrand,,,,45.7047674,3.1613486
+919942928,way,,park,Clermont-Ferrand,,,,45.7053495,3.160956
+925241796,way,,garden,Clermont-Ferrand,,,,45.6412419,3.2475041
+925241797,way,,garden,Clermont-Ferrand,,,,45.6411352,3.2475084
+929271048,way,,beach,Clermont-Ferrand,,,,45.6656045,3.2010796
+929271050,way,,beach,Clermont-Ferrand,,,,45.6631573,3.2007996
+934406848,way,Square du Puy-Mary,park,Clermont-Ferrand,,,,45.7252179,3.1929216
+934407210,way,Aire du tourniquet,park,Clermont-Ferrand,,,,45.7224752,3.1941731
+936113411,way,Parc Fonleite,park,Clermont-Ferrand,,,,45.8278084,3.0733657
+937051651,way,Aire de Bellevue,park,Clermont-Ferrand,,,,45.7257827,3.1919272
+937056304,way,Aire Paul Langevin,park,Clermont-Ferrand,,,,45.7187159,3.1786259
+938341816,way,Place du Grand Champ,park,Clermont-Ferrand,,,,45.720722,3.1838028
+938346868,way,Aire des Roches,park,Clermont-Ferrand,,,,45.7121753,3.1953981
+938347468,way,Square Saint-Exupéry,park,Clermont-Ferrand,,,,45.7263566,3.1834024
+938347861,way,Square Saint-Jacques,park,Clermont-Ferrand,,,,45.7173126,3.1953639
+938348279,way,Square du Sancy,park,Clermont-Ferrand,,,,45.7205735,3.1850688
+938418906,way,,park,Clermont-Ferrand,,,,45.8377127,3.1093803
+943372089,way,Flyin Clermont,attraction,Clermont-Ferrand,,,https://flyinclermont.fr,45.7913228,3.1650124
+991939966,way,B&B Hotel Clermont centre,hotel,Clermont-Ferrand,3 Impasse Kepler,,https://www.hotel-bb.com/en/hotel/clermont-ferrand-centre,45.7799259,3.119817
+997479793,way,,park,Clermont-Ferrand,,,,45.68703,3.1248916
+1004919779,way,,beach,Clermont-Ferrand,,,,45.6006511,3.21816
+1009385361,way,Parc de l'Ecluse,park,Clermont-Ferrand,,,,45.8011413,3.1167978
+1029370346,way,Jardin de traverse Briand-Zola,park,Clermont-Ferrand,,,,45.7734952,3.0637533
+1031152833,way,,garden,Clermont-Ferrand,,,,45.7799579,3.0772877
+1036596278,way,,garden,Clermont-Ferrand,,,,45.769498,2.9889746
+1071209474,way,,park,Clermont-Ferrand,,,,45.7638853,3.0487503
+1071730478,way,,park,Clermont-Ferrand,,,,45.7832065,3.0119208
+1123389811,way,,park,Clermont-Ferrand,,,,45.7352805,3.1985839
+1157851207,way,,park,Clermont-Ferrand,,,,45.7299107,3.1030384
+1178805396,way,Buffalo Grill,restaurant,Clermont-Ferrand,"Avenue de l'Europe, 63370, Lempdes",63370,,45.7759392,3.1863823
+1180598704,way,Square Rosa Parks,park,Clermont-Ferrand,,,,45.8139264,3.1156968
+1188932798,way,Square Bosellis,park,Clermont-Ferrand,,,,45.7776305,3.3150755
+1201454097,way,,park,Clermont-Ferrand,,,,45.7549522,3.1096732
+1213518171,way,,park,Clermont-Ferrand,,,,45.7190244,3.0026221
+1213522104,way,,park,Clermont-Ferrand,,,,45.728239,3.0047779
+1213522105,way,,park,Clermont-Ferrand,,,,45.7284375,3.0047739
+1218687571,way,jardin bonbonier,garden,Clermont-Ferrand,,,,45.8325375,3.0658177
+1235569310,way,,garden,Clermont-Ferrand,,,,45.7959067,3.0832685
+1237334124,way,Square des Vendanges,park,Clermont-Ferrand,,,,45.7924426,3.0929347
+1238784923,way,,park,Clermont-Ferrand,,,,45.6566196,3.2114292
+1239994668,way,Parc du Museum Henri Lecoq,park,Clermont-Ferrand,,,,45.7741996,3.0889213
+1239997738,way,,park,Clermont-Ferrand,,,,45.774675,3.0890053
+1246169686,way,Eco-park Anne Frank,garden,Clermont-Ferrand,,,,45.7926882,3.0713009
+1249086962,way,,garden,Clermont-Ferrand,,,,45.7961037,3.0859289
+1249086963,way,,garden,Clermont-Ferrand,,,,45.795979,3.085879
+1249090987,way,,garden,Clermont-Ferrand,,,,45.7954689,3.0863579
+1251607369,way,,park,Clermont-Ferrand,,,,45.7919355,3.168964
+1252007762,way,,garden,Clermont-Ferrand,,,,45.7932849,3.0932951
+1252007763,way,,garden,Clermont-Ferrand,,,,45.7933984,3.0931169
+1252007764,way,,garden,Clermont-Ferrand,,,,45.7935047,3.0931013
+1252007765,way,,garden,Clermont-Ferrand,,,,45.7935978,3.0935426
+1252007766,way,,garden,Clermont-Ferrand,,,,45.7936489,3.0924729
+1252007767,way,,garden,Clermont-Ferrand,,,,45.7934337,3.0925759
+1252007768,way,,garden,Clermont-Ferrand,,,,45.7932195,3.0926209
+1252007769,way,,garden,Clermont-Ferrand,,,,45.793109,3.0926943
+1255582865,way,,garden,Clermont-Ferrand,,,,45.6574143,3.212996
+1255582866,way,,garden,Clermont-Ferrand,,,,45.6561043,3.2132618
+1255582874,way,,garden,Clermont-Ferrand,,,,45.6612597,3.2076741
+1257974159,way,,park,Clermont-Ferrand,,,,45.6683029,3.1811153
+1262293527,way,,garden,Clermont-Ferrand,,,,45.7899056,3.1099346
+1262293530,way,,garden,Clermont-Ferrand,,,,45.790223,3.1100205
+1265869697,way,Square Louis Chapelle,park,Clermont-Ferrand,,,,45.6687986,3.1952419
+1283343276,way,,restaurant,Clermont-Ferrand,,,,45.7780638,3.0917727
+1292106180,way,Archipel des Salins,park,Clermont-Ferrand,"1, 63000, Clermont-Ferrand",63000,https://terra-preta.fr/permanences-a-larchipel-des-salins/,45.7714923,3.081334
+1293823332,way,,garden,Clermont-Ferrand,,,,45.7698814,3.1072404
+1293823333,way,,garden,Clermont-Ferrand,,,,45.7697554,3.1074389
+1302459709,way,,park,Clermont-Ferrand,,,,45.82935,3.0982216
+1304443249,way,,garden,Clermont-Ferrand,,,,45.6533687,3.284193
+1304443250,way,,garden,Clermont-Ferrand,,,,45.6457953,3.287241
+1304443251,way,,garden,Clermont-Ferrand,,,,45.6452791,3.2872345
+1308807231,way,,garden,Clermont-Ferrand,,,,45.7275111,3.1361843
+1308993603,way,,park,Clermont-Ferrand,,,,45.7381101,3.1963328
+1311709223,way,,park,Clermont-Ferrand,,,,45.7887698,3.235984
+1316680862,way,,park,Clermont-Ferrand,,,,45.7101301,3.1669361
+1317834304,way,,park,Clermont-Ferrand,,,,45.7623502,3.1995378
+1322649702,way,,park,Clermont-Ferrand,,,,45.7767057,3.095814
+1322978037,way,,garden,Clermont-Ferrand,,,,45.7715429,3.0927544
+1323298205,way,,garden,Clermont-Ferrand,,,,45.7861653,3.1022565
+1323298208,way,,garden,Clermont-Ferrand,,,,45.7864099,3.1027378
+1324098100,way,Coulée Verte de Vallieres,park,Clermont-Ferrand,,,,45.757651,3.0838523
+1326132185,way,,park,Clermont-Ferrand,,,,45.742029,3.2002463
+1328096217,way,,garden,Clermont-Ferrand,,,,45.6586293,3.2128436
+1328096222,way,,garden,Clermont-Ferrand,,,,45.6541272,3.2066099
+1328096223,way,,garden,Clermont-Ferrand,,,,45.6535813,3.2053778
+1328096224,way,,garden,Clermont-Ferrand,,,,45.6531112,3.2063476
+1328096236,way,Le Colombier,garden,Clermont-Ferrand,,,,45.6457077,3.2469409
+1328096243,way,,garden,Clermont-Ferrand,,,,45.6454555,3.2441705
+1328758721,way,,garden,Clermont-Ferrand,,,,45.6599666,3.2124045
+1332143444,way,,park,Clermont-Ferrand,,,,45.7582855,3.0870619
+1337719134,way,Parc des Vergnes,park,Clermont-Ferrand,,,,45.8129268,3.1302858
+1342124192,way,,garden,Clermont-Ferrand,,,,45.7661485,3.1208527
+1342129675,way,,garden,Clermont-Ferrand,,,,45.7664513,3.12054
+1342129676,way,,garden,Clermont-Ferrand,,,,45.766447,3.120767
+1342177877,way,,garden,Clermont-Ferrand,,,,45.7627583,3.1206011
+1362761933,way,Breguet Michelin IV,memorial,Clermont-Ferrand,,,,45.7904415,3.1600018
+1366228197,way,,park,Clermont-Ferrand,,,,45.7770388,3.0658369
+1373104673,way,Parc Jean Villot,park,Clermont-Ferrand,,,,45.6687038,3.1049017
+1376192425,way,,garden,Clermont-Ferrand,,,,45.7747955,3.063652
+1376192426,way,,garden,Clermont-Ferrand,,,,45.7748545,3.0633873
+1380251524,way,,garden,Clermont-Ferrand,,,,45.7719192,3.0806677
+1380297560,way,,garden,Clermont-Ferrand,,,,45.7721608,3.0865926
+1380297561,way,,garden,Clermont-Ferrand,,,,45.7721614,3.0863807
+1380297562,way,,garden,Clermont-Ferrand,,,,45.7720791,3.0861402
+1380297563,way,,garden,Clermont-Ferrand,,,,45.7720783,3.0862771
+1380297564,way,,garden,Clermont-Ferrand,,,,45.7720776,3.0864184
+1380297565,way,,garden,Clermont-Ferrand,,,,45.7720758,3.0865947
+1380297566,way,,garden,Clermont-Ferrand,,,,45.7721739,3.0862421
+1380297567,way,,garden,Clermont-Ferrand,,,,45.7722255,3.0861774
+1380297568,way,,garden,Clermont-Ferrand,,,,45.772315,3.0861835
+1380350780,way,,garden,Clermont-Ferrand,,,,45.772162,3.0778688
+1380350781,way,,garden,Clermont-Ferrand,,,,45.7721895,3.0777712
+1380350782,way,,garden,Clermont-Ferrand,,,,45.7722182,3.0776641
+1380350783,way,,garden,Clermont-Ferrand,,,,45.7722454,3.0775634
+1380350784,way,,garden,Clermont-Ferrand,,,,45.7722722,3.0774608
+1380350789,way,,garden,Clermont-Ferrand,,,,45.7720569,3.0777374
+1380350790,way,,garden,Clermont-Ferrand,,,,45.772036,3.0776508
+1380350791,way,,garden,Clermont-Ferrand,,,,45.7720148,3.0775594
+1380350792,way,,garden,Clermont-Ferrand,,,,45.7719956,3.0774736
+1380350793,way,,garden,Clermont-Ferrand,,,,45.77209,3.0776245
+1380350794,way,,garden,Clermont-Ferrand,,,,45.7720696,3.077536
+1380350795,way,,garden,Clermont-Ferrand,,,,45.772049,3.07745
+1380350796,way,,garden,Clermont-Ferrand,,,,45.7721247,3.0775128
+1380350797,way,,garden,Clermont-Ferrand,,,,45.7721034,3.077424
+1380350798,way,,garden,Clermont-Ferrand,,,,45.7720089,3.077291
+1388957199,way,Jardin Public Madeleine Pelletier,park,Clermont-Ferrand,,,,45.7774081,3.0766444
+1389340411,way,,park,Clermont-Ferrand,,,,45.6314555,3.173307
+1389869406,way,,garden,Clermont-Ferrand,,,,45.686955,3.1980376
+1389869413,way,,garden,Clermont-Ferrand,,,,45.6815965,3.184887
+1391704175,way,,park,Clermont-Ferrand,,,,45.6983853,3.1691341
+1392167262,way,,garden,Clermont-Ferrand,,,,45.7928767,3.0665284
+1392169118,way,Jardin Potager Montvillageois,garden,Clermont-Ferrand,,,,45.7933282,3.0681546
+1392207018,way,Jardin partagé Trémon'Terre,garden,Clermont-Ferrand,,,https://www.facebook.com/p/Jardin-Partag%C3%A9-Tr%C3%A9monTerre-100077506928618/,45.7919063,3.0661021
+1394846987,way,,garden,Clermont-Ferrand,,,,45.6823958,3.1970588
+1394846988,way,,garden,Clermont-Ferrand,,,,45.6819295,3.1968579
+1394846996,way,,garden,Clermont-Ferrand,,,,45.6828817,3.1978916
+1395924433,way,,garden,Clermont-Ferrand,,,,45.6157943,3.2411122
+1395924434,way,,garden,Clermont-Ferrand,,,,45.6158566,3.2409206
+1408131711,way,,park,Clermont-Ferrand,,,,45.8297971,3.1049239
+1409219685,way,,garden,Clermont-Ferrand,,,,45.6666953,3.3013137
+1409843320,way,,garden,Clermont-Ferrand,,,,45.6892497,3.0891019
+1409843326,way,,garden,Clermont-Ferrand,,,,45.6888858,3.097031
+1409843327,way,,garden,Clermont-Ferrand,,,,45.68855,3.0977518
+1409873457,way,,garden,Clermont-Ferrand,,,,45.6665379,3.1592421
+1409873461,way,,garden,Clermont-Ferrand,,,,45.665743,3.1587298
+1409873462,way,,garden,Clermont-Ferrand,,,,45.6653465,3.1590334
+1409943926,way,,garden,Clermont-Ferrand,,,,45.6643482,3.1050313
+1412412249,way,,garden,Clermont-Ferrand,,,,45.6660858,3.1544453
+1413205284,way,,garden,Clermont-Ferrand,,,,45.6459336,3.236282
+1413205311,way,,garden,Clermont-Ferrand,,,,45.6377372,3.216628
+1414052536,way,,garden,Clermont-Ferrand,,,,45.6473895,3.2398723
+1414052538,way,,garden,Clermont-Ferrand,,,,45.6470294,3.2398371
+1414052544,way,,garden,Clermont-Ferrand,,,,45.6450468,3.2390742
+1414052545,way,,garden,Clermont-Ferrand,,,,45.6451741,3.2384398
+1414052547,way,,garden,Clermont-Ferrand,,,,45.6435975,3.2413605
+1414054819,way,,garden,Clermont-Ferrand,,,,45.6502107,3.2388819
+1414280634,way,Parc Champfleuri,park,Clermont-Ferrand,,,,45.7876038,3.087989
+1414308904,way,Parc Saint-Jean,park,Clermont-Ferrand,,,,45.7846211,3.116952
+1414311687,way,Square Beaupeyras,park,Clermont-Ferrand,,,,45.792839,3.0821862
+1416477109,way,,garden,Clermont-Ferrand,,,,45.6342372,3.1733484
+1416477110,way,,garden,Clermont-Ferrand,,,,45.6339365,3.173866
+1416477111,way,,garden,Clermont-Ferrand,,,,45.6337684,3.1730153
+1416477112,way,,garden,Clermont-Ferrand,,,,45.6341107,3.1728702
+1416477113,way,,garden,Clermont-Ferrand,,,,45.6338128,3.1724843
+1416477114,way,,garden,Clermont-Ferrand,,,,45.6335083,3.1718298
+1416477115,way,,garden,Clermont-Ferrand,,,,45.6331273,3.1714966
+1416477118,way,,garden,Clermont-Ferrand,,,,45.6347332,3.1734076
+1416477119,way,,garden,Clermont-Ferrand,,,,45.6348587,3.1738016
+1416477120,way,,garden,Clermont-Ferrand,,,,45.6349052,3.1742478
+1416477121,way,,garden,Clermont-Ferrand,,,,45.6344044,3.1756206
+1416477122,way,,garden,Clermont-Ferrand,,,,45.6348674,3.1726706
+1416477123,way,,garden,Clermont-Ferrand,,,,45.6347538,3.1723364
+1416477124,way,,garden,Clermont-Ferrand,,,,45.633882,3.1703455
+1416477344,way,,garden,Clermont-Ferrand,,,,45.6334146,3.1694891
+1418125210,way,,garden,Clermont-Ferrand,,,,45.7047011,3.1550241
+1418125233,way,,garden,Clermont-Ferrand,,,,45.6975439,3.1476009
+1418125239,way,,garden,Clermont-Ferrand,,,,45.6978785,3.1345061
+1418598500,way,,garden,Clermont-Ferrand,,,,45.6909572,3.1541148
+1418598507,way,,garden,Clermont-Ferrand,,,,45.6966749,3.1644937
+1418598508,way,,garden,Clermont-Ferrand,,,,45.6967399,3.1646361
+1418598510,way,,garden,Clermont-Ferrand,,,,45.6972356,3.1640526
+1419071168,way,,monument,Clermont-Ferrand,,,,45.6575502,3.0897705
+1421492308,way,,park,Clermont-Ferrand,,,,45.7400747,3.141389
+1421492309,way,,park,Clermont-Ferrand,,,,45.7401563,3.1426158
+1421492311,way,,park,Clermont-Ferrand,,,,45.7389562,3.1442327
+1421492312,way,,park,Clermont-Ferrand,,,,45.7403955,3.1402212
+1421492313,way,,park,Clermont-Ferrand,,,,45.7397627,3.1406466
+1423041995,way,Jardin de la Croze,garden,Clermont-Ferrand,,,,45.7259466,3.3458398
+1424438580,way,,garden,Clermont-Ferrand,,,,45.687868,3.3094452
+1424440239,way,,garden,Clermont-Ferrand,,,,45.6857521,3.3203518
+1426390638,way,Jardin partagé des Violettes,garden,Clermont-Ferrand,,,,45.7713736,3.0777278
+1427543707,way,,park,Clermont-Ferrand,,,,45.7899112,3.0632453
+1432537732,way,Square du Maréchal de Lattre-de-Tassigny,park,Clermont-Ferrand,,,,45.7679243,3.0666836
+1443645380,way,Cabane en pierres sèches,attraction,Clermont-Ferrand,,,,45.6650516,3.0788989
+1445248092,way,,park,Clermont-Ferrand,,,,45.793197,3.0808412
+1445250097,way,,garden,Clermont-Ferrand,,,,45.7940602,3.0808715
+1453654345,way,,garden,Clermont-Ferrand,,,,45.7212388,3.3375024
+1453654802,way,,garden,Clermont-Ferrand,,,,45.7200172,3.3366591
+1453654803,way,,garden,Clermont-Ferrand,,,,45.7197138,3.3366445
+1453797774,way,,park,Clermont-Ferrand,,,,45.7205242,3.3369053
+1453797776,way,,garden,Clermont-Ferrand,,,,45.7211102,3.3292745
+1458973906,way,,garden,Clermont-Ferrand,,,,45.8042976,3.1421206
+1460048223,way,,garden,Clermont-Ferrand,,,,45.681519,3.1550611
+1463072225,way,,garden,Clermont-Ferrand,,,,45.6886583,3.2522979
+1466227666,way,,garden,Clermont-Ferrand,,,,45.6842783,3.2589195
+1466445482,way,,park,Clermont-Ferrand,,,,45.7378458,3.2092863
+1466445483,way,,park,Clermont-Ferrand,,,,45.7376651,3.2106326
+1466478012,way,,park,Clermont-Ferrand,,,,45.7286356,3.1995942
+1466478015,way,,park,Clermont-Ferrand,,,,45.7261084,3.198799
+1466478018,way,,park,Clermont-Ferrand,,,,45.7258507,3.1995324
+1466489987,way,,park,Clermont-Ferrand,,,,45.727202,3.2066476
+1466489989,way,,park,Clermont-Ferrand,,,,45.7242725,3.2040491
+1466489990,way,parc du chateau,park,Clermont-Ferrand,,,,45.722959,3.2019414
+1466490001,way,,park,Clermont-Ferrand,,,,45.6619077,3.2089834
+1466734517,way,,garden,Clermont-Ferrand,,,,45.7115492,3.2407401
+1466925517,way,,garden,Clermont-Ferrand,,,,45.6363021,3.2497473
+1466927073,way,,garden,Clermont-Ferrand,,,,45.6346742,3.2495435
+1466927074,way,,garden,Clermont-Ferrand,,,,45.6342513,3.2495791
+1470150238,way,,garden,Clermont-Ferrand,,,,45.609787,3.2645453
+1470279697,way,,memorial,Clermont-Ferrand,,,,45.7717275,2.9629379
+1471512463,way,,garden,Clermont-Ferrand,,,,45.6154925,3.2580638
+1471512465,way,,garden,Clermont-Ferrand,,,,45.6147862,3.2581505
+1471512469,way,,garden,Clermont-Ferrand,,,,45.6123391,3.2569888
+1471512472,way,,garden,Clermont-Ferrand,,,,45.6130182,3.2577505
+1471512473,way,,garden,Clermont-Ferrand,,,,45.6130948,3.2578328
+1471512949,way,,garden,Clermont-Ferrand,,,,45.6141261,3.2615947
+1471512950,way,,garden,Clermont-Ferrand,,,,45.6141096,3.2620004
+1471920590,way,,park,Clermont-Ferrand,,,,45.7317858,3.2114578
+1472562579,way,,garden,Clermont-Ferrand,,,,45.6726331,3.2444776
+1472562580,way,,garden,Clermont-Ferrand,,,,45.6727564,3.2445844
+1472923656,way,,garden,Clermont-Ferrand,,,,45.6659744,3.2518668
+1472948256,way,,garden,Clermont-Ferrand,,,,45.6679955,3.2353381
+1472948257,way,,garden,Clermont-Ferrand,,,,45.6679334,3.2352614
+1472948273,way,,garden,Clermont-Ferrand,,,,45.6663933,3.2320181
+1472948277,way,,garden,Clermont-Ferrand,,,,45.6672265,3.2353911
+1472948278,way,,garden,Clermont-Ferrand,,,,45.6665079,3.2342739
+1472948279,way,,garden,Clermont-Ferrand,,,,45.6657336,3.2345868
+1472948280,way,,garden,Clermont-Ferrand,,,,45.6656485,3.2353565
+1474288765,way,,garden,Clermont-Ferrand,,,,45.6647895,3.2373015
+1474907610,way,,garden,Clermont-Ferrand,,,,45.6982285,3.2248474
+1474907611,way,,garden,Clermont-Ferrand,,,,45.7000118,3.225033
+1474907614,way,,garden,Clermont-Ferrand,,,,45.7002199,3.2285034
+1485362628,way,,garden,Clermont-Ferrand,,,,45.7700294,3.0890457
+1485362630,way,,garden,Clermont-Ferrand,,,,45.7699624,3.0889613
+1486475148,way,,garden,Clermont-Ferrand,,,,45.646011,3.4349576
+1486851639,way,,garden,Clermont-Ferrand,,,,45.6463756,3.4148837
+1487855365,way,,garden,Clermont-Ferrand,,,,45.6498088,3.4429705
+1488553111,way,,garden,Clermont-Ferrand,,,,45.6962231,3.4351819
+1488553112,way,,garden,Clermont-Ferrand,,,,45.6953046,3.4352003
+1488656316,way,,garden,Clermont-Ferrand,,,,45.7026822,3.4491038
+1488656319,way,,garden,Clermont-Ferrand,,,,45.7015762,3.4525811
+1489637062,way,,garden,Clermont-Ferrand,,,,45.64711,3.4130664
+1490672150,way,,garden,Clermont-Ferrand,,,,45.6400755,3.4417055
+1491023640,way,,garden,Clermont-Ferrand,,,,45.6463624,3.4342736
+1491121596,way,,garden,Clermont-Ferrand,,,,45.6426884,3.433343
+1494695952,way,,garden,Clermont-Ferrand,,,,45.7099224,3.4656685
+1501150277,way,,garden,Clermont-Ferrand,,,,45.6401944,3.441582
+1501150278,way,,garden,Clermont-Ferrand,,,,45.6394461,3.4441982
+1071060,relation,Château fort,castle,Clermont-Ferrand,,,,45.8506304,3.0862406
+1976032,relation,Château de Saint-Bonnet,castle,Clermont-Ferrand,,,,45.7420237,3.2510215
+2412790,relation,Hôtel Gaschier,attraction,Clermont-Ferrand,,,,45.7925836,3.1129247
+2436162,relation,Hôtel Lune Étoile,hotel,Clermont-Ferrand,,,https://www.hotel-lune-etoile.com/,45.7675832,3.1253801
+4302620,relation,Parc Pierre-Montgroux,park,Clermont-Ferrand,,,https://www.cebazat.fr/le-parc-pierre-montgroux.html,45.8303726,3.0939251
+5378897,relation,Le Volant,restaurant,Clermont-Ferrand,"Rue Verte, 63118, Cébazat",63118,,45.8420337,3.1164184
+9715764,relation,Château des Quayres,castle,Clermont-Ferrand,,,,45.6558631,3.2473099
+19178200,relation,Parc de la Résidence Mont Village,park,Clermont-Ferrand,,,,45.7935398,3.0676869
+19215393,relation,Espace Vert,park,Clermont-Ferrand,,,,45.7933845,3.0687882

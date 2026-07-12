@@ -1,8 +1,23 @@
 osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
+249434910,node,Obélisque de Riquet,attraction,Carcassonne,,,https://www.canal-du-midi.com/decouvrir/fil-eau/toulouse-a-naurouze/seuil-naurouze/,43.3523294,1.8269694
+249506572,node,Seuil de Naurouze - Partage des Eaux,attraction,Carcassonne,,,https://www.canal-du-midi.com/decouvrir/fil-eau/toulouse-a-naurouze/seuil-naurouze/,43.3506315,1.8186505
 271932491,node,Hôtel F1,hotel,Carcassonne,,,,43.2050015,2.4088309
+321732839,node,Musée archéologique du Lauragais,museum,Carcassonne,"Rampe du Présidial, 11491, Castelnaudary",11491,http://ville-castelnaudary.fr/fr/culture-et-sorties/musee-du-lauragais/presentation,43.3155934,1.9588475
+321732844,node,Daphné,artwork,Carcassonne,,,,43.3195963,1.9529113
+325943466,node,,viewpoint,Carcassonne,,,,43.4177902,2.0148123
+334647386,node,Gouffre de Cabrespine,attraction,Carcassonne,,,https://www.gouffre-de-cabrespine.com,43.359331,2.4570863
+367566609,node,,viewpoint,Carcassonne,,,,43.4128497,1.997277
+388486172,node,carriere de marbre,artwork,Carcassonne,,,https://lesmarbrieresdecaunes.jimdo.com/,43.3369992,2.5382657
+392107205,node,Le Seignadou,viewpoint,Carcassonne,,,,43.1869927,2.0370062
+395386680,node,anciennes glacières,ruins,Carcassonne,,,,43.3994066,2.4506318
+409790245,node,Parc Australien,zoo,Carcassonne,,,,43.1885659,2.3923864
 459712306,node,Ibis Budget Carcassonne Salvaza,hotel,Carcassonne,,,,43.2045699,2.3102898
+459742476,node,Belvédère 1 des Châteaux de Lastours,viewpoint,Carcassonne,,,,43.3331437,2.3745783
+471822777,node,,viewpoint,Carcassonne,,,,43.2258434,1.9644407
 475337328,node,La Bergerie,restaurant,Carcassonne,,,,43.2970726,2.3113286
 636870692,node,À la Fortune du Pot,restaurant,Carcassonne,80 Route de Ségala,,,43.354528,1.8229725
+690596006,node,Porte d'Aude,viewpoint,Carcassonne,,,,43.2075412,2.3628848
+799443951,node,,viewpoint,Carcassonne,,,,43.1719487,2.0529712
 838059191,node,d'Alibert,restaurant,Carcassonne,"Place de la Mairie, 11160, Caunes-Minervois",11160,,43.3271759,2.5281873
 842380195,node,Le comptoir,restaurant,Carcassonne,,,,43.2163172,2.351635
 842429706,node,Le Rialto,restaurant,Carcassonne,,,,43.2162918,2.3527696
@@ -11,12 +26,18 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 842454911,node,Le Central,hotel,Carcassonne,27 Boulevard Jean Jaurès,,,43.2139617,2.3548214
 842459190,node,Royal Hotel,hotel,Carcassonne,22 Boulevard Jean Jaurès,,https://www.auroyal-hotel-carcassonne.com,43.2136841,2.3556315
 842459462,node,Brasserie du Palais,restaurant,Carcassonne,,,,43.2135278,2.3556598
+842466709,node,Musée des Beaux-Arts,museum,Carcassonne,,,https://www.carcassonne.org/lieux/musee-des-beaux-arts,43.2124818,2.3552959
 842475310,node,Hôtel Ibis centre Carcassonne,hotel,Carcassonne,,,https://all.accor.com/hotel/1371/index.fr.shtml,43.2115807,2.3574205
 842490557,node,Le Dôme,restaurant,Carcassonne,,,,43.2103179,2.3553164
 849972287,node,La Grande Fontaine,restaurant,Carcassonne,,,,43.327395,2.5262099
+850626050,node,Mission 1890 M. Valentin Cavaye,memorial,Carcassonne,,,,43.3596648,1.8176517
+850626072,node,Année Mariale 1954,memorial,Carcassonne,,,,43.3596886,1.8175159
+850626099,node,,memorial,Carcassonne,,,,43.3596732,1.8177269
 851752882,node,La Marbrerie,restaurant,Carcassonne,,,,43.3272844,2.5243489
-851840910,node,Auberge de la Clamoux,guest_house,Carcassonne,,,,43.3157647,2.4622265
+851840910,node,Auberge de la Clamoux,restaurant,Carcassonne,,,,43.3157647,2.4622265
 852751212,node,Pataterie,restaurant,Carcassonne,,,,43.2362764,2.3668928
+856414023,node,,memorial,Carcassonne,,,,43.3249603,2.5241233
+862145974,node,Château,castle,Carcassonne,,,,43.379115,2.5402132
 862146125,node,L'Oustal à Citou,restaurant,Carcassonne,"31 Avenue de l'Argent-Double, 11160, Citou",11160,,43.3763732,2.5415714
 884918504,node,Le Bistro,restaurant,Carcassonne,"2 Avenue du Maréchal Joffre, 11000, Carcassonne",11000,,43.2168499,2.3520616
 884919966,node,Saquette by Fred Carcassonne,restaurant,Carcassonne,,,https://www.saquettebyfredcarcassonne.com,43.2170837,2.352062
@@ -27,10 +48,21 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 912613575,node,Restaurant du japon,restaurant,Carcassonne,1095 Boulevard Denis Papin,,https://restaurantdujapon.fr,43.2094006,2.3259963
 913079741,node,L'Excalibure,restaurant,Carcassonne,,,,43.2090497,2.3259929
 913079742,node,Buffet d'Asie,restaurant,Carcassonne,,,,43.2089011,2.326213
+962044611,node,,viewpoint,Carcassonne,,,,43.1599759,2.3290636
+965926940,node,,viewpoint,Carcassonne,,,,43.3985698,2.3704847
+993131010,node,,viewpoint,Carcassonne,,,,43.3221817,1.9561647
+993131339,node,Square Pierre Germain,park,Carcassonne,,,,43.3194129,1.9569014
+993836656,node,Le Phare Aéronautique,attraction,Carcassonne,,,,43.3644927,1.8193347
+993836767,node,Montferrand,viewpoint,Carcassonne,,,,43.3644652,1.8195371
 1014739976,node,Hôtel du Centre et du Lauragais,hotel,Carcassonne,,,https://www.le-centre-hotel.fr/,43.317864,1.9529003
+1060409270,node,,memorial,Carcassonne,,,,43.252956,2.441509
+1269322367,node,,memorial,Carcassonne,,,,43.3207698,1.9477421
 1351112792,node,Hotel domaine de Camboyer,hotel,Carcassonne,"Camboyer, 11320, Montferrand",11320,https://domainedecamboyer.com/,43.3929308,1.8110542
 1361049917,node,Belle Époque,restaurant,Carcassonne,,,,43.3180058,1.9544704
 1395166560,node,Le Relais de Riquet,restaurant,Carcassonne,,,,43.3411006,1.834645
+1396437774,node,,viewpoint,Carcassonne,,,,43.4036614,2.0642599
+1405373450,node,Belvédère d'Auriac,viewpoint,Carcassonne,,,,43.19348,2.34467
+1443029710,node,Monument aux morts,memorial,Carcassonne,,,,43.1982302,1.7499137
 1479313633,node,Brasserie du Donjon,restaurant,Carcassonne,,,,43.2063421,2.3632805
 1479321063,node,Hôtel Mercure Porte de la Cité,hotel,Carcassonne,"18 Rue Camille Saint-Saëns, 11000, Carcassonne",11000,https://all.accor.com/hotel/1622/index.fr.shtml,43.2068308,2.3695757
 1479329410,node,Chez Saskia,restaurant,Carcassonne,,,,43.2059229,2.3629052
@@ -48,6 +80,9 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1643202427,node,La Table du Marie,restaurant,Carcassonne,"51 Rue du Pont Vieux, 11000, Carcassonne",11000,,43.2115394,2.3558155
 1643202430,node,Tribe Hôtel,hotel,Carcassonne,"2 Rue des Trois Couronnes, 11000, Carcassonne",11000,https://tribehotels.com/fr/france/carcassonne/,43.2103155,2.3577664
 1643202431,node,Thang Long,restaurant,Carcassonne,,,,43.2114455,2.3559777
+1644272910,node,,memorial,Carcassonne,,,,43.1883272,2.3068313
+1655958490,node,,ruins,Carcassonne,,,,43.2128863,2.4715511
+1672112187,node,Château de Belflou,castle,Carcassonne,,,,43.3185879,1.7863058
 1694629739,node,Restaurant Arc-en-ciel,restaurant,Carcassonne,,,,43.3164239,1.9439916
 1694641287,node,Hôtel de France,hotel,Carcassonne,2 Avenue Frédéric Mistral,,,43.3206056,1.9537028
 1694654779,node,Hôtel du Canal,hotel,Carcassonne,,,,43.3151701,1.9490955
@@ -58,61 +93,203 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1694681412,node,Le Ptit Moka,restaurant,Carcassonne,33 Place de Verdun,,,43.3191351,1.955101
 1694727175,node,New Sushi,restaurant,Carcassonne,2 Rue Soumet,,,43.3183524,1.9546192
 1722653140,node,Chez Fred,restaurant,Carcassonne,31 Boulevard Omer Sarraut,,https://www.chez-fred.fr/,43.2160691,2.3503349
+1722658078,node,Croisières Lou Gabaret - Bateau de promenade,attraction,Carcassonne,Promenade du Canal,,https://www.carcassonne-croisiere.com/,43.2176707,2.3509332
 1722670095,node,Restaurant La Vicomté - Hôtel Mercure,restaurant,Carcassonne,18 Rue Camille Saint-Saëns,,http://www.mercure-carcassonne.fr,43.2065757,2.3695964
 1722695403,node,Restaurant Hostellerie Etienne,restaurant,Carcassonne,1 Chemin de Saint-Jammes,,http://www.hostellerieetienne.com,43.345567,1.8544447
 1722798166,node,Restaurant Auberge du Dominicain,restaurant,Carcassonne,Avenue du Lauragais,,https://www.aubergedudominicain.com/,43.2005447,2.141714
+1722803126,node,"Eburomagus, musée archéologique de Bram",museum,Carcassonne,2 Avenue du Razès,,https://villedebram.fr/index.php/eburomagus,43.2438113,2.1161341
+1722804173,node,Village circulaire de Bram,attraction,Carcassonne,"11150, Bram",11150,https://www.villedebram.fr/,43.2439295,2.1130646
+1722806976,node,Le Musée de l'École,museum,Carcassonne,3 Rue du Plô,,https://www.carcassonne.org/article-page/musee-de-lecole,43.205293,2.3639089
 1722807863,node,Les Terrasses de la Cité,restaurant,Carcassonne,"Place Marcou, 11000, Carcassonne",11000,https://les-terrasses-de-la-cite-carcassonne.eatbu.com,43.2063952,2.3647238
+1722810584,node,Musée des Arts et Métiers du Livre,museum,Carcassonne,Rue de la Mairie,,https://www.montolieu-livre.fr/,43.3113771,2.2148462
+1722813468,node,La Coopérative Musée Cérès Franco,museum,Carcassonne,"5 Route d'Alzonne, 11170, Montolieu",11170,https://www.collectionceresfranco.com/,43.3061657,2.215173
+1722828727,node,Croisières Fluviales Le Saint-Roch,attraction,Carcassonne,20 Quai du Port,,http://www.saintroch11.com,43.3155094,1.9519142
+1723019912,node,,memorial,Carcassonne,,,,43.1830108,2.4955137
 1728791790,node,La Poissonnerie Moderne,restaurant,Carcassonne,Avenue Pierre Curie,,http://www.la-poissonnerie-moderne.com,43.2097609,2.4435308
+1731732111,node,Château de Lafage,castle,Carcassonne,,,,43.1746912,1.8608203
+1731817976,node,Château de Cahuzac,castle,Carcassonne,,,,43.1897136,1.8512234
+1731817980,node,Château de Payra-sur-l'Hers,castle,Carcassonne,,,,43.2477606,1.89124
+1731859002,node,Château de Baraigne,attraction,Carcassonne,,,,43.3300264,1.8209478
+1731859003,node,Château de Molleville,castle,Carcassonne,,,,43.3114471,1.8352926
+1731859007,node,Donjon de Salles-sur-l'Hers,castle,Carcassonne,,,,43.2931662,1.7886724
+1731911428,node,Ancien Bassin de Naurouze,attraction,Carcassonne,,,,43.3529768,1.822014
+1731917228,node,Château de Montmaur,castle,Carcassonne,,,,43.3931447,1.8449794
+1731983604,node,Château de Ferrals,attraction,Carcassonne,,,,43.3307919,2.0750691
+1732750937,node,Château de la Barthe,castle,Carcassonne,,,,43.3156254,1.8018383
+1732888560,node,Inscription commémorative du passage de Louis XIII,memorial,Carcassonne,"Rue Louix XIII, 11150, Bram",11150,,43.243956,2.11417
+1732888707,node,Croix située sur le pont,artwork,Carcassonne,,,,43.1850448,2.0350905
+1748516533,node,Château,ruins,Carcassonne,,,,43.370057,2.364096
+1748516539,node,Croix des Tisserands,artwork,Carcassonne,,,,43.3705504,2.3622543
+1748656319,node,Château de Roquefère,attraction,Carcassonne,,,,43.3734229,2.3779586
+1751036962,node,Glacière,ruins,Carcassonne,,,,43.4079356,2.4393347
+1751036968,node,Roc du Nouret,viewpoint,Carcassonne,,,,43.4189167,2.4351337
+1751036984,node,Roquo d'Astié,viewpoint,Carcassonne,,,,43.4149171,2.4567904
+1751053801,node,Chapelle de Saint-Laurent,ruins,Carcassonne,,,,43.1350376,2.3212761
+1751053802,node,Château de Leuc,castle,Carcassonne,,,,43.1472326,2.3217087
 1764176298,node,Le Platane,restaurant,Carcassonne,,,,43.2248731,2.2555947
+1778934137,node,La Grand Puit,attraction,Carcassonne,,,,43.2074313,2.3642177
+1789722293,node,Fort de Les Casses,viewpoint,Carcassonne,,,,43.4216263,1.8755282
+1789722860,node,Mémorial Bûcher 1211,viewpoint,Carcassonne,,,,43.4215523,1.8755309
+1837797418,node,Le Buisson,castle,Carcassonne,,,,43.397069,2.1590942
 1858233462,node,Château Lavail,hotel,Carcassonne,,,,43.3496326,1.8709543
 1858708181,node,Restaurant Inter Administratif de Carcassonne (RIAC),restaurant,Carcassonne,16,,,43.2140713,2.3512255
+1861333132,node,Mémorial départemental A.F.N. (stèle FNACA),memorial,Carcassonne,,,,43.2281157,2.3494017
 1874258144,node,L'Île aux oiseaux,restaurant,Carcassonne,,,,43.2549879,2.12729
+1877447828,node,Castella,castle,Carcassonne,,,,43.1989959,1.7540729
 1880051715,node,L'Hermitage,hotel,Carcassonne,,,,43.4338186,2.0397831
 1913023131,node,O delices,restaurant,Carcassonne,,,,43.207532,2.3643424
+1917665109,node,,memorial,Carcassonne,,,,43.3168738,1.955657
+1924165189,node,Bord de Lacamp,ruins,Carcassonne,,,,43.0686777,2.4422242
+1924165196,node,Les Planals,ruins,Carcassonne,,,,43.0924406,2.4540389
+1935350851,node,Château de Lamothe,castle,Carcassonne,,,,43.2269638,2.0948318
+1939780438,node,Monument aux Morts,memorial,Carcassonne,,,,43.1456491,2.5148507
+1947687993,node,As Courtalous,ruins,Carcassonne,,,,43.1017931,2.4713204
 2010858594,node,La Montagne Noire,hotel,Carcassonne,,,,43.3695632,2.2809105
+2070481949,node,,viewpoint,Carcassonne,,,,43.4146615,2.0142446
+2073342907,node,,viewpoint,Carcassonne,,,,43.3877678,2.3549571
+2081157422,node,Vue sur le château et sur la plaine du Lauragais,viewpoint,Carcassonne,,,,43.35961,2.1712928
+2097710402,node,,viewpoint,Carcassonne,,,,43.3336834,2.5258192
 2117358625,node,Maison du Cassoulet,hotel,Carcassonne,"24 Cours de la République, 11400, Castelnaudary",11400,https://maisonducassoulet.com/,43.3176071,1.9531423
+2119211194,node,Latour,ruins,Carcassonne,,,,43.3853694,2.3421357
+2119244815,node,Le Gua,ruins,Carcassonne,,,,43.4026158,2.3630017
+2119273978,node,Bafignac,ruins,Carcassonne,,,,43.3915154,2.3649136
+2119318494,node,Montredon,ruins,Carcassonne,,,,43.3696759,2.4279751
+2119318805,node,Picarot Bas,ruins,Carcassonne,,,,43.3739526,2.410822
+2119468010,node,stèle du maquis,memorial,Carcassonne,,,,43.3482739,2.4431438
+2119480020,node,Las Borios de Trassanel,ruins,Carcassonne,,,,43.329521,2.4433332
+2119509859,node,Boutarengue,ruins,Carcassonne,,,,43.3412939,2.4603392
 2126200114,node,Ô fil de l'Ô,hotel,Carcassonne,69 Avenue du Languedoc,,,43.2044622,2.5509758
+2126817278,node,,memorial,Carcassonne,,,,43.3394854,1.8357231
+2127429377,node,,memorial,Carcassonne,,,,43.2515516,2.3647263
 2133010086,node,Clos Saint-Loup,hotel,Carcassonne,,,,43.2350018,2.1190449
 2136225951,node,Auberge du Pigné,hotel,Carcassonne,,,,43.231546,2.1297009
 2136436926,node,La Table Ronde des Chevaliers,restaurant,Carcassonne,,,,43.2526371,2.1778586
+2139334819,node,,memorial,Carcassonne,,,,43.2537302,2.1780459
+2139334821,node,,memorial,Carcassonne,,,,43.2537389,2.1773832
+2139334826,node,,memorial,Carcassonne,,,,43.2538218,2.1766753
 2145194526,node,Auberge Montplaisir,restaurant,Carcassonne,"D 6113, 11150",11150,,43.2610519,2.13085
+2157089469,node,,memorial,Carcassonne,,,,43.2834965,2.4377218
+2158831821,node,Allées couvertes de Saint-Eugène,ruins,Carcassonne,,,,43.2975822,2.5252869
 2164551456,node,Le Grilladou,hotel,Carcassonne,"14 Grand Rue, 11320",11320,http://www.legrilladou.com/hotel.html,43.346483,1.8523449
 2164551457,node,Le Grilladou,restaurant,Carcassonne,,,,43.3464571,1.8524075
+2164930408,node,,memorial,Carcassonne,,,,43.2922608,2.567737
+2176997450,node,,viewpoint,Carcassonne,,,,43.3729857,2.2749293
+2180118092,node,,ruins,Carcassonne,,,,43.3268811,1.8154613
 2228951308,node,Au petit gazouillis,restaurant,Carcassonne,5 Rue de l'Arcade,,https://gersanelia.site-solocal.com/,43.3198441,1.9538285
 2228953427,node,L'Italiano,restaurant,Carcassonne,17 Rue des Carmes,,,43.3196344,1.9539612
+2229013682,node,Moulin du Cugarel,viewpoint,Carcassonne,,,,43.3223756,1.9559796
+2312519852,node,Moulin du Coustou,attraction,Carcassonne,,,,43.1793495,1.8970197
 2312544845,node,La Table Cathare,restaurant,Carcassonne,,,http://www.latablecathare.com/,43.1847393,2.0345071
 2316887642,node,Castel Chambres,hotel,Carcassonne,"Avenue des Pins, 11600, Malves-en-Minervois",11600,https://castelchambres.com/,43.2535044,2.4420997
+2330923625,node,,viewpoint,Carcassonne,,,,43.1942082,2.3418595
+2330937725,node,,memorial,Carcassonne,,,,43.2105953,2.3510325
 2399300061,node,La Cantine du Curé,restaurant,Carcassonne,"16 Avenue de l'Abbaye, 11160, Caunes-Minervois",11160,https://www.lacantineducure.com/,43.3254791,2.5270378
 2399300065,node,La Mangeoire,restaurant,Carcassonne,,,,43.3265742,2.5263577
+2401546480,node,Pont naturel de Saint-Jean,attraction,Carcassonne,,,,43.2417782,2.5214488
+2407891638,node,Moulin de Vignore,ruins,Carcassonne,,,,43.2943167,2.3142978
+2407891674,node,Moulin,ruins,Carcassonne,,,,43.2942302,2.3101617
 2409012131,node,Château de Jouarres,hotel,Carcassonne,,,,43.2635983,2.6990483
+2409716473,node,Château Vaissière,castle,Carcassonne,,,,43.2739214,2.6237731
+2415317253,node,Écluse de l'aiguille,artwork,Carcassonne,,,,43.2295929,2.6059519
 2417733029,node,Résidence Adonis - La Barbacane,hotel,Carcassonne,15 Rue de la Barbacane,,https://www.adonis-residence-carcassonne.com/,43.2048161,2.3602152
 2430980541,node,Le 37,restaurant,Carcassonne,"37 Rue Trivalle, 11000, Carcassonne",11000,https://www.le37carcassonne.fr,43.2091406,2.3624897
+2445988166,node,,memorial,Carcassonne,,,,43.1679652,2.3273869
 2446316152,node,Auberge du Château,hotel,Carcassonne,,,,43.1677792,2.3268427
 2446316155,node,Auberge du Château,restaurant,Carcassonne,,,,43.167909,2.326461
 2451856113,node,La Maison,restaurant,Carcassonne,11600,11600,,43.2684895,2.3994222
+2455688501,node,,ruins,Carcassonne,,,,43.1519011,2.3083615
+2459488675,node,Menhir dit Pierre levée de Picarel,attraction,Carcassonne,,,,43.3742201,2.1615656
+2459488676,node,Pyramide,monument,Carcassonne,,,,43.2316833,2.6429682
 2465022282,node,Le blé noir,restaurant,Carcassonne,"15 Rue de Verdun, 11000",11000,,43.2126005,2.3541096
 2465022295,node,Bloc G,restaurant,Carcassonne,"11000, Carcassonne",11000,,43.2096752,2.3608383
 2465022308,node,Le Pas sage,restaurant,Carcassonne,"15 Rue Trivalle, 11000, Carcassonne",11000,,43.2093175,2.3615628
+2467322910,node,Château d'Arzens,castle,Carcassonne,,,,43.1998455,2.2095893
 2470468946,node,Les Deux Acacias,hotel,Carcassonne,,,,43.2812753,2.0862504
+2470722962,node,Dolmen des Fades ou Palet de Roland,attraction,Carcassonne,,,,43.3127448,2.6798006
+2476815567,node,,ruins,Carcassonne,,,,43.2582848,1.7298099
 2481654324,node,Au Four Saint-Louis,restaurant,Carcassonne,,,https://www.aufoursaintlouis.com/en/au-four-saint-louis-restaurant/,43.2059327,2.3632028
 2493621335,node,Le Quai 21,restaurant,Carcassonne,21 Quai du Port,,,43.3156481,1.9519142
 2493621339,node,Le cassoulet Gourmand,restaurant,Carcassonne,19 Quai du Port,,https://www.lecassouletgourmand.com/,43.3156359,1.9521698
+2496330809,node,,memorial,Carcassonne,,,,43.216782,2.350616
 2496435774,node,Le Languedoc,restaurant,Carcassonne,,,,43.2109847,2.3451899
+2496539358,node,,memorial,Carcassonne,,,,43.2098907,2.3610067
+2496652219,node,,memorial,Carcassonne,,,,43.2067653,2.364417
+2496652220,node,Cadran solaire,attraction,Carcassonne,,,,43.2068084,2.3645027
 2497875256,node,Le Moulin,restaurant,Carcassonne,,,,43.2072191,2.4492241
+2586714525,node,,artwork,Carcassonne,,,,43.2837676,2.5873282
+2586714538,node,,artwork,Carcassonne,,,,43.3249098,2.5215161
+2586714539,node,,artwork,Carcassonne,,,,43.3264552,2.5254499
+2586714540,node,,artwork,Carcassonne,,,,43.3266984,2.5256904
+2586714541,node,,artwork,Carcassonne,,,,43.3267044,2.5253396
+2586714567,node,,artwork,Carcassonne,,,,43.3310309,2.5330805
 2644779050,node,M11,restaurant,Carcassonne,"Avenue des Corbières, 11800, Monze",11800,http://restaurantm11.com/,43.1581234,2.4596072
 2697788835,node,Le Cathare,restaurant,Carcassonne,1,,,43.2137906,2.3531719
 2780547479,node,La Rougeanne,hotel,Carcassonne,"5 Avenue de la Rougeanne, 11170, Moussoulens",11170,,43.2786703,2.2280544
+2805685884,node,,ruins,Carcassonne,,,,43.1298929,2.4231087
 2810931206,node,Le Trouvère,restaurant,Carcassonne,"1 Place Marcou, 11000, Carcassonne",11000,,43.2066163,2.364589
 2810931574,node,Le Menestrel,restaurant,Carcassonne,"Place Marcou, 11000, Carcassonne",11000,,43.2066971,2.3647237
 2822300401,node,La Table Ronde,restaurant,Carcassonne,,,,43.2060464,2.3647293
+2849870150,node,,artwork,Carcassonne,,,,43.3345131,2.4011922
 2858252161,node,Les Ardeillès,restaurant,Carcassonne,,,https://lesardeilles.com/,43.4047181,2.5379093
+2874391061,node,,artwork,Carcassonne,,,,43.4015913,2.5370632
+2931251492,node,Monument aux morts,memorial,Carcassonne,,,,43.4063263,1.8779044
+3042115368,node,,viewpoint,Carcassonne,,,,43.2694796,1.9343351
+3042115369,node,,viewpoint,Carcassonne,,,,43.2726747,1.9327579
+3042115370,node,Pech Haut,viewpoint,Carcassonne,,,,43.2743562,1.9308377
+3042115371,node,,viewpoint,Carcassonne,,,,43.2811497,1.9210206
+3042115372,node,,viewpoint,Carcassonne,,,,43.2827196,1.9198404
 3053891215,node,Auberge du Diable au Thym,restaurant,Carcassonne,"21 Route des Châteaux, 11600, Lastours",11600,https://www.lediableauthym.com/,43.3344346,2.3783431
 3053891216,node,Le Puits du Trésor,restaurant,Carcassonne,"21 Route des Châteaux, 11600, Lastours",11600,https://lepuitsdutresor.com/,43.3342796,2.3780897
+3157113131,node,Monument au Maquis de la Montagne Noire,memorial,Carcassonne,,,,43.3592629,2.1736153
+3158602548,node,,viewpoint,Carcassonne,,,,43.3584826,2.1653373
+3163888564,node,Les Illes,ruins,Carcassonne,,,,43.1301577,2.6048259
+3227181092,node,,memorial,Carcassonne,,,,43.3583958,2.165316
+3244407964,node,,ruins,Carcassonne,,,,43.054724,2.5364537
+3244422266,node,,ruins,Carcassonne,,,,43.0345903,2.5327098
+3244422314,node,,ruins,Carcassonne,,,,43.0438375,2.5295359
+3244794117,node,,ruins,Carcassonne,,,,43.1433803,2.57943
+3244794605,node,,ruins,Carcassonne,,,,43.1497958,2.5681668
+3244794615,node,,ruins,Carcassonne,,,,43.1505684,2.5730239
+3247516633,node,,ruins,Carcassonne,,,,43.0806111,2.5733214
+3247520470,node,,ruins,Carcassonne,,,,43.1166129,2.5487244
+3254879115,node,,ruins,Carcassonne,,,,43.1166869,2.5894812
+3273415733,node,La Coutellièro,ruins,Carcassonne,,,,43.3721528,2.4762915
+3274170956,node,,ruins,Carcassonne,,,,43.364426,2.5306775
+3281859196,node,,ruins,Carcassonne,,,,43.1075966,2.5592639
+3281859236,node,,ruins,Carcassonne,,,,43.1185721,2.5528043
+3281956762,node,,ruins,Carcassonne,,,,43.0520608,2.5388448
+3282009029,node,,ruins,Carcassonne,,,,43.0599393,2.5742722
+3282009040,node,,ruins,Carcassonne,,,,43.0605484,2.5689488
+3282009046,node,,ruins,Carcassonne,,,,43.0617933,2.5707197
+3282069750,node,,ruins,Carcassonne,,,,43.0472325,2.5315615
+3282360692,node,,ruins,Carcassonne,,,,43.1490048,2.5973407
+3282405097,node,La Barogne,ruins,Carcassonne,,,,43.037,2.5454441
+3321093210,node,Les Ferrans,ruins,Carcassonne,,,,43.3934741,2.3200796
+3321134721,node,,viewpoint,Carcassonne,,,,43.378914,2.3513287
+3439995604,node,Monument aux morts départemental,memorial,Carcassonne,,,,43.2128894,2.3465465
+3441290512,node,,memorial,Carcassonne,,,,43.2528772,2.3659178
 3450075554,node,Auberge de Dame Carcas,restaurant,Carcassonne,,,https://www.damecarcas.com,43.2067135,2.3643267
+3517576362,node,,viewpoint,Carcassonne,,,,43.3111479,2.215465
 3574047094,node,Mademoiselle Naturozen,restaurant,Carcassonne,,,,43.2127134,2.355088
 3590077851,node,Les Trois Fontaines,restaurant,Carcassonne,,,,43.4158625,2.3009591
+3608750925,node,Monument aux morts,memorial,Carcassonne,,,,43.3786033,1.9267235
+3609061059,node,,memorial,Carcassonne,,,,43.1874995,2.0333914
+3609472210,node,,memorial,Carcassonne,,,,43.3929144,1.8448766
+3620642852,node,Château du Valès,castle,Carcassonne,,,,43.4121621,1.8300557
+3644833491,node,Henri Mazet,memorial,Carcassonne,,,,43.3317566,2.0374665
+3656562496,node,,memorial,Carcassonne,,,,43.3187927,2.098446
+3658202623,node,Monument aux Morts,memorial,Carcassonne,,,,43.2963563,2.3154059
+3666163610,node,,memorial,Carcassonne,,,,43.2927892,1.7860885
+3666818073,node,,memorial,Carcassonne,,,,43.3249026,1.7561192
+3676400356,node,,memorial,Carcassonne,,,,43.2003018,2.2091781
 3698764479,node,Hôtel Montségur,hotel,Carcassonne,1 Avenue Bunau Varilla,,,43.2122086,2.3446578
+3707601551,node,,memorial,Carcassonne,,,,43.3049329,1.7259011
+3707623149,node,,memorial,Carcassonne,,,,43.3299165,1.8238652
+3715554697,node,,memorial,Carcassonne,,,,43.2811043,2.5836006
+3748413950,node,,memorial,Carcassonne,,,,43.2471239,1.9811122
+3749525040,node,,monument,Carcassonne,,,,43.2935191,1.7870196
 3785042567,node,Hôtel de la Bastide,hotel,Carcassonne,"81 Rue de la Liberté, 11000, Carcassonne",11000,http://www.hoteldelabastide.com,43.2156744,2.3496505
+3806833668,node,Monuments aux morts,memorial,Carcassonne,,,,43.3618933,2.4598396
 3811620166,node,,restaurant,Carcassonne,,,,43.2016244,2.3294819
 3811620173,node,Le Bistrot d'Auriac,restaurant,Carcassonne,,,,43.1914046,2.3355308
 3811620175,node,Première Classe,hotel,Carcassonne,,,https://carcassonne.premiereclasse.com,43.2065113,2.3125338
@@ -120,12 +297,63 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 3811620180,node,Kyriad,hotel,Carcassonne,,,,43.208212,2.312158
 3832222657,node,Ristorante Del Arte,restaurant,Carcassonne,"Lieu dit Planeto Nord, 11000, Carcassonne",11000,https://www.delarte.fr/restaurant-italien-pizzeria-carcassonne.html,43.2014962,2.3145318
 3832810509,node,Auberge La Calèche,restaurant,Carcassonne,1 Rue de la Croix,,https://www.auberge-la-caleche.com/,43.3619111,1.9594452
+3890443625,node,,viewpoint,Carcassonne,,,,43.1913668,2.3677105
+3918242965,node,,memorial,Carcassonne,,,,43.2690907,2.4385227
+3927567207,node,anciennes glacières,ruins,Carcassonne,,,,43.399578,2.4516592
+3927567208,node,anciennes glacières,ruins,Carcassonne,,,,43.3993146,2.4511408
+3988428523,node,Calvet,ruins,Carcassonne,,,,43.2675698,2.4763781
+4003432371,node,,park,Carcassonne,,,,43.2437345,2.1172448
+4016309126,node,,ruins,Carcassonne,,,,43.0676842,2.485785
+4018302078,node,,ruins,Carcassonne,,,,43.0731874,2.4515491
+4020206561,node,,ruins,Carcassonne,,,,43.095009,2.4538427
+4020213430,node,,ruins,Carcassonne,,,,43.1122429,2.4933918
+4022022085,node,,ruins,Carcassonne,,,,43.1158699,2.5546331
+4027559057,node,Château des Courtines,castle,Carcassonne,,,,43.1932448,1.9097182
+4036041157,node,Vialade,ruins,Carcassonne,,,,43.3597001,2.1305935
+4037784106,node,,ruins,Carcassonne,,,,43.3787237,2.305026
+4039776661,node,Fajole,ruins,Carcassonne,,,,43.3997914,2.3729512
+4040018779,node,Rives de Mat,ruins,Carcassonne,,,,43.3892709,2.5185276
+4057201089,node,Dame Carcas,artwork,Carcassonne,,,,43.2066469,2.365936
+4058111586,node,Saint-Martin,ruins,Carcassonne,,,,43.3450174,2.4686114
+4058285586,node,,viewpoint,Carcassonne,,,,43.3968402,2.4940594
+4058469531,node,,viewpoint,Carcassonne,,,,43.3342386,2.5267446
+4059843765,node,Couroulès,ruins,Carcassonne,,,,43.3643243,2.3435619
+4059844763,node,,viewpoint,Carcassonne,,,,43.3349171,2.384139
+4059895510,node,Viallèle Loin,ruins,Carcassonne,,,,43.3729021,2.3959641
+4059939850,node,Le Pellairol,ruins,Carcassonne,,,,43.3960845,2.3832255
+4061646037,node,Plaine de Montolieu,attraction,Carcassonne,,,,43.3012155,2.284633
+4064741552,node,Espallières,ruins,Carcassonne,,,,43.1246305,2.4013225
+4071700072,node,Escaux,ruins,Carcassonne,,,,43.1377016,2.4058126
+4105584796,node,Clamoux,ruins,Carcassonne,,,,43.4292632,2.4954116
+4105609356,node,,ruins,Carcassonne,,,,43.4240651,2.5016075
+4109291865,node,Villegause,ruins,Carcassonne,,,,43.3427339,2.5151649
+4109319645,node,,viewpoint,Carcassonne,,,,43.3448478,2.4611098
+4109328171,node,,ruins,Carcassonne,,,,43.3434824,2.451427
+4109330881,node,,ruins,Carcassonne,,,,43.3377423,2.4565192
+4109362055,node,Stèle du Maquis,memorial,Carcassonne,,,,43.3519427,2.4486026
+4109440589,node,Traouc del Oulo,viewpoint,Carcassonne,,,,43.3680428,2.4743793
+4109833581,node,,viewpoint,Carcassonne,,,,43.4232107,2.4316075
+4109852746,node,,ruins,Carcassonne,,,,43.4308155,2.4234683
+4111204224,node,Téchounières,ruins,Carcassonne,,,,43.3578696,2.4315296
+4111315096,node,,ruins,Carcassonne,,,,43.3698225,2.3895664
+4111315129,node,,ruins,Carcassonne,,,,43.3712693,2.3902638
+4111418023,node,,viewpoint,Carcassonne,,,,43.3853526,2.3695035
+4113575783,node,Bujet,ruins,Carcassonne,,,,43.415691,2.3582377
+4113575784,node,Caralès Bas,ruins,Carcassonne,,,,43.4124782,2.3457735
+4113575785,node,La Ferrière,ruins,Carcassonne,,,,43.4078349,2.3532917
+4113584192,node,Mahungach,ruins,Carcassonne,,,,43.4181887,2.3580714
+4113677352,node,Fontparlière,ruins,Carcassonne,,,,43.4000313,2.3457453
+4114721240,node,Ventoule,ruins,Carcassonne,,,,43.3820379,2.549625
+4120605285,node,La Rouquelo,ruins,Carcassonne,,,,43.3793392,2.5147855
+4120712712,node,,monument,Carcassonne,,,,43.4071598,2.5350174
 4170125440,node,Les Snackeurs,restaurant,Carcassonne,"39 Rue Prosper Estieu, 11400, Castelnaudary",11400,https://les-snackeurs-castel.com/,43.3160188,1.9516688
+4192013868,node,,memorial,Carcassonne,,,,43.4531332,2.2583855
 4206454189,node,Moulin de la Ganguise,hotel,Carcassonne,"30 Chemin de la Ganguise, 11410, Molleville",11410,,43.3085287,1.8304642
 4253563501,node,Le Ménestrel,restaurant,Carcassonne,"Place Marcou, 11000, Carcassonne",11000,,43.2066845,2.3648692
 4253563503,node,Le flagrant des lices,restaurant,Carcassonne,,,,43.2064946,2.3646241
 4253563504,node,Le cachotier,restaurant,Carcassonne,"Place Marcou, 11000, Carcassonne",11000,https://www.le-cachotier.fr/,43.2064507,2.364633
 4253563505,node,La table des consuls,restaurant,Carcassonne,,,,43.2064251,2.3648673
+4253563507,node,,artwork,Carcassonne,,,,43.2066029,2.3648029
 4261250029,node,Taverne du Château,restaurant,Carcassonne,"2 Rue Cros Mayrevieille, 11000, Carcassonne",11000,,43.2068266,2.3645192
 4319712396,node,Le petit Marcou,restaurant,Carcassonne,,,,43.2066813,2.3650572
 4327049327,node,Hôtel Restaurant Le Top du Roulier,hotel,Carcassonne,8 Avenue du Languedoc,,https://www.le-top-capendu.fr/,43.1878784,2.5579878
@@ -134,7 +362,31 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4484716569,node,Trattoria Napoli,restaurant,Carcassonne,,,,43.209621,2.4442354
 4497524275,node,L'Artigice,restaurant,Carcassonne,,,,43.2513708,2.6536408
 4497524280,node,Le Rivassel,restaurant,Carcassonne,,,,43.2485499,2.659657
+4523140668,node,,ruins,Carcassonne,,,,43.0349162,2.5066799
 4559766351,node,Pizzéria La Taverne du Château,restaurant,Carcassonne,,,,43.3585918,2.1689933
+4572621952,node,Le jardin de Campus,garden,Carcassonne,,,,43.2197772,2.3538695
+4572998032,node,,ruins,Carcassonne,,,,43.1289059,2.5389139
+4579718392,node,,ruins,Carcassonne,,,,43.3012901,1.8529985
+4579769985,node,,ruins,Carcassonne,,,,43.3055132,1.8869917
+4579836010,node,,ruins,Carcassonne,,,,43.2781108,1.8244366
+4579850759,node,,ruins,Carcassonne,,,,43.2800672,1.7753444
+4594399873,node,,ruins,Carcassonne,,,,43.1410843,2.4822156
+4594420162,node,,ruins,Carcassonne,,,,43.129817,2.4659648
+4594765588,node,,ruins,Carcassonne,,,,43.1383808,2.546401
+4596123501,node,,ruins,Carcassonne,,,,43.162479,2.5602069
+4596501980,node,,ruins,Carcassonne,,,,43.0525949,2.5182429
+4596621291,node,,ruins,Carcassonne,,,,43.1069049,2.4927928
+4596749304,node,,ruins,Carcassonne,,,,43.1244621,2.5308135
+4610253228,node,,ruins,Carcassonne,,,,43.3360015,2.5356759
+4612362621,node,,ruins,Carcassonne,,,,43.1397207,2.5923081
+4612362630,node,,ruins,Carcassonne,,,,43.1386889,2.5882327
+4642382336,node,,ruins,Carcassonne,,,,43.0567445,2.5538158
+4680408371,node,,viewpoint,Carcassonne,,,,43.4216864,1.8742103
+4692458684,node,,ruins,Carcassonne,,,,43.2596666,1.7716537
+4692527147,node,,ruins,Carcassonne,,,,43.2214642,1.79909
+4715089389,node,Moulin de Patience,ruins,Carcassonne,,,,43.3610826,2.1256741
+4715089444,node,Martinet,ruins,Carcassonne,,,,43.3564354,2.126621
+4780787857,node,,ruins,Carcassonne,,,,43.3549389,2.1494099
 4780918421,node,Cuisine at Anetta,restaurant,Carcassonne,,,http://anetta.fr/,43.2223911,2.3370974
 4800510564,node,Domaine de Palats,hotel,Carcassonne,"11800, Laure-Minervois",11800,https://domainedepalatz.com/,43.2854644,2.5137586
 4822377122,node,La Marquière,restaurant,Carcassonne,"13 Rue Saint-Jean, 11000, Carcassonne",11000,https://www.lamarquiere.com/,43.2080518,2.3643315
@@ -142,35 +394,89 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4822481522,node,Comte Roger,restaurant,Carcassonne,"14 Rue Saint-Louis, 11000, Carcassonne",11000,https://www.comteroger.com/,43.2062091,2.3634081
 4822482921,node,Le Jardin de l'Estagnol,restaurant,Carcassonne,"1 Rue Benjamin Franklin, 11000",11000,https://jardindelestagnol.com/,43.2151252,2.3352515
 4822506321,node,Le Chaudron,restaurant,Carcassonne,"6 Rue Saint-Jean, 11000",11000,https://aji-restaurants.com/le-chaudron-2/?,43.2079125,2.3644627
+4879377456,node,,viewpoint,Carcassonne,,,,43.2110124,2.584523
+4879377469,node,,viewpoint,Carcassonne,,,,43.2238924,2.2598201
+4898152923,node,,viewpoint,Carcassonne,,,,43.2113054,2.3589718
+4940784611,node,Fiole,ruins,Carcassonne,,,,43.2772685,1.7355734
+4983161221,node,,viewpoint,Carcassonne,,,,43.2119838,2.3640588
 4991823180,node,CAZI del MAR,restaurant,Carcassonne,"3 Place du 19 mars 1962, 11570, Cazilhac",11570,,43.182876,2.3657209
+5046447921,node,Parc aquaviva,attraction,Carcassonne,,,,43.1816261,2.419871
 5054062842,node,Restaurant La Rive Belle,restaurant,Carcassonne,,,,43.2375119,2.288259
+5141661401,node,,park,Carcassonne,,,,43.281279,2.0900218
 5143944366,node,La Rencontre,restaurant,Carcassonne,"6 Place des Tilleuls, 11170, Montolieu",11170,https://www.larencontre-montolieu.fr,43.309344,2.2155704
 5143944370,node,Casquette et Châpeau,restaurant,Carcassonne,"2 Place de la Liberté, 11170, Montolieu",11170,https://www.casquetteetchapeau.fr,43.3104916,2.2142504
+5206462553,node,,memorial,Carcassonne,,,,43.3974097,2.2323525
+5219572342,node,,ruins,Carcassonne,,,,43.2629973,1.7216644
+5248379853,node,Château de Blazens,castle,Carcassonne,,,,43.1728635,1.7893526
+5248773006,node,les Martrès,ruins,Carcassonne,,,,43.1671357,1.8700495
 5351235166,node,A nous 2,restaurant,Carcassonne,,,,43.3604554,2.2174627
+5476255521,node,Pont Vieux,attraction,Carcassonne,Pont-Vieux,,,43.2103764,2.3586389
+5477529106,node,Château du Castelet des Crozes,castle,Carcassonne,,,,43.3495222,1.9841641
+5481199287,node,Château de l'Abbé,castle,Carcassonne,,,,43.2662664,2.2840921
+5482936476,node,Château de la Caunette,castle,Carcassonne,,,,43.3201306,2.3826304
+5508809331,node,,ruins,Carcassonne,,,,43.1199022,2.5832462
 5535344181,node,Saint-Martin,restaurant,Carcassonne,,,,43.228123,2.3970561
 5708186423,node,Le-Bis-Troquet,restaurant,Carcassonne,"22 Rue Chartran, 11000",11000,,43.2122549,2.3514224
+5716099228,node,Domaine de Maragon,artwork,Carcassonne,,,,43.1821853,2.3441142
+5716133721,node,Domaine de Fontalès,artwork,Carcassonne,,,,43.1430809,2.0896851
+5716133722,node,Combebelle,artwork,Carcassonne,,,,43.147835,2.0848324
+5716681921,node,Domaine de Paretlongue,artwork,Carcassonne,,,,43.2361543,2.3329769
+5798646443,node,,viewpoint,Carcassonne,,,,43.2837141,2.236226
+5827396305,node,,memorial,Carcassonne,,,,43.2790701,2.2274758
 5849841686,node,Le relais des chevaliers,restaurant,Carcassonne,,,,43.2065077,2.3636955
+5875400182,node,,viewpoint,Carcassonne,,,,43.1559794,2.6224657
 5893731054,node,L'Auberge du Bout du Monde,restaurant,Carcassonne,,,https://www.leboutdumonde.fr/auberge.html,43.3759939,2.0763454
+5906797084,node,,memorial,Carcassonne,,,,43.2199778,2.0398005
+5908469649,node,,artwork,Carcassonne,,,,43.2861067,1.9219071
+6047134288,node,Hôtel Bourlat (s.XVIII),attraction,Carcassonne,"81 Rue de Verdun, 11000",11000,,43.2125942,2.3487066
+6047134289,node,Hôtel Besaucèle,attraction,Carcassonne,"87 Rue de Verdun, 11000",11000,,43.212613,2.3480883
+6047134290,node,Collège André Chénier,attraction,Carcassonne,"73 Rue de Verdun, 11000",11000,,43.2125846,2.3492659
+6047134385,node,Hôtel de Murat (XVIIIe s.),attraction,Carcassonne,"5 Rue Aimé Ramond, 11000",11000,,43.2123139,2.3542751
+6047134485,node,Maison du Sénéchal,attraction,Carcassonne,"70 Rue Aimé Ramond, 11000",11000,,43.2119173,2.3498733
 6256273087,node,La Cotte de Mailles,restaurant,Carcassonne,2 Rue Saint-Jean,,http://www.restolacottedemailles.com/index.htm,43.2076375,2.3644494
 6257872185,node,La Barbacane,restaurant,Carcassonne,Place Auguste-Pierre Pont,,https://www.cite-hotels.com/hotels/hotel-de-la-cite/restaurant-la-barbacane/,43.2057185,2.3627221
 6258083885,node,Restaurant Bourdasso,restaurant,Carcassonne,,,https://www.bourdasso.com,43.1498855,2.4966904
 6258222186,node,Domaine Michaud,restaurant,Carcassonne,,,https://www.domainemichaud.eu/en/restaurant/,43.1589962,2.265175
 6335220510,node,Hôtel du Pont-Vieux,hotel,Carcassonne,,,https://www.hotelpontvieux.com,43.2090468,2.3617756
+6515326227,node,Monument aux Morts,memorial,Carcassonne,,,,43.333581,2.3802206
 6516068485,node,La Table du Rebombier,restaurant,Carcassonne,"1 chemin des violettes lieu dit du rebombier sud, 11390",11390,https://latabledurebombier.e-monsite.com/,43.3455664,2.2426626
+6563824767,node,Ancienne écluse du Canal du Midi,monument,Carcassonne,,,,43.2343426,2.3605871
 6673029018,node,Auberge des lices,restaurant,Carcassonne,"3 Rue Raymond Roger Trencavel, 11000, Carcassonne",11000,https://www.aubergedeslices.com/,43.2053183,2.3636369
 6681782085,node,Enjoy,restaurant,Carcassonne,11000,11000,,43.2055449,2.3646851
 6681866385,node,Les copains d'abord,restaurant,Carcassonne,,,,43.2074798,2.3646021
+6683942885,node,,viewpoint,Carcassonne,,,,43.2893259,2.3151252
 6696593586,node,La Cybèle,restaurant,Carcassonne,,,,43.3155303,1.9516449
+6766522939,node,Espace En Gauzy,park,Carcassonne,"5 Route de Toulouse, 11410",11410,,43.2953363,1.7813495
 6770239359,node,Le 104,restaurant,Carcassonne,"104 Rue de Verdun, 11000, Carcassonne",11000,https://www.resto104.fr,43.2127258,2.3480276
+6783490873,node,Galerie Willy Bâ,gallery,Carcassonne,,,https://www.willyba.com,43.3089861,2.2176262
+6783490874,node,,memorial,Carcassonne,,,,43.3086075,2.2177792
 6783490876,node,Apostrophe,restaurant,Carcassonne,"12 Rue des Pyrénées, 11170, Montolieu",11170,https://www.apostrophe-hotel.fr,43.3087246,2.2175095
 6784889178,node,Chapters,restaurant,Carcassonne,"5 Rue de la Mairie, 11170, Montolieu",11170,https://restaurantchapters.fr/,43.310005,2.214704
 6784894813,node,Thé and Co,restaurant,Carcassonne,"3, 11170, Montolieu",11170,,43.3115439,2.2151016
 6785035876,node,La Table Fermière,restaurant,Carcassonne,,,http://tablefermiere.com/TableFermiere.html,43.3051645,2.1688369
 6786659899,node,À la Prise d'Alzeau,restaurant,Carcassonne,,,http://www.prisedalzeau.com,43.3967169,2.2266505
+6788380123,node,L'Envol,artwork,Carcassonne,,,,43.3094068,2.2148059
 6789337227,node,Maison de Mallast,restaurant,Carcassonne,"19 Rue Nationale, 11170, Montolieu",11170,https://www.maisondemallast.com,43.3097103,2.2145598
+6789337269,node,Galerie la Compagnie des Voyageurs,gallery,Carcassonne,,,,43.3089959,2.2178221
+6790260996,node,,memorial,Carcassonne,,,,43.3110562,2.2146733
+6790260998,node,,viewpoint,Carcassonne,,,,43.321238,2.2124201
+6791336046,node,,memorial,Carcassonne,,,,43.2945416,2.1447112
 6888035183,node,Stratto,restaurant,Carcassonne,,,,43.2196474,2.2168884
+7125063597,node,,memorial,Carcassonne,,,,43.2806794,2.0900285
+7227360185,node,"A Joseph Poux – Archiviste Dept, Historien de la Cité 1873-1938",monument,Carcassonne,,,,43.2067927,2.3661341
+7228318785,node,Accès aux Lices,attraction,Carcassonne,,,,43.2045174,2.3616054
+7230390585,node,Histoire de Carcassonne,artwork,Carcassonne,,,,43.209136,2.365657
+7230453286,node,Passerelle sur le bras latéral de l'Aude,attraction,Carcassonne,,,,43.2088747,2.3592693
+7230478085,node,Moteurs des Fontaines de la Cité,attraction,Carcassonne,,,,43.2091399,2.3592092
+7230935287,node,Le Bastion Saint-Martial,attraction,Carcassonne,,,,43.2163165,2.350005
+7231070785,node,La maison dite de l’Ambasadeur,attraction,Carcassonne,,,,43.2119276,2.3518577
 7231179685,node,La Crêperie de la Trivalle,restaurant,Carcassonne,,,,43.2091416,2.3633956
 7277585047,node,Histoire gourmande,restaurant,Carcassonne,97 Boulevard Barbès,,,43.2101891,2.3468156
+7410601486,node,,viewpoint,Carcassonne,,,,43.0616869,2.5254061
+7410611085,node,Point de vue,viewpoint,Carcassonne,,,,43.0649662,2.5315513
+7414679827,node,Porte d'Aude,attraction,Carcassonne,"Rue Porte d'Aude, 11000",11000,,43.2064135,2.3628294
+7527330204,node,Monument aux Morts,memorial,Carcassonne,,,,43.1480471,2.3221429
+7557106976,node,,memorial,Carcassonne,,,,43.3703976,2.2472774
 7620326344,node,La girouette,restaurant,Carcassonne,,,,43.2064227,2.3650179
 7620329797,node,Restaurant du petit puits,restaurant,Carcassonne,,,,43.2054897,2.364373
 7620330254,node,Joseph,restaurant,Carcassonne,,,,43.2056377,2.3645282
@@ -181,53 +487,194 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 7687035493,node,,restaurant,Carcassonne,,,,43.2003534,2.3535083
 7700105567,node,Le Comptoir des Halles,restaurant,Carcassonne,24 Rue du 143e Rgt d'Infanterie,,,43.3189791,1.9533928
 7703676737,node,Le petit Oasis,restaurant,Carcassonne,,,,43.319511,1.9533563
+7778277780,node,,memorial,Carcassonne,,,,43.3433773,2.2546404
 7780252964,node,Le Plô,restaurant,Carcassonne,,,,43.2059019,2.3644745
+7792169409,node,,viewpoint,Carcassonne,,,,43.3971727,2.371054
+7792187574,node,capitelle,ruins,Carcassonne,,,,43.2857843,2.2266406
+7797196985,node,,viewpoint,Carcassonne,,,,43.2115996,2.3592098
 7819524386,node,,restaurant,Carcassonne,,,,43.2294357,2.3851825
+7819654896,node,Point de vue,viewpoint,Carcassonne,,,,43.2796079,2.2214168
 7822242787,node,Le Jardin d'été,restaurant,Carcassonne,,,,43.2092132,2.3603704
 7822254685,node,Le Réservoir,restaurant,Carcassonne,"11 Rue Trivalle, 11000, Carcassonne",11000,,43.2094391,2.3614609
+7834763685,node,,viewpoint,Carcassonne,,,,43.4241762,2.4622757
+7836970415,node,Glacière,ruins,Carcassonne,,,,43.4077941,2.4377766
+8020908233,node,Capitelle,ruins,Carcassonne,,,,43.2971607,2.3645157
+8020920483,node,Capitelle,ruins,Carcassonne,,,,43.2983353,2.3663428
+8020927098,node,Capitelle,ruins,Carcassonne,,,,43.2997519,2.3653431
+8020934018,node,Capitelle,ruins,Carcassonne,,,,43.3002471,2.3585579
+8020939978,node,Capitelle,ruins,Carcassonne,,,,43.2971748,2.3638617
+8020942294,node,Capitelle,ruins,Carcassonne,,,,43.2984826,2.3687234
+8020944150,node,Capitelle,ruins,Carcassonne,,,,43.2966531,2.3660062
+8020945301,node,Capitelle,ruins,Carcassonne,,,,43.2978593,2.3631016
+8020945488,node,Capitelle,ruins,Carcassonne,,,,43.2991726,2.3637714
+8020947293,node,Capitelle,ruins,Carcassonne,,,,43.300575,2.3672101
+8020947823,node,Capitelle,ruins,Carcassonne,,,,43.2997508,2.3665084
+8020948085,node,Capitelle,ruins,Carcassonne,,,,43.3000474,2.3641024
+8091568315,node,,viewpoint,Carcassonne,,,,43.2975471,2.3170691
+8091603842,node,,viewpoint,Carcassonne,,,,43.2991431,2.321161
+8091603862,node,,viewpoint,Carcassonne,,,,43.2957232,2.30833
+8091603864,node,Belvédère du Moulin,viewpoint,Carcassonne,,,,43.2932998,2.3211705
+8177377968,node,,viewpoint,Carcassonne,,,,43.2925836,1.9175735
 8230892524,node,Château de Floure,hotel,Carcassonne,,,https://www.chateau-de-floure.com/,43.1831397,2.490991
+8321293130,node,Gasquet,ruins,Carcassonne,,,,43.2132547,1.7580244
+8357434404,node,Mamour,ruins,Carcassonne,,,,43.1782367,1.9909474
+8488846415,node,Perga Haut,ruins,Carcassonne,,,,43.4155738,2.5003121
+8493803128,node,La Goutine,ruins,Carcassonne,,,,43.4273244,2.48806
+8493803136,node,Les Bayours,ruins,Carcassonne,,,,43.4143215,2.4249351
+8493925631,node,Le Bousquet,ruins,Carcassonne,,,,43.3966872,2.3353726
+8493925632,node,Le Carnier,ruins,Carcassonne,,,,43.3942743,2.3523563
+8509652574,node,Grasset,ruins,Carcassonne,,,,43.2367754,1.7949772
+8509652580,node,Table d'orientation,viewpoint,Carcassonne,,,,43.2543458,1.7780471
 8531211717,node,Cantine Scolaire,restaurant,Carcassonne,,,,43.2807776,2.2309526
+8592499817,node,Pont,attraction,Carcassonne,,,,43.2499842,2.6684537
 8647532727,node,L'arbre du voyageur,restaurant,Carcassonne,,,,43.1736109,2.3872429
+8753536373,node,Georges Roby,memorial,Carcassonne,,,,43.2257779,1.9639456
 8907157694,node,La Bonne Planque,hotel,Carcassonne,"Chemin de la Planque, 11400, Mas-Saintes-Puelles",11400,,43.3207872,1.9135636
+8922737628,node,Belvédère 2 des Châteaux de Lastours,viewpoint,Carcassonne,,,,43.3324643,2.3762957
+9001895708,node,Vierge,artwork,Carcassonne,,,,43.2632551,1.7524225
 9020316495,node,La Halte Romaine,restaurant,Carcassonne,,,,43.2394653,2.2276367
+9060540237,node,,artwork,Carcassonne,,,,43.3772878,1.9275608
+9103954558,node,Galvaire,artwork,Carcassonne,,,,43.3147147,1.8784502
+9110559408,node,,memorial,Carcassonne,,,,43.3707127,2.3632947
+9110572182,node,Le Ségnou,ruins,Carcassonne,,,,43.3736971,2.3384048
 9124752544,node,Happy snack,restaurant,Carcassonne,,,,43.2096882,2.442664
 9137177012,node,Auberge des Ducs d'Oc,restaurant,Carcassonne,,,https://www.auberge-des-ducs-doc.fr,43.2066089,2.3644653
 9137314736,node,Le sénéchal,restaurant,Carcassonne,,,,43.2071443,2.3642582
+9137350023,node,Monument aux Morts,memorial,Carcassonne,,,,43.1611555,1.9826124
+9137598213,node,Maison Hantée,attraction,Carcassonne,,,https://maison-hantee-carcassonne.com,43.2074524,2.3641056
 9137649474,node,Le Jardin du Carcassès,restaurant,Carcassonne,"Rue Dame Carcas, 11000, Carcassonne",11000,,43.2054392,2.3633429
+9205215877,node,Glacière,ruins,Carcassonne,,,,43.4077073,2.4388951
+9205215878,node,Glacière,ruins,Carcassonne,,,,43.4081896,2.4393873
+9205218914,node,Glacière,ruins,Carcassonne,,,,43.4141607,2.4454947
+9205218915,node,Glacière,ruins,Carcassonne,,,,43.4147004,2.4448322
 9217851995,node,Le Couvent,hotel,Carcassonne,31 Rue du Quatre Septembre,,https://www.au-couvent.fr,43.2149325,2.351535
+9241688346,node,1789-1989,memorial,Carcassonne,,,,43.2471787,1.9812151
 9242670294,node,Le jardin de la tour,restaurant,Carcassonne,,,,43.2065095,2.3632722
+9244460257,node,,memorial,Carcassonne,,,,43.1481642,1.9156666
+9246074038,node,Lavail,ruins,Carcassonne,,,,43.3051157,1.8772258
+9263826308,node,La Grifoulière,ruins,Carcassonne,,,,43.3665628,2.3303649
 9287122017,node,Freaks,restaurant,Carcassonne,"30 Rue de Verdun, 11000",11000,,43.2127013,2.3530944
+9288661111,node,Mousserette,ruins,Carcassonne,,,,43.3609527,2.1283865
+9288679263,node,,ruins,Carcassonne,,,,43.3177909,2.1614823
+9326981356,node,L'Auzine,ruins,Carcassonne,,,,43.3428377,2.0975733
+9365481818,node,,viewpoint,Carcassonne,,,,43.3314796,1.8047185
 9432979147,node,Dinner 118,restaurant,Carcassonne,"4 Chemin de la Plaine, 11250, Rouffiac-d'Aude",11250,https://fr-fr.facebook.com/pages/category/Diner/Diner-118-908079972578087/,43.1254062,2.2969532
 9500814173,node,Lauthier le Haut,restaurant,Carcassonne,11390,11390,https://lelauthier.com,43.331106,2.2414477
+9504642506,node,Vidal,ruins,Carcassonne,,,,43.155479,2.5854859
 9505925217,node,La Pizz’ Castelnaudary,restaurant,Carcassonne,"40 Route de Saint Martin Lalande, 11400",11400,,43.3061571,1.9808051
+9574745380,node,Écomusée « Marbre & Terroir »,museum,Carcassonne,"26 Avenue du Stade, 11160, Caunes-Minervois",11160,https://lesmarbrieresdecaunes.jimdo.com/,43.3223112,2.5268241
+9727851838,node,,artwork,Carcassonne,,,,43.3170199,1.9555078
 9727885717,node,Hôtel Townhouse,hotel,Carcassonne,11000,11000,https://carcassonnetownhouse.com/,43.2098602,2.3569104
+9733383497,node,,artwork,Carcassonne,,,,43.3166671,1.9560692
 9733425817,node,La Taverne Moderne,restaurant,Carcassonne,"43 Rue Trivalle, 11000, Carcassonne",11000,,43.209118,2.3627542
 9735800276,node,Le Rideau Rouge,restaurant,Carcassonne,,,,43.2110773,2.352424
+9755659665,node,Musée Jean Nicloux,museum,Carcassonne,"Avenue de l'Europe, 11800, Rustiques",11800,https://rustiques.fr/tourisme/le-musee,43.2160219,2.4729339
 9779234247,node,O deliz cafe,restaurant,Carcassonne,54 Rue Trivalle,,,43.2089891,2.362675
+9858887172,node,,memorial,Carcassonne,,,,43.2436757,2.1172441
 9901457148,node,Chez David,restaurant,Carcassonne,49 Rue General Dejean,,,43.3176785,1.9542889
+9901499495,node,,artwork,Carcassonne,,,,43.2123151,2.3554926
 9914157703,node,Hôtel de l'Octroi,hotel,Carcassonne,143 Rue Trivalle,,https://www.hoteloctroi.com/fr/hotel-3-etoiles-carcassonne,43.2086976,2.3682481
+9914157704,node,,artwork,Carcassonne,,,,43.2120064,2.3574449
 9914157705,node,Le Verre d'Un,restaurant,Carcassonne,,,,43.2127026,2.3553836
 9914157707,node,Bistro Vibes,restaurant,Carcassonne,,,,43.2131278,2.3523631
 9926600501,node,Le Patio,restaurant,Carcassonne,"5 Rue du Grand Puits, 11000, Carcassonne",11000,,43.2076022,2.364886
 9926622942,node,La Demeure du Cassoulet,restaurant,Carcassonne,"7 Rue du Grand Puits, 11000, Carcassonne",11000,,43.2075658,2.3645814
 9926990195,node,Le Trivalou,restaurant,Carcassonne,"69 Rue Trivalle, 11000, Carcassonne",11000,,43.2093271,2.3636939
 9926990196,node,Le Vintage,restaurant,Carcassonne,"36 Rue Trivalle, 11000, Carcassonne",11000,,43.2090175,2.3619657
+9935836514,node,Jardin des Marbrières,artwork,Carcassonne,,,https://lesmarbrieresdecaunes.jimdo.com/voir-le-jardin-des-marbri%C3%A8res/,43.3326738,2.535696
 9937254939,node,Comptoir Ludique,restaurant,Carcassonne,"24 Rue de la République, 11000, Carcassonne",11000,,43.214261,2.3512479
 9955568763,node,La Casa,restaurant,Carcassonne,,,,43.2348053,2.3656571
 9955568764,node,Bistro Régent,restaurant,Carcassonne,,,,43.2346839,2.3664725
 9959976537,node,Le Victoria,restaurant,Carcassonne,,,,43.2346071,2.366243
+9963922212,node,Moulin à Papier,viewpoint,Carcassonne,,,,43.3507068,2.255491
+9963946827,node,,viewpoint,Carcassonne,,,,43.3483179,2.2565407
+9983919416,node,,artwork,Carcassonne,,,,43.4242865,2.5370425
+10004054555,node,Vincent,ruins,Carcassonne,,,,43.1167304,2.410292
+10009342941,node,,viewpoint,Carcassonne,,,,43.4014959,2.3407397
+10009342942,node,Montrouch,ruins,Carcassonne,,,,43.4132976,2.2860199
+10010691719,node,Poutou,ruins,Carcassonne,,,,43.4127715,2.0335758
+10029954817,node,al Saltré,ruins,Carcassonne,,,,43.0645533,2.447741
+10029954818,node,Béragne,ruins,Carcassonne,,,,43.0645377,2.4550795
+10029954819,node,Le Maou,ruins,Carcassonne,,,,43.0580942,2.4552512
+10029954820,node,Le Bourdicot,ruins,Carcassonne,,,,43.058737,2.4593818
+10029954821,node,Le Scendal,ruins,Carcassonne,,,,43.0612651,2.4686891
+10073381609,node,Le Buisson,ruins,Carcassonne,,,,43.1826746,1.9980553
 10097278245,node,L'Ambrosia,restaurant,Carcassonne,,,,43.2584237,2.2521573
 10166174817,node,Café de la place,restaurant,Carcassonne,,,,43.0890259,2.5197233
 10180284317,node,Ô trois cinq sept,restaurant,Carcassonne,,,,43.2134825,2.351323
+10249108687,node,Graillot,ruins,Carcassonne,,,,43.2582371,1.8048316
+10250844776,node,Monplaisir,ruins,Carcassonne,,,,43.210816,2.0263419
+10253231722,node,Table d'orientation,viewpoint,Carcassonne,,,,43.1521153,2.1003494
+10259474726,node,,viewpoint,Carcassonne,,,,43.2016048,2.3832513
+10287788101,node,,viewpoint,Carcassonne,,,,43.2284163,1.7729261
+10554356508,node,La Bastide RougePeyre,castle,Carcassonne,,,https://www.rougepeyre.fr/,43.2735855,2.3274096
+10648122176,node,,memorial,Carcassonne,,,,43.3611345,2.4199394
+10678672019,node,,memorial,Carcassonne,,,,43.3631262,2.3863207
+10687958229,node,Belvédère,viewpoint,Carcassonne,,,,43.2721426,2.5597139
 10747010898,node,Chez Seb,restaurant,Carcassonne,"10 Avenue Pierre Loti, 11800, Trèbes",11800,,43.2107491,2.4436857
+10824628768,node,,viewpoint,Carcassonne,,,,43.2298863,1.975161
+10891747990,node,,memorial,Carcassonne,,,,43.2972388,2.6803814
+10908320276,node,,viewpoint,Carcassonne,,,,43.4238938,2.463044
 10910826533,node,Vins de Dagne,restaurant,Carcassonne,2 Rue Pietonne,,,43.128836,2.5576083
+10911483725,node,,memorial,Carcassonne,,,,43.228135,1.9751584
+10916044888,node,,memorial,Carcassonne,,,,43.360435,2.2197777
+10936216908,node,,memorial,Carcassonne,,,,43.3353947,2.3111835
 10983660150,node,Chez Seb,restaurant,Carcassonne,,,,43.2102674,2.4434612
+11026386148,node,Badens,artwork,Carcassonne,,,,43.2185274,2.5080858
+11037278584,node,Viallèle Près,ruins,Carcassonne,,,,43.3747889,2.3932385
+11037278585,node,Foun de Fraïsse,ruins,Carcassonne,,,,43.3743288,2.4203181
+11037278586,node,la Parade,ruins,Carcassonne,,,,43.3781578,2.4180543
+11037278587,node,Picarot Haut,ruins,Carcassonne,,,,43.3762706,2.4111771
+11063197972,node,,memorial,Carcassonne,,,,43.2266212,2.6268388
+11063216328,node,Esplanade Michel Fouich,memorial,Carcassonne,,,,43.2036753,2.5398293
+11070526558,node,Ancienne glacière,monument,Carcassonne,,,,43.4000379,2.4277974
+11070531749,node,Pont,ruins,Carcassonne,,,,43.4071751,2.4369602
+11074777994,node,Statue de la Vierge,artwork,Carcassonne,,,,43.3509519,2.3785488
+11083844590,node,,memorial,Carcassonne,,,,43.1853793,2.2673123
+11083867514,node,,memorial,Carcassonne,,,,43.1842934,2.2415392
 11102702905,node,Enfants terribles,restaurant,Carcassonne,,,,43.2131831,2.3511804
+11103293284,node,,memorial,Carcassonne,,,,43.1523269,2.0898529
 11107443745,node,Maloka,restaurant,Carcassonne,,,,43.3632311,2.4604391
+11114101255,node,,memorial,Carcassonne,,,,43.3414221,2.4362519
+11132691313,node,,memorial,Carcassonne,,,,43.2120134,1.9316968
+11134309632,node,Combe Majou,ruins,Carcassonne,,,,43.3700082,2.3168921
+11134369521,node,La Sable,ruins,Carcassonne,,,,43.3099484,2.3462248
+11134879661,node,,memorial,Carcassonne,,,,43.2273545,1.8864813
+11136008091,node,Tour d'Albiges,ruins,Carcassonne,,,,43.322563,2.1176898
+11148041724,node,,artwork,Carcassonne,,,,43.3335991,2.5384172
+11148041776,node,,viewpoint,Carcassonne,,,,43.3366391,2.5409013
+11182093939,node,,memorial,Carcassonne,,,,43.1950992,1.8962888
+11182634315,node,Sercome,ruins,Carcassonne,,,,43.2020085,1.9292164
+11182711151,node,Chevaillé,ruins,Carcassonne,,,,43.2309383,1.8954742
+11182789896,node,les Gramons,ruins,Carcassonne,,,,43.2359801,1.7484999
+11182789897,node,la Rouge,ruins,Carcassonne,,,,43.2316731,1.7532205
 11182966040,node,Agapé,restaurant,Carcassonne,15 Rue des Trois Couronnes,,,43.2102132,2.3561991
+11184466414,node,Vierge,artwork,Carcassonne,,,,43.3930552,1.8446933
+11209015281,node,,artwork,Carcassonne,,,,43.2702106,2.5199032
+11210074007,node,,memorial,Carcassonne,,,,43.2793968,2.4591706
 11210074359,node,Restaurant Le Castel,restaurant,Carcassonne,"Chemin de Villarlong, 11600, Villarzel-Cabardès",11600,https://chateauvillarlong.com/fr/restaurant-le-castel/,43.281843,2.4773164
 11210790692,node,Le bistrot d'Alice,restaurant,Carcassonne,26 Rue Chartran,,https://www.lebistrotdalice.fr/,43.21238,2.3514012
+11215278035,node,,artwork,Carcassonne,,,,43.2595761,1.7935207
+11215335138,node,,artwork,Carcassonne,,,,43.2597089,1.7927577
+11219311637,node,,viewpoint,Carcassonne,,,,43.3525006,1.8215699
+11229924805,node,,memorial,Carcassonne,,,,43.1827077,1.8977679
+11279447392,node,,viewpoint,Carcassonne,,,,43.2790945,2.2273469
+11284714430,node,,memorial,Carcassonne,,,,43.3463127,1.8514216
+11284984752,node,,memorial,Carcassonne,,,,43.3784219,1.8948694
+11303480149,node,,memorial,Carcassonne,,,,43.4067901,2.4839032
+11303498492,node,,memorial,Carcassonne,,,,43.1277349,2.2979558
+11366998850,node,,memorial,Carcassonne,,,,43.1335779,2.562388
+11380423647,node,,memorial,Carcassonne,,,,43.2735966,2.4007761
+11387880733,node,,memorial,Carcassonne,,,,43.3309823,2.3552924
+11396904045,node,,memorial,Carcassonne,,,,43.3687131,2.2766293
+11423141739,node,la Fiaïrole,ruins,Carcassonne,,,,43.383741,2.4532664
+11459846767,node,,memorial,Carcassonne,,,,43.2685451,2.0346415
+11472684044,node,,ruins,Carcassonne,,,,43.4146342,2.3123029
+11526475870,node,Vierge,artwork,Carcassonne,,,,43.4385085,2.2604762
+11526475903,node,,memorial,Carcassonne,,,,43.4387383,2.2604638
+11617033614,node,,memorial,Carcassonne,,,,43.0811276,2.4896585
 11794200008,node,L'oustal Padel,restaurant,Carcassonne,,,,43.2124896,2.2946734
+11842034656,node,,viewpoint,Carcassonne,,,,43.428343,2.0466975
 11869771107,node,Hôtel de la Prade,hotel,Carcassonne,11150,11150,https://www.chateaulaprade.fr,43.2620109,2.113012
 11870106321,node,Les Cabanes dans les bois,hotel,Carcassonne,,,https://lescabanesdanslesbois.fr/,43.2436778,2.4169302
 11878898169,node,Pizza Bella,restaurant,Carcassonne,"Avenue Saint-Louis, 11620",11620,,43.2556312,2.3648446
@@ -239,41 +686,613 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 12106031747,node,Fazzoletti,restaurant,Carcassonne,,,,43.209143,2.3629804
 12112316071,node,Les Chevaliers,hotel,Carcassonne,,,https://www.sowell.fr/hotel/les-chevaliers/,43.2111396,2.3581776
 12112316072,node,Hôtel du Roi & Spa,hotel,Carcassonne,,,https://www.hotelduroi.com,43.2108451,2.3581764
+12112837682,node,,artwork,Carcassonne,,,,43.212105,2.3568594
+12112837689,node,Pau,artwork,Carcassonne,,,,43.2121541,2.3563189
+12112837690,node,,artwork,Carcassonne,,,,43.2121426,2.3567826
+12112837691,node,Esperança,artwork,Carcassonne,,,,43.2120141,2.3571984
+12122015563,node,Musée de l'inquisition,museum,Carcassonne,,,https://musee-inquisition-carcassonne.com,43.2077044,2.3643279
 12122056011,node,Brasserie Café Lucien,restaurant,Carcassonne,,,https://cafelucien.fr,43.2072037,2.3652036
+12314097666,node,,memorial,Carcassonne,,,,43.2126789,2.4452636
+12314097667,node,,memorial,Carcassonne,,,,43.213262,2.4496997
+12314097691,node,,memorial,Carcassonne,,,,43.212233,2.4492237
+12314234112,node,Puig-Aubert,memorial,Carcassonne,,,,43.21747,2.3632586
+12374641119,node,,viewpoint,Carcassonne,,,,43.2391821,1.8409247
+12376848050,node,,memorial,Carcassonne,,,,43.1847996,2.3637483
+12377376935,node,,memorial,Carcassonne,,,,43.1840213,2.5114764
 12377461358,node,"Tel mère, tel fils",restaurant,Carcassonne,10 Route de Narbonne,,https://www.facebook.com/p/Telle-mère-tel-fils-Restaurant-Barbaira-61556586000725,43.1857149,2.5115516
+12536575132,node,,memorial,Carcassonne,,,,43.232063,2.1243605
+12585442716,node,,memorial,Carcassonne,,,,43.3341213,2.0351345
+12609990419,node,,viewpoint,Carcassonne,,,,43.2991609,2.3132896
+12628984859,node,Musée de la Chevalerie,museum,Carcassonne,,,,43.2374654,2.2319472
+12628984860,node,,memorial,Carcassonne,,,,43.2354338,2.2326415
+12633107989,node,,viewpoint,Carcassonne,,,,43.3210546,2.2818786
+12649862315,node,Les Cazals,ruins,Carcassonne,,,,43.0569532,2.4745701
 12686611352,node,Maison du Cassoulet,restaurant,Carcassonne,"6 Rue du Grand Puits, 11000, Carcassonne",11000,https://maisonducassoulet.com/carcassonne/,43.2075262,2.3650447
 12709379401,node,Le Clos Saint Loup,hotel,Carcassonne,"69 Avenue du Razès, 11150",11150,,43.2350378,2.1188878
 12714533801,node,Hotel Audotel,hotel,Carcassonne,"113 Route Nationale, 11000",11000,https://hotel-audotel.com,43.2053807,2.4076753
+12753675569,node,Les tonneliers,artwork,Carcassonne,,,,43.2519457,2.366456
 12753712448,node,Chez Bouca,restaurant,Carcassonne,,,,43.252485,2.3661766
+12753714625,node,Liberté Égalité Fraternité,artwork,Carcassonne,,,,43.2525198,2.3645845
+12753716085,node,Sentinelle,artwork,Carcassonne,,,,43.2530367,2.3651241
+12753735853,node,Le musicien,artwork,Carcassonne,,,,43.2515679,2.3662883
+12753742804,node,Liberté,artwork,Carcassonne,,,,43.2523756,2.3663533
+12825969585,node,,memorial,Carcassonne,,,,43.2828926,2.5813917
+12826175156,node,,memorial,Carcassonne,,,,43.2512098,2.6541666
+12828565770,node,Château de Saint-Martin-le-Vieil,castle,Carcassonne,,,,43.294918,2.1447449
+12862448547,node,,memorial,Carcassonne,,,,43.2551358,2.2659285
 12862615802,node,Chez Modeste,restaurant,Carcassonne,"3 Place du Marche, 11700, Puichéric",11700,,43.2232596,2.6240607
+12862829547,node,,memorial,Carcassonne,,,,43.2035277,2.596272
+12863149778,node,,memorial,Carcassonne,,,,43.2042442,2.5422098
+12872810505,node,Le Mur de Bram,artwork,Carcassonne,,,,43.2410071,2.1114859
+12872810515,node,,artwork,Carcassonne,,,,43.2407305,2.1119729
 12872882521,node,Restaurant-Café de la Montagne Noire,restaurant,Carcassonne,"13 Avenue Maurice Sarrault, 11310, Saissac",11310,,43.3602902,2.1695189
+12877078741,node,Monument aux Morts,memorial,Carcassonne,,,,43.2727734,2.5205189
 12877253625,node,Au Bureau,restaurant,Carcassonne,,,,43.2077761,2.3926258
 12877476192,node,Le Lauranais,restaurant,Carcassonne,"23 Grand Rue, 11800, Laure-Minervois",11800,,43.2717897,2.5201261
 12896384767,node,L'Arzenais,restaurant,Carcassonne,"65 Place de la Mairie, 11290, Arzens",11290,https://bar-restaurant-arzenais.fr/,43.1993204,2.2108379
 12896532149,node,Pizzeria la 33,restaurant,Carcassonne,"26 Avenue du Razès, 11290, Lavalette",11290,,43.18478,2.2672495
+12899156518,node,,memorial,Carcassonne,,,,43.2293817,2.532884
+12914186555,node,,memorial,Carcassonne,,,,43.2313998,2.4396118
+12918167658,node,Monument commémoratif aux instituteurs de l'Aude,memorial,Carcassonne,,,,43.2110975,2.3396023
+12942534789,node,,memorial,Carcassonne,,,,43.1348749,2.2478173
+12942551921,node,,memorial,Carcassonne,,,,43.1456395,2.2888786
+12942609667,node,,memorial,Carcassonne,,,,43.1648688,2.2723604
+12946309933,node,,ruins,Carcassonne,,,,43.1742751,2.4312265
+12946309934,node,,ruins,Carcassonne,,,,43.1691321,2.4276752
+12946309937,node,,ruins,Carcassonne,,,,43.1676049,2.4466506
+12959506368,node,,memorial,Carcassonne,,,,43.1855868,2.4541788
+12959506369,node,,memorial,Carcassonne,,,,43.1854311,2.4541475
+12959506370,node,Monument aux Morts,memorial,Carcassonne,,,,43.1872153,2.4530857
+12960075875,node,,memorial,Carcassonne,,,,43.0893663,2.5184941
+12964499268,node,,memorial,Carcassonne,,,,43.1553444,2.3050214
 12966681032,node,Territoires de France,restaurant,Carcassonne,,,,43.1785578,2.5407452
+12980153758,node,,memorial,Carcassonne,,,,43.3253028,2.2695517
+12982181617,node,,memorial,Carcassonne,,,,43.1232895,2.3813696
+12995099254,node,,viewpoint,Carcassonne,,,,43.1558065,2.4495994
+12997092201,node,,artwork,Carcassonne,,,,43.2309869,2.5342878
 12997893302,node,Restaurant de l'Aude,restaurant,Carcassonne,,,,43.2092998,2.441815
+13011718174,node,,memorial,Carcassonne,,,,43.3340237,2.4022578
+13011943878,node,Félix Roquefort,memorial,Carcassonne,,,,43.2688149,2.3986928
+13012211776,node,,artwork,Carcassonne,,,,43.2583375,2.4147082
 13013793364,node,Pizzeria L'Orbiela,restaurant,Carcassonne,"2 Rue Jean Ferrat, 11600, Conques-sur-Orbiel",11600,,43.2669238,2.3972611
 13014366520,node,Auberge de l'Orbiel,restaurant,Carcassonne,"16 Route des Quatre Châteaux, 11600, Lastours",11600,,43.3335965,2.3794937
+13026797787,node,,memorial,Carcassonne,,,,43.181584,2.5650038
+13026997439,node,Château de Comigne,castle,Carcassonne,,,,43.170777,2.5807936
 13030721978,node,Nénuphar,restaurant,Carcassonne,,,,43.3226006,1.9485988
 13030872635,node,Bella Italia,restaurant,Carcassonne,67 Avenue François Mitterrand,,,43.3156338,1.9563977
+13061850795,node,Restes du cloître des Cordeliers,ruins,Carcassonne,,,https://pop.culture.gouv.fr/notice/merimee/PA00102625,43.3175449,1.955362
+13061997678,node,,memorial,Carcassonne,,,,43.2996164,2.0192425
+13061997689,node,,memorial,Carcassonne,,,,43.2938683,2.0467607
 13070665001,node,Cédrat,restaurant,Carcassonne,,,,43.3267301,2.527904
+13084852201,node,Musée de la laine,museum,Carcassonne,77 Rue Trivalle,,,43.2094058,2.3639934
+13092708513,node,,viewpoint,Carcassonne,,,,43.2000456,2.1434609
 13098903846,node,El Champo,restaurant,Carcassonne,,,,43.206191,2.4333915
 13134551101,node,Au lard et au cochon,restaurant,Carcassonne,2 Rue Denisse,,,43.2128848,2.3527392
+13167615570,node,Les Bénitiers,attraction,Carcassonne,,,https://floure.fr/les-benitiers/,43.171065,2.4856108
+13167615571,node,Les Bénitiers,attraction,Carcassonne,,,https://floure.fr/les-benitiers/,43.1710095,2.48536
+13167615572,node,Les Bénitiers,attraction,Carcassonne,,,https://floure.fr/les-benitiers/,43.1711731,2.4846486
+13174300359,node,,memorial,Carcassonne,,,,43.1596142,1.832213
+13174325036,node,,memorial,Carcassonne,,,,43.1742298,1.86069
+13245370722,node,l'Herm Petit,ruins,Carcassonne,,,,43.3902693,2.3003914
+13245370723,node,al Thérondel,ruins,Carcassonne,,,,43.3938122,2.2968446
 13250155842,node,Le logis des remparts,hotel,Carcassonne,,,,43.2081051,2.3640968
 13250160189,node,La rapière,restaurant,Carcassonne,,,,43.2082546,2.3670526
+13250168657,node,Ateliers médiévaux,attraction,Carcassonne,27 Rue du Plô,,https://www.tourisme-carcassonne.fr/toutes-les-experiences/camp-medieval/,43.2062017,2.3643631
 13250176864,node,A la fortune du Plô,restaurant,Carcassonne,,,,43.205306,2.3644578
 13250189887,node,La Table d'Alaïs,restaurant,Carcassonne,32,,https://table-alais.fr/fr/accueil-restaurant/,43.2061798,2.3647214
 13250189888,node,Le Créneau,restaurant,Carcassonne,,,https://le-creneau-carcassonne.fr,43.2078484,2.3639358
 13250189889,node,Le Saint-Jean,restaurant,Carcassonne,,,https://www.le-saint-jean.eu/,43.2078405,2.3635508
 13250189890,node,Adélaïde,restaurant,Carcassonne,,,,43.2075944,2.3638543
 13250189891,node,L'Ostal des Troubadours,restaurant,Carcassonne,"5 Rue Viollet le Duc, 11000",11000,https://ostal.net,43.2072527,2.3640488
+13301836484,node,Base de Loisirs de Laprade-Basse,park,Carcassonne,,,,43.4216363,2.2752468
+13311361523,node,Monument au morts,memorial,Carcassonne,,,,43.3131196,1.8773395
 13384329856,node,Linh Chi,restaurant,Carcassonne,,,,43.2101875,2.3563776
+13390660379,node,les Escouloumières,ruins,Carcassonne,,,,43.3318466,2.0887005
 13411002866,node,Buffalo Grill,restaurant,Carcassonne,,,,43.2003796,2.3126319
+13424079278,node,,artwork,Carcassonne,,,,43.2304878,2.3540667
 13428615496,node,Miyagi,restaurant,Carcassonne,,,,43.2117646,2.3561004
+13428989800,node,Paul Lacombe,memorial,Carcassonne,,,,43.2119315,2.3550926
+13446749054,node,Jeanne d'Arc,artwork,Carcassonne,,,,43.1853865,2.2672316
+13448571523,node,,memorial,Carcassonne,,,,43.3633871,1.8660211
+13461258674,node,,castle,Carcassonne,,,,43.4046349,1.9504681
 13461258677,node,,hotel,Carcassonne,,,,43.4049711,1.9506443
+13461258678,node,Château de la Pomarède,castle,Carcassonne,,,,43.4048599,1.9503203
+13464895858,node,,artwork,Carcassonne,,,,43.2446718,2.1141444
+13464895865,node,,artwork,Carcassonne,,,,43.2431146,2.1154541
 13513197158,node,La Boîte à Léon,restaurant,Carcassonne,,,,43.1781958,2.3768316
+13528772614,node,Musée de la laine,museum,Carcassonne,,,,43.2093927,2.3640055
+13582704177,node,,memorial,Carcassonne,,,,43.4062568,1.9534247
+13582715449,node,,memorial,Carcassonne,,,,43.3849198,1.9529685
+13593871963,node,,memorial,Carcassonne,,,,43.1467293,2.3245591
+13594747261,node,,memorial,Carcassonne,,,,43.2786416,2.5908609
+13596447898,node,,memorial,Carcassonne,,,,43.1806265,2.0890314
+13596470528,node,,memorial,Carcassonne,,,,43.1682762,2.0792827
+13596477920,node,,memorial,Carcassonne,,,,43.1785056,2.0838775
+13621386768,node,,memorial,Carcassonne,,,,43.2672677,2.4023232
 13623153712,node,Brasserie Roc Ouest,restaurant,Carcassonne,,,,43.2070229,2.3099673
+13637556815,node,,memorial,Carcassonne,,,,43.1285006,2.0004715
+13648238982,node,,memorial,Carcassonne,,,,43.3142169,2.5628533
+13648254914,node,,memorial,Carcassonne,,,,43.2296153,2.4188407
+13648277570,node,,memorial,Carcassonne,,,,43.2935145,2.5690271
+13648289740,node,,memorial,Carcassonne,,,,43.2794611,2.5900848
+13648289758,node,,memorial,Carcassonne,,,,43.253908,2.4147435
+13648291725,node,,memorial,Carcassonne,,,,43.3149864,2.4636728
+13648293395,node,,memorial,Carcassonne,,,,43.2687807,2.3548091
+13648294453,node,,memorial,Carcassonne,,,,43.3605857,2.4616078
+13648294454,node,,memorial,Carcassonne,,,,43.2659821,2.2845085
+13648294455,node,,memorial,Carcassonne,,,,43.2283024,2.2573695
+13648295439,node,,memorial,Carcassonne,,,,43.3731587,2.5395507
+13648295445,node,,memorial,Carcassonne,,,,43.2308086,2.3853536
+13648298363,node,,memorial,Carcassonne,,,,43.4036059,2.5409624
+13648304520,node,,memorial,Carcassonne,,,,43.2441689,2.3190463
+13704983494,node,,memorial,Carcassonne,,,,43.2828447,2.6591284
+13705015447,node,,memorial,Carcassonne,,,,43.2249293,2.6251217
+13705017222,node,,memorial,Carcassonne,,,,43.2777247,2.6586951
+13707539949,node,Dragon de pierre,artwork,Carcassonne,,,,43.2108496,2.3585346
+13707563852,node,Mural Carcasonne de Mero,artwork,Carcassonne,,,,43.2221083,2.3789748
+13711389985,node,Stèle commémorative du 20 août 1944,memorial,Carcassonne,,,,43.2068312,2.3517528
+13711389987,node,Stèle aux victimes des persécutions racistes et antisémites,memorial,Carcassonne,,,,43.2123861,2.3464586
+13712226566,node,Plaques commémoratives des victimes civiles du 20 aout 1944,memorial,Carcassonne,,,,43.218197,2.3533371
+13712412510,node,Monument commémoratif 19e Dragons,memorial,Carcassonne,,,,43.2064966,2.3506706
+13712480920,node,,memorial,Carcassonne,,,,43.2173245,2.2865212
+13713868633,node,,viewpoint,Carcassonne,,,,43.2809448,2.4418515
+13717302477,node,Castrum de Quertinheux,ruins,Carcassonne,,,,43.3345628,2.3770514
+13717302478,node,Castrum de Cabaret,ruins,Carcassonne,,,,43.3385411,2.3764522
+13717302482,node,,viewpoint,Carcassonne,,,,43.1708108,2.5001948
+13717302483,node,Les Paillasses,ruins,Carcassonne,,,,43.1667661,2.4930903
+13717302484,node,Château de Montirat,ruins,Carcassonne,,,,43.1731104,2.4383866
+13717302485,node,La Métairie Blanche,ruins,Carcassonne,,,,43.1510473,2.4305923
+13719624913,node,,ruins,Carcassonne,,,,43.2397759,2.5092083
+13719624914,node,,ruins,Carcassonne,,,,43.2499913,2.5324342
+13719624971,node,La Borio de Bourjade,ruins,Carcassonne,,,,43.1578245,2.4751903
+13724753171,node,,ruins,Carcassonne,,,,43.3296191,2.3820678
+13724753183,node,,ruins,Carcassonne,,,,43.3084242,2.3916787
+13724753184,node,,ruins,Carcassonne,,,,43.3086198,2.3916707
+13724753185,node,,ruins,Carcassonne,,,,43.3086102,2.3913252
+13724753188,node,,ruins,Carcassonne,,,,43.307016,2.3909465
+13754199341,node,,memorial,Carcassonne,,,,43.1709461,2.5816237
+13754205080,node,,memorial,Carcassonne,,,,43.2113999,2.4706707
+13754209899,node,,memorial,Carcassonne,,,,43.0824455,2.5348409
+13754212006,node,,memorial,Carcassonne,,,,43.2190439,2.5149154
+13754212828,node,,memorial,Carcassonne,,,,43.2523791,2.5503564
+13754219455,node,,memorial,Carcassonne,,,,43.1874724,2.5992825
+13754220627,node,,memorial,Carcassonne,,,,43.064949,2.5543403
+13767243430,node,Perga Bas,ruins,Carcassonne,,,,43.4139059,2.4987505
+13767243435,node,,ruins,Carcassonne,,,,43.4166138,2.4944833
+13767243440,node,,ruins,Carcassonne,,,,43.4096528,2.4997596
+13767243442,node,,ruins,Carcassonne,,,,43.4073945,2.4776566
+13767243444,node,,viewpoint,Carcassonne,,,,43.4133504,2.4900343
+13771773269,node,,memorial,Carcassonne,,,,43.3074974,2.1255523
+13771773270,node,,memorial,Carcassonne,,,,43.2786016,2.1604392
+13771779558,node,,memorial,Carcassonne,,,,43.3335716,2.1168124
+13771790875,node,,memorial,Carcassonne,,,,43.2457612,2.2124645
+13771906699,node,,ruins,Carcassonne,,,,43.1909876,2.4321506
+13771906700,node,,viewpoint,Carcassonne,,,,43.3604971,2.4494489
+13772446280,node,,memorial,Carcassonne,,,,43.2691452,1.9436075
+13772530523,node,,memorial,Carcassonne,,,,43.3511577,1.9177224
+13772530597,node,,memorial,Carcassonne,,,,43.1592465,1.9437972
+13772530598,node,,memorial,Carcassonne,,,,43.1280794,1.9471767
+13772537573,node,,memorial,Carcassonne,,,,43.1983767,1.9494189
+13772546621,node,,memorial,Carcassonne,,,,43.3697057,1.9148108
+13772555123,node,,memorial,Carcassonne,,,,43.425029,1.8692471
+13772555183,node,,memorial,Carcassonne,,,,43.2659201,1.8539642
+13772591852,node,,memorial,Carcassonne,,,,43.255233,1.9587758
+13772609340,node,,memorial,Carcassonne,,,,43.3177102,1.7856114
+13772613718,node,,memorial,Carcassonne,,,,43.2288703,1.9354421
+13777567559,node,,ruins,Carcassonne,,,,43.382834,2.3968292
+13777776715,node,,viewpoint,Carcassonne,,,,43.418863,2.4351368
+13777776716,node,,viewpoint,Carcassonne,,,,43.4228486,2.4332126
+13784459688,node,,ruins,Carcassonne,,,,43.1625357,2.5265062
+13785141325,node,La Sabatière,ruins,Carcassonne,,,,43.202025,2.4238575
+13789127201,node,,viewpoint,Carcassonne,,,,43.1806738,2.4296658
+13789474345,node,,ruins,Carcassonne,,,,43.1817148,2.4455227
+13800449148,node,,memorial,Carcassonne,,,,43.3511372,2.3783885
+13800451823,node,,memorial,Carcassonne,,,,43.3301705,2.3578127
+13807188744,node,,memorial,Carcassonne,,,,43.2453839,1.7175881
+13815130169,node,,ruins,Carcassonne,,,,43.4248697,2.4933507
+13815130170,node,,ruins,Carcassonne,,,,43.4239171,2.490013
+13817134151,node,Tour Matelbine,ruins,Carcassonne,,,,43.1498915,2.4491294
+13817134152,node,,ruins,Carcassonne,,,,43.1493857,2.4484116
+13818128907,node,La Tour,ruins,Carcassonne,,,,43.2107854,2.4749691
+13839390276,node,,memorial,Carcassonne,,,,43.3743472,2.3454275
+13839390288,node,,memorial,Carcassonne,,,,43.4166115,2.3069638
+13839476187,node,,memorial,Carcassonne,,,,43.31832,2.421164
+13843934748,node,Rouire,ruins,Carcassonne,,,,43.2285163,2.4743037
+13903404977,node,,memorial,Carcassonne,,,,43.1743238,2.3837915
+13903511629,node,,memorial,Carcassonne,,,,43.1044065,2.5067301
+13903528945,node,,memorial,Carcassonne,,,,43.1240855,2.3263904
 13909050208,node,Snack Chez Théo,restaurant,Carcassonne,,,,43.2432742,2.1145261
+13910729051,node,,memorial,Carcassonne,,,,43.314835,2.4633113
+13914570094,node,,memorial,Carcassonne,,,,43.2772467,2.6595884
+13914607648,node,,memorial,Carcassonne,,,,43.2543427,2.1780586
+13914608628,node,,memorial,Carcassonne,,,,43.2521629,2.6541279
+13914626144,node,,memorial,Carcassonne,,,,43.1458331,2.28898
+13963911972,node,"Musée du cheval, de la vigne et des attalages ruraux",museum,Carcassonne,,,,43.1705674,2.5809409
 13965781401,node,Chez Dorina,restaurant,Carcassonne,"17 Rue Gambetta, 11400",11400,https://maps.app.goo.gl/EMP6aVxojcc4o4ka9?g_st=ac,43.3191594,1.9545079
+13976642266,node,,viewpoint,Carcassonne,,,,43.1295647,2.6024971
+13976642280,node,,viewpoint,Carcassonne,,,,43.1314424,2.6003805
+13976678267,node,,memorial,Carcassonne,,,,43.2177119,2.0405371
+13976713152,node,,memorial,Carcassonne,,,,43.3661091,2.0585391
+13976713168,node,,memorial,Carcassonne,,,,43.202966,1.9948324
+13976719634,node,,memorial,Carcassonne,,,,43.3593702,2.1135004
+13976720409,node,,memorial,Carcassonne,,,,43.3925355,2.0040495
+13976724111,node,,memorial,Carcassonne,,,,43.367678,1.9899817
+13976736301,node,,memorial,Carcassonne,,,,43.3686315,1.9863714
+13976737178,node,,memorial,Carcassonne,,,,43.2285887,2.093062
+13978407482,node,,artwork,Carcassonne,,,,43.1674443,2.4399905
 13983357654,node,Chez Bruna,restaurant,Carcassonne,,,,43.2168519,2.3535004
+13995093095,node,,ruins,Carcassonne,,,,43.2538141,2.442773
+13997024674,node,Prieuré de Saint-Jean,ruins,Carcassonne,,,,43.1627278,2.5260885
+14002143300,node,,ruins,Carcassonne,,,,43.2460015,2.5820915
+26769971,way,Porte Narbonnaise,attraction,Carcassonne,,,http://carcassonne-tourisme.com,43.2068832,2.3654862
+26769986,way,Basilique Saint-Nazaire,attraction,Carcassonne,,,,43.2052257,2.3628481
+27049065,way,Parc de Bellevue,park,Carcassonne,,,,43.2087599,2.3560683
+27056771,way,Square André Chénier,park,Carcassonne,,,,43.2168091,2.3502069
+29103904,way,Square Victor Hugo,park,Carcassonne,,,,43.3167992,1.9559106
+38556569,way,Pont-Vieux,attraction,Carcassonne,,,,43.0809655,2.5348629
+56260405,way,Hôtel de la Cité,hotel,Carcassonne,,,https://all.accor.com/hotel/8613/index.fr.shtml,43.2057348,2.3626178
+56305476,way,Hôtel Le Donjon,hotel,Carcassonne,"2 Rue du Comte Roger, 11000",11000,,43.206385,2.3635302
+65621921,way,Château de Bonhomme,castle,Carcassonne,,,,43.2404012,2.5147373
+66034005,way,,castle,Carcassonne,,,,43.2806437,2.1947993
+66040678,way,,castle,Carcassonne,,,,43.2806699,2.195105
+68340939,way,Ibis,hotel,Carcassonne,,,,43.2099502,2.385948
+68341804,way,Cathédrale Saint-Michel,attraction,Carcassonne,"52 Rue Voltaire, 11000, Carcassonne",11000,https://pop.culture.gouv.fr/notice/merimee/PA00102584,43.2109698,2.3511637
+68343120,way,Épanchoir de Foucaud,restaurant,Carcassonne,,,,43.2273922,2.3200917
+68344319,way,Le Kiosque du Dôme,restaurant,Carcassonne,,,,43.2109735,2.3555396
+68346101,way,Lamourelle Centre international de séjour,hotel,Carcassonne,20,,https://www.cis-lamourelle.org,43.2151659,2.346652
+68347461,way,résidence CERISE Carcassonne Sud,hotel,Carcassonne,"1 Rue Darius Milhaud, 11000, Carcassonne",11000,https://www.cerise-hotels-residences.com/cerise-carcassonne-sud/,43.2071999,2.3736049
+68347539,way,Château de Pech Redon,castle,Carcassonne,,,,43.2386195,2.2685021
+68350243,way,Buffalo Grill,restaurant,Carcassonne,,,,43.2064982,2.3863833
+68350666,way,Campanile,hotel,Carcassonne,,,http://www.campanile-carcassonne-est-la-cite.fr,43.2092324,2.386967
+68355645,way,Château de Gaja,castle,Carcassonne,,,,43.1893891,2.4194346
+68357907,way,Hôtel Astoria,hotel,Carcassonne,,,,43.2175436,2.3542774
+68364462,way,Halles Prosper Montagné,attraction,Carcassonne,,,,43.2122379,2.3509414
+68365640,way,Résidence Cerise Carcassonne Sud,hotel,Carcassonne,"1 Rue Darius Milhaud, 11000, Carcassonne",11000,https://www.cerise-hotels-residences.com/cerise-carcassonne-sud/,43.2076681,2.3737133
+68366345,way,Hôtel L'Aragon,hotel,Carcassonne,,,https://www.hotelaragon.fr,43.2078799,2.3672818
+68369990,way,Château de Saint-Martin-de-Poursan,castle,Carcassonne,,,,43.2282081,2.3972735
+68375168,way,Hôtel L'Octroi,hotel,Carcassonne,,,,43.2088622,2.3683923
+68381003,way,Résidence Cerise Carcassonne Sud,hotel,Carcassonne,"1 Rue Darius Milhaud, 11000, Carcassonne",11000,https://www.cerise-hotels-residences.com/cerise-carcassonne-sud/,43.2077288,2.3731418
+68391820,way,Hôtel Le Pont Levis,hotel,Carcassonne,,,,43.2056404,2.3671741
+68397522,way,ibis Budget Carcassonne la Cité,hotel,Carcassonne,"211 Avenue du Général Leclerc, 11000, Carcassonne",11000,,43.2077563,2.3787513
+68403194,way,Résidence Cerise Carcassonne Sud,hotel,Carcassonne,"1 Rue Darius Milhaud, 11000, Carcassonne",11000,https://www.cerise-hotels-residences.com/cerise-carcassonne-sud/,43.2071287,2.3735891
+68405303,way,Ancien hôtel de Pelletier,attraction,Carcassonne,,,,43.2093628,2.3636796
+68867740,way,,park,Carcassonne,,,,43.1838194,2.3646734
+70601622,way,,park,Carcassonne,,,,43.2105106,2.3524962
+71444130,way,Memoire des Mortes,park,Carcassonne,,,,43.3249457,2.524164
+71626856,way,Moulin à Vent,attraction,Carcassonne,,,,43.3177494,2.4543678
+78441384,way,Les Clauzels,ruins,Carcassonne,,,,43.3812608,2.4642745
+78441404,way,Estresses,ruins,Carcassonne,,,,43.3681457,2.4496767
+78441524,way,Quieïrigut,ruins,Carcassonne,,,,43.3885777,2.4933196
+78441633,way,Las Coumbellos,ruins,Carcassonne,,,,43.3931058,2.4960796
+78441658,way,Maïssantoul,ruins,Carcassonne,,,,43.3849882,2.4804926
+78538209,way,Église Saint-Pierre et Saint-Paul,attraction,Carcassonne,,,,43.3260887,2.5271475
+78538967,way,Chapelle du Crucifix,attraction,Carcassonne,,,,43.3239003,2.5237545
+78540467,way,d'Alibert,hotel,Carcassonne,"Rue de la Mairie, 11160, Caunes-Minervois",11160,https://www.hoteldalibert.com/,43.3272721,2.5281365
+79111491,way,Le Rès,ruins,Carcassonne,,,,43.4018547,2.5299492
+91463571,way,Église Saint-Jean-Baptiste,attraction,Carcassonne,,,,43.317477,1.9558495
+91463619,way,Le Moulin Vert,restaurant,Carcassonne,,,,43.3249305,1.9330715
+91464783,way,Château de Cheminières,castle,Carcassonne,,,,43.29735,1.984533
+91465722,way,Château de Castelnaudary,castle,Carcassonne,,,https://pop.culture.gouv.fr/notice/merimee/PA00102624,43.3155765,1.958905
+91478142,way,Collégiale Saint-Michel,attraction,Carcassonne,"Place Montmorency, 11491, Castelnaudary",11491,,43.3170385,1.9568255
+93537312,way,Église Sainte-Marie,attraction,Carcassonne,,,,43.2825895,2.5874154
+97367203,way,,beach,Carcassonne,,,,43.2746159,2.7076788
+98424701,way,Château de Violet,castle,Carcassonne,,,,43.3028294,2.5791853
+98597584,way,,beach,Carcassonne,,,,43.1817294,2.4202205
+98597586,way,,beach,Carcassonne,,,,43.1810955,2.4161398
+98597592,way,,beach,Carcassonne,,,,43.1824271,2.4175347
+125480869,way,Jardin des Anciens Combattants 1939-1945,park,Carcassonne,,,,43.2122697,2.4491544
+132043052,way,Château de Saissac,attraction,Carcassonne,,,,43.356927,2.1678666
+138462040,way,,park,Carcassonne,,,,43.2094935,2.3589095
+156432319,way,Saint-Julia,castle,Carcassonne,,,,43.2007973,2.4618647
+156433584,way,Le Quai,restaurant,Carcassonne,,,,43.2096515,2.443702
+161206550,way,Porte dite de l'Est,attraction,Carcassonne,,,,43.3315385,2.0366285
+166443777,way,Portail des Jacobins,attraction,Carcassonne,,,,43.210856,2.3525056
+166444538,way,Musée du Château,museum,Carcassonne,,,,43.2072888,2.3630114
+175270722,way,,park,Carcassonne,,,,43.2100874,2.3461451
+179356020,way,,park,Carcassonne,,,,43.2088081,2.3293623
+183060864,way,,park,Carcassonne,,,,43.1996697,2.3954467
+186119163,way,Châteaux de Lastours,museum,Carcassonne,"Route des Châteaux, 11600, Lastours",11600,https://www.lastourisme.fr/,43.3345386,2.3785866
+186119183,way,Cabaret,attraction,Carcassonne,,,,43.3377507,2.377811
+186119197,way,Tour Régine,castle,Carcassonne,,,,43.3370112,2.3779982
+186119223,way,Surdespine,castle,Carcassonne,,,,43.3364033,2.3783922
+186119228,way,Quertinheux,castle,Carcassonne,,,,43.3355423,2.3775318
+197449399,way,M620,restaurant,Carcassonne,Avenue Le Bosquet,,,43.369855,2.2471855
+198010906,way,,garden,Carcassonne,,,,43.3283863,1.8137458
+198198883,way,Piquotalen,ruins,Carcassonne,,,,43.3672468,2.3914257
+200801899,way,,ruins,Carcassonne,,,,43.2923797,2.3749171
+200801900,way,,ruins,Carcassonne,,,,43.2934112,2.3710131
+200801902,way,,ruins,Carcassonne,,,,43.2940155,2.3727677
+200801904,way,,ruins,Carcassonne,,,,43.2933111,2.3740963
+200801905,way,,ruins,Carcassonne,,,,43.2958356,2.3752668
+200801910,way,,ruins,Carcassonne,,,,43.2929713,2.3743011
+205532063,way,,garden,Carcassonne,,,,43.2196895,2.3526865
+211479481,way,Église de l'Assomption de Notre-Dame de Baraigne,attraction,Carcassonne,,,,43.3298037,1.8243886
+221484721,way,La Bella Volta,restaurant,Carcassonne,"111 Avenue Georges Clemenceau, 11160",11160,https://labellavolta.com,43.2824325,2.5853425
+221485496,way,Le Phenix,restaurant,Carcassonne,"113 Avenue Georges Clemenceau, 11160, Rieux-Minervois",11160,,43.2824645,2.5854705
+229101057,way,,ruins,Carcassonne,,,,43.3568341,2.4512061
+229101059,way,,ruins,Carcassonne,,,,43.3580134,2.4543679
+229101062,way,,ruins,Carcassonne,,,,43.3577485,2.4481203
+230181046,way,Hôtel Montmorency,hotel,Carcassonne,,,https://www.hotelmontmorency.com/fr/hotel-3-etoiles-carcassonne,43.2070076,2.3669262
+230181047,way,Hôtel du Château,hotel,Carcassonne,,,,43.2074753,2.3675331
+231894588,way,Château d'Airoux,castle,Carcassonne,,,,43.3628751,1.8662708
+232418337,way,Château d'Aragon,castle,Carcassonne,,,https://pop.culture.gouv.fr/notice/merimee/PA00102536,43.296889,2.313663
+232542209,way,,castle,Carcassonne,,,,43.2857497,2.6307907
+234401643,way,Notre-Dame Du Cros,park,Carcassonne,,,,43.3348635,2.544808
+235783076,way,"Essar[t]s, espace arts et cultures",museum,Carcassonne,"11150, Bram",11150,http://www.essars.bram.fr/,43.2410105,2.1116485
+235788215,way,Château de Valgros,castle,Carcassonne,,,,43.2377515,2.131088
+235788453,way,Restaurant Intergénérationnel du Collège,restaurant,Carcassonne,"Avenue des Quatre Vents, 11150, Bram",11150,,43.2399145,2.111053
+235788877,way,Église Saint-Julien et Sainte-Basilisse,attraction,Carcassonne,"Rue de l'Église, 11150, Bram",11150,,43.243586,2.1134145
+236551650,way,,park,Carcassonne,,,,43.2239756,2.256255
+236564229,way,Château de Cavanac,castle,Carcassonne,,,https://chateau-de-cavanac.fr/,43.167614,2.327014
+236722780,way,Borde Neuve,ruins,Carcassonne,,,,43.1814015,1.921995
+237195807,way,Château des Saptes,castle,Carcassonne,,,https://pop.culture.gouv.fr/notice/merimee/PA00102656,43.261404,2.4028445
+237643223,way,Château de Couffoulens,castle,Carcassonne,,,,43.1551395,2.3068385
+238160615,way,Couvent des Frères Prêcheurs,monument,Carcassonne,,,,43.186546,2.0339908
+238161854,way,Église Notre-Dame de l'Assomption,attraction,Carcassonne,,,,43.1871682,2.0352214
+238185498,way,Château de Fendeille,castle,Carcassonne,,,,43.269347,1.9425165
+238295038,way,Château de Fontiès-d'Aude,castle,Carcassonne,,,,43.1872605,2.4554115
+238406515,way,Château de Saint-Sauveur,castle,Carcassonne,,,,43.2127405,1.8851865
+238406516,way,Château des Courtines,castle,Carcassonne,,,,43.1929935,1.908707
+238406517,way,Château du Pujet,castle,Carcassonne,,,,43.194233,1.8893425
+239545625,way,parc municipal,park,Carcassonne,,,,43.2547357,2.1761161
+242105050,way,Pont-Vieux,attraction,Carcassonne,,,,43.2101695,2.3595457
+253507236,way,,castle,Carcassonne,,,,43.3783795,1.895135
+253621088,way,Château Ferrabouc,castle,Carcassonne,,,,43.3246765,1.9001675
+254323494,way,Ferme pédagogique de la Matarelle,zoo,Carcassonne,La Matarelle,,http://www.parcdelamatarelle.com,43.2637881,2.010294
+254783452,way,Église de l'Espinoux,ruins,Carcassonne,,,,43.1236675,1.8956585
+255780323,way,La Calvière,ruins,Carcassonne,,,,43.1228609,1.965434
+255790229,way,Château de Robert,castle,Carcassonne,,,,43.2319875,2.090763
+256974548,way,Abbaye de Villelongue,attraction,Carcassonne,,,,43.3053575,2.1668746
+257103575,way,Château de Raissac-sur-Lampy,castle,Carcassonne,,,,43.277933,2.1608405
+257230113,way,Le Petit Versailles,castle,Carcassonne,,,,43.3029731,2.2167891
+257230114,way,,castle,Carcassonne,,,,43.3296715,2.2055155
+257230723,way,Église Saint-André,attraction,Carcassonne,"Place Maurice Bertrand, 11170, Montolieu",11170,,43.3108354,2.2145988
+275746329,way,Domaine de Fraisse,hotel,Carcassonne,"11250, Leuc",11250,https://domaine-de-fraisse.com/,43.129585,2.3540975
+275746366,way,Château de Leuc,castle,Carcassonne,,,,43.1472427,2.3217302
+275917025,way,,ruins,Carcassonne,,,,43.130031,2.4090165
+275917043,way,,ruins,Carcassonne,,,,43.1299325,2.409343
+277281958,way,Château de Moussoulens,castle,Carcassonne,"8 Place de l'Église, 11170, Moussoulens",11170,https://chateau-de-moussoulens.com/,43.2798995,2.227849
+278088813,way,Château de Pennautier,castle,Carcassonne,,,,43.243772,2.317776
+279455941,way,Château de Floure,castle,Carcassonne,,,,43.1831479,2.4906128
+279705751,way,Canet,castle,Carcassonne,,,,43.2268145,2.487233
+279706153,way,Château de Rustique,castle,Carcassonne,,,,43.2160275,2.4745045
+279767774,way,Château de Malves-en-Minervois,castle,Carcassonne,,,,43.2528515,2.441882
+279789133,way,,castle,Carcassonne,,,,43.2192414,2.5081695
+279789135,way,Château de Miremont,castle,Carcassonne,,,,43.214441,2.5126845
+279789171,way,Château de Sept Serous,castle,Carcassonne,,,,43.2334845,2.4933345
+279789704,way,Château de Sainte-Eulalie,castle,Carcassonne,,,,43.2083418,2.5005329
+280742355,way,Château de Villarlong,hotel,Carcassonne,,,https://chateauvillarlong.com,43.2818142,2.4772569
+280963760,way,Grotte de Limousis,attraction,Carcassonne,"51 Chemin de la Grotte, 11600, Limousis",11600,https://www.grotte-de-limousis.fr/,43.3425981,2.4126205
+282388158,way,Château de Douzens,castle,Carcassonne,,,,43.186967,2.597142
+282397160,way,Château de Blomac,castle,Carcassonne,,,,43.2033955,2.595467
+282685543,way,,ruins,Carcassonne,,,,43.299762,2.675857
+282764419,way,Château de La Redorte,hotel,Carcassonne,Rue de la Pompe Neuve,,https://www.adonis-laredorte.com/,43.2524335,2.653451
+284054817,way,Ibis Budget,hotel,Carcassonne,400 Avenue Gerard Rouviere,,,43.2911552,1.9518752
+284054818,way,Le Cassoulet & Cie,restaurant,Carcassonne,"380 Avenue Gérard Rouvière, 11400, Castelnaudary",11400,https://www.restaurantmarty.net,43.2917093,1.9521414
+286746000,way,Château de Serviès-en-Val,castle,Carcassonne,,,,43.0890201,2.519147
+289565520,way,,castle,Carcassonne,,,,43.4075432,1.8755651
+304113075,way,Le Jardin du Calvaire,garden,Carcassonne,,,,43.2108039,2.3475318
+308536751,way,"Tour Grosse, Musée des Vieux métiers",museum,Carcassonne,,,,43.3598444,2.1700647
+310201131,way,amphithéâtre de verdure,park,Carcassonne,,,,43.4054862,1.87794
+310298389,way,,memorial,Carcassonne,,,,43.361131,2.1688693
+310338544,way,,memorial,Carcassonne,,,,43.3592527,2.1736068
+310404987,way,Au Beau Site,restaurant,Carcassonne,,,,43.3591892,2.1702854
+310404988,way,Grand Logis Est,ruins,Carcassonne,,,,43.3569201,2.1679652
+310417741,way,,garden,Carcassonne,,,,43.3585836,2.1649321
+311947316,way,,ruins,Carcassonne,,,,43.3600773,2.1601447
+311947317,way,,garden,Carcassonne,,,,43.3585817,2.1680449
+311947325,way,Espace du Souvenir,garden,Carcassonne,,,,43.3611226,2.1688797
+311947328,way,Jardin de la Mairie,garden,Carcassonne,,,,43.360759,2.1689146
+312664909,way,Casemate,ruins,Carcassonne,,,,43.3566525,2.1676585
+312664910,way,Deuxième terrasse,ruins,Carcassonne,,,,43.3569241,2.1678181
+312664912,way,Donjon,ruins,Carcassonne,,,,43.3572025,2.1679123
+312664913,way,Logis Nord,ruins,Carcassonne,,,,43.3572173,2.1681009
+312664916,way,Première terrasse,ruins,Carcassonne,,,,43.3573041,2.167922
+312664919,way,Troisième terrasse,ruins,Carcassonne,,,,43.3566729,2.1678176
+312916148,way,Tour Nord-Est,ruins,Carcassonne,,,,43.3571309,2.1681162
+312916149,way,Tour Nord-Est,ruins,Carcassonne,,,,43.3570227,2.1680613
+312916150,way,Tour des latrines,ruins,Carcassonne,,,,43.357169,2.1681361
+316224142,way,Château de Bouilhonnac,castle,Carcassonne,,,,43.2321932,2.4400039
+327034129,way,Place Jeanne d'Arc,park,Carcassonne,,,,43.2452589,1.7178883
+327041046,way,,park,Carcassonne,,,,43.1981156,1.7499421
+327100679,way,,castle,Carcassonne,,,,43.1767577,1.8076448
+327100683,way,,castle,Carcassonne,,,,43.1730211,1.7892935
+330110977,way,Château de Prade,castle,Carcassonne,,,,43.145557,2.516524
+336749790,way,,park,Carcassonne,,,,43.2110353,2.3828483
+336914352,way,,park,Carcassonne,,,,43.2081364,2.3400087
+341138394,way,Château de Fajac-la-Relenque,castle,Carcassonne,,,,43.287814,1.721222
+341138398,way,Château de Marquein,castle,Carcassonne,,,,43.3016967,1.7331022
+341417127,way,Château de Villegly,castle,Carcassonne,,,,43.2848351,2.4392515
+343951202,way,Hôtel Pont Rouge,hotel,Carcassonne,"110 Rue Yves de Kerguelen, 11000, Carcassonne",11000,https://www.hotelcarcassonne.eu/,43.2339935,2.3686115
+343953719,way,Appart'City,hotel,Carcassonne,190 Route de Villemoustaussou,,https://www.appartcity.com/,43.2284905,2.3603705
+345492010,way,Place de l'Espérou,garden,Carcassonne,,,,43.1997452,2.1430659
+345492012,way,Jardin P. Vidal,park,Carcassonne,,,,43.1987788,2.1402014
+346375889,way,Square Simon,garden,Carcassonne,,,,43.2422764,2.1124019
+349142767,way,Le parc - Franck Putelat,restaurant,Carcassonne,,,https://www.franck-putelat.com/,43.2012175,2.3602785
+353453843,way,,castle,Carcassonne,,,,43.3306925,2.07497
+353453968,way,Ancien Palais épiscopal,attraction,Carcassonne,,,,43.3303219,2.0337409
+355140101,way,Château de Labécède-Lauragais,castle,Carcassonne,,,,43.3909075,2.004943
+355332204,way,,castle,Carcassonne,,,,43.3931695,1.8450215
+355554161,way,Église des Clarisses,attraction,Carcassonne,,,,43.4254755,1.8681085
+355554669,way,Moulin à vent de Caunes,attraction,Carcassonne,,,,43.4315363,1.8573865
+357885514,way,O'Vineyards,restaurant,Carcassonne,,,,43.2598891,2.3406749
+359944964,way,Restaurant Lampy,restaurant,Carcassonne,,,http://www.lacdulampy.com,43.3972186,2.1713973
+359960179,way,Plage du Lampy,beach,Carcassonne,,,,43.3998117,2.1707961
+361242156,way,Château du Pujol,castle,Carcassonne,,,,43.3449466,2.2932545
+361883239,way,,castle,Carcassonne,,,,43.324938,1.7575965
+361883741,way,Les Marronniers,restaurant,Carcassonne,"1 Allée des Marronniers, 11410, Saint-Michel-de-Lanès",11410,https://lesmarronniers-restaurant.business.site,43.325243,1.7564235
+365210161,way,,park,Carcassonne,,,,43.3296278,2.0332364
+366383653,way,Jardin du Sanctuaire,garden,Carcassonne,,,,43.3141819,2.0257842
+366737327,way,,beach,Carcassonne,,,,43.4025838,2.4402068
+370461014,way,,garden,Carcassonne,,,,43.2280877,2.0946962
+371337437,way,Château de Mézerville,castle,Carcassonne,,,,43.2599298,1.7930957
+371379213,way,Place Marengo,garden,Carcassonne,,,,43.2932782,1.787571
+397555388,way,,park,Carcassonne,,,,43.243642,2.117325
+397555390,way,Parc des Essarts,park,Carcassonne,,,,43.2411465,2.1113253
+399183827,way,Jardins de l'Hôtel de Ville,park,Carcassonne,,,,43.3171078,1.9534109
+419423353,way,Château de Villar-en-Val,castle,Carcassonne,,,,43.08354,2.459444
+419714513,way,,ruins,Carcassonne,,,,43.335617,2.3857765
+419717269,way,Église Saint-Étienne,attraction,Carcassonne,,,,43.371185,2.3617985
+419758827,way,Sabartès,ruins,Carcassonne,,,,43.3924055,2.38763
+419762893,way,Le Petit Pradellois,restaurant,Carcassonne,,,,43.4078025,2.4451745
+419785663,way,Le Térondel,ruins,Carcassonne,,,,43.3969685,2.331949
+441955480,way,Cité de Carcassonne,attraction,Carcassonne,,,,43.2064541,2.3637362
+541906166,way,Château,castle,Carcassonne,,,,43.2838017,2.5857973
+545343953,way,Château,castle,Carcassonne,,,,43.1837986,2.5588635
+545344517,way,Château de Miramont,attraction,Carcassonne,,,,43.1706971,2.5003244
+545346189,way,Château de Serviès-en-Val,castle,Carcassonne,,,,43.0886577,2.519448
+557348097,way,Domaine de Pinsaguel,park,Carcassonne,"11290, Pinsaguel",11290,https://domaine-pinsaguel.com/,43.1801428,2.1594286
+570066500,way,Tour Carbonac,attraction,Carcassonne,,,,43.1494364,2.4787108
+570303519,way,Tour de Mézolieux,monument,Carcassonne,,,,43.2586578,2.5264219
+572745249,way,Square Saint-Exupéry,park,Carcassonne,,,,43.2103852,2.4507508
+573162111,way,,garden,Carcassonne,,,,43.2108693,2.3511597
+573643749,way,,park,Carcassonne,,,,43.2089949,2.3336078
+574433657,way,,garden,Carcassonne,,,,43.2124168,2.3557496
+574433661,way,,garden,Carcassonne,,,,43.2122523,2.3560801
+574457831,way,,garden,Carcassonne,,,,43.2121181,2.3556649
+574457832,way,,garden,Carcassonne,,,,43.2120219,2.35564
+574457833,way,,garden,Carcassonne,,,,43.2121011,2.3561971
+574457834,way,,garden,Carcassonne,,,,43.212121,2.3565734
+577263757,way,,park,Carcassonne,,,,43.2305685,2.3896358
+577263758,way,,park,Carcassonne,,,,43.2270247,2.3926696
+577263761,way,,park,Carcassonne,,,,43.2316856,2.3914192
+583491439,way,,park,Carcassonne,,,,43.3200752,1.9477411
+583653779,way,,garden,Carcassonne,,,,43.3055867,1.9689332
+585071665,way,,garden,Carcassonne,,,,43.3635855,1.9876937
+585071670,way,,garden,Carcassonne,,,,43.3497528,1.984842
+585073906,way,,garden,Carcassonne,,,,43.3442608,1.9678172
+585073911,way,,garden,Carcassonne,,,,43.3441511,1.9688332
+585077670,way,,garden,Carcassonne,,,,43.3449722,1.9652664
+585151498,way,Bar Restaurant de la Gare,restaurant,Carcassonne,1 Avenue de la Gare,,,43.3125996,1.9501219
+585458673,way,,garden,Carcassonne,,,,43.33512,1.9845635
+593469379,way,,park,Carcassonne,,,,43.2758376,2.6599816
+612010040,way,Aqueduc d'Azille,attraction,Carcassonne,,,https://spibeo.com/laqueduc-romain-dazille/,43.260697,2.7008352
+612628073,way,,park,Carcassonne,,,,43.2812027,2.2332158
+639347474,way,Théatre de verdure,park,Carcassonne,,,,43.1474331,2.3211684
+639347491,way,Parc du Château,park,Carcassonne,,,,43.1468505,2.3217064
+661172164,way,,park,Carcassonne,,,,43.1865771,2.0330831
+742619837,way,,ruins,Carcassonne,,,,43.2502939,2.3467724
+750037264,way,,park,Carcassonne,,,,43.1877914,2.0333721
+753507028,way,Jardin du foyer,park,Carcassonne,,,,43.1938999,2.0927643
+762074462,way,,park,Carcassonne,,,,43.1869795,2.0313881
+762453684,way,,park,Carcassonne,,,,43.2812441,2.090435
+774598538,way,,park,Carcassonne,,,,43.2395455,2.1061281
+774598539,way,,park,Carcassonne,,,,43.2396948,2.1057773
+802414033,way,,park,Carcassonne,,,,43.1975613,2.3562942
+885090035,way,,park,Carcassonne,,,,43.1846891,2.4899441
+885090036,way,,garden,Carcassonne,,,,43.1827399,2.4909387
+951651498,way,,garden,Carcassonne,,,,43.3253586,2.5286472
+954234000,way,Abbaye de Caunes-Minervois,attraction,Carcassonne,,,https://www.caunes-minervois.org/index.php/labbaye/decouvrir-labbaye,43.3259068,2.5272075
+954932990,way,D - Self,restaurant,Carcassonne,,,,43.3052042,1.9399401
+958297958,way,Self,restaurant,Carcassonne,,,,43.3170735,1.9448656
+962330972,way,Cité de Carcassonne,attraction,Carcassonne,,,,43.2064097,2.363751
+976004997,way,Buffalo Grill,restaurant,Carcassonne,,,,43.3016588,1.9548583
+1018801561,way,,park,Carcassonne,,,,43.2113295,2.3784192
+1019957883,way,,park,Carcassonne,,,,43.2277197,2.0952586
+1019998544,way,,park,Carcassonne,,,,43.3201598,1.7635261
+1020583723,way,,park,Carcassonne,,,,43.2333195,1.8356131
+1020590572,way,,park,Carcassonne,,,,43.2012049,1.7929468
+1020799971,way,,park,Carcassonne,,,,43.2333801,1.9102693
+1020803758,way,,park,Carcassonne,,,,43.2236388,1.8983828
+1020803763,way,,park,Carcassonne,,,,43.223871,1.8897291
+1020820545,way,,park,Carcassonne,,,,43.2731678,1.8447563
+1020828227,way,,park,Carcassonne,,,,43.2656762,1.8665466
+1038685664,way,,park,Carcassonne,,,,43.1803503,2.4073054
+1041550688,way,Ibis Styles,hotel,Carcassonne,400 Avenue Gérard Rouvière,,,43.2937072,1.9529426
+1059578571,way,Donadéry,park,Carcassonne,,,https://ville-castelnaudary.fr/fr/culture-et-sorties/donadery,43.3029454,1.9728421
+1061880879,way,,park,Carcassonne,,,,43.215426,2.4722131
+1061880885,way,Le Jardin Médiéval,garden,Carcassonne,,,,43.2161196,2.4720785
+1066578348,way,Hôtel Good Knight,hotel,Carcassonne,,,https://www.hotelgoodknight.com/,43.20774,2.3671552
+1073308684,way,Brit Hotel Bosquet,hotel,Carcassonne,,,https://hotel-carcassonne-bosquet.brithotel.fr/,43.2062589,2.3838091
+1075230156,way,Hôtel La Bastide Saint-Martin,hotel,Carcassonne,,,https://www.hotelbastidesaintmartin.com/,43.2271455,2.3967248
+1081623447,way,Jardin du marquis de Gonet,park,Carcassonne,,,,43.2039342,2.3312766
+1084272810,way,,garden,Carcassonne,,,,43.2349571,2.3625339
+1088487909,way,,garden,Carcassonne,,,,43.3580864,1.8608938
+1088487911,way,,garden,Carcassonne,,,,43.3584618,1.8608503
+1088487926,way,,garden,Carcassonne,,,,43.3585623,1.861155
+1088487927,way,,garden,Carcassonne,,,,43.358947,1.8613951
+1088487928,way,,garden,Carcassonne,,,,43.3590107,1.8606966
+1100567570,way,Chapelle Notre-Dame-de-la-Lauze,ruins,Carcassonne,,,,43.2821759,2.482528
+1101522910,way,Nougalet,attraction,Carcassonne,"240 Rue Averroès, 11800, Trèbes",11800,https://www.nougalet.com,43.2044133,2.4205417
+1103412305,way,,castle,Carcassonne,,,,43.2671113,2.1241326
+1104494050,way,Mémorial des Mineurs et Métallos de la Montagne Noire,memorial,Carcassonne,,,,43.3358475,2.357984
+1118566361,way,Restaurant Téléskinautique,restaurant,Carcassonne,"Rue des Fleurs, 11150, Bram",11150,https://www.facebook.com/teleskinautiquebram/,43.2485204,2.1368243
+1137299330,way,Chapelle Saint-Clément,ruins,Carcassonne,,,,43.0402249,2.5348235
+1140699231,way,,garden,Carcassonne,,,,43.1337536,2.5869406
+1147659760,way,zone de battage,ruins,Carcassonne,,,,43.3671362,2.3912297
+1147659761,way,,ruins,Carcassonne,,,,43.3729645,2.3958386
+1147659762,way,,ruins,Carcassonne,,,,43.3727739,2.3969167
+1171306515,way,,memorial,Carcassonne,,,,43.1990036,2.1395821
+1172697200,way,,park,Carcassonne,,,,43.3129922,1.9696331
+1174219647,way,,garden,Carcassonne,,,,43.2134512,2.3455192
+1191561191,way,,park,Carcassonne,,,,43.2497412,2.6535557
+1191584164,way,Parc Carmen Péany,park,Carcassonne,,,https://www.mairiepuicheric.fr/le-parc-carmen-peany/,43.2228003,2.626863
+1194037355,way,,park,Carcassonne,,,,43.1848191,2.241
+1194037356,way,,park,Carcassonne,,,,43.1843023,2.2415384
+1209500621,way,,park,Carcassonne,,,,43.2192896,2.5073916
+1209897660,way,Église Saint-Cornélien,ruins,Carcassonne,,,,43.2385059,2.4765647
+1210022640,way,,garden,Carcassonne,,,,43.2820421,2.4772447
+1210435240,way,Chapelle Sainte-Anne,ruins,Carcassonne,,,,43.2809159,2.441931
+1214477748,way,,ruins,Carcassonne,,,,43.3383497,2.3766545
+1214477749,way,,ruins,Carcassonne,,,,43.3383088,2.3766836
+1217626304,way,,garden,Carcassonne,,,,43.2431203,2.3176211
+1221506334,way,,park,Carcassonne,,,,43.2227168,2.3458773
+1234723000,way,,park,Carcassonne,,,,43.2659551,2.0365948
+1234723002,way,,park,Carcassonne,,,,43.2685322,2.0346347
+1244219709,way,Place d'Occitanie,park,Carcassonne,,,,43.1823824,2.4891289
+1247827535,way,Jardins du Prieuré,park,Carcassonne,,,,43.2965245,2.3141093
+1247827536,way,Jardin médiéval l'Ort del Castrum,park,Carcassonne,,,,43.2967394,2.3131344
+1287597403,way,,park,Carcassonne,,,,43.2518225,2.367802
+1287732097,way,Pont-Vieux,attraction,Carcassonne,,,,43.2104723,2.3581015
+1287732098,way,Pont-Vieux,attraction,Carcassonne,,,,43.2098278,2.3609338
+1306579149,way,Brasserie Cocottes,restaurant,Carcassonne,,,,43.2930638,1.9526159
+1317888431,way,,ruins,Carcassonne,,,,43.3853024,2.1793763
+1330877401,way,Square d'Helsa,park,Carcassonne,,,,43.2123766,2.4536088
+1330899575,way,Square Jean Mermoz,park,Carcassonne,,,,43.2059832,2.4528611
+1338130477,way,Jardin public,garden,Carcassonne,,,,43.1839249,2.5112932
+1338230655,way,,park,Carcassonne,,,,43.1826036,2.5066743
+1338233270,way,,park,Carcassonne,,,,43.1853228,2.5042613
+1338246784,way,,park,Carcassonne,,,,43.1850512,2.5028667
+1359644724,way,,park,Carcassonne,,,,43.3322821,2.0409852
+1374840406,way,,ruins,Carcassonne,,,,43.3721513,2.4763219
+1374961698,way,,ruins,Carcassonne,,,,43.3316474,2.4751122
+1374961699,way,,ruins,Carcassonne,,,,43.3319609,2.474813
+1374961701,way,,ruins,Carcassonne,,,,43.3326448,2.4754401
+1374961702,way,,ruins,Carcassonne,,,,43.33521,2.4758349
+1374961704,way,,ruins,Carcassonne,,,,43.3395747,2.4786345
+1374961705,way,,ruins,Carcassonne,,,,43.3396604,2.4787729
+1374961706,way,,ruins,Carcassonne,,,,43.3395574,2.4792967
+1375632910,way,,ruins,Carcassonne,,,,43.3368335,2.3869073
+1377767294,way,,park,Carcassonne,,,,43.2678766,2.3572168
+1377768934,way,,park,Carcassonne,,,,43.2735636,2.3578442
+1377769134,way,,park,Carcassonne,,,,43.2712733,2.3571155
+1377772437,way,,park,Carcassonne,,,,43.2655179,2.3541125
+1393209562,way,,garden,Carcassonne,,,,43.1986766,2.2106712
+1410437504,way,,garden,Carcassonne,,,,43.1288857,2.558597
+1410915971,way,La Terrasse du Lauquet,park,Carcassonne,,,,43.1571329,2.3095067
+1413805497,way,,ruins,Carcassonne,,,,43.1583634,2.473017
+1413805498,way,,ruins,Carcassonne,,,,43.1582467,2.4733762
+1413805500,way,La Borio de Baichère,ruins,Carcassonne,,,,43.1542464,2.4811151
+1414173944,way,,ruins,Carcassonne,,,,43.2418438,2.453708
+1416120409,way,Château Comtal,castle,Carcassonne,,,https://monuments-nationaux.fr/,43.2071893,2.3631954
+1421335033,way,Jardin des Vents,garden,Carcassonne,,,,43.3172318,1.9623408
+1424754303,way,Parc de Villegly,park,Carcassonne,,,,43.2843033,2.4401734
+1432552503,way,,garden,Carcassonne,,,,43.1838119,2.4905137
+1444800103,way,,garden,Carcassonne,,,,43.1999897,2.143346
+1449257087,way,,park,Carcassonne,,,,43.2647347,1.8553456
+1453190980,way,,beach,Carcassonne,,,,43.4183467,2.281836
+1476256573,way,,park,Carcassonne,,,,43.3531368,1.9120852
+1482338330,way,,park,Carcassonne,,,,43.1467346,2.3249506
+1490921500,way,,garden,Carcassonne,,,,43.2072728,2.3606102
+1496787509,way,,memorial,Carcassonne,,,,43.210959,2.3503413
+1498075613,way,Château de Paulignan,castle,Carcassonne,,,,43.3174416,2.5825154
+1536191582,way,Parc du Château,park,Carcassonne,,,,43.2531886,2.4424285
+302044,relation,Canal du Midi,attraction,Carcassonne,,,,43.4050497,2.478324
+2734040,relation,Cité de Carcassonne,attraction,Carcassonne,,,,43.2064097,2.363751
+2928407,relation,Château de Puichéric,castle,Carcassonne,,,,43.2241785,2.6242815
+3174842,relation,Châteaux de Lastours,castle,Carcassonne,,,,43.336769,2.3780531
+3428646,relation,Château Lagoual,castle,Carcassonne,"11400, Lasbordes",11400,,43.298672,2.075705
+3444509,relation,,castle,Carcassonne,,,,43.2719695,2.142698
+5429932,relation,Abbaye de Saint-Papoul,attraction,Carcassonne,,,https://www.abbaye-saint-papoul.fr/,43.3307803,2.0336767
+15853124,relation,Parc de l'Estangbigou,park,Carcassonne,,,,43.3134388,1.9667718
+17931942,relation,Jardin Pierre et Maria Sire,park,Carcassonne,,,https://www.carcassonne.org/article-page/jardin-pierre-et-maria-sire,43.2097228,2.3600357

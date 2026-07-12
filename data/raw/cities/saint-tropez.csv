@@ -4,9 +4,13 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 1291363086,node,Lou Riou,hotel,Saint-Tropez,,,,43.2618822,6.6858078
 1343795011,node,Plage des Graniers,restaurant,Saint-Tropez,,,,43.2706729,6.6478429
 1350718013,node,Le Byblos,hotel,Saint-Tropez,,,https://www.byblos.com/,43.2704133,6.6437502
+1723311173,node,Batterie du Capon,beach,Saint-Tropez,,,,43.252338,6.690412
+2288200229,node,Émile Ollivier - 1825-1915,memorial,Saint-Tropez,,,,43.2614031,6.6949093
 2389843622,node,Le Gorille,restaurant,Saint-Tropez,,,,43.2720145,6.6393495
+2389843624,node,Musée d'Histoire Maritime de Saint-Tropez,museum,Saint-Tropez,,,https://www.sainttropeztourisme.com/fr/explorer/musees-lieux-remarquables/le-musee-de-l-histoire-maritime-de-saint-tropez/,43.2725074,6.6442219
 2389868583,node,Hôtel de la Ponche,hotel,Saint-Tropez,"5 Rue des Remparts, 83990, Saint Tropez",83990,http://laponche.com,43.2730799,6.6408761
 2389868584,node,Bòu,restaurant,Saint-Tropez,"26 Quai Frédéric Mistral, 83990, Saint Tropez",83990,http://bou-restaurant.com,43.2737718,6.6389189
+2522440910,node,Viewpoint of St. Tropez,viewpoint,Saint-Tropez,,,,43.2733686,6.6368453
 3129813780,node,À L'amitié,restaurant,Saint-Tropez,"17 Rue de la Ponche, 83990",83990,,43.2733223,6.6405953
 3129819024,node,Le Schpountz,restaurant,Saint-Tropez,1,,,43.2720051,6.6412812
 3740112650,node,L’Opéra,restaurant,Saint-Tropez,"Résidence du Port, 83990",83990,,43.2715538,6.6370794
@@ -18,37 +22,58 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 4965949176,node,Le Quai,restaurant,Saint-Tropez,"22 Quai Jean Jaurès, 83990, Saint-Tropez",83990,http://www.lequaisaint-tropez.com/fr/,43.2724122,6.6391008
 4965953793,node,Le Girelier,restaurant,Saint-Tropez,"Quai Jean Jaurès, 83990, Saint-Tropez",83990,https://www.legirelier.fr/fr,43.272517,6.6390651
 4965958975,node,Marcellino,restaurant,Saint-Tropez,"19 Quai Jean Jaurès, 83990, Saint-Tropez",83990,,43.2726235,6.6390353
+5043242744,node,,memorial,Saint-Tropez,,,,43.2740515,6.6387563
 5649006364,node,Pizzeria Bruno,restaurant,Saint-Tropez,,,,43.2727844,6.6395639
 5701362922,node,"El Mad Bar, Vins, Tapas",restaurant,Saint-Tropez,,,,43.2697012,6.6387368
 5701368121,node,Le Bikini,restaurant,Saint-Tropez,,,,43.2610037,6.6299867
 5774329647,node,Le Café,restaurant,Saint-Tropez,,,,43.2697752,6.6416497
+6034495633,node,Maison des Papillons,museum,Saint-Tropez,"17, 83990, Saint-Tropez",83990,,43.2707626,6.6385318
 6237755588,node,GAÏO,restaurant,Saint-Tropez,"4 Rue du 11 Novembre 1918, 83990",83990,,43.2714159,6.6369051
 6535519285,node,Le Sporting,restaurant,Saint-Tropez,Saint-Tropez,,,43.2699868,6.6401963
 6564915365,node,Au Caprice des Deux,restaurant,Saint-Tropez,40 Rue du Portail Neuf,,,43.2716205,6.6408151
 6564915366,node,Bistro Pastis,restaurant,Saint-Tropez,18 Rue Henri Seillon,,,43.2703748,6.6365679
+6785136175,node,,viewpoint,Saint-Tropez,,,,43.2725287,6.6441558
+6785136176,node,,viewpoint,Saint-Tropez,,,,43.2724362,6.6444808
 6815816206,node,La Petite Plage,restaurant,Saint-Tropez,9 Quai Jean Jaurès,,https://www.lapetiteplage-saint-tropez.com/,43.2729301,6.6388538
 7254848021,node,Le Mandala,hotel,Saint-Tropez,,,,43.268291,6.6466713
 7254874996,node,Rivéa,restaurant,Saint-Tropez,,,,43.2698045,6.6431678
 7254875002,node,Café des Arts,restaurant,Saint-Tropez,,,,43.2699784,6.6420486
+7254875020,node,Lawrence Jenkell,gallery,Saint-Tropez,,,,43.2705303,6.6415207
 7254883203,node,B&B Italia,hotel,Saint-Tropez,,,,43.2691382,6.6442657
 8069687763,node,Hôtel de Paris,hotel,Saint-Tropez,,,https://hoteldeparis-sainttropez.com,43.2696662,6.6359514
 8069687764,node,Le Pationata,restaurant,Saint-Tropez,,,,43.270089,6.6356336
+8941343905,node,Jean Moulin,monument,Saint-Tropez,,,,43.2695957,6.6393779
 9065273367,node,Gandhi,restaurant,Saint-Tropez,3 Allée du Quai de l’Epi,,,43.2715032,6.6355091
 9065273538,node,Pearl Beach,restaurant,Saint-Tropez,,,,43.2666601,6.6254858
 9091348617,node,Saint-Tropez,restaurant,Saint-Tropez,"20 Rue Étienne Berny, 83990",83990,https://www.casacrilamaisondesjumeaux.com/fr/,43.2702433,6.6391053
+9915512498,node,,artwork,Saint-Tropez,,,,43.2716652,6.6390371
+9915512503,node,De Gaulle,memorial,Saint-Tropez,,,,43.2702157,6.6405911
+9915512504,node,Soldats Américains,memorial,Saint-Tropez,,,,43.2702517,6.6405435
+9915512505,node,Libération du 15 août 1944,memorial,Saint-Tropez,,,,43.2702861,6.6404794
 11090096005,node,Clandestino Saint Tropez,restaurant,Saint-Tropez,"15 Rue de la Citadelle, 83990",83990,,43.2722034,6.6408176
 11231198462,node,Salama,restaurant,Saint-Tropez,1 Chemin des Conquettes,,https://www.salama-saint-tropez.com/,43.2674635,6.6391823
+11293657669,node,,viewpoint,Saint-Tropez,,,,43.2731865,6.6432539
 12126371215,node,La Table de La Messardière,restaurant,Saint-Tropez,,,https://airelles.com/fr/destination/chateau-de-la-messardiere-hotel/restaurants/la-table-saint-tropez-restaurant,43.2536162,6.6586887
 12143045502,node,"La PeSQuière, Le Mazagran et Lou Revelen",restaurant,Saint-Tropez,Place du Revelin,,https://www.lapesquiere.fr/,43.2733271,6.6408603
+12194379643,node,Galeries Orlinski,gallery,Saint-Tropez,,,,43.2706871,6.6371093
+12194382847,node,,gallery,Saint-Tropez,,,,43.2701252,6.636313
 12194433941,node,,restaurant,Saint-Tropez,,,,43.272963,6.6388704
 12194449141,node,,restaurant,Saint-Tropez,,,,43.2732327,6.6407207
 12194460532,node,,restaurant,Saint-Tropez,,,,43.2731673,6.6407525
+12194462080,node,,gallery,Saint-Tropez,,,,43.2732447,6.6404724
 12200925786,node,Louis Vitton,restaurant,Saint-Tropez,,,,43.2703147,6.6410484
+12227689108,node,Evocation de BB,artwork,Saint-Tropez,,,,43.25807,6.7035994
+12227794973,node,Brigitte Bardot,artwork,Saint-Tropez,,,,43.269382,6.6355102
 12330729526,node,,restaurant,Saint-Tropez,,,,43.27106,6.6368337
 12330730341,node,La Perla d'Asie,restaurant,Saint-Tropez,,,,43.2674192,6.6304627
 12330740008,node,,hotel,Saint-Tropez,,,,43.2667605,6.6289757
 12330748666,node,,restaurant,Saint-Tropez,,,,43.2711615,6.6368423
+12330954555,node,,viewpoint,Saint-Tropez,,,,43.2733383,6.6408804
+12330954755,node,,gallery,Saint-Tropez,,,,43.2731316,6.6399559
+12330961974,node,,gallery,Saint-Tropez,,,,43.2726149,6.6399326
 12330962247,node,,hotel,Saint-Tropez,,,,43.2722015,6.6415108
+12330963846,node,,viewpoint,Saint-Tropez,,,,43.2738586,6.6413954
+12330963847,node,,viewpoint,Saint-Tropez,,,,43.2733637,6.6410963
 12330964825,node,,restaurant,Saint-Tropez,,,,43.2729817,6.639386
 12331080076,node,,hotel,Saint-Tropez,,,,43.2670026,6.6296443
 12331081603,node,,restaurant,Saint-Tropez,,,,43.2650071,6.6251321
@@ -60,3 +85,53 @@ osm_id,osm_type,name,category,city,address,postcode,website,lat,lon
 12992303404,node,Aux Deux Frères,restaurant,Saint-Tropez,,,,43.2724876,6.6398081
 13730614605,node,Le Clemenceau,restaurant,Saint-Tropez,,,,43.2700208,6.6402735
 13825426801,node,FATTO BENE SAINT TROPEZ,restaurant,Saint-Tropez,"46 Avenue du Général Leclerc, 83990",83990,http://fattobenepizza.wixsite.com,43.2678892,6.6317294
+30514273,way,Plage des Salins,beach,Saint-Tropez,,,,43.2589778,6.6924632
+33806686,way,Place des Lices,attraction,Saint-Tropez,,,,43.2699881,6.6412319
+62032722,way,Plage de la Bouillabaisse,beach,Saint-Tropez,,,,43.2660013,6.6244284
+118373286,way,Plage de la Garrigue,beach,Saint-Tropez,,,,43.2482527,6.6802642
+119673752,way,Plage des Graniers,beach,Saint-Tropez,,,,43.2707014,6.6483063
+172531620,way,Plage de la Ponche,beach,Saint-Tropez,,,,43.2734716,6.6411653
+179759846,way,,castle,Saint-Tropez,,,,43.2716865,6.6765245
+179759850,way,Hôtel Le Pré de la Mer,hotel,Saint-Tropez,"Route des Salins, 83990, Saint-Tropez",83990,,43.2638775,6.6687945
+179761929,way,Château de la Moutte,castle,Saint-Tropez,,,,43.2623765,6.6873315
+179777416,way,,hotel,Saint-Tropez,,,,43.2721975,6.640952
+179777467,way,,hotel,Saint-Tropez,,,,43.2706665,6.6409715
+179777469,way,,hotel,Saint-Tropez,,,,43.2718705,6.641877
+179777498,way,,hotel,Saint-Tropez,,,,43.272223,6.641108
+179777625,way,,hotel,Saint-Tropez,,,,43.271996,6.6411405
+179777700,way,,hotel,Saint-Tropez,,,,43.2718885,6.640892
+179777714,way,,hotel,Saint-Tropez,,,,43.271448,6.6410505
+179777915,way,,hotel,Saint-Tropez,,,,43.271681,6.642061
+179777946,way,,hotel,Saint-Tropez,,,,43.2714795,6.642464
+179778270,way,,hotel,Saint-Tropez,,,,43.2730695,6.6409025
+179778310,way,,hotel,Saint-Tropez,,,,43.271708,6.642108
+179778457,way,Le Patio,hotel,Saint-Tropez,,,,43.2723715,6.641082
+179778471,way,Maison du Corsaire,hotel,Saint-Tropez,,,,43.271685,6.6393035
+179780736,way,"Hotel Ventura Saint-Tropez, Tapestry Collection by Hilton",hotel,Saint-Tropez,"1 Chemin des Amoureux, 83990, Saint-Tropez",83990,https://www.hilton.com/en/hotels/lttopup-hotel-ventura-saint-tropez/,43.2679985,6.634741
+179780771,way,Beach Café,restaurant,Saint-Tropez,,,,43.2657805,6.6248305
+179780946,way,Musée de l'Annonciade,museum,Saint-Tropez,,,https://www.saint-tropez.fr/culture/musee-de-lannonciade,43.271072,6.6370535
+179782164,way,Musée de la gendarmerie et du cinéma,museum,Saint-Tropez,"2 Place Blanqui, Saint-Tropez",,https://www.saint-tropez.fr/fr/Culture/Mus%C3%A9es/Mus%C3%A9edelagendarmerieetducin%C3%A9ma/tabid/632/Default.aspx,43.2696375,6.6355385
+179782165,way,,museum,Saint-Tropez,,,,43.269741,6.635451
+179782729,way,La Vague d'Or,restaurant,Saint-Tropez,,,,43.26696,6.627239
+338102623,way,Plage des Canoubiers,beach,Saint-Tropez,,,,43.2653359,6.6644697
+338102624,way,Plage des Canoubiers,beach,Saint-Tropez,,,,43.2672523,6.6684911
+338488283,way,Plage de la Fontanette,beach,Saint-Tropez,,,,43.2737752,6.6420997
+339368722,way,Plage de la Glaye,beach,Saint-Tropez,,,,43.2736285,6.6399077
+365880459,way,Sauveteurs en mer,monument,Saint-Tropez,,,,43.2671331,6.6287982
+376095724,way,,beach,Saint-Tropez,,,,43.2747892,6.6820946
+691473345,way,Parc de la citadelle,park,Saint-Tropez,,,,43.2717344,6.6447206
+706968676,way,Château de la Messardière,hotel,Saint-Tropez,"2 Route de Tahiti, 83990, Saint-Tropez",83990,https://www.messardiere.com/,43.2536231,6.6589683
+724517360,way,Ti' Cabanon,restaurant,Saint-Tropez,"Route des Salins, 83990, Saint-Tropez",83990,,43.263504,6.6683442
+865753344,way,,hotel,Saint-Tropez,,,,43.2701139,6.6358786
+865753345,way,,hotel,Saint-Tropez,,,,43.2700301,6.6360509
+865753348,way,,hotel,Saint-Tropez,,,,43.2696078,6.6358883
+865753350,way,,hotel,Saint-Tropez,,,,43.269941,6.6358534
+865753352,way,,hotel,Saint-Tropez,,,,43.269841,6.6358906
+915792271,way,Plage de Capon,beach,Saint-Tropez,,,,43.2541255,6.6904661
+1079794071,way,,park,Saint-Tropez,,,,43.2730694,6.6430789
+1332909721,way,,beach,Saint-Tropez,,,,43.2671302,6.6279689
+1366536545,way,,garden,Saint-Tropez,,,,43.2535457,6.6589102
+1366536550,way,,garden,Saint-Tropez,,,,43.2552873,6.654678
+1384255826,way,Parc Du Chateau de La Moutte,park,Saint-Tropez,83990,,,43.2620435,6.6865165
+8670457,relation,,hotel,Saint-Tropez,,,,43.271408,6.639397
+10716495,relation,Plage de la Moutte,beach,Saint-Tropez,,,,43.2658571,6.6963081
