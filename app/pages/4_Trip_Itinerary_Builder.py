@@ -49,7 +49,7 @@ DAY_COLORS = ["red", "blue", "green", "purple", "orange", "darkred", "cadetblue"
 ORS_MODE = {"Walking": "foot-walking", "Driving": "driving-car"}
 SPEED_KMH = {"Walking": 4.5, "Driving": 30}  # rough estimates for planning purposes only
 
-st.header("🗺️ Trip Itinerary Builder")
+st.header("Trip Itinerary Builder")
 st.write(
     "Pick a city, your interests, and how many days you have — this builds a "
     "day-by-day route through nearby points of interest so you're not "
