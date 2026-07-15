@@ -50,7 +50,7 @@ st.subheader("📊 Data Sources")
 st.markdown("""
 This project combines data from multiple public sources:
 
-- 🌍 OpenStreetMap (Hotels and Restaurants)
+- 🌍 OpenStreetMap (Hotels, Restaurants and Attractions)
 - 🌤️ Open-Meteo API (Current, Forecast, and Historical Weather)
 - 🗺️ Geographic coordinates for French cities
 """)

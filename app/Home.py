@@ -52,20 +52,25 @@ st.divider()
 # ---------- GET STARTED ----------
 st.header("Get Started")
 
-left, right = st.columns(2)
+col1, col2, col3 = st.columns(3)
 
-with left:
+with col1:
     st.markdown("### First-time visitor?")
     st.write(
-        "Start with **Explore France** to see hotels and restaurants on the map."
+        "Start with **Explore France** to see hotels, restaurants and other atractions on the map."
     )
 
-with right:
+with col2:
     st.markdown("### Want to compare destinations?")
     st.write(
         "Go to **City Analytics** to compare cities and find the best time to visit."
     )
 
+with col3:
+    st.markdown("### Want to plan your trip?")
+    st.write(
+        "Go to **Trip Itinerary Builder** to create an itinerary."
+    )
 st.divider()
 
 # ---------- SIMPLE FOOTER ----------

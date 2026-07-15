@@ -1,6 +1,5 @@
 # Virtual Environment
 project3/
-env/
 
 # Environment variables (for API keys)
 .env 
