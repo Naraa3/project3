@@ -107,7 +107,7 @@ if len(map_df) > 0:
     m = folium.Map(
         location=[map_df["lat"].mean(), map_df["lon"].mean()],
         zoom_start=12,
-        tiles="CartoDB dark_matter"
+        tiles="OpenStreetMap"
     )
     style_folium_map(m)
     marker_cluster = MarkerCluster().add_to(m)
@@ -182,9 +182,10 @@ if len(destination_options) > 0:
                         destination_coords = [destination_lon, destination_lat]
 
                         route = ors_client.directions(
-                            coordinates=[origin_coords, destination_coords],
-                            profile=ORS_MODE[travel_mode],
-                            format="geojson"
+                        coordinates=[origin_coords, destination_coords],
+                        profile=ORS_MODE[travel_mode],
+                        format="geojson",
+                        radiuses=[1000, 1000]
                         )
 
                         route_coords = route["features"][0]["geometry"]["coordinates"]
@@ -221,7 +222,7 @@ if len(destination_options) > 0:
             route_map = folium.Map(
                 location=[result["destination_lat"], result["destination_lon"]],
                 zoom_start=13,
-                tiles="CartoDB dark_matter"
+                tiles="OpenStreetMap"
             )
             style_folium_map(route_map)
             folium.Marker(
