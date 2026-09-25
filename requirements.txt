@@ -1,13 +1,10 @@
 pandas==2.2.0
 requests==2.31.0
 SQLAlchemy
-pandas
 streamlit
-psycopg 
-pg8000
-psycopg2-binary
+psycopg[binary]
 openrouteservice
 plotly
-dotenv
+python-dotenv
 folium
-streamlit_folium
+streamlit-folium
