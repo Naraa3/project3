@@ -1,7 +1,10 @@
-from sqlalchemy import create_engine
-from sqlalchemy import text
+import os
+from sqlalchemy import create_engine, text
 
-engine = create_engine("postgresql://neondb_owner:npg_MBG4insD6VQe@ep-old-recipe-atuuayxa-pooler.c-9.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require")
+DATABASE_URL = os.getenv("DATABASE_URL")
+
+engine = create_engine(DATABASE_URL)
+
 with engine.connect() as conn:
     result = conn.execute(text("SELECT 1"))
     print(result.fetchall())

@@ -166,7 +166,7 @@ st.subheader("Itinerary Overview")
 
 center_lat = sampled_df["lat"].mean()
 center_lon = sampled_df["lon"].mean()
-m = folium.Map(location=[center_lat, center_lon], zoom_start=13, tiles="CartoDB dark_matter")
+m = folium.Map(location=[center_lat, center_lon], zoom_start=13, tiles="OpenStreetMap")
 style_folium_map(m)
 
 for day_idx, stops in enumerate(day_groups):
@@ -234,9 +234,10 @@ else:
         try:
             coordinates = [[s["lon"], s["lat"]] for s in focus_stops]
             route = ors_client.directions(
-                coordinates=coordinates,
-                profile=ORS_MODE[travel_mode],
-                format="geojson"
+            coordinates=coordinates,
+            profile="foot-walking",
+            format="geojson",
+            radiuses=[1000] * len(coordinates)
             )
             route_coords = route["features"][0]["geometry"]["coordinates"]
             route_line = [[c[1], c[0]] for c in route_coords]
@@ -263,7 +264,7 @@ else:
         route_map = folium.Map(
             location=[result["stops"][0]["lat"], result["stops"][0]["lon"]],
             zoom_start=14,
-            tiles="CartoDB dark_matter"
+            tiles="OpenStreetMap"
         )
         style_folium_map(route_map)
         for stop_idx, stop in enumerate(result["stops"], start=1):
